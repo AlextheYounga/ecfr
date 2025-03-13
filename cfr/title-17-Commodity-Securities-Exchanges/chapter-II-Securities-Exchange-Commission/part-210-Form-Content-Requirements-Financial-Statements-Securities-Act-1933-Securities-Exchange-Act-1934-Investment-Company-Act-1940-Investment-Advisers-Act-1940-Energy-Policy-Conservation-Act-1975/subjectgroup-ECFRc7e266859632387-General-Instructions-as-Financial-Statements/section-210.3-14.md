@@ -1,7 +1,5 @@
 ##### § 210.3-14 Special instructions for financial statements of real estate operations acquired or to be acquired. #####
 
-Link to an amendment published at 89 FR 14314, Feb. 26, 2024.
-
 (a) *Financial statements required.* (1) Financial statements (except the related schedules specified in § 210.12) prepared and audited in accordance with Regulation S-X (including the independence standards in § 210.2-01 or, alternatively if the real estate operation is not a registrant, the applicable independence standards) for the periods specified in paragraph (b) of this section and the supplemental information specified in paragraph (f) of this section must be filed if any of the following conditions exist:
 
 (i) During the most recent fiscal year or subsequent interim period for which a balance sheet is required by § 210.3-01, an acquisition of a real estate operation has occurred; or
@@ -18,7 +16,7 @@ Link to an amendment published at 89 FR 14314, Feb. 26, 2024.
 
 (i) They are under common control or management;
 
-(ii) The acquisition of one real estate operation is conditional on the acquisition of each other real estate operation; or
+(ii) A registrant, other than a foreign private issuer required to file reports on Form 6-K (§ 249.306 of this chapter) or shell company (other than a business combination related shell company), that omits from its initial registration statement financial statements of a recently consummated acquisition of a real estate operation pursuant to paragraph (b)(3)(i) of this section must file those financial statements and any pro forma information specified by §§ 210.11-01 through 210.11-03 (Article 11) under cover of Form 8-K (§ 249.308 of this chapter) no later than 75 days after consummation of the acquisition. When a predecessor to a shell company (other than a business combination related shell company) acquires a real estate operation and the financial statements of that recently consummated acquisition of a real estate operation are omitted from a registration statement or proxy statement pursuant to paragraph (b)(3)(i) of this section, refer to § 210.15-01(d)(2).
 
 (iii) Each acquisition is conditioned on a single common event.
 
@@ -72,4 +70,4 @@ Link to an amendment published at 89 FR 14314, Feb. 26, 2024.
 
 *Instruction 1 to paragraph (f):* When the financial statements are presented in Form S-11 (§ 239.18 of this chapter), the discussion of material factors considered should supplement the disclosures required by Item 15 of Form S-11.
 
-[85 FR 54062, Aug. 31, 2020]
+[85 FR 54062, Aug. 31, 2020, as amended at 89 FR 14314, Feb. 26, 2024]

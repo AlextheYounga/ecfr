@@ -1,6 +1,4 @@
-##### § 4.8 Appeal of denial. #####
-
-Link to an amendment published at 89 FR 35687, May 2, 2024.
+##### § 4.8 Mediation services and appeal of denial. #####
 
 (a) Any person who has been notified pursuant to § 4.7(h) of this part that his/her request for inspection of a record or for a copy has been denied, or who has received no response within twenty working days (or within such extended period as is permitted under § 4.7(c) of this part) after the request has been received by the Commission, may appeal the adverse determination or the failure to respond by requesting the Commission to direct that the record be made available.
 
@@ -16,4 +14,6 @@ Link to an amendment published at 89 FR 35687, May 2, 2024.
 
 (g) Because of the risk of misunderstanding inherent in oral communications, the Commission will not entertain any appeal from an alleged denial or failure to comply with an oral request. Any person who has orally requested a copy of a record that he/she believes to have been improperly denied should resubmit the request in writing as set forth in § 4.7.
 
-[44 FR 33368, June 8, 1979, as amended at 50 FR 50778, Dec. 12, 1985; 75 FR 31, Jan. 4, 2010; 79 FR 16663, Mar. 26, 2014; 81 FR 34863, June 1, 2016; 82 FR 60853, Dec. 26, 2017; 89 FR 213, Jan. 2, 2024]
+(h) The National Archives and Records Administration (NARA), Office of Government Information Services (OGIS) offers non-compulsory, non-binding mediation services to help resolve FOIA disputes as a non-exclusive alternative to litigation. A requester may contact OGIS at: Office of Government Information Services, National Archives and Records Administration, 8601 Adelphi Road, College Park, MD 20740-6001; email: *ogis@nara.gov*; telephone 202-741-5770; fax: 202-741-5769; online: *https://www.archives.gov/ogis*.
+
+[44 FR 33368, June 8, 1979, as amended at 50 FR 50778, Dec. 12, 1985; 75 FR 31, Jan. 4, 2010; 79 FR 16663, Mar. 26, 2014; 81 FR 34863, June 1, 2016; 82 FR 60853, Dec. 26, 2017; 89 FR 213, Jan. 2, 2024; 89 FR 35687, May 2, 2024]

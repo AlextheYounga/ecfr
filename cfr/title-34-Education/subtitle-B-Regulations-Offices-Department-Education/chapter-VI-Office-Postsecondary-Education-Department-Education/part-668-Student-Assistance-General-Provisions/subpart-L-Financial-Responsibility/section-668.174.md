@@ -1,12 +1,10 @@
 ##### § 668.174 Past performance. #####
 
-Link to an amendment published at 88 FR 74707, Oct. 31, 2023.
-
 (a) *Past performance of an institution.* An institution is not financially responsible if the institution—
 
 (1) Has been limited, suspended, terminated, or entered into a settlement agreement to resolve a limitation, suspension, or termination action initiated by the Secretary or a guaranty agency, as defined in 34 CFR part 682, within the preceding five years;
 
-(2) In either of its two most recent compliance audits had an audit finding, or in a report issued by the Secretary had a program review finding for its current fiscal year or either of its preceding two fiscal years, that resulted in the institution's being required to repay an amount greater than 5 percent of the funds that the institution received under the title IV, HEA programs during the year covered by that audit or program review;
+(2) In either of its two most recently submitted compliance audits had a final audit determination or in a Departmentally issued report, including a final program review determination report, issued in its current fiscal year or either of its preceding two fiscal years, had a program review finding that resulted in the institution's being required to repay an amount greater than five percent of the funds that the institution received under the title IV, HEA programs during the year covered by that audit or program review;
 
 (3) Has been cited during the preceding five years for failure to submit in a timely fashion acceptable compliance and financial statement audits required under this part, or acceptable audit reports required under the individual title IV, HEA program regulations; or
 
@@ -24,7 +22,7 @@ Link to an amendment published at 88 FR 74707, Oct. 31, 2023.
 
 (2) The Secretary may determine that an institution is financially responsible, even if the institution is not otherwise financially responsible under paragraph (b)(1) of this section, if—
 
-(i) The institution notifies the Secretary, within the time permitted and in the manner provided under 34 CFR 600.30, that the person or entity referenced in paragraph (b)(1) of this section exercises substantial control over the institution; and
+(i) The institution notifies the Department, within the time permitted and as provided under 34 CFR 600.21, that the person or entity referenced in paragraph (b)(1) of this section exercises substantial control over the institution; and
 
 (ii) The person or entity referenced in paragraph (b)(1) of this section repaid to the Secretary a portion of the applicable liability, and the portion repaid equals or exceeds the greater of—
 
@@ -42,13 +40,15 @@ Link to an amendment published at 88 FR 74707, Oct. 31, 2023.
 
 (B) The person or entity who exercises substantial control over the institution and each member of that person's family nevertheless does not or did not exercise substantial control over the institution or servicer that owes the liability.
 
-(c) *Ownership interest.* (1) An ownership interest is a share of the legal or beneficial ownership or control of, or a right to share in the proceeds of the operation of, an institution, an institution's parent corporation, a third-party servicer, or a third-party servicer's parent corporation. The term “ownership interest” includes, but is not limited to—
+(3) An institution is not financially responsible if an owner who exercises substantial control, or the owner's spouse, has been in default on a Federal student loan, including parent PLUS loans, in the preceding five years, unless—
 
-(i) An interest as tenant in common, joint tenant, or tenant by the entireties;
+(i) The defaulted Federal student loan has been fully repaid and five years have elapsed since the repayment in full;
 
-(ii) A partnership; and
+(ii) The defaulted Federal student loan has been approved for, and the borrower is in compliance with, a rehabilitation agreement and has been current for five consecutive years; or
 
-(iii) An interest in a trust.
+(iii) The defaulted Federal student loan has been discharged, canceled, or forgiven by the Department.
+
+(c) *Ownership interest.* (1) An ownership interest is defined in 34 CFR 600.31(b).
 
 (2) The term “ownership interest” does not include any share of the ownership or control of, or any right to share in the proceeds of the operation of a profit-sharing plan, provided that all employees are covered by the plan.
 
@@ -68,4 +68,4 @@ Link to an amendment published at 88 FR 74707, Oct. 31, 2023.
 
 (4) “Family member” is defined in § 600.21(f) of this chapter.
 
-(Approved by the Office of Management and Budget under control number 1840-0537) [62 FR 62877, Nov. 25, 1997, as amended at 63 FR 40348, 40349, July 28, 1998; 67 FR 67075, Nov. 1, 2002; 85 FR 54818, Sept. 2, 2020]
+(Approved by the Office of Management and Budget under control number 1840-0537) [62 FR 62877, Nov. 25, 1997, as amended at 63 FR 40348, 40349, July 28, 1998; 67 FR 67075, Nov. 1, 2002; 85 FR 54818, Sept. 2, 2020; 88 FR 74707, Oct. 31, 2023]

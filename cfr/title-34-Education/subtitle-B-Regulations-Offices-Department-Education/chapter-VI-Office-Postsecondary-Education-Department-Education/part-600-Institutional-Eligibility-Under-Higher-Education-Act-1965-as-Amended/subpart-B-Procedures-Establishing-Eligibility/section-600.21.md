@@ -1,8 +1,6 @@
 ##### § 600.21 Updating application information. #####
 
-Link to an amendment published at 88 FR 70185, Oct. 10, 2023.
-
-(a) *Reporting requirements.* Except as provided in paragraph (b) of this section, an eligible institution must report to the Secretary, in a manner prescribed by the Secretary no later than 10 days after the change occurs, any change in the following:
+(a) *Reporting requirements.* Except as provided in paragraph (b) of this section, an eligible institution must report to the Secretary, in a manner prescribed by the Secretary and no later than 10 days after the change occurs, any change in the following:
 
 (1) Its name, the name of a branch, or the name of a previously reported location.
 
@@ -46,9 +44,11 @@ Link to an amendment published at 88 FR 70185, Oct. 10, 2023.
 
 (iii) Ceasing to provide the program for at least 12 consecutive months;
 
-(iv) Losing program eligibility under § 600.40; or
+(iv) Losing program eligibility under § 600.40;
 
-(v) Changing the program's name, CIP code or
+(v) Changing the program's name, classification of instructional program (CIP) code, or credential level; or
+
+(vi) Updating the certification pursuant to 34 CFR 668.604(b).
 
 (12) Its addition of a second or subsequent direct assessment program.
 
@@ -76,4 +76,4 @@ Link to an amendment published at 88 FR 70185, Oct. 10, 2023.
 
 (4) Sibling's spouse.
 
-(Approved by the Office of Management and Budget under control number 1845-0012) [65 FR 65673, Nov. 1, 2000, as amended at 67 FR 67070, Nov. 1, 2002; 71 FR 45692, Aug. 9, 2006; 75 FR 67193, Nov. 1, 2010; 79 FR 65006, Oct. 31, 2014; 84 FR 31452, July 1, 2019; 85 FR 54812, Sept. 2, 2020; 87 FR 65488, Oct. 28, 2022]
+(Approved by the Office of Management and Budget under control number 1845-0012) [65 FR 65673, Nov. 1, 2000, as amended at 67 FR 67070, Nov. 1, 2002; 71 FR 45692, Aug. 9, 2006; 75 FR 67193, Nov. 1, 2010; 79 FR 65006, Oct. 31, 2014; 84 FR 31452, July 1, 2019; 85 FR 54812, Sept. 2, 2020; 87 FR 65488, Oct. 28, 2022; 88 FR 70185, Oct. 10, 2023]

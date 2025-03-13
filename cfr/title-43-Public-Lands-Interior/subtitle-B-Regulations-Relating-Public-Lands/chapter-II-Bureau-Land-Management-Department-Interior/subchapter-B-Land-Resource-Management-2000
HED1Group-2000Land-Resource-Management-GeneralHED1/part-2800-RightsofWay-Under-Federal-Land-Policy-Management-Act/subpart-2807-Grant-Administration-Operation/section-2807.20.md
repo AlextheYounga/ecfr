@@ -1,10 +1,8 @@
 ##### § 2807.20 When must I amend my application, seek an amendment of my grant, or obtain a new grant? #####
 
-Link to an amendment published at 89 FR 35682, May 1, 2024.
-
 (a) You must amend your application or seek an amendment of your grant when there is a proposed substantial deviation in location or use.
 
-(b) The requirements to amend an application or grant are the same as those for a new application, including paying cost recovery fees and rent according to §§ 2804.14, 2805.16, and 2806.10.
+(b) The requirements to amend an application or grant are the same as those for a new application, including paying processing and monitoring fees and rent according to §§ 2804.14, 2805.16, and 2806.10, except for solar and wind energy development grants and leases per § 2806.51(c) requesting a rent adjustment addressed under paragraph (f) of this section.
 
 (c) Any activity not authorized by your grant may subject you to prosecution under applicable law and to trespass charges under subpart 2808 of this part.
 
@@ -26,4 +24,6 @@ Link to an amendment published at 89 FR 35682, May 1, 2024.
 
 (3) The lands involved are not within an incorporated community.
 
-[70 FR 21058, Apr. 22, 2005, as amended at 89 FR 25965, Apr. 12, 2024]
+(f) A request to the BLM per § 2806.51(c) to adjust your solar or wind energy rates must be received before July 1, 2026. The BLM will re-issue your grant or lease, without further review, for the remainder of your existing term consistent with the requirements of this part, including processing and monitoring costs under §§ 2804.14 and 2805.16, the terms and conditions under § 2805.12, and rent provision under § 2806.50.
+
+[70 FR 21058, Apr. 22, 2005, as amended at 89 FR 25965, Apr. 12, 2024; 89 FR 35682, May 1, 2024]

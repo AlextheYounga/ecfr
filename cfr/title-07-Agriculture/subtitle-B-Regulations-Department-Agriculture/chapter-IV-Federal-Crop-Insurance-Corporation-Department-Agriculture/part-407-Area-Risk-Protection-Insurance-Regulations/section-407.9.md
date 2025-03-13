@@ -1,6 +1,6 @@
 ##### § 407.9 Area risk protection insurance policy. #####
 
-Link to an amendment published at 89 FR 53829, June 27, 2024.[FCIC policies]Department of AgricultureFederal Crop Insurance CorporationArea Risk Protection Insurance Policy[Reinsured policies](Appropriate title for insurance provider)(This is a continuous policy. Refer to Section 2.)[FCIC policies]
+[FCIC policies]Department of AgricultureFederal Crop Insurance CorporationArea Risk Protection Insurance Policy[Reinsured policies](Appropriate title for insurance provider)(This is a continuous policy. Refer to Section 2.)[FCIC policies]
 
 Area Risk Protection Insurance (ARPI) provides protection against widespread loss of revenue or widespread loss of yield in a county. Individual farm revenues and yields are not considered under ARPI and it is possible that your individual farm may experience reduced revenue or reduced yield and you do not receive an indemnity under ARPI.
 
@@ -163,6 +163,8 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 *NAP.* Noninsured Crop Disaster Assistance Program published in 7 CFR part 1437, administered by FSA.
 
 *Native sod.* Acreage that has no record of being tilled (determined in accordance with information collected and maintained by an agency of the USDA or other verifiable records that you provide and are acceptable to us) for the production of an annual crop on or before February 7, 2014, and on which the plant cover is composed principally of native grasses, grass-like plants, forbs, or shrubs suitable for grazing and browsing.
+
+*New breaking acreage.* Acreage which has not been planted and harvested, or insured within the 4 previous crop years, in accordance with section 5(a).
 
 *Offset.* The act of deducting one amount from another amount.
 
@@ -528,73 +530,81 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (5) Planted following the same crop on the same acreage and the first planting of the crop has been harvested in the same crop year unless specifically permitted by the Crop Provisions or the Special Provisions (for example, the second planting of grain sorghum would not be insurable if grain sorghum had already been planted and harvested on the same acreage during the crop year);
 
-(6) That is planted for experimental purposes; or
+(6) That is planted for experimental purposes;
 
-(7) That is used solely for wildlife protection or management. If the lease states that specific acreage must remain unharvested, only that acreage is uninsurable. If the lease specifies that a percentage of the crop must be left unharvested, your share will be reduced by such percentage.
+(7) That is used solely for wildlife protection or management. If the lease states that specific acreage must remain unharvested, only that acreage is uninsurable. If the lease specifies that a percentage of the crop must be left unharvested, your share will be reduced by such percentage; or
+
+(8) That is reported as a cover crop to a USDA agency.
+
+(i) No indemnity will be paid for such acreage and any indemnity already received must be repaid.
+
+(ii) You will still be required to pay 60 percent of the premium you would otherwise be required to pay on those acres.
 
 (c) Although certain policy documents may state that a specific crop, type, or practice is not insurable, it does not mean all other crops, types, or practices are insurable. To be insurable, the use of such crop, type, or practice must be a good faming practice, have been widely used in the county, and meet all the conditions in the Basic Provisions, the Crop Provisions, Special Provisions, and the actuarial documents.
 
 5. Insurable Acreage
 
-(a) Except as provided in section 5(c), the insurable acreage is all of the acreage of the insured crop for which a premium rate is provided by the actuarial documents, in which you have a share, and which is planted in the county listed on your accepted application. The dollar amount of insurance per acre, amount of premium, and indemnity will be calculated separately for each crop, type, and practice shown on the actuarial documents.
+The insurable acreage is all the acreage planted to the insured crop in the county in which you have a share, except as provided in section 5(d). New breaking acreage may be subject to a reduced protection factor in accordance with section 5(b) and native sod acreage may be subject to reduced premium subsidy and protection factor in accordance with section 5(c). The dollar amount of insurance per acre, amount of premium, and indemnity will be calculated separately for each crop, type, and practice shown on the actuarial documents.
 
-(1) The acreage must have been planted and harvested (grazing is not considered harvested for the purposes of this section) or insured (excluding pasture, rangeland, and forage, vegetation and rainfall insurance or any other specific policy listed in the Special Provisions) in at least one of the three previous crop years unless:
+(a) New breaking acreage consists of acreage which has not been planted and harvested, or insured, in at least 1 of the 4 previous crop years.
 
-(i) Such acreage was not planted:
+(1) For the purposes of determining new breaking acreage:
 
-(A) In at least two of the three previous crop years to comply with any other USDA program;
+(i) Planted includes annual regrowth of a perennial crop;
 
-(B) Due to the crop rotation, the acreage would not have been planted in the previous three years (e.g., a crop rotation of corn, soybeans, and alfalfa; and the alfalfa remained for four years before the acreage was planted to corn again); or
+(ii) Harvested does not include grazing; and
 
-(C) Because a perennial crop was on the acreage in at least two of the previous three crop years;
+(iii) Insured only includes crops eligible for insurance under these Basic Provisions or the Common Crop Insurance Policy, Basic Provisions (7 CFR part 457).
 
-(ii) Such acreage constitutes five percent or less of the insured planted acreage of the crop, type and practice as shown on the actuarial documents in the county;
+(2) Acreage that was not planted in at least 3 of the 4 previous crop years to comply with any other USDA program will not be considered new breaking acreage.
 
-(iii) Such acreage was not planted or harvested because it was pasture or rangeland and the crop to be insured is also pasture or rangeland; or
+(b) New breaking acreage reduction—New breaking acreage is insurable at a protection factor of at most 85 percent, unless that acreage:
 
-(iv) The Crop Provisions or Special Provisions specifically allow insurance for such acreage.
+(1) Is identified as native sod acreage in accordance with section 5(c), for which the native sod provisions in section 5(c) will apply;
 
-(b) Only the acreage planted to the insured crop on or before the final planting date, as shown in the Special Provisions, and reported by the acreage reporting date and physically located in the county shown on your accepted application will be insured.
+(2) Is uninsurable acreage in accordance with section 5(d); or
 
-(c) We will not insure any acreage (and any uninsured acreage and production from uninsured acreage will not be included for the purposes of establishing the final county yield):
+(3) Constitutes 5 percent or less of the insured planted acreage in the unit, for which the new breaking limitation to an 85 percent protection factor will not apply.
 
-(1) Where the crop was destroyed or put to another use during the crop year for the purpose of conforming with, or obtaining a payment under, any other program administered by the USDA;
+(c) Native sod acreage reductions—Native sod acreage in the states of Iowa, Minnesota, Montana, Nebraska, North Dakota, or South Dakota may receive a reduced premium subsidy and reduced protection factor. These reductions are applicable during the first 4 crop years of planting on native sod acreage that has been tilled beginning on February 8, 2014, and ending on December 20, 2018, and during 4 cumulative crop years of insurance within the first 10 crop years after initial tillage on native sod acreage tilled after December 20, 2018. For such native sod acreage:
 
-(2) Where we determine you have failed to follow good farming practices for the insured crop;
+(1) Additional coverage policies receive a premium subsidy that is 50 percentage points less than would otherwise be provided on acreage not qualifying as native sod. If the premium subsidy applicable to these acres is less than 50 percent before the reduction, you will receive no premium subsidy.
 
-(3) Where the conditions under which the crop is planted are not generally recognized for the area (for example, where agricultural experts determine that planting a non-irrigated corn crop after a failed small grain crop on the same acreage in the same crop year is not appropriate for the area);
+(2) The protection factor will be reduced to 65 percent.
 
-(4) Of a second crop, if you elect not to insure such acreage when an indemnity for a first insured crop may be subject to reduction in accordance with the provisions of section 13 and you intend to collect an indemnity payment that is equal to 100 percent of the insurable loss for the first insured crop acreage. This election must be made for all first insured crop acreage that may be subject to an indemnity reduction if the first insured crop is insured under this policy, or on a first insured crop unit basis if the first insured crop is not insured under this policy (e.g., if the first insured crop under this policy consists of 40 acres, or the first insured crop unit insured under another policy contains 40 planted acres, then no second crop can be insured on any of the 40 acres). In this case:
+(3) Cumulative native sod acreage that is 5 acres or less in the county is not subject to the reduced premium subsidy in section 5(c)(1) or the reduced protection factor stated in section 5(c).
+
+(d) We will not insure any acreage (and any uninsured acreage and production from uninsured acreage will not be included for the purposes of establishing the final county yield):
+
+(1) Where the crop was not planted on or before the final planting date or was not reported by the acreage reporting date;
+
+(2) Where the crop was destroyed or put to another use during the crop year for the purpose of conforming with, or obtaining a payment under, any other program administered by the USDA;
+
+(3) Where we determine you have failed to follow good farming practices for the insured crop;
+
+(4) Where the conditions under which the crop is planted are not generally recognized for the area (for example, where agricultural experts determine that planting a non-irrigated corn crop after a failed small grain crop on the same acreage in the same crop year is not appropriate for the area);
+
+(5) Of a second crop, if you elect not to insure such acreage when an indemnity for a first insured crop may be subject to reduction in accordance with the provisions of section 13 and you intend to collect an indemnity payment that is equal to 100 percent of the insurable loss for the first insured crop acreage. This election must be made for all first insured crop acreage that may be subject to an indemnity reduction if the first insured crop is insured under this policy, or on a first insured crop unit basis if the first insured crop is not insured under this policy (for example, if the first insured crop under this policy consists of 40 acres, or the first insured crop unit insured under another policy contains 40 planted acres, then no second crop can be insured on any of the 40 acres). In this case:
 
 (i) If the first insured crop is insured under ARPI, you must provide written notice to us of your election not to insure acreage of a second crop by the acreage reporting date for the second crop if it is insured under ARPI, or before planting the second crop if it is insured under any other policy;
 
 (ii) If the first insured crop is not insured under ARPI, at the time the first insured crop acreage is released by us or another insurance provider who insures the first insured crop (if no acreage in the first insured crop unit is released, this election must be made by the earlier of acreage reporting date for the second crop or when you sign the claim for the first insured crop);
 
-(iii) If you fail to provide a notice as specified in section 5(c)(5)(i) or 5(c)(5)(ii), the second crop acreage will be insured in accordance with applicable policy provisions and you must repay any overpaid indemnity for the first insured crop;
+(iii) If you fail to provide a notice as specified in section 5(d)(5)(i) or (ii), the second crop acreage will be insured in accordance with applicable policy provisions, and you must repay any overpaid indemnity for the first insured crop;
 
 (iv) In the event a second crop is planted and insured with a different insurance provider, or planted and insured by a different person, you must provide written notice to each insurance provider that a second crop was planted on acreage on which you had a first insured crop; and
 
 (v) You must report the crop acreage that will not be insured on the applicable acreage report; and
 
-(5) Of a crop planted following a second crop or following an insured crop that is prevented from being planted after a first insured crop, unless it is a practice that is generally recognized by agricultural experts or organic agricultural experts for the area to plant three or more crops for harvest on the same acreage in the same crop year, and additional coverage insurance provided under the authority of the Act is offered for the third or subsequent crop in the same crop year. Insurance will only be provided for a third or subsequent crop as follows:
+(6) Of a crop planted following a second crop or following an insured crop that is prevented from being planted after a first insured crop, unless it is a practice that is generally recognized by agricultural experts or organic agricultural experts for the area to plant three or more crops for harvest on the same acreage in the same crop year, and additional coverage insurance provided under the authority of the Act is offered for the third or subsequent crop in the same crop year. Insurance will only be provided for a third or subsequent crop as follows:
 
 (i) You must provide records acceptable to us that show:
 
-(A) You have produced and harvested the insured crop following two other crops harvested on the same acreage in the same crop year in at least two of the last four years in which you produced the insured crop; or
+(A) You have produced and harvested the insured crop following 2 other crops harvested on the same acreage in the same crop year in at least 2 of the last 4 years in which you produced the insured crop; or
 
-(B) The applicable acreage has had three or more crops produced and harvested on it in the same crop year in at least two of the last four years in which the insured crop was grown on the acreage; and
+(B) The applicable acreage has had 3 or more crops produced and harvested on it in the same crop year in at least 2 of the last 4 years in which the insured crop was grown on the acreage; and
 
-(ii) The amount of insurable acreage will not exceed 100 percent of the greatest number of acres for which you provide the records required in section 5(c)(5)(i).
-
-(d) Except as provided in section 5(e), and in accordance with section 5(f), in the states of Iowa, Minnesota, Montana, Nebraska, North Dakota, or South Dakota, native sod acreage may be insured if the requirements of section 5(a) have been met but will:
-
-(1) Notwithstanding the provisions in section 6, receive a liability that is based on 65 percent of the protection factor; and
-
-(2) For additional coverage policies, receive a premium subsidy that is 50 percentage points less than would otherwise be provided on acreage not qualifying as native sod. If the premium subsidy applicable to these acres is less than 50 percent before the reduction, you will receive no premium subsidy.
-
-(e) Section 5(d) is not applicable to cumulative native sod acreage that is five acres or less in the county.
-
-(f) Section 5(d) is applicable during the first 4 crop years of planting on native sod acreage that has been tilled beginning on February 8, 2014, and ending on December 20, 2018. Section 5(d) is applicable during 4 cumulative crop years of insurance within the first 10 crop years after initial tillage on native sod acreage tilled after December 20, 2018.
+(ii) The amount of insurable acreage will not exceed 100 percent of the greatest number of acres for which you provide the records required in section 5(d)(6)(i).
 
 6. Coverage, Coverage Levels, Protection Factor, and Policy Protection
 
@@ -976,7 +986,11 @@ Unless specified otherwise in the Crop Provisions, coverage begins at the later 
 
 (5) If you do not have records of acreage and production specific to the double cropped acreage, as required in section 13(c)(4), but instead have records that combine production from acreage you double cropped with records of production from acreage you did not double crop, we will allocate the first and second crop production to the specific acreage in proportion to the liability for the acreage that was and was not double cropped; and
 
-(6) With respect to double cropped acreage, if the two crops you have double cropped are insured under policies with different double crop history records requirements (*e.g.,* records of acreage and production), the less restrictive requirements may be followed to satisfy double cropping requirements for both crops. For example, you have 20 acres of annual forage wheat for grazing. On the same acreage you plant and insure cotton. The annual forage double cropping provisions do not include double cropping record history requirements. If the annual forage double cropping provisions are met, you are eligible for a full indemnity payment on both the annual forage wheat and the cotton.
+(6) Coordination of Coverage—For double cropped acreage when one of the crops is insured under this policy and one of the crops is insured under other crop insurance authorized under the Act with less restrictive double crop history records requirements (for example, annual forage insured under the Rainfall Index Plan Common Policy, Basic Provisions, does not require records of acreage and production), the double cropping history requirements in sections 13(c)(4) and (5) do not apply. Instead:
+
+(i) For the crop insured under this policy, you may receive a full indemnity if you meet each of the double cropping requirements in sections 13(c)(1) through (3), regardless of which crop was the first insured crop or the second crop; or
+
+(ii) If you do not meet each of the double cropping requirements in sections 13(c)(1) through (3), the indemnity reductions in section 13(a)(2) apply.
 
 (d) If you provided acceptable records in accordance with section 13(c), your double cropping history is limited to the highest number of acres double cropped within the applicable four-year period as determined in section 13(c)(4).
 
@@ -1048,11 +1062,7 @@ Unless specified otherwise in the Crop Provisions, coverage begins at the later 
 
 (2) To pay to all lienholders or other persons to whom you have a financial debt or other pecuniary obligation any amount greater than the total amount of indemnity owed under the policy.
 
-(d) If we have received the properly executed assignment of indemnity form:
-
-(1) Only one payment will be issued jointly in the names of all assignees and you; and
-
-(2) Any assignee will have the right to submit all notices and forms as required by the policy.
+(d) If we have received the properly executed assignment of indemnity form, only one payment will be issued jointly in the names of all assignees and you, unless all assignees and you agree in writing for the payment to be issued to a single payee.
 
 17. Transfer of Coverage and Right to Indemnity
 
@@ -1070,21 +1080,23 @@ If you transfer any part of your share during the crop year, you may transfer yo
 
 (a) Nothing in this section prevents you from obtaining other insurance not authorized under the Act. However, unless specifically required by policy provisions, you must not obtain any other crop insurance authorized under the Act on your share of the insured crop.
 
-(b) If you cannot demonstrate that you did not intend to have more than one policy in effect, you may be subject to the consequences authorized under this policy, the Act, or any other applicable statute.
+(b) You must demonstrate that you did not intend to have more than one policy in effect (for example, an application to transfer your policy or written notification to an insurance provider that states you want to purchase, or transfer, insurance and you want any other policies for the crop canceled would demonstrate you did not intend to have duplicate policies) and:
 
-(c) If you can demonstrate that you did not intend to have more than one policy in effect (for example, an application to transfer your policy or written notification to an insurance provider that states you want to purchase, or transfer, insurance and you want any other policies for the crop canceled would demonstrate you did not intend to have duplicate policies) and:
+(1) One is an additional coverage policy, and the other is a CAT policy:
 
-(1) One is an additional coverage policy and the other is a CAT policy:
+(i) If both policies are with the same insurance provider, the additional coverage policy will apply and the CAT policy will be void;
 
-(i) The additional coverage policy will apply if both policies are with the same insurance provider or, if not, both insurance providers agree; or
+(ii) If both policies are with different insurance providers and both insurance providers agree, the additional coverage policy will apply and the CAT policy will be void; or
 
-(ii) The policy with the earliest date of application will be in force if both insurance providers do not agree; or
+(iii) If both policies are with different insurance providers and both insurance providers do not agree, the policy with the earliest application date will be in force and the other policy will be void; or
 
-(2) Both are additional coverage policies or both are CAT policies, the policy with the earliest date of application will be in force and the other policy will be void, unless both policies are with:
+(2) Both are additional coverage policies, or both are CAT policies, the policy with the earliest application date will be in force and the other policy will be void, unless both policies are with:
 
-(i) The same insurance provider and the insurance provider agrees otherwise; or
+(i) The same insurance provider and the insurance provider agrees to void the policy with the earliest application date; or
 
-(ii) Different insurance providers and both insurance providers agree otherwise.
+(ii) Different insurance providers and both insurance providers agree to void the policy with the earliest application date.
+
+(c) If you cannot demonstrate that you did not intend to have more than one policy in effect, you may be subject to the consequences authorized under this policy, the Act, or any other applicable statute.
 
 19. Crops as Payment
 
@@ -1382,4 +1394,4 @@ Step 1: Calculate the Dollar Amount of Insurance per AcreFormula: Expected count
 
 (3) Avoid an obligation or requirement under any Federal or State law.
 
-[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019; 85 FR 38754, June 29, 2020; 85 FR 76425, Nov. 30, 2020; 86 FR 34610, June 30, 2021; 86 FR 42681, Aug. 5, 2021; 86 FR 67836, Nov. 30, 2021; 87 FR 38890, June 30, 2022; 88 FR 42019, June 29, 2023; 88 FR 71732, Oct. 18, 2023]
+[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019; 85 FR 38754, June 29, 2020; 85 FR 76425, Nov. 30, 2020; 86 FR 34610, June 30, 2021; 86 FR 42681, Aug. 5, 2021; 86 FR 67836, Nov. 30, 2021; 87 FR 38890, June 30, 2022; 88 FR 42019, June 29, 2023; 88 FR 71732, Oct. 18, 2023; 89 FR 53829, June 27, 2024]

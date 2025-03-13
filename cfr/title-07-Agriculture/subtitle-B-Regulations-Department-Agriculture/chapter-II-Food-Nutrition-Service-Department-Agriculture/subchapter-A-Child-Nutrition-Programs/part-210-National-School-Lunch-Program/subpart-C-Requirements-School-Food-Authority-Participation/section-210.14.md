@@ -1,7 +1,5 @@
 ##### § 210.14 Resource management. #####
 
-Link to an amendment published at 89 FR 32073, Apr. 25, 2024.
-
 (a) *Nonprofit school food service.* School food authorities shall maintain a nonprofit school food service. Revenues received by the nonprofit school food service are to be used only for the operation or improvement of such food service, *except that,* such revenues shall not be used to purchase land or buildings, unless otherwise approved by FNS, or to construct buildings. Expenditures of nonprofit school food service revenues shall be in accordance with the financial management system established by the State agency under § 210.19(a) of this part. School food authorities may use facilities, equipment, and personnel supported with nonprofit school food revenues to support a nonprofit nutrition program for the elderly, including a program funded under the Older Americans Act of 1965 (42 U.S.C. 3001 *et seq.*).
 
 (b) *Net cash resources.* The school food authority shall limit its net cash resources to an amount that does not exceed 3 months average expenditures for its nonprofit school food service or such other amount as may be approved by the State agency in accordance with § 210.19(a).
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 32073, Apr. 25, 2024.
 
 (d) *Use of donated foods.* The school food authority shall enter into an agreement with the distributing agency to receive donated foods as required by part 250 of this chapter. In addition, the school food authority shall accept and use, in as large quantities as may be efficiently utilized in its nonprofit school food service, such foods as may be offered as a donation by the Department. The school food authority's policies, procedures, and records must account for the receipt, full value, proper storage and use of donated foods.
 
-(e) *Pricing paid lunches.* For each school year beginning July 1, 2011, school food authorities shall establish prices for paid lunches in accordance with this paragraph.
+(e) *Pricing paid lunches.* For each school year, school food authorities must establish prices for paid lunches in accordance with this paragraph (e).
 
 (1) *Calculation procedures.* Each school food authority shall:
 
@@ -50,7 +48,7 @@ The minimum that must be added is the product of:
 
 (C) In-kind contributions;
 
-(D) Any in-kind contributions converted to direct cash expenditures after July 1, 2011; and
+(D) Any in-kind contributions converted to direct cash expenditures; and
 
 (E) Per-meal reimbursements (non-Federal) specifically provided for support of programs other than the school lunch program.
 
@@ -68,15 +66,13 @@ The minimum that must be added is the product of:
 
 (ii) If a school food authority has an average price lower than the reimbursement difference and chooses to increase its average price for paid lunches in any school year more than is required by this section, the amount attributable to the additional voluntary increase may be carried forward to the next school year(s) to meet the requirements of this section.
 
-(iii) For the school year beginning July 1, 2011 only, the limitations for non-Federal contributions in paragraph (e)(5)(iii) of this section do not apply.
-
 (7) *Reporting lunch prices.* In accordance with guidelines provided by FNS:
 
 (i) School food authorities shall report prices charged for paid lunches to the State agency; and
 
 (ii) State agencies shall report these prices to FNS.
 
-(f) *Revenue from nonprogram foods.* Beginning July 1, 2011, school food authorities shall ensure that the revenue generated from the sale of nonprogram foods complies with the requirements in this paragraph.
+(f) *Revenue from nonprogram foods.* School food authorities must ensure that the revenue generated from the sale of nonprogram foods complies with the requirements in this paragraph (f).
 
 (1) *Definition of nonprogram foods.* For the purposes of this paragraph, nonprogram foods are those foods and beverages:
 
@@ -94,4 +90,4 @@ The minimum that must be added is the product of:
 
 (g) *Indirect costs.* School food authorities must follow fair and consistent methodologies to identify and allocate allowable indirect costs to the nonprofit school food service account, in accordance with 2 CFR part 200 as implemented by 2 CFR part 400.
 
-[53 FR 29147, Aug. 2, 1988, as amended at 60 FR 31215, June 13, 1995; 76 FR 35316, June 17, 2011; 81 FR 50185, July 29, 2016]
+[53 FR 29147, Aug. 2, 1988, as amended at 60 FR 31215, June 13, 1995; 76 FR 35316, June 17, 2011; 81 FR 50185, July 29, 2016; 89 FR 32073, Apr. 25, 2024]

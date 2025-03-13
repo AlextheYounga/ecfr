@@ -1,7 +1,5 @@
 ##### § 635.2 Definitions. #####
 
-Link to an amendment published at 89 FR 47103, May 31, 2024.
-
 In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 of this chapter, the terms used in this part have following meanings. If applicable, the terms used in this part supercede those used in § 600.10:
 
 *Archival tag* means a device that is implanted or affixed to a fish to electronically record scientific information about the migratory behavior of that fish.
@@ -24,9 +22,9 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *BFT landings quota* means the portion of the ICCAT BFT catch quota allocated to the United States against which landings of BFT are counted.
 
-*Bottom longline* means a longline that is deployed with enough weights and/or anchors to maintain contact with the ocean bottom. For the purposes of this part, a vessel is considered to have bottom longline gear on board when a power-operated longline hauler, a mainline, weights and/or anchors capable of maintaining contact between the mainline and the ocean bottom, and leaders (gangions) with hooks are on board. Removal of any of these elements constitutes removal of bottom longline gear. Bottom longline vessels may have a limited number of floats and/or high flyers onboard for the purposes of marking the location of the gear but removal of these floats does not constitute removal of bottom longline gear.
+*Bluefin statistical document* (BSD) *tag* means a numbered tag affixed to a BFT issued by any country in conjunction with a catch statistics information program and recorded on a BSD.
 
-*BSD tag* means a numbered tag affixed to a BFT issued by any country in conjunction with a catch statistics information program and recorded on a BSD.
+*Bottom longline* means a longline that is deployed with enough weights and/or anchors to maintain contact with the ocean bottom. For the purposes of this part, a vessel is considered to have bottom longline gear on board when a power-operated longline hauler, a mainline, weights and/or anchors capable of maintaining contact between the mainline and the ocean bottom, and leaders (gangions) with hooks are on board. Removal of any of these elements constitutes removal of bottom longline gear. Bottom longline vessels may have a limited number of floats and/or high flyers onboard for the purposes of marking the location of the gear but removal of these floats does not constitute removal of bottom longline gear.
 
 *Buoy gear* means a fishing gear consisting of one or more floatation devices supporting a single mainline to which no more than two hooks or gangions are attached.
 

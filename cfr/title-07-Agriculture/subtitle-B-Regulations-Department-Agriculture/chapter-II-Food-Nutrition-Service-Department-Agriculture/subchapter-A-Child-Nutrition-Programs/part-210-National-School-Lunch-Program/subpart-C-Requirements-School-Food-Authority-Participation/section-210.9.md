@@ -1,7 +1,5 @@
 ##### § 210.9 Agreement with State agency. #####
 
-Link to an amendment published at 89 FR 32065, Apr. 25, 2024.
-
 (a) *Application.* An official of a school food authority shall make written application to the State agency for any school in which it desires to operate the Program. Applications shall provide the State agency with sufficient information to determine eligibility. The school food authority shall also submit for approval a Free and Reduced Price Policy Statement in accordance with part 245 of this chapter.
 
 (b) *Agreement.* Each school food authority approved to participate in the program shall enter into a written agreement with the State agency that may be amended as necessary. Nothing in the preceding sentence shall be construed to limit the ability of the State agency to suspend or terminate the agreement in accordance with § 210.25. If a single State agency administers any combination of the Child Nutrition Programs, that State agency shall provide each school food authority with a single agreement with respect to the operation of those programs. The agreement shall contain a statement to the effect that the “School Food Authority and participating schools under its jurisdiction, shall comply with all provisions of 7 CFR parts 210 and 245.” This agreement shall provide that each school food authority shall, with respect to participating schools under its jurisdiction:
@@ -58,24 +56,24 @@ Link to an amendment published at 89 FR 32065, Apr. 25, 2024.
 
 (20) Retain eligibility documentation submitted by families for a period of 3 years after the end of the fiscal year to which they pertain or as otherwise specified under paragraph (b)(17) of this section.
 
-(21) No later than March 1, 1997, and no later than December 31 of each year thereafter, provide the State agency with a list of all schools under its jurisdiction in which 50 percent or more of enrolled children have been determined eligible for free or reduced price meals as of the last operating day the preceding October. The State agency may designate a month other than October for the collection of this information, in which case the list must be provided to the State agency within 60 calendar days following the end of the month designated by the State agency. In addition, each school food authority shall provide, when available for the schools under its jurisdiction, and upon the request of a sponsoring organization of day care homes of the Child and Adult Care Food Program, information on the boundaries of the attendance areas for the schools identified as having 50 percent or more of enrolled children certified eligible for free or reduced price meals.
+(21) No later than December 31 of each year, provide the State agency with a list of all schools under its jurisdiction in which 50 percent or more of enrolled children have been determined eligible for free or reduced price meals as of the last operating day the preceding October. The State agency may designate a month other than October for the collection of this information, in which case the list must be provided to the State agency within 60 calendar days following the end of the month designated by the State agency. In addition, each school food authority must provide, when available for the schools under its jurisdiction, and upon the request of a sponsoring organization of day care homes of the Child and Adult Care Food Program, information on the boundaries of the attendance areas for the schools identified as having 50 percent or more of enrolled children certified eligible for free or reduced price meals.
 
-(c) *Afterschool care requirements.* Those school food authorities with eligible schools (as defined in § 210.10(n)(1)) that elect to serve meal supplements during afterschool care programs, shall agree to:
+(c) *Afterschool care requirements.* Those school food authorities with eligible schools (as defined in § 210.10(o)(1)) that elect to serve afterschool snacks during afterschool care programs, must agree to:
 
-(1) Serve meal supplements which meet the minimum requirements prescribed in § 210.10;
+(1) Serve afterschool snacks which meet the minimum requirements prescribed in § 210.10;
 
-(2) Price the meal supplement as a unit;
+(2) Price the afterschool snack as a unit;
 
-(3) Serve meal supplements free or at a reduced price to all children who are determined by the school food authority to be eligible for free or reduced price school meals under 7 CFR part 245;
+(3) Serve afterschool snacks free or at a reduced price to all children who are determined by the school food authority to be eligible for free or reduced price school meals under part 245 of this chapter;
 
-(4) If charging for meals, the charge for a reduced price meal supplement shall not exceed 15 cents;
+(4) If charging for meals, the charge for a reduced price afterschool snack must not exceed 15 cents;
 
-(5) Claim reimbursement at the assigned rates only for meal supplements served in accordance with the agreement;
+(5) Claim reimbursement at the assigned rates only for afterschool snacks served in accordance with the agreement;
 
-(6) Claim reimbursement for no more than one meal supplement per child per day;
+(6) Claim reimbursement for no more than one afterschool snack per child per day;
 
-(7) Review each afterschool care program two times a year; the first review shall be made during the first four weeks that the school is in operation each school year, except that an afterschool care program operating year round shall be reviewed during the first four weeks of its initial year of operation, once more during its first year of operation, and twice each school year thereafter; and
+(7) Review each afterschool care program two times a year; the first review must be made during the first four weeks that the school is in operation each school year, except that an afterschool care program operating year round must be reviewed during the first four weeks of its initial year of operation, once more during its first year of operation, and twice each school year thereafter; and
 
-(8) Comply with all requirements of this part, except that, claims for reimbursement need not be based on “point of service” meal supplement counts (as required by § 210.9(b)(9)).
+(8) Comply with all requirements of this part, except that, claims for reimbursement need not be based on “point of service” afterschool snack counts (as required by § 210.9(b)(9)).
 
 [53 FR 29147, Aug. 2, 1988]Editorial Note:For Federal Register citations affecting § 210.9, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

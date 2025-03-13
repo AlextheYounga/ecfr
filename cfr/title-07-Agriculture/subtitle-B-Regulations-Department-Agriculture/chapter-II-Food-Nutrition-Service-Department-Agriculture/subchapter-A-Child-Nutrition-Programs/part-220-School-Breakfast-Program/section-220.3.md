@@ -1,8 +1,6 @@
 ##### § 220.3 Administration. #####
 
-Link to an amendment published at 89 FR 32080, Apr. 25, 2024.
-
-(a) Within the Department, FNS shall act on behalf of the Department in the administration of the Program covered by this part. Within FNS, CND shall be responsible for administration of the Program.
+(a) Within the Department, FNS shall act on behalf of the Department in the administration of the Program covered by this part.
 
 (b) Within the States, responsibility for the administration of the Program in schools as described in paragraphs (1) and (2) of the definition of *School* in § 220.2 shall be in the State educational agency, except that FNSRO shall administer the Program with respect to nonprofit private schools and adding in their place the words “as described in paragraph (1) of the definition of *School* in § 220.2 in any State wherein the State educational agency is not permitted by law to disburse Federal funds paid to it under the Program; *Provided, however,* That FNSRO shall also administer the Program in all other nonprofit private schools which have been under continuous FNS administration since October 1, 1980, unless the administration of such private schools is assumed by a State agency.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 89 FR 32080, Apr. 25, 2024.
 
 (iii) If the State agency denies the request, the State agency must notify the requesting eligible service provider and state the reason for denying the request in writing within 30 calendar days of the State agency's receipt of the request. The State agency response is final and may not be appealed to FNS.
 
-(Sec. 804, 816 and 817, Pub. L. 97-35, 95 Stat. 521-535 (42 U.S.C. 1753, 1756, 1759, 1771 and 1785); 44 U.S.C. 3506)[Amdt. 25, 41 FR 34759, Aug. 17, 1976, as amended at 47 FR 745, Jan. 7, 1982; Amdt. 42, 47 FR 14133, Apr. 2, 1982; Amdt. 56, 54 FR 2990, Jan. 23, 1989; 71 FR 39517, July 13, 2006; 72 FR 63792, Nov. 13, 2007; 81 FR 66491, Sept. 28, 2016; 87 FR 57354, Sept. 19, 2022]
+(Sec. 804, 816 and 817, Pub. L. 97-35, 95 Stat. 521-535 (42 U.S.C. 1753, 1756, 1759, 1771 and 1785); 44 U.S.C. 3506)[Amdt. 25, 41 FR 34759, Aug. 17, 1976, as amended at 47 FR 745, Jan. 7, 1982; Amdt. 42, 47 FR 14133, Apr. 2, 1982; Amdt. 56, 54 FR 2990, Jan. 23, 1989; 71 FR 39517, July 13, 2006; 72 FR 63792, Nov. 13, 2007; 81 FR 66491, Sept. 28, 2016; 87 FR 57354, Sept. 19, 2022; 89 FR 32080, Apr. 25, 2024]

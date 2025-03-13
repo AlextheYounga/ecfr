@@ -1,10 +1,12 @@
 ##### § 457.113 Coarse grains crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 53836, June 27, 2024.
+The Coarse Grains Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
-The Coarse Grains Crop Insurance Provisions for the 2022 and succeeding crop years are as follows:
+United States Department of AgricultureFederal Crop Insurance CorporationCoarse Grains Crop Provisions
 
-United States Department of AgricultureFederal Crop Insurance CorporationCoarse Grains Crop Provisions1. Definitions
+In return for your payment of premium and administrative fee for coverage, these Coarse Grains Crop Provisions and corresponding Commodity Exchange Price Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
+
+1. Definitions
 
 *Coarse grains.* Corn, grain sorghum, and soybeans.
 
@@ -26,27 +28,27 @@ United States Department of AgricultureFederal Crop Insurance CorporationCoarse 
 
 *Ton.* Two thousand (2000) pounds avoirdupois.
 
-2. Unit Division.
+2. Unit Division
 
-(a) In addition to the requirements of section 34(a) of the Basic Provisions, you may elect separate enterprise units for FAC or NFAC cropping practices if these cropping practices are allowed by the actuarial documents. If you elect enterprise units for these cropping practices, you may not elect enterprise or optional units by irrigation practices.
+(a) In addition to enterprise units provided in section 34(a)(2) of the Basic Provisions, you may elect separate enterprise units for FAC or NFAC cropping practices if the FAC and NFAC cropping practices are allowed by the actuarial documents. If you elect enterprise units for FAC and NFAC cropping practices, you may not elect enterprise or optional units by any other practice or type.
 
 (1) You may elect one enterprise unit for all FAC cropping practices or one enterprise unit for all NFAC cropping practices, or separate enterprise units for both practices, unless otherwise specified in the Special Provisions. For example: You may choose an enterprise unit for all FAC acreage (soybeans irrigated practice and non-irrigated practice) and an enterprise unit for all NFAC acreage (soybeans irrigated practice and non-irrigated practice).
 
 (2) You are only eligible if both FAC and NFAC cropping practices are allowed by the actuarial documents for each irrigation practice you use. If FAC and NFAC cropping practices are only allowed for the non-irrigated practice, separate enterprise units for FAC and NFAC cropping practices are not available if you use the irrigated practice; but if you use only non-irrigated FAC and NFAC cropping practices, separate enterprise units for non-irrigated FAC and NFAC cropping practices are available.
 
-(3) You must separately meet the requirements in section 34(a)(4) for each enterprise unit.
+(3) You must separately meet the requirements in section 34(a)(2) of the Basic Provisions for each enterprise unit.
 
 (4) If you elected separate enterprise units for both cropping practices and we discover you do not qualify for an enterprise unit for one or the other cropping practice and such discovery is made:
 
 (i) On or before the acreage reporting date, you may elect to insure:
 
-(A) One enterprise unit for all FAC or NFAC cropping practices provided you meet the requirements in section 34(a)(4), and basic or optional units for the other cropping practice, whichever you report on your acreage report and qualify for;
+(A) One enterprise unit for all FAC or NFAC cropping practices provided you meet the requirements in section 34(a)(2) of the Basic Provisions, and basic or optional units for the other cropping practice, whichever you report on your acreage report and qualify for;
 
-(B) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4); or
+(B) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(2) of the Basic Provisions; or
 
 (C) Basic or optional units for all acreage of the crop in the county, whichever you report on your acreage report and qualify for; or
 
-(ii) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4). Otherwise, we will assign the basic unit structure.
+(ii) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(2) of the Basic Provisions. Otherwise, we will assign the basic unit structure.
 
 (5) If you elected an enterprise unit on one cropping practice for FAC or NFAC and a different unit structure on the other cropping practice and we discover you do not qualify for an enterprise unit for the FAC or NFAC cropping practice and such discovery is made:
 
@@ -54,11 +56,11 @@ United States Department of AgricultureFederal Crop Insurance CorporationCoarse 
 
 (ii) At any time after the acreage reporting date, we will assign the basic unit structure.
 
-(b) Instead of establishing optional units as provided in section 34(c) of the Basic Provisions, if allowed by the actuarial documents, you may have separate optional units for the FAC cropping practice and the NFAC cropping practice. These optional units will be by section, section equivalent, or FSA FN and by the FAC cropping practice and the NFAC cropping practice. These optional units cannot be further divided by irrigated and non-irrigated acreage or by acreage insured under an organic farming practice.
+(b) Instead of establishing optional units as provided in section 34(c) of the Basic Provisions, if allowed by the actuarial documents, you may have separate optional units for the FAC cropping practice and the NFAC cropping practice. These optional units will be by section, section equivalent, or FSA farm number and by the FAC cropping practice and the NFAC cropping practice. These optional units cannot be further divided by irrigated and non-irrigated acreage or by acreage insured under an organic farming practice.
 
 (c) If FAC or NFAC cropping practices are only available by written agreement, separate enterprise units or optional units for FAC or NFAC cropping practices are not available.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 In addition to the requirements of section 3 of the Basic Provisions, you must elect to insure your corn, grain sorghum, or soybeans with either revenue protection or yield protection by the sales closing date.
 
@@ -70,17 +72,17 @@ In accordance with section 4 of the Basic Provisions, the contract change date i
 
 In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are:
 
-|                                                                                                                                                                                                                                                       State and county                                                                                                                                                                                                                                                        |Cancellation and termination dates|
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-|                                                                                                                                                                                                                                                (a) For corn and grain sorghum:                                                                                                                                                                                                                                                |                                  |
-|                                                                                                                                                                                      Val Verde, Edwards, Kerr, Kendall, Bexar, Wilson, Karnes, Goliad, Victoria, and Jackson Counties, Texas, and all Texas counties lying south thereof                                                                                                                                                                                      |           January 31.            |
-|                                             El Paso, Hudspeth, Culberson, Reeves, Loving, Winkler, Ector, Upton, Reagan, Sterling, Coke, Tom Green, Concho, McCulloch, San Saba, Mills, Hamilton, Bosque, Johnson, Tarrant, Wise, Cooke Counties, Texas, and all Texas counties lying south and east thereof to and including Terrell, Crockett, Sutton, Kimble, Gillespie, Blanco, Comal, Guadalupe, Gonzales, De Witt, Lavaca, Colorado, Wharton, and Matagorda Counties, Texas                                             |           February 15.           |
-|                                                                                                                                                                                                 Alabama; Arizona; Arkansas; California; Florida; Georgia; Louisiana; Mississippi; Nevada; North Carolina; and South Carolina                                                                                                                                                                                                  |           February 28.           |
-|                                                                                                                                                                                                                                         All other Texas counties and all other states                                                                                                                                                                                                                                         |            March 15.             |
-|                                                                                                                                                                                                                                                       (b) For soybeans:                                                                                                                                                                                                                                                       |                                  |
-|                                                                                                                                                                                              Jackson, Victoria, Goliad, Bee, Live Oak, McMullen, LaSalle, and Dimmit Counties, Texas and all Texas counties lying south thereof                                                                                                                                                                                               |           January 31.            |
-|Alabama; Arizona; Arkansas; California; Florida; Georgia; Louisiana; Mississippi; Nevada; North Carolina; and South Carolina; and El Paso, Hudspeth, Culberson, Reeves, Loving, Winkler, Ector, Upton, Reagan, Sterling, Coke, Tom Green, Concho, McCulloch, San Saba, Mills, Hamilton, Bosque, Johnson, Tarrant, Wise, Cooke Counties, Texas, and all Texas counties lying south and east thereof to and including Maverick, Zavala, Frio, Atascosa, Karnes, De Witt, Lavaca, Colorado, Wharton, and Matagorda Counties, Texas|           February 28.           |
-|                                                                                                                                                                                                                                         All other Texas counties and all other states                                                                                                                                                                                                                                         |            March 15.             |
+|                                                                                                                                                                                Crop, state, and county                                                                                                                                                                                |Cancellation and  <br/>termination dates|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
+|                                                                                                                                                                            (a) For corn and grain sorghum:                                                                                                                                                                            |                                        |
+|                                                                                                                       (1) Kerr, Bexar, Wilson, Karnes, Goliad, Victoria, and Jackson Counties, Texas, and all Texas counties lying south of the named counties                                                                                                                        |              January 31.               |
+|(2) El Paso, Reeves, Loving, Upton, Reagan, Sterling, Coke, Tom Green, Concho, McCulloch, San Saba, Mills, Hamilton, Bosque, Johnson, Tarrant, Wise, Cooke Counties, Texas, and all Texas counties lying south and east of the named counties to and including Sutton, Kimble, Gillespie, Comal, Guadalupe, Gonzales, De Witt, Lavaca, Colorado, Wharton, and Matagorda Counties, Texas|              February 15.              |
+|                                                                                                                           (3) Alabama; Arizona; Arkansas; California; Florida; Georgia; Louisiana; Mississippi; Nevada; North Carolina; and South Carolina                                                                                                                            |              February 28.              |
+|                                                                                                                                                                   (4) All other Texas counties and all other states                                                                                                                                                                   |               March 15.                |
+|                                                                                                                                                                                   (b) For soybeans:                                                                                                                                                                                   |                                        |
+|                                                                                                                                     (1) Jackson, Victoria, Goliad, Bee Counties, Texas, and all Texas counties lying south of the named counties                                                                                                                                      |              January 31.               |
+|                                                                       (2) Alabama; Arkansas; Florida; Georgia; Louisiana; Mississippi; North Carolina; and South Carolina; and, Cooke, Denton, Coryell, Fayette, Lavaca, and Matagorda Counties, Texas, and all Texas counties lying east of the named counties                                                                       |              February 28.              |
+|                                                                                                                                                                   (3) All other Texas counties and all other states                                                                                                                                                                   |               March 15.                |
 
 6. Insured Crop
 
@@ -96,7 +98,7 @@ In accordance with section 2 of the Basic Provisions, the cancellation and termi
 
 (ii) Planted into an established grass or legume.
 
-(b) For corn only, in addition to the provisions of section 6(a), the corn crop insured will be all corn that is:
+(b) For corn only, in addition to section 6(a), the corn crop insured will be all corn that is:
 
 (1) Planted for harvest either as grain or as silage (see section 6(c)). A mixture of corn and sorghum (grain or forage-type) will be insured as corn silage if the sorghum does not constitute more than 20 percent of the plants;
 
@@ -126,28 +128,29 @@ In accordance with section 2 of the Basic Provisions, the cancellation and termi
 
 7. Insurable Acreage
 
-In addition to the provisions of section 9 of the Basic Provisions, any acreage of the insured crop damaged before the final planting date, to the extent that a majority of producers in the area would not normally further care for the crop, must be replanted unless we agree that it is not practical to replant.
+In addition to section 9 of the Basic Provisions, any acreage of the insured crop damaged before the final planting date, to the extent that a majority of producers in the area would not normally further care for the crop, must be replanted unless we agree that it is not practical to replant.
 
 8. Insurance Period
 
-In accordance with the provisions of section 11 of the Basic Provisions, unless otherwise specified in the actuarial documents, the calendar date for the end of the insurance period is the date immediately following planting as follows:
+In accordance with section 11 of the Basic Provisions, unless otherwise specified in the Special Provisions, the calendar date for the end of the insurance period is the date immediately following planting as follows:
 
-|                                                                                      (a) For corn insured as grain:                                                                                       |             |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-|                          (1) Val Verde, Edwards, Kerr, Kendall, Bexar, Wilson, Karnes, Goliad, Victoria, and Jackson Counties, Texas, and all Texas counties lying south thereof                          |September 30.|
-|                        (2) Clark, Cowlitz, Grays Harbor, Island, Jefferson, King, Kitsap, Lewis, Pierce, Skagit, Snohomish, Thurston, Wahkiakum, and Whatcom Counties, Washington                         | October 31. |
-|                                                                                     (3) All other counties and states                                                                                     |December 10. |
-|                                                                                      (b) For corn insured as silage:                                                                                      |             |
-|(1) Connecticut, Delaware, Idaho, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Oregon, Pennsylvania, Rhode Island, Vermont, Virginia, Washington, and West Virginia| October 20. |
-|                                                                                           (2) All other states                                                                                            |September 30.|
-|                                                                                          (c) For grain sorghum:                                                                                           |             |
-|                          (1) Val Verde, Edwards, Kerr, Kendall, Bexar, Wilson, Karnes, Goliad, Victoria, and Jackson Counties, Texas, and all Texas counties lying south thereof                          |September 30.|
-|                                                                             (2) All other Texas counties and all other states                                                                             |December 10. |
-|                                                                                       (d) For soybeans: All states                                                                                        |December 10. |
+|                                                                                          Crop, state, and county                                                                                          |End of the insurance  <br/>period dates|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+|                                                                                      (a) For corn insured as grain:                                                                                       |                                       |
+|                                 (1) Kerr, Bexar, Wilson, Karnes, Goliad, Victoria, and Jackson Counties, Texas, and all Texas counties lying south of the named counties                                  |             September 30.             |
+|                                                 (2) Clallam, Grays Harbor, Jefferson, King, Kitsap, Pierce, Snohomish, and Thurston Counties, Washington                                                  |              October 31.              |
+|                                                                                     (3) All other counties and states                                                                                     |             December 10.              |
+|                                                                                      (b) For corn insured as silage:                                                                                      |                                       |
+|(1) Connecticut, Delaware, Idaho, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Oregon, Pennsylvania, Rhode Island, Vermont, Virginia, Washington, and West Virginia|              October 20.              |
+|                                                                                           (2) All other states                                                                                            |             September 30.             |
+|                                                                                          (c) For grain sorghum:                                                                                           |                                       |
+|                                    (1) Bexar, Wilson, Karnes, Goliad, Victoria, and Jackson Counties, Texas, and all Texas counties lying south of the named counties                                     |             September 30.             |
+|                                                                             (2) All other Texas counties and all other states                                                                             |             December 10.              |
+|                                                                                       (d) For soybeans: All states                                                                                        |             December 10.              |
 
 9. Causes of Loss
 
-In accordance with the provisions of section 12 of the Basic Provisions, insurance is provided only against the following causes of loss which occur within the insurance period:
+In accordance with section 12 of the Basic Provisions, insurance is provided only against the following causes of loss which occur within the insurance period:
 
 (a) Adverse weather conditions;
 
@@ -171,7 +174,7 @@ In accordance with the provisions of section 12 of the Basic Provisions, insuran
 
 (a) A replanting payment is allowed as follows:
 
-(1) In lieu of provisions in section 13 of the Basic Provisions that limit the amount of a replant payment to the actual cost of replanting, the amount of any replanting payment will be determined in accordance with these Crop Provisions;
+(1) In lieu of section 13 of the Basic Provisions that limit the amount of a replant payment to the actual cost of replanting, the amount of any replanting payment will be determined in accordance with these Crop Provisions;
 
 (2) Except as specified in section 10(a)(1), you must comply with all requirements regarding replanting payments contained in section 13 of the Basic Provisions; and
 
@@ -235,29 +238,39 @@ In accordance with the provisions of section 12 of the Basic Provisions, insuran
 
 (6) Multiplying the result of section 12(b)(5) by your share.
 
-For example:
+Example for Section 12(b)
 
-You have 100 percent share in 50 acres of corn in the unit with a production guarantee (per acre) of 115 bushels, your projected price is $4.58, your harvest price is $4.53, and your production to count is 5,000 bushels.
+You have 100 percent share in 50 acres of corn in the unit with a production guarantee (per acre) of 115 bushels, your projected price is $4.75, your harvest price is $4.68, and your production to count is 5,000 bushels.
 
 If you elected yield protection:
 
-(1) 50 acres × (115 bushel production guarantee × $4.58 projected price) = $26,335.00 value of the production guarantee
+(1) 50 acres × (115 bushel production guarantee × $4.75 projected price) = $27,312.50 value of the production guarantee;
 
-(3) 5,000 bushel production to count × $4.58 projected price = $22,900.00 value of the production to count
+(2) Not applicable;
 
-(5) $26,335.00−$22,900.00 = $3,435.00
+(3) 5,000 bushel production to count × $4.75 projected price = $23,750.00 value of the production to count;
 
-(6) $3,435.00 × 1.000 share = $3,435.00 indemnity; or
+(4) Not applicable;
+
+(5) $27,312.50−$23,750.00 = $3,562.50;
+
+(6) $3,562.50 × 1.000 share = $3,562.50 indemnity; or
 
 If you elected revenue protection:
 
-(1) 50 acres × (115 bushel production guarantee × $4.58 projected price) = $26,335.00 revenue protection guarantee
+(1) 50 acres × (115 bushel production guarantee × $4.75 projected price) = $27,312.50 revenue protection guarantee;
 
-(3) 5,000 bushel production to count × $4.53 harvest price = $22,650.00 value of the production to count
+(2) Not applicable;
 
-(5) $26,335.00−$22,650.00 = $3,685.00
+(3) 5,000 bushel production to count × $4.68 harvest price = $23,400.00 value of the production to count;
 
-(6) $3,685.00 × 1.000 share = $3,685.00 indemnity.
+(4) Not applicable;
+
+(5) $27,312.50−$23,400.00 = $3,912.50;
+
+(6) $3,912.50 × 1.000 share = $3,912.50 indemnity.
+
+*End of Example.*
 
 (c) The total production to count (in bushels for corn insured as grain or in tons for corn insured as silage) from all insurable acreage on the unit will include:
 
@@ -341,4 +354,4 @@ We may obtain samples of the production to determine the moisture content.
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[59 FR 49161, Sept. 27, 1994; 59 FR 60063, Nov. 22, 1994, as amended at 60 FR 62728, 62729, Dec. 7, 1995; 62 FR 63633, Dec. 2, 1997; 62 FR 65168, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 75 FR 15881, 15882, 15883, Mar. 30, 2010; 81 FR 84399, Nov. 23, 2016; 84 FR 65261, Nov. 27, 2019; 85 FR 38760, June 29, 2020; 86 FR 67838, Nov. 30, 2021]
+[59 FR 49161, Sept. 27, 1994; 59 FR 60063, Nov. 22, 1994, as amended at 60 FR 62728, 62729, Dec. 7, 1995; 62 FR 63633, Dec. 2, 1997; 62 FR 65168, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 75 FR 15881, 15882, 15883, Mar. 30, 2010; 81 FR 84399, Nov. 23, 2016; 84 FR 65261, Nov. 27, 2019; 85 FR 38760, June 29, 2020; 86 FR 67838, Nov. 30, 2021; 89 FR 53836, June 27, 2024]

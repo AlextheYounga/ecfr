@@ -1,49 +1,23 @@
-##### § 2804.35 How will the BLM prioritize my solar or wind energy application? #####
+##### § 2804.35 Application prioritization for solar and wind energy development rights-of-way. #####
 
-Link to an amendment published at 89 FR 35679, May 1, 2024.
+(a) The BLM will prioritize the processing of applications to ensure that agency resources are allocated to applications with the greatest potential for approval and implementation. The BLM's prioritization of an application is not a decision and is not subject to appeal under 43 CFR part 4.
 
-The BLM will prioritize your application by placing it into one of three categories and may re-categorize your application based on new information received through surveys, public meetings, or other data collection, or after any changes to the application. The BLM will generally prioritize the processing of leases awarded under subpart 2809 before applications submitted under subpart 2804. For applications submitted under subpart 2804, the BLM will categorize your application based on the following screening criteria.
+(b) The BLM will consider relevant criteria when prioritizing applications, including the following:
 
-(a) High-priority applications are given processing priority over medium- and low-priority applications and may include lands that meet the following criteria:
+(1) Whether the proposed project is located within an area preferred for solar or wind energy development, such as designated leasing areas, which include solar energy zones, development focus areas, and renewable energy development areas;
 
-(1) Lands specifically identified as appropriate for solar or wind energy development, other than designated leasing areas;
+(2) Whether the proposed project is likely to avoid adverse impacts to or conflicts with known resources or uses on or adjacent to public lands, and includes specific measures designed to further mitigate impacts or conflicts;
 
-(2) Previously disturbed sites or areas adjacent to previously disturbed or developed sites;
+(3) Whether the proposed project is in conformance with the governing BLM land use plans;
 
-(3) Lands currently designated as Visual Resource Management Class IV; or
+(4) Whether the proposed project is consistent with relevant State, Tribal, and local government laws, plans, or priorities;
 
-(4) Lands identified as suitable for disposal in BLM land use plans.
+(5) Whether the proposed project incorporates the best management practices set forth in the applicable BLM land use plans and other BLM plans and policies; and
 
-(b) Medium-priority applications are given priority over low-priority applications and may include lands that meet the following criteria:
+(6) Any other circumstances or prioritization criteria identified by the BLM in subsequent policy guidance or management direction through land use planning.
 
-(1) BLM special management areas that provide for limited development, including recreation sites and facilities;
+(c) The BLM will prioritize your complete application based on all available information, including information you provide to the BLM in the application or in response to deficiency notices, and information provided to the BLM in public meetings or consultations.
 
-(2) Areas where a project may adversely affect conservation lands, including lands with wilderness characteristics that have been identified in an updated wilderness characteristics inventory;
+(d) The BLM may re-prioritize your application at any time.
 
-(3) Right-of-way avoidance areas;
-
-(4) Areas where project development may adversely affect resources and properties listed nationally such as the National Register of Historic Places, National Natural Landmarks, or National Historic Landmarks;
-
-(5) Sensitive habitat areas, including important species use areas, riparian areas, or areas of importance for Federal or State sensitive species;
-
-(6) Lands currently designated as Visual Resource Management Class III;
-
-(7) Department of Defense operating areas with land use or operational mission conflicts; or
-
-(8) Projects with proposed groundwater uses within groundwater basins that have been allocated by State water resource agencies.
-
-(c) Low-priority applications may not be feasible to authorize. These applications may include lands that meet the following criteria:
-
-(1) Lands near or adjacent to lands designated by Congress, the President, or the Secretary for the protection of sensitive viewsheds, resources, and values (*e.g.,* units of the National Park System, Fish and Wildlife Service Refuge System, some National Forest System units, and the BLM National Landscape Conservation System), which may be adversely affected by development;
-
-(2) Lands near or adjacent to Wild, Scenic, and Recreational Rivers and river segments determined suitable for Wild or Scenic River status, if project development may have significant adverse effects on sensitive viewsheds, resources, and values;
-
-(3) Designated critical habitat for federally threatened or endangered species, if project development may result in the destruction or adverse modification of that critical habitat;
-
-(4) Lands currently designated as Visual Resource Management Class I or Class II;
-
-(5) Right-of-way exclusion areas; or
-
-(6) Lands currently designated as no surface occupancy for oil and gas development in BLM land use plans.
-
-[81 FR 92212, Dec. 19, 2016]
+[89 FR 35679, May 1, 2024]

@@ -1,5 +1,7 @@
 ##### § 425.208 Provisions of participation agreement. #####
 
+Link to an amendment published at 89 FR 54717, July 1, 2024.
+
 (a) *General rules.* (1) Upon being notified by CMS of its approval to participate in the Shared Savings Program, an executive of that ACO who has the ability to legally bind the ACO must sign and submit to CMS a participation agreement.
 
 (2) Under the participation agreement the ACO must agree to comply with the provisions of this part in order to participate in the Shared Savings Program.

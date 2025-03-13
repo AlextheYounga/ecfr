@@ -1,10 +1,8 @@
 ##### § 541.204 Educational establishments. #####
 
-Link to an amendment published at 89 FR 32971, Apr. 26, 2024.
-
 (a) The term “employee employed in a bona fide administrative capacity” in section 13(a)(1) of the Act also includes employees:
 
-(1) Compensated on a salary or fee basis at a rate of not less than $684 per week (or $455 per week if employed in the Commonwealth of the Northern Mariana Islands, Guam, Puerto Rico, or the U.S. Virgin Islands by employers other than the Federal government, or $380 per week if employed in American Samoa by employers other than the Federal government), exclusive of board, lodging, or other facilities; or on a salary basis which is at least equal to the entrance salary for teachers in the educational establishment by which employed; and
+(1) Compensated on a salary or fee basis at not less than the level set forth in § 541.600; or on a salary basis which is at least equal to the entrance salary for teachers in the educational establishment by which employed; and
 
 (2) Whose primary duty is performing administrative functions directly related to academic instruction or training in an educational establishment or department or subdivision thereof.
 
@@ -16,4 +14,4 @@ Link to an amendment published at 89 FR 32971, Apr. 26, 2024.
 
 (2) Jobs relating to building management and maintenance, jobs relating to the health of the students, and academic staff such as social workers, psychologists, lunch room managers or dietitians do not perform academic administrative functions. Although such work is not considered academic administration, such employees may qualify for exemption under § 541.200 or under other sections of this part, provided the requirements for such exemptions are met.
 
-[69 FR 22260, Apr. 23, 2004, as amended at 81 FR 32549, May 23, 2016; 84 FR 51306, Sept. 27, 2019]
+[69 FR 22260, Apr. 23, 2004, as amended at 81 FR 32549, May 23, 2016; 84 FR 51306, Sept. 27, 2019; 89 FR 32971, Apr. 26, 2024]

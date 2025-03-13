@@ -16,7 +16,7 @@
 
 (4) Any injuries sustained by the victim;
 
-(5) Post-report follow-up responses and action taken by the care provider facility (*e.g.,* housing placement changes, medical examinations, mental health counseling);
+(5) Post-report follow-up responses and action taken by the care provider facility (e.g., housing placement changes, medical examinations, mental health counseling);
 
 (6) Any interventions imposed on the perpetrator.
 

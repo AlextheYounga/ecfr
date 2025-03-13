@@ -1,0 +1,3 @@
+##### § 550.1405 When is a case file developed? #####
+
+BOEM will develop a case file during its investigation of the violation, and forward it to a Reviewing Officer if any of the conditions in § 550.1404 exist. The Reviewing Officer will review the case file and determine if a civil penalty is appropriate. The Reviewing Officer may administer oaths and issue subpoenas requiring witnesses to attend meetings, submit depositions, or produce evidence.

@@ -1,30 +1,42 @@
 ##### § 457.133 Prune crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 53840, June 27, 2024.
+The Prune Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
-The Prune Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
+United States Department of AgricultureFederal Crop Insurance CorporationPrune Crop Provisions
 
-FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Prune Crop Provisions1. Definitions
+In return for your payment of premium and administrative fee for the coverage, these Prune Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
+
+1. Definitions
 
 *Harvest.* Picking of mature prunes from the trees or ground either by hand or machine.
 
-*Interplanted.* In lieu of the definition contained in section 1 of the Basic Provisions, acreage on which two or more crops are planted in any form of alternating or mixed pattern.
+*Interplanted.* In lieu of the definition in section 1 of the Basic Provisions, acreage on which two or more crops are planted in any form of alternating or mixed pattern.
 
 *Natural condition prunes.* The condition of prunes in which they are normally delivered from a dehydrator or dry yard.
 
-*Prunes.* Any type or variety of plums that is grown in the area for the production of prunes and that meets the requirements defined in the applicable Federal Marketing Agreement Dried Prune Order.
+*Prunes.* Any type or variety of plums that is grown in the area for the production of prunes and that meets the requirements defined in the applicable Marketing Order for California Prunes.
 
 *Standard prunes.* Any natural condition prunes:
 
 (a) That grade “C,” “U.S. Standard,” or better in accordance with the United States Standards for Grades of Dried Prunes; or
 
-(b) That meet or exceed the grade standards in effect for the crop year if a Federal Marketing Agreement Dried Prune Order has been established for the area in which the insured crop is grown.
+(b) That meet or exceed the grade standards in effect for the crop year if a Marketing Order for California Prunes has been established for the area in which the insured crop is grown.
 
 *Ton.* Two thousand (2,000) pounds avoirdupois.
 
 2. Unit Division
 
-Provisions in the Basic Provisions that allow optional units by irrigated and non-irrigated practices are not applicable. Instead of establishing optional units by section, section equivalent, or FSA farm number optional units may be established if each optional unit is located on non-contiguous land.
+(a) Optional units may be established by:
+
+(1) Land location as provided in section 34(c)(1) of the Basic Provisions;
+
+(2) Organic or non-organic farming practices as provided in section 34(c)(3) of the Basic Provisions;
+
+(3) Combination of land location and organic farming practices as provided in section 34(c)(4) of the Basic Provisions; or
+
+(4) Non-contiguous land.
+
+(b) Optional units by irrigation practice as provided in section 34(c)(2) of the Basic Provisions are not applicable.
 
 3. Insurance Guarantees, Coverage Levels, and Prices
 
@@ -48,13 +60,13 @@ In addition to the requirements of section 3 of the Basic Provisions:
 
 (iii) Any other information that we request in order to establish your approved yield.
 
-(c) We will reduce the yield used to establish your production guarantee, as necessary, based on our estimate of the effect of any such situation listed in section 3(b) that may occur. If you fail to notify us of any situation in section 3(b), we will reduce the yield used to establish your production guarantee at any time we become aware of the circumstance. If the situation in section 3(b) occurred:
+(c) We will reduce the approved yield, as necessary, based on our estimate of the effect of any circumstance listed in section 3(b) that may reduce your yields from previous levels. If you fail to notify us of any circumstance that may reduce your yields from previous levels, we will reduce your approved yield at any time we become aware of the circumstance. If the circumstance occurred:
 
-(1) Before the beginning of the insurance period, the yield used to establish your production guarantee will be reduced for the current crop year regardless of whether the situation was due to an insured or uninsured cause of loss;
+(1) Before the beginning of the insurance period and you notify us by the production reporting date, the approved yield will be reduced for the current crop year regardless of whether the circumstance was due to an insured or uninsured cause of loss;
 
-(2) After the beginning of the insurance period and you notify us by the production reporting date, the yield used to establish your production guarantee will be reduced for the current crop year only if the potential reduction in the yield used to establish your production guarantee is due to an uninsured cause of loss; or
+(2) After the beginning of the insurance period and you notify us by the production reporting date, the approved yield will be reduced for the current crop year only if the potential reduction in the approved yield is due to an uninsured cause of loss; or
 
-(3) After the beginning of the insurance period and you fail to notify us by the production reporting date, an amount equal to the reduction in the yield will be added to the production to count calculated in section 11(c) due to uninsured causes when determining any indemnity. We may reduce the yield used to establish your production guarantee for the subsequent crop year to reflect any reduction in the productive capacity of the trees.
+(3) Before or after the beginning of the insurance period and you fail to notify us by the production reporting date, an amount equal to the reduction in the approved yield will be added to the production to count calculated in section 11(c)(1)(ii) due to uninsured causes. We will reduce your approved yield for the subsequent crop year to reflect any reduction in the productive capacity of the trees or in the yield potential of the insured acreage.
 
 (d) You may not increase your elected or assigned coverage level or the ratio of your price election to the maximum price election if a cause of loss that could or would reduce the yield of the insured crop has occurred prior to the time that you request the increase.
 
@@ -92,17 +104,13 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 8. Insurance Period
 
-(a) In accordance with the provisions of section 11 of the Basic Provisions:
+(a) In accordance with section 11 of the Basic Provisions:
 
 (1) For the year of application, coverage begins on March 1. For each subsequent crop year the policy remains continuously in force, coverage begins on the day immediately following the end of the insurance period for the prior crop year. Policy cancellation that results solely from transferring to a different insurance provider for a subsequent crop year will not be considered a break in continuous coverage.
 
-(2) The calendar date for the end of the insurance period for each crop year is:
+(2) The calendar date for the end of the insurance period for each crop year is October 1.
 
-(i) October 1 for California; or
-
-(ii) October 15 for Oregon.
-
-(b) In addition to the provisions of section 11 of the Basic Provisions:
+(b) In addition to section 11 of the Basic Provisions:
 
 (1) If you acquire an insurable share in any insurable acreage after coverage begins but on or before the acreage reporting date for the crop year, and after an inspection we consider the acreage acceptable, insurance will be considered to have attached to such acreage on the calendar date for the beginning of the insurance period.
 
@@ -118,7 +126,7 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 9. Causes of Loss
 
-(a) In accordance with the provisions of section 12 of the Basic Provisions, insurance is provided only against the following causes of loss that occur during the insurance period:
+(a) In accordance with section 12 of the Basic Provisions, insurance is provided only against the following causes of loss that occur during the insurance period:
 
 (1) Adverse weather conditions;
 
@@ -176,37 +184,45 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 (7) Multiplying the result of section 11(b)(6) by your share.
 
-*Example 1*:
+Examples for Section 11(b)
 
-You select 75 percent coverage level, 100 percent of the price election, and have a 100 percent share in 50.0 acres of type A prunes in the unit. The approved yield is 2.5 tons per acre and your price election is $1,000 per ton. You harvest 10.0 tons. Your indemnity would be calculated as follows:
+*Example 1:*
+
+You select 75 percent coverage level, 100 percent of the price election, and have a 100 percent share in 50.0 acres of type 1 prunes in the unit. The approved yield is 2.5 tons per acre and your price election is $1,000 per ton. You harvest 10.0 tons. Your indemnity would be calculated as follows:
 
 (1) 50.0 acres × 2.5 tons × 0.75 = 93.75-ton production guarantee;
 
 (2) 93.75-ton guarantee × $1,000 price election = $93,750 value of production guarantee;
 
+(3) Not applicable;
+
 (4) 10.0 tons × $1,000 price election = $10,000 value of production to count;
 
-(6) $93,750 − $10,000 = $83,750 loss; and
+(5) Not applicable;
+
+(6) $93,750− $10,000 = $83,750 loss; and
 
 (7) $83,750 × 1.000 share = $83,750 indemnity payment.
 
 *Example 2:*
 
-In addition to the information in the first example, you have an additional 50.0 acres of type B prunes with 100 percent share in the same unit. The approved yield is 2.0 tons per acre and the price election is $900 per ton. You harvest 5.0 tons. Your total indemnity for both types A and B would be calculated as follows:
+In addition to the information in the first example, you have an additional 50.0 acres of type 2 prunes with 100 percent share in the same unit. The approved yield is 2.0 tons per acre and the price election is $900 per ton. You harvest 5.0 tons. Your total indemnity for both types 1 and 2 would be calculated as follows:
 
-(1) 50.0 acres × 2.5 tons × 0.75 = 93.75-ton production guarantee for type A and 50.0 acres × 2.0 × 0.75 tons = 75.0-ton production guarantee for type B;
+(1) 50.0 acres × 2.5 tons × 0.75 = 93.75-ton production guarantee for type 1 and 50.0 acres × 2.0 tons × 0.75 = 75.0-ton production guarantee for type 2;
 
-(2) 93.75-ton guarantee × $1,000 price election = $93,750 value of production guarantee for type A and 75.0-ton guarantee × $900 price election = $67,500 value production guarantee for type B;
+(2) 93.75-ton guarantee × $1,000 price election = $93,750 value of production guarantee for type 1 and 75.0-ton guarantee × $900 price election = $67,500 value production guarantee for type 2;
 
 (3) $93,750 + $67,500 = $ 161,250 total value of production guarantee;
 
-(4) 10.0 tons × $1,000 price election = $10,000 value of production to count for type A and 5.0 tons × $900 price election = $4,500 value of production to count for type B;
+(4) 10.0 tons × $1,000 price election = $10,000 value of production to count for type 1 and 5.0 tons × $900 price election = $4,500 value of production to count for type 2;
 
 (5) $10,000 + $4,500 = $14,500 total value of production to count;
 
-(6) $161,250 − $14,500 = $146,750 loss; and
+(6) $161,250− $14,500 = $146,750 loss; and
 
 (7) $146,750 loss × 1.000 share = $146,750 indemnity payment.
+
+*End of Examples.*
 
 (c) The total production to count (in tons) from all insurable acreage on the unit will include:
 
@@ -244,4 +260,4 @@ In addition to the information in the first example, you have an additional 50.0
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 58630, Oct. 30, 1997, as amended at 62 FR 65172, Dec. 10, 1997; 65 FR 47839, Aug. 4, 2000; 77 FR 59048, Sept. 26, 2012; 87 FR 38894, June 30, 2022]
+[62 FR 58630, Oct. 30, 1997, as amended at 62 FR 65172, Dec. 10, 1997; 65 FR 47839, Aug. 4, 2000; 77 FR 59048, Sept. 26, 2012; 87 FR 38894, June 30, 2022; 89 FR 53840, June 27, 2024]

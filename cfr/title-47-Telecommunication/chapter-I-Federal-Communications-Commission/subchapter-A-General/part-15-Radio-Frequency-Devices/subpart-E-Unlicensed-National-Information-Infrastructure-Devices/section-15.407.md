@@ -1,7 +1,5 @@
 ##### § 15.407 General technical requirements. #####
 
-Link to an amendment published at 89 FR 890, Jan. 8, 2024.Link to a correction of the above amendment published at 89 FR 8081, Feb. 6, 2024.
-
 (a) *Power limits:*
 
 (1) (i) For an outdoor access point operating in the band 5.15-5.25 GHz, the maximum conducted output power over the frequency band of operation shall not exceed 1 W provided the maximum antenna gain does not exceed 6 dBi. In addition, the maximum power spectral density shall not exceed 17 dBm in any 1 megahertz band. If transmitting antennas of directional gain greater than 6 dBi are used, both the maximum conducted output power and the maximum power spectral density shall be reduced by the amount in dB that the directional gain of the antenna exceeds 6 dBi. The maximum e.i.r.p. at any elevation angle above 30 degrees as measured from the horizon must not exceed 125 mW (21 dBm).
@@ -104,7 +102,7 @@ The Commission strongly recommends that parties employing U-NII devices to provi
 
 (5) In the 5.925-7.125 GHz band, client devices, except fixed client devices, must operate under the control of a standard power access point, indoor access point or subordinate devices; Subordinate devices must operate under the control of an indoor access point. In all cases, an exception exists for transmitting brief messages to an access point when attempting to join its network after detecting a signal that confirms that an access point is operating on a particular channel. Access points and subordinate devices may connect to other access points or subordinate devices. Client devices are prohibited from connecting directly to another client device.
 
-(6) All U-NII transmitters, except for standard power access points, operating in the 5.925-7.125 GHz band must employ a contention-based protocol.
+(6) All U-NII transmitters, except for standard power access points and fixed client devices, operating in the 5.925-7.125 GHz band must employ a contention-based protocol.
 
 (7) Fixed client devices may only connect to a standard power access point.
 
@@ -240,4 +238,4 @@ dkm\_los = 4.12 \* (sqrt(Htx) + sqrt(Hrx)),where Htx is the height of the unlice
 
 (n) *Incumbent Protection by AFC system: Fixed-Satellite Services.* Standard power access points and fixed client devices located outdoors must limit their maximum e.i.r.p. at any elevation angle above 30 degrees as measured from the horizon to 21 dBm (125 mW) to protect fixed satellite services.
 
-[63 FR 40836, July 31, 1998, as amended at 69 FR 2687, Jan. 20, 2004; 69 FR 54036, Sept. 7, 2004; 79 FR 24579, May 1, 2014; 79 FR 56988, Sept. 24, 2014; 79 FR 76903, Dec. 23, 2014; 81 FR 19901, Apr. 6, 2016; 85 FR 18149, Apr. 1, 2020; 85 FR 31411, May 26, 2020; 86 FR 23295, May 3, 2021; 89 FR 890, Jan. 8, 2024]
+[63 FR 40836, July 31, 1998, as amended at 69 FR 2687, Jan. 20, 2004; 69 FR 54036, Sept. 7, 2004; 79 FR 24579, May 1, 2014; 79 FR 56988, Sept. 24, 2014; 79 FR 76903, Dec. 23, 2014; 81 FR 19901, Apr. 6, 2016; 85 FR 18149, Apr. 1, 2020; 85 FR 31411, May 26, 2020; 86 FR 23295, May 3, 2021; 89 FR 890, Jan. 8, 2024; 89 FR 8081, Feb. 6, 2024]

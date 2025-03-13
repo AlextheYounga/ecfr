@@ -1,14 +1,14 @@
 ##### § 457.131 Macadamia nut crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 53839, June 27, 2024.
+The Macadamia Nut Crop Insurance Provisions for the 2026 and succeeding crop years are as follows:
 
-The macadamia nut crop insurance provisions for the 2025 and succeeding crop years are as follows:
+United States Department of AgricultureFederal Crop Insurance CorporationMacadamia Nut Crop Provisions
 
-FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Macadamia Nut Crop Provisions1. Definitions
+In return for your payment of premium and administrative fee for the coverage, these Macadamia Nut Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
 
-*Age.* The number of complete 12-month periods that have elapsed since the month the trees were set out or were grafted, whichever is later. An age determination will be made for each unit, or portion thereof, as of January 1 of each crop year.
+1. Definitions
 
-*Crop year.* A period beginning with the date insurance attaches to the macadamia nut crop and extending through the normal harvest time. The crop year is designated by the calendar year in which the insurance period ends.
+*Age.* The number of complete 12-month periods that have elapsed since the month the trees were set out or were grafted, whichever is later. An age determination will be made for each unit, or portion of a unit, as of January 1 of each crop year.
 
 *Floaters.* Inedible, husked “field run” nuts identified by water flotation or laboratory testing.
 
@@ -16,13 +16,13 @@ FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsure
 
 *Harvest.* Picking of mature macadamia nuts from the ground.
 
-*Interplanted.* In lieu of the definition contained in section 1 of the Basic Provisions, acreage on which two or more crops are planted in any form of alternating or mixed pattern.
+*Interplanted.* In lieu of the definition in section 1 of the Basic Provisions, acreage on which two or more crops are planted in any form of alternating or mixed pattern.
 
 *Peewees.* Mature and immature wet in-shell nuts that are smaller than 16 mm (5/8 inch) in diameter.
 
 *Pound.* A unit of weight equal to 16 ounces avoirdupois.
 
-*Production guarantee (per acre).* The number of wet, in-shell pounds determined by multiplying the approved APH yield per acre by the coverage level percentage you elect.
+*Production guarantee (per acre).* In addition to the definition in section 1 of the Basic Provisions, the number of pounds is wet, in-shell macadamia nuts.
 
 *Rootstock.* The root and stem portion of a macadamia tree to which a macadamia shoot can be grafted.
 
@@ -30,15 +30,21 @@ FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsure
 
 2. Unit Division
 
-Provisions in the Basic Provisions that allow optional units by section, section equivalent, or FSA farm number and by irrigated and non-irrigated practices are not applicable. Optional units may be established only if each optional unit is located on non-contiguous land or grown and insured under an organic farming practice, unless otherwise allowed by written agreement.
+(a) Optional units may be established by:
+
+(1) Organic and non-organic farming practices as provided in section 34(c)(3) of the Basic Provisions; or
+
+(2) Non-contiguous land.
+
+(b) Optional units by land location as provided in section 34(c)(1) of the Basic Provisions and by irrigation practice as provided in section 34(c)(2) of the Basic Provisions are not applicable.
 
 3. Insurance Guarantees, Coverage Levels, and Prices
 
-In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
+In addition to the requirements of section 3 of the Basic Provisions:
 
 (a) You may select only one price election for all the macadamia nuts in the county insured under this policy unless the actuarial documents provide different price elections by type, in which case you may select one price election for each macadamia nut type designated in the actuarial documents. The price elections you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
 
-(b) You must report, by the production reporting date designated in section 3 of the Basic Provisions (§ 457.8), by type if applicable:
+(b) You must report, by the production reporting date designated in section 3 of the Basic Provisions, by type if applicable:
 
 (1) Any damage, removal of trees, change in practices, or any other circumstance that may reduce the expected yield below the yield upon which the insurance guarantee is based and the number of affected acres;
 
@@ -54,23 +60,29 @@ In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
 
 (iii) Any other information that we request in order to establish your approved yield.
 
-We will reduce the yield used to establish your production guarantee as necessary, based on our estimate of the effect of the following: interplanted perennial crop; removal of trees; damage; change in practices and any other circumstance on the yield potential of the insured crop. If you fail to notify us of any circumstance that may reduce your yields from previous levels, we will reduce your production guarantee as necessary at any time we become aware of the circumstance.
+(c) We will reduce the approved yield, as necessary, based on our estimate of the effect of any circumstance listed in section 3(b) that may reduce your yields from previous levels. If you fail to notify us of any circumstance that may reduce your yields from previous levels, we will reduce your approved yield at any time we become aware of the circumstance. If the circumstance occurred:
 
-(c) Your approved yield will be determined in accordance with sections 3 and 5 of the Basic Provisions unless damage or changes to the orchard or trees require establishment of the yield by another method. In the event of such damage or changes, the yield will be based on our appraisal of the potential of the insured acreage for the crop year.
+(1) Before the beginning of the insurance period and you notify us by the production reporting date, the approved yield will be reduced for the current crop year regardless of whether the circumstance was due to an insured or uninsured cause of loss;
 
-(d) Instead of reporting your production for the current crop year, as required by section 3(f)(1) of the Basic Provisions, there is a lag year and you are required to report production from two crop years ago by the production reporting date, *e.g.,* 2023 crop year production must be reported by the production reporting date for the 2025 crop year.
+(2) After the beginning of the insurance period and you notify us by the production reporting date, the approved yield will be reduced for the current crop year only if the potential reduction in the approved yield is due to an uninsured cause of loss; or
+
+(3) Before or after the beginning of the insurance period and you fail to notify us by the production reporting date, an amount equal to the reduction in the approved yield will be added to the production to count calculated in section 11(c)(1)(ii) due to uninsured causes. We will reduce your approved yield for the subsequent crop year to reflect any reduction in the productive capacity of the trees or in the yield potential of the insured acreage.
+
+(d) Your approved yield will be determined in accordance with sections 3 and 5 of the Basic Provisions unless damage or changes to the orchard or trees require establishment of the yield by another method. In the event of such damage or changes, the yield will be based on our appraisal of the potential of the insured acreage for the crop year.
+
+(e) Instead of reporting your production for the current crop year, as required by section 3(f)(1) of the Basic Provisions, there is a lag year and you are required to report production from two crop years ago by the production reporting date, *e.g.,* 2024 crop year production must be reported by the production reporting date for the 2026 crop year.
 
 4. Contract Changes
 
-In accordance with section 4 of the Basic Provisions (§ 457.8), the contract change date is August 31 preceding the cancellation date.
+In accordance with section 4 of the Basic Provisions, the contract change date is August 31 preceding the cancellation date.
 
 5. Cancellation and Termination Dates
 
-In accordance with section 2 of the Basic Provisions (§ 457.8), the cancellation and termination dates are December 31.
+In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are December 31.
 
 6. Insured Crop
 
-In accordance with section 8 of the Basic Provisions (§ 457.8), the crop insured will be all macadamia nuts in the county for which a premium rate is provided by the actuarial documents:
+In accordance with section 8 of the Basic Provisions, the crop insured will be all macadamia nuts in the county for which a premium rate is provided by the actuarial documents:
 
 (a) In which you have a share;
 
@@ -90,17 +102,17 @@ In accordance with section 8 of the Basic Provisions (§ 457.8), the crop insure
 
 7. Insurable Acreage
 
-In lieu of the provisions in section 9 of the Basic Provisions (§ 457.8) that prohibit insurance attaching to a crop planted with another crop, macadamia nuts interplanted with another perennial crop are insurable unless we inspect the acreage and determine that it does not meet the requirements contained in your policy.
+In lieu of the provisions in section 9 of the Basic Provisions that prohibit insurance attaching to a crop planted with another crop, macadamia nuts interplanted with another perennial crop are insurable unless we inspect the acreage and determine that it does not meet the requirements contained in your policy.
 
 8. Insurance Period
 
-(a) In accordance with the provisions of section 11 of the Basic Provisions (§ 457.8):
+(a) In accordance with section 11 of the Basic Provisions:
 
 (1) Coverage begins on January 1 of each crop year, except that for the year of application, if your application is received after December 22 but prior to January 1, insurance will attach on the 10th day after your properly completed application is received in our local office, unless we inspect the acreage during the 10-day period and determine that it does not meet insurability requirements. You must provide any information that we require for the crop or to determine the condition of the orchard.
 
 (2) The calendar date for the end of the insurance period for each crop year is the second June 30th after insurance attaches, or as specified in the Special Provisions.
 
-(b) In addition to the provisions of section 11 of the Basic Provisions (§ 457.8):
+(b) In addition to section 11 of the Basic Provisions:
 
 (1) If you acquire an insurable share in any insurable acreage after coverage begins but on or before the acreage reporting date for the crop year, and after an inspection we consider the acreage acceptable, insurance will be considered to have attached to such acreage on the calendar date for the beginning of the insurance period.
 
@@ -114,7 +126,7 @@ In lieu of the provisions in section 9 of the Basic Provisions (§ 457.8) that p
 
 9. Causes of Loss
 
-(a) In accordance with the provisions of section 12 of the Basic Provisions (§ 457.8), insurance is provided only against the following causes of loss that occur during the insurance period:
+(a) In accordance with section 12 of the Basic Provisions, insurance is provided only against the following causes of loss that occur during the insurance period:
 
 (1) Adverse weather conditions;
 
@@ -128,7 +140,7 @@ In lieu of the provisions in section 9 of the Basic Provisions (§ 457.8) that p
 
 (6) Failure of irrigation water supply, if caused by an insured peril that occurs during the insurance period.
 
-(b) In addition to the causes of loss excluded in section 12 of the Basic Provisions (§ 457.8), we will not insure against damage or loss of production due to:
+(b) In addition to the causes of loss excluded in section 12 of the Basic Provisions, we will not insure against damage or loss of production due to:
 
 (1) Disease or insect infestation, unless adverse weather:
 
@@ -140,7 +152,7 @@ In lieu of the provisions in section 9 of the Basic Provisions (§ 457.8) that p
 
 10. Duties in the Event of Damage or Loss
 
-In addition to the requirements of section 14 of the Basic Provisions (§ 457.8), the following will apply:
+In addition to the requirements of section 14 of the Basic Provisions, the following will apply:
 
 (a) You must notify us within 3 days of the date harvest should have started if the crop will not be harvested.
 
@@ -172,19 +184,25 @@ In addition to the requirements of section 14 of the Basic Provisions (§ 457.8)
 
 (7) Multiplying the result in section 11(b)(6) by your share.
 
-*For example:*
+Example for Section 11(b)
 
-You select the 65 percent coverage level and 100 percent of the price election on 10 acres of macadamia nuts in the unit. Your share is 100 percent. Your production guarantee (per acre) is 4,000 pounds. The price election is $0.78. You are able to harvest 25,000 pounds. Your indemnity would be calculated as follows:
+You select the 65 percent coverage level and 100 percent of the price election on 10 acres of macadamia nuts in the unit. Your share is 100 percent. Your production guarantee (per acre) is 4,000 pounds. The price election is $1.00. You are able to harvest 25,000 pounds. Your indemnity would be calculated as follows:
 
 (1) 10 acres × 4,000 pounds = 40,000 pounds guarantee;
 
-(2) 40,000 pounds × $0.78 price election = $31,200 total value of guarantee;
+(2) 40,000 pounds × $1.00 price election = $40,000 total value of guarantee;
 
-(4) 25,000 pounds production to count × $0.78 price election = $19,500 value of production to count;
+(3) Not applicable;
 
-(6) $31,200 total value of guarantee − $19,500 value of production to count = $11,700 loss; and
+(4) 25,000 pounds production to count × $1.00 price election = $25,000 value of production to count;
 
-(7) $11,700 loss × 100 percent share = $11,700 indemnity payment.
+(5) Not applicable;
+
+(6) $40,000 total value of guarantee− $25,000 value of production to count = $15,000 loss; and
+
+(7) $15,000 loss × 100 percent share = $15,000 indemnity payment.
+
+*End of Example.*
 
 (c) The total production to count (wet in-shell pounds) from all insurable acreage on the unit will include:
 
@@ -212,4 +230,4 @@ You select the 65 percent coverage level and 100 percent of the price election o
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 35664, July 2, 1997, as amended at 62 FR 65172, Dec. 10, 1997; 75 FR 15887, Mar. 30, 2010; 75 FR 59057, Sept. 27, 2010; 80 FR 20412, Apr. 16, 2015; 87 FR 38893, June 30, 2022; 87 FR 52853, Aug. 30, 2022; 88 FR 59790, Aug. 30, 2023; 88 FR 70339, Oct. 11, 2023]
+[62 FR 35664, July 2, 1997, as amended at 62 FR 65172, Dec. 10, 1997; 75 FR 15887, Mar. 30, 2010; 75 FR 59057, Sept. 27, 2010; 80 FR 20412, Apr. 16, 2015; 87 FR 38893, June 30, 2022; 87 FR 52853, Aug. 30, 2022; 88 FR 59790, Aug. 30, 2023; 88 FR 70339, Oct. 11, 2023; 89 FR 53839, June 27, 2024]

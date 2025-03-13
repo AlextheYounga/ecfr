@@ -1,8 +1,6 @@
 ##### § 210.4 Cash and donated food assistance to States. #####
 
-Link to an amendment published at 89 FR 32063, Apr. 25, 2024.
-
-(a) *General.* To the extent funds are available, FNS will make cash assistance available in accordance with the provisions of this section to each State agency for lunches and meal supplements served to children under the National School Lunch and Commodity School Programs. To the extent donated foods are available, FNS will provide donated food assistance to distributing agencies for each lunch served in accordance with the provisions of this part and part 250 of this chapter.
+(a) *General.* To the extent funds are available, FNS will make cash assistance available in accordance with the provisions of this section to each State agency for lunches and afterschool snacks served to children under the National School Lunch and Commodity School Programs. To the extent donated foods are available, FNS will provide donated food assistance to distributing agencies for each lunch served in accordance with the provisions of this part and part 250 of this chapter.
 
 (b) *Assistance for the National School Lunch Program.* The Secretary will make cash and/or donated food assistance available to each State agency and distributing agency, as appropriate, administering the National School Lunch Program, as follows:
 
@@ -18,15 +16,15 @@ Link to an amendment published at 89 FR 32063, Apr. 25, 2024.
 
 (2) *Donated food assistance.* For each school year, FNS will provide distributing agencies with donated foods for lunches served under the National School Lunch Program as provided under part 250 of this chapter. The per lunch value of donated food assistance is adjusted by the Secretary annually to reflect changes as required under section 6 of the Act. These adjustments, which reflect changes in the Price Index for Foods Used in Schools and Institutions, are effective on July 1 of each year and are announced by Notice in the Federal Register in July of each year.
 
-(3) *Cash assistance for meal supplements.* For those eligible schools (as defined in § 210.10(n)(1)) operating afterschool care programs and electing to serve meal supplements to enrolled children, funds shall be made available to each State agency, each school year in an amount no less than the sum of the products obtained by multiplying:
+(3) *Cash assistance for afterschool snacks.* For those eligible schools (as defined in § 210.10(o)(1)) operating afterschool care programs and electing to serve afterschool snacks to enrolled children, funds will be made available to each State agency, each school year in an amount no less than the sum of the products obtained by multiplying:
 
-(i) The number of meal supplements served in the afterschool care program within the State to children from families that do not satisfy the income standards for free and reduced price school meals by 2.75 cents;
+(i) The number of afterschool snacks served in the afterschool care program within the State to children from families that do not satisfy the income standards for free and reduced price school meals by 2.75 cents;
 
-(ii) The number of meal supplements served in the afterschool care program within the State to children from families that satisfy the income standard for free school meals by 30 cents;
+(ii) The number of afterschool snacks served in the afterschool care program within the State to children from families that satisfy the income standard for free school meals by 30 cents; and
 
-(iii) The number of meal supplements served in the afterschool care program within the State to children from families that satisfy the income standard for reduced price school meals by 15 cents.
+(iii) The number of afterschool snacks served in the afterschool care program within the State to children from families that satisfy the income standard for reduced price school meals by 15 cents.
 
-(4) The rates in paragraph (b)(3) are the base rates established in August 1981 for the CACFP. FNS shall prescribe annual adjustments to these rates in the same Notice as the National Average Payment Rates for lunches. These adjustments shall ensure that the reimbursement rates for meal supplements served under this part are the same as those implemented for meal supplements in the CACFP.
+(4) *Annual adjustments for cash assistance for afterschool snacks.* The rates in paragraph (b)(3) of this section are the base rates established in August 1981 for the Child and Adult Care Food Program (CACFP). FNS will prescribe annual adjustments to these rates in the same Notice as the National Average Payment Rates for lunches. These adjustments will ensure that the reimbursement rates for afterschool snacks served under this part are the same as those implemented for afterschool snacks in the CACFP.
 
 (c) *Assistance for the Commodity School Program.* FNS will make special cash assistance available to each State agency for lunches served in commodity schools in the same manner as special cash assistance is provided in the National School Lunch Program. Payment of such amounts to State agencies is subject to the reporting requirements contained in § 210.5(d). FNS will provide donated food assistance in accordance with part 250 of this chapter. Of the total value of donated food assistance to which it is entitled, the school food authority may elect to receive cash payments of up to 5 cents per lunch served in its commodity school(s) for donated foods processing and handling expenses. Such expenses include any expenses incurred by or on behalf of a commodity school for processing or other aspects of the preparation, delivery, and storage of donated foods. The school food authority may have all or part of these cash payments retained by the State agency for use on its behalf for processing and handling expenses by the State agency or it may authorize the State agency to transfer to the distributing agency all or any part of these payments for use on its behalf for these expenses. Payment of such amounts to State agencies is subject to the reporting requirements contained in § 210.5(d). The total value of donated food assistance is calculated on a school year basis by adding:
 
@@ -34,4 +32,4 @@ Link to an amendment published at 89 FR 32063, Apr. 25, 2024.
 
 (2) The national per lunch average value of donated foods prescribed by the Secretary for the period of July 1 through June 30 multiplied by the total number of lunches served during the school year under the Commodity School Program.
 
-[53 FR 29147, Aug. 2, 1988, as amended at 58 FR 42487, Aug. 10, 1993; 60 FR 31207, June 13, 1995; 65 FR 26912, May 9, 2000; 77 FR 25034, Apr. 27, 2012]
+[53 FR 29147, Aug. 2, 1988, as amended at 58 FR 42487, Aug. 10, 1993; 60 FR 31207, June 13, 1995; 65 FR 26912, May 9, 2000; 77 FR 25034, Apr. 27, 2012; 89 FR 32063, Apr. 25, 2024]

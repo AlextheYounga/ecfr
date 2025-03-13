@@ -1,0 +1,3 @@
+##### § 550.1472 How will the Office of Hearings and Appeals conduct the hearing on the record? #####
+
+If you request a hearing on the record under § 550.1454, § 550.1456, § 550.1462, or § 550.1464, the hearing will be conducted by a Departmental Administrative Law Judge from the Office of Hearings and Appeals. After the hearing, the Administrative Law Judge will issue a decision in accordance with the evidence presented and applicable law.

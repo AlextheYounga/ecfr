@@ -1,0 +1,3 @@
+##### § 550.1461 How will BOEM inform me of violations without a period to correct? #####
+
+We will inform you of any violation, without a period to correct, by issuing a Notice of Noncompliance and Civil Penalty explaining the violation, how to correct it, and the penalty assessment. We will serve the Notice of Noncompliance and Civil Penalty by registered mail or personal service using your address of record as specified under 30 CFR part 1218, subpart H.

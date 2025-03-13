@@ -1,0 +1,3 @@
+##### § 556.521 When is my lease effective? #####
+
+Your lease is effective on the first day of the month following the date that BOEM executes the lease. You may request in writing, before BOEM executes the lease, that your lease be effective as of the first day of the month in which BOEM executes the lease. If BOEM agrees to make the lease effective as of the earlier date, BOEM will so indicate when it executes the lease.

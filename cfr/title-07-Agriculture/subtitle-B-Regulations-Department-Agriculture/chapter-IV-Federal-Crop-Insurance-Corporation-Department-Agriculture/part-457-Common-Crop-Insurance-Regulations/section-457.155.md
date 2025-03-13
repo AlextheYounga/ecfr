@@ -1,12 +1,10 @@
 ##### § 457.155 Processing bean crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 53844, June 27, 2024.
+The Processing Bean Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
-The Processing Bean Crop Insurance Provisions for the 2017 and succeeding crop years are as follows:
+United States Department of AgricultureFederal Crop Insurance CorporationProcessing Bean Crop Provisions
 
-FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Processing Bean Crop Provisions
-
-If a conflict exists among the policy provisions, the order of priority is as follows: (1) The Catastrophic Risk Protection Endorsement, if applicable; (2) the Special Provisions; (3) these Crop Provisions; and (4) the Basic Provisions with (1) controlling (2), etc.
+In return for your payment of premium and administrative fee for the coverage, these Processing Bean Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
 
 1. Definitions
 
@@ -16,7 +14,7 @@ If a conflict exists among the policy provisions, the order of priority is as fo
 
 *Bypassed acreage.* Land on which production is ready for harvest but the processor elects not to accept such production so it is not harvested.
 
-*Good farming practices.* The cultural practices generally in use in the county for the crop to make normal progress toward maturity and produce at least the yield used to determine the production guarantee and are those required by the bean processor contract with the processing company, and recognized by the National Institute of Food and Agriculture as compatible with agronomic and weather conditions in the county.
+*Good farming practices.* In addition to the definition contained in the Basic Provisions, good farming practices include those practices required by the processor contract.
 
 *Harvest.* The mechanical picking of bean pods from the vines.
 
@@ -52,11 +50,11 @@ Multiple contracts with the same processor that specify amounts of production wi
 
 (ii) In accordance with section 12, all production from any basic unit in excess of the amount under contract will be included as production to count if such production is applied to any other basic unit for which the contracted amount has not been fulfilled; and
 
-(2) Provisions in the Basic Provisions that allow optional units by section, section equivalent, or FSA farm serial number and by irrigated and non-irrigated practices are not applicable. Optional units will not be established.
+(2) Optional units as provided in section 34(c) of the Basic Provisions are not applicable.
 
-(b) For any processor contract that stipulates the number of acres to be planted, in addition to or instead of, establishing optional units by section, section equivalent or FSA farm serial number, or irrigated and non-irrigated acreage, optional units may be established by type if acreage of one type does not continue into acreage of another type in the same rows or planting pattern.
+(b) For any processor contract that stipulates the number of acres to be planted, in addition to, or instead of, establishing optional units as provided in section 34(c) of the Basic Provisions, optional units may be established by type if acreage of one type does not continue into acreage of another type in the same rows or planting pattern.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 In addition to the requirements of section 3 of the Basic Provisions:
 
@@ -128,19 +126,7 @@ In lieu of the provisions contained in section 11 of the Basic Provisions, regar
 
 (c) Final adjustment of a loss; or
 
-(d) The date shown below for the end of the insurance period in the calendar year in which the processing beans would normally be harvested, unless otherwise agreed to in writing, as follows:
-
-(1) October 30 for all processing beans in the state of Arkansas;
-
-(2) October 15 for all processing beans in the states of Delaware, Maryland, and New Jersey;
-
-(3) October 5 for all processing beans in the states of Idaho, Oregon, and Washington;
-
-(4) September 30 for snap beans in the state of New York;
-
-(5) September 20 for snap beans in all other states; or
-
-(6) October 5 for lima beans in all other states.
+(d) The calendar date for the end of the insurance period shown in the Special Provisions, unless otherwise modified by written agreement.
 
 10. Causes of Loss
 
@@ -216,35 +202,37 @@ In addition to the notice required by section 14 of the Basic Provisions, you mu
 
 (7) Multiplying the result of section 12(b)(6) by your share.
 
-For example:
+Example for Section 12(b)
 
-You have a 100 percent share in 100 acres of snap type processing beans in the unit, with a guarantee of 3.0 tons per acre and a price election of $110.00 per ton. You are only able to harvest 200 tons. Your indemnity would be calculated as follows:
+You have a 100 percent share in 100 acres of snap type processing beans in the unit, with a guarantee of 3.0 tons per acre and a price election of $210.00 per ton. You are only able to harvest 200 tons. Your indemnity would be calculated as follows:
 
 (1) 100 acres × 3.0 tons = 300 tons guarantee;
 
-(2) 300 tons × $110.00 price election = $33,000.00 value of guarantee;
+(2) 300 tons × $210.00 price election = $63,000.00 value of guarantee;
 
-(3) 200 tons × $110.00 price election = $22,000.00 value of production to count;
+(3) 200 tons × $210.00 price election = $42,000.00 value of production to count;
 
-(4) $33,000.00 − $22,000.00 = $11,000.00 loss; and
+(4) $63,000.00−$42,000.00 = $21,000.00 loss; and
 
-(5) $11,000.00 × 100 percent = $11,000.00 indemnity payment.
+(5) $21,000.00 × 100 percent = $21,000.00 indemnity payment.
 
-You also have a 100 percent share in 100 acres of lima type processing beans in the same unit, with a guarantee of 1.0 ton per acre and a price election of $225.00 per ton. You are only able to harvest 75 tons. Your total indemnity for both snap and lima types processing beans would be calculated as follows:
+You also have a 100 percent share in 100 acres of lima type processing beans in the same unit, with a guarantee of 1.0 ton per acre and a price election of $525.00 per ton. You are only able to harvest 75 tons. Your total indemnity for both snap and lima types processing beans would be calculated as follows:
 
 (1) 100 acres × 3.0 tons = 300 tons guarantee for the snap type, and 100 acres × 1.0 ton = 100 tons guarantee for the lima type;
 
-(2) 300 tons × $110.00 price election = $33,000.00 value of guarantee for the snap type, and 100 tons × $225.00 price election = $22,500.00 value of guarantee for the lima type;
+(2) 300 tons × $210.00 price election = $63,000.00 value of guarantee for the snap type, and 100 tons × $525.00 price election = $52,500.00 value of guarantee for the lima type;
 
-(3) $33,000.00 + $22,500.00 = $55,500.00 total value of guarantee;
+(3) $63,000.00 + $52,500.00 = $115,500.00 total value of guarantee;
 
-(4) 200 tons × $110.00 price election = $22,000.00 value of production to count for the snap type, and 75 tons × $225.00 price election = $16,875.00 value of production to count for the lima type;
+(4) 200 tons × $210.00 price election = $42,000.00 value of production to count for the snap type, and 75 tons × $525.00 price election = $39,375.00 value of production to count for the lima type;
 
-(5) $22,000.00 + $16,875.00 = $38,875.00 total value of production to count;
+(5) $42,000.00 + $39,375.00 = $81,375.00 total value of production to count;
 
-(6) $55,500.00 − $38,875.00 = $16,625.00 loss; and
+(6) $115,500.00−$81,375.00 = $33,625.00 loss; and
 
-(7) $16,625.00 loss × 100 percent = $16,625.00 indemnity payment.
+(7) $33,625.00 loss × 100 percent = $33,625.00 indemnity payment.
+
+*End of Example.*
 
 (c) The total production to count, specified in tons, from all insurable acreage on the unit will include:
 
@@ -286,4 +274,4 @@ A late planting period is not applicable to processing beans unless allowed by t
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional levels of coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[62 FR 58625, Oct. 30, 1997, as amended at 62 FR 65176, Dec. 10, 1997; 76 FR 4805, Jan. 27, 2011; 81 FR 84400, Nov. 23, 2016]
+[62 FR 58625, Oct. 30, 1997, as amended at 62 FR 65176, Dec. 10, 1997; 76 FR 4805, Jan. 27, 2011; 81 FR 84400, Nov. 23, 2016; 89 FR 53844, June 27, 2024]

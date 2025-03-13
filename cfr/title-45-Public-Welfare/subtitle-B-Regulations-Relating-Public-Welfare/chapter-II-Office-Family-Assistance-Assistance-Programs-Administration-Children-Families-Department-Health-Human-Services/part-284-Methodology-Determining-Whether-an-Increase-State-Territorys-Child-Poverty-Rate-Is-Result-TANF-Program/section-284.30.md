@@ -38,4 +38,4 @@
 
 (15) Any other data on the TANF program(s) in the State that would support the State's conclusions; and
 
-(16) Information on other circumstances in the State that may have contributed to the increase in child poverty such as changes in economic or social conditions, *e.g.,* an increase in the State's unemployment rate.
+(16) Information on other circumstances in the State that may have contributed to the increase in child poverty such as changes in economic or social conditions, e.g., an increase in the State's unemployment rate.

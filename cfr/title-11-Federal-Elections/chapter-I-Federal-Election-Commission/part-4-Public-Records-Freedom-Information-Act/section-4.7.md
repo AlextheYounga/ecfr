@@ -1,14 +1,12 @@
 ##### § 4.7 Requests for records. #####
 
-Link to an amendment published at 89 FR 35687, May 2, 2024.
-
 (a) [Reserved]
 
 (b)(1) Requests for copies of records pursuant to the Freedom of Information Act shall be addressed to the Chief FOIA Officer and filed pursuant to 11 CFR 100.19(g). The request shall reasonably describe the records sought with sufficient specificity with respect to names, dates, and subject matter, to permit the records to be located. A requester will be promptly advised if the records cannot be located on the basis of the description given and that further identifying information must be provided before the request can be satisfied.
 
 (2) Requests for Commission records and copies thereof shall specify the preferred form or format (including electronic formats) of the response. The Commission shall accommodate requesters as to form or format if the record is readily available in that form or format. When requesters do not specify the form or format of the response, the Commission shall respond in the form or format in which the document is most accessible to the Commission.
 
-(c) The Commission shall determine within twenty working days after receipt of a request, or twenty working days after an appeal is granted, whether to comply with such request, unless in unusual circumstances the time is extended or subject to § 4.9(f)(3), which governs advance payments. In the event the time is extended, the requestor shall be notified of the reasons for the extension and the date on which a determination is expected to be made, but in no case shall the extended time exceed ten working days. An extension may be made if it is—
+(c) The Commission shall determine within twenty working days after receipt of a request, or twenty working days after an appeal is granted, whether to comply with such request, unless in unusual circumstances the time is extended or subject to § 4.9(f)(3), which governs advance payments. The Commission shall immediately notify the requester of such determination, the reasons therefor, and the right of the requester to seek assistance from the FOIA Public Liaison for the Commission and to seek dispute resolution services from the Office of Government Information Services. In the event the time is extended, the requester shall be notified of the reasons for the extension and the date on which a determination is expected to be made, but in no case shall the extended time exceed ten working days. An extension may be made if it is—
 
 (1) Necessary to locate records or transfer them from physically separate facilities; or
 
@@ -34,8 +32,10 @@ Link to an amendment published at 89 FR 35687, May 2, 2024.
 
 (3) The Commission shall determine whether to grant a request for expedited processing and notify the requester of such determination within ten days of receipt of the request. Denials of requests for expedited processing may be appealed as set forth in § 4.8. The Commission shall expeditiously determine any such appeal. As soon as practicable, the Commission shall process the documents responsive to a request for which expedited processing is granted.
 
-(h) Any person denied access to records by the Commission shall be notified immediately giving reasons therefore, and notified of the right of such person to appeal such adverse determination to the Commission.
+(h) Any person denied access to records by the Commission shall be notified immediately giving reasons therefor, and notified of the right of such person to appeal such adverse determination to the Commission within 90 days from the date of the adverse determination and the right of such person to seek dispute resolution services from the FOIA Public Liaison for the Commission or the Office of Government Information Services.
 
 (i) The date of receipt of a request under this part shall be the date on which the FOIA Officer actually receives the request.
 
-[44 FR 33368, June 8, 1979, as amended at 45 FR 31292, May 13, 1980; 50 FR 50778, Dec. 12, 1985; 52 FR 39213, Oct. 21, 1987; 65 FR 9206, Feb. 24, 2000; 75 FR 31, Jan. 4, 2010; 82 FR 60853, Dec. 26, 2017; 89 FR 213, Jan. 2, 2024]
+(j) The FOIA Public Liaison is responsible for reducing delays, increasing transparency and understanding of the status of requests, and assisting in the resolution of disputes. The FOIA Public Liaison may be contacted at the address identified in the definition of “Commission” in § 1.2 of this chapter.
+
+[44 FR 33368, June 8, 1979, as amended at 45 FR 31292, May 13, 1980; 50 FR 50778, Dec. 12, 1985; 52 FR 39213, Oct. 21, 1987; 65 FR 9206, Feb. 24, 2000; 75 FR 31, Jan. 4, 2010; 82 FR 60853, Dec. 26, 2017; 89 FR 213, Jan. 2, 2024; 89 FR 35687, May 2, 2024]

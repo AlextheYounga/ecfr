@@ -102,4 +102,18 @@
 
 (iii) Been physically located in the county where the eligible loss adverse weather or eligible loss condition occurred on the beginning date of the eligible adverse weather or eligible loss condition.
 
-79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49465, Oct. 2, 2018;85 FR 10964, Feb. 26, 2020; 87 FR 19785, Apr. 6, 2022; 88 FR 1891, Jan. 11, 2023]
+(g) To be considered eligible for milk losses due to H5N1, livestock must be adult dairy cows that are:
+
+(1) Currently in one of the lactation phases (early, mid, or late) of their lactation cycle and producing milk in which the producer had financial risk at the time of the positive H5N1 test collection date;
+
+(2) Owned, cash-leased, purchased, or been raised by a contract grower or eligible livestock owner, for not less than 60 days before the date of the eligible loss condition;
+
+(3) Maintained for commercial milk production as part of the producer's farming operation on the positive H5N1 test collection date;
+
+(4) Part of a herd that has a minimum of one positive H5N1 test; and
+
+(5) Initially removed from commercial milk production due to confirmed or suspected H5N1 infection at some point during the time period beginning 14 days before the positive H5N1 test collection date through 120 days after the positive H5N1 test collection date.
+
+(h) An adult dairy cow that meets the requirements of paragraph (g) of this section is considered eligible to be reported for payment only for the month in which it is initially removed from commercial milk production due to confirmed or suspected H5N1 infection. In order to prevent duplicate benefits for the same loss, an adult dairy cow cannot be reported as an eligible animal for any subsequent month after the initial month of eligibility unless the animal has returned to milk production and is later removed from milk production due to a new infection after the initial 120 day eligibility from an APHIS confirmed positive test within the herd. During the 120 day time period after a positive H5N1 test collection date, an animal is only eligible for payment one time, based on the positive H5N1 test for that herd.
+
+79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49465, Oct. 2, 2018;85 FR 10964, Feb. 26, 2020; 87 FR 19785, Apr. 6, 2022; 88 FR 1891, Jan. 11, 2023; 89 FR 54335, July 1, 2024]

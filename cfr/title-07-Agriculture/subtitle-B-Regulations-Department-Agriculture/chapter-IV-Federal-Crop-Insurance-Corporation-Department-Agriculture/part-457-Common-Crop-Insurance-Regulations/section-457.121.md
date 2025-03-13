@@ -1,10 +1,12 @@
 ##### § 457.121 Arizona-California citrus crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 53837, June 27, 2024.
+The Arizona-California Citrus Crop Insurance Provisions for the 2026 and succeeding crop years are as follows:
 
-The Arizona-California citrus crop insurance provisions for the 2025 and succeeding crop years are as follows:
+United States Department of AgricultureFederal Crop Insurance CorporationArizona-California Citrus Crop Provisions
 
-United States Department of AgricultureFederal Crop Insurance CorporationArizona-California Citrus Crop Provisions1. Definitions
+In return for your payment of premium and administrative fee for coverage, these Arizona-California Citrus Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
+
+1. Definitions
 
 *Carton.* The standard container for marketing the fresh packed citrus fruit commodity, as shown below, unless otherwise provided in the Special Provisions. In the absence of marketing records on a carton basis, production will be converted to cartons on the basis of the following average net pounds of packed fruit in a standard packed carton, unless otherwise provided in the Special Provisions.
 
@@ -34,7 +36,7 @@ United States Department of AgricultureFederal Crop Insurance CorporationArizona
 
 *Commodity type.* A specific subgroup of a citrus fruit commodity having a characteristic or set of characteristics distinguishable from other subgroups of the same citrus fruit commodity.
 
-*Crop year.* The period beginning with the date insurance attaches to the insured crop and extending through normal harvest time. It is designated by the calendar year following the year in which the bloom is normally set.
+*Crop year.* In lieu of the definition contained in section 1 of the Basic Provisions, the period beginning with the date insurance attaches to the insured crop and extending through normal harvest time. It is designated by the calendar year following the year in which the bloom is normally set.
 
 *Dehorning.* Cutting of any scaffold limb to a length that is not greater than one-fourth (1/4) the height of the tree before cutting.
 
@@ -58,13 +60,15 @@ United States Department of AgricultureFederal Crop Insurance CorporationArizona
 
 2. Unit Division
 
-(a) Basic units will be established in accordance with section 1 of the Basic Provisions.
+(a) Optional units may be established by:
 
-(b) Provisions in the Basic Provisions that allow optional units by section, section equivalent, or FSA farm number and by irrigated and non-irrigated practices are not applicable. Unless otherwise allowed by written agreement, optional units may only be established if each optional unit meets one or more of the following:
+(1) Organic and non-organic farming practices as provided in section 34(c)(3) of the Basic Provisions;
 
-(1) The optional unit is located on non-contiguous land; and
+(2) Non-contiguous land; or
 
-(2) In addition to or instead of establishing optional units by non-contiguous land, optional units may be established by commodity type if allowed by the Special Provisions.
+(3) In addition to or instead of establishing optional units by non-contiguous land as provided in section 2(a)(2), optional units may be established by commodity type if allowed by the Special Provisions.
+
+(b) Optional units by land location as provided in section 34(c)(1) of the Basic Provisions and by irrigation practice as provided in section 34(c)(2) of the Basic Provisions are not applicable.
 
 3. Insurance Guarantees, Coverage Levels, and Prices
 
@@ -72,7 +76,7 @@ United States Department of AgricultureFederal Crop Insurance CorporationArizona
 
 (b) Instead of reporting your production of marketable fresh fruit for the current crop year, as required by section 3(f)(1) of the Basic Provisions, there is a lag year and you are required to report production from two crop years ago by the production reporting date, *e.g.,* 2023 crop year production must be reported by the production reporting date for the 2025 crop year.
 
-(c) In addition, you must report, by the production reporting date designated in section 3 of the Basic Provisions (§ 457.8), by commodity type, if applicable:
+(c) In addition, you must report, by the production reporting date designated in section 3 of the Basic Provisions, by commodity type, if applicable:
 
 (1) The number of trees damaged, dehorned or removed; any change in practices or any other circumstance that may reduce the expected yield below the yield upon which the insurance guarantee is based; and the number of affected acres;
 
@@ -88,21 +92,21 @@ United States Department of AgricultureFederal Crop Insurance CorporationArizona
 
 (iii) Any other information that we request in order to establish your approved yield.
 
-(d) We will reduce the yield used to establish your production guarantee as necessary, based on our estimate of the effect of any situation listed in section 3(c) that may occur. If you fail to notify us of any situation in section 3(c), we will reduce your production guarantee as necessary, at any time we become aware of the circumstance. If the situation in 3(c) occurred:
+(d) We will reduce the approved yield, as necessary, based on our estimate of the effect of any circumstance listed in section 3(c) that may reduce your yields from previous levels. If you fail to notify us of any circumstance that may reduce your yields from previous levels, we will reduce your approved yield at any time we become aware of the circumstance. If the circumstance occurred:
 
-(1) Before the beginning of the insurance period, the yield used to establish your production guarantee will be reduced for the current crop year regardless of whether the situation was due to an insured or uninsured cause of loss;
+(1) Before the beginning of the insurance period and you notify us by the production reporting date, the approved yield will be reduced for the current crop year regardless of whether the circumstance was due to an insured or uninsured cause of loss;
 
-(2) After the beginning of the insurance period and you notify us by the production reporting date, the yield used to establish your production guarantee will be reduced for the current crop year only if the potential reduction in the yield used to establish your production guarantee is due to an uninsured cause of loss; or
+(2) After the beginning of the insurance period and you notify us by the production reporting date, the approved yield will be reduced for the current crop year only if the potential reduction in the approved yield is due to an uninsured cause of loss; or
 
-(3) After the beginning of the insurance period and you fail to notify us by the production reporting date, an amount equal to the reduction in the yield will be added to the production to count calculated in section 11(c) due to uninsured causes. We may reduce the yield used to establish your production guarantee for the subsequent crop year to reflect any reduction in the productive capacity of the trees.
+(3) Before or after the beginning of the insurance period and you fail to notify us by the production reporting date, an amount equal to the reduction in the approved yield will be added to the production to count calculated in section 11(c)(1)(ii) due to uninsured causes. We will reduce your approved yield for the subsequent crop year to reflect any reduction in the productive capacity of the trees or in the yield potential of the insured acreage.
 
 4. Contract Changes
 
-In accordance with section 4 of the Basic Provisions (§ 457.8), the contract change date is August 31 preceding the cancellation date.
+In accordance with section 4 of the Basic Provisions, the contract change date is August 31 preceding the cancellation date.
 
 5. Cancellation and Termination Dates
 
-In accordance with section 2 of the Basic Provisions (§ 457.8), the cancellation and termination dates are November 20.
+In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are November 20.
 
 6. Insured Crop
 
@@ -126,11 +130,11 @@ In accordance with section 8 of the Basic Provisions, the insured crop will be a
 
 7. Insurable Acreage
 
-In lieu of the provisions in section 9 of the Basic Provisions that prohibit insurance attaching to interplanted acreage, citrus interplanted with another perennial agricultural commodity is insurable unless we inspect the acreage and determine it does not meet the requirements contained in your policy.
+In lieu of section 9 of the Basic Provisions that prohibit insurance attaching to interplanted acreage, citrus interplanted with another perennial agricultural commodity is insurable unless we inspect the acreage and determine it does not meet the requirements contained in your policy.
 
 8. Insurance Period
 
-(a) In accordance with the provisions of section 11 of the Basic Provisions (§ 457.8):
+(a) In accordance with section 11 of the Basic Provisions:
 
 (1) Coverage begins on November 21 of each crop year, except that for the year of application, if your application is received after November 11 but prior to November 21, insurance will attach on the 10th day after your properly completed application is received in our local office unless we inspect the acreage during the 10-day period and determine that it does not meet insurability requirements. You must provide any information that we require for the insured crop or to determine the condition of the grove.
 
@@ -146,7 +150,7 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 (iii) July 31 for lemons in all other counties and for all other citrus fruit commodities.
 
-(b) In addition to the provisions of section 11 of the Basic Provisions (§ 457.8):
+(b) In addition to section 11 of the Basic Provisions:
 
 (1) If you acquire an insurable share in any insurable acreage after coverage begins, but on or before the acreage reporting date for the crop year, and after an inspection we consider the acreage acceptable, insurance will be considered to have attached to such acreage on the calendar date for the beginning of the insurance period.
 
@@ -160,7 +164,7 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 9. Causes of Loss
 
-(a) In accordance with the provisions of section 12 of the Basic Provisions (§ 457.8), insurance is provided only against the following causes of loss that occur during the insurance period:
+(a) In accordance with section 12 of the Basic Provisions, insurance is provided only against the following causes of loss that occur during the insurance period:
 
 (1) Adverse weather conditions;
 
@@ -184,7 +188,7 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 (a) In accordance with the requirements of section 14 of the Basic Provisions, you must leave representative samples. In lieu of section 14(c)(3) of the Basic Provisions, we will determine which trees must remain unharvested as your representative sample so that we may inspect them in accordance with procedures.
 
-(b) In addition to the requirements of section 14 of the Basic Provisions (§ 457.8), the following will apply:
+(b) In addition to the requirements of section 14 of the Basic Provisions, the following will apply:
 
 (1) If the Special Provisions permit or a written agreement authorizing direct marketing exists, you must notify us at least 15 days before any production from any unit will be harvested for direct marketing. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be harvested for direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
 
@@ -248,4 +252,4 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[61 FR 44147, Aug. 28, 1996, as amended at 62 FR 65170, Dec. 10, 1997; 78 FR 46253, July 31, 2013; 87 FR 38892, June 30, 2022; 88 FR 59789, Aug. 30, 2023; 88 FR 70339, Oct. 11, 2023]
+[61 FR 44147, Aug. 28, 1996, as amended at 62 FR 65170, Dec. 10, 1997; 78 FR 46253, July 31, 2013; 87 FR 38892, June 30, 2022; 88 FR 59789, Aug. 30, 2023; 88 FR 70339, Oct. 11, 2023; 89 FR 53837, June 27, 2024]

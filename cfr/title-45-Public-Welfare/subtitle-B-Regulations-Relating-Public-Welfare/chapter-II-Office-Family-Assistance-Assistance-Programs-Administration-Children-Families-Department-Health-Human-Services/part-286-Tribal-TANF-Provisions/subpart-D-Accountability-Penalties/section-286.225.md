@@ -2,7 +2,7 @@
 
 (a) We will not impose a penalty against a Tribe if it is determined that the Tribe had reasonable cause for failure to meet the requirements listed at § 286.195(a)(1), § 286.195(a)(2), or § 286.195(a)(3). The general factors a Tribe may use to claim reasonable cause include, but are not limited to, the following:
 
-(1) Natural disasters, extreme weather conditions, and other calamities (*e.g.,* hurricanes, earthquakes, fire, and economic disasters) whose disruptive impact was so significant that the Tribe failed to meet a requirement.
+(1) Natural disasters, extreme weather conditions, and other calamities (e.g., hurricanes, earthquakes, fire, and economic disasters) whose disruptive impact was so significant that the Tribe failed to meet a requirement.
 
 (2) Formally issued Federal guidance which provided incorrect information resulting in the Tribe's failure or prior to the effective date of these regulations, guidance that was issued after a Tribe implemented the requirements of the Act based on a different, but reasonable, interpretation of the Act.
 

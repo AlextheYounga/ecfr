@@ -1,7 +1,5 @@
 ##### § 685.403 Individual process for borrower defense. #####
 
-Link to an amendment published at 88 FR 43905, July 10, 2023.
-
 (a) *Individual process, generally.* (1) If § 685.402 does not apply to an individual borrower who has submitted a borrower defense application, the Secretary will initiate a process to determine whether the individual borrower has a borrower defense under this subpart.
 
 (2) If § 685.402 applies to an individual borrower who is covered under a group borrower defense application being considered by the Secretary, that group borrower defense application will toll the timelines under § 685.406 on adjudicating the individual borrower application.
@@ -36,7 +34,7 @@ Link to an amendment published at 88 FR 43905, July 10, 2023.
 
 (d) *Forbearance.* The Secretary grants forbearance on all of the borrower's title IV loans that are not in default in accordance with § 685.205 and—
 
-(1) Notifies the borrower of the option to decline forbearance and to continue making payments on the borrower's loans, and the availability of income-contingent repayment plans under § 685.209 and the income-based repayment plan under § 685.221; and,
+(1) Provides the borrower with information about the availability of the income-driven repayment plans under § 685.209;
 
 (2) Does not charge interest on the borrower's loans beginning 180 days from the date the borrower was initially granted forbearance under this paragraph (d) if the Secretary has failed to make a determination on the borrower's claim by that date and continuing until the Department notifies the borrower of the decision.
 
@@ -49,3 +47,5 @@ Link to an amendment published at 88 FR 43905, July 10, 2023.
 (3) Notifies the borrower of the suspension of collection activity and explains that collection activity will resume no earlier than 90 days following final adjudication of the borrower defense claim if the Secretary determines that the borrower does not qualify for a full discharge; and
 
 (4) Notifies the borrower of the option to begin or continue making payments under a rehabilitation agreement or other repayment agreement on the defaulted loan.
+
+[87 FR 66068, Nov. 1, 2022, as amended at 88 FR 43905, July 10, 2023]

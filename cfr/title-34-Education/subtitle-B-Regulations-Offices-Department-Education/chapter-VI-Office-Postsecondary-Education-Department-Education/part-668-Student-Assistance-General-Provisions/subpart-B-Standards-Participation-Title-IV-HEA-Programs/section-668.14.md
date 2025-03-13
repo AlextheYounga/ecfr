@@ -1,10 +1,22 @@
 ##### § 668.14 Program participation agreement. #####
 
-Link to an amendment published at 88 FR 74696, Oct. 31, 2023.
-
 (a)(1) An institution may participate in any Title IV, HEA program, other than the LEAP and NEISP programs, only if the institution enters into a written program participation agreement with the Secretary, on a form approved by the Secretary. A program participation agreement conditions the initial and continued participation of an eligible institution in any Title IV, HEA program upon compliance with the provisions of this part, the individual program regulations, and any additional conditions specified in the program participation agreement that the Secretary requires the institution to meet.
 
 (2) An institution's program participation agreement applies to each branch campus and other location of the institution that meets the applicable requirements of this part unless otherwise specified by the Secretary.
+
+(3) An institution's program participation agreement must be signed by—
+
+(i) An authorized representative of the institution; and
+
+(ii) For a proprietary or private nonprofit institution, an authorized representative of an entity with direct or indirect ownership of the institution if that entity has the power to exercise control over the institution. The Secretary considers the following as examples of circumstances in which an entity has such power:
+
+(A) If the entity has at least 50 percent control over the institution through direct or indirect ownership, by voting rights, by its right to appoint board members to the institution or any other entity, whether by itself or in combination with other entities or natural persons with which it is affiliated or related, or pursuant to a proxy or voting or similar agreement.
+
+(B) If the entity has the power to block significant actions.
+
+(C) If the entity is the 100 percent direct or indirect interest holder of the institution.
+
+(D) If the entity provides or will provide the financial statements to meet any of the requirements of 34 CFR 600.20(g) or (h) or subpart L of this part.
 
 (b) By entering into a program participation agreement, an institution agrees that—
 
@@ -26,7 +38,7 @@ Link to an amendment published at 88 FR 74696, Oct. 31, 2023.
 
 (v) In the case of a public postsecondary vocational educational institution that is approved by a State agency recognized for the approval of public postsecondary vocational education, that State agency;
 
-(5) It will comply with the provisions of § 668.15 relating to factors of financial responsibility;
+(5) It will comply with the provisions of subpart L of this part relating to factors of financial responsibility;
 
 (6) It will comply with the provisions of § 668.16 relating to standards of administrative capability;
 
@@ -64,19 +76,31 @@ Link to an amendment published at 88 FR 74696, Oct. 31, 2023.
 
 (16) For a proprietary institution, the institution will derive at least 10 percent of its revenues for each fiscal year from sources other than Federal funds, as provided in § 668.28(a), or be subject to sanctions described in § 668.28(c);
 
-(17) The Secretary, guaranty agencies and lenders as defined in 34 CFR part 682, nationally recognized accrediting agencies, the Secretary of Veterans Affairs, State agencies recognized under 34 CFR part 603 for the approval of public postsecondary vocational education, and State agencies that legally authorize institutions and branch campuses or other locations of institutions to provide postsecondary education, have the authority to share with each other any information pertaining to the institution's eligibility for or participation in the Title IV, HEA programs or any information on fraud and abuse;
+(17) The Secretary, guaranty agencies, and lenders as defined in 34 CFR part 682, nationally recognized accrediting agencies, Federal agencies, State agencies recognized under 34 CFR part 603 for the approval of public postsecondary vocational education, State agencies that legally authorize institutions and branch campuses or other locations of institutions to provide postsecondary education, and State attorneys general have the authority to share with each other any information pertaining to the institution's eligibility for or participation in the title IV, HEA programs or any information on fraud, abuse, or other violations of law;
 
 (18) It will not knowingly—
 
-(i) Employ in a capacity that involves the administration of the Title IV, HEA programs or the receipt of funds under those programs, an individual who has been convicted of, or has pled *nolo contendere* or guilty to, a crime involving the acquisition, use, or expenditure of Federal, State, or local government funds, or has been administratively or judicially determined to have committed fraud or any other material violation of law involving Federal, State, or local government funds;
+(i) Employ in a capacity that involves the administration of the title IV, HEA programs or the receipt of funds under those programs, an individual who has been:
 
-(ii) Contract with an institution or third-party servicer that has been terminated under section 432 of the HEA for a reason involving the acquisition, use, or expenditure of Federal, State, or local government funds, or that has been administratively or judicially determined to have committed fraud or any other material violation of law involving Federal, State, or local government funds; or
-
-(iii) Contract with or employ any individual, agency, or organization that has been, or whose officers or employees have been—
-
-(A) Convicted of, or pled *nolo contendere* or guilty to, a crime involving the acquisition, use, or expenditure of Federal, State, or local government funds; or
+(A) Convicted of, or pled nolo contendere or guilty to, a crime involving the acquisition, use, or expenditure of Federal, State, or local government funds;
 
 (B) Administratively or judicially determined to have committed fraud or any other material violation of law involving Federal, State, or local government funds;
+
+(C) An owner, director, officer, or employee who exercised substantial control over an institution, or a direct or indirect parent entity of an institution, that owes a liability for a violation of a title IV, HEA program requirement and is not making payments in accordance with an agreement to repay that liability; or
+
+(D) A ten-percent-or-higher equity owner, director, officer, principal, executive, or contractor at an institution in any year in which the institution incurred a loss of Federal funds in excess of 5 percent of the participating institution's annual title IV, HEA program funds; or
+
+(ii) Contract with any institution, third-party servicer, individual, agency, or organization that has, or whose owners, officers or employees have—
+
+(A) Been convicted of, or pled nolo contendere or guilty to, a crime involving the acquisition, use, or expenditure of Federal, State, or local government funds;
+
+(B) Been administratively or judicially determined to have committed fraud or any other material violation of law involving Federal, State, or local government funds;
+
+(C) Had its participation in the title IV programs terminated, certification revoked, or application for certification or recertification for participation in the title IV programs denied;
+
+(D) Been an owner, director, officer, or employee who exercised substantial control over an institution, or a direct or indirect parent entity of an institution, that owes a liability for a violation of a title IV, HEA program requirement and is not making payments in accordance with an agreement to repay that liability; or
+
+(E) Been a 10 percent-or-higher equity owner, director, officer, principal, executive, or contractor affiliated with another institution in any year in which the other institution incurred a loss of Federal funds in excess of 5 percent of the participating institution's annual title IV, HEA program funds;
 
 (19) It will complete, in a timely manner and to the satisfaction of the Secretary, surveys conducted as a part of the Integrated Postsecondary Education Data System (IPEDS) or any other Federal collection effort, as designated by the Secretary, regarding data on postsecondary institutions;
 
@@ -128,15 +152,23 @@ Link to an amendment published at 88 FR 74696, Oct. 31, 2023.
 
 (ii) Returns of title IV, HEA program funds that the institution or its servicer may be required to make;
 
-(26) If an educational program offered by the institution is required to prepare a student for gainful employment in a recognized occupation, the institution must—
+(26) If an educational program offered by the institution on or after July 1, 2024, is required to prepare a student for gainful employment in a recognized occupation, the institution must—
 
-(i) Demonstrate a reasonable relationship between the length of the program and entry level requirements for the recognized occupation for which the program prepares the student. The Secretary considers the relationship to be reasonable if the number of clock hours provided in the program does not exceed the greater of—
+(i) Establish the need for the training for the student to obtain employment in the recognized occupation for which the program prepares the student; and
 
-(A) One hundred and fifty percent of the minimum number of clock hours required for training in the recognized occupation for which the program prepares the student, as established by the State in which the institution is located, if the State has established such a requirement, or as established by any Federal agency; or
+(ii) Demonstrate a reasonable relationship between the length of the program and the entry level requirements for the recognized occupation for which the program prepares the student by limiting the number of hours in the program to the greater of—
 
-(B) The minimum number of clock hours required for training in the recognized occupation for which the program prepares the student as established in a State adjacent to the State in which the institution is located; and
+(A) The required minimum number of clock hours, credit hours, or the equivalent required for training in the recognized occupation for which the program prepares the student, as established by the State in which the institution is located, if the State has established such a requirement or as established by any Federal agency; or
 
-(ii) Establish the need for the training for the student to obtain employment in the recognized occupation for which the program prepares the student;
+(B) Another State's required minimum number of clock hours, credit hours, or the equivalent required for training in the recognized occupation for which the program prepares the student, if the institution documents, with substantiation by a certified public accountant who prepares the institution's compliance audit report as required under § 668.23 that—
+
+(*1*) A majority of students resided in that State while enrolled in the program during the most recently completed award year;
+
+(*2*) A majority of students who completed the program in the most recently completed award year were employed in that State; or
+
+(*3*) The other State is part of the same metropolitan statistical area as the institution's home State and a majority of students, upon enrollment in the program during the most recently completed award year, stated in writing that they intended to work in that other State; and
+
+(iii) Notwithstanding paragraph (a)(26)(ii) of this section, the program length limitation does not apply for occupations where the State entry level requirements include the completion of an associate or higher-level degree; or where the program is delivered entirely through distance education or correspondence courses;
 
 (27) In the case of an institution participating in a Title IV, HEA loan program, the institution—
 
@@ -174,7 +206,7 @@ Link to an amendment published at 88 FR 74696, Oct. 31, 2023.
 
 (B) Make available the results of the review in paragraph (b)(30)(ii)(A) of this section to its students through a Web site or other means; and
 
-(C) To the extent practicable, offer legal alternatives for downloading or otherwise acquiring copyrighted material, as determined by the institution; and
+(C) To the extent practicable, offer legal alternatives for downloading or otherwise acquiring copyrighted material, as determined by the institution;
 
 (31) The institution will submit a teach-out plan to its accrediting agency in compliance with 34 CFR 602.24(c) and the standards of the institution's accrediting agency. The institution will update its teach-out plan upon the occurrence of any of the following events:
 
@@ -186,7 +218,25 @@ Link to an amendment published at 88 FR 74696, Oct. 31, 2023.
 
 (iv) The institution intends to close a location that provides 100 percent of at least one program.
 
-(v) The institution otherwise intends to cease operations.
+(v) The institution otherwise intends to cease operations;
+
+(32) In each State in which: the institution is located; students enrolled by the institution in distance education or correspondence courses are located, as determined at the time of initial enrollment in accordance with 34 CFR 600.9(c)(2); or for the purposes of paragraphs (b)(32)(i) and (ii) of this section, each student who enrolls in a program on or after July 1, 2024, and attests that they intend to seek employment, the institution must determine that each program eligible for title IV, HEA program funds—
+
+(i) Is programmatically accredited if the State or a Federal agency requires such accreditation, including as a condition for employment in the occupation for which the program prepares the student, or is programmatically pre-accredited when programmatic pre-accreditation is sufficient according to the State or Federal agency;
+
+(ii) Satisfies the applicable educational requirements for professional licensure or certification requirements in the State so that a student who enrolls in the program, and seeks employment in that State after completing the program, qualifies to take any licensure or certification exam that is needed for the student to practice or find employment in an occupation that the program prepares students to enter; and
+
+(iii) Complies with all State laws related to closure, including record retention, teach-out plans or agreements, and tuition recovery funds or surety bonds;
+
+(33) It will not withhold official transcripts or take any other negative action against a student related to a balance owed by the student that resulted from an error in the institution's administration of the title IV, HEA programs, or any fraud or misconduct by the institution or its personnel;
+
+(34) Upon request by a student, the institution will provide an official transcript that includes all the credit or clock hours for payment periods—
+
+(i) In which the student received title IV, HEA funds; and
+
+(ii) For which all institutional charges were paid or included in an agreement to pay at the time the request is made; and
+
+(35) It will not maintain policies and procedures to encourage, or that condition institutional aid or other student benefits in a manner that induces, a student to limit the amount of Federal student aid, including Federal loan funds, that the student receives, except that the institution may provide a scholarship on the condition that a student forego borrowing if the amount of the scholarship provided is equal to or greater than the amount of Federal loan funds that the student agrees not to borrow.
 
 (c) In order to participate in any Title IV, HEA program (other than the LEAP and NEISP programs), the institution must certify that it—
 
@@ -202,22 +252,64 @@ Link to an amendment published at 88 FR 74696, Oct. 31, 2023.
 
 (3) This paragraph applies to elections as defined in section 301(1) of the Federal Election Campaign Act of 1971 (2 U.S.C. 431(1)), and includes the election for Governor or other chief executive within such State.
 
-(e)(1) A program participation agreement becomes effective on the date that the Secretary signs the agreement.
+(e) If an institution is provisionally certified, the Secretary may apply such conditions as are determined to be necessary or appropriate to the institution, including, but not limited to—
+
+(1) For an institution that the Secretary determines may be at risk of closure—
+
+(i) Submission of an acceptable teach-out plan or agreement to the Department, the State, and the institution's recognized accrediting agency; and
+
+(ii) Submission to the Department of an acceptable records retention plan that addresses title IV, HEA records, including but not limited to student transcripts, and evidence that the plan has been implemented;
+
+(2) For an institution that the Secretary determines may be at risk of closure, that is teaching out or closing, or that is not financially responsible or administratively capable, the release of holds on student transcripts;
+
+(3) Restrictions or limitations on the addition of new programs or locations;
+
+(4) Restrictions on the rate of growth, new enrollment of students, or title IV, HEA volume in one or more programs;
+
+(5) Restrictions on the institution providing a teach-out on behalf of another institution;
+
+(6) Restrictions on the acquisition of another participating institution, which may include, in addition to any other required financial protection, the posting of financial protection in an amount determined by the Secretary but not less than 10 percent of the acquired institution's title IV, HEA volume for the prior fiscal year;
+
+(7) Additional reporting requirements, which may include, but are not limited to, cash balances, an actual and protected cash flow statement, student rosters, student complaints, and interim unaudited financial statements;
+
+(8) Limitations on the institution entering into a written arrangement with another eligible institution or an ineligible institution or organization for that other eligible institution or ineligible institution or organization to provide between 25 and 50 percent of the institution's educational program under § 668.5(a) or (c); and
+
+(9) For an institution found to have engaged in substantial misrepresentations to students, engaged in aggressive recruiting practices, or violated incentive compensation rules, requirements to hire a monitor and to submit marketing and other recruiting materials (*e.g.,* call scripts) for the review and approval of the Secretary; and
+
+(10) Reporting to the Department, no later than 21 days after an institution receives from any local, State, Tribal, Federal, or foreign government or government entity a civil investigative demand, a subpoena, a request for documents or information, or other formal inquiry that is related to the marketing or recruitment of prospective students, the awarding of Federal financial aid for enrollment at the school, or the provision of educational services for which Federal aid is provided.
+
+(f) If a proprietary institution seeks to convert to nonprofit status following a change in ownership, the following conditions will apply to the institution following the change in ownership, in addition to any other conditions that the Secretary may deem appropriate:
+
+(1) The institution must continue to meet the requirements under § 668.28(a) until the Department has accepted, reviewed, and approved the institution's financial statements and compliance audits that cover two complete consecutive fiscal years in which the institution meets the requirements of paragraph (b)(16) of this section under its new ownership, or until the Department approves the institution's request to convert to nonprofit status, whichever is later.
+
+(2) The institution must continue to meet the gainful employment requirements of subpart S of this part until the Department has accepted, reviewed, and approved the institution's financial statements and compliance audits that cover two complete consecutive fiscal years under its new ownership, or until the Department approves the institution's request to convert to nonprofit status, whichever is later.
+
+(3) The institution must submit regular and timely reports on agreements entered into with a former owner of the institution or a natural person or entity related to or affiliated with the former owner of the institution, so long as the institution participates as a nonprofit institution.
+
+(4) The institution may not advertise that it operates as a nonprofit institution for the purposes of title IV, HEA until the Department approves the institution's request to convert to nonprofit status.
+
+(g) If an institution is initially certified as a nonprofit institution, or if it has undergone a change in ownership and seeks to convert to nonprofit status, the following conditions will apply to the institution upon initial certification or following the change in ownership, in addition to any other conditions that the Secretary may deem appropriate:
+
+(1) The institution must submit reports on accreditor and State authorization agency actions and any new servicing agreements within 10 business days of receipt of the notice of the action or of entering into the agreement, as applicable, until the Department has accepted, reviewed, and approved the institution's financial statements and compliance audits that cover two complete consecutive fiscal years following initial certification, or two complete fiscal years after a change in ownership, or until the Department approves the institution's request to convert to nonprofit status, whichever is later.
+
+(2) The institution must submit a report and copy of the communications from the Internal Revenue Service (IRS) or any State or foreign country related to tax-exempt or nonprofit status within 10 business days of receipt so long as the institution participates as a nonprofit institution.
+
+(h)(1) A program participation agreement becomes effective on the date that the Secretary signs the agreement.
 
 (2) A new program participation agreement supersedes any prior program participation agreement between the Secretary and the institution.
 
-(f)(1) Except as provided in paragraphs (g) and (h) of this section, the Secretary terminates a program participation agreement through the proceedings in subpart G of this part.
+(i)(1) Except as provided in paragraphs (g) and (h) of this section, the Secretary terminates a program participation agreement through the proceedings in subpart G of this part.
 
 (2) An institution may terminate a program participation agreement.
 
 (3) If the Secretary or the institution terminates a program participation agreement under paragraph (f) of this section, the Secretary establishes the termination date.
 
-(g) An institution's program participation agreement automatically expires on the date that—
+(j) An institution's program participation agreement automatically expires on the date that—
 
 (1) The institution changes ownership that results in a change in control as determined by the Secretary under 34 CFR part 600; or
 
 (2) The institution's participation ends under the provisions of § 668.26(a) (1), (2), (4), or (7).
 
-(h) An institution's program participation agreement no longer applies to or covers a location of the institution as of the date on which that location ceases to be a part of the participating institution.
+(k) An institution's program participation agreement no longer applies to or covers a location of the institution as of the date on which that location ceases to be a part of the participating institution.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)[59 FR 22425, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 63 FR 40623, July 29, 1998; 64 FR 58617, Oct. 29, 1999; 64 FR 59038, Nov. 1, 1999; 65 FR 38729, June 22, 2000; 65 FR 65637, Nov. 1, 2000; 67 FR 67072, Nov. 1, 2002; 73 FR 35492, June 23, 2008; 74 FR 55648, Oct. 28, 2009; 74 FR 55934, Oct. 29, 2009; 76 FR 66950, Oct. 29, 2010; 76 FR 20536, Apr. 13, 2011; 79 FR 65007, Oct. 31, 2014; 81 FR 76070, Nov. 1, 2016; 84 FR 49910, Sept. 23, 2019; 85 FR 54816, Sept. 2, 2020; 87 FR 65490, Oct. 28, 2022]
+(Approved by the Office of Management and Budget under control number 1845-0022)[59 FR 22425, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 63 FR 40623, July 29, 1998; 64 FR 58617, Oct. 29, 1999; 64 FR 59038, Nov. 1, 1999; 65 FR 38729, June 22, 2000; 65 FR 65637, Nov. 1, 2000; 67 FR 67072, Nov. 1, 2002; 73 FR 35492, June 23, 2008; 74 FR 55648, Oct. 28, 2009; 74 FR 55934, Oct. 29, 2009; 76 FR 66950, Oct. 29, 2010; 76 FR 20536, Apr. 13, 2011; 79 FR 65007, Oct. 31, 2014; 81 FR 76070, Nov. 1, 2016; 84 FR 49910, Sept. 23, 2019; 85 FR 54816, Sept. 2, 2020; 87 FR 65490, Oct. 28, 2022; 88 FR 74696, Oct 31, 2023]

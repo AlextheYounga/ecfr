@@ -1,12 +1,12 @@
 ##### § 457.140 Dry pea crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 53841, June 27, 2024.
+The Dry Pea Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
-The Dry Pea Crop Insurance Provisions for the 2022 and succeeding crop years are as follows:
+United States Department of AgricultureFederal Crop Insurance CorporationDry Pea Crop Provisions
 
-FCIC policies:
+In return for your payment of premium and administrative fee for the coverage, these Dry Pea Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
 
-Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Dry Pea Crop Provisions1. Definitions
+1. Definitions
 
 *Adequate stand.* A population of live plants per acre that will produce at least the yield used to establish your production guarantee.
 
@@ -60,25 +60,25 @@ Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Ap
 
 *Windrow.* Dry peas where the plants are cut and placed in a row.
 
-2. Unit Division.
+2. Unit Division
 
-(a) In addition to enterprise units provided in section 34(a) of the Basic Provisions, you may elect separate enterprise units by type, as provided in this section, if allowed by the actuarial documents. If you elect enterprise units by type, you may not elect enterprise or optional units by irrigation practices.
+(a) In addition to enterprise units provided in section 34(a)(2) of the Basic Provisions, you may elect separate enterprise units by type, as provided in this section, if allowed by the actuarial documents. If you elect enterprise units by type, you may not elect enterprise or optional units by any other practice or type.
 
 (1) You may elect separate enterprise units by type unless otherwise specified in the Special Provisions. For example, if you have Spring Austrian Peas and Spring Desi Chickpea types, you may elect one enterprise unit for the Spring Austrian Peas type or one enterprise unit for the Spring Desi Chickpeas type, or separate enterprise units for both types. Any acreage which is not reported and insured as an enterprise unit will be insured as a basic unit or optional unit if requirements are met. For example, if you only have Spring Austrian Peas and Spring Desi Chickpea types, you may have an enterprise unit for the Spring Austrian Peas type acreage and basic or optional units for the Spring Desi Chickpeas type acreage.
 
-(2) You must separately meet the requirements in section 34(a)(4) of the Basic Provisions for each enterprise unit.
+(2) You must separately meet the requirements in section 34(a)(2) of the Basic Provisions for each enterprise unit.
 
 (3) If you elected separate enterprise units for multiple types and we discover enterprise unit qualifications are not separately met for all types in which you elected enterprise unit and such discovery is made:
 
 (i) On or before the acreage reporting date, you may elect to insure:
 
-(A) All types in which you elected an enterprise unit for meeting the requirements in section 34(a)(4) as separate enterprise units, and basic or optional units for any acreage that is not reported and insured as enterprise unit, whichever you report on your acreage report and for which you qualify;
+(A) All types in which you elected an enterprise unit for meeting the requirements in section 34(a)(2) of the Basic Provisions as separate enterprise units, and basic or optional units for any acreage that is not reported and insured as an enterprise unit, whichever you report on your acreage report and for which you qualify;
 
-(B) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4); or
+(B) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(2) of the Basic Provisions; or
 
 (C) Basic or optional units for all acreage of the crop in the county, whichever you report on your acreage report and for which you qualify; or
 
-(ii) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of crop in the county provided you meet the requirements in section 34(a)(4). Otherwise, we will assign the basic unit structure for all acreage of crop in the county.
+(ii) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of crop in the county provided you meet the requirements in section 34(a)(2) of the Basic Provisions. Otherwise, we will assign the basic unit structure for all acreage of crop in the county.
 
 (4) If you elected an enterprise unit for only one type and we discover you do not qualify for an enterprise unit for that type and such discovery is made:
 
@@ -90,7 +90,7 @@ Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Ap
 
 (c) Enterprise and optional units by type may be further divided by acreage of contract seed types and dry pea types not grown under a processor/seed company contract even if they share a common variety provided each dry pea type is grown on separate acreage and the production is kept separate.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 (a) In accordance with the requirements of section 3(b) of the Basic Provisions, you may select only one coverage level for each type. However, if you elect the Catastrophic Risk Protection (CAT) level of insurance for any dry pea type, the CAT level of coverage will be applicable to all insured dry pea acreage in the county.
 
@@ -124,10 +124,10 @@ In accordance with section 4 of the Basic Provisions, the contract change date i
 
 In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are as follows:
 
-|                                        State and county                                        |Cancellation  <br/>date|Termination  <br/>date|
-|------------------------------------------------------------------------------------------------|-----------------------|----------------------|
-|All counties in California and Arizona Counties: La Paz, Maricopa, Mohave, Pima, Pinal, and Yuma|         10/31         |        10/31         |
-|                        All other Arizona counties and all other states                         |         3/15          |         3/15         |
+|                                        State and county                                        |Cancellation and  <br/>termination dates|
+|------------------------------------------------------------------------------------------------|----------------------------------------|
+|All counties in California and Arizona Counties: La Paz, Maricopa, Mohave, Pima, Pinal, and Yuma|              October 31.               |
+|                        All other Arizona counties and all other states                         |               March 15.                |
 
 6. Report of Acreage
 
@@ -179,7 +179,7 @@ In addition to the provisions of section 9 of the Basic Provisions:
 
 (1) The fall-planted dry pea crop will be insured as a spring-planted type for the purpose of the production guarantee, premium and price election.
 
-(2) Insurance will attach to such acreage on the date we determine an adequate stand exists or on the spring final planting date if we do not determine adequacy of the stand prior to the spring final planting date.
+(2) Insurance will attach to such fall-planted acreage on the date we determine an adequate stand exists or on the spring final planting date if we do not determine adequacy of the stand prior to the spring final planting date.
 
 (3) Any acreage of such fall-planted dry peas that is damaged after it is accepted for insurance but before the spring final planting date, to the extent that producers in the area would normally not further care for the crop, must be replanted to a spring-planted type of dry pea unless we agree it is not practical to replant. No replanting payment will be made.
 
@@ -281,29 +281,47 @@ Representative samples are required in accordance with section 14 of the Basic P
 
 (13) Multiplying the result of section 13(b)(12) by your share.
 
-Example 1:
+Examples for Section 13(b)
 
-In this example, you have not elected optional units by type. You have a 100 percent share in 100 acres of spring-planted smooth green dry edible peas in the unit, with a production guarantee of 4,000 pounds per acre and a price election of $0.09 per pound. Your selected price election percentage is 100 percent. You are only able to harvest 200,000 pounds. Your indemnity would be calculated as follows:
+*Example 1:*
+
+In this example, you have not elected optional units by type. You have a 100 percent share in 100 acres of spring-planted smooth green dry edible peas in the unit, with a production guarantee of 4,000 pounds per acre and a price election of $0.15 per pound. Your selected price election percentage is 100 percent. You are only able to harvest 200,000 pounds. Your indemnity would be calculated as follows:
 
 (1) 100 acres × 4,000 pounds = 400,000-pound guarantee;
 
-(2) 400,000-pound guarantee × $0.09 price election = $36,000 value of guarantee;
+(2) 400,000-pound guarantee × $0.12 price election = $48,000 value of guarantee;
 
-(9) 200,000-pound production to count × $0.09 price election = $18,000 value of production to count;
+(3) Not applicable;
 
-(12) $36,000 value of guarantee − $18,000 value of production to count = $18,000 loss; and
+(4) Not applicable;
 
-(13) $18,000 × 100 percent share = $18,000 indemnity payment.
+(5) Not applicable;
 
-Example 2:
+(6) Not applicable;
+
+(7) Not applicable;
+
+(8) Not applicable;
+
+(9) 200,000-pound production to count × $0.12 price election = $24,000 value of production to count;
+
+(10) Not applicable;
+
+(11) Not applicable;
+
+(12) $48,000 value of guarantee−$24,000 value of production to count = $24,000 loss; and
+
+(13) $24,000 × 100 percent share = $24,000 indemnity payment.
+
+*Example 2:*
 
 Assume the same facts in example 1. Also assume you have a 100 percent share in 100 acres of contract seed types in the same unit, with a production guarantee of 5,000 pounds per acre and a base contract price of $0.40 per pound. Your selected price election percentage is 100 percent. You are only able to harvest 450,000 pounds. Your total indemnity for both spring-planted smooth green dry edible peas and contract seed types would be calculated as follows:
 
 (1) 100 acres × 4,000 pounds = 400,000-pound guarantee for the spring-planted smooth green dry edible pea type;
 
-(2) 400,000-pound guarantee × $0.09 price election = $36,000 value of guarantee for the spring-planted smooth green dry edible pea type;
+(2) 400,000-pound guarantee × $0.12 price election = $48,000 value of guarantee for the spring-planted smooth green dry edible pea type;
 
-(3) $36,000 (only one spring-planted smooth green dry edible pea type; no other types in this example to total);
+(3) $48,000 (only one spring-planted smooth green dry edible pea type; no other types in this example to total);
 
 (4) 100 acres × 5,000 pounds = 500,000-pound guarantee for the contract seed type;
 
@@ -313,17 +331,19 @@ Assume the same facts in example 1. Also assume you have a 100 percent share in 
 
 (7) $200,000 (only one contract seed type; no other types in this example to total);
 
-(8) $36,000 + $200,000 = $236,000 total value of guarantee;
+(8) $48,000 + $200,000 = $248,000 total value of guarantee;
 
-(9) 200,000-pound production to count × $0.09 price election = $18,000 value of production to count for the spring-planted smooth green dry edible pea type;
+(9) 200,000-pound production to count × $0.12 price election = $24,000 value of production to count for the spring-planted smooth green dry edible pea type;
 
 (10) 450,000-pound production to count × $0.40 = $180,000 value of production to count for the contract seed type;
 
-(11) $18,000 + $180,000 = $198,000 total value of production to count;
+(11) $24,000 + $180,000 = $204,000 total value of production to count;
 
-(12) $236,000 − $198,000 = $38,000 loss; and
+(12) $248,000−$204,000 = $44,000 loss; and
 
-(13) $38,000 loss × 100 percent share = $38,000 indemnity payment.
+(13) $44,000 loss × 100 percent share = $44,000 indemnity payment.
+
+*End of Examples.*
 
 (c) The value of contract seed type production to count for each variety in the unit will be determined as follows:
 
@@ -471,4 +491,4 @@ The value will not be reduced for:
 
 (B) Store or market the production in a manner which permits us to verify the amount of spring-planted production separately from any fall-planted production. In the event you are unable to provide records of production that are acceptable to us, the spring-planted acreage will be considered to be a part of the original fall-planted unit.
 
-[62 FR 65744, Dec. 16, 1997, as amended at 63 FR 36157, July 2, 1998; 67 FR 55691, Aug. 30, 2002; 73 FR 51582, Sept. 4, 2008; 75 FR 15888, Mar. 30, 2010; 81 FR 84400, Nov. 23, 2016; 85 FR 38279, June 26, 2020; 85 FR 76428, Nov. 30, 2020; 86 FR 11091, Feb. 24, 2021; 86 FR 33083, June 24, 2021]
+[62 FR 65744, Dec. 16, 1997, as amended at 63 FR 36157, July 2, 1998; 67 FR 55691, Aug. 30, 2002; 73 FR 51582, Sept. 4, 2008; 75 FR 15888, Mar. 30, 2010; 81 FR 84400, Nov. 23, 2016; 85 FR 38279, June 26, 2020; 85 FR 76428, Nov. 30, 2020; 86 FR 11091, Feb. 24, 2021; 86 FR 33083, June 24, 2021; 89 FR 53841, June 27, 2024]

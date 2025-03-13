@@ -1,0 +1,5 @@
+##### § 550.210 If I conduct ancillary activities, what reporting and data/information retention requirements must I satisfy? #####
+
+(a) *Reporting.* The Regional Supervisor may require you to prepare and submit reports that summarize and analyze data or information obtained or derived from your ancillary activities. When applicable, BOEM will protect and disclose the data and information in these reports in accordance with § 550.197(b).
+
+(b) *Data and information retention.* You must retain copies of all original data and information, including navigation data, obtained or derived from your G&G explorations and development G&G activities (see § 550.207(a)), including any such data and information you obtained from previous leaseholders or unit operators. You must submit such data and information to BOEM for inspection and possible retention upon request at any time before lease or unit termination. When applicable, BOEM will protect and disclose such submitted data and information in accordance with § 550.197(b).

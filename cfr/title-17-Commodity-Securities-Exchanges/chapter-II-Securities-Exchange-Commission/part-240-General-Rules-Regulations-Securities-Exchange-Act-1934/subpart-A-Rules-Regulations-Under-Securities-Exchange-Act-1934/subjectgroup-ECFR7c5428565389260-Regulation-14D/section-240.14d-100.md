@@ -1,6 +1,6 @@
 ##### § 240.14d-100 Schedule TO. Tender offer statement under section 14(d)(1) or 13(e)(1) of the Securities Exchange Act of 1934. #####
 
-Link to an amendment published at 89 FR 14324, Feb. 26, 2024.*Securities and Exchange Commission*,Washington, D.C. 20549Schedule TOTender Offer Statement under Section 14(d)(1) or 13(e)(1) of the Securities Exchange Act of 1934(Amendment No. \_\_\_\_\_\_)\*(Name of Subject Company (issuer))(Names of Filing Persons (identifying status as offeror, issuer or other person))(Title of Class of Securities)(CUSIP Number of Class of Securities)(Name, address, and telephone numbers of person authorized to receive notices and communications on behalf of filing persons)
+*Securities and Exchange Commission*,Washington, D.C. 20549Schedule TOTender Offer Statement under Section 14(d)(1) or 13(e)(1) of the Securities Exchange Act of 1934(Amendment No. \_\_\_\_\_\_)\*(Name of Subject Company (issuer))(Names of Filing Persons (identifying status as offeror, issuer or other person))(Title of Class of Securities)(CUSIP Number of Class of Securities)(Name, address, and telephone numbers of person authorized to receive notices and communications on behalf of filing persons)
 
 [ ] Check the box if the filing relates solely to preliminary communications made before the commencement of a tender offer.
 
@@ -44,7 +44,11 @@ I. Amendments disclosing a material change in the information set forth in this 
 
 J. If the tender offer disclosed on this statement involves a going-private transaction, a combined Schedule TO (§ 240.14d-100) and Schedule 13E-3 (§ 240.13e-100) may be filed with the Commission under cover of Schedule TO. The Rule 13e-3 box on the cover page of the Schedule TO must be checked to indicate a combined filing. All information called for by both schedules must be provided except that Items 1-3, 5, 8 and 9 of Schedule TO may be omitted to the extent those items call for information that duplicates the item requirements in Schedule 13E-3.
 
-K. For purposes of this statement, the following definitions apply:
+K. If the filing relates to a de-SPAC transaction, as defined in § 229.1601(a) (Item 1601(a) of Regulation S-K), then the provisions of §§ 229.1603, 229.1604(b)(1) through (6) and (c) and 229.1605 through 229.1609 (Items 1603, 1604(b)(1) through (6) and (c) and 1605 through 1609 of Regulation S-K) apply in addition to the provisions of this schedule and disclosure thereunder must be provided in this schedule, and the structured data provisions of § 229.1610 (Item 1610 of Regulation S-K) apply to those disclosures. The information required by § 229.1604(b)(1) through (6) must be briefly described in the front of the disclosure document. If the filing by a special purpose acquisition company, as defined in § 229.1601(b) (Item 1601(b) of Regulation S-K), relates to any other redemption of securities offered to security holders, then the provisions of § 229.1608 (Item 1608 of Regulation S-K) apply in addition to the provisions of this schedule and disclosure thereunder, if applicable, must be provided in this schedule and the structured data provisions of § 229.1610 (Item 1610 of Regulation S-K) apply to those disclosures. To the extent that the applicable disclosure requirements of subpart 229.1600 of Regulation S-K are inconsistent with the disclosure requirements of this filing, the requirements of subpart 229.1600 of this chapter are controlling.
+
+L. An Interactive Data File must be included in accordance with § 232.405 (Rule 405 of Regulation S-T) and the EDGAR Filer Manual where applicable pursuant to General Instruction K and § 232.405(b).
+
+M. For purposes of this statement, the following definitions apply:
 
 (1) The term *offeror* means any person who makes a tender offer or on whose behalf a tender offer is made;
 
@@ -126,9 +130,11 @@ Item 12. Exhibits
 
 File each of the following as an exhibit to the Schedule:
 
-(a) All documents specified in Item 1016(a), (b), (d), (g) and (h) of Regulation M-A (§ 229.1016 of this chapter); and
+(a) All documents specified in Item 1016(a), (b), (d), (g) and (h) of Regulation M-A (§ 229.1016 of this chapter);
 
-(b) The transaction valuation, fee rate, amount of filing fee and, as applicable, information relating to reliance on § 240.0-11(a)(2) in the tabular form indicated.
+(b) If the filing relates to a de-SPAC transaction, as defined in § 229.1601(a) (Item 1601(a) of Regulation S-K), all reports, opinions, or appraisals required to be filed or included by § 229.1607(c) (Item 1607(c) of Regulation S-K); and
+
+(c) The transaction valuation, fee rate, amount of filing fee and, as applicable, information relating to reliance on § 240.0-11(a)(2) in the tabular form indicated.
 
 Calculation of Filing Fee Tables
 
@@ -277,4 +283,4 @@ If the Schedule TO is combined with Schedule 13E-3 (§ 240.13e-100), set forth t
 
 *Instruction to Signature:* The statement must be signed by the filing person or that person's authorized representative. If the statement is signed on behalf of a person by an authorized representative (other than an executive officer of a corporation or general partner of a partnership), evidence of the representative's authority to sign on behalf of the person must be filed with the statement. The name and any title of each person who signs the statement must be typed or printed beneath the signature. See §§ 240.12b-11 and 240.14d-1(h) with respect to signature requirements.
 
-[64 FR 61462, Nov. 10, 1999, as amended at 72 FR 45112, Aug. 10, 2007; 73 FR 17814, Apr. 1, 2008; 73 FR 60093, Oct. 9, 2008; 76 FR 6046, Feb. 2, 2011; 86 FR 70259, Dec. 9, 2021]
+[64 FR 61462, Nov. 10, 1999, as amended at 72 FR 45112, Aug. 10, 2007; 73 FR 17814, Apr. 1, 2008; 73 FR 60093, Oct. 9, 2008; 76 FR 6046, Feb. 2, 2011; 86 FR 70259, Dec. 9, 2021; 89 FR 14324, Feb. 26, 2024]

@@ -1,7 +1,5 @@
 ##### § 210.29 Management evaluations. #####
 
-Link to an amendment published at 89 FR 32075, Apr. 25, 2024.
-
 (a) *Management evaluations.* FNS will conduct a comprehensive management evaluation of each State agency's administration of the National School Lunch Program.
 
 (b) *Basis for evaluations.* FNS will evaluate all aspects of State agency management of the Program using tools such as State agency reviews as required under § 210.18 of this part; reviews conducted by FNS in accordance with § 210.18 of this part; FNS reviews of school food authorities and schools authorized under § 210.19(a)(4) of this part; follow-up actions taken by the State agency to correct violations found during reviews; FNS observations of State agency reviews; and audit reports.
@@ -18,7 +16,7 @@ Link to an amendment published at 89 FR 32075, Apr. 25, 2024.
 
 (2) *Section 210.18 reviews.* FNS will conduct administrative reviews in accordance with § 210.18(a)-(h) of this part which will count toward meeting the State agency responsibilities identified under § 210.18 of this part.
 
-(3) *School food authority appeal of FNS findings.* When administrative or follow-up review activity conducted by FNS in accordance with the provisions of paragraph (d)(2) of this section results in the denial of all or part of a Claim for Reimbursement or withholding of payment, a school food authority may appeal the FNS findings by filing a written request with the Chief, Administrative Review Branch, U.S. Department of Agriculture, Food and Nutrition Service, 3101 Park Center Drive, Alexandria, Virginia, 22302, in accordance with the appeal procedures specified in this paragraph:
+(3) *School food authority appeal of FNS findings.* When administrative or follow-up review activity conducted by FNS in accordance with the provisions of paragraph (d)(2) of this section results in the denial of all or part of a Claim for Reimbursement or withholding of payment, a school food authority may appeal the FNS findings by filing a written request with the Food and Nutrition Service in accordance with the appeal procedures specified in this paragraph (d)(3):
 
 (i) The written request for a review of the record shall be postmarked within 15 calendar days of the date the appellant received the notice of the denial of all or a part of the Claim for Reimbursement or withholding payment and the envelope containing the request shall be prominently marked “REQUEST FOR REVIEW”. FNS will acknowledge the receipt of the request for appeal within 10 calendar days. The acknowledgement will include the name and address of the FNS Administrative Review Officer (ARO) reviewing the case. FNS will also notify the State agency of the request for appeal.
 
@@ -42,4 +40,4 @@ Link to an amendment published at 89 FR 32075, Apr. 25, 2024.
 
 (e) *Management evaluation findings.* FNS will consider the results of all its review activity within each State, including school food authority reviews, in performing management evaluations and issuing management evaluation reports. FNS will communicate the findings of the management evaluation to appropriate State agency personnel in an exit conference. Subsequent to the exit conference, the State agency will be notified in writing of the management evaluation findings and any needed corrective actions or fiscal sanctions in accordance with the provisions § 210.25 of this part and/or 7 CFR part 235.
 
-[56 FR 32949, July 17, 1991, as amended at 57 FR 38586, Aug. 26, 1992. Redesignated at 64 FR 50741, Sept. 20, 1999, as amended at 81 FR 50193, July 29, 2016]
+[56 FR 32949, July 17, 1991, as amended at 57 FR 38586, Aug. 26, 1992. Redesignated at 64 FR 50741, Sept. 20, 1999, as amended at 81 FR 50193, July 29, 2016; 89 FR 32075, Apr. 25, 2024]

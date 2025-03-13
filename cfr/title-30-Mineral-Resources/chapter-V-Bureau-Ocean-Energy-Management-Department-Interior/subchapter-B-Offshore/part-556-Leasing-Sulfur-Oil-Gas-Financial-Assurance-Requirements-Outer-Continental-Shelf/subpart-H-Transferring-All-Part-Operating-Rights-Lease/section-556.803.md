@@ -1,0 +1,3 @@
+##### § 556.803 What if I want to assign operating rights interests in more than one lease at the same time, but to different parties? #####
+
+You may not assign operating rights interests in more than one lease to different parties using the same instrument. If you want to transfer operating rights interests in more than one lease at the same time, you must submit two originally executed forms for each transfer. Each request for a transfer of operating rights interest must be accompanied by a cover letter executed by one of the parties to the transfer (or an authorized agent thereof) and evidence of payment via *pay.gov.*

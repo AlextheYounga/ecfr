@@ -1,7 +1,5 @@
 ##### § 2805.12 With what terms and conditions must I comply? #####
 
-Link to an amendment published at 89 FR 35679, May 1, 2024.
-
 (a) By accepting a grant or lease, you agree to comply with and be bound by the following terms and conditions. During construction, operation, maintenance, and termination of the project you must:
 
 (1) To the extent practicable, comply with all existing and subsequently enacted, issued, or amended Federal laws and regulations and State laws and regulations applicable to the authorized use;
@@ -92,6 +90,14 @@ Link to an amendment published at 89 FR 35679, May 1, 2024.
 
 (7) In addition to the RCE requirements of § 2805.20(a)(5) for a grant, the bond secured for a grant or lease must cover the estimated costs of cultural resource and Indian cultural resource identification, protection, and mitigation for project impacts.
 
+(8) Comply with the operational standards in this section for solar or wind energy development projects on public lands. The holder of a grant or lease for solar or wind energy development is authorized to operate for the purpose of generating energy. Diligent operation requires the holder to annually maintain at least 75 percent of energy generation capacity for the authorized development. Failure to meet this required generation in continuous two calendar year period during the term of the grant or lease may support suspension or termination of the grant or lease under §§ 2807.17 through 2807.19. Before suspending or terminating the authorization, the BLM will send you a notice that gives you a reasonable opportunity to correct any noncompliance or to start or resume use of the right-of-way (see § 2807.18). In response to this notice, you must:
+
+(i) Provide reasonable justification for any reductions in energy generation (for example, delays in equipment delivery, legal challenges, and Acts of God);
+
+(ii) Provide the anticipated date in which production of energy generation will resume; and
+
+(iii) Submit a written request under paragraph (e) of this section for extension of the period in which the holder must satisfy the minimum energy threshold. If you do not comply with the requirements of paragraph (c)(8) of this section, the BLM may deny your request for an extension of the period for complying with the minimum energy generation threshold.
+
 (d) For energy site or project testing grants:
 
 (1) You must install all monitoring facilities within 12 months after the effective date of the grant or other authorization. If monitoring facilities under a site testing and monitoring right-of-way authorization have not been installed within 12 months after the effective date of the authorization or consistent with the timeframe of the approved POD, you must request an extension pursuant to paragraph (e) of this section;
@@ -108,6 +114,6 @@ Link to an amendment published at 89 FR 35679, May 1, 2024.
 
 (e) *Notification of noncompliance and request for alternative requirements.* (1) As soon as you anticipate that you will not meet any stipulation, term, or condition of the approved right-of-way grant or lease, or in the event of your noncompliance with any such stipulation, term, or condition, you must notify the BLM in writing and show good cause for the noncompliance, including an explanation of the reasons for the failure.
 
-(2) You may also request that the BLM consider alternative stipulations, terms, or conditions. Any request for an alternative stipulation, term, or condition must comply with applicable law in order to be considered. Any proposed alternative to applicable bonding requirements must provide the United States with adequate financial assurance for potential liabilities associated with your right-of-way grant or lease. Any such request is not approved until you receive BLM approval in writing.
+(2) You may also request that the BLM consider alternative stipulations, terms, or conditions, other than rents or fees, and except as provided in § 2806.52(b)(1)(i). Any proposed alternative stipulation, term, or condition must comply with applicable law in order to be considered. Any proposed alternative to applicable bonding requirements must provide the United States with adequate financial assurance for potential liabilities associated with your right-of-way grant or lease. Any such request is not approved until you receive BLM approval in writing.
 
-[81 FR 92213, Dec. 19, 2016, as amended at 89 FR 25962, Apr. 12, 2024]
+[81 FR 92213, Dec. 19, 2016, as amended at 89 FR 25962, Apr. 12, 2024; 89 FR 35679, May 1, 2024]

@@ -2,7 +2,7 @@
 
 (a) These Charitable Choice provisions apply whenever a State or local government uses Federal TANF funds or expends State and local funds used to meet maintenance-of-effort (MOE) requirements of the TANF program to directly procure services and benefits from non-governmental organizations, or provides TANF beneficiaries with certificates, vouchers, or other forms of indirect disbursement redeemable from such organizations. For purposes of this section:
 
-(1) *Direct funding or funds provided directly* means that the government or an intermediate organization with the same duties as a governmental entity under this part selects the provider and purchases the needed services straight from the provider (*e.g.,* via a contract or cooperative agreement).
+(1) *Direct funding or funds provided directly* means that the government or an intermediate organization with the same duties as a governmental entity under this part selects the provider and purchases the needed services straight from the provider (e.g., via a contract or cooperative agreement).
 
 (2) *Indirect funding or funds provided indirectly* means placing the choice of service provider in the hands of the beneficiary, and then paying for the cost of that service through a voucher, certificate, or other similar means of payment.
 

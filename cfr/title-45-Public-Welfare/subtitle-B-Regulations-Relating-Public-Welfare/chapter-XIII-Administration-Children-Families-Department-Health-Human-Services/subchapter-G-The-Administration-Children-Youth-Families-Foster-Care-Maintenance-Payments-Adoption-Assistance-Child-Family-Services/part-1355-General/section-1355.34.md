@@ -1,7 +1,5 @@
 ##### § 1355.34 Criteria for determining substantial conformity. #####
 
-Link to an amendment published at 89 FR 34861, Apr. 30, 2024.
-
 (a) *Criteria to be satisfied.* ACF will determine a title IV-E agency's substantial conformity with title IV-B and title IV-E plan requirements based on the following:
 
 (1) Its ability to meet national standards, set by the Secretary, for the statewide/Tribal service area data indicators associated with specific outcomes for children and families;
@@ -72,7 +70,7 @@ Link to an amendment published at 89 FR 34861, Apr. 30, 2024.
 
 (2) *Case review system:* The title IV-E agency has procedures in place that:
 
-(i) Provide, for each child, a written case plan to be developed jointly with the child's parent(s) that includes provisions: for placing the child in the least restrictive, most family-like placement appropriate to his/her needs, and in close proximity to the parents' home where such placement is in the child's best interests; for visits with a child placed out of State/Tribal service area at least every 12 months by a caseworker of the agency or of the agency in the State/Tribal service area where the child is placed; and for documentation of the steps taken to make and finalize an adoptive or other permanent placement when the child cannot return home (sections 422(b)(8)(A)(ii), 471(a)(16) and 475(5)(A) of the Act);
+(i) Provide, for each child, a written case plan to be developed jointly with the child's parent(s) that includes provisions: for placing the child in the least restrictive, most family-like placement appropriate to the child's needs, and in close proximity to the parents' home where such placement is in the child's best interests; for visits with a child placed out of State/Tribal service area at least every 12 months by a caseworker of the agency or of the agency in the State/Tribal service area where the child is placed; for documentation of the steps taken to make and finalize an adoptive or other permanent placement when the child cannot return home; and for implementation of the requirements of § 1355.22(b) and (d) as applicable (sections 422(b)(8)(A)(ii), 471(a)(16), and 475(5)(A) of the Act and § 1355.22(b) and (d));
 
 (ii) Provide for periodic review of the status of each child no less frequently than once every six months by either a court or by administrative review (sections 422(b)(8)(A)(ii), 471(a)(16) and 475(5)(B) of the Act);
 
@@ -144,4 +142,4 @@ Link to an amendment published at 89 FR 34861, Apr. 30, 2024.
 
 (d) *Availability of review instruments.* ACF will make available to the title IV-E agencies copies of the review instruments, which will contain the specific standards to be used to determine substantial conformity, on an ongoing basis, whenever significant revisions to the instruments are made.
 
-[65 FR 4078, Jan. 25, 2000, as amended at 66 FR 58675, Nov. 23, 2001; 77 FR 928, Jan. 6, 2012]
+[65 FR 4078, Jan. 25, 2000, as amended at 66 FR 58675, Nov. 23, 2001; 77 FR 928, Jan. 6, 2012; 89 FR 34861, Apr. 30, 2024]

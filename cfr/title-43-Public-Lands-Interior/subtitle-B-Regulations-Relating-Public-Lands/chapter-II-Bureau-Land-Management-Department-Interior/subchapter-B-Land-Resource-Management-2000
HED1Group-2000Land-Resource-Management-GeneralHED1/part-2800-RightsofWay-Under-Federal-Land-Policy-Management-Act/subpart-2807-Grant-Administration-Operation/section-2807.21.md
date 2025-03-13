@@ -1,7 +1,5 @@
 ##### § 2807.21 May I assign or make other changes to my grant or lease? #####
 
-Link to an amendment published at 89 FR 35682, May 1, 2024.
-
 (a) With the BLM's approval, you may assign, in whole or in part, any right or interest in a grant or lease. Assignment actions that may require BLM approval include, but are not limited to, the following:
 
 (1) The transfer by the holder (assignor) of any right or interest in the grant or lease to a third party (assignee); and
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 35682, May 1, 2024.
 
 (2) A signed statement that the proposed assignee agrees to comply with and be bound by the terms and conditions of the grant that is being assigned and all applicable laws and regulations.
 
-(e) Your assignment is not recognized until the BLM approves it in writing. We will approve the assignment if doing so is in the public interest. Except for leases issued under subpart 2809 of this part, we may modify the grant or lease or add bonding and other requirements, including additional terms and conditions, to the grant or lease when approving the assignment, unless a modification to a lease issued under subpart 2809 of this part is required under § 2805.15(e). We may decrease rents if the new holder qualifies for an exemption (see § 2806.14) or waiver or reduction (see § 2806.15) and the previous holder did not. Similarly, we may increase rents if the previous holder qualified for an exemption or waiver or reduction and the new holder does not. If we approve the assignment, the benefits and liabilities of the grant or lease apply to the new grant or lease holder.
+(e) Your assignment is not recognized until the BLM approves it in writing. We will approve the assignment if doing so is in the public interest. We may modify the grant or lease or add bonding and other requirements, including additional terms and conditions, to the grant or lease when approving the assignment, except that we may only modify solar or wind energy leases where modification is warranted under § 2805.15(e). We may decrease rents if the new holder qualifies for an exemption (see § 2806.14) or waiver or reduction (see § 2806.15) and the previous holder did not. Similarly, we may increase rents if the previous holder qualified for an exemption or waiver or reduction and the new holder does not. If we approve the assignment, the benefits and liabilities of the grant or lease apply to the new grant or leaseholder.
 
 (f) The processing time and conditions described at § 2804.25(d) of this part apply to assignment applications.
 
@@ -46,4 +44,4 @@ Link to an amendment published at 89 FR 35682, May 1, 2024.
 
 (3) Your name change is not recognized until the BLM approves it in writing.
 
-[81 FR 92223, Dec. 19, 2016]
+[81 FR 92223, Dec. 19, 2016, as amended at 89 FR 35682, May 1, 2024]

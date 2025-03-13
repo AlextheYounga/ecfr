@@ -1,6 +1,6 @@
 ##### § 200.30-5 Delegation of authority to Director of Division of Investment Management. #####
 
-Link to an amendment published at 87 FR 78807, Dec. 22, 2022.Link to an amendment published at 88 FR 37987, June 12, 2023.
+Link to an amendment published at 88 FR 37987, June 12, 2023.
 
 Pursuant to the provisions of sections 4A and 4B of the Securities Exchange Act of 1934, as amended,
 (15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Investment Management, to be performed by the Director or under the Director's direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
@@ -89,7 +89,9 @@ Pursuant to the provisions of sections 4A and 4B of the Securities Exchange Act 
 
 (4) To permit the withdrawal of any notification, or any exhibit or other documents filed as a part thereof, pursuant to Rule 604(d) (§ 230.604(d) of this chapter).
 
-(c-1) With respect to the Securities Exchange Act of 1934: (1) To grant and deny applications filed pursuant to section 24(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78x(b)) and Rule 24b-2 thereunder (§ 240.24b-2 of this chapter) for confidential treatment of information filed pursuant to section 13(f) of that Act (15 U.S.C. 78m(f)) and Rule 13f-1 thereunder (§ 240.13f-1 of this chapter).
+(c-1) With respect to the Securities Exchange Act of 1934:
+
+(1) To grant and deny applications filed pursuant to section 24(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78x(b)) and § 240.24b-2 of this chapter (Rule 24b-2) for confidential treatment of information filed pursuant to section 13(f) of that Act (15 U.S.C. 78m(f)) and § 240.13f-1 of this chapter (Rule 13f-1) and the instructions to Form N-PX (§§ 249.326 and 274.129 of this chapter).
 
 (2) To revoke a grant of confidential treatment for any such application.
 

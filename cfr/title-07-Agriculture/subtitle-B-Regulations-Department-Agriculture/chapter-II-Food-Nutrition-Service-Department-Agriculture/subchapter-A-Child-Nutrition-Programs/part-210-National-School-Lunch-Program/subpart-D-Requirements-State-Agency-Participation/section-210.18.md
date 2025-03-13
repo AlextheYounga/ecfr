@@ -1,7 +1,5 @@
 ##### § 210.18 Administrative reviews. #####
 
-Link to an amendment published at 89 FR 32073, Apr. 25, 2024.
-
 (a) *Programs covered and methodology.* Each State agency must follow the requirements of this section to conduct administrative reviews of school food authorities participating in the National School Lunch Program and the School Breakfast Program (part 220 of this chapter). These procedures must also be followed, as applicable, to conduct administrative reviews of the National School Lunch Program's Afterschool Snacks and Seamless Summer Option, the Special Milk Program (part 215 of this chapter), and the Fresh Fruit and Vegetable Program. To conduct a program review, the State agency must gather and assess information off-site and/or on-site, observe the school food service operation, and use a risk-based approach to evaluate compliance with specific program requirements.
 
 (b) *Definitions.* The following definitions are provided in alphabetical order in order to clarify State agency administrative review requirements:
@@ -128,7 +126,7 @@ Link to an amendment published at 89 FR 32073, Apr. 25, 2024.
 
 (2) *Performance Standard 2 (Lunches claimed for reimbursement by the school food authority meet the meal requirements in § 210.10, as applicable to the age/grade group reviewed. Breakfasts claimed for reimbursement by the school food authority meet the meal requirements in § 220.8 of this chapter, as applicable to the age/grade group reviewed.*) The State agency must follow review procedures, as stated in this section and detailed in the FNS *Administrative Review Manual,* to ensure that meals offered by the school food authority meet the food component and quantity requirements and the dietary specifications for each program, as applicable. Review of these critical areas may occur off-site or on-site. The State agency must also follow procedures consistent with this section, as specified in the FNS *Administrative Review Manual,* to review applicable areas of Performance Standard 2 in the National School Lunch Program's Afterschool Snacks and Seamless Summer Option, and in the Special Milk Program.
 
-(i) *Food components and quantities.* For each school selected for review, the State agency must complete a USDA-approved menu tool, review documentation, and observe the meal service to ensure that meals offered by the reviewed schools meet the meal patterns for each program. To review this area, the State agency must:
+(i) *Meal components and quantities.* For each school selected for review, the State agency must complete a USDA-approved menu tool, review documentation, and observe the meal service to ensure that meals offered by the reviewed schools meet the meal patterns for each program. To review this area, the State agency must:
 
 (A) Review menu and production records for the reviewed schools for a minimum of one school week (*i.e.,* a minimum number of three consecutive school days and a maximum of seven consecutive school days) from the review period. Documentation, including food crediting documentation, such as food labels, product formulation statements, CN labels and bid documentation, must be reviewed to ensure compliance with the lunch and breakfast meal patterns. If the documentation review reveals problems with food components or quantities, the State agency must expand the review to, at a minimum, the entire review period. The State agency should consider a school food authority compliant with the school meal pattern if:
 
@@ -138,11 +136,11 @@ Link to an amendment published at 89 FR 32073, Apr. 25, 2024.
 
 (B) On the day of review, the State agency must:
 
-(*1*) Observe a significant number of program meals, as described in the FNS *Administrative Review Manual,* at each serving line and review the corresponding documentation to determine whether all reimbursable meal service lines *offer* all of the required food components/items and quantities for the age/grade groups being served, as required under § 210.10, as applicable, and § 220.8 of this chapter, as applicable. Observe meals at the beginning, middle and end of the meal service line, and confirm that signage or other methods are used to assist students in identifying the reimbursable meal. If the State agency identifies missing components or inadequate quantities prior to the beginning of the meal service, it must inform the school food authority and provide an opportunity to make corrections. Additionally, if visual observation suggests that quantities offered are insufficient or excessive, the State agency must require the reviewed schools to provide documentation demonstrating that the required amounts of each component were available for service for each day of the review period.
+(*1*) Observe a significant number of program meals, as described in the FNS Administrative Review Manual, at each serving line and review the corresponding documentation to determine whether all reimbursable meal service lines offer all of the required meal components/items and quantities for the age/grade groups being served, as required under § 210.10, as applicable, and § 220.8 of this chapter, as applicable. Observe meals at the beginning, middle and end of the meal service line, and confirm that signage or other methods are used to assist students in identifying the reimbursable meal. If the State agency identifies missing components or inadequate quantities prior to the beginning of the meal service, it must inform the school food authority and provide an opportunity to make corrections. Additionally, if visual observation suggests that quantities offered are insufficient or excessive, the State agency must require the reviewed schools to provide documentation demonstrating that the required amounts of each component were available for service for each day of the review period.
 
-(*2*) Observe a significant number of the program meals counted at the point of service for each type of serving line to determine whether the meals *selected* by the students contain the food components and food quantities required for a reimbursable meal under § 210.10, as applicable, and § 220.8 of this chapter, as applicable.
+(*2*) Observe a significant number of the program meals counted at the point of service for each type of serving line to determine whether the meals selected by the students contain the meal components and food quantities required for a reimbursable meal under § 210.10, as applicable, and § 220.8 of this chapter, as applicable.
 
-(*3*) If Offer versus Serve is in place, observe whether students select at least three food components at lunch and at least three food items at breakfasts, and that the lunches and breakfasts include at least1/2 cup of fruits or vegetables.
+(*3*) If Offer versus Serve is in place, observe whether students select at least three meal components at lunch and at least three food items at breakfasts, and that the lunches and breakfasts include at least1/2 cup of fruits or vegetables.
 
 (ii) *Dietary specifications.* The State agency must conduct a meal compliance risk assessment for each school selected for review to determine which school is at highest risk for nutrition-related violations. The State agency must conduct a targeted menu review for the school at highest risk for noncompliance using one of the options specified in the FNS *Administrative Review Manual.* Under the targeted menu review options, the State agency may conduct or validate an SFA-conducted nutrient analysis for both lunch and breakfast, or further evaluate risk for noncompliance and, at a minimum, conduct a nutrient analysis if further examination shows the school is at high risk for noncompliance with the dietary specifications in § 210.10 and § 220.8 of this chapter. The State agency is not required to assess compliance with the dietary specifications when reviewing meals for preschoolers, and the National School Lunch Program's Afterschool Snacks and the Seamless Summer Option.
 
@@ -178,7 +176,7 @@ Link to an amendment published at 89 FR 32073, Apr. 25, 2024.
 
 (iv) *Competitive food standards.* The State agency must ensure that the local educational agency and school food authority comply with the nutrition standards for competitive foods in §§ 210.11 and 220.12 of this chapter, and retain documentation demonstrating compliance with the competitive food service and standards.
 
-(v) *Water.* The State agency must ensure that water is available and accessible to children at no charge as specified in §§ 210.10(a)(1)(i) and 220.8(a)(1) of this chapter.
+(v) *Water.* The State agency must ensure that plain potable water is available and accessible to children at no charge as specified in § 210.10(a)(1)(i) and § 220.8(a)(1) of this chapter.
 
 (vi) *Food safety.* The State agency must examine records to confirm that each school food authority under its jurisdiction meets the food safety requirements of § 210.13.
 
@@ -188,7 +186,7 @@ Link to an amendment published at 89 FR 32073, Apr. 25, 2024.
 
 (ix) *Professional standards.* The State agency shall ensure the local educational agency and school food authority complies with the professional standards for school nutrition program directors, managers, and personnel established in § 210.30.
 
-(x) *Local school wellness.* The State agency shall ensure the local educational agency complies with the local school wellness requirements set forth in § 210.30.
+(x) *Local school wellness.* The State agency must ensure the local educational agency complies with the local school wellness requirements set forth in § 210.31.
 
 (xi) *Buy American.* The State agency must ensure that the school food authority complies with the Buy American requirements set forth in § 210.21(d) and 7 CFR 220.16(d), as specified in the FNS Administrative Review Manual.
 
@@ -230,11 +228,11 @@ Link to an amendment published at 89 FR 32073, Apr. 25, 2024.
 
 (2) *Performance Standard 2 violations.* Fiscal action for Performance Standard 2 violations applies as follows:
 
-(i) For missing food components or missing production records cited under paragraph (g)(2) of this section, the State agency must apply fiscal action.
+(i) For missing meal components or missing production records cited under paragraph (g)(2) of this section, the State agency must apply fiscal action.
 
 (ii) For repeated violations involving food quantities, whole grain-rich foods, milk type, and vegetable subgroups cited under paragraph (g)(2) of this section, the State agency has discretion to apply fiscal action as follows:
 
-(A) If the meals contain insufficient quantities of the required food components, the deficient meals may be disallowed and reclaimed.
+(A) If the meals contain insufficient quantities of the required meal components, the deficient meals may be disallowed and reclaimed.
 
 (B) If no whole grain-rich foods are offered during the week of review, meals for up to the entire week of review may be disallowed and reclaimed.
 
@@ -248,7 +246,7 @@ Link to an amendment published at 89 FR 32073, Apr. 25, 2024.
 
 (G) If the amount of juice offered exceeds the weekly limitation, meals for up to the entire week of review may be disallowed and/or reclaimed.
 
-(iii) For repeated violations of calorie, saturated fat, sodium, and trans fat dietary specifications cited under paragraph (g)(2)(ii) of this section, the State agency has discretion to apply fiscal action to the reviewed school as follows:
+(iii) For repeated violations of the dietary specifications cited under paragraph (g)(2)(ii) of this section, the State agency has discretion to apply fiscal action to the reviewed school as follows:
 
 (A) If the average meal offered over the course of the week of review does not meet one of the dietary specifications, meals for the entire week of review may be disallowed and reclaimed; and
 
@@ -316,4 +314,4 @@ Link to an amendment published at 89 FR 32073, Apr. 25, 2024.
 
 (q) *FNS review activity.* The term “State agency” and all the provisions specified in paragraphs (a) through (h) of this section refer to FNS when FNS conducts administrative reviews in accordance with § 210.29(d)(2). FNS will notify the State agency of the review findings and the need for corrective action and fiscal action. The State agency shall pursue any needed follow-up activity.
 
-[81 FR 50185, July 29, 2016, as amended at 83 FR 25357, June 1, 2018; 88 FR 57845, Aug. 23, 2023; 88 FR 90347, Dec. 29, 2023]
+[81 FR 50185, July 29, 2016, as amended at 83 FR 25357, June 1, 2018; 88 FR 57845, Aug. 23, 2023; 88 FR 90347, Dec. 29, 2023; 89 FR 32073, Apr. 25, 2024]

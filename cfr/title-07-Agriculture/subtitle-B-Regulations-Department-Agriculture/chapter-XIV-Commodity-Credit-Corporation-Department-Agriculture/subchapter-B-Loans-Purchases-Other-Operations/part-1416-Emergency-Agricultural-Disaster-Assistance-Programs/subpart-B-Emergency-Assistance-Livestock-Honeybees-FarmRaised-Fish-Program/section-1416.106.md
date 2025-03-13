@@ -4,11 +4,13 @@
 
 (1) A notice of loss to FSA as specified in § 1416.107(a),
 
-(2) A completed application as specified in § 1416.107(b) for one or both of the following:
+(2) A completed application as specified in § 1416.107(b) for one or more of the following:
 
 (i) For livestock feed and grazing losses; losses resulting from transporting water, feed, and livestock; and gathering livestock to treat for cattle tick fever; a completed Emergency Loss Assistance for Livestock Application;
 
 (ii) For honeybee feed, honeybee colony, honeybee hive, or farm-raised fish feed or death losses, a completed Emergency Loss Assistance for Honeybees or Farm-Raised Fish Application;
+
+(iii) For milk losses due to H5N1, a completed Emergency Loss Assistance for H5N1 Application;
 
 (3) A report of acreage, if applicable, as determined by the Deputy Administrator;
 
@@ -54,6 +56,8 @@
 
 (7) Chattel inspections.
 
-(e) If verifiable or reliable records are not available or provided, as required in paragraphs (b) through (d) of this section, the COC may accept producer's certification of losses if similar producers have comparable losses, as determined by the COC and approved by the STC (FSA State Committee).
+(e) If verifiable or reliable records are not available or provided, as required in paragraphs (b) through (d) of this section, the COC may accept producer's certification of losses if similar producers have comparable losses, as determined by the COC and approved by the STC (FSA State Committee).This paragraph does not apply to documentation for milk losses due to H5N1.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49466, Oct. 2, 2018; 85 FR 10964, Feb. 26, 2020; 87 FR 19786, Apr. 6, 2022]
+(f) For milk losses due to H5N1, the producer must provide to FSA a positive H5N1 test at the time the application for payment is filed. The producer must also provide current and prior year milk production records and herd inventory records if requested by FSA to substantiate the certified number of eligible adult dairy cows removed from production through a comparison of the per head production rates for the current and prior years. If requested by FSA, the producer must also provide any other records necessary to substantiate the information provided on the producer's application, including the producer's share of the milk production. An eligible adult dairy cow must be reported on the application for the month it was initially removed from milk production and cannot be included in subsequent months in the same application for payment. If the producer removes adult dairy cows from commercial milk production due to H5N1 infection more than 120 days after the positive H5N1 test reported to FSA, the producer must submit another notice of loss and application for payment for the subsequent positive H5N1 test after the initial 120 day eligibility from an APHIS confirmed positive test within the herd.
+
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49466, Oct. 2, 2018; 85 FR 10964, Feb. 26, 2020; 87 FR 19786, Apr. 6, 2022; 89 FR 54335, July 1, 2024]

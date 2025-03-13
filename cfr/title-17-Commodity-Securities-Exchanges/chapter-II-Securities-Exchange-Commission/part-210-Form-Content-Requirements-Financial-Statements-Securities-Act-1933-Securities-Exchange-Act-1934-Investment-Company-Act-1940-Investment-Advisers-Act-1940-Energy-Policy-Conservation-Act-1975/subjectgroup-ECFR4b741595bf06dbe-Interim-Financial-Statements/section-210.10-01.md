@@ -1,10 +1,8 @@
 ##### § 210.10-01 Interim financial statements. #####
 
-Link to an amendment published at 89 FR 14314, Feb. 26, 2024.
-
 (a) *Condensed statements.* Interim financial statements shall follow the general form and content of presentation prescribed by the other sections of this Regulation with the following exceptions:
 
-(1) Interim financial statements required by this rule need only be provided as to the registrant and its subsidiaries consolidated and may be unaudited. Separate statements of other entities which may otherwise be required by this regulation may be omitted.
+(1) Interim financial statements required by this section need only be provided as to the registrant and its subsidiaries consolidated and its predecessors and may be unaudited. Separate statements of other entities which may otherwise be required by this part may be omitted.
 
 (2) Interim balance sheets shall include only major captions (*i.e.*, numbered captions) prescribed by the applicable sections of this Regulation with the exception of inventories. Data as to raw materials, work in process and finished goods inventories shall be included either on the face of the balance sheet or in the notes to the financial statements, if applicable. Where any major balance sheet caption is less than 10% of total assets, and the amount in the caption has not increased or decreased by more than 25% since the end of the preceding fiscal year, the caption may be combined with others.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 89 FR 14314, Feb. 26, 2024.
 
 (e) *Filing of other interim financial information in certain cases.* The Commission may, upon the informal written request of the registrant, and where consistent with the protection of investors, permit the omission of any of the interim financial information herein required or the filing in substitution thereof of appropriate information of comparable character. The Commission may also by informal written notice require the filing of other information in addition to, or in substitution for, the interim information herein required in any case where such information is necessary or appropriate for an adequate presentation of the financial condition of any person for which interim financial information is required, or whose financial information is otherwise necessary for the protection of investors.
 
-[46 FR 12489, Feb. 17, 1981, as amended at 50 FR 25215, June 18, 1985; 50 FR 49533, Dec. 3, 1985; 57 FR 45293, Oct. 1, 1992; 64 FR 73401, Dec. 30, 1999; 73 FR 956, Jan. 4, 2008; 74 FR 18616, Apr. 23, 2009; 76 FR 50120, Aug. 12, 2011; 83 FR 50205, Oct. 4, 2018; 85 FR 22000, Apr. 20, 2020]
+[46 FR 12489, Feb. 17, 1981, as amended at 50 FR 25215, June 18, 1985; 50 FR 49533, Dec. 3, 1985; 57 FR 45293, Oct. 1, 1992; 64 FR 73401, Dec. 30, 1999; 73 FR 956, Jan. 4, 2008; 74 FR 18616, Apr. 23, 2009; 76 FR 50120, Aug. 12, 2011; 83 FR 50205, Oct. 4, 2018; 85 FR 22000, Apr. 20, 2020; 89 FR 14314, Feb. 26, 2024]

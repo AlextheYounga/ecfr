@@ -1,7 +1,5 @@
 ##### § 210.15 Reporting and recordkeeping. #####
 
-Link to an amendment published at 89 FR 32073, Apr. 25, 2024.
-
 (a) *Reporting summary.* Participating school food authorities are required to submit forms and reports to the State agency or the distributing agency, as appropriate, to demonstrate compliance with Program requirements. These reports include, but are not limited to:
 
 (1) A Claim for Reimbursement and, for the month of October and as otherwise specified by the State agency, supporting data as specified in accordance with § 210.8 of this part;
@@ -40,6 +38,6 @@ Link to an amendment published at 89 FR 32073, Apr. 25, 2024.
 
 (8) Records for a three year period to demonstrate the school food authority's compliance with the professional standards for school nutrition program directors, managers and personnel established in § 210.30.
 
-(9) Records to document compliance with the local school wellness policy requirements as set forth in § 210.30(f).
+(9) Records to document compliance with the local school wellness policy requirements as set forth in § 210.31(f).
 
-[53 FR 29147, Aug. 2, 1988, as amended at 54 FR 12582, Mar. 28, 1989; 56 FR 32941, July 17, 1991; 60 FR 31215, June 13, 1995; 65 FR 26912, 26922, May 9, 2000; 70 FR 34630, June 15, 2005; 74 FR 66216, Dec. 15, 2009; 76 FR 35317, June 17, 2011; 77 FR 25035, Apr. 27, 2012; 79 FR 7053, Feb. 6, 2014; 80 FR 11092, Mar. 2, 2015; 81 FR 50169, July 29, 2016; 81 FR 50185, July 29, 2016]
+[53 FR 29147, Aug. 2, 1988, as amended at 54 FR 12582, Mar. 28, 1989; 56 FR 32941, July 17, 1991; 60 FR 31215, June 13, 1995; 65 FR 26912, 26922, May 9, 2000; 70 FR 34630, June 15, 2005; 74 FR 66216, Dec. 15, 2009; 76 FR 35317, June 17, 2011; 77 FR 25035, Apr. 27, 2012; 79 FR 7053, Feb. 6, 2014; 80 FR 11092, Mar. 2, 2015; 81 FR 50169, July 29, 2016; 81 FR 50185, July 29, 2016; 89 FR 32073, Apr. 25, 2024]

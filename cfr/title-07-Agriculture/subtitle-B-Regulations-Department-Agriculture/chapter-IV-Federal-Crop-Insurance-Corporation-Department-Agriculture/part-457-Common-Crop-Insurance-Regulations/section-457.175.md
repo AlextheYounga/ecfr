@@ -1,18 +1,18 @@
 ##### § 457.175 California avocado crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 53847, June 27, 2024.
+The California Avocado Crop Provisions for the 2026 and succeeding crop years are as follows:
 
-The California avocado crop provisions for the 2025 and succeeding crop years are as follows:
+United States Department of AgricultureFederal Crop Insurance CorporationCalifornia Avocado Crop Provisions
 
-FCIC policies:
+In return for your payment of premium and administrative fee for the coverage, these California Avocado Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
 
-United States Department of AgricultureFederal Crop Insurance CorporationCalifornia Avocado Crop Provisions1. Definitions
+1. Definitions
 
 CDFA. The California Department of Food and Agriculture.
 
 *Commercial sale.* Any transaction in which avocados have been inspected under the rules of the CDFA and to which a marketing assessment payment applies under the Hass Avocado Promotion, Research, and Information Act of 2000.
 
-*Crop year.* The period of time that begins on December 1 immediately prior to the time the avocado trees normally bloom and that ends on October 31 of the calendar year following such bloom. Crop year is designated by the calendar year following the year in which the avocado trees normally bloom.
+*Crop year.* In lieu of the definition contained in section 1 of the Basic Provisions, the period of time that begins on December 1 immediately prior to the time the avocado trees normally bloom and that ends on October 31 of the calendar year following such bloom. Crop year is designated by the calendar year following the year in which the avocado trees normally bloom.
 
 *Harvest.* Picking of marketable avocado fruit from the trees or from the ground when permitted as described in section 11(c).
 
@@ -38,21 +38,15 @@ CDFA. The California Department of Food and Agriculture.
 
 2. Unit Division
 
-(a) Unless limited by the Special Provisions, a basic unit as defined in section 1 of the Basic Provisions may be divided into optional units if, for each optional unit, you meet the following:
+(a) Optional units may be established by:
 
-(1) All optional units you select for the crop year are identified on the acreage report for that crop year (Units will be determined when the acreage is reported but may be adjusted or combined to reflect the actual unit structure when adjusting a loss. No further unit division may be made after the acreage reporting date for any reason);
+(1) Organic and non-organic farming practices as provided in section 34(c)(3) of the Basic Provisions;
 
-(2) You have records that are acceptable to us for at least the most recently completed crop year for all optional units that you will report in the current crop year (You may be required to produce the records for all optional units for the most recently completed crop year);
+(2) Non-contiguous land; or
 
-(3) You have records of marketed or stored production from each optional unit maintained in such a manner that permits us to verify the production from each optional unit, or the production from each optional unit is kept separate until loss adjustment is completed by us.
+(3) Type.
 
-(b) Each optional unit must meet one or more of the following conditions, unless otherwise specified in the Special Provisions:
-
-(1) Be of a different type; or
-
-(2) Consist of acreage located on non-contiguous land.
-
-(c) Subsections (a) and (c) of section 34 of the Basic Provisions do not apply to these Crop Provisions.
+(b) Optional units by land location as provided in section 34(c)(1) of the Basic Provisions and by irrigation practice as provided in section 34(c)(2) of the Basic Provisions are not applicable.
 
 3. Insurance Guarantees, Coverage Levels, and Prices
 
@@ -78,7 +72,13 @@ In addition to the requirements of section 3 of the Basic Provisions:
 
 (iii) Any other information we request to establish your approved yield per acre.
 
-(c) We will reduce the approved yield whenever we determine any one or more of the factors specified in this section are likely to have a negative impact upon that average yield. If you fail to provide complete and accurate information required by this section, and pursuant to the definition of approved yield, we will reduce that yield as necessary at any time we become aware of any such omission.
+(c) We will reduce the approved yield, as necessary, based on your estimate of the effect of any circumstance listed in section 3(b) that may reduce your yields from previous levels. If you fail to notify us of any circumstance that may reduce your yields from previous levels, we will reduce your approved yield at any time we become aware of the circumstance. If the circumstance occurred:
+
+(1) Before the beginning of the insurance period and you notify us by the production reporting date, the approved yield will be reduced for the current crop year regardless of whether the circumstance was due to an insured or uninsured cause of loss;
+
+(2) After the beginning of the insurance period and you notify us by the production reporting date, the approved yield will be reduced for the current crop year only if the potential reduction in the approved yield is due to an uninsured cause of loss; or
+
+(3) Before or after the beginning of the insurance period and you fail to notify us by the production reporting date, an amount equal to the reduction in the approved yield will be added to the production to count calculated in section 11(c)(1)(ii) due to uninsured causes. We will reduce your approved yield for the subsequent crop year to reflect any reduction in the productive capacity of the trees or in the yield potential of the insured acreage.
 
 (d) In the event the avocado trees are damaged to the extent that we determine the APH history you certified no longer is representative of the potential production of the unit, we will reduce your approved yield to a level consistent with that reduced potential. Such reduction will not occur for a crop year for which insurance already has attached if the damage is due to a cause of loss that is insurable for the avocado fruit.
 
@@ -112,7 +112,7 @@ In accordance with section 2 of the Basic Provisions, the cancellation and termi
 
 (5) That is grown on trees that, if inspected, are considered acceptable to us.
 
-(b) In addition to the provisions of section 8 of the Basic Provisions that identify an uninsurable crop, we do not insure any avocados produced on trees that have not reached the sixth leaf year unless the unit has produced an average of at least 2,000 pounds of avocados per acre in one of the most recent three crop years or as otherwise specified in the Special Provisions.
+(b) In addition to section 8 of the Basic Provisions that identify an uninsurable crop, we do not insure any avocados produced on trees that have not reached the sixth leaf year unless the unit has produced an average of at least 2,000 pounds of avocados per acre in one of the most recent three crop years or as otherwise specified in the Special Provisions.
 
 (c) Avocado trees that have been stumped are not insurable for three calendar years after the year stumping was performed. The calendar year stumping occurred will be considered to be the actual calendar year if performed between January 1 and June 30 of that year. It will be considered to be the following calendar year if performed between July 1 and December 31.
 
@@ -124,25 +124,23 @@ In accordance with section 2 of the Basic Provisions, the cancellation and termi
 
 8. Insurance Period
 
-(a) In accordance with the provisions of section 11 of the Basic Provisions:
+(a) In accordance with section 11 of the Basic Provisions:
 
 (1) Coverage begins on December 1st of the crop year.
 
 (2) The calendar date for the end of the insurance period is the second October 31st of the crop year.
 
-(b) In addition to the provisions of section 11 of the Basic Provisions:
+(b) In addition to section 11 of the Basic Provisions:
 
 (1) If you acquire an insurable share in any insurable acreage on or before the acreage reporting date of any crop year, and if we inspect and consider the acreage acceptable, insurance will be considered to have attached to such acreage on the calendar date for the beginning of the insurance period.
 
-(2) If you relinquish your insurable interest on any acreage of avocados on or before the acreage reporting date of any crop year, insurance will not be considered to have attached to such acreage for that crop year unless:
+(2) If you relinquish your insurable interest on any acreage of avocados on or before the acreage reporting date of any crop year, insurance will not be considered to have attached to and no premium will be due, and no indemnity paid, for such acreage for that crop year unless:
 
 (i) A transfer of right to an indemnity or a similar form approved by us is completed by all affected parties;
 
 (ii) We are notified by you or the transferee in writing of such transfer on or before the acreage reporting date; and
 
 (iii) The transferee is eligible for crop insurance.
-
-No premium will be due or indemnity paid unless a properly executed transfer of right to an indemnity has been filed with us.
 
 9. Causes of Loss
 
@@ -218,7 +216,7 @@ In addition to the requirements of section 14 of the Basic Provisions:
 
 (iv) Potential production on insured acreage you intend to put to another use or abandon, if you agree to our appraisal of such production. Upon such agreement, the insurance period for that acreage will end when you put the acreage to another use or abandon the crop. If agreement on the appraised production is not reached:
 
-(A) If you do not elect to continue to care for the crop, we may give you consent to put the acreage to another use if you agree to leave intact, and provide sufficient care for, representative samples of the crop in locations acceptable to us. The production to count for such acreage will be based on the greater of the harvested production or our appraisal in accordance with Section 15(b) of the Basic Provisions from the samples at the time harvest should have occurred. If you do not leave the required samples intact, or fail to provide sufficient care for the samples, our appraisal made prior to giving you consent to put the acreage to another use will be used to determine the production to count; or
+(A) If you do not elect to continue to care for the crop, we may give you consent to put the acreage to another use if you agree to leave intact, and provide sufficient care for, representative samples of the crop in locations acceptable to us. The production to count for such acreage will be based on the greater of the harvested production or our appraisal in accordance with section 15(b) of the Basic Provisions from the samples at the time harvest should have occurred. If you do not leave the required samples intact, or fail to provide sufficient care for the samples, our appraisal made prior to giving you consent to put the acreage to another use will be used to determine the production to count; or
 
 (B) If you elect to continue to care for the crop, the production to count for the acreage will be based on the greater of harvested production or our reappraisal in accordance with section 15(b) of the Basic Provisions if additional damage occurs and the crop is not harvested; and
 
@@ -260,4 +258,4 @@ Assume the unit produced 15,000 lbs. Your share is 100 percent.
 
 The indemnity is calculated as follows:
 
-2,871 × 10 acres = 28,710 lbs.28,710 lbs. −15,000 lbs. = 13,710 lbs.13,710 lbs. × $0.90 × 1.000 = $12,339.[82 FR 61131, Dec. 27, 2017, as amended at 83 FR 16767, Apr. 17, 2018; 87 FR 38900, June 30, 2022; 87 FR 52854, Aug. 30, 2022; 88 FR 59790, Aug. 30, 2023; 88 FR 70339, Oct. 11, 2023]
+2,871 × 10 acres = 28,710 lbs.28,710 lbs. −15,000 lbs. = 13,710 lbs.13,710 lbs. × $0.90 × 1.000 = $12,339.[82 FR 61131, Dec. 27, 2017, as amended at 83 FR 16767, Apr. 17, 2018; 87 FR 38900, June 30, 2022; 87 FR 52854, Aug. 30, 2022; 88 FR 59790, Aug. 30, 2023; 88 FR 70339, Oct. 11, 2023; 89 FR 53847, June 27, 2024]

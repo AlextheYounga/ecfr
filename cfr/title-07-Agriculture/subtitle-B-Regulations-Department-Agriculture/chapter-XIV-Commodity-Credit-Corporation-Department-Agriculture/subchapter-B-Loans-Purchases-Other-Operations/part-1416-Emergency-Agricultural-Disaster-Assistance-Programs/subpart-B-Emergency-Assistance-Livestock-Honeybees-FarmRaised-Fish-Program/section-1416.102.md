@@ -20,6 +20,8 @@ The following definitions apply to this subpart and to the administration of ELA
 
 *Agricultural operation* means a farming operation.
 
+*All-milk price* means the national average price received, per hundredweight of milk, by dairy operations for all milk sold to dairy plants and milk dealers in the United States, as determined by the Secretary.
+
 *APHIS* means the Animal and Plant Health Inspection Service.
 
 *Application* means CCC or FSA form used to apply for either the emergency loss assistance for livestock or emergency loss assistance for farm-raised fish or honeybees.
@@ -73,6 +75,12 @@ Unweaned livestock are not grazing animals regardless of whether those unweaned 
 
 *Grazing loss* means the value, as calculated in § 1416.110(g) or (m), of eligible grazing lost due to an eligible adverse weather or eligible loss condition based on the number of days that the eligible livestock were not able to graze the eligible grazing land during the normal grazing period.
 
+*Herd* means, for milk losses due to H5N1, one or more dairy cows that are under common ownership or supervision and are grouped on a single premises (lot, farm, or ranch) or multiple premises which are geographically separated but physically located in the same county.
+
+*H5N1* means Highly Pathogenic Avian Influenza A (HPAI) H5N1 virus as either detected in milk and other bovine-origin samples associated with illness in dairy cattle, or, when pertaining to infection in cattle themselves, as confirmed by means of an H5N1 test.
+
+*H5N1 test* means a test, as defined in the APHIS H5N1 case definition, on individual animal or bulk tank samples confirmed at NVSL.
+
 *Kid* means a goat less than 1 year old.
 
 *Lamb* means a sheep less than 1 year old.
@@ -95,6 +103,10 @@ Unweaned livestock are not grazing animals regardless of whether those unweaned 
 
 *Normal mortality* means the numerical amount, computed by a percentage of expected honeybee colony and farm-raised fish deaths, by category, that normally occur during a program year for a producer, as established for the area by the FSA State Committee for farm-raised fish, and as established nationwide by the Deputy Administrator for honeybee colonies.
 
+*NVSL* means the APHIS National Veterinary Services Laboratories.
+
+*Positive H5N1 test collection date* means the date of sample collection for a positive H5N1 test that is reported to an NVSL and indicated on the H5N1 test result.
+
 *Program year* means for 2019 from October 1, 2018, through December 31, 2019; for 2020 and subsequent years, the program year is the same as the calendar year, January 1 through December 31.
 
 *Ram* means a male sheep.
@@ -109,4 +121,4 @@ Unweaned livestock are not grazing animals regardless of whether those unweaned 
 
 *Verifiable record* means a document provided by the producer that can be verified by the County Committee (COC) through an independent source.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 79 FR 57721, Sept. 26, 2014; 79 FR 74571, Dec. 15, 2014; 83 FR 49464, Oct. 2, 2018; 85 FR 10963, Feb. 26, 2020; 87 FR 19785, Apr. 6, 2022; 88 FR 1891, Jan. 11, 2023]
+[79 FR 21097, Apr. 14, 2014, as amended at 79 FR 57721, Sept. 26, 2014; 79 FR 74571, Dec. 15, 2014; 83 FR 49464, Oct. 2, 2018; 85 FR 10963, Feb. 26, 2020; 87 FR 19785, Apr. 6, 2022; 88 FR 1891, Jan. 11, 2023; 89 FR 54334, July 1, 2024]

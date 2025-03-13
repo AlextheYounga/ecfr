@@ -36,7 +36,7 @@ The following definitions apply under this part:
 
 (ix) Travel costs incurred for official business and not excluded as a direct administrative cost for providing program services under paragraph (1) of this definition;
 
-(x) Management information systems not related to the tracking and monitoring of TANF requirements (*e.g.,* for a personnel and payroll system for Tribal staff); and
+(x) Management information systems not related to the tracking and monitoring of TANF requirements (e.g., for a personnel and payroll system for Tribal staff); and
 
 (xi) Preparing reports and other documents related to program requirements.
 

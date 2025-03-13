@@ -1,10 +1,12 @@
 ##### § 457.166 Blueberry crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 53845, June 27, 2024.
+The Blueberry Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
-The Blueberry Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
+United States Department of AgricultureFederal Crop Insurance CorporationBlueberry Crop Provisions
 
-FCIC policies:United States Department of AgricultureFederal Crop Insurance CorporationReinsured policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Blueberry Crop Insurance Provisions1. Definitions
+In return for your payment of premium and administrative fee for the coverage, these Blueberry Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
+
+1. Definitions
 
 *Damaged blueberries.* Blueberries ready to harvest that due to an insurable cause of loss as shown in section 8 of these Crop Provisions do not meet the United States Standards for Grades of Blueberries, U.S. No. 1, or such other applicable grading standards specified in the Special Provisions.
 
@@ -14,7 +16,7 @@ FCIC policies:United States Department of AgricultureFederal Crop Insurance Corp
 
 *Pound.* Sixteen ounces avoirdupois.
 
-*Production guarantee (per acre).* The number of pounds determined by multiplying the approved yield per acre by the coverage level percentage you elect.
+*Production guarantee (per acre).* In accordance with the definition in the Basic Provisions, the production guarantee is number of pounds.
 
 *Prune.* A cultural practice performed to increase blueberry production as follows:
 
@@ -42,7 +44,13 @@ In addition to the requirements of section 3 of the Basic Provisions:
 
 (ii) The age of the bushes and the planting pattern.
 
-(c) We will reduce the yield used to establish your production guarantee as necessary, based on our estimate of the effect of the following: Removal of bushes; damage to bushes; changes in practices; and any other circumstance that may affect the yield potential of the insured crop. If you fail to notify us of any circumstance that may reduce your yields from previous levels, we will reduce your production guarantee as necessary at any time we become aware of the circumstance.
+(c) We will reduce the approved yield, as necessary, based on our estimate of the effect of any circumstance listed in section 3(b) that may reduce your yields from previous levels. If you fail to notify us of any circumstance that may reduce your yields from previous levels, we will reduce your approved yield at any time we become aware of the circumstance. If the circumstance occurred:
+
+(1) Before the beginning of the insurance period and you notify us by the production reporting date, the approved yield will be reduced for the current crop year regardless of whether the circumstance was due to an insured or uninsured cause of loss;
+
+(2) After the beginning of the insurance period and you notify us by the production reporting date, the approved yield will be reduced for the current crop year only if the potential reduction in the approved yield is due to an uninsured cause of loss; or
+
+(3) Before or after the beginning of the insurance period and you fail to notify us by the production reporting date, an amount equal to the reduction in the approved yield will be added to the production to count calculated in section 10(c)(1)(ii) due to uninsured causes. We will reduce your approved yield for the subsequent crop year to reflect any reduction in the productive capacity of the bushes or in the yield potential of the insured acreage.
 
 (d) You may not increase your elected or assigned coverage level or the ratio of your price election to the maximum price election we offer for the next year if a cause of loss that could or would reduce the yield of the insured crop is evident prior to the time you request the increase.
 
@@ -86,7 +94,7 @@ In accordance with section 4 of the Basic Provisions, the contract change date i
 
 7. Insurance Period
 
-(a) In accordance with the provisions of section 11 of the Basic Provisions:
+(a) In accordance with section 11 of the Basic Provisions:
 
 (1) For the year of application, coverage begins on November 21 of the calendar year prior to the year the insured crop normally blooms, except that, if your application is received by us after November 1, insurance will attach on the twentieth day after your properly completed application is received in our local office unless we inspect the acreage during the 20-day period and determine that it does not meet insurability requirements. You must provide any information that we require for the crop or to determine the condition of the blueberry acreage.
 
@@ -96,7 +104,7 @@ In accordance with section 4 of the Basic Provisions, the contract change date i
 
 (4) Notwithstanding the provisions in this section, coverage may not begin for a crop year if the policy is cancelled or terminated in accordance with section 5(b).
 
-(b) In addition to the provisions of section 11 of the Basic Provisions:
+(b) In addition to section 11 of the Basic Provisions:
 
 (1) If you acquire an insurable share in any insurable acreage after coverage begins but on or before the acreage reporting date for the crop year, and after an inspection we consider the acreage acceptable, insurance will be considered to have attached to such acreage on the calendar date for the beginning of the insurance period. There will be no coverage of any insurable interest acquired after the acreage reporting date.
 
@@ -112,7 +120,7 @@ In accordance with section 4 of the Basic Provisions, the contract change date i
 
 8. Causes of Loss
 
-(a) In accordance with the provisions of section 12 of the Basic Provisions, insurance is provided only against the following causes of loss that occur during the insurance period:
+(a) In accordance with section 12 of the Basic Provisions, insurance is provided only against the following causes of loss that occur during the insurance period:
 
 (1) Adverse weather conditions;
 
@@ -186,23 +194,23 @@ In addition to the requirements of section 14 of the Basic Provisions, the follo
 
 (7) Multiplying the result in section 10(b)(6) by your share.
 
-*Example for Section 10(b)*
+Example for Section 10(b)
 
-You have 100 percent share in 25 acres of highbush blueberries with a production guarantee of 4,000 pounds per acre and a price election of $.90 per pound. You are only able to harvest 62,500 total pounds because adverse weather reduced the yield. Your indemnity would be calculated as follows:
+You have 100 percent share in 25 acres of highbush blueberries with a production guarantee of 4,000 pounds per acre and a price election of $0.85 per pound. You are only able to harvest 62,500 total pounds because adverse weather reduced the yield. Your indemnity would be calculated as follows:
 
-A. 25 acres × 4,000 pound production guarantee/acre = 100,000 pound total production guarantee;
+(1) 25 acres × 4,000-pound production guarantee per acre = 100,000-pound total production guarantee;
 
-B. 100,000 pounds × $.90 price election = $90,000 guarantee;
+(2) 100,000 pounds × $0.85 price election = $85,000 guarantee;
 
-C. One type only, so same as (2) above, $90,000;
+(3) Not applicable;
 
-D. 62,500 pounds production to count × $.90 price election = $56,250 value of production to count;
+(4) 62,500-pound production to count × $0.85 price election = $53,125 value of production to count;
 
-E. One type only, so same as (4) above, $56,250;
+(5) Not applicable;
 
-F. $90,000 − $56,250 = $33,750 loss; and
+(6) $85,000−$53,125 = $31,875 loss; and
 
-G. $33,750 × 100 percent share = $33,750 indemnity payment.
+(7) $31,875 × 100 percent share = $31,875 indemnity payment.
 
 *End of Example.*
 
@@ -232,7 +240,7 @@ G. $33,750 × 100 percent share = $33,750 indemnity payment.
 
 (2) For damaged blueberries that are harvested and sold, the production to count for such damaged blueberries will be determined by:
 
-(i) Subtracting the harvest costs contained in the Special Provisions from the price received for the damaged blueberries;
+(i) Subtracting the harvest costs contained in the actuarial documents from the price received for the damaged blueberries;
 
 (ii) Dividing the result in section 10(d)(2)(i) by the price election; and
 
@@ -246,4 +254,4 @@ G. $33,750 × 100 percent share = $33,750 indemnity payment.
 
 The late and prevented planting provisions in the Basic Provisions are not applicable.
 
-[69 FR 52155, Aug. 25, 2004, as amended at 87 FR 38898, June 30, 2022]
+[69 FR 52155, Aug. 25, 2004, as amended at 87 FR 38898, June 30, 2022; 89 FR 53845, June 27, 2024]

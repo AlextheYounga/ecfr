@@ -1,0 +1,3 @@
+##### § 410.1100 Purpose of this subpart. #####
+
+This subpart sets forth the process by which ORR receives referrals of unaccompanied children from other Federal agencies and the factors ORR considers when placing an unaccompanied child in a particular care provider facility. As used in this subpart, “placement determinations” or “placements” refers to placements in ORR-approved care provider facilities during the time an unaccompanied child is in ORR care, and not to the location of an unaccompanied child once the unaccompanied child is released in accordance with subpart C of this part.

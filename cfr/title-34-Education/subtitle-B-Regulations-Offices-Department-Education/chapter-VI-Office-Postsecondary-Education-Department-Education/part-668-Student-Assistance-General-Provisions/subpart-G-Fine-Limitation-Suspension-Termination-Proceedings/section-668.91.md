@@ -1,7 +1,5 @@
 ##### § 668.91 Initial and final decisions. #####
 
-Link to an amendment published at 88 FR 70188, Oct. 10, 2023.
-
 (a)(1)(i) A hearing official issues a written initial decision in a hearing by certified mail, return receipt requested to—
 
 (A) The designated department official who began a proceeding against an institution or third-party servicer;
@@ -48,7 +46,9 @@ Link to an amendment published at 88 FR 70188, Oct. 10, 2023.
 
 (*1*) Upon proof of the conditions in § 668.174(a), the hearing official finds that the limitation or termination is warranted unless the institution demonstrates that all the conditions in § 668.175(h)(2) have been met; and
 
-(*2*) Upon proof of the conditions in § 668.174(b)(1), the hearing official finds that the limitation or termination is warranted unless the institution demonstrates that all applicable conditions described in § 668.174(b)(2) or § 668.175(h)(2) have been met.
+(*2*) Upon proof of the conditions in § 668.174(b)(1), the hearing official finds that the limitation or termination is warranted unless the institution demonstrates that all applicable conditions described in § 668.174(b)(2) or § 668.175(h)(2) have been met; and
+
+(vi) In a termination action against a GE program based upon the program's failure to meet the requirements in § 668.403 or § 668.404, the hearing official must terminate the program's eligibility unless the hearing official concludes that the Secretary erred in the applicable calculation.
 
 (4) The hearing official bases findings of fact only on evidence considered at the hearing and on matters given judicial notice.
 
@@ -88,4 +88,4 @@ Link to an amendment published at 88 FR 70188, Oct. 10, 2023.
 
 (ix) If the hearing official finds that a termination is warranted pursuant to paragraph (a)(3) of this section, the Secretary may affirm, modify, or reverse the initial decision, or may remand the case to the hearing official for further proceedings consistent with the Secretary's decision. If the Secretary affirms the initial decision without issuing a statement of reasons, the Secretary adopts the opinion of the hearing official as the decision of the Secretary. If the Secretary modifies, remands, or reverses the initial decision, in whole or in part, the Secretary's decision states the reasons for the action taken.
 
-(Approved by the Office of Management and Budget under control number 1840-0537) [59 FR 22448, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 60 FR 61774, Dec. 1, 1995; 65 FR 65637, Nov. 1, 2000. 81 FR 76072, Nov. 1, 2016. Redesignated and amended at 82 FR 6257, 6259, Jan. 19, 201 7; 84 FR 49910, Sept. 23, 2019; 87 FR 66041, Nov. 1, 2022]
+(Approved by the Office of Management and Budget under control number 1840-0537) [59 FR 22448, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 60 FR 61774, Dec. 1, 1995; 65 FR 65637, Nov. 1, 2000. 81 FR 76072, Nov. 1, 2016. Redesignated and amended at 82 FR 6257, 6259, Jan. 19, 201 7; 84 FR 49910, Sept. 23, 2019; 87 FR 66041, Nov. 1, 2022; 88 FR 70188, Oct. 10, 2023]

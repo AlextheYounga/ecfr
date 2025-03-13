@@ -1,0 +1,5 @@
+##### § 556.702 When will my assignment result in a segregated lease? #####
+
+(a) When there is an assignment by all record title owners of 100 percent of the record title to one or more aliquots in a lease, the assigned and retained portions become segregated into separate and distinct leases. In such case, both the new lease and the remaining portion of the original lease are referred to as “segregated leases” and the assignee(s) becomes the record title owner(s) of the new lease, which is subject to all the terms and conditions of the original lease.
+
+(b) If a record title holder transfers an undivided interest, *i.e.,* less than 100 percent of the record title interest in any given aliquot(s), that transfer will not segregate the portions of the aliquots, or the whole aliquots, in which part of the record title was transferred, into separate leases from the portion(s) in which no interest was transferred. Instead, that transfer will create a joint ownership between the assignee(s) and assignor(s) in the portions of the lease in which part of the record title interest was transferred. Any transfer of an undivided interest is subject to approval by BOEM.

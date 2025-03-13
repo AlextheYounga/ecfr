@@ -1,7 +1,5 @@
 ##### § 220.13 Special responsibilities of State agencies. #####
 
-Link to an amendment published at 89 FR 32084, Apr. 25, 2024.
-
 (a) [Reserved]
 
 (a-1) Each State agency, or FNSRO where applicable, shall require each School Food Authority of a school participating in the School Breakfast Program to develop and file for approval a free and reduced price policy statement in accordance with paragraph (a) of § 220.7.
@@ -10,9 +8,9 @@ Link to an amendment published at 89 FR 32084, Apr. 25, 2024.
 
 (2) Each State agency shall submit to FNS a final Report of School Program Operations (FNS-10) for each month which shall be limited to claims submitted in accordance with § 220.11(b) and which shall be postmarked and/or submitted no later than 90 days following the last day of the month covered by the report. States shall not receive Program funds for any month for which the final report is not submitted within this time limit unless FNS grants an exception. Upward adjustments to a State agency's report shall not be made after 90 days from the month covered by the report unless authorized by FNS. Downward adjustments shall always be made, without FNS authorization, regardless of when it is determined that such adjustments are necessary. Adjustments shall be reported to FNS in accordance with procedures established by FNS. Each State agency shall also submit to FNS a quarterly Financial Status Report (FNS-777) on the use of Program funds. Such reports shall be postmarked and/or submitted no later than 30 days after the end of each fiscal year quarter. Obligations shall be reported only for the fiscal year in which they occur. A final Financial Status Report for each fiscal year shall be postmarked and/or submitted to FNS within 120 days after the end of the fiscal year. FNS shall not be responsible for reimbursing unpaid Program obligations reported later than 120 days after the close of the fiscal year in which they were incurred.
 
-(3) For each of school years 2005-2006 through 2014-2015, each State agency shall monitor school food authority compliance with the food safety inspection requirement in § 220.7(a)(2) and submit an annual report to FNS documenting school compliance based on data supplied by the school food authorities. The report must be filed by November 15 following each of school years 2005-2006 through 2014-2015, beginning November 15, 2006. The State agency shall keep the records supplied by the school food authorities showing the number of food safety inspections obtained by schools for the current and three most recent school years.
+(3) Each State agency must keep the records supplied by school food authorities showing the number of food safety inspections obtained by schools for the current and three most recent school years.
 
-(c) Each State agency shall promptly investigate complaints received or irregularities noted in connection with the operation of either program, and shall take appropriate action to correct any irregularities. State Agencies shall maintain on file evidence of such investigations and actions. FNS or OI shall make investigations at the request of the State Agency or where FNS or OI determines investigations are appropriate.
+(c) Each State agency must promptly investigate complaints received or irregularities noted in connection with the operation of either program, and must take appropriate action to correct any irregularities. State agencies must maintain on file evidence of such investigations and actions. FNS will make investigations at the request of the State agency or where FNS determines investigations are appropriate.
 
 (d) The State agency shall release to FNS any Federal funds made available to it under the Act which are unobligated at the end of each fiscal year. Any such funds shall remain available to FNS for the purposes of the programs authorized by the Act until expended. Release of funds by the State Agency shall be made as soon as practicable, but in any event not later than 30 days following demand by FNSRO and shall be reflected by related adjustment in the State Agency's Letter of Credit.
 
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 32084, Apr. 25, 2024.
 
 (2) State agencies must conduct administrative reviews of the school meal programs specified in § 210.18 of this chapter to ensure that schools participating in the designated programs comply with the provisions of this title. The reviews of selected schools must focus on compliance with the critical and general areas of review identified in § 210.18 for each program, as applicable, and must be conducted as specified in the FNS *Administrative Review Manual* for each program. School food authorities may appeal a denial of all or a part of the Claim for Reimbursement or withholding of payment arising from review activity conducted by the State agency under § 210.18 of this chapter or by FNS under § 210.29(d)(2) of this chapter. Any such appeal shall be subject to the procedures set forth under § 210.18(p) of this chapter or § 210.29(d)(3) of this chapter, as appropriate.
 
-(3) For the purposes of compliance with the meal requirements in §§ 220.8 and 220.23, the State agency must follow the provisions specified in § 210.18(g) of this chapter, as applicable.
+(3) For the purposes of compliance with the meal requirements in § 220.8, the State agency must follow the provisions specified in § 210.18(g) of this chapter, as applicable.
 
 (4) State agency assistance must include visits to participating schools selected for administrative reviews under § 210.18 of this chapter to ensure compliance with program regulations and with the Department's nondiscrimination regulations (part 15 of this title), issued under title VI, of the Civil Rights Act of 1964.
 
@@ -40,18 +38,6 @@ Link to an amendment published at 89 FR 32084, Apr. 25, 2024.
 
 (k) State agencies shall require compliance by School Food Authorities with applicable provisions of this part.
 
-(l) *Data collection related to school food authorities.* (1) Each State agency must collect data related to school food authorities that have an agreement with the State agency to participate in the program for each of Federal fiscal years 2006 through 2009, including those school food authorities that participated only for part of the fiscal year. Such data shall include:
-
-(i) The name of each school food authority;
-
-(ii) The city in which each participating school food authority was headquartered and the name of the state;
-
-(iii) The amount of funds provided to the participating organization, i.e., the amount of federal funds reimbursed to each participating school food authority; and
-
-(iv) The type of participating organization, e.g., government agency, educational institution, non-profit organization/secular, non-profit organization/faith-based, and “other.”
-
-(2) On or before August 31, 2007, and each subsequent year through 2010, State agencies must report to FNS data as specified in paragraph (l)(1) of this section for the prior Federal fiscal year. State agencies must submit this data in a format designated by FNS.
-
-(m) *Program evaluations.* States, State agencies, and contractors must cooperate in studies and evaluations conducted by or on behalf of the Department, related to programs authorized under the Richard B. Russell National School Lunch Act and the Child Nutrition Act of 1966.
+(l) *Program evaluations.* States, State agencies, and contractors must cooperate in studies and evaluations conducted by or on behalf of the Department, related to programs authorized under the Richard B. Russell National School Lunch Act and the Child Nutrition Act of 1966.
 
 (44 U.S.C. 3506; sec. 812, Pub. L. 97-35, 95 Stat. 521-535 (42 U.S.C. 1759a); sec. 819, Pub. L. 97-35, 95 Stat. 533 (42 U.S.C. 1759a, 1773 and 1757); Pub. L. 79-396, 60 Stat. 231 (42 U.S.C. 1751); Pub. L. 89-642, 80 Stat 885-890 (42 U.S.C. 1773); Pub. L. 91-248, 84 Stat. 207 (42 U.S.C. 1759))[32 FR 37, Jan. 5, 1967. Redesignated by Amdt. 2, 33 FR 14513, Sept. 27, 1968]Editorial Note:For Federal Register citations affecting § 220.13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

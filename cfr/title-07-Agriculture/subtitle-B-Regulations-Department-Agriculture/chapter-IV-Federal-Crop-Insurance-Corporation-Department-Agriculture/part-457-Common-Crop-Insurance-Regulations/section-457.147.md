@@ -1,10 +1,10 @@
 ##### § 457.147 Central and Southern potato crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 53843, June 27, 2024.
+The Central and Southern Potato Crop Insurance Provisions for the 2025 and succeeding crop years in counties with a contract change date of June 30, September 30, and November 30, and for the 2026 and succeeding crop years in counties with a contract change date of April 30, are as follows:
 
-The Central and Southern Potato Crop Insurance Provisions for the 2017 and succeeding crop years in counties with a contract change date of November 30, and for the 2018 and succeeding crop years in counties with a contract change date of June 30 and September 30, are as follows:
+United States Department of AgricultureFederal Crop Insurance CorporationCentral and Southern Potato Crop Provisions
 
-FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Central and Southern Potato Crop Provisions
+In return for your payment of premium and administrative fee for the coverage, these Central and Southern Potato Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
 
 These provisions will be applicable in Alabama; Arizona; all California counties except Humboldt, Modoc, and Siskiyou; Delaware; Florida; Georgia; Maryland; Missouri; New Jersey; all New Mexico counties except San Juan; North Carolina; Oklahoma; Texas; and Virginia; and other states or counties if allowed by the Special Provisions.
 
@@ -16,7 +16,7 @@ These provisions will be applicable in Alabama; Arizona; all California counties
 
 *Disposed.* Any disposition of the crop including but not limited to sale or discard.
 
-*Grade inspection.* An inspection in which samples of production are obtained by us, or a party approved by us, prior to the sale, storage, or disposal of any lot of potatoes, or any portion of a lot and the potatoes are evaluated and quality (grade) determinations are made by us, a laboratory approved by us, or a potato grader licensed or certified by the applicable State or the United States Department of Agriculture, in accordance with the United States Standards for Grades of Potatoes. The United States standards used to determine the quality (grade) deficiencies will be: For potatoes produced for chipping, the United States Standards for Grades of Potatoes for Chipping; for potatoes produced for processing, the United States Standards for Grades of Potatoes for Processing; for potatoes produced for seed, the United States Standards for Grades of Seed Potatoes; and for all other potatoes, the United States Standards for Grades of Potatoes. The quantity and number of samples required will be determined in accordance with procedure issued by FCIC.
+*Grade inspection.* An inspection in which samples of production are obtained by us, or a party approved by us, prior to the sale, storage, or disposal of any lot of potatoes, or any portion of a lot and the potatoes are evaluated and quality (grade) determinations are made by us, a laboratory approved by us, or a potato grader licensed or certified by the applicable State or the United States Department of Agriculture, in accordance with the United States Standards for Grades of Potatoes. The United States standards used to determine the quality (grade) deficiencies will be: for potatoes produced for chipping, the United States Standards for Grades of Potatoes for Chipping; for potatoes produced for processing, the United States Standards for Grades of Potatoes for Processing; for potatoes produced for seed, the United States Standards for Grades of Seed Potatoes; and for all other potatoes, the United States Standards for Grades of Potatoes. The quantity and number of samples required will be determined in accordance with procedure issued by FCIC.
 
 *Harvest.* Lifting potatoes from within the soil to the soil surface.
 
@@ -34,9 +34,9 @@ These provisions will be applicable in Alabama; Arizona; all California counties
 
 A basic unit, as defined in section 1 of the Basic Provisions, will be divided into additional basic units by planting period.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
-(a) In addition to the requirements of section 2 of the Basic Provisions, you may select only one price election for all the potatoes in the county insured under this policy unless the Special Provisions provide different price elections by type. If the Special Provisions provide for different price elections by type, you may select one price election for each potato type designated in the Special Provisions. The price elections you choose for each type must have the same percentage relationship to the maximum price election offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
+(a) In addition to the requirements of section 3 of the Basic Provisions, you may select only one price election for all the potatoes in the county insured under this policy unless the actuarial documents provide different price elections by type. If the actuarial documents provide for different price elections by type, you may select one price election for each potato type designated in the actuarial documents. The price elections you choose for each type must have the same percentage relationship to the maximum price election offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
 
 (b) If the production from any acreage of the insured crop is not harvested, the price used to determine your indemnity will be 90 percent of your price election.
 
@@ -56,14 +56,14 @@ In accordance with section 4 of the Basic Provisions, the contract change date i
 
 In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are:
 
-|                                                                                 State and county                                                                                 |    Dates    |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-|                                Pinellas, Hillsborough, Polk, Osceola, and Brevard Counties, Florida, and all Florida counties lying south thereof                                |September 30.|
-|Arizona; all California counties; and all Texas counties except Bailey, Castro, Dallam, Deaf Smith, Floyd, Gaines, Hale, Hartley, Haskell, Knox, Lamb, Parmer, Swisher, and Yoakum|November 30. |
-| Alabama; Georgia; Missouri; and All Florida Counties except Pinellas, Hillsborough, Polk, Osceola, and Brevard Counties, Florida, and all Florida counties to the south thereof  |December 31. |
-|                                                           Delaware; Maryland; New Jersey; North Carolina; and Virginia                                                           | January 31. |
-|                                                                  Oklahoma; and Haskell and Knox Counties, Texas                                                                  |February 28. |
-|     Bailey, Castro, Dallam, Deaf Smith, Floyd, Gaines, Hale, Hartley, Lamb, Parmer, Swisher, and Yoakum counties, Texas; and all New Mexico counties except San Juan County      |  March 15.  |
+|                                                                                 State and county                                                                                 |Cancellation and  <br/>termination dates|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
+|                                Pinellas, Hillsborough, Polk, Osceola, and Brevard Counties, Florida, and all Florida counties lying south thereof                                |             September 30.              |
+|Arizona; all California counties; and all Texas counties except Bailey, Castro, Dallam, Deaf Smith, Floyd, Gaines, Hale, Hartley, Haskell, Knox, Lamb, Parmer, Swisher, and Yoakum|              November 30.              |
+| Alabama; Georgia; Missouri; and All Florida Counties except Pinellas, Hillsborough, Polk, Osceola, and Brevard Counties, Florida, and all Florida counties to the south thereof  |              December 31.              |
+|                                                           Delaware; Maryland; New Jersey; North Carolina; and Virginia                                                           |              January 31.               |
+|                                                                  Oklahoma; and Haskell and Knox Counties, Texas                                                                  |              February 28.              |
+|     Bailey, Castro, Dallam, Deaf Smith, Floyd, Gaines, Hale, Hartley, Lamb, Parmer, Swisher, and Yoakum counties, Texas; and all New Mexico counties except San Juan County      |               March 15.                |
 
 6. Annual Premium
 
@@ -87,7 +87,7 @@ In accordance with section 8 of the Basic Provisions, the crop insured will be a
 
 8. Insurable Acreage
 
-In addition to the provisions of section 9 of the Basic Provisions, we will not insure any acreage that:
+In addition to section 9 of the Basic Provisions, we will not insure any acreage that:
 
 (a) Does not meet the rotation requirements contained in the Special Provisions for the crop; or
 
@@ -95,7 +95,7 @@ In addition to the provisions of section 9 of the Basic Provisions, we will not 
 
 9. Insurance Period
 
-In accordance with the provisions of section 11 of the Basic Provisions, the calendar date for the end of the insurance period is the date immediately following planting as follows (exceptions, if any, for specific counties, varieties or types are contained in the Special Provisions):
+In accordance with section 11 of the Basic Provisions, the calendar date for the end of the insurance period is the date immediately following planting as follows (exceptions, if any, for specific counties, varieties or types are contained in the Special Provisions):
 
 (a) July 15 in Missouri; and all Texas counties except Bailey, Castro, Dallam, Deaf Smith, Floyd, Gaines, Hale, Haskell, Hartley, Knox, Lamb, Parmer, Swisher, and Yoakum.
 
@@ -111,7 +111,7 @@ In accordance with the provisions of section 11 of the Basic Provisions, the cal
 
 10. Causes of Loss
 
-(a) In accordance with the provisions of section 12 of the Basic Provisions, insurance is provided only against the following causes of loss which occur within the insurance period:
+(a) In accordance with section 12 of the Basic Provisions, insurance is provided only against the following causes of loss which occur within the insurance period:
 
 (1) Adverse weather conditions;
 
@@ -153,7 +153,7 @@ In accordance with the provisions of section 11 of the Basic Provisions, the cal
 
 (1) Multiplying the insured acreage by its respective production guarantee (if there is unharvested acreage in the unit, the harvested and unharvested acreage will be determined separately);
 
-(2) Multiplying each result in section 12(b)(1) by the respective price election (the price election may be limited as specified in section 3.);
+(2) Multiplying each result in section 12(b)(1) by the respective price election (the price election may be limited as specified in section 3);
 
 (3) Totaling the results of section 12(b)(2);
 
@@ -219,7 +219,7 @@ You also have a 100 percent share in 100 unharvested acres of potatoes in the sa
 
 (iii) Production lost due to harvest prior to full maturity. Production to count from such acreage will be determined by increasing the amount of harvested production by 2 percent per day for each day the potatoes were harvested prior to the date the potatoes would have reached full maturity. The date the potatoes would have reached full maturity will be considered to be 45 days prior to the calendar date for the end of the insurance period, unless otherwise specified in the Special Provisions. This adjustment will not be made if the potatoes are damaged by an insurable cause of loss, and leaving the crop in the field would either reduce production or decrease quality.
 
-(iv) Unharvested production, including unharvested production on insured acreage you intend to put to another use or abandon, or acreage damaged by insurable causes and for which you cease to provide further care, if you and we agree on the appraised amount of production. Upon such agreement, the insurance period for that acreage will end when you put the acreage to another use or cease providing care for the crop. This unharvested production may be adjusted in accordance with sections 12(e), and the value of all unharvested production will be calculated using the reduced price election determined in section 3(b). If agreement on the appraised amount of production is not reached:
+(iv) Unharvested production, including unharvested production on insured acreage you intend to put to another use or abandon, or acreage damaged by insurable causes and for which you cease to provide further care, if you and we agree on the appraised amount of production. Upon such agreement, the insurance period for that acreage will end when you put the acreage to another use or cease providing care for the crop. This unharvested production may be adjusted in accordance with section 12(e), and the value of all unharvested production will be calculated using the reduced price election determined in section 3(b). If agreement on the appraised amount of production is not reached:
 
 (A) If you do not elect to continue to care for the crop, we may give you consent to put the acreage to another use if you agree to leave intact, and provide sufficient care for, representative samples of the crop in locations acceptable to us (The price used to determine the amount of any indemnity will be limited as specified in section 3 even if the representative samples are harvested. The amount of production to count for such acreage will be based on the harvested production or appraisals from the samples at the time harvest should have occurred. If you do not leave the required samples intact, or fail to provide sufficient care for the samples, our appraisal made prior to giving you consent to put the acreage to another use will be used to determine the amount of production to count); or
 
@@ -265,4 +265,4 @@ You also have a 100 percent share in 100 unharvested acres of potatoes in the sa
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[62 FR 65333, Dec. 12, 1997, as amended at 72 FR 61287, Oct. 30, 2007; 81 FR 84400, Nov. 23, 2016]
+[62 FR 65333, Dec. 12, 1997, as amended at 72 FR 61287, Oct. 30, 2007; 81 FR 84400, Nov. 23, 2016; 89 FR 53843, June 27, 2024]

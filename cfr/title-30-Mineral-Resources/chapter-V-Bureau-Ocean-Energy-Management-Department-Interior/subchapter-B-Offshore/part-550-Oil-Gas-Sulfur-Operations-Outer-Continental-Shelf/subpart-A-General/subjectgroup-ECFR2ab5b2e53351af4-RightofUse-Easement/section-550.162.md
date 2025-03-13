@@ -1,0 +1,3 @@
+##### § 550.162 May I continue my right-of-use and easement after the termination of any lease on which it is situated? #####
+
+If your right-of-use and easement is on a lease, you may continue to exercise the right-of-use and easement after the lease on which it is situated terminates. You must only use the right-of-use and easement for the purpose that the grant specifies. All future lessees of that portion of the OCS on which your right-of-use and easement is situated must continue to recognize the right-of-use and easement for the purpose that the grant specifies.

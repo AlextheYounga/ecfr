@@ -1,10 +1,10 @@
 ##### § 457.142 Northern potato crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 53842, June 27, 2024.
+The Northern Potato Crop Insurance Provisions for the 2025 and succeeding crop years in counties with a contract change date of June 30, September 30, and November 30, and for the 2026 and succeeding crop years in counties with a contract change date of April 30, are as follows:
 
-The Northern Potato Crop Insurance Provisions for the 2017 and succeeding crop years are as follows:
+United States Department of AgricultureFederal Crop Insurance CorporationNorthern Potato Crop Provisions
 
-FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Northern Potato Crop Provisions
+In return for your payment of premium and administrative fee for the coverage, these Northern Potato Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
 
 These provisions will be applicable in: Alaska; Humboldt, Modoc, and Siskiyou Counties, California; Colorado; Connecticut; Idaho; Indiana; Iowa; Kansas; Maine; Massachusetts; Michigan; Minnesota; Montana; Nebraska; Nevada; San Juan County, New Mexico; New York; North Dakota; Ohio; Oregon; Pennsylvania; Rhode Island; South Dakota; Utah; Washington; Wisconsin; and Wyoming; and any other states or counties if allowed by the Special Provisions.
 
@@ -18,7 +18,7 @@ These provisions will be applicable in: Alaska; Humboldt, Modoc, and Siskiyou Co
 
 *Disposed.* Any disposition of the crop including but not limited to sale or discard.
 
-*Grade inspection.* An inspection in which samples of production are obtained by us, or a party approved by us, prior to the sale, storage, or disposal of any lot of potatoes, or any portion of a lot and the potatoes are evaluated and quality (grade) determinations are made by us, a laboratory approved by us, or a potato grader licensed or certified by the applicable State or the United States Department of Agriculture, in accordance with the United States Standards for Grades of Potatoes. The United States standards used to determine the quality (grade) deficiencies will be: For potatoes produced for chipping, the United States Standards for Grades of Potatoes for Chipping; for potatoes produced for processing, the United States Standards for Grades of Potatoes for Processing; for potatoes produced for seed, the United States Standards for Grades of Seed Potatoes; and for all other potatoes, the United States Standards for Grades of Potatoes. The quantity and number of samples required will be determined in accordance with procedure issued by FCIC.
+*Grade inspection.* An inspection in which samples of production are obtained by us, or a party approved by us, prior to the sale, storage, or disposal of any lot of potatoes, or any portion of a lot and the potatoes are evaluated and quality (grade) determinations are made by us, a laboratory approved by us, or a potato grader licensed or certified by the applicable State or the United States Department of Agriculture, in accordance with the United States Standards for Grades of Potatoes. The United States standards used to determine the quality (grade) deficiencies will be: for potatoes produced for chipping, the United States Standards for Grades of Potatoes for Chipping; for potatoes produced for processing, the United States Standards for Grades of Potatoes for Processing; for potatoes produced for seed, the United States Standards for Grades of Seed Potatoes; and for all other potatoes, the United States Standards for Grades of Potatoes. The quantity and number of samples required will be determined in accordance with procedure issued by FCIC.
 
 *Harvest.* Lifting potatoes from within the soil to the soil surface.
 
@@ -32,9 +32,9 @@ These provisions will be applicable in: Alaska; Humboldt, Modoc, and Siskiyou Co
 
 *Tuber rot.* Any soft, mushy, or leaky condition of potato tissue (soft rot or wet breakdown as defined in the United States Standards for Grades of Potatoes), including, but not limited to, breakdown caused by Southern Bacterial Wilt, Ring Rot, or Late Blight.
 
-2. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+2. Insurance Guarantees, Coverage Levels, and Prices
 
-(a) In addition to the requirements of section 3 of the Basic Provisions, you may select only one price election for all the potatoes in the county insured under this policy unless the Special Provisions provide different price elections by type. If the Special Provisions provide for different price elections by type, you may select one price election for each potato type designated in the Special Provisions. The price elections you choose for each type must have the same percentage relationship to the maximum price election offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
+(a) In addition to the requirements of section 3 of the Basic Provisions, you may select only one price election for all the potatoes in the county insured under this policy unless the actuarial documents provide different price elections by type. If the actuarial documents provide for different price elections by type, you may select one price election for each potato type designated in the actuarial documents. The price elections you choose for each type must have the same percentage relationship to the maximum price election offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
 
 (b) If the production from any acreage of the insured crop is not harvested, the price used to determine your indemnity will be 90 percent of your price election. This requirement is not applicable to the certified seed endorsement price election.
 
@@ -62,7 +62,7 @@ In accordance with section 8 of the Basic Provisions, the crop insured will be a
 
 (c) Planted for harvest as certified seed stock, or for human consumption, (unless specified otherwise in the Special Provisions);
 
-(d) That are not (unless allowed by the Special Provision or by written agreement):
+(d) That are not (unless allowed by the Special Provisions or by written agreement):
 
 (1) Interplanted with another crop; or
 
@@ -70,7 +70,7 @@ In accordance with section 8 of the Basic Provisions, the crop insured will be a
 
 7. Insurable Acreage
 
-In addition to the provisions of section 9 of the Basic Provisions, we will not insure any acreage that:
+In addition to section 9 of the Basic Provisions, we will not insure any acreage that:
 
 (a) Does not meet the rotation requirements contained in the Special Provisions for the crop; or
 
@@ -78,9 +78,9 @@ In addition to the provisions of section 9 of the Basic Provisions, we will not 
 
 8. Insurance Period
 
-In accordance with the provisions of section 11 of the Basic Provisions, the calendar date for the end of the insurance period is the date immediately following planting as follows (exceptions, if any, for specific counties, varieties or types are contained in the Special Provisions):
+In accordance with section 11 of the Basic Provisions, the calendar date for the end of the insurance period is the date immediately following planting as follows (exceptions, if any, for specific counties, varieties or types are contained in the Special Provisions):
 
-(a) October 1, in Alaska;
+(a) October 1 in Alaska;
 
 (b) October 10 in Nebraska and Wyoming;
 
@@ -94,7 +94,7 @@ In accordance with the provisions of section 11 of the Basic Provisions, the cal
 
 9. Causes of Loss
 
-(a) In accordance with the provisions of section 12 of the Basic Provisions, insurance is provided only against the following causes of loss that occur within the insurance period:
+(a) In accordance with section 12 of the Basic Provisions, insurance is provided only against the following causes of loss that occur within the insurance period:
 
 (1) Adverse weather conditions;
 
@@ -134,9 +134,9 @@ In accordance with the provisions of section 11 of the Basic Provisions, the cal
 
 (b) In the event of loss or damage covered by this policy, we will settle your claim by:
 
-(1) Multiplying the insured acreage by its respective production guarantee (If there is unharvested acreage in the unit, the harvested and unharvested acreage will be determined separately);
+(1) Multiplying the insured acreage by its respective production guarantee (if there is unharvested acreage in the unit, the harvested and unharvested acreage will be determined separately);
 
-(2) Multiplying each result in section 11(b)(1) by the respective price election (The price election may be limited as specified in section 3.);
+(2) Multiplying each result in section 11(b)(1) by the respective price election (the price election may be limited as specified in section 2);
 
 (3) Totaling the results of section 11(b)(2);
 
@@ -216,7 +216,7 @@ You also have a 100 percent share in 100 unharvested acres of potatoes in the sa
 
 (1) The potatoes have freeze damage or tuber rot that is evident at, or prior to, the end of the insurance period; and
 
-(2) A grade inspection is completed no later than 21 days after the end of the insurance period (if the Northern Potato Storage Coverage Endorsement is applicable, samples must be obtained within 60 days after the end of the insurance period and quality (grade) determinations must be completed with 21 days of sampling); and
+(2) A grade inspection is completed no later than 21 days after the end of the insurance period (if the Northern Potato Storage Coverage Endorsement is applicable, samples must be obtained within 60 days after the end of insurance period and quality (grade) determinations must be completed within 21 days of sampling; and
 
 (3) Prior to any grade inspection, you must notify us of the intended use of the potatoes so the appropriate United States standards will be applied (We may request previous sales records to verify your claimed intended use or base the intended use on the type of potato grown if such potatoes are not usually grown for the intended use you reported).
 
@@ -226,11 +226,11 @@ You also have a 100 percent share in 100 unharvested acres of potatoes in the sa
 
 (1) If a price is agreed upon between you and a buyer within 21 days (60 days if the Northern Potato Storage Coverage endorsement is applicable), after the end of the insurance period, or the production is delivered to a buyer within 21 days (60 days if the Northern Potato Storage Coverage Endorsement is applicable), after the end of the insurance period, the amount of production will be determined by:
 
-(i) Dividing the price per hundredweight received or that will be received by the highest price election designated in the Special Provisions or addendum thereto for the insured potato type (if the production is sold for a price lower than the value appropriate to and representative of the local market, we will determine the value of the production based on the price you could have received in the local market); and
+(i) Dividing the price per hundredweight received or that will be received by the highest price election designated in the actuarial documents for the insured potato type (if the production is sold for a price lower than the value appropriate to and representative of the local market, we will determine the value of the production based on the price you could have received in the local market); and
 
 (ii) Multiplying the result (not to exceed 1.0) by the number of hundredweight of sold or to be sold production (We may verify this after the production has actually been sold); or
 
-(2) If a price is not agreed upon between you and a buyer and the production is not delivered within 21 days (60 days if the Northern Storage Coverage Endorsement is applicable) after the end of the insurance period, and that remain in storage 22 or more days (61 or more days if the Northern Potato Storage Coverage Endorsement is applicable), after the end of the insurance period, the amount of production will be the greater of:
+(2) If a price is not agreed upon between you and a buyer and the production is not delivered within 21 days (60 days if the Northern Potato Storage Coverage Endorsement is applicable) after the end of the insurance period, and that remain in storage 22 or more days (61 or more days if the Northern Potato Storage Coverage Endorsement is applicable), after the end of the insurance period, the amount of production will be the greater of:
 
 (i) The amount determined by:
 
@@ -264,4 +264,4 @@ You also have a 100 percent share in 100 unharvested acres of potatoes in the sa
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[62 FR 65331, Dec. 12, 1997, as amended at 72 FR 61282, Oct. 30, 2007; 81 FR 84400, Nov. 23, 2016]
+[62 FR 65331, Dec. 12, 1997, as amended at 72 FR 61282, Oct. 30, 2007; 81 FR 84400, Nov. 23, 2016; 89 FR 53842, June 27, 2024]

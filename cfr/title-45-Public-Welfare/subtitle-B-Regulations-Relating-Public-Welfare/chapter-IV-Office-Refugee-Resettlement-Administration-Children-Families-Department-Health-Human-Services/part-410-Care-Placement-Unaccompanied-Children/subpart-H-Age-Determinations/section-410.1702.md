@@ -1,0 +1,3 @@
+##### § 410.1702 Conducting age determinations. #####
+
+Procedures for determining the age of an individual must take into account the totality of the circumstances and evidence, including the non-exclusive use of radiographs, to determine the age of the individual. ORR may require an individual in ORR custody to submit to a medical or dental examination, including X-rays, conducted by a medical professional or to submit to other appropriate procedures to verify their age. If ORR subsequently determines that such an individual is an unaccompanied child, the individual will be treated in accordance with ORR's UC Program regulations in this part for all purposes.

@@ -1,0 +1,23 @@
+##### § 410.1206 Appeals of release denials. #####
+
+(a) Denied parent or legal guardian or close relative potential sponsors to whom ORR's Director or their designee, who is a neutral and detached decision maker, must send Notification of Denial letters pursuant to § 410.1205 may seek an appeal of ORR's decision by submitting a written request to the Assistant Secretary for ACF, or the Assistant Secretary's neutral and detached designee.
+
+(b) The requestor may seek an appeal with a hearing or without a hearing. The Assistant Secretary, or their neutral and detached designee, shall acknowledge the request for appeal within five business days of receipt.
+
+(c) If the sole reason for denial of release is concern that the unaccompanied child is a danger to self or others, the unaccompanied child may seek an appeal of the denial as described in paragraphs (a) and (b) of this section. If the unaccompanied child expresses a desire to seek an appeal, the unaccompanied child may consult with their attorney of record at no cost to the Federal Government or a legal service provider for assistance with the appeal. The unaccompanied child may seek such appeal at any time after denial of release while the unaccompanied child is in ORR custody.
+
+(d) ORR shall deliver the full evidentiary record including any countervailing or otherwise unfavorable evidence, apart from any legally required redactions, to the denied parent or legal guardian or close relative potential sponsor within a reasonable timeframe to be established by ORR, unless ORR determines that providing the evidentiary record, or part(s) thereof, to the potential sponsor would compromise the safety and well-being of the unaccompanied child.
+
+(e) ORR shall deliver the unaccompanied child's complete case file, apart from any legally required redactions, to a parent or legal guardian potential sponsor on request within a reasonable timeframe to be established by ORR, unless ORR determines that providing the complete case file, or part(s) thereof, to the parent or legal guardian potential sponsor would compromise the safety and well-being of the unaccompanied child. ORR shall deliver the unaccompanied child's complete case file, apart from any legally required redactions, to the unaccompanied child and the unaccompanied child's attorney or legal service provider on request within a reasonable timeframe to be established by ORR.
+
+(f) The appeal process, including notice of decision on appeal sent to the potential sponsor, shall be completed within 30 calendar days of the potential sponsor's request for an appeal, unless an extension of time is granted by the Assistant Secretary or their neutral and detached designee for good cause.
+
+(g) The appeal of a release denial shall be considered, and any hearing shall be conducted, by the Assistant Secretary, or their neutral and detached designee. Upon making a decision to reverse or uphold the decision denying release to the potential sponsor, the Assistant Secretary or their neutral and detached designee, shall issue a written decision, either ordering or denying release to the potential sponsor within the timeframe described in § 410.1206(f). If the Assistant Secretary, or their neutral and detached designee, denies release to the potential sponsor, the decision shall set forth detailed, specific, and individualized reasoning for the decision. ORR shall also notify the unaccompanied child and the child's attorney of the denial. ORR shall inform the potential sponsor and the unaccompanied child of any right to seek review of an adverse decision in the United States District Court.
+
+(h) ORR shall make qualified interpretation and/or translation services available to unaccompanied children and denied parent or legal guardian or close relative potential sponsors upon request for purposes of appealing denials of release. Such services shall be available to unaccompanied children and denied parent or legal guardian or close relative potential sponsors in enclosed, confidential areas.
+
+(i) If a child is released to another sponsor during the pendency of the appeal process, the appeal will be deemed moot.
+
+(j)(1) Denied parent or legal guardian or close relative potential sponsors to whom ORR must send Notification of Denial letters pursuant to § 410.1205 have the right to be represented by counsel in proceedings related to the release denial, including at any hearing, at no cost to the Federal Government.
+
+(2) The unaccompanied child has the right to consult with counsel during the potential sponsor's appeal process at no cost to the Federal Government.

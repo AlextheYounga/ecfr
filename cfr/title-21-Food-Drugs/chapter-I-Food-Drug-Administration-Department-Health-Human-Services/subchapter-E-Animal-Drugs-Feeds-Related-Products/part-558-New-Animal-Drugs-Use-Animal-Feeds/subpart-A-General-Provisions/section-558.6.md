@@ -96,8 +96,8 @@
 
 (6) A distributor must also notify FDA within 30 days of any change in ownership, business name, or business address.
 
-(7) The notifications cited in paragraphs (c)(5) and (6) of this section must be submitted to the Food and Drug Administration, Center for Veterinary Medicine, Division of Animal Feeds (HFV-220), 12225 Wilkins Ave., Rockville, MD 20852, Fax: 240-453-6882, or email (via attachment): *MedicatedFeedsTeamMail@fda.hhs.gov.*
+(7) The notifications cited in paragraphs (c)(5) and (6) of this section must be submitted to the Food and Drug Administration, Center for Veterinary Medicine, Division of Food Compliance, 12225 Wilkins Ave., Rockville, MD 20852, or email (via attachment): *MedicatedFeedsTeamMail@fda.hhs.gov.*
 
 (8) A distributor is permitted to distribute a VFD feed to another distributor only if the originating distributor (consignor) first obtains a written (nonverbal) acknowledgment letter, as defined in § 558.3(b)(11), from the receiving distributor (consignee) before the feed is shipped. Consignor distributors must retain a copy of each consignee distributor's acknowledgment letter for 2 years.
 
-[80 FR 31733, June 3, 2015; 80 FR 35841, June 23, 2015, as amended at 85 FR 50784, Aug. 18, 2020]
+[80 FR 31733, June 3, 2015; 80 FR 35841, June 23, 2015, as amended at 85 FR 50784, Aug. 18, 2020; 89 FR 51966, June 21, 2024]

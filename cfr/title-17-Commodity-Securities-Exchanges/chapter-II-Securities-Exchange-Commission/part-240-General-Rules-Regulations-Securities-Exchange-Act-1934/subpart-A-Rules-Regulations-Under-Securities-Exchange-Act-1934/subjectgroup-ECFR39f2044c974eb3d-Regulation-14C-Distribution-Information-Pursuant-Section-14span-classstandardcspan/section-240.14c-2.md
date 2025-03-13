@@ -1,7 +1,5 @@
 ##### § 240.14c-2 Distribution of information statement. #####
 
-Link to an amendment published at 89 FR 14324, Feb. 26, 2024.
-
 (a)(1) In connection with every annual or other meeting of the holders of the class of securities registered pursuant to section 12 of the Act or of a class of securities issued by an investment company registered under the Investment Company Act of 1940 that has made a public offering of securities, including the taking of corporate action by the written authorization or consent of security holders, the registrant shall transmit to every security holder of the class that is entitled to vote or give an authorization or consent in regard to any matter to be acted upon and from whom proxy authorization or consent is not solicited on behalf of the registrant pursuant to section 14(a) of the Act:
 
 (i) A written information statement containing the information specified in Schedule 14C (§ 240.14c-101);
@@ -22,4 +20,6 @@ Link to an amendment published at 89 FR 14324, Feb. 26, 2024.
 
 (d) A registrant shall transmit an information statement to security holders pursuant to paragraph (a) of this section by satisfying the requirements set forth in § 240.14a-16; provided, however, that the registrant shall revise the information required in the Notice of Internet Availability of Proxy Materials, including changing the title of that notice, to reflect the fact that the registrant is not soliciting proxies for the meeting.
 
-[51 FR 42070, Nov. 20, 1986, as amended at 56 FR 57254, Nov. 8, 1991; 57 FR 1102, Jan. 10, 1992; 57 FR 48295, Oct. 22, 1992; 72 FR 4171, Jan. 29, 2007; 72 FR 42239, Aug. 1, 2007]
+(e) If a transaction is a de-SPAC transaction, as defined in § 229.1601(a) of this chapter (Item 1601(a) of Regulation S-K), the information statement of the special purpose acquisition company, as defined in § 229.1601(b) (Item 1601(b) of Regulation S-K), must be distributed to security holders no later than the lesser of 20 calendar days prior to the date on which the meeting of security holders is to be held or action is to be taken in connection with the de-SPAC transaction or the maximum number of days permitted for disseminating the information statement under the applicable laws of the jurisdiction of incorporation or organization.
+
+[51 FR 42070, Nov. 20, 1986, as amended at 56 FR 57254, Nov. 8, 1991; 57 FR 1102, Jan. 10, 1992; 57 FR 48295, Oct. 22, 1992; 72 FR 4171, Jan. 29, 2007; 72 FR 42239, Aug. 1, 2007; 89 FR 14324, Feb. 26, 2024]

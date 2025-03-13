@@ -1,0 +1,3 @@
+##### § 550.209 What is the BOEM review process for the notice? #####
+
+The Regional Supervisor will review any notice required under § 550.208(a) and (b)(1) to ensure that your ancillary activity complies with the performance standards listed in § 550.202(a), (b), (d), and (e). The Regional Supervisor may notify you that your ancillary activity does not comply with those standards. In such a case, the Regional Supervisor will require you to submit an EP, DPP, or DOCD and you may not start your ancillary activity until the Regional Supervisor approves the EP, DPP, or DOCD.

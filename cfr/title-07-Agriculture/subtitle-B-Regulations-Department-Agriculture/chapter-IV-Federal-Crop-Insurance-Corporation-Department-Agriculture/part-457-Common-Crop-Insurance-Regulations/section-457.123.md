@@ -1,36 +1,40 @@
 ##### § 457.123 Almond crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 53839, June 27, 2024.
+The Almond Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
-The Almond Crop Insurance Provisions for the 2008 and succeeding crop years are as follows:
+United States Department of AgricultureFederal Crop Insurance CorporationAlmond Crop Provisions
 
-FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured PoliciesAlmond Crop Provisions
-
-If a conflict exists among the policy provisions, the order of priority is as follows: (1) The Catastrophic Risk Protection Endorsement, if applicable; (2) the Special Provisions; (3) these Crop Provisions; and (4) the Basic Provisions with (1) controlling (2), etc.
+In return for your payment of premium and administrative fee for the coverage, these Almond Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
 
 1. Definitions
 
 *Harvest.* The removal of mature almonds from the orchard.
 
-*Interplanted.* Acreage on which two or more crops are planted in any form of alternating or mixed pattern.
+*Interplanted.* In lieu of the definition in section 1 of the Basic Provisions, acreage on which two or more crops are planted in any form of alternating or mixed pattern.
 
 *Meat pounds.* The total pounds of almond meats (whole, chipped and broken, and in-shell meats). In-shell almonds will be converted to meat pounds in accordance with FCIC approved procedures.
 
-*Production guarantee (per acre).* The quantity of almonds (total meat pounds per acre) determined by multiplying the approved actual production history (APH) yield per acre by the coverage level percentage you elect.
+*Production guarantee (per acre).* In addition to the definition in section 1 of the Basic Provisions, the number of pounds is total meat pounds per acre of almonds.
 
 *Set out.* Transplanting the tree into the orchard.
 
 2. Unit Division
 
-Provisions in the Basic Provisions that allow optional units by section, section equivalent, or FSA farm serial number and by irrigated and non-irrigated practices are not applicable. Optional units may be established only if each optional unit is located on non-contiguous land, unless otherwise allowed by written agreement.
+(a) Optional units may be established by:
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+(1) Organic farming practices as provided in section 34(c)(3) of the Basic Provisions; or
 
-In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
+(2) Non-contiguous land.
 
-(a) You may select only one price election for all the almonds in the county insured under this policy unless the Special Provisions provide different price elections by type, in which case you may select one price election for each almond type designated in the Special Provisions. The price elections you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
+(b) Optional units by land location as provided in section 34(c)(1) of the Basic Provisions and by irrigation practice as provided in section 34(c)(2) of the Basic Provisions are not applicable.
 
-(b) You must report, by the production reporting date designated in section 3 of the Basic Provisions (§ 457.8), by type if applicable:
+3. Insurance Guarantees, Coverage Levels, and Prices
+
+In addition to the requirements of section 3 of the Basic Provisions:
+
+(a) You may select only one price election for all the almonds in the county insured under this policy unless the actuarial documents provide different price elections by type, in which case you may select one price election for each almond type designated in the Special Provisions. The price elections you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
+
+(b) You must report, by the production reporting date designated in section 3 of the Basic Provisions, by type if applicable:
 
 (1) Any damage, removal of trees, change in practices, or any other circumstance that may reduce the expected yield below the yield upon which the insurance guarantee is based, and the number of affected acres;
 
@@ -42,21 +46,27 @@ In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
 
 (5) Any other information that we request in order to establish your approved yield.
 
-We will reduce the yield used to establish your production guarantee as necessary, based on our estimate of the effect of the following: interplanted perennial crop; removal of trees; damage; change in practices and any other circumstance on the yield potential of the insured crop. If you fail to notify us of any circumstance that may reduce your yields from previous levels, we will reduce your production guarantee as necessary at any time we become aware of the circumstance.
+(c) We will reduce the approved yield, as necessary, based on our estimate of the effect of any circumstance listed in section 3(b) that may reduce your yields from previous levels. If you fail to notify us of any circumstance that may reduce your yields from previous levels, we will reduce your approved yield at any time we become aware of the circumstance. If the circumstance occurred:
 
-(c) You may not increase your elected or assigned coverage level or the ratio of your price election to the maximum price election if a cause of loss that would or could reduce the yield of the insured crop has occurred prior to the time that you request the increase.
+(1) Before the beginning of the insurance period and you notify us by the production reporting date, the approved yield will be reduced for the current crop year regardless of whether the circumstance was due to an insured or uninsured cause of loss;
+
+(2) After the beginning of the insurance period and you notify us by the production reporting date, the approved yield will be reduced for the current crop year only if the potential reduction in the approved yield is due to an uninsured cause of loss; or
+
+(3) Before or after the beginning of the insurance period and you fail to notify us by the production reporting date, an amount equal to the reduction in the approved yield will be added to the production to count calculated in section 11(c)(1)(ii) due to uninsured causes. We will reduce your approved yield for the subsequent crop year to reflect any reduction in the productive capacity of the trees or in the yield potential of the insured acreage.
+
+(d) You may not increase your elected or assigned coverage level or the ratio of your price election to the maximum price election if a cause of loss that would or could reduce the yield of the insured crop has occurred prior to the time that you request the increase.
 
 4. Contract Changes
 
-In accordance with section 4 of the Basic Provisions (§ 457.8), the contract change date is August 31 preceding the cancellation date.
+In accordance with section 4 of the Basic Provisions, the contract change date is August 31 preceding the cancellation date.
 
 5. Cancellation and Termination Dates
 
-In accordance with section 2 of the Basic Provisions (§ 457.8), the cancellation and termination dates are December 31.
+In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are December 31.
 
 6. Insured Crop
 
-In accordance with section 8 of the Basic Provisions (§ 457.8), the crop insured will be all the almonds in the county for which a premium rate is provided by the actuarial documents:
+In accordance with section 8 of the Basic Provisions, the crop insured will be all the almonds in the county for which a premium rate is provided by the actuarial documents:
 
 (a) In which you have a share unless allowed otherwise by section 8(b);
 
@@ -66,25 +76,25 @@ In accordance with section 8 of the Basic Provisions (§ 457.8), the crop insure
 
 (d) That are grown in an orchard that, if inspected, is considered acceptable to us; and
 
-(e) On acreage where at least 90 percent of the trees have reached at least the sixth growing season after being set out, unless otherwise provided in the Special Provisions.
+(e) On acreage where at least 90 percent of the trees have reached at least the 5th leaf year after being set out, unless otherwise allowed by the Special Provisions.
 
 7. Insurable Acreage
 
-In lieu of the provisions in section 9 of the Basic Provisions (§ 457.8), that prohibit insurance attaching to a crop planted with another crop, almonds interplanted with another perennial crop are insurable unless we inspect the acreage and determine that it does not meet the requirements contained in your policy.
+In lieu of the provisions in section 9 of the Basic Provisions that prohibit insurance attaching to a crop planted with another crop, almonds interplanted with another perennial crop are insurable unless we inspect the acreage and determine that it does not meet the requirements contained in your policy.
 
 8. Insurance Period
 
-(a) In accordance with the provisions of section 11 of the Basic Provisions (§ 457.8):
+(a) In accordance with section 11 of the Basic Provisions:
 
 (1) Coverage begins on January 1 of each crop year, except that for the year of application, if your application is received after December 21, but prior to January 1, insurance will attach on the 10th day after your properly completed application is received in our local office unless we inspect the acreage during the 10 day period and determine that it does not meet insurability requirements. You must provide any information that we require for the crop or to determine the condition of the orchard.
 
 (2) The calendar date for the end of the insurance period for each crop year is November 30.
 
-(3) Notwithstanding paragraph (a)(1) of this section, for each subsequent crop year that the policy remains continuously in force, coverage begins on the day immediately following the end of the insurance period for the prior crop year. Policy cancellation that results solely from transferring to a different insurance provider for a subsequent crop year will not be considered a break in continuous coverage.
+(3) Notwithstanding section 8(a)(1), for each subsequent crop year that the policy remains continuously in force, coverage begins on the day immediately following the end of the insurance period for the prior crop year. Policy cancellation that results solely from transferring to a different insurance provider for a subsequent crop year will not be considered a break in continuous coverage.
 
 (4) If your almond policy is canceled or terminated for any crop year, in accordance with the terms of the policy, after insurance attached for that crop year but on or before the cancellation and termination dates whichever is later, insurance will not be considered to have attached for that crop year and no premium, administrative fee, or indemnity will be due for such crop year.
 
-(b) In addition to the provisions of section 11 (Insurance Period) of the Basic Provisions (§ 457.8):
+(b) In addition to section 11 of the Basic Provisions:
 
 (1) If you acquire an insurable share in any insurable acreage after coverage begins but on or before the acreage reporting date for the crop year, and after an inspection we consider the acreage acceptable, insurance will be considered to have attached to such acreage on the calendar date for the beginning of the insurance period. Acreage acquired after the acreage reporting date will not be insured.
 
@@ -98,7 +108,7 @@ In lieu of the provisions in section 9 of the Basic Provisions (§ 457.8), that 
 
 9. Causes of Loss
 
-(a) In accordance with the provisions of section 12 of the Basic Provisions (§ 457.8), insurance is provided only against the following causes of loss that occur during the insurance period:
+(a) In accordance with section 12 of the Basic Provisions, insurance is provided only against the following causes of loss that occur during the insurance period:
 
 (1) Adverse weather conditions;
 
@@ -116,11 +126,11 @@ In lieu of the provisions in section 9 of the Basic Provisions (§ 457.8), that 
 
 (8) Wildlife, unless control measures have not been taken.
 
-(b) In addition to the causes of loss excluded in section 12 (Causes of Loss) of the Basic Provisions (§ 457.8), we will not insure against damage or loss of production due to the inability to market the almonds for any reason other than actual physical damage to the almonds from an insurable cause specified in this section. For example, we will not pay you an indemnity if you are unable to market due to quarantine, boycott, or refusal of any person to accept production.
+(b) In addition to the causes of loss excluded in section 12 of the Basic Provisions, we will not insure against damage or loss of production due to the inability to market the almonds for any reason other than actual physical damage to the almonds from an insurable cause specified in this section. For example, we will not pay you an indemnity if you are unable to market due to quarantine, boycott, or refusal of any person to accept production.
 
 10. Duties in the Event of Damage or Loss
 
-In addition to the requirements of section 14 of the Basic Provisions (§ 457.8), if you intend to claim an indemnity on any unit, you must notify us prior to the beginning of harvest so that we may inspect the damaged production. You must not sell or dispose of the damaged crop until after we have given you written consent to do so. If you fail to meet the requirements of this section, all such production will be considered undamaged and included as production to count.
+In addition to the requirements of section 14 of the Basic Provisions, if you intend to claim an indemnity on any unit, you must notify us prior to the beginning of harvest so that we may inspect the damaged production. You must not sell or dispose of the damaged crop until after we have given you written consent to do so. If you fail to meet the requirements of this section, all such production will be considered undamaged and included as production to count.
 
 11. Settlement of Claim
 
@@ -146,19 +156,25 @@ In addition to the requirements of section 14 of the Basic Provisions (§ 457.8)
 
 (7) Multiplying the result in section 11(b)(6) by your share.
 
-For example:
+Example for Section 11(b)
 
-You have a 100 percent share in 100 acres of almonds in the unit, with a guarantee of 1,200 pounds per acre and a price election of $1.70 per pound. You are only able to harvest 100,000 pounds. Your indemnity would be calculated as follows:
+You have a 100 percent share in 100 acres of almonds in the unit, with a guarantee of 1,200 pounds per acre and a price election of $1.30 per pound. You are only able to harvest 100,000 pounds. Your indemnity would be calculated as follows:
 
 (1) 100 acres × 1,200 pounds = 120,000 pound insurance guarantee;
 
-(2 & 3) 120,000 pounds × $1.70 price election = $204,000 total value of insurance guarantee;
+(2) 120,000 pounds × $1.30 price election = $156,000 total value of insurance guarantee;
 
-(4 & 5) 100,000 pounds production to count × $1.70 price election = $170,000 total value of production to count;
+(3) Not applicable;
 
-(6) $204,000 total of value guarantee—$170,000 total value of production to count = $34,000 loss; and
+(4) 100,000 pounds production to count × $1.30 price election = $130,000 total value of production to count;
 
-(7) $34,000 × 100 percent share = $34,000 indemnity payment.
+(5) Not applicable;
+
+(6) $156,000 total of value guarantee−$130,000 total value of production to count = $26,000 loss; and
+
+(7) $26,000 × 100 percent share = $26,000 indemnity payment.
+
+*End of Example.*
 
 (c) The total production to count, specified in meat pounds, from all insurable acreage on the unit will include:
 
@@ -184,4 +200,4 @@ You have a 100 percent share in 100 acres of almonds in the unit, with a guarant
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 25108, May 8, 1997, as amended at 62 FR 65170, Dec. 10, 1997; 65 FR 47838, Aug. 4, 2000; 72 FR 10909, Mar. 12, 2007]
+[62 FR 25108, May 8, 1997, as amended at 62 FR 65170, Dec. 10, 1997; 65 FR 47838, Aug. 4, 2000; 72 FR 10909, Mar. 12, 2007; 89 FR 53839, June 27, 2024]

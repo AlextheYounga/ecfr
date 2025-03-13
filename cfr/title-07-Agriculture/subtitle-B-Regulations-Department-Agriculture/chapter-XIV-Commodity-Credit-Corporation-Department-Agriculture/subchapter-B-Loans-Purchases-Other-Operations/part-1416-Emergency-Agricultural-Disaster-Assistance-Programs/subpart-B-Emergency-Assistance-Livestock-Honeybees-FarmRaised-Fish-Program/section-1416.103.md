@@ -56,4 +56,6 @@
 
 (i) For death losses of bait fish, game fish, or other aquatic species, as determined by the Deputy Administrator, to be considered eligible, the producer must have incurred the fish loss, in excess of normal mortality, in the county where the eligible adverse weather or eligible loss condition occurred. The fish death must be due to an eligible adverse weather or eligible loss condition as determined by the Deputy Administrator including, but not limited to, earthquake, flood, hurricane, tidal surge, tornado, and volcanic eruption.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49465, Oct. 2, 2018; 85 FR 10964, Feb. 26, 2020; 87 FR 19785, Apr. 6, 2022; 88 FR 1891, Jan. 11, 2023]
+(j) For milk losses due to H5N1 to be considered eligible, the producer must have had reduced milk production as a result of removal of adult dairy cows from daily milking due to H5N1 infection. Such infection must be confirmed for the herd by at least one positive H5N1 test for a dairy cow within that herd. The date of the eligible loss condition for milk losses due to H5N1 is the positive H5N1 test collection date.
+
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49465, Oct. 2, 2018; 85 FR 10964, Feb. 26, 2020; 87 FR 19785, Apr. 6, 2022; 88 FR 1891, Jan. 11, 2023; 89 FR 54334, July 1, 2024]

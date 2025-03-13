@@ -1,5 +1,7 @@
 ##### § 425.218 Termination of the participation agreement by CMS. #####
 
+Link to an amendment published at 89 FR 54717, July 1, 2024.
+
 (a) *General.* CMS may terminate the participation agreement with an ACO when an ACO, the ACO participants, ACO providers/suppliers or other individuals or entities performing functions or services related to ACO activities fail to comply with any of the requirements of the Shared Savings Program under this part.
 
 (b) *Grounds for termination by CMS.* CMS may terminate the participation agreement for reasons including, but not limited to the following:

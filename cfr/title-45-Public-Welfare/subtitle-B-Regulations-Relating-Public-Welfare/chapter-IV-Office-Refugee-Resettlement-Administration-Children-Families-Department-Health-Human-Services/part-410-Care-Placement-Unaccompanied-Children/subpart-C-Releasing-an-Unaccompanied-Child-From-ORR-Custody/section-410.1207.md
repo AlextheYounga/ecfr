@@ -1,0 +1,7 @@
+##### § 410.1207 Ninety (90)-day review of pending sponsor applications. #####
+
+(a) ORR supervisory staff who supervise field staff shall conduct an automatic review of all pending sponsor applications. The first automatic review shall occur within 90 days of an unaccompanied child entering ORR custody to identify and resolve in a timely manner the reasons that a sponsor application remains pending and to determine possible steps to accelerate the unaccompanied child's safe release.
+
+(b) Upon completion of the initial 90-day review, unaccompanied child case managers or other designated agency or care provider staff shall update the potential sponsor and unaccompanied child on the status of the case, explaining the reasons that the release process is incomplete. Case managers or other designated agency or care provider staff shall work with the potential sponsor, relevant stakeholders, and ORR to address the portions of the sponsor application that remain unresolved.
+
+(c) For cases that are not resolved after the initial 90-day review, ORR supervisory staff who supervise field staff shall conduct additional reviews as provided in § 410.1207(a) at least every 90 days until the pending sponsor application is resolved. ORR may in its discretion and subject to resource availability conduct additional reviews on a more frequent basis than every 90 days.

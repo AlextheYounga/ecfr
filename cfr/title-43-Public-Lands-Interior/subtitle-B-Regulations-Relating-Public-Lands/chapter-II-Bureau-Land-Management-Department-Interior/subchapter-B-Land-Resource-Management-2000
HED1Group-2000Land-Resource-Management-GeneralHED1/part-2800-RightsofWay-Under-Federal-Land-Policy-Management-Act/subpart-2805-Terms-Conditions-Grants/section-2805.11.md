@@ -1,6 +1,4 @@
-##### § 2805.11 What does a grant contain? #####
-
-Link to an amendment published at 89 FR 35679, May 1, 2024.Link to a correction published at 89 FR 53870, June 28, 2024.
+##### § 2805.11 What does a grant or lease contain? #####
 
 The grant states what your rights are on the lands subject to the grant and contains information about:
 
@@ -30,7 +28,7 @@ The grant states what your rights are on the lands subject to the grant and cont
 
 (iv) The time necessary to accomplish the purpose of the grant.
 
-(2) Specific terms for solar and wind energy grants and leases are as follows:
+(2) Specific terms for energy grants and leases, such as solar or wind energy development projects, are as follows:
 
 (i) For an energy site-specific testing grant, the term is 3 years or less, without the option of renewal;
 
@@ -38,12 +36,14 @@ The grant states what your rights are on the lands subject to the grant and cont
 
 (iii) For a short-term grant for all other associated actions not specifically included in paragraphs (b)(2)(i) and (ii) of this section, such as geotechnical testing and other temporary land disturbing activities, the term is 3 years or less;
 
-(iv) For solar and wind energy development grants, the term is up to 30 years (plus the initial partial year of issuance) with adjustable terms and conditions. The grantee may submit an application for renewal under § 2805.14(g); and
+(iv) Energy generation facilities, including solar or wind energy development facilities, are authorized with a grant or lease for up to 50 years (plus initial partial year of issuance), subject to the terms and conditions including but not limited to § 2805.12(c); and
 
-(v) For solar and wind energy development leases located inside designated leasing areas, the term is fixed for 30 years (plus the initial partial year of issuance). The lessee may submit an application for renewal under § 2805.14(g).
+(v) Energy storage facilities which are separate from energy generation facilities are authorized with a right-of-way grant for up to 50 years, subject to the terms and conditions including but not limited to § 2805.12(c);
 
 (3) All grants and leases, except those issued for a term of 3 years or less and those issued in perpetuity, will expire on December 31 of the final year of the grant or lease. For grants and leases with terms greater than 3 years, the actual term includes the number of full years specified, plus the initial partial year, if any.
 
+(4) Electric transmission lines with a capacity of 100 kV or more are authorized with a right-of-way grant for up to 50 years.
+
 (d) *How you can use the right-of-way.* You may only use the right-of-way for the specific use the grant authorizes.
 
-[70 FR 21058, Apr. 22, 2005, as amended at 73 FR 65071, Oct. 31, 2008; 81 FR 92213, Dec. 19, 2016; 89 FR 25962, Apr. 12, 2024]
+[70 FR 21058, Apr. 22, 2005, as amended at 73 FR 65071, Oct. 31, 2008; 81 FR 92213, Dec. 19, 2016; 89 FR 25962, Apr. 12, 2024; 89 FR 35679, May 1, 2024; 89 FR 53870, June 28, 2024]

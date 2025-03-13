@@ -1,7 +1,5 @@
 ##### § 697.19 Trap limits and trap tag requirements for vessels fishing with lobster traps. #####
 
-Link to an amendment published at 88 FR 67678, Oct. 2, 2023.Link to an amendment published at 89 FR 46829, May 30, 2024.
-
 (a) *Area 1 trap limits.* The Area 1 trap limit is 800 traps. Federally permitted lobster fishing vessels shall not fish with, deploy in, possess in, or haul back more than 800 lobster traps in Area 1.
 
 (b) *Area 2 trap limits.* The Area 2 trap limit is 800 traps. Federally permitted lobster fishing vessels may only fish with traps that have been previously qualified and allocated into Area 2 by the Regional Administrator, as part of the Federal Area 2 Limited Access Program. This allocation may be modified by trap cuts and/or trap transfers, but in no case shall the allocation exceed the trap limit.

@@ -1,10 +1,12 @@
 ##### § 457.101 Small grains crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 53834, June 27, 2024.
+The Small Grains Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
-The Small Grains Crop Insurance Provisions for the 2023 and succeeding crop years for crops with a contract change date on or after November 30, 2022, and for the 2024 and succeeding crop years with a contract change date prior to November 30, 2022, are as follows:
+United States Department of AgricultureFederal Crop Insurance CorporationSmall Grains Crop Provisions
 
-United States Department of AgricultureFederal Crop Insurance CorporationSmall Grains Crop Provisions1. Definitions
+In return for your payment of premium and administrative fee for coverage, these Small Grains Crop Provisions and corresponding Commodity Exchange Price Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
+
+1. Definitions
 
 *Adequate stand.* A population of live plants per unit of acreage which will produce at least the yield used to establish your production guarantee.
 
@@ -40,23 +42,23 @@ United States Department of AgricultureFederal Crop Insurance CorporationSmall G
 
 2. Unit Division
 
-(a) In addition to enterprise units provided in section 34(a) of the Basic Provisions, for wheat only, you may elect separate enterprise units by type, as provided in this section, if allowed by the actuarial documents. If you elect enterprise units by type, you may not elect enterprise or optional units by irrigation practices.
+(a) In addition to enterprise units provided in section 34(a)(2) of the Basic Provisions, for wheat only, you may elect separate enterprise units by type, as provided in this section, if allowed by the actuarial documents. If you elect enterprise units by type, you may not elect enterprise or optional units by any other practice or type.
 
 (1) You may elect separate enterprise units by type unless otherwise specified in the Special Provisions. For example, if you have winter and spring types, you may elect one enterprise unit for the spring type or one enterprise unit for the winter type, or separate enterprise units for both types. Any acreage which is not reported and insured as an enterprise unit will be insured as basic or optional units, if requirements are met. For example, if you only have winter and spring types, you may have an enterprise unit for the winter type acreage and basic or optional units for the spring type acreage.
 
-(2) You must separately meet the requirements in section 34(a)(4) of the Basic Provisions for each enterprise unit.
+(2) You must separately meet the requirements in section 34(a)(2) of the Basic Provisions for each enterprise unit.
 
 (3) If you elected separate enterprise units for multiple types and we discover enterprise unit qualifications are not separately met for all types in which you elected an enterprise unit and such discovery is made:
 
 (i) On or before the acreage reporting date, you may elect to insure:
 
-(A) All types in which you elected an enterprise unit for meeting the requirements in section 34(a)(4) as separate enterprise units, and basic or optional units for any acreage that is not reported and insured as an enterprise unit, whichever you report on your acreage report and for which you qualify;
+(A) All types in which you elected an enterprise unit for meeting the requirements in section 34(a)(2) of the Basic Provisions as separate enterprise units, and basic or optional units for any acreage that is not reported and insured as an enterprise unit, whichever you report on your acreage report and for which you qualify;
 
-(B) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4); or
+(B) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(2) of the Basic Provisions; or
 
 (C) Basic or optional units for all acreage of the crop in the county, whichever you report on your acreage report and for which you qualify; or
 
-(ii) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4). Otherwise, we will assign the basic unit structure for all acreage of the crop in the county.
+(ii) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(2) of the Basic Provisions. Otherwise, we will assign the basic unit structure for all acreage of the crop in the county.
 
 (4) If you elected an enterprise unit for only one type and we discover you do not qualify for an enterprise unit for that type and such discovery is made:
 
@@ -90,7 +92,7 @@ In accordance with section 4 of the Basic Provisions, the contract change date i
 
 The cancellation and termination dates are as follows, unless otherwise specified in the actuarial documents:
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Crop, state and county                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |Cancellation date|Termination date|
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Crop, state, and county                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |Cancellation date|Termination date|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------|
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Wheat:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                 |                |
 |                                                                                          All Colorado counties except Alamosa, Archuleta, Conejos, Costilla, Custer, Delta, Dolores, Eagle, Garfield, Grand, La Plata, Mesa, Moffat, Montezuma, Montrose, Ouray, Pitkin, Rio Blanco, Rio Grande, Routt, Saguache, and San Miguel; all Iowa counties except Plymouth, Cherokee, Buena Vista, Pocahontas, Humboldt, Wright, Franklin, Butler, Black Hawk, Buchanan, Delaware, Dubuque and all Iowa counties north thereof; all Nebraska counties except Box Butte, Dawes, and Sheridan; all Wisconsin counties except Buffalo, Trempealeau, Jackson, Wood, Portage, Waupaca, Outagamie, Brown, Kewaunee and all Wisconsin counties north thereof; all other States except Alaska, Arizona, California, Connecticut, Idaho, Maine, Massachusetts, Minnesota, Montana, Nevada, New Hampshire, New York, North Dakota, Oregon, Rhode Island, South Dakota, Utah, Vermont, Washington, and Wyoming                                                                                           |  September 30   | September 30.  |
@@ -357,7 +359,7 @@ If you elected revenue protection:
 
 (ii) Production lost due to uninsured causes;
 
-(iii) Unharvested production (mature unharvested production may be adjusted for quality deficiencies and excess moisture in accordance with paragraph (d) of this section);
+(iii) Unharvested production (mature unharvested production may be adjusted for quality deficiencies and excess moisture in accordance with section 11(d));
 
 (iv) Potential production on insured acreage that you intend to put to another use or abandon, if you and we agree on the appraised amount of production. Upon such agreement, the insurance period for that acreage will end when you put the acreage to another use or abandon the crop. If agreement on the appraised amount of production is not reached:
 
@@ -435,4 +437,4 @@ A late planting period is applicable to small grains, except to any barley or wh
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents. In counties for which the Special Provisions designate a spring type, your prevented planting production guarantee will be based on your approved yield for spring-planted acreage of the insured crop.
 
-[59 FR 9391, Feb. 28, 1994, as amended at 60 FR 62723, Dec. 7, 1995; 62 FR 65164, Dec. 10, 1997; 67 FR 43526, June 28, 2002; 68 FR 34268, June 9, 2003; 75 FR 15875, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016; 86 FR 33849, June 25, 2021; 86 FR 38537, July 22, 2021; 87 FR 72362, Nov. 25, 2022]Editorial Note:At 86 FR 33489, June 25, 2021, § 457.101, in section 7 of the clause, paragraphs (c)(2)(v) introductory text, and (c)(2)(v)(A), (B), (D), and (E) were revised. However, due to an inaccurate amendatory instruction, the amendments could not be incorporated.
+[59 FR 9391, Feb. 28, 1994, as amended at 60 FR 62723, Dec. 7, 1995; 62 FR 65164, Dec. 10, 1997; 67 FR 43526, June 28, 2002; 68 FR 34268, June 9, 2003; 75 FR 15875, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016; 86 FR 33849, June 25, 2021; 86 FR 38537, July 22, 2021; 87 FR 72362, Nov. 25, 2022; 89 FR 53834, June 27, 2024]Editorial Note:At 86 FR 33489, June 25, 2021, § 457.101, in section 7 of the clause, paragraphs (c)(2)(v) introductory text, and (c)(2)(v)(A), (B), (D), and (E) were revised. However, due to an inaccurate amendatory instruction, the amendments could not be incorporated.

@@ -1,7 +1,5 @@
 ##### § 685.222 Borrower defenses and procedures for loans first disbursed on or after July 1, 2017, and before July 1, 2020, and procedures for loans first disbursed prior to July 1, 2017. #####
 
-Link to an amendment published at 88 FR 43905, July 10, 2023.
-
 (a) *General.* (1) For loans first disbursed prior to July 1, 2017, a borrower asserts and the Secretary considers a borrower defense in accordance with the provisions of § 685.206(c), unless otherwise noted in § 685.206(c).
 
 (2) For loans first disbursed on or after July 1, 2017, and before July 1, 2020, a borrower asserts and the Secretary considers a borrower defense in accordance with this section. To establish a borrower defense under this section, a preponderance of the evidence must show that the borrower has a borrower defense that meets the requirements of this section.
@@ -60,13 +58,7 @@ Link to an amendment published at 88 FR 43905, July 10, 2023.
 
 (B) Provides the borrower with information about the availability of the income-contingent repayment plans under § 685.209 and the income-based repayment plan under § 685.221; or
 
-(ii) If the borrower is in default on the loan for which a borrower defense has been asserted—
-
-(A) Suspends collection activity on the loan until the Secretary issues a decision on the borrower's claim;
-
-(B) Notifies the borrower of the suspension of collection activity and explains that collection activity will resume if the Secretary determines that the borrower does not qualify for a full discharge; and
-
-(C) Notifies the borrower of the option to continue making payments under a rehabilitation agreement or other repayment agreement on the defaulted loan.
+(ii) Provides the borrower with information about the availability of the income-driven repayment plans under § 685.209;
 
 (3) The Secretary designates a Department official to review the borrower's application submitted under this section to determine whether the application states a basis for a borrower defense, and resolves the claim through a fact-finding process conducted by the Department official.
 
@@ -224,4 +216,4 @@ Link to an amendment published at 88 FR 43905, July 10, 2023.
 
 (3) Nothing in this paragraph (k) limits or forecloses the borrower's right to pursue legal and equitable relief against a party described in this paragraph (k) for recovery of any portion of a claim exceeding that assigned to the Secretary or any other claims arising from matters unrelated to the claim on which the loan is discharged.
 
-(Authority: 20 U.S.C. 1087a *et seq.;* 28 U.S.C. 2401; 31 U.S.C. 3702)[81 FR 76083, Nov. 1, 2016, as amended at 84 FR 49932, Sept. 23, 2019]
+(Authority: 20 U.S.C. 1087a *et seq.;* 28 U.S.C. 2401; 31 U.S.C. 3702)[81 FR 76083, Nov. 1, 2016, as amended at 84 FR 49932, Sept. 23, 2019; 88 FR 43905, July 10, 2023]

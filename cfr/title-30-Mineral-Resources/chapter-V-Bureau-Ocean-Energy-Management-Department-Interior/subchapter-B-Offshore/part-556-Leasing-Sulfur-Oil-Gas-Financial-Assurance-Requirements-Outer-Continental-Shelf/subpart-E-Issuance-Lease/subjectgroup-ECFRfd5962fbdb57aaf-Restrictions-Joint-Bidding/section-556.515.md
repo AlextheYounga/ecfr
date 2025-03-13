@@ -1,0 +1,3 @@
+##### § 556.515 May a person be exempted from joint bidding restrictions? #####
+
+BOEM may exempt you from some or all of the reporting requirements listed in § 556.513, and/or some or all of the joint bidding restrictions listed in §§ 556.511 and/or 556.512(a), (b), and/or (c), if, after opportunity for a hearing, BOEM determines that the extremely high costs in an area will preclude exploration and development without an exemption.

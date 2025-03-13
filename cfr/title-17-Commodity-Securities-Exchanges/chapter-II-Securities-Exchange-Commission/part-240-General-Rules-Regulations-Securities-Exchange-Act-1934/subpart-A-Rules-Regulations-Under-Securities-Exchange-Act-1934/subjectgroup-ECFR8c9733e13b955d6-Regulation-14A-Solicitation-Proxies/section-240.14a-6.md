@@ -1,7 +1,5 @@
 ##### § 240.14a-6 Filing requirements. #####
 
-Link to an amendment published at 89 FR 14323, Feb. 26, 2024.
-
 (a) *Preliminary proxy statement.* Five preliminary copies of the proxy statement and form of proxy shall be filed with the Commission at least 10 calendar days prior to the date definitive copies of such material are first sent or given to security holders, or such shorter period prior to that date as the Commission may authorize upon a showing of good cause thereunder. A registrant, however, shall not file with the Commission a preliminary proxy statement, form of proxy or other soliciting material to be furnished to security holders concurrently therewith if the solicitation relates to an annual (or special meeting in lieu of the annual) meeting, or for an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*) or a business development company, if the solicitation relates to any meeting of security holders at which the only matters to be acted upon are:
 
 (1) The election of directors;
@@ -99,5 +97,7 @@ shall furnish or mail to the Commission, not later than three days after the dat
 (o) *Solicitations before furnishing a definitive proxy statement.* Solicitations that are published, sent or given to security holders before they have been furnished a definitive proxy statement must be made in accordance with § 240.14a-12 unless there is an exemption available under § 240.14a-2.
 
 (p) *Solicitations subject to § 240.14a-11.* Any soliciting material that is published, sent or given to shareholders in connection with § 240.14a-2(b)(7) or (b)(8) must be filed with the Commission as specified in that section.
+
+(q) *De-SPAC transactions.* If a transaction is a de-SPAC transaction, as defined in § 229.1601(a) of this chapter (Item 1601(a) of Regulation S-K), the proxy statement of the special purpose acquisition company, as defined in § 229.1601(b) of this chapter (Item 1601(b) of Regulation S-K), must be distributed to security holders no later than the lesser of 20 calendar days prior to the date on which the meeting of security holders is to be held or action is to be taken in connection with the de-SPAC transaction or the maximum number of days permitted for disseminating the proxy statement under the applicable laws of the jurisdiction of incorporation or organization.
 
 [17 FR 11432, Dec. 18, 1952]Editorial Note:For Federal Register citations affecting § 240.14a-6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

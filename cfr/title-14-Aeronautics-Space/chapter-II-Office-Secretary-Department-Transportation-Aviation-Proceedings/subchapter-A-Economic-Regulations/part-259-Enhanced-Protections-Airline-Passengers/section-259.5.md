@@ -1,8 +1,6 @@
 ##### § 259.5 Customer Service Plan. #####
 
-Link to an amendment published at 89 FR 34674, Apr. 30, 2024.
-
-(a) *Adoption of Plan.* Each covered carrier must adopt a Customer Service Plan applicable to its scheduled flights as specified in paragraphs (b)(1) through (14) of this section and adhere to the plan's terms.
+(a) *Adoption of Plan.* Each covered carrier must adopt a Customer Service Plan applicable to its scheduled flights as specified in paragraphs (b)(1) through (15) of this section and adhere to the plan's terms.
 
 (b) *Contents of Plan.* Each Customer Service Plan shall address the following subjects and comply with the minimum standards set forth:
 
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 34674, Apr. 30, 2024.
 
 (3) Delivering baggage on time, including making every reasonable effort to return mishandled baggage within 12 hours for domestic flights and within 15 or 30 hours for international flights consistent with the requirement of 14 CFR 260.5, compensating passengers for reasonable expenses that result due to delay in delivery as required by 14 CFR part 254 for domestic flights and as required by applicable international treaties for international flights, and reimbursing passengers for any fee charged to transport a bag if that bag is significantly delayed or lost as required by 14 CFR 260.5;
 
-(4) Allowing reservations to be held at the quoted fare without payment, or cancelled without penalty, for at least twenty-four hours after the reservation is made if the reservation is made one week or more prior to a flight's departure;
+(4) Allowing reservations to be held at the quoted fare without payment, or cancelled without penalty, for at least twenty-four hours after the reservation is made if the reservation is made one week or more prior to a flight's departure, and disclosing its chosen twenty-four hour policy on the last page of the booking process;
 
 (5) Providing prompt refunds in the original form of payment (*i.e.,* money is returned to an individual using whatever payment method the individual used to make the original payment, such as a check, credit card, debit card, cash, or airline miles) when ticket or ancillary service fee refunds, including checked bag fee refunds, are due pursuant to 14 CFR part 260 unless the consumer agrees to receive the refunds in a different form of payment that is a cash equivalent payment as defined in 14 CFR 260.2. Carriers may not retain a processing fee for issuing refunds that are due;
 
@@ -30,10 +28,12 @@ Link to an amendment published at 89 FR 34674, Apr. 30, 2024.
 
 (12) Notifying consumers in a timely manner of changes in their travel itineraries;
 
-(13) Ensuring responsiveness to consumer problems as required by § 259.7 of this chapter; and
+(13) Ensuring responsiveness to consumer problems as required by § 259.7 of this chapter;
 
-(14) Identifying the services it provides to mitigate passenger inconveniences resulting from flight cancellations and misconnections.
+(14) Identifying the services it provides to mitigate passenger inconveniences resulting from flight cancellations and misconnections; and
+
+(15) Disclosing critical ancillary service fees to consumers on the carrier's online platform or when a customer contacts the carrier's reservation center to inquire about a fare or make a reservation in person or by telephone and disclosing policies for critical ancillary service fees to consumers on the carrier's online platform as required by § 399.85 of this chapter.
 
 (c) *Self-auditing of plan and retention of records.* Each carrier that is required to adopt a Customer Service Plan shall audit its own adherence to its plan annually. Carriers shall make the results of their audits available for the Department's review upon request for two years following the date any audit is completed.
 
-[Doc. No. DOT-OST-2010-0140, 76 FR 23165, Apr. 25, 2011; 76 FR 45181, July 28, 2011; DOT-OST-2016-0208, 89 FR 32832, Apr. 26, 2024]
+[Doc. No. DOT-OST-2010-0140, 76 FR 23165, Apr. 25, 2011; 76 FR 45181, July 28, 2011; DOT-OST-2016-0208, 89 FR 32832, Apr. 26, 2024; DOT-OST-2022-0109, 89 FR 34674, Apr. 30, 2024]

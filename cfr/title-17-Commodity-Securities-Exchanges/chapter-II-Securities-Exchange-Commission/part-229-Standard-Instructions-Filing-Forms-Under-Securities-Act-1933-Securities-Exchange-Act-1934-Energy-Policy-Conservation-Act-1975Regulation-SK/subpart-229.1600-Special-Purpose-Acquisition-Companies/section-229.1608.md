@@ -1,0 +1,3 @@
+##### § 229.1608 (Item 1608) Tender offer filing obligations. #####
+
+If the special purpose acquisition company files a Schedule TO (§ 240.14d-100 of this chapter) pursuant to § 240.13e-4(c)(2) of this chapter (Rule 13e-4(c)(2)) for any redemption of securities offered to security holders, such Schedule TO must provide the information required by General Instruction L.2. to Form S-4, General Instruction I.2. to Form F-4, and Item 14(f)(2) of Schedule 14A (§ 240.14a-101 of this chapter), as applicable, in addition to the information otherwise required by Schedule TO. Such redemption must be conducted in compliance with all other provisions of §§ 240.13e-4 (Rule 13e-4) and 240.14e-1 through 240.14e-8 (Regulation 14E) of this chapter.

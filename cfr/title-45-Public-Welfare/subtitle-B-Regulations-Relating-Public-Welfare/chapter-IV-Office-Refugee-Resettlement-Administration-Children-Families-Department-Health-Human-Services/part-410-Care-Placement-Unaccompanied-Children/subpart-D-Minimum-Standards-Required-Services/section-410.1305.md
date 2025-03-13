@@ -1,0 +1,7 @@
+##### § 410.1305 Staff, training, and case manager requirements. #####
+
+(a) Standard programs, restrictive placements, and post-release service (PRS) providers shall provide training to all staff, contractors, and volunteers, to ensure that they understand their obligations under ORR regulations in this part and policies and are responsive to the challenges faced by staff and unaccompanied children. Standard programs and restrictive placements shall ensure that staff are appropriately trained on its behavior management strategies, including de-escalation techniques, as established pursuant to § 410.1304. All trainings should be tailored to the unique needs, attributes, and gender of the unaccompanied children in care at the individual care provider facility. Standard programs, restrictive placements, and PRS providers must document the completion of all trainings in personnel files. All staff, contractors, and volunteers must have completed required background checks and vetting for their respective roles required by ORR;
+
+(b) Care provider facilities shall meet the staff to child ratios established by their respective States or other licensing entities; and
+
+(c) Care provider facilities shall have case managers based on site at the facility.

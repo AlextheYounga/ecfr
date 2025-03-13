@@ -1,6 +1,6 @@
 ##### § 240.14a-101 Schedule 14A. Information required in proxy statement. #####
 
-Link to an amendment published at 89 FR 14323, Feb. 26, 2024.Schedule 14A InformationProxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934(Amendment No. )Filed by the Registrant [ ] Filed by a party other than the Registrant [ ] Check the appropriate box: [ ] Preliminary Proxy Statement [ ] Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) [ ] Definitive Proxy Statement [ ] Definitive Additional Materials [ ] Soliciting Material under § 240.14a-12(Name of Registrant as Specified In Its Charter)(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Schedule 14A InformationProxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934(Amendment No. )Filed by the Registrant [ ] Filed by a party other than the Registrant [ ] Check the appropriate box: [ ] Preliminary Proxy Statement [ ] Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) [ ] Definitive Proxy Statement [ ] Definitive Additional Materials [ ] Soliciting Material under § 240.14a-12(Name of Registrant as Specified In Its Charter)(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
 
 Payment of Filing Fee (Check all boxes that apply):
 
@@ -511,6 +511,22 @@ Unless registered on a national securities exchange or otherwise required to fur
 (e) *Incorporation by reference.* (1) The information required by paragraph (c) of this section may be incorporated by reference into the proxy statement to the same extent as would be permitted by Form S-4 (§ 239.25 of this chapter) or Form F-4 (§ 239.34 of this chapter), as applicable.
 
 (2) Alternatively, the registrant may incorporate by reference into the proxy statement the information required by paragraph (c) of this Item if it is contained in an annual report sent to security holders in accordance with § 240.14a-3 of this chapter with respect to the same meeting or solicitation of consents or authorizations that the proxy statement relates to and the information substantially meets the disclosure requirements of Item 14 or Item 17 of Form S-4 (§ 239.25 of this chapter) or Form F-4 (§ 239.34 of this chapter), as applicable.
+
+(f) *De-SPAC transactions.* (1) If the transaction is a de-SPAC transaction, as defined in § 229.1601(a) (Item 1601(a) of Regulation S-K), then the disclosure provisions of §§ 229.1603, 229.1604(b)(1) through (6) and (c), 229.1605 through 229.1607, and 229.1609 (Items 1603, 1604(b)(1) through (6) and (c), 1605 through 1607, and 1609 of Regulation S-K) apply in addition to the provisions of this schedule and disclosure thereunder must be provided in the proxy statement, and the structured data provisions of § 229.1610 (Item 1610 of Regulation S-K) apply to those disclosures. The information required by § 229.1604(b)(1) through (6) must be briefly described in the front of the disclosure document. To the extent that the applicable disclosure requirements of subpart 229.1600 of Regulation S-K are inconsistent with the disclosure requirements of this schedule, the requirements of subpart 229.1600 are controlling.
+
+(2) Provide the following additional information for the target company:
+
+(i) Information required by § 229.101 (Item 101 of Regulation S-K, description of business);
+
+(ii) Information required by § 229.102 (Item 102 of Regulation S-K, description of property);
+
+(iii) Information required by § 229.103 (Item 103 of Regulation S-K, legal proceedings);
+
+(iv) Information required by § 229.304 (Item 304 of Regulation S-K, changes in and disagreements with accountants on accounting and financial disclosure);
+
+(v) Information required by § 229.403 (Item 403 of Regulation S-K, security ownership of certain beneficial owners and management), assuming the completion of the de-SPAC transaction and any related financing transaction; and
+
+(vi) Information required by § 229.701 (Item 701 of Regulation S-K, recent sales of unregistered securities).
 
 *Item 15. Acquisition or disposition of property.* If action is to be taken with respect to the acquisition or disposition of any property, furnish the following information:
 
@@ -1048,9 +1064,11 @@ The information disclosed pursuant to paragraph (b)(19) of this Item will not be
 
 *Item 25. Exhibits.* Provide each of the following in an exhibit to this Schedule 14A:
 
-(a) The legal opinion required to be filed by Item 402(u)(4)(i) of Regulation S-K (17 CFR 229.402(u)); and
+(a) The legal opinion required to be filed by Item 402(u)(4)(i) of Regulation S-K (17 CFR 229.402(u));
 
-(b) If a fee is required, the title of each class of securities to which the transaction applies, aggregate number of securities to which the transaction applies, per unit price or other underlying value of the transaction computed pursuant to § 240.0-11, proposed maximum aggregate value of the transaction, fee rate, amount of filing fee and, as applicable, information relating to reliance on § 240.0-11(a)(2) in the tabular form indicated.
+(b) If the transaction is a de-SPAC transaction, as defined in § 229.1601(a) (Item 1601(a) of Regulation S-K), all reports, opinions, or appraisals required to be filed or included by § 229.1607(c) (Item 1607(c) of Regulation S-K); and
+
+(c) If a fee is required, the title of each class of securities to which the transaction applies, aggregate number of securities to which the transaction applies, per unit price or other underlying value of the transaction computed pursuant to § 240.0-11, proposed maximum aggregate value of the transaction, fee rate, amount of filing fee and, as applicable, information relating to reliance on § 240.0-11(a)(2) in the tabular form indicated.
 
 Registered funds that must pay registration fees using Form 24F-2 (§ 274.24) are not required to respond to this Item.
 

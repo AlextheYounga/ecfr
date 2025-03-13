@@ -1,7 +1,5 @@
 ##### § 635.71 Prohibitions. #####
 
-Link to an amendment published at 89 FR 47104, May 31, 2024.
-
 In addition to the prohibitions specified in § 600.725 of this chapter, it is unlawful for any person subject to the jurisdiction of the United States to violate any provision of this part, ATCA, the Magnuson-Stevens Act, or any other rules promulgated under ATCA or the Magnuson-Stevens Act.
 
 (a) *General.* It is unlawful for any person or vessel subject to the jurisdiction of the United States to:
@@ -160,7 +158,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (12) Exceed a catch limit for BFT specified for the appropriate permit category, as specified in § 635.23.
 
-(13) As a vessel with an Atlantic Tunas General category permit, fail to immediately cease fishing and immediately return to port after catching the applicable limit of large medium or giant bluefin tuna on a commercial fishing day, as specified in § 635.23(a)(3).
+(13) As a vessel with an Atlantic Tunas General category permit, fail to immediately cease fishing and immediately return to port after catching the applicable limit of large medium or giant bluefin tuna on a commercial fishing day, as specified in § 635.23(a)(4).
 
 (14) As a person aboard a vessel issued an HMS Angling or Charter/Headboat permit, fail to immediately cease fishing and immediately return to port after catching a large medium or giant BFT or fail to report such catch, as specified in § 635.23(b)(1)(iii) and (c)(1) through (c)(3).
 
@@ -188,7 +186,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (28) Participate in any HMS recreational fishing activity aboard a vessel issued an Atlantic Tunas General category permit unless, as specified at § 635.4(c)(2) and (3), the vessel has registered and paid an entry fee to, and is fishing under the rules of, a recreational HMS fishing tournament registered as required under § 635.5(d)
 
-(29) [Reserved]
+(29) As a dealer or dealer's agent, purchase, first receive, or affix a dealer tag to a BFT that is on or from a vessel that has been issued an Atlantic Tunas General category permit or HMS Charter/Headboat permit with a commercial sale endorsement, as specified in § 635.5(b)(2)(ii)(A), after 0000 local time on an RFD.
 
 (30) Fish for any HMS, other than Atlantic BAYS tunas, with speargun fishing gear, as specified at § 635.21(h).
 

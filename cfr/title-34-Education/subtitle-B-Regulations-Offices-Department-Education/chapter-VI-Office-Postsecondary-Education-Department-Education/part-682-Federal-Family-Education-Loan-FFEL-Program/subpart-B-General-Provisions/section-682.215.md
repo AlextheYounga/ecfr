@@ -1,18 +1,20 @@
 ##### § 682.215 Income-based repayment plan. #####
 
-Link to an amendment published at 88 FR 43899, July 10, 2023.
-
 (a) *Definitions.* As used in this section—
 
 (1) *Adjusted gross income* (AGI) means the borrower's adjusted gross income as reported to the Internal Revenue Service. For a married borrower filing jointly, AGI includes both the borrower's and spouse's income. For a married borrower filing separately, AGI includes only the borrower's income.
 
 (2) *Eligible loan* means any outstanding loan made to a borrower under the FFEL and Direct Loan programs except for a defaulted loan, a FFEL or Direct PLUS Loan made to a parent borrower, or a FFEL or Direct Consolidation Loan that repaid a FFEL or Direct PLUS Loan made to a parent borrower.
 
-(3) *Family size* means the number that is determined by counting the borrower, the borrower's spouse, and the borrower's children, including unborn children who will be born during the year the borrower certifies family size, if the children receive more than half their support from the borrower. A borrower's family size includes other individuals if, at the time the borrower certifies family size, the other individuals—
+(3) *Family size* means the number of individuals that is determined by adding together—
 
-(i) Live with the borrower; and
+(i) The borrower;
 
-(ii) Receive more than half their support from the borrower and will continue to receive this support from the borrower for the year the borrower certifies family size. Support includes money, gifts, loans, housing, food, clothes, car, medical and dental care, and payment of college costs.
+(ii) The borrower's spouse, for a married borrower filing a joint Federal income tax return;
+
+(iii) The borrower's children, including unborn children who will be born during the year the borrower certifies family size, if the children receive more than half their support from the borrower and are not included in the family size for any other borrower except the borrower's spouse who filed jointly with the borrower; and
+
+(iv) Other individuals if, at the time the borrower certifies family size, the other individuals live with the borrower and receive more than half their support from the borrower and will continue to receive this support from the borrower for the year for which the borrower certifies family size.
 
 (4) *Partial financial hardship* means a circumstance in which—
 
@@ -206,4 +208,4 @@ Link to an amendment published at 88 FR 43899, July 10, 2023.
 
 (8) The loan holder must promptly return to the sender any payment received on a loan after the guaranty agency pays the loan holder the amount of loan forgiveness.
 
-(Approved by the Office of Management and Budget under control number 1845-NEWA)(Authority: 20 U.S.C. 1098e)[73 FR 63249, Oct. 23, 2008, as amended at 74 FR 55995, Oct. 29, 2009; 77 FR 66128, Nov. 1, 2012]
+(Approved by the Office of Management and Budget under control number 1845-NEWA)(Authority: 20 U.S.C. 1098e)[73 FR 63249, Oct. 23, 2008, as amended at 74 FR 55995, Oct. 29, 2009; 77 FR 66128, Nov. 1, 2012; 88 FR 43899, July 10, 2023]

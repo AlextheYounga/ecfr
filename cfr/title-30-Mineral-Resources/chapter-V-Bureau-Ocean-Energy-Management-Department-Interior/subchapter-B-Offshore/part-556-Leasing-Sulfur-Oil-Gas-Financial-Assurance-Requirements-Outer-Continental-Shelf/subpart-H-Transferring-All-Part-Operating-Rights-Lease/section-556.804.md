@@ -1,0 +1,3 @@
+##### § 556.804 What if I want to assign my operating rights interest in a lease to multiple parties? #####
+
+You may assign your operating rights interest in one lease to multiple parties using the same instrument. That instrument must be submitted in duplicate originals, accompanied by a cover letter executed by one of the parties to the transfer (or an authorized agent thereof). In such a multiple transfer of interests using a single instrument, a separate fee applies to each individual transfer of interest and evidence of payment via *pay.gov* must accompany the instrument.

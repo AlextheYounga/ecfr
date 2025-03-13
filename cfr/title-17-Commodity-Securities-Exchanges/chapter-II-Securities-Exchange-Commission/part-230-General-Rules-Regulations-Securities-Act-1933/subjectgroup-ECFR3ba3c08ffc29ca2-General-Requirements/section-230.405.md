@@ -1,7 +1,5 @@
 ##### § 230.405 Definitions of terms. #####
 
-Link to an amendment published at 89 FR 14321, Feb. 26, 2024.
-
 Unless the context otherwise requires, all terms used in §§ 230.400 to 230.494, inclusive, or in the forms for registration have the same meanings as in the Act and in the general rules and regulations. In addition, the following definitions apply, unless the context otherwise requires:
 
 *Affiliate.* An *affiliate* of, or person *affiliated* with, a specified person, is a person that directly, or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, the person specified.
@@ -11,6 +9,8 @@ Unless the context otherwise requires, all terms used in §§ 230.400 to 230.494
 *Associate.* The term *associate,* when used to indicate a relationship with any person, means (1) a corporation or organization (other than the registrant or a majority-owned subsidiary of the registrant) of which such person is an officer or partner or is, directly or indirectly, the beneficial owner of 10 percent or more of any class of equity securities, (2) any trust or other estate in which such person has a substantial beneficial interest or as to which such person serves as trustee or in a similar capacity, and (3) any relative or spouse of such person, or any relative of such spouse, who has the same home as such person or who is a director or officer of the registrant or any of its parents or subsidiaries.
 
 *Automatic shelf registration statement.* The term *automatic shelf registration statement* means a registration statement filed on Form S-3, Form F-3, or Form N-2 (§ 239.13, § 239.33, or §§ 239.14 and 274.11a-1 of this chapter) by a well-known seasoned issuer pursuant to General Instruction I.D. of Form S-3, General Instruction I.C. of Form F-3, or General Instruction B of Form N-2.
+
+*Blank check company.* For purposes of section 27A of the Securities Act of 1933 (15 U.S.C. 77z-2), the term *blank check company* means a company that has no specific business plan or purpose or has indicated that its business plan is to engage in a merger or acquisition with an unidentified company or companies, or other entity or person.
 
 *Business combination related shell company.* The term *business combination related shell company* means a shell company (as defined in § 230.405) that is:
 
@@ -311,6 +311,12 @@ For purposes of this definition, the determination of a registrant's assets (inc
 Instruction 1 to definition of “smaller reporting company”: A registrant that qualifies as a smaller reporting company under the public float thresholds identified in paragraphs (1) and (3)(iii)(A) of this definition will qualify as a smaller reporting company regardless of its revenues.
 
 Instruction 2 to definition of “smaller reporting company”: A foreign private issuer is not eligible to use the requirements for smaller reporting companies unless it uses the forms and rules designated for domestic issuers and provides financial statements prepared in accordance with U.S. Generally Accepted Accounting Principles.
+
+(iv) Upon the consummation of a de-SPAC transaction, as defined in § 229.1601(a) of this chapter (Item 1601(a) of Regulation S-K), an issuer must re-determine its status as a smaller reporting company pursuant to the thresholds set forth in paragraphs (1) and (2) of this definition prior to its first filing, other than pursuant to Items 2.01(f), 5.01(a)(8), and/or 9.01(c) of Form 8-K, following the de-SPAC transaction and reflect this re-determination in its filings beginning 45 days after consummation of the de-SPAC transaction.
+
+(A) Public float is measured as of a date within four business days after the consummation of the de-SPAC transaction and is computed by multiplying the aggregate worldwide number of shares of its voting and non-voting common equity held by non-affiliates as of that date by the price at which the common equity was last sold, or the average of the bid and asked prices of common equity, in the principal market for the common equity; and
+
+(B) Annual revenues are the annual revenues of the target company, as defined in § 229.1601(d) of this chapter (Item 1601(d) of Regulation S-K), as of the most recently completed fiscal year reported in the Form 8-K filed pursuant to Items 2.01(f), 5.01(a)(8), and/or 9.01(c) of Form 8-K.
 
 *Subsidiary.* A *subsidiary* of a specified person is an affiliate controlled by such person directly, or indirectly through one or more intermediaries. (See also *majority owned subsidiary, significant subsidiary, totally held subsidiary,* and *wholly owned subsidiary.*)
 

@@ -1,6 +1,4 @@
-##### § 668.32 Student eligibility—general. #####
-
-Link to an amendment published at 88 FR 74700, Oct. 31, 2023.
+##### § 668.32 Student eligibility. #####
 
 A student is eligible to receive Title IV, HEA program assistance if the student either meets all of the requirements in paragraphs (a) through (m) of this section or meets the requirement in paragraph (n) of this section as follows:
 
@@ -36,9 +34,17 @@ A student is eligible to receive Title IV, HEA program assistance if the student
 
 (e)(1) Has a high school diploma or its recognized equivalent;
 
-(2) Has obtained a passing score specified by the Secretary on an independently administered test in accordance with subpart J of this part;
+(2) Has obtained a passing score specified by the Secretary on an independently administered test in accordance with subpart J of this part, and either—
 
-(3) Is enrolled in an eligible institution that participates in a State “process” approved by the Secretary under subpart J of this part;
+(i) Was first enrolled in an eligible program before July 1, 2012; or
+
+(ii) Is enrolled in an eligible career pathway program as defined in § 668.2;
+
+(3) Is enrolled in an eligible institution that participates in a State process approved by the Secretary under subpart J of this part, and either—
+
+(i) Was first enrolled in an eligible program before July 1, 2012; or
+
+(ii) Is enrolled in an eligible career pathway program as defined in § 668.2;
 
 (4) Was home-schooled, and either—
 
@@ -46,7 +52,11 @@ A student is eligible to receive Title IV, HEA program assistance if the student
 
 (ii) If State law does not require a home-schooled student to obtain the credential described in paragraph (e)(4)(i) of this section, has completed a secondary school education in a home school setting that qualifies as an exemption from compulsory attendance requirements under State law; or
 
-(5) Has been determined by the institution to have the ability to benefit from the education or training offered by the institution based on the satisfactory completion of 6 semester hours, 6 trimester hours, 6 quarter hours, or 225 clock hours that are applicable toward a degree or certificate offered by the institution.
+(5) Has been determined by the institution to have the ability to benefit from the education or training offered by the institution based on the satisfactory completion of 6 semester hours, 6 trimester hours, 6 quarter hours, or 225 clock hours that are applicable toward a degree or certificate offered by the institution, and either—
+
+(i) Was first enrolled in an eligible program before July 1, 2012; or
+
+(ii) Is enrolled in an eligible career pathway program as defined in § 668.2.
 
 (f) Maintains satisfactory academic progress in his or her course of study according to the institution's published standards of satisfactory academic progress that meet the requirements of § 668.34.
 
@@ -96,4 +106,4 @@ A student is eligible to receive Title IV, HEA program assistance if the student
 
 (n) Is enrolled in a comprehensive transition and postsecondary program under subpart O of this part and meets the student eligibility criteria in that subpart.
 
-[60 FR 61810, Dec. 1, 1995, as amended at 63 FR 40624, July 29, 1998; 64 FR 57358, Oct. 22, 1999; 64 FR 58291, Oct. 28, 1999; 67 FR 67073, Nov. 1, 2002; 71 FR 38002, July 3, 2006; 71 FR 45696, Aug. 9, 2006; 73 FR 35493, June 23, 2008; 74 FR 20221, May 1, 2009; 74 FR 55942, Oct. 29, 2009; 75 FR 66952, Oct. 29, 2010; 87 FR 65495, Oct. 28, 2022]
+[60 FR 61810, Dec. 1, 1995, as amended at 63 FR 40624, July 29, 1998; 64 FR 57358, Oct. 22, 1999; 64 FR 58291, Oct. 28, 1999; 67 FR 67073, Nov. 1, 2002; 71 FR 38002, July 3, 2006; 71 FR 45696, Aug. 9, 2006; 73 FR 35493, June 23, 2008; 74 FR 20221, May 1, 2009; 74 FR 55942, Oct. 29, 2009; 75 FR 66952, Oct. 29, 2010; 87 FR 65495, Oct. 28, 2022; 88 FR 74700, Oct. 31, 2023]

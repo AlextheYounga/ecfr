@@ -1,0 +1,3 @@
+##### § 410.1500 Purpose of this subpart. #####
+
+ORR shall maintain statistical and other data on the unaccompanied children for whom it is responsible. ORR shall be responsible for coordinating with other Departments to obtain some of the statistical data and shall obtain additional data from care provider facilities. This subpart describes information that care provider facilities shall report to ORR such that ORR may compile and maintain statistical information and other data on unaccompanied children.

@@ -1,7 +1,5 @@
 ##### § 685.220 Consolidation. #####
 
-Link to an amendment published at 88 FR 43905, July 10, 2023.
-
 (a) *Direct Consolidation Loans.* A borrower may consolidate education loans made under certain Federal programs into a Direct Consolidation Loan. Loans consolidated into a Direct Consolidation Loan are discharged when the Direct Consolidation Loan is originated.
 
 (b) *Loans eligible for consolidation.* The following loans may be consolidated into a Direct Consolidation Loan:
@@ -108,7 +106,7 @@ Link to an amendment published at 88 FR 43905, July 10, 2023.
 
 (g) *Interest rate.* The interest rate on a Direct Subsidized Consolidation Loan or a Direct Unsubsidized Consolidation Loan is the rate established in § 685.202(a)(10)(i). The interest rate on a Direct PLUS Consolidation Loan is the rate established in § 685.202(a)(10)(ii).
 
-(h) *Repayment plans.* A borrower may choose a repayment plan for a Direct Consolidation Loan in accordance with § 685.208, and may change repayment plans in accordance with § 685.210(b).
+(h) *Repayment plans.* A borrower may choose a repayment plan for a Direct Consolidation Loan in accordance with §§ 685.208, 685.209, and 685.221, and may change repayment plans in accordance with § 685.210(b).
 
 (i) *Repayment period.* (1) Except as noted in paragraph (i)(4) of this section, the repayment period for a Direct Consolidation Loan begins on the day the loan is disbursed.
 
@@ -144,4 +142,4 @@ Link to an amendment published at 88 FR 43905, July 10, 2023.
 
 (iv) If a borrower meets the requirements for loan forgiveness under § 685.212(h) on a loan that was consolidated into a joint Direct Consolidation Loan, the Secretary repays the portion of the outstanding balance of the consolidation loan attributable to the loan that would be eligible for forgiveness under the provisions of § 685.212(h), and that was repaid by the consolidation loan.
 
-(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1078-8, 1087a *et seq.*)[78 FR 65836, Nov. 1, 2013, as amended at 81 FR 76083, Nov. 1, 2016]
+(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1078-8, 1087a *et seq.*)[78 FR 65836, Nov. 1, 2013, as amended at 81 FR 76083, Nov. 1, 2016; 88 FR 43905, July 10, 2023]

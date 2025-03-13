@@ -1,10 +1,12 @@
 ##### § 457.108 Sunflower seed crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 53834, June 27, 2024.
+The Sunflower Seed Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
-The Sunflower Seed Crop Insurance Provisions for the 2022 and succeeding crop years are as follows:
+United States Department of AgricultureFederal Crop Insurance CorporationSunflower Seed Crop Provisions
 
-Department of AgricultureFederal Crop Insurance CorporationSunflower Seed Crop Provisions1. Definitions
+In return for your payment of premium and administrative fee for coverage, these Sunflower Seed Crop Provisions and corresponding Commodity Exchange Price Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
+
+1. Definitions
 
 *Harvest.* Combining or threshing the sunflowers for seed.
 
@@ -14,23 +16,23 @@ Department of AgricultureFederal Crop Insurance CorporationSunflower Seed Crop P
 
 2. Unit Division
 
-(a) In addition to the requirements of section 34(a) of the Basic Provisions, you may elect separate enterprise units for confectionery or oil types if these types are allowed by the actuarial documents. If you elect enterprise units for these types, you may not elect enterprise or optional units by irrigation practices.
+(a) In addition to enterprise units provided in section 34(a)(2) of the Basic Provisions, you may elect separate enterprise units for confectionery or oil types if these types are allowed by the actuarial documents. If you elect enterprise units for these types, you may not elect enterprise or optional units by any other practice or type.
 
-(1) You may elect one enterprise unit for the confectionery type or one enterprise unit for the oil type, or separate enterprise units for both types, unless otherwise specified in the Special Provisions. For example: You may choose one enterprise unit for the confectionery type acreage and basic or optional units for the oil type acreage.
+(1) You may elect one enterprise unit for the confectionery type or one enterprise unit for the oil type, or separate enterprise units for both types, unless otherwise specified in the Special Provisions. For example, you may choose one enterprise unit for the confectionery type acreage and basic or optional units for the oil type acreage.
 
-(2) You must separately meet the requirements in section 34(a)(4) for each enterprise unit.
+(2) You must separately meet the requirements in section 34(a)(2) of the Basic Provisions for each enterprise unit.
 
 (3) If you elected separate enterprise units for both types and we discover you do not qualify for an enterprise unit for one or the other type and such discovery is made:
 
 (i) On or before the acreage reporting date, you may elect to insure:
 
-(A) One enterprise unit for the confectionery type or oil type provided you meet the requirements in section 34(a)(4), and basic or optional units for the other type, whichever you report on your acreage report and qualify for;
+(A) One enterprise unit for the confectionery type or oil type provided you meet the requirements in section 34(a)(2) of the Basic Provisions, and basic or optional units for the other type, whichever you report on your acreage report and qualify for;
 
-(B) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4); or
+(B) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(2) of the Basic Provisions; or
 
 (C) Basic or optional units for all acreage of the crop in the county, whichever you report on your acreage report and qualify for; or
 
-(ii) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4). Otherwise, we will assign the basic unit structure.
+(ii) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(2) of the Basic Provisions. Otherwise, we will assign the basic unit structure.
 
 (4) If you elected an enterprise unit for one type and a different unit structure on the other type and we discover you do not qualify for an enterprise unit for the type and such discovery is made:
 
@@ -40,7 +42,7 @@ Department of AgricultureFederal Crop Insurance CorporationSunflower Seed Crop P
 
 (b) In addition to, or instead of, establishing optional units as provided in section 34(c) in the Basic Provisions, a separate optional unit may be established for each sunflower type (designated in the actuarial documents and including any type insured by written agreement).
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 In addition to the requirements of section 3 of the Basic Provisions, you must elect to insure your sunflowers with either revenue protection or yield protection by the sales closing date.
 
@@ -48,14 +50,14 @@ In addition to the requirements of section 3 of the Basic Provisions, you must e
 
 In accordance with section 4 of the Basic Provisions, the contract change date is November 30 preceding the cancellation date.
 
-5. Cancellation and Termination Dates.
+5. Cancellation and Termination Dates
 
 In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are:
 
-|                  State and county                   |Cancellation  <br/>and  <br/>termination  <br/>dates|
-|-----------------------------------------------------|----------------------------------------------------|
-|Hidalgo, Jim Wells, Nueces, and Starr Counties, Texas|                    January 31.                     |
-|    All other Texas counties and all other States    |                     March 15.                      |
+|                  State and county                   |Cancellation and  <br/>termination dates|
+|-----------------------------------------------------|----------------------------------------|
+|Hidalgo, Jim Wells, Nueces, and Starr Counties, Texas|              January 31.               |
+|    All other Texas counties and all other States    |               March 15.                |
 
 6. Insured Crop
 
@@ -73,19 +75,15 @@ In accordance with section 8 of the Basic Provisions, the crop insured will be a
 
 7. Insurable Acreage
 
-In addition to the provisions of section 9 of the Basic Provisions:
+In addition to section 9 of the Basic Provisions:
 
 (a) We will not insure any acreage which does not meet the rotation requirements shown in the Special Provisions; and
 
 (b) Any acreage of the insured crop damaged before the final planting date, to the extent that a majority of producers in the area would not normally further care for the crop, must be replanted unless we agree that it is not practical to replant.
 
-8. Insurance Period
+8. Insurance PeriodIn accordance with section 11 of the Basic Provisions, the calendar date for the end of the insurance period is November 30, immediately following planting, unless otherwise specified in the Special Provisions.9. Causes of Loss
 
-In accordance with the provisions of section 11 of the Basic Provisions, the calendar date for the end of the insurance period is November 30, immediately following planting.
-
-9. Causes of Loss
-
-In accordance with the provisions of section 12 of the Basic Provisions, insurance is provided only against the following causes of loss which occur within the insurance period:
+In accordance with section 12 of the Basic Provisions, insurance is provided only against the following causes of loss which occur within the insurance period:
 
 (a) Adverse weather conditions;
 
@@ -161,29 +159,39 @@ Representative samples are required in accordance with section 14 of the Basic P
 
 (6) Multiplying the result of section 12(b)(5) by your share.
 
-For example:
+Example for Section 12(b)
 
-You have 100 percent share in 50 acres of sunflowers in the unit with a production guarantee (per acre) of 1,250 pounds, your projected price is $.23, your harvest price is $.24, and your production to count is 54,000 pounds.
+You have 100 percent share in 50 acres of sunflowers in the unit with a production guarantee (per acre) of 1,550 pounds, your projected price is $.28, your harvest price is $.29, and your production to count is 65,000 pounds.
 
 If you elected yield protection:
 
-(1) 50 acres × (1,250 pound production guarantee × $.23 projected price) = $14,375.00 value of the production guarantee;
+(1) 50 acres × (1,550 pound production guarantee × $.28 projected price) = $21,700.00 value of the production guarantee;
 
-(3) 54,000 pound production to count × $.23 projected price = $12,420.00 value of production to count;
+(2) Not applicable;
 
-(5) $14,375.00−$12,420.00 = $1,955.00;
+(3) 65,000 pound production to count × $.28 projected price = $18,200.00 value of production to count;
 
-(6) $1,955.00 × 1.000 share = $1,955.00 indemnity; or
+(4) Not applicable;
+
+(5) $21,700.00−$18,200.00 = $3,500.00;
+
+(6) $3,500.00 × 1.000 share = $3,500.00 indemnity; or
 
 If you elected revenue protection:
 
-(1) 50 acres × (1,250 pound production guarantee × $.24 harvest price) = $15,000.00 revenue protection guarantee;
+(1) 50 acres × (1,550 pound production guarantee × $.29 harvest price) = $22,475.00 revenue protection guarantee;
 
-(3) 54,000 pound production to count × $.24 harvest price = $12,960.00 value of the production to count;
+(2) Not applicable;
 
-(5) $15,000.00−$12,960.00 = $2,040.00;
+(3) 65,000 pound production to count × $.29 harvest price = $18,850.00 value of the production to count;
 
-(6) $2,040.00 × 1.000 share = $2,040.00 indemnity.
+(4) Not applicable;
+
+(5) $22,475.00−$18,850.00 = $3,625.00;
+
+(6) $3,625.00 × 1.000 share = $3,625.00 indemnity.
+
+End of Example.
 
 (c) The total production to count (in pounds) from all insurable acreage on the unit will include:
 
@@ -249,4 +257,4 @@ If you elected revenue protection:
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[59 FR 67136, Dec. 29, 1994, as amended at 60 FR 62727, Dec. 7, 1995; 62 FR 63633, Dec. 2, 1997; 62 FR 65166, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 75 FR 15879, 15880, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016; 85 FR 76427, Nov. 30, 2020; 85 FR 79779, Dec. 11, 2020; 86 FR 11091, Feb. 24, 2021; 86 FR 67837, Nov. 30, 2021]
+[59 FR 67136, Dec. 29, 1994, as amended at 60 FR 62727, Dec. 7, 1995; 62 FR 63633, Dec. 2, 1997; 62 FR 65166, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 75 FR 15879, 15880, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016; 85 FR 76427, Nov. 30, 2020; 85 FR 79779, Dec. 11, 2020; 86 FR 11091, Feb. 24, 2021; 86 FR 67837, Nov. 30, 2021; 89 FR 53834, June 27, 2024]

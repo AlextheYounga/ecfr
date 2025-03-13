@@ -1,0 +1,3 @@
+##### § 556.807 What is the effect of an assignment of operating rights on an assignee's liability? #####
+
+As assignee, you and any subsequent assignees are liable for all obligations that accrue after the effective date of your assignment. As assignee, you must comply with all the terms and conditions of the lease and regulations issued under OCSLA. In addition, you must remedy all existing environmental and operational problems on the lease, properly abandon all wells, and reclaim the site, as required under 30 CFR part 250.

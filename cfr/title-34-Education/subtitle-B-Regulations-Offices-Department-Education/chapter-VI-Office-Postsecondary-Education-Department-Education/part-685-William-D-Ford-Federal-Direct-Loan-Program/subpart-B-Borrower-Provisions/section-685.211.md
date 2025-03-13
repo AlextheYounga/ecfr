@@ -1,8 +1,22 @@
 ##### § 685.211 Miscellaneous repayment provisions. #####
 
-Link to an amendment published at 88 FR 43905, July 10, 2023.
+(a) *Payment application and prepayment.* (1)(i) Except as provided for the Income-Based Repayment plan in paragraph (a)(1)(ii) of this section, the Secretary applies any payment in the following order:
 
-(a) *Payment application and prepayment.* (1) Except as provided for the income-contingent repayment plan under § 685.209(a)(3) or the income-based repayment plan under § 685.221(c)(1), the Secretary applies any payment first to any accrued charges and collection costs, then to any outstanding interest, and then to outstanding principal.
+(A) Accrued charges and collection costs.
+
+(B) Outstanding interest.
+
+(C) Outstanding principal.
+
+(ii) The Secretary applies any payment made under the Income-Based Repayment plan in the following order:
+
+(A) Accrued interest.
+
+(B) Collection costs.
+
+(C) Late charges.
+
+(D) Loan principal.
 
 (2) A borrower may prepay all or part of a loan at any time without penalty. If a borrower pays any amount in excess of the amount due, the excess amount is a prepayment.
 
@@ -44,7 +58,7 @@ Link to an amendment published at 88 FR 43905, July 10, 2023.
 
 (f) *Rehabilitation of defaulted loans.* (1) A defaulted Direct Loan, except for a loan on which a judgment has been obtained, is rehabilitated if the borrower makes 9 voluntary, reasonable and affordable monthly payments within 20 days of the due date during 10 consecutive months. The Secretary determines the amount of a borrower's reasonable and affordable payment on the basis of a borrower's total financial circumstances.
 
-(i) The Secretary initially considers the borrower's reasonable and affordable payment amount to be an amount equal to 15 percent of the amount by which the borrower's AGI exceeds 150 percent of the poverty guideline amount applicable to the borrower's family size and State, divided by 12, except that if this amount is less than $5, the borrower's monthly rehabilitation payment is $5.
+(i) The Secretary initially considers the borrower's reasonable and affordable payment amount to be an amount equal to the minimum payment required under the IBR plan, except that if this amount is less than $5, the borrower's monthly payment is $5.
 
 (ii) The Secretary may calculate the payment amount based on information provided orally by the borrower or the borrower's representative and provide the borrower with a rehabilitation agreement using that amount. The Secretary requires the borrower to provide documentation to confirm the borrower's AGI and family size. If the borrower does not provide the Secretary with any documentation requested by the Secretary to calculate or confirm the reasonable and affordable payment amount within a reasonable time deadline set by the Secretary, the rehabilitation agreement provided is null and void.
 
@@ -64,7 +78,7 @@ Link to an amendment published at 88 FR 43905, July 10, 2023.
 
 (i) The borrower's, and if applicable, the spouse's current disposable income, including public assistance payments, and other income received by the borrower and the spouse, such as welfare benefits, Social Security benefits, Supplemental Security Income, and workers' compensation. Spousal income is not considered if the spouse does not contribute to the borrower's household income;
 
-(ii) Family size as defined in § 685.221(a)(3); and
+(ii) Family size as defined in § 685.209; and
 
 (iii) Reasonable and necessary expenses, which include—
 
@@ -112,4 +126,8 @@ Link to an amendment published at 88 FR 43905, July 10, 2023.
 
 (12) Effective for any defaulted Direct Loan that is rehabilitated on or after August 14, 2008, the borrower cannot rehabilitate the loan again if the loan returns to default status following the rehabilitation.
 
-(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 61690, Dec. 1, 1994, as amended at 64 FR 57961, Oct. 27, 1999; 64 FR 59043, Nov. 1, 1999; 65 FR 65629, Nov. 1, 2000; 66 FR 34765, June 29, 2001; 67 FR 67081, Nov. 1, 2002; 71 FR 45714, Aug. 9, 2006; 73 FR 63256, Oct. 23, 2008; 74 FR 56003, Oct. 29, 2009; 77 FR 66142, Nov. 1, 2012; 78 FR 65833, Nov. 1, 2013]
+(Authority: 20 U.S.C. 1087a *et seq.*)
+
+(13) A borrower who has a Direct Loan that is rehabilitated and which has been returned to repayment status on or after July 1, 2024, may be transferred to REPAYE by the Secretary if the borrower's minimum payment amount on REPAYE would be equal to or less than the minimum payment amount on the Income-Based Repayment Plan.
+
+[59 FR 61690, Dec. 1, 1994, as amended at 64 FR 57961, Oct. 27, 1999; 64 FR 59043, Nov. 1, 1999; 65 FR 65629, Nov. 1, 2000; 66 FR 34765, June 29, 2001; 67 FR 67081, Nov. 1, 2002; 71 FR 45714, Aug. 9, 2006; 73 FR 63256, Oct. 23, 2008; 74 FR 56003, Oct. 29, 2009; 77 FR 66142, Nov. 1, 2012; 78 FR 65833, Nov. 1, 2013; 88 FR 43905, July 10, 2023]

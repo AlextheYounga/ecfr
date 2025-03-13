@@ -21,3 +21,7 @@
 (c) Nothing in these regulations prevents a criminal justice agency from disclosing to the public factual information concerning the status of an investigation, the apprehension, arrest, release, or prosecution of an individual, the adjudication of charges, or the correctional status of an individual, which is reasonably contemporaneous with the event to which the information relates.
 
 (d) Criminal history records received from the III System or the FIRS shall be used only for the purpose requested and a current record should be requested when needed for a subsequent authorized use.
+
+(e) NCIC Gun File records that are necessary to verify whether a firearm offered for sale to a licensed firearms importer, manufacturer, or dealer has been stolen may be made available to a person licensed as an importer, manufacturer, or dealer of firearms. Information disseminated to such licensees shall be limited solely to the purpose of verifying whether firearms offered for sale to licensees have been stolen.
+
+[Order No. 2258-99, 64 FR 52227, Sept. 28, 1999, as amended by Order No. 5949-2024, 89 FR 54346, July 1, 2024]

@@ -1,7 +1,5 @@
 ##### § 600.10 Date, extent, duration, and consequence of eligibility. #####
 
-Link to an amendment published at 88 FR 70185, Oct. 10, 2023.
-
 (a) *Date of eligibility.* (1) If the Secretary determines that an applicant institution satisfies all the statutory and regulatory eligibility requirements, the Secretary considers the institution to be an eligible institution as of the date—
 
 (i) The Secretary signs the institution's program participation agreement described in 34 CFR part 668, subpart B, for purposes of participating in any title IV, HEA program; and
@@ -32,7 +30,9 @@ Link to an amendment published at 88 FR 70185, Oct. 10, 2023.
 
 (2) Except as provided under § 600.20(c), an eligible institution does not have to obtain the Secretary's approval to establish the eligibility of any program that is not described in paragraph (c)(1) of this section.
 
-(3) An institution must repay to the Secretary all HEA program funds received by the institution for an educational program, and all the title IV, HEA program funds received by or on behalf of students who enrolled in that program if the institution—
+(3) For a gainful employment program under 34 CFR part 668, subpart S, subject to any restrictions in 34 CFR 668.603 on establishing or reestablishing the eligibility of the program, an eligible institution must update its application under § 600.21.
+
+(4) An institution must repay to the Secretary all HEA program funds received by the institution for an educational program, and all the title IV, HEA program funds received by or on behalf of students who enrolled in that program if the institution—
 
 (i) Fails to comply with the requirements in paragraph (c)(1) of this section; or
 
@@ -46,4 +46,4 @@ Link to an amendment published at 88 FR 70185, Oct. 10, 2023.
 
 (2) If, as part of its institutional eligibility application, an institution indicates that it does not wish to participate in any title IV, HEA program and the Secretary determines that the institution satisfies the applicable statutory and regulatory requirements governing institutional eligibility, the institution is eligible to apply to participate in any HEA program listed by the Secretary in the eligibility notice it receives under § 600.21. However, the institution is not eligible to participate in those programs, or receive funds under those programs, merely by virtue of its designation as an eligible institution under this part.
 
-(Approved by the Office of Management and Budget under control number 1845-0012)[59 FR 22336, Apr. 29, 1994, as amended at 59 FR 47801, Sept. 19, 1994; 65 FR 65671, Nov. 1, 2000; 71 FR 45692, Aug. 9, 2006; 75 FR 66676, Oct. 29, 2010; 79 FR 65006, Oct. 31, 2014; 84 FR 31452, July 1, 2019; 85 FR 54810, Sept. 2, 2020; 87 FR 63691, Oct. 20, 2022; 87 FR 65487, Oct. 28, 2022]
+(Approved by the Office of Management and Budget under control number 1845-0012)[59 FR 22336, Apr. 29, 1994, as amended at 59 FR 47801, Sept. 19, 1994; 65 FR 65671, Nov. 1, 2000; 71 FR 45692, Aug. 9, 2006; 75 FR 66676, Oct. 29, 2010; 79 FR 65006, Oct. 31, 2014; 84 FR 31452, July 1, 2019; 85 FR 54810, Sept. 2, 2020; 87 FR 63691, Oct. 20, 2022; 87 FR 65487, Oct. 28, 2022; 88 FR 70185, Oct. 10, 2023]

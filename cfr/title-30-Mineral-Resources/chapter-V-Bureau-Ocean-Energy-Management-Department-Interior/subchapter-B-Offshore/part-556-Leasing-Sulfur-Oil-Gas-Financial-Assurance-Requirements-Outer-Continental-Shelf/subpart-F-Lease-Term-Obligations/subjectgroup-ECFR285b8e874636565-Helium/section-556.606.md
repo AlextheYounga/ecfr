@@ -1,0 +1,5 @@
+##### § 556.606 What must a lessee do if BOEM elects to extract helium from a lease? #####
+
+(a) BOEM reserves the ownership of, and the right to extract, helium from all gas produced from your OCS lease. Under section 12(f) of OCSLA (43 U.S.C. 1341(f)), upon our request, you must deliver all or a specified portion of the gas containing helium to BOEM at a point on the leased area or at an onshore processing facility that BOEM designates.
+
+(b) BOEM will determine reasonable compensation and pay you for any loss caused by the extraction of helium, except for the value of the helium itself. BOEM may erect, maintain, and operate on your lease any reduction work and other equipment necessary for helium extraction. Our extraction of helium will be conducted in a manner to not cause substantial delays in the delivery of gas to your purchaser.

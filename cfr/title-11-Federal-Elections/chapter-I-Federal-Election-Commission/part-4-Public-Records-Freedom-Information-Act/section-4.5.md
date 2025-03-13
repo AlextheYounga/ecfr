@@ -1,7 +1,5 @@
 ##### § 4.5 Categories of exemptions. #####
 
-Link to an amendment published at 89 FR 35687, May 2, 2024.
-
 (a) No requests under 5 U.S.C. 552 shall be denied release unless the record contains, or its disclosure would reveal, matters that are:
 
 (1) Specifically authorized under criteria established by an executive order to be kept secret in the interest of national defense or foreign policy and are in fact properly classified pursuant to such Executive order;
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 35687, May 2, 2024.
 
 (vi) Since enforcement actions under 52 U.S.C. 30109 are confidential by statute, the procedures outlined in § 4.5(a)(4) (i) thru (v) are not applicable.
 
-(5) Inter-agency or intra-agency memoranda or letters which would not be available by law to a party in litigation with the Commission.
+(5) Inter-agency or intra-agency memoranda or letters which would not be available by law to a party other than an agency in litigation with the Commission, provided that the deliberative process privilege shall not apply to records created 25 years or more before the date on which the records were requested.
 
 (6) Personnel and medical files and similar files, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
 
@@ -60,4 +58,4 @@ The agency may, during only such time as that circumstance continues, treat the 
 
 (e) Nothing in this part authorizes withholding of information or limiting the availability of records to the public, except as specifically provided in this part; nor is this part authority to withhold information from Congress.
 
-[44 FR 33368, June 8, 1979, as amended at 50 FR 50778, Dec. 12, 1985; 52 FR 23638, June 24, 1987; 52 FR 39212, Oct. 21, 1987; 65 FR 9206, Feb. 24, 2000; 75 FR 31, Jan. 4, 2010; 79 FR 77844, Dec. 29, 2014; 82 FR 60852, Dec. 26, 2017; 89 FR 213, Jan. 2, 2024]
+[44 FR 33368, June 8, 1979, as amended at 50 FR 50778, Dec. 12, 1985; 52 FR 23638, June 24, 1987; 52 FR 39212, Oct. 21, 1987; 65 FR 9206, Feb. 24, 2000; 75 FR 31, Jan. 4, 2010; 79 FR 77844, Dec. 29, 2014; 82 FR 60852, Dec. 26, 2017; 89 FR 213, Jan. 2, 2024; 89 FR 35687, May 2, 2024]

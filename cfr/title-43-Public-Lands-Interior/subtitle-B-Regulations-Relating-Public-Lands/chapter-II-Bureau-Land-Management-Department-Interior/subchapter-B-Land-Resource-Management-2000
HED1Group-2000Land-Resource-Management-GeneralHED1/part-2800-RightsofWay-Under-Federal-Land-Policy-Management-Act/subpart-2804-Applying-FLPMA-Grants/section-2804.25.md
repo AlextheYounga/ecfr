@@ -1,7 +1,5 @@
 ##### § 2804.25 How will the BLM process my application? #####
 
-Link to an amendment published at 89 FR 35678, May 1, 2024.
-
 (a) The BLM will notify you in writing when it receives your application. This notification will also:
 
 (1) Identify your cost recovery fee described at § 2804.14, unless you are exempt from paying fees; and
@@ -14,13 +12,7 @@ Link to an amendment published at 89 FR 35678, May 1, 2024.
 
 (2) Trespass action pending against you for any activity on BLM-administered lands (see § 2808.12), except those to resolve the trespass with a right-of-way as authorized in this part, or a lease or permit under the regulations found at 43 CFR part 2920, but only after outstanding unpaid debts are paid.
 
-(c) The BLM may require you to submit additional information necessary to process the application. This information may include a detailed construction, operation, rehabilitation, and environmental protection plan (*i.e.,* a POD), and any needed cultural resource surveys or inventories for threatened or endangered species. If the BLM needs more information, the BLM will identify this information in a written deficiency notice asking you to provide the additional information within a specified period of time.
-
-(1) For solar or wind energy development projects, and transmission lines with a capacity of 100 kV or more, you must commence any required resource surveys or inventories within one year of the request date, unless otherwise specified by the BLM; or
-
-(2) For all powerline rights-of-way, you must submit an operating plan or agreement, unless you have an approved plan that meets the requirements of § 2805.21; or
-
-(3) If you are unable to meet any of the requirements of this section, you must show good cause and submit a request for an alternative under § 2804.40.
+(c) The BLM may require you to submit additional information necessary to process the application. This information may include a detailed construction, operation, rehabilitation, and environmental protection plan (*i.e.,* a POD), and any needed cultural resource surveys or inventories for threatened or endangered species. If the BLM needs more information, the BLM will identify this information in a written deficiency notice asking you to provide the additional information within a specified period of time. The failure to provide additional information requested by the BLM under this section may result in the BLM denying your application pursuant to § 2804.26.
 
 (d) *Customer service standard.* The BLM will process your complete application as follows:
 
@@ -34,19 +26,19 @@ Link to an amendment published at 89 FR 35678, May 1, 2024.
 
 (1) Hold public meetings if sufficient public interest exists to warrant their time and expense. The BLM will publish a notice in the Federal Register and may use other notification methods, such as a newspaper of general circulation in the vicinity of the lands involved in the area affected by the potential right-of-way or the Internet, to announce in advance any public hearings or meetings;
 
-(2) If your application is for solar or wind energy development:
+(2) If your application is for solar or wind energy development;
 
-(i) Hold a public meeting in the area affected by the potential right-of-way;
+(i) Hold a local public meeting if there is no other public meeting or opportunity for early engagement on the project, such as those completed when complying with the National Environmental Policy Act (NEPA).
 
-(ii) Apply screening criteria to prioritize processing applications with lesser resource conflicts over applications with greater resource conflicts and categorize screened applications according to the criteria listed in § 2804.35; and
+(ii) Prioritize the application in accordance with § 2804.35; and
 
-(iii) Evaluate the application based on the information provided by the applicant and input from other parties, such as Federal, State, and local government agencies, and tribes, as well as comments received in preliminary application review meetings held under § 2804.12(b)(4) and the public meeting held under paragraph (e)(2)(i) of this section. The BLM will also evaluate your application based on whether you propose to site the development appropriately (*e.g.* outside of a designated leasing area or exclusion area) and whether you address known resource values discussed in the preliminary application review meetings. Based on these evaluations, the BLM will either deny your application or continue processing it.
+(iii) Evaluate the application based on the information provided by the applicant and input from other parties, such as Federal, State, Tribal, and local government agencies, as well as comments received in preliminary application review meetings held under § 2804.12(b)(4) and any public meeting held under paragraph (e)(1) of this section. Based on these evaluations, the BLM will either deny your application or continue processing it.
 
 (3) Determine whether a POD schedule submitted with your application meets the development schedule or other requirements described by the BLM, such as in § 2804.12(b);
 
-(4) Complete appropriate National Environmental Policy Act (NEPA) compliance for the application, as required by 43 CFR part 46 and 40 CFR parts 1500 through 1508;
+(4) Complete appropriate NEPA compliance for the application, as required by 43 CFR part 46 and 40 CFR chapter V, subchapter A;
 
-(5) Determine whether your proposed use complies with applicable Federal and State laws;
+(5) Determine whether your proposed use complies with applicable Federal laws;
 
 (6) If your application is for a road, determine whether it is in the public interest to require you to grant the United States an equivalent authorization across lands that you own;
 
@@ -64,6 +56,6 @@ Link to an amendment published at 89 FR 35678, May 1, 2024.
 
 (iii) Upon publication of a Federal Register notice terminating the segregation and opening the lands.
 
-(3) The segregation period may not exceed 2 years from the date of publication in the Federal Register of the notice initiating the segregation, unless the State Director determines and documents in writing, prior to the expiration of the segregation period, that an extension is necessary for the orderly administration of the public lands. If the State Director determines an extension is necessary, the BLM will extend the segregation for up to 2 years by publishing a notice in the Federal Register, prior to the expiration of the initial segregation period. Segregations under this part may only be extended once and the total segregation period may not exceed 4 years.
+(3) The segregation period may not exceed 2 years from the date of publication in the Federal Register of the notice initiating the segregation, unless the state director determines and documents in writing, prior to the expiration of the segregation period, that an extension is necessary for the orderly administration of the public lands. If the state director determines an extension is necessary, the BLM will extend the segregation for up to 2 years by publishing a notice in the Federal Register, prior to the expiration of the initial segregation period. A segregation will not be extended unless the application is complete and cost recovery has been received. Segregations under this part may only be extended once and the total segregation period may not exceed 4 years.
 
-[81 FR 92209, Dec. 19, 2016, as amended at 89 FR 25961, Apr. 12, 2024]
+[81 FR 92209, Dec. 19, 2016, as amended at 89 FR 25961, Apr. 12, 2024; 89 FR 35678, May 1, 2024]

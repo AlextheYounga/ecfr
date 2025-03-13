@@ -12,7 +12,7 @@ The Tribe should coordinate with the Tribal or State TANF agency on:
 
 (e) Resources available from the Tribal or State TANF agency to ensure efficient delivery of benefits to the designated service population;
 
-(f) Policy for exclusions from the TANF program (*e.g.,* criteria for exemptions and sanctions);
+(f) Policy for exclusions from the TANF program (e.g., criteria for exemptions and sanctions);
 
 (g) Termination of TANF assistance when time limits become effective;
 

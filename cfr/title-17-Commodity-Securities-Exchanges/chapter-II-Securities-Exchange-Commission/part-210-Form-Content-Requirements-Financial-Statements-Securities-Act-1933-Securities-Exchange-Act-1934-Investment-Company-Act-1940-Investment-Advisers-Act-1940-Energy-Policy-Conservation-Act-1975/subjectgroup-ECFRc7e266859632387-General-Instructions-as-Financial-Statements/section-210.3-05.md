@@ -1,7 +1,5 @@
 ##### § 210.3-05 Financial statements of businesses acquired or to be acquired. #####
 
-Link to an amendment published at 89 FR 14313, Feb. 26, 2024.
-
 (a) *Financial statements required.* (1) Financial statements (except the related schedules specified in § 210.12) prepared and audited in accordance with Regulation S-X (including the independence standards in § 210.2-01 or, alternatively if the business is not a registrant, the applicable independence standards) must be filed for the periods specified in paragraph (b) of this section if any of the following conditions exist:
 
 (i) During the most recent fiscal year or subsequent interim period for which a balance sheet is required by § 210.3-01, a business acquisition has occurred; or
@@ -50,7 +48,7 @@ Link to an amendment published at 89 FR 14313, Feb. 26, 2024.
 
 (B) The date of the final prospectus or prospectus supplement relating to an offering as filed with the Commission pursuant to § 230.424(b) of this chapter, or mailing date in the case of a proxy statement, is no more than 74 days after consummation of the business acquisition, and the financial statements have not previously been filed by the registrant.
 
-(ii) A registrant, other than a foreign private issuer required to file reports on Form 6-K (§ 249.306 of this chapter), that omits from its initial registration statement financial statements of a recently consummated business acquisition pursuant to paragraph (b)(4)(i) of this section must file those financial statements and any pro forma information specified by §§ 210.11-01 through 210.11-03 (Article 11) under cover of Form 8-K (§ 249.308 of this chapter) no later than 75 days after consummation of the acquisition.
+(ii) A registrant, other than a foreign private issuer required to file reports on Form 6-K (§ 249.306 of this chapter) or a shell company (other than a business combination related shell company), that omits from its initial registration statement financial statements of a recently consummated business acquisition pursuant to paragraph (b)(4)(i) of this section must file those financial statements and any pro forma information specified by §§ 210.11-01 through 210.11-03 (Article 11) under cover of Form 8-K (§ 249.308 of this chapter) no later than 75 days after consummation of the acquisition. When a predecessor to a shell company (other than a business combination related shell company) acquires a business and the financial statements of that recently consummated business are omitted from a registration statement or proxy statement pursuant to paragraph (b)(4)(i) of this section, refer to § 210.15-01(d)(2).
 
 (iii) Separate financial statements of the acquired business specified in paragraph (b)(2)(ii) of this section need not be presented once the operating results of the acquired business have been reflected in the audited consolidated financial statements of the registrant for at least nine months. Separate financial statements of the acquired business specified in paragraph (b)(2)(iii) of this section need not be presented once the operating results of the acquired business have been reflected in the audited consolidated financial statements of the registrant for a complete fiscal year.
 
@@ -94,4 +92,4 @@ Link to an amendment published at 89 FR 14313, Feb. 26, 2024.
 
 (3) If the financial statements are presented in accordance with paragraph (f)(2) of this section, the disclosures specified in paragraph (e)(2)(iii) of this section must be provided.
 
-[85 FR 54060, Aug. 31, 2020]
+[85 FR 54060, Aug. 31, 2020, as amended at 89 FR 14313, Feb. 26, 2024]

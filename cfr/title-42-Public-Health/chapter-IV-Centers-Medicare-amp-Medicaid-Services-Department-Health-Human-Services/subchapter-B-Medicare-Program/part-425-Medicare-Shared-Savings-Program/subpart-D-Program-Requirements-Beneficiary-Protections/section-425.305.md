@@ -1,5 +1,7 @@
 ##### § 425.305 Other program safeguards. #####
 
+Link to an amendment published at 89 FR 54717, July 1, 2024.
+
 (a) *Screening of ACO applicants.* (1) ACOs, ACO participants, and ACO providers/suppliers are reviewed during the Shared Savings Program application process and periodically thereafter with regard to their program integrity history, including any history of Medicare program exclusions or other sanctions and affiliations with individuals or entities that have a history of program integrity issues.
 
 (2) ACOs, ACO participants, or ACO providers/suppliers whose screening reveals a history of program integrity issues or affiliations with individuals or entities that have a history of program integrity issues may be subject to denial of their Shared Savings Program applications or the imposition of additional safeguards or assurances against program integrity risks.

@@ -1,7 +1,5 @@
 ##### § 668.2 General definitions. #####
 
-Link to an amendment published at 88 FR 70186, Oct. 10, 2023.
-
 (a) The following definitions are contained in the regulations for Institutional Eligibility under the Higher Education Act of 1965, as amended, 34 CFR part 600:
 
 (1) Accredited.
@@ -68,11 +66,33 @@ Link to an amendment published at 88 FR 70186, Oct. 10, 2023.
 
 (b) The following definitions apply to all Title IV, HEA programs:
 
+*Annual debt-to-earnings rate (annual D/E rate):* The ratio of a program's annual loan payment amount to the annual earnings of the students who completed the program, expressed as a percentage, as calculated under § 668.403.
+
 *Campus-based programs:* (1) The Federal Perkins Loan Program (34 CFR parts 673 and 674);
 
 (2) The Federal Work-Study (FWS) Program (34 CFR parts 673 and 675); and
 
 (3) The Federal Supplemental Educational Opportunity Grant (FSEOG) Program (34 CFR parts 673 and 676).
+
+*Classification of instructional program (CIP) code:* A taxonomy of instructional program classifications and descriptions developed by the U.S. Department of Education's National Center for Education Statistics (NCES). Specific programs offered by institutions are classified using a six-digit CIP code.
+
+*Cohort period:* The set of award years used to identify a cohort of students who completed a program and whose debt and earnings outcomes are used to calculate debt-to-earnings rates and the earnings premium measure under subpart Q of this part. The Secretary uses a 2-year cohort period to calculate the debt-to-earnings rates and earnings premium measure for a program when the number of students (after exclusions identified in §§ 668.403(e) and 668.404(c)) in the 2-year cohort period is 30 or more. The Secretary uses a 4-year cohort period to calculate the debt-to-earnings rates and earnings premium measure when the number of students completing the program in the two-year cohort period is fewer than 30 and when the number of students completing the program in the 4-year cohort period is 30 or more. The cohort period covers consecutive award years that are—
+
+(1) For the 2-year cohort period—
+
+(i) The third and fourth award years prior to the year for which the most recent data are available from the Federal agency with earnings data at the time the D/E rates and earnings premium measure are calculated, pursuant to §§ 668.403 and 668.404; or
+
+(ii) For a qualifying graduate program, the sixth and seventh award years prior to the year for which the most recent data are available from the Federal agency with earnings data at the time the D/E rates and earnings premium measure are calculated.
+
+(2) For the four-year cohort period—
+
+(i) The third, fourth, fifth, and sixth award years prior to the year for which the most recent data are available from the Federal agency with earnings data at the time the D/E rates and earnings premium measure are calculated, pursuant to §§ 668.403 and 668.404; or
+
+(ii) For a qualifying graduate program, the sixth, seventh, eighth, and ninth award years prior to the year for which the most recent earnings data are available from the Federal agency with earnings data at the time the D/E rates and earnings premium measure are calculated.
+
+*Credential level:* The level of the academic credential awarded by an institution to students who complete the program. For the purposes of this part, the undergraduate credential levels are: undergraduate certificate or diploma, associate degree, bachelor's degree, and post-baccalaureate certificate; and the graduate credential levels are master's degree, doctoral degree, first-professional degree (*e.g.,* MD, DDS, JD), and graduate certificate (including a postgraduate certificate).
+
+*Debt-to-earnings rates (D/E rates):* The discretionary debt-to-earnings rate and annual debt-to-earnings rate as calculated under § 668.403.
 
 *Defense loan:* A loan made before July 1, 1972, under Title II of the National Defense Education Act of 1958.
 
@@ -98,6 +118,34 @@ Link to an amendment published at 88 FR 70186, Oct. 10, 2023.
 
 (Authority: 20 U.S.C. 1087a *et seq.*)
 
+*Discretionary debt-to-earnings rate (discretionary D/E rate):* The percentage of a program's annual loan payment compared to the discretionary earnings of the students who completed the program, as calculated under § 668.403.
+
+*Earnings premium:* The amount by which the median annual earnings of students who recently completed a program exceed the earnings threshold, as calculated under § 668.404. If the median annual earnings of recent completers is equal to the earnings threshold, the earnings premium is zero. If the median annual earnings of recent completers is less than the earnings threshold, the earnings premium is negative.
+
+*Earnings threshold:* Based on data from the Census Bureau, the median earnings for working adults aged 25-34, who either worked during the year or indicated they were unemployed (*i.e.,* not employed but looking for and available to work) when interviewed, with only a high school diploma (or recognized equivalent)—
+
+(1) In the State in which the institution is located; or
+
+(2) Nationally, if fewer than 50 percent of the students in the program are from the State where the institution is located, or if the institution is a foreign institution.
+
+*Eligible career pathway program:* A program that combines rigorous and high-quality education, training, and other services that—
+
+(i) Align with the skill needs of industries in the economy of the State or regional economy involved;
+
+(ii) Prepare an individual to be successful in any of a full range of secondary or postsecondary education options, including apprenticeships registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664, chapter 663; 29 U.S.C. 50 *et seq.*);
+
+(iii) Include counseling to support an individual in achieving the individual's education and career goals;
+
+(iv) Include, as appropriate, education offered concurrently with and in the same context as workforce preparation activities and training for a specific occupation or occupational cluster;
+
+(v) Organize education, training, and other services to meet the particular needs of an individual in a manner that accelerates the educational and career advancement of the individual to the extent practicable;
+
+(vi) Enable an individual to attain a secondary school diploma or its recognized equivalent, and at least one recognized postsecondary credential; and
+
+(vii) Help an individual enter or advance within a specific occupation or occupational cluster.
+
+*Eligible non-GE program:* An educational program other than a gainful employment (GE) program offered by an institution and included in the institution's participation in the title IV, HEA programs, identified by a combination of the institution's six-digit Office of Postsecondary Education ID (OPEID) number, the program's six-digit CIP code as assigned by the institution or determined by the Secretary, and the program's credential level. Includes all coursework associated with the program's credential level.
+
 *Enrolled:* The status of a student who—
 
 (1) Has completed the registration requirements (except for the payment of tuition and fees) at the institution that he or she is attending; or
@@ -107,6 +155,8 @@ Link to an amendment published at 88 FR 70186, Oct. 10, 2023.
 (Authority: 20 U.S.C. 1088)
 
 *Expected family contribution (EFC):* The amount, as determined under title IV, part F of the HEA, an applicant and his or her spouse and family are expected to contribute toward the applicant's cost of attendance.
+
+*Federal agency with earnings data:* A Federal agency with which the Department enters into an agreement to access earnings data for the D/E rates and earnings threshold measure. The agency must have individual earnings data sufficient to match with title IV, HEA recipients who completed any eligible program during the cohort period and may include agencies such as the Treasury Department (including the Internal Revenue Service), the Social Security Administration (SSA), the Department of Health and Human Services (HHS), and the Census Bureau.
 
 *Federal Consolidation Loan program:* The loan program authorized by Title IV-B, section 428C, of the HEA that encourages the making of loans to borrowers for the purpose of consolidating their repayment obligations, with respect to loans received by those borrowers, under the Federal Insured Student Loan (FISL) Program as defined in 34 CFR part 682, the Federal Stafford Loan, Federal PLUS (as in effect before October 17, 1986), Federal Consolidation Loan, Federal SLS, ALAS (as in effect before October 17, 1986), Federal Direct Student Loan, and Federal Perkins Loan programs, and under the Health Professions Student Loan (HPSL) Program authorized by subpart II of part C of Title VII of the Public Health Service Act, for Federal PLUS borrowers whose loans were made after October 17, 1986, and for Higher Education Assistance Loans (HEAL) authorized by subpart I of part A of Title VII of the Public Health Services Act.
 
@@ -172,6 +222,8 @@ Link to an amendment published at 88 FR 70186, Oct. 10, 2023.
 
 (Authority: 20 U.S.C. 1071 *et seq.*)
 
+*Financial exigency:* A status declared by an institution to a governmental entity or its accrediting agency representing severe financial distress that, absent significant reductions in expenditures or increases in revenue, reductions in administrative staff or faculty, or the elimination of programs, departments, or administrative units, could result in the closure of the institution.
+
 *Free application for Federal student aid (FAFSA):* The student aid application provided for under section 483 of the HEA, which is used to determine an applicant's eligibility for the title IV, HEA programs.
 
 *Full-time student:* An enrolled student who is carrying a full-time academic workload, as determined by the institution, under a standard applicable to all students enrolled in a particular educational program. The student's workload may include any combination of courses, work, research, or special studies that the institution considers sufficient to classify the student as a full-time student. For a term-based program that is not subscription-based, the student's workload may include repeating any coursework previously taken in the program; however, the workload may not include more than one repetition of a previously passed course. For an undergraduate student, an institution's minimum standard must equal or exceed one of the following minimum requirements, based on the type of program:
@@ -199,6 +251,8 @@ Link to an amendment published at 88 FR 70186, Oct. 10, 2023.
 (ii) At least one-half of the coursework must be made up of non-correspondence coursework that meets one-half of the institution's requirement for full-time students.
 
 (8) For a subscription-based program, completion of a full-time course load commensurate with the requirements in paragraphs (1), (3), and (5) through (7) of this definition.
+
+*Gainful employment program (GE program):* An educational program offered by an institution under § 668.8(c)(3) or (d) and identified by a combination of the institution's six-digit OPEID number, the program's six-digit CIP code as assigned by the institution or determined by the Secretary, and the program's credential level.
 
 *Graduate or professional student:* A student who—
 
@@ -228,7 +282,13 @@ Link to an amendment published at 88 FR 70186, Oct. 10, 2023.
 
 (2) EFC.
 
+*Institutional grants and scholarships:* Assistance that the institution or its affiliate controls or directs to reduce or offset the original amount of a student's institutional costs and that does not have to be repaid. Typically, an institutional grant or scholarship includes a grant, scholarship, fellowship, discount, or fee waiver.
+
+*Length of the program:* The amount of time in weeks, months, or years that is specified in the institution's catalog, marketing materials, or other official publications for a student to complete the requirements needed to obtain the degree or credential offered by the program.
+
 *Leveraging Educational Assistance Partnership (LEAP) Program:* The grant program authorized by Title IV-A-4 of the HEA.
+
+*Metropolitan statistical area:* A core area containing a substantial population nucleus, together with adjacent communities having a high degree of economic and social integration with that core.
 
 *National Defense Student Loan program:* The student loan program authorized by Title II of the National Defense Education Act of 1958.
 
@@ -256,13 +316,45 @@ Link to an amendment published at 88 FR 70186, Oct. 10, 2023.
 
 *Participating institution:* An eligible institution that meets the standards for participation in Title IV, HEA programs in subpart B and has a current program participation agreement with the Secretary.
 
+*Poverty Guideline:* The Poverty Guideline for a single person in the continental United States, as published by the U.S. Department of Health and Human Services and available at *https://aspe.hhs.gov/poverty* or its successor site.
+
 *Professional degree:* A degree that signifies both completion of the academic requirements for beginning practice in a given profession and a level of professional skill beyond that normally required for a bachelor's degree. Professional licensure is also generally required. Examples of a professional degree include but are not limited to Pharmacy (Pharm.D.), Dentistry (D.D.S. or D.M.D.), Veterinary Medicine (D.V.M.), Chiropractic (D.C. or D.C.M.), Law (L.L.B. or J.D.), Medicine (M.D.), Optometry (O.D.), Osteopathic Medicine (D.O.), Podiatry (D.P.M., D.P., or Pod.D.), and Theology (M.Div., or M.H.L.).
 
 (Authority: 20 U.S.C. 1082 and 1088)
 
+*Prospective student:* An individual who has contacted an eligible institution for the purpose of requesting information about enrolling in a program or who has been contacted directly by the institution or by a third party on behalf of the institution about enrolling in a program.
+
+*Qualifying graduate program:* (1) For the first three award years that the Secretary calculates debt-to-earnings rates and the earnings premium measure under subpart Q of this part (“initial period”), a graduate program—
+
+(i) Whose students must complete required postgraduation training programs to obtain licensure in one of the following fields: medicine, osteopathy, dentistry, clinical psychology, marriage and family counseling, clinical social work, and clinical counseling; and
+
+(ii) For which the institution attests, in the manner established by the Secretary, that—
+
+(A) If necessary for licensure, the program is accredited by an accrediting agency that meets State requirements; and
+
+(B) At least half of the program's graduates obtain licensure in a State where the postgraduation training requirements apply.
+
+(2)(i) After the initial period, the graduate programs that are on the list described in paragraph (2)(ii) of this definition and for which the Secretary has received an attestation that meets the requirements in paragraph (1)(ii) of this definition.
+
+(ii) For the first award year following the initial period, and every three years thereafter, using publicly available information and information received in response to a request for information, the Secretary publishes in the Federal Register a list of graduate degree fields (based on their credential level and CIP codes) that may contain qualifying graduate programs by identifying fields—
+
+(A) That lead to a graduate (master's, first-professional, or doctoral) degree;
+
+(B) For which the Department determines that graduates must complete a required postgraduate training program that takes, on average, three or more years to complete; and
+
+(C) For which, based on College Scorecard data, the Secretary determines that a majority of programs with the same credential level and CIP code have outlier earnings growth. An individual program has outlier earnings growth if the percent change in median earnings between its earnings measured one or three years post-completion and its earnings measured either five or ten years post-completion is more than two standard deviations above the average earnings growth for other programs with the same credential level.
+
+(3) For the purpose of this definition, a “required postgraduation training program” is a supervised training program that—
+
+(i) Requires the student to hold a degree in one of the listed fields in paragraph (1)(i) of this definition or one of the fields identified in the list described in paragraph (2)(ii) of this definition; and
+
+(ii) Must be completed before the student may be licensed by a State and board certified for professional practice or service.
+
 *Show-cause official:* The designated department official authorized to conduct a show-cause proceeding for an emergency action under 34 CFR 668.83.
 
 (Authority: 20 U.S.C. 1070c *et seq.*)
+
+*Student:* For the purposes of subparts Q and S of this part and of § 668.43(d), an individual who received title IV, HEA program funds for enrolling in the program.
 
 *Student aid report (SAR):* A report provided to an applicant by the Secretary showing his or her FAFSA information and the amount of his or her EFC.
 
@@ -271,6 +363,8 @@ Link to an amendment published at 88 FR 70186, Oct. 10, 2023.
 (1) Determining for each term the number of credit hours (or the equivalent) associated with the institution's minimum standard for the student's enrollment status (for example, full-time, three-quarter time, or half-time) for that period commensurate with paragraph (8) in the definition of “full-time student,” adjusted for less than full-time students in light of the definitions of “half-time student” and “three-quarter time student,” and adjusted to at least one credit (or the equivalent) for a student who is enrolled less than half-time; and
 
 (2) Adding together the number of credit hours (or the equivalent) determined under paragraph (1) for each term in which the student was enrolled in and attended that program, excluding the current and most recently attended terms.
+
+*Substantially similar program:* For the purposes of subpart Q and S of this part, a program is substantially similar to another program if the two programs share the same four-digit CIP code. The Secretary presumes a program is not substantially similar to another program if the two programs have different four-digit CIP codes, but the institution must provide an explanation of how the new program is not substantially similar to the ineligible or voluntarily discontinued program with its certification under § 668.604.
 
 *Teacher Education Assistance for College and Higher Education (TEACH) Grant Program:* A grant program authorized by title IV of the HEA under which grants are awarded by an institution to students who are completing, or intend to complete, coursework to begin a career in teaching and who agree to serve for not less than four years as a full-time, highly-qualified teacher in a high-need field in a low-income school. If the recipient of a TEACH Grant does not complete four years of qualified teaching service within eight years of completing the course of study for which the TEACH Grant was received or otherwise fails to meet the requirements of 34 CFR 686.12, the amount of the TEACH Grant converts into a Federal Direct Unsubsidized Loan.
 

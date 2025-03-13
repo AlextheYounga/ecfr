@@ -1,0 +1,9 @@
+##### § 550.269 How will BOEM evaluate the environmental impacts of the DPP or DOCD? #####
+
+The Regional Supervisor will evaluate the environmental impacts of the activities described in your proposed DPP or DOCD and prepare environmental documentation under the National Environmental Policy Act (NEPA) (42 U.S.C.4321 *et seq.*) and the implementing regulations (40 CFR parts 1500 through 1508).
+
+(a) *Environmental impact statement (EIS) declaration.* At least once in each OCS planning area (other than the Western and Central GOM Planning Areas), the Director will declare that the approval of a proposed DPP is a major Federal action, and BOEM will prepare an EIS.
+
+(b) *Leases or units in the vicinity.* Before or immediately after the Director determines that preparation of an EIS is required, the Regional Supervisor may require lessees and operators of leases or units in the vicinity of the proposed development and production activities for which DPPs have not been approved to submit information about preliminary plans for their leases or units.
+
+(c) *Draft EIS.* The Regional Supervisor will send copies of the draft EIS to the Governor of each affected State and to the executive of each affected local government who requests a copy. Additionally, when BOEM prepares a DPP EIS, and the Federally-approved CZMA program for an affected State requires a DPP NEPA document for use in determining consistency, the Regional Supervisor will forward a copy of the draft EIS to the State's CZMA agency. The Regional Supervisor will also make copies of the draft EIS available to any appropriate Federal agency, interstate regional entity, and the public.

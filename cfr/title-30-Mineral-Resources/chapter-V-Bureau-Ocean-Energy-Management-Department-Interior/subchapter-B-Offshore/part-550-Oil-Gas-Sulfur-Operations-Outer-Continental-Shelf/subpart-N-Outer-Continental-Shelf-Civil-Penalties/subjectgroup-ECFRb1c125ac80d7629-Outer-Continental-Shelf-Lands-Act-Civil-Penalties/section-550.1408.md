@@ -1,0 +1,3 @@
+##### § 550.1408 When will I be notified of the Reviewing Officer's decision? #####
+
+At the end of the 30 calendar days or after the meeting and submittal of additional information, the Reviewing Officer will review the case file, including all information you submitted, and send you a decision. The decision will include the amount of any final civil penalty, the basis for the civil penalty, and instructions for paying or appealing the civil penalty.

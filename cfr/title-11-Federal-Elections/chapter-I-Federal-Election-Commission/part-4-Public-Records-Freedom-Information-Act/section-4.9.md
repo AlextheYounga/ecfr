@@ -1,12 +1,18 @@
 ##### § 4.9 Fees. #####
 
-Link to an amendment published at 89 FR 35687, May 2, 2024.
-
 (a) *Exceptions to fee charges*—(1) *General.* Except for a commercial use requester, the Commission will not charge a fee to any requester for the first two hours of search time and the first 100 pages of duplication in response to any FOIA request.
 
 (2) *Definition of pages.* For purposes of this paragraph, the word *pages* refers to paper copies of a standard agency size which will normally be 81/2″ × 11″ or 81/2″ × 14″. Thus, while a requester would not be entitled to 100 free digital storage devices, for example, a requester would be entitled to 100 free pages of a computer printout.
 
 (3) *Minimum charge.* The Commission will not charge a fee to any requester when the allowable direct cost of that FOIA request is equal to or less than the Commission's cost of routinely collecting and processing a FOIA request fee.
+
+(5) *Time limit for compliance.* (i) The Commission will not charge a fee under this section to any requester if the Commission does not comply with the time limits in § 4.7(c) or § 4.8(f).
+
+(ii) If the Commission has determined that unusual circumstances (as defined in 5 U.S.C. 552(a)(6)(B)(iii) and § 4.7(c)(1) through (3)) apply and the Commission provided timely written notification to the requester in accordance with § 4.7(c), a failure to comply with the time limit is excused for an additional 10 days. If the Commission fails to comply with the extended time limit, the Commission may not assess any search fees or, where applicable, duplication fees.
+
+(iii) If the Commission has determined that unusual circumstances apply and more than 5,000 pages are necessary to respond to the request, the Commission may charge search fees or, where applicable, duplication fees, if the Commission has provided timely written notification to the requester in accordance with § 4.7(c) and the Commission has discussed with the requester via written mail, electronic mail, or telephone (or made not less than three good-faith attempts to do so) how the requester could effectively limit the scope of the request in accordance with § 4.7(d).
+
+(iv) If a court has determined that exceptional circumstances exist, a failure to comply with the time limit shall be excused for the length of time provided by the court order.
 
 (b) *Fee reduction or waiver*—(1) The Commission will consider requests for the reduction or waiver of any fees assessed pursuant to paragraph (c)(1) of this section if it determines, either as a result of its own motion or in response to a written submission by the requester, that disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and that disclosure of the information is not primarily in the commercial interest of the requester.
 
@@ -42,4 +48,4 @@ Link to an amendment published at 89 FR 35687, May 2, 2024.
 
 (3) If the provisions of paragraph (f) (1) or (2) of this section apply, the administrative time limits prescribed in 11 CFR 4.7(c) will begin only after the Commission has received the payments or the requestor has made acceptable arrangements to make the payments required by paragraph (f) (1) or (2) of this section.
 
-[52 FR 39213, Oct. 21, 1987, as amended at 75 FR 31, Jan. 4, 2010; 89 FR 213, Jan. 2, 2024]
+[52 FR 39213, Oct. 21, 1987, as amended at 75 FR 31, Jan. 4, 2010; 89 FR 213, Jan. 2, 2024; 89 FR 35687, May 2, 2024]

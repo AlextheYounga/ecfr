@@ -1,0 +1,5 @@
+##### § 550.296 When and how must I submit a CID or a revision to a CID? #####
+
+(a) You must submit one original and two copies of a CID to the appropriate OCS Region at the same time you first submit your DOCD or DPP for any development of a lease or leases located in water depths greater than 400 meters (1,312 feet). You must also submit a CID for a Supplemental DOCD or DPP when requested by the Regional Supervisor. The submission of your CID must be accompanied by payment of the service fee listed in § 550.125.
+
+(b) If you decide not to develop a reservoir you committed to develop in your CID, you must submit one original and two copies of a revision to the CID to the appropriate OCS Region. The revision to the CID must be submitted within 14 calendar days after making your decision not to develop the reservoir and before the reservoir is bypassed. The Regional Supervisor will approve or disapprove any such revision to the original CID. If the Regional Supervisor disapproves the revision, you must develop the reservoir as described in the original CID.

@@ -1,6 +1,4 @@
-##### § 668.43 Institutional information. #####
-
-Link to an amendment published at 88 FR 70187, Oct. 10, 2023.Link to an amendment published at 88 FR 74700, Oct. 31, 2023.
+##### § 668.43 Institutional and programmatic information. #####
 
 (a) Institutional information that the institution must make readily available to enrolled and prospective students under this subpart includes, but is not limited to—
 
@@ -32,7 +30,7 @@ Link to an amendment published at 88 FR 70187, Oct. 10, 2023.Link to an amendmen
 
 (iv) Any plans by the institution for improving the academic program of the institution, upon a determination by the institution that such a plan exists;
 
-(v) If an educational program is designed to meet educational requirements for a specific professional license or certification that is required for employment in an occupation, or is advertised as meeting such requirements, information regarding whether completion of that program would be sufficient to meet licensure requirements in a State for that occupation, including—
+(v) If an educational program is designed to meet educational requirements for a specific professional license or certification that is required for employment in an occupation, or is advertised as meeting such requirements, a list of all States where the institution has determined, including as part of the institution's obligation under § 668.14(b)(32), that the program does and does not meet such requirements; and
 
 (A) A list of all States for which the institution has determined that its curriculum meets the State educational requirements for licensure or certification;
 
@@ -102,9 +100,9 @@ Link to an amendment published at 88 FR 70187, Oct. 10, 2023.Link to an amendmen
 
 (b) The institution must make available for review to any enrolled or prospective student upon request, a copy of the documents describing the institution's accreditation and its State, Federal, or tribal approval or licensing. The institution must also provide its students or prospective students with contact information for filing complaints with its accreditor and with its State approval or licensing entity and any other relevant State official or agency that would appropriately handle a student's complaint.
 
-(c)(1) If the institution has made a determination under paragraph (a)(5)(v) of this section that the program's curriculum does not meet the State educational requirements for licensure or certification in the State in which a prospective student is located, or if the institution has not made a determination regarding whether the program's curriculum meets the State educational requirements for licensure or certification, the institution must provide notice to that effect to the student prior to the student's enrollment in the program.
+(c)(1) If the institution has made a determination under paragraph (a)(5)(v) of this section that the program's curriculum does not meet the State educational requirements for licensure or certification in the State in which a prospective student is located, or if the institution has not made a determination regarding whether the program's curriculum meets the State educational requirements for licensure or certification, the institution must provide notice to that effect to the student prior to the student's enrollment in the institution in accordance with § 668.14(b)(32).
 
-(2) If the institution makes a determination under paragraph (a)(5)(v)(B) of this section that a program's curriculum does not meet the State educational requirements for licensure or certification in a State in which a student who is currently enrolled in such program is located, the institution must provide notice to that effect to the student within 14 calendar days of making such determination.
+(2) If the institution makes a determination under paragraph (a)(5)(v) of this section that a program's curriculum does not meet the State educational requirements for licensure or certification in a State in which a student who is currently enrolled in such program is located, the institution must provide notice to that effect to the student within 14 calendar days of making such determination.
 
 (3)(i) Disclosures under paragraphs (c)(1) and (2) of this section must be made directly to the student in writing, which may include through email or other electronic communication.
 
@@ -114,4 +112,42 @@ Link to an amendment published at 88 FR 70187, Oct. 10, 2023.Link to an amendmen
 
 (C) An institution must make a determination regarding the State in which a student is located at the time of the student's initial enrollment in an educational program and, if applicable, upon formal receipt of information from the student, in accordance with the institution's procedures under paragraph (c)(3)(ii)(A) of this section, that the student's location has changed to another State.
 
-(Approved by the Office of Management and Budget under control number 1845-0022) [64 FR 59068, Nov. 1, 1999, as amended at 74 FR 55943, Oct. 29, 2009; 75 FR 66954, Oct. 29, 2010; 84 FR 58932, Nov. 1, 2019; 87 FR 65495, Oct. 28, 2022]
+(d)(1) *Program information website.* Beginning on July 1, 2026, the Secretary will establish and maintain a website with information about institutions and their educational programs. For this purpose, an institution must provide to the Department such information about the institution and its programs as the Secretary prescribes through a notice published in the Federal Register. The Secretary may conduct consumer testing to inform the design of the website.
+
+(i) The website must include, but is not limited to, the following items, to the extent reasonably available:
+
+(A) The published length of the program in calendar time (*i.e.,* weeks, months, years).
+
+(B) The total number of individuals enrolled in the program during the most recently completed award year.
+
+(C) The total cost of tuition and fees, and the total cost of books, supplies, and equipment, that a student would incur for completing the program within the published length of the program.
+
+(D) Of the individuals enrolled in the program during the most recently completed award year, the percentage who received a Direct Loan Program loan, a private loan, or both for enrollment in the program.
+
+(E) As calculated by the Secretary, the median loan debt of students who completed the program during the most recently completed award year or for all students who completed or withdrew from the program during that award year.
+
+(F) As provided by the Secretary, the median earnings of students who completed the program or of all students who completed or withdrew from the program, during a period determined by the Secretary.
+
+(G) Whether the program is programmatically accredited and the name of the accrediting agency, as reported to the Secretary.
+
+(H) As calculated by the Secretary, the program's debt-to-earnings rates.
+
+(I) As calculated by the Secretary, the program's earnings premium measure. (ii) The website may also include other information deemed appropriate by the Secretary, such as the following items:
+
+(A) The primary occupations (by name, SOC code, or both) that the program prepares students to enter, along with links to occupational profiles on O\*NET (*www.onetonline.org*) or its successor site.
+
+(B) As reported to or calculated by the Secretary, the program or institution's completion rates and withdrawal rates for full-time and less-than-full-time students.
+
+(C) As calculated by the Secretary, the medians of the total cost of tuition and fees, and the total cost of books, supplies, and equipment, and the total net cost of attendance paid by students completing the program.
+
+(D) As calculated by the Secretary, the loan repayment rate for students or graduates who entered repayment on Direct Loan Program loans during a period determined by the Secretary.
+
+(E) Whether students who graduate from a program are required to complete postgraduation training program to obtain licensure before eligible for independent practice.
+
+(2) *Program web pages.* The institution must provide a prominent link to, and any other needed information to access, the website maintained by the Secretary on any web page containing academic, cost, financial aid, or admissions information about the program or institution. The Secretary may require the institution to modify a web page if the information is not sufficiently prominent, readily accessible, clear, conspicuous, or direct.
+
+(3) *Distribution to prospective students.* The institution must provide the relevant information to access the website maintained by the Secretary to any prospective student, or a third party acting on behalf of the prospective student, before the prospective student signs an enrollment agreement, completes registration, or makes a financial commitment to the institution.
+
+(4) *Distribution to enrolled students.* The institution must provide the relevant information to access the website maintained by the Secretary to any enrolled title IV, HEA recipient prior to the start date of the first payment period associated with each subsequent award year in which the student continues enrollment at the institution.
+
+(Approved by the Office of Management and Budget under control number 1845-0022) [64 FR 59068, Nov. 1, 1999, as amended at 74 FR 55943, Oct. 29, 2009; 75 FR 66954, Oct. 29, 2010; 84 FR 58932, Nov. 1, 2019; 87 FR 65495, Oct. 28, 2022; 88 FR 70187, Oct. 10, 2023; 88 FR 74700, Oct. 31, 2023]

@@ -1,7 +1,5 @@
 ##### § 220.7 Requirements for participation. #####
 
-Link to an amendment published at 89 FR 32080, Apr. 25, 2024.
-
 (a) The School Food Authority shall make written application to the State agency, or FNSRO where applicable, for any school in which it desires to operate the School Breakfast Program, if such school did not participate in the Program in the prior fiscal year. The School Food Authority shall also submit for approval, either with the application or at the request of the State agency, or FNSRO where applicable, a free and reduced price policy statement in accordance with part 245 of this chapter. A School Food Authority which simultaneously makes application for the National School Lunch Program and the School Breakfast Program shall submit one free and reduced price policy statement which shall provide that the terms, conditions, and eligibility criteria set forth in such policy statement shall apply to the service of free and reduced price lunches and to the service of free and reduced price breakfasts. If, at the time application is made for the School Breakfast Program, a School Food Authority has an approved free and reduced price policy statement on file with the State agency, or FNSRO where applicable, for the National School Lunch Program, it need only confirm in writing that such approved policy statement will also apply to the operation of its School Breakfast Program. Applications for the School Breakfast Program shall not be approved in the absence of an approved free and reduced price policy statement.
 
 (1) A school which also either participates in the National School Lunch Program or only receives donations of commodities for its nonprofit lunch program under the provisions of part 250 of this chapter (commodity only school) shall apply the same set of eligibility criteria so that children who are eligible for free lunches shall also be eligible for free breakfasts and children who are eligible for reduced price lunches shall also be eligible for reduced price breakfasts.
@@ -44,9 +42,9 @@ Link to an amendment published at 89 FR 32080, Apr. 25, 2024.
 
 (i) The food service management company shall maintain such records as the school food authority will need to support its Claim for Reimbursement under this part, and shall, at a minimum, report claim information to the school food authority promptly at the end of each month. Such records shall be made available to the school food authority, upon request, and shall be available for a period of 3 years from the date of the submission of the final Financial Status Report, for inspection and audit by representatives of the State agency, of the Department, and of the Government Accountability Office at any reasonable time and place. If audit findings have not been resolved, the records shall be retained beyond the three-year period (as long as required for the resolution of the issues raised by the audit);
 
-(ii) The food service management company shall have State or local health certification for any facility outside the school in which it proposes to prepare meals and the food service management company shall maintain this health certification for the duration of the contract; and
+(ii) The food service management company must have State or local health certification for any facility outside the school in which it proposes to prepare meals and the food service management company must maintain this health certification for the duration of the contract;
 
-(iii) No payment is to be made for meals that are spoiled or unwholesome at time of delivery, do not meet detailed specifications as developed by the school food authority for each food component specified in § 220.8, or do not otherwise meet the requirements of the contract. Specifications shall cover items such a grade, purchase units, style, condition, weight, ingredients, formulations, and delivery time.
+(iii) No payment is to be made for meals that are spoiled or unwholesome at time of delivery, do not meet detailed specifications as developed by the school food authority for each meal component specified in § 220.8, or do not otherwise meet the requirements of the contract. Specifications will cover items such a grade, purchase units, style, condition, weight, ingredients, formulations, and delivery time; and
 
 (iv) Provisions in part 250, subpart D of this chapter must be included to ensure the value of donated foods, *i.e.,* USDA Foods, are fully used in the nonprofit food service and credited to the nonprofit school food service account.
 
@@ -58,19 +56,19 @@ Link to an amendment published at 89 FR 32080, Apr. 25, 2024.
 
 (ii) In accordance with the financial management system established under § 220.13(i) of this part, use all revenues received by such food service only for the operation or improvement of that food service *Except that,* facilities, equipment, and personnel support with funds provided to a school food authority under this part may be used to support a nonprofit nutrition program for the elderly, including a program funded under the Older Americans Act of 1965 (42 U.S.C. 3001 *et seq.*);
 
-(iii) Revenues received by the nonprofit school food service shall not be used to purchase land or buildings or to contruct buildings;
+(iii) Revenues received by the nonprofit school food service must not be used to purchase land or buildings or to construct buildings;
 
 (iv) Limit its net cash resources to an amount that does not exceed three months average expenditure for its nonprofit school food service or such other amount as may be approved by the State agency; and
 
 (v) Observe the limitations on any competitive food service as set forth in § 220.12 of this part;
 
-(2) Serve breakfasts which meet the minimum requirements prescribed in § 220.8, during a period designated as the breakfast period by the school;
+(2) Serve breakfasts which meet the minimum requirements prescribed in § 220.8;
 
 (3) Price the breakfast as a unit;
 
-(4) Supply breakfast without cost or at reduced price to all children who are determined by the School Food Authority to be unable to pay the full price thereof in accordance with the free and reduced price policy statements approved under part 245 of this chapter;
+(4) Serve breakfast free or at a reduced price to all children who are determined by the local education agency to be eligible for such meals under part 245 of this chapter;
 
-(5) Make no discrimination against any child because of his inability to pay the full price of the breakfasts;
+(5) Make no discrimination against any child because of the child's inability to pay the full price of the breakfasts;
 
 (6) Claim reimbursement at the assigned rates only for breakfasts served in accordance with the agreement;
 
@@ -78,7 +76,7 @@ Link to an amendment published at 89 FR 32080, Apr. 25, 2024.
 
 (8) Maintain, in the storage, preparation and service of food, proper sanitation and health standards in conformance with all applicable State and local laws and regulations, and comply with the food safety requirements in paragraph (a)(2) and paragraph (a)(3) of this section;
 
-(9) Purchase, in as large quantities as may be efficiently utilized in its nonprofit school food service, foods designated as plentiful by the State Agency, or CFPDO, where applicable;
+(9) Purchase, in as large quantities as may be efficiently utilized in its nonprofit school food service, foods designated as plentiful by the State agency;
 
 (10) Accept and use, in as large quantities as may be efficiently utilized in its nonprofit school food service, such foods as may be offered as a donation by the Department;
 
@@ -86,7 +84,7 @@ Link to an amendment published at 89 FR 32080, Apr. 25, 2024.
 
 (12) Maintain a financial management system as prescribed by the State agency, or FNSRO where applicable;
 
-(13) Upon request, make all accounts and records pertaining to its nonprofit school food service available to the State agency, to FNS and to OA for audit or review at a reasonable time and place. Such records shall be retained for a period of three years after the end of the fiscal year to which they pertain, except that if audit findings have not been resolved, the records shall be retained beyond the three-year period as long as required for the resolution of the issues raised by the audit;
+(13) Upon request, make all accounts and records pertaining to its nonprofit school food service available to the State agency and to FNS for audit or review at a reasonable time and place. Such records must be retained for a period of three years after the end of the fiscal year to which they pertain, except that if audit findings have not been resolved, the records must be retained beyond the three-year period as long as required for the resolution of the issues raised by the audit;
 
 (14) Retain documentation of free or reduced price eligibility as follows:
 
@@ -112,6 +110,6 @@ Link to an amendment published at 89 FR 32080, Apr. 25, 2024.
 
 (g) *Program evaluations.* Local educational agencies, school food authorities, schools, and contractors must cooperate in studies and evaluations conducted by or on behalf of the Department, related to programs authorized under the Richard B. Russell National School Lunch Act and the Child Nutrition Act of 1966.
 
-(h) Local educational agencies must comply with the provisions of § 210.30 of this chapter regarding the development, implementation, periodic review and update, and public notification of the local school wellness policy.
+(h) Local educational agencies must comply with the provisions of § 210.31 of this chapter regarding the development, implementation, periodic review and update, and public notification of the local school wellness policy.
 
 (44 U.S.C. 3506; sec. 819, Pub. L. 97-35, 95 Stat. 533 (42 U.S.C. 1759a, 1773 and 1757); Pub. L. 79-396, 60 Stat. 231 (42 U.S.C. 1751); Pub. L. 89-647, 80 Stat. 885-890 (42 U.S.C. 1773); Pub. L. 91-248, 84 Stat. 207 (42 U.S.C. 1759))[32 FR 34, Jan. 5, 1967]Editorial Note:For Federal Register citations affecting § 220.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

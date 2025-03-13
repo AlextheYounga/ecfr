@@ -1,7 +1,5 @@
 ##### § 457.8 The application and policy. #####
 
-Link to an amendment published at 89 FR 53830, June 27, 2024.
-
 (a) Application for insurance on a form prescribed by the Corporation, or approved by the Corporation, must be made by any person who wishes to participate in the program, to cover such person's share in the insured crop as landlord, owner-operator, crop ownership interest, or tenant. No other person's interest in the crop may be insured under an application unless that person's interest is clearly shown on the application and unless that other person's interest is insured in accordance with the procedures of the Corporation. The application must be submitted to the Corporation or the reinsured company through the crop insurance agent and must be submitted on or before the applicable sales closing date on file.
 
 (b) FCIC or the reinsured company may reject or discontinue the acceptance of applications in any county or of any individual application upon FCIC's determination that the insurance risk is excessive.
@@ -144,7 +142,13 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *End of insurance period, date of.* The date upon which your crop insurance coverage ceases for the crop year (see Crop Provisions and section 11).
 
-*Enterprise unit.* All insurable acreage of the same insured crop or all insurable irrigated or non-irrigated acreage of the same insured crop in the county in which you have a share on the date coverage begins for the crop year, provided the requirements of section 34 are met.
+*Enterprise unit.* All insurable acreage in the county in which you have a share on the date coverage begins for the crop year, provided you meet the requirements in section 34 of:
+
+(1) The same insured crop;
+
+(2) Irrigated or non-irrigated acreage of the same insured crop; or
+
+(3) Acreage grown under an organic farming practice or acreage not grown under an organic farming practice of the same insured crop.
 
 *Farm management record.* A contemporaneous record provided by you that documents your actual production recorded at the time of harvest, storing of the crop, or use of the crop for feed, and can be used to substantiate your actual production reported on the production report.
 
@@ -204,6 +208,8 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Negligence.* The failure to use such care as a reasonably prudent and careful person would use under similar circumstances.
 
+*New breaking acreage.* Acreage which has not been planted and harvested, or insured within the 4 previous crop years, in accordance with section 9(a).
+
 *New insured.* A person who was not insured the previous crop year without respect to an insurance provider or plan of insurance.
 
 *New producer.* A person, including anyone with a substantial beneficial interest in the person, who has not produced the insured crop in the county, whether or not such crop was insured, for more than two APH crop years prior to the current crop year.
@@ -244,7 +250,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Production report.* A written report provided by you in accordance with section 3 showing your annual production that will be used by us to determine your approved yield for insurance purposes. The report contains yield information for the current and previous APH crop year(s), when applicable, including planted acreage and production. This report must be supported by acceptable production records.
 
-*Production reporting date.* The date, provided in the actuarial documents, by which you are required to provide a production report at the beginning of a crop year if you meet the requirements in sections 3(f)(1)(i) through (iv).
+*Production reporting date.* The date contained in the actuarial documents by which you are required to provide a production report at the beginning of a crop year if you meet the requirements in sections 3(f)(1)(i) through (iv).
 
 *Prohibited substance.* Any biological, chemical, or other agent that is prohibited from use or is not included in the organic standards for use on any certified organic, transitional or buffer zone acreage. Lists of such substances are contained at 7 CFR part 205.
 
@@ -310,7 +316,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *USDA.* United States Department of Agriculture.
 
-*Variable T-Yield.* The applicable T-Yield multiplied by a percentage factor and used as an annual yield in the APH database according to FCIC approved procedures, or as otherwise provided in the policy. The percent of the applicable T-Yield is determined by the number of years of acceptable actual, assigned, or temporary yields available for the crop in the county.
+*Variable T-Yield.* The applicable T-Yield multiplied by a percentage factor and used as an annual yield in the APH database according to FCIC approved procedures, or as otherwise provided in the policy. The percent of the applicable T-Yield is determined by the number of years of acceptable actual, assigned, or temporary yields available for the crop in the county, unless otherwise specified by FCIC approved procedures.
 
 *Verifiable record.* A contemporaneous record from a disinterested third party that substantiates your actual production reported on the production report. The record must be a document or evidence from a disinterested third party that is accurate and can be validated or verified by us.
 
@@ -1070,89 +1076,93 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (4) Planted following the same crop on the same acreage and the first planting of the crop has been harvested in the same crop year unless specifically permitted by the Crop Provisions or the Special Provisions (for example, the second planting of grain sorghum would not be insurable if grain sorghum had already been planted and harvested on the same acreage during the crop year);
 
-(5) That is planted for the development or production of hybrid seed or for experimental purposes, unless permitted by the Crop Provisions or by written agreement to insure such crop; or
+(5) That is planted for the development or production of hybrid seed or for experimental purposes, unless permitted by the Crop Provisions or by written agreement to insure such crop;
 
-(6) That is used solely for wildlife protection or management. If the lease states that specific acreage must remain unharvested, only that acreage is uninsurable. If the lease specifies that a percentage of the crop must be left unharvested, your share will be reduced by such percentage.
+(6) That is used solely for wildlife protection or management. If the lease states that specific acreage must remain unharvested, only that acreage is uninsurable. If the lease specifies that a percentage of the crop must be left unharvested, your share will be reduced by such percentage; or
+
+(7) That is reported as a cover crop to a USDA agency.
+
+(i) No indemnity will be paid for such acreage and any indemnity already received must be repaid.
+
+(ii) You will still be required to pay 60 percent of the premium you would otherwise be required to pay on those acres.
 
 (c) Although certain policy documents may state that a crop type, class, variety or practice is not insurable, it does not mean all other crop types, classes, varieties or practices are insurable. To be insurable the crop type, class, variety or practice must meet all the conditions in this section.
 
 9. Insurable Acreage
 
-(a) All acreage planted to the insured crop in the county in which you have a share:
+The insurable acreage is all the acreage planted to the insured crop in the county in which you have a share, except as provided in section 9(d). New breaking acreage may be subject to a reduced approved yield in accordance with section 9(b) and native sod acreage may be subject to reduced premium subsidy and approved yield in accordance with section 9(c).
 
-(1) Except as provided in section 9(a)(2), is insurable if the acreage has been planted and harvested or insured (including insured acreage that was prevented from being planted) in any one of the three previous crop years. Acreage that has not been planted and harvested (grazing is not considered harvested for the purposes of section 9(a)(1)) or insured in at least one of the three previous crop years may still be insurable if:
+(a) New breaking acreage consists of acreage which has not been planted and harvested, or insured, in any 1 of the 4 previous crop years.
 
-(i) Such acreage was not planted:
+(1) For the purposes of determining new breaking acreage:
 
-(A) In at least two of the three previous crop years to comply with any other USDA program;
+(i) Planted includes annual regrowth of a perennial crop;
 
-(B) Due to the crop rotation, the acreage would not have been planted in the previous three years (*e.g.,* a crop rotation of corn, soybeans, and alfalfa; and the alfalfa remained for four years before the acreage was planted to corn again); or
+(ii) Harvested does not include grazing;
 
-(C) Because a perennial tree, vine, or bush crop was on the acreage in at least two of the previous three crop years;
+(iii) Insured includes insured prevented planting acreage; and
 
-(ii) Such acreage constitutes five percent or less of the insured planted acreage in the unit;
+(iv) Only crops eligible for insurance under these Basic Provisions are considered when determining if the acreage has been planted, harvested, or insured.
 
-(iii) Such acreage was not planted or harvested because it was pasture or rangeland, the crop to be insured is also pasture or rangeland, and the Crop Provisions, Special Provisions, or a written agreement specifically allow insurance for such acreage; or
+(2) Acreage that was not planted in at least 3 of the 4 previous crop years to comply with any other USDA program will not be considered new breaking acreage.
 
-(iv) The Crop Provisions, Special Provisions, or a written agreement specifically allow insurance for such acreage; or
+(b) New breaking acreage reduction—New breaking acreage is insurable at 85 percent of the applicable T-Yield, unless that acreage:
 
-(2) Is not insurable if:
+(1) Is identified as native sod acreage in accordance with section 9(c), for which the native sod provisions in section 9(c) will apply;
 
-(i) The only crop that has been planted and harvested on the acreage in the three previous crop years is a cover, hay (except wheat harvested for hay) or forage crop (except insurable silage). However, such acreage may be insurable only if:
+(2) Is uninsurable acreage in accordance with section 9(d); or
 
-(A) The crop to be insured is a hay or forage crop and the Crop Provisions, Special Provisions, or a written agreement specifically allow insurance for such acreage; or
+(3) Constitutes 5 percent or less of the insured planted acreage in the unit, for which the new breaking reduction to 85 percent of the applicable T-Yield will not apply.
 
-(B) The hay or forage crop was part of a crop rotation;
+(c) Native sod acreage reductions—Native sod acreage in the states of Iowa, Minnesota, Montana, Nebraska, North Dakota, or South Dakota may receive reduced premium subsidy and reduced approved yield. These reductions are applicable during the first 4 crop years of planting on native sod acreage that has been tilled beginning on February 8, 2014, and ending on December 20, 2018, and during 4 cumulative crop years of insurance within the first 10 crop years after initial tillage on native sod acreage tilled after December 20, 2018. For such native sod acreage:
 
-(ii) The acreage has been strip-mined. However, such acreage may be insurable only if:
+(1) Additional coverage policies receive a premium subsidy that is 50 percentage points less than would otherwise be provided on acreage not qualifying as native sod. If the premium subsidy applicable to these acres is less than 50 percent before the reduction, you will receive no premium subsidy.
 
-(A) An agricultural commodity, other than a cover, hay (except wheat harvested for hay), or forage crop (except insurable silage) has been harvested from the acreage for at least five crop years after the strip-mined land was reclaimed; or
+(2) The approved yield is limited to 65 percent of the applicable T-Yield.
 
-(B) A written agreement specifically allows insurance for such acreage;
+(3) Cumulative native sod acreage that is 5 acres or less in the county is not subject to the reduced premium subsidy in section 9(c)(1) or the reduced approved yield in section 9(c)(2).
 
-(iii) The actuarial documents do not provide the information necessary to determine the premium rate, unless insurance is allowed by a written agreement;
+(d) The acreage is not insurable if:
 
-(iv) The insured crop is damaged and it is practical to replant the insured crop, but the insured crop is not replanted;
+(1) The acreage has been strip-mined. However, such acreage may be insurable only if:
 
-(v) The acreage is interplanted, unless insurance is allowed by the Crop Provisions;
+(i) An agricultural commodity, other than a cover, hay (except wheat harvested for hay), or forage crop (except insurable silage) has been harvested from the acreage for at least 5 crop years after the strip-mined land was reclaimed; or
 
-(vi) The acreage is otherwise restricted by the Crop Provisions or Special Provisions;
+(ii) A written agreement specifically allows insurance for such acreage;
 
-(vii) The acreage is planted in any manner other than as specified in the policy provisions for the crop unless a written agreement specifically allows insurance for such planting;
+(2) The actuarial documents do not provide the information necessary to determine the premium rate, unless insurance is allowed by a written agreement;
 
-(viii) The acreage is of a second crop, if you elect not to insure such acreage when an indemnity for a first insured crop may be subject to reduction in accordance with the provisions of section 15 and you intend to collect an indemnity payment that is equal to 100 percent of the insurable loss for the first insured crop acreage. This election must be made on a first insured crop unit basis (*e.g.,* if the first insured crop unit contains 40 planted acres that may be subject to an indemnity reduction, then no second crop can be insured on any of the 40 acres). In this case:
+(3) The insured crop is damaged and it is practical to replant the insured crop, but the insured crop is not replanted;
 
-(A) If the first insured crop is insured under this policy, you must provide written notice to us of your election not to insure acreage of a second crop at the time the first insured crop acreage is released by us (if no acreage in the first insured crop unit is released, this election must be made by the earlier of the acreage reporting date for the second crop or when you sign the claim for indemnity for the first insured crop) or, if the first insured crop is insured under Area Risk Protection Insurance (7 CFR part 407), this election must be made before the second crop insured under this policy is planted, and if you fail to provide such notice, the second crop acreage will be insured in accordance with the applicable policy provisions and you must repay any overpaid indemnity for the first insured crop;
+(4) The acreage is interplanted, unless insurance is allowed by the Crop Provisions;
 
-(B) In the event a second crop is planted and insured with a different insurance provider, or planted and insured by a different person, you must provide written notice to each insurance provider that a second crop was planted on acreage on which you had a first insured crop; and
+(5) The acreage is otherwise restricted by the Crop Provisions or Special Provisions;
 
-(C) You must report the crop acreage that will not be insured on the applicable acreage report; or
+(6) The acreage is planted in any manner other than as specified in the policy provisions for the crop unless a written agreement specifically allows insurance for such planting;
 
-(ix) The acreage is of a crop planted following a second crop or following an insured crop that is prevented from being planted after a first insured crop, unless it is a practice that is generally recognized by agricultural experts or organic agricultural experts for the area to plant three or more crops for harvest on the same acreage in the same crop year, and additional coverage insurance provided under the authority of the Act is offered for the third or subsequent crop in the same crop year. Insurance will only be provided for a third or subsequent crop as follows:
+(7) The acreage is of a second crop, if you elect not to insure such acreage when an indemnity for a first insured crop may be subject to reduction in accordance with the provisions of section 15 and you intend to collect an indemnity payment that is equal to 100 percent of the insurable loss for the first insured crop acreage. This election must be made on a first insured crop unit basis (for example, if the first insured crop unit contains 40 planted acres that may be subject to an indemnity reduction, then no second crop can be insured on any of the 40 acres). In this case:
 
-(A) You must provide records acceptable to us that show:
+(i) If the first insured crop is insured under this policy, you must provide written notice to us of your election not to insure acreage of a second crop at the time the first insured crop acreage is released by us (if no acreage in the first insured crop unit is released, this election must be made by the earlier of the acreage reporting date for the second crop or when you sign the claim for indemnity for the first insured crop) or, if the first insured crop is insured under Area Risk Protection Insurance (7 CFR part 407), this election must be made before the second crop insured under this policy is planted, and if you fail to provide such notice, the second crop acreage will be insured in accordance with the applicable policy provisions and you must repay any overpaid indemnity for the first insured crop;
 
-(*1*) You have produced and harvested the insured crop following two other crops harvested on the same acreage in the same crop year in at least two of the last four years in which you produced the insured crop; or
+(ii) In the event a second crop is planted and insured with a different insurance provider, or planted and insured by a different person, you must provide written notice to each insurance provider that a second crop was planted on acreage on which you had a first insured crop; and
 
-(*2*) The applicable acreage has had three or more crops produced and harvested on it in the same crop year in at least two of the last four years in which the insured crop was grown on the acreage; and
+(iii) You must report the crop acreage that will not be insured on the applicable acreage report; or
 
-(B) The amount of insurable acreage will not exceed 100 percent of the greatest number of acres for which you provide the records required in section 9(a)(2)(ix)(A).
+(8) The acreage is of a crop planted following a second crop or following an insured crop that is prevented from being planted after a first insured crop, unless it is a practice that is generally recognized by agricultural experts or organic agricultural experts for the area to plant 3 or more crops for harvest on the same acreage in the same crop year, and additional coverage insurance provided under the authority of the Act is offered for the third or subsequent crop in the same crop year. Insurance will only be provided for a third or subsequent crop as follows:
 
-(b) If insurance is provided for an irrigated practice, you must report as irrigated only that acreage for which you have adequate facilities and adequate water, or the reasonable expectation of receiving adequate water at the time coverage begins, to carry out a good irrigation practice. If you knew or had reason to know that your water may be reduced before coverage begins, no reasonable expectation exists.
+(i) You must provide records acceptable to us that show:
 
-(c) Notwithstanding the provisions in section 8(b)(2), if acreage is irrigated and a premium rate is not provided for an irrigated practice, you may either report and insure the irrigated acreage as “non-irrigated,” or report the irrigated acreage as not insured. (If you elect to insure such acreage under a non-irrigated practice, your irrigated yield will only be used to determine your approved yield if you continue to use a good irrigation practice. If you do not use a good irrigation practice, you will receive a yield determined in accordance with section 3(h)(3).)
+(A) You have produced and harvested the insured crop following 2 other crops harvested on the same acreage in the same crop year in at least 2 of the last 4 years in which you produced the insured crop; or
 
-(d) We may restrict the amount of acreage that we will insure to the amount allowed under any acreage limitation program established by the United States Department of Agriculture if we notify you of that restriction prior to the sales closing date.
+(B) The applicable acreage has had 3 or more crops produced and harvested on it in the same crop year in at least 2 of the last 4 years in which the insured crop was grown on the acreage; and
 
-(e) Except as provided in section 9(f), and in accordance with section 9(g), in the states of Iowa, Minnesota, Montana, Nebraska, North Dakota, or South Dakota, native sod acreage may be insured if the requirements of section 9(a) have been met but will:
+(ii) The amount of insurable acreage will not exceed 100 percent of the greatest number of acres for which you provide the records required in section 9(d)(8)(i).
 
-(1) Notwithstanding the provisions in section 3 regarding your production guarantee, receive a production guarantee (per acre) that is based on 65 percent of the transitional yield for the county; and
+(e) If insurance is provided for an irrigated practice, you must report as irrigated only that acreage for which you have adequate facilities and adequate water, or the reasonable expectation of receiving adequate water at the time coverage begins, to carry out a good irrigation practice. If you knew or had reason to know that your water may be reduced before coverage begins, no reasonable expectation exists.
 
-(2) For additional coverage policies, receive a premium subsidy that is 50 percentage points less than would otherwise be provided on acreage not qualifying as native sod. If the premium subsidy applicable to these acres is less than 50 percent before the reduction, you will receive no premium subsidy.
+(f) Notwithstanding the provisions in section 8(b)(2), if acreage is irrigated and a premium rate is not provided for an irrigated practice, you may either report and insure the irrigated acreage as “non-irrigated,” or report the irrigated acreage as not insured. (If you elect to insure such acreage under a non-irrigated practice, your irrigated yield will only be used to determine your approved yield if you continue to use a good irrigation practice. If you do not use a good irrigation practice, you will receive a yield determined in accordance with section 3(h)(3).)
 
-(f) Section 9(e) is not applicable to cumulative native sod acreage that is five acres or less in the county.
-
-(g) Section 9(e) is applicable during the first 4 crop years of planting on native sod acreage that has been tilled beginning on February 8, 2014, and ending on December 20, 2018. Section 9(e) is applicable during 4 cumulative crop years of insurance within the first 10 crop years after initial tillage on native sod acreage tilled after December 20, 2018.
+(g) We may restrict the amount of acreage that we will insure to the amount allowed under any acreage limitation program established by USDA if we notify you of that restriction prior to the sales closing date.
 
 10. Share Insured
 
@@ -1480,7 +1490,17 @@ Our Duties—
 
 (6) If you do not have records of acreage and production specific to the double cropped acreage, as required in section 15(h)(5), but instead have records that combine production from acreage you double cropped with records of production from acreage you did not double crop, we will allocate the first and second crop production to the specific acreage in proportion to the liability for the acreage that was and was not double cropped.
 
-(7) With respect to double cropped acreage, if the two crops you have double cropped are insured under policies with different double crop history records requirements (*e.g.,* records of acreage and production), the less restrictive requirements may be followed to satisfy double cropping requirements for both crops. For example, you have 20 acres of annual forage wheat for grazing. On the same acreage you plant and insure cotton. The annual forage double cropping provisions do not include double cropping record history requirements. If the annual forage double cropping provisions are met, you are eligible for a full indemnity payment on both the annual forage wheat and the cotton.
+(7) Coordination of Coverage—For double cropped acreage when one of the crops is insured under this policy and one of the crops is insured under other crop insurance authorized under the Act with less restrictive double crop history records requirements (for example, annual forage insured under the Rainfall Index Plan Common Policy, Basic Provisions, does not require records of acreage and production), the double cropping history requirements in sections 15(h)(5) and (6) do not apply. Instead:
+
+(i) For the crop insured under this policy, you may receive a full indemnity if you meet each of the double cropping requirements in sections 15(h)(1) through (3), regardless of which crop was the first insured crop or the second crop. If you do not meet each of the double cropping requirements in sections 15(h)(1) through (3), the indemnity reductions in section 15(e)(2) apply.
+
+(ii) Prevented Planting—For the crop insured under this policy, you may receive a full prevented planting payment if you:
+
+(A) Meet the requirements in sections 15(h)(1) through (4) and sections 17(f)(4)(ii) and (iii); and
+
+(B) Provide records, acceptable to us, proving that you have a history of insuring the crop under other crop insurance authorized under the Act.
+
+(8) Dual Use—For a single crop that is insured both under this policy and under other crop insurance authorized under the Act for different end uses (for example, wheat insured for grain under the Small Grains Crop Provisions and wheat insured as annual forage under the Annual Forage Crop Provisions), that is then followed by a crop insured under this policy, the double cropping history requirements in sections 15(h)(1) through (6) apply to the crops insured under this policy.
 
 (i) If you provided acceptable records in accordance with section 15(h), your double cropping history is limited to the highest number of acres double cropped within the applicable 4-year period as determined in section 15(h)(5):
 
@@ -2072,19 +2092,25 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 22. Other Insurance
 
-(a) Other Like Insurance—Nothing in this section prevents you from obtaining other insurance not authorized under the Act. However, unless specifically required by policy provisions, you must not obtain any other crop insurance authorized under the Act on your share of the insured crop. If you cannot demonstrate that you did not intend to have more than one policy in effect, you may be subject to the consequences authorized under this policy, the Act, or any other applicable statute. If you can demonstrate that you did not intend to have more than one policy in effect (for example, an application to transfer your policy or written notification to an insurance provider that states you want to purchase, or transfer, insurance and you want any other policies for the crop canceled would demonstrate you did not intend to have duplicate policies), and:
+(a) Other Like Insurance—Nothing in this section prevents you from obtaining other insurance not authorized under the Act. However, unless specifically required by policy provisions, you must not obtain any other crop insurance authorized under the Act on your share of the insured crop.
 
-(1) One is an additional coverage policy and the other is a Catastrophic Risk Protection policy:
+(1) You must demonstrate that you did not intend to have more than one policy in effect (for example, an application to transfer your policy or written notification to an insurance provider that states you want to purchase, or transfer insurance and you want any other policies for the crop canceled would demonstrate you did not intend to have duplicate policies), and:
 
-(i) The additional coverage policy will apply if both policies are with the same insurance provider or, if not, both insurance providers agree; or
+(i) One is an additional coverage policy and the other is a Catastrophic Risk Protection policy:
 
-(ii) The policy with the earliest date of application will be in force if both insurance providers do not agree; or
+(A) If both policies are with the same insurance provider, the additional coverage policy will apply and the Catastrophic Risk Protection policy will be void;
 
-(2) Both are additional coverage policies or both are Catastrophic Risk Protection policies, the policy with the earliest date of application will be in force and the other policy will be void, unless both policies are with:
+(B) If both policies are with different insurance providers and both insurance providers agree, the additional coverage policy will apply and the Catastrophic Risk Protection policy will be void; or
 
-(i) The same insurance provider and the insurance provider agrees otherwise; or
+(C) If both policies are with different insurance providers and both insurance providers do not agree, the policy with the earliest application date will be in force and the other policy will be void; or
 
-(ii) Different insurance providers and both insurance providers agree otherwise.
+(ii) Both are additional coverage policies, or both are Catastrophic Risk Protection policies, the policy with the earliest application date will be in force and the other policy will be void, unless both policies are with:
+
+(A) The same insurance provider and the insurance provider agrees to void the policy with the earliest application date; or
+
+(B) Different insurance providers and both insurance providers agree to void the policy with the earliest application date.
+
+(2) If you cannot demonstrate that you did not intend to have more than one policy in effect, you may be subject to the consequences authorized under this policy, the Act, or any other applicable statute.
 
 (b) *Other Insurance Against Fire.* If you have other insurance, whether valid or not, against damage to the insured crop by fire during the insurance period, and you have not excluded coverage for fire from this policy, we will be liable for loss due to fire caused by a naturally occurring event only for the smaller of:
 
@@ -2216,11 +2242,15 @@ If you transfer any part of your share during the crop year, you may transfer yo
 
 (d) If we have received the properly executed assignment of indemnity form:
 
-(1) Only one payment will be issued jointly in the names of all assignees and you; and
+(1) Only one payment will be issued jointly in the names of all assignees and you, unless all assignees and you agree in writing for the payment to be issued to a single payee; and
 
-(2) Any assignee will have the right to submit all loss notices and forms as required by the policy.
+(2) Any assignee will have the right to submit all loss notices and forms as required by the policy if you fail to do so. If you have suffered a loss from an insurable cause and fail to submit a claim for indemnity within the period specified in section 14(e):
 
-(e) If you have suffered a loss from an insurable cause and fail to file a claim for indemnity within the period specified in section 14(e), the assignee may submit the claim for indemnity not later than 30 days after the period for filing a claim has expired. We will honor the terms of the assignment only if we can accurately determine the amount of the claim. However, no action will lie against us for failure to do so.
+(i) An assignee may submit the claim for indemnity not later than 30 days after the period for filing a claim has expired.
+
+(ii) No indemnity will be paid if we determine that we do not have the ability to accurately adjust the loss for any claim for indemnity. You or any assignee may not dispute the determination.
+
+(e) If an assignee submits a notice of loss or claim for indemnity because of your failure to timely do so, the assignee assumes any rights and responsibilities you may have under section 20 to dispute determinations related to the notice of loss or claim for indemnity, except for determinations made in accordance with section 29(d)(2)(ii).
 
 30. [Reserved]31. Applicability of State and Local Statutes
 
@@ -2248,9 +2278,9 @@ The descriptive headings of the various policy provisions are formulated for con
 
 34. Units
 
-(a) You may elect an enterprise unit or whole-farm unit as allowed by the actuarial documents.
+(a) Election of Enterprise Unit and Whole-Farm Unit—You may elect an enterprise unit or whole-farm unit as allowed by the actuarial documents.
 
-(1) You must make such election on or before the earliest sales closing date for the insured crops in the unit and report such unit structure on your acreage report:
+(1) Election Date—You must make such election on or before the earliest sales closing date for the insured crops in the unit and report such unit structure on your acreage report:
 
 (i) For counties in which the actuarial documents specify a fall or winter sales closing date and a spring sales closing date, you may change your unit election on or before the spring sales closing date (earliest spring sales closing date for crops in the unit if electing a whole-farm unit) if you do not have any insured fall planted acreage of the insured crop;
 
@@ -2258,9 +2288,9 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (iii) These units may not be further divided except as specified herein;
 
-(2) For an enterprise unit:
+(2) Enterprise Units—For an enterprise unit:
 
-(i) To qualify, an enterprise unit must contain all of the insurable acreage of the same insured crop in:
+(i) The acreage in an enterprise unit must be located in:
 
 (A) Two or more sections, if sections are the basis for optional units where the insured acreage is located;
 
@@ -2270,31 +2300,27 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (D) Any combination of two or more sections, section equivalents, or FSA farm numbers, if more than one of these are the basis for optional units where the acreage is located or are applicable to the insured acreage (*e.g.,* if a portion of your acreage is located where sections are the basis for optional units and another portion of your acreage is located where FSA farm numbers are the basis for optional units, you may qualify for an enterprise unit based on a combination of these two parcels);
 
-(E) One section, section equivalent, or FSA farm number that contains at least 660 planted acres of the insured crop. You may qualify under this paragraph based only on the type of parcel that is utilized to establish optional units where your insured acreage is located (*e.g.,* if having two or more sections is the basis for optional units where the insured acreage is located, you may qualify for an enterprise unit if you have at least 660 planted acres of the insured crop in one section); or
+(E) One section, section equivalent, or FSA farm number that contains at least 660 planted acres of the insured crop. You may qualify under this paragraph based only on the type of parcel that is utilized to establish optional units where your insured acreage is located (*e.g.,* if having two or more sections is the basis for optional units where the insured acreage is located, you may qualify for an enterprise unit if you have at least 660 planted acres of the insured crop in one section);
 
-(F) Two or more units established by written agreement; and
+(F) Two or more units established by written agreement;or
 
-(ii) At least two of the sections, section equivalents, FSA farm numbers, or units established by written agreement in section 34(a)(2)(i)(A), (B), (C), (D), or (F) must each have planted acreage that constitutes at least the lesser of 20 acres or 20 percent of the insured crop acreage in the enterprise unit. If there is planted acreage in more than two sections, section equivalents, FSA farm numbers or units established by written agreement in section 34(a)(2)(i)(A), (B), (C), (D), or (F), these can be aggregated to form at least two parcels to meet this requirement. For example, if sections are the basis for optional units where the insured acreage is located and you have 80 planted acres in section one, 10 planted acres in section two, and 10 planted acres in section three, you may aggregate sections two and three to meet this requirement.
+(G) Two or more non-contiguous parcels of land, if non-contiguous parcels of land are allowed by the Crop Provisions or Special Provisions as a basis for optional units where the insured acreage is located;
 
-(iii) Enterprise units must be allowed by the actuarial documents;
+(ii) At least two of the sections, section equivalents, FSA farm numbers, units established by written agreement, or non-contiguous parcels of land in section 34(a)(2)(i)(A), (B), (C), (D), (F), or (G) must each have planted acreage that constitutes at least the lesser of 20 acres or 20 percent of the insured crop acreage in the enterprise unit. If there is planted acreage in more than two sections, section equivalents, FSA farm numbers, units established by written agreement, or non-contiguous parcels of land in section 34(a)(2)(i)(A), (B), (C), (D), (F), or (G), these can be aggregated to form at least two parcels to meet this requirement. For example, if sections are the basis for optional units where the insured acreage is located and you have 80 planted acres in section 1, 10 planted acres in section 2, and 10 planted acres in section 3, you may aggregate sections 2 and 3 to meet this requirement;
 
-(iv) If you want to change your unit structure from enterprise units to basic or optional units in any subsequent crop year, you must maintain separate records of acreage and production:
+(iii) You must separately designate on the acreage report each section or other basis in section 34(a)(2)(i) you used to qualify for an enterprise unit;
 
-(A) For each basic unit, to be eligible to use records to establish the production guarantee for the basic unit; or
+(iv) You may elect an enterprise unit that contains all the insurable acreage of the same insured crop if allowed by the actuarial documents.
 
-(B) For optional units, to qualify for optional units and to be eligible to use such records to establish the production guarantee for the optional units;
+(A) You must meet the requirement in sections 34(a)(2)(i) through (iii) to qualify.
 
-(v) If you do not comply with the production reporting provisions in section 3(f) for the enterprise unit, your yield for the enterprise unit will be determined in accordance with section 3(f)(1);
+(B) If we discover you do not qualify for an enterprise unit and such discovery is made:
 
-(vi) You must separately designate on the acreage report each section or other basis in section 34(a)(2)(i) you used to qualify for an enterprise unit; and
+(*1*) On or before the acreage reporting date, your unit division will be based on the basic or optional units, whichever you report on your acreage report and qualify for; or
 
-(vii) If we discover you do not qualify for an enterprise unit and such discovery is made:
+(*2*) At any time after the acreage reporting date, we will assign the basic unit structure;
 
-(A) On or before the acreage reporting date, your unit division will be based on the basic or optional units, whichever you report on your acreage report and qualify for; or
-
-(B) At any time after the acreage reporting date, we will assign the basic unit structure; and
-
-(viii) If allowed by the actuarial documents, you may elect separate enterprise units for irrigated or non-irrigated practices.
+(v) You may elect separate enterprise units for irrigated or non-irrigated practices if allowed by the actuarial documents. If you make this election, you may not elect enterprise units by organic farming practice under section 34(a)(2)(vi).
 
 (A) You may elect one enterprise unit for all irrigated practices or one enterprise unit for all non-irrigated practices or enterprise units for both.
 
@@ -2316,9 +2342,39 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (*1*) On or before the acreage reporting date, your unit division will be based on basic or optional units, whichever you report on your acreage report and qualify for; or
 
-(*2*) At any time after the acreage reporting date, we will assign the basic unit structure.
+(*2*) At any time after the acreage reporting date, we will assign the basic unit structure;
 
-(ix) You may elect enterprise units as allowed by the Crop Provisions if provided in the actuarial documents.
+(vi) You may elect separate enterprise units for acreage of the insured crop grown and insured under an organic farming practice and acreage of the insured crop not grown under an organic farming practice if allowed by the actuarial documents. If you make this election, you may not elect enterprise units by irrigation practice under section 34(a)(2)(v). Certified organic, transitional, and buffer zone acreages do not individually qualify as separate enterprise units. (See section 37 for additional provisions regarding acreage insured under an organic farming practice.)
+
+(A) You may elect one enterprise unit for all acreage of the insured crop grown and insured under an organic farming practice or one enterprise unit for all acreage of the insured crop not grown under an organic farming practice or enterprise units for both.
+
+(B) You must separately meet the requirements in section 34(a)(2) for each enterprise unit.
+
+(C) If you elected separate enterprise units for both acreage under an organic farming practice and acreage not under an organic farming practice and we discover you do not qualify for an enterprise unit for the acreage under an organic farming practice or acreage not grown under an organic farming practice and such discovery is made:
+
+(*1*) On or before the acreage reporting date, you may elect to insure:
+
+(*i*) One enterprise unit for all acreage under an organic farming practice or all acreage not under an organic farming practice provided you meet the requirements in section 34(a)(2), and basic or optional units for the other acreage, whichever you report on your acreage report and qualify for;
+
+(*ii*) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(2); or
+
+(*iii*) Basic or optional units for all acreage of the crop in the county, whichever you report on your acreage report and qualify for; or
+
+(*2*) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(2). Otherwise, we will assign the basic unit structure.
+
+(D) If you elected an enterprise unit for acreage under an organic farming practice or acreage not under an organic farming practice and a different unit structure on the other acreage and we discover you do not qualify for an enterprise unit for the acreage under an organic farming practice or acreage not grown under an organic farming practice and such discovery is made:
+
+(*1*) On or before the acreage reporting date, your unit division will be based on basic or optional units, whichever you report on your acreage report and qualify for; or
+
+(*2*) At any time after the acreage reporting date, we will assign the basic unit structure;
+
+(vii) If you want to change your unit structure from enterprise units to basic or optional units in any subsequent crop year, you must maintain separate records of acreage and production:
+
+(A) For each basic unit, to be eligible to use records to establish the production guarantee for the basic unit; or
+
+(B) For optional units, to qualify for optional units and to be eligible to use such records to establish the production guarantee for the optional units; and
+
+(viii) If you do not comply with the production reporting provisions in section 3(f) for the enterprise unit, your yield for the enterprise unit will be determined in accordance with section 3(f)(1).
 
 (3) For a whole-farm unit:
 
@@ -2348,7 +2404,7 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (v) If we discover you do not qualify for a whole-farm unit for at least one insured crop because:
 
-(A) You do not meet all of the other requirements in section 34(a)(3)(i), and such discovery is made:
+(A) You do not meet all the other requirements in section 34(a)(3)(i), and such discovery is made:
 
 (*1*) On or before the acreage reporting date, your unit division for all crops for which you elected a whole-farm unit will be based on basic or optional units, whichever you report on your acreage report and qualify for; or
 
@@ -2366,17 +2422,22 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (4) You have records of marketed or stored production from each optional unit maintained in such a manner that permits us to verify the production from each optional unit, or the production from each optional unit is kept separate until loss adjustment is completed by us.
 
-(c) Each optional unit must meet one or more of the following, unless otherwise specified in the Crop Provisions or allowed by written agreement:
+(c) Each optional unit must meet at least one of the following, unless
+otherwise specified in the Crop Provisions or allowed by written agreement:
 
-(1) Optional units may be established if each optional unit is located in a separate section where the boundaries are readily discernible:
+(1) Land location—
 
-(i) In the absence of sections, we may consider parcels of land legally identified by other methods of measure, such as Spanish grants, provided the boundaries are readily discernible, if such parcels can be considered as the equivalent of sections for unit purposes in accordance with FCIC procedures; or
+(i) Section—Optional units may be established if each optional unit is located in a separate section where the boundaries are readily discernible.
 
-(ii) In the absence of sections as described in section 34(c)(1) or other methods of measure used to establish section equivalents as described in section 34(c)(1)(i), optional units may be established if each optional unit is located in a separate FSA farm number in accordance with FCIC procedures;
+(ii) Section equivalent—In the absence of sections, we may consider parcels of land legally identified by other methods of measure, such as Spanish grants, provided the boundaries are readily discernible, if such parcels can be considered as the equivalent of sections for unit purposes in accordance with FCIC procedures; or
 
-(2) In addition to, or instead of, establishing optional units by section, section equivalent or FSA farm number, optional units may be based on irrigated and non-irrigated acreage. To qualify as separate irrigated and non-irrigated optional units, the non-irrigated acreage may not continue into the irrigated acreage in the same rows or planting pattern. The irrigated acreage may not extend beyond the point at which the irrigation system can deliver the quantity of water needed to produce the yield on which the guarantee is based, except the corners of a field in which a center-pivot irrigation system is used may be considered as irrigated acreage if the corners of a field in which a center-pivot irrigation system is used do not qualify as a separate non-irrigated optional unit. In this case, production from both practices will be used to determine your approved yield; and
+(iii) FSA farm number—In the absence of sections or section equivalents as described in section 34(c)(1)(i) and (ii), optional units may be established if each optional unit is located in a separate FSA farm number in accordance with FCIC procedures;
 
-(3) In addition to, or instead of, establishing optional units by section, section equivalent or FSA farm number, or irrigated and non-irrigated acreage, separate optional units may be established for acreage of the insured crop grown and insured under an organic farming practice. Certified organic, transitional, and buffer zone acreages do not individually qualify as separate units. (See section 37 for additional provisions regarding acreage insured under an organic farming practice.)
+(2) Irrigation practice—Separate optional units may be based on irrigated and non-irrigated acreage. To qualify as separate irrigated and non-irrigated optional units, the non-irrigated acreage may not continue into the irrigated acreage in the same rows or planting pattern. The irrigated acreage may not extend beyond the point at which the irrigation system can deliver the quantity of water needed to produce the yield on which the guarantee is based, except the corners of a field in which a center-pivot irrigation system is used may be considered as irrigated acreage if the corners of a field in which a center-pivot irrigation system is used do not qualify as a separate non-irrigated optional unit. In this case, production from both practices will be used to determine your approved yield;
+
+(3) Organic farming practice—Separate optional units may be established for acreage of the insured crop grown and insured under an organic farming practice and acreage of the insured crop not grown under an organic farming practice. Certified organic, transitional, and buffer zone acreages do not individually qualify as separate optional units. (See section 37 for additional provisions regarding acreage insured under an organic farming practice.); or
+
+(4) Combinations—Unless restricted otherwise by the Crop Provisions, each category within sections 34(c)(1), (2), and (3) may be independently applicable. Separate optional units based on combinations of categories between sections 34(c)(1) through (3) may be established if all acreage from the corresponding basic unit has the same optional unit structure. For example, you may choose to divide your entire basic unit into optional units by land location, irrigation practice, and organic farming practice, but you may not choose an optional unit by land location for one section and further divide a second section into optional units by irrigation practice, organic farming practice, or both.
 
 (d) Optional units are not available for crops insured under a Catastrophic Risk Protection Endorsement.
 
@@ -2480,7 +2541,7 @@ If provided in the actuarial documents, you may elect the following measures to 
 
 (g) In addition to the provisions contained in section 17(f), prevented planting coverage will not be provided for any acreage based on an organic farming practice in excess of the number of acres that will be grown under an organic farming practice and shown as such in the records required in section 37(c).
 
-(h) In lieu of the provisions contained in section 17(f)(1) that specify prevented planting acreage within a field that contains planted acreage will be considered to be acreage of the same practice that is planted in the field, prevented planting acreage will be considered as organic practice acreage if it is identified as certified organic, transitional, or buffer zone acreage in the organic system plan.
+(h) In lieu of the provisions contained in section 17(f)(1) that specify prevented planting acreage within a field that contains planted acreage will be considered to be acreage of the same practice that is planted in the field, prevented planting acreage will be considered as organic farming practice acreage if it is identified as certified organic, transitional, or buffer zone acreage in the organic system plan.
 
 38. Direct Marketing and Verifiable Records
 

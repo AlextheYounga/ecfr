@@ -1,0 +1,3 @@
+##### § 410.1004 ORR custody of unaccompanied children. #####
+
+All unaccompanied children placed by ORR in care provider facilities remain in the legal custody of ORR and may be transferred or released only with ORR approval; provided, however, that in the event of an emergency, a care provider facility may transfer temporary physical custody of an unaccompanied child prior to securing approval from ORR but shall notify ORR of the transfer as soon as is practicable thereafter, and in all cases within 8 hours.

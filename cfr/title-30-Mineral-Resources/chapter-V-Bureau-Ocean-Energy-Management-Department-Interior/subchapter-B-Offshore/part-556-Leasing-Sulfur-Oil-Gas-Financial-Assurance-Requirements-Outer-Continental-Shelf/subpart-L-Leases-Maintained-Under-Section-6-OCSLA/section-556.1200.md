@@ -1,0 +1,5 @@
+##### § 556.1200 Effect of regulations on lease. #####
+
+(a) All regulations in this part, insofar as they are applicable, will supersede the provisions of any lease that is maintained under section 6(a) of the Act. However, the provisions of a lease relating to area, minerals, rentals, royalties (subject to sections 6(a)(8) and (9) of the Act), and term (subject to section 6(a)(10) of the Act and, as to sulfur, subject to section 6(b)(2) of the Act) will continue in effect, and, in the event of any conflict or inconsistency, will take precedence over these regulations.
+
+(b) A lease maintained under section 6(a) of the Act is also subject to all operating and conservation regulations applicable to the OCS. In addition, the regulations relating to geophysical and geological exploratory operations and to pipeline ROW(s) are applicable, to the extent that those regulations are not contrary to or inconsistent with the lease provisions relating to area, minerals, rentals, royalties and term. The lessee must comply with any provision of the lease as validated, the subject matter of which is not covered in the regulations in this part.

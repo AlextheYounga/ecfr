@@ -20,10 +20,10 @@
 
 (8) A commitment to renew registration every year with FDA as required in part 207 of this chapter.
 
-(c) Applications must be completed, signed, and submitted to the Division of Animal Feeds (HFV-220), Center for Veterinary Medicine, Food and Drug Administration, 7500 Standish Pl., Rockville, MD 20855.
+(c) Applications must be completed, signed, and submitted to the Food and Drug Administration, Center for Veterinary Medicine, Division of Food Compliance, 12225 Wilkins Ave., Rockville, MD 20852, or email (via attachment): *MedicatedFeedsTeamMail@fda.hhs.gov.*
 
 (d) Applications that are facially deficient will be returned to the applicant. All reasons for the return of the application will be made known to the applicant.
 
-(e) Upon approval, the original copy of the application will be signed by an authorized employee of FDA designated by the Commissioner of Food and Drugs, and a copy will be returned to the applicant.
+(e) Upon approval, the application will be signed by an authorized employee of FDA designated by the Commissioner of Food and Drugs, and a copy will be returned to the applicant.
 
-[64 FR 63204, Nov. 19, 1999, as amended at 72 FR 69121, Dec. 6, 2007; 81 FR 60221, Aug. 31, 2016; 87 FR 58960, Sept. 29, 2022]
+[64 FR 63204, Nov. 19, 1999, as amended at 72 FR 69121, Dec. 6, 2007; 81 FR 60221, Aug. 31, 2016; 87 FR 58960, Sept. 29, 2022; 89 FR 51966, June 21, 2024]

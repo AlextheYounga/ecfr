@@ -1,10 +1,12 @@
 ##### § 457.167 Pecan revenue crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 53846, June 27, 2024.
+The Pecan Revenue Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
-The Pecan Revenue Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
+United States Department of AgricultureFederal Crop Insurance CorporationPecan Revenue Crop Provisions
 
-FCIC policies:United States Department of AgricultureFederal Crop Insurance CorporationReinsured policies: (Appropriate title for insurance provider)Both FCIC and reinsured policies: Pecan Revenue Crop Insurance Provisions1. Definitions
+In return for your payment of premium and administrative fee for the coverage, these Pecan Revenue Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
+
+1. Definitions
 
 *AMS.* The Agricultural Marketing Service of the United States Department of Agriculture.
 
@@ -18,9 +20,9 @@ FCIC policies:United States Department of AgricultureFederal Crop Insurance Corp
 
 *Average gross sales per acre.* Your gross sales of pecans for a crop year divided by your net acres of pecans grown during that crop year. For example, if for the crop year your gross sales were $100,000 and your net acres of pecans were 100, then your average gross sales per acre for the crop year would be $1,000.
 
-*Crop year.* The period beginning February 1 of the calendar year in which the pecan trees bloom and extending through January 31 of the year following such bloom, and will be designated by the calendar year in which the pecan trees bloom.
+*Crop year.* In lieu of the definition in section 1 of the Basic Provisions, the period beginning February 1 of the calendar year in which the pecan trees bloom and extending through January 31 of the year following such bloom, and will be designated by the calendar year in which the pecan trees bloom.
 
-*Direct marketing.* In addition to the definition contained in section 1 of the Basic Provisions, the sale of the insured crop directly to consumers without the intervention of an intermediary including a sheller. An additional example of direct marketing includes shelling and packing your own pecans.
+*Direct marketing.* In addition to the definition in section 1 of the Basic Provisions, the sale of the insured crop directly to consumers without the intervention of an intermediary, including a sheller. An additional example of direct marketing includes shelling and packing your own pecans.
 
 *Gross sales.* Total value of in-shell pecans grown during a crop year.
 
@@ -30,7 +32,7 @@ FCIC policies:United States Department of AgricultureFederal Crop Insurance Corp
 
 *In-shell pecans.* Pecans as they are removed from the orchard with the nut-meats in the shell.
 
-*Interplanted.* In lieu of the definition contained in section 1 of the Basic Provisions, acreage on which two or more crops are planted in any form of alternating or mixed pattern.
+*Interplanted.* In lieu of the definition in section 1 of the Basic Provisions, acreage on which two or more crops are planted in any form of alternating or mixed pattern.
 
 *Market price.* The market price is:
 
@@ -56,11 +58,11 @@ FCIC policies:United States Department of AgricultureFederal Crop Insurance Corp
 
 Except as provided in these Crop Provisions, for both years of the two-year coverage module a unit will be:
 
-(a) In addition to the requirements of section 34(a)(4) of the Basic Provisions, an enterprise unit if the insured crop is located on at least two parcels of non-contiguous land and at least two of the parcels must contain at least the lesser of 20 acres or 20 percent of the insured crop acreage in the enterprise unit;
+(a) In addition to the requirements of section 34(a)(2) of the Basic Provisions, an enterprise unit if the insured crop is located on at least two parcels of non-contiguous land and at least two of the parcels must contain at least the lesser of 20 acres or 20 percent of the insured crop acreage in the enterprise unit;
 
 (b) A basic unit as defined in section 1 of the Basic Provisions; or
 
-(c) In lieu of the requirements contained in sections 34(b) and (c) of the Basic Provisions, basic units may be divided into optional units if, for each optional unit, the following criteria are met:
+(c) In lieu of the requirements in sections 34(b) and (c) of the Basic Provisions, basic units may be divided into optional units if, for each optional unit, the following criteria are met:
 
 (1) Each optional unit you select must be located on non-contiguous land;
 
@@ -108,11 +110,11 @@ In lieu of section 3 of the Basic Provisions, the following applies:
 
 4. Contract Changes
 
-In lieu of the provisions contained in section 4 of the Basic Provisions:
+In lieu of section 4 of the Basic Provisions:
 
 (a) We may change the terms of your coverage under this policy for any two-year coverage module. Any change to your policy within a two-year coverage module may only be done in accordance with this policy.
 
-(b) Any changes in policy provisions, amounts of insurance, premium rates, and program dates (except as allowed herein or as specified in section 3) can be viewed on RMA's website not later than the contract change date contained in these Crop Provisions. We may revise this information after the contract change date to correct clerical errors.
+(b) Any changes in policy provisions, amounts of insurance, premium rates, and program dates (except as allowed in your policy or as specified in section 3) can be viewed on RMA's website not later than the contract change date contained in these Crop Provisions. We may revise this information after the contract change date to correct clerical errors.
 
 (c) The contract change date is October 31 preceding the next two-year coverage module.
 
@@ -148,7 +150,13 @@ In lieu of the provisions contained in section 4 of the Basic Provisions:
 
 (b) We will reduce the amount of your insurable acreage based on our estimate of the removal of a contiguous block of trees or damage to trees of the insured crop. We will reduce your amount of insurance per acre based on our estimate of the expected reduction in gross sales from a change in practice or sequential thinning.
 
-(c) If you fail to notify us of any circumstance stated in section 6(a)(1), we will reduce your insured acreage or your amount of insurance per acre to an amount to reflect the expected reduction of gross sales, as applicable, at any time we become aware of the circumstance.
+(c) We will reduce your insured acreage or your amount of insurance per acre, as necessary, based on our estimate of the effect of any circumstance listed in sections 6(a) and (b) that may reduce your gross sales from previous levels. If you fail to notify us of any circumstance that may reduce your gross sales from previous levels, we will reduce your insured acreage or your amount of insurance per acre at any time we become aware of the circumstance. If the circumstance occurred:
+
+(1) Before the beginning of the insurance period and you notify us by the acreage reporting date, your insured acreage or amount of insurance per acre will be reduced for the current crop year regardless of whether the circumstance was due to an insured or uninsured cause of loss;
+
+(2) After the beginning of the insurance period and you notify us by the acreage reporting date, your insured acreage or amount of insurance per acre will be reduced for the current crop year only if the potential reduction in your gross sales is due to an uninsured cause of loss; or
+
+(3) Before or after the beginning of the insurance period and you fail to notify us by the acreage reporting date, an amount equal to the reduction in your gross sales will be added to the production to count calculated in section 13(d)(1)(ii) due to uninsured causes. We will reduce your insured acreage or amount of insurance per acre for the subsequent crop year to reflect any reduction in the productive capacity of the trees or in the gross sales potential of the insured acreage.
 
 7. Annual Premium and Administrative Fees
 
@@ -182,7 +190,7 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 10. Insurance Period
 
-(a) In accordance with the provisions of section 11 of the Basic Provisions:
+(a) In accordance with section 11 of the Basic Provisions:
 
 (1) Coverage begins on February 1 of each crop year. However, for the year of application, we will inspect all pecan acreage and will notify you if your application was accepted or not accepted, no later than 30 days after the sales closing date. If we fail to notify you by that date, your application will be accepted unless other grounds exist to not accept the application, as specified in section 2 of the Basic Provisions. You must provide any information that we require for the crop or to determine the condition of the orchard.
 
@@ -190,7 +198,7 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 (3) The calendar date for the end of the insurance period is January 31 of the crop year.
 
-(b) In addition to the provisions of section 11 of the Basic Provisions:
+(b) In addition to section 11 of the Basic Provisions:
 
 (1) If you acquire an insurable share in any insurable acreage after coverage begins but on or before the acreage reporting date for the crop year, and after an inspection we consider the acreage acceptable, insurance will be considered to have attached to such acreage on the calendar date for the beginning of the insurance period. Acreage acquired after the acreage reporting date will not be insured.
 
@@ -300,23 +308,24 @@ In addition to the requirements of section 14 of the Basic Provisions, the follo
 
 (v) Totaling the results of section 13(d)(2)(ii) and (iv).
 
-|                   Year                    |Acres|Average pounds per acre|Average gross sales per acre|
-|-------------------------------------------|-----|-----------------------|----------------------------|
-|                     4                     | 100 |          750          |           $1,050           |
-|                     3                     | 100 |          625          |            $625            |
-|                     2                     | 100 |         1250          |            $750            |
-|                     1                     | 100 |          200          |            $250            |
-|Total Average Gross Sales Per Acre = $2,675|     |                       |                            |
+|Year|Acres|Average pounds per acre|Average gross sales per acre|
+|----|-----|-----------------------|----------------------------|
+| 4  | 100 |          750          |           $1,050           |
+| 3  | 100 |          625          |            625             |
+| 2  | 100 |         1,250         |            750             |
+| 1  | 100 |          200          |            250             |
+
+Total Average Gross Sales Per Acre = $2,675
 
 The approved average revenue equals the total average gross sales per acre divided by the number of years ($2,675 ÷ 4 = $669).
 
-The amount of insurance per acre equals the approved average revenue multiplied by the coverage level percent ($669 × .65 = $435).
+The amount of insurance per acre equals the approved average revenue multiplied by the coverage level percent ($669 × 0.65 = $435).
 
 Assume pecan trees in the unit experienced damage to blooms due to a late freeze causing low production. You produced, harvested, and sold 300 pounds per acre of pecans from 70 acres and received an actual price of $0.75 per pound. On the other 30 acres, the pecans suffered damage due to drought. You elected not to harvest the other 30 acres of pecans. The 30 acres were appraised at 100 pounds per acre and on the day of the appraisal the average AMS price was $0.65. The total dollar value of production to count is (300 pounds of pecans × 70 net acres × $0.75) + (100 pounds × 30 net acres × $0.65) = $15,750 + $1,950 = $17,700.
 
 The indemnity would be:
 
-The amount of insurance per acre multiplied by the net acres minus the dollar value of the total production to count equals the dollar amount of indemnity ($435 × 100 = $43,500.00 − $17,700.00 = $25,800).
+The amount of insurance per acre multiplied by the net acres minus the dollar value of the total production to count equals the dollar amount of indemnity ($435 × 100 = $43,500.00 −$17,700.00 = $25,800).
 
 14. Late and Prevented Planting
 
@@ -328,6 +337,6 @@ The substitution of yield provisions of the Basic Provisions are not applicable.
 
 16. Written Agreements
 
-Notwithstanding the provisions of section 18 of the Basic Provisions, for counties with actuarial documents for pecans, you must have at least two years of production and gross sales records and for counties without actuarial documents, you must have at least four years of production and gross sales records to qualify for a written agreement.
+Notwithstanding section 18 of the Basic Provisions, for counties with actuarial documents for pecans, you must have at least two years of production and gross sales records and for counties without actuarial documents, you must have at least four years of production and gross sales records to qualify for a written agreement.
 
-[69 FR 52163, Aug. 25, 2004; 69 FR 54179, Sept. 7, 2004, as amended at 69 FR 63041, Oct. 29, 2004; 78 FR 13459, Feb. 28, 2013; 78 FR 33691, June 5, 2013; 87 FR 38898, June 30, 2022; 87 FR 52854, Aug. 30, 2022]
+[69 FR 52163, Aug. 25, 2004; 69 FR 54179, Sept. 7, 2004, as amended at 69 FR 63041, Oct. 29, 2004; 78 FR 13459, Feb. 28, 2013; 78 FR 33691, June 5, 2013; 87 FR 38898, June 30, 2022; 87 FR 52854, Aug. 30, 2022; 89 FR 53846, June 27, 2024]

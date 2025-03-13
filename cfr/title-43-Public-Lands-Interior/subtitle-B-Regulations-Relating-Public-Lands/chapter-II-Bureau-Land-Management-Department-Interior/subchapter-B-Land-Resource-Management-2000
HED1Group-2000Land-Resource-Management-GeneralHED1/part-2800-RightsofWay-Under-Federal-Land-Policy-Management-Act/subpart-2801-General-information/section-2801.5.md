@@ -1,7 +1,5 @@
 ##### § 2801.5 What acronyms and terms are used in the regulations in this part? #####
 
-Link to an amendment published at 89 FR 35677, May 1, 2024.Link to a correction published at 89 FR 53870, June 28, 2024.
-
 (a) *Acronyms.* As used in this part:
 
 *ALJ* means Administrative Law Judge.
@@ -13,6 +11,8 @@ Link to an amendment published at 89 FR 35677, May 1, 2024.Link to a correction 
 *EA* means environmental assessment.
 
 *EIS* means environmental impact statement.
+
+*FLPMA* means the Federal Land Policy and Management Act of 1976, as amended (43 U.S.C. 1701 *et seq.*).
 
 *IBLA* means the Department of the Interior, Board of Land Appeals.
 
@@ -26,8 +26,6 @@ Link to an amendment published at 89 FR 35677, May 1, 2024.Link to a correction 
 
 *Acreage rent* means rent assessed for solar and wind energy development grants and leases that is determined by the number of acres authorized for the grant or lease.
 
-*Act* means the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 *et seq.*).
-
 *Actual costs* means the financial measure of resources the Federal government expends or uses in processing a right-of-way application or in monitoring the construction, operation, and termination of a facility authorized by a grant or permit. Actual costs includes both direct and indirect costs, exclusive of management overhead costs.
 
 *Ancillary* means a secondary use entirely within the scope of a primary authorization that is for the sole purpose of supporting the operations allowed by that primary authorization and that the same holder of the primary authorization does not make available to third parties through commercial sales.
@@ -35,6 +33,8 @@ Link to an amendment published at 89 FR 35677, May 1, 2024.Link to a correction 
 *Application filing fee* means a filing fee specific to solar and wind energy applications. This fee is an initial payment for the reasonable costs for processing, inspecting, and monitoring a right-of-way.
 
 *Assignment* means the transfer, in whole or in part, of any right or interest in a right-of-way grant or lease from the holder (assignor) to a subsequent party (assignee) with the BLM's written approval. A change in ownership of the grant or lease, or other related change-in-control transaction involving the holder, including a merger or acquisition, also constitutes an assignment for purposes of these regulations requiring the BLM's written approval, unless applicable statutory authority provides otherwise.
+
+*Capacity fee* is the fee charged to right-of-way holders once energy production commences that is based on the production of energy on public lands from solar and wind energy generating facilities.
 
 *Casual use* means activities ordinarily resulting in no or negligible disturbance of the public lands, resources, or improvements. *Examples of casual use include:* Surveying, marking routes, and collecting data to use to prepare grant applications.
 
@@ -50,11 +50,13 @@ Link to an amendment published at 89 FR 35677, May 1, 2024.Link to a correction 
 
 *Discharge* has the meaning found at 33 U.S.C. 1321(a)(2) of the Clean Water Act.
 
+*Domestic Content reduction* means an item or product that qualifies for the domestic content preference under the Build America, Buy America Act, Public Law 117-58, 135 Stat. 429, §§ 70901 through 70927 (Nov. 15, 2021), and the implementing guidance at 2 CFR part 184.
+
 *Exempt from rent* means that the BLM is precluded by statute or regulation from collecting rent.
 
 *Facility* means an improvement or structure, whether existing or planned, that is or would be owned and controlled by the grantee within a right-of-way.
 
-*Grant* means any authorization or instrument (*e.g.,* easement, lease, license, or permit) BLM issues under Title V of the Federal Land Policy and Management Act, 43 U.S.C. 1761 *et seq.,* and those authorizations and instruments BLM and its predecessors issued for like purposes before October 21, 1976, under then existing statutory authority. It does not include authorizations issued under the Mineral Leasing Act (30 U.S.C. 185).
+*Grant* means an authorization or instrument (*e.g.,* easement, license, or permit) the BLM issues under Title V of the Federal Land Policy and Management Act, 43 U.S.C. 1761 *et seq.,* and any authorization or instrument the BLM and its predecessors issued for like purposes before October 21, 1976, under then existing statutory authority, except for solar or wind energy leases. It does not include authorizations issued under the Mineral Leasing Act (30 U.S.C. 185).
 
 *Hazard tree,* for purposes of vegetation management for a powerline facility and when used in section 2805.22 of this part, means any tree, brush, shrub, other plant, or part thereof, hereinafter “vegetation” (whether located on public lands inside or outside the linear boundary of the right-of-way for the powerline facility), that has been designated, prior to failure, by a certified or licensed arborist or forester under the supervision of the Bureau of Land Management or the right-of-way holder to be:
 
@@ -86,7 +88,7 @@ Link to an amendment published at 89 FR 35677, May 1, 2024.Link to a correction 
 
 *Maximum operating sag* means the theoretical position of a powerline facility conductor (wire) when operating at 100 degrees Celsius, which must be accounted for when determining minimum vegetation clearance distance.
 
-*Megawatt (MW) capacity fee* means the fee paid in addition to the acreage rent for solar and wind energy development grants and leases. The MW capacity fee is the approved MW capacity of the solar or wind energy grant or lease multiplied by the appropriate MW rate. A grant or lease may provide for stages of development, and the grantee or lessee will be charged a fee for each stage by multiplying the MW rate by the approved MW capacity for the stage of the project.
+*Megawatt hour (MWh) rate* means the 5 calendar-year average of the annual average wholesale electricity prices per MWh for the major trading hubs serving the 11 western States of the continental United States.
 
 *Megawatt rate* means the price of each MW of capacity for various solar and wind energy technologies as determined by the MW rate formula. Current MW rates are found on the BLM's MW rate schedule, which can be obtained at any BLM office or at *http://www.blm.gov.* The MW rate is calculated by multiplying the total hours per year by the net capacity factor, by the MW hour (MWh) price, and by the rate of return, where:
 
@@ -144,17 +146,23 @@ Link to an amendment published at 89 FR 35677, May 1, 2024.Link to a correction 
 
 (ii) Held for the benefit of Indians, Aleuts, and Eskimos.
 
-*Reasonable* costs has the meaning found at section 304(b) of the Act.
+*Reasonable costs* has the meaning found in Section 304(b) of FLPMA.
 
 *Reclamation cost estimate (RCE)* means the estimate of costs to restore the land to a condition that will support pre-disturbance land uses. This includes the cost to remove all improvements made under the right-of-way authorization, return the land to approximate original contour, and establish a sustainable vegetative community, as required by the BLM. The RCE will be used to establish the appropriate amount for financial guarantees of land uses on the public lands, including those uses authorized by right-of-way grants or leases issued under this part.
 
 *Release* has the meaning found at 42 U.S.C. 9601(22) of CERCLA.
+
+*Renewable energy coordination office (RECO)* means one of the National, State, district, or field offices established by the Secretary under 43 U.S.C. 3002(a) that is responsible for implementing a program for improving Federal permit coordination with respect to solar, wind, and geothermal projects on BLM-administered land, and such other activities as the Secretary determines necessary.
 
 *Right-of-way* means the public lands that the BLM authorizes a holder to use or occupy under a particular grant or lease.
 
 *Screening criteria for solar and wind energy development* refers to the policies and procedures that the BLM uses to prioritize how it processes solar and wind energy development right-of-way applications to facilitate the environmentally responsible development of such facilities through the consideration of resource conflicts, land use plans, and applicable statutory and regulatory requirements. Applications for projects with lesser resource conflicts are anticipated to be less costly and time-consuming for the BLM to process and will be prioritized over those with greater resource conflicts.
 
 *Short-term right-of-way grant* means any grant issued for a term of 3 years or less for such uses as storage sites, construction areas, and site testing and monitoring activities, including site characterization studies and environmental monitoring.
+
+*Solar or wind energy development* means the use of public lands to generate electricity from solar or wind energy resources. It includes the construction, operation, maintenance, and decommissioning of any such facilities, as well as the subsequent reclamation of the site.
+
+*Solar or wind energy lease* means any right-of-way issued for solar or wind energy development in an area classified or allocated for solar or wind energy (*i.e.,* a designated leasing area) in a resource management plan.
 
 *Subleasing* means allowing another party or parties to use your facility for the purposes specified in your authorization, for which use you may charge fees. The BLM may permit subleasing under the requirements of 43 CFR 2805.14 and 2865.14.
 
@@ -176,4 +184,4 @@ Link to an amendment published at 89 FR 35677, May 1, 2024.Link to a correction 
 
 *Zone* means a geographic grouping necessary for linear right-of-way rent assessment purposes, covering all lands in the contiguous United States.
 
-[70 FR 21058, Apr. 22, 2005, as amended at 81 FR 92205, Dec. 19, 2016; 89 FR 25956, Apr. 12, 2024; 89 FR 41331, May 13, 2024]
+[70 FR 21058, Apr. 22, 2005, as amended at 81 FR 92205, Dec. 19, 2016; 89 FR 25956, Apr. 12, 2024; 89 FR 41331, May 13, 2024; 89 FR 35677, May 1, 2024; 89 FR 53870, June 28, 2024]

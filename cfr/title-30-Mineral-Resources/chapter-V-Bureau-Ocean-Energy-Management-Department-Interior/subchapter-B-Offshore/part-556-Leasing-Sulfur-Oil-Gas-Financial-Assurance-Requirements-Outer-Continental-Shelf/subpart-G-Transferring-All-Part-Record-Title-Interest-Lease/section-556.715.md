@@ -1,0 +1,5 @@
+##### § 556.715 Are there any interests I may transfer or record without BOEM approval? #####
+
+(a) You may create, transfer, or assign economic interests without BOEM approval. However, for record purposes, you must send BOEM a copy of each instrument creating or transferring such interests within 90 days after the last party executes the transfer instrument. For each lease affected, you must pay the service fee listed in § 556.106 with your documents submitted for record purposes and your submission must include evidence of payment via *pay.gov.*
+
+(b) For recordkeeping purposes, you may also submit other legal documents to BOEM for transactions that do not require BOEM approval. If you submit such documents for record purposes not required by this part, you must pay the service fee listed in § 556.106 with your document submissions for each lease affected. Your submission must include evidence of payment via *pay.gov.*

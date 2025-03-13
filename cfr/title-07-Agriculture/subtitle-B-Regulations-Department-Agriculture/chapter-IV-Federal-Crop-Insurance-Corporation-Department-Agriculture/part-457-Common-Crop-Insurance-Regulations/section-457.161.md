@@ -1,10 +1,12 @@
 ##### § 457.161 Canola and rapeseed crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 53844, June 27, 2024.
+The Canola and Rapeseed Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
-The Canola and Rapeseed Crop Insurance Provisions for the 2021 and succeeding crop years are as follows:
+United States Department of AgricultureFederal Crop Insurance CorporationCanola and Rapeseed Crop Provisions
 
-FCIC policies:Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Canola and Rapeseed Crop Provisions1. Definitions
+In return for your payment of premium and administrative fee for the coverage, these Canola and Rapeseed Crop Provisions and corresponding Commodity Exchange Price Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
+
+1. Definitions
 
 *Canola.* A crop of the genus *Brassica* as defined in accordance with the Official United States Standards for Grain—Subpart C—U.S. Standards for Canola.
 
@@ -32,9 +34,9 @@ FCIC policies:Department of AgricultureFederal Crop Insurance CorporationReinsur
 
 2. Unit Division
 
-In addition to optional units by section, section equivalent or FSA farm serial number and by irrigated and non-irrigated practices, optional units may be by type if the type is designated on the Special Provisions.
+In addition to section 34(c) of the Basic Provisions, optional units may be established by type if the type is designated in the Special Provisions.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 In addition to the requirements of section 3 of the Basic Provisions:
 
@@ -50,16 +52,16 @@ In addition to the requirements of section 3 of the Basic Provisions:
 
 In accordance with section 4 of the Basic Provisions, the contract change date is November 30 preceding the cancellation date for counties with a March 15 cancellation date, and June 30 preceding the cancellation date for all other counties.
 
-5. Cancellation and Termination Dates.
+5. Cancellation and Termination Dates
 
 The cancellation and termination dates are as follows, unless otherwise specified in the actuarial documents:
 
-|                                                         State and county                                                          |Cancellation date|Termination date|
-|-----------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------|
-|                                                All counties in Alabama and Georgia                                                |  September 30   | September 30.  |
-|Blaine, Bonneville, Fremont, Jefferson, Madison, and Teton counties Idaho; and all counties in Minnesota, Montana, and North Dakota|    March 15     |   March 15.    |
-|   All counties in Illinois, Indiana, Kansas, Kentucky, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, and Virginia   |    August 31    |   August 31.   |
-|                                         All other Idaho counties, Oregon, and Washington                                          |    August 31    |  October 31.   |
+|                                                                    State and county                                                                    |Cancellation date|Termination date|
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------|
+|                                                        (a) All counties in Alabama and Georgia                                                         |  September 30   | September 30.  |
+|(b) Blaine, Bonneville, Fremont, Jefferson, Madison, and Teton counties in Idaho; and all counties in Minnesota, Montana, North Dakota, and South Dakota|    March 15     |   March 15.    |
+|      (c) All counties in Illinois, Indiana, Kansas, Kentucky, Michigan, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, and Virginia       |    August 31    |   August 31.   |
+|                                                  (d) All other Idaho counties, Oregon, and Washington                                                  |    August 31    |  October 31.   |
 
 6. Insured Crop
 
@@ -77,7 +79,7 @@ In accordance with section 8 of the Basic Provisions, the crop insured will be a
 
 7. Insurable Acreage
 
-In addition to the provisions of section 9 of the Basic Provisions:
+In addition to section 9 of the Basic Provisions:
 
 (a) We will not insure any acreage that does not meet the rotation requirements contained in the Special Provisions;
 
@@ -105,11 +107,11 @@ In addition to the provisions of section 9 of the Basic Provisions:
 
 8. Insurance Period
 
-In accordance with the provisions of section 11 of the Basic Provisions, the calendar date for the end of the insurance period is October 31 of the calendar year in which the crop is normally harvested.
+In accordance with section 11 of the Basic Provisions, the calendar date for the end of the insurance period is October 31 of the calendar year in which the crop is normally harvested, unless otherwise specified in the Special Provisions.
 
 9. Causes of Loss
 
-In accordance with the provisions of section 12 of the Basic Provisions, insurance is provided only against the following causes of loss which occur during the insurance period:
+In accordance with section 12 of the Basic Provisions, insurance is provided only against the following causes of loss which occur during the insurance period:
 
 (a) Adverse weather conditions;
 
@@ -189,29 +191,39 @@ Representative samples are required in accordance with section 14 of the Basic P
 
 (6) Multiplying the result of section 12(b)(5) by your share.
 
-For example:
+Example for Section 12(b)
 
-You have 100 percent share in 50 acres of canola in the unit with a production guarantee (per acre) of 650 pounds, your projected price is $.1220, your harvest price is $.1110, and your production to count is 31,000 pounds.
+You have 100 percent share in 50 acres of canola in the unit with a production guarantee (per acre) of 1,350 pounds, your projected price is $.26, your harvest price is $.24, and your production to count is 51,000 pounds.
 
 If you elected yield protection:
 
-(1) 50 acres × (650 pound production guarantee × $.1220 projected price) = $3,965.00 value of the production guarantee
+(1) 50 acres × (1,350 pound production guarantee × $.26 projected price) = $17,550.00 value of the production guarantee;
 
-(3) 31,000 pound production to count × $.1220 projected price = $3,782.00 value of the production to count
+(2) Not applicable;
 
-(5) $3,965.00−$3,782.00 = $183.00
+(3) 51,000 pound production to count × $.26 projected price = $13,260.00 value of the production to count;
 
-(6) $183.00 × 1.000 share = $183.00 indemnity; or
+(4) Not applicable;
+
+(5) $17,550.00−$13,260.00 = $4,290.00; and
+
+(6) $4,290.00 × 1.000 share = $4,290.00 indemnity; or
 
 If you elected revenue protection:
 
-(1) 50 acres × (650 pound production guarantee × $.1220 projected price) = $3,965.00 revenue protection guarantee
+(1) 50 acres × (1,350 pound production guarantee × $.26 projected price) = $17,550.00 revenue protection guarantee;
 
-(3) 31,000 pound production to count × $.1110 harvest price = $3,441.00 value of the production to count
+(2) Not applicable;
 
-(5) $3,965.00−$3,441.00 = $524.00
+(3) 51,000 pound production to count × $.24 harvest price = $12,240.00 value of the production to count;
 
-(6) $524.00 × 1.000 share = $524.00 indemnity.
+(4) Not applicable;
+
+(5) $17,550.00−$12,240.00 = $5,310.00; and
+
+(6) $5,310.00 × 1.000 share = $5,310.00 indemnity.
+
+*End of Example.*
 
 (c) The total production to count (pounds) from all insurable acreage on the unit will include:
 
@@ -275,8 +287,8 @@ If you elected revenue protection:
 
 In lieu of section 16(a) of the Basic Provisions, the production guarantee for each acre planted to the insured crop during the late planting period will be reduced by 1 percent per day for each day planted after the final planting date unless otherwise specified in the Special Provisions.
 
-14. Prevented Planting.
+14. Prevented Planting
 
 In counties for which the Special Provisions designate a spring final planting date, your prevented planting production guarantee will be based on your approved yield for spring-planted acreage of the insured crop. Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[62 FR 65997, Dec. 17, 1997, as amended at 67 FR 43526, June 28, 2002; 75 FR 15889, Mar. 30, 2010; 81 FR 84401, Nov. 23, 2016; 85 FR 31942, May 28, 2020]
+[62 FR 65997, Dec. 17, 1997, as amended at 67 FR 43526, June 28, 2002; 75 FR 15889, Mar. 30, 2010; 81 FR 84401, Nov. 23, 2016; 85 FR 31942, May 28, 2020; 89 FR 53844, June 27, 2024]

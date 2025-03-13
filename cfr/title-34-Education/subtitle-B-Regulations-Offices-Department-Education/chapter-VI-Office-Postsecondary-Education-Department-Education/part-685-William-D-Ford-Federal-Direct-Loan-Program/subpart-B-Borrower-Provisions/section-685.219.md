@@ -1,7 +1,5 @@
 ##### § 685.219 Public Service Loan Forgiveness Program (PSLF). #####
 
-Link to an amendment published at 88 FR 43905, July 10, 2023.
-
 (a) *Purpose.* The Public Service Loan Forgiveness Program is intended to encourage individuals to enter and continue in full-time public service employment by forgiving the remaining balance of their Direct loans after they satisfy the public service and loan payment requirements of this section.
 
 (b) *Definitions.* The following definitions apply to this section:
@@ -80,7 +78,7 @@ Link to an amendment published at 88 FR 43905, July 10, 2023.
 
 *Qualifying repayment plan* means:
 
-(i) An income-contingent repayment plan under § 685.209 or an income-based repayment plan under § 685.221;
+(i) An income-driven repayment plan under § 685.209;
 
 (ii) The 10-year standard repayment plan under § 685.208(b) or the consolidation loan standard repayment plan with a 10-year repayment term under § 685.208(c); or
 
@@ -106,7 +104,7 @@ Link to an amendment published at 88 FR 43905, July 10, 2023.
 
 (ii) Paying in multiple installments that equal the full scheduled amount due for a monthly payment under the qualifying repayment plan;
 
-(iii) For a borrower on an income-contingent repayment plan under § 685.209 or an income-based repayment plan under § 685.221, paying a lump sum or monthly payment amount that is equal to or greater than the full scheduled amount in advance of the borrower's scheduled payment due date for a period of months not to exceed the period from the Secretary's receipt of the payment until the borrower's next annual repayment plan recertification date under the qualifying repayment plan in which the borrower is enrolled;
+(iii) For a borrower on an income-driven repayment plan under § 685.209, paying a lump sum or monthly payment amount that is equal to or greater than the full scheduled amount in advance of the borrower's scheduled payment due date for a period of months not to exceed the period from the Secretary's receipt of the payment until the borrower's next annual repayment plan recertification date under the qualifying repayment plan in which the borrower is enrolled;
 
 (iv) For a borrower on the 10-year standard repayment plan under § 685.208(b) or the consolidation loan standard repayment plan with a 10-year repayment term under § 685.208(c), paying a lump sum or monthly payment amount that is equal to or greater than the full scheduled amount in advance of the borrower's scheduled payment due date for a period of months not to exceed the period from the Secretary's receipt of the payment until the lesser of 12 months from that date or the date upon which the Secretary receives the borrower's next submission under subsection (e).
 
@@ -174,6 +172,6 @@ Link to an amendment published at 88 FR 43905, July 10, 2023.
 
 (i) Makes an additional payment equal to or greater than the amount they would have paid at that time on a qualifying repayment plan or
 
-(ii) Otherwise qualified for a $0 payment on an income-driven repayment plan under § 685.209 and income-based repayment plan under § 685.221.
+(ii) Otherwise qualified for a $0 payment on an income-driven repayment plan under § 685.209.
 
-[87 FR 66063, Nov. 1, 2022; 88 FR 43065, July 6, 2023]
+[87 FR 66063, Nov. 1, 2022; 88 FR 43065, July 6, 2023; 88 FR 43905, July 10, 2023]

@@ -1,0 +1,3 @@
+##### § 556.205 What does BOEM do before approving a proposed final Five Year program or a significant revision of a previously-approved Five Year program? #####
+
+At least 60 days before the Secretary may approve a proposed final Five Year program or a significant revision to a previously approved final Five Year program, BOEM will submit a proposed final program or proposed significant revision to the President and Congress. BOEM will also submit comments received and indicate the reasons why BOEM did or did not accept any specific recommendation of the Attorney General of the United States, the governor of a State, or the executive of a local government.

@@ -1,0 +1,35 @@
+##### § 229.1604 (Item 1604) De-SPAC transactions. #####
+
+(a) *Forepart of registration statement and outside cover page of the prospectus.* In addition to the information required by § 229.501 (Item 501 of Regulation S-K), provide the following information on the outside front cover page of the prospectus in plain English as required by § 230.421(d) of this chapter:
+
+(1) State the determination, if any, of the board of directors (or similar governing body) of the special purpose acquisition company disclosed in response to § 229.1606(a) (Item 1606(a) of Regulation S-K) and, if applicable, that the special purpose acquisition company or the SPAC sponsor has received a report, opinion, or appraisal referred to in § 229.1607(a) (Item 1607(a) of Regulation S-K).
+
+(2) Describe briefly any material financing transactions that have occurred since the initial public offering of the special purpose acquisition company or will occur in connection with the consummation of the de-SPAC transaction.
+
+(3) State the amount of the compensation received or to be received by the SPAC sponsor, its affiliates, and promoters in connection with the de-SPAC transaction or any related financing transaction; the amount of securities issued or to be issued by the SPAC to the SPAC sponsor, its affiliates, and promoters and the price paid or to be paid for such securities in connection with the de-SPAC transaction or any related financing transaction; and whether this compensation and securities issuance may result in a material dilution of the equity interests of non-redeeming shareholders who hold the securities until the consummation of the de-SPAC transaction. Provide a cross-reference, highlighted by prominent type or in another manner, to the locations of related disclosures in the prospectus.
+
+(4) State whether, in connection with the de-SPAC transaction, there may be any actual or potential material conflict of interest, including any material conflict of interest that may arise in determining whether to proceed with a de-SPAC transaction and any material conflict of interest arising from the manner in which the special purpose acquisition company compensates a SPAC sponsor, officers, and directors or the manner in which a SPAC sponsor compensates its officers and directors, between: on one hand, the SPAC sponsors, their affiliates, SPAC officers, SPAC directors, or promoters, target company officers or target company directors; and, on the other hand, unaffiliated security holders of the SPAC. Provide a cross-reference, highlighted by prominent type or in another manner, to the locations of related disclosures in the prospectus.
+
+(b) *Prospectus summary.* The information required by § 229.503(a) (Item 503(a) of Regulation S-K) must include a brief description of the following in plain English as required by § 230.421(d) of this chapter:
+
+(1) The background and material terms of the de-SPAC transaction;
+
+(2) The determination, if any, of the board of directors (or similar governing body) of the special purpose acquisition company disclosed in response to § 229.1606(a) (Item 1606(a) of Regulation S-K), the material factors that the board of directors (or similar governing body) of the special purpose acquisition company considered in making such determination, and any report, opinion, or appraisal referred to in § 229.1607(a) (Item 1607(a) of Regulation S-K);
+
+(3) In connection with the de-SPAC transaction, any actual or potential material conflict of interest between:
+
+(i) The SPAC sponsor, SPAC officers, SPAC directors, SPAC affiliates or promoters, target company officers, or target company directors; and
+
+(ii) Unaffiliated security holders of the SPAC;
+
+(4) In a tabular format, the terms and amount of the compensation received or to be received by the SPAC sponsor, its affiliates, and promoters in connection with the de-SPAC transaction or any related financing transaction, the amount of securities issued or to be issued by the SPAC to the SPAC sponsor, its affiliates, and promoters and the price paid or to be paid for such securities in connection with the de-SPAC transaction or any related financing transaction; and, outside of the table, the extent to which that compensation and securities issuance has resulted or may result in a material dilution of the equity interests of non-redeeming shareholders of the special purpose acquisition company;
+
+(5) The material terms of any material financing transactions that have occurred or will occur in connection with the consummation of the de-SPAC transaction, the anticipated use of proceeds from these financing transactions and the dilutive impact, if any, of these financing transactions on non-redeeming shareholders; and
+
+(6) The rights of security holders to redeem the outstanding securities of the special purpose acquisition company and the potential dilutive impact of redemptions on non-redeeming shareholders.
+
+(c) *Dilution.* Disclose in a tabular format that includes intervals representing selected potential redemption levels that may occur across a reasonably likely range of outcomes: the offering price disclosed pursuant to § 229.1602(a)(4) (Item 1602(a)(4)) in the initial registered offering by the SPAC; as of the most recent balance sheet date filed, the net tangible book value per share, as adjusted, as if the selected redemption levels have occurred, and to give effect to, while excluding the de-SPAC transaction itself, material probable or consummated transactions and other material effects on the SPAC's net tangible book value per share from the de-SPAC transaction; and the difference between such offering price and such net tangible book value per share, as adjusted. The tabular disclosure must show: the nature and amounts of each source of dilution used to determine net tangible book value per share, as adjusted; the number of shares used to determine net tangible book value per share, as adjusted; and any adjustments to the number of shares used to determine the per share component of net tangible book value per share, as adjusted. Outside of the table, describe each material potential source of future dilution that non-redeeming shareholders may experience by electing not to tender their shares in connection with the de-SPAC transaction, including sources not included in the table with respect to the determination of net tangible book value per share, as adjusted.
+
+(1) With respect to each redemption level, state the company valuation at or above which the potential dilution results in the amount of the non-redeeming shareholders' interest per share being at least the initial public offering price per share of common stock.
+
+(2) Provide a description of the model, methods, assumptions, estimates, and parameters necessary to understand the tabular disclosure.

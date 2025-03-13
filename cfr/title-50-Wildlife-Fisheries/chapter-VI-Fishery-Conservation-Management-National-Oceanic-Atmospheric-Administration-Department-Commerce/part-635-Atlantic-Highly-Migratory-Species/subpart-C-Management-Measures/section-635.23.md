@@ -1,16 +1,30 @@
 ##### § 635.23 Retention limits for bluefin tuna. #####
 
-Link to an amendment published at 89 FR 47104, May 31, 2024.
-
 The retention limits in this section are subject to the quotas and closure provisions in §§ 635.27 and 635.28.
 
-(a) *General category.* (1) No person aboard a vessel that has an Atlantic Tunas General category permit may possess, retain, land, or sell a BFT in the school, large school, or small medium size class.
+(a) *General category.* (1) No school, large school, or small medium size class BFT may be possessed, retained, landed, or sold on or from a vessel that has an Atlantic Tunas General category permit.
 
-(2) On an RFD, no person aboard a vessel that has been issued an Atlantic Tunas General category permit may fish for, possess, retain, land, or sell a BFT of any size class, and catch-and-release or tag-and-release fishing for BFT under § 635.26(a) is not authorized from such vessel. On days other than RFDs, and when the General category is open, large medium or giant BFT may be caught and landed from such vessels up to the daily retention limit in effect for that day. NMFS will annually publish a schedule of RFDs in the Federal Register.
+(2) The following default daily retention limits apply to vessels that have an Atlantic Tunas General category permit or HMS Charter/Headboat permit with a commercial sale endorsement fishing under the General category restrictions and retention limits when the General category is open and the day is not an RFD and the retention limit has not been adjusted per paragraph (a)(3) of this section.
 
-(3) Regardless of the length of a trip, no more than a single day's retention limit of large medium or giant BFT may be possessed or retained aboard a vessel that has an Atlantic Tunas General category permit. On days other than RFDs, when the General category is open, no person aboard such vessel may continue to fish, and the vessel must immediately proceed to port, once the applicable limit for large medium or giant BFT is retained.
+(i) January 1 through March 31—one large medium or giant BFT, per vessel per day;
 
-(4) To provide for maximum utilization of the quota for BFT, and as allowed under paragraph (a)(2) of this section, NMFS may increase or decrease the daily retention limit of large medium and giant BFT over a range from zero (on RFDs) to a maximum of five per vessel. Such increase or decrease will be based on the criteria provided under § 635.27(a)(7). NMFS will adjust the daily retention limit by filing an adjustment with the Office of the Federal Register for publication. Previously designated RFDs may be waived effective upon closure of the General category fishery so that persons aboard vessels permitted in the General category may conduct tag-and-release fishing for BFT under § 635.26(a).
+(ii) June 1 through June 30—three large medium or giant BFT per vessel per day; and
+
+(iii) July 1 through December 30—one large medium or giant BFT per vessel per day.
+
+(3) To provide for maximum utilization of the quota for BFT, NMFS may adjust the daily retention limit of large medium or giant BFT over a range from zero (on RFDs) to a maximum of five per vessel per the inseason criteria provided under § 635.27(a)(7).
+
+(4) Regardless of the length of trip, no person may land, possess, or retain more than the daily retention limit in effect for that day. When the applicable retention limit for large medium or giant BFT has been reached, no person aboard such vessels may continue to fish, and the vessel must immediately proceed to port.
+
+(5) From July 1 through November 30 of each year, every Tuesday, Friday, and Saturday is an RFD unless waived per paragraph (a)(7) of this section. On an RFD, no person who has been issued an Atlantic Tunas General category permit or issued an HMS Charter/Headboat permit and fishing commercially may fish for, possess, retain, land, or sell a BFT of any size class; or catch and release or tag and release, as specified under § 635.26(a), a BFT of any size class.
+
+(6) NMFS may remove or establish additional designated RFDs, as appropriate, following public comment via publication in the Federal Register.
+
+(7) Designated RFDs may be waived in the following circumstances.
+
+(i) If the General category fishery is closed under § 635.28(a), any remaining RFDs for the relevant time period(s) are waived so that persons aboard vessels issued an Atlantic Tunas General category permit may conduct tag-and-release fishing for BFT under § 635.26(a).
+
+(ii) If, based on the criteria at § 635.27(a)(7), NMFS determines that RFDs are not necessary, NMFS may waive RFDs by increasing the daily retention limit per paragraph (a)(3) of this section for a specific time period(s) via publication in the Federal Register.
 
 (b) *Angling category.* BFT may be retained and landed under the daily limits and quotas applicable to the Angling category by persons aboard vessels issued an HMS Angling permit as follows:
 
@@ -32,7 +46,7 @@ The retention limits in this section are subject to the quotas and closure provi
 
 (2) When fishing other than in the Gulf of Mexico when the fishery for the General category is closed or on an RFD, the restrictions and retention limits applicable to the Angling category specified in paragraphs (b)(1) through (b)(3) of this section apply.
 
-(3) When fishing other than in the Gulf of Mexico when the General category fishery is open and not on an RFD, a person aboard a vessel that has been issued an HMS Charter/Headboat permit with a commercial sale endorsement may fish under either the General category restrictions and retention limits as specified in paragraphs (a)(1) through (3) of this section or the Angling category restrictions and retention limits as specified in paragraphs (b)(1) through (3) of this section. The size category of the first BFT retained will determine whether the General category or Angling category restrictions and retention limits apply to the vessel that day.
+(3) When fishing other than in the Gulf of Mexico when the General category fishery is open and no RFD is in effect, a person aboard a vessel that has been issued an HMS Charter/Headboat permit with a commercial sale endorsement may fish under either the General category restrictions and retention limits as specified in paragraphs (a)(1) through (2) and paragraphs (4) through (5) of this section or the Angling category restrictions and retention limits as specified in paragraphs (b)(1) through (3) of this section. The size category of the first BFT retained will determine whether the General category or Angling category restrictions and retention limits apply to the vessel that day.
 
 (4) When fishing other than in the Gulf of Mexico when the General category fishery is open and not on an RFD, a person aboard a vessel that has been issued an HMS Charter/Headboat permit without a commercial sale endorsement permit may only fish for, possess, retain, or land BFT under the Angling category restrictions and retention limits as specified in paragraphs (b)(1) through (3) of this section.
 
@@ -52,4 +66,4 @@ The retention limits in this section are subject to the quotas and closure provi
 
 (f) *Trap category.* Persons aboard a vessel permitted in the Atlantic Tunas Trap category may retain, possess, land, and sell each fishing year only one large medium or giant BFT that is taken incidentally while fishing for other species with a pound net or fish weir. No other Atlantic tunas caught in a pound net or fish weir may be retained.
 
-[64 FR 29135, May 28, 1999, as amended at 65 FR 42887, July 12, 2000; 67 FR 77438, Dec. 18, 2002; 68 FR 32417, May 30, 2003; 68 FR 56788, Oct. 2, 2003; 68 FR 74511, Dec. 24, 2003; 69 FR 40758, July 6, 2004; 70 FR 10900, Mar. 7, 2005; 71 FR 58169, Oct. 2, 2006; 76 FR 39031, July 5, 2011; 76 FR 74009, Nov. 30, 2011; 79 FR 71601, Dec. 2, 2014; 82 FR 57550, Dec. 6, 2017; 83 FR 33156, July 17, 2018; 86 FR 43428, Aug. 9, 2021; 87 FR 60004, Oct. 3, 2022]
+[64 FR 29135, May 28, 1999, as amended at 65 FR 42887, July 12, 2000; 67 FR 77438, Dec. 18, 2002; 68 FR 32417, May 30, 2003; 68 FR 56788, Oct. 2, 2003; 68 FR 74511, Dec. 24, 2003; 69 FR 40758, July 6, 2004; 70 FR 10900, Mar. 7, 2005; 71 FR 58169, Oct. 2, 2006; 76 FR 39031, July 5, 2011; 76 FR 74009, Nov. 30, 2011; 79 FR 71601, Dec. 2, 2014; 82 FR 57550, Dec. 6, 2017; 83 FR 33156, July 17, 2018; 86 FR 43428, Aug. 9, 2021; 87 FR 60004, Oct. 3, 2022; 89 FR 47104, May 31, 2024]

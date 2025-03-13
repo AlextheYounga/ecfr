@@ -1,18 +1,16 @@
 ##### § 232.101 Mandated electronic submissions and exceptions. #####
 
-Link to an amendment published at 87 FR 78807, Dec. 22, 2022.
-
 (a) *Mandated electronic submissions.* (1) The following filings, including any related correspondence and supplemental information, except as otherwise provided, shall be submitted in electronic format:
 
 (i) Registration statements and prospectuses filed pursuant to the Securities Act (15 U.S.C. 77a, *et seq.*) or registration statements filed pursuant to Section 12(b) or 12(g) of the Exchange Act (15 U.S.C. 78l(b) or (g)), and certifications that a security has been approved by an exchange for listing and registration filed pursuant to Section 12(d) of the Exchange Act (15 U.S.C. 78l(d)) and § 240.12d1-3 of this chapter (Rule 12d1-3) under the Exchange Act. The certification that a security has been approved by an exchange for listing and registration must be made on EDGAR in the electronic format required by the EDGAR Filer Manual, as defined in § 232.11 of this chapter (Rule 11 of Regulation S-T). Notwithstanding § 232.104 of this chapter (Rule 104 of Regulation S-T), the certification filed under this paragraph will be considered as officially filed with the Commission;
 
 (ii) Statements and applications filed with the Commission pursuant to the Trust Indenture Act (15 U.S.C. 77aaa *et seq.*), other than applications for exemptive relief filed pursuant to section 304 (15 U.S.C. 77ddd) and section 310 (15 U.S.C. 77jjj) of that Act;
 
-(iii) Statements, reports and schedules filed with the Commission pursuant to sections 13, 14, 15(d) or 16(a) of the Exchange Act (15 U.S.C. 78m, 78n, 78o(d), 78p(a)), and proxy materials required to be furnished for the information of the Commission pursuant to Rules 14a-3 and 14c-3 or in connection with annual reports on Form 10-K (§ 249.310 of this chapter) filed pursuant to section 15(d) of the Exchange Act;
+(iii) Statements, reports, and schedules filed with the Commission pursuant to sections 13, 14, 14A(d), 15(d), or 16(a) of the Exchange Act (15 U.S.C. 78m, 78n, 78n-1(d), 78o(d), and 78p(a)), and proxy materials required to be furnished for the information of the Commission pursuant to §§ 240.14a-3 and 240.14c-3 of this chapter (Rules 14a-3 and 14c-3) or in connection with annual reports on Form 10-K (§ 249.310 of this chapter) filed pursuant to section 15(d) of the Exchange Act;
 
 Note 1 to paragraph (a)(1)(iii).
 
-Electronic filers filing Schedules 13D and 13G with respect to foreign private issuers should include in the submission header all zeroes (*i.e.,* 00-0000000) for the IRS tax identification number because the EDGAR system requires an IRS number tag to be inserted for the subject company as a prerequisite to acceptance of the filing.
+Electronic filers filing Schedules 13D and 13G with respect to foreign private issuers should include in the submission header all zeroes (*i.e.,* 00-0000000) for the Internal Revenue Service (IRS) tax identification number because the EDGAR system requires an IRS number tag to be inserted for the subject company as a prerequisite to acceptance of the filing.
 
 Note 2 to paragraph (a)(1)(iii).
 
@@ -54,7 +52,7 @@ Foreign private issuers must file or submit their Form 6-K reports (§ 249.306 o
 
 (xxi) Form ATS-N (§ 249.640 of this chapter);
 
-(xxii) Confidential treatment requests filed with the Commission pursuant to section 13(f) of the Exchange Act (15 U.S.C. 78m(f)) and the rules and regulations thereunder, including Form 13F (17 CFR 249.325). The filings must be made on EDGAR in the format required by the EDGAR Filer Manual, as defined in § 232.11 (Rule 11 of Regulation S-T). Notwithstanding § 232.104 (Rule 104 of Regulation S-T), the documents filed or furnished under this paragraph will be considered as officially filed with or furnished to, as applicable, the Commission; and
+(xxii) Confidential treatment requests filed with the Commission pursuant to section 13(f) of the Exchange Act (15 U.S.C. 78m(f)) and the rules and regulations in this chapter, including Form 13F (§ 249.325 of this chapter), or pursuant to the instructions to Form N-PX (§§ 249.326 and 274.129 of this chapter). The filings must be made on EDGAR in the format required by the EDGAR Filer Manual, as defined in § 232.11 (Rule 11 of Regulation S-T). Notwithstanding § 232.104 (Rule 104 of Regulation S-T), the documents filed or furnished under this paragraph (a)(1)(xxii) will be considered as officially filed with or furnished to, as applicable, the Commission; and
 
 (xxiii) Any application for an order under any section of the Investment Advisers Act (15 U.S.C. 80b-1 *et seq.*). The filings must be made on EDGAR in the format required by the EDGAR Filer Manual, as defined in § 232.11 (Rule 11 of Regulation S-T). Notwithstanding § 232.104 (Rule 104 of Regulation S-T), the documents filed or furnished under this paragraph will be considered as officially filed with or furnished to, as applicable, the Commission.
 
@@ -132,6 +130,6 @@ Failure to submit a required electronic filing pursuant to this paragraph (a), a
 
 (16) Applications for an exemption from Exchange Act reporting obligations filed pursuant to Section 12(h) of the Exchange Act (15 U.S.C. 78*l*(h)).
 
-(d) All documents, including any information with respect to which confidential treatment is requested, filed pursuant to section 13(n) (15 U.S.C. 78m(n)) and section 13(f) (15 U.S.C. 78m(f)) of the Exchange Act and the rules and regulations thereunder shall be filed in electronic format.
+(d) All documents, including any information with respect to which confidential treatment is requested, filed pursuant to section 13(n) (15 U.S.C. 78m(n)) and section 13(f) (15 U.S.C. 78m(f)) of the Exchange Act and the rules and regulations in this chapter and the instructions to Form N-PX (§§ 249.326 and 274.129 of this chapter) shall be filed in electronic format.
 
 [58 FR 14670, Mar. 18, 1993; 58 FR 26383, May 3, 1993]Editorial Note:For Federal Register citations affecting § 232.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

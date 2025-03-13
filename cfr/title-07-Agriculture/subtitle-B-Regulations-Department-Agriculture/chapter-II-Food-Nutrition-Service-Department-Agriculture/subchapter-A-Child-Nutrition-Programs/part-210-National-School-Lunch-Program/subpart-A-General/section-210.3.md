@@ -1,8 +1,6 @@
 ##### § 210.3 Administration. #####
 
-Link to an amendment published at 89 FR 32063, Apr. 25, 2024.
-
-(a) *FNS.* FNS will act on behalf of the Department in the administration of the Program. Within FNS, the CND will be responsible for Program administration.
+(a) *FNS.* FNS will act on behalf of the Department in the administration of the Program.
 
 (b) *States.* Within the States, the responsibility for the administration of the Program in schools, as defined in § 210.2, shall be in the State educational agency. If the State educational agency is unable to administer the Program in public or private nonprofit residential child care institutions or nonprofit private schools, then Program administration for such schools may be assumed by FNSRO as provided in paragraph (c) of this section, or such other agency of the State as has been designated by the Governor or other appropriate executive or legislative authority of the State and approved by the Department to administer such schools. Each State agency desiring to administer the Program shall enter into a written agreement with the Department for the administration of the Program in accordance with the applicable requirements of this part; parts 235 and 245 of this chapter; parts 15, 15a, and 15b of this title, and 2 CFR part 200; USDA implementing regulations 2 CFR part 400 and part 415; and FNS instructions.
 
@@ -26,4 +24,4 @@ Link to an amendment published at 89 FR 32063, Apr. 25, 2024.
 
 (iii) If the State agency denies the request, the State agency must notify the requesting eligible service provider and state the reason for denying the request in writing within 30 calendar days of the State agency's receipt of the request. The State agency response is final and may not be appealed to FNS.
 
-[53 FR 29147, Aug. 2, 1988, as amended at 71 FR 39515, July 13, 2006; 81 FR 66489, Sept. 28, 2016; 87 FR 57354, Sept. 19, 2022]
+[53 FR 29147, Aug. 2, 1988, as amended at 71 FR 39515, July 13, 2006; 81 FR 66489, Sept. 28, 2016; 87 FR 57354, Sept. 19, 2022; 89 FR 32063, Apr. 25, 2024]

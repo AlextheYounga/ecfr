@@ -1,7 +1,5 @@
 ##### § 226.2 Definitions. #####
 
-Link to an amendment published at 89 FR 32087, Apr. 25, 2024.
-
 *2 CFR part 200,* means the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards published by OMB. The part reference covers applicable: Acronyms and Definitions (subpart A), General Provisions (subpart B), Post Federal Award Requirements (subpart D), Cost Principles (subpart E), and Audit Requirements (subpart F). (NOTE: Pre-Federal Award Requirements and Contents of Federal Awards (subpart C) does not apply to the National School Lunch Program).
 
 *Act* means the National School Lunch Act, as amended.
@@ -160,7 +158,7 @@ Link to an amendment published at 89 FR 32087, Apr. 25, 2024.
 
 (h) An adult who is an SSI or Medicaid participant.
 
-*Functionally impaired adult* means chronically impaired disabled persons 18 years of age or older, including victims of Alzheimer's disease and related disorders with neurological and organic brain dysfunction, who are physically or mentally impaired to the extent that their capacity for independence and their ability to carry out activities of daily living is markedly limited. Activities of daily living include, but are not limited to, adaptive activities such as cleaning, shopping, cooking, taking public transportation, maintaining a residence, caring appropriately for one's grooming or hygiene, using telephones and directories, or using a post office. Marked limitations refer to the severity of impairment, and not the number of limited activities, and occur when the degree of limitation is such as to seriously interfere with the ability to function independently.
+*Functionally impaired adult* means chronically impaired disabled persons 18 years of age or older, including persons with neurological and organic brain dysfunction, with physical or mental impairments to the extent that their capacity for independence and their ability to carry out activities of daily living is markedly limited. Activities of daily living include, but are not limited to, adaptive activities such as cleaning, shopping, cooking, taking public transportation, maintaining a residence, caring appropriately for one's grooming or hygiene, using a telephone, or using a post office. Marked limitations refer to the severity of impairment, and not the number of limited activities, and occur when the degree of limitation is such as to seriously interfere with the ability to function independently.
 
 *Group living arrangement* means residential communities which may or may not be subsidized by federal, State or local funds but which are private residences housing an individual or a group of individuals who are primarily responsible for their own care and who maintain a presence in the community but who may receive on-site monitoring.
 
@@ -196,6 +194,8 @@ Link to an amendment published at 89 FR 32087, Apr. 25, 2024.
 
 *Low-income area* means a geographical area in which at least 50 percent of the children are eligible for free or reduced price school meals under the National School Lunch Program and the School Breakfast Program, as determined in accordance with paragraphs (b) and (c), definition of tier I day care home.
 
+*Meal component* meals means one of the food groups which comprise reimbursable meals. The meal components are: fruits, vegetables, grains, meats/meat alternates, and fluid milk.
+
 *Meals* means food which is served to enrolled participants at an institution, child care facility or adult day care facility and which meets the nutritional requirements set forth in this part. However, children participating in at-risk afterschool care centers, emergency shelters, or outside-schools-hours care centers do not have to be enrolled.
 
 *Medicaid* means *Title XIX* of the Social Security Act.
@@ -228,7 +228,7 @@ Link to an amendment published at 89 FR 32087, Apr. 25, 2024.
 
 *Personal property* means property of any kind except real property. It may be tangible—having physical existence—or intangible—having no physical existence such as patents, inventions, and copyrights.
 
-*Persons with disabilities* means persons of any age who have one or more disabilities, as determined by the State, and who are enrolled in an institution or child care facility serving a majority of persons who are age 18 and under.
+*Persons with disabilities* means persons of any age who have a physical or mental impairment that substantially limits one or more major life activities, have a record of such an impairment, or have been regarded as having such an impairment, and who are enrolled in an institution or child care facility serving a majority of persons who are age 18 and under.
 
 *Pricing program* means an institution, child care facility, or adult day care facility in which a separate identifiable charge is made for meals served to participants.
 
@@ -298,6 +298,8 @@ The term “sponsoring organization” also includes an organization that is ent
 
 *State Children's Health Insurance Program (SCHIP)* means the State medical assistance program under title XXI of the Social Security Act (42 U.S.C. 1397aa *et seq.*).
 
+*State licensed healthcare professional* means an individual who is authorized to write medical prescriptions under State law. This may include, but is not limited to, a licensed physician, nurse practitioner, or physician's assistant, depending on State law.
+
 *Suspended* means the status of an institution or day care home that is temporarily ineligible for participation (including Program payments).
 
 *Suspension review* means the review provided, upon the institution's request, to an institution that has been given a notice of intent to suspend participation (including Program payments), based on a determination that the institution has knowingly submitted a false or fraudulent claim.
@@ -339,6 +341,8 @@ The term “sponsoring organization” also includes an organization that is ent
 *USDA implementing regulations* include the following: 2 CFR part 400, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards; 2 CFR part 415, General Program Administrative Regulations; 2 CFR part 416, General Program Administrative Regulations for Grants and Cooperative Agreements to State and Local Governments; and 2 CFR part 418, New Restrictions on Lobbying.
 
 *Verification* means a review of the information reported by institutions to the State agency regarding the eligibility of participants for free or reduced-price meals, and, in addition, for a pricing program, confirmation of eligibility for free or reduced-price benefits under the program. Verification for a pricing program shall include confirmation of income eligibility and, at State discretion, any other information required on the application which is defined as documentation in § 226.2. Such verification may be accomplished by examining information (e.g., wage stubs, etc.) provided by the household or other sources of information as specified in § 226.23(h)(2)(iv). However, if a SNAP, FDPIR or TANF case number is provided for a child, verification for such child shall include only confirmation that the child is included in a currently certified SNAP or FDPIR household or is a TANF recipient. If a Head Start statement of income eligibility is provided for a child, verification for such child shall include only confirmation that the child is a Head Start participant. For an adult participant, if a SNAP or FDPIR case number or SSI or Medicaid assistance identification number is provided, verification for such participant shall include only confirmation that the participant is included in a currently certified SNAP or FDPIR household or is a current SSI or Medicaid participant.
+
+*Whole grain-rich* is the term designated by FNS to indicate that the grain content of a product is between 50 and 100 percent whole grain with any remaining grains being enriched.
 
 *Whole grains* means foods that consist of intact, ground, cracked, or flaked grain seed whose principal anatomical components—the starchy endosperm, germ, and bran—are present in the same relative proportions as they exist in the intact grain seed.
 

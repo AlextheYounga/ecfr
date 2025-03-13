@@ -1,0 +1,3 @@
+##### § 556.707 What if I want to transfer different types of lease interests (not only record title interests) in the same lease to different parties? #####
+
+You may not transfer different types of lease interests in a lease to different parties using the same instrument. You must submit duplicate, originally executed forms for each transfer, to a different party, of a different type of lease interest. The form used to transfer each type of lease interest must be accompanied by a cover letter executed by one of the parties to the transfer (or an authorized agent thereof) and evidence of payment via *pay.gov.*

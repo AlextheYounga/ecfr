@@ -1,7 +1,5 @@
 ##### § 2801.9 When do I need a grant? #####
 
-Link to an amendment published at 89 FR 35677, May 1, 2024.
-
 (a) You must have a grant under this part when you plan to use public lands for systems or facilities over, under, on, or through public lands. These include, but are not limited to:
 
 (1) Reservoirs, canals, ditches, flumes, laterals, pipelines, tunnels, and other systems which impound, store, transport, or distribute water;
@@ -20,16 +18,18 @@ Link to an amendment published at 89 FR 35677, May 1, 2024.
 
 (c) See part 2880 of this chapter for information about authorizations BLM issues under the Mineral Leasing Act for transporting oil and gas resources.
 
-(d) All systems, facilities, and related activities for solar and wind energy projects are specifically authorized as follows:
+(d) All systems, facilities, and related activities for energy generation, storage, or transmission projects are specifically authorized as follows:
 
 (1) Energy site-specific testing activities, including those with individual meteorological towers and instrumentation facilities, are authorized with a short-term right-of-way grant issued for 3 years or less;
 
 (2) Energy project-area testing activities are authorized with a short-term right-of-way grant for an initial term of 3 years or less with the option to renew for one additional 3-year period under § 2805.14(h) when the renewal application is accompanied by an energy development application;
 
-(3) Solar and wind energy development facilities located outside designated leasing areas, and those facilities located inside designated leasing areas under § 2809.17(d)(2), are authorized with a right-of-way grant issued for up to 30 years (plus the initial partial year of issuance). An application for renewal of the grant may be submitted under § 2805.14(g);
+(3) Energy generation facilities, including solar and wind energy development facilities, are authorized with a right-of-way grant or lease that may be issued for up to 50 years (plus initial partial year of issuance);
 
-(4) Solar and wind energy development facilities located inside designated leasing areas are authorized with a solar or wind energy development lease when issued competitively under subpart 2809. The term is fixed for 30 years (plus the initial partial year of issuance). An application for renewal of the lease may be submitted under § 2805.14(g); and
+(4) Energy storage facilities, which are separate from energy generation facilities, are authorized with a right-of-way grant that may be issued for up to 50 years;
 
 (5) Other associated actions not specifically included in § 2801.9(d)(1) through (4), such as geotechnical testing and other temporary land disturbing activities, are authorized with a short-term right-of-way grant issued for 3 years or less.
 
-[70 FR 21058, Apr. 22, 2005, as amended at 81 FR 92207, Dec. 19, 2016; 89 FR 25959, Apr. 12, 2024]
+(6) Electric transmission lines with a capacity of 100 kV or more are authorized with a right-of-way grant that may be issued for up to 50 years.
+
+[70 FR 21058, Apr. 22, 2005, as amended at 81 FR 92207, Dec. 19, 2016; 89 FR 25959, Apr. 12, 2024; 89 FR 35677, May 1, 2024]
