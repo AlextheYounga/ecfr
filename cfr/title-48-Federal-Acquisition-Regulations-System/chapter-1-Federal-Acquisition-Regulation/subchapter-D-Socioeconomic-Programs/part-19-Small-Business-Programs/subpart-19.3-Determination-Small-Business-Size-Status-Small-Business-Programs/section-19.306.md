@@ -1,7 +1,5 @@
 ##### 19.306 Protesting a firm's status as a HUBZone small business concern. #####
 
-Link to an amendment published at 89 FR 61336, July 30, 2024.
-
 (a) *Definition.* As used in this section—
 
 *Interested party* has the meaning given in 13 CFR 126.103.
@@ -28,9 +26,15 @@ Link to an amendment published at 89 FR 61336, July 30, 2024.
 
 (A) By the close of business on the fifth business day after bid opening; or
 
-(B) By the close of business on the fifth business day from the date of identification of the apparent successful offeror, if the price evaluation preference was not applied at the time of bid opening; or
+(B) By the close of business on the fifth business day from the date of identification of the apparent successful offeror, if the price evaluation preference was not applied at the time of bid opening;
 
-(ii) For negotiated acquisitions, by the close of business on the fifth business day after notification by the contracting officer of the apparently successful offeror.
+(ii) For negotiated acquisitions, by the close of business on the fifth business day after receipt of the special notification from the contracting officer (see 15.503(a)(2)) of the apparently successful offeror, including—
+
+(A) Orders placed under multiple-award contracts where the contracting officer requested rerepresentation for the order (see 13 CFR 126.801(d)(1)); and
+
+(B) Orders set aside for HUBZone small businesses under multiple-award contracts that are not partially or totally set-aside or reserved for HUBZone small business concerns (see 13 CFR 126.801(d)(1)), except for orders and blanket purchase agreements placed under a Federal Supply Schedule contract (see 8.405 and 19.302(d)(5)); or
+
+(iii) By the close of business on the fifth business day after receipt of notification using other communication means when written notification is not required.
 
 (2) Any protest received after the designated time limits is untimely, unless it is from the contracting officer or SBA.
 
@@ -126,4 +130,4 @@ Link to an amendment published at 89 FR 61336, July 30, 2024.
 
 (m) The AA/GC&BD will make its decision within 5 business days of the receipt of the appeal, if practicable, and will base its decision only on the information and documentation in the protest record as supplemented by the appeal. SBA will provide a copy of the decision to the contracting officer, the protester, and the protested HUBZone small business concern. The SBA decision, if received before award, will apply to the pending acquisition. The AA/GC&BD's decision is the final decision.
 
-[63 FR 70269, Dec. 18, 1998, as amended at 64 FR 51831, Sept. 24, 1999; 75 FR 77729, Dec. 13, 2010; 79 FR 43584, July 25, 2014; 87 FR 58235, Sept. 23, 2022; 88 FR 9737, Feb. 14, 2023]
+[63 FR 70269, Dec. 18, 1998, as amended at 64 FR 51831, Sept. 24, 1999; 75 FR 77729, Dec. 13, 2010; 79 FR 43584, July 25, 2014; 87 FR 58235, Sept. 23, 2022; 88 FR 9737, Feb. 14, 2023; 89 FR 61336, July 30, 2024]

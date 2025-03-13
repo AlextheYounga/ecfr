@@ -1,5 +1,7 @@
 ##### § 75.101 Information in the application notice that helps an applicant apply. #####
 
+Link to an amendment published at 89 FR 70320, Aug. 29, 2024.
+
 (a) The Secretary may include such information as the following in an application notice:
 
 (1) How an applicant can get an application package that contains:

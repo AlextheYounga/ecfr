@@ -1,5 +1,7 @@
 ##### § 76.401 Disapproval of an application—opportunity for a hearing. #####
 
+Link to an amendment published at 89 FR 70336, Aug. 29, 2024.
+
 (a) *State agency hearing before disapproval.* Under the programs listed in the chart below, the State agency that administers the program shall provide an applicant with notice and an opportunity for a hearing before it may disapprove the application.
 
 |                                              Program                                              |                                                           Authorizing statute                                                           |Implementing regulations Title 34 CFR Part|

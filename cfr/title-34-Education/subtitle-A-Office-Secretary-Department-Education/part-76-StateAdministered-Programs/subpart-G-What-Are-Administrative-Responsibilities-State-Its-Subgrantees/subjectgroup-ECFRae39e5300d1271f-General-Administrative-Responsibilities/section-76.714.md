@@ -1,5 +1,7 @@
 ##### § 76.714 Subgrants, contracts, and other agreements with faith-based organizations. #####
 
+Link to an amendment published at 89 FR 70339, Aug. 29, 2024.
+
 If a grantee under a State-Administered Formula Grant program of the Department has the authority under the grant or subgrant to select a private organization to provide services supported by direct Federal financial assistance under the program by subgrant, contract, or other agreement, the grantee must ensure compliance with applicable Federal requirements governing contracts, grants, and other agreements with faith-based organizations, including, as applicable, §§ 76.52 and 76.532 and 2 CFR 3474.15. If the pass-through entity is a nongovernmental organization, it retains all other rights of a nongovernmental organization under the program's statutory and regulatory provisions.
 
 [85 FR 82130, Dec. 17, 2020]

@@ -1,5 +1,7 @@
 ##### § 76.661 Equipment and supplies. #####
 
+Link to an amendment published at 89 FR 70339, Aug. 29, 2024.
+
 (a) Under some program statutes, a public agency must keep title to and exercise continuing administrative control of all equipment and supplies that the subgrantee acquires with program funds. This public agency is usually the subgrantee.
 
 (b) The subgrantee may place equipment and supplies in a private school for the period of time needed for the project.

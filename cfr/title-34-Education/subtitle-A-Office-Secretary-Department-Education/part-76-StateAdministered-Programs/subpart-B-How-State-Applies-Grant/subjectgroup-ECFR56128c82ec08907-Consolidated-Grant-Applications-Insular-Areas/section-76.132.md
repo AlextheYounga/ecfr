@@ -1,5 +1,7 @@
 ##### § 76.132 What assurances must be in a consolidated grant application? #####
 
+Link to an amendment published at 89 FR 70336, Aug. 29, 2024.
+
 (a) An Insular Area shall include in its consolidated grant application assurances to the Secretary that it will:
 
 (1) Follow policies and use administrative practices that will insure that non-Federal funds will not be supplanted by Federal funds made available under the authority of the programs in the consolidated grant;

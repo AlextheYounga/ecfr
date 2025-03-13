@@ -1,5 +1,7 @@
 ##### § 79.2 What definitions apply to these regulations? #####
 
+Link to an amendment published at 89 FR 70343, Aug. 29, 2024.
+
 *Department* means the U.S. Department of Education.
 
 *Order* means Executive Order 12372, issued July 14, 1982, amended April 8, 1983, and titled “Intergovernmental Review of Federal Programs.”

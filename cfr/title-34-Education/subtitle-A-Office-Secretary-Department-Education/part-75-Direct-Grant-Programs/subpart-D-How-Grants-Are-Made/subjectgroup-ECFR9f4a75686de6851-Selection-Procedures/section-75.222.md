@@ -1,5 +1,7 @@
 ##### § 75.222 Procedures the Department uses under § 75.219(c). #####
 
+Link to an amendment published at 89 FR 70326, Aug. 29, 2024.
+
 If the Secretary receives an unsolicited application, the Secretary may consider the application under the following procedures unless the Secretary has published a notice in the Federal Register stating that the program that would fund the application would not consider unsolicited applications:
 
 (a)(1) The Secretary determines whether the application could be funded under a competition planned or conducted for the fiscal year under which funds would be used to fund the application.

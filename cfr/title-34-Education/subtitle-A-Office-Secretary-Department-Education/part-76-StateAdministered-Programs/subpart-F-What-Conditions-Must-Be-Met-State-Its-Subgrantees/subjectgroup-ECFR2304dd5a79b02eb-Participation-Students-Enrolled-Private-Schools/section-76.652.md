@@ -1,5 +1,7 @@
 ##### § 76.652 Consultation with representatives of private school students. #####
 
+Link to an amendment published at 89 FR 70339, Aug. 29, 2024.
+
 (a) An applicant for a subgrant shall consult with appropriate representatives of students enrolled in private schools during all phases of the development and design of the project covered by the application, including consideration of:
 
 (1) Which children will receive benefits under the project;

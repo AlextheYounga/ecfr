@@ -36,11 +36,11 @@ None of the requirements of this section apply in the territorial seas or archip
 
 (2) The requirements of paragraph (b)(1) of this section shall apply:
 
-(i) From July 1 through September 30, in each calendar year;
+(i) From July 1 through August 15, in each calendar year;
 
-(ii) In any area of high seas, from November 1 through December 31, in each calendar year.
+(ii) In any area of high seas, from December 1 through December 31, in each calendar year.
 
-(3)(i) *Activating FADs for purse seine vessels.* A vessel owner, operator, or crew of a fishing vessel of the United States equipped with purse seine gear shall turn on the tracking equipment of an active FAD while the FAD is onboard the vessel and before it is deployed in the water.
+(3)(i) *Activating FADs for purse seine vessels.* A vessel owner, operator, or crew of a fishing vessel of the United States equipped with purse seine gear shall turn on the tracking equipment of an active FAD while the FAD is onboard the vessel and before it is deployed in the water in the Convention Area.
 
 (ii) *Restrictions on Active FADs for purse seine vessels.* U.S. vessel owners and operators of a fishing vessel of the United States equipped with purse seine gear shall not have more than 350 drifting active FADs per vessel in the Convention Area at any one time.
 
@@ -126,4 +126,4 @@ None of the requirements of this section apply in the territorial seas or archip
 
 (h) The crew, operator, and owner of a fishing vessel of the United States used for commercial fishing for HMS in the Convention Area must release any whale shark that is encircled in a purse seine net in the Convention Area, and take reasonable steps for its safe release, without compromising the safety of any persons. This paragraph does not apply to the territorial seas or archipelagic waters of any nation, as defined by the domestic laws and regulations of that nation and recognized by the United States.
 
-[74 FR 38554, Aug. 4, 2009, as amended at 76 FR 82183, Dec. 30, 2011; 77 FR 71513, Dec. 3, 2012; 78 FR 30778, May 23, 2013; 80 FR 8815, Feb. 19, 2015; 80 FR 29223, May 21, 2015; 80 FR 51480, Aug. 25, 2015; 80 FR 59048, Oct. 1, 2015; 81 FR 41250, June 24, 2016; 83 FR 33869, July 18, 2018; 84 FR 37148, July 31, 2019; 85 FR 37390, June 22, 2020; 86 FR 31181, June 11, 2021; 88 FR 30678, May 12, 2023]
+[74 FR 38554, Aug. 4, 2009, as amended at 76 FR 82183, Dec. 30, 2011; 77 FR 71513, Dec. 3, 2012; 78 FR 30778, May 23, 2013; 80 FR 8815, Feb. 19, 2015; 80 FR 29223, May 21, 2015; 80 FR 51480, Aug. 25, 2015; 80 FR 59048, Oct. 1, 2015; 81 FR 41250, June 24, 2016; 83 FR 33869, July 18, 2018; 84 FR 37148, July 31, 2019; 85 FR 37390, June 22, 2020; 86 FR 31181, June 11, 2021; 88 FR 30678, May 12, 2023; 89 FR 70124, Aug. 29, 2024]

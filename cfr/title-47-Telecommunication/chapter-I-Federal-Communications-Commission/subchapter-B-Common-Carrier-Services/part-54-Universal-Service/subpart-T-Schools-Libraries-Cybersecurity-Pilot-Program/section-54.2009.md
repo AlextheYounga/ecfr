@@ -1,0 +1,5 @@
+##### § 54.2009 Audits, inspections, and investigations. #####
+
+(a) *Audits.* Schools and Libraries Cybersecurity Pilot Program participants and service providers shall be subject to audits and other investigations to evaluate their compliance with the statutory and regulatory requirements in this chapter of the Schools and Libraries Cybersecurity Pilot Program, including those requirements pertaining to what services and equipment are purchased, what services and equipment are delivered, and how services and equipment are being used.
+
+(b) *Inspections and investigations.* Schools and Libraries Cybersecurity Pilot Program participants and service providers shall permit any representative (including any auditor) appointed by a state education department, the Administrator, the Commission, its Office of Inspector General, or any local, state, or Federal agency with jurisdiction over the entity to enter their premises to conduct inspections for compliance with the statutory and regulatory requirements in this subpart of the Schools and Libraries Cybersecurity Pilot Program.

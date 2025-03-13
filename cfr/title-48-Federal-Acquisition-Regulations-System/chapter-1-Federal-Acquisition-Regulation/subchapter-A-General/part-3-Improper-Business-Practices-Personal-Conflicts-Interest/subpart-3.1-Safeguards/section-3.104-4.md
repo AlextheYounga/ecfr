@@ -1,7 +1,5 @@
 ##### 3.104-4 Disclosure, protection, and marking of contractor bid or proposal information and source selection information. #####
 
-Link to an amendment published at 89 FR 61330, July 30, 2024.
-
 (a) Except as specifically provided for in this subsection, no person or other entity may disclose contractor bid or proposal information or source selection information to any person other than a person authorized, in accordance with applicable agency regulations or procedures, by the agency head or the contracting officer to receive such information.
 
 (b) Contractor bid or proposal information and source selection information must be protected from unauthorized disclosure in accordance with 14.401, 15.207, applicable law, and agency regulations.
@@ -18,7 +16,7 @@ Link to an amendment published at 89 FR 61330, July 30, 2024.
 
 (e) This section does not restrict or prohibit—
 
-(1) A contractor from disclosing its own bid or proposal information or the recipient from receiving that information;
+(1) A contractor from disclosing its own bid or proposal information or the recipient from receiving that information. During reverse auctions, agencies may reveal to all offerors the offered price(s), but shall not reveal any offeror's identity except for the awardee's identity subsequent to an award resulting from the auction (see subpart 17.8);
 
 (2) The disclosure or receipt of information, not otherwise protected, relating to a Federal agency procurement after it has been canceled by the Federal agency, before contract award, unless the Federal agency plans to resume the procurement;
 
@@ -36,4 +34,4 @@ Link to an amendment published at 89 FR 61330, July 30, 2024.
 
 (4) The disclosure, solicitation, or receipt of bid or proposal information or source selection information after award if disclosure, solicitation, or receipt is prohibited by law. (See 3.104-2(b)(5) and subpart 24.2.)
 
-[67 FR 13059, Mar. 20, 2002, as amended at 72 FR 63049, Nov. 7, 2007; 79 FR 24196, Apr. 29, 2014]
+[67 FR 13059, Mar. 20, 2002, as amended at 72 FR 63049, Nov. 7, 2007; 79 FR 24196, Apr. 29, 2014; 89 FR 61330, July 30, 2024]

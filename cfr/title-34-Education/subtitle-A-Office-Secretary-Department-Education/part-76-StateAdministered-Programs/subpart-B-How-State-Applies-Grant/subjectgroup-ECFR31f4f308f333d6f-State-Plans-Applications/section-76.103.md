@@ -1,5 +1,7 @@
 ##### § 76.103 Multi-year State plans. #####
 
+Link to an amendment published at 89 FR 70335, Aug. 29, 2024.
+
 (a) Beginning with fiscal year 1996, each State plan will be effective for a period of more than one fiscal year, to be determined by the Secretary or by regulations.
 
 (b) If the Secretary determines that the multi-year State plans under a program should be submitted by the States on a staggered schedule, the Secretary may require groups of States to submit or resubmit their plans in different years.

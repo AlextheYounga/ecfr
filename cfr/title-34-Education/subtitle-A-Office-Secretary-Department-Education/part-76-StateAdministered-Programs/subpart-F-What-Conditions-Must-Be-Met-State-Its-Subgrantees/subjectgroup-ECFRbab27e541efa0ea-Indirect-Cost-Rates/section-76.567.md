@@ -1,5 +1,7 @@
 ##### § 76.567 Other expenditures—restricted rate. #####
 
+Link to an amendment published at 89 FR 70338, Aug. 29, 2024.
+
 (a) As used in § 76.564, *other expenditures* means the grantee's total expenditures for its federally- and non-federally-funded activities in the most recent year for which data are available. The term also includes direct occupancy and space maintenance costs as determined under § 76.568 and costs related to the chief executive officers of the grantee and components of the grantee and their offices (see § 76.565(c) and (d)).
 
 (b) The term does not include—

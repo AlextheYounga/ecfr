@@ -1,5 +1,7 @@
 ##### § 75.158 Deadlines for State comments. #####
 
+Link to an amendment published at 89 FR 70321, Aug. 29, 2024.
+
 (a) The Secretary may establish a deadline date for receipt of State comments on applications.
 
 (b) The State shall make its comments in a written statement signed by an appropriate State official.

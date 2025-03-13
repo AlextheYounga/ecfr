@@ -1,5 +1,7 @@
 ##### § 75.102 Deadline date for applications. #####
 
+Link to an amendment published at 89 FR 70320, Aug. 29, 2024.
+
 (a) The application notice for a program sets a deadline date for the transmittal of applications to the Department.
 
 (b) If an applicant wants a new grant, the applicant must submit an application in accordance with the requirements in the application notice.

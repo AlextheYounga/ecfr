@@ -1,5 +1,7 @@
 ##### § 75.264 Transfers among budget categories. #####
 
+Link to an amendment published at 89 FR 70329, Aug. 29, 2024.
+
 A grantee may make transfers as specified in 2 CFR 200.308 unless—
 
 (a) ED regulations other than those in 2 CFR part 200 or a statute prohibit these transfers; or

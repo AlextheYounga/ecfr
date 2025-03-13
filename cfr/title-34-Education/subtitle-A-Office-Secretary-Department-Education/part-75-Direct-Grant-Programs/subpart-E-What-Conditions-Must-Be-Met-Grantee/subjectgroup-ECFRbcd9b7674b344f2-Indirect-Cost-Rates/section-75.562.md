@@ -1,5 +1,7 @@
 ##### § 75.562 Indirect cost rates for educational training projects. #####
 
+Link to an amendment published at 89 FR 70330, Aug. 29, 2024.
+
 (a) Educational training grants provide funding for training or other educational services. Examples of the work supported by training grants are summer institutes, training programs for selected participants, the introduction of new or expanded courses, and similar instructional undertakings that are separately budgeted and accounted for by the sponsoring institution. These grants do not usually support activities involving research, development, and dissemination of new educational materials and methods. Training grants largely implement previously developed materials and methods and require no significant adaptation of techniques or instructional services to fit different circumstances.
 
 (b) The Secretary uses the definition in paragraph (a) to determine which grants are educational training grants.

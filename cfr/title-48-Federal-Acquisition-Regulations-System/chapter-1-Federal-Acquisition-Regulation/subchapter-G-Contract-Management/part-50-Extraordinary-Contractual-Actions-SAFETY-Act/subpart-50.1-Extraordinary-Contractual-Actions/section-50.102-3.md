@@ -1,7 +1,5 @@
 ##### 50.102-3 Limitations on exercise of authority. #####
 
-Link to an amendment published at 89 FR 61338, July 30, 2024.
-
 (a) Pub. L. 85-804 is not authority for—
 
 (1) Using a cost-plus-a-percentage-of-cost system of contracting;
@@ -20,7 +18,7 @@ Link to an amendment published at 89 FR 61338, July 30, 2024.
 
 (3) Except within the limits of the amounts appropriated and the statutory contract authorization (however, indemnification agreements authorized by an agency head (50.104-3) are not limited to amounts appropriated or to contract authorization); and
 
-(4) That will obligate the Government for any amount over $35 million, unless the Senate and House Committees on Armed Services are notified in writing of the proposed obligation and 60 days of continuous session of Congress have passed since the transmittal of such notification. However, this paragraph (b)(4) does not apply to indemnification agreements authorized under 50.104-3.
+(4) That will obligate the Government for any amount over $150 million, unless the Senate and House Committees on Armed Services are notified in writing of the proposed obligation and 60 days of continuous session of Congress have passed since the transmittal of such notification. However, this paragraph (b)(4) does not apply to indemnification agreements authorized under 50.104-3.
 
 (c) No contract shall be amended or modified unless the contractor submits a request before all obligations (including final payment) under the contract have been discharged. No amendment or modification shall increase the contract price to an amount higher than the lowest rejected bid of any responsible bidder, if the contract was negotiated under 14.404-1(f).
 
@@ -56,4 +54,4 @@ Link to an amendment published at 89 FR 61338, July 30, 2024.
 
 (ii) The Director of the Office of Management and Budget has approved the exercise of authority under the Executive order.
 
-[72 FR 63030, Nov. 7, 2007, as amended at 75 FR 53134, Aug. 30, 2010; 79 FR 24214, Apr. 29, 2014; 80 FR 38299, July 2, 2015; 85 FR 62489, Oct. 2, 2020]
+[72 FR 63030, Nov. 7, 2007, as amended at 75 FR 53134, Aug. 30, 2010; 79 FR 24214, Apr. 29, 2014; 80 FR 38299, July 2, 2015; 85 FR 62489, Oct. 2, 2020; 89 FR 61338, July 30, 2024]

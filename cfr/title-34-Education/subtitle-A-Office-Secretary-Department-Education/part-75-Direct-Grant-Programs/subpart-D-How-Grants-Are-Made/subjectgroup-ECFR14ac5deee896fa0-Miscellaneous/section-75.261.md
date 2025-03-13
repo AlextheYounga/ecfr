@@ -1,5 +1,7 @@
 ##### § 75.261 Extension of a project period. #####
 
+Link to an amendment published at 89 FR 70329, Aug. 29, 2024.
+
 (a) *General rule.* A grantee may extend the project period of an award one time for a period up to twelve months without the prior approval of the Secretary, if—
 
 (1) The grantee meets the requirements for extension in 2 CFR 200.308(d)(2); and

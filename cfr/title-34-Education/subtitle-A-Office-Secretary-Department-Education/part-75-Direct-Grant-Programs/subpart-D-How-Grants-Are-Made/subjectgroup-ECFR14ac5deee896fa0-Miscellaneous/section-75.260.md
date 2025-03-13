@@ -1,5 +1,7 @@
 ##### § 75.260 Allotments and reallotments. #####
 
+Link to an amendment published at 89 FR 70329, Aug. 29, 2024.
+
 (a) Under some of the programs covered by this part, the Secretary allots funds under a statutory or regulatory formula.
 
 (b) Any reallotment to other grantees will be made by the Secretary in accordance with the authorizing statute for that program.

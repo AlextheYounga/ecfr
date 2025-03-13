@@ -26,6 +26,18 @@ Link to an amendment published at 89 FR 2170, Jan. 12, 2024.
 
 (iii) Where a new attacher has conducted a survey pursuant to paragraph (j)(3) of this section, a utility can elect to satisfy its survey obligations in this paragraph by notifying affected attachers of its intent to use the survey conducted by the new attacher pursuant to paragraph (j)(3) of this section and by providing a copy of the survey to the affected attachers within the time period set forth in paragraph (c)(3)(i) of this section. A utility relying on a survey conducted pursuant to paragraph (j)(3) of this section to satisfy all of its obligations under paragraph (c)(3)(i) of this section shall have 15 days to make such a notification to affected attachers rather than a 45 day survey period.
 
+(4) *Information from cyclical pole inspection reports.* (i) Upon submitting its attachment application, a new attacher may request in writing that the utility provide, as to the poles covered by such attachment application, the information regarding those poles contained in the utility's most recent cyclical pole inspection reports, or, if available, any more recent pole inspection report. The utility shall provide the new attacher with this information within ten (10) business days of the new attacher's written request.
+
+(ii) Utilities shall retain copies of their pole inspection reports, in the form they are created, until a superseding report covering the poles included in the attachment application is completed.
+
+(iii) For purposes of this section, a cyclical pole inspection report is any report that a utility creates in the normal course of its business that sets forth the results of a routine inspection of its poles during the utility's normal pole inspection cycle.
+
+(iv) After requesting and receiving pole inspection information from a utility related to poles covered by its application, a new attacher may amend an attachment application at any time until the utility grants or denies the original application.
+
+(A) A utility that receives such an amended attachment application may, at its option, restart the 45-day period (or 60-day period for larger orders) for responding to the application and conducting the survey.
+
+(B) A utility electing to restart the 45-day period (or 60-day period for larger orders) shall notify the attacher of its intent to do so within five (5) business days of receipt of the amended application or by the 45th day (or 60th day, if applicable) after the original application is considered complete, whichever is earlier.
+
 (d) *Estimate.* Where a new attacher's request for access is not denied, a utility shall present to a new attacher a detailed, itemized estimate, on a pole-by-pole basis where requested, of charges to perform all necessary make-ready within 14 days of providing the response required by paragraph (c) of this section, or in the case where a new attacher has performed a survey, within 14 days of receipt by the utility of such survey. Where a pole-by-pole estimate is requested and the utility incurs fixed costs that are not reasonably calculable on a pole-by-pole basis, the utility present charges on a per-job basis rather than present a pole-by-pole estimate for those fixed cost charges. The utility shall provide documentation that is sufficient to determine the basis of all estimated charges, including any projected material, labor, and other related costs that form the basis of its estimate.
 
 (1) A utility may withdraw an outstanding estimate of charges to perform make-ready work beginning 14 days after the estimate is presented.
@@ -142,4 +154,5 @@ Link to an amendment published at 89 FR 2170, Jan. 12, 2024.
 
 (5) *Post-make-ready timeline.* A new attacher shall notify the affected utility and existing attachers within 15 days after completion of make-ready on a particular pole. The notice shall provide the affected utility and existing attachers at least 90 days from receipt in which to inspect the make-ready. The affected utility and existing attachers have 14 days after completion of their inspection to notify the new attacher of any damage or code violations caused by make-ready conducted by the new attacher on their equipment. If the utility or an existing attacher notifies the new attacher of such damage or code violations, then the utility or existing attacher shall provide adequate documentation of the damage or the code violations. The utility or existing attacher may either complete any necessary remedial work and bill the new attacher for the reasonable costs related to fixing the damage or code violations or require the new attacher to fix the damage or code violations at its expense within 14 days following notice from the utility or existing attacher.
 
-[76 FR 26640, May 9, 2011. Redesignated and amended at 83 FR 44841, Sept. 4, 2018; 83 FR 46836, Sept. 14, 2018]
+[76 FR 26640, May 9, 2011. Redesignated and amended at 83 FR 44841, Sept. 4, 2018; 83 FR 46836, Sept. 14, 2018; 89 FR 2170, Jan. 12, 2024
+]

@@ -1,5 +1,7 @@
 ##### § 76.569 Using the restricted indirect cost rate. #####
 
+Link to an amendment published at 89 FR 70338, Aug. 29, 2024.
+
 (a) Under the programs referenced in § 76.563, the maximum amount of indirect costs under a grant is determined by the following formula:
 
 Indirect costs = (Restricted indirect cost rate) × (Total direct costs of the grant minus capital outlays, subgrants, and other distorting or unallowable items as specified in the grantee's indirect cost rate agreement)

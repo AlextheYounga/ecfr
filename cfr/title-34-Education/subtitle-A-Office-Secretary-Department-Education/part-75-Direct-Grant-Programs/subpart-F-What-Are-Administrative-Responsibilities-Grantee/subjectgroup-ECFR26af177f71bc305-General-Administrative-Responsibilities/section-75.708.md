@@ -1,5 +1,7 @@
 ##### § 75.708 Subgrants. #####
 
+Link to an amendment published at 89 FR 70334, Aug. 29, 2024.
+
 (a) A grantee may not make a subgrant under a program covered by this part unless authorized by statute or by paragraph (b) of this section.
 
 (b) The Secretary may, through an announcement in the Federal Register, authorize subgrants when necessary to meet the purposes of a program. In this announcement, the Secretary will—

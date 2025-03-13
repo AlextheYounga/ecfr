@@ -1,5 +1,7 @@
 ##### § 76.565 General management costs—restricted rate. #####
 
+Link to an amendment published at 89 FR 70338, Aug. 29, 2024.
+
 (a) As used in § 76.564, *general management costs* means the costs of activities that are for the direction and control of the grantee's affairs that are organization-wide. An activity is not organization-wide if it is limited to one activity, one component of the grantee, one subject, one phase of operations, or other single responsibility.
 
 (b) General management costs include the costs of performing a service function, such as accounting, payroll preparation, or personnel management, that is normally at the grantee's level even if the function is physically located elsewhere for convenience or better management. The term also includes certain occupancy and space maintenance costs as determined under § 76.568.

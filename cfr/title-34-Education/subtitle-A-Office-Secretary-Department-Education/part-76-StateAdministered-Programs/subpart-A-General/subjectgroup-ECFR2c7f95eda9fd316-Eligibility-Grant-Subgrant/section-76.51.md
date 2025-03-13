@@ -1,5 +1,7 @@
 ##### § 76.51 A State distributes funds by formula or competition. #####
 
+Link to an amendment published at 89 FR 70335, Aug. 29, 2024.
+
 If a program statute authorizes a State to make subgrants, the statute:
 
 (a) Requires the State to use a formula to distribute funds;

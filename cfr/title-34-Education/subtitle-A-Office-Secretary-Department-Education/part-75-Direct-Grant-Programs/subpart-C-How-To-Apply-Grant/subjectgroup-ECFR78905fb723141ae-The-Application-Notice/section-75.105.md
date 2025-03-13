@@ -1,5 +1,7 @@
 ##### § 75.105 Annual priorities. #####
 
+Link to an amendment published at 89 FR 70320, Aug. 29, 2024.
+
 (a) *What programs are covered by this section?* This section applies to any program for which the Secretary establishes priorities for selection of applications in a particular fiscal year.
 
 (b) *How does the Secretary establish annual priorities?* (1) The Secretary establishes final annual priorities by publishing the priorities in a notice in the Federal Register, usually in the application notice for that program.

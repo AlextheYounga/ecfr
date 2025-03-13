@@ -1,5 +1,7 @@
 ##### § 76.140 Amendments to a State plan. #####
 
+Link to an amendment published at 89 FR 70336, Aug. 29, 2024.
+
 (a) If the Secretary determines that an amendment to a State plan is essential during the effective period of the plan, the State shall make the amendment.
 
 (b) A State shall also amend a State plan if there is a significant and relevant change in:

@@ -1,5 +1,7 @@
 ##### § 77.1 Definitions that apply to all Department programs. #####
 
+Link to an amendment published at 89 FR 70340, Aug. 29, 2024.
+
 (a) [Reserved]
 
 (b) Unless a statute or regulation provides otherwise, the following definitions in 2 CFR part 200 apply to the regulations in subtitles A and B of this title. The section of 2 CFR part 200 that contains the definition is given in parentheses as well as references to the term or terms used in title 34 that are consistent with the term defined in title 2.

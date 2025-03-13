@@ -1,5 +1,7 @@
 ##### § 75.253 Continuation of a multi-year project after the first budget period. #####
 
+Link to an amendment published at 89 FR 70328, Aug. 29, 2024.
+
 (a) The Secretary may make a continuation award for a budget period after the first budget period of an approved multi-year project if:
 
 (1) The Congress has appropriated sufficient funds under the program;

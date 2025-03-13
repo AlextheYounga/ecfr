@@ -1,5 +1,7 @@
 ##### § 75.607 General considerations in designing facilities and carrying out construction. #####
 
+Link to an amendment published at 89 FR 70332, Aug. 29, 2024.
+
 (a) A grantee shall insure that the construction is:
 
 (1) Functional;

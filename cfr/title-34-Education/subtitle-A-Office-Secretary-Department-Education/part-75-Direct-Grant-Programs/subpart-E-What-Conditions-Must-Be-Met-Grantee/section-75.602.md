@@ -1,5 +1,7 @@
 ##### § 75.602 Preservation of historic sites must be described in the application. #####
 
+Link to an amendment published at 89 FR 70331, Aug. 29, 2024.
+
 (a) An applicant shall describe in its application the relationship of the proposed construction to and probable effect on any district, site, building, structure, or object that is:
 
 (1) Included in the National Register of Historic Places; or

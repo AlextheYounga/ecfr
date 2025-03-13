@@ -1,7 +1,5 @@
 ##### 19.307 Protesting a firm's status as a service-disabled veteran-owned small business concern. #####
 
-Link to an amendment published at 89 FR 61336, July 30, 2024.
-
 (a) *Definition. Interested party,* as used in this section, has the meaning given in 13 CFR 134.1002(b).
 
 (b) *General.* (1) For sole source acquisitions, the contracting officer, the Department of Veterans Affairs (VA), or SBA may protest the apparently successful offeror's service-disabled veteran-owned small business (SDVOSB) status. For all other acquisitions, any interested party may protest the apparently successful offeror's service-disabled veteran-owned small business status.
@@ -24,15 +22,21 @@ Link to an amendment published at 89 FR 61336, July 30, 2024.
 
 (2) Assertions that a protested concern is not a service-disabled veteran-owned small business concern, without setting forth specific facts or allegations, will not be considered by OHA (see 13 CFR 134.1005)
 
-(e) *Protest by an interested party.*(1) An interested party (except contracting officers should see paragraph (f)(1) of this section) shall submit its protest to the contracting officer—
+(e) *Protest by an interested party.* (1) An interested party (except contracting officers should see paragraph (f)(1) of this section) shall submit its protest to the contracting officer—
 
-(i) To be received by close of business on the fifth business day after bid opening (in sealed bid acquisitions);
+(i) To be received by close of business on the fifth business day after bid opening for sealed bid acquisitions;
 
-(ii) To be received by close of business on the fifth business day after notification by the contracting officer of the apparently successful offeror (for negotiated acquisitions).
+(ii) To be received by close of business on the fifth business day after receipt of the special notification from the contracting officer (see 15.503(a)(2)) that identifies the apparently successful offeror for negotiated acquisitions, including—
 
-(iii) To be received by close of business on the fifth business day after notification by the contracting officer of the intended awardee for an order that is set aside for SDVOSBs under a multiple-award contract that was not totally or partially set aside or reserved for SDVOSB concerns. This paragraph (e)(1)(iii) does not apply to an order issued under a Federal Supply Schedule (FSS) contract; or
+(A) Orders placed under multiple-award contracts where the contracting officer requested rerepresentation for the order (see 13 CFR 134.1004(a)(3)(ii)); and
 
-(iv) To be received by the close of the fifth business day after notification by the contracting officer of the intended awardee for a blanket purchase agreement that is set aside for SDVOSBs under a multiple-award contract that was not totally or partially set aside or reserved for SDVOSB concerns. This paragraph (e)(1)(iv) does not apply to a blanket purchase agreement issued under a FSS contract.
+(B) Orders set aside for service-disabled veteran-owned small businesses under multiple-award contracts that are not partially or totally set aside or reserved for service-disabled veteran-owned small business concerns (see 13 CFR 134.1004(a)(3)(i)), except for orders and blanket purchase agreements placed under a Federal Supply Schedule contract (see 8.405 and 19.302(d)(5));
+
+(iii) To be received by close of business on the fifth business day after notification by the contracting officer of the intended awardee for an order that is set aside for SDVOSBs under a multiple-award contract that was not totally or partially set aside or reserved for SDVOSB concerns. This paragraph (e)(1)(iii) does not apply to an order issued under a Federal Supply Schedule (FSS) contract;
+
+(iv) To be received by the close of the fifth business day after notification by the contracting officer of the intended awardee for a blanket purchase agreement that is set aside for SDVOSBs under a multiple-award contract that was not totally or partially set aside or reserved for SDVOSB concerns. This paragraph (e)(1)(iv) does not apply to a blanket purchase agreement issued under a FSS contract; or
+
+(v) To be received by the close of business on the fifth business day after receipt of notification using other communication means when written notification is not required.
 
 (2) Any protest received after the designated time limits is untimely, except—
 
@@ -94,4 +98,4 @@ Link to an amendment published at 89 FR 61336, July 30, 2024.
 
 (4) A concern found to be ineligible may not submit future offers as an SDVOSB concern until the concern is designated as an SDVOSB by SBA in the SBA Veteran Small Business Certification Program database at *https://veterans.certify.sba.gov.*
 
-[79 FR 43586, July 25, 2014, as amended at 79 FR 46375, Aug. 8, 2014; 85 FR 11760, Feb. 27, 2020; 88 FR 9737, Feb. 14, 2023; 89 FR 13956, Feb. 23, 2024]
+[79 FR 43586, July 25, 2014, as amended at 79 FR 46375, Aug. 8, 2014; 85 FR 11760, Feb. 27, 2020; 88 FR 9737, Feb. 14, 2023; 89 FR 13956, Feb. 23, 2024; 89 FR 61336, July 30, 2024]

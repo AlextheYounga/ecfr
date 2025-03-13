@@ -1,5 +1,7 @@
 ##### § 76.260 Allotments are made under program statute or regulations. #####
 
+Link to an amendment published at 89 FR 70336, Aug. 29, 2024.
+
 (a) The Secretary allots program funds to a State in accordance with the authorizing statute or implementing regulations for the program.
 
 (b) Any reallotment to other States will be made by the Secretary in accordance with the authorizing statute or implementing regulations for that program.

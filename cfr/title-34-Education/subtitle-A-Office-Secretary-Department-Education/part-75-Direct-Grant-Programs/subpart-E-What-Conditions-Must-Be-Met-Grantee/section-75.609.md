@@ -1,5 +1,7 @@
 ##### § 75.609 Comply with safety and health standards. #####
 
+Link to an amendment published at 89 FR 70332, Aug. 29, 2024.
+
 In planning for and designing facilities, a grantee shall observe:
 
 (a) The standards under the Occupational Safety and Health Act of 1970 (Pub. L. 91-576) (See 36 CFR part 1910); and

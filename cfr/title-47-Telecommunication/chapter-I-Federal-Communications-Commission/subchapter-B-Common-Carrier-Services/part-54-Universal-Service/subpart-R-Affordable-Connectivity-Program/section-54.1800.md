@@ -32,8 +32,6 @@
 
 (6) At least one member of the household receives assistance through the special supplemental nutritional program for women, infants and children established by section 17 of the Child Nutrition Act of 1996 (42 U.S.C. 1786).
 
-(7) Compliance with paragraph (j)(1) of this section will not be required until this paragraph (j)(7) is removed or contains a compliance date, which will not occur until the later of July 15, 2024; or after OMB completes review of any information collection requirements in subpart E of this part, §§ 54.403(a)(4), 54.410(d)(2)(ii), 54.410(i), and 54.424, that the Wireline Competition Bureau determines is required under the Paperwork Reduction Act or the Wireline Competition Bureau determines that such review is not required. The Commission directs the Wireline Competition Bureau to announce a compliance date for the requirements of paragraph (j)(1) by subsequent Public Notice and notification in the Federal Register and to cause this section to be revised accordingly.
-
 (k) *Enrollment representative.* “Enrollment representative” means an employee, agent, contractor, or subcontractor, acting on behalf of a participating provider or third-party entity, who directly or indirectly provides information to the Administrator for the purpose of eligibility verification, enrollment, subscriber personal information updates, benefit transfers, or de-enrollment.
 
 (l) *Household.* A “household” is any individual or group of individuals who are living together at the same address as one economic unit. A household may include related and unrelated persons. An “economic unit” consists of all adult individuals contributing to and sharing in the income and expenses of a household. An adult is any person eighteen years or older. If an adult has no or minimal income, and lives with someone who provides financial support to him/her, both people shall be considered part of the same household. Children under the age of eighteen living with their parents or guardians are considered to be part of the same household as their parents or guardians.
@@ -60,4 +58,4 @@
 
 (s) *Tribal lands.* For purposes of this subpart, “Tribal lands” include any federally recognized Indian tribe's reservation, pueblo, or colony, including former reservations in Oklahoma; Alaska Native regions established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688); Indian allotments; Hawaiian Home Lands—areas held in trust for Native Hawaiians by the State of Hawaii, pursuant to the Hawaiian Homes Commission Act, 1920 July 9, 1921, 42 Stat. 108, *et. seq.,* as amended; and any land designated as such by the Commission for purposes of subpart E of this part pursuant to the designation process in § 54.412.
 
-[87 FR 8373, Feb. 14, 2022, as amended at 88 FR 84447, Dec. 5, 2023]
+[87 FR 8373, Feb. 14, 2022, as amended at 88 FR 84447, Dec. 5, 2023; 89 FR 70120, Aug. 29, 2024]

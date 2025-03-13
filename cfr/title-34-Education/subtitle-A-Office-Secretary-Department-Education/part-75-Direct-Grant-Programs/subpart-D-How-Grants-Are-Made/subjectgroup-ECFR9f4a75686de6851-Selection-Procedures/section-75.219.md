@@ -1,5 +1,7 @@
 ##### § 75.219 Exceptions to the procedures under § 75.217. #####
 
+Link to an amendment published at 89 FR 70326, Aug. 29, 2024.
+
 The Secretary may select an application for funding without following the procedures in § 75.217 if:
 
 (a) The objectives of the project cannot be achieved unless the Secretary makes the grant before the date grants can be made under the procedures in § 75.217;

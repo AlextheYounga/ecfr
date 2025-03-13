@@ -1,5 +1,7 @@
 ##### § 76.707 When obligations are made. #####
 
+Link to an amendment published at 89 FR 70339, Aug. 29, 2024.
+
 The following table shows when a State or a subgrantee makes obligations for various kinds of property and services.
 
 |                                                         If the obligation is for—                                                         |                                        The obligation is made—                                         |

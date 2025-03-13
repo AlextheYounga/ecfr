@@ -1,0 +1,5 @@
+##### § 54.2003 Eligible services and equipment. #####
+
+(a) *Supported services and equipment.* All supported services and equipment are identified in the Schools and Libraries Cybersecurity Pilot Program Eligible Services List (see § 54.502(a)), available on the FCC's website at *https://www.fcc.gov/cybersecurity-pilot/cybersecurity-pilot-eligible-services-list*. The services and equipment in this subpart will be supported in addition to all reasonable charges that are incurred by taking such services, such as state and Federal taxes. Charges for termination liability, penalty surcharges, and other charges not included in the cost of taking such service shall not be covered by universal service support.
+
+(b) *Prohibition on resale.* Eligible supported services and equipment shall not be sold, resold, or transferred in consideration of money or any other thing of value, until the conclusion of the Schools and Libraries Cybersecurity Pilot Program, as provided in § 54.2001.

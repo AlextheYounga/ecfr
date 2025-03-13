@@ -1,10 +1,8 @@
 ##### 19.302 Protesting a small business representation or rerepresentation. #####
 
-Link to an amendment published at 89 FR 61336, July 30, 2024.
-
 (a)(1) The SBA regulations on small business size and size protests are found at 13 CFR part 121.
 
-(2) An offeror, the contracting officer, SBA, or another interested party may protest the small business representation of an offeror in a specific offer for a contract. However, for competitive 8(a) contracts, the filing of a protest is limited to an offeror, the contracting officer, or the SBA.
+(2) An offeror, the contracting officer, SBA, or another interested party may protest the small business representation of an offeror in a specific offer for a contract. However, for competitive 8(a) contracts, the filing of a protest is limited to an offeror, the contracting officer, or SBA. See 13 CFR 121.1001(a).
 
 (b) Any time after offers are received by the contracting officer, or in the case of bids, opened, the contracting officer may question the small business representation of any offeror in a specific offer by filing a contracting officer's protest (see paragraph (c) of this section).
 
@@ -30,19 +28,31 @@ Link to an amendment published at 89 FR 61336, July 30, 2024.
 
 (viii) A complete address and point of contact for the protested concern.
 
-(d) In order to affect a specific solicitation, a protest must be timely. SBA's regulations on timeliness are contained in 13 CFR 121.1004. SBA's regulations on timeliness related to protests of disadvantaged status are contained in 13 CFR 124, Subpart B.
+(d) In order to affect a specific solicitation, a protest must be timely. SBA's regulations on timeliness are contained in 13 CFR 121.1004. SBA's regulations on timeliness related to protests of disadvantaged status are contained in 13 CFR part 124, subpart B.
 
-(1) To be timely, a protest by any concern or other interested party must be received by the contracting officer (see (i) and (ii) of this section by the close of business of the fifth business day after bid opening (in sealed bid acquisitions) or receipt of the special notification from the contracting officer that identifies the apparently successful offeror (in negotiated acquisitions) (see 15.503(a)(2)).
+(1) To be timely, a protest by any concern or other interested party must be received by the contracting officer by the close of business of the fifth business day after—
 
-(i) A protest may be made orally if it is confirmed in writing and received by the contracting officer within the 5-day period or by letter postmarked no later than 1 business day after the oral protest.
+(i) Bid opening for sealed bid acquisitions; or
 
-(ii) A protest may be made in writing if it is delivered to the contracting officer by hand, mail, facsimile, email, express or overnight delivery service.
+(ii) Receipt of the special notification from the contracting officer (see 15.503(a)(2)) that identifies the apparently successful offeror for negotiated acquisitions, including—
 
-(2) Except as provided in paragraph (d)(4) of this section, a protest filed by the contracting officer or SBA is always considered timely whether filed before or after award.
+(A) Partial set-asides and reserves of multiple-award contracts;
 
-(3) A protest under a Multiple Award Schedule will be timely if received by SBA at any time prior to the expiration of the contract period, including renewals.
+(B) Orders that are set-aside under an unrestricted multiple-award contract (except for orders and blanket purchase agreements placed under a Federal Supply Schedule contract (see 8.405 and paragraph (d)(5) of this section)); and
 
-(4) A protest filed before bid opening, or notification to offerors of the selection of the apparent successful offeror, will be dismissed as premature by SBA.
+(C) Orders placed under multiple-award contracts where the contracting officer requested rerepresentation for the order; or
+
+(iii) Receipt of notification using other communication means when written notification is not required.
+
+(2) A protest may be made orally if it is confirmed in writing and received by the contracting officer within the 5-day period or by letter postmarked no later than 1 business day after the oral protest.
+
+(3) A protest may be made in writing if it is delivered to the contracting officer by hand, mail, facsimile, email, express or overnight delivery service.
+
+(4) Except as provided in paragraph (d)(6) of this section, a protest filed by the contracting officer or SBA is always considered timely whether filed before or after award.
+
+(5) A protest under a Multiple Award Schedule will be timely if received by SBA at any time prior to the expiration of the contract period, including renewals.
+
+(6) A protest filed before bid opening, or notification to offerors of the selection of the apparent successful offeror, will be dismissed as premature by SBA.
 
 (e) Upon receipt of a protest from or forwarded by the Contracting Office, the SBA will—
 
@@ -70,4 +80,4 @@ Link to an amendment published at 89 FR 61336, July 30, 2024.
 
 (j) When a concern is found to be other than small under a protest concerning a size status rerepresentation made in accordance with the clause at 52.219-28, Post-Award Small Business Program Rerepresentation, a contracting officer may permit contract performance to continue, issue orders, or exercise option(s), because the contract remains a valid contract.
 
-[48 FR 42240, Sept. 19, 1983, as amended at 50 FR 1743, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 51 FR 2664, Jan. 17, 1986; 60 FR 42656, Aug. 16, 1995; 61 FR 69289, Dec. 31, 1996; 62 FR 44820, Aug. 22, 1997; 62 FR 51270, Sept. 30, 1997; 63 FR 9053, 9055, Feb. 23, 1998; 63 FR 35722, June 30, 1998; 64 FR 32743, June 17, 1999; 67 FR 13054, Mar. 20, 2002; 72 FR 36855, July 5, 2007; 79 FR 43582, July 25, 2014; 81 FR 83099, Nov. 18, 2016; 85 FR 11760, Feb. 27, 2020]
+[48 FR 42240, Sept. 19, 1983, as amended at 50 FR 1743, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 51 FR 2664, Jan. 17, 1986; 60 FR 42656, Aug. 16, 1995; 61 FR 69289, Dec. 31, 1996; 62 FR 44820, Aug. 22, 1997; 62 FR 51270, Sept. 30, 1997; 63 FR 9053, 9055, Feb. 23, 1998; 63 FR 35722, June 30, 1998; 64 FR 32743, June 17, 1999; 67 FR 13054, Mar. 20, 2002; 72 FR 36855, July 5, 2007; 79 FR 43582, July 25, 2014; 81 FR 83099, Nov. 18, 2016; 85 FR 11760, Feb. 27, 2020; 89 FR 61336, July 30, 2024]

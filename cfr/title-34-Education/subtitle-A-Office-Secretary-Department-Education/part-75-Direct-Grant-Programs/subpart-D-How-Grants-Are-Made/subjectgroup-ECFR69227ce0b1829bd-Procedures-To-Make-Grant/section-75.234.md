@@ -1,5 +1,7 @@
 ##### § 75.234 The conditions of the grant. #####
 
+Link to an amendment published at 89 FR 70328, Aug. 29, 2024.
+
 (a) The Secretary makes a grant to an applicant only after determining—
 
 (1) The approved costs; and

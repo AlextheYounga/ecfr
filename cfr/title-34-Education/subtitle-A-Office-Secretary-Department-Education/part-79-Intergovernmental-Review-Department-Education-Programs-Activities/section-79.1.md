@@ -1,5 +1,7 @@
 ##### § 79.1 What is the purpose of these regulations? #####
 
+Link to an amendment published at 89 FR 70343, Aug. 29, 2024.
+
 (a) The regulations in this part implement Executive Order 12372, “Intergovernmental Review of Federal Programs,” issued July 14, 1982 and amended on April 8, 1983. These regulations also implement applicable provisions of Section 401 of the Intergovernmental Cooperation Act of 1968 and Section 204 of the Demonstration Cities and Metropolitan Development Act of 1966.
 
 (b) These regulations are intended to foster an intergovernmental partnership and a strengthened Federalism by relying on state processes and on state, areawide, regional, and local coordination for review of proposed federal financial assistance.

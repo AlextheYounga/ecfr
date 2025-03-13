@@ -1,5 +1,7 @@
 ##### § 1.7005 Disclosure of data in the Fabric and Digital Opportunity Data Collection filings. #####
 
+Link to an amendment published at 89 FR 66268, Aug. 15, 2024.
+
 (a) The Commission shall protect the security, privacy, and confidentiality of non-public or competitively sensitive information submitted by entities or individuals, including information contained in the Fabric, the dataset supporting the Fabric, and availability data submitted pursuant to § 1.7004, by:
 
 (1) Withholding from public inspection all data required to be kept confidential pursuant to § 0.457 of this chapter and all personally identifiable information submitted in connection with the information contained in the Fabric, the dataset supporting the Fabric, and availability data submitted pursuant to § 1.7004; and

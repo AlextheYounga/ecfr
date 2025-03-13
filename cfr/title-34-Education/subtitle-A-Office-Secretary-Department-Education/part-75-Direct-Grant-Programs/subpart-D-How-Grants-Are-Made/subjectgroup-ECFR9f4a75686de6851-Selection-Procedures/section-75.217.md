@@ -1,5 +1,7 @@
 ##### § 75.217 How the Secretary selects applications for new grants. #####
 
+Link to an amendment published at 89 FR 70326, Aug. 29, 2024.
+
 (a) The Secretary selects applications for new grants on the basis of the authorizing statute, the selection criteria, and any priorities or other requirements that have been published in the Federal Register and apply to the selection of those applications.
 
 (b)(1) The Secretary may use experts to evaluate the applications submitted under a program.

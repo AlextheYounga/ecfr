@@ -1,5 +1,7 @@
 ##### § 79.9 How does the Secretary receive and respond to comments? #####
 
+Link to an amendment published at 89 FR 70343, Aug. 29, 2024.
+
 (a) The Secretary follows the procedure in § 79.10 if:
 
 (1) A state office or official is designated to act as a single point of contact between a state process and all federal agencies, and

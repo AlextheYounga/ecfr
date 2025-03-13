@@ -1,5 +1,7 @@
 ##### § 76.787 What definitions apply to this subpart? #####
 
+Link to an a FR 70340, Aug. 29, 2024.
+
 For purposes of this subpart—
 
 *Academic year* means the regular school year (as defined by State law, policy, or practice) and for which the State allocates funds under a covered program.

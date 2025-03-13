@@ -1,5 +1,7 @@
 ##### § 75.216 Applications not evaluated for funding. #####
 
+Link to an amendment published at 89 FR 70326, Aug. 29, 2024.
+
 The Secretary does not evaluate an application if—
 
 (a) The applicant is not eligible;

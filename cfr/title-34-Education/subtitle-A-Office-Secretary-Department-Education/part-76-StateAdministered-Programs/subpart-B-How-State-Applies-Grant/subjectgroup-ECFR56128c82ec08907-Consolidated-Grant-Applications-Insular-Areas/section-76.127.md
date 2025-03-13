@@ -1,5 +1,7 @@
 ##### § 76.127 What is the purpose of a consolidated grant? #####
 
+Link to an amendment published at 89 FR 70335, Aug. 29, 2024.
+
 An Insular Area may apply for a consolidated grant for two or more of the programs listed in § 76.125(c). This procedure is intended to:
 
 (a) Simplify the application and reporting procedures that would otherwise apply for each of the programs included in the consolidated grant; and

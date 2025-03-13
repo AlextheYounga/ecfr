@@ -1,5 +1,7 @@
 ##### § 79.3 What programs and activities of the Department are subject to these regulations? #####
 
+Link to an amendment published at 89 FR 70343, Aug. 29, 2024.
+
 (a) The Secretary publishes in the Federal Register a list of the Department's programs and activities that are subject to these regulations and identifies which of these are subject to the requirements of section 204 of the Demonstration Cities and Metropolitan Development Act.
 
 (b) If a program or activity of the Department that provides Federal financial assistance does not have implementing regulations, the regulations in this part apply to that program or activity.

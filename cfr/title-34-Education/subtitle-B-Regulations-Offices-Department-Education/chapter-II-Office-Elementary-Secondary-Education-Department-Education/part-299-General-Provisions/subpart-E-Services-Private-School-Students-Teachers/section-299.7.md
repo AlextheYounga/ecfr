@@ -1,5 +1,7 @@
 ##### § 299.7 What are the factors for determining equitable participation of children and teachers in private schools? #####
 
+Link to an amendment published at 89 FR 70344, Aug. 29, 2024.
+
 (a) *Equal expenditures.* (1) Expenditures of funds made by an agency, consortium, or entity under a program listed in § 299.6 (b) for services for eligible private school children and their teachers and other educational personnel must be equal on a per-pupil basis to the amount of funds expended for participating public school children and their teachers and other educational personnel, taking into account the number and educational needs of those children and their teachers and other educational personnel.
 
 (2) Before determining equal expenditures under paragraph (a)(1) of this section, an agency, consortium, or entity shall pay for the reasonable and necessary administrative costs of providing services to public and private school children and their teachers and other educational personnel from the agency's, consortium's, or entity's total allocation of funds under the applicable ESEA program.

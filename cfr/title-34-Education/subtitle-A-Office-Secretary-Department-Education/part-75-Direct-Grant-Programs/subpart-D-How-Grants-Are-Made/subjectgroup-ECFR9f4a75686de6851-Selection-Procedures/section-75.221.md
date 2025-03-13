@@ -1,5 +1,7 @@
 ##### § 75.221 Procedures the Department uses under § 75.219(b). #####
 
+Link to an amendment published at 89 FR 70326, Aug. 29, 2024.
+
 If the special circumstances of § 75.219(b) appear to exist for an application, the Secretary may select the application for funding if:
 
 (a) The Secretary has documentary evidence that the special circumstances of § 75.219(b) exist; and

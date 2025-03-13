@@ -1,5 +1,7 @@
 ##### § 76.50 Statutes determine eligibility and whether subgrants are made. #####
 
+Link to an amendment published at 89 FR 70335, Aug. 29, 2024.
+
 (a) Under a program covered by this part, the Secretary makes a grant:
 
 (1) To the State agency designated by the authorizing statute for the program; or

@@ -1,5 +1,7 @@
 ##### § 75.534 Training grants—automatic increases for additional dependents. #####
 
+Link to an amendment published at 89 FR 70329, Aug. 29, 2024.
+
 The Secretary may increase a grant to cover the cost of additional dependents not specified in the notice of award under § 75.235 if—
 
 (a) Allowances for dependents are authorized by the program statute and are allowable under the grant; and

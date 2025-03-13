@@ -1,5 +1,7 @@
 ##### § 76.400 State procedures for reviewing an application. #####
 
+Link to an amendment published at 89 FR 70336, Aug. 29, 2024.
+
 A State that receives an application for a subgrant shall take the following steps:
 
 (a) *Review.* The State shall review the application.

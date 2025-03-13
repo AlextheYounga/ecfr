@@ -1,5 +1,7 @@
 ##### § 299.11 What complaint procedures shall an SEA adopt? #####
 
+Link to an amendment published at 89 FR 70344, Aug. 29, 2024.
+
 (a) *General.* An SEA shall adopt written procedures, consistent with State law, for—
 
 (1) Receiving and resolving any complaint from an organization or individual that the SEA or an agency or consortium of agencies is violating a Federal statute or regulation that applies to an applicable program listed in paragraph (b) of this section;

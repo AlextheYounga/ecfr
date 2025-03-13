@@ -1,5 +1,7 @@
 ##### § 299.9 What are the requirements concerning property, equipment, and supplies for the benefit of private school children and teachers? #####
 
+Link to an amendment published at 89 FR 70344, Aug. 29, 2024.
+
 (a) A agency, consortium, or entity must keep title to, and exercise continuing administrative control of, all property, equipment, and supplies that the agency, consortium, or entity acquires with funds under a program listed in § 299.6(b) for the benefit of eligible private school children and their teachers and other educational personnel.
 
 (b) The agency, consortium, or entity may place equipment and supplies in a private school for the period of time needed for the program.

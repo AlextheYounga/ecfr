@@ -1,5 +1,7 @@
 ##### § 76.1 Programs to which part 76 applies. #####
 
+Link to an amendment published at 89 FR 70334, Aug. 29, 2024.
+
 (a) The regulations in part 76 apply to each State-administered program of the Department.
 
 (b) If a State formula grant program does not have implementing regulations, the Secretary implements the program under the authorizing statute and, to the extent consistent with the authorizing statute, under the General Education Provisions Act and the regulations in this part. For the purposes of this part, the term *State formula grant program* means a program whose authorizing statute or implementing regulations provide a formula for allocating program funds among eligible States.

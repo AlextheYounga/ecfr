@@ -1,5 +1,7 @@
 ##### § 299.12 What items are included in the complaint procedures? #####
 
+Link to an amendment published at 89 FR 70344, Aug. 29, 2024.
+
 An SEA shall include the following in its complaint procedures:
 
 (a)(1) Except as provided in paragraph (a)(2) of this section, a reasonable time limit after the SEA receives a complaint for resolving the complaint in writing, including a provision for carrying out an independent on-site investigation, if necessary.

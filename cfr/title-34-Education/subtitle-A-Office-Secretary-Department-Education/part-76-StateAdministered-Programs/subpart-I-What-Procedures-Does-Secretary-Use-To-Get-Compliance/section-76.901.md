@@ -1,5 +1,7 @@
 ##### § 76.901 Office of Administrative Law Judges. #####
 
+Link to an amendment published at 89 FR 70340, Aug. 29, 2024.
+
 (a) The Office of Administrative Law Judges, established under Part E of GEPA, has the following functions:
 
 (1) Recovery of funds hearings under section 452 of GEPA.

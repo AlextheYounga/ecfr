@@ -1,5 +1,7 @@
 ##### § 1.7009 Enforcement. #####
 
+Link to an amendment published at 89 FR 66268, Aug. 15, 2024.
+
 (a) It shall be unlawful for an entity or individual to willfully and knowingly, or recklessly, submit information or data as part of the Digital Opportunity Data Collection that is materially inaccurate or incomplete with respect to the availability or the quality of broadband internet access service. Such action may lead to enforcement action and/or penalties as set forth in the Communications Act and other applicable laws.
 
 (b) Failure to make the Digital Opportunity Data Collection filing in accordance with the Commission's rules and the instructions to the Digital Opportunity Data Collection may lead to enforcement action pursuant to the Communications Act of 1934, as amended, and any other applicable law.

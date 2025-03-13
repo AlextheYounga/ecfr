@@ -1,5 +1,7 @@
 ##### § 76.783 State educational agency action—subgrantee's opportunity for a hearing. #####
 
+Link to an amendment published at 89 FR 70340, Aug. 29, 2024.
+
 (a) A subgrantee may request a hearing if it alleges that any of the following actions by the State educational agency violated a State or Federal statute or regulation:
 
 (1) Ordering, in accordance with a final State audit resolution determination, the repayment of misspent or misapplied Federal funds; or

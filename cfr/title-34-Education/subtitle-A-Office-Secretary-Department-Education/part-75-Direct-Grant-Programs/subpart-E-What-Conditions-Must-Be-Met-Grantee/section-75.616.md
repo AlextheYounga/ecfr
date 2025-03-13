@@ -1,5 +1,7 @@
 ##### § 75.616 Energy conservation. #####
 
+Link to an amendment published at 89 FR 70333, Aug. 29, 2024.
+
 (a) To the extent feasible, a grantee shall design and construct facilities to maximize the efficient use of energy.
 
 (b) The following standards of the American Society of Heating, Refrigerating, and Air Conditioning Engineers (ASHRAE) are incorporated by reference in this section:

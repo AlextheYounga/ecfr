@@ -1,5 +1,7 @@
 ##### § 1.907 Definitions. #####
 
+Link to an amendment published at 89 FR 63314, Aug. 5, 2024.
+
 *Antenna structure.* The term antenna structure includes the radiating and receiving elements, its supporting structures, towers, and all appurtenances mounted thereon.
 
 *Application.* A request on a standard form for a station license as defined in § 3(b) of the Communications Act, signed in accordance with § 1.917 of this part, or a similar request to amend a pending application or to modify or renew an authorization. The term also encompasses requests to assign rights granted by the authorization or to transfer control of entities holding authorizations.

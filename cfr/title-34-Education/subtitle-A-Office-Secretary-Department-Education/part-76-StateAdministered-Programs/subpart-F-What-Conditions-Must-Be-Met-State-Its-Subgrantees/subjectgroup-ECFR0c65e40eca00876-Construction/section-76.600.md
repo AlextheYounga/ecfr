@@ -1,5 +1,7 @@
 ##### § 76.600 Where to find construction regulations. #####
 
+Link to an amendment published at 89 FR 70338, Aug. 29, 2024.
+
 (a) A State or a subgrantee that requests program funds for construction, or whose grant or subgrant includes funds for construction, shall comply with the rules on construction that apply to applicants and grantees under 34 CFR 75.600-75.617.
 
 (b) The State shall perform the functions that the Secretary performs under §§ 75.602 (Preservation of historic sites) and 75.605 (Approval of drawings and specifications) of this title.

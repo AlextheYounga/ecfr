@@ -1,5 +1,7 @@
 ##### § 75.60 Individuals ineligible to receive assistance. #####
 
+Link to an amendment published at 89 FR 70320, Aug. 29, 2024.
+
 (a) An individual is ineligible to receive a fellowship, scholarship, or discretionary grant funded by the Department if the individual—
 
 (1) Is not current in repaying a debt or is in default, as that term is used in 34 CFR part 668, on a debt—

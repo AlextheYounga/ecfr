@@ -1,0 +1,5 @@
+##### § 54.2010 Records retention and production. #####
+
+(a) *Recordkeeping requirements.* All Schools and Libraries Cybersecurity Pilot Program participants and service providers shall retain all documents related to their participation in the program sufficient to demonstrate compliance with all program rules for at least ten years from the last date of service or delivery of equipment. All Schools and Libraries Cybersecurity Pilot Program applicants shall maintain asset and inventory records of services and equipment purchased sufficient to verify the actual location of such services and equipment for a period of ten years after purchase.
+
+(b) *Production of records.* All Schools and Libraries Cybersecurity Pilot Program participants and service providers shall produce such records upon request of any representative (including any auditor) appointed by a state education department, the Administrator, the Commission, its Office of Inspector General, or any local, state, or Federal agency with jurisdiction over the entity.

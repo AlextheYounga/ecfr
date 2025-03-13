@@ -1,5 +1,7 @@
 ##### § 76.761 Federal funds may pay 100 percent of cost. #####
 
+Link to an amendment published at 89 FR 70340, Aug. 29, 2024.
+
 A State or a subgrantee may use program funds to pay up to 100 percent of the cost of a project if:
 
 (a) The State or subgrantee is not required to match the funds; and

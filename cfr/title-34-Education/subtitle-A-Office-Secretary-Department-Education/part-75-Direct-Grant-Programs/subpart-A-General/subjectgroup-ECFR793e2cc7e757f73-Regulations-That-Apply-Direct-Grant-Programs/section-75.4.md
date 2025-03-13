@@ -1,5 +1,7 @@
 ##### § 75.4 Department contracts. #####
 
+Link to an amendment published at 89 FR 70320, Aug. 29, 2024.
+
 (a) A Federal contract made by the Department is governed by—
 
 (1) Chapters 1 and 34 of title 48 of the Code of Federal Regulations (Federal Acquisition Regulation and Education Department Acquisition Regulation).

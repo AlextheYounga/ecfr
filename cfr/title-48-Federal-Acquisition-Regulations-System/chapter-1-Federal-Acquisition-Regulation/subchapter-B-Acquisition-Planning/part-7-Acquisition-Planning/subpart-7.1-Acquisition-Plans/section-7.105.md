@@ -1,7 +1,5 @@
 ##### 7.105 Contents of written acquisition plans. #####
 
-Link to an amendment published at 89 FR 61330, July 30, 2024.
-
 In order to facilitate attainment of the acquisition objectives, the plan must identify those milestones at which decisions should be made (*see* paragraph (b)(21) of this section). The plan must address all the technical, business, management, and other significant considerations that will control the acquisition. The specific content of plans will vary, depending on the nature, circumstances, and stage of the acquisition. In preparing the plan, the planner must follow the applicable instructions in paragraphs (a) and (b) of this section, together with the agency's implementing procedures. Acquisition plans for service contracts or orders must describe the strategies for implementing performance-based acquisition methods or must provide rationale for not using those methods (see subpart 37.6).
 
 (a) *Acquisition background and objectives*—(1) *Statement of need.* Introduce the plan by a brief statement of need. Summarize the technical and contractual history of the acquisition. Discuss feasible acquisition alternatives, the impact of prior acquisitions on those alternatives, and any related in-house effort.
@@ -56,7 +54,7 @@ In order to facilitate attainment of the acquisition objectives, the plan must i
 
 (3) *Contract type selection.* Discuss the rationale for the selection of contract type. For other than firm-fixed-price contracts, *see* 16.103(d) for additional documentation guidance. Acquisition personnel shall document the acquisition plan with findings that detail the particular facts and circumstances, (*e.g.,* complexity of the requirements, uncertain duration of the work, contractor's technical capability and financial responsibility, or adequacy of the contractor's accounting system), and associated reasoning essential to support the contract type selection. The contracting officer shall ensure that requirements and technical personnel provide the necessary documentation to support the contract type selection.
 
-(4) *Source-selection procedures.* Discuss the source-selection procedures for the acquisition, including the timing for submission and evaluation of proposals, and the relationship of evaluation factors to the attainment of the acquisition objectives (see subpart 15.3). When an EVMS is required (see FAR 34.202(a)) and a pre-award IBR is contemplated, the acquisition plan must discuss—
+(4) *Source-selection procedures.* Discuss the source-selection procedures for the acquisition, including the basis for using a reverse auction (when applicable),the timing for submission and evaluation of proposals, and the relationship of evaluation factors to the attainment of the acquisition objectives (see subpart 15.3). When an EVMS is required (see FAR 34.202(a)) and a preaward IBR is contemplated, the acquisition plan must discuss—
 
 (i) How the pre-award IBR will be considered in the source selection decision;
 

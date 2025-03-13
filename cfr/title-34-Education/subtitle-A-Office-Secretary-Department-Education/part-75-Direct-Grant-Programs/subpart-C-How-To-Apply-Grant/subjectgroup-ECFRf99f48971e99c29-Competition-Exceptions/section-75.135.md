@@ -1,5 +1,7 @@
 ##### § 75.135 Competition exception for proposed implementation sites, implementation partners, or service providers. #####
 
+Link to an amendment published at 89 FR 70321, Aug. 29, 2024.
+
 (a) When entering into a contract with implementation sites or partners, an applicant is not required to comply with the competition requirements in 2 CFR 200.320(c) and (d), if—
 
 (1) The contract is with an entity that agrees to provide a site or sites where the applicant would conduct the project activities under the grant;

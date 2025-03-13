@@ -1,5 +1,7 @@
 ##### § 75.610 Access by the handicapped. #####
 
+Link to an amendment published at 89 FR 70332, Aug. 29, 2024.
+
 A grantee shall comply with the Federal regulations on access by the handicapped that apply to construction and alteration of facilities. These regulations are:
 
 (a) For residential facilities—24 CFR part 40; and

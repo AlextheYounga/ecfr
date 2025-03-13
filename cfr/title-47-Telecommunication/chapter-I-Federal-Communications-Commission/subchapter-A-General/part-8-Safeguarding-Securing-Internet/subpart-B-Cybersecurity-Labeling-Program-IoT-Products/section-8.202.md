@@ -1,0 +1,3 @@
+##### § 8.202 Basis and purpose. #####
+
+In order to elevate the Nation's cybersecurity posture and provide consumers with assurances regarding their baseline cybersecurity, thereby addressing risks of harmful radiofrequency interference to and from consumer internet-connected (Internet of Things or IoT) products the Federal Communications Commission establishes a labeling program for consumer IoT products.

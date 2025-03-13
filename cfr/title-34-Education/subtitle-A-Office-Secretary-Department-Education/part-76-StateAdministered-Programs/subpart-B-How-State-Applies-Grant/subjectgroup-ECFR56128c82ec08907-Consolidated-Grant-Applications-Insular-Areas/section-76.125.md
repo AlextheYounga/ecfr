@@ -1,5 +1,7 @@
 ##### § 76.125 What is the purpose of these regulations? #####
 
+Link to an amendment published at 89 FR 70335, Aug. 29, 2024.
+
 (a) Sections 76.125 through 76.137 of this part contain requirements for the submission of an application by an Insular Area for the consolidation of two or more grants under the programs described in paragraph (c) of this section.
 
 (b) For the purpose of §§ 76.125-76.137 of this part the term *Insular Area* means the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Commonwealth of the Northern Mariana Islands.

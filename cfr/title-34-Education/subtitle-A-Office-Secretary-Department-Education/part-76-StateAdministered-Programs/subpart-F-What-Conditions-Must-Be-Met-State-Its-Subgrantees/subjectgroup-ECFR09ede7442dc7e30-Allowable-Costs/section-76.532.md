@@ -1,5 +1,7 @@
 ##### § 76.532 Use of funds for religion prohibited. #####
 
+Link to an amendment published at 89 FR 70337, Aug. 29, 2024.
+
 (a) No State or subgrantee may use its grant or subgrant to pay for any of the following:
 
 (1) Religious worship, instruction, or proselytization.

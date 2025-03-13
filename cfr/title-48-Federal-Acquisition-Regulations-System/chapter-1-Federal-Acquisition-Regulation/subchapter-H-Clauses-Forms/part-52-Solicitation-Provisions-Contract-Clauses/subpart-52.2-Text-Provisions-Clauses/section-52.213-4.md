@@ -1,10 +1,8 @@
 ##### 52.213-4 Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services). #####
 
-Link to an amendment published at 89 FR 61339, July 30, 2024.
-
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (MAY 2024)
+Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (AUG 2024)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -120,7 +118,7 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (iv) 52.247-29, F.o.b. Origin (FEB 2006) (Applies to supplies if delivery is f.o.b. origin).
 
-(v) 52.247-34, F.o.b. Destination (NOV 1991) (Applies to supplies if delivery is f.o.b. destination).
+(v) 52.247-34, F.o.b. Destination (JAN 1991) (Applies to supplies if delivery is f.o.b. destination).
 
 (c) *FAR 52.252-2, Clauses Incorporated by Reference (FEB 1998).* This contract incorporates one or more clauses by reference, with the same force and effect as if they were given in full text. Upon request, the Contracting Officer will make their full text available. Also, the full text of a clause may be accessed electronically at this/these address(es):
 

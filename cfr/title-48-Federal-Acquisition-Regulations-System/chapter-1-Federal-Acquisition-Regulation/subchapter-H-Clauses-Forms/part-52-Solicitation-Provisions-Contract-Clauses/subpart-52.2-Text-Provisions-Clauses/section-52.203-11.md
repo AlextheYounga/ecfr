@@ -1,5 +1,7 @@
 ##### 52.203-11 Certification and Disclosure Regarding Payments to Influence Certain Federal Transactions. #####
 
+Link to an amendment published at 89 FR 70297, Aug. 29, 2024.
+
 As prescribed in 3.808(a), insert the following provision:
 
 Certification and Disclosure Regarding Payments To Influence Certain Federal Transactions (SEP 2007)

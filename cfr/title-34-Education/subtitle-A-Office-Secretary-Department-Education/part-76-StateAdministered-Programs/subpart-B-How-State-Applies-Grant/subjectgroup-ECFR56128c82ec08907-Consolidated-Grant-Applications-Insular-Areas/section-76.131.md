@@ -1,5 +1,7 @@
 ##### § 76.131 How does an insular area apply for a consolidated grant? #####
 
+Link to an amendment published at 89 FR 70336, Aug. 29, 2024.
+
 (a) An Insular Area that desires to apply for a grant consolidating two or more programs listed in § 76.125(c) shall submit to the Secretary an application that:
 
 (1) Contains the assurances in § 76.132; and

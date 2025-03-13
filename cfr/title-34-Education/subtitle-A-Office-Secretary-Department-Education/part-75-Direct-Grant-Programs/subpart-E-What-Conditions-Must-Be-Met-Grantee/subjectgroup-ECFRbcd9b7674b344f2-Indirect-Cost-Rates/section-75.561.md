@@ -1,5 +1,7 @@
 ##### § 75.561 Approval of indirect cost rates. #####
 
+Link to an amendment published at 89 FR 70330, Aug. 29, 2024.
+
 (a) If the Department of Education is the cognizant agency, the Secretary approves an indirect cost rate for a grantee other than a local educational agency. For the purposes of this section, the term local educational agency does not include a State agency.
 
 (b) Each State educational agency, on the basis of a plan approved by the Secretary, shall approve an indirect cost rate for each local educational agency that requests it to do so. These rates may be for periods longer than a year if rates are sufficiently stable to justify a longer period.

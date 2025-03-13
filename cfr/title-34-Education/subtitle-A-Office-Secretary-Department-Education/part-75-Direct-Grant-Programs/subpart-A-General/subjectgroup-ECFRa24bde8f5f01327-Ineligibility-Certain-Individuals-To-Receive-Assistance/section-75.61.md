@@ -1,5 +1,7 @@
 ##### § 75.61 Certification of eligibility; effect of ineligibility. #####
 
+Link to an amendment published at 89 FR 70320, Aug. 29, 2024.
+
 (a) An individual who applies for a fellowship, scholarship, or discretionary grant from the Department shall provide with his or her application a certification under the penalty of perjury—
 
 (1) That the individual is eligible under § 75.60; and

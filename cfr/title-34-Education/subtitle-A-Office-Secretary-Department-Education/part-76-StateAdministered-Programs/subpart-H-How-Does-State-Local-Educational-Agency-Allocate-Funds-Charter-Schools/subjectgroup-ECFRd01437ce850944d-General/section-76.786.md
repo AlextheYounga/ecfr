@@ -1,5 +1,7 @@
 ##### § 76.786 What entities are governed by this subpart? #####
 
+Link to an amendment published at 89 FR 70340, Aug. 29, 2024.
+
 The regulations in this subpart apply to—
 
 (a) State educational agencies (SEAs) and local educational agencies (LEAs) that fund charter schools under a covered program, including SEAs and LEAs located in States that do not participate in the Department's Public Charter Schools Program;

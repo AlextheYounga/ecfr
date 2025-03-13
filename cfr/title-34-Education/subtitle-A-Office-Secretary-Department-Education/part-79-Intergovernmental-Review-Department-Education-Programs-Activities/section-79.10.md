@@ -1,5 +1,7 @@
 ##### § 79.10 How does the Secretary make efforts to accommodate intergovernmental concerns? #####
 
+Link to an amendment published at 89 FR 70343, Aug. 29, 2024.
+
 (a) If a state process provides a state process recommendation to the Department through its single point of contact, the Secretary either:
 
 (1) Accepts the recommendation;

@@ -1,0 +1,3 @@
+##### § 8.214 IoT product defect and/or design change. #####
+
+When a complaint is filed directly with the Commission or submitted to the Commission by the Lead Administrator or other party concerning a consumer IoT product being non-compliant with the labeling program, and the Commission determines that the complaint is justified, the Commission may require the grantee to investigate such complaint and report the results of such investigation to the Commission within 20 days. The report shall also indicate what action if any has been taken or is proposed to be taken by the grantee to correct the defect, both in terms of future production and with reference to articles in the possession of users, sellers, and distributors.

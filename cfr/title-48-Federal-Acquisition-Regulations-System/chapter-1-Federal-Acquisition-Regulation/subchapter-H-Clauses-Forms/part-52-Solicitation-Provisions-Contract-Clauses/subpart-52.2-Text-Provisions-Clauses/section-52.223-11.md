@@ -1,8 +1,6 @@
 ##### 52.223-11 Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons. #####
 
-Link to an amendment published at 89 FR 61339, July 30, 2024.
-
-As prescribed in in 23.109(d)(1), insert the following clause:
+As prescribed in 23.109(d)(1), insert the following clause:
 
 Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons (MAY 2024)
 
@@ -28,4 +26,4 @@ Warning: Contains (or manufactured with, if applicable) \*\_\_\_\_\_\_\_, a subs
 
 (c) The Contractor shall refer to EPA's SNAP program to identify alternatives. The SNAP list of alternatives is found at 40 CFR part 82, subpart G, with supplemental tables available at *https://www.epa.gov/snap/.*
 
-(End of clause)[61 FR 31645, June 20, 1996, as amended at 66 FR 2135, Jan. 10, 2001; 81 FR 30437, May 16, 2016; 81 FR 83097, Nov. 18, 2016; 89 FR 30248, Apr. 22, 2024]
+(End of clause)[61 FR 31645, June 20, 1996, as amended at 66 FR 2135, Jan. 10, 2001; 81 FR 30437, May 16, 2016; 81 FR 83097, Nov. 18, 2016; 89 FR 30248, Apr. 22, 2024; 89 FR 61339, July 30, 2024]

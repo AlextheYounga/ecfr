@@ -1,0 +1,5 @@
+##### § 8.219 Approval/recognition of Cybersecurity Label Administrators. #####
+
+(a) An accredited third-party entity wishing to become a Cybersecurity Label Administrator (CLA) must file a written application with the Commission. The Commission may approve the written application for the accredited third-party entity to be recognized and authorized by the Commission as a CLA to manage and administer the labeling program by meeting the requirements of paragraph (b) of this section. An accredited third-party entity is recognized and authorized by the Commission to manage and administer the labeling program in accordance with the Commission's rules in this subpart.
+
+(b) In the United States, the Commission, in accordance with its procedures, allows qualified accrediting bodies to accredit CLAs based on ISO/IEC 17065 and other qualification criteria. CLAs shall comply with the requirements in § 8.220.

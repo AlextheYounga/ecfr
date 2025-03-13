@@ -1,5 +1,7 @@
 ##### § 75.500 Constitutional rights, freedom of inquiry, and Federal statutes and regulations on nondiscrimination. #####
 
+Link to an amendment published at 89 FR 70329, Aug. 29, 2024.
+
 (a) Each grantee shall comply with the following statutes and regulations:
 
 |                           Subject                            |                                 Statute                                  |   Regulation   |

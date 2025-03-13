@@ -1,5 +1,7 @@
 ##### § 75.620 General conditions on publication. #####
 
+Link to an amendment published at 89 FR 70333, Aug. 29, 2024.
+
 (a) *Content of materials.* Subject to any specific requirements that apply to its grant, a grantee may decide the format and content of project materials that it publishes or arranges to have published.
 
 (b) *Required statement.* The grantee shall ensure that any publication that contains project materials also contains the following statements:

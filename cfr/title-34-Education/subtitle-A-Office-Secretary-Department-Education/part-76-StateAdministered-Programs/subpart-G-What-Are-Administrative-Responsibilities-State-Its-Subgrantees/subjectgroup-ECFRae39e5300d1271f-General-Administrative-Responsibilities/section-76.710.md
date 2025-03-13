@@ -1,5 +1,7 @@
 ##### § 76.710 Obligations made during a carryover period are subject to current statutes, regulations, and applications. #####
 
+Link to an amendment published at 89 FR 70339, Aug. 29, 2024.
+
 A State and a subgrantee shall use carryover funds in accordance with:
 
 (a) The Federal statutes and regulations that apply to the program and are in effect for the carryover period; and

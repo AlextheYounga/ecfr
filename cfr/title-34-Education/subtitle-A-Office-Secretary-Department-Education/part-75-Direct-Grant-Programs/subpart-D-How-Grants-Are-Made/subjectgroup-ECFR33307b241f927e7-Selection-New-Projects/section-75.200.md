@@ -1,5 +1,7 @@
 ##### § 75.200 How applications for new grants and cooperative agreements are selected for funding; standards for use of cooperative agreements. #####
 
+Link to an amendment published at 89 FR 70322, Aug. 29, 2024.
+
 (a) *Direct grant programs.* The Department administers two kinds of direct grant programs. A direct grant program is either a discretionary grant or a formula grant program.
 
 (b) *Discretionary grant programs.* (1) A discretionary grant program is one that permits the Secretary to use discretionary judgment in selecting applications for funding.

@@ -1,5 +1,7 @@
 ##### § 75.62 Requirements applicable to entities making certain awards. #####
 
+Link to an amendment published at 89 FR 70320, Aug. 29, 2024.
+
 (a) An entity that provides a fellowship, scholarship, or discretionary grant to an individual under a grant from, or an agreement with, the Secretary shall require the individual who applies for such an award to provide with his or her application a certification under the penalty of perjury—
 
 (1) That the individual is eligible under § 75.60; and

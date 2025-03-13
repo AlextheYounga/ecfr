@@ -1,5 +1,7 @@
 ##### § 75.564 Reimbursement of indirect costs. #####
 
+Link to an amendment published at 89 FR 70331, Aug. 29, 2024.
+
 (a) Reimbursement of indirect costs is subject to the availability of funds and statutory or administrative restrictions.
 
 (b) The application of the rates and the determination of the direct cost base by a grantee must be in accordance with the indirect cost rate agreement approved by the grantee's cognizant agency.

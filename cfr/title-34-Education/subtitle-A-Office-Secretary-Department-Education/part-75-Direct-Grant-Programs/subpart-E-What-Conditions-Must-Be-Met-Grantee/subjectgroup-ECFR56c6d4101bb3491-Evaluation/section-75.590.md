@@ -1,5 +1,7 @@
 ##### § 75.590 Evaluation by the grantee. #####
 
+Link to an amendment published at 89 FR 70331, Aug. 29, 2024.
+
 (a) If the application notice for a competition required applicants to describe how they would evaluate their projects, each grantee under that competition must demonstrate to the Department that—
 
 (1) The evaluation meets the standards of the evaluation in the approved application for the project; and

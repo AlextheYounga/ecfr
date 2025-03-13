@@ -1,5 +1,7 @@
 ##### § 76.568 Occupancy and space maintenance costs—restricted rate. #####
 
+Link to an amendment published at 89 FR 70338, Aug. 29, 2024.
+
 (a) As used in the calculation of a restricted indirect cost rate, *occupancy and space maintenance costs* means such costs as—
 
 (1) Building costs whether owned or rented;

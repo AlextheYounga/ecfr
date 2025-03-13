@@ -1,5 +1,7 @@
 ##### § 79.8 How does the Secretary provide States an opportunity to comment on proposed Federal financial assistance? #####
 
+Link to an amendment published at 89 FR 70343, Aug. 29, 2024.
+
 (a) Except in unusual circumstances, the Secretary gives State processes or directly affected State, areawide, regional, and local officials and entities—
 
 (1) At least 30 days to comment on proposed Federal financial assistance in the form of noncompeting continuation awards; and

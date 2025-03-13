@@ -1,5 +1,7 @@
 ##### § 75.1 Programs to which part 75 applies. #####
 
+Link to an amendment published at 89 FR 70320, Aug. 29, 2024.
+
 (a) The regulations in part 75 apply to each direct grant program of the Department of Education.
 
 (b) If a direct grant program does not have implementing regulations, the Secretary implements the program under the authorizing statute and, to the extent consistent with the authorizing statute, under the General Education Provisions Act and the regulations in this part. For the purposes of this part, the term “direct grant program” includes any grant program of the Department other than a program whose authorizing statute or implementing regulations provide a formula for allocating program funds among eligible States. With respect to Public Law 81-874 (the Impact Aid Program), the term “direct grant program” includes only the entitlement increase for children with disabilities under section 3(d)(2)(C) of Public Law 81-874 (20 U.S.C. 238(d)(2)(C) and disaster assistance under section 7 of that law (20 U.S.C. 241-1).

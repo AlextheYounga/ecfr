@@ -1,5 +1,7 @@
 ##### § 76.560 General indirect cost rates; exceptions. #####
 
+Link to an amendment published at 89 FR 70337, Aug. 29, 2024.
+
 (a) The differences between direct and indirect costs and the principles for determining the general indirect cost rate that a grantee may use for grants under most programs are specified in the cost principles for—
 
 (1) All grantees, other than hospitals and commercial (for-profit) organizations, at 2 CFR part 200, subpart E—Cost Principles;

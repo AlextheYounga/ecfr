@@ -1,5 +1,7 @@
 ##### § 75.110 Information regarding performance measurement. #####
 
+Link to an amendment published at 89 FR 70321, Aug. 29, 2024.
+
 (a) The Secretary may establish in an application notice for a competition one or more performance measurement requirements, including requirements for performance measures, baseline data, or performance targets, and a requirement that applicants propose in their applications one or more of their own performance measures, baseline data, or performance targets.
 
 (b) If an application notice requires applicants to propose project-specific performance measures, baseline data, or performance targets, the application must include the following, as required by the application notice:

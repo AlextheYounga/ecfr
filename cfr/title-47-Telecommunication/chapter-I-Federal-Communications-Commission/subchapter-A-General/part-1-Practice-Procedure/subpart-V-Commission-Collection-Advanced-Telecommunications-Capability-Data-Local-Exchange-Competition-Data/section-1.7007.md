@@ -1,5 +1,7 @@
 ##### § 1.7007 Establishing the Fabric. #####
 
+Link to an amendment published at 89 FR 66268, Aug. 15, 2024.
+
 (a) The Commission shall create the Fabric, a common dataset of all locations in the United States where fixed broadband internet access service can be installed. The Fabric shall:
 
 (1) Contain geocoded information for each location where fixed broadband internet access service can be installed;

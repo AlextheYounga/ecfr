@@ -1,7 +1,5 @@
 ##### 15.306 Exchanges with offerors after receipt of proposals. #####
 
-Link to an amendment published at 89 FR 61330, July 30, 2024.
-
 (a) *Clarifications and award without discussions.* (1) Clarifications are limited exchanges, between the Government and offerors, that may occur when award without discussions is contemplated.
 
 (2) If award will be made without conducting discussions, offerors may be given the opportunity to clarify certain aspects of proposals (e.g., the relevance of an offeror's past performance information and adverse past performance information to which the offeror has not previously had an opportunity to respond) or to resolve minor or clerical errors.
@@ -58,10 +56,10 @@ Link to an amendment published at 89 FR 61330, July 30, 2024.
 
 (iii) Any information that would compromise an offeror's intellectual property to another offeror;
 
-(3) Reveals an offerors price without that offeror's permission. However, the contracting officer may inform an offeror that its price is considered by the Government to be too high, or too low, and reveal the results of the analysis supporting that conclusion. It is also permissible, at the Government's discretion, to indicate to all offerors the cost or price that the Government's price analysis, market research, and other reviews have identified as reasonable (41 U.S.C. 2102 and 2107));
+(3) Reveals an offeror's price without that offeror's permission. However, the contracting officer may inform an offeror that its price is considered by the Government to be too high, or too low, and reveal the results of the analysis supporting that conclusion. It is also permissible, at the Government's discretion, to indicate to all offerors the cost or price that the Government's price analysis, market research, and other reviews have identified as reasonable (41 U.S.C. 2102 and 2107). When using reverse auction procedures (see subpart 17.8), it is also permissible to reveal to all offerors the offered price(s), without revealing any offeror's identity;
 
 (4) Reveals the names of individuals providing reference information about an offeror's past performance; or
 
 (5) Knowingly furnishes source selection information in violation of 3.104 and 41 U.S.C. 2102 and 2107).
 
-[62 FR 51230, Sept. 30, 1997, as amended at 66 FR 65369, Dec. 18, 2001; 79 FR 24201, Apr. 29, 2014; 86 FR 61025, Nov. 4, 2021; 87 FR 73897, Dec. 1, 2022]
+[62 FR 51230, Sept. 30, 1997, as amended at 66 FR 65369, Dec. 18, 2001; 79 FR 24201, Apr. 29, 2014; 86 FR 61025, Nov. 4, 2021; 87 FR 73897, Dec. 1, 2022; 89 FR 61330, July 30, 2024]

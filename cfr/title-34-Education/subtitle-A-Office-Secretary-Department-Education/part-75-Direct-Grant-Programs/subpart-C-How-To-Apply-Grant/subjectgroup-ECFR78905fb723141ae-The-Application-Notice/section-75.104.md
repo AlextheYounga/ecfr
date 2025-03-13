@@ -1,5 +1,7 @@
 ##### § 75.104 Applicants must meet procedural rules. #####
 
+Link to an amendment published at 89 FR 70320, Aug. 29, 2024.
+
 (a) The Secretary may make a grant only to an eligible party that submits an application.
 
 (b) If a maximum award amount is established in a notice published in the Federal Register, the Secretary may reject without consideration or evaluation any application that proposes a project funding level that exceeds the stated maximum award amount.

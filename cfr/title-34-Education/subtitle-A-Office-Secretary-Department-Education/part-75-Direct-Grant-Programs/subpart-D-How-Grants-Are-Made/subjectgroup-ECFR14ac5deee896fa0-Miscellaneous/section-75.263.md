@@ -1,5 +1,7 @@
 ##### § 75.263 Pre-award costs; waiver of approval. #####
 
+Link to an amendment published at 89 FR 70329, Aug. 29, 2024.
+
 A grantee may, notwithstanding any requirement in 2 CFR part 200, incur pre-award costs as specified in 2 CFR 200.308(d)(1) unless—
 
 (a) ED regulations other than 2 CFR part 200 or a statute prohibit these costs; or

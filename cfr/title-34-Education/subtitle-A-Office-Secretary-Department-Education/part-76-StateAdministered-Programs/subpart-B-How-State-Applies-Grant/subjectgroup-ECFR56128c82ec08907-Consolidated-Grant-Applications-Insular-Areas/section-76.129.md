@@ -1,5 +1,7 @@
 ##### § 76.129 How does a consolidated grant work? #####
 
+Link to an amendment published at 89 FR 70335, Aug. 29, 2024.
+
 (a) An Insular Area shall use the funds it receives under a consolidated grant to carry out, in its jurisdiction, one or more of the programs included in the grant.
 
 Example.Assume that Guam applies for a consolidated grant under the Vocational Education Act, the Handicapped Preschool and School Programs-Incentive Grants, and the Adult Education Act and that the sum of the allocations under these programs is $700,000. Guam may choose to allocate this $700,000 among all of the programs authorized under the three programs. Alternatively, it may choose to allocate the entire $700,000 to one or two of the programs; for example, the Adult Education Act Program.

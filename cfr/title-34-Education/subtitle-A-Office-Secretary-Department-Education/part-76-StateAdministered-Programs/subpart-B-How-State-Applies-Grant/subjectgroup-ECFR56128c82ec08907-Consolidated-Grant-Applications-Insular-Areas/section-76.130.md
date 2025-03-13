@@ -1,5 +1,7 @@
 ##### § 76.130 How are consolidated grants made? #####
 
+Link to an amendment published at 89 FR 70335, Aug. 29, 2024.
+
 (a) The Secretary annually makes a single consolidated grant to each Insular Area that meets the requirements of §§ 76.125 through 76.137 and each program under which the grant funds are to be used and administered.
 
 (b) The Secretary may decide that one or more programs cannot be included in the consolidated grant if the Secretary determines that the Insular Area failed to meet the program objectives stated in its plan for the previous fiscal year in which it carried out the programs.

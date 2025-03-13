@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 89 FR 61330, July 30, 2024.Link to an amendment published at 89 FR 61338, July 30, 2024.
-
 A word or a term, defined in this section, has the same meaning throughout this chapter (the Federal Acquisition Regulation (FAR)) unless the context in which the word or term is used clearly requires a different meaning or another FAR part, subpart, or section provides a different definition for the particular part or portion of the part. If a word or term that is defined in this section is defined differently in another part, subpart, or section of this chapter, the definition in this section includes a cross-reference to the other definitions and that part, subpart, or section applies to the word or term when used in that part, subpart, or section.
 
 *Acquisition* means the acquiring by contract with appropriated funds of supplies or services (including construction) by and for the use of the Federal Government through purchase or lease, whether the supplies or services are already in existence or must be created, developed, demonstrated, and evaluated. Acquisition begins at the point when agency needs are established and includes the description of requirements to satisfy agency needs, solicitation and selection of sources, award of contracts, contract financing, contract performance, contract administration, and those technical and management functions directly related to the process of fulfilling agency needs by contract.
@@ -648,12 +646,6 @@ A word or a term, defined in this section, has the same meaning throughout this 
 
 *Overtime premium* means the difference between the contractor's regular rate of pay to an employee for the shift involved and the higher rate paid for overtime. It does not include shift premium, *i.e.,* the difference between the contractor's regular rate of pay to an employee and the higher rate paid for extra-pay-shift work.
 
-*Ozone-depleting substance* means any substance the Environmental Protection Agency designates in 40 CFR part 82 as—
-
-(1) Class I, including, but not limited to, chlorofluorocarbons, halons, carbon tetrachloride, and methyl chloroform; or
-
-(2) Class II, including, but not limited to, hydrochlorofluorocarbons.
-
 *Partial termination* means the termination of a part, but not all, of the work that has not been completed and accepted under a contract.
 
 *Past performance* means an offeror's or contractor's performance on active and physically completed contracts (see 4.804-4).
@@ -737,6 +729,8 @@ A word or a term, defined in this section, has the same meaning throughout this 
 *Responsible audit agency* means the agency that is responsible for performing all required contract audit services at a business unit.
 
 *Responsible prospective contractor* means a contractor that meets the standards in 9.104.
+
+*Reverse auction* means the process for obtaining pricing, usually supported by an electronic tool, in which offerors see competing offerors' price(s), without disclosure of the competing offerors' identity, and have the opportunity to submit lower priced offers until the close of the auction.
 
 *Scrap* means personal property that has no value except its basic metallic, mineral, or organic content.
 
@@ -824,7 +818,7 @@ A word or a term, defined in this section, has the same meaning throughout this 
 
 (2)(i) For civilian agencies, may include two business concerns in a mentor-protégé relationship when both the mentor and the protégé are small or the protégé is small and the concerns have received an exception to affiliation pursuant to 13 CFR 121.103(h)(3)(ii) or (iii).
 
-(ii) For DoD, may include two business concerns in a mentor-protégé relationship in the Department of Defense Pilot Mentor-Protégé Program (see section 831 of the National Defense Authorization Act for Fiscal Year 1991 (Pub. L. 101-510; 10 U.S.C. 4901 note prec.) when both the mentor and the protégé are small. There is no exception to joint venture size affiliation for offers received from teaming arrangements under the Department of Defense Pilot Mentor-Protégé Program; and
+(ii) For DoD, may include two business concerns in a mentor-protégé relationship in the DoD Mentor-Protégé Program (see 10 U.S.C. 4902) when both the mentor and the protégé are small. There is no exception to joint venture size affiliation for offers received from teaming arrangements under the DoD Mentor-Protégé Program; and
 
 (3) See 13 CFR 121.103(b)(9) regarding the exception to affiliation for offers received from Small Business Teaming Arrangements in the case of a solicitation of offers for a bundled contract with a reserve.
 

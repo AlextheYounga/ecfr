@@ -1,7 +1,5 @@
 ##### 19.308 Protesting a firm's status as an economically disadvantaged women-owned small business concern or women-owned small business concern eligible under the Women-Owned Small Business Program. #####
 
-Link to an amendment published at 89 FR 61337, July 30, 2024.
-
 (a) *Definition. Interested party,* as used in this section, has the meaning given in 13 CFR 127.102.
 
 (b)(1) For sole source acquisitions, the contracting officer or SBA may protest the offeror's status as an economically disadvantaged women-owned small business (EDWOSB) concern or as a WOSB concern eligible under the WOSB Program. For all other acquisitions, an interested party (see 13 CFR 127.102) may protest the apparent successful offeror's EDWOSB or WOSB status.
@@ -22,11 +20,17 @@ Link to an amendment published at 89 FR 61337, July 30, 2024.
 
 (2) Assertions that a protested concern is not an EDWOSB or WOSB concern eligible under the WOSB Program, without setting forth specific facts or allegations, will not be considered by SBA (see 13 CFR 127.603(a)).
 
-(e) *Protest by an interested party.* (1) An offeror shall submit its protest to the contracting officer—
+(e) *Protest by an interested party.*(1) An offeror shall submit its protest to the contracting officer—
 
-(i) To be received by the close of business by the fifth business day after bid opening (in sealed bid acquisitions); or
+(i) To be received by the close of business by the fifth business day after bid opening for sealed bid acquisitions;
 
-(ii) To be received by the close of business by the fifth business day after notification by the contracting officer of the apparent successful offeror (in negotiated acquisitions).
+(ii) To be received by the close of business by the fifth business day after receipt of the special notification from the contracting officer (see 15.503(a)(2)) that identifies the apparently successful offeror for negotiated acquisitions including—
+
+(A) Orders placed under multiple-award contracts where the contracting officer requested rerepresentation for the order (see 13 CFR 127.603(c)(1)); and
+
+(B) Orders set aside for EDWOSB or WOSB concerns under multiple-award contracts that are not partially or totally set aside or reserved for EDWOSB or WOSB concerns (see 13 CFR 127.603(c)(1)), except for orders and blanket purchase agreements placed under a Federal Supply Schedule contract (see 8.405 and 19.302(d)(5)); or
+
+(iii) To be received by the close of business on the fifth business day after receipt of notification using other communication means when written notification is not required.
 
 (2) Any protest received after the designated time limit is untimely, unless it is from the contracting officer or SBA.
 
@@ -110,4 +114,4 @@ Link to an amendment published at 89 FR 61337, July 30, 2024.
 
 (m) OHA will make its decision within 15 business days of the receipt of the appeal, if practicable. SBA will provide a copy of the decision to the contracting officer, the protester, and the protested EDWOSB concern or WOSB concern eligible under the WOSB program. The OHA decision is the final agency decision and is binding on the parties.
 
-[79 FR 43587, July 25, 2014, as amended at 80 FR 81891, Dec. 31, 2015; 83 FR 48697, Sept. 26, 2018; 87 FR 58240, Sept. 23, 2022; 88 FR 9737, Feb. 14, 2023; 89 FR 13957, Feb. 23, 2024]
+[79 FR 43587, July 25, 2014, as amended at 80 FR 81891, Dec. 31, 2015; 83 FR 48697, Sept. 26, 2018; 87 FR 58240, Sept. 23, 2022; 88 FR 9737, Feb. 14, 2023; 89 FR 13957, Feb. 23, 2024; 89 FR 61337, July 30, 2024]

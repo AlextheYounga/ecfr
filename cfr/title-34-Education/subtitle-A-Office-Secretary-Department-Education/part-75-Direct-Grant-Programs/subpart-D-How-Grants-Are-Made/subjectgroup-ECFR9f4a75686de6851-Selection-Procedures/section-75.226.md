@@ -1,5 +1,7 @@
 ##### § 75.226 What procedures does the Secretary use if the Secretary decides to give special consideration to applications supported by strong, moderate, or promising evidence? #####
 
+Link to an amendment published at 89 FR 70327, Aug. 29, 2024.
+
 (a) As used in this section, “strong evidence” is defined in 34 CFR 77.1(c).
 
 (b) As used in this section, “moderate evidence” is defined in 34 CFR 77.1(c).

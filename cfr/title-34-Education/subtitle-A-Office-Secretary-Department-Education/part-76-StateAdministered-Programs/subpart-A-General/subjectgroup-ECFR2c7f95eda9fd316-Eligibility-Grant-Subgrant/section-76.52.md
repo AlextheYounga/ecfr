@@ -1,5 +1,7 @@
 ##### § 76.52 Eligibility of faith-based organizations for a subgrant and nondiscrimination against those organizations. #####
 
+Link to an amendment published at 89 FR 70335, Aug. 29, 2024.
+
 (a)(1) A faith-based organization is eligible to apply for and to receive a subgrant under a program of the Department on the same basis as any other private organization.
 
 (2)(i) In the selection of subgrantees, States—

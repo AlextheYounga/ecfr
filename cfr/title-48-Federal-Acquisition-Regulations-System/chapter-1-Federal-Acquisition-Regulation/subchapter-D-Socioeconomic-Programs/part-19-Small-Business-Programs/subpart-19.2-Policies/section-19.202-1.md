@@ -1,12 +1,10 @@
 ##### 19.202-1 Encouraging small business participation in acquisitions. #####
 
-Link to an amendment published at 89 FR 61338, July 30, 2024.
-
 Small business concerns shall be afforded an equitable opportunity to compete for all contracts that they can perform to the extent consistent with the Government's interest. When applicable, the contracting officer shall take the following actions:
 
 (a) Divide proposed acquisitions of supplies and services (except construction) into reasonably small lots (not less than economic production runs) to permit offers on quantities less than the total requirement.
 
-(b) Plan acquisitions such that, if practicable, more than one small business concern may perform the work, if the work exceeds the amount for which a surety may be guaranteed by SBA against loss under 15 U.S.C. 694b.
+(b) Plan acquisitions such that, if practicable, more than one small business concern may perform the work, if the work exceeds the amount for which a surety may be guaranteed by SBA against loss under 15 U.S.C. 694b (see definition of “Applicable Statutory Limit” at 13 CFR 115.10).
 
 (c) Ensure that delivery schedules are established on a realistic basis that will encourage small business participation to the extent consistent with the actual requirements of the Government.
 
@@ -38,4 +36,4 @@ Small business concerns shall be afforded an equitable opportunity to compete fo
 
 (4) If the contracting officer rejects the SBA PCR's recommendation made in accordance with 19.402(c)(2), document the basis for the rejection and notify the SBA PCR in accordance with 19.502-8.
 
-[48 FR 42240, Sept. 19, 1983, as amended at 56 FR 67132, Dec. 27, 1991; 57 FR 60581, Dec. 21, 1992; 64 FR 72444, Dec. 27, 1999; 65 FR 46055, July 26, 2000; 68 FR 60006, Oct. 20, 2003; 71 FR 36925, June 28, 2006; 81 FR 67773, Sept. 30, 2016; 85 FR 11758, Feb. 27, 2020; 86 FR 44248, Aug. 11, 2021]
+[48 FR 42240, Sept. 19, 1983, as amended at 56 FR 67132, Dec. 27, 1991; 57 FR 60581, Dec. 21, 1992; 64 FR 72444, Dec. 27, 1999; 65 FR 46055, July 26, 2000; 68 FR 60006, Oct. 20, 2003; 71 FR 36925, June 28, 2006; 81 FR 67773, Sept. 30, 2016; 85 FR 11758, Feb. 27, 2020; 86 FR 44248, Aug. 11, 2021; 89 FR 61338, July 30, 2024]

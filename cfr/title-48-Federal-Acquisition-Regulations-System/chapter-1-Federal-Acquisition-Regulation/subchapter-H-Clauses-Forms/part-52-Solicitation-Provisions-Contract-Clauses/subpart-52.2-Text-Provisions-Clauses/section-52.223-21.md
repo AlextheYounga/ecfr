@@ -1,8 +1,6 @@
 ##### 52.223-21 Foams. #####
 
-Link to an amendment published at 89 FR 61339, July 30, 2024.
-
-As prescribed in in 23.109(d)(4), insert the following clause:
+As prescribed in 23.109(d)(4), insert the following clause:
 
 Foams (MAY 2024)
 
@@ -24,4 +22,4 @@ Foams (MAY 2024)
 
 (c) The Contractor shall refer to EPA's SNAP program to identify alternatives. The SNAP list of alternatives is found at 40 CFR part 82, subpart G, with supplemental tables available at *https://www.epa.gov/snap/.*
 
-(End of clause)[81 FR 30438, May 16, 2016, as amended at 81 FR 83097, Nov. 18, 2016; 89 FR 30249, Apr. 22, 2024]
+(End of clause)[81 FR 30438, May 16, 2016, as amended at 81 FR 83097, Nov. 18, 2016; 89 FR 30249, Apr. 22, 2024; 89 FR 61339, July 30, 2024]

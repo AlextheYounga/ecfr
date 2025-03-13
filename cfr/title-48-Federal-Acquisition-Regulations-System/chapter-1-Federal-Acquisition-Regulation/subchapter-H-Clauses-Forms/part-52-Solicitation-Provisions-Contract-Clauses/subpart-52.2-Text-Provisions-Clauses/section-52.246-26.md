@@ -1,10 +1,8 @@
 ##### 52.246-26 Reporting Nonconforming Items. #####
 
-Link to an amendment published at 89 FR 61339, July 30, 2024.
-
 As prescribed in 46.317, insert the following clause:
 
-Reporting Nonconforming Items (NOV 2021)
+Reporting Nonconforming Items (AUG 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -50,7 +48,7 @@ Reporting Nonconforming Items (NOV 2021)
 
 (2) Any other information prohibited from disclosure by statute or regulation.
 
-(e) Additional guidance on the use of GIDEP is provided at *http://www.gidep.org/about/opmanual/opmanual.htm.*
+(e) Additional guidance on the use of GIDEP is provided at *https://www.gidep.org/login?returnUrl=%2Fdashboard*
 
 (f) If this is a contract with the Department of Defense, as provided in paragraph (c)(5) of section 818 of the National Defense Authorization Act for Fiscal Year 2012 (Pub. L. 112-81), the Contractor or subcontractor that provides a written report or notification under this clause that the end item, component, part, or material contained electronic parts (*i.e.,* an integrated circuit, a discrete electronic component (including, but not limited to, a transistor, capacitor, resistor, or diode), or a circuit assembly)) that are counterfeit electronic parts or suspect counterfeit electronic parts shall not be subject to civil liability on the basis of such reporting, provided that the Contractor or any subcontractor made a reasonable effort to determine that the report was factual.
 
@@ -74,4 +72,4 @@ Reporting Nonconforming Items (NOV 2021)
 
 (3) The Contractor shall not alter the clause other than to identify the appropriate parties.
 
-(End of clause)[84 FR 64695, Nov. 22, 2019, as amended at 85 FR 27097, May 6, 2020; 86 FR 61037, Nov. 4, 2021]
+(End of clause)[84 FR 64695, Nov. 22, 2019, as amended at 85 FR 27097, May 6, 2020; 86 FR 61037, Nov. 4, 2021; 89 FR 61339, July 30, 2024]

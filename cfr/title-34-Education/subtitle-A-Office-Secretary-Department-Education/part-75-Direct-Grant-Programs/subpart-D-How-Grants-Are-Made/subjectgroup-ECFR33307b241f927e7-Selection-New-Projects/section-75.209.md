@@ -1,5 +1,7 @@
 ##### § 75.209 Selection criteria based on statutory or regulatory provisions. #####
 
+Link to an amendment published at 89 FR 70322, Aug. 29, 2024.
+
 The Secretary may establish selection criteria and factors based on statutory or regulatory provisions that apply to the authorized program, which may include, but are not limited to criteria and factors that reflect—
 
 (a) Criteria contained in the program statute or regulations;

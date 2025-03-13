@@ -1,5 +1,7 @@
 ##### § 79.6 What procedures apply to the selection of programs and activities under these regulations? #####
 
+Link to an amendment published at 89 FR 70343, Aug. 29, 2024.
+
 (a) A state may select any program or activity published in the Federal Register in accordance with § 79.3 for intergovernmental review under these regulations. Each state, before selecting programs and activities, shall consult with local elected officials.
 
 (b) Each state that adopts a process shall notify the Secretary of the Department's programs and activities selected for that process.

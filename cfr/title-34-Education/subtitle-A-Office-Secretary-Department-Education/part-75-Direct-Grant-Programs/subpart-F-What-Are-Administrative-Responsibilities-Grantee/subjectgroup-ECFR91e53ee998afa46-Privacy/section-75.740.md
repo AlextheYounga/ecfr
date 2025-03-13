@@ -1,5 +1,7 @@
 ##### § 75.740 Protection of and access to student records; student rights in research, experimental programs, and testing. #####
 
+Link to an amendment published at 89 FR 70334, Aug. 29, 2024.
+
 (a) Most records on present or past students are subject to the requirements of section 444 of GEPA and its implementing regulations in 34 CFR part 99. (Section 444 is the Family Educational Rights and Privacy Act of 1974.)
 
 (b) Under most programs administered by the Secretary, research, experimentation, and testing are subject to the requirements of section 445 of GEPA and its implementing regulations at 34 CFR part 98.

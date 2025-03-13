@@ -1,5 +1,7 @@
 ##### § 75.112 Include a proposed project period and a timeline. #####
 
+Link to an amendment published at 89 FR 70321, Aug. 29, 2024.
+
 (a) An application must propose a project period for the project.
 
 (b) An application must include a narrative that describes how and when, in each budget period of the project, the applicant plans to meet each objective of the project.

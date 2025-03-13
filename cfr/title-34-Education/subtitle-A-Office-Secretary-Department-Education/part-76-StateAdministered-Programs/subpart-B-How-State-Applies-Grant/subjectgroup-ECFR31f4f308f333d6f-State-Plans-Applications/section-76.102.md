@@ -1,5 +1,7 @@
 ##### § 76.102 Definition of “State plan” for part 76. #####
 
+Link to an amendment published at 89 FR 70335, Aug. 29, 2024.
+
 As used in this part, *State plan* means any of the following documents:
 
 |                                                       Document                                                       |                               Program                               |                                                              Authorizing statute                                                               |Principal Office|
