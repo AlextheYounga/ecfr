@@ -82,4 +82,4 @@
 
 (2) In the case of a new shaft or slope construction operator after June 28, 2006, the operator shall have an approved plan prior to commencing shaft or slope construction.
 
-(Pub. L. No. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*))[43 FR 47459, Oct. 13, 1978, as amended at 47 FR 14696, Apr. 6, 1982; 47 FR 23640, May 28, 1982; 47 FR 28095, June 29, 1982; 60 FR 33723, June 29, 1995; 63 FR 52759, Oct. 6, 1998; 67 FR 38384, June 4, 2002; 70 FR 77727, Dec. 30, 2005; 80 FR 52986, Sept. 2, 2015]
+(Pub. L. No. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*)) [43 FR 47459, Oct. 13, 1978, as amended at 47 FR 14696, Apr. 6, 1982; 47 FR 23640, May 28, 1982; 47 FR 28095, June 29, 1982; 60 FR 33723, June 29, 1995; 63 FR 52759, Oct. 6, 1998; 67 FR 38384, June 4, 2002; 70 FR 77727, Dec. 30, 2005; 80 FR 52986, Sept. 2, 2015]

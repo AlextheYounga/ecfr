@@ -18,5 +18,4 @@
 
 (3) Not impair the rights of third parties; and
 
-(4) Be documented in writing.
-[88 FR 6413, Jan. 31, 2023, as amended at 89 FR 42713, May 15, 2024]
+(4) Be documented in writing. [88 FR 6413, Jan. 31, 2023, as amended at 89 FR 42713, May 15, 2024]

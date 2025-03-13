@@ -24,7 +24,7 @@
 
 (5) A choke line and a kill line each equipped with two full-opening valves and a choke manifold. One of the choke-line valves and one of the kill-line valves shall be remotely controlled except that a check valve may be installed on the kill line in lieu of the remotely-controlled valve provided that two readily accessible manual valves are in place, and the check valve is placed between the manual valve and the pump.
 
-(d) The minimum BOP-stack components for well-workover operations with the tree in place and performed through the wellhead inside of the sulphur line using small diameter jointed pipe (usually3/4 inch to 11/4 inch) as a work string; *i.e.,* small-tubing operations, shall consist of the following:
+(d) The minimum BOP-stack components for well-workover operations with the tree in place and performed through the wellhead inside of the sulphur line using small diameter jointed pipe (usually 3/4 inch to 11/4 inch) as a work string; *i.e.,* small-tubing operations, shall consist of the following:
 
 (1) For air line changes, the well shall be killed prior to beginning operations. The procedures for killing the well shall be included in the description of well-workover procedures in accordance with § 250.1622 of this part. Under these circumstances, no BOP equipment is required.
 

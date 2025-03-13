@@ -80,15 +80,15 @@
 
 (v) Fastenings used for joints of flame-arresting paths on intake or exhaust systems shall be used only for attaching parts that are essential in maintaining the explosion-proof integrity. They shall not be used for attaching brackets or other parts.
 
-(vi) The minimum thickness of material for flanges shall be1/2-inch, except that a final thickness of7/16-inch is allowed after machining rolled plate.
+(vi) The minimum thickness of material for flanges shall be 1/2-inch, except that a final thickness of 7/16-inch is allowed after machining rolled plate.
 
 (vii) The maximum fastening spacing shall be 6 inches.
 
-(viii) The minimum diameter of fastenings shall be3/8-inch, except smaller diameter fastenings may be used if the joint first meets the requirements of the static pressure test in § 7.104, and the explosion test in § 7.100.
+(viii) The minimum diameter of fastenings shall be 3/8-inch, except smaller diameter fastenings may be used if the joint first meets the requirements of the static pressure test in § 7.104, and the explosion test in § 7.100.
 
 (ix) The minimum thread engagement of fastenings shall be equal to or greater than the nominal diameter of the fastenings specified, or the intake or exhaust system must meet the test requirements of the explosion tests in § 7.100 and the static pressure test in § 7.104.
 
-(x) The minimum contact surface of gaskets forming flame-arresting paths shall be3/8-inch, and the thickness of the gaskets shall be no greater than1/16-inch. The minimum distance from the interior edge of a gasket to the edge of a fastening hole shall be3/8-inch. The gaskets shall be positively positioned, and a means shall be provided to preclude improper installation. When the joint is completely assembled, it shall be impossible to insert a 0.0015-inch thickness gauge to a depth exceeding1/8-inch between the gasket and mating flanges. Other gasket designs shall be evaluated in accordance with § 7.107.
+(x) The minimum contact surface of gaskets forming flame-arresting paths shall be 3/8-inch, and the thickness of the gaskets shall be no greater than 1/16-inch. The minimum distance from the interior edge of a gasket to the edge of a fastening hole shall be 3/8-inch. The gaskets shall be positively positioned, and a means shall be provided to preclude improper installation. When the joint is completely assembled, it shall be impossible to insert a 0.0015-inch thickness gauge to a depth exceeding 1/8-inch between the gasket and mating flanges. Other gasket designs shall be evaluated in accordance with § 7.107.
 
 (q) The following construction requirements shall apply to flame-arresting paths formed without gaskets:
 

@@ -106,7 +106,7 @@ In accordance with 30 CFR 745.13, this Agreement shall not be construed as waivi
 
 Approved:
 
-Richard F. Celeste,*Governor of Ohio.*
+Richard F. Celeste, *Governor of Ohio.*
 
 Date: April 19, 1989.
 

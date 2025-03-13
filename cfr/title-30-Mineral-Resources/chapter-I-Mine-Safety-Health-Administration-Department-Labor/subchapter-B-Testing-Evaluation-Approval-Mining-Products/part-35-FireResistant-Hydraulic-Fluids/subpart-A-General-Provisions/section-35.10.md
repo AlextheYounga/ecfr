@@ -2,9 +2,9 @@
 
 (a) A certificate of approval will be accompanied by a photograph of a design for an approval label or marking, which shall bear the emblem of the Mine Safety and Health Administration and shall be inscribed substantially as follows:
 
-Permissible Fire-Resistant Hydraulic FluidMSHA Approval No.Issued to(Name of Applicant)
+Permissible Fire-Resistant Hydraulic Fluid MSHA Approval No. Issued to (Name of Applicant)
 
-(b) A label so inscribed shall be attached to each fluid container in such a manner that it cannot be easily removed or containers may be so marked with a metal stencil. The letters and numbers shall be at least1/2 inch in height and of a color which contrasts with that of the container.
+(b) A label so inscribed shall be attached to each fluid container in such a manner that it cannot be easily removed or containers may be so marked with a metal stencil. The letters and numbers shall be at least 1/2 inch in height and of a color which contrasts with that of the container.
 
 (c) For a concentrate the label or marking shall clearly indicate that the certification thereof applies only when the concentrate is used in exact conformance with the instructions on such label or marking. The label or marking shall clearly indicate the exact amount of water or other vehicle to make the fire-resistant hydraulic fluid upon which the certificate of approval was based.
 

@@ -70,4 +70,4 @@
 
 (ii) The public notice shall contain the permittee's name, the permit number, the precise location of the land affected, the inspection frequency proposed, the general reasons for reducing the inspection frequency, the bond status of the permit, the telephone number and address of the regulatory authority where written comments on the reduced inspection frequency may be submitted, and the closing date of the comment period.
 
-(Pub. L. 95-87, 30 U.S.C. 1201 *et seq.*)[47 FR 35633, Aug. 16, 1983, as amended at 48 FR 44781, Sept. 30, 1983; 53 FR 24882, June 30, 1988; 59 FR 60883, Nov. 28, 1994]
+(Pub. L. 95-87, 30 U.S.C. 1201 *et seq.*) [47 FR 35633, Aug. 16, 1983, as amended at 48 FR 44781, Sept. 30, 1983; 53 FR 24882, June 30, 1988; 59 FR 60883, Nov. 28, 1994]

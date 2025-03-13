@@ -73,11 +73,11 @@ The test shall be performed in the order listed in Table E-3.
 
 (i) The following abbreviations shall be:
 
-cfm—Cubic feet per min (ft3 min)PT—Particulate (gr/hr)m mix—Diluted exhaust gas mass flow rate on wet basis (kg/hr)m sample—Mass of the diluted exhaust sample passed through the particulate sampling filters (kg)Pf—Particulate sample mass collected on a filter (mg) at each test mode as determined in Table E-3.Kp—Humidity correction factor for particulateWF—Weighting factori-Subscript denoting an individual mode, i = 1, . . . nPI—Particulate Index (cfm)
+cfm—Cubic feet per min (ft3 min) PT—Particulate (gr/hr) m mix—Diluted exhaust gas mass flow rate on wet basis (kg/hr) m sample—Mass of the diluted exhaust sample passed through the particulate sampling filters (kg) Pf—Particulate sample mass collected on a filter (mg) at each test mode as determined in Table E-3. Kp—Humidity correction factor for particulate WF—Weighting factor i-Subscript denoting an individual mode, i = 1, . . . n PI—Particulate Index (cfm)
 
 (ii) When calculating ambient humidity correction for the particulate concentration (Pf part), the equation shall be:
 
-Pfcorr = (Pf)(Kp)Kp = 1 / (1 + 0.0133 \* (H − 10.71))Where:Ha = humidity of the intake air, g water per kg dry airHa = (6.220 \* Ra \* pa) / (pB−pa − Ra \* 10−2)Ra = relative humidity of the intake air, %pa = saturation vapor pressure of the intake air, kPapB = total barometric pressure, kPa
+Pfcorr = (Pf)(Kp)Kp = 1 / (1 + 0.0133 \* (H − 10.71)) Where: Ha = humidity of the intake air, g water per kg dry air Ha = (6.220 \* Ra \* pa) / (pB−pa − Ra \* 10−2) Ra = relative humidity of the intake air, % pa = saturation vapor pressure of the intake air, kPapB = total barometric pressure, kPa
 
 (iii) When the multiple filter method is used, the following equations shall be used.
 
@@ -97,7 +97,7 @@ Pfcorr = (Pf)(Kp)Kp = 1 / (1 + 0.0133 \* (H − 10.71))Where:Ha = humidity of th
 
 (A) Mass of particulate emitted:
 
-![](/graphics/er25oc96.007.gif)Where:![](/graphics/er25oc96.008.gif)![](/graphics/er25oc96.009.gif)
+![](/graphics/er25oc96.007.gif)Where: ![](/graphics/er25oc96.008.gif)![](/graphics/er25oc96.009.gif)
 
 (B) Determination of particulate index for the mass particulate from the average of the test modes shall be as follows:
 

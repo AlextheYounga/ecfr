@@ -1,4 +1,3 @@
 ##### § 285.110 How do I submit applications, reports, or notices required by this part? #####
 
-Unless otherwise stated, you must submit one electronic copy of all plans, applications, reports, or notices required by this part to BSEE. BSEE will inform you if it requires paper copies of specific documents. Unless stated otherwise, documents should be submitted to the relevant contacts listed on the BSEE website.
-[89 FR 42713, May 15, 2024]
+Unless otherwise stated, you must submit one electronic copy of all plans, applications, reports, or notices required by this part to BSEE. BSEE will inform you if it requires paper copies of specific documents. Unless stated otherwise, documents should be submitted to the relevant contacts listed on the BSEE website. [89 FR 42713, May 15, 2024]

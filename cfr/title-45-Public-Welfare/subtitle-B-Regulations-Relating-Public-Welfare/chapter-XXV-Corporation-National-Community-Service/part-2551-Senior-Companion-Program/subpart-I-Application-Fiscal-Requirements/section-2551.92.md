@@ -16,4 +16,4 @@
 
 (e) *May a sponsor pay stipends at rates different than those established by AmeriCorps?* A sponsor must pay stipends at rates no less than the rate established by AmeriCorps. A sponsor may use non-AmeriCorps funding to pay stipends at rates higher than the rate established by AmeriCorps but may not use AmeriCorps funding for this purpose.
 
-[64 FR 14115, Mar. 24, 1999, as amended at 75 FR 51415, Aug. 20, 2010; 83 FR 64647, Dec. 17, 2018; 89 FR 70542, Aug. 30, 2024; 89 FR 70542, Aug. 30, 2024]
+[64 FR 14115, Mar. 24, 1999, as amended at 75 FR 51415, Aug. 20, 2010; 83 FR 64647, Dec. 17, 2018; 89 FR 70542, Aug. 30, 2024]

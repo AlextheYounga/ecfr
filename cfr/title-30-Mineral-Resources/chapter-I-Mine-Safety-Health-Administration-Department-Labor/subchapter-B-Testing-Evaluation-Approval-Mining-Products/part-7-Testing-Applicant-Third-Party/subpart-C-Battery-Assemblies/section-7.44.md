@@ -43,6 +43,6 @@
 
 (l) When the battery plug and receptacle are not located on or within the battery box, strain on the battery terminals shall be prevented by a strain-relief device on the cable. Insulating material shall be placed between the strain-relief device and cable, unless the device is constructed of insulating material.
 
-(m) At least a1/2-inch air space shall be provided between the underside of the battery cover and the top of the battery, including the terminals and connectors.
+(m) At least a 1/2-inch air space shall be provided between the underside of the battery cover and the top of the battery, including the terminals and connectors.
 
 [53 FR 23500, June 22, 1988, as amended at 57 FR 61220, Dec. 23, 1992]

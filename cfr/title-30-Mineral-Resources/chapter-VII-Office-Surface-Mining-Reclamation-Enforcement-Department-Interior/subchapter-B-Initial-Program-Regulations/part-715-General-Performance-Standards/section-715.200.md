@@ -16,4 +16,4 @@ The following interpretations of rules promulgated in part 715 of this chapter h
 
 (2) If the operator demonstrates through soil survey or other data that the topsoil and unconsolidated material are insufficient and substitute materials will be used, only the substitute materials must be analyzed in accordance with 30 CFR 715.16(a)(4)(i).
 
-(Sec. 501, 502, 504, 508, 515, 516, Pub. L. 95-87, 91 Stat. 467, 468, 471, 478, 492, 496 (30 U.S.C. 1251, 1252, 1254, 1258, 1265, 1266))[45 FR 26000, Apr. 16, 1980 and 45 FR 39447, June 10, 1980, as amended at 45 FR 73946, Nov. 7, 1980]
+(Sec. 501, 502, 504, 508, 515, 516, Pub. L. 95-87, 91 Stat. 467, 468, 471, 478, 492, 496 (30 U.S.C. 1251, 1252, 1254, 1258, 1265, 1266)) [45 FR 26000, Apr. 16, 1980 and 45 FR 39447, June 10, 1980, as amended at 45 FR 73946, Nov. 7, 1980]

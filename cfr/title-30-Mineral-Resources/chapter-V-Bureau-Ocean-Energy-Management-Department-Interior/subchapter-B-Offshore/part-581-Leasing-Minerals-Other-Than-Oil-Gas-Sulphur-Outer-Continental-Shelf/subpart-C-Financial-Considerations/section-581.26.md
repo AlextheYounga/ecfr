@@ -12,7 +12,7 @@
 
 (f) Royalty shall be computed at the rate specified in the leasing notice, and paid in value unless the Secretary elects to have the royalty delivered in kind.
 
-(g) For leases which provide for minimum royalty payments, each lessee shall pay the minimum royalty specified in the lease at the end of each lease year beginning with the lease year in which production royalty is paid (whether the full amount specified in the lease or1/2 the amount specified in the lease pursuant to § 581.28(b) on this part) of OCS minerals produced (sold, transferred, used, or otherwise disposed of) from the leasehold.
+(g) For leases which provide for minimum royalty payments, each lessee shall pay the minimum royalty specified in the lease at the end of each lease year beginning with the lease year in which production royalty is paid (whether the full amount specified in the lease or 1/2 the amount specified in the lease pursuant to § 581.28(b) on this part) of OCS minerals produced (sold, transferred, used, or otherwise disposed of) from the leasehold.
 
 (h)(1) Unless stated otherwise in the lease, product valuation will be in accordance with the regulations in part 1206 of chapter XII. The value used in the computation of royalty shall be determined by the Director of the Office of Natural Resources Revenue. The value, for royalty purposes, shall be the gross proceeds received by the lessee for produced substances at the point the product is produced and placed in its first marketable condition, consistent with prevailing practices in the industry. In establishing the value, the Director shall consider, in this order:
 

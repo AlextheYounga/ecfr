@@ -2,7 +2,7 @@
 
 (a) The circuits external to telephones and signal devices shall be intrinsically safe; that is, the electrical design and construction of telephones and signal devices shall be such that neither contact between wires comprising the external circuits nor contact of tools or other metal objects with external terminals and circuits will result in electrical sparks capable of igniting explosive methane-air mixtures (or such mixtures with coal dust in suspension) during normal operation of the telephones or signal devices.
 
-(b) All parts which, during normal operation, are capable of producing sparks that might ignite explosive methane-air mixtures shall be enclosed in explosion-proof compartments. All openings in the casings of such compartments shall be adequately protected. It is desirable that openings be as few as possible. All joints in the casings of an explosion-proof compartment shall be metal-to-metal so designed as to have a width of contact, measured along the shortest path from the inside to the outside of the compartment, of not less than 1 inch if the unoccupied volume (air space) in the compartment is more than 60 cubic inches. For unoccupied volume of 60 cubic inches or less, a3/8-inch width of contact will be acceptable.
+(b) All parts which, during normal operation, are capable of producing sparks that might ignite explosive methane-air mixtures shall be enclosed in explosion-proof compartments. All openings in the casings of such compartments shall be adequately protected. It is desirable that openings be as few as possible. All joints in the casings of an explosion-proof compartment shall be metal-to-metal so designed as to have a width of contact, measured along the shortest path from the inside to the outside of the compartment, of not less than 1 inch if the unoccupied volume (air space) in the compartment is more than 60 cubic inches. For unoccupied volume of 60 cubic inches or less, a 3/8-inch width of contact will be acceptable.
 
 (c) All bolts and screw holes shall be “blind” or bottomed if the omission of a bolt or screw would otherwise leave an opening into the compartment. An adequate lock or seal shall be provided to prevent tampering and exposure of spark-producing parts by unauthorized persons.
 
@@ -10,7 +10,7 @@
 
 (e) Manufacturers shall furnish adequate instructions for the installation and connection of telephones and signal devices in order that the safety of these devices and other circuits shall not be diminished by improper installation. MSHA reserves the right to require the attachment of wiring diagrams to the cases of telephones and signal devices.
 
-(f) If electric light bulbs are used in signaling devices, they shall be either equipped with effective safety devices, such as are required for permissible electric mine lamps,1 or enclosed in explosion-proof compartments.
+(f) If electric light bulbs are used in signaling devices, they shall be either equipped with effective safety devices, such as are required for permissible electric mine lamps, 1 or enclosed in explosion-proof compartments.
 
 1 In this case, the requirements of the current schedule for mine lamps will apply.
 

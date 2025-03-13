@@ -38,4 +38,4 @@
 
 (h) The person conducting the hearing for the Office shall determine whether or not the minesite should be viewed during the hearing. In making this determination the only consideration shall be whether a view of the minesite will assist the person conducting the hearing in reviewing the appropriateness of the enforcement action or the required remedial action.
 
-(Surface Mining Control and Reclamation Act of 1977, secs. 201, 501, 521(a)(5) (30 U.S.C. 1211, 1251, 1271(a)(5)))[45 FR 2628, Jan. 11, 1980]
+(Surface Mining Control and Reclamation Act of 1977, secs. 201, 501, 521(a)(5) (30 U.S.C. 1211, 1251, 1271(a)(5))) [45 FR 2628, Jan. 11, 1980]

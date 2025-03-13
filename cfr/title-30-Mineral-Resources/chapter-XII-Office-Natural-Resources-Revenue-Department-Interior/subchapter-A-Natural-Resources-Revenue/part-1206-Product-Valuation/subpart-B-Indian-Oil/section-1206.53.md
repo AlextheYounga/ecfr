@@ -18,7 +18,7 @@
 |9,000 bbl |23.0°|$33.25/bbl|                                                            Purchased in the field.                                                            |
 |4,000 bbl |22.0°|$33.00/bbl|                                                            Purchased in the field.                                                            |
 
-(2) *Example 2.* Because the lessee does not know the costs that the seller of the 8,000 bbl incurred to transport that volume to the refinery, that volume will not be included in the volume-weighted average price calculation. Further assume that the gravity adjustment scale provides for a deduction of $0.02 per1/10 degree API gravity below 34°. Normalized to 23.5° (the gravity of the oil being valued under this section), the prices of each of the volumes that the refiner purchased that are included in the volume-weighted average calculation are as follows:
+(2) *Example 2.* Because the lessee does not know the costs that the seller of the 8,000 bbl incurred to transport that volume to the refinery, that volume will not be included in the volume-weighted average price calculation. Further assume that the gravity adjustment scale provides for a deduction of $0.02 per 1/10 degree API gravity below 34°. Normalized to 23.5° (the gravity of the oil being valued under this section), the prices of each of the volumes that the refiner purchased that are included in the volume-weighted average calculation are as follows:
 
 |10,000 bbl|24.5°|$34.50/bbl|(1.0° difference over 23.5° = $0.20 deducted).|
 |----------|-----|----------|----------------------------------------------|

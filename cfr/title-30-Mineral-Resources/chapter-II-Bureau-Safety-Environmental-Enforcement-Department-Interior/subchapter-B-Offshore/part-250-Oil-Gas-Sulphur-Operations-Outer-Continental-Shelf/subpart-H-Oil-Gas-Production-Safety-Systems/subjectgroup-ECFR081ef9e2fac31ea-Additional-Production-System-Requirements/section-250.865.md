@@ -13,7 +13,7 @@
 
 (d) The PSL must be placed into service when the pump discharge pressure has risen above the PSL sensing point, or within 45 seconds of the pump coming into service, whichever is sooner.
 
-(e) You may exclude the PSH and PSL sensors on small, low-volume pumps such as chemical injection-type pumps. This is acceptable if such a pump is used as a sump pump or transfer pump, has a discharge rating of less than1/2 gallon per minute (gpm), discharges into piping that is 1 inch or less in diameter, and terminates in piping that is 2 inches or larger in diameter.
+(e) You may exclude the PSH and PSL sensors on small, low-volume pumps such as chemical injection-type pumps. This is acceptable if such a pump is used as a sump pump or transfer pump, has a discharge rating of less than 1/2 gallon per minute (gpm), discharges into piping that is 1 inch or less in diameter, and terminates in piping that is 2 inches or larger in diameter.
 
 (f) You must install a TSE in the immediate vicinity of all pumps in hydrocarbon service or those powered by platform fuel gas.
 

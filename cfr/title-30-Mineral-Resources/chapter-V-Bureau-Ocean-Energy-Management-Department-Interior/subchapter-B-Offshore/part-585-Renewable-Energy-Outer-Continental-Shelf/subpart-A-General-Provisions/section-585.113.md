@@ -110,8 +110,7 @@ Terms used in this part have the meanings as defined in this section:
 
 *Right-of-use and easement (RUE) grant* means an easement issued by BOEM under this part that authorizes use of a designated portion of the OCS to support activities on a lease or other use authorization for renewable energy activities. The term also means the area covered by the authorization.
 
-*Right-of-way (ROW) grant* means an authorization issued by BOEM under this part to use a portion of the OCS for the construction and use of a cable or pipeline for the purpose of gathering, transmitting, distributing, or otherwise transporting electricity or other energy product generated or produced from renewable energy, but does not constitute a project easement under this part. The term also means the area c
-overed by the authorization.
+*Right-of-way (ROW) grant* means an authorization issued by BOEM under this part to use a portion of the OCS for the construction and use of a cable or pipeline for the purpose of gathering, transmitting, distributing, or otherwise transporting electricity or other energy product generated or produced from renewable energy, but does not constitute a project easement under this part. The term also means the area c overed by the authorization.
 
 *Secretary* means the Secretary of the Interior or an official authorized to act on the Secretary's behalf.
 

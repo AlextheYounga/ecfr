@@ -12,7 +12,7 @@
 
 (B) The equation is fa = (99/Ps)0.7\* ((Ta + 273)/298)1.5 for a turbocharged engine with or without cooling of the intake air.
 
-Where:Ps = dry atmospheric pressure (kPa)Ta = intake air temperature (°C)
+Where: Ps = dry atmospheric pressure (kPa) Ta = intake air temperature (°C)
 
 (ii) The air inlet restriction shall be set within ±10 percent of the recommended maximum air inlet restriction as specified by the engine manufacturer at the engine operating condition giving maximum air flow to determine the concentration of CO as specified in paragraph (a)(6) of this section.
 

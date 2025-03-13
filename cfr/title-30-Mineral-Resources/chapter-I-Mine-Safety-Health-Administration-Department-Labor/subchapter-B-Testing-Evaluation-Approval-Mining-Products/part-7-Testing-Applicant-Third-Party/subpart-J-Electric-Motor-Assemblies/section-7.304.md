@@ -45,7 +45,7 @@
 
 (5) Flat surfaces between fastening holes that form any part of a flame-arresting path shall be plane to within a maximum deviation of one-half the maximum clearance specified in paragraph (g)(19) of this section. All surfaces forming a flame-arresting path shall be finished during the manufacturing process to not more than 250 microinches. A thin film of nonhardening preparation to inhibit rusting may be applied to these finished metal surfaces as long as the final surface can be readily wiped free of any foreign materials.
 
-(6) For a laminated stator frame, it shall be impossible to insert a 0.0015 inch thickness gauge to a depth exceeding1/8 inch between adjacent laminations or between end rings and laminations.
+(6) For a laminated stator frame, it shall be impossible to insert a 0.0015 inch thickness gauge to a depth exceeding 1/8 inch between adjacent laminations or between end rings and laminations.
 
 (7) Lockwashers, or equivalent, shall be provided for all fastenings. Devices other than lockwashers shall meet the requirements of § 7.308 of this part. Equivalent devices shall only be used in the configuration in which they were tested.
 
@@ -55,7 +55,7 @@
 
 (10) Holes for fastenings shall not penetrate to the interior of an explosion-proof enclosure, except holes made through motor casings for bolts, studs, or screws to hold essential parts, such as pole pieces, brush rigging, and bearing cartridges. The attachments of such parts shall be secured against loosening. The threaded holes in these parts shall be blind unless the fastenings are inserted from the inside, in which case the fastenings shall not be accessible with the rotor in place.
 
-(11) For direct current motor assemblies with narrow interpoles, the distance from the edge of the pole piece to any bolt hole in the frame shall be at least1/8 inch. If the distance is1/8 to1/4 inch, the diametrical clearance for the pole bolt shall not exceed1/64 inch for not less than1/2 inch through the frame. Furthermore, the pole piece shall have the same radius as the inner surface of the frame. Pole pieces may be shimmed as necessary. If used, the total resulting thickness of the shims shall be specified. The shim assembly shall meet the same requirements as the pole piece.
+(11) For direct current motor assemblies with narrow interpoles, the distance from the edge of the pole piece to any bolt hole in the frame shall be at least 1/8 inch. If the distance is 1/8 to 1/4 inch, the diametrical clearance for the pole bolt shall not exceed 1/64 inch for not less than 1/2 inch through the frame. Furthermore, the pole piece shall have the same radius as the inner surface of the frame. Pole pieces may be shimmed as necessary. If used, the total resulting thickness of the shims shall be specified. The shim assembly shall meet the same requirements as the pole piece.
 
 (12) Coil-thread inserts, if used in holes for fastenings, shall meet the following:
 
@@ -67,7 +67,7 @@
 
 (iv) The insert shall be of sufficient length to ensure the minimum thread engagement of fastening specified in paragraph (g)(19) of this section.
 
-(13) A minimum of1/8 inch of stock shall be left at the center of the bottom of each blind hole that could penetrate into the interior of an explosion-proof enclosure.
+(13) A minimum of 1/8 inch of stock shall be left at the center of the bottom of each blind hole that could penetrate into the interior of an explosion-proof enclosure.
 
 (14) Fastenings shall be used only for attaching parts that are essential in maintaining the explosion-proof integrity of the enclosure, or necessary for the operation of the motor. They shall not be used for making electrical connections.
 
@@ -77,7 +77,7 @@
 
 (i) When the flame-arresting path is in one plane, the o-ring shall be located at least one-half the acceptable flame-arresting path length specified in paragraph (g)(19) of this section from within the outside edge of the path (see figure J-2).
 
-(ii) When the flame-arresting path is one of the plane-cylindrical type (step joint), the o-ring shall be located at least1/2 inch from within the outer edge of the plane portion (see figure J-3), or at the junction of the plane and cylindrical portion of the joint (see figure J-4), or in the cylindrical portion (see figure J-5).
+(ii) When the flame-arresting path is one of the plane-cylindrical type (step joint), the o-ring shall be located at least 1/2 inch from within the outer edge of the plane portion (see figure J-3), or at the junction of the plane and cylindrical portion of the joint (see figure J-4), or in the cylindrical portion (see figure J-5).
 
 (17) Mating parts comprising a pressed fit shall result in a minimum interference of 0.001 inch between the parts. The minimum length of the pressed fit shall be equal to the minimum thickness requirement of paragraph (g)(19) of this section for the material in which the fit is made.
 
@@ -139,13 +139,13 @@
 
 (2) When the packing is properly compressed, the gland nut shall have—
 
-(i) A clearance distance of1/8 inch or more, with no maximum, to travel without interference by parts other than packing; and
+(i) A clearance distance of 1/8 inch or more, with no maximum, to travel without interference by parts other than packing; and
 
 (ii) A minimum of three effective threads engaged (see figures J-8, J-9, and J-10).
 
 (3) Packing nuts (see figure J-7) and stuffing boxes shall be secured against loosening (see figure J-11).
 
-(4) Compressed packing material shall be in contact with the cable jacket for a length of not less than1/2 inch.
+(4) Compressed packing material shall be in contact with the cable jacket for a length of not less than 1/2 inch.
 
 (5) Requirements for lead entrances in which MSHA accepted rope packing material is specified, are:
 
@@ -159,9 +159,9 @@
 
 (i) The grommet packing material shall be accepted by MSHA as flame-resistant material under § 18.37(f)(1) of this chapter.
 
-(ii) The diametrical clearance between the cable jacket and the nominal inside diameter of the grommet shall not exceed1/16 inch, based on the nominal specified diameter of the cable (see figure J-14).
+(ii) The diametrical clearance between the cable jacket and the nominal inside diameter of the grommet shall not exceed 1/16 inch, based on the nominal specified diameter of the cable (see figure J-14).
 
-(iii) The diametrical clearance between the nominal outside diameter of the grommet and the inside wall of the stuffing box shall not exceed1/16 inch (see figure J-14).
+(iii) The diametrical clearance between the nominal outside diameter of the grommet and the inside wall of the stuffing box shall not exceed 1/16 inch (see figure J-14).
 
 (i) *Combustible gases from insulating material.* (1) Insulating materials that give off flammable or explosive gases when decomposed electrically shall not be used within explosion-proof enclosures where the materials are subjected to destructive electrical action.
 

@@ -18,4 +18,4 @@
 
 (5) An equivalent mine official.
 
-(Pub. L. No. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*))[36 FR 9364, May 22, 1971, as amended at 60 FR 33723, June 29, 1995; 63 FR 58613, Oct. 30, 1998]
+(Pub. L. No. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*)) [36 FR 9364, May 22, 1971, as amended at 60 FR 33723, June 29, 1995; 63 FR 58613, Oct. 30, 1998]

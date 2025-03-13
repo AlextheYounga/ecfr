@@ -1,7 +1,5 @@
 ##### § 435.4 Definitions and use of terms. #####
 
-Link to an amendment published at 89 FR 39435, May 8, 2024.
-
 As used in this part—
 
 *AABD* means aid to the aged, blind, and disabled under title XVI of the Act;
@@ -38,7 +36,7 @@ As used in this part—
 
 *Categorically needy* refers to families and children, aged, blind, or disabled individuals, and pregnant women, described under subparts B and C of this part who are eligible for Medicaid. Subpart B of this part describes the mandatory eligibility groups who, generally, are receiving or deemed to be receiving cash assistance under the Act. These mandatory groups are specified in sections 1902(a)(10)(A)(i), 1902(e), 1902(f), and 1928 of the Act. Subpart C of this part describes the optional eligibility groups of individuals who, generally, meet the categorical requirements or income or resource requirements that are the same as or less restrictive than those of the cash assistance programs and who are not receiving cash payments. These optional groups are specified in sections 1902(a)(10)(A)(ii), 1902(e), and 1902(f) of the Act.
 
-*Citizenship* includes status as a “national of the United States,” and includes both citizens of the United States and non-citizen nationals of the United States described in 8 U.S.C. 1101(a)(22).
+*Citizenship* includes status as a “national of the United States,” and includes both citizens of the United States and noncitizen nationals of the United States described in 8 U.S.C. 1101(a)(22).
 
 *Combined eligibility notice* means an eligibility notice that informs an individual or multiple family members of a household of eligibility for each of the insurance affordability programs and enrollment in a qualified health plan through the Exchange, for which a determination or denial of eligibility was made, as well as any right to request a fair hearing or appeal related to the determination made for each program. A combined notice must meet the requirements of § 435.917(a) and contain the content described in § 435.917(b) and (c), except that information described in § 435.917(b)(1)(iii) and (iv) may be included in a combined notice issued by another insurance affordability program or in a supplemental notice provided by the agency. A combined eligibility notice must be issued in accordance with the agreement(s) consummated by the agency in accordance with § 435.1200(b)(3).
 
@@ -102,7 +100,7 @@ As used in this part—
 
 *Non-applicant* means an individual who is not seeking an eligibility determination for himself or herself and is included in an applicant's or beneficiary's household to determine eligibility for such applicant or beneficiary.
 
-*Non-citizen* has the same meaning as the term “alien,” as defined at 8 U.S.C. 1101(a)(3) and includes any individual who is not a citizen or national of the United States, defined at 8 U.S.C. 1101(a)(22).
+*Noncitizen* has the same meaning as the term “alien,” as defined at 8 U.S.C. 1101(a)(3) and includes any individual who is not a citizen or national of the United States, defined at 8 U.S.C. 1101(a)(22).
 
 *OAA* means old age assistance under title I of the Act;
 
@@ -138,7 +136,67 @@ As used in this part—
 
 *Pregnant woman* means a woman during pregnancy and the post partum period, which begins on the date the pregnancy ends, extends 60 days, and then ends on the last day of the month in which the 60-day period ends.
 
-*Qualified non-citizen* includes the term “qualified alien” as defined at 8 U.S.C. 1641(b) and (c).
+*Qualified noncitizen* means:
+
+(1) a “Qualified alien,” as defined in 8 U.S.C. 1641(b) and (c); who is:
+
+(i) A noncitizen who is lawfully admitted for permanent residence under the Immigration and Nationality Act [8 U.S.C. 1101 *et seq.*];
+
+(ii) A noncitizen who is granted asylum under section 208 of such Act [8 U.S.C. 1158];
+
+(iii) A refugee who is admitted to the United States under section 207 of such Act [8 U.S.C. 1157];
+
+(iv) A noncitizen who is paroled into the United States under section 212(d)(5) of such Act [8 U.S.C. 1182(d)(5)] for a period of at least 1 year;
+
+(v) A noncitizen whose deportation is being withheld under section 243(h) of such Act [8 U.S.C. 1253] (as in effect immediately before the effective date of section 307 of division C of Public Law 104-208) or section 241(b)(3) of such Act [8 U.S.C. 1231(b)(3)] (as amended by section 305(a) of division C of Public Law 104-208);
+
+(vi) A noncitizen who is granted conditional entry pursuant to section 203(a)(7) of such Act [8 U.S.C. 1153(a)(7)] as in effect prior to April 1, 1980;
+
+(vii) A noncitizen who is a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980);
+
+(viii) An individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in 8 U.S.C. 1612(b)(2)(G);
+
+(ix) A noncitizen who—
+
+(A) Has been battered or subjected to extreme cruelty in the United States by a spouse or a parent, or by a member of the spouse or parent's family residing in the same household as the alien and the spouse or parent consented to, or acquiesced in, such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
+
+(B) Has been approved or has a petition pending which sets forth a prima facie case for—
+
+(*1*) Status as a spouse or a child of a United States citizen pursuant to clause (ii), (iii), or (iv) of section 204(a)(1)(A) of the Immigration and Nationality Act [8 U.S.C. 1154(a)(1)(A)(ii), (iii), (iv)];
+
+(*2*) Classification pursuant to clause (ii) or (iii) of section 204(a)(1)(B) of the Act [8 U.S.C. 1154(a)(1)(B)(ii), (iii)];
+
+(*3*) Suspension of deportation under section 244(a)(3) of the Immigration and Nationality Act [8 U.S.C. 1254(a)(3)] (as in effect before the title III-A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996);
+
+(*4*) Status as a spouse or child of a United States citizen pursuant to clause (i) of section 204(a)(1)(A) of such Act [8 U.S.C. 1154(a)(1)(A)(i)], or classification pursuant to clause (i) of section 204(a)(1)(B) of such Act [8 U.S.C. 1154(a)(1)(B)(i)]; or
+
+(*5*) Cancellation of removal pursuant to section 240A(b)(2) of such Act [8 U.S.C. 1229b(b)(2)];
+
+(x) A noncitizen—
+
+(A) Whose child has been battered or subjected to extreme cruelty in the United States by a spouse or a parent of the alien (without the active participation of the alien in the battery or cruelty), or by a member of the spouse or parent's family residing in the same household as the alien and the spouse or parent consented or acquiesced to such battery or cruelty, and the alien did not actively participate in such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
+
+(B) Who meets the requirement of 8 U.S.C. 1641(c)(1)(B);
+
+(xi) A noncitizen child who—
+
+(A) Resides in the same household as a parent who has been battered or subjected to extreme cruelty in the United States by that parent's spouse or by a member of the spouse's family residing in the same household as the parent and the spouse consented or acquiesced to such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
+
+(B) Who meets the requirement of 8 U.S.C. 1641(c)(1)(B); or
+
+(xii) A noncitizen who has been granted nonimmigrant status under section 101(a)(15)(T) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(T)) or who has a pending application that sets forth a prima facie case for eligibility for such nonimmigrant status.
+
+(2) Noncitizens who are treated as refugees under other Federal statutes:
+
+(i) Noncitizens who are victims of a severe form of trafficking in persons, as described in 22 U.S.C. 7105(b)(1)(C), or who are classified as nonimmigrants under section 101(a)(15)(T)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(T)(ii)), pursuant to 22 U.S.C. 7105(b)(1)(A);
+
+(ii) Iraqi and Afghan special immigrants, as described in Public Law 110-181, section 1244(g) (2008), Public Law 111-8, section 602(b)(8) (2009), Public Law 111-118, section 8120(b) (2010), and Public Law 113-291, section 1227 (2014);
+
+(iii) Amerasian immigrants, described in Public Law 100-202, section 101(e) (8 U.S.C. 1101 note);
+
+(iv) Certain Afghan parolees, in accordance with Section 2502 of Public Law 117-43, as amended; and
+
+(v) Certain Ukrainian parolees, in accordance with Section 401 of Public Law 117-128, as amended.
 
 *Secure electronic interface* means an interface which allows for the exchange of data between Medicaid and other insurance affordability programs and adheres to the requirements in part 433, subpart C of this chapter.
 
@@ -150,4 +208,4 @@ As used in this part—
 
 *Tax dependent* has the same meaning as the term “dependent” under section 152 of the Internal Revenue Code, as an individual for whom another individual claims a deduction for a personal exemption under section 151 of the Internal Revenue Code for a taxable year.
 
-[43 FR 45204, Sept. 29, 1978, as amended at 45 FR 24883, Apr. 11, 1980; 46 FR 6909, Jan. 22, 1981; 46 FR 47984, Sept. 30, 1981; 51 FR 7211, Feb. 28, 1986; 58 FR 4925, Jan. 19, 1993; 66 FR 2666, Jan. 11, 2001; 77 FR 17203, Mar. 23, 2012; 81 FR 86450, Nov. 30, 2016; 87 FR 66510, Nov. 3, 2022; 88 FR 65260, Sept. 21, 2023]
+[43 FR 45204, Sept. 29, 1978, as amended at 45 FR 24883, Apr. 11, 1980; 46 FR 6909, Jan. 22, 1981; 46 FR 47984, Sept. 30, 1981; 51 FR 7211, Feb. 28, 1986; 58 FR 4925, Jan. 19, 1993; 66 FR 2666, Jan. 11, 2001; 77 FR 17203, Mar. 23, 2012; 81 FR 86450, Nov. 30, 2016; 87 FR 66510, Nov. 3, 2022; 88 FR 65260, Sept. 21, 2023; 89 FR 39435, May 8, 2024]

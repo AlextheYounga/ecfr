@@ -2,9 +2,9 @@
 
 The principal parts of the apparatus used to test for flame-resistance of brattice cloth and ventilation tubing shall be constructed as follows:
 
-(a) A 16-gauge stainless steel gallery lined on the top, bottom and both sides with1/2 inch thick Marinite or equivalent insulating material yielding inside dimensions approximately 58 inches long, 41 inches high, and 30 inches wide;
+(a) A 16-gauge stainless steel gallery lined on the top, bottom and both sides with 1/2 inch thick Marinite or equivalent insulating material yielding inside dimensions approximately 58 inches long, 41 inches high, and 30 inches wide;
 
-(b) Two3/8-inch diameter steel J hooks and a9/16-inch diameter steel rod to support the sample located approximately 23/16-inches from the front and back ends of the test gallery, 11/2-inches from the ceiling insulation and centrally located in the gallery along its length. Samples shall be suspended to preclude folds or wrinkles;
+(b) Two 3/8-inch diameter steel J hooks and a 9/16-inch diameter steel rod to support the sample located approximately 23/16-inches from the front and back ends of the test gallery, 11/2-inches from the ceiling insulation and centrally located in the gallery along its length. Samples shall be suspended to preclude folds or wrinkles;
 
 (c) A tapered 16-gauge stainless steel duct section tapering from a cross sectional area measuring 2 feet 7 inches wide by 3 feet 6 inches high at the test gallery to a cross-sectional area 1 foot 6 inches square over a length of 3 feet. The tapered duct section must be tightly connected to the test gallery;
 

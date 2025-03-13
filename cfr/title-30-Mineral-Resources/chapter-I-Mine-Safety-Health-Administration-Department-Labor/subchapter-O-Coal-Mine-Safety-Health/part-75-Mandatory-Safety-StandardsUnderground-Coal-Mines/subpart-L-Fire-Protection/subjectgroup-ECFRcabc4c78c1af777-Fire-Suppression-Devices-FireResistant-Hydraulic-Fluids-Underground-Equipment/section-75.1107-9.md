@@ -10,7 +10,7 @@
 
 (4) Hose, piping, and fittings between the actuator and the chemical container shall have a bursting pressure of 500 pounds per square inch (gage) or higher; the hose, piping, and fittings between the chemical container and the nozzles shall have a bursting pressure of 300 pounds per square inch (gage) or higher and
 
-(5) The system shall discharge in 1 minute or less, for quantities less than 50 pounds (nominal)1 and in less than 2 minutes for quantities more than 50 pounds;
+(5) The system shall discharge in 1 minute or less, for quantities less than 50 pounds (nominal) 1 and in less than 2 minutes for quantities more than 50 pounds;
 
 1 Many dry chemical systems were originally designed for sodium bicarbonate before all-purpose chemical (ammonium phosphate) was shown to be more effective. Sodium bicarbonate is denser than ammonium phosphate; hence, for example, a 50-pound system designed for the sodium bicarbonate will hold slightly more by weight than all-purpose dry chemical (ammonium phosphate) by weight. The word “nominal” is used in § 75.1107-9 to express the approximate weight in pounds of all-purpose dry chemical.
 

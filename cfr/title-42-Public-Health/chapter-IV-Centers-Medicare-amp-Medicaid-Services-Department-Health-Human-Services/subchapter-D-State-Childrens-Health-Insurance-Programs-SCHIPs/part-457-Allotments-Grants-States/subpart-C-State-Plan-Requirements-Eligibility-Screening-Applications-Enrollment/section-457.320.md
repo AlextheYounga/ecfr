@@ -1,7 +1,5 @@
 ##### § 457.320 Other eligibility standards. #####
 
-Link to an amendment published at 89 FR 39436, May 8, 2024.
-
 (a) *Eligibility standards.* To the extent consistent with title XXI of the Act and except as provided in paragraph (b) of this section, the State plan may adopt eligibility standards for one or more groups of children related to—
 
 (1) Geographic area(s) served by the plan;
@@ -32,11 +30,13 @@ Link to an amendment published at 89 FR 39436, May 8, 2024.
 
 (5) Exclude American Indian or Alaska Native children based on eligibility for, or access to, medical care funded by the Indian Health Service;
 
-(6) Exclude individuals based on citizenship or nationality, to the extent that the children are U.S. citizens, U.S. nationals or qualified aliens, (as defined at section 431 of the Personal Responsibility and Work Opportunity Reconciliation Act (PRWORA) of 1996, as amended by the BBA of 1997, except to the extent that section 403 of PRWORA precludes them from receiving Federal means-tested public benefits); or
+(6) Exclude individuals based on citizenship or nationality, to the extent that the children are U.S. citizens, U.S. nationals or qualified noncitizens (as defined at paragraph (c) of this section); or
 
 (7) Violate any other Federal laws or regulations pertaining to eligibility for a separate child health program under title XXI.
 
-(c) [Reserved]
+(c) *Definitions.* As used in this subpart:
+
+*Qualified noncitizen* has the meaning assigned at § 435.4 of this chapter.
 
 (d) *Citizenship and immigration status.* All individuals seeking coverage under a separate child health plan must make a declaration of United States citizenship or satisfactory immigration status. Such declaration may be made by an adult member of the individual's household, an authorized representative, as defined in § 435.923 of this chapter (referenced at § 457.340), or if the individual is a minor or incapacitated, someone acting responsibly for the individual provided that such individual attests to having knowledge of the individual's status.
 
@@ -60,4 +60,4 @@ Link to an amendment published at 89 FR 39436, May 8, 2024.
 
 (2) [Reserved]
 
-[66 FR 2675, Jan. 11, 2001, as amended at 66 FR 33823, June 25, 2001, 77 FR 17214, Mar. 23, 2012; 81 FR 86463, Nov. 30, 2016]
+[66 FR 2675, Jan. 11, 2001, as amended at 66 FR 33823, June 25, 2001, 77 FR 17214, Mar. 23, 2012; 81 FR 86463, Nov. 30, 2016; 89 FR 39436, May 8, 2024]

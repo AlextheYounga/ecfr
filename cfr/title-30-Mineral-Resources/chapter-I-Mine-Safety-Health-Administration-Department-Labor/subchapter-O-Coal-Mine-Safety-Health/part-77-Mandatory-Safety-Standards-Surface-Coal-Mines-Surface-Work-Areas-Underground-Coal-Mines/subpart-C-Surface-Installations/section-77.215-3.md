@@ -6,4 +6,4 @@
 
 (c) Certifications required by paragraphs (a) and (b) of this section shall include all information considered in making the certification.
 
-(Secs. 101, 508, Pub. L. 91-173, 83 Stat. 745, 803 (30 U.S.C. 811, 957))[40 FR 41776, Sept. 9, 1975, as amended at 57 FR 7471, Mar. 2, 1992]
+(Secs. 101, 508, Pub. L. 91-173, 83 Stat. 745, 803 (30 U.S.C. 811, 957)) [40 FR 41776, Sept. 9, 1975, as amended at 57 FR 7471, Mar. 2, 1992]

@@ -1,4 +1,4 @@
-##### § 2553.83 What financial obligation does CNCS incur for non-CNCS funded projects? #####
+##### § 2553.83 What financial obligation does AmeriCorps incur for non-AmeriCorps funded projects? #####
 
 Issuance of an NGA to a sponsor of a non-AmeriCorps funded project does not create a financial obligation on the part of AmeriCorps for any costs associated with the project.
 

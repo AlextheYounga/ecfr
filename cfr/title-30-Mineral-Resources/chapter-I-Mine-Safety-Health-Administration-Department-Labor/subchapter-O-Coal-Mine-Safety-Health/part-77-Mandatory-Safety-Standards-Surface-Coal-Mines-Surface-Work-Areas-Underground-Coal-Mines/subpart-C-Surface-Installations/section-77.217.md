@@ -14,4 +14,4 @@ For the purpose of §§ 77.214 through 77.216-5, the term:
 
 (f) *Safety factor* means the ratio of the forces tending to resist the failure of a structure to the forces tending to cause such failure as determined by accepted engineering practice.
 
-(Secs. 101, 508, Pub. L. 91-173, 83 Stat. 745, 803 (30 U.S.C. 811, 957))[40 FR 41778, Sept. 9, 1975]
+(Secs. 101, 508, Pub. L. 91-173, 83 Stat. 745, 803 (30 U.S.C. 811, 957)) [40 FR 41778, Sept. 9, 1975]

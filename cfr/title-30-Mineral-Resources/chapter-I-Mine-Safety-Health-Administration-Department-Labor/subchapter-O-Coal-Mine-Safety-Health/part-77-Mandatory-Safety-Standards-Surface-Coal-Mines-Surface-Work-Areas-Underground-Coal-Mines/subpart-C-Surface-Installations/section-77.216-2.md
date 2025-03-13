@@ -40,4 +40,4 @@
 
 (b) Any changes or modifications to plans for water, sediment, or slurry impoundments or impounding structures shall be approved by the District Manager prior to the initiation of such changes or modifications.
 
-(Secs. 101, 508, Pub. L. 91-173, 83 Stat. 745, 803 (30 U.S.C. 811, 957))[40 FR 41777, Sept. 9, 1975]
+(Secs. 101, 508, Pub. L. 91-173, 83 Stat. 745, 803 (30 U.S.C. 811, 957)) [40 FR 41777, Sept. 9, 1975]

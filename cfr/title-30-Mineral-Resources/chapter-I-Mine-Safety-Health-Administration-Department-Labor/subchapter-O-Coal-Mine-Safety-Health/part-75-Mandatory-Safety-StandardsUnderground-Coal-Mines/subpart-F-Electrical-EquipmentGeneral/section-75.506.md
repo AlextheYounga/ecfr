@@ -4,7 +4,7 @@
 
 (b) Except as provided in paragraph (c) of this § 75.506 electric-driven mine equipment and accessories manufactured prior to March 30, 1973, will be permissible electric face equipment (1) if they were fabricated, assembled, or built under an approval, or any extension thereof, issued by the Bureau of Mines in accordance with the schedules set forth below, and (2) if they are maintained in a permissible condition.
 
-Bureau of Mines Schedule 2D, May 23, 1936;Bureau of Mines Schedule 2E, February 15, 1945;Bureau of Mines Schedule 2F, August 3, 1955; andBureau of Mines Schedule 2G, March 19, 1968.Copies of these schedules are available at all MSHA Coal Mine Safety and Health district offices.
+Bureau of Mines Schedule 2D, May 23, 1936; Bureau of Mines Schedule 2E, February 15, 1945; Bureau of Mines Schedule 2F, August 3, 1955; and Bureau of Mines Schedule 2G, March 19, 1968.Copies of these schedules are available at all MSHA Coal Mine Safety and Health district offices.
 
 (c) Electric driven mine equipment and accessories bearing the Bureau of Mines approval numbers listed in Appendix A to this subpart are permissible electric face equipment only if they are maintained in a permissible condition.
 

@@ -1,7 +1,5 @@
 ##### § 155.20 Definitions. #####
 
-Link to an amendment published at 89 FR 39436, May 8, 2024.
-
 The following definitions apply to this part:
 
 *Advance payments of the premium tax credit* means payment of the tax credit authorized by 26 U.S.C. 36B and its implementing regulations, which are provided on an advance basis to an eligible individual enrolled in a QHP through an Exchange in accordance with section 1412 of the Affordable Care Act.
@@ -88,7 +86,35 @@ The following definitions apply to this part:
 
 *Large employer* means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 51 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year. In the case of an employer that was not in existence throughout the preceding calendar year, the determination of whether the employer is a large employer is based on the average number of employees that it is reasonably expected the employer will employ on business days in the current calendar year. A State may elect to define large employer by substituting “101 employees” for “51 employees.” The number of employees must be determined using the method set forth in section 4980H(c)(2) of the Code.
 
-*Lawfully present* has the meaning given the term in § 152.2.
+*Lawfully present* means a noncitizen who—
+
+(1) Is a qualified noncitizen as defined at 42 CFR 435.4;
+
+(2) Is in a valid nonimmigrant status, as defined in 8 U.S.C. 1101(a)(15) or otherwise under the immigration laws (as defined in 8 U.S.C. 1101(a)(17));
+
+(3) Is paroled into the United States in accordance with 8 U.S.C. 1182(d)(5) for less than 1 year, except for a noncitizen paroled for prosecution, for deferred inspection or pending removal proceedings;
+
+(4) Is granted temporary resident status in accordance with 8 U.S.C. 1160 or 1255a;
+
+(5) Is granted Temporary Protected Status (TPS) in accordance with 8 U.S.C. 1254a;
+
+(6) Is granted employment authorization under 8 CFR 274a.12(c);
+
+(7) Is a Family Unity beneficiary in accordance with section 301 of Pub. L. 101-649 as amended; or section 1504 of the LIFE Act Amendments of 2000, title XV of H.R. 5666, enacted by reference in Pub. L. 106-554 (see section 1504 of App. D to Pub. L. 106-554);
+
+(8) Is covered by Deferred Enforced Departure (DED) in accordance with a decision made by the President;
+
+(9) Is granted deferred action, including but not limited to individuals granted deferred action under 8 CFR 236.22;
+
+(10) Has a pending application for adjustment of status;
+
+(11)(i) Has a pending application for asylum under 8 U.S.C. 1158, for withholding of removal under 8 U.S.C. 1231(b)(3)(A), or for protection under the regulations implementing the Convention Against Torture; and
+
+(ii) Is under the age of 14;
+
+(12) Has been granted withholding of removal under the regulations implementing the Convention Against Torture; or
+
+(13) Has a pending or approved petition for Special Immigrant Juvenile classification as described in 8 U.S.C. 1101(a)(27)(J).
 
 *Minimum essential coverage* has the meaning given in section 5000A(f) of the Code.
 
@@ -128,4 +154,4 @@ The following definitions apply to this part:
 
 *Web-broker* means an individual agent or broker, group of agents or brokers, or business entity registered with an Exchange under § 155.220(d)(1) that develops and hosts a non-Exchange website that interfaces with an Exchange to assist consumers with direct enrollment in QHPs offered through the Exchange as described in § 155.220(c)(3) or § 155.221. The term also includes an agent or broker direct enrollment technology provider.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15532, Mar. 11, 2013; 78 FR 39523, July 1, 2013; 78 FR 42313, July 15, 2013; 78 FR 54134, Aug. 30, 2013; 80 FR 10864, Feb. 27, 2015; 81 FR 12336, Mar. 8, 2016; 81 FR 94175, Dec. 22, 2016; 84 FR 17562, Apr. 25, 2019; 86 FR 24288, May 5, 2021]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15532, Mar. 11, 2013; 78 FR 39523, July 1, 2013; 78 FR 42313, July 15, 2013; 78 FR 54134, Aug. 30, 2013; 80 FR 10864, Feb. 27, 2015; 81 FR 12336, Mar. 8, 2016; 81 FR 94175, Dec. 22, 2016; 84 FR 17562, Apr. 25, 2019; 86 FR 24288, May 5, 2021; 89 FR 39436, May 8, 2024]

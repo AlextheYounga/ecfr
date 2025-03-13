@@ -4,4 +4,4 @@
 
 (b) When necessary to protect the operator of the equipment, forklift or powered industrial trucks shall be provided with substantial FOPS. Such FOPS shall meet the requirements of the State of California, Division of Industrial Safety, General Safety Orders, Register 72, Number 6, February 8, 1972, Article 25, Section 3655—“Overhead Guards for High-Lift Rider Trucks.”
 
-(Sec. 101(a), Federal Coal Mine Health and Safety Act of 1969, as amended (83 Stat. 745; 30 U.S.C. 811(a))[39 FR 24007, June 28, 1974]
+(Sec. 101(a), Federal Coal Mine Health and Safety Act of 1969, as amended (83 Stat. 745; 30 U.S.C. 811(a)) [39 FR 24007, June 28, 1974]

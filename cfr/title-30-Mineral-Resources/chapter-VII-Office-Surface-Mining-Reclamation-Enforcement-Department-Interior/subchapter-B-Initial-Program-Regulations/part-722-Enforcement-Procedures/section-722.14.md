@@ -12,4 +12,4 @@
 
 (d) The Office shall furnish copies of notices and orders to the State regulatory authority, if any, after their issuance. The Office may furnish copies to any person having an interest in the surface coal mining and reclamation operation or the permit area, such as the owner of the fee, a corporate officer of the permittee, or the bonding company.
 
-(Surface Mining Control and Reclamation Act of 1977, secs. 201, 501, 521(a)(5) (30 U.S.C. 1211, 1251, 1271(a)(5)))[45 FR 2628, Jan. 11, 1980, as amended at 56 FR 28445, June 20, 1991]
+(Surface Mining Control and Reclamation Act of 1977, secs. 201, 501, 521(a)(5) (30 U.S.C. 1211, 1251, 1271(a)(5))) [45 FR 2628, Jan. 11, 1980, as amended at 56 FR 28445, June 20, 1991]

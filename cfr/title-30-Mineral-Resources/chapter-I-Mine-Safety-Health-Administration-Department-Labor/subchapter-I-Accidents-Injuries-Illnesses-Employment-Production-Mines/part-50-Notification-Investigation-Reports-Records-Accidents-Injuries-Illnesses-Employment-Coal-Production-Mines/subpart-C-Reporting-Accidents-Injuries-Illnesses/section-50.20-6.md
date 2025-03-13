@@ -6,7 +6,7 @@
 
 (i) Column (a)—Surface location codes. If the accident injury or illness occurred at the surface of a mine, circle one of the following codes which best describes where the accident injury or illness occurred and ignore columns (b) and (c):
 
-Code 02—Surface shop, yard, etc., at an underground mine;Code 30—Mill operation, preparation plant, or breaker, including associated shops and yards;Code 03—Surface strip or open pit mine, including shop and yard;Code 04—Surface auger coal operation on a coal mine, including shop and yard;Code 05—Surface culm bank or refuse pile at a coal mine, including shop and yard;Code 06—Dredge mining, including shop and yard;Code 12—Other surface mining;Code 17—Independent shops;Code 99—Office facilities.
+Code 02—Surface shop, yard, etc., at an underground mine; Code 30—Mill operation, preparation plant, or breaker, including associated shops and yards; Code 03—Surface strip or open pit mine, including shop and yard;Code 04—Surface auger coal operation on a coal mine, including shop and yard;Code 05—Surface culm bank or refuse pile at a coal mine, including shop and yard; Code 06—Dredge mining, including shop and yard; Code 12—Other surface mining;Code 17—Independent shops;Code 99—Office facilities.
 
 (ii) Column (b)—Underground location codes. If the accident injury or illness occurred underground, circle the one code which best describes where the accident injury or illness occurred:
 
@@ -74,4 +74,4 @@ Code 01—Longwall;Code 02—Shortwall;Code 03—Conventional/stoping;Code 05—
 
 (8) Item 24. Miner's work activity when injury or illness occurred. Describe exactly the activity of the injured miner when the occupational injury or occupational illness occurred. For example: “Setting temporary support prior to drilling holes for roof bolts.”
 
-(Secs. 103 (a) and (h), and 508, Pub. L. 91-173, as amended by Pub. L. 95-164, 91 Stat. 1297, 1299, 83 Stat. 803 (30 U. S. C. 801, 813, 957))[42 FR 65535, Dec. 30, 1977; 43 FR 1617, Jan. 11, 1978, as amended at 44 FR 52828, Sept. 11, 1979; 69 FR 26499, May 13, 2004]
+(Secs. 103 (a) and (h), and 508, Pub. L. 91-173, as amended by Pub. L. 95-164, 91 Stat. 1297, 1299, 83 Stat. 803 (30 U. S. C. 801, 813, 957)) [42 FR 65535, Dec. 30, 1977; 43 FR 1617, Jan. 11, 1978, as amended at 44 FR 52828, Sept. 11, 1979; 69 FR 26499, May 13, 2004]

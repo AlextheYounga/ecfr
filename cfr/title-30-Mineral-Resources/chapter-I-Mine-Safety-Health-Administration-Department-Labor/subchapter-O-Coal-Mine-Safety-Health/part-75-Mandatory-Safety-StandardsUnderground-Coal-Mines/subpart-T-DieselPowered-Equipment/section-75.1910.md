@@ -22,9 +22,9 @@ Electrical circuits and components associated with or connected to electrical sy
 
 (j) The battery must be secured to prevent movement, and must be protected from external damage by position. Batteries that are not protected from external damage by position must be enclosed in a battery box. Flame-resistant insulation treated to resist chemical reaction to electrolyte must be provided on battery connections to prevent battery terminals from contacting conducting surfaces;
 
-(k) A battery box, including the cover, must be constructed of steel with a minimum thickness of1/8 inch, or of a material other than steel that provides equivalent strength;
+(k) A battery box, including the cover, must be constructed of steel with a minimum thickness of 1/8 inch, or of a material other than steel that provides equivalent strength;
 
-(l) Battery-box covers must be lined with a flame-resistant insulating material permanently attached to the underside of the cover, unless equivalent protection is provided. Battery-box covers must be provided with a means for securing them in closed position. At least1/2 inch of air space must be provided between the underside of the cover and the top of the battery, including terminals;
+(l) Battery-box covers must be lined with a flame-resistant insulating material permanently attached to the underside of the cover, unless equivalent protection is provided. Battery-box covers must be provided with a means for securing them in closed position. At least 1/2 inch of air space must be provided between the underside of the cover and the top of the battery, including terminals;
 
 (m) Battery boxes must be provided with ventilation openings to prevent the accumulation of flammable or toxic gases or vapors within the battery box. The size and locations of openings for ventilation must prevent direct access to battery terminals;
 

@@ -22,4 +22,4 @@
 
 (e) Each person who conducts in situ processing activities shall restore the quality of affected ground water in the permit area and adjacent area, including ground water above and below the production zone, to the approximate premining levels or better, to ensure that the potential for use of the ground water is not diminished.
 
-(Pub. L. 95-87, 30 U.S.C. 1201 *et seq.*)[44 FR 15455, Mar. 13, 1979, as amended at 48 FR 14822, Apr. 5, 1983]
+(Pub. L. 95-87, 30 U.S.C. 1201 *et seq.*) [44 FR 15455, Mar. 13, 1979, as amended at 48 FR 14822, Apr. 5, 1983]

@@ -1,7 +1,6 @@
 ##### § 285.112 Definitions. #####
 
-Terms used in this part have the meanings as defined in this section:
-P\>*Affected State* means with respect to any activities proposed, conducted, or approved under this part, any coastal State—
+Terms used in this part have the meanings as defined in this section: P\>*Affected State* means with respect to any activities proposed, conducted, or approved under this part, any coastal State—
 
 (1) That is, or is proposed to be, the site of gathering, transmitting, or distributing energy or is otherwise receiving, processing, refining, or transshipping products, or services derived from activities approved under this part;
 

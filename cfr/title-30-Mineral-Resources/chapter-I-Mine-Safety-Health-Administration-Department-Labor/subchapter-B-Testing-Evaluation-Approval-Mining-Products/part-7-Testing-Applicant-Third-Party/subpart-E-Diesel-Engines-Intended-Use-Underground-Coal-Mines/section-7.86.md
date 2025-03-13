@@ -312,7 +312,7 @@
 
 (ii) Have a minimum diameter of 1.85 inches (47 mm), 1.46 inches (37 mm) stain diameter;
 
-(iii) Have a minimum filter loading ratio of 0.5mg/1075 mm2 stain area for the single filter method.
+(iii) Have a minimum filter loading ratio of 0.5mg/1075 mm 2 stain area for the single filter method.
 
 (iv) Have minimum filter loading such that the sum of all eight (8) multiple filters is equal to the minimum loading value (mg) for a single filter multiplied by the square root of eight (8).
 

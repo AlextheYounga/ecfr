@@ -8,4 +8,4 @@
 
 (d) Vehicles used for transportation when examining the mine shall be approved by MSHA under the applicable requirements of 30 CFR parts 18 through 36.
 
-[52 FR 24941, July 1, 1987, as amended at 53 FR 9615, Mar. 24, 1988]Effective Date Note:At 53 FR 9615, Mar. 24, 1988, § 57.22601 was stayed until further notice.
+[52 FR 24941, July 1, 1987, as amended at 53 FR 9615, Mar. 24, 1988] Effective Date Note:At 53 FR 9615, Mar. 24, 1988, § 57.22601 was stayed until further notice.

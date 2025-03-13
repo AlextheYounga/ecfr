@@ -2,4 +2,4 @@
 
 Where the Coal Mine Health and Safety District Manager has determined that the use of nonpermissible explosives and nonpermissible shot-firing units will not pose a hazard to any person during the development of a slope or shaft, he may, after written application by the operator, approve the use of such explosives and shot-firing units and issue a permit for the use of such explosives and devices setting forth the safeguards to be employed by the operator to protect the health and safety of any person exposed to such blasting.
 
-(Pub. L. No. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*))[36 FR 9364, May 22, 1971, as amended at 60 FR 33723, June 29, 1995]
+(Pub. L. No. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*)) [36 FR 9364, May 22, 1971, as amended at 60 FR 33723, June 29, 1995]

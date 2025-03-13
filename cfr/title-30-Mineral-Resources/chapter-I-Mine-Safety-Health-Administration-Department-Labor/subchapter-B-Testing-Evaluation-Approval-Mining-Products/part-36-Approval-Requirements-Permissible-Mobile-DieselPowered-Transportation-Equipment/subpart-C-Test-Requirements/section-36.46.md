@@ -12,7 +12,7 @@
 
 (2) Ignition of surrounding flammable gas-air mixture.
 
-(3) Development of dangerous afterburning.4
+(3) Development of dangerous afterburning. 4
 
 4 The term “afterburning” as used in this part is applied to combustion of a flammable gas-air mixture drawn into the system under test by the cooling of the products from an explosion in the system.
 

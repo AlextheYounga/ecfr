@@ -49,7 +49,7 @@ The test shall be performed in the order listed in Table E-2. The test for deter
 
 (i) The following abbreviations shall apply to both category A and category B engine calculations as appropriate:
 
-cfm—Cubic feet per min (ft3/min)Exh—ExhaustA—Air (lbs/hr)H—Grains of water per lb. of dry intake airJ—Conversion factorm—Mass flow rate (mass/hr)TI—Intake air temperature (°F)PCAir—Percent AirPCCH4—Percent CH4 (intake air)UCH4—Unburned CH4PCECH4—Percent Exhaust CH4
+cfm—Cubic feet per min (ft3/min) Exh—Exhaust A—Air (lbs/hr) H—Grains of water per lb. of dry intake air J—Conversion factor m—Mass flow rate (mass/hr) TI—Intake air temperature (°F) PCAir—Percent Air PCCH4—Percent CH4 (intake air) UCH4—Unburned CH4PCECH4—Percent Exhaust CH4
 
 (ii) Exhaust gas flow calculation for category B engines shall be (m Exh) = (A) + (m fuel).
 
@@ -57,7 +57,7 @@ cfm—Cubic feet per min (ft3/min)Exh—ExhaustA—Air (lbs/hr)H—Grains of wat
 
 (iv) Methane flow through category A engines shall be determined by the following:
 
-PCAir = 100−PCCH4Y = (PCAir)(0.289) + (PCCH4)(0.16)Z = (0.16)(PCCH4) ÷ YmCH4 = (A)(Z) ÷ (1−Z)
+PCAir = 100−PCCH4Y = (PCAir)(0.289) + (PCCH4)(0.16) Z = (0.16)(PCCH4) ÷ Y mCH4 = (A)(Z) ÷ (1−Z)
 
 (v) Exhaust gas flow calculation for category A engines shall be (m Exh) = (A) + (m fuel) + (m CH4)
 
@@ -67,19 +67,19 @@ PCAir = 100−PCCH4Y = (PCAir)(0.289) + (PCCH4)(0.16)Z = (0.16)(PCCH4) ÷ YmCH4 
 
 (viii) Conversion from dry to wet basis for both category A and category B engines shall be:
 
-(NO wet basis) = (NO dry basis)(J)(NO2 wet basis) = (NO2 dry basis)(J)(CO2 wet basis) = (CO2 dry basis)(J)(CO wet basis) = (CO dry basis)(10−4)(J)Where:J = (f/a)(−1.87) + (1 − (0.00022)(H))
+(NO wet basis) = (NO dry basis)(J) (NO2 wet basis) = (NO2 dry basis)(J) (CO2 wet basis) = (CO2 dry basis)(J) (CO wet basis) = (CO dry basis)(10−4)(J)Where: J = (f/a)(−1.87) + (1 − (0.00022)(H))
 
 (ix) NO and NO2 correction for humidity and temperature for category A and category B engines shall be:
 
-(NO corr) = (NO wet basis) ÷ (E)(NO2 corr) = (NO2 wet basis) ÷ (E)Where:E = 1.0 + (R)(H − 75) + (G)(TI − 77)R = (f/a)(0.044) − (0.0038)G = (f/a)(−0.116) + (0.0053)
+(NO corr) = (NO wet basis) ÷ (E) (NO2 corr) = (NO2 wet basis) ÷ (E) Where: E = 1.0 + (R)(H − 75) + (G)(TI − 77) R = (f/a)(0.044) − (0.0038) G = (f/a)(−0.116) + (0.0053)
 
 (x) The calculations to determine the m of each exhaust gas contaminant in grams per hour at each test point shall be as follows for category A and category B engines:
 
-(m NO) = (NO corr)(0.000470)(m Exh)(m NO2) = (NO2 corr)(0.000720)(m Exh)(m CO2) = (CO2 wet basis)(6.89)(m Exh)(m CO) = (CO wet basis)(4.38)(m Exh)
+(m NO) = (NO corr)(0.000470)(m Exh) (m NO2) = (NO2 corr)(0.000720)(m Exh) (m CO2) = (CO2 wet basis)(6.89)(m Exh) (m CO) = (CO wet basis)(4.38)(m Exh)
 
 (xi) The calculations to determine the ventilation rate for each exhaust gas contaminant at each test point shall be as follows for category A and category B engines:
 
-(cfm NO) = (m NO)(K)(cfm NO2) = (m NO2)(K)(cfm CO2) = (m CO2)(K)(cfm CO) = (m CO)(K)Where:K = 13,913.4/ (pollutant grams/mole) (pollutant dilution value specified in § 7.84(c)).
+(cfm NO) = (m NO)(K) (cfm NO2) = (m NO2)(K) (cfm CO2) = (m CO2)(K) (cfm CO) = (m CO)(K) Where: K = 13,913.4/ (pollutant grams/mole) (pollutant dilution value specified in § 7.84(c)).
 
 (b) The gaseous ventilation rate for each requested rated speed and horsepower shall be the highest ventilation rate calculated in paragraph (a)(9)(xi) of this section.
 

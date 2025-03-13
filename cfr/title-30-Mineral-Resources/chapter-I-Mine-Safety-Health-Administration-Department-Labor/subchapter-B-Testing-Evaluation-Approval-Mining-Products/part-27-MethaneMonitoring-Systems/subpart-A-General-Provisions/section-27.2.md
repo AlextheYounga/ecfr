@@ -24,7 +24,7 @@ As used in this part:
 
 (i) *Component* means a part of a methane-monitoring system that is essential to its operation as a certified methane-monitoring system.
 
-(j) *Explosion-proof* means that a component or group of components (subassembly) is so constructed and protected by an enclosure with or without a flame arrester(s) that, if a flammable mixture of gas is ignited within the enclosure, it will withstand the resultant pressure without damage to the enclosure and/or flame arrester(s). Also the enclosure and/or flame arrester(s) shall prevent the discharge of flame from within either the enclosure or the flame arrester, or the ignition of any flammable mixture that surrounds the enclosure and/or flame arrester.1
+(j) *Explosion-proof* means that a component or group of components (subassembly) is so constructed and protected by an enclosure with or without a flame arrester(s) that, if a flammable mixture of gas is ignited within the enclosure, it will withstand the resultant pressure without damage to the enclosure and/or flame arrester(s). Also the enclosure and/or flame arrester(s) shall prevent the discharge of flame from within either the enclosure or the flame arrester, or the ignition of any flammable mixture that surrounds the enclosure and/or flame arrester. 1
 
 1 Explosion-proof components or subassemblies shall be constructed in accordance with the requirements of Part 18 of this subchapter.
 

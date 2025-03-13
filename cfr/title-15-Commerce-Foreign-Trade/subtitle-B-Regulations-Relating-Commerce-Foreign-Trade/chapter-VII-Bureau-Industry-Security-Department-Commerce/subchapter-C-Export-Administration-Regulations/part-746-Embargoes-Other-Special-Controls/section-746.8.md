@@ -6,7 +6,7 @@
 
 (2) *Russia/Belarus/Temporarily occupied Crimea region of Ukraine foreign “direct product” (FDP) rule.* A license is required to reexport, export from abroad, or transfer (in-country) to any destination any foreign-produced item subject to the EAR under the Russia/Belarus/Temporarily occupied Crimea region of Ukraine under the FDP rule described in § 734.9(f) of the EAR.
 
-(3) *Russia/Belarus-Military End User and Procurement FDP rule.* A license is required to reexport, export from abroad, or transfer (in-country) to or within any destination any foreign-produced item subject to the EAR under § 734.9(g) of the EAR.
+(3) *Russia/Belarus-Military End User and Procurement FDP rule.* A license is required to reexport, export from abroad, or transfer (in-country) to or within any destination or to any end user or party any foreign-produced item subject to the EAR under § 734.9(g) of the EAR.
 
 (4) *Oil and Gas*—(i) *Certain exploration or production of oil or gas.* A license is required to export, reexport, or transfer (in-country) any item subject to the EAR listed in supplement no. 2 to this part and items specified in ECCNs 0A998, 1C992, 3A229, 3A231, 3A232, 6A991, 8A992, and 8D999 when you “know” that the item will be used directly or indirectly in exploration for, or production of, oil or gas in Russian deepwater (greater than 500 feet) or Arctic offshore locations or shale formations in Russia or Belarus, or are unable to determine whether the item will be used in such projects. Such items include, but are not limited to, drilling rigs, parts for horizontal drilling, drilling and completion equipment, subsea processing equipment, Arctic-capable marine equipment, wireline and down hole motors and equipment, drill pipe and casing, software for hydraulic fracturing, high pressure pumps, seismic acquisition equipment, remotely operated vehicles, compressors, expanders, valves, and risers.
 
@@ -40,9 +40,11 @@ For purposes of paragraph (a)(7) of this section, a 'luxury good' means any item
 
 (C) Joint ventures between U.S. companies and companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740 of the EAR, including the wholly owned subsidiaries, branches, or sales offices of such joint ventures;
 
-(D) Wholly owned subsidiaries, branches, or sales offices of companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740; or
+(D) Wholly owned subsidiaries, branches, or sales offices of companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740;
 
-(E) Joint ventures between two or more companies headquartered in Country Group A:5 and A:6 in supplement no. 1 to part 740, including the wholly owned subsidiaries, branches, or sales offices of such joint ventures.
+(E) Joint ventures between two or more companies headquartered in Country Group A:5 and A:6 in supplement no. 1 to part 740, including the wholly owned subsidiaries, branches, or sales offices of such joint ventures; *or*
+
+(F) For official business of diplomatic or consular missions of the governments of Country Group A:5 and A:6 destinations.
 
 (iii) *Global Export Control Coalition (GECC).* The countries listed in supplement no. 3 to this part have committed to implementing substantially similar export controls on Russia, Belarus, and the temporarily occupied Crimea region of Ukraine under their domestic laws. Therefore, exports or reexports from the countries listed in supplement no. 3 to this part or transfers (in-country) within the countries listed in this supplement are not subject to the following license requirements in paragraph (a) of this section unless a limit to the exclusion is described in the Scope column in supplement no. 3 to this part:
 
@@ -80,9 +82,11 @@ For purposes of paragraph (a)(7) of this section, a 'luxury good' means any item
 
 (C) Joint ventures of U.S. companies with companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740 of the EAR;
 
-(D) The wholly owned subsidiaries, branches, or sales offices of companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740; *or*
+(D) The wholly owned subsidiaries, branches, or sales offices of companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740;
 
-(E) Joint ventures of companies headquartered in Country Groups A:5 and A:6 with other companies headquartered in Country Groups A:5 and A:6; *and*
+(E) Joint ventures of companies headquartered in Country Groups A:5 and A:6 with other companies headquartered in Country Groups A:5 and A:6; *or*
+
+(F) For official business of governments of Country Group A:5 and A:6 destinations.
 
 (vii) Applications for companies headquartered in Country Groups A:5 and A:6 to support civil telecommunications infrastructure.
 
@@ -106,7 +110,7 @@ See also § 750.7(c)(1)(xi) of the EAR for the divesture of items within Russia 
 
 (v) License Exception AVS, excluding any aircraft registered in, owned or controlled by, or under charter or lease by Russia or Belarus or a national of Russia or Belarus (§ 740.15(a) and (b) of the EAR).
 
-(vi) License Exception encryption commodities, software, and technology (ENC) for civil end-users that are wholly-owned U.S. subsidiaries, branches, or sales offices; foreign subsidiaries, branches, or sales offices of U.S. companies that are joint ventures with other U.S. companies; joint ventures of U.S. companies with companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740 of the EAR countries; the wholly-owned subsidiaries, branches, or sales offices of companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740; or joint ventures of companies headquartered in Country Group A:5 and A:6 with other companies headquartered in Country Groups A:5 and A:6 (§§ 740.13(c) and 740.17 of the EAR).
+(vi) License Exception Encryption commodities, software, and technology (ENC) for civil end-users that are wholly-owned U.S. subsidiaries, branches, or sales offices; foreign subsidiaries, branches, or sales offices of U.S. companies that are joint ventures with other U.S. companies; joint ventures of U.S. companies with companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740 of the EAR countries; the wholly-owned subsidiaries, branches, or sales offices of companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740; joint ventures of companies headquartered in Country Group A:5 and A:6 with other companies headquartered in Country Groups A:5 and A:6; or for official business of diplomatic or consular missions of the governments of Country Group A:5 and A:6 destinations (§§ 740.13(c) and 740.17 of the EAR).
 
 (vii) License Exception CCD (§ 740.19 of the EAR).
 
@@ -114,4 +118,4 @@ See also § 750.7(c)(1)(xi) of the EAR for the divesture of items within Russia 
 
 (d) *License Applications.* License applications submitted to BIS under this section may include the phrase “§ 746.8” and identify the paragraph (a) license requirement(s) from this section that are applicable. You should include a description such as “paragraph (a)(1) or any of the other paragraph (a) paragraphs that may be applicable to a license application” in Block 9 (Special Purpose) of your license application as described in supplement no. 1 to part 748 of the EAR.
 
-[89 FR 51662, June 18, 2024, as amended at 89 FR 68543, Aug. 27, 2024; 89 FR 51664, June 18, 2024; 89 FR 68543, Aug. 27, 2024; 89 FR 84777, Oct. 23, 2024]
+[89 FR 51662, June 18, 2024, as amended at 89 FR 68543, Aug. 27, 2024; 89 FR 51664, June 18, 2024; 89 FR 68543, Aug. 27, 2024; 89 FR 84777, Oct. 23, 2024; 89 FR 87282, Nov. 1, 2024]

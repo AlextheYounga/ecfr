@@ -48,11 +48,11 @@
 
 (iii) *Cassette.* The cassette shall enclose the capsule so as to prevent contamination and intentional or inadvertent alteration of dust deposited on the filter. The cassette must be easily removable without causing a loss or gain of capsule weight. The cassette shall be designed to prevent contaminants from entering or dust from leaving the capsule when it is not in use, and to prevent the reversal of airflow through the capsule or other means of removing dust collected on the filter.
 
-(3) *Arrangement of components.* The connections between the cyclone vortex finder and the capsule and between the capsule and the1/4-inch (0.64 centimeters) (inside diameter) hose mentioned in paragraph (b)(5) of this section shall be mechanically firm and shall not leak at a rate of more than 0.1 liters per hour under a vacuum of 4 inches (10 centimeters) of water.
+(3) *Arrangement of components.* The connections between the cyclone vortex finder and the capsule and between the capsule and the 1/4-inch (0.64 centimeters) (inside diameter) hose mentioned in paragraph (b)(5) of this section shall be mechanically firm and shall not leak at a rate of more than 0.1 liters per hour under a vacuum of 4 inches (10 centimeters) of water.
 
 (4) *Clamping of components.* The clamping and positioning of the cyclone body, vortex finder, and cassette shall be rigid, remain in alignment, be firmly in contact and airtight. The cyclone-cassette assembly shall be attached firmly to a backing plate or other means of holding the sampling head in position. The cyclone shall be held in position so that the inlet opening of the cyclone is pointing perpendicular to, and away from, the backing plate.
 
-(5) *Hose.* A 3-foot (91 centimeter) long,1/4-inch (0.64 centimeters) (inside diameter) clear plastic hose shall be provided to form an airtight connection between the inlet of the sampler pump and the outlet of the filter assembly. A device, capable of sliding along the hose and attaching to the miner's outer garment, shall be provided.
+(5) *Hose.* A 3-foot (91 centimeter) long, 1/4-inch (0.64 centimeters) (inside diameter) clear plastic hose shall be provided to form an airtight connection between the inlet of the sampler pump and the outlet of the filter assembly. A device, capable of sliding along the hose and attaching to the miner's outer garment, shall be provided.
 
 (c) *Battery charger.* (1) *Power supply.* The battery charger shall be operated from a 110 (VAC) (nominal), 60 Hz power line.
 

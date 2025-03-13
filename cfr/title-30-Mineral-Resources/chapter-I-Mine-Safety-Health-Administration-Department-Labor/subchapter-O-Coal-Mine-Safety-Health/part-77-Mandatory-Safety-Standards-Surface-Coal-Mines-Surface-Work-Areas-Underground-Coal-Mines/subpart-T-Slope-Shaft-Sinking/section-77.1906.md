@@ -6,4 +6,4 @@
 
 (c) At the completion of each daily examination required by paragraph (a) of this section, the person making the examination shall certify, by signature and date, that the examination has been made. If any unsafe condition in the hoisting equipment is present, the person conducting the examination shall make a record of the condition and the date. Certifications and records shall be retained for one year.
 
-(Sec. 101, Federal Mine Safety and Health Act of 1977, Pub. L. 91-173 as amended by Pub. L. 95-164, 91 Stat. 1291 (30 U.S.C. 811))[48 FR 53242, Nov. 25, 1983, as amended at 60 FR 33723, June 29, 1995]
+(Sec. 101, Federal Mine Safety and Health Act of 1977, Pub. L. 91-173 as amended by Pub. L. 95-164, 91 Stat. 1291 (30 U.S.C. 811)) [48 FR 53242, Nov. 25, 1983, as amended at 60 FR 33723, June 29, 1995]

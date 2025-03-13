@@ -376,4 +376,4 @@ A. Every effort will be made to resolve errors, omissions and conflicts on data 
 
 B. Areas of disagreement between the State and the Department shall be referred to the Governor and the Secretary for resolution.
 
-(Sec. 523(c) of the Surface Mining Control and Reclamation Act of 1977; Pub. L. 95-87; (30 U.S.C. 1273(c)))[47 FR 56806, Dec. 20, 1982, as amended at 54 FR 20568, May 12, 1989]
+(Sec. 523(c) of the Surface Mining Control and Reclamation Act of 1977; Pub. L. 95-87; (30 U.S.C. 1273(c))) [47 FR 56806, Dec. 20, 1982, as amended at 54 FR 20568, May 12, 1989]

@@ -32,7 +32,7 @@
 
 (5) Tests on batteries shall include series and/or parallel combinations of twice the normal battery complement, and the effect of capacitance and inductance, added to that normally present in the circuit.
 
-(6) No ignition shall occur when approximately1/2-inch of a single wire strand representative of the wire used in the equipment or device is shorted across the intrinsically safe circuit.
+(6) No ignition shall occur when approximately 1/2-inch of a single wire strand representative of the wire used in the equipment or device is shorted across the intrinsically safe circuit.
 
 (7) Consideration shall be given to insure against accidental reversal of polarity.
 

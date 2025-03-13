@@ -20,4 +20,4 @@ Each employee working in a surface coal mine or in the surface work areas of an 
 
 (i) Seatbelts in a vehicle where there is a danger of overturning and where roll protection is provided.
 
-(Sec. 101(a), Federal Coal Mine Health and Safety Act of 1969, as amended (83 Stat. 745; 30 U.S.C. 811(a))[36 FR 9382, May 22, 1971, as amended at 36 FR 13143, July 15, 1971; 39 FR 7176, Feb. 25, 1974]
+(Sec. 101(a), Federal Coal Mine Health and Safety Act of 1969, as amended (83 Stat. 745; 30 U.S.C. 811(a)) [36 FR 9382, May 22, 1971, as amended at 36 FR 13143, July 15, 1971; 39 FR 7176, Feb. 25, 1974]

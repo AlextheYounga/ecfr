@@ -8,7 +8,7 @@
 
 (d) Holes for fastenings shall not penetrate to the interior of an explosion-proof enclosure, except as provided in paragraph (a)(9) of § 18.34, and shall be threaded to insure that a specified bolt or screw will not bottom even if its lockwasher is omitted.
 
-(e) A minimum of1/8-inch of stock shall be left at the center of the bottom of each hole drilled for fastenings.
+(e) A minimum of 1/8-inch of stock shall be left at the center of the bottom of each hole drilled for fastenings.
 
 (f) Fastenings used for joints on explosion-proof enclosures shall not be used for attaching nonessential parts or for making electrical connections.
 

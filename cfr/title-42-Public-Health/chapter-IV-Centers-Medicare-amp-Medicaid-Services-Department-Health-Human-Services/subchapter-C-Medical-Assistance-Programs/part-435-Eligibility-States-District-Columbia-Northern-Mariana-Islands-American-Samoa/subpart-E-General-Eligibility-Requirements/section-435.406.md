@@ -1,6 +1,4 @@
-##### § 435.406 Citizenship and non-citizen eligibility. #####
-
-Link to an amendment published at 89 FR 39436, May 8, 2024.
+##### § 435.406 Citizenship and noncitizen eligibility. #####
 
 (a) The agency must provide Medicaid to otherwise eligible individuals who are—
 
@@ -24,14 +22,14 @@ Link to an amendment published at 89 FR 39436, May 8, 2024.
 
 (*2*) At State option, individuals who were deemed eligible for coverage under § 435.117 or § 457.360 of this chapter in another State on or after July 1, 2006, provided that the agency verifies such deemed eligibility.
 
-(2)(i) Except as specified in 8 U.S.C. 1612(b)(1) (permitting States an option with respect to coverage of certain qualified non-citizens), qualified non-citizens as described in section 431 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1641) (including qualified non-citizens subject to the 5-year bar) who have provided satisfactory documentary evidence of Qualified Non-Citizen status, which status has been verified with the Department of Homeland Security (DHS) under a declaration required by section 1137(d) of the Act that the applicant or beneficiary is an non-citizen in a satisfactory immigration status.
+(2)(i) Except as specified in 8 U.S.C. 1612(b)(1) (permitting States an option with respect to coverage of certain qualified noncitizens), qualified noncitizens as described in 42 CFR 435.4 (including qualified noncitizens subject to the 5-year bar) who have provided satisfactory documentary evidence of qualified noncitizen status, which status has been verified with the Department of Homeland Security (DHS) under a declaration required by section 1137(d) of the Act that the applicant or beneficiary is a noncitizen in a satisfactory immigration status.
 
-(ii) The eligibility of qualified non-citizens who are subject to the 5-year bar in 8 U.S.C. 1613 is limited to the benefits described in paragraph (b) of this section.
+(ii) The eligibility of qualified noncitizens who are subject to the 5-year bar in 8 U.S.C. 1613 is limited to the benefits described in paragraph (b) of this section.
 
 (3) For purposes of paragraphs (a)(1) and (2), of this section, a declaration of citizenship or satisfactory immigration status may be provided, in writing and under penalty of perjury, by an adult member of the individual's household, an authorized representative, as defined in § 435.923, or if the applicant is a minor or incapacitated, someone acting responsibly for the applicant provided that such individual attests to having knowledge of the individual's status.
 
-(b) The agency must provide payment for the services described in § 440.255(c) of this chapter to residents of the State who otherwise meet the eligibility requirements of the State plan (except for receipt of AFDC, SSI, or State Supplementary payments) who are qualified non-citizens subject to the 5-year bar or who are non-qualified non-citizens who meet all Medicaid eligibility criteria, except non-qualified non-citizens need not present a social security number or document immigration status.
+(b) The agency must provide payment for the services described in § 440.255(c) of this chapter to residents of the State who otherwise meet the eligibility requirements of the State plan (except for receipt of AFDC, SSI, or State Supplementary payments) who are qualified noncitizens subject to the 5-year bar or who are non-qualified noncitizens who meet all Medicaid eligibility criteria, except non-qualified noncitizens need not present a social security number or document immigration status.
 
 (c) The agency must verify the declaration of citizenship or satisfactory immigration status under paragraph (a)(1) or (2) of this section in accordance with § 435.956.
 
-[55 FR 36819, Sept. 7, 1990, as amended at 56 FR 10807, Mar. 14, 1991; 71 FR 39222, July 12, 2006; 72 FR 38691, July 13, 2007; 81 FR 86454, Nov. 30, 2016]
+[55 FR 36819, Sept. 7, 1990, as amended at 56 FR 10807, Mar. 14, 1991; 71 FR 39222, July 12, 2006; 72 FR 38691, July 13, 2007; 81 FR 86454, Nov. 30, 2016; 89 FR 39436, May 8, 2024]

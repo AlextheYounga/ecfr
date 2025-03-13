@@ -20,5 +20,4 @@ As a lessee, applicant, operator, or holder of a ROW grant, RUE grant, or Altern
 
 (i) Compile, retain, and make available to BSEE representatives, within the time specified by BSEE, any data and information related to the site assessment, design, and operations of your project; and
 
-(j) Respond to requests from the Director in a timely manner.
-[88 FR 6413, Jan. 31, 2023, as amended at 89 FR 42713, May 15, 2024]
+(j) Respond to requests from the Director in a timely manner. [88 FR 6413, Jan. 31, 2023, as amended at 89 FR 42713, May 15, 2024]

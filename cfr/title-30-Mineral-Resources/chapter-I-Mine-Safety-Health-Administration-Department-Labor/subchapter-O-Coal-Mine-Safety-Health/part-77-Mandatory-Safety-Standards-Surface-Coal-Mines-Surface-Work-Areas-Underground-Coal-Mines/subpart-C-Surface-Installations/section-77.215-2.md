@@ -22,4 +22,4 @@
 
 (c) The information required by paragraphs (b)(4) through (b)(8) of this section shall be reported every twelfth month from the date of original submission for those refuse piles which the District Manager has determined can present a hazard until the District Manager notifies the operator that the hazard has been eliminated.
 
-(Secs. 101, 508, Pub. L. 91-173, 83 Stat. 745, 803 (30 U.S.C. 811, 957), Pub. L. No. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*))[40 FR 41776, Sept. 9, 1975, as amended at 57 FR 7471, Mar. 2, 1992; 60 FR 33723, June 29, 1995]
+(Secs. 101, 508, Pub. L. 91-173, 83 Stat. 745, 803 (30 U.S.C. 811, 957), Pub. L. No. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*)) [40 FR 41776, Sept. 9, 1975, as amended at 57 FR 7471, Mar. 2, 1992; 60 FR 33723, June 29, 1995]

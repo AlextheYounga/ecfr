@@ -14,4 +14,4 @@
 
 (c) Copies of documents and information required to be made available under paragraph (a) of this section shall be provided to the State regulatory authority, if any.
 
-(Pub. L. 95-87, 30 U.S.C. 1201 *et seq.*)[47 FR 35635, Aug. 16, 1982, as amended at 48 FR 44781, Sept. 30, 1983; 65 FR 79670, Dec. 19, 2000]
+(Pub. L. 95-87, 30 U.S.C. 1201 *et seq.*) [47 FR 35635, Aug. 16, 1982, as amended at 48 FR 44781, Sept. 30, 1983; 65 FR 79670, Dec. 19, 2000]

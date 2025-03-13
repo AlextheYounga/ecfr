@@ -10,4 +10,4 @@ Note:
 
 Paragraph (b) of this section is issued under the authority of Sec. 101 of the Federal Mine Safety and Health Act of 1977, Pub. L. 91-173 as amended by Pub. L. 95-164, 91 Stat. 1291 (30 U.S.C. 811). All other paragraphs in this section continue under the original authority.
 
-(Sec. 101, Federal Mine Safety and Health Act of 1977, 91 Stat. 1291 (30 U.S.C. 811))[Sched. 6D, 4 FR 4003, Sept. 21, 1939, as amended by Supp. 1, 20 FR 2718, Apr. 23, 1955; 47 FR 11369, Mar. 16, 1982]
+(Sec. 101, Federal Mine Safety and Health Act of 1977, 91 Stat. 1291 (30 U.S.C. 811)) [Sched. 6D, 4 FR 4003, Sept. 21, 1939, as amended by Supp. 1, 20 FR 2718, Apr. 23, 1955; 47 FR 11369, Mar. 16, 1982]

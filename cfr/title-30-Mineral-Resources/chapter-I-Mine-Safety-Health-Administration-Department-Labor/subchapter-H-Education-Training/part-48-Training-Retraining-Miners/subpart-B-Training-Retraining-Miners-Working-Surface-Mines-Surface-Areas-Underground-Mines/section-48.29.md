@@ -6,4 +6,4 @@
 
 (c) Copies of training certificates for currently employed miners shall be kept at the mine site for 2 years, or for 60 days after termination of employment.
 
-(Pub. L. No. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*))[43 FR 47459, Oct. 13, 1978, as amended at 47 FR 14706, Apr. 6, 1982; 60 FR 33723, June 29, 1995]
+(Pub. L. No. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*)) [43 FR 47459, Oct. 13, 1978, as amended at 47 FR 14706, Apr. 6, 1982; 60 FR 33723, June 29, 1995]

@@ -12,6 +12,6 @@
 
 (f) When blasting off the solid in bituminous and lignite mines, only pliable clay dummies shall be used for stemming.
 
-(g) The diameter of a water stemming bag shall be within1/4 of an inch of the diameter of the drill bit used to drill the borehole.
+(g) The diameter of a water stemming bag shall be within 1/4 of an inch of the diameter of the drill bit used to drill the borehole.
 
 (h) Water stemming bags shall be constructed of tear-resistant and flame-resistant material and be capable of withstanding a 3-foot drop when filled without rupturing or developing leaks.

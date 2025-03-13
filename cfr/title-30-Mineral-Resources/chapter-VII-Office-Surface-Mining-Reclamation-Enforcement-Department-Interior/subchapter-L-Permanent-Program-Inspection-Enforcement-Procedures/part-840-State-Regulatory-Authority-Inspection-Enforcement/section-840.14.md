@@ -16,4 +16,4 @@
 
 (d) In order to protect preparation for hearings and enforcement proceedings, the Director and the State regulatory authority may enter into agreements regarding procedures for the special handling of investigative and enforcement reports and other such materials.
 
-(Pub. L. 95-87, 30 U.S.C. 1201 *et seq.*)[47 FR 35633, Aug. 16, 1982, as amended at 48 FR 44781, Sept. 30, 1983; 65 FR 79670, Dec. 19, 2000]
+(Pub. L. 95-87, 30 U.S.C. 1201 *et seq.*) [47 FR 35633, Aug. 16, 1982, as amended at 48 FR 44781, Sept. 30, 1983; 65 FR 79670, Dec. 19, 2000]

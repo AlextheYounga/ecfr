@@ -14,4 +14,4 @@
 
 (3) The Director shall not approve grants for costs incurred prior to August 3, 1977.
 
-(Secs. 201, 501, 503, 705, Pub. L. 95-87, 91 Stat. 450, 467, 470, 520, (30 U.S.C. 1211, 1251, 1253, 1295))[42 FR 62706, Dec. 13, 1977; 43 FR 2722, Jan. 19, 1977. Redesignated at 44 FR 15312, Mar. 13, 1979, and amended at 45 FR 2804, Jan. 14, 1980]
+(Secs. 201, 501, 503, 705, Pub. L. 95-87, 91 Stat. 450, 467, 470, 520, (30 U.S.C. 1211, 1251, 1253, 1295)) [42 FR 62706, Dec. 13, 1977; 43 FR 2722, Jan. 19, 1977. Redesignated at 44 FR 15312, Mar. 13, 1979, and amended at 45 FR 2804, Jan. 14, 1980]

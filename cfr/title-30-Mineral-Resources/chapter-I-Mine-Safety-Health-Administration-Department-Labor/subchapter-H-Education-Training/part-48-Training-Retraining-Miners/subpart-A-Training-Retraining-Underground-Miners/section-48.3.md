@@ -84,4 +84,4 @@
 
 (p) Each underground coal operator, who is required to submit a revised program of instruction for 30 CFR 75.1502, shall also submit a revised training plan under this part 48.
 
-(Pub. L. No. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*))[43 FR 47459, Oct. 13, 1978; 44 FR 1980, Jan. 9, 1979, as amended at 47 FR 14696, Apr. 6, 1982; 47 FR 23640, May 28, 1982; 47 FR 28095, June 29, 1982; 60 FR 33722, June 29, 1995; 63 FR 53759, Oct. 6, 1998; 67 FR 38384, June 4, 2002; 70 FR 77727, Dec. 30, 2005; 71 FR 12268, Mar. 9, 2006; 71 FR 71451, Dec. 8, 2006; 80 FR 52986, Sept. 2, 2015]
+(Pub. L. No. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*)) [43 FR 47459, Oct. 13, 1978; 44 FR 1980, Jan. 9, 1979, as amended at 47 FR 14696, Apr. 6, 1982; 47 FR 23640, May 28, 1982; 47 FR 28095, June 29, 1982; 60 FR 33722, June 29, 1995; 63 FR 53759, Oct. 6, 1998; 67 FR 38384, June 4, 2002; 70 FR 77727, Dec. 30, 2005; 71 FR 12268, Mar. 9, 2006; 71 FR 71451, Dec. 8, 2006; 80 FR 52986, Sept. 2, 2015]

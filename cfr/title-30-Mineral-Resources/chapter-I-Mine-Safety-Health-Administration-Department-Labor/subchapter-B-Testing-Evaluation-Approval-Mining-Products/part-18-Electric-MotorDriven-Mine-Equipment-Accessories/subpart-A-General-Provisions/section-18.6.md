@@ -24,7 +24,7 @@
 
 (D) Flamepath clearances, including clearances between fasteners and the holes through which they pass, shall not exceed those specified in existing requirements. No intentional gaps in flamepaths are permitted.
 
-(E) The minimum lengths of the flame arresting paths, based on enclosure volume, shall conform to those specified in existing requirements to the nearest metric equivalent value (*e.g.*, 12.5 mm, 19 mm, and 25 mm are considered equivalent to1/2 inch,3/4 inch and 1 inch respectively for plane and cylindrical joints). The widths of any grooves for o-rings shall be deducted in measuring the widths of flame-arresting paths.
+(E) The minimum lengths of the flame arresting paths, based on enclosure volume, shall conform to those specified in existing requirements to the nearest metric equivalent value (*e.g.*, 12.5 mm, 19 mm, and 25 mm are considered equivalent to 1/2 inch, 3/4 inch and 1 inch respectively for plane and cylindrical joints). The widths of any grooves for o-rings shall be deducted in measuring the widths of flame-arresting paths.
 
 (F) Gaskets shall not be used to form any part of a flame-arresting path. If o-rings are installed within a flamepath, the location of the o-rings shall meet existing requirements.
 

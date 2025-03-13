@@ -36,7 +36,7 @@
 
 (i) Show satisfactory performance by actual test of a prototype involving a roll of 720° or more; or
 
-(ii) Support not less than the weight of the vehicle applied as a uniformly distributed horizontal load at the top of the structure and perpendicular to a vertical plane through the longitudinal axis of the prime mover, and support two times the weight of the vehicle applied as a uniformly distributed vertical load to the top of the structure;1 or
+(ii) Support not less than the weight of the vehicle applied as a uniformly distributed horizontal load at the top of the structure and perpendicular to a vertical plane through the longitudinal axis of the prime mover, and support two times the weight of the vehicle applied as a uniformly distributed vertical load to the top of the structure; 1 or
 
 1 1Paragraph (d) of § 77.403-1 is based on the ROPS criteria of the U.S. Army Corps of Engineers, Safety—General Safety Requirements EM 385-1-1, Change 1, No. 21, Para. 18.A.20 (March 27, 1972), except that subparagraph (2)(ii) of this paragraph (d) is substituted for Para. 18.A.20e(2) of the Corps requirements.
 
@@ -60,4 +60,4 @@
 
 (g) Seat belts required by § 77.1710(i) shall be worn by the operator of mobile equipment required to be equipped with ROPS by § 77.403-1.
 
-(Sec. 101(a), Federal Coal Mine Health and Safety Act of 1969, as amended (83 Stat. 745; 30 U.S.C. 811(a))[39 FR 24007, June 28, 1974. Redesignated and amended at 71 FR 16669, Apr. 3, 2006]
+(Sec. 101(a), Federal Coal Mine Health and Safety Act of 1969, as amended (83 Stat. 745; 30 U.S.C. 811(a)) [39 FR 24007, June 28, 1974. Redesignated and amended at 71 FR 16669, Apr. 3, 2006]

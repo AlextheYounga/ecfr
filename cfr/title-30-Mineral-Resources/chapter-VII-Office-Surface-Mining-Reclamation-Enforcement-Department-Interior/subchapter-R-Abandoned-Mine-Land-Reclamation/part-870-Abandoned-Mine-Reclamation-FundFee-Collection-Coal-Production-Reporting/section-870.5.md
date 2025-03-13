@@ -18,7 +18,7 @@ As used in this Part—
 
 *Lignite coal* means consolidated lignite coal having less than 8,300 British thermal units per pound, moist and mineral-matter-free. Moist, mineral-matter free British thermal units per pound are determined by Parr's formula, equation 3, on page 222 of “Standard Specification for Classification of Coals by Rank,” in American Society for Testing and Materials ASTM D 388-77 (Philadelphia, 1977). Parr's formula follows:
 
-Moist, Mn-Free Btu=(Bu−50S)/[100−(1.08A + 0.55S)] × 100where:Mn = Mineral matterBtu = British thermal units per pound (calorific value)A = percentage of ash, andS = percentage of sulfur“Moist” refers to coal containing its natural inherent or bed moisture, but not including water adhering to the surface of the coal.
+Moist, Mn-Free Btu=(Bu−50S)/[100−(1.08A + 0.55S)] × 100 where:Mn = Mineral matterBtu = British thermal units per pound (calorific value) A = percentage of ash, andS = percentage of sulfur“Moist” refers to coal containing its natural inherent or bed moisture, but not including water adhering to the surface of the coal.
 
 *Mineral owner* means any person or entity owning 10 percent or more of the mineral estate for a permit. If no single mineral owner meets the 10 percent rule, then the largest single mineral owner shall be considered to be the mineral owner. If there are several persons who have successively transferred the mineral rights, information shall be provided on the last owner(s) in the chain prior to the permittee, i.e. the person or persons who have granted the permittee the right to extract the coal.
 

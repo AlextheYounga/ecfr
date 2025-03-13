@@ -30,4 +30,4 @@
 
 (g) An individual qualified in accordance with this section shall, in order to retain qualification, certify annually to the District Manager, that he has satisfactorily completed a coal mine electrical retraining program approved by the Secretary.
 
-01(a), Federal Coal Mine Health and Safety Act of 1969; 30 U.S.C. 811(a); 83 Stat. 745)[37 FR 22377, Oct. 19, 1972; 37 FR 28163, Dec. 21, 1972, as amended at 44 FR 9380, Feb. 13, 1979; 47 FR 23641, May 28, 1982]
+01(a), Federal Coal Mine Health and Safety Act of 1969; 30 U.S.C. 811(a); 83 Stat. 745) [37 FR 22377, Oct. 19, 1972; 37 FR 28163, Dec. 21, 1972, as amended at 44 FR 9380, Feb. 13, 1979; 47 FR 23641, May 28, 1982]

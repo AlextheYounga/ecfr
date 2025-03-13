@@ -6,4 +6,4 @@ A permanent identification marker, at least six feet high and showing the refuse
 
 (b) For new or proposed refuse piles, markers shall be placed within 30 days from acknowledgment of the proposed location of a new refuse pile.
 
-(Secs. 101, 508, Pub. L. 91-173, 83 Stat. 745, 803 (30 U.S.C. 811, 957))[40 FR 41776, Sept. 9, 1975]
+(Secs. 101, 508, Pub. L. 91-173, 83 Stat. 745, 803 (30 U.S.C. 811, 957)) [40 FR 41776, Sept. 9, 1975]

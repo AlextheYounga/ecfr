@@ -50,7 +50,7 @@ E. *Equipment and Laboratories:* Subject to adequate appropriations and grant aw
 
 F. *Permit Application Fees and Civil Penalties:* The amount of the fee accompanying an application for a permit for surface coal mining and reclamation operations on Federal lands in Illinois will be determined in accordance with section 2.05 of the Illinois State Act, 62 Ill. Adm. Code 1771.25, and the applicable provisions of the Program and Federal law. All permit fees, civil penalties and fines collected from operations on Federal lands will be retained by the State and will be deposited with the State Treasurer. Permit fees will be considered program income. Civil penalties and fines will not be considered program income. The financial status report submitted pursuant to 30 CFR 735.26 will include a report of the amount of fees, penalties, and fines collected during the State's prior fiscal year.
 
-Article VI: Review of Permit Application PackageA. Submission of Permit Application Package
+Article VI: Review of Permit Application Package A. Submission of Permit Application Package
 
 1. LRD and the Secretary require an applicant proposing to conduct surface coal mining and reclamation operations on Federal lands covered by this Agreement to submit a permit application package (PAP) in an appropriate number of copies to LRD. LRD will furnish OSMRE and other Federal agencies with an appropriate number of copies of the PAP. The PAP will be in the form required by LRD and will include any supplemental information required by OSMRE, the Federal land management agency, and other agencies with jurisdiction or responsibility over Federal lands affected by the operations proposed in the PAP.
 

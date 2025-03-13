@@ -50,4 +50,4 @@
 
 (g) The qualified person or persons referred to in paragraphs (a), (b)(4), (c), (e)(1), and (e)(2) of this section shall be trained to recognize specific signs of structural instability and other hazardous conditions by visual observation and, if applicable, to monitor instrumentation.
 
-(Secs. 101, 508, Pub. L. 91-173, 83 Stat. 745, 803 (30 U.S.C. 811, 957))[40 FR 41777, Sept. 9, 1975, as amended at 57 FR 7471, Mar. 2, 1992]
+(Secs. 101, 508, Pub. L. 91-173, 83 Stat. 745, 803 (30 U.S.C. 811, 957)) [40 FR 41777, Sept. 9, 1975, as amended at 57 FR 7471, Mar. 2, 1992]

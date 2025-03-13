@@ -122,7 +122,7 @@ Dated: January 29, 1987.
 
 Signed:
 
-Donald Paul Hodel,*Secretary of the Interior.*(Reporting and recordkeeping requirements approved by the Office of Management and Budget under control numbers 1029-0013, 1029-0026, and 1029-0051)Appendix A
+Donald Paul Hodel,*Secretary of the Interior.*(Reporting and recordkeeping requirements approved by the Office of Management and Budget under control numbers 1029-0013, 1029-0026, and 1029-0051) Appendix A
 
 1. The Federal Land Policy and Management Act, 43 U.S.C. 1701 *et seq.,* and implementing regulations.
 

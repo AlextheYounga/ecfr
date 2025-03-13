@@ -12,4 +12,4 @@
 
 (d) An extension of the waiver at the end of 1 year may be sought by the operator by filing an application pursuant to § 71.404 no later than 30 days nor more than 60 days prior to the expiration date of the waiver.
 
-(Pub. L. No. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*))[37 FR 6368, Mar. 28, 1972, as amended at 47 FR 14696, Apr. 6, 1982; 60 FR 33723, June 29, 1995]
+(Pub. L. No. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*)) [37 FR 6368, Mar. 28, 1972, as amended at 47 FR 14696, Apr. 6, 1982; 60 FR 33723, June 29, 1995]

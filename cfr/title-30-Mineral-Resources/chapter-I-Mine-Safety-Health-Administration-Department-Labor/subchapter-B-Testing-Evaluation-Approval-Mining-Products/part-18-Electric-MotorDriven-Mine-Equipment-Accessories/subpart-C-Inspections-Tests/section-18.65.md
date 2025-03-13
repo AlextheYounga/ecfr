@@ -2,7 +2,7 @@
 
 (a) *Size of test specimen.* (1) [Reserved]
 
-(2) Hose—four specimens each 6 inches long by1/2-inch wide by thickness of the hose.
+(2) Hose—four specimens each 6 inches long by 1/2-inch wide by thickness of the hose.
 
 (b) *Flame-test apparatus.* The principal parts of the apparatus within and/or appended to a 21-inch cubical test gallery are:
 
@@ -16,7 +16,7 @@
 
 (5) A mirror mounted inside the test gallery to permit a rear view of the test specimen through the viewing door.
 
-(c) *Mounting of test specimen.* The specimen shall be clamped in a support with its free end centered 1 inch above the burner top. The longitudinal axis shall be horizontal and the transverse axis inclined at 45° to the horizontal. Under the test specimen shall be clamped a piece of 20-mesh iron-wire gauze, 5 inches square, in a horizontal position1/4-inch below the pulley cover edge of the specimen and with about1/2-inch of the specimen extending beyond the edge of the gauze.
+(c) *Mounting of test specimen.* The specimen shall be clamped in a support with its free end centered 1 inch above the burner top. The longitudinal axis shall be horizontal and the transverse axis inclined at 45° to the horizontal. Under the test specimen shall be clamped a piece of 20-mesh iron-wire gauze, 5 inches square, in a horizontal position 1/4-inch below the pulley cover edge of the specimen and with about 1/2-inch of the specimen extending beyond the edge of the gauze.
 
 (d) *Procedure for flame tests.* (1) The Bunsen burner, retracted from the test position, shall be adjusted to give a blue flame 3 inches in height with natural gas.
 
@@ -32,6 +32,6 @@
 
 (f) *Acceptance markings.* (1) [Reserved]
 
-(2) Hose—hose conduit accepted by MSHA as flame-resistant shall be marked as follows: Impressed letters, raised letters on depressed background, or printed letters with the words “Flame-Resistant, USMSHA No. \_\_\_\_” at intervals not exceeding 3 feet. This number will be assigned to the manufacturer after the sample has passed the tests. The letters and numbers shall be at least1/4-inch high.
+(2) Hose—hose conduit accepted by MSHA as flame-resistant shall be marked as follows: Impressed letters, raised letters on depressed background, or printed letters with the words “Flame-Resistant, USMSHA No. \_\_\_\_” at intervals not exceeding 3 feet. This number will be assigned to the manufacturer after the sample has passed the tests. The letters and numbers shall be at least 1/4-inch high.
 
 [33 FR 4660, Mar. 19, 1968, as amended at 43 FR 12314, Mar. 24, 1978; 73 FR 80612, Dec. 31, 2008]

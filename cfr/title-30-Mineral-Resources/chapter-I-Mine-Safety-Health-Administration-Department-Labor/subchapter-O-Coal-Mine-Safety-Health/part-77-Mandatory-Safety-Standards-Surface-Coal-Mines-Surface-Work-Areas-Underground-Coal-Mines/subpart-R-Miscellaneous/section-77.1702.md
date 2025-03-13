@@ -10,4 +10,4 @@
 
 (e) Each operator shall, immediately after making an arrangement required under the provisions of paragraphs (a) and (b) of this section, or immediately after any change, of such agreement, post at appropriate places at the mine the names, titles, addresses, and telephone numbers of all persons or services currently available under such arrangements to provide medical assistance and transportation at the mine.
 
-(Pub. L. No. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*))[36 FR 9364, May 22, 1971, as amended at 36 FR 13143, July 15, 1971; 60 FR 33723, June 29, 1995]
+(Pub. L. No. 96-511, 94 Stat. 2812 (44 U.S.C. 3501 *et seq.*)) [36 FR 9364, May 22, 1971, as amended at 36 FR 13143, July 15, 1971; 60 FR 33723, June 29, 1995]

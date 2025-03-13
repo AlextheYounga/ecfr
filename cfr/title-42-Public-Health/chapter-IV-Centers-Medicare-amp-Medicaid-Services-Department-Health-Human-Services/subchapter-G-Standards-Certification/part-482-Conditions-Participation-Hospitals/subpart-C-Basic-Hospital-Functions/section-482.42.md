@@ -1,7 +1,5 @@
 ##### § 482.42 Condition of participation: Infection prevention and control and antibiotic stewardship programs. #####
 
-Link to an amendment published at 89 FR 69913, Aug. 28, 2024.
-
 The hospital must have active hospital-wide programs for the surveillance, prevention, and control of HAIs and other infectious diseases, and for the optimization of antibiotic use through stewardship. The programs must demonstrate adherence to nationally recognized infection prevention and control guidelines, as well as to best practices for improving antibiotic use where applicable, and for reducing the development and transmission of HAIs and antibiotic-resistant organisms. Infection prevention and control problems and antibiotic use issues identified in the programs must be addressed in collaboration with the hospital-wide quality assessment and performance improvement (QAPI) program.
 
 (a) *Standard: Infection prevention and control program organization and policies.* The hospital must demonstrate that:
@@ -70,38 +68,26 @@ The hospital must have active hospital-wide programs for the surveillance, preve
 
 (4) A qualified individual (or individuals) with expertise in infection prevention and control and in antibiotic stewardship has been designated at the hospital as responsible for communicating with the unified infection prevention and control and antibiotic stewardship programs, for implementing and maintaining the policies and procedures governing infection prevention and control and antibiotic stewardship as directed by the unified infection prevention and control and antibiotic stewardship programs, and for providing education and training on the practical applications of infection prevention and control and antibiotic stewardship to hospital staff.
 
-(e) *COVID-19 reporting.* (1) During the Public Health Emergency, as defined in § 400.200 of this chapter, the hospital must report information in accordance with a frequency as specified by the Secretary on COVID-19 in a standardized format specified by the Secretary. This report must include, but not be limited to, the following data elements:
+(e) *Respiratory illness reporting*—(1) *Ongoing reporting.* The hospital must electronically report information on acute respiratory illnesses, including influenza, SARS-CoV-2/COVID-19, and RSV.
 
-(i) The hospital's current inventory supplies of any COVID-19-related therapeutics that have been distributed and delivered to the hospital under the authority and direction of the Secretary.
+(i) The report must be in a standardized format and frequency specified by the Secretary.
 
-(ii) The hospital's current usage rate for any COVID-19-related therapeutics that have been distributed and delivered to the hospital under the authority and direction of the Secretary.
+(ii) To the extent as required by the Secretary, this report must include all of the following data elements:
 
-(2) Beginning at the conclusion of the COVID-19 Public Health Emergency, as defined in § 400.200 of this chapter, and continuing until April 30, 2024, except when the Secretary specifies an earlier end date for the requirements of this paragraph (e)(2), the hospital must electronically report information about COVID-19 in a standardized format specified by the Secretary. To the extent as required by the Secretary, this report must include the following data elements:
+(A) Confirmed infections for a limited set of respiratory illnesses, including but not limited to influenza, SARS-CoV-2/COVID-19, and RSV, among newly admitted and hospitalized patients.
 
-(i) Confirmed COVID-19 infections among patients.
+(B) Total bed census and capacity, including for critical hospital units and age groups.
 
-(ii) Total deaths among patients.
+(C) Limited patient demographic information, including but not limited to age.
 
-(iii) Personal protective equipment and testing supplies.
+(2) *Public health emergency (PHE) reporting.* In the event that the Secretary has declared a national, State, or local PHE for an acute infectious illness, the hospital must also electronically report the following data elements in a standardized format and frequency specified by the Secretary:
 
-(iv) Ventilator use, capacity, and supplies.
+(i) Supply inventory shortages.
 
-(v) Total bed and intensive care unit bed census and capacity.
+(ii) Staffing shortages.
 
-(vi) Staffing shortages.
+(iii) Relevant medical countermeasures and therapeutic inventories, usage, or both.
 
-(vii) COVID-19 vaccine administration data of patients and staff.
+(iv) Facility structure and operating status, including hospital/ED diversion status.
 
-(viii) Relevant therapeutic inventories or usage, or both.
-
-(f) *Standard: Reporting of acute respiratory illness, including seasonal influenza virus, influenza-like illness, and severe acute respiratory infection.* (1) During the Public Health Emergency, as defined in § 400.200 of this chapter, the hospital must report information, in accordance with a frequency as specified by the Secretary, on Acute Respiratory Illness (including, but not limited to, Seasonal Influenza Virus, Influenza-like Illness, and Severe Acute Respiratory Infection) in a standardized format specified by the Secretary.
-
-(2) Beginning at the conclusion of the COVID-19 Public Health Emergency, as defined in § 400.200 of this chapter, and continuing until April 30, 2024, except when the Secretary specifies an earlier end date for the requirements of this paragraph (f)(2), the hospital must electronically report information about seasonal influenza in a standardized format specified by the Secretary. To the extent as required by the Secretary, this report must include the following data elements:
-
-(i) Confirmed influenza infections among patients.
-
-(ii) Total deaths among patients.
-
-(iii) Confirmed co-morbid influenza and COVID-19 infections among patients.
-
-[84 FR 51820, Sept. 30, 2019, as amended at 85 FR 54872, Sept. 2, 2020; 85 FR 86303, Dec. 29, 2020; 86 FR 61619, Nov. 5, 2021; 87 FR 49409, Aug. 10, 2022; 87 FR 66575, Nov. 4, 2022; 88 FR 36510, June 5, 2023]Editorial Note:At 85 FR 86303, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.
+[84 FR 51820, Sept. 30, 2019, as amended at 85 FR 54872, Sept. 2, 2020; 85 FR 86303, Dec. 29, 2020; 86 FR 61619, Nov. 5, 2021; 87 FR 49409, Aug. 10, 2022; 87 FR 66575, Nov. 4, 2022; 88 FR 36510, June 5, 2023; 89 FR 69913, Aug. 28, 2024]Editorial Note:At 85 FR 86303, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.

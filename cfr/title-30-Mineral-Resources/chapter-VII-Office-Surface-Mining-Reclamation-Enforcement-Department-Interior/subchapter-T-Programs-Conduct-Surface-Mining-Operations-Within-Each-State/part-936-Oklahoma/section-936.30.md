@@ -66,7 +66,7 @@ F. Permit Application Fees and Civil Penalties
 
 The amount of the fee accompanying an application for a permit for operations on Federal lands in Oklahoma shall be determined in accordance with section 745.1 of the Oklahoma Coal Reclamation Act of 1979, section 771.25 of the State regulations and the applicable provisions of the Program and Federal law. All permit fees and civil penalties collected from operations on Federal lands will be retained by the State and shall be deposited with the State Treasurer in the Oklahoma Department of Mines Revolving Fund. Permit fees will be considered Program income. The financial status report submitted pursuant to 30 CFR 735.26 shall include the amount of fees collected and attributable to Federal lands during the prior State fiscal year.
 
-Article VI: Review of Permit Application PackageA. Submission of Permit Application Package
+Article VI: Review of Permit Application Package A. Submission of Permit Application Package
 
 ODM and the Secretary will require an applicant proposing to conduct surface coal mining and reclamation operations and activities on Federal lands to submit a permit application package (PAP) with an appropriate number of copies to ODM. ODM will furnish OSMRE and other Federal agencies with an appropriate number of copies of the PAP. The PAP will be in the form required by ODM and will include any supplemental information required by OSMRE and the Federal land management agency. Where section 522(e)(3) of the Act applies, ODM will work with the agency with jurisdiction over the publicly owned park, including units of the National Park System, or place included in the National Register of Historic Places (NRHP) to determine what supplemental information will be required.
 
@@ -172,7 +172,7 @@ C. Performance bonds will be subject to forfeiture with the concurrence of OSMRE
 
 D. Submission of a performance bond does not satisfy the requirements for a Federal lease bond required by 43 CFR subpart 3474 or lessee protection bond required in addition to a performance bond, in certain circumstances, by section 715 of the Act.
 
-Article X: Designating Land Areas Unsuitable for All or Certain Types of Surface Coal Mining and Reclamation Operations and Activities and Valid Existing Rights and Compatibility DeterminationsA. Unsuitability Petitions.
+Article X: Designating Land Areas Unsuitable for All or Certain Types of Surface Coal Mining and Reclamation Operations and Activities and Valid Existing Rights and Compatibility Determinations A. Unsuitability Petitions.
 
 1. Authority to designate Federal lands as unsuitable for mining pursuant to a petition is reserved to the Secretary.
 
@@ -230,11 +230,11 @@ This Agreement will not be construed as waiving or preventing the assertion of a
 
 Approved:
 
-Henry Bellmon,*Governor of Oklahoma.*
+Henry Bellmon, *Governor of Oklahoma.*
 
 Date: August 2, 1989.
 
-Manuel Lujan, Jr.,*Secretary of the Interior.*
+Manuel Lujan, Jr., *Secretary of the Interior.*
 
 Date: August 30, 1989.
 

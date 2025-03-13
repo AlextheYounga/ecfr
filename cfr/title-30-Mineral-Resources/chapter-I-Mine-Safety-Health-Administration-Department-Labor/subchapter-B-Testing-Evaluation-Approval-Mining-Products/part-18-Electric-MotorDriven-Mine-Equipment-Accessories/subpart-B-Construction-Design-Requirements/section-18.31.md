@@ -61,7 +61,7 @@
 
 (i) When the flame-arresting path is in one plane, the o-ring shall be located at least one-half the acceptable flame-arresting path length specified in paragraph (a)(6) of this section within the outside edge of the path (see figure J-2 in the appendix to subpart J of part 7 of this chapter).
 
-(ii) When the flame-arresting path is one of the plane-cylindrical type (step joint), the o-ring shall be located at least1/2 inch within the outer edge of the plane portion (see figure J-3 in the appendix to subpart J of part 7 of this chapter), or at the junction of the plane and cylindrical portion of the joint (see figure J-4 in the appendix to subpart J of part 7 of this chapter); or in the cylindrical portion (see figure J-5 in the appendix to subpart J of part 7 of this chapter).
+(ii) When the flame-arresting path is one of the plane-cylindrical type (step joint), the o-ring shall be located at least 1/2 inch within the outer edge of the plane portion (see figure J-3 in the appendix to subpart J of part 7 of this chapter), or at the junction of the plane and cylindrical portion of the joint (see figure J-4 in the appendix to subpart J of part 7 of this chapter); or in the cylindrical portion (see figure J-5 in the appendix to subpart J of part 7 of this chapter).
 
 (8) Mating parts comprising a pressed fit shall result in a minimum interference of 0.001 inch between the parts. The minimum length of the pressed fit shall be equal to the minimum thickness requirement of paragraph (a)(6) of this section for the material in which the fit is made.
 

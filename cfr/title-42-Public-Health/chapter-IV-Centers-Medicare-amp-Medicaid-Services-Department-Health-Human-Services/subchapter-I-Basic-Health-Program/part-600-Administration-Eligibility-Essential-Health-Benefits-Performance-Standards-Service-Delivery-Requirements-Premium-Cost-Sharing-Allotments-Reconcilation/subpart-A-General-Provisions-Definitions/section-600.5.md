@@ -1,7 +1,5 @@
 ##### § 600.5 Definitions and use of terms. #####
 
-Link to an amendment published at 89 FR 39436, May 8, 2024.
-
 For purposes of this part, the following definitions apply:
 
 *Advance payments of the premium tax credit* means payment of the tax credit authorized by 26 U.S.C. 36B and its implementing regulations, which are provided on an advance basis to an eligible individual enrolled in a QHP through an Exchange in accordance with sections 1402 and 1412 of the Affordable Care Act.
@@ -32,7 +30,7 @@ For purposes of this part, the following definitions apply:
 
 *Interim certification* is an approval status for the initial design of a state's Basic Health Program. It does not confer any permission to begin enrollment or seek federal funding.
 
-*Lawfully present* has the meaning given in 45 CFR 152.2.
+*Lawfully present* has the meaning given in 45 CFR 155.20.
 
 *Minimum essential coverage* has the meaning set forth at 26 CFR 1.5000A-2, including coverage recognized by the Secretary as minimum essential coverage pursuant to 26 CFR 1.5000A-2(f). Under that authority, the Secretary recognizes coverage through a BHP standard health plan as minimum essential coverage.
 
@@ -61,3 +59,5 @@ For purposes of this part, the following definitions apply:
 *Standard health plan offeror* means an entity that is eligible to enter into contracts with the State for the administration and provision of a standard health plan under the BHP.
 
 *State* means each of the 50 states and the District of Columbia as defined by section 1304 of the Act.
+
+[79 FR 14140, Mar. 12, 2014, as amended at 89 FR 39436, May 8, 2024]

@@ -2,7 +2,7 @@
 
 (a) *Safety.* (1) Unless special features of the lamp prevent ignition of explosive mixtures of methane and air by the broken bulb or other igniting sources within the lamp, the bulb and all spark-producing parts must be enclosed in explosion-proof compartments.
 
-(2) Explosion-proof compartments will be tested while filled and surrounded with explosive mixtures of Pittsburgh natural gas1 and air. A sufficient number of tests of each compartment will be made to prove that there is no danger of ignition of the mixture surrounding the lamp by explosions within the compartment. The lamp will not pass the above tests, even though the surrounding explosive mixtures are not ignited, if external flame is observed, if excessive pressures are developed, or if excessive distortion of any part of the compartment takes place.
+(2) Explosion-proof compartments will be tested while filled and surrounded with explosive mixtures of Pittsburgh natural gas 1 and air. A sufficient number of tests of each compartment will be made to prove that there is no danger of ignition of the mixture surrounding the lamp by explosions within the compartment. The lamp will not pass the above tests, even though the surrounding explosive mixtures are not ignited, if external flame is observed, if excessive pressures are developed, or if excessive distortion of any part of the compartment takes place.
 
 1 Investigation has shown that for practical purposes Pittsburgh natural gas (containing a high percentage of methane) is a satisfactory substitute for pure methane.
 

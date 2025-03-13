@@ -4,4 +4,4 @@
 
 (b) Each operator shall report each occupational injury or occupational illness on one set of forms. If more than one miner is injured in the same accident or is affected simultaneously with the same occupational illness, an operator shall complete a separate set of forms for each miner affected. To the extent that the form is not self-explanatory, an operator shall complete the form in accordance with the instructions in § 50.20-1 and criteria contained in §§ 50.20-2 through 50.20-7.
 
-(Secs. 103 (a) and (h), and 508, Pub. L. 91-173, as amended by Pub. L. 95-164, 91 Stat. 1297, 1299, 83 Stat. 803 (30 U.S.C. 801, 813, 957))[42 FR 65535, Dec. 30, 1977, as amended at 44 FR 52828, Sept. 11, 1979; 60 FR 35695, July 11, 1995; 69 FR 26499, May 13, 2004]
+(Secs. 103 (a) and (h), and 508, Pub. L. 91-173, as amended by Pub. L. 95-164, 91 Stat. 1297, 1299, 83 Stat. 803 (30 U.S.C. 801, 813, 957)) [42 FR 65535, Dec. 30, 1977, as amended at 44 FR 52828, Sept. 11, 1979; 60 FR 35695, July 11, 1995; 69 FR 26499, May 13, 2004]

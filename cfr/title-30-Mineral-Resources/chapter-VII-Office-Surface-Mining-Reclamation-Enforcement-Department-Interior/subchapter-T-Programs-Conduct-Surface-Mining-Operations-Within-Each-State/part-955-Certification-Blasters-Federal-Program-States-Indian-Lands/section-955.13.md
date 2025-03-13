@@ -6,7 +6,7 @@
 
 (2) Include as part of the application a nonrefundable fee as follows:
 
-(i) Issuance or reissuance$122(ii) Reexamination$61(iii) Renewal$61(iv) Replacement$28(v) Reciprocity$61;
+(i) Issuance or reissuance$122(ii) Reexamination$61(iii) Renewal$61(iv) Replacement$28 (v) Reciprocity$61;
 
 (3) For certificate issuance or reissuance, include as part of the application satisfactory evidence of having completed training as provided in § 955.12;
 

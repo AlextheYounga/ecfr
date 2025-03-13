@@ -6,4 +6,4 @@ A permanent identification marker, at least six feet high and showing the identi
 
 (b) For new or proposed water, sediment, or slurry impounding structures, markers shall be placed within 30 days from the start of construction.
 
-(Secs. 101, 508, Pub. L. 91-173, 83 Stat. 745, 803 (30 U.S.C. 811, 957))[40 FR 41777, Sept. 9, 1975]
+(Secs. 101, 508, Pub. L. 91-173, 83 Stat. 745, 803 (30 U.S.C. 811, 957)) [40 FR 41777, Sept. 9, 1975]

@@ -12,4 +12,4 @@ Hoists and elevators shall be examined daily and such examinations shall include
 
 (3) An examination of the automatic controls and brakes required under § 77.1401.
 
-(Sec. 101, Federal Mine Safety and Health Act of 1977, Pub. L. 91-173 as amended by Pub. L. 95-164, 91 Stat. 1291 (30 U.S.C. 811)[48 FR 53241, Nov. 25, 1983]
+(Sec. 101, Federal Mine Safety and Health Act of 1977, Pub. L. 91-173 as amended by Pub. L. 95-164, 91 Stat. 1291 (30 U.S.C. 811) [48 FR 53241, Nov. 25, 1983]

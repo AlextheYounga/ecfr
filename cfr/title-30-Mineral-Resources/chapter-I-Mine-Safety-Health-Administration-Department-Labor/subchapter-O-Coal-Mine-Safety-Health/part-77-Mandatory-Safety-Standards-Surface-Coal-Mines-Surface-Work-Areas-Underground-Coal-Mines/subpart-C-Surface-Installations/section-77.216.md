@@ -16,4 +16,4 @@
 
 (e) All fires in impounding structures shall be extinguished, and the method used shall be in accordance with a plan approved by the District Manager. The plan shall contain as a minimum, provisions to ensure that only those persons authorized by the operator, and who have an understanding of the procedures to be used, shall be involved in the extinguishing operation.
 
-(Secs. 101, 508, Pub. L. 91-173, 83 Stat. 745, 803 (30 U.S.C. 811, 957))[40 FR 41776, Sept. 9, 1975]
+(Secs. 101, 508, Pub. L. 91-173, 83 Stat. 745, 803 (30 U.S.C. 811, 957)) [40 FR 41776, Sept. 9, 1975]

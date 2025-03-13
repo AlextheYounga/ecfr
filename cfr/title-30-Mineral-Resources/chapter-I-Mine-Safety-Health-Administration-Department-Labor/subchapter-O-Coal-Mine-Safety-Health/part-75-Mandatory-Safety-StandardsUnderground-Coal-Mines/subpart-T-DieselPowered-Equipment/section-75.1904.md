@@ -2,7 +2,7 @@
 
 (a) Diesel fuel tanks used underground shall—
 
-(1) Have steel walls of a minimum3/16-inch thickness, or walls made of other metal of a thickness that provides equivalent strength;
+(1) Have steel walls of a minimum 3/16-inch thickness, or walls made of other metal of a thickness that provides equivalent strength;
 
 (2) Be protected from corrosion;
 

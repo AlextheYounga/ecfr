@@ -10,7 +10,7 @@ Unless properly designed, electric cap lamps may present two sources of probable
 
 (d) *Protection of battery terminals.* The battery covers of lamps that are recharged through the cord shall be so constructed and assembled as to prevent unauthorized access to the battery terminals.
 
-(e) *Battery current restricted.* The amount of current flow between the conductors of the cord, if short-circuited just outside of the battery casing or cord armor, shall be limited by the design of the battery or by a fuse to such a value4 as will not produce sparks that will ignite an explosive mixture of methane and air.
+(e) *Battery current restricted.* The amount of current flow between the conductors of the cord, if short-circuited just outside of the battery casing or cord armor, shall be limited by the design of the battery or by a fuse to such a value 4 as will not produce sparks that will ignite an explosive mixture of methane and air.
 
 4 The following maximum short-circuit current values may be used as a guide in the design of cap lamp batteries: 100 amperes for a 4-volt battery; 75 amperes for a 6-volt battery; 50 amperes for an 8-volt battery.
 
@@ -20,4 +20,4 @@ Note:
 
 Paragraph (a) of this section is issued under the authority of Sec. 101 of the Federal Mine Safety and Health Act of 1977, Pub. L. 91-173 as amended by Pub. L. 95-164, 91 Stat. 1291 (30 U.S.C. 811). All other paragraphs in this section continue under the original authority.
 
-(Sec. 101, Federal Mine Safety and Health Act of 1977, 91 Stat. 1291 (30 U.S.C. 811))[Sched. 6D, 4 FR 4003, Sept. 21, 1939, as amended at 47 FR 11369, Mar. 16, 1982]
+(Sec. 101, Federal Mine Safety and Health Act of 1977, 91 Stat. 1291 (30 U.S.C. 811)) [Sched. 6D, 4 FR 4003, Sept. 21, 1939, as amended at 47 FR 11369, Mar. 16, 1982]

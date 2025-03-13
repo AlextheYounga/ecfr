@@ -44,7 +44,7 @@
 
 (i) *Emergency materials.* (1) At each mine producing 300 tons of coal or more per shift there shall be readily available the following materials at locations not exceeding 2 miles from each working section:
 
-1,000 board feet of brattice boards2 rolls of brattice cloth2 hand saws25 pounds of 8d nails25 pounds of 10d nails25 pounds of 16d nails3 claw hammers25 bags of wood fiber plaster or 10 bags of cement (or equivalent material for stoppings)5 tons of rock dust
+1,000 board feet of brattice boards 2 rolls of brattice cloth 2 hand saws 25 pounds of 8d nails 25 pounds of 10d nails 25 pounds of 16d nails 3 claw hammers 25 bags of wood fiber plaster or 10 bags of cement (or equivalent material for stoppings) 5 tons of rock dust
 
 (2) At each mine producing less than 300 tons of coal per shift the above materials shall be available at the mine, provided, however, that the emergency materials for one or more mines may be stored at a central warehouse or building supply company and such supply must be the equivalent of that required for all mines involved and within 1-hour's delivery time from each mine. This exception shall not apply where the active working sections are more than 2 miles from the surface.
 

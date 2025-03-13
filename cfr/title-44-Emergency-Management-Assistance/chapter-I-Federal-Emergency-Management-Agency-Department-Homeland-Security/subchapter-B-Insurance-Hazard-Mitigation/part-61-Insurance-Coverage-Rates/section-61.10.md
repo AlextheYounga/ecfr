@@ -1,5 +1,7 @@
 ##### § 61.10 Requirements for issuance or renewal of flood insurance coverage. #####
 
+Link to an amendment published at 89 FR 87309, Nov. 1, 2024.
+
 FEMA will not issue or renew flood insurance unless FEMA receives:
 
 (a) The full amount due (including applicable premiums, surcharges, and fees); and

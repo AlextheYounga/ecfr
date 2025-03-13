@@ -10,7 +10,7 @@ The following definitions apply in this subpart.
 
 *Instantaneous detonator.* An electric detonator that fires within 6 milliseconds after application of the firing current.
 
-*Laminated partition.* A partition composed of the following material and minimum nominal dimensions:1/2-inch thick plywood,1/2-inch thick gypsum wall board,1/8-inch thick low carbon steel and1/4-inch thick plywood, bonded together in that order.
+*Laminated partition.* A partition composed of the following material and minimum nominal dimensions: 1/2-inch thick plywood, 1/2-inch thick gypsum wall board, 1/8-inch thick low carbon steel and 1/4-inch thick plywood, bonded together in that order.
 
 *Opener hole.* The first hole or holes fired in a round blasted off the solid to create an additional free face.
 
