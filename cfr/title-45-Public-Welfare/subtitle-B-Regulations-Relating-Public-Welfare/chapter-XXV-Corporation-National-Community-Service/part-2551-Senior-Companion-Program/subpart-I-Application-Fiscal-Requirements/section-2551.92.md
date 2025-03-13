@@ -1,5 +1,7 @@
 ##### § 2551.92 What are project funding requirements? #####
 
+Link to an amendment published at 89 FR 70542, Aug. 30, 2024.
+
 (a) *Is non-CNCS support required?* A CNCS grant may be awarded to fund up to 90 percent of the cost of development and operation of a Senior Companion project. The sponsor is required to contribute at least 10 percent of the total project cost from non-Federal sources or authorized Federal sources.
 
 (b) *Under what circumstances does CNCS allow less than the 10 percent non-CNCS support?* CNCS may allow exceptions to the 10 percent local support requirement in cases of demonstrated need such as:

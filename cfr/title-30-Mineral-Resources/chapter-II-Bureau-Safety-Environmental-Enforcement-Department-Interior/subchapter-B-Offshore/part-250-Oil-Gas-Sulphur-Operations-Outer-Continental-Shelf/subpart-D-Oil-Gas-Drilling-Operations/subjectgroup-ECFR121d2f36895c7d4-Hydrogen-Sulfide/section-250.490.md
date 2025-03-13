@@ -1,5 +1,7 @@
 ##### § 250.490 Hydrogen sulfide. #####
 
+Link to an amendment published at 89 FR 71120, Aug. 30, 2024.
+
 (a) *What precautions must I take when operating in an H*2*S area?* You must:
 
 (1) Take all necessary and feasible precautions and measures to protect personnel from the toxic effects of H2S and to mitigate damage to property and the environment caused by H2S. You must follow the requirements of this section when conducting drilling, well-completion/well-workover, and production operations in zones with H2S present and when conducting operations in zones where the presence of H2S is unknown. You do not need to follow these requirements when operating in zones where the absence of H2S has been confirmed; and

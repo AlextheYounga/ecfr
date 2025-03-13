@@ -1,5 +1,7 @@
 ##### § 1140.14 Additional responsibilities of retailers. #####
 
+Link to an amendment published at 89 FR 70486, Aug. 30, 2024.
+
 (a) In addition to the other requirements under this part, each cigarette and smokeless tobacco retailer is responsible for ensuring that all sales of cigarettes or smokeless tobacco to any person comply with the following requirements:
 
 (1) No retailer may sell cigarettes or smokeless tobacco to any person younger than 18 years of age;

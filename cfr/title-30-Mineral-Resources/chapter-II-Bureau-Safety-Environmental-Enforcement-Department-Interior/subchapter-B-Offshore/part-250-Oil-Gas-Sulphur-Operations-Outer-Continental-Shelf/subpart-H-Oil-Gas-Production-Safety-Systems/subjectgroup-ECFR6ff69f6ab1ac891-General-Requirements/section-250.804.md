@@ -1,5 +1,7 @@
 ##### § 250.804 Additional requirements for subsurface safety valves (SSSVs) and related equipment installed in high pressure high temperature (HPHT) environments. #####
 
+Link to an amendment published at 89 FR 71121, Aug. 30, 2024.
+
 (a) If you plan to install SSSVs and related equipment in an HPHT environment, you must submit detailed information with your Application for Permit to Drill (APD) or Application for Permit to Modify (APM), and Deepwater Operations Plan (DWOP) that demonstrates the SSSVs and related equipment are capable of performing in the applicable HPHT environment. Your detailed information must include the following:
 
 (1) A discussion of the SSSVs' and related equipment's design verification analyses;

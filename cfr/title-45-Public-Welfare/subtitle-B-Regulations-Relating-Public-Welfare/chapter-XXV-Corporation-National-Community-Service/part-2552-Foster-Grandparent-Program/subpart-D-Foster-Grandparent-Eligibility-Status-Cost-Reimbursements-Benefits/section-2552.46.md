@@ -1,5 +1,7 @@
 ##### § 2552.46 What cost reimbursements and benefits do sponsors provide to Foster Grandparents? #####
 
+Link to an amendment published at 89 FR 70543, Aug. 30, 2024.Link to an amendment published at 89 FR 70544, Aug. 30, 2024.
+
 Cost reimbursements and benefits include:
 
 (a) *Stipend.* The stipend is paid for the time Foster Grandparents spend with their assigned children, for earned leave, and for attendance at official project events.

@@ -1,5 +1,7 @@
 ##### § 2551.71 What requirements govern the assignment of Senior Companions? #####
 
+Link to an amendment published at 89 FR 70542, Aug. 30, 2024.
+
 (a) Senior Companion assignments shall provide for Senior Companions to give direct services to one or more eligible adults that:
 
 (1) Result in person-to-person supportive relationships with each client served.

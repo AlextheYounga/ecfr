@@ -1,5 +1,7 @@
 ##### § 1140.16 Conditions of manufacture, sale, and distribution. #####
 
+Link to an amendment published at 89 FR 70486, Aug. 30, 2024.
+
 (a) *Restriction on product names.* A manufacturer shall not use a trade or brand name of a nontobacco product as the trade or brand name for a cigarette or smokeless tobacco product, except for a tobacco product whose trade or brand name was on both a tobacco product and a nontobacco product that were sold in the United States on January 1, 1995.
 
 (b) *Minimum cigarette package size.* Except as otherwise provided under this section, no manufacturer, distributor, or retailer may sell or cause to be sold, or distribute or cause to be distributed, any cigarette package that contains fewer than 20 cigarettes.

@@ -1,5 +1,7 @@
 ##### § 556.106 Service fees. #####
 
+Link to an amendment published at 89 FR 70493, Aug. 30, 2024.
+
 (a) The table in this paragraph (a) shows the fees you must pay to BOEM for the services listed. BOEM will adjust the fees periodically according to the Implicit Price Deflator for Gross Domestic Product and publish a document showing the adjustment in the Federal Register. If a significant adjustment is needed to arrive at a new fee for any reason other than inflation, then a proposed rule containing the new fees will be published in the Federal Register for comment.
 
 |                                  Service—processing of the following:                                   |Fee amount|        30 CFR citation         |

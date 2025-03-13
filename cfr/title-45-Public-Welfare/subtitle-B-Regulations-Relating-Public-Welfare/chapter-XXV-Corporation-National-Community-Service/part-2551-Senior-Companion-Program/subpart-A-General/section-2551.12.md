@@ -1,5 +1,7 @@
 ##### § 2551.12 Definitions. #####
 
+Link to an amendment published at 89 FR 70541, Aug. 30, 2024.
+
 *Act.* The Domestic Volunteer Service Act of 1973, as amended, Pub. L. 93-113, Oct. 1, 1973, 87 Stat. 396, 42 U.S.C. 4950 *et seq.*
 
 *Adequate staffing level.* The number of project staff or full time equivalent needed by a sponsor to manage the National Senior Service Corps (NSSC) project operations considering such factors as: Number of budgeted Volunteer Service Years (VSYs), number of volunteer stations, and the size of the service area.

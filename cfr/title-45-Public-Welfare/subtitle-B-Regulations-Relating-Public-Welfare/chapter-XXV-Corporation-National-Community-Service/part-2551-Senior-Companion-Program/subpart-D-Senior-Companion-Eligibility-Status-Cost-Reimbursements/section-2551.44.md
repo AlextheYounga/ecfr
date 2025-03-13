@@ -1,5 +1,7 @@
 ##### § 2551.44 What is considered income for determining volunteer eligibility? #####
 
+Link to an amendment published at 89 FR 70542, Aug. 30, 2024.
+
 (a) For determining eligibility, “income” refers to total cash or in-kind receipts before taxes from all sources including:
 
 (1) Money, wages, and salaries before any deduction;

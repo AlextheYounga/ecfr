@@ -1,5 +1,7 @@
 ##### § 2551.23 What are a sponsor's project responsibilities? #####
 
+Link to an amendment published at 89 FR 70541, Aug. 30, 2024.Link to an amendment published at 89 FR 70542, Aug. 30, 2024.
+
 A sponsor shall:
 
 (a) Focus Senior Companion resources within the project's service area, on critical problems affecting the frail elderly and other adults with special needs.

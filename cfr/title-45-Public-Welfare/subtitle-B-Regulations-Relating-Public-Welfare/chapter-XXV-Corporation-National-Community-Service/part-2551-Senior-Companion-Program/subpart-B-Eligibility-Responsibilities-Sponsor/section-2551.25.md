@@ -1,5 +1,7 @@
 ##### § 2551.25 What are a sponsor's administrative responsibilities? #####
 
+Link to an amendment published at 89 FR 70541, Aug. 30, 2024.Link to an amendment published at 89 FR 70542, Aug. 30, 2024.
+
 A sponsor shall:
 
 (a) Assume full responsibility for securing maximum and continuing community financial and in-kind support to operate the project successfully.

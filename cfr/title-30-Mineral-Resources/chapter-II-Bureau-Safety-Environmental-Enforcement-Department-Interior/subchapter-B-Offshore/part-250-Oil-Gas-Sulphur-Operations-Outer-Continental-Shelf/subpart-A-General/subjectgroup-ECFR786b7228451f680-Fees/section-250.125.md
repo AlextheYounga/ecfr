@@ -1,5 +1,7 @@
 ##### § 250.125 Service fees. #####
 
+Link to an amendment published at 89 FR 71111, Aug. 30, 2024.
+
 (a) The table in this paragraph (a) shows the fees that you must pay to BSEE for the services listed. The fees will be adjusted periodically according to the Implicit Price Deflator for Gross Domestic Product by publication of a document in the Federal Register. If a significant adjustment is needed to arrive at the new actual cost for any reason other than inflation, then a proposed rule containing the new fees will be published in the Federal Register for comment.
 
 |                              Service—processing of the following:                              |                                                                                                                                                                                   Fee amount                                                                                                                                                                                    |                            30 CFR citation                            |

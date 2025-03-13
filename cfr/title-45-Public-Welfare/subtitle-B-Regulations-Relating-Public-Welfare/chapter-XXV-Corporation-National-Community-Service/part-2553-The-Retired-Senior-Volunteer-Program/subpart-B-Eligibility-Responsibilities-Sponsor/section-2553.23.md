@@ -1,5 +1,7 @@
 ##### § 2553.23 What are a sponsor's project responsibilities? #####
 
+Link to an amendment published at 89 FR 70545, Aug. 30, 2024.
+
 A sponsor shall:
 
 (a) Focus RSVP resources to have a positive impact on critical human and social needs within the project service area.

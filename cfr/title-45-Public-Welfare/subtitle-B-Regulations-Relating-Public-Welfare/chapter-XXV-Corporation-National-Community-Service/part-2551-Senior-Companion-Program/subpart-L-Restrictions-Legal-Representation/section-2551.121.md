@@ -1,5 +1,7 @@
 ##### § 2551.121 What legal limitations apply to the operation of the Senior Companion Program and to the expenditure of grant funds? #####
 
+Link to an amendment published at 89 FR 70542, Aug. 30, 2024.
+
 (a) *Political activities.* (1) No part of any grant shall be used to finance, directly or indirectly, any activity to influence the outcome of any election to public office, or any voter registration activity.
 
 (2) No project shall be conducted in a manner involving the use of funds, the provision of services, or the employment or assignment of personnel in a matter supporting or resulting in the identification of such project with:

@@ -1,5 +1,7 @@
 ##### § 2553.43 What cost reimbursements and benefits may sponsors provide to RSVP volunteers? #####
 
+Link to an amendment published at 89 FR 70544, Aug. 30, 2024.Link to an amendment published at 89 FR 70545, Aug. 30, 2024.
+
 (a) RSVP volunteers may be provided the following cost reimbursements within the limits of the project's available resources:
 
 (1) *Transportation.* RSVP volunteers may receive assistance with the cost of transportation to and from volunteer assignments and official project activities, including orientation, training, and recognition events.

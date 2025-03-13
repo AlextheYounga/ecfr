@@ -188,7 +188,7 @@ Example.*X* Corporation makes a contribution of inventory described in section 1
 
 (B) That is either:
 
-(*1*) Made by a contributing partnership or contributing S corporation (as defined in § 1.170A-14(j)(3)(iv)); or
+(*1*) Made by a contributing partnership (as defined in § 1.170A-14(j)(3)(iii)) or contributing S corporation (as defined in § 1.170A-14(j)(3)(iv)); or
 
 (*2*) Is an allocated portion (as defined in § 1.170A-14(j)(3)(i)) of an upper-tier partnership (as defined in § 1.170A-14(j)(3)(xi)) or upper-tier S corporation (as defined in § 1.170A-14(j)(3)(xii)); and
 
@@ -200,4 +200,4 @@ Example.*X* Corporation makes a contribution of inventory described in section 1
 
 (2) *Certain paragraphs.* Paragraphs (c)(3)(v), (d)(3)(viii) and (ix), and (f)(4) and (6) of this section apply to taxable years ending on or after November 20, 2023.
 
-[T.D.9836, 83 FR 36423, July 30, 2018, as amended by T.D. 9999, 89 FR 54325, June 28, 2024]
+[T.D.9836, 83 FR 36423, July 30, 2018, as amended by T.D. 9999, 89 FR 54325, June 28, 2024; 89 FR 70486, Aug. 30, 2024]

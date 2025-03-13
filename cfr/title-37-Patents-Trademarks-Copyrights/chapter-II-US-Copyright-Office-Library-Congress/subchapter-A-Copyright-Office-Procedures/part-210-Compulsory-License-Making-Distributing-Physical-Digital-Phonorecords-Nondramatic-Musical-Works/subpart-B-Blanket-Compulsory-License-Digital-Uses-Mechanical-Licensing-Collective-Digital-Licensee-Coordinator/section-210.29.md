@@ -146,7 +146,7 @@
 
 (1)(i) To the extent required by this paragraph (k), where a royalty payee (the *prior payee*) received amounts from the mechanical licensing collective that such prior payee would not have received had the distribution been made in a manner consistent with the application of the derivative works exception embodied in paragraph (b)(4)(i)(C) of this section, the mechanical licensing collective shall, except as otherwise provided for by this paragraph (k), recover such overpayment from such prior payee and shall distribute it to the royalty payee (the *proper payee*) who is entitled to such funds under the application of the derivative works exception embodied in paragraph (b)(4)(i)(C) of this section.
 
-(ii) The mechanical licensing collective shall notify each prior payee and proper payee (collectively, the *parties*) of the overpayment no later than August 8, 2024. Such notice shall contain at least the following information:
+(ii) The mechanical licensing collective shall notify each prior payee and proper payee (collectively, the *parties*) of the overpayment no later than September 9, 2024. Such notice shall contain at least the following information:
 
 (A) A summary of the Copyright Office's conclusions embodied in paragraph (b)(4)(i)(C) of this section and § 210.27(g)(2)(ii)(B);
 
@@ -156,7 +156,7 @@
 
 (D) The respective contact information for each of the parties contained in the mechanical licensing collective's records.
 
-(iii) After receiving such notice, the parties may attempt to reach a voluntary agreement with respect to the overpayment. Before September 9, 2024, the parties shall notify the mechanical licensing collective that:
+(iii) After receiving such notice, the parties may attempt to reach a voluntary agreement with respect to the overpayment. Before October 9, 2024, the parties shall notify the mechanical licensing collective that:
 
 (A) The parties reached a voluntary agreement with respect to the overpayment;
 
@@ -168,7 +168,7 @@
 
 (A) If the mechanical licensing collective receives notice that the parties reached a voluntary agreement with respect to the overpayment, it shall not make any adjustment in connection with the overpayment.
 
-(B) If the mechanical licensing collective receives notice that the parties are in the process of attempting to reach a voluntary agreement with respect to the overpayment, it shall not take any action unless and until it receives a subsequent notice. If the subsequent notice states that the parties reached a voluntary agreement with respect to the overpayment, the mechanical licensing collective shall not make any adjustment in connection with the overpayment. If the subsequent notice states that the parties did not reach a voluntary agreement with respect to the overpayment, the mechanical licensing collective shall commence the adjustment process described in paragraph (k)(1)(v) of this section. If such a subsequent notice is received after February 9, 2026, the mechanical licensing collective shall not be required to make any adjustment in connection with the overpayment.
+(B) If the mechanical licensing collective receives notice that the parties are in the process of attempting to reach a voluntary agreement with respect to the overpayment, it shall not take any action unless and until it receives a subsequent notice. If the subsequent notice states that the parties reached a voluntary agreement with respect to the overpayment, the mechanical licensing collective shall not make any adjustment in connection with the overpayment. If the subsequent notice states that the parties did not reach a voluntary agreement with respect to the overpayment, the mechanical licensing collective shall commence the adjustment process described in paragraph (k)(1)(v) of this section. If such a subsequent notice is received after March 11, 2026, the mechanical licensing collective shall not be required to make any adjustment in connection with the overpayment.
 
 (C) If the mechanical licensing collective receives notice that the parties did not reach a voluntary agreement with respect to the overpayment, it shall commence the adjustment process described in paragraph (k)(1)(v) of this section.
 
@@ -176,7 +176,7 @@
 
 (v) Where, pursuant to paragraph (k)(1)(iv) of this section, the mechanical licensing collective is required to commence an adjustment process with respect to the overpayment, the following requirements shall apply:
 
-(A) Not later than October 7, 2024 or 30 calendar days after receiving an applicable subsequent notice under paragraph (k)(1)(iv)(B) of this section, whichever is later, the mechanical licensing collective shall notify the prior payee that the adjustment process has commenced and request that the prior payee return the overpayment no later than November 6, 2024 or 30 calendar days after receiving the notice, whichever is later. Any returned amounts shall be distributed, accompanied by an appropriate royalty statement, to the proper payee with the next regular monthly royalty distribution to occur at least 30 calendar days after any such amounts are returned.
+(A) Not later than November 6, 2024 or 30 calendar days after receiving an applicable subsequent notice under paragraph (k)(1)(iv)(B) of this section, whichever is later, the mechanical licensing collective shall notify the prior payee that the adjustment process has commenced and request that the prior payee return the overpayment no later than December 6, 2024 or 30 calendar days after receiving the notice, whichever is later. Any returned amounts shall be distributed, accompanied by an appropriate royalty statement, to the proper payee with the next regular monthly royalty distribution to occur at least 30 calendar days after any such amounts are returned.
 
 (B) If such overpayment is not returned in full in accordance with paragraph (k)(1)(v)(A) of this section, then beginning with the first distribution of royalties to occur at least 30 calendar days after the deadline specified in that paragraph, 50 percent of any and all accrued royalties and other distributable amounts (*e.g.,* accrued interest) that would otherwise be payable to the prior payee from the mechanical licensing collective each month, regardless of the associated work (or share), shall instead be distributed, accompanied by an appropriate royalty statement, to the proper payee until such time as the full amount of the overpayment is recovered. Where the amount to be recovered under this paragraph during a monthly royalty distribution constitutes less than 50 percent of the applicable accrued royalties and other distributable amounts, the mechanical licensing collective shall recover the full amount of the overpayment. Where more than one proper payee is entitled to a corrective royalty adjustment from the same prior payee for different musical works, any amounts recovered and distributed under this paragraph (k)(1)(v)(B) shall be apportioned equally among such proper payees.
 
@@ -188,4 +188,4 @@
 
 (5) Notwithstanding the adjustment process detailed in this paragraph (k), the parties and the mechanical licensing collective may voluntarily agree to an alternative adjustment process.
 
-[85 FR 58165, Sept. 17, 2020, as amended at 89 FR 56612, July 9, 2024; 89 FR 57093, July 12, 2024]
+[85 FR 58165, Sept. 17, 2020, as amended at 89 FR 56612, July 9, 2024; 89 FR 57093, July 12, 2024; 89 FR 70497, Aug. 30, 2024]

@@ -1,5 +1,7 @@
 ##### § 250.518 Tubing and wellhead equipment. #####
 
+Link to an amendment published at 89 FR 71120, Aug. 30, 2024.
+
 (a) No tubing string shall be placed in service or continue to be used unless such tubing string has the necessary strength and pressure integrity and is otherwise suitable for its intended use.
 
 (b) When the tree is installed, you must equip wells to monitor for casing pressure according to the following chart:

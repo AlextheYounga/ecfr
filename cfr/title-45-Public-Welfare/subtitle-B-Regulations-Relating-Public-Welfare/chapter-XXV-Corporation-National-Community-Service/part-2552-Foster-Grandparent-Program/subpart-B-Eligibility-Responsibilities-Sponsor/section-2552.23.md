@@ -1,5 +1,7 @@
 ##### § 2552.23 What are a sponsor's project responsibilities? #####
 
+Link to an amendment published at 89 FR 70543, Aug. 30, 2024.Link to an amendment published at 89 FR 70544, Aug. 30, 2024.
+
 A sponsor shall:
 
 (a) Focus Foster Grandparent resources, within the project's service area, on providing supportive services and companionship to children with special and exceptional needs, or in circumstances that limit their academic, social or emotional development.

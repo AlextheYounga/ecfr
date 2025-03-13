@@ -1,5 +1,7 @@
 ##### § 2553.71 What is the process for application and award of a grant? #####
 
+Link to an amendment published at 89 FR 70545, Aug. 30, 2024.
+
 As funds become available, CNCS solicits application for RSVP grants from eligible organizations through a competitive process.
 
 (a) *What are the application requirements for an RSVP grant?* An applicant must:

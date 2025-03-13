@@ -1,5 +1,7 @@
 ##### § 2553.72 What are project funding requirements? #####
 
+Link to an amendment published at 89 FR 70545, Aug. 30, 2024.
+
 (a) *Is non-CNCS support required?* (1) A CNCS grant may be awarded to fund up to 90 percent of the total project cost in the first year, 80 percent in the second year, and 70 percent in the third and succeeding years.
 
 (2) A sponsor is responsible for identifying non-CNCS funds which may include in-kind contributions.

@@ -1,5 +1,7 @@
 ##### § 2551.91 What is the process for application and award of a grant? #####
 
+Link to an amendment published at 89 FR 70542, Aug. 30, 2024.
+
 (a) *How and when may an eligible organization apply for a grant?* (1) An eligible organization may file an application in response to CNCS' published request, such as a Notice of Funding Opportunity or a Notice of Funding Availability. Applicants are not assured of selection or approval and may have to compete with other applicants.
 
 (2) The applicant shall comply with the provisions of Executive Order 12372, “Intergovernmental Review of Federal Programs,” (3 CFR, 1982 Comp., p. 197) in 45 CFR part 1233 and any other applicable requirements.

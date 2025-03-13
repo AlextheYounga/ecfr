@@ -1,5 +1,7 @@
 ##### § 2551.46 What cost reimbursements are provided to Senior Companions? #####
 
+Link to an amendment published at 89 FR 70542, Aug. 30, 2024.
+
 Cost reimbursements and benefits provided by sponsors include:
 
 (a) *Stipend.* The stipend is paid for the time Senior Companions spend with their assigned clients, for earned leave, and for attendance at official project events.

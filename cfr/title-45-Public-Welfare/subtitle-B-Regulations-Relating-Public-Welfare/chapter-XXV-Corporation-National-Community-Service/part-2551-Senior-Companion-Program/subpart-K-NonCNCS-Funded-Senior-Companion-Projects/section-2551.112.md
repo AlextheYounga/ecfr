@@ -1,5 +1,7 @@
 ##### § 2551.112 What are the resources and benefits to which a non-CNCS funded project is entitled? #####
 
+Link to an amendment published at 89 FR 70542, Aug. 30, 2024.
+
 The Notice of Grant Award entitles the sponsor of a Non-CNCS funded project to:
 
 (a) All technical assistance and materials provided to CNCS funded Senior Companion projects; and
