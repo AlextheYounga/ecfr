@@ -28,7 +28,7 @@
 
 (ii) A record of your application of the kill step;
 
-(4) Food that you change such that the food is no longer on the Food Traceability List, provided that you maintain records containing the information specified in § 1.1345 for your receipt of the food you change;
+(4) Food that you change such that the food is no longer on the Food Traceability List, provided that you maintain records containing the information specified in § 1.1345 for your receipt of the food you change (unless you have entered into a written agreement concerning your changing of the food such that the food is no longer on the Food Traceability List in accordance with paragraph (d)(6) of this section);
 
 (5) Food that you receive that has previously been subjected to a kill step or that has previously been changed such that the food is no longer on the Food Traceability List;
 
@@ -105,3 +105,5 @@
 (1) Is not intended for retail sale and is not sold or distributed to the public; and
 
 (2) Is accompanied by the statement “Food for research or evaluation use.”
+
+[87 FR 71077, Nov. 21, 2022, as amended at 88 FR 65815, Sept. 26, 2023]

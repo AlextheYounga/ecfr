@@ -1,6 +1,6 @@
 ##### § 622.190 Quotas. #####
 
-Link to an amendment published at 88 FR 65146, Sept. 21, 2023.
+Link to an amendment published at 88 FR 65146, Sept. 21, 2023.Link to an amendment published at 88 FR 65822, Sept. 26, 2023.
 
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. This section provides quotas and specific quota closure restrictions for South Atlantic snapper-grouper.
 

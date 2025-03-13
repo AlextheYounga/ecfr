@@ -1,5 +1,7 @@
 ##### § 429.42 Commercial refrigerators, freezers, and refrigerator-freezers. #####
 
+Link to an amendment published at 88 FR 66221, Sept. 26, 2023.
+
 (a) *Determination of represented value.* Manufacturers must determine the represented value, which includes the certified rating, for each basic model of commercial refrigerator, freezer, or refrigerator-freezer either by testing, in conjunction with the applicable sampling provisions, or by applying an AEDM.
 
 (1) *Units to be tested.* (i) If the represented value for a given basic model is determined through testing, the general requirements of § 429.11 are applicable; and

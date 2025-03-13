@@ -1,5 +1,7 @@
 ##### § 245.9 Special assistance certification and reimbursement alternatives. #####
 
+Link to an amendment published at 88 FR 65794, Sept. 26, 2023.
+
 (a) *Provision 1.* A Local educational agency of a school having at least 80 percent of its enrolled children determined eligible for free or reduced price meals may, at its option, authorize the school to reduce annual certification and public notification for those children eligible for *free meals* to once every two consecutive school years. This alternative shall be known as provision 1 and the following requirements shall apply:
 
 (1) A Local educational agency of a school operating under provision 1 requirements shall publicly notify in accordance with § 245.5, parents of enrolled children who are receiving free meals once every two consecutive school years, and shall publicly notify in accordance with § 245.5, parents of all other enrolled children on an annual basis.

@@ -1,61 +1,31 @@
-##### § 1700.6 Fees for records services. #####
+##### § 1700.6 Time frames for ODNI responses. #####
 
-(a) *In general.* Search, review, and reproduction fees will be charged in accordance with the provisions below relating to schedule, limitations, and category of requester. Applicable fees will be due even if a subsequent search locates no responsive records or some or all of the responsive records must be denied under one or more of the exemptions of the FOIA.
+(a) ODNI will ordinarily respond to requests according to their order of receipt.
 
-(b) *Fee waiver requests.* Records will be furnished without charge or at a reduced rate when ODNI determines:
+(b) When evaluating requests, ODNI may use two or more processing tracks by distinguishing between simple and more complex requests based on the amount of work or time needed to process the request.
 
-(1) As a matter of administrative discretion, the interest of the United States Government would be served, *or*
+(c) Subject to paragraphs (e) and (f) of this section, ODNI will respond to a FOIA request within 20 days after receipt of the request. A request is received by ODNI, for purposes of commencing the 20-day time frame for its response, on the day that the request is received by the IMO or, in any event, not later than ten days after the request is first received by any ODNI component.
 
-(2) It is in the public interest to provide responsive records because the disclosure is likely to contribute *significantly* to the public understanding of the operations or activities of the United States Government and is not primarily in the commercial interest of the requester.
+(d) ODNI must determine whether to grant or deny, in whole or in part, an administrative appeal submitted in accordance with § 1700.7 within 20 days after receipt of the appeal, unless the time frame for a response to an appeal is extended in accordance with paragraph (e) of this section.
 
-(c) *Fee waiver appeals.* Denials of requests for fee waivers or reductions may be appealed to the Director of the Intelligence Staff, or his functional equivalent, through the ODNI Chief FOIA Officer. A requester is encouraged to provide any explanation or argument as to how his or her request satisfies the requirements of this regulation and the Act. See § 1700.14 for further details on appeals.
+(e) ODNI may toll the 20-day time frame set forth in paragraph (c) or (d) of this section for one of the two reasons cited below, as permitted by 5 U.S.C. 552(a)(6)(A)(ii). If ODNI tolls the time frame, the tolling period ends upon receipt of the requester's response.
 
-(d) *Time for fee waiver requests and appeals.* Appeals should be resolved prior to the initiation of processing and the incurring of costs. However, fee waiver requests will be accepted at any time prior to an agency decision regarding the request, except when processing has been initiated, in which case the requester must agree to be responsible for costs in the event of an adverse administrative or judicial decision.
+(1) Once, to await information that the ODNI has reasonably requested from the requester; or
 
-(e) *Agreement to pay fees.* If you make a FOIA request, it shall be considered a firm commitment by you to pay all applicable fees chargeable under this regulation, up to and including the amount of $25.00, unless you ask for a waiver of fees. When making a request, you may specify a willingness to pay a greater or lesser amount.
+(2) As necessary, to clarify with the requester issues regarding the fee assessment.
 
-(f) *Advance payment.* The ODNI may require an advance payment of up to 100 percent of the estimated fees when projected fees exceed $250.00, not including charges associated with the first 100 pages of production and two hours of search (when applicable), or when the requester previously failed to pay fees in a timely fashion, for fees of any amount. ODNI will hold in abeyance for 45 days those requests where advance payment has been requested.
+(f) Whenever the statutory time limit for processing a request cannot be met because of “unusual circumstances,” as defined in the FOIA, and ODNI extends the time limit on that basis, ODNI will notify the requester in writing, before expiration of the 20-day period to respond, of the unusual circumstances involved and of the date by which processing of the request can be expected to be completed. Where the extension exceeds 10 days, ODNI shall, as described by the FOIA, provide the requester with an opportunity to modify the request or arrange an alternative time period for processing. ODNI shall make available its designated FOIA contact and its FOIA Public Liaison for this purpose and notify the requester of the dispute resolution services offered by OGIS.
 
-(g) *Schedule of fees*—(1) *In general.* The schedule of fees for services performed in responding to requests for records is as follows:
+(g) For the purposes of satisfying unusual circumstances under the FOIA, ODNI may aggregate requests in cases where it reasonably appears that multiple requests, submitted either by a requester or by a group of requesters acting in concert, constitute a single request that would otherwise involve unusual circumstances. ODNI will notify the requester(s) of the decision to aggregate.
 
-| Personnel Search and Review  |             |     |
-|:----------------------------:|-------------|-----|
-|      Clerical/Technical      |Quarter hour |$5.00|
-|   Professional/Supervisory   |Quarter hour |10.00|
-| Manager/Senior Professional  |Quarter hour |18.00|
-|Computer Search and Production|             |     |
-|       Search (on-line)       |  Flat rate  |10.00|
-|      Search (off-line)       |  Flat rate  |30.00|
-|        Other activity        | Per minute  |10.00|
-|  Tapes (mainframe cassette)  |    Each     |9.00 |
-| Tapes (mainframe cartridge)  |    Each     |9.00 |
-|    Tapes (mainframe reel)    |    Each     |20.00|
-|        Tapes (PC 9mm)        |    Each     |25.00|
-|       Diskette (3.5″)        |    Each     |4.00 |
-|      CD (bulk recorded)      |    Each     |10.00|
-|       CD (recordable)        |    Each     |20.00|
-|      Telecommunications      | Per minute  | .50 |
-|  Paper (mainframe printer)   |  Per page   | .10 |
-| Paper (PC b&w laser printer) |  Per page   | .10 |
-|   Paper (PC color printer)   |  Per page   |1.00 |
-|       Paper Production       |             |     |
-|Photocopy (standard or legal) |  Per page   | .10 |
-|          Microfiche          |  Per frame  | .20 |
-|  Pre-printed (if available)  |Per 100 pages|5.00 |
-|   Published (if available)   |  Per item   |NTIS |
+(h) Requests and appeals shall be processed on an expedited basis whenever it is determined that they involve a compelling need. For this purpose, a “compelling need” involves either:
 
-(2) *Application of schedule.* Personnel search time includes time expended in manual paper records searches, indices searches, review of computer search results for relevance, and personal computer system searches. In any event where the actual cost to ODNI of a particular item is less than the above schedule (e.g., a large production run of a document resulting in a cost less than $5.00 per hundred pages), then the actual lesser cost will be charged.
+(1) Circumstances in which the lack of expedited treatment could reasonably be expected to pose an imminent threat to the life or physical safety of an individual; or
 
-(3) *Other services.* For all other types of output, production, or reproduction (e.g., photographs, maps, or published reports), ODNI will charge actual cost or amounts authorized by statute. Determinations of actual cost shall include the commercial cost of the media, the personnel time expended in making the item to be released, and an allocated cost of the equipment used in making the item, or, if the production is effected by a commercial service, then that charge shall be deemed the actual cost for purposes of this regulation.
+(2) An urgency to inform the public about an actual or alleged Federal Government activity, if made by a person who is primarily engaged in disseminating information.
 
-(h) *Limitations on collection of fees*—(1) *In general.* No fees will be charged if the cost of collecting the fee is equal to or greater than the fee itself. That cost includes the administrative costs to ODNI of billing, receiving, recording, and processing the fee for deposit to the Treasury Department and, as of the date of these regulations, is deemed to be $10.00.
+(i) A request for expedited processing must be in writing and may be made at any time.
 
-(i) *Fee categories.* There are four categories of FOIA requesters for fee purposes: Commercial use requesters, educational and non-commercial scientific institution requesters, representatives of the news media requesters, and all other requesters. The categories are defined in § 1700.2 and applicable fees will be assessed as follows:
+(j) A requester who seeks expedited processing must submit a statement, certified to be true and correct, explaining in detail the basis for making the request for expedited processing. Under this paragraph (h), a requester who is not a full-time member of the news media must establish that the requester is a person whose primary professional activity or occupation is information dissemination, though it need not be the requester's sole occupation. Such a requester also must establish a particular urgency to inform the public about the government activity involved in the request—an urgency that extends beyond the public's right to know about government activity generally. The existence of numerous articles published on a given subject can be helpful in establishing the requirement that there be an “urgency to inform” the public on the topic. As a matter of administrative discretion, ODNI may waive the formal certification requirement.
 
-(1) Commercial use requesters: Charges which recover the full direct costs of searching for, reviewing, and duplicating responsive records (if any);
-
-(2) Educational and non-commercial scientific institution requesters, and representatives of the news media requesters: Only charges for reproduction beyond the first 100 pages;
-
-(3) All other requesters: Charges which recover the full direct cost of searching for and reproducing responsive records (if any) beyond the first 100 pages of reproduction and the first two hours of search time which will be furnished without charge.
-
-(j) *Associated requests.* If it appears a requester or a group of requesters acting in concert have requested portions of an apparently unitary request for the purpose of avoiding the assessment of fees, ODNI may aggregate any such requests and charge accordingly. Requests from multiple requesters will not be aggregated without clear evidence. ODNI will not aggregate multiple unrelated requests.
+(k) The IMO will decide within 10 days of its receipt of a request for expedited processing of its decision whether to grant or deny such a request. If expedited processing is granted, the request shall be given priority, placed in the processing track for expedited requests, and shall be processed as soon as practicable. If a request for expedited processing is denied, any appeal of that decision shall be acted on expeditiously.

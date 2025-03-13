@@ -68,8 +68,8 @@ Utilization of Small Business Concerns (SEP 2023)
 
 (3) The Contractor may not require the use of SAM for the purposes of representing size or socioeconomic status in connection with a subcontract.
 
-(4) In accordance with 13 CFR 121.411, 124.1015, 125.29, 126.900, and 127.700, a contractor acting in good faith is not liable for misrepresentations made by its subcontractors regarding the subcontractor's size or socioeconomic status.
+(4) In accordance with 13 CFR 121.411, 126.900, 127.700, and 128.600, a contractor acting in good faith is not liable for misrepresentations made by its subcontractors regarding the subcontractor's size or socioeconomic status.
 
 (5) The Contractor shall confirm that a subcontractor representing itself as a HUBZone small business concern is certified by SBA as a HUBZone small business concern by accessing SAM or by accessing DSBS at *https://web.sba.gov/pro-net/search/dsp\_dsbs.cfm.* If the subcontractor is a joint venture, the Contractor shall confirm that at least one party to the joint venture is certified by SBA as a HUBZone small business concern. The Contractor may confirm the representation by accessing SAM.
 
-(End of clause)[63 FR 70275, Dec. 18, 1998, as amended at 64 FR 3196, Jan. 20, 1999; 64 FR 10549, Mar. 4, 1999; 64 FR 32749, June 17, 1999; 64 FR 36224, July 2, 1999; 65 FR 60546, Oct. 11, 2000; 69 FR 25279, May 5, 2004; 75 FR 77739, Dec. 13, 2010; 75 FR 77733, Dec. 13, 2010; 78 FR 37683, June 21, 2013; 79 FR 24217, Apr. 29, 2014; 79 FR 61753, Oct. 14, 2014; 81 FR 45846, July 14, 2016; 83 FR 48700, Sept. 26, 2018; 87 FR 58226, 58237, Sept. 23, 2022; 88 FR 53753, Aug. 8, 2023]
+(End of clause)[63 FR 70275, Dec. 18, 1998]Editorial Note:For Federal Register citations affecting 52.219-8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
