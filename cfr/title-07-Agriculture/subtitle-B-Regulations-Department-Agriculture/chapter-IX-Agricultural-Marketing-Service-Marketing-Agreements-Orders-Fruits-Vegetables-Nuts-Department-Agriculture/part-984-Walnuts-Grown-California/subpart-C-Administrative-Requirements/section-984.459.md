@@ -1,5 +1,7 @@
 ##### § 984.459 Reports of interhandler transfers. #####
 
+Link to an amendment published at 88 FR 56750, Aug. 21, 2023.
+
 (a) Any handler who transfers walnuts to another handler within the State of California shall submit to the Board, not later than 10 calendar days following such transfer, a report showing the following:
 
 (1) The date of transfer;

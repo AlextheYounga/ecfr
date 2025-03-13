@@ -14,4 +14,6 @@ Link to an amendment published at 88 FR 40118, June 21, 2023.
 
 (2) Maintain and be ready to provide the Commission on request with documented proof that it is participating, either on its own or through a representative, including third party representatives, as a member of a working group, industry standards group, or consortium that is working to develop a non-internet Protocol caller identification authentication solution, or actively testing such a solution.
 
-[87 FR 42946, July 18, 2022, as amended at 87 FR 75944, Dec. 12, 2022]
+(c) [Reserved]
+
+[87 FR 42946, July 18, 2022, as amended at 87 FR 75944, Dec. 12, 2022; 88 FR 40118, June 21, 2023]

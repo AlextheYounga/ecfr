@@ -1,5 +1,7 @@
 ##### § 984.89 Effective time and termination. #####
 
+Link to an amendment published at 88 FR 56750, Aug. 21, 2023.
+
 (a) *Effective time.* The provisions of this subpart shall become effective at such time as the Secretary may declare above his signature attached to this subpart, and shall continue in force until terminated in one of the ways hereinafter specified.
 
 (b) *Termination.* (1) The Secretary may, at any time, terminate the provisions of this subpart by giving at least one day's notice by means of a press release or in any other manner which he may determine.

@@ -1,7 +1,5 @@
 ##### § 240.17a-4 Records to be preserved by certain exchange members, brokers and dealers. #####
 
-Link to an amendment published at 88 FR 39994, June 20, 2023.
-
 This section applies to the following types of entities: A member of a national securities exchange who transacts a business in securities directly with others than members of a national securities exchange; a broker or dealer who transacts a business in securities through the medium of a member of a national securities exchange; a broker or dealer, including an *OTC derivatives dealer* as that term is defined in § 240.3b-12, registered pursuant to section 15 of the Act (15 U.S.C. 78*o*); a security-based swap dealer registered pursuant to section 15F of the Act (15 U.S.C. 78*o*-10) that is also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act; and a major security-based swap participant registered pursuant to section 15F of the Act that is also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act. Section 240.18a-6 (rather than this section) applies to the following types of entities: A security-based swap dealer registered pursuant to section 15F of the Act that is not also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act; and a major security-based swap participant registered pursuant to section 15F of the Act that is not also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act.
 
 (a) Every member, broker or dealer subject to § 240.17a-3 must preserve for a period of not less than 6 years, the first two years in an easily accessible place, all records required to be made pursuant to § 240.17a-3(a)(1) through (3), (5), and (21) and (22), and analogous records created pursuant to § 240.17a-3(e).
@@ -73,6 +71,8 @@ This section applies to the following types of entities: A member of a national 
 (15) Copies of documents, communications, disclosures, and notices related to business conduct standards as required under §§ 240.15Fh-1 through 240.15Fh-6 and 240.15Fk-1.
 
 (16) Copies of documents used to make a reasonable determination with respect to special entities, including information relating to the financial status, the tax status, the investment or financing objectives of the special entity as required under section 15F(h)(4)(C) and (5)(A) of the Act (15 U.S.C. 78*o*-10(h)(4)(C) and (5)(A)).
+
+(17) The written probability of default determination, relied upon by such broker or dealer, pursuant to § 242.101(c)(2)(i) or § 242.102(d)(2)(i) of this chapter (Rule 101 or Rule 102 of Regulation M), as applicable.
 
 (c) Every member, broker or dealer subject to § 240.17a-3 must preserve for a period of not less than six years after the closing of any customer's account any account cards or records which relate to the terms and conditions with respect to the opening and maintenance of the account.
 

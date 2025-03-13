@@ -1,5 +1,7 @@
 ##### § 984.451 Inspection and certification of inshell and shelled walnuts. #####
 
+Link to an amendment published at 88 FR 56750, Aug. 21, 2023.
+
 (a) The inspection service shall be the DFA of California.
 
 (b) Each handler shall make each container of each lot of walnuts accessible for sampling and sealing or stamping in connection with the inspection and certification of any lot of inshell or shelled walnuts.

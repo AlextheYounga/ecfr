@@ -1,5 +1,7 @@
 ##### § 984.476 Report of walnut receipts from outside of the United States. #####
 
+Link to an amendment published at 88 FR 56750, Aug. 21, 2023.
+
 Each handler who receives walnuts from outside of the United States shall file with the Board, on CWB Form No. 7, a report of the receipt of such walnuts. The report shall be filed as follows: On or before December 5 for such walnuts received during the period September 1 to November 30; on or before March 5 for such walnuts received during the period December 1 to February 28 (February 29 in a leap year); on or before June 5 for such walnuts received during the period March 1 to May 31; and on or before September 5 for such walnuts received during the period June 1 to August 31. The report shall include the quantity of such walnuts received, the country of origin for such walnuts, and whether such walnuts are inshell or shelled. With each report, the handler shall submit a copy of a product tag issued by a DFA of California inspector for each receipt of such walnuts that includes the name of the person from whom such walnuts were received, the date such walnuts were received by the handler, the number of containers and the U.S. Custom's Service entry number, whether such walnuts are inshell or shelled, the quantity of such walnuts received, the country of origin for such walnuts, the name of the DFA of California inspector who issued the product tag, and the date such tag was issued.
 
 [74 FR 56696, Nov. 3, 2009]

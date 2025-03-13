@@ -1,7 +1,5 @@
 ##### § 64.6302 Caller ID authentication by intermediate providers. #####
 
-Link to an amendment published at 88 FR 40118, June 21, 2023.
-
 Not later than June 30, 2021, each intermediate provider shall fully implement the STIR/SHAKEN authentication framework in its internet Protocol networks. To fulfill this obligation, an intermediate provider shall:
 
 (a) Pass unaltered to the subsequent intermediate provider or voice service provider in the call path any authenticated caller identification information it receives with a SIP call, subject to the following exceptions under which it may remove the authenticated caller identification information:
@@ -18,4 +16,6 @@ Not later than June 30, 2021, each intermediate provider shall fully implement t
 
 (c) Notwithstanding paragraph (b) of this section, a gateway provider must, not later than June 30, 2023, authenticate caller identification information for all calls it receives that use North American Numbering Plan resources that pertain to the United States in the caller ID field and for which the caller identification information has not been authenticated and which it will exchange with another provider as a SIP call, unless that gateway provider is subject to an applicable extension in § 64.6304.
 
-[85 FR 73395, Nov. 17, 2020, as amended at 87 FR 42946, July 18, 2022]
+(d) Notwithstanding paragraph (b) of this section, a non-gateway intermediate provider must, not later than December 31, 2023, authenticate caller identification information for all calls it receives directly from an originating provider and for which the caller identification information has not been authenticated and which it will exchange with another provider as a SIP call, unless that non-gateway intermediate provider is subject to an applicable extension in § 64.6304.
+
+[85 FR 73395, Nov. 17, 2020, as amended at 87 FR 42946, July 18, 2022; 88 FR 40118, June 21, 2023]

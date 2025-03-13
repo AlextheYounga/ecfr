@@ -1,5 +1,7 @@
 ##### § 984.67 Exemptions. #####
 
+Link to an amendment published at 88 FR 56749, Aug. 21, 2023.
+
 (a) Exemption from volume regulation. Reserve percentages shall not apply to lots of merchantable inshell walnuts which are of jumbo size or larger as defined in the then effective United States Standards for Walnuts in the Shell, or to such quantities as the Board may, with the approval of the Secretary, prescribe.
 
 (b) *Exemptions from assessments and quality regulations*—(1) *Sales by growers direct to consumers.* Any walnut grower may handle walnuts of his production free of the regulatory and assessment provisions of this part if he sells such walnuts in the area of production directly to consumers under the following types of exemptions:

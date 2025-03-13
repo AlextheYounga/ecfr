@@ -6,4 +6,4 @@
 
 (c) The provisions of this section shall not apply to any equity security issued by a partnership as defined in rule 901(b) of Regulation S-K (§ 229.901(b) of this chapter).
 
-[70 FR 70862, Dec. 7, 2004]
+[69 FR 70862, Dec. 7, 2004]

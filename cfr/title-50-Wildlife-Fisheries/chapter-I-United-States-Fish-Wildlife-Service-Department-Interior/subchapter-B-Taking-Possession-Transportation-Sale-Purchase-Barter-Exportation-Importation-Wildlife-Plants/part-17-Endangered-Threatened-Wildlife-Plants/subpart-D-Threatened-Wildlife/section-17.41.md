@@ -1,7 +1,5 @@
 ##### § 17.41 Special rules—birds. #####
 
-Link to an amendment published at 88 FR 46949, July 20, 2023.
-
 (a) Streaked horned lark (*Eremophila alpestris strigata*).
 
 (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to streaked horned lark. Except as provided under paragraph (a)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
@@ -278,7 +276,61 @@ Figure 1 to paragraph (k)![](/graphics/er25no22.032.gif)
 
 (*4*) Other routine activities required to implement managed grazing, including but not limited to feeding, monitoring, and moving of livestock.
 
-(l) [Reserved]
+(l) Cactus ferruginous pygmy-owl *(Glaucidium brasilianum cactorum).* (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the cactus ferruginous pygmy-owl. Except as provided under paragraphs (l)(2) and (3) of this section and §§ 17.4, 17.5, and 17.7, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this subspecies:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *General exception*s *from prohibitions.* In regard to this subspecies, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (4) for endangered wildlife, and (c)(6) and (7) for endangered migratory birds.
+
+(iii) Take as set forth at § 17.31(b).
+
+(iv) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife and (d)(3) and (4) for endangered migratory birds.
+
+(3) *Exceptions from prohibitions for specific types of incidental take.* You may take cactus ferruginous pygmy-owl while carrying out the following legally conducted activities in accordance with this paragraph (l)(3):
+
+(i) Educational and outreach activities that have been coordinated with the Service no later than 60 calendar days prior to the initiation of the proposed activity, provided the researcher already holds an appropriate, valid permit issued under part 21 of this chapter, which governs species protected under the Migratory Bird Treaty Act, for educational activities involving the use of live pygmy-owls, zoological exhibitions, pygmy-owl skins, or parts of pygmy-owls or other raptors.
+
+(ii) Specific surveying and monitoring activities within the State of Arizona that do not include handling of pygmy-owls (*e.g.,* call playback, visual observation, collection of feathers in nests or on the ground, and camera monitoring) and only if they are conducted under a valid scientific activity license issued by the Arizona Game and Fish Department.
+
+(A) Data collected must be submitted to the Arizona Game and Fish Department for inclusion in their Heritage Data Management System.
+
+(B) Call playback surveys and monitoring must follow the most current, Service-approved protocol.
+
+(C) Surveying and monitoring activities must be associated with a legitimate scientific project or regulatory compliance activity.
+
+(iii) Habitat restoration and enhancement activities and projects that are coordinated with and approved by the Service no later than 60 calendar days prior to the initiation of the proposed activity.
+
+(A) These activities and projects may include activities that enhance cactus ferruginous pygmy-owl habitat conditions; improve ecosystem health and sustainability within the range of the pygmy-owl; improve habitat connectivity; increase availability of nest cavities; increase prey availability; reduce or control invasive, nonnative plant species; and enhance native plant communities, particularly woodland riparian communities.
+
+(B) These activities and projects do not include prescribed fire within Sonoran Desert vegetation communities (unless these activities and projects occur in vegetation community transition areas and are coordinated with and approved by the Service), actions that would result in more than a minimal reduction or removal of tree cover (as determined through coordination with and approved by the Service and generally involving no more than a 30 percent reduction in tree cover) such as fuels management or roadway vegetation management, land development, or actions that use or promote nonnative vegetation species.
+
+(iv) For all forms of allowable take, reasonable care must be practiced to minimize the impacts from the actions. Reasonable care means:
+
+(A) Limiting the impacts to cactus ferruginous pygmy-owl individuals and populations by complying with all applicable Federal, State, and Tribal regulations for the activity in question;
+
+(B) Using methods and techniques that result in the least harm, injury, or death, as feasible;
+
+(C) Undertaking activities when and where they have the least impact (*e.g.,* conducting activities that might impact nesting cactus ferruginous pygmy-owls or nesting habitat only after nesting is concluded for the year), as feasible;
+
+(D) Procuring and implementing technical assistance from a qualified biologist on all methods and techniques used for a project prior to their implementation;
+
+(E) Minimizing the number of individual pygmy-owls disturbed in the existing wild population;
+
+(F) Implementing best management practices to ensure no diseases or parasites are introduced into existing cactus ferruginous pygmy-owl populations; and
+
+(G) Preserving the genetic diversity of wild populations.
 
 (m) Emperor penguin (*Aptenodytes forsteri*)—(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the emperor penguin. Except as provided under paragraph (m)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
 
@@ -310,4 +362,4 @@ Figure 1 to paragraph (k)![](/graphics/er25no22.032.gif)
 
 (vii) Conduct activities as authorized by a captive-bred wildlife registration under § 17.21(g) for endangered wildlife.
 
-[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6311, Feb. 26, 2019; 84 FR 69946, Dec. 19, 2019; 85 FR 22663, Apr. 23, 2020; 85 FR 63830, Oct. 8, 2020; 87 FR 21811, Apr. 13, 2022; 87 FR 64720, Oct. 26, 2022; 87 FR 72753, Nov. 25, 2022; 87 FR 73971, Dec. 2, 2022]
+[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6311, Feb. 26, 2019; 84 FR 69946, Dec. 19, 2019; 85 FR 22663, Apr. 23, 2020; 85 FR 63830, Oct. 8, 2020; 87 FR 21811, Apr. 13, 2022; 87 FR 64720, Oct. 26, 2022; 87 FR 72753, Nov. 25, 2022; 87 FR 73971, Dec. 2, 2022; 88 FR 46949, July 20, 2023]

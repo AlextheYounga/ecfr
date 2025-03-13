@@ -1,7 +1,5 @@
 ##### § 242.101 Activities by distribution participants. #####
 
-Link to an amendment published at 88 FR 39994, June 20, 2023.
-
 (a) *Unlawful Activity.* In connection with a distribution of securities, it shall be unlawful for a distribution participant or an affiliated purchaser of such person, directly or indirectly, to bid for, purchase, or attempt to induce any person to bid for or purchase, a covered security during the applicable restricted period; *Provided, however,* That if a distribution participant or affiliated purchaser is the issuer or selling security holder of the securities subject to the distribution, such person shall be subject to the provisions of § 242.102, rather than this section.
 
 (b) *Excepted Activity.* The following activities shall not be prohibited by paragraph (a) of this section:
@@ -36,7 +34,9 @@ Link to an amendment published at 88 FR 39994, June 20, 2023.
 
 (1) *Actively-traded securities.* Securities that have an ADTV value of at least $1 million and are issued by an issuer whose common equity securities have a public float value of at least $150 million; *Provided, however,* That such securities are not issued by the distribution participant or an affiliate of the distribution participant; or
 
-(2) *Investment grade nonconvertible and asset-backed securities.* Nonconvertible debt securities, nonconvertible preferred securities, and asset-backed securities, that are rated by at least one nationally recognized statistical rating organization, as that term is used in § 240.15c3-1 of this chapter, in one of its generic rating categories that signifies investment grade; or
+(2) *Certain nonconvertible and asset-backed securities.* (i) Nonconvertible debt securities and nonconvertible preferred securities of issuers for which the probability of default, estimated as of the sixth business day immediately preceding the determination of the offering price and over the horizon of 12 full calendar months from such day, is 0.055% or less, as determined and documented, in writing, by the distribution participant acting as the lead manager (or in a similar capacity) of a distribution, as derived from a structural credit risk model; or
+
+(ii) Asset-backed securities that are offered pursuant to an effective shelf registration statement filed on Form SF-3 (§ 239.45 of this chapter); or
 
 (3) *Exempted securities.* “Exempted securities” as defined in section 3(a)(12) of the Exchange Act (15 U.S.C. 78c(a)(12)); or
 
@@ -44,4 +44,4 @@ Link to an amendment published at 88 FR 39994, June 20, 2023.
 
 (d) *Exemptive authority.* Upon written application or upon its own motion, the Commission may grant an exemption from the provisions of this section, either unconditionally or on specified terms and conditions, to any transaction or class of transactions, or to any security or class of securities.
 
-[62 FR 544, Jan. 3, 1997, as amended at 77 FR 18685, Mar. 28, 2012; 78 FR 44805, July 24, 2013; 83 FR 64222, Dec. 13, 2018]
+[62 FR 544, Jan. 3, 1997, as amended at 77 FR 18685, Mar. 28, 2012; 78 FR 44805, July 24, 2013; 83 FR 64222, Dec. 13, 2018; 88 FR 39994, June 20, 2023]

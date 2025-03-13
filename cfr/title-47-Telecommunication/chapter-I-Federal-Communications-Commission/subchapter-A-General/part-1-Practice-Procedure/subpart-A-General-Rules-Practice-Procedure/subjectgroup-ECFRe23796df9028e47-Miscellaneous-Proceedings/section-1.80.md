@@ -1,7 +1,5 @@
 ##### § 1.80 Forfeiture proceedings. #####
 
-Link to an amendment published at 88 FR 40116, June 21, 2023.
-
 (a) *Persons against whom and violations for which a forfeiture may be assessed.* A forfeiture penalty may be assessed against any person found to have:
 
 (1) Willfully or repeatedly failed to comply substantially with the terms and conditions of any license, permit, certificate, or other instrument of authorization issued by the Commission;
@@ -42,15 +40,17 @@ A forfeiture penalty assessed under this section is in addition to any other pen
 
 (8) *Forfeiture penalty for a section 6507(b)(5) Tax Relief Act violation.* If a violator uses automatic dialing equipment to contact a telephone number on the Do-Not-Call registry of public safety answering points, in violation of section 6507(b)(5) of the Middle Class Tax Relief and Job Creation Act of 2012 or the Commission's implementing rules in 47 CFR part 64, the monetary penalty for contacting such a telephone number shall be not less than $12,760 per call nor more than $127,602 per call depending on whether the violation was negligent, grossly negligent, reckless, or willful, and depending on whether the violation was a first or subsequent offense.
 
-(9) *Maximum forfeiture penalty for any case not previously covered.* In any case not covered in paragraphs (b)(1) through (8) of this section, the amount of any forfeiture penalty determined under this section shall not exceed $23,727 for each violation or each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $177,951 for any single act or failure to act described in paragraph (a) of this section.
+(9) *Forfeiture penalty for a failure to block.* Any person determined to have failed to block illegal robocalls pursuant to §§ 64.6305(g) and 64.1200(n) of this chapter shall be liable to the United States for a forfeiture penalty of no more than $23,727 for each violation, to be assessed on a per-call basis.
 
-(10) *Factors considered in determining the amount of the forfeiture penalty.* In determining the amount of the forfeiture penalty, the Commission or its designee will take into account the nature, circumstances, extent and gravity of the violations and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
+(10) *Maximum forfeiture penalty for any case not previously covered.* In any case not covered in paragraphs (b)(1) through (9) of this section, the amount of any forfeiture penalty determined under this section shall not exceed $23,727 for each violation or each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $177,951 for any single act or failure to act described in paragraph (a) of this section.
 
-Table 1 to Paragraph (b)(10)—Base Amounts for Section 503 Forfeitures
+(11) *Factors considered in determining the amount of the forfeiture penalty.* In determining the amount of the forfeiture penalty, the Commission or its designee will take into account the nature, circumstances, extent and gravity of the violations and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
+
+Table 1 to Paragraph (b)(11)—Base Amounts for Section 503 Forfeitures
 
 |                                                  Forfeitures                                                   |Violation  <br/>amount|
 |----------------------------------------------------------------------------------------------------------------|----------------------|
-|                                        Misrepresentation/lack of candor                                        |         (1)          |
+|                                        Misrepresentation/lack of candor                                        |    (<sup>1</sup>)    |
 |Failure to file required DODC required forms, and/or filing materially inaccurate or incomplete DODC information|       $15,000        |
 |              Construction and/or operation without an instrument of authorization for the service              |        10,000        |
 |                           Failure to comply with prescribed lighting and/or marking                            |        10,000        |
@@ -71,7 +71,7 @@ Table 1 to Paragraph (b)(10)—Base Amounts for Section 503 Forfeitures
 |                                     Unauthorized discontinuance of service                                     |        5,000         |
 |                                         Use of unauthorized equipment                                          |        5,000         |
 |                                             Exceeding power limits                                             |        4,000         |
-|                                Failure to respond to Commission communications                                 |        4,000         |
+|                                Failure to Respond to Commission communications                                 |        4,000         |
 |                                    Violation of sponsorship ID requirements                                    |        4,000         |
 |                                             Unauthorized emissions                                             |        4,000         |
 |                                          Using unauthorized frequency                                          |        4,000         |
@@ -80,12 +80,13 @@ Table 1 to Paragraph (b)(10)—Base Amounts for Section 503 Forfeitures
 |                 Violation of requirements pertaining to broadcasting of lotteries or contests                  |        4,000         |
 |                           Violation of transmitter control and metering requirements                           |        3,000         |
 |                                 Failure to file required forms or information                                  |        3,000         |
+|                               Per call violations of the robocall blocking rules                               |        2,500         |
 |                      Failure to make required measurements or conduct required monitoring                      |        2,000         |
 |                                         Failure to provide station ID                                          |        1,000         |
 |                                   Unauthorized pro forma transfer of control                                   |        1,000         |
 |                                      Failure to maintain required records                                      |        1,000         |
 
-Table 2 to Paragraph (b) (10)—Violations Unique to the Service
+Table 2 to Paragraph (b)(11)—Violations Unique to the Service
 
 |                             Violation                              |Services affected|Amount |
 |--------------------------------------------------------------------|-----------------|-------|
@@ -104,7 +105,7 @@ Table 2 to Paragraph (b) (10)—Violations Unique to the Service
 |     Broadcasting telephone conversations without authorization     |    Broadcast    | 4,000 |
 |          Violation of enhanced underwriting requirements           |    Broadcast    | 2,000 |
 
-Table 3 to Paragraph (b) (10)—Adjustment Criteria for Section 503 Forfeitures
+Table 3 to Paragraph (b)(11)—Adjustment Criteria for Section 503 Forfeitures
 
 |                                             |
 |---------------------------------------------|
@@ -122,8 +123,7 @@ Table 3 to Paragraph (b) (10)—Adjustment Criteria for Section 503 Forfeitures
 |     (3) History of overall compliance.      |
 |            (4) Inability to pay.            |
 
-Table 4 to Paragraph (b)(10)—
-Non-Section 503 Forfeitures That Are Affected by the Downward Adjustment Factors<sup>1</sup>
+Table 4 to Paragraph (b)(11)—Non-Section 503 Forfeitures That Are Affected by the Downward Adjustment Factors<sup>1</sup>
 
 |                  Violation                  |                                  Statutory amount after 2023 annual inflation adjustment                                  |
 |---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -142,17 +142,17 @@ Non-Section 503 Forfeitures That Are Affected by the Downward Adjustment Factors
 |     Sec. 511 Pirate Radio Broadcasting      |                                                 $2,316,034, $115,802/day.                                                 |
 |             Sec. 634 Cable EEO              |                                                        $1,052/day.                                                        |
 
-<sup>1</sup> Unlike section 503 of the Act, which establishes maximum forfeiture amounts, other sections of the Act, with two exceptions, state prescribed amounts of forfeitures for violations of the relevant section. These amounts are then subject to mitigation or remission under section 504 of the Act. One exception is section 223 of the Act, which provides a maximum forfeiture per day. For convenience, the Commission will treat this amount as if it were a prescribed base amount, subject to downward adjustments. The other exception is section 227(e) of the Act, which provides maximum forfeitures per violation, and for continuing violations. The Commission will apply the factors set forth in section 503(b)(2)(E) of the Act and this table 4 to determine the amount of the penalty to assess in any particular situation. The amounts in this table 4 are adjusted for inflation pursuant to the Debt Collection Improvement Act of 1996 (DCIA), 28 U.S.C. 2461. These non-section 503 forfeitures may be adjusted downward using the “Downward Adjustment Criteria” shown for section 503 forfeitures in table 3 to this paragraph (b)(10).
+<sup>1</sup> Unlike section 503 of the Act, which establishes maximum forfeiture amounts, other sections of the Act, with two exceptions, state prescribed amounts of forfeitures for violations of the relevant section. These amounts are then subject to mitigation or remission under section 504 of the Act. One exception is section 223 of the Act, which provides a maximum forfeiture per day. For convenience, the Commission will treat this amount as if it were a prescribed base amount, subject to downward adjustments. The other exception is section 227(e) of the Act, which provides maximum forfeitures per violation, and for continuing violations. The Commission will apply the factors set forth in section 503(b)(2)(E) of the Act and this table 4 to determine the amount of the penalty to assess in any particular situation. The amounts in this table 4 are adjusted for inflation pursuant to the Debt Collection Improvement Act of 1996 (DCIA), 28 U.S.C. 2461. These non-section 503 forfeitures may be adjusted downward using the “Downward Adjustment Criteria” shown for section 503 forfeitures in table 3 to this paragraph (b)(11).
 
-Note 2 to paragraph (b)(10):
+Note 2 to paragraph (b)(11):
 
-*Guidelines for Assessing Forfeitures.* The Commission and its staff may use the guidelines in tables 1 through 4 of this paragraph (b)(10) in particular cases. The Commission and its staff retain the discretion to issue a higher or lower forfeiture than provided in the guidelines, to issue no forfeiture at all, or to apply alternative or additional sanctions as permitted by the statute. The forfeiture ceilings per violation or per day for a continuing violation stated in section 503 of the Communications Act and the Commission's rules are described in paragraph (b)(11) of this section. These statutory maxima became effective September 13, 2013. Forfeitures issued under other sections of the Act are dealt with separately in table 4 to this paragraph (b)(10).
+*Guidelines for Assessing Forfeitures.* The Commission and its staff may use the guidelines in tables 1 through 4 of this paragraph (b)(11) in particular cases. The Commission and its staff retain the discretion to issue a higher or lower forfeiture than provided in the guidelines, to issue no forfeiture at all, or to apply alternative or additional sanctions as permitted by the statute. The forfeiture ceilings per violation or per day for a continuing violation stated in section 503 of the Communications Act and the Commission's rules are described in paragraph (b)(12) of this section. These statutory maxima became effective September 13, 2013. Forfeitures issued under other sections of the Act are dealt with separately in table 4 to this paragraph (b)(11).
 
-(11) *Inflation adjustments to the maximum forfeiture amount.* (i) Pursuant to the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015, Public Law 114-74 (129 Stat. 599-600), which amends the Federal Civil Monetary Penalty Inflation Adjustment Act of 1990, Public Law 101-410 (104 Stat. 890; 28 U.S.C. 2461 note), the statutory maximum amount of a forfeiture penalty assessed under this section shall be adjusted annually for inflation by order published no later than January 15 each year. Annual inflation adjustments will be based on the percentage (if any) by which the Consumer Price Index for all Urban Consumers (CPI-U) for October preceding the date of the adjustment exceeds the prior year's CPI-U for October. The Office of Management and Budget (OMB) will issue adjustment rate guidance no later than December 15 each year to adjust for inflation in the CPI-U as of the most recent October.
+(12) *Inflation adjustments to the maximum forfeiture amount.* (i) Pursuant to the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015, Public Law 114-74 (129 Stat. 599-600), which amends the Federal Civil Monetary Penalty Inflation Adjustment Act of 1990, Public Law 101-410 (104 Stat. 890; 28 U.S.C. 2461 note), the statutory maximum amount of a forfeiture penalty assessed under this section shall be adjusted annually for inflation by order published no later than January 15 each year. Annual inflation adjustments will be based on the percentage (if any) by which the Consumer Price Index for all Urban Consumers (CPI-U) for October preceding the date of the adjustment exceeds the prior year's CPI-U for October. The Office of Management and Budget (OMB) will issue adjustment rate guidance no later than December 15 each year to adjust for inflation in the CPI-U as of the most recent October.
 
 (ii) The application of the annual inflation adjustment required by the foregoing Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 results in the following adjusted statutory maximum forfeitures authorized by the Communications Act:
 
-Table 5 to Paragraph (b)(11)(ii)
+Table 5 to Paragraph (b)(12)(ii)
 
 |       U.S. Code citation        |                                                                                                                                                                                                                                                                                  Maximum penalty after 2023 annual inflation adjustment                                                                                                                                                                                                                                                                                   |
 |---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -181,7 +181,7 @@ Table 5 to Paragraph (b)(11)(ii)
 |Sec. 6507(b)(4) of Tax Relief Act|                                                                                                                                                                                                                                                                                                   $1,276,024/incident.                                                                                                                                                                                                                                                                                                    |
 |Sec. 6507(b)(5) of Tax Relief Act|                                                                                                                                                                                                                                                                                                      $127,602/call.                                                                                                                                                                                                                                                                                                       |
 
-Note 3 to paragraph (b) (11):
+Note 3 to paragraph (b)(12):
 
 Pursuant to Public Law 104-134, the first inflation adjustment cannot exceed 10 percent of the statutory maximum amount.
 
@@ -241,4 +241,4 @@ Pursuant to Public Law 104-134, the first inflation adjustment cannot exceed 10 
 
 (k) *Effective date.* Amendments to paragraph (b) of this section implementing Pub. L. No. 101-239 are effective December 19, 1989.
 
-[43 FR 49308, Oct. 23, 1978, as amended at 48 FR 15631, Apr. 12, 1983; 50 FR 40855, Oct. 7, 1985; 55 FR 25605, June 22, 1990; 56 FR 25638, June 5, 1991; 57 FR 23161, June 2, 1992; 57 FR 47006, Oct. 14, 1992; 57 FR 48333, Oct. 23, 1992; 58 FR 6896, Feb. 3, 1993; 58 FR 27473, May 10, 1993; 62 FR 4918, Feb. 3, 1997; 62 FR 43475, Aug. 14, 1997; 63 FR 26992, May 15, 1998; 65 FR 60868, Oct. 13, 2000; 69 FR 47789, Aug. 6, 2004; 72 FR 33914, June 20, 2007; 73 FR 9018, Feb. 19, 2008; 73 FR 44664, July 31, 2008; 76 FR 43203, July 20, 2011; 76 FR 82388, Dec. 30, 2011; 77 FR 71137, Nov. 29, 2012; 78 FR 10100, Feb. 13, 2013; 78 FR 49371, Aug. 14, 2013; 81 FR 42555, June 30, 2016; 82 FR 8171, Jan. 24, 2017; 82 FR 57882, Dec. 8, 2017; 83 FR 4600, Feb. 1. 2018; 84 FR 2462, Feb. 7, 2019; 85 FR 2318, Jan. 15, 2020; 85 FR 22029, Apr. 21, 2020; 85 FR 38333, June 26, 2020; 85 FR 63172, Oct. 6, 2020; 86 FR 3830, Jan. 15, 2021; 86 FR 15797, Mar. 25, 2021; 86 FR 18159, Apr. 7, 2021; 87 FR 397, Jan. 5, 2022; 88 FR 784, Jan. 5, 2023]
+[43 FR 49308, Oct. 23, 1978, as amended at 48 FR 15631, Apr. 12, 1983; 50 FR 40855, Oct. 7, 1985; 55 FR 25605, June 22, 1990; 56 FR 25638, June 5, 1991; 57 FR 23161, June 2, 1992; 57 FR 47006, Oct. 14, 1992; 57 FR 48333, Oct. 23, 1992; 58 FR 6896, Feb. 3, 1993; 58 FR 27473, May 10, 1993; 62 FR 4918, Feb. 3, 1997; 62 FR 43475, Aug. 14, 1997; 63 FR 26992, May 15, 1998; 65 FR 60868, Oct. 13, 2000; 69 FR 47789, Aug. 6, 2004; 72 FR 33914, June 20, 2007; 73 FR 9018, Feb. 19, 2008; 73 FR 44664, July 31, 2008; 76 FR 43203, July 20, 2011; 76 FR 82388, Dec. 30, 2011; 77 FR 71137, Nov. 29, 2012; 78 FR 10100, Feb. 13, 2013; 78 FR 49371, Aug. 14, 2013; 81 FR 42555, June 30, 2016; 82 FR 8171, Jan. 24, 2017; 82 FR 57882, Dec. 8, 2017; 83 FR 4600, Feb. 1. 2018; 84 FR 2462, Feb. 7, 2019; 85 FR 2318, Jan. 15, 2020; 85 FR 22029, Apr. 21, 2020; 85 FR 38333, June 26, 2020; 85 FR 63172, Oct. 6, 2020; 86 FR 3830, Jan. 15, 2021; 86 FR 15797, Mar. 25, 2021; 86 FR 18159, Apr. 7, 2021; 87 FR 397, Jan. 5, 2022; 88 FR 784, Jan. 5, 2023; 88 FR 40116, June 21, 2023]

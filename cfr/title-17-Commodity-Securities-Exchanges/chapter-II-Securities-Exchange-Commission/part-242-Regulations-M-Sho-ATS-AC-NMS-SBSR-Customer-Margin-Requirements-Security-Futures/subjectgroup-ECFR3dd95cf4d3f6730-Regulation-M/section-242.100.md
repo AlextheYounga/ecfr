@@ -1,7 +1,5 @@
 ##### § 242.100 Preliminary note; definitions. #####
 
-Link to an amendment published at 88 FR 39994, June 20, 2023.
-
 (a) *Preliminary note:* Any transaction or series of transactions, whether or not effected pursuant to the provisions of Regulation M (§§ 242.100-242.105 of this chapter), remain subject to the antifraud and antimanipulation provisions of the securities laws, including, without limitation, Section 17(a) of the Securities Act of 1933 [15 U.S.C. 77q(a)] and Sections 9, 10(b), and 15(c) of the Securities Exchange Act of 1934 [15 U.S.C. 78i, 78j(b), and 78o(c)].
 
 (b) For purposes of regulation M (§§ 242.100 through 242.105 of this chapter) the following definitions shall apply:
@@ -106,6 +104,8 @@ Link to an amendment published at 88 FR 39994, June 20, 2023.
 
 *Stabilize or stabilizing* means the placing of any bid, or the effecting of any purchase, for the purpose of pegging, fixing, or maintaining the price of a security.
 
+*Structural credit risk model* means any commercially or publicly available model that calculates, based on an issuer's balance sheet, the probability that the value of the issuer will fall below the threshold at which the issuer would fail to make scheduled debt payments, at or by the expiration of a defined period.
+
 *Syndicate covering transaction* means the placing of any bid or the effecting of any purchase on behalf of the sole distributor or the underwriting syndicate or group to reduce a short position created in connection with the offering.
 
 *30% ADTV limitation* means 30 percent of the market maker's ADTV in a covered security during the reference period, as obtained from the NASD.
@@ -118,4 +118,4 @@ Link to an amendment published at 88 FR 39994, June 20, 2023.
 
 (3) To manage or supervise a distribution of securities for or on behalf of such issuer or selling security holder.
 
-[62 FR 544, Jan. 3, 1997, as amended at 62 FR 11323, Mar. 12, 1997; 70 FR 1623, Jan. 7, 2005; 70 FR 37619, June 29, 2005]
+[62 FR 544, Jan. 3, 1997, as amended at 62 FR 11323, Mar. 12, 1997; 70 FR 1623, Jan. 7, 2005; 70 FR 37619, June 29, 2005; 88 FR 39994, June 20, 2023]

@@ -1,5 +1,7 @@
 ##### § 984.48 Marketing estimates and recommendations. #####
 
+Link to an amendment published at 88 FR 56748, Aug. 21, 2023.
+
 (a) Each marketing year the Board shall hold a meeting, prior to October 20, for the purpose of recommending to the Secretary a marketing policy for such year. Each year such recommendation shall be adopted by the affirmative vote of at least 60% of the Board and shall include the following, and where applicable, on a kernelweight basis:
 
 (1) Its estimate of the orchard-run production in the area of production for the marketing year;

@@ -1,8 +1,8 @@
 ##### § 64.6305 Robocall mitigation and certification. #####
 
-Link to an amendment published at 88 FR 40118, June 21, 2023.Link to an amendment published at 88 FR 40119, June 21, 2023.Link to an amendment published at 88 FR 43459, July 10, 2023.
+Link to an amendment published at 88 FR 40119, June 21, 2023.Link to an amendment published at 88 FR 43459, July 10, 2023.
 
-(a) *Robocall mitigation program requirements for voice service providers.* (1) Any voice service provider subject to an extension granted under § 64.6304 that has not fully implemented the STIR/SHAKEN authentication framework on its entire network shall implement an appropriate robocall mitigation program as to those portions of its network on which it has not implemented the STIR/SHAKEN authentication framework.
+(a) *Robocall mitigation program requirements for voice service providers.* (1) Each voice service provider shall implement an appropriate robocall mitigation program.
 
 (2) Any robocall mitigation program implemented pursuant to paragraph (a)(1) of this section shall include reasonable steps to avoid originating illegal robocall traffic and shall include a commitment to respond fully and in a timely manner to all traceback requests from the Commission, law enforcement, and the industry traceback consortium, and to cooperate with such entities in investigating and stopping any illegal robocallers that use its service to originate calls.
 
@@ -10,7 +10,11 @@ Link to an amendment published at 88 FR 40118, June 21, 2023.Link to an amendmen
 
 (2) Any robocall mitigation program implemented pursuant to paragraph (b)(1) of this section shall include reasonable steps to avoid carrying or processing illegal robocall traffic and shall include a commitment to respond fully and within 24 hours to all traceback requests from the Commission, law enforcement, and the industry traceback consortium, and to cooperate with such entities in investigating and stopping any illegal robocallers that use its service to carry or process calls.
 
-(c) *Certification by voice service providers in the Robocall Mitigation Database.* (1) Not later than June 30, 2021, a voice service provider, regardless of whether it is subject to an extension granted under § 64.6304, shall certify to one of the following:
+(c) *Robocall mitigation program requirements for non-gateway intermediate providers.* (1) Each non-gateway intermediate provider shall implement an appropriate robocall mitigation program.
+
+(2) Any robocall mitigation program implemented pursuant to paragraph (c)(1) of this section shall include reasonable steps to avoid carrying or processing illegal robocall traffic and shall include a commitment to respond fully and in a timely manner to all traceback requests from the Commission, law enforcement, and the industry traceback consortium, and to cooperate with such entities in investigating and stopping any illegal robocallers that use its service to carry or process calls.
+
+(d) *Certification by voice service providers in the Robocall Mitigation Database.* (1) Not later than June 30, 2021, a voice service provider, regardless of whether it is subject to an extension granted under § 64.6304, shall certify to one of the following:
 
 (i) It has fully implemented the STIR/SHAKEN authentication framework across its entire network and all calls it originates are compliant with § 64.6301(a)(1) and (2);
 
@@ -26,7 +30,7 @@ Link to an amendment published at 88 FR 40118, June 21, 2023.Link to an amendmen
 
 (iii) A statement of the voice service provider's commitment to respond fully and in a timely manner to all traceback requests from the Commission, law enforcement, and the industry traceback consortium, and to cooperate with such entities in investigating and stopping any illegal robocallers that use its service to originate calls.
 
-(3) All certifications made pursuant to paragraphs (c)(1) and (2) of this section shall:
+(3) All certifications made pursuant to paragraphs (d)(1) and (2) of this section shall:
 
 (i) Be filed in the appropriate portal on the Commission's website; and
 
@@ -44,13 +48,13 @@ Link to an amendment published at 88 FR 40118, June 21, 2023.Link to an amendmen
 
 (v) The name, title, department, business address, telephone number, and email address of one person within the company responsible for addressing robocall mitigation-related issues.
 
-(5) A voice service provider shall update its filings within 10 business days of any change to the information it must provide pursuant to paragraphs (c)(1) through (4) of this section.
+(5) A voice service provider shall update its filings within 10 business days of any change to the information it must provide pursuant to paragraphs (d)(1) through (4) of this section.
 
 (i) A voice service provider or intermediate provider that has been aggrieved by a Governance Authority decision to revoke that voice service provider's or intermediate provider's SPC token need not update its filing on the basis of that revocation until the sixty (60) day period to request Commission review, following completion of the Governance Authority's formal review process, pursuant to § 64.6308(b)(1) expires or, if the aggrieved voice service provider or intermediate provider files an appeal, until ten business days after the Wireline Competition Bureau releases a final decision pursuant to § 64.6308(d)(1).
 
 (ii) If a voice service provider or intermediate provider elects not to file a formal appeal of the Governance Authority decision to revoke that voice service provider's or intermediate provider's SPC token, the provider need not update its filing on the basis of that revocation until the thirty (30) day period to file a formal appeal with the Governance Authority Board expires.
 
-(d) *Certification by gateway providers in the Robocall Mitigation Database.* (1) By January 11, 2023, a gateway provider shall certify to one of the following:
+(e) *Certification by gateway providers in the Robocall Mitigation Database.* (1) By January 11, 2023, a gateway provider shall certify to one of the following:
 
 (i) It has fully implemented the STIR/SHAKEN authentication framework across its entire network and all calls it carries or processes are compliant with § 64.6302(b);
 
@@ -58,7 +62,7 @@ Link to an amendment published at 88 FR 40118, June 21, 2023.Link to an amendmen
 
 (iii) It has not implemented the STIR/SHAKEN authentication framework on any portion of its network for carrying or processing calls.
 
-(2) A gateway provider shall include the following information in its certification made pursuant to paragraph (d)(1) of this section, in English or with a certified English translation:
+(2) A gateway provider shall include the following information in its certification made pursuant to paragraph (e)(1) of this section, in English or with a certified English translation:
 
 (i) Identification of the type of extension or extensions the gateway provider received under § 64.6304;
 
@@ -66,7 +70,7 @@ Link to an amendment published at 88 FR 40118, June 21, 2023.Link to an amendmen
 
 (iii) A statement of the gateway provider's commitment to respond fully and within 24 hours to all traceback requests from the Commission, law enforcement, and the industry traceback consortium, and to cooperate with such entities in investigating and stopping any illegal robocallers that use its service to carry or process calls.
 
-(3) All certifications made pursuant to paragraphs (d)(1) and (2) of this section shall:
+(3) All certifications made pursuant to paragraphs (e)(1) and (2) of this section shall:
 
 (i) Be filed in the appropriate portal on the Commission's website; and
 
@@ -84,18 +88,22 @@ Link to an amendment published at 88 FR 40118, June 21, 2023.Link to an amendmen
 
 (v) The name, title, department, business address, telephone number, and email address of one person within the company responsible for addressing robocall mitigation-related issues.
 
-(5) A gateway provider shall update its filings within 10 business days of any change to the information it must provide pursuant to paragraphs (d)(1) through (4) of this section, subject to the conditions set forth in paragraphs (c)(5)(i) and (ii) of this section.
+(5) A gateway provider shall update its filings within 10 business days to the information it must provide pursuant to paragraphs (e)(1) through (4) of this section, subject to the conditions set forth in paragraphs (d)(5)(i) and (ii) of this section.
 
-(e) *Intermediate provider and voice service provider obligations*—(1) *Accepting traffic from domestic voice service providers.* Intermediate providers and voice service providers shall accept calls directly from a domestic voice service provider only if that voice service provider's filing appears in the Robocall Mitigation Database in accordance with paragraph (c) of this section and that filing has not been de-listed pursuant to an enforcement action.
+(f) [Reserved]
 
-(2) *Accepting traffic from foreign providers.* Beginning April 11, 2023, intermediate providers and voice service providers shall accept calls directly from a foreign voice service provider or foreign intermediate provider that uses North American Numbering Plan resources that pertain to the United States in the caller ID field to send voice traffic to residential or business subscribers in the United States, only if that foreign provider's filing appears in the Robocall Mitigation Database in accordance with paragraph (c) of this section and that filing has not been de-listed pursuant to an enforcement action.
+(g) *Intermediate provider and voice service provider obligations*—(1) *Accepting traffic from domestic voice service providers.* Intermediate providers and voice service providers shall accept calls directly from a domestic voice service provider only if that voice service provider's filing appears in the Robocall Mitigation Database in accordance with paragraph (d) of this section and that filing has not been de-listed pursuant to an enforcement action.
 
-(3) *Accepting traffic from gateway providers.* Beginning April 11, 2023, intermediate providers and voice service providers shall accept calls directly from a gateway provider only if that gateway provider's filing appears in the Robocall Mitigation Database in accordance with paragraph (d) of this section, showing that the gateway provider has affirmatively submitted the filing, and that filing has not been de-listed pursuant to an enforcement action.
+(2) *Accepting traffic from foreign providers.* Beginning April 11, 2023, intermediate providers and voice service providers shall accept calls directly from a foreign voice service provider or foreign intermediate provider that uses North American Numbering Plan resources that pertain to the United States in the caller ID field to send voice traffic to residential or business subscribers in the United States, only if that foreign provider's filing appears in the Robocall Mitigation Database in accordance with paragraph (d) of this section and that filing has not been de-listed pursuant to an enforcement action.
 
-(4) *Public safety safeguards.* Notwithstanding paragraphs (e)(1) through (3) of this section:
+(3) *Accepting traffic from gateway providers.* Beginning April 11, 2023, intermediate providers and voice service providers shall accept calls directly from a gateway provider only if that gateway provider's filing appears in the Robocall Mitigation Database in accordance with paragraph (e) of this section, showing that the gateway provider has affirmatively submitted the filing, and that filing has not been de-listed pursuant to an enforcement action.
+
+(4) [Reserved]
+
+(5) *Public safety safeguards.* Notwithstanding paragraphs (g)(1) through (4) of this section:
 
 (i) A provider may not block a voice call under any circumstances if the call is an emergency call placed to 911; and
 
 (ii) A provider must make all reasonable efforts to ensure that it does not block any calls from public safety answering points and government emergency numbers.
 
-[87 FR 42946, July 18, 2022]
+[87 FR 42946, July 18, 2022, as amended at 88 FR 40118, June 21, 2023]

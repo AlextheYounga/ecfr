@@ -83,6 +83,7 @@ Link to an amendment published at 88 FR 55936, Aug. 17, 2023.
 (f) In addition to the information and certifications in paragraph (a) of this section, any rate-of-return carrier shall provide:
 
 (1) Beginning July 1, 2015 and Every Year Thereafter. The following information:
+.
 
 (i) If the rate-of-return carrier is receiving support pursuant to subparts K and M of this part, a certification that it is taking reasonable steps to provide upon reasonable request broadband service at actual speeds of at least 25 Mbps downstream/3 Mbps upstream, with latency suitable for real-time applications, including Voice over internet Protocol, and usage capacity that is reasonably comparable to comparable offerings in urban areas as determined in an annual survey, and that requests for such service are met within a reasonable amount of time; if the rate-of-return carrier receives CAF-ACAM support, a certification that it is meeting the relevant reasonable request standard; or if the rate-of-return carrier is receiving Alaska Plan support pursuant to § 54.306, a certification that it is offering broadband service with latency suitable for real-time applications, including Voice over internet Protocol, and usage capacity that is reasonably comparable to comparable offerings in urban areas, and at speeds committed to in its approved performance plan to the locations it has reported pursuant to § 54.316(a), subject to any limitations due to the availability of backhaul as specified in paragraph (g) of this section.
 
@@ -165,4 +166,4 @@ Link to an amendment published at 88 FR 55936, Aug. 17, 2023.
 
 (n) In addition to the information and certifications in paragraph (a) of this section, a mobile competitive eligible telecommunications carrier receiving legacy high-cost support pursuant to § 54.307(e)(5), (e)(6), or (e)(7) shall certify whether it used any support pursuant to § 54.207(f), and if so, whether it used such support in compliance with § 54.7.
 
-5. At 88 FR 55936, Aug. 17, 2023, § 54.313 was amended by revising (f)(1)(i) introductory text and adding (f)(6), however (f)(1)(i) and (f)(6)(i) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+5. 88 FR 55936, Aug. 17, 2023, § 54.313 was amended by revising paragraph (f)(1)(i) and adding (f)(6)(i), however these paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

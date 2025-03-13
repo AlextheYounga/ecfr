@@ -1,7 +1,5 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 88 FR 39959, June 20, 2023.
-
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
 (a) *Refrigerators/refrigerator-freezers/freezers.* These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
@@ -446,7 +444,11 @@ Table 4 to Paragraph (b)(2)
 
 (2) Gas cooking products without an electrical supply cord manufactured on or after April 9, 2012, shall not be equipped with a constant burning pilot light.
 
-(3) Microwave-only ovens and countertop convection microwave ovens manufactured on or after June 17, 2016 shall have an average standby power not more than 1.0 watt. Built-in and over-the-range convection microwave ovens manufactured on or after June 17, 2016 shall have an average standby power not more than 2.2 watts.
+(3) Microwave ovens:
+
+(i) Microwave-only ovens and countertop convection microwave ovens manufactured on or after June 17, 2016, and before June 22, 2026, shall have an average standby power not more than 1.0 watt. Built-in and over-the-range convection microwave ovens manufactured on or after June 17, 2016, and before June 22, 2026, shall have an average standby power not more than 2.2 watts.
+
+(ii) Microwave-only ovens and countertop convection microwave ovens manufactured on or after June 22, 2026, shall have an average standby power not more than 0.6 watts. Built-in and over-the-range convection microwave ovens manufactured on or after June 22, 2026, shall have an average standby power not more than 1.0 watt.
 
 (k) *Pool heaters.* (1) Gas-fired pool heaters manufactured on and after April 16, 2013 and before May 30, 2028, shall have a thermal efficiency not less than 82%.
 

@@ -1,7 +1,5 @@
 ##### § 622.2 Definitions and acronyms. #####
 
-Link to an amendment published at 88 FR 46695, July 20, 2023.
-
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, and the acronyms in § 600.15 of this chapter, the terms and acronyms used in this part have the following meanings:
 
 *Accountability measure* means a management control implemented such that overfishing is prevented, where possible, and mitigated if it occurs.
@@ -44,7 +42,7 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Bully net* means a circular frame attached at right angles to the end of a pole and supporting a conical bag of webbing. The webbing is usually held up by means of a cord which is released when the net is dropped over a lobster.
 
-*Buoy gear* means fishing gear that fishes vertically in the water column that consists of a single drop line suspended from a float, from which no more than 10 hooks can be connected between the buoy and the terminal end, and the terminal end contains a weight that is no more than 10 lb (4.5 kg). The drop line can be rope (hemp, manila, cotton or other natural fibers; nylon, polypropylene, spectra or other synthetic material) or monofilament, but must not be cable or wire. The gear is free-floating and not connected to other gear or the vessel. The drop line must be no greater than 2 times the depth of the water being fished. All hooks must be attached to the drop line no more than 30 ft (9.1 m) from the weighted terminal end. These hooks may be attached directly to the drop line; attached as snoods (defined as an offshoot line that is directly spliced, tied or otherwise connected to the drop line), where each snood has a single terminal hook; or as gangions (defined as an offshoot line connected to the drop line with some type of detachable clip), where each gangion has a single terminal hook.
+*Buoy gear* means fishing gear that fishes vertically in the water column that consists of a single drop line suspended from a float, from which no more than 10 hooks (except in the EEZ around Puerto Rico, St. Croix, and St. Thomas and St. John where the maximum is 25 hooks) can be connected between the buoy and terminal end, and the terminal end contains a weight that is no more than 10 lb (4.5 kg). The drop line can be rope (hemp, manila, cotton or other natural fibers; nylon, polypropylene, spectra or other synthetic material) or monofilament, but must not be cable or wire. The gear is free-floating and not connected to other gear or the vessel. The drop line must be no greater than 2 times the depth of the water being fished. All hooks must be attached to the drop line no more than 30 ft (9.1 m) from the weighted terminal end. These hooks may be attached directly to the drop line; attached as snoods (defined as an offshoot line that is directly spliced, tied or otherwise connected to the drop line), where each snood has a single terminal hook; or as gangions (defined as an offshoot line connected to the drop line with some type of detachable clip), where each gangion has a single terminal hook.
 
 *Carapace length* means the measurement of the carapace (head, body, or front section) of a spiny lobster from the anteriormost edge (front) of the groove between the horns directly above the eyes, along the middorsal line (middle of the back), to the rear edge of the top part of the carapace, excluding any translucent membrane. (See Figure 1 in Appendix C of this part.)
 
@@ -294,4 +292,4 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Wreckfish* means the species *Polyprion americanus,* or a part thereof, one of the South Atlantic snapper-grouper species.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 79 FR 19493, Apr. 9, 2014; 80 FR 4218, Jan. 27, 2015; 81 FR 1792, Jan. 13, 2016; 82 FR 34580, July 25, 2017; 85 FR 6823, Feb. 6, 2020; 87 FR 2357, Jan. 14, 2022; 87 FR 56215, Sept. 13, 2022]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 79 FR 19493, Apr. 9, 2014; 80 FR 4218, Jan. 27, 2015; 81 FR 1792, Jan. 13, 2016; 82 FR 34580, July 25, 2017; 85 FR 6823, Feb. 6, 2020; 87 FR 2357, Jan. 14, 2022; 87 FR 56215, Sept. 13, 2022; 88 FR 46695, July 20, 2023]

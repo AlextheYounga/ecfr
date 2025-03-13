@@ -1,6 +1,6 @@
 ##### § 0.111 Functions of the Bureau. #####
 
-Link to an amendment published at 88 FR 40116, June 21, 2023.Link to an amendment published at 88 FR 43458, July 10, 2023.
+Link to an amendment published at 88 FR 43458, July 10, 2023.
 
 (a) Serve as the primary Commission entity responsible for enforcement of the Communications Act and other communications statutes, the Commission's rules, Commission orders and Commission authorizations, other than matters that are addressed in the context of a pending application for a license or other authorization or in the context of administration, including post-grant administration, of a licensing or other authorization or registration program.
 
@@ -97,9 +97,11 @@ The Media Bureau has primary responsibility for complaints regarding the followi
 
 (28) Take enforcement action, including de-listing from the Robocall Mitigation Database, against any provider:
 
-(i) Whose certification described in § 64.6305(c) and (d) of this chapter is deficient after giving that provider notice and an opportunity to cure the deficiency; or
+(i) Whose certification required by § 64.6305 of this chapter is deficient after giving that provider notice and an opportunity to cure the deficiency; or
 
-(ii) Who accepts calls directly from a domestic voice service provider, gateway provider, or foreign provider not listed in the Robocall Mitigation Database in violation of § 64.6305(e) of this chapter.
+(ii) Who accepts calls directly from a provider not listed in the Robocall Mitigation Database in violation of § 64.6305(g) of this chapter.
+
+(29) Take enforcement action, including revoking an existing section 214 authorization, license, or instrument for any entity that has repeatedly violated § 64.6301, § 64.6302, or § 64.6305 of this chapter. The Commission or the Enforcement Bureau under delegated authority will provide prior notice of its intent to revoke an existing license or instrument of authorization and follow applicable revocation procedures, including providing the authorization holder with a written opportunity to demonstrate why revocation is not warranted.
 
 (b) Serve as a party in hearing proceedings conducted pursuant to 47 CFR part 1, subpart B.
 
@@ -121,4 +123,4 @@ The Media Bureau has primary responsibility for complaints regarding the followi
 
 (k) Perform such other functions as may be assigned or referred to it by the Commission.
 
-[64 FR 60716, Nov. 8, 1999, as amended at 67 FR 13218, Mar. 21, 2002; 68 FR 36942, June 20, 2003; 69 FR 30233, May 27, 2004; 71 FR 69034, Nov. 29, 2006; 76 FR 24381, May 2, 2011; 76 FR 26220, May 6, 2011; 76 FR 59232, Sept. 23, 2011; 76 FR 60754, Sept. 30, 2011; 78 FR 23151, Apr. 18, 2013; 80 FR 53749, Sept. 8, 2015; 84 FR 9465, Mar. 15, 2019; 85 FR 21788, Apr. 20, 2020; 85 FR 63171, Oct. 6, 2020; 86 FR 17734, Apr. 6, 2021; 86 FR 52843, Sept. 23, 2021; 87 FR 42944, July 18, 2022; 88 FR 21429, Apr. 10, 2023]
+[64 FR 60716, Nov. 8, 1999, as amended at 67 FR 13218, Mar. 21, 2002; 68 FR 36942, June 20, 2003; 69 FR 30233, May 27, 2004; 71 FR 69034, Nov. 29, 2006; 76 FR 24381, May 2, 2011; 76 FR 26220, May 6, 2011; 76 FR 59232, Sept. 23, 2011; 76 FR 60754, Sept. 30, 2011; 78 FR 23151, Apr. 18, 2013; 80 FR 53749, Sept. 8, 2015; 84 FR 9465, Mar. 15, 2019; 85 FR 21788, Apr. 20, 2020; 85 FR 63171, Oct. 6, 2020; 86 FR 17734, Apr. 6, 2021; 86 FR 52843, Sept. 23, 2021; 87 FR 42944, July 18, 2022; 88 FR 21429, Apr. 10, 2023; 88 FR 40116, June 21, 2023]

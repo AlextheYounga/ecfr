@@ -1,7 +1,5 @@
 ##### § 622.440 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
-Link to an amendment published at 88 FR 46695, July 20, 2023.
-
 (a) *Reef fish.* For those fishing commercially, the applicable ACL is the commercial ACL. For those fishing recreationally, the applicable ACL is the recreational ACL. When landings for one sector are not available for comparison to that sector's ACL, the ACL for the sector with available landings is the ACL for the stock or stock complex.
 
 (1) *Commercial ACLs.* The commercial ACLs are as follows and given in round weight.
@@ -40,19 +38,19 @@ Table 2 to § 622.440(a)(2)
 |   Family    |                                           Stock or stock complex and species composition                                           |    Recreational ACL     |
 |-------------|------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
 | Angelfishes |                                    Angelfish—French angelfish, gray angelfish, queen angelfish                                     | 2,985 lb (1,353.9 kg).  |
-|  Groupers   |                                                Grouper 3—coney,<sup>1</sup> graysby                                                | 19,634 lb (8,905.8 kg). |
+|  Groupers   |                                                Grouper 3—coney<sup>1</sup>, graysby                                                | 19,634 lb (8,905.8 kg). |
 |             |                    Grouper 4—black grouper, red grouper, tiger grouper, yellowfin grouper, yellowmouth grouper                     | 5,867 lb (2,661.2 kg).  |
 |             |                                            Grouper 5—misty grouper, yellowedge grouper                                             | 4,225 lb (1,916.4 kg).  |
-|             |                                             Grouper 6—red hind,<sup>1</sup> rock hind                                              |34,493 lb (15,645.7 kg). |
+|             |                                             Grouper 6—red hind<sup>1</sup>, rock hind                                              |34,493 lb (15,645.7 kg). |
 |   Grunts    |                                                         Grunts—white grunt                                                         | 2,461 lb (1,116.2 kg).  |
 |    Jacks    |                                                       Jacks 1—crevalle jack                                                        |41,894 lb (19,002.7 kg). |
 |             |                                                      Jacks 2—African pompano                                                       |  5,719 lb (2,594 kg).   |
 |             |                                                       Jacks 3—rainbow runner                                                       |  8,091 lb (3,670 kg).   |
 |Parrotfishes |Parrotfish 2—princess parrotfish, queen parrotfish, redband parrotfish, redtail parrotfish, stoplight parrotfish, striped parrotfish| 17,052 lb (7,734.6 kg). |
-|  Snappers   |                  Snapper 1—black snapper, blackfin snapper, silk snapper,<sup>1</sup> vermilion snapper, wenchman                  |111,943 lb (50,776.4 kg).|
+|  Snappers   |                  Snapper 1—black snapper, blackfin snapper, silk snapper<sup>1</sup>, vermilion snapper, wenchman                  |111,943 lb (50,776.4 kg).|
 |             |                                       Snapper 2—cardinal snapper, queen snapper<sup>1</sup>                                        | 24,974 lb (11,328 kg).  |
 |             |                                                       Snapper 3—lane snapper                                                       | 21,603 lb (9,798.9 kg). |
-|             |                                       Snapper 4—dog snapper, mutton snapper,\* schoolmaster                                        |76,625 lb (34,756.5 kg). |
+|             |                                  Snapper 4—dog snapper, mutton snapper<sup>1</sup>, schoolmaster                                   |76,625 lb (34,756.5 kg). |
 |             |                                                    Snapper 5—yellowtail snapper                                                    |23,988 lb (10,880.7 kg). |
 |             |                                                      Snapper 6—cubera snapper                                                      | 6,448 lb (2,924.7 kg).  |
 |Surgeonfishes|                                        Surgeonfish—blue tang, doctorfish, ocean surgeonfish                                        |    860 lb (390 kg).     |
@@ -165,4 +163,4 @@ Table 3 to § 622.440(a)(3)
 
 (4) *Restrictions applicable during a spiny lobster closure in the EEZ around Puerto Rico.* During the closure period announced in the notification filed pursuant to paragraph (c)(2) of this section, the fishing season for spiny lobster is closed, and spiny lobster in or from the EEZ around Puerto Rico may not be harvested, possessed, purchased, or sold, and the bag and possession limits are zero.
 
-[87 FR 56216, Sept. 13, 2022, as amended at 88 FR 16195, Mar. 16, 2023]
+[87 FR 56216, Sept. 13, 2022, as amended at 88 FR 16195, Mar. 16, 2023; 88 FR 46695, July 20, 2023]

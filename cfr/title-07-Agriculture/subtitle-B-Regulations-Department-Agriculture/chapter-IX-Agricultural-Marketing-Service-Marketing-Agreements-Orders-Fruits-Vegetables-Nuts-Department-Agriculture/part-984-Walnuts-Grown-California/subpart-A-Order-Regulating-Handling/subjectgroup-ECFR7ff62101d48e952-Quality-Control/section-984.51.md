@@ -1,5 +1,7 @@
 ##### § 984.51 Inspection and certification of inshell and shelled walnuts. #####
 
+Link to an amendment published at 88 FR 56749, Aug. 21, 2023.
+
 (a) Before or upon handling of any walnuts, each handler at his or her own expense shall cause such walnuts to be inspected to determine whether they meet the then-applicable grade and size regulations. Such inspection shall be performed by the inspection service or services designated by the Board with the approval of the Secretary; Provided, that if more than one inspection service is designated, the functions performed by each service shall be separate, and shall not duplicate each other. Handlers shall obtain a certificate for each inspection and cause a copy of each certificate issued by the inspection service to be furnished to the Board. Each certificate shall show the identity of the handler, quantity of walnuts, the date of inspection, and for inshell walnuts, the grade and size of such walnuts as set forth in the United States Standards for Walnuts (Juglans regia) in the Shell. The Board, with the approval of the Secretary, may prescribe procedures for the administration of this provision.
 
 (b) Inshell merchantable walnuts certified shall be converted to the kernelweight equivalent at 45 percent of their inshell weight. This conversion percentage may be changed by the Board with the approval of the Secretary.
