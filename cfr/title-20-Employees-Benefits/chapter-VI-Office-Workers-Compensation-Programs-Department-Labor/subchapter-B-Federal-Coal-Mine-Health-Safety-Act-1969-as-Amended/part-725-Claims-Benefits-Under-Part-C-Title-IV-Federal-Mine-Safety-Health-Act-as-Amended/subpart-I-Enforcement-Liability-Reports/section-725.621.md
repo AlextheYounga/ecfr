@@ -1,5 +1,7 @@
 ##### § 725.621 Reports. #####
 
+Link to an amendment published at 89 FR 1814, Jan. 11, 2024.
+
 (a) Upon making the first payment of benefits and upon suspension, reduction, or increase of payments, the operator or other employer responsible for making payments shall immediately notify the district director of the action taken, in accordance with a form prescribed by the Office.
 
 (b) Within 16 days after final payment of benefits has been made by an employer, such employer shall so notify the district director, in accordance with a form prescribed by the Office, stating that such final payment, has been made, the total amount of benefits paid, the name of the beneficiary, and such other information as the Office deems pertinent.

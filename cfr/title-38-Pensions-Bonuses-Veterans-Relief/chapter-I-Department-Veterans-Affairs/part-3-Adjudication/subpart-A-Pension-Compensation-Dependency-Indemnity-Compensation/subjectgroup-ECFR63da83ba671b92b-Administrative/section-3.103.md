@@ -1,7 +1,5 @@
 ##### § 3.103 Procedural due process and other rights. #####
 
-Link to an amendment published at 88 FR 86061, Dec. 12, 2023.
-
 (a) *Statement of policy.* Every claimant has the right to written notice of the decision made on his or her claim, the right to a hearing, and the right of representation. Proceedings before VA are ex parte in nature, and it is the obligation of VA to assist a claimant in developing the facts pertinent to the claim and to render a decision which grants every benefit that can be supported in law while protecting the interests of the Government. The provisions of this section apply to all claims for benefits and relief, and decisions thereon, within the purview of this part 3.
 
 (b) *The right to notice*—
@@ -20,7 +18,7 @@ Link to an amendment published at 88 FR 86061, Dec. 12, 2023.
 
 (iv) An adverse action based upon a written and signed statement provided by the beneficiary to VA renouncing VA benefits (see § 3.106 on renouncement).
 
-(v) An adverse action based upon a written statement provided to VA by a veteran indicating that he or she has returned to active service, the nature of that service, and the date of reentry into service, with the knowledge or notice that receipt of active service pay precludes concurrent receipt of VA compensation or pension (see § 3.654 regarding active service pay).
+(v) An adverse action based upon a written or electronic statement provided to VA by a veteran that indicates that the veteran has received, is in receipt of, or will receive active service pay as defined by § 3.654(a), or, in the case of compensation, written or electronic notice from the Department of Defense that indicates that the veteran has received or is in receipt of active service pay as defined by § 3.654(a), provided that, in cases involving notice from the Department of Defense, the veteran has on a previous occasion of concurrent receipt of compensation and payment for the type of service at issue received the notice described in paragraph (b)(2), but with a period of 30 rather than 60 days to respond, as well as notice that suspension of compensation payments based on subsequent payments for the same type of service will be made without additional advance notice. The statement from the veteran or notice from the Department of Defense must include the date on which the service resulting in receipt of active service pay began or, in the case of a statement from the veteran, the date on which the service resulting in receipt of active service pay is expected to begin, or, in the case of training duty, the number of training days performed, or, in the case of a statement from the veteran, the number of training days expected to be performed, during a specified period of time (*e.g.,* last month, last quarter, last year, next month, etc.). In order for this paragraph to apply, the veteran must have received prior notice that receipt of active service pay precludes concurrent receipt of VA benefits, or VA must have received a statement from the veteran that indicates knowledge of such preclusion. In cases to which § 3.700(a)(1)(iii) of this part applies, the Veteran must also have waived VA benefits. When notice provided by the Department of Defense contains information indicating that the monthly level of disability compensation for a veteran exceeds the veteran's monthly active service pay rate, the exception contained in this paragraph will only apply to a written or electronic statement provided to VA by the veteran.
 
 (vi) An adverse action based upon a garnishment order issued under 42 U.S.C. 659(a).
 
@@ -62,4 +60,8 @@ Link to an amendment published at 88 FR 86061, Dec. 12, 2023.
 
 (8) A summary of the applicable review options under § 3.2500 available for the claimant to seek further review of the decision.
 
-(Authority:38 U.S.C. 501, 1115, 1506, 5104)[55 FR 13527, Apr. 11, 1990; 55 FR 17530, Apr. 25, 1990, as amended at 55 FR 20148, May 15, 1990; 55 FR 25308, June 21, 1990; 57 FR 56993, Dec. 2, 1992; 58 FR 16360, Mar. 26, 1993; 58 FR 59366, Nov. 9, 1993; 59 FR 6218, Feb. 10, 1994; 59 FR 6901, Feb. 14, 1994; 66 FR 56613, Nov. 9, 2001; 76 FR 52574, Aug. 23, 2011; 77 FR 23129, Apr. 18, 2012; 84 FR 166, Jan. 18, 2019]
+(Authority:38 U.S.C. 501, 1115, 1506, 5104)Cross References:
+
+Submission of statements or information affecting entitlement to benefits. See § 3.217(a). Active Service Pay. See § 3.654. General. See § 3.700(a)(1).
+
+[55 FR 13527, Apr. 11, 1990; 55 FR 17530, Apr. 25, 1990, as amended at 55 FR 20148, May 15, 1990; 55 FR 25308, June 21, 1990; 57 FR 56993, Dec. 2, 1992; 58 FR 16360, Mar. 26, 1993; 58 FR 59366, Nov. 9, 1993; 59 FR 6218, Feb. 10, 1994; 59 FR 6901, Feb. 14, 1994; 66 FR 56613, Nov. 9, 2001; 76 FR 52574, Aug. 23, 2011; 77 FR 23129, Apr. 18, 2012; 84 FR 166, Jan. 18, 2019; 88 FR 86061, Dec. 12, 2023]

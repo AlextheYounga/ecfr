@@ -2,22 +2,22 @@
 
 The current inflation-adjusted civil monetary penalties provided by law within the jurisdiction of the Commission are:
 
-(a) 15 U.S.C. 3414(b)(6)(A)(i), Natural Gas Policy Act of 1978: $1,496,035.
+(a) 15 U.S.C. 3414(b)(6)(A)(i), Natural Gas Policy Act of 1978: $1,544,521 per violation, per day.
 
-(b) 16 U.S.C. 823b(c), Federal Power Act: $27,017 per day.
+(b) 16 U.S.C. 823b(c), Federal Power Act: $27,893 per violation, per day.
 
-(c) 16 U.S.C. 825n(a), Federal Power Act: $3,529.
+(c) 16 U.S.C. 825n(a), Federal Power Act: $3,643 per violation.
 
-(d) 16 U.S.C. 825o-1(b), Federal Power Act: $1,496,035 per day.
+(d) 16 U.S.C. 825o-1(b), Federal Power Act: $1,544,521 per violation, per day.
 
-(e) 15 U.S.C. 717t-1, Natural Gas Act: $1,496,035 per day.
+(e) 15 U.S.C. 717t-1, Natural Gas Act: $1,544,521 per violation, per day.
 
-(f) 49 App. U.S.C. 6(10) (1988), Interstate Commerce Act: $1,566 per offense and $73 per day after the first day.
+(f) 49 App. U.S.C. 6(10) (1988), Interstate Commerce Act: $1,617 per offense and $78 per day after the first day.
 
-(g) 49 App. U.S.C. 16(8) (1988), Interstate Commerce Act: $15,662 per day.
+(g) 49 App. U.S.C. 16(8) (1988), Interstate Commerce Act: $16,170 per violation, per day.
 
-(h) 49 App. U.S.C. 19a(k) (1988), Interstate Commerce Act: $1,566 per day.
+(h) 49 App. U.S.C. 19a(k) (1988), Interstate Commerce Act: $1,617 per offense, per day.
 
-(i) 49 App. U.S.C. 20(7)(a) (1988), Interstate Commerce Act: $1,566 per day.
+(i) 49 App. U.S.C. 20(7)(a) (1988), Interstate Commerce Act: $1,617 per offense, per day.
 
-[Order 886, 88 FR 1991, Jan. 12, 2023]
+[Order 903, 89 FR 1808, Jan. 11, 2024]

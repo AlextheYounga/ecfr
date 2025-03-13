@@ -1,13 +1,3 @@
-##### § 151.7 Acquisition of fractional interests. #####
+##### § 151.7 Is Tribal consent required for nonmember acquisitions? #####
 
-Acquisition of a fractional land interest by an individual Indian or a tribe in trust status can be approved by the Secretary only if:
-
-(a) The buyer already owns a fractional interest in the same parcel of land; or
-
-(b) The interest being acquired by the buyer is in fee status; or
-
-(c) The buyer offers to purchase the remaining undivided trust or restricted interests in the parcel at not less than their fair market value; or
-
-(d) There is a specific law which grants to the particular buyer the right to purchase an undivided interest or interests in trust or restricted land without offering to purchase all of such interests; or
-
-(e) The owner of a majority of the remaining trust or restricted interests in the parcel consent in writing to the acquisition by the buyer.
+An individual Indian or Tribe may acquire land in trust status on an Indian reservation other than its own only when the governing body of the Tribe having jurisdiction over such reservation consents in writing to the acquisition; provided, that such consent shall not be required if the individual Indian or the Tribe already owns an undivided trust or restricted interest in the parcel of land to be acquired.

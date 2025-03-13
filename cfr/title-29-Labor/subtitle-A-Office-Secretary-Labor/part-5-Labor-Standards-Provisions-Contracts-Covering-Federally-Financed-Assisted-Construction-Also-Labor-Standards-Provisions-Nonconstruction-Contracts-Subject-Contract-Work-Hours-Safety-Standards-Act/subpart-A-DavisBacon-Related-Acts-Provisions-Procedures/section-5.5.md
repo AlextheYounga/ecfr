@@ -1,6 +1,6 @@
 ##### § 5.5 Contract provisions and related matters. #####
 
-Link to an amendment published at 88 FR 57734, Aug. 23, 2023.
+Link to an amendment published at 88 FR 57734, Aug. 23, 2023.Link to an amendment published at 89 FR 1815, Jan. 11, 2024.
 
 (a) *Required contract clauses.* The Agency head will cause or require the contracting officer to require the contracting officer to insert in full, or (for contracts covered by the Federal Acquisition Regulation (48 CFR chapter 1)) by reference, in any contract in excess of $2,000 which is entered into for the actual construction, alteration and/or repair, including painting and decorating, of a public building or public work, or building or work financed in whole or in part from Federal funds or in accordance with guarantees of a Federal agency or financed from funds obtained by pledge of any contract of a Federal agency to make a loan, grant or annual contribution (except where a different meaning is expressly indicated), and which is subject to the labor standards provisions of any of the laws referenced by § 5.1, the following clauses (or any modifications thereof to meet the particular needs of the agency, *Provided,* That such modifications are first approved by the Department of Labor):
 

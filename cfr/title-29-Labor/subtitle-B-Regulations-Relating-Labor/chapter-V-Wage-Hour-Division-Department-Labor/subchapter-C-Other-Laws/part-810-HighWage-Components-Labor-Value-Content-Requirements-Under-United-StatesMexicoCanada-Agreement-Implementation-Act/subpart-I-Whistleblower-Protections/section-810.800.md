@@ -1,5 +1,7 @@
 ##### § 810.800 Prohibited acts. #####
 
+Link to an amendment published at 89 FR 1817, Jan. 11, 2024.
+
 (a) *Discrimination.* (1) It is unlawful to intimidate, threaten, restrain, coerce, blacklist, discharge, or in any other manner discriminate against any person because the person has—
 
 (i) Disclosed information to a federal agency or to any person relating to a verification of the producer's compliance with the LVC requirements, or

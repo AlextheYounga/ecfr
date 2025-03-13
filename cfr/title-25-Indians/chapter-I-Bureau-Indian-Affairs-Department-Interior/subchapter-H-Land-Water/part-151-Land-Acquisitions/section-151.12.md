@@ -1,45 +1,31 @@
-##### § 151.12 Action on requests. #####
+##### § 151.12 How will the Secretary evaluate a request involving land for an initial Indian acquisition? #####
 
-(a) The Secretary shall review each request and may request any additional information or justification deemed necessary to reach a decision.
+(a) The Secretary shall consider the criteria in this section when evaluating requests for the acquisition of land in trust status when a Tribe does not have a reservation or land held in trust.
 
-(b) The Secretary's decision to approve or deny a request shall be in writing and state the reasons for the decision.
+(1) The existence of statutory authority for the acquisition and any limitations contained in such authority;
 
-(c) A decision made by the Secretary, or the Assistant Secretary—Indian Affairs pursuant to delegated authority, is a final agency action under 5 U.S.C. 704 upon issuance.
+(2) The purposes for which the land will be used; and
 
-(1) If the Secretary or Assistant Secretary denies the request, the Assistant Secretary shall promptly provide the applicant with the decision.
+(3) If the land to be acquired is in fee status, whether the Bureau of Indian Affairs is equipped to discharge the additional responsibilities resulting from the acquisition of the land in trust status.
 
-(2) If the Secretary or Assistant Secretary approves the request, the Assistant Secretary shall:
+(b) The Secretary shall give great weight to acquiring land that serves any of the following purposes, in accordance with § 151.3:
 
-(i) Promptly provide the applicant with the decision;
+(1) Furthers Tribal interests by establishing a Tribal land base or protects Tribal homelands;
 
-(ii) Promptly publish in the Federal Register a notice of the decision to acquire land in trust under this part; and
+(2) Protects sacred sites or cultural resources and practices;
 
-(iii) Immediately acquire the land in trust under § 151.14 on or after the date such decision is issued and upon fulfillment of the requirements of § 151.13 and any other Departmental requirements.
+(3) Establishes or maintains conservation or environmental mitigation areas;
 
-(d) A decision made by a Bureau of Indian Affairs official pursuant to delegated authority is not a final agency action of the Department under 5 U.S.C. 704 until administrative remedies are exhausted under part 2 of this chapter or until the time for filing a notice of appeal has expired and no administrative appeal has been filed.
+(4) Consolidates land ownership;
 
-(1) If the official denies the request, the official shall promptly provide the applicant with the decision and notification of any right to file an administrative appeal under part 2 of this chapter.
+(5) Reduces checkerboarding;
 
-(2) If the official approves the request, the official shall:
+(6) Acquires land lost through allotment;
 
-(i) Promptly provide the applicant with the decision;
+(7) Protects treaty or subsistence rights; or
 
-(ii) Promptly provide written notice of the decision and the right, if any, to file an administrative appeal of such decision pursuant to part 2 of this chapter, by mail or personal delivery to:
+(8) Facilitates Tribal self-determination, economic development, or Indian housing.
 
-(A) Interested parties who have made themselves known, in writing, to the official prior to the decision being made; and
+(c) When reviewing a request for a Tribe that does not have a reservation or land held in trust, the Secretary presumes that the acquisition will further the Tribal interests described in paragraph (b) of this section, and adverse impacts to local governments' regulatory jurisdiction, real property taxes, and special assessments will be minimal, therefore the application should be approved.
 
-(B) The State and local governments having regulatory jurisdiction over the land to be acquired;
-
-(iii) Promptly publish a notice in a newspaper of general circulation serving the affected area of the decision and the right, if any, of interested parties who did not make themselves known, in writing, to the official to file an administrative appeal of the decision under part 2 of this chapter; and
-
-(iv) Immediately acquire the land in trust under § 151.14 upon expiration of the time for filing a notice of appeal or upon exhaustion of administrative remedies under part 2 of this title, and upon the fulfillment of the requirements of § 151.13 and any other Departmental requirements.
-
-(3) The administrative appeal period under part 2 of this chapter begins on:
-
-(i) The date of receipt of written notice by the applicant or interested parties entitled to notice under paragraphs (d)(1) and (d)(2)(ii) of this section;
-
-(ii) The date of first publication of the notice for unknown interested parties under paragraph (d)(2)(iii) of this section.
-
-(4) Any party who wishes to seek judicial review of an official's decision must first exhaust administrative remedies under 25 CFR part 2.
-
-[78 FR 67937, Nov. 13, 2013]
+(d) Upon receipt of a written request for land to be acquired in trust when a Tribe does not have a reservation or land held in trust, the Secretary shall notify the State and local governments with regulatory jurisdiction over the land to be acquired. The notice will inform the State or local government that each will be given 30 calendar days in which to provide written comments to rebut the presumption of minimal adverse impacts to regulatory jurisdiction, real property taxes, and special assessments. If the State or local government responds within 30 calendar days, a copy of the comments will be provided to the applicant, who will be given a reasonable time in which to reply, if they choose to do so in their discretion, or request that the Secretary issue a decision. In reviewing such comments, the Secretary will consider the location of the land and potential conflicts of land use. The Secretary presumes that the Tribe will benefit from the acquisition.

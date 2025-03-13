@@ -1,5 +1,7 @@
 ##### § 54.622 Competitive bidding requirements and exemptions. #####
 
+Link to an amendment published at 89 FR 1846, Jan. 11, 2024.
+
 (a) *Competitive bidding requirement.* All applicants are required to engage in a competitive bidding process for supported services, facilities, or equipment, as applicable, consistent with the requirements set forth in this section and any additional applicable state, Tribal, local, or other procurement requirements, unless they qualify for an exemption listed in paragraph (i) in this section. In addition, applicants may engage in competitive bidding even if they qualify for an exemption. Applicants who utilize a competitive bidding exemption may proceed directly to filing a funding request as described in § 54.623.
 
 (b) *Fair and open process.* (1) Applicants participating in the Telecommunications Program or Healthcare Connect Fund Program must conduct a fair and open competitive bidding process. The following actions are necessary to satisfy the “fair and open” competitive standard in the Telecommunications Program and the Healthcare Connect Fund Program:
@@ -150,4 +152,4 @@
 
 (5) *Annual undiscounted cost of $10,000 or less.* An applicant under the Healthcare Connect Fund Program that seeks support for $10,000 or less of total undiscounted eligible expenses for a single year is exempt from the competitive bidding requirements under this section, if the term of the contract is one year or less. This exemption does not apply to applicants under the Telecommunications Program.
 
-[84 FR 54979, Oct. 11, 2019, as amended at 88 FR 17396, Mar. 23, 2023]
+[84 FR 54979, Oct. 11, 2019, as amended at 88 FR 17396, Mar. 23, 2023]Effective Date Note:At 89 FR , Jan. 11 2024, § 54.622 was amended by revising paragraphs (e)(1)(i) and (ii) and adding paragraph (i)(3)(iv), these amendments were delayed indefinitely.

@@ -1,5 +1,7 @@
 ##### § 503.23 Civil money penalty assessment. #####
 
+Link to an amendment published at 89 FR 1816, Jan. 11, 2024.
+
 (a) A civil money penalty may be assessed by the Administrator, WHD for each violation that meets the standards described in § 503.19. Each such violation involving the failure to pay an individual worker properly or to honor the terms or conditions of a worker's employment required by the *H-2B Registration, Application for Prevailing Wage Determination, Application for Temporary Employment Certification,* or *H-2B Petition,* constitutes a separate violation. Civil money penalty amounts for such violations are determined as set forth in paragraphs (b) to (e) of this section.
 
 (b) Upon determining that an employer has violated any provisions of § 503.16 related to wages, impermissible deductions or prohibited fees and expenses, the Administrator, WHD, may assess civil money penalties that are equal to the difference between the amount that should have been paid and the amount that actually was paid to such worker(s), not to exceed $14,960 per violation.

@@ -1,3 +1,3 @@
-##### § 151.5 Trust acquisitions in Oklahoma under section 5 of the I.R.A. #####
+##### § 151.5 May the Secretary acquire land in trust status by exchange? #####
 
-In addition to acquisitions for tribes which did not reject the provisions of the Indian Reorganization Act and their members, land may be acquired in trust status for an individual Indian or a tribe in the State of Oklahoma under section 5 of the Act of June 18, 1934 (48 Stat. 985; 25 U.S.C. 465), if such acquisition comes within the terms of this part. This authority is in addition to all other statutory authority for such an acquisition.
+The Secretary may acquire land in trust status on behalf of an individual Indian or Tribe by exchange under this part if authorized by Federal law and within the terms of this part. The disposal aspects of an exchange are governed by part 152 of this title.

@@ -1,5 +1,3 @@
-##### § 151.1 Purpose and scope. #####
+##### § 151.1 What is the purpose of this part? #####
 
-These regulations set forth the authorities, policy, and procedures governing the acquisition of land by the United States in trust status for individual Indians and tribes. Acquisition of land by individual Indians and tribes in fee simple status is not covered by these regulations even though such land may, by operation of law, be held in restricted status following acquisition. Acquisition of land in trust status by inheritance or escheat is not covered by these regulations.
-
-[79 FR 76897, Dec. 23, 2014]
+This part sets forth the authorities, policies, and procedures governing the acquisition of land by the United States in trust status for individual Indians and Tribes. This part does not cover acquisition of land by individual Indians and Tribes in fee simple status even though such land may, by operation of law, be held in restricted status following acquisition; acquisition of land mandated by Federal law; acquisition of land in trust status by inheritance or escheat; or transfers of land into restricted fee status unless required by Federal law.

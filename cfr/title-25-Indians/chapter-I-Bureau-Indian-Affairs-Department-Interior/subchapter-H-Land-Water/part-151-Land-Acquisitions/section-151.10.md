@@ -1,21 +1,33 @@
-##### § 151.10 On-reservation acquisitions. #####
+##### § 151.10 How will the Secretary evaluate a request involving land contiguous to the boundaries of an Indian reservation? #####
 
-Upon receipt of a written request to have lands taken in trust, the Secretary will notify the state and local governments having regulatory jurisdiction over the land to be acquired, unless the acquisition is mandated by legislation. The notice will inform the state or local government that each will be given 30 days in which to provide written comments as to the acquisition's potential impacts on regulatory jurisdiction, real property taxes and special assessments. If the state or local government responds within a 30-day period, a copy of the comments will be provided to the applicant, who will be given a reasonable time in which to reply and/or request that the Secretary issue a decision. The Secretary will consider the following criteria in evaluating requests for the acquisition of land in trust status when the land is located within or contiguous to an Indian reservation, and the acquisition is not mandated:
+(a) The Secretary shall consider the criteria in this section when evaluating requests for the acquisition of land in trust status when the land is located contiguous to an Indian reservation:
 
-(a) The existence of statutory authority for the acquisition and any limitations contained in such authority;
+(1) The existence of statutory authority for the acquisition and any limitations contained in such authority;
 
-(b) The need of the individual Indian or the tribe for additional land;
+(2) If the applicant is an individual Indian, the need for additional land, the amount of trust or restricted land already owned by or for that individual, and the degree to which the individual needs assistance in handling their affairs;
 
-(c) The purposes for which the land will be used;
+(3) The purposes for which the land will be used; and
 
-(d) If the land is to be acquired for an individual Indian, the amount of trust or restricted land already owned by or for that individual and the degree to which he needs assistance in handling his affairs;
+(4) If the land to be acquired is in fee status, whether the Bureau of Indian Affairs is equipped to discharge the additional responsibilities resulting from the acquisition of the land in trust status.
 
-(e) If the land to be acquired is in unrestricted fee status, the impact on the State and its political subdivisions resulting from the removal of the land from the tax rolls;
+(b) The Secretary shall give great weight to acquiring land that serves any of the following purposes, in accordance with § 151.3:
 
-(f) Jurisdictional problems and potential conflicts of land use which may arise; and
+(1) Furthers Tribal interests by establishing a Tribal land base or protects Tribal homelands;
 
-(g) If the land to be acquired is in fee status, whether the Bureau of Indian Affairs is equipped to discharge the additional responsibilities resulting from the acquisition of the land in trust status.
+(2) Protects sacred sites or cultural resources and practices;
 
-(h) The extent to which the applicant has provided information that allows the Secretary to comply with 516 DM 6, appendix 4, National Environmental Policy Act Revised Implementing Procedures, and 602 DM 2, Land Acquisitions: Hazardous Substances Determinations. (For copies, write to the Department of the Interior, Bureau of Indian Affairs, Branch of Environmental Services, 1849 C Street NW., Room 4525 MIB, Washington, DC 20240.)
+(3) Establishes or maintains conservation or environmental mitigation areas;
 
-[45 FR 62036, Sept. 18, 1980, as amended at 60 FR 32879, June 23, 1995]
+(4) Consolidates land ownership;
+
+(5) Reduces checkerboarding;
+
+(6) Acquires land lost through allotment;
+
+(7) Protects treaty or subsistence rights; or
+
+(8) Facilitates Tribal self-determination, economic development, or Indian housing.
+
+(c) When reviewing a Tribe's request for land contiguous to an Indian reservation, the Secretary presumes that the acquisition will further the Tribal interests described in paragraph (b) of this section, and adverse impacts to local governments' regulatory jurisdiction, real property taxes, and special assessments will be minimal, therefore the application should be approved.
+
+(d) Upon receipt of a written request to have land contiguous to an Indian reservation acquired in trust status, the Secretary shall notify the State and local governments with regulatory jurisdiction over the land to be acquired. The notice will inform the State or local government that each will be given 30 calendar days in which to provide written comments to rebut the presumption of minimal adverse impacts to regulatory jurisdiction, real property taxes, and special assessments. If the State or local government responds within 30 calendar days, a copy of the comments will be provided to the applicant, who will be given a reasonable time in which to reply, if they choose to do so in their discretion, or request that the Secretary issue a decision. In considering such comments, the Secretary presumes that the Tribal community will benefit from the acquisition.

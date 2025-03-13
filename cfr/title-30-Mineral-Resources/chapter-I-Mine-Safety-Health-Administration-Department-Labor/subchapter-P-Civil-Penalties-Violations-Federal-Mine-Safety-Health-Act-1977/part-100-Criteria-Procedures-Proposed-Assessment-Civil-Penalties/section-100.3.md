@@ -1,5 +1,7 @@
 ##### § 100.3 Determination of penalty amount; regular assessment. #####
 
+Link to an amendment published at 89 FR 1817, Jan. 11, 2024.
+
 (a) *General.* (1) Except as provided in § 100.5(e), the operator of any mine in which a violation occurs of a mandatory health or safety standard or who violates any other provision of the Mine Act, as amended, shall be assessed a civil penalty of not more than $85,580. Each occurrence of a violation of a mandatory safety or health standard may constitute a separate offense. The amount of the proposed civil penalty shall be based on the criteria set forth in sections 105(b) and 110(i) of the Mine Act. These criteria are:
 
 (i) The appropriateness of the penalty to the size of the business of the operator charged;

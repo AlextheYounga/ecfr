@@ -1,5 +1,7 @@
 ##### § 54.625 Service Provider Identification Number (SPIN) changes. #####
 
+Link to an amendment published at 89 FR 1846, Jan. 11, 2024.
+
 (a) *Corrective SPIN change.* A “corrective SPIN change” is any amendment to the SPIN associated with a Funding Request Number that does not involve a change to the service provider associated with that Funding Request Number. An applicant under the Telecommunications Program or the Healthcare Connect Fund Program may file a request for a corrective SPIN change with the Administrator to:
 
 (1) Correct ministerial errors;

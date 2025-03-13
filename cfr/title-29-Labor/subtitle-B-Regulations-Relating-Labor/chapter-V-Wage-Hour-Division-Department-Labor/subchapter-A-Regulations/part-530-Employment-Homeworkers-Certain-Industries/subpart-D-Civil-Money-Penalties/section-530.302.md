@@ -1,5 +1,7 @@
 ##### § 530.302 Amounts of civil money penalties. #####
 
+Link to an amendment published at 89 FR 1816, Jan. 11, 2024.
+
 (a) A civil money penalty, not to exceed $1,240 per affected homeworker for any one violation, may be assessed for any violation of the Act or of this part or of the assurances given in connection with the issuance of a certificate.
 
 (b) The amount of civil money penalties shall be determined per affected homeworker within the limits set forth in the following schedule, except that no penalty shall be assessed in the case of violations which are deemed to be *de minimis* in nature:
