@@ -1,6 +1,6 @@
 ##### § 312.2 Official marks and devices to identify inspected and passed products of cattle, sheep, swine, or goats. #####
 
-(a) The official inspection legend required by part 316 of this subchapter to be applied to inspected and passed carcasses and parts of carcasses of cattle, sheep, swine and goats, meat food products in animal casings, and other products as approved by the Administrator, shall be in the appropriate form as hereinafter specified: 1
+(a) The official inspection legend required by part 316 of this subchapter to be applied to inspected and passed carcasses and parts of carcasses of cattle, sheep, swine and goats, meat food products in animal casings, and other products as approved by the Administrator, shall be in the appropriate form as hereinafter specified:1
 
 1 The number “38” is given as an example only. The establishment number of the official establishment where the product is prepared shall be used in lieu thereof.
 
@@ -20,7 +20,7 @@ For application to beef and hog carcasses primal parts and cuts therefrom, beef 
 
 For application to burlap, muslin, cheesecloth, heavy paper, or other acceptable material that encloses carcasses or parts of carcasses.
 
-(b)(1) The official inspection legend required by part 317 of this subchapter to be shown on all labels for inspected and passed products of cattle, sheep, swine, and goats shall be in the following form 1 except that it need not be of the size illustrated, provided that it is a sufficient size and of such color as to be conspicuously displayed and readily legible and the same proportions of letter size and boldness are maintained as illustrated:
+(b)(1) The official inspection legend required by part 317 of this subchapter to be shown on all labels for inspected and passed products of cattle, sheep, swine, and goats shall be in the following form1 except that it need not be of the size illustrated, provided that it is a sufficient size and of such color as to be conspicuously displayed and readily legible and the same proportions of letter size and boldness are maintained as illustrated:
 
 ![](/graphics/ec11se91.004.gif)
 

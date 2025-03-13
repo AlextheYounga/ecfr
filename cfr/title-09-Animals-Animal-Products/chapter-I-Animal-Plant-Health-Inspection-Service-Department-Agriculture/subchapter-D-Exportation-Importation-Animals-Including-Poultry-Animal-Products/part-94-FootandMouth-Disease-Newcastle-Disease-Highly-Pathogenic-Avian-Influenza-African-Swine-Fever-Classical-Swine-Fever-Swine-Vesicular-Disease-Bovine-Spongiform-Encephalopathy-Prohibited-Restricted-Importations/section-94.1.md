@@ -6,7 +6,7 @@
 
 (2) APHIS will add a region to the list of those it has declared free of foot-and-mouth disease after it conducts an evaluation of the region in accordance with § 92.2 of this subchapter and finds that the disease is not present. In the case of a region formerly on this list that is removed due to an outbreak, the region may be returned to the list in accordance with the procedures for reestablishment of a region's disease-free status in § 92.4 of this subchapter. APHIS will remove a region from the list of those it has declared free of foot-and-mouth disease upon determining that the disease exists in the region based on reports APHIS receives of outbreaks of the disease from veterinary officials of the exporting country, from the World Organization for Animal Health (OIE), or from other sources the Administrator determines to be reliable.
 
-(b) The importation of any ruminant or swine or any fresh (chilled or frozen) meat of any ruminant or swine 1 that originates in any region where foot-and-mouth disease exists, as designated in paragraph (a) of this section, or that enters a port in or otherwise transits a region in which foot-and-mouth disease exists, is prohibited:
+(b) The importation of any ruminant or swine or any fresh (chilled or frozen) meat of any ruminant or swine1 that originates in any region where foot-and-mouth disease exists, as designated in paragraph (a) of this section, or that enters a port in or otherwise transits a region in which foot-and-mouth disease exists, is prohibited:
 
 1 Importation of animals and meat includes bringing the animals or meat within the territorial limits of the United States on a means of conveyance for use as sea stores or for other purposes.
 

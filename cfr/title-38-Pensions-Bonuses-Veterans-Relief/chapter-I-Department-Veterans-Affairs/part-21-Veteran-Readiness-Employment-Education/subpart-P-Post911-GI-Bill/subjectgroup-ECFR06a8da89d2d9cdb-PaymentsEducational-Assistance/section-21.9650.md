@@ -1,5 +1,7 @@
 ##### § 21.9650 Increase in educational assistance. #####
 
+Link to an amendment published at 90 FR 5352, Jan. 16, 2025.
+
 The Secretary of the military department concerned may increase the amount of basic educational assistance payable to an individual who has a skill or specialty in which there is a critical shortage of personnel, for which there is difficulty recruiting, or, in the case of critical units, for which there is difficulty retaining personnel, as determined by the Secretary of the military department concerned.
 
 (a) *Chapter 33 increase (“kicker”) amount.* (1) The amount of the increase is set by the Secretary of the military department concerned, but the amount of any such increase may not exceed—

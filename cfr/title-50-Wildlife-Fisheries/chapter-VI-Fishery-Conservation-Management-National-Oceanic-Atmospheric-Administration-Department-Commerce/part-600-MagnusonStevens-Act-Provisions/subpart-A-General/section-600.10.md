@@ -1,7 +1,5 @@
 ##### § 600.10 Definitions. #####
 
-Link to an amendment published at 89 FR 102013, Dec. 17, 2024.
-
 Unless defined otherwise in other parts of Chapter VI, the terms in this chapter have the following meanings:
 
 *Administrator* means the Administrator of NOAA (Under Secretary of Commerce for Oceans and Atmosphere) or a designee.
@@ -12,7 +10,7 @@ Unless defined otherwise in other parts of Chapter VI, the terms in this chapter
 
 *Agent,* for the purpose of foreign fishing (subpart F), means a person appointed and maintained within the United States who is authorized to receive and respond to any legal process issued in the United States to an owner and/or operator of a vessel operating under a permit and of any other vessel of that Nation fishing subject to the jurisdiction of the United States. Any diplomatic official accepting such an appointment as designated agent waives diplomatic or other immunity in connection with such process.
 
-*Aggregate or summary form* means confidential data structured in such a way that the identity of the submitter cannot be determined either from the present release of the data or in combination with other releases.
+*Aggregate or summary form* means information structured in such a way that the identity or business of any person (defined at 16 U.S.C. 1802(36)) who submitted the information cannot be directly or indirectly determined either from the present release of the information or in combination with other releases.
 
 *Albacore* means the species *Thunnus alalunga,* or a part thereof.
 
@@ -64,6 +62,12 @@ Unless defined otherwise in other parts of Chapter VI, the terms in this chapter
 
 *Buoy gear* means fishing gear consisting of a float and one or more lines suspended therefrom. A hook or hooks are on the lines at or near the end. The float and line(s) drift freely and are retrieved periodically to remove catch and rebait hooks.
 
+*Business of any person* means:
+
+(1) Financial information such as ownership information, cash flow documents, income statements, or information that contributes to the preparation of balance sheets; or
+
+(2) Operational information such as fishing locations, time of fishing, specific gear configuration, catch by species in numbers or weight thereof, number of hauls, number of employees and estimated processing capacity of and the actual processing capacity utilized by U.S. fish processors.
+
 *Carcass* means a fish in whole condition or that portion of a fish that has been gilled and/or gutted and the head and some or all fins have been removed, but that is otherwise in whole condition.
 
 *Cast net* means a circular net with weights attached to the perimeter.
@@ -82,15 +86,13 @@ Unless defined otherwise in other parts of Chapter VI, the terms in this chapter
 
 *Compensation fishing* means fishing conducted for the purpose of recovering costs associated with resource surveys and scientific studies that support the management of a fishery, or to provide incentive for participation in such studies. Compensation fishing may include fishing during or subsequent to such surveys or studies.
 
-*Confidential statistics* are those submitted as a requirement of an FMP and that reveal the business or identity of the submitter.
+*Confidential information* includes any observer information as defined under 16 U.S.C. 1802(32) or any information submitted to the Secretary, a State fishery management agency, or a marine fisheries commission by any person in compliance with any requirement or regulation under the Magnuson-Stevens Act. Confidential information does not include observer information related to interactions with species protected under the Marine Mammal Protection Act: the date, time, and location of interactions, the type of species, and the fishing practices and gear involved provided that information regarding fishing practices and gear would not constitute a trade secret under the Freedom of Information Act, 5 U.S.C. 552(b)(4).
 
 *Conservation engineering* means the development and assessment of fishing technologies and fishing techniques designed to conserve target and non-target species, and may include the study of fish behavior and the development and testing of new gear technologies and fishing techniques to minimize bycatch and any adverse effects on essential fish habitat and promote efficient harvest of target species. Conservation engineering may include the assessment of existing fishing technologies applied in novel ways. An example would be assessing the ability of a bycatch reduction device (BRD), designed and proven in one fishery, to reduce bycatch in another fishery. Conservation engineering meeting the definition of scientific research activity is not fishing.
 
 *Continental shelf fishery resources* means the species listed under section 3(7) of the Magnuson-Stevens Act.
 
 *Council* means one of the eight Regional Fishery Management Councils established by the Magnuson-Stevens Act.
-
-*Data, statistics,* and *information* are used interchangeably.
 
 *Dealer* means the person who first receives fish by way of purchase, barter, or trade.
 
@@ -107,6 +109,8 @@ Unless defined otherwise in other parts of Chapter VI, the terms in this chapter
 *Dredge* means a gear consisting of a mouth frame attached to a holding bag constructed of metal rings or mesh.
 
 *Drop net* means a small, usually circular net with weight around the perimeter and a float in the center.
+
+*Electronic monitoring service provider* means any person who manages observer information collected by an electronic monitoring system required under an MSA regulation or as part of a cooperative research initiative.
 
 *Essential fish habitat (EFH)* means those waters and substrate necessary to fish for spawning, breeding, feeding, or growth to maturity. For the purpose of interpreting the definition of essential fish habitat: “Waters” include aquatic areas and their associated physical, chemical, and biological properties that are used by fish and may include aquatic areas historically used by fish where appropriate; “substrate” includes sediment, hard bottom, structures underlying the waters, and associated biological communities; “necessary” means the habitat required to support a sustainable fishery and the managed species' contribution to a healthy ecosystem; and “spawning, breeding, feeding, or growth to maturity” covers a species' full life cycle.
 
@@ -190,6 +194,8 @@ Unless defined otherwise in other parts of Chapter VI, the terms in this chapter
 
 *Industry* means both recreational and commercial fishing, and includes the harvesting, processing, and marketing sectors.
 
+*Information sharing obligation of a Regional Fishery Management Organization (RFMO)* means a measure or part thereof that creates a binding requirement on the United States to report certain information by virtue of its membership in the respective RFMO.
+
 *International radio call sign (IRCS)* means the unique radio identifier assigned a vessel by the appropriate authority of the flag state.
 
 *Joint venture* means any operation by a foreign vessel assisting fishing by U.S. fishing vessels, including catching, scouting, processing and/or support. (A joint venture generally entails a foreign vessel processing fish received from U.S. fishing vessels and conducting associated support activities.)
@@ -232,6 +238,8 @@ Unless defined otherwise in other parts of Chapter VI, the terms in this chapter
 |                            1                            | 40°2.64′ |  67°43.32′   |
 |<sup>a</sup> U.S. EEZ longitude, approximately 65°56.58′.|          |              |
 |<sup>b</sup> U.S. EEZ longitude, approximately 66°55.86′.|          |              |
+
+*Observer provider* means any person that collects observer information by placement of observers on or in fishing vessels, shoreside processors, or stationary floating processors under a requirement of the MSA or as part of a cooperative research initiative.
 
 *Official number* means the documentation number issued by the USCG or the certificate number issued by a state or by the USCG for an undocumented vessel.
 
@@ -279,13 +287,15 @@ Unless defined otherwise in other parts of Chapter VI, the terms in this chapter
 
 *Recreational fishing,* with respect to a foreign vessel, means any fishing from a foreign vessel not operated for profit and not operated for the purpose of scientific research. It may not involve the sale, barter, or trade of part or all of the catch (see § 600.513).
 
-*Retain on board* means to fail to return fish to the sea after a reasonable opportunity to sort the catch.
-
 *Region* means one of six NMFS Regional Offices responsible for administering the management and development of marine resources of the United States in their respective geographical regions.
 
 *Regional Administrator* means the Administrator of one of the six NMFS Regions described in Table 1 to § 600.502, or a designee.
 
+*Regional Fishery Management Organization (RFMO)* means an intergovernmental fisheries organization or arrangement, as appropriate, that has the competence to establish conservation and management measures.
+
 *Regional Program Officer* means the NMFS official designated in the terms and conditions of the grant award responsible for monitoring, recommending, and reviewing any technical aspects of the application for Federal assistance and the award.
+
+*Retain on board* means to fail to return fish to the sea after a reasonable opportunity to sort the catch.
 
 *Rod and reel* means a hand-held (including rod holder) fishing rod with a manually or electrically operated reel attached.
 
@@ -395,4 +405,4 @@ Unless defined otherwise in other parts of Chapter VI, the terms in this chapter
 
 *Yellowfin tuna* means the species *Thunnus albacares,* or a part thereof.
 
-[61 FR 32540, June 24, 1996, as amended at 62 FR 14646, Mar. 27, 1997; 62 FR 66551, Dec. 19, 1997; 63 FR 7073, 7075, Feb. 12, 1998; 64 FR 4036, Jan. 27, 1999; 64 FR 29133, May 28, 1999; 64 FR 67516, Dec. 2, 1999; 67 FR 2375, Jan. 17, 2002; 67 FR 64312, Oct. 18, 2002; 69 FR 30240, May 27, 2004; 73 FR 67810, Nov. 17, 2008; 74 FR 42792, Aug. 25, 2009; 75 FR 59149, Sept. 27, 2010; 75 FR 57701, Sept. 22, 2010; 89 FR 12286, Feb. 16, 2024]
+[61 FR 32540, June 24, 1996, as amended at 62 FR 14646, Mar. 27, 1997; 62 FR 66551, Dec. 19, 1997; 63 FR 7073, 7075, Feb. 12, 1998; 64 FR 4036, Jan. 27, 1999; 64 FR 29133, May 28, 1999; 64 FR 67516, Dec. 2, 1999; 67 FR 2375, Jan. 17, 2002; 67 FR 64312, Oct. 18, 2002; 69 FR 30240, May 27, 2004; 73 FR 67810, Nov. 17, 2008; 74 FR 42792, Aug. 25, 2009; 75 FR 59149, Sept. 27, 2010; 75 FR 57701, Sept. 22, 2010; 89 FR 12286, Feb. 16, 2024; 89 FR 102013, Dec. 17, 2024]

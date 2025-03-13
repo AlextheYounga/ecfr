@@ -1,22 +1,14 @@
 ##### § 124.108 What other eligibility requirements apply for individuals or businesses? #####
 
-Link to an amendment published at 89 FR 102489, Dec. 17, 2024.
-
 (a) *Good character.* The applicant or Participant and all its principals must have good character.
 
-(1) If during the processing of an application, SBA receives adverse information from the applicant or a credible source regarding possible criminal conduct by the applicant or any of its principals, SBA may suspend further processing of the application and refer it to SBA's Office of Inspector General (OIG) for review. If the SBA suspends the application, but does not hear back from OIG within 45 days, SBA may proceed with application processing. The AA/BD will consider any findings of the OIG when evaluating the application.
+(1) Violations of any of SBA's regulations may result in denial of participation in the 8(a) BD program. The AA/BD will consider the nature and severity of the violation in making an eligibility determination.
 
-(2) Violations of any of SBA's regulations may result in denial of participation in the 8(a) BD program. The AA/BD will consider the nature and severity of the violation in making an eligibility determination.
+(2) Debarred or suspended concerns or concerns owned by debarred or suspended persons are ineligible for admission to the 8(a) BD program.
 
-(3) Debarred or suspended concerns or concerns owned by debarred or suspended persons are ineligible for admission to the 8(a) BD program.
+(3) An applicant is ineligible for admission to the 8(a) BD program if the applicant concern or a proprietor, partner, limited liability member, director, officer, or holder of at least 20 percent of its stock, or another person (including key employees) with significant authority over the concern lacks business integrity as demonstrated by conduct that could be grounds for suspension or debarment;
 
-(4) An applicant is ineligible for admission to the 8(a) BD program if the applicant concern or a proprietor, partner, limited liability member, director, officer, or holder of at least 20 percent of its stock, or another person (including key employees) with significant authority over the concern:
-
-(i) Lacks business integrity as demonstrated by information related to an indictment or guilty plea, conviction, civil judgment, or settlement; or
-
-(ii) Is currently incarcerated, or on parole or probation pursuant to a pre-trial diversion or following conviction for a felony or any crime involving business integrity.
-
-(5) If, during the processing of an application, SBA determines that an applicant has knowingly submitted false information, regardless of whether correct information would cause SBA to deny the application, and regardless of whether correct information was given to SBA in accompanying documents, SBA will deny the application. If, after admission to the program, SBA discovers that false information has been knowingly submitted by a firm, SBA will initiate termination proceedings and suspend the firm under §§ 124.304 and 124.305. Whenever SBA determines that the applicant submitted false information, the matter will be referred to SBA's Office of Inspector General for review.
+(4) If, during the processing of an application, SBA determines that an applicant has knowingly submitted false information, regardless of whether correct information would cause SBA to deny the application, and regardless of whether correct information was given to SBA in accompanying documents, SBA will deny the application. If, after admission to the program, SBA discovers that false information has been knowingly submitted by a firm, SBA will initiate termination proceedings and suspend the firm under §§ 124.304 and 124.305. Whenever SBA determines that the applicant submitted false information, the matter will be referred to SBA's Office of Inspector General for review.
 
 (b) *One-time eligibility.* Once a concern or disadvantaged individual upon whom eligibility was based has participated in the 8(a) BD program, neither the concern nor that individual will be eligible again.
 
@@ -34,6 +26,6 @@ Link to an amendment published at 89 FR 102489, Dec. 17, 2024.
 
 (d) *Brokers.* Brokers are ineligible to participate in the 8(a) BD program. A broker is a concern that adds no material value to an item being supplied to a procuring activity or which does not take ownership or possession of or handle the item being procured with its own equipment or facilities.
 
-(e) *Federal financial obligations.* Neither a firm nor any of its principals that fails to pay significant financial obligations owed to the Federal Government, including unresolved tax liens and defaults on Federal loans or other Federally assisted financing, is eligible for admission to or participation in the 8(a) BD program. However, a firm will not be ineligible to participate in the 8(a) BD program if the firm or the affected principals can demonstrate that the financial obligations owed have been settled and discharged/forgiven by the Federal Government.
+(e) *Federal financial obligations.* A business concern is ineligible for admission to or participation in the 8(a) BD program if either the concern or any of its principals has failed to pay significant financial obligations owed to the Federal Government, including unresolved tax liens and defaults on Federal loans or other Federally assisted financing. However, a small business concern may be eligible if the concern or the affected principals can demonstrate that they are current on an approved repayment plan or the financial obligations owed have been settled and discharged/forgiven by the Federal Government.
 
-[63 FR 35739, 35772, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8255, Feb. 11, 2011; 81 FR 48580, July 25, 2016; 88 FR 26204, Apr. 27, 2023]
+[63 FR 35739, 35772, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8255, Feb. 11, 2011; 81 FR 48580, July 25, 2016; 88 FR 26204, Apr. 27, 2023; 89 FR 102489, Dec. 17, 2024]

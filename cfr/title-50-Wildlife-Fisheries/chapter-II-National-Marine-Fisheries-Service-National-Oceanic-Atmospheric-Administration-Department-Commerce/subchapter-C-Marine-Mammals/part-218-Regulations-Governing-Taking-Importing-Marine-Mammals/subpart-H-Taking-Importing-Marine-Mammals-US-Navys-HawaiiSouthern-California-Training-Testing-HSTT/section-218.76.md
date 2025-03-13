@@ -1,4 +1,4 @@
-##### § 218.76 Letters of Authorization. #####
+##### § 218.76 Letters of Authorization (LOA). #####
 
 (a) To incidentally take marine mammals pursuant to the regulations in this subpart, the Navy must apply for and obtain LOAs in accordance with § 216.106 of this chapter.
 

@@ -22,7 +22,7 @@
 
 (3) *Water.* To prevent an electrical shock, personnel shall not spray streams of water on energized carcasses or on energized stimulating surfaces.
 
-(d) *Special provisions for manually operated equipment.* (1) Stimulating probes or clamps shall be stored in a sanitary container which is insulated with a material approved by the Administrator. 1
+(d) *Special provisions for manually operated equipment.* (1) Stimulating probes or clamps shall be stored in a sanitary container which is insulated with a material approved by the Administrator.1
 
 1 A list of approved insulation materials is available upon request from the Facilities, Equipment and Sanitation Division, Technical Services, Food Safety and Inspection Service, U.S. Department of Agriculture, Washington, DC 20250.
 

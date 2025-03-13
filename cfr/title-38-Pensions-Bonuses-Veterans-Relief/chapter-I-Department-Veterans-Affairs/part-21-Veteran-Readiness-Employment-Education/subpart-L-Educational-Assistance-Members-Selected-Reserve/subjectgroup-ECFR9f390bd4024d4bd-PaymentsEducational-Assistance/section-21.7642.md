@@ -1,5 +1,7 @@
 ##### § 21.7642 Nonduplication of educational assistance. #####
 
+Link to an amendment published at 90 FR 5333, Jan. 16, 2025.
+
 (a) *Payments of educational assistance shall not be duplicated.* A reservist is barred from receiving educational assistance concurrently under 10 U.S.C. chapter 1606 and any of the following provisions of law—
 
 (1) 38 U.S.C. 30 (Montgomery GI Bill—Active Duty);

@@ -2,7 +2,7 @@
 
 Unless otherwise prescribed in a Standard Requirement or in a filed Outline of Production, each Master Seed Virus (MSV) shall be tested as prescribed in this section. A MSV found unsatisfactory by any prescribed test shall not be used. A serial of biological product shall not be released if produced from a MSV that is found unsatisfactory by any prescribed test.
 
-(a) At least a 1.0 ml aliquot per cell culture of MSV shall be dispensed onto monolayers (at least 75 cm 2 in area) of:
+(a) At least a 1.0 ml aliquot per cell culture of MSV shall be dispensed onto monolayers (at least 75 cm2 in area) of:
 
 (1) Vero (African green monkey kidney) cell line;
 
@@ -14,7 +14,7 @@ Unless otherwise prescribed in a Standard Requirement or in a filed Outline of P
 
 (c) Each monolayer shall be maintained at least 14 days.
 
-(d) Cells shall be subcultured at least once during the maintenance period. All but the last subculture shall result in at least one new monolayer at least 75 cm 2. The last subculture shall meet the minimum area requirement specified in §§ 113.46 and 113.47.
+(d) Cells shall be subcultured at least once during the maintenance period. All but the last subculture shall result in at least one new monolayer at least 75 cm2. The last subculture shall meet the minimum area requirement specified in §§ 113.46 and 113.47.
 
 (e) Monolayers shall be examined regularly throughout the 14-day maintenance period for evidence of cytopathogenic agents. If evidence of a cytopathogenic agent is found, the MSV is unsatisfactory.
 

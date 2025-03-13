@@ -1,7 +1,5 @@
 ##### § 127.405 What happens if SBA determines that the concern is no longer eligible for the program? #####
 
-Link to an amendment published at 89 FR 102507, Dec. 17, 2024.
-
 If SBA believes that a concern does not meet the program eligibility requirements, the concern fails to recertify in accordance with the requirements in § 127.400, or the concern has failed to notify SBA of a material change, SBA will propose the concern for decertification from the program.
 
 (a) *Proposed decertification.* The D/GC or designee will notify the concern in writing that it has been proposed for decertification. This notice will state the reasons why SBA has proposed decertification, and that the WOSB or EDWOSB must respond to each of the reasons set forth.
@@ -14,7 +12,13 @@ If SBA believes that a concern does not meet the program eligibility requirement
 
 (c) *Decertification in response to adverse protest decision.* SBA will decertify a concern found to be ineligible during a WOSB/EDWOSB status protest.
 
-(d) *Decertification due to submission of false information.* If SBA discovers that a WOSB or EDWOSB or its representative knowingly submitted false information, SBA will propose the firm for decertification. In addition, SBA will refer the matter to the SBA Office of Inspector General for review and may request that Government-wide debarment or suspension proceedings be initiated by the agency.
+(d) *Decertification due to submission of false or misleading information.* If SBA discovers that a WOSB or EDWOSB or its representative knowingly submitted false or misleading information, SBA will propose the firm for decertification. In addition, SBA will refer the matter to the SBA Office of Inspector General for review and may recommend that Government-wide debarment or suspension proceedings be initiated.
+
+(1) A firm that is decertified from the WOSB program due to the submission of false or misleading information may be removed from SBA's other small business contracting programs, including the 8(a) Business Development Program, the HUBZone Program, the Veteran Small Business Certification (VetCert) Program, and SBA's Mentor-Protégé Program.
+
+(2) A firm that is decertified or terminated from the 8(a) BD Program, the HUBZone Program, or the VetCert Program due to the submission of false or misleading information may be decertified from the WOSB Program.
+
+(3) SBA may require a firm that is decertified or terminated from the WOSB Program, 8(a) BD Program, the HUBZone Program, or the VetCert Program due to the submission of false or misleading information to enter into an administrative agreement with SBA as a condition of admission or re-admission to the WOSB program.
 
 (e) *Effect of decertification.* Once SBA has decertified a concern, the concern cannot self-certify as a WOSB or EDWOSB, as applicable, for any WOSB or EDWOSB contract. If a concern does so, it may be in violation of criminal laws, including section 16(d) of the Small Business Act, 15 U.S.C. 645(d). If the concern has already certified itself as a WOSB or EDWOSB on a pending procurement, the concern must immediately inform the contracting officer for the procuring agency of its decertification.
 
@@ -24,4 +28,4 @@ If SBA believes that a concern does not meet the program eligibility requirement
 
 (f) *Reapplication.* A concern decertified pursuant to this section may reapply to the program pursuant to § 127.305.
 
-[85 FR 27664, May 11, 2020, as amended at 88 FR 26215, Apr. 27, 2023]
+[85 FR 27664, May 11, 2020, as amended at 88 FR 26215, Apr. 27, 2023; 89 FR 102507, Dec. 17, 2024]

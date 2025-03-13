@@ -1,5 +1,7 @@
 ##### § 21.9700 Yellow Ribbon Program. #####
 
+Link to an amendment published at 90 FR 5356, Jan. 16, 2025.
+
 (a) *Establishment.* The “Yellow Ribbon G.I. Education Enhancement Program”, known as the “Yellow Ribbon Program,” permits an institution of higher learning (IHL), at the IHL's option, to enter into an agreement with VA to allow the two parties to provide matching funds to cover a portion of the outstanding amount of established charges not covered under 38 U.S.C. chapter 3313(c)(1)(A).
 
 (b) *Eligible individuals.* This program is only available to individuals entitled to the 100 percent educational assistance rate (based on service requirements) as shown in the chart in § 21.9640(a) or to their designated dependents using entitlement transferred under § 21.9570, who are pursuing training at an eligible IHL.

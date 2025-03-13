@@ -1,16 +1,14 @@
 ##### § 124.602 What kind of annual financial statement must a Participant submit to SBA? #####
 
-Link to an amendment published at 89 FR 102490, Dec. 17, 2024.
-
 (a) Except as set forth in paragraph (a)(1) of this section, Participants with gross annual receipts of more than $10,000,000 must submit to SBA audited annual financial statements prepared by a licensed independent public accountant within 120 days after the close of the concern's fiscal year.
 
-(1) Participants with gross annual receipts of more than $10,000,000 which are owned by a Tribe, ANC, NHO, or CDC may elect to submit unaudited financial statements within 120 days after the close of the concern's fiscal year, provided the following additional documents are submitted simultaneously:
+(1) Participants with gross annual receipts of more than $20,000,000 which are owned by a Tribe, ANC, NHO, or CDC may elect to submit unaudited financial statements within 120 days after the close of the concern's fiscal year, provided the following additional documents are submitted simultaneously:
 
 (i) Audited annual financial statements for the parent company owner of the Participant, prepared by a licensed independent public accountant, for the equivalent fiscal year;
 
 (ii) Certification from the Participant's Chief Executive Officer and Chief Financial Officer (or comparable positions) that each individual has read the unaudited financial statements, affirms that the statements do not contain any material misstatements, and certifying that the statements fairly represent the Participant's financial condition and result of operations.
 
-(2) In the first year that a Participant's gross receipts exceed $10,000,000, a Participant may provide an audited balance sheet, with the income and cash flow statements receiving the level of service required for the previous year (review or none, depending on sales the year before the audit is required).
+(2) In the first year that a Participant's gross receipts exceed $20,000,000, a Participant may provide an audited balance sheet, with the income and cash flow statements receiving the level of service required for the previous year (review or none, depending on sales the year before the audit is required).
 
 (3) The servicing SBA District Director may waive the requirement for audited financial statements for good cause shown by the Participant.
 
@@ -22,11 +20,11 @@ Link to an amendment published at 89 FR 102490, Dec. 17, 2024.
 
 (iii) The concern has been a Participant less than 12 months.
 
-(b)(1) Participants with gross annual receipts between $2,000,000 and $10,000,000 must submit to SBA reviewed annual financial statements prepared by a licensed independent public accountant within 90 days after the close of the concern's fiscal year.
+(b)(1) Participants with gross annual receipts between 7,500,000 and $20,000,000 must submit to SBA reviewed annual financial statements prepared by a licensed independent public accountant within 90 days after the close of the concern's fiscal year.
 
 (2) The servicing SBA District Director may waive the requirement for reviewed financial statements for good cause shown by the Participant.
 
-(c) Participants with gross annual receipts of less than $2,000,000 must submit to SBA an annual statement prepared in-house or a compilation statement prepared by a licensed independent public accountant, verified as to accuracy by an authorized officer, partner, limited liability member, or sole proprietor of the Participant, including signature and date, within 90 days after the close of the concern's fiscal year.
+(c) Participants with gross annual receipts of less than $7,500,000 must submit to SBA an annual statement prepared in-house or a compilation statement prepared by a licensed independent public accountant, verified as to accuracy by an authorized officer, partner, limited liability member, or sole proprietor of the Participant, including signature and date, within 90 days after the close of the concern's fiscal year.
 
 (d) Any audited or reviewed financial statements submitted to SBA pursuant to paragraphs (a) or (b) of this section must be prepared in accordance with Generally Accepted Accounting Principles.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 89 FR 102490, Dec. 17, 2024.
 
 (g) Participants owned by Tribes, ANCs, NHOs and CDCs may submit consolidated financial statements prepared by the parent entity that include schedules for each 8(a) Participant instead of separate audited financial statements for each individual 8(a) Participant. If one Participant must submit an audited financial statement, then the consolidated statement and the schedules for each 8(a) Participant must be audited.
 
-[63 FR 35739, June 30, 1998, as amended at 76 FR 8264, Feb. 11, 2011]
+[63 FR 35739, June 30, 1998, as amended at 76 FR 8264, Feb. 11, 2011; 89 FR 102490, Dec. 17, 2024]

@@ -1,7 +1,5 @@
 ##### § 128.203 Who does SBA consider to control a VOSB or SDVOSB? #####
 
-Link to an amendment published at 89 FR 102508, Dec. 17, 2024.
-
 (a) *General.* To be an eligible VOSB, the management and daily business operations of the concern must be controlled by one or more veterans. To be an eligible SDVOSB, the management and daily business operations of the concern must be controlled by one or more service-disabled veterans (or in the case of a veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran). Control by one or more qualifying veterans means that one or more qualifying veterans controls both the long-term decision-making and the day-to-day operations of the Applicant or Participant.
 
 (b) *Managerial position and experience.* A qualifying veteran must hold the highest officer position in the concern (usually President or Chief Executive Officer) and must have managerial experience of the extent and complexity needed to control the concern. The qualifying veteran need not have the technical expertise or possess the required license to be found to control of the concern if the qualifying veteran can demonstrate that he or she has ultimate managerial and supervisory control over those who possess the required licenses or technical expertise.
@@ -32,25 +30,23 @@ Link to an amendment published at 89 FR 102508, Dec. 17, 2024.
 
 (4) Arrangements regarding the structure and voting rights of the Board of Directors must comply with applicable state law.
 
-(f) *Supermajority requirements.* One or more qualifying veteran(s) must meet all supermajority voting requirements regarding the management and daily business operations of the concern, regardless of the legal structure of the firm. An Applicant must inform the SBA, when applicable, of any supermajority voting requirements provided for in its articles of incorporation, its by-laws, by state law, or otherwise. Similarly, after being certified, a Participant must inform the SBA of changes regarding supermajority voting requirements.
+(f) *Supermajority requirements.* One or more qualifying veteran(s) must meet all supermajority voting requirements regarding the management and daily business operations of the concern, regardless of the legal structure of the firm.
 
-(g) *Unexercised rights.* A qualifying veteran's unexercised right to cause a change in the control or management of the concern does not in itself constitute control, regardless of how quickly or easily the right could be exercised.
+(g) *Unexercised rights.* Except as set forth in paragraph (e)(1) of this section, a qualifying veteran's unexercised right to cause a change in the control or management of the concern does not in itself constitute control, regardless of how quickly or easily the right could be exercised.
 
-(h) *Limitations on control by non-qualifying-veterans.* (1) A non-qualifying-veteran must not:
+(h) *Limitations on control by non-qualifying-veterans.* Non-qualifying-veterans may be involved in the management of the concern and may be stockholders, partners or limited liability members of the concern. However, no non-qualifying veteran may:
 
-(i) Exercise actual control or have the power to control the concern;
+(1) Exercise actual control or have the power to control the concern;
 
-(ii) Have business relationships that cause such dependence that the qualifying veteran cannot exercise independent business judgment without great economic risk;
+(2) Have business relationships that cause such dependence that the qualifying veteran cannot exercise independent business judgment without great economic risk;
 
-(iii) Control the Applicant or Participant through loan arrangements (which does not include providing a loan guaranty on commercially reasonable terms);
+(3) Control the concern through loan arrangements (which does not include providing a loan guaranty on commercially reasonable terms);
 
-(iv) Provide critical financial or bonding support or a critical license to the Applicant or Participant, which directly or indirectly allows the non-qualifying-veteran significantly to influence business decisions of the qualifying veteran.
+(4) Provide critical financial or bonding support or a critical license to the concern, which directly or indirectly allows the non-qualifying veteran to significantly influence business decisions of the qualifying veteran.
 
-(2) A non-qualifying-veteran may be involved in the management of the concern, and may be a stockholder, partner, limited liability member, officer, and/or director of the concern. However, a non-qualifying-veteran generally may not:
+(5) Be a former employer, or a principal of a former employer, of any qualifying veteran, unless the concern demonstrates that the relationship between the former employer or principal and the qualifying veteran does not give the former employer actual control or the potential to control the concern and such relationship is in the best interests of the concern; or
 
-(i) Be a former employer, or a principal of a former employer, of any qualifying veteran, unless the concern demonstrates that the relationship between the former employer or principal and the qualifying veteran does not give the former employer actual control or the potential to control the Applicant or Participant and such relationship is in the best interests of the concern; or
-
-(ii) Receive compensation from the concern in any form as a director, officer, or employee, that exceeds the compensation to be received by the qualifying veteran who holds the highest officer position (usually Chief Executive Officer or President), unless the concern demonstrates that the compensation to be received by the non-qualifying veteran is commercially reasonable or that the qualifying veteran has elected to take lower compensation to benefit the concern.
+(6) Receive compensation from the concern in any form as a director, officer, or employee, that exceeds the compensation to be received by the qualifying veteran who holds the highest officer position (usually Chief Executive Officer or President), unless the concern demonstrates that the compensation to be received by non-qualifying veteran is commercially reasonable or that the qualifying veteran has elected to take lower compensation to benefit the concern. A certified SDVOSB must notify SBA within 30 calendar days if the compensation paid to the highest-ranking officer falls below that paid to a non-qualifying veteran. In such a case, SBA must determine that that the compensation to be received by the non-qualifying veteran is commercially reasonable or that the highest-ranking officer has elected to take lower compensation to benefit the SDVOSB before SBA may determine that the concern is eligible for a SDVOSB award.
 
 (i) *Limitation on outside employment.* (1) A qualifying veteran generally must devote full time to the business concern during its normal hours of operations. The qualifying veteran who holds the highest officer position of the business concern may not engage in outside employment that prevents the qualifying veteran from devoting the time and attention to the concern necessary to control its management and daily business operations.
 
@@ -60,16 +56,20 @@ Link to an amendment published at 89 FR 102508, Dec. 17, 2024.
 
 (j) *Exception for extraordinary circumstances.* SBA will not find that a lack of control exists where a qualifying veteran does not have the unilateral power and authority to make decisions regarding the following extraordinary circumstances:
 
-(1) Adding a new equity stakeholder;
+(1) Adding a new equity stakeholder or increasing the investment amount of an equity stakeholder;
 
 (2) Dissolution of the company;
 
 (3) Sale of the company or all assets of the company;
 
-(4) The merger of the company; and
+(4) The merger of the company;
 
-(5) Company declaring bankruptcy.
+(5) Company declaring bankruptcy;
+
+(6) Amendment of the company's corporate governance documents to remove the shareholder's authority to block any of the actions in paragraphs (j)(1) through (5) of this section; and
+
+(7) Any other extraordinary action that is crafted solely to protect the investment of the minority shareholders, and not to impede the majority's ability to control the concern's operations or to conduct the concern's business as it chooses.
 
 (k) *Exception for active duty.* Notwithstanding the requirements of this section, where a qualifying veteran is a reserve component member in the United States military who has been called to active duty, the concern may elect to designate in writing one or more individuals to control the concern on behalf of the qualifying veteran during the period of active duty. The concern must keep records evidencing the qualifying veteran's active duty status and the written designation of control and provide those documents to SBA.
 
-[87 FR 73412, Nov. 29, 2022, as amended at 88 FR 26216, Apr. 27, 2023; 89 FR 96094, Dec. 4, 2024]
+[87 FR 73412, Nov. 29, 2022, as amended at 88 FR 26216, Apr. 27, 2023; 89 FR 96094, Dec. 4, 2024; 89 FR 102508, Dec. 17, 2024]

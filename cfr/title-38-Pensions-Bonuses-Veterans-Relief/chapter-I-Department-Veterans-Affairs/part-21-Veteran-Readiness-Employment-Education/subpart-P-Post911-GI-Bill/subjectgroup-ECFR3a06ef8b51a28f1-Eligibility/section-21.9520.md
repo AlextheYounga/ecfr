@@ -1,5 +1,7 @@
 ##### § 21.9520 Basic eligibility. #####
 
+Link to an amendment published at 90 FR 5336, Jan. 16, 2025.
+
 An individual may establish eligibility for educational assistance under 38 U.S.C. chapter 33 based on active duty service after September 10, 2001, if he or she—
 
 (a) Serves a minimum of 90 aggregate days excluding entry level and skill training (to determine when entry level and skill training may be included in the total creditable length of service, see § 21.9640(a)) and, after completion of such service,—

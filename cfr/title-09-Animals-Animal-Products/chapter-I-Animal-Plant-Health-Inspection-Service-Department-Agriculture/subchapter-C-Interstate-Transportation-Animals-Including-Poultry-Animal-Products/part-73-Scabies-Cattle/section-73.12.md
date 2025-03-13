@@ -1,4 +1,4 @@
-##### § 73.12 Ivermectin. 1 #####
+##### § 73.12 Ivermectin.1 #####
 
 1 Tissue residues remain following treatment with ivermectin. Cattle treated with ivermectin are not allowed to be slaughtered for food purposes until the expiration of such period as may be required under the Federal Meat Inspection Act (21 U.S.C. 601 *et seq.*). Further, the animal drug regulations in 21 CFR parts 522 and 556 promulgated under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 *et seq.*) contain limitations on the use of ivermectin and contain tolerances for ivermectin in edible cattle tissue. With respect to the limitations 21 CFR part 522 provides the following: “For subcutaneous use only. Not for intramuscular use. Do not treat cattle within 35 days of slaughter. Because a withdrawal time in milk has not been established, do not use in female dairy cattle of breeding age. Federal law restricts this drug to use by or on the order of a licensed veterinarian.”
 

@@ -8,7 +8,7 @@
 
 (4) When the inspector deems it necessary, the inspector may sample and inspect lots not designated by the electronic inspection system.
 
-(b) All products, required by this part to be inspected, shall be inspected only at an official establishment or at an official import inspection establishment approved by the Administrator as provided in this section. Such approved official import inspection establishments will be listed in the Directory of Meat and Poultry Inspection Program Establishments, Circuits and Officials, published by the Food Safety and Inspection Service. The listing will categorize the kind or kinds of product 2 which may be inspected at each official import inspection establishment, based on the adequacy of the facilities for making such inspections and handling such products in a sanitary manner.
+(b) All products, required by this part to be inspected, shall be inspected only at an official establishment or at an official import inspection establishment approved by the Administrator as provided in this section. Such approved official import inspection establishments will be listed in the Directory of Meat and Poultry Inspection Program Establishments, Circuits and Officials, published by the Food Safety and Inspection Service. The listing will categorize the kind or kinds of product2 which may be inspected at each official import inspection establishment, based on the adequacy of the facilities for making such inspections and handling such products in a sanitary manner.
 
 1 [Reserved]
 

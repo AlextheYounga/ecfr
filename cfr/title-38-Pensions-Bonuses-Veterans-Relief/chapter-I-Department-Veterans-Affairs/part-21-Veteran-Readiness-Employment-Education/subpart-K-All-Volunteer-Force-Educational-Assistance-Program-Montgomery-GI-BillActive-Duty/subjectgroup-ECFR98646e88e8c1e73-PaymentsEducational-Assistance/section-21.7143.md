@@ -1,5 +1,7 @@
 ##### § 21.7143 Nonduplication of educational assistance. #####
 
+Link to an amendment published at 90 FR 5333, Jan. 16, 2025.
+
 (a) *Payments of educational assistance shall not be duplicated.* (1) Except for receipt of a Montgomery GI Bill—Selected Reserve kicker provided under 10 U.S.C. 16131(i), a veteran is barred from concurrently receiving educational assistance under 38 U.S.C. chapter 30 and—
 
 (i) 38 U.S.C. chapter 31 (Veteran Readiness and Employment (VR&E));

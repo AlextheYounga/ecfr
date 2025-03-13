@@ -1,7 +1,5 @@
 ##### § 121.702 What size and eligibility standards are applicable to the SBIR and STTR programs? #####
 
-Link to an amendment published at 89 FR 102486, Dec. 17, 2024.
-
 To be eligible for award of funding agreements in SBA's SBIR and STTR programs, a business concern must meet the requirements below at the time of award of an SBIR or STTR Phase I or Phase II funding agreement:
 
 (a) *Ownership and control for the SBIR program.* (1) An SBIR awardee must:
@@ -54,7 +52,13 @@ To be eligible for award of funding agreements in SBA's SBIR and STTR programs, 
 
 (6) *Size requirement for joint ventures.* Two or more small business concerns may submit an application as a joint venture. The joint venture will qualify as small as long as each concern is small under the size standard for the SBIR program, found at § 121.702(c), or the joint venture meets the exception at § 121.103(h)(3)(ii) for two firms approved to be a mentor and protégé under SBA's All Small Mentor-Protégé Program.
 
-(7) *Affiliation based on the ostensible subcontractor rule.* A concern and its ostensible subcontractor are treated as joint venturers. As such, they are affiliates for size determination purposes and must meet the ownership and control requirements applicable to joint ventures. An ostensible subcontractor is a subcontractor or subgrantee that performs primary and vital requirements of a funding agreement (*i.e.,* those requirements associated with the principal purpose of the funding agreement), or a subcontractor or subgrantee upon which the concern is unusually reliant. All aspects of the relationship between the concern and subcontractor are considered, including, but not limited to, the terms of the proposal (such as management, technical responsibilities, and the percentage of subcontracted work) and agreements between the concern and subcontractor or subgrantee (such as bonding assistance or the teaming agreement). To determine whether a subcontractor performs primary and vital requirements of a funding agreement, SBA will consider whether the concern's proposal complies with the performance requirements of the SBIR or STTR program.
+(7) *Affiliation based on the ostensible subcontractor rule.* A concern with an other than small ostensible subcontractor cannot be considered a small business concern for SBIR and STTR awards. An ostensible subcontractor is a subcontractor or subgrantee that performs primary and vital requirements of a funding agreement (*i.e.,* those requirements associated with the principal purpose of the funding agreement), or a subcontractor or subgrantee upon which the concern is unusually reliant.
+
+(i) All aspects of the relationship between the concern and the subcontractor are considered, including, but not limited to, the terms of the proposal (such as management, technical responsibilities, and the percentage of subcontracted work) and agreements between the concern and subcontractor or subgrantee (such as bonding assistance or the teaming agreement).
+
+(ii) To determine whether a subcontractor performs primary and vital requirements of a funding agreement, SBA will also consider whether the concern's proposal complies with the performance requirements of the SBIR or STTR program.
+
+(iii) The prime and any small business ostensible subcontractor both must comply individually with the ownership and control requirements in paragraphs (a) and (b) of this section, as applicable.
 
 (8) *Affiliation based on license agreements.* SBA will consider whether there is a license agreement concerning a product or trademark which is critical to operation of the licensee. The license agreement will not cause the licensor to be affiliated with the licensee if the licensee has the right to profit from its efforts and bears the risk of loss. Affiliation may arise, however, through other means, such as common ownership or common management.
 
@@ -70,4 +74,4 @@ To be eligible for award of funding agreements in SBA's SBIR and STTR programs, 
 
 (d) *Calculating ownership and control.* SBA will review the small business' equity ownership on a fully diluted basis for purposes of determining ownership, control and affiliation in the SBIR and STTR programs. This means that SBA will consider the total number of shares or equity that would be outstanding if all possible sources of conversion were exercised, including, but not limited to: Outstanding common stock or equity, outstanding preferred stock (on a converted to common basis) or equity, outstanding warrants (on an as exercised and converted to common basis), outstanding options and options reserved for future grants, and any other convertible securities on an as converted to common basis.
 
-[77 FR 76225, Dec. 27, 2012; 78 FR 11745, Feb. 20, 2013, as amended at 81 FR 34259, May 31, 2016; 81 FR 48579, July 25, 2016; 81 FR 71983, Oct. 19, 2016; 85 FR 66182, Oct. 16, 2020; 88 FR 26201, Apr. 27, 2023]
+[77 FR 76225, Dec. 27, 2012; 78 FR 11745, Feb. 20, 2013, as amended at 81 FR 34259, May 31, 2016; 81 FR 48579, July 25, 2016; 81 FR 71983, Oct. 19, 2016; 85 FR 66182, Oct. 16, 2020; 88 FR 26201, Apr. 27, 2023; 89 FR 102486, Dec. 17, 2024]

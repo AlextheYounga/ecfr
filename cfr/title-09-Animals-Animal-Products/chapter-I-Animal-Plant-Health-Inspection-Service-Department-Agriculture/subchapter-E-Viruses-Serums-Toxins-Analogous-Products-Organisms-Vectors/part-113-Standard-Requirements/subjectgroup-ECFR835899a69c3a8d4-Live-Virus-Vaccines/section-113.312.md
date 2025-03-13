@@ -79,7 +79,7 @@ Rabies Vaccine shall be prepared from virus-bearing cell cultures or embryonated
 
 (ii) The injected young adult mice shall be observed each day for 14 days except when testing vaccines made with HCP SAD strain of rabies virus, in which case, the mice shall be observed each day for 21 days. Deaths and paralysis occurring subsequent to the fourth day post-injection shall be noted and the LD50 titer calculated by the Reed and Muench Method.
 
-(iii) Virus titer requirements for release and at expiration date shall be determined for each vaccine on the basis of data available: *Provided,* That, the lowest titer permitted at expiration date when determined by this test shall be 10 3.0 LD50 per 0.03 ml.
+(iii) Virus titer requirements for release and at expiration date shall be determined for each vaccine on the basis of data available: *Provided,* That, the lowest titer permitted at expiration date when determined by this test shall be 103.0 LD50 per 0.03 ml.
 
 (4) Suckling mice, 6 days of age or younger, shall be used as test animals when virus in vaccine prepared with a high egg passage Flury Strain of rabies virus is titrated.
 
@@ -87,6 +87,6 @@ Rabies Vaccine shall be prepared from virus-bearing cell cultures or embryonated
 
 (ii) The injected suckling mice shall be observed each day for 21 days. Deaths and paralysis occurring subsequent to the fourth day post-injection shall be noted and the LD50 titer calculated by the Reed and Muench Method; and
 
-(iii) Virus titer requirements for release and at expiration date shall be determined for each vaccine on the basis of data available: *Provided,* That, the lowest titer permitted at expiration date when determined by this test shall be 10 3.0 LD50 per 0.02 ml.
+(iii) Virus titer requirements for release and at expiration date shall be determined for each vaccine on the basis of data available: *Provided,* That, the lowest titer permitted at expiration date when determined by this test shall be 103.0 LD50 per 0.02 ml.
 
 [39 FR 44721, Dec. 27, 1974, as amended at 40 FR 20067, May 8, 1975; 42 FR 6795, Feb. 4, 1977; 43 FR 49529, Oct. 24, 1978; 50 FR 20090, May 14, 1985; 50 FR 23797, June 6, 1985. Redesignated at 55 FR 35562, Aug. 31, 1990, as amended at 56 FR 66784, 66786, Dec. 26, 1991; 61 FR 31823, June 21, 1996; 72 FR 72564, Dec. 21, 2007]

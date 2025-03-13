@@ -1,10 +1,8 @@
 ##### § 124.514 Exercise of 8(a) options and modifications. #####
 
-Link to an amendment published at 89 FR 102490, Dec. 17, 2024.
-
 (a) *Unpriced options.* The exercise of an unpriced option is considered to be a new contracting action.
 
-(1) If a concern has graduated or been terminated from the 8(a) BD program or is no longer small under the size standard corresponding to the NAICS code for the requirement, negotiations to price the option cannot be entered into and the option cannot be exercised.
+(1) If a firm's term of participation in the 8(a) BD program has ended (or the firm has otherwise exited the program) or is no longer small under the size standard corresponding to the NAICS code for the requirement, negotiations to price the option cannot be entered into and the option cannot be exercised.
 
 (2) If the concern is still a Participant and otherwise eligible for the requirement on a sole source basis, the procuring activity contracting officer may negotiate price and exercise the option provided the option, considered a new contracting action, meets all regulatory requirements, including the procuring activity's offering and SBA's acceptance of the requirement for the 8(a) BD program.
 
@@ -16,4 +14,4 @@ Link to an amendment published at 89 FR 102490, Dec. 17, 2024.
 
 (d) *Modifications within the scope.* The procuring activity contracting officer may exercise a modification within the scope of the initial 8(a) contract whether the concern that received the award has graduated or been terminated from the 8(a) BD program or is no longer eligible if to do so is in the best interests of the Government.
 
-[63 FR 35739, June 30, 1998, as amended at 85 FR 66191, Oct. 16, 2020]
+[63 FR 35739, June 30, 1998, as amended at 85 FR 66191, Oct. 16, 2020; 89 FR 102490, Dec. 17, 2024]

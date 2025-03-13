@@ -64,7 +64,7 @@
 
 (23) When monoglycerides, diglycerides, and/or polyglycerol esters of fatty acids are added to rendered animal fat or a combination of such fat and vegetable fat, there shall appear on the label in a prominent manner and contiguous to the name of the product a statement such as “With Monoglycerides and Diglycerides Added,” or “With Diglycerides and Monoglycerides,” or “With Polyglycerol Esters of Fatty Acids” as the case may be.
 
-(24) Section 407 of the Federal Food, Drug, and Cosmetic Act contains provisions with respect to colored margarine or colored oleomargarine (21 U.S.C. 347) which are set forth herein as footnote. 1
+(24) Section 407 of the Federal Food, Drug, and Cosmetic Act contains provisions with respect to colored margarine or colored oleomargarine (21 U.S.C. 347) which are set forth herein as footnote.1
 
 1 “Sec. 407(a) Colored oleomargarine or colored margarine which is sold in the same State or Territory in which it is produced shall be subject in the same manner and to the same extent to the provisions of this Act as if it had been introduced in interstate commerce.
 

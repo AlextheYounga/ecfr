@@ -34,4 +34,4 @@ Each of the following States has been designated, under paragraph 5(c) of the Ac
 |     Virgin Islands     |                  Nov. 27, 1971.                   |
 |       Washington       |                   June 1, 1973.                   |
 
-[42 FR 2949, Jan. 14, 1977] Editorial Note:For Federal Register citations affecting § 381.221, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[42 FR 2949, Jan. 14, 1977]Editorial Note:For Federal Register citations affecting § 381.221, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

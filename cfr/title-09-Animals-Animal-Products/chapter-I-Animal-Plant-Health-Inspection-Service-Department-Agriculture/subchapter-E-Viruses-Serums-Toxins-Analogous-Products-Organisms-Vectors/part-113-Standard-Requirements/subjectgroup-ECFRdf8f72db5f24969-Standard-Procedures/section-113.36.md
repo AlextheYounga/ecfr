@@ -6,7 +6,7 @@ The test for detection of extraneous pathogens provided in this section shall be
 
 (b) At least 25 healthy susceptible young chickens, properly identified and obtained from the same source and hatch, shall be immunized at least 14 days prior to being put on test. The immunizing agent shall be the same as the product to be tested but from a serial previously tested and found satisfactory.
 
-(c) At least 20 of the previously immunized birds shall be inoculated with 10 label doses of the vaccine being tested by each of the following routes: Subcutaneous, intratracheal, eye-drop, and comb scarification (1 cm 2). Twenty birds may be used for each route or combination of routes.
+(c) At least 20 of the previously immunized birds shall be inoculated with 10 label doses of the vaccine being tested by each of the following routes: Subcutaneous, intratracheal, eye-drop, and comb scarification (1 cm2). Twenty birds may be used for each route or combination of routes.
 
 (d) At least five birds shall be isolated as control birds.
 

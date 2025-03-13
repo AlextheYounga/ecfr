@@ -1,5 +1,7 @@
 ##### § 74.1303 FD&C Red No. 3. #####
 
+Link to an amendment published at 90 FR 4634, Jan. 16, 2025.
+
 (a) *Identity and specifications.* (1) The color additive FD&C Red No. 3 shall conform in identity and specifications to the requirements of § 74.303(a)(1) and (b).
 
 (2) Color additive mixtures for ingested drug used made with FD&C Red No. 3 may contain only those diluents that are suitable and that are listed in part 73 of this chapter as safe for use in color additive mixtures for coloring ingested drugs.

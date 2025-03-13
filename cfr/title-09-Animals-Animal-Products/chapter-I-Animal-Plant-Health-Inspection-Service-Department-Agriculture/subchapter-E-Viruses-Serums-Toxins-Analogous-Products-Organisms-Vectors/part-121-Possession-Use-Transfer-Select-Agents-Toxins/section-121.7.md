@@ -16,7 +16,7 @@
 
 (2) Federal, State, or local governmental agencies, including public accredited academic institutions, are exempt from the security risk assessments for the entity and the individual who owns or controls such entity.
 
-(3) An individual will be deemed to own or control an entity under the following conditions: 8
+(3) An individual will be deemed to own or control an entity under the following conditions:8
 
 8 These conditions may apply to more than one individual.
 
@@ -42,7 +42,7 @@
 
 (i) A certificate of registration may be amended to reflect changes in circumstances (e.g., replacement of the responsible official or other personnel changes, changes in ownership or control of the entity, changes in the activities involving any select agents or toxins, or the addition or removal of select agents or toxins).
 
-(1) Prior to any change, the responsible official must apply for an amendment to a certificate of registration by submitting the relevant page(s) of the registration application. 9
+(1) Prior to any change, the responsible official must apply for an amendment to a certificate of registration by submitting the relevant page(s) of the registration application.9
 
 9 Depending on the change, a security risk assessment by the Attorney General may also be required (e.g., replacement of the responsible official, changes in ownership or control of the entity, new researchers or graduate students, etc.)
 

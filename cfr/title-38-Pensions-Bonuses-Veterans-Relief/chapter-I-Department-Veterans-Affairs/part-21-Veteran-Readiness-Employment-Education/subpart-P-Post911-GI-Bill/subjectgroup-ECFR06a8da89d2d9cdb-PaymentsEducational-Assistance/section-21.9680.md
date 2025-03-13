@@ -1,5 +1,7 @@
 ##### § 21.9680 Certifications and release of payments. #####
 
+Link to an amendment published at 90 FR 5353, Jan. 16, 2025.
+
 (a) *Payee.* (1) VA will make payment of the appropriate amount of established charges (including top-up payments), as determined under § 21.9640, directly to the institution of higher learning as a lump sum payment for the entire quarter, semester, or term, as applicable.
 
 (2) VA will make all other payments to the eligible individual or a duly appointed fiduciary. VA will make direct payment to the eligible individual even if he or she is a minor.

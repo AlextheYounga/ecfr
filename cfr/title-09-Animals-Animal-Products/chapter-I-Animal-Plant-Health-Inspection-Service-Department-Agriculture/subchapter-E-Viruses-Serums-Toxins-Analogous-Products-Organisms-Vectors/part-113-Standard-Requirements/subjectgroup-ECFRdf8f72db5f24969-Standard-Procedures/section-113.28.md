@@ -48,7 +48,7 @@ The heart infusion test, using heart infusion broth and heart infusion agar, pro
 
 (6) Add to the medium:
 
-126 ml of inactivated horse serum 21 ml of DPN-Cysteine solution 525,000 units of Penicillin. Dispense 10 ml aliquots into 60 × 15 mm disposable culture dishes or petri dishes.
+126 ml of inactivated horse serum21 ml of DPN-Cysteine solution525,000 units of Penicillin.Dispense 10 ml aliquots into 60 × 15 mm disposable culture dishes or petri dishes.
 
 (d) The test procedure provided in this paragraph shall be followed when conducting the mycoplasma detection test.
 

@@ -1,5 +1,7 @@
 ##### § 21.4022 Nonduplication—programs administered by VA. #####
 
+Link to an amendment published at 90 FR 5329, Jan. 16, 2025.
+
 A veteran, reservist, or eligible individual, who is eligible for educational assistance allowance or subsistence allowance under more than one of the provisions of law listed in this section, whether based on his or her own service or the service of another person, cannot receive such benefits concurrently. The individual must choose under which program he or she will receive benefits for the particular period(s) during which education or training is to be pursued. The individual may choose to receive benefits under another program (other than 38 U.S.C. chapter 33) at any time, but not more than once in a calendar month. The individual may choose to receive benefits under 38 U.S.C. chapter 33 at any time, but not more than once during a certified term, quarter, or semester.
 
 (a) 38 U.S.C. 30 (Montgomery GI Bill—Active Duty);

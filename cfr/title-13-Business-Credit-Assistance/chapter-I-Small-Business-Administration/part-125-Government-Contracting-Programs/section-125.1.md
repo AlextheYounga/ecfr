@@ -1,6 +1,6 @@
 ##### § 125.1 What definitions are important to SBA's Government Contracting Programs? #####
 
-Link to an amendment published at 89 FR 102491, Dec. 17, 2024.
+*Agreement* means a Blanket Purchase Agreement, Basic Agreement, or a Basic Ordering Agreement.
 
 *Chief Acquisition Officer* means the employee of a Federal agency designated as such pursuant to section 16(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(a)).
 
@@ -36,6 +36,8 @@ Link to an amendment published at 89 FR 102491, Dec. 17, 2024.
 
 (4) The Commonwealth of the Northern Mariana Islands.
 
+*Disqualifying recertification* means a recertification as either other than small or other than a qualified small business program participant that is required for eligibility to participate in a Set Aside or Reserved Award.
+
 *General Services Administration (GSA) Schedule Contract* means a Multiple Award Contract issued by GSA and includes the Federal Supply Schedules and other Multiple Award Schedules.
 
 *Multiple Award Contract* means a contract that is:
@@ -49,6 +51,8 @@ Link to an amendment published at 89 FR 102491, Dec. 17, 2024.
 *Office of Small and Disadvantaged Business Utilization (OSDBU) or the Office of Small Business Programs (OSBP)* means the office in each Federal agency having procurement powers that is responsible for ensuring that small businesses receive a fair proportion of Federal contracts in that agency. The office is managed by a Director, who is responsible and reports directly to the head of the agency or deputy to the agency (except that for DoD, the Director reports to the Secretary or the Secretary's designee).
 
 *Partial set-aside (or partially set-aside)* means, for a Multiple Award Contract, a contracting vehicle that can be used when: market research indicates that a total set-aside is not appropriate; the procurement can be broken up into smaller discrete portions or discrete categories such as by Contract Line Items, Special Item Numbers, Sectors or Functional Areas or other equivalent; and two or more small business concerns, 8(a) BD Participants, HUBZone SBCs, SDVO SBCs, WOSBs or EDWOSBs are expected to submit an offer on the set-aside part or parts of the requirement at a fair market price.
+
+*Qualifying recertification* means a recertification as small or as a qualified small business program participant that is required for eligibility to participate in a Set Aside or Reserved Award.
 
 *Reserve* means, for a Multiple Award Contract,
 
@@ -71,6 +75,8 @@ Link to an amendment published at 89 FR 102491, Dec. 17, 2024.
 *Separate smaller contract* means a contract that has previously been performed by one or more small business concerns or was suitable for award to one or more small business concerns.
 
 *Similarly situated entity* means a subcontractor that has the same small business program status as the prime contractor. This means that: For a HUBZone contract, a subcontractor that is a certified HUBZone small business concern; for a small business set-aside, partial set-aside, or reserve, a subcontractor that is a small business concern; for a SDVOSB contract, a subcontractor that is a certified SDVOSB; for a VOSB contract, a subcontractor that is a certified VOSB; for an 8(a) contract, a subcontractor that is a certified 8(a) BD Program Participant; for a WOSB or EDWOSB contract, a subcontractor that is a certified WOSB or EDWOSB. In addition to sharing the same small business program status as the prime contractor, a similarly situated entity must also be small for the NAICS code that the prime contractor assigned to the subcontract the subcontractor will perform.
+
+*Set Aside or Reserved Award* means a contract, including multiple award contracts, agreements, or orders against contracts or agreements, that are set aside, partially set aside, or reserved for small business or any socio-economic small business program participants.
 
 *Single contract* means any contract or order (including those placed against a GSA Schedule Contract or an indefinite delivery, indefinite quantity contract) resulting in one or more awardee(s).
 
@@ -96,4 +102,4 @@ Link to an amendment published at 89 FR 102491, Dec. 17, 2024.
 
 (3) $2.5 million or more for all other agencies.
 
-[78 FR 61134, Oct. 2, 2013, as amended at 81 FR 34261, May 31, 2016; 84 FR 65239, Nov. 26, 2019; 87 FR 50927, Aug. 19, 2022; 87 FR 73412, Nov. 29, 2022; 88 FR 26209, Apr. 27, 2023; 89 FR 21432, Mar. 28, 2024]
+[78 FR 61134, Oct. 2, 2013, as amended at 81 FR 34261, May 31, 2016; 84 FR 65239, Nov. 26, 2019; 87 FR 50927, Aug. 19, 2022; 87 FR 73412, Nov. 29, 2022; 88 FR 26209, Apr. 27, 2023; 89 FR 21432, Mar. 28, 2024; 89 FR 102491, Dec. 17, 2024]

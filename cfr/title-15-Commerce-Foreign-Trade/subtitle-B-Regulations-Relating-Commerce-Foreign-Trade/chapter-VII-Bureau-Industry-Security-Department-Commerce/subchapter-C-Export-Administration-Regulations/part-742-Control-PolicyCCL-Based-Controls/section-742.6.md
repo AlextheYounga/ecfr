@@ -22,7 +22,7 @@
 
 (5) *RS requirements that apply to Iraq.* As indicated on the CCL, a license is required for the export or reexport to Iraq or transfer within Iraq of the following items controlled for RS reasons on the CCL: 0B999, 0D999, 1B999, 1C992, 1C995, 1C997, 1C999 and 6A992. The Commerce Country Chart is not designed to determine RS licensing requirements for these ECCNs.
 
-(6) *RS requirement that applies to advanced computing and semiconductor manufacturing items*—(i) *Exports, reexports, transfers (in-country) to or within Macau or Country Group D:5*—(A) *Certain semiconductor manufacturing equipment and associated software and technology*—(*1*) *Scope.* A license is required for exports, reexports, and transfers (in-country) to or within either Macau or a destination specified in Country Group D:5 in supplement no. 1 to part 740 of the EAR of items specified in 3B001.a.4, c, d, f.1, f.5, k to n, p.2, p.4, r, 3B002.c, 3D992, or 3E992.
+(6) *RS requirement that applies to advanced computing and semiconductor manufacturing items*—(i) *Exports, reexports, transfers (in-country) to or within Macau or Country Group D:5*—(A) *Certain semiconductor manufacturing equipment and associated software and technology*—(*1*) *Scope.* A license is required for exports, reexports, and transfers (in-country) to or within either Macau or a destination specified in Country Group D:5 in supplement no. 1 to part 740 of the EAR of items specified in 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r, 3B002.c, 3D992, or 3E992.
 
 (*2*) *Exclusions.* The license requirements in this paragraph (a)(6)(i)(A) do not apply to any of the following:
 
@@ -146,4 +146,6 @@ Note 2 to ECCN 4E091 explains that 4E091 does not control the 'parameters' of an
 
 (d) *U.S. controls.* Although the United States seeks cooperation from like-minded countries in maintaining regional stability controls, at this time these controls are maintained only by the United States.
 
-[61 FR 12786, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 742.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[61 FR 12786, Mar. 25, 1996]Editorial Notes:1. For Federal Register citations affecting § 742.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+
+2. At 90 FR 4615, Jan. 16, 2025, § 742.6 was amended by adding paragraphs (a)(13) and (b)(14); however, these amendments could not be incorporated because paragraphs (a)(13) and (b)(14) already exist.

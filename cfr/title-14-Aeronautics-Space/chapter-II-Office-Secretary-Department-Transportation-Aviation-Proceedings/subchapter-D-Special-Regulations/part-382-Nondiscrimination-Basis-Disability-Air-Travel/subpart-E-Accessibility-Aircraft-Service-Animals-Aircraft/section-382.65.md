@@ -1,7 +1,5 @@
 ##### § 382.65 What are the requirements concerning on-board wheelchairs? #####
 
-Link to an amendment published at 89 FR 102441, Dec. 17, 2024.
-
 (a) As a carrier, you must equip aircraft that have more than 60 passenger seats, and that have an accessible lavatory (whether or not having such a lavatory is required by § 382.63 of this Part) with an on-board wheelchair. The Aerospatiale/Aeritalia ATR-72 and the British Aerospace Advanced Turboprop (ATP), in configurations having between 60 and 70 passenger seats, are exempt from this requirement.
 
 (b) If a passenger asks you to provide an on-board wheelchair on a particular flight, you must provide it if the aircraft being used for the flight has more than 60 passenger seats, even if the aircraft does not have an accessible lavatory.
@@ -42,6 +40,14 @@ Link to an amendment published at 89 FR 102441, Dec. 17, 2024.
 
 (g) You must acquire an OBW that complies with as many requirements set forth in paragraph (e) of this section as are available. You are not responsible for the failure of third parties to develop and deliver an on-board wheelchair that complies with a requirement set forth in paragraph (e) of this section so long as you make reasonable efforts to purchase such an OBW and inform the Department at the address cited in § 382.159 that an on-board wheelchair meeting that requirement is unavailable despite your reasonable efforts. If you cannot provide a wheelchair meeting requirement (e)(8) of this section despite your reasonable efforts, then you must provide, on request, the use of the visual barrier (*e.g.,* a curtain) described in § 382.63(f)(7) to enable the passenger to perform lavatory functions in privacy.
 
-(h) If you replace an on-board wheelchair on aircraft with an FAA-certificated maximum seating capacity of 125 or more after October 2, 2026, then you must replace it with an on-board wheelchair that meets the standards set forth in paragraph (e) of this section.
+(h)(1) If you replace an on-board wheelchair supplied on aircraft with an FAA-certificated maximum seating capacity of 125 or more after October 2, 2026, then you must replace it with an on-board wheelchair that meets the standards set forth in paragraph (e) of this section.
 
-[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended by Docket No. DOT-OST-2021-0137, 88 FR 50034, Aug. 1, 2023]
+(2) After October 2, 2026, if you purchase or otherwise obtain a new on-board wheelchair for use on aircraft with more than 60 passenger seats, it must meet the standards set forth in paragraph (e) of this section.
+
+(3) Any on-board wheelchair supplied on aircraft with an FAA-certificated maximum seating capacity of more than 60 passenger seats and that has an accessible lavatory and that was delivered after October 2, 2026, must meet the standards set forth in paragraph (e) of this section.
+
+(4) After October 2, 2031, any on-board wheelchair that you provide for passengers' use on aircraft with more than 60 passenger seats must meet the standards set forth in paragraph (e) of this section.
+
+(5) For purposes of paragraphs (h)(2) through (4) of this section, you must acquire OBWs that comply with as many of the safety and accessibility requirements in paragraph (e) of this section as are available. You must inform the Department at the address cited in 14 CFR 382.159 that an on-board wheelchair meeting that requirement is unavailable, if that is the case.
+
+[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended by Docket No. DOT-OST-2021-0137, 88 FR 50034, Aug. 1, 2023; DOT-OST-2022-0144, 89 FR 102441, Dec. 17, 2024]

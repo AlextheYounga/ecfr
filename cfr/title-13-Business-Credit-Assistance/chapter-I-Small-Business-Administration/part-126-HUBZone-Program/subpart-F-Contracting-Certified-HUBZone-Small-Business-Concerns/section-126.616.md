@@ -1,10 +1,8 @@
 ##### § 126.616 What requirements must a joint venture satisfy to submit an offer and be eligible to perform on a HUBZone contract? #####
 
-Link to an amendment published at 89 FR 102504, Dec. 17, 2024.
-
 (a) *General.* A certified HUBZone small business concern may enter into a joint venture agreement with one or more other small business concerns, or with an SBA-approved mentor authorized by § 125.9 of this chapter, for the purpose of submitting an offer for a HUBZone contract.
 
-(1) The joint venture itself need not be a certified HUBZone small business concern, but the joint venture should be designated as a HUBZone joint venture in SAM (or successor system) with the HUBZone-certified joint venture partner identified.
+(1) SBA does not certify HUBZone joint ventures, but the joint venture should be designated as a HUBZone joint venture in SAM (or successor system) with the HUBZone-certified joint venture partner identified.
 
 (2) A certified HUBZone small business concern cannot be a joint venture partner on more than one joint venture that submits an offer for a specific contract or order set-aside or reserved for certified HUBZone small business concerns.
 
@@ -54,7 +52,7 @@ Link to an amendment published at 89 FR 102504, Dec. 17, 2024.
 
 (e) *Certification of compliance*—(1) *At time of offer.* If submitting an offer as a joint venture for a HUBZone contract, at the time of initial offer (and if applicable, final offer), each certified HUBZone small business concern joint venture partner must make the following certifications to the contracting officer separately under its own name:
 
-(i) It is a certified HUBZone small business concern that appears in DSBS (or successor system) as a certified HUBZone small business concern and it met the eligibility requirements in § 126.200 at the time of its initial certification or, if applicable, at the time of its most recent recertification;
+(i) It is a certified HUBZone small business concern that appears in DSBS (or successor system) as a certified HUBZone small business concern and it meets the eligibility requirements in § 126.200;
 
 (ii) It, together with its affiliates, is small under the size standard corresponding to the NAICS code assigned to the procurement;
 
@@ -90,4 +88,6 @@ Link to an amendment published at 89 FR 102504, Dec. 17, 2024.
 
 (k) Any person with information concerning a joint venture's compliance with the limitations on subcontracting requirements may report that information to SBA and/or the SBA Office of Inspector General.
 
-[81 FR 48591, July 25, 2016, as amended at 81 FR 94942, Dec. 27, 2016; 83 FR 12852, Mar. 26, 2018; 84 FR 65248, Nov. 29, 2019; 85 FR 66197, Oct. 16, 2020; 86 FR 2959, Jan. 14, 2021; 88 FR 26212, Apr. 27, 2023]
+(l) *Non-HUBZone contracts.* On a non-HUBZone contract, for an award to a joint venture to be considered awarded to a certified HUBZone small business concern (*i.e.,* for a procuring agency to receive HUBZone credit for goaling purposes), the joint venture awardee must comply with the requirements of this section and § 125.8.
+
+[81 FR 48591, July 25, 2016, as amended at 81 FR 94942, Dec. 27, 2016; 83 FR 12852, Mar. 26, 2018; 84 FR 65248, Nov. 29, 2019; 85 FR 66197, Oct. 16, 2020; 86 FR 2959, Jan. 14, 2021; 88 FR 26212, Apr. 27, 2023; 89 FR 102504, Dec. 17, 2024]

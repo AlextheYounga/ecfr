@@ -1,7 +1,5 @@
 ##### § 1.36 Systems exempt in whole or in part from provisions of the Privacy Act and this part. #####
 
-Link to an amendment published at 89 FR 101889, Dec. 17, 2024.
-
 (a) *In general.* In accordance with 5 U.S.C. 552a(j) and (k) and § 1.23(c), Treasury hereby exempts the systems of records identified in paragraphs (c) through (o) of this section from the following provisions of the Privacy Act for the reasons indicated.
 
 (b) *Authority.* The rules in this section are promulgated pursuant to the authority vested in the Secretary of the Treasury by 5 U.S.C. 552a(j) and (k) and pursuant to the authority of § 1.23(c).
@@ -179,6 +177,7 @@ Link to an amendment published at 89 FR 101889, Dec. 17, 2024.
 |DO .120|      Records Related to Office of Foreign Assets Control Economic Sanctions.       |
 |DO .227|Committee on Foreign Investment in the United States (CFIUS) Case Management System.|
 |DO .411|                           Intelligence Enterprise Files.                           |
+|DO .413|             Outbound Investment Security Program Notification System.              |
 
 (iii) *Financial Crimes Enforcement Network.*
 
@@ -219,6 +218,7 @@ Link to an amendment published at 89 FR 101889, Dec. 17, 2024.
 |DO .309|                                             TIGTA Chief Counsel Case Files.                                              |
 |DO .310|                                     TIGTA Chief Counsel Disclosure Section Records.                                      |
 |DO .311|                                          TIGTA Office of Investigations Files.                                           |
+|DO .413|                                Outbound Investment Security Program Notification System.                                 |
 
 (iii) *Special Investigator for Pandemic Recovery (SIGPR).*
 
@@ -430,4 +430,4 @@ Link to an amendment published at 89 FR 101889, Dec. 17, 2024.
 
 (o) *Exempt information included in another system.* Any information from a system of records for which an exemption is claimed under 5 U.S.C. 552a(j) or (k) which is also included in another system of records retains the same exempt status such information has in the system for which such exemption is claimed.
 
-[88 FR 88815, Dec. 26, 2023]
+[88 FR 88815, Dec. 26, 2023, as amended at 89 FR 101889, Dec. 17, 2024]

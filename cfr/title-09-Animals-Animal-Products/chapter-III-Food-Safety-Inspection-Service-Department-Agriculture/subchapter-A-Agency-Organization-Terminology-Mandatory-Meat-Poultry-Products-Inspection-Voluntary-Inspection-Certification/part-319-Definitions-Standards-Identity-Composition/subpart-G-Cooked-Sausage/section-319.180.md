@@ -14,4 +14,4 @@
 
 (g) For the purposes of this section: Poultry meat means deboned chicken meat or turkey meat, or both, without skin or added fat; poultry products mean chicken or turkey, or chicken meat or turkey meat as defined in § 381.118 of this chapter, or poultry byproducts as defined in § 381.1 of this chapter; and meat byproducts (or variety meats), mean pork stomachs or snouts; beef, veal, lamb, or goat tripe; beef, veal, lamb, goat, or pork hearts, tongues, fat, lips, weasands, and spleens; and partially defatted pork fatty tissue, or partially defatted beef fatty tissue.
 
-[38 FR 14742, June 5, 1973] Editorial Note:For Federal Register citations affecting § 319.180, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[38 FR 14742, June 5, 1973]Editorial Note:For Federal Register citations affecting § 319.180, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

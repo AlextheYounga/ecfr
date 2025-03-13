@@ -1,12 +1,24 @@
 ##### § 121.103 How does SBA determine affiliation? #####
 
-Link to an amendment published at 89 FR 102485, Dec. 17, 2024.
-
 (a) *General Principles of Affiliation.* (1) Concerns and entities are affiliates of each other when one controls or has the power to control the other, or a third party or parties controls or has the power to control both. It does not matter whether control is exercised, so long as the power to control exists.
 
 (2) SBA considers factors such as ownership, management, previous relationships with or ties to another concern, and contractual relationships, in determining whether affiliation exists.
 
-(3) Control may be affirmative or negative. Negative control includes, but is not limited to, instances where a minority shareholder has the ability, under the concern's charter, by-laws, or shareholder's agreement, to prevent a quorum or otherwise block action by the board of directors or shareholders.
+(3) Control may be affirmative or negative. Negative control includes, but is not limited to, instances where a minority shareholder has the ability, under the concern's charter, by-laws, or shareholder's agreement, to prevent a quorum or otherwise block action by the board of directors or shareholders. However, SBA will not find that a minority shareholder has negative control where such minority shareholder has the authority to block action by the board of directors or shareholders regarding the following extraordinary circumstances:
+
+(i) Adding a new equity stakeholder or increasing the investment amount of an equity stakeholder;
+
+(ii) Dissolution of the company;
+
+(iii) Sale of the company or all assets of the company;
+
+(iv) The merger of the company;
+
+(v) The company declaring bankruptcy;
+
+(vi) Amendment of the company's corporate governance documents to remove the shareholder's authority to block any of (a)(3)(i) through (v); and
+
+(vii) Any other extraordinary action that is crafted solely to protect the investment of the minority shareholders, and not to impede the majority's ability to control the concern's operations or to conduct the concern's business as it chooses.
 
 (4) Affiliation may be found where an individual, concern, or entity exercises control indirectly through a third party.
 
@@ -110,15 +122,15 @@ Example 1 to paragraph (h) introductory text.Joint Venture AB receives a contrac
 
 (ii) Two firms approved by SBA to be a mentor and protégé under § 125.9 of this chapter may joint venture as a small business for any Federal government prime contract or subcontract, provided the protégé qualifies as small for the size standard corresponding to the NAICS code assigned to the procurement, and the joint venture meets the requirements of § 124.513 (c) and (d), § 125.8(b) and (c), § 128.402(c) and (d), § 126.616(c) and (d), or § 127.506(c) and (d) of this chapter, as appropriate. Except for sole source 8(a) awards, the joint venture must meet the requirements of § 124.513(c) and (d), § 125.8(b) and (c), § 125.18(b)(2) and (3), § 126.616(c) and (d), or § 127.506(c) and (d) of this chapter, as appropriate, as of the date of the final proposal revision for negotiated acquisitions and final bid for sealed bidding. For a sole source 8(a) award, the joint venture must demonstrate that it meets the requirements of § 124.513(c) and (d) prior to the award of the contract.
 
-(3) *Ostensible subcontractors.* A contractor and its ostensible subcontractor are treated as joint venturers for size determination purposes. An ostensible subcontractor is a subcontractor that is not a similarly situated entity, as that term is defined in § 125.1 of this chapter, and performs primary and vital requirements of a contract, or of an order, or is a subcontractor upon which the prime contractor is unusually reliant. As long as each concern is small under the size standard corresponding to the NAICS code assigned to the contract (or the prime contractor is small if the subcontractor is the SBA-approved mentor to the prime contractor), the arrangement will qualify as a small business.
-
-(i) All aspects of the relationship between the prime and subcontractor are considered, including, but not limited to, the terms of the proposal (such as contract management, transfer of the subcontractor's incumbent managers, technical responsibilities, and the percentage of subcontracted work), agreements between the prime and subcontractor (such as bonding assistance or the teaming agreement), whether the subcontractor is the incumbent contractor and is ineligible to submit a proposal because it exceeds the applicable size standard for that solicitation, and whether the prime contractor relies solely on the subcontractor's experience because it lacks any relevant experience of its own. No one factor is determinative.
+(3) *Ostensible subcontractors and unduly reliant managing joint venture partners.* (i) An offeror is ineligible as a small business concern, an 8(a) small business concern, a certified HUBZone small business concern, a WOSB/EDWOSB concern, or a VOSB/SDVOSB concern where SBA determines there to be an ostensible subcontractor. An ostensible subcontractor is a subcontractor that is not a similarly situated entity, as that term is defined in § 125.1 of this chapter, and performs primary and vital requirements of a contract, or of an order, or is a subcontractor upon which the prime contractor is unusually reliant.
 
 (ii) A prime contractor may use the experience and past performance of a subcontractor to enhance or strengthen its offer, including that of an incumbent contractor. It is only where that subcontractor will perform primary and vital requirements of a contract or order, or the prime contractor is unusually reliant on the subcontractor, that SBA will find the subcontractor to be an ostensible subcontractor.
 
 (iii) In the case of a contract or order set-aside or reserved for small business for services, specialty trade construction or supplies, SBA will find that a small business prime contractor is performing the primary and vital requirements of the contract or order, and is not unduly reliant on one or more subcontractors that are not small businesses, where the prime contractor can demonstrate that it, together with any subcontractors that qualify as small businesses, will meet the limitations on subcontracting provisions set forth in § 125.6 of this chapter.
 
 (iv) In a general construction contract, the primary and vital requirements of the contract are the management, supervision and oversight of the project, including coordinating the work of various subcontractors, not the actual construction work performed.
+
+(v) A joint venture offeror is ineligible as a small business concern, an 8(a) small business concern, a certified HUBZone small business concern, a WOSB/EDWOSB concern, or a VO/SDVO small business concern where SBA determines that the managing joint venture partner will not perform 40% of the work to be performed by the joint venture.
 
 (4) *Receipts/employees attributable to joint venture partners.* For size purposes, a concern must include in its receipts its proportionate share of joint venture receipts. Proportionate receipts do not include proceeds from transactions between the concern and its joint ventures (e.g., subcontracts from a joint venture entity to joint venture partners) already accounted for in the concern's tax return. In determining the number of employees, a concern must include in its total number of employees its proportionate share of individuals employed by the joint venture. For the calculation of receipts, the appropriate proportionate share is the same percentage of receipts or employees as the joint venture partner's percentage share of the work performed by the joint venture. For a populated joint venture (where work is performed by the joint venture entity itself and not by the individual joint venture partners) the appropriate share is the same percentage as the joint venture partner's percentage ownership share in the joint venture. For the calculation of employees, the appropriate share is the same percentage of employees as the joint venture partner's percentage ownership share in the joint venture, after first subtracting any joint venture employee already accounted for in one of the partner's employee counts.
 

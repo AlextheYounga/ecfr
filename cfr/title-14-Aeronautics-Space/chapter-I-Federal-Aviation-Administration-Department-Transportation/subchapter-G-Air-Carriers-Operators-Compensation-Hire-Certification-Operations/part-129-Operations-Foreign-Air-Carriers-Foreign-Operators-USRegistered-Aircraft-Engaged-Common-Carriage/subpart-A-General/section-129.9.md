@@ -1,14 +1,12 @@
 ##### § 129.9 Contents of operations specifications. #####
 
-Link to an amendment published at 89 FR 101880, Dec. 17, 2024.
-
 (a) The contents of operations specifications issued to a foreign air carrier conducting operations within the United States under § 129.1(a) shall include:
 
 (1) The specific location and mailing address of the applicant's principal place of business in the State of the Operator and, if different, the address that will serve as the primary point of contact for correspondence between the FAA and the foreign air carrier;
 
 (2) Within 1 year after February 10, 2011, the designation of an agent for service within the United States, including the agent's full name and office address or usual place of residence;
 
-(3) The certificate number and validity of the foreign air carrier's Air Operator Certificate issued by the State of the Operator;
+(3) The certificate number and validity of the foreign air carrier's air operator certificate;
 
 (4) Each regular and alternate airport to be used in scheduled operations;
 
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 101880, Dec. 17, 2024.
 
 (2) Within 1 year after February 10, 2011, the designation of an agent for service within the United States, including the agent's full name and office address or usual place of residence;
 
-(3) In the case of a foreign air carrier, the certificate number and validity of the foreign air carrier's Air Operator Certificate issued by the State of the Operator;
+(3) In the case of a foreign air carrier, the certificate number and validity of the foreign air carrier's air operator certificate;
 
 (4) Any other business names under which the foreign air carrier or foreign person may operate;
 
@@ -34,4 +32,4 @@ Link to an amendment published at 89 FR 101880, Dec. 17, 2024.
 
 (7) Any other item the Administrator determines is necessary.
 
-[Doc. No. FAA-2009-0140; 76 FR 7489, Feb. 10, 2011; Amdt. 129-49-A, 76 FR 15212, Mar. 21, 2011]
+[Doc. No. FAA-2009-0140; 76 FR 7489, Feb. 10, 2011; Amdt. 129-49-A, 76 FR 15212, Mar. 21, 2011, as amended by FAA-2024-0176; Amdt. No. 129-55, 89 FR 101880, Dec. 17, 2024]

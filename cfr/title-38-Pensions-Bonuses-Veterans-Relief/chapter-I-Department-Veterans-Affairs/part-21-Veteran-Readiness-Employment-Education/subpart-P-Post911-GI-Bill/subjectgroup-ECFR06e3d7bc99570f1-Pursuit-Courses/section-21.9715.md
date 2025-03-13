@@ -1,5 +1,7 @@
 ##### § 21.9715 Advance payment certification. #####
 
+Link to an amendment published at 90 FR 5357, Jan. 16, 2025.
+
 All certifications required by this section shall be in a form specified by the Secretary and shall contain such information as specified by the Secretary. An advance payment under this chapter is only permissible to an individual whose rate of pursuit is greater than half-time, and who is entitled to the monthly housing allowance as provided in § 21.9640(b)(1)(ii) or (b)(2)(ii).
 
 (a) *Certification needed before an advance payment can be made.* In order for an individual to receive an advance payment of the monthly housing allowance, an application or other document must be signed by the individual or the enrollment certification must be signed by an authorized official of the institution of higher learning.

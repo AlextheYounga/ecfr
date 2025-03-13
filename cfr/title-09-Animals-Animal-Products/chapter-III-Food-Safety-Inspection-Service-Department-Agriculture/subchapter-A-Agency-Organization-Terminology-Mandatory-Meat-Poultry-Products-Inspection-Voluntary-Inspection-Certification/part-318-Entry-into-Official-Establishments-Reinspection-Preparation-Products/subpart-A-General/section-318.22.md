@@ -22,7 +22,7 @@
 
 (6) Calculating the percentage of indigenous water in the cooked sausage by multiplying the percentage of protein determined in (b)(5) by 4, (This amount is the percentage of water attributable to Group 1 protein-contributing ingredients and one percent of Group 2 protein-contributing ingredients in a cooked sausage.); and
 
-(7) Subtracting the percentage of water calculated in (b)(6) from the total percentage of water determined in (b)(1). (This amount is the percentage of added water in a cooked sausage.) 1
+(7) Subtracting the percentage of water calculated in (b)(6) from the total percentage of water determined in (b)(1). (This amount is the percentage of added water in a cooked sausage.)1
 
 1 The equation for the narrative description of the calculation for added water is as follows: AW = TW-(TP-(P-1.0))4, Where AW = Added Water, TW-Total Water Determined by Laboratory Analysis, TP = Total Protein Determined by Laboratory Analysis, P = Protein Contributed by Group 2 Protein-Contributing Ingredients, 1.0 = Percent Allowance for Group 2 Protein-Contributing Ingredients, 4 = Moisture-Protein Ratio for Cooked Sausage.
 

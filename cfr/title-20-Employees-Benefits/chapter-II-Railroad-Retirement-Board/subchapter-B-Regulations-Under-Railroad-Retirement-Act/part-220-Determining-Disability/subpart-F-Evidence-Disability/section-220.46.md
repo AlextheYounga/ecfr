@@ -1,5 +1,7 @@
 ##### § 220.46 Medical evidence. #####
 
+Link to an amendment published at 90 FR 4627, Jan. 16, 2025.
+
 (a) *Acceptable sources.* The Board needs reports about the claimant's impairment(s) from acceptable medical sources. Acceptable medical sources are—
 
 (1) Licensed physicians;

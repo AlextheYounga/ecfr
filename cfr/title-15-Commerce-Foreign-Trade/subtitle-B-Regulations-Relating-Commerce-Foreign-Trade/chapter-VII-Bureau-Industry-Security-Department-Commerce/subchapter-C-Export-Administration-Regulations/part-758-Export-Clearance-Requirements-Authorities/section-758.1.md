@@ -28,6 +28,8 @@ Note 1 to paragraph (b)(10):
 
 Paragraph (b)(10) applies to exports to Hong Kong, as this destination is considered a part of the People's Republic of China under the EAR, even if the AES requirements state that the destination filed in EEI is to be listed as Hong Kong.
 
+(11) For all exports of items in ECCN 3A069 when destined to a destination in Country Group D.
+
 (c) *Exemptions.* A complete list of exemptions from the EEI filing requirement is set forth in the 15 CFR 30.35 through 30.40 of the FTR. Some of these FTR exemptions have elements in common with certain EAR license exceptions. An FTR exemption may be narrower than an EAR license exception. The following references are provided in order to direct you to the FTR exemptions that relate to EAR license exceptions:
 
 (1) License Exception Baggage (BAG), as set forth in § 740.14 of the EAR. See 15 CFR 30.37(x) of the FTR;
@@ -106,4 +108,4 @@ The Bureau of Census Foreign Trade Regulations impose additional requirements fo
 
 (i) *Filing the Electronic Export Information (EEI).* The EEI must be filed with the United States Government in the manner prescribed by the Bureau of Census Foreign Trade Regulations (15 CFR part 30).
 
-[79 FR 4617, Jan. 29, 2014, as amended at 79 FR 32626, June 5, 2014; 79 FR 34221, June 16, 2014; 79 FR 48661, Aug. 18, 2014; 80 FR 3466, Jan. 23, 2015; 80 FR 43319, July 22, 2015; 83 FR 38021, Aug. 3, 2018; 85 FR 4178, Jan. 23, 2020; 85 FR 23465, Apr. 28, 2020; 85 FR 83792, Dec. 23, 2020; 86 FR 46595, Aug. 19, 2021; 88 FR 73497, Oct. 25, 2023; 89 FR 28601, Apr. 19, 2024; 89 FR 34709, Apr. 30, 2024]
+[79 FR 4617, Jan. 29, 2014, as amended at 79 FR 32626, June 5, 2014; 79 FR 34221, June 16, 2014; 79 FR 48661, Aug. 18, 2014; 80 FR 3466, Jan. 23, 2015; 80 FR 43319, July 22, 2015; 83 FR 38021, Aug. 3, 2018; 85 FR 4178, Jan. 23, 2020; 85 FR 23465, Apr. 28, 2020; 85 FR 83792, Dec. 23, 2020; 86 FR 46595, Aug. 19, 2021; 88 FR 73497, Oct. 25, 2023; 89 FR 28601, Apr. 19, 2024; 89 FR 34709, Apr. 30, 2024; 90 FR 4615, Jan. 16, 2025]

@@ -1,0 +1,9 @@
+##### § 513.9 Procedures for making a claim for a whistleblower award. #####
+
+(a) Whenever any administrative or judicial action, including any related administrative or judicial action, brought by the U.S. Department of Transportation, Agency, or U.S. Department of Justice under 49 U.S.C. Chapter 301 in the aggregate results in collected monetary sanctions exceeding $1,000,000, the Agency will publish on the Agency's website a “Notice of Covered Action.” Such Notice will be published subsequent to a final judgment, order, or agreement that alone, or in the aggregate, results in collected monetary sanctions exceeding $1,000,000. A claimant will have ninety (90) days from the date of the Notice of Covered Action to file a claim, including any attachments, for an award based on that action, or the claim will be barred. The claim is deemed filed on the date that it is received by the Agency.
+
+(b) To file a claim for a whistleblower award, the claimant must complete the WB-AWARD form and submit it no later than ninety (90) calendar days from the date of the Notice of Covered Action to NHTSA's Office of the Chief Counsel by email to *NHTSAWhistleblower@dot.gov* or another method expressly designated on NHTSA's website. If the ninetieth day falls on a weekend or federal holiday, the claim deadline is the next business day.
+
+(c) If the claimant provided original information anonymously pursuant to § 513.4, the claimant must disclose the claimant's identity on the WB-AWARD form and the claimant's identity must be verified in a form and manner that is acceptable to the Agency prior to the authorization of payment of any award to such claimant.
+
+(d) If a claimant filed a claim for a whistleblower award after December 4, 2015 (the date of the enactment of the FAST Act) but before January 16, 2025, the claim submission will be deemed to meet the requirements of § 513.9.

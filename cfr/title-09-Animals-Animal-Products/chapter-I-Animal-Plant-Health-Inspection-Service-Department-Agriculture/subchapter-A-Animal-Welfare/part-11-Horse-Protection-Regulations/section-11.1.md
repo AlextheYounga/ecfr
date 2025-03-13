@@ -38,7 +38,7 @@ For the purpose of this part, unless the context otherwise requires, the followi
 
 *Person* means any individual, corporation, company, association, firm, partnership, society, organization, joint stock company, or other legal entity.
 
-*Regional Director* means the APHIS veterinarian who is assigned by the Administrator to supervise and perform official duties of APHIS under the Act in a specified State or States. 1
+*Regional Director* means the APHIS veterinarian who is assigned by the Administrator to supervise and perform official duties of APHIS under the Act in a specified State or States.1
 
 1 Information as to the name and address of the Regional Director for the State or States concerned can be obtained by writing to the Animal and Plant Health Inspection Service, Animal Care, 4700 River Road Unit 84, Riverdale, MD 20737-1234.
 

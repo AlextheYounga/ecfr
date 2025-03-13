@@ -1,7 +1,9 @@
-##### § 126.309 May a declined or decertified concern seek certification at a later date? #####
+##### § 126.309 May a declined or decertified concern apply for certification at a later date? #####
 
-Link to an amendment published at 89 FR 102500, Dec. 17, 2024.
+(a) A concern that SBA has declined may apply for certification after ninety (90) calendar days from the date of decline if it believes that it has overcome all reasons for decline through changed circumstances and is currently eligible.
 
-A concern that SBA has declined or decertified may seek certification after ninety (90) calendar days from the date of decline or decertification if it believes that it has overcome all reasons for decline or decertification through changed circumstances and is currently eligible. A concern found to be ineligible during a HUBZone status protest is precluded from applying for HUBZone certification for ninety (90) calendar days from the date of the final agency decision (*i.e.,* the D/HUB's decision if the protest determination is not appealed, or OHA's decision if the protest determination is appealed) pursuant to 13 CFR 126.803(d)(5).
+(b) A concern that SBA has decertified may apply for certification immediately after the date of decertification, if it believes that it has overcome all reasons for decertification through changed circumstances and is currently eligible.
 
-[76 FR 43574, July 21, 2011, as amended at 88 FR 21088, Apr. 10, 2023]
+(c) A concern that voluntarily withdraws from the HUBZone program may immediately re-apply for certification, if it believes that it is currently eligible.
+
+[89 FR 102500, Dec. 17, 2024]

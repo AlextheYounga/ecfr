@@ -1,5 +1,7 @@
 ##### § 21.9690 Nonduplication of educational assistance. #####
 
+Link to an amendment published at 90 FR 5355, Jan. 16, 2025.
+
 (a) Except for receipt of a Montgomery GI Bill-Active Duty kicker provided under 38 U.S.C. 3015(d) or a Montgomery GI Bill-Selected Reserve kicker provided under 10 U.S.C. 16131(i), an eligible individual is barred from receiving educational assistance under 38 U.S.C. chapter 33 concurrently with educational assistance provided under—
 
 (1) 10 U.S.C. 1606 (Montgomery GI Bill—Selected Reserve);

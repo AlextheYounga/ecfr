@@ -1,14 +1,12 @@
 ##### § 126.801 How does an interested party file a HUBZone status protest? #####
 
-Link to an amendment published at 89 FR 102504, Dec. 17, 2024.
-
 (a) *General.* (1) A HUBZone status protest is the process by which an interested party may challenge the HUBZone status of an apparent successful offeror on a HUBZone contract, including a HUBZone joint venture submitting an offer under § 126.616. SBA will also consider a protest challenging whether a HUBZone prime contractor is unduly reliant on a small, non-similarly situated entity subcontractor or if such subcontractor performs the primary and vital requirements of the contract.
 
 (2) The protest procedures described in this part are separate from those governing size protests and appeals. All protests relating to whether a certified HUBZone small business concern is other than small for purposes of any Federal program are subject to part 121 of this chapter and must be filed in accordance with that part. If a protester protests both the size of the HUBZone small business concern and whether the concern meets the HUBZone eligibility requirements set forth in § 126.200, SBA will process the protests concurrently, under the procedures set forth in part 121 of this chapter and this part.
 
 (3) SBA does not review issues concerning the administration of a HUBZone contract.
 
-(b) *Format and specificity.* (1) Protests must be in writing and must state all specific grounds as to why the protestor believes the protested concern should not qualify as a certified HUBZone small business concern. Specifically, a protestor must explain why:
+(b) *Format and specificity.* (1) Protests must be in writing and must state all specific grounds as to why the protestor believes the protested concern did not qualify as a certified HUBZone small business concern. Specifically, a protestor must explain why:
 
 (i) The protested concern did not meet the HUBZone eligibility requirements set forth in § 126.200;
 
@@ -16,15 +14,15 @@ Link to an amendment published at 89 FR 102504, Dec. 17, 2024.
 
 (iii) The protested concern, as a HUBZone prime contractor, is unduly reliant on one or more small subcontractors that are not HUBZone-certified, or subcontractors that are not HUBZone-certified will perform the primary and vital requirements of the contract; and/or
 
-(iv) The protested concern, on the anniversary date of its initial HUBZone certification, failed to attempt to maintain compliance with the 35% HUBZone residency requirement during the performance of a HUBZone contract.
+(iv) The protested concern that was awarded a HUBZone contract during the 12-month period prior to submitting the offer at issue has less than 20% of its total employees that reside in a HUBZone and/or is not making substantive and documented efforts to meet the HUBZone residency requirement.
 
 (2) Specificity requires more than conclusions of ineligibility. A protest merely asserting that the protested concern did not qualify as a HUBZone small business concern, or that it did not meet the principal office and/or 35% residency requirements, without setting forth specific facts or allegations, is insufficient and will be dismissed.
 
 (3) For a protest filed against a HUBZone joint venture, the protest must state all specific grounds as to why:
 
-(i) The HUBZone small business partner to the joint venture did not meet the HUBZone eligibility requirements set forth in § 126.200 at the time the concern applied for certification or on the anniversary of such certification; and/or
+(i) The HUBZone small business partner to the joint venture did not meet the HUBZone eligibility requirements set forth in § 126.200 at the time of offer; and/or
 
-(ii) The protested HUBZone joint venture does not meet the requirements set forth in § 126.616.
+(ii) The protested HUBZone joint venture does not meet the requirements set forth in § 126.616 as of the date of its final proposal revision.
 
 (4) For a protest alleging that the prime contractor has an ostensible subcontractor, the protest must state all specific grounds as to why:
 
@@ -32,15 +30,13 @@ Link to an amendment published at 89 FR 102504, Dec. 17, 2024.
 
 (ii) One or more subcontractors that are not HUBZone-certified will perform the primary and vital requirements of the contract.
 
-(5) For a protest alleging that the protested concern failed to attempt to maintain compliance with the 35% HUBZone residency requirement during the performance of a HUBZone contract, the protest must state all specific grounds explaining why the protester believes that at least 20% of the protested firm's employees do not reside in a HUBZone.
+(5) For a protest alleging that the protested concern failed to attempt to maintain compliance with the 35% HUBZone residency requirement during the performance of a HUBZone contract, the protest must state all specific grounds explaining why the protester believes that at least 20% of the protested firm's employees do not reside in a HUBZone and/or that the protested firm has not made any substantive and documented efforts to meet the HUBZone residency requirement.
 
 (c) *Filing.* (1) An interested party other than a contracting officer or SBA must submit its written protest to the contracting officer.
 
-(2) A contracting officer and SBA must submit their protest to the D/HUB.
+(2) A contracting officer must submit his/her protest and forward an interested party's protest to SBA at *hzprotests@sba.gov*.
 
-(3) Protestors may submit their protests by email to *hzprotests@sba.gov.*
-
-(d) *Timeliness.* A protest challenging the HUBZone status of an apparent successful offeror on a HUBZone contract must be timely, or it will be dismissed.
+(d) *Timeliness.* A protest by an interested party challenging the HUBZone status of an apparent successful offeror on a HUBZone contract must be timely, or it will be dismissed. A protest by a contracting officer or SBA challenging the HUBZone status of an apparent successful offeror on a HUBZone contract or of an awardee on a HUBZone contract is always timely.
 
 (1) For negotiated acquisitions, an interested party must submit its protest by close of business on the fifth business day after notification by the contracting officer of the apparent successful offeror.
 
@@ -88,4 +84,4 @@ Link to an amendment published at 89 FR 102504, Dec. 17, 2024.
 
 (2) Where a protestor alleges that a certified HUBZone small business concern is unduly reliant on one or more subcontractors that are not certified HUBZone small business concerns or a subcontractor that is not a certified HUBZone small business concern will perform primary and vital requirements of the contract, the D/HUB will refer the matter to the Government Contracting Area Office serving the geographic area in which the principal office of the certified HUBZone small business concern is located for a determination as to whether the ostensible subcontractor rule has been met.
 
-[63 FR 31908, June 11, 1998, as amended at 69 FR 29427, May 24, 2004, 84 FR 65250, Nov. 26, 2019; 84 FR 65665, Nov. 29, 2019; 85 FR 66197, Oct. 16, 2020; 88 FR 26213, Apr. 27, 2023]
+[63 FR 31908, June 11, 1998, as amended at 69 FR 29427, May 24, 2004, 84 FR 65250, Nov. 26, 2019; 84 FR 65665, Nov. 29, 2019; 85 FR 66197, Oct. 16, 2020; 88 FR 26213, Apr. 27, 2023; 89 FR 102504, Dec. 17, 2024]

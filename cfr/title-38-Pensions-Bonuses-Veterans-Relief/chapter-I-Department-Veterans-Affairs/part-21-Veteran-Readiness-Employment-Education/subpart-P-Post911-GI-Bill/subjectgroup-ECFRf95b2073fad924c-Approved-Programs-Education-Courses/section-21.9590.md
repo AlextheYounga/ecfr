@@ -1,5 +1,7 @@
 ##### § 21.9590 Approved programs of education and courses. #####
 
+Link to an amendment published at 90 FR 5341, Jan. 16, 2025.
+
 (a) Payments of educational assistance are based on pursuit of a program of education. In order to receive educational assistance under 38 U.S.C. chapter 33, an eligible individual must—
 
 (1) Be pursuing an approved program of education;

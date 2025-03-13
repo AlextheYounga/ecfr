@@ -16,7 +16,7 @@ Stockyard operators, market agencies, dealers, and packers who operate scales on
 
 (b) *Weighing the load.* (1) Before weighing a draft of livestock, the weigher shall assure himself that the entire draft is on the scale platform with the gates closed and that no persons or animals off the scale are in contact with the platform, gates, or stock rack.
 
-(i) On a weighbeam scale with a balance indicator, the weight of a draft shall be determined by seating the poises at such positions that the pointer will come to rest within the central target area or within 1/4 (0.25) inch of the zero mark.
+(i) On a weighbeam scale with a balance indicator, the weight of a draft shall be determined by seating the poises at such positions that the pointer will come to rest within the central target area or within1/4 (0.25) inch of the zero mark.
 
 (ii) On a weighbeam scale without a balance indicator, the weight shall be determined by seating the poises at such positions that the weighbeam, when released from the top or bottom of the trig loop, will swing freely and come to rest at the approximate center of the trig loop.
 
@@ -48,7 +48,7 @@ Stockyard operators, market agencies, dealers, and packers who operate scales on
 
 (f) *Sensitivity control.* (1) A scale must be sensitive in response to platform loading if it is to yield accurate weights. It, therefore, is the duty of a weigher to assure himself that interferences, weighbeam friction, or other factors do not impair sensitivity. He should satisfy himself, at least twice each day, that the scale is sufficiently sensitive, and if the following requirements are not met, he should report the facts to his superior or employer immediately.
 
-(2) A weighbeam scale with a balance indicator is sufficiently sensitive if, when the scale is balanced with the pointer at the center of the target, movement of the fractional poise one graduation will change the indicator rest point 1/4 inch (0.25) or the width of the central target area, whichever is greater.
+(2) A weighbeam scale with a balance indicator is sufficiently sensitive if, when the scale is balanced with the pointer at the center of the target, movement of the fractional poise one graduation will change the indicator rest point1/4 inch (0.25) or the width of the central target area, whichever is greater.
 
 (3) A weighbeam scale without a balance indicator is sufficiently sensitive if, when the scale is balanced with the weighbeam at the center of the trig loop, movement of the fractional poise two graduations will cause the weighbeam to come to rest at the bottom of the trig loop.
 

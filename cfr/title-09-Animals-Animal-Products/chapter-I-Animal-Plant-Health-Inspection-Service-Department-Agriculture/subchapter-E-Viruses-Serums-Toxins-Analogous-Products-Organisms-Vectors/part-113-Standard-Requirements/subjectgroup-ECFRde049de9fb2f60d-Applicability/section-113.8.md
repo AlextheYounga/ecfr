@@ -20,9 +20,9 @@
 
 (3) If the average is equal to or greater than the required minimum, the following shall apply to live virus vaccines:
 
-(i) If the difference between the average titer obtained in the retests and the titer obtained in the initial test is 10 0.7 or greater, the initial titer may be considered a result of test system error and the serial or subserial considered satisfactory for virus titer.
+(i) If the difference between the average titer obtained in the retests and the titer obtained in the initial test is 100.7 or greater, the initial titer may be considered a result of test system error and the serial or subserial considered satisfactory for virus titer.
 
-(ii) If the difference between the average titer obtained in the retests and the titer obtained in the initial test is less than 10 0.7, a new average shall be determined using the titers obtained in all tests. If the new average is below the required minimum, the serial or subserial is unsatisfactory.
+(ii) If the difference between the average titer obtained in the retests and the titer obtained in the initial test is less than 100.7, a new average shall be determined using the titers obtained in all tests. If the new average is below the required minimum, the serial or subserial is unsatisfactory.
 
 (4) If the average is equal to or greater than the required minimum, the following shall apply to bacterial vaccines:
 

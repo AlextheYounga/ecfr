@@ -160,7 +160,7 @@ Attached hereto, in quadruplicate, or on a computer disc copy, and constituting 
 
 (xiii) A statement concerning the feasibility of convening associations, corporations, consumers, and other interested parties to engage in negotiated rulemaking to develop a proposed rule.
 
- Yours very truly, Applicant By  (Indicate authority)
+ Yours very truly, Applicant By (Indicate authority)
 
 (8) Upon receipt of the labeling application and supporting documentation, the applicant shall be notified, in writing, of the date on which the labeling application was received. Such notice shall inform the applicant that the labeling application is undergoing Agency review and that the applicant shall subsequently be notified of the Agency's decision to consider for further review or deny the labeling application.
 

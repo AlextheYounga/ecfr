@@ -22,7 +22,7 @@
 
 (A) All bones have been completely removed in the region of origin, and
 
-(B) Such pork or pork products shall be consigned directly from the port of entry in the United States to a meat processing establishment operating under Federal meat inspection and approved by the Administrator, 12 for heating to an internal temperature of 166 °F. During movement from the port of entry to the meat processing establishment, the pork or pork products must be moved under Department seals or seals of the U.S. Customs Service, and shall be otherwise handled as the Administrator may direct in order to guard against the introduction and dissemination of swine vesicular disease. Seals applied under this section may not be broken except by persons authorized by the Administrator to do so.
+(B) Such pork or pork products shall be consigned directly from the port of entry in the United States to a meat processing establishment operating under Federal meat inspection and approved by the Administrator,12 for heating to an internal temperature of 166 °F. During movement from the port of entry to the meat processing establishment, the pork or pork products must be moved under Department seals or seals of the U.S. Customs Service, and shall be otherwise handled as the Administrator may direct in order to guard against the introduction and dissemination of swine vesicular disease. Seals applied under this section may not be broken except by persons authorized by the Administrator to do so.
 
 12 The names and addresses of approved establishments may be obtained from, and request for approval of any establishment may be made to, the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231. Establishments will be approved only if the Administrator determines that the imported articles will be so handled at the establishment as to prevent the introduction and dissemination of livestock or poultry diseases into the United States. Approval of any establishment may be refused or withdrawn only after the operator thereof has been given notice of the proposed action and has had an opportunity to present his views thereon.
 
@@ -54,7 +54,7 @@
 
 (2) Articles under paragraph (b)(1)(ii), (iii) or (iv) of this section were prepared in an inspected establishment that is eligible to have its products imported into the United States under the Federal Meat Inspection Act and the regulations in § 327.2 in chapter III of this title.
 
-(3) In addition to the foreign meat inspection certificate required in § 327.4 of this title, pork or pork products prepared under paragraph (b)(1)(ii), (iii) or (iv) of this section shall be accompanied by certification that paragraph (b)(1)(ii), (b)(1)(iii)(A), or (b)(1)(iv)(B)(2) of this section has been met. The certification shall be issued by an official of the national government of the region of origin who is authorized to issue the foreign meat inspection certificate required by § 327.4 of this title. 13 Upon arrival of the pork or pork products in the United States, the certificate must be presented to an authorized inspector at the port of arrival.
+(3) In addition to the foreign meat inspection certificate required in § 327.4 of this title, pork or pork products prepared under paragraph (b)(1)(ii), (iii) or (iv) of this section shall be accompanied by certification that paragraph (b)(1)(ii), (b)(1)(iii)(A), or (b)(1)(iv)(B)(2) of this section has been met. The certification shall be issued by an official of the national government of the region of origin who is authorized to issue the foreign meat inspection certificate required by § 327.4 of this title.13 Upon arrival of the pork or pork products in the United States, the certificate must be presented to an authorized inspector at the port of arrival.
 
 13 See footnote 10.
 
@@ -92,4 +92,4 @@
 
 Upon arrival of the pork-filled pasta in the United States, the certificate must be presented to an inspector at the port of arrival.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0015 and 0579-0214) [38 FR 20610, Aug. 2, 1973]Editorial Note:For Federal Register citations affecting § 94.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Approved by the Office of Management and Budget under control numbers 0579-0015 and 0579-0214)[38 FR 20610, Aug. 2, 1973]Editorial Note:For Federal Register citations affecting § 94.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,5 +1,7 @@
 ##### § 21.3022 Nonduplication—programs administered by VA. #####
 
+Link to an amendment published at 90 FR 5329, Jan. 16, 2025.
+
 A person who is eligible for educational assistance under 38 U.S.C. chapter 35 and is also eligible for assistance under any of the provisions of law listed in this paragraph cannot receive such assistance concurrently. The eligible person must choose which benefit he or she will receive for the particular period(s) of training during which education or training is to be pursued. The individual may choose to receive benefits under another program (other than 38 U.S.C. chapter 33) at any time, but not more than once in a calendar month. The individual may choose to receive benefits under 38 U.S.C. chapter 33 at any time, but not more than once during a certified term, quarter, or semester.
 
 (a) 38 U.S.C. chapter 30 (Montgomery GI Bill—Active Duty);

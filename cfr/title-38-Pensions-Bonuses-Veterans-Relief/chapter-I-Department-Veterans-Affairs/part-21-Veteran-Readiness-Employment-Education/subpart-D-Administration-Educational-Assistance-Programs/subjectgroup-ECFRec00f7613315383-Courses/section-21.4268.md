@@ -1,5 +1,7 @@
 ##### § 21.4268 Approval of licensing and certification tests. #####
 
+Link to an amendment published at 90 FR 5333, Jan. 16, 2025.
+
 (a) *Authority to approve licensing and certification tests.* (1) Except for approval of the licensing and certification tests and the organizations or entities offering these tests that, as provided in § 21.4250(c)(2), are VA's responsibility, the Secretary of Veterans Affairs delegates to each State approving agency the authority, within the respective State approving agency's jurisdiction provided in § 21.4250(a), to approve licensing and certification tests and to approve the organizations or entities offering licensing and certification tests.
 
 (2) The Secretary of Veterans Affairs delegates to the Under Secretary for Benefits, and to personnel the Under Secretary for Benefits may designate within the Education Service of the Veterans Benefits Administration, the authority to approve the licensing and certification tests and the organizations or entities offering these tests that, as provided in § 21.4250(c)(2)(vi), are VA's responsibility.

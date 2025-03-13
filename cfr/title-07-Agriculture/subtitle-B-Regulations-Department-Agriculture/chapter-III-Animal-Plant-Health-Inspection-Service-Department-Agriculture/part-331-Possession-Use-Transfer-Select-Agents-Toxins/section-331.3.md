@@ -1,12 +1,10 @@
 ##### § 331.3 PPQ select agents and toxins. #####
 
-Link to an amendment published at 89 FR 101845, Dec. 17, 2024.
-
 (a) Except as provided in paragraphs (d) and (e) of this section, the Administrator has determined that the biological agents and toxins listed in this section have been determined to have the potential to pose a severe threat to plant health or to plant products.
 
-(b) PPQ select agents and toxins:
+(b) PPQ select agents and toxins are:
 
-*Coniothyrium glycines,* (formerly *Phoma glycinicola, Pyrenochaeta glycines*);*Peronosclerospora philippinensis* (*Peronosclerospora sacchari*);*Ralstonia solanacearum;**Rathayibacter toxicus;j**Sclerophthora rayssiae;**Synchytrium endobioticum;**Xanthomonas oryzae.*
+(1) *Coniothyrium glycines,* (formerly *Phoma glycinicola, Pyrenochaeta glycines*);(2) *Ralstonia solanacearum;*(3) *Rathayibacter toxicus;*(4) *Sclerophthora rayssiae;*(5) *Synchytrium endobioticum;* and(6) *Xanthomonas oryzae.*
 
 (c) Genetic elements, recombinant and/or synthetic nucleic acids, and recombinant and/or synthetic organisms:
 
@@ -58,4 +56,4 @@ Link to an amendment published at 89 FR 101845, Dec. 17, 2024.
 
 (4) The Federal law enforcement agency reports the final disposition of the select agent or toxin to APHIS or CDC by submission of APHIS/CDC Form 4. A copy of the completed form must be maintained for 3 years.
 
-[70 FR 13278, Mar. 18, 2005, as amended at 73 FR 61331, Oct. 16, 2008; 77 FR 61075, Oct. 5, 2012; 79 FR 26830, May 12, 2014; 82 FR 6204, Jan. 19. 2017; 83 FR 48201, Sept. 24, 2018]
+[70 FR 13278, Mar. 18, 2005, as amended at 73 FR 61331, Oct. 16, 2008; 77 FR 61075, Oct. 5, 2012; 79 FR 26830, May 12, 2014; 82 FR 6204, Jan. 19. 2017; 83 FR 48201, Sept. 24, 2018; 89 FR 101845, Dec. 17, 2024]

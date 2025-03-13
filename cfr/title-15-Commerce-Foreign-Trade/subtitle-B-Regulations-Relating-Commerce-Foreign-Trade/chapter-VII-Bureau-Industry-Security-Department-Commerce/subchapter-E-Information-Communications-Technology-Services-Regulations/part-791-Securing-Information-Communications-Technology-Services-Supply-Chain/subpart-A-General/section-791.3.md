@@ -1,6 +1,6 @@
 ##### § 791.3 Scope of Covered ICTS Transactions. #####
 
-Link to an amendment published at 89 FR 96893, Dec. 6, 2024.
+Link to an amendment published at 89 FR 96893, Dec. 6, 2024.Link to a correction published at 90 FR 4624, Jan. 16, 2025.
 
 (a) This part applies only to an ICTS Transaction that:
 

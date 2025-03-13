@@ -1,5 +1,7 @@
 ##### § 21.4263 Approval of flight training courses. #####
 
+Link to an amendment published at 90 FR 5332, Jan. 16, 2025.
+
 (a) *A flight school or institution of higher learning are the only entities that can offer flight courses.* A State approving agency may approve a flight course only if a flight school or an institution of higher learning offers the course. A State approving agency may not approve a flight course if an individual instructor offers it. The provisions of § 21.4150 shall determine the proper State approving agency for approving a flight course.
 
 (Authority: 10 U.S.C. 16136(c); 38 U.S.C. 3032(d), 3241(b), 3671, 3672, 3676)

@@ -624,4 +624,6 @@ It is unlawful for any person to do any of the following:
 
 (2) [Reserved]
 
+(y) Disclose confidential information without authorization.
+
 [61 FR 32540, June 24, 1996]Editorial Note:For Federal Register citations affecting § 600.725, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

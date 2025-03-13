@@ -1,5 +1,7 @@
 ##### § 74.303 FD&C Red No. 3. #####
 
+Link to an amendment published at 90 FR 4634, Jan. 16, 2025.
+
 (a) *Identity.* (1) The color additive FD&C Red No. 3 is principally the monohydrate of 9 (*o-* carboxyphenyl)-6-hydroxy - 2,4,5,7-tetraiodo-3H-xanthen-3-one, disodium salt, with smaller amounts of lower imdinated fluoresceins.
 
 (2) Color additive mixtures for food use made with FD&C Red No. 3 may contain only those diluents that are suitable and that are listed in part 73 of this chapter as safe for use in color additive mixtures for coloring foods.

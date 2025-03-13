@@ -6,7 +6,7 @@
 
 (c) *Restrictions.* License Exception RFF is subject to the following restrictions.
 
-(1) Items may not be used for the operation, installation, maintenance, repair, overhaul, or refurbishing of items specified in ECCNs 3B001.a.4, c, d, f.1, f.5, k to n, p.2, p.4, r, 3B002.c, 3B993, or 3B994 at a 'restricted fabrication facility'.
+(1) Items may not be used for the operation, installation, maintenance, repair, overhaul, or refurbishing of items specified in ECCNs 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r, 3B002.c, 3B993, or 3B994 at a 'restricted fabrication facility'.
 
 (2) The item may not be used to produce “advanced-node integrated circuits.”
 
@@ -22,4 +22,4 @@
 
 (2) *Annual end-use confirmation.* On February 1 of each year that the exporter, reexporter, or transferor is continuing to provide service or for at least for five years from the date of last service, you must submit a report to BIS that you have confirmed that the installed semiconductor manufacturing equipment is not being used in the production of “advanced-node integrated circuits.”
 
-[89 FR 96814, Dec. 5, 2024]
+[89 FR 96814, Dec. 5, 2024, as amended at 90 FR 5309, Jan. 16, 2025]

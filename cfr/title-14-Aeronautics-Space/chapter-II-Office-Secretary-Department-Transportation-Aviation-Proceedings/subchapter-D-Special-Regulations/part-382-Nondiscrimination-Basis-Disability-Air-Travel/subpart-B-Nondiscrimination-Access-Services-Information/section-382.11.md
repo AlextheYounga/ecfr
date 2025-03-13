@@ -1,7 +1,5 @@
 ##### § 382.11 What is the general nondiscrimination requirement of this part? #####
 
-Link to an amendment published at 89 FR 102441, Dec. 17, 2024.
-
 (a) As a carrier, you must not do any of the following things, either directly or through a contractual, licensing, or other arrangement:
 
 (1) You must not discriminate against any qualified individual with a disability, by reason of such disability, in the provision of air transportation;
@@ -12,6 +10,8 @@ Link to an amendment published at 89 FR 102441, Dec. 17, 2024.
 
 (4) You must not take any adverse action against an individual (e.g., refusing to provide transportation) because the individual asserts, on his or her own behalf or through or on behalf of others, rights protected by this part or the Air Carrier Access Act.
 
-(b) As an indirect carrier, you must comply with §§ 382.17 through 382.157 of this part when providing facilities or services to passengers that would have otherwise been provided by a direct air carrier.
+(b) As a carrier or an indirect carrier, the assistance you provide with respect to this part must be performed in a safe and dignified manner.
 
-[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended at 75 FR 44887, July 30, 2010]
+(c) As an indirect carrier, you must comply with §§ 382.17 through 382.157 of this part when providing facilities or services to passengers that would have otherwise been provided by a direct air carrier.
+
+[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended at 75 FR 44887, July 30, 2010; DOT-OST-2022-0144, 89 FR 102441, Dec. 17, 2024]

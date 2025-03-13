@@ -22,7 +22,7 @@ Canine Parainfluenza Vaccine shall be prepared from virus-bearing cell culture f
 
 (c) *Test requirements for release.* Each serial and subserial shall meet the applicable general requirements prescribed in § 113.300 and the requirements in this paragraph. Any serial or subserial found unsatisfactory by a prescribed test shall not be released.
 
-(1) *Virus titer requirements.* Final container samples of completed product shall be tested for virus titer using the titration method used in paragraph (b)(2) of this section. To be eligible for release, each serial and each subserial shall have a virus titer sufficiently greater than the titer of vaccine virus used in the immunogenicity test prescribed in paragraph (b) of this section to assure that, when tested at any time within the expiration period, each serial and subserial shall have a virus titer at least 10 0.7 greater than that used in the immunogenicity test but not less than 10 2.5 TCID50 per dose.
+(1) *Virus titer requirements.* Final container samples of completed product shall be tested for virus titer using the titration method used in paragraph (b)(2) of this section. To be eligible for release, each serial and each subserial shall have a virus titer sufficiently greater than the titer of vaccine virus used in the immunogenicity test prescribed in paragraph (b) of this section to assure that, when tested at any time within the expiration period, each serial and subserial shall have a virus titer at least 100.7 greater than that used in the immunogenicity test but not less than 102.5 TCID50 per dose.
 
 (2) [Reserved]
 

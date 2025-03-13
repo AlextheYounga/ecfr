@@ -1,5 +1,7 @@
 ##### § 21.9600 Overcharges. #####
 
+Link to an amendment published at 90 FR 5341, Jan. 16, 2025.
+
 (a) *Overcharges by educational institutions may result in the disapproval of enrollments.* VA may disapprove an institution of higher learning for further enrollments if the institution of higher learning charges an individual, or receives from an individual, an amount for tuition and fees that exceeds the established charges that the institution of higher learning requires from similarly circumstanced individuals enrolled in the same course.
 
 (Authority: 38 U.S.C. 3034(a), 3323(a), 3690(a))

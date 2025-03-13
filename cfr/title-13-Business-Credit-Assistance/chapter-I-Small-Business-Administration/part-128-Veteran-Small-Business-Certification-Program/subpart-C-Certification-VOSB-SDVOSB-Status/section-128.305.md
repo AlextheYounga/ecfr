@@ -1,5 +1,9 @@
-##### § 128.305 Can an Applicant or Participant reapply for certification after a denied certification or decertification? #####
+##### § 128.305 May declined or decertified concerns apply for recertification at a later date? #####
 
-Link to an amendment published at 89 FR 102509, Dec. 17, 2024.
+(a) A concern that SBA has declined may apply for certification after ninety (90) calendar days from the date of decline, if it believes that it has overcome all of the reasons for decline and is currently eligible.
 
-An Applicant that SBA denied certification or a Participant that SBA has decertified may submit an application for certification no sooner than ninety (90) calendar days from the date of final agency decision (*i.e.,* the SBA decision if no appeal is filed or the decision of SBA's OHA where an appeal is filed pursuant to § 128.304) if it believes that it has overcome all of the reasons for denial or decertification and is currently eligible.
+(b) A concern that SBA has decertified may apply for certification immediately after the date of decertification, if it believes that it has overcome all reasons for decertification through changed circumstances and is currently eligible.
+
+(c) A concern that voluntarily withdraws from the VetCert program may immediately apply for certification, if it believes that it is currently eligible.
+
+[89 FR 102509, Dec. 17, 2024]

@@ -1,7 +1,5 @@
 ##### § 129.7 Application, issuance, or denial of operations specifications. #####
 
-Link to an amendment published at 89 FR 101880, Dec. 17, 2024.
-
 (a) A foreign air carrier or foreign person applying to the FAA for operations specifications under this part must submit an application—
 
 (1) In a form and manner prescribed by the Administrator; and
@@ -20,8 +18,12 @@ Link to an amendment published at 89 FR 101880, Dec. 17, 2024.
 
 (4) Is properly and adequately equipped to conduct the operations described in the operations specifications; and
 
-(5) Holds a valid air operator certificate issued by the State of the Operator.
+(5) Holds a valid air operator certificate, if acceptable to the Administrator, issued by:
 
-(d) An application may be denied if the Administrator finds that the applicant is not properly or adequately equipped to conduct the operations to be described in the operations specifications.
+(i) The State of the Operator; or
 
-[Doc. No. FAA-2009-0140; 76 FR 7489, Feb. 10, 2011]
+(ii) A Regional Safety Oversight Organization (RSOO) if the State of the Operator is a member State of that RSOO.
+
+(d) An application may be denied if the Administrator finds that the applicant does not meet one or more of the criteria listed in paragraph (c) of this section.
+
+[Doc. No. FAA-2009-0140; 76 FR 7489, Feb. 10, 2011, as amended by FAA-2024-0176; Amdt. No. 129-55, 89 FR 101880, Dec. 17, 2024]

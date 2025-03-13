@@ -1,7 +1,5 @@
 ##### § 124.603 What reports regarding the continued business operations of former Participants does SBA require? #####
 
-Link to an amendment published at 89 FR 102490, Dec. 17, 2024.
+If requested by the SBA, former Participants must provide such information as SBA may request concerning the former Participant's continued business operations, contracts, and financial condition for a period of three years following the date on which the concern leaves the 8(a) BD program (either through the expiration of the firm's program term, graduation, or termination). Failure to provide such information when requested will constitute a violation of the regulations set forth in this part, and may result in the nonexercise of options on or termination of contracts awarded through the 8(a) BD program, debarment, or other legal recourse.
 
-Former Participants must provide such information as SBA may request concerning the former Participant's continued business operations, contracts, and financial condition for a period of three years following the date on which the concern leaves the 8(a) BD program (either through the expiration of the firm's program term, graduation, or termination). Failure to provide such information when requested will constitute a violation of the regulations set forth in this part, and may result in the nonexercise of options on or termination of contracts awarded through the 8(a) BD program, debarment, or other legal recourse.
-
-[63 FR 35739, June 30, 1998, as amended at 88 FR 26209, Apr. 27, 2023]
+[63 FR 35739, June 30, 1998, as amended at 88 FR 26209, Apr. 27, 2023; 89 FR 102490, Dec. 17, 2024]

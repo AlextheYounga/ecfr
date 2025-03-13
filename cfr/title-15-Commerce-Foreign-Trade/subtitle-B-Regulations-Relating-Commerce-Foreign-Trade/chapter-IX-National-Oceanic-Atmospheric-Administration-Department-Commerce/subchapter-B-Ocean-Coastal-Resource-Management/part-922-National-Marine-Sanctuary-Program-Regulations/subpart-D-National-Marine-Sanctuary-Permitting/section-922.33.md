@@ -1,5 +1,7 @@
 ##### § 922.33 Review procedures and evaluation. #####
 
+Link to an amendment published at 90 FR 4891, Jan. 16, 2025.
+
 (a) *Review criteria.* In addition to any relevant site-specific permit review criteria, the Director shall not issue a permit under this subpart or the relevant subpart, unless he or she also finds that:
 
 (1) The proposed activity will be conducted in a manner compatible with the primary objective of protection of national marine sanctuary resources and qualities, taking into account the following factors: the extent to which the conduct of the activity may diminish or enhance national marine sanctuary resources and qualities; and any indirect or cumulative effects of the activity;

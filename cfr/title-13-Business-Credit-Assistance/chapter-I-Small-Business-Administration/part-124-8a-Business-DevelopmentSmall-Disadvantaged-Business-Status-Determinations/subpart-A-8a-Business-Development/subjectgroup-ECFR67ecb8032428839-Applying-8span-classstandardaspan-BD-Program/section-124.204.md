@@ -1,7 +1,5 @@
 ##### § 124.204 How does SBA process applications for 8(a) BD program admission? #####
 
-Link to an amendment published at 89 FR 102489, Dec. 17, 2024.
-
 (a) The AA/BD is authorized to approve or decline applications for admission to the 8(a) BD program.
 
 (1) Except as set forth in paragraph (a)(2) of this section, the DPCE will receive, review and evaluate all 8(a) BD applications.
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 102489, Dec. 17, 2024.
 
 (c) The burden of proof to demonstrate eligibility is on the applicant concern. If a concern does not provide requested information within the allotted time provided by SBA, or if it submits incomplete information, SBA may presume that disclosure of the missing information would adversely affect the firm or would demonstrate lack of eligibility in the area to which the information relates.
 
-(d) An applicant must be eligible as of the date the AA/BD issues a decision. The decision will be based on the facts set forth in the application, any information received in response to SBA's request for clarification made pursuant to paragraph (b) of this section, and any changed circumstances since the date of application.
+(d) An applicant must be eligible as of the date SBA issues a decision. An applicant's eligibility will be based on the totality of circumstances, including facts set forth in the application, supporting documentation, any information received in response to any SBA request for clarification, and any changed circumstances.
 
 (e) Changed circumstances for an applicant concern occurring subsequent to its application and which adversely affect eligibility will be considered and may constitute grounds for decline. The applicant must inform SBA of any changed circumstances that could adversely affect its eligibility for the program (particularly economic disadvantage and ownership and control) during its application review. Failure to inform SBA of any such changed circumstances constitutes good cause for which SBA may terminate the Participant if non-compliance is discovered after admittance.
 
@@ -24,4 +22,4 @@ Link to an amendment published at 89 FR 102489, Dec. 17, 2024.
 
 (g) If the AA/BD approves the application, the date of the approval letter is the date of program certification for purposes of determining the concern's program term.
 
-[63 FR 35739, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8258, Feb. 11, 2011; 85 FR 66185, Oct. 16, 2020; 88 FR 26205, Apr. 27, 2023]
+[63 FR 35739, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8258, Feb. 11, 2011; 85 FR 66185, Oct. 16, 2020; 88 FR 26205, Apr. 27, 2023; 89 FR 102489, Dec. 17, 2024]

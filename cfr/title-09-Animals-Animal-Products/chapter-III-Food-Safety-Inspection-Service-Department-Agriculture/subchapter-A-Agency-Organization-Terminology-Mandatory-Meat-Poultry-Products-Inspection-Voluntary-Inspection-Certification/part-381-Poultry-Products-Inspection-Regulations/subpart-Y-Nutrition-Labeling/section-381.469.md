@@ -102,7 +102,7 @@ Attached hereto, in quadruplicate, or on a computer disc copy, and constituting 
 
 (ii) A detailed explanation supported by any necessary data of why use of the proposed brand name is requested. This explanation shall also state what nutritional benefit to the public will derive from use of the brand name as proposed. If the branded product is intended for a specific group within the population, the analysis shall specifically address nutritional needs of such group and scientific data sufficient for such purpose.
 
- Yours very truly, Applicant  By
+ Yours very truly, Applicant By
 
 (2) Upon receipt of the labeling application and supporting documentation, the applicant shall be notified, in writing, of the date on which the labeling application was received. Such notice shall inform the applicant that the labeling application is undergoing Agency review and that the applicant shall subsequently be notified of the Agency's decision to consider for further review or deny the labeling application.
 

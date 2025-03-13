@@ -1,5 +1,7 @@
 ##### § 21.9525 Eligibility for increased and supplemental educational assistance. #####
 
+Link to an amendment published at 90 FR 5337, Jan. 16, 2025.
+
 (a) *Increased assistance for members with critical skills or specialty.* The Secretary of the military department concerned, pursuant to regulations prescribed by the Secretary of Defense, may increase the amount of educational assistance payable under § 21.9640(b)(1)(ii) or (b)(2)(ii) to an individual who has a skill or specialty in which there is a critical shortage of personnel, for which there is difficulty recruiting, or, in the case of critical units, for which there is difficulty in retaining personnel.
 
 (b) *Supplemental assistance for members serving additional service.* The Secretary of the military department concerned, pursuant to regulations prescribed by the Secretary of Defense, may supplement the amount of educational assistance payable under § 21.9640(b)(1)(ii) or (b)(2)(ii) to an individual who meets the following service requirements.

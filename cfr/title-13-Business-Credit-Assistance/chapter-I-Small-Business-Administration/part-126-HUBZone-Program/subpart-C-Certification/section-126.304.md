@@ -1,7 +1,5 @@
 ##### § 126.304 What must a concern submit to SBA in order to be certified as a HUBZone small business concern? #####
 
-Link to an amendment published at 89 FR 102500, Dec. 17, 2024.
-
 (a) *General.* To be certified by SBA as a HUBZone small business concern, a concern must submit a completed application and all documents requested by SBA. The concern must also represent to SBA that it meets the requirements set forth in § 126.200 and that all of the information provided as of the date of the application (and any subsequent information provided) is complete, true and accurate. The representation must be signed by an owner or officer of the applicant.
 
 (b) *Supporting documents.* (1) SBA may request documents to verify that the applicant meets the HUBZone program's eligibility requirements. The documents must show that the concern meets the program's requirements at the time it submits its application to SBA.
@@ -12,6 +10,4 @@ Link to an amendment published at 89 FR 102500, Dec. 17, 2024.
 
 (d) *HUBZone areas.* Concerns applying for HUBZone status must use SBA's website (*e.g.,* maps or other tools showing qualified HUBZones) to verify that the location of the concern's principal office and the residences of at least 35% of the concern's employees are within HUBZones. If SBA's website indicates that a particular location is not within a HUBZone and the applicant disagrees, then the applicant must note this on the application and submit relevant documents showing why the applicant believes the area meets the statutory criteria of a HUBZone. SBA will determine whether the location is within a HUBZone using available methods (*e.g.,* by contacting Bureau of Indian Affairs for Indian reservations or Department of Defense for BRACs).
 
-(e) *Record maintenance.* HUBZone small business concerns must retain documentation demonstrating satisfaction of all qualifying requirements for 6 years from date of submission of all initial and continuing eligibility actions as required by this part. In addition, HUBZone small business concerns must retain documentation as required in § 126.200(d)(3).
-
-[84 FR 65244, Nov. 26, 2019]
+[84 FR 65244, Nov. 26, 2019, as amended at 89 FR 102500, Dec. 17, 2024]

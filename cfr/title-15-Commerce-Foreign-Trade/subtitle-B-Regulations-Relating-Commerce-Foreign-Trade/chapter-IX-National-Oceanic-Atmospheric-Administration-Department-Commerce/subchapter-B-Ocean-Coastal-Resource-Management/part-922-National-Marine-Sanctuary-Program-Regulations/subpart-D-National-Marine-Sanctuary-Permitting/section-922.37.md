@@ -1,5 +1,7 @@
 ##### § 922.37 Appeals of permitting decisions. #####
 
+Link to an amendment published at 90 FR 4891, Jan. 16, 2025.
+
 (a) *Potential appellant.* The following person may appeal an action listed in paragraph (b) of this section (hereinafter referred to as “appellant”):
 
 (1) An applicant or holder of a certification of any existing lease, permit, license, or right of subsistence use or of access pursuant to § 922.10;

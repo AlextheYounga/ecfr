@@ -1,5 +1,7 @@
 ##### § 21.9740 False, late, or missing reports. #####
 
+Link to an amendment published at 90 FR 5357, Jan. 16, 2025.
+
 (a) *Eligible individual.* Payments may not be based on false or misleading statements, claims or reports. VA will apply the provisions of §§ 21.4006 and 21.4007 to any individual who submits false or misleading claims, statements, or reports in connection with benefits payable under 38 U.S.C. chapter 33 in the same manner as they are applied to people who make similar false or misleading claims for benefits payable under 38 U.S.C. chapter 36.
 
 (Authority: 38 U.S.C. 3034(a), 3323(a), 3680, 3690, 6103)

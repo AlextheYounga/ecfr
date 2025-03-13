@@ -8,13 +8,13 @@ Each lot of ingredient of animal origin which is not subjected to heat steriliza
 
 (c) Samples of each lot of ingredient of animal origin, except porcine trypsin, which is not subjected to heat sterilization or other viricidal procedure acceptable to APHIS used in the preparation of biological products shall be tested as prescribed in this paragraph;
 
-(1) Monolayers at least 75 cm 2 of Vero (African green monkey kidney) cell line and of primary cells or a cell line of the same species of origin as the ingredient shall be used in the test. Cell lines used shall have been found satisfactory when tested as prescribed in § 113.52 and primary cells used shall have been found satisfactory when tested as prescribed in § 113.51.
+(1) Monolayers at least 75 cm2 of Vero (African green monkey kidney) cell line and of primary cells or a cell line of the same species of origin as the ingredient shall be used in the test. Cell lines used shall have been found satisfactory when tested as prescribed in § 113.52 and primary cells used shall have been found satisfactory when tested as prescribed in § 113.51.
 
-(2) At least 3.75 ml or 15 percent of the ingredient shall be used in the growth medium for the preparation of at least 75 cm 2 test monolayers. The ingredient shall also be used in the growth medium when monolayers are subcultured. If the ingredient being tested is cytotoxic when tested in this manner, other procedures may be used if approved by APHIS.
+(2) At least 3.75 ml or 15 percent of the ingredient shall be used in the growth medium for the preparation of at least 75 cm2 test monolayers. The ingredient shall also be used in the growth medium when monolayers are subcultured. If the ingredient being tested is cytotoxic when tested in this manner, other procedures may be used if approved by APHIS.
 
 (3) The test monolayers shall be maintained for at least 21 days.
 
-(4) Cells shall be subcultured at least two times during the maintenance period. All but the last subculture shall result in at least one new monolayer of at least 75 cm 2. The last subculture shall meet the minimum area requirements specified in §§ 113.46 and 113.47.
+(4) Cells shall be subcultured at least two times during the maintenance period. All but the last subculture shall result in at least one new monolayer of at least 75 cm2. The last subculture shall meet the minimum area requirements specified in §§ 113.46 and 113.47.
 
 (5) Monolayers shall be examined regularly throughout the 21-day maintenance period for evidence of cytopathogenic agents. If evidence of a cytopathogenic agent is found, the ingredient is unsatisfactory.
 
@@ -26,7 +26,7 @@ Each lot of ingredient of animal origin which is not subjected to heat steriliza
 
 (d) Each lot of porcine trypsin which has not been treated to inactivate porcine parvovirus (PPV) in a manner acceptable to VS shall be tested for PPV as prescribed in this paragraph.
 
-(1) Not less than 5.0 grams of trypsin shall be dissolved in a volume of suitable diluent sufficient to fill a centrifuge angle head. After centrifuging for 1 hour at 80,000 × g, the pellet material shall be reconstituted in distilled water and inoculated into a flask containing 75 cm 2 of a 30 to 50 percent confluent monolayer culture of primary porcine cells or a porcine cell line of proven equal PPV susceptibility. An additional flask of cells shall be held as a negative control.
+(1) Not less than 5.0 grams of trypsin shall be dissolved in a volume of suitable diluent sufficient to fill a centrifuge angle head. After centrifuging for 1 hour at 80,000 × g, the pellet material shall be reconstituted in distilled water and inoculated into a flask containing 75 cm2 of a 30 to 50 percent confluent monolayer culture of primary porcine cells or a porcine cell line of proven equal PPV susceptibility. An additional flask of cells shall be held as a negative control.
 
 (2) The test and control monolayers shall be maintained for at least 14 days and subcultured at least once during the maintenance period.
 

@@ -12,7 +12,7 @@
 
 (iii) Being an agent of a foreign power as defined in 50 U.S.C. 1801;
 
-(3) The individual or entity does not meet the requirements of this part; 10 or
+(3) The individual or entity does not meet the requirements of this part;10 or
 
 10 If registration is denied for this reason, we may provide technical assistance and guidance.
 

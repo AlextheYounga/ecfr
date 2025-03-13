@@ -1,7 +1,5 @@
 ##### § 382.3 What do the terms in this rule mean? #####
 
-Link to an amendment published at 89 FR 102441, Dec. 17, 2024.
-
 In this regulation, the terms listed in this section have the following meanings:
 
 *Air Carrier Access Act or ACAA* means the Air Carrier Access Act of 1986, as amended, the statute that provides the principal authority for this part.
@@ -28,7 +26,15 @@ In this regulation, the terms listed in this section have the following meanings
 
 *CPAP machine* means a continuous positive airway pressure machine.
 
+*Custody* means the time period when a passenger has checked a wheelchair, scooter, or other assistive device with a carrier and the carrier has control of a passenger's wheelchair, scooter, or other assistive device.
+
+(1) An airline's custody begins when the passenger hands the device to an airline's representative or agent or leaves the wheelchair, scooter, or other assistive device at a location as instructed by the airline.
+
+(2) An airline's custody ends when the passenger, or someone acting on behalf of the passenger, or another airline takes physical possession of the wheelchair, scooter, or other assistive device.
+
 *Department or DOT* means the United States Department of Transportation.
+
+*Dignified* means assistance provided in a manner that respects a passenger's independence, autonomy, and privacy, which includes but is not limited to: airline personnel providing transfer assistance in a manner that ensures the passenger's clothing is not removed; airline personnel not unduly delaying requests for access to a restroom such that the individual soils himself or herself; and, to the maximum extent possible, airline personnel communicating directly with the individual with disability (*e.g.,* rather than his or her companion or another individual) when the individual with disability is interacting with them.
 
 *Direct threat* means a significant risk to the health or safety of others that cannot be eliminated by a modification of policies, practices, or procedures, or by the provision of auxiliary aids or services.
 
@@ -41,6 +47,8 @@ In this regulation, the terms listed in this section have the following meanings
 *Facility* means a carrier's aircraft and any portion of an airport that a carrier owns, leases, or controls (e.g., structures, roads, walks, parking lots, ticketing areas, baggage drop-off and retrieval sites, gates, other boarding locations, loading bridges) normally used by passengers or other members of the public.
 
 *Flight-related services* mean functions related to air travel including, but not limited to, ticket purchase, rebooking cancelled flights, seat selection, and obtaining boarding passes or bag tags.
+
+*Hands-on training* means in-person training that is received by an employee or contractor where the employee or contractor can learn and practice real-life scenarios in a safe and controlled environment without the possibility of real-life consequences to passengers with disabilities and with the use of a suitable life-sized model or equipment, as appropriate.
 
 *High-contrast captioning* means captioning that is at least as easy to read as white letters on a consistent black background.
 
@@ -68,6 +76,8 @@ The term *physical or mental impairment* includes, but is not limited to, such d
 
 (3) Has none of the impairments set forth in this definition but is treated by an air carrier as having such an impairment.
 
+*Mishandled* means lost, delayed, damaged, or pilfered.
+
 *On-demand air taxi* means an air taxi operator that carries passengers or property and is not a commuter carrier as defined in this section.
 
 *PHMSA* means the Pipeline and Hazardous Materials Safety Administration, an operating administration of the Department of Transportation.
@@ -90,6 +100,8 @@ The term *physical or mental impairment* includes, but is not limited to, such d
 
 (b) Who, with respect to accompanying or meeting a traveler, using ground transportation, using terminal facilities, or obtaining information about schedules, fares, reservations, or policies, takes those actions necessary to use facilities or services offered by an air carrier to the general public, with reasonable accommodations, as needed, provided by the carrier.
 
+*Safe* means assistance provided to individuals with disabilities that does not put them at heightened risk of bodily injury, which may include loss or damage to wheelchairs and other assistive devices that result in bodily injury.
+
 *Scheduled service* means any flight scheduled in the current edition of the Official Airline Guide, the carrier's published schedule, or the computer reservation system used by the carrier.
 
 *Service animal* means a dog, regardless of breed or type, that is individually trained to do work or perform tasks for the benefit of a qualified individual with a disability, including a physical, sensory, psychiatric, intellectual, or other mental disability. Animal species other than dogs, emotional support animals, comfort animals, companionship animals, and service animals in training are not service animals for the purposes of this part.
@@ -102,4 +114,4 @@ A *Service animal handler* is a passenger in air transportation who is a qualifi
 
 *United States or U.S.* means the United States of America, including its territories and possessions.
 
-[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended at 78 FR 67914, Nov. 12, 2013; Doc. No. DOT-OST-2018-0068, 85 FR 79774, Dec. 10, 2020]
+[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended at 78 FR 67914, Nov. 12, 2013; Doc. No. DOT-OST-2018-0068, 85 FR 79774, Dec. 10, 2020; DOT-OST-2022-0144, 89 FR 102441, Dec. 17, 2024]

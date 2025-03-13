@@ -12,7 +12,7 @@ The test for detection of extraneous viruses by the fluorescent antibody techniq
 
 (iii) One group of monolayers, that are of the same type of cells as the test monolayers and that have been tested as prescribed in §§ 113.51 or 113.52 (whichever is applicable), shall be prepared as negative controls.
 
-(2) Each group of monolayers shall have a total area of at least 6 cm 2.
+(2) Each group of monolayers shall have a total area of at least 6 cm2.
 
 (3) Positive control monolayers may be fixed (processed so as to arrest growth and assure attachment of the monolayer to the surface of the vessel in which they are grown) before 7 days after subculturing if fluorescence is enhanced by doing so, *Provided,* That a monolayer of the material under test is also fixed at the same time as the positive control and a monolayer of the material under test is also fixed at least seven days after subculturing. Monolayers that are fixed before 7 days after subculturing shall be stained at the same time as the test monolayers and negative controls fixed at least 7 days after subculturing.
 

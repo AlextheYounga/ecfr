@@ -1,5 +1,7 @@
 ##### § 21.9675 Conditions that result in reduced rates or no payment. #####
 
+Link to an amendment published at 90 FR 5353, Jan. 16, 2025.
+
 The payment rates as established in §§ 21.9640 and 21.9655 will be reduced in accordance with this section whenever the circumstances described in this section arise.
 
 (a) *Withdrawals and nonpunitive grades.* Except as provided in this paragraph, VA will not pay educational assistance for an eligible individual's pursuit of a course from which the eligible individual withdraws or receives a nonpunitive grade that is not used in computing the requirements for graduation. VA may pay educational assistance for a course from which the eligible individual withdraws or receives a nonpunitive grade if—

@@ -32,7 +32,7 @@
 
 (ii) *Category 3 items for “development” or “production” of “advanced-node ICs.”* To or within Macau or a destination specified in Country Group D:5, any item not subject to the EAR and meeting the parameters of any ECCN in Product Groups B, C, D, or E in Category 3 of the CCL that you know will be used in the “development” or “production” of integrated circuits at a “facility” of an entity headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5 where “production” of integrated circuits occurs, but you do not know whether “production” of “advanced-node integrated circuits” occurs at such “facility”;
 
-(iii) *Semiconductor manufacturing equipment.* To or within either Macau or a destination specified in Country Group D:5, any item not subject to the EAR and meeting the parameters of ECCNs 3B001.a.4, c, d, f.1, f.5, k to n, p.2, p.4, r, 3B002.c, 3D992, or 3E992 regardless of end use or end user.
+(iii) *Semiconductor manufacturing equipment.* To or within either Macau or a destination specified in Country Group D:5, any item not subject to the EAR and meeting the parameters of ECCNs 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r, 3B002.c, 3D992, or 3E992 regardless of end use or end user.
 
 (3) *Scope of activities of “U.S. persons” that require a license under paragraph (c)(2) of this section*—(i) *Controlled activities.* The U.S. persons controls in paragraphs (c)(2)(i) through (iii) of this section apply to persons who:
 
@@ -78,4 +78,4 @@
 
 (C) For all other applications not specified in paragraph (e)(3)(i) or (e)(3)(ii)(A) or (B) of this section.
 
-[86 FR 4871, Jan. 15, 2021, as amended at 86 FR 18436, Apr. 9, 2021; 86 FR 70018, Dec. 9, 2021; 87 FR 13059, Mar. 8, 2022; 87 FR 62199, Oct. 13, 2022; 88 FR 2825, Jan. 18, 2023; 88 FR 73448, 73494, Oct. 25, 2023; 89 FR 23885, Apr. 4, 2024; 89 FR 96817, Dec. 5, 2024]
+[86 FR 4871, Jan. 15, 2021, as amended at 86 FR 18436, Apr. 9, 2021; 86 FR 70018, Dec. 9, 2021; 87 FR 13059, Mar. 8, 2022; 87 FR 62199, Oct. 13, 2022; 88 FR 2825, Jan. 18, 2023; 88 FR 73448, 73494, Oct. 25, 2023; 89 FR 23885, Apr. 4, 2024; 89 FR 96817, Dec. 5, 2024; 90 FR 5311, Jan. 16, 2025]

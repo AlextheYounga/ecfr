@@ -1,5 +1,7 @@
 ##### § 21.4150 Designation. #####
 
+Link to an amendment published at 90 FR 5330, Jan. 16, 2025.
+
 (a) The Chief Executive of each State is requested to create or designate a State department or agency as the *State approving agency* for his State, for the purpose of assuming the responsibilities delegated to the State under 38 U.S.C. chapter 36, or if the law of the State provides otherwise, to indicate the agency provided by such law (38 U.S.C. 3671(a)).
 
 (b) The Chief Executive of each State will notify the Department of Veterans Affairs of any change in the designation of a State approving agency.

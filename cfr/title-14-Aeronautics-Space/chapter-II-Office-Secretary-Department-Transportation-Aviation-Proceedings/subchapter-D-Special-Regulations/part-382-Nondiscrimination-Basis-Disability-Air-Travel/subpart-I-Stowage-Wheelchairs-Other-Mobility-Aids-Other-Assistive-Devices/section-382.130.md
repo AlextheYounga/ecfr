@@ -1,3 +1,37 @@
-##### § 382.130 xxx #####
+##### § 382.130 What are the handling requirements for wheelchairs, scooters, other mobility aids, and other assistive devices and what obligations apply when wheelchairs or other assistive devices are mishandled? #####
 
-Link to an amendment published at 89 FR 102442, Dec. 17, 2024.
+(a) You must return checked wheelchairs, scooters, other mobility aids, and other assistive devices to the passenger in the condition in which you received them. Whenever a passenger's checked wheelchair, scooter, other mobility aid, or other assistive device that was in your custody is not returned to the passenger in the same condition it was received, there is a rebuttable presumption that you mishandled the passenger's wheelchair, scooter, other mobility aid, or other assistive device in violation of the ACAA.
+
+(1) The presumption of a violation in this paragraph (a) can be overcome if you can successfully demonstrate that the alleged mishandling of the wheelchair, scooter, other mobility aid, or other assistive device did not occur while the wheelchair, scooter, other mobility aid, or assistive device was in your control and custody (*e.g.,* the damage occurred before the passenger checked the wheelchair, scooter, other mobility aid, or assistive device; the damage occurred after you returned the wheelchair, scooter, other mobility aid, or assistive device to the passenger) or that the passenger's claim is false or fraudulent.
+
+(2) The presumption of a violation in this paragraph (a) cannot be overcome by demonstrating that the mishandling of a checked wheelchair, scooter, other mobility aid, or other assistive device is the result of “an act of God” or other circumstances beyond the control of the airline.
+
+(b) When you become aware that a passenger's wheelchair or scooter has been mishandled (*i.e.,* your personnel notices that the wheelchair or assistive device has been mishandled or the passenger notifies airline personnel of the mishandling of the wheelchair or assistive device, whichever occurs first), you must immediately notify the impacted passenger in writing of his or her rights to file a claim with the carrier, to receive a loaner wheelchair or scooter from the carrier with certain customizations described in paragraph (e) of this section, to choose a preferred vendor for repairs or replacement of the device, and to have a Complaints Resolution Official (CRO) available and be provided information on how to contact the CRO. You must provide this notification in an accessible format for individuals with disabilities.
+
+(c)(1) When a passenger's checked wheelchair or scooter has been delayed while in your custody, you must ensure that the device is transported to the passenger's final destination within 24 hours of the passenger's arrival for domestic flights and short international flights between the United States and a foreign point that is 12 hours or less in duration and within 30 hours of the passenger's arrival for long international flights between the United States and a foreign point that is more than 12 hours in duration. You must transport the delayed device by whatever means are available to safely do so.
+
+(2) You must provide passengers a choice between picking up the delayed wheelchair or scooter at the passenger's final destination airport or having the delayed wheelchair or scooter delivered to a reasonable location requested by the passenger, such as the passenger's home or hotel. Depending on the passenger's choice, the delayed wheelchair or scooter is considered to be provided to the passenger either when the passenger or another person authorized to act on behalf of the passenger picks up the delayed wheelchair or scooter at his or her destination airport or when you deliver the delayed wheelchair or scooter to the passenger or another person authorized to act on behalf of the passenger at a reasonable location requested by the passenger, such as the passenger's home or hotel.
+
+(3) If a passenger files a claim with you for a delayed wheelchair or scooter, you must provide them updates when there is a status change for the delayed device.
+
+(4) In consultation with disability rights organizations, you must establish and provide safe and adequate seating accommodations at the airport to be used by individuals with disabilities who are waiting for delayed personal wheelchairs or scooters or waiting for loaner wheelchairs or scooters after a passenger's wheelchair or scooter is mishandled by you and cannot be promptly returned.
+
+(5) You must reimburse passengers for the cost(s) of any transportation to or from the airport that the passenger incurred as a direct result of you delaying the passenger's wheelchair or scooter. You may require passengers to submit documentation that substantiates the cost(s), such as receipts or invoices, to receive reimbursement.
+
+(d) When a passenger's checked wheelchair or scooter has been lost, damaged, or pilfered while in your custody, you must:
+
+(1) Provide the passenger a reasonable timeframe to inspect the wheelchair or scooter and to file a claim with the carrier for the mishandling;
+
+(2) Provide the passenger the following options if repair or replacement is needed:
+
+(i) The passenger may file a claim with you and elect for the carrier to handle the repair or replacement of the wheelchair or scooter. If the passenger selects this option, you must promptly repair or replace the wheelchair or scooter, with a device of equivalent or greater function and safety, and pay the cost of repair or replacement; or
+
+(ii) The passenger may file a claim with you and elect to use the passenger's preferred vendor to repair or replace the wheelchair or scooter. If the passenger selects this option, you are responsible for promptly transporting the passenger's wheelchair or scooter to the passenger's preferred vendor, unless the passenger has indicated that he or she will arrange for the transport themselves, and for directly paying the cost of transport and repair or replacement, with a device of equivalent or greater function and safety; and
+
+(3) Promptly review all claims received within a reasonable time of the repaired or replaced wheelchair or scooter being returned to the passenger alleging that the provided repairs were not sufficient. If the passenger's claim is warranted and the initial repairs were insufficient, then you must promptly repair or replace the device to the passenger's satisfaction.
+
+(e) While the passenger is waiting for his or her mishandled personal wheelchair or scooter to be returned, repaired, or replaced, you must use your best efforts to work with the passenger and to provide an adequate loaner wheelchair or scooter that meets the passenger's functional, mobility-related and safety-related needs, to the maximum extent possible. You must pay for the cost of the loaner wheelchair or scooter. If the loaner wheelchair or scooter you offer does not meet the passenger's functional and safety-related needs as well as the passenger's existing device, the passenger may find and secure an alternative loaner wheelchair or scooter that is better than the one you offered, and you must reimburse the passenger for the cost of that loaner within 30 days of the passenger's request. You may require the passenger to provide documentation substantiating the cost, such as receipts or invoices, to receive the reimbursement.
+
+(f) The liability limits for carriers under the Montreal Convention will apply if the wheelchair or scooter mishandling occurs on an international flight.
+
+[DOT-OST-2022-0144, 89 FR 102442, Dec. 17, 2024]

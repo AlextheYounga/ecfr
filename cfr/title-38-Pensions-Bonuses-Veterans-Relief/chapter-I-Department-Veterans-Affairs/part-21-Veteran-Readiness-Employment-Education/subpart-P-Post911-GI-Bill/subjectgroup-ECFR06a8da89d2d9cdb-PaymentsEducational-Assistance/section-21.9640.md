@@ -1,5 +1,7 @@
 ##### § 21.9640 Rates of payment of educational assistance. #####
 
+Link to an amendment published at 90 FR 5348, Jan. 16, 2025.
+
 VA will determine the amount of educational assistance payable under 38 U.S.C. chapter 33 as provided in this section.
 
 (a) *Percentage of maximum amounts payable.* Except as provided in paragraph (d) of this section, VA will apply the applicable percentage of the maximum amounts payable under this section for pursuit of an approved program of education, in accordance with the following table—

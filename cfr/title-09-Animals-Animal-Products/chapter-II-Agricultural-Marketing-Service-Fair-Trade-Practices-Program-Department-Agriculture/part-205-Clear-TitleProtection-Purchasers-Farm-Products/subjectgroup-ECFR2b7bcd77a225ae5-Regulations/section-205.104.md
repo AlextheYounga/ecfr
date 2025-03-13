@@ -12,4 +12,4 @@
 
 (c) A requirement of additional information on a registration form is discretionary with the State.
 
-(Approved by the Office of Management and Budget under control number 0580-0016) [51 FR 29451, Aug. 18, 1986, as amended at 71 FR 56342, Sept. 27, 2006]
+(Approved by the Office of Management and Budget under control number 0580-0016)[51 FR 29451, Aug. 18, 1986, as amended at 71 FR 56342, Sept. 27, 2006]

@@ -1,5 +1,7 @@
 ##### § 21.9550 Entitlement. #####
 
+Link to an amendment published at 90 FR 5337, Jan. 16, 2025.
+
 (a) Subject to the provisions of § 21.4020 and this section, an eligible individual is entitled to a maximum of 36 months of educational assistance (or its equivalent in part-time educational assistance) under 38 U.S.C. chapter 33.
 
 (b)(1) An individual who, as of August 1, 2009, has used entitlement under 38 U.S.C. chapter 30, but retains unused entitlement under that chapter, makes an irrevocable election to receive educational assistance under the provisions of 38 U.S.C. chapter 33 instead of educational assistance under the provisions of chapter 30, will be limited to one month (or partial month) of entitlement under chapter 33 for each month (or partial month) of unused entitlement under chapter 30 (including any months of chapter 30 entitlement previously transferred to a dependent that the individual has revoked).

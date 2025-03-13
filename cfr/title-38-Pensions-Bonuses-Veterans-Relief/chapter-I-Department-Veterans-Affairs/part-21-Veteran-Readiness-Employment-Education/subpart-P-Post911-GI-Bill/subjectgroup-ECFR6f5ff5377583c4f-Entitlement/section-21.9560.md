@@ -1,5 +1,7 @@
 ##### § 21.9560 Entitlement charges. #####
 
+Link to an amendment published at 90 FR 5337, Jan. 16, 2025.
+
 (a) *Overview.* Except as provided in paragraphs (c) through (f) of this section, VA will base entitlement charges on the principle that an eligible individual who is paid educational assistance for one day of full-time pursuit should be charged one day of entitlement.
 
 (b) *Determining entitlement charge.* (1) VA will make a charge against entitlement as follows:

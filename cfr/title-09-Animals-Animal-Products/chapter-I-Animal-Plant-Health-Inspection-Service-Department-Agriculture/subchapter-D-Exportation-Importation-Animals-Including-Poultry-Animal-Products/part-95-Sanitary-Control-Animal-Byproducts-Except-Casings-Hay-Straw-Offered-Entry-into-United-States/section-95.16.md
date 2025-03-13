@@ -1,6 +1,6 @@
 ##### § 95.16 Untanned hides and skins and bird trophies; requirements for entry. #####
 
-Untanned hides and skins and bird trophies 1 may be imported into the United States if they meet the requirements of this section. Except for ruminant hides or skins from Mexico, untanned hides and skins and bird trophies may also be imported if handled at an approved establishment as set forth in § 95.17.
+Untanned hides and skins and bird trophies1 may be imported into the United States if they meet the requirements of this section. Except for ruminant hides or skins from Mexico, untanned hides and skins and bird trophies may also be imported if handled at an approved establishment as set forth in § 95.17.
 
 1 The importation of bird trophies is also subject to restrictions under § 95.17.
 
@@ -10,7 +10,7 @@ Untanned hides and skins and bird trophies 1 may be imported into the United Sta
 
 (3) Except for ruminant hides or skins from Mexico, untanned abattoir hides or skins of ruminants may be imported from any region without other restriction if the following requirements are met:
 
-(i) The ruminants from which the hides or skins were taken have been slaughtered under national government inspection in a region 2 and in an abattoir in which is maintained an inspection service that meets the requirements and has been approved pursuant to part 327 of this title; and
+(i) The ruminants from which the hides or skins were taken have been slaughtered under national government inspection in a region2 and in an abattoir in which is maintained an inspection service that meets the requirements and has been approved pursuant to part 327 of this title; and
 
 2 Names of these regions will be furnished upon request to the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
 

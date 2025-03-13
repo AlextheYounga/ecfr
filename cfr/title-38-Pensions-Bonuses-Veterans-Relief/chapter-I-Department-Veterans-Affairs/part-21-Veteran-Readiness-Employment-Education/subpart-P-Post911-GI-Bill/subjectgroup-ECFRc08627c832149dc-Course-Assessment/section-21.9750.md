@@ -1,5 +1,7 @@
 ##### § 21.9750 Course measurement. #####
 
+Link to an amendment published at 90 FR 5357, Jan. 16, 2025.
+
 VA will calculate an individual's rate of pursuit of an approved program of education during the individual's period of enrollment in accordance with this section. For the purpose of this chapter, VA will consider any rate of pursuit higher than 50 percent to be more than one-half time training.
 
 (a) *Measurement of courses reported in credit hours.* If the courses are measured in credit hours, then the number of credit hours the individual is taking in a term, quarter, or semester will be divided by the minimum number of credit hours considered to be full-time pursuit in a term, quarter, or semester at the institution of higher learning as provided in paragraph (c) of this section. The resulting percentage will be the individual's rate of pursuit.

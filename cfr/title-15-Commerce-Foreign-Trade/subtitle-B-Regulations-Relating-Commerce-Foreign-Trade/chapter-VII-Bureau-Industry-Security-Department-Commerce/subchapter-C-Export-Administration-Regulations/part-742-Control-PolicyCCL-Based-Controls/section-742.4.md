@@ -8,7 +8,7 @@
 
 (3) *6A003.b.4.b.* A license is required to all destinations except those specified in Country Group A:1 (see supplement no. 1 to part 740 of the EAR) for those cameras in ECCN 6A003.b.4.b that have a focal plane array with 111,000 or fewer elements and a frame rate of 60 Hz or less and for cameras being exported or reexported pursuant to an authorization described in § 742.6(a)(2)(iii) or (v). The purpose of this control is to ensure that these items do not contribute to the military potential of destinations specified in Country Group D:1 (see supplement no. 1 to part 740 of the EAR) that would prove detrimental to the national security of the United States.
 
-(4) *Certain semiconductor manufacturing equipment and associated software and technology*—(i) *Scope.* A license is required for exports, reexports, exports from abroad, and transfers (in-country) to or within either Macau or a destination specified in Country Group D:5 in supplement no. 1 to part 740 of the EAR of items specified in 3B001.a.4, c, d, f.1, f.5, k to n, p.2, p.4, r, 3B002.c, 3D992, or 3E992.
+(4) *Certain semiconductor manufacturing equipment and associated software and technology*—(i) *Scope.* A license is required for exports, reexports, exports from abroad, and transfers (in-country) to or within either Macau or a destination specified in Country Group D:5 in supplement no. 1 to part 740 of the EAR of items specified in 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r, 3B002.c, 3D992, or 3E992.
 
 (ii) *Exclusions.* The license requirements in this paragraph (a)(4) do not apply to any of the following:
 
@@ -80,4 +80,6 @@
 
 (d) *License exceptions.* Certain license exceptions are available only for national security items, such as License Exceptions GBS (see § 740.4 of the EAR) and TSR (see § 740.6 of the EAR), but other license exceptions may also be available for national security items, such as License Exception STA (see § 740.20 of the EAR) or license exceptions based on the facts of the transaction, such as License Exceptions TMP (see § 740.9 of the EAR) or GOV (see § 740.11 of the EAR). See part 740 of the EAR for a full list of license exceptions and § 740.2 of the EAR for license exception restrictions that apply to every license exception.
 
-[61 FR 12786, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 742.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[61 FR 12786, Mar. 25, 1996, as amended at 90 FR 5310, Jan. 16, 2025]Editorial Notes:1. For Federal Register citations affecting § 742.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+
+2. At 90 FR 4615, Jan. 16, 2025, § 742.4 was amended by revising (b)(11); however, the amendment could not be incorporated because (b)(11) does not exist.

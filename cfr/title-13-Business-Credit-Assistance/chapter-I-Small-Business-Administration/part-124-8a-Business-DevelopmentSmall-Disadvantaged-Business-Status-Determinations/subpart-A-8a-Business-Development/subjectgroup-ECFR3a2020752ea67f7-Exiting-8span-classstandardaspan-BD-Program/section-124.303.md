@@ -1,7 +1,5 @@
 ##### § 124.303 What is termination? #####
 
-Link to an amendment published at 89 FR 102489, Dec. 17, 2024.
-
 (a) SBA may terminate the participation of a concern in the 8(a) BD program prior to the expiration of the concern's Program Term for good cause. Examples of good cause include, but are not limited to, the following:
 
 (1) Submission of false information in the concern's 8(a) BD application, regardless of whether correct information would have caused the concern to be denied admission to the program, and regardless of whether correct information was given to SBA in accompanying documents or by other means.
@@ -46,4 +44,10 @@ Link to an amendment published at 89 FR 102489, Dec. 17, 2024.
 
 (b) The examples of good cause listed in paragraph (a) of this section are intended to be illustrative only. Other grounds for terminating a Participant from the 8(a) BD program for cause may exist and may be used by SBA.
 
-[63 FR 35739, June 30, 1998, as amended at 76 FR 8258, Feb. 11, 2011; 88 FR 26205, Apr. 27, 2023]
+(c)(1) A firm that is terminated from the 8(a) BD Program due to the submission of false or misleading information may be removed from SBA's other small business contracting programs, including the HUBZone Program, the Women-Owned Small Business (WOSB) Program, the Veteran Small Business Certification (VetCert) Program, and SBA's Mentor-Protégé Program. In addition, SBA will refer the matter to the SBA Office of Inspector General for review and may recommend that Government-wide debarment or suspension proceedings be initiated.
+
+(2) A firm that is decertified from the HUBZone Program, the WOSB Program, or the VetCert Program due to the submission of false or misleading information may be terminated from the 8(a) BD Program.
+
+(3) SBA may require a firm that is decertified from the HUBZone Program, the WOSB Program, or the VetCert Program due to the submission of false or misleading information to enter into an administrative agreement with SBA as a condition of admission to the 8(a) BD program.
+
+[63 FR 35739, June 30, 1998, as amended at 76 FR 8258, Feb. 11, 2011; 88 FR 26205, Apr. 27, 2023; 89 FR 102489, Dec. 17, 2024]

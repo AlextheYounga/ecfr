@@ -1,5 +1,7 @@
 ##### § 21.4235 Programs of education that include flight training. #####
 
+Link to an amendment published at 90 FR 5331, Jan. 16, 2025.
+
 VA will use the provisions of this section to determine whether an individual may be paid educational assistance for pursuit of flight training. See § 21.4263 for approval of flight courses for VA training.
 
 (a) *Eligibility.* A veteran or servicemember who is otherwise eligible to receive educational assistance under 38 U.S.C. chapter 30 or 32, or a reservist who is eligible for expanded benefits under 10 U.S.C. chapter 1606 as provided in § 21.7540(b), may receive educational assistance for flight training in an approved course provided that the individual meets the requirements of this paragraph. Except when enrolled in a ground instructor certification course or when pursuing flight training under paragraph (f) of this section, the individual must—

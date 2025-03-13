@@ -1,5 +1,7 @@
 ##### § 21.9720 Certification of enrollment. #####
 
+Link to an amendment published at 90 FR 5357, Jan. 16, 2025.
+
 Except as stated in § 21.9680, an institution of higher learning must certify an eligible individual's enrollment before he or she may receive educational assistance.
 
 (a) *Institutions of higher learning must certify most enrollments.* VA does not, as a condition of payment of tuition assistance top-up or advance payment, require institutions of higher learning to certify the enrollments of eligible individuals who either are seeking tuition assistance top-up or, in the cases described in § 21.9715, are seeking an advance payment. VA does not require organizations or entities offering a licensing or certification test to certify that the eligible individual took the test. In all other cases, the institution of higher learning must certify the eligible individual's enrollment before he or she may receive educational assistance. This certification must be in a form specified by the Secretary and contain such information as specified by the Secretary.

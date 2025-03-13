@@ -48,7 +48,7 @@
 
 (iv) Certified mail.
 
-(2) Communication to the Manager, National NAGPRA Program, must be sent electronically to *nagpra\_info@nps.gov.* If electronic submission is not possible, physical delivery may be sent to 1849 C Street NW, Mail Stop 7360, Washington, DC 20240. If either of these addresses change, a notice with the new address must be published in the Federal Register no later than 7 days after the change.
+(2) Communication to the Manager, National NAGPRA Program, must be sent electronically to *nagpra\_info@nps.gov.* If electronic submission is not possible, physical delivery may be sent to 1849 C Street NW, Mail Stop 2343, Washington, DC 20240. If either of these addresses change, a notice with the new address must be published in the Federal Register no later than 7 days after the change.
 
 (f) *Deadlines.* These regulations require certain actions be taken by a specific date. Unless stated otherwise in these regulations:
 
@@ -73,3 +73,5 @@
 (j) *Information collection.* The information collection requirements contained in this part have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned control number 1024-0144. A Federal agency may not conduct or sponsor, and you are not required to respond to, the collection of information under this part unless the Federal agency provides a currently valid OMB control number.
 
 (k) *Severability.* If a court holds any provisions of the regulations in this part or their applicability to any person or circumstances invalid, the remainder of the regulations and their applicability to other people or circumstances are intended to continue to operate to the fullest possible extent.
+
+[88 FR 86518, Dec. 13, 2023, as amended at 90 FR 4673, Jan. 16, 2025]

@@ -26,6 +26,6 @@ Canine Distemper Vaccine shall be prepared from virus-bearing cell culture fluid
 
 (1) The test for pathogens prescribed in § 113.37 shall be conducted on each serial or one subserial of avian origin vaccine.
 
-(2) *Virus titer requirements.* Final container samples of completed product shall be tested for virus titer using the titration method used in paragraph (b)(2) of this section. To be eligible for release, each serial and subserial shall have a virus titer sufficiently greater than the titer of vaccine virus used in the immunogenicity test prescribed in paragraph (b) of this section to assure that when tested at any time within the expiration period, each serial and subserial shall have a virus titer of 10 0.7 greater than that used in such immunogenicity test but not less than 10 2.5 TCID50 per dose.
+(2) *Virus titer requirements.* Final container samples of completed product shall be tested for virus titer using the titration method used in paragraph (b)(2) of this section. To be eligible for release, each serial and subserial shall have a virus titer sufficiently greater than the titer of vaccine virus used in the immunogenicity test prescribed in paragraph (b) of this section to assure that when tested at any time within the expiration period, each serial and subserial shall have a virus titer of 100.7 greater than that used in such immunogenicity test but not less than 102.5 TCID50 per dose.
 
 [60 FR 14362, Mar. 17, 1995, as amended at 72 FR 72564, Dec. 21, 2007]

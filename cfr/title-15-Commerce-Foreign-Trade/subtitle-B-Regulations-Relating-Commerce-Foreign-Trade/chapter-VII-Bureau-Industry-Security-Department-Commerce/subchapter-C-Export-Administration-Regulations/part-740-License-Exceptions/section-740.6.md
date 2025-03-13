@@ -10,6 +10,8 @@
 
 (iii) If the direct product of the technology is a complete plant or any major components of a plant, export to Country Groups D:1, E:1, or E:2 of the direct product of the plant or major components thereof, if such foreign produced direct product is subject to national security controls as identified on the CCL or is “subject to the ITAR” (see 22 CFR parts 120 through 130).
 
+(iv) Reexport to a destination in Country Group D:5, a destination subject to the Regional Stability control under ECCN 3A999, or Macau or release the technology to a national of such destinations, if the technology is controlled under ECCN 3E069.
+
 (2) *Required assurance for export of software.* You may not export or reexport software under this License Exception until you have received from the importer a written assurance that, without a BIS license or License Exception, the importer will neither:
 
 (i) Reexport or release the software or the source code for the software to a national of a country in Country Groups D:1, E:1, or E:2; nor
@@ -22,4 +24,4 @@
 
 (b) *Reporting requirements.* See § 743.1 of the EAR for reporting requirements for exports of certain items under License Exception TSR. Note that reports are not required for release of technology or source code subject to the EAR to foreign nationals in the U.S. under the provisions of License Exception TSR.
 
-[61 FR 64275, Dec. 4, 1996, as amended at 63 FR 50520, Sept. 22, 1998; 63 FR 55019, Oct. 14, 1998; 69 FR 5690, Feb. 6, 2004; 75 FR 44890, July 30, 2010; 78 FR 61901, Oct. 4, 2013; 80 FR 43318, July 22, 2015; 85 FR 84213, Dec. 28, 2020; 86 FR 4933, Jan. 19, 2021]
+[61 FR 64275, Dec. 4, 1996, as amended at 63 FR 50520, Sept. 22, 1998; 63 FR 55019, Oct. 14, 1998; 69 FR 5690, Feb. 6, 2004; 75 FR 44890, July 30, 2010; 78 FR 61901, Oct. 4, 2013; 80 FR 43318, July 22, 2015; 85 FR 84213, Dec. 28, 2020; 86 FR 4933, Jan. 19, 2021; 90 FR 4615, Jan. 16, 2025]

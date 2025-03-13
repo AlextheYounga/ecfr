@@ -1,5 +1,7 @@
 ##### § 21.5022 Eligibility under more than one program. #####
 
+Link to an amendment published at 90 FR 5333, Jan. 16, 2025.
+
 (a) *Concurrent benefits under more than one program.* (1) An individual cannot receive educational assistance under 38 U.S.C. chapter 32 concurrently with benefits under—
 
 (i) 38 U.S.C. chapter 30 (Montgomery GI Bill—Active Duty);

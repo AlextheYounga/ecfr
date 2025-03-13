@@ -1,9 +1,9 @@
-##### § 127.305 May declined or decertified concerns seek recertification at a later date? #####
+##### § 127.305 May declined or decertified concerns apply for certification at a later date? #####
 
-Link to an amendment published at 89 FR 102507, Dec. 17, 2024.
+(a) A concern that SBA or a third-party certifier has declined may apply for certification after ninety (90) calendar days from the date of decline if it believes that it has overcome all of the reasons for decline and is currently eligible. A concern that has been declined may seek certification by any of the certification options listed in § 127.300.
 
-(a) A concern that SBA or a third-party certifier has declined or that SBA has decertified may seek certification after ninety (90) days from the date of decline or decertification if it believes that it has overcome all of the reasons for decline or decertification and is currently eligible. A concern that has been declined may seek certification by any of the certification options listed in § 127.300.
+(b) A concern that SBA has decertified may apply for certification immediately after the date of decertification, if it believes that it has overcome all reasons for decertification through changed circumstances and is currently eligible.
 
-(b) A concern found to be ineligible during a WOSB/EDWOSB status protest or program examination is precluded from applying for certification for ninety (90) days from the date of the final agency decision (the D/GC's decision if no appeal is filed or the decision of SBA's Office of Hearings and Appeals (OHA) where an appeal is filed pursuant to § 127.605).
+(c) A concern that voluntarily withdraws from the WOSB program may immediately apply for certification, if it believes that it is currently eligible.
 
-[85 FR 27661, May 11, 2020]
+[89 FR 102507, Dec. 17, 2024]

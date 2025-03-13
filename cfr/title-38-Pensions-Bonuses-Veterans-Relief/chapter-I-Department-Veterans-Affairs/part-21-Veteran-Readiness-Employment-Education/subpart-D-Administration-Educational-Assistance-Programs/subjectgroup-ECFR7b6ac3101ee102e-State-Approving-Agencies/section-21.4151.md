@@ -1,5 +1,7 @@
 ##### § 21.4151 Cooperation. #####
 
+Link to an amendment published at 90 FR 5330, Jan. 16, 2025.
+
 (a) The Department of Veterans Affairs and the State approving agencies will take cognizance of the fact that definite duties, functions and responsibilities are conferred upon each of them. To assure that programs of education are administered effectively and efficiently, the cooperation of the Department of Veterans Affairs and the State approving agencies is essential.
 
 (Authority: 38 U.S.C. 3673(a))

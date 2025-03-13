@@ -1,5 +1,7 @@
 ##### § 21.9725 Progress and conduct. #####
 
+Link to an amendment published at 90 FR 5357, Jan. 16, 2025.
+
 (a) *Satisfactory pursuit of program.* In order to receive payments of educational assistance under 38 U.S.C. chapter 33 for pursuit of a program of education, an individual must maintain satisfactory progress. VA will discontinue payments of educational assistance if the individual does not maintain satisfactory progress. Progress is unsatisfactory if the individual does not satisfactorily progress according to the regularly prescribed standards of the institution of higher learning he or she is attending.
 
 (Authority: 38 U.S.C. 3034(a), 3323(a), 3474)

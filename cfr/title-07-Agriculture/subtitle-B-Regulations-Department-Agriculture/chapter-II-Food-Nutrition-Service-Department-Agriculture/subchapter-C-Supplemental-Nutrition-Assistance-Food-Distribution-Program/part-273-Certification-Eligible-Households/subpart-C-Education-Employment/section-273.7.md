@@ -1,6 +1,6 @@
 ##### § 273.7 Work provisions. #####
 
-Link to an amendment published at 89 FR 102362, Dec. 17, 2024.Link to an amendment published at 89 FR 90568, Nov. 18, 2024.Link to a correction published at 89 FR 96517, Dec. 5, 2024.
+Link to an amendment published at 89 FR 90568, Nov. 18, 2024.Link to a correction published at 89 FR 96517, Dec. 5, 2024.
 
 (a) *Work requirements.* (1) As a condition of eligibility for SNAP benefits, each household member not exempt under paragraph (b)(1) of this section must comply with the following SNAP work requirements:
 
@@ -49,6 +49,8 @@ Link to an amendment published at 89 FR 102362, Dec. 17, 2024.Link to an amendme
 (2)(i) Persons losing exemption status due to any changes in circumstances that are subject to the reporting requirements of § 273.12 must register for employment when the change is reported. If the State agency does not use a work registration form, it must annotate the change to the member's exemption status. If a work registration form is used, the State agency is responsible for providing the participant with a work registration form when the change is reported. Participants are responsible for returning the completed form to the State agency within 10 calendar days from the date the form was handed to the household member reporting the change in person, or the date the State agency mailed the form. If the participant fails to return the completed form, the State agency must issue a notice of adverse action stating that the participant is being terminated and why, but that the termination can be avoided by returning the form.
 
 (ii) Those persons who lose their exemption due to a change in circumstances that is not subject to the reporting requirements of § 273.12 must register for employment at their household's next recertification.
+
+(3) State agencies must screen individuals for all exemptions listed in paragraph (b)(1) of this section at certification and recertification. The State agency must apply the exemption that will be in effect the longest when an individual qualifies for more than one exemption.
 
 (c) *State agency responsibilities.* (1)(i) The State agency must register for work each household member not exempted by the provisions of paragraph (b)(1) of this section. The State agency must permit the applicant to complete a record or form for each household member required to register for employment in accordance with paragraph (a)(1)(i) of this section. Household members are considered to have registered when an identifiable work registration form is submitted to the State agency or when the registration is otherwise annotated or recorded by the State agency.
 
@@ -820,4 +822,4 @@ Link to an amendment published at 89 FR 102362, Dec. 17, 2024.Link to an amendme
 
 (iv) Providing sufficient information, on request by the State agency, for the State agency to verify that a participant is fulfilling the applicable work requirements in paragraph (a) of this section or 7 CFR 273.24.
 
-[67 FR 41603, June 19, 2002, as amended at 71 FR 33382, June 9, 2006; 81 FR 15622, Mar. 24, 2016; 81 FR 66497, Sept. 28, 2016; 82 FR 2038, Jan. 6, 2017; 84 FR 15094, Apr. 15, 2019; 86 FR 398, Jan. 5, 2021]
+[67 FR 41603, June 19, 2002, as amended at 71 FR 33382, June 9, 2006; 81 FR 15622, Mar. 24, 2016; 81 FR 66497, Sept. 28, 2016; 82 FR 2038, Jan. 6, 2017; 84 FR 15094, Apr. 15, 2019; 86 FR 398, Jan. 5, 2021; 89 FR 102362, Dec. 17, 2024]

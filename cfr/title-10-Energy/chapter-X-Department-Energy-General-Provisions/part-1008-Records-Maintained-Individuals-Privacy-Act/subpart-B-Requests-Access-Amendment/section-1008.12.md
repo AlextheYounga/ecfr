@@ -1,7 +1,5 @@
 ##### § 1008.12 Exemptions. #####
 
-Link to an amendment published at 89 FR 101849, Dec. 17, 2024.Link to an amendment published at 89 FR 101854, Dec. 17, 2024.
-
 (a) *General exemptions*—(1) *Generally.* 5 U.S.C. 552a(j)(2) allows the exemption of any system of records within the DOE from any part of section 552a except subsections (b), (c)(1) and (2), (e)(4)(A) through (F) (e)(6), (7), (9), (10), and (11), and (i) of the Act if the system of records is maintained by a DOE component which performs as its principal function any activity pertaining to the enforcement of criminal laws, including police efforts to prevent, control, or reduce crime or to apprehend criminals, and which consists of:
 
 (i) Information compiled for the purpose of identifying individual criminal offenders and alleged offenders;
@@ -46,6 +44,8 @@ Link to an amendment published at 89 FR 101849, Dec. 17, 2024.Link to an amendme
 
 (M) Intelligence Related Access Authorization (DOE-15)
 
+(N) Research, Technology, and Economic Security Due Diligence Review Records (DOE-85).
+
 (2) *Investigatory material compiled for law enforcement purposes.* (i) Subsection (k)(2) permits the exemption of investigatory material compiled for law enforcement purposes: *Provided, however,* That if any individual is denied any right, privilege, or benefit to which he would otherwise be entitled by Federal law, or for which he would otherwise be eligible, as a result of the maintenance of such material, such material shall be provided to such individual, except to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to September 27, 1975, under an implied promise that the identity of the source would be held in confidence.
 
 (ii) The DOE systems of records listed below have been exempted under subsection (k)(2) in order to prevent subjects of investigation from frustrating the investigatory process through access to records about themselves or as a result of learning the identities of confidential informants; to prevent disclosure of investigative techniques; to maintain the ability to obtain necessary information; and thereby to insure the proper functioning and integrity of law enforcement activities. Systems of records exempted under subsection (k)(2) are:
@@ -76,11 +76,13 @@ Link to an amendment published at 89 FR 101849, Dec. 17, 2024.Link to an amendme
 
 (M) Allegation-Based Inspections Files of the Office of Inspector General (DOE-83).
 
-(N) Employee Concerns Program Records (DOE-3)
+(N) Employee Concerns Program Records (DOE-3).
 
-(O) Whistleblower Investigation, Hearing and Appeal Records (DOE-7)
+(O) Whistleblower Investigation, Hearing and Appeal Records (DOE-7).
 
-(P) Intelligence Related Access Authorization (DOE-15)
+(P) Intelligence Related Access Authorization (DOE-15).
+
+(Q) Nondiscrimination in Federally Assisted Program Files (DOE-42).
 
 (3) *Investigatory material compiled for determining suitability for Federal employment.* (i) Subsection (k)(5) permits exemption of systems of records that contain investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualification for Federal civilian employment, military service, Federal contracts, or access to classified information, but only to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to September 27, 1975, under an implied promise that the identity of the source would be held in confidence.
 
@@ -138,4 +140,4 @@ Link to an amendment published at 89 FR 101849, Dec. 17, 2024.Link to an amendme
 
 (3) Prior to making a determination to deny access to a record in a system of records covered by exemption (k)(1) for classified material (see paragraph (b)(1) of this section), the System Manager shall consult with the Director, Division of Classification, to verify the current classification status of the information in the requested record.
 
-[45 FR 61577, Sept. 16, 1980, as amended at 60 FR 35836, July 12, 1995; 62 FR 67519, Dec. 24, 1997; 67 FR 4171, Jan. 29, 2002]
+[45 FR 61577, Sept. 16, 1980, as amended at 60 FR 35836, July 12, 1995; 62 FR 67519, Dec. 24, 1997; 67 FR 4171, Jan. 29, 2002; 89 FR 101854, Dec. 17, 2024]

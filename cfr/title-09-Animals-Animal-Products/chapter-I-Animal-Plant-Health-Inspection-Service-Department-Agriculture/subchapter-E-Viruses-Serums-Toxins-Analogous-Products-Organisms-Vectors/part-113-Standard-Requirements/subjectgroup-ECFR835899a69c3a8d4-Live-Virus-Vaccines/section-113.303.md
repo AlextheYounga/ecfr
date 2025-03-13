@@ -26,6 +26,6 @@ Bluetongue Vaccine shall be prepared from virus-bearing cell culture fluids. Onl
 
 (1) *Safety test.* The mouse safety test prescribed in § 113.33(a) and the lamb safety test prescribed in § 113.45 shall be conducted.
 
-(2) *Virus titer requirements.* Final container samples of completed product shall be tested for virus titer using the titration method used in paragraph (c)(2) of this section. To be eligible for release, each serial and subserial shall have a virus titer sufficiently greater than the titer of vaccine virus used in the immunogenicity test prescribed in paragraph (c) of this section to assure that when tested at any time within the expiration period, each serial and subserial shall have a virus titer of 10 0.7 greater than that used in such immunogenicity test.
+(2) *Virus titer requirements.* Final container samples of completed product shall be tested for virus titer using the titration method used in paragraph (c)(2) of this section. To be eligible for release, each serial and subserial shall have a virus titer sufficiently greater than the titer of vaccine virus used in the immunogenicity test prescribed in paragraph (c) of this section to assure that when tested at any time within the expiration period, each serial and subserial shall have a virus titer of 100.7 greater than that used in such immunogenicity test.
 
 [50 FR 23796, June 6, 1985. Redesignated at 55 FR 35562, Aug. 31, 1990, as amended at 56 FR 66784, 66786, Dec. 26, 1991; 72 FR 72564, Dec. 21, 2007]

@@ -1,5 +1,7 @@
 ##### § 21.9695 Overpayments. #####
 
+Link to an amendment published at 90 FR 5356, Jan. 16, 2025.
+
 (a) *Prevention of overpayments.* In administering educational assistance payable under 38 U.S.C. chapter 33, VA will apply the provisions of §§ 21.4008 and 21.4009 to eligible individuals and, when appropriate, to institutions of higher learning.
 
 (Authority: 38 U.S.C. 3034(a), 3323(a), 3690(b))

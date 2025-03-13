@@ -1,7 +1,5 @@
 ##### § 127.304 How is an application for certification processed? #####
 
-Link to an amendment published at 89 FR 102507, Dec. 17, 2024.
-
 (a) The SBA's Director of Government Contracting (D/GC) or designee is authorized to approve or decline applications for certification. SBA must receive all required information and supporting documents before it will begin processing a concern's application. SBA will not process incomplete applications.
 
 (1) SBA will advise each applicant after the receipt of an application whether the application is complete and suitable for evaluation and, if not, what additional information or clarification is required to complete the application.
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 102507, Dec. 17, 2024.
 
 (2) If, during the processing of an application, SBA determines that an applicant or its representative has knowingly submitted false information, regardless of whether correct information would cause SBA to deny the application, and regardless of whether correct information was given to SBA in accompanying documents, SBA will deny the application.
 
-(d) The applicant must be eligible as of the date it submitted its application and up until the time the D/GC issues a decision. The decision will be based on the facts contained in the application, any information received in response to SBA's request for clarification, and any changed circumstances since the date of application.
+(d) An applicant must be eligible as of the date SBA issues a decision. An applicant's eligibility will be based on the totality of circumstances, including facts set forth in the application, supporting documentation, any information received in response to any SBA request for clarification, and any changed circumstances.
 
 (e) Any changed circumstances occurring after an applicant has submitted an application will be considered and may constitute grounds for decline. After submitting the application and signed representation, an applicant must notify SBA of any changes that could affect its eligibility. The D/GC may propose decertification for any EDWOSB or WOSB that fails to inform SBA of any changed circumstances that affected its eligibility for the program during the processing of the application.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 89 FR 102507, Dec. 17, 2024.
 
 (i) The decision of the D/GC to decline certification is the final agency decision. The concern can reapply for certification after ninety (90) days, as set forth in § 127.305.
 
-[85 FR 27661, May 11, 2020, as amended at 88 FR 26214, Apr. 27, 2023; 89 FR 96093, Dec. 4, 2024]
+[85 FR 27661, May 11, 2020, as amended at 88 FR 26214, Apr. 27, 2023; 89 FR 96093, Dec. 4, 2024; 89 FR 102507, Dec. 17, 2024]

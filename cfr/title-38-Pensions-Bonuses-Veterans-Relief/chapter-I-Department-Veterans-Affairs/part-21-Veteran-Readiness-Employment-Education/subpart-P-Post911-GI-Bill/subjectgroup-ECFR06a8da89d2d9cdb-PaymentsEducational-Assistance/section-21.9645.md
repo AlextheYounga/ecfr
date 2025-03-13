@@ -1,5 +1,7 @@
 ##### § 21.9645 Refund of basic contribution to chapter 30. #####
 
+Link to an amendment published at 90 FR 5352, Jan. 16, 2025.
+
 (a)(1) An individual who makes an irrevocable election to receive educational assistance under this chapter by relinquishing eligibility under chapter 30 will be entitled to receive a refund of the amount contributions paid under 38 U.S.C. 3011(b) or 3012(c), up to $1,200, if the individual, as of the date of the individual's election, meets the requirements for entitlement to educational assistance under this chapter and meets one of the following requirements as of August 1, 2009—
 
 (i) He or she is eligible for basic educational assistance under 38 U.S.C. chapter 30 and has remaining entitlement under that chapter;

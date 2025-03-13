@@ -1,5 +1,7 @@
 ##### § 21.4200 Definitions. #####
 
+Link to an amendment published at 90 FR 5330, Jan. 16, 2025.
+
 The definitions in this section apply to this subpart, except as otherwise provided. The definitions of terms defined in this section also apply to subparts C, G, H, K, L, and P if they are not otherwise defined for purposes of those subparts.
 
 (a) *School, educational institution, institution.* The terms *school, educational institution* and *institution* mean:

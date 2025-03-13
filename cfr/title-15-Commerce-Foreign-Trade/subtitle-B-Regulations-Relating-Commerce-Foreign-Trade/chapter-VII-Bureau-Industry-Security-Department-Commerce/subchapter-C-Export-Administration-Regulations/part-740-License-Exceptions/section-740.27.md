@@ -2,7 +2,7 @@
 
 (a) *Scope.* This license exception authorizes the export, reexport, and transfer (in-country) of the items identified in paragraphs (a)(1) and (a)(2)(i) of this section to entities located within destinations listed in paragraph (a) of supplement no. 5 to this part, unless the entity is headquartered outside of, or has an ultimate parent company headquartered outside of, a destination specified in paragraph (a) of supplement no. 5 to this part, with an additional authorization for certain model weights in paragraph (a)(3) of this section, subject to additional conditions. This license exception cannot be used to provide items identified in paragraph (a)(1) of this section to entities headquartered outside of or located outside of paragraph (a) in supplement no. 5 to this part for training AI models specified in ECCN 4E091. Prior to export, reexport, or transfer (in-country) of eligible items in paragraph (a)(1) of this section, the exporter, reexporter, or transferor must obtain the certification described in (b)(2) of this section and submit it to BIS.
 
-(1) Eligible commodities for this exception are: ECCNs 3A001.z.1.a, z.2.a, z.3.a, z.4.a; 3A090.a; 4A003.z.1.a, z.2.a; 4A004.z.1; 4A005.z.1; 4A090.a; 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a; 5A004.z.1.a, z.2.a; 5A992.z.1; 5A004.z.1.a, z.2.a; and 5A992.z.1.
+(1) Eligible commodities for this exception are those specified in ECCNs 3A001.z.1.a, z.2.a, z.3.a, z.4.a; 3A090.a, if designed by an approved or authorized integrated circuit designer, as described in Note 1 to ECCN 3A090.a; 4A003.z.1.a, z.2.a; 4A004.z.1; 4A005.z.1; 4A090.a; 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a, if designed by an approved or authorized integrated circuit designer, as described in Note 1 to ECCN 3A090.a; 5A004.z.1.a, z.2.a; and 5A992.z.1, if designed by an approved or authorized integrated circuit designer, as described in Note 1 to ECCN 3A090.a.
 
 (2) Eligible software and technology for this exception are:
 
@@ -34,4 +34,4 @@
 
 (c) *Reporting requirement.* Once the exporter, reexporter, or transferor obtains the certification from the ultimate consignee for items identified in paragraph (a)(1) only, prior to the initial export, reexport or transfer (in-country), the exporter, reexporter, or transferor must submit the certification to *EARReports@bis.doc.gov,* with the subject line: AIA Certification. Following submission of the certification, exporters, reexporters and in-country transferors are not required to sign or provide a subsequent certification if the notification described in (b)(4) is provided to the ultimate consignee. This reporting requirement is only applicable if the ultimate consignee is receiving items identified in paragraph (a)(1) with a cumulative total processing performance (TPP) of 253,000,000.
 
-[90 FR 4559, Jan. 15, 2025}
+[90 FR 4559, Jan. 15, 2025, as amended at 90 FR 5309, Jan. 16, 2025]

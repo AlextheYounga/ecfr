@@ -32,7 +32,7 @@ Any museum that fails to comply with the requirements of the Act or this subpart
 
 (c) *Calculate the penalty amount.* If the Assistant Secretary determines under paragraph (b)(2)(i) of this section that a civil penalty is an appropriate remedy for a substantiated failure to comply, the Assistant Secretary must calculate the amount of the penalty in accordance with this paragraph. The penalty for each separate violation must be calculated as follows:
 
-(1) The base penalty amount is $8,315, subject to annual adjustments based on inflation under the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (Pub. L. 114-74).
+(1) The base penalty amount is $8,531, subject to annual adjustments based on inflation under the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (Pub. L. 114-74).
 
 (2) The base penalty amount may be increased after considering:
 
@@ -112,7 +112,7 @@ Any museum that fails to comply with the requirements of the Act or this subpart
 
 (3) Include, where appropriate, any increase or reduction to the penalty amount or an explanation of the determination that a penalty is not an appropriate remedy;
 
-(4) Include the daily penalty amount that the Assistant Secretary may assess under paragraph (m)(1) of this section if the failure to comply continues after the date the final administrative decision of the Assistant Secretary takes effect. The daily penalty amount for each continuing violation shall not exceed $1,664 per day, subject to annual adjustments based on inflation under the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (Pub. L. 114-74);
+(4) Include the daily penalty amount that the Assistant Secretary may assess under paragraph (m)(1) of this section if the failure to comply continues after the date the final administrative decision of the Assistant Secretary takes effect. The daily penalty amount for each continuing violation shall not exceed $1,707 per day, subject to annual adjustments based on inflation under the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (Pub. L. 114-74);
 
 (5) Identify the options for responding to the notice of assessment under paragraph (h) of this section; and
 
@@ -164,10 +164,10 @@ Any museum that fails to comply with the requirements of the Act or this subpart
 
 (l) *Exhaustion of administrative remedies.* A museum has the right to seek judicial review, under 5 U.S.C. 704, of the final administrative decision of the Assistant Secretary only if it has exhausted all administrative remedies under this section. No decision, which at the time of its rendition is subject to appeal under this section, shall be considered final so as to constitute agency action subject to judicial review. The decision being appealed shall not be effective during the pendency of the appeal.
 
-(m) *Failure to pay penalty or continuing failure to comply.* (1) If the failure to comply continues after the date the final administrative decision of the Assistant Secretary takes effect, as described in paragraphs (g), (j)(6), or (k)(1) of this section, or after a date identified in an agreement under paragraph (e)(3) of this section, the Assistant Secretary may assess an additional daily penalty amount for each continuing violation not to exceed $1,496 per day, subject to annual adjustments based on inflation under the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (Pub. L. 114-74). In determining the daily penalty amount, the Assistant Secretary must consider the factors in paragraph (c)(2) of this section. This penalty starts to accrue on the day after the effective date of the final administrative decision of the Assistant Secretary or on the date identified in an agreement under paragraph (e)(3) of this section.
+(m) *Failure to pay penalty or continuing failure to comply.* (1) If the failure to comply continues after the date the final administrative decision of the Assistant Secretary takes effect, as described in paragraphs (g), (j)(6), or (k)(1) of this section, or after a date identified in an agreement under paragraph (e)(3) of this section, the Assistant Secretary may assess an additional daily penalty amount for each continuing violation not to exceed $1,707 per day, subject to annual adjustments based on inflation under the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (Pub. L. 114-74). In determining the daily penalty amount, the Assistant Secretary must consider the factors in paragraph (c)(2) of this section. This penalty starts to accrue on the day after the effective date of the final administrative decision of the Assistant Secretary or on the date identified in an agreement under paragraph (e)(3) of this section.
 
 (2) If the museum fails to pay the penalty, the Attorney General of the United States may institute a civil action to collect the penalty in an appropriate U.S. District Court. In such action, the validity and amount of the penalty are not subject to review by the court.
 
 (n) *Additional remedies.* The assessment of a penalty under this section is not deemed a waiver by the Department of the Interior of the right to pursue other available legal or administrative remedies.
 
-[88 FR 86518 Dec. 13, 2023, as amended at 89 FR 11742, Feb. 15, 2024]
+[88 FR 86518 Dec. 13, 2023, as amended at 89 FR 11742, Feb. 15, 2024; 90 FR 4673, Jan. 16, 2025]

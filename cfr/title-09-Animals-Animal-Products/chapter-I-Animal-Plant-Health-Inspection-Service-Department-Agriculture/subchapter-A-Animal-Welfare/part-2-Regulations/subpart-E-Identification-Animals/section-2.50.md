@@ -2,7 +2,7 @@
 
 (a) A class “A” dealer (breeder) shall identify all live dogs and cats on the premises as follows:
 
-(1) All live dogs and cats held on the premises, purchased, or otherwise acquired, sold or otherwise disposed of, or removed from the premises for delivery to a research facility or exhibitor or to another dealer, or for sale, through an auction sale or to any person for use as a pet, shall be identified by an official tag of the type described in § 2.51 affixed to the animal's neck by means of a collar made of material generally considered acceptable to pet owners as a means of identifying their pet dogs or cats 2, or shall be identified by a distinctive and legible tattoo marking acceptable to and approved by the Administrator.
+(1) All live dogs and cats held on the premises, purchased, or otherwise acquired, sold or otherwise disposed of, or removed from the premises for delivery to a research facility or exhibitor or to another dealer, or for sale, through an auction sale or to any person for use as a pet, shall be identified by an official tag of the type described in § 2.51 affixed to the animal's neck by means of a collar made of material generally considered acceptable to pet owners as a means of identifying their pet dogs or cats2, or shall be identified by a distinctive and legible tattoo marking acceptable to and approved by the Administrator.
 
 2 In general, well fitted collars made of leather or plastic will be acceptable under this provision. The use of certain types of chains presently used by some dealers may also be deemed acceptable. APHIS will determine the acceptability of a material proposed for usage as collars from the standpoint of humane considerations on an individual basis in consultation with the dealer or exhibitor involved. The use of materials such as wire, elastic, or sharp metal that might cause discomfort or injury to the dogs or cats is not acceptable.
 
@@ -18,7 +18,7 @@
 
 (1) When live dogs or cats are held, purchased, or otherwise acquired, they shall be immediately identified:
 
-(i) By affixing to the animal's neck an official tag as set forth in § 2.51 by means of a collar made of material generally acceptable to pet owners as a means of identifying their pet dogs or cats 3; or
+(i) By affixing to the animal's neck an official tag as set forth in § 2.51 by means of a collar made of material generally acceptable to pet owners as a means of identifying their pet dogs or cats3; or
 
 3 See footnote 2 in § 2.50(a)(1).
 

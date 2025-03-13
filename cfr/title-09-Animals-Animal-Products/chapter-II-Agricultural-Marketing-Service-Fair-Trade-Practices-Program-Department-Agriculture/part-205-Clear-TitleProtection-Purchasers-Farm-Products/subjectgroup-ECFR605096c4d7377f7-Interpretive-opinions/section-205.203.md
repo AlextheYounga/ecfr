@@ -2,4 +2,4 @@
 
 The place of filing an EFS is wherever State law requires, which need not be with the system operator so long as the system operator receives the information needed for the master list, including the information required in subsection (c)(4)(C). Note that the requirements in subsection (c)(4) for an EFS include the requirement that it be “filed with the Secretary of State,” but the definition in (c)(11) of “Secretary of State” includes ”designee of the State,” and the requirements in (c)(2) for a system refer in (A) to filing with the system operator of “effective financing statements *or notice of such financing statements.”* (emphasis added)
 
-(Approved by the Office of Management and Budget under control number 0580-0016) [51 FR 29451, Aug. 18, 1986, as amended at 71 FR 56343, Sept. 27, 2006]
+(Approved by the Office of Management and Budget under control number 0580-0016)[51 FR 29451, Aug. 18, 1986, as amended at 71 FR 56343, Sept. 27, 2006]

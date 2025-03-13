@@ -1,10 +1,8 @@
 ##### § 121.104 How does SBA calculate annual receipts? #####
 
-Link to an amendment published at 89 FR 102485, Dec. 17, 2024.
-
 (a) *Receipts* means all revenue in whatever form received or accrued from whatever source, including from the sales of products or services, interest, dividends, rents, royalties, fees, or commissions, reduced by returns and allowances. Generally, receipts are considered “total income” (or in the case of a sole proprietorship “gross income”) plus “cost of goods sold” as these terms are defined and reported on Internal Revenue Service (IRS) tax return forms (such as Form 1120 for corporations; Form 1120S for S corporations; Form 1120, Form 1065 or Form 1040 for LLCs; Form 1065 for partnerships; Form 1040, Schedule F for farms; Form 1040, Schedule C for other sole proprietorships). Receipts do not include net capital gains or losses; taxes collected for and remitted to a taxing authority if included in gross or total income, such as sales or other taxes collected from customers and excluding taxes levied on the concern or its employees; proceeds from transactions between a concern and its domestic or foreign affiliates; and amounts collected for another by a travel agent, real estate agent, advertising agent, conference management service provider, freight forwarder or customs broker. For size determination purposes, the only exclusions from receipts are those specifically provided for in this paragraph. All other items, such as subcontractor costs, reimbursements for purchases a contractor makes at a customer's request, investment income, and employee-based costs such as payroll taxes, may not be excluded from receipts.
 
-(1) The Federal income tax return and any amendments filed with the IRS on or before the date of self-certification must be used to determine the size status of a concern. SBA will not use tax returns or amendments filed with the IRS after the initiation of a size determination.
+(1) SBA will consider and generally rely on a concern's Federal income tax return and any amendments filed with the IRS on or before the date of self-certification to determine the size status of the concern. Where a concern may legally exclude certain revenue for tax purposes, SBA will not include that revenue in its analysis. However, SBA may consider other relevant information where there is reasonable basis to believe the tax filings are false.
 
 (2) When a concern has not filed a Federal income tax return with the IRS for a fiscal year which must be included in the period of measurement, SBA will calculate the concern's annual receipts for that year using any other available information, such as the concern's regular books of account, audited financial statements, or information contained in an affidavit by a person with personal knowledge of the facts.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 89 FR 102485, Dec. 17, 2024.
 
 (e) Unless otherwise defined in this section, all terms shall have the meaning attributed to them by the IRS.
 
-[61 FR 3286, Jan. 31, 1996, as amended at 65 FR 48604, Aug. 9, 2000; 69 FR 29203, May 21, 2004; 81 FR 34258, May 31, 2016; 84 FR 66578, Dec. 5, 2019; 87 FR 34120, June 6, 2022]
+[61 FR 3286, Jan. 31, 1996, as amended at 65 FR 48604, Aug. 9, 2000; 69 FR 29203, May 21, 2004; 81 FR 34258, May 31, 2016; 84 FR 66578, Dec. 5, 2019; 87 FR 34120, June 6, 2022; 89 FR 102485, Dec. 17, 2024]

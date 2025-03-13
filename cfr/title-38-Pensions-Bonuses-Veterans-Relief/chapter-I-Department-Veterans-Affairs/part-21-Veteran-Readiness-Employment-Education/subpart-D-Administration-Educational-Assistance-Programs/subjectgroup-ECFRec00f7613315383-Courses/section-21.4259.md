@@ -1,5 +1,7 @@
 ##### § 21.4259 Suspension or disapproval. #####
 
+Link to an amendment published at 90 FR 5332, Jan. 16, 2025.
+
 (a) The appropriate State approving agency, after approving any course or licensing or certification test:
 
 (1) May suspend the approval of a course for new enrollments, or approval of a licensing or certification test, for a period not to exceed 60 days to allow the institution to correct any deficiencies, if the evidence of record establishes that the course or licensing or certification test fails to meet any of the requirements for approval.

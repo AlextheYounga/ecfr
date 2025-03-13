@@ -1,16 +1,40 @@
 ##### § 121.3 VS select agents and toxins. #####
 
-Link to an amendment published at 89 FR 101845, Dec. 17, 2024.
-
 (a) Except as provided in paragraphs (d) and (e) of this section, the Administrator has determined that the biological agents and toxins listed in this section have the potential to pose a severe threat to animal health or to animal products. The select agents and toxins marked with an asterisk (\*) are designated as Tier 1 select agents and toxins and are subject to additional requirements as listed in this part.
 
-(b) VS select agents and toxins: African horse sickness virus; African swine fever virus; Avian influenza virus; Classical swine fever virus; \*Foot-and-mouth disease virus; Goat pox virus; Lumpy skin disease virus; *Mycoplasma capricolum*; *Mycoplasma mycoides*; Newcastle disease virus; 1 Peste des petits ruminants virus; \*Rinderpest virus; Sheep pox virus; Swine vesicular disease virus.
+(b) VS select agents and toxins are:
 
-1 A virulent Newcastle disease virus (avian paramyxovirus serotype 1) has an intracerebral pathogenicity index in day-old chicks (*Gallus gallus*) of 0.7 or greater or has an amino acid sequence at the fusion (F) protein cleavage site that is consistent with virulent strains of Newcastle disease virus. A failure to detect a cleavage site that is consistent with virulent strains does not confirm the absence of a virulent virus.
+(1) African swine fever virus;
+
+(2) Avian influenza virus;
+
+(3) Classical swine fever virus;
+
+(4) \* Foot-and-mouth disease virus;
+
+(5) Goat pox virus;
+
+(6) Lumpy skin disease virus;
+
+(7) *Mycoplasma capricolum;*
+
+(8) *Mycoplasma mycoides;*
+
+(9) Newcastle disease virus;1
+
+(10) Peste des petits ruminants virus;
+
+(11) \* Rinderpest virus;
+
+(12) Sheep pox virus; and
+
+(13) Swine vesicular disease virus.
+
+1 A virulent Newcastle disease virus (avian paramyxovirus type 1) has an intracerebral pathogenicity index in day-old chicks (*Gallus gallus*) of 0.7 or greater, or has an amino acid sequence at the fusion (F) protein cleavage that is consistent with virulent strains of Newcastle disease virus and phenylalanine at residue 117 of the F1 protein N-terminus, except for genotype VI viruses from columbid birds.
 
 (c) Genetic elements, recombinant and/or synthetic nucleic acids, and recombinant and/or synthetic organisms:
 
-(1) Nucleic acids that can produce infectious forms of any of the select agent viruses listed in paragraph (b) of this section. 2
+(1) Nucleic acids that can produce infectious forms of any of the select agent viruses listed in paragraph (b) of this section.2
 
 2 The importation and interstate movement of VS select agents or toxins listed in paragraphs (c)(1) through (c)(3) of this section may be subject to the permit requirements under part 122 of this subchapter.
 
@@ -42,7 +66,7 @@ Link to an amendment published at 89 FR 101845, Dec. 17, 2024.
 
 (8) Waste generated during the delivery of patient care by health care professionals from a patient diagnosed with an illness or condition associated with a select agent, where that waste is decontaminated or transferred for destruction by complying with State and Federal regulations within 7 calendar days of the conclusion of patient care.
 
-(9) Any low pathogenic strains of avian influenza virus, avian paramyxovirus serotype-1 (APMV-1) viruses which do not meet the criteria for Newcastle disease virus,4 including those identified as pigeon paramyxovirus-1 5 isolated from a non-poultry species, all subspecies *Mycoplasma capricolum* except subspecies *capripneumoniae* (contagious caprine pleuropneumonia), and all subspecies *Mycoplasma mycoides* except subspecies *mycoides* small colony (*Mmm* SC) (contagious bovine pleuropneumonia), provided that the individual or entity can identify that the agent is within the exclusion category.
+(9) Any low pathogenic strains of avian influenza virus, avian paramyxovirus serotype-1 (APMV-1) viruses which do not meet the criteria for Newcastle disease virus,4 including those identified as pigeon paramyxovirus-15 isolated from a non-poultry species, all subspecies *Mycoplasma capricolum* except subspecies *capripneumoniae* (contagious caprine pleuropneumonia), and all subspecies *Mycoplasma mycoides* except subspecies *mycoides* small colony (*Mmm* SC) (contagious bovine pleuropneumonia), provided that the individual or entity can identify that the agent is within the exclusion category.
 
 4 An APMV-1 virus isolated from poultry which has an intracerebral pathogenicity index in day-old chicks (*Gallus gallus*) of 0.7 or greater or has an amino acid sequence at the fusion (F) protein cleavage site that is consistent with virulent strains of Newcastle disease virus. A failure to detect a cleavage site that is consistent with virulent strains does not confirm the absence of a virulent virus.
 
@@ -72,4 +96,4 @@ Link to an amendment published at 89 FR 101845, Dec. 17, 2024.
 
 (4) The Federal law enforcement agency reports the final disposition of the select agent or toxin by submission of APHIS/CDC Form 4. A copy of the completed form must be maintained for 3 years.
 
-[70 FR 13284, Mar. 18, 2005, as amended at 73 FR 61331, Oct. 16, 2008; 77 FR 61077, Oct. 5, 2012; 79 FR 26830, May 12, 2014; 82 FR 6207, Jan. 19, 2017; 83 FR 48202, Sept. 24, 2018]
+[70 FR 13284, Mar. 18, 2005, as amended at 73 FR 61331, Oct. 16, 2008; 77 FR 61077, Oct. 5, 2012; 79 FR 26830, May 12, 2014; 82 FR 6207, Jan. 19, 2017; 83 FR 48202, Sept. 24, 2018; 89 FR 101846, Dec. 17, 2024]

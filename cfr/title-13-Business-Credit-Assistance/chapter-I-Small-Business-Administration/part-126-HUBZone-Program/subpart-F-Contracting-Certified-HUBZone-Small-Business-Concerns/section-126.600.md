@@ -1,17 +1,19 @@
 ##### § 126.600 What are HUBZone contracts? #####
 
-Link to an amendment published at 89 FR 102502, Dec. 17, 2024.
+HUBZone contracts are prime contracts awarded to a certified HUBZone small business concern (or a HUBZone joint venture that complies with the requirements of § 126.616), regardless of the place of performance, through any of the following procurement methods:
 
-HUBZone contracts are contracts awarded to a certified HUBZone small business concern, regardless of the place of performance, through any of the following procurement methods:
+(a) Sole source awards awarded pursuant to § 126.612 to certified HUBZone small business concerns (or HUBZone joint ventures that comply with the requirements of § 126.616);
 
-(a) Sole source awards to certified HUBZone small business concerns;
+(b) Set-aside awards (including partial set-asides and set-aside multiple award contracts) based on competition restricted to certified HUBZone small business concerns;
 
-(b) Set-aside awards, including partial set-asides, based on competition restricted to certified HUBZone small business concerns;
+(c) Awards through full and open competition after the HUBZone price evaluation preference is applied to an other than small business in favor of a certified HUBZone small business;
 
-(c) Awards to certified HUBZone small business concerns through full and open competition after a price evaluation preference is applied to an other than small business in favor of certified HUBZone small business concerns;
+(d) Awards based on a reserve for certified HUBZone small business in an unrestricted solicitation;
 
-(d) Awards based on a reserve for certified HUBZone small business concerns in a solicitation for a Multiple Award Contract (*see* § 125.1); or
+(e) Orders awarded to certified HUBZone small business concerns under a multiple award contract that was set-aside for certified HUBZone small business concerns;
 
-(e) Orders set-aside for certified HUBZone small business concerns under a Multiple Award Contract that was awarded in full and open competition.
+(f) Orders set-aside for certified HUBZone small business concerns under a multiple award contract that was awarded using full and open competitive procedures;
 
-[78 FR 61144, Oct. 2, 2013, as amended at 81 FR 48591, July 25, 2016; 84 FR 65247, Nov. 26, 2019]
+(g) Orders set-aside for certified HUBZone small business concerns under a multiple award contract that was awarded as a small business set-aside.
+
+[89 FR 102502, Dec. 17, 2024]

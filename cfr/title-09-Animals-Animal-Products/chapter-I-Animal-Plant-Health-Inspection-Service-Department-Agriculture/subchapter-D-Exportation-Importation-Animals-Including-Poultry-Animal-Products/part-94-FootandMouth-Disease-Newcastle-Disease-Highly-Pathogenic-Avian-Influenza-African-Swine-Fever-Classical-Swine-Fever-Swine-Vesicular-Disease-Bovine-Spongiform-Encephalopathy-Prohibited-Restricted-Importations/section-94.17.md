@@ -150,7 +150,7 @@ Notwithstanding any other provisions in this part, dry-cured ham, pork shoulder,
 
 (p) Whole hams, pork shoulders, and pork loins that have been dry-cured in accordance with paragraph (i) of this section may be transported to a facility in the same region for slicing and packaging in accordance with this paragraph.
 
-(1) *The slicing/packaging facility.* (i) The slicing/packaging facility 16 must be inspected, prior to slicing and packaging any hams, pork shoulders, or pork loins in accordance with this paragraph, by an APHIS representative and determined by the Administrator to be capable of meeting the provisions of this paragraph.
+(1) *The slicing/packaging facility.* (i) The slicing/packaging facility16 must be inspected, prior to slicing and packaging any hams, pork shoulders, or pork loins in accordance with this paragraph, by an APHIS representative and determined by the Administrator to be capable of meeting the provisions of this paragraph.
 
 16 See footnote 15.
 

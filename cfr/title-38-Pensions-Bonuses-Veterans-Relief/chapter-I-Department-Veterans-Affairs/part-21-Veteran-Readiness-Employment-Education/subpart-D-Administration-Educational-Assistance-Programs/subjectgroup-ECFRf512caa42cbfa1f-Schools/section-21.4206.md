@@ -1,5 +1,7 @@
 ##### § 21.4206 Reporting fee. #####
 
+Link to an amendment published at 90 FR 5330, Jan. 16, 2025.
+
 VA may pay annually to each educational institution furnishing education or each joint apprenticeship training committee acting as a training establishment under 10 U.S.C. chapter 1606 or 38 U.S.C. chapter 30, 32, 33, 35 or 36 a reporting fee for required reports or certifications. The reporting fee will be paid as soon as feasible after the end of the calendar year.
 
 (a) Except as provided in paragraph (b) of this section the reporting fee will be computed for each calendar year by multiplying $7.00 by the number of eligible veterans and eligible persons enrolled under 10 U.S.C. chapter 1606, or 38 U.S.C. chapter 30, 32, 33, 35 or 36 during that calendar year.

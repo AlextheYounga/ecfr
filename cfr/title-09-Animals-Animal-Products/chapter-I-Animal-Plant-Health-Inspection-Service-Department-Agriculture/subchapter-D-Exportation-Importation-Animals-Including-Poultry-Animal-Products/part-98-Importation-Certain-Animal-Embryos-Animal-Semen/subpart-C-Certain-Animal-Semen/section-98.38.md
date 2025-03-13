@@ -22,7 +22,7 @@ In addition to meeting all other applicable provisions of this part, swine semen
 
 (g) No equipment or materials used in transporting the donor boar from the farm of origin to the semen collection center may have been used previously for transporting swine that do not meet the requirements of this section, unless such equipment or materials have first been cleaned and disinfected.
 
-(h) The semen must be accompanied by a certificate issued by a salaried veterinary officer of the competent veterinary authority, stating that the provisions of paragraphs (a) through (g) of this section have been met. 3
+(h) The semen must be accompanied by a certificate issued by a salaried veterinary officer of the competent veterinary authority, stating that the provisions of paragraphs (a) through (g) of this section have been met.3
 
 3 The certification required may be placed on the certificate required under § 98.35(c) or may be contained in a separate document.
 

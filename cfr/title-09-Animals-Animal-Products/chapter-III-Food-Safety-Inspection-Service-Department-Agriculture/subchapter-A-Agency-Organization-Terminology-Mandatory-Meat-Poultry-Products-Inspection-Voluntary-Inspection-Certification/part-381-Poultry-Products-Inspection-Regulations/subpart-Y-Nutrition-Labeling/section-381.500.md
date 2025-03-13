@@ -20,7 +20,7 @@
 
 (3) Products that are not for sale to consumers, provided that the labels for these products bear no nutrition claims or nutrition information,
 
-(4) Products in small packages that are individually wrapped packages of less than 1/2 ounce net weight, provided that the labels for these products bear no nutrition claims or nutrition information,
+(4) Products in small packages that are individually wrapped packages of less than1/2 ounce net weight, provided that the labels for these products bear no nutrition claims or nutrition information,
 
 (5) Products custom slaughtered or prepared,
 
@@ -52,6 +52,6 @@
 
 (d)(1) Products in packages that have a total surface area available to bear labeling of less than 12 square inches are exempt from nutrition labeling, provided that the labeling for these products bear no nutrition claims or other nutrition information except that this exemption does not apply to the major cuts of single-ingredient, raw poultry products identified in § 381.444. The manufacturer, packer, or distributor shall provide, on the label of packages that qualify for and use this exemption, an address or telephone number that a consumer can use to obtain the required nutrition information (e.g., “For nutrition information call 1-800-123-4567”).
 
-(2) When such products bear nutrition labeling, either voluntarily or because nutrition claims or other nutrition information is provided, all required information shall be in a type size no smaller than 6 point or all upper case type of 1/16-inch minimum height, except that individual serving-size packages of poultry products that have a total area available to bear labeling of 3 square inches or less may provide all required information in a type size no smaller than 1/32-inch minimum height.
+(2) When such products bear nutrition labeling, either voluntarily or because nutrition claims or other nutrition information is provided, all required information shall be in a type size no smaller than 6 point or all upper case type of1/16-inch minimum height, except that individual serving-size packages of poultry products that have a total area available to bear labeling of 3 square inches or less may provide all required information in a type size no smaller than1/32-inch minimum height.
 
 [58 FR 675, Jan. 6, 1993, as amended at 58 FR 47628, Sept. 10, 1993; 59 FR 45198, Sept. 1, 1994; 60 FR 217, Jan. 3, 1995; 75 FR 82167, Dec. 29, 2010; 76 FR 76891, Dec. 9, 2011]

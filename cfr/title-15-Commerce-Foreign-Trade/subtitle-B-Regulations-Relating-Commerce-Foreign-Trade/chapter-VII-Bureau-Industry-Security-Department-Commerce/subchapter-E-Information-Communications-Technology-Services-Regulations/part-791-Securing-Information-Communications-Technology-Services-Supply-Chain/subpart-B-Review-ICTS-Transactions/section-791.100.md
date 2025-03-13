@@ -1,6 +1,6 @@
 ##### § 791.100 General. #####
 
-Link to an amendment published at 89 FR 96893, Dec. 6, 2024.
+Link to an amendment published at 89 FR 96893, Dec. 6, 2024.Link to a correction published at 90 FR 4624, Jan. 16, 2025.
 
 In implementing this part, the Secretary of Commerce may:
 

@@ -34,7 +34,7 @@
 
 (iii) Statements that characterize a product's nutrient content in compliance with Title 9 of the CFR, such as “low fat”; and
 
-(iv) Claims related to geographical significance, such as “German Brand Made in the US,” or those that make a country of origin statement on the label of any meat or poultry product “covered commodity,” 1 or displays of geographic landmarks, such as a foreign country's flag, monument, or map.
+(iv) Claims related to geographical significance, such as “German Brand Made in the US,” or those that make a country of origin statement on the label of any meat or poultry product “covered commodity,”1 or displays of geographic landmarks, such as a foreign country's flag, monument, or map.
 
 1 See 9 CFR 317.8(b)(40) and 381.129(f).
 

@@ -1,5 +1,7 @@
 ##### § 21.9635 Discontinuance dates. #####
 
+Link to an amendment published at 90 FR 5344, Jan. 16, 2025.
+
 The effective date of a reduction or discontinuance of educational assistance will be as stated in this section. If more than one type of reduction or discontinuance is involved, VA will reduce or discontinue educational assistance using the earliest of the applicable dates.
 
 (a) *Death of eligible individual.* (1) If the eligible individual receives a lump sum payment under § 21.9640(b)(1)(iii), (b)(2)(iii), (c)(1)(ii), or (c)(2)(ii) and dies before the end of the period covered by the lump sum payment, the discontinuance date of educational assistance for the purpose of that lump sum payment will be the last date of the period covered by the lump sum payment.

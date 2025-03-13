@@ -1,6 +1,6 @@
 ##### § 381.104 Export inspection marks. #####
 
-The export inspection mark required in § 381.105 must be either a mark that contains a unique identifier that links the consignment to the export certificate or an official mark with the following form: 1
+The export inspection mark required in § 381.105 must be either a mark that contains a unique identifier that links the consignment to the export certificate or an official mark with the following form:1
 
 ![](/graphics/er29jn16.016.gif)
 

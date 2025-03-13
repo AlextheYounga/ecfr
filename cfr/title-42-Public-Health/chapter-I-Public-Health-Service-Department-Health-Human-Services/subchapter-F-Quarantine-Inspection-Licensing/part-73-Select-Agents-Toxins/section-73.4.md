@@ -1,12 +1,12 @@
 ##### § 73.4 Overlap select agents and toxins. #####
 
-Link to an amendment published at 89 FR 101952, Dec. 17, 2024.
-
 (a) Except for exclusions under paragraphs (d) and (e) of this section, the HHS Secretary has determined that the biological agents and toxins listed in this section have the potential to pose a severe threat to public health and safety, to animal health, or to animal products. The select agents and toxins marked with an asterisk (\*) are designated as Tier 1 select agents and toxins and are subject to additional requirements as listed in this part.
 
-(b) Overlap select agents and toxins:
+(b) Overlap select agents and toxins 1 are:
 
-*Bacillus anthracis* \**Bacillus anthracis* Pasteur strain*Brucella abortus**Brucella melitensis**Brucella suis**Burkholderia mallei* \**Burkholderia pseudomallei* \*Hendra virusNipah virusRift Valley fever virusVenezuelan equine encephalitis virus
+(1) *Bacillus anthracis.\**(2) *Bacillus anthracis* Pasteur strain.(3) *Burkholderia mallei.\**(4) *Burkholderia pseudomallei.*\*(5) Hendra virus.(6) Nipah virus.\*(7) Rift Valley fever virus.(8) Venezuelan equine encephalitis virus.
+
+1 Please refer to *https://www.selectagents.gov* for current information on historical or proposed nomenclature for the Overlap select agents on the list.
 
 (c) Genetic Elements, Recombinant and/or Synthetic Nucleic Acids, and Recombinant and/or Synthetic Organisms:
 
@@ -64,4 +64,4 @@ Link to an amendment published at 89 FR 101952, Dec. 17, 2024.
 
 (4) The Federal law enforcement agency reports the final disposition of the overlap select agent or toxin by the submission of APHIS/CDC Form 4. A copy of the completed form must be maintained for three years.
 
-[70 FR 13316, Mar. 18, 2005, as amended at 73 FR 61366, Oct. 16, 2008; 77 FR 61111, Oct. 5, 2012; 79 FR 26861, May 12, 2014; 82 FR 6291, Jan. 19, 2017]
+[70 FR 13316, Mar. 18, 2005, as amended at 73 FR 61366, Oct. 16, 2008; 77 FR 61111, Oct. 5, 2012; 79 FR 26861, May 12, 2014; 82 FR 6291, Jan. 19, 2017; 89 FR 101952, Dec. 17, 2024]

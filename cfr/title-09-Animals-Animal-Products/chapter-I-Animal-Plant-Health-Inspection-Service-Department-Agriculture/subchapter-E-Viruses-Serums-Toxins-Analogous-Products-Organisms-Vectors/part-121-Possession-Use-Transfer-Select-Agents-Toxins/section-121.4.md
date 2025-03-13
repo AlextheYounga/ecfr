@@ -1,14 +1,28 @@
 ##### § 121.4 Overlap select agents and toxins. #####
 
-Link to an amendment published at 89 FR 101846, Dec. 17, 2024.
-
 (a) Except as provided in paragraphs (d) and (e) of this section, the Administrator has determined that the biological agents and toxins listed in this section have the potential to pose a severe threat to public health and safety, to animal health, or to animal products. The select agents and toxins marked with an asterisk (\*) are designated as Tier 1 select agents and toxins and are subject to additional requirements as listed in this part.
 
-(b) Overlap select agents and toxins: \**Bacillus anthracis;**Bacillus anthracis* (Pasteur strain); *Brucella abortus;**Brucella melitensis;**Brucella suis;* \**Burkholderia mallei;* \**Burkholderia pseudomallei;* Hendra virus; Nipah virus; Rift Valley fever virus; Venezuelan equine encephalitis virus.
+(b) Overlap select agents and toxins are:
+
+(1) *\* Bacillus anthracis;*
+
+(2) *Bacillus anthracis* (Pasteur strain);
+
+(3) *\* Burkholderia mallei;*
+
+(4) *\* Burkholderia pseudomallei;*
+
+(5) Hendra virus;
+
+(6) \* Nipah virus;
+
+(7) Rift Valley fever virus; and
+
+(8) Venezuelan equine encephalitis virus.
 
 (c) Genetic elements, recombinant and/or synthetic nucleic acids, and recombinant and/or synthetic organisms:
 
-(1) Nucleic acids that can produce infectious forms of any of the overlap select agent viruses listed in paragraph (b) of this section. 6
+(1) Nucleic acids that can produce infectious forms of any of the overlap select agent viruses listed in paragraph (b) of this section.6
 
 6 The importation and interstate movement of overlap select agents or toxins listed in paragraphs (c)(1) through (c)(3) of this section may be subject to the permit requirements under part 122 of this subchapter.
 
@@ -66,4 +80,4 @@ Link to an amendment published at 89 FR 101846, Dec. 17, 2024.
 
 (4) The Federal law enforcement agency reports the final disposition of the overlap select agent or toxin by submission of APHIS/CDC Form 4. A copy of the completed form must be maintained for 3 years.
 
-[70 FR 13284, Mar. 18, 2005, as amended at 73 FR 61331, Oct. 16, 2008; 77 FR 61078, Oct. 5, 2012; 79 FR 26830, May 12, 2014; 82 FR 6207, Jan. 19, 2017]
+[70 FR 13284, Mar. 18, 2005, as amended at 73 FR 61331, Oct. 16, 2008; 77 FR 61078, Oct. 5, 2012; 79 FR 26830, May 12, 2014; 82 FR 6207, Jan. 19, 2017; 89 FR 101846, Dec. 17, 2024]

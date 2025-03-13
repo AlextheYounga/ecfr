@@ -1,6 +1,6 @@
 ##### § 273.24 Time limit for able-bodied adults. #####
 
-Link to an amendment published at 89 FR 102362, Dec. 17, 2024.Link to an amendment published at 89 FR 90569, Nov. 18, 2024.
+Link to an amendment published at 89 FR 90569, Nov. 18, 2024.
 
 (a) *Definitions.* For purposes of the SNAP time limit, the terms below have the following meanings:
 
@@ -70,7 +70,7 @@ Link to an amendment published at 89 FR 102362, Dec. 17, 2024.Link to an amendme
 
 (c) *Exceptions.* The time limit does not apply to an individual if he or she is:
 
-(1) Under 18 or 50 years of age or older;
+(1) Under 18 or 55 years of age or older;
 
 (2) Determined by the State agency to be medically certified as physically or mentally unfit for employment. An individual is medically certified as physically or mentally unfit for employment if he or she:
 
@@ -84,9 +84,17 @@ Link to an amendment published at 89 FR 102362, Dec. 17, 2024.Link to an amendme
 
 (4) Is residing in a household where a household member is under age 18, even if the household member who is under 18 is not himself eligible for SNAP benefits;
 
-(5) Is otherwise exempt from work requirements under section 6(d)(2) of the Food and Nutrition Act of 2008, as implemented in regulations at § 273.7(b); or
+(5) Is otherwise exempt from work requirements under section 6(d)(2) of the Food and Nutrition Act of 2008, as implemented in regulations at § 273.7(b);
 
-(6) Is pregnant.
+(6) Is pregnant;
+
+(7) Homeless, as defined in § 271.2 of this chapter;
+
+(8) A veteran, defined as an individual who, regardless of the conditions of their discharge or release from, served in the United States Armed Forces (such as Army, Marine Corps, Navy, Air Force, Space Force, Coast Guard, and National Guard), including an individual who served in a reserve component of the Armed Forces, or served as a commissioned officer of the Public Health Service, Environmental Scientific Services Administration, or the National Oceanic and Atmospheric Administration; or
+
+(9) An individual who is 24 years of age or younger and who was in foster care under the responsibility of any State, District, U.S. Territories, Indian Tribal Organization, or Unaccompanied Refugee Minors Program on the date of attaining 18 years of age, including those who remain in extended foster care in States that have elected to extend foster care in accordance with section 475(8)(B)(iii) of the Social Security Act (42 U.S.C. 675(8)(B)(iii)) or those who leave extended foster care before the maximum age.
+
+(10) Unless otherwise changed by law, the exceptions provided at paragraphs (c)(7) through (9) of this section cease to have effect on October 1, 2030, and the age limit provided in paragraph (c)(1) of this section reverts from “55 years of age or older” to “50 years of age or older” on October 1, 2030.
 
 (d) *Regaining eligibility.* (1) An individual denied eligibility under paragraph (b) of this section, or who did not reapply for benefits because he was not meeting the work requirements under paragraph (b) of this section, shall regain eligibility to participate in SNAP if, as determined by the State agency, during any 30 consecutive days, he or she:
 
@@ -152,7 +160,7 @@ Link to an amendment published at 89 FR 102362, Dec. 17, 2024.Link to an amendme
 
 (2) Subject to paragraphs (h) and (i) of this section, a State agency may provide an exemption from the 3-month time limit of paragraph (b) of this section for covered individuals. Exemptions do not count towards a State agency's allocation if they are provided to an individual who is otherwise exempt from the time limit during that month.
 
-(3) For each fiscal year, a State agency may provide a number of exemptions such that the average monthly number of exemptions in effect during the fiscal year does not exceed 12 percent of the number of covered individuals in the State, as estimated by FNS, based on FY 1996 quality control data and other factors FNS deems appropriate, and adjusted by FNS to reflect changes in:
+(3) For each fiscal year, a State agency may provide a number of exemptions such that the average monthly number of exemptions in effect during the fiscal year does not exceed 8 percent of the number of covered individuals in the State, as estimated by FNS, based on FY 1996 quality control data and other factors FNS deems appropriate, and adjusted by FNS to reflect changes in:
 
 (i) The State agency's caseload; and
 
@@ -166,7 +174,7 @@ Link to an amendment published at 89 FR 102362, Dec. 17, 2024.Link to an amendme
 
 (2) *Exemption adjustments.* During each fiscal year, FNS will adjust the number of exemptions allocated to a State agency based on the number of exemptions in effect in the State for the preceding fiscal year.
 
-(i) If the State agency does not use all of its exemptions by the end of the fiscal year, FNS will increase the estimated number of exemptions allocated to the State agency for the subsequent fiscal year by the remaining balance.
+(i) If the State agency does not use all of its exemptions by the end of the fiscal year, FNS will increase the estimated number of exemptions allocated to the State agency for the subsequent fiscal year by the remaining balance. Starting in FY 2026, FNS will increase the estimated number of exemptions allocated to the State agency for the subsequent fiscal year by the remaining balance of unused exemptions earned for the previous fiscal year. FNS will consider the State agency to use exemptions in order of accrual (first-in, first-out) for the purposes of calculating carryover of unused exemptions.
 
 (ii) If the State agency exceeds its exemptions by the end of the fiscal year, FNS will reduce the estimated number of exemptions allocated to the State agency for the subsequent fiscal year by the corresponding number.
 
@@ -174,4 +182,14 @@ Link to an amendment published at 89 FR 102362, Dec. 17, 2024.Link to an amendme
 
 (j) *Other Program rules.* Nothing in this section will make an individual eligible for SNAP benefits if the individual is not otherwise eligible for benefits under the other provisions of this part and the Food and Nutrition Act of 2008.
 
-[Amdt. 379, 64 FR 48257, Sept. 3, 1999, as amended at 66 FR 4469, Jan. 17, 2001; 67 FR 41618, June 19, 2002; 71 FR 33384, June 9, 2006; 84 FR 66811, Dec. 5, 2019; 84 FR 66811, Dec. 5, 2020; 86 FR 410, Jan. 5, 2021; 86 FR 34605, June 30, 2021]
+(k) *Screening.* The State agency must screen individuals for all exceptions from the time limit listed under paragraph (c) of this section at certification and recertification. The State agency must not assign countable months unless it has screened the individual and determined that no exception applies. When an individual qualifies for more than one exception, the State agency must apply the exception that will be in effect the longest.
+
+(1) Changes in exception status during the certification period.
+
+(i) *Loss of an exception.* If during the certification period an individual has a change in circumstances that results in the loss of an exception from the time limit, the State agency cannot begin assigning countable months until it screens the individual to determine whether any other exception applies.
+
+(ii) *Newly meeting an exception.* If during the certification period an individual subject to the time limit has a change in circumstance that results in the individual now meeting an exception, the State agency must act promptly to apply the exception and cannot assign a countable month once the State receives information that is not questionable. If the State agency determines the information is questionable, the State agency must act promptly to verify the information in accordance with paragraph (l) of this section. Once verified, the State agency must apply the exception and cannot assign countable months.
+
+(l) *Verification of exceptions.* If the State agency determines an individual's exception status under paragraph (c) of this section is questionable, the State agency must first attempt to verify exception status using information available to the State agency, such as information from other public assistance programs through data sharing, before requiring individuals provide documentary evidence or other sources of verification.
+
+[Amdt. 379, 64 FR 48257, Sept. 3, 1999, as amended at 66 FR 4469, Jan. 17, 2001; 67 FR 41618, June 19, 2002; 71 FR 33384, June 9, 2006; 84 FR 66811, Dec. 5, 2019; 84 FR 66811, Dec. 5, 2020; 86 FR 410, Jan. 5, 2021; 86 FR 34605, June 30, 2021; 89 FR 102362, Dec. 17, 2024]

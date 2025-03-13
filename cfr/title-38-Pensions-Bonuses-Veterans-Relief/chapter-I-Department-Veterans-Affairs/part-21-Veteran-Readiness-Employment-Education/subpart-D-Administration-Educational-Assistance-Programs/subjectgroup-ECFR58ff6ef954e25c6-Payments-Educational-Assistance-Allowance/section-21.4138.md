@@ -1,5 +1,7 @@
 ##### § 21.4138 Certifications and release of payments. #####
 
+Link to an amendment published at 90 FR 5329, Jan. 16, 2025.
+
 For the purposes of this section, the Manila Regional Office is considered the VA Regional Processing Office of jurisdiction for educational assistance allowance claims processed under 38 U.S.C. chapter 35 for educational institutions located in the Philippines.
 
 (a) *Advance payments.* (1) VA will make payments of educational assistance in advance when:

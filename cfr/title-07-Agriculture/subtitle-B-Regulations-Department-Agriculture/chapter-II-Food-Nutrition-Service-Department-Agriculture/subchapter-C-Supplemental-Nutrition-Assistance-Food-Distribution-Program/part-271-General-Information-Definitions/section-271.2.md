@@ -1,6 +1,6 @@
 ##### § 271.2 Definitions. #####
 
-Link to an amendment published at 89 FR 102362, Dec. 17, 2024.Link to an amendment published at 89 FR 90568, Nov. 18, 2024.
+Link to an amendment published at 89 FR 90568, Nov. 18, 2024.
 
 *Access device* means any card, plate, code, account number, or other means of access that can be used alone, or in conjunction with another access device, to obtain payments, allotments, benefits, money, goods, or other things of value, or that can be used to initiate a transfer of funds under the Food and Nutrition Act of 2008, as amended.
 
@@ -128,13 +128,19 @@ Link to an amendment published at 89 FR 102362, Dec. 17, 2024.Link to an amendme
 
 *Group living arrangement* means a public or private nonprofit residential setting that serves no more than sixteen residents that is certified by the appropriate agency or agencies of the State under regulations issued under section 1616(e) of the Social Security Act or under standards determined by the Secretary to be comparable to standards implemented by appropriate State agencies under section 1616(e) of the Social Security Act. To be eligible for SNAP benefits, a resident of such a group living arrangement must be blind or disabled as defined in paragraphs (2) through (11) of the definition of “Elderly or disabled member” contained in this section.
 
-*Homeless individual* means an individual who lacks a fixed and regular nighttime residence or an individual whose primary nighttime residence is: (1) A supervised shelter designed to provide temporary accommodations (such as a welfare hotel or congregate shelter);
+*Homeless individual* means
 
-(2) A halfway house or similar institution that provides temporary residence for individuals intended to be institutionalized;
+(1) An individual who lacks a fixed and regular nighttime residence, including, but not limited to, an individual who will imminently lose their nighttime residence; or
 
-(3) A temporary accommodation for not more than 90 days in the residence of another individual; or
+(2) An individual whose primary nighttime residence is:
 
-(4) A place not designed for, or ordinarily used, as a regular sleeping accommodation for human beings (a hallway, a bus station, a lobby or similar places).
+(i) A supervised shelter designed to provide temporary accommodations (such as a welfare hotel or congregate shelter);
+
+(ii) A halfway house or similar institution that provides temporary residence for individuals intended to be institutionalized;
+
+(iii) A temporary accommodation for not more than 90 days in the residence of another individual; or
+
+(iv) A public or private place not designed for, or ordinarily used, as a regular sleeping accommodation for human beings (a hallway, a bus station, a lobby, or similar places).
 
 *Homeless meal provider* means:
 
@@ -242,7 +248,7 @@ Link to an amendment published at 89 FR 102362, Dec. 17, 2024.Link to an amendme
 
 *Sample month* means the month of the sample frame from which a case is selected (e.g., for all cases selected from a frame consisting of households participating in January, the sample month is January).
 
-*Screening* an evaluation by the eligibility worker as to whether a person should or should not be referred for participation in an employment and training program. This activity would not be considered an approvable E&T component.
+*Screening* means an evaluation by an eligibility worker of an individual for all exemptions from the general work requirements, all exceptions from the able-bodied adults without dependents time limit, and whether the individual should be referred for participation in an employment and training program. Screening for participation in employment and training programs is not considered a part of the E&T program.
 
 *Secretary* means the Secretary of the U.S. Department of Agriculture.
 

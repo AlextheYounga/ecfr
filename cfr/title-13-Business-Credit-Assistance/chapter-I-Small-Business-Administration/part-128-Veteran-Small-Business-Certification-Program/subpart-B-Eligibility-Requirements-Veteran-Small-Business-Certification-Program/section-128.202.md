@@ -1,7 +1,5 @@
 ##### § 128.202 Who does SBA consider to own a VOSB or SDVOSB? #####
 
-Link to an amendment published at 89 FR 102508, Dec. 17, 2024.
-
 To qualify as a VOSB, one or more veterans must unconditionally and directly own at least 51 percent of the concern. To qualify as a SDVOSB, one or more service-disabled veterans must unconditionally and directly own at least 51 percent of the concern.
 
 (a) *Direct ownership.* To be considered direct ownership, the qualifying veteran must own 51 percent of the concern directly, and not through another business entity or trust (including an ESOP). However, ownership by a trust, such as a living trust, may be considered direct ownership where the trust is revocable, and qualifying veterans are the grantors, trustees, and the current beneficiaries of the trust.
@@ -14,7 +12,7 @@ To qualify as a VOSB, one or more veterans must unconditionally and directly own
 
 (3) A right of first refusal granting the non-qualifying-veteran the contractual right to purchase the ownership interests of the qualifying veteran, does not affect the unconditional nature of ownership, if the terms follow normal commercial practices. If those rights are exercised by the non-qualifying-veteran, a Participant must notify SBA in accordance with § 128.307. If the exercise of those rights results in the qualifying veteran(s) owning less than 51% of the concern, SBA will initiate decertification pursuant to § 128.310.
 
-(c) *Ownership of a partnership.* In the case of a concern that is a partnership, at least 51% of aggregate voting interest must be unconditionally owned by one or more qualifying veterans. The ownership must be reflected in the concern's partnership agreement.
+(c) *Ownership of a partnership.* In the case of a concern which is a partnership, one or more qualifying veterans must serve as general partners, with control over all partnership decisions. At least 51 percent of every class of partnership interest must be unconditionally owned by one or more qualifying veterans. The ownership must be reflected in the concern's partnership agreement.
 
 (d) *Ownership of a limited liability company.* In the case of a concern which is a limited liability company, at least 51% of each class of member interest must be unconditionally owned by one or more qualifying veterans.
 
@@ -24,7 +22,7 @@ To qualify as a VOSB, one or more veterans must unconditionally and directly own
 
 (g) *Dividends and distributions.* One or more qualifying veterans must be entitled to receive:
 
-(1) At least 51 percent of the annual distribution of profits paid to the owners of a corporation, partnership, or limited liability company concern, and a qualifying veteran's ability to share in the profits of the concern must be commensurate with the extent of his/her ownership interest in that concern.
+(1) At least 51 percent of any distribution of profits paid to the owners of a corporation, partnership, or limited liability company concern, and a qualifying veteran's ability to share in the profits of the concern must be commensurate with the extent of his/her ownership interest in that concern.
 
 (2) 100 percent of the value of each share of stock owned by them in the event that the stock or member interest is sold;
 
@@ -49,3 +47,5 @@ To qualify as a VOSB, one or more veterans must unconditionally and directly own
 (iii) In the case of a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability, 10 years after the date of the death of the veteran; or
 
 (iv) In the case of a surviving spouse of a veteran with a service-connected disability rated as less than 100 percent disabling who does not die as a result of a service-connected disability, 3 years after the date of the death of the veteran.
+
+[87 FR 73412, Nov. 29, 2022, as amended at 89 FR 102508, Dec. 17, 2024]

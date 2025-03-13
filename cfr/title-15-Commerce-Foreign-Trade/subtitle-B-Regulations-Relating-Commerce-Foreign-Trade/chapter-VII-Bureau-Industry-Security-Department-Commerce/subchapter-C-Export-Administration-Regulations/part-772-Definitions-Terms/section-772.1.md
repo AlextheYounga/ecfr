@@ -2,6 +2,8 @@
 
 The following are definitions of terms as used in the Export Administration Regulations (EAR). In this part, references to the EAR are references to 15 CFR chapter VII, subchapter C. Those terms in quotation marks refer to terms used on the Commerce Control List (CCL) (supplement no. 1 to part 774 of the EAR). Parenthetical references following the terms in quotation marks (i.e., (Cat 5)) refer to the CCL category in which that term is found. If a term is used in only one Export Control Classification Number (ECCN) on the CCL, then that term will *not* appear in this part, but will be defined in the Related Definitions paragraph in the List of Items Controlled Section of that ECCN.
 
+*16/14 nanometer node (16/14 nm node)* is indicated in the Logic Industry “Node Range” figure described in the International Roadmap for Devices and Systems, 2016 edition (“More Moore” White Paper), available at: *https://irds.ieee.org/images/files/pdf/2016\_MM.pdf*).
+
 *600 series.* ECCNs in the “xY6zz” format on the Commerce Control List (CCL) that control items on the CCL that were previously controlled on the U.S. Munitions List or that are covered by the Wassenaar Arrangement Munitions List (WAML). The “6” indicates the entry is a munitions entry on the CCL. The “x” represents the CCL category and “Y” the CCL product group. The “600 series” constitutes the munitions ECCNs within the larger CCL.
 
 *600 Series Major Defense Equipment* or *MDE.* Any item listed in ECCN 9A610.a, 9A619.a, 9A619.b or 9A619.c, having a nonrecurring research and development cost of more than $50,000,000 or a total production cost of more than $200,000,000.
@@ -32,21 +34,25 @@ For the most current list of MDE, see Appendix 1, (Nonrecurring Cost Recoupment 
 
 (3) Dynamic random-access memory (DRAM) integrated circuits having:
 
-(i) A memory cell area of less than 0.0019 µm2; or
+(i) A memory cell area of less than 0.0026 µm2;
 
-(ii) A memory density greater than 0.288 gigabits per square millimeter.
+(ii) A memory density greater than 0.20 gigabits per square millimeter; or
+
+(iii) More than 3000 through-silicon vias per die.
 
 Note 1 to definition of “Advanced-Node Integrated Circuits”:
 
-For the purposes of paragraph (1) of this definition, the term technology node refers to the Logic Industry “Node Range” figure described in the International Roadmap for Devices and Systems, 2016 edition (“More Moore” White Paper), available at: https://irds.ieee.org/images/files/pdf/2016\_MM.pdf.
+*For the purposes of paragraph (1) of this definition, the term technology node refers to the Logic Industry “Node Range” figure described in the International Roadmap for Devices and Systems, 2016 edition (“More Moore” White Paper), available at: \>https://irds.ieee.org/images/files/pdf/2016\_MM.pdf.*
 
 Note 2 to definition of “Advanced-Node Integrated Circuits”:
 
-For the purposes of paragraph (3) of this definition, the term memory density refers to the capacity of the package or stack comprising the DRAM integrated circuit measured in gigabytes divided by the footprint of the package or stack measured in square millimeters. In the case where a stack is contained in a package, use the area of the package. Cell area is defined as Wordline\*Bitline (which takes into consideration both transistor and capacitor dimensions).
+*For the purposes of paragraph (3) of this definition, the term memory density refers to the capacity of the monolithic die, package, or stack comprising the DRAM integrated circuit measured in gigabits divided by the relevant area. For a monolithic die, the relevant area is the area of the die. For package or stack, the relevant area is the footprint of the package or stack measured in square millimeters. In the case where a stack is contained in a package, use the area of the package. Cell area is defined as Wordline\*Bitline (which takes into consideration both transistor and capacitor dimensions).*
 
 *Advisory Committee on Export Policy (ACEP).* The ACEP voting members include the Assistant Secretary of Commerce for Export Administration, and Assistant Secretary-level representatives from the Departments of State, Defense, Justice (for encryption exports), Energy, and the Arms Control and Disarmament Agency. The appropriate representatives of the Joint Chiefs of Staff and the Director of the Nonproliferation Center of the Central Intelligence Agency are non-voting members. The Assistant Secretary of Commerce for Export Administration is the Chair. Appropriate acting Assistant Secretary, Deputy Assistant Secretary or equivalent strength of any agency or department may serve in lieu of the Assistant Secretary of the concerned agency or department. Such representatives, regardless of rank, will speak and vote on behalf of their agencies or departments. The ACEP may invite Assistant Secretary-level representatives of other Government agencies or departments (other than those identified above) to participate in the activities of the ACEP when matters of interest to such agencies or departments are under consideration. Decisions are made by majority vote.
 
 *AES.* See “Automated Export System.”
+
+*Aggregated approximated transistor count* means the sum of the 'approximated transistor counts,' as defined in Note 1 to 3A090.a, of each “applicable advanced logic integrated circuit” die within the final package fabricated using a “16/14 nanometer node” or below, or using a non-planar transistor architecture.
 
 *Agricultural commodities.* Agricultural commodities include food (including processed food); feed; fish; shellfish and fish products; beer, wine and spirits; livestock; fiber including cotton, wool and other fibers; tobacco and tobacco products; wood and wood products; seeds; fertilizer and organic fertilizer; reproductive materials such as fertilized eggs, embryos and semen. For the purposes of the EAR, agricultural commodities do not include furniture made from wood; clothing manufactured from plant or animal materials; agricultural equipment (whether hand tools or motorized equipment); pesticides, insecticides, or herbicides; or cosmetics (unless derived entirely from plant materials).
 
@@ -81,6 +87,8 @@ Additional and alternative allocations are not included.
 *Angular position deviation.* (Cat 2)—The maximum difference between angular position and the actual, very accurately measured angular position after the workpiece mount of the table has been turned out of its initial position. (Reference: VDI/VDE 2617, Draft: “Rotary tables on coordinate measuring machines”).
 
 *“APP”* See “Adjusted Peak Performance.” This term may also appear without quotation marks.
+
+*Applicable advanced logic integrated circuits* are logic integrated circuits produced using the “16/14 nanometer node” or below, or using a non-planar transistor architecture.
 
 *Applicant.* The person who applies for an export or reexport license, and who has the authority of a principal party in interest to determine and control the export or reexport of items. See § 748.4 of the EAR and definition for “exporter” in this part of the EAR.
 
@@ -476,6 +484,8 @@ This definition does not include a stack of single detector elements or any two,
 
 (2) ±0.1 part per million of a final specified output frequency equal to or greater than 1 GHz.
 
+*Front-end fabricator* is the company that provides front-end fabrication services to produce an integrated circuit, creating circuits on the surface of a wafer through processes such as photolithography, etch, and deposition.
+
 *Fuel cell.* (Cat 8) An electrochemical device that converts chemical energy directly into Direct Current (DC) electricity by consuming fuel from an external source.
 
 *Full Authority Digital Engine Control Systems.* (“FADEC Systems”) (Cat 9) A digital electronic control system for a gas turbine engine that is able to autonomously control the engine throughout its whole operating range from demanded engine start until demanded engine shut down, in both normal and fault conditions.
@@ -853,6 +863,8 @@ Note:
 *Organization for the Prohibition of Chemical Weapons (OPCW).* Means the international organization, located in The Hague, Netherlands, that administers the Chemical Weapons Convention.
 
 *Other party authorized to receive license.* The person authorized by the applicant to receive the license. If a person and address is listed in Block 15 of the application, the Bureau of Industry and Security will send the license to that person instead of the applicant. Designation of another party to receive the license does not alter the responsibilities of the applicant, licensee or exporter.
+
+*Outsourced Semiconductor Assembly and Test (OSAT)* is a company that provides third-party manufacturing and testing services to semiconductor businesses. OSAT companies are responsible for assembling, packaging, and testing integrated circuits and other semiconductor devices.
 
 *Overall current density.* (Cat 3)—The total number of ampere-turns in the coil (i.e., the sum of the number of turns multiplied by the maximum current carried by each turn) divided by the total cross-section of the coil (comprising the superconducting filaments, the metallic matrix in which the superconducting filaments are embedded, the encapsulating material, any cooling channels, etc.).
 

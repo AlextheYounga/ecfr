@@ -16,7 +16,7 @@
 
 (4) No equipment or materials used in transporting the swine from which the pork or pork products were derived from the farm of origin to the slaughtering establishment may have been used previously for transporting swine that do not meet the requirements of this section, unless the equipment and materials have first been cleaned and disinfected.
 
-(5) The pork and pork products must be accompanied by a certificate issued by an official of the competent veterinary authority who is authorized to issue the foreign meat inspection certificate required by § 327.4 of this title, stating that the applicable provisions of paragraphs (a)(1) through (a)(4) of this section have been met. 19
+(5) The pork and pork products must be accompanied by a certificate issued by an official of the competent veterinary authority who is authorized to issue the foreign meat inspection certificate required by § 327.4 of this title, stating that the applicable provisions of paragraphs (a)(1) through (a)(4) of this section have been met.19
 
 19 The certification required may be placed on the foreign meat inspection certificate required by § 327.4 of this title or may be contained in a separate document.
 
@@ -38,7 +38,7 @@
 
 (5) No equipment or materials used in transporting the swine may have been used previously for transporting swine that do not meet the requirements of this section, unless the equipment and materials have first been cleaned and disinfected.
 
-(6) The swine must be accompanied by a certificate issued by a salaried veterinary officer of the competent veterinary authority, stating that the conditions of paragraphs (b)(1) through (b)(5) of this section have been met. 20
+(6) The swine must be accompanied by a certificate issued by a salaried veterinary officer of the competent veterinary authority, stating that the conditions of paragraphs (b)(1) through (b)(5) of this section have been met.20
 
 20 The certification required may be placed on the certificate required by § 93.505(a) of this chapter or may be contained in a separate document
 

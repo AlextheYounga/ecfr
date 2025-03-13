@@ -6,11 +6,11 @@
 
 (c) The certificate shall bear the insignia of the national government of the region in which the animals were slaughtered and the casings were collected, and shall be in the following form:
 
-foreign official certificate for animal casings Place (City) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Region) \_\_\_\_\_\_\_\_ (Date) \_\_\_\_\_\_\_\_
+foreign official certificate for animal casingsPlace (City) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Region) \_\_\_\_\_\_\_\_ (Date) \_\_\_\_\_\_\_\_
 
 I hereby certify that the animal casings herein described were derived from healthy animals (cattle, sheep, swine, or goats), which received, ante mortem and post mortem veterinary inspections at the time of slaughter, are clean and sound, and were prepared and handled only in a sanitary manner and were not subjected to contagion prior to exportation.
 
-Kind of casings Number of packages Weight Identification marks on the packages Consignor (Address) Consignee (Destination) Shipping marks Signature:Official issuing the certificate. (Non-government veterinarian authorized to issue the certificate by the national government of the region in which the animals were slaughtered and the casings were collected.)Official title:Signature:Official issuing the certificate. (Veterinarian salaried by the national government of the region in which the animals were slaughtered and the casings were collected.)Official title:
+Kind of casingsNumber of packagesWeightIdentification marks on the packagesConsignor(Address)Consignee(Destination)Shipping marksSignature:Official issuing the certificate. (Non-government veterinarian authorized to issue the certificate by the national government of the region in which the animals were slaughtered and the casings were collected.)Official title:Signature:Official issuing the certificate. (Veterinarian salaried by the national government of the region in which the animals were slaughtered and the casings were collected.)Official title:
 
 (d) In addition to meeting the requirements of this section, the certificate accompanying sheep casings from Canada must state that the casings meet the requirements of § 96.2(b) and the certificate accompanying bovine casings must state that the casings meet the requirements of either § 96.2(c)(1) or (c)(2) as applicable.
 

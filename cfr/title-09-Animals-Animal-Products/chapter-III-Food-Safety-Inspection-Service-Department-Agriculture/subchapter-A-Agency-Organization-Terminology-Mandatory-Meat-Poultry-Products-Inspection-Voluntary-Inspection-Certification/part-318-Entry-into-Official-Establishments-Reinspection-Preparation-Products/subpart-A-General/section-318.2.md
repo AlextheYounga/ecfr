@@ -4,7 +4,7 @@
 
 (b) All products, whether fresh, cured, or otherwise prepared, even though previously inspected and passed, shall be reinspected by Program employees as often as they may deem necessary in order to ascertain that they are not adulterated or misbranded at the time they enter or leave official establishments and that the requirements of the regulations in this subchapter are complied with.
 
-(c) Reinspection may be accomplished through use of statistically sound sampling plans that assure a high level of confidence. The circuit supervisor shall designate the type of plan and the program employee shall select the specific plan to be used in accordance with instructions issued by the Administrator. 1
+(c) Reinspection may be accomplished through use of statistically sound sampling plans that assure a high level of confidence. The circuit supervisor shall designate the type of plan and the program employee shall select the specific plan to be used in accordance with instructions issued by the Administrator.1
 
 1 Further information concerning sampling plans which have been adopted for specific products may be obtained from the Circuit Supervisors of Program circuits. These sampling plans are developed for individual products by the Washington staff and will be distributed for field use as they are developed. The type of plan applicable depends on factors such as whether the product is in containers, stage of preparation, and procedures followed by the establishment operator. The specific plan applicable depends on the kind of product involved, such as liver, oxtails, etc.
 

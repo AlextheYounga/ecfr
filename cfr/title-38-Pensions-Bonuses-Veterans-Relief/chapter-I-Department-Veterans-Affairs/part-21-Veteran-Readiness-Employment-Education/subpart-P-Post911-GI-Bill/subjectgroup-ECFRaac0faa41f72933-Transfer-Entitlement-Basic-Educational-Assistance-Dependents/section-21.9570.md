@@ -1,5 +1,7 @@
 ##### § 21.9570 Transfer of entitlement. #####
 
+Link to an amendment published at 90 FR 5339, Jan. 16, 2025.
+
 An individual entitled to educational assistance under 38 U.S.C. chapter 33 based on his or her own active duty service, and who is approved by a service department to transfer entitlement, may transfer up to a total of 36 months of his or her entitlement to a dependent (or among dependents). A transferor may not transfer an amount of entitlement that is greater than the entitlement he or she has available at the time of transfer.
 
 (a) *Application of sections in subpart P to individuals in receipt of transferred entitlement.* In addition to the rules in this section, the following sections apply to a dependent in the same manner as they apply to the individual from whom entitlement was transferred.

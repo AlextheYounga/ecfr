@@ -98,7 +98,7 @@
 
 (E) The food-contact surfaces of all equipment and utensils shall be sanitized by:
 
-(*1*) Immersion for at least 1/2 minute in clean, hot water at a temperature of at least 170 °F; or
+(*1*) Immersion for at least1/2 minute in clean, hot water at a temperature of at least 170 °F; or
 
 (*2*) Immersion for at least 1 minute in a clean solution containing at least 50 parts per million of available chlorine as a hypochlorite and at a temperature of at least 75 °F; or
 
@@ -122,7 +122,7 @@
 
 (ii) *Mechanical cleaning and sanitizing.* (A) Cleaning and sanitizing may be done by spray-type or immersion dishwashing machines or by any other type of machine or device if it is demonstrated that it thoroughly cleans and sanitizes equipment and utensils. These machines and devices shall be properly installed and maintained in good repair. Machines and devices shall be operated in accordance with manufacturers' instructions, and utensils and equipment placed in the machine shall be exposed to all dishwashing cycles. Automatic detergent dispensers, wetting agent dispensers, and liquid sanitizer injectors, if any, shall be properly installed and maintained.
 
-(B) The pressure of final rinse water supplied to spray-type dishwashing machines shall not be less than 15 nor more than 25 pounds per square inch measured in the water line immediately adjacent to the final rinse control valve. A 1/4-inch IPS valve shall be provided immediately upstream from the final rinse control valve to permit checking the flow pressure of the final rinse water.
+(B) The pressure of final rinse water supplied to spray-type dishwashing machines shall not be less than 15 nor more than 25 pounds per square inch measured in the water line immediately adjacent to the final rinse control valve. A1/4-inch IPS valve shall be provided immediately upstream from the final rinse control valve to permit checking the flow pressure of the final rinse water.
 
 (C) Machine or water line mounted numerically scaled indicating thermometers, accurate to ±3 °F, shall be provided to indicate the temperature of the water in each tank of the machine and the temperature of the final rinse water as it enters the manifold.
 
@@ -152,23 +152,23 @@
 
 (*1*) Single-tank, stationary-rack, dual-temperature machine:
 
-Wash temperature 150 °F Final rinse temperature 180 °F
+Wash temperature 150 °FFinal rinse temperature 180 °F
 
 (*2*) Single-tank, stationary-rack, single-temperature machine:
 
-Wash temperature 165 °F Final rinse temperature 165 °F
+Wash temperature 165 °FFinal rinse temperature 165 °F
 
 (*3*) Single-tank, conveyor machine:
 
-Wash temperature 160 °F Final rinse temperature 180 °F
+Wash temperature 160 °FFinal rinse temperature 180 °F
 
 (*4*) Multitank, conveyor machine:
 
-Wash temperature 150 °F Pumped rinse temperature 160 °F Final rinse temperature 180 °F
+Wash temperature 150 °FPumped rinse temperature 160 °FFinal rinse temperature 180 °F
 
 (*5*) Single-tank, pot, pan, and utensil washer (either stationary or moving-rack):
 
-Wash temperature 140 °F Final rinse temperature 180 °F
+Wash temperature 140 °FFinal rinse temperature 180 °F
 
 (I) All dishwashing machines shall be thoroughly cleaned at least once a day or more often when necessary to maintain them in a satisfactory operating condition.
 

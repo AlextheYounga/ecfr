@@ -1,7 +1,5 @@
 ##### § 125.3 What types of subcontracting assistance are available to small businesses? #####
 
-Link to an amendment published at 89 FR 102491, Dec. 17, 2024.
-
 (a) *General.* The purpose of the subcontracting assistance program is to provide the maximum practicable subcontracting opportunities for small business concerns, including small business concerns owned and controlled by veterans, certified small business concerns owned and controlled by service-disabled veterans, certified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women. The subcontracting assistance program implements section 8(d) of the Small Business Act, which includes the requirement that, unless otherwise exempt, other than small business concerns awarded contracts that offer subcontracting possibilities by the Federal Government in excess of $750,000, or in excess of $1,500,000 for construction of a public facility, must submit a subcontracting plan to the appropriate contracting agency. The Federal Acquisition Regulation sets forth the requirements for subcontracting plans in 48 CFR 19.7, and the clause at 48 CFR 52.219-9.
 
 (1) Subcontract under this section means a legally binding agreement between a contractor that is already under contract to another party to perform work and a third party (other than one involving an employer-employee relationship), hereinafter referred to as the subcontractor, for the subcontractor to perform a part or all of the work that the contractor has undertaken.
@@ -34,6 +32,8 @@ Link to an amendment published at 89 FR 102491, Dec. 17, 2024.
 
 (3) A prime contractor has a history of unjustified untimely or reduced payments to subcontractors if the prime contractor has reported itself to a contracting officer in accordance with paragraph (c)(5) of this section on three occasions within a 12 month period.
 
+(4) For subcontracting purposes, a concern must qualify as a small business concern and a socioeconomic small business concern as of the date that it certifies that it is small or that it qualifies as a socioeconomic small business concern for the subcontract.
+
 (b) *Responsibilities of prime contractors.* (1) Prime contractors (including small business prime contractors) selected to receive a Federal contract that exceeds the simplified acquisition threshold, that will not be performed entirely outside of any state, territory, or possession of the United States, the District of Columbia, or the Commonwealth of Puerto Rico, and that is not for services which are personal in nature, are responsible for ensuring that small business concerns have the maximum practicable opportunity to participate in the performance of the contract, including subcontracts for subsystems, assemblies, components, and related services for major systems, consistent with the efficient performance of the contract.
 
 (2) A small business cannot be required to submit a formal subcontracting plan or be asked to submit a formal subcontracting plan, a small-business prime contractor is encouraged to provide maximum practicable opportunity to other small businesses to participate in the performance of the contract, consistent with the efficient performance of the contract. This applies whether the firm qualifies as a small business concern for the size standard corresponding to the NAICS code assigned to the contract, or is deemed to be treated as a small business concern by statute (*see e.g.,* 43 U.S.C. 1626(e)(4)(B)).
@@ -57,6 +57,8 @@ Link to an amendment published at 89 FR 102491, Dec. 17, 2024.
 (viii) Utilizing the available services of small business associations; local, state, and Federal small business assistance offices; and other organizations; and
 
 (ix) Participating in a formal mentor-protégé program with one or more small-business protégés that results in developmental assistance to the protégés.
+
+(4) Except for HUBZone and SDVO small business subcontractors, a prime contractor may rely on the socioeconomic self-certification of a subcontractor provided the prime contractor does not have a reason to doubt the subcontractor's self-certification.
 
 (c) *Additional responsibilities of other than small contractors.* (1) In addition to the responsibilities provided in paragraph (b) of this section, a prime contractor selected for award of a contract or contract modification that exceeds $750,000, or $1,500,000 in the case of construction of a public facility, is responsible for the following:
 
@@ -132,9 +134,9 @@ Link to an amendment published at 89 FR 102491, Dec. 17, 2024.
 
 (d) *Contracting officer responsibilities.* The contracting officer (or administrative contracting officer if specifically delegated in writing to accomplish this task) is responsible for evaluating the prime contractor's compliance with its subcontracting plan, including:
 
-(1) Ensuring that all contractors submit their subcontracting reports into the eSRS (or any successor system) or, if applicable, the SF-294, Subcontracting Report for Individual Contracts, within 30 days after the report ending date (e.g., by October 30th for the fiscal year ended September 30th).
+(1) Ensuring that all contractors submit their subcontracting reports into the eSRS (or any successor system) or, if applicable, the SF-294, Subcontracting Report for Individual Contracts, within 45 days after the report ending date (e.g., by November 14th for the fiscal year ended September 30th).
 
-(2) Reviewing all ISRs, and where applicable, SSRs, in eSRS (or any successor system) within 60 days of the report ending date (e.g., by November 30th for a report submitted for the fiscal year ended September 30th) and either accepting or rejecting the reports in accordance with the Federal Acquisition Regulation (FAR) provisions set forth in 48 CFR subpart 19.7, 52.219-9, and the eSRS instructions (*www.esrs.gov*). The authority to acknowledge or reject SSRs for commercial plans resides with the contracting officer who approved the commercial plan. If a report is rejected, the contracting officer must provide an explanation for the rejection to allow prime contractors the opportunity to respond specifically to perceived deficiencies.
+(2) Reviewing all ISRs, and where applicable, SSRs, in eSRS (or any successor system) within 75 days of the report ending date (e.g., by December 14th for a report submitted for the fiscal year ended September 30th) and either accepting or rejecting the reports in accordance with the Federal Acquisition Regulation (FAR) provisions set forth in 48 CFR subpart 19.7, 52.219-9, and the eSRS instructions (*www.esrs.gov*). The authority to acknowledge or reject SSRs for commercial plans resides with the contracting officer who approved the commercial plan. If a report is rejected, the contracting officer must provide an explanation for the rejection to allow prime contractors the opportunity to respond specifically to perceived deficiencies.
 
 (3) Evaluating whether the prime contractor made a good faith effort to comply with its small business subcontracting plan.
 
@@ -262,4 +264,4 @@ Link to an amendment published at 89 FR 102491, Dec. 17, 2024.
 
 (3) For significant subcontracting opportunities in consolidated contracts, bundled requirements, and substantially bundled requirements, *see* § 125.2(d)(4).
 
-[69 FR 75824, Dec. 20, 2004, as amended at 74 FR 46887, Sept. 14, 2009; 78 FR 42403, July 16, 2013; 78 FR 59798, Sept. 30, 2013; 78 FR 61142, Oct. 2, 2013; 81 FR 34262, May 31, 2016; 81 FR 94250, Dec. 23, 2016; 83 FR 12852, Mar. 26, 2018; 84 FR 65239, Nov. 26, 2019; 84 FR 65663, Nov. 29, 2019; 85 FR 66192, Oct. 16, 2020; 86 FR 61672, Nov. 8, 2021; 87 FR 43739, July 22, 2022; 88 FR 26210, Apr. 27, 2023; 88 FR 70343, Oct. 11, 2023; 89 FR 48269, June 6, 2024]
+[69 FR 75824, Dec. 20, 2004, as amended at 74 FR 46887, Sept. 14, 2009; 78 FR 42403, July 16, 2013; 78 FR 59798, Sept. 30, 2013; 78 FR 61142, Oct. 2, 2013; 81 FR 34262, May 31, 2016; 81 FR 94250, Dec. 23, 2016; 83 FR 12852, Mar. 26, 2018; 84 FR 65239, Nov. 26, 2019; 84 FR 65663, Nov. 29, 2019; 85 FR 66192, Oct. 16, 2020; 86 FR 61672, Nov. 8, 2021; 87 FR 43739, July 22, 2022; 88 FR 26210, Apr. 27, 2023; 88 FR 70343, Oct. 11, 2023; 89 FR 48269, June 6, 2024; 89 FR 102491, Dec. 17, 2024]

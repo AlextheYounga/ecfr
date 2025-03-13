@@ -56,11 +56,11 @@ Volume = SA × 9
 
 (7) All SWTD programs shall limit interaction between cetaceans and humans so that the interaction does not harm the cetaceans, does not remove the element of choice from the cetaceans by actions such as, but not limited to, recalling the animal from the sanctuary area, and does not elicit unsatisfactory, undesirable, or unsafe behaviors from the cetaceans. All SWTD programs shall prohibit grasping or holding of the cetacean's body, unless under the direct and explicit instruction of an attendant eliciting a specific cetacean behavior, and shall prevent the chasing or other harassment of the cetaceans.
 
-(8) In cases where cetaceans used in an interactive session exhibit unsatisfactory, undesirable, or unsafe behaviors, including, but not limited to, charging, biting, mouthing, or sexual contact with humans, such cetaceans shall either be removed from the interactive area or the session shall be terminated. Written criteria shall be developed by each SWTD program, and shall be submitted to and approved by APHIS 11 regarding conditions and procedures for maintaining compliance with paragraph (e)(4) of this section; for the termination of a session when removal of a cetacean is not possible; and regarding criteria and protocols for handling program animal(s) exhibiting unsatisfactory, undesirable, or unsafe behaviors, including retraining time and techniques, and removal from the program and/or facility, if appropriate. The head trainer/behaviorist shall determine when operations will be terminated, and when they may resume. In the absence of the head trainer/behaviorist, the determination to terminate a session shall be made by the trainer/supervising attendant. Only the head trainer/behaviorist may determine when a session may be resumed.
+(8) In cases where cetaceans used in an interactive session exhibit unsatisfactory, undesirable, or unsafe behaviors, including, but not limited to, charging, biting, mouthing, or sexual contact with humans, such cetaceans shall either be removed from the interactive area or the session shall be terminated. Written criteria shall be developed by each SWTD program, and shall be submitted to and approved by APHIS11 regarding conditions and procedures for maintaining compliance with paragraph (e)(4) of this section; for the termination of a session when removal of a cetacean is not possible; and regarding criteria and protocols for handling program animal(s) exhibiting unsatisfactory, undesirable, or unsafe behaviors, including retraining time and techniques, and removal from the program and/or facility, if appropriate. The head trainer/behaviorist shall determine when operations will be terminated, and when they may resume. In the absence of the head trainer/behaviorist, the determination to terminate a session shall be made by the trainer/supervising attendant. Only the head trainer/behaviorist may determine when a session may be resumed.
 
 11 Send to Administrator, c/o Animal and Plant Health Inspection Service, Animal Care, 4700 River Road Unit 84, Riverdale, Maryland 20737-1234.
 
-(f) *Recordkeeping.* (1) Each facility shall provide APHIS 12 with a description of its program at least 30 days prior to initiation of the program, or in the case of any program in place before September 4, 1998, not later than October 5, 1998. The description shall include at least the following:
+(f) *Recordkeeping.* (1) Each facility shall provide APHIS12 with a description of its program at least 30 days prior to initiation of the program, or in the case of any program in place before September 4, 1998, not later than October 5, 1998. The description shall include at least the following:
 
 12 See footnote 11 in § 3.111(e)(8).
 
@@ -98,11 +98,11 @@ Volume = SA × 9
 
 (ii) A statistical summary of the number of human participants per month in the SWTD program; and
 
-(6) A description of any changes made in the SWTD program, which shall be submitted to APHIS 13 on a semi-annual basis.
+(6) A description of any changes made in the SWTD program, which shall be submitted to APHIS13 on a semi-annual basis.
 
 13 See footnote 11 in § 3.111(e)(8).
 
-(7) All incidents resulting in injury to either cetaceans or humans participating in an interactive session, which shall be reported to APHIS within 24 hours of the incident. 14 Within 7 days of any such incident, a written report shall be submitted to the Administrator. 15 The report shall provide a detailed description of the incident and shall establish a plan of action for the prevention of further occurrences.
+(7) All incidents resulting in injury to either cetaceans or humans participating in an interactive session, which shall be reported to APHIS within 24 hours of the incident.14 Within 7 days of any such incident, a written report shall be submitted to the Administrator.15 The report shall provide a detailed description of the incident and shall establish a plan of action for the prevention of further occurrences.
 
 14 Telephone numbers for APHIS, Animal Care, regional offices can be found in local telephone books.
 
@@ -112,7 +112,7 @@ Volume = SA × 9
 
 (2) The attending veterinarian shall observe an interactive swim session at the SWTD site at least once each month.
 
-(3) The attending veterinarian shall conduct a complete physical examination of each cetacean at least once every 6 months. The examination shall include a profile of the cetacean, including the cetacean's identification (name and/or number, sex, and age), weight, 16 length, axillary girth, appetite, and behavior. The attending veterinarian shall also conduct a general examination to evaluate body condition, skin, eyes, mouth, blow hole and cardio-respiratory system, genitalia, and feces (gastrointestinal status). The examination shall also include a complete blood count and serum chemistry analysis. Fecal and blow hole smears shall be obtained for cytology and parasite evaluation.
+(3) The attending veterinarian shall conduct a complete physical examination of each cetacean at least once every 6 months. The examination shall include a profile of the cetacean, including the cetacean's identification (name and/or number, sex, and age), weight,16 length, axillary girth, appetite, and behavior. The attending veterinarian shall also conduct a general examination to evaluate body condition, skin, eyes, mouth, blow hole and cardio-respiratory system, genitalia, and feces (gastrointestinal status). The examination shall also include a complete blood count and serum chemistry analysis. Fecal and blow hole smears shall be obtained for cytology and parasite evaluation.
 
 16 Weight may be measured either by scale or calculated using the following formulae:
 

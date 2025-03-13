@@ -8,7 +8,7 @@
 
 (ii) The DPP® test is a primary test that may be used in affected herds of captive elk, red deer, white-tailed deer, fallow deer, and reindeer, and in herds of these species that have received captive cervids from an affected herd. In such herds, each captive cervid that has non-negative test results to the DPP® test will be classified as a reactor, unless APHIS determines that the captive cervid should be classified as a suspect because of possible exposure to a tuberculous animal.
 
-(b) *Supplemental tests*—(1) *Comparative cervical tuberculin (CCT) test.* (i) The CCT test is a supplemental test that may only be used in order to retest captive cervids that have been classified as suspects after being tested with the SCT test. The CCT test may be used in affected herds only after the herd has tested negative to at least two whole herd SCT tests and only with the prior written consent of APHIS. The CCT test may not be used as a primary test.
+(b) *Supplemental tests*—(1) *Comparative cervical tuberculin (CCT) test.*(i) The CCT test is a supplemental test that may only be used in order to retest captive cervids that have been classified as suspects after being tested with the SCT test. The CCT test may be used in affected herds only after the herd has tested negative to at least two whole herd SCT tests and only with the prior written consent of APHIS. The CCT test may not be used as a primary test.
 
 (ii) A captive cervid tested with the CCT test must be classified as negative if it has a response to the bovine PPD tuberculin that is less than 1 mm.
 

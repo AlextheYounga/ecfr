@@ -1,5 +1,7 @@
 ##### § 21.9625 Beginning dates. #####
 
+Link to an amendment published at 90 FR 5341, Jan. 16, 2025.
+
 VA will determine the beginning date of an award or increased award of educational assistance under this section, but in no case will the beginning date be earlier than August 1, 2009. When more than one paragraph in this section applies, VA will award educational assistance using the latest of the applicable beginning dates.
 
 (Authority: 38 U.S.C. 3313, 3316, 3323(a), 5110, 5111, 5113)

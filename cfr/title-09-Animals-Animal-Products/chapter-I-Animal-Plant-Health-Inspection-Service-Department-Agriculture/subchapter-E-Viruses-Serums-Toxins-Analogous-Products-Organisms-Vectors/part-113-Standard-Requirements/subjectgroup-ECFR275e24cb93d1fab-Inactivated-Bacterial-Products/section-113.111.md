@@ -10,7 +10,7 @@ Clostridium Perfringens Type C Toxoid and Clostridium Perfringens Type C Bacteri
 
 (1) When used in this test, the following words and terms shall mean:
 
-(i) *International antitoxin unit.* (I.U.) That quantity of Beta Antitoxin which reacts with L 0 and L + doses of Standard Toxin according to their definitions.
+(i) *International antitoxin unit.* (I.U.) That quantity of Beta Antitoxin which reacts with L 0 and L+ doses of Standard Toxin according to their definitions.
 
 (ii) *L*0 dose. The largest quantity of toxin which can be mixed with one unit of Standard Antitoxin and not cause sickness or death in injected mice.
 

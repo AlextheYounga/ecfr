@@ -2,4 +2,4 @@
 
 Each market agency shall, promptly following the purchase of livestock on a commission or agency basis, transmit or deliver to the person for whose account such purchase was made, or the duly authorized agent, a true written account of the purchase showing the number, weight, and price of each kind of animal purchased, the names of the persons from whom purchased, the date of purchase, the commission and other lawful charges, and such other facts as may be necessary to complete the account and show fully the true nature of the transaction.
 
-(Approved by the Office of Management and Budget under control number 0580-0015)(7 U.S.C. 181 *et seq.*) [44 FR 45360, Aug. 2, 1979, as amended at 54 FR 26349, June 23, 1989; 68 FR 75388, Dec. 31, 2003]
+(Approved by the Office of Management and Budget under control number 0580-0015)(7 U.S.C. 181 *et seq.*)[44 FR 45360, Aug. 2, 1979, as amended at 54 FR 26349, June 23, 1989; 68 FR 75388, Dec. 31, 2003]

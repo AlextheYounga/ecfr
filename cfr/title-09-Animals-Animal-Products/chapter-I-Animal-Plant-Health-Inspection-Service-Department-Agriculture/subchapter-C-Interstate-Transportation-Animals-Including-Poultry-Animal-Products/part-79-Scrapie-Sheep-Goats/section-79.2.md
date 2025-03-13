@@ -2,7 +2,7 @@
 
 (a) No sheep or goat that is required to be individually identified or group identified by § 79.3 may be sold, disposed of, acquired, exhibited, transported, received for transportation, offered for sale or transportation, loaded, unloaded, or otherwise handled in interstate commerce or commingled with such animals or be loaded or unloaded at a premises or animal concentration point (including premises that exhibit animals) where animals are received that have been in interstate commerce or from which animals are moved in interstate commerce unless each sheep or goat has been identified in accordance with this section.
 
-(1) The sheep or goat must be identified to its flock of origin and to its flock of birth 4 by the owner of the animal or his or her agent, at whichever of the following points in interstate commerce comes first:
+(1) The sheep or goat must be identified to its flock of origin and to its flock of birth4 by the owner of the animal or his or her agent, at whichever of the following points in interstate commerce comes first:
 
 4 You need not identify an animal to its flock of birth or its flock of origin if this information is unknown because the animal changed ownership while it was exempted from flock of origin identification requirements in accordance with § 79.6(a)(12). Such animals may be moved interstate with individual animal identification that is only traceable to the State of origin and to the owner of the animals at the time they were so identified. To use this exemption the person applying the identification must have supporting documentation indicating that the animals were born and had resided throughout their life in the State.
 

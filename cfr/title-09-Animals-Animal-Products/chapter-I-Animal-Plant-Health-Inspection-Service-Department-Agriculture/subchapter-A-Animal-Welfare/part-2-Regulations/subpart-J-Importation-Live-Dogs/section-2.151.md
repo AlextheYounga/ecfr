@@ -16,7 +16,7 @@
 
 (vi) Bears the signature and the license number of the veterinarian issuing the certificate.
 
-(2) *Rabies vaccination certificate.* Each dog is accompanied by a valid rabies vaccination certificate 6 that was issued in English by a licensed veterinarian with a valid license to practice veterinary medicine in the country of export for the dog not less than 3 months of age at the time of vaccination that:
+(2) *Rabies vaccination certificate.* Each dog is accompanied by a valid rabies vaccination certificate6 that was issued in English by a licensed veterinarian with a valid license to practice veterinary medicine in the country of export for the dog not less than 3 months of age at the time of vaccination that:
 
 6 Alternatively, this requirement can be met by providing an exact copy of the rabies vaccination certificate if so required under the Public Health Service regulations in 42 CFR 71.51.
 

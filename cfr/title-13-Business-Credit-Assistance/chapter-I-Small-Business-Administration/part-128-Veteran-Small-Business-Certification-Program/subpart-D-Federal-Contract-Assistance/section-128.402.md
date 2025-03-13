@@ -1,8 +1,6 @@
 ##### § 128.402 When may a joint venture submit an offer on a VOSB or SDVOSB contract? #####
 
-Link to an amendment published at 89 FR 102510, Dec. 17, 2024.
-
-(a) *General.* A certified VOSB or SDVOSB may enter into a joint venture agreement with one or more other small business concerns, or with an approved mentor authorized by § 125.9 of this chapter, for the purpose of submitting an offer for a VOSB or SDVOSB contract. The joint venture itself need not be a certified VOSB or SDVOSB. Where this section references the requirements of a VOSB or SDVOSB joint venture partner, the VOSB or SDVOSB status of that joint venture partner must correspond with the type of award (*e.g.,* to be eligible for a SDVOSB contract, a SDVOSB joint venture partner must be the managing venturer of the joint venture).
+(a) *General.* A certified VOSB or SDVOSB may enter into a joint venture agreement with one or more other small business concerns, or with an approved mentor authorized by § 125.9 of this chapter, for the purpose of submitting an offer for a VOSB or SDVOSB contract. SBA does not certify VOSB or SDVOSB joint ventures, but the joint venture should be designated as a VOSB or SDVOSB joint venture in SAM with the VOSB or SDVOSB-certified joint venture partner identified. Where this section references the requirements of a VOSB or SDVOSB joint venture partner, the VOSB or SDVOSB status of that joint venture partner must correspond with the type of award (*e.g.,* to be eligible for a SDVOSB contract, a SDVOSB joint venture partner must be the managing venturer of the joint venture).
 
 (1) The VOSB or SDVOSB joint venture partner must be certified in accordance with this part;
 
@@ -92,4 +90,6 @@ Link to an amendment published at 89 FR 102510, Dec. 17, 2024.
 
 (3) Failure to submit the certification required by paragraph (e) of this section or comply with paragraph (h) of this section.
 
-[87 FR 73412, Nov. 29, 2022, as amended at 88 FR 26216, Apr. 27, 2023; 88 FR 42593, July 3, 2023]
+(k) *Non-VOSB/SDVOSB contracts.* On a non-VOSB/SDVOSB contract, for an award to a joint venture to be considered awarded to a VOSB or SDVOSB (*i.e.,* for a procuring agency to receive VOSB or SDVOSB credit for goaling purposes), the joint venture awardee must comply with the requirements of this section and § 125.8.
+
+[87 FR 73412, Nov. 29, 2022, as amended at 88 FR 26216, Apr. 27, 2023; 88 FR 42593, July 3, 2023; 89 FR 102510, Dec. 17, 2024]

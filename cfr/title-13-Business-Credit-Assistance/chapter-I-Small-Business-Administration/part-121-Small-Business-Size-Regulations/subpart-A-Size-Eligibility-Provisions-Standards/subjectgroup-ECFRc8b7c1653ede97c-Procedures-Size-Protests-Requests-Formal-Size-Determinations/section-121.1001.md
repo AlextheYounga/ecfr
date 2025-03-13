@@ -1,7 +1,5 @@
 ##### § 121.1001 Who may initiate a size protest or request a formal size determination? #####
 
-Link to an amendment published at 89 FR 102486, Dec. 17, 2024.
-
 (a) *Size Status Protests.* (1) For SBA's Small Business Set-Aside Program, including the Property Sales Program, or any instance in which a procurement or order has been restricted to or reserved for small businesses or a particular group of small businesses (including a partial set-aside), the following entities may file a size protest in connection with a particular procurement, sale or order:
 
 (i) Any offeror that the contracting officer has not eliminated from consideration for any procurement-related reason, such as non-responsiveness, technical unacceptability or outside of the competitive range;
@@ -86,6 +84,28 @@ Link to an amendment published at 89 FR 102486, Dec. 17, 2024.
 
 (iv) The Director, Office of Government Contracting, or designee, or the Associate General Counsel for Procurement Law.
 
+(10) For orders set-aside for small business, women-owned small business, service-disabled veteran-owned small business, or HUBZone small business under an unrestricted multiple award contract or such orders issued under any type of small business multiple award contract where a contracting officer has requested a size recertification, the following entities may file a size protest:
+
+(i) Any offeror that the contracting officer has not eliminated from consideration for any procurement-related reason, such as non-responsiveness, technical unacceptability or outside of the competitive range;
+
+(ii) The contracting officer;
+
+(iii) The SBA Government Contracting Area Director having responsibility for the area in which the headquarters of the protested offeror is located, regardless of the location of a parent company or affiliates, the SBA program manager relating to the order at issue (*i.e.,* the Director of Government Contracting, the Associate Administrator for Business Development, or the Director of HUBZone, as appropriate), or the Associate General Counsel for Procurement Law.
+
+(11) In connection with a size recertification relating to a contract required by § 125.12 of this chapter, the following entities may file a size protest challenging the recertification:
+
+(a) Any contract holder on that multiple award contract;
+
+(b) The contracting officer; or
+
+(c) The SBA program manager relating to the contract at issue (*i.e.,* the Director of Government Contracting, the Associate Administrator for Business Development, or the Director of HUBZone, as appropriate), or the Associate General Counsel for Procurement Law.
+
+(12) In connection with a size recertification relating to a multiple award contract required by § 125.12 of this chapter, any contract holder on that multiple award contract may also request a formal size determination concerning a recertifying concern's status as a small business.
+
+(i) A request for a formal size determination made by another contract holder on a multiple award contract must be sufficiently specific to provide reasonable notice as to the grounds upon which the recertifying concern's size is questioned. Some basis for the belief or allegation that the recertifying concern does not continue to qualify as small must be given.
+
+(ii) SBA will dismiss as not sufficiently specific any request for a formal size determination alleging merely that the recertifying concern is not small or is affiliated with unnamed other concerns.
+
 (b) *Request for Size Determinations.* (1) For SBA's Financial Assistance Programs, the following entities may request a formal size determination:
 
 (i) The applicant for assistance; and
@@ -109,6 +129,8 @@ Link to an amendment published at 89 FR 102486, Dec. 17, 2024.
 (B) The SBA program official with authority to execute the 8(a) contract or, where applicable, the procuring activity contracting officer who has been delegated SBA's 8(a) contract execution functions; or
 
 (C) The SBA District Director in the district office that services the Participant, the Associate Administrator for Business Development, or the Associate General Counsel for Procurement Law.
+
+(iii) Where SBA initially verified the eligibility of an 8(a) Participant for the award of an 8(a) contract but subsequently receives specific information that the Participant may be other than small and consequently ineligible for the award, the Associate Administrator for Business Development or the Associate General Counsel for Procurement Law may request a formal size determination at any point prior to award.
 
 (3) For SBA's Certificate of Competency Program, the following entities may request a formal size determination:
 
@@ -156,4 +178,4 @@ Link to an amendment published at 89 FR 102486, Dec. 17, 2024.
 
 (13) The SBA Inspector General may request a formal size determination with respect to any of the programs identified in paragraph (b) of this section.
 
-[61 FR 3286, Jan. 31, 1996, as amended at 63 FR 31907, June 11, 1998; 63 FR 35739, June 30, 1998; 69 FR 25266, May 5, 2004; 69 FR 29206, May 21, 2004; 69 FR 29420, May 24, 2004; 69 FR 44461, July 26, 2004; 73 FR 56947, Oct. 1, 2008; 74 FR 45753, Sept. 4, 2009; 75 FR 62280, Oct. 7, 2010; 76 FR 8253, Feb. 11, 2011; 77 FR 76227, Dec. 27, 2012; 78 FR 61132, Oct. 2, 2013; 80 FR 7536, Feb. 11, 2015; 81 FR 34259, May 31, 2016; 81 FR 48579, July 25, 2016; 84 FR 65239, Nov. 26, 2019; 85 FR 66182, Oct. 16, 2020; 88 FR 26202, Apr. 27, 2023]
+[61 FR 3286, Jan. 31, 1996, as amended at 63 FR 31907, June 11, 1998; 63 FR 35739, June 30, 1998; 69 FR 25266, May 5, 2004; 69 FR 29206, May 21, 2004; 69 FR 29420, May 24, 2004; 69 FR 44461, July 26, 2004; 73 FR 56947, Oct. 1, 2008; 74 FR 45753, Sept. 4, 2009; 75 FR 62280, Oct. 7, 2010; 76 FR 8253, Feb. 11, 2011; 77 FR 76227, Dec. 27, 2012; 78 FR 61132, Oct. 2, 2013; 80 FR 7536, Feb. 11, 2015; 81 FR 34259, May 31, 2016; 81 FR 48579, July 25, 2016; 84 FR 65239, Nov. 26, 2019; 85 FR 66182, Oct. 16, 2020; 88 FR 26202, Apr. 27, 2023; 89 FR 102486, Dec. 17, 2024]

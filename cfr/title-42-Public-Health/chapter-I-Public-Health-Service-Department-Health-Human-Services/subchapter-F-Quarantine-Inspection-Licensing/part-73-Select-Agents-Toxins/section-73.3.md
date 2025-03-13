@@ -1,34 +1,14 @@
 ##### § 73.3 HHS select agents and toxins. #####
 
-Link to an amendment published at 89 FR 101952, Dec. 17, 2024.
-
 (a) Except for exclusions under paragraphs (d) and (e) of this section, the HHS Secretary has determined that the biological agents and toxins listed in this section have the potential to pose a severe threat to public health and safety. The select agents and toxins marked with an asterisk (\*) are designated as Tier 1 select agents and toxins and are subject to additional requirements as listed in this part.
 
-(b) HHS select agents and toxins:
+(b) HHS select agents and toxins 1 are:
 
-Abrin*Bacillus cereus* Biovar *anthracis*\*Botulinum neurotoxins\*Botulinum neurotoxin producing species of *Clostridium*\*Conotoxins (Short, paralytic alpha conotoxins containing the following amino acid sequence X1CCX2PACGX3X4X5X6CX7) 1
+(1) Abrin.(2) *Bacillus cereus* Biovar *anthracis.*\*(3) Botulinum neurotoxins.\*(4) Botulinum neurotoxin producing species of *Clostridium.\**(5) Conotoxins (Short, paralytic alpha conotoxins containing the following amino acid sequence X1CCX2PACGX3X4X5X6CX7).2(6) *Coxiella burnetii.*(7) Crimean-Congo hemorrhagic fever virus.(8) Diacetoxyscirpenol.(9) Eastern equine encephalitis virus.(10) *Ebolavirus* \*(11) *Francisella tularensis.*\*(12) Lassa fever virus.(13) Lujo virus.(14) Marburg virus.\*(15) Monkeypox virus.(16) Reconstructed replication competent forms of the 1918 pandemic influenza A virus containing any portion of the coding regions of all eight gene segments (Reconstructed 1918 influenza A virus).(17) Ricin.(18) *Rickettsia prowazekii.*(19) Severe acute respiratory syndrome coronavirus (SARS-CoV).(20) SARS-CoV/SARS-CoV-2 chimeric viruses resulting from any deliberate manipulation of SARS-CoV-2 to incorporate nucleic acids coding for SARS-CoV virulence factors.(21) Saxitoxin.(22) South American hemorrhagic fever virus: Chapare.(23) South American hemorrhagic fever virus: Guanarito.(24) South American hemorrhagic fever virus: Junin.(25) South American hemorrhagic fever virus: Machupo.(26) South American hemorrhagic fever virus: Sabia.(27) Staphylococcal enterotoxins (subtypes A,B,C,D,E).(28) T-2 toxin.(29) Tetrodotoxin.(30) Tick-borne encephalitis virus: Far Eastern subtype.(31) Tick-borne encephalitis virus: Siberian subtype.(32) Kyasanur Forest disease virus.(33) Omsk haemorrhagic fever virus.(34) Variola major virus (Smallpox virus).\*(35) Variola minor virus (Alastrim).\*(36) *Yersinia pestis.*\*
 
-1 C = Cysteine residues are all present as disulfides, with the 1st and 3rd Cysteine, and the 2nd and 4th Cysteine forming specific disulfide bridges; The consensus sequence includes known toxins α-MI and α-GI (shown above) as well as α-GIA, Ac1.1a, α-CnIA, α-CnIB; X1 = any amino acid(s) or Des-X; X2 = Asparagine or Histidine; P = Proline; A = Alanine; G = Glycine; X3 = Arginine or Lysine; X4 = Asparagine, Histidine, Lysine, Arginine, Tyrosine, Phenylalanine or Tryptophan; X5 = Tyrosine, Phenylalanine, or Tryptophan; X6 = Serine, Threonine, Glutamate, Aspartate, Glutamine, or Asparagine; X7 = Any amino acid(s) or Des X and; “Des X” = “an amino acid does not have to be present at this position.” For example if a peptide sequence were XCCHPA then the related peptide CCHPA would be designated as Des-X.
+1 Please refer to *https://www.selectagents.gov* for current information on historical or proposed nomenclature for the HHS select agents on the list.
 
-*Coxiella burnetii*Crimean-Congo hemorrhagic fever virusDiacetoxyscirpenolEastern equine encephalitis virusEbola virus\**Francisella tularensis*\*Lassa fever virusLujo virusMarburg virus\*Monkeypox virusReconstructed replication competent forms of the 1918 pandemic influenza virus containing any portion of the coding regions of all eight gene segments (Reconstructed 1918 influenza virus)Ricin*Rickettsia prowazekii*SARS coronavirus (SARS-CoV)SARS-CoV/SARS-CoV-2 chimeric viruses resulting from any deliberate manipulation of SARS-CoV-2 to incorporate nucleic acids coding for SARS-CoV virulence factors. SaxitoxinSouth American hemorrhagic fever viruses:
-
-Chapare
-
-Guanarito
-
-Junin
-
-Machupo
-
-Sabia
-
-Staphylococcal enterotoxins (subtypes A-E)T-2 toxinTetrodotoxinTick-borne encephalitis virus
-
-Far Eastern subtype
-
-Siberian subtype
-
-Kyasanur Forest disease virusOmsk haemorrhagic fever virusVariola major virus (Smallpox virus)\*Variola minor virus (Alastrim)\**Yersinia pestis*\*
+2 C = Cysteine residues are all present as disulfides, with the 1st and 3rd Cysteine, and the 2nd and 4th Cysteine forming specific disulfide bridges; The consensus sequence includes known toxins a-MI and a-GI (shown above) as well as a-GIA, Ac1.1a, a-CnIA, a-CnIB; X1 = any amino acid(s) or Des-X; X2 = Asparagine or Histidine; P = Proline; A = Alanine; G = Glycine; X3 = Arginine or Lysine; X4 = Asparagine, Histidine, Lysine, Arginine, Tyrosine, Phenylalanine or Tryptophan; X5 = Tyrosine, Phenylalanine, or Tryptophan; X6 = Serine, Threonine, Glutamate, Aspartate, Glutamine, or Asparagine; X7 = Any amino acid(s) or Des X and; “Des X” = “an amino acid does not have to be present at this position.” For example, if a peptide sequence were XCCHPA then the related peptide CCHPA would be designated as Des-X.
 
 (c) Genetic Elements, Recombinant and/or Synthetic Nucleic Acids, and Recombinant and/or Synthetic Organisms:
 
@@ -56,7 +36,7 @@ Kyasanur Forest disease virusOmsk haemorrhagic fever virusVariola major virus (S
 
 (6) A select agent or regulated nucleic acids that can produce infectious forms of any select agent virus not subjected to a validated inactivation procedure or material containing a select agent not subjected to a procedure that removes all viable select agent cells, spores, or virus particles if the material is determined by the HHS Secretary to be effectively inactivated or effectively removed. To apply for a determination an individual or entity must submit a written request and supporting scientific information to CDC. A written decision granting or denying the request will be issued.
 
-(7) Except as required in § 73.16(l), the aggregate amount of the toxin under the control of a principal investigator, treating physician or veterinarian, or commercial manufacturer or distributor does not, at any time, exceed the following amounts: 1000 mg of Abrin; 1 mg of Botulinum neurotoxins; 100 mg of Conotoxins (Short, paralytic alpha conotoxins containing the following amino acid sequence X1CCX2PACGX3X4X5X6CX7); 10,000 mg of Diacetoxyscirpenol; 1000 mg of Ricin; 500 mg of Saxitoxin; 100 mg of Staphylococcal enterotoxins (subtypes A-E); 10,000 mg of T-2 toxin; or 500 mg of Tetrodotoxin. Provided that,
+(7) Except as required in § 73.16(l), the aggregate amount of the toxin under the control of a principal investigator, treating physician or veterinarian, or commercial manufacturer or distributor does not, at any time, exceed the following amounts: 1000 mg of Abrin; 1 mg of Botulinum neurotoxins; 200 mg of Conotoxins (Short, paralytic alpha conotoxins containing the following amino acid sequence X1CCX2PACGX3X4X5X6CX7); 10,000 mg of Diacetoxyscirpenol; 1000 mg of Ricin; 500 mg of Saxitoxin; 100 mg of Staphylococcal enterotoxins (subtypes A-E); 10,000 mg of T-2 toxin; or 500 mg of Tetrodotoxin. Provided that,
 
 (i) The toxin is transferred only after the transferor uses due diligence and documents the identification of the recipient and the legitimate need (*e.g.,* prophylactic, protective, bona fide research, or other peaceful purpose) claimed by the recipient to use such toxin. Information to be documented includes, but is not limited to, the recipient identity information, including the recipient's name, institution name, address, telephone number and email address; name of the toxin and the total amount transferred; and the legitimate need claimed by the recipient. Notwithstanding the provisions of paragraph (d) of this section, the HHS Secretary retains the authority to, without prior notification, inspect and copy or request the submission of the due diligence documentation to the CDC.
 
@@ -70,7 +50,7 @@ Kyasanur Forest disease virusOmsk haemorrhagic fever virusVariola major virus (S
 
 (11) Waste generated during the delivery of patient care by health care professionals from a patient diagnosed with an illness or condition associated with a select agent, where that waste is decontaminated or transferred for destruction by complying with state and Federal regulations within seven calendar days of the conclusion of patient care.
 
-(12) Any South American genotypes of Eastern Equine Encephalitis Virus and any West African Clade of Monkeypox virus provided that the individual or entity can identify that the agent is within the exclusion category.
+(12) Madariaga virus and any Clade II Monkeypox provided that the individual or entity can identify that the agent is within the exclusion category.
 
 (e) An attenuated strain of a select agent or a select toxin modified to be less potent or toxic may be excluded from the requirements of this part based upon a determination by the HHS Secretary that the attenuated strain or modified toxin does not pose a severe threat to public health and safety.
 
@@ -96,4 +76,4 @@ Kyasanur Forest disease virusOmsk haemorrhagic fever virusVariola major virus (S
 
 (4) The Federal law enforcement agency reports the final disposition of the select agent or toxin by submission of APHIS/CDC Form 4. A copy of the completed form must be maintained for three years.
 
-[70 FR 13316, Mar. 18, 2005, as amended at 70 FR 61049, Oct. 20, 2005; 73 FR 61365, Oct. 16, 2008; 73 FR 64554, Oct. 30, 2008; 77 FR 61110, Oct. 5, 2012; 79 FR 26861, May 12, 2014; 81 FR 63143, Sept. 14, 2016; 82 FR 6290, Jan. 19, 2017; 86 FR 64081, Nov. 17, 2021]
+[70 FR 13316, Mar. 18, 2005, as amended at 70 FR 61049, Oct. 20, 2005; 73 FR 61365, Oct. 16, 2008; 73 FR 64554, Oct. 30, 2008; 77 FR 61110, Oct. 5, 2012; 79 FR 26861, May 12, 2014; 81 FR 63143, Sept. 14, 2016; 82 FR 6290, Jan. 19, 2017; 86 FR 64081, Nov. 17, 2021; 89 FR 101952, Dec. 17, 2024]

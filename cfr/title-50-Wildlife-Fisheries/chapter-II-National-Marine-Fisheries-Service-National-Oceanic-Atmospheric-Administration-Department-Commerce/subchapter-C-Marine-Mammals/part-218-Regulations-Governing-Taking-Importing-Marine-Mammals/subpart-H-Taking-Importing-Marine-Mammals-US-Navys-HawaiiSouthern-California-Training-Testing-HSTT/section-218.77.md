@@ -10,7 +10,7 @@
 
 (c) An LOA issued under §§ 216.106 of this chapter and 218.76 may be modified by NMFS under the following circumstances:
 
-(1) *Adaptive management.* After consulting with the Navy regarding the practicability of the modifications, NMFS may modify (including adding or removing measures) the existing mitigation, monitoring, or reporting measures if doing so creates a reasonable likelihood of more effectively accomplishing the goals of the mitigation and monitoring.
+(1) After consulting with the Navy regarding the practicability of the modifications, NMFS may modify (including adding or removing measures) the existing mitigation, monitoring, or reporting measures if doing so creates a reasonable likelihood of more effectively accomplishing the goals of the mitigation and monitoring.
 
 (i) Possible sources of data that could contribute to the decision to modify the mitigation, monitoring, or reporting measures in an LOA include:
 
@@ -22,4 +22,4 @@
 
 (ii) If, through adaptive management, the modifications to the mitigation, monitoring, or reporting measures are substantial, NMFS will publish a notice of planned LOA in the Federal Register and solicit public comment.
 
-(2) *Emergencies.* If NMFS determines that an emergency exists that poses a significant risk to the well-being of the species or stocks of marine mammals specified in LOAs issued pursuant to §§ 216.106 of this chapter and 218.76, an LOA may be modified without prior notice or opportunity for public comment. Notice would be published in the Federal Register within 30 days of the action.
+(2) If NMFS determines that an emergency exists that poses a significant risk to the well-being of the species or stocks of marine mammals specified in LOAs issued pursuant to §§ 216.106 of this chapter and 218.76, an LOA may be modified without prior notice or opportunity for public comment. Notice would be published in the Federal Register within 30 days of the action.

@@ -62,4 +62,4 @@
 
 (10) Records of labeling, product formulas, processing procedures, and any additional documentation needed to show that the labels are consistent with the Federal meat and poultry regulations and policies on labeling, as prescribed in § 412.1 of this chapter.
 
-(Approved by the Office of Management and Budget under control number 0583-0015)[35 FR 15603, Oct. 3, 1970] Editorial Note:For Federal Register citations affecting § 320.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Approved by the Office of Management and Budget under control number 0583-0015)[35 FR 15603, Oct. 3, 1970]Editorial Note:For Federal Register citations affecting § 320.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

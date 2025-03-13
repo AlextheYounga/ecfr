@@ -1,5 +1,7 @@
 ##### § 21.9505 Definitions. #####
 
+Link to an amendment published at 90 FR 5333, Jan. 16, 2025.
+
 For the purposes of this subpart (governing the administration and payment of educational assistance under 38 U.S.C. chapter 33) the following definitions apply. (See also additional definitions in §§ 21.1029 and 21.4200).
 
 *Academic year* means the period of time beginning August 1st of each calendar year and ending July 31st of the subsequent calendar year.

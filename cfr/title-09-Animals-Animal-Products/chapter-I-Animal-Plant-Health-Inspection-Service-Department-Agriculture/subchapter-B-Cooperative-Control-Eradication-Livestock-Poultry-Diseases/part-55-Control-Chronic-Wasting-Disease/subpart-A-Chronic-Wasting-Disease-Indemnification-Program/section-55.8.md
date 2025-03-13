@@ -36,7 +36,7 @@
 
 (6) Will retain records, slides, blocks, and other specimens from all cases for at least 1 year and from positive cases for 5 years;
 
-(7) Will allow APHIS to inspect 1 the laboratory without notice during normal business hours; and
+(7) Will allow APHIS to inspect1 the laboratory without notice during normal business hours; and
 
 1 An inspection may include, but is not limited to, review and copying of records, examination of slides, observation of the test being conducted, and interviewing of personnel.
 

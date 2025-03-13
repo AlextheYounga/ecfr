@@ -1,6 +1,6 @@
 ##### § 327.26 Official import inspection marks and devices. #####
 
-(a) When import inspections are performed in official import inspection establishments, the official inspection legend to be applied to imported meat and meat food products shall be in the appropriate form 1 as herein specified.
+(a) When import inspections are performed in official import inspection establishments, the official inspection legend to be applied to imported meat and meat food products shall be in the appropriate form1 as herein specified.
 
 1 The number “I-38” is given as an example only. The establishment number of the official import inspection establishment where the imported product is inspected shall be used in lieu thereof.
 

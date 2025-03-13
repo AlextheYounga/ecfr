@@ -30,7 +30,7 @@
 
 (vii) Horses must be held at the animal import center for a minimum of 7 days. On day 7, prior to the horses' release, the horses must be examined by a veterinarian at the expense of the owner or broker. For this examination, male horses must be tranquilized or sedated so that the external genitalia of the horses can be thoroughly examined. If screwworm is found during this examination, the horses must be held in quarantine and treated until free of infestation.
 
-(4) To qualify for release from quarantine, all horses, except horses from Iceland, must test negative to official tests for dourine, glanders, equine piroplasmosis, and equine infectious anemia. 1 However, horses imported from Australia and New Zealand are exempt from testing for dourine and glanders. In addition, all horses must undergo any other tests, inspections, disinfections, and precautionary treatments that may be required by the Administrator to determine their freedom from communicable diseases.
+(4) To qualify for release from quarantine, all horses, except horses from Iceland, must test negative to official tests for dourine, glanders, equine piroplasmosis, and equine infectious anemia.1 However, horses imported from Australia and New Zealand are exempt from testing for dourine and glanders. In addition, all horses must undergo any other tests, inspections, disinfections, and precautionary treatments that may be required by the Administrator to determine their freedom from communicable diseases.
 
 1 Protocols for testing equines in import quarantine are available on the APHIS website at *www.aphis.usda.gov/aphis/ourfocus/importexport/animal-import-and-export/equine/guidelines-docs-related-to-importing-equine.*
 
@@ -42,7 +42,7 @@
 
 (2) *Standards and handling procedures.* The facility must be maintained and operated in accordance with the following standards:
 
-(i) *Inspection.* Inspection and quarantine services must be arranged by the operator or his or her agent with the APHIS Veterinarian in Charge for the State in which the approved facility is located 2 no less than 7 days before the proposed date of entry of the horses into the quarantine facility.
+(i) *Inspection.* Inspection and quarantine services must be arranged by the operator or his or her agent with the APHIS Veterinarian in Charge for the State in which the approved facility is located2 no less than 7 days before the proposed date of entry of the horses into the quarantine facility.
 
 2 The name and the address of the Veterinarian in Charge in any State is available from APHIS, Veterinary Services, Strategy and Policy, 4700 River Road Unit 39, Riverdale, MD 20737-1231.
 
@@ -90,7 +90,7 @@
 
 (A) Before facility approval is denied or withdrawn, the operator of the facility will be informed of the reasons for the proposed action by the Administrator and afforded an opportunity to present his or her views. If there is a conflict as to any material fact, APHIS will afford the operator, upon request, the opportunity for a hearing with respect to the merits or validity of such action.
 
-(B) The Administrator may withdraw approval of an existing facility prior to a final determination in the hearing if the Administrator determines that such action is necessary to protect animal health or the public health, interest, or safety. Such withdrawal will be effective upon oral or written notification, whichever is earlier, to the operator of the facility. In the event of oral notification, APHIS will promptly give written confirmation to the operator of the facility. This withdrawal will continue in effect pending the completion of the hearing and any judicial review, unless otherwise ordered by the Administrator. In addition to withdrawal of approval for the reasons provided in paragraph (c)(1)(iv)(C) of this section, the Administrator will also automatically withdraw approval when the operator of any approved facility notifies the APHIS Veterinarian in Charge for the State in which the facility is located, in writing, that the facility is no longer in operation. 3
+(B) The Administrator may withdraw approval of an existing facility prior to a final determination in the hearing if the Administrator determines that such action is necessary to protect animal health or the public health, interest, or safety. Such withdrawal will be effective upon oral or written notification, whichever is earlier, to the operator of the facility. In the event of oral notification, APHIS will promptly give written confirmation to the operator of the facility. This withdrawal will continue in effect pending the completion of the hearing and any judicial review, unless otherwise ordered by the Administrator. In addition to withdrawal of approval for the reasons provided in paragraph (c)(1)(iv)(C) of this section, the Administrator will also automatically withdraw approval when the operator of any approved facility notifies the APHIS Veterinarian in Charge for the State in which the facility is located, in writing, that the facility is no longer in operation.3
 
 3 The name and address of the Veterinarian in Charge in any State is available from APHIS, Veterinary Services, Strategy and Policy, 4700 River Road Unit 39, Riverdale, MD 20737-1231.
 

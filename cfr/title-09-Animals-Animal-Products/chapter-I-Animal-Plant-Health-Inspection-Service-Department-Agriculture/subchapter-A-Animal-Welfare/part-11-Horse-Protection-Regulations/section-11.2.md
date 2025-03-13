@@ -26,17 +26,17 @@
 
 (10) Artificial extension of the toe length, whether accomplished with pads, acrylics or any other material or combinations thereof, that exceeds 50 percent of the natural hoof length, as measured from the coronet band, at the center of the front pastern along the front of the hoof wall, to the distal portion of the hoof wall at the tip of the toe. The artificial extension shall be measured from the distal portion of the hoof wall at the tip of the toe at a 90 degree angle to the proximal (foot/hoof) surface of the shoe.
 
-(11) Toe length that does not exceed the height of the heel by 1 inch or more. The length of the toe shall be measured from the coronet band, at the center of the front pastern along the front of the hoof wall to the ground. The heel shall be measured from the coronet band, at the most lateral portion of the rear pastern, at a 90 degree angle to the ground, not including normal caulks at the rear of a horseshoe that do not exceed 3/4 inch in length. That portion of caulk at the rear of a horseshoe in excess of 3/4 of an inch shall be added to the height of the heel in determining the heel/toe ratio.
+(11) Toe length that does not exceed the height of the heel by 1 inch or more. The length of the toe shall be measured from the coronet band, at the center of the front pastern along the front of the hoof wall to the ground. The heel shall be measured from the coronet band, at the most lateral portion of the rear pastern, at a 90 degree angle to the ground, not including normal caulks at the rear of a horseshoe that do not exceed3/4 inch in length. That portion of caulk at the rear of a horseshoe in excess of3/4 of an inch shall be added to the height of the heel in determining the heel/toe ratio.
 
 (12) Pads that are not made of leather, plastic, or a similar pliant material.
 
 (13) Any object or material inserted between the pad and the hoof other than acceptable hoof packing, which includes pine tar, oakum, live rubber, sponge rubber, silicone, commercial hoof packing or other substances used to maintain adequate frog pressure or sole consistency.
 
-(14) Single or double rocker-bars on the bottom surface of horseshoes which extend more than 11/2 inches back from the point of the toe, or which would cause, or could reasonably be expected to cause, an unsteadiness of stance in the horse with resulting muscle and tendon strain due to the horse's weight and balance being focused upon a small fulcrum point. 2
+(14) Single or double rocker-bars on the bottom surface of horseshoes which extend more than 11/2 inches back from the point of the toe, or which would cause, or could reasonably be expected to cause, an unsteadiness of stance in the horse with resulting muscle and tendon strain due to the horse's weight and balance being focused upon a small fulcrum point.2
 
 2 This prohibition is not intended to disallow corrective devices, such as Memphis bars which consist of a metal bar(s) crossing from the ground surface of one side of the horseshoe to the ground surface of the other side of the horseshoe, and the purpose of which is to correct a lameness or pathological condition of the foot: *Provided,* That such metal bar(s) do not act as a single fulcrum point so as to affect the balance of the horse.
 
-(15) Metal hoof bands, such as used to anchor or strengthen pads and shoes, placed less than 1/2 inch below the coronet band.
+(15) Metal hoof bands, such as used to anchor or strengthen pads and shoes, placed less than1/2 inch below the coronet band.
 
 (16) Metal hoof bands that can be easily and quickly loosened or tightened by hand, by means such as, but not limited to, a wing-nut or similar fastener.
 

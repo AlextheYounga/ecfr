@@ -1,5 +1,7 @@
 ##### § 21.9655 Rates of supplemental educational assistance. #####
 
+Link to an amendment published at 90 FR 5352, Jan. 16, 2025.
+
 In addition to basic educational assistance, an individual who is eligible for supplemental educational assistance and entitled to it will be paid supplemental educational assistance at the rate described in this section unless a lesser rate is required by § 21.9675.
 
 (a) *Individuals eligible for supplemental educational assistance under chapter 33.* (1) The monthly amount of supplemental educational assistance payable to an individual whose initial eligibility for educational assistance is acquired under 38 U.S.C. chapter 33 is set by the Secretary of the military department concerned, but may not exceed $300 per month for full-time training. Individuals pursuing training at less than full-time will receive a percentage of the amount set by the Secretary of the military department concerned based on the individual's rate of pursuit of training.

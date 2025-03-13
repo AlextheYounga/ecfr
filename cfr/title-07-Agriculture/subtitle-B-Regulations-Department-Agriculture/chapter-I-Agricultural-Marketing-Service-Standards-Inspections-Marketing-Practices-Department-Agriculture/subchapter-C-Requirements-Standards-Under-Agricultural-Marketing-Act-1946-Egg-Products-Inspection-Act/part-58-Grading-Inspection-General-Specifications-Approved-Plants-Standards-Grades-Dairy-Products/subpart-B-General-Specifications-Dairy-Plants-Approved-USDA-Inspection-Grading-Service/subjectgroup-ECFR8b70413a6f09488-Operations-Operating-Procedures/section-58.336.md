@@ -1,5 +1,7 @@
 ##### § 58.336 Frequency of sampling for quality control of cream, butter and related products. #####
 
+Link to an amendment published at 90 FR 4587, Jan. 16, 2025.
+
 (a) *Microbiological.* Samples shall be taken from churnings or batches and should be taken as often as is necessary to insure microbiological control.
 
 (b) *Composition.* Sampling and testing for product composition shall be made on churns or batches as often as is necessary to insure adequate composition control. For in-plant control, the Kohman or modified Kohman test may be used.

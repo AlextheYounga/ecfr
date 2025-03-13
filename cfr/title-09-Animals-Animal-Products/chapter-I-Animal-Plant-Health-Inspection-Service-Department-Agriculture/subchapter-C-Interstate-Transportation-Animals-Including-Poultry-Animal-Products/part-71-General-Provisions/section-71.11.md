@@ -8,7 +8,7 @@ The following specifications will be employed for determining the suitability of
 
 (c) The product shall contain not more than 25 percent of inert ingredients (water and glycerin), not more excess alkali than the equivalent of 0.5 percent of sodium hydroxide, and not less than 21 percent of soap exclusive of water, glycerin, and excess alkali.
 
-(d) The product shall contain not less than 50 percent and not more than 53 percent of total phenols. It shall contain less than 5 percent of benzophenol (C 6H 5OH).
+(d) The product shall contain not less than 50 percent and not more than 53 percent of total phenols. It shall contain less than 5 percent of benzophenol (C6H5OH).
 
 (e) The methods of determining compliance with the specifications in paragraphs (a) to (d) of this section will be those described in United States Department of Agriculture Bulletin 1308, Chemical and Physical Methods for the Control of Saponified Cresol Solutions, so far as they are applicable.
 

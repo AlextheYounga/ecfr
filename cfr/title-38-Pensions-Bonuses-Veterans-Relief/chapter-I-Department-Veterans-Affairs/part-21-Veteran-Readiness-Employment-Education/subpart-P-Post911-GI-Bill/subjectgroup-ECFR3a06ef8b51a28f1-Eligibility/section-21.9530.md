@@ -1,5 +1,7 @@
 ##### § 21.9530 Eligibility time limit. #####
 
+Link to an amendment published at 90 FR 5337, Jan. 16, 2025.
+
 (a) Except as provided in paragraphs (b) through (e) of this section, an individual's period of eligibility for educational assistance will terminate effective 15 years from the date of the last discharge or release from active duty of at least—
 
 (1) 90 continuous days; or

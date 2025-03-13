@@ -1,10 +1,16 @@
 ##### § 124.504 What circumstances limit SBA's ability to accept a procurement for award as an 8(a) contract, and when can a requirement be released from the 8(a) BD program? #####
 
-Link to an amendment published at 89 FR 102489, Dec. 17, 2024.
-
 SBA will not accept a procurement for award as an 8(a) contract if the circumstances identified in paragraphs (a) through (d) of this section exist.
 
-(a) *Prior intent to award as a small business set-aside, or use the HUBZone, Service Disabled Veteran-Owned Small Business, or Women-Owned Small Business programs.* The procuring activity issued a solicitation for or otherwise expressed publicly a clear intent to award the contract as a small business set-aside, or to use the HUBZone, Service Disabled Veteran-Owned Small Business, or Women-Owned Small Business programs prior to offering the requirement to SBA for award as an 8(a) contract. However, the AA/BD may permit the acceptance of the requirement under extraordinary circumstances.
+(a) *Prior intent to award as a small business set-aside, or use the HUBZone, VetCert, or Women-Owned Small Business programs.* A procuring activity, for itself or for another end user, issued a solicitation for or otherwise expressed publicly a clear intent to award the contract as a small business set-aside, or to use the HUBZone, VetCert, or Women-Owned Small Business programs prior to offering the requirement to SBA for award as an 8(a) contract.
+
+(1) However, SBA may accept the requirement into the 8(a) BD program where the AA/BD determines that there is a reasonable basis to cancel the initial solicitation or, if a solicitation had not yet been issued, a reasonable basis for the procuring agency to change its initial clear expression of intent to procure outside the 8(a) BD program (*e.g.,* the procuring agency's needs have changed since the initial solicitation was issued such that the solicitation no longer represents its current needs; or appropriations that were no longer available for the requirement as anticipated in one fiscal year are available in the succeeding fiscal year).
+
+(i) A change in strategy only (*i.e.,* an agency seeking to solicit through the 8(a) BD program instead of through another previously identified program) will not constitute a reasonable basis for SBA to accept the requirement into the 8(a) BD program.
+
+(ii) The AA/BD may coordinate with the D/GC, where appropriate, before accepting a requirement into the 8(a) BD program to ensure that another SBA program is not adversely affected.
+
+(2) The AA/BD may also permit the acceptance of the requirement under extraordinary circumstances.
 
 (b) *Competition prior to offer and acceptance.* The procuring activity competed a requirement among 8(a) Participants prior to offering the requirement to SBA and did not clearly evidence its intent to conduct an 8(a) competitive acquisition.
 
@@ -64,4 +70,4 @@ SBA will not accept a procurement for award as an 8(a) contract if the circumsta
 
 (ii) Where a procuring agency will use a mandatory source (*see* FAR Subparts 8.6 and 8.7(48 CFR subparts 8.6 and 8.7)). In such a case, the procuring agency should notify SBA at least 30 days prior to the end of the contract or order.
 
-[63 FR 35739, 35772, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8259, Feb. 11, 2011; 78 FR 61133, Oct. 2, 2013; 81 FR 34260, May 31, 2016; 81 FR 48582, July 25, 2016; 85 FR 66188, Oct. 16, 2020; 88 FR 26207, Apr. 27, 2023]
+[63 FR 35739, 35772, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8259, Feb. 11, 2011; 78 FR 61133, Oct. 2, 2013; 81 FR 34260, May 31, 2016; 81 FR 48582, July 25, 2016; 85 FR 66188, Oct. 16, 2020; 88 FR 26207, Apr. 27, 2023; 89 FR 102489, Dec. 17, 2024]
