@@ -1,5 +1,7 @@
 ##### 752.222-71 Nondiscrimination. #####
 
+Link to an amendment published at 89 FR 4208, Jan. 23, 2024.
+
 As prescribed in (48 CFR) AIDAR 722.810(b), insert the following clause in section I of all solicitations and resulting contracts.
 
 Nondiscrimination (JUN 2012)

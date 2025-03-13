@@ -1,10 +1,8 @@
 ##### § 658.425 Decision of Department of Labor Administrative Law Judge. #####
 
-Link to an amendment published at 88 FR 82733, Nov. 24, 2023.
-
 (a) The ALJ may:
 
-(1) Rule that he/she lacks jurisdiction over the case;
+(1) Rule that they lack jurisdiction over the case:
 
 (2) Rule that the appeal has been withdrawn, with the written consent of all parties;
 
@@ -15,3 +13,5 @@ Link to an amendment published at 88 FR 82733, Nov. 24, 2023.
 (b) Based on the entire record, including any legal briefs, the record before the State agency, the investigation (if any) and determination of the Regional Administrator, and evidence provided at the hearing, the ALJ must prepare a written decision. The ALJ must send a copy of the decision stating the findings of fact and conclusions of law to the parties to the hearing, including the State agency, the Regional Administrator, the OWI Administrator, and the Solicitor, and to entities filing amicus briefs (if any).
 
 (c) The decision of the ALJ serves as the final decision of the Secretary.
+
+[81 FR 56352, Aug. 19, 2016, as amended at 88 FR 82733, Nov. 24, 2023]

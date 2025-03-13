@@ -1,5 +1,7 @@
 ##### 752.7024 Withdrawal of students. #####
 
+Link to an amendment published at 89 FR 4208, Jan. 23, 2024.
+
 For use in contracts for participant training with an educational institution.
 
 Withdrawal of Students (APR 1984)

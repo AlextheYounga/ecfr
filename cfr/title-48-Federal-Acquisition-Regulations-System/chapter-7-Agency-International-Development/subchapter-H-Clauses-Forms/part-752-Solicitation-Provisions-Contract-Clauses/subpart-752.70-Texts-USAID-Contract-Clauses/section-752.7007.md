@@ -1,5 +1,7 @@
 ##### 752.7007 Personnel compensation. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 The following clause shall be used in all USAID cost-reimbursement contracts.
 
 Personnel Compensation (JUL 2007)

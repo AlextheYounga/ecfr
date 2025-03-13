@@ -1,5 +1,7 @@
 ##### 752.7001 Biographical data. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 The following clause is to be inserted in all USAID cost reimbursement contracts.
 
 Biographical Data (JUL 1997)

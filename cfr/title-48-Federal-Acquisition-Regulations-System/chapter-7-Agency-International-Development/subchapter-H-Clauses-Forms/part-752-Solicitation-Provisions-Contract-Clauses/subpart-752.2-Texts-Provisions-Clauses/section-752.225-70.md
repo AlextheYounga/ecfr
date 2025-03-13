@@ -1,5 +1,7 @@
 ##### 752.225-70 Source and nationality requirements. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 As prescribed in 725.704, insert the following clause:
 
 Source and Nationality Requirements (FEB 2012)

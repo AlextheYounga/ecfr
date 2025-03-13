@@ -1,5 +1,7 @@
 ##### 752.7008 Use of Government facilities or personnel. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 The following clause is for use in all USAID non-commercial contracts.
 
 Use of Government Facilities or Personnel (APR 1984)

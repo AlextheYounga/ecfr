@@ -1,10 +1,8 @@
 ##### § 658.417 State hearings. #####
 
-Link to an amendment published at 88 FR 82732, Nov. 24, 2023.
-
 (a) The hearing described in § 658.411(d)(5) must be held by State hearing officials. A State hearing official may be any State official authorized to hold hearings under State law. Examples of hearing officials are referees in State unemployment compensation hearings and officials of the State agency authorized to preside at State administrative hearings.
 
-(b) The State hearing official may decide to conduct hearings on more than one complaint concurrently if he/she determines that the issues are related or that the complaints will be handled more expeditiously if conducted together.
+(b) The State hearing official may decide to conduct hearings on more than one complaint concurrently if they determine that the issues are related or that the complaints will be processed more expeditiously if conducted together.
 
 (c) The State hearing official, upon the referral of a case for a hearing, must:
 
@@ -47,3 +45,5 @@ Link to an amendment published at 88 FR 82732, Nov. 24, 2023.
 (2) If a hearing location cannot be established by the State hearing official under paragraph (m)(1) of this section, the State hearing official may conduct, with the consent of the parties, the hearing by a telephone conference call from a State agency office. If the hearing is conducted via telephone conference call the parties and their representatives must have the option to participate in person or via telephone.
 
 (3) Where the State agency is not able, for any reason, to conduct a telephonic hearing under paragraph (m)(2) of this section, the State agencies in the States where the parties are located must take evidence and hold the hearing in the same manner as used for appealed interstate unemployment claims in those States, to the extent that such procedures are consistent with this section.
+
+[81 FR 56352, Aug. 19, 2016, as amended at 88 FR 82732, Nov. 24, 2023]

@@ -1,7 +1,5 @@
 ##### § 652.8 Administrative provisions. #####
 
-Link to an amendment published at 88 FR 82725, Nov. 24, 2023.
-
 (a) *Administrative requirements.* The Employment Security Manual is not applicable to funds appropriated under the Wagner-Peyser Act. Except as provided for in paragraph (f) of this section, administrative requirements and cost principles applicable to grants under this part are as specified in 2 CFR parts 200 and 2900 which govern the Uniform Guidelines, cost principles, and audit requirements for Federal awards.
 
 (b) *Management systems, reporting, and recordkeeping.* (1) The State must ensure that a financial system provides fiscal control and accounting procedures sufficient to permit preparation of required reports, and the tracing of funds to a level of expenditure adequate to establish that funds have not been expended in violation of the restrictions on the use of such funds. (sec. 10(a) of the Wagner-Peyser Act)
@@ -54,18 +52,20 @@ Link to an amendment published at 88 FR 82725, Nov. 24, 2023.
 
 (2) To impose a sanction or corrective action, the Secretary must utilize the initial and final determination procedures outlined in paragraph (f)(3) of this section and specified in the administrative provisions at §§ 683.420 through 683.440 of this chapter.
 
-(h) *Other violations.* Violations or alleged violations of the Wagner-Peyser Act, regulations, or grant terms and conditions except those pertaining to audits or discrimination must be determined and handled in accordance with part 658, subpart H, of this chapter.
+(h) *Other violations.* Violations or alleged violations of the Wagner-Peyser Act, regulations, or grant terms and conditions except those pertaining to audits or discrimination must be determined and processed in accordance with part 658, subpart H, of this chapter.
 
 (i) *Fraud and abuse.* Any persons having knowledge of fraud, criminal activity or other abuse must report such information directly and immediately to the Secretary, including all complaints involving such matters.
 
-(j) *Nondiscrimination and affirmative action requirements.* States must:
+(j) *Nondiscrimination requirements.* States must:
 
 (1) Assure that no individual be excluded from participation in, denied the benefits of, subjected to discrimination under, or denied employment in the administration or in connection with any services or activities authorized under the Wagner-Peyser Act in violation of any applicable nondiscrimination law. All complaints alleging discrimination must be filed and processed according to the procedures in the applicable Department of Labor nondiscrimination regulations.
 
-(2) Assure that discriminatory job orders will not be accepted, except where the stated requirement is a bona fide occupational qualification (BFOQ). See, generally, 42 U.S.C. 2000(e)-2(e), 29 CFR parts 1604, 1606, and 1625.
+(2) Assure that discriminatory job orders will not be accepted, except where the stated requirement is a bona fide occupational qualification (BFOQ). *See generally* 42 U.S.C. 2000e-2(e) and 29 CFR parts 1604, 1605, 1606, and 1625.
 
-(3) Assure that employers' valid affirmative action requests will be accepted and a significant number of qualified applicants from the target group(s) will be included to enable the employer to meet its affirmative action obligations.
+(3) Assure that ES offices are in compliance with the veteran referral and job listing requirements at 41 CFR 60-300.84.
 
 (4) Assure that employment testing programs will comply with 41 CFR part 60-3 and 29 CFR part 32 and 29 CFR 1627.3(b)(1)(iv).
 
 (5) Nondiscrimination and equal opportunity requirements and procedures, including complaint processing and compliance reviews, will be governed by the applicable Department of Labor nondiscrimination regulations.
+
+[81 FR 56337, Aug. 19, 2016, as amended at 88 FR 82725, Nov. 24, 2023]

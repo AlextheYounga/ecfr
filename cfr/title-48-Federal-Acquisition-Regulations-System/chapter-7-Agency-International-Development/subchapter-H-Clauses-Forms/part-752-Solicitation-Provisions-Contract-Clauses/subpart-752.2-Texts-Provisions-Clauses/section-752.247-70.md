@@ -1,5 +1,7 @@
 ##### 752.247-70 Preference for privately owned U.S.-flag commercial vessels. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 As prescribed in 747.507, insert the following clause:
 
 Preference for Privately Owned U.S.-Flag Commercial Vessels (OCT 1996)

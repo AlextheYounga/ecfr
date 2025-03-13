@@ -1,8 +1,6 @@
 ##### § 651.10 Definitions of terms used in this part and parts 652, 653, 654, and 658 of this chapter. #####
 
-Link to an amendment published at 88 FR 82723, Nov. 24, 2023.
-
-In addition to the definitions set forth in sec. 3 of WIOA, the following definitions apply to the regulations in parts 652, 653, 654, and 658 of this chapter:
+In addition to the definitions set forth in sec. 3 of the Workforce Innovation and Opportunity Act (WIOA), codified at 29 U.S.C. 3101 *et seq.,* the following definitions apply to the regulations in parts 652, 653, 654, and 658 of this chapter:
 
 *Act* means the Wagner-Peyser Act (codified at 29 U.S.C. 49 *et seq.*).
 
@@ -12,13 +10,17 @@ In addition to the definitions set forth in sec. 3 of WIOA, the following defini
 
 *Agricultural worker* see *Farmworker.*
 
-*Applicant holding office* means a Wagner-Peyser Act Employment Service (ES) office that is in receipt of a clearance order and has access to U.S. workers who may be willing and available to perform farmwork on a less than year-round basis.
+*Apparent violation* means a suspected violation of employment-related laws or employment service (ES) regulations by an employer, which an ES staff member observes, has reason to believe, or regarding which an ES staff member receives information (other than a *complaint* as defined in this part).
+
+*Applicant holding office* means an ES office that is in receipt of a clearance order and has access to U.S. workers who may be willing and available to perform farmwork on less than year-round basis.
 
 *Applicant Holding State* means a State Workforce Agency that is in receipt of a clearance order from another State and potentially has U.S. workers who may be willing and available to perform farmwork on a less than year-round basis.
 
-*Bona fide occupational qualification (BFOQ)* means that an employment decision or request based on age, sex, national origin or religion is based on a finding that such characteristic is necessary to the individual's ability to perform the job in question. Since a BFOQ is an exception to the general prohibition against discrimination on the basis of age, sex, national origin, or religion, it must be interpreted narrowly in accordance with the Equal Employment Opportunity Commission regulations set forth at 29 CFR parts 1604, 1605, and 1627.
+*Bona fide occupational qualification (BFOQ)* means that an employment decision or request based on age, sex, national origin, or religion is based on a finding that such characteristic is necessary to the individual's ability to perform the job in question. Since a BFOQ is an exception to the general prohibition against discrimination on the basis of age, sex, national origin, or religion, it must be interpreted narrowly in accordance with the Equal Employment Opportunity Commission regulations set forth at 29 CFR parts 1604, 1605, 1606, and 1625.
 
-*Career services* means the services described in sec. 134(c)(2) of the Workforce Innovation and Opportunity Act (WIOA) and § 678.430 of this chapter.
+*Career services* means the services described in sec. 134(c)(2) of WIOA and § 678.430 of this chapter.
+
+*Clearance order* means a job order that is processed through the clearance system under the Agricultural Recruitment System (ARS) at part 653, subpart F, of this chapter.
 
 *Clearance order* means a job order that is processed through the clearance system under the Agricultural Recruitment System (ARS).
 
@@ -28,25 +30,25 @@ In addition to the definitions set forth in sec. 3 of WIOA, the following defini
 
 *Complaint* means a representation made or referred to a State or ES office of an alleged violation of the ES regulations and/or other Federal laws enforced by the Department's Wage and Hour Division (WHD) or Occupational Safety and Health Administration (OSHA), as well as other Federal, State, or local agencies enforcing employment-related law.
 
-*Complaint System Representative* means the ES staff individual at the local or State level who is responsible for handling complaints.
+*Complaint System Representative* means a trained ES staff individual who is responsible for processing complaints.
 
-*Decertification* means the rescission by the Secretary of the year-end certification made under sec. 7 of the Wagner-Peyser Act to the Secretary of the Treasury that the State agency may receive funds authorized by the Wagner-Peyser Act.
+*Decertification* means the rescission by the Secretary of Labor (Secretary) of the year-end certification made under sec. 7 of the Wagner-Peyser Act to the Secretary of the Treasury that the State agency may receive funds authorized by the Wagner-Peyser Act.
 
 *Department* means the United States Department of Labor, including its agencies and organizational units.
 
 *Employer* means a person, firm, corporation, or other association or organization which currently has a location within the United States to which U.S. workers may be referred for employment, and which proposes to employ a worker at a place within the United States and which has an employer relationship with respect to employees under this subpart as indicated by the fact that it hires, pays, fires, supervises, and otherwise controls the work of such employees. An association of employers is considered an employer if it has all of the indicia of an employer set forth in this definition. Such an association, however, is considered as a joint employer with the employer member if either shares in exercising one or more of the definitional indicia.
 
-*Employment and Training Administration (ETA)* means the component of the Department of Labor that administers Federal government job training and worker dislocation programs, Federal grants to States for public ES programs, and unemployment insurance benefits. These services are provided primarily through State and local workforce development systems.
+*Employment and Training Administration (ETA)* means the component of the Department that administers Federal government job training and worker dislocation programs, Federal grants to States for public ES programs, and unemployment insurance benefits. These services are provided primarily through State and local workforce development systems.
 
 *Employment-related laws* means those laws that relate to the employment relationship, such as those enforced by the Department's WHD, OSHA, or by other Federal, State, or local agencies.
 
-*Employment Service (ES) office* means a site that provides Wagner-Peyser Act services as a one-stop partner program. A site must be colocated in a one-stop center consistent with the requirements of §§ 678.305 through 678.315 of this chapter.
+*Employment Service (ES) office* means a site that provides ES services as a one-stop partner program. A site must be colocated in a one-stop center consistent with the requirements of §§ 678.305 through 678.315 of this chapter.
 
-*Employment Service (ES) Office Manager* means the individual in charge of all ES activities in a one-stop center.
+*Employment Service (ES) Office Manager* means the ES staff person in charge of ES services provided in a one-stop center.
 
 *Employment Service (ES) regulations* means the Federal regulations at this part and parts 652, 653, 654, 658 of this chapter, and 29 CFR part 75.
 
-*Employment Service (ES) staff* means individuals, including but not limited to State employees and staff of a subrecipient, who are funded, in whole or in part, by Wagner-Peyser Act funds to carry out activities authorized under the Wagner-Peyser Act.
+*Employment Service (ES) staff* means individuals who are funded, in whole or in part, by Wagner-Peyser Act funds to carry out activities authorized under the Wagner-Peyser Act.
 
 *Establishment* means a public or private economic employing unit generally at a single physical location which produces and/or sells goods or services, for example, a mine, factory, store, farm, orchard or ranch. It is usually engaged in one, or predominantly one, type of commercial or governmental activity. Each branch or subsidiary unit of a large employer in a geographical area or community must be considered an individual establishment, except that all such units in the same physical location is considered a single establishment. A component of an establishment which may not be located in the same physical structure (such as the warehouse of a department store) also must be considered as part of the parent establishment. For the purpose of the “seasonal farmworker” definition, farm labor contractors and crew leaders are not considered establishments; it is the organizations to which they supply the workers that are the establishments.
 
@@ -54,19 +56,19 @@ In addition to the definitions set forth in sec. 3 of WIOA, the following defini
 
 *Farmworker* means an individual employed in farmwork, as defined in this section.
 
-*Field checks* means random, unannounced appearances by ES staff and/or Federal staff at agricultural worksites to which ES placements have been made through the intrastate or interstate clearance system to ensure that conditions are as stated on the job order and that the employer is not violating an employment-related law.
+*Field checks* means unannounced appearances by ES staff and/or other State or Federal staff at agricultural worksites to which ES placements have been made through the intrastate or interstate clearance system to ensure that conditions are as stated on the clearance order and that the employer is not violating an employment-related law.
 
-*Field visits* means appearances by Monitor Advocates or outreach staff to the working and living areas of migrant and seasonal farmworkers (MSFWs), to discuss employment services and other employment-related programs with MSFWs, crew leaders, and employers. Monitor Advocates or outreach staff must keep records of each such visit.
+*Field visits* means announced appearances by State Monitor Advocates, Regional Monitor Advocates, the National Monitor Advocate (or National Monitor Advocate staff), or outreach staff to the working, living, and gathering areas of migrant and seasonal farmworkers (MSFWs), to perform the duties described at §§ 653.107(b) (outreach staff), 653.108(o) and (q) (State Monitor Advocates), 658.602(n) (National Monitor Advocates and National Monitor Advocate staff), and 658.603(p) (Regional Monitor Advocates). Monitor Advocates or outreach staff must keep records of each such visit.
 
 *Governor* means the chief executive of a State or an outlying area.
 
-*Hearing Officer* means a Department of Labor Administrative Law Judge, designated to preside at Department administrative hearings.
+*Hearing Officer* means a Department Administrative Law Judge, designated to preside at Department administrative hearings.
 
 *Individual with a disability* means an individual with a disability as defined in sec. 3 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102).
 
-*Interstate clearance order* means an agricultural job order for temporary employment (employment on a less than year-round basis) describing one or more hard-to-fill job openings, which an ES office uses to request recruitment assistance from other ES offices in a different State.
+*Interstate clearance order* means an agricultural clearance order for temporary employment (employment on a less than year-round basis) describing one or more hard-to-fill job openings, which an ES office uses to request recruitment assistance from other ES offices in a different State.
 
-*Intrastate clearance order* means an agricultural job order for temporary employment (employment on a less than year-round basis) describing one or more hard-to-fill job openings, which an ES office uses to request recruitment assistance from other ES offices within the State.
+*Intrastate clearance order* means an agricultural clearance order for temporary employment (employment on a less than year-round basis) describing one or more hard-to-fill job openings, which an ES office uses to request recruitment assistance from all other ES offices within the State.
 
 *Job development* means the process of securing a job interview with a public or private employer for a specific participant for whom the ES office has no suitable opening on file.
 
@@ -86,13 +88,13 @@ In addition to the definitions set forth in sec. 3 of WIOA, the following defini
 
 *Local Workforce Development Board* or *Local WDB* means a Local Workforce Development Board established under sec. 107 of WIOA.
 
-*Migrant farmworker* means a seasonal farmworker (as defined in this section) who travels to the job site so that the farmworker is not reasonably able to return to his/her permanent residence within the same day. Full-time students traveling in organized groups rather than with their families are excluded.
+*Migrant farmworker* means a seasonal farmworker (as defined in this section) who travels to the job site so that the farmworker is not reasonably able to return to their permanent residence within the same day.
 
 *Migrant food processing worker* see *Migrant Farmworker.*
 
 *MSFW* means a migrant farmworker or a seasonal farmworker.
 
-*Occupational Information Network (O\*NET)* system means the online reference database which contains detailed descriptions of U.S. occupations, distinguishing characteristics, classification codes, and information on tasks, knowledge, skills, abilities, and work activities as well as information on interests, work styles, and work values.
+*Occupational Information Network (O\*NET)* means the online reference database which contains detailed descriptions of U.S. occupations, distinguishing characteristics, classification codes, and information on tasks, knowledge, skills, abilities, and work activities as well as information on interests, work styles, and work values.
 
 *One-stop center* means a physical center within the one-stop delivery system, as described in sec. 121(e)(2)(A) of WIOA.
 
@@ -100,7 +102,7 @@ In addition to the definitions set forth in sec. 3 of WIOA, the following defini
 
 *One-stop partner* means an entity described in sec. 121(b) of WIOA and § 678.400 of this chapter that is participating in the operation of a one-stop delivery system.
 
-*O\*NET-SOC* means the occupational codes and titles used in the O\*NET system, based on and grounded in the Standard Occupational Classification (SOC), which are the titles and codes utilized by Federal statistical agencies to classify workers into occupational categories for the purpose of collecting, calculating, and disseminating data. The SOC system is issued by the Office of Management and Budget and the Department of Labor is authorized to develop additional detailed O\*NET occupations within existing SOC categories. The Department uses O\*NET-SOC titles and codes for the purposes of collecting descriptive occupational information and for State reporting of data on training, credential attainment, and placement in employment by occupation.
+*O\*NET-SOC* means the occupational codes and titles used in the O\*NET system, based on and grounded in the Standard Occupational Classification (SOC), which are the titles and codes utilized by Federal statistical agencies to classify workers into occupational categories for the purpose of collecting, calculating, and disseminating data. The SOC system is issued by the Office of Management and Budget and the Department is authorized to develop additional detailed O\*NET occupations within existing SOC categories. The Department uses O\*NET-SOC titles and codes for the purposes of collecting descriptive occupational information and for State reporting of data on training, credential attainment, and placement in employment by occupation.
 
 *Onsite review* means an appearance by the State Monitor Advocate and/or Federal staff at an ES office to monitor the delivery of services and protections afforded by ES regulations to MSFWs by the State Workforce Agency and local ES offices.
 
@@ -108,19 +110,19 @@ In addition to the definitions set forth in sec. 3 of WIOA, the following defini
 
 *Outreach contact* means each MSFW that receives the presentation of information, offering of assistance, or follow-up activity from outreach staff.
 
-*Outreach staff* means ES staff with the responsibilities described in § 653.107(b) of this chapter.
+*Outreach staff* means ES staff with the responsibilities described in § 653.107(b) of this chapter. State Monitor Advocates are not considered outreach staff.
 
 *Participant* means a reportable individual who has received services other than the services described in § 677.150(a)(3) of this chapter, after satisfying all applicable programmatic requirements for the provision of services, such as eligibility determination. (*See* § 677.150(a) of this chapter.)
 
-(1) The following individuals are not Participants, subject to § 677.150(a)(3)(ii) and(iii) of this chapter:
+(1) The following individuals are not participants, subject to § 677.150(a)(3)(ii) and (iii) of this chapter:
 
 (i) Individuals who only use the self-service system; and
 
 (ii) Individuals who receive information-only services or activities.
 
-(2) Wagner-Peyser Act participants must be included in the program's performance calculations
+(2) ES participants must be included in the program's performance calculations.
 
-*Placement* means the hiring by a public or private employer of an individual referred by the ES office for a job or an interview, provided that the employment office completed all of the following steps:
+*Placement* means the hiring by a public or private employer of an individual referred by the ES office for a job or an interview, provided that the ES office completed all the following steps:
 
 (1) Prepared a job order form prior to referral, except in the case of a job development contact on behalf of a specific participant;
 
@@ -136,7 +138,7 @@ In addition to the definitions set forth in sec. 3 of WIOA, the following defini
 
 *Regional Administrator (RA)* means the chief Department of Labor Employment and Training Administration (ETA) official in each Department regional office.
 
-*Reportable individual* means an individual who has taken action that demonstrates an intent to use Wagner-Peyser Act services and who meets specific reporting criteria of the Wagner-Peyser Act (*see* § 677.150(b) of this chapter), including:
+*Reportable individual* means an individual who has taken action that demonstrates an intent to use ES services and who meets specific reporting criteria of the Wagner-Peyser Act (*see* § 677.150(b) of this chapter), including:
 
 (1) Individuals who provide identifying information;
 
@@ -144,13 +146,15 @@ In addition to the definitions set forth in sec. 3 of WIOA, the following defini
 
 (3) Individuals who only receive information-only services or activities.
 
-*Respondent* means the individual or entity alleged to have committed the violation described in the complaint, such as the employer, service provider, or State agency (including a State agency official).
+*Respondent* means the individual or entity alleged to have committed the violation described in the complaint, such as the employer, service provider, or State agency.
 
-*Seasonal farmworker* means an individual who is employed, or was employed in the past 12 months, in farmwork (as defined in this section) of a seasonal or other temporary nature and is not required to be absent overnight from his/her permanent place of residence. Non-migrant individuals who are full-time students are excluded. Labor is performed on a seasonal basis where, ordinarily, the employment pertains to or is of the kind exclusively performed at certain seasons or periods of the year and which, from its nature, may not be continuous or carried on throughout the year. A worker who moves from one seasonal activity to another, while employed in farmwork, is employed on a seasonal basis even though he/she may continue to be employed during a major portion of the year. A worker is employed on other temporary basis where he/she is employed for a limited time only or his/her performance is contemplated for a particular piece of work, usually of short duration. Generally, employment which is contemplated to continue indefinitely is not temporary.
+*Seasonal farmworker* means an individual who is employed, or was employed in the past 12 months, in farmwork (as defined in this section) of a seasonal or other temporary nature and is not required to be absent overnight from their permanent place of residence. Labor is performed on a seasonal basis where, ordinarily, the employment pertains to or is of the kind exclusively performed at certain seasons or periods of the year and which, from its nature, may not be continuous or carried on throughout the year. Workers who move from one seasonal activity to another, while employed in farmwork, are employed on a seasonal basis even though they may continue to be employed during a major portion of the year. Workers are employed on a temporary basis where they are employed for a limited time only or their performance is contemplated for a particular piece of work, usually of short duration. Generally, employment which is contemplated to continue indefinitely is not temporary.
 
 *Secretary* means the Secretary of the U.S. Department of Labor or the Secretary's designee.
 
-*Significant MSFW one-stop centers* are those designated annually by the Department and include those ES offices where MSFWs account for 10 percent or more of annual participants in employment services and those local ES offices which the administrator determines must be included due to special circumstances such as an estimated large number of MSFWs in the service area. In no event may the number of significant MSFW one-stop centers be less than 100 centers on a nationwide basis.
+*Significant MSFW one-stop centers* are those designated by the Department and include those ES offices where MSFWs account for 10 percent or more of annual participants or reportable individuals in ES and those local ES offices that the OWI Administrator determines must be included due to special circumstances such as an estimated large number of MSFWs in the service area. In no event may the number of significant MSFW one-stop centers be less than 100 centers on a nationwide basis.
+
+*Significant MSFW States* are those States designated by the Department and must include the 20 States with the highest estimated number of MSFWs.
 
 *Significant MSFW States* are those States designated annually by the Department and must include the 20 States with the highest number of MSFW participants.
 
@@ -216,7 +220,7 @@ In addition to the definitions set forth in sec. 3 of WIOA, the following defini
 
 *Veteran* means a person who served in the active military, naval, or air service, and who was discharged or released therefrom under conditions other than dishonorable, as defined under 38 U.S.C. 101 and sec. 3(63)(A) of WIOA.
 
-*Wagner-Peyser Act Employment Service (ES) also known as Employment Service (ES)* means the national system of public ES offices described under the Wagner-Peyser Act. Employment services are delivered through a nationwide system of one-stop centers, and are managed by State Workforce Agencies and the various local offices of the State Workforce Agencies, and funded by the United States Department of Labor.
+*Wagner-Peyser Act Employment Service (ES) also known as Employment Service (ES)* means the national system of public ES offices described under the Wagner-Peyser Act. ES services are delivered through a nationwide system of one-stop centers, managed by SWAs and the various local offices of the SWAs, and funded by the United States Department of Labor.
 
 *WIOA* means the Workforce Innovation and Opportunity Act (codified at 29 U.S.C. 3101 *et seq.*).
 
@@ -278,4 +282,4 @@ WLMI also may include, as either source data or as outputs of analysis of source
 
 *Work test* means activities designed to ensure that an individual whom a State determines to be eligible for unemployment insurance benefits is able to work, available for work, and actively seeking work in accordance with the State's unemployment compensation law.
 
-[81 FR 56333, Aug. 19, 2016, as amended at 85 FR 625, Jan. 6, 2020]
+[81 FR 56333, Aug. 19, 2016, as amended at 85 FR 625, Jan. 6, 2020; 88 FR 82723, Nov. 24, 2023]

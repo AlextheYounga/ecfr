@@ -1,5 +1,7 @@
 ##### 752.227-70 Patent reporting procedures. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 As prescribed in (48 CFR) AIDAR 727.303, insert the following clause in all solicitations and contracts that contain the clause at (48 CFR) FAR 52.227-11.
 
 Patent Reporting Procedures (AUG 1999)

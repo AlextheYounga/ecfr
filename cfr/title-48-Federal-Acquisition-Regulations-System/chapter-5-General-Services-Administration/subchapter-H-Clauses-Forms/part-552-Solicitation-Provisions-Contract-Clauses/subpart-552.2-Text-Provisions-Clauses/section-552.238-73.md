@@ -1,5 +1,7 @@
 ##### 552.238-73 Identification of Electronic Office Equipment Providing Accessibility for Individuals with Disabilities. #####
 
+Link to an amendment published at 89 FR 4201, Jan. 23, 2024.
+
 As prescribed in 538.273(b)(1), insert the following clause:
 
 Identification of Electronic Office Equipment Providing Accessibility for Individuals With Disabilities (MAR 2022)

@@ -1,5 +1,7 @@
 ##### 752.204-2 Security requirements. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 As prescribed in (48 CFR) AIDAR 704.404(a), when the clause in (48 CFR) FAR 52.204-2 is used in USAID contracts, paragraph (a) of the clause is revised as follows:
 
 Security Requirements (FEB 1999)

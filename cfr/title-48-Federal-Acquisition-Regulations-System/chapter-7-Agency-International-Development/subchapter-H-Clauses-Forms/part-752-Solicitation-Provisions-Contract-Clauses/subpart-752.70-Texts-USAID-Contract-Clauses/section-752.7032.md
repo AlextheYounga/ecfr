@@ -1,5 +1,7 @@
 ##### 752.7032 International travel approval and notification requirements (APR 2014). #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 For use in any USAID contract requiring international travel.
 
 International Travel Approval and Notification Requirements (APR 2014)

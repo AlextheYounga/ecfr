@@ -1,5 +1,7 @@
 ##### 752.252-1 AIDAR solicitation provisions incorporated by reference #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 In accordance with 752.107(a), insert the following clause.
 
 AIDAR Solicitation Provisions Incorporated By Reference (MAR 2015)

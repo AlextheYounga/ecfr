@@ -1,5 +1,7 @@
 ##### 752.227-14 Rights in Data—general. #####
 
+Link to an amendment published at 89 FR 4208, Jan. 23, 2024.
+
 As prescribed in 727.409(b), insert the following clause:
 
 Rights in Data—General (OCT 2007)

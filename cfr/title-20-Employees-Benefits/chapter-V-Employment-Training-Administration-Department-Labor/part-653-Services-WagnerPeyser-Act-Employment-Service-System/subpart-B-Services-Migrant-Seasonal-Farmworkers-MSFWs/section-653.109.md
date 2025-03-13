@@ -1,7 +1,5 @@
 ##### § 653.109 Data collection and performance accountability measures. #####
 
-Link to an amendment published at 88 FR 82729, Nov. 24, 2023.
-
 SWAs must:
 
 (a) Collect career service indicator data for the career services specified in WIOA sec. 134(c)(2)(A)(xii).
@@ -24,9 +22,11 @@ SWAs must:
 
 (8) The number of MSFWs served who identified themselves as male, female, Hispanic or Latino, Black or African-American, American Indian or Alaska Native, Asian, Native Hawaiian or Pacific Islander, or White;
 
-(9) Agricultural clearance orders (including field checks), MSFW complaints and apparent violations, and monitoring activities; and
+(9) Agricultural clearance orders (including field checks), MSFW complaints and apparent violations, and monitoring activities;
 
-(10) Any other data required by the Department.
+(10) The number of reportable individuals and participants who are MSFWs; and
+
+(11) Any other data required by the Department.
 
 (c) Provide necessary training to ES staff on techniques for accurately reporting data.
 
@@ -38,10 +38,10 @@ SWAs must:
 
 (g) Meet equity indicators that address ES controllable services and include, at a minimum, individuals referred to a job, receiving job development, and referred to supportive or career services.
 
-(h) Meet minimum levels of service in significant MSFW States. That is, only significant MSFW SWAs will be required to meet minimum levels of service to MSFWs. Minimum level of service indicators must include, at a minimum, individuals placed in a job, individuals placed long-term (150 days or more) in a non-agricultural job, a review of significant MSFW ES offices, field checks conducted, outreach contacts per week, and processing of complaints. The determination of the minimum service levels required of significant MSFW States for each year must be based on the following:
+(h) Meet minimum levels of service in significant MSFW States. That is, only significant MSFW States will be required to meet minimum levels of service to MSFWs. Minimum level of service indicators must include, at a minimum, individuals placed in a job, individuals placed long-term (150 days or more) in a non-agricultural job, a review of significant MSFW one-stop centers, field checks conducted, outreach contacts per quarter, and processing of complaints. The determination of the minimum service levels required of significant MSFW States must be based on the following:
 
 (1) Past SWA performance in serving MSFWs, as reflected in on-site reviews and data collected under paragraph (b) of this section.
 
 (2) The need for services to MSFWs in the upcoming year, comparing prior and projected levels of MSFW activity.
 
-[81 FR 56341, Aug. 19, 2016, as amended at 85 FR 628, Jan. 6, 2020]
+[81 FR 56341, Aug. 19, 2016, as amended at 85 FR 628, Jan. 6, 2020; 88 FR 82729, Nov. 24, 2023]

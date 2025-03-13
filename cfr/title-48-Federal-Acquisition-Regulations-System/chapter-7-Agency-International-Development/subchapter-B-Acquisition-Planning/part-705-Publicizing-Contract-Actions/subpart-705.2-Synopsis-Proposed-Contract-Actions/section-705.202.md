@@ -1,5 +1,7 @@
 ##### 705.202 Exceptions. #####
 
+Link to an amendment published at 89 FR 4205, Jan. 23, 2024.
+
 (a) [Reserved]
 
 (b) The head of the U.S. Agency for International Development has determined after consultation with the Administrator of the Office of Management and Budget's Office of Federal Procurement Policy and the Administrator of the Small Business Administration, that advance notice is not appropriate or reasonable for contract actions described in 706.302-70(b)(1) through (b)(3).

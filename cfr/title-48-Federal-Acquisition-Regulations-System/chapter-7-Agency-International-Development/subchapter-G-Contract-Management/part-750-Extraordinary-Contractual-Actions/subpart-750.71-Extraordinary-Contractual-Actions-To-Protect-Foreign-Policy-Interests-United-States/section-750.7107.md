@@ -1,5 +1,7 @@
 ##### 750.7107 Limitations upon exercise of authority. #####
 
+Link to an amendment published at 89 FR 4207, Jan. 23, 2024.
+
 (a) The Executive Order is not authority for:
 
 (1) The use of the cost-plus-a-percentage-of-cost system of contracting;

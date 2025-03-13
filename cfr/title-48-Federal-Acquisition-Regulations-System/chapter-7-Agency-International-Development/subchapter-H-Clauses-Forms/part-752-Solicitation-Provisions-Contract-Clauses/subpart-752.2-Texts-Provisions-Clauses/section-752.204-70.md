@@ -1,5 +1,7 @@
 ##### 752.204-70 Partner vetting pre-award requirements. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 As prescribed in (48 CFR) AIDAR 704.7005(a), insert the following provision in all solicitations subject to vetting:
 
 Partner Vetting Pre-award Requirements (FEB 2012)

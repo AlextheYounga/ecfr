@@ -1,5 +1,7 @@
 ##### 752.232-70 Letter of credit advance payment. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 As required by 732.406-73, insert the following clause in contracts being paid by Letter of Credit.
 
 Letter of Credit Advance Payment (MAR 2015)

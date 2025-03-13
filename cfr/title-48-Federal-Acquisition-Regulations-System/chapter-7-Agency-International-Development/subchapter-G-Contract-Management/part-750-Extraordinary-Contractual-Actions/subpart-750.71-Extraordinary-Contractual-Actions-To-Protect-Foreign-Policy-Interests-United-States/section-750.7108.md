@@ -1,5 +1,7 @@
 ##### 750.7108 Contractual requirements. #####
 
+Link to an amendment published at 89 FR 4208, Jan. 23, 2024.
+
 Every contract amended or modified pursuant to this subpart shall contain:
 
 (a) A citation of the Act and Executive Order.

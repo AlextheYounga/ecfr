@@ -1,5 +1,7 @@
 ##### 752.202-1 Definitions. #####
 
+Link to an amendment published at 89 FR 4208, Jan. 23, 2024.
+
 (a) As prescribed in 702.270 and in (48 CFR) FAR Subpart 2.2, USAID contracts use the Definitions clause in (48 CFR) FAR 52.202-1 and its Alternate I, as appropriate, and the following additional definitions.
 
 (b) *Alternate 70.* For use in all USAID contracts. Use in addition to the clause in FAR 52.202-1.

@@ -1,8 +1,6 @@
 ##### § 653.501 Requirements for processing clearance orders. #####
 
-Link to an amendment published at 88 FR 82730, Nov. 24, 2023.
-
-(a) *Assessment of need.* No ES office or SWA official may place a job order seeking workers to perform farmwork into intrastate or interstate clearance unless:
+(a) *Assessment of need.* No ES staff may place a job order seeking workers to perform farmwork into intrastate or interstate clearance unless:
 
 (1) The ES office and employer have attempted and have not been able to obtain sufficient workers within the local labor market area; or
 
@@ -48,7 +46,7 @@ Link to an amendment published at 88 FR 82730, Nov. 24, 2023.
 
 (ii) The employer has agreed to provide or pay for the transportation of the workers and their families at or before the end of the period of employment specified in the job order on at least the same terms as transportation is commonly provided by employers in the area of intended employment to farmworkers and their families recruited from the same area of supply. Under no circumstances may the payment or provision of transportation occur later than the departure time needed to return home to begin the school year, in the case of any worker with children 18 years old or younger, or be conditioned on the farmworker performing work after the period of employment specified in the job order.
 
-(3) SWAs must ensure the clearance order includes the following assurances:
+(3) SWAs must ensure that the employer makes the following assurances in the clearance order:
 
 (i) The employer will provide to workers referred through the clearance system the number of hours of work cited in paragraph (c)(1)(iv)(D) of this section for the week beginning with the anticipated date of need, unless the employer has amended the date of need at least 10 business days prior to the original date of need (pursuant to paragraph (c)(3)(iv) of this section) by so notifying the order-holding office in writing (email notification may be acceptable). The SWA must make a record of this notification and must attempt to inform referred workers of the change expeditiously.
 
@@ -70,7 +68,7 @@ Link to an amendment published at 88 FR 82730, Nov. 24, 2023.
 
 (5) If there is a change to the anticipated date of need and the employer fails to notify the order-holding office at least 10 business days prior to the original date of need the employer must pay eligible (pursuant to paragraph (d)(4) of this section) workers referred through the clearance system the specified hourly rate of pay, or if the pay is piece-rate, the higher of the Federal or State minimum wage for the first week starting with the originally anticipated date of need or provide alternative work if such alternative work is stated on the clearance order. If an employer fails to comply under this section the order holding office may notify the Department's Wage and Hour Division for possible enforcement.
 
-(d) *Processing clearance orders.* (1) The order-holding office must transmit an electronic copy of the approved clearance order to its SWA. The SWA must distribute additional electronic copies of the form with all attachments (except that the SWA may, at its discretion, delegate this distribution to the local office) as follows:
+(d) *Processing clearance orders.* (1) The order-holding ES office must transmit an electronic copy of the approved clearance order to its SWA. The SWA must distribute additional electronic copies of the form with all attachments (except that the SWA may, at its discretion, delegate this distribution to the local office) as follows:
 
 (i) At least one copy of the clearance order must be sent to each of the SWAs selected for recruitment (areas of supply);
 
@@ -82,13 +80,13 @@ Link to an amendment published at 88 FR 82730, Nov. 24, 2023.
 
 (2) The ES office may place an intrastate or interstate order seeking workers to perform farmwork for a specific farm labor contractor or for a worker preferred by an employer provided the order meets ES nondiscrimination criteria. The order would not meet such criteria, for example, if it requested a “white male crew leader” or “any white male crew leader.”
 
-(3) The approval process described in paragraph (d)(3) of this section does not apply to clearance orders that are attached to applications for foreign temporary agricultural workers pursuant to part 655, subpart B, of this chapter; such clearance orders must be sent to the processing center as directed by ETA in guidance. For non-criteria clearance orders (orders that are not attached to applications under part 655, subpart B, of this chapter), the ETA regional office must review and approve the order within 10 business days of its receipt of the order, and the Regional Administrator or his/her designee must approve the areas of supply to which the order will be extended. Any denial by the Regional Administrator or his/her designee must be in writing and state the reasons for the denial.
+(3) The approval process described in this paragraph (d)(3) does not apply to clearance orders that are attached to applications for foreign temporary agricultural workers pursuant to part 655, subpart B, of this chapter; such clearance orders must be sent to the processing center as directed by ETA in guidance. For noncriteria clearance orders (orders that are not attached to applications under part 655, subpart B, of this chapter), the ETA regional office must review and approve the order within 10 business days of its receipt of the order, and the Regional Administrator or their designee must approve the areas of supply to which the order will be extended. Any denial by the Regional Administrator or their designee must be in writing and state the reasons for the denial.
 
 (4) The applicant holding office must notify all referred farmworkers, farm labor contractors on behalf of farmworkers, or family heads on behalf of farmworker family members, to contact an ES office, preferably the order-holding office, to verify the date of need cited in the clearance order between 9 and 5 business days prior to the original date of need cited in the clearance order; and that failure to do so will disqualify the referred farmworker from the first weeks' pay as described in paragraph (c)(3)(i) of this section. The SWA must make a record of this notification.
 
 (5) If the worker referred through the clearance system contacts an ES office (in any State) other than the order holding office, that ES office must assist the referred worker in contacting the order holding office on a timely basis. Such assistance must include, if necessary, contacting the order holding office by telephone or other timely means on behalf of the worker referred through the clearance system.
 
-(6) ES staff must assist all farmworkers, upon request in their native language, to understand the terms and conditions of employment set forth in intrastate and interstate clearance orders and must provide such workers with checklists in their native language showing wage payment schedules, working conditions, and other material specifications of the clearance order.
+(6) ES staff must assist all farmworkers to understand the terms and conditions of employment set forth in intrastate and interstate clearance orders and must provide such workers with checklists showing wage payment schedules, working conditions, and other material specifications of the clearance order.
 
 (7) If an order holding office learns that a crop is maturing earlier than expected or that other material factors, including weather conditions and recruitment levels have changed since the date the clearance order was accepted, the SWA must contact immediately the applicant holding office which must inform immediately crews and families scheduled to report to the job site of the changed circumstances and must adjust arrangements on behalf of such crews and families.
 
@@ -96,10 +94,10 @@ Link to an amendment published at 88 FR 82730, Nov. 24, 2023.
 
 (9) If weather conditions, over-recruitment, or other conditions have eliminated the scheduled job opportunities, the SWAs involved must make every effort to place the workers in alternate job opportunities as soon as possible, especially if the worker(s) is/are already en route or at the job site. ES staff must keep records of actions under this section.
 
-(10) Applicant-holding offices must provide workers referred on clearance orders with a checklist summarizing wages, working conditions and other material specifications in the clearance order. Such checklists, where necessary, must be in the workers' native language. The checklist must include language notifying the worker that a copy of the original clearance order is available upon request. SWAs must use a standard checklist format provided by the Department (such as in Form WH516 or a successor form).
+(10) Applicant-holding offices must provide workers referred on clearance orders with a checklist summarizing wages, working conditions and other material specifications in the clearance order. The checklist must include language notifying the worker that a copy of the original clearance order is available upon request.
 
-(11) The applicant-holding office must give each referred worker a copy of the list of worker's rights described in the Department's ARS Handbook.
+(11) The applicant-holding office must give each referred worker a copy of the list of worker's rights described in Departmental guidance.
 
 (12) If the labor supply SWA accepts a clearance order, the SWA must actively recruit workers for referral. In the event a potential labor supply SWA rejects a clearance order, the reasons for rejection must be documented and submitted to the Regional Administrator having jurisdiction over the SWA. The Regional Administrator will examine the reasons for rejection, and, if the Regional Administrator agrees, will inform the Regional Administrator with jurisdiction over the order-holding SWA of the rejection and the reasons. If the Regional Administrator who receives the notification of rejection does not concur with the reasons for rejection, that Regional Administrator will inform the National Monitor Advocate, who, in consultation with the appropriate ETA higher authority, will make a final determination on the acceptance or rejection of the order.
 
-[81 FR 56341, Aug. 19, 2016, as amended at 85 FR 628, Jan. 6, 2020; 87 FR 61791, Oct. 12, 2022]
+[81 FR 56341, Aug. 19, 2016, as amended at 85 FR 628, Jan. 6, 2020; 87 FR 61791, Oct. 12, 2022; 88 FR 82730, Nov. 24, 2023]

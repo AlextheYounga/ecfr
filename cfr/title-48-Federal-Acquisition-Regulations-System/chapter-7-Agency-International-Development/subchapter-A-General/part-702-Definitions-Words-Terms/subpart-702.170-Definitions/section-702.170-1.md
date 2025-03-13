@@ -1,5 +1,7 @@
 ##### 702.170-1 Definitions. #####
 
+Link to an amendment published at 89 FR 4204, Jan. 23, 2024.
+
 A word or term, defined in this section, has the same meaning throughout the AIDAR.
 
 *Administrator* means the Administrator or Deputy Administrator of the U.S. Agency for International Development.

@@ -1,5 +1,7 @@
 ##### 752.7005 Submission requirements for development experience documents. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 The following clause must be inserted in all USAID professional/technical contracts in which development experience documents are likely to be produced.
 
 Submission Requirements for Development Experience Documents (SEP 2013)

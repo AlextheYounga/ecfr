@@ -1,5 +1,7 @@
 ##### 752.7028 Differential and allowances. #####
 
+Link to an amendment published at 89 FR 4208, Jan. 23, 2024.
+
 The following clause is for use in all USAID cost reimbursement contracts performed in whole or in part overseas.
 
 Differentials and Allowances (JUL 1996)

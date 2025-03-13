@@ -1,5 +1,7 @@
 ##### 706.302-70 Impairment of foreign aid programs. #####
 
+Link to an amendment published at 89 FR 4205, Jan. 23, 2024.
+
 (a) *Authority.* (1) Citation: 40 U.S.C. 113.
 
 (2) Full and open competition need not be obtained when it would impair or otherwise have an adverse effect on programs conducted for the purposes of foreign aid, relief, and rehabilitation.

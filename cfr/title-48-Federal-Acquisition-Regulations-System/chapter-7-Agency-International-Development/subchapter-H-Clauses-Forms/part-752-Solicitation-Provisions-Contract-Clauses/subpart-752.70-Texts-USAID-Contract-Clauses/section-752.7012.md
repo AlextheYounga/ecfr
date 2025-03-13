@@ -1,5 +1,7 @@
 ##### 752.7012 Protection of the individual as a research subject. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 This clause is for use in any USAID contract which involves research using human subjects.
 
 Protection of the Individual as a Research Subject (AUG 1995)

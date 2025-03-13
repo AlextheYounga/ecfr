@@ -1,5 +1,7 @@
 ##### 752.242-70 Periodic progress reports. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 As prescribed in (48 CFR) AIDAR 742.1170-4(c), insert the following clause in contracts for which periodic progress reports are required from the contractor. The term “contract” shall be interpreted as “task order” or “delivery order” when this clause is used in an indefinite-delivery contract.
 
 Periodic Progress Reports (OCT 2007)

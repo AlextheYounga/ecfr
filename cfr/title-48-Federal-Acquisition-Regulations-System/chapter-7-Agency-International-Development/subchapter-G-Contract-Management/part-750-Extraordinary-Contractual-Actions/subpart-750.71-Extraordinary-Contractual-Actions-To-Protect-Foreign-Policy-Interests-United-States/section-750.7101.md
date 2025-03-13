@@ -1,5 +1,7 @@
 ##### 750.7101 Authority. #####
 
+Link to an amendment published at 89 FR 4207, Jan. 23, 2024.
+
 Under section 633 of the Foreign Assistance Act of 1961, 75 Stat. 454 (22 U.S.C. 2933), as amended; Executive Order 11223, dated May 12, 1965 (30 FR 6635), as amended; and Executive Order 12163, dated September 29, 1979 (44 FR 56673), as amended, the Administrator of the U.S. Agency for International Development has been granted authority to provide extraordinary contractual relief. The Authority is set forth in sections 3 and 4 of Executive Order 11223, as follows:
 
 Section 3. With respect to cost-type contracts heretofore or hereafter made with non-profit institutions under which no fee is charged or paid, amendments or modifications of such contracts may be made with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished, irrespective of the time or circumstances of the making, or of the form of the contract amended or modified, or of the amending or modifying contract and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof.

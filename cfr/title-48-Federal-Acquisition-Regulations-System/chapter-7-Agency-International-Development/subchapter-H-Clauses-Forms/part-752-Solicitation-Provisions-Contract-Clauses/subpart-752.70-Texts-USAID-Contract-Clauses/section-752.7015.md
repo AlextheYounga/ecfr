@@ -1,5 +1,7 @@
 ##### 752.7015 Use of pouch facilities. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 For use in all USAID non-commercial contracts exceeding the simplified acquisition threshold and involving performance overseas.
 
 Use of Pouch Facilities (JUL 1997)

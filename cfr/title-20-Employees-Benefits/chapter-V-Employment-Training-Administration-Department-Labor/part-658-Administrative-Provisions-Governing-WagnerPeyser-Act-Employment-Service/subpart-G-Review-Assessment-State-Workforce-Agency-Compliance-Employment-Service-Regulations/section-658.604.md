@@ -1,7 +1,5 @@
 ##### § 658.604 Assessment and evaluation of program performance data. #####
 
-Link to an amendment published at 88 FR 82736, Nov. 24, 2023.
-
 (a) State Workforce Agencies must compile program performance data required by the Department, including statistical information on program operations.
 
 (b) The Department must use the program performance data in assessing and evaluating whether each SWA has complied with ES regulations and its State Plan.
@@ -14,10 +12,12 @@ Link to an amendment published at 88 FR 82736, Nov. 24, 2023.
 
 (3) The Department must take into account that certain program performance data may measure items over which SWAs have direct or substantial control while other data may measure items over which the SWA has indirect or minimal control.
 
-(i) Generally, for example, a SWA has direct and substantial control over the delivery of employment services such as referrals to jobs, job development contacts, counseling, referrals to career and supportive services, and the conduct of field checks.
+(i) Generally, for example, a SWA has direct and substantial control over the delivery of ES services such as referrals to jobs, job development contacts, counseling, referrals to career and supportive services, and the conduct of field checks.
 
 (ii) State Workforce Agencies, however, have only indirect control over the outcome of services. For example, SWAs cannot guarantee that an employer will hire a referred applicant, nor can they guarantee that the terms and conditions of employment will be as stated on a job order.
 
 (iii) Outside forces, such as a sudden heavy increase in unemployment rates, a strike by SWA employees, or a severe drought or flood, may skew the results measured by program performance data.
 
 (4) The Department must consider a SWA's failure to keep accurate and complete program performance data required by ES regulations as a violation of the ES regulations.
+
+[81 FR 56352, Aug. 19, 2016, as amended at 88 FR 82736, Nov. 24, 2023]

@@ -1,5 +1,7 @@
 ##### 752.7010 Conversion of U.S. dollars to local currency. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 For use in all USAID non-commercial contracts involving performance overseas.
 
 Conversion of U.S. Dollars to Local Currency (APR 1984)

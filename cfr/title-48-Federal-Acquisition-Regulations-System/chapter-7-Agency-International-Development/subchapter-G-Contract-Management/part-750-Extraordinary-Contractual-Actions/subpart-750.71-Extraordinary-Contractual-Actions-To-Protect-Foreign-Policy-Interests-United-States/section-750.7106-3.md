@@ -1,5 +1,7 @@
 ##### 750.7106-3 Mistakes. #####
 
+Link to an amendment published at 89 FR 4207, Jan. 23, 2024.
+
 A contract may be amended or modified to correct or mitigate the effect of a mistake, including the following examples:
 
 (a) A mistake or ambiguity which consists of the failure to express or to express clearly in the written contract the agreements as both parties understood them;

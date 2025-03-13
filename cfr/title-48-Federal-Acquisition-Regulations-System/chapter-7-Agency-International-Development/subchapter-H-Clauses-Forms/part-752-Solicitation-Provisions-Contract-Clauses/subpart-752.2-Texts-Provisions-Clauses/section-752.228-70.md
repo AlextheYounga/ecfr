@@ -1,5 +1,7 @@
 ##### 752.228-70 Medical Evacuation (MEDEVAC) Services. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 As prescribed in 728.307-70, for use in all contracts requiring performance overseas:
 
 Medical Evacuation (MEDEVAC) Services (JUL 2007)

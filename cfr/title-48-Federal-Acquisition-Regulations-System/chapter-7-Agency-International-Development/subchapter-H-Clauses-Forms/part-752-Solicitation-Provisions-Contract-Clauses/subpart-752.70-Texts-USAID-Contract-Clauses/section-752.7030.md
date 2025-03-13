@@ -1,5 +1,7 @@
 ##### 752.7030 Inspection trips by contractor's officers and executives. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 For use in cost reimbursement contracts with an educational institution involving performance overseas.
 
 Inspection Trips by Contractor's Officers and Executives (APR 1984)

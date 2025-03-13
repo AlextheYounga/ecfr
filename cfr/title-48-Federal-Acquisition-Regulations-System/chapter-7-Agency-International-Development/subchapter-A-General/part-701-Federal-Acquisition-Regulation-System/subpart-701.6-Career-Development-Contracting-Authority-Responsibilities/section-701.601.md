@@ -1,5 +1,7 @@
 ##### 701.601 General. #####
 
+Link to an amendment published at 89 FR 4203, Jan. 23, 2024.
+
 (a)(1) Pursuant to the delegations in USAID's Automated Directives System (ADS) Chapter 103, the M/OAA Director is authorized to act as the head of the agency for all purposes described in the Federal Acquisition Regulation (FAR, 48 CFR chapter 1), except for the authority in (48 CFR) FAR 6.302-7(a)(2), 6.302-7(c)(1), 17.602(a), 19.201(c), 27.306(a), 27.306(b), and 30.201-5, or where the “head of the agency” authority is expressly not delegable under the FAR or AIDAR. Further, the M/OAA Director is responsible for implementing the procurement related aspects of the Foreign Assistance Act, Executive Order 11223, the Office of Federal Procurement Policy Act, and other statutory and Executive Branch procurement policies and requirements applicable to USAID operations, including those authorities and responsibilities delegated to the Senior Procurement Executive as specified in USAID's internal delegations found in the ADS.
 
 (2) The M/OAA Director has specific authority to:

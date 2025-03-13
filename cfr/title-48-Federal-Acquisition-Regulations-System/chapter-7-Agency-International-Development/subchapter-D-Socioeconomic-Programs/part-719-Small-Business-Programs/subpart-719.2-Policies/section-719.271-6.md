@@ -1,5 +1,7 @@
 ##### 719.271-6 Small business screening procedure. #####
 
+Link to an amendment published at 89 FR 4206, Jan. 23, 2024.
+
 (a) *General.* All USAID/Washington proposed contract actions in excess of the simplified acquisition threshold shall be screened by OSDBU, with the exception of:
 
 (1) Class set-asides and those unilaterally set-aside by contracting officers (719.271-3(f));

@@ -1,5 +1,7 @@
 ##### 752.7004 Emergency locator information. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 The following clause is to be inserted in all contracts requiring travel overseas.
 
 Emergency Locator Information (JUL 1997)

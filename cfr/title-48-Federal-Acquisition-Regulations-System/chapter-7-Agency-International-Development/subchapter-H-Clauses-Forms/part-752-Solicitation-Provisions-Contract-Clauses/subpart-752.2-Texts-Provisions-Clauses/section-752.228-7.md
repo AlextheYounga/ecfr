@@ -1,5 +1,7 @@
 ##### 752.228-7 Insurance—liability to third persons. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 As prescribed in 728.307-2(c), the following paragraph must be added to the clause specified in (48 CFR) FAR 52.228-7 as either paragraph (h) (if (48 CFR) FAR 52.228-7 *Alternate I* is not used) or (i) (if (48 CFR) FAR 52.228-7 Alternate I is used):
 
 Insurance—Liability to Third Persons (JUL 1997)

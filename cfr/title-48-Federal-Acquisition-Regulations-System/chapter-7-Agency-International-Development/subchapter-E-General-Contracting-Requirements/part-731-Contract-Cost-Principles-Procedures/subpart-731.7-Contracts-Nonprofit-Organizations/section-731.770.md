@@ -1,5 +1,7 @@
 ##### 731.770 OMB Circular A-122, cost principles for nonprofit organizations; USAID implementation. #####
 
+Link to an amendment published at 89 FR 4206, Jan. 23, 2024.
+
 (a) Paragraph 6 of the transmittal letter for OMB Circular A-122 specifies that “Agencies shall designate a liaison official to serve as the agency representative on matters relating to the implementation of this Circular.” The Director, Bureau for Management, Office of Acquisition and Assistance, has been so designated. The Bureau for Management, Office of Acquisition and Assistance, Cost Audit Support Division, Overhead and Special Cost and Contract Close-Out Branch (M/OAA/CAS/OCC) provides staff assistance to the Director concerning OMB Circular A-122. M/OAA/CAS/OCC is also responsible for obtaining cognizance under the criteria in the transmittal letter for OMB Circular A-122; for liaison with other cognizant agencies; for authorizing exclusion of OMB Circular A-122 coverage for a particular nonprofit organization pursuant to paragraph 5 of the OMB Circular A-122 transmittal letter; and for advice and assistance in applying OMB Circular A-122 cost principles.
 
 (b) Paragraph 4b of the OMB Circular A-122 transmittal letter contains a definition of *prior approval* as follows:

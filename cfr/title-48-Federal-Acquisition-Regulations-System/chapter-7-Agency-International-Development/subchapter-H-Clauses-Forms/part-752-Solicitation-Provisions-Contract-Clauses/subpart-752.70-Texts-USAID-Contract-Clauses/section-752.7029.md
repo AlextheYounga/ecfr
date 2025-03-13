@@ -1,5 +1,7 @@
 ##### 752.7029 Post privileges. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 For use in all USAID non-commercial contracts involving performance overseas.
 
 Post Privileges (JUL 1993)

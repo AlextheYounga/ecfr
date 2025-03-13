@@ -1,5 +1,7 @@
 ##### 752.7025 Approvals. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 For use in all USAID contracts.
 
 Approvals (APR 1984)

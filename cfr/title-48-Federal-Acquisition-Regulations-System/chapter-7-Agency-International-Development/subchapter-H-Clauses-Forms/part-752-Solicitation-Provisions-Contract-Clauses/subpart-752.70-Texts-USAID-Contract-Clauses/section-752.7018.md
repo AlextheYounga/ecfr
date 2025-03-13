@@ -1,5 +1,7 @@
 ##### 752.7018 Health and accident coverage for USAID participant trainees. #####
 
+Link to an amendment published at 89 FR 4208, Jan. 23, 2024.
+
 For use in any USAID contract under which USAID participants are trained.
 
 Health and Accident Coverage for USAID Participant Trainees (JAN 1999)

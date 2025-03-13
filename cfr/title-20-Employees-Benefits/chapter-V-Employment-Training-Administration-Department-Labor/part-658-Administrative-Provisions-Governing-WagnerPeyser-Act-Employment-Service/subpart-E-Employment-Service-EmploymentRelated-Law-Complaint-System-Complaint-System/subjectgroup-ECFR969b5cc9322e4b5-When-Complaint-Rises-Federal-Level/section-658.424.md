@@ -1,7 +1,5 @@
 ##### § 658.424 Proceedings before the Office of Administrative Law Judges. #####
 
-Link to an amendment published at 88 FR 82733, Nov. 24, 2023.
-
 (a) If a party requests a hearing pursuant to § 658.421 or § 658.707, the Regional Administrator must:
 
 (1) Send the party requesting the hearing, and all other parties to the prior State level hearing, a written notice (hard copy or electronic) that the matter will be referred to the Office of Administrative Law Judges for a hearing;
@@ -14,7 +12,7 @@ Link to an amendment published at 88 FR 82733, Nov. 24, 2023.
 
 (c) Upon receipt of a hearing file, the ALJ designated to the case must notify the party requesting the hearing, all parties to the prior State hearing official hearing (if any), the State agency, the Regional Administrator, the OWI Administrator, and the Solicitor of Labor of the receipt of the case. After conferring all the parties, the ALJ may decide to make a determination on the record in lieu of scheduling a hearing.
 
-(d) The ALJ may decide to consolidate cases and conduct hearings on more than one complaint concurrently if he/she determines that the issues are related or that the complaints will be handled more expeditiously.
+(d) The ALJ may decide to consolidate cases and conduct hearings on more than one complaint concurrently if they determine that the issues are related or that the complaints will be processed more expeditiously.
 
 (e) If the parties to the hearing are located in more than one State or are located in the same State but access to the hearing location is extremely inconvenient for one or more parties as determined by the ALJ, the ALJ must:
 
@@ -35,3 +33,5 @@ Link to an amendment published at 88 FR 82733, Nov. 24, 2023.
 (j) The case record, or any portion thereof, must be available for inspection and copying by any party to the hearing at, prior to, or subsequent to the hearing upon request. Special procedures may be used for disclosure of medical and psychological records such as disclosure to a physician designated by the individual concerned.
 
 (k) The ALJ must, if feasible, encourage resolution of the dispute by conciliation at any time prior to the conclusion of the hearing.
+
+[81 FR 56352, Aug. 19, 2016, as amended at 88 82733, Nov. 24, 2023]

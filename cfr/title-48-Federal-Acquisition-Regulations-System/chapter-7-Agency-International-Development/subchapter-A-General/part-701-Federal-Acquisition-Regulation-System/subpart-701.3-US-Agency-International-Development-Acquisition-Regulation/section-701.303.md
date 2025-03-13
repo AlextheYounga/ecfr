@@ -1,5 +1,7 @@
 ##### 701.303 Publication and codification. #####
 
+Link to an amendment published at 89 FR 4202, Jan. 23, 2024.
+
 (a) The AIDAR is USAID's Acquisition Regulation supplementing the FAR (48 CFR chapter 1) and is published as chapter 7 of title 48, Code of Federal Regulations. AIDAR Circulars shall be used to promulgate changes to the AIDAR and shall be published in compliance with (48 CFR) FAR part 1.
 
 (b) *Appendices.* Significant procurement policies and procedures that do not correspond to or conveniently fit into the FAR system described in FAR subpart 1.1 and 1.303 may be published as Appendices to the AIDAR. Appendices follow the main text of the AIDAR in a section entitled “Appendices to Chapter 7” and contain a table of contents and the individual appendices identified by letter and subject title (e.g., “Appendix D—Direct USAID Contracts with a U.S. Citizen or a U.S. Resident Alien for Personal Services Abroad”).

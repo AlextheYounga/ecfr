@@ -1,5 +1,7 @@
 ##### 752.231-71 Salary supplements for HG employees. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 As prescribed in 731.205-71, for use in all contracts with a possible need or services of a HG employee. The clause should also be inserted in all subsequent sub-contracts.
 
 Salary Supplements for HG Employees (MAR 2015)

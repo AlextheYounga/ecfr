@@ -1,5 +1,7 @@
 ##### 752.7021 Changes in tuition and fees. #####
 
+Link to an amendment published at 89 FR 4208, Jan. 23, 2024.
+
 For use in contracts for participant training with an educational institution.
 
 Changes in Tuition and Fees (APR 1984)

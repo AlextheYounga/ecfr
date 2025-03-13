@@ -1,5 +1,7 @@
 ##### 752.245-71 Title to and care of property. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 As prescribed in paragraph (a) of (48 CFR) AIDAR 745.107, the following clause must be inserted in all contracts when the contractor will acquire property under the contract for use overseas and the contract funds were obligated under a Development Objective Agreement (DOAG) (or similar bilateral obligating agreement) with the cooperating country.
 
 Title to and Care of Property (APR 1984)

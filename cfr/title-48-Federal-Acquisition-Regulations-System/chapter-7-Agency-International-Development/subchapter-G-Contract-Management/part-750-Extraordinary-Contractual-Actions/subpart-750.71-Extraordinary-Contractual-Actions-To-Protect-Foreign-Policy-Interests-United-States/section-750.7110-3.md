@@ -1,5 +1,7 @@
 ##### 750.7110-3 Submission of cases to the M/OAA Director. #####
 
+Link to an amendment published at 89 FR 4208, Jan. 23, 2024.
+
 Cases to be submitted for consideration by the M/OAA Director shall be prepared and forwarded by the cognizant contracting officer through M/OAA/E to the M/OAA Director by means of an action memorandum. M/OAA/E will review the action memorandum for accuracy and completeness. The action memorandum shall provide for approval or disapproval by the M/OAA Director of the disposition recommended by the contracting officer. The action memorandum shall address:
 
 (a) The nature of the case;

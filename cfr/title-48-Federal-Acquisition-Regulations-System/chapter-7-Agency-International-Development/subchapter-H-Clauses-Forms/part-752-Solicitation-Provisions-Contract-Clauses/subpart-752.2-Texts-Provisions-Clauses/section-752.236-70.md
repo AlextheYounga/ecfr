@@ -1,5 +1,7 @@
 ##### 752.236-70 Standards for accessibility for the disabled in USAID construction contracts. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 As prescribed in 736.570, for contracts for construction or renovation using program funds, insert the following clause.
 
 Standards for Accessibility for the Disabled in USAID Construction Contracts (JUL 2007)

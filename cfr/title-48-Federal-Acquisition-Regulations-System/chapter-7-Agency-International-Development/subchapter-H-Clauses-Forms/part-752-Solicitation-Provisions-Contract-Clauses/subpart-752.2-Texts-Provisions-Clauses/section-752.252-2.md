@@ -1,5 +1,7 @@
 ##### 752.252-2 AIDAR clauses incorporated by reference #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 In accordance with 752.107(b), insert the following clause.
 
 AIDAR Clauses Incorporated By Reference (MAR 2015)

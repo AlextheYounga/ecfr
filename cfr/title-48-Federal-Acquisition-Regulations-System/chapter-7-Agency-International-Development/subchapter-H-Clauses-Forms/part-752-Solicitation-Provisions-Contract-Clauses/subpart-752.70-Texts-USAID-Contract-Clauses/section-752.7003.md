@@ -1,5 +1,7 @@
 ##### 752.7003 Documentation for payment. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 The following clause is required in all USAID direct contracts, excluding fixed price contracts:
 
 Documentation for Payment (NOV 1998)

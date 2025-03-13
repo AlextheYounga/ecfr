@@ -1,5 +1,7 @@
 ##### 752.7011 Orientation and language training. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 For use in all USAID cost-reimbursement contracts involving performance overseas.
 
 Orientation and Language Training (APR 1984)

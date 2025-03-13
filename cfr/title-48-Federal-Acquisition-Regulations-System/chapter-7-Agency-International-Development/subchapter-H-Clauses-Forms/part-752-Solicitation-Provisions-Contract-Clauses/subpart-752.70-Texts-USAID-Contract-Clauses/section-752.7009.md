@@ -1,5 +1,7 @@
 ##### 752.7009 Marking. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 The following clause is for use in all USAID contracts performed in whole or in part overseas.
 
 Marking (JAN 1993)

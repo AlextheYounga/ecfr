@@ -1,5 +1,7 @@
 ##### 752.252-70 Provisions and clauses to be completed by the offeror. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 In accordance with 752.107(c), insert the following clause.
 
 Provisions and Clauses To Be Completed by the Offeror (MAR 2015)

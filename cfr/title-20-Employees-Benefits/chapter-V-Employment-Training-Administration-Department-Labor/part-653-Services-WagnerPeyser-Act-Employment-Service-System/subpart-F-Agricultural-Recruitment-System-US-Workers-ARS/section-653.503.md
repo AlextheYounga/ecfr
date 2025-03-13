@@ -1,8 +1,6 @@
 ##### § 653.503 Field checks. #####
 
-Link to an amendment published at 88 FR 82730, Nov. 24, 2023.
-
-(a) If a worker is placed on a clearance order, the SWA must notify the employer in writing that the SWA, through its ES offices, and/or Federal staff, must conduct random, unannounced field checks to determine and document whether wages, hours, and working and housing conditions are being provided as specified in the clearance order.
+(a) If a worker is placed on a clearance order, the SWA must notify the employer in writing that the SWA, through its ES offices, and/or Federal staff, must conduct unannounced field checks to determine and document whether wages, hours, transportation, and working and housing conditions are being provided as specified in the clearance order.
 
 (b) Where the SWA has made placements on 10 or more agricultural clearance orders (pursuant to this subpart) during the quarter, the SWA must conduct field checks on at least 25 percent of the total of such orders. Where the SWA has made placements on nine or fewer job orders during the quarter (but at least one job order), the SWA must conduct field checks on 100 percent of all such orders. This requirement must be met on a quarterly basis.
 
@@ -14,4 +12,4 @@ Link to an amendment published at 88 FR 82730, Nov. 24, 2023.
 
 (f) ES staff must keep records of all field checks.
 
-[81 FR 56341, Aug. 19, 2016, as amended at 85 FR 628, Jan. 6, 2020]
+[81 FR 56341, Aug. 19, 2016, as amended at 85 FR 628, Jan. 6, 2020; 88 FR 82730, Nov. 24, 2023]

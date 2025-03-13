@@ -1,5 +1,7 @@
 ##### 752.7006 Notices. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 The following clause shall be used in all USAID contracts.
 
 Notices (APR 1984)

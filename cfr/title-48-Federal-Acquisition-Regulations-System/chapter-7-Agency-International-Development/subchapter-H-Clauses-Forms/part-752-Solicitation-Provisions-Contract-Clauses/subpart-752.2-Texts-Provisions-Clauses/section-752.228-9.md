@@ -1,5 +1,7 @@
 ##### 752.228-9 Cargo insurance. #####
 
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+
 As prescribed in 728.313(a), the following preface is to be used preceding the text of the clause at (48 CFR) FAR 52.228-9:
 
 Cargo Insurance (DEC 1998)
