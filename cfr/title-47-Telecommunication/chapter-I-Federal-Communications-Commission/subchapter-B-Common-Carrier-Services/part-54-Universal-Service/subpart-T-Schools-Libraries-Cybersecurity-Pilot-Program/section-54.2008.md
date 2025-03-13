@@ -1,1 +1,71 @@
-##### § 54.2008 [Reserved] #####
+##### § 54.2008 Requests for reimbursement. #####
+
+(a) *Submission of request for reimbursement (FCC Form 472 or FCC Form 474).* Consistent with the invoicing selection made by the Pilot participant, reimbursement for the costs associated with eligible services and equipment shall be provided directly to the participant, or its service provider(s), seeking reimbursement from the Schools and Libraries Cybersecurity Pilot Program upon submission and approval of a completed FCC Form 472 (Billed Entity Applicant Reimbursement Form) or a completed FCC Form 474 (Service Provider Invoice) to the Administrator.
+
+(1) The FCC Form 472 shall be signed by the person authorized to submit requests for reimbursement for the eligible school, library, or consortium and shall include that person's certification under penalty of perjury that:
+
+(i) “I am authorized to submit this request for reimbursement on behalf of the above-named school, library, or consortium and that based on information known to me or provided to me by employees responsible for the data being submitted, I hereby certify that the data set forth in this request for reimbursement has been examined and is true, accurate, and complete. I acknowledge that any false statement on this request for reimbursement or on other documents submitted by this school, library, or consortium can be punished by fine or forfeiture under the Communications Act (47 U.S.C. 502, 503(b)), or fine or imprisonment under Title 18 of the United States Code (18 U.S.C. 1001), or can lead to liability under the False Claims Act (31 U.S.C. 3729-3733).”
+
+(ii) “In addition to the foregoing, the school, library, or consortium is in compliance with the rules and orders governing the Schools and Libraries Cybersecurity Pilot Program, and I acknowledge that failure to be in compliance and remain in compliance with those rules and orders may result in the denial of funding, cancellation of funding commitments, and/or recoupment of past disbursements. I acknowledge that failure to comply with the rules and orders governing the Schools and Libraries Cybersecurity Pilot Program could result in civil or criminal prosecution by law enforcement authorities.”
+
+(iii) “By signing this request for reimbursement, I certify that the information contained in this request for reimbursement is true, complete, and accurate, and the expenditures, disbursements, and cash receipts are for the purposes and objectives set forth in the terms and conditions of the federal award. I am aware that any false, fictitious, or fraudulent information, or the omission of any material fact, may subject me to criminal, civil, or administrative penalties for fraud, false statements, false claims, or otherwise. (U.S. Code Title 18, sections §§ 1001, 286-287, and 1341, and Title 31, §§ 3729-3730 and 3801-3812).”
+
+(iv) The funds sought in the request for reimbursement are for eligible services and/or equipment that were purchased in accordance with the Schools and Libraries Cybersecurity Pilot Program rules and requirements in this subpart and received by the school, library, or consortium. The equipment and/or services being requested for reimbursement were determined to be eligible and approved by the Administrator.
+
+(v) The non-discounted share of costs amount(s) were billed by the Service Provider and paid in full by the Billed Entity Applicant on behalf of the eligible schools, libraries, and consortia of those entities.
+
+(vi) The school, library, or consortium is not seeking Schools and Libraries Cybersecurity Pilot Program reimbursement for the portion of eligible services and/or equipment that have been purchased and reimbursed in full or in part with other Federal, state, Tribal, or local funding or are eligible for discounts from the schools and libraries universal service support mechanism or other universal service support mechanisms.
+
+(vii) The school, library, or consortium acknowledges that it must submit invoices detailing the items purchased and received along with the submission of its request for reimbursement as required by paragraph (b) of this section.
+
+(viii) The equipment and/or services the school, library, or consortium purchased will not be sold, resold, or transferred in consideration for money or any other thing of value, except as allowed by § 54.2003(b).
+
+(ix) The school, library, or consortium acknowledges that it may be subject to an audit, inspection, or investigation pursuant to its request for reimbursement, that it will retain for ten years any and all records related to its request for reimbursement, and will make such records and equipment purchased with Schools and Libraries Cybersecurity Pilot Program reimbursement available at the request of any representative (including any auditor) appointed by a state education department, the Administrator, the Commission and its Office of Inspector General, or any local, state, or Federal agency with jurisdiction over the entity.
+
+(x) No kickbacks, as defined in 41 U.S.C. 8701, were paid to or received by the participant, including, but not limited to, their employees, officers, representatives, agents, independent contractors, consultants, family members, and individuals who are on the governing boards, from anyone in connection with the Schools and Libraries Cybersecurity Pilot Program or the schools and libraries universal service support mechanism.
+
+(xi) The school, library, or consortium acknowledges that Commission rules provide that persons who have been convicted of criminal violations or held civilly liable for certain acts arising from their participation in the universal service support mechanisms are subject to suspension and debarment from the program. The school, library, or consortium will institute reasonable measures to be informed, and will notify the Administrator should it be informed or become aware that any of the entities listed on this application, or any person associated in any way with this entity and/or the entities listed on this application, is convicted of a criminal violation or held civilly liable for acts arising from their participation in the universal service support mechanisms.
+
+(xii) No universal service support has been or will be used to purchase, obtain, maintain, improve, modify, or otherwise support any equipment or services produced or provided by any company designated by the Commission as posing a national security threat to the integrity of communications networks or the communications supply chain since the effective date of the designations.
+
+(xiii) No Federal subsidy made available through a program administered by the Commission that provides funds to be used for the capital expenditures necessary for the provision of advanced communications services has been or will be used to purchase, rent, lease, or otherwise obtain, any covered communications equipment or service, or maintain, any covered communications equipment or service, or maintain any covered communications equipment or service previously purchased, rented, leased, or otherwise obtained, as required by § 54.10.
+
+(2) The FCC Form 474 shall be signed by the person authorized to submit requests for reimbursement for the service provider and shall include that person's certification under penalty of perjury that:
+
+(i) “I am authorized to submit this request for reimbursement on behalf of the above-named Service Provider and that based on information known to me or provided to me by employees responsible for the data being submitted, I hereby certify that the data set forth in this request for reimbursement has been examined and is true, accurate, and complete. I acknowledge that any false statement on this request for reimbursement or on other documents submitted by this Service Provider can be punished by fine or forfeiture under the Communications Act (47 U.S.C. 502, 503(b)), or fine or imprisonment under Title 18 of the United States Code (18 U.S.C. 1001), or can lead to liability under the False Claims Act (31 U.S.C. 3729-3733).”
+
+(ii) “In addition to the foregoing, the Service Provider is in compliance with the rules and orders governing the Schools and Libraries Cybersecurity Pilot Program, and I acknowledge that failure to be in compliance and remain in compliance with those rules and orders may result in the denial of funding, cancellation of funding commitments, and/or recoupment of past disbursements. I acknowledge that failure to comply with the rules and orders governing the Schools and Libraries Cybersecurity Pilot Program could result in civil or criminal prosecution by law enforcement authorities.”
+
+(iii) “By signing this request for reimbursement, I certify that the information contained in this request for reimbursement is true, complete, and accurate, and the expenditures, disbursements, and cash receipts are for the purposes and objectives set forth in the terms and conditions of the federal award. I am aware that any false, fictitious, or fraudulent information, or the omission of any material fact, may subject me to criminal, civil, or administrative penalties for fraud, false statements, false claims, or otherwise. (U.S. Code Title 18, §§ 1001, 286-287, and 1341, and Title 31, §§ 3729-3730 and 3801-3812).”
+
+(iv) The funds sought in the request for reimbursement are for eligible services and/or equipment that were purchased in accordance with the Schools and Libraries Cybersecurity Pilot Program rules and requirements in this subpart and received by the school, library, or consortium.
+
+(v) The Service Provider is not seeking Schools and Libraries Cybersecurity Pilot Program reimbursement for eligible equipment and/or services for which the Service Provider has already been paid.
+
+(vi) The Service Provider certifies that the school's, library's, or consortium's non-discount portion of costs for the eligible equipment and services has not been waived, paid, or promised to be paid by this Service Provider. The Service Provider acknowledges that the provision of a supported service or free services or equipment unrelated to the supported equipment or services constitutes a rebate of the non-discount portion of the costs as stated in § 54.2007(d).
+
+(vii) The Service Provider acknowledges that it must submit invoices detailing the items purchased and provided to the school, library, or consortium, along with the submission of its request for reimbursement as required by paragraph (b) of this section.
+
+(viii) The Service Provider certifies that it is compliant with the Commission's rules and orders regarding gifts and this Service Provider has not directly or indirectly offered or provided any gifts, gratuities, favors, entertainment, loans, or any other thing of value to any eligible school, library, or consortium, except as provided for in this subpart.
+
+(ix) The Service Provider acknowledges that it may be subject to an audit, inspection, or investigation pursuant to its request for reimbursement, that it will retain for ten years any and all records related to its request for reimbursement, and will make such records and equipment purchased with Schools and Libraries Cybersecurity Pilot Program reimbursement available at the request of any representative (including any auditor) appointed by a state education department, the Administrator, the Commission and its Office of Inspector General, or any local, state, or Federal agency with jurisdiction over the entity.
+
+(x) No kickbacks, as defined in 41 U.S.C. 8701, were paid by the Service Provider to anyone in connection with the Schools and Libraries Cybersecurity Pilot Program or the schools and libraries universal service support mechanism.
+
+(xi) The Service Provider is not debarred or suspended from any Federal programs, including the universal service support mechanisms.
+
+(xii) No universal service support has been or will be used to purchase, obtain, maintain, improve, modify, or otherwise support any equipment or services produced or provided by any company designated by the Commission as posing a national security threat to the integrity of communications networks or the communications supply chain since the effective date of the designations.
+
+(xiii) No Federal subsidy made available through a program administered by the Commission that provides funds to be used for the capital expenditures necessary for the provision of advanced communications services has been or will be used to purchase, rent, lease, or otherwise obtain, any covered communications equipment or service, or maintain any covered communications equipment or service, or maintain any covered communications equipment or service previously purchased, rented, leased, or otherwise obtained, as required by § 54.10.
+
+(b) *Required documentation.* Along with the submission of a completed FCC Form 472 or FCC Form 474, a participant or service provider seeking reimbursement from the Schools and Libraries Cybersecurity Pilot Program must submit invoices detailing the items purchased and received to the Administrator at the time the FCC Form 472 or FCC Form 474 is submitted.
+
+(c) *Reimbursement and invoice processing.* The Administrator shall accept and review requests for reimbursement and invoices subject to the invoice filing deadlines provided in paragraph (d) of this section.
+
+(d) *Invoice filing deadline.* Invoices must be submitted to the Administrator within ninety (90) days after the last date to receive service, in accordance with § 54.2001(c).
+
+(e) *Invoice deadline extensions.* In advance of the deadline calculated pursuant to paragraph (d) of this section, billed entities or service providers may request a one-time extension of the invoice filing deadline. The Administrator shall grant a ninety (90) day extension of the invoice filing deadline, if the request is timely filed.
+
+(f) *Choice of payment method.* Service providers providing discounted services under this subpart shall, prior to the submission of the FCC Form 471, permit the Schools and Libraries Cybersecurity Pilot Program participant to choose the method of payment for the discounted services from those methods offered by the Administrator, including making a full undiscounted payment and receiving subsequent reimbursement of the discount amount from the Administrator.
+
+[89 FR 61321, July 30, 2024]

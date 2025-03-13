@@ -1,5 +1,7 @@
 ##### § 64.6030 Inmate Calling Services interim rate caps. #####
 
+Link to an amendment published at 89 FR 77364, Sept. 20, 2024.
+
 (a) For all Jails with Average Daily Populations of less than 1,000 Inmates, no Provider shall charge a rate for interstate Collect Calling, Debit Calling, Prepaid Calling, or Prepaid Collect Calling in excess of $0.21 per minute.
 
 (b) For all Jails with Average Daily Populations of Inmates of 1,000 or greater, no Provider shall charge a Provider-Related Rate Component for interstate Collect Calling, Debit Calling, Prepaid Calling, or Prepaid Collect Calling in excess of $0.14 per minute.

@@ -1,7 +1,5 @@
 ##### § 404.1705 Who may be your representative. #####
 
-Link to an amendment published at 89 FR 67554, Aug. 21, 2024.
-
 (a) You may appoint as your representative in dealings with us, any attorney in good standing who—
 
 (1) Has the right to practice law before a court of a State, Territory, District, or island possession of the United States, or before the Supreme Court or a lower Federal court of the United States;
@@ -20,6 +18,8 @@ Link to an amendment published at 89 FR 67554, Aug. 21, 2024.
 
 (4) Is generally known to have a good character and reputation. Persons lacking good character and reputation, include, but are not limited to, persons who have a final conviction of a felony (as defined by § 404.1506(c)) or any crime involving moral turpitude, dishonesty, false statements, misrepresentation, deceit, or theft.
 
-(c) We may refuse to recognize the person you choose to represent you if the person does not meet the requirements in this section. We will notify you and the person you attempted to appoint as your representative if we do not recognize the person as a representative.
+(c) Your representative(s) must be registered with us in the manner we prescribe.
 
-[45 FR 52090, Aug. 5, 1980, as amended at 76 FR 80245, Dec. 23, 2011; 83 FR 30854, July 2, 2018]
+(d) We may refuse to recognize your chosen representative if the person does not meet the requirements in this section. We will notify you and the proposed representative if we do not recognize the person as your representative.
+
+[45 FR 52090, Aug. 5, 1980, as amended at 76 FR 80245, Dec. 23, 2011; 83 FR 30854, July 2, 2018; 89 FR 67554, Aug. 21, 2024]

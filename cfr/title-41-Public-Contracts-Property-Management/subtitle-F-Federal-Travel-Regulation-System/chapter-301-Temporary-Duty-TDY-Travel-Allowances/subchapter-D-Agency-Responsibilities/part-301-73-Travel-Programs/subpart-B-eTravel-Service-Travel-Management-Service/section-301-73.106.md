@@ -1,5 +1,7 @@
 ##### § 301-73.106 What are the basic services that should be covered by a TMS? #####
 
+Link to an amendment published at 89 FR 77028, Sept. 20, 2024.
+
 The TMS must, at a minimum—
 
 (a) Include a Travel Management Center (TMC), commercial ticket office (CTO), an in-house system, an electronically available system, or other method(s) of arranging travel, which has the ability to provide the following as appropriate to the agency's travel needs:

@@ -1,5 +1,7 @@
 ##### § 301-73.101 How must we prepare to implement ETS? #####
 
+Link to an amendment published at 89 FR 77028, Sept. 20, 2024.
+
 You must prepare to implement ETS as expeditiously as possible by—
 
 (a) Developing a migration plan and schedule to deploy ETS across your agency as early as possible with full deployment required no later than September 30, 2006;

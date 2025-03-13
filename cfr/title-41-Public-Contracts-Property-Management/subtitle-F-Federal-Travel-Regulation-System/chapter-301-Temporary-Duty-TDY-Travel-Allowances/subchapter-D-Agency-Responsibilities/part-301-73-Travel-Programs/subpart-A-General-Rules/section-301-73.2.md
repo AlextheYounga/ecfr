@@ -1,5 +1,7 @@
 ##### § 301-73.2 What are our responsibilities as participants in the Federal travel management program? #####
 
+Link to an amendment published at 89 FR 77027, Sept. 20, 2024.
+
 As a participant in the Federal travel management program, you must—
 
 (a) Designate an authorized representative to administer the program including leading your agency's migration of ETS;

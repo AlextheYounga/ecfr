@@ -1,5 +1,7 @@
 ##### § 301-73.102 May we grant a traveler an exception from required use of TMS or ETS once we have fully deployed ETS within the agency? #####
 
+Link to an amendment published at 89 FR 77028, Sept. 20, 2024.
+
 (a) Yes, your agency head or their designee may grant an individual case by case exception to required use of your agency's current TMS or to required use of ETS once it is fully deployed within the agency, but only when travel meets one of the following conditions:
 
 (1) Such use would result in an unreasonable burden on mission accomplishment (e.g., emergency travel is involved and TMS/ETS is not accessible; the traveler is performing invitational travel; or the traveler has special needs or requires disability accommodations in accordance with part 301-13 of this chapter).

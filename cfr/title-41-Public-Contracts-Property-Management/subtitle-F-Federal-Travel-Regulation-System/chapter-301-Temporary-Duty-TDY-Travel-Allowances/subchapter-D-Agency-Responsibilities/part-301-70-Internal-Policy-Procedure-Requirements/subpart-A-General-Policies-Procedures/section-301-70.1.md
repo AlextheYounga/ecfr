@@ -1,5 +1,7 @@
 ##### § 301-70.1 How must we administer the authorization and payment of travel expenses? #####
 
+Link to an amendment published at 89 FR 77027, Sept. 20, 2024.
+
 When administering the authorization and payment of travel expenses, you—
 
 (a) Must limit the authorization and payment of travel expenses to travel that is necessary to accomplish your mission in the most economical and effective manner, under rules stated throughout this chapter;

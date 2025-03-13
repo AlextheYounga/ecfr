@@ -1,7 +1,5 @@
 ##### § 404.1740 Rules of conduct and standards of responsibility for representatives. #####
 
-Link to an amendment published at 89 FR 67555, Aug. 21, 2024.
-
 (a) *Purpose and scope.* (1) All attorneys or other persons acting on behalf of a party seeking a statutory right or benefit must, in their dealings with us, faithfully execute their duties as agents and fiduciaries of a party. A representative must provide competent assistance to the claimant and recognize our authority to lawfully administer the process. The following provisions set forth certain affirmative duties and prohibited actions that will govern the relationship between the representative and us, including matters involving our administrative procedures and fee collections.
 
 (2) All representatives must be forthright in their dealings with us and with the claimant and must comport themselves with due regard for the nonadversarial nature of the proceedings by complying with our rules and standards, which are intended to ensure orderly and fair presentation of evidence and argument.
@@ -100,4 +98,6 @@ Link to an amendment published at 89 FR 67555, Aug. 21, 2024.
 
 (14) Fail to oversee the representative's employees, assistants, partners, contractors, or any other person assisting the representative on claims for which the representative has been appointed when the representative has managerial or supervisory authority over these individuals or otherwise has responsibility to oversee their work.
 
-[63 FR 41416, Aug. 4, 1998, as amended at 76 FR 56109, Sept. 12, 2011; 76 FR 80245, Dec. 23, 2011; 80 FR 14837, Mar. 20, 2015; 83 FR 30854, July 2, 2018]
+(15) While serving as a point of contact for an entity, violate applicable affirmative duties, engage in prohibited actions, or conduct dealings with us in a manner that is untruthful or does not further the efficient and prompt correction of a fee error.
+
+[63 FR 41416, Aug. 4, 1998, as amended at 76 FR 56109, Sept. 12, 2011; 76 FR 80245, Dec. 23, 2011; 80 FR 14837, Mar. 20, 2015; 83 FR 30854, July 2, 2018; 89 FR 67555, Aug. 21, 2024]

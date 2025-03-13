@@ -1,5 +1,7 @@
 ##### § 64.6110 Consumer disclosure of Inmate Calling Services rates. #####
 
+Link to an amendment published at 89 FR 77366, Sept. 20, 2024.
+
 (a) Providers must clearly, accurately, and conspicuously disclose their interstate, intrastate, and international rates and Ancillary Service Charges to consumers on their websites or in another reasonable manner readily available to consumers. In connection with international rates, providers shall also separately disclose the rate component for terminating calls to each country where that provider terminates International Calls.
 
 (b) Providers must clearly label the Facility-Related Rate Component (either the Legally Mandated Facility Rate Component or the Contractually Prescribed Facility Rate Component) identified in § 64.6030(d) as a separate line item on Consumer bills for the recovery of permissible facility-related costs contained in Site Commission payments. To be clearly labeled, the Facility-Related Rate Component shall:

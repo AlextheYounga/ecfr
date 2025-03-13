@@ -1,5 +1,7 @@
 ##### § 64.6120 Waiver process. #####
 
+Link to an amendment published at 89 FR 77366, Sept. 20, 2024.
+
 (a) A Provider may seek a waiver of the interim rate caps established in § 64.6030 and the Ancillary Service Charge fee caps on a Correctional Facility or contract basis if the interstate or international rate caps or Ancillary Service Charge fee caps prevent the Provider from recovering the costs of providing interstate or international Inmate Calling Services at a Correctional Facility or at the Correctional Facilities covered by a contract.
 
 (b) At a minimum, a Provider seeking such a waiver is required to submit:

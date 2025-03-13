@@ -1,8 +1,10 @@
 ##### § 416.1503 Definitions. #####
 
-Link to an amendment published at 89 FR 67555, Aug. 21, 2024.
-
 As used in this subpart:
+
+*Affiliate* means to associate with an entity through our prescribed registration process.
+
+*Assignment* means the transfer of the right to receive direct payment of an authorized fee to an entity as described in § 416.1530(e).
 
 *Date we notify him or her* means 5 days after the date on the notice, unless the recipient shows us that he or she did not receive it within the 5-day period.
 
@@ -24,12 +26,16 @@ As used in this subpart:
 
 (3) Interim benefits paid pursuant to section 1631(a)(8) of the Act.
 
+*Point of Contact* means an individual who registers as a representative in the manner we prescribe and is selected by an entity to speak and act on the entity's behalf and who assumes the affirmative duties and obligations we prescribe.
+
+*Registration* means a process by which an individual or entity provides the information we require to conduct business with us.
+
 *Representational services* means services performed for a claimant in connection with any claim the claimant has before us, any asserted right the claimant may have for an initial or reconsidered determination, and any decision or action by an administrative law judge or the Appeals Council.
 
-*Representative* means an attorney who meets all of the requirements of § 416.1505(a), or a person other than an attorney who meets all of the requirements of § 416.1505(b), and whom you appoint to represent you in dealings with us.
+*Representative* means an attorney who meets all of the requirements of § 416.1505(a), or a person other than an attorney who meets all of the requirements of § 416.1505(b), and whom you appoint to represent you in dealings with us. For purposes of our Rules of conduct and standards of responsibility for representatives in §§ 416.1540 through 416.1599, *Representative* also includes an individual who provides representational services and an individual who is listed as a point of contact for an entity, as applicable to their identified role.
 
 *We, our,* or *us* refers to the Social Security Administration (SSA).
 
 *You* or *your* refers to any person or the eligible spouse of any person claiming or receiving supplemental security income benefits.
 
-[45 FR 52106, Aug. 5, 1980, as amended at 62 FR 38455, July 18, 1997; 72 FR 16725, Apr. 5, 2007; 74 FR 48384, Sept. 23, 2009; 76 FR 45194, July 28, 2011; 76 FR 80247, Dec. 23, 2011]
+[45 FR 52106, Aug. 5, 1980, as amended at 62 FR 38455, July 18, 1997; 72 FR 16725, Apr. 5, 2007; 74 FR 48384, Sept. 23, 2009; 76 FR 45194, July 28, 2011; 76 FR 80247, Dec. 23, 2011; 89 FR 67555, Aug. 21, 2024]

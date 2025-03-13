@@ -1,7 +1,5 @@
 ##### § 404.1720 Fee for a representative's services. #####
 
-Link to an amendment published at 89 FR 67554, Aug. 21, 2024.
-
 (a) *General.* A representative may charge and receive a fee for his or her services as a representative only as provided in paragraph (b) of this section.
 
 (b) *Charging and receiving a fee.* (1) The representative must file a written request with us before he or she may charge or receive a fee for his or her services.
@@ -52,4 +50,6 @@ Link to an amendment published at 89 FR 67554, Aug. 21, 2024.
 
 (2) A court authorizes a fee for your representative based on the representative's actions as your legal guardian or a court-appointed representative.
 
-[45 FR 52090, Aug. 5, 1980, as amended at 72 FR 16724, Apr. 5, 2007; 74 FR 48384, Sept. 23, 2009; 76 FR 45193, July 28, 2011]
+(f) *Assignment of direct payment of fees.* A representative who is eligible for direct payment of an authorized fee may assign direct payment of the authorized fee to an entity that is eligible for direct payment of fees (see §§ 404.1730(e) and 404.1735).
+
+[45 FR 52090, Aug. 5, 1980, as amended at 72 FR 16724, Apr. 5, 2007; 74 FR 48384, Sept. 23, 2009; 76 FR 45193, July 28, 2011; 89 FR 67554, Aug. 21, 2024]

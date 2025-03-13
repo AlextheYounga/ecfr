@@ -1,5 +1,7 @@
 ##### § 64.6040 Communications access for incarcerated people with communication disabilities. #####
 
+Link to an amendment published at 89 FR 77364, Sept. 20, 2024.Link to an amendment published at 89 FR 77365, Sept. 20, 2024.
+
 (a) A Provider shall provide incarcerated people access to TRS and related communication services as described in this section, except where the correctional authority overseeing a facility prohibits such access.
 
 (b)(1) A Provider shall provide access for incarcerated people with communication disabilities to Traditional (TTY-Based) TRS and STS.

@@ -1,5 +1,7 @@
 ##### § 64.6130 Interim protections of consumer funds in inactive accounts. #####
 
+Link to an amendment published at 89 FR 77366, Sept. 20, 2024.Link to an amendment published at 89 FR 77367, Sept. 20, 2024.
+
 (a) All funds deposited into a debit calling or prepaid calling account that can be used to pay for interstate or international Inmate Calling Services or associated ancillary services shall remain the property of the account holder unless or until the funds are either:
 
 (1) Used to pay for products or services purchased by the account holder or the incarcerated person for whose benefit the account was established;

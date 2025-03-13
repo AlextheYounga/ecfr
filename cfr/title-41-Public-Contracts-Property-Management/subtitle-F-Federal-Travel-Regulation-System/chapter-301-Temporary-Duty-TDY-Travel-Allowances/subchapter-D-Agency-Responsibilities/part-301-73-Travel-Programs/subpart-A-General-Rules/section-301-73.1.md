@@ -1,5 +1,7 @@
 ##### § 301-73.1 What does the Federal travel management program include? #####
 
+Link to an amendment published at 89 FR 77027, Sept. 20, 2024.
+
 The Federal travel management program includes—
 
 (a) A travel authorization and claim system that implements the related requirements of the Federal Travel Regulation. (*See* §§ 301-2.1 and 301-52.3 and part 301-71 of this chapter for those requirements);

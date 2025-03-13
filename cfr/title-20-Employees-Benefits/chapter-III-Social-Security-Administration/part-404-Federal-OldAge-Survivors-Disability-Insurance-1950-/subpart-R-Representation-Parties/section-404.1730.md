@@ -1,14 +1,16 @@
 ##### § 404.1730 Payment of fees. #####
 
-Link to an amendment published at 89 FR 67554, Aug. 21, 2024.
-
 (a) *Fees allowed by a Federal court.* We will pay an attorney representative out of your past-due benefits the amount of the fee allowed by a Federal court in a proceeding under title II of the Act. The payment we make to the attorney is subject to the limitations described in paragraph (b)(1) of this section.
 
-(b) *Fees we may authorize*—(1) *Attorneys and eligible non-attorneys.* Except as provided in paragraph (c) of this section, if we make a determination or decision in your favor and you were represented by an attorney or an eligible non-attorney, and as a result of the determination or decision you have past-due benefits, we will pay the representative out of the past-due benefits, the smaller of the amounts in paragraph (b)(1)(i) or (ii) of this section, less the amount of the assessment described in paragraph (d) of this section.
+(b) *Fees we may pay*—(1) *Attorneys and eligible non-attorneys.* Except as provided in paragraph (c) of this section, if we make a determination or decision in your favor and you were represented by an attorney or an eligible non-attorney (see § 404.1717), and as a result of the determination or decision you have past-due benefits;
 
-(i) Twenty-five percent of the total of the past-due benefits; or
+(i) We will pay your representative out of the past-due benefits the lesser of the amounts in paragraph (b)(1)(iii) or (iv) of this section, less the amount of the assessment described in paragraph (d) of this section, unless the representative files a waiver of the fee or direct payment of the fee; and
 
-(ii) The amount of the fee that we set.
+(ii) If there is a valid assignment (see paragraph (e) of this section), we will pay the representative's fee (see paragraph (b)(1)(i) of this section) to an entity.
+
+(iii) Twenty-five percent of the total of the past-due benefits; or
+
+(iv) The amount of the fee that we set.
 
 (2) *Non-attorneys ineligible for direct payment.* If the representative is a non-attorney who is ineligible to receive direct payment of his or her fee, we assume no responsibility for the payment of any fee that we authorized. We will not deduct the fee from your past-due benefits.
 
@@ -28,4 +30,22 @@ Link to an amendment published at 89 FR 67554, Aug. 21, 2024.
 
 (3) We collect the assessment by subtracting it from the amount of the fee to be paid to the representative. The representative who is subject to an assessment may not, directly or indirectly, request or otherwise obtain reimbursement of the assessment from you.
 
-[72 FR 16724, Apr. 5, 2007, as amended at 76 FR 45193, July 28, 2011]
+(e) *Assignment of direct payment of a fee to designated entity.* (1) A representative may assign direct payment of the fee we authorize to an eligible entity if the representative:
+
+(i) Is eligible for direct payment;
+
+(ii) Has not waived the fee or direct payment;
+
+(iii) Assigns direct payment of the entire fee we authorize to one entity in the manner we prescribe;
+
+(iv) Makes the assignment before the date on which we notify you of our first favorable determination or decision; and
+
+(v) Affiliates with the entity through registration.
+
+(2) A representative may rescind an assignment in the manner we prescribe before the date on which we notify you of our first favorable determination or decision.
+
+(3) A representative may not assign direct payment of a fee to an entity that is ineligible to receive direct payment.
+
+(4) A representative may not waive a fee or direct payment of a fee if the representative previously assigned direct payment of a fee in accordance with paragraph (e)(1) of this section and did not timely rescind that assignment in accordance with paragraph (e)(2) of this section.
+
+[72 FR 16724, Apr. 5, 2007, as amended at 76 FR 45193, July 28, 2011; 89 FR 67554, Aug. 21, 2024]

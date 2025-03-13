@@ -1,6 +1,6 @@
 ##### § 64.6060 Annual reporting and certification requirement. #####
 
-Link to an amendment published at 89 FR 8549, Feb. 8, 2024.
+Link to an amendment published at 89 FR 8549, Feb. 8, 2024.Link to an amendment published at 89 FR 77365, Sept. 20, 2024.
 
 (a) Providers must submit a report to the Commission, by April 1st of each year, regarding interstate, intrastate, and international Inmate Calling Services for the prior calendar year. The report shall be categorized both by facility type and size and shall contain:
 
