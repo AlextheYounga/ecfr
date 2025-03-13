@@ -1,0 +1,3 @@
+##### § 60.5700b What is the purpose of this subpart? #####
+
+This subpart establishes emission guidelines and approval criteria for State plans that establish standards of performance limiting greenhouse gas (GHG) emissions from an affected steam generating unit. An affected steam generating unit shall, for the purposes of this subpart, be referred to as an affected EGU. These emission guidelines are developed in accordance with section 111(d) of the Clean Air Act and subpart Ba of this part. State plans under the emission guidelines in this subpart are also subject to the requirements of subpart Ba. To the extent any requirement of this subpart is inconsistent with the requirements of subparts A or Ba of this part, the requirements of this subpart shall apply.

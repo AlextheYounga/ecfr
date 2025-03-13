@@ -1,7 +1,5 @@
 ##### § 4001.2 Definitions. #####
 
-Link to an amendment published at 89 FR 48299, June 6, 2024.
-
 For purposes of this chapter (unless otherwise indicated or required by the context):
 
 *Affected party* means, with respect to a plan—
@@ -62,7 +60,7 @@ If an affected party has designated, in writing, a person to receive a notice on
 
 *ERISA* means the Employee Retirement Income Security Act of 1974, as amended.
 
-*Expected retirement age (XRA)* means the age, determined in accordance with §§ 4044.55 through 4044.57 of this chapter, at which a participant is expected to begin receiving benefits when the participant has not elected, before the allocation date, an annuity starting date. This is the age to which a participant's benefit payment is assumed to be deferred for valuation purposes. An XRA is equal to or greater than the participant's earliest retirement age at valuation date but less than his or her normal retirement age.
+*Expected retirement age (XRA)* means the age, determined in accordance with §§ 4044.55 through 4044.58 of this chapter, at which a participant is expected to begin receiving benefits when the participant has not elected, before the allocation date, an annuity starting date. This is the age to which a participant's benefit payment is assumed to be deferred for valuation purposes. An XRA is equal to or greater than the participant's earliest retirement age at valuation date but less than his or her normal retirement age.
 
 *Fair market value* means the price at which property would change hands between a willing buyer and a willing seller, neither being under any compulsion to buy or sell and both having reasonable knowledge of relevant facts.
 

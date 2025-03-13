@@ -1,0 +1,5 @@
+##### § 60.5710b Am I affected by this subpart? #####
+
+(a) If you are the Governor of a State in the contiguous United States with one or more affected EGUs that must be addressed in your State plan as indicated in § 60.5845b, you must submit a State plan to the U.S. Environmental Protection Agency (EPA) that implements the emission guidelines contained in this subpart. If you are the Governor of a State in the contiguous United States with no affected EGUs, or if all EGUs in your State are excluded from being affected EGUs per § 60.5850b, you must submit a negative declaration letter in place of the State plan.
+
+(b) If you are a coal-fired steam generating unit that has demonstrated that it plans to permanently cease operation prior to January 1, 2032, consistent with § 60.5740b(a)(9)(ii), and that would be an affected EGU under these emissions guidelines but for § 60.5850b(k), you must comply with § 60.5876b.

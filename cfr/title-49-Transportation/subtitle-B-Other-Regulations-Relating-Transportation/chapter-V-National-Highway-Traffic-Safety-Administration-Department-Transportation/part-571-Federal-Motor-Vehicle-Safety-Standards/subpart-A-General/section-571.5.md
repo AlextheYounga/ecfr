@@ -1,7 +1,5 @@
 ##### § 571.5 Matter incorporated by reference. #####
 
-Link to an amendment published at 89 FR 39779, May 9, 2024.
-
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the National Highway Traffic Safety Administration (NHTSA) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at NHTSA and at the National Archives and Records Administration (NARA). Contact NHTSA at: NHTSA, 1200 New Jersey Avenue SE, Washington, DC 20590, (202) 366-2588, website: *https://www.nhtsa.gov/about-nhtsa/electronic-reading-room*. For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html*. The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) American Association of Textile Chemists and Colorists (AATCC), 1 Davis Dr., P.O. Box 12215, Research Triangle Park, NC 27709. Web site: *https://www.aatcc.org.*
@@ -94,7 +92,7 @@ Link to an amendment published at 89 FR 39779, May 9, 2024.
 
 (34) [Reserved]
 
-(35) ASTM E1337-19, “Standard Test Method for Determining Longitudinal Peak Braking Coefficient (PBC) of Paved Surfaces Using Standard Reference Test Tire,” approved December 1, 2019, into §§ 571.105; 571.121; 571.122; 571.126; 571.135; 571.136; 571.500.
+(35) ASTM E1337-19, “Standard Test Method for Determining Longitudinal Peak Braking Coefficient (PBC) of Paved Surfaces Using Standard Reference Test Tire,” approved December 1, 2019, into §§ 571.105; 571.121; 571.122; 571.126; 571.127; 571.135; 571.136; 571.500.
 
 (36) ASTM F1805-20, “Standard Test Method for Single Wheel Driving Traction in a Straight Line on Snow- and Ice-Covered Surfaces,” approved May 1, 2020; into § 571.139.
 
@@ -260,9 +258,11 @@ Link to an amendment published at 89 FR 39779, May 9, 2024.
 
 (48) SAE Recommended Practice J2009, “Discharge Forward Lighting Systems,” revised February 1993, into § 571.108.
 
-(49) SAE Standard J2889-1, “Measurement of Minimum Noise Emitted by Road Vehicles,” December 2014 into § 571.141.
+(49) SAE J2400, “Human Factors in Forward Collision Warning Systems: Operating Characteristics and User Interface Requirements,” August 2003 into § 571.127.
 
-(50) SAE Aerospace-Automotive Drawing Standards, issued September 1963, into §§ 571.104; 571.202.
+(50) SAE Standard J2889-1, “Measurement of Minimum Noise Emitted by Road Vehicles,” December 2014 into § 571.141.
+
+(51) SAE Aerospace-Automotive Drawing Standards, issued September 1963, into §§ 571.104; 571.202.
 
 (m) United Nations Economic Commission for Europe (UNECE), United Nations, Conference Services Division, Distribution and Sales Section, Office C.115-1, Palais des Nations, CH-1211, Geneva 10, Switzerland. Web site: *www.unece.org/trans/main/wp29/wp29regs.html.*
 
@@ -270,4 +270,4 @@ Link to an amendment published at 89 FR 39779, May 9, 2024.
 
 (2) UNECE Regulation 48 “Uniform Provisions Concerning the Approval of Vehicles With Regard to the Installation of Lighting and Light-Signaling Devices,” E/ECE/324-E/ECE/TRANS/505, Rev.1/Add.47/Rev.1/Corr.2 (February 26, 1996), into § 571.108.
 
-[77 FR 752, Jan. 6, 2012, as amended at 77 FR 11647, Feb. 27, 2012; 77 FR 51671, Aug. 24, 2012; 78 FR 21852, Apr. 12, 2013; 79 FR 19243, Apr. 7, 2014; 80 FR 36100, June 23, 2015; 81 FR 90514, Dec. 14, 2016; 87 FR 34808, June 8, 2022; 87 FR 39309, Aug. 1, 2022; 88 FR 84586, Dec. 5, 2023]
+[77 FR 752, Jan. 6, 2012, as amended at 77 FR 11647, Feb. 27, 2012; 77 FR 51671, Aug. 24, 2012; 78 FR 21852, Apr. 12, 2013; 79 FR 19243, Apr. 7, 2014; 80 FR 36100, June 23, 2015; 81 FR 90514, Dec. 14, 2016; 87 FR 34808, June 8, 2022; 87 FR 39309, Aug. 1, 2022; 88 FR 84586, Dec. 5, 2023; 89 FR 39779, May 9, 2024]

@@ -1,0 +1,29 @@
+##### § 84.22 Existing facilities. #####
+
+(a) *General.* A recipient shall operate each program or activity so that the program or activity, when viewed in its entirety, is readily accessible to and usable by individuals with disabilities. This paragraph (a) does not—
+
+(1) Necessarily require a recipient to make each of its existing facilities accessible to and usable by individuals with disabilities; or
+
+(2) Require a recipient to take any action that it can demonstrate would result in a fundamental alteration in the nature of a program or activity or in undue financial and administrative burdens. In those circumstances where a recipient's personnel believe that the proposed action would fundamentally alter the program or activity or would result in undue financial and administrative burdens, the recipient has the burden of proving that compliance with this paragraph (a) would result in such an alteration or burdens. The decision that compliance would result in such alteration or burdens must be made by the head of the recipient or their designee after considering all the recipient's resources available for use in the funding and operation of the program or activity, and must be accompanied by a written statement of the reasons for reaching that conclusion. If an action would result in such an alteration or such burdens, the recipient shall take any other action that would not result in such an alteration or such burdens but would nevertheless ensure that individuals with disabilities receive the benefits or services provided by the recipient.
+
+(b) *Methods.* A recipient may comply with the requirements of this section through such means as redesign or acquisition of equipment, reassignment of services to accessible buildings, assignment of aides to beneficiaries, home visits, delivery of services at alternate accessible sites, alteration of existing facilities and construction of new facilities, use of accessible rolling stock or other conveyances, or any other methods that result in making its programs or activities readily accessible to and usable by individuals with disabilities. A recipient is not required to make structural changes in existing facilities where other methods are effective in achieving compliance with this section. A recipient, in making alterations to existing buildings, shall meet the accessibility requirements of § 84.23. In choosing among available methods for meeting the requirements of this section, a recipient shall give priority to those methods that offer programs and activities to qualified individuals with disabilities in the most integrated setting appropriate.
+
+(c) *Small health, welfare, or other social service providers.* If a recipient with fewer than fifteen employees that provides health, welfare, or other social services finds, after consultation with a person with a disability seeking its services, that there is no method of complying with paragraph (a) of this section other than making a significant alteration in its existing facilities, the recipient may, as an alternative, refer the person with a disability to other providers of those services that are accessible.
+
+(d) *Time period.* A recipient shall comply with the requirement of paragraph (a) of this section within sixty days of the effective date of this part except that where structural changes in facilities are necessary, such changes shall be made within three years of the effective date of this part, but in any event as expeditiously as possible.
+
+(e) *Transition plan.* In the event that structural changes to facilities are necessary to meet the requirement of paragraph (a) of this section, a recipient shall develop, within six months of the effective date of this part, a transition plan setting forth the steps necessary to complete such changes. The plan shall be developed with the assistance of interested persons, including persons with disabilities or organizations representing persons with disabilities. A copy of the transition plan shall be made available for public inspection. The plan shall, at a minimum:
+
+(1) Identify physical obstacles in the recipient's facilities that limit the accessibility of its program or activity to persons with disabilities;
+
+(2) Describe in detail the methods that will be used to make the facilities accessible;
+
+(3) Specify the schedule for taking the steps necessary to achieve full accessibility under paragraph (a) and, if the time period of the transition plan is longer than one year, identify the steps that will be taken during each year of the transition period; and
+
+(4) Indicate the person responsible for implementation of the plan.
+
+(f) *Notice.* The recipient shall adopt and implement procedures to ensure that interested persons, including persons with impaired vision or hearing, can obtain information as to the existence and location of services, activities, and facilities that are accessible to and usable by persons with disabilities.
+
+(g) *Safe harbor.* Elements that have not been altered in existing facilities on or after July 8, 2024, and that comply with the corresponding technical and scoping specifications for those elements in the American National Standard Specification (ANSI) (ANSI A117.1-1961(R1971)) for facilities constructed between June 3, 1977, and January 18, 1991) or for those elements in the Uniform Federal Accessibility Standards (UFAS), appendix A to 41 CFR part 101-19, subpart 101-19.6 (revised as of July 1, 2002), for those facilities constructed between January 18, 1991, and July 8, 2024, are not required to be modified to comply with the requirements set forth in the 2010 Standards.
+
+[42 FR 22677, May 4, 1977, as amended at 70 FR 24319, May 9, 2005; 89 FR 40185, May 9, 2024]

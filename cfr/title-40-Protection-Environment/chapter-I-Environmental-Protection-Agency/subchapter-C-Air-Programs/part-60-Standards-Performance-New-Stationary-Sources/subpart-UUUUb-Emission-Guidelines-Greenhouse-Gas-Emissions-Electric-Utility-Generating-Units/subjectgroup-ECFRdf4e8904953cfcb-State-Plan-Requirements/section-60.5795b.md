@@ -1,0 +1,3 @@
+##### § 60.5795b Commitment to review emission guidelines for coal-fired affected EGUs #####
+
+EPA will review and, if appropriate, revise these emission guidelines as they apply to coal-fired steam generating affected EGUs by January 1, 2041. Notwithstanding this commitment, EPA need not review these emission guidelines if the Administrator determines that such review is not appropriate in light of readily available information on their continued appropriateness.

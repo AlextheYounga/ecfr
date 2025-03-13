@@ -1,7 +1,5 @@
 ##### § 800.71 Fees assessed by the Service. #####
 
-Link to an amendment published at 89 FR 48265, June 6, 2024.
-
 (a) *Official inspection and weighing services.* The fees shown in Schedule A of paragraph (a)(1) of this section apply to official inspection and weighing services performed by FGIS in the U.S. and Canada. The fees shown in Schedule B of paragraph (a)(2) of this section apply to official domestic inspection and weighing services performed by delegated States and designated agencies, including land carrier shipments to Canada and Mexico. The fees charged to delegated States by the Service are set forth in the State's Delegation of Authority document. Failure of a delegated State or designated agency to pay the appropriate fees to the Service within 30 days after becoming due will result in an automatic termination of the delegation or designation. The delegation or designation may be reinstated by the Service if fees that are due, plus interest and any further expenses incurred by the Service because of the termination, are paid within 60 days of the termination.
 
 (1) *Schedule A—Fees for official inspection and weighing services performed in the United States and Canada.* For each calendar year, FGIS will calculate *Schedule A* fees as defined in paragraph (b) of this section. FGIS will publish a notice in the Federal Register and post *Schedule A* fees on the Agency's public website.
@@ -36,4 +34,4 @@ Link to an amendment published at 89 FR 48265, June 6, 2024.
 
 (2) *Designation amendments.* The fee for amending designations will be published annually in the Federal Register and on the Agency's public website. The Service will calculate the fee using the cost of publication plus one hour at the noncontract hourly rate. If you submit an application to amend a designation, you must pay the published fee.
 
-[81 FR 49860, July 29, 2016, as amended at 81 FR 96340, Dec. 30, 2016; 83 FR 6453, Feb. 14, 2018; 83 FR 11633, Mar. 16, 2018; 83 FR 66585, Dec. 27, 2018; 86 FR 49469, Sept. 3, 2021]
+[81 FR 49860, July 29, 2016, as amended at 81 FR 96340, Dec. 30, 2016; 83 FR 6453, Feb. 14, 2018; 83 FR 11633, Mar. 16, 2018; 83 FR 66585, Dec. 27, 2018; 86 FR 49469, Sept. 3, 2021]Editorial Note:At 89 FR 48265, June 6, 2024, § 800.71 was stayed indefinitely.

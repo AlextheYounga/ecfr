@@ -1,7 +1,5 @@
 ##### § 800.156 Official inspection records. #####
 
-Link to an amendment published at 89 FR 48265, June 6, 2024.
-
 (a) *Pan tickets.* The record for each kind of official inspection service identified in § 800.76 shall, in addition to the official certificate, consist of one or more pan tickets as prescribed in the instructions. Activities that are performed as a series during the course of an inspection service may be recorded on one pan ticket or on separate pan tickets. The original copy of each pan ticket shall be retained by the agency or field office that performed the inspection.
 
 (b) *Inspection logs.* The record of an official inspection service for grain in a combined lot and shiplot shall include the official inspection log as prescribed in the instructions. The original copy of each inspection log shall be retained by the agency or field office that performed the inspection. If the inspection is performed by an agency, one copy of the inspection log shall be promptly sent to the appropriate field office.
@@ -16,6 +14,6 @@ Link to an amendment published at 89 FR 48265, June 6, 2024.
 
 (4) *Uniform system.* To facilitate the use of file samples, agencies shall establish and maintain a uniform file sample system according to the instructions.
 
-(5) *Forwarding samples.* Upon request by the supervising field office or the Board of Appeals and Review, each agency shall furnish file samples (i) for field appeal or Board appeal inspection service, or (ii) for monitoring or supervision. If, at the request of the Service, an agency locates and forwards a file sample for an appeal inspection, the agency may, upon request, be reimbursed at the rate prescribed in § 800.71 by the Service.
+(5) *Forwarding samples.* Upon request by the supervising field office or the Board of Appeals and Review, each agency shall furnish file samples (i) for field appeal or Board appeal inspection service, or (ii) for monitoring or supervision. If, at the request of the Service, an agency locates and forwards a file sample for an appeal inspection, the agency may, upon request, be reimbursed at the rate prescribed in § 800.74 by the Service.
 
-(Approved by the Office of Management and Budget under control number 0580-0011)
+(Approved by the Office of Management and Budget under control number 0580-0011)[50 FR 18986, May 6, 1985, as amended at 89 FR 48265, June 6, 2024]

@@ -1,7 +1,5 @@
 ##### § 4050.302 Definitions. #####
 
-Link to an amendment published at 89 FR 48309, June 6, 2024.
-
 The following terms are defined in § 4001.2 of this chapter: Annuity, Code, ERISA, PBGC, person, and plan administrator. In addition, for purposes of this subpart:
 
 *Accrual cessation date* for a participant under a subpart C plan means the date the participant stopped accruing benefits under the terms of the plan.
@@ -44,23 +42,23 @@ The following terms are defined in § 4001.2 of this chapter: Annuity, Code, ERI
 
 (2) With respect to a distributee, that payment of the distributee's benefit has actually started before the benefit determination date.
 
-*PBGC missing participants assumptions* means the actuarial assumptions prescribed in §§ 4044.51 through 4044.57 of this chapter with the following modifications:
+*PBGC missing participants assumptions* means the actuarial assumptions prescribed in §§ 4044.51 through 4044.58 of this chapter with the following modifications:
 
 (1) The present value is determined as of the benefit determination date instead of the plan termination date.
 
-(2) The mortality assumption is a fixed blend of 50 percent of the healthy male mortality rates in § 4044.53(c)(1) of this chapter and 50 percent of the healthy female mortality rates in § 4044.53(c)(2) of this chapter.
+(2) The mortality assumption is the mortality table in § 4044.53(h) of this chapter.
 
 (3) No adjustment is made for loading expenses under § 4044.52(d) of this chapter.
 
-(4) The interest assumption used is the assumption applicable to valuations occurring in January of the calendar year in which the benefit determination date occurs.
+(4) The interest assumption is the assumption for valuing benefits under § 4044.54 of this chapter applicable to valuations occurring on December 31 of the calendar year preceding the calendar year in which the benefit determination date occurs. However, for benefit determination dates July 31 through December 31 of 2024, the interest assumption is the assumption for valuing benefits under § 4044.54 of this chapter applicable to valuations occurring on July 31, 2024.
 
 (5) The assumed payment form of a benefit not in pay status is a straight life annuity.
 
 (6) Pre-retirement death benefits are disregarded.
 
-(7) Notwithstanding the expected retirement age (XRA) assumptions in §§ 4044.55 through 4044.57 of this chapter,—
+(7) Notwithstanding the expected retirement age (XRA) assumptions in §§ 4044.55 through 4044.58 of this chapter—
 
-(i) In the case of a participant who is not in pay status and whose normal retirement date is on or after the benefit determination date, benefits are assumed to commence at the XRA, determined using the high retirement rate category under Table II-C of appendix D to part 4044 of this chapter;
+(i) In the case of a participant who is not in pay status and whose normal retirement date is on or after the benefit determination date, benefits are assumed to commence at the XRA, determined using the high retirement rate category under table II-C (Expected Retirement Ages for Individuals in the High Category) in § 4044.58 of this chapter;
 
 (ii) In the case of a participant who is not in pay status and whose normal retirement date is before the benefit determination date, benefits are assumed to commence on the participant's normal retirement date (or accrual cessation date if later);
 
@@ -95,3 +93,5 @@ The following terms are defined in § 4001.2 of this chapter: Annuity, Code, ERI
 *Subpart C plan* or *plan* means a plan to which this subpart C applies, as described in § 4050.301.
 
 *Transferring plan* means a subpart C plan for which the plan administrator elects transferring plan status in accordance with § 4050.303.
+
+[82 FR 60818, Dec. 22, 2017, as amended at 89 FR 48309, June 6, 2024]

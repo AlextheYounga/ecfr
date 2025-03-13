@@ -1,0 +1,3 @@
+##### § 596.3 Application. #####
+
+This part does not in itself impose duties or liabilities on any person. It is a description of tools that are used in compliance tests to measure the performance of automatic emergency braking systems required by the safety standards that refer to these tools. This part is designed to be referenced by, and become part of, the test procedures specified in motor vehicle safety standards, such as 49 CFR 571.127.

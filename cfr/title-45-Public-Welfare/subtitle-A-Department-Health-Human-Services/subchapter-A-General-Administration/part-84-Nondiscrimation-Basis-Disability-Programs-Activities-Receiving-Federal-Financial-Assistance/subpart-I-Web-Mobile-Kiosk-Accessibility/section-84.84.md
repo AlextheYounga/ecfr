@@ -1,0 +1,13 @@
+##### § 84.84 Requirements for web and mobile accessibility. #####
+
+(a) *General.* A recipient shall ensure that the following are readily accessible to and usable by individuals with disabilities:
+
+(1) Web content that a recipient provides or makes available, directly or through contractual, licensing, or other arrangements; and
+
+(2) Mobile apps that a recipient provides or makes available, directly or through contractual, licensing, or other arrangements.
+
+(b) *Requirements.* (1) Beginning May 11, 2026, a recipient with fifteen or more employees shall ensure that the web content and mobile apps that the recipient provides or makes available, directly or through contractual, licensing, or other arrangements, comply with Level A and Level AA success criteria and conformance requirements specified in WCAG 2.1, unless the recipient can demonstrate that compliance with this section would result in a fundamental alteration in the nature of a program or activity or in undue financial and administrative burdens.
+
+(2) Beginning May 10, 2027, a recipient with fewer than fifteen employees shall ensure that the web content and mobile apps that the recipient provides or makes available, directly or through contractual, licensing, or other arrangements, comply with Level A and Level AA success criteria and conformance requirements specified in WCAG 2.1, unless the recipient can demonstrate that compliance with this section would result in a fundamental alteration in the nature of a program or activity or in undue financial and administrative burdens.
+
+(3) WCAG 2.1 is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All material approved for incorporation by reference (IBR) is available for inspection at HHS and at the National Archives and Records Administration (“NARA”). Contact HHS, OCR at: Office for Civil Rights, U.S. Department of Health and Human Services, 200 Independence Ave. SW, Room 509F, HHH Building, Washington, DC 20201; phone: (202) 545-4884; email: *504@hhs.gov.* For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations* or email *fr.inspection@nara.gov.* The material may be obtained from the World Wide Web Consortium (W3C) Web Accessibility Initiative (“WAI”), 401 Edgewater Place, Suite 600, Wakefield, MA 01880; phone: (339) 273-2711; email: *contact@w3.org;* website: *www.w3.org/TR/2018/REC-WCAG21-20180605/* and *https://perma.cc/UB8A-GG2F.*

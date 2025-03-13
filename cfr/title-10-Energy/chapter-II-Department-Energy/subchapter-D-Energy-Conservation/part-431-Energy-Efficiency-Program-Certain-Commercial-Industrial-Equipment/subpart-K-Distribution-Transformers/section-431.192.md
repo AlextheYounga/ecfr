@@ -1,7 +1,5 @@
 ##### § 431.192 Definitions. #####
 
-Link to an amendment published at 89 FR 30039, Apr. 22, 2024.
-
 The following definitions apply for purposes of this subpart:
 
 *Autotransformer* means a transformer that:
@@ -18,13 +16,13 @@ The following definitions apply for purposes of this subpart:
 
 *Distribution transformer* means a transformer that—
 
-(1) Has an input voltage of 34.5 kV or less;
+(1) Has an input line voltage of 34.5 kV or less;
 
-(2) Has an output voltage of 600 V or less;
+(2) Has an output line voltage of 600 V or less;
 
 (3) Is rated for operation at a frequency of 60 Hz; and
 
-(4) Has a capacity of 10 kVA to 2500 kVA for liquid-immersed units and 15 kVA to 2500 kVA for dry-type units; but
+(4) Has a capacity of 10 kVA to 5000 kVA for liquid-immersed units and 15 kVA to 5000 kVA for dry-type units; but
 
 (5) The term “distribution transformer” does not include a transformer that is an—
 
@@ -58,9 +56,11 @@ The following definitions apply for purposes of this subpart:
 
 (1) Isolates an electric motor from the line;
 
-(2) Accommodates the added loads of drive-created harmonics; and
+(2) Accommodates the added loads of drive-created harmonics;
 
-(3) Is designed to withstand the additional mechanical stresses resulting from an alternating current adjustable frequency motor drive or a direct current motor drive.
+(3) Is designed to withstand the additional mechanical stresses resulting from an alternating current adjustable frequency motor drive or a direct current motor drive; and
+
+(4) Has a rated output voltage that is neither “208Y/120” nor “480Y/277”.
 
 *Efficiency* means the ratio of the useful power output to the total power input.
 
@@ -86,7 +86,7 @@ The following definitions apply for purposes of this subpart:
 
 *No-load loss* means those losses that are incident to the excitation of the transformer.
 
-*Nonventilated transformer* means a transformer constructed so as to prevent external air circulation through the coils of the transformer while operating at zero gauge pressure.
+*Nonventilated transformer* means a dry-type transformer constructed so as to prevent external air circulation through the coils of the transformer while operating at zero gauge pressure.
 
 *Per-unit load* means the fraction of rated load.
 
@@ -108,45 +108,33 @@ The following definitions apply for purposes of this subpart:
 
 *Regulating transformer* means a transformer that varies the voltage, the phase angle, or both voltage and phase angle, of an output circuit and compensates for fluctuation of load and input voltage, phase angle or both voltage and phase angle.
 
-*Sealed transformer* means a transformer designed to remain hermetically sealed under specified conditions of temperature and pressure.
+*Sealed transformer* means a dry-type transformer designed to remain hermetically sealed under specified conditions of temperature and pressure.
 
-*Special-impedance transformer* means any transformer built to operate at an impedance outside of the normal impedance range for that transformer's kVA rating. The normal impedance range for each kVA rating for liquid-immersed and dry-type transformers is shown in Tables 1 and 2, respectively.
+*Special-impedance transformer* means a transformer built to operate at an impedance outside of the normal impedance range for that transformer's kVA rating. The normal impedance range for each kVA rating for liquid-immersed and dry-type transformers is shown in Tables 1 and 2, respectively.
 
-|Single-phase transformers|Three-phase transformers|     |                   |
-|-------------------------|------------------------|-----|-------------------|
-|           kVA           |  Impedance  <br/>(%)   | kVA |Impedance  <br/>(%)|
-|           10            |        1.0-4.5         | 15  |      1.0-4.5      |
-|           15            |        1.0-4.5         | 30  |      1.0-4.5      |
-|           25            |        1.0-4.5         | 45  |      1.0-4.5      |
-|          37.5           |        1.0-4.5         | 75  |      1.0-5.0      |
-|           50            |        1.5-4.5         |112.5|      1.2-6.0      |
-|           75            |        1.5-4.5         | 150 |      1.2-6.0      |
-|           100           |        1.5-4.5         | 225 |      1.2-6.0      |
-|           167           |        1.5-4.5         | 300 |      1.2-6.0      |
-|           250           |        1.5-6.0         | 500 |      1.5-7.0      |
-|           333           |        1.5-6.0         | 750 |      5.0-7.5      |
-|           500           |        1.5-7.0         |1000 |      5.0-7.5      |
-|           667           |        5.0-7.5         |1500 |      5.0-7.5      |
-|           833           |        5.0-7.5         |2000 |      5.0-7.5      |
-|                         |                        |2500 |      5.0-7.5      |
+|Single-phase transformers|Three-phase transformers|                    |                   |
+|-------------------------|------------------------|--------------------|-------------------|
+|           kVA           |  Impedance  <br/>(%)   |        kVA         |Impedance  <br/>(%)|
+|    10 \<= kVA \< 50     |        1.0-4.5         |  15 \<= kVA \< 75  |      1.0-4.5      |
+|    50 \<= kVA \< 250    |        1.5-4.5         |75 \<= kVA \< 112.5 |      1.0-5.0      |
+|   250 \<= kVA \< 500    |        1.5-6.0         |112.5 \<= kVA \< 500|      1.2-6.0      |
+|   500 \<= kVA \< 667    |        1.5-7.0         | 500 \<= kVA \< 750 |      1.5-7.0      |
+|   667 \<= kVA \<= 833   |        5.0-7.5         |750 \<= kVA \<= 5000|      5.0-7.5      |
 
-|Single-phase transformers|Three-phase transformers|     |                   |
-|-------------------------|------------------------|-----|-------------------|
-|           kVA           |  Impedance  <br/>(%)   | kVA |Impedance  <br/>(%)|
-|           15            |        1.5-6.0         | 15  |      1.5-6.0      |
-|           25            |        1.5-6.0         | 30  |      1.5-6.0      |
-|          37.5           |        1.5-6.0         | 45  |      1.5-6.0      |
-|           50            |        1.5-6.0         | 75  |      1.5-6.0      |
-|           75            |        2.0-7.0         |112.5|      1.5-6.0      |
-|           100           |        2.0-7.0         | 150 |      1.5-6.0      |
-|           167           |        2.5-8.0         | 225 |      3.0-7.0      |
-|           250           |        3.5-8.0         | 300 |      3.0-7.0      |
-|           333           |        3.5-8.0         | 500 |      4.5-8.0      |
-|           500           |        3.5-8.0         | 750 |      5.0-8.0      |
-|           667           |        5.0-8.0         |1000 |      5.0-8.0      |
-|           833           |        5.0-8.0         |1500 |      5.0-8.0      |
-|                         |                        |2000 |      5.0-8.0      |
-|                         |                        |2500 |      5.0-8.0      |
+|Single-phase transformers|Three-phase transformers|                    |                   |
+|-------------------------|------------------------|--------------------|-------------------|
+|           kVA           |  Impedance  <br/>(%)   |        kVA         |Impedance  <br/>(%)|
+|    10 \<= kVA \< 50     |        1.0-4.5         |  15 \<= kVA \< 75  |      1.0-4.5      |
+|    50 \<= kVA \< 250    |        1.5-4.5         |75 \<= kVA \< 112.5 |      1.0-5.0      |
+|   250 \<= kVA \< 500    |        1.5-6.0         |112.5 \<= kVA \< 500|      1.2-6.0      |
+|   500 \<= kVA \< 667    |        1.5-7.0         | 500 \<= kVA \< 750 |      1.5-7.0      |
+|   667 \<= kVA \<= 833   |        5.0-7.5         |750 \<= kVA \<= 5000|      5.0-7.5      |
+
+*Submersible distribution transformer* means a liquid-immersed distribution transformer, so constructed as to be operable when fully or partially submerged in water including the following features—
+
+(1) Has sealed-tank construction; and
+
+(2) Has the tank, cover, and all external appurtenances made of corrosion-resistant material or with appropriate corrosion resistant surface treatment to induce the components surface to be corrosion resistant.
 
 *Temperature correction* means the mathematical correction(s) of measurement data, obtained when a transformer is tested at a temperature that is different from the reference temperature, to the value(s) that would have been obtained if the transformer had been tested at the reference temperature.
 
@@ -164,12 +152,12 @@ The following definitions apply for purposes of this subpart:
 
 *Transformer* means a device consisting of 2 or more coils of insulated wire that transfers alternating current by electromagnetic induction from 1 coil to another to change the original voltage or current value.
 
-*Transformer with tap range of 20 percent or more* means a transformer with multiple voltage taps, the highest of which equals at least 20 percent more than the lowest, computed based on the sum of the deviations of the voltages of these taps from the transformer's nominal voltage.
+*Transformer with tap range of 20 percent or more* means a transformer with multiple voltage taps, each capable of operating at full, rated capacity (kVA), whose range, defined as the difference between the highest voltage tap and the lowest voltage tap, is 20 percent or more of the highest voltage tap.
 
-*Uninterruptible power supply transformer* means a transformer that is used within an uninterruptible power system, which in turn supplies power to loads that are sensitive to power failure, power sags, over voltage, switching transients, line noise, and other power quality factors.
+*Uninterruptible power supply transformer* means a transformer that is used within an uninterruptible power system, which in turn supplies power to loads that are sensitive to power failure, power sages, over voltage, switching transients, line notice, and other power quality factors. It does not include distribution transformers at the input, output, or by-pass of an uninterruptible power system.
 
 *Waveform correction* means the adjustment(s) (mathematical correction(s)) of measurement data obtained with a test voltage that is non-sinusoidal, to a value(s) that would have been obtained with a sinusoidal voltage.
 
 *Welding transformer* means a transformer designed for use in arc welding equipment or resistance welding equipment.
 
-[70 FR 60416, Oct. 18, 2005, as amended at 71 FR 24995, Apr. 27, 2006; 71 FR 60662, Oct. 16, 2006; 72 FR 58239, Oct. 12, 2007; 78 FR 23433, Apr. 18, 2013; 86 FR 51252, Sept. 14, 2021]
+[70 FR 60416, Oct. 18, 2005, as amended at 71 FR 24995, Apr. 27, 2006; 71 FR 60662, Oct. 16, 2006; 72 FR 58239, Oct. 12, 2007; 78 FR 23433, Apr. 18, 2013; 86 FR 51252, Sept. 14, 2021; 89 FR 30039, Apr. 22, 2024]

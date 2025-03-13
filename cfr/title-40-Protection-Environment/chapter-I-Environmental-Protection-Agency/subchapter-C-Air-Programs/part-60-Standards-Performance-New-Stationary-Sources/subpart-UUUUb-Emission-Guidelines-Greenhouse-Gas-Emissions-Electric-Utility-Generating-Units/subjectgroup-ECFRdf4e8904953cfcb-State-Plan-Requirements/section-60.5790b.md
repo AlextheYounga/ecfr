@@ -1,0 +1,3 @@
+##### § 60.5790b What is the procedure for revising my State plan? #####
+
+EPA-approved State plans can be revised only with approval by the Administrator. The Administrator will approve a State plan revision if it is satisfactory with respect to the applicable requirements of this subpart and all applicable requirements of subpart Ba of this part. If one (or more) of State plan elements in § 60.5740b require revision, the State must submit a State plan revision pursuant to § 60.28a.

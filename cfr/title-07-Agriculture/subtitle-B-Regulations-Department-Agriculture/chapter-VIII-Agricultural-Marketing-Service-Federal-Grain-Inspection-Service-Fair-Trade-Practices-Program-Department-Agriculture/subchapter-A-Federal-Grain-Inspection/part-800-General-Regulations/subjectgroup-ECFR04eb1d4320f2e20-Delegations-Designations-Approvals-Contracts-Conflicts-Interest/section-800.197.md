@@ -1,7 +1,5 @@
 ##### § 800.197 Approval as a scale testing and certification organization. #####
 
-Link to an amendment published at 89 FR 48265, June 6, 2024.
-
 (a) *Who may apply.* Any State, local government, or person may request approval to perform scale testing and certification under the Act.
 
 (b) *When and how to apply.* A request for approval to perform scale testing and certification under the Act should be filed with the Service not less than 90 calendar days before the requested action's effective date. A request for approval to perform scale testing and certification shall:
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 48265, June 6, 2024.
 
 (2) Certify that each employee scheduled to perform official scale testing and certification services is competent to test weighing equipment and has a working knowledge of the regulations and instructions applicable to such services;
 
-(3) Be accompanied by the fee prescribed in § 800.71; and
+(3) Be accompanied by the fee prescribed in § 800.74; and
 
 (4) Be signed by the applicant or its chief operating officer.
 
@@ -24,4 +22,4 @@ Link to an amendment published at 89 FR 48265, June 6, 2024.
 
 (iii) *Other than summary suspension.* Except as provided in paragraph (d)(2)(ii) of this section, before the Service revokes or suspends an approval, the organization shall be notified by the Service of the proposed action and the reason(s) therefor and shall be given an opportunity for a hearing. Before the Service initiates a hearing, it may, at its discretion, give the organization an opportunity to present its views on the proposed action and the reason(s) therefor in an informal conference. If a consent agreement is reached during the informal conference, no formal adjudicatory proceedings shall be initiated.
 
-(The information collection requirements contained in paragraph (b) were approved by the Office of Management and Budget under control number 0580-0012)[49 FR 30915, Aug. 2, 1984, as amended at 54 FR 5924, Feb. 7, 1989]
+(The information collection requirements contained in paragraph (b) were approved by the Office of Management and Budget under control number 0580-0012)[49 FR 30915, Aug. 2, 1984, as amended at 54 FR 5924, Feb. 7, 1989; 89 FR 48265, June 6, 2024]

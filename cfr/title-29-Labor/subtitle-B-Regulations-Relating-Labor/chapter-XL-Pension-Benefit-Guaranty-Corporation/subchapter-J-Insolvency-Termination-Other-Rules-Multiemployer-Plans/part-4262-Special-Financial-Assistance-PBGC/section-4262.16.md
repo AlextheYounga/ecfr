@@ -1,7 +1,5 @@
 ##### § 4262.16 Conditions for special financial assistance. #####
 
-Link to an amendment published at 89 FR 48309, June 6, 2024.
-
 (a) *In general.* A plan that receives special financial assistance must be administered in accordance with the conditions in this section.
 
 (b) *Benefit increases.* This paragraph (b) applies to benefits and benefit increases described in section 4022A(b)(1) of ERISA without regard to the time the benefit or benefit increase has been in effect. This paragraph (b) does not apply to the reinstatement of benefits that were suspended under section 305(e)(9) or 4245(a) of ERISA (as provided under § 4262.15) or a restoration of benefits under 26 CFR 1.432(e)(9)-1(e)(3).
@@ -192,7 +190,7 @@ Link to an amendment published at 89 FR 48309, June 6, 2024.
 
 (iii) In the absence of a waiver described in paragraph (f)(4) of this section, the condition in paragraph (b)(1) of this section (retrospective benefit increase) continues to apply to participants in the plan that received special financial assistance before the merger, the condition in paragraph (d) of this section (contribution decreases) continues to apply to employers who had an obligation to contribute to the plan that received special financial assistance before the merger, and the condition in paragraph (e) of this section relating to allocating contributions and other income continues to apply to contributions or income relative to the plan that received special financial assistance before the date of the merger.
 
-(iv) For the condition described in paragraph (g)(1) of this section (withdrawal liability interest assumption), the merged plan must use the interest assumptions in appendix B to part 4044 of this chapter to determine the unfunded vested benefits that arose under the plan that received special financial assistance before the date of the merger for purposes of allocating unfunded vested benefits under subpart D of part 4211 of this chapter and determining withdrawal liability for employers that participated in that plan.
+(iv) For the condition described in paragraph (g)(1) of this section (withdrawal liability interest assumption), the merged plan must use the interest assumptions under § 4044.54 of this chapter to determine the unfunded vested benefits that arose under the plan that received special financial assistance before the date of the merger for purposes of allocating unfunded vested benefits under subpart D of part 4211 of this chapter and determining withdrawal liability for employers that participated in that plan.
 
 (v) For the condition described in paragraph (g)(2) of this section (withdrawal liability amount of special financial assistance required to be phased in), the merged plan must apply the special financial assistance phase-in condition to determine the unfunded vested benefits that arose under the plan that received special financial assistance before the date of the merger for purposes of allocating unfunded vested benefits under subpart D of part 4211 of this chapter and determining withdrawal liability for employers that participated in that plan.
 
@@ -204,7 +202,7 @@ Link to an amendment published at 89 FR 48309, June 6, 2024.
 
 (iii) In the most recent certification of plan status for any plan that did not receive special financial assistance before the merger, the plan actuary must have certified that the plan is not in endangered or critical status (including critical and declining status) and is not projected to be in critical status within 5 years from the date of the plan's request for approval, and the plan must not be described in section 432(b)(5) of the Code.
 
-(g) *Withdrawal liability determination*—(1) *Interest assumptions.* A plan must use the interest assumptions in appendix B to part 4044 of this chapter in determining the unfunded vested benefits of the plan under section 4213(c) of ERISA (for the purpose of determining withdrawal liability), and in determining the amortization schedule under section 4219(c)(1)(A) of ERISA, beginning with the first plan year in which the plan receives payment of special financial assistance under § 4262.12 and until the later of—
+(g) *Withdrawal liability determination*—(1) *Interest assumptions.* A plan must use the interest assumptions under § 4044.54 of this chapter in determining the unfunded vested benefits of the plan under section 4213(c) of ERISA (for the purpose of determining withdrawal liability), and in determining the amortization schedule under section 4219(c)(1)(A) of ERISA, beginning with the first plan year in which the plan receives payment of special financial assistance under § 4262.12 and until the later of—
 
 (i) The end of the tenth plan year after the first plan year in which the plan receives payment of special financial assistance under § 4262.12; or
 
@@ -292,7 +290,7 @@ Link to an amendment published at 89 FR 48309, June 6, 2024.
 
 (i) The allocation of unfunded vested benefits to the employer under section 4211 of ERISA; or
 
-(ii) The present value of withdrawal liability payments assessed for the employer discounted using the interest assumptions in appendix B to part 4044 of this chapter.
+(ii) The present value of withdrawal liability payments assessed for the employer discounted using the interest assumptions under § 4044.54 of this chapter.
 
 (2) PBGC will approve a proposed settlement of withdrawal liability if it determines—
 
@@ -342,4 +340,4 @@ Link to an amendment published at 89 FR 48309, June 6, 2024.
 
 (2) *Where to file.* A filing described under paragraph (b), (d), (f), (h), or (i) of this section must be submitted as described in § 4000.4 of this chapter.
 
-[87 FR 41006, July 8, 2022, as amended at 88 FR 4905, Jan. 26, 2023; 88 FR 76664, Nov. 7, 2023]
+[87 FR 41006, July 8, 2022, as amended at 88 FR 4905, Jan. 26, 2023; 88 FR 76664, Nov. 7, 2023; 89 FR 48309, June 6, 2024]

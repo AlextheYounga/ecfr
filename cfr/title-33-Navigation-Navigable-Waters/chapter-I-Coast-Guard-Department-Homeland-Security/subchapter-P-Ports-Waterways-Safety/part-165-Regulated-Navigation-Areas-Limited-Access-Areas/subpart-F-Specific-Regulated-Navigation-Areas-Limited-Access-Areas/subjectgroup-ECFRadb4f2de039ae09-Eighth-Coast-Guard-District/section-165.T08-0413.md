@@ -1,5 +1,3 @@
-​
-
 ##### § 165.T08-0413 Safety Zone; Locks and Dam 3 Demolition, Elizabeth, PA. #####
 
 (a) *Location.* The following area is a safety zone: All navigable waters on the Monongahela River between mile marker 23.5 and mile marker 24.5.
@@ -14,4 +12,4 @@
 
 (d) *Enforcement period.* This section will be subject to enforcement from 4 a.m. on July 8, 2024, through 11:59 p.m. on July 31, 2024.
 
-[USCG-2024-0413, 89 FR 53492, June 27, 2024]
+[USCG-2024-0413, 89 FR 53492, June 27, 2024]Effective Date Note:By USCG-2024-0413, 89 FR 53492, June 27, 2024, § 165.T08-0413 was added, effective July 8, 2024, through July 31, 2024.

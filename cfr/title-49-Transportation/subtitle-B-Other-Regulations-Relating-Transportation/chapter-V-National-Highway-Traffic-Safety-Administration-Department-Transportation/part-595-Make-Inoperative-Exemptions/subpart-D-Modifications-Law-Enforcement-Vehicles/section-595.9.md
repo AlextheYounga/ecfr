@@ -1,0 +1,3 @@
+##### § 595.9 Automatic emergency braking. #####
+
+A manufacturer, dealer, or motor vehicle repair business that modifies a vehicle owned by a law enforcement agency to provide a means to temporarily deactivate an AEB system is exempted from the “make inoperative” prohibition in 49 U.S.C. 30122 to the extent that such modification affects the motor vehicle's compliance with 49 CFR 571.127, S5.4.2. Modifications that would take a vehicle out of compliance with any other Federal motor vehicle safety standards, or portions thereof, are not covered by this exemption.
