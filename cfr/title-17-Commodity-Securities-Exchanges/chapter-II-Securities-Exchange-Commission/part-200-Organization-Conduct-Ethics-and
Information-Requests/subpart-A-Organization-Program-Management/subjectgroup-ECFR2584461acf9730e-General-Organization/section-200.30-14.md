@@ -1,5 +1,7 @@
 ##### § 200.30-14 Delegation of authority to the General Counsel. #####
 
+Link to an amendment published at 88 FR 87281, Dec. 15, 2023.
+
 Pursuant to the provisions of Pub. L. 101-181, 101 Stat. 1254, 101 Stat. 1255, 15 U.S.C. 78d-1, 15 U.S.C. 78d-2, and 5 U.S.C. 552a(d)(2)(B)(ii), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the General Counsel of the Commission, to be performed by the General Counsel or under the General Counsel's
 direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 

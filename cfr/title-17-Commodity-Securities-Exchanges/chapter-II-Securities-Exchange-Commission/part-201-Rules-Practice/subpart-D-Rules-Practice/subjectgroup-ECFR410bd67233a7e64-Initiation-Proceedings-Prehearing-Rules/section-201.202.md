@@ -1,5 +1,7 @@
 ##### § 201.202 Specification of procedures by parties in certain proceedings. #####
 
+Link to an amendment published at 88 FR 87282, Dec. 15, 2023.
+
 (a) *Motion to specify procedures.* In any proceeding other than an enforcement or disciplinary proceeding, a proceeding to review a determination by a self-regulatory organization pursuant to §§ 201.420 and 201.421, or a proceeding to review a determination of the Board pursuant to §§ 201.440 and 201.441, a party may, at any time up to 20 days prior to the start of a hearing, make a motion to specify the procedures necessary or appropriate for the proceeding with particular reference to:
 
 (1) Whether there should be an initial decision by a hearing officer;

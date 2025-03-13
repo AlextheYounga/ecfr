@@ -1,5 +1,7 @@
 ##### § 201.101 Definitions. #####
 
+Link to an amendment published at 88 FR 87282, Dec. 15, 2023.
+
 (a) For purposes of these Rules of Practice, unless explicitly stated to the contrary:
 
 (1) *Commission* means the United States Securities and Exchange Commission, or a panel of Commissioners constituting a quorum of the Commission, or a single Commissioner acting as duty officer pursuant to 17 CFR 200.43;

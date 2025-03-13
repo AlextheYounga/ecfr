@@ -1,5 +1,7 @@
 ##### § 201.460 Record before the Commission. #####
 
+Link to an amendment published at 88 FR 87283, Dec. 15, 2023.
+
 The Commission shall determine each matter on the basis of the record.
 
 (a) *Contents of the record.* (1) In proceedings for final decision before the Commission other than those reviewing a determination by a self-regulatory organization, the record shall consist of:

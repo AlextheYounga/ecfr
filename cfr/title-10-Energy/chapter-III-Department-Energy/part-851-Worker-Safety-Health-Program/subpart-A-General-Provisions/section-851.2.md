@@ -1,5 +1,7 @@
 ##### § 851.2 Exclusions. #####
 
+Link to an amendment published at 88 FR 86815, Dec. 15, 2023.
+
 (a) This part does not apply to work at a DOE site:
 
 (1) Regulated by the Occupational Safety and Health Administration; or

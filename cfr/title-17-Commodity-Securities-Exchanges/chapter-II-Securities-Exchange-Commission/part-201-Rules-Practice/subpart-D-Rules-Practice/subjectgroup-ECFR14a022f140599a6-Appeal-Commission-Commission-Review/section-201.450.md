@@ -1,5 +1,7 @@
 ##### § 201.450 Briefs filed with the Commission. #####
 
+Link to an amendment published at 88 FR 87283, Dec. 15, 2023.
+
 (a) *Briefing schedule order.* Other than review ordered pursuant to § 201.431, if review of a determination is mandated by statute, rule, or judicial order or the Commission determines to grant review as a matter of discretion, the Commission shall issue a briefing schedule order directing the party or parties to file opening briefs and specifying particular issues, if any, as to which briefing should be limited or directed. Unless otherwise provided, opening briefs shall be filed within 30 days of the date of the briefing schedule order. Opposition briefs shall be filed within 30 days after the date opening briefs are due. Reply briefs shall be filed within 14 days after the date opposition briefs are due. No briefs in addition to those specified in the briefing schedule order may be filed except with leave of the Commission. The briefing schedule order shall be issued:
 
 (1) At the time the Commission orders review on its own initiative pursuant to §§ 201.411 or 201.421, or orders interlocutory review on its own motion pursuant to § 201.400(a); or

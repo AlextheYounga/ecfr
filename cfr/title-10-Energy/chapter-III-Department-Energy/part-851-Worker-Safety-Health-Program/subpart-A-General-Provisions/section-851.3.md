@@ -1,5 +1,7 @@
 ##### § 851.3 Definitions. #####
 
+Link to an amendment published at 88 FR 86815, Dec. 15, 2023.
+
 (a) As used in this part:
 
 *AEA* means the Atomic Energy Act of 1954, 42 U.S.C. 2011 *et seq.*

@@ -1,5 +1,7 @@
 ##### § 201.210 Parties, limited participants and amici curiae. #####
 
+Link to an amendment published at 88 FR 87282, Dec. 15, 2023.
+
 (a) *Parties in an enforcement or disciplinary proceeding, a proceeding to review a self-regulatory organization determination, or a proceeding to review a Board determination*—(1) *Generally.* No person shall be granted leave to become a party or a non-party participant on a limited basis in an enforcement or disciplinary proceeding, a proceeding to review a determination by a self-regulatory organization pursuant to §§ 201.420 and 201.421, or a proceeding to review a determination by the Board pursuant to §§ 201.440 and 201.441, except as authorized by paragraph (c) of this section.
 
 (2) *Disgorgement proceedings.* In an enforcement proceeding, a person may state his or her views with respect to a proposed plan of disgorgement or file a proof of claim pursuant to § 201.1103.

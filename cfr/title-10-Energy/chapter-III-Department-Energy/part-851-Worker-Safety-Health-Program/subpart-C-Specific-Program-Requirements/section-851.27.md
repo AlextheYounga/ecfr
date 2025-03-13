@@ -1,5 +1,7 @@
 ##### § 851.27 Materials incorporated by reference. #####
 
+Link to an amendment published at 88 FR 86816, Dec. 15, 2023.
+
 (a) *General.* We incorporate by reference the following standards into part 851. The material has been approved for incorporation by the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. Any subsequent amendment to a standard by the standard-setting organization will not affect the DOE regulations unless and until amended by DOE. Material is incorporated as it exists on the date of the approval. To use a subsequent amendment to a standard, DOE must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the U.S. Department of Energy, Office of Environment, Health, Safety and Security, Office of Worker Safety and Health Policy, 1000 Independence Ave. SW, Washington, DC 20585. 301-903-6061. The material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* Standards can be obtained from the sources listed below.
 
 (b) *ACGIH®.* American Conference of Governmental Industrial Hygienist, 1330 Kemper Meadow Drive, Cincinnati, OH 45240. Telephone number: 513-742-2020, or go to: *http://www.acgih.org.*

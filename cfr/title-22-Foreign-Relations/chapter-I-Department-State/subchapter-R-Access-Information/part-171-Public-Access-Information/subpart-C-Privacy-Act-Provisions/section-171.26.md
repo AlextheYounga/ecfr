@@ -14,8 +14,6 @@ Systems of records maintained by the Department are authorized to be exempt from
 
 (iii) Reports identifiable to an individual compiled at any stage of the process of enforcement of the criminal laws from arrest or indictment through release from supervision. The reason for invoking these exemptions is to ensure effective criminal law enforcement processes. Records maintained by the Department in the following systems of records are exempt from all of the provisions of the PA except paragraphs (b), (c)(1) and (2), (e)(4)(A) through (F), (e)(6), (e)(7), (e)(9), (e)(10), and (e)(11), and (i), to the extent to which they meet the criteria of section (j)(2) of 5 U.S.C. 552a. The names of the systems correspond to those published in the Federal Register by the Department.
 
-Table 1 to Paragraph (a)(2)(iii)
-
 |                           Title                           |   No.   |
 |-----------------------------------------------------------|---------|
 |            Information Access Program Records             |STATE-35.|
@@ -26,8 +24,6 @@ Table 1 to Paragraph (a)(2)(iii)
 (b) *Specific exemptions.* Portions of the following systems of records are exempt from 5 U.S.C. 552a(c)(3), (d), (e)(1), and (4), (G), (H), and (I), and (f). The names of the systems correspond to those published in the Federal Register by the Department.
 
 (1) *Exempt under 5 U.S.C. 552a(k)(1).* Records contained within the following systems of records are exempt under this section to the extent that they are subject to the provisions of 5 U.S.C. 552(b)(1).
-
-Table 2 to Paragraph (b)(1)
 
 |                                                Title                                                |   No.   |
 |-----------------------------------------------------------------------------------------------------|---------|
@@ -58,11 +54,10 @@ Table 2 to Paragraph (b)(1)
 |                                           Refugee Records                                           |STATE-59.|
 |                                            Rover Records                                            |STATE-41.|
 |                                          Security Records                                           |STATE-36.|
+|                 Special Presidential Envoy for Hostage Affairs and Related Records                  |STATE-60 |
 |                                            Visa Records                                             |STATE-39.|
 
 (2) *Exempt under 5 U.S.C. 552a(k)(2).* Records contained within the following systems of records are exempt under this section to the extent that they consist of investigatory material compiled for law enforcement purposes, subject to the limitations set forth in 5 U.S.C. 552a(k)(2).
-
-Table 3 to Paragraph (b)(2)
 
 |                                  Title                                  |   No.   |
 |-------------------------------------------------------------------------|---------|
@@ -83,11 +78,10 @@ Table 3 to Paragraph (b)(2)
 |         Personality Index to the Central Foreign Policy Records         |STATE-29.|
 |                  Risk Analysis and Management Records                   |STATE-78.|
 |                            Security Records                             |STATE-36.|
+|   Special Presidential Envoy for Hostage Affairs and Related Records    |STATE-60 |
 |                              Visa Records                               |STATE-39.|
 
 (3) *Exempt under 5 U.S.C. 552a(k)(3).* Records contained within the following systems of records are exempt under this section to the extent that they are maintained in connection with providing protective services pursuant to 18 U.S.C. 3056.
-
-Table 4 to Paragraph (b)(3)
 
 |                                  Title                                  |   No.   |
 |-------------------------------------------------------------------------|---------|
@@ -103,8 +97,6 @@ Table 4 to Paragraph (b)(3)
 
 (4) *Exempt under 5 U.S.C. 552a(k)(4).* Records contained within the following systems of records are exempt under this section to the extent that they are required by statute to be maintained and are used solely as statistical records.
 
-Table 5 to Paragraph (b)(4)
-
 |               Title               |   No.   |
 |-----------------------------------|---------|
 | Foreign Service Institute Records |STATE-14.|
@@ -115,8 +107,6 @@ Table 5 to Paragraph (b)(4)
 |         Security Records          |STATE-36.|
 
 (5) *Exempt under 5 U.S.C. 552a(k)(5).* Records contained within the following systems of records are exempt under this section to the extent that they consist of investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for Federal civilian employment, military service, Federal contracts, or access to classified information, but only to the extent that disclosure of such material would reveal the identity of a confidential informant.
-
-Table 6 to Paragraph (b)(5)
 
 |                                  Title                                  |   No.   |
 |-------------------------------------------------------------------------|---------|
@@ -137,8 +127,6 @@ Table 6 to Paragraph (b)(5)
 
 (6) *Exempt under 5 U.S.C. 552a(k)(6).* Records contained within the following systems of records are exempt under this section to the extent that they consist of testing or examination material used solely to determine individual qualifications for appointment or promotion in the Federal service the disclosure of which would compromise the objectivity or fairness of the testing or examination process.
 
-Table 7 to Paragraph (b)(6)
-
 |                     Title                      |   No.   |
 |------------------------------------------------|---------|
 |       Foreign Service Institute Records        |STATE-14.|
@@ -149,8 +137,6 @@ Table 7 to Paragraph (b)(6)
 
 (7) *Exempt under 5 U.S.C. 552a(k)(7).* Records contained within the following systems of records are exempt under this section to the extent that they consist of evaluation material used to determine potential for promotion in the armed services, but only to the extent that such disclosure would reveal the identity of a confidential informant.
 
-Table 8 to Paragraph (b)(7)
-
 |                                  Title                                  |   No.   |
 |-------------------------------------------------------------------------|---------|
 |                         Human Resources Records                         |STATE-31.|
@@ -159,3 +145,5 @@ Table 8 to Paragraph (b)(7)
 |Personality Cross-Reference Index to the Secretariat Automated Data Index|STATE-28.|
 |         Personality Index to the Central Foreign Policy Records         |STATE-29.|
 |                            Security Records                             |STATE-36.|
+
+[88 FR 71740, Oct. 18, 2023, as amended at 88 FR 78232, Nov. 15, 2023]

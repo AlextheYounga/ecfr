@@ -1,5 +1,7 @@
 ##### § 10.210 WEA participation election procedures. #####
 
+Link to an amendment published at 88 FR 86837, Dec. 15, 2023.
+
 (a) A CMS provider that elects to transmit WEA Alert Messages, in part or in whole as defined by § 10.10(k) and (l), shall electronically file with the Commission a letter attesting that the Provider:
 
 (1) Agrees to transmit such alerts in a manner consistent with the technical standards, protocols, procedures, and other technical requirements implemented by the Commission; and
