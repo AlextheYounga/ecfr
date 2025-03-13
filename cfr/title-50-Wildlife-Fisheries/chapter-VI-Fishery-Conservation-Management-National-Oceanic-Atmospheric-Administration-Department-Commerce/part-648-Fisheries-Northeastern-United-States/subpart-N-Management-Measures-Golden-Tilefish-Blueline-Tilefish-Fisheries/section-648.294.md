@@ -1,5 +1,7 @@
 ##### § 648.294 Golden tilefish individual fishing quota (IFQ) program. #####
 
+Link to an amendment published at 89 FR 19762, Mar. 20, 2024.
+
 (a) *IFQ allocation permits.* (1) After adjustments for incidental catch, research set-asides, and overages, as appropriate, pursuant to § 648.292(a)(3), the Regional Administrator shall divide the remaining golden tilefish TAL among the IFQ quota shareholders who held IFQ quota share as of September 1 of a given fishing year. Allocations shall be made by applying the IFQ quota share percentages that exist on September 1 of a given fishing year to the IFQ TAL pursuant to § 648.292(a)(3), subject to any deductions for overages pursuant to paragraph (f) of this section. Amounts of IFQ allocation of 0.5 lb (0.23 kg) or smaller created by this calculation shall be rounded downward to the nearest whole number, and amounts of IFQ allocation greater than 0.5 lb (0.23 kg) shall be rounded upward to the nearest whole number, so that annual IFQ allocations are specified in whole pounds.
 
 (2) Allocations shall be issued in the form of an annual IFQ allocation permit. The IFQ allocation permit shall specify the quota share percentage held by the IFQ allocation permit holder and the total pounds of golden tilefish that the IFQ allocation permit holder is authorized to harvest.

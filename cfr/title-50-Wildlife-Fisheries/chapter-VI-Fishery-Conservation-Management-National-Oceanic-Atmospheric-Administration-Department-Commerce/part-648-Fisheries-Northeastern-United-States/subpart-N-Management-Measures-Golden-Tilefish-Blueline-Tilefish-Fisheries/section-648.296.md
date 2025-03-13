@@ -1,5 +1,7 @@
 ##### § 648.296 Tilefish recreational possession limits and gear restrictions. #####
 
+Link to an amendment published at 89 FR 19762, Mar. 20, 2024.
+
 (a) *Golden tilefish.* (1) The recreational tilefish possession limit for charter/party and private recreational anglers is eight golden tilefish per angler per trip. Any vessel engaged in recreational fishing for golden tilefish may not retain golden tilefish, unless issued a valid Federal charter/party permit, pursuant to § 648.4(a)(12)(ii), or a valid Federal private recreational tilefish permit issued pursuant to § 648.4(a)(12)(iv).
 
 (2) Any vessel engaged in recreational fishing may not retain golden tilefish, unless exclusively using rod and reel fishing gear, with a maximum limit of five hooks per rod. Anglers may use either a manual or an electric reel.

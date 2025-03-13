@@ -1,6 +1,6 @@
 ##### 752.204-72 Access to USAID facilities and USAID's information systems. #####
 
-Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
+Link to an amendment published at 89 FR 4209, Jan. 23, 2024.Link to an amendment published at 89 FR 19758, Mar. 20, 2024.
 
 As prescribed in (48 CFR) AIDAR 704.404(b), insert the following clause in all solicitations and contracts that contain the provision at (48 CFR) FAR 52.204-9(a):
 

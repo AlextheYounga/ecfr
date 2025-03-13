@@ -9,5 +9,3 @@
 (3) 852.271-74, Inspection of Instruction, Counseling or Testing Operations.
 
 (b) See 837.110-70(a) for clause 852.237-74, Non-Discrimination in Service Delivery.
-
-##### 871.210 PART 872 [RESERVED] #####

@@ -1,4 +1,4 @@
-##### 852.204-70 Personal Identity Verification of Contractor personnel. #####
+##### 852.204-70 Personal Identity Verification of Contractor Personnel. #####
 
 As prescribed in 804.1303, insert the following clause:
 

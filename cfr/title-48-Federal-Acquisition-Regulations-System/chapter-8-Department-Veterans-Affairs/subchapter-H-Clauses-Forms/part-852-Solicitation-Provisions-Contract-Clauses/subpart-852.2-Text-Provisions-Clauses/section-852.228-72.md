@@ -1,4 +1,4 @@
-##### 852.228-72 Assisting Service-Disabled Veteran-Owned and Veteran-Owned Small businesses in Obtaining Bonds. #####
+##### 852.228-72 Assisting Service-Disabled Veteran-Owned and Veteran-Owned Small Businesses in Obtaining Bonds. #####
 
 As prescribed in 828.106-71, insert the following clause:
 
