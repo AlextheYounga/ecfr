@@ -1,5 +1,7 @@
 ##### § 67.219 Optional filing of instruments by facsimile. #####
 
+Link to an amendment published at 89 FR 101500, Dec. 16, 2024.
+
 (a) Any instrument identified as eligible for filing and recording under § 67.200 may be submitted for filing to the National Vessel Documentation Center by facsimile at (304) 271-2405. If the instrument submitted by facsimile for filing pertains to a vessel that is not a currently documented vessel, a completed Application for Initial Issue, Exchange, or Replacement Certificate of Documentation, or Return to Documentation (form CG-1258) or a letter application for deletion from documentation must already be on file with the National Vessel Documentation Center or must be submitted by facsimile with the instrument being submitted by facsimile for filing.
 
 (b) All instruments submitted by facsimile for filing must be clearly legible, be submitted from 81/2 inch by 11 inch paper in not less than 10-point type size, and accompanied by a cover sheet.

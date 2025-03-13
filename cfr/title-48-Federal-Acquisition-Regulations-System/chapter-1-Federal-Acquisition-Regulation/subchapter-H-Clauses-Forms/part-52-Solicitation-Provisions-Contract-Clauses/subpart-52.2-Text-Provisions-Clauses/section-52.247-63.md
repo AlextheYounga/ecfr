@@ -1,5 +1,7 @@
 ##### 52.247-63 Preference for U.S.-Flag Air Carriers. #####
 
+Link to an amendment published at 89 FR 101827, Dec. 16, 2024.
+
 As prescribed in 47.405, insert the following clause:
 
 Preference for U.S.-Flag Air Carriers (JUN 2003)

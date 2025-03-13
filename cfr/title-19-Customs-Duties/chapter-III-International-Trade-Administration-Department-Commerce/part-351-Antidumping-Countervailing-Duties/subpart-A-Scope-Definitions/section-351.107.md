@@ -1,5 +1,7 @@
 ##### § 351.107 Cash deposit rates for nonproducing exporters; rates in antidumping proceedings involving a nonmarket economy country. #####
 
+Link to an amendment published at 89 FR 101757, Dec. 16, 2024.
+
 (a) *Introduction.* This section deals with the establishment of cash deposit rates in situations where the exporter is not the producer of subject merchandise, the selection of the appropriate cash deposit rate in situations where entry documents do not indicate the producer of subject merchandise, and the calculation of dumping margins in antidumping proceedings involving imports from a nonmarket economy country.
 
 (b) *Cash deposit rates for nonproducing exporters*—(1) *Use of combination rates*—(i) *In general.* In the case of subject merchandise that is exported to the United States by a company that is not the producer of the merchandise, the Secretary may establish a “combination” cash deposit rate for each combination of the exporter and its supplying producer(s).

@@ -1,5 +1,7 @@
 ##### § 351.104 Record of proceedings. #####
 
+Link to an amendment published at 89 FR 101756, Dec. 16, 2024.
+
 (a) *Official record*—(1) *In general.* The Secretary will maintain an official record of each antidumping and countervailing duty proceeding. The Secretary will include in the official record all factual information, written argument, or other material developed by, presented to, or obtained by the Secretary during the course of a proceeding that pertains to the proceeding. The official record will include government memoranda pertaining to the proceeding, memoranda of ex parte meetings, determinations, documents published in the Federal Register, and transcripts of hearings. The official record will contain material that is public, business proprietary, privileged, and classified. For purposes of section 516A(b)(2) of the Act, the record is the official record of each segment of the proceeding. For a scope, circumvention, or covered merchandise inquiry pertaining to companion antidumping and countervailing duty orders conducted on the record of the antidumping duty segment of the proceeding, pursuant to §§ 351.225, 352.226, and 351.227, the record of the antidumping duty segment of the proceeding normally will be the official record.
 
 (2) *Material rejected.* (i) The Secretary, in making any determination under this part, will not use factual information, written argument, or other material that the Secretary rejects.

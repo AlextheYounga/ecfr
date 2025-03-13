@@ -1,5 +1,7 @@
 ##### § 351.309 Written argument. #####
 
+Link to an amendment published at 89 FR 101764, Dec. 16, 2024.
+
 (a) *Introduction.* Written argument may be submitted during the course of an antidumping or countervailing duty proceeding. This section sets forth the time limits for submission of case and rebuttal briefs and provides guidance on what should be contained in these documents.
 
 (b) *Written argument*—(1) *In general.* In making the final determination in a countervailing duty investigation or antidumping investigation or the final results of an administrative review, new shipper review, expedited antidumping review, section 753 review, or section 762 review, the Secretary will consider written arguments in case or rebuttal briefs filed within the time limits in this section.

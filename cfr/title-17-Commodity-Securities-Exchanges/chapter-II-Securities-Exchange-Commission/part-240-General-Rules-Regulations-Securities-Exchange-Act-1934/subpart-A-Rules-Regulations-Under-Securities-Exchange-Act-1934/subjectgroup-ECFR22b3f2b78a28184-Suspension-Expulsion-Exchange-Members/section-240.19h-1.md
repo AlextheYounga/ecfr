@@ -138,4 +138,4 @@ If the application contains assertions of material facts not a matter of record 
 
 (h) The Rules of Practice (17 CFR part 201) shall apply to proceedings under this rule to the extent that they are not inconsistent with this rule.
 
-(15 U.S.C. 78a *et seq.,* as amended by Pub. L. 94-29 (June 4, 1975) and by Pub. L. 98-38 (June 6, 1983), particularly secs. 11A, 15, 19 and 23 thereof (15 U.S.C. 78k-1, 78*o,* 78s and 78w))[46 FR 58661, Dec. 3, 1981, as amended at 48 FR 53691, Nov. 29, 1983]
+(15 U.S.C. 78a *et seq.,* as amended by Pub. L. 94-29 (June 4, 1975) and by Pub. L. 98-38 (June 6, 1983), particularly secs. 11A, 15, 19 and 23 thereof (15 U.S.C. 78k-1, 78*o,* 78s and 78w)) [46 FR 58661, Dec. 3, 1981, as amended at 48 FR 53691, Nov. 29, 1983]

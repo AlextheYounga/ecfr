@@ -50,4 +50,4 @@ A court of competent jurisdiction for the purpose of paragraphs (b)(4) and (5) o
 
 (10) Applicant will furnish to the Commission with its registration statement filed under the Act a list of persons affiliated with it and with its investment adviser and principal underwriter and will furnish revisions of such list, if any, concurrently with the filing of periodic reports required to be filed under the Act.
 
-(Sec. 7, 54 Stat. 802; 15 U.S.C. 80a-7; secs. 6(c); 15 U.S.C. 80a-6(c); and 38(a); 15 U.S.C. 80a-37(a) of the Act)[19 FR 2585, May 5, 1954, as amended at 38 FR 8593, Apr. 4, 1973; 49 FR 36084, Sept. 14, 1984; 65 FR 25637, May 3, 2000]
+(Sec. 7, 54 Stat. 802; 15 U.S.C. 80a-7; secs. 6(c); 15 U.S.C. 80a-6(c); and 38(a); 15 U.S.C. 80a-37(a) of the Act) [19 FR 2585, May 5, 1954, as amended at 38 FR 8593, Apr. 4, 1973; 49 FR 36084, Sept. 14, 1984; 65 FR 25637, May 3, 2000]

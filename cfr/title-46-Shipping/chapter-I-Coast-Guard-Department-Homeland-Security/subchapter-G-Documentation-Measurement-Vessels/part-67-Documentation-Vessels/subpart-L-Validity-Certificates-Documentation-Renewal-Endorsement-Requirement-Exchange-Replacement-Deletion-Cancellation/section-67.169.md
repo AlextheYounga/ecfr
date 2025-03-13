@@ -1,5 +1,7 @@
 ##### § 67.169 Requirement for replacement of Certificate of Documentation. #####
 
+Link to an amendment published at 89 FR 101500, Dec. 16, 2024.
+
 (a) The owner of a documented vessel must make application in accordance with subpart K of this part for replacement of a Certificate of Documentation which is:
 
 (1) Lost;

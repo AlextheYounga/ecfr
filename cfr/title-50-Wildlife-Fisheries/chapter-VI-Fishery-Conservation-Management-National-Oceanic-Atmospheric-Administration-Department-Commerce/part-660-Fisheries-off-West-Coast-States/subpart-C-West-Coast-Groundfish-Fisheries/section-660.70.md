@@ -1,5 +1,7 @@
 ##### § 660.70 Groundfish conservation areas. #####
 
+Link to an amendment published at 89 FR 101527, Dec. 16, 2024.
+
 (a) *General.* Groundfish conservation area (GCA) is defined in § 660.11. This section defines GCAs whose shapes are not exclusively defined by boundary lines approximating depth contours found in §§ 660.71 through 660.74 or commonly used geographic coordinates at § 660.11. Fishing activity that is prohibited or permitted within a particular GCA is detailed at subparts C through G of part 660.
 
 (b) *North Coast Recreational Yelloweye Rockfish Conservation Area.* The North Coast Recreational Yelloweye Rockfish Conservation Area (YRCA) is a C-shaped area off the northern Washington coast intended to protect yelloweye rockfish. The North Coast Recreational YRCA is defined by straight lines connecting the following specific latitude and longitude coordinates in the order listed:

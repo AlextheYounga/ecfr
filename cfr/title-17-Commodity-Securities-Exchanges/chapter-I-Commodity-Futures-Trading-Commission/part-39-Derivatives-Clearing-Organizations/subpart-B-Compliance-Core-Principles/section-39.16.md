@@ -28,7 +28,7 @@
 
 (3) A derivatives clearing organization shall make its default rules publicly available as provided in § 39.21 of this part.
 
-(d) *Insolvency of a clearing member.*(1) A derivatives clearing organization shall have rules that require a clearing member to provide prompt notice to the derivatives clearing organization if it becomes the subject of a bankruptcy petition, receivership proceeding, or the equivalent;
+(d) *Insolvency of a clearing member.* (1) A derivatives clearing organization shall have rules that require a clearing member to provide prompt notice to the derivatives clearing organization if it becomes the subject of a bankruptcy petition, receivership proceeding, or the equivalent;
 
 (2) No later than upon receipt of such notice, a derivatives clearing organization shall review the continuing eligibility of the clearing member for clearing membership; and
 

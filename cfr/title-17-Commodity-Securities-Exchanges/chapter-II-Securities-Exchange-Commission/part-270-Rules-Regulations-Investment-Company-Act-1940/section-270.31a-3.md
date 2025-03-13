@@ -4,4 +4,4 @@
 
 (b) In cases where a bank or member of a national securities exchange acts as custodian, transfer agent, or dividend disbursing agent, compliance with this section shall be considered to have been met if such bank or exchange member agrees in writing to make any records relating to such service available upon request and to preserve for the periods prescribed in § 270.31a-2 any such records as are required to be maintained by § 270.31a-1.
 
-(Sec. 31, 54 Stat. 838; 15 U.S.C. 80a-30)[27 FR 11994, Dec. 5, 1962]
+(Sec. 31, 54 Stat. 838; 15 U.S.C. 80a-30) [27 FR 11994, Dec. 5, 1962]

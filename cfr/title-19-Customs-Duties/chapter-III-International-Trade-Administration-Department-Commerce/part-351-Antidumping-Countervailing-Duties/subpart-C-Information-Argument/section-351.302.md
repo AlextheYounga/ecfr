@@ -1,5 +1,7 @@
 ##### § 351.302 Extension of time limits; return of untimely filed or unsolicited material. #####
 
+Link to an amendment published at 89 FR 101763, Dec. 16, 2024.
+
 (a) *Introduction.* This section sets forth the procedures for requesting an extension of a time limit. In addition, this section explains that certain untimely filed or unsolicited material will be rejected together with an explanation of the reasons for the rejection of such material.
 
 (b) *Extension of time limits.* Unless expressly precluded by statute, the Secretary may, for good cause, extend any time limit established by this part.

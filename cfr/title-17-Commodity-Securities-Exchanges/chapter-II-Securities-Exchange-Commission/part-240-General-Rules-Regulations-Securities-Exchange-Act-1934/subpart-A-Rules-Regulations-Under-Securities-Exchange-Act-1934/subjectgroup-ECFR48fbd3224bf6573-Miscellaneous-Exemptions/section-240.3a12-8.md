@@ -50,4 +50,4 @@
 
 (b) Any designated foreign government security shall, for purposes only of the offer, sale or confirmation of sale of qualifying foreign futures contracts, be exempted from all provisions of the Act which by their terms do not apply to an “exempted security” or “exempted securities.”
 
-(15 U.S.C. 78a *et seq.,* and particularly secs. 3(a)(12), and 23(a) 15 U.S.C. 78c(a)(12), and 78w(a))[49 FR 8599, Mar. 8, 1984, as amended at 51 FR 25998, July 18, 1986; 52 FR 8877, Mar. 20, 1987; 52 FR 42279, Nov. 4, 1987; 53 FR 43863, Oct. 31, 1988; 57 FR 1378, Jan. 14, 1992; 59 FR 54815, Nov. 2, 1994; 60 FR 62326, Dec. 6, 1995; 61 FR 10274, Mar. 13, 1996; 64 FR 10567, Mar. 5, 1999; 64 FR 29553, June 2, 1999]
+(15 U.S.C. 78a *et seq.,* and particularly secs. 3(a)(12), and 23(a) 15 U.S.C. 78c(a)(12), and 78w(a)) [49 FR 8599, Mar. 8, 1984, as amended at 51 FR 25998, July 18, 1986; 52 FR 8877, Mar. 20, 1987; 52 FR 42279, Nov. 4, 1987; 53 FR 43863, Oct. 31, 1988; 57 FR 1378, Jan. 14, 1992; 59 FR 54815, Nov. 2, 1994; 60 FR 62326, Dec. 6, 1995; 61 FR 10274, Mar. 13, 1996; 64 FR 10567, Mar. 5, 1999; 64 FR 29553, June 2, 1999]

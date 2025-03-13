@@ -48,4 +48,4 @@
 
 (3) Convert from manual to automated systems,
 
-must carry over any existing certificate detail required by this section on the master securityholder file.A recordkeeping transfer agent shall not be required to add certificate detail to the master securityholder file respecting certificates issued prior to the effective date of this section.(Secs. 2, 17(a), 17A(d) and 23(a) thereof, 15 U.S.C. 78b, 78q(a), 78q-1(d) and 78w(a))[48 FR 28246, June 21, 1983, as amended at 51 FR 5708, Feb. 18, 1986]
+must carry over any existing certificate detail required by this section on the master securityholder file.A recordkeeping transfer agent shall not be required to add certificate detail to the master securityholder file respecting certificates issued prior to the effective date of this section.(Secs. 2, 17(a), 17A(d) and 23(a) thereof, 15 U.S.C. 78b, 78q(a), 78q-1(d) and 78w(a)) [48 FR 28246, June 21, 1983, as amended at 51 FR 5708, Feb. 18, 1986]

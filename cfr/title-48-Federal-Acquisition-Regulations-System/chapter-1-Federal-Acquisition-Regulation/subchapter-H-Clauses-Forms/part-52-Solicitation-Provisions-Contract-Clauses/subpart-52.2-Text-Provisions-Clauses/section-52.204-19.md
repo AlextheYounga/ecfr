@@ -1,5 +1,7 @@
 ##### 52.204-19 Incorporation by Reference of Representations and Certifications. #####
 
+Link to an amendment published at 89 FR 101831, Dec. 16, 2024.
+
 As prescribed in 4.1202(b), insert the following clause.
 
 Incorporation by Reference of Representations and Certifications (DEC 2014)

@@ -1,5 +1,7 @@
 ##### § 660.130 Trawl fishery—management measures. #####
 
+Link to an amendment published at 89 FR 101532, Dec. 16, 2024.
+
 (a) *General.* This section applies to the limited entry trawl fishery. Most species taken in the limited entry trawl fishery will be managed with quotas (see § 660.140), allocations or set-asides (see § 660.150 or § 660.160), or cumulative trip limits (see trip limits in Tables 1 (North) and 1 (South) of this subpart), size limits (see § 660.60 (h)(5)), seasons (see Pacific whiting at § 660.131(b), subpart D), gear restrictions (see paragraphs (b) and (c) of this section) and closed areas (see paragraphs (c) and (e) of this section and §§ 660.70 through 660.79). The limited entry trawl fishery has gear requirements and harvest limits that differ by the type of groundfish trawl gear on board and the area fished. Groundfish vessels operating south of Point Conception must adhere to CCA restrictions (see paragraph (e)(1) of this section and § 660.70). The trip limits in Tables 1 (North) and 1 (South) of this subpart applies to vessels participating in the limited entry trawl fishery and may not be exceeded. Federal commercial groundfish regulations are not intended to supersede any more restrictive state commercial groundfish regulations relating to federally-managed groundfish.
 
 (b) *Trawl gear requirements and restrictions.* Trawl nets may be fished with or without otter boards, and may use warps or cables to herd fish.

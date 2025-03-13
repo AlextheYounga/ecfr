@@ -1,5 +1,7 @@
 ##### § 351.213 Administrative review of orders and suspension agreements under section 751(a)(1) of the Act. #####
 
+Link to an amendment published at 89 FR 101762, Dec. 16, 2024.
+
 (a) *Introduction.* As noted in § 351.212(a), the United States has a “retrospective” assessment system under which final liability for antidumping and countervailing duties is determined after merchandise is imported. Although duty liability may be determined in the context of other types of reviews, the most frequently used procedure for determining final duty liability is the administrative review procedure under section 751(a)(1) of the Act. This section contains rules regarding requests for administrative reviews and the conduct of such reviews.
 
 (b) *Request for administrative review.* (1) Each year during the anniversary month of the publication of an antidumping or countervailing duty order, a domestic interested party or an interested party described in section 771(9)(B) of the Act (foreign government) may request in writing that the Secretary conduct an administrative review under section 751(a)(1) of the Act of specified individual exporters or producers covered by an order (except for a countervailing duty order in which the investigation or prior administrative review was conducted on an aggregate basis), if the requesting person states why the person desires the Secretary to review those particular exporters or producers.

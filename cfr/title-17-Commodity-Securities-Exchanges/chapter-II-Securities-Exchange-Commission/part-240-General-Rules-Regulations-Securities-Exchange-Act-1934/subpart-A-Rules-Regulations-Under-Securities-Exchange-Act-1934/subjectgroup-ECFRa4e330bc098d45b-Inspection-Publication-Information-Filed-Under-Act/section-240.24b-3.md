@@ -4,4 +4,4 @@
 
 (b) In the case of an application for registration of a security pursuant to section 12 an exchange may delay making available the information contained therein until it has certified to the Commission its approval of such security for listing and registration.
 
-(Sec. 24, 48 Stat. 901, as amended; 15 U.S.C. 78x)[16 FR 3109, Apr. 10, 1951]
+(Sec. 24, 48 Stat. 901, as amended; 15 U.S.C. 78x) [16 FR 3109, Apr. 10, 1951]

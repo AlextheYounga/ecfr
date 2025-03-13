@@ -1,5 +1,7 @@
 ##### § 351.401 In general. #####
 
+Link to an amendment published at 89 FR 101764, Dec. 16, 2024.
+
 (a) *Introduction.* In general terms, an antidumping analysis involves a comparison of export price or constructed export price in the United States with normal value in the foreign market. This section establishes certain general rules that apply to the calculation of export price, constructed export price and normal value. (*See* section 772, section 773, and section 773A of the Act.)
 
 (b) *Adjustments in general.* In making adjustments to export price, constructed export price, or normal value, the Secretary will adhere to the following principles:

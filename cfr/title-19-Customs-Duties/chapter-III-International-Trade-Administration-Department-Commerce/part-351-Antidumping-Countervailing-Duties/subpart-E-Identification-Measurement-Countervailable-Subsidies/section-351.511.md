@@ -1,5 +1,7 @@
 ##### § 351.511 Provision of goods or services. #####
 
+Link to an amendment published at 89 FR 101766, Dec. 16, 2024.
+
 (a) *Benefit*—(1) *In general.* In the case where goods or services are provided, a benefit exists to the extent that such goods or services are provided for less than adequate remuneration. *See* section 771(5)(E)(iv) of the Act.
 
 (2) “*Adequate Remuneration” defined*—(i) *In general.* The Secretary will normally seek to measure the adequacy of remuneration by comparing the government price to a market-determined price for the good or service resulting from actual transactions in the country in question. Such a price could include prices stemming from actual transactions between private parties, actual imports, or, in certain circumstances, actual sales from competitively run government auctions. In choosing such transactions or sales, the Secretary will consider product similarity; quantities sold, imported, or auctioned; and other factors affecting comparability.

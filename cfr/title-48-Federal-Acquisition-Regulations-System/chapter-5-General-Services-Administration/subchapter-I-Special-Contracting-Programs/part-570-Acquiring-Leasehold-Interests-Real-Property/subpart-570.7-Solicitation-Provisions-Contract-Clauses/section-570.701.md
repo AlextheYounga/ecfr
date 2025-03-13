@@ -1,12 +1,10 @@
 ##### 570.701 FAR provisions and clauses. #####
 
-Link to an amendment published at 89 FR 90240, Nov. 15, 2024.
-
 Insert provisions or clauses substantially the same as the FAR provisions and clauses listed below.
 
 |                                                            If . . .                                                             |                                                                        Then include . . .                                                                        |
 |---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|             (a) the estimated value of the acquisition exceeds the micro-purchase threshold identified in FAR 2.101             |                      52.204-3 Taxpayer Identification.  <br/>52.204-6 Unique Entity Identifier.  <br/>52.204-7 System for Award Management.                      |
+|             (a) the estimated value of the acquisition exceeds the micro-purchase threshold identified in FAR 2.101             |                                            52.204-3 Taxpayer Identification.  <br/>52.204-6 Unique Entity Identifier.                                            |
 |                                                                                                                                 |                                                         52.219-1 Small Business Program Representations.                                                         |
 |                                                                                                                                 |                               52.219-28 Post-Award Small Business Program Rerepresentation (use if lease term exceeds five years).                               |
 |                                                                                                                                 |                                                                 52.232-23 Assignment of Claims.                                                                  |
@@ -35,4 +33,4 @@ Insert provisions or clauses substantially the same as the FAR provisions and cl
 |(j) the contracting officer requires cost or pricing data for work or services exceeding the threshold identified in FAR 15.403-4|              52.215-10 Price Reduction for Defective Certified Cost or Pricing Data.  <br/>52.215-12 Subcontractor Certified Cost or Pricing Data.               |
 |                            (k) the contracting officer authorizes submission of facsimile proposals                             |                                                                  52.215-5 Facsimile Proposals.                                                                   |
 
-[76 FR 30853, May 27, 2011, as amended at 81 FR 1533, Jan. 13, 2016; 86 FR 21666, Apr. 23, 2021; 86 FR 55525, Oct. 6, 2021; 89 FR 11749, Feb. 15, 2024]
+[76 FR 30853, May 27, 2011, as amended at 81 FR 1533, Jan. 13, 2016; 86 FR 21666, Apr. 23, 2021; 86 FR 55525, Oct. 6, 2021; 89 FR 11749, Feb. 15, 2024; 89 FR 90240, Nov. 15, 2024]

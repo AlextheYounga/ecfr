@@ -16,6 +16,6 @@
 
 (3) The term *principal underwriter* shall have the meaning defined in § 230.405.
 
-[3 FR 3015, Dec. 16, 1938]Cross Reference:
+[3 FR 3015, Dec. 16, 1938] Cross Reference:
 
 For interpretative release applicable to § 230.142, see No. 1862 in tabulation, part 231, of this chapter.

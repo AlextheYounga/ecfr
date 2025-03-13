@@ -1,5 +1,7 @@
 ##### § 660.351 Recreational fishery—definitions. #####
 
+Link to an amendment published at 89 FR 101541, Dec. 16, 2024.
+
 These definitions are specific to the recreational fisheries covered in this subpart. General groundfish definitions are defined at § 660.11, subpart C.
 
 *Bag limit* means the number of fish available to an angler.

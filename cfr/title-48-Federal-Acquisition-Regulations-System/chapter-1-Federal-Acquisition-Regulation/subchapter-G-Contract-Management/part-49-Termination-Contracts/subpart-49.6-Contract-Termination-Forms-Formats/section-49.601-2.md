@@ -1,5 +1,7 @@
 ##### 49.601-2 Letter notice. #####
 
+Link to an amendment published at 89 FR 101831, Dec. 16, 2024.
+
 The following letter notice of termination is suggested for use if a contract for supplies is being terminated for convenience.
 With appropriate modifications, it may be used in terminating contracts for other than supplies and in terminating subcontracts.
 This notice shall be sent by certified mail, return receipt requested, or electronically, provided evidence of receipt is received by the contracting officer. If no prior electronic notice was issued, or if no confirmation of an electronic notice was received, use the alternate notice that follows this notice.

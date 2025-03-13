@@ -1,5 +1,7 @@
 ##### § 171.101 Applicability. #####
 
+Link to an amendment published at 89 FR 101810, Dec. 16, 2024.
+
 (a) This part applies to health care providers, health IT developers of certified health IT, health information exchanges, and health information networks, as those terms are defined in § 171.102.
 
 (b) Health care providers, health IT developers of certified health IT, health information exchanges, and health information networks are subject to this part on and after April 5, 2021.

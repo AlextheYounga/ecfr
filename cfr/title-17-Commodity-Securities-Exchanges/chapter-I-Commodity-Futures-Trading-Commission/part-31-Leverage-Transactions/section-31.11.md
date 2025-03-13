@@ -222,4 +222,4 @@ IF YOU ARE A FIRST-TIME LEVERAGE CUSTOMER, YOU MAY RESCIND YOUR FIRST LEVERAGE T
 
 (2) Any leverage transaction merchant using a Disclosure Document that deletes or disregards references to short leverage contracts as permitted by paragraph (m)(1) of this section must file, in accordance with the provisions of paragraph (e)(2) of this section, a new Disclosure Document meeting all of the requirements of paragraphs (a) through (i) of this section at least 30 calendar days before it begins to offer any short leverage contract.
 
-(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982))[49 FR 5532, Feb. 13, 1984; 49 FR 25427, June 21, 1984, as amended at 50 FR 29, Jan. 2, 1985; 50 FR 36415, Sept. 6, 1985; 54 FR 41080, Oct. 5, 1989; 54 FR 46503, Nov. 3, 1989]
+(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982)) [49 FR 5532, Feb. 13, 1984; 49 FR 25427, June 21, 1984, as amended at 50 FR 29, Jan. 2, 1985; 50 FR 36415, Sept. 6, 1985; 54 FR 41080, Oct. 5, 1989; 54 FR 46503, Nov. 3, 1989]

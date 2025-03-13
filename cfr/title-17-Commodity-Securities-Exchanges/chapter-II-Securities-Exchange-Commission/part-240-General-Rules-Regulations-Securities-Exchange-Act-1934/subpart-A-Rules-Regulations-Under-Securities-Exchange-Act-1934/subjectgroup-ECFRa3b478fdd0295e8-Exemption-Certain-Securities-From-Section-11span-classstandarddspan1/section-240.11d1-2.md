@@ -2,4 +2,4 @@
 
 Any securities issued by a registered open-end investment company or unit investment trust as defined in the Investment Company Act of 1940 shall be exempted from the provisions of section 11(d)(1) with respect to any transaction by a person who is a broker and a dealer who, directly or indirectly, extends or maintains or arranges for the extension or maintenance of credit on such security, provided such security has been owned by the person to whom credit would be provided for more than 30 days, or purchased by such person pursuant to a plan for the automatic reinvestment of the dividends of such company or trust.
 
-(Secs. 2, 3, 11, and 23, Exchange Act, 15 U.S.C. 78b, 78c, 78k and 78w)[49 FR 50174, Dec. 27, 1984]
+(Secs. 2, 3, 11, and 23, Exchange Act, 15 U.S.C. 78b, 78c, 78k and 78w) [49 FR 50174, Dec. 27, 1984]

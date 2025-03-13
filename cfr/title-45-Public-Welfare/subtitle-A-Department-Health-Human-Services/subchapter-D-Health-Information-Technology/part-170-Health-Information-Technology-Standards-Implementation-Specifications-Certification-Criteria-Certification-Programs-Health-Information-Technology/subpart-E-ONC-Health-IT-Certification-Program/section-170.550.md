@@ -1,5 +1,7 @@
 ##### § 170.550 Health IT Module certification. #####
 
+Link to an amendment published at 89 FR 101810, Dec. 16, 2024.
+
 (a) *Certification scope.* When certifying Health IT Module(s), an ONC-ACB must certify in accordance with the applicable certification criteria adopted by the Secretary at subpart C of this part.
 
 (b) *Health IT product scope options.* An ONC-ACB must provide the option for an Health IT Module(s) to be certified solely to the applicable certification criteria adopted by the Secretary at subpart C of this part.

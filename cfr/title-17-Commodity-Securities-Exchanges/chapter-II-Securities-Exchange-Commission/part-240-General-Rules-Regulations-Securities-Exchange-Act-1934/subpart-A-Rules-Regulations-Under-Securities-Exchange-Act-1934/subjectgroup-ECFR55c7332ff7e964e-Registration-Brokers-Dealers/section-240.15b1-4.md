@@ -2,4 +2,4 @@
 
 The registration of a broker or dealer shall be deemed to be the registration of any executor, administrator, guardian, conservator, assignee for the benefit of creditors, receiver, trustee in insolvency or bankruptcy, or other fiduciary, appointed or qualified by order, judgment, or decree of a court of competent jurisdiction to continue the business of such registered broker or dealer; *Provided,* That such fiduciary files with the Commission, within 30 days after entering upon the performance of his duties, a statement setting forth as to such fiduciary substantially the information required by Form BD.
 
-(Secs. 15, 17, 48 Stat. 895, as amended, 897 as amended; 15 U.S.C. 78*o,* 78q)[19 FR 1041, Feb. 24, 1954. Redesignated at 30 FR 11851, Sept. 16, 1965]
+(Secs. 15, 17, 48 Stat. 895, as amended, 897 as amended; 15 U.S.C. 78*o,* 78q) [19 FR 1041, Feb. 24, 1954. Redesignated at 30 FR 11851, Sept. 16, 1965]

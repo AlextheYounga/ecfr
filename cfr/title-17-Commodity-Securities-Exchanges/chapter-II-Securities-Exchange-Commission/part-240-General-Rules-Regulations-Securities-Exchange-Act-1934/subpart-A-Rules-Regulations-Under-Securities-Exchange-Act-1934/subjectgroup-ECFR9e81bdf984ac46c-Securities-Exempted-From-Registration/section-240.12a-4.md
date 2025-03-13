@@ -42,4 +42,4 @@
 
 (g) Section 240.10b-1 shall be applicable to any warrant exempted by this section.
 
-(Secs. 3, 12, 48 Stat. 882, as amended, 892; 15 U.S.C. 78c, 78*l*)[15 FR 3450, June 2, 1950, as amended at 18 FR 128, Jan. 7, 1953]
+(Secs. 3, 12, 48 Stat. 882, as amended, 892; 15 U.S.C. 78c, 78*l*) [15 FR 3450, June 2, 1950, as amended at 18 FR 128, Jan. 7, 1953]

@@ -1,6 +1,6 @@
 ##### § 240.15g-100 Schedule 15G—Information to be included in the document distributed pursuant to 17 CFR 240.15g-2. #####
 
-SECURITIES AND EXCHANGE COMMISSIONWashington, DC 20549SCHEDULE 15GUnder the Securities Exchange Act of 1934Instructions to Schedule 15G
+SECURITIES AND EXCHANGE COMMISSION Washington, DC 20549 SCHEDULE 15G Under the Securities Exchange Act of 1934 Instructions to Schedule 15G
 
 A. Schedule 15G (Schedule) may be provided to customers in its entirety either on paper or electronically. It may also be provided to customers electronically through a link to the SEC's Web site.
 
@@ -20,7 +20,7 @@ E. Recipients of the document must not be charged any fee for the document.
 
 F. The content of the Schedule is as follows:
 
-[next page]
+ [next page]
 
 Important Information on Penny Stocks
 

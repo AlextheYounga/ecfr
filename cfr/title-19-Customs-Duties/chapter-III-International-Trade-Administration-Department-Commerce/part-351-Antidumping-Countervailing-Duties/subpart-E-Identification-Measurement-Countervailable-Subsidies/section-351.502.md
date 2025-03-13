@@ -1,5 +1,7 @@
 ##### § 351.502 Specificity of domestic subsidies. #####
 
+Link to an amendment published at 89 FR 101765, Dec. 16, 2024.
+
 (a) *Sequential analysis.* In determining whether a subsidy is *de facto* specific, the Secretary will examine the factors contained in section 771(5A)(D)(iii) of the Act sequentially in order of their appearance. If a single factor warrants a finding of specificity, the Secretary will not undertake further analysis.
 
 (b) *Characteristics of a “group.”* In determining whether a subsidy is being provided to a “group” of enterprises or industries within the meaning of section 751(5A)(D) of the Act, the Secretary is not required to determine whether there are shared characteristics among the enterprises or industries that are eligible for, or actually receive, a subsidy.

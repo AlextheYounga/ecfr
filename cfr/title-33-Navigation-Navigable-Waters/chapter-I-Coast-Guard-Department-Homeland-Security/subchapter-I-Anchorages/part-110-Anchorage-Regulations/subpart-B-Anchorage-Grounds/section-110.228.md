@@ -1,6 +1,6 @@
 ##### § 110.228 Columbia River, Oregon and Washington. #####
 
-Link to an amendment published at 89 FR 96101, Dec. 4, 2024.
+Link to an amendment published at 89 FR 96101, Dec. 4, 2024.Link to an amendment published at 89 FR 101471, Dec. 16, 2024.
 
 (a) *Anchorage grounds*—(1) *Astoria North Anchorage.* An area enclosed by a line beginning northeast of Astoria, Oregon, at latitude 46°12′00.79″ N, longitude 123°49′55.40″ W; thence continuing easterly to latitude 46°12′02.00″ N, longitude 123°49′40.09″ W; thence continuing east-northeasterly to latitude 46°13′14.85″ N, longitude 123°46′27.89″ W; thence continuing south-southeasterly to latitude 46°13′00.56″ N, longitude 123°46′16.65″ W; thence continuing southwesterly to latitude 46°11′51.79″ N, longitude 123°49′18.08″ W; thence continuing west-southwesterly to latitude 46°11′46.27″ N, longitude 123°49′43.48″ W; thence continuing west-southwesterly to latitude 46°11′44.98″ N, longitude 123°49′49.44″ W; thence continuing westerly to latitude 46°11′44.32″ N, longitude 123°49′58.88″ W; thence continuing northeasterly to the point of the beginning.
 

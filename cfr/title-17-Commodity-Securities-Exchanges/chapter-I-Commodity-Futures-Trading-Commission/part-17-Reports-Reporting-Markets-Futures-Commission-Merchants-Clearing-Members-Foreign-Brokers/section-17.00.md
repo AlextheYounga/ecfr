@@ -34,4 +34,4 @@
 
 (i) *Exclusively self-cleared contracts.* Unless determined otherwise by the Commission, reporting markets that list exclusively self-cleared contracts shall meet the requirements of paragraphs (a) through (h) of this section, as they apply to trading in such contracts by all clearing members, on behalf of all clearing members.
 
-(Approved by the Office of Management and Budget under control number 3038-0009)[41 FR 3207, Jan. 21, 1976]Editorial Note:For Federal Register citations affecting § 17.00, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Approved by the Office of Management and Budget under control number 3038-0009) [41 FR 3207, Jan. 21, 1976]Editorial Note:For Federal Register citations affecting § 17.00, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

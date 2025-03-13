@@ -2,4 +2,4 @@
 
 Section 24(e) of the Act requires that when a prospectus is revised so that it may be available for use in compliance with section 10(a)(3) of the Securities Act of 1933 for a period extending beyond the time when the previous prospectus would have ceased to be available for such use, such revised prospectus, in order to meet the requirements of section 10 of said Act, must be filed as an amendment to the registration statement under said Act and such amendment must have become effective prior to the use of the revised prospectus. Except as hereinabove provided, section 24(e) of the Act shall not be deemed to govern the times and conditions under which post-effective amendments shall be filed to registration statements under the Securities Act of 1933.
 
-(Sec. 24, 54 Stat. 825, as amended; 15 U.S.C. 80a-24)[20 FR 2856, Apr. 28, 1955, as amended at 62 FR 47938, Sept. 12, 1997]
+(Sec. 24, 54 Stat. 825, as amended; 15 U.S.C. 80a-24) [20 FR 2856, Apr. 28, 1955, as amended at 62 FR 47938, Sept. 12, 1997]

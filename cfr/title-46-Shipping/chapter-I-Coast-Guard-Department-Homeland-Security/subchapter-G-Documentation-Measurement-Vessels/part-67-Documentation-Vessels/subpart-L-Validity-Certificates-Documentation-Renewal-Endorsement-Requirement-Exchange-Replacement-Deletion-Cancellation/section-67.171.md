@@ -1,5 +1,7 @@
 ##### § 67.171 Deletion; requirement and procedure. #####
 
+Link to an amendment published at 89 FR 101500, Dec. 16, 2024.
+
 (a) A Certificate of Documentation together with any endorsement(s) thereon is invalid, except as provided in § 67.161, and the vessel is subject to deletion from the roll of actively documented vessels when:
 
 (1) The vessel is placed under foreign flag;

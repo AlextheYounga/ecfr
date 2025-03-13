@@ -1,5 +1,7 @@
 ##### § 660.131 Pacific whiting fishery management measures. #####
 
+Link to an amendment published at 89 FR 101533, Dec. 16, 2024.
+
 (a) *General.* This section applies to the MS sector, the C/P sector, the Pacific whiting IFQ fishery, and Shorebased IFQ vessels targeting Pacific whiting under trip limits outside the Pacific whiting primary season.
 
 (b) *Pacific whiting primary seasons and Pacific whiting trip limits*—(1) *Pacific whiting fishery primary seasons.* (i) For the Pacific whiting IFQ fishery, the primary season is the period(s) of the large-scale Pacific whiting target fishery conducted after the primary season start date.

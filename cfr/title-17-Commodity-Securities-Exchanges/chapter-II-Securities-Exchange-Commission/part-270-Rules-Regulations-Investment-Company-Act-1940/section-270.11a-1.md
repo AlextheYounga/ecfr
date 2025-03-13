@@ -22,4 +22,4 @@
 
 (d) The provisions of paragraph (a) of this section shall not apply to the repurchase, termination, retirement, or cancellation of a security outstanding on the effective date of this section or issued pursuant to a subscription agreement or other plan of acquisition in effect on such date.
 
-(Sec. 11, 54 Stat. 808; 15 U.S.C. 80a-11)[32 FR 10728, July 21, 1967]
+(Sec. 11, 54 Stat. 808; 15 U.S.C. 80a-11) [32 FR 10728, July 21, 1967]

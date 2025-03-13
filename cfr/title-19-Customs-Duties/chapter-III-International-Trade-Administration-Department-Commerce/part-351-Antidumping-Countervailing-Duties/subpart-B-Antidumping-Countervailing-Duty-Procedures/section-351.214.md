@@ -1,5 +1,7 @@
 ##### § 351.214 New shipper reviews under section 751(a)(2)(B) of the Act. #####
 
+Link to an amendment published at 89 FR 101762, Dec. 16, 2024.
+
 (a) *Introduction.* Section 751(a)(2)(B) of the Act provides a procedure by which so-called “new shippers” can obtain their own individual dumping margin or countervailable subsidy rate on an expedited basis. In general, a new shipper is an exporter or producer that did not export, and is not affiliated with an exporter or producer that did export, to the United States during the period of investigation. Furthermore, section 751(a)(2)(B)(iv) requires that the Secretary make a determination of whether the sales under review are bona fide. This section contains rules regarding requests for new shipper reviews and procedures for conducting such reviews, as well as requirements for determining whether sales are bona fide under section 751(a)(2)(B)(iv) of the Act. In addition, this section contains rules regarding requests for expedited reviews by non-investigated exporters in certain countervailing duty proceedings and procedures for conducting such reviews.
 
 (b) *Request for new shipper review*—(1) *Requirement of sale or export.* Subject to the requirements of section 751(a)(2)(B) of the Act and this section, an exporter or producer may request a new shipper review if it has exported, or sold for export, subject merchandise to the United States and can demonstrate the existence of a bona fide sale.

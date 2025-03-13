@@ -1,5 +1,7 @@
 ##### § 1400.2 Definitions. #####
 
+Link to an amendment published at 89 FR 101467, Dec. 16, 2024.
+
 For the purpose of this part:
 
 (a) Minority business enterprise means a business which is owned or controlled by one or more socially or economically disadvantaged persons.

@@ -1,5 +1,7 @@
 ##### § 660.332 Open access daily trip limit (DTL) fishery for sablefish. #####
 
+Link to an amendment published at 89 FR 101538, Dec. 16, 2024.
+
 (a) *Open access DTL fisheries both north and south of 36° N. lat.* Open access vessels may fish in the open access, daily trip limit fishery for as long as that fishery is open during the year, subject to the routine management measures imposed under § 660.60.
 
 (b) *Trip limits.* (1) Daily and/or weekly trip limits for the open access fishery north and south of 36° N. lat. are provided in Tables 3 (North) and 3 (South) of this subpart.

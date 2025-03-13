@@ -8,4 +8,4 @@ It shall be unlawful for any person:
 
 (c) In or in connection with an offer to enter into, the entry into, the confirmation of the execution of, or the maintenance of any leverage contract, expressly or impliedly to represent that compliance with the provisions of the Act and these regulations constitutes a guarantee of the fulfillment of the leverage contract.
 
-(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982))[49 FR 5540, Feb. 13, 1984, as amended at 50 FR 34, Jan. 2, 1985]
+(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982)) [49 FR 5540, Feb. 13, 1984, as amended at 50 FR 34, Jan. 2, 1985]

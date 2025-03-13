@@ -1,5 +1,7 @@
 ##### 36.603 Collecting data on and appraising firms' qualifications. #####
 
+Link to an amendment published at 89 FR 101831, Dec. 16, 2024.
+
 (a) *Establishing offices.* Agencies shall maintain offices or permanent evaluation boards, or arrange to use the offices or boards of other agencies, to receive and maintain data on firms wishing to be considered for Government contracts. Each office or board shall be assigned a jurisdiction by its parent agency, making it responsible for a geographical region or area, or a specialized type of construction.
 
 (b) *Qualifications data.* To be considered for architect-engineer contracts, a firm must file with the appropriate office or board the Standard Form 330, “Architect-Engineer Qualifications,” Part II, and when applicable, SF 330, Part I.

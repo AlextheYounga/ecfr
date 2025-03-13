@@ -1,5 +1,7 @@
 ##### 52.225-18 Place of Manufacture. #####
 
+Link to an amendment published at 89 FR 101832, Dec. 16, 2024.
+
 As prescribed in 25.1101(f), insert the following solicitation provision:
 
 Place of Manufacture (AUG 2018)

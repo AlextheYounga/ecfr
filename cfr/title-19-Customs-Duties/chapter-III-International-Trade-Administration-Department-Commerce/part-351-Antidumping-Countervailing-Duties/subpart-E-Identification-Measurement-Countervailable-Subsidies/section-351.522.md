@@ -1,5 +1,7 @@
 ##### § 351.522 Green light and green box subsidies. #####
 
+Link to an amendment published at 89 FR 101767, Dec. 16, 2024.
+
 (a) *Certain agricultural subsidies.* The Secretary will treat as non-countervailable domestic support measures that are provided to certain agricultural products (*i.e.,* products listed in Annex 1 of the WTO Agreement on Agriculture) and that the Secretary determines conform to the criteria of Annex 2 of the WTO Agreement on Agriculture. *See* section 771(5B)(F) of the Act. The Secretary will determine that a particular domestic support measure conforms fully to the provisions of Annex 2 if the Secretary finds that the measure:
 
 (1) Is provided through a publicly-funded government program (including government revenue foregone) not involving transfers from consumers;

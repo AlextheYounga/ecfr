@@ -1,4 +1,4 @@
-##### § 210.12-27 Qualified assets on deposit.1 #####
+##### § 210.12-27 Qualified assets on deposit. 1 #####
 
 |                                            Column A—Name of depositary <sup>2</sup>                                             |Column B—Cash|Column C—Investments in securities|Column D—First mortgages and other first liens on real estate|Column E—Other|Column F—Total <sup>3</sup>|
 |---------------------------------------------------------------------------------------------------------------------------------|-------------|----------------------------------|-------------------------------------------------------------|--------------|---------------------------|

@@ -1,5 +1,7 @@
 ##### 52.204-2 Security Requirements. #####
 
+Link to an amendment published at 89 FR 101831, Dec. 16, 2024.
+
 As prescribed in 4.404(a), insert the following clauses:
 
 Security Requirements (MAR 2021)

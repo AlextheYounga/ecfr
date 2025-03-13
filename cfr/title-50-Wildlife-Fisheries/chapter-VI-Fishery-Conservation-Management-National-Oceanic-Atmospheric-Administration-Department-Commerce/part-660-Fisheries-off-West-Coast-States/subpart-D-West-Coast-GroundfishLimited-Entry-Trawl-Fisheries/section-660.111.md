@@ -1,5 +1,7 @@
 ##### § 660.111 Trawl fishery—definitions. #####
 
+Link to an amendment published at 89 FR 101532, Dec. 16, 2024.
+
 These definitions are specific to the limited entry trawl fisheries covered in this subpart. General groundfish definitions are found at § 660.11.
 
 *Accumulation limits* mean the maximum extent of permissible ownership, control or use of a privilege within the trawl rationalization program, and include the following:

@@ -6,28 +6,26 @@
 
 (b) Regional Directors of the Commission.
 
-Atlanta Regional Office: Alabama, Georgia, North Carolina, South Carolina, and Tennessee—Regional Director, 3475 Lenox Road, NE., Suite 1000, Atlanta, GA 30326-1232.
+Atlanta Regional Office: Alabama, Georgia, North Carolina, South Carolina, and Tennessee—Regional Director, 950 East Paces Ferry Rd. NE, Suite 900, Atlanta, GA 30326-1382.
 
-Boston Regional Office: Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont—Regional Director, 33 Arch Street, 23rd Floor, Boston, MA 02110-1424.
+Boston Regional Office: Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont—Regional Director, 33 Arch Street, 24th Floor, Boston, MA 02110-1424.
 
-Chicago Regional Office: Kentucky, Illinois, Indiana, Iowa, Michigan, Minnesota, Missouri, Ohio, and Wisconsin—Regional Director, 175 West Jackson Boulevard, Suite 900, Chicago, IL 60604-2908.
+Chicago Regional Office: Kentucky, Illinois, Indiana, Iowa, Michigan, Minnesota, Missouri, Ohio, and Wisconsin—Regional Director, 175 West Jackson Boulevard, Suite 1450, Chicago, IL 60604-2511.
 
-Denver Regional Office: Colorado, Kansas, Nebraska, New Mexico, North Dakota, South Dakota, and Wyoming—Regional Director, 1801 California Street, Suite 1500, Denver, CO 80202-2656.
+Denver Regional Office: Colorado, Kansas, Nebraska, New Mexico, North Dakota, South Dakota, Utah, and Wyoming—Regional Director, 1961 Stout Street, Suite 1700, Denver, CO 80294-1961.
 
-Fort Worth Regional Office: Arkansas, Kansas (for certain purposes), Oklahoma, and Texas—Regional Director, Burnett Plaza, Suite 1900, 801 Cherry Street, Unit #18, Fort Worth, TX 76102-6882.
+Fort Worth Regional Office: Arkansas, Kansas (for certain purposes), Oklahoma, and Texas—Regional Director, Burnett Plaza, Suite 1900, 801 Cherry Street, Unit #18, Fort Worth, TX 76102-6819.
 
-Los Angeles Regional Office: Arizona, Southern California (zip codes 93599 and below, except 93200-93299), Guam, Hawaii, and Nevada—Regional Director, 5670 Wilshire Boulevard, 11th Floor, Los Angeles, CA 90036-3648.
+Los Angeles Regional Office: Arizona, Southern California (zip codes 93599 and below, except 93200-93299), Guam, Hawaii, and Nevada—Regional Director, 444 South Flower Street, Suite 900, Los Angeles, CA 90071-2939.
 
-Miami Regional Office: Florida, Louisiana, Mississippi, Puerto Rico, and the Virgin Islands—Regional Director, 801 Brickell Avenue, Suite 1800, Miami, FL 33131-4901.
+Miami Regional Office: Florida, Louisiana, Mississippi, Puerto Rico, and the Virgin Islands—Regional Director, 801 Brickell Avenue, Suite 1950, Miami, FL 33131-4901.
 
-New York Regional Office: New York and New Jersey—Regional Director, 3 World Financial Center, Suite 400, New York, NY 10281-1022.
+New York Regional Office: New York and New Jersey—Regional Director, 100 Pearl Street, Suite 20-100, New York, NY 10004-2616.
 
-Philadelphia Regional Office: Delaware, District of Columbia, Maryland, Pennsylvania, Virginia, and West Virginia—Regional Director, 701 Market Street, Suite 2000, Philadelphia, PA 19106-1532.
+Philadelphia Regional Office: Delaware, District of Columbia, Maryland, Pennsylvania, Virginia, and West Virginia—Regional Director, 1617 John F. Kennedy Boulevard, Suite 520, Philadelphia, PA 19103-1805.
 
-Salt Lake City Regional Office: Utah—Regional Director, 15 W. South Temple Street, Suite 1800, Salt Lake City, UT 84101-1573.
-
-San Francisco Regional Office: Alaska, Northern California (zip codes 93600 and up, plus 93200-93299), Idaho, Montana, Oregon, and Washington—Regional Director, 44 Montgomery Street, Suite 2600, San Francisco, CA 94104-4716.
+San Francisco Regional Office: Alaska, Northern California (zip codes 93600 and up, plus 93200-93299), Idaho, Montana, Oregon, and Washington—Regional Director, 44 Montgomery Street, Suite 700, San Francisco, CA 94104-4619.
 
 (c) The geographic allocation set forth in paragraph (b) of this section determines where registered brokers, dealers, transfer agents, clearing agents, registered securities associations, investment advisers, and others as designated in this chapter must file reports required to be filed in regional offices.
 
-[73 FR 32223, June 5, 2008, as amended at 86 FR 9441, Feb. 16, 2021]
+[73 FR 32223, June 5, 2008, as amended at 86 FR 9441, Feb. 16, 2021; 89 FR 101468, Dec. 16, 2024]

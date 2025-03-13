@@ -20,4 +20,4 @@
 
 (d) Any national securities exchange may apply for an exemption from the provisions of this section in compliance with the provisions of section 11(c) of the Act.
 
-(Sec. 11, 48 Stat. 891, 892; 15 U.S.C. 78k)[29 FR 15863, Nov. 26, 1964, as amended at 46 FR 15135, Mar. 4, 1981]
+(Sec. 11, 48 Stat. 891, 892; 15 U.S.C. 78k) [29 FR 15863, Nov. 26, 1964, as amended at 46 FR 15135, Mar. 4, 1981]

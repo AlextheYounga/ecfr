@@ -1,5 +1,7 @@
 ##### § 351.204 Time periods and persons examined; voluntary respondents; exclusions. #####
 
+Link to an amendment published at 89 FR 101762, Dec. 16, 2024.
+
 (a) *Introduction.* Because the Act does not specify the precise period of time that the Secretary should examine in an antidumping or countervailing duty investigation, this section sets forth rules regarding the period of investigation (“POI”). In addition, this section includes rules regarding the selection of persons to be examined, the treatment of voluntary respondents that are not selected for individual examination, and the exclusion of persons that the Secretary ultimately finds are not dumping or are not receiving countervailable subsidies.
 
 (b) *Period of investigation*—(1) *Antidumping investigation.* In an antidumping investigation, the Secretary normally will examine merchandise sold during the four most recently completed fiscal quarters (or, in an investigation involving merchandise imported from a nonmarket economy country, the two most recently completed fiscal quarters) as of the month preceding the month in which the petition was filed or in which the Secretary self-initiated an investigation. However, the Secretary may examine merchandise sold during any additional or alternate period that the Secretary concludes is appropriate.

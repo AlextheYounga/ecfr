@@ -14,4 +14,4 @@
 
 (c) Upon making the election described in paragraph (a) of this section, an investment company shall be exempt from the requirements of section 18(f)(1) (of the Act) to the extent necessary for such company to effectuate redemptions in the manner set forth in such paragraph.
 
-(Secs. 7, 10, and 19 of the Securities Act of 1933 (15 U.S.C. 77g, 77j, and 77s) and secs. 8, 30 and 38 of the Investment Company Act of 1940 (15 U.S.C. 80a-8, 80a-29 and 80a-37))[36 FR 11919, June 23, 1971, as amended at 48 FR 37940, Aug. 22, 1983]
+(Secs. 7, 10, and 19 of the Securities Act of 1933 (15 U.S.C. 77g, 77j, and 77s) and secs. 8, 30 and 38 of the Investment Company Act of 1940 (15 U.S.C. 80a-8, 80a-29 and 80a-37)) [36 FR 11919, June 23, 1971, as amended at 48 FR 37940, Aug. 22, 1983]

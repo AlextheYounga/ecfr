@@ -1,5 +1,7 @@
 ##### § 67.167 Requirement for exchange of Certificate of Documentation. #####
 
+Link to an amendment published at 89 FR 101499, Dec. 16, 2024.
+
 (a) When application for exchange of the Certificate of Documentation is required upon the occurrence of one or more of the events described in paragraphs (b), (c), or (d) of this section, or the owner of the vessel chooses to apply for exchange of the Certificate pursuant to paragraph (e) of this section, the owner must send or deliver the Certificate to the National Vessel Documentation Center, and apply for an exchange of the Certificate in accordance with subpart K of this part.
 
 (b) A Certificate of Documentation together with any endorsement(s) thereon becomes invalid immediately, except as provided in § 67.161, when:

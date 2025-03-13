@@ -10,4 +10,4 @@ The Commission may, after notice and opportunity for a hearing on the record, su
 
 (d) Option trading on the contract market in that contract is contrary to the protection of option customers or the underlying futures or cash markets, or is otherwise contrary to the public interest: *Provided,* That pending completion of any proceeding under this section, the Commission may suspend such designation for the duration of the proceedings, if in the Commission's judgment, the continuation of such trading presents a substantial risk to the public interest.
 
-(Approved by the Office of Management and Budget under control number 3038-0007)[46 FR 54529, Nov. 3, 1981, as amended at 46 FR 63036, Dec. 30, 1981; 47 FR 57018, Dec. 22, 1982]
+(Approved by the Office of Management and Budget under control number 3038-0007) [46 FR 54529, Nov. 3, 1981, as amended at 46 FR 63036, Dec. 30, 1981; 47 FR 57018, Dec. 22, 1982]

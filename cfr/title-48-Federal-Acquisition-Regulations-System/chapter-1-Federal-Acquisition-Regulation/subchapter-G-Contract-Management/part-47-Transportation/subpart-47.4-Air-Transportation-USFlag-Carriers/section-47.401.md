@@ -1,5 +1,7 @@
 ##### 47.401 Definitions. #####
 
+Link to an amendment published at 89 FR 101827, Dec. 16, 2024.
+
 As used in this subpart—
 
 *Air freight forwarder* means an indirect air carrier that is responsible for the transportation of property from the point of receipt to the point of destination, and utilizes for the whole or any part of such transportation the services of a direct air carrier or its agent, or of another air freight forwarder.

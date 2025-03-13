@@ -1,5 +1,7 @@
 ##### § 67.141 Application procedure; all cases. #####
 
+Link to an amendment published at 89 FR 101499, Dec. 16, 2024.
+
 The owner of a vessel applying for an initial Certificate of Documentation, exchange or replacement of a Certificate of Documentation, or return of a vessel to documentation after deletion from documentation must:
 
 (a) Submit the following to the National Vessel Documentation Center:

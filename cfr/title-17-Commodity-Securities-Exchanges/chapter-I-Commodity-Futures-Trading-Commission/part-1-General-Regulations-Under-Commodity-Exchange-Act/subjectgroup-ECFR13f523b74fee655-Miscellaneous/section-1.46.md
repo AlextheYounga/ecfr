@@ -44,4 +44,4 @@
 
 (e) The statements required by paragraph (a) of this section may be furnished to the customer or the person described in § 1.33(d) by means of electronic transmission, in accordance with § 1.33(g).
 
-(Approved by the Office of Management and Budget under control number 3038-0007)(Secs. 4g, 5, 42 Stat. 1000, 49 Stat. 1496; 7 U.S.C. 6g, 7; secs. 4g, 5, 8a; 7 U.S.C. 6g, 7, 12a)[41 FR 3194, Jan. 21, 1976]Editorial Note:For Federal Register citations affecting § 1.46, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Approved by the Office of Management and Budget under control number 3038-0007)(Secs. 4g, 5, 42 Stat. 1000, 49 Stat. 1496; 7 U.S.C. 6g, 7; secs. 4g, 5, 8a; 7 U.S.C. 6g, 7, 12a) [41 FR 3194, Jan. 21, 1976]Editorial Note:For Federal Register citations affecting § 1.46, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

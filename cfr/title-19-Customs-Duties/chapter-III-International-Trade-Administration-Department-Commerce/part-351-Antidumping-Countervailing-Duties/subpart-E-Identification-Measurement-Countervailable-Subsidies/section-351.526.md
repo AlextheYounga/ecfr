@@ -1,5 +1,7 @@
 ##### § 351.526 Program-wide changes. #####
 
+Link to an amendment published at 89 FR 101768, Dec. 16, 2024.
+
 (a) *In general.* The Secretary may take a program-wide change into account in establishing the estimated countervailing duty cash deposit rate if:
 
 (1) The Secretary determines that subsequent to the period of investigation or review, but before a preliminary determination in an investigation (*see* § 351.205) or a preliminary result of an administrative review or a new shipper review (*see* §§ 351.213 and 351.214), a program-wide change has occurred; and

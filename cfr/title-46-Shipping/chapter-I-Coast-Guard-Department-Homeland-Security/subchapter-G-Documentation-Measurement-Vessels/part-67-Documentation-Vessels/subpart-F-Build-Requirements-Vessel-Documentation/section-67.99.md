@@ -1,5 +1,7 @@
 ##### § 67.99 Evidence of build. #####
 
+Link to an amendment published at 89 FR 101499, Dec. 16, 2024.
+
 (a) Evidence of the facts of build may be either a completed original form CG-1261, or other original document containing the same information, executed by a person having personal knowledge of the facts of build because that person:
 
 (1) Constructed the vessel;

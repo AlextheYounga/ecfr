@@ -1,5 +1,7 @@
 ##### § 170.502 Definitions. #####
 
+Link to an amendment published at 89 FR 101809, Dec. 16, 2024.
+
 For the purposes of this subpart:
 
 *Applicant* means a single organization or a consortium of organizations that seeks to become an ONC-ACB or ONC-ATL by submitting an application to the National Coordinator for such status.

@@ -1,5 +1,7 @@
 ##### § 170.315 ONC certification criteria for Health IT. #####
 
+Link to an amendment published at 89 FR 101809, Dec. 16, 2024.
+
 The Secretary adopts the following certification criteria for health IT. Health IT must be able to electronically perform the following capabilities in accordance with applicable standards and implementation specifications adopted in this part. For all criteria in this section, a health IT developer with a Health IT Module certified to any revised certification criterion, as defined in § 170.102, shall update the Health IT Module and shall provide such update to their customers in accordance with the dates identified for each revised certification criterion and for each applicable standard in 45 CFR part 170 subpart B.
 
 (a) *Clinical*—(1) *Computerized provider order entry—medications.* (i) Enable a user to record, change, and access medication orders.

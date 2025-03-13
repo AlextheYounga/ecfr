@@ -1,5 +1,7 @@
 ##### 47.101 Policies. #####
 
+Link to an amendment published at 89 FR 101826, Dec. 16, 2024.
+
 (a) For domestic shipments, the contracting officer shall authorize shipments on commercial bills of lading (CBL's). Government bills of lading (GBL's) may be used for international or noncontiguous domestic trade shipments or when otherwise authorized.
 
 (b) The contract administration office (CAO) shall ensure that instructions to contractors result in the most efficient and economical use of transportation services and equipment. Transportation personnel will assist and provide transportation management expertise to the CAO. Specific responsibilities and details on transportation management are located in the Federal Management Regulation at 41 CFR parts 102-117 and 102-118. (For the Department of Defense, DoD 4500.9-R, Defense Transportation Regulation.)
