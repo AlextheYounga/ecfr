@@ -1,7 +1,5 @@
 ##### § 5001.519 Bankruptcy. #####
 
-Link to an amendment published at 89 FR 79728, Sept. 30, 2024.
-
 (a) *Lender's responsibilities.* The lender is responsible for protecting the guaranteed loan and the collateral securing it in bankruptcy and any related appellate proceedings. These responsibilities include, but are not limited to, the following:
 
 (1) Taking actions that result in greater recoveries and avoiding actions that are likely not to be cost-effective;
@@ -38,7 +36,7 @@ Link to an amendment published at 89 FR 79728, Sept. 30, 2024.
 
 (B) Provide the Agency with the documentation necessary to determine whether the estimated loss paid equals the actual loss sustained. Where the actual loss sustained is different than the estimated loss paid, the difference will be handled in accordance with § 5001.521(h).
 
-(2) *Bankruptcy loss payments.* (i) The lender must request a bankruptcy loss payment of the guaranteed portion of the accrued interest and principal discharged by the court for all bankruptcies when all or a portion of the debt has been discharged. Unless a final court decree approves a subsequent change to the bankruptcy plan that is adverse to the lender, only one bankruptcy loss payment is allowed during the bankruptcy. Once a final court decree has discharged all or part of the guaranteed loan and any appeal period has run, the lender must submit the documentation necessary for the Agency to review and adjust the bankruptcy loss claim to reflect any actual discharge of principal and Interest.
+(2) *Bankruptcy loss payments.* (i) The lender must request a bankruptcy loss payment of the guaranteed portion of the accrued interest and principal discharged by the court for all bankruptcies when all or a portion of the debt has been discharged. Unless a final court decree approves a subsequent change to the bankruptcy plan that is adverse to the lender, only one bankruptcy loss payment is allowed during the bankruptcy. Once a final court decree has discharged all or part of the guaranteed loan and any appeal period has run, the lender must submit the documentation necessary for the Agency to review and adjust the bankruptcy loss claim to reflect any actual discharge of principal and interest.
 
 (ii) The lender must use the report of loss to request a bankruptcy loss payment and to revise any bankruptcy loss payments during the course of the bankruptcy. The lender must include with the bankruptcy loss claim documentation to support the claim, as well as any revisions to this claim.
 
@@ -75,3 +73,5 @@ Link to an amendment published at 89 FR 79728, Sept. 30, 2024.
 (5) Proceeds received from partial sale of collateral during bankruptcy can be used by the lender to pay reasonable costs (*e.g.,* freight, labor, and sales commissions) associated with the partial sale. Reasonable use of proceeds for this purpose must be documented with the final loss claim request.
 
 (6) Legal fees as a result of a bankruptcy are limited by the Agency to an amount not to exceed 3 percent of the current principal balance and are only recoverable from liquidation proceeds. Legal fees in excess of 3 percent of the current principal balance shall be borne by the lender and are not recoverable from liquidation proceeds or any loss claim by the lender.
+
+[85 FR 42518, July 14, 2020, as amended at 89 FR 79728, Sept. 30, 2024]

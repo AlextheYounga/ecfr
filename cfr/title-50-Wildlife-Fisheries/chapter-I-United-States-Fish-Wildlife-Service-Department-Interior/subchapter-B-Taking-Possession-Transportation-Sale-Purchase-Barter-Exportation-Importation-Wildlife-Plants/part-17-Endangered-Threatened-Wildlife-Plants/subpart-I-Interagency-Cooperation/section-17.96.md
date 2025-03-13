@@ -1,6 +1,6 @@
 ##### § 17.96 Critical habitat—plants. #####
 
-Link to an amendment published at 88 FR 57210, Aug. 22, 2023.Link to an amendment published at 88 FR 69095, Oct. 5, 2023.Link to an amendment published at 89 FR 86695, Oct. 30, 2024.
+Link to an amendment published at 88 FR 57210, Aug. 22, 2023.Link to an amendment published at 88 FR 69095, Oct. 5, 2023.
 
 (a) *Flowering plants.*
 
@@ -4368,7 +4368,175 @@ Map provided is for informational purposes only. Map follows:
 
 (ii) Map of Unit 1 and Unit 2, Sycamore Canyon and West Sycamore Canyon, follows:
 
-![](/graphics/er06mr12.001.gif)Family Liliaceae: *Chlorogalum purpureum* (purple amole)
+![](/graphics/er06mr12.001.gif)Family Lamiaceae: *Scutellaria ocmulgee* (Ocmulgee skullcap)
+
+(1) Critical habitat units are depicted for Bibb, Bleckley, Burke, Columbia, Houston, Monroe, Pulaski, Richmond, Screven, and Twiggs Counties in Georgia, and Aiken and Edgefield Counties in South Carolina, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Ocmulgee skullcap consist of the following components:
+
+(i) River bluffs with steep and/or shallow soils that are subject to localized disturbances that limit the accumulation of leaf litter and competition within the Upper Gulf Coastal Plain and Piedmont of Georgia.
+
+(ii) Well-drained soils that are buffered or circumneutral (pH between 6.5 and 7.5) generally within regions underlain or otherwise influenced by limestone or marl.
+
+(iii) A mature, mixed-level canopy with spatial heterogeneity, providing mottled shade and often including with a rich diversity of grasses and forbs characterizing the herbaceous layer.
+
+(iv) Intact forested habitat that is ecologically functional (*i.e.,* with mature canopy and discrete disturbances) and buffered by surrounding habitat to impede the invasion of competitors.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on November 29, 2024.
+
+(4) Data layers defining map units were created using ArcMap version 10.6 (Environmental Systems Research Institute, Inc.), a geographic information systems program on a base of USA Topo Maps. Critical habitat units were then mapped using North American Datum (NAD) 1983, Universal Transverse Mercator (UTM) Zone 17N coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/office/georgia-ecological-services/library,* at *https://www.regulations.gov* at Docket No. FWS-R4-ES-2021-0059, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map follows:
+
+Figure 1 to *Scutellaria ocmulgee* (Ocmulgee skullcap) paragraph (5)![](/graphics/er30oc24.000.gif)
+
+(6) Unit 1: Columbia/Richmond; Columbia and Richmond Counties, Georgia, and Aiken and Edgefield Counties, South Carolina.
+
+(i) Unit 1 includes four subunits:
+
+(A) Subunit 1a consists of 106 acres (ac) (43 hectares (ha)) in Columbia County, Georgia. The lands in this subunit are owned and managed by Richmond County (28 ac (11.3 ha)) and privately owned (78 ac (31.7 ha)).
+
+(B) Subunit 1b consists of 117 ac (47 ha) in Richmond County, Georgia. The lands in this subunit are privately owned.
+
+(C) Subunit 1c consists of 334 ac (135 ha) in Aiken and Edgefield Counties, South Carolina. The lands in this subunit are privately owned.
+
+(D) Subunit 1d consists of 84 ac (34 ha) in Aiken County, South Carolina. The lands in this subunit are owned and managed by the State of South Carolina and include the Savannah River Bluffs Heritage Preserve.
+
+(ii) Map of Unit 1 follows:
+
+Figure 2 to *Scutellaria ocmulgee* (Ocmulgee skullcap) paragraph (6)(ii)![](/graphics/er30oc24.001.gif)
+
+(7) Unit 2: Barney Bluff; Richmond County, Georgia.
+
+(i) Unit 2 consists of 415 ac (168 ha) in Richmond County, Georgia, and is composed of lands in private ownership.
+
+(ii) Map of Unit 2 follows:
+
+Figure 3 to *Scutellaria ocmulgee* (Ocmulgee skullcap) paragraph (7)(ii)![](/graphics/er30oc24.002.gif)
+
+(8) Unit 3: Burke North; Burke County, Georgia.
+
+(i) Unit 3 consists of 526 ac (213 ha) in Burke County, Georgia, and is composed of lands in private ownership.
+
+(ii) Map of Unit 3 follows:
+
+Figure 4 to *Scutellaria ocmulgee* (Ocmulgee skullcap) paragraph (8)(ii)![](/graphics/er30oc24.003.gif)
+
+(9) Unit 4: Burke South; Burke County, Georgia.
+
+(i) Unit 4 consists of 976 ac (395 ha) in Burke County, Georgia, and is composed of lands in State (199 ac (80 ha)) and private (777 ac (314 ha)) ownership.
+
+(ii) Map of Unit 4 follows:
+
+Figure 5 to *Scutellaria ocmulgee* (Ocmulgee skullcap) paragraph (9)(ii)![](/graphics/er30oc24.004.gif)
+
+(10) Unit 5: Prescott Lakes; Screven County, Georgia.
+
+(i) Unit 5 consists of 81 ac (33 ha) in Screven County, Georgia, and is composed of lands in private ownership.
+
+(ii) Map of Unit 5 follows:
+
+Figure 6 to *Scutellaria ocmulgee* (Ocmulgee skullcap) paragraph (10)(ii)![](/graphics/er30oc24.005.gif)
+
+(11) Unit 6: Bolingbroke Rest Area; Monroe County, Georgia.
+
+(i) Unit 6 consists of 338 ac (137 ha) in Monroe County, Georgia, and is composed of lands in private ownership.
+
+(ii) Map of Unit 6 follows:
+
+Figure 7 to *Scutellaria ocmulgee* (Ocmulgee skullcap) paragraph (11)(ii)![](/graphics/er30oc24.006.gif)
+
+(12) Unit 7: River North Bluff; Bibb County, Georgia.
+
+(i) Unit 7 consists of 115 ac (46 ha) in Bibb County, Georgia, and is composed of lands in State (10 ac (4 ha)) and private (105 ac (42 ha)) ownership.
+
+(ii) Map of Unit 7 follows:
+
+Figure 8 to *Scutellaria ocmulgee* (Ocmulgee skullcap) paragraph (12)(ii)![](/graphics/er30oc24.007.gif)
+
+(13) Unit 8: Savage Branch; Bibb County, Georgia.
+
+(i) Unit 8 consists of 115 ac (46 ha) in Bibb County, Georgia, and is composed of lands in private ownership.
+
+(ii) Map of Unit 8 follows:
+
+Figure 9 to *Scutellaria ocmulgee* (Ocmulgee skullcap) paragraph (13)(ii)![](/graphics/er30oc24.008.gif)
+
+(14) Unit 9: Adjoins Robins Air Force Base; Houston County, Georgia.
+
+(i) Unit 9 consists of 231 ac (93 ha) in Houston County, Georgia, and is composed of lands in private ownership.
+
+(ii) Map of Unit 9 follows:
+
+Figure 10 to *Scutellaria ocmulgee* (Ocmulgee skullcap) paragraph (14)(ii)![](/graphics/er30oc24.009.gif)
+
+(15) Unit 10: Trib Richland Creek; Twiggs County, Georgia.
+
+(i) Unit 10 consists of 340 ac (138 ha) in Twiggs County, Georgia, and is composed of lands in State (242 ac (98 ha)) and private (98 ac (40 ha)) ownership.
+
+(ii) Map of Unit 10 follows:
+
+Figure 11 to *Scutellaria ocmulgee* (Ocmulgee skullcap) paragraph (15)(ii)![](/graphics/er30oc24.010.gif)
+
+(16) Unit 11: Oaky Woods North; Houston County, Georgia.
+
+(i) Unit 11 consists of 657 ac (266 ha) in Houston County, Georgia, and is composed of lands in State (228 ac (92 ha)) and private (429 ac (174 ha)) ownership.
+
+(ii) Map of Unit 11 follows:
+
+Figure 12 to *Scutellaria ocmulgee* (Ocmulgee skullcap) paragraph (16)(ii)![](/graphics/er30oc24.011.gif)
+
+(17) Unit 12: Crooked Creek; Twiggs County, Georgia.
+
+(i) Unit 12 consists of 205 ac (83 ha) in Twiggs County, Georgia, and is composed of lands in State (201 ac (81 ha)) and private (4 ac (1.6 ha)) ownership.
+
+(ii) Map of Unit 12 follows:
+
+Figure 13 to *Scutellaria ocmulgee* (Ocmulgee skullcap) paragraph (17)(ii)![](/graphics/er30oc24.012.gif)
+
+(18) Unit 13: Shellstone Creek; Twiggs County, Georgia.
+
+(i) Unit 13 consists of 160 ac (65 ha) in Twiggs County, Georgia, and is composed of lands in State (15 ac (6 ha)) and private (145 ac (59 ha)) ownership.
+
+(ii) Map of Unit 13 follows:
+
+Figure 14 to *Scutellaria ocmulgee* (Ocmulgee skullcap) paragraph (18)(ii)![](/graphics/er30oc24.013.gif)
+
+(19) Unit 14: Oaky Woods South; Houston County, Georgia.
+
+(i) Unit 14 consists of 363 ac (147 ha) in Houston County, Georgia, and is composed of lands in State (84 ac (34 ha)) and private (279 ac (113 ha)) ownership.
+
+(ii) Map of Units 14 and 15 follows:
+
+Figure 15 to *Scutellaria ocmulgee* (Ocmulgee skullcap) paragraph (19)(ii)![](/graphics/er30oc24.014.gif)
+
+(20) Unit 15: Dry Creek; Houston and Pulaski Counties, Georgia.
+
+(i) Unit 15 consists of 330 ac (133 ha) in Houston and Pulaski Counties, Georgia, and is composed of lands in State (50 ac (20 ha)) and private (280 ac (113 ha)) ownership.
+
+(ii) Map of Unit 15 is provided at paragraph (19)(ii) of this entry.
+
+(21) Unit 16: James Dykes Memorial; Bleckley and Pulaski Counties, Georgia.
+
+(i) Unit 16 consists of 515 ac (208 ha) in Bleckley and Pulaski Counties, Georgia, and is composed of lands in State (497 ac (201 ha)) and private (18 ac (7.3 ha)) ownership.
+
+(ii) Map of Units 16 and 17 follows:
+
+Figure 16 to *Scutellaria ocmulgee* (Ocmulgee skullcap) paragraph (21)(ii)![](/graphics/er30oc24.015.gif)
+
+(22) Unit 17: South Shellstone Creek; Bleckley County, Georgia.
+
+(i) Unit 17 consists of 403 ac (163 ha) in Bleckley County, Georgia, and is composed of lands in State (4 ac (1.6 ha)) and private (399 ac (161 ha)) ownership.
+
+(ii) Map of Unit 17 is provided at paragraph (21)(ii) of this entry.
+
+(23) Unit 18: Jordan Creek; Pulaski County, Georgia.
+
+(i) Unit 18 consists of 250 ac (101 ha) in Pulaski County, Georgia, and is composed of lands in private ownership.
+
+(ii) Map of Unit 18 follows:
+
+Figure 17 to *Scutellaria ocmulgee* (Ocmulgee skullcap) paragraph (23)(ii)![](/graphics/er30oc24.016.gif)Family Liliaceae: *Chlorogalum purpureum* (purple amole)
 
 (1) Critical habitat units are depicted for Monterey and San Luis Obispo counties, California, on the maps below. The maps provided are for informational purposes only.
 

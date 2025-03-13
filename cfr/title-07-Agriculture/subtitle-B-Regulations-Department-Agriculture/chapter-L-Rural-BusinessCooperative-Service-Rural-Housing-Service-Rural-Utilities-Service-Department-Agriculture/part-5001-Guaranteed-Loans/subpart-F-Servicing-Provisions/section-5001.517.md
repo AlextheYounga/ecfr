@@ -1,7 +1,5 @@
 ##### § 5001.517 Liquidation. #####
 
-Link to an amendment published at 89 FR 79728, Sept. 30, 2024.
-
 In the event of one or more incidents of default or third-party actions that the borrower cannot or will not cure or eliminate within a reasonable period of time, the lender, with Agency consent, must provide for liquidation in accordance with paragraphs (a) through (n) of this section. The lender is responsible for initiating actions immediately and as necessary to assure a prompt, orderly liquidation that will provide maximum recovery. The Agency reserves the right to unilaterally conclude that liquidation is necessary and require the lender to assign the collateral to the Agency and the Agency will then liquidate the loan per paragraph (o) of this section.
 
 (a) *Decision to liquidate.* A decision to liquidate a loan or proceed otherwise must be made when the lender determines that the default cannot be cured or when the Agency and the lender determine that it is in the best interest of the Agency and the lender to liquidate. The decision to liquidate or proceed otherwise with the borrower must be made as soon as possible when one or more of the following exist:
@@ -16,9 +14,9 @@ In the event of one or more incidents of default or third-party actions that the
 
 (c) *Lender's liquidation plan.* Within 30 calendar days after the lender decides to liquidate a loan, the lender must submit a written, proposed plan of liquidation to the Agency for approval. The liquidation plan must be detailed and include at least the following information:
 
-(1) Such proof as the Agency requires to establish the lender's ownership of the guaranteed loan promissory note and related security instruments;
+(1) Such proof as the Agency requires to establish the lender's ownership of the guaranteed loan promissory note and related security instruments. Such proof may include copies of executed notes; and copies of mortgages or deeds of trust recorded in the appropriate jurisdiction;
 
-(2) A copy of the payment ledger, if available, or other documentation that reflects the current outstanding loan balance, accrued interest to date, and the method of computing the accrued interest;
+(2) A copy of the payment ledger, if available, or other documentation that reflects the current outstanding loan balance, accrued interest to date, and the method of computing the accrued interest. If the interest rate was a variable rate, the lender must include documentation of changes in the agreed upon base rate and when the changes in the loan rate became effective.
 
 (3) A full and complete list of all collateral and a listing of all liens held and status of such liens, plus any personal and corporate guarantees;
 
@@ -28,7 +26,7 @@ In the event of one or more incidents of default or third-party actions that the
 
 (6) The market value and the potential liquidation value, or estimates thereof, of all the collateral securing the loan.
 
-(i) These values or estimates of the collateral must be obtained by the lender through an independent appraisal. If the outstanding balance of principal and interest is less than $250,000, the lender may, instead of an appraisal, obtain these values or estimates by using their primary regulator's policies relating to appraisals and evaluations or, if the lender is not regulated, normal banking practices and generally accepted methods of determining value.
+(i) These values or estimates of the collateral must be obtained by the lender through an independent appraisal. If the outstanding balance of principal and interest is less than $250,000, the lender may, instead of an appraisal, obtain these values or estimates by using their primary regulator's policies relating to appraisals and evaluations or, if the lender is not regulated, normal banking practices and generally accepted methods of determining value. A copy of the appraisal or valuation will be provided to the Agency with the liquidation plan or as soon as it is available.
 
 (ii) The procedure used to obtain these values or estimates of the collateral must include an evaluation of the impact of any release of hazardous substances, petroleum products, or other environmental hazards.
 
@@ -44,9 +42,9 @@ In the event of one or more incidents of default or third-party actions that the
 
 (9) Copies of each guarantor's latest available financial statements;
 
-(10) An itemized list of estimated liquidation expenses expected to be incurred along with justification for each expense;
+(10) An itemized list of estimated liquidation expenses expected to be incurred along with justification for each expense. These may include attorney, auctioneer, and other professional fees for services the lender will need to contract to maximize recovery on the loan. Cost could also include legal representation to protect Agency/lender joint interest in bankruptcy or receivership;
 
-(11) Estimated protective advance amounts with justification;
+(11) Estimated protective advance amounts with justification. Protective advances include, but are not limited to, advances made for taxes, annual assessments, ground rent, hazard and flood insurance premiums affecting the collateral, and other expenses necessary to protect the collateral. Protective advances may include advances necessary to maintain services or address unique situations with proper justification. If the lender has advanced funds without agency approval during the life of the loan, such expenditures or loans will not be guaranteed;
 
 (12) If a voluntary conveyance is considered, the proposed amount to be credited to the guaranteed debt;
 
@@ -54,13 +52,13 @@ In the event of one or more incidents of default or third-party actions that the
 
 (14) A schedule to periodically report to the Agency on the progress of liquidation, not to exceed every 60 days.
 
-(d) *Partial liquidation plan.* If actions are necessary to immediately preserve and protect the collateral, the lender may submit a partial liquidation plan and, when approved by the Agency, submit a complete liquidation plan prepared by the Lender in accordance with paragraph (c) of this section.
+(d) *Partial liquidation plan.* If actions are necessary to immediately preserve and protect the collateral, the lender may submit a partial liquidation plan and, when approved by the Agency, submit a complete liquidation plan prepared by the lender in accordance with *paragraph (c)* of this section.
 
 (e) *Approval of liquidation plan.* The lender cannot implement its liquidation plan before obtaining written approval from the Agency. The Agency will approve or disapprove the plan within 30 calendar days of its receipt. In order to ensure prompt action, the lender may submit its liquidation plan with an estimate of collateral value, and the Agency may approve the liquidation plan subject to the results of the final liquidation appraisal.
 
 (1) If the Agency approves the lender's liquidation plan, the lender must:
 
-(i) Proceed expeditiously with liquidation;
+(i) Proceed expeditiously with liquidation. The lender must actively market the collateral for a reasonable period of time. If after this period of time the lender is unable to sell the collateral, then consideration should be given to submission of a final loss claim based on the fair market value of the collateral prior to its ultimate disposition;
 
 (ii) Take all legal action necessary to liquidate the loan in accordance with the approved liquidation plan; and
 
@@ -74,7 +72,7 @@ In the event of one or more incidents of default or third-party actions that the
 
 (1) If the sole basis for acceleration is a non-monetary default, the lender must obtain concurrence from the Agency prior to accelerating the loan. In the case of monetary default, the lender may accelerate the loan without prior approval by the Agency, although Agency concurrence must still be given no later than the time the Agency approves the liquidation plan.
 
-(2) The Lender must provide the Agency a copy of the acceleration notice or other acceleration document sent to the borrower.
+(2) The lender must provide the Agency a copy of the acceleration notice, or other acceleration document sent to the borrower.
 
 (g) *Estimated loss claim and payment.* If the lender is conducting the liquidation and owns any or all the guaranteed portion of the loan, the lender must file an estimated loss claim once a decision has been made to liquidate if the liquidation will exceed 90 calendar days. The Agency will process the estimated loss claim and will make final loss payments in accordance with § 5001.521.
 
@@ -105,3 +103,5 @@ In the event of one or more incidents of default or third-party actions that the
 (2) The lender must notify the Agency in writing within 10 calendar days after its decision to liquidate as to which regulatory provisions it chooses to use. If the lender does not notify the Agency in writing within these 10 calendar days, it must use the liquidation provisions in this part.
 
 (o) *Agency liquidation.* The Agency will liquidate a guaranteed loan at its option only when it is a holder and there is reason to believe the lender is not likely to undertake liquidation efforts that will result in maximum recovery. When it conducts a liquidation, the Agency will apply proceeds derived from the sale of the collateral first to reasonable liquidation expenses and second to the guaranteed portion of the loan.
+
+[85 FR 42518, July 14, 2020, as amended at 89 FR 79728, Sept. 30, 2024]

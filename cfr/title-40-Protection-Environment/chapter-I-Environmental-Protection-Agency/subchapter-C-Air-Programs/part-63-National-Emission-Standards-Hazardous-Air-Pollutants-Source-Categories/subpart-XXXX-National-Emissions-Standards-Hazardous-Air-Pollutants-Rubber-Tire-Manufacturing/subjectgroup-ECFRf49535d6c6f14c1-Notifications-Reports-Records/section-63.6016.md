@@ -1,0 +1,41 @@
+##### § 63.6016 What notifications must I submit and when? #####
+
+(a) You must submit all of the notifications in §§ 63.7 (b) and (c), 63.8(f) (4) and (6), and 63.9 (b) through (e) and (h) that apply to you by the dates specified.
+
+(b) As specified in § 63.9(b)(2), if you startup your affected source before July 9, 2002, you must submit an Initial Notification not later than November 6, 2002, or no later than 120 days after the source becomes subject to this subpart, whichever is later.
+
+(c) As specified in § 63.9(b)(3), if you startup your new or reconstructed affected source on or after July 9, 2002, you must submit an Initial Notification not later than 120 calendar days after you become subject to this subpart.
+
+(d) If you are required to conduct a performance test, you must submit a notification of intent to conduct a performance test at least 60 calendar days before the performance test is scheduled to begin as required in § 63.7(b)(1).
+
+(e) If you are required to conduct a performance test, design evaluation, or other initial compliance demonstration as specified in tables 5 through 8 and table 17 to this subpart, you must submit a Notification of Compliance Status according to § 63.9(h)(2)(ii). The Notification must contain the information listed in table 20 to this subpart for compliance reports. The Notification of Compliance Status must be submitted according to the following schedules, as appropriate:
+
+(1) For each initial compliance demonstration required in tables 6 through 8 and table 17 to this subpart that does not include a performance test, you must submit the Notification of Compliance Status before the close of business on the 30th calendar day following the completion of the initial compliance demonstration.
+
+(2) Before January 21, 2021, for each initial compliance demonstration required in tables 6 through 8 and table 17 to this subpart that includes a performance test conducted according to the requirements in table 5 to this subpart, you must submit the Notification of Compliance Status, including the performance test results, before the close of business on the 60th calendar day following the completion of the performance test according to § 63.10(d)(2). After January 20, 2021, for each initial compliance demonstration required in tables 6 through 8 to this subpart that includes a performance test conducted according to the requirements in table 5 to this subpart, you must submit the Notification of Compliance Status, including the performance test results, before the close of business on the 60th calendar day following the completion of the performance test according to §§ 63.10(d)(2) and 63.6017(h)(1) through (3).
+
+(f) For each tire production affected source, the Notification of Compliance Status must also identify the emission limit option in § 63.5984 and the compliance alternative in § 63.5985 that you have chosen to meet.
+
+(g) For each tire production affected source complying with the purchase compliance alternative in § 63.5985(a), the Notification of Compliance Status must also include the information listed in paragraphs (g)(1) and (2) of this section.
+
+(1) A list of each cement and solvent, as purchased, that is used at the affected source and the manufacturer or supplier of each.
+
+(2) The individual HAP content (percent by mass) of each cement and solvent that is used.
+
+(h) For each tire production or tire cord production affected source using a control device, the Notification of Compliance Status must also include the information in paragraphs (h) (1) and (2) of this section for each operating parameter in §§ 63.5994(e)(1) and 63.5997(e)(1) that applies to you.
+
+(1) The operating parameter value averaged over the full period of the performance test (e.g., average secondary chamber firebox temperature over the period of the performance test was 1,500 degrees Fahrenheit).
+
+(2) The operating parameter range within which HAP emissions are reduced to the level corresponding to meeting the applicable emission limits in tables 1 and 2 to this subpart.
+
+(i) For each puncture sealant application affected source using a control device, the Notification of Compliance Status must include the information in paragraphs (i)(1) and (2) of this section for each operating limit in § 63.6000(b)(3) and each operating parameter in § 63.6000(f).
+
+(1) The operating limit or operating parameter value averaged over the full period of the performance test.
+
+(2) The operating limit or operating parameter range within which HAP emissions are reduced to the levels corresponding to meeting the applicable emission limitations in table 3 to this subpart.
+
+(j) For each tire cord production affected source required to assess the predominant use for coating web substrates as required by § 63.5981(b), you must submit a notice of the results of the reassessment within 30 days of completing the reassessment. The notice shall specify whether this subpart XXXX is still the applicable subpart and, if it is not, which part 63 subpart is applicable.
+
+(k) You must submit to the Administrator notification reports of the following recorded information. Beginning on January 21, 2021, or once the reporting form has been available on the Compliance and Emissions Data Reporting Interface (CEDRI) website for 1-year, whichever date is later, you must submit all subsequent notification of compliance status reports required in §§ 63.9(h) and paragraphs (d) through (i) of this section to the EPA via the CEDRI. The CEDRI interface can be accessed through the EPA's Central Data Exchange (CDX) (*https://cdx.epa.gov*). You must use the appropriate electronic report form (*i.e.,* template) on the CEDRI website (*https://www.epa.gov/electronic-reporting-air-emissions/cedri*) for this subpart. The date on which the report form becomes available will be listed on the CEDRI website. If the reporting form for the notification of compliance status report specific to this subpart is not available in CEDRI at the time that the report is due, you must submit the report to the Administrator at the appropriate addresses listed in § 63.13. Once the form has been available in CEDRI for 1 year, you must begin submitting all subsequent notification of compliance status reports via CEDRI. The applicable notification must be submitted by the deadline specified in this subpart, regardless of the method in which the report is submitted. The EPA will make all the information submitted through CEDRI available to the public without further notice to you. Do not use CEDRI to submit information you claim as confidential business information (CBI). Anything submitted using CEDRI cannot later be claimed to be CBI. Although we do not expect persons to assert a claim of CBI, if persons wish to assert a CBI, if you claim that some of the information required to be submitted via CEDRI is CBI, submit a complete report, including information claimed to be CBI, to the EPA. The report must be generated using the appropriate electronic reporting form found on the CEDRI website. Submit the file on a compact disc, flash drive, or other commonly used electronic storage medium and clearly mark the medium as CBI. Mail the electronic medium to U.S. EPA/OAQPS/CORE CBI Office, Attention: Group Leader, Measurement Policy Group, MD C404-02, 4930 Old Page Rd., Durham, NC 27703. The same file with the CBI omitted shall be submitted to the EPA via the EPA's CDX CEDRI as described earlier in this paragraph. All CBI claims must be asserted at the time of submission. Furthermore, under CAA section 114(c) emissions data is not entitled to confidential treatment and requires EPA to make emissions data available to the public. Thus, emissions data will not be protected as CBI and will be made publicly available. Where applicable, you may assert a claim of the EPA system outage, in accordance with § 63.6017(i), or force majeure, in accordance with § 63.6017(j), for failure to timely comply with this requirement.
+
+[67 FR 45598, July 9, 2002, as amended at 85 FR 44762, July 24, 2020; 85 FR 73911, Nov. 19, 2020. Redesignated and amended at 89 FR 94909, 94912, Nov. 29, 2024]

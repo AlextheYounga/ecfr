@@ -1,5 +1,5 @@
 ##### § 5001.131 Lender's agreement. #####
 
-Link to an amendment published at 89 FR 79716, Sept. 30, 2024.
+When approved to participate as a lender under this part, the lender must execute a lender's agreement before the Agency will issue a loan note guarantee. A new lender's agreement must be executed with any existing lender making new loans on or after October 1, 2020. Approval under one program is approval for all programs. The eligibility expiration date for non-regulated lenders will be five years from the date of the original execution of a lender's agreement as specified in § 5001.130(c) and (d). There will be only one lender's agreement issued for each lending entity based on their tax identification number. Lender's agreements will not be issued for individual branches. Subsequent loans do not require a new lender's agreement. A lender who fails to renew its lender's agreement and loses its approved lender status must continue to service any outstanding guaranteed loans in conformance with the lender's agreement last in effect and the applicable regulation under which the lender became an approved lender. Such lenders cannot submit requests for new loan guarantees.
 
-When approved to participate as a lender under this part, the Lender must execute a lender's agreement before the Agency will issue a loan note guarantee. A new lender's agreement must be executed with any existing lender making new loans on or after October 1, 2020.
+[89 FR 79716, Sept. 30, 2024]

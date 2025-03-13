@@ -1,7 +1,5 @@
 ##### § 5001.105 Eligible B&I projects and requirements. #####
 
-Link to an amendment published at 89 FR 79710, Sept. 30, 2024.
-
 For a B&I project to be eligible for a loan guarantee under this part, it must meet the criteria specified in § 5001.102, be for a borrower eligible to submit an application for the project in accordance with § 5001.126, and the uses of loan funds include, but are not limited to, the following:
 
 (a) *Purpose.* The purpose of the project must be to improve, develop, or finance business, industry, and employment and improve the economic and environmental climate in rural communities; the conservation, development, and use of water for aquaculture purposes; and reducing reliance on nonrenewable energy resources through development and construction of solar energy and other renewable energy systems.
@@ -20,31 +18,13 @@ For a B&I project to be eligible for a loan guarantee under this part, it must m
 
 (6) Purchase of membership, stocks, bonds, or debentures necessary to obtain a loan from a member owned lending institution provided the purchase is required for all their borrowers and is the minimum amount required.
 
-(7) Agricultural production, when not eligible for Farm Service Agency (FSA) farm loan programs assistance and when it is part of an integrated business also involved in the processing of agricultural products. Any agricultural production considered for guaranteed loan financing must be owned, operated, and maintained by the business receiving the guaranteed loan.
-
-(i) The agricultural production portion of any loan must not exceed 50 percent of the total loan or $5 million, whichever is less.
-
-(ii) This paragraph does not preclude financing the following types of businesses:
-
-(A) Commercial nurseries engaged in the production of ornamental plants, trees, and other nursery products, such as bulbs, flowers, shrubbery, flower and vegetable seeds, sod, and the growing of plants from seed to the transplant stage;
-
-(B) Forestry, which includes businesses primarily engaged in the operation of timber tracts, tree farms, forest nurseries, harvesting of forest products, and related activities, such as reforestation;
-
-(C) The growing or harvesting of mushrooms;
-
-(D) The growing of hydroponics;
-
-(E) The boarding and/or training of animals;
-
-(F) Commercial fishing; and
-
-(G) Production of algae and aquaculture, including conservation, development, and utilization of water for aquaculture.
+(7) Agricultural production, when not eligible for Farm Service Agency (FSA) farm loan programs assistance and when it is part of an integrated business also involved in the processing of agricultural products. Any agricultural production considered for guaranteed loan financing must be owned, operated, and maintained by the business receiving the guaranteed loan. Examples of potentially eligible agricultural production include but are not limited to an apple orchard in conjunction with a food processing plant; poultry buildings linked to a meat processing operation; or sugar beet production coupled with storage and processing.
 
 (8) Tourist and recreation facilities, including hotels, motels, bed and breakfast establishments, and resort trailer parks and campgrounds operated as a public or private commercial enterprise. Owner-occupied housing, such as bed and breakfasts, hotels and motels are only allowed when the pro rata value of a direct owner's living quarters, based on square footage, is deducted from the use of loan proceeds.
 
 (9) Educational or training facilities including other CF projects when not eligible for financing through Rural Housing Service or Community Facilities programs.
 
-(10) Development and construction of broadband and telecommunication systems, including modification of existing systems, that are not otherwise eligible for funding in the RUS program or if funding is unavailable in the RUS program, subject to the Public Notice Filing requirements of 7 CFR 1738.106(a) and the additional reporting requirements of 7 CFR 1738.107.
+(10) Development and construction of broadband and telecommunication systems, including modification of existing systems, that are not otherwise eligible for funding in the RUS program or if funding is unavailable in the RUS program, subject to the public notice filing requirements of 7 CFR 1738.106(a) and the additional reporting requirements of 7 CFR 1738.107.
 
 (11) Industries undergoing adjustment from terminated Federal agricultural price and income support programs or increased competition from foreign trade.
 
@@ -52,7 +32,7 @@ For a B&I project to be eligible for a loan guarantee under this part, it must m
 
 (13) Financing for mixed-use properties involving both commercial business and residential space is authorized, provided that not less than 50 percent of the business's projected revenue will be generated from business use.
 
-(14) Leasehold improvements when the lease contains no reverter clauses or restrictive clauses that would impair the use or value of the property as security for the loan. The term of the lease must be equal to or greater than the term of the loan, unless otherwise mitigated by the lender and approved by the Agency.
+(14) Leasehold improvements when the lease contains no reverter clauses or restrictive clauses that would impair the use or value of the property as security for the loan. The term of the lease must be equal to or greater than the term of the loan. Leasehold improvements are physical enhancements made to property by or on behalf of the property's lessee. When improvements are made to real property and those improvements are permanently affixed to the property, the title to those improvements automatically transfers to the owner of the property upon termination of the lease.
 
 (15) Projects that process, distribute, aggregate, store, and/or market locally or regionally produced agricultural food products to support community development and farm and ranch income.
 
@@ -64,7 +44,7 @@ For a B&I project to be eligible for a loan guarantee under this part, it must m
 
 (C) A significant amount of the food is locally or regionally produced and sold; and
 
-(D) Includes an appropriate agreement with retail and institutional clients to inform consumers that they are purchasing or consuming locally or regionally produced agricultural food products.
+(D) Includes an appropriate agreement with retail and institutional clients to inform consumers that they are purchasing or consuming locally or regionally produced agricultural food products. The agreement(s) must be in place prior to issuance of the loan note guarantee and stated as part of the lender's certification at loan closing.
 
 (ii) The Agency will give funding priority to projects that provide a benefit to underserved communities in accordance with § 5001.318(d)(5) of this part.
 
@@ -74,9 +54,9 @@ For a B&I project to be eligible for a loan guarantee under this part, it must m
 
 (18) Loans to cooperatives:
 
-(i) Guaranteed loans to eligible cooperative may be made in principal amounts up to $40 million if the project is located in a rural area, the cooperative facility being financed provides for the value-added processing of agricultural commodities, and the total amount of guaranteed loans exceeding $25 million does not exceed 10 percent of the funds available for the fiscal year. Guaranteed loans in excess of $25 million in accordance with this provision may only be approved by the Secretary, whose authority may not be redelegated.
+(i) Guaranteed loans to eligible cooperatives may be made in principal amounts up to $40 million if the project is located in a rural area, the cooperative facility being financed provides for the value-added processing of agricultural commodities, and the total amount of guaranteed loans exceeding $25 million does not exceed 10 percent of the funds available for the fiscal year. Guaranteed loans in excess of $25 million in accordance with this provision may only be approved by the Secretary, whose authority may not be redelegated.
 
-(ii) Guaranteed loans to eligible cooperative may also be made in non-rural Areas provided:
+(ii) Guaranteed loans to eligible cooperatives may also be made in non-rural areas provided:
 
 (A) The primary purpose of the guaranteed loan is for a facility to provide value-added processing for agricultural producers that are located within 80 miles of the facility;
 
@@ -94,7 +74,7 @@ For a B&I project to be eligible for a loan guarantee under this part, it must m
 
 (ii) The bond holder (lender) must purchase all the bonds issued pursuant to the guaranteed and comply with all Agency regulations. There must be a bond purchase agreement between the issuer and the bond holder. The bond purchase agreement must contain similar language to that required in a loan agreement and must not conflict with this part. The bond holder is responsible for all servicing of the guaranteed loan evidenced by the bond, although the bond holder may contract for servicing assistance, including contracting with a trustee who remains under the lender's total control.
 
-(20) Nursing homes and assisted living facilities where constant medical care is provided and available onsite to the residents. Independent living facilities are not eligible in accordance with § 5001.118(a).
+(20) Nursing homes and assisted living facilities where constant medical care is provided and available onsite to the residents. Independent living facilities are not eligible in accordance with § 5001.118(a). Independent living facilities are considered residential property as they have many similarities to a multi-family housing complex, whereas nursing home and assisted living facility tenants rely on those entities to provide needed personal or medical care. Properties consisting of both assisted care facilities and independent senior living may be eligible if the availability of the on-site medical services is an optional service to the independent living residents, or if the predominant residents of the facility require assisted living care.
 
 (21) Development and construction of RES, including modification of existing systems that are commercially available and that are not otherwise eligible under REAP, or if funding is not available in the REAP program.
 
@@ -112,11 +92,11 @@ For a B&I project to be eligible for a loan guarantee under this part, it must m
 
 (vi) Equipment procurement and installation; and
 
-(vii) Operations and maintenance.
+(vii) Operations and maintenance. The demonstration of technical merit is the completion of two operating cycles at its designed production level. “Operating cycle” is the average time between the acquisition of materials or the providing of services and the final cash realization of that acquisition or provision of services.
 
 (c) *Facility location.* The project must be located in a rural area, except for loans to cooperative in accordance with paragraph (b)(18)(ii) of this section and for loans to local foods projects in accordance with paragraph (b)(15)(i) of this section where such projects may also be located in non-rural areas. For an eligible project that located in both rural and non-rural areas, the Agency will guarantee only the amount necessary to finance that portion of the project located in the eligible rural area.
 
-(d) *Capital and equity.* Borrowers are required to have sufficient capital or equity to mitigate the ongoing financial and operational risks of the business. Balance sheet equity will be determined based upon current and projected borrower financial statements. The following capital and equity requirements must be met at the time of lender's closing of the guaranteed loan.
+(d) *Capital and equity.* Borrowers are required to have sufficient capital or equity to mitigate the ongoing financial and operational risks of the business. The capital/equity requirement must be met in the form of either cash or earning assets contributed to the business and reflected on the borrower's balance sheet. Transfers of assets at fair market value between related parties, which are not arm's length transactions, must be in accordance with GAAP and require evidence that the transaction was entered into at market terms. Equity cannot include appraisal surplus or bargain purchase gains. Subordinated debt may be included when the subordinated debt is in exchange for cash injected into the business that remains in the business for the life of the guaranteed loan. The note or other form of evidence must be submitted to the Agency in order for subordinated debt to count towards meeting the balance sheet equity requirement. Balance sheet equity will be determined based upon current and projected borrower financial statements. A balance sheet as of loan closing is required and should reflect the new debt and use of proceeds. If there are multiple borrowers, consolidated financial statements should be presented. The following capital and equity requirements must be met at the time of lender's closing of the guaranteed loan.
 
 (1) Existing businesses must meet one of the following requirements:
 
@@ -124,7 +104,7 @@ For a B&I project to be eligible for a loan guarantee under this part, it must m
 
 (ii) A 10 percent or more of total eligible project costs, borrower investment of equity or other funds into the project including grants or subordinated debt when subject to a standstill agreement for the life of the loan;
 
-(iii) Balance sheet equity includes owner-contributed capital of ten percent or more of total fixed assets (net total fixed assets plus depreciation.)
+(iii) Owner contributed capital, as reflected in the equity section of the balance sheet, that is equal to or greater than 10 percent of net total fixed assets plus depreciation.
 
 (2) New businesses with sales contract(s) with proceeds in an amount adequate to meet debt service and the term of the sales contract(s) are at least equal to the term of the guaranteed loan, and subject to Agency acceptance of the credit worthiness of the counterparty, the borrower must meet one of the following requirements:
 
@@ -160,4 +140,4 @@ For a B&I project to be eligible for a loan guarantee under this part, it must m
 |          Borrowers that are new businesses for a project involving construction and the lender will request the loan note guarantee prior to completion of construction.          |                                           ≥25                                            |                                               ≥25                                                |N/A|
 |                                                                    All other borrowers that are new businesses                                                                    |                                           ≥20                                            |                                               ≥25                                                |N/A|
 
-[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020; 86 FR 70355, Dec. 10, 2021]
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020; 86 FR 70355, Dec. 10, 2021; 89 FR 79710, Sept. 30, 2024]

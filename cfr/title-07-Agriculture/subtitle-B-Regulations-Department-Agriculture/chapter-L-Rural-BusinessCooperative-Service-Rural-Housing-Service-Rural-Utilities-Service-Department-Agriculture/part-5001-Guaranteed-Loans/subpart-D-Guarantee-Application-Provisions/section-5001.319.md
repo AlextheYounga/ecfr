@@ -1,10 +1,8 @@
 ##### § 5001.319 REAP project priority point system. #####
 
-Link to an amendment published at 89 FR 79722, Sept. 30, 2024.
+This section applies to REAP projects seeking a loan guarantee. On a periodic basis, and subject to the availability of funds, the Agency will compete each complete and eligible RES, EEI, and EEE application that is ready to be funded and whose priority score, as determined in this section, meets, or exceeds the minimum priority score. Applications that do not meet the applicable minimum score will be considered as provided in § 5001.315(c)(2). A maximum score of 90 points is possible.
 
-This section applies to REAP projects seeking a loan guarantee. On a periodic basis, the Agency will compete each complete and eligible RES, EEI, and EEE application that is ready to be funded and whose priority score, as determined in this section, meets or exceeds the minimum priority score. Applications that do not meet the applicable minimum score will be considered as provided in § 5001.315(c)(2). A maximum score of 90 points is possible.
-
-(a) *Environmental benefits.* The Agency will award up to 5 points under this criterion based on documentation in the application that the project will have a positive effect on resource conservation, public health, and the environment. If the project will have a positive impact on:
+(a) *Environmental benefits.* The Agency will award up to 5 points under this criterion based on documentation or the applicant's indication in the application that the project will have a positive effect on resource conservation, public health, and the environment. If the project will have a positive impact on:
 
 (1) All three impact areas, 5 points will be awarded;
 
@@ -16,7 +14,7 @@ This section applies to REAP projects seeking a loan guarantee. On a periodic ba
 
 (1) *Quantity of energy generated or saved per RES/EEI loan amount requested, or percent efficiency of EEE project.* The Agency will award up to 10 points under this sub-criterion. Points will be awarded for either the amount of renewable energy generation per dollar of loan amount requested, which includes those projects that are replacing energy usage with a renewable source; or the actual annual average energy savings over the most recent 12, 24, 36, 48, or 60 consecutive months of operation per dollar of guaranteed loan amount requested; or the percent efficiency of the EEE project. The Agency will not award points for more than one category.
 
-(i) *Renewable energy systems.* The quantity of energy generated or replaced per guaranteed loan dollar requested will be determined by dividing the projected total annual energy generated or replaced by the RES or RES retrofit (minus energy for residential use), which will be converted to BTUs, by the guaranteed loan dollars requested. Points will be awarded under this sub-criterion based on the annual amount of energy generated or replaced (minus energy for residential use) per dollar of guaranteed loan amount requested for the RES project. The Agency will award up to 10 points as determined under paragraph (b)(1)(i)(A) and (B) of this section below. If the annual amount of energy generated per dollar of guaranteed loan amount requested calculated under paragraph (b)(1)(ii) of this section is:
+(i) *Renewable energy systems.* The quantity of energy generated or replaced per guaranteed loan dollar requested will be determined by dividing the projected total annual energy generated or replaced by the RES or RES retrofit (minus energy for residential use), which will be converted to BTUs, by the guaranteed loan dollars requested. Applications for retrofitting of a RES that are not projecting to increase the amount of renewable energy that the RES is generating, while still eligible for REAP, will not be awarded points under this criteria. Off-the-grid projects and direct-use projects which are not replacements, will be awarded points based on proposed energy generation. Points will be awarded under this sub-criterion based on the annual amount of energy generated or replaced (minus energy for residential use) per dollar of guaranteed loan amount requested for the RES project. The Agency will award up to 10 points as determined under *paragraph (b)(1)(i)(A)* and *(B)* of this section below. If the annual amount of energy generated per dollar of guaranteed loan amount requested calculated under *paragraph (b)(1)(ii)* of this section is:
 
 (A) 50,000 BTUs or higher average annual energy generated or replaced per dollar of guaranteed loan amount requested or higher, 10 points will be awarded; or
 
@@ -40,9 +38,9 @@ This section applies to REAP projects seeking a loan guarantee. On a periodic ba
 
 (2) *Quantity of energy replaced, generated, or saved, or percentage of energy efficiency.* The Agency will award up to 15 points under this sub-criterion. Points will be awarded based on whether the project is for energy replacement, energy generation, or energy savings, or percentage of energy efficiency; points will not be awarded for more than one category.
 
-(i) *Energy replacement.* The Agency will award points under this sub-criterion for an RES project based on the amount of energy replaced by the project compared to the amount of energy used by the applicable process(es) over a 12-month period. If the estimated energy produced is more than 150 percent of the energy used by the applicable process(es), the project will be scored as an energy generation project under paragraph (b)(2)(ii) of this section.
+(i) *Energy replacement.* The Agency will award points under this sub-criterion for an RES project based on the amount of energy replaced by the project compared to the amount of energy used by the applicable process(es) over a 12-month period. If the estimated energy produced is more than 150 percent of the energy used by the applicable process(es), the project will be scored as an energy generation project under *paragraph (b)(2)(ii)* of this section. When calculating the percentage of energy being replaced and whether it is categorized as a replacement or generation, the entire amount of energy produced by the new system will be used in the calculation, regardless of whether the project is being prorated because it shares a meter with a residence or if it has ineligible project costs.
 
-(A) *Documentation for energy replacement.* For a RES project to qualify as energy replacement, the borrower must provide documentation in its application on prior energy use incurred by the borrower. Proposed energy use, such as that attributed to an expansion, is not considered in the replacement calculation. For a RES project involving new construction and being installed to serve the new facility, the project can be classified as energy replacement only if the borrower can document prior energy use from a facility that is within plus or minus 10 percent of the size of the facility it is replacing. The estimated quantities of energy must be converted to either BTUs, watts, or similar energy equivalents to facilitate scoring.
+(A) *Documentation for energy replacement.* For a RES project to qualify as energy replacement, the borrower must provide documentation in its application on prior energy use incurred by the borrower. Documentation must be shown that the borrower entity incurred the cost of the historical energy to be replaced, in order for the project to qualify as energy replacement. Replacement of existing direct use renewable energy can be considered in the replacement calculation as long as the borrower entity owns the existing RES system. For a project involving a recent acquisition, historical energy costs of the previous owner can be used to document prior energy use. Applicant entities cannot utilize historical energy costs of affiliate businesses to document prior energy use. Proposed energy use, such as that attributed to an expansion, is not considered in the replacement calculation. For a RES project involving new construction and being installed to serve the new facility, the project can be classified as energy replacement only if the borrower can document prior energy use from a facility that is within plus or minus 10 percent of the size of the facility it is replacing. The estimated quantities of energy must be converted to either BTUs, watts, or similar energy equivalents to facilitate scoring.
 
 (B) *Calculation.* Energy replacement is determined by dividing the quantity of renewable energy that the RES project is estimated would have been generated if it were in place over the most recent 12-month period by the quantity of energy actually consumed over the same period by the applicable energy process(es) that is(are) consuming energy.
 
@@ -54,9 +52,9 @@ This section applies to REAP projects seeking a loan guarantee. On a periodic ba
 
 (*3*) Equal to or less than 25 percent, 5 points will be awarded.
 
-(ii) *Energy generation.* If the RES project is intended for production of energy or is a proposed retrofitting of an existing RES which increases the amount of energy generated, the Agency will award 10 points.
+(ii) *Energy generation.* If the RES project is intended for production of energy or is a proposed retrofitting of an existing RES which increases the amount of energy generated, the Agency will award 10 points. Applications for retrofitting of an RES that are not projecting to increase the amount of renewable energy that the RES is generating, while still eligible for REAP, will not be awarded points under this criteria. If the borrower cannot document prior energy use, the project will be scored as an energy generation project, regardless of whether or not there is an agreement in place to sell the power.
 
-(iii) *Energy saved.* The Agency will award up to 15 points under this sub-criterion for an EEI project based on the percentage of estimated energy saved by the installation of the project as determined by the projections in the applicable energy assessment or energy audit. If the estimated energy expected to be saved over the same period used in the energy assessment or energy audit, as applicable, will be—
+(iii) *Energy saved.* The Agency will award up to 15 points under this sub-criterion for an EEI project based on the percentage of estimated energy saved by the installation of the project as determined by the projections in the applicable vendor certification, energy assessment or energy audit. If the estimated energy expected to be saved over the same period used in the energy assessment or energy audit, as applicable, will be—
 
 (A) 50 percent or greater, 15 points will be awarded;
 
@@ -86,7 +84,7 @@ This section applies to REAP projects seeking a loan guarantee. On a periodic ba
 
 (iii) If the percentage of written commitments is 50 percent or less, no points will be awarded.
 
-(d) *Previous grantees or borrowers.* The Agency will award up to 15 points under this criterion based on whether the borrower has received and accepted a REAP grant award under 7 CFR part 4280 or a guaranteed loan commitment under either this part or 7 CFR part 4280.
+(d) *Previous grantees or borrowers.* The Agency will award up to 15 points under this criterion based on whether the borrower has received and accepted a REAP grant award under 7 CFR part 4280 or a guaranteed loan commitment under either this part or 7 CFR part 4280. Received and accepted means REAP grant funds were disbursed and/or a REAP loan note guarantee was issued by the Agency. The determination is based on the fiscal year in which the obligation was made.
 
 (1) If the borrower has never received and accepted a grant award under 7 CFR part 4280 or a guaranteed loan commitment under either this part or 7 CFR part 4280, 15 points will be awarded.
 
@@ -94,11 +92,11 @@ This section applies to REAP projects seeking a loan guarantee. On a periodic ba
 
 (3) If the borrower has received and accepted a grant award under 7 CFR part 4280 or a guaranteed loan commitment under either this part or 7 CFR part 4280 within the previous two Federal fiscal years, no points will be awarded.
 
-(e) *Existing businesses.* A maximum of 5 points will be awarded for an existing agricultural producer business or rural small business that meets the definition of existing business in § 5001.3.
+(e) *Existing businesses.* A maximum of 5 points will be awarded for an existing agricultural producer business or rural small business that meets the definition of existing business in § 5001.3. The business must be in operation for at least one full year, not simply a year since legal business formation.
 
-(f) *Simple payback.* A maximum of 15 points will be awarded for this criterion based on the simple payback of the project as defined in § 5001.3. Points will be awarded for either RES, EEI, or EEE; points will not be awarded for more than one category.
+(f) *Simple payback.* A maximum of 15 points will be awarded for this criterion based on the simple payback of the project as defined in § 5001.3. Points will be awarded for either RES, EEI, or EEE; points will not be awarded for more than one category. See definition of simple payback for calculations. Simple payback calculations will be calculated based only on the documented information provided with the application.
 
-(1) *Renewable energy systems.* If the simple payback of the project is—
+(1) *Renewable energy systems.* RESs includes replacement, generation, and direct-use RES projects. If the simple payback of the project is:
 
 (i) Less than 10 years, 15 points will be awarded;
 
@@ -144,6 +142,8 @@ This section applies to REAP projects seeking a loan guarantee. On a periodic ba
 
 (5) The proposed project is located in a federally declared disaster area. Declarations must be within the last 3 calendar years.
 
-(6) The project is located in an area where 20 percent or more of its population is living in poverty, as defined by the United States Census Bureau; an underserved community; or an area which has experienced long-term population decline, or loss of employment.
+(6) The project is located in an area where 20 percent or more of its population is living in poverty, as defined by the United States Census Bureau, for the last 30 years; an underserved community; or an area which has experienced long-term population decline, or loss of employment.
 
 (h) *Unused funding.* After each periodic competition, the Agency will roll any remaining guaranteed loan funding authority into the next competition. At the end of each Federal fiscal year, the Agency may elect at its discretion to allow any remaining multi-year funds to be carried over to the next Federal fiscal year rather than selecting a lower scoring application.
+
+[85 FR 42518, July 14, 2020, as amended at 89 FR 79722, Sept. 30, 2024]

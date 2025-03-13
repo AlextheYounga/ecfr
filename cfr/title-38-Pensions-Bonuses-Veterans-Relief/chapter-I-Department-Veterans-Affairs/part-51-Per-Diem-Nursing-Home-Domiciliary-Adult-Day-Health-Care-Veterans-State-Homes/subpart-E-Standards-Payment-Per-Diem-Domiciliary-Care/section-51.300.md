@@ -1,7 +1,5 @@
 ##### § 51.300 Resident rights and behavior; State home practices; quality of life. #####
 
-Link to an amendment published at 89 FR 86250, Oct. 30, 2024.
-
 The State home must protect and promote the rights and quality of life of each resident receiving domiciliary care, and otherwise comply with the requirements in § 51.70, except § 51.70(b)(9), (h)(1), and (m); § 51.80, except § 51.80(a)(2) and (4) and (b); § 51.90; and § 51.100, except § 51.100(g)(2), (h), and (i)(5) through (7). The State Home must have a written procedure for admissions, discharges, and transfers. For purposes of this section, the terms “nursing home” and “nursing facility” or “facility” in the applicable provisions of the cited sections apply to a domiciliary.
 
 (a) *Notice of rights and services—notification of changes.* (1) Facility management must immediately inform the resident and consult with the primary care physician when there is
@@ -22,15 +20,7 @@ The State home must protect and promote the rights and quality of life of each r
 
 (3) The facility management must record and periodically update the address and phone number of the resident's legal representative or interested family member, but the resident has the right to decide whether to have the State home notify his or her legal representative or interested family member of changes.
 
-(b) *Work.* The resident must participate, based on his or her ability, in some measure, however slight, in work assignments that support the maintenance and operation of the State home. The State Home management must create a written policy to implement the work requirement. The resident is encouraged to participate in vocational and employment services, which are essential to meeting the psychosocial needs of the resident. The resident must perform work for the facility after the State home has accomplished the following:
-
-(1) The facility has documented the resident's need or desire to work in the comprehensive care plan;
-
-(2) The comprehensive care plan described in § 51.310 specifies the nature of the work performed and whether the work is unpaid or paid;
-
-(3) Compensation for work for which the facility would pay a prevailing wage if done by non-residents is paid at or above prevailing wages for similar work in the area where the facility is located; and
-
-(4) The facility consulted with and the resident agrees to the work arrangement described in the comprehensive care plan.
+(b) [Reserved]
 
 (c) *Married couples.* The resident has the right, if space is available within the existing facility, to share a room with his or her spouse when married residents live in the same facility and both spouses consent to the arrangement. If the State home determines existing space is not available to allow married residents to share rooms, the State home will make accommodations for the privacy of married residents.
 
@@ -120,4 +110,4 @@ The State home must protect and promote the rights and quality of life of each r
 
 (4) Private closet space in each resident's room, as specified in § 51.200(d)(2)(iv).
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0160)[83 FR 61277, Nov. 28, 2018, as amended at 88 FR 83034, Nov. 28, 2023]
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0160)[83 FR 61277, Nov. 28, 2018, as amended at 88 FR 83034, Nov. 28, 2023; 89 FR 86250, Oct. 30, 2024]

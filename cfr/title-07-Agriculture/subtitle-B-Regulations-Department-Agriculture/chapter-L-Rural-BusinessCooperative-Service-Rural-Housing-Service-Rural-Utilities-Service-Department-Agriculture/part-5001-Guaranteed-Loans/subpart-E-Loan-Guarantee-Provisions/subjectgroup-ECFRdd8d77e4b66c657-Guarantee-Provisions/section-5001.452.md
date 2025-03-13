@@ -1,8 +1,6 @@
 ##### § 5001.452 Loan closing and conditions precedent to issuance of loan note guarantee. #####
 
-Link to an amendment published at 89 FR 79726, Sept. 30, 2024.
-
-(a) The lender must not close the guaranteed loan until all conditions of the conditional commitment are met.
+(a) The lender must not close the guaranteed loan until all conditions of the conditional commitment are met. If, at a later date, it is discovered that all conditions were not met, the lender will be advised in writing that full enforceability of the guarantee by the lender may be compromised if the deficiencies are not corrected.
 
 (b) Simultaneously with or immediately after the guaranteed loan closing, the lender must provide to the Agency the guarantee fee, and the following forms and documents:
 
@@ -80,11 +78,15 @@ Link to an amendment published at 89 FR 79726, Sept. 30, 2024.
 
 (T) The lender has executed and delivered the lender's agreement, completed registration in the Agency's electronic reporting system, and electronically submitted the closing report for the guaranteed loan along with the appropriate guarantee fee.
 
-(U) For all RES and EEI projects, the lender must provide certification that the project has been performing at a steady state operating level in accordance with the technical requirements, plans, and specifications. Any modification to the 30-day steady state operating level requirement will be based on the Agency's review of the technical report or vendor certification and will be incorporated into the conditional commitment.
+(U) For all RES and EEI projects, the lender must provide certification that the project has been performing or will perform at a steady state operating level in accordance with the technical requirements, plans, and specifications. Any modification to the 30-day steady state operating level requirement will be based on the Agency's review of the technical report or vendor certification and will be incorporated into the conditional commitment.
 
 (V) For CF and WWD projects, the lender must also certify that the lender would not make the loan without an Agency loan guarantee.
 
-(c) For RES projects where applicable, the lender must provide to the Agency a copy of the executed power purchase agreement.
+(W) For WWD projects, if applicable, the lender must certify that the project complied with American Iron and Steel requirements.
+
+(X) For B&I, the capital/equity requirement set forth in the Conditional Commitment was met, as evidenced by a balance sheet as of the date the guaranteed loan was closed, giving effect to the entirety of the loan in the calculation whether or not the loan itself is fully advanced. A copy of the borrower's loan closing balance sheet must be included with the lender's certification.
+
+(c) For RES projects where applicable, the lender must provide to the Agency a copy of the executed power purchase agreement and/or a permission to operate letter from the energy off-taker.
 
 (d)(1) For all CF projects before the Agency will issue a loan note guarantee on a guaranteed loan to a borrower other than a public body, the articles of incorporation or other organizing documents of the borrower or the loan agreement must include a condition similar to the following:
 
@@ -92,4 +94,4 @@ Link to an amendment published at 89 FR 79726, Sept. 30, 2024.
 
 (e) For all B&I projects a borrower whose project involves locally or regionally produced agricultural food products and is not located in a rural area must include in an appropriate agreement with retail and institutional facilities to which the borrower sells locally or regionally produced agricultural food products a requirement to inform consumers of the retail or institutional facilities that the consumers are purchasing or consuming locally or regionally produced agricultural food products.
 
-[85 FR 42518, July 14, 2020, as amended at 85 FR 62198, Oct. 2, 2020; 86 FR 70358, Dec. 10, 2021]
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62198, Oct. 2, 2020; 86 FR 70358, Dec. 10, 2021; 89 FR 79726, Sept. 30, 2024]

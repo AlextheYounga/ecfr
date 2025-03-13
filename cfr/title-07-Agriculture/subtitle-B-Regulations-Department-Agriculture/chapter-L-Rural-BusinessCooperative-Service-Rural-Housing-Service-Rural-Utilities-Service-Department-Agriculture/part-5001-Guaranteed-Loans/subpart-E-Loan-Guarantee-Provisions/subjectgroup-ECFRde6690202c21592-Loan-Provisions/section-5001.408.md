@@ -1,7 +1,5 @@
 ##### § 5001.408 Participation or assignment of guaranteed loan. #####
 
-Link to an amendment published at 89 FR 79726, Sept. 30, 2024.
-
 (a) *General.* The lender may obtain participation in the loan or assign all or part of the guaranteed portion of the guaranteed loan on the secondary market subject to the conditions specified in paragraphs (a)(1) through (5) of this section or retain the entire guaranteed loan.
 
 (1) *Participation.* The lender may obtain participation in the loan under its normal operating procedures; however, the lender must retain title to and possession of the promissory note(s) and retain the lender's interest in the collateral.
@@ -18,7 +16,7 @@ Link to an amendment published at 89 FR 79726, Sept. 30, 2024.
 
 (4) *Prohibition.* The lender must not assign or participate any amount of the guaranteed or non-guaranteed portion of the loan to the borrower, borrower's officers, directors, stockholders, other owners, or to members of their immediate families, or to a parent company, an affiliate, or a subsidiary of the borrower.
 
-(5) *Secondary market.* The lender must properly close their loan and fully disburse loan funds of a promissory note for the purposes intended prior to assignment of the guaranteed portion of the promissory note(s) on the secondary market. The lender can assign all or part of the guaranteed portion of the loan only if the loan is not in default.
+(5) *Secondary market.* The lender must properly close their loan and fully disburse loan funds of a promissory note for the purposes intended prior to assignment of the guaranteed portion of the promissory note(s) on the secondary market. The lender can assign all or part of the guaranteed portion of the loan only if the loan is not in default. Default includes a borrower default in payments or a lender default by unpaid periodic guarantee retention fees. A lender using the multi-note system may sell the guarantee on the secondary market for a specific note once that note is fully disbursed, even if other guaranteed notes for the project have not been fully disbursed.
 
 (b) *Lender's servicing fee to holder.* The assignment guarantee agreement must clearly state the guarantee portion of loan as a percentage and corresponding dollar amount of the guaranteed portion of the guaranteed loan it represents and the lender's servicing fee. The lender cannot charge the Agency a servicing fee and servicing fees are not eligible expenses for loss claim.
 
@@ -44,10 +42,10 @@ Link to an amendment published at 89 FR 79726, Sept. 30, 2024.
 
 (e) *Rights and liabilities.* When a guaranteed portion of a loan is assigned to a holder using an assignment guarantee agreement, the holder succeeds to all rights of the lender under the loan note guarantee to the extent of the portion purchased. The full, legal interest in the promissory note must remain with the lender, and the lender remains bound to all obligations under the loan note guarantee, lender's agreement, and Agency regulations applicable to the guarantee.
 
-(1) A guarantee and right to require purchase in accordance with § 5001.511 will be directly enforceable by a Holder notwithstanding any fraud or misrepresentation by the lender or any unenforceability of the loan guarantee by the lender, except for fraud or misrepresentation of which the holder had actual knowledge at the time it became the holder or in which the holder participates or condones.
+(1) A guarantee and right to require purchase in accordance with § 5001.511 will be directly enforceable by a holder notwithstanding any fraud or misrepresentation by the lender or any unenforceability of the loan guarantee by the lender, except for fraud or misrepresentation of which the holder had actual knowledge at the time it became the holder or in which the holder participates or condones.
 
 (2) The lender must not represent a conditional commitment of guarantee as a loan guarantee.
 
 (3) The lender must reimburse the Agency for any payments the Agency makes to a holder on the lender's behalf under the loan note guarantee, given the lender would not be entitled to the payments had they retained the entire interest in the loan.
 
-[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020; 86 FR 70358, Dec. 10, 2021]
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020; 86 FR 70358, Dec. 10, 2021; 89 FR 79726, Sept. 30, 2024]

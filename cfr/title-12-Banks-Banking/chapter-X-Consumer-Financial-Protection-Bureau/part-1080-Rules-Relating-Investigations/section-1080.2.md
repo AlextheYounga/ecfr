@@ -18,8 +18,8 @@ For the purposes of this part, unless explicitly stated to the contrary:
 
 *Electronically stored information (ESI)* means any information stored in any electronic medium from which information can be obtained either directly or, if necessary, after translation by the responding party into a reasonably usable form.
 
-*Office of Enforcement* means the office of the Bureau responsible for enforcement of Federal consumer financial law.
-
 *Person* means an individual, partnership, company, corporation, association (incorporated or unincorporated), trust, estate, cooperative organization, or other entity.
 
 *Violation* means any act or omission that, if proved, would constitute a violation of any provision of Federal consumer financial law.
+
+[77 FR 39108, June 29, 2012, as amended at 89 FR 94601, Nov. 29, 2024]

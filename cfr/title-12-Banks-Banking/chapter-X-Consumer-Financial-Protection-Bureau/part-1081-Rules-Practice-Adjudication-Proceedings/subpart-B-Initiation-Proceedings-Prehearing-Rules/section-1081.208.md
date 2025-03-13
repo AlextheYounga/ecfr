@@ -12,13 +12,14 @@
 
 (i) The proposed deponent is a witness identified in the other party's scheduling conference disclosure under § 1081.203(b);
 
-(ii) The proposed deponent was a witness of or participant in any event, transaction, occurrence, act, or omission that forms the basis for any claim asserted by the Office of Enforcement, any defense, or anything else required to be included in an answer pursuant to § 1081.201(b), by any respondent in the proceeding (this excludes a proposed deponent whose only knowledge of these matters arises from the Bureau's investigation, the Bureau's examination, or the proceeding);
+(ii) The proposed deponent was a witness of or participant in any event, transaction, occurrence, act, or omission that forms the basis for any claim asserted by the Enforcement Division, any defense, or anything else required to be included in an answer pursuant to § 1081.201(b), by any respondent in the proceeding (this excludes a proposed deponent whose only knowledge of these matters arises from the Bureau's investigation, the Bureau's examination, or the proceeding);
 
 (iii) The proposed deponent is designated as an “expert witness” under § 1081.210(b); provided, however, that the deposition of an expert who is required to submit a written report under § 1081.210(b) may only occur after such report is served;
 
-(iv) The proposed deponent has custody of documents or electronic data relevant to the claims or defenses of any party (this excludes officers or personnel of the Bureau who have custody of documents or data that was produced by the Office of Enforcement to the respondent); or
+(iv) The proposed deponent has custody of documents or electronic data relevant to the claims or defenses of any party (this excludes officers or personnel of the Bureau who have custody of documents or data that was produced by the Enforcement Division to the respondent); or
 
-(v) The proposed deponent is unavailable for the hearing as set forth in § 1081.209(c).
+(v) T
+he proposed deponent is unavailable for the hearing as set forth in § 1081.209(c).
 
 (2) Where it appears to the hearing officer that the subpoena sought may be unreasonable, oppressive, excessive in scope, or unduly burdensome, the hearing officer may, as a condition precedent to the issuance of the subpoena, require the person seeking the subpoena to show further the general relevance and reasonable scope of the testimony or other evidence sought. If after consideration of all the circumstances, the hearing officer determines that the subpoena or any of its terms is unreasonable, oppressive, excessive in scope, or unduly burdensome, the hearing officer may refuse to issue the subpoena, or issue it only upon such conditions as fairness requires. In making the foregoing determination, the hearing officer may inquire of the other parties whether they will stipulate to the facts sought to be proved.
 

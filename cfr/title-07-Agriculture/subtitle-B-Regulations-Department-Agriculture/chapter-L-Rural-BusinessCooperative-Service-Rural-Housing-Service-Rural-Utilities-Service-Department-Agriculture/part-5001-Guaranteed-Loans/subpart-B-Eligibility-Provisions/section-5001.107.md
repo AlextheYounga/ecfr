@@ -1,18 +1,16 @@
 ##### § 5001.107 REAP—Energy Efficiency Improvement (EEI) projects and requirements. #####
 
-Link to an amendment published at 89 FR 79711, Sept. 30, 2024.
-
 For a REAP EEI project to be eligible for a loan guarantee under this part, it must meet the criteria specified in § 5001.102(a) through (c) and also specified in paragraphs (a) through (d) of this section and be for a borrower eligible to submit an application for the project in accordance with § 5001.126. If taxable bonds are utilized as debt instruments the provisions of § 5001.105(b)(19) must be met.
 
-(a) The EEI project must use less energy on an annual basis than the original building and/or equipment that it will improve or replace as demonstrated in an energy Assessment or energy Audit as applicable.
+(a) The EEI project must use less energy on an annual basis than the original building and/or equipment that it will improve or replace as demonstrated in an energy assessment or energy audit as applicable.
 
 (1) If the project's total project cost is greater than $80,000, the energy assessment must be conducted by an energy auditor, an energy assessor, or an individual supervised by either an energy assessor or energy auditor. The final energy assessment must be validated and signed by the energy assessor, the energy auditor who conducted the energy assessment, or by the supervising energy assessor or energy auditor of the individual who conducted the assessment, as applicable.
 
 (2) If the project's total project cost is $80,000 or less, the energy assessment may be conducted in accordance with paragraph (a)(1) of this section or by a person that has at least 3 years of experience and completed at least five energy assessments or energy audits on similar type projects. Eligible EEI include, but are not limited to:
 
-(1) Efficiency improvements to existing RES; and
+(i) Efficiency improvements to existing RES; and
 
-(2) Construction of a new building only when the new building is used for the same purpose as the existing building and if, based on an energy assessment or energy audit, as applicable, it is more cost effective to construct a new building that will use less energy on annual basis than to improve the energy efficiency of the existing building.
+(ii) Construction of a new building only when the new building is used for the same purpose as the existing building and if, based on an energy assessment or energy audit, as applicable, it is more cost effective to construct a new building that will use less energy on annual basis than to improve the energy efficiency of the existing building.
 
 (b) The EEI project must be for a commercially available technology.
 
@@ -47,3 +45,5 @@ For a REAP EEI project to be eligible for a loan guarantee under this part, it m
 (3) *Determination.* The Agency will compile the results for each area of the technical report to determine if the project has technical merit in accordance with provisions of § 5001.106(e)(3).
 
 (4) *Further processing of applications.* Projects will be further processed in accordance with provisions of § 5001.106(e)(4).
+
+[85 FR 42518, July 14, 2020, as amended at 89 FR 79711, Sept. 30, 2024]

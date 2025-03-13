@@ -1,7 +1,5 @@
 ##### § 5001.132 Maintenance of approved lender status. #####
 
-Link to an amendment published at 89 FR 79716, Sept. 30, 2024.
-
 Continuation of approved lender status under this part is not automatic. Lenders may lose their approved lender status as described in paragraph (a) of this section. The Agency may also revoke a lender's status as an approved lender or debar the approved lender, as described in paragraph (b) of this section.
 
 (a) *Loss of approved lender status.* A lender will lose its approved status if it—
@@ -10,11 +8,11 @@ Continuation of approved lender status under this part is not automatic. Lenders
 
 (2) Has no outstanding guaranteed loans with the Agency for five consecutive years;
 
-(3) A regulated lending entity fails to remain in good standing with its regulator;
+(3) Is a regulated lending entity and fails to remain in good standing with its regulator;
 
-(4) A non-regulated lending entity fails to renew its approval status 5 years from the date the Agency executes the lender's agreement.
+(4) Is a non-regulated lending entity and fails to renew its approval status within 5 years of the expiration date of the lender's agreement.
 
-(b) *Revocation of approved status and debarment of lender.* The Agency can revoke a lender's status as an approved lender at any time for cause as specified in the lender's agreement. A decision to revoke a lender's approved status will be made by the Agency and the lender will be notified in writing. Cause for revoking lender status includes, but is not necessarily limited to, the circumstances identified in paragraphs (b)(1) through (14) of this section.
+(b) *Revocation of approved status and debarment of lender.* The Agency can revoke a lender's status as an approved lender at any time for cause as specified in the lender's agreement. A decision to revoke a lender's approved status will be made by the Agency and the lender will be notified in writing. The revocation may apply to all branches of the lender, specific branches, or personnel, as appropriate. The lender must revoke the level II eAuthentication privileges of all individuals included in the revocation notice. Cause for revoking lender status includes, but is not necessarily limited to, the circumstances identified in paragraphs (b)(1) through (14) of this section.
 
 (1) Guaranteed loans originated by the lender cause substantial financial loss to the Agency.
 
@@ -42,6 +40,8 @@ Continuation of approved lender status under this part is not automatic. Lenders
 
 (13) Failure to submit reports required by the Agency in a timely manner.
 
-(14) Violation of applicable nondiscrimination laws, including, but not limited to, statutes, regulations, USDA Departmental Regulations, the USDA Non-Discrimination Statement, and the Equal Credit Opportunity Act. USDA's Non-Discrimination Statement is located on the Agency's website, see *https://www.usda.gov/non-discrimination-statement.* In addition to revoking the Lender's status, the Agency may debar a Lender in compliance with 2 CFR part 180.
+(14) Violation of applicable nondiscrimination laws, including, but not limited to, statutes, regulations, USDA Departmental Regulations, the USDA Non-Discrimination Statement, and the Equal Credit Opportunity Act. USDA's Non-Discrimination Statement is located on the Agency's website, see *usda.gov/non-discrimination-statement.* In addition to revoking the lender's status, the Agency may debar the lender in compliance with 2 CFR part 180.
 
-(c) *Servicing of outstanding loans.* Any lender who loses its status as an approved Lender under any of the conditions identified in paragraph (a) or (b) of this section must reapply under the provisions of § 5001.130 to be reinstated as an approved lender. A lender who loses its approved lender status must continue to service any outstanding guaranteed loans in conformance with the lender's agreement last in effect and the applicable regulation under which the lender became an approved lender. In addition, such lenders cannot submit requests for new loan guarantees.
+(c) *Servicing of outstanding loans.* Any lender who loses its status as an approved lender under any of the conditions identified in paragraph (a) or (b) of this section must reapply under the provisions of § 5001.130 to be reinstated as an approved lender. A lender who loses its approved lender status must continue to service any outstanding guaranteed loans in conformance with the lender's agreement last in effect and the applicable regulation under which the lender became an approved lender. In addition, such lenders cannot submit requests for new loan guarantees.
+
+[85 FR 42518, July 14, 2020, as amended at 89 FR 79716, Sept. 30, 2024]

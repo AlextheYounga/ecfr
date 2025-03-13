@@ -1,7 +1,5 @@
 ##### § 5001.521 Loss calculations and payment. #####
 
-Link to an amendment published at 89 FR 79729, Sept. 30, 2024.
-
 Unless the Agency anticipates a future recovery, the Agency will make a final settlement with the lender after the collateral is liquidated or after settlement and compromise of all parties has been completed. The Agency has the right to recover losses paid under the guarantee from any party that may be liable.
 
 (a) *Report of loss form.* The lender must use the report of loss form for all estimated and final loss claim requests.
@@ -16,7 +14,7 @@ Unless the Agency anticipates a future recovery, the Agency will make a final se
 
 (d) *Reduction of loss claims payable.* (1) Negligent loan origination and negligent loan servicing will result in a reduction of loss claims payable under the guarantee to the lender if any losses have occurred as the result of such negligence. The Agency will assess against the lender any cost to the Agency associated with actions taken by the Agency necessary to protect the Agency's interests with respect to the loan where a lender is not in compliance with its origination and servicing responsibilities. The extent of the reduction, which could be a total reduction of the loss claims payable, will depend on the extent of the losses incurred as a result of the negligent loan origination or servicing.
 
-(2) Non-compliance with the requirements of § 5001.205(a) or § 5001.305(a) will result in a reduction of loss claims payable. The Agency's review of the non-compliance could result in a total reduction of the loss claim payable.
+(2) Non-compliance with the requirements of *§ 5001.205(a)* or *§ 5001.305(a)* will result in a reduction of loss claims payable. The Agency's review of the non-compliance could result in a total reduction of the loss claim payable. The Agency's review of the non-compliance could result in a total reduction of the loss claim payable. The lender must ensure during loan making and project development that the project is designed utilizing accepted architectural and engineering practices and conforms to applicable Federal requirements including the seismic requirements of Executive Order 12699 (55 FR 835, January 5, 1990), State and local codes and requirements, and facility plans or plans and specifications reviewed and approved by the applicable State regulatory agency. The lender must also ensure that the planned project will be completed within the available funds and once completed, will be suitable for the borrower's needs.
 
 (3) Any delinquent fees, including any interest due thereon, will be deducted from any loss payment due the lender.
 
@@ -32,9 +30,9 @@ Unless the Agency anticipates a future recovery, the Agency will make a final se
 
 (2) *Accounting of funds.* Before the Agency will approve a final report of loss, the lender must account for all funds during the period of liquidation, disposition of the collateral, all costs incurred, and any other information necessary for the successful completion of liquidation. The lender must document and show that all the collateral has been accounted for and properly liquidated, and that liquidation proceeds have been properly accounted for and applied correctly on the loan.
 
-(3) *Audit.* Upon receipt of the final accounting and report of loss, the Agency may audit all applicable documentation to determine the final loss. The lender must make its records available to and otherwise assist the Agency in making any investigation or audit of the report of loss. The documentation accompanying the Report of loss must support the amounts reported. The Agency must be satisfied that the lender has maximized the collections in conducting the liquidation.
+(3) *Audit.* Upon receipt of the final accounting and report of loss, the Agency may audit all applicable documentation to determine the final loss. The lender must make its records available to and otherwise assist the Agency in making any investigation or audit of the report of loss. The documentation accompanying the report of loss must support the amounts reported. The Agency must be satisfied that the lender has maximized the collections in conducting the liquidation.
 
-(4) *Guarantees.* The lender must determine the collectability of unsecured personal and corporate guarantees required in accordance with § 5001.204 of this part. The lender must promptly collect or otherwise dispose of such guarantees prior to completion of the final loss report. However, if collection from the guarantors appears unlikely or will require a prolonged period of time, the lender must file the report of loss when all other collateral has been liquidated. Unsecured personal or corporate guarantees outstanding at the time of the submission of the final report of loss will be treated as a Future Recovery with the net proceeds to be shared on a pro rata basis by the lender and the Agency.
+(4) *Guarantees.* The lender must determine the collectability of unsecured personal and corporate guarantees required in accordance with § 5001.204 of this part. The lender must promptly collect or otherwise dispose of such guarantees prior to completion of the final loss report. However, if collection from the guarantors appears unlikely or will require a prolonged period of time, the lender must file the report of loss when all other collateral has been liquidated. Unsecured personal or corporate guarantees outstanding at the time of the submission of the final report of loss will be treated as a future recovery with the net proceeds to be shared on a pro rata basis by the lender and the Agency.
 
 (5) *Federal debt.* Any amounts paid by the Agency on account of liabilities of a borrower constitute a Federal debt owed to the Agency by the borrower. In such case, the Agency can use all remedies available to it to collect the debt from the borrower, including offset in accordance with part 3 of this title.
 
@@ -58,7 +56,7 @@ Unless the Agency anticipates a future recovery, the Agency will make a final se
 
 (ii) The lender must support accrued interest by documenting how the amount was accrued, including attaching a copy of both the promissory note and ledger. If the interest rate was a variable rate, the lender must include documentation of changes in both the selected base rate and the loan rate.
 
-(iii) If a restructuring of a guaranteed loan includes the capitalization of interest, the guarantee will not cover the interest accrued on the capitalized Interest.
+(iii) If a restructuring of a guaranteed loan includes the capitalization of interest, the guarantee will not cover the interest accrued on the capitalized interest.
 
 (9) *Acquiring property titles.* If a lender acquires title to property, any loss will be based on the collateral value at the time the lender obtains title. Alternatively, the lender can calculate the final loss settlement using the net proceeds received at the time of the ultimate disposition of the property if—
 
@@ -81,3 +79,5 @@ Unless the Agency anticipates a future recovery, the Agency will make a final se
 (ii) If the actual loss is less than the estimated loss payment, the lender must reimburse the Agency for the overpayment plus interest at the promissory note rate from the date of payment of the estimated loss.
 
 (iii) If the Agency conducted the liquidation, it will provide an accounting to the lender and will pay the lender in accordance with the loan note guarantee.
+
+[85 FR 42518, July 14, 2020, as amended at 89 FR 79728, Sept. 30, 2024]

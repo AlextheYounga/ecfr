@@ -2,9 +2,9 @@
 
 (a) *Depositions by oral examination or by written questions.* Depositions by oral examination or by written questions may be taken as set forth in this section and must be taken pursuant to subpoena issued under § 1081.208. Any deposition permitted under this section may be taken and submitted on written questions upon motion of any party, for good cause shown, or as stipulated by the parties. No other depositions will be permitted except as provided in paragraph (c) of this section.
 
-(1) If the proceeding involves a single respondent, the respondent may depose no more than three persons, and the Office of Enforcement may depose no more than three persons.
+(1) If the proceeding involves a single respondent, the respondent may depose no more than three persons, and the Enforcement Division may depose no more than three persons.
 
-(2) If the proceeding involves multiple respondents, the respondents collectively may depose no more than five persons, and the Office of Enforcement may depose no more than five persons. The depositions taken under this paragraph (a)(2) cannot exceed a total of five depositions for the Office of Enforcement, and five depositions for all respondents collectively.
+(2) If the proceeding involves multiple respondents, the respondents collectively may depose no more than five persons, and the Enforcement Division may depose no more than five persons. The depositions taken under this paragraph (a)(2) cannot exceed a total of five depositions for the Enforcement Division, and five depositions for all respondents collectively.
 
 (3) Any side may file a motion with the hearing officer seeking leave to take up to two additional depositions beyond those permitted pursuant to paragraphs (a)(1) and (2) of this section.
 
@@ -80,7 +80,7 @@
 
 (4) *To completing and returning the deposition.* An objection to how the deposition officer transcribed the testimony—or prepared, signed, certified, sealed, endorsed, sent, or otherwise dealt with the deposition—is waived unless a motion to suppress is made promptly after the error or irregularity becomes known or, with reasonable diligence, could have been known.
 
-(j) *Duration; cross-examination; motion to terminate or limit*—(1) *Duration.* Unless otherwise stipulated or ordered by the hearing officer, a deposition is limited to one day of seven hours, including cross-examination as provided in this paragraph (j)(1). In a deposition conducted by or for a respondent, the Office of Enforcement will be allowed a reasonable amount of time for cross-examination of the deponent. In a deposition conducted by the Office, the respondents collectively will be allowed a reasonable amount of time for cross-examination of the deponent. The hearing officer may allow additional time if needed to fairly examine the deponent or if the deponent, another person, or any other circumstance impedes or delays the examination.
+(j) *Duration; cross-examination; motion to terminate or limit*—(1) *Duration.* Unless otherwise stipulated or ordered by the hearing officer, a deposition is limited to one day of seven hours, including cross-examination as provided in this paragraph (j)(1). In a deposition conducted by or for a respondent, the Enforcement Division will be allowed a reasonable amount of time for cross-examination of the deponent. In a deposition conducted by the Office, the respondents collectively will be allowed a reasonable amount of time for cross-examination of the deponent. The hearing officer may allow additional time if needed to fairly examine the deponent or if the deponent, another person, or any other circumstance impedes or delays the examination.
 
 (2) *Motion to terminate or limit*—(i) *Grounds.* At any time during a deposition, the deponent or a party may move to terminate or limit it on the ground that it is being conducted in bad faith or in a manner that unreasonably annoys, embarrasses, or oppresses the deponent or party. If the objecting deponent or party so demands, the deposition must be suspended for the time necessary to present the motion to the hearing officer.
 

@@ -14,8 +14,6 @@ For the purposes of this part, the following definitions apply:
 
 (iii) The person directly or indirectly exercises a controlling influence over the management or policies of the other person.
 
-*Assistant Director* means the Bureau's Assistant Director for Nonbank Supervision or her or his designee. The Director of the Bureau may perform the functions of the Assistant Director under this part. In the event there is no such Assistant Director, the Director of the Bureau may designate an alternative Bureau employee to fulfill the duties of the Assistant Director under this part.
-
 *Bureau* means the Bureau of Consumer Financial Protection.
 
 *Completed fiscal year* means a tax year including any fiscal year, calendar year, or short tax year. “Fiscal year,” “calendar year,” “tax year,” and “short tax year” have the meanings attributed to them by the IRS as set forth in IRS Publication 538, which provides that:
@@ -50,4 +48,6 @@ For the purposes of this part, the following definitions apply:
 
 *Supervision and supervisory activity* mean the Bureau's exercise, or intended exercise, of supervisory authority, including by initiating or undertaking an examination, or requiring a report of a person, pursuant to 12 U.S.C. 5514.
 
-[77 FR 42898, July 20, 2012, as amended at 80 FR 37526, June 30, 2015]
+*Supervision Director* means the Supervision Director or any Bureau employee designated by the Director of the Bureau or the Supervision Director to act under this part. The Director of the Bureau may perform the functions of the Supervision Director under this part.
+
+[77 FR 42898, July 20, 2012, as amended at 80 FR 37526, June 30, 2015; 89 FR 94601, Nov. 29, 2024]

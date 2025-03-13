@@ -1,7 +1,5 @@
 ##### § 5001.502 Oversight and monitoring. #####
 
-Link to an amendment published at 89 FR 79727, Sept. 30, 2024.
-
 The Agency will employ various oversight and monitoring activities in order to ensure compliance with this part. All lenders involved in any manner with any loan note guarantee issued under this part or under a loan note guaranteed previously issued under a guaranteed loan program identified in § 5001.1 of this part must cooperate fully with the Agency in its oversight and monitoring efforts, including, but not necessarily limited to, those identified in paragraphs (a) through (c) of this section.
 
 (a) *Reports and notifications.* Lenders must submit to the Agency reports and notifications as required by this part. To facilitate the Agency's oversight and monitoring including, but not necessarily limited to, those identified in paragraphs (a)(1) through (4), as applicable, of this section.
@@ -28,4 +26,6 @@ The Agency will employ various oversight and monitoring activities in order to e
 
 (c) *Agency and lender conference.* When requested by the Agency, the lender must consult with the Agency to ascertain how the guaranteed loan is being serviced and that the conditions and covenants of the loan agreement are being enforced.
 
-(d) *Access to the project.* Until the loan note guarantee is terminated, the borrower must allow the lender and therefore the Agency access to the project and its performance information and permit periodic inspections of the project by an authorized representative of the Lender or the Agency.
+(d) *Access to the project.* Until the loan note guarantee is terminated, the borrower must allow the lender and therefore the Agency access to the project and its performance information and permit periodic inspections of the project by an authorized representative of the lender or the Agency.
+
+[85 FR 42518, July 14, 2020, as amended at 89 FR 79727, Sept. 30, 2024]

@@ -1,6 +1,6 @@
 ##### § 1081.200 Commencement of proceeding and contents of notice of charges. #####
 
-(a) *Commencement of proceeding.* A proceeding governed by subparts A through D of this part is commenced when the Bureau, through the Office of Enforcement, files a notice of charges in accordance with § 1081.111. The notice of charges must be served by the Office of Enforcement upon the respondent in accordance with § 1081.113(d)(1).
+(a) *Commencement of proceeding.* A proceeding governed by subparts A through D of this part is commenced when the Bureau, through the Enforcement Division, files a notice of charges in accordance with § 1081.111. The notice of charges must be served by the Enforcement Division upon the respondent in accordance with § 1081.113(d)(1).
 
 (b) *Contents of a notice of charges.* The notice of charges must set forth:
 
@@ -22,7 +22,7 @@
 
 (d) *Commencement of proceeding through a consent order.* Notwithstanding paragraph (a) of this section, where the parties agree to settlement before the filing of a notice of charges, a proceeding may be commenced by filing a stipulation and consent order. The stipulation and consent order must be filed pursuant to § 1081.111. The stipulation must contain the information required under § 1081.120(d), and the consent order must contain the information required under paragraphs (b)(1) and (2) of this section. The proceeding will be concluded upon issuance of the consent order by the Director.
 
-(e) *Voluntary dismissal*—(1) *Without an order.* The Office of Enforcement may voluntarily dismiss an adjudication proceeding without an order entered by a hearing officer by filing either:
+(e) *Voluntary dismissal*—(1) *Without an order.* The Enforcement Division may voluntarily dismiss an adjudication proceeding without an order entered by a hearing officer by filing either:
 
 (i) A notice of dismissal before the respondent(s) serves an answer; or
 

@@ -1,7 +1,5 @@
 ##### § 5001.303 Applications for loan guarantee. #####
 
-Link to an amendment published at 89 FR 79720, Sept. 30, 2024.
-
 The Agency will accept applications on a continuous basis. For each loan guarantee request, the lender must submit to the Agency a complete application that is in conformance with this section, and §§ 5001.304 through 5001.307, as applicable.
 
 (a) *Complete applications.* Lenders must submit complete applications in order to be considered for loan guarantees. Lenders are encouraged to submit a complete application in a single package; however, the Agency may accept the environmental information required by the Agency and initiate and complete its environmental reviews in advance of receiving a complete application. If an application is incomplete, the Agency will notify the lender in writing of the items necessary to address the incomplete application. Upon receipt of a complete application, the Agency will complete its evaluation.
@@ -58,7 +56,7 @@ The Agency will accept applications on a continuous basis. For each loan guarant
 
 (14) Pro-forma balance sheet for closing as noted in § 5001.306(a)(2).
 
-(15) SEC Form 10-K as noted in § 5001.306(a)(4).
+(15) Securities and Exchange Commission (SEC) Form 10-K, “Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934,” as noted in § 5001.306(a)(4).
 
 (16) Technical reports in accordance with § 5001.307(e).
 
@@ -68,6 +66,6 @@ The Agency will accept applications on a continuous basis. For each loan guarant
 
 (19) Copies of organizational documents if not already provided with a preliminary eligibility review in accordance with § 5001.302.
 
-(d) *Application modification.* Once a complete application is accepted by the Agency and prior to Agency award of a loan note guarantee, any modification to the application will be treated as a new Application and the Agency will process the information accordingly. The submission date of record for a modified application is the date the Agency receives the modified application information.
+(d) *Application modification.* Once a complete application is accepted by the Agency and prior to Agency award of a loan note guarantee, any modification to the application will be treated as a new application and the Agency will process the information accordingly. The submission date of record for a modified application is the date the Agency receives the modified application information.
 
-[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020; 86 FR 70357, Dec. 10, 2021]
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020; 86 FR 70357, Dec. 10, 2021; 89 FR 79720, Sept. 30, 2024]

@@ -2,7 +2,7 @@
 
 For purposes of this part:
 
-(a) *Associate Director for Supervision, Enforcement and Fair Lending* means the Associate Director for Supervision, Enforcement and Fair Lending of the CFPB or any CFPB employee to whom the Associate Director for Supervision, Enforcement and Fair Lending has delegated authority to act under this part.
+(a) *Supervision Director* means the Supervision Director or any CFPB employee designated by the Director of the CFPB or the Supervision Director to act under this part.
 
 (b) *Business day* means any day except Saturday, Sunday or a legal Federal holiday.
 
@@ -50,4 +50,4 @@ For purposes of this part:
 
 (q) *Supervised financial institution* means a financial institution that is or that may become subject to the CFPB's supervisory authority.
 
-[85 FR 75216, Nov. 24, 2020]
+[85 FR 75216, Nov. 24, 2020, as amended at 89 FR 94601, Nov. 29, 2024]

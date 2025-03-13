@@ -1,16 +1,14 @@
 ##### § 5001.516 Protective advances. #####
 
-Link to an amendment published at 89 FR 79728, Sept. 30, 2024.
-
 Protective advances are allowed only when they are necessary to preserve the value of the collateral. Therefore, a lender must exercise sound judgment in determining that the protective advance preserves collateral and recovery is actually enhanced by making the advance.
 
 (a) Protective advances must be reasonable with respect to the outstanding loan amount and the value of the collateral being preserved.
 
 (b) A lender cannot make protective advances in lieu of additional loans.
 
-(c) A lender must obtain written Agency approval for any protective advance that will cumulatively amount to more than $200,000, or 10 percent of the aggregate outstanding balance of principal and interest, whichever is less, to the same borrower.
+(c) A lender must obtain written Agency approval for any protective advance that will cumulatively amount to more than $200,000, or 10 percent of the aggregate outstanding balance of principal and interest, whichever is less, to the same borrower. Payment of real estate taxes by the lender is not considered a protective advance and does not require Agency approval.
 
-(d) Protective advances constitute an indebtedness of the borrower to the lender and must be secured by collateral to the same extent as the original guaranteed loan.
+(d) Protective advances constitute an indebtedness of the borrower to the lender and must be secured by collateral to the same extent as the original guaranteed loan. It is the lender's responsibility to ensure that any protective advances are secured by the collateral of the guaranteed loan.
 
 (e) Notwithstanding § 5001.22(c) of this part, upon Agency approval, protective advances can be used to pay Federal tax liens or other Federal debt.
 
@@ -19,3 +17,5 @@ Protective advances are allowed only when they are necessary to preserve the val
 (g) The maximum loss to be paid by the Agency will never exceed the original loan amount plus accrued interest times the percentage of guarantee regardless of any protective advances made.
 
 (h) Holders do not have an interest in protective advances.
+
+[85 FR 42518, July 14, 2020, as amended at 89 FR 79728, Sept. 30, 2024]

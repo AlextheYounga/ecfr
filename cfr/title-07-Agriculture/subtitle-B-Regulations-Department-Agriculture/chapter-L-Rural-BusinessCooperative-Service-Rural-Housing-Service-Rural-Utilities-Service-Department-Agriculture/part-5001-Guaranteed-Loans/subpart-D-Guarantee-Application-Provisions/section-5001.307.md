@@ -1,14 +1,12 @@
 ##### § 5001.307 Specific application requirements for REAP projects. #####
 
-Link to an amendment published at 89 FR 79721, Sept. 30, 2024.
-
 In addition to the requirements specified in § 5001.303, a lender seeking a loan guarantee for a REAP project must submit the information identified below based on total project costs.
 
-(a) *Borrower eligibility information.* (1) Eligible borrowers must meet the definition of agricultural producer or rural small business as defined in § 5001.3. Agricultural producers seeking funding for a RES or EEI project may apply as either a rural small business or as an agricultural producer, provided they meet the applicable eligibility requirements. Agricultural producers seeking funding for an EEE project must be eligible and apply as an Agricultural Producer.
+(a) *Borrower eligibility information.* (1) Eligible borrowers must meet the definition of agricultural producer or rural small business as defined in § 5001.3. Agricultural producers seeking funding for a RES or EEI project may apply as either a rural small business or as an agricultural producer, provided they meet the applicable eligibility requirements. Agricultural producers seeking funding for an EEE project must be eligible and apply as an agricultural producer.
 
-(2) The Borrower must provide the primary NAICS code applicable to the borrower's business concern and certify on the Agency approved application form or system that it meets the definition of agricultural producer or rural small business. The Agency reserves the right to request supporting documentation to verify borrower eligibility.
+(2) The borrower must provide the primary NAICS code applicable to the borrower's business concern and certify on the Agency approved application form or system that it meets the definition of agricultural producer or rural small business. The Agency reserves the right to request supporting documentation to verify borrower eligibility.
 
-(b) *Borrower description.* Describe the ownership of the Borrower, including the information specified in paragraphs (b)(1) through (3) of this section, as applicable. Include a description of the Borrower's existing farm, ranch, or business operation, including how long the borrower has been in operation.
+(b) *Borrower description.* Describe the ownership of the borrower, including the information specified in paragraphs (b)(1) through (3) of this section, as applicable. Include a description of the borrower's existing farm, ranch, or business operation, including how long the borrower has been in operation. Rural small businesses and agriculture operations owned by Tribes should provide documentation to adequately show the separation of the applicant and the Tribal government.
 
 (1) Describe how the borrower meets the ownership and control requirements as identified in § 5001.126(e)(2).
 
@@ -30,13 +28,13 @@ In addition to the requirements specified in § 5001.303, a lender seeking a loa
 
 (d) *Feasibility study.* For RES projects only, when deemed necessary by the lender or Agency, an analysis conducted in conformance with the definition of feasibility study found in § 5001.3 and with applicable content in appendix A to subpart D of this part.
 
-(e) *Technical report.* All eligible projects must have technical merit and provide information as identified in § 5001.106(e), § 5001.107(d), or § 5001.108(d) and (e)(1) through (3) of this section.
+(e) *Technical report.* All eligible projects must have technical merit and provide information as identified in § 5001.106(e), § 5001.107, or § 5001.108 and (e)(1) through (3) of this section.
 
 (1) *Level of detail.* Information provided must be in sufficient detail to enable the Agency to determine the technical merit of the project. Design drawings and process flowcharts are encouraged as exhibits. The technical report requirements can be provided in the technical feasibility section of a feasibility study, instead of completing a separate technical report.
 
 (i) Sufficient information to enable the calculation of simple payback as defined in § 5001.3;
 
-(ii) For RES Projects, sufficient information to enable the calculation of the percentage of historical use of energy compared to the amount of renewable energy that will be generated once the project is operating at its steady state operating level. If the project is closely associated with a residence, satisfactory demonstration must be made that 50 percent or more of the projected renewable energy will benefit the agricultural operation or rural small business; and
+(ii) For RES projects, sufficient information to enable the calculation of the percentage of historical use of energy compared to the amount of renewable energy that will be generated once the project is operating at its steady state operating level. If the project is closely associated with a residence, satisfactory demonstration must be made that 50 percent or more of the projected renewable energy will benefit the agricultural operation or rural small business; and
 
 (iii) Demonstrate that the RES, EEI, or EEE project will operate or perform over the project's useful life in a reliable, safe, and a cost-effective manner, which may include but is not limited to addressing project design, installation, operation, maintenance, and warranties.
 
@@ -58,15 +56,15 @@ In addition to the requirements specified in § 5001.303, a lender seeking a loa
 
 (H) Energy efficiency improvements
 
-(v) For total project costs in the amount of $80,000 or less, a technical report, as identified in § 5001.303(c)(15), prepared in accordance with the following paragraphs, as applicable:
+(v) For total project costs in the amount of $80,000 or less, a technical report, as identified in § 5001.303(c)(16), prepared in accordance with the following paragraphs, as applicable:
 
 (A) *EEI technical reports.* Each EEI technical report submitted under this section must provide:
 
 (*1*) A description of the proposed EEI, including its intended purpose;
 
-(*2*) Vendor/Installer certification that the EEI project uses commercially available technology;
+(*2*) Vendor/installer certification that the EEI project uses commercially available technology;
 
-(*3*) Vendor/Installer certified projections on the quantity of energy to be saved;
+(*3*) Vendor/installer certified projections on the quantity of energy to be saved;
 
 (*4*) Certification by vendor/installer that they are qualified to complete the project as intended;
 
@@ -92,9 +90,9 @@ In addition to the requirements specified in § 5001.303, a lender seeking a loa
 
 (*1*) A description of the proposed EEE and its intended purpose, including baseline data, specifications, and efficiency data;
 
-(*2*) Vendor/Installer certification that the EEE project uses commercially available technology;
+(*2)* Vendor/installer certification that the EEE project uses commercially available technology;
 
-(*3*) Vendor/Installer certification of the proposed energy consumption quantity and price per unit of the energy efficiency equipment to be installed;
+(*3*) Vendor/installer certification of the proposed energy consumption quantity and price per unit of the energy efficiency equipment to be installed;
 
 (*4*) Certification by vendor/installer that they are qualified to complete the project as intended;
 
@@ -111,3 +109,5 @@ In addition to the requirements specified in § 5001.303, a lender seeking a loa
 (2) *Modifications.* If the technical report is prepared prior to the borrower's selection of a final design, equipment vendor, or contractor, or other significant decision, the borrower may modify the report and resubmit it to the Agency, provided that the overall scope of the project is not materially changed as determined by the Agency. Changes in the technical report may require additional environmental documentation in accordance with 7 CFR part 1970.
 
 (3) *Hybrid projects.* If the application is for a hybrid project, technical reports must be prepared for each technology that comprises the hybrid project.
+
+[85 FR 42518, July 14, 2020, as amended at 89 FR 79721, Sept. 30, 2024]

@@ -1,0 +1,5 @@
+##### § 73.1 Purpose. #####
+
+(a) This part establishes the DARB as the administrative body to conduct a final review of a petitioner's request for an upgrade in the characterization of a discharge or dismissal, pursuant to 10 U.S.C. 1553a. This part also provides the procedures for Service members (or their representatives) to request a final review, the standards that the DARB will apply when it reviews a petitioner's request, and the procedures following the DARB's recommended disposition of a request.
+
+(b) The DARB ensures that DoD-level policies, procedures, and standards related to the review of discharges and dismissals are uniformly and consistently applied across the military services. Reporting of the number of upgrades granted or denied pursuant to this final review process will also be made available for public inspection through the DoD Reading Room available at *https://boards.law.af.mil.* The term “Military Department” as used here in this part includes the Coast Guard. The terms, “Military Services,” and “Armed Forces,” refers to the Army, Navy, Marine Corps, Coast Guard, Air Force, and Space Force.

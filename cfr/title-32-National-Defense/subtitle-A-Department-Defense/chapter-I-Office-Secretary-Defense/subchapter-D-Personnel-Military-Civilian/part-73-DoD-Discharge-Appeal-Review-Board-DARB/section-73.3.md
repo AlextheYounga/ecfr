@@ -1,0 +1,3 @@
+##### § 73.3 Membership and designation. #####
+
+The DARB is set up independently from the Military Departments' DRBs and BCM/NRs. The DARB is comprised of civilian government employees and consists of a President, Deputy Director, and at least three members for each panel. The DARB President and Deputy Director are appointed as inferior officers by the Secretary of Defense. The Secretary of the Air Force (SECAF), as the designated lead agent for the DARB, appoints DARB members and assigns them to a panel(s).

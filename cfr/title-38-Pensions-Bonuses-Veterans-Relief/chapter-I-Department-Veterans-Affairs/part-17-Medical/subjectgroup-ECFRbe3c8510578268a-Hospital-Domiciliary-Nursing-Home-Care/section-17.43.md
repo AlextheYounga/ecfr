@@ -1,8 +1,6 @@
-##### § 17.43 Persons entitled to hospital or domiciliary care. #####
+##### § 17.43 Persons entitled to hospital care. #####
 
-Link to an amendment published at 89 FR 86248, Oct. 30, 2024.
-
-Hospital or domiciliary care may be provided:
+Hospital care may be provided:
 
 (a) Not subject to the eligibility provisions of 38 U.S.C. 1710, 1722, and 1729, and 38 CFR 17.44 and 17.45, for:
 
@@ -22,4 +20,4 @@ Hospital or domiciliary care may be provided:
 
 (d) The authorization of services under any provision of this section, except services for eligible veterans, is subject to charges as required by § 17.102.
 
-[23 FR 6498, Aug. 22, 1958, as amended at 24 FR 8327, Oct. 14, 1959; 32 FR 6841, May 4, 1967; 34 FR 9340, June 13, 1969; 35 FR 6586, Apr. 24, 1970; 39 FR 32606, Sept. 10, 1974. Redesignated and amended at 61 FR 21965, 21966, May 13, 1996; 64 FR 54218, Oct. 6, 1999; 79 FR 54615, Sept. 12, 2014; 88 FR 32975, May 23, 2023]
+[23 FR 6498, Aug. 22, 1958, as amended at 24 FR 8327, Oct. 14, 1959; 32 FR 6841, May 4, 1967; 34 FR 9340, June 13, 1969; 35 FR 6586, Apr. 24, 1970; 39 FR 32606, Sept. 10, 1974. Redesignated and amended at 61 FR 21965, 21966, May 13, 1996; 64 FR 54218, Oct. 6, 1999; 79 FR 54615, Sept. 12, 2014; 88 FR 32975, May 23, 2023; 89 FR 86248, Oct. 30, 2024]

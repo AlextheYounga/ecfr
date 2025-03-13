@@ -1,12 +1,10 @@
 ##### § 5001.454 Guarantee fee. #####
 
-Link to an amendment published at 89 FR 79726, Sept. 30, 2024.
-
-The guarantee fee is a one-time, non-refundable fee paid by the lender to the Agency at or before loan closing and is required to be paid before the Agency will issue the loan note guarantee. The lender may pass the guarantee fee on to the borrower.
+The guarantee fee is a one-time, non-refundable fee paid by the lender to the Agency at or before loan closing and is required to be paid before the Agency will issue the loan note guarantee. The guarantee fee rate applied will be the rate as established in the Federal Register for the fiscal year in which a guaranteed loan is obligated. The lender may pass the guarantee fee on to the borrower.
 
 (a) *Guarantee fee calculation.* The one-time guarantee fee is calculated by multiplying the total loan amount by the percentage of guarantee by the guarantee fee rate, which may vary by program.
 
-(b) *Guarantee fee rates.* The guarantee fee rate is established by the Agency in an annual document published in the Federal Register. While the fee rate may vary annually, they will not exceed the limits in table 1:
+(b) *Guarantee fee rates.* The guarantee fee rate is established by the Agency in an annual document published in the Federal Register. While the fee rate may vary annually, they will not exceed the limits in table 1. Once the guarantee is obligated, the guarantee fee rate in effect at the time of obligation will remain in place even if the guarantee fee rate changes before the loan note guarantee is issued.
 
 |                                |Maximum guarantee fee  <br/>(percent)|
 |--------------------------------|-------------------------------------|
@@ -41,8 +39,8 @@ The guarantee fee is a one-time, non-refundable fee paid by the lender to the Ag
 
 (ii) Produces a natural resource value-added product/manufactures a product from a natural resource.
 
-(4) Is part of a strategic economic development and community development plan on a multi-jurisdictional and multi-sectoral basis in accordance with Section 6401 of the Agricultural Improvement Act of 2018 (Pub. L. 115-334); or
+(4) Is part of a strategic economic development and community development plan on a multi-jurisdictional and multi-sectoral basis in accordance with Section 6401 of the Agriculture Improvement Act of 2018 (Pub. L. 115-334); or
 
-(5) Provides an additional market for existing local businesses by purchasing substantial amounts of products or services from, selling product to, or providing services to existing local and regional businesses.
+(5) Provides an additional market for existing local businesses by purchasing substantial amounts of products or services from, selling product to, or providing services to existing local and regional businesses. The additional market for existing local businesses means that the borrower uses industry clusters in the same community as a substantial part of their product manufacturing or service delivery, or the borrower is part of a product chain where they are a substantial part of another local business' product manufacturing or service delivery. The use of local janitorial or maintenance firms, for example, does not meet this criteria.
 
-[85 FR 42518, July 14, 2020, as amended at 86 FR 70358, Dec. 10, 2021]
+[85 FR 42518, July 14, 2020, as amended at 86 FR 70358, Dec. 10, 2021; 89 FR 79726, Sept. 30, 2024]

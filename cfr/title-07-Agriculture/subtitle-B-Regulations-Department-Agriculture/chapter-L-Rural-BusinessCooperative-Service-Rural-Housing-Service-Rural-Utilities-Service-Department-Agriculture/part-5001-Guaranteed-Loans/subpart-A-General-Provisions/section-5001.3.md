@@ -1,20 +1,14 @@
 ##### § 5001.3 Definitions. #####
 
-Link to an amendment published at 89 FR 79704, Sept. 30, 2024.
-
 The following definitions are applicable to the capitalized terms used in this part.
 
 *Administrator* means the Administrator of the Rural Housing Service, the Rural Utilities Service, or the Rural Business-Cooperative Service (or the applicable Service's successor), as applicable, within the Rural Development mission area of the U.S. Department of Agriculture (USDA).
 
-*Affiliate* means a person where one of the following circumstances exists:
-
-(1) The person controls or has the power to control another person, or a third party or parties' controls or has the power to control both. Factors such as ownership, management, current and previous relationships with or ties to another person, and contractual relationships, shall be considered in determining whether affiliation exists. It does not matter whether control is actually exercised, so long as the power to control exists. Entities owned and controlled by Indian Tribes, Alaskan Native Corporations (ANCs), Native Hawaiian Organizations (NHOs), Community Development Corporations (CDCs), or wholly-owned entities of Indian Tribes, ANCs, NHOs, or CDCs, are not considered to be affiliated with other entities owned by these entities solely because of their common ownership or common management.
-
-(2) There is a family relationship and identical or substantially identical business or economic interests amongst persons (such as where the immediate family operate entities in the same or similar industry in the same geographic area); however, a person may rebut such determination with evidence showing that the business or economic interests are not identical or substantially identical.
+*Affiliate* means a person that is connected with or controlled by another organization. Factors such as ownership, management, current and previous relationships with or ties to another person, and contractual relationships, will be considered in determining whether affiliation exists. Affiliation is determined using the principles outlined in 13 CFR 121.103.
 
 *Agency* means USDA Rural Development, which includes the Rural Housing Service; the Rural Utilities Service; and the Rural Business-Cooperative Service or their successors.
 
-*Agricultural producer* means a person, including non-profits, directly engaged in the production of agricultural products through labor management and operations, including the cultivating, growing, and harvesting plants and crops (including farming); breeding, raising, feeding, or housing of livestock (including ranching); forestry products; hydroponics; nursery stock; or aquaculture, whereby 50 percent or greater of their gross income is derived from the operations. The percentage is calculated as the average of gross agricultural operations income of the concern divided by the gross non-farm income of the concern for the five most recent years. If the concern has been operation for less than 60 months but for at least 12 months, use average gross agricultural operations income and gross non-farm income for as long as the concern has been in operation.
+*Agricultural producer* means a person, including non-profits, directly engaged in the production of agricultural products through labor management and operations, including the cultivating, growing, and harvesting plants and crops (including farming); breeding, raising, feeding, or housing of livestock (including ranching); forestry products; hydroponics; nursery stock; or aquaculture, whereby 50 percent or greater of their gross income is derived from the operations. All gross income of the applicant entity is included for agricultural producer eligibility. The percentage is calculated as the average of gross agricultural operations income of the concern divided by the gross non-farm income of the concern for the five most recent years. If the concern has been in operation for less than 60 months but for at least 12 months, average gross agricultural operations income, and gross non-farm income for as long as the concern has been in operation will be used. Agricultural operations income may include such items as production contracts, crop insurance, commodity payments, etc. Total income may include W-2 wages, schedule C income, and other income not related to the agricultural operation. Calculations will be using the applicant's five most recent tax years. Each year's gross agricultural operations income will be divided by the applicant's gross total income, then the five years will be averaged to determine eligibility. An agricultural producer could be located in either a rural or a non-rural area.
 
 *Agricultural production* means the cultivation, growing, or harvesting of plants and crops (including farming) breeding, raising, feeding, or housing of livestock (including ranching); forestry products, hydroponics, or nursery stock; or aquaculture.
 
@@ -44,25 +38,7 @@ The following definitions are applicable to the capitalized terms used in this p
 
 *Certificate of incumbency* means an Agency-approved form used to validate authenticity of Agency representatives' signature and title.
 
-*Collateral* means the asset(s) pledged by the borrower to the lender as security for the guaranteed loan.
-
-*Commercially available* means a system that meets the requirements of either paragraph (1) or (2) of this definition.
-
-(1) A domestic or foreign system that:
-
-(i) Has both a proven and reliable operating history and proven performance data for at least one year specific to the use and operation to the proposed application;
-
-(ii) Is based on established design and installation procedures and practices and is replicable;
-
-(iii) Has professional service providers, trades, large construction equipment providers, and labor who are familiar with installation procedures and practices;
-
-(iv) Has proprietary and balance of system equipment and spare parts that are readily available;
-
-(v) Has service that is readily available to properly maintain and operate the system; and
-
-(vi) Has an existing established warranty that is valid in the United States for major parts and labor; or
-
-(2) A domestic or foreign system that has been certified by a recognized industry organization whose certification standards are acceptable to the Agency.
+*Collateral* means the asset(s), including assignments of relevant agreements, pledged by the borrower to the lender as security for the guaranteed loan.
 
 *Complete application* means an application that contains all parts necessary for the Agency to determine borrower and project eligibility, the financial feasibility and technical merit of the project, and contains sufficient information to determine a priority score for the application, if applicable.
 
@@ -80,7 +56,7 @@ The following definitions are applicable to the capitalized terms used in this p
 
 *Credit evaluation* means the analysis and evaluation by the lender of the credit factors associated with each application to ensure loan repayment through the use of credit documentation procedures and an underwriting process that is consistent with industry standards and the lender's written policy and procedures.
 
-*Debt Collection Improvement Act* means the Debt Collection Improvement Act of 1996, 31 U.S.C. 3701 *et seq.*
+*Debt Collection Improvement Act* (DCIA) means the Debt Collection Improvement Act of 1996, 31 U.S.C. 3701 *et seq.,* which requires that any nontax monies that are payable or may become payable from the United States under contracts and other written agreements to any person not an agency or subdivision of a state or local government may be subject to certain collection options, such as administrative offset, for a delinquent debt the person owes to the United States implemented under 7 CFR part 3.
 
 *Debt service coverage ratio* means the ratio obtained when taking earnings before interest, taxes, depreciation, and amortization less reasonably expected replacement capital expenditures divided by the annual debt service (principal and interest payments) of the borrower.
 
@@ -88,7 +64,7 @@ The following definitions are applicable to the capitalized terms used in this p
 
 *Deficiency judgment* means a monetary judgment rendered by a court of competent jurisdiction after foreclosure and liquidation of all collateral securing the loan.
 
-*Delinquency* means a situation that exists when a scheduled loan payment on a guaranteed loan made under this part is more than 30 calendar days past due and cannot be cured within the next 30 calendar days.
+*Delinquency* means a situation that exists when a scheduled loan payment on a guaranteed loan made under this part is more than 30 calendar days past due and cannot be cured within the next 30 calendar days. For purposes of this part, delinquency provides guidance for completing borrower status reports and is not used to define monetary or non-monetary default or undertaking-related servicing actions.
 
 *Departmental regulations* means the regulations of the Agency's Office of Chief Financial Officer (or successor office) as codified in 2 CFR chapter IV.
 
@@ -112,13 +88,7 @@ The following definitions are applicable to the capitalized terms used in this p
 
 *Energy efficiency improvement (EEI)* means improvements to or replacement of an existing building or systems, or equipment owned by the borrower, that reduces measurable energy consumption on an annual basis.
 
-*Energy efficient equipment and systems (EEE)* means equipment or systems for agricultural production or processing that exceed any of the following standards:
-
-(1) Energy efficiency building codes, if available;
-
-(2) Federal or State energy efficiency standards, if available;
-
-(3) Energy efficiency standards determined appropriate by the Secretary. If no codes or standards described in paragraphs (1) through (3) of this definition apply to the EEE proposed, then the Secretary shall require such equipment or system to meet the same efficiency measurement as the most efficient available equipment or system in the market and the Secretary shall not provide such a loan guarantee for the purchase and installation of any energy efficient equipment or system unless more than one type of such equipment or system is available in the market.
+*Energy efficient equipment and systems (EEE)* means equipment or systems for agricultural production or processing that exceed any of the following standards. Applications for energy efficient equipment and systems must clearly demonstrate energy efficiency.
 
 *Engineering documentation* means a document, normally prepared by the borrower's consulting engineer or other qualified party, that describes the existing system, analyzes alternatives, and proposes a specific course of action from an engineering perspective.
 
@@ -131,7 +101,7 @@ The following will be treated as existing businesses provided there is not a sig
 
 *Feasibility study* means a report including an opinion or finding conducted by an independent qualified consultant(s) evaluating the economic, market, technical, financial, and management feasibility of the proposed project or operation in terms of its expectation for success as outlined in appendix A to subpart D of this part.
 
-*Federal debt* means debt owed to the Federal Government that is subject to collection under the Debt Collection Improvement Act.
+*Federal debt* means debt owed to the Federal Government that is subject to collection under the Debt Collection Improvement Act of 1996, 31 U.S.C. 3701, *et seq.*
 
 *Federal fiscal year* means the 12-month period beginning October 1 of each year and ends on September 30 of the following year; it is designated by the calendar year in which it ends.
 
@@ -147,25 +117,25 @@ The following will be treated as existing businesses provided there is not a sig
 
 *Guaranteed loan* means a loan made and serviced by a lender for which the Agency and lender have entered into a lender's agreement and for which the Agency has issued a loan note guarantee. Unless otherwise specified, guaranteed loan refers to a loan that the Agency has guaranteed under this Part.
 
-*Guarantor* means a person giving assurance to the Agency under an Agency-approved written agreement that the borrower's obligations will be fulfilled and promising repayment of a guaranteed loan if the borrower should default.
+*Guarantor* means a person giving assurance to the Agency under an Agency-approved written agreement that the borrower's obligations will be fulfilled and promising *its undertaking of responsibility for* repayment of a guaranteed loan if the borrower should default.
 
 *Holder* means a person, other than the lender, who owns all or part of the guaranteed portion of the guaranteed loan with no servicing responsibilities.
 
-*Hospital.* (1) For the purpose of refinancing rural hospital debt in accordance with § 5001.102(d)(5), hospital means the following types of facilities defined in the Social Security Act, Section 1861 (42 U.S.C. 1395x):
+*Hospital* (1) For the purpose of refinancing rural hospital debt in accordance with § 5001.102(d)(5), hospital means the following types of facilities defined in the Social Security Act, Section 1861 (42 U.S.C. 1395x):
 
 (i) Hospital (section 1861(e)).
 
 (ii) Psychiatric hospital (section 1861(f)).
 
-(iii) Long-term care hospital (section 1861(ccc)); and shall also include the following other provider types defined in the Social Security Act, Section 1861 (42 U.S.C. 1395x):
+(iii) Long-term care hospital (section 1861(ccc)); and shall also include the following other provider types defined in the Social Security Act, Section 1861 (42 U.S.C. 1395X):
 
 (A) Critical access hospital (section 1861(mm)(1)).
 
 (B) Religious nonmedical health care institution (section 1861(ss)(1)).
 
-(2) The Agency will use the applicant provider's CMS Certification Number (CCN) to verify the applicant provider is listed as a “Hospital” for the “Provider or Supplier Type” category on the Centers for Medicare and Medicaid Services' Quality Certification and Oversight Reports (QCOR) website *https://qcor.cms.gov/index\_new.jsp.*
+(2) The Agency will use the applicant provider's Centers for Medicare and Medicaid Services (CMS) Certification Number (CCN) to verify the applicant provider is listed as a “Hospital” for the “Provider or Supplier Type” category on the CMS Quality Certification and Oversight Reports (QCOR) website *qcor.cms.gov/index\_new.jsp.*
 
-*Hybrid* means a combination of two or more renewable energy technologies that are incorporated into a unified system to support a single project.
+*Hybrid* means a combination of two or more renewable energy technologies that are incorporated into a unified system to support a single project. Projects which propose two or more different renewable energy technologies that are not incorporated into a unified system and projects which propose different renewable energy technologies at two or more locations (a different technology at each site) are not eligible. For example, installing wind technologies at one location and solar technologies at another location is not considered hybrid but installing wind and solar technologies that are incorporated into a unified system to support a single project at both locations is considered hybrid.
 
 *Hydroelectric source* means a renewable energy system producing electricity using various types of moving water including, but not limited to, diverted run-of-river water, in-stream run-of-river water, and in-conduit water.
 
@@ -209,7 +179,7 @@ The following will be treated as existing businesses provided there is not a sig
 
 *Local government* means a county, municipality, town, township, village, or other unit of general government below the State level. The term also includes Tribal governments when tribal lands are within the service area.
 
-*Local owner* means an individual who owns any portion of an entity that is the eligible borrower and whose primary residence is located within the normal commuting area of the guaranteed loan project.
+*Local owner* means an individual who owns any portion of an entity that is the eligible borrower and whose primary residence is located within the normal commuting area, typically 100 miles or less, of the guaranteed loan project.
 
 *Locally or regionally produced agricultural food product* means any agricultural food product that is raised, produced, and distributed in the locality or region in which the final product is marketed, so that the distance the product is transported is less than 400 miles from the origin of the product, or within the State in which the product is produced. Food products could be raw, cooked, or a processed edible substance, beverage, or ingredient used or intended for use or for sale in whole or in part for human consumption.
 
@@ -225,7 +195,7 @@ The following will be treated as existing businesses provided there is not a sig
 
 (5) The price represents the normal consideration for the property sold unaffected by special or creative financing or sales concessions granted by anyone associated with the sale.
 
-*Matching funds* means those project funds required by 7 U.S.C. 8107 to be eligible to receive the guaranteed loan. Funds provided by the borrower in excess of matching funds are not matching funds.
+*Matching funds* means the 25 percent of total eligible project costs required by 7 U.S.C. 8107 (REAP) to be eligible to receive a guaranteed loan. Funds provided by the borrower in excess of matching funds are not matching funds.
 
 *Material adverse change* means any change in circumstances associated with a guaranteed loan, including, without limitation, any change in the purpose of the loan, the borrower's financial condition or collateral that, individually or in the aggregate, have jeopardized, or could be reasonably expected to jeopardize, the borrower's repayment of the guaranteed loan.
 
@@ -235,7 +205,7 @@ The following will be treated as existing businesses provided there is not a sig
 
 *National Appeals Division* (NAD) means the division of the United States Department of Agriculture pursuant to 7 CFR part 11.
 
-*Natural resource value-added product* means a product derived from any naturally occurring resource, including agricultural resources, that is further processed to add value or used to generate energy or renewable energy.
+*Natural resource value-added product* means a product derived from any naturally occurring resource, including agricultural resources, that is further processed to add value or used to generate energy or renewable energy. For example, wind or the sun being used for energy generation, grapes that are processed into wine or jam, or straw that is processed into particle board. Feeding grain to livestock is not considered as part of this definition.
 
 *Negligent loan origination* means the failure of a lender to perform those services or actions that a reasonably prudent lender would perform in originating its own portfolio of loans that are not guaranteed. The term includes the concepts of failure to act, not acting in a timely manner, and acting in a manner contrary to the manner in which a reasonably prudent lender would act.
 
@@ -271,7 +241,7 @@ The following will be treated as existing businesses provided there is not a sig
 
 *Power purchase agreement* means the terms and conditions governing the sale and transportation of power produced by the borrower to another party.
 
-*Professional service* means services used by the borrower for planning and developing a project, including, but not limited to, appraisals, architectural services, surveys, environmental impact analyses, implementing mitigation measures, and establishing or acquiring property rights. Such services are generally rendered by persons licensed or certified by States or accreditation associations, such as architects, engineers, accountants, attorneys, or appraisers, and those rendered by loan packagers, but not including loan finders.
+*Professional service* means services used by the borrower for planning and developing a project, including, but not limited to, appraisals, architectural services, surveys, environmental impact analyses, implementing mitigation measures, and establishing or acquiring property rights. Such services are generally rendered by persons licensed or certified by States or accreditation associations, such as architects, engineers, accountants, attorneys, or appraisers, and those rendered by loan packagers, but not including loan finders. A loan finder fee is not considered a professional service.
 
 *Project* means the activity identified by a lender in its application for a loan guarantee for which the guaranteed loan funds will be used.
 
@@ -285,7 +255,7 @@ The following will be treated as existing businesses provided there is not a sig
 
 *Rated power* means the maximum amount of energy that can be created at any given time.
 
-*Refurbished* means a piece of equipment or renewable energy system that has been brought into a commercial facility, thoroughly inspected, and worn parts replaced and has a warranty that is approved by the Agency or its designee.
+*Refurbished* means a piece of equipment or renewable energy system that has been brought into a commercial facility, thoroughly inspected, and worn parts replaced and has a warranty that is approved by the Agency or its designee An example of refurbished equipment is a diesel engine that has been rebuilt to factory specifications. The purchase of used equipment which has not been refurbished is not eligible.
 
 *Regulated lending entity* means a lending entity that is subject to supervision and examination by an agency of the United States or a State; or a lending entity created specifically by State statute and operating under the direct supervision of a State government authority.
 
@@ -313,36 +283,45 @@ The following will be treated as existing businesses provided there is not a sig
 
 *Renewable energy site assessment* means a report providing information regarding and recommendations for the use of commercially available renewable energy technologies in the borrower's operation. The report must be prepared by a qualified consultant for the specific energy system and project proposed.
 
-*Renewable energy system (RES)* means a system that produces usable energy from a Renewable Energy source and may include:
+*Renewable energy system (RES)* means a system that produces usable energy from a renewable energy source. Co-firing with fossil fuels, natural gas or petroleum-based products or materials such as coal and other fuels, oils, chemicals, tires, or plastic are not eligible; and may include:
 
 (1) Distribution components necessary to move energy produced by such system to the initial point of sale; and
 
-(2) Other components and ancillary infrastructure of such system, such as a storage system; however, such system may not include a mechanism for dispensing energy at retail.
+(2) Other components and ancillary infrastructure of such system, such as a storage system; however, such system may not include a mechanism for dispensing energy at retail *e.g.,* a flexible fuel pump.
 
 *Report of loss* means an Agency-approved form used by lenders when reporting a financial loss under a guaranteed loan.
 
-*Retrofitting* means a modification to an existing building or installed equipment that incorporates a function or feature(s) not included in the original design when built or for the replacement of existing components with components that improve the original design and does not affect original warranty if the warranty is still in existence.
+*Retrofitting* means a modification to an existing building or installed equipment that incorporates a function or feature(s) not included in the original design when built or for the replacement of existing components with components that improve the original design and does not affect original warranty if the warranty is still in existence. Examples of retrofitting include:
 
-*Rural* and *rural area* means any area of a State not in a city or town that has a population of more than 50,000 inhabitants, not in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H) and (I).
-In making this determination, the Agency will use the latest decennial census of the United States. The following exclusions apply:
+(1) Installing newly designed blades to an existing wind turbine to enhance energy production.
+
+(2) Adding equipment or processes to or altering or enhancing an existing RES to improve production, efficiency, or financial viability, such as a feedstock retreater on an existing biodiesel production plant;
+
+(3) Adding a battery system to an existing RES;
+
+(4) Installing a steam turbine at an ethanol plant, or;
+
+(5) Installing a combined heat and power system for a pellet production facility.
+
+*Rural* and *rural area* means any area of a State not in a city or town that has a population of more than 50,000 inhabitants, and which excludes certain populations pursuant to 7 U.S.C. 1991(a)(13)(H), according to the latest decennial census of the United States and not in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants. In making this determination, the Agency will use the latest decennial census of the United States. Applications cannot be approved subject to meeting rural area requirements. Locations that are contiguous and adjacent to an urbanized area will be delineated as a non-eligible area in the Rural Development Property Eligibility Map found at: *https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do.* This map is maintained independently by another government agency and is oriented through census tract data. The following exclusions apply:
 
 (1) Any area in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants that has been determined to be “rural in character” as follows:
 
-(i) The determination that an area is “rural in character” will be made by the Under Secretary of Rural Development. The process to request a determination under this provision is outlined in paragraph (1)(ii) of this definition. The determination that an area is “rural in character” under this definition will apply to areas that are within:
+(i) The determination that an area is “rural in character” will be made by the Under Secretary of Rural Development. *Rural in character requests and determinations are project specific; e.g.**, if approved, the determination does not apply to any future request made within the same area.* The process to request a determination under this provision is outlined in paragraph (1)(ii) of this definition. The determination that an area is “rural in character” under this definition will apply to areas that are within:
 
 (A) An urbanized area that has two points on its boundary that are at least 40 miles apart, which is not contiguous or adjacent to a city or town that has a population of greater than 150,000 inhabitants or the urbanized area of such a city or town; or
 
 (B) An urbanized area contiguous and adjacent to a city or town of greater than 50,000 inhabitants that is within1/4 mile of a rural area.
 
-(ii) Units of local government may petition the Under Secretary of Rural Development for a “rural in character” designation by submitting a petition to the appropriate Rural Development State Director for recommendation to the Administrator on behalf of the Under Secretary. The petition shall document how the area meets the requirements of paragraph (1)(i)(A) or (B) of this definition and discuss why the petitioner believes the area is “rural in character,” including, but not limited to, the area's population density, demographics, and topography and how the local economy is tied to a rural economic base. Upon receiving a petition, the Under Secretary will consult with the applicable governor or leader in a similar position and request comments to be submitted within 5 business days, unless such comments were submitted with the petition. The Under Secretary will release to the public a notice of a petition filed by a unit of local government not later than 30 days after receipt of the petition by way of publication in a local newspaper and posting on the Agency's website at *https://www.rd.usda.gov/onerdguarantee,* and the Under Secretary will make a determination not less than 15 days, but no more than 60 days, after the release of the notice. Upon a negative determination, the Under Secretary will provide to the petitioner an opportunity to appeal a determination to the Under Secretary, and the petitioner will have 10 business days to appeal the determination and provide further information for consideration. The Under Secretary will make a determination of the appeal in not less than 15 days, but no more than 30 days.
+(ii) Units of local government may petition the Under Secretary of Rural Development for a “rural in character” designation by submitting a petition to the appropriate Rural Development State Director for recommendation to the Administrator on behalf of the Under Secretary. The petition shall document how the area meets the requirements of paragraph (1)(i)(A) or (B) of this definition and discuss why the petitioner believes the area is “rural in character,” including, but not limited to, the area's population density, demographics, and topography and how the local economy is tied to a rural economic base. Upon receiving a petition, the Under Secretary will consult with the applicable governor or leader in a similar position and request comments to be submitted within 5 business days, unless such comments were submitted with the petition. The Under Secretary will release to the public a notice of a petition filed by a unit of local government not later than 30 days after receipt of the petition by way of publication in a local newspaper and posting on the Agency's website at *rd.usda.gov/onerdguarantee,* and the Under Secretary will make a determination not less than 15 days, but no more than 60 days, after the release of the notice. Upon a negative determination, the Under Secretary will provide to the petitioner an opportunity to appeal a determination to the Under Secretary, and the petitioner will have 10 business days to appeal the determination and provide further information for consideration. The Under Secretary will make a determination of the appeal in not less than 15 days, but no more than 30 days.
 
-(iii) Rural Development State Directors may also initiate a request to the Under Secretary to determine if an area is “rural in character.” A written recommendation should be sent to the Administrator, on behalf of the Under Secretary, that documents how the area meets the statutory requirements of paragraph (1)(i)(B) of this definition and discusses why the State Director believes the area is “rural in character,” including, but not limited to, the area's population density, demographics, topography, and how the local economy is tied to a rural economic base. Upon receipt of such a request, the Administrator will review the request for compliance with the “rural in character” provisions and make a recommendation to the Under Secretary. Provided a favorable determination is made, the Under Secretary will consult with the applicable Governor and request comments within 10 business days, unless gubernatorial comments were submitted with the request. A public notice will be published by the State Office in accordance with paragraph (1)(ii) of this definition. There is no appeal process for requests made on the initiative of the State Director.
+(iii) Rural Development State Directors may also initiate a request to the Under Secretary to determine if an area is “rural in character.” A written recommendation must document how the area meets the statutory requirements of paragraph (1)(i)(B) of this definition and discusses why the State Director believes the area is “rural in character,” including, but not limited to, the area's population density, demographics, topography, and how the local economy is tied to a rural economic base. Upon receipt of such a request, the Administrator will review the request for compliance with the “rural in character” provisions and make a recommendation to the Under Secretary. Provided a favorable determination is made, the Under Secretary will consult with the applicable Governor and request comments within 10 business days, unless gubernatorial comments were submitted with the request. A public notice will be published by the State Office in accordance with paragraph (1)(ii) of this definition. There is no appeal process for requests made on the initiative of the State Director.
 
-(2) An area that is attached to the urbanized area of a city or town with more than 50,000 inhabitants by a contiguous area of urbanized census blocks that is not more than two census blocks wide. Applicants from such an area should work with their Rural Development State Office to request a determination of whether their project is located in a rural area under this provision.
+(2) An area that is attached to the urbanized area of a city or town with more than 50,000 inhabitants by a contiguous area of urbanized census blocks that is not more than two census blocks wide. Applicants from such an area should work with their Rural Development State Office to request a determination of whether their project is located in a rural area under this provision. This applies to areas that would not be considered a rural area because they are attached to the urbanized area of a city or town of greater than 50,000 inhabitants by a “string” area that is two census blocks wide or less (which are typically interstates or major highways). As long as the “string” area is two census blocks wide or less, the area outside of the urbanized area, beginning with the “string” area, may be considered rural. Once an area is approved as a string exception, any project within that area is eligible.
 
 (3) For the Commonwealth of Puerto Rico, the island is considered Rural and eligible except for the San Juan Census Designated Place (CDP) and any other CDP with greater than 50,000 inhabitants. Areas within CDPs with greater than 50,000 inhabitants, other than the San Juan CDP, may be determined to be Rural if they are “not urban in character.”
 
-(4) For the State of Hawaii, all areas within the State are considered rural and eligible except for the Honolulu CDP within the County of Honolulu and any other CDP with greater than 50,000 inhabitants. Areas within CDPs with greater than 50,000 inhabitants, other than the Honolulu CDP, may be determined to be Rural if they are “not urban in character.”
+(4) For the State of Hawaii, all areas within the State are considered rural and eligible except for the Honolulu CDP within the County of Honolulu and any other CDP with greater than 50,000 inhabitants. Areas within CDPs with greater than 50,000 inhabitants, other than the Honolulu CDP, may be determined to be rural if they are “not urban in character.”
 
 (5) For the purpose of defining a rural area in the Republic of Palau, the Federated States of Micronesia, and the Republic of the Marshall Islands, the Agency shall determine what constitutes rural and rural Area based on available population data.
 
@@ -352,7 +331,7 @@ In making this determination, the Agency will use the latest decennial census of
 
 *Significant ties* means, as determined by the agency, a facility under private control will carry out a public purpose and continue to primarily serve rural areas for CF projects (not applicable to public bodies and Federally Recognized Tribes) as evidenced by the following: Association with or control by a public body or bodies; or Broadly based membership and controlled primarily by members residing in the project service area. Membership must be open without regard to race, color, religion, national origin, sex, age, disability, sexual orientation, or marital or familial status.
 
-*Simple payback* means the estimated simple payback of a project funded under this part as calculated using paragraph (1), (2), or (3), as applicable, of this definition.
+*Simple payback* means the estimated simple payback of a project funded under this part as calculated using paragraph (1), (2), or (3) of this definition, as applicable.
 
 (1) Energy efficiency improvement projects simple payback = (Total Project Costs) ÷ (Dollar value of energy saved).
 
@@ -366,41 +345,45 @@ In making this determination, the Agency will use the latest decennial census of
 
 (ii) Energy efficiency improvement projects simple payback does not allow EEI to monetize benefits other than the dollar amount of the energy savings the agricultural producer or rural small business realizes as a result of the improvement.
 
+(iii) Proposed additional energy consumption by a business which would result in greater savings if implemented is not considered in the payback calculation.
+
 (2) Renewable energy systems projects simple payback = (total project costs) ÷ (dollar value of energy units replaced, credited, sold, or used and fair market value of byproducts as applicable in a typical year).
 
-(i) Value of energy replaced will be calculated based on the borrower entity's historical energy consumption with actual average price paid for the energy replaced, following the methodology outlined in paragraph (1)(i) of this definition.
+(i) Value of energy replaced will be calculated based on the borrower entity's historical energy consumption with actual average price paid for the energy replaced, following the methodology outlined in paragraph (1)(i) of this definition RES replacement projects which generate more energy than the applicant's historical records document, may add to the replacement value, the value obtained by taking the excess energy generated times a documented market price in order to derive at total dollar value of energy units replaced, credited, sold, or used.
 
 (ii) Value of energy credited or sold will be calculated based on the amount of energy units to be sold at the proposed rate per unit, as documented in utility net metering or crediting policies and/or a purchase agreement.
 
-(iii) If proposed energy will be used in a new facility, value of energy used will be calculated based on the amount of energy units to be used at the documented price per unit of conventional fuel alternative.
+(iii) If proposed energy will be used in a new facility (includes any direct-use project), value of energy used will be calculated based on the amount of energy units to be used at the documented price per unit of conventional fuel alternative.
 
 (iv) Value of byproducts produced by and used in the project or related enterprises should be documented at the fair market value to be received for the byproducts in a typical year.
 
-(v) Renewable energy systems projects simple payback does not include any one-time benefits such as but not limited to construction and investment-related benefits, nor credits which do not provide annual income to the project, such as tax credits.
+(v) Renewable energy systems projects simple payback does not include any one-time benefits such as but not limited to construction and investment-related benefits, nor credits which do not provide annual income to the project, such as tax credits. These benefits may be considered when appropriate for calculating repayment ability of guaranteed loans.
+
+(vi) For RES projects that involve a shared meter with a residence where the cost of the system has been prorated, only the eligible prorated amount of energy attributed to the rural business or agricultural producer will be used in the payback calculation. For projects that involve in-eligible expenses other than residential, the full amount of energy production will be used in the payback calculation.
 
 (3) Energy efficiency equipment and systems projects simple payback = (total project costs) ÷ (dollar value of efficiency savings). Efficiency savings will be determined by subtracting the annual value of energy to be consumed by the proposed energy efficient equipment from the annual value of energy that a conventional equipment alternative would have consumed. Adequate documentation must be provided for all consumption estimates and values utilized in the calculation.
 
-*Small business* means:
+*Small business* means an entity that meets the requirements of paragraphs (1) and (2) of this definition:
 
-(1) An entity or utility, as applicable, as further defined in paragraphs (1)(i) through (iv) and meeting the requirements in paragraph (2) of this definition. With the exception of the entities identified in this paragraph, all other non-profit entities are not small businesses for the purposes of REAP program eligibility:
+(1) An entity or utility, as applicable, as further defined in paragraphs (1)(i) through (iv) of this definition and meeting the requirements in paragraph (2) of this definition. With the exception of the entities identified in this paragraph, all other non-profit entities are not small businesses for the purposes of REAP program eligibility:
 
-(i) A private for-profit entity, including a sole proprietorship, partnership, or corporation;
+(i) A private for-profit entity, including a sole proprietorship, partnership, or corporation. The application must sufficiently describe the operations of the applicant's business entity;
 
 (ii) A cooperative (including a cooperative qualified under section 501(c)(12) of the Internal Revenue Code);
 
 (iii) An electric utility (including a Tribal or governmental electric utility) that provides service to rural consumers and operates independent of direct government control; or
 
-(iv) A Tribal corporation or other Tribal business entities that are chartered under Section 17 of the Indian Reorganization Act (25 U.S.C. 477) or have similar structures and relationships with their Tribal governments and are acceptable to the Agency. The Agency will determine the small business status of such Tribal entity without regard to the resources of the Tribal government; and
+(iv) A Tribal corporation or other Tribal business entities that are chartered under Section 17 of the Indian Reorganization Act (25 U.S.C. 5124) or have similar structures and relationships with their Tribal governments and are acceptable to the Agency. The Agency will determine the small business status of such Tribal entity without regard to the resources of the Tribal government. This means that only the applicant entity must meet the definition of a small business; and
 
-(2) An entity that meets Small Business Administration (SBA) size standards in accordance with 13 CFR part 121 and criteria of 13 CFR 121.301 as applicable to financial assistance programs, including paragraph (2)(i) or (ii) of this section. The size of the concern alone and the size of the concern combined with other entity(ies) it controls or entity(ies) it is controlled by, must not exceed the size standard thresholds designated for the industry in which the concern alone or the concern and its controlling entity(ies), whichever is higher, is primarily engaged.
+(2) An entity that meets the requirements of (i) or (ii) below:
 
-(i) The concern's tangible net worth is not in excess of $15 million and average net income (excluding carry-over losses) for the preceding two completed fiscal years is not in excess of $5.0 million; or
+(i) The Small Business Administration size standards in accordance with 13 CFR 121.301(a), and any successor regulation. The size of the applicant alone (without affiliates) must not exceed the size standard designated for the industry in which the applicant is primarily engaged. Also, the size of the applicant combined with its affiliates must not exceed the size standard designated for either the primary industry of the applicant alone or the primary industry of the applicant and its affiliates, whichever is higher. Size standards to be utilized are found in 13 CFR 121.201, and any successor regulation. The size standards themselves are expressed either in number of employees or annual receipts in millions of dollars, unless otherwise specified. The number of employees or annual receipts indicates the maximum allowed for an entity and its affiliates and are calculated using the following criteria:
 
-(ii) The size of the concern does not exceed the SBA size standard thresholds designated for the industry in which it is primarily engaged, as measured by number of employees or annual receipts. Industry size standard designations to be utilized are listed in the SBA's table of size standards found in 13 CFR 121.201. Number of employees and annuals receipts are calculated as follows:
+(A) The number of employees is calculated using the guidance found in 13 CFR 121.106, and any successor regulation. The average number of employees is used based upon number of employees for each of the pay periods for the preceding 24 months. Part-time and temporary employees are counted as full-time employees. If the entity has not been in business for 24 months, the average number of employees is used for each of the pay periods during which it has been in business; or
 
-(A) Number of employees is calculated as the average number of all individuals employed by a concern on a full-time, part-time, or other basis, based upon numbers of employees for each of the pay periods for the preceding completed 12 calendar months. If a concern has not been in business for 12 months, the average number of employees is used for each of the pay periods during which it has been in business.
+(B) Annual receipts are calculated using the guidance found in 13 CFR 121.104, and any successor regulation. Federal income tax returns and any amendments filed with the IRS on or before the date of application must be used. If an entity has not filed a Federal income tax return, the Agency will calculate the entities annual receipts using any other available information such as regular books of account, or audited financial statements; or
 
-(B) Annual receipts are calculated as average total income plus cost of goods sold for the five most recent years. If a concern has been in operation for less than 60 months, average annual receipts for as long as the concern has been in operation are used.
+(ii) The size standard outlined in 13 CFR 121.301(b)(2), and any successor regulation. Including its affiliates, the entity must not have a tangible net worth in excess of $20 million, and average net income after Federal income taxes (excluding carry over losses) for the preceding two completed fiscal year not in excess of $6.5 million.
 
 *State* means any of the 50 States of the United States, the Commonwealth of Puerto Rico, the District of Columbia, the U.S. Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of Palau, the Federated States of Micronesia, and the Republic of the Marshall Islands.
 
@@ -412,11 +395,11 @@ In making this determination, the Agency will use the latest decennial census of
 
 *Total eligible project costs* means the sum of all eligible project costs.
 
-*Total project costs* means the sum of all costs associated with a completed project.
+*Total project costs* means the sum of all costs associated with a completed project. All costs associated with a completed project, including ineligible project costs, must be included. Total project costs for retrofitting an existing RES includes the costs associated with the modifications or replacement of the existing components.
 
 *Transfer and assumption* means the Agency-approved conveyance by a borrower to an assuming borrower of the assets, collateral, and liabilities of the borrower in return for the assuming borrower's binding promise to pay the outstanding debt.
 
-*Underserved communities* mean communities (including urban or rural communities and Indian tribal communities) that have limited access to affordable, healthy foods, including fresh fruits and vegetables, in grocery retail stores or farmer-to-consumer direct markets and that have either a high rate of hunger or food insecurity or a high poverty rate as reflected in the most recent decennial census or other Agency-approved census.
+*Underserved communities* mean communities (including urban or rural communities and Indian tribal communities) that have limited access to affordable, healthy foods, including fresh fruits and vegetables, in grocery retail stores or farmer-to-consumer direct markets and that have either a high rate of hunger or food insecurity or a high poverty rate as reflected in the most recent decennial census or other Agency-approved census. For purposes of awarding priority points, when applicable, this definition shall also include unserved or underserved populations, including minorities or protected groups, persistent poverty areas, or areas where Rural Development projects have not been awarded in the past five years. High poverty rate is based on current census data and is not the same as persistent poverty which uses data for the last 30 years.
 
 *Uniform Standards of Professional Appraisal Practice (USPAP)* means the appraisal standards promulgated by the Appraisal Standards Board of the Appraisal Foundation.
 
@@ -430,4 +413,4 @@ In making this determination, the Agency will use the latest decennial census of
 
 *Working Capital* means current assets available to support a business' operations and growth. Working capital is calculated as current assets less current liabilities.
 
-[85 FR 42518, July 14, 2020, as amended at 85 FR 62196, Oct. 2, 2020; 86 FR 70354, Dec. 10, 2021; 87 FR 38645, June 29, 2022]
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62196, Oct. 2, 2020; 86 FR 70354, Dec. 10, 2021; 87 FR 38645, June 29, 2022; 89 FR 79704, Sept. 30, 2024]

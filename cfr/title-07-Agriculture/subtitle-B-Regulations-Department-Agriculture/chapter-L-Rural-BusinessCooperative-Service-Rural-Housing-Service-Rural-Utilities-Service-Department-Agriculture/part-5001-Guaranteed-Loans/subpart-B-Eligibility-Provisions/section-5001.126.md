@@ -1,12 +1,10 @@
 ##### § 5001.126 Borrower eligibility. #####
 
-Link to an amendment published at 89 FR 79714, Sept. 30, 2024.
+To be eligible for a loan guarantee under this part, a borrower must meet the requirements specified in this section at the time of each guaranteed loan's approval and through issuance of the loan note guarantee. A borrower must meet the eligibility requirements specified in paragraph (a) of this section and in paragraphs (b) through (e), as applicable, of this section.
 
-To be eligible for a loan guarantee under this part, a Borrower must meet the requirements specified in this section at the time of each guaranteed loan's approval and through issuance of the loan note guarantee. A borrower must meet the eligibility requirements specified in paragraph (a) of this section and in paragraphs (b) through (e), as applicable, of this section.
+(a) *Legal authority and responsibility.* The borrower must have, or obtain before issuance of the loan note guarantee, the legal authority necessary to construct, operate, and maintain the proposed facility and services and to obtain, give security for, and repay the proposed loan.
 
-(a) *Legal authority and responsibility.* The borrower must have, or obtain before issuance of the loan note guarantee, the legal authority necessary to construct, operate, and maintain the proposed Project and services and to obtain, give security for, and repay the proposed loan.
-
-(1) *Operating, maintaining, and managing the facility.* The borrower is responsible for operating, maintaining, and managing the facility and providing for its continued availability and use. The borrower will retain this responsibility even though the facility may be operated, maintained, or managed by a third party under contract, management agreement, or written lease. Leases may be used for certain projects when they are the only feasible way to provide the service or facility, are the customary practice to provide such service or facility within the industry or in the State, and provide for the borrower's management control of the Project. Contracts, management agreements, or written leases must not contain options or other provisions for transfer of ownership unless approved by the Agency.
+(1) *Operate and maintain the facility.* The borrower is responsible for operating, maintaining, and managing the facility and providing for its continued availability and use. The borrower will retain this responsibility even though the facility may be operated, maintained, or managed by a third party under contract, management agreement, or written lease. Leases may be used for certain projects when they are the only feasible way to provide the service or facility, are the customary practice to provide such service or facility within the industry or in the State and provide for the borrower's management control of the project. Contracts, management agreements, or written leases must not contain options or other provisions for transfer of ownership unless approved by the Agency. The borrower must own and retain control of the facility at all times; however, various types of ownership structures are permitted to bring in passive investor equity. These include but are not limited to partnership flips and inverted leases, which are common in the renewable energy industry. The anticipated release of passive tax credit investor entities resulting in a change in ownership control that does not impact the financial performance of the loan, as outlined at time of loan closing, does not constitute a transfer or assumption, nor require concurrence from the Agency.
 
 (2) *Co-borrowers.* Except for CF guaranteed loans in situations where any business or affiliate is dependent upon another's operations and are effectively one business or rely upon one another for loan repayment, they must be co-borrowers, unless waived by the Agency in writing when the Agency determines that adequate justification exists to not require the entities to be co-borrowers. Both co-borrowers must meet all requirements in this part. If the operating entity is truly independent and not reliant on another operation to remain viable or repay the debt, the Agency will allow one entity to be the sole borrower.
 
@@ -20,7 +18,7 @@ To be eligible for a loan guarantee under this part, a Borrower must meet the re
 
 (2) *Significant ties.* Have significant ties with the project service area (not applicable to public bodies and federally recognized Tribes) as evidenced by the following:
 
-(i) Association with or control by a public body or bodies; or
+(i) Association with or control by a public body or bodies typically evidenced in the organizational documents of the borrower; or
 
 (ii) Broadly based membership and controlled primarily by members residing in the project service area. Membership must be open without regard to race, color, religion, national origin, sex, age, disability, sexual orientation, or marital or familial status.
 
@@ -32,7 +30,7 @@ To be eligible for a loan guarantee under this part, a Borrower must meet the re
 
 (1) *Borrower type.* Be a public body, including Indian tribes on Federal and State reservations and other Federally recognized Indian tribes, or non-profit organization.
 
-(2) *Credit elsewhere.* In accordance with 7 U.S.C. 1983, certify in writing, subject to Agency verification, that the borrower is unable to finance the proposed project from their own resources or through commercial credit without a guarantee, at reasonable rates and terms. A loan guarantee will not be provided to borrowers who are able to obtain sufficient credit elsewhere to finance project costs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near where the borrower resides, for loans for similar purposes and periods of time, or to borrowers who are able to finance project costs from their own resources.
+(2) *Credit elsewhere.* In accordance with 7 U.S.C. 1983, certify in writing, subject to Agency verification, that the borrower is unable to finance the proposed project from their own resources or through commercial credit without a guarantee, at reasonable rates and terms. A loan guarantee will not be provided to borrowers who are able to obtain sufficient credit elsewhere to finance project costs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near where the borrower resides, for loans for similar purposes and periods of time, or to borrowers who are able to finance project costs from their own resources. All lenders are required to provide written certification that their borrowers are unable to afford commercial credit at reasonable rates and terms without the guarantee.
 
 (3) *Evidence of significant community support.* In accordance with 7 U.S.C. 2009h, the evidence shall be in the form of a certification of support for the project from each affected local government.
 
@@ -50,21 +48,21 @@ To be eligible for a loan guarantee under this part, a Borrower must meet the re
 
 (2) The borrower must be engaged in or proposing to engage in a business. A business may include manufacturing, wholesaling, retailing, providing services, or other activities that will provide employment or improve the economic or environmental climate in rural communities.
 
-(3) A borrower who is an individual must:
+(3) A borrower who is an individual must meet the requirements of (i) through (iii) below. Applications will neither be approved, nor a conditional commitment issued subject to meeting the citizenship requirement.
 
 (i) Be a citizen of the United States;
 
 (ii) Reside in the United States after being legally admitted for permanent residence and must provide a permanent green card as evidence of eligibility; or
 
-(iii) Be a citizen or resident of the Republic of Palau, the Federated States of Micronesia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the Republic of the Marshall Islands.
+(iii) Be a citizen or resident of the Republic of Palau, the Federated States of Micronesia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, or the Republic of the Marshall Islands.
 
-(4) A borrower must demonstrate, to the Agency's satisfaction, that guaranteed loan funds will remain in the United States and the Project being financed will primarily create new or save existing jobs for rural U.S. residents.
+(4) A borrower must demonstrate, to the Agency's satisfaction, that guaranteed loan funds will remain in the United States and the project being financed will primarily create new or save existing jobs for rural U.S. residents. To ensure that loan funds remain in the United States, loans must be collateralized with fixed assets that remain in the United States.
 
 (e) *REAP loan guarantees.* To be eligible for a loan guarantee under REAP, a borrower must meet the requirements specified in paragraphs (e)(1) through (5) of this section.
 
-(1) *Type of borrower.* The borrower must be either an agricultural producer or a rural small business.
+(1) *Type of borrower.* The borrower must be either an agricultural producer or a rural small business if applying for RES or EEI funding. The borrower must be an agricultural producer if applying for EEE funding. For-profit rural small businesses that provide long-term care services that benefit residents, such as nursing homes and assisted living facilities, are eligible. For-profit rural small businesses that provide short-term housing, such as hotels, are also eligible. Newly formed special purpose entities or equivalents that are clearly created solely for the circumvention of provisions prohibited by REAP statute are not eligible.
 
-(2) *Ownership.* The borrower must:
+(2) *Ownership.* The borrower at the time of application or no later than guaranteed loan closing and for the term of the guaranteed loan must:
 
 (i) Own the project; and
 
@@ -76,4 +74,4 @@ To be eligible for a loan guarantee under this part, a Borrower must meet the re
 
 (5) *Matching funds.* The borrower must demonstrate evidence of injection of matching funds in the project of not less than 25 percent of total eligible project costs. Passive third-party contributions are acceptable as matching funds for RES projects, including those raised from the sale of Federal tax credits.
 
-[85 FR 42518, July 14, 2020, as amended at 86 FR 70356, Dec. 10, 2021; 87 FR 42297, July 15, 2022]
+[85 FR 42518, July 14, 2020, as amended at 86 FR 70356, Dec. 10, 2021; 87 FR 42297, July 15, 2022; 89 FR 79714, Sept. 30, 2024]

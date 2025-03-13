@@ -1,7 +1,5 @@
 ##### § 5001.115 Ineligible projects—general. #####
 
-Link to an amendment published at 89 FR 79712, Sept. 30, 2024.
-
 The Agency will not issue a loan guarantee under this part for any of the projects identified in this section, unless otherwise noted. The following are ineligible projects for the CF, WWD, B&I and REAP programs:
 
 (a) Any investment or arbitrage, or any speculative real estate investment other than cooperative stock, transferable stock, cooperative equity in accordance with § 5001.140 and NMTC projects in accordance with § 5001.141.
@@ -26,11 +24,11 @@ The Agency will not issue a loan guarantee under this part for any of the projec
 
 (k) Community antenna television and radio services or facilities.
 
-(l) Telephone systems.
+(l) Telephone systems. In certain circumstances, when not eligible for assistance through the Agency's telecommunications program these projects may be eligible for assistance under this part.
 
 (m) New combined sanitary and storm water sewer facilities.
 
-(n) Except as provided in § 5001.105(b)(8), owner-occupied housing.
+(n) Except as provided in § 5001.105(b)(8), owner-occupied housing. Owner-occupied housing, such as bed and breakfasts, and hotels and motels, are only eligible when the pro-rata value of the owner's living quarters, based on square footage, is deducted from the loan proceeds.
 
 (o) Loans on which the interest is excludable from income under current or a successor statute of the Internal Revenue Code. Funds generated through the issuance of tax-exempt obligations cannot be used to purchase the guaranteed portion of any Agency guaranteed loan and an Agency guaranteed loan cannot serve as collateral for a tax-exempt issue.
 
@@ -38,6 +36,6 @@ The Agency will not issue a loan guarantee under this part for any of the projec
 
 (q) Except as provided in § 5001.106(d), residential RES projects.
 
-(r) Loans supporting inherently religious activities, such as worship, religious instruction, proselytization, or to pay costs associated with acquisition, construction, or rehabilitation of structures for inherently religious activities, including the financing of multi-purpose facilities where religious activities will be among the activities conducted. However, religious organizations may participate in projects eligible for funding under section 306(a)(24) of the Consolidated Farm and Rural Development Act, 7 U.S.C. 1926(a)(24), provided they do not use Agency assistance for inherently religious activities in accordance with 7 CFR part 16, “Equal Opportunity for Religious Organizations.”
+(r) Loans supporting inherently religious activities, such as worship, religious instruction, proselytization, or to pay costs associated with acquisition, construction, or rehabilitation of structures for inherently religious activities, including the financing of multi-purpose facilities where religious activities will be among the activities conducted. However, religious organizations may participate in projects eligible for funding under section 306(a)(24) of the Consolidated Farm and Rural Development Act, 7 U.S.C. 1926(a)(24), provided they do not use Agency assistance for inherently religious activities in accordance with 7 CFR part 16, “Equal Opportunity for Religious Organizations.” If an organization conducts religious activities, they must be offered separately, in time, or location from programs or services supported with the guaranteed loan. Participation in the religious activities must be voluntary, and not mandatory, for the beneficiaries of the program or services. Religious organizations may not discriminate against a beneficiary or prospective beneficiary, on the basis of religion or religious beliefs. Sanctuaries, chapels, or other rooms that are used as a principal place of worship are ineligible for guaranteed financing under this part.
 
-[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020; 86 FR 70356, Dec. 10, 2021]
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020; 86 FR 70356, Dec. 10, 2021; 89 FR 79712, Sept. 30, 2024]

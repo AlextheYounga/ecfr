@@ -1,8 +1,6 @@
 ##### § 5001.401 Interest rate provisions. #####
 
-Link to an amendment published at 89 FR 79725, Sept. 30, 2024.
-
-Interest rates, interest rate caps, and incremental interest rate adjustment limitations on a guaranteed loan are negotiated between the Lender and the borrower. The interest rate for a guaranteed loan can be either fixed or variable, or a combination thereof, as long as it is a legal rate. Interest rates cannot be more than those rates the lender customarily charges its borrowers for non-guaranteed loans in similar circumstances in the ordinary course of business. The Agency encourages each lender to use the secondary market and pass interest-rate savings on to the borrower.
+Interest rates, interest rate caps, and incremental interest rate adjustment limitations on a guaranteed loan are negotiated between the lender and the borrower. The interest rate for a guaranteed loan can be either fixed or variable, or a combination thereof, as long as it is a legal rate. Interest rates cannot be more than those rates the lender customarily charges its borrowers for non-guaranteed loans in similar circumstances in the ordinary course of business. The Agency encourages each lender to use the secondary market and pass interest-rate savings on to the borrower. If an interest rate swap is utilized, the guarantee will only cover principal and interest. The lender must provide the Agency with the overall effective interest rate charged to the borrower in the swap transaction. The Agency guarantee does not cover any fees related to the swap.
 
 (a) *Different rates on guaranteed and unguaranteed portion of the* guaranteed *loan.* It is permissible to have different interest rates on the guaranteed and unguaranteed portions of the loan.
 
@@ -14,8 +12,8 @@ Interest rates, interest rate caps, and incremental interest rate adjustment lim
 
 (3) The lender must incorporate, within the variable rate promissory note, a provision for adjustment of payment installments to fully amortize the loan by its maturity date.
 
-(c) *Multi-rates.* When multi-rates are used, the lender must provide the Agency with the overall effective Interest rate for the entire loan.
+(c) *Multi-rates.* When multi-rates are used, the lender must provide the Agency with the overall effective interest rate for the entire loan.
 
 (d) *Interest rate changes.* Any change in the base rate or fixed interest rate between issuance of the conditional commitment and loan closing must be approved by the Agency. Approval of such a change must be shown as an amendment to the conditional commitment and must be reflected on the guaranteed loan closing report form.
 
-[85 FR 42518, July 14, 2020, as amended at 86 FR 70357, Dec. 10, 2021]
+[85 FR 42518, July 14, 2020, as amended at 86 FR 70357, Dec. 10, 2021; 89 FR 79725, Sept. 30, 2024]

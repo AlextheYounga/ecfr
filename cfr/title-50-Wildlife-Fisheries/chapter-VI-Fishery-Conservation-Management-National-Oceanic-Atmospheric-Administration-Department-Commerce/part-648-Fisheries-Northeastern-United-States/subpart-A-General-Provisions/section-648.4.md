@@ -630,6 +630,10 @@ Link to an amendment published at 89 FR 85887, Oct. 29, 2024.
 
 (vii) The owner of a vessel that has been issued a Tier 1 or Tier 2 limited access Atlantic mackerel must submit a volumetric fish hold certification measurement, as described in paragraph (a)(5)(iii)(H) of this section, with the permit renewal application for the 2013 fishing year.
 
+(viii) [Reserved]
+
+(ix) An application for limited access *Illex* squid and Tier 1 longfin squid permit must also contain the primary vessel processing type for the coming fishing year.
+
 (d) *Fees.* The Regional Administrator may charge a fee to recover administrative expenses of issuing a permit required under this section. The amount of the fee is calculated in accordance with the procedures of the NOAA Finance Handbook, available from the Regional Administrator, for determining administrative costs of each special product or service. The fee may not exceed such costs and is specified with each application form. The appropriate fee must accompany each application; if it does not, the application will be considered incomplete for purposes of paragraph (e) of this section. Any fee paid by an insufficiently funded commercial instrument shall render any permit issued on the basis thereof null and void.
 
 (e) *Issuance.* (1) Except as provided in subpart D of 15 CFR part 904, the Regional Administrator shall issue a permit within 30 days of receipt of the application, unless the application is deemed incomplete for the following reasons:

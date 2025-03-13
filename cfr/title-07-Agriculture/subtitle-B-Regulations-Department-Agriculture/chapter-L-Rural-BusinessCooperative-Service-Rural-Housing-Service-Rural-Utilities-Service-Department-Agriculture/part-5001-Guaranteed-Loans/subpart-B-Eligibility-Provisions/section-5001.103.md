@@ -1,16 +1,46 @@
 ##### § 5001.103 Eligible CF projects and requirements. #####
 
-Link to an amendment published at 89 FR 79709, Sept. 30, 2024.
-
 For a CF projects to be eligible for a loan guarantee under this part, it must meet the criteria specified in § 5001.102 and this section and be for a borrower eligible to submit an application for the project in accordance with § 5001.126.
 
 (a) *Type of project.* The project must be for the construction, enlargement, extension, or to otherwise improve an essential community facility. Essential community facilities include, but are not limited to:
 
-(1) Health care facilities and services, including but not limited to hospitals;
+(1) Health care facilities and services, including but not limited to hospitals and assisted living facilities providing daily living and health care assistance in compliance with Federal, Tribal and/or State licensure or certification requirements;
 
 (2) Fire, rescue, and public safety facilities and services;
 
-(3) Community, public, social, educational, or cultural facilities or services;
+(3) Community, public, social, educational, or cultural facilities or services, including but not limited to:
+
+(i) Business incubators when not an inherently commercial enterprise, and the applicant demonstrates the following:
+
+(A) Applicant is a mission-driven organization such as a local or regional economic development organization;
+
+(B) The facility will be used to provide technical assistance, training, workforce development, administrative support services and vocational training to address workforce shortages in the community or region; and
+
+(C) Capacity building and support services that include at a minimum the following with the borrower demonstrating expertise in one or more of these services or presents a sustainable economically feasible program to outsource such activities:
+
+(*1*) Business plan development;
+
+(*2*) Administrative support services;
+
+(*3*) Training and technical assistance;
+
+(*4*) Mentoring, coaching, and leadership;
+
+(*5*) Finance and accounting workshops;
+
+(*6*) Programs to access capital; and
+
+(*7*) High-speed internet access;
+
+(ii) Thrift stores that operate as charitable organizations to enrich the quality of life for residents of the rural community they serve demonstrated by the following activities:
+
+(A) Collect and resell used or donated merchandise to community residents and may also provide other services such as job training or food pantries;
+
+(B) Receive donations, gifts, or bequests of money to help fund the organization and its purpose with a significant portion obtained from the rural community it serves.
+
+(C) Profits are reinvested in the facility or in charitable activities in the rural community served to ensure the goals of the organization are met.
+
+(iii) Fairgrounds, agricultural exposition centers, farmers markets, food distribution and food banks;
 
 (4) Transportation facilities such as streets, bridges, roads, ports, and airports;
 
@@ -40,10 +70,18 @@ For a CF projects to be eligible for a loan guarantee under this part, it must m
 
 (b) *Public use.* All facilities financed under the provisions of this section will be for public use.
 
-(1) To demonstrate availability for public use, the borrower may not restrict use of or membership to its facility or service based on race, color, religion, sex, national origin, age, disability, sexual orientation, or marital or familial status.
-
-(i) However, 7 CFR 15a.215(b) provides that the membership practices of the Young Men's Christian Association (YMCA), the Young Women's Christian Association (YWCA), the Girl Scouts, the Boy Scouts, and Camp Fire Girls are exempt from open membership practices on the basis of sex.
-
-(ii) If membership or admission is customarily required to access and use the facility or service, any individual who applies for membership or admission must be given membership, admitted, or be placed on a waiting list to join as space becomes available on a first-come, first-served basis. This does not preclude an essential community facility from having a threshold admission requirement, such as a college or university requiring their applicants to have a certain grade point average before they are considered for admission. The standard must be applied consistently to all applicants and be common to the industry.
+(1) To demonstrate availability for public use, the borrower may not restrict use of or membership to its facility or service based on race, color, religion, sex, national origin, age, disability, sexual orientation, or marital or familial status Veterans of Foreign Wars and American Legion post facilities must be open and available for use by appointment or lease to community residents or groups.
 
 (c) *Project location.* The project must be located in a rural area as defined in § 5001.3 of this part, except that utility projects serving both rural and non-rural areas are eligible for a loan guarantee regardless of project location. For such utility projects, the Agency will guarantee the rural area portion of the project and only the portion of the project necessary to provide the essential services to rural areas. The part of the facility located in a non-rural area must be necessary to provide the essential services to rural areas. The availability of funds for CF projects is contingent on its rural area population and the reservation of funds outlined in § 5001.316(e).
+
+(d) *Leased space.* Eligible projects may include leased space to ineligible organizations or leased space used for ineligible commercial activities provided the floor space leased to ineligible organizations or used for ineligible commercial activity is less than 25 percent of the facility's floor space. The ineligible organization and the ineligible commercial activity must be related to and enhance the primary purpose of the eligible project. Examples include a hair salon in an assisted living facility, or a pharmacy in a medical facility.
+
+(e) *Purchase of existing facility.* When the project is to otherwise improve an essential community facility through the purchase of an existing facility as defined in § 5001.3 the following are required:
+
+(1) An appraisal which demonstrates the purchase price is fair and reasonable and represents the market value of the facility through an arm's length transaction; and
+
+(2) If the transaction is necessary to improve the facility, documentation of the improvements that will be required and the plan, including source of funding, to complete those improvements within a reasonable timeframe; or
+
+(3) If the transaction is necessary to prevent a loss of service, documentation in the form of a financial analysis that demonstrates the seller will not have the financial means to continue to operate the facility and provide the needed services.
+
+[85 FR 42518, July 14, 2020, as amended at 89 FR 79709, Sept. 30, 2024]

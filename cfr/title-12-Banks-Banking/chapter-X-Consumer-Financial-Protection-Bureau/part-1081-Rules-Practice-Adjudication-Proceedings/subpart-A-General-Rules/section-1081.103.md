@@ -14,7 +14,9 @@ For the purposes of this part, unless explicitly stated to the contrary:
 
 *Director* means the Director of the Bureau or a person authorized to perform the functions of the Director in accordance with the law.
 
-*Enforcement counsel* means any individual who files a notice of appearance as counsel on behalf of the Office of Enforcement in an adjudication proceeding.
+*Enforcement counsel* means any individual who files a notice of appearance as counsel on behalf of the Enforcement Division in an adjudication proceeding.
+
+*Enforcement Division* means the unit of the Bureau responsible for enforcement of Federal consumer financial law or other laws enforceable by the Bureau.
 
 *Final order* means an order issued by the Bureau with or without the consent of the respondent, which has become final, without regard to the pendency of any petition for reconsideration or review.
 
@@ -26,9 +28,7 @@ For the purposes of this part, unless explicitly stated to the contrary:
 
 *Office of Administrative Adjudication* means the office of the Bureau responsible for conducting adjudication proceedings.
 
-*Office of Enforcement* means the office of the Bureau responsible for enforcement of Federal consumer financial law or other laws enforceable by the Bureau.
-
-*Party* means the Office of Enforcement, any person named as a party in any notice of charges issued pursuant to this part, and, to the extent applicable, any person who intervenes in the proceeding pursuant to § 1081.119(a) to seek a protective order.
+*Party* means the Enforcement Division, any person named as a party in any notice of charges issued pursuant to this part, and, to the extent applicable, any person who intervenes in the proceeding pursuant to § 1081.119(a) to seek a protective order.
 
 *Person* means an individual, partnership, company, corporation, association (incorporated or unincorporated), trust, estate, cooperative organization, or other entity.
 
@@ -37,3 +37,5 @@ For the purposes of this part, unless explicitly stated to the contrary:
 *Respondent* means the party named in the notice of charges.
 
 *State* means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands or any federally recognized Indian tribe, as defined by the Secretary of the Interior under section 104(a) of the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 479a-1(a).
+
+[87 FR 10034, Feb. 22, 2022, as amended at 89 FR 94601, Nov. 29, 2024]

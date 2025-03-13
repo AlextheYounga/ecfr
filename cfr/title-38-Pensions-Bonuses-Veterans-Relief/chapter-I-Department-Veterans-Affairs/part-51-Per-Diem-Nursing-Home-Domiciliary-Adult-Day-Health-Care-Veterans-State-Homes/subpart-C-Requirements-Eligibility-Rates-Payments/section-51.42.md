@@ -1,7 +1,5 @@
 ##### § 51.42 Payment procedures. #####
 
-Link to an amendment published at 89 FR 86249, Oct. 30, 2024.
-
 (a) *Forms required*—(1) *Forms required at time of admission or enrollment.* As a condition for receiving payment of per diem under this part, the State home must submit the forms identified in paragraphs (a)(1)(i) and (ii) of this section to the VA medical center of jurisdiction for each veteran at the time of the veteran's admission to or enrollment in a State home. If the home is not a recognized State home, the home must, after recognition, submit forms for Veterans who received care on and after the date of the completion of the VA survey that provided the basis for determining that the home met the standards of this part. The State home must also submit the appropriate form with any request for a change in the type of per diem paid on behalf of a veteran as a result of a change in the veteran's program of care or a change in the veteran's service-connected disability rating that makes the veteran's care eligible for payment under § 51.41. Copies of VA Forms can be obtained from any VA Medical Center and are available on our website at *www.va.gov/vaforms.* The required forms are:
 
 (i) A completed VA Form 10-10EZ, Application for Medical Benefits (or VA Form 10-10EZR, Health Benefits Renewal Form, if a completed Form 10-10EZ is already on file at VA).
@@ -20,4 +18,14 @@ Domiciliary applicants and residents must complete the financial disclosure sect
 
 (3) *Payments for eligible veterans.* When a State home admits or enrolls an eligible veteran, VA will pay per diem under this part from the date of receipt of the completed forms required by this section, except that VA will pay per diem from the date care began if the Director receives the completed forms no later than 10 calendar days after care began. VA will make retroactive payments of per diem under paragraphs (b)(1) and (2) of this section only if the Director receives the completed forms that must be submitted under this section.
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control numbers 2900-0091 and 2900-0160)[83 FR 61274, Nov. 28, 2018]
+(c) *Retroactive payments.* VA will make per diem payments under this part retroactive to the date specified by paragraph (b)(3) of this section, or January 5, 2021, whichever date is later, if all the following are met:
+
+(1) Within 90 calendar days of [EFFECTIVE DATE OF FINAL RULE] the State home provides VA a written list of veterans' names for whom completed forms were received by VA on or after January 5, 2021, and the State home requests that VA consider them for a waiver under § 51.51(b)(2);
+
+(2) With respect to the veterans on the written list under paragraph (c)(1) of this section, VA denied the State's request for per diem for the veterans when their forms were originally submitted and the denial was solely because the veteran did not meet the requirements under 38 CFR 51.51(b) (2021);
+
+(3) Upon VA review, the veteran would have received a waiver under § 51.51(b)(2) if that paragraph had been in effect when the request for per diem was originally submitted; and
+
+(4) Within 90 calendar days of [EFFECTIVE DATE OF FINAL RULE] the State home submits to VA a completed VA Form 10-5588, State Home Report and Statement of Federal Aid Claimed, for each month that the State home provided domiciliary care to a veteran for whom the home is requesting a waiver. The form would only cover the veterans not originally included on the form when submitted previously for that month.
+
+(The Office of Management and Budget has approved the information collection requirements in this section under control numbers 2900-0091 and 2900-0160)[83 FR 61274, Nov. 28, 2018, as amended at 89 FR 86249, Oct. 30, 2024]

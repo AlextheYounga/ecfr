@@ -4,4 +4,6 @@
 
 (b) When the facts disclosed by an investigation indicate that an enforcement action is not necessary or would not be in the public interest, the investigational file will be closed. The matter may be further investigated, at any time, if circumstances so warrant.
 
-(c) The Assistant Director of the Office of Enforcement and the Deputy Assistant Directors of the Office of Enforcement are authorized to close Bureau investigations.
+(c) The Enforcement Director and the Deputy Enforcement Directors are authorized to close Bureau investigations.
+
+[77 FR 39108, June 29, 2012, as amended at 89 FR 94601, Nov. 29, 2024]

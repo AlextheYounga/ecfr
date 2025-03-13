@@ -1,12 +1,10 @@
 ##### § 5001.450 General. #####
 
-Link to an amendment published at 89 FR 79726, Sept. 30, 2024.
-
 (a) *Full faith and credit.* A loan note guarantee issued under this part constitutes an obligation supported by the full faith and credit of the United States and is incontestable except for fraud or misrepresentation of which a lender or holder has actual knowledge at the time it becomes such lender or holder, or which a lender or holder participates in or condones.
 
 (b) *Conditions of guarantee.* A guaranteed loan under this part will be evidenced by a loan note guarantee issued by the Agency.
 
-(1) The entire loan must be secured by the same collateral with equal lien priority for the guaranteed and unguaranteed portions of the loan. The unguaranteed portion of the guaranteed loan will neither be paid first nor given any preference or priority over the guaranteed portion. A parity or junior lien position in the guaranteed loan collateral may be considered on a case-by-case basis and must be approved by the Agency.
+(1) The entire loan must be secured by the same collateral with equal lien priority for the guaranteed and unguaranteed portions of the loan. The unguaranteed portion of the guaranteed loan will neither be paid first nor given any preference or priority over the guaranteed portion. A parity or junior lien position in the guaranteed loan collateral may be considered on a case-by-case basis and must be approved by the Agency during the loan approval process. Requirements for guaranteed loans to purchase cooperative stock are found in § 5001.140.
 
 (2) The lender must remain mortgagee and secured party of record notwithstanding the fact that another party may hold a portion of the guaranteed loan.
 
@@ -32,14 +30,14 @@ Link to an amendment published at 89 FR 79726, Sept. 30, 2024.
 
 (c) *Accrued interest payments.* If a loan has been guaranteed by the Agency prior to October 1, 2020, the Agency will guarantee the lender and any holders accrued interest in accordance with the applicable regulations in effect for the respective program at the time the loan was guaranteed. For all guaranteed loans closed on or after October 1, 2020, the Agency will guarantee accrued interest in accordance with paragraph (c)(1) or (2), as applicable, of this section.
 
-(1) If the lender owns all or a portion of the guaranteed portion of the guaranteed loan or makes a protective advance, the Agency, in its sole discretion, may cover interest on the guaranteed portion for the 90 days from the most recent delinquency effective date, and up to a total of 180 days, only if:
+(1) If the lender owns all or a portion of the guaranteed portion of the guaranteed loan or makes a protective advance, the Agency, in its sole discretion, may cover interest on the guaranteed portion for the 90 days from the most recent delinquency effective date. Per paragraph (c)(2) of this section, if applicable, the lender should issue an interest termination letter to any holder(s) and provide the Agency with a copy. The Agency will entertain the payment of interest up to 180 days past the most recent delinquency effective date only if:
 
 (i) The lender, and not the Agency, has repurchased all holder interests in the guaranteed loan in accordance with § 5001.511;
 
 (ii) The lender is actively engaged in a credit resolution with the borrower to bring the account current or fully liquidate the collateral under the terms of a liquidation plan approved by the Agency; and
 
-(iii) Concurrence for inclusion of the extended period of interest to the lender is received from the Agency.
+(iii) Concurrence for inclusion of the extended period of interest to the lender is received from the Agency. The lender must request an extension of accrued interest in writing and document their collection efforts and timeframe for full resolution, which must be within 180 days from the most recent delinquency. Approved collection efforts that will extend longer than 180 days from the most recent delinquency date will be limited to 90 days of accrued interest payment from the Agency.
 
-(2) If the guaranteed loan has one or more holders, the lender will issue an interest termination letter to each holder establishing the termination date for interest accrual. The loan note guarantee will not cover interest to any holder accruing after 90 days from the date of the interest termination letter. The Agency at its sole discretion may notify each holder of the interest termination provisions if it is determined that lender correspondence to holders is in-adequate.
+(2) If the guaranteed loan has one or more holders, the lender will issue an interest termination letter to each holder establishing the termination date for interest accrual and provide the Agency with a copy. The loan note guarantee will not cover interest to any holder accruing after 90 days from the date of the interest termination letter. The Agency at its sole discretion may notify each holder of the interest termination provisions if it is determined that lender correspondence to holders is inadequate.
 
-[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020]
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020; 89 FR 79726, Sept. 30, 2024]

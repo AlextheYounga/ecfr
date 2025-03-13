@@ -1,7 +1,5 @@
 ##### § 5001.506 Loan transfers and assumptions. #####
 
-Link to an amendment published at 89 FR 79727, Sept. 30, 2024.
-
 (a) *General.* A lender must obtain prior written Agency approval in accordance with paragraph (c) of this section before the lender conducts a transfer and assumption of a guaranteed loan. The transferee will assume a loan amount at least equal to the outstanding loan balance or the present market value of the collateral, whichever is less. If the transferor is to receive a payment for their equity, the total debt must be assumed. The following conditions must be met:
 
 (1) All transfers and assumptions will have a fee as provided by § 5001.509(b).
@@ -56,7 +54,7 @@ Link to an amendment published at 89 FR 79727, Sept. 30, 2024.
 
 (d) *Release of liability.* The transferor, including any guarantor, can be released from liability only with prior Agency written approval when the transfer and assumption is for the full outstanding balance of the guaranteed loan. If the assumption is for less than the full amount of the loan and the Agency pays a loss to the lender, the transferor, including any guarantor, are specifically subject to the Debt Collection Improvement Act provisions unless other workout arrangements have been made.
 
-(e) *Loan agreement.* A new loan agreement or an assumption agreement, acceptable to the Agency must be executed to establish the terms and conditions of the loan being assumed
+(e) *Loan agreement.* A new loan agreement or an assumption agreement, acceptable to the Agency must be executed to establish the terms and conditions of the loan being assumed.
 
 (f) *Changes in loan terms.* When a transfer or assumption is made to an eligible borrower continuing the project for eligible purposes, the loan terms may remain the same or may be changed whether the transfer is for the total indebtedness or less than the total indebtedness. If the loan terms are to be changed, the lender must submit a request in accordance with this paragraph (f). The changed loan terms must be concurred to by the Agency, all holders, and the transferee (including guarantors). If there are changes in loan terms, the lender's request will require the following:
 
@@ -72,7 +70,7 @@ Link to an amendment published at 89 FR 79727, Sept. 30, 2024.
 
 (j) *Credit quality.* The lender must make a complete credit evaluation in accordance with § 5001.202 of this part to determine viability of the project (subject to the Agency review and approval) including any requirement for deposits in an escrow account as security to meet the applicable equity requirements for the project.
 
-(k) *Appraisals.* If the proposed Transfer and Assumption is for less than the full amount of the guaranteed loan, an appraisal is required on all the collateral being transferred, and the amount of the assumption must not be less than this appraised value. The lender is responsible for obtaining the appraisal, which must conform to the requirements of § 5001.203 of this part. However, if the original appraisal is more than one year old, but less than two years old, the lender may provide an appraisal with a new effective date of evaluation in lieu of a completely new appraisal.
+(k) *Appraisals.* If the proposed transfer and assumption is for less than the full amount of the guaranteed loan, an appraisal is required on all the collateral being transferred, and the amount of the assumption must not be less than this appraised value. The lender is responsible for obtaining the appraisal, which must conform to the requirements of § 5001.203 of this part. However, if the original appraisal is more than one year old, but less than two years old, the lender may provide an appraisal with a new effective date of evaluation in lieu of a completely new appraisal.
 
 (l) *Legal opinion.* Prior to Agency approval, the lender must provide the Agency a preliminary written legal opinion that the guaranteed loan can be properly and legally transferred and assurance that the conveyance instruments will be appropriately filed, registered, and recorded. Upon execution of the transfer and assumption, the lender must provide the Agency with a final legal opinion that the assumption is completed, valid, and enforceable, and the assumption is consistent with the conditions outlined in the Agency's conditions of approval for the transfer and complies with all Agency regulations.
 
@@ -91,3 +89,5 @@ Link to an amendment published at 89 FR 79727, Sept. 30, 2024.
 (3) The lender determines that the transferee has the repayment ability to meet the obligations of the assumed guaranteed loan as well as any other indebtedness.
 
 (p) *Change in control of borrower.* The Agency will deem that a transfer and assumption has occurred whenever there is a significant change in the control of the borrower.
+
+[85 FR 42518, July 14, 2020, as amended at 89 FR 79727, Sept. 30, 2024]

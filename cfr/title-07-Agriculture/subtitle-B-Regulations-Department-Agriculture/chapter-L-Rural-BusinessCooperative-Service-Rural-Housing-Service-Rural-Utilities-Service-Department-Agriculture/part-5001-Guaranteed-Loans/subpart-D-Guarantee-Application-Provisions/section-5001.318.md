@@ -1,12 +1,10 @@
 ##### § 5001.318 B&I project priority point system. #####
 
-Link to an amendment published at 89 FR 79722, Sept. 30, 2024.
-
 This section applies to B&I projects seeking a loan guarantee. When applications on hand have the same priority score, the Agency will give preference to applications involving guaranteed loans from veterans. To receive veteran points, a veteran or veterans must own 20 percent or more interest in the borrower and the borrower must sign a certification in its application to indicate that the borrower has veteran status. A maximum of 100 points can be awarded.
 
 (a) *Population priority.* If the project is located in an unincorporated area or in a city with a population under 25,000, 5 points will be awarded.
 
-(b) *Location priority.* An application is eligible to receive points under each of the categories identified in paragraphs (b)(1) through (3) of this section if the Project is located within:
+(b) *Location priority.* An application is eligible to receive points under each of the categories identified in paragraphs (b)(1) through (3) of this section if the project is located within:
 
 (1) A distressed community in accordance with the Economic Innovation Group distressed community index. The list can be found on the Agency's website at: *https://www.rd.usda.gov/onerdguarantee,* 5 points will be awarded.
 
@@ -48,4 +46,4 @@ This section applies to B&I projects seeking a loan guarantee. When applications
 
 (3) If an application is for a loan in excess of 10 million dollars, the Administrator may assign up to an additional 10 points to account for the nationwide geographic distribution of funds, or projects that will fulfill an Agency special initiative.
 
-[85 FR 42518, July 14, 2020, as amended at 86 FR 70357, Dec. 10, 2021]
+[85 FR 42518, July 14, 2020, as amended at 86 FR 70357, Dec. 10, 2021; 89 FR 79722, Sept. 30, 2024]
