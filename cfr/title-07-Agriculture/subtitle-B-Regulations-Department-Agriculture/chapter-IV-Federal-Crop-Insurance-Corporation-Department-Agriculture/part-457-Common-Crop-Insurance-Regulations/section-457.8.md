@@ -764,7 +764,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (i) The approved APH yield is greater than 115 percent of the average of the approved yields of all applicable APH databases for your farming operation that have actual yields in them or it is greater than 115 percent of the county transitional yield if no applicable APH databases exist for comparison;
 
-(ii) The current year's insurable acreage (including applicable prevented planting acreage) is greater than 400 percent of the average number of acres in the APH databaseor the acres contained in two or more individual years in the APH database are each less than 10 percent of the current year's insurable acreage in the unit (including applicable prevented planting acreage); and
+(ii) The current year's insurable acreage (including applicable prevented planting acreage) is greater than 400 percent of the average number of acres in the APH database or the acres contained in two or more individual years in the APH database are each less than 10 percent of the current year's insurable acreage in the unit (including applicable prevented planting acreage); and
 
 (iii) We determine there is no valid agronomic basis to support the approved yield; or
 
@@ -780,7 +780,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (ii) You must notify us of changes in your production method by the acreage reporting date. If you fail to notify us, in addition to the reduction of your approved yield described herein, you will be considered to have misreported information and you will be subject to the consequences in section 6(g). For example, for a non-irrigated APH database, your yield is based upon acreage of the crop that is watered once prior to planting, and the crop is not watered prior to planting for the current crop year. Your approved APH yield will be reduced to an amount consistent with the actual production history of your other non-irrigated APH database where the crop has not been watered prior to planting or limited to the non-irrigated transitional yield for the APH database if other such APH databases do not exist.
 
-(i) Unless you meet the double cropping requirements contained in section 17(f)(4), if you elect to plant a second crop on acreage where the first insured crop was prevented from being planted, you will receive a yield equal to 60 percent of the approved yield for the first insured crop to calculate your average yield for subsequent crop years not applicableto crops if the APH is not the basis for the insurance guarantee). If the unit contains both prevented planting and planted acreage of the same crop, the yield for such acreage will be determined by:
+(i) Unless you meet the double cropping requirements contained in section 17(f)(4), if you elect to plant a second crop on acreage where the first insured crop was prevented from being planted, you will receive a yield equal to 60 percent of the approved yield for the first insured crop to calculate your average yield for subsequent crop years not applicable to crops if the APH is not the basis for the insurance guarantee). If the unit contains both prevented planting and planted acreage of the same crop, the yield for such acreage will be determined by:
 
 (1) Multiplying the number of insured prevented planting acres by 60 percent of the approved yield for the first insured crop;
 
@@ -926,7 +926,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (i) The last date any timely planted acreage was planted and the number of acres planted by such date; and
 
-(ii) The date of planting and the number of acres planted per day for acreage planted during the late planting period (if you faill to report the number of acres planted on a daily basis, all acreage planted in the late planting period will be presumed to have been planted on the last day planting took place in the late planting period for the purposes of section 16);
+(ii) The date of planting and the number of acres planted per day for acreage planted during the late planting period (if you fail to report the number of acres planted on a daily basis, all acreage planted in the late planting period will be presumed to have been planted on the last day planting took place in the late planting period for the purposes of section 16);
 
 (2) Your share at the time coverage begins;
 
@@ -2304,11 +2304,11 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (*i*) One enterprise unit for all irrigated or non-irrigated practices provided you meet the requirements in section 34(a)(2), and basic or optional units for the other practice, whichever you report on your acreage report and qualify for;
 
-(*ii*) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4); or
+(*ii*) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(2); or
 
 (*iii*) Basic or optional units for all acreage of the crop in the county, whichever you report on your acreage report and qualify for; or
 
-(*2*) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4). Otherwise, we will assign the basic unit structure.
+(*2*) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(2). Otherwise, we will assign the basic unit structure.
 
 (D) If you elected an enterprise unit on one practice (irrigated or non-irrigated) and a different unit structure on the other practice and we discover you do not qualify for an enterprise unit for the irrigated or non-irrigated practice and such discovery is made:
 
@@ -2328,7 +2328,7 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (*2*) With us (*e.g.,* if you insure your corn and canola with us and your soybeans with a different insurance provider, the corn, soybeans and canola would be assigned the unit structure in accordance with section 34(a)(3)(v)); and
 
-(*3*) At the same coverage level (e.g., if you elect to insure your corn and canola at the 65 percent coverage level and your soybeans at the 75 percent coverage level, the corn, soybeans and canola would be assigned the unit structure in accordance with section 34(a)(3)(v)) unless you can elect separate coverage levels for all irrigated and all non-irrigated crops in accordance with section 3(b)(2)(iii) (e.g., if you elect to insure your irrigated corn at the 65 percent coverage level you must insure your irrigated canola at the 65 percent coverage level. If you elect to insure your non-irrigated corn at the 70 percent coverage level you must insure your non-irrigated canola at the 70 percent coverage level. If you elect to insure your irrigated corn at the 65 percent coverage level and your irrigated canola at the 70 percent coverage level your unit structure will be assigned in accordance with section 34(a)(5)(v));
+(*3*) At the same coverage level (e.g., if you elect to insure your corn and canola at the 65 percent coverage level and your soybeans at the 75 percent coverage level, the corn, soybeans and canola would be assigned the unit structure in accordance with section 34(a)(3)(v)) unless you can elect separate coverage levels for all irrigated and all non-irrigated crops in accordance with section 3(b)(2)(iii) (e.g., if you elect to insure your irrigated corn at the 65 percent coverage level you must insure your irrigated canola at the 65 percent coverage level. If you elect to insure your non-irrigated corn at the 70 percent coverage level you must insure your non-irrigated canola at the 70 percent coverage level. If you elect to insure your irrigated corn at the 65 percent coverage level and your irrigated canola at the 70 percent coverage level your unit structure will be assigned in accordance with section 34(a)(3)(v));
 
 (B) A whole-farm unit must contain all of the insurable acreage of at least two crops; and
 
@@ -2346,7 +2346,7 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (v) If we discover you do not qualify for a whole-farm unit for at least one insured crop because, even though you elected revenue protection for all your crops:
 
-(A) You do not meet all of the other requirements in section 34(a)(3)(i),, and such discovery is made:
+(A) You do not meet all of the other requirements in section 34(a)(3)(i), and such discovery is made:
 
 (*1*) On or before the acreage reporting date, your unit division for all crops for which you elected a whole-farm unit will be based on basic or optional units, whichever you report on your acreage report and qualify for; or
 

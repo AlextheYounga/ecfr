@@ -1,5 +1,7 @@
 ##### § 184.1555 Rapeseed oil. #####
 
+Link to an amendment published at 88 FR 53773, Aug. 9, 2023.
+
 (a) *Fully hydrogenated rapeseed oil.* (1) Fully hydrogenated rapeseed oil is a mixture of triglycerides in which the fatty acid composition is a mixture of saturated fatty acids. The fatty acids are present in the same proportions which result from the full hydrogenation of fatty acids occurring in natural rapeseed oil. The rapeseed oil is obtained from the *napus* and *campestris* varieties of *Brassica* of the family Cruciferae. It is prepared by fully hydrogenating refined and bleached rapeseed oil at 310-375 °F, using a catalyst such as nickel, until the iodine number is 4 or less.
 
 (2) The ingredient meets the following specifications: Acid value not more than 6, arsenic not more than 3 parts per million, free glycerin not more than 7 percent, heavy metals (as Pb) not more than 10 parts per million, iodine number not more than 4, residue on ignition not more than 0.5 percent.

@@ -1,5 +1,7 @@
 ##### § 1206.350 What is the purpose of this subpart? #####
 
+Link to an amendment published at 88 FR 53792, Aug. 9, 2023.
+
 (a) This subpart applies to all geothermal resources produced from Federal geothermal leases issued pursuant to the Geothermal Steam Act of 1970 (GSA), as amended by the Energy Policy Act of 2005 (EPAct) (30 U.S.C. 1001 *et seq.*). The purpose of this subpart is to prescribe how to calculate royalties and direct use fees for geothermal production.
 
 (b) The ONRR may audit and adjust all royalty and fee payments.

@@ -88,7 +88,7 @@
 
 (vii) Finances, including a certified copy of the accountant's last statement of school's net worth, income, and expenses.
 
-(c) *Additional evidence*—(1) *Vocational, business, and language schools, and American institutions of research.* A petitioning vocational, business, or language school, or an American institution of research recognized as such by the Secretary of Homeland Security must submit evidence that its courses of study are accepted as fulfilling the requirements for the attainment of an educational, professional, or vocational objective, and have not been designated vocational or recreational through the appropriate licensing or approval officials.
+(c) *Additional evidence*—(1) *Vocational, business, and language schools, and American institutions of research.* A petitioning vocational, business, or language school, or an American institution of research recognized as such by the Secretary of Homeland Security, must submit evidence that its courses of study are accepted as fulfilling the requirements for the attainment of an educational, professional, or vocational objective, and have not been designated avocational or recreational through the appropriate licensing or approval officials.
 
 (2) *Unaccredited private elementary, middle, and secondary schools.* A petitioning private elementary, middle, or secondary school that is not accredited by a nationally recognized accrediting body or operated by a school that is accredited by a nationally recognized accrediting body must submit evidence that attendance at the petitioning school—
 

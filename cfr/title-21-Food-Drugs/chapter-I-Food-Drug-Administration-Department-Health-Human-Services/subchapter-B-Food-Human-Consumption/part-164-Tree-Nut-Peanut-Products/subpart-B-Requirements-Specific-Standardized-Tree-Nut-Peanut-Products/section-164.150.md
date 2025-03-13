@@ -1,5 +1,7 @@
 ##### § 164.150 Peanut butter. #####
 
+Link to an amendment published at 88 FR 53773, Aug. 9, 2023.
+
 (a) Peanut butter is the food prepared by grinding one of the shelled and roasted peanut ingredients provided for by paragraph (b) of this section, to which may be added safe and suitable seasoning and stabilizing ingredients provided for by paragraph (c) of this section, but such seasoning and stabilizing ingredients do not in the aggregate exceed 10 percent of the weight of the finished food. To the ground peanuts, cut or chopped, shelled, and roasted peanuts may be added. During processing, the oil content of the peanut ingredient may be adjusted by the addition or subtraction of peanut oil. The fat content of the finished food shall not exceed 55 percent when determined as prescribed in “Official Methods of Analysis of the Association of Official Analytical Chemists,” 13th Ed. (1980), section 27.006(a) under “Crude Fat—Official First Action, Direct Method,” in paragraph (a), which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (b) The peanut ingredients referred to in paragraph (a) of this section are:

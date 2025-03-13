@@ -1,5 +1,7 @@
 ##### § 1206.450 Purpose and scope. #####
 
+Link to an amendment published at 88 FR 53792, Aug. 9, 2023.
+
 (a) This subpart prescribes the procedures to establish the value, for royalty purposes, of all coal from Indian Tribal and allotted leases (except leases on the Osage Indian Reservation, Osage County, Oklahoma).
 
 (b) If the specific provisions of any statute, treaty, or settlement agreement between the Indian lessor and a lessee resulting from administrative or judicial litigation, or any coal lease subject to the requirements of this subpart, are inconsistent with any regulation in this subpart, then the statute, treaty, lease provision, or settlement shall govern to the extent of that inconsistency.

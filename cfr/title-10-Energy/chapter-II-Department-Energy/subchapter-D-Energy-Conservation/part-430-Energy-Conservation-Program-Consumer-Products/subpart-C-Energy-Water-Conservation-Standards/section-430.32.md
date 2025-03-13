@@ -1,6 +1,6 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 88 FR 21814, Apr. 11, 2023.Link to an amendment published at 88 FR 39959, June 20, 2023.
+Link to an amendment published at 88 FR 39959, June 20, 2023.
 
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
@@ -998,5 +998,21 @@ AV = Total adjusted volume, expressed in ft<sup>3</sup>, as calculated according
 *SACC:* For single-speed portable air conditioners, SACC is seasonally adjusted cooling capacity in Btu/h, as determined in appendix CC of subpart B of this part. For variable-speed portable air conditioners, SACC shall be SACCFull in Btu/h, as determined in appendix CC of subpart B of this part.
 
 (dd) *General service lamp.* Beginning July 25, 2022 the sale of any general service lamp that does not meet a minimum efficacy standard of 45 lumens per watt is prohibited.
+
+(ee) *Air cleaners.* (1) Conventional room air cleaners as defined in § 430.2 with a PM2.5 clean air delivery rate (CADR) between 10 and 600 (both inclusive) cubic feet per minute (cfm) and manufactured on or after December 31, 2023, and before December 31, 2025, shall have an integrated energy factor (IEF) in PM2.5 CADR/W, as determined in § 430.23(hh)(4) that meets or exceeds the following values:
+
+|     Product capacity     |IEF (PM2.5  <br/>CADR/W)|
+|--------------------------|------------------------|
+| (i) 10 ≤PM2.5 CADR \<100 |          1.7           |
+|(ii) 100 ≤PM2.5 CADR \<150|          1.9           |
+|  (iii) PM2.5 CADR ≥150   |          2.0           |
+
+(2) Conventional room air cleaners as defined in § 430.2 with a PM2.5 clean air delivery rate (CADR) between 10 and 600 (both inclusive) cubic feet per minute (cfm) and manufactured on or after December 31, 2025, shall have an integrated energy factor (IEF) in PM2.5 CADR/W, as determined in § 430.23(hh)(4) that meets or exceeds the following values:
+
+|     Product capacity     |IEF (PM2.5  <br/>CADR/W)|
+|--------------------------|------------------------|
+| (i) 10 ≤PM2.5 CADR \<100 |          1.9           |
+|(ii) 100 ≤PM2.5 CADR \<150|          2.4           |
+|  (iii) PM2.5 CADR ≥150   |          2.9           |
 
 [54 FR 6077, Feb. 7, 1989]Editorial Note:For Federal Register citations affecting § 430.32, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,5 +1,7 @@
 ##### § 161.190 Canned tuna. #####
 
+Link to an amendment published at 88 FR 53773, Aug. 9, 2023.
+
 (a) *Identity.* (1) Canned tuna is the food consisting of processed flesh of fish of the species enumerated in paragraph (a)(2) of this section, prepared in one of the optional forms of pack specified in paragraph (a)(3) of this section, conforming to one of the color designations specified in paragraph (a)(4) of this section, in one of the optional packing media specified in paragraph (a)(5) of this section, and may contain one or more of the seasonings and flavorings specified in paragraph (a)(6) of this section. For the purpose of inhibiting the development of struvite crystals, sodium acid pyrophosphate may be added in a quantity not in excess of 0.5 percent by weight of the finished food. It is packed in hermetically sealed containers and so processed by heat as to prevent spoilage. It is labeled in accordance with the provisions of paragraph (a)(8) of this section.
 
 (2) The fish included in the class known as tuna fish are:

@@ -22,9 +22,9 @@
 
 (ix) Failure to submit statements of DSOs as required by 8 CFR 214.3(l)(3).
 
-(x) Issuance of Forms I-20 to students without receipt of proof that the students have met scholastic, language, or financial requirements as required by 8 CFR 214.3(k)(2).
+(x) Issuance of Form I-20 or successor form to students without receipt of proof that the students have met scholastic, language, or financial requirements as required by 8 CFR 214.3(k)(2).
 
-(xi) Issuance of Forms I-20 to aliens who will not be enrolled in or carry full courses of study, as defined in 8 CFR 214.2(f)(6) or 214.2(m)(9).
+(xi) Issuance of Form I-20 or successor form to aliens who will not be enrolled in or carry full courses of study, as defined in 8 CFR 214.2(f)(6) or 214.2(m)(9).
 
 (xii) Failure to operate as a bona fide institution of learning.
 
@@ -38,9 +38,9 @@
 
 (xvii) Failure to maintain the physical plant, curriculum, and teaching staff in the manner represented in the Form I-17.
 
-(xviii) Failure to comply with the procedures for issuance of Forms I-20 as set forth in 8 CFR 214.3(k).
+(xviii) Failure to comply with the procedures for issuance of Form I-20 or successor form as set forth in 8 CFR 214.3(k).
 
-(xix) Failure of a DSO to notify SEVP of material changes, such as changes to the school's name, address, or curricular changes that represent material change to the scope of institution offerings (e.g., addition of a program, class or course for which the school is issuing Forms I-20, but which does not have Form I-17 approval), as required by 8 CFR 214.3(f)(1).
+(xix) Failure of a DSO to notify SEVP of material changes, such as changes to the school's name, address, or curricular changes that represent material change to the scope of institution offerings (e.g., addition of a program, class or course for which the school is issuing Form I-20 or successor form, but which does not have Form I-17 approval), as required by 8 CFR 214.3(f)(1).
 
 (3) *Automatic withdrawal.* A school that is automatically withdrawn and subsequently wishes to enroll nonimmigrant students in the future may file a new petition for SEVP certification at any time. The school must use the certification petition procedures described in § 214.3(h) to gain access to SEVIS for submitting its petition. Past compliance with the recordkeeping, retention, reporting and other requirements of 8 CFR 214.3(f), (g), (j), (k), and (l), and with the requirements for transition of students under paragraph (i) of this section will be considered in the evaluation of a school's subsequent petition for certification. SEVP certification will be automatically withdrawn:
 
@@ -74,10 +74,10 @@
 
 (h) *Appeals.* A school may file an appeal of a denial or withdrawal no later than 15 days after the service of the decision by ICE. The appeal must state the reasons and grounds for contesting the denial or withdrawal. The appeal must be accompanied by the fee as provided in 8 CFR 103.7(d)(15).
 
-(i) *Operations at a school when SEVP certification is relinquished or withdrawn, or whose recertification is denied and on the SEVIS access termination date*—(1) *General.* A school whose certification is relinquished or withdrawn, or whose recertification is denied may, at SEVP discretion, no longer be able to create Initial student records or issue new Forms I-20, Certificate of Eligibility for Nonimmigrant Student Status, or successor form, for initial attendance. Schools must comply with the instructions given in the notice of withdrawal or denial with regard to management of status for their Initial and continuing F and/or M students. All other SEVIS functionality, including event reporting for students, will remain unchanged until the school's SEVIS access termination date. The school must continue to comply with the recordkeeping, retention, reporting and other requirements of 8 CFR 214.3(f), (g), (j), (k), and (l) until its SEVIS access termination date.
+(i) *Operations at a school when SEVP certification is relinquished or withdrawn, or whose recertification is denied and on the SEVIS access termination date*—(1) *General.* A school whose certification is relinquished or withdrawn, or whose recertification is denied may, at SEVP discretion, no longer be able to create Initial student records or issue new Form I-20, Certificate of Eligibility for Nonimmigrant Student Status, or successor form, for initial attendance. Schools must comply with the instructions given in the notice of withdrawal or denial with regard to management of status for their Initial and continuing F and/or M students. All other SEVIS functionality, including event reporting for students, will remain unchanged until the school's SEVIS access termination date. The school must continue to comply with the recordkeeping, retention, reporting and other requirements of 8 CFR 214.3(f), (g), (j), (k), and (l) until its SEVIS access termination date.
 
 (2) *SEVIS access termination.* In determining the SEVIS access termination date, SEVP will consider the impact that such date will have upon SEVP, the school, and the school's nonimmigrant students in determining the SEVIS access termination date. In most situations, SEVP will not determine a SEVIS access termination date for that school until the appeals process has concluded and the denial or withdrawal has been upheld unless a school whose certification is withdrawn or whose recertification is denied is suspected of criminal activity or poses a potential national security threat. The school will no longer be able to access SEVIS, and SEVP will automatically terminate any remaining Active SEVIS records for that school on the SEVIS access termination date.
 
 (3) *Legal obligations and ramifications for a school and its DSOs when a school is having SEVP certification denied or withdrawn.* Schools are obligated to their students to provide the programs of study to which they have committed themselves in the students' application for enrollment and acceptance process. Schools are obligated to the U.S. government to comply with the recordkeeping, retention, reporting and other requirements contained in 8 CFR 214.3. With any new petition for SEVP certification, SEVP will consider the extent to which a school has fulfilled these obligations to students and the U.S. government during any previous period of SEVP certification.
 
-[37 FR 17463, Aug. 29, 1972, as amended at 48 FR 14592, Apr. 5, 1983; 48 FR 19867, May 3, 1983; 48 FR 22131, May 17, 1983; 49 FR 41015, Oct. 19, 1984; 50 FR 9991, Mar. 13, 1985; 54 FR 19544, May 8, 1989; 55 FR 41988, Oct. 17, 1990; 67 FR 60112, Sept. 25, 2002; 73 FR 55702, Sept. 26, 2008; 84 FR 23979, May 23, 2019; 87 FR 75911, Dec. 12, 2022]Editorial Note:At 87 FR 75911, Dec. 12, 2022, § 214.4 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.
+[37 FR 17463, Aug. 29, 1972, as amended at 48 FR 14592, Apr. 5, 1983; 48 FR 19867, May 3, 1983; 48 FR 22131, May 17, 1983; 49 FR 41015, Oct. 19, 1984; 50 FR 9991, Mar. 13, 1985; 54 FR 19544, May 8, 1989; 55 FR 41988, Oct. 17, 1990; 67 FR 60112, Sept. 25, 2002; 73 FR 55702, Sept. 26, 2008; 84 FR 23979, May 23, 2019; 87 FR 75911, Dec. 12, 2022; 88 FR 53761, Aug. 9, 2023]

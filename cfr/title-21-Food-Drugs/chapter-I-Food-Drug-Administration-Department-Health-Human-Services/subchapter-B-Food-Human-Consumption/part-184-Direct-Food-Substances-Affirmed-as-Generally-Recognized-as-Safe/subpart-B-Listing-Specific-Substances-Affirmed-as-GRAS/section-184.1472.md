@@ -1,5 +1,7 @@
 ##### § 184.1472 Menhaden oil. #####
 
+Link to an amendment published at 88 FR 53773, Aug. 9, 2023.
+
 (a) *Menhaden oil.* (1) Menhaden oil is prepared from fish of the genus *Brevoortia,* commonly known as menhaden, by cooking and pressing. The resulting crude oil is then refined using the following steps: Storage (winterization), degumming (optional), neutralization, bleaching, and deodorization. Winterization may separate the oil and produce a solid fraction.
 
 (2) Menhaden oil meets the following specifications:

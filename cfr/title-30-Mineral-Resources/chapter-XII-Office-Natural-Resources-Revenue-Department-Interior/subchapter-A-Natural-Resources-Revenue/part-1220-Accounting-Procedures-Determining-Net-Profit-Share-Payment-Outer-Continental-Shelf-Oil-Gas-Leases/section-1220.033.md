@@ -1,5 +1,7 @@
 ##### § 1220.033 Audits. #####
 
+Link to an amendment published at 88 FR 53793, Aug. 9, 2023.
+
 (a) The accounts of an NPSL lessee or of a contractor of the lessee which are related to NPSL operations shall be subject to audit by DOI or its appointed agent. Where possible, the auditor for DOI shall coordinate audit efforts with other nonoperators, if any. DOI shall have the right to initiate an audit any time within thirty-six months of the due date of the monthly statement that is to be audited or the date that the statement was mailed, whichever is later, provided, however, that audits may not be conducted any more frequently than once every year except upon a showing of fraud or willful misrepresentation.
 
 (b)(1) When nonoperators of an NPSL lease call an audit in accordance with the terms of their operating agreement, the ONRR Director shall be notified of the audit call in the same manner as the operator is notified. DOI may elect to send an auditor with the audit team specified by the nonoperators in lieu of calling for a separate audit by DOI.

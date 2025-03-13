@@ -136,7 +136,7 @@ The classification designation V-1 is for the spouse of a lawful permanent resid
 
 (iii) Is in possession of a valid passport unless exempt from the requirement for presentation of a passport; and
 
-(iv) Presents, or is the accompanying spouse or child of an alien who presents, Form I-94 issued to the alien in connection with the previous admission or stay, the alien's Form I-20 ID copy, and a properly endorsed page 4 of Form I-20M-N.
+(iv) Presents, or is the accompanying spouse or child of an alien who presents, Form I-94 issued to the alien in connection with the previous admission or stay, and the alien's properly endorsed Form I-20 or successor form.
 
 (4) *Section 101(a)(15)(Q)(ii).* The inspecting immigration officer shall readmit for the unexpired period of stay authorized prior to the alien's departure, if the alien:
 
@@ -210,4 +210,4 @@ The classification designation V-1 is for the spouse of a lawful permanent resid
 
 (3) An alien in any authorized period described in paragraph (l) of this section may apply for and be granted an extension of stay under paragraph (c)(4) of this section or change of status under 8 CFR 248.1, if otherwise eligible.
 
-[26 FR 12067, Dec. 16, 1961]Editorial Note:For Federal Register citations affecting § 214.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Editorial Note:At 87 FR 75902, Dec. 12, 2022, § 214.1 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.
+[26 FR 12067, Dec. 16, 1961]Editorial Note:For Federal Register citations affecting § 214.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
