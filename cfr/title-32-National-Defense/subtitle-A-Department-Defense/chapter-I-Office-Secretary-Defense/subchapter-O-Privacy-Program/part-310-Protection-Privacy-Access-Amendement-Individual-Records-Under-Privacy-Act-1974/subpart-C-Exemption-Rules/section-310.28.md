@@ -1,7 +1,5 @@
 ##### § 310.28 Office of the Inspector General (OIG) exemptions. #####
 
-Link to an amendment published at 89 FR 5095, Jan. 26, 2024.
-
 (a) *Exemption for classified records.* Any record in a system of records maintained by the Office of the Inspector General which falls within the provisions of 5 U.S.C. 552a(k)(1) may be exempt from the following subsections of 5 U.S.C. 552a: (c)(3), (d), (e)(1), (e)(4)(G) through (I) and (f) to the extent that a record system contains any record properly classified under Executive Order 12958 and that the record is required to be kept classified in the interest of national defense or foreign policy. This specific exemption rule, claimed by the Inspector General under authority of 5 U.S.C. 552a(k)(1), is applicable to all systems of records maintained, including those individually designated for an exemption herein as well as those not otherwise specifically designated for an exemption, which may contain isolated items of properly classified information.
 
 (b) The Inspector General of the Department of Defense claims an exemption for the following record systems under the provisions of 5 U.S.C. 552a(j) and (k)(1)-(k)(7) from certain indicated subsections of the Privacy Act of 1974. The exemptions may be invoked and exercised on a case-by-case basis by the Deputy Inspector General for Investigations or the Director, Communications and Congressional Liaison Office, and the Chief, Freedom of Information/Privacy Act Office, which serve as the Systems Program Managers. Exemptions will be exercised only when necessary for a specific, significant and legitimate reason connected with the purpose of the records system.
@@ -134,13 +132,7 @@ Link to an amendment published at 89 FR 5095, Jan. 26, 2024.
 
 (iii) *Reasons.* Records are only exempt from pertinent provisions of 5 U.S.C. 552a to the extent (A) such provisions have been identified and an exemption claimed for the original record and (B) the purposes underlying the exemption for the original record still pertain to the record which is now contained in this system of records. In general, the exemptions were claimed in order to protect properly classified information relating to national defense and foreign policy, to avoid interference during the conduct of criminal, civil, or administrative actions or investigations, to ensure protective services provided the President and others are not compromised, to protect the identity of confidential sources incident to Federal employment, military service, contract, and security clearance determinations, to preserve the confidentiality and integrity of Federal testing materials, and to safeguard evaluation materials used for military promotions when furnished by a confidential source. The exemption rule for the original records will identify the specific reasons why the records are exempt from specific provisions of 5 U.S.C. 552a.
 
-(8) *System identifier and name.* CIG-29, Privacy and Civil Liberties Complaint Reporting System.
-
-(i) *Exemption.* Any portion of this record system which falls within the provisions of 5 U.S.C. 552a (j)(2), (k)(2) and (k)(5) may be exempt from the following subsections of 5 U.S.C. 552a: (c)(3), (d), (e)(1), (e)(4)(G), (e)(4)(H), (e)(4)(I).
-
-(ii) *Authority.* 5 U.S.C. 552a(j)(2), (k)(2), and (k)(5).
-
-(iii) *Reasons.* To ensure the integrity of the privacy and civil liberties process. The execution requires that information be provided in a free and open manner without fear of retribution or harassment in order to facilitate a just, thorough, and timely resolution of the complaint or inquiry. Disclosures from this system can enable individuals to conceal their wrongdoing or mislead the course of the investigation by concealing, destroying, or fabricating evidence or documents. In addition, disclosures can subject sources and witnesses to harassment or intimidation which may cause individuals not to seek redress for wrongs through privacy and civil liberties channels for fear of retribution or harassment. There is a clear need to protect national security information from inadvertent disclosure.
+(8) [Reserved]
 
 (9) *System identifier and name.* CIG-26, Case Control System-Investigative.
 
@@ -202,4 +194,4 @@ Link to an amendment published at 89 FR 5095, Jan. 26, 2024.
 
 (iv) *Exempt records from other systems.* In the course of carrying out the overall purpose for this system, exempt records from other systems of records may in turn become part of the records maintained in this system. To the extent that copies of exempt records from those other systems of records are maintained in this system, the DoD claims the same exemptions for the records from those other systems that are entered into this system, as claimed for the prior system(s) of which they are a part, provided the reason for the exemption remains valid and necessary.
 
-[84 FR 14730, Apr. 11, 2019; 84 FR 16210, Apr. 18, 2019, as amended at 85 FR 60715, Sept. 28, 2020; 88 FR 16183, Mar. 16, 2023; 88 FR 42237, June 30, 2023; 88 FR 65130, Sept. 21, 2023]
+[84 FR 14730, Apr. 11, 2019; 84 FR 16210, Apr. 18, 2019, as amended at 85 FR 60715, Sept. 28, 2020; 88 FR 16183, Mar. 16, 2023; 88 FR 42237, June 30, 2023; 88 FR 65130, Sept. 21, 2023; 89 FR 5095, Jan. 26, 2024]

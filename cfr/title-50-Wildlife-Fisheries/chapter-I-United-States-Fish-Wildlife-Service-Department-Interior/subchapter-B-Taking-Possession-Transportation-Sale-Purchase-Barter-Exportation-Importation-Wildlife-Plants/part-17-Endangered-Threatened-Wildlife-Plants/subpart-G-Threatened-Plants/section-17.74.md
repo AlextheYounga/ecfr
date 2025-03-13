@@ -1,5 +1,7 @@
 ##### § 17.74 Special rules—conifers and cycads. #####
 
+Link to an amendment published at 89 FR 23941, Apr. 5, 2024.
+
 (a) Whitebark pine (*Pinus albicaulis*).
 
 (1) *Prohibitions.* The following prohibitions that apply to endangered plants also apply to whitebark pine, except as provided under paragraph (a)(2) of this section:

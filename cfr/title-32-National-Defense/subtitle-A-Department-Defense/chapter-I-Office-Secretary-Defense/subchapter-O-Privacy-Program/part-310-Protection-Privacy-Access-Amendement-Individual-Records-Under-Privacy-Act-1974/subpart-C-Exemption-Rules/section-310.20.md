@@ -1,7 +1,5 @@
 ##### § 310.20 Defense Intelligence Agency (DIA) exemptions. #####
 
-Link to an amendment published at 89 FR 5095, Jan. 26, 2024.
-
 (a) All systems of records maintained by the Director Intelligence Agency shall be exempt from the requirements of 5 U.S.C. 552a(d) pursuant to 5 U.S.C. 552a(k)(1) to the extent that the system contains any information properly classified under Executive order to be kept secret in the interest of national defense or foreign policy. This exemption, which may be applicable to parts of all systems of records, is necessary because certain record systems not specifically designated for exemption may contain isolated information which has been properly classified.
 
 (b) The Director, Defense Intelligence Agency, designated the systems of records listed below for exemptions under the specified provisions of the Privacy Act of 1974, as amended (Pub. L. 93-579).
@@ -62,23 +60,7 @@ When claimed, this exemption allows limited protection of investigative reports 
 
 (I) From subsection (g) because this system of records should be exempt to the extent that the civil remedies relate to provisions of 5 U.S.C. 552a from which this rule exempts the system.
 
-(7) *System identifier and name.* LDIA 0900, Accounts Receivable, Indebtedness and Claims.
-
-(i) *Exemption.* During the course of accounts receivable, indebtedness or claims actions, exempt materials from other systems of records may in turn become part of the case record in this system. To the extent that copies of exempt records from those “other” systems of records are entered into this system, the DIA hereby claims the same exemptions for the records from those “other” systems that are entered into this system, as claimed for the original primary system of which they are a part.
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(2) through (k)(7).
-
-(iii) *Reasons.* Records are only exempt from pertinent provisions of 5 U.S.C. 552a to the extent such provisions have been identified and an exemption claimed for the original record and the purposes underlying the exemption for the original record still pertain to the record which is now contained in this system of records. In general, the exemptions were claimed in order to protect properly classified information relating to national defense and foreign policy, to avoid interference during the conduct of criminal, civil, or administrative actions or investigations, to ensure protective services provided the President and others are not compromised, to protect the identity of confidential sources incident to Federal employment, military service, contract, and security clearance determinations, to preserve the confidentiality and integrity of Federal testing materials, and to safeguard evaluation materials used for military promotions when furnished by a confidential source. The exemption rule for the original records will identify the specific reasons why the records are exempt from specific provisions of 5 U.S.C. 552a.
-
-(8) [Reserved]
-
-(9) *System identifier and name.* LDIA 12-0002, Privacy and Civil Liberties Case Management System.
-
-(i) *Exemption.* Any portion of this record system which falls within the provisions of 5 U.S.C. 552a(k)(2) and (k)(5) may be exempt from the following subsections of 5 U.S.C. 552a: (c)(3), (d), (e)(1), (e)(4)(G), (e)(4)(H), (e)(4)(I).
-
-(ii) *Authority.* 5 U.S.C. 552a(k)(2)and (k)(5).
-
-(iii) *Reasons.* The reasons for asserting these exemptions is to ensure the integrity of the privacy and civil liberties process. The execution requires that information be provided in a free and open manner without fear of retribution or harassment in order to facilitate a just, thorough, and timely resolution of the complaint or inquiry. Disclosures from this system can enable individuals to conceal their wrongdoing or mislead the course of the investigation by concealing, destroying, or fabricating evidence or documents. In addition, disclosures can subject sources and witnesses to harassment or intimidation which may cause individuals not to seek redress for wrongs through privacy and civil liberties channels for fear of retribution or harassment.
+(7)-(9) [Reserved]
 
 (10) *System identifier and name.* LDIA 0209, Litigation Case Files.
 
@@ -96,4 +78,4 @@ When claimed, this exemption allows limited protection of investigative reports 
 
 (iii) *Reasons.* The reasons for asserting these exemptions are to ensure the integrity of an investigative or administrative process and to protect statistical records. The execution requires that information be provided in a free and open manner without fear of retribution or harassment in order to facilitate a just, thorough, and timely resolution during an investigation or administrative action. Disclosures from this system can enable individuals to conceal their wrongdoing or mislead the course of the investigation by concealing, destroying, or fabricating evidence or documents. In addition, disclosures can subject sources and witnesses to harassment or intimidation which may cause individuals to not to seek redress for concerns about occupational safety, health, environmental issues and accident reporting. Information is used to comply regulatory reporting requirements.
 
-[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 31431, June 14, 2021; 88 FR 42236, June 30, 2023]
+[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 31431, June 14, 2021; 88 FR 42236, June 30, 2023; 89 FR 5095, Jan. 26, 2024]

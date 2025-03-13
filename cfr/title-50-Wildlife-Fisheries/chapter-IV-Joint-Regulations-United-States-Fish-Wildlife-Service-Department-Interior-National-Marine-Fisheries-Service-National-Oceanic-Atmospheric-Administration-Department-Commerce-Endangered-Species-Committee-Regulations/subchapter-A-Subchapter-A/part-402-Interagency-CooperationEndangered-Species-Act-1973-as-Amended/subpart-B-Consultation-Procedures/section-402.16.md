@@ -1,5 +1,7 @@
 ##### § 402.16 Reinitiation of consultation. #####
 
+Link to an amendment published at 89 FR 24298, Apr. 5, 2024.
+
 (a) Reinitiation of consultation is required and shall be requested by the Federal agency or by the Service, where discretionary Federal involvement or control over the action has been retained or is authorized by law and:
 
 (1) If the amount or extent of taking specified in the incidental take statement is exceeded;

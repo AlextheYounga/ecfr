@@ -1,5 +1,7 @@
 ##### § 17.8 Import exemption for threatened, CITES Appendix-II wildlife. #####
 
+Link to an amendment published at 89 FR 23938, Apr. 5, 2024.
+
 (a) Except as provided in a special rule in §§ 17.40 through 17.48 or in paragraph (b) of this section, all provisions of §§ 17.31 and 17.32 apply to any specimen of a threatened species of wildlife that is listed in Appendix II of the Convention.
 
 (b) *Import.* Except as provided in a special rule in §§ 17.40 through 17.48, any live or dead specimen of a fish and wildlife species listed as threatened under this part may be imported without a threatened species permit under § 17.32 provided all of the following conditions are met:

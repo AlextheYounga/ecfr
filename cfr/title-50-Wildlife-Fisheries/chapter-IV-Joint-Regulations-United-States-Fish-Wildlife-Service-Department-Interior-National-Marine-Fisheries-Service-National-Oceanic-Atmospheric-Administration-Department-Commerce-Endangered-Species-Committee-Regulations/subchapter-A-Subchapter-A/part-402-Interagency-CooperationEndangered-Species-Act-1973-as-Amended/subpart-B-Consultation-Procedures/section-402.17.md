@@ -1,5 +1,7 @@
 ##### § 402.17 Other provisions. #####
 
+Link to an amendment published at 89 FR 24298, Apr. 5, 2024.
+
 (a) *Activities that are reasonably certain to occur.* A conclusion of reasonably certain to occur must be based on clear and substantial information, using the best scientific and commercial data available. Factors to consider when evaluating whether activities caused by the proposed action (but not part of the proposed action) or activities reviewed under cumulative effects are reasonably certain to occur include, but are not limited to:
 
 (1) Past experiences with activities that have resulted from actions that are similar in scope, nature, and magnitude to the proposed action;

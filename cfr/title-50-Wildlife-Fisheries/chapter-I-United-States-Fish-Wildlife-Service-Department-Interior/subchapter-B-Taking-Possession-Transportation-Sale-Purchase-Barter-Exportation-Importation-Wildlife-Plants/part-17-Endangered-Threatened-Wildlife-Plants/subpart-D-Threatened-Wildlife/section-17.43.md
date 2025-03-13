@@ -1,5 +1,7 @@
 ##### § 17.43 Special rules—amphibians. #####
 
+Link to an amendment published at 89 FR 23940, Apr. 5, 2024.
+
 (a) San Marcos salamander (*Eurycea nana*). (1) All provisions of § 17.31 apply to this species, except that it may be taken in accordance with applicable State law.
 
 (2) Any violation of State law will also be a violation of the Act.

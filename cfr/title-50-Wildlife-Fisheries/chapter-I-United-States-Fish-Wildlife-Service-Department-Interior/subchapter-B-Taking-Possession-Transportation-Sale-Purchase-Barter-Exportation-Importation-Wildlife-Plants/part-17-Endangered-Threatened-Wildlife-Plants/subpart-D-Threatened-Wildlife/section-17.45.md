@@ -1,5 +1,7 @@
 ##### § 17.45 Special rules—snails and clams. #####
 
+Link to an amendment published at 89 FR 23940, Apr. 5, 2024.
+
 (a) Atlantic pigtoe (*Fusconaia masoni*)—(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Atlantic pigtoe. Except as provided under paragraphs (a)(2) and (3) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
 
 (i) Import or export, as set forth at § 17.21(b) for endangered wildlife.

@@ -1,5 +1,7 @@
 ##### § 17.61 Prohibitions. #####
 
+Link to an amendment published at 89 FR 23940, Apr. 5, 2024.
+
 (a) Except as provided in a permit issued pursuant to § 17.62 or § 17.63, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or to cause to be committed, any of the acts described in paragraphs (b) through (e) of this section in regard to any Endangered plant.
 
 (b) *Import or export.* It is unlawful to import or to export any Endangered plant. Any shipment in transit through the United States is an importation and an exportation, whether or not it has entered the country for customs purposes.
