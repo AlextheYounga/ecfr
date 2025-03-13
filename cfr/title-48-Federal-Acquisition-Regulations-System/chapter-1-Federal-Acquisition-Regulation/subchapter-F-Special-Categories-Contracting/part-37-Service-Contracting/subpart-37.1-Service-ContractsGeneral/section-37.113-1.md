@@ -10,7 +10,8 @@
 
 (c) Waivers cannot be granted for—
 
-(1) Military banking contracts, which are covered by 10 U.S.C. 2324(e)(2); or
+(1) Military banking contracts, which are covered by 10
+U.S.C. 3744(d); or
 
 (2) Severance payments made by a contractor to a foreign national employed by the contractor under a DOD service contract in the Republic of the Philippines, if the discontinuation of the foreign national is the result of the termination of basing rights of the United States military in the Republic of the Philippines (section 1351(b) of Public Law 102-484, 10 U.S.C. 1592, note).
 

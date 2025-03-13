@@ -12,7 +12,7 @@
 
 (1) SBA will consider protests challenging the service-disabled veteran-owned status or the ownership and control of a concern if—
 
-(i) For status protests, the protester presents evidence supporting the contention that the owner(s) cannot provide documentation from the Department of Veterans Affairs, Department of Defense determinations, or the U.S. National Archives and Records Administration to show that they meet the definition of “service-disabled veteran” or “service disabled veteran with a permanent and severe disability” as set forth in 13 CFR 125.12; or
+(i) For status protests, the protester presents evidence supporting the contention that the owner(s) cannot provide documentation from the Department of Veterans Affairs, Department of Defense determinations, or the U.S. National Archives and Records Administration to show that they meet the definition of “service-disabled veteran” or “service-disabled veteran with a permanent and severe disability” as set forth in 13 CFR 125.12; or
 
 (ii) For ownership and control protests, the protester presents evidence that the concern is not 51 percent owned and controlled by one or more service-disabled veterans. In the case of a veteran with a permanent and severe disability, the protester presents evidence that the concern is not controlled by the veteran, spouse, or permanent caregiver of such veteran; or
 

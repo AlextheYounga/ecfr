@@ -244,8 +244,6 @@
 
 (p) *Limitation on allowability of compensation.*
 
-Table 31-1—Employee Compensation Limits
-
 |                Contract award date                 |                  Applicable agencies                  |Covered employees|31.205-6|
 |----------------------------------------------------|-------------------------------------------------------|-----------------|--------|
 |                Before June 24, 2014                |Executive Agencies Other than DoD, NASA and Coast Guard|Senior Executive |(p)(2). |
@@ -279,7 +277,7 @@ Table 31-1—Employee Compensation Limits
 
 (B) To DoD, NASA, and the Coast Guard for contracts awarded before December 31, 2011;
 
-(ii) Costs incurred after January 1, 1998, for the compensation of a senior executive in excess of the benchmark compensation amount determined applicable for the contractor fiscal year by the Administrator, Office of Federal Procurement Policy (OFPP), under 41 U.S.C. 1127 as in effect prior to June 24, 2014, are unallowable (10 U.S.C. 3744(a)(16)and 41 U.S.C. 4304(a)(16), as in effect prior to June 24, 2014). This limitation is the sole statutory limitation on allowable senior executive compensation costs incurred after January 1, 1998, under contracts awarded before June 24, 2014, and applies whether or not the affected contracts were previously subject to a statutory limitation on such costs. (Note that pursuant to section 804 of Pub. L. 105-261, the definition of “senior executive” in paragraph (p)(1) of this section has been changed for compensation costs incurred after January 1, 1999.) See *https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedBeforeJune24.pdf.*
+(ii) Costs incurred after January 1, 1998, for the compensation of a senior executive in excess of the benchmark compensation amount determined applicable for the contractor fiscal year by the Administrator, Office of Federal Procurement Policy (OFPP), under 41 U.S.C. 1127 as in effect prior to June 24, 2014, are unallowable (10 U.S.C. 3744(a)(16) and 41 U.S.C. 4304(a)(16), as in effect prior to June 24, 2014). This limitation is the sole statutory limitation on allowable senior executive compensation costs incurred after January 1, 1998, under contracts awarded before June 24, 2014, and applies whether or not the affected contracts were previously subject to a statutory limitation on such costs. (Note that pursuant to section 804 of Pub. L. 105-261, the definition of “senior executive” in paragraph (p)(1) of this section has been changed for compensation costs incurred after January 1, 1999.) See *https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedBeforeJune24.pdf.*
 
 (3) All employee compensation limit for contracts awarded before June 24, 2014.
 

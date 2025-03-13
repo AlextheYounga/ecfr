@@ -1,4 +1,4 @@
-##### 15.403-1 Prohibition on obtaining certified cost or pricing data (10 U.S.C. chapter 271and 41 U.S.C. chapter 35). #####
+##### 15.403-1 Prohibition on obtaining certified cost or pricing data (10 U.S.C. chapter 271 and 41 U.S.C. chapter 35). #####
 
 (a) Certified cost or pricing data shall not be obtained for acquisitions at or below the simplified acquisition threshold.
 

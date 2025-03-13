@@ -4,4 +4,4 @@
 
 (b) Insert the clause at 52.222-19, Child Labor—Cooperation with Authorities and Remedies, in all solicitations and contracts for the acquisition of supplies that are expected to exceed the micro-purchase threshold.
 
-[66 FR 5347, Jan. 18, 2001, as amended at 86 FR 61028, Nov. 4, 2021; 87 FR 73891, Dec. 1, 2022]
+[66 FR 5347, Jan. 18, 2001, as amended at 86 FR 61028, Nov. 4, 2021; 87 FR 73892, Dec. 1, 2022]

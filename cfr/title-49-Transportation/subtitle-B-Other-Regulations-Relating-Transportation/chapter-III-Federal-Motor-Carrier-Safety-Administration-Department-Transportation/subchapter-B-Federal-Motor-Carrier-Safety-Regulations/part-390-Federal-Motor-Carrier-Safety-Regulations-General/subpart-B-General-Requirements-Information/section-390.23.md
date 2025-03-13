@@ -1,5 +1,7 @@
 ##### § 390.23 Relief from regulations. #####
 
+Link to an amendment published at 88 FR 70908, Oct. 13, 2023.
+
 (a) Parts 390 through 399 of this chapter shall not apply to any motor carrier or driver operating a commercial motor vehicle to provide emergency relief during an emergency, subject to the following time limits:
 
 (1) *Regional emergencies.* (i) The exemption provided by paragraph (a)(1) of this section is effective only when:

@@ -46,7 +46,7 @@
 
 (ii) Sections 203(c) (5) and (6) of the National Aeronautics and Space Act of 1958, as amended (42 U.S.C. 2473(c) (5) and (6));
 
-(iii) 10 U.S.C. 4021for the Defense Advanced Research Projects Agency; or
+(iii) 10 U.S.C. 4021 for the Defense Advanced Research Projects Agency; or
 
 (iv) Other equivalent authority.
 

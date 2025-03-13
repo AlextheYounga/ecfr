@@ -26,6 +26,12 @@
 
 (3) *Recreational possession limits.* The recreational Atlantic mackerel possession limit for charter/party and private recreational anglers is 20 Atlantic mackerel per person per trip, including for-hire crew.
 
+(4) *2023 and 2024 temporary commercial possession restriction.* For the remainder of the 2023 Atlantic mackerel fishing year and until the 2024 Atlantic mackerel specifications are implemented, commercial vessels issued an open or limited access Atlantic mackerel permit must adhere to the following possession limits.
+
+(i) *Limited access fishery.* Vessels issued a Tier 1, 2, or 3 limited access Atlantic mackerel permit, may not take and retain, possess, or land more than 20,000 lb (9.08 mt) of Atlantic mackerel per trip at any time, and may only land once on any calendar day, which is defined as the 24-hr period beginning at 0001 hours and ending at 2400 hours.
+
+(ii) *Open access fishery.* Vessels issued an open access Atlantic mackerel permit may not take and retain, possess, or land more than 5,000 lb (2.27 mt) of Atlantic mackerel per trip at any time, and may only land Atlantic mackerel once on any calendar day, which is defined as the 24-hr period beginning at 0001 hours and ending at 2400 hours.
+
 (b) *Longfin squid*—(1) *Directed fishery.* A vessel must be issued a valid longfin squid moratorium permit to fish for, possess, or land more than 250 lb (113 kg) of longfin squid from or in the EEZ per trip. Unless the directed fishery is closed pursuant to paragraph § 648.24(a)(1), the following longfin squid possession limits apply:
 
 (i) *Tier 1 moratorium permits.* A vessel issued a Tier 1 longfin squid moratorium permit may possess an unlimited amount of longfin squid per trip.
@@ -80,4 +86,4 @@
 
 (ii) When the Regional Administrator projects that 100 percent of the commercial Atlantic chub mackerel TAL has been landed, a vessel issued a commercial Atlantic mackerel, *Illex* squid, longfin squid, or butterfish permit fish for, possess, or land more than 10,000 lb (4.54 mt) of Atlantic chub mackerel at any time per trip in the EEZ portion of the Atlantic Chub Mackerel Management Unit.
 
-[76 FR 60621, Sept. 29, 2011, as amended at 76 FR 68656, Nov. 7, 2011; 77 FR 16480, Mar. 21, 2012; 77 FR 23636, Apr. 20, 2012; 78 FR 3354, Jan. 16, 2013; 79 FR 18843, Apr. 4, 2014; 80 FR 14875, Mar. 20, 2015; 81 FR 24509, Apr. 26, 2016; 83 FR 64268, Dec. 14, 2018; 83 FR 65315, Dec. 20, 2018; 84 FR 58059, Oct. 30, 2019; 85 FR 47116, Aug. 4, 2020; 88 FR 6670, Feb. 1, 2023]
+[76 FR 60621, Sept. 29, 2011, as amended at 76 FR 68656, Nov. 7, 2011; 77 FR 16480, Mar. 21, 2012; 77 FR 23636, Apr. 20, 2012; 78 FR 3354, Jan. 16, 2013; 79 FR 18843, Apr. 4, 2014; 80 FR 14875, Mar. 20, 2015; 81 FR 24509, Apr. 26, 2016; 83 FR 64268, Dec. 14, 2018; 83 FR 65315, Dec. 20, 2018; 84 FR 58059, Oct. 30, 2019; 85 FR 47116, Aug. 4, 2020; 88 FR 6670, Feb. 1, 2023]Effective Date Note:At 88 FR 70910, Oct. 13, 2023, § 648.26, was amended by adding paragraph (a)(4), effective Oct. 12, 2023 through Apr. 10, 2024.

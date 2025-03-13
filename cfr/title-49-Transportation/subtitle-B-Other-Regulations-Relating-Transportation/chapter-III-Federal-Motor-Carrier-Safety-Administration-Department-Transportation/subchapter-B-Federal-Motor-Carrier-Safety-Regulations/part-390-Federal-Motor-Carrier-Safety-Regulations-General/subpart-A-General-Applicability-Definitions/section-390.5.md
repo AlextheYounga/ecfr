@@ -1,5 +1,7 @@
 ##### § 390.5 Definitions. #####
 
+Link to an amendment published at 88 FR 70907, Oct. 13, 2023.
+
 Unless specifically defined elsewhere, in this subchapter:
 
 *Accident* means—

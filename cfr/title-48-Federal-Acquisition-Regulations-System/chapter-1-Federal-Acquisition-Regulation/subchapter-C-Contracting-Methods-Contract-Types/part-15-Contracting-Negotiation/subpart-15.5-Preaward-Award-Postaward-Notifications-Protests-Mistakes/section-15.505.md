@@ -1,6 +1,6 @@
 ##### 15.505 Preaward debriefing of offerors. #####
 
-Offerors excluded from the competitive range or otherwise excluded from the competition before award may request a debriefing before award (10 U.S.C. 3305and 41 U.S.C. 3705).
+Offerors excluded from the competitive range or otherwise excluded from the competition before award may request a debriefing before award (10 U.S.C. 3305 and 41 U.S.C. 3705).
 
 (a)(1) The offeror may request a preaward debriefing by submitting a written request for debriefing to the contracting officer within 3 days after receipt of the notice of exclusion from the competition.
 

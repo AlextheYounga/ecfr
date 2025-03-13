@@ -22,7 +22,7 @@
 
 (3) Contracting officers shall use the Government prenegotiation cost objective amounts as the basis for calculating the profit or fee prenegotiation objective. Before applying profit or fee factors, the contracting officer shall exclude from the pre-negotiation cost objective amounts the purchase cost of contractor-acquired property that is categorized as equipment, as defined in FAR 45.101, and where such equipment is to be charged directly to the contract. Before applying profit or fee factors, the contracting officer shall exclude any facilities capital cost of money included in the cost objective amounts. If the prospective contractor fails to identify or propose facilities capital cost of money in a proposal for a contract that will be subject to the cost principles for contracts with commercial organizations (see subpart 31.2), facilities capital cost of money will not be an allowable cost in any resulting contract (see 15.408(i)).
 
-(4)(i) The contracting officer shall not negotiate a price or fee that exceeds the following statutory limitations, imposed by10 U.S.C. 3322(b) and 41 U.S.C. 3905):
+(4)(i) The contracting officer shall not negotiate a price or fee that exceeds the following statutory limitations, imposed by 10 U.S.C. 3322(b) and 41 U.S.C. 3905):
 
 (A) For experimental, developmental, or research work performed under a cost-plus-fixed-fee contract, the fee shall not exceed 15 percent of the contract's estimated cost, excluding fee.
 
