@@ -1,7 +1,5 @@
 ##### § 121.103 How does SBA determine affiliation? #####
 
-Link to an amendment published at 88 FR 46014, July 18, 2023.
-
 (a) *General Principles of Affiliation.* (1) Concerns and entities are affiliates of each other when one controls or has the power to control the other, or a third party or parties controls or has the power to control both. It does not matter whether control is exercised, so long as the power to control exists.
 
 (2) SBA considers factors such as ownership, management, previous relationships with or ties to another concern, and contractual relationships, in determining whether affiliation exists.
@@ -50,7 +48,7 @@ Link to an amendment published at 88 FR 46014, July 18, 2023.
 
 (v) Investment companies registered under the Investment Company Act of 1940, as amended (1940 Act) (15 U.S.C. 80a-1, *et seq.*); and
 
-(vi) Investment companies, as defined under the 1940 Act, which are not registered under the 1940 Act because they are beneficially owned by less than 100 persons, if the company's sales literature or organizational documents indicate that its principal purpose is investment in securities rather than the operation of commercial enterprises.
+(vi) Entities determined by SBA to be Traditional Investment Companies under 13 CFR 107.150(b)(2) and private funds exempt from registration under section 3(c)(1) or 3(c)(7) of the 1940 Act.
 
 (6) A firm that has an SBA-approved mentor-protégé agreement authorized under § 125.9 of this chapter is not affiliated with its mentor or protégé firm solely because the protégé firm receives assistance from the mentor under the agreement. Similarly, a protégé firm is not affiliated with its mentor solely because the protégé firm receives assistance from the mentor under a federal mentor-protégé program where an exception to affiliation is specifically authorized by statute or by SBA under the procedures set forth in § 121.903. Affiliation may be found in either case for other reasons as set forth in this section.
 

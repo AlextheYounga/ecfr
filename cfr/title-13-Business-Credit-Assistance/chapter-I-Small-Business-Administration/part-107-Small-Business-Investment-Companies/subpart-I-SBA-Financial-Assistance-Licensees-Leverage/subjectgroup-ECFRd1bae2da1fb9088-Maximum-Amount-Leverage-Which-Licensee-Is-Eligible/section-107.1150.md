@@ -1,16 +1,18 @@
-##### § 107.1150 Maximum amount of Leverage for a Section 301(c) Licensee. #####
+##### § 107.1150 Maximum amount of Leverage. #####
 
-Link to an amendment published at 88 FR 46012, July 18, 2023.
+A Leveraged Licensee, other than an Early Stage SBIC, may have maximum outstanding Leverage as set forth in paragraphs (a), (b), (d), and (e) of this section. An Early Stage SBIC may have maximum outstanding Leverage as set forth in paragraph (c) of this section. In general, SBA will approve Leverage commitment requests in excess of 200 percent of Regulatory Capital and draw requests in excess of 200 percent of Leverageable Capital only after a Licensee has demonstrated consistent, sustainable profitability based on a conservative investment strategy that limits downside risk. Any such Leverage request must be supported by an up-to-date business plan that reflects continuation of the Licensee's successful investment strategy and demonstrates the Licensee's ability to pay all SBA obligations in accordance with their terms.
 
-A Section 301(c) Licensee, other than an Early Stage SBIC, may have maximum outstanding Leverage as set forth in paragraphs (a), (b), (d), and (e) of this section. An Early Stage SBIC may have maximum outstanding Leverage as set forth in paragraph (c) of this section. In general, SBA will approve Leverage commitment requests in excess of 200 percent of Regulatory Capital and draw requests in excess of 200 percent of Leverageable Capital only after a Licensee has demonstrated consistent, sustainable profitability based on a conservative investment strategy that limits downside risk. Any such Leverage request must be supported by an up-to-date business plan that reflects continuation of the Licensee's successful investment strategy and demonstrates the Licensee's ability to pay all SBA obligations in accordance with their terms.
+(a) *Individual Licensee.* Subject to SBA's credit policies, if you are a Leveraged Licensee and not an Accrual SBIC, the maximum amount of Leverage you may have outstanding at any time is the Individual Maximum. If you are an Accrual SBIC, the maximum amount of Leverage and accrued interest you may have outstanding at any time is the Individual Maximum. The *Individual Maximum* means the lesser of:
 
-(a) *Individual Licensee.* Subject to SBA's credit policies, if you are a Section 301(c) Licensee, the maximum amount of Leverage you may have outstanding at any time is the lesser of:
+(1) 300 percent of your Leverageable Capital;
 
-(1) 300 percent of your Leverageable Capital, or
+(2) 100 percent of your Leverageable Capital if you have less than $5 Million in Regulatory Capital and you were Licensed because you are headquartered in an Underlicensed State; or
 
-(2) $150 million.
+(3) The maximum Leverage available to a single Licensee under section 303(b) of the Act.
 
-(b) *Multiple Licensees under Common Control.* Subject to SBA's credit policies, two or more Licenses under Common Control may have maximum aggregate outstanding Leverage of $350 million. However, for any Leverage draw(s) by one or more such Licensees that would cause the aggregate outstanding Leverage to exceed $150 million, each of the Licensees under Common Control must certify that it does not have a condition of Capital Impairment. *See* also § 107.1120(d).
+(b) *Multiple Licensees under Common Control.* Subject to SBA's credit policies, two or more Licenses under Common Control may have maximum aggregate outstanding Leverage as permitted under the Act. For any Accrual SBIC or Reinvestor SBIC under Common Control, the aggregate accrued interest associated with Accrual Debentures will be included in determining whether this maximum has been exceeded. However, for any Leverage draw(s) by one or more such Licensees that would cause the aggregate outstanding Leverage to exceed the Individual Maximum, each of the Licensees under Common Control must certify that it does not have a condition of Capital Impairment. *See* also § 107.1120(d).
+
+*Example 1 to paragraph (b):* If a fund manager has both a regular Leveraged Licensee with $250 million in outstanding Leverage and an Accrual SBIC with $50 million in Accrual Debentures that could accrue interest of $25 million at maturity, SBA will apply the principal from the regular Leverage plus the $50 million from the Accrual Debenture plus the $25 million in potential accrued interest for a combined total of $325 million.
 
 (c) *Early Stage SBICs.* Subject to SBA's credit policies, if you are an Early Stage SBIC:
 
@@ -54,4 +56,4 @@ A Section 301(c) Licensee, other than an Early Stage SBIC, may have maximum outs
 
 (iv) If the amount calculated in paragraph (e)(2)(iii) is less than the maximum Leverage determined under paragraph (a) of this section, the difference between the two amounts equals your additional Leverage availability.
 
-[74 FR 33916, July 14, 2009, as amended at 77 FR 23380, Apr. 19, 2012; 77 FR 25053, Apr. 27, 2012; 79 FR 62824, Oct. 21, 2014; 82 FR 39341, Aug. 18, 2017]
+[74 FR 33916, July 14, 2009, as amended at 77 FR 23380, Apr. 19, 2012; 77 FR 25053, Apr. 27, 2012; 79 FR 62824, Oct. 21, 2014; 82 FR 39341, Aug. 18, 2017; 88 FR 46012, July 18, 2023]

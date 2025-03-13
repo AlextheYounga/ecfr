@@ -1,8 +1,6 @@
-##### § 107.1000 Licensees without Leverage—exceptions to the regulations. #####
+##### § 107.1000 Non-leveraged Licensees—exceptions to this part. #####
 
-Link to an amendment published at 88 FR 46012, July 18, 2023.
-
-The regulatory exceptions in this section apply to Licensees with no outstanding Leverage or Earmarked Assets.
+The regulatory exceptions in this section apply to Non-leveraged Licensees.
 
 (a) You are exempt from the following provisions (but you must come into compliance with them to become eligible for Leverage):
 
@@ -29,3 +27,5 @@ The regulatory exceptions in this section apply to Licensees with no outstanding
 (5) Options obtained from a Small Business by your management or employees under § 107.815(b).
 
 (c) You are exempt from the requirement in § 107.680 to obtain SBA's post approval of new directors and new officers, other than your chief operating officer. However, you must notify SBA of the new directors or officers within 30 days, and you must have all directors and officers approved by SBA in order to become eligible for Leverage.
+
+[61 FR 3189, Jan. 31, 1996, as amended at 88 FR 46012, July 18, 2023]

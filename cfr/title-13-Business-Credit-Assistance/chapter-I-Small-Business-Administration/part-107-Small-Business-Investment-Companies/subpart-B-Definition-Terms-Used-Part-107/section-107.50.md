@@ -1,6 +1,8 @@
 ##### § 107.50 Definition of terms. #####
 
-Link to an amendment published at 88 FR 46005, July 18, 2023.
+*Accrual Debenture* means a Debenture issued at face value that accrues interest over its ten-year term, as to which instrument SBA guarantees both the principal and unpaid accrued interest.
+
+*Accrual Small Business Investment Company (“Accrual SBIC”)* means a Section 301(c) Partnership Licensee, licensed under § 107.300 and approved by SBA to issue Accrual Debentures. Accrual SBICs shall be limited to a maximum of one and one quarter tiers of Leverage.
 
 *Accumulated Prioritized Payments* has the meaning set forth in § 107.1520.
 
@@ -9,6 +11,8 @@ Link to an amendment published at 88 FR 46005, July 18, 2023.
 *Adjustments* has the meaning set forth in § 107.1520.
 
 *Affiliate* or *Affiliates* has the meaning set forth in § 121.103 of this chapter.
+
+*Annual Charge* means an annual fee on Leverage which is payable to SBA by Licensees, subject to the terms and conditions set forth in §§ 107.585 and 107.1130(d).
 
 *Articles* mean articles of incorporation or charter for a Corporate Licensee and the partnership agreement or certificate for a Partnership Licensee.
 
@@ -24,7 +28,7 @@ Link to an amendment published at 88 FR 46005, July 18, 2023.
 
 (iv) Any Person regularly serving a Licensee on retainer in the capacity of attorney at law.
 
-(2) Any Person who owns or controls, or who has entered into an agreement to own or control, directly or indirectly, at least 10 percent of any class of stock of a Corporate Licensee or a limited partner's interest of at least 10 percent of the partnership capital of a Partnership Licensee. However, a limited partner in a Partnership Licensee is not considered an Associate if such Person is an entity Institutional Investor whose investment in the Partnership, including commitments, represents no more than 33 percent of the partnership capital of the Licensee and no more than five percent of such Person's net worth.
+(2) Any Person who owns or controls, or who has entered into an agreement to own or control, directly or indirectly, at least 10 percent of any class of stock of a Corporate Licensee or a limited partner's interest of at least 10 percent of the partnership capital of a Partnership Licensee. However, an entity Institutional Investor, as a limited partner in a Partnership Licensee, is not considered an Associate solely because such Person's investment in the Partnership, including commitments, represents 10 percent or more but less than 50 percent of the Licensee's partnership capital, provided that such investment also represents no more than five percent of such Person's net worth and such limited partner also has no role in the management of the subject Licensee, with no right to control or approve any matter (other than such entity's vote as a limited partner) involving the Licensee.
 
 (3) Any officer, director, partner (other than a limited partner), manager, agent, or employee of any Associate described in paragraph (1) or (2) of this definition.
 
@@ -48,11 +52,13 @@ Link to an amendment published at 88 FR 46005, July 18, 2023.
 
 (11) If any Licensee has any ownership interest in another Licensee, the two Licensees are Associates of each other.
 
+*Capital Call Line* has the meaning set forth in § 107.550(c).
+
 *Capital Impairment* has the meaning set forth in § 107.1830(c).
 
 *Central Registration Agent* or *CRA* means one or more agents appointed by SBA for the purpose of issuing TCs and performing the functions enumerated in § 107.1620 and performing similar functions for Debentures and Participating Securities funded outside the pooling process.
 
-*Charge* means an annual fee on Leverage issued on or after October 1, 1996 (except for Leverage issued pursuant to a commitment made by SBA before October 1, 1996), which is payable to SBA by Licensees, subject to the terms and conditions set forth in § 107.1130(d).
+*Charge* has the same meaning as Annual Charge.
 
 *Close Relative* of an individual means:
 
@@ -78,9 +84,9 @@ Link to an amendment published at 88 FR 46005, July 18, 2023.
 
 (3) Any Person that—
 
-(i) Controls or owns, directly or through an intervening entity, at least 10 percent of a Partnership Licensee or any entity described in paragraphs (1) or (2) of this definition; and
+(i) Controls or owns, directly or through an intervening entity, at least 30 percent of a Partnership Licensee or any entity described in paragraph (1) or (2) of this definition; and
 
-(ii) Participates in the investment decisions of the general partner of such Partnership Licensee;
+(ii) Participates in the investment decisions of the general partner of such Partnership Licensee; *provided that,* if at least 30% of Regulatory Capital is unaffiliated and unassociated with management of the Licensee, the management company of the Licensee is a government sponsored non-profit entity, the general partners of the Licensee are bound by a fiduciary duty to the investors in the Licensee, and such members of the general partner may not be hired or removed directly or indirectly by such government sponsor, the management of the Licensee will be deemed to be free from any outside Control; and
 
 (4) Any Person that controls or owns, directly or through an intervening entity, at least 50 percent of a Partnership Licensee or any entity described in paragraphs (1) or (2) of this definition.
 
@@ -178,6 +184,8 @@ Link to an amendment published at 88 FR 46005, July 18, 2023.
 
 *Equity Securities* has the meaning set forth in § 107.800.
 
+*Final Licensing Fee* has the meaning set forth in § 107.300.
+
 *Financing* or *Financed* means outstanding financial assistance provided to a Small Business by a Licensee, whether through:
 
 (1) Loans;
@@ -190,6 +198,8 @@ Link to an amendment published at 88 FR 46005, July 18, 2023.
 
 (5) Purchases of securities of a Small Business through or from an underwriter (see § 107.825).
 
+*GAAP* means Generally Accepted Accounting Principles as established by the Financial Accounting Standards Board (FASB) and refers to established financial accounting and reporting standards for public and private companies and not-for-profit organizations.
+
 *Guaranty Agreement* means the contract entered into by SBA which is a guarantee backed by the full faith and credit of the United States Government as to timely payment of principal and interest on Debentures or the Redemption Price of and Prioritized Payments on Participating Securities and SBA's rights in connection with such guarantee.
 
 *Includible Non-Cash Gains* means those non-cash gains (as reported on SBA Form 468) that are realized in the form of Publicly Traded and Marketable securities or investment grade debt instruments. For purposes of this definition, investment grade debt instruments means those instruments that are rated “BBB” or “Baa”, or better, by Standard & Poor's Corporation or Moody's Investors Service, respectively. Non-rated debt may be considered to be investment grade if Licensee obtains a written opinion from an investment banking firm acceptable to SBA stating that the non-rated debt instrument is equivalent in risk to the issuer's investment grade debt.
@@ -199,6 +209,8 @@ Link to an amendment published at 88 FR 46005, July 18, 2023.
 (1) Multiply the result by the current fee; and
 
 (2) Round to the nearest $100.
+
+*Initial Licensing Fee* has the meaning set forth in § 107.300.
 
 *Institutional Investor* means:
 
@@ -240,9 +252,11 @@ Link to an amendment published at 88 FR 46005, July 18, 2023.
 
 *Lending Institution* means a concern that is operating under regulations of a state or Federal licensing, supervising, or examining body, or whose shares are publicly traded and listed on a recognized stock exchange or NASDAQ and which has assets in excess of $500 million; and which, in either case, holds itself out to the public as engaged in the making of commercial and industrial loans and whose lending operations are not for the purpose of financing its own or an Associate's sales or business operations.
 
-*Leverage* means financial assistance provided to a Licensee by SBA, either through the purchase or guaranty of a Licensee's Debentures or Participating Securities, or the purchase of a Licensee's Preferred Securities, and any other SBA financial assistance evidenced by a security of the Licensee.
+*Leverage* means financial assistance provided to a Licensee by SBA, either through the purchase or guaranty of a Licensee's Debentures, and any other SBA financial assistance evidenced by a security of the Licensee. For the Accrual Debenture, Leverage includes principal and accrued unpaid interest.
 
 *Leverageable Capital* means Regulatory Capital, excluding unfunded commitments.
+
+*Leveraged Licensee* means a Licensee which has outstanding Leverage, Leverage commitments, or intends to issue Leverage in the future.
 
 *Licensee* means either a corporation (Corporate Licensee), or a limited partnership organized pursuant to § 107.160 (Partnership Licensee), to which a license has been granted pursuant to the Act. For certain purposes, the Entity General Partner of a Partnership Licensee is treated as if it were a Licensee (see § 107.160(b)(2)).
 
@@ -261,6 +275,8 @@ Link to an amendment published at 88 FR 46005, July 18, 2023.
 *Loans and Investments* means Portfolio Securities, Assets Acquired in Liquidation of Portfolio Securities, Operating Concerns Acquired, and Notes and Other Securities Received, as set forth in the Statement of Financial Position of SBA Form 468.
 
 *Management Expenses* has the meaning set forth in § 107.520.
+
+*Non-leveraged Licensee* means a Licensee which has no outstanding Leverage or Leverage commitment, no earmarked assets, and certifies to SBA (in writing) that it will not seek Leverage in the future.
 
 *1940 Act Company* means a Licensee which is registered under the Investment Company Act of 1940.
 
@@ -302,13 +318,21 @@ Link to an amendment published at 88 FR 46005, July 18, 2023.
 
 *Regulatory Capital* means:
 
-(1) *General.* Regulatory Capital means Private Capital, excluding non-cash assets contributed to a Licensee or a license applicant, and non-cash assets purchased by a license applicant, unless such assets have been converted to cash or have been approved by SBA for inclusion in Regulatory Capital. For purposes of this definition, sales of contributed non-cash assets with recourse or borrowing against such assets shall not constitute a conversion to cash.
+(1) *General. Regulatory Capital* means Private Capital, excluding non-cash assets contributed to a Licensee or a license applicant and non-cash assets purchased by a license applicant, unless such assets have been converted to cash or have been approved by SBA for inclusion in Regulatory Capital. For purposes of this definition, sales of contributed non-cash assets with recourse or borrowing against such assets shall not constitute a conversion to cash. Regulatory Capital becomes Leverageable Capital when it is paid in.
 
-(2) *Exclusion of questionable commitments.* An investor's commitment to a Licensee is excluded from Regulatory Capital if SBA determines that the collectibility of the commitment is questionable.
+(2) *Exclusion of questionable commitments.* An investor's commitment to a Licensee is excluded from Regulatory Capital if SBA determines that there is a lack of enforceable legal agreements under United States law or there is an issue of collectability for financial or any other reason, *provided, however,* that the unfunded commitment of an investor that has satisfied the applicable net worth test set forth in the definition of Institutional Investor will not be of questionable collectability (for financial reasons) if the Licensee's limited partnership agreement (or other governing agreement) contains sufficient provisions to ensure collectability.
 
-*Retained Earnings Available for Distribution* means Undistributed Net Realized Earnings less any Unrealized Depreciation on Loans and Investments (as reported on SBA Form 468), and represents the amount that a Licensee may distribute to investors (including SBA) as a profit Distribution, or transfer to Private Capital.
+*Reinvestor SBIC* has the meaning set forth in § 107.720(a)(2).
+
+*Retained Earnings Available for Distribution (READ)* means Undistributed Net Realized Earnings less any Unrealized Depreciation on Loans and Investments (as reported on SBA Form 468) and represents the amount that a Licensee may distribute to investors (including SBA) in accordance with § 107.585 as a profit Distribution, or transfer to Private Capital.
+
+*Revenue-Based Financing* and *Revenue-Based Loan* have the meaning set forth in § 107.810.
 
 *SBA* means the Small Business Administration, 409 Third Street, SW., Washington, DC 20416.
+
+*SBIC* means Small Business Investment Company and has the same meaning as “Licensee” as set forth in this section.
+
+*SBIC website* means the website maintained by SBA at *www.sba.gov/sbic,* which contains information on the SBIC program, including notices, policies, procedures, and forms pertaining to the program.
 
 *Secondary Relative* of an individual means:
 
@@ -334,7 +358,13 @@ Link to an amendment published at 88 FR 46005, July 18, 2023.
 
 (2) Was not formed to acquire any existing business, unless the acquired business satisfies paragraphs (1) and (2) of this definition.
 
+*State* means one of the United States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the United States Virgin Islands, the Northern Mariana Islands, and American Samoa.
+
 *Temporary Debt* has the meaning set forth in § 107.570.
+
+*Total Intended Leverage Commitment* means the dollar amount or ratio of SBA Leverage commitments to Private Capital commitments. The final Total Intended Leverage Commitment dollar amount applied in the Accrual Debenture SBA Share calculation will be finalized no later than 12 months after licensure or upon the Licensee's final close, whichever occurs first.
+
+*Total Private Capital Commitment* has the meaning set forth in § 107.300.
 
 *Trust* means the legal entity created for the purpose of holding guaranteed Debentures or Participating Securities and the guaranty agreement related thereto, receiving, holding and making any related payments, and accounting for such payments.
 
@@ -343,6 +373,8 @@ Link to an amendment published at 88 FR 46005, July 18, 2023.
 *Trust Certificates (TCs)* means certificates issued by SBA, its agent or Trustee and representing ownership of all or a fractional part of a Trust or Pool of Debentures or Participating Securities.
 
 *Trustee* means the trustee or trustees of a Trust.
+
+*Underlicensed State* means a State in which the number of operating licensees per capita is less than the median number of operating licensees per capita for all States, where the per capita per State is based on the most recent resident population published by the U.S. Census as of the date of the calculation. SBA publishes a notice with the current list of Underlicensed States on the SBIC website.
 
 *Undistributed Net Realized Earnings* means Undistributed Realized Earnings less Non-cash Gains/Income, each as reported on SBA Form 468.
 
@@ -354,6 +386,8 @@ Link to an amendment published at 88 FR 46005, July 18, 2023.
 
 *Venture Capital Financing* has the meaning set forth in § 107.1160.
 
-*Wind-up Plan* has the meaning set forth in § 107.590.
+*Watchlist* has the meaning set forth in § 107.1850.
 
-[61 FR 3189, Jan. 31, 1996; 61 FR 41496, Aug. 9, 1996, as amended at 62 FR 11759, Mar. 13, 1997; 63 FR 5865, Feb. 5, 1998; 64 FR 52645, Sept. 30, 1999; 64 FR 70995, Dec. 20, 1999; 69 FR 8098, Feb. 23, 2004; 77 FR 23378, Apr. 19, 2012; 77 FR 25051, Apr. 27, 2012; 79 FR 62823, Oct. 21, 2014; 82 FR 39340, Aug. 18, 2017; 82 FR 52184, Nov. 13, 2017]
+*Wind-down Plan* has the meaning set forth in § 107.590.
+
+[61 FR 3189, Jan. 31, 1996; 61 FR 41496, Aug. 9, 1996, as amended at 62 FR 11759, Mar. 13, 1997; 63 FR 5865, Feb. 5, 1998; 64 FR 52645, Sept. 30, 1999; 64 FR 70995, Dec. 20, 1999; 69 FR 8098, Feb. 23, 2004; 77 FR 23378, Apr. 19, 2012; 77 FR 25051, Apr. 27, 2012; 79 FR 62823, Oct. 21, 2014; 82 FR 39340, Aug. 18, 2017; 82 FR 52184, Nov. 13, 2017; 88 FR 46005, July 18, 2023]

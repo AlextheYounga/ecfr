@@ -1,5 +1,7 @@
 ##### § 54.316 Broadband deployment reporting and certification requirements for high-cost recipients. #####
 
+Link to an amendment published at 88 FR 55937, Aug. 17, 2023.
+
 (a) *Broadband deployment reporting.* Rate-of Return ETCs, ETCs that elect to receive Connect America Phase II model-based support, and ETCs awarded support to serve fixed locations through a competitive bidding process shall have the following broadband reporting obligations:
 
 (1) Recipients of high-cost support with defined broadband deployment obligations pursuant to § 54.308(a), 54.308(c), or § 54.310(c) shall provide to the Administrator on a recurring basis information regarding the locations to which the eligible telecommunications carrier is offering broadband service in satisfaction of its public interest obligations, as defined in either § 54.308 or § 54.309.
@@ -22,7 +24,7 @@
 
 (1) Price cap carriers that elect to receive Connect America Phase II model-based support shall provide: No later than March 1, 2017, and every year thereafter ending on no later than March 1, 2021, a certification that by the end of the prior calendar year, it was offering broadband meeting the requisite public interest obligations specified in § 54.309 to the required percentage of its supported locations in each state as set forth in § 54.310(c).
 
-(2) Rate-of-return carriers electing CAF-ACAM support pursuant to § 54.311 shall provide:
+(2) Rate-of-return carriers electing CAF-ACAM support pursuant to § 54.311, other than Enhanced A-CAM carriers, shall provide:
 
 (i) No later than March 1, 2021, and every year thereafter ending on no later than March 1, 2029, a certification that by the end of the prior calendar year, it was offering broadband meeting the requisite public interest obligations specified in § 54.308 to the required percentage of its fully funded locations in the state, pursuant to the interim deployment milestones set forth in § 54.311(d).
 
@@ -64,4 +66,4 @@
 
 (iii) *Grace period.* An eligible telecommunications carrier that submits the annual reporting information required by this section within three days of the deadline will not receive a reduction in support if the eligible telecommunications carrier and its holding company, operating companies, and affiliates as reported pursuant to § 54.313(a)(8) in their report due July 1 of the prior year have not missed the deadline in any prior year.
 
-[81 FR 24341, Apr. 25, 2016, as amended at 81 FR 44451, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 14340, Mar. 20, 2017; 84 FR 4732, Feb. 19, 2019; 84 FR 59964, Nov. 7, 2019, 85 FR 13798, Mar. 10, 2020; 87 FR 13948, Mar. 11, 2022]
+[81 FR 24341, Apr. 25, 2016, as amended at 81 FR 44451, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 14340, Mar. 20, 2017; 84 FR 4732, Feb. 19, 2019; 84 FR 59964, Nov. 7, 2019, 85 FR 13798, Mar. 10, 2020; 87 FR 13948, Mar. 11, 2022; 88 FR 59937, Aug. 17, 2023]Effective Date Note:At 88 FR 55937, Aug. 17, 2023, § 54.316 was amended by adding paragraphs (a)(9) and (b)(8), However, these paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

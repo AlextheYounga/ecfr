@@ -1,5 +1,7 @@
 ##### § 381.36 Facilities required. #####
 
+Link to an amendment published at 88 FR 55913, Aug. 17, 2023.
+
 (a) *Inspector's Office.* Office space, including, but not being limited to furnishings, light, heat, and janitor service, shall be provided rent free in the official establishment, for the use of Government personnel for official purposes. The room or space set apart for this purpose must meet the approval of the Inspection Service and be conveniently located, properly ventilated, and provided with lockers or file cabinets suitable for the protection and storage of supplies and with facilities suitable for inspectors to change clothing. At the discretion of the Administrator, small plants requiring the services of less than one full-time inspector need not furnish facilities for Program employees as prescribed in this section, where adequate facilities exist in a nearby convenient location. Each official establishment shall provide commercial laundry service for inspectors' outer work clothing, or disposable outer work garments designed for one-time use, or uniform rental service garments which are laundered by the rental service.
 
 (b) *Facilities for ante mortem inspection.* A suspect pen is required for adequate ratite inspection.

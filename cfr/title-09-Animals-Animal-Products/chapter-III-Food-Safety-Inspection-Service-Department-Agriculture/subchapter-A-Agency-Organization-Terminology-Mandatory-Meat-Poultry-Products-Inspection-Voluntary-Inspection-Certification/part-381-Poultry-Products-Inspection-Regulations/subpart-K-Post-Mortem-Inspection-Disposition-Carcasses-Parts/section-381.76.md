@@ -1,5 +1,7 @@
 ##### § 381.76 Post-mortem inspection under Traditional Inspection, the Streamlined Inspection System (SIS), the New Line Speed (NELS) Inspection System, the New Poultry Inspection System (NPIS), the New Turkey Inspection System (NTI), and Ratite Inspection. #####
 
+Link to an amendment published at 88 FR 55913, Aug. 17, 2023.
+
 (a) A post-mortem inspection shall be made on a bird-by-bird basis on all poultry eviscerated in every official establishment. Each carcass, or all parts comprising such carcass, must be examined by an inspector, except for parts that are not needed for inspection purposes and are not intended for human food and are condemned. Each carcass eviscerated shall be prepared as ready-to-cook poultry.
 
 (b)(1) There are six systems of post-mortem inspection: the New Poultry Inspection System (NPIS), which may be used for young chickens and turkeys; the Streamlined Inspection System (SIS) and the New Line Speed Inspection System (NELS), both of which may be used only for broilers and cornish game hens; the New Turkey Inspection (NTI) System, which may be used only for turkeys; Traditional Inspection, which may be used for all poultry, except for ratites; and Ratite Inspection.
@@ -62,7 +64,7 @@
 
 (*c*) Under all inspection systems, including SIS, inspectors conduct post-mortem inspection and look for a number of conditions, as specified elsewhere in this subpart, which may indicate adulteration. Adulterated product is condemned and destroyed, except that carcasses and parts which may be made unadulterated by reprocessing (reworking) may be so reprocessed under the supervision of an inspector and reinspected. Under SIS, inspectors also reinspect product by sampling finished birds (both before and after chilling) for nonconformances with finished product standards (see Table 1). If such nonconformances are present at certain statistical levels, it may indicate process difficulties requiring corrective action by the establishment. If the establishment does not take adequate corrective action, the inspector shall initiate corrective actions such as conducting closer post-mortem inspections and requiring reprocessing and reinspection of previously processed carcasses and parts. Thus, SIS is conducted in two phases—a post-mortem inspection phase and a reinspection phase. The following paragraphs describe the inspection requirements (not addressed elsewhere in this subpart) under each.
 
-(iii) *Post-mortem inspection. (a*) Facilities: Each inspection station must comply with the facility requirements in § 381.36(c).
+(iii) *Post-mortem inspection.* (*a*) Facilities: Each inspection station must comply with the facility requirements in § 381.36(c).
 
 (*b*) Presentation: Each inspector shall be flanked by an establishment employee assigned to be the inspector's helper. The one inspector on the SIS-1 line shall be presented every bird. Each inspector on the SIS-2 line shall be presented every other bird on the line. An establishment employee shall present each bird to the inspector properly eviscerated with the back side toward the inspector and the viscera uniformly trailing or leading. Each inspector shall inspect the inside, viscera, and outside of all birds presented.
 
@@ -72,7 +74,7 @@
 
 (*2*) One or more plant trimmers positioned after all giblets are harvested and prior to reinspection.
 
-(iv) *Reinspection. (a*) Facilities: Reinspection stations are required at both the prechill and postchill locations. The Agency will determine the number of stations needed in those establishments having more than one processing line or more than one chiller. One or more prechill reinspection stations shall be conveniently located at the end of the line or lines prior to chilling. One or more postchill stations must be conveniently located at the end of the chiller or chillers. The prechill and postchill reinspection stations must meet the following provisions:
+(iv) *Reinspection.* (*a*) Facilities: Reinspection stations are required at both the prechill and postchill locations. The Agency will determine the number of stations needed in those establishments having more than one processing line or more than one chiller. One or more prechill reinspection stations shall be conveniently located at the end of the line or lines prior to chilling. One or more postchill stations must be conveniently located at the end of the chiller or chillers. The prechill and postchill reinspection stations must meet the following provisions:
 
 (*1*) Floor space shall consist of 3 feet along each conveyor line. The space shall be level and protected from all traffic and overhead obstructions.
 

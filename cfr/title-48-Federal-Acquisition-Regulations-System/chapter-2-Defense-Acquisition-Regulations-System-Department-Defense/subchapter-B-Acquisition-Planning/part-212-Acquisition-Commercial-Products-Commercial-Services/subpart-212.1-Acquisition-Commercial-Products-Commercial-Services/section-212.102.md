@@ -4,11 +4,13 @@
 
 (A) A determination that an item is a commercial product or commercial service (see paragraph (a)(iii) of this section); or
 
-(B) Applicability of one of the following statutes that provide for treatment as a commercial product or commercial service and use of FAR part 12 procedures, even though the item may not meet the definition of “commercial product” or “commercial service” at FAR 2.101 and does not require a commercial item determination:
+(B) Applicability of one of the following statutes that provide for treatment as a commercial product or commercial service and use of FAR part 12 procedures, even though the item may not meet the definition of “commercial product” or “commercial service” at FAR 2.101 and does not require a commercial product or commercial service determination:
 
 (*1*) 41 U.S.C. 1903—Supplies or services to be used to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack pursuant to FAR 12.102(f).
 
 (*2*) 10 U.S.C. 3457 —Supplies or services from nontraditional defense contractors pursuant to 212.102(a)(iv).
+
+(*3*) 10 U.S.C. 3458—Supplies or services resulting from a commercial solutions opening pursuant to subpart 212.70.
 
 (ii) *Prior use of FAR part 12 procedures.* (A) Pursuant to 10 U.S.C. 3456(c), except as provided in paragraph (a)(ii)(B) of this section or unless the item was acquired pursuant to paragraph (a)(i)(B) of this section, if the Commercial Item Database (for website see PGI 212.102(a)(iii)(A)(*1*)) contains a prior commerciality determination, or the contracting officer has other evidence that an item has previously been acquired by DoD using commercial product and commercial service acquisition procedures under FAR part 12, then the prior contract shall serve as a prior determination that an item is a a commercial product or commercial service. The contracting officer shall document the file accordingly.
 
@@ -40,4 +42,4 @@
 
 (v) *Commercial item guidebook.* For a link to the commercial item guidebook, see PGI 212.102(a)(v).
 
-[87 FR 25143, Apr. 28, 2022, as amended at 87 FR 76991, Dec. 16, 2022; 88 FR 6581, Jan. 31, 2023]
+[87 FR 25143, Apr. 28, 2022, as amended at 87 FR 76991, Dec. 16, 2022; 88 FR 6581, Jan. 31, 2023; 88 FR 55939, Aug. 17, 2023]

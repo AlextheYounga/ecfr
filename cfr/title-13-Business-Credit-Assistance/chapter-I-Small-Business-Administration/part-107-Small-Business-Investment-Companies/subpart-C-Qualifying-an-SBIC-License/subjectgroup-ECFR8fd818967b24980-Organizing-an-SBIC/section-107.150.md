@@ -1,8 +1,6 @@
-##### § 107.150 Management-ownership diversity requirement. #####
+##### § 107.150 Management-ownership diversification requirement. #####
 
-Link to an amendment published at 88 FR 46007, July 18, 2023.
-
-(a) *Diversity requirement.* You must satisfy the requirements in paragraphs (b), (c) and (d) of this section:
+(a) *Diversification requirement.* (Also referenced in this part as the “diversity requirement.”) You must satisfy the requirements in paragraphs (b), (c) and (d) of this section:
 
 (1) In order to obtain an SBIC license (unless you do not plan to obtain Leverage),
 
@@ -10,19 +8,19 @@ Link to an amendment published at 88 FR 46007, July 18, 2023.
 
 (3) If SBA so requires as a condition of approval of your transfer of Control under § 107.440.
 
-(b) *Percentage ownership requirement.* (1) Except as provided in paragraph (b)(2) of this section, no Person or group of Persons who are Affiliates of one another may own or control, directly or indirectly, more than 70 percent of your Regulatory Capital or your Leverageable Capital.
+(b) *Percentage ownership requirement.* (1) *General rule.* Except as provided in paragraph (b)(2) of this section, no Person or group of Persons who are Affiliates of one another may own, directly or indirectly, more than 70 percent of your Regulatory Capital or your Leverageable Capital.
 
-(2) *Exception.* An investor that is a traditional investment company, as determined by SBA, may own and control more than 70 percent of your Regulatory Capital and your Leverageable Capital. For purposes of this section, a traditional investment company must be a professionally managed firm organized exclusively to pool capital from more than one source for the purpose of investing in businesses that are expected to generate substantial returns to the firm's investors. In determining whether a firm is a traditional investment company for purposes of this section, SBA will also consider:
+(2) *Exception.* An investor that is a Traditional Investment Company, as determined by SBA, may own more than 70% of a Licensee's Regulatory Capital and Leverageable Capital. A Traditional Investment Company may also serve as the management company of an SBIC owning and control more than 70 percent of the Licensee's Regulatory Capital and Leverageable Capital. A non-profit entity which is a Traditional Investment Company may only serve as the management company of a Licensee and, unlike other Traditional Investment Companies, is limited to no more than 70% of the Licensee's Regulatory and Leverageable Capital. A Licensee must be a for-profit entity. In determining whether a firm is a Traditional Investment Company for purposes of this section, SBA will also consider:
 
-(i) Whether the managers of the firm are unrelated to and unaffiliated with the investors in the firm;
+(i) The degree to which the managers of the firm are unrelated to and unaffiliated with the investors in the firm or non-profit entity.
 
-(ii) Whether the managers of the firm are authorized and motivated to make investments that, in their independent judgment, are likely to produce significant returns to all investors in the firm;
+(ii) Whether the managers of the firm are authorized and motivated to make investments that, in their independent judgment, are likely to produce significant returns to all investors in the firm or non-profit entity.
 
-(iii) Whether the firm benefits from the use of the SBIC only through the financial performance of the SBIC; and
+(iii) Whether the firm or non-profit entity serving as the management company of a for-profit SBIC benefits from the use of the SBIC through the financial performance of the SBIC.
 
 (iv) Other related factors.
 
-(c) *Non-affiliation requirement*—(1) *General rule.* At least 30 percent of your Regulatory Capital and Leverageable Capital must be owned and controlled by three Persons unaffiliated with your management and unaffiliated with each other, and whose investments are significant in dollar and percentage terms as determined by SBA. Such Persons must not be your Associates (except for their status as your shareholders, limited partners, or members) and must not Control, be Controlled by, or be under Common Control with any of your Associates. A single “acceptable” Institutional Investor may be substituted for two or three of the three Persons who are otherwise required under this paragraph. The following Institutional Investors are “acceptable” for this purpose:
+(c) *Non-affiliation requirement*—(1) *General rule.* At least 30 percent of your Regulatory Capital and Leverageable Capital must be owned and controlled by three Persons unaffiliated with your management and unaffiliated with each other, and whose investments are significant in dollar and percentage terms as determined by SBA. Such Persons must not be your Associates (except for their status as your shareholders, limited partners, or members). A single “acceptable” Institutional Investor may be substituted for two or three of the three Persons who are otherwise required under this paragraph. The following Institutional Investors are “acceptable” for this purpose:
 
 (i) Entities whose overall activities are regulated and periodically examined by state, Federal or other governmental authorities satisfactory to SBA;
 
@@ -36,7 +34,7 @@ Link to an amendment published at 88 FR 46007, July 18, 2023.
 
 (vi) Other Institutional Investors satisfactory to SBA.
 
-(2) *Look-through for traditional investment company investors.* SBA, in its sole discretion, may consider the requirement in paragraph (c)(1) of this section to be satisfied if at least 30 percent of your Regulatory Capital and Leverageable Capital is owned and controlled indirectly, through a traditional investment company, by Persons unaffiliated with your management.
+(2) *Look-through for Traditional Investment Company investors.* SBA, in its sole discretion, may consider the requirement in paragraph (c)(1) of this section to be satisfied if at least 30 percent of your Regulatory Capital and Leverageable Capital is owned and controlled indirectly, through a Traditional Investment Company, by Persons unaffiliated with your management.
 
 (d) *Voting requirement.* (1) Except as provided in paragraph (d)(2) of this section, the investors required for you to satisfy diversity may not delegate their voting rights to any Person who is your Associate, or who Controls, is Controlled by, or is under Common Control with any of your Associates, without prior SBA approval.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 88 FR 46007, July 18, 2023.
 
 (2) Re-establish diversity within six months. For the consequences of failure to re-establish diversity, see §§ 107.1810(g) and 107.1820(f).
 
-[65 FR 71055, Nov. 29, 2000]
+[65 FR 71055, Nov. 29, 2000, as amended at 88 FR 46007, July 18, 2023]

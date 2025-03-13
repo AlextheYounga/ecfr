@@ -1,8 +1,6 @@
 ##### § 107.630 Requirement for Licensees to file financial statements with SBA (Form 468). #####
 
-Link to an amendment published at 88 FR 46011, July 18, 2023.
-
-(a) *Annual filing of Form 468.* For each fiscal year, you must submit to SBA financial statements and supplementary information prepared on SBA Form 468. You must file Form 468 on or before the last day of the third month following the end of your fiscal year, except for the information required under paragraph (e) of this section, which must be filed on or before the last day of the fifth month following the end of your fiscal year.
+(a) *Annual filing of Form 468.* For each fiscal year, you must submit to SBA financial statements and supplementary information prepared on SBA Form 468. You must file Annual Form 468 within 90 calendar days of the end of your fiscal year.
 
 (1) *Audit of Form 468.* The annual Form 468 must be audited by an independent public accountant acceptable to SBA.
 
@@ -12,6 +10,8 @@ Link to an amendment published at 88 FR 46011, July 18, 2023.
 
 (c) *Standards for preparation of Form 468.* You must prepare SBA Form 468 in accordance with SBA's Accounting Standards and Financial Reporting Requirements for Small Business Investment Companies.
 
-(d) *Reporting of economic impact information on Form 468.* Your annual filing of SBA Form 468 must include an assessment of the economic impact of each Financing, specifying the full-time equivalent jobs created or retained, and the impact of the Financing on the revenues and profits of the business and on taxes paid by the business and its employees.
+(d) *Reporting of economic impact information on Form 468.* Your annual filing of SBA Form 468 must include an assessment of the economic impact of each Financing, specifying the full-time equivalent net jobs created and total jobs created or retained, and the impact of the Financing on the revenues and profits of the business and on taxes paid by the business and its employees.
 
-[61 FR 3189, Jan. 31, 1996, as amended at 82 FR 39340, Aug. 18, 2017]
+(e) *Fund management contact and optional demographic information.* The Licensee shall provide and update management contact information. Demographic information is requested for reporting purposes only and on a voluntary basis.
+
+[61 FR 3189, Jan. 31, 1996, as amended at 82 FR 39340, Aug. 18, 2017; 88 FR 46011, July 18, 2023]

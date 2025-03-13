@@ -1,16 +1,14 @@
 ##### § 107.730 Financings which constitute conflicts of interest. #####
 
-Link to an amendment published at 88 FR 46011, July 18, 2023.
-
 (a) *General rule.* You must not self-deal to the prejudice of a Small Business, the Licensee, its shareholders or partners, or SBA. Unless you obtain a prior written exemption from SBA for special instances in which a Financing may further the purposes of the Act despite presenting a conflict of interest, you must not directly or indirectly:
 
-(1) Provide Financing to any of your Associates, except for a Financing to an Associate that meets all of the following conditions:
+(1) Provide Financing to any of your Associates, except for when the Small Business that receives the Financing is your Associate, pursuant to paragraph (8)(ii) of *Associate* as defined in § 107.50, only because an investment fund that is your Associate holds a 10% or greater equity interest in the Small Business and either of the following conditions is met:
 
-(i) The Small Business that receives the Financing is your Associate, pursuant to paragraph (8)(ii) of the Associate definition in § 107.50, only because an investment fund that is your Associate holds a 10% or greater equity interest in the Small Business.
+(i) You and the Associate investment fund previously invested in the Small Business at the same time and on the same terms and conditions; and you and the Associate investment fund are providing follow-on financing to the Small Business at the same time, on the same terms and conditions, and in the same proportionate dollar amounts as your respective investments in the previous round(s) of financing.
 
-(ii) You and the Associate investment fund previously invested in the Small Business at the same time and on the same terms and conditions.
+*Example 1 to paragraph (a)(1)(i):* If you invested $2 million and your Associate invested $1 million in the previous round, your respective follow-on investments would be in the same 2:1 ratio.
 
-(iii) You and the Associate investment fund are providing follow-on financing to the Small Business at the same time, on the same terms and conditions, and in the same proportionate dollar amounts as your respective investments in the previous round(s) of financing (for example, if you invested $2 million and your Associate invested $1 million in the previous round, your respective follow-on investments would be in the same 2:1 ratio).
+(ii) An independent third party is investing in the Small Business at the same time as the Licensee and on the same terms and conditions as the Licensee and represents a significant portion of the Financing; provided, that if the Licensee has a prior Financing in such Small Business, a Licensee's position in such prior Financing may not be diminished or diluted to the benefit of an Associate.
 
 (2) Provide Financing to an Associate of another Licensee if one of your Associates has received or will receive any direct or indirect Financing or a Commitment from that Licensee or a third Licensee (including Financing or Commitments received under any understanding, agreement, or cross dealing, reciprocal or circular arrangement).
 
@@ -44,9 +42,7 @@ Link to an amendment published at 88 FR 46011, July 18, 2023.
 
 (ii) Your Associate invests in the Small Business on the same terms and conditions and at the same time as you.
 
-(iii) Both you and your Associate are leveraged Licensees, and both have outstanding Participating Securities or neither has outstanding Participating Securities.
-
-(iv) You have no outstanding Leverage and do not intend to issue Leverage in the future, and your Associate either is not a Licensee or has no outstanding Leverage and does not intend to issue Leverage in the future.
+(iii) You are a Non-leveraged Licensee, and your Associate either is not a Licensee or is a Non-leveraged Licensee.
 
 (e) *Use of Associates to manage Portfolio Concerns.* To protect your investment, you may designate an Associate to serve as an officer, director, or other participant in the management of a Small Business. You must identify any such Associate in your records available for SBA's review under § 107.600. Without SBA's prior written approval, the Associate must not:
 
@@ -60,4 +56,4 @@ Link to an amendment published at 88 FR 46011, July 18, 2023.
 
 (g) *Public notice.* Before granting an exemption under this § 107.730, SBA will publish notice of the transaction in the Federal Register.
 
-[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5867, Feb. 5, 1998; 64 FR 70996, Dec. 20, 1999; 77 FR 20294, Apr. 4, 2012]
+[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5867, Feb. 5, 1998; 64 FR 70996, Dec. 20, 1999; 77 FR 20294, Apr. 4, 2012; 88 FR 46011, July 18, 2023]

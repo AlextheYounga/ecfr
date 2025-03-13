@@ -1,7 +1,5 @@
 ##### § 107.590 Licensee's requirement to maintain active operations. #####
 
-Link to an amendment published at 88 FR 46010, July 18, 2023.
-
 (a) *Activity test.* You must conduct active operations, as determined under this § 107.590, as a condition of your license. You will be considered active if:
 
 (1) During the eighteen months preceding your most recent fiscal year end, you made Financings totaling at least 20 percent of your Regulatory Capital; or
@@ -22,7 +20,7 @@ Link to an amendment published at 88 FR 46010, July 18, 2023.
 
 (4) You have not made sufficient Financings solely because SBA has restricted your ability to make investments.
 
-(c) *Applicability of activity requirements.* The activity requirements in paragraph (a) of this section do not apply if you have filed a “Wind-up Plan” approved by SBA. “Wind-up Plan” means a plan that you prepare when you decide that you will no longer make any Financings other than follow-on investments, and that you update annually when you file your SBA Form 468. The plan must contain your best estimates of the following:
+(c) *Applicability of activity requirements.* The activity requirements in paragraph (a) of this section do not apply if you have filed a Wind-down Plan approved by SBA. Wind-down Plan means a plan that you prepare when you decide that you will no longer make any Financings other than follow-on investments, and that you update annually when you file your SBA Form 468. The plan must contain your best estimates of the following:
 
 (1) The remaining number of years you expect to operate.
 
@@ -35,3 +33,5 @@ Link to an amendment published at 88 FR 46010, July 18, 2023.
 (d) *Phase-in of activity requirements*—(1) *General rule.* You must meet the activity requirements in this § 107.590 as of the end of your first full fiscal year beginning after January 31, 1996. Until then, you will be considered active if you meet the activity requirements in effect on January 30, 1996.
 
 (2) *Rule for new Licensees.* If you received your license after January 31, 1996, or if you received your license less than eighteen months before the fiscal year end determined under paragraph (d)(1) of this section, you must meet the activity requirements in this § 107.590 as of the end of your second full fiscal year beginning after the date you received your license.
+
+[61 FR 3189, Jan. 31, 1996, as amended at 88 FR 46010, July 18, 2023]

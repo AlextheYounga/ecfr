@@ -92,7 +92,7 @@
 
 (C) Use the alternate II clause in solicitations and contracts when the estimated value is less than $183,000, and the acquisition is of end products in support of operations in Afghanistan.
 
-(D) Use the alternate III clause in solicitations and contracts when the estimated value equals or exceeds $25,000, but is less than $92,319, and the acquisition is of end products in support of operations in Afghanistan.
+(D) Use the alternate III clause in solicitations and contracts when the estimated value is less than $92,319, and the acquisition is of end products in support of operations in Afghanistan.
 
 (E) Use the alternate IV clause in solicitations and contracts when the estimated value equals or exceeds $92,319 but is less than $100,000, except if the acquisition is of end products in support of operations in Afghanistan.
 
@@ -108,4 +108,4 @@
 
 (iii) The acquisition of eligible and noneligible products under the same contract may result in the application of a Free Trade Agreement to only some of the items acquired. In such case, indicate in the Schedule those items covered by the Buy American —Free Trade Agreements—Balance of Payments Program clause.
 
-[75 FR 81916, Dec. 29, 2010, as amended at 77 FR 4630, Jan. 30, 2012; 77 FR 30357, May 22, 2012; 77 FR 35880, June 15, 2012; 78 FR 37986, June 25, 2013; 78 FR 40043, July 3, 2013; 78 FR 59857, Sept. 30, 2013; 78 FR 79621, Dec. 31, 2013; 79 FR 3520, Jan. 22, 2014; 79 FR 11342, Feb. 28, 2014; 79 FR 65817, Nov. 5, 2014; 80 FR 2021, Jan. 15, 2015; 80 FR 36898, June 26, 2015; 80 FR 81471, Dec. 30, 2015; 81 FR 17048, Mar. 25, 2016; 82 FR 61482, Dec. 28, 2017; 84 FR 72246, Dec. 31, 2019; 86 FR 74377, Dec. 30, 2021; 87 FR 76986, Dec. 16, 2022; 88 FR 6584, Jan. 31, 2023]
+[75 FR 81916, Dec. 29, 2010, as amended at 77 FR 4630, Jan. 30, 2012; 77 FR 30357, May 22, 2012; 77 FR 35880, June 15, 2012; 78 FR 37986, June 25, 2013; 78 FR 40043, July 3, 2013; 78 FR 59857, Sept. 30, 2013; 78 FR 79621, Dec. 31, 2013; 79 FR 3520, Jan. 22, 2014; 79 FR 11342, Feb. 28, 2014; 79 FR 65817, Nov. 5, 2014; 80 FR 2021, Jan. 15, 2015; 80 FR 36898, June 26, 2015; 80 FR 81471, Dec. 30, 2015; 81 FR 17048, Mar. 25, 2016; 82 FR 61482, Dec. 28, 2017; 84 FR 72246, Dec. 31, 2019; 86 FR 74377, Dec. 30, 2021; 87 FR 76986, Dec. 16, 2022; 88 FR 6584, Jan. 31, 2023; 88 FR 55940, Aug. 17, 2023]

@@ -1,11 +1,11 @@
-##### § 107.320 Evaluation of Early Stage SBICs. #####
+##### § 107.320 Leverage portfolio diversification. #####
 
-Link to an amendment published at 88 FR 46009, July 18, 2023.
+To minimize “cost” as defined in section 502(5)(A) of the Federal Credit Reform Act of 1990, SBA reserves the right to maintain broad diversification to mitigate concentration of investment risk in approving Leverage commitments for Leveraged Licensees with respect to:
 
-SBA will evaluate an Early Stage SBIC license applicant based on the same factors applicable to other license applicants, as set forth in § 107.305, with particular emphasis on managers' skills and experience in evaluating and investing in early stage companies. In addition, SBA reserves the right to maintain diversification among Early Stage SBICs with respect to:
+(a) The year in which they commence operations;
 
-(a) The year in which they commence operations, and
+(b) The geographic location (giving first priority to applicants from Underlicensed States with below median SBIC Financing dollars per State); and
 
-(b) Their geographic location.
+(c) The asset class and investment strategy.
 
-[77 FR 25052, Apr. 27, 2012]
+[88 FR 46009, July 18, 2023]

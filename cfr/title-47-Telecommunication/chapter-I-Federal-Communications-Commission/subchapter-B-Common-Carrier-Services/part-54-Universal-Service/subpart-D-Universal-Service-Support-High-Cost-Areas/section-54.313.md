@@ -1,5 +1,7 @@
 ##### § 54.313 Annual reporting requirements for high-cost recipients. #####
 
+Link to an amendment published at 88 FR 55936, Aug. 17, 2023.
+
 (a) Any recipient of high-cost support shall provide the following:
 
 (1) Certification that the carrier is able to function in emergency situations as set forth in § 54.202(a)(2);
@@ -80,7 +82,7 @@
 
 (f) In addition to the information and certifications in paragraph (a) of this section, any rate-of-return carrier shall provide:
 
-(1) On July 1, 2016, a list of the geocoded locations already meeting the § 54.309 public interest obligations at the end of calendar year 2015, and the total amount of Phase II support, if any, the price cap carrier used for capital expenditures in 2015.
+(1) Beginning July 1, 2015 and Every Year Thereafter. The following information:
 
 (i) If the rate-of-return carrier is receiving support pursuant to subparts K and M of this part, a certification that it is taking reasonable steps to provide upon reasonable request broadband service at actual speeds of at least 25 Mbps downstream/3 Mbps upstream, with latency suitable for real-time applications, including Voice over internet Protocol, and usage capacity that is reasonably comparable to comparable offerings in urban areas as determined in an annual survey, and that requests for such service are met within a reasonable amount of time; if the rate-of-return carrier receives CAF-ACAM support, a certification that it is meeting the relevant reasonable request standard; or if the rate-of-return carrier is receiving Alaska Plan support pursuant to § 54.306, a certification that it is offering broadband service with latency suitable for real-time applications, including Voice over internet Protocol, and usage capacity that is reasonably comparable to comparable offerings in urban areas, and at speeds committed to in its approved performance plan to the locations it has reported pursuant to § 54.316(a), subject to any limitations due to the availability of backhaul as specified in paragraph (g) of this section.
 
@@ -101,6 +103,14 @@
 (4) If applicable, the name of any cost consultant and cost consulting firm, or other third-party, retained to prepare financial and operations data disclosures submitted to the National Exchange Carrier Association (NECA), the Administrator or the Commission pursuant to subpart D, K, or M of this part.
 
 (5) Rate-of-return carriers receiving support pursuant to the Alternative Connect America Model or the Alaska Plan, that are not otherwise required to file count data pursuant to § 54.903(a)(1) of this subpart, must file the line count data required by § 54.903(a)(1).
+
+(6) Enhanced A-CAM carriers must provide the following:
+
+(i) Enhanced A-CAM carriers must certify that, in the previous calendar year, they participated, in good faith, in any relevant BEAD Program challenge processes or other processes conducted by states or other BEAD Program eligible entities to determine the eligibility of locations for the BEAD Program, and that they otherwise coordinated with states, Tribes, and other eligible entities to help avoid duplicative federal broadband funding. Additionally, Enhanced A-CAM carriers must certify that, in the previous calendar year, they complied with the obligation not to receive or use BEAD Program funding or other future federal grant funding, unless otherwise specified by the Commission or Bureau, that supports broadband deployment for those locations for which they are receiving Enhanced A-CAM support.
+
+(ii) Enhanced A-CAM carriers must describe how and certify that, in the previous calendar year, they continued to participate in the Affordable Connectivity Program or any substantially similar successor program, as required by the terms of their Enhanced A-CAM offers.
+
+(iii) Enhanced A-CAM carriers must certify that they have maintained their cybersecurity and supply chain risk management plans pursuant to § 54.308(e), report whether they filed any substantive modifications pursuant to § 54.308(e)(6) in the prior year, and report the date they filed any substantive modifications.
 
 (g) *Areas with no terrestrial backhaul.* Carriers without access to terrestrial backhaul that are compelled to rely exclusively on satellite backhaul in their study area must certify annually that no terrestrial backhaul options exist. Any such funding recipients must certify they offer broadband service at actual speeds of at least 1 Mbps downstream and 256 kbps upstream within the supported area served by satellite middle-mile facilities. To the extent that new terrestrial backhaul facilities are constructed, or existing facilities improve sufficiently to meet the relevant speed, latency and capacity requirements then in effect for broadband service supported by the Connect America Fund, within twelve months of the new backhaul facilities becoming commercially available, funding recipients must provide the certifications required in paragraphs (e) or (f) of this section in full. Carriers subject to this paragraph must comply with all other requirements set forth in the remaining paragraphs of this section. These obligations may be modified for carriers participating in the Alaska Plan.
 
@@ -143,7 +153,7 @@
 
 (q) Recipients of transitional support under § 54.1516, as part of either the Uniendo a Puerto Rico Fund or Connect USVI Fund shall certify that such support was not used for costs that are (or will be) reimbursed by other sources of support, including Federal or local government aid or insurance reimbursements; and that support was not used for other purposes, such as the retirement of company debt unrelated to eligible expenditures, or other expenses not directly related to network restoration, hardening, and expansion consistent with the framework of the Uniendo a Puerto Rico Fund or Connect USVI Fund, respectively. Recipients of transitional support under § 54.1516 shall certify that they have conducted an annual review of the documentation required by § 54.1515(a) through (c) or § 54.1524, respectively, to determine the need for and to implement changes or revisions to disaster preparation and recovery documentation.
 
-[76 FR 73873, Nov. 29, 2011, as amended at 77 FR 14302, Mar. 9, 2012; 77 FR 30914, May 24, 2012; 78 FR 22201, Apr. 15, 2013; 78 FR 29656, May 21, 2013; 78 FR 3843, Jan. 17, 2013; 78 FR 38233, June 26, 2013; 79 FR 11336, Feb. 28, 2014; 79 FR 39189, July 9, 2014; 80 FR 4477, Jan. 27, 2015; 81 FR 24341, Apr. 25, 2016; 81 FR 44449, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 15450, Mar. 28, 2017; 82 FR 39969, Aug. 23, 2017; 83 FR 18964, May 1, 2018; 84 FR 4732, Feb. 19, 2019; 84 FR 8624, Mar. 11, 2019; 84 FR 19876, May 7, 2019; ;85 FR 59963, Nov. 7, 2019; 85 FR 13797, Mar. 10, 2020; 85 FR 75819, Nov. 25, 2020; 88 FR 28999, May 5, 2023]Effective Date Notes:1. At 77 FR 14302, Mar. 9, 2012, § 54.313(a)(9) introductory text and (f)(2) were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[76 FR 73873, Nov. 29, 2011, as amended at 77 FR 14302, Mar. 9, 2012; 77 FR 30914, May 24, 2012; 78 FR 22201, Apr. 15, 2013; 78 FR 29656, May 21, 2013; 78 FR 3843, Jan. 17, 2013; 78 FR 38233, June 26, 2013; 79 FR 11336, Feb. 28, 2014; 79 FR 39189, July 9, 2014; 80 FR 4477, Jan. 27, 2015; 81 FR 24341, Apr. 25, 2016; 81 FR 44449, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 15450, Mar. 28, 2017; 82 FR 39969, Aug. 23, 2017; 83 FR 18964, May 1, 2018; 84 FR 4732, Feb. 19, 2019; 84 FR 8624, Mar. 11, 2019; 84 FR 19876, May 7, 2019; ;85 FR 59963, Nov. 7, 2019; 85 FR 13797, Mar. 10, 2020; 85 FR 75819, Nov. 25, 2020; 88 FR 28999, May 5, 2023; 88 FR 55936, Aug. 17, 2023]Effective Date Notes:1. At 77 FR 14302, Mar. 9, 2012, § 54.313(a)(9) introductory text and (f)(2) were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
 2. At 79 FR 11336, Feb. 28, 2014, § 54.313(e)(1), (e)(2), and (e)(3) introductory text were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
@@ -154,3 +164,5 @@
 ##### § 54.313 Annual reporting requirements for high-cost recipients. #####
 
 (n) In addition to the information and certifications in paragraph (a) of this section, a mobile competitive eligible telecommunications carrier receiving legacy high-cost support pursuant to § 54.307(e)(5), (e)(6), or (e)(7) shall certify whether it used any support pursuant to § 54.207(f), and if so, whether it used such support in compliance with § 54.7.
+
+5. At 88 FR 55936, Aug. 17, 2023, § 54.313 was amended by revising (f)(1)(i) introductory text and adding (f)(6), however (f)(1)(i) and (f)(6)(i) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

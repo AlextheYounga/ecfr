@@ -1,8 +1,6 @@
 ##### § 107.660 Other items required to be filed by Licensee with SBA. #####
 
-Link to an amendment published at 88 FR 46011, July 18, 2023.
-
-(a) *Reports to owners.* You must give SBA a copy of any report you furnish to your investors, including any prospectus, letter, or other publication concerning your financial operations or those of any Portfolio Concern.
+(a) *Reports to owners.* You must give SBA a copy of any report you furnish to your investors, including any prospectus, quarterly or annual valuation data, materials presented to investors during any meetings (including any annual meeting), fund management demographic information, letter, or other publication concerning your financial operations or those of any Portfolio Concern no later than 30 calendar days after you submit the report to your private investors.
 
 (b) *Documents filed with SEC.* You must give SBA a copy of any report, application or document you file with the Securities and Exchange Commission.
 
@@ -20,4 +18,4 @@ Link to an amendment published at 88 FR 46011, July 18, 2023.
 
 (e) *Other reports.* You must file any other reports that SBA may require by written directive.
 
-[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5866, Feb. 5, 1998]
+[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5866, Feb. 5, 1998; 88 FR 46011, July 18, 2023]

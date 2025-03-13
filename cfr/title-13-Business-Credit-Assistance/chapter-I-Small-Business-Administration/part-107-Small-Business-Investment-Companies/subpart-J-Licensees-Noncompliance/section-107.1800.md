@@ -1,0 +1,3 @@
+##### § 107.1800 Licensee's agreement to terms and conditions in §§ 107.1810 and 107.1820. #####
+
+Any Licensee that violates the terms and conditions of its Leverage is subject to SBA remedies. The terms, conditions and remedies in § 107.1810 apply to outstanding Debentures issued after April 25, 1994. The terms, conditions and remedies in § 107.1820 apply to outstanding Preferred Securities and Participating Securities issued after April 25, 1994, or if you have Earmarked Assets in your portfolio.

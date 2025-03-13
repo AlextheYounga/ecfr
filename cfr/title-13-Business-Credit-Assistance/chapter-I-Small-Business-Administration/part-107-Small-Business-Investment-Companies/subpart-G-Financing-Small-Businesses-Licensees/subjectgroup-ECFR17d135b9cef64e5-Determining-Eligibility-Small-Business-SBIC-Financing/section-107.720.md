@@ -1,12 +1,12 @@
 ##### § 107.720 Small Businesses that may be ineligible for financing. #####
 
-Link to an amendment published at 88 FR 46011, July 18, 2023.
-
 (a) *Relenders or reinvestors.* You are not permitted to finance any business that is a relender or reinvestor.
 
 (1) *Definition.* Relenders or reinvestors are businesses whose primary business activity involves, directly or indirectly, providing funds to others, purchasing debt obligations, factoring, or long-term leasing of equipment with no provision for maintenance or repair.
 
-(2) *Exception.* You may provide Venture Capital Financing to Disadvantaged Businesses that are relenders or reinvestors (except banks or savings and loans not insured by agencies of the federal government, and agricultural credit companies). Without SBA's prior written approval, total Financings under this paragraph (a)(2) that are outstanding as of the close of your fiscal year must not exceed your Regulatory Capital.
+(2) *Exceptions*—(i) *Reinvestor SBICs. Reinvestor SBIC* means a Section 301(c) Partnership licensed as a Reinvestor SBIC under § 107.300 and approved by SBA at the time of licensing to issue Accrual Debentures and shall provide a meaningful percentage of Equity Capital Investments to underserved Small Business reinvestors (except banks, savings and loans not insured by agencies of the Federal Government, and agricultural credit companies) that make direct financings solely to Small Businesses with at least 50% of employees in the United States, Small Businesses Concerns headquartered in the United States, owned and controlled by United States citizens and/or entities, and Small Businesses eligible for investment based on SBA size standards defined in § 121.301 of this chapter or SBIC alternative size standards defined in § 121.301(c) of this chapter at the time of initial investment. SBA may require that each Reinvestor SBIC obtain from each such Small Business reinvestor a written agreement that such Small Business reinvestor has only provided and will only provide financing in compliance with this paragraph (a)(2)(i) and will provide to such Reinvestor SBIC information reasonably necessary to verify compliance with this paragraph (a)(2)(i).
+
+(ii) *Equity Capital Investments to Disadvantaged Businesses.* Licensees may provide Equity Capital Investments to Disadvantaged Businesses that are relenders or reinvestors (except banks or savings and loans not insured by agencies of the Federal Government, and agricultural credit companies).
 
 (b) *Passive Businesses.* You are not permitted to finance a passive business.
 
@@ -76,8 +76,8 @@ Link to an amendment published at 88 FR 46011, July 18, 2023.
 
 (i) *Financing Licensees.* You are not permitted to provide funds, directly or indirectly, that the Small Business will use:
 
-(1) To purchase stock in or provide capital to a Licensee; or
+(1) To purchase stock in or provide capital to a Licensee, provided that a Reinvestor SBIC is permitted to make Equity Capital Investments in Non-leveraged Licensees.
 
 (2) To repay an indebtedness incurred for the purpose of investing in a Licensee.
 
-[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5867, Feb. 5, 1998; 64 FR 70995, Dec. 20, 1999; 79 FR 62823, Oct. 21, 2014; 82 FR 39340, Aug. 18, 2017]
+[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5867, Feb. 5, 1998; 64 FR 70995, Dec. 20, 1999; 79 FR 62823, Oct. 21, 2014; 82 FR 39340, Aug. 18, 2017; 88 FR 46011, July 18, 2023]

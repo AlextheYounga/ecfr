@@ -1,7 +1,5 @@
 ##### § 107.1120 General eligibility requirements for Leverage. #####
 
-Link to an amendment published at 88 FR 46012, July 18, 2023.
-
 To be eligible for Leverage, you must:
 
 (a) Demonstrate a need for Leverage, evidenced by your investment activity and a lack of sufficient funds for investment. For your first issuance of Leverage, if you have invested at least 50 percent of your Leverageable Capital, you are presumed to lack sufficient funds for investment.
@@ -10,7 +8,7 @@ To be eligible for Leverage, you must:
 
 (c) Meet the minimum capital requirements of § 107.210, subject to the following additional conditions:
 
-(1) If you were licensed after September 30, 1996 under the exception in § 107.210(a)(1), you will not be eligible for Leverage until you have Regulatory Capital of at least $5,000,000.
+(1) If you were licensed after September 30, 1996, under the exception in § 107.210(a)(1), you will not be eligible for Leverage until you have Regulatory Capital of at least $5,000,000, unless you were licensed because you are headquartered in an Underlicensed State.
 
 (2) If you were licensed on or before September 30, 1996, and have Regulatory Capital of less than $5,000,000 (less than $10,000,000 if you wish to issue Participating Securities):
 
@@ -34,4 +32,4 @@ To be eligible for Leverage, you must:
 
 (k) If you are an Early Stage SBIC, certify in writing that in accordance with § 107.1810(f)(11), at least 50 percent of the aggregate dollar amount of your Financings will be provided to “early stage” companies as defined under the definition of Early Stage SBIC in § 107.50 of this part.
 
-[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5868, Feb. 5, 1998; 64 FR 70996, Dec. 20, 1999; 74 FR 33916, July 14, 2009; 77 FR 25053, Apr. 27, 2012; 79 FR 62824, Oct. 21, 2014]
+[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5868, Feb. 5, 1998; 64 FR 70996, Dec. 20, 1999; 74 FR 33916, July 14, 2009; 77 FR 25053, Apr. 27, 2012; 79 FR 62824, Oct. 21, 2014; 88 FR 46012, July 18, 2023]

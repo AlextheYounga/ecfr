@@ -14,7 +14,7 @@
 
 (*2*) If program risk is determined to be high, shall outline the steps taken to reduce program risk and the reasons for proceeding with Milestone B approval despite the high level of program risk; and
 
-(C) If a cost-reimbursement type contract is selected, the contract file shall include the milestone decision authority's's written determination that—
+(C) If a cost-reimbursement type contract is selected, the contract file shall include the milestone decision authority's written determination that—
 
 (*1*) The program is so complex and technically challenging that it would not be practicable to reduce program risk to a level that would permit the use of a fixed-price type contract; and
 
@@ -40,4 +40,4 @@
 
 (ii) Ensure a copy of the justification, executed by the program manager or the comparable requiring activity official performing program management responsibilities for the decision that engineering activities and design specifications for reliability and maintainability should not be a requirement, is included in the contract file (10 U.S.C. 4328).
 
-[73 FR 4118, Jan. 24, 2008, as amended at 79 FR 4632, Jan. 29, 2014; 79 FR 23278, Apr. 28, 2014; 79 FR 58694, Sept. 30, 2014; 84 FR 58334, Oct. 31, 2019, 84 FR 65307, Nov. 27, 2019; 87 FR 76995, Dec. 16, 2022]
+[73 FR 4118, Jan. 24, 2008, as amended at 79 FR 4632, Jan. 29, 2014; 79 FR 23278, Apr. 28, 2014; 79 FR 58694, Sept. 30, 2014; 84 FR 58334, Oct. 31, 2019, 84 FR 65307, Nov. 27, 2019; 87 FR 76995, Dec. 16, 2022; 88 FR 55940, Aug. 17, 2023]
