@@ -1,5 +1,7 @@
 ##### § 26.45 How do recipients set overall goals? #####
 
+Link to an amendment published at 89 FR 24966, Apr. 9, 2024.
+
 (a)(1) Except as provided in paragraph (a)(2) of this section, you must set an overall goal for DBE participation in your DOT-assisted contracts.
 
 (2) If you are a FTA or FAA recipient who reasonably anticipates awarding (excluding transit vehicle purchases) $250,000 or less in FTA or FAA funds in prime contracts in a Federal fiscal year, you are not required to develop overall goals for FTA or FAA respectively for that fiscal year. However, if you have an existing DBE program, it must remain in effect and you must seek to fulfill the objectives outlined in § 26.1.

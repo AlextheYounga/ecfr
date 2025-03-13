@@ -1,5 +1,7 @@
 ##### § 23.77 Does this part preempt local requirements? #####
 
+Link to an amendment published at 89 FR 24963, Apr. 9, 2024.
+
 (a) In the event that a State or local law, regulation, or policy differs from the requirements of this part, the recipient must, as a condition of remaining eligible to receive Federal financial assistance from the DOT, take such steps as may be necessary to comply with the requirements of this part.
 
 (b) You must clearly identify any State or local law, regulation, or policy pertaining to minority, women's, or disadvantaged business enterprise concerning airport concessions that adds to, goes beyond, or imposes more stringent requirements than the provisions of this part. FAA will determine whether such a law, regulation, or policy conflicts with this part, in which case the requirements of this part will govern.

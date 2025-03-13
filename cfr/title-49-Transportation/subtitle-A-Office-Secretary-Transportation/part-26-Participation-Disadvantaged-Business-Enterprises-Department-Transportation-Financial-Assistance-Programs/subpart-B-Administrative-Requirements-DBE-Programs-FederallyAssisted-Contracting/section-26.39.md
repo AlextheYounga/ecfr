@@ -1,5 +1,7 @@
 ##### § 26.39 Fostering small business participation. #####
 
+Link to an amendment published at 89 FR 24966, Apr. 9, 2024.
+
 (a) Your DBE program must include an element to structure contracting requirements to facilitate competition by small business concerns, taking all reasonable steps to eliminate obstacles to their participation, including unnecessary and unjustified bundling of contract requirements that may preclude small business participation in procurements as prime contractors or subcontractors.
 
 (b) This element must be submitted to the appropriate DOT operating administration for approval as a part of your DBE program by February 28, 2012. As part of this program element you may include, but are not limited to, the following strategies:

@@ -1,5 +1,7 @@
 ##### § 218.5 Definitions. #####
 
+Link to an amendment published at 89 FR 25108, Apr. 9, 2024.
+
 *Absolute block* means a block in which no train is permitted to enter while it is occupied by another train.
 
 *Blue signal* means a clearly distinguishable blue flag or blue light by day and a blue light at night. When attached to the operating controls of a locomotive, it need not be lighted if the inside of the cab area of the locomotive is sufficiently lighted so as to make the blue signal clearly distinguishable.

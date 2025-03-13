@@ -1,5 +1,7 @@
 ##### § 26.51 What means do recipients use to meet overall goals? #####
 
+Link to an amendment published at 89 FR 24967, Apr. 9, 2024.
+
 (a) You must meet the maximum feasible portion of your overall goal by using race-neutral means of facilitating race-neutral DBE participation. Race-neutral DBE participation includes any time a DBE wins a prime contract through customary competitive procurement procedures or is awarded a subcontract on a prime contract that does not carry a DBE contract goal.
 
 (b) Race-neutral means include, but are not limited to, the following:

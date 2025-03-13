@@ -1,5 +1,7 @@
 ##### § 26.91 What actions do recipients take following DOT certification appeal decisions? #####
 
+Link to an amendment published at 89 FR 24979, Apr. 9, 2024.
+
 (a) If you are the recipient from whose action an appeal under § 26.89 is taken, the decision is binding. It is not binding on other recipients.
 
 (b) If you are a recipient to which a DOT determination under § 26.89 is applicable, you must take the following action:

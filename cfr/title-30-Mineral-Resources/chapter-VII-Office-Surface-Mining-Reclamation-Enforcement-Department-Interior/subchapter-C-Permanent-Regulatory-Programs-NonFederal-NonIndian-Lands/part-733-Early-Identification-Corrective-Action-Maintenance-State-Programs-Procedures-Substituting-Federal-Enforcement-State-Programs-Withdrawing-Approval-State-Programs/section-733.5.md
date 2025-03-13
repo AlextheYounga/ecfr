@@ -1,5 +1,7 @@
 ##### § 733.5 Definitions. #####
 
+Link to an amendment published at 89 FR 24734, Apr. 9, 2024.
+
 As used in this part, the following terms have the specified meanings:
 
 *Action plan* means a detailed schedule OSMRE prepares to identify specific requirements a State regulatory authority must achieve in a timely manner to resolve State regulatory program issues identified during oversight of State regulatory programs.

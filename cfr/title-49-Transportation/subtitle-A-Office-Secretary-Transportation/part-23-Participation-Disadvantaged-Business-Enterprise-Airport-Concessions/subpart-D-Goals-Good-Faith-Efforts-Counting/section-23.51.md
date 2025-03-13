@@ -1,5 +1,7 @@
 ##### § 23.51 How are a recipient's overall goals expressed and calculated? #####
 
+Link to an amendment published at 89 FR 24962, Apr. 9, 2024.
+
 (a) Your objective in setting a goal is to estimate the percentage of the base calculated under §§ 23.47-23.49 that would be performed by ACDBEs in the absence of discrimination and its effects.
 
 (1) This percentage is the estimated ACDBE participation that would occur if there were a “level playing field” for firms to work as concessionaires for your airport.

@@ -1,5 +1,7 @@
 ##### § 26.5 What do the terms used in this part mean? #####
 
+Link to an amendment published at 89 FR 24963, Apr. 9, 2024.
+
 *Affiliation* has the same meaning the term has in the Small Business Administration (SBA) regulations, 13 CFR part 121.
 
 (1) Except as otherwise provided in 13 CFR part 121, concerns are affiliates of each other when, either directly or indirectly:

@@ -1,5 +1,7 @@
 ##### § 23.3 What do the terms used in this part mean? #####
 
+Link to an amendment published at 89 FR 24956, Apr. 9, 2024.
+
 *Administrator* means the Administrator of the Federal Aviation Administration (FAA).
 
 *Affiliation* has the same meaning the term has in the Small Business Administration (SBA) regulations, 13 CFR part 121, except that the provisions of SBA regulations concerning affiliation in the context of joint ventures (13 CFR § 121.103(f)) do not apply to this part.

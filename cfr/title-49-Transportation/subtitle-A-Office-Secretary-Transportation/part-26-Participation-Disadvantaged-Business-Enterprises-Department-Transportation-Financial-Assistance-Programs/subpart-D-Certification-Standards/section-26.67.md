@@ -1,5 +1,7 @@
 ##### § 26.67 What rules determine social and economic disadvantage? #####
 
+Link to an amendment published at 89 FR 24970, Apr. 9, 2024.
+
 (a) *Presumption of disadvantage.* (1) You must rebuttably presume that citizens of the United States (or lawfully admitted permanent residents) who are women, Black Americans, Hispanic Americans, Native Americans, Asian-Pacific Americans, Subcontinent Asian Americans, or other minorities found to be disadvantaged by the SBA, are socially and economically disadvantaged individuals. You must require applicants to submit a signed, notarized certification that each presumptively disadvantaged owner is, in fact, socially and economically disadvantaged.
 
 (2)(i) You must require each individual owner of a firm applying to participate as a DBE, whose ownership and control are relied upon for DBE certification, to certify that he or she has a personal net worth that does not exceed $1.32 million.

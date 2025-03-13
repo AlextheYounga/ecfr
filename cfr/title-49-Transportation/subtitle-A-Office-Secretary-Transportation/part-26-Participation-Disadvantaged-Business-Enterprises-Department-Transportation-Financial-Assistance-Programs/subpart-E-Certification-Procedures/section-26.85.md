@@ -1,5 +1,7 @@
 ##### § 26.85 Interstate certification. #####
 
+Link to an amendment published at 89 FR 24975, Apr. 9, 2024.
+
 (a) This section applies with respect to any firm that is currently certified in its home state.
 
 (b) When a firm currently certified in its home state (“State A”) applies to another State (“State B”) for DBE certification, State B may, at its discretion, accept State A's certification and certify the firm, without further procedures.

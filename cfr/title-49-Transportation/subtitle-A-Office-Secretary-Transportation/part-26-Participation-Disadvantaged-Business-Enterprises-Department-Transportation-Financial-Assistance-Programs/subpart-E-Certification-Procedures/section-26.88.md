@@ -1,5 +1,7 @@
 ##### § 26.88 Summary suspension of certification. #####
 
+Link to an amendment published at 89 FR 24977, Apr. 9, 2024.
+
 (a) A recipient shall immediately suspend a DBE's certification without adhering to the requirements in § 26.87(d) of this part when an individual owner whose ownership and control of the firm are necessary to the firm's certification dies or is incarcerated.
 
 (b)(1) A recipient may immediately suspend a DBE's certification without adhering to the requirements in § 26.87(d) when there is adequate evidence to believe that there has been a material change in circumstances that may affect the eligibility of the DBE firm to remain certified, or when the DBE fails to notify the recipient or UCP in writing of any material change in circumstances as required by § 26.83(i) of this part or fails to timely file an affidavit of no change under § 26.83(j).

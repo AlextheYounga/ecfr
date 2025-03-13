@@ -1,5 +1,7 @@
 ##### § 26.86 What rules govern recipients' denials of initial requests for certification? #####
 
+Link to an amendment published at 89 FR 24976, Apr. 9, 2024.
+
 (a) When you deny a request by a firm, which is not currently certified with you, to be certified as a DBE, you must provide the firm a written explanation of the reasons for the denial, specifically referencing the evidence in the record that supports each reason for the denial. All documents and other information on which the denial is based must be made available to the applicant, on request.
 
 (b) [Reserved]

@@ -1,5 +1,7 @@
 ##### § 26.49 How are overall goals established for transit vehicle manufacturers? #####
 
+Link to an amendment published at 89 FR 24966, Apr. 9, 2024.
+
 (a) If you are an FTA recipient, you must require in your DBE program that each transit vehicle manufacturer, as a condition of being authorized to bid or propose on FTA-assisted transit vehicle procurements, certify that it has complied with the requirements of this section. You do not include FTA assistance used in transit vehicle procurements in the base amount from which your overall goal is calculated.
 
 (1) Only those transit vehicle manufacturers listed on FTA's certified list of Transit Vehicle Manufacturers, or that have submitted a goal methodology to FTA that has been approved or has not been disapproved, at the time of solicitation are eligible to bid.

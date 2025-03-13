@@ -1,5 +1,7 @@
 ##### § 26.71 What rules govern determinations concerning control? #####
 
+Link to an amendment published at 89 FR 24973, Apr. 9, 2024.
+
 (a) In determining whether socially and economically disadvantaged owners control a firm, you must consider all the facts in the record, viewed as a whole.
 
 (b) Only an independent business may be certified as a DBE. An independent business is one the viability of which does not depend on its relationship with another firm or firms.

@@ -1,5 +1,7 @@
 ##### § 23.55 How do recipients count ACDBE participation toward goals for items other than car rentals? #####
 
+Link to an amendment published at 89 FR 24962, Apr. 9, 2024.
+
 (a) You count only ACDBE participation that results from a commercially useful function. For purposes of this part, the term commercially useful function has the same meaning as in part 26, § 26.55(c), except that the requirements of § 26.55(c)(3) do not apply to concessions.
 
 (b) Count the total dollar value of gross receipts an ACDBE earns under a concession agreement and the total dollar value of a management contract or subcontract with an ACDBE toward the goal. However, if the ACDBE enters into a subconcession agreement or subcontract with a non-ACDBE, do not count any of the gross receipts earned by the non-ACDBE.

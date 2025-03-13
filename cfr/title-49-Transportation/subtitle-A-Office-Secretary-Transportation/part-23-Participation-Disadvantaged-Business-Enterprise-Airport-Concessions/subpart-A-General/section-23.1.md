@@ -1,5 +1,7 @@
 ##### § 23.1 What are the objectives of this part? #####
 
+Link to an amendment published at 89 FR 24956, Apr. 9, 2024.
+
 This part seeks to achieve several objectives:
 
 (a) To ensure nondiscrimination in the award and administration of opportunities for concessions by airports receiving DOT financial assistance;

@@ -1,5 +1,7 @@
 ##### § 26.53 What are the good faith efforts procedures recipients follow in situations where there are contract goals? #####
 
+Link to an amendment published at 89 FR 24967, Apr. 9, 2024.
+
 (a) When you have established a DBE contract goal, you must award the contract only to a bidder/offeror who makes good faith efforts to meet it. You must determine that a bidder/offeror has made good faith efforts if the bidder/offeror does either of the following things:
 
 (1) Documents that it has obtained enough DBE participation to meet the goal; or

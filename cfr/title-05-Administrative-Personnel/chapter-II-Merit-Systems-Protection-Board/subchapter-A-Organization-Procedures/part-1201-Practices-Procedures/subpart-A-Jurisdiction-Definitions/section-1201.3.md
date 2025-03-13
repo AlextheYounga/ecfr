@@ -1,5 +1,7 @@
 ##### § 1201.3 Appellate jurisdiction. #####
 
+Link to an amendment published at 89 FR 24681, Apr. 9, 2024.
+
 (a) *Generally.* The Board's appellate jurisdiction is limited to those matters over which it has been given jurisdiction by law, rule, or regulation. The Board's jurisdiction does not depend solely on the label or nature of the action or decision taken or made but may also depend on the type of Federal appointment the individual received, e.g., competitive or excepted service, whether an individual is preference eligible, and other factors. Accordingly, the laws and regulations cited below, which are the source of the Board's jurisdiction, should be consulted to determine not only the nature of the actions or decisions that are appealable, but also the limitations as to the types of employees, former employees, or applicants for employment who may assert them. Instances in which a law or regulation authorizes the Board to hear an appeal or claim include the following:
 
 (1) *Adverse actions.* Removals (terminations of employment after completion of probationary or other initial service period), reductions in grade or pay, suspension for more than 14 days, or furloughs for 30 days or less for cause that will promote the efficiency of the service; an involuntary resignation or retirement is considered to be a removal (5 U.S.C. 7511-7514; 5 CFR part 752, subparts C and D);

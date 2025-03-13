@@ -1,5 +1,7 @@
 ##### § 275.203A-2 Exemptions from prohibition on Commission registration. #####
 
+Link to an amendment published at 89 FR 24712, Apr. 9, 2024.
+
 The prohibition of section 203A(a) of the Act (15 U.S.C. 80b-3a(a)) does not apply to:
 
 (a) *Pension consultants.* (1) An investment adviser that is a “pension consultant,” as defined in this section, with respect to assets of plans having an aggregate value of at least $200,000,000.

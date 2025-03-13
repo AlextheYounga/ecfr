@@ -1,5 +1,7 @@
 ##### § 26.89 What is the process for certification appeals to the Department of Transportation? #####
 
+Link to an amendment published at 89 FR 24978, Apr. 9, 2024.
+
 (a)(1) If you are a firm that is denied certification or whose eligibility is removed by a recipient, including SBA-certified firms, you may make an administrative appeal to the Department.
 
 (2) If you are a complainant in an ineligibility complaint to a recipient (including the concerned operating administration in the circumstances provided in § 26.87(c)), you may appeal to the Department if the recipient does not find reasonable cause to propose removing the firm's eligibility or, following a removal of eligibility proceeding, determines that the firm is eligible.

@@ -1,5 +1,7 @@
 ##### § 26.81 What are the requirements for Unified Certification Programs? #####
 
+Link to an amendment published at 89 FR 24974, Apr. 9, 2024.
+
 (a) You and all other DOT recipients in your state must participate in a Unified Certification Program (UCP).
 
 (1) Within three years of March 4, 1999, you and the other recipients in your state must sign an agreement establishing the UCP for that state and submit the agreement to the Secretary for approval. The Secretary may, on the basis of extenuating circumstances shown by the recipients in the state, extend this deadline for no more than one additional year.

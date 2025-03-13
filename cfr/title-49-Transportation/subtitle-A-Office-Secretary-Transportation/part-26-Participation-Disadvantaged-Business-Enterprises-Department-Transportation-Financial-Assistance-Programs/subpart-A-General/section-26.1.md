@@ -1,5 +1,7 @@
 ##### § 26.1 What are the objectives of this part? #####
 
+Link to an amendment published at 89 FR 24963, Apr. 9, 2024.
+
 This part seeks to achieve several objectives:
 
 (a) To ensure nondiscrimination in the award and administration of DOT-assisted contracts in the Department's highway, transit, and airport financial assistance programs;

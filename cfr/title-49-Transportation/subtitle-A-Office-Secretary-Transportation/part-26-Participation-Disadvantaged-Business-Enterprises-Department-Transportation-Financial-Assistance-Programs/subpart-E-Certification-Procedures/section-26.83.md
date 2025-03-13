@@ -1,5 +1,7 @@
 ##### § 26.83 What procedures do recipients follow in making certification decisions? #####
 
+Link to an amendment published at 89 FR 24974, Apr. 9, 2024.
+
 (a) You must ensure that only firms certified as eligible DBEs under this section participate as DBEs in your program.
 
 (b) You must determine the eligibility of firms as DBEs consistent with the standards of subpart D of this part. When a UCP is formed, the UCP must meet all the requirements of subpart D of this part and this subpart that recipients are required to meet.

@@ -1,5 +1,7 @@
 ##### § 26.35 What role do business development and mentor-protégé programs have in the DBE program? #####
 
+Link to an amendment published at 89 FR 24966, Apr. 9, 2024.
+
 (a) You may or, if an operating administration directs you to, you must establish a DBE business development program (BDP) to assist firms in gaining the ability to compete successfully in the marketplace outside the DBE program. You may require a DBE firm, as a condition of receiving assistance through the BDP, to agree to terminate its participation in the DBE program after a certain time has passed or certain objectives have been reached. See Appendix C of this part for guidance on administering BDP programs.
 
 (b) As part of a BDP or separately, you may establish a “mentor-protégé” program, in which another DBE or non-DBE firm is the principal source of business development assistance to a DBE firm.

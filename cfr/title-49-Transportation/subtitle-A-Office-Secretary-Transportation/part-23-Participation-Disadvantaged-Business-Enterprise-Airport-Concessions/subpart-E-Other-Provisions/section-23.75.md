@@ -1,5 +1,7 @@
 ##### § 23.75 Can recipients enter into long-term, exclusive agreements with concessionaires? #####
 
+Link to an amendment published at 89 FR 24962, Apr. 9, 2024.
+
 (a) Except as provided in paragraph (b) of this section, you must not enter into long-term, exclusive agreements for concessions. For purposes of this section, a long-term agreement is one having a term longer than five years.
 
 (b) You may enter into a long-term, exclusive concession agreement only under the following conditions:

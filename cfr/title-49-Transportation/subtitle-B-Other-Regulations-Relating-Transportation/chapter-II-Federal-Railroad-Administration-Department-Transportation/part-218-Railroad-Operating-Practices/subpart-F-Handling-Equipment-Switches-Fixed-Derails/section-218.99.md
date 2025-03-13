@@ -1,5 +1,7 @@
 ##### § 218.99 Shoving or pushing movements. #####
 
+Link to an amendment published at 89 FR 25108, Apr. 9, 2024.
+
 (a)(1) Each railroad shall adopt and comply with an operating rule which complies with the requirements of this section. When any person including, but not limited to, each railroad, railroad officer, supervisor, and employee violates any requirement of an operating rule which complies with the requirements of this section, that person shall be considered to have violated the requirements of this section.
 
 (2) The following requirements for shoving or pushing movements do not apply to rolling equipment intentionally shoved or pushed to permit the rolling equipment to roll without power attached, i.e., free rolling equipment, during switching activities known as kicking, humping, or dropping cars.

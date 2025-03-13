@@ -1,5 +1,7 @@
 ##### § 26.37 What are a recipient's responsibilities for monitoring the performance of other program participants? #####
 
+Link to an amendment published at 89 FR 24966, Apr. 9, 2024.
+
 (a) You must implement appropriate mechanisms to ensure compliance with the part's requirements by all program participants (e.g., applying legal and contract remedies available under Federal, state and local law). You must set forth these mechanisms in your DBE program.
 
 (b) Your DBE program must also include a monitoring and enforcement mechanism to ensure that work committed to DBEs at contract award or subsequently (*e.g.,* as the result of modification to the contract) is actually performed by the DBEs to which the work was committed. This mechanism must include a written certification that you have reviewed contracting records and monitored work sites in your state for this purpose. The monitoring to which this paragraph refers may be conducted in conjunction with monitoring of contract performance for other purposes (*e.g.,* close-out reviews for a contract).

@@ -1,5 +1,7 @@
 ##### § 23.39 What other certification requirements apply in the case of ACDBEs? #####
 
+Link to an amendment published at 89 FR 24961, Apr. 9, 2024.
+
 (a) The provisions of part 26, §§ 26.83 (c)(2) through (c)(6) do not apply to certifications for purposes of this part. Instead, in determining whether a firm is an eligible ACDBE, you must take the following steps:
 
 (1) Obtain the resumes or work histories of the principal owners of the firm and personally interview these individuals;

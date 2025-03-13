@@ -1,5 +1,7 @@
 ##### § 23.25 What measures must recipients include in their ACDBE programs to ensure nondiscriminatory participation of ACDBEs in concessions? #####
 
+Link to an amendment published at 89 FR 24959, Apr. 9, 2024.
+
 (a) You must include in your ACDBE program a narrative description of the types of measures you intend to make to ensure nondiscriminatory participation of ACDBEs in concession and other covered activities.
 
 (b) Your ACDBE program must provide for setting goals consistent with the requirements of Subpart D of this part.

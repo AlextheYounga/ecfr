@@ -1,5 +1,7 @@
 ##### § 23.45 What are the requirements for submitting overall goal information to the FAA? #####
 
+Link to an amendment published at 89 FR 24962, Apr. 9, 2024.
+
 (a) You must submit your overall goals to the appropriate FAA Regional Civil Rights Office for approval. Your first set of overall goals meeting the requirements of this subpart are due on the following schedule:
 
 (1) If you are a large or medium hub primary airport on April 21, 2005, by January 1, 2006. You must make your next submissions by October 1, 2008.

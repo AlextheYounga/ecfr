@@ -1,5 +1,7 @@
 ##### § 26.47 Can recipients be penalized for failing to meet overall goals? #####
 
+Link to an amendment published at 89 FR 24966, Apr. 9, 2024.
+
 (a) You cannot be penalized, or treated by the Department as being in noncompliance with this rule, because your DBE participation falls short of your overall goal, unless you have failed to administer your program in good faith.
 
 (b) If you do not have an approved DBE program or overall goal, or if you fail to implement your program in good faith, you are in noncompliance with this part.

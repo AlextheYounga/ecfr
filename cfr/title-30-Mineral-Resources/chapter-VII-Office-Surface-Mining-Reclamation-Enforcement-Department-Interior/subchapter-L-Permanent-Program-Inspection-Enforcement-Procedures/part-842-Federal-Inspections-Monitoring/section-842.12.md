@@ -1,5 +1,7 @@
 ##### § 842.12 Requests for Federal inspections. #####
 
+Link to an amendment published at 89 FR 24736, Apr. 9, 2024.
+
 (a) Any person may request a Federal inspection under § 842.11(b) by providing to an authorized representative a signed, written statement (or an oral report followed by a signed written statement) setting forth information that, along with any other readily available information, may give the authorized representative reason to believe that a violation, condition, or practice referred to in § 842.11(b)(1)(i) exists. The statement must also set forth the fact that the person has notified the State regulatory authority, if any, in writing, of the existence of the possible violation, condition, or practice, and the basis for the person's assertion that the State regulatory authority has not taken action with respect to the possible violation. The statement must set forth a phone number, address, and, if available, an email address where the person can be contacted.
 
 (b) The identity of any person supplying information to the Office relating to a possible violation or imminent danger or harm shall remain confidential with the Office, if requested by that person, unless that person elects to accompany the inspector on the inspection, or unless disclosure is required under the Freedom of Information Act (5 U.S.C. 552) or other Federal law.

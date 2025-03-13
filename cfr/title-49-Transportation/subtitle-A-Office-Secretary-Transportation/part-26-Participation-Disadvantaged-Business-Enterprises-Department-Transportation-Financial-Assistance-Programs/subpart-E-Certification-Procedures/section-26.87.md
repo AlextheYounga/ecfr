@@ -1,5 +1,7 @@
 ##### § 26.87 What procedures does a recipient use to remove a DBE's eligibility? #####
 
+Link to an amendment published at 89 FR 24976, Apr. 9, 2024.
+
 (a) *Ineligibility complaints.* (1) Any person may file with you a written complaint alleging that a currently-certified firm is ineligible and specifying the alleged reasons why the firm is ineligible. You are not required to accept a general allegation that a firm is ineligible or an anonymous complaint. The complaint may include any information or arguments supporting the complainant's assertion that the firm is ineligible and should not continue to be certified. Confidentiality of complainants' identities must be protected as provided in § 26.109(b).
 
 (2) You must review your records concerning the firm, any material provided by the firm and the complainant, and other available information. You may request additional information from the firm or conduct any other investigation that you deem necessary.

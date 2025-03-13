@@ -1,5 +1,7 @@
 ##### § 26.55 How is DBE participation counted toward goals? #####
 
+Link to an amendment published at 89 FR 24968, Apr. 9, 2024.
+
 (a) When a DBE participates in a contract, you count only the value of the work actually performed by the DBE toward DBE goals.
 
 (1) Count the entire amount of that portion of a construction contract (or other contract not covered by paragraph (a)(2) of this section) that is performed by the DBE's own forces. Include the cost of supplies and materials obtained by the DBE for the work of the contract, including supplies purchased or equipment leased by the DBE (except supplies and equipment the DBE subcontractor purchases or leases from the prime contractor or its affiliate).

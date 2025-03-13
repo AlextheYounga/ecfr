@@ -1,5 +1,7 @@
 ##### § 26.69 What rules govern determinations of ownership? #####
 
+Link to an amendment published at 89 FR 24972, Apr. 9, 2024.
+
 (a) In determining whether the socially and economically disadvantaged participants in a firm own the firm, you must consider all the facts in the record viewed as a whole, including the origin of all assets and how and when they were used in obtaining the firm. All transactions for the establishment and ownership (or transfer of ownership) must be in the normal course of business, reflecting commercial and arms-length practices.
 
 (b) To be an eligible DBE, a firm must be at least 51 percent owned by socially and economically disadvantaged individuals.

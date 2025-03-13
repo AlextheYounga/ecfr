@@ -1,5 +1,7 @@
 ##### § 23.13 How does the Department issue guidance, interpretations, exemptions, and waivers pertaining to this part? #####
 
+Link to an amendment published at 89 FR 24958, Apr. 9, 2024.
+
 (a) Only guidance and interpretations (including interpretations set forth in certification appeal decisions) consistent with this part 23 and issued after April 21, 2005, express the official positions and views of the Department of Transportation or the Federal Aviation Administration.
 
 (b) The Secretary of Transportation, Office of the Secretary of Transportation, and the FAA may issue written interpretations of or written guidance concerning this part. Written interpretations and guidance are valid, and express the official positions and views of the Department of Transportation or the FAA, only if they are issued over the signature of the Secretary of Transportation or if they contain the following statement:

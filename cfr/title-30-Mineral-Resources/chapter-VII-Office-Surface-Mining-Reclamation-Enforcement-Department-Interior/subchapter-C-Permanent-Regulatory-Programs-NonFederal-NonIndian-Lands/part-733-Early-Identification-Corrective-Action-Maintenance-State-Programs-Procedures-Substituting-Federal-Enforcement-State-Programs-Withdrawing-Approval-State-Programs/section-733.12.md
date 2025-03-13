@@ -1,5 +1,7 @@
 ##### § 733.12 Early identification and corrective action to address State regulatory program issues. #####
 
+Link to an amendment published at 89 FR 24734, Apr. 9, 2024.
+
 (a) When the Director identifies a State regulatory program issue, he or she should take action to make sure the identified State regulatory program issue is corrected as soon as possible in order to ensure that it does not escalate into an issue that would give the Director reason to believe that the State regulatory authority is not effectively implementing, administering, enforcing, or maintaining all or a portion of its State regulatory program.
 
 (1) The Director may become aware of State regulatory program issues through oversight of State regulatory programs or as a result of information received from any source.

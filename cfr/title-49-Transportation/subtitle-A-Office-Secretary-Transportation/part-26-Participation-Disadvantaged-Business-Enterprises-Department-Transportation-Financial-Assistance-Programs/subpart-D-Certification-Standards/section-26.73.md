@@ -1,5 +1,7 @@
 ##### § 26.73 What are other rules affecting certification? #####
 
+Link to an amendment published at 89 FR 24974, Apr. 9, 2024.
+
 (a)(1) Consideration of whether a firm performs a commercially useful function or is a regular dealer pertains solely to counting toward DBE goals the participation of firms that have already been certified as DBEs. Except as provided in paragraph (a)(2) of this section, you must not consider commercially useful function issues in any way in making decisions about whether to certify a firm as a DBE.
 
 (2) You may consider, in making certification decisions, whether a firm has exhibited a pattern of conduct indicating its involvement in attempts to evade or subvert the intent or requirements of the DBE program.

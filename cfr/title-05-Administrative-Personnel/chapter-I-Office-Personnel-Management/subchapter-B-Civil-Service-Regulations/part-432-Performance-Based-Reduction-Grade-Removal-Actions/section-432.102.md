@@ -1,5 +1,7 @@
 ##### § 432.102 Coverage. #####
 
+Link to an amendment published at 89 FR 25047, Apr. 9, 2024.
+
 (a) *Actions covered.* This part covers reduction in grade and removal of employees based on unacceptable performance.
 
 (b) *Actions excluded.* This part does not apply to:

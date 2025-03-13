@@ -1,5 +1,7 @@
 ##### § 23.53 How do car rental companies count ACDBE participation toward their goals? #####
 
+Link to an amendment published at 89 FR 24962, Apr. 9, 2024.
+
 (a) As a car rental company, you may, in meeting the goal the airport has set for you, include purchases or leases of vehicles from any vendor that is a certified ACDBE.
 
 (b) As a car rental company, if you choose to meet the goal the airport has set for you by including purchases or leases of vehicles from an ACDBE vendor, you must also submit to the recipient documentation of the good faith efforts you have made to obtain ACDBE participation from other ACDBE providers of goods and services.

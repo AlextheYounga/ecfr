@@ -1,5 +1,7 @@
 ##### § 451.302 Ranks for senior career employees. #####
 
+Link to an amendment published at 89 FR 25047, Apr. 9, 2024.
+
 (a) The circumstances under which the President may award the rank of Distinguished Senior Professional and Meritorious Senior Professional to a senior career employee are set forth in 5 U.S.C. 4507a.
 
 (b) To be eligible for a rank award, a senior career employee must:

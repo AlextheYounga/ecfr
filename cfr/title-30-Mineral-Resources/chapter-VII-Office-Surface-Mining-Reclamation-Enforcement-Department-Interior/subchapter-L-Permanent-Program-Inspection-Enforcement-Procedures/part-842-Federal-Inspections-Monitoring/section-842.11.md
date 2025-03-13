@@ -1,5 +1,7 @@
 ##### § 842.11 Federal inspections and monitoring. #####
 
+Link to an amendment published at 89 FR 24735, Apr. 9, 2024.
+
 (a) Authorized representatives of the Secretary shall conduct inspections of surface coal mining and reclamation operations as necessary—
 
 (1) To monitor and evaluate the administration of approved State programs. Such monitoring and evaluation inspections shall be conducted jointly with the State regulatory authority where practical and where the State so requests;

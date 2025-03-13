@@ -1,5 +1,7 @@
 ##### § 210.102 Definitions. #####
 
+Link to an amendment published at 89 FR 25045, Apr. 9, 2024.
+
 (a) The definitions in paragraph (b) of this section apply throughout this chapter, except when a defined term is specifically modified in or specifically defined for the purpose of a particular part.
 
 (b) In this chapter:

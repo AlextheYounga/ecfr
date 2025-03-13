@@ -1,5 +1,7 @@
 ##### § 23.33 What size standards do recipients use to determine the eligibility of ACDBEs? #####
 
+Link to an amendment published at 89 FR 24960, Apr. 9, 2024.
+
 (a) As a recipient, you must, except as provided in paragraph (b) of this section, treat a firm as a small business eligible to be certified as an ACDBE if its gross receipts, averaged over the firm's previous three fiscal years, do not exceed $56.42 million.
 
 (b) The following types of businesses have size standards that differ from the standard set forth in paragraph (a) of this section:

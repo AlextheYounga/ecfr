@@ -1,5 +1,7 @@
 ##### § 26.3 To whom does this part apply? #####
 
+Link to an amendment published at 89 FR 24963, Apr. 9, 2024.
+
 (a) If you are a recipient of any of the following types of funds, this part applies to you:
 
 (1) Federal-aid highway funds authorized under Titles I (other than Part B) and V of the Intermodal Surface Transportation Efficiency Act of 1991 (ISTEA), Pub. L. 102-240, 105 Stat. 1914, or Titles I, III, and V of the Transportation Equity Act for the 21st Century (TEA-21), Pub. L. 105-178, 112 Stat. 107. Titles I, III, and V of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (SAFETEA-LU), Pub. L. 109-59, 119 Stat. 1144; and Divisions A and B of the Moving Ahead for Progress in the 21st Century Act (MAP-21), Pub. L. 112-141, 126 Stat. 405.

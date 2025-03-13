@@ -1,5 +1,7 @@
 ##### § 26.61 How are burdens of proof allocated in the certification process? #####
 
+Link to an amendment published at 89 FR 24969, Apr. 9, 2024.
+
 (a) In determining whether to certify a firm as eligible to participate as a DBE, you must apply the standards of this subpart.
 
 (b) The firm seeking certification has the burden of demonstrating to you, by a preponderance of the evidence, that it meets the requirements of this subpart concerning group membership or individual disadvantage, business size, ownership, and control.

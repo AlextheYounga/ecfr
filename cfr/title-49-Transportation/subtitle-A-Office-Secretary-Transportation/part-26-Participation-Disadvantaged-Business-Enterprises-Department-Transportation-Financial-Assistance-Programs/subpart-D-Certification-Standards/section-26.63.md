@@ -1,5 +1,7 @@
 ##### § 26.63 What rules govern group membership determinations? #####
 
+Link to an amendment published at 89 FR 24969, Apr. 9, 2024.
+
 (a)(1) If, after reviewing the signed notarized statement of membership in a presumptively disadvantaged group (see § 26.61(c)), you have a well founded reason to question the individual's claim of membership in that group, you must require the individual to present additional evidence that he or she is a member of the group.
 
 (2) You must provide the individual a written explanation of your reasons for questioning his or her group membership and a written request for additional evidence as outlined in paragraph (b) of this section.

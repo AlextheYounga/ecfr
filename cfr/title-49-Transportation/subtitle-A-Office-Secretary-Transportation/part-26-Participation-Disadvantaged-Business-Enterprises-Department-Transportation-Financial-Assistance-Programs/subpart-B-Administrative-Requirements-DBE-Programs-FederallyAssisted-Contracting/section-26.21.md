@@ -1,5 +1,7 @@
 ##### § 26.21 Who must have a DBE program? #####
 
+Link to an amendment published at 89 FR 24965, Apr. 9, 2024.
+
 (a) If you are in one of these categories and let DOT-assisted contracts, you must have a DBE program meeting the requirements of this part:
 
 (1) All FHWA primary recipients receiving funds authorized by a statute to which this part applies;

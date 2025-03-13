@@ -1,5 +1,7 @@
 ##### § 26.29 What prompt payment mechanisms must recipients have? #####
 
+Link to an amendment published at 89 FR 24965, Apr. 9, 2024.
+
 (a) You must establish, as part of your DBE program, a contract clause to require prime contractors to pay subcontractors for satisfactory performance of their contracts no later than 30 days from receipt of each payment you make to the prime contractor.
 
 (b) You must ensure prompt and full payment of retainage from the prime contractor to the subcontractor within 30 days after the subcontractor's work is satisfactorily completed. You must use one of the following methods to comply with this requirement:
