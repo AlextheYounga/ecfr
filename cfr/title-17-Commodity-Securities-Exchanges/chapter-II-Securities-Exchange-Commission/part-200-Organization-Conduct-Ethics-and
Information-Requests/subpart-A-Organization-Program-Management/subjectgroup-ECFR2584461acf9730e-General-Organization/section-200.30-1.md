@@ -78,7 +78,7 @@ Pursuant to sections 4A and 4B of the Securities Exchange Act of 1934, as amende
 
 (ii) To revoke a grant of any such application for confidential treatment.
 
-(4) To authorize the use of forms of proxies, proxy statements, or other soliciting material within periods of time less than that prescribed in §§ 240.14a-6, 240.14a-8(d), and 240.14a-11 of this chapter; to authorize the filing of information statements within periods of time less than that prescribed in § 240.14c-5a of this chapter; and to authorize the filing of information under § 240.14f-1 of this chapter within periods of time less than that prescribed therein.
+(4) To authorize the use of forms of proxies, proxy statements, or other soliciting material within periods of time less than that prescribed in §§ 240.14a-6 and 240.14a-8(j)(1) of this chapter; to authorize the filing of information statements within periods of time less than that prescribed in § 240.14c-5a of this chapter; and to authorize the filing of information under § 240.14f-1 of this chapter within periods of time less than that prescribed therein.
 
 (5) To grant or deny applications filed pursuant to section 12(g)(1) of the Act (15 U.S.C. 78l(g)(1)) for extensions of time within which to file registration statements pursuant to that section, provided the applicant is advised of the applicant's right to have any such denial reviewed by the Commission.
 

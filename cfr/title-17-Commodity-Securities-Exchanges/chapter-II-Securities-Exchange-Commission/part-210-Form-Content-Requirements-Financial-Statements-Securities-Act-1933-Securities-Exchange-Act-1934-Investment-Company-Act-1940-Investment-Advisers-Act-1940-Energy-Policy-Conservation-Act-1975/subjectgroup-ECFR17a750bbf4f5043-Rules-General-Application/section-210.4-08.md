@@ -8,7 +8,7 @@ If applicable to the person for which the financial statements are filed, the fo
 
 (c) *Defaults.* The facts and amounts concerning any default in principal, interest, sinking fund, or redemption provisions with respect to any issue of securities or credit agreements, or any breach of covenant of a related indenture or agreement, which default or breach existed at the date of the most recent balance sheet being filed and which has not been subsequently cured, shall be stated in the notes to the financial statements. If a default or breach exists but acceleration of the obligation has been waived for a stated period of time beyond the date of the most recent balance sheet being filed, state the amount of the obligation and the period of the waiver.
 
-(d) Aggregate preferences on involuntary liquidation, if other than par or stated value, shall be shown parenthetically in the equity section of the balance sheet.
+(d) *Preferred shares.* Aggregate preferences on involuntary liquidation, if other than par or stated value, shall be shown parenthetically in the equity section of the balance sheet.
 
 (e) *Restrictions which limit the payment of dividends by the registrant.* (1) Describe the most significant restrictions on the payment of dividends by the registrant, indicating their sources, their pertinent provisions, and the amount of retained earnings or net income restricted or free of restrictions.
 
@@ -34,14 +34,15 @@ If applicable to the person for which the financial statements are filed, the fo
 
 (2) Summarized financial information shall be presented insofar as is practicable as of the same dates and for the same periods as the audited consolidated financial statements provided and shall include the disclosures prescribed by § 210.1-02(bb). Summarized information of subsidiaries not consolidated shall not be combined for disclosure purposes with the summarized information of 50 percent or less owned persons.
 
-(h) *Income tax expense.* (1) Disclosure shall be made in the statement of comprehensive income or a note thereto, of the components of income (loss) before income tax expense (benefit) as either domestic or foreign.
-(i) the components of income (loss) before income tax expense (benefit) as either domestic or foreign; (ii) the components of income tax expense, including (A) taxes currently payable and (B) the net tax effects, as applicable, of timing differences (indicate separately the amount of the estimated tax effect of each of the various types of timing differences, such as depreciation, warranty costs, etc., where the amount of each such tax effect exceeds five percent of the amount computed by multiplying the income before tax by the applicable statutory Federal income tax rate; other differences may be combined.)
+(h) *Income tax expense.*(1) Disclosure shall be made in the statement of comprehensive income, or a note thereto, of the components of income (loss) before income tax expense (benefit) as either domestic or foreign.
 
 Note 1 to paragraph (h)(1):
 
-Amounts applicable to United States Federal income taxes, to foreign income taxes and the other income taxes shall be stated separately for each major component. Amounts applicable to foreign income (loss) and amounts applicable to foreign or other income taxes which are less than five percent of the total of income before taxes or the component of tax expense, respectively, need not be separately disclosed. For purposes of this rule, foreign income (loss) is defined as income (loss) generated from a registrant's foreign operations, *i.e.*, operations that are *located outside* of the registrant's home country.
+Amounts applicable to United States Federal income taxes, to foreign income taxes and the other income taxes shall be stated separately for each major component. Amounts applicable to foreign income (loss) and amounts applicable to foreign or other income taxes which are less than five percent of the total of income before taxes or the component of tax expense, respectively, need not be separately disclosed. For purposes of this note, foreign income (loss) is defined as income (loss) generated from a registrant's foreign operations, *i.e.,* operations that are located outside of the registrant's home country.
 
 (2) In the reconciliation between the amount of reported total income tax expense (benefit) and the amount computed by multiplying the income (loss) before tax by the applicable statutory Federal income tax rate, if no individual reconciling item amounts to more than five percent of the amount computed by multiplying the income before tax by the applicable statutory Federal income tax rate, and the total difference to be reconciled is less than five percent of such computed amount, no reconciliation need be provided unless it would be significant in appraising the trend of earnings. Reconciling items that are individually less than five percent of the computed amount may be aggregated in the reconciliation. Where the reporting person is a foreign entity, the income tax rate in that person's country of domicile should normally be used in making the above computation, but different rates should not be used for subsidiaries or other segments of a reporting entity. When the rate used by a reporting person is other than the United States Federal corporate income tax rate, the rate used and the basis for using such rate shall be disclosed.
+
+(3) [Reserved]
 
 (4) Price at which warrant or right is exercisable.
 
@@ -79,16 +80,4 @@ Amounts applicable to United States Federal income taxes, to foreign income taxe
 
 (n) *Accounting policies for certain derivative instruments.* Disclosures regarding accounting policies shall include, to the extent material, where in the statement of cash flows derivative financial instruments, and their related gains and losses, as defined by U.S. generally accepted accounting principles, are reported.
 
-*Instructions to paragraph (n):* 1. For purposes of this paragraph (n), derivative financial instruments and derivative commodity instruments (collectively referred to as “derivatives”) are defined as follows:
-
-(i) *Derivative financial instruments* have the same meaning as defined by generally accepted accounting principles (see, e.g., FASB ASC Master Glossary, and include futures, forwards, swaps, options, and other financial instruments with similar characteristics.
-
-(ii) *Derivative commodity instruments* include, to the extent such instruments are not derivative financial instruments, commodity futures, commodity forwards, commodity swaps, commodity options, and other commodity instruments with similar characteristics that are permitted by contract or business custom to be settled in cash or with another financial instrument. For purposes of this paragraph, settlement in cash includes settlement in cash of the net change in value of the derivative commodity instrument (e.g., net cash settlement based on changes in the price of the underlying commodity).
-
-2. For purposes of paragraphs (n)(2), (n)(3), (n)(4), and (n)(7), the required disclosures should address separately derivatives entered into for trading purposes and derivatives entered into for purposes other than trading. For purposes of this paragraph, *trading purposes* means dealing and other trading activities measured at fair value with gains and losses recognized in earnings.
-
-3. For purposes of paragraph (n)(6), *anticipated transactions* means transactions (other than transactions involving existing assets or liabilities or transactions necessitated by existing firm commitments) an enterprise expects, but is not obligated, to carry out in the normal course of business.
-
-4. Registrants should provide disclosures required under paragraph (n) in filings with the Commission that include financial statements of fiscal periods ending after June 15, 1997.
-
-[45 FR 63669, Sept. 25, 1980, as amended at 46 FR 56179, Nov. 16, 1981; 50 FR 25215, June 18, 1985; 50 FR 49532, Dec. 3, 1985; 51 FR 3770, Jan. 30, 1986; 57 FR 45293, Oct. 1, 1992; 59 FR 65636, Dec. 20, 1994; 62 FR 6063, Feb. 10, 1997; 74 FR 18615, Apr. 23, 2009; 76 FR 50119, Aug. 12, 2011; 83 FR 50200, Oct. 4, 2018]
+[45 FR 63669, Sept. 25, 1980, as amended at 46 FR 56179, Nov. 16, 1981; 50 FR 25215, June 18, 1985; 50 FR 49532, Dec. 3, 1985; 51 FR 3770, Jan. 30, 1986; 57 FR 45293, Oct. 1, 1992; 59 FR 65636, Dec. 20, 1994; 62 FR 6063, Feb. 10, 1997; 74 FR 18615, Apr. 23, 2009; 76 FR 50119, Aug. 12, 2011; 83 FR 50200, Oct. 4, 2018; 90 FR 9687, Feb. 18, 2025]

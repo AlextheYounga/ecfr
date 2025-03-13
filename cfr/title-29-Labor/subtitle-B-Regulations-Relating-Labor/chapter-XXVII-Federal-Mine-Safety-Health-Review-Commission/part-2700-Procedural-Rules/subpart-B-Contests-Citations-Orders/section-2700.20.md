@@ -1,6 +1,6 @@
 ##### § 2700.20 Notice of contest of a citation or order issued under section 104 of the Act. #####
 
-Link to an amendment published at 90 FR 5620, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5620, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Who may contest.* (1) An operator may contest:
 

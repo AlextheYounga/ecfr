@@ -1,6 +1,6 @@
 ##### § 223.102 Enumeration of threatened marine and anadromous species. #####
 
-Link to an amendment published at 89 FR 101999, Dec. 17, 2024.
+Link to an amendment published at 89 FR 101999, Dec. 17, 2024.This amendment was delayed until Mar. 21, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) The table below identifies the species under the jurisdiction of the Secretary of Commerce that have been determined to be threatened pursuant to section 4(a) of the Act, species treated as threatened because they are sufficiently similar in appearance to threatened species, and experimental populations of threatened species.
 

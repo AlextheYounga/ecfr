@@ -1,6 +1,6 @@
 ##### § 124.602 What kind of annual financial statement must a Participant submit to SBA? #####
 
-(a) Except as set forth in paragraph (a)(1) of this section, Participants with gross annual receipts of more than $10,000,000 must submit to SBA audited annual financial statements prepared by a licensed independent public accountant within 120 days after the close of the concern's fiscal year.
+(a) Except as set forth in paragraph (a)(1) of this section, Participants with gross annual receipts of more than $20,000,000 must submit to SBA audited annual financial statements prepared by a licensed independent public accountant within 120 days after the close of the concern's fiscal year.
 
 (1) Participants with gross annual receipts of more than $20,000,000 which are owned by a Tribe, ANC, NHO, or CDC may elect to submit unaudited financial statements within 120 days after the close of the concern's fiscal year, provided the following additional documents are submitted simultaneously:
 
@@ -34,4 +34,4 @@
 
 (g) Participants owned by Tribes, ANCs, NHOs and CDCs may submit consolidated financial statements prepared by the parent entity that include schedules for each 8(a) Participant instead of separate audited financial statements for each individual 8(a) Participant. If one Participant must submit an audited financial statement, then the consolidated statement and the schedules for each 8(a) Participant must be audited.
 
-[63 FR 35739, June 30, 1998, as amended at 76 FR 8264, Feb. 11, 2011; 89 FR 102490, Dec. 17, 2024]
+[63 FR 35739, June 30, 1998, as amended at 76 FR 8264, Feb. 11, 2011; 89 FR 102490, Dec. 17, 2024; 90 FR 9674, Feb. 18, 2025]

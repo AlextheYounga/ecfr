@@ -1,7 +1,5 @@
 ##### § 263.6 What priority is given to certain projects and applicants? #####
 
-Link to an amendment published at 90 FR 5637, Jan. 17, 2025.
-
 (a) The Secretary gives competitive preference priority to—
 
 (1) *Tribal Applicants.* An application submitted by an Indian tribe, Indian organization, or an TCU that is eligible to participate in the Professional Development program. A consortium application of eligible entities that meets the requirements of 34 CFR 75.127 through 75.129 and includes an Indian tribe, Indian organization, or TCU will be considered eligible to receive preference under this priority only if the lead applicant for the consortium is the Indian tribe, Indian organization, or TCU. In order to be considered a consortium application, the application must include the consortium agreement, signed by all parties; or
@@ -70,4 +68,18 @@ Link to an amendment published at 90 FR 5637, Jan. 17, 2025.
 
 (iii) Include efforts by the applicant to place participants in administrator jobs with entities planning to start or transition a school to serve Indian students.
 
-(Authority: 20 U.S.C. 7442 and 7473)[80 FR 22412, Apr. 22, 2015. Redesignated and amended at 85 FR 41378, July 10, 2020]
+(5) *Indian educator retention.* The Secretary establishes a priority for projects that—
+
+(i) Propose an educator retention initiative to help address the shortage of fully certified Indian educators to help ensure that Indian students gain knowledge and understanding of Native communities, languages, histories, traditions, and cultures, and expand their impact on Indian students' education; or
+
+(ii) Support compensated educator leadership models designed to increase the retention of effective, experienced Indian educators who take on additional leadership and peer support responsibilities such that Indian teachers have the opportunity to advance in their careers and earn additional compensation.
+
+(6) *State or local educational agencies or Bureau of Indian Education school lead applicants.* The Secretary establishes a priority for applications that are submitted by one or more of the below types of applicants, in consortium with an institution of higher education, which could include a Tribal college or university:
+
+(i) State educational agency.
+
+(ii) Local educational agency.
+
+(iii) Bureau of Indian Education school.
+
+(Authority: 20 U.S.C. 7442 and 7473)[80 FR 22412, Apr. 22, 2015. Redesignated and amended at 85 FR 41378, July 10, 2020; 90 FR 5637, Jan. 17, 2025]

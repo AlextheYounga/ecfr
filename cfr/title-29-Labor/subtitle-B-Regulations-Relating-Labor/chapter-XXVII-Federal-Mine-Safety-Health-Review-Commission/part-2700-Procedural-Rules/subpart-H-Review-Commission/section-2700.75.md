@@ -1,6 +1,6 @@
 ##### § 2700.75 Briefs. #####
 
-Link to an amendment published at 90 FR 5626, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5626, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Time to file*—(1) *Opening and response briefs.* Within 30 days after the Commission grants a petition for discretionary review, the petitioner shall file his opening brief. If the petitioner desires, he may notify the Commission and all other parties within the 30-day period that his petition and any supporting memorandum are to constitute his brief. Other parties may file response briefs within 30 days after the petitioner's brief is served. If the Commission directs review on its own motion, all parties shall file any opening briefs within 30 days of the direction for review. In such cases, a party may file a response brief within 20 days after service of the opposing party's opening brief.
 

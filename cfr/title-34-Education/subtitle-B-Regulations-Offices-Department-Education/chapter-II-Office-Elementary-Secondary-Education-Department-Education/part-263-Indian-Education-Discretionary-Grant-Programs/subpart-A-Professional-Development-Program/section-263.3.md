@@ -1,7 +1,5 @@
 ##### § 263.3 What definitions apply to the Professional Development program? #####
 
-Link to an amendment published at 90 FR 5636, Jan. 17, 2025.
-
 The following definitions apply to the Professional Development program:
 
 *BIE-funded school* means a Bureau of Indian Education school, a contract or grant school, or a school for which assistance is provided under the Tribally Controlled Schools Act of 1988.
@@ -10,15 +8,21 @@ The following definitions apply to the Professional Development program:
 
 *Dependent allowance* means costs for the care of minor children under the age of 18 who reside with the training participant and for whom the participant has responsibility. The term does not include financial obligations for payment of child support required of the participant.
 
+*Educator* means an individual who is one or more of—
+
+(1) A teacher (including an early education teacher);
+
+(2) A principal or other school leader;
+
+(3) An administrator;
+
+(4) Specialized instructional personnel (*e.g.,* school psychologist, school counselor, school social worker, school nurse, librarian, early intervention service personnel);
+
+(5) A paraprofessional; or
+
+(6) Faculty.
+
 *Full course load* means the number of credit hours that the institution requires of a full-time student.
-
-*Full-time student* means a student who—
-
-(1) Is a candidate for a baccalaureate degree, graduate degree, or Native American language certificate, as appropriate for the project;
-
-(2) Carries a full course load; and
-
-(3) Is not employed for more than 20 hours a week.
 
 *Good standing* means a cumulative grade point average of at least 2.0 on a 4.0 grade point scale in which failing grades are computed as part of the average, or another appropriate standard established by the institution.
 
@@ -100,10 +104,10 @@ The following definitions apply to the Professional Development program:
 
 *Secretary* means the Secretary of the Department of Education or an official or employee of the Department acting for the Secretary under a delegation of authority.
 
-*Stipend* means that portion of an award that is used for room, board, and personal living expenses for full-time participants who are living at or near the institution providing the training.
+*Stipend* means that portion of an award that is used for room, board, and personal living expenses for participants in pre-service training who are living at or near the institution providing the training.
 
 *Tribal college or university (TCU)* has the meaning given that term in section 316(b) of the Higher Education Act of 1965 (20 U.S.C. 1059c(b)).
 
 *Tribal educational agency (TEA)* means the agency, department, or instrumentality of an Indian Tribe that is primarily responsible for supporting Tribal students' elementary and secondary education.
 
-(Authority: 20 U.S.C. 7442 and 7491)[80 FR 22412, Apr. 22, 2015, as amended at 85 FR 41377, July 10, 2020]
+(Authority: 20 U.S.C. 7442 and 7491)[80 FR 22412, Apr. 22, 2015, as amended at 85 FR 41377, July 10, 2020; 90 FR 5636, Jan. 17, 2025]

@@ -1,6 +1,6 @@
 ##### § 240.14n-101 Schedule 14N—Information to be included in statements filed pursuant to § 240.14n-1 and amendments thereto filed pursuant to § 240.14n-2. #####
 
-Securities and Exchange Commission, Washington, DC 20549Schedule 14NUnder the Securities Exchange Act of 1934(Amendment No. \_\_)\*(Name of Issuer)(Title of Class of Securities)(CUSIP Number)[ ] Solicitation pursuant to § 240.14a-2(b)(7)[ ] Solicitation pursuant to § 240.14a-2(b)(8)[ ] Notice of Submission of a Nominee or Nominees in Accordance with § 240.14a-11[ ] Notice of Submission of a Nominee or Nominees in Accordance with Procedures Set Forth Under Applicable State or Foreign Law, or the Registrant's Governing Documents
+Securities and Exchange Commission, Washington, DC 20549Schedule 14NUnder the Securities Exchange Act of 1934(Amendment No. \_\_)\*(Name of Issuer)(Title of Class of Securities)(CUSIP Number)[ ] Notice of Submission of a Nominee or Nominees in Accordance with Procedures Set Forth Under Applicable State or Foreign Law, or the Registrant's Governing Documents
 
 \* The remainder of this cover page shall be filled out for a reporting person's initial filing on this form, and for any subsequent amendment containing information which would alter the disclosures provided in a prior cover page.
 
@@ -36,99 +36,7 @@ General Instructions to Item Requirements
 
 The item numbers and captions of the items shall be included but the text of the items is to be omitted. The answers to the items shall be prepared so as to indicate clearly the coverage of the items without referring to the text of the items. Answer every item. If an item is inapplicable or the answer is in the negative, so state.
 
-Item 1(a). Name of RegistrantItem 1(b). Address of Registrant's Principal Executive OfficesItem 2(a). Name of Person FilingItem 2(b). Address or Principal Business Office or, if None, ResidenceItem 2(c). Title of Class of SecuritiesItem 2(d). CUSIP No.Item 3. Ownership
-
-Provide the following information, in accordance with Instruction 3 to § 240.14a-11(b)(1):
-
-(a) Amount of securities held and entitled to be voted on the election of directors (and, where applicable, amount of securities held in the aggregate by the nominating shareholder group): \_\_\_\_\_\_\_\_\_\_\_\_.
-
-(b) The number of votes attributable to the securities referred to in paragraph (a) of this Item: \_\_\_\_\_\_\_\_\_\_\_\_.
-
-(c) The number of votes attributable to securities that have been loaned but which the reporting person:
-
-(i) has the right to recall; and
-
-(ii) will recall upon being notified that any of the nominees will be included in the registrant's proxy statement and proxy card: \_\_\_\_\_\_\_\_\_\_\_\_.
-
-(d) The number of votes attributable to securities that have been sold in a short sale that is not closed out, or that have been borrowed for purposes other than a short sale: \_\_\_\_\_\_\_\_\_\_\_\_.
-
-(e) The sum of paragraphs (b) and (c), minus paragraph (d) of this Item, divided by the aggregate number of votes derived from all classes of securities of the registrant that are entitled to vote on the election of directors, and expressed as a percentage: \_\_\_\_\_\_\_\_\_\_\_\_.
-
-Item 4. Statement of Ownership From a Nominating Shareholder or Each Member of a Nominating Shareholder Group Submitting this Notice Pursuant to § 240.14a-11
-
-(a) If the nominating shareholder, or each member of the nominating shareholder group, is the registered holder of the shares, please so state. Otherwise, attach to the Schedule 14N one or more written statements from the persons (usually brokers or banks) through which the nominating shareholder's securities are held, verifying that, within seven calendar days prior to filing the shareholder notice on Schedule 14N with the Commission and transmitting the notice to the registrant, the nominating shareholder continuously held the amount of securities being used to satisfy the ownership threshold for a period of at least three years. In the alternative, if the nominating shareholder has filed a Schedule 13D (§ 240.13d-101), Schedule 13G (§ 240.13d-102), Form 3 (§ 249.103 of this chapter), Form 4 (§ 249.104 of this chapter), and/or Form 5 (§ 249.105 of this chapter), or amendments to those documents, reflecting ownership of the securities as of or before the date on which the three-year eligibility period begins, so state and incorporate that filing or amendment by reference.
-
-(b) Provide a written statement that the nominating shareholder, or each member of the nominating shareholder group, intends to continue to hold the amount of securities that are used for purposes of satisfying the minimum ownership requirement of § 240.14a-11(b)(1) through the date of the meeting of shareholders, as required by § 240.14a-11(b)(4). Additionally, provide a written statement from the nominating shareholder or each member of the nominating shareholder group regarding the nominating shareholder's or nominating shareholder group member's intent with respect to continued ownership after the election of directors, as required by § 240.14a-11(b)(5).
-
-*Instruction to Item 4.* If the nominating shareholder or any member of the nominating shareholder group is not the registered holder of the securities and is not proving ownership for purposes of § 240.14a-11(b)(3) by providing previously filed Schedules 13D or 13G or Forms 3, 4, or 5, and the securities are held in an account with a broker or bank that is a participant in the Depository Trust Company (“DTC”) or other clearing agency acting as a securities depository, a written statement or statements from that participant or participants in the following form will satisfy § 240.14a-11(b)(3):
-
-As of [date of this statement], [name of nominating shareholder or member of the nominating shareholder group] held at least [number of securities owned continuously for at least three years] of the [registrant's] [class of securities], and has held at least this amount of such securities continuously for [at least three years]. [Name of clearing agency participant] is a participant in [name of clearing agency] whose nominee name is [nominee name].
-
-[name of clearing agency participant]
-
-By: [name and title of representative]
-
-Date:
-
-If the securities are held through a broker or bank (*e.g.* in an omnibus account) that is not a participant in a clearing agency acting as a securities depository, the nominating shareholder or member of the nominating shareholder group must (a) obtain and submit a written statement or statements (the “initial broker statement”) from the broker or bank with which the nominating shareholder or member of the nominating shareholder group maintains an account that provides the information about securities ownership set forth above and (b) obtain and submit a separate written statement from the clearing agency participant through which the securities of the nominating shareholder or member of the nominating shareholder group are held, that (i) identifies the broker or bank for whom the clearing agency participant holds the securities, and (ii) states that the account of such broker or bank has held, as of the date of the separate written statement, at least the number of securities specified in the initial broker statement, and (iii) states that this account has held at least that amount of securities continuously for at least three years.
-
-If the securities have been held for less than three years at the relevant entity, provide written statements covering a continuous period of three years and modify the language set forth above as appropriate.
-
-For purposes of complying with § 240.14a-11(b)(3), loaned securities may be included in the amount of securities set forth in the written statements.
-
-Item 5. Disclosure Required for Shareholder Nominations Submitted Pursuant to § 240.14a-11
-
-If a nominating shareholder or nominating shareholder group is submitting this notice in connection with the inclusion of a shareholder nominee or nominees for director in the registrant's proxy materials pursuant to § 240.14a-11, provide the following information:
-
-(a) A statement that the nominee consents to be named in the registrant's proxy statement and form of proxy and, if elected, to serve on the registrant's board of directors;
-
-(b) Disclosure about the nominee as would be provided in response to the disclosure requirements of Items 4(b), 5(b), 7(a), (b) and (c) and, for investment companies, Item 22(b) of Schedule 14A (§ 240.14a-101), as applicable;
-
-(c) Disclosure about the nominating shareholder or each member of a nominating shareholder group as would be required of a participant in response to the disclosure requirements of Items 4(b) and 5(b) of Schedule 14A (§ 240.14a-101), as applicable;
-
-(d) Disclosure about whether the nominating shareholder or any member of a nominating shareholder group has been involved in any legal proceeding during the past ten years, as specified in Item 401(f) of Regulation S-K (§ 229.10 of this chapter). Disclosure pursuant to this paragraph need not be provided if provided in response to Item 5(c) of this section;
-
-*Instruction 1 to Item 5(c) and (d).* Where the nominating shareholder is a general or limited partnership, syndicate or other group, the information called for in paragraphs (c) and (d) of this Item must be given with respect to:
-
-a. Each partner of the general partnership;
-
-b. Each partner who is, or functions as, a general partner of the limited partnership;
-
-c. Each member of the syndicate or group; and
-
-d. Each person controlling the partner or member.
-
-*Instruction 2 to Item 5(c) and (d).* If the nominating shareholder is a corporation or if a person referred to in a., b., c. or d. of Instruction 1 to paragraphs (c) and (d) of this Item is a corporation, the information called for in paragraphs (c) and (d) of this Item must be given with respect to:
-
-a. Each executive officer and director of the corporation;
-
-b. Each person controlling the corporation; and
-
-c. Each executive officer and director of any corporation or other person ultimately in control of the corporation.
-
-(e) Disclosure about whether, to the best of the nominating shareholder's or group's knowledge, the nominee meets the director qualifications, if any, set forth in the registrant's governing documents;
-
-(f) A statement that, to the best of the nominating shareholder's or group's knowledge, in the case of a registrant other than an investment company, the nominee meets the objective criteria for “independence” of the national securities exchange or national securities association rules applicable to the registrant, if any, or, in the case of a registrant that is an investment company, the nominee is not an “interested person” of the registrant as defined in section 2(a)(19) of the Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(19)).
-
-*Instruction to Item 5(f).* For this purpose, the nominee would be required to meet the definition of “independence” that is generally applicable to directors of the registrant and not any particular definition of independence applicable to members of the audit committee of the registrant's board of directors. To the extent a national securities exchange or national securities association rule imposes a standard regarding independence that requires a subjective determination by the board or a group or committee of the board (for example, requiring that the board of directors or any group or committee of the board of directors make a determination regarding the existence of factors material to a determination of a nominee's independence), the nominee would not be required to meet the subjective determination of independence as part of the shareholder nomination process.
-
-(g) The following information regarding the nature and extent of the relationships between the nominating shareholder or nominating shareholder group, the nominee, and/or the registrant or any affiliate of the registrant:
-
-(1) Any direct or indirect material interest in any contract or agreement between the nominating shareholder or any member of the nominating shareholder group, the nominee, and/or the registrant or any affiliate of the registrant (including any employment agreement, collective bargaining agreement, or consulting agreement);
-
-(2) Any material pending or threatened legal proceeding in which the nominating shareholder or any member of the nominating shareholder group and/or the nominee is a party or a material participant, and that involves the registrant, any of its executive officers or directors, or any affiliate of the registrant; and
-
-(3) Any other material relationship between the nominating shareholder or any member of the nominating shareholder group, the nominee, and/or the registrant or any affiliate of the registrant not otherwise disclosed;
-
-Note to Item 5(g)(3):
-
-Any other material relationship of the nominating shareholder or any member of the nominating shareholder group or nominee with the registrant or any affiliate of the registrant may include, but is not limited to, whether the nominating shareholder or any member of the nominating shareholder group currently has, or has had in the past, an employment relationship with the registrant or any affiliate of the registrant (including consulting arrangements).
-
-(h) The Web site address on which the nominating shareholder or nominating shareholder group may publish soliciting materials, if any; and
-
-(i) Any statement in support of the shareholder nominee or nominees, which may not exceed 500 words for each nominee, if the nominating shareholder or nominating shareholder group elects to have such statement included in the registrant's proxy materials.
-
-Item 6. Disclosure Required by § 240.14a-18
+Item 1(a). Name of RegistrantItem 1(b). Address of Registrant's Principal Executive OfficesItem 2(a). Name of Person FilingItem 2(b). Address or Principal Business Office or, if None, ResidenceItem 2(c). Title of Class of SecuritiesItem 2(d). CUSIP No.Items 3.-5.[Reserved]Item 6. Disclosure Required by § 240.14a-18
 
 If a nominating shareholder or nominating shareholder group is submitting this notice in connection with the inclusion of a shareholder nominee or nominees for director in the registrant's proxy materials pursuant to a procedure set forth under applicable state or foreign law, or the registrant's governing documents provide the following disclosure:
 
@@ -176,19 +84,7 @@ Notice of dissolution of a nominating shareholder group or the termination of a 
 
 Item 8. Signatures
 
-(a) The following certifications shall be provided by the filing person submitting this notice pursuant to § 240.14a-11, or in the case of a group, each filing person whose securities are being aggregated for purposes of meeting the ownership threshold set out in § 240.14a-11(b)(1) exactly as set forth below:
-
-I, [identify the certifying individual], after reasonable inquiry and to the best of my knowledge and belief, certify that:
-
-(1) I [or if signed by an authorized representative, the name of the nominating shareholder or each member of the nominating shareholder group, as appropriate] am [is] not holding any of the registrant's securities with the purpose, or with the effect, of changing control of the registrant or to gain a number of seats on the board of directors that exceeds the maximum number of nominees that the registrant could be required to include under § 240.14a-11(d);
-
-(2) I [or if signed by an authorized representative, the name of the nominating shareholder or each member of the nominating shareholder group, as appropriate] otherwise satisfy [satisfies] the requirements of § 240.14a-11(b), as applicable;
-
-(3) The nominee or nominees satisfies the requirements of § 240.14a-11(b), as applicable; and
-
-(4) The information set forth in this notice on Schedule 14N is true, complete and correct.
-
-(b) The following certification shall be provided by the filing person or persons submitting this notice in connection with the submission of a nominee or nominees in accordance with procedures set forth under applicable state or foreign law or the registrant's governing documents:
+The following certification shall be provided by the filing person or persons submitting this notice in connection with the submission of a nominee or nominees in accordance with procedures set forth under applicable state or foreign law or the registrant's governing documents:
 
 I, [identify the certifying individual], after reasonable inquiry and to the best of my knowledge and belief, certify that the information set forth in this notice on Schedule 14N is true, complete and correct.
 
@@ -198,4 +94,4 @@ The original statement shall be signed by each person on whose behalf the statem
 
 *Attention:* Intentional misstatements or omissions of fact constitute Federal criminal violations (see 18 U.S.C. 1001).
 
-[75 FR 56788, Sept. 16, 2010]
+[75 FR 56788, Sept. 16, 2010, as amended at 90 FR 9690, Feb. 18, 2025]

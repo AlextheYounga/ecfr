@@ -1,6 +1,6 @@
 ##### § 2700.82 Ex parte communications. #####
 
-Link to an amendment published at 90 FR 5627, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5627, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) For purposes of this section, the following definitions shall apply:
 

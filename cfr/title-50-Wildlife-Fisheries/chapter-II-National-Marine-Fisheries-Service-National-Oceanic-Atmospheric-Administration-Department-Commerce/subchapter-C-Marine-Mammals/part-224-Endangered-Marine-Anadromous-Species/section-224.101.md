@@ -1,6 +1,6 @@
 ##### § 224.101 Enumeration of endangered marine and anadromous species. #####
 
-Link to an amendment published at 89 FR 101999, Dec. 17, 2024.
+Link to an amendment published at 89 FR 101999, Dec. 17, 2024.This amendment was delayed until Mar. 21, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) The regulations in this part identify the species under the jurisdiction of the Secretary of Commerce that have been determined to be endangered species pursuant to section 4(a) of the Act, and provide for the conservation of such species by establishing rules and procedures to governing activities involving the species.
 

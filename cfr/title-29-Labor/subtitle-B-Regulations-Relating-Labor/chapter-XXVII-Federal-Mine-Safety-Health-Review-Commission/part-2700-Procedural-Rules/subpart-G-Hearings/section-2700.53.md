@@ -1,6 +1,6 @@
 ##### § 2700.53 Prehearing conferences and statements. #####
 
-Link to an amendment published at 90 FR 5623, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5623, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) The Judge may require the parties to participate in a prehearing conference, either in person or by telephone. The participants at any such conference may consider and take action with respect to:
 

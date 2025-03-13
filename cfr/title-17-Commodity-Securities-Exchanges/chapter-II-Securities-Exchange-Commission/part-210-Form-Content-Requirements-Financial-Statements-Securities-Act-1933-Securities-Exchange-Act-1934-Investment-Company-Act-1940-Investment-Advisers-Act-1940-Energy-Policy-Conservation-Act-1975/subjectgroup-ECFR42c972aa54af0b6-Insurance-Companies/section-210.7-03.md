@@ -64,7 +64,7 @@ Notes:
 
 Liabilities and Stockholders' Equity
 
-13. *Policy liabilities and accruals.* (a) State separately in the balance sheet the amounts of (1) future policy benefits and losses, claims and loss expenses, (2) unearned premiums and.
+13. *Policy liabilities and accruals.* (a) State separately in the balance sheet the amounts of (1) future policy benefits and losses, claims and loss expenses, (2) unearned premiums and (3) other policy claims and benefits payable.
 
 (b) [Reserved]
 
@@ -114,4 +114,6 @@ Noncontrolling Interests
 
 25. *Total liabilities and equity.*
 
-[46 FR 54335, Nov. 2, 1981, as amended at 50 FR 25215, June 18, 1985; 74 FR 18615, Apr. 23, 2009; 83 FR 50203, Oct. 4, 2018]
+(b) [Reserved]
+
+[46 FR 54335, Nov. 2, 1981, as amended at 50 FR 25215, June 18, 1985; 74 FR 18615, Apr. 23, 2009; 83 FR 50203, Oct. 4, 2018; 90 FR 9687, Feb. 18, 2025]

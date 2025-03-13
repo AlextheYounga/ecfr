@@ -34,6 +34,7 @@ Any communications made under this section after the definitive proxy statement 
 
 Instruction 3 to § 240.14a-12.
 
-Inclusion of a nominee pursuant to § 240.14a-11, an applicable state or foreign law provision, or a registrant's governing documents as they relate to the inclusion of shareholder director nominees in the registrant's proxy materials, or solicitations by a nominating shareholder or nominating shareholder group that are made in connection with that nomination constitute solicitations in opposition subject to § 240.14a-12(c), except for purposes of § 240.14a-6(a).
+Inclusion of a nominee pursuant to an applicable state or foreign law provision or a registrant's governing documents
+as they relate to the inclusion of shareholder director nominees in the registrant's proxy materials, or solicitations by a nominating shareholder or nominating shareholder group that are made in connection with that nomination constitute solicitations in opposition subject to § 240.14a-12(c), except for purposes of § 240.14a-6(a).
 
-[64 FR 61456, Nov. 10, 1999, as amended at 72 FR 4168, Jan. 29, 2007; 75 FR 56787, Sept. 16, 2010]
+[64 FR 61456, Nov. 10, 1999, as amended at 72 FR 4168, Jan. 29, 2007; 75 FR 56787, Sept. 16, 2010; 90 FR 9689, Feb. 18, 2025]

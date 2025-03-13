@@ -1,6 +1,6 @@
 ##### § 2700.8 Computation of time. #####
 
-Link to an amendment published at 90 FR 5619, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5619, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 Unless otherwise provided for in the Act, these rules, or by order, the due date for a pleading or other deadline for party or Commission action (hereinafter “due date”) is determined sequentially as follows:
 

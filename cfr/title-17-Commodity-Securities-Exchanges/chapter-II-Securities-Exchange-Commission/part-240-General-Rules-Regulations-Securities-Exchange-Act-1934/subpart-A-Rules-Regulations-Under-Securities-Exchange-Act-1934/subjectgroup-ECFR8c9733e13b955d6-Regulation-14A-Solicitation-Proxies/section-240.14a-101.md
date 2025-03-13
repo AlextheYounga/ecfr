@@ -184,7 +184,7 @@ For purposes of this Item 5, beneficial ownership shall be determined in accorda
 
 (ii) Paragraphs (e)(4) and (e)(5) of Item 407 of Regulation S-K (§§ 229.407(e)(4) and 229.407(e)(5) of this chapter) (which are required by Item 8 of this Schedule 14A).
 
-(c) If a shareholder nominee or nominees are submitted to the registrant for inclusion in the registrant's proxy materials pursuant to § 240.14a-11 and the registrant is not permitted to exclude the nominee or nominees pursuant to the provisions of § 240.14a-11, the registrant must include in its proxy statement the disclosure required from the nominating shareholder or nominating shareholder group under Item 5 of § 240.14n-101 with regard to the nominee or nominees and the nominating shareholder or nominating shareholder group.
+(c) [Reserved]
 
 (d) If a registrant is required to include a shareholder nominee or nominees submitted to the registrant for inclusion in the registrant's proxy materials pursuant to a procedure set forth under applicable state or foreign law, or the registrant's governing documents providing for the inclusion of shareholder director nominees in the registrant's proxy materials, the registrant must include in its proxy statement the disclosure required from the nominating shareholder or nominating shareholder group under Item 6 of § 240.14n-101 with regard to the nominee or nominees and the nominating shareholder or nominating shareholder group.
 
@@ -194,7 +194,7 @@ For purposes of this Item 5, beneficial ownership shall be determined in accorda
 
 Instruction to Item 7.
 
-The information disclosed pursuant to paragraphs (c) and (d) of this Item 7 will not be deemed incorporated by reference into any filing under the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), or the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), except to the extent that the registrant specifically incorporates that information by reference.
+The information disclosed pursuant to paragraph (d) of this Item 7will not be deemed incorporated by reference into any filing under the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), or the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), except to the extent that the registrant specifically incorporates that information by reference.
 
 *Item 8. Compensation of directors and executive officers.* Furnish the information required by Item 402 of Regulation S-K (§ 229.402 of this chapter) and paragraphs (e)(4) and (e)(5) of Item 407 of Regulation S-K (§ 229.407(e)(4) and (e)(5) of this chapter) if action is to be taken with regard to:
 
@@ -918,11 +918,7 @@ If the national securities exchange or inter-dealer quotation system on which th
 
 (17) In the case of a Fund that is an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a), if a director has resigned or declined to stand for re-election to the board of directors since the date of the last annual meeting of security holders because of a disagreement with the registrant on any matter relating to the registrant's operations, policies or practices, and if the director has furnished the registrant with a letter describing such disagreement and requesting that the matter be disclosed, the registrant shall state the date of resignation or declination to stand for re-election and summarize the director's description of the disagreement. If the registrant believes that the description provided by the director is incorrect or incomplete, it may include a brief statement presenting its view of the disagreement.
 
-(18) If a shareholder nominee or nominees are submitted to the Fund for inclusion in the Fund's proxy materials pursuant to § 240.14a-11 and the Fund is not permitted to exclude the nominee or nominees pursuant to the provisions of § 240.14a-11, the Fund must include in its proxy statement the disclosure required from the nominating shareholder or nominating shareholder group under Item 5 of § 240.14n-101 with regard to the nominee or nominees and the nominating shareholder or nominating shareholder group.
-
-Instruction to paragraph (b)(18).
-
-The information disclosed pursuant to paragraph (b)(18) of this Item will not be deemed incorporated by reference into any filing under the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), or the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), except to the extent that the Fund specifically incorporates that information by reference.
+(18) [Reserved]
 
 (19) If a Fund is required to include a shareholder nominee or nominees submitted to the Fund for inclusion in the Fund's proxy materials pursuant to a procedure set forth under applicable state or foreign law or the Fund's governing documents providing for the inclusion of shareholder director nominees in the Fund's proxy materials, the Fund must include in its proxy statement the disclosure required from the nominating shareholder or nominating shareholder group under Item 6 of § 240.14n-101 with regard to the nominee or nominees and the nominating shareholder or nominating shareholder group.
 
@@ -1117,11 +1113,11 @@ i. Fees to Be Paid.
 
 Provide the information Table 1 requires for the line item “Fees to Be Paid” as follows:
 
-c. Initial Filings.
+b. Initial Filings.
 
 For an initial filing on this schedule, provide the required information for the total transaction valuation.
 
-d. Amendments with Then-Current Total Transaction Valuation Higher than Highest Total Transaction Valuation Previously Reported.
+c. Amendments with Then-Current Total Transaction Valuation Higher than Highest Total Transaction Valuation Previously Reported.
 
 For amendments to this schedule that reflect a then-current total transaction valuation higher than the highest total transaction valuation previously reported, provide the required information for the incremental increase.
 

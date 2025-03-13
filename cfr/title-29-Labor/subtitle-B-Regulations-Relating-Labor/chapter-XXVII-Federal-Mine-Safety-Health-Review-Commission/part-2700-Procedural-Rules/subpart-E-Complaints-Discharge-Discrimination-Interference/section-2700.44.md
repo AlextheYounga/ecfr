@@ -1,6 +1,6 @@
 ##### § 2700.44 Petition for assessment of penalty in discrimination cases. #####
 
-Link to an amendment published at 90 FR 5622, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5622, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Petition for assessment of penalty in Secretary's complaint.* A discrimination complaint filed by the Secretary shall propose a civil penalty of a specific amount for the alleged violation of section 105(c) of the Act, 30 U.S.C. 815(c). The petition for assessment of penalty shall include a short and plain statement of supporting reasons based on the criteria for penalty assessment set forth in section 110(i) of the Act. 30 U.S.C. 820(i).
 

@@ -1,6 +1,6 @@
 ##### § 2700.68 Substitution of the Judge. #####
 
-Link to an amendment published at 90 FR 5625, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5625, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Generally.* Should a Judge become unavailable to the Commission, the proceedings assigned to him shall be reassigned to a substitute Judge.
 

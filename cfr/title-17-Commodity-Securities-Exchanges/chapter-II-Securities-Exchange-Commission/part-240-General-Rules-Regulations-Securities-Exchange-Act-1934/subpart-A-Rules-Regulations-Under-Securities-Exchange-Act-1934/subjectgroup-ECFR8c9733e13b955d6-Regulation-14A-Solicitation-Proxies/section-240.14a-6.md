@@ -8,7 +8,7 @@
 
 (3) A security holder proposal included pursuant to Rule 14a-8 (§ 240.14a-8 of this chapter);
 
-(4) A shareholder nominee for director included pursuant to § 240.14a-11, an applicable state or foreign law provision, or a registrant's governing documents as they relate to the inclusion of shareholder director nominees in the registrant's proxy materials.
+(4) A shareholder nominee for director included pursuant to an applicable state or foreign law provision or a registrant's governing documents as they relate to the inclusion of shareholder director nominees in the registrant's proxy materials.
 
 (5) The approval or ratification of a plan as defined in paragraph (a)(6)(ii) of Item 402 of Regulation S-K (§ 229.402(a)(6)(ii) of this chapter) or amendments to such a plan;
 
@@ -96,7 +96,7 @@ shall furnish or mail to the Commission, not later than three days after the dat
 
 (o) *Solicitations before furnishing a definitive proxy statement.* Solicitations that are published, sent or given to security holders before they have been furnished a definitive proxy statement must be made in accordance with § 240.14a-12 unless there is an exemption available under § 240.14a-2.
 
-(p) *Solicitations subject to § 240.14a-11.* Any soliciting material that is published, sent or given to shareholders in connection with § 240.14a-2(b)(7) or (b)(8) must be filed with the Commission as specified in that section.
+(p) [Reserved]
 
 (q) *De-SPAC transactions.* If a transaction is a de-SPAC transaction, as defined in § 229.1601(a) of this chapter (Item 1601(a) of Regulation S-K), the proxy statement of the special purpose acquisition company, as defined in § 229.1601(b) of this chapter (Item 1601(b) of Regulation S-K), must be distributed to security holders no later than the lesser of 20 calendar days prior to the date on which the meeting of security holders is to be held or action is to be taken in connection with the de-SPAC transaction or the maximum number of days permitted for disseminating the proxy statement under the applicable laws of the jurisdiction of incorporation or organization.
 

@@ -74,51 +74,9 @@ Sections 240.14a-3 to 240.14a-15, except as specified, apply to every solicitati
 
 (6) Any solicitation by or on behalf of any person who does not seek directly or indirectly, either on its own or another's behalf, the power to act as proxy for a shareholder and does not furnish or otherwise request, or act on behalf of a person who furnishes or requests, a form of revocation, abstention, consent, or authorization in an electronic shareholder forum that is established, maintained or operated pursuant to the provisions of § 240.14a-17, provided that the solicitation is made more than 60 days prior to the date announced by a registrant for its next annual or special meeting of shareholders. If the registrant announces the date of its next annual or special meeting of shareholders less than 60 days before the meeting date, then the solicitation may not be made more than two days following the date of the registrant's announcement of the meeting date. Participation in an electronic shareholder forum does not eliminate a person's eligibility to solicit proxies after the date that this exemption is no longer available, or is no longer being relied upon, provided that any such solicitation is conducted in accordance with this regulation.
 
-(7) Any solicitation by or on behalf of any shareholder in connection with the formation of a nominating shareholder group pursuant to § 240.14a-11, provided that:
+(7) [Reserved]
 
-(i) The soliciting shareholder is not holding the registrant's securities with the purpose, or with the effect, of changing control of the registrant or to gain a number of seats on the board of directors that exceeds the maximum number of nominees that the registrant could be required to include under § 240.14a-11(d);
-
-(ii) Each written communication includes no more than:
-
-(A) A statement of each soliciting shareholder's intent to form a nominating shareholder group in order to nominate one or more directors under § 240.14a-11;
-
-(B) Identification of, and a brief statement regarding, the potential nominee or nominees or, where no nominee or nominees have been identified, the characteristics of the nominee or nominees that the shareholder intends to nominate, if any;
-
-(C) The percentage of voting power of the registrant's securities that are entitled to be voted on the election of directors that each soliciting shareholder holds or the aggregate percentage held by any group to which the shareholder belongs; and
-
-(D) The means by which shareholders may contact the soliciting party.
-
-(iii) Any written soliciting material published, sent or given to shareholders in accordance with this paragraph must be filed by the shareholder with the Commission, under the registrant's Exchange Act file number, or, in the case of a registrant that is an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), under the registrant's Investment Company Act file number, no later than the date the material is first published, sent or given to shareholders. Three copies of the material must at the same time be filed with, or mailed for filing to, each national securities exchange upon which any class of securities of the registrant is listed and registered. The soliciting material must include a cover page in the form set forth in Schedule 14N (§ 240.14n-101) and the appropriate box on the cover page must be marked.
-
-(iv) In the case of an oral solicitation made in accordance with the terms of this section, the nominating shareholder must file a cover page in the form set forth in Schedule 14N (§ 240.14n-101), with the appropriate box on the cover page marked, under the registrant's Exchange Act file number (or in the case of an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), under the registrant's Investment Company Act file number), no later than the date of the first such communication.
-
-Instruction to paragraph (b)(7).
-
-The exemption provided in paragraph (b)(7) of this section shall not apply to a shareholder that subsequently engages in soliciting or other nominating activities outside the scope of § 240.14a-2(b)(8) and § 240.14a-11 in connection with the subject election of directors or is or becomes a member of any other group, as determined under section 13(d)(3) of the Act (15 U.S.C. 78m(d)(3) and § 240.13d-5(b)), or otherwise, with persons engaged in soliciting or other nominating activities in connection with the subject election of directors.
-
-(8) Any solicitation by or on behalf of a nominating shareholder or nominating shareholder group in support of its nominee that is included or that will be included on the registrant's form of proxy in accordance with § 240.14a-11 or for or against the registrant's nominee or nominees, provided that:
-
-(i) The soliciting party does not, at any time during such solicitation, seek directly or indirectly, either on its own or another's behalf, the power to act as proxy for a shareholder and does not furnish or otherwise request, or act on behalf of a person who furnishes or requests, a form of revocation, abstention, consent or authorization;
-
-(ii) Any written communication includes:
-
-(A) The identity of each nominating shareholder and a description of his or her direct or indirect interests, by security holdings or otherwise;
-
-(B) A prominent legend in clear, plain language advising shareholders that a shareholder nominee is or will be included in the registrant's proxy statement and that they should read the registrant's proxy statement when available because it includes important information (or, if the registrant's proxy statement is publicly available, advising shareholders of that fact and encouraging shareholders to read the registrant's proxy statement because it includes important information). The legend also must explain to shareholders that they can find the registrant's proxy statement, other soliciting material, and any other relevant documents at no charge on the Commission's Web site; and
-
-(iii) Any written soliciting material published, sent or given to shareholders in accordance with this paragraph must be filed by the nominating shareholder or nominating shareholder group with the Commission, under the registrant's Exchange Act file number, or, in the case of a registrant that is an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), under the registrant's Investment Company Act file number, no later than the date the material is first published, sent or given to shareholders. Three copies of the material must at the same time be filed with, or mailed for filing to, each national securities exchange upon which any class of securities of the registrant is listed and registered. The soliciting material must include a cover page in the form set forth in Schedule 14N (§ 240.14n-101) and the appropriate box on the cover page must be marked.
-
-Instruction 1 to paragraph (b)(8).
-
-A nominating shareholder or nominating shareholder group may rely on the exemption provided in paragraph (b)(8) of this section only after receiving notice from the registrant in accordance with § 240.14a-11(g)(1) or § 240.14a-11(g)(3)(iv) that the registrant will include the nominating shareholder's or nominating shareholder group's nominee or nominees in its form of proxy.
-
-Instruction 2 to paragraph (b)(8).
-
-Any solicitation by or on behalf of a nominating shareholder or nominating shareholder group in support of its nominee included or to be included on the registrant's form of proxy in accordance with § 240.14a-11 or for or against the registrant's nominee or nominees must be made in reliance on the exemption provided in paragraph (b)(8) of this section and not on any other exemption.
-
-Instruction 3 to paragraph (b)(8).
-
-The exemption provided in paragraph (b)(8) of this section shall not apply to a person that subsequently engages in soliciting or other nominating activities outside the scope of § 240.14a-11 in connection with the subject election of directors or is or becomes a member of any other group, as determined under section 13(d)(3) of the Act (15 U.S.C. 78m(d)(3) and § 240.13d-5(b)), or otherwise, with persons engaged in soliciting or other nominating activities in connection with the subject election of directors.
+(8) [Reserved]
 
 (9) Paragraphs (b)(1) and (b)(3) of this section shall not be available to a person furnishing proxy voting advice covered by § 240.14a-1(l)(1)(iii)(A) (“proxy voting advice business”) unless the proxy voting advice business includes in its proxy voting advice or in an electronic medium used to deliver the proxy voting advice prominent disclosure of:
 
@@ -126,4 +84,4 @@ The exemption provided in paragraph (b)(8) of this section shall not apply to a 
 
 (ii) Any policies and procedures used to identify, as well as the steps taken to address, any such material conflicts of interest arising from such interest, transaction, or relationship.
 
-[44 FR 68769, Nov. 29, 1979, as amended at 51 FR 42059, Nov. 20, 1986; 52 FR 21936, June 10, 1987; 57 FR 48290, Oct. 22, 1992; 59 FR 63684, Dec. 8, 1994; 65 FR 65749, Nov. 2, 2000; 70 FR 44829, Aug. 3, 2005; 72 FR 4166, Jan. 29, 2007; 73 FR 4458, Jan. 25, 2008; 73 FR 17814, Apr. 1, 2008; 75 FR 56780, Sept. 16, 2010; 85 FR 55154, Sept. 3, 2020; 86 FR 68378, Dec. 1, 2021; 87 FR 43196, July 19, 2022]
+[44 FR 68769, Nov. 29, 1979, as amended at 51 FR 42059, Nov. 20, 1986; 52 FR 21936, June 10, 1987; 57 FR 48290, Oct. 22, 1992; 59 FR 63684, Dec. 8, 1994; 65 FR 65749, Nov. 2, 2000; 70 FR 44829, Aug. 3, 2005; 72 FR 4166, Jan. 29, 2007; 73 FR 4458, Jan. 25, 2008; 73 FR 17814, Apr. 1, 2008; 75 FR 56780, Sept. 16, 2010; 85 FR 55154, Sept. 3, 2020; 86 FR 68378, Dec. 1, 2021; 87 FR 43196, July 19, 2022; 90 FR 9689, Feb. 18, 2025]

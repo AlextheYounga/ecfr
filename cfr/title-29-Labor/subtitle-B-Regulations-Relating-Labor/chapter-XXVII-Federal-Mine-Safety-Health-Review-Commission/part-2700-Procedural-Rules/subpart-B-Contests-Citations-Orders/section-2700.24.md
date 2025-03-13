@@ -1,6 +1,6 @@
 ##### § 2700.24 Emergency response plan dispute proceedings. #####
 
-Link to an amendment published at 90 FR 5620, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5620, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Referral by the Secretary.* The Secretary shall immediately refer to the Commission any citation arising from a dispute between the Secretary and an operator with respect to the content of the operator's emergency response plan, or any refusal by the Secretary to approve such a plan. Any referral made pursuant to this paragraph shall be made within two business days of the issuance of any such citation.
 

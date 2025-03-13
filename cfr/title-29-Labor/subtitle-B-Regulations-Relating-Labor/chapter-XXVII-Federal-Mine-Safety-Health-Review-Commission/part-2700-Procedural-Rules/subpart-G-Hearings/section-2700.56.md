@@ -1,6 +1,6 @@
 ##### § 2700.56 Discovery; general. #####
 
-Link to an amendment published at 90 FR 5623, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5623, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Discovery methods.* Parties may obtain discovery by one or more of the following methods: Depositions upon oral examination or written questions; written interrogatories; or requests for admissions, for production of documents or objects or for permission to enter upon property for inspecting, copying, photographing, and gathering information.
 

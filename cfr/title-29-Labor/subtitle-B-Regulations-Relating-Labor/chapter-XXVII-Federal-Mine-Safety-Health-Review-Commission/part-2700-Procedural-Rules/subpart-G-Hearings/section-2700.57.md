@@ -1,6 +1,6 @@
 ##### § 2700.57 Depositions. #####
 
-Link to an amendment published at 90 FR 5623, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5623, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Generally.* Any party, without leave of the Judge, may take the testimony of any person, including a party, by deposition upon oral examination or written interrogatories.
 

@@ -1,6 +1,6 @@
 ##### § 2700.45 Temporary reinstatement proceedings. #####
 
-Link to an amendment published at 90 FR 5622, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5622, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Service of pleadings.* A copy of each document filed with the Commission in a temporary reinstatement proceeding shall be served on all parties by a method of service as expeditious as that used for filing, except that if service by electronic transmission (email) is impossible, the filing party must serve in person, by third party commercial carrier, or by facsimile transmission, resulting in same-day delivery.
 

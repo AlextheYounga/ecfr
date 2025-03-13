@@ -1,6 +1,6 @@
 ##### § 2700.4 Parties, intervenors, and amici curiae. #####
 
-Link to an amendment published at 90 FR 5617, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5617, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Party status.* A person, including the Secretary or an operator, who is named as a party or who is permitted to intervene, is a party. In a proceeding instituted by the Secretary under section 105(c)(2) of the Act, 30 U.S.C. 815(c)(2), the complainant on whose behalf the Secretary has filed the complaint is a party and may present additional evidence on his own behalf. A miner, applicant for employment, or representative of a miner who has filed a complaint with the Commission under section 105(c)(3) or 111 of the Act, 30 U.S.C. 815(c)(3) and 821, and an affected miner or his representative who has become a party in accordance with paragraph (b) of this section, are parties.
 

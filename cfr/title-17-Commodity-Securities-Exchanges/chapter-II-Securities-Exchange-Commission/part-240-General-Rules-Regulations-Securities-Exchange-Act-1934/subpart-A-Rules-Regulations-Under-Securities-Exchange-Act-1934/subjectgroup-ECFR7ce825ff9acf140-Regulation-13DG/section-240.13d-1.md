@@ -5,7 +5,7 @@
 
 (b)(1) A person who would otherwise be obligated under paragraph (a) of this section to file a statement on Schedule 13D (§ 240.13d-101) may, in lieu thereof, file with the Commission, a short-form statement on Schedule 13G (§ 240.13d-102), *Provided,* That:
 
-(i) Such person has acquired such securities in the ordinary course of the person's business and not with the purpose nor with the effect of changing or influencing the control of the issuer, nor in connection with or as a participant in any transaction having such purpose or effect, including any transaction subject to § 240.13d-3(b), other than activities solely in connection with a nomination under § 240.14a-11; and
+(i) Such person has acquired such securities in the ordinary course of the person's business and not with the purpose nor with the effect of changing or influencing the control of the issuer, nor in connection with or as a participant in any transaction having such purpose or effect, including any transaction subject to § 240.13d-3(b) and
 
 (ii) Such person is:
 
@@ -33,19 +33,11 @@
 
 (iii) Such person has promptly notified any other person (or group within the meaning of section 13(d)(3) of the Act) on whose behalf it holds, on a discretionary basis, securities exceeding five percent of the class, of any acquisition or transaction on behalf of such other person which might be reportable by that person under section 13(d) of the Act. This paragraph (b)(1)(iii) only requires notice to the account owner of information which the filing person reasonably should be expected to know and which would advise the account owner of an obligation such account owner may have to file a statement, or an amendment thereto, pursuant to section 13(d) of the Act.
 
-Instruction 1 to paragraph (b)(1).
-
-For purposes of paragraph (b)(1)(i) of this section, the exception for activities solely in connection with a nomination under § 240.14a-11 will not be available after the election of directors.
-
 (2) The Schedule 13G filed pursuant to paragraph (b)(1) of this section shall be filed within 45 days after the end of the calendar quarter in which the person became obligated under paragraph (b)(1) of this section to report the person's beneficial ownership as of the last day of the calendar quarter, *provided,* that it shall not be necessary to file a Schedule 13G unless the percentage of the class of equity security specified in paragraph (i)(1) of this section beneficially owned as of the end of the calendar quarter is more than five percent; *however,* if the person's direct or indirect beneficial ownership exceeds 10 percent of the class of equity securities prior to the end of the calendar quarter, the initial Schedule 13G shall be filed within five business days after the end of the first month in which the person's direct or indirect beneficial ownership exceeds 10 percent of the class of equity securities, computed as of the last day of the month.
 
 (c) A person who would otherwise be obligated under paragraph (a) of this section to file a statement on Schedule 13D (§ 240.13d-101) may, in lieu thereof, file with the Commission, within five business days after the date of an acquisition described in paragraph (a) of this section, a short-form statement on Schedule 13G (§ 240.13d-102). *Provided,* that the person:
 
-(1) Has not acquired the securities with any purpose, or with the effect, of changing or influencing the control of the issuer, or in connection with or as a participant in any transaction having that purpose or effect, including any transaction subject to § 240.13d-3(b), other than activities solely in connection with a nomination under § 240.14a-11;
-
-Instruction 1 to paragraph (c)(1).
-
-For purposes of paragraph (c)(1) of this section, the exception for activities solely in connection with a nomination under § 240.14a-11 will not be available after the election of directors.
+(1) Has not acquired the securities with any purpose, or with the effect, of changing or influencing the control of the issuer, or in connection with or as a participant in any transaction having that purpose or effect, including any transaction subject to § 240.13d-3(b)
 
 (2) Is not a person reporting pursuant to paragraph (b)(1) of this section; and
 
@@ -93,4 +85,4 @@ For purposes of paragraph (c)(1) of this section, the exception for activities s
 
 (2) A group's filing obligation may be satisfied either by a single joint filing or by each of the group's members making an individual filing. If the group's members elect to make their own filings, each such filing should identify all members of the group but the information provided concerning the other persons making the filing need only reflect information which the filing person knows or has reason to know.
 
-[43 FR 18495, Apr. 28, 1978, as amended at 43 FR 29768, July 11, 1978; 43 FR 55755, Nov. 29, 1978; 44 FR 10703, Feb. 23, 1979; 63 FR 2865, Jan. 16, 1998; 63 FR 15287, Mar. 31, 1998; 73 FR 60089, Oct. 9, 2008; 75 FR 56780, Sept. 16, 2010; 88 FR 76981, Nov. 7, 2023]
+[43 FR 18495, Apr. 28, 1978, as amended at 43 FR 29768, July 11, 1978; 43 FR 55755, Nov. 29, 1978; 44 FR 10703, Feb. 23, 1979; 63 FR 2865, Jan. 16, 1998; 63 FR 15287, Mar. 31, 1998; 73 FR 60089, Oct. 9, 2008; 75 FR 56780, Sept. 16, 2010; 88 FR 76981, Nov. 7, 2023; 90 FR 9689, Feb. 18, 2025]

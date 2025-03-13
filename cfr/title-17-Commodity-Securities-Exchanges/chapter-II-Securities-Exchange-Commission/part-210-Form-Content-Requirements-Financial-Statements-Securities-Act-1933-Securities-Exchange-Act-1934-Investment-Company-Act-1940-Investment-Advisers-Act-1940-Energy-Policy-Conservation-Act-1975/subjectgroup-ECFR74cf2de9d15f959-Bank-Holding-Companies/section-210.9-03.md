@@ -16,7 +16,7 @@ Assets
 
 5. Other short-term investments.
 
-6. *Investment securities* Include securities held for investment only. Disclose the aggregate book value of investment securities; show on the balance sheet the aggregate market value at the balance sheet date. The aggregate amounts should include securities pledged, loaned or sold under repurchase agreements and similar arrangements; borrowed securities and securities purchased under resale agreements or similar arrangements should be excluded.
+6. *Investment securities.* Include securities held for investment only. Disclose the aggregate book value of investment securities; show on the balance sheet the aggregate market value at the balance sheet date. The aggregate amounts should include securities pledged, loaned or sold under repurchase agreements and similar arrangements; borrowed securities and securities purchased under resale agreements or similar arrangements should be excluded.
 
 7. *Loans.* Disclose separately (1) total loans, (2) the related allowance for losses and (3) unearned income.
 
@@ -108,4 +108,4 @@ Noncontrolling Interests
 
 23. *Total liabilities and equity.*
 
-[48 FR 11107, Mar. 16, 1983, as amended at 48 FR 37612, Aug. 19, 1983; 50 FR 25215, June 18, 1985; 74 FR 18616, Apr. 23, 2009; 83 FR 50205, Oct. 4, 2018; 85 FR 66140, Oct. 16, 2020]
+[48 FR 11107, Mar. 16, 1983, as amended at 48 FR 37612, Aug. 19, 1983; 50 FR 25215, June 18, 1985; 74 FR 18616, Apr. 23, 2009; 83 FR 50205, Oct. 4, 2018; 85 FR 66140, Oct. 16, 2020; 90 FR 9687, Feb. 18, 2025]

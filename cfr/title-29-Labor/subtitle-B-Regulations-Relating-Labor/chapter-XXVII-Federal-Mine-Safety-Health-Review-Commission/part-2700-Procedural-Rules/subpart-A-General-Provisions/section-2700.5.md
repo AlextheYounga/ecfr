@@ -1,6 +1,6 @@
 ##### § 2700.5 General requirements for pleadings and other documents; status or informational requests. #####
 
-Link to an amendment published at 90 FR 5618, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5618, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Jurisdiction.* A proposal for a penalty under section 110, 30 U.S.C. 820(c); an answer to a notice of contest of a citation or withdrawal order issued under section 104, 30 U.S.C. 814; an answer to a notice of contest of an order issued under section 107, 30 U.S.C. 817; a complaint issued under section 105(c) or 111, 30 U.S.C. 815(c) and 821; and an application for temporary reinstatement under section 105(c)(2), 30 U.S.C. 815(c)(2), shall allege that the violation or imminent danger took place in or involves a mine that has products which enter commerce or has operations or products that affect commerce. Jurisdictional facts that are alleged are deemed admitted unless specifically denied in a responsive pleading.
 

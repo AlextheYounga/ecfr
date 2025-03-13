@@ -1,6 +1,6 @@
 ##### § 2700.81 Recusal and disqualification. #####
 
-Link to an amendment published at 90 FR 5627, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5627, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Recusal.* A Commissioner or a Judge may recuse himself from a proceeding whenever he deems such action appropriate.
 

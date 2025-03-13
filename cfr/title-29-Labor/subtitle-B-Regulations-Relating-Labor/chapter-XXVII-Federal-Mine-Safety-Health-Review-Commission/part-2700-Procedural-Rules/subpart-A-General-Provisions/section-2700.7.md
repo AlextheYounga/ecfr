@@ -1,6 +1,6 @@
 ##### § 2700.7 Service. #####
 
-Link to an amendment published at 90 FR 5619, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5619, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Generally.* A copy of each document filed with the Commission shall be served on all parties. Whenever a party is represented by an attorney or other authorized representative who has entered an appearance on behalf of such party pursuant to § 2700.3, service thereafter shall be made upon the attorney or other authorized representative. In addition, a copy of a notice of contest of a citation or order, a petition for assessment of penalty, a discrimination complaint, a complaint for compensation, and an application for temporary relief shall be served upon the representative of miners, if known.
 

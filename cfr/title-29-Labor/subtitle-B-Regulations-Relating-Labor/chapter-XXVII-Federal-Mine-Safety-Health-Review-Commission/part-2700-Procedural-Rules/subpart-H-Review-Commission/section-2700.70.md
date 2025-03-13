@@ -1,6 +1,6 @@
 ##### § 2700.70 Petitions for discretionary review. #####
 
-Link to an amendment published at 90 FR 5625, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5625, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Procedure.* Any person adversely affected or aggrieved by a Judge's decision or order may file with the Commission a petition for discretionary review within 30 days after issuance of the decision or order. Filing of a petition for discretionary review is effective upon receipt. Two or more parties may join in the same petition; the Commission may consolidate related petitions. Procedures governing petitions for review of temporary reinstatement orders are found at § 2700.45(f).
 

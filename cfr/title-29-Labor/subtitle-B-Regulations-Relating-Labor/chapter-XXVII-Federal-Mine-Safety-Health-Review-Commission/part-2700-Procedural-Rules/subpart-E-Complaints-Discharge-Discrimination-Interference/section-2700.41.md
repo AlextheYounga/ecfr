@@ -1,6 +1,6 @@
 ##### § 2700.41 Time to file. #####
 
-Link to an amendment published at 90 FR 5622, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5622, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *The Secretary.* A discrimination complaint shall be filed by the Secretary within 30 days after his written determination that a violation has occurred.
 

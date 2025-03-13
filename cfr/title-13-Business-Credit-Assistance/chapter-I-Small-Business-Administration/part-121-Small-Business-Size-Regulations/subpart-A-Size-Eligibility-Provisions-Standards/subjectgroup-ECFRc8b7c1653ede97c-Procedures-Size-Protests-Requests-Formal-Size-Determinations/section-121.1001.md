@@ -92,19 +92,13 @@
 
 (iii) The SBA Government Contracting Area Director having responsibility for the area in which the headquarters of the protested offeror is located, regardless of the location of a parent company or affiliates, the SBA program manager relating to the order at issue (*i.e.,* the Director of Government Contracting, the Associate Administrator for Business Development, or the Director of HUBZone, as appropriate), or the Associate General Counsel for Procurement Law.
 
-(11) In connection with a size recertification relating to a contract required by § 125.12 of this chapter, the following entities may file a size protest challenging the recertification:
+(11) In connection with a size recertification relating to a Set Aside or Reserved Award (as defined in § 125.1 of this chapter), that is required by § 125.12 of this chapter, the following entities may file a size protest challenging the recertification:
 
-(a) Any contract holder on that multiple award contract;
+(i) The contracting officer;
 
-(b) The contracting officer; or
+(ii) The SBA program manager relating to the Set Aside or Reserved Award at issue (*i.e.,* the Director of Government Contracting, the Associate Administrator for Business Development, or the Director of HUBZone, as appropriate), or the Associate General Counsel for Procurement Law; or
 
-(c) The SBA program manager relating to the contract at issue (*i.e.,* the Director of Government Contracting, the Associate Administrator for Business Development, or the Director of HUBZone, as appropriate), or the Associate General Counsel for Procurement Law.
-
-(12) In connection with a size recertification relating to a multiple award contract required by § 125.12 of this chapter, any contract holder on that multiple award contract may also request a formal size determination concerning a recertifying concern's status as a small business.
-
-(i) A request for a formal size determination made by another contract holder on a multiple award contract must be sufficiently specific to provide reasonable notice as to the grounds upon which the recertifying concern's size is questioned. Some basis for the belief or allegation that the recertifying concern does not continue to qualify as small must be given.
-
-(ii) SBA will dismiss as not sufficiently specific any request for a formal size determination alleging merely that the recertifying concern is not small or is affiliated with unnamed other concerns.
+(iii) Any other contract or agreement holder, if it is a multiple award contract or agreement.
 
 (b) *Request for Size Determinations.* (1) For SBA's Financial Assistance Programs, the following entities may request a formal size determination:
 
@@ -178,4 +172,4 @@
 
 (13) The SBA Inspector General may request a formal size determination with respect to any of the programs identified in paragraph (b) of this section.
 
-[61 FR 3286, Jan. 31, 1996, as amended at 63 FR 31907, June 11, 1998; 63 FR 35739, June 30, 1998; 69 FR 25266, May 5, 2004; 69 FR 29206, May 21, 2004; 69 FR 29420, May 24, 2004; 69 FR 44461, July 26, 2004; 73 FR 56947, Oct. 1, 2008; 74 FR 45753, Sept. 4, 2009; 75 FR 62280, Oct. 7, 2010; 76 FR 8253, Feb. 11, 2011; 77 FR 76227, Dec. 27, 2012; 78 FR 61132, Oct. 2, 2013; 80 FR 7536, Feb. 11, 2015; 81 FR 34259, May 31, 2016; 81 FR 48579, July 25, 2016; 84 FR 65239, Nov. 26, 2019; 85 FR 66182, Oct. 16, 2020; 88 FR 26202, Apr. 27, 2023; 89 FR 102486, Dec. 17, 2024]
+[61 FR 3286, Jan. 31, 1996, as amended at 63 FR 31907, June 11, 1998; 63 FR 35739, June 30, 1998; 69 FR 25266, May 5, 2004; 69 FR 29206, May 21, 2004; 69 FR 29420, May 24, 2004; 69 FR 44461, July 26, 2004; 73 FR 56947, Oct. 1, 2008; 74 FR 45753, Sept. 4, 2009; 75 FR 62280, Oct. 7, 2010; 76 FR 8253, Feb. 11, 2011; 77 FR 76227, Dec. 27, 2012; 78 FR 61132, Oct. 2, 2013; 80 FR 7536, Feb. 11, 2015; 81 FR 34259, May 31, 2016; 81 FR 48579, July 25, 2016; 84 FR 65239, Nov. 26, 2019; 85 FR 66182, Oct. 16, 2020; 88 FR 26202, Apr. 27, 2023; 89 FR 102486, Dec. 17, 2024; 90 FR 9674, Feb. 18, 2025]

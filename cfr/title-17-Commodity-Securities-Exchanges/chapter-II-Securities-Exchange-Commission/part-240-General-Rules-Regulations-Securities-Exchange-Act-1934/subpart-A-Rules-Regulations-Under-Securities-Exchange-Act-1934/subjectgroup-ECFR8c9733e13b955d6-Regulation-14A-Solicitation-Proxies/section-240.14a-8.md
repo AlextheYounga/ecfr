@@ -12,9 +12,7 @@ This section addresses when a company must include a shareholder's proposal in i
 
 (B) At least $15,000 in market value of the company's securities entitled to vote on the proposal for at least two years; or
 
-(C) At least $25,000 in market value of the company's securities entitled to vote on the proposal for at least one year; or
-
-(D) The amounts specified in paragraph (b)(3) of this section. This paragraph (b)(1)(i)(D) will expire on the same date that § 240.14a-8(b)(3) expires; and
+(C) At least $25,000 in market value of the company's securities entitled to vote on the proposal for at least one year; and
 
 (ii) You must provide the company with a written statement that you intend to continue to hold the requisite amount of securities, determined in accordance with paragraph (b)(1)(i)(A) through (C) of this section, through the date of the shareholders' meeting for which the proposal is submitted; and
 
@@ -172,4 +170,4 @@ Yes, you may submit a response, but it is not required. You should try to submit
 
 (ii) In all other cases, the company must provide you with a copy of its opposition statements no later than 30 calendar days before its files definitive copies of its proxy statement and form of proxy under § 240.14a-6.
 
-[63 FR 29119, May 28, 1998; 63 FR 50622, 50623, Sept. 22, 1998, as amended at 72 FR 4168, Jan. 29, 2007; 72 FR 70456, Dec. 11, 2007; 73 FR 977, Jan. 4, 2008; 76 FR 6045, Feb. 2, 2011; 75 FR 56782, Sept. 16, 2010; 85 FR 70294, Nov. 4, 2020]
+[63 FR 29119, May 28, 1998; 63 FR 50622, 50623, Sept. 22, 1998, as amended at 72 FR 4168, Jan. 29, 2007; 72 FR 70456, Dec. 11, 2007; 73 FR 977, Jan. 4, 2008; 76 FR 6045, Feb. 2, 2011; 75 FR 56782, Sept. 16, 2010; 85 FR 70294, Nov. 4, 2020; 90 FR 9689, Feb. 18, 2025]

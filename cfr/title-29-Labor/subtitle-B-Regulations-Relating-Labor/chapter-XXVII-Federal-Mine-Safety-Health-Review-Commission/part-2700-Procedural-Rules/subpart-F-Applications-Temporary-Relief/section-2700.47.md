@@ -1,6 +1,6 @@
 ##### § 2700.47 Contents of application. #####
 
-Link to an amendment published at 90 FR 5623, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5623, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) An application for temporary relief shall contain:
 

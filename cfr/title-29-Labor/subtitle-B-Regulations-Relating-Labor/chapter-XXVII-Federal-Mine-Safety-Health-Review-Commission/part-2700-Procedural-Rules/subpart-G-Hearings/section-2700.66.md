@@ -1,6 +1,6 @@
 ##### § 2700.66 Summary disposition of proceedings. #####
 
-Link to an amendment published at 90 FR 5624, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5624, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Generally.* When a party fails to comply with an order of a Judge or these rules, except as provided in paragraph (b) of this section, an order to show cause shall be directed to the party before the entry of any order of default or dismissal. The order shall be mailed by registered or certified mail, return receipt requested.
 

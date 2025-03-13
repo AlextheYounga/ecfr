@@ -1,6 +1,6 @@
 ##### § 2700.6 Signing of documents. #####
 
-Link to an amendment published at 90 FR 5619, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5619, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Signature*—(1) *Documents not filed by electronic transmission.* A party or representative of the party shall sign a document by handwriting his signature.
 

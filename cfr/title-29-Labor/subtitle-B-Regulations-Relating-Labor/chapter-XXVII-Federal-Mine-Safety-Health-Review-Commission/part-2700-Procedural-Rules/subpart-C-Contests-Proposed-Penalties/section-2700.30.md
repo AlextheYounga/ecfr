@@ -1,6 +1,6 @@
 ##### § 2700.30 Assessment of penalty. #####
 
-Link to an amendment published at 90 FR 5621, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5621, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) In assessing a penalty the Judge shall determine the amount of penalty in accordance with the six statutory criteria contained in section 110(i) of the Act, 30 U.S.C. 820(i), and incorporate such determination in a written decision. The decision shall contain findings of fact and conclusions of law on each of the statutory criteria and an order requiring that the penalty be paid.
 

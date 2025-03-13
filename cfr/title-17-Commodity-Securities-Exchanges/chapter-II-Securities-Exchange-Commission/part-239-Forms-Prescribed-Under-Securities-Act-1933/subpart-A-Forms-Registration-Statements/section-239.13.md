@@ -108,7 +108,7 @@ With regard to paragraphs (c)(3), (c)(4), and (c)(5) of this section, the guaran
 
 (A) Securities of a majority-owned subsidiary that is a well-known seasoned issuer at the time it becomes a registrant, other than by virtue of paragraph (1)(ii) of the definition of well-known seasoned issuer in Rule 405;
 
-(B) Securities of a majority-owned subsidiary that are non-convertible securities, other than common equity, and the parent registration provides a full and unconditional guarantee, as defined in Rule 3-10 of Regulation S-X, of the payment obligations on the non-convertible securities;
+(B) Securities of a majority-owned subsidiary that are non-convertible securities, other than common equity, and the parent registrant provides a full and unconditional guarantee, as defined in Rule 3-10 of Regulation S-X, of the payment obligations on the non-convertible securities;
 
 (C) Securities of a majority-owned subsidiary that are a guarantee of:
 
@@ -134,4 +134,4 @@ With regard to paragraphs (c)(3), (c)(4), and (c)(5) of this section, the guaran
 
 (2) Furnish with the prospectus a copy of its latest filing on Form 20-F.
 
-[47 FR 11453, Mar. 16, 1982, as amended at 56 FR 30055, July 1, 1991; 57 FR 48976, Oct. 29, 1992; 58 FR 14679, Mar. 18, 1993; 58 FR 16771, Mar. 31, 1993; 62 FR 26388, May 14, 1997; 64 FR 11116, Mar. 8, 1999; 69 FR 15618, Mar. 25, 2004; 70 FR 1618, Jan. 7, 2005; 70 FR 44820, Aug. 3, 2005; 74 FR 6816, Feb. 10, 2009; 79 FR 57332, Sept. 24, 2014; 83 FR 40877, Aug. 16, 2018; 88 FR 51943, Aug. 4, 2023]Editorial Note:For Federal Register citations affecting Form S-3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[47 FR 11453, Mar. 16, 1982, as amended at 56 FR 30055, July 1, 1991; 57 FR 48976, Oct. 29, 1992; 58 FR 14679, Mar. 18, 1993; 58 FR 16771, Mar. 31, 1993; 62 FR 26388, May 14, 1997; 64 FR 11116, Mar. 8, 1999; 69 FR 15618, Mar. 25, 2004; 70 FR 1618, Jan. 7, 2005; 70 FR 44820, Aug. 3, 2005; 74 FR 6816, Feb. 10, 2009; 79 FR 57332, Sept. 24, 2014; 83 FR 40877, Aug. 16, 2018; 88 FR 51943, Aug. 4, 2023; 90 FR 9688, Feb. 18, 2025]Editorial Note:For Federal Register citations affecting Form S-3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

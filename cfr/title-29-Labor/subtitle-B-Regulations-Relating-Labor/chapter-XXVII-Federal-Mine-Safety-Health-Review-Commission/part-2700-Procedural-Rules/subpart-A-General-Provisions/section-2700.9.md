@@ -1,6 +1,6 @@
 ##### § 2700.9 Extensions of time. #####
 
-Link to an amendment published at 90 FR 5620, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5620, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) The time for filing or serving any document may be extended for good cause shown. Filing of a motion requesting an extension of time is effective upon receipt. A motion requesting an extension of time shall be received no later than 3 days prior to the expiration of the time allowed for the filing or serving of the document, and shall comply with § 2700.10. The motion and any statement in opposition shall include proof of service on all parties by a means of delivery no less expeditious than that used for filing the motion, except that if service by electronic transmission (email) is impossible, the filing party must serve in person, by third party commercial carrier, or by facsimile transmission, resulting in same-day delivery.
 

@@ -30,9 +30,11 @@
 
 (iii) Protests relating to size certifications made in response to a contracting officer's request for size certifications in connection with an individual order must be received by the contracting officer prior to the close of business on the 5th day, exclusive of Saturdays, Sundays, and legal holidays, after receipt of notice (including notice received in writing, orally, or via electronic posting) of the identity of the prospective awardee or award.
 
-(4) *Electronic notification of award.* Where notification of award is made electronically, such as posting on the Internet under Simplified Acquisition Procedures, a protest must be received by the contracting officer before close of business on the fifth day, exclusive of Saturdays, Sundays, and legal holidays, after the electronic posting.
+(4) *Protests relating to size recertifications.* Protests from another contract or agreement holder relating to a size recertification required by § 125.12 of this chapter must be received by the contracting officer prior to the close of business on the 5th business day after bid opening or notice (including notice received in writing, orally, or via electronic posting) of the identity of the prospective awardee of an order issued under a multiple award contract or agreement.
 
-(5) *No notice of award.* Where there is no requirement for written pre-award notice or notice of award, or where the contracting officer has failed to provide written notification of award, the 5-day protest period will commence upon oral notification by the contracting officer or authorized representative or another means (such as public announcements or other oral communications) of the identity of the apparent successful offeror.
+(5) *Electronic notification of award.* Where notification of award is made electronically, such as posting on the Internet under Simplified Acquisition Procedures, a protest must be received by the contracting officer before close of business on the fifth day, exclusive of Saturdays, Sundays, and legal holidays, after the electronic posting.
+
+(6) *No notice of award.* Where there is no requirement for written pre-award notice or notice of award, or where the contracting officer has failed to provide written notification of award, the 5-day protest period will commence upon oral notification by the contracting officer or authorized representative or another means (such as public announcements or other oral communications) of the identity of the apparent successful offeror.
 
 (b) *Protests by contracting officers, funding agreement officers or SBA.* The time limitations in paragraph (a) of this section do not apply to contracting officers, funding agreement officers or SBA, and they may file protests before or after awards, except to the extent set forth in paragraph (e) of this section, including for purposes of the SBIR and STTR programs. Notwithstanding paragraph (e), for purposes of the SBIR and STTR programs the funding agreement officer or SBA may file a protest in anticipation of an award.
 
@@ -50,4 +52,4 @@
 
 (2) When the apparent successful offeror is announced after reevaluation, interested parties will again have the opportunity to protest the size of the new or same apparent successful offeror within five business days after such notification.
 
-[61 FR 3286, Jan. 31, 1996, as amended at 69 FR 29206, May 21, 2004; 71 FR 66444, Nov. 15, 2006; 77 FR 76227, Dec. 27, 2012; 78 FR 61132, Oct. 2, 2013; 85 FR 66182, Oct. 16, 2020; 88 FR 26202, Apr. 27, 2023]
+[61 FR 3286, Jan. 31, 1996, as amended at 69 FR 29206, May 21, 2004; 71 FR 66444, Nov. 15, 2006; 77 FR 76227, Dec. 27, 2012; 78 FR 61132, Oct. 2, 2013; 85 FR 66182, Oct. 16, 2020; 88 FR 26202, Apr. 27, 2023; 90 FR 9674, Feb. 18, 2025]

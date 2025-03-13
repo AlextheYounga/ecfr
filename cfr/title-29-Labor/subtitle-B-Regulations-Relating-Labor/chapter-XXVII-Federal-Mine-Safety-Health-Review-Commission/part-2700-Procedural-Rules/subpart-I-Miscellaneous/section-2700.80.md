@@ -1,6 +1,6 @@
 ##### § 2700.80 Standards of conduct; disciplinary proceedings. #####
 
-Link to an amendment published at 90 FR 5626, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5626, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Standards of conduct.* Individuals practicing before the Commission or before Commission Judges shall conform to the standards of ethical conduct required of practitioners in the courts of the United States.
 

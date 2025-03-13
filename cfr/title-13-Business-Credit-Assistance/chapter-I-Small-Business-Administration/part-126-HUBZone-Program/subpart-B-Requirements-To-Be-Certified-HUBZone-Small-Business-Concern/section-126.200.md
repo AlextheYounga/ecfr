@@ -26,7 +26,7 @@
 
 (ii) *Commencement of 10-year period.* The 10-year principal office long-term investment protection period starts to run on the firm's HUBZone certification date (if the investment was made prior to the firm's certification) or on the date of the investment (if the investment was made after the firm's HUBZone certification date).
 
-Example 1 to paragraph (c)(2)(i):If a firm was certified on March 31, 2020, and purchased a building on July 20, 2020, the 10-year clock would begin when the firm recertifies as of July 29, 2020.
+Example 1 to paragraph (c)(1)(ii):If a firm was certified on March 31, 2021, and purchased a building on July 20, 2021, the 10-year clock would begin on the date of the investment (July 20, 2021).
 
 (iii) *Exceptions.* The following do not qualify for this provision:
 
@@ -80,4 +80,4 @@ Example 1 to paragraph (d)(3):As part of its application for HUBZone certificati
 
 (g) *Federal financial obligations.* A business concern is ineligible to be certified as a HUBZone small business concern or to participate in the HUBZone program if either the concern or any of its principals has failed to pay significant financial obligations owed to the Federal Government, including unresolved tax liens and defaults on Federal loans or other Federally assisted financing. However, a small business concern may be eligible if the concern or the affected principals can demonstrate that they are current on an approved repayment plan, or the financial obligations owed have been settled and discharged/forgiven by the Federal Government.
 
-[84 FR 65242, Nov. 26, 2019, as amended at 86 FR 61673, Nov. 8, 2021; 88 FR 26212, Apr. 27, 2023; 89 FR 102498, Dec. 17, 2024]
+[84 FR 65242, Nov. 26, 2019, as amended at 86 FR 61673, Nov. 8, 2021; 88 FR 26212, Apr. 27, 2023; 89 FR 102498, Dec. 17, 2024; 90 FR 9675, Feb. 18, 2025]

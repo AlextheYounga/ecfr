@@ -1,6 +1,6 @@
 ##### § 2700.67 Summary decision of the Judge. #####
 
-Link to an amendment published at 90 FR 5625, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5625, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Filing of motion for summary decision.* At any time after commencement of a proceeding and no later than 25 days before the date fixed for the hearing on the merits, a party may move the Judge to render summary decision disposing of all or part of the proceeding. Filing of a summary decision motion and an opposition thereto shall be effective upon receipt.
 

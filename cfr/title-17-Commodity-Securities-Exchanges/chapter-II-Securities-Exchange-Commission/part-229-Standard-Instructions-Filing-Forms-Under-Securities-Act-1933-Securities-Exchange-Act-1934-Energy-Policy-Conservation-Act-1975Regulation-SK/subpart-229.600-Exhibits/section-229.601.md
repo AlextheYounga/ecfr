@@ -1,6 +1,6 @@
 ##### § 229.601 (Item 601) Exhibits. #####
 
-Link to an amendment published at 89 FR 21914, Mar. 28, 2024.Link to a delay published at 89 FR 25804, Apr. 12, 2024.
+Link to an amendment published at 89 FR 21914, Mar. 28, 2024.This amendment was delayed indefinitely at 89 FR 25804, Apr. 12, 2024.
 
 (a) *Exhibits and index required.* (1) Subject to Rule 411(c) (§ 230.411(c) of this chapter) under the Securities Act and Rule 12b-23(c) (§ 240.12b-23(c) of this chapter) under the Exchange Act regarding incorporation of exhibits by reference, the exhibits required in the exhibit table must be filed as indicated, as part of the registration statement or report.
 
@@ -104,7 +104,7 @@ Exhibit TableInstructions to the Exhibit Table.
 
 (ii) *Bylaws.* The bylaws of the registrant or instruments corresponding thereto as currently in effect and any amendments thereto. Whenever the registrant files an amendment to the bylaws, it must file a complete copy of the amended bylaws. However, if such amendment is being reported on Form 8-K (§ 249.308 of this chapter), the registrant is required to file only the text of the amendment as a Form 8-K exhibit. In such case, a complete copy of the bylaws as amended must be filed as an exhibit to the next Securities Act registration statement or periodic report filed by the registrant to which this exhibit requirement applies.
 
-(4) *Instruments defining the rights of security holders, including identures.* (i) All instruments defining the rights of holders of the equity or debt securities being registered including, where applicable, the relevant portion of the articles of incorporation or by-laws of the registrant.
+(4) *Instruments defining the rights of security holders, including indentures.* (i) All instruments defining the rights of holders of the equity or debt securities being registered including, where applicable, the relevant portion of the articles of incorporation or by-laws of the registrant.
 
 (ii) Except as set forth in paragraph (b)(4)(iii) of this Item for filings on Forms S-1, S-4, S-11, N-14, and F-4 under the Securities Act (§ 239.11, 239.25, 239.18, 239.23 and 239.34 of this chapter) and Forms 10 and 10-K under the Exchange Act (§§ 249.210 and 249.310 of this chapter) all instruments defining the rights of holders of long-term debt of the registrant and its consolidated subsidiaries and for any of its unconsolidated subsidiaries for which financial statements are required to be filed.
 

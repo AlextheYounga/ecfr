@@ -1,6 +1,6 @@
 ##### § 2700.46 Procedure. #####
 
-Link to an amendment published at 90 FR 5623, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5623, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *When to file.* As provided in section 105(b)(2) of the Act, 30 U.S.C. 815(b)(2), an application for temporary relief from any modification or termination of any order or from any order issued under section 104 of the Act, 30 U.S.C. 814, may be filed at any time before such order becomes final. No temporary relief shall be granted with respect to a citation issued under section 104(a) or (f) of the Act. 30 U.S.C. 814(a) and (f).
 

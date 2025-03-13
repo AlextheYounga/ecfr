@@ -1,6 +1,6 @@
 ##### § 2700.28 Filing of petition for assessment of penalty with the Commission. #####
 
-Link to an amendment published at 90 FR 5621, Jan. 17, 2025.
+Link to an amendment published at 90 FR 5621, Jan. 17, 2025.This amendment was delayed until Apr. 7, 2025, at 90 FR 9691, Feb. 18, 2025.
 
 (a) *Time to file.* Within 45 days of receipt of a timely contest of a proposed penalty assessment, the Secretary shall file with the Commission a petition for assessment of penalty.
 

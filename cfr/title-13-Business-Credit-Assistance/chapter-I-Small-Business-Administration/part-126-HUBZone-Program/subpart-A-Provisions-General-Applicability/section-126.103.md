@@ -26,7 +26,7 @@
 
 (4) A census tract or nonmetropolitan county (excluding any qualified census tract and any qualified non-metropolitan county) the boundaries of which are contiguous to the area described in paragraph (2) or paragraph (3) of this definition.
 
-*Certify* means the process by which SBA determines that a concern is qualified for the HUBZone program and eligible to be designated by SBA as a certified HUBZone small business concern in the Dynamic Small Business Search (DSBS) system (or successor system).
+*Certification* or *certify* means the process by which SBA determines that a concern is qualified for the HUBZone program and eligible to be designated by SBA as a certified HUBZone small business concern in DSBS (or successor system).
 
 *Citizen* means a person born or naturalized in the United States. SBA does not consider holders of permanent visas and resident aliens to be citizens.
 
@@ -188,4 +188,4 @@
 
 *System for Award Management (SAM)* has the same meaning as in FAR 2.101.
 
-[63 FR 31908, June 11, 1998, as amended at 66 FR 4645, Jan. 18, 2001; 69 FR 29421, May 24, 2004; 70 FR 51248, Aug. 30, 2005; 72 FR 50041, Aug. 30, 2007; 74 FR 45754, Sept. 4, 2009; 74 FR 56702, Nov. 3, 2009; 78 FR 61144, Oct. 2, 2013; 81 FR 51313, Aug. 4, 2016; 82 FR 48904, Oct. 23, 2017; 84 FR 62449, Nov. 15, 2019; 84 FR 65239, Nov. 26, 2019; 86 FR 23864, May 5, 2021; 88 FR 21088, Apr. 10, 2023; 89 FR 96093, Dec. 4, 2024; 89 FR 102495, Dec. 17, 2024] Editorial Note:At 89 FR 102495, Dec. 17, 2024, § 126.103 was amended by revising the definition for “Certification or Certify”; however, the amendment could not be incorporated because that definition does not exist.
+[63 FR 31908, June 11, 1998, as amended at 66 FR 4645, Jan. 18, 2001; 69 FR 29421, May 24, 2004; 70 FR 51248, Aug. 30, 2005; 72 FR 50041, Aug. 30, 2007; 74 FR 45754, Sept. 4, 2009; 74 FR 56702, Nov. 3, 2009; 78 FR 61144, Oct. 2, 2013; 81 FR 51313, Aug. 4, 2016; 82 FR 48904, Oct. 23, 2017; 84 FR 62449, Nov. 15, 2019; 84 FR 65239, Nov. 26, 2019; 86 FR 23864, May 5, 2021; 88 FR 21088, Apr. 10, 2023; 89 FR 96093, Dec. 4, 2024; 89 FR 102495, Dec. 17, 2024; 90 FR 9674, Feb. 18, 2025]

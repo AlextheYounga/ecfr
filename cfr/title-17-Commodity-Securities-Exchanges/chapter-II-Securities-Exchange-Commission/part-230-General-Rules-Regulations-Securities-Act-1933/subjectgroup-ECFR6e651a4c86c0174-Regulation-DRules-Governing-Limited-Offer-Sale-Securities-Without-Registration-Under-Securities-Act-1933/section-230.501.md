@@ -114,9 +114,9 @@ The issuer must satisfy all the other provisions of Regulation D for all purchas
 
 (i) A relative of the purchaser representative by blood, marriage or adoption and not more remote than a first cousin;
 
-(ii) A trust or estate in which the purchaser representative and any persons related to him as specified in paragraph (h)(1)(i) or (h)(1)(iii) of this section collectively have more than 50 percent of the beneficial interest (excluding contingent interest) or of which the purchaser representative serves as trustee, executor, or in any similar capacity; or
+(ii) A trust or estate in which the purchaser representative and any persons related to him as specified in paragraph (i)(1)(i) or (iii) of this section collectively have more than 50 percent of the beneficial interest (excluding contingent interest) or of which the purchaser representative serves as trustee, executor, or in any similar capacity; or
 
-(iii) A corporation or other organization of which the purchaser representative and any persons related to him as specified in paragraph (h)(1)(i) or (h)(1)(ii) of this section collectively are the beneficial owners of more than 50 percent of the equity securities (excluding directors' qualifying shares) or equity interests;
+(iii) A corporation or other organization of which the purchaser representative and any persons related to him as specified in paragraph (i)(1)(i) or (ii) of this section collectively are the beneficial owners of more than 50 percent of the equity securities (excluding directors' qualifying shares) or equity interests;
 
 (2) Has such knowledge and experience in financial and business matters that he is capable of evaluating, alone, or together with other purchaser representatives of the purchaser, or together with the purchaser, the merits and risks of the prospective investment;
 
@@ -138,4 +138,4 @@ Note 3 to § 230.501:
 
 Disclosure of any material relationships between the purchaser representative or his affiliates and the issuer or its affiliates does not relieve the purchaser representative of his obligation to act in the interest of the purchaser.
 
-[47 FR 11262, Mar. 16, 1982, as amended at 53 FR 7868, Mar. 10, 1988; 54 FR 11372, Mar. 20, 1989; 76 FR 81806, Dec. 29, 2011; 77 FR 18685, Mar. 28, 2012; 78 FR 44770, 44804, July 24, 2013; 81 FR 83553, Nov. 21, 2016; 85 FR 64277, Oct. 9, 2020]
+[47 FR 11262, Mar. 16, 1982, as amended at 53 FR 7868, Mar. 10, 1988; 54 FR 11372, Mar. 20, 1989; 76 FR 81806, Dec. 29, 2011; 77 FR 18685, Mar. 28, 2012; 78 FR 44770, 44804, July 24, 2013; 81 FR 83553, Nov. 21, 2016; 85 FR 64277, Oct. 9, 2020; 90 FR 9687, Feb. 18, 2025]
