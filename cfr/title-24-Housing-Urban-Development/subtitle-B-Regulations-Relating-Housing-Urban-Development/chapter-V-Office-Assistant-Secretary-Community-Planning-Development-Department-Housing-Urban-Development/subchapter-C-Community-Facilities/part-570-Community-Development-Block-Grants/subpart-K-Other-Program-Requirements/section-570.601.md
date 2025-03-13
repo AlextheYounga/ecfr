@@ -1,5 +1,7 @@
 ##### § 570.601 Public Law 88-352 and Public Law 90-284; affirmatively furthering fair housing; Executive Order 11063. #####
 
+Link to an amendment published at 90 FR 11024, Mar. 3, 2025.
+
 (a) The following requirements apply according to sections 104(b) and 107 of the Act:
 
 (1) Public Law 88-352, which is title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d *et seq.*), and implementing regulations in 24 CFR part 1.

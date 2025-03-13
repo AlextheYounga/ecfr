@@ -8,18 +8,18 @@
 
 |If your date of birth is:|The credit for each month you delay  <br/>retirement is:|
 |-------------------------|--------------------------------------------------------|
-|     Before 1/2/1917     |                       1/12 of 1%                       |
-|    1/2/1917—1/1/1925    |                       1/4 of 1%                        |
-|    1/2/1925—1/1/1927    |                       7/24 of 1%                       |
-|    1/2/1927—1/1/1929    |                       1/3 of 1%                        |
-|    1/2/1929—1/1/1931    |                       3/8 of 1%                        |
-|    1/2/1931—1/1/1933    |                       5/12 of 1%                       |
-|    1/2/1933—1/1/1935    |                      11/24 of 1%                       |
-|    1/2/1935—1/1/1937    |                       1/2 of 1%                        |
-|    1/2/1937—1/1/1939    |                      13/24 of 1%                       |
-|    1/2/1939—1/1/1941    |                       7/12 of 1%                       |
-|    1/2/1941—1/1/1943    |                       5/8 of 1%                        |
-|     After 1/1/1943      |                       2/3 of 1%                        |
+|     Before 1/2/1917     |            <sup>1</sup>⁄<sub>12</sub> of 1%            |
+|    1/2/1917—1/1/1925    |            <sup>1</sup>⁄<sub>4</sub> of 1%             |
+|    1/2/1925—1/1/1927    |            <sup>7</sup>⁄<sub>24</sub> of 1%            |
+|    1/2/1927—1/1/1929    |            <sup>1</sup>⁄<sub>3</sub> of 1%             |
+|    1/2/1929—1/1/1931    |            <sup>3</sup>⁄<sub>8</sub> of 1%             |
+|    1/2/1931—1/1/1933    |            <sup>5</sup>⁄<sub>12</sub> of 1%            |
+|    1/2/1933—1/1/1935    |           <sup>11</sup>⁄<sub>24</sub> of 1%            |
+|    1/2/1935—1/1/1937    |            <sup>1</sup>⁄<sub>2</sub> of 1%             |
+|    1/2/1937—1/1/1939    |           <sup>13</sup>⁄<sub>24</sub> of 1%            |
+|    1/2/1939—1/1/1941    |            <sup>7</sup>⁄<sub>12</sub> of 1%            |
+|    1/2/1941—1/1/1943    |            <sup>5</sup>⁄<sub>8</sub> of 1%             |
+|     After 1/1/1943      |            <sup>2</sup>⁄<sub>3</sub> of 1%             |
 
 Example:Alan was qualified for old-age benefits when he reached age 65 on January 15, 1998. He decided not to apply for old-age benefits immediately because he was still working. When he became age 66 in January 1999, he stopped working and applied for benefits beginning with that month. Based on his earnings, his primary insurance amount was $782.60. However, because he did not receive benefits immediately upon attainment of full retirement age (65), he is due an increase based on his delayed retirement credits. He earned 12 credits, one for each month from January 1998 through December 1998. Based on his date of birth of 1/15/1933 he is entitled to a credit of 11/24 of one percent for each month of delayed retirement. 12 credits multiplied by 11/24 of one percent equals a credit of 5.5 percent. 5.5% of the primary insurance amount of $782.60 is $43.04 which is rounded to $43.00, the next lower multiple of 10 cents. $43.00 is added to the primary insurance amount, $782.60. The result, $825.60 is the monthly benefit amount. If a supplementary medical insurance premium is involved it is then deducted. The result is rounded to the next lower multiple of $1 (if the answer is not already a multiple of $1).
 

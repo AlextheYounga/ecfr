@@ -1,6 +1,6 @@
 ##### § 570.200 General policies. #####
 
-Link to an amendment published at 90 FR 894, Jan. 6, 2025.Link to a delay published at 90 FR 8780, Feb. 3, 2025.
+Link to an amendment published at 90 FR 894, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) *Determination of eligibility.* An activity may be assisted in whole or in part with CDBG funds only if all of the following requirements are met:
 

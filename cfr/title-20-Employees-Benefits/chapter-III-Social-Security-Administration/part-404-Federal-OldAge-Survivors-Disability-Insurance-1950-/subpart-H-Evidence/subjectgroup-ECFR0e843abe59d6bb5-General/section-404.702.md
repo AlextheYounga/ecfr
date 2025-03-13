@@ -1,7 +1,5 @@
 ##### § 404.702 Definitions. #####
 
-Link to an amendment published at 89 FR 107258, Dec. 31, 2024.
-
 As used in this subpart:
 
 *Apply* means to sign a form or statement that the Social Security Administration accepts as an application for benefits under the rules set out in subpart G.
@@ -18,6 +16,12 @@ As used in this subpart:
 
 *Insured person* means someone who has enough earnings under social security to permit the payment of benefits on his or her earnings record. He or she is *fully insured, transitionally insured, currently insured,* or *insured for disability* as defined in subpart B.
 
+*Participating payroll data provider* means a payroll data provider that has established an information exchange with us to provide wage and employment information.
+
+*Payroll data provider* means payroll providers, wage verification companies, and other commercial or non-commercial entities that collect and maintain information regarding employment and wages.
+
 *We* or *Us* refers to the Social Security Administration.
 
 *You* refers to the person who has applied for benefits, or the person for whom someone else has applied.
+
+[43 FR 24795, June 7, 1978, as amended at 89 FR 107258, Dec. 31, 2024]

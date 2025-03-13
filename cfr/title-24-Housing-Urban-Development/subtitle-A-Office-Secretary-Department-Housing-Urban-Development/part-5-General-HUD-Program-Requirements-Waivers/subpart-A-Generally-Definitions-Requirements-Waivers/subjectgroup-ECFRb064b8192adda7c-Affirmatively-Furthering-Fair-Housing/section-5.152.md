@@ -1,5 +1,7 @@
 ##### § 5.152 AFFH certification and administration. #####
 
+Link to an amendment published at 90 FR 11023, Mar. 3, 2025.
+
 (a) *Certifications.* Program participants must certify that they will comply with their obligation of affirmatively furthering fair housing when required by statutes or regulations governing HUD programs. Such certifications are made in accordance with applicable regulations. Consolidated plan program participants are subject to the certification requirements in 24 CFR part 91, and PHA Plan program participants are subject to the certification requirements in 24 CFR part 903.
 
 (b) *Administration.* To assist program participants in carrying out their obligation of affirmatively furthering fair housing, and supporting their certifications pursuant to paragraph (a) of this section, HUD will provide technical assistance to program participants in various ways, including by:

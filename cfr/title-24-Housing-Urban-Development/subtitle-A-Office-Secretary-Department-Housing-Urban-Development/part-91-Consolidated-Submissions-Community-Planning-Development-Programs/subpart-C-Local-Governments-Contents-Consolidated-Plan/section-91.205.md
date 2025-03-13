@@ -1,5 +1,7 @@
 ##### § 91.205 Housing and homeless needs assessment. #####
 
+Link to an amendment published at 90 FR 11023, Mar. 3, 2025.
+
 (a) *General.* The consolidated plan must provide a concise summary of the jurisdiction's estimated housing needs projected for the ensuing five-year period. Housing data included in this portion of the plan shall be based on U.S. Census data, as provided by HUD, as updated by any properly conducted local study, or any other reliable source that the jurisdiction clearly identifies, and should reflect the consultation with social service agencies and other entities conducted in accordance with § 91.100 and the citizen participation process conducted in accordance with § 91.105. For a jurisdiction seeking funding on behalf of an eligible metropolitan statistical area under the HOPWA program, the needs described for housing and supportive services must address the unmet needs of low-income persons with HIV/AIDS and their families throughout the eligible metropolitan statistical area.
 
 (b) *Categories of persons affected.* (1)(i) The plan shall estimate the number and type of families in need of housing assistance for:

@@ -1,5 +1,7 @@
 ##### § 570.490 Recordkeeping requirements. #####
 
+Link to an amendment published at 90 FR 11024, Mar. 3, 2025.
+
 (a) *State records.* (1) The State shall establish and maintain such records as may be necessary to facilitate review and audit by HUD of the State's administration of CDBG funds under § 570.493. The content of records maintained by the State shall be as jointly agreed upon by HUD and the States and sufficient to enable HUD to make the determinations described at § 570.493. For fair housing and equal opportunity purposes, whereas such data is already being collected and where applicable, such records shall include data on the racial, ethnic, and gender characteristics of persons who are applicants for, participants in, or beneficiaries of the program. The records shall also permit audit of the States in accordance with 24 CFR part 85.
 
 (2) The state shall keep records to document its funding decisions reached under the method of distribution described in 24 CFR 91.320(j)(1), including all the criteria used to select applications from local governments for funding and the relative importance of the criteria (if applicable), regardless of the organizational level at which final funding decisions are made, so that they can be reviewed by HUD, the Inspector General, the Government Accountability Office, and citizens pursuant to the requirements of § 570.490(c).

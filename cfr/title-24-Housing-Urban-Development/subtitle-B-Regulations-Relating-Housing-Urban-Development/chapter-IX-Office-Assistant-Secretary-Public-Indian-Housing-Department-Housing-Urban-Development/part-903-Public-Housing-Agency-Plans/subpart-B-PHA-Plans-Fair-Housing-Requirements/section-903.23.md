@@ -1,5 +1,7 @@
 ##### § 903.23 What is the process by which HUD reviews, approves, or disapproves an Annual Plan? #####
 
+Link to an amendment published at 90 FR 11025, Mar. 3, 2025.
+
 (a) *Review of the plan.* When the PHA submits its Annual Plan to HUD, including any significant amendment or modification to the plan, HUD reviews the plan to determine whether:
 
 (1) The plan provides all the information that is required to be included in the plan;

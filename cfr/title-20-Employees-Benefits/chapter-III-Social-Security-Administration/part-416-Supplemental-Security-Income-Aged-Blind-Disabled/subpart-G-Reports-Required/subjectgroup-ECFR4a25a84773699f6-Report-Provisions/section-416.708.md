@@ -1,24 +1,22 @@
 ##### § 416.708 What you must report. #####
 
-Link to an amendment published at 89 FR 107259, Dec. 31, 2024.
-
 This section describes the events that you must report to us. They are—
 
 (a) *A change of address.* You must report to us any change in your mailing address and any change in the address where you live.
 
 (b) *A change in living arrangements.* You must report to us any change in the make-up of your household: That is, any person who comes to live in your household and any person who moves out of your household.
 
-(c) *A change in income.* You must report to us any increase or decrease in your income, and any increase or decrease in the income of—
+(c) *A change in income.* (1) Unless the circumstances in § 416.709(a) and (c) apply, you must report to us any increase or decrease in your income and any increase or decrease in the income of—
 
-(1) Your ineligible spouse who lives with you;
+(i) Your ineligible spouse who lives with you;
 
-(2) Your essential person;
+(ii) Your essential person;
 
-(3) Your parent, if you are an eligible child and your parent lives with you; or
+(iii) Your parent, if you are an eligible child and your parent lives with you; or
 
-(4) An ineligible child who lives with you.
+(iv) An ineligible child who lives with you.
 
-However, you need not report an increase in your Social Security benefits if the increase is only a cost-of-living adjustment. (For a complete discussion of what we consider income, see subpart K. See subpart M, § 416.1323 regarding suspension because of excess income.) If you receive benefits based on disability, when you or your representative report changes in your earned income, we will issue a receipt to you or your representative until we establish a centralized computer file to record the information that you give us and the date that you make your report. Once the centralized computer file is in place, we will continue to issue receipts to you or your representative if you request us to do so.
+(2) However, you need not report an increase in your Social Security benefits if the increase is only a cost-of-living adjustment. (For a complete discussion of what we consider income, see subpart K of this part. See § 416.1323 regarding suspension because of excess income.) If you receive benefits based on disability, when you or your representative report changes in your earned income, we will issue a receipt to you or your representative.
 
 (d) *A change in resources.* You must report to us any resources you receive or part with, and any resources received or parted with by—
 
@@ -84,4 +82,4 @@ However, you need not report an increase in your Social Security benefits if the
 
 (3) Violating a condition of probation or parole imposed under Federal or State law.
 
-[46 FR 5873, Jan. 21, 1981, as amended at 51 FR 10616, Mar. 14, 1986; 65 FR 40495, June 30, 2000; 68 FR 40124, July 7, 2003; 71 FR 66866, Nov. 17, 2006; 72 FR 50874, Sept. 5, 2007]
+[46 FR 5873, Jan. 21, 1981, as amended at 51 FR 10616, Mar. 14, 1986; 65 FR 40495, June 30, 2000; 68 FR 40124, July 7, 2003; 71 FR 66866, Nov. 17, 2006; 72 FR 50874, Sept. 5, 2007; 89 FR 107259, Dec. 31, 2024]

@@ -1,5 +1,7 @@
 ##### § 570.487 Other applicable laws and related program requirements. #####
 
+Link to an amendment published at 90 FR 11024, Mar. 3, 2025.
+
 (a) *General.* Certain statutes are expressly made applicable to activities assisted under the Act by the Act itself, while other laws not referred to in the Act may be applicable to such activities by their own terms. Certain statutes or executive orders that may be applicable to activities assisted under the Act by their own terms are administered or enforced by governmental officials, departments or agencies other than HUD. Paragraphs (d) and (c) of this section contain two of the requirements expressly made applicable to CDBG activities by the Act itself.
 
 (b) *Affirmatively furthering fair housing.* The Act requires the state to certify to HUD's satisfaction that it will affirmatively further fair housing pursuant to §§ 5.151 and 5.152 of this title. The Act also requires each unit of general local government to certify that it will affirmatively further fair housing.

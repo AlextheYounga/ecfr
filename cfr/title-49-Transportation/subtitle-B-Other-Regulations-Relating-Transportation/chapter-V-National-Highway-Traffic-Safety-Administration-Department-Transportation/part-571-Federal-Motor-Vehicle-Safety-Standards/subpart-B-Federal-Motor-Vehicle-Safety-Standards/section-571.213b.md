@@ -1,6 +1,6 @@
 ##### § 571.213b Standard No. 213b; Child restraint systems; Mandatory applicability beginning December 5, 2026. #####
 
-Link to an amendment published at 90 FR 1341, Jan. 7, 2025.This amendment was delayed until Mar. 20, 2025, at 90 FR 9611, Feb. 14, 2025.
+Link to an amendment published at 90 FR 1341, Jan. 7, 2025.This amendment was delayed until Mar. 20, 2025, at 90 FR 9611, Feb. 14, 2025.Link to a correction published at 90 FR 11031, Mar. 3, 2025.
 
 S1. *Scope.* This standard specifies requirements for child restraint systems used in motor vehicles and aircraft.
 
