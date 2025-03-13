@@ -1,5 +1,7 @@
 ##### § 905.120 Nomination procedure. #####
 
+Link to an amendment published at 88 FR 89280, Dec. 27, 2023.
+
 Meetings shall be called by the committee in accordance with the provisions of § 905.22, for the purpose of making nominations for members and alternate members of the Citrus Administrative Committee. The manner of nominating members and alternate members of said committee shall be as follows:
 
 (a) At each such meeting the committee's representative shall announce the requirements as to eligibility for voting for nominees and the procedure for voting, and shall explain the duties of the committee.

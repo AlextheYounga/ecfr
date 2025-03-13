@@ -1,5 +1,7 @@
 ##### § 905.29 Inability of members to serve. #####
 
+Link to an amendment published at 88 FR 89279, Dec. 27, 2023.
+
 (a) An alternate for a member of the committee shall act in the place and stead of such member (1) in his absence, or (2) in the event of his removal, resignation, disqualification, or death, and until a successor for his unexpired term has been selected.
 
 (b) If both a member and his or her respective alternate are unable to attend a committee meeting, such member may designate another alternate to act in his or her place in order to obtain a quorum: *Provided*, That such alternate member represents the same group affiliation as the absent member. If the member is unable to designate such an alternate, the committee members present may designate such alternate.

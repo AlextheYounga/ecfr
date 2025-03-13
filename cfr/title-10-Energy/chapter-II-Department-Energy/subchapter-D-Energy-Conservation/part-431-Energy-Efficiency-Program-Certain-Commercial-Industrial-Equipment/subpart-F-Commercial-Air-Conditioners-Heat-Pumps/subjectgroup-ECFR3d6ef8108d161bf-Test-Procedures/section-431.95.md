@@ -30,7 +30,7 @@ Link to an amendment published at 88 FR 84228, Dec. 4, 2023.
 
 (1) ANSI/ASHRAE Standard 16-1983 (RA 2014), (“ANSI/ASHRAE 16”), “Method of Testing for Rating Room Air Conditioners and Packaged Terminal Air Conditioners,” ASHRAE reaffirmed July 3, 2014, IBR approved for § 431.96.
 
-(2) ANSI/ASHRAE Standard 37-2009 (“ANSI/ASHRAE 37-2009”), *Methods of Testing for Rating Electrically Driven Unitary Air-Conditioning and Heat Pump Equipment,* ASHRAE approved June 24, 2009; IBR approved for § 431.96 and appendices A, B, D1, E1, F1 G, and G1 to this subpart.
+(2) ANSI/ASHRAE Standard 37-2009 (“ANSI/ASHRAE 37-2009”), *Methods of Testing for Rating Electrically Driven Unitary Air-Conditioning and Heat Pump Equipment,* ASHRAE approved June 24, 2009; IBR approved for § 431.96 and appendices A, B, D1, E1, F1, G, and G1 to this subpart.
 
 (3) Errata Sheet for ANSI/ASHRAE Standard 37-2009, *Methods of Testing for Rating Electrically Driven Unitary Air-Conditioning and Heat Pump Equipment,* March 27, 2019; IBR approved for appendix D1 to this subpart.
 

@@ -14,7 +14,7 @@
 
 (2) Collection of debts owed by individual Food Stamp Program recipients for whom debt collection procedures are provided under § 273.18 of this title.
 
-(3) Collection of debts owed by foreign governments and, sovereign institutions of foreign governments.
+(3) Collection of debts owed by foreign governments, sovereign institutions of foreign governments, or public international organizations.
 
 (4) Actions pursuant to the FSA FLP Debt Settlement regulations in part 761, subpart F, of this title are authorized under the Consolidated Farm and Rural Development Act (ConAct), which are independent of the DCIA are excepted from this part.
 
@@ -35,3 +35,5 @@
 (vii) 7 CFR 3560.457; and
 
 (viii) 7 CFR 3565.56.
+
+[85 FR 36672, June 17, 2020, as amended at 88 FR 89276, Dec. 27, 2023]

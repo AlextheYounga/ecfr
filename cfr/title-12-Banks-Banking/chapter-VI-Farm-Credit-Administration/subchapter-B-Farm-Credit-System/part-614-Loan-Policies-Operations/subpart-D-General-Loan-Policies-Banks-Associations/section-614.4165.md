@@ -1,5 +1,7 @@
 ##### § 614.4165 Young, beginning, and small farmers and ranchers. #####
 
+Link to an amendment published at 88 FR 89285, Dec. 27, 2023.
+
 (a) *Definitions.* (1) For purposes of this subpart, the term “credit” includes:
 
 (i) Loans made to farmers and ranchers and producers or harvesters of aquatic products under title I or II of the Act; and
