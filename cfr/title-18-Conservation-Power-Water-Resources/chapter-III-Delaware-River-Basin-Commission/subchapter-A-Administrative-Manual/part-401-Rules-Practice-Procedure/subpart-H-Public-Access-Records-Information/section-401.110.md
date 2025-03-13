@@ -1,5 +1,7 @@
 ##### § 401.110 Fees. #####
 
+Link to an amendment published at 89 FR 51828, June 20, 2024.
+
 (a) Unless waived in accordance with the provisions of § 401.111, the following fees shall be imposed for production of any record pursuant to this part.
 
 (1) *Administrative fees.* (i) Charges for administrative fees include staff time associated with:

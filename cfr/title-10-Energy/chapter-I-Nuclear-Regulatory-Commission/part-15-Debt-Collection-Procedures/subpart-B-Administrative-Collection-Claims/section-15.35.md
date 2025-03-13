@@ -1,5 +1,7 @@
 ##### § 15.35 Payments. #####
 
+Link to an amendment published at 89 FR 51810, June 20, 2024.
+
 (a) *Payment in full.* The NRC shall make every effort to collect a claim in full before it becomes delinquent. If a claim is paid in one lump sum after it becomes delinquent, the NRC shall impose charges for interest, penalties, and administrative costs as specified in § 15.37.
 
 (b) *Payment by installment.* If a debtor furnishes satisfactory evidence of inability to pay a claim in one lump sum, payment in regular installments may be arranged. Evidence may consist of a financial statement or a signed statement that the debtor's application for a loan to enable the debtor to pay the claim in full was rejected. Except for a claim described in 5 U.S.C. 5514 and codified in 10 CFR part 16, all installment payment arrangements must be in writing and require the payment of interest and administrative charges.

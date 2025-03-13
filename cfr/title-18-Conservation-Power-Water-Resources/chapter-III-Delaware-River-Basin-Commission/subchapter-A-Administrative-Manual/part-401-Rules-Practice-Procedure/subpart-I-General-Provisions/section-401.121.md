@@ -1,5 +1,7 @@
 ##### § 401.121 Definitions. #####
 
+Link to an amendment published at 89 FR 51828, June 20, 2024.
+
 For the purposes of this part, except as the context may otherwise require:
 
 (a) All words and phrases which are defined by section 1.2 of the Compact shall have the same meaning herein.

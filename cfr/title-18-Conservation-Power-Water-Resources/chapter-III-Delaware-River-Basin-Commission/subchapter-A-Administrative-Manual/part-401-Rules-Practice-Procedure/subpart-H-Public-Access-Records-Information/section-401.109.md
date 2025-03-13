@@ -1,5 +1,7 @@
 ##### § 401.109 Time limitations. #####
 
+Link to an amendment published at 89 FR 51827, June 20, 2024.
+
 (a) All time limitations established pursuant to this section shall begin as of the time at which a request for records is logged in by the FOIA Officer pursuant to § 401.98(c). An oral request for records shall not begin any time requirement. A written request for records sent elsewhere within the Commission shall not begin any time requirement until it is redirected to the FOIA Officer and is logged in accordance with § 401.98(c). A request that is expected to involve fees in excess of $50 will not be deemed received until the requester is promptly notified and agrees to bear the cost or has so indicated on his request.
 
 (b) Within ten (10) working days (excepting Saturdays, Sundays, and legal public holidays) after a request for records is logged by the FOIA Officer, the record shall be furnished or a letter shall be sent to the person making the request determining whether, or the extent to which, the Commission will comply with the request, and, if any records are denied, the reasons therefor.

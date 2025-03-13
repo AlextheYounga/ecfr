@@ -1,6 +1,6 @@
 ##### § 4.2 How does FDA define key terms and phrases in this subpart? #####
 
-Link to an amendment published at 89 FR 51765, June 18, 2024.
+Link to an amendment published at 89 FR 7522, Feb. 2, 2024.Link to an amendment published at 89 FR 51765, June 18, 2024.
 
 The terms listed in this section have the following meanings for purposes of this subpart:
 
@@ -16,7 +16,9 @@ The terms listed in this section have the following meanings for purposes of thi
 
 *Current good manufacturing practice requirements* means the requirements set forth under § 4.3(a) through (d).
 
-*Device* has the meaning set forth in § 3.2(f) of this chapter. A device that is a constituent part of a combination product is considered a finished device within the meaning of the Quality Management System Regulation (QMSR).
+*Device* has the meaning set forth in
+§ 3.2(f) of this chapter. A device that is a constituent part of a combination product is considered a finished device
+within the meaning of the QS regulation.
 
 *Drug* has the meaning set forth in § 3.2(g) of this chapter. A drug that is a constituent part of a combination product is considered a drug product within the meaning of the drug CGMPs.
 
@@ -26,10 +28,11 @@ The terms listed in this section have the following meanings for purposes of thi
 
 *Manufacture* includes, but is not limited to, designing, fabricating, assembling, filling, processing, testing, labeling, packaging, repackaging, holding, and storage.
 
-*QMSR* refers to the requirements under part 820 of this chapter.
+*QS regulation* refers to the quality
+system regulation in part 820 of this chapter.
 
 *Single-entity combination product* has the meaning set forth in § 3.2(e)(1) of this chapter.
 
 *Type of constituent part* refers to the category of the constituent part, which can be either a biological product, a device, or a drug, as these terms are defined under this section.
 
-[78 FR 4321, Jan. 22, 2013, as amended at 88 FR 7522, Feb. 2, 2023]
+[78 FR 4321, Jan. 22, 2013]

@@ -1,6 +1,6 @@
 ##### § 4.4 How can I comply with these current good manufacturing practice requirements for a co-packaged or single-entity combination product? #####
 
-Link to an amendment published at 89 FR 51766, June 18, 2024.
+Link to an amendment published at 89 FR 7522, Feb. 2, 2024.Link to an amendment published at 89 FR 51766, June 18, 2024.
 
 (a) Under this subpart, for single entity or co-packaged combination products, compliance with all applicable current good manufacturing practice requirements for the combination product shall be achieved through the design and implementation of a current good manufacturing practice operating system that is demonstrated to comply with:
 
@@ -10,21 +10,22 @@ Link to an amendment published at 89 FR 51766, June 18, 2024.
 
 (b) If you elect to establish a current good manufacturing practice operating system in accordance with paragraph (b) of this section, the following requirements apply:
 
-(1) If the combination product includes a device constituent part and a drug constituent part, and the current good manufacturing practice operating system has been shown to comply with the drug CGMP requirements, the following clauses of ISO 13485 (together with the definitions in Clause 3 of ISO 9000), which is incorporated by reference into the QMSR under § 820.7 of this chapter, and certain other provisions within the QMSR must also be shown to have been satisfied; upon demonstration that these requirements have been satisfied, no additional showing of compliance with respect to the QMSR need be made:
+(1) If the combination product includes a device constituent part and a drug constituent part, and the current good manufacturing practice operating system has been shown to comply with the drug CGMPs, the following provisions of the QS regulation must also be shown to have been satisfied; upon demonstration that these requirements have been satisfied, no additional showing of compliance with respect to the QS regulation need be made:
 
-(i) *General requirements and management responsibility.* Clause 4.1, Clause 5 and its subclauses, Clause 6.1 of ISO 13485, and § 820.10 of this chapter;
+(i) Section 820.20 of this chapter. Management responsibility.
 
-(ii) *Design and development.* Clause 7.3 and its subclauses of ISO 13485. The organization shall document one or more processes for risk management in product realization. Records of risk management activities shall be maintained;
+(ii) Section 820.30 of this chapter. Design controls.
 
-(iii) *Purchasing.* Clause 7.4. and its subclauses of ISO 13485;
+(iii) Section 820.50 of this chapter. Purchasing controls.
 
-(iv) *Analysis of data, improvement, and complaint handling.* Clause 8.2.2 and § 820.35(a) of this chapter, Clause 8.4, and Clause 8.5. and its subclauses of ISO 13485;
+(iv) Section 820.100 of this chapter. Corrective and preventive action.
 
-(v) *Installation activities.* Clause 7.5.3 of ISO 13485; and
+(v) Section 820.170 of this chapter. Installation.
 
-(vi) *Servicing activities.* Clause 7.5.4 of ISO 13485 and § 820.35(b) of this chapter.
+(vi) Section 820.200 of this chapter.
+Servicing.
 
-(2) If the combination product includes a device constituent part and a drug constituent part, and the current good manufacturing practice operating system has been shown to comply with the QMSR requirements for devices, the following provisions of the drug CGMP requirements must also be shown to have been satisfied; upon demonstration that these requirements have been satisfied, no additional showing of compliance with respect to the drug CGMP requirements need be made:
+(2) If the combination product includes a device constituent part and a drug constituent part, and the current good manufacturing practice operating system has been shown to comply with the QS regulation, the following provisions of the drug CGMPs must also be shown to have been satisfied; upon demonstration that these requirements have been satisfied, no additional showing of compliance with respect to the drug CGMPs need be made:
 
 (i) Section 211.84 of this chapter. Testing and approval or rejection of components, drug product containers, and closures.
 
@@ -52,10 +53,4 @@ Link to an amendment published at 89 FR 51766, June 18, 2024.
 
 (e) The requirements set forth in this subpart and in parts 210, 211, 820, 600 through 680, and 1271 of this chapter listed in § 4.3, supplement, and do not supersede, each other unless the regulations explicitly provide otherwise. In the event of a conflict between regulations applicable under this subpart to combination products, including their constituent parts, the regulations most specifically applicable to the constituent part in question shall supersede the more general.
 
-(f) The material listed in this paragraph (f) is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at the Food and Drug Administration (FDA) and at the National Archives and Records Administration (NARA). Contact FDA at Dockets Management Staff, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852; 240-402-7500; *https://www.regulations.gov/document/FDA-2013-S-0610-0003.* For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations* or email *fr.inspection@nara.gov*. In addition, the terms and definitions given in ISO 9000:2015 are available for viewing, without cost, at *https://www.iso.org/obp/ui#iso:std:iso:9000:ed-4:v1:en.* This material is available from the International Organization for Standardization (ISO), BIBC II, Chemin de Blandonnet 8, CP 401, 1214 Vernier, Geneva, Switzerland; +41-22-749-01-11; *customerservice@iso.org, https://www.iso.org/store.html.*
-
-(1) ISO 9000:2015(E), (“ISO 9000”), *Quality Management systems—Fundamentals and vocabulary,* Clause 3—*Terms and definitions,* Fourth edition, September 15, 2015.
-
-(2) ISO 13485:2016(E), (“ISO 13485”), *Medical devices—Quality management systems—Requirements for regulatory purposes,* Third edition, March 1, 2016.
-
-[78 FR 4321, Jan. 22, 2013, as amended at 89 FR 7522, Feb. 2, 2024]
+[78 FR 4321, Jan. 22, 2013]

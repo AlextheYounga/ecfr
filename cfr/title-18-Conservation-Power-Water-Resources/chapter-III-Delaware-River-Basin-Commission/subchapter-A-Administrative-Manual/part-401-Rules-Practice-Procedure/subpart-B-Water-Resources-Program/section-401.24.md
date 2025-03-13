@@ -1,5 +1,7 @@
 ##### § 401.24 Preparation and adoption. #####
 
+Link to an amendment published at 89 FR 51825, June 20, 2024.
+
 The Water Resources Program will be prepared and considered by the Commission for adoption annually. Projects required to satisfy the basin needs during the period covered by the Program may be classified as follows:
 
 (a) “*A*” *list.* This shall include public projects which require no further review, and inclusion in such list shall be deemed to be approved for the purposes of section 3.8 of the Compact.

@@ -1,5 +1,7 @@
 ##### § 73.17 Firearms background checks for armed security personnel. #####
 
+Link to an amendment published at 89 FR 51810, June 20, 2024.
+
 (a) *Purpose.* This section presents the requirements for completion of firearms background checks pursuant to Section 161A of the Atomic Energy Act, as amended (AEA) (42 U.S.C. 2201a), for security personnel whose official duties require access to covered weapons at Commission-designated classes of facilities, radioactive material, or other property specified in § 73.15(c). Firearms background checks are intended to verify that such armed security personnel are not prohibited from receiving, possessing, transporting, importing, or using covered weapons under applicable Federal, State, or local law.
 
 (b) *General Requirements.* (1) Licensees that have applied to the NRC under § 73.15 of this part for stand-alone preemption authority or for combined preemption authority and enhanced weapons authority must comply with the provisions of this section. Such licensees must establish a Firearms Background Check Plan. Licensees must establish this plan as part of their overall NRC-approved Training and Qualification plan for security personnel whose official duties require access to covered weapons.

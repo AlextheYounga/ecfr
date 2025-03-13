@@ -1,5 +1,7 @@
 ##### § 401.105 Indexes of certain records. #####
 
+Link to an amendment published at 89 FR 51827, June 20, 2024.
+
 (a) Indexes shall be maintained, and revised at least quarterly, for the following Commission records:
 
 (1) Final opinions and orders made in the adjudication of cases.

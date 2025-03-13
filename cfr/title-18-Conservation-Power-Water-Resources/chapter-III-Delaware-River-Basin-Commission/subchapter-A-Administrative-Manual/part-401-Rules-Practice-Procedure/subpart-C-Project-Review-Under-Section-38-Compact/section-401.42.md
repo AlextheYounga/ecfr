@@ -1,5 +1,7 @@
 ##### § 401.42 One Permit Program. #####
 
+Link to an amendment published at 89 FR 51826, June 20, 2024.
+
 (a) *Purpose.* The purpose of the One Permit Program set forth in this section is to provide the opportunity for the environmental agency and/or other administrative agency of a Signatory Party (“Signatory Party Agency”) and the Commission to coordinate and collaborate in the administration of a single process for the review and adjudication of projects. The One Permit Program allows the Signatory Party Agency and Commission to incorporate requirements and determinations of both entities in a single permit or other approval instrument, pursuant to a duly adopted Administrative Agreement under paragraph (d) of this section.
 
 (b) *Scope.* This section applies to all projects that:

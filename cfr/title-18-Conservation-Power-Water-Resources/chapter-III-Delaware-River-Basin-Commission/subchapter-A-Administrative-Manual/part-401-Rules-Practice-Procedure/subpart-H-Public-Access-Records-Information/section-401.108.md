@@ -1,5 +1,7 @@
 ##### § 401.108 Filing a request for records. #####
 
+Link to an amendment published at 89 FR 51827, June 20, 2024.
+
 (a) All requests for Commission records shall be filed in writing delivered to the FOIA Officer, or by mailing it to the Commission. The Commission will supply forms for written requests.
 
 (b) A request for Commission records shall reasonably describe the records being sought, in a way that they can be identified and located. A request should include all pertinent details that will help identify the records sought. A person requesting disclosure of records shall be permitted an opportunity to review them without the necessity for copying them where the records involved contain only disclosable data and information.

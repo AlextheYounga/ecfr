@@ -1,6 +1,6 @@
 ##### § 401.43 Regulatory program fees. #####
 
-Link to an amendment published at 89 FR 46322, May 29, 2024.
+Link to an amendment published at 89 FR 46322, May 29, 2024.Link to an amendment published at 89 FR 51826, June 20, 2024.
 
 (a) *Purpose.* The purpose of this section is to provide an adequate, stable and reliable stream of revenue to cover the cost of the Commission's regulatory program activities, an important means by which the Commission coordinates management of the shared water resources of the Basin. Activities to be covered by the fees include the review of applications for projects that are subject to review under the Delaware River Basin Compact and implementing regulations; and ongoing activities associated with such projects, including but not limited to, effluent and ambient monitoring, data analysis, hydrodynamic and water quality modeling, and coordination with state and federal agencies.
 

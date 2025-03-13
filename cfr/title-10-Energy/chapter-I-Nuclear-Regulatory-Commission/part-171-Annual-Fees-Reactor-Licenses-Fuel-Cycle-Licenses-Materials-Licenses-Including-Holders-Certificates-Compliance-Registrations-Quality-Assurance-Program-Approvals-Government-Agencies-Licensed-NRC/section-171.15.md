@@ -1,5 +1,7 @@
 ##### § 171.15 Annual fees: Non-power production or utilization licenses, reactor licenses, and independent spent fuel storage licenses. #####
 
+Link to an amendment published at 89 FR 51816, June 20, 2024.
+
 (a) Each person holding an operating license for one or more non-power production or utilization facilities under 10 CFR part 50 that has provided notification to the NRC of the successful completion of startup testing; each person holding an operating license for a power reactor licensed under 10 CFR part 50 or a combined license under 10 CFR part 52 that has provided notification to the NRC of the successful completion of power ascension testing; each person holding a 10 CFR part 50 or 52 power reactor license that is in decommissioning or possession only status, except those that have no spent fuel onsite; and each person holding a 10 CFR part 72 license who does not hold a 10 CFR part 50 or 52 license and provides notification in accordance with 10 CFR 72.80(g), shall pay the annual fee for each license held during the Federal fiscal year in which the fee is due. This paragraph (a) does not apply to test or research reactors exempted under § 171.11(b).
 
 (b)(1) The FY 2023 annual fee for each operating power reactor that must be collected by September 30, 2023, is $5,492,000.

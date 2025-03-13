@@ -1,5 +1,7 @@
 ##### § 401.39 Form of submission of projects not requiring prior approval by State or Federal agencies. #####
 
+Link to an amendment published at 89 FR 51825, June 20, 2024.
+
 Where a project does not require approval by any other State or Federal agency, or where such approval is required but an Administrative Agreement is not in force, the project shall be submitted directly to the Commission for review and determination of compatibility with the Comprehensive Plan, in such form of application, with such supporting documentation, as the Executive Director may reasonably require for the administration of the provisions of the Compact. These shall include without limitation thereto:
 
 (a) *Exhibits to accompany application.* The application shall be accompanied by the following exhibits:

@@ -1,6 +1,6 @@
 ##### § 210.1-02 Definitions of terms used in Regulation S-X (17 CFR part 210). #####
 
-Link to an amendment published at 89 FR 14313, Feb. 26, 2024.
+Link to an amendment published at 89 FR 14313, Feb. 26, 2024.Link to a correction published at 89 FR 51823, June 20, 2024.
 
 Unless the context otherwise requires, terms defined in the general rules and regulations or in the instructions to the applicable form, when used in Regulation S-X (this part 210), shall have the respective meanings given in such instructions or rules. In addition, the following terms shall have the meanings indicated in this section unless the context otherwise requires.
 

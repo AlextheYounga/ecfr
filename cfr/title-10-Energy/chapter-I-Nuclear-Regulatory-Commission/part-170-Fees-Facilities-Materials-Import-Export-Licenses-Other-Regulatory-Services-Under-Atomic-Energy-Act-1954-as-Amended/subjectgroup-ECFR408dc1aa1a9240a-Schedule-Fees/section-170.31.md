@@ -1,5 +1,7 @@
 ##### § 170.31 Schedule of fees for materials licenses and other regulatory services, including inspections, and import and export licenses. #####
 
+Link to an amendment published at 89 FR 51811, June 20, 2024.
+
 Applicants for materials licenses, import and export licenses, and other regulatory services, and holders of materials licenses or import and export licenses shall pay fees for the following categories of services. For those fee categories identified to be subject to full cost fees, full cost fees will be assessed for all licensing and inspection activities, unless otherwise indicated.
 
 |                                                                                                                                                                                                                                                                                             Category of materials licenses and type of fees <sup>1</sup>                                                                                                                                                                                                                                                                                              |Fees <sup>2</sup><sup>3</sup>|

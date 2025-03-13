@@ -1,5 +1,7 @@
 ##### § 140.7 Fees. #####
 
+Link to an amendment published at 89 FR 51811, June 20, 2024.
+
 (a)(1) Each reactor licensee shall pay a fee to the Commission based on the following schedule:
 
 (i) For indemnification from $500 million to $400 million inclusive, a fee of $30 per year per thousand kilowatts of thermal capacity authorized in the license;

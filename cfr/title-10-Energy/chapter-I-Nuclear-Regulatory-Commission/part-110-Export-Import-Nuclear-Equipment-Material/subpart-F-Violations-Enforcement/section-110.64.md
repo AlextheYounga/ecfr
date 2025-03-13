@@ -1,5 +1,7 @@
 ##### § 110.64 Civil penalty. #####
 
+Link to an amendment published at 89 FR 51810, June 20, 2024.
+
 (a) In response to a violation, the Commission may institute a proceeding to impose a civil penalty under section 234 of the Atomic Energy Act by issuing a notice to the licensee:
 
 (1) Stating the alleged violation and the amount of the proposed penalty;
