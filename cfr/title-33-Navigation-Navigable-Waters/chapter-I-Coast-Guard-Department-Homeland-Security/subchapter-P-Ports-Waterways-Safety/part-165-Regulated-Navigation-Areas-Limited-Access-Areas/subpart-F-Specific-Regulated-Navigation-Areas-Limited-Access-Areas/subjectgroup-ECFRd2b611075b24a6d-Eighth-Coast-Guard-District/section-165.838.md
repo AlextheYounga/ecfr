@@ -2,7 +2,7 @@
 
 (a) *Location.* The following is a regulated navigation area (RNA):
 
-(1) The Gulf Intracoastal Waterway (GIWW) from Mile Marker (MM) 22 East of Harvey Locks (EHL), west on the GIWW, including the Michoud Canal and the Inner Harbor Navigation Canal (IHNC), extending North1/2 mile from the Seabrook Flood Gate Complex out into Lake Pontchartrain and South to the IHNC Lock.
+(1) The Gulf Intracoastal Waterway (GIWW) from Mile Marker (MM) 22 East of Harvey Locks (EHL), west on the GIWW, including the Michoud Canal and the Inner Harbor Navigation Canal (IHNC), extending North 1/2 mile from the Seabrook Flood Gate Complex out into Lake Pontchartrain and South to the IHNC Lock.
 
 (2) The Harvey Canal, between the Lapalco Boulevard Bridge and the confluence of the Harvey Canal and the Algiers Canal;
 
@@ -52,7 +52,7 @@
 
 (1) Floating vessels may remain in the Harvey and Algiers Canals, provided they are moored sufficiently to prevent a breakaway and meet the minimum mooring requirements and conditions set forth in paragraphs (f) and (g) of this section.
 
-(2) Floating vessels may remain in the Michoud Canal at least1/4 mile north of the intersection of the Michoud Canal and the GIWW, the GIWW from MM 15 EHL to MM 10 EHL, provided they are moored sufficiently to prevent a breakaway and meet the minimum mooring requirements and conditions set forth in paragraphs (f) and (g) of this section.
+(2) Floating vessels may remain in the Michoud Canal at least 1/4 mile north of the intersection of the Michoud Canal and the GIWW, the GIWW from MM 15 EHL to MM 10 EHL, provided they are moored sufficiently to prevent a breakaway and meet the minimum mooring requirements and conditions set forth in paragraphs (f) and (g) of this section.
 
 (3) During the period that the RNA is enforced and before closure of the navigational structures, vessels may transit through the RNA en route to a destination outside of the RNA given there is sufficient time to transit prior to the closure of a navigational structure, or they may transit to a facility within the RNA with which they have a prearranged agreement. These vessel movements and time critical decisions will be made by the COTP in consultation with the Port Coordination Team.
 

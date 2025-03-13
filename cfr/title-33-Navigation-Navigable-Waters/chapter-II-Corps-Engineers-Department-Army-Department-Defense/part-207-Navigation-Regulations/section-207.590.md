@@ -12,7 +12,7 @@
 
 (f) [Reserved]
 
-(g) No vessel shall pass or approach within1/4-mile of a vessel bound in the same direction in the Black Rock Canal south of the Ferry Street Bridge. Tugs without tows, tugs towing a single barge under 150 feet in length, and single vessels under 150 feet in length are exempt from this paragraph.
+(g) No vessel shall pass or approach within 1/4-mile of a vessel bound in the same direction in the Black Rock Canal south of the Ferry Street Bridge. Tugs without tows, tugs towing a single barge under 150 feet in length, and single vessels under 150 feet in length are exempt from this paragraph.
 
 (h) No vessel or boat shall anchor in or moor along the canal except at localities specially designated by the District Engineer or his agent; and no business, trading, or landing of freight or baggage, except such articles as may be readily carried in the hand, will be allowed on or over the canal lands or structures, without the permission of the District Engineer or his agent.
 

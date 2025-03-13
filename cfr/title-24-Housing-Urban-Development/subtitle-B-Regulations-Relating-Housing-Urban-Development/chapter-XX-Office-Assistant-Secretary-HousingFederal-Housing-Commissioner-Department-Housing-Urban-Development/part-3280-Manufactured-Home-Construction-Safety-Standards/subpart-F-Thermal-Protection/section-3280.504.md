@@ -1,6 +1,6 @@
 ##### § 3280.504 Condensation control and installation of vapor retarders. #####
 
-Link to an amendment published at 89 FR 75750, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75750, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *Ceiling vapor retarders.* (1) In Uo Value Zones 2 and 3, ceilings must have a vapor retarder with a permeance of not greater than 1 perm (as measured by ASTM E 96-95 Standard Test Methods for Water Vapor Transmission of Materials) (incorporated by reference, see § 3280.4) installed on the living space side of the roof cavity.
 

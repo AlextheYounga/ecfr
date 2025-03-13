@@ -1,6 +1,6 @@
 ##### § 3285.5 Definitions. #####
 
-Link to an amendment published at 89 FR 75758, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75758, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 The definitions contained in this section apply to the terms used in these Model Installation Standards. Where terms are not included, common usage of the terms applies. The definitions are as follows:
 

@@ -6,11 +6,11 @@
 
 (c) Petitions shall include the following data and be submitted in the following form:
 
-(Date)Name of petitionerPost office addressDateName of food additive and proposed useFood and Drug AdministrationCenter for Veterinary Medicine,*Director, Division of Animal Feeds* (*HFV-220*), *7500 Standish Pl., Rockville, MD 20855.*
+(Date) Name of petitioner Post office address Date Name of food additive and proposed use Food and Drug Administration Center for Veterinary Medicine,*Director, Division of Animal Feeds* (*HFV-220*), *7500 Standish Pl., Rockville, MD 20855.*
 
 Dear Sirs: The undersigned, \_\_\_\_
 
-submits this petition pursuant to section 409(b)(1) of the Federal Food, Drug, andCosmetic Act with respect to(Name of the food additive and proposed use)
+submits this petition pursuant to section 409(b)(1) of the Federal Food, Drug, and Cosmetic Act with respect to (Name of the food additive and proposed use)
 
 Attached hereto, in triplicate, and constituting a part of this petition, are the following:
 
@@ -46,9 +46,9 @@ H. The petitioner is required to submit either a claim for categorical exclusion
 
 Yours very truly,
 
-Petitioner \_\_\_\_
+ Petitioner \_\_\_\_
 
-By \_\_\_\_
+ By \_\_\_\_
 
 (Indicate authority)
 

@@ -578,7 +578,7 @@ Where a factor of safety less than 1.5 is obtained the provision of an underseep
 
 4.4.4.2. *Loads.* Loadings to be considered in stability analyses include the water load on the upstream face of the dam; the weight of the structure; internal hydrostatic pressures (uplift) within the body of the dam, at the base of the dam and within the foundation; earth and silt loads; ice pressure, seismic and thermal loads, and other loads as applicable. Where tailwater or backwater exists on the downstream side of the structure it should be considered, and assumed uplift pressures should be compatible with drainage provisions and uplift measurements if available. Where applicable, ice pressure should be applied to the contact surface of the structure of normal pool elevation. A unit pressure of not more than 5,000 pounds per square foot should be used. Normally, ice thickness should not be assumed greater than two feet. Earthquake forces should consist of the inertial forces due to the horizontal acceleration of the dam itself and hydrodynamic forces resulting from the reaction of the reservoir water against the structure. Dynamic water pressures for use in a conventional methods of analysis may be computed by means of the “Westergaard Formula” using the parabolic approximation (H.M. Westergaard, “Water Pressures on Dams During Earthquakes,” Trans., ASCE, Vol 98, 1933, pages 418-433), or similar method.
 
-4.4.4.3. *Stresses.* The analysis of concrete stresses should be based on in situ properties of the concrete and foundation. Computed maximum compressive stresses for normal operating conditions in the order of1/3 or less of in situ strengths should be satisfactory. Tensile stresses in unreinforced concrete should be acceptable only in locations where cracks will not adversely affect the overall performance and stability of the structure. Foundation stresses should be such as to provide adequate safety against failure of the foundation material under all loading conditions.
+4.4.4.3. *Stresses.* The analysis of concrete stresses should be based on in situ properties of the concrete and foundation. Computed maximum compressive stresses for normal operating conditions in the order of 1/3 or less of in situ strengths should be satisfactory. Tensile stresses in unreinforced concrete should be acceptable only in locations where cracks will not adversely affect the overall performance and stability of the structure. Foundation stresses should be such as to provide adequate safety against failure of the foundation material under all loading conditions.
 
 4.4.4.4. *Overturning.* A gravity structure should be capable of resisting all overturning forces. It can be considered safe against overturning if the resultant of all combinations of horizontal and vertical forces, excluding earthquake forces, acting above any horizontal plane through the structure or at its base is located within the middle third of the section. When earthquake is included the resultant should fall within the limits of the plane or base, and foundation pressures must be acceptable. When these requirements for location of the resultant are not satisfied the investigating engineer should assess the importance to stability of the deviations.
 
@@ -998,13 +998,13 @@ Appendix G to § 222.6National Program for Inspection of Non-Federal Dams—Mont
 
 3. Information Required for Each State Regarding Total Number of Inspections Performed (AE Inspections included) (Cumulative):
 
-3.1. Number of Inspections Initiated by on-site inspection or the review of engineering data from project records.1
+3.1. Number of Inspections Initiated by on-site inspection or the review of engineering data from project records. 1
 
 1 Each of the initiated inspections reported should be planned for completion within a reasonable period of time (30 days.)
 
 3.2. Number of Inspections Competed (The number of inspection reports which have been submitted to the District Engineer for review and approval).
 
-3.3 Number of Dams Reported to the Governor as Unsafe.2
+3.3 Number of Dams Reported to the Governor as Unsafe. 2
 
 2 An unsafe dam is defined as a dam with deficiencies of such a nature that if not corrected could result in the failure of the dam with subsequent loss of lives or substantial property damage.
 
@@ -1014,7 +1014,7 @@ Appendix G to § 222.6National Program for Inspection of Non-Federal Dams—Mont
 
 4.1. Number of Dams Contracted for Inspection by AE's with State or Corps.
 
-4.2. Number of Inspections Initiated by AE's by on-site inspection or the review of engineering data from project records.1
+4.2. Number of Inspections Initiated by AE's by on-site inspection or the review of engineering data from project records. 1
 
 1 See footnote on previous page.
 

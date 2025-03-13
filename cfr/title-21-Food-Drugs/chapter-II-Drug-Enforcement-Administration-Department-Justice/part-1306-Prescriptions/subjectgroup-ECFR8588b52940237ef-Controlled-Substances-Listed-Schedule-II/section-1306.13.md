@@ -34,4 +34,4 @@
 
 (3) Retrieval of partially filled Schedule II prescription information is the same as required by § 1306.22(b) (4) and (5) for Schedule III and IV prescription refill information.
 
-(Authority: 21 U.S.C. 801, *et seq.*)[36 FR 7799, Apr. 24, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973, and amended at 45 FR 54330, July 15, 1980; 56 FR 25027, June 3, 1991; 62 FR 13965, Mar. 24, 1997; 75 FR 16308, Mar. 31, 2010; 88 FR 47001, July 21, 2023]
+(Authority: 21 U.S.C. 801, *et seq.*) [36 FR 7799, Apr. 24, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973, and amended at 45 FR 54330, July 15, 1980; 56 FR 25027, June 3, 1991; 62 FR 13965, Mar. 24, 1997; 75 FR 16308, Mar. 31, 2010; 88 FR 47001, July 21, 2023]

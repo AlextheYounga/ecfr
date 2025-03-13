@@ -6,7 +6,7 @@
 
 (c) Salt, table salt, iodized salt, or iodized table salt to which anticaking agents have been added may bear in addition to the ingredient statement designating the anticaking agent(s), a label statement describing the characteristics imparted by such agent(s) (for example, “free flowing”), providing such statement does not appear with greater prominence or in type size larger than the statements which immediately follow the name of the food as required by paragraphs (a) and (b) of this section.
 
-(d) Individual serving-sized packages containing less than1/2 ounce and packages containing more than 21/2 pounds of a food described in this section shall be exempt from declaration of the statements which paragraphs (a) and (b) of this section require immediately following the name of the food. Such exemption shall not apply to the outer container or wrapper of a multiunit retail package.
+(d) Individual serving-sized packages containing less than 1/2 ounce and packages containing more than 21/2 pounds of a food described in this section shall be exempt from declaration of the statements which paragraphs (a) and (b) of this section require immediately following the name of the food. Such exemption shall not apply to the outer container or wrapper of a multiunit retail package.
 
 (e) All salt, table salt, iodized salt, or iodized table salt in packages intended for retail sale shipped in interstate commerce 18 months after the date of publication of this statement of policy in the Federal Register, shall be labeled as prescribed by this section; and if not so labeled, the Food and Drug Administration will regard them as misbranded within the meaning of sections 403 (a) and (f) of the Federal Food, Drug, and Cosmetic Act.
 

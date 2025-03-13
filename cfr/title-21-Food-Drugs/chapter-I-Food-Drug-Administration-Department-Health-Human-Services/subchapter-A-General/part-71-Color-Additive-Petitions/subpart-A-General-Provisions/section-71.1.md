@@ -6,7 +6,7 @@
 
 (c) Petitions shall include the following data and be submitted in the following form:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Date)Name of petitionerPost-office addressName of color additive and proposed useOffice of Food Additive Safety (HFS-200),Center for Food Safety and Applied Nutrition,Food and Drug Administration,5001 Campus Dr.,College Park, MD 20740Dear Sir:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Date)Name of petitionerPost-office addressName of color additive and proposed useOffice of Food Additive Safety (HFS-200),Center for Food Safety and Applied Nutrition,Food and Drug Administration,5001 Campus Dr., College Park, MD 20740Dear Sir:
 
 Petitioner submits this pursuant to section 721(b)(1) of the Federal Food, Drug, and Cosmetic Act requesting listing by the Commissioner of the color additive \_\_\_\_\_\_\_\_\_\_ as suitable and safe for use in or on \_\_\_\_\_\_\_\_\_\_ subject to the conditions that \_\_\_\_\_\_\_\_\_\_\_\_\_\_. [Petitioner may propose a listing for general use in food, drugs, or cosmetics or, if such general listing is not believed suitable and safe, the petitioner shall describe the conditions under which he believes the additive can be safely used and for which it will be suitable. These conditions may include tolerance limitations, specifications as to the manner in which the additive may be added or used, and directions and other labeling or packaging safeguards that should be applied. The level of use proposed should not be higher than reasonably required to accomplish the intended color effect.]
 

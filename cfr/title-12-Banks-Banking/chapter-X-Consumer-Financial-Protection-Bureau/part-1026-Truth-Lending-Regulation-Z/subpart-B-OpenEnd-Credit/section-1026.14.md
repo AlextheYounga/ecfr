@@ -1,6 +1,6 @@
 ##### § 1026.14 Determination of annual percentage rate. #####
 
-(a) *General rule.* The annual percentage rate is a measure of the cost of credit, expressed as a yearly rate. An annual percentage rate shall be considered accurate if it is not more than 1/8th of 1 percentage point above or below the annual percentage rate determined in accordance with this section. An error in disclosure of the annual percentage rate or finance charge shall not, in itself, be considered a violation of this part if:
+(a) *General rule.* The annual percentage rate is a measure of the cost of credit, expressed as a yearly rate. An annual percentage rate shall be considered accurate if it is not more than1/8th of 1 percentage point above or below the annual percentage rate determined in accordance with this section. An error in disclosure of the annual percentage rate or finance charge shall not, in itself, be considered a violation of this part if:
 
 (1) The error resulted from a corresponding error in a calculation tool used in good faith by the creditor; and
 

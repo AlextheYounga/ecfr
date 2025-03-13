@@ -1,6 +1,6 @@
 ##### § 660.46 Samples; protocols; official release. #####
 
-(a) *Samples.* (1) For the purposes of this section, a sample of product not iodinated with125I means a sample from each filling of each lot packaged as for distribution, including all ancillary reagents and materials; and a sample of product iodinated with125I or unlyophilized HBsAg-coated red blood cells means a sample from each lot of diagnostic test kits in a finished package, including all ancillary reagents and materials.
+(a) *Samples.* (1) For the purposes of this section, a sample of product not iodinated with 125I means a sample from each filling of each lot packaged as for distribution, including all ancillary reagents and materials; and a sample of product iodinated with 125I or unlyophilized HBsAg-coated red blood cells means a sample from each lot of diagnostic test kits in a finished package, including all ancillary reagents and materials.
 
 (2) Unless the Director, Center for Biologics Evaluation and Research, determines that the reliability and consistency of the finished product can be assured with a smaller quantity of sample or no sample and specifically reduces or eliminates the required quantity of sample, each manufacturer shall submit the following samples to the Director, Center for Biologics Evaluation and Research (see mailing addresses in § 600.2(c) of this chapter), within 5 working days after the manufacturer has satisfactorily completed all tests on the samples:
 

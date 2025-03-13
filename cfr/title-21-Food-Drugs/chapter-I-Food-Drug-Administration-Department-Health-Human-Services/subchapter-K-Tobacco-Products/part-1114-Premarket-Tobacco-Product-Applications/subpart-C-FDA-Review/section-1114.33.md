@@ -8,7 +8,6 @@
 
 (i) Inspect the facilities and controls described in the application; or
 
-(ii) Have access to, copy, and verify all records pertinent to the application,
-which results in FDA finding that one or more of the grounds for denial specified in section 910(c)(2) of the Federal Food, Drug and Cosmetic Act apply.
+(ii) Have access to, copy, and verify all records pertinent to the application, which results in FDA finding that one or more of the grounds for denial specified in section 910(c)(2) of the Federal Food, Drug and Cosmetic Act apply.
 
 (b) *Description of deficiencies.* The marketing denial order will, where practicable, identify measures to remove the application from deniable form.

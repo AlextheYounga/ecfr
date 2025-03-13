@@ -1,6 +1,6 @@
 ##### § 3280.609 Water distribution systems. #####
 
-Link to an amendment published at 89 FR 75753, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75753, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *Water supply*—(1) *Supply piping.* Piping systems shall be sized to provide an adequate quantity of water to each plumbing fixture at a flow rate sufficient to keep the fixture in a clean and sanitary condition without any danger of backflow or siphonage. (See table in § 3280.609(f)(1)). The manufacturer shall include in his written installation instructions that the manufactured home has been designed for an inlet water pressure of 80 psi, and a statement that when the manufactured home is to be installed in areas where the water pressure exceeds 80 psi, a pressure reducing valve should be installed.
 
@@ -58,15 +58,15 @@ Link to an amendment published at 89 FR 75753, Sept. 16, 2024.
 
 (f) *Size of water supply piping*—(1) *Minimum size.* The size of water supply piping and branch lines shall not be less than sizes shown in the following table:
 
-|  Number of fixtures  |   Tubing (nominal)    |Pipe iron pipe size (inches)|   |
-|----------------------|-----------------------|----------------------------|---|
-|  Diameter (inches)   |Outer diameter (inches)|                            |   |
-|          1           |         \*1/4         |            3/8             |1/2|
-|          2           |          3/8          |            1/2             |1/2|
-|          3           |          1/2          |            5/8             |1/2|
-|          4           |          1/2          |            5/8             |1/2|
-|      5 or more       |          3/4          |            7/8             |3/4|
-|\*6 ft maximum length.|                       |                            |   |
+|  Number of fixtures  |     Tubing (nominal)      |Pipe iron pipe size (inches)|                         |
+|----------------------|---------------------------|----------------------------|-------------------------|
+|  Diameter (inches)   |  Outer diameter (inches)  |                            |                         |
+|          1           |\*<sup>1</sup>⁄<sub>4</sub>| <sup>3</sup>⁄<sub>8</sub>  |<sup>1</sup>⁄<sub>2</sub>|
+|          2           | <sup>3</sup>⁄<sub>8</sub> | <sup>1</sup>⁄<sub>2</sub>  |<sup>1</sup>⁄<sub>2</sub>|
+|          3           | <sup>1</sup>⁄<sub>2</sub> | <sup>5</sup>⁄<sub>8</sub>  |<sup>1</sup>⁄<sub>2</sub>|
+|          4           | <sup>1</sup>⁄<sub>2</sub> | <sup>5</sup>⁄<sub>8</sub>  |<sup>1</sup>⁄<sub>2</sub>|
+|      5 or more       | <sup>3</sup>⁄<sub>4</sub> | <sup>7</sup>⁄<sub>8</sub>  |<sup>3</sup>⁄<sub>4</sub>|
+|\*6 ft maximum length.|                           |                            |                         |
 
 *Exceptions to table:*3/8 inch nominal diameter or 1/2 inch OD minimum size for clothes washing or dishwashing machines, unless larger size is recommended by the fixture manufacturer. 1/2 inch nominal diameter or 5/8 inch OD minimum size for flushometer or metering type valves unless otherwise specified in their listing. No galvanized screw piping shall be less than 1/2 inch iron pipe size.
 

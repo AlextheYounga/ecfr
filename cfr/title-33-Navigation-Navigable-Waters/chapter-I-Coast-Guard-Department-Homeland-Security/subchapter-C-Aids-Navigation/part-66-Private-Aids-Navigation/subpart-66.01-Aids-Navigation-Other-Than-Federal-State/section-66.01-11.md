@@ -8,7 +8,7 @@
 
 (3) Have a minimum effective intensity of at least 1 candela for a range of 1 nautical mile, 3 candelas for one of 2 nautical miles, 10 candelas for one of 3 nautical miles, and 54 candelas for one of 5 nautical miles. The District Commander may change the requirements for minimum intensity to account for local environmental conditions. For a flashing light this intensity is determined by the following formula:
 
-Ie = G/(0.2 + t2−t1)Where:Ie = Effective intensityG = The integral of the instantaneous intensity of the flashed light with respect to timet1 = Time in seconds at the beginning of the flasht2 = Time in seconds at the end of the flasht2−t1 is greater than or equal to 0.2 seconds.
+Ie = G/(0.2 + t2−t1) Where: Ie = Effective intensity G = The integral of the instantaneous intensity of the flashed light with respect to time t1 = Time in seconds at the beginning of the flash t2 = Time in seconds at the end of the flash t2−t1 is greater than or equal to 0.2 seconds.
 
 (4) Unless the light is a prefocused lantern, have a means of verifying that the source of the light is at the focal point of the lens.
 

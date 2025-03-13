@@ -2,4 +2,4 @@
 
 The Coast Guard has the authority and responsibility for enforcement of the applicable provisions of law for the protection and preservation of navigable waters. It is the policy of the Coast Guard to secure compliance with these provisions of law short of legal proceedings. As a general principle, no action is taken when the violation is minor, unintentional, or accidental and the party responsible corrects the violation. It is the policy of the Coast Guard to implement civil or criminal proceedings in all other circumstances. These proceedings are in subpart 1.07 of Part 1 of this chapter.
 
-(Secs. 107, 108, Pub. L. 97-322, 96 Stat. 1582; (33 U.S.C. 495, 499, 502, 525, 533); 49 CFR 1.46(c))[CGD 82-102, 47 FR 54299, Dec. 2, 1982, as amended by USCG-2001-9286, 66 FR 33641, June 25, 2001]
+(Secs. 107, 108, Pub. L. 97-322, 96 Stat. 1582; (33 U.S.C. 495, 499, 502, 525, 533); 49 CFR 1.46(c)) [CGD 82-102, 47 FR 54299, Dec. 2, 1982, as amended by USCG-2001-9286, 66 FR 33641, June 25, 2001]

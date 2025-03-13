@@ -4,7 +4,7 @@
 
 (b)(1) Access permits must be requested at least 72 hours but no longer than one month before the date the permit is desired to be effective. Access permits do not require written applications or the payment of any fee. Permits may be requested via telephone or radio by contacting FKNMS at any of the following numbers:
 
-Key West office: telephone: (305) 292-0311Marathon office: telephone: (305) 743-2437
+Key West office: telephone: (305) 292-0311 Marathon office: telephone: (305) 743-2437
 
 (2) The following information must be provided, as applicable:
 

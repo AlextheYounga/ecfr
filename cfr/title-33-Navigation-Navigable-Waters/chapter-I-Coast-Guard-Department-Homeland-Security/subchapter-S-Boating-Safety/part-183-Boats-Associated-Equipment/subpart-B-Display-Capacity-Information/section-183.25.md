@@ -6,19 +6,19 @@
 
 (1) For outboard boats:
 
-U.S. Coast Guard Maximum CapacitiesXX Persons or XXX PoundsXXX Pounds, persons, motor, gearXXX Horsepower, motor orU.S. Coast Guard Maximum CapacitiesXX Persons or XXX PoundsXXX Pounds, persons, motor, gearXXX Horsepower, motor with remote steeringXXX Horsepower, motor without remote steering
+U.S. Coast Guard Maximum Capacities XX Persons or XXX Pounds XXX Pounds, persons, motor, gear XXX Horsepower, motor orU.S. Coast Guard Maximum Capacities XX Persons or XXX Pounds XXX Pounds, persons, motor, gear XXX Horsepower, motor with remote steering XXX Horsepower, motor without remote steering
 
 (2) For inboard boats and inboard-outboard boats:
 
-U.S. Coast Guard Maximum CapacitiesXX Persons or XXX PoundsXXX Pounds, persons, gear
+U.S. Coast Guard Maximum Capacities XX Persons or XXX Pounds XXX Pounds, persons, gear
 
 (3) For boats rated for motors of 2 horsepower or less:
 
-U.S. Coast Guard Maximum CapacitiesXX Persons or XXX PoundsXXX Pounds, persons, motor, gearXXX Horsepower, motor
+U.S. Coast Guard Maximum Capacities XX Persons or XXX Pounds XXX Pounds, persons, motor, gear XXX Horsepower, motor
 
 (4) For boats rated for manual propulsion:
 
-U.S. Coast Guard Maximum CapacitiesXX Persons or XXX PoundsXXX Pounds, persons, gearThis Boat Not Rated for Propulsion by Motor
+U.S. Coast Guard Maximum Capacities XX Persons or XXX Pounds XXX Pounds, persons, gear This Boat Not Rated for Propulsion by Motor
 
 (c) The capacity information displays required in paragraph (b) must meet the following as illustrated in Figure 183.25:
 
@@ -28,7 +28,7 @@ U.S. Coast Guard Maximum CapacitiesXX Persons or XXX PoundsXXX Pounds, persons, 
 
 (i) Is at least 4 inches wide; and
 
-(ii) Is high enough that each line of print is separated by at least1/8 inch from each other and from the borders of the yellow area;
+(ii) Is high enough that each line of print is separated by at least 1/8 inch from each other and from the borders of the yellow area;
 
 (2) The persons capacity in whole numbers must be black print with the following dimensions:
 

@@ -46,7 +46,7 @@
 
 *Public vessel* means vessels owned or bareboat chartered and operated by the United States, or by a State or political subdivision thereof, or by a foreign nation, except when such vessel is engaged in commercial service.
 
-(c) *Regulations*—(1) *Non-steel hull vessels.* Non-steel hull vessels may not enter or transit within a safety zone described in paragraph (a) of this section without permission from the cognizant COTP or District Commander if, when approaching the zone or after entering the zone, the vessel encounters ice of1/2-inch or more in thickness. When ice in a zone is1/2-inch thick or more, non-steel hull vessels moored or docked in the zone need not exit the zone. Except for as described in paragraph (d)(4), non-steel hull vessels may not enter or transit the zone without permission of the cognizant COTP or District Commander.
+(c) *Regulations*—(1) *Non-steel hull vessels.* Non-steel hull vessels may not enter or transit within a safety zone described in paragraph (a) of this section without permission from the cognizant COTP or District Commander if, when approaching the zone or after entering the zone, the vessel encounters ice of 1/2-inch or more in thickness. When ice in a zone is 1/2-inch thick or more, non-steel hull vessels moored or docked in the zone need not exit the zone. Except for as described in paragraph (d)(4), non-steel hull vessels may not enter or transit the zone without permission of the cognizant COTP or District Commander.
 
 (2) *Steel hull vessels.* Except as provided in paragraph (d)(1) of this section, steel hull vessels may not enter or transit within a safety zone described in paragraph (a) of this section without permission from the cognizant COTP or District Commander in the following circumstances:
 

@@ -16,7 +16,7 @@
 
 (b) The tolerance to be allowed in excess or in deficiency on all barrels of Class 2 shall be 11/2 inches (1.5) inches, and this tolerance is to be applied to the result obtained by the application of the following rule:
 
-(1) Having determined the errors of each dimension and given to each its proper sign (see § 241.4), add the errors on the effective diameter of head and the distance between heads algebraically and multiply the result by 1.67 (or5/3). Then add this result to the error on the circumference of bulge algebraically. If the result obtained is not greater than the tolerance given above, then the barrel is within the tolerance allowed; if the result is greater than this tolerance, then the barrel is not within the tolerance allowed.
+(1) Having determined the errors of each dimension and given to each its proper sign (see § 241.4), add the errors on the effective diameter of head and the distance between heads algebraically and multiply the result by 1.67 (or 5/3). Then add this result to the error on the circumference of bulge algebraically. If the result obtained is not greater than the tolerance given above, then the barrel is within the tolerance allowed; if the result is greater than this tolerance, then the barrel is not within the tolerance allowed.
 
 Note:
 
@@ -40,7 +40,7 @@ To find the algebraic sum of a number of quantities having different signs, firs
 
 (d) The tolerances to be allowed in excess or in deficiency on all subdivisions of the standard barrel for fruits, vegetables, and other dry commodities other than cranberries, and on all subdivisions of the standard barrel for cranberries, shall be the values given in the following table, and these tolerances are to be applied to the result obtained by the application of the following rule:
 
-(1) Having determined the errors on each dimension and given to each its proper sign (see § 241.5), add the errors on the effective diameter of head and the distance between heads algebraically and multiply the result by 1.67 (or5/3). Then add this result to the error on the circumference of bulge algebraically. If the result obtained is not greater than the tolerance given in the following table for the proper subdivision, then the barrel is within the tolerance allowed; if the result is greater than this tolerance, then the barrel is not within the tolerance allowed.
+(1) Having determined the errors on each dimension and given to each its proper sign (see § 241.5), add the errors on the effective diameter of head and the distance between heads algebraically and multiply the result by 1.67 (or 5/3). Then add this result to the error on the circumference of bulge algebraically. If the result obtained is not greater than the tolerance given in the following table for the proper subdivision, then the barrel is within the tolerance allowed; if the result is greater than this tolerance, then the barrel is not within the tolerance allowed.
 
 |                   Size of subdivision                    |       Tolerance        |            |
 |----------------------------------------------------------|------------------------|------------|

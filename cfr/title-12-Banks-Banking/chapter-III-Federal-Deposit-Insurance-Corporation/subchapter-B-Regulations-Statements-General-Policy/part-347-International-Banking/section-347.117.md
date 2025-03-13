@@ -16,7 +16,7 @@
 
 (1) The bank operates at least one foreign bank subsidiary or foreign branch, an affiliated bank or Edge or Agreement corporation operates at least one foreign bank subsidiary or foreign branch, or the bank's holding company operates at least one foreign bank subsidiary in the country where the foreign organization will be located;
 
-(2) In any instance where the bank and its affiliates will hold 20 percent or more of the foreign organization's voting equity interests or control the foreign organization, at least one state nonmember bank has a foreign bank subsidiary or foreign branch (other than a shell branch) in the country where the foreign organization will be located; 3 and
+(2) In any instance where the bank and its affiliates will hold 20 percent or more of the foreign organization's voting equity interests or control the foreign organization, at least one state nonmember bank has a foreign bank subsidiary or foreign branch (other than a shell branch) in the country where the foreign organization will be located;3 and
 
 3 A list of these countries can be obtained from the FDIC's Internet Web Site at *http://www.fdic.gov.*
 

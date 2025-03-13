@@ -1,6 +1,6 @@
 ##### § 3280.403 Requirements for windows, sliding glass doors, and skylights. #####
 
-Link to an amendment published at 89 FR 75750, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75750, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *Scope.* This section establishes the requirements for prime windows and sliding glass doors, except that windows used in an entry door are components of the door and are excluded from these requirements.
 

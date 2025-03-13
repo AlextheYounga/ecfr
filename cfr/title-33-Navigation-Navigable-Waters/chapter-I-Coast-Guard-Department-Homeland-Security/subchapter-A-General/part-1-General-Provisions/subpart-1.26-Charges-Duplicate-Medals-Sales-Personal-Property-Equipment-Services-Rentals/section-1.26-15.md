@@ -42,4 +42,4 @@
 
 (7) The charges for mechanical services rendered (other than in connection with the arrival, refueling, and departure of airplanes) shall be an hourly charge for labor, with a minimum of 1 hour, which shall be the equivalent to the schedule of wage rates for civilian personnel for the district (i.e., machinists, helpers, etc.), regardless of whether the services are performed by enlisted or civilian personnel.
 
-(Sec. 1107, 72 Stat. 798, as amended; sec. 641, 63 Stat. 547, as amended; sec. 1, 73 Stat. 357; 49 U.S.C. 1507; 14 U.S.C. 901(b), 942)[CGFR 67-13, 32 FR 11211, Aug. 2, 1967, as amended by USCG-1998-3799, 63 FR 35525, June 30, 1998; USCG-2020-0304, 85 FR 58275, Sept. 18, 2020]
+(Sec. 1107, 72 Stat. 798, as amended; sec. 641, 63 Stat. 547, as amended; sec. 1, 73 Stat. 357; 49 U.S.C. 1507; 14 U.S.C. 901(b), 942) [CGFR 67-13, 32 FR 11211, Aug. 2, 1967, as amended by USCG-1998-3799, 63 FR 35525, June 30, 1998; USCG-2020-0304, 85 FR 58275, Sept. 18, 2020]

@@ -2,7 +2,7 @@
 
 The food additive natamycin (CAS No. 7681-93-8) may be safely used in broiler chicken feeds in accordance with the following specifications:
 
-(a) The additive is a stereoisomer of 22-[(3-amino-3,6,dideoxy-β-D-mannopyranosyl)oxy]-1,3,26-trihydroxy-12-methyl-10-oxo-6,11,28-trioxatricyclo[22.3.1.05,7] octacosa-8,14,16,18,20-pentaene-25-carboxylic acid with the empirical formula C33H47NO13.
+(a) The additive is a stereoisomer of 22-[(3-amino-3,6,dideoxy-β-D-mannopyranosyl)oxy]-1,3,26-trihydroxy-12-methyl-10-oxo-6,11,28-trioxatricyclo[22.3.1.05, 7] octacosa-8,14,16,18,20-pentaene-25-carboxylic acid with the empirical formula C33H47NO13.
 
 (b) The additive shall conform to U.S.P. specifications.
 

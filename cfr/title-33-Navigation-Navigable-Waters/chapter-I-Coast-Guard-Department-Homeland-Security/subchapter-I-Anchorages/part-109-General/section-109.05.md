@@ -6,4 +6,4 @@
 
 (c) As soon as publication has been noted in the Federal Register, the District Commander will publish changes to the Anchorage Regulations in the Local Notice to Mariners.
 
-(33 U.S.C. 471, 180, 258, 322, and 499; 49 CFR 1.46(c) and 1.45(b))[CGFR 67-46, 32 FR 17727, Dec. 12, 1967, as amended by CGD 79-096, 44 FR 51585, Sept. 4, 1979; USCG-1998-3799, 63 FR 35526, June 30, 1998; USCG-2007-27887, 72 FR 45902, Aug. 16, 2007]
+(33 U.S.C. 471, 180, 258, 322, and 499; 49 CFR 1.46(c) and 1.45(b)) [CGFR 67-46, 32 FR 17727, Dec. 12, 1967, as amended by CGD 79-096, 44 FR 51585, Sept. 4, 1979; USCG-1998-3799, 63 FR 35526, June 30, 1998; USCG-2007-27887, 72 FR 45902, Aug. 16, 2007]

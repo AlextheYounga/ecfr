@@ -8,4 +8,4 @@
 
 (c) The regulations in this section shall be enforced by the Commandant, Thirteenth Naval District, Seattle, Washington, and such agencies as he may designate.
 
-(Sec. 7, 40 Stat. 266, Chap. XIX)[39 FR 44753, Dec. 27, 1974; 40 FR 6502, Feb. 12, 1975. Redesignated at 50 FR 42696, Oct. 22, 1985, as amended at 62 FR 17558, Apr. 10, 1997]
+(Sec. 7, 40 Stat. 266, Chap. XIX) [39 FR 44753, Dec. 27, 1974; 40 FR 6502, Feb. 12, 1975. Redesignated at 50 FR 42696, Oct. 22, 1985, as amended at 62 FR 17558, Apr. 10, 1997]

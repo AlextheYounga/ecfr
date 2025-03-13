@@ -34,7 +34,7 @@ Recorder: −0.5 to + 1.05 millivolt, full span, 1 second full response time.
 
 Syringe: 10-microliter (Hamilton 710 N or equivalent).
 
-Chromatograph column: 5 feet ×1/8 inch. I.D. stainless steel tube packed with sorbitol (Mathieson-Coleman-Bell 2768 Sorbitol SX850, or equivalent) 12 percent in H2O by weight on 60-80 mesh nonacid washed diatomaceous earth (Chromosorb W. Johns-Manville, or equivalent).
+Chromatograph column: 5 feet × 1/8 inch. I.D. stainless steel tube packed with sorbitol (Mathieson-Coleman-Bell 2768 Sorbitol SX850, or equivalent) 12 percent in H2O by weight on 60-80 mesh nonacid washed diatomaceous earth (Chromosorb W. Johns-Manville, or equivalent).
 
 reagents and materials
 

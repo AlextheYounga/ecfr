@@ -6,4 +6,4 @@
 
 (2) The regulations in this section shall be enforced by the Commander, Caribbean Sea Frontier, San Juan, Puerto Rico, and such agencies as he may designate.
 
-(Sec. 7, 40 Stat. 266, (33 U.S.C. 1))[13 FR 9530, Dec. 31, 1948. Redesignated at 14 FR 4904, Aug. 9, 1949, and amended at 28 FR 349, Jan. 12, 1963; 39 FR 27133, July 25, 1974; 44 FR 69298, Dec. 3, 1979. Redesignated at 50 FR 42696, Oct. 22, 1985, as amended at 62 FR 17559, Apr. 10, 1997]
+(Sec. 7, 40 Stat. 266, (33 U.S.C. 1)) [13 FR 9530, Dec. 31, 1948. Redesignated at 14 FR 4904, Aug. 9, 1949, and amended at 28 FR 349, Jan. 12, 1963; 39 FR 27133, July 25, 1974; 44 FR 69298, Dec. 3, 1979. Redesignated at 50 FR 42696, Oct. 22, 1985, as amended at 62 FR 17559, Apr. 10, 1997]

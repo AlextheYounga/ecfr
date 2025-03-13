@@ -66,6 +66,6 @@
 
 (e) *Date of manufacture.* The date of manufacture of Antibody to Hepatitis B surface Antigen that has been iodinated with radioactive iodine (125I) shall be the day of labeling the antibody with the radionuclide.
 
-(f) *Retention samples.* Each manufacturer shall retain representative samples of the product in accordance with § 600.13 of this chapter except for that which has been iodinated with radioactive iodine. Retention samples of Antibody to Hepatitis B Surface Antigen iodinated with125I shall consist of a minimum of two complete finished packages of each lot of the diagnostic test kit and shall be retained for a period of at least 90 days from the date of manufacture.
+(f) *Retention samples.* Each manufacturer shall retain representative samples of the product in accordance with § 600.13 of this chapter except for that which has been iodinated with radioactive iodine. Retention samples of Antibody to Hepatitis B Surface Antigen iodinated with 125I shall consist of a minimum of two complete finished packages of each lot of the diagnostic test kit and shall be retained for a period of at least 90 days from the date of manufacture.
 
 [38 FR 32098, Nov. 20, 1973, as amended at 40 FR 29711, July 15, 1975; 46 FR 36134, July 14, 1981; 49 FR 1684, Jan. 13, 1984; 81 FR 38924, June 15, 2016]

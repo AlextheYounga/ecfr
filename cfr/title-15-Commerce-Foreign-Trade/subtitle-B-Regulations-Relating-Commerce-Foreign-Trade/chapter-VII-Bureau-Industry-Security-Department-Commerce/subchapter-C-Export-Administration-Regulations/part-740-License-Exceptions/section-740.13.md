@@ -28,7 +28,7 @@ Neither this section nor its use means that the U.S. Government intends, or is c
 
 (c) *Software updates.* The provisions of paragraph (c) authorize exports and reexports of software updates that are intended for and are limited to correction of errors (“fixes” to “bugs”) in software lawfully exported or reexported (original software). Such software updates may be exported or reexported only to the same consignee to whom the original software was exported or reexported, and such software updates may not enhance the functional capacities of the original software. Such software updates may be exported or reexported to any destination to which the software for which they are required has been legally exported or reexported.
 
-(d) *General Software Note: mass market software*—(1) *Scope.* The provisions of paragraph (d) authorize exports and reexports of mass market software subject to the General Software Note (see supplement no. 2 to part 774 of the EAR; also referenced in this section).2
+(d) *General Software Note: mass market software*—(1) *Scope.* The provisions of paragraph (d) authorize exports and reexports of mass market software subject to the General Software Note (see supplement no. 2 to part 774 of the EAR; also referenced in this section). 2
 
 2 Pursuant to 15 CFR § 30.37(f) of the Foreign Trade Regulations (FTR), Electronic Export Information (EEI) via the Automated Export System (AES) is required for mass-market software.
 

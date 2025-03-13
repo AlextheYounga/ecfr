@@ -50,7 +50,7 @@ Styrene-maleic anhydride resin, partial 2-butoxyethyl ester, ammonium salt (CAS 
 
 (iv) Emulsifiers:
 
-Sodium dodecylbenzenesulfonate: As an adjuvant in the application of coatings to the base sheet or base polymer.Sodium lauryl sulfate: As an adjuvant in the application of coatings to the base sheet or base polymer.2-Sulfoethyl methacrylate, sodium salt (CAS Reg. No. 1804-87-1). For use only in copolymer coatings on polyethylene phthalate film under conditions of use E, F, and G described in table 2 of § 175.300(d) of this chapter, and limited to use at a level not to exceed 2.0 percent by weight of the dry copolymer coating.
+Sodium dodecylbenzenesulfonate: As an adjuvant in the application of coatings to the base sheet or base polymer.Sodium lauryl sulfate: As an adjuvant in the application of coatings to the base sheet or base polymer. 2-Sulfoethyl methacrylate, sodium salt (CAS Reg. No. 1804-87-1). For use only in copolymer coatings on polyethylene phthalate film under conditions of use E, F, and G described in table 2 of § 175.300(d) of this chapter, and limited to use at a level not to exceed 2.0 percent by weight of the dry copolymer coating.
 
 (v) Modifier:
 
@@ -74,15 +74,15 @@ Sodium dodecylbenzenesulfonate: As an adjuvant in the application of coatings to
 
 (h) Uncoated polyethylene phthalate plastics consisting of a base sheet or base polymer prepared as prescribed from substances identified in paragraphs (e)(4)(i) and (ii) of this section and conforming with the specifications prescribed in paragraph (h)(1) of this section are used as provided in paragraph (h)(2) of this section:
 
-(1) *Specifications.* (i) The food contact surface, when exposed to distilled water at 250 °F for 2 hours yields chloroform-soluble extractives not to exceed 0.02 milligram/inch2 of food contact surface exposed to the solvent; and
+(1) *Specifications.* (i) The food contact surface, when exposed to distilled water at 250 °F for 2 hours yields chloroform-soluble extractives not to exceed 0.02 milligram/inch 2 of food contact surface exposed to the solvent; and
 
-(ii) The food contact surface, when exposed to *n-*heptane at 150 °F for 2 hours, yields chloroform-soluble extractives not to exceed 0.02 milligram/inch2 of food contact surface exposed to the solvent.
+(ii) The food contact surface, when exposed to *n-*heptane at 150 °F for 2 hours, yields chloroform-soluble extractives not to exceed 0.02 milligram/inch 2 of food contact surface exposed to the solvent.
 
 (2) *Conditions of use.* The plastics are used to contain foods during oven baking or oven cooking at temperatures above 250 °F.
 
 (i) Polyethylene phthalate fabric, identified in paragraph (c) of this section and conforming with the specifications prescribed in paragraph (i)(1) of this section, is used only as provided in paragraph (i)(2) of this section.
 
-(1) *Specifications.* Chloroform-soluble extractives shall not exceed 0.2 milligram/inch2 of food-contact surface when exposed to the following solvents at temperatures and times indicated:
+(1) *Specifications.* Chloroform-soluble extractives shall not exceed 0.2 milligram/inch 2 of food-contact surface when exposed to the following solvents at temperatures and times indicated:
 
 (i) Distilled water at 212 °F for 2 hours.
 
@@ -102,9 +102,9 @@ Sodium dodecylbenzenesulfonate: As an adjuvant in the application of coatings to
 
 (1) *Specifications.* (i) The food contact surface meets the specifications in paragraph (f)(1) of this section and
 
-(ii)(*a*) *Containers with greater than 500 mL capacity.* The food-contact surface when exposed to 95 percent ethanol at 120 °F for 24 hours should not yield chloroform-soluble extractives in excess of 0.005 mg/in2.
+(ii)(*a*) *Containers with greater than 500 mL capacity.* The food-contact surface when exposed to 95 percent ethanol at 120 °F for 24 hours should not yield chloroform-soluble extractives in excess of 0.005 mg/in 2.
 
-(*b*) *Containers with less than or equal to 500 mL capacity.* The food contact surface when exposed to 95 percent ethanol at 120 °F for 24 hours should not yield chloroform-soluble extractives in excess of 0.05 mg/in2.
+(*b*) *Containers with less than or equal to 500 mL capacity.* The food contact surface when exposed to 95 percent ethanol at 120 °F for 24 hours should not yield chloroform-soluble extractives in excess of 0.05 mg/in 2.
 
 (2) *Conditions of use.* The plastics are used for packaging, transporting, or holding alcoholic foods that do not exceed 95 percent alcohol by volume.
 

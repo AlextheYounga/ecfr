@@ -22,4 +22,4 @@
 
 (e) *Enforcement period.* This rule will be enforced from November 12, 2024, through March 31, 2025, unless cancelled earlier by the Captain of the Port.
 
-[USCG-2024-1007, 89 FR 91571, Nov. 20, 2024]Effective Date Note:By USCG-2024-1007, 89 FR 91571, Nov. 20, 2024, § 165.T05-1007 was added, effective Nov. 20, 2024, to Mar. 31, 2025.
+[USCG-2024-1007, 89 FR 91571, Nov. 20, 2024] Effective Date Note:By USCG-2024-1007, 89 FR 91571, Nov. 20, 2024, § 165.T05-1007 was added, effective Nov. 20, 2024, to Mar. 31, 2025.

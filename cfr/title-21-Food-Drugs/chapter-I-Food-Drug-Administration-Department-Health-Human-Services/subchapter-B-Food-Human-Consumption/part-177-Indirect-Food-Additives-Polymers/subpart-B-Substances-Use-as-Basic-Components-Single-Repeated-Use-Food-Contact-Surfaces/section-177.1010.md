@@ -36,7 +36,7 @@ Di-*tert-*butyl-*p-*cresol.2-Hydroxy-4-methoxybenzophenone.2-Hydroxy-4-methoxy-2
 
 (8) Miscellaneous materials:
 
-Di(2-ethylhexyl) phthalate, for use only as a flow promoter at a level not to exceed 3 weight-percent based on the monomers.Oxalic acid, for use only as a polymerization catalyst aid.Tetraethylenepentamine, for use only as a catalyst activator at a level not to exceed 0.5 weight-percent based on the monomers.Toluene.Xylene.
+Di(2-ethylhexyl) phthalate, for use only as a flow promoter at a level not to exceed 3 weight-percent based on the monomers.Oxalic acid, for use only as a polymerization catalyst aid.Tetraethylenepentamine, for use only as a catalyst activator at a level not to exceed 0.5 weight-percent based on the monomers. Toluene.Xylene.
 
 (b) The semirigid and rigid acrylic and modified acrylic plastics, in the finished form in which they are to contact food, when extracted with the solvent or solvents characterizing the type of food and under the conditions of time and temperature as determined from tables 1 and 2 of § 176.170(c) of this chapter, shall yield extractives not to exceed the following, when tested by the methods prescribed in paragraph (c) of this section. The acrylic and modified acrylic polymers or plastics intended to be used as components of articles also shall yield extractives not to exceed the following limitations when prepared as strips as described in paragraph (c)(2) of this section:
 

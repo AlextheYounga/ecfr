@@ -138,4 +138,4 @@ Such inspections shall be made prior to the beginning of the flood season and ot
 
 (2) *Operation.* Miscellaneous facilities shall be operated to prevent or reduce flooding during periods of high water. Those facilities constructed as a part of the protective works shall not be used for purposes other than flood protection without approval of the District Engineer unless designed therefor.
 
-(Sec. 3, 49 Stat. 1571, as amended; 33 U.S.C. 701c)[9 FR 9999, Aug. 17, 1944; 9 FR 10203, Aug. 22, 1944]
+(Sec. 3, 49 Stat. 1571, as amended; 33 U.S.C. 701c) [9 FR 9999, Aug. 17, 1944; 9 FR 10203, Aug. 22, 1944]

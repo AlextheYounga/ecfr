@@ -1,6 +1,6 @@
 ##### § 3282.552 Manufacturer reports for joint monitoring fees. #####
 
-Link to an amendment published at 89 FR 75758, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75758, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 The manufacturer must submit to the IPIA in each of its manufacturing plants, and to HUD or to the Secretary's agent, a monthly production report that includes the serial numbers of each manufactured home manufactured and labeled at that plant during the preceding month. The report must also include the date of manufacture, State of first location of these manufactured homes after leaving the plant, type of unit, and any other information required under this part. For all homes to be completed pursuant to subpart M of these regulations, the production report must also include a brief description of the work to be completed on site. The State of first location is the State of the premises of the retailer or purchaser to whom the manufactured home is first shipped. The monthly report must be submitted by the 10th day of each month and contain information describing the manufacturer's previous month's activities. The manufacturer is encouraged to submit the report electronically, when feasible.
 

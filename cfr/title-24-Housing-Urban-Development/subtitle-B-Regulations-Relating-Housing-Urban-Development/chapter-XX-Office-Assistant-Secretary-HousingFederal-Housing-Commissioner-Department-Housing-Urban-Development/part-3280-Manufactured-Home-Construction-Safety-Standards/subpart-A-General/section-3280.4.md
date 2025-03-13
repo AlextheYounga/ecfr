@@ -1,6 +1,6 @@
 ##### § 3280.4 Incorporation by reference. #####
 
-Link to an amendment published at 89 FR 75737, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75737, Sept. 16, 2024.The above amendment was delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) The specifications, standards, and codes of the following organizations are incorporated by reference in 24 CFR part 3280 (this Standard) pursuant to 5 U.S.C. 552(a) and 1 CFR part 51 as though set forth in full. The incorporation by reference of these standards has been approved by the Director of the Federal Register. If a later edition is to be enforced, the Department will publish a notification of change in the Federal Register. These incorporated standards are available for purchase from the organization that developed the standard at the corresponding addresses noted below. Incorporated standards are available for inspection at the Office of Manufactured Housing Program, Manufactured Housing and Construction Standards Division, U.S. Department of Housing and Urban Development, 451 Seventh Street SW, Room B-133, Washington, DC 20410, email *mhs@hud.gov.* Copies of incorporated standards that are not available from their producer organizations may be obtained from the Office of Manufactured Housing Programs. These standards are also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 

@@ -2,7 +2,7 @@
 
 (a) Ox bile extract (CAS Reg. No. 8008-63-7), also known as purified oxgall or sodium choleate, is a yellowish green, soft solid, with a partly sweet, partly bitter, disagreeable taste. It is the purified portion of the bile of an ox obtained by evaporating the alcohol extract of concentrated bile.
 
-(b) Food-grade ox bile extract shall meet the specifications of the U.S. Pharmacopeia (USP), XIV, 1950, p. 410.1
+(b) Food-grade ox bile extract shall meet the specifications of the U.S. Pharmacopeia (USP), XIV, 1950, p. 410. 1
 
 1 Copies may be obtained from: U.S. Pharmacopeial Convention, Inc., 12601 Twinbrook Parkway, Rockville, MD 20852.
 

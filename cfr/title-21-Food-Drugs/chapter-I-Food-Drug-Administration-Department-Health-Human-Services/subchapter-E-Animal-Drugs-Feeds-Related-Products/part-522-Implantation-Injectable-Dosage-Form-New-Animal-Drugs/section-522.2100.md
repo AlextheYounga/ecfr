@@ -14,7 +14,7 @@
 
 (2) *Sponsor.* See No. 000061 in § 510.600(c) of this chapter.
 
-(3) *Conditions of use in dogs*—(i) *Amount.* Administer by subcutaneous or intramuscular injection in divided doses in two or more sites at 1 mL/20 lbs of body weight with a minimum dosage of1/4 mL and a maximum dosage of 5 mL. The dose is repeated at 3-day intervals until a satisfactory therapeutic response is observed. A maintenance regimen is then initiated which consists of 1 mL per 40 lbs of body weight with a minimum dosage of1/4 mL which is repeated every 3 days or 7 days, or longer, as required to maintain continued improvement or an asymptomatic condition; or the drug may be used in capsule form for oral maintenance therapy.
+(3) *Conditions of use in dogs*—(i) *Amount.* Administer by subcutaneous or intramuscular injection in divided doses in two or more sites at 1 mL/20 lbs of body weight with a minimum dosage of 1/4 mL and a maximum dosage of 5 mL. The dose is repeated at 3-day intervals until a satisfactory therapeutic response is observed. A maintenance regimen is then initiated which consists of 1 mL per 40 lbs of body weight with a minimum dosage of 1/4 mL which is repeated every 3 days or 7 days, or longer, as required to maintain continued improvement or an asymptomatic condition; or the drug may be used in capsule form for oral maintenance therapy.
 
 (ii) *Indications for use.* As an aid in alleviating and controlling inflammation, pain, and lameness associated with certain arthropathies in dogs.
 

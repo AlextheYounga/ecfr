@@ -32,6 +32,6 @@
 
 (2) *Indications for use.* For the removal of ascarids (*Toxocara canis* and *Toxascaris leonina*) and hookworms (*Ancylostoma caninum, Ancylostoma braziliense,* and *Uncinaria stenocephala*) from dogs.
 
-(3) *Limitations.* Dogs should not be fed for 18 to 24 hours before being given the drug. Administration of the drug should be followed in1/2 to 1 hour with a mild cathartic. Normal feeding may be resumed 4 to 8 hours after treatment. Animals subject to reinfection may be retreated in 2 weeks. A veterinarian should be consulted before using in severely debilitated dogs.
+(3) *Limitations.* Dogs should not be fed for 18 to 24 hours before being given the drug. Administration of the drug should be followed in 1/2 to 1 hour with a mild cathartic. Normal feeding may be resumed 4 to 8 hours after treatment. Animals subject to reinfection may be retreated in 2 weeks. A veterinarian should be consulted before using in severely debilitated dogs.
 
 [86 FR 10819, Feb. 23, 2021]

@@ -33,7 +33,7 @@ apparatus
 
 *Chromatographic tube.* 1,200 millimeters in length, inside diameter to be 16.5 millimeters ±0.5 millimeter, equipped with a coarse, fritted-glass disc, a tetrafluoroethylene polymer stopcock, and a female 24/40 standard tapered fitting at the opposite end. (Overall length of the column with the female joint is 1,255 millimeters.) The female fitting should be equipped with glass hooks.
 
-*Disc.* Tetrafluoroethylene polymer 2-inch diameter disc approximately3/16-inch thick with a hole bored in the center to closely fit the stem of the chromatographic tube.
+*Disc.* Tetrafluoroethylene polymer 2-inch diameter disc approximately 3/16-inch thick with a hole bored in the center to closely fit the stem of the chromatographic tube.
 
 *Heating jackets.* Conical, for 500-milliliter and 1,000-milliliter separatory funnels. (Used with variable transformer heat control.)
 
@@ -53,7 +53,7 @@ apparatus
 
 Absorbance repeatability, ±0.01 at 0.4 absorbance.
 
-Absorbance accuracy,1 ±0.05 at 0.4 absorbance.
+Absorbance accuracy, 1 ±0.05 at 0.4 absorbance.
 
 1 As determined by procedure using potassium chromate for reference standard and described in National Bureau of Standards Circular 484, Spectrometry, U.S. Department of Commerce (1949). The accuracy is to be determined by comparison with the standard values at 290, 345, and 400 millimicrons. Circular 484 is incorporated by reference. Copies are available from the Center for Food Safety and Applied Nutrition (HFS-200), Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 

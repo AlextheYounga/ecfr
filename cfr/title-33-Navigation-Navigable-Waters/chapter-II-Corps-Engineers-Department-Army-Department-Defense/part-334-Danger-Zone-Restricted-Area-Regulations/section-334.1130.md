@@ -61,4 +61,4 @@
 
 (11) The regulations in this section shall be in effect until further notice. They shall be reviewed again during August 1994.
 
-(33 U.S.C. 1, 3)[48 FR 19025, Apr. 27, 1983. Redesignated at 50 FR 42696, Oct. 22, 1985, and amended at 54 FR 31142, July 26, 1989; 62 FR 17558, Apr. 10, 1997]
+(33 U.S.C. 1, 3) [48 FR 19025, Apr. 27, 1983. Redesignated at 50 FR 42696, Oct. 22, 1985, and amended at 54 FR 31142, July 26, 1989; 62 FR 17558, Apr. 10, 1997]

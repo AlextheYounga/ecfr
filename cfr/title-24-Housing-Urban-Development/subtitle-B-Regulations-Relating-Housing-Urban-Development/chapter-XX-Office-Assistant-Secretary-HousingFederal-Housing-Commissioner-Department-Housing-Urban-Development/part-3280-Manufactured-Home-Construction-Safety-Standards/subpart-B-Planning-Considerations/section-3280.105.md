@@ -1,6 +1,6 @@
 ##### § 3280.105 Exit facilities; exterior doors. #####
 
-Link to an amendment published at 89 FR 75744, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75744, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *Number and location of exterior doors.* Manufactured homes shall have a minimum of two exterior doors located remote from each other.
 

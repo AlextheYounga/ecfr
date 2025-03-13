@@ -26,7 +26,7 @@
 
 (5) *Disclosures must be readily understandable.* The disclosures provided shall be conspicuous, simple, direct, readily understandable, and designed to call attention to the nature and significance of the information provided. For instance, you may use the following disclosures, in visual media, such as television broadcasting, ATM screens, billboards, signs, posters and written advertisements and promotional materials, as appropriate and consistent with paragraphs (a) and (b) of this section:
 
-• NOT A DEPOSIT • NOT FDIC-INSURED • NOT INSURED BY ANY FEDERAL GOVERNMENT AGENCY • NOT GUARANTEED BY THE BANK • MAY GO DOWN IN VALUE
+• NOT A DEPOSIT• NOT FDIC-INSURED• NOT INSURED BY ANY FEDERAL GOVERNMENT AGENCY• NOT GUARANTEED BY THE BANK• MAY GO DOWN IN VALUE
 
 (6) *Disclosures must be meaningful.* (i) You must provide the disclosures required by paragraphs (a) and (b) of this section in a meaningful form. Examples of the types of methods that could call attention to the nature and significance of the information provided include:
 

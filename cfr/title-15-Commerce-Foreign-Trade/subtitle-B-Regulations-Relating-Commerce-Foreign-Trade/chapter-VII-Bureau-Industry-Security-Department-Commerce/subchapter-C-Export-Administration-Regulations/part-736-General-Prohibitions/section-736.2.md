@@ -22,7 +22,7 @@ The description of items in supplements no. 2, 4, or 6 of part 746 are used for 
 
 (i) The item is controlled for a reason indicated in the applicable Export Control Classification Number (ECCN), and
 
-(ii) Export to the country of destination requires a license for the control reason as indicated on the Country Chart at part 738 of the EAR. (The scope of this prohibition is determined by the correct classification of your item and the ultimate destination as that combination is reflected on the Country Chart.)1 Note that each License Exception described at part 740 of the EAR supersedes General Prohibition One if all terms and conditions of a given License Exception are met by the exporter or reexporter.
+(ii) Export to the country of destination requires a license for the control reason as indicated on the Country Chart at part 738 of the EAR. (The scope of this prohibition is determined by the correct classification of your item and the ultimate destination as that combination is reflected on the Country Chart.) 1 Note that each License Exception described at part 740 of the EAR supersedes General Prohibition One if all terms and conditions of a given License Exception are met by the exporter or reexporter.
 
 1 See part 738 of the EAR for selected controls that are not specified on the Country Chart.
 
@@ -50,7 +50,7 @@ The description of items in supplements no. 2, 4, or 6 of part 746 are used for 
 
 (ii) License exceptions to General Prohibition Six are described in part 746 of the EAR, on Embargoes and Other Special Controls. Unless a license exception or other authorization is authorized in part 746 of the EAR, the license exceptions described in part 740 of the EAR are not available to overcome this general prohibition.
 
-(7) *General Prohibition Seven—Support of proliferation activities and certain military-intelligence end uses and end users (“U.S. person” activities).*(i) Support of proliferation activities and certain military-intelligence end uses and end users (“U.S. person” activities).
+(7) *General Prohibition Seven—Support of proliferation activities and certain military-intelligence end uses and end users (“U.S. person” activities).* (i) Support of proliferation activities and certain military-intelligence end uses and end users (“U.S. person” activities).
 
 (A) If you are a “U.S. person,” as that term is defined in § 772.1 of the EAR, you may not engage in any activities prohibited by § 744.6(b) or (c) of the EAR, which prohibit, without a license from BIS, the shipment, transmission, or transfer (in-country) of items not subject to the EAR; facilitating such shipment, transmission, or transfer (in-country); or the performance of any contract, service, or employment (including, but not limited to: ordering, buying, removing, concealing, storing, using, selling, loaning, disposing, servicing, financing, or transporting, freight forwarding, or conducting negotiations in furtherance of) that you know or are informed by BIS will support:
 

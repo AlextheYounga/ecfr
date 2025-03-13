@@ -60,13 +60,13 @@ Such packing media may be used as such or any one or any combination of two or m
 
 (i) In the case of pitted cherries, not more than 1 pit is present in each 20 ounces of canned cherries, as determined by the method prescribed in paragraph (b)(2)(i) of this section.
 
-(ii) In the case of unpitted cherries, the weight of each cherry in the container is not less than1/10 ounce.
+(ii) In the case of unpitted cherries, the weight of each cherry in the container is not less than 1/10 ounce.
 
 (iii) In the case of unpitted cherries, the weight of the largest cherry in the container is not more than twice the weight of the smallest cherry therein.
 
 (iv) In the case of unpitted cherries, the total weight of pits is not more than 12 percent of the weight of drained cherries, as determined by the method prescribed in paragraph (b)(2)(ii) of this section.
 
-(v) Not more than 15 percent by count of the cherries in the container are blemished with scab, hail injury, discoloration, scar tissue or other abnormality. A cherry showing skin discoloration (other than scald) having an aggregate area exceeding that of a circle9/32 inch in diameter is considered to be blemished. A cherry showing discoloration of any area but extending into the fruit tissue is also considered to be blemished.
+(v) Not more than 15 percent by count of the cherries in the container are blemished with scab, hail injury, discoloration, scar tissue or other abnormality. A cherry showing skin discoloration (other than scald) having an aggregate area exceeding that of a circle 9/32 inch in diameter is considered to be blemished. A cherry showing discoloration of any area but extending into the fruit tissue is also considered to be blemished.
 
 (2)(i) Pitted canned cherries shall be tested by the following method to determine whether or not they comply with the requirements of paragraph (b)(1)(i) of this section: Take at random such number of containers as to have a total quantity of contents of at least 24 pounds. Open the containers and weigh the contents. Count the pits and pieces of pit shell in such total quantity. Count a piece of pit shell equal to or smaller than one-half pit shell as one-half pit, and a piece of pit shell larger than one-half pit shell as one pit; but when two or more pieces of pit shell are within or attached to a single cherry, count such pieces as one-half pit if their combined size is equivalent to that of one-half pit shell or less, and as one pit if their combined size is equivalent to that of more than one-half pit shell. From the total number of pits so counted and the combined weight of the contents of all the containers, calculate the number of pits present in each 20 ounces of canned cherries.
 

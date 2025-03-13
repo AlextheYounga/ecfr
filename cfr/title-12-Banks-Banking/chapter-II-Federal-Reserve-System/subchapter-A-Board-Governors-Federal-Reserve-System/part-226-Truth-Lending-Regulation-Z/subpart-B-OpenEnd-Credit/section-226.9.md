@@ -102,7 +102,7 @@
 
 (e) *Disclosures upon renewal of credit or charge card*—(1) *Notice prior to renewal.* A card issuer that imposes any annual or other periodic fee to renew a credit or charge card account of the type subject to § 226.5a, including any fee based on account activity or inactivity or any card issuer that has changed or amended any term of a cardholder's account required to be disclosed under § 226.6(b)(1) and (b)(2) that has not previously been disclosed to the consumer, shall mail or deliver written notice of the renewal to the cardholder. If the card issuer imposes any annual or other periodic fee for renewal, the notice shall be provided at least 30 days or one billing cycle, whichever is less, before the mailing or the delivery of the periodic statement on which any renewal fee is initially charged to the account. If the card issuer has changed or amended any term required to be disclosed under § 226.6(b)(1) and (b)(2) and such changed or amended term has not previously been disclosed to the consumer, the notice shall be provided at least 30 days prior to the scheduled renewal date of the consumer's credit or charge card. The notice shall contain the following information:
 
-(i) The disclosures contained in § 226.5a(b)(1) through (b)(7) that would apply if the account were renewed; 20a and
+(i) The disclosures contained in § 226.5a(b)(1) through (b)(7) that would apply if the account were renewed;20a and
 
 20a [Reserved]
 

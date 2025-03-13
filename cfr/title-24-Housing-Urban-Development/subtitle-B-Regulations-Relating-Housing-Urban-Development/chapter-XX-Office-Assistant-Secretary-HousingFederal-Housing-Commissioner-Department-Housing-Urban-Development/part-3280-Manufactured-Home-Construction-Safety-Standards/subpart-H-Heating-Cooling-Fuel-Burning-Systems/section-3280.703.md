@@ -1,6 +1,6 @@
 ##### § 3280.703 Minimum standards. #####
 
-Link to an amendment published at 89 FR 75753, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75753, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 Heating, cooling and fuel burning appliances and systems in manufactured homes shall be free of defects, and shall conform to applicable standards in the following table unless otherwise specified in this standard. (See § 3280.4) When more than one standard is referenced, compliance with any one such standard shall meet the requirements of this standard.
 

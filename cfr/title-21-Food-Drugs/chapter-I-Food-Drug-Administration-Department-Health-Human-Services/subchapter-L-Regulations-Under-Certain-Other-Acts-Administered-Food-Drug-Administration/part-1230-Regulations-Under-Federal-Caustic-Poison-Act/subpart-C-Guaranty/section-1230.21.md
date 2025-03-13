@@ -12,4 +12,4 @@ The undersigned guarantees that the retail parcels, packages, or containers of t
 
 The dangerous caustic or corrosive substance or substances listed herein (or specifying the substances) in retail parcels, packages, or containers suitable for household use are for other than household use and are guaranteed not to be misbranded within the meaning of the Federal Caustic Poison Act.
 
-(Name and address of manufactureror wholesaler)
+(Name and address of manufacturer or wholesaler)

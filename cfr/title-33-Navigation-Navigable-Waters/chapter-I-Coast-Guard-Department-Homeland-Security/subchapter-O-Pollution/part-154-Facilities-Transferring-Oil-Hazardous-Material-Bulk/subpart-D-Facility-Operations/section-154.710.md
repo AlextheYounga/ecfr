@@ -28,4 +28,4 @@ No person may serve, and the facility operator may not use the services of a per
 
 (e) Training conducted to comply with the hazard communication programs required by the Occupational Safety and Health Administration (OSHA) of the Department of Labor (DOL) (29 CFR 1910.1200) or the Environmental Protection Agency (EPA) (40 CFR 311.1), or to meet the requirements of subpart F of this part may be used to satisfy the requirements in paragraphs (c) and (d) of this section, as long as the training addresses the requirements in paragraphs (c) and (d) of this section.
 
-(Sec. 311(j)(1)(C) of the Federal Water Pollution Control Act (86 Stat. 816, 868); 33 U.S.C. 1161(j)(1)(C); E.O. 11548, 3 CFR, 1966-1970 Comp., p. 949; 49 CFR 1.46(m))[CGD 71-160R, 37 FR 28253, Dec. 21, 1972, as amended by CGD 86-034, 55 FR 36253, Sept. 4, 1990; CGD 93-056, 61 FR 41460, Aug. 8, 1996]
+(Sec. 311(j)(1)(C) of the Federal Water Pollution Control Act (86 Stat. 816, 868); 33 U.S.C. 1161(j)(1)(C); E.O. 11548, 3 CFR, 1966-1970 Comp., p. 949; 49 CFR 1.46(m)) [CGD 71-160R, 37 FR 28253, Dec. 21, 1972, as amended by CGD 86-034, 55 FR 36253, Sept. 4, 1990; CGD 93-056, 61 FR 41460, Aug. 8, 1996]

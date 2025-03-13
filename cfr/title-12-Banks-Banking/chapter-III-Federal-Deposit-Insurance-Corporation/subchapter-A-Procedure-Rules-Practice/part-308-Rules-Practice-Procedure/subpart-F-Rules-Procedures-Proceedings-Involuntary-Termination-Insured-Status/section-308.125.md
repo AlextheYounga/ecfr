@@ -18,4 +18,4 @@ Notice
 
 3. Insured deposits in the (depository institution) (branch) on the \_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_, will continue to be insured for \_\_\_\_\_\_\_\_\_\_\_\_ after the close of business on the\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_. Provided, however, that any withdrawals after the close of business on the \_\_\_\_\_\_\_\_ day of\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_, will reduce the insurance coverage by the amount of such withdrawals.
 
-(Name of depository institution or branch) (Address)The notification may include any additional information the depository institution deems advisable, provided that the information required by this section shall be set forth in a conspicuous manner on the first page of the notification.
+(Name of depository institution or branch)(Address)The notification may include any additional information the depository institution deems advisable, provided that the information required by this section shall be set forth in a conspicuous manner on the first page of the notification.

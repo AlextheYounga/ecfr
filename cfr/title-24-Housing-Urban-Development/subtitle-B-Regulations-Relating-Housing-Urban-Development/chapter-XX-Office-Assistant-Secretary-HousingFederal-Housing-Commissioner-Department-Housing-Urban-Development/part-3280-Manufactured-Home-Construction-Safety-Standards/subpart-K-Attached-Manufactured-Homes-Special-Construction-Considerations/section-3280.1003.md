@@ -1,6 +1,6 @@
 ##### § 3280.1003 Attached manufactured home unit separation. #####
 
-Link to an amendment published at 89 FR 75757, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75757, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *Separation requirements.* (1) Attached manufactured homes shall be separated from each other by a fire separation wall of not less than 1-hour fire-resistive rating with exposure from both sides on each attached manufactured home unit when rated based on tests in accordance with ASTM E119-05 (incorporated by reference, see § 3280.4).
 

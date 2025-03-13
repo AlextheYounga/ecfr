@@ -36,9 +36,9 @@
 
 (i) The package has a total area of 3 square inches or less available to bear labeling;
 
-(ii) There is insufficient area on the package available to print all required information in a type size of1/16 inch in height;
+(ii) There is insufficient area on the package available to print all required information in a type size of 1/16 inch in height;
 
-(iii) The information required by paragraph (b) of this section appears on the label in accordance with the provisions of this paragraph, except that the type size is not less than1/32 inch in height.
+(iii) The information required by paragraph (b) of this section appears on the label in accordance with the provisions of this paragraph, except that the type size is not less than 1/32 inch in height.
 
 (d)(1) Except as provided by §§ 101.9(j)(13) and (j)(17) and 101.36(i)(2) and (i)(5), all information required to appear on the principal display panel or on the information panel under this section shall appear on the same panel unless there is insufficient space. In determining the sufficiency of the available space, except as provided by §§ 101.9(j)(17) and 101.36(i)(5), any vignettes, designs, and other nonmandatory label information shall not be considered. If there is insufficient space for all of this information to appear on a single panel, it may be divided between these two panels, except that the information required under any given section or part shall all appear on the same panel. A food whose label is required to bear the ingredient statement on the principal display panel may bear all other information specified in paragraph (b) of this section on the information panel.
 

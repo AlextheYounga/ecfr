@@ -35,4 +35,4 @@
 
 (8) The regulations in this section shall be in effect until further notice. They shall be reviewed in 1986.
 
-(Sec. 7, 40 Stat. 266, Chap. XIX, 40 Stat. 892; 33 U.S.C. 1, 3)[31 FR 816, Jan. 21, 1966, as amended at 47 FR 4990, Feb. 3, 1982. Redesignated at 50 FR 42696, Oct. 22, 1985, as amended at 62 FR 17558, Apr. 10, 1997]
+(Sec. 7, 40 Stat. 266, Chap. XIX, 40 Stat. 892; 33 U.S.C. 1, 3) [31 FR 816, Jan. 21, 1966, as amended at 47 FR 4990, Feb. 3, 1982. Redesignated at 50 FR 42696, Oct. 22, 1985, as amended at 62 FR 17558, Apr. 10, 1997]

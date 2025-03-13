@@ -1,6 +1,6 @@
 ##### § 3280.112 Hallways. #####
 
-Link to an amendment published at 89 FR 75744, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75744, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 Hallways shall have a minimum horizontal dimension of 28 inches measured from the interior finished surface to the interior finished surface of the opposite wall. When appliances are installed in a laundry area, the measurement shall be from the front of the appliance to the opposite finished interior surface. When appliances are not installed and a laundry area is provided, the area shall have a minimum clear depth of 27 inches in addition to the 28 inches required for passage. In addition, a notice of the available clearance for washer/dryer units shall be posted in the laundry area. Minor protrusions into the minimum hallway width by doorknobs, trim, smoke alarms or light fixtures are permitted.
 

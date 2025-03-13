@@ -36,7 +36,7 @@
 
 (17) Facility Security Assessment (FSA) report;
 
-(18) Facility Vulnerability and Security Measures Summary (Form CG-6025) available at *https://www.dcms.uscg.mil/forms/*;
+(18) Facility Vulnerability and Security Measures Summary (Form CG-6025) available at *https://www.dcms.uscg.mil/forms/* ;
 
 (19)-(20) [Reserved]
 

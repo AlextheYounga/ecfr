@@ -14,7 +14,7 @@
 
 (6) While the Belt Line Bridge is moving from the full open position to the full closed position, the bridge/train controller will maintain constant surveillance of the navigational channel to ensure no conflict with maritime traffic exists. In the event of failure of a camera or the radar system, or loss of marine-radio communications, the bridge shall not be operated by the off-site bridge/train controller from the remote location.
 
-(7) If the off-site bridge/train controller's visibility of the navigational channel is less than3/4 of a mile, the bridge shall not be operated from the remote location.
+(7) If the off-site bridge/train controller's visibility of the navigational channel is less than 3/4 of a mile, the bridge shall not be operated from the remote location.
 
 (8) When the draw cannot be operated from the remote site, a bridgetender must be called to operate the bridge in the traditional on-site manner.
 
@@ -90,4 +90,4 @@
 
 (5) Shall open on signal at all other times.
 
-[CGD 82-025, 49 FR 17452, Apr. 24, 1984]Editorial Note:For Federal Register citations affecting § 117.997, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[CGD 82-025, 49 FR 17452, Apr. 24, 1984] Editorial Note:For Federal Register citations affecting § 117.997, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

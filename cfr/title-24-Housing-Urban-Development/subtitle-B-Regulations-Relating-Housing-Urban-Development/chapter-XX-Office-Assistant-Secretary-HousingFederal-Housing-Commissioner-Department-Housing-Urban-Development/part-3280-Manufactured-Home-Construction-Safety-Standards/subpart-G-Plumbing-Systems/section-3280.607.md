@@ -1,6 +1,6 @@
 ##### § 3280.607 Plumbing fixtures. #####
 
-Link to an amendment published at 89 FR 75752, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75752, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *General requirements*—(1) *Quality of fixtures.* Plumbing fixtures shall have smooth impervious surfaces, be free from defects and concealed fouling surfaces, be capable of resisting road shock and vibration, and shall conform in quality and design to listed standards. Fixtures shall be permanently marked with the manufacturer's name or trademark.
 

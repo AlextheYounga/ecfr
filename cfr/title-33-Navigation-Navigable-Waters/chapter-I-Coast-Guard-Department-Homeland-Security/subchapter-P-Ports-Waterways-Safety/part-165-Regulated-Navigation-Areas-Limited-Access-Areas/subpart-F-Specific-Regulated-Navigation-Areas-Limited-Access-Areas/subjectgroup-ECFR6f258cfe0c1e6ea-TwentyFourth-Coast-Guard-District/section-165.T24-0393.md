@@ -1,5 +1,7 @@
 ##### § 165.T24-0393 Regulated navigation area; Irishtown Bend Construction, Cuyahoga River, Cleveland, OH. #####
 
+Link to an amendment published at 90 FR 10596, Feb. 25, 2025.
+
 (a) *Location.* The following area is a Regulated Navigation Area (RNA): All navigable waters of the Cuyahoga River between the Detroit-Superior Bridge in position 41°29′37″ N, 081°42′13″ W (NAD 83) and the Columbus Road Bridge in position 41°29′17″ N, 081°42′01″ W (NAD 83), from surface to bottom, during the time of enforcement described in paragraph (d) of this section.
 
 (b) *Definition.* As used in this section, “o*n-scene representative”* of the Captain of the Port Eastern Great Lakes (COTP) is any Coast Guard commissioned, warrant or petty officer who has been designated by the COTP to act on the COTP's behalf. The on-scene representative may be on a Coast Guard vessel, other designated craft, or on shore and communicating with vessels via VHF-FM radio or loudhailer.

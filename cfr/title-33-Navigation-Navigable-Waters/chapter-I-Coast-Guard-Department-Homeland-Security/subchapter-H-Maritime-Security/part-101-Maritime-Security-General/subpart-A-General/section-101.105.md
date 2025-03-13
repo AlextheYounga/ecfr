@@ -252,4 +252,4 @@ Unless otherwise specified, as used in this subchapter:
 
 *Waters subject to the jurisdiction of the U.S.,* for purposes of this subchapter, includes all waters described in section 2.36(a) of this chapter; the Exclusive Economic Zone, in respect to the living and non-living resources therein; and, in respect to facilities located on the Outer Continental Shelf of the U.S., the waters superjacent thereto.
 
-[USCG-2003-14792, 68 FR 39278, July 1, 2003]Editorial Note:For Federal Register citations affecting § 101.105, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[USCG-2003-14792, 68 FR 39278, July 1, 2003] Editorial Note:For Federal Register citations affecting § 101.105, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

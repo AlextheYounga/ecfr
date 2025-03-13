@@ -14,7 +14,7 @@ A skin protectant drug product may have more than one labeled use and labeling a
 
 (b) *Indications.* The labeling of the product states, under the heading “Uses,” one or more of the phrases listed in this paragraph (b), as appropriate. Other truthful and nonmisleading statements, describing only the uses that have been established and listed in this paragraph (b), may also be used, as provided in § 330.1(c)(2) of this chapter, subject to the provisions of section 502 of the Federal Food, Drug, and Cosmetic Act (the act) relating to misbranding and the prohibition in section 301(d) of the act against the introduction or delivery for introduction into interstate commerce of unapproved new drugs in violation of section 505(a) of the act.
 
-(1) *For products containing any ingredient in § 347.10(a), (d), (e), (i), (k), (l), (m), and (r).* The labeling states “temporarily protects minor: [bullet]1 cuts [bullet] scrapes [bullet] burns”.
+(1) *For products containing any ingredient in § 347.10(a), (d), (e), (i), (k), (l), (m), and (r).* The labeling states “temporarily protects minor: [bullet] 1 cuts [bullet] scrapes [bullet] burns”.
 
 1*See* § 201.66(b)(4) of this chapter for definition of bullet symbol.
 

@@ -14,8 +14,7 @@
 
 (iv) By mail, addressed to—
 
-Director, National Pollution Funds Center, ATTN: VESSEL CERTIFICATION, U.S. Coast Guard Stop 7605, 2703 Martin Luther King Jr. Ave. SE,
-Washington, DC 20593-7605.
+Director, National Pollution Funds Center, ATTN: VESSEL CERTIFICATION, U.S. Coast Guard Stop 7605, 2703 Martin Luther King Jr. Ave. SE, Washington, DC 20593-7605.
 
 (2) Submissions may not be hand delivered to the NPFC.
 

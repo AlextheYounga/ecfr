@@ -2,11 +2,11 @@
 
 (a) *The anchorage grounds*—(1) *Commercial Anchorage A.* This anchorage is located adjacent to the western edge of Folly Island Channel and southwest of Rebellion Reach and is bounded by the following coordinates:
 
-32°45′34″ N., 79°52′12″ W.; to32°46′17″ N., 79°53′21″ W.; to32°45′51″ N., 79°53′23″ W.; to32°45′34″ N., 79°52′55″ W.; thence back to32°45′34″ N., 79°52′12″ W.
+32°45′34″ N., 79°52′12″ W.; to 32°46′17″ N., 79°53′21″ W.; to 32°45′51″ N., 79°53′23″ W.; to 32°45′34″ N., 79°52′55″ W.; thence back to 32°45′34″ N., 79°52′12″ W.
 
 (2) *Commercial Anchorage B.* This anchorage is located adjacent to the south side of South Channel and bounded by the following coordinates:
 
-32°45′28″ N., 79°53′40″ W.; to32°45′28″ N., 79°54′46″ W.; to32°45′19″ N., 79°54′46″ W.; to32°45′12″ N., 79°54′06″ W.; to32°45′16″ N., 79°53′40″ W.; thence back to32°45′28″ N., 79°53′40″ W.
+32°45′28″ N., 79°53′40″ W.; to 32°45′28″ N., 79°54′46″ W.; to 32°45′19″ N., 79°54′46″ W.; to 32°45′12″ N., 79°54′06″ W.; to 32°45′16″ N., 79°53′40″ W.; thence back to 32°45′28″ N., 79°53′40″ W.
 
 (3) *Commercial Anchorage C.* This anchorage is located 1800 yards, 118° true from St. Michaels Church Spire and has a diameter of 500 yards. Vessels using this anchorage must anchor in the center.
 

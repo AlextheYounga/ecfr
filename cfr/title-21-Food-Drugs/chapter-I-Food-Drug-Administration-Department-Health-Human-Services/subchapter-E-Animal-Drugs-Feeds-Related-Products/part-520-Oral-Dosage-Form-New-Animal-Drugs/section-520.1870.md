@@ -12,7 +12,7 @@
 
 (2) Nos. 069043 and 086101 for use of product described in paragraph (a)(1) of this section as in paragraphs (c)(1) of this section.
 
-(c) *Conditions of use*—(1) *Dogs*—(i) *Amount.* 5 pounds (lb) and under,1/2 tablet (17 mg); 6 to 10 lb, 1 tablet (34 mg); 11 to 15 lb, 11/2 tablets (51 mg); 16 to 30 lb, 2 tablets (68 mg); 31 to 45 lb, 3 tablets (102 mg); 46 to 60 lb, 4 tablets (136 mg); over 60 lb, 5 tablets maximum (170 mg). Administer directly by mouth or crumbled and in feed.
+(c) *Conditions of use*—(1) *Dogs*—(i) *Amount.* 5 pounds (lb) and under, 1/2 tablet (17 mg); 6 to 10 lb, 1 tablet (34 mg); 11 to 15 lb, 11/2 tablets (51 mg); 16 to 30 lb, 2 tablets (68 mg); 31 to 45 lb, 3 tablets (102 mg); 46 to 60 lb, 4 tablets (136 mg); over 60 lb, 5 tablets maximum (170 mg). Administer directly by mouth or crumbled and in feed.
 
 (ii) *Indications for use*—(A) For removal of canine cestodes *Dipylidium caninum* and *Taenia pisiformis.*
 

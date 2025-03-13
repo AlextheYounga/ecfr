@@ -14,7 +14,7 @@ The provisions of this section apply to equipment for radiography, except equipm
 
 (i) Indication shall be made on the control panel when this mode of operation is selected;
 
-(ii) When the x-ray tube potential is equal to or greater than 51 kilovolts peak (kVp), the minimum exposure time for field emission equipment rated for pulsed operation shall be equal to or less than a time interval equivalent to two pulses and the minimum exposure time for all other equipment shall be equal to or less than1/60 second or a time interval required to deliver 5 milliampere-seconds (mAs), whichever is greater;
+(ii) When the x-ray tube potential is equal to or greater than 51 kilovolts peak (kVp), the minimum exposure time for field emission equipment rated for pulsed operation shall be equal to or less than a time interval equivalent to two pulses and the minimum exposure time for all other equipment shall be equal to or less than 1/60 second or a time interval required to deliver 5 milliampere-seconds (mAs), whichever is greater;
 
 (iii) Either the product of peak x-ray tube potential, current, and exposure time shall be limited to not more than 60 kilowatt-seconds (kWs) per exposure or the product of x-ray tube current and exposure time shall be limited to not more than 600 mAs per exposure, except when the x-ray tube potential is less than 51 kVp, in which case the product of x-ray tube current and exposure time shall be limited to not more than 2,000 mAs per exposure; and
 

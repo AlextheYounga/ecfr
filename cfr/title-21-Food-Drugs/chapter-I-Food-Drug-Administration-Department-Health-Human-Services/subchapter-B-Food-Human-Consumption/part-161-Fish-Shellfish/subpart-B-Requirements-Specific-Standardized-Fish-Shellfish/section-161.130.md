@@ -10,6 +10,6 @@
 
 (2) *Thoroughly drained* means one of the following:
 
-(i) The oysters are drained on a strainer or skimmer which has an area of not less than 300 square inches per gallon of oysters, drained, and has perforations of at least1/4 of an inch in diameter and not more than 11/4 inches apart, or perforations of equivalent areas and distribution. The oysters are distributed evenly over the draining surface of the skimmer and drained for not less than 5 minutes; or
+(i) The oysters are drained on a strainer or skimmer which has an area of not less than 300 square inches per gallon of oysters, drained, and has perforations of at least 1/4 of an inch in diameter and not more than 11/4 inches apart, or perforations of equivalent areas and distribution. The oysters are distributed evenly over the draining surface of the skimmer and drained for not less than 5 minutes; or
 
 (ii) The oysters are drained by any method other than that prescribed by paragraph (c)(2)(i) of this section whereby liquid from the oysters is removed so that when the oysters are tested within 15 minutes after packing by draining a representative gallon of oysters on a skimmer of the dimensions and in the manner described in paragraph (c)(2)(i) of this section for 2 minutes, not more than 5 percent of liquid by weight is removed by such draining.

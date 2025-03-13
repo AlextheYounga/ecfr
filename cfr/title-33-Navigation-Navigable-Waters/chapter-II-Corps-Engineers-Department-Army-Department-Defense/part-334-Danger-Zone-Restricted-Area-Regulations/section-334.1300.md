@@ -10,4 +10,4 @@
 
 (4) The regulations in this section shall be enforced by the Commander, Alaskan Air Command, U.S. Air Force, Anchorage, Alaska, or such agencies as he may designate.
 
-(Sec. 7, 40 Stat. 266; 33 U.S.C. 1)[37 FR 527, Jan. 13, 1972. Redesignated at 50 FR 42696, Oct. 22, 1985]
+(Sec. 7, 40 Stat. 266; 33 U.S.C. 1) [37 FR 527, Jan. 13, 1972. Redesignated at 50 FR 42696, Oct. 22, 1985]

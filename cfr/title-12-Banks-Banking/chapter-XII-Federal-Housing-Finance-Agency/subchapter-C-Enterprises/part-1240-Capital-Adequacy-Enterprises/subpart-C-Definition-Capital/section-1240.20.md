@@ -68,7 +68,7 @@
 
 (B) The Enterprise does not create at issuance of the instrument, through any action or communication, an expectation that the call option will be exercised.
 
-(C) Prior to exercising the call option, or immediately thereafter, the Enterprise must either: Replace the instrument to be called with an equal amount of instruments that meet the criteria under paragraph (b) of this section or this paragraph (c); 2 or demonstrate to the satisfaction of FHFA that following redemption, the Enterprise will continue to hold capital commensurate with its risk.
+(C) Prior to exercising the call option, or immediately thereafter, the Enterprise must either: Replace the instrument to be called with an equal amount of instruments that meet the criteria under paragraph (b) of this section or this paragraph (c);2 or demonstrate to the satisfaction of FHFA that following redemption, the Enterprise will continue to hold capital commensurate with its risk.
 
 2 Replacement can be concurrent with redemption of existing additional tier 1 capital instruments.
 
@@ -114,7 +114,7 @@
 
 (B) The Enterprise does not create at issuance, through action or communication, an expectation the call option will be exercised.
 
-(C) Prior to exercising the call option, or immediately thereafter, the Enterprise must either: Replace any amount called with an equivalent amount of an instrument that meets the criteria for regulatory capital under this section; 5 or demonstrate to the satisfaction of FHFA that following redemption, the Enterprise would continue to hold an amount of capital that is commensurate with its risk.
+(C) Prior to exercising the call option, or immediately thereafter, the Enterprise must either: Replace any amount called with an equivalent amount of an instrument that meets the criteria for regulatory capital under this section;5 or demonstrate to the satisfaction of FHFA that following redemption, the Enterprise would continue to hold an amount of capital that is commensurate with its risk.
 
 5 An Enterprise may replace tier 2 capital instruments concurrent with the redemption of existing tier 2 capital instruments.
 

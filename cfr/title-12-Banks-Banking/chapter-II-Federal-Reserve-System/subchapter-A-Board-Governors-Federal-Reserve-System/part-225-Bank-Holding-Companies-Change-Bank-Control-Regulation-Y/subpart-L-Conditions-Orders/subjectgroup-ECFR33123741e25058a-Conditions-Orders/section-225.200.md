@@ -6,15 +6,15 @@
 
 (1) *Capital.* (i) A bank holding company shall maintain adequate capital on a fully consolidated basis. If operating a section 20 authorized to underwrite and deal in all types of debt and equity securities, a bank holding company shall maintain strong capital on a fully consolidated basis.
 
-(ii) In the event that a bank or thrift affiliate of a section 20 subsidiary shall become less than well capitalized (as defined in section 38 of the Federal Deposit Insurance Act, 12 U.S.C. 1831o), and the bank holding company shall fail to restore it promptly to the well capitalized level, the Board may, in its discretion, reimpose the funding, credit extension and credit enhancement firewalls contained in its 1989 order allowing underwriting and dealing in bank-ineligible securities, 1 or order the bank holding company to divest the section 20 subsidiary.
+(ii) In the event that a bank or thrift affiliate of a section 20 subsidiary shall become less than well capitalized (as defined in section 38 of the Federal Deposit Insurance Act, 12 U.S.C. 1831o), and the bank holding company shall fail to restore it promptly to the well capitalized level, the Board may, in its discretion, reimpose the funding, credit extension and credit enhancement firewalls contained in its 1989 order allowing underwriting and dealing in bank-ineligible securities,1 or order the bank holding company to divest the section 20 subsidiary.
 
 1 Firewalls 5-8, 19, 21 and 22 of *J.P. Morgan & Co., The Chase Manhattan Corp., Bankers Trust New York Corp., Citicorp, and Security Pacific Corp.,* 75 Federal Reserve Bulletin 192, 214-16 (1989).
 
-(iii) A foreign bank that operates a branch or agency in the United States shall maintain strong capital on a fully consolidated basis at levels above the minimum levels required by the Basle Capital Accord. In the event that the Board determines that the foreign bank's capital has fallen below these levels and the foreign bank fails to restore its capital position promptly, the Board may, in its discretion, reimpose the funding, credit extension and credit enhancement firewalls contained in its 1990 order allowing foreign banks to underwrite and deal in bank-ineligible securities, 2 or order the foreign bank to divest the section 20 subsidiary.
+(iii) A foreign bank that operates a branch or agency in the United States shall maintain strong capital on a fully consolidated basis at levels above the minimum levels required by the Basle Capital Accord. In the event that the Board determines that the foreign bank's capital has fallen below these levels and the foreign bank fails to restore its capital position promptly, the Board may, in its discretion, reimpose the funding, credit extension and credit enhancement firewalls contained in its 1990 order allowing foreign banks to underwrite and deal in bank-ineligible securities,2 or order the foreign bank to divest the section 20 subsidiary.
 
 2 Firewalls 5-8, 19, 21 and 22 of *Canadian Imperial Bank of Commerce, The Royal Bank of Canada, Barclays PLC and Barclays Bank PLC,* 76 Federal Reserve Bulletin 158, (1990).
 
-(2) *Internal controls.* (i) Each bank holding company or foreign bank shall cause its subsidiary banks, thrifts, branches or agencies 3 to adopt policies and procedures, including appropriate limits on exposure, to govern their participation in transactions underwritten or arranged by a section 20 affiliate.
+(2) *Internal controls.* (i) Each bank holding company or foreign bank shall cause its subsidiary banks, thrifts, branches or agencies3 to adopt policies and procedures, including appropriate limits on exposure, to govern their participation in transactions underwritten or arranged by a section 20 affiliate.
 
 3 The terms “branch” and “agency” refer to a U.S. branch and agency of a foreign bank.
 
@@ -26,7 +26,7 @@
 
 (iii) For purposes of this standard, the manager of a branch or agency of a foreign bank generally will be considered to be the chief executive officer of the branch or agency.
 
-(4) *Customer disclosure*—(i) *Disclosure to section 20 customers.* A section 20 subsidiary shall provide, in writing, to each of its retail customers, 4 at the time an investment account is opened, the same minimum disclosures, and obtain the same customer acknowledgment, described in the Interagency Statement on Retail Sales of Nondeposit Investment Products (Statement) as applicable in such situations. These disclosures must be provided regardless of whether the section 20 subsidiary is itself engaged in activities through arrangements with a bank that is covered by the Statement.
+(4) *Customer disclosure*—(i) *Disclosure to section 20 customers.* A section 20 subsidiary shall provide, in writing, to each of its retail customers,4 at the time an investment account is opened, the same minimum disclosures, and obtain the same customer acknowledgment, described in the Interagency Statement on Retail Sales of Nondeposit Investment Products (Statement) as applicable in such situations. These disclosures must be provided regardless of whether the section 20 subsidiary is itself engaged in activities through arrangements with a bank that is covered by the Statement.
 
 4 For purposes of this operating standard, a retail customer is any customer that is not an “accredited investor” as defined in 17 CFR 230.501(a).
 

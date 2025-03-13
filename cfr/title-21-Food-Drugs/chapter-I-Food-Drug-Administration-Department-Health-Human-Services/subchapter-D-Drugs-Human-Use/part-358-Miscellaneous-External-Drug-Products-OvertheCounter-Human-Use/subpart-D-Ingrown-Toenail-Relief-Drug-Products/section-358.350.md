@@ -8,7 +8,7 @@
 
 (1) “For external use only” in accord with § 201.66(c)(5)(i) of this chapter.
 
-(2) “Do not use [bullet]1 on open sores”.
+(2) “Do not use [bullet] 1 on open sores”.
 
 1 See § 201.66(b)(4) of this chapter for definition of bullet.
 

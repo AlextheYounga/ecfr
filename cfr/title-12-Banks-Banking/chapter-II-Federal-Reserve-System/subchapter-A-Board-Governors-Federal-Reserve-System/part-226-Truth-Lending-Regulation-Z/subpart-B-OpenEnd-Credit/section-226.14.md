@@ -1,6 +1,6 @@
 ##### § 226.14 Determination of annual percentage rate. #####
 
-(a) *General rule.* The annual percentage rate is a measure of the cost of credit, expressed as a yearly rate. An annual percentage rate shall be considered accurate if it is not more than 1/8th of 1 percentage point above or below the annual percentage rate determined in accordance with this section.31a An error in disclosure of the annual percentage rate or finance charge shall not, in itself, be considered a violation of this regulation if:
+(a) *General rule.* The annual percentage rate is a measure of the cost of credit, expressed as a yearly rate. An annual percentage rate shall be considered accurate if it is not more than1/8th of 1 percentage point above or below the annual percentage rate determined in accordance with this section.31a An error in disclosure of the annual percentage rate or finance charge shall not, in itself, be considered a violation of this regulation if:
 
 31a [Reserved]
 
@@ -18,7 +18,7 @@
 
 (ii) By dividing the total finance charge for the billing cycle by the sum of the balances to which the periodic rates were applied and multiplying the quotient (expressed as a percentage) by the number of billing cycles in a year.
 
-(2) *Minimum or fixed charge, but not transaction charge, imposed.* If the finance charge imposed during the billing cycle is or includes a minimum, fixed, or other charge not due to the application of a periodic rate, other than a charge with respect to any specific transaction during the billing cycle, by dividing the total finance charge for the billing cycle by the amount of the balance(s) to which it is applicable 32 and multiplying the quotient (expressed as a percentage) by the number of billing cycles in a year.33 If there is no balance to which the finance charge is applicable, an annual percentage rate cannot be determined under this section. Where the finance charge imposed during the billing cycle is or includes a loan fee, points, or similar charge that relates to opening, renewing, or continuing an account, the amount of such charge shall not be included in the calculation of the annual percentage rate.
+(2) *Minimum or fixed charge, but not transaction charge, imposed.* If the finance charge imposed during the billing cycle is or includes a minimum, fixed, or other charge not due to the application of a periodic rate, other than a charge with respect to any specific transaction during the billing cycle, by dividing the total finance charge for the billing cycle by the amount of the balance(s) to which it is applicable32 and multiplying the quotient (expressed as a percentage) by the number of billing cycles in a year.33 If there is no balance to which the finance charge is applicable, an annual percentage rate cannot be determined under this section. Where the finance charge imposed during the billing cycle is or includes a loan fee, points, or similar charge that relates to opening, renewing, or continuing an account, the amount of such charge shall not be included in the calculation of the annual percentage rate.
 
 32 [Reserved]
 

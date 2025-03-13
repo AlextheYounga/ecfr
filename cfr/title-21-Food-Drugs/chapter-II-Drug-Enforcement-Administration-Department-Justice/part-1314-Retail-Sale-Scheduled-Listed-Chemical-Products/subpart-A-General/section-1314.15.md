@@ -10,4 +10,4 @@
 
 (e) A suggested format for the report is provided below:
 
-Regulated PersonRegistration number (if applicable)NameBusiness addressCityStateZipBusiness phoneDate of lossType of lossDescription of circumstances
+Regulated Person Registration number (if applicable) Name Business address City State Zip Business phone Date of loss Type of loss Description of circumstances

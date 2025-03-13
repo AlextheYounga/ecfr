@@ -4,7 +4,7 @@
 
 (b) *Sponsor.* See No. 000061 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use*—(1) *Amount.* Apply a1/4-inch strip of ointment directly on the cornea or into the conjunctival sac of the affected eye(s) every 12 hours.
+(c) *Conditions of use*—(1) *Amount.* Apply a 1/4-inch strip of ointment directly on the cornea or into the conjunctival sac of the affected eye(s) every 12 hours.
 
 (2) *Indications for use.* For management of chronic keratoconjunctivitis sicca (KCS) and chronic superficial keratitis (CSK) in dogs.
 

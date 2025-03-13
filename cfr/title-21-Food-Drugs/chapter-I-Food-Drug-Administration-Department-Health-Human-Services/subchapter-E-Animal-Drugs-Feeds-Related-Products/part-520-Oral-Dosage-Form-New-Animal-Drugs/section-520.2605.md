@@ -16,7 +16,7 @@
 
 (iii) For dogs weighing 21 to 40 pounds, two Capsule No. 2 or four Capsule No. 1; and
 
-(iv) For dogs weighing over 40 pounds, three Capsule No. 2 or six Capsule No. 1. After 4 days, the dosage is reduced to approximately1/2 the initial dosage or to an amount just sufficient to maintain remission of symptoms.
+(iv) For dogs weighing over 40 pounds, three Capsule No. 2 or six Capsule No. 1. After 4 days, the dosage is reduced to approximately 1/2 the initial dosage or to an amount just sufficient to maintain remission of symptoms.
 
 (2) *Indications for use.* For the relief of itching regardless of cause; and for reduction of inflammation commonly associated with most skin disorders of dogs such as eczema, caused by internal disorders, otitis, and dermatitis, allergic, parasitic, pustular and nonspecific. As adjunctive therapy in various cough conditions including treatment of “kennel cough” or tracheobronchitis, bronchitis including allergic bronchitis, in tonsillitis, acute upper respiratory infections and coughs of nonspecific origin.
 

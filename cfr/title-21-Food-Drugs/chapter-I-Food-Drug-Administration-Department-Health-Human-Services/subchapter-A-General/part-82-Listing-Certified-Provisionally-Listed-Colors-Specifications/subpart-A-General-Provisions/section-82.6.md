@@ -6,7 +6,7 @@
 
 (2) Each diluent in such batch of mixture is harmless and suitable for use therein; and
 
-(3) No diluent (except resins, natural gum, pectin and, in the case of mixtures which are aqueous solutions or aqueous pastes, sodium benzoate in a quantity of not more than1/10 of 1 percent) in such mixture is a nonnutritive substance, unless such mixture is for external application to shell eggs, or for use in coloring a food specified in the requests for certification of such batch submitted in accordance with § 80.21 of this chapter, and such diluent, in the usual process of manufacturing such food, is removed and does not become a component of such food.
+(3) No diluent (except resins, natural gum, pectin and, in the case of mixtures which are aqueous solutions or aqueous pastes, sodium benzoate in a quantity of not more than 1/10 of 1 percent) in such mixture is a nonnutritive substance, unless such mixture is for external application to shell eggs, or for use in coloring a food specified in the requests for certification of such batch submitted in accordance with § 80.21 of this chapter, and such diluent, in the usual process of manufacturing such food, is removed and does not become a component of such food.
 
 (b) A batch of a mixture which contains no straight color listed in subpart D, or which contains a diluent not permitted by paragraph (a)(3) of this section, may be certified in accordance with the provisions of this part, for use only in drugs and cosmetics, if:
 

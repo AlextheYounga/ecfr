@@ -1,6 +1,6 @@
 ##### § 144.01-10 Equipment for life floats. #####
 
-(a) Each lifefloat shall be provided with a painter. This painter shall be a manila rope not less than 23/4 inches in circumference and of a length not less than three times the distance from the deck where the lifefloat is stowed to the low water line. Alternatively, the painter may be of other material provided it has equal strength to the size of manila rope specified and is not less than1/2 inch in diameter.
+(a) Each lifefloat shall be provided with a painter. This painter shall be a manila rope not less than 23/4 inches in circumference and of a length not less than three times the distance from the deck where the lifefloat is stowed to the low water line. Alternatively, the painter may be of other material provided it has equal strength to the size of manila rope specified and is not less than 1/2 inch in diameter.
 
 (b) Each life float must have a water light of an approved automatic electric type constructed in accordance with 46 CFR Subpart 161.010, except a water light constructed in accordance with former 46 CFR Subpart 161.001 that was installed before January 1, 1972, may be retained in an existing installation as long as it is maintained in good condition. The water light must be attached to the life float by a 12-thread manila or equivalent synthetic lanyard not less than 2 meters (6 feet) nor more than 4 meters (12 feet) in length. The water light must be mounted on a bracket so that when the life float is launched, the water light will pull free of the bracket.
 

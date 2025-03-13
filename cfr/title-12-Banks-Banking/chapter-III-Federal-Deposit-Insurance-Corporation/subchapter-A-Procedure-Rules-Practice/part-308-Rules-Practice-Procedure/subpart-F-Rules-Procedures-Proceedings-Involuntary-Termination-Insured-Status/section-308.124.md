@@ -12,4 +12,4 @@ Notice
 
 The status of the \_\_\_\_\_\_\_\_\_\_, as an (insured depository institution) (insured branch) under the Federal Deposit Insurance Act, will terminate on the \_\_\_\_\_\_\_\_ day of\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_, and its deposits will thereupon cease to be insured.
 
-(Name of depository institution or branch) (Address)The notification may include any additional information the depository institution deems advisable, provided that the information required by this section shall be set forth in a conspicuous manner on the first page of the notification.
+(Name of depository institution or branch)(Address)The notification may include any additional information the depository institution deems advisable, provided that the information required by this section shall be set forth in a conspicuous manner on the first page of the notification.

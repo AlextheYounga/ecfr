@@ -1,6 +1,6 @@
 ##### § 3280.2 Definitions. #####
 
-Link to an amendment published at 89 FR 75737, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75737, Sept. 16, 2024.The above amendment was delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 Definitions in this subpart are those common to all subparts of the standard and are in addition to the definitions provided in individual parts. The definitions are as follows:
 

@@ -30,9 +30,9 @@ DIPHEMANIL METHYLSULFATE FOR EXTERNAL USE. (See § 310.201(a)(22) of this chapte
 
 DRUGS IN DISPENSERS PRESSURIZED BY GASEOUS PROPELLANTS. (See also § 310.201(a) (11) and (18) of this chapter.)
 
-The warnings herein shall appear prominently and conspicuously, but in no case may the letters be less than1/16 inch in height.
+The warnings herein shall appear prominently and conspicuously, but in no case may the letters be less than 1/16 inch in height.
 
-If the label of any package is too small to accommodate the warnings, the Commissioner may establish by regulation an acceptable alternative method, e.g., a type size smaller than1/16 inch in height. A petition requesting such a regulation, as an amendment to this paragraph, shall be submitted to the Dockets Management Staff in the form established in part 10 of this chapter.
+If the label of any package is too small to accommodate the warnings, the Commissioner may establish by regulation an acceptable alternative method, e.g., a type size smaller than 1/16 inch in height. A petition requesting such a regulation, as an amendment to this paragraph, shall be submitted to the Dockets Management Staff in the form established in part 10 of this chapter.
 
 *Warning*—Avoid spraying in eyes. Contents under pressure. Do not puncture or incinerate. Do not store at temperature above 120 °F. Keep out of reach of children.
 
@@ -52,7 +52,7 @@ The warning is not required for the following products:
 
 (c) Products of a net quantity of contents of less than 2 ozs. that are designed to release a measured amount of product with each valve actuation;
 
-(d) Products of a net quantity of contents of less than1/2 oz.
+(d) Products of a net quantity of contents of less than 1/2 oz.
 
 DYCLONINE HYDROCHLORIDE. (See § 310.201(a)(23) of this chapter.)
 

@@ -1,6 +1,6 @@
 ##### § 3286.209 Denial, suspension, or revocation of installation license. #####
 
-Link to an amendment published at 89 FR 75759, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75759, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *Oversight.* The Secretary may make a continuing evaluation of the manner in which each licensed installer is carrying out his or her responsibilities under this subpart C.
 

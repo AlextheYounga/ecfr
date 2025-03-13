@@ -16,7 +16,7 @@
 
 (3) Four barrels if it serves one or more hoses of 12-inch inside diameter or larger, or loading arms of 12-inch nominal pipe size diameter or larger.
 
-(c) The facility may use portable means of not less than1/2 barrel capacity each to meet the requirements of paragraph (a) of this section for part or all of the facility if the COTP finds that fixed means to contain oil or hazardous material discharges are not feasible.
+(c) The facility may use portable means of not less than 1/2 barrel capacity each to meet the requirements of paragraph (a) of this section for part or all of the facility if the COTP finds that fixed means to contain oil or hazardous material discharges are not feasible.
 
 (d) A mobile facility may have portable means of not less than five gallons capacity to meet the requirements of paragraph (a) of this section.
 

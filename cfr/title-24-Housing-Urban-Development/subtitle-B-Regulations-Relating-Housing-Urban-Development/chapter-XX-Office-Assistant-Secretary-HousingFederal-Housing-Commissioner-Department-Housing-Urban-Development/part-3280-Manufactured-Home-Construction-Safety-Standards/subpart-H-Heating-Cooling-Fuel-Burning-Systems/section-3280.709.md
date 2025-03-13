@@ -1,6 +1,6 @@
 ##### § 3280.709 Installation of appliances. #####
 
-Link to an amendment published at 89 FR 75755, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75755, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) The installation of each appliance must conform to the terms of its listing and the manufacturer's instructions. The manufactured home manufacturer must leave the appliance manufacturer's instructions attached to the appliance. Every appliance must be secured in place to avoid displacement. For the purpose of servicing and replacement, each appliance must be both accessible and removable.
 

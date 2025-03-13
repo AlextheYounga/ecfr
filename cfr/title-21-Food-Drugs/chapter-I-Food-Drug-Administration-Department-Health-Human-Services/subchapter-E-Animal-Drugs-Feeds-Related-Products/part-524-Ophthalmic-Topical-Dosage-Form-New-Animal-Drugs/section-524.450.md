@@ -4,7 +4,7 @@
 
 (b) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use*—(1) *Amount.* Apply1/4-inch ribbon of cream per square inch of lesion once daily for 2 to 4 weeks.
+(c) *Conditions of use*—(1) *Amount.* Apply 1/4-inch ribbon of cream per square inch of lesion once daily for 2 to 4 weeks.
 
 (2) *Indications of use.* For the treatment of fungal infections of dogs and cats caused by *Microsporum canis* and *Trichophyton mentagrophytes.*
 

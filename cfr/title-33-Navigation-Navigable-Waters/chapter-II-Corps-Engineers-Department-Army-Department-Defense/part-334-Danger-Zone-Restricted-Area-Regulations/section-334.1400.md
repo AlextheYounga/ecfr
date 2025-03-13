@@ -18,4 +18,4 @@
 
 (4) The regulations in this section shall be enforced by the Officer in Charge, Fleet Area Control and Surveillance Facility, Pearl Harbor, Hawaii 96860-7625, and such agencies as he/she may designate.
 
-(Sec. 3012, 70A Stat. 157; 10 U.S.C. 3012)[36 FR 14186, July 31, 1971, as amended at 45 FR 57126, Aug. 27, 1980. Redesignated at 50 FR 42696, Oct. 22, 1985, and amended at 58 FR 53427, Oct. 15, 1993]
+(Sec. 3012, 70A Stat. 157; 10 U.S.C. 3012) [36 FR 14186, July 31, 1971, as amended at 45 FR 57126, Aug. 27, 1980. Redesignated at 50 FR 42696, Oct. 22, 1985, and amended at 58 FR 53427, Oct. 15, 1993]

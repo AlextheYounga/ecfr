@@ -120,7 +120,7 @@ Except as modified in this regulation or unless the context otherwise requires, 
 
 (3) *Class of voting shares.* Shares of stock issued by a single issuer are deemed to be the same class of voting shares, regardless of differences in dividend rights or liquidation preference, if the shares are voted together as a single class on all matters for which the shares have voting rights other than matters described in paragraph (o)(2)(i) of this section that affect solely the rights or preferences of the shares.
 
-(r) *Well-capitalized*—(1) *Bank holding company.* In the case of a bank holding company, 1*well-capitalized* means that:
+(r) *Well-capitalized*—(1) *Bank holding company.* In the case of a bank holding company,1*well-capitalized* means that:
 
 1 For purposes of this subpart and subparts B and C of this part, a bank holding company that is subject to the Small Bank Holding Company and Savings and Loan Holding Company Policy Statement in appendix C of this part will be deemed to be “well-capitalized” if the bank holding company meets the requirements for expedited/waived processing in appendix C.
 

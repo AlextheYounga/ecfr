@@ -8,7 +8,7 @@
 
 (3) Except as provided in paragraph (c) of this section, bear the following text:
 
-WarningDangerous CargoNo visitorsNo SmokingNo Open Lights
+Warning Dangerous CargoNo visitorsNo SmokingNo Open Lights
 
 (b) Each letter on the sign must be—
 

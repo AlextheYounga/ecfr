@@ -98,4 +98,4 @@
 
 (iii) The drug should be fed early in the spring or fall and consumed by the bees before main honey flow begins to avoid contamination of production honey. Remove at least 6 weeks prior to main honey flow. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[40 FR 13838, Mar. 27, 1975]Editorial Note:For Federal Register citations affecting § 520.1660d, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[40 FR 13838, Mar. 27, 1975] Editorial Note:For Federal Register citations affecting § 520.1660d, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

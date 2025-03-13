@@ -4,7 +4,7 @@
 
 (b) *Specifications.* The additive shall conform to the following percent-by-weight specifications:
 
-Moisture, not less than 45 percent nor more than 50 percent.Protein, not less than 24 percent.Salt (NaCl), not more than 15 percent.Phosphorus, not less than 2.25 percent.
+Moisture, not less than 45 percent nor more than 50 percent. Protein, not less than 24 percent. Salt (NaCl), not more than 15 percent. Phosphorus, not less than 2.25 percent.
 
 (c) *Uses.* It is used or intended for use as a source of animal protein, phosphorus, and salt (NaCl) as follows:
 

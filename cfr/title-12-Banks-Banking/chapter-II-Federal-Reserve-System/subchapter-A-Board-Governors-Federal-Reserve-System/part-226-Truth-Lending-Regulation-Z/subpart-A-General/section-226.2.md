@@ -6,7 +6,7 @@
 
 (2) *Advertisement* means a commercial message in any medium that promotes, directly or indirectly, a credit transaction.
 
-(3) [Reserved] 2
+(3) [Reserved]2
 
 2 [Reserved]
 
@@ -50,7 +50,7 @@
 
 (17) *Creditor* means:
 
-(i) A person who regularly extends consumer credit 3 that is subject to a finance charge or is payable by written agreement in more than four installments (not including a down payment), and to whom the obligation is initially payable, either on the face of the note or contract, or by agreement when there is no note or contract.
+(i) A person who regularly extends consumer credit3 that is subject to a finance charge or is payable by written agreement in more than four installments (not including a down payment), and to whom the obligation is initially payable, either on the face of the note or contract, or by agreement when there is no note or contract.
 
 3 [Reserved]
 

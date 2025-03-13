@@ -92,7 +92,7 @@
 
 (B) Formula 2 is as follows:
 
-![](/graphics/er30no23.032.gif)Where in paragraphs (c)(8)(i)(A) and (B) of this section:(*1*) *AddOn*TB1IR is the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set with an end date of less than one year from the present date; (*2*) *AddOn*TB2IR is the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set with an end date of one to five years from the present date; and (*3*) *AddOn*TB3IR is the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set with an end date of more than five years from the present date.
+![](/graphics/er30no23.032.gif)Where in paragraphs (c)(8)(i)(A) and (B) of this section:(*1*) *AddOn*TB1IR is the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set with an end date of less than one year from the present date;(*2*) *AddOn*TB2IR is the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set with an end date of one to five years from the present date; and(*3*) *AddOn*TB3IR is the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set with an end date of more than five years from the present date.
 
 (ii) *Exchange rate derivative contracts.* For an exchange rate derivative contract hedging set, the hedging set amount equals the absolute value of the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set.
 
@@ -130,7 +130,7 @@
 
 (B)(*1*) For a derivative contract that is an option contract, the supervisory delta adjustment is determined by the following formulas, as applicable:
 
-Table 1 to Paragraph (c)(9)(iii)(B)(*1*)—Supervisory Delta Adjustment for Options Contracts ![](/graphics/er30no23.036.gif)
+Table 1 to Paragraph (c)(9)(iii)(B)(*1*)—Supervisory Delta Adjustment for Options Contracts![](/graphics/er30no23.036.gif)
 
 (*2*) As used in the formulas in table 1 to paragraph (c)(9)(iii)(B)(*1*):
 
@@ -152,7 +152,7 @@ Table 1 to Paragraph (c)(9)(iii)(B)(*1*)—Supervisory Delta Adjustment for Opti
 
 (*2*) As used in the formula in paragraph (c)(9)(iii)(C)(1) of this section:
 
-(*i*) A is the attachment point, which equals the ratio of the notional amounts of all underlying exposures that are subordinated to the Enterprise's exposure to the total notional amount of all underlying exposures, expressed as a decimal value between zero and one; 1
+(*i*) A is the attachment point, which equals the ratio of the notional amounts of all underlying exposures that are subordinated to the Enterprise's exposure to the total notional amount of all underlying exposures, expressed as a decimal value between zero and one;1
 
 1 In the case of a first-to-default credit derivative, there are no underlying exposures that are subordinated to the Enterprise's exposure. In the case of a second-or-subsequent-to-default credit derivative, the smallest (n−1) notional amounts of the underlying exposures are subordinated to the Enterprise's exposure.
 

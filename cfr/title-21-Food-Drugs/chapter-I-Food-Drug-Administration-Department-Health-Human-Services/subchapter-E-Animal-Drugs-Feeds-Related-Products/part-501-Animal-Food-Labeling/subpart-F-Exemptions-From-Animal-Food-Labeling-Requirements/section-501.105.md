@@ -34,15 +34,15 @@
 
                             (i) The declaration shall be in letters and numerals in a type size established in relationship to the area of the principal display panel of the package and shall be uniform for all packages of substantially the same size by complying with the following type specifications:
 
-                            (1) Not less than1/16 inch in height on packages the principal display panel of which has an area of 5 square inches or less.
+                            (1) Not less than 1/16 inch in height on packages the principal display panel of which has an area of 5 square inches or less.
 
-                            (2) Not less than1/8 inch in height on packages the principal display panel of which has an area of more than 5 but not more than 25 square inches.
+                            (2) Not less than 1/8 inch in height on packages the principal display panel of which has an area of more than 5 but not more than 25 square inches.
 
-                            (3) Not less than3/16 inch in height on packages the principal display panel of which has an area of more than 25 but not more than 100 square inches.
+                            (3) Not less than 3/16 inch in height on packages the principal display panel of which has an area of more than 25 but not more than 100 square inches.
 
-                            (4) Not less than1/4 inch in height on packages the principal display panel of which has an area of more than 100 square inches, except not less than1/2 inch in height if the area is more than 400 square inches.
+                            (4) Not less than 1/4 inch in height on packages the principal display panel of which has an area of more than 100 square inches, except not less than 1/2 inch in height if the area is more than 400 square inches.
 
-                            Where the declaration is blown, embossed, or molded on a glass or plastic surface rather than by printing, typing, or coloring, the lettering sizes specified in paragraphs (i) (1) through (4) of this section shall be increased by1/16 of an inch.
+                            Where the declaration is blown, embossed, or molded on a glass or plastic surface rather than by printing, typing, or coloring, the lettering sizes specified in paragraphs (i) (1) through (4) of this section shall be increased by 1/16 of an inch.
 
                             (j) On packages containing less than 4 pounds or 1 gallon and labeled in terms of weight or fluid measure:
 
@@ -58,13 +58,13 @@
 
                             (m) *Examples:* (1) A declaration of 11/2 pounds weight shall be expressed as *Net Wt. 24 oz. (1 lb. 8 oz.), Net Wt. 24 oz. (11/2 lb.),* or *Net Wt. 24 oz. (1.5 lb.).*
 
-                            (2) A declaration of3/4 pound avoirdupois weight shall be expressed as *Net Wt. 12 oz.*
+                            (2) A declaration of 3/4 pound avoirdupois weight shall be expressed as *Net Wt. 12 oz.*
 
                             (3) A declaration of 1 quart liquid measure shall be expressed as *Net 32 fl. oz. (1 qt.).*
 
                             (4) A declaration of 13/4 quarts liquid measure shall be expressed as *Net contents 56 fluid ounces (1 quart 11/2 pints)* or as *Net 56 fluid oz. (1 qt. 1 pt. 8 oz.),* but not in terms of quart and ounce such as *Net 56 fluid oz. (1 quart 24 ounces).*
 
-                            (5) On a random package, declaration of3/4 pound avoirdupois may be expressed as *Net Wt. .75 lb.*
+                            (5) On a random package, declaration of 3/4 pound avoirdupois may be expressed as *Net Wt. .75 lb.*
 
                             (6) A declaration of 21/2 gallons liquid measure shall be expressed as *Net contents 21/2 gallons, Net contents 2.5 gallons,* or *Net contents 2 gallons 2 quarts* and not as *2 gallons 4 pints.*
 

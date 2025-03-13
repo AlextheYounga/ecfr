@@ -20,7 +20,7 @@
 
 (4) “Avoid alcoholic beverages while taking this product. Do not take this product if you are taking sedatives or tranquilizers, without first consulting your doctor.”
 
-(5) “Do not use [bullet]1 with any other product containing diphenhydramine, even one used on skin”.
+(5) “Do not use [bullet] 1 with any other product containing diphenhydramine, even one used on skin”.
 
 1 See § 201.66(b)(4) of this chapter for definition of bullet symbol.
 

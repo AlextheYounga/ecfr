@@ -1,6 +1,6 @@
 ##### § 3280.604 Materials. #####
 
-Link to an amendment published at 89 FR 75751, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75751, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *Minimum standards.* Materials, devices, fixtures, fittings, equipment, appliances, appurtenances and accessories shall conform to one of the standards in the following table and be free from defects. Where an appropriate standard is not indicated in the table or a standard not indicated in the table is preferred, the item may be used if it is listed. A listing is also required when so specified in other sections of this subpart.
 

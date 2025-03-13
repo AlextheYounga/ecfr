@@ -58,7 +58,7 @@
 
 (ii) For currency mismatches, a System institution must use a haircut for foreign exchange rate volatility (Hfx) of 8 percent, as adjusted in certain circumstances under paragraphs (c)(3)(iii) and (iv) of this section.
 
-(iii) For repo-style transactions, a System institution may multiply the standard supervisory haircuts provided in paragraphs (c)(3)(i) and (ii) of this section by the square root of 1/2 (which equals 0.707107).
+(iii) For repo-style transactions, a System institution may multiply the standard supervisory haircuts provided in paragraphs (c)(3)(i) and (ii) of this section by the square root of1/2 (which equals 0.707107).
 
 (iv) If the number of trades in a netting set exceeds 5,000 at any time during a quarter, a System institution must adjust the supervisory haircuts provided in paragraphs (c)(3)(i) and (ii) of this section upward on the basis of a holding period of 20 business days for the following quarter except in the calculation of the exposure amount for purposes of § 628.35. If a netting set contains one or more trades involving illiquid collateral or an OTC derivative that cannot be easily replaced, a System institution must adjust the supervisory haircuts upward on the basis of a holding period of 20 business days. If over the 2 previous quarters more than two margin disputes on a netting set have occurred that lasted more than the holding period, then the System institution must adjust the supervisory haircuts upward for that netting set on the basis of a holding period that is at least two times the minimum holding period for that netting set. A System institution must adjust the standard supervisory haircuts upward using the following formula:
 

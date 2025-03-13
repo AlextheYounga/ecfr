@@ -58,7 +58,7 @@
 
 (A) 25 percent of the bank holding company's tier 1 capital, where the investor is a bank holding company;
 
-(B) 20 percent of the investor's tier 1 capital, where the investor is a member bank; 6 and
+(B) 20 percent of the investor's tier 1 capital, where the investor is a member bank;6 and
 
 6 For this purpose, a direct subsidiary of a member bank is deemed to be an investor.
 

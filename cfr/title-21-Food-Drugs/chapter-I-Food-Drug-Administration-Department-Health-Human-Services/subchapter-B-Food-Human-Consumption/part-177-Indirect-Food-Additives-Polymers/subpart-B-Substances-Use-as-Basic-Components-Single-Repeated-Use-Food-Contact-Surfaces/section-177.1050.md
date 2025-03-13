@@ -28,7 +28,7 @@ Acrylonitrile/styrene copolymer modified with butadiene/styrene elastomer identi
 
 (e) *Accelerated extraction end test.* The modified copolymer shall yield acrylonitrile monomer not in excess of 0.4 ppm when tested as follows:
 
-(1) The modified copolymer shall be in the form of eight strips1/2 inch by 4 inches by .03 inch.
+(1) The modified copolymer shall be in the form of eight strips 1/2 inch by 4 inches by .03 inch.
 
 (2) The modified copolymer strips shall be immersed in 225 milliliters of 3 percent acetic acid in a Pyrex glass pressure bottle.
 

@@ -54,4 +54,4 @@
 
 (g) *Reports of testing results.* Final reports of results will be submitted in accordance with instructions provided by the sponsoring organization, with two copies to HDQA (DAEN-CWE-DC) Washington, DC 20314.
 
-Copies of reports of scientific or technical activities will be transmitted to the Defense Documentation Center as required by AR 70-31. (RCS OSD-1366)(Sec. 3012, 70A Stat 157; 10 U.S.C. 3012)[44 FR 50338, Aug. 28, 1979]
+Copies of reports of scientific or technical activities will be transmitted to the Defense Documentation Center as required by AR 70-31. (RCS OSD-1366)(Sec. 3012, 70A Stat 157; 10 U.S.C. 3012) [44 FR 50338, Aug. 28, 1979]

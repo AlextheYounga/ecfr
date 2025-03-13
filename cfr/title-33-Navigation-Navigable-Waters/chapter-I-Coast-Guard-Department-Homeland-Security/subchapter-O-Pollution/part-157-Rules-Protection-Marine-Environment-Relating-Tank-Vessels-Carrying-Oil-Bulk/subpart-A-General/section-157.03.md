@@ -70,7 +70,7 @@ Except as otherwise stated in a subpart:
 
 (6) Stringers.
 
-(7) Struts in transverse web frames when there are 3 or more struts and the depth of each is more than1/15 of the total depth of the tank.
+(7) Struts in transverse web frames when there are 3 or more struts and the depth of each is more than 1/15 of the total depth of the tank.
 
 *Length* or *L* means the distance in meters from the fore side of the stem to the axis of the rudder stock on a waterline at 85 percent of the least molded depth measured from the molded baseline, or 96 percent of the total length on that waterline, whichever is greater. In vessels designed with drag, the waterline is measured parallel to the designed waterline.
 

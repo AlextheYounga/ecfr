@@ -1,6 +1,6 @@
 ##### § 3285.603 Water supply. #####
 
-Link to an amendment published at 89 FR 75758, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75758, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *Crossover.* Multi-section homes with plumbing in both sections require water-line crossover connections to join all sections of the home. The crossover design requirements are located in, and must be designed in accordance with, § 3280.609 of this chapter.
 

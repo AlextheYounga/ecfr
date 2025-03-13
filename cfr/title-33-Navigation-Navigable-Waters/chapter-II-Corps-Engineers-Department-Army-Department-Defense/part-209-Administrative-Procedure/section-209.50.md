@@ -98,4 +98,4 @@
 
 (3) The Secretary shall provide (subject to withholding of information for the reasons stated in paragraphs (e)(1) (i) through (ix) of this section) upon request of any person, copies of the records required by the provisions of (f)(1) of this section, including transcriptions of electronic recordings at the actual cost of transcription or duplication.
 
-(5 U.S.C. 552b)[42 FR 13286, Mar. 10, 1977]
+(5 U.S.C. 552b) [42 FR 13286, Mar. 10, 1977]

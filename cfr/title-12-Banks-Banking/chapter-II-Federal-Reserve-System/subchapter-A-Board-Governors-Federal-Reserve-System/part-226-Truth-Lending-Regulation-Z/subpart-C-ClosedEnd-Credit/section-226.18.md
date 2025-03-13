@@ -12,7 +12,7 @@ For each transaction, the creditor shall disclose the following information as a
 
 (3) Subtracting any prepaid finance charge.
 
-(c) *Itemization of amount financed.* (1) A separate written itemization of the amount financed, including: 40
+(c) *Itemization of amount financed.* (1) A separate written itemization of the amount financed, including:40
 
 40 Good faith estimates of settlement costs provided for transactions subject to the Real Estate Settlement Procedures Act (12 U.S.C. 2601 *et seq.*) may be substituted for the disclosures required by paragraph (c) of this section.
 
@@ -20,7 +20,7 @@ For each transaction, the creditor shall disclose the following information as a
 
 (ii) The amount credited to the consumer's account with the creditor.
 
-(iii) Any amounts paid to other persons by the creditor on the consumer's behalf. The creditor shall identify those persons. 41
+(iii) Any amounts paid to other persons by the creditor on the consumer's behalf. The creditor shall identify those persons.41
 
 41 The following payees may be described using generic or other general terms and need not be further identified: public officials or government agencies, credit reporting agencies, appraisers, and insurance companies.
 
@@ -38,11 +38,11 @@ For each transaction, the creditor shall disclose the following information as a
 
 (2) *Other credit.* In any other transaction, the amount disclosed as the finance charge shall be treated as accurate if, in a transaction involving an amount financed of $1,000 or less, it is not more than $5 above or below the amount required to be disclosed; or, in a transaction involving an amount financed of more than $1,000, it is not more than $10 above or below the amount required to be disclosed.
 
-(e) *Annual percentage rate.* The *annual percentage rate,* using that term, and a brief description such as “the cost of your credit as a yearly rate.” 42
+(e) *Annual percentage rate.* The *annual percentage rate,* using that term, and a brief description such as “the cost of your credit as a yearly rate.”42
 
 42 For any transaction involving a finance charge of $5 or less on an amount financed of $75 or less, or a finance charge of $7.50 or less on an amount financed of more than $75, the creditor need not disclose the annual percentage rate.
 
-(f) *Variable rate.* (1) If the annual percentage rate may increase after consummation in a transaction not secured by the consumer's principal dwelling or in a transaction secured by the consumer's principal dwelling with a term of one year or less, the following disclosures: 43
+(f) *Variable rate.* (1) If the annual percentage rate may increase after consummation in a transaction not secured by the consumer's principal dwelling or in a transaction secured by the consumer's principal dwelling with a term of one year or less, the following disclosures:43
 
 43 Information provided in accordance with §§ 226.18(f)(2) and 226.19(b) may be substituted for the disclosures required by paragraph (f)(1) of this section.
 
@@ -70,7 +70,7 @@ For each transaction, the creditor shall disclose the following information as a
 
 (ii) A reference to the variations in the other payments in the series.
 
-(h) *Total of payments.* The *total of payments,* using that term, and a descriptive explanation such as “the amount you will have paid when you have made all scheduled payments.” 44
+(h) *Total of payments.* The *total of payments,* using that term, and a descriptive explanation such as “the amount you will have paid when you have made all scheduled payments.”44
 
 44 In any transaction involving a single payment, the creditor need not disclose the total of payments.
 
@@ -94,7 +94,7 @@ For each transaction, the creditor shall disclose the following information as a
 
 (q) *Assumption policy.* In a residential mortgage transaction, a statement whether or not a subsequent purchaser of the dwelling from the consumer may be permitted to assume the remaining obligation on its original terms.
 
-(r) *Required deposit.* If the creditor requires the consumer to maintain a deposit as a condition of the specific transaction, a statement that the annual percentage rate does not reflect the effect of the required deposit. 45
+(r) *Required deposit.* If the creditor requires the consumer to maintain a deposit as a condition of the specific transaction, a statement that the annual percentage rate does not reflect the effect of the required deposit.45
 
 45 A required deposit need not include, for example: (1) An escrow account for items such as taxes, insurance or repairs; (2) a deposit that earns not less than 5 percent per year; or (3) payments under a Morris Plan.
 

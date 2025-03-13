@@ -14,4 +14,4 @@
 
 (b) If a pleasure vessel is approaching a drawbridge which is only required to open on the hour or on the hour and half hour, and cannot reach the drawbridge on the hour or on the half hour, the drawtender may delay the required opening up to 10 minutes past the hour or half hour.
 
-[CGD05-97-072, 63 FR 9419, Feb. 25, 1998]Editorial Note:For Federal Register citations affecting § 117.821, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[CGD05-97-072, 63 FR 9419, Feb. 25, 1998] Editorial Note:For Federal Register citations affecting § 117.821, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

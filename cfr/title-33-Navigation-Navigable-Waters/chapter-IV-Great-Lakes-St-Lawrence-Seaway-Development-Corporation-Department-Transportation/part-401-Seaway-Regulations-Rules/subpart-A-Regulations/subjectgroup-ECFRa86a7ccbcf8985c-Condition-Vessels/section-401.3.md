@@ -12,4 +12,4 @@
 
 (f) Vessels with beams greater than 23.20 m may be subject to transit restrictions and/or delays during periods of ice cover.
 
-(68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of Sec. 2 of Pub. L. 95-474, 92 Stat. 1471)[39 FR 10900, Mar. 22, 1974, as amended at 45 FR 52377, Aug. 7, 1980; 47 FR 51121, Nov. 12, 1982; 48 FR 20690, May 9, 1983; 61 FR 19550, May 2, 1996; 65 FR 52913, Aug. 31, 2000; 70 FR 12970, Mar. 17, 2005]
+(68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of Sec. 2 of Pub. L. 95-474, 92 Stat. 1471) [39 FR 10900, Mar. 22, 1974, as amended at 45 FR 52377, Aug. 7, 1980; 47 FR 51121, Nov. 12, 1982; 48 FR 20690, May 9, 1983; 61 FR 19550, May 2, 1996; 65 FR 52913, Aug. 31, 2000; 70 FR 12970, Mar. 17, 2005]

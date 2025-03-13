@@ -4,7 +4,7 @@
 
 (b) *Sponsor.* See 053923 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use*—(1) *Amount.* Adult pigeons: 1 tablet (10 milligrams); newly weaned pigeons:1/2 tablet (5 milligrams).
+(c) *Conditions of use*—(1) *Amount.* Adult pigeons: 1 tablet (10 milligrams); newly weaned pigeons: 1/2 tablet (5 milligrams).
 
 (2) *Indications for use.* For treating trichomoniasis (canker) in ornamental and homing pigeons.
 

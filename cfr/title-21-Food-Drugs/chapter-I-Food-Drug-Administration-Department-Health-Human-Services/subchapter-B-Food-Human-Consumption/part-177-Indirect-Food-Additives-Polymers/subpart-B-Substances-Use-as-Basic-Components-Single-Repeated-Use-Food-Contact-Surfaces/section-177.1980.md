@@ -38,7 +38,7 @@ The vinyl chloride-propylene copolymers identified in paragraph (a) of this sect
 
 (iii) *Ionic chlorine content.* A weighed sample is extracted with water at 150 °F for 2 hours, filtered, and the volume of filtrate is measured (*A* milliliters) as in paragraph (d)(2) of this section. Two drops of 50 percent by weight sodium hydroxide solution are added and the solution is evaporated to approximately 150 milliliters. The solution is quantitatively transferred to a 250-milliliter beaker, methyl purple indicator is added, and the solution is neutralized with 0.1 *N* nitric acid. For each 100 milliliters of solution is added 1.5 milliliters of 2 *N* nitric acid. The solution is titrated with 0.005 *N* silver nitrate to the equivalence potential end point, using the expanded scale pH meter described in paragraph (d)(3)(ii) of this section. A complete blank must be run in duplicate. Calculation:
 
-![](/graphics/er01ja93.405.gif)where:*A* = volume of filtrate obtained in extraction.*D* = milliliters of silver nitrate solution used in sample titration × normality of silver nitrate solution.*E* = milliliters of silver nitrate solution used in blank titration × normality of silver nitrate solution.
+![](/graphics/er01ja93.405.gif)where:*A* = volume of filtrate obtained in extraction.*D* = milliliters of silver nitrate solution used in sample titration × normality of silver nitrate solution. *E* = milliliters of silver nitrate solution used in blank titration × normality of silver nitrate solution.
 
 (iv) *Organic chlorine content and vinyl chloride-propylene copolymer content of aqueous extract.* The organic chlorine content and the vinyl chloride propylene copolymer content of the aqueous extract is calculated as follows:
 

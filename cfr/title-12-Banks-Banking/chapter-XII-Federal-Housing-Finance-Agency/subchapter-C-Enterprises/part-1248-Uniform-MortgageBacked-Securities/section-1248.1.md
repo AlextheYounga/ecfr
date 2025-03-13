@@ -24,8 +24,16 @@ The definitions below are used to define terms for purposes of this part:
 
 *Three-month conditional prepayment rate (CPR3)* means the annualized measure of prepayments for a three month interval calculated as follows:
 
-CPR3t = 1 − ((1 − SMMt-2) \* (1 − SMMt-1) \* (1 − SMMt))4,where t indicates the month and SMM is the single month mortality rate, which equals (PMTt − It − Pt)/(UPBt − Pt), where PMTt is the actual payments received in the month, It is the scheduled payments of interest, Pt is the scheduled payments of principal, and UPBt is the beginning unpaid principal balance.
+CPR3t = 1 − ((1 − SMMt-2) \*
+(1 − SMMt-1) \* (1 − SMMt))4,where t indicates the month and
+SMM is the single month mortality rate, which equals
+(PMTt − It − Pt)/(UPBt − Pt),
+where PMTt is the actual payments received in the month,
+It is the scheduled payments of interest, Pt is the scheduled payments of principal, and UPBt is the beginning unpaid principal balance.
 
 *To-Be-Announced Eligible Mortgage-Backed Security (TBA-Eligible MBS)* means Enterprise MBS (including Freddie Mac Participation Certificates, Giants, MBS, UMBS, and Supers; and Fannie Mae MBS, Megas, UMBS, and Supers) that meet criteria such that the market considers them sufficiently fungible to be forward traded in the TBA market.
 
-*Uniform Mortgage Backed Security or UMBS* means a single-class MBS backed by fixed-rate mortgage loans on one-to-four unit (single-family) properties issued by either Enterprise which has the same characteristics (such as payment delay, pooling prefixes, and minimum pool submission amounts) regardless of which Enterprise is the issuer.
+*Uniform Mortgage Backed Security or UMBS* means a single-class MBS backed
+by fixed-rate mortgage loans on one-to-four unit (single-family) properties issued by
+either Enterprise which has the same characteristics (such as payment delay, pooling
+prefixes, and minimum pool submission amounts) regardless of which Enterprise is the issuer.

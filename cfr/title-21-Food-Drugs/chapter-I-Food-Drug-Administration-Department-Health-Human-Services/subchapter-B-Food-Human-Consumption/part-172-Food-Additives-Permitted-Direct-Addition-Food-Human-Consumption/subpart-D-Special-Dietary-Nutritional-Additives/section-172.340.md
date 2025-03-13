@@ -10,7 +10,7 @@
 
 (4) The additive shall be prepared by extraction with hexane and food-grade ethanol to remove fat and moisture. Solvent residues shall be reduced by drying.
 
-(b) The food additive meets the following specifications: (Where methods of determination are specified, they are Association of Official Analytical Chemists Methods, 13th ed., 1980, which are incorporated by reference).1
+(b) The food additive meets the following specifications: (Where methods of determination are specified, they are Association of Official Analytical Chemists Methods, 13th ed., 1980, which are incorporated by reference). 1
 
 1 Copies are available from: AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 

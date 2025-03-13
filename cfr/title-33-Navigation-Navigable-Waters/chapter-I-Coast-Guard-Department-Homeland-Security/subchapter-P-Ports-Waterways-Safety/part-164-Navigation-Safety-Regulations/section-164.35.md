@@ -68,4 +68,4 @@ The response of the (name of the vessel) may be different from that listed above
 
 (o) A telephone or other means of communication for relaying headings to the emergency steering station. Also, each vessel of 500 gross tons and over and constructed on or after June 9, 1995 must be provided with arrangements for supplying visual compass-readings to the emergency steering station.
 
-(46 U.S.C. Chapter 700; 49 CFR 1.46(n)(4))[CGD 74-77, 42 FR 5956, Jan. 31, 1977, as amended by CGD 77-183, 45 FR 18925, Mar. 24, 1980; CGD 83-004, 49 FR 43466, Oct. 29, 1984; CGD 83-043, 60 FR 24771, May 10, 1995; 60 FR 28834, June 2, 1995; USCG-2020-0304, 85 FR 58280, Sept. 18, 2020]
+(46 U.S.C. Chapter 700; 49 CFR 1.46(n)(4)) [CGD 74-77, 42 FR 5956, Jan. 31, 1977, as amended by CGD 77-183, 45 FR 18925, Mar. 24, 1980; CGD 83-004, 49 FR 43466, Oct. 29, 1984; CGD 83-043, 60 FR 24771, May 10, 1995; 60 FR 28834, June 2, 1995; USCG-2020-0304, 85 FR 58280, Sept. 18, 2020]

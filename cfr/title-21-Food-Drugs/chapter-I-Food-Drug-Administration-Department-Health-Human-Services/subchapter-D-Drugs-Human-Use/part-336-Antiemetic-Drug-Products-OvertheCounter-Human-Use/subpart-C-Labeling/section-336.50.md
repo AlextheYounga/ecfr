@@ -22,7 +22,7 @@
 
 (7) *For products containing dimenhydrinate identified in § 336.10(b) or diphenhydramine hydrochloride identified in § 336.10(c).* “May cause marked drowsiness; alcohol, sedatives, and tranquilizers may increase the drowsiness effect. Avoid alcoholic beverages while taking this product. Do not take this product if you are taking sedatives or tranquilizers, without first consulting your doctor. Use caution when driving a motor vehicle or operating machinery.”
 
-(8) *For products containing diphenhydramine hydrochloride identified in § 336.10(c).* “Do not use [bullet]1 with any other product containing diphenhydramine, including one used on skin”.
+(8) *For products containing diphenhydramine hydrochloride identified in § 336.10(c).* “Do not use [bullet] 1 with any other product containing diphenhydramine, including one used on skin”.
 
 1 See § 201.66(b)(4) of this chapter for definition of bullet symbol.
 

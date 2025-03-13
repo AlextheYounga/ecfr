@@ -26,7 +26,7 @@
 
 (9) Disbursements and repayments; and
 
-(10) Rates of interest on loans. 6
+(10) Rates of interest on loans.6
 
 6 The limitations on charges that comprise rates of interest on loans by national banks are determined under Federal law. *See* 12 U.S.C. 85; 12 CFR 7.4001. State laws purporting to regulate national bank fees and charges that do not constitute interest are addressed in 12 CFR 7.4002.
 

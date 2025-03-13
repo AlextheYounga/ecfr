@@ -26,4 +26,4 @@
 
 (g) The draws of the Burlington Northern Santa Fe railroad bridge, mile 69.0 at Lafourche, and all bridges upstream of the Burlington Northern Santa Fe railroad bridge need not be opened for the passage of vessels.
 
-[CGD 82-025, 49 FR 17452, Apr. 24, 1984]Editorial Note:For Federal Register citations affecting § 117.465, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[CGD 82-025, 49 FR 17452, Apr. 24, 1984] Editorial Note:For Federal Register citations affecting § 117.465, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

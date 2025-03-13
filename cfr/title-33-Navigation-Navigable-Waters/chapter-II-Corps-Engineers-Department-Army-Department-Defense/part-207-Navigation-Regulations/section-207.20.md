@@ -50,7 +50,7 @@
 
 (iv) Fourth—To merchant vessels, towboats, commercial fishing vessels, pleasure boats and miscellaneous craft.
 
-(4) Procedures in adverse weather: Vessels carrying flammable or combustible cargoes as defined in 46 CFR 30.25 will be restricted from passage through the canal when visibility is less than1/2 mile. Other vessels may transit the canal in thick weather by use of radar with the understanding that the U.S. Government will assume no responsibility: *And provided,* That clearance has been obtained from the marine traffic controller.
+(4) Procedures in adverse weather: Vessels carrying flammable or combustible cargoes as defined in 46 CFR 30.25 will be restricted from passage through the canal when visibility is less than 1/2 mile. Other vessels may transit the canal in thick weather by use of radar with the understanding that the U.S. Government will assume no responsibility: *And provided,* That clearance has been obtained from the marine traffic controller.
 
 (h) *Traffic lights.* There are three sets of traffic lights showing red, green, and yellow that are operated on a continuous basis at the canal. The traffic lights apply to all vessels 65 feet in length and over. The traffic lights are a secondary system that is operated in support of the radio communications system. The traffic lights are located at the easterly canal entrance, Sandwich, and at the westerly entrance to Hog Island Channel at Wings Neck. A third traffic light is located at the Canal Electric Terminal basin on the south side of the canal in Sandwich, and applies only to vessels arriving and departing that terminal.
 

@@ -4,7 +4,7 @@ The chromium (Cr III) complex of *N-*ethyl *- N -*heptadecylfluoro-octane sulfon
 
 (a) The food additive is used as a component of paper in an amount not to exceed 0.5 percent by weight of the paper.
 
-(b)(1) The food-contact surface of the paper is overcoated with a polymeric or resinous coating at least1/3-mil in thickness, that meets the provision of § 176.170; or
+(b)(1) The food-contact surface of the paper is overcoated with a polymeric or resinous coating at least 1/3-mil in thickness, that meets the provision of § 176.170; or
 
 (2) The treated paper forms one or more plies of a paper in a multiwall bag and is separated from the food by at least one ply of packaging films or grease-resistant papers which serves as a functional barrier between the food additive and the food. Such packaging films or grease-resistant papers conform with appropriate food additive regulations.
 

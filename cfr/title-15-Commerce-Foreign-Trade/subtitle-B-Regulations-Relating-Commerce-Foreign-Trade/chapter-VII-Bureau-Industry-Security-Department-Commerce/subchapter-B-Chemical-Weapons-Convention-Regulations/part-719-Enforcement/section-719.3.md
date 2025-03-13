@@ -12,11 +12,11 @@
 
 (2) *Import restrictions involving Schedule 2 chemicals.* Except as otherwise provided in § 713.1 of the CWCR, no person may, on or after April 29, 2000, import any Schedule 2 chemical (see supplement no. 1 to part 713 of the CWCR) from any destination other than a State Party.
 
-(b) *Civil penalty.* A civil penalty not to exceed $50,000 may be imposed in accordance with this part on any person for each violation of this section.1
+(b) *Civil penalty.* A civil penalty not to exceed $50,000 may be imposed in accordance with this part on any person for each violation of this section. 1
 
 1 The maximum civil penalty allowed under the International Emergency Economic Powers Act is $50,000 for any violation committed on or after October 23, 1996 (15 CFR 6.4(a)(5)).
 
-(c) *Criminal penalty.* Whoever willfully violates paragraph (a)(1) or (2) of this section shall, upon conviction, be fined not more than $50,000, or, if a natural person, imprisoned for not more than ten years, or both; and any officer, director, or agent of any corporation who knowingly participates in such violation may be punished by like fine, imprisonment, or both.2
+(c) *Criminal penalty.* Whoever willfully violates paragraph (a)(1) or (2) of this section shall, upon conviction, be fined not more than $50,000, or, if a natural person, imprisoned for not more than ten years, or both; and any officer, director, or agent of any corporation who knowingly participates in such violation may be punished by like fine, imprisonment, or both. 2
 
 2 Alternatively, sanctions may be imposed under 18 U.S.C. 3571, a criminal code provision that establishes a maximum criminal fine for a felony that is the greatest of: (1) The amount provided by the statute that was violated; (2) an amount not more than $250,000 for an individual, or not more than $500,000 for an organization; or (3) an amount based on gain or loss from the offense.
 

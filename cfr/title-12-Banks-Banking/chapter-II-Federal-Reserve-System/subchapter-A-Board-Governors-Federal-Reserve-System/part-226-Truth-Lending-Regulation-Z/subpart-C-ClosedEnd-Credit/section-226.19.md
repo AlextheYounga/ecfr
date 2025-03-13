@@ -20,9 +20,9 @@
 
 (ii) The creditor shall make good faith estimates of the disclosures required by § 226.18 before consummation, or shall deliver or place them in the mail not later than three business days after the creditor receives the consumer's written application, whichever is earlier; and
 
-(iii) If the annual percentage rate at the time of consummation varies from the annual percentage rate disclosed under paragraph (a)(5)(ii) of this section by more than 1/8 of 1 percentage point in a regular transaction or more than 1/4 of 1 percentage point in an irregular transaction, as defined in § 226.22, the creditor shall disclose all the changed terms no later than consummation or settlement.
+(iii) If the annual percentage rate at the time of consummation varies from the annual percentage rate disclosed under paragraph (a)(5)(ii) of this section by more than1/8 of 1 percentage point in a regular transaction or more than1/4 of 1 percentage point in an irregular transaction, as defined in § 226.22, the creditor shall disclose all the changed terms no later than consummation or settlement.
 
-(b) *Certain variable-rate transactions.*45a If the annual percentage rate may increase after consummation in a transaction secured by the consumer's principal dwelling with a term greater than one year, the following disclosures must be provided at the time an application form is provided or before the consumer pays a non-refundable fee, whichever is earlier: 45b
+(b) *Certain variable-rate transactions.*45a If the annual percentage rate may increase after consummation in a transaction secured by the consumer's principal dwelling with a term greater than one year, the following disclosures must be provided at the time an application form is provided or before the consumer pays a non-refundable fee, whichever is earlier:45b
 
 45a Information provided in accordance with variable-rate regulations of other federal agencies may be substituted for the disclosures required by paragraph (b) of this section.
 

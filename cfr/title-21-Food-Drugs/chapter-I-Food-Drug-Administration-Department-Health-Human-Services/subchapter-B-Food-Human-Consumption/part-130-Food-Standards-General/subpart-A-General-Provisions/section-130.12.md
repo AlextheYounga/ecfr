@@ -8,7 +8,7 @@ For the purposes of regulations promulgated under section 401 of the act:
 
 (2) Wash, dry, and weigh the empty container.
 
-(3) Fill the container with distilled water at 68 °F to3/16 inch vertical distance below the top level of the container, and weigh the container thus filled.
+(3) Fill the container with distilled water at 68 °F to 3/16 inch vertical distance below the top level of the container, and weigh the container thus filled.
 
 (4) Subtract the weight found in paragraph (a)(2) of this section from the weight found in paragraph (a)(3) of this section. The difference shall be considered to be the weight of water required to fill the container.
 
@@ -22,7 +22,7 @@ In the case of a container with lid attached otherwise than by double seam, remo
 
 (3) Remove the food from the container; wash, dry, and weigh the container.
 
-(4) Fill the container with water to3/16 inch vertical distance below the top level of the container. Record the temperature of the water, weigh the container thus filled, and determine the weight of the water by subtracting the weight of the container found in paragraph (b)(3) of this section.
+(4) Fill the container with water to 3/16 inch vertical distance below the top level of the container. Record the temperature of the water, weigh the container thus filled, and determine the weight of the water by subtracting the weight of the container found in paragraph (b)(3) of this section.
 
 (5) Maintaining the water at the temperature recorded in paragraph (b)(4) of this section, draw off water from the container as filled in paragraph (b)(4) of this section to the level of the food found in paragraph (b)(2) of this section, weigh the container with remaining water, and determine the weight of the remaining water by subtracting the weight of the container found in paragraph (b)(3) of this section.
 

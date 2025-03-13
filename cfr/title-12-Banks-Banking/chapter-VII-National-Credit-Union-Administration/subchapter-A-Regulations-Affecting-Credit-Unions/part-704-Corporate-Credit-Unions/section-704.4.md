@@ -104,7 +104,8 @@
 
 (7) *Amendment of capital plan.* A corporate credit union that has filed an approved capital restoration plan may, after prior written notice to and approval by the NCUA, amend the plan to reflect a change in circumstance. Until such time as NCUA has approved a proposed amendment, the corporate credit union must implement the capital restoration plan as approved prior to the proposed amendment.
 
-(f) *Mandatory and discretionary supervisory actions*—(1) *Mandatory supervisory actions*— (i) *Provisions applicable to all corporate credit unions.* All corporate credit unions are subject to the restrictions contained in paragraph (k)(1) of this section on capital distributions.
+(f) *Mandatory and discretionary supervisory actions*—(1) *Mandatory supervisory actions*—
+(i) *Provisions applicable to all corporate credit unions.* All corporate credit unions are subject to the restrictions contained in paragraph (k)(1) of this section on capital distributions.
 
 (ii) Provisions applicable to undercapitalized, significantly undercapitalized, and critically undercapitalized corporate credit unions. Immediately upon receiving notice or being deemed to have notice, as provided in paragraph (c) or (e) of this section, that the corporate credit union is undercapitalized, significantly undercapitalized, or critically undercapitalized, the corporate credit union will be subject to the following provisions of paragraph (k) of this section:
 

@@ -42,4 +42,4 @@ In the regulations in this part:
 
 (t) *Vessel traffic controller* (*ship traffic controller* in Canada) means the officer who controls vessel traffic from a Seaway station.
 
-(68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471)[39 FR 10900, Mar. 22, 1974, as amended at 45 FR 52377, Aug. 7, 1980; 65 FR 52913, 52915, Aug. 31, 2000; 66 FR 15329, Mar. 16, 2001; 72 FR 2620, Jan. 22, 2007; 79 FR 12659, Mar. 6, 2014; 85 FR 15950, Mar. 20, 2020; 86 FR 15412, Mar. 23, 2021]
+(68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471) [39 FR 10900, Mar. 22, 1974, as amended at 45 FR 52377, Aug. 7, 1980; 65 FR 52913, 52915, Aug. 31, 2000; 66 FR 15329, Mar. 16, 2001; 72 FR 2620, Jan. 22, 2007; 79 FR 12659, Mar. 6, 2014; 85 FR 15950, Mar. 20, 2020; 86 FR 15412, Mar. 23, 2021]

@@ -18,7 +18,7 @@
 
 (*4*) Another IBF; or
 
-(*5*) A foreign national government, or an agency or instrumentality thereof, 10 engaged principally in activities which are ordinarily performed in the United States by governmental entities; an international entity of which the United States is a member; or any other foreign international or supranational entity specifically designated by the Board;11 or
+(*5*) A foreign national government, or an agency or instrumentality thereof,10 engaged principally in activities which are ordinarily performed in the United States by governmental entities; an international entity of which the United States is a member; or any other foreign international or supranational entity specifically designated by the Board;11 or
 
 10 Other than states, provinces, municipalities, or other regional or local governmental units or agencies or instrumentalities thereof.
 
@@ -46,7 +46,7 @@
 
 (iv) Another IBF;
 
-(v) A foreign national government, or an agency or instrumentality thereof, 12 engaged principally in activities which are ordinarily performed in the United States by governmental entities; an international entity of which the United States is a member; or any other foreign international or supranational entity specifically designated by the Board; 13 or
+(v) A foreign national government, or an agency or instrumentality thereof,12 engaged principally in activities which are ordinarily performed in the United States by governmental entities; an international entity of which the United States is a member; or any other foreign international or supranational entity specifically designated by the Board;13 or
 
 12 See footnote 10.
 

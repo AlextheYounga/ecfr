@@ -22,7 +22,7 @@
 
 (iii) Products of a net quantity of contents of less than 2 ozs. that are designed to release a measured amount of product with each valve actuation.
 
-(iv) Products of a net quantity of contents of less than1/2 oz.
+(iv) Products of a net quantity of contents of less than 1/2 oz.
 
 (c) Labeling requirements for cosmetics packaged in a self- pressurized container containing or manufactured with a chlorofluorocarbon propellant or other ozone-depleting substance designated by the Environmental Protection Agency (EPA) are set forth in 40 CFR part 82.
 

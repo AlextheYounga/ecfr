@@ -30,4 +30,4 @@
 
 (4) Within 15 days after the date of issue, the person who is issued the warning may appeal to the District Commander by providing in writing or in person any information or material that denies, explains, or mitigates the violations noted in the warning.
 
-(14 U.S.C. 633; 85 Stat. 228 (46 U.S.C. 1488); 86 Stat. 871 (33 U.S.C. 1322); 49 CFR 1.46 (b), (m), and (n)(1))[CGD 74-155, 41 FR 17894, Apr. 29, 1976, as amended by CGD 77-182, 43 FR 22657, May 25, 1978; USCG-2006-25150, 71 FR 39208, July 12, 2006; USCG-2006-24371, 74 FR 11211, Mar. 16, 2009]
+(14 U.S.C. 633; 85 Stat. 228 (46 U.S.C. 1488); 86 Stat. 871 (33 U.S.C. 1322); 49 CFR 1.46 (b), (m), and (n)(1)) [CGD 74-155, 41 FR 17894, Apr. 29, 1976, as amended by CGD 77-182, 43 FR 22657, May 25, 1978; USCG-2006-25150, 71 FR 39208, July 12, 2006; USCG-2006-24371, 74 FR 11211, Mar. 16, 2009]

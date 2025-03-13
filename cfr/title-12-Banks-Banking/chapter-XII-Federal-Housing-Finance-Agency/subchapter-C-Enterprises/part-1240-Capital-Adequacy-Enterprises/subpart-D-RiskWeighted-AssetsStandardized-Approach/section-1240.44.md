@@ -82,11 +82,13 @@
 
 (1) When the detachment point, parameter *D,* for a retained CRT exposure is less than or equal to the sum of *K*A and*AggEL*%, the exposure must be assigned a risk weight of 1,250 percent.
 
-(2) When the attachment point, parameter *A,* for a retained CRT exposure is greater than or equal to or equal to the sum of *K*A and *AggEL*%, determined in accordance with paragraph (d) of this section, the exposure must be assigned a risk weight of 5 percent.
+(2) When the attachment point, parameter *A,* for a retained CRT exposure is greater than or equal to or equal to the sum of *K*A and *AggEL*%,
+determined in accordance with paragraph (d) of this section, the exposure must be assigned a risk weight of 5 percent.
 
-(3) When parameter *A* is less than or equal to the sum of *K*A and *AggEL*%, and parameter *D* is greater than the sum of *K*A and *AggEL*%, the Enterprise must calculate the risk weight as the sum of:
+(3) When parameter *A* is less than or equal to the sum of *K*A and*AggEL*%, and
+parameter *D* is greater than the sum of *K*A and *AggEL*%, the Enterprise must calculate the risk weight as the sum of:
 
-(i) 1,250 percent multiplied by the ratio of (A) the sum of *K*A and *AggEL*% minus parameter *A* to (B) the difference between parameter *D* and parameter *A*; and
+(i) 1,250 percent multiplied by the ratio of (A) the sum of *K*A and*AggEL*% minus parameter *A* to (B) the difference between parameter *D* and parameter *A*; and
 
 (ii) 5 percent multiplied by the ratio of (A) parameter *D* minus the sum of *K*A and *AggEL*% to (B) the difference between parameter *D* and parameter *A.*
 

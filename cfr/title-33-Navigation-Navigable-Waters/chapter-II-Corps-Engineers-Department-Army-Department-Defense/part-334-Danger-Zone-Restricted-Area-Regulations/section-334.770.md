@@ -18,4 +18,4 @@
 
 (5) The regulations in this section shall be enforced by the Commanding Officer, Tyndall Air Force Base, Florida, and such agencies as he may designate.
 
-(Sec. 7, 40 Stat. 266; 33 U.S.C. 1)[40 FR 8949, Mar. 4, 1975; 40 FR 10988, Mar. 10, 1975. Redesignated at 50 FR 42696, Oct. 22, 1985]
+(Sec. 7, 40 Stat. 266; 33 U.S.C. 1) [40 FR 8949, Mar. 4, 1975; 40 FR 10988, Mar. 10, 1975. Redesignated at 50 FR 42696, Oct. 22, 1985]

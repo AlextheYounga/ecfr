@@ -26,7 +26,8 @@ This section governs a Federal credit union's purchase, sale, or pledge of all o
 
 (2) *Purchases of obligations from a FICU.* A Federal credit union may purchase and hold the following obligations, provided that it would be empowered to grant them:
 
-(i) *Eligible obligations.* Eligible obligations without regard to whether they are obligations of its members, provided they are purchased from a federally insured credit union and the obligations are either:
+(i) *Eligible obligations.* Eligible obligations without regard to whether they are obligations of its members, provided they are purchased from a federally
+insured credit union and the obligations are either:
 
 (A) Loans the purchasing credit union is empowered to grant; or
 
@@ -124,4 +125,4 @@ This section governs a Federal credit union's purchase, sale, or pledge of all o
 
 (3) *Appeal to NCUA Board.* A Federal credit union may request the regional director to reconsider a denied request for expanded authority and/or file an appeal with the NCUA Board in accordance with the procedures set forth in subpart B to part 746 of this chapter.
 
-[44 FR 27071, May 9, 1979, as amended at 46 FR 38680, July 29, 1981. Redesignated at 49 FR 30688, Aug. 1, 1984] Editorial Note:For Federal Register citations affecting § 701.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[44 FR 27071, May 9, 1979, as amended at 46 FR 38680, July 29, 1981. Redesignated at 49 FR 30688, Aug. 1, 1984]Editorial Note:For Federal Register citations affecting § 701.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

@@ -50,11 +50,11 @@
 
 (i) The turbidity shall not exceed 5 units.
 
-(ii) The color shall not exceed 15 units.1
+(ii) The color shall not exceed 15 units. 1
 
 1 Mineral water is exempt from allowable level. The exemptions are aesthetically based allowable levels and do not relate to a health concern.
 
-(iii) The odor shall not exceed threshold odor No. 3.1
+(iii) The odor shall not exceed threshold odor No. 3. 1
 
 (4) *Chemical quality.* (i)(A) Bottled water shall, when a composite of analytical units of equal volume from a sample is examined by the methods described in paragraph (b)(4)(i)(B) of this section, meet standards of chemical quality and shall not contain chemical substances in excess of the following concentrations:
 

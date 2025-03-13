@@ -44,15 +44,15 @@ The following is a Regulated Navigation Area—The waters of the Mississippi Riv
 
 (3) Each wire rope used between the upstream end of a barge and a mooring device must have at least a diameter of 11/4 inch. Chain or line used between the upstream end of a barge and a mooring device must be at least equivalent in strength to 11/4 inch diameter wire rope.
 
-(4) Each wire rope used between the downstream end of a barge and a mooring device must have at least a diameter of7/8 inch. Chain or line used between the downstream end of a barge and a mooring device must be of at least equivalent strength of7/8 inch diameter wire rope.
+(4) Each wire rope used between the downstream end of a barge and a mooring device must have at least a diameter of 7/8 inch. Chain or line used between the downstream end of a barge and a mooring device must be of at least equivalent strength of 7/8 inch diameter wire rope.
 
 (f) Moorings: Barge-to-barge; barge-to-vessel; barge-to-wharf or pier. The person in charge shall ensure that a barge moored to another barge, a mooring or spar barge, a vessel, a wharf, or a pier, is secured as near as practicable to each abutting corner of the barge being moored by:
 
-(1) Three parts of wire rope of at least7/8 inch diameter with an eye at each end of the rope passed around the timberhead, caval, or button;
+(1) Three parts of wire rope of at least 7/8 inch diameter with an eye at each end of the rope passed around the timberhead, caval, or button;
 
-(2) A mooring of natural or synthetic fiber rope that has at least 75 percent of the breaking strength of three parts of7/8 inch diameter wire rope; or
+(2) A mooring of natural or synthetic fiber rope that has at least 75 percent of the breaking strength of three parts of 7/8 inch diameter wire rope; or
 
-(3) Fixed rigging that is at least equivalent to three parts of7/8 inch diameter wire rope.
+(3) Fixed rigging that is at least equivalent to three parts of 7/8 inch diameter wire rope.
 
 (g) *Mooring: Person in charge.* (1) The person in charge of a barge, tier, fleet or fleeting facility shall ensure that the barge, tier, fleet or fleeting facility meets the requirements in paragraphs (d) and (e) of this section.
 

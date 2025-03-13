@@ -8,7 +8,7 @@
 
 (d) *Related tolerances.* See § 556.350 of this chapter.
 
-(e) *Conditions of use*—(1) *Cattle*—(i) *Amount.* Administer orally 2.19-gram boluses as a single dose as follows: 250 to 450 pounds,1/2 bolus; 450 to 750 pounds, 1 bolus; and 750 to 1,050 pounds, 11/2 boluses.
+(e) *Conditions of use*—(1) *Cattle*—(i) *Amount.* Administer orally 2.19-gram boluses as a single dose as follows: 250 to 450 pounds, 1/2 bolus; 450 to 750 pounds, 1 bolus; and 750 to 1,050 pounds, 11/2 boluses.
 
 (ii) *Indications for use.* Anthelmintic effective against the following nematode infections: Stomach worms (*Haemonchus, Trichostrongylus,**Ostertagia*), intestinal worms (*Trichostrongylus, Cooperia,**Nematodirus, Bunostomum,**Oesophagostomum*), and lungworms (*Dictyocaulus*).
 

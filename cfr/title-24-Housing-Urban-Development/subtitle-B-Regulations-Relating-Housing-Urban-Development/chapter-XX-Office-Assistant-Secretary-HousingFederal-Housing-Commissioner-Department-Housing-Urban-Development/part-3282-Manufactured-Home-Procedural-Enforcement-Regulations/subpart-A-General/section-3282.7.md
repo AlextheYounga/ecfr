@@ -1,6 +1,6 @@
 ##### § 3282.7 Definitions. #####
 
-Link to an amendment published at 89 FR 75758, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75758, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 The terms *Department, HUD,* and *Secretary* are defined in 24 CFR part 5.
 

@@ -10,4 +10,4 @@
 
 (3) Auxiliary insignia.
 
-(Sec. 4101, 63 Stat. 557 (14 U.S.C. 4101)).[CGFR 67-13, 32 FR 11211, Aug. 2, 1967, as amended by USCG-2020-0304, 85 FR 58275, Sept. 18, 2020]
+(Sec. 4101, 63 Stat. 557 (14 U.S.C. 4101)). [CGFR 67-13, 32 FR 11211, Aug. 2, 1967, as amended by USCG-2020-0304, 85 FR 58275, Sept. 18, 2020]

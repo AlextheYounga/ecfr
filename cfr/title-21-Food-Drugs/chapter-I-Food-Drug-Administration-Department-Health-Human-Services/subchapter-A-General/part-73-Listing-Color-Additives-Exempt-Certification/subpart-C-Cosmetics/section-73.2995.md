@@ -4,7 +4,7 @@
 
 (b) *Specifications.* Luminescent zinc sulfide shall conform to the following specifications and shall be free from impurities other than those named to the extent that such impurities may be avoided by good manufacturing practice:
 
-Zinc sulfide, not less than 99.8 percent.Copper, 100±5 parts per million.Lead, not more than 20 parts per million.Arsenic, not more than 3 parts per million.Mercury, not more than 1 part per million.Cadmium, not more than 15 parts per million.
+Zinc sulfide, not less than 99.8 percent. Copper, 100±5 parts per million. Lead, not more than 20 parts per million. Arsenic, not more than 3 parts per million. Mercury, not more than 1 part per million. Cadmium, not more than 15 parts per million.
 
 (c) *Uses and restrictions.* The color additive luminescent zinc sulfide may be safely used for coloring externally applied facial makeup preparations and nail polish included under § 720.4(c)(7)(ix) and (c)(8)(v) of this chapter, respectively, to the following restrictions:
 

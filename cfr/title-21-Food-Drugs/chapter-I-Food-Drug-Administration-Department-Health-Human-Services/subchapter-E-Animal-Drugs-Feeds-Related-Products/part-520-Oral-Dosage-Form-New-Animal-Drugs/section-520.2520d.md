@@ -10,4 +10,4 @@
 
 (3) *Limitations.* Do not use in horses intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[48 FR 2757, Jan. 21, 1983. Redesignated and amended at 79 FR 28833, May 20, 2014; 85 FR 4208, Jan. 24, 2020]Editorial Note:At 79 FR 28833, May 20, 2014, § 520.2520d was amended in part by redesignating paragraph (e) as (c). This action could not be performed because paragraph (e) did not exist.
+[48 FR 2757, Jan. 21, 1983. Redesignated and amended at 79 FR 28833, May 20, 2014; 85 FR 4208, Jan. 24, 2020] Editorial Note:At 79 FR 28833, May 20, 2014, § 520.2520d was amended in part by redesignating paragraph (e) as (c). This action could not be performed because paragraph (e) did not exist.

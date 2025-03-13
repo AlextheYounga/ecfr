@@ -1,6 +1,6 @@
 ##### § 3280.611 Vents and venting. #####
 
-Link to an amendment published at 89 FR 75753, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75753, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *General.* Each plumbing fixture trap shall be protected against siphonage and back pressure, and air circulation shall be ensured throughout all parts of the drainage system by means of vents installed in accordance with the requirements of this section and as otherwise required by this standard.
 
@@ -36,8 +36,8 @@ Link to an amendment published at 89 FR 75753, Sept. 16, 2024.
 
 |Size of fixture drain (inches)|Distance trap to vent|
 |------------------------------|---------------------|
-|             11/4             |     4 ft. 6 in.     |
-|             11/2             |     4 ft 6 in.      |
+|  1<sup>1</sup>⁄<sub>4</sub>  |     4 ft. 6 in.     |
+|  1<sup>1</sup>⁄<sub>2</sub>  |     4 ft 6 in.      |
 |              2               |        5 ft.        |
 |              3               |        6 ft.        |
 

@@ -10,7 +10,7 @@
 
 (d) *Definitions.* For purposes of this part—
 
-(1) *Capital Stock and Surplus.* Capital stock and surplus of a member bank means the paid-in capital stock 2 and paid-in surplus of the bank, less any deficit in the aggregate of its retained earnings, gains (losses) on available for sale securities, and foreign currency translation accounts, all as shown on the bank's most recent report of condition. Paid-in capital stock and paid-in surplus of a bank in organization means the amount which is to be paid in at the time the bank commences business.
+(1) *Capital Stock and Surplus.* Capital stock and surplus of a member bank means the paid-in capital stock2 and paid-in surplus of the bank, less any deficit in the aggregate of its retained earnings, gains (losses) on available for sale securities, and foreign currency translation accounts, all as shown on the bank's most recent report of condition. Paid-in capital stock and paid-in surplus of a bank in organization means the amount which is to be paid in at the time the bank commences business.
 
 2 Capital stock includes common stock and preferred stock (including sinking fund preferred stock).
 

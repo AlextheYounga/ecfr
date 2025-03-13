@@ -1,6 +1,6 @@
 ##### § 3280.801 Scope. #####
 
-Link to an amendment published at 89 FR 75756, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75756, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) Subpart I of this part and Part II of Article 550 of the National Electrical Code (NFPA No. 70-2005) cover the electrical conductors and equipment installed within or on manufactured homes and the conductors that connect manufactured homes to a supply of electricity.
 

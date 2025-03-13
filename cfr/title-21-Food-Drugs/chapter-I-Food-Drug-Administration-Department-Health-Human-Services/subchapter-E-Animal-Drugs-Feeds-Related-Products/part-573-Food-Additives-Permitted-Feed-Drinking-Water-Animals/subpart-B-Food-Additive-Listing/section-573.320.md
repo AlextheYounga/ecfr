@@ -4,7 +4,7 @@ The food additive diammonium phosphate may be safely used in ruminant feed in ac
 
 (a) The food additive is the product resulting from the neutralization of feeding-phosphoric-acid or defluorinated wet-process phosphoric acid with anhydrous ammonia. It contains not less than 106.25 percent equivalent crude protein (nitrogen × 6.25) and 20 percent phosphorus. It contains not more than the following:
 
-1 part fluorine to 100 parts phosphorus.75 parts per million or arsenic (as As).30 parts per million of heavy metals, as lead (Pb).
+1 part fluorine to 100 parts phosphorus. 75 parts per million or arsenic (as As). 30 parts per million of heavy metals, as lead (Pb).
 
 (b) It is used in ruminant feeds as a source of phosphorus and nitrogen in an amount that supplies not more than 2 percent of equivalent crude protein in the total daily ration.
 

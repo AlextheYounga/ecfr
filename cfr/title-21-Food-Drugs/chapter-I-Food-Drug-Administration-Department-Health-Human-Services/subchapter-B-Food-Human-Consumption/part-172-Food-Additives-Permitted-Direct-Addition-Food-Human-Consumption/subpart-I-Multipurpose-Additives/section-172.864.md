@@ -61,7 +61,7 @@ Apparatus
 
 Absorbance repeatability, ±0.01 at 0.4 absorbance.
 
-Absorbance accuracy,1 ±0.05 at 0.4 absorbance.
+Absorbance accuracy, 1 ±0.05 at 0.4 absorbance.
 
 1 As determined by using potassium chromate for reference standard and described in National Bureau of Standards Circular 484, Spectrophotometry, U.S. Department of Commerce, (1949). The accuracy is to be determined by comparison with the standard values at 290, 345, and 400 millimicrons. Circular 484 is incorporated by reference. Copies are available from the Office of Food Additive Safety (HFS-200), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, 240-402-1200, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 

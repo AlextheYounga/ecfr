@@ -16,7 +16,7 @@
 
 (7) *Self-extinguishing lamp* means a high-intensity mercury vapor discharge lamp that is intended to comply with the requirements of paragraph (d)(1) of this section as applicable.
 
-(8) *Reference ballast* is an inductive reactor designed to have the operating characteristics as listed in Section 7 in the American National Standard Specifications for High-Intensity Discharge Lamp Reference Ballasts (ANSI C82.5-1977)1 or its equivalent.
+(8) *Reference ballast* is an inductive reactor designed to have the operating characteristics as listed in Section 7 in the American National Standard Specifications for High-Intensity Discharge Lamp Reference Ballasts (ANSI C82.5-1977) 1 or its equivalent.
 
 1 Copies are available from American National Standards Institute, 1430 Broadway, New York, NY 10018.
 

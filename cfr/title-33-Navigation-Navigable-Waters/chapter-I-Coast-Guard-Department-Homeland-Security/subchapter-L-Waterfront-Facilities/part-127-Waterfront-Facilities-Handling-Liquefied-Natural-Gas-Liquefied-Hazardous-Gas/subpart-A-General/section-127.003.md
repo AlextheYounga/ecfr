@@ -10,7 +10,7 @@ Certain material is incorporated by reference into this part with the approval o
 
 (b) The American Society of Mechanical Engineers (ASME), Two Park Avenue, New York, NY 10016-5990, 800-843-2763, *https://www.asme.org.*
 
-(1) ASME B16.5-2020, Pipe Flanges and Flanged Fittings, NPS1/2 Through NPS 24 Metric/Inch Standard, Issued January 29, 2021, for § 127.1102(a).
+(1) ASME B16.5-2020, Pipe Flanges and Flanged Fittings, NPS 1/2 Through NPS 24 Metric/Inch Standard, Issued January 29, 2021, for § 127.1102(a).
 
 (2) ASME B31.3-2020, Process Piping, ASME Code for Pressure Piping, B31, Issued June 18, 2021, for § 127.1101(a).
 

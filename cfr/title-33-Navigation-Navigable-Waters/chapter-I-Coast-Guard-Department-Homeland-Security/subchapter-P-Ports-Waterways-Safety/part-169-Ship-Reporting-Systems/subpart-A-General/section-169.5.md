@@ -12,7 +12,7 @@ As used in this part—
 
 *Gross tons* means vessel tonnage measured in accordance with the method utilized by the flag state administration of that vessel.
 
-*High speed craft* means a craft that is operable on or above the water and is capable of a maximum speed equal to or exceeding V = 3.7 × displ.1667, where “V” is the maximum speed and “displ” is the vessel displacement corresponding to the design waterline in cubic meters.
+*High speed craft* means a craft that is operable on or above the water and is capable of a maximum speed equal to or exceeding V = 3.7 × displ .1667, where “V” is the maximum speed and “displ” is the vessel displacement corresponding to the design waterline in cubic meters.
 
 *High speed passenger craft* means a high speed craft carrying more than 12 passengers.
 

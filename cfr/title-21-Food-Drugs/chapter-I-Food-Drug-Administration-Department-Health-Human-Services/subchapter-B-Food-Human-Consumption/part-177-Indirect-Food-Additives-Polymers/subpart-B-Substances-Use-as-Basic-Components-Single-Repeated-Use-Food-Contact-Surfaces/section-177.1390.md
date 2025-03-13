@@ -20,7 +20,7 @@
 
 (*e*) Nylon MXD-6 resins that comply with item 10.3 of the table in § 177.1500(b) of this chapter when extracted with water and heptane under the conditions of time and temperature specified for condition of use A, as set forth in Table 2 of § 176.170(c) of this chapter.
 
-(*f*) Nylon6/12 resins (CAS Reg. No. 25191-04-2) complying with item 13.3 of the table in § 177.1500(b), for use as nonfood-contact layers of laminated films and in rigid multilaminate constructions with polypropylene outer layers. Laminate structures with authorized food-contact materials yield no more than 0.15 milligrams of *epsilon*-caprolactam and 0.04 milligrams of *omega*-laurolactam per square inch when extracted with 95 percent ethanol at 121 °C (250 °F) for 2 hours.
+(*f*) Nylon 6/12 resins (CAS Reg. No. 25191-04-2) complying with item 13.3 of the table in § 177.1500(b), for use as nonfood-contact layers of laminated films and in rigid multilaminate constructions with polypropylene outer layers. Laminate structures with authorized food-contact materials yield no more than 0.15 milligrams of *epsilon*-caprolactam and 0.04 milligrams of *omega*-laurolactam per square inch when extracted with 95 percent ethanol at 121 °C (250 °F) for 2 hours.
 
 (*g*) Polymeric resins that comply with an applicable regulation in this chapter which permits food type and time/temperature conditions to which the container will be exposed, including sterilization processing.
 

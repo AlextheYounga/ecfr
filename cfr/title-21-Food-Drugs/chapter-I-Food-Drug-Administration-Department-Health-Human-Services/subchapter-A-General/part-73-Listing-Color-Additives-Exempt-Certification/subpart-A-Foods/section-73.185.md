@@ -6,7 +6,7 @@
 
 (b) *Specifications.* Haematococcus algae meal shall conform to the following specifications and shall be free from impurities other than those named to the extent that such impurities may be avoided by good manufacturing practice:
 
-Physical state, solid.Lead, not more than 5 parts per million.Arsenic, not more than 2 parts per million.Mercury, not more than 1 part per million.Heavy metals (as Pb), not more than 10 parts per million.Astaxanthin, not less than 1.5 percent.
+Physical state, solid. Lead, not more than 5 parts per million. Arsenic, not more than 2 parts per million. Mercury, not more than 1 part per million. Heavy metals (as Pb), not more than 10 parts per million. Astaxanthin, not less than 1.5 percent.
 
 (c) *Uses and restrictions.* Haematococcus algae meal may be safely used in the feed of salmonid fish in accordance with the following prescribed conditions:
 

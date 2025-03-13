@@ -22,7 +22,7 @@
 
 (3) “Ask a doctor before use if you have kidney disease”.
 
-(4) *For products in an aerosolized dosage form.* (i) “When using this product [bullet]1 keep away from face and mouth to avoid breathing it”.
+(4) *For products in an aerosolized dosage form.* (i) “When using this product [bullet] 1 keep away from face and mouth to avoid breathing it”.
 
 1 See § 201.66(b)(4) of this chapter for definition of bullet.
 

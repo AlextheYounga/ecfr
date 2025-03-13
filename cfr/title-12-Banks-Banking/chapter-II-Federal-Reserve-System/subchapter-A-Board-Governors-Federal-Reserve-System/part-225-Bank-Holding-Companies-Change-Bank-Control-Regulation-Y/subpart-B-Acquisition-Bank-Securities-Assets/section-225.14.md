@@ -4,7 +4,7 @@
 
 (i) A certification that all of the criteria in paragraph (c) of this section are met;
 
-(ii) A description of the transaction that includes identification of the companies and insured depository institutions involved in the transaction 1 and identification of each banking market affected by the transaction;
+(ii) A description of the transaction that includes identification of the companies and insured depository institutions involved in the transaction1 and identification of each banking market affected by the transaction;
 
 1 If, in connection with a transaction under this subpart, any person or group of persons proposes to acquire control of the acquiring bank holding company for purposes of the Bank Control Act or § 225.41, the person or group of persons may fulfill the notice requirements of the Bank Control Act and § 225.43 by providing, as part of the submission by the acquiring bank holding company under this subpart, identifying and biographical information required in paragraph (6)(A) of the Bank Control Act (12 U.S.C. 1817(j)(6)(A)), as well as any financial or other information requested by the Reserve Bank under § 225.43.
 

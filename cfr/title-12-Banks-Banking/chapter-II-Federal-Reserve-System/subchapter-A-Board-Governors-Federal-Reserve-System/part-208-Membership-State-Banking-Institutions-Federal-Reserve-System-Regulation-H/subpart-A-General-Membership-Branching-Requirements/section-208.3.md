@@ -1,6 +1,6 @@
 ##### § 208.3 Application and conditions for membership in the Federal Reserve System. #####
 
-(a) *Applications for membership and stock.* (1) State banks applying for membership in the Federal Reserve System shall file with the appropriate Federal Reserve Bank an application for membership in the Federal Reserve System and for stock in the Reserve Bank, 2 in accordance with this part and § 262.3 of the Rules of Procedure, located at 12 CFR 262.3.
+(a) *Applications for membership and stock.* (1) State banks applying for membership in the Federal Reserve System shall file with the appropriate Federal Reserve Bank an application for membership in the Federal Reserve System and for stock in the Reserve Bank,2 in accordance with this part and § 262.3 of the Rules of Procedure, located at 12 CFR 262.3.
 
 2 A mutual savings bank not authorized to purchase Federal Reserve Bank stock may apply for membership evidenced initially by a deposit, but if the laws under which the bank is organized are not amended at the first session of the legislature after its admission to authorize the purchase, or if the bank fails to purchase the stock within six months of the amendment, its membership shall be terminated.
 

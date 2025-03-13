@@ -90,7 +90,7 @@ Pr = Pm × 0.60,where:
 
 (f) *Currency mismatch.* (1) If a national bank or Federal savings association recognizes an eligible guarantee or eligible credit derivative that is denominated in a currency different from that in which the hedged exposure is denominated, the national bank or Federal savings association must apply the following formula to the effective notional amount of the guarantee or credit derivative:
 
-Pc = Pr x (1 − HFX), where:
+Pc = Pr x (1 − HFX),where:
 
 (i) Pc = effective notional amount of the credit risk mitigant, adjusted for currency mismatch (and maturity mismatch and lack of restructuring event, if applicable);
 

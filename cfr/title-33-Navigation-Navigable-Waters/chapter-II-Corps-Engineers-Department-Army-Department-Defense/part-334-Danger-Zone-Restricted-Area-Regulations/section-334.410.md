@@ -20,4 +20,4 @@ All bearings in this section are referred to true meridian.
 
 (4) *Enforcing agency.* The regulations in this section shall be enforced by the Commander, Naval Air Force, U.S. Atlantic Fleet, and such agencies as he/she shall designate.
 
-(Sec. 7, 40 Stat. 266; 33 U.S.C. 1: Chap. XIX, 40 Stat. 892; 33 U.S.C. 3)[16 FR 3131, Apr. 10, 1951, as amended at 16 FR 7460, July 31, 1951; 19 FR 479, Jan. 28, 1954; 31 FR 12436, Sept. 20, 1966; 33 FR 3218, Feb. 21, 1968; 40 FR 3993, Jan. 27, 1975. Redesignated at 50 FR 42696, Oct. 22, 1985, and amended at 53 FR 47953, Nov. 29, 1988; 61 FR 7215, Feb. 27, 1996; 62 FR 17553, Apr. 10, 1997]
+(Sec. 7, 40 Stat. 266; 33 U.S.C. 1: Chap. XIX, 40 Stat. 892; 33 U.S.C. 3) [16 FR 3131, Apr. 10, 1951, as amended at 16 FR 7460, July 31, 1951; 19 FR 479, Jan. 28, 1954; 31 FR 12436, Sept. 20, 1966; 33 FR 3218, Feb. 21, 1968; 40 FR 3993, Jan. 27, 1975. Redesignated at 50 FR 42696, Oct. 22, 1985, and amended at 53 FR 47953, Nov. 29, 1988; 61 FR 7215, Feb. 27, 1996; 62 FR 17553, Apr. 10, 1997]

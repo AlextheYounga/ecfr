@@ -35,4 +35,4 @@ Lightering operations and STS Operations are prohibited within the following are
 |28°15′00″, |              90°10′00″, thence to              |
 |27°53′00″, |90°10′00″, and thence to the point of beginning.|
 
-(NAD 83)[CGD 93-081, 60 FR 45017, Aug. 29, 1995, as amended by USCG-2010-0194, 80 FR 5935, Feb. 4, 2015]
+(NAD 83) [CGD 93-081, 60 FR 45017, Aug. 29, 1995, as amended by USCG-2010-0194, 80 FR 5935, Feb. 4, 2015]

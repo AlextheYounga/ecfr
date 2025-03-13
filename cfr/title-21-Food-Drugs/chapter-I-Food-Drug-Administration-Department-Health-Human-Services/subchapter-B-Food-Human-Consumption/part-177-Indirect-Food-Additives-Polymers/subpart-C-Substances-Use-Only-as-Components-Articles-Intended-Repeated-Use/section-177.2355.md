@@ -6,7 +6,7 @@ Mineral reinforced nylon resins identified in paragraph (a) of this section may 
 
 (b) The mineral reinforced nylon resins may contain up to 0.2 percent by weight of titanium dioxide as an optional adjuvant substance.
 
-(c) The mineral reinforced nylon resins with or without the optional substance described in paragraph (b) of this section, and in the form of1/8-inch molded test bars, when extracted with the solvents, i.e., distilled water and 50 percent (by volume) ethyl alcohol in distilled water, at reflux temperature for 24 hours using a volume-to-surface ratio of 2 milliliters of solvent per square inch of surface tested, shall meet the following extractives limitations:
+(c) The mineral reinforced nylon resins with or without the optional substance described in paragraph (b) of this section, and in the form of 1/8-inch molded test bars, when extracted with the solvents, i.e., distilled water and 50 percent (by volume) ethyl alcohol in distilled water, at reflux temperature for 24 hours using a volume-to-surface ratio of 2 milliliters of solvent per square inch of surface tested, shall meet the following extractives limitations:
 
 (1) Total extractives not to exceed 5.0 milligrams per square inch of food-contact surface tested for each solvent.
 

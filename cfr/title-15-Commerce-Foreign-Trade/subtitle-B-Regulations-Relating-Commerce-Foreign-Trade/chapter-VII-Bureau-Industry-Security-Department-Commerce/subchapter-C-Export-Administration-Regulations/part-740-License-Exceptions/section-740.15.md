@@ -80,7 +80,7 @@ An aircraft exported or reexported to a country pursuant to this paragraph (a) m
 
 (4) *Cuba.* Only items designated as EAR99 or controlled on the Commerce Control List (CCL) (supplement no. 1 to part 774 of the EAR) only for anti-terrorism reasons (*i.e.,* anti-terrorism must be the only reason for control that applies to the item as set forth in the Export Control Classification Number (ECCN) that controls the item) are eligible for export or reexport to Cuba pursuant to this paragraph (b).
 
-(c) *Shipments to U.S. or Canadian vessels, planes and airline installations or agents*—(1) *Exports to vessels or planes of U.S., Australian, Canadian, or UK registry.* Export may be made of the commodities set forth in paragraph (c)(3) of this section, for use by or on a specific vessel or plane of U.S., Australian, Canadian, or UK registry located at any seaport or airport outside the United States, Australia, Canada, or the UK except a port in Cuba or Country Group D:1 (excluding the PRC), (see supplement no. 1 to part 740) provided that such commodities are all of the following:3
+(c) *Shipments to U.S. or Canadian vessels, planes and airline installations or agents*—(1) *Exports to vessels or planes of U.S., Australian, Canadian, or UK registry.* Export may be made of the commodities set forth in paragraph (c)(3) of this section, for use by or on a specific vessel or plane of U.S., Australian, Canadian, or UK registry located at any seaport or airport outside the United States, Australia, Canada, or the UK except a port in Cuba or Country Group D:1 (excluding the PRC), (see supplement no. 1 to part 740) provided that such commodities are all of the following: 3
 
 3 Where a license is required, see §§ 748.1, 748.4 and 748.6 of the EAR.
 
@@ -92,7 +92,7 @@ An aircraft exported or reexported to a country pursuant to this paragraph (a) m
 
 (iv) Shipped as cargo for which Electronic Export Information (EEI) is filed to the Automated Export System (AES) in accordance with the requirements of the Foreign Trade Regulations (FTR) (15 CFR part 30), except EEI is not required to be filed when any of the commodities, other than fuel, is exported by U.S. airlines to their own aircraft abroad for their own use, see 15 CFR 30.37(o) of the FTR.
 
-(2) *Exports to U.S., Australian, Canadian, or UK airline's installation or agent.* Exports of the commodities set forth in paragraph (c)(3) of this section, except fuel, may be made to a U.S., Australian, Canadian, or UK airline's4 installation or agent in any foreign destination except Cuba or Country Group D:1 (excluding the PRC), (see supplement no. 1 to part 740) provided such commodities are all of the following:
+(2) *Exports to U.S., Australian, Canadian, or UK airline's installation or agent.* Exports of the commodities set forth in paragraph (c)(3) of this section, except fuel, may be made to a U.S., Australian, Canadian, or UK airline's 4 installation or agent in any foreign destination except Cuba or Country Group D:1 (excluding the PRC), (see supplement no. 1 to part 740) provided such commodities are all of the following:
 
 4 See part 772 of the EAR for definitions of United States, Australia, Canadian, and UK airlines.
 

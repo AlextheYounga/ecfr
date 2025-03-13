@@ -164,4 +164,4 @@
 
 (i) Deviation from this section is prohibited unless specifically authorized by the Commander, Ninth Coast Guard District or designated representative.
 
-(Approved by the Office of Management and Budget under OMB control number 1625-1505)[CDG09-03-241, 68 FR 57622, Oct. 6, 2003, as amended by USCG-2005-21869, 80 FR 5336, Jan. 30, 2015; USCG-2013-0849, 80 FR 81189, Dec. 29, 2015]
+(Approved by the Office of Management and Budget under OMB control number 1625-1505) [CDG09-03-241, 68 FR 57622, Oct. 6, 2003, as amended by USCG-2005-21869, 80 FR 5336, Jan. 30, 2015; USCG-2013-0849, 80 FR 81189, Dec. 29, 2015]

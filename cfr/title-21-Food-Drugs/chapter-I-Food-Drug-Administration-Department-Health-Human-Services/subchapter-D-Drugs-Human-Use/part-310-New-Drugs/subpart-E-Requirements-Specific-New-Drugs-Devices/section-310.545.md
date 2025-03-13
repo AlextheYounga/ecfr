@@ -12,11 +12,11 @@ Hydrogen fluorideSodium carbonateSodium monofluorophosphate (6 percent rinse)Sod
 
 (ii) *Approved as of October 7, 1996.*
 
-Calcium sucrose phosphateDicalcium phosphate dihydrateDisodium hydrogen phosphate1
+Calcium sucrose phosphateDicalcium phosphate dihydrateDisodium hydrogen phosphate 1
 
 1 These ingredients are nonmonograph except when used to prepare acidulated phosphate fluoride treatment rinses identified in § 355.10(a)(3) of this chapter.
 
-Phosphoric acid1Sodium dihydrogen phosphateSodium dihydrogen phosphate monohydrateSodium phosphate, dibasic anhydrous reagent1
+Phosphoric acid 1Sodium dihydrogen phosphateSodium dihydrogen phosphate monohydrateSodium phosphate, dibasic anhydrous reagent 1
 
 (3) *Antidiarrheal drug products*—(i) *Approved as of May 7, 1991.*
 
@@ -50,17 +50,17 @@ Allyl isothiocyanateCamphor (lozenge)Creosote, beechwood (oral)Eucalyptol (lozen
 
 (B) *Approved as of August 23, 1995.*
 
-Bornyl acetate (topical)Cedar leaf oil (topical)Creosote, beechwood (topical)Ephedrine (oral)Ephedrine hydrochloride (oral)Ephedrine sulfate (oral)Racephedrine hydrochloride (oral/topical)
+Bornyl acetate (topical) Cedar leaf oil (topical) Creosote, beechwood (topical)Ephedrine (oral) Ephedrine hydrochloride (oral) Ephedrine sulfate (oral) Racephedrine hydrochloride (oral/topical)
 
 (C) Approved as of April 11, 2007; October 11, 2007, for products with annual sales less than $25,000. Any ingredient(s) labeled with claims or directions for use for sinusitis or for relief of nasal congestion associated with sinusitis.
 
 (iii) *Expectorant drug products.*
 
-Ammonium chlorideAntimony potassium tartrateBeechwood creosoteBenzoin preparations (compound tincture of benzoin, tincture of benzoin)CamphorChloroformEucalyptol/eucalyptus oilHorehoundIodides (calcium iodide anyhydrous, hydroidic acid syrup, iodized lime, potassium iodide)IpecacIpecac fluidextractIpecac syrupMenthol/peppermint oilPine tar preparations (extract white pine compound, pine tar, syrup of pine tar, compound white pine syrup, white pine)Potassium guaiacolsulfonateSodium citrateSquill preparations (squill, squill extract)Terpin hydrate preparations (terpin hydrate, terpin hydrate elixir)Tolu preparations (tolu, tolu balsam, tolu balsam tincture)Turpentine oil (spirits of turpentine)
+Ammonium chlorideAntimony potassium tartrateBeechwood creosoteBenzoin preparations (compound tincture of benzoin, tincture of benzoin)CamphorChloroformEucalyptol/eucalyptus oilHorehound Iodides (calcium iodide anyhydrous, hydroidic acid syrup, iodized lime, potassium iodide)IpecacIpecac fluidextractIpecac syrupMenthol/peppermint oilPine tar preparations (extract white pine compound, pine tar, syrup of pine tar, compound white pine syrup, white pine)Potassium guaiacolsulfonateSodium citrateSquill preparations (squill, squill extract)Terpin hydrate preparations (terpin hydrate, terpin hydrate elixir)Tolu preparations (tolu, tolu balsam, tolu balsam tincture)Turpentine oil (spirits of turpentine)
 
 (iv) *Bronchodilator drug products*—(A) *Approved as of October 2, 1987.*
 
-AminophyllineBelladonna alkaloidsEuphorbia piluliferaMetaproterenol sulfateMethoxyphenamine hydrochloridePseudoephedrine hydrochloridePseudoephedrine sulfateTheophylline, anhydrousTheophylline calcium salicylateTheophylline sodium glycinate
+Aminophylline Belladonna alkaloids Euphorbia pilulifera Metaproterenol sulfate Methoxyphenamine hydrochloride Pseudoephedrine hydrochloride Pseudoephedrine sulfate Theophylline, anhydrous Theophylline calcium salicylate Theophylline sodium glycinate
 
 (B) Approved as of January 29, 1996. Any combination drug product containing theophylline (e.g., theophylline and ephedrine, or theophylline and ephedrine and phenobarbital).
 
@@ -70,7 +70,7 @@ AminophyllineBelladonna alkaloidsEuphorbia piluliferaMetaproterenol sulfateMetho
 
 (7) *Dandruff/seborrheic dermatitis/psoriasis drug products.*
 
-Alkyl isoquinolinium bromideAllantoinBenzalkonium chlorideBenzethonium chlorideBoric acidCalcium undecylenateCaptanChloroxylenolColloidal oatmealCresol, saponatedEthohexadiolEucalyptolJuniper tarLauryl isoquinolinium bromideMentholMercury oleateMethylbenzethonium chlorideMethyl salicylatePhenolPhenolate sodiumPine tarPovidone-iodineResorcinolSodium borateSodium salicylateThymolUndecylenic acid
+Alkyl isoquinolinium bromideAllantoinBenzalkonium chlorideBenzethonium chlorideBoric acidCalcium undecylenateCaptanChloroxylenolColloidal oatmealCresol, saponatedEthohexadiolEucalyptolJuniper tarLauryl isoquinolinium bromideMenthol Mercury oleateMethylbenzethonium chlorideMethyl salicylatePhenolPhenolate sodiumPine tarPovidone-iodineResorcinolSodium borateSodium salicylateThymolUndecylenic acid
 
 (8) *Digestive aid drug products*—(i) *Approved as of May 7, 1991.*
 
@@ -78,7 +78,7 @@ Bismuth sodium tartrateCalcium carbonateCellulaseDehydrocholic acidDihydroxyalum
 
 (ii) *Approved as of November 10, 1993.*
 
-AlcoholAluminum hydroxideAmylaseAnise seedAromatic powderAsafetidaAspergillus oryza enzymes (except lactase enzyme derived from *Aspergillus oryzae*)Bacillus acidophilusBeanBelladonna alkaloidsBelladonna leaves, powdered extractBetaine hydrochlorideBismuth subcarbonateBismuth subgallateBlack radish powderBlessed thistle (cnicus benedictus)BuckthornCalcium gluconateCapsicumCapsicum, fluid extract ofCarbonCascara sagrada extractCatechu, tinctureCatnipChamomile flowersCharcoal, woodChloroformCinnamon oilCinnamon tinctureCitrus pectinDiastaseDiastase maltDog grassElecampaneEtherFennel acidGalegaGingerGlycineHydrastis canadensis (golden seal)HectoriteHorsetailHuckleberryHydrastis fluid extractHydrochloric acidIodineIron ox bileJohnswortJuniperKaolin, colloidalKnotgrassLactic acidLactoseLavender compound, tincture ofLindenLipaseLysine hydrochlorideMannitolMycozymeMyrrh, fluid extract ofNettleNickel-pectinNux vomica extractOrthophosphoric acidPapaya, naturalPectinPeppermintPeppermint spiritPhenacetinPotassium bicarbonatePotassium carbonateProteaseProlaseRhubarb fluid extractSennaSodium chlorideSodium salicylateStem bromelainStrawberryStrychnineTannic acidTrilliumWoodruff
+Alcohol Aluminum hydroxide Amylase Anise seed Aromatic powderAsafetida Aspergillus oryza enzymes (except lactase enzyme derived from *Aspergillus oryzae*) Bacillus acidophilus Bean Belladonna alkaloids Belladonna leaves, powdered extract Betaine hydrochloride Bismuth subcarbonate Bismuth subgallate Black radish powder Blessed thistle (cnicus benedictus) Buckthorn Calcium gluconate Capsicum Capsicum, fluid extract of Carbon Cascara sagrada extract Catechu, tincture Catnip Chamomile flowers Charcoal, wood Chloroform Cinnamon oil Cinnamon tincture Citrus pectin Diastase Diastase malt Dog grass Elecampane Ether Fennel acid Galega Ginger Glycine Hydrastis canadensis (golden seal) Hectorite Horsetail Huckleberry Hydrastis fluid extract Hydrochloric acid Iodine Iron ox bile Johnswort Juniper Kaolin, colloidal Knotgrass Lactic acid Lactose Lavender compound, tincture ofLinden Lipase Lysine hydrochloride Mannitol Mycozyme Myrrh, fluid extract of Nettle Nickel-pectin Nux vomica extract Orthophosphoric acid Papaya, natural Pectin Peppermint Peppermint spirit Phenacetin Potassium bicarbonate Potassium carbonate Protease Prolase Rhubarb fluid extract Senna Sodium chloride Sodium salicylate Stem bromelain StrawberryStrychnine Tannic acid Trillium Woodruff
 
 (iii) Charcoal, activated
 
@@ -100,15 +100,15 @@ Benzyl alcoholCamphorated metacresolEphedrine hydrochloride
 
 (v) *Fever blister and cold sore treatment drug products.*
 
-Allyl isothiocyanateAspirinBismuth sodium tartrateCamphor (exceeding 3 percent)CapsaicinCapsicumCapsicum oleoresinChloral hydrateChlorobutanolCyclomethycaine sulfateEucalyptus oilEugenolGlycol salicylateHexylresorcinolHistamine dihydrochlorideMenthol (exceeding 1 percent)Methapyrilene hydrochlorideMethyl nicotinateMethyl salicylatePectinSalicylamideStrong ammonia solutionTannic acidThymolTripelennamine hydrochlorideTrolamine salicylateTurpentine oilZinc sulfate
+Allyl isothiocyanate Aspirin Bismuth sodium tartrate Camphor (exceeding 3 percent) Capsaicin Capsicum Capsicum oleoresin Chloral hydrate Chlorobutanol Cyclomethycaine sulfateEucalyptus oil Eugenol Glycol salicylate Hexylresorcinol Histamine dihydrochloride Menthol (exceeding 1 percent) Methapyrilene hydrochloride Methyl nicotinate Methyl salicylate Pectin Salicylamide Strong ammonia solution Tannic acid Thymol Tripelennamine hydrochloride Trolamine salicylate Turpentine oil Zinc sulfate
 
 (vi) *Insect bite and sting drug products.*
 
-AlcoholAlcohol, ethoxylated alkylBenzalkonium chlorideCalamineErgot fluidextractFerric chloridePanthenolPeppermint oilPyrilamine maleateSodium borateTrolamine salicylateTurpentine oilZinc oxideZirconium oxide
+Alcohol Alcohol, ethoxylated alkyl Benzalkonium chloride Calamine Ergot fluidextract Ferric chloride Panthenol Peppermint oil Pyrilamine maleate Sodium borate Trolamine salicylate Turpentine oil Zinc oxide Zirconium oxide
 
 (vii) *Poison ivy, poison oak, and poison sumac drug products.*
 
-AlcoholAspirinBenzethonium chlorideBenzocaine (0.5 to 1.25 percent)BithionolCalamineCetalkonium chlorideChloral hydrateChlorobutanolChlorpheniramine maleateCreosote, beechwoodCyclomethycaine sulfateDexpanthenolDiperodon hydrochlorideEucalyptus oilEugenolGlycerinGlycol salicylateHectoriteHexylresorcinolHydrogen peroxideImpatiens biflora tinctureIron oxideIsopropyl alcoholLanolinLead acetateMerbrominMercuric chlorideMethapyrilene hydrochloridePanthenolParethoxycaine hydrochloridePhenyltoloxamine dihydrogen citratePovidone-vinylacetate copolymersPyrilamine maleateSalicylamideSalicylic acidSimethiconeSulfurTannic acidThymolTrolamine salicylateTurpentine oilZirconium oxideZyloxin
+Alcohol Aspirin Benzethonium chloride Benzocaine (0.5 to 1.25 percent) Bithionol Calamine Cetalkonium chloride Chloral hydrate Chlorobutanol Chlorpheniramine maleate Creosote, beechwood Cyclomethycaine sulfate Dexpanthenol Diperodon hydrochloride Eucalyptus oil Eugenol Glycerin Glycol salicylate Hectorite Hexylresorcinol Hydrogen peroxide Impatiens biflora tincture Iron oxide Isopropyl alcohol Lanolin Lead acetate Merbromin Mercuric chloride Methapyrilene hydrochloride Panthenol Parethoxycaine hydrochloride Phenyltoloxamine dihydrogen citrate Povidone-vinylacetate copolymers Pyrilamine maleate Salicylamide Salicylic acid Simethicone Sulfur Tannic acid Thymol Trolamine salicylate Turpentine oil Zirconium oxide Zyloxin
 
 (11) [Reserved]
 
@@ -130,7 +130,7 @@ Poloxamer 188
 
 (iv)(A) *Stimulant laxatives—Approved as of May 7, 1991.*
 
-AloinBile salts/acidsCalcium pantothenateCalomelColocynthElaterin resinFrangulaGambogeIpomeaJalapOx bilePodophyllum resinPrune concentrate dehydratePrune powderRhubarb, ChineseSodium Oleate
+Aloin Bile salts/acids Calcium pantothenate Calomel Colocynth Elaterin resin Frangula Gamboge Ipomea Jalap Ox bile Podophyllum resin Prune concentrate dehydratePrune powder Rhubarb, Chinese Sodium Oleate
 
 (iv)(B) *Stimulant laxatives—Approved as of January 29, 1999.*
 
@@ -144,7 +144,7 @@ Aloe ingredients (aloe, aloe extract, aloe flower extract)Cascara sagrada ingred
 
 (14) *Oral health care drug products (nonantimicrobial).*
 
-AntipyrineCamphorCresolDibucaineDibucaine hydrochlorideEucalyptolLidocaineLidocaine hydrochlorideMethly salicylateMyrrh tincturePyrilamine maleateSorbitolSugarsTetracaineTetracaine hydrochlorideThymol
+Antipyrine Camphor Cresol Dibucaine Dibucaine hydrochloride Eucalyptol LidocaineLidocaine hydrochloride Methly salicylate Myrrh tincture Pyrilamine maleate Sorbitol Sugars Tetracaine Tetracaine hydrochloride Thymol
 
 (15) *Topical otic drug products*—(i) *For the prevention of swimmer's ear and for the drying of water-clogged ears, approved as of May 7, 1991.*
 
@@ -156,7 +156,7 @@ Glycerin and anhydrous glycerinIsopropyl alcohol
 
 (16) *Poison treatment drug products.*
 
-Ipecac fluidextractIpecac tinctureZinc sulfate
+Ipecac fluidextract Ipecac tincture Zinc sulfate
 
 (17) *Skin bleaching drug products.*
 
@@ -172,15 +172,15 @@ BeeswaxBismuth subnitrateBoric acidCetyl alcoholGlyceryl stearateIsopropyl palmi
 
 (ii) *Astringent drug products.*
 
-AcetoneAlcoholAlum, ammoniumAlum, potassiumAluminum chlorhydroxy complexAromaticsBenzalkonium chlorideBenzethonium chlorideBenzocaineBenzoic acidBoric acidCalcium acetate (except calcium acetate monohydrate when combined with aluminum sulfate tetradecahydrate to provide an aluminum acetate solution as described in § 347.20(b) of this chapter)Camphor gumClove oilColloidal oatmealCresolCupric sulfateEucalyptus oilEugenolFerric subsulfate (Monsel's Solution)HoneyIsopropyl alcoholMentholMethyl salicylateOxyquinoline sulfateP-t-butyl-m-cresolPeppermint oilPhenolPolyoxeythylene lauratePotassium ferrocyanideSage oilSilver nitrateSodium borateSodium diacetateTalcTannic acid glyceriteThymolTopical starchZinc chlorideZinc oxideZinc phenolsulfonateZinc stearateZinc sulfate
+Acetone AlcoholAlum, ammonium Alum, potassium Aluminum chlorhydroxy complex Aromatics Benzalkonium chloride Benzethonium chloride Benzocaine Benzoic acid Boric acid Calcium acetate (except calcium acetate monohydrate when combined with aluminum sulfate tetradecahydrate to provide an aluminum acetate solution as described in § 347.20(b) of this chapter)Camphor gum Clove oil Colloidal oatmeal Cresol Cupric sulfate Eucalyptus oil Eugenol Ferric subsulfate (Monsel's Solution)Honey Isopropyl alcohol Menthol Methyl salicylate Oxyquinoline sulfate P-t-butyl-m-cresol Peppermint oil Phenol Polyoxeythylene laurate Potassium ferrocyanide Sage oil Silver nitrate Sodium borate Sodium diacetate Talc Tannic acid glycerite Thymol Topical starch Zinc chloride Zinc oxide Zinc phenolsulfonate Zinc stearate Zinc sulfate
 
 (iii) *Diaper rash drug products.*
 
-Aluminum hydroxideCocoa butterCysteine hydrochlorideGlycerinProtein hydrolysateRacemethionineSulfurTannic acidZinc acetateZinc carbonate
+Aluminum hydroxide Cocoa butter Cysteine hydrochloride Glycerin Protein hydrolysate Racemethionine Sulfur Tannic acid Zinc acetate Zinc carbonate
 
 (iv) *Fever blister and cold sore treatment drug products.*
 
-Bismuth subnitrateBoric acidPyridoxine hydrochlorideSulfurTannic acidTopical starchTrolamineZinc sulfate
+Bismuth subnitrate Boric acid Pyridoxine hydrochloride Sulfur Tannic acid Topical starch Trolamine Zinc sulfate
 
 (v) *Insect bite and sting drug products*—(A) *Ingredients—Approved as of November 10, 1993.*
 
@@ -228,17 +228,17 @@ Phenylephrine hydrochloride (less than 0.08 percent)
 
 (ii) *Ingredients.*
 
-AlcloxaAlum, potassiumAluminum sulfateAmyltricresols, secondaryBasic fuchsinBenzethonium chlorideBenzoic acidBenzoxiquineBoric acidCamphorCandicidinChlorothymolCoal tarDichlorophenMentholMethylparabenOxyquinolineOxyquinoline sulfatePhenolPhenolate sodiumPhenyl salicylatePropionic acidPropylparabenResorcinolSalicylic acidSodium borateSodium caprylateSodium propionateSulfurTannic acidThymolTolindateTriacetinZinc caprylateZinc propionate
+Alcloxa Alum, potassium Aluminum sulfate Amyltricresols, secondary Basic fuchsin Benzethonium chloride Benzoic acid Benzoxiquine Boric acid Camphor Candicidin Chlorothymol Coal tar Dichlorophen Menthol Methylparaben Oxyquinoline Oxyquinoline sulfate Phenol Phenolate sodium Phenyl salicylate Propionic acid Propylparaben Resorcinol Salicylic acid Sodium borate Sodium caprylate Sodium propionate Sulfur Tannic acid Thymol Tolindate Triacetin Zinc caprylate Zinc propionate
 
 (iii) Any ingredient(s) labeled with claims or directions for use on the scalp or on the nails.
 
 (iv) *Ingredients.*
 
-Camphorated metacresolChloroxylenol*m*-cresolNystatin
+Camphorated metacresol Chloroxylenol *m*-cresol Nystatin
 
 (23) *Internal analgesic drug products*—(i) *Approved as of November 10, 1993.*
 
-Aminobenzoic acidAntipyrineAspirin, aluminumCalcium salicylateCodeineCodeine phosphateCodeine sulfateIodoantipyrineLysine aspirinMethapyrilene fumaratePhenacetinPheniramine maleatePyrilamine maleateQuinineSalsalateSodium aminobenzoate
+Aminobenzoic acid Antipyrine Aspirin, aluminum Calcium salicylate Codeine Codeine phosphate Codeine sulfate Iodoantipyrine Lysine aspirin Methapyrilene fumarate Phenacetin Pheniramine maleate Pyrilamine maleate Quinine Salsalate Sodium aminobenzoate
 
 (ii) *Approved as of* February 22, 1999.
 
@@ -246,7 +246,7 @@ Any atropine ingredientAny ephedrine ingredient
 
 (24) *Orally administered menstrual drug products*—(i) *Approved as of November 10, 1993.*
 
-AlcoholAlfalfa leavesAloesAsclepias tuberosaAsparagusBarosmaBearberry (extract of uva ursi)Bearberry fluidextract (extract of bearberry)Blessed thistle (cnicus benedictus)Buchu powdered extract (extract of buchu)Calcium lactateCalcium pantothenateCapsicum oleoresinCascara fluidextract, aromatic (extract of cascara)Chlorprophenpyridamine maleateCimicifuga racemosaCodeineCollinsonia (extract stone root)Corn silkCouch grassDog grass extractEthyl nitriteFerric chlorideFerrous sulfateGentiana lutea (gentian)Glycyrrhiza (licorice)Homatropine methylbromideHydrangea, powdered extract (extract of hydrangea)Hydrastis canadensis (golden seal)Hyoscyamine sulfateJuniper oil (oil of juniper)Magnesium sulfateMethapyrilene hydrochlorideMethenamineMethylene blueNatural estrogenic hormoneNiacinamideNutmeg oil (oil of nutmeg)Oil of erigeronParsleyPeppermint spiritPepsin, essencePhenacetinPhenindamine tartratePhenyl salicylatePiscidia erythrinaPipsissewaPotassium acetatePotassium nitrateRiboflavinSaw palmettoSenecio aureusSodium benzoateSodium nitrateSucroseSulferated oils of turpentineTaraxacum officinaleTheobromine sodium salicylateTheophyllineThiamine hydrochlorideTriticumTurpentine, venice (venice turpertine)Urea
+Alcohol Alfalfa leaves Aloes Asclepias tuberosa Asparagus Barosma Bearberry (extract of uva ursi) Bearberry fluidextract (extract of bearberry) Blessed thistle (cnicus benedictus) Buchu powdered extract (extract of buchu) Calcium lactate Calcium pantothenate Capsicum oleoresin Cascara fluidextract, aromatic (extract of cascara) Chlorprophenpyridamine maleate Cimicifuga racemosa Codeine Collinsonia (extract stone root) Corn silk Couch grass Dog grass extract Ethyl nitrite Ferric chloride Ferrous sulfate Gentiana lutea (gentian) Glycyrrhiza (licorice) Homatropine methylbromide Hydrangea, powdered extract (extract of hydrangea) Hydrastis canadensis (golden seal) Hyoscyamine sulfate Juniper oil (oil of juniper) Magnesium sulfate Methapyrilene hydrochloride Methenamine Methylene blue Natural estrogenic hormone Niacinamide Nutmeg oil (oil of nutmeg) Oil of erigeron Parsley Peppermint spirit Pepsin, essence Phenacetin Phenindamine tartrate Phenyl salicylate Piscidia erythrina Pipsissewa Potassium acetate Potassium nitrate Riboflavin Saw palmetto Senecio aureus Sodium benzoate Sodium nitrate Sucrose Sulferated oils of turpentine Taraxacum officinale Theobromine sodium salicylate Theophylline Thiamine hydrochloride Triticum Turpentine, venice (venice turpertine) Urea
 
 (ii) *Approved as of* February 22, 1999.
 
@@ -254,7 +254,7 @@ Any atropine ingredientAny ephedrine ingredient
 
 (25) *Pediculicide drug products*—(i) *Approved as of November 10, 1993.*
 
-BenzocaineBenzyl alcoholBenzyl benzoateChlorophenothane (dichlorodiphenyl trichloroethane)Coconut oil soap, aqueousCopper oleateDocusate sodiumFormic acidIsobornyl thiocyanoacetatePicrotoxinPropylene glycolSabadilla alkaloidsSulfur, sublimedThiocyanoacetate
+Benzocaine Benzyl alcohol Benzyl benzoate Chlorophenothane (dichlorodiphenyl trichloroethane) Coconut oil soap, aqueous Copper oleate Docusate sodium Formic acid Isobornyl thiocyanoacetate Picrotoxin Propylene glycol Sabadilla alkaloids Sulfur, sublimed Thiocyanoacetate
 
 (ii) *Approved as of June 14, 1994.* The combination of pyrethrum extract (formerly named pyrethrins) and piperonyl butoxide in an aerosol dosage formulation.
 

@@ -74,7 +74,7 @@
 
 (B) If the FDIC-supervised institution is not a Category III FDIC-supervised institution or a Category IV FDIC-supervised institution, during the first reporting period after the FDIC-supervised institution is required to comply with subpart A of this part as set forth in § 324.1(f).
 
-(iii) With respect to an FDIC-supervised institution that is not an advanced approaches FDIC-supervised institution, each of its subsidiary banking organizations that is subject to regulatory capital requirements issued by the Federal Reserve, the FDIC, or the OCC 22 must elect the same option as the FDIC-supervised institution pursuant to this paragraph (b)(2).
+(iii) With respect to an FDIC-supervised institution that is not an advanced approaches FDIC-supervised institution, each of its subsidiary banking organizations that is subject to regulatory capital requirements issued by the Federal Reserve, the FDIC, or the OCC22 must elect the same option as the FDIC-supervised institution pursuant to this paragraph (b)(2).
 
 22 These rules include the regulatory capital requirements set forth at 12 CFR part 3 (OCC); 12 CFR part 217 (Board); 12 CFR part 324 (FDIC).
 

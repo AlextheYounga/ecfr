@@ -18,7 +18,8 @@
 
 (iv) The proposed deponent has custody of documents or electronic data relevant to the claims or defenses of any party (this excludes officers or personnel of the Bureau who have custody of documents or data that was produced by the Enforcement Division to the respondent); or
 
-(v) T he proposed deponent is unavailable for the hearing as set forth in § 1081.209(c).
+(v) T
+he proposed deponent is unavailable for the hearing as set forth in § 1081.209(c).
 
 (2) Where it appears to the hearing officer that the subpoena sought may be unreasonable, oppressive, excessive in scope, or unduly burdensome, the hearing officer may, as a condition precedent to the issuance of the subpoena, require the person seeking the subpoena to show further the general relevance and reasonable scope of the testimony or other evidence sought. If after consideration of all the circumstances, the hearing officer determines that the subpoena or any of its terms is unreasonable, oppressive, excessive in scope, or unduly burdensome, the hearing officer may refuse to issue the subpoena, or issue it only upon such conditions as fairness requires. In making the foregoing determination, the hearing officer may inquire of the other parties whether they will stipulate to the facts sought to be proved.
 

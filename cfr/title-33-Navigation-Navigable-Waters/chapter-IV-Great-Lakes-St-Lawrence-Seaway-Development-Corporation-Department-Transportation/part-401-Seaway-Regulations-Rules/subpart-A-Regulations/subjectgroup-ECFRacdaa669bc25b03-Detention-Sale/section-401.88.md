@@ -14,4 +14,4 @@
 
 (2) The fine or penalty imposed on conviction, shall be deducted from the proceeds of a sale pursuant to paragraph (b) of this section, and the balance shall be paid to the owner of the vessel or cargo or the mortgagee thereof, as the case may be.
 
-(68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471)[39 FR 10900, Mar. 22, 1974, as amended at 41 FR 12227, Mar. 24, 1976; 47 FR 51124, Nov. 12, 1982; 65 FR 52915, Aug. 31, 2000]
+(68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471) [39 FR 10900, Mar. 22, 1974, as amended at 41 FR 12227, Mar. 24, 1976; 47 FR 51124, Nov. 12, 1982; 65 FR 52915, Aug. 31, 2000]

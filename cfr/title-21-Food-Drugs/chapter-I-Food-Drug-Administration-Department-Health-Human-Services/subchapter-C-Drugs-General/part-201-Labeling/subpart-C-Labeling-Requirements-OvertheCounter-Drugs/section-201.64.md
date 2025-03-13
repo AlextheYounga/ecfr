@@ -4,7 +4,7 @@
 
 (b) The sodium content shall be expressed in milligrams per dosage unit and shall include the total amount of sodium regardless of the source, i.e., from both active and inactive ingredients. The sodium content shall be rounded-off to the nearest whole number. The sodium content per dosage unit shall follow the heading “Other information” as stated in § 201.66(c)(7).
 
-(c) The labeling of OTC drug products intended for oral ingestion shall contain the following statement under the heading “Warning” (or “Warnings” if it appears with additional warning statements) if the amount of sodium present in the labeled maximum daily dose of the product is more than 140 milligrams: “Ask a doctor before use if you have [in bold type] [bullet]1 a sodium-restricted diet”. The warnings in §§ 201.64(c), 201.70(c), 201.71(c), and 201.72(c) may be combined, if applicable, provided the ingredients are listed in alphabetical order, e g., a calcium or sodium restricted diet.
+(c) The labeling of OTC drug products intended for oral ingestion shall contain the following statement under the heading “Warning” (or “Warnings” if it appears with additional warning statements) if the amount of sodium present in the labeled maximum daily dose of the product is more than 140 milligrams: “Ask a doctor before use if you have [in bold type] [bullet] 1 a sodium-restricted diet”. The warnings in §§ 201.64(c), 201.70(c), 201.71(c), and 201.72(c) may be combined, if applicable, provided the ingredients are listed in alphabetical order, e g., a calcium or sodium restricted diet.
 
 1 See § 201 .66(b)(4) of this chapter for definition of bullet symbol.
 

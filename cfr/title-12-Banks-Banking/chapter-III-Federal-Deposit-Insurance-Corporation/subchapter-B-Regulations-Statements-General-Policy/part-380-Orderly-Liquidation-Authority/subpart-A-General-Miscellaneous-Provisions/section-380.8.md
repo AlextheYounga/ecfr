@@ -1,6 +1,6 @@
 ##### § 380.8 Predominantly engaged in activities that are financial or incidental thereto. #####
 
-(a) For purposes of sections 201(a)(11) and 201(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act 1 (“Dodd-Frank Act”) and this part, a company is predominantly engaged in activities that the Board of Governors of the Federal Reserve System (“Board of Governors”) has determined are financial in nature or incidental thereto for purposes of section 4(k) of the Bank Holding Company Act of 1956 (“BHC Act”) (12 U.S.C. 1843(k)), if:
+(a) For purposes of sections 201(a)(11) and 201(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act1 (“Dodd-Frank Act”) and this part, a company is predominantly engaged in activities that the Board of Governors of the Federal Reserve System (“Board of Governors”) has determined are financial in nature or incidental thereto for purposes of section 4(k) of the Bank Holding Company Act of 1956 (“BHC Act”) (12 U.S.C. 1843(k)), if:
 
 1 12 U.S.C. 5381(a)(11) and (b).
 
@@ -48,7 +48,7 @@
 
 (*5*) Credit bureau services. Maintaining information related to the credit history of consumers and providing the information to a credit grantor who is considering a borrower's application for credit or who has extended credit to the borrower.
 
-(*6*) Asset management, servicing, and collection activities. Engaging under contract with a third party in asset management, servicing, and collection 2 of assets of a type that an insured depository institution may originate and own.
+(*6*) Asset management, servicing, and collection activities. Engaging under contract with a third party in asset management, servicing, and collection2 of assets of a type that an insured depository institution may originate and own.
 
 2 Asset management services include acting as agent in the liquidation or sale of loans and collateral for loans, including real estate and other assets acquired through foreclosure or in satisfaction of debts previously contracted.
 
@@ -60,7 +60,7 @@
 
 (C) Leasing personal or real property. Leasing personal or real property or acting as agent, broker, or adviser in leasing such property if—
 
-(*1*) The lease is on a nonoperating basis; 4
+(*1*) The lease is on a nonoperating basis;4
 
 4 The requirement that the lease is on a nonoperating basis means that the company does not, directly or indirectly, engage in operating, servicing, maintaining, or repairing leased property during the lease term. For purposes of the leasing of automobiles, the requirement that the lease is on a nonoperating basis means that the company does not, directly or indirectly: (1) Provide servicing, repair, or maintenance of the leased vehicle during the lease term; (2) purchase parts and accessories in bulk or for an individual vehicle after the lessee has taken delivery of the vehicle; (3) provide the loan of an automobile during servicing of the leased vehicle; (4) purchase insurance for the lessee; or (5) provide for the renewal of the vehicle's license merely as a service to the lessee where the lessee could renew the license without authorization from the lessor.
 
@@ -84,7 +84,7 @@
 
 (*2*) Furnishing general economic information and advice, general economic statistical forecasting services, and industry studies;
 
-(*3*) Providing advice in connection with mergers, acquisitions, divestitures, investments, joint ventures, leveraged buyouts, recapitalizations, capital structurings, financing transactions and similar transactions, and conducting financial feasibility studies; 5
+(*3*) Providing advice in connection with mergers, acquisitions, divestitures, investments, joint ventures, leveraged buyouts, recapitalizations, capital structurings, financing transactions and similar transactions, and conducting financial feasibility studies;5
 
 5 Feasibility studies do not include assisting management with the planning or marketing for a given project or providing general operational or management advice.
 
@@ -120,7 +120,7 @@
 
 (*3*) Buying and selling bullion, and related activities. Buying, selling and storing bars, rounds, bullion, and coins of gold, silver, platinum, palladium, copper, and any other metal for the company's own account and the account of others, and providing incidental services such as arranging for storage, safe custody, assaying, and shipment.
 
-(I) Management consulting and counseling activities—(*1*) Management consulting. Providing management consulting advice: 8
+(I) Management consulting and counseling activities—(*1*) Management consulting. Providing management consulting advice:8
 
 8 In performing this activity, companies are not authorized to perform tasks or operations or provide services to client institutions either on a daily or continuing basis, except as necessary to instruct the client institution on how to perform such services for itself. See also the Board of Governors' interpretation of bank management consulting advice (12 CFR 225.131).
 
@@ -140,7 +140,7 @@
 
 (*5*) Career counseling services. Providing career counseling services to:
 
-(*i*) A financial organization 9 and individuals currently employed by, or recently displaced from, a financial organization;
+(*i*) A financial organization9 and individuals currently employed by, or recently displaced from, a financial organization;
 
 9 Financial organization refers to insured depository institution holding companies and their subsidiaries, other than nonbanking affiliates of diversified savings and loan holding companies that engage in activities not permissible under section 4(c)(8) of the BHC Act (12 U.S.C. 1842(c)(8)).
 
@@ -162,17 +162,17 @@
 
 (*i*) Directly related to an extension of credit by the company or any of its subsidiaries; and
 
-(*ii*) Limited to ensuring the repayment of the outstanding balance due on the extension of credit 11 in the event of the death, disability, or involuntary unemployment of the debtor.
+(*ii*) Limited to ensuring the repayment of the outstanding balance due on the extension of credit11 in the event of the death, disability, or involuntary unemployment of the debtor.
 
 11 Extension of credit includes direct loans to borrowers, loans purchased from other lenders, and leases of real or personal property so long as the leases are nonoperating and full-payout leases that meet the requirements of paragraph (b)(2)(vi)(C) of this section.
 
-(*2*) Finance company subsidiary. Acting as agent or broker for insurance directly related to an extension of credit by a finance company 12 that is a subsidiary of a company, if:
+(*2*) Finance company subsidiary. Acting as agent or broker for insurance directly related to an extension of credit by a finance company12 that is a subsidiary of a company, if:
 
 12 Finance company includes all non-deposit-taking financial institutions that engage in a significant degree of consumer lending (excluding lending secured by first mortgages) and all financial institutions specifically defined by individual states as finance companies and that engage in a significant degree of consumer lending.
 
 (*i*) The insurance is limited to ensuring repayment of the outstanding balance on such extension of credit in the event of loss or damage to any property used as collateral for the extension of credit; and
 
-(*ii*) The extension of credit is not more than $10,000, or $25,000 if it is to finance the purchase of a residential manufactured home 13 and the credit is secured by the home; and
+(*ii*) The extension of credit is not more than $10,000, or $25,000 if it is to finance the purchase of a residential manufactured home13 and the credit is secured by the home; and
 
 13 These limitations increase at the end of each calendar year, beginning with 1982, by the percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers published by the Bureau of Labor Statistics.
 
@@ -184,7 +184,7 @@
 
 (*ii*) Has inadequate insurance agency facilities, as determined by the Board of Governors, after notice and opportunity for hearing.
 
-(*4*) Insurance-agency activities conducted on May 1, 1982. Engaging in any specific insurance-agency activity 14 if the company, or subsidiary conducting the specific activity, conducted such activity on May 1, 1982, or received approval from the Board of Governors to conduct such activity on or before May 1, 1982.15 Revenues derived from a company's specific insurance agency activity under this clause will be considered financial only if the company:
+(*4*) Insurance-agency activities conducted on May 1, 1982. Engaging in any specific insurance-agency activity14 if the company, or subsidiary conducting the specific activity, conducted such activity on May 1, 1982, or received approval from the Board of Governors to conduct such activity on or before May 1, 1982.15 Revenues derived from a company's specific insurance agency activity under this clause will be considered financial only if the company:
 
 14 Nothing contained in this provision precludes a subsidiary that is authorized to engage in a specific insurance-agency activity under this clause from continuing to engage in the particular activity after merger with an affiliate, if the merger is for legitimate business purposes.
 
@@ -318,7 +318,7 @@
 
 (B) Whose largest U.S. subsidiary is a broker or a dealer;
 
-(ii) The Board of Governors and the Director of the Federal Insurance Office in consultation with the FDIC, for a company that is an “insurance company”, or whose largest U.S. subsidiary is an insurance company, as that term is defined in section 201(a)(13) of the Dodd-Frank Act; 16 and
+(ii) The Board of Governors and the Director of the Federal Insurance Office in consultation with the FDIC, for a company that is an “insurance company”, or whose largest U.S. subsidiary is an insurance company, as that term is defined in section 201(a)(13) of the Dodd-Frank Act;16 and
 
 16 12 U.S.C. 5381(a)(13).
 

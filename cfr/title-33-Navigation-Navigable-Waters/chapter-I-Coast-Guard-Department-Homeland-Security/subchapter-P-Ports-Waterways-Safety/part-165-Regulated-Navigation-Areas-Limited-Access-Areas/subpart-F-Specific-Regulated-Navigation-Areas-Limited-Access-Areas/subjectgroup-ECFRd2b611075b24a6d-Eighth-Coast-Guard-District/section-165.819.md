@@ -36,8 +36,7 @@
 
 (4) Other persons or vessels requiring entry into security zones described in this section must request permission from the Captain of the Port, Port Arthur or designated representative.
 
-(5) To request permission to enter a security zone described in this section, contact Vessel Traffic Service Port Arthur on VHF Channel 01A or
-65A; by telephone at (409) 719-5070; by fax at (409) 719-5090; or contact the Captain of the Port's designated on-scene patrol vessel on VHF channel 13 or 16.
+(5) To request permission to enter a security zone described in this section, contact Vessel Traffic Service Port Arthur on VHF Channel 01A or 65A; by telephone at (409) 719-5070; by fax at (409) 719-5090; or contact the Captain of the Port's designated on-scene patrol vessel on VHF channel 13 or 16.
 
 (6) All persons and vessels within a security zone described in this section must comply with the instructions of the Captain of the Port, Port Arthur, designated on-scene U.S. Coast Guard patrol personnel or other designated representatives. Designated on-scene U.S. Coast Guard patrol personnel include commissioned, warrant, and petty officers of the U.S. Coast Guard. Designated representatives include Federal, State, local and municipal law enforcement agencies.
 

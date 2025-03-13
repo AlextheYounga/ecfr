@@ -1,10 +1,10 @@
 ##### § 9.18 Collective investment funds. #####
 
-(a) *In general.* Where consistent with applicable law, a national bank may invest assets that it holds as fiduciary in the following collective investment funds: 1
+(a) *In general.* Where consistent with applicable law, a national bank may invest assets that it holds as fiduciary in the following collective investment funds:1
 
 1 In determining whether investing fiduciary assets in a collective investment fund is proper, the bank may consider the fund as a whole and, for example, shall not be prohibited from making that investment because any particular asset is nonincome producing.
 
-(1) A fund maintained by the bank, or by one or more affiliated banks, 2 exclusively for the collective investment and reinvestment of money contributed to the fund by the bank, or by one or more affiliated banks, in its capacity as trustee, executor, administrator, guardian, or custodian under a uniform gifts to minors act.
+(1) A fund maintained by the bank, or by one or more affiliated banks,2 exclusively for the collective investment and reinvestment of money contributed to the fund by the bank, or by one or more affiliated banks, in its capacity as trustee, executor, administrator, guardian, or custodian under a uniform gifts to minors act.
 
 2 A fund established pursuant to this paragraph (a)(1) that includes money contributed by entities that are affiliates under 12 U.S.C. 221a(b), but are not members of the same affiliated group, as defined at 26 U.S.C. 1504, may fail to qualify for tax-exempt status under the Internal Revenue Code. *See* 26 U.S.C. 584.
 
@@ -40,7 +40,7 @@
 
 (xi) Any other matters necessary to define clearly the rights of participating accounts.
 
-(2) *Fund management.* A bank administering a collective investment fund shall have exclusive management thereof, except as a prudent person might delegate responsibilities to others. 3
+(2) *Fund management.* A bank administering a collective investment fund shall have exclusive management thereof, except as a prudent person might delegate responsibilities to others.3
 
 3 If a fund, the assets of which consist solely of Individual Retirement Accounts, Keogh Accounts, or other employee benefit accounts that are exempt from taxation, is registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), the fund will not be deemed in violation of this paragraph (b)(2) as a result of its compliance with section 10(c) of the Investment Company Act of 1940 (15 U.S.C. 80a-10(c)).
 
@@ -156,7 +156,7 @@
 
 (v) *Segregation of investments.* If an investment is withdrawn in kind from a collective investment fund for the benefit of all participants in the fund at the time of the withdrawal but the investment is not distributed ratably in kind, the bank shall segregate and administer it for the benefit ratably of all participants in the collective investment fund at the time of withdrawal.
 
-(6) *Audits and financial reports*—(i) *Annual audit.* At least once during each 12-month period, a bank administering a collective investment fund shall arrange for an audit of the collective investment fund by auditors responsible only to the board of directors of the bank. 4
+(6) *Audits and financial reports*—(i) *Annual audit.* At least once during each 12-month period, a bank administering a collective investment fund shall arrange for an audit of the collective investment fund by auditors responsible only to the board of directors of the bank.4
 
 4 If a fund, the assets of which consist solely of Individual Retirement Accounts, Keogh Accounts, or other employee benefit accounts that are exempt from taxation, is registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), the fund will not be deemed in violation of this paragraph (b)(6)(i) as a result of its compliance with section 10(c) of the Investment Company Act of 1940 (15 U.S.C. 80a-10(c)), if the bank has access to the audit reports of the fund.
 
@@ -210,7 +210,7 @@
 
 (4) *Other authorized funds.* In any collective investment authorized by applicable law, such as investments pursuant to a state pre-need funeral statute.
 
-(5) *Special exemption funds.* In any other manner described by the bank in a written plan approved by the OCC. 5 In order to obtain a special exemption, a bank shall submit to the OCC a written plan that sets forth:
+(5) *Special exemption funds.* In any other manner described by the bank in a written plan approved by the OCC.5 In order to obtain a special exemption, a bank shall submit to the OCC a written plan that sets forth:
 
 5 Any institution that must comply with this section in order to receive favorable tax treatment under 26 U.S.C. 584 (namely, any corporate fiduciary) may seek OCC approval of special exemption funds in accordance with this paragraph (c)(5).
 

@@ -1,12 +1,12 @@
 ##### § 226.22 Determination of annual percentage rate. #####
 
-(a) *Accuracy of annual percentage rate.* (1) The annual percentage rate is a measure of the cost of credit, expressed as a yearly rate, that relates the amount and timing of value received by the consumer to the amount and timing of payments made. The annual percentage rate shall be determined in accordance with either the actuarial method or the United States Rule method. Explanations, equations and instructions for determining the annual percentage rate in accordance with the actuarial method are set forth in appendix J to this regulation. 45d
+(a) *Accuracy of annual percentage rate.* (1) The annual percentage rate is a measure of the cost of credit, expressed as a yearly rate, that relates the amount and timing of value received by the consumer to the amount and timing of payments made. The annual percentage rate shall be determined in accordance with either the actuarial method or the United States Rule method. Explanations, equations and instructions for determining the annual percentage rate in accordance with the actuarial method are set forth in appendix J to this regulation.45d
 
 45d An error in disclosure of the annual percentage rate or finance charge shall not, in itself, be considered a violation of this regulation if: (1) The error resulted from a corresponding error in a calculation tool used in good faith by the creditor; and (2) upon discovery of the error, the creditor promptly discontinues use of that calculation tool for disclosure purposes and notifies the Board in writing of the error in the calculation tool.
 
-(2) As a general rule, the annual percentage rate shall be considered accurate if it is not more than 1/8 of 1 percentage point above or below the annual percentage rate determined in accordance with paragraph (a)(1) of this section.
+(2) As a general rule, the annual percentage rate shall be considered accurate if it is not more than1/8 of 1 percentage point above or below the annual percentage rate determined in accordance with paragraph (a)(1) of this section.
 
-(3) In an irregular transaction, the annual percentage rate shall be considered accurate if it is not more than 1/4 of 1 percentage point above or below the annual percentage rate determined in accordance with paragraph (a)(1) of this section. 46
+(3) In an irregular transaction, the annual percentage rate shall be considered accurate if it is not more than1/4 of 1 percentage point above or below the annual percentage rate determined in accordance with paragraph (a)(1) of this section.46
 
 46 For purposes of paragraph (a)(3) of this section, an irregular transaction is one that includes one or more of the following features: multiple advances, irregular payment periods, or irregular payment amounts (other than an irregular first period or an irregular first or final payment).
 

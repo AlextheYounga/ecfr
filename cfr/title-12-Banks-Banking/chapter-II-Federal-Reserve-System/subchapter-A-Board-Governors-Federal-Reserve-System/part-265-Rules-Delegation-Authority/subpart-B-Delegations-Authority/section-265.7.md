@@ -574,4 +574,4 @@ The Director of the Division of Supervision and Regulation (or the Director's de
 
 (2) With the concurrence of the General Counsel, to prepare and submit to Congress reports under section 37(c) of the Federal Deposit Insurance Act (12 U.S.C. 1831n(c)), and to submit such reports to the Federal Register for publication.
 
-[87 FR 54003, Sept. 1, 2022, as amended at 88 FR 32622, May 22, 2023; 88 FR 80109, Nov. 17, 2023] Editorial Note:At 88 FR 80109, Nov. 17, 2023, § 265.7(d)(7)(ii)(B)(*3*) was amended by removing “(§§ 252.146 and 252.158)” and adding, in its place, “(12 CFR 252.146 and 252.158)”; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[87 FR 54003, Sept. 1, 2022, as amended at 88 FR 32622, May 22, 2023; 88 FR 80109, Nov. 17, 2023]Editorial Note:At 88 FR 80109, Nov. 17, 2023, § 265.7(d)(7)(ii)(B)(*3*) was amended by removing “(§§ 252.146 and 252.158)” and adding, in its place, “(12 CFR 252.146 and 252.158)”; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

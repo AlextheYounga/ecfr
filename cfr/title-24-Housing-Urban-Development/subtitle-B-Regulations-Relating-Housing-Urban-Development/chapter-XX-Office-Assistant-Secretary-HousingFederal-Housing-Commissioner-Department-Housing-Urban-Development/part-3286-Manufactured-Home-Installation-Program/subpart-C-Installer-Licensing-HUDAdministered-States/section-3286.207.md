@@ -1,6 +1,6 @@
 ##### § 3286.207 Process for obtaining installation license. #####
 
-Link to an amendment published at 89 FR 75759, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75759, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *Where to apply.* An applicant for an initial or renewed installation license must provide the applicant's legal name, address, and telephone number to HUD. The application, with all required information, must be sent to: Administrator, Office of Manufactured Housing Programs, HUD, 451 Seventh Street, SW., Room 9164, Washington, DC 20410-8000, or to a fax number or e-mail address obtained by calling the Office of Manufactured Housing Programs. For convenience only, the current URL of the Web site is *http://www.hud.gov/offices/hsg/sfh/mhs/mhshome.cfm,* and the current toll-free telephone number to contact the Office of Manufactured Housing Programs is 1-800-927-2891, extension 57.
 

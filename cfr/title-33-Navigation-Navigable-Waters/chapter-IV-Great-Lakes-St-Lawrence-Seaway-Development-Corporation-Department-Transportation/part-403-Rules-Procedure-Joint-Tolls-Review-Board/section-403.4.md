@@ -12,4 +12,4 @@
 
 (f) Interested parties shall have thirty days from date of publication of notice in which to make representations or to submit briefs to the Board. [Rule 4]
 
-(68 Stat. 92-97, 33 U.S.C. 981-990, as amended; Agreement between the Governments of the United States and Canada finalized on March 20, 1978)[24 FR 9307, Nov. 18, 1959; 24 FR 10445, Dec. 23, 1959, as amended at 43 FR 30539, July 17, 1978. Redesignated and amended at 47 FR 13805, Apr. 1, 1982]
+(68 Stat. 92-97, 33 U.S.C. 981-990, as amended; Agreement between the Governments of the United States and Canada finalized on March 20, 1978) [24 FR 9307, Nov. 18, 1959; 24 FR 10445, Dec. 23, 1959, as amended at 43 FR 30539, July 17, 1978. Redesignated and amended at 47 FR 13805, Apr. 1, 1982]

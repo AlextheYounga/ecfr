@@ -8,7 +8,7 @@
 
 (1) “For external use only” in accord with § 201.66(c)(5)(i) of this chapter.
 
-(2) “Do not use [bullet]1 near eyes [bullet] inside nose, mouth, or vagina [bullet] on lice in eyebrows or eyelashes. See a doctor if lice are present in these areas.”
+(2) “Do not use [bullet] 1 near eyes [bullet] inside nose, mouth, or vagina [bullet] on lice in eyebrows or eyelashes. See a doctor if lice are present in these areas.”
 
 1 See § 201.66(b)(4) of this chapter for definition of bullet symbol.
 

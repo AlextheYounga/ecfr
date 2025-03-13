@@ -40,7 +40,7 @@ As used in this part, and unless the context requires otherwise, the following t
 
 (7) An *agency* or a *branch* of a *foreign bank* as defined in section l(b) of the International Banking Act (12 U.S.C. 3101).
 
-For purposes of subparts C and D of this part and, in connection therewith, this subpart A, the term *bank* also includes any person engaged in the business of banking, as well as a Federal Reserve Bank, a Federal Home Loan Bank, and a state or unit of general local government to the extent that the state or unit of general local government acts as a paying bank. Unless otherwise specified, the term *bank* includes all of a bank's offices in the United States, but not offices located outside the United States. Note:
+For purposes of subparts C and D of this part and, in connection therewith, this subpart A, the term *bank* also includes any person engaged in the business of banking, as well as a Federal Reserve Bank, a Federal Home Loan Bank, and a state or unit of general local government to the extent that the state or unit of general local government acts as a paying bank. Unless otherwise specified, the term *bank* includes all of a bank's offices in the United States, but not offices located outside the United States.Note:
 
 For purposes of subpart D of this part and, in connection therewith, this subpart A, *bank* also includes the Treasury of the United States or the United States Postal Service to the extent that the Treasury or the Postal Service acts as a paying bank.
 
@@ -272,7 +272,8 @@ If more than one bank meets the owned or operated criterion of paragraph (aa)(1)
 
 (fff) *Remotely created check* means a check that is not created by the paying bank and that does not bear a signature applied, or purported to be applied, by the person on whose account the check is drawn. For purposes of this definition, “account” means an account as defined in paragraph (a) of this section as well as a credit or other arrangement that allows a person to draw checks that are payable by, through, or at a bank.
 
-(ggg) *Electronic check* and *electronic returned check* mean an electronic image of, and electronic information derived from, a paper check or paper returned check, respectively, that—
+(ggg) *Electronic check* and *electronic returned check* mean an electronic image of, and electronic information derived from, a paper check or paper returned check, respectively,
+that—
 
 (1) Is sent to a receiving bank pursuant to an agreement between the sender and the receiving bank; and
 

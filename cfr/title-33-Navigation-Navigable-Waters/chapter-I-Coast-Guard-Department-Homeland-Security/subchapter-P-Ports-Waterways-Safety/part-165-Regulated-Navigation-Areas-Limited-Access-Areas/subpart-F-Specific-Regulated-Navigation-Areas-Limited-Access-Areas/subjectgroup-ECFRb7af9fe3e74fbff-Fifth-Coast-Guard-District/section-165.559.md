@@ -36,5 +36,4 @@
 
 (e) *Enforcement.* The U.S. Coast Guard may be assisted in the patrol and enforcement of the Safety Zone by Federal, State, and local agencies.
 
-[USCG-2015-0094, 80 FR 52626, Sept. 1, 2015. Redesignated as § 165.559 by USCG-2020-0304,
-85 FR 58281, Sept. 18, 2020]
+[USCG-2015-0094, 80 FR 52626, Sept. 1, 2015. Redesignated as § 165.559 by USCG-2020-0304, 85 FR 58281, Sept. 18, 2020]

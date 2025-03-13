@@ -1,6 +1,6 @@
 ##### § 582.80 Trace minerals added to animal feeds. #####
 
-These substances added to animal feeds as nutritional dietary supplements are generally recognized as safe when added at levels consistent with good feeding practice.1
+These substances added to animal feeds as nutritional dietary supplements are generally recognized as safe when added at levels consistent with good feeding practice. 1
 
 1 All substances listed may be in anhydrous or hydrated form.
 

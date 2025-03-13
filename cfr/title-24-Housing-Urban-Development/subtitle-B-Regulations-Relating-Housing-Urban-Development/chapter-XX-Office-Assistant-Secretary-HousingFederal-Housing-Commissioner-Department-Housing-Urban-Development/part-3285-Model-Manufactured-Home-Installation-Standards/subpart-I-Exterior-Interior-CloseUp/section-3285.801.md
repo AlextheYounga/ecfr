@@ -1,6 +1,6 @@
 ##### § 3285.801 Exterior close-up. #####
 
-Link to an amendment published at 89 FR 75758, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75758, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) Exterior siding and roofing necessary to join all sections of the home must be installed according to the product manufacturer installation instructions and must be fastened in accordance with designs and manufacturer instructions, consistent with §§ 3280.305 and 3280.307 of this chapter. Exterior close-up strips/trim must be fastened securely and sealed with exterior sealant (see figure A to this section).
 

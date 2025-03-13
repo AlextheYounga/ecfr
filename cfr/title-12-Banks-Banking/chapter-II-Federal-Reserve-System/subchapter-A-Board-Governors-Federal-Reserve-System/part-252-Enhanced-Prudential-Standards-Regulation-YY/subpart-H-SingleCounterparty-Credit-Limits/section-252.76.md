@@ -16,7 +16,7 @@
 
 (iii) Whether 25 percent or more of one counterparty's production or output is sold to the other counterparty, which cannot easily be replaced by other customers;
 
-(iv) Whether the expected source of funds to repay the loans of both counterparties is the same and neither counterparty has another independent source of income from which the loans may be serviced and fully repaid; 1 and
+(iv) Whether the expected source of funds to repay the loans of both counterparties is the same and neither counterparty has another independent source of income from which the loans may be serviced and fully repaid;1 and
 
 1 An employer will not be treated as a source of repayment under this paragraph because of wages and salaries paid to an employee.
 

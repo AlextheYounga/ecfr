@@ -4,9 +4,9 @@ The cover page of the Property Report shall be prepared in accordance with the f
 
 (a) The margins shall be at least 1 inch.
 
-(b) The next 3 inches shall contain a warning, centered, in 1/2 inch capital letters in red type with 1/4 inch space between the lines which reads as follows: “READ THIS PROPERTY REPORT BEFORE SIGNING ANYTHING”.
+(b) The next 3 inches shall contain a warning, centered, in1/2 inch capital letters in red type with1/4 inch space between the lines which reads as follows: “READ THIS PROPERTY REPORT BEFORE SIGNING ANYTHING”.
 
-(c) The remainder of the page shall contain the language set forth in section X of the appendix to this part: Language for Warning on Cover Page of Property Report beginning 1/4-inch below the last line of the warning.
+(c) The remainder of the page shall contain the language set forth in section X of the appendix to this part: Language for Warning on Cover Page of Property Report beginning1/4-inch below the last line of the warning.
 
 (d)(1) If the purchaser is entitled to a longer revocation period by operation of state law, that period becomes the Federal revocation period and the Cover Page must reflect the requirements of the longer period, rather than the seven days.
 

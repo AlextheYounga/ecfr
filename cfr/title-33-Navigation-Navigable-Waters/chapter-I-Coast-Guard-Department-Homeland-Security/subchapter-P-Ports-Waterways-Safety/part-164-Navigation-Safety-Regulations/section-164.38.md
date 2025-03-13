@@ -142,7 +142,7 @@ Appendix A to § 164.38—Performance Standards For Automatic Radar Plotting Aid
 
 3.6.1 At the request of the observer the following information should be immediately available from the ARPA in alphanumeric form in regard to any tracked target:
 
-1. Present range to the target;2. Present bearing of the target;..3 Predicted target range at the closest point of approach (CPA);.4 Predicted time to CPA (TCPA);.5 Calculated true course of target;.6 Calculated true speed of target.
+1. Present range to the target;2. Present bearing of the target;..3 Predicted target range at the closest point of approach (CPA); .4 Predicted time to CPA (TCPA); .5 Calculated true course of target; .6 Calculated true speed of target.
 
 3.7 *Trial Manoeuvre*
 
@@ -192,11 +192,11 @@ Relative course—The direction of motion of a target related to own ship as ded
 
 Relative speed—The speed of a target related to own ship, as deduced from a number of measurements of its range and bearing on the radar.
 
-True course—The apparent heading of a target obtained by the vectorial combination of the target's relative motion and ship's own motion1. Expressed as an angular distance from North.
+True course—The apparent heading of a target obtained by the vectorial combination of the target's relative motion and ship's own motion 1. Expressed as an angular distance from North.
 
 1 For the purpose of these definitions there is no need to distinguish between sea or ground stabilization.
 
-True speed—The speed of a target obtained by the vectorial combination of its relative motion and own ship's motion1.
+True speed—The speed of a target obtained by the vectorial combination of its relative motion and own ship's motion 1.
 
 Bearing—The direction of one terrestrial point from another. Expressed as an angular distance from North.
 
@@ -290,7 +290,7 @@ Relative speed of target—20 kt
 
 Annex 3 to Appendix A to § 164.38—Sensor Errors
 
-The accuracy figures quoted in paragraph 3.8 are based upon the following sensor errors and are appropriate to equipment complying with the Organization's performance standards for shipborne navigational equipment.2
+The accuracy figures quoted in paragraph 3.8 are based upon the following sensor errors and are appropriate to equipment complying with the Organization's performance standards for shipborne navigational equipment. 2
 
 2 In calculations leading to the accuracy figures quoted in paragraph 3.8, these sensor error sources and magnitudes were used. They were arrived at during discussions with national government agencies and equipment manufacturers and are appropriate to equipments complying with the Organization's draft performance standards for radar equipment (preliminary) (NAV XXII/WP.14), gyro compasses (NAV XXI/9, Annex X) and logs (preliminary) (NAV XXII/WP.15).
 

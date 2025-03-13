@@ -22,8 +22,7 @@ For the purposes of this subchapter, the following definitions apply:
 
 (h) *Scientific procedures* include the application of scientific data (including, as appropriate, data from human, animal, analytical, or other scientific studies), information, and methods, whether published or unpublished, as well as the application of scientific principles, appropriate to establish the safety of a substance under the conditions of its intended use.
 
-(i) *Safe* or *safety* means that there is a reasonable certainty in the minds of competent scientists that the substance is not harmful under the conditions of its intended use.
-It is impossible in the present state of scientific knowledge to establish with complete certainty the absolute harmlessness of the use of any substance. Safety may be determined by scientific procedures or by general recognition of safety. In determining safety, the following factors shall be considered:
+(i) *Safe* or *safety* means that there is a reasonable certainty in the minds of competent scientists that the substance is not harmful under the conditions of its intended use. It is impossible in the present state of scientific knowledge to establish with complete certainty the absolute harmlessness of the use of any substance. Safety may be determined by scientific procedures or by general recognition of safety. In determining safety, the following factors shall be considered:
 
 (1) The probable consumption of the substance and of any substance formed in or on food because of its use.
 

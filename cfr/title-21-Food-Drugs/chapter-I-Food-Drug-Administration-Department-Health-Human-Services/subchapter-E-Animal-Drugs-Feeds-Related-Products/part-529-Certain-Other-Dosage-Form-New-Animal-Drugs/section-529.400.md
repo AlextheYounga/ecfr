@@ -12,4 +12,4 @@
 
 (3) *Limitations.* Prior to administration, remove any unattached placental membranes, any excess uterine fluid or debris, and carefully clean external genitalia. Use a clean, sterile inseminating pipette for administrating solutions and suspensions. Treatment may be repeated in 48 to 72 hours.
 
-[43 FR 10705, Feb. 23, 1979, as amended at 79 FR 10973, Feb. 27, 2014; 81 FR 67152, Sept. 30, 2016; 84 FR 32993, July 11, 2019]Editorial Note:At 79 FR 10973, Feb. 27, 2014, § 529.400 was amended by revising the section heading, however, the section heading was not provided, therefore, the amendment could not be incorporated because of an inaccurate amendatory instruction.
+[43 FR 10705, Feb. 23, 1979, as amended at 79 FR 10973, Feb. 27, 2014; 81 FR 67152, Sept. 30, 2016; 84 FR 32993, July 11, 2019] Editorial Note:At 79 FR 10973, Feb. 27, 2014, § 529.400 was amended by revising the section heading, however, the section heading was not provided, therefore, the amendment could not be incorporated because of an inaccurate amendatory instruction.

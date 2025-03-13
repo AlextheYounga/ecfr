@@ -24,4 +24,4 @@
 
 (h) The draw of the Welch Causeway (SR 699) Bridge, Gulf Intracoastal Waterway mile 122.8, at Madeira Beach, Florida, shall open on signal; except that, from 7 a.m. to 7 p.m. daily, except Federal holidays, the draw need only open on the hour and half hour.
 
-[CGD 82-025, 49 FR 17452, Apr. 24, 1984]Editorial Note:For Federal Register citations affecting § 117.287, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[CGD 82-025, 49 FR 17452, Apr. 24, 1984] Editorial Note:For Federal Register citations affecting § 117.287, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

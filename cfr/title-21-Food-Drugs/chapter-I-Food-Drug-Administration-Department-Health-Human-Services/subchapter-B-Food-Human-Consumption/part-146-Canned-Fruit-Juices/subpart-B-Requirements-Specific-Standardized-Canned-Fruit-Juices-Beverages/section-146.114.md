@@ -24,7 +24,7 @@
 
 (i) When the food is frozen or
 
-(ii) When the food is packaged in individual serving-size packages, containing1/2 fluid ounce or less, for use as described in § 1.24(a)(3) of this chapter.
+(ii) When the food is packaged in individual serving-size packages, containing 1/2 fluid ounce or less, for use as described in § 1.24(a)(3) of this chapter.
 
 (2) Compliance is determined as specified in § 146.3(g)(2).
 

@@ -60,7 +60,7 @@ Racing Type Personal Flotation DeviceHelmet.
 
 (3) *Test conditions.* Testing must be conducted on smooth, calm water with the wind speed below 10 knots. The test must be conducted with no load other than a driver who must weigh no more than 200 pounds. The motor trim angle must be adjusted to provide maximum full throttle speed short of excessive porpoising or propeller ventilation or “cavitation”, so that there is no loss of directional control.
 
-(4) *Quick turn test procedure.* Set throttle at a low maneuvering speed and steer the boat straight ahead. Turn the steering wheel 180° in the direction of least resistance in1/2 second or less and hold it at that position without changing the throttle or trim settings during or after the wheel change. The boat completes the maneuver successfully if it is capable of completing a 90° turn without the driver losing control of the boat or reducing the throttle setting. Gradually increase the boat's turn entry speed incrementally until the boat does not complete the Quick Turn Test successfully or successfully completes it at maximum throttle.
+(4) *Quick turn test procedure.* Set throttle at a low maneuvering speed and steer the boat straight ahead. Turn the steering wheel 180° in the direction of least resistance in 1/2 second or less and hold it at that position without changing the throttle or trim settings during or after the wheel change. The boat completes the maneuver successfully if it is capable of completing a 90° turn without the driver losing control of the boat or reducing the throttle setting. Gradually increase the boat's turn entry speed incrementally until the boat does not complete the Quick Turn Test successfully or successfully completes it at maximum throttle.
 
 Note:
 

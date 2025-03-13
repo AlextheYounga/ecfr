@@ -26,4 +26,4 @@
 
 (b) The Commandant authorizes designated boarding officers to issue warnings for certain minor violations of the statutes and regulations listed in paragraph (a) of this section. Written warnings are not authorized for all violations of these statutes and regulations.
 
-(14 U.S.C. 503, 85 Stat. 228 (46 U.S.C. 1488); 86 Stat. 871 (33 U.S.C. 1322); 49 CFR 1.46(b), (m), and (n)(1))[CGD 74-155, 41 FR 17894, Apr. 29, 1976, as amended by CGD 77-182, 43 FR 22657, May 25, 1978; CGD 82-040, 47 FR 21042, May 17, 1982; CGD 85-009, 50 FR 10761, Mar. 18, 1985; USCG-2018-0874, 84 FR 30877, June 28, 2019; USCG-2020-0304, 85 FR 58275, Sept. 18, 2020; USCG-2018-0099, 86 FR 58571, Oct. 22, 2021]
+(14 U.S.C. 503, 85 Stat. 228 (46 U.S.C. 1488); 86 Stat. 871 (33 U.S.C. 1322); 49 CFR 1.46(b), (m), and (n)(1)) [CGD 74-155, 41 FR 17894, Apr. 29, 1976, as amended by CGD 77-182, 43 FR 22657, May 25, 1978; CGD 82-040, 47 FR 21042, May 17, 1982; CGD 85-009, 50 FR 10761, Mar. 18, 1985; USCG-2018-0874, 84 FR 30877, June 28, 2019; USCG-2020-0304, 85 FR 58275, Sept. 18, 2020; USCG-2018-0099, 86 FR 58571, Oct. 22, 2021]

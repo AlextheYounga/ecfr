@@ -36,4 +36,4 @@ Table
 
 (5) Between the southerly extremities of Wharves 18-2 and 18-3.
 
-(68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471)[39 FR 10900, Mar. 22, 1974, as amended at 47 FR 51123, Nov. 12, 1982; 48 FR 20691, May 9, 1983; 49 FR 30936, Aug. 2, 1984; 73 FR 9954, Feb. 25, 2008]
+(68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471) [39 FR 10900, Mar. 22, 1974, as amended at 47 FR 51123, Nov. 12, 1982; 48 FR 20691, May 9, 1983; 49 FR 30936, Aug. 2, 1984; 73 FR 9954, Feb. 25, 2008]

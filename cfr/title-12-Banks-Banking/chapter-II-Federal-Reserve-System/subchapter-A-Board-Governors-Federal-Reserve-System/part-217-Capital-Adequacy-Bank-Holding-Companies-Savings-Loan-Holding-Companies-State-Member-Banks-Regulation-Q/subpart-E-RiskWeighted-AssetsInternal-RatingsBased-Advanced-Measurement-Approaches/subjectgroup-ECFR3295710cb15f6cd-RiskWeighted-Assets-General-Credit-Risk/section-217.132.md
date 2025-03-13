@@ -24,7 +24,7 @@
 
 (2) *Collateral haircut approach*—(i) *EAD equation.* A Board-regulated institution may determine EAD for an eligible margin loan, repo-style transaction, or netting set by setting EAD equal to max
 
-{0, [(ΣE − ΣC) + Σ(Es × Hs) + Σ(Efx × Hfx)]}, where:
+{0, [(ΣE − ΣC) + Σ(Es × Hs) + Σ(Efx × Hfx)]},where:
 
 (A) ΣE equals the value of the exposure (the sum of the current fair values of all instruments, gold, and cash the Board-regulated institution has lent, sold subject to repurchase, or posted as collateral to the counterparty under the transaction (or netting set));
 
@@ -59,7 +59,7 @@
 
 (*2*) For currency mismatches, a Board-regulated institution must use a haircut for foreign exchange rate volatility (Hfx) of 8 percent, as adjusted in certain circumstances as provided in paragraphs (b)(2)(ii)(A)(*3*) and (*4*) of this section.
 
-(*3*) For repo-style transactions and client-facing derivative transactions, a Board-regulated institution may multiply the supervisory haircuts provided in paragraphs (b)(2)(ii)(A)(*1*) and (*2*) of this section by the square root of 1/2 (which equals 0.707107). If the Board-regulated institution determines that a longer holding period is appropriate for client-facing derivative transactions, then it must use a larger scaling factor to adjust for the longer holding period pursuant to paragraph (b)(2)(ii)(A)(*6*) of this section.
+(*3*) For repo-style transactions and client-facing derivative transactions, a Board-regulated institution may multiply the supervisory haircuts provided in paragraphs (b)(2)(ii)(A)(*1*) and (*2*) of this section by the square root of1/2 (which equals 0.707107). If the Board-regulated institution determines that a longer holding period is appropriate for client-facing derivative transactions, then it must use a larger scaling factor to adjust for the longer holding period pursuant to paragraph (b)(2)(ii)(A)(*6*) of this section.
 
 (*4*) A Board-regulated institution must adjust the supervisory haircuts upward on the basis of a holding period longer than ten business days (for eligible margin loans) or five business days (for repo-style transactions), using the formula provided in paragraph (b)(2)(ii)(A)(*6*) of this section where the conditions in this paragraph (b)(2)(ii)(A)(*4*) apply. If the number of trades in a netting set exceeds 5,000 at any time during a quarter, a Board-regulated institution must adjust the supervisory haircuts upward on the basis of a minimum holding period of twenty business days for the following quarter (except when a Board-regulated institution is calculating EAD for a cleared transaction under § 217.133). If a netting set contains one or more trades involving illiquid collateral, a Board-regulated institution must adjust the supervisory haircuts upward on the basis of a minimum holding period of twenty business days. If over the two previous quarters more than two margin disputes on a netting set have occurred that lasted longer than the holding period, then the Board-regulated institution must adjust the supervisory haircuts upward for that netting set on the basis of a minimum holding period that is at least two times the minimum holding period for that netting set.
 
@@ -259,7 +259,8 @@
 
 (*iv*) T equals the number of business days until the latest contractual exercise date of the option;
 
-(*v*) λ equals zero for all derivative contracts except interest rate options for the currencies where interest rates have negative values. The same value of λ must be used for all interest rate options that are denominated in the same currency. To determine the value of λ for a given currency, a Board-regulated institution must find the lowest value L of P and K of all interest rate options in a given currency that the Board-regulated institution has with all counterparties. Then, λ is set according to this formula: λ = *max*{−*L* + 0.1%, 0}; and
+(*v*) λ equals zero for all derivative contracts except interest rate options for the currencies where interest rates have negative values. The same value of λ must be used for all interest rate options that are denominated in the same currency. To determine the value of λ for a given currency, a Board-regulated institution must find the lowest value L of P and K of all interest rate options in a given currency that the Board-regulated institution has with all counterparties. Then, λ is set according to this formula:
+λ = *max*{−*L* + 0.1%, 0}; and
 
 (*vi*) σ equals the supervisory option volatility, as provided in Table 3 to this section.
 
@@ -269,7 +270,7 @@
 
 (*2*) As used in the formula in paragraph (c)(9)(iii)(C)(*1*) of this section:
 
-(*i*) A is the attachment point, which equals the ratio of the notional amounts of all underlying exposures that are subordinated to the Board-regulated institution's exposure to the total notional amount of all underlying exposures, expressed as a decimal value between zero and one; 30
+(*i*) A is the attachment point, which equals the ratio of the notional amounts of all underlying exposures that are subordinated to the Board-regulated institution's exposure to the total notional amount of all underlying exposures, expressed as a decimal value between zero and one;30
 
 30 In the case of a first-to-default credit derivative, there are no underlying exposures that are subordinated to the Board-regulated institution's exposure. In the case of a second-or-subsequent-to-default credit derivative, the smallest (n−1) notional amounts of the underlying exposures are subordinated to the Board-regulated institution's exposure.
 

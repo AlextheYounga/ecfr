@@ -54,4 +54,4 @@
 
 (k) *Compliance with Federal, State and county laws required.* The taking of fish and crabs in the waters of Aberdeen Proving Ground Reservation and the setting of and location of nets, in a manner not in compliance with Federal, State, and county laws is prohibited.
 
-(40 Stat. 266; 33 U.S.C. 3)[13 FR 6915, Nov. 24, 1948, and 32 FR 15673, Nov. 14, 1967, as amended at 42 FR 41281, Aug. 16, 1977; 48 FR 54597, Dec. 6, 1983. Redesignated at 50 FR 42696, Oct. 22, 1985]
+(40 Stat. 266; 33 U.S.C. 3) [13 FR 6915, Nov. 24, 1948, and 32 FR 15673, Nov. 14, 1967, as amended at 42 FR 41281, Aug. 16, 1977; 48 FR 54597, Dec. 6, 1983. Redesignated at 50 FR 42696, Oct. 22, 1985]

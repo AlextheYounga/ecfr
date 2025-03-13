@@ -10,7 +10,7 @@
 
 (3) Applications shall include the location of any known proposed drilling site and the estimated start and completion dates for each. Updated information on the plan shall be furnished as soon as available. One individual (and alternate) shall be designated by the applicant as responsible for maintaining close liaison with all involved agencies.
 
-(4) Where it is not feasible to perform exploratory work from outside the traffic lanes or1/4 mile buffer zones, or precautionary zone, authorizations will include the following conditions:
+(4) Where it is not feasible to perform exploratory work from outside the traffic lanes or 1/4 mile buffer zones, or precautionary zone, authorizations will include the following conditions:
 
 (i) Exploratory vessels within a traffic lane will, to the degree practicable, be sited near traffic lane boundaries.
 
@@ -18,6 +18,6 @@
 
 (iii) Exploratory vessels located within the traffic lanes, or the precautionary zone, shall not have their pendant buoys within 3,000 yards from the pendant buoys of any other vessel.
 
-(iv) Exploratory rigs and vessels engaged in offshore development may have no cables, anchors, buoys, or other associated equipment within the traffic lanes,1/4 mile buffer zones, or the precautionary zone, at a depth of less than 100 feet, unless such equipment is marked with class I private aids to navigation in accordance with current Federal regulations.
+(iv) Exploratory rigs and vessels engaged in offshore development may have no cables, anchors, buoys, or other associated equipment within the traffic lanes, 1/4 mile buffer zones, or the precautionary zone, at a depth of less than 100 feet, unless such equipment is marked with class I private aids to navigation in accordance with current Federal regulations.
 
-(67 Stat. 462 (43 U.S.C. 1333(f))[43 FR 28475, June 30, 1978]
+(67 Stat. 462 (43 U.S.C. 1333(f)) [43 FR 28475, June 30, 1978]

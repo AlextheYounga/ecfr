@@ -4,7 +4,7 @@
 
 (b) *Sponsor.* See No. 069043 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use in horses*—(1) *Amount.* 1 ounce (30 milliliters) per 100 pounds of body weight for the first 500 pounds;3/4 ounce for each 100 pounds thereafter, up to 1,200 pounds; 101/4 ounces to animals over 1,200 pounds.
+(c) *Conditions of use in horses*—(1) *Amount.* 1 ounce (30 milliliters) per 100 pounds of body weight for the first 500 pounds; 3/4 ounce for each 100 pounds thereafter, up to 1,200 pounds; 101/4 ounces to animals over 1,200 pounds.
 
 (2) *Indications for use.* For control of large roundworms, *Parascaris equorum;* small strongyles; large strongyles, *Strongylus vulgaris;* and pinworms, *Oxyuris equi.*
 

@@ -6,7 +6,7 @@
 
 (c) Petitions shall include the following data and be submitted in the following form:
 
-(Date)Name of petitionerPost-office addressDateName of food additive and proposed use
+(Date) Name of petitionerPost-office addressDateName of food additive and proposed use
 
 Office of Food Additive Safety (HFS-200), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740.
 

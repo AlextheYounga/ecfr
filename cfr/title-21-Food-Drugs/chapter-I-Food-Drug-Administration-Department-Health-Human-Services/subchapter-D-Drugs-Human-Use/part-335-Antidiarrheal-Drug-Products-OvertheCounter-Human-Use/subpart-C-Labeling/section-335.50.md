@@ -40,7 +40,7 @@
 
 (1) *For products containing any ingredient identified in § 335.10.* The labeling states “[bullet] drink plenty of clear fluids to help prevent dehydration caused by diarrhea”.
 
-(2) *For products containing bismuth subsalicylate identified in § 335.10(a).* The labeling states “[bullet] adults and children 12 years and over:” 525 milligrams “every1/2 to 1 hour, or” 1,050 milligrams “every hour as needed [bullet] do not exceed” 4,200 milligrams “in 24 hours [bullet] use until diarrhea stops but not more than 2 days [bullet] children under 12 years: ask a doctor”.
+(2) *For products containing bismuth subsalicylate identified in § 335.10(a).* The labeling states “[bullet] adults and children 12 years and over:” 525 milligrams “every 1/2 to 1 hour, or” 1,050 milligrams “every hour as needed [bullet] do not exceed” 4,200 milligrams “in 24 hours [bullet] use until diarrhea stops but not more than 2 days [bullet] children under 12 years: ask a doctor”.
 
 (3) *For products containing kaolin identified in § 335.10(b).* The labeling states “[bullet] adults and children 12 years and over:” 26.2 grams “after each loose stool [bullet] continue to take every 6 hours until stool is firm but not more than 2 days [bullet] do not exceed” [262 grams] “in 24 hours [bullet] children under 12 years of age: ask a doctor”.
 

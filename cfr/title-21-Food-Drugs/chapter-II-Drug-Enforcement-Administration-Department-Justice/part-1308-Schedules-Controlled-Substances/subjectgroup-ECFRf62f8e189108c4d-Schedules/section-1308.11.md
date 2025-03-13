@@ -361,7 +361,7 @@
 |                      (75) N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)pentanamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers; other name: para-fluoro valeryl fentanyl                       |9870|
 |(76) N-(1-phenethylpiperidin-4-yl)-N-phenyltetrahydrothiophene-2-carboxamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers; other names: tetrahydrothiofuranyl fentanyl; tetrahydrothiophene fentanyl|9869|
 
-[39 FR 22141, June 20, 1974]Editorial Notes:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[39 FR 22141, June 20, 1974] Editorial Notes:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 2.At 88 FR 13694, Mar. 6, 2022, § 1308.11 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
 
@@ -385,9 +385,9 @@ Effective Date Notes:
 
 |                                                                                       |    |
 |---------------------------------------------------------------------------------------|----|
-|                     \*<br/>\*<br/>\*<br/>\*<br/>\*<br/>\*<br/>\*                      |    |
+|                                 \* \* \* \* \* \* \*                                  |    |
 |(59) 2-Methyl AP-237 (1-(2-methyl-4-(3-phenylprop-2-en-1-yl)piperazin-1-yl)butan-1-one)|9664|
 |                                                                                       |    |
-|                     \*<br/>\*<br/>\*<br/>\*<br/>\*<br/>\*<br/>\*                      |    |
+|                                 \* \* \* \* \* \* \*                                  |    |
 
 6. At 89 FR 60822, July 29, 2024, § 1308.11 was amended by adding paragraphs (h)(68) and (h)(69), effective July 29, 2024 through July 29, 2026.

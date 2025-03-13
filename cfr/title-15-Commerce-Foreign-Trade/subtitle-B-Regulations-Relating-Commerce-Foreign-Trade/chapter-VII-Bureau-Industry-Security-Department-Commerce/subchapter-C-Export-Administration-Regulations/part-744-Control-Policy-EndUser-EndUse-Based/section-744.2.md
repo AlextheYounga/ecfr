@@ -1,10 +1,10 @@
 ##### § 744.2 Restrictions on certain nuclear end-uses. #####
 
-(a) *General prohibition.* In addition to the license requirements for items specified on the CCL, you may not export, reexport, or transfer (in-country) to any destination, other than countries in supplement no. 3 to this part, an item subject to the EAR without a license if, at the time of export, reexport, or transfer (in-country) you know1 that the item will be used directly or indirectly in any one or more of the following activities described in paragraphs (a)(1), (a)(2), and (a)(3) of this section:
+(a) *General prohibition.* In addition to the license requirements for items specified on the CCL, you may not export, reexport, or transfer (in-country) to any destination, other than countries in supplement no. 3 to this part, an item subject to the EAR without a license if, at the time of export, reexport, or transfer (in-country) you know 1 that the item will be used directly or indirectly in any one or more of the following activities described in paragraphs (a)(1), (a)(2), and (a)(3) of this section:
 
 1 Part 772 of the EAR defines “knowledge” for all of the EAR except part 760, Restrictive Trade Practices and Boycotts. The definition, which includes variants such as “know” and “reason to know”, encompasses more than positive knowledge. Thus, the use of “know” in this section in place of the former wording “know or have reason to know” does not lessen or otherwise change the responsibilities of persons subject to the EAR.
 
-(1) *Nuclear explosive activities.* Nuclear explosive activities, including research on or development, design, manufacture, construction, testing or maintenance of any nuclear explosive device, or components or subsystems of such a device.2 3
+(1) *Nuclear explosive activities.* Nuclear explosive activities, including research on or development, design, manufacture, construction, testing or maintenance of any nuclear explosive device, or components or subsystems of such a device. 2 3
 
 2 Nuclear explosive devices and any article, material, equipment, or device specifically designed or specially modified for use in the design, development, or fabrication of nuclear weapons or nuclear explosive devices are subject to export licensing or other requirements of the Directorate of Defense Trade Controls, U.S. Department of State, or the licensing or other restrictions specified in the Atomic Energy Act of 1954, as amended. Similarly, items specifically designed or specifically modified for use in devising, carrying out, or evaluating nuclear weapons tests or nuclear explosions (except such items as are in normal commercial use for other purposes) are subject to the same requirements.
 
@@ -12,7 +12,7 @@
 
 (2) *Unsafeguarded nuclear activities.* Activities including research on, or development, design, manufacture, construction, operation, or maintenance of any nuclear reactor, critical facility, facility for the fabrication of nuclear fuel, facility for the conversion of nuclear material from one chemical form to another, or separate storage installation, where there is no obligation to accept International Atomic Energy Agency (IAEA) safeguards at the relevant facility or installation when it contains any source or special fissionable material (regardless of whether or not it contains such material at the time of export), or where any such obligation is not met.
 
-(3) *Safeguarded and unsafeguarded nuclear activities.* Safeguarded and unsafeguarded nuclear fuel cycle activities, including research on or development, design, manufacture, construction, operation or maintenance of any of the following facilities, or components for such facilities:4
+(3) *Safeguarded and unsafeguarded nuclear activities.* Safeguarded and unsafeguarded nuclear fuel cycle activities, including research on or development, design, manufacture, construction, operation or maintenance of any of the following facilities, or components for such facilities: 4
 
 4 Such activities may also require a specific authorization from the Secretary of Energy pursuant to § 57.b.(2) of the Atomic Energy Act of 1954, as amended, as implemented by the Department of Energy's regulations published in 10 CFR 810.
 

@@ -34,6 +34,6 @@ In this subpart:
 
 (1) Beginning at a point 58°11-44 N, 136°39-25 W [near Cape Spencer Light], thence southeasterly along a line three nautical miles seaward of the baseline from which the breadth of the territorial sea is measured in the Pacific Ocean and the Dixon Entrance, except where this line intersects geodesics connecting the following five pairs of points:
 
-58°05-17 N, 136°33-49 W and 58°11-41 N, 136°39-25 W [Cross Sound]56°09-40 N, 134°40-00 W and 55°49-15 N, 134°17-40 W [Chatham Strait]55°49-15 N, 134°17-40 W and 55°50-30 N, 133°54-15 W [Sumner Strait]54°41-30 N, 132°01-00 W and 54°51-30 N, 131°20-45 W [Clarence Strait]54°51-30 N, 131°20-45 W and 54°46-15 N, 130°52-00 W [Revillagigedo Channel]
+58°05-17 N, 136°33-49 W and 58°11-41 N, 136°39-25 W [Cross Sound] 56°09-40 N, 134°40-00 W and 55°49-15 N, 134°17-40 W [Chatham Strait] 55°49-15 N, 134°17-40 W and 55°50-30 N, 133°54-15 W [Sumner Strait] 54°41-30 N, 132°01-00 W and 54°51-30 N, 131°20-45 W [Clarence Strait] 54°51-30 N, 131°20-45 W and 54°46-15 N, 130°52-00 W [Revillagigedo Channel]
 
 (2) The portion of each such geodesic in paragraph (1) of this definition situated beyond 3 nautical miles from the baseline from which the breadth of the territorial seas is measured from the outer limit of the waters of the Alexander Archipelago in those five locations.

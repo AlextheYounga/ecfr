@@ -4,7 +4,7 @@ The food additive *Candida guilliermondii* may be safely used as the organism fo
 
 (a) The food additive is the enzyme system of the viable organism *Candida guilliermondii* and its concomitant metabolites produced during the fermentation process.
 
-(b)(1) The nonpathogenic and nontoxicogenic organism descending from strain, American Type Culture Collection (ATCC) No. 20474,1 is classified as follows:
+(b)(1) The nonpathogenic and nontoxicogenic organism descending from strain, American Type Culture Collection (ATCC) No. 20474, 1 is classified as follows:
 
 1 Available from: American Type Culture Collection, 12301 Parklawn Drive, Rockville, MD 20852.
 

@@ -68,7 +68,7 @@ The labeling of the product contains the following information for anorectal ing
 
 (7) *For products containing any vasoconstrictor identified in § 346.12.* (i) “Do not use this product if you have heart disease, high blood pressure, thyroid disease, diabetes, or difficulty in urination due to enlargement of the prostate gland unless directed by a doctor.”
 
-(ii) “Ask a doctor or pharmacist before use if you are [bullet]1 presently taking a prescription drug for high blood pressure or depression.”
+(ii) “Ask a doctor or pharmacist before use if you are [bullet] 1 presently taking a prescription drug for high blood pressure or depression.”
 
 1 See § 201.66(b)(4) of this chapter.
 

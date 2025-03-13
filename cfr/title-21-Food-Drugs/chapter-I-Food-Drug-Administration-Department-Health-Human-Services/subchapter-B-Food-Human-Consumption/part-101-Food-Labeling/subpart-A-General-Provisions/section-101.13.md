@@ -1,6 +1,6 @@
 ##### § 101.13 Nutrient content claims—general principles. #####
 
-Link to an amendment published at 89 FR 106162, Dec. 27, 2024.
+Link to an amendment published at 89 FR 106162, Dec. 27, 2024.This amendment was delayed until Apr. 28, 2025, at 90 FR 10592, Feb. 25, 2025.
 
 (a) This section and the regulations in subpart D of this part apply to foods that are intended for human consumption and that are offered for sale, including conventional foods and dietary supplements.
 

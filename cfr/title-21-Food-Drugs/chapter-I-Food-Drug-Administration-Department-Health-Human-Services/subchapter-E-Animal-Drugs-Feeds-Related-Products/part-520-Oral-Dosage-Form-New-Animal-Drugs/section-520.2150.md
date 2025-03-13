@@ -4,9 +4,9 @@
 
 (b) *Sponsor.* No. 054771 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use in dogs and cats*—(1) *Amount*—(i) *Dogs:* Administered orally to small breeds,1/2 to 1 tablet twice daily for several weeks; to large breeds, 1 to 2 tablets twice daily for several weeks. The tablets may be crushed and administered in feed.
+(c) *Conditions of use in dogs and cats*—(1) *Amount*—(i) *Dogs:* Administered orally to small breeds, 1/2 to 1 tablet twice daily for several weeks; to large breeds, 1 to 2 tablets twice daily for several weeks. The tablets may be crushed and administered in feed.
 
-(ii) *Cats:* Administered orally1/2 to 1 tablet twice daily for several weeks.
+(ii) *Cats:* Administered orally 1/2 to 1 tablet twice daily for several weeks.
 
 (2) *Indications for use.* As an anabolic steroid treatment.
 

@@ -6,7 +6,7 @@ Arms: Per fesse azure and or, a ship in full sail on waves of the sea, in chief 
 
 Crest: The American Eagle displayed. Around the Arms, between two concentric circles, are the words:
 
-Department of CommerceUnited States of America
+Department of Commerce United States of America
 
 (b) The design of the approved seal is as shown below. Where necessitated by requirements of legibility, immediate comprehension, or clean reproduction, the concentric circles may be eliminated from the seal on publications and exhibits, and in slides, motion pictures, and television. In more formal uses of the seal, such as on letterheads, the full, proper rendition of the seal shall be used.
 

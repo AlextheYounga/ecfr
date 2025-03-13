@@ -160,7 +160,7 @@ The product scope of paragraph (e)(3)(i) is met if a foreign-produced commodity 
 
 Note 4 to paragraph (g):
 
-Footnote 4 may be added to an entity that the End User Review Committee has determined to be either a Russian or Belarusian 'military end user' as defined in § 744.21 of the EAR, or a Russian or Belarusian Procurement Entity that poses a significant risk of involvement in the supply or diversion of items subject to the EAR to procurement networks for Russia's or Belarus's defense industry or intelligence services.
+Footnote 3 may be added to an entity that the End User Review Committee has determined to be either a Russian or Belarusian 'military end user' as defined in § 744.21 of the EAR, or a Russian or Belarusian Procurement Entity that poses a significant risk of involvement in the supply or diversion of items subject to the EAR to procurement networks for Russia's or Belarus's defense industry or intelligence services.
 
 (h) *Advanced computing FDP rule.* A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (h)(1) of this section and the destination scope in paragraph (h)(2) of this section. See § 742.6(a)(6) of the EAR for license requirements and license exceptions and § 742.6(b)(10) for license review policy applicable to foreign-produced items that are subject to the EAR under this paragraph (h).
 

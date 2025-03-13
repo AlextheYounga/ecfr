@@ -20,4 +20,4 @@
 
 (6) For other exceptions see 49 CFR 7.97.
 
-(31 U.S.C. 483a; 49 U.S.C. 1655(b)(1); 49 CFR 1.46(b))[CGFR 67-13, 32 FR 11211, Aug. 2, 1967, as amended by CGD 76-124, 42 FR 23507, May 9, 1977]
+(31 U.S.C. 483a; 49 U.S.C. 1655(b)(1); 49 CFR 1.46(b)) [CGFR 67-13, 32 FR 11211, Aug. 2, 1967, as amended by CGD 76-124, 42 FR 23507, May 9, 1977]

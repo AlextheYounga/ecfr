@@ -1,6 +1,6 @@
 ##### § 221.1 Investigation and supervision of hydropower projects under the Federal Power Act (ER 1140-2-4). #####
 
-(a) *Purpose.* This regulation1 establishes procedures for executing Corps of Engineers functions under the authority of the Federal Power Act (FPA) administered by the Department of Energy, Federal Energy Regulatory Commission (FERC), formerly Federal Power Commission. Based on a specific request from FERC, these functions include:
+(a) *Purpose.* This regulation 1 establishes procedures for executing Corps of Engineers functions under the authority of the Federal Power Act (FPA) administered by the Department of Energy, Federal Energy Regulatory Commission (FERC), formerly Federal Power Commission. Based on a specific request from FERC, these functions include:
 
 1 This regulation supersedes ER 1140-2-4, 8 December 1967, and ER 1140-2-2, 10 September 1965.
 
@@ -16,7 +16,7 @@
 
 (2) Code of Federal Regulations, Title 18, part 1 to 149 relating to FERC General Rules and Regulations, available at the U.S. Government Printing Office, Washington, D.C. 20402.
 
-(3) ER 1145-2-303 (33 CFR 209.120),2 Permits for Activities in Navigable Waters or Ocean Waters.
+(3) ER 1145-2-303 (33 CFR 209.120), 2 Permits for Activities in Navigable Waters or Ocean Waters.
 
 2 33 CFR 209.120 was removed at 42 FR 37133, July 19, 1977.
 

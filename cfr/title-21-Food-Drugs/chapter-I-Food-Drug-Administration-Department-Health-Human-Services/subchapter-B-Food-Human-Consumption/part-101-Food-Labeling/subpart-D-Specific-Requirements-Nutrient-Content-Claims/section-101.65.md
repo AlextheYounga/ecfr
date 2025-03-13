@@ -1,6 +1,6 @@
 ##### § 101.65 Implied nutrient content claims and related label statements. #####
 
-Link to an amendment published at 89 FR 106162, Dec. 27, 2024.
+Link to an amendment published at 89 FR 106162, Dec. 27, 2024.This amendment was delayed until Apr. 28, 2025, at 90 FR 10592, Feb. 25, 2025.
 
 (a) *General requirements.* An implied nutrient content claim can only be made on the label and in labeling of the food if:
 

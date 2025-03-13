@@ -6,4 +6,4 @@
 
 (2) The regulations will be enforced by the Commander, U.S. Naval Forces Caribbean, U.S. Naval Station, Roosevelt Roads, Puerto Rico, and such agencies and subordinate commands as he/she may designate.
 
-(Sec. 7, 40 Stat. 266, (33 U.S.C. 1))[39 FR 27133, July 25, 1974, as amended at 46 FR 29935, June 4, 1981. Redesignated at 50 FR 42696, Oct. 22, 1985, as amended at 62 FR 17559, Apr. 10, 1997]
+(Sec. 7, 40 Stat. 266, (33 U.S.C. 1)) [39 FR 27133, July 25, 1974, as amended at 46 FR 29935, June 4, 1981. Redesignated at 50 FR 42696, Oct. 22, 1985, as amended at 62 FR 17559, Apr. 10, 1997]

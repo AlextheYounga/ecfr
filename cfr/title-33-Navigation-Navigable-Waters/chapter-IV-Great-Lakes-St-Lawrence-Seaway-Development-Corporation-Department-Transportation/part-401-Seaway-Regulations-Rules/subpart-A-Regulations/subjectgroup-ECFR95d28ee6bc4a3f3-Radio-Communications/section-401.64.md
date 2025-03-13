@@ -16,4 +16,4 @@
 
 (h) After the meeting, the downbound vessel shall call “Seaway Beauharnois” before switching to channel 10 (156.5 MHz).
 
-(68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471)[39 FR 10900, Mar. 22, 1974, as amended at 43 FR 25818, June 15, 1978; 47 FR 51123, Nov. 12, 1982; 61 FR 19551, May 2, 1996; 82 FR 12420, Mar. 3, 2017]
+(68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471) [39 FR 10900, Mar. 22, 1974, as amended at 43 FR 25818, June 15, 1978; 47 FR 51123, Nov. 12, 1982; 61 FR 19551, May 2, 1996; 82 FR 12420, Mar. 3, 2017]

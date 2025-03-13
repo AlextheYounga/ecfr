@@ -1,6 +1,6 @@
 ##### § 3280.810 Electrical testing. #####
 
-Link to an amendment published at 89 FR 75757, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75757, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *Dielectric strength test.* The wiring of each manufactured home shall be subjected to a 1-minute, 900 to 1079 volt dielectric strength test (with all switches closed) between live parts and the manufactured home ground, and neutral and the manufactured home ground. Alternatively, the test may be performed at 1080 to 1250 volts for 1 second. This test shall be performed after branch circuits are complete and after fixtures or appliances are installed. Fixtures or appliances which are listed shall not be required to withstand the dielectric strength test.
 

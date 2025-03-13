@@ -14,7 +14,7 @@
 
 (3) A vault constructed after September 1, 1971:
 
-(i) The walls, floors, and ceilings of which vault are constructed of at least 8 inches of reinforced concrete or other substantial masonry, reinforced vertically and horizontally with1/2-inch steel rods tied 6 inches on center, or the structural equivalent to such reinforced walls, floors, and ceilings;
+(i) The walls, floors, and ceilings of which vault are constructed of at least 8 inches of reinforced concrete or other substantial masonry, reinforced vertically and horizontally with 1/2-inch steel rods tied 6 inches on center, or the structural equivalent to such reinforced walls, floors, and ceilings;
 
 (ii) The door and frame unit of which vault shall conform to the following specifications or the equivalent: 30 man-minutes against surreptitious entry, 10 man-minutes against forced entry, 20 man-hours against lock manipulation, and 20 man-hours against radiological techniques;
 

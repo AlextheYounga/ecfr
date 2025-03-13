@@ -14,7 +14,7 @@
 
 (4) For products containing more than 5 gm per day lactose in a maximum daily dosage: “Do not use this product except under advice and supervision of a physician if you are allergic to milk or milk products.”
 
-(d) *Drug interaction precaution.* The labeling of the product contains the following statement “Ask a doctor or pharmacist before use if you are [bullet]1 presently taking a prescription drug. Antacids may interact with certain prescription drugs.”
+(d) *Drug interaction precaution.* The labeling of the product contains the following statement “Ask a doctor or pharmacist before use if you are [bullet] 1 presently taking a prescription drug. Antacids may interact with certain prescription drugs.”
 
 1 See § 201.66(b)(4) of this chapter.
 

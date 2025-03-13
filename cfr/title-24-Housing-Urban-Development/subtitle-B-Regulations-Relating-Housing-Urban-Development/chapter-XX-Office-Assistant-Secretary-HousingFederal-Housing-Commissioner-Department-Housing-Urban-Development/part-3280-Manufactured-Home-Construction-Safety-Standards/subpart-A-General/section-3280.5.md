@@ -1,6 +1,6 @@
 ##### § 3280.5 Data plate. #####
 
-Link to an amendment published at 89 FR 75743, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75743, Sept. 16, 2024.The above amendment was delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 Each manufactured home shall bear a data plate affixed in a permanent manner near the main electrical panel or other readily accessible and visible location. Each data plate shall be made of material what will receive typed information as well as preprinted information, and which can be cleaned of ordinary smudges or household dirt without removing information contained on the data plate; or the data plate shall be covered in a permanent manner with materials that will make it possible to clean the data plate of ordinary dirt and smudges without obscuring the information. Each data plate shall contain not less than the following information:
 

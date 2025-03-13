@@ -14,4 +14,4 @@
 
 (c) *Related conditions of use.* See §§ 520.1263b, 522.1260, and 558.325 of this chapter.
 
-[84 FR 32993, July 11, 2019, as amended at 85 FR 18121, Apr. 1, 2020]Editorial Note:At 86 FR 13188, Mar. 8, 2021, in § 556.360, paragraph (c) was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[84 FR 32993, July 11, 2019, as amended at 85 FR 18121, Apr. 1, 2020] Editorial Note:At 86 FR 13188, Mar. 8, 2021, in § 556.360, paragraph (c) was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

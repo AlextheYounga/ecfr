@@ -18,7 +18,7 @@ The food additive xanthan gum may be safely used in food in accordance with the 
 
 Locust Bean Gum Gel Test
 
-Blend on a weighing paper or in a weighing pan 1.0 gram of powdered locust bean gum with 1.0 gram of the powdered polysaccharide to be tested. Add the blend slowly (approximately1/2 minute) at the point of maximum agitation to a stirred solution of 200 milliliters of distilled water previously heated to 80 °C in a 400-milliliter beaker. Continue mechanical stirring until the mixture is in solution, but stir for a minimum time of 30 minutes. Do not allow the water temperature to drop below 60 °C.
+Blend on a weighing paper or in a weighing pan 1.0 gram of powdered locust bean gum with 1.0 gram of the powdered polysaccharide to be tested. Add the blend slowly (approximately 1/2 minute) at the point of maximum agitation to a stirred solution of 200 milliliters of distilled water previously heated to 80 °C in a 400-milliliter beaker. Continue mechanical stirring until the mixture is in solution, but stir for a minimum time of 30 minutes. Do not allow the water temperature to drop below 60 °C.
 
 Set the beaker and its contents aside to cool in the absence of agitation. Allow a minimum time of 2 hours for cooling. Examine the cooled beaker contents for a firm rubbery gel formation after the temperature drops below 40 °C.
 

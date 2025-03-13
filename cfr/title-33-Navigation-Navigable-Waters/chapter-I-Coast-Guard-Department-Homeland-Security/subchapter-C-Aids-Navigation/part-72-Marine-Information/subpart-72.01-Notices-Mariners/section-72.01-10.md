@@ -4,7 +4,7 @@
 
 (1) Useful in updating the latest editions of charts and publications of the National Geospatial-Intelligence Agency, National Ocean Service, U.S. Army Corps of Engineers, and Coast Guard;
 
-(2) Selected from the “Local Notice to Mariners” issued and published by the 1st, 5th, 7th, 8th, 9th, 11th, 13th, 14th, and 17th Coast Guard districts; and
+(2) Selected from the “Local Notice to Mariners” issued and published by the 1 st, 5 th, 7 th, 8 th, 9 th, 11 th, 13 th, 14 th, and 17 th Coast Guard districts; and
 
 (3) Compiled from foreign notices to mariners, ship reports, and similar cooperating observer reports.
 

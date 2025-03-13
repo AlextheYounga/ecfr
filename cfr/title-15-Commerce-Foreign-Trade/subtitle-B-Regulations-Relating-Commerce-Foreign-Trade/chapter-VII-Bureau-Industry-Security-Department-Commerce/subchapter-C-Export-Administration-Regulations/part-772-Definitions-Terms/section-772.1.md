@@ -144,7 +144,7 @@ c. The common basic characteristics.
 
 *Basic Scientific Research.* (GTN)—Experimental or theoretical work undertaken principally to acquire new knowledge of the fundamental principles of phenomena or observable facts, not primarily directed towards a specific practical aim or objective.
 
-*Bias.* (accelerometer) (Cat 7)—The average over a specified time of accelerometer output measured at specified operating conditions, that has no correlation with input acceleration or rotation. “Bias” is expressed in g or in meters per second2 (g or m/s2) (IEEE Std 528-2001) (Micro g equals 1×10−6 g).
+*Bias.* (accelerometer) (Cat 7)—The average over a specified time of accelerometer output measured at specified operating conditions, that has no correlation with input acceleration or rotation. “Bias” is expressed in g or in meters per second 2 (g or m/s 2) (IEEE Std 528-2001) (Micro g equals 1×10−6 g).
 
 “Bias”. (gyro) (Cat 7) The average over a specified time of gyro output measured at specified operating conditions that has no correlation with input rotation or acceleration. “Bias” is typically expressed in degrees per hour (deg/hr). (IEEE Std 528-2001).
 

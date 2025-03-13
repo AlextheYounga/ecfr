@@ -62,7 +62,7 @@
 
 (ii) “Light” or “lite” and “in sodium” are presented in uniform type size, style, color, and prominence.
 
-(e) Except as provided in paragraphs (b) through (d) of this section, the term “light” or “lite” may not be used to refer to a food that is not reduced in fat by 50 percent, or, if applicable, in calories by1/3 or, when properly qualified, in sodium by 50 percent unless:
+(e) Except as provided in paragraphs (b) through (d) of this section, the term “light” or “lite” may not be used to refer to a food that is not reduced in fat by 50 percent, or, if applicable, in calories by 1/3 or, when properly qualified, in sodium by 50 percent unless:
 
 (1) It describes some physical or organoleptic attribute of the food such as texture or color and the information (e.g., “light in color” or “light in texture”) so stated, clearly conveys the nature of the product; and
 

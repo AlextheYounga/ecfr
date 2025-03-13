@@ -54,4 +54,4 @@
 
 (2) Reverse distributors and distributors that acquire controlled substances pursuant to § 1317.55(a) or (b) of this chapter are exempt from the ARCOS reporting requirements in this section with regard to any controlled substances acquired pursuant to § 1317.55(a) or (b) of this chapter.
 
-(Approved by the Office of Management and Budget under control number 1117-0003)[62 FR 13962, Mar. 24, 1997, as amended at 68 FR 41229, July 11, 2003; 70 FR 294, Jan. 4, 2005; 75 FR 10678, Mar. 9, 2010; 79 FR 53564, Sept. 9, 2014; 81 FR 97020, Dec. 30, 2016]
+(Approved by the Office of Management and Budget under control number 1117-0003) [62 FR 13962, Mar. 24, 1997, as amended at 68 FR 41229, July 11, 2003; 70 FR 294, Jan. 4, 2005; 75 FR 10678, Mar. 9, 2010; 79 FR 53564, Sept. 9, 2014; 81 FR 97020, Dec. 30, 2016]

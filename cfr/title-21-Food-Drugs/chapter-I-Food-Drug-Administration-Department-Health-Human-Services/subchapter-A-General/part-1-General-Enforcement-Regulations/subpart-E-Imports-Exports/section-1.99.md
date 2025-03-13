@@ -26,6 +26,6 @@ The cost of supervising the relabeling or other action in connection with an imp
 |                                                                 Equivalent gross annual working hours charged to Food and Drug appropriation                                                                  |4,512|
 |                    **Note:** Ratio of equivalent gross annual number of working hours charged to Food and Drug appropriation to net number of annual working hours 4,512/1,688 = 267 pct.                     |     |
 
-(e) The minimum charge for services of supervising officers and of analysts shall be not less than the charge for 1 hour, and time after the first hour shall be computed in multiples of 1 hour, disregarding fractional parts less than1/2 hour.
+(e) The minimum charge for services of supervising officers and of analysts shall be not less than the charge for 1 hour, and time after the first hour shall be computed in multiples of 1 hour, disregarding fractional parts less than 1/2 hour.
 
 [42 FR 15553, Mar. 22, 1977, as amended at 85 FR 50782, Aug. 18, 2020]

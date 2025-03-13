@@ -14,19 +14,19 @@ In testing the finished food-contact article, use a separate test sample for eac
 
 (d) The finished food-contact article described in paragraph (b) of this section, when extracted according to the methods listed in paragraph (e)(2) of this section and referenced in this paragraph (d), using the solvent or solvents characterizing the type of food as determined from table I of paragraph (f) of this section, shall yield net acidified chloroform-soluble extractives as follows:
 
-(1) *For fatty food use.* (i) For films of 2 mil (0.002 inches) thickness or less, extractives shall not exceed 0.70 milligram/square inch1 (0.109 milligram/square centimeter) of food-contact surface (*n*-heptane extractions) when extracted by the abbreviated method cited in paragraph (e)(2)(i) of this section.
+(1) *For fatty food use.* (i) For films of 2 mil (0.002 inches) thickness or less, extractives shall not exceed 0.70 milligram/square inch 1 (0.109 milligram/square centimeter) of food-contact surface (*n*-heptane extractions) when extracted by the abbreviated method cited in paragraph (e)(2)(i) of this section.
 
 1 Average of four separate values, no single value of which differs from the average of those values by more then ±10 percent.
 
-(ii) For films of greater than 2 mils (0.002 inch) thickness, extractives shall not exceed 0.40 milligram/square inch1 (0.062 milligram/square centimeter) of food-contact surface (*n*-heptane extractions) when extracted by the abbreviated method cited in paragraph (e)(2)(i) of this section, or
+(ii) For films of greater than 2 mils (0.002 inch) thickness, extractives shall not exceed 0.40 milligram/square inch 1 (0.062 milligram/square centimeter) of food-contact surface (*n*-heptane extractions) when extracted by the abbreviated method cited in paragraph (e)(2)(i) of this section, or
 
-(iii) Alternatively, for films of greater than 2 mils thickness, extractives shall not exceed 0.70 milligram/square inch1 (0.109 milligram/square centimeter) of food-contact surface (*n*-heptane extractions) when extracted by the equilibrium method cited in paragraph (e)(2)(ii) of this section.
+(iii) Alternatively, for films of greater than 2 mils thickness, extractives shall not exceed 0.70 milligram/square inch 1 (0.109 milligram/square centimeter) of food-contact surface (*n*-heptane extractions) when extracted by the equilibrium method cited in paragraph (e)(2)(ii) of this section.
 
-(2) *For aqueous foods.* (i) The net acidified chloroform-soluble extractives shall not exceed 0.02 milligram/square inch2(0.003 milligram/square centimeter) of food-contact surface (water, acetic acid, or ethanol/water extractions) when extracted by the abbreviated method cited in paragraph (e)(2)(i) of this section.
+(2) *For aqueous foods.* (i) The net acidified chloroform-soluble extractives shall not exceed 0.02 milligram/square inch 2(0.003 milligram/square centimeter) of food-contact surface (water, acetic acid, or ethanol/water extractions) when extracted by the abbreviated method cited in paragraph (e)(2)(i) of this section.
 
 2 Average of four separate values, no single value of which differs from the average of those values by more than ±50 percent.
 
-(ii) Alternatively, the net acidified chloroform-soluble extractives shall not exceed 0.05 milligram/square inch3 (0.078 mg/square centimeter) of food-contact surface (water, acetic acid, or ethanol/water extractions) when extracted by the equilibrium method cited in paragraph (e)(2)(ii) of this section. If when exposed to *n*-heptane, a particular film splits along die lines, thus permitting exposure of both sides of the film to the extracting solvent, the results for that film sample are invalid and the test must be repeated for that sample until no splitting by the solvent occurs. If the finished food-contact article is itself the subject of a regulation in parts 174, 175, 176, 177, 178 and § 179.45 of this chapter, it shall also comply with any specifications and limitations prescribed for it by that regulation.
+(ii) Alternatively, the net acidified chloroform-soluble extractives shall not exceed 0.05 milligram/square inch 3 (0.078 mg/square centimeter) of food-contact surface (water, acetic acid, or ethanol/water extractions) when extracted by the equilibrium method cited in paragraph (e)(2)(ii) of this section. If when exposed to *n*-heptane, a particular film splits along die lines, thus permitting exposure of both sides of the film to the extracting solvent, the results for that film sample are invalid and the test must be repeated for that sample until no splitting by the solvent occurs. If the finished food-contact article is itself the subject of a regulation in parts 174, 175, 176, 177, 178 and § 179.45 of this chapter, it shall also comply with any specifications and limitations prescribed for it by that regulation.
 
 3 See footnote 2 to paragraph (d)(2)(i) of this section.
 

@@ -1,6 +1,6 @@
 ##### § 3280.714 Appliances, cooling. #####
 
-Link to an amendment published at 89 FR 75755, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75755, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) Every air conditioning unit or a combination air conditioning and heating unit shall be listed or certified by a nationally recognized testing agency for the application for which the unit is intended and installed in accordance with the terms of its listing.
 

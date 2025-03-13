@@ -4,7 +4,7 @@ The food additive alpha-galactosidase and parent mycelial microorganism *Mortier
 
 (a) The food additive is the enzyme alpha-galactosidase and the mycelia of the microorganism *Mortierella vinaceae* var. *raffinoseutilizer* which produces the enzyme.
 
-(b) The nonpathogenic microorganism matches American Type Culture Collection (ATCC) No. 20034,1 and is classified as follows:
+(b) The nonpathogenic microorganism matches American Type Culture Collection (ATCC) No. 20034, 1 and is classified as follows:
 
 1 Available from: American Type Culture Collection, 12301 Parklawn Drive, Rockville, MD 20852.
 

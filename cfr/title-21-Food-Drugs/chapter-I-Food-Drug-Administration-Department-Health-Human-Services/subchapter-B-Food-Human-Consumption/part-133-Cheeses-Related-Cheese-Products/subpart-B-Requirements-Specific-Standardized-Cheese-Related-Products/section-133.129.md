@@ -18,7 +18,7 @@
 
 (1) The words “cottage cheese dry curd” or alternatively “dry curd cottage cheese” which shall all appear in type of the same size and style.
 
-(2) The words “less than1/2% milkfat” which shall all appear in letters not less than one-half of the height of the letters in the phrase specified in paragraph (c)(1) of this section, but in no case less than one-eighth of an inch in height.
+(2) The words “less than 1/2% milkfat” which shall all appear in letters not less than one-half of the height of the letters in the phrase specified in paragraph (c)(1) of this section, but in no case less than one-eighth of an inch in height.
 
 (d) When either of the optional processes described in paragraph (b)(1) (ii) or (iii) of this section is used to make cottage cheese dry curd, the label shall bear the statement “Directly set” or “Curd set by direct acidification”. Wherever the name of the food appears on the label so conspicuously as to be seen under customary conditions of purchase, the statement specified in this paragraph, showing the optional process used, shall immediately and conspicuously precede or follow such name without intervening written, printed, or graphic matter.
 

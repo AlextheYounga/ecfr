@@ -54,13 +54,13 @@
 
 (ii) From January 1, 2014 to December 31, 2014:
 
-(A) Calculate risk-weighted assets in accordance with the general risk-based capital rules under 12 CFR parts 208 or 225, appendix A, and, if applicable, appendix E (state member banks or bank holding companies, respectively) 1 and substitute such risk-weighted assets for standardized total risk-weighted assets for purposes of § 217.10;
+(A) Calculate risk-weighted assets in accordance with the general risk-based capital rules under 12 CFR parts 208 or 225, appendix A, and, if applicable, appendix E (state member banks or bank holding companies, respectively)1 and substitute such risk-weighted assets for standardized total risk-weighted assets for purposes of § 217.10;
 
 1 For the purpose of calculating its general risk-based capital ratios from January 1, 2014 to December 31, 2014, an advanced approaches Board-regulated institution shall adjust, as appropriate, its risk-weighted asset measure (as that amount is calculated under 12 CFR parts 208 and 225, and, if applicable, appendix E (state member banks or bank holding companies, respectively) in the general risk-based capital rules) by excluding those assets that are deducted from its regulatory capital under § 217.22.
 
 (B) If applicable, calculate general market risk equivalent assets in accordance with 12 CFR parts 208 or 225, appendix E, section 4(a)(3) (state member banks or bank holding companies, respectively) and substitute such general market risk equivalent assets for standardized market risk-weighted assets for purposes of § 217.20(d)(3); and
 
-(C) Substitute the corresponding provision or provisions of 12 CFR parts 208 or 225, appendix A, and, if applicable, appendix E (state member banks or bank holding companies, respectively) for any reference to subpart D of this part in: § 217.121(c); § 217.124(a) and (b); § 217.144(b); § 217.154(c) and (d); § 217.202(b) (definition of covered position in paragraph (b)(3)(iv)); and § 217.211(b); 2
+(C) Substitute the corresponding provision or provisions of 12 CFR parts 208 or 225, appendix A, and, if applicable, appendix E (state member banks or bank holding companies, respectively) for any reference to subpart D of this part in: § 217.121(c); § 217.124(a) and (b); § 217.144(b); § 217.154(c) and (d); § 217.202(b) (definition of covered position in paragraph (b)(3)(iv)); and § 217.211(b);2
 
 2 In addition, for purposes of § 217.201(c)(3), from January 1, 2014 to December 31, 2014, for any circumstance in which the Board may require a Board-regulated institution to calculate risk-based capital requirements for specific positions or portfolios under subpart D of this part, the Board will instead require the Board-regulated institution to make such calculations according to 12 CFR parts 208 and 225, appendix A and, if applicable, appendix E (state member banks or bank holding companies, respectively).
 

@@ -336,7 +336,7 @@ Sedating drugs may cause confusion and over-sedation in the elderly; elderly pat
 
 (7) The identifying numbers required by § 201.56(d) and paragraphs (c)(1) through (c)(18) of this section must be presented in bold print and must precede the heading or subheading by at least two square em's (i.e., two squares of the size of the letter “m” in 8 point type).
 
-(8) The information required by paragraph (a) of this section, not including the information required under paragraph (a)(4) of this section, must be limited in length to an amount that, if printed in 2 columns on a standard sized piece of typing paper (81/2 by 11 inches), single spaced, in 8 point type with1/2-inch margins on all sides and between columns, would fit on one-half of the page.
+(8) The information required by paragraph (a) of this section, not including the information required under paragraph (a)(4) of this section, must be limited in length to an amount that, if printed in 2 columns on a standard sized piece of typing paper (81/2 by 11 inches), single spaced, in 8 point type with 1/2-inch margins on all sides and between columns, would fit on one-half of the page.
 
 (9) Sections or subsections of labeling that are identified as containing recent major changes under paragraph (a)(5) of this section must be highlighted in the full prescribing information by the inclusion of a vertical line on the left edge of the new or modified text.
 

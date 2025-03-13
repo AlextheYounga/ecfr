@@ -4,7 +4,7 @@ Products for which Reference Blood Grouping Reagents are not available shall be 
 
 (a) *Potency requirements.* Blood Grouping Reagents recommended for the test tube methods, including the indirect antiglobulin tests, shall have the following potency titer values, unless other values are approved by the Director, Center for Biologics Evaluation and Research.
 
-(1) For Anti-K, Anti-k, Anti-Jka, Anti-Fya, Anti-Cw, at least 1 + reaction with a 1:8 dilution of the reagent.
+(1) For Anti-K, Anti-k, Anti-Jk a, Anti-Fy a, Anti-C w, at least 1 + reaction with a 1:8 dilution of the reagent.
 
 (2) For Anti-S, Anti-s, Anti-P1, Anti-M, Anti-I, Anti-e (saline), Anti-c (saline), and Anti-A1, at least 1 + reaction with a 1:4 dilution of the reagent.
 

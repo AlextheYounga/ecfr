@@ -6,7 +6,7 @@
 
 (c) *Related tolerances.* See § 556.425 of this chapter.
 
-(d) *Conditions of use*—(1) *Amount.* One bolus per 500 pounds of body weight (4.4 milligrams per pound of body weight) as a single oral dose. Boluses may be divided in half for more accurate dosing as follows: up to 325 pounds,1/2 bolus; 326 to 600 pounds, 1 bolus; 601 to 900 pounds, 11/2 boluses; and 901 to 1,200 pounds, 2 boluses.
+(d) *Conditions of use*—(1) *Amount.* One bolus per 500 pounds of body weight (4.4 milligrams per pound of body weight) as a single oral dose. Boluses may be divided in half for more accurate dosing as follows: up to 325 pounds, 1/2 bolus; 326 to 600 pounds, 1 bolus; 601 to 900 pounds, 11/2 boluses; and 901 to 1,200 pounds, 2 boluses.
 
 (2) *Indications for use.* For removal and control of mature gastrointestinal nematode infections of cattle including stomach worms (*Haemonchus* spp., *Ostertagia* spp., *Trichostrongylus* spp.), worms of the small intestine (*Cooperia* spp., *Trichostrongylus* spp., *Nematodirus* spp.), and worms of the large intestine (*Oesophagostomum radiatum*).
 

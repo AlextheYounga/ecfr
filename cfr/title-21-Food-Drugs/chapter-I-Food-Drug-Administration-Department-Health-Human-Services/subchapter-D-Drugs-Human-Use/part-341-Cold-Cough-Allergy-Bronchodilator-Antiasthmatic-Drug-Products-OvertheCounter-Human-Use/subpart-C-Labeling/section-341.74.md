@@ -52,7 +52,7 @@
 
 (B) “May cause marked drowsiness. Sedatives and tranquilizers may increase the drowsiness effect. Do not give this product to children who are taking sedatives or tranquilizers, without first consulting the child's doctor.”
 
-(C) “Do not use [bullet]1 with any other product containing diphenhydramine, even one used on skin”.
+(C) “Do not use [bullet] 1 with any other product containing diphenhydramine, even one used on skin”.
 
 1 See § 201.66(b)(4) of this chapter for definition of bullet symbol.
 
@@ -68,7 +68,7 @@
 
 (iii) *For any product containing camphor or menthol in a suitable ointment vehicle or for steam inhalation use and meets the definition of one of the signal words (“extremely flammable,” “flammable,” “combustible”) as described in 16 CFR 1500.3(b)(10).* The labeling contains the appropriate flammability signal word(s) followed by a colon and the statement “Keep away from fire or flame.”
 
-(iv) *For any product containing camphor or menthol in a suitable ointment vehicle and that does not contain a flammability signal word as described in 16 CFR 1500.3(b)(10).* “When using this product, do not [bullet]1 heat [bullet] microwave [bullet] add to hot water or any container where heating water. May cause splattering and result in burns.” [Information highlighted in bold type.]
+(iv) *For any product containing camphor or menthol in a suitable ointment vehicle and that does not contain a flammability signal word as described in 16 CFR 1500.3(b)(10).* “When using this product, do not [bullet] 1 heat [bullet] microwave [bullet] add to hot water or any container where heating water. May cause splattering and result in burns.” [Information highlighted in bold type.]
 
 1 For a definition of the term “bullet,” see § 201.66(b)(4) of this chapter.
 

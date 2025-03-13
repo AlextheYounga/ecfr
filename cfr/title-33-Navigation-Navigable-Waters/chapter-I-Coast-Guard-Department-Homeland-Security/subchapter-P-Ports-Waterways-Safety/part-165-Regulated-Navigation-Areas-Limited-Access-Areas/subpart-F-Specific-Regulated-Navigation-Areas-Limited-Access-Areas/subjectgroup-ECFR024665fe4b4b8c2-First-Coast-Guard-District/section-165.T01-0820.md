@@ -16,4 +16,4 @@
 
 (2) To seek permission to enter the safety zone, individuals may reach the COTP or a COTP-designated representative via Channel 16 (VHF-FM) or (857) 416-3015 (Sector Boston Command Center).
 
-[USCG-2024-0820, 89 FR 77453, Sept, 23, 2024, as amended by USCG-2024-0820, 89 FR 106328, Dec. 30, 2024]Effective Date Note:By USCG-2024-0820, 89 FR 106328, Dec. 30, 2024, § 165.T01-0820 was revised and republished, effective Dec. 30, 2024 through Nov. 30, 2025.
+[USCG-2024-0820, 89 FR 77453, Sept, 23, 2024, as amended by USCG-2024-0820, 89 FR 106328, Dec. 30, 2024] Effective Date Note:By USCG-2024-0820, 89 FR 106328, Dec. 30, 2024, § 165.T01-0820 was revised and republished, effective Dec. 30, 2024 through Nov. 30, 2025.

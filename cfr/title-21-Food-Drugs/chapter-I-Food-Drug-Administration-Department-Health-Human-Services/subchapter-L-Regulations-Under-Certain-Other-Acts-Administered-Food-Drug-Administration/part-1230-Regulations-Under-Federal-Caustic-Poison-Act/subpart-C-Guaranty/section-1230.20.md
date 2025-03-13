@@ -8,7 +8,7 @@ The undersigned guarantees that the retail parcels, packages, or containers of t
 
 (Date)
 
-(Signature and address ofguarantor)
+(Signature and address of guarantor)
 
 (b) Substances for other than household use (this form may be issued only by a manufacturer or wholesaler) (§§ 1230.15, 1230.16):
 
@@ -16,4 +16,4 @@ The dangerous caustic or corrosive substance or substances in retail parcels, pa
 
 (Date)
 
-(Signature and address ofmanufacturer or wholesaler)
+(Signature and address of manufacturer or wholesaler)

@@ -8,7 +8,7 @@
 
 (3) Have the following text:
 
-WarningDangerous CargoNo VisitorsNo SmokingNo Open Lights
+Warning Dangerous Cargo No Visitors No Smoking No Open Lights
 
 (b) Each letter in the words on the sign must be—
 

@@ -12,4 +12,4 @@ In § 410.97:
 
 (e) *Wintering vessel* means a vessel that enters the Seaway upbound after a date designated each year by the Corporation and the Manager and transits above Iroquois Lock.
 
-(68 Stat. 92-97, 33 U.S.C. 981-990, as amended and sec. 104, Pub. L. 95-474, sec. 2, 92 Stat. 1472; 68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471)[47 FR 51124, Nov. 12, 1982, as amended at 65 FR 52915, Aug. 31, 2000; 74 FR 18995, Apr. 27, 2009]
+(68 Stat. 92-97, 33 U.S.C. 981-990, as amended and sec. 104, Pub. L. 95-474, sec. 2, 92 Stat. 1472; 68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471) [47 FR 51124, Nov. 12, 1982, as amended at 65 FR 52915, Aug. 31, 2000; 74 FR 18995, Apr. 27, 2009]

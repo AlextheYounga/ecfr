@@ -12,7 +12,7 @@ I hereby certify that I have served the foregoing document[s] upon the following
 
 Done at \_\_\_\_\_\_\_\_\_\_, this \_\_\_\_ day of \_\_\_\_\_\_, 19\_\_ or 20\_\_.
 
-[Signature]For[Capacity].
+[Signature] For [Capacity].
 
 (d) This table describes how to serve filed documents.
 

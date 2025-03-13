@@ -14,4 +14,4 @@
 
 (g) Where government aid cargo is declared, appropriate Canadian or U.S. customs form or a stamped and signed certification letter from the U.S. or Canada Customs must accompany the transit declaration form.
 
-(Approved by the Office of Management and Budget under control number 2135-0003)(68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471)[39 FR 10900, Mar. 22, 1974, as amended at 48 FR 20691, May 9, 1983; 49 FR 30936, Aug. 2, 1984; 65 FR 52914, Aug. 31, 2000; 70 FR 12973, Mar. 17, 2005; 71 FR 5607, Feb. 2, 2006; 79 FR 12661, Mar. 6, 2014]
+(Approved by the Office of Management and Budget under control number 2135-0003) (68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471) [39 FR 10900, Mar. 22, 1974, as amended at 48 FR 20691, May 9, 1983; 49 FR 30936, Aug. 2, 1984; 65 FR 52914, Aug. 31, 2000; 70 FR 12973, Mar. 17, 2005; 71 FR 5607, Feb. 2, 2006; 79 FR 12661, Mar. 6, 2014]

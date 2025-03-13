@@ -178,4 +178,4 @@ As provided in paragraph (a) of this section, a bank or savings association may 
 
 (l) *Financial literacy.* Activities that promote financial literacy are those that assist individuals, families, and households, including low- or moderate-income individuals, families, and households, to make informed financial decisions regarding managing income, savings, credit, and expenses, including with respect to homeownership.
 
-[89 FR 7165, Feb. 1, 2024, as amended at 89 FR 7167, Feb. 1, 2024] Editorial Note:At 89 FR 7167, Feb. 1, 2024, § 25.13 was amended by removing “CDFI bank or savings associations” wherever it appears and adding “CDFI bank” in its place; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[89 FR 7165, Feb. 1, 2024, as amended at 89 FR 7167, Feb. 1, 2024]Editorial Note:At 89 FR 7167, Feb. 1, 2024, § 25.13 was amended by removing “CDFI bank or savings associations” wherever it appears and adding “CDFI bank” in its place; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

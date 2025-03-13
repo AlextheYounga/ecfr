@@ -1,6 +1,6 @@
 ##### § 3280.715 Circulating air systems. #####
 
-Link to an amendment published at 89 FR 75755, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75755, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *Supply system.* (1) Supply air ducts, fittings, and any dampers contained therein must be made of galvanized steel, tin-plated steel, or aluminum, or must be listed as Class 0 or Class 1 air ducts and air connectors in accordance with UL 181-2003, Factory-Made Air Ducts and Air Connectors (incorporated by reference, see § 3280.4). Class 1 air ducts and air connectors must be located at least 3 feet from the furnace bonnet or plenum. Air connectors must not be used for exterior manufactured home duct connection. A duct system integral with the structure must be of durable construction that can be demonstrated to be equally resistant to fire and deterioration as required by this section. Furnace supply plenums must be constructed of metal that extends a minimum of 3 feet from the heat exchanger measured along the centerline of airflow. Ducts constructed from sheet metal must be in accordance with the following table:
 

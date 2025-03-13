@@ -58,7 +58,7 @@ In the case of the names specified in paragraphs (e) (1) through (5) of this sec
 
 (v) U.S. Standard Sieve No. 20, 30.5 centimeter (12 inch) diameter. The sieves shall comply with the specifications for such cloth set forth in “Official Methods of Analysis of the Association of Official Analytical Chemists” (AOAC), 13th Ed. (1980), Table 1, “Nominal Dimensions of Standard Test Sieves (U.S.A. Standard Series),” under the heading “Definitions of Terms and Explanatory Notes,” which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
-(vi) U.S. Standard sieve,1/2-inch sieve opening, 12-inch diameter.
+(vi) U.S. Standard sieve, 1/2-inch sieve opening, 12-inch diameter.
 
 (vii) Forceps, blunt points.
 
@@ -66,7 +66,7 @@ In the case of the names specified in paragraphs (e) (1) through (5) of this sec
 
 (ix) Rubber-tipped glass stirring rod.
 
-(2) *Procedure.* (i) Weigh the sample to be debreaded. Fill the container three-fourths full of water at 70°-80 °F. Suspend the paddle in the container, leaving a clearance of at least 5 inches below the paddle vanes, and adjust speed to 120 r.p.m. Add shrimp and stir for 10 minutes. Stack the sieves, the1/2-inch mesh over the No. 20, and pour the contents of the container onto them. Set the sieves under a faucet, preferably with spray attached, and rinse shrimp with no rubbing of flesh, being careful to keep all rinsings over the sieves and not having the stream of water hit the shrimp on the sieve directly. Lay the shrimp out singly on the sieve as rinsed. Inspect each shrimp and use the rubber-tipped rod and the spray to remove the breading material that may remain on any of them, being careful to avoid undue pressure or rubbing, and return each shrimp to the sieve. Remove the top sieve and drain on a slope for 2 minutes, then remove the shrimp to weighing pan. Rinse contents of the No. 20 sieve onto a flat pan and collect any particles other than breading (i.e., flesh and tail fins) and add to shrimp on balance pan and weigh.
+(2) *Procedure.* (i) Weigh the sample to be debreaded. Fill the container three-fourths full of water at 70°-80 °F. Suspend the paddle in the container, leaving a clearance of at least 5 inches below the paddle vanes, and adjust speed to 120 r.p.m. Add shrimp and stir for 10 minutes. Stack the sieves, the 1/2-inch mesh over the No. 20, and pour the contents of the container onto them. Set the sieves under a faucet, preferably with spray attached, and rinse shrimp with no rubbing of flesh, being careful to keep all rinsings over the sieves and not having the stream of water hit the shrimp on the sieve directly. Lay the shrimp out singly on the sieve as rinsed. Inspect each shrimp and use the rubber-tipped rod and the spray to remove the breading material that may remain on any of them, being careful to avoid undue pressure or rubbing, and return each shrimp to the sieve. Remove the top sieve and drain on a slope for 2 minutes, then remove the shrimp to weighing pan. Rinse contents of the No. 20 sieve onto a flat pan and collect any particles other than breading (i.e., flesh and tail fins) and add to shrimp on balance pan and weigh.
 
 (ii) Calculate percent shrimp material:
 

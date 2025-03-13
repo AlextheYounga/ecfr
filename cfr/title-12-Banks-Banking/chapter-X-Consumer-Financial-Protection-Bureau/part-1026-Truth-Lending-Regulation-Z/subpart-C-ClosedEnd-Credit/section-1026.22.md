@@ -6,9 +6,9 @@
 
 (ii) Upon discovery of the error, the creditor promptly discontinues use of that calculation tool for disclosure purposes and notifies the Bureau in writing of the error in the calculation tool.
 
-(2) As a general rule, the annual percentage rate shall be considered accurate if it is not more than 1/8 of 1 percentage point above or below the annual percentage rate determined in accordance with paragraph (a)(1) of this section.
+(2) As a general rule, the annual percentage rate shall be considered accurate if it is not more than1/8 of 1 percentage point above or below the annual percentage rate determined in accordance with paragraph (a)(1) of this section.
 
-(3) In an irregular transaction, the annual percentage rate shall be considered accurate if it is not more than 1/4 of 1 percentage point above or below the annual percentage rate determined in accordance with paragraph (a)(1) of this section. For purposes of this paragraph (a)(3), an irregular transaction is one that includes one or more of the following features: multiple advances, irregular payment periods, or irregular payment amounts (other than an irregular first period or an irregular first or final payment).
+(3) In an irregular transaction, the annual percentage rate shall be considered accurate if it is not more than1/4 of 1 percentage point above or below the annual percentage rate determined in accordance with paragraph (a)(1) of this section. For purposes of this paragraph (a)(3), an irregular transaction is one that includes one or more of the following features: multiple advances, irregular payment periods, or irregular payment amounts (other than an irregular first period or an irregular first or final payment).
 
 (4) *Mortgage loans.* If the annual percentage rate disclosed in a transaction secured by real property or a dwelling varies from the actual rate determined in accordance with paragraph (a)(1) of this section, in addition to the tolerances applicable under paragraphs (a)(2) and (3) of this section, the disclosed annual percentage rate shall also be considered accurate if:
 

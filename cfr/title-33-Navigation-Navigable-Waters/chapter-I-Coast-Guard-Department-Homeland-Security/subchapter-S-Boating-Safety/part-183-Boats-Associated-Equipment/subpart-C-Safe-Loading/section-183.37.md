@@ -1,6 +1,6 @@
 ##### § 183.37 Maximum weight capacity: Boats rated for manual propulsion and boats rated for outboard motors of 2 horsepower or less. #####
 
-(a) The maximum weight capacity marked on a boat that is rated for manual propulsion or for motors of 2 horsepower or less must not exceed3/10 of the difference between the boat's maximum displacement and the boat's weight in pounds.
+(a) The maximum weight capacity marked on a boat that is rated for manual propulsion or for motors of 2 horsepower or less must not exceed 3/10 of the difference between the boat's maximum displacement and the boat's weight in pounds.
 
 (b) For the purposes of paragraph (a) of this section:
 

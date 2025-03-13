@@ -10,4 +10,4 @@
 
 (e) Notwithstanding the above speed limits, every vessel approaching a free standing lift bridge shall proceed at a speed so that it will not pass the Limit of Approach sign should the raising of the bridge be delayed.
 
-(68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471)[39 FR 10900, Mar. 22, 1974, as amended at 47 FR 51122, Nov. 12, 1982; 55 FR 48599, Nov. 21, 1990; 65 FR 52914, Aug. 31, 2000; 78 FR 16181, Mar. 14, 2013; 88 FR 14267, Mar. 8, 2023]
+(68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471) [39 FR 10900, Mar. 22, 1974, as amended at 47 FR 51122, Nov. 12, 1982; 55 FR 48599, Nov. 21, 1990; 65 FR 52914, Aug. 31, 2000; 78 FR 16181, Mar. 14, 2013; 88 FR 14267, Mar. 8, 2023]

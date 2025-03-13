@@ -40,7 +40,7 @@
 
                             (3) Not less than three-sixteenths inch in height on packages the principal display panel of which has an area of more than 25 but not more than 100 square inches.
 
-                            (4) Not less than one-fourth inch in height on packages the principal display panel of which has an area of more than 100 square inches, except not less than1/2 inch in height if the area is more than 400 square inches.
+                            (4) Not less than one-fourth inch in height on packages the principal display panel of which has an area of more than 100 square inches, except not less than 1/2 inch in height if the area is more than 400 square inches.
 
                             Where the declaration is blown, embossed, or molded on a glass or plastic surface rather than by printing, typing, or coloring, the lettering sizes specified in paragraphs (h)(1) through (4) of this section shall be increased by one-sixteenth of an inch.
 

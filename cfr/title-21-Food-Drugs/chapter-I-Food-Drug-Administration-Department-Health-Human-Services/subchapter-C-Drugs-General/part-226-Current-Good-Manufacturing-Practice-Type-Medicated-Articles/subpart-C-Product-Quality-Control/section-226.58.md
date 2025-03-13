@@ -14,7 +14,7 @@ Laboratory controls shall include the establishment of adequate specifications a
 
 (d) A determination establishing that the drug components remain uniformly dispersed and stable in the Type A medicated article(s) under ordinary conditions of shipment, storage, and use. This may consist of a determination on a Type A medicated article(s) of substantially the same formula and characteristics. Suitable expiration dates shall appear on the labels of the Type A medicated article(s) to assure that the articles meet the appropriate standards of identity, strength, quality, and purity at the time of use.
 
-(e) Adequate provision to check the reliability, accuracy, and precision of any laboratory test procedure used. The official methods in “Methods of Analysis of the Association of Official Analytical Chemists,”1 methods described in an official compendium, and any method submitted as a part of a food additive petition or new-drug application that has been accepted by the Food and Drug Administration shall be regarded as meeting this provision.
+(e) Adequate provision to check the reliability, accuracy, and precision of any laboratory test procedure used. The official methods in “Methods of Analysis of the Association of Official Analytical Chemists,” 1 methods described in an official compendium, and any method submitted as a part of a food additive petition or new-drug application that has been accepted by the Food and Drug Administration shall be regarded as meeting this provision.
 
 1 Copies may be obtained from: AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877.
 

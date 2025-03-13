@@ -22,8 +22,7 @@ Link to an amendment published at 89 FR 7522, Feb. 2, 2024.Link to an amendment 
 
 (v) Section 820.170 of this chapter. Installation.
 
-(vi) Section 820.200 of this chapter.
-Servicing.
+(vi) Section 820.200 of this chapter. Servicing.
 
 (2) If the combination product includes a device constituent part and a drug constituent part, and the current good manufacturing practice operating system has been shown to comply with the QS regulation, the following provisions of the drug CGMPs must also be shown to have been satisfied; upon demonstration that these requirements have been satisfied, no additional showing of compliance with respect to the drug CGMPs need be made:
 

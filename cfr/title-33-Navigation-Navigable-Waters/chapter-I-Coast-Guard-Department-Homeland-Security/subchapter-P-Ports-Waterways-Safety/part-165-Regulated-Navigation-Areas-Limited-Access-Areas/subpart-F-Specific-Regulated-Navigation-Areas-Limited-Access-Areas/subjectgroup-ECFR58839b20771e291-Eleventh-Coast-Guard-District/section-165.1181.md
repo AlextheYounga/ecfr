@@ -76,11 +76,11 @@ Datum: NAD 83
 
 (ii) The waters bounded by a line connecting the following coordinates, beginning at:
 
-37°54′28″ N, 122°23′36″ W; thence to37°54′20″ N, 122°23′38″ W; thence to37°54′23″ N, 122°24′02″ W; thence to37°54′57″ N, 122°24′51″ W; thence to37°55′05″ N, 122°25′02″ W; thence to37°54′57″ N, 122°25′22″ W; thence to37°53′26″ N, 122°25′03″ W; thence to37°53′24″ N, 122°25′13″ W; thence to37°55′30″ N, 122°25′35″ W; thence to37°55′40″ N, 122°25′10″ W; thence to37°54′54″ N, 122°24′30″ W; thence to37°54′30″ N, 122°24′00″ W; thence returning to the point of beginning.Datum: NAD 83
+37°54′28″ N, 122°23′36″ W; thence to 37°54′20″ N, 122°23′38″ W; thence to 37°54′23″ N, 122°24′02″ W; thence to 37°54′57″ N, 122°24′51″ W; thence to 37°55′05″ N, 122°25′02″ W; thence to 37°54′57″ N, 122°25′22″ W; thence to 37°53′26″ N, 122°25′03″ W; thence to 37°53′24″ N, 122°25′13″ W; thence to 37°55′30″ N, 122°25′35″ W; thence to 37°55′40″ N, 122°25′10″ W; thence to 37°54′54″ N, 122°24′30″ W; thence to 37°54′30″ N, 122°24′00″ W; thence returning to the point of beginning.Datum: NAD 83
 
 (7) *Oakland Harbor RNA*: The following is a regulated navigation area—The waters bounded by a line connecting the following coordinates, beginning at:
 
-37°48′40″ N, 122°19′58″ W; thence to37°48′50″ N, 122°20′02″ W; thence to37°48′29″ N, 122°20′39″ W; thence to37°48′13″ N, 122°21′26″ W; thence to37°48′10″ N, 122°21′39″ W; thence to37°48′20″ N, 122°22′12″ W; thence to37°47′36″ N, 122°21′50″ W; thence to37°47′52″ N, 122°21′40″ W; thence to37°48′03″ N, 122°21′00″ W; thence to37°47′48″ N, 122°19′46″ W; thence to37°47′55″ N, 122°19′43″ W; thence returning along the shoreline to the point of the beginning.Datum: NAD 83
+37°48′40″ N, 122°19′58″ W; thence to 37°48′50″ N, 122°20′02″ W; thence to 37°48′29″ N, 122°20′39″ W; thence to 37°48′13″ N, 122°21′26″ W; thence to 37°48′10″ N, 122°21′39″ W; thence to 37°48′20″ N, 122°22′12″ W; thence to 37°47′36″ N, 122°21′50″ W; thence to 37°47′52″ N, 122°21′40″ W; thence to 37°48′03″ N, 122°21′00″ W; thence to 37°47′48″ N, 122°19′46″ W; thence to 37°47′55″ N, 122°19′43″ W; thence returning along the shoreline to the point of the beginning.Datum: NAD 83
 
 (d) *General regulations.* (1) A power-driven vessel of 1600 or more gross tons, or a tug with a tow of 1600 or more gross tons, navigating within the RNAs defined in paragraph (c) of this section, shall not exceed a speed of 15 knots through the water.
 
@@ -124,17 +124,17 @@ Datum: NAD 83
 
 (iv) This paragraph shall not be construed as prohibiting any necessary use of the channel by any public vessels while engaged in official duties, or in emergencies by pilot boats.
 
-(3) *Benicia-Martinez Railroad Drawbridge Regulated Navigation Area (RNA)*—(i) *Eastbound vessels:* (A) The master, pilot, or person directing the movement of a power-driven vessel of 1600 or more gross tons or a tug with a tow of 1600 or more gross tons traveling eastbound and intending to transit under the lift span (centered at coordinates 38°02′18″ N, 122°07′17″ W) of the railroad bridge across Carquinez Strait at mile 7.0 shall, immediately after entering the RNA, determine whether the visibility around the lift span is1/2 nautical mile or greater.
+(3) *Benicia-Martinez Railroad Drawbridge Regulated Navigation Area (RNA)*—(i) *Eastbound vessels:* (A) The master, pilot, or person directing the movement of a power-driven vessel of 1600 or more gross tons or a tug with a tow of 1600 or more gross tons traveling eastbound and intending to transit under the lift span (centered at coordinates 38°02′18″ N, 122°07′17″ W) of the railroad bridge across Carquinez Strait at mile 7.0 shall, immediately after entering the RNA, determine whether the visibility around the lift span is 1/2 nautical mile or greater.
 
-(B) If the visibility is less than1/2 nautical mile, or subsequently becomes less than1/2 nautical mile, the vessel shall not transit under the lift span.
+(B) If the visibility is less than 1/2 nautical mile, or subsequently becomes less than 1/2 nautical mile, the vessel shall not transit under the lift span.
 
-(ii) *Westbound vessels:* (A) The master, pilot, or person directing the movement of a power-driven vessel of 1600 or more gross tons or a tug with a tow of 1600 or more gross tons traveling westbound and intending to transit under the lift span (centered at coordinates 38°02′18″ N, 122°07′17″ W) of the railroad bridge across Carquinez Strait at mile 7.0 shall, immediately after entering the RNA determine whether the visibility around the lift span is1/2 nautical mile or greater.
+(ii) *Westbound vessels:* (A) The master, pilot, or person directing the movement of a power-driven vessel of 1600 or more gross tons or a tug with a tow of 1600 or more gross tons traveling westbound and intending to transit under the lift span (centered at coordinates 38°02′18″ N, 122°07′17″ W) of the railroad bridge across Carquinez Strait at mile 7.0 shall, immediately after entering the RNA determine whether the visibility around the lift span is 1/2 nautical mile or greater.
 
-(B) If the visibility is less than1/2 nautical mile, the vessel shall not pass beyond longitude line 121°55′19″ W (coinciding with the charted position of the westernmost end of Mallard Island) until the visibility improves to greater than1/2 nautical mile around the lift span.
+(B) If the visibility is less than 1/2 nautical mile, the vessel shall not pass beyond longitude line 121°55′19″ W (coinciding with the charted position of the westernmost end of Mallard Island) until the visibility improves to greater than 1/2 nautical mile around the lift span.
 
-(C) If after entering the RNA visibility around the lift span subsequently becomes less than1/2 nautical mile, the master, pilot, or person directing the movement of the vessel either shall not transit under the lift span or shall request a deviation from the requirements of the RNA as prescribed in paragraph (b) of this section.
+(C) If after entering the RNA visibility around the lift span subsequently becomes less than 1/2 nautical mile, the master, pilot, or person directing the movement of the vessel either shall not transit under the lift span or shall request a deviation from the requirements of the RNA as prescribed in paragraph (b) of this section.
 
-(D) Vessels that are moored or anchored within the RNA with the intent to transit under the lift span shall remain moored or anchored until visibility around the lift span becomes greater than1/2 nautical mile.
+(D) Vessels that are moored or anchored within the RNA with the intent to transit under the lift span shall remain moored or anchored until visibility around the lift span becomes greater than 1/2 nautical mile.
 
 (4) *Southampton Shoal/Richmond Harbor RNA:* A power-driven vessel of 1600 or more gross tons, or a tug with a tow of 1600 or more gross tons, shall not enter Southampton Shoal/Richmond Harbor RNA when another power-driven vessel of 1600 or more gross tons, or a tug with a tow of 1600 or more gross tons, is navigating therein, if such entry would result in meeting, crossing, or overtaking the other vessel.
 

@@ -48,6 +48,6 @@
 
 (f) *Delegation of authority for approval of structural plans for non-Federal hydroelectric projects affecting navigation.* The authority vested in the Secretary of the Army by section 4(e) of the Federal Power Act is hereby delegated to the Chief of the Engineers for promulgation with regard to approval of plans of structures filed with the Federal Power Commission in connection with licensing of non-Federal hydroelectric projects.
 
-(Sec. 4(e), 49 Stat. 840; 16 U.S.C. 797(e); Secretary of the Army memorandum for the Chief of Engineers, dated March 11, 1975)[33 FR 18670, Dec. 18, 1968, as amended at 40 FR 17023, Apr. 16, 1975]Cross Reference:
+(Sec. 4(e), 49 Stat. 840; 16 U.S.C. 797(e); Secretary of the Army memorandum for the Chief of Engineers, dated March 11, 1975) [33 FR 18670, Dec. 18, 1968, as amended at 40 FR 17023, Apr. 16, 1975]Cross Reference:
 
 For regulations of the Federal Energy Regulatory Commission, see 18 CFR chapter I.

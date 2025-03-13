@@ -10,7 +10,7 @@
 
 I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Printed name), do hereby certify that I am the individual to whom the requested record pertains or that I am within the class of persons authorized to act on his behalf in accordance with 15 CFR, Part 80.
 
- (Signature)(Date)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_In the County ofState ofOn this \_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_, 19\_\_\_\_, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name of individual) who is personally known to me, did appear before me and sign the above certificate. (Signature)(Date)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(S) My commission expires
+ (Signature) (Date)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ In the County of State of On this \_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_, 19\_\_\_\_, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name of individual) who is personally known to me, did appear before me and sign the above certificate. (Signature) (Date)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(S) My commission expires
 
 (e) Except as otherwise provided, Census information will be provided only to the individual to whom the record pertains. It will include the names of the subject and the head of the household, the relationship of the subject to the head of the household, and the subject's age and birthplace.
 

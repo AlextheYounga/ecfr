@@ -2,7 +2,7 @@
 
 (a) Hydrogen peroxide (H2O2, CAS Reg. No. 7722-84-1) is also referred to as hydrogen dioxide. It is made by the electrolytic oxidation of sulfuric acid or a sulfate to persulfuric acid or a persulfuric acid salt with subsequent hydrolysis and distillation of the hydrogen peroxide formed; by decomposition of barium peroxide with sulfuric or phosphoric acid; by hydrogen reduction of 2-ethylanthraquinone, followed by oxidation with air, to regenerate the quinone and produce hydrogen peroxide; or by electrical discharge through a mixture of hydrogen, oxygen, and water vapor.
 
-(b) The ingredient meets the specifications of the Food Chemicals Codex, 3d ed. (1981), pp. 146-147,1 which is incorporated by reference.
+(b) The ingredient meets the specifications of the Food Chemicals Codex, 3d ed. (1981), pp. 146-147, 1 which is incorporated by reference.
 
 1 Copies may be obtained from the National Academy of Sciences, 2101 Constitution Ave. NW, Washington, DC 20037, or examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 

@@ -1,6 +1,6 @@
 ##### § 3280.209 Smoke alarm requirements. #####
 
-Link to an amendment published at 89 FR 75745, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75745, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *Labeling.* Each smoke alarm required under paragraph (b) of this section must conform with the requirements of UL 217 (incorporated by reference, see § 3280.4), or ANSI/UL 268 (incorporated by reference, see § 3280.4), and must bear a label to evidence conformance. Combination smoke and carbon monoxide alarms shall be listed and must bear a label to evidence conformance with UL 217 and ANSI/UL 2034.
 

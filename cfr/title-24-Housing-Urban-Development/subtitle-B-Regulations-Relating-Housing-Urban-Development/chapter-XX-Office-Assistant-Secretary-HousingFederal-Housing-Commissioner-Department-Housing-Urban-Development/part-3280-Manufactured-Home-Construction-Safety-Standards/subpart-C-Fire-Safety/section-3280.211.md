@@ -1,6 +1,6 @@
 ##### § 3280.211 Carbon monoxide alarm requirements. #####
 
-Link to an amendment published at 89 FR 75745, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75745, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *Labeling.* Carbon monoxide alarms shall be listed and must bear a label to evidence conformance with ANSI/UL 2034 (incorporated by reference, see § 3280.4). Combination carbon monoxide and smoke alarms shall be listed and must bear a label to evidence conformance with ANSI/UL 2034 and UL 217 (incorporated by reference, see § 3280.4).
 

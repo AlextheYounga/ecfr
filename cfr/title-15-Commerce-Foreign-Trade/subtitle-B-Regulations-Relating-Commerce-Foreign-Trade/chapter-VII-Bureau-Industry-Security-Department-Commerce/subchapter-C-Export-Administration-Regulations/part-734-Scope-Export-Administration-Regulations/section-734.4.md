@@ -4,7 +4,7 @@
 
 (2) Foreign produced encryption technology that incorporates U.S. origin encryption technology controlled by ECCN 5E002 is subject to the EAR regardless of the amount of U.S. origin content.
 
-(3) There is no *de minimis* level for equipment meeting the parameters in ECCN 3B993.f.1 of the Commerce Control List in supplement no. 1 to part 774 of the EAR, when the equipment is destined for use in the “development” or “production” of “advanced-node integrated circuits” and the “advanced-node integrated circuits” meet the parameter specified in paragraph (1) of that definition in § 772.1 of the EAR, unless the country from which the foreign-made item was first exported1 has this commodity specified on an export control list.
+(3) There is no *de minimis* level for equipment meeting the parameters in ECCN 3B993.f.1 of the Commerce Control List in supplement no. 1 to part 774 of the EAR, when the equipment is destined for use in the “development” or “production” of “advanced-node integrated circuits” and the “advanced-node integrated circuits” meet the parameter specified in paragraph (1) of that definition in § 772.1 of the EAR, unless the country from which the foreign-made item was first exported 1 has this commodity specified on an export control list.
 
 1 The Government of Japan added ArF-wet lithography equipment and other advanced semiconductor manufacturing equipment to its control list for all regions on July 23, 2023. The Government of the Kingdom of the Netherlands added this equipment to its control list for all regions on September 9, 2024.
 

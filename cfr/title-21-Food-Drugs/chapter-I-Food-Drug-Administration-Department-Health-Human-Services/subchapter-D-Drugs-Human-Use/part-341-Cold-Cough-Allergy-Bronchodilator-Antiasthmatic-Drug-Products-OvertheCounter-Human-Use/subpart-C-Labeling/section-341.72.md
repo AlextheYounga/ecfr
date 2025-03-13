@@ -28,7 +28,7 @@
 
 (iii) *For products containing diphenhydramine citrate, diphenhydramine hydrochloride, or doxylamine succinate identified in § 341.12(f), (g), and (h).* “May cause marked drowsiness. Sedatives and tranquilizers may increase the drowsiness effect. Do not give this product to children who are taking sedatives or tranquilizers, without first consulting the child's doctor.”
 
-(iv) *For products containing diphenhydramine citrate or diphenhydramine hydrochloride identified in § 341.12(f) and (g).* “Do not use [bullet]1 with any other product containing diphenhydramine, even one used on skin”.
+(iv) *For products containing diphenhydramine citrate or diphenhydramine hydrochloride identified in § 341.12(f) and (g).* “Do not use [bullet] 1 with any other product containing diphenhydramine, even one used on skin”.
 
 1 See § 201.66(b)(4) of this chapter for definition of bullet symbol.
 

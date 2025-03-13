@@ -1,6 +1,6 @@
 ##### § 165.121 Safety and Security Zones: High Interest Vessels, Narragansett Bay, Rhode Island. #####
 
-(a) *Location.* (1) All waters of Rhode Island Sound within a1/2 mile radius of any high interest vessel while the vessel is anchored within1/2 mile of the point Latitude 41°25′ N, Longitude 71°23′ W in the Narragansett Bay Precautionary Area.
+(a) *Location.* (1) All waters of Rhode Island Sound within a 1/2 mile radius of any high interest vessel while the vessel is anchored within 1/2 mile of the point Latitude 41°25′ N, Longitude 71°23′ W in the Narragansett Bay Precautionary Area.
 
 (2) All waters of Rhode Island Sound, Narragansett Bay, the Providence and Taunton Rivers 2 miles ahead and 1 mile astern, and extending 1000 yards on either side of any high interest vessel transiting Narragansett Bay, or the Providence and Taunton Rivers.
 

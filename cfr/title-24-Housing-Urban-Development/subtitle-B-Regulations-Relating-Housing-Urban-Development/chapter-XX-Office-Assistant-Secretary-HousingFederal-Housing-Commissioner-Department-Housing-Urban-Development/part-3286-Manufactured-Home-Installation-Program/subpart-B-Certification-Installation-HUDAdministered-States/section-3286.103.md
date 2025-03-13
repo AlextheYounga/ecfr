@@ -1,6 +1,6 @@
 ##### § 3286.103 DAPIA-approved installation instructions. #####
 
-Link to an amendment published at 89 FR 75758, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75758, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *Providing instructions to purchaser or lessee.* (1) For each manufactured home sold or leased to a purchaser or lessee, the retailer must provide the purchaser or lessee with a copy of the manufacturer's DAPIA-approved installation instructions for the home.
 

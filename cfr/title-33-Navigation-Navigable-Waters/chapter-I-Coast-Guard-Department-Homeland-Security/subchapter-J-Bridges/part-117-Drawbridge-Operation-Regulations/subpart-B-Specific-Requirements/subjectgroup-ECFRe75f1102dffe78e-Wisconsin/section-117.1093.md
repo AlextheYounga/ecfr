@@ -40,4 +40,4 @@
 
 (d) The Canadian Pacific Railroad Bridge at Mile 1.74 over the Burnham Canal, and the Sixteenth Street Bridge, mile 2.14, over the Menomonee River are closed by regulation and do not need to open for the passage of vessels.
 
-[USCG-2019-0824, 86 FR 53216, Sept. 27, 2021, as amended by USCG-2024-0018, 89 FR 78819, Sept. 26, 2024]Effective Date Note:By USCG-2024-0018, 89 FR 78819, Sept. 26, 2024, § 117.1093 was amended by adding paragraph (a) (6), effective Sept. 26, 2024 through Apr. 1, 2025.
+[USCG-2019-0824, 86 FR 53216, Sept. 27, 2021, as amended by USCG-2024-0018, 89 FR 78819, Sept. 26, 2024] Effective Date Note:By USCG-2024-0018, 89 FR 78819, Sept. 26, 2024, § 117.1093 was amended by adding paragraph (a) (6), effective Sept. 26, 2024 through Apr. 1, 2025.

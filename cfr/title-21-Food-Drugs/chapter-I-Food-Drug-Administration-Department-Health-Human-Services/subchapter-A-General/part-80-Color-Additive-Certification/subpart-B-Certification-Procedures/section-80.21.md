@@ -38,7 +38,7 @@ A sample accompanying a request for certification must be submitted under separa
 
 (1) *Request for certification of a batch of straight color additive.*
 
-Date \_\_\_\_\_\_\_\_Office of Cosmetics and Colors (HFS-100),Center for Food Safety and Applied Nutrition,Food and Drug Administration,5001 Campus Dr.,College Park, MD 20740
+Date \_\_\_\_\_\_\_\_Office of Cosmetics and Colors (HFS-100),Center for Food Safety and Applied Nutrition,Food and Drug Administration,5001 Campus Dr., College Park, MD 20740
 
 In accordance with the regulations promulgated under the Federal Food, Drug, and Cosmetic Act, we hereby make application for the certification of a batch of straight color additive.
 
@@ -50,11 +50,11 @@ The accompanying sample was taken after the batch was mixed in accordance with 2
 
 (2) *Request for certification of a batch of color additive lake.*
 
-Date \_\_\_\_\_\_\_\_Office of Cosmetics and Colors (HFS-100),Center for Food Safety and Applied Nutrition,Food and Drug Administration,5001 Campus Dr.,College Park, MD 20740
+Date \_\_\_\_\_\_\_\_Office of Cosmetics and Colors (HFS-100),Center for Food Safety and Applied Nutrition,Food and Drug Administration,5001 Campus Dr., College Park, MD 20740
 
 In accordance with the regulations promulgated under the Federal Food, Drug, and Cosmetic Act, we hereby make application for the certification of a batch of color additive lake.
 
-Name of colorBatch number(Manufacturer's number)Batch weighs \_\_\_\_ poundsName of color usedQuantity \_\_\_\_ poundsLot number(When certification of the lakefor use in foods is requested)Precipitant usedSubstratum usedQuantity \_\_\_\_ poundsBatch manufactured by \_\_\_\_\_\_\_\_\_\_ at \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name and address of actual manufacturer)How stored pending certification(State conditions of storage, with kind and size of containers, location, etc.)Certification requested of this color for use in (State proposed uses)Required fee, $\_\_\_\_ (drawn to the order of Food and Drug Administration).
+Name of color Batch number(Manufacturer's number)Batch weighs \_\_\_\_ poundsName of color usedQuantity \_\_\_\_ poundsLot number(When certification of the lakefor use in foods is requested) Precipitant usedSubstratum usedQuantity \_\_\_\_ poundsBatch manufactured by \_\_\_\_\_\_\_\_\_\_ at \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name and address of actual manufacturer)How stored pending certification(State conditions of storage, with kind and size of containers, location, etc.)Certification requested of this color for use in (State proposed uses)Required fee, $\_\_\_\_ (drawn to the order of Food and Drug Administration).
 
 The accompanying sample was taken after the batch was mixed in accordance with 21 CFR 80.22 and is accurately representative thereof.
 
@@ -62,7 +62,7 @@ The accompanying sample was taken after the batch was mixed in accordance with 2
 
 (3) *Request for certification of a repack of a batch of certified color additive.*
 
-Date \_\_\_\_\_\_\_\_\_\_Office of Cosmetics and Colors (HFS-100),Center for Food Safety and Applied Nutrition,Food and Drug Administration,5001 Campus Dr.,College Park, MD 20740
+Date \_\_\_\_\_\_\_\_\_\_Office of Cosmetics and Colors (HFS-100),Center for Food Safety and Applied Nutrition,Food and Drug Administration,5001 Campus Dr., College Park, MD 20740
 
 In accordance with the regulations promulgated under the Federal Food, Drug, and Cosmetic Act, we hereby make application for the certification of a batch of color additive repack.
 
@@ -74,11 +74,11 @@ The accompanying sample was taken after the batch was mixed in accordance with 2
 
 (4) *Request for certification of a batch of color additive mixture.*
 
-Date \_\_\_\_\_\_\_\_\_\_Office of Cosmetics and Colors (HFS-100),Center for Food Safety and Applied Nutrition,Food and Drug Administration,5001 Campus Dr.,College Park, MD 20740
+Date \_\_\_\_\_\_\_\_\_\_Office of Cosmetics and Colors (HFS-100),Center for Food Safety and Applied Nutrition,Food and Drug Administration,5001 Campus Dr., College Park, MD 20740
 
 In accordance with the regulations promulgated under the Federal Food, Drug, and Cosmetic Act, we hereby make application for the certification of a batch of color additive mixture.
 
-Name of mixture(Manufacturer's trade name)Batch number(Manufacturer's number)Weight of batch \_\_\_\_ poundsVolume of batch \_\_\_\_ (If liquid) gallonsBatch manufactured byConstituents of the mixture:1. Color(s). (List separately each color and each lot number.)*Name of color*as certified Lot number*Quantity used*(*in pounds*) *Obtained from*2. List of diluents. (List separately each diluent.)Name of diluentQuantity usedBy volumeBy weight (*if liquid*)Batch mixed as follows(Describe in detail)How stored pending certification(State conditions of storage, with kind and size of containers, location, etc.)Certification requested for use in (State proposed uses)Required fee, $\_\_\_\_ (drawn to the order of Food and Drug Administration).
+Name of mixture(Manufacturer's trade name)Batch number(Manufacturer's number)Weight of batch \_\_\_\_ poundsVolume of batch \_\_\_\_ (If liquid) gallonsBatch manufactured byConstituents of the mixture:1. Color(s). (List separately each color and each lot number.)*Name of color*as certified Lot number*Quantity used*(*in pounds*) *Obtained from*2. List of diluents. (List separately each diluent.)Name of diluentQuantity usedBy volume By weight (*if liquid*) Batch mixed as follows(Describe in detail)How stored pending certification (State conditions of storage, with kind and size of containers, location, etc.)Certification requested for use in (State proposed uses)Required fee, $\_\_\_\_ (drawn to the order of Food and Drug Administration).
 
 The accompanying sample was taken after the batch was mixed in accordance with 21 CFR 80.22 and is accurately representative thereof.
 

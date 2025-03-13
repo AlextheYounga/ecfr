@@ -1,6 +1,6 @@
 ##### § 3280.702 Definitions. #####
 
-Link to an amendment published at 89 FR 75753, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75753, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 The definitions in this subpart apply to subpart H only.
 

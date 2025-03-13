@@ -214,7 +214,7 @@ For products with an expected SPF less than 8, administer UV doses that increase
 
 (ii) Calculate the mean
 
-![](/graphics/er17jn11.009.gif)and the standard deviation (s) from the SPFi values. Calculate the standard error (SE), which equals s/√n (where n equals the number of subjects who provided valid test results). Obtain the t value from Student's t distribution table corresponding to the upper 5-percent point with n—1 degrees of freedom. Determine the labeled SPF value, which equals the largest whole number less than![](/graphics/er17jn11.012.gif)In order for the SPF determination of a test product to be considered valid, the SPF value of the SPF standard should fall within the standard deviation range of the expected SPF (*i.e.,* 16.3 ±3.43).
+![](/graphics/er17jn11.009.gif)and the standard deviation (s) from the SPFi values. Calculate the standard error (SE), which equals s/√n (where n equals the number of subjects who provided valid test results). Obtain the t value from Student's t distribution table corresponding to the upper 5-percent point with n—1 degrees of freedom. Determine the labeled SPF value, which equals the largest whole number less than ![](/graphics/er17jn11.012.gif)In order for the SPF determination of a test product to be considered valid, the SPF value of the SPF standard should fall within the standard deviation range of the expected SPF (*i.e.,* 16.3 ±3.43).
 
 (7) *Determination of water resistance.* The following procedure should be performed in an indoor fresh water pool, whirlpool, and/or hot tub maintained at 23 to 32 °C. Fresh water is clean drinking water that meets the standards in 40 CFR part 141. The pool and air temperature and the relative humidity should be recorded.
 
@@ -280,7 +280,7 @@ The mean transmittance for each wavelength,
 
 (5) *Calculation of mean absorbance values.* (i) Mean transmittance values,
 
-![](/graphics/er17jn11.010.gif)are converted into mean absorbance values,![](/graphics/er17jn11.011.gif)at each wavelength by taking the negative logarithm of the mean transmittance value as follows:![](/graphics/er17jn11.008.gif)
+![](/graphics/er17jn11.010.gif)are converted into mean absorbance values, ![](/graphics/er17jn11.011.gif)at each wavelength by taking the negative logarithm of the mean transmittance value as follows:![](/graphics/er17jn11.008.gif)
 
 (ii) The calculation yields 111 monochromatic absorbance values in 1 nanometer increments from 290 to 400 nanometers.
 

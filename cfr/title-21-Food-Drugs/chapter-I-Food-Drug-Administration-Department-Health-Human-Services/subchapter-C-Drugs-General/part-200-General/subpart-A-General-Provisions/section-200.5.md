@@ -6,7 +6,7 @@ Manufacturers and distributors of drugs and the Food and Drug Administration occ
 
 (b) The name and address of the agency or the drug manufacturer or distributor is to appear in the upper left corner of the envelope.
 
-(c) The following statements are to appear in the far left third of the envelope front, in the type and size indicated, centered in a rectangular space approximately 3 inches wide and 21/4 inches high with an approximately3/8 inch-wide border in the color indicated:
+(c) The following statements are to appear in the far left third of the envelope front, in the type and size indicated, centered in a rectangular space approximately 3 inches wide and 21/4 inches high with an approximately 3/8 inch-wide border in the color indicated:
 
 (1) When the information concerns a significant hazard to health, the statement:
 

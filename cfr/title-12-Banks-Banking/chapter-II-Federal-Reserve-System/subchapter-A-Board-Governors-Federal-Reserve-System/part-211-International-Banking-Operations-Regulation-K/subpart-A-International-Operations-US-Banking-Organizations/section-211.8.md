@@ -1,6 +1,6 @@
 ##### § 211.8 Investments and activities abroad. #####
 
-(a) *General policy.* Activities abroad, whether conducted directly or indirectly, shall be confined to activities of a banking or financial nature and those that are necessary to carry on such activities. In doing so, investors 4 shall at all times act in accordance with high standards of banking or financial prudence, having due regard for diversification of risks, suitable liquidity, and adequacy of capital. Subject to these considerations and the other provisions of this section, it is the Board's policy to allow activities abroad to be organized and operated as best meets corporate policies.
+(a) *General policy.* Activities abroad, whether conducted directly or indirectly, shall be confined to activities of a banking or financial nature and those that are necessary to carry on such activities. In doing so, investors4 shall at all times act in accordance with high standards of banking or financial prudence, having due regard for diversification of risks, suitable liquidity, and adequacy of capital. Subject to these considerations and the other provisions of this section, it is the Board's policy to allow activities abroad to be organized and operated as best meets corporate policies.
 
 4 For purposes of this section and §§ 211.9 and 211.10 of this part, a direct subsidiary of a member bank is deemed to be an investor.
 

@@ -8,4 +8,4 @@
 
 (d) In the event the alleged violator is about to leave the jurisdiction of the United States, he or she will be required, before being allowed to depart, to post a bond in the amount and manner suitable to the Associate Administrator, from which bond any subsequent assessed or mitigated penalty may be satisfied.
 
-(68 Stat. 93-96, 33 U.S.C. 981-990, as amended sec. 104, Pub. L. 92-340 86 Stat. 424 and secs. 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471, and 49 CFR 1.52)[50 FR 10964, Mar. 19, 1985, as amended at 51 FR 4341, Feb. 4, 1986]
+(68 Stat. 93-96, 33 U.S.C. 981-990, as amended sec. 104, Pub. L. 92-340 86 Stat. 424 and secs. 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471, and 49 CFR 1.52) [50 FR 10964, Mar. 19, 1985, as amended at 51 FR 4341, Feb. 4, 1986]

@@ -16,7 +16,7 @@ Unless defined in this section, terms that are set forth in § 252.2 of this par
 
 (ii) The market value of the securities or other eligible collateral multiplied by the applicable collateral haircut in Table 1 to § 217.132 of the Board's Regulation Q (12 CFR 217.132).
 
-(3) Prior to calculating the adjusted market value pursuant to paragraphs (a)(1) and (2) of this section, with regard to a transaction that meets the definition of “repo-style transaction” in § 217.2 of the Board's Regulation Q (12 CFR 217.2), the covered company would first multiply the applicable collateral haircuts in Table 1 to § 217.132 of the Board's Regulation Q (12 CFR 217.132) by the square root of 1/2.
+(3) Prior to calculating the adjusted market value pursuant to paragraphs (a)(1) and (2) of this section, with regard to a transaction that meets the definition of “repo-style transaction” in § 217.2 of the Board's Regulation Q (12 CFR 217.2), the covered company would first multiply the applicable collateral haircuts in Table 1 to § 217.132 of the Board's Regulation Q (12 CFR 217.132) by the square root of1/2.
 
 (b) *Affiliate* means, with respect to a company:
 

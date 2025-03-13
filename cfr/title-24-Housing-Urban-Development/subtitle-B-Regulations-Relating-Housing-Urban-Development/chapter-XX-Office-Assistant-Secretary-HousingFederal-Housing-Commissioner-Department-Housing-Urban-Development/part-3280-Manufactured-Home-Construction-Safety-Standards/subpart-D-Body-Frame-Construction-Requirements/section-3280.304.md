@@ -1,6 +1,6 @@
 ##### § 3280.304 Materials. #####
 
-Link to an amendment published at 89 FR 75748, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75748, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) Dimension and board lumber shall not exceed 19 percent moisture content at time of installation.
 

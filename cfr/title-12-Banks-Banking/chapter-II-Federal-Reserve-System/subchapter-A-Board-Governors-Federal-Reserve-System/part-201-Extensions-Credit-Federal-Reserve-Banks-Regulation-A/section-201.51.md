@@ -1,4 +1,4 @@
-##### § 201.51 Interest rates applicable to credit extended by a Federal Reserve Bank. 3 #####
+##### § 201.51 Interest rates applicable to credit extended by a Federal Reserve Bank.3 #####
 
 3 The primary, secondary, and seasonal credit rates described in this section apply to both advances and discounts made under the primary, secondary, and seasonal credit programs, respectively.
 

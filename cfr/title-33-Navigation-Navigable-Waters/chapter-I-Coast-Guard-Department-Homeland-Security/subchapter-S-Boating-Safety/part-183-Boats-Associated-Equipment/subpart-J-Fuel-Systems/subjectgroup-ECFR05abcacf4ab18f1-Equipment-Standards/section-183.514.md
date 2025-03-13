@@ -22,7 +22,7 @@
 
 (c) Each letter and each number on a label must:
 
-(1) Be at least1/16 inch high and
+(1) Be at least 1/16 inch high and
 
 (2) Contrast with the basic color of the label or be embossed on the label.
 

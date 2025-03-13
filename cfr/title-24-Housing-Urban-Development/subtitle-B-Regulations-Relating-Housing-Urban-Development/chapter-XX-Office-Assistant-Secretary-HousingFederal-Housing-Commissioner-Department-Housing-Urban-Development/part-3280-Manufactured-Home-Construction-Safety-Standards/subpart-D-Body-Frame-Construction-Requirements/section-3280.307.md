@@ -1,6 +1,6 @@
 ##### § 3280.307 Resistance to elements and use. #####
 
-Link to an amendment published at 89 FR 75749, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75749, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) Exterior coverings shall be of moisture and weather resistive materials attached with corrosion resistant fasteners to resist wind, snow and rain. Metal coverings and exposed metal structural members shall be of corrosion resistant materials or shall be protected to resist corrosion. All joints between portions of the exterior covering shall be designed, and assembled to protect against the infiltration of air and water, except for any designed ventilation of wall or roof cavity.
 

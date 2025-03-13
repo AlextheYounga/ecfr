@@ -80,23 +80,23 @@ Boxed Warning
 
 8 Use in Specific Populations
 
-8.1 Pregnancy
+ 8.1 Pregnancy
 
-8.2 Lactation
+ 8.2 Lactation
 
-8.3 Females and Males of Reproductive Potential
+ 8.3 Females and Males of Reproductive Potential
 
-8.4 Pediatric use
+ 8.4 Pediatric use
 
-8.5 Geriatric use
+ 8.5 Geriatric use
 
 9 Drug Abuse and Dependence
 
-9.1 Controlled substance
+ 9.1 Controlled substance
 
-9.2 Abuse
+ 9.2 Abuse
 
-9.3 Dependence
+ 9.3 Dependence
 
 10 Overdosage
 
@@ -104,17 +104,17 @@ Boxed Warning
 
 12 Clinical Pharmacology
 
-12.1 Mechanism of action
+ 12.1 Mechanism of action
 
-12.2 Pharmacodynamics
+ 12.2 Pharmacodynamics
 
-12.3 Pharmacokinetics
+ 12.3 Pharmacokinetics
 
 13 Nonclinical Toxicology
 
-13.1 Carcinogenesis, mutagenesis, impairment of fertility
+ 13.1 Carcinogenesis, mutagenesis, impairment of fertility
 
-13.2 Animal toxicology and/or pharmacology
+ 13.2 Animal toxicology and/or pharmacology
 
 14 Clinical Studies
 

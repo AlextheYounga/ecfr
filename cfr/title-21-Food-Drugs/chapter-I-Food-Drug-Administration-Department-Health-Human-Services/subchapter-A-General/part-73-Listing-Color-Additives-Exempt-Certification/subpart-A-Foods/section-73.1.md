@@ -52,7 +52,7 @@ The following substances may be safely used as diluents in color additive mixtur
 
 (2) *Diluents in color additive mixtures for coloring shell eggs.* Items listed in paragraph (a) of this section and the following, subject to the condition that there is no penetration of the color additive mixture or any of its components through the eggshell into the egg:
 
-Alcohol, denatured, formula 23A (26 CFR part 212), Internal Revenue Service.Damar gum (resin).Diethylene glycol distearate.Dioctyl sodium sulfosuccinate.Ethyl cellulose (as identified in § 172.868 of this chapter).Ethylene glycol distearate.Japan wax.Limed rosin.Naphtha.Pentaerythritol ester of fumaric acid-rosin adduct.Polyethylene glycol 6000 (as identified in § 172.820 of this chapter).Polyvinyl alcohol.Rosin and rosin derivatives (as identified in § 172.615 of this chapter).
+Alcohol, denatured, formula 23A (26 CFR part 212), Internal Revenue Service.Damar gum (resin).Diethylene glycol distearate.Dioctyl sodium sulfosuccinate.Ethyl cellulose (as identified in § 172.868 of this chapter).Ethylene glycol distearate.Japan wax.Limed rosin.Naphtha. Pentaerythritol ester of fumaric acid-rosin adduct.Polyethylene glycol 6000 (as identified in § 172.820 of this chapter).Polyvinyl alcohol.Rosin and rosin derivatives (as identified in § 172.615 of this chapter).
 
 (3) *Miscellaneous special uses.* Items listed in paragraph (a) of this section and the following:
 

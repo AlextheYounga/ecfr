@@ -6,7 +6,7 @@ The creditor shall identify credit transactions on or with the first periodic st
 
 (a) *Sale credit.* (1) Except as provided in paragraph (a)(2) of this section, for each credit transaction involving the sale of property or services, the creditor must disclose the amount and date of the transaction, and either:
 
-(i) A brief identification 17 of the property or services purchased, for creditors and sellers that are the same or related; 18 or
+(i) A brief identification17 of the property or services purchased, for creditors and sellers that are the same or related;18 or
 
 17 [Reserved]
 

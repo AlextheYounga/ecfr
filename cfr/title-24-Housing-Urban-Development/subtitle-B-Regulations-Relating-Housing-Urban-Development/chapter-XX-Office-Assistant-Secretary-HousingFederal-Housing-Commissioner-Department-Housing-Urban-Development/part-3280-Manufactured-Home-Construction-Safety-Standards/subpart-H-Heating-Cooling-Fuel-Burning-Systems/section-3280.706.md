@@ -1,6 +1,6 @@
 ##### § 3280.706 Oil piping systems. #####
 
-Link to an amendment published at 89 FR 75754, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75754, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) *General.* The requirements of this section shall govern the installation of all liquid fuel piping attached to any manufactured home. None of the requirements listed in this section shall apply to the piping in the appliance(s).
 

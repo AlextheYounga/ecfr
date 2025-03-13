@@ -22,4 +22,4 @@
 
 (h) The draw of the Hunters Point Avenue Bridge, mile 1.4, across Dutch Kills at Queens, may be maintained in the closed to navigation position until July 1, 2025.
 
-[CGD01-99-069, 65 FR 46872, Aug. 1, 2000, as amended by CGD01-04-019, 69 FR 34573, June 22, 2004; USCG-2024-0392, 89 FR 86242, Oct. 30, 2024]Effective Date Note:By USCG-2024-0392, 89 FR 86242, Oct. 30, 2024, § 117.801 was amended by staying paragraph (d) and adding paragraph (h), effective Oct. 30, 2024 through July 1, 2025.
+[CGD01-99-069, 65 FR 46872, Aug. 1, 2000, as amended by CGD01-04-019, 69 FR 34573, June 22, 2004; USCG-2024-0392, 89 FR 86242, Oct. 30, 2024] Effective Date Note:By USCG-2024-0392, 89 FR 86242, Oct. 30, 2024, § 117.801 was amended by staying paragraph (d) and adding paragraph (h), effective Oct. 30, 2024 through July 1, 2025.

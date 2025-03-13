@@ -1,6 +1,6 @@
 ##### § 3280.511 Comfort cooling certificate and information. #####
 
-Link to an amendment published at 89 FR 75751, Sept. 16, 2024.
+Link to an amendment published at 89 FR 75751, Sept. 16, 2024.The above amendment is delayed until Sept. 15, 2025 at 90 FR 10593, Feb. 25, 2025.
 
 (a) The manufactured home manufacturer shall permanently affix a “Comfort Cooling Certificate” to an interior surface of the home that is readily visible to the home owner. This certificate may be combined with the heating certificate required in § 3280.510. The manufacturer shall comply with one of the following three alternatives in providing the certificate and additional information concerning the cooling of the manufactured home:
 
