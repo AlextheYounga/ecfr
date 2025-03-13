@@ -1,5 +1,7 @@
 ##### § 2.1213 Application for a stay. #####
 
+Link to an amendment published at 89 FR 67834, Aug. 22, 2024.
+
 (a) Any application for a stay of the effectiveness of the NRC staff's action on a matter involved in a hearing under this subpart must be filed with the presiding officer within five (5) days of the issuance of the notice of the NRC staff's action under § 2.1202(a) and must be filed and considered in accordance with paragraphs (b), (c) and (d) of this section.
 
 (b) An application for a stay of the NRC staff's action may not be longer than ten (10) pages, exclusive of affidavits, and must contain:

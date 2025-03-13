@@ -1,5 +1,7 @@
 ##### § 135.117 Briefing of passengers before flight. #####
 
+Link to an amendment published at 89 FR 67850, Aug. 22, 2024.
+
 (a) Before each takeoff each pilot in command of an aircraft carrying passengers shall ensure that all passengers have been orally briefed on—
 
 (1) *Smoking.* Each passenger shall be briefed on when, where, and under what conditions smoking is prohibited (including, but not limited to, any applicable requirements of part 252 of this title). This briefing shall include a statement that the Federal Aviation Regulations require passenger compliance with the lighted passenger information signs (if such signs are required), posted placards, areas designated for safety purposes as no smoking areas, and crewmember instructions with regard to these items. The briefing shall also include a statement (if the aircraft is equipped with a lavatory) that Federal law prohibits: tampering with, disabling, or destroying any smoke detector installed in an aircraft lavatory; smoking in lavatories; and, when applicable, smoking in passenger compartments.

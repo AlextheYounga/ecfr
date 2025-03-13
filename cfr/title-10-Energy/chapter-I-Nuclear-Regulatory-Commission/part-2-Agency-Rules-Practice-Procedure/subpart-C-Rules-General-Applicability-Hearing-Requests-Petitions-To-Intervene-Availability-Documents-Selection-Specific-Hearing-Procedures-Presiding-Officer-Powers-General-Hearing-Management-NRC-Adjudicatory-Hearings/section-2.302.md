@@ -1,5 +1,7 @@
 ##### § 2.302 Filing of documents. #####
 
+Link to an amendment published at 89 FR 67832, Aug. 22, 2024.
+
 (a) Documents filed in Commission adjudicatory proceedings subject to this part shall be electronically transmitted through the E-Filing system, unless the Commission or presiding officer grants an exemption permitting an alternative filing method or unless the filing falls within the scope of paragraph (g)(1) of this section.
 
 (b) Upon an order from the Commission or presiding officer permitting alternative filing methods, or as otherwise set forth in Guidance for Electronic Submissions to the NRC, documents may be filed by:

@@ -1,5 +1,7 @@
 ##### § 102-39.20 What definitions apply to this part? #####
 
+Link to an amendment published at 89 FR 67867, Aug. 22, 2024.
+
 The following definitions apply to this part:
 
 *Acquire* means to procure or otherwise obtain personal property, including by lease (sometimes known as rent).

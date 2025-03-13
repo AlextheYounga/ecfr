@@ -1,5 +1,7 @@
 ##### § 102-40.190 How do we handle medical devices? #####
 
+Link to an amendment published at 89 FR 67867, Aug. 22, 2024.
+
 (a) Medical devices are subject to the laws and regulations administered by FDA. Provisions of the governing statute, the Federal Food, Drug, and Cosmetic Act, appear in 21 U.S.C. 301, *et seq.* FDA regulations covering medical devices are found in 21 CFR chapter I, subpart H. The Act prohibits the movement in interstate commerce of medical devices that are adulterated or misbranded (21 U.S.C. 331). The Act authorizes FDA to initiate civil proceedings to seize or enjoin the distribution of such items (21 U.S.C. 334), and to report any violations to a U.S. Attorney for prosecution, after such individual is given notice and a hearing (21 U.S.C. 335).
 
 (b) Prescription devices are subject to additional Federal, state, local, and other applicable laws. Federal law requires that prescription devices be in the possession of either: Persons lawfully engaged in the manufacture, transportation, storage, or wholesale or retail distribution of such device; or, practitioners licensed by their states. Federal law also requires that prescription devices be sold only to, or on the prescription or order of, a licensed practitioner for use in the course of his or her professional practice, and that the devices are labeled in a specific manner.

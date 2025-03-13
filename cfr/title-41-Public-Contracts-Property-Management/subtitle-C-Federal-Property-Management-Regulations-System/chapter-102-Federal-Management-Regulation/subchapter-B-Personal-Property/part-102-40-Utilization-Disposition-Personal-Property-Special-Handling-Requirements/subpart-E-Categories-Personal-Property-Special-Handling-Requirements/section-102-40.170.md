@@ -1,5 +1,7 @@
 ##### § 102-40.170 How do we handle electronic products? #####
 
+Link to an amendment published at 89 FR 67867, Aug. 22, 2024.
+
 (a) Additional guidance regarding the disposal and reporting of Federal electronic products is found under FMR part 102-36 (41 CFR part 102-36).
 
 (b) Excess electronic products, certified and noncertified, meeting radiation safety performance standards or electronic products which are not required to meet such performance standards must be reported to GSA for transfer to Federal agencies in accordance with part 102-36 of this subchapter and may be donated or sold in accordance with parts 102-37 and 102-38 of this subchapter, respectively.

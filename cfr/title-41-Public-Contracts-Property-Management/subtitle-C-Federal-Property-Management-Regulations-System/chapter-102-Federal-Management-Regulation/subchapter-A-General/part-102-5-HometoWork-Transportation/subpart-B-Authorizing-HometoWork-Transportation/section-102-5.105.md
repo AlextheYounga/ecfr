@@ -1,3 +1,5 @@
 ##### § 102-5.105 May others accompany an employee using home-to-work transportation? #####
 
+Link to an amendment published at 89 FR 67866, Aug. 22, 2024.
+
 Yes, an employee authorized home-to-work transportation may share space in a Government passenger carrier with other individuals, provided that the passenger carrier does not travel additional distances as a result and such sharing is consistent with his/her Federal agency's policy. When a Federal agency establishes its space sharing policy, the Federal agency should consider its potential liability for and to those individuals. Home-to-work transportation does not extend to the employee's spouse, other relatives, or friends unless they travel with the employee from the same point of departure to the same destination, and this use is consistent with the Federal agency's policy.

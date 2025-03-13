@@ -1,5 +1,7 @@
 ##### § 91.107 Use of safety belts, shoulder harnesses, and child restraint systems. #####
 
+Link to an amendment published at 89 FR 67849, Aug. 22, 2024.
+
 (a) Unless otherwise authorized by the Administrator—
 
 (1) No pilot may take off a U.S.-registered civil aircraft (except a free balloon that incorporates a basket or gondola, or an airship type certificated before November 2, 1987) unless the pilot in command of that aircraft ensures that each person on board is briefed on how to fasten and unfasten that person's safety belt and, if installed, shoulder harness.

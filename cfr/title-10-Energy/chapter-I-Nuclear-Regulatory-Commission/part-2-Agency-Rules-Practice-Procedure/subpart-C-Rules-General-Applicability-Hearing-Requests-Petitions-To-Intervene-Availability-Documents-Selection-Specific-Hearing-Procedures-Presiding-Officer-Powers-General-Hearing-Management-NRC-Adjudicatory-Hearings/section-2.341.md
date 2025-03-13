@@ -1,5 +1,7 @@
 ##### § 2.341 Review of decisions and actions of a presiding officer. #####
 
+Link to an amendment published at 89 FR 67834, Aug. 22, 2024.
+
 (a)(1) Review of decisions and actions of a presiding officer are treated under this section; provided, however, that no party may request further Commission review of a Commission determination to allow a period of interim operation under § 52.103(c) of this chapter. This section does not apply to appeals under § 2.311 or to appeals in the high-level waste proceeding, which are governed by § 2.1015.
 
 (2) Within 120 days after the date of a decision or action by a presiding officer, or within 120 days after a petition for review of the decision or action has been served under paragraph (b) of this section, whichever is greater, the Commission may review the decision or action on its own motion, unless the Commission, in its discretion, extends the time for its review.

@@ -1,0 +1,3 @@
+##### § 710.33 Time frames. #####
+
+Statements of time established for processing aspects of a case under this part are the agency's desired time frames in implementing the procedures set forth in this part. However, failure to meet the time frames shall have no impact upon the final disposition of an access authorization by a Manager, Administrative Judge, the Appeal Panel, or the Secretary, and shall confer no procedural or substantive rights upon an individual whose access authorization eligibility is being considered.

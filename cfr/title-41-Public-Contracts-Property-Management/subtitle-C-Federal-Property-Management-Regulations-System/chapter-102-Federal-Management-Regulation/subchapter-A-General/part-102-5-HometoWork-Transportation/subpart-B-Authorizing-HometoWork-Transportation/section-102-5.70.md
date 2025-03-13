@@ -1,5 +1,7 @@
 ##### § 102-5.70 What considerations apply in making a determination to authorize home-to-work transportation for field work? #####
 
+Link to an amendment published at 89 FR 67866, Aug. 22, 2024.
+
 Agencies should consider the following when making a determination to authorize home-to-work transportation for field work:
 
 (a) The location of the employee's home in proximity to his/her work and to the locations where non-TDY travel is required; and

@@ -1,5 +1,7 @@
 ##### § 102-36.40 What definitions apply to this part? #####
 
+Link to an amendment published at 89 FR 67866, Aug. 22, 2024.
+
 The following definitions apply to this part:
 
 *Commerce Control List Items (CCLIs)* are dual use (commercial/military) items that are subject to export control by the Bureau of Export Administration, Department of Commerce. These items have been identified in the U.S. Export Administration Regulations (15 CFR part 774) as export controlled for reasons of national security, crime control, technology transfer, and scarcity of materials.

@@ -14,7 +14,7 @@
 
 (4) *Conviction in absentia.* A conviction in absentia of a crime involving moral turpitude does not constitute a conviction within the meaning of INA 212(a)(2)(A)(i)(I).
 
-(5) *Effect of pardon by appropriate U.S. authorities/foreign states.* An alien shall not be considered ineligible under INA 212(a)(2)(A)(i)(I) by reason of a conviction of a crime involving moral turpitude for which a full and unconditional pardon has been granted by the President of the United States, by the Governor of a State of the United States, by the former High Commissioner for Germany acting pursuant to Executive Order 10062, or by the United States Ambassador to the Federal Republic of Germany acting pursuant to Executive Order 10608. A legislative pardon or a pardon, amnesty, expungement of penal record or any other act of clemency granted by a foreign state shall not serve to remove a ground of ineligibility under INA 212(a)(2)(A)(i)(I).
+(5) *Effect of pardon by appropriate U.S. authorities/foreign states.* An alien shall not be considered ineligible under INA 212(a)(2)(A)(i)(I) by reason of a conviction of a crime involving moral turpitude for which a full and unconditional pardon has been granted by the President of the United States. A legislative pardon, a pardon by the Governor of a State of the United States, or a pardon, amnesty, expungement of penal record or any other act of clemency granted by a foreign state shall not serve to remove a ground of ineligibility under INA 212(a)(2)(A)(i)(I).
 
 (6) *Political offenses.* The term “purely political offense”, as used in INA 212(a)(2)(A)(i)(I), includes offenses that resulted in convictions obviously based on fabricated charges or predicated upon repressive measures against racial, religious, or political minorities.
 
@@ -24,4 +24,4 @@
 
 (2) *Waiver of ineligibility—INA 212(h).* If an immigrant visa applicant is ineligible under INA 212(a)(2)(A)(i)(II) but is qualified to seek the benefits of INA 212(h), the consular officer shall inform the alien of the procedure for applying to DHS for relief under that provision of law. A visa may not be issued to the alien until the consular officer has received notification from DHS of the approval of the alien's application under INA 212(h).
 
-[56 FR 30422, July 2, 1991, as amended at 64 FR 55418, Oct. 13, 1999]
+[56 FR 30422, July 2, 1991, as amended at 64 FR 55418, Oct. 13, 1999; 89 FR 67859, Aug. 22, 2024]

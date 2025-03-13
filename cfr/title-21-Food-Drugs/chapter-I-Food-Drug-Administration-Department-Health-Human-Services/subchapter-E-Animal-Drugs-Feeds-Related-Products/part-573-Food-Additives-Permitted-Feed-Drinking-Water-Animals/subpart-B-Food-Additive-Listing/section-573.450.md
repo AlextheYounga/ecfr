@@ -1,6 +1,6 @@
 ##### § 573.450 Fermented ammoniated condensed whey. #####
 
-(a) *Identity.* The product is produced by the *Lactobacillus bulgaricus* fermentation of whey with the addition of ammonia.
+(a) *Identity.* The product is produced by the *Lactobacillus delbrueckii* fermentation of whey with the addition of ammonia.
 
 (b) *Specifications.* The product contains 35 to 55 percent crude protein and not more than 42 percent equivalent crude protein from nonprotein nitrogen sources.
 
@@ -24,4 +24,4 @@
 
 (3) Adequate directions for use in accordance with the provisions in paragraph (d) of this section.
 
-[43 FR 33708, July 1, 1978, as amended at 46 FR 49115, Oct. 6, 1981]
+[43 FR 33708, July 1, 1978, as amended at 46 FR 49115, Oct. 6, 1981; 89 FR 67856, Aug. 22, 2024]

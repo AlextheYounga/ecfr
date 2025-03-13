@@ -1,7 +1,5 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 89 FR 31484, Apr. 24, 2024.
-
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
 (a) *Refrigerators/refrigerator-freezers/freezers.* These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
@@ -457,11 +455,20 @@ The energy and water (in the case of faucets, showerheads, water closets, and ur
 
 (f) *Dishwashers.* (1) All dishwashers manufactured on or after May 30, 2013, shall meet the following standard—
 
-(i) Standard size dishwashers shall not exceed 307 kwh/year and 5.0 gallons per cycle. Standard size dishwashers have a capacity equal to or greater than eight place settings plus six serving pieces as specified in AHAM DW-1-2020 (incorporated by reference, see § 430.3) using the test load specified in section 2.3 of appendix C1 or section 2.4 of appendix C2 in subpart B of this part, as applicable.
+(i) Standard size dishwashers shall not exceed 307 kwh/year and 5.0 gallons per cycle. Standard size dishwashers have a capacity equal to or greater than eight place settings plus six serving pieces as specified in AHAM DW-1-2020 (incorporated by reference, see § 430.3) using the test load specified in section 2.3 of appendix C1 or section 2.4 of appendix C2 to subpart B of this part, as applicable.
 
-(ii) Compact size dishwashers shall not exceed 222 kwh/year and 3.5 gallons per cycle. Compact size dishwashers have a capacity less than eight place settings plus six serving pieces as specified in AHAM DW-1-2020 (incorporated by reference, see § 430.3) using the test load specified in section 2.3 of appendix C1 or section 2.4 of appendix C2 in subpart B of this part, as applicable.
+(ii) Compact size dishwashers shall not exceed 222 kwh/year and 3.5 gallons per cycle. Compact size dishwashers have a capacity less than eight place settings plus six serving pieces as specified in AHAM DW-1-2020 (incorporated by reference, see § 430.3) using the test load specified in section 2.3 of appendix C1 or section 2.4 of appendix C2 to subpart B of this part, as applicable.
 
-(2) [Reserved]
+(2) All dishwashers manufactured on or after April 23, 2027, shall not exceed the following standard—
+
+|                                                                                          Product class                                                                                           |Estimated annual energy use  <br/>(kWh/year)|Maximum  <br/>per-cycle water consumption  <br/>(gal/cycle)|
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----------------------------------------------------------|
+|                                                      (i) Standard-size <sup>1</sup> (≥8 place settings plus 6 serving pieces) <sup>2</sup>                                                       |                    223                     |                            3.3                            |
+|                                                            (ii) Compact-size (\<8 place settings plus 6 serving pieces) <sup>2</sup>                                                             |                    174                     |                            3.1                            |
+|               <sup>1</sup> The energy conservation standards in this table do not apply to standard-size dishwashers with a cycle time for the normal cycle of 60 minutes or less.               |                                            |                                                           |
+|<sup>2</sup> Place settings are as specified in AHAM DW-1-2020 (incorporated by reference, see § 430.3) and the test load is as specified in section 2.4 of appendix C2 to subpart B of this part.|                                            |                                                           |
+
+(3) The provisions of paragraph (f)(2) of this section are separate and severable from one another. Should a court of competent jurisdiction hold any provision(s) of this section to be stayed or invalid, such action shall not affect any other provision of this section.
 
 (g) *Clothes washers.* (1) Clothes washers manufactured on or after January 1, 2018, shall have an Integrated Modified Energy Factor no less than, and an Integrated Water Factor no greater than:
 

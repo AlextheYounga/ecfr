@@ -1,5 +1,7 @@
 ##### § 102-40.165 How do we handle drugs, biologicals, and reagents other than controlled substances? #####
 
+Link to an amendment published at 89 FR 67867, Aug. 22, 2024.
+
 (a) Drugs, biologicals, and reagents other than controlled substances may be transferred to another Federal agency for official purposes under procedures specified in part 102-36 of this subchapter. For donation of drugs, biologicals, or reagents other than controlled substances, follow the procedures in part 102-37 of this subchapter, and paragraph (c) of this section.
 
 (b) Drugs, biologicals, and reagents other than controlled substances must be clearly identified when they are unfit for human use. As a general rule, you must destroy drugs, biologicals, and reagents unfit for human use, with destruction performed by an agency employee and witnessed and certified by two additional representatives of your agency. Similarly, destruction of this property held by a SASP or donee must be destroyed by a SASP employee and witnessed by two additional SASP employees. Destruction shall be coordinated with local air and water pollution control authorities, when required. However, you may report such property to GSA for subsequent transfer or donation for the purpose of animal experimental use when the property is unfit due to expired shelf life. The following certification, or an equivalent certification, must be used and retained by the Federal agency or SASP to document the destruction of drugs, biologicals, and reagents:

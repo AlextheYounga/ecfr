@@ -1,5 +1,7 @@
 ##### § 102-36.60 Who is eligible to acquire excess personal property as authorized by the Property Act? #####
 
+Link to an amendment published at 89 FR 67866, Aug. 22, 2024.
+
 The following are eligible to acquire excess personal property:
 
 (a) Federal agencies (for their own use or use by their authorized contractors, cooperatives, and project grantees).

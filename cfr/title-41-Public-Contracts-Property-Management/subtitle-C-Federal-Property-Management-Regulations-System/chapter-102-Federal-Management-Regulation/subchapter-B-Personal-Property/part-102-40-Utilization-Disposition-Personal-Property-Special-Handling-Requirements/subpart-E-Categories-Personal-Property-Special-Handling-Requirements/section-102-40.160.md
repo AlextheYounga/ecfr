@@ -1,5 +1,7 @@
 ##### § 102-40.160 How do we handle controlled substances? #####
 
+Link to an amendment published at 89 FR 67867, Aug. 22, 2024.
+
 (a) You are not required to report excess controlled substances to GSA, but you should make reasonable efforts to transfer them to Federal agencies in accordance with Drug Enforcement Administration (DEA) regulations (21 CFR part 1307). The recipient agency must certify that it is authorized to procure the particular controlled substance and provide the registration number on the Certificate of Registration, issued by the DEA. See the transfer procedures in FMR part 102-36 (41 CFR part 102-36).
 
 (b) You must not donate controlled substances.

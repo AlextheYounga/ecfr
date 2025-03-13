@@ -1,5 +1,7 @@
 ##### § 135.128 Use of safety belts and child restraint systems. #####
 
+Link to an amendment published at 89 FR 67850, Aug. 22, 2024.
+
 (a) Except as provided in this paragraph, each person on board an aircraft operated under this part shall occupy an approved seat or berth with a separate safety belt properly secured about him or her during movement on the surface, takeoff, and landing. For seaplane and float equipped rotorcraft operations during movement on the surface, the person pushing off the seaplane or rotorcraft from the dock and the person mooring the seaplane or rotorcraft at the dock are excepted from the preceding seating and safety belt requirements. A safety belt provided for the occupant of a seat may not be used by more than one person who has reached his or her second birthday. Notwithstanding the preceding requirements, a child may:
 
 (1) Be held by an adult who is occupying an approved seat or berth, provided the child has not reached his or her second birthday and the child does not occupy or use any restraining device; or

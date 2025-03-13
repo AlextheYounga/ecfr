@@ -1,5 +1,7 @@
 ##### § 102-5.30 What definitions apply to this part? #####
 
+Link to an amendment published at 89 FR 67866, Aug. 22, 2024.
+
 The following definitions apply to this part:
 
 *Agency head* means the highest official of a Federal agency.

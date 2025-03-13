@@ -2,7 +2,7 @@
 
 (a) *Transfer of eligible credits.* An eligible taxpayer may make a transfer election under § 1.6418-2(a) to transfer any specified portion of an eligible credit determined with respect to any eligible credit property of such eligible taxpayer for any taxable year to a transferee taxpayer in accordance with section 6418 of the Code and the section 6418 regulations (defined in paragraph (g) of this section). Paragraphs (b) through (q) of this section provide definitions of terms for purposes of applying section 6418 and the section 6418 regulations. *See* § 1.6418-2 for rules and procedures under which all transfer elections must be made, limitations to making transfer elections, the treatment of payments made in connection with transfer elections, and the treatment of eligible credits transferred to transferee taxpayers. *See* § 1.6418-3 for special rules pertaining to transfer elections made by partnerships or S corporations. See § 1.6418-4 for pre-filing registration requirements and other information required to make any transfer election effective. *See* § 1.6418-5 for special rules related to the imposition of tax on excessive credit transfers, basis reductions, required notifications and impacts of the recapture of transferred credits, and rules regarding carrybacks and carryforwards.
 
-(b) *Eligible taxpayer.* The term *eligible taxpayer* means any taxpayer (as defined in section 7701(a)(14) of the Code), other than one described in section 6417(d)(1)(A) and § 1.6417-1(b).
+(b) *Eligible taxpayer.* The term *eligible taxpayer* means any taxpayer (as defined in section 7701(a)(14) of the Code), other than one described in section 6417(d)(1)(A) and § 1.6417-1(c).
 
 (c) *Eligible credit*—(1) *In general.* The term *eligible credit* is a credit described in paragraph (c)(2) of this section determined for a taxable year with respect to a single eligible credit property of an eligible taxpayer but does not include any business credit carryforward or business credit carryback determined under section 39 of the Code.
 
@@ -116,4 +116,4 @@
 
 (r) *Applicability date.* This section applies to taxable years ending on or after April 30, 2024. For taxable years ending before April 30, 2024, taxpayers, however, may choose to apply the rules of this section and §§ 1.6418-2, -3, and -5, provided the taxpayers apply the rules in their entirety and in a consistent manner.
 
-[T.D. 9993, 89 FR 34800, Apr. 30, 2024]
+[T.D. 9993, 89 FR 34800, Apr. 30, 2024; 89 FR 67860, Aug. 22, 2024]

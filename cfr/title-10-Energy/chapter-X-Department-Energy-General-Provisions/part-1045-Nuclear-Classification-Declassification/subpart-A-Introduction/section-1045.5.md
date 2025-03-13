@@ -14,4 +14,4 @@
 
 (6) Subpart F—“DOE Procedures for MDR Requests” describes how DOE FOIA and MDR requests and appeals for matter marked as or potentially containing NSI, RD, FRD, or TFNI are submitted and processed.
 
-(b) [Reserved].
+(b) [Reserved]

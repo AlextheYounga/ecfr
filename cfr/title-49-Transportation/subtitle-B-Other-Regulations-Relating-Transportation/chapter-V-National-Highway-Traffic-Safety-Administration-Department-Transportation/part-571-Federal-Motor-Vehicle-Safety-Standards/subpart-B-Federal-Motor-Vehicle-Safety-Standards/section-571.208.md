@@ -1,5 +1,7 @@
 ##### § 571.208 Standard No. 208; Occupant crash protection. #####
 
+Link to an amendment published at 89 FR 67883, Aug. 22, 2024.
+
 S1. *Scope.* This standard specifies performance requirements for the protection of vehicle occupants in crashes.
 
 S2. *Purpose.* The purpose of this standard is to reduce the number of deaths of vehicle occupants, and the severity of injuries, by specifying vehicle crashworthiness requirements in terms of forces and accelerations measured on anthropomorphic dummies in test crashes, and by specifying equipment requirements for active and passive restraint systems.

@@ -1,5 +1,7 @@
 ##### § 102-42.10 What definitions apply to this part? #####
 
+Link to an amendment published at 89 FR 67867, Aug. 22, 2024.
+
 The following definitions apply to this part:
 
 *Decoration* means an order, device, medal, badge, insignia, emblem, or award offered by or received from a foreign government.

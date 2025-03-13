@@ -1,5 +1,7 @@
 ##### § 2.304 Formal requirements for documents; signatures; acceptance for filing. #####
 
+Link to an amendment published at 89 FR 67833, Aug. 22, 2024.
+
 (a) *Docket numbers and titles.* Each document filed in an adjudication to which a docket number has been assigned must contain a caption setting forth the docket number and the title of the proceeding and a description of the document (e.g., motion to quash subpoena).
 
 (b) *Paper documents.* In addition to the requirements in this part, paper documents must be stapled or bound on the left side; typewritten, printed, or otherwise reproduced in permanent form on good unglazed paper of standard letterhead size; signed in ink by the participant, its authorized representative, or an attorney having authority with respect to it; and filed with an original and two conforming copies.

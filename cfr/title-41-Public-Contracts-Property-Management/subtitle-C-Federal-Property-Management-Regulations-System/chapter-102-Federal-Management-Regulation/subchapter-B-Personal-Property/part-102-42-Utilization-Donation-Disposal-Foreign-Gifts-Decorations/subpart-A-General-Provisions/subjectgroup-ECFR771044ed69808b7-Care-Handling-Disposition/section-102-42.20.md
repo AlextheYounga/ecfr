@@ -1,5 +1,7 @@
 ##### § 102-42.20 What is the typical disposition process for gifts and decorations that employees are not authorized to retain? #####
 
+Link to an amendment published at 89 FR 67867, Aug. 22, 2024.
+
 (a) *Non-monetary gifts or decorations.* When an employee receives a non-monetary gift above the minimal value or a decoration that he/she is not authorized to retain:
 
 (1) The employee must report the gift or decoration to his/her employing agency within 60 days after accepting it.

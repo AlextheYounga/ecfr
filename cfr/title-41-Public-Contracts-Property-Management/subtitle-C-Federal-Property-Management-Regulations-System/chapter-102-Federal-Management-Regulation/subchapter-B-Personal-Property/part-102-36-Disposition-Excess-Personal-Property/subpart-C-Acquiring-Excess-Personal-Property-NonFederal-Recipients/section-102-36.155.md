@@ -1,5 +1,7 @@
 ##### § 102-36.155 What are our responsibilities when acquiring excess personal property for use by a non-federal recipient? #####
 
+Link to an amendment published at 89 FR 67866, Aug. 22, 2024.
+
 When acquiring excess personal property for use by a non-federal recipient, your authorized agency official must:
 
 (a) Ensure the use of excess personal property by the non-federal recipient is authorized and complies with applicable federal regulations and agency guidelines.

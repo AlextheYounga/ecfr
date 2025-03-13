@@ -1,5 +1,7 @@
 ##### § 136.7 Passenger briefings. #####
 
+Link to an amendment published at 89 FR 67850, Aug. 22, 2024.
+
 (a) Before takeoff each pilot in command shall ensure that each passenger has been briefed on the following:
 
 (1) Procedures for fastening and unfastening seatbelts;

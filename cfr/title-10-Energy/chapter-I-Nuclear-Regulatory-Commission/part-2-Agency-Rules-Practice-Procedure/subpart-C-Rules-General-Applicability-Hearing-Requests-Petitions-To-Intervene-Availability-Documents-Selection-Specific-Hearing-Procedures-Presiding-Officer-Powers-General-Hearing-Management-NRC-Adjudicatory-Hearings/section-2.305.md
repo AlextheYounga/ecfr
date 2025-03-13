@@ -1,5 +1,7 @@
 ##### § 2.305 Service of documents, methods, proof. #####
 
+Link to an amendment published at 89 FR 67833, Aug. 22, 2024.
+
 (a) *Service of documents by the Commission.* Except for subpoenas, the Commission shall serve all orders, decisions, notices, and other documents to all participants, by the same delivery method those participants use to file and accept service.
 
 (b) *Who may be served.* Any document required to be served upon a participant shall be served upon that person or upon the representative designated by the participant or by law to receive service of documents. When a participant has appeared by attorney, service shall be made upon the attorney of record.
