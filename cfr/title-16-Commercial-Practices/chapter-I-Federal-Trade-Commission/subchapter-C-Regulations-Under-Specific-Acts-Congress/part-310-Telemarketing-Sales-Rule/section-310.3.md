@@ -1,16 +1,14 @@
 ##### § 310.3 Deceptive telemarketing acts or practices. #####
 
-Link to an amendment published at 89 FR 26784, Apr. 16, 2024.Link to an amendment published at 89 FR 26785, Apr. 16, 2024.
+(a) *Prohibited deceptive telemarketing acts or practices.* It is a deceptive telemarketing act or practice and a violation of this part for any seller or telemarketer to engage in the following conduct:
 
-(a) *Prohibited deceptive telemarketing acts or practices.* It is a deceptive telemarketing act or practice and a violation of this Rule for any seller or telemarketer to engage in the following conduct:
+(1) Before a customer consents to pay1 for goods or services offered, failing to disclose truthfully, in a clear and conspicuous manner, the following material information:
 
-(1) Before a customer consents to pay659 for goods or services offered, failing to disclose truthfully, in a clear and conspicuous manner, the following material information:
+1 When a seller or telemarketer uses, or directs a customer to use, a courier to transport payment, the seller or telemarketer must make the disclosures required by § 310.3(a)(1) before sending a courier to pick up payment or authorization for payment, or directing a customer to have a courier pick up payment or authorization for payment. In the case of debt relief services, the seller or telemarketer must make the disclosures required by § 310.3(a)(1) before the consumer enrolls in an offered program.
 
-659 When a seller or telemarketer uses, or directs a customer to use, a courier to transport payment, the seller or telemarketer must make the disclosures required by § 310.3(a)(1) before sending a courier to pick up payment or authorization for payment, or directing a customer to have a courier pick up payment or authorization for payment. In the case of debt relief services, the seller or telemarketer must make the disclosures required by § 310.3(a)(1) before the consumer enrolls in an offered program.
+(i) The total costs to purchase, receive, or use, and the quantity of, any goods or services that are the subject of the sales offer;2
 
-(i) The total costs to purchase, receive, or use, and the quantity of, any goods or services that are the subject of the sales offer;660
-
-660 For offers of consumer credit products subject to the Truth in Lending Act, 15 U.S.C. 1601 *et seq.,* and Regulation Z, 12 CFR 226, compliance with the disclosure requirements under the Truth in Lending Act and Regulation Z shall constitute compliance with § 310.3(a)(1)(i) of this Rule.
+2 For offers of consumer credit products subject to the Truth in Lending Act, 15 U.S.C. 1601 *et seq.,* and Regulation Z, 12 CFR 226, compliance with the disclosure requirements under the Truth in Lending Act and Regulation Z shall constitute compliance with § 310.3(a)(1)(i) of this part.
 
 (ii) All material restrictions, limitations, or conditions to purchase, receive, or use the goods or services that are the subject of the sales offer;
 
@@ -56,15 +54,15 @@ Link to an amendment published at 89 FR 26784, Apr. 16, 2024.Link to an amendmen
 
 (x) Any material aspect of any debt relief service, including, but not limited to, the amount of money or the percentage of the debt amount that a customer may save by using such service; the amount of time necessary to achieve the represented results; the amount of money or the percentage of each outstanding debt that the customer must accumulate before the provider of the debt relief service will initiate attempts with the customer's creditors or debt collectors or make a bona fide offer to negotiate, settle, or modify the terms of the customer's debt; the effect of the service on a customer's creditworthiness; the effect of the service on collection efforts of the customer's creditors or debt collectors; the percentage or number of customers who attain the represented results; and whether a debt relief service is offered or provided by a non-profit entity.
 
-(3) Causing billing information to be submitted for payment, or collecting or attempting to collect payment for goods or services or a charitable contribution, directly or indirectly, without the customer's or donor's express verifiable authorization, except when the method of payment used is a credit card subject to protections of the Truth in Lending Act and Regulation Z,661 or a debit card subject to the protections of the Electronic Fund Transfer Act and Regulation E.662 Such authorization shall be deemed verifiable if any of the following means is employed:
+(3) Causing billing information to be submitted for payment, or collecting or attempting to collect payment for goods or services or a charitable contribution, directly or indirectly, without the customer's or donor's express verifiable authorization, except when the method of payment used is a credit card subject to protections of the Truth in Lending Act and Regulation Z,3 or a debit card subject to the protections of the Electronic Fund Transfer Act and Regulation E.4 Such authorization shall be deemed verifiable if any of the following means is employed:
 
-661 Truth in Lending Act, 15 U.S.C. 1601 *et seq.,* and Regulation Z, 12 CFR part 226.
+3 Truth in Lending Act, 15 U.S.C. 1601 *et seq.,* and Regulation Z, 12 CFR part 226.
 
-662 Electronic Fund Transfer Act, 15 U.S.C. 1693 *et seq.,* and Regulation E, 12 CFR part 205.
+4 Electronic Fund Transfer Act, 15 U.S.C. 1693 *et seq.,* and Regulation E, 12 CFR part 205.
 
-(i) Express written authorization by the customer or donor, which includes the customer's or donor's signature;663
+(i) Express written authorization by the customer or donor, which includes the customer's or donor's signature;5
 
-663 For purposes of this Rule, the term “signature” shall include an electronic or digital form of signature, to the extent that such form of signature is recognized as a valid signature under applicable federal law or state contract law.
+5 For purposes of this part, the term “signature” shall include an electronic or digital form of signature, to the extent that such form of signature is recognized as a valid signature under applicable federal law or state contract law.
 
 (ii) Express oral authorization which is audio-recorded and made available upon request to the customer or donor, and the customer's or donor's bank or other billing entity, and which evidences clearly both the customer's or donor's authorization of payment for the goods or services or charitable contribution that are the subject of the telemarketing transaction and the customer's or donor's receipt of all of the following information:
 
@@ -88,9 +86,9 @@ Link to an amendment published at 89 FR 26784, Apr. 16, 2024.Link to an amendmen
 
 (4) Making a false or misleading statement to induce any person to pay for goods or services or to induce a charitable contribution.
 
-(b) *Assisting and facilitating.* It is a deceptive telemarketing act or practice and a violation of this Rule for a person to provide substantial assistance or support to any seller or telemarketer when that person knows or consciously avoids knowing that the seller or telemarketer is engaged in any act or practice that violates §§ 310.3(a), (c) or (d), or § 310.4 of this Rule.
+(b) *Assisting and facilitating.* It is a deceptive telemarketing act or practice and a violation of this part for a person to provide substantial assistance or support to any seller or telemarketer when that person knows or consciously avoids knowing that the seller or telemarketer is engaged in any act or practice that violates §§ 310.3(a), (c) or (d), or § 310.4 of this part.
 
-(c) *Credit card laundering.* Except as expressly permitted by the applicable credit card system, it is a deceptive telemarketing act or practice and a violation of this Rule for:
+(c) *Credit card laundering.* Except as expressly permitted by the applicable credit card system, it is a deceptive telemarketing act or practice and a violation of this part for:
 
 (1) A merchant to present to or deposit into, or cause another to present to or deposit into, the credit card system for payment, a credit card sales draft generated by a telemarketing transaction that is not the result of a telemarketing credit card transaction between the cardholder and the merchant;
 
@@ -98,7 +96,7 @@ Link to an amendment published at 89 FR 26784, Apr. 16, 2024.Link to an amendmen
 
 (3) Any person to obtain access to the credit card system through the use of a business relationship or an affiliation with a merchant, when such access is not authorized by the merchant agreement or the applicable credit card system.
 
-(d) *Prohibited deceptive acts or practices in the solicitation of charitable contributions.* It is a fraudulent charitable solicitation, a deceptive telemarketing act or practice, and a violation of this Rule for any telemarketer soliciting charitable contributions to misrepresent, directly or by implication, any of the following material information:
+(d) *Prohibited deceptive acts or practices in the solicitation of charitable contributions.* It is a fraudulent charitable solicitation, a deceptive telemarketing act or practice, and a violation of this part for any telemarketer soliciting charitable contributions to misrepresent, directly or by implication, any of the following material information:
 
 (1) The nature, purpose, or mission of any entity on behalf of which a charitable contribution is being requested;
 
@@ -112,4 +110,4 @@ Link to an amendment published at 89 FR 26784, Apr. 16, 2024.Link to an amendmen
 
 (6) A charitable organization's or telemarketer's affiliation with, or endorsement or sponsorship by, any person or government entity.
 
-[75 FR 48516, Aug. 10, 2010, as amended at 80 FR 77558, Dec. 14, 2015]
+[75 FR 48516, Aug. 10, 2010, as amended at 80 FR 77558, Dec. 14, 2015; 89 FR 26784, 26785, Apr. 16, 2024]

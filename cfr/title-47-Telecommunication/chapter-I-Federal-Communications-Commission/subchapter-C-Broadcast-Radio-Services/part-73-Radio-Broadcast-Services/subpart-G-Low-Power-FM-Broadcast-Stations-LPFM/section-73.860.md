@@ -1,7 +1,5 @@
 ##### § 73.860 Cross-ownership. #####
 
-Link to an amendment published at 89 FR 26792, Apr. 16, 2024.
-
 (a) Except as provided in paragraphs (b), (c) and (d) of this section, no license shall be granted to any party if the grant of such authorization will result in the same party holding an attributable interest in any other non-LPFM broadcast station, including any FM translator or low power television station, or any other media subject to our broadcast ownership restrictions.
 
 (b) A party that is not a Tribal Applicant, as defined in § 73.853(c), may hold attributable interests in one LPFM station and no more than two FM translator stations, two FM booster stations, or one FM translator station and one FM booster station provided that the following requirements are met:
@@ -10,9 +8,11 @@ Link to an amendment published at 89 FR 26792, Apr. 16, 2024.
 
 (2) The FM translator and/or booster station(s), at all times, synchronously rebroadcasts the primary analog signal of the commonly-owned LPFM station or, if the commonly-owned LPFM station operates in hybrid mode, synchronously rebroadcasts the digital HD-1 version of the LPFM station's signal;
 
-(3) The FM translator station receives the signal of the commonly-owned LPFM station over-the-air and directly from the commonly-owned LPFM station itself. The FM booster station receives the signal of the commonly-owned LPFM station by any means authorized in § 74.1231(i) of this chapter; and
+(3) The FM translator station receives the signal of the commonly-owned LPFM station over-the-air and directly from the commonly-owned LPFM station itself. The FM booster station receives the signal of the commonly-owned LPFM station by any means authorized in § 74.1231(i) of this chapter;
 
-(4) The transmitting antenna of the FM translator and/or booster station(s) is located within 16.1 kilometers (10 miles) for LPFM stations located in the top 50 urban markets and 32.1 kilometers (20 miles) for LPFM stations outside the top 50 urban markets of either the transmitter site of the commonly-owned LPFM station or the reference coordinates for that station's community of license.
+(4) The transmitting antenna of the FM translator and/or booster station(s) is located within 16.1 kilometers (10 miles) for LPFM stations located in the top 50 urban markets and 32.1 kilometers (20 miles) for LPFM stations outside the top 50 urban markets of either the transmitter site of the commonly-owned LPFM station or the reference coordinates for that station's community of license; and
+
+(5) Booster stations commonly owned by LPFM stations may conduct transmissions independent of those broadcast by the primary LPFM station for a period not to exceed three minutes of each broadcast hour. This is a strict hourly limit that may not be exceeded by aggregating unused minutes of program origination.
 
 (c) A party that is a Tribal Applicant, as defined in § 73.853(c), may hold attributable interests in no more than two LPFM stations and four FM translator stations provided that the requirements set forth in paragraph (b) of this section are met.
 
@@ -26,4 +26,4 @@ Link to an amendment published at 89 FR 26792, Apr. 16, 2024.
 
 (e) No LPFM licensee may enter into an operating agreement of any type, including a time brokerage or management agreement, with either a full power broadcast station or another LPFM station.
 
-[78 FR 2107, Jan. 9, 2013, as amended at 85 FR 35573, June 11, 2020]
+[78 FR 2107, Jan. 9, 2013, as amended at 85 FR 35573, June 11, 2020; 89 FR 26702, Apr. 16, 2024]

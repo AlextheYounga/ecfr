@@ -1,8 +1,6 @@
 ##### § 310.4 Abusive telemarketing acts or practices. #####
 
-Link to an amendment published at 89 FR 26784, Apr. 16, 2024.Link to an amendment published at 89 FR 26785, Apr. 16, 2024.
-
-(a) *Abusive conduct generally.* It is an abusive telemarketing act or practice and a violation of this Rule for any seller or telemarketer to engage in the following conduct:
+(a) *Abusive conduct generally.* It is an abusive telemarketing act or practice and a violation of this part for any seller or telemarketer to engage in the following conduct:
 
 (1) Threats, intimidation, or the use of profane or obscene language;
 
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 26784, Apr. 16, 2024.Link to an amendmen
 
 (i) The time frame in which the seller has represented all of the goods or services will be provided to that person has expired; and
 
-(ii) The seller has provided the person with documentation in the form of a consumer report from a consumer reporting agency demonstrating that the promised results have been achieved, such report having been issued more than six months after the results were achieved. Nothing in this Rule should be construed to affect the requirement in the Fair Credit Reporting Act, 15 U.S.C. 1681, that a consumer report may only be obtained for a specified permissible purpose;
+(ii) The seller has provided the person with documentation in the form of a consumer report from a consumer reporting agency demonstrating that the promised results have been achieved, such report having been issued more than six months after the results were achieved. Nothing in this part should be construed to affect the requirement in the Fair Credit Reporting Act, 15 U.S.C. 1681, that a consumer report may only be obtained for a specified permissible purpose;
 
 (3) Requesting or receiving payment of any fee or consideration from a person for goods or services represented to recover or otherwise assist in the return of money or any other item of value paid for by, or promised to, that person in a previous transaction, until seven (7) business days after such money or other item is delivered to that person. This provision shall not apply to goods or services provided to a person by a licensed attorney;
 
@@ -64,7 +62,7 @@ Link to an amendment published at 89 FR 26784, Apr. 16, 2024.Link to an amendmen
 
 (10) Accepting from a customer or donor, directly or indirectly, a cash-to-cash money transfer or cash reload mechanism as payment for goods or services offered or sold through telemarketing or as a charitable contribution solicited or sought through telemarketing.
 
-(b) *Pattern of calls.* (1) It is an abusive telemarketing act or practice and a violation of this Rule for a telemarketer to engage in, or for a seller to cause a telemarketer to engage in, the following conduct:
+(b) *Pattern of calls.* (1) It is an abusive telemarketing act or practice and a violation of this part for a telemarketer to engage in, or for a seller to cause a telemarketer to engage in, the following conduct:
 
 (i) Causing any telephone to ring, or engaging any person in telephone conversation, repeatedly or continuously with intent to annoy, abuse, or harass any person at the called number;
 
@@ -76,9 +74,9 @@ Link to an amendment published at 89 FR 26784, Apr. 16, 2024.Link to an amendmen
 
 (B) That person's telephone number is on the “do-not-call” registry, maintained by the Commission, of persons who do not wish to receive outbound telephone calls to induce the purchase of goods or services unless the seller or telemarketer:
 
-(*1*) Can demonstrate that the seller has obtained the express agreement, in writing, of such person to place calls to that person. Such written agreement shall clearly evidence such person's authorization that calls made by or on behalf of a specific party may be placed to that person, and shall include the telephone number to which the calls may be placed and the signature664 of that person; or
+(*1*) Can demonstrate that the seller has obtained the express agreement, in writing, of such person to place calls to that person. Such written agreement shall clearly evidence such person's authorization that calls made by or on behalf of a specific party may be placed to that person, and shall include the telephone number to which the calls may be placed and the signature1 of that person; or
 
-664 For purposes of this Rule, the term “signature” shall include an electronic or digital form of signature, to the extent that such form of signature is recognized as a valid signature under applicable federal law or state contract law.
+1 For purposes of this part, the term “signature” shall include an electronic or digital form of signature, to the extent that such form of signature is recognized as a valid signature under applicable federal law or state contract law.
 
 (*2*) Can demonstrate that the seller has an established business relationship with such person, and that person has not stated that he or she does not wish to receive outbound telephone calls under paragraph (b)(1)(iii)(A) of this section; or
 
@@ -94,9 +92,9 @@ Link to an amendment published at 89 FR 26784, Apr. 16, 2024.Link to an amendmen
 
 (iii) Evidences the willingness of the recipient of the call to receive calls that deliver prerecorded messages by or on behalf of a specific seller; and
 
-(iv) Includes such person's telephone number and signature;665 and
+(iv) Includes such person's telephone number and signature;2 and
 
-665 For purposes of this Rule, the term “signature” shall include an electronic or digital form of signature, to the extent that such form of signature is recognized as a valid signature under applicable federal law or state contract law.
+2 For purposes of this part, the term “signature” shall include an electronic or digital form of signature, to the extent that such form of signature is recognized as a valid signature under applicable federal law or state contract law.
 
 (B) In any such call to induce the purchase of any good or service, or to induce a charitable contribution from a member of, or previous donor to, a non-profit charitable organization on whose behalf the call is made, the seller or telemarketer:
 
@@ -125,8 +123,7 @@ Link to an amendment published at 89 FR 26784, Apr. 16, 2024.Link to an amendmen
 (C) Any call that complies with all applicable requirements of this paragraph (v) shall not be deemed to violate § 310.4(b)(1)(iv) of this part.
 
 (D) This paragraph (v) shall not apply to any outbound telephone call that delivers a prerecorded healthcare message made by, or on behalf of, a covered entity or its business associate, as those terms are defined in the HIPAA Privacy Rule, 45 CFR 160.103.
-
-(2) It is an abusive telemarketing act or practice and a violation of this Rule for any person to sell, rent, lease, purchase, or use any list established to comply with § 310.4(b)(1)(iii)(A), or maintained by the Commission pursuant to § 310.4(b)(1)(iii)(B), for any purpose except compliance with the provisions of this Rule or otherwise to prevent telephone calls to telephone numbers on such lists.
+P\>(2) It is an abusive telemarketing act or practice and a violation of this part for any person to sell, rent, lease, purchase, or use any list established to comply with § 310.4(b)(1)(iii)(A) or § 310.5, or maintained by the Commission pursuant to § 310.4(b)(1)(iii)(B), for any purpose except compliance with the provisions of this part or otherwise to prevent telephone calls to telephone numbers on such lists.
 
 (3) A seller or telemarketer will not be liable for violating § 310.4(b)(1)(ii) and (iii) if it can demonstrate that, as part of the seller's or telemarketer's routine business practice:
 
@@ -148,15 +145,15 @@ Link to an amendment published at 89 FR 26784, Apr. 16, 2024.Link to an amendmen
 
 (ii) The seller or telemarketer, for each telemarketing call placed, allows the telephone to ring for at least fifteen (15) seconds or four (4) rings before disconnecting an unanswered call;
 
-(iii) Whenever a sales representative is not available to speak with the person answering the call within two (2) seconds after the person's completed greeting, the seller or telemarketer promptly plays a recorded message that states the name and telephone number of the seller on whose behalf the call was placed666; and
+(iii) Whenever a sales representative is not available to speak with the person answering the call within two (2) seconds after the person's completed greeting, the seller or telemarketer promptly plays a recorded message that states the name and telephone number of the seller on whose behalf the call was placed3; and
 
-666 This provision does not affect any seller's or telemarketer's obligation to comply with relevant state and federal laws, including but not limited to the TCPA, 47 U.S.C. 227, and 47 CFR part 64.1200.
+3 This provision does not affect any seller's or telemarketer's obligation to comply with relevant state and federal laws, including but not limited to the TCPA, 47 U.S.C. 227, and 47 CFR part 64.1200.
 
 (iv) The seller or telemarketer, in accordance with § 310.5(b)-(d), retains records establishing compliance with § 310.4(b)(4)(i)-(iii).
 
-(c) *Calling time restrictions.* Without the prior consent of a person, it is an abusive telemarketing act or practice and a violation of this Rule for a telemarketer to engage in outbound telephone calls to a person's residence at any time other than between 8:00 a.m. and 9:00 p.m. local time at the called person's location.
+(c) *Calling time restrictions.* Without the prior consent of a person, it is an abusive telemarketing act or practice and a violation of this part for a telemarketer to engage in outbound telephone calls to a person's residence at any time other than between 8:00 a.m. and 9:00 p.m. local time at the called person's location.
 
-(d) *Required oral disclosures in the sale of goods or services.* It is an abusive telemarketing act or practice and a violation of this Rule for a telemarketer in an outbound telephone call or internal or external upsell to induce the purchase of goods or services to fail to disclose truthfully, promptly, and in a clear and conspicuous manner to the person receiving the call, the following information:
+(d) *Required oral disclosures in the sale of goods or services.* It is an abusive telemarketing act or practice and a violation of this part for a telemarketer in an outbound telephone call or internal or external upsell to induce the purchase of goods or services to fail to disclose truthfully, promptly, and in a clear and conspicuous manner to the person receiving the call, the following information:
 
 (1) The identity of the seller;
 
@@ -166,10 +163,10 @@ Link to an amendment published at 89 FR 26784, Apr. 16, 2024.Link to an amendmen
 
 (4) That no purchase or payment is necessary to be able to win a prize or participate in a prize promotion if a prize promotion is offered and that any purchase or payment will not increase the person's chances of winning. This disclosure must be made before or in conjunction with the description of the prize to the person called. If requested by that person, the telemarketer must disclose the no-purchase/no-payment entry method for the prize promotion; provided, however, that, in any internal upsell for the sale of goods or services, the seller or telemarketer must provide the disclosures listed in this section only to the extent that the information in the upsell differs from the disclosures provided in the initial telemarketing transaction.
 
-(e) *Required oral disclosures in charitable solicitations.* It is an abusive telemarketing act or practice and a violation of this Rule for a telemarketer, in an outbound telephone call to induce a charitable contribution, to fail to disclose truthfully, promptly, and in a clear and conspicuous manner to the person receiving the call, the following information:
+(e) *Required oral disclosures in charitable solicitations.* It is an abusive telemarketing act or practice and a violation of this part for a telemarketer, in an outbound telephone call to induce a charitable contribution, to fail to disclose truthfully, promptly, and in a clear and conspicuous manner to the person receiving the call, the following information:
 
 (1) The identity of the charitable organization on behalf of which the request is being made; and
 
 (2) That the purpose of the call is to solicit a charitable contribution.
 
-[75 FR 48516, Aug. 10, 2010, as amended at 76 FR 58716, Sept. 22, 2011; 80 FR 77559, Dec. 14, 2015]
+[75 FR 48516, Aug. 10, 2010, as amended at 76 FR 58716, Sept. 22, 2011; 80 FR 77559, Dec. 14, 2015; 89 FR 26784, 26785, Apr. 16, 2024]

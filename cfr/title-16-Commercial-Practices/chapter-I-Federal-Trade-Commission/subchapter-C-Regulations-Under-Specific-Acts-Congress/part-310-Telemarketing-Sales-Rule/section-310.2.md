@@ -1,7 +1,5 @@
 ##### § 310.2 Definitions. #####
 
-Link to an amendment published at 89 FR 26783, Apr. 16, 2024.
-
 (a) *Acquirer* means a business organization, financial institution, or an agent of a business organization or financial institution that has authority from an organization that operates or licenses a credit card system to authorize merchants to accept, transmit, or process payment by credit card through the credit card system for money, goods or services, or anything else of value.
 
 (b) *Attorney General* means the chief legal officer of a state.
@@ -40,11 +38,11 @@ Link to an amendment published at 89 FR 26783, Apr. 16, 2024.
 
 (p) *Donor* means any person solicited to make a charitable contribution.
 
-(q) *Established business relationship* means a relationship between a seller and a consumer based on:
+(q) *Established business relationship* means a relationship between a seller and a person based on:
 
-(1) the consumer's purchase, rental, or lease of the seller's goods or services or a financial transaction between the consumer and seller, within the eighteen (18) months immediately preceding the date of a telemarketing call; or
+(1) The person's purchase, rental, or lease of the seller's goods or services or a financial transaction between the person and seller, within the 540 days immediately preceding the date of a telemarketing call; or
 
-(2) the consumer's inquiry or application regarding a product or service offered by the seller, within the three (3) months immediately preceding the date of a telemarketing call.
+(2) The person's inquiry or application regarding a good or service offered by the seller, within the 90 days immediately preceding the date of a telemarketing call.
 
 (r) *Free-to-pay conversion* means, in an offer or agreement to sell or provide any goods or services, a provision under which a customer receives a product or service for free for an initial period and will incur an obligation to pay for the product or service if he or she does not take affirmative action to cancel before the end of that period.
 
@@ -64,24 +62,26 @@ Link to an amendment published at 89 FR 26783, Apr. 16, 2024.
 
 (z) *Preacquired account information* means any information that enables a seller or telemarketer to cause a charge to be placed against a customer's or donor's account without obtaining the account number directly from the customer or donor during the telemarketing transaction pursuant to which the account will be charged.
 
-(aa) *Prize* means anything offered, or purportedly offered, and given, or purportedly given, to a person by chance. For purposes of this definition, chance exists if a person is guaranteed to receive an item and, at the time of the offer or purported offer, the telemarketer does not identify the specific item that the person will receive.
+(aa) *Previous donor* means any person who has made a charitable contribution to a particular charitable organization within the 2-year period immediately preceding the date of the telemarketing call soliciting on behalf of that charitable organization.
 
-(bb) *Prize promotion* means:
+(bb) *Prize* means anything offered, or purportedly offered, and given, or purportedly given, to a person by chance. For purposes of this definition, chance exists if a person is guaranteed to receive an item and, at the time of the offer or purported offer, the telemarketer does not identify the specific item that the person will receive.
+
+(cc) *Prize promotion* means:
 
 (1) A sweepstakes or other game of chance; or
 
 (2) An oral or written express or implied representation that a person has won, has been selected to receive, or may be eligible to receive a prize or purported prize.
 
-(cc) *Remotely created payment order* means any payment instruction or order drawn on a person's account that is created by the payee or the payee's agent and deposited into or cleared through the check clearing system. The term includes, without limitation, a “remotely created check,” as defined in Regulation CC, Availability of Funds and Collection of Checks, 12 CFR 229.2(fff), but does not include a payment order cleared through an Automated Clearinghouse (ACH) Network or subject to the Truth in Lending Act, 15 U.S.C. 1601 *et seq.,* and Regulation Z, 12 CFR part 1026.
+(dd) *Remotely created payment order* means any payment instruction or order drawn on a person's account that is created by the payee or the payee's agent and deposited into or cleared through the check clearing system. The term includes, without limitation, a “remotely created check,” as defined in Regulation CC, Availability of Funds and Collection of Checks, 12 CFR 229.2(fff), but does not include a payment order cleared through an Automated Clearinghouse (ACH) Network or subject to the Truth in Lending Act, 15 U.S.C. 1601 *et seq.,* and Regulation Z, 12 CFR part 1026.
 
-(dd) *Seller* means any person who, in connection with a telemarketing transaction, provides, offers to provide, or arranges for others to provide goods or services to the customer in exchange for consideration.
+(ee) *Seller* means any person who, in connection with a telemarketing transaction, provides, offers to provide, or arranges for others to provide goods or services to the customer in exchange for consideration.
 
-(ee) *State* means any state of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, and any territory or possession of the United States.
+(ff) *State* means any state of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, and any territory or possession of the United States.
 
-(ff) *Telemarketer* means any person who, in connection with telemarketing, initiates or receives telephone calls to or from a customer or donor.
+(gg) *Telemarketer* means any person who, in connection with telemarketing, initiates or receives telephone calls to or from a customer or donor.
 
-(gg) *Telemarketing* means a plan, program, or campaign which is conducted to induce the purchase of goods or services or a charitable contribution, by use of one or more telephones and which involves more than one interstate telephone call. The term does not include the solicitation of sales through the mailing of a catalog which: contains a written description or illustration of the goods or services offered for sale; includes the business address of the seller; includes multiple pages of written material or illustrations; and has been issued not less frequently than once a year, when the person making the solicitation does not solicit customers by telephone but only receives calls initiated by customers in response to the catalog and during those calls takes orders only without further solicitation. For purposes of the previous sentence, the term “further solicitation” does not include providing the customer with information about, or attempting to sell, any other item included in the same catalog which prompted the customer's call or in a substantially similar catalog.
+(hh) *Telemarketing* means a plan, program, or campaign which is conducted to induce the purchase of goods or services or a charitable contribution, by use of one or more telephones and which involves more than one interstate telephone call. The term does not include the solicitation of sales through the mailing of a catalog which: contains a written description or illustration of the goods or services offered for sale; includes the business address of the seller; includes multiple pages of written material or illustrations; and has been issued not less frequently than once a year, when the person making the solicitation does not solicit customers by telephone but only receives calls initiated by customers in response to the catalog and during those calls takes orders only without further solicitation. For purposes of the previous sentence, the term “further solicitation” does not include providing the customer with information about, or attempting to sell, any other item included in the same catalog which prompted the customer's call or in a substantially similar catalog.
 
-(hh) *Upselling* means soliciting the purchase of goods or services following an initial transaction during a single telephone call. The upsell is a separate telemarketing transaction, not a continuation of the initial transaction. An “external upsell” is a solicitation made by or on behalf of a seller different from the seller in the initial transaction, regardless of whether the initial transaction and the subsequent solicitation are made by the same telemarketer. An “internal upsell” is a solicitation made by or on behalf of the same seller as in the initial transaction, regardless of whether the initial transaction and subsequent solicitation are made by the same telemarketer.
+(ii) *Upselling* means soliciting the purchase of goods or services following an initial transaction during a single telephone call. The upsell is a separate telemarketing transaction, not a continuation of the initial transaction. An “external upsell” is a solicitation made by or on behalf of a seller different from the seller in the initial transaction, regardless of whether the initial transaction and the subsequent solicitation are made by the same telemarketer. An “internal upsell” is a solicitation made by or on behalf of the same seller as in the initial transaction, regardless of whether the initial transaction and subsequent solicitation are made by the same telemarketer.
 
-[75 FR 48516, Aug. 10, 2010, as amended at 80 FR 77557, Dec. 14, 2015]
+[75 FR 48516, Aug. 10, 2010, as amended at 80 FR 77557, Dec. 14, 2015; 89 FR 26783, Apr. 16, 2024]

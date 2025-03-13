@@ -1,7 +1,5 @@
 ##### § 74.1232 Eligibility and licensing requirements. #####
 
-Link to an amendment published at 89 FR 26793, Apr. 16, 2024.
-
 (a) Subject to the restrictions set forth in paragraph (d) of this section, a license for an FM broadcast translator station may be issued to any qualified individual, organized group of individuals, broadcast station licensee, or local civil governmental body, upon an appropriate showing that plans for financing the installation and operation of the translator are sufficiently sound to assure prompt construction of the translator and dependable service.
 
 (b) More than one FM translator may be licensed to the same applicant, whether or not such translators serve substantially the same area, upon an appropriate showing of technical need for such additional stations. FM translators are not counted as FM stations for the purpose of § 73.3555 of this chapter concerning multiple ownership.
@@ -20,10 +18,10 @@ Note:
 
 “Technical assistance” refers to actual services provided by the primary station's technical staff or compensation for the time and services provided by independent engineering personnel. Conversely, such support must not include the supply of equipment or direct funding for the translator's discretionary use. “Technical assistance” must occur after the issuance of the translator's construction permit or license in order to meet expenses incurred by installing, repairing, or making adjustments to equipment.
 
-(f) An FM broadcast booster station will be authorized only to the licensee or permittee of the FM radio broadcast station whose signals the booster station will retransmit, to serve areas within the protected contour of the primary station, subject to Note, § 74.1231(h) of this part.
+(f) An FM broadcast booster station will be authorized only to the licensee or permittee of the FM radio broadcast station whose signals the booster station will retransmit, to serve areas within the protected contour of the primary station, subject to § 74.1231(j).
 
 (g) No numerical limit is placed upon the number of FM booster stations which may be licensed to a single licensee. A separate application is required for each FM booster station. FM broadcast booster stations are not counted as FM broadcast stations for the purposes of § 73.5555 of this chapter concerning multiple ownership.
 
 (h) Any authorization for an FM translator station issued to an applicant described in paragraphs (d) and (e) of this section will be issued subject to the condition that it may be terminated at any time, upon not less than sixty (60) days written notice, where the circumstances in the community or area served are so altered as to have prohibited grant of the application had such circumstances existed at the time of its filing.
 
-[35 FR 15388, Oct. 2, 1970, as amended at 43 FR 14660, Apr. 7, 1978; 52 FR 10571, Apr. 2, 1987; 52 FR 31406, Aug. 20, 1987; 55 FR 50696, Dec. 10, 1990; 58 FR 42026, Aug. 6, 1993; 74 FR 45130, Sept. 1, 2009; 77 FR 21015, Apr. 9, 2012]
+[35 FR 15388, Oct. 2, 1970, as amended at 43 FR 14660, Apr. 7, 1978; 52 FR 10571, Apr. 2, 1987; 52 FR 31406, Aug. 20, 1987; 55 FR 50696, Dec. 10, 1990; 58 FR 42026, Aug. 6, 1993; 74 FR 45130, Sept. 1, 2009; 77 FR 21015, Apr. 9, 2012; 89 FR 26793, Apr. 16, 2024]

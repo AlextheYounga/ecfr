@@ -1,16 +1,14 @@
 ##### § 310.6 Exemptions. #####
 
-Link to an amendment published at 89 FR 26785, Apr. 16, 2024.
+(a) Solicitations to induce charitable contributions via outbound telephone calls are not covered by § 310.4(b)(1)(iii)(B) of this part.
 
-(a) Solicitations to induce charitable contributions via outbound telephone calls are not covered by § 310.4(b)(1)(iii)(B) of this Rule.
+(b) The following acts or practices are exempt from this part:
 
-(b) The following acts or practices are exempt from this Rule:
+(1) The sale of pay-per-call services subject to the Commission's Rule entitled “Trade Regulation Rule Pursuant to the Telephone Disclosure and Dispute Resolution Act of 1992,” 16 CFR part 308, *provided,* however, that this exemption does not apply to the requirements of § 310.4(a)(1), (a)(8), (b), and (c);
 
-(1) The sale of pay-per-call services subject to the Commission's Rule entitled “Trade Regulation Rule Pursuant to the Telephone Disclosure and Dispute Resolution Act of 1992,” 16 CFR part 308, *provided,* however, that this exemption does not apply to the requirements of §§ 310.4(a)(1), (a)(7), (b), and (c);
+(2) The sale of franchises subject to the Commission's Rule entitled “Disclosure Requirements and Prohibitions Concerning Franchising,” (“Franchise Rule”) 16 CFR part 436, and the sale of business opportunities subject to the Commission's Rule entitled “Disclosure Requirements and Prohibitions Concerning Business Opportunities,” (“Business Opportunity Rule”) 16 CFR part 437, *provided,* however, that this exemption does not apply to the requirements of § 310.4(a)(1), (a)(8), (b), and (c);
 
-(2) The sale of franchises subject to the Commission's Rule entitled “Disclosure Requirements and Prohibitions Concerning Franchising,” (“Franchise Rule”) 16 CFR part 436, and the sale of business opportunities subject to the Commission's Rule entitled “Disclosure Requirements and Prohibitions Concerning Business Opportunities,” (“Business Opportunity Rule”) 16 CFR part 437, *provided,* however, that this exemption does not apply to the requirements of §§ 310.4(a)(1), (a)(7), (b), and (c);
-
-(3) Telephone calls in which the sale of goods or services or charitable solicitation is not completed, and payment or authorization of payment is not required, until after a face-to-face sales or donation presentation by the seller or charitable organization, *provided,* however, that this exemption does not apply to the requirements of §§ 310.4(a)(1), (a)(7), (b), and (c);
+(3) Telephone calls in which the sale of goods or services or charitable solicitation is not completed, and payment or authorization of payment is not required, until after a face-to-face sales or donation presentation by the seller or charitable organization, *provided,* however, that this exemption does not apply to the requirements of § 310.4(a)(1), (a)(8), (b), and (c);
 
 (4) Telephone calls initiated by a customer or donor that are not the result of any solicitation by a seller, charitable organization, or telemarketer, *provided,* however, that this exemption does not apply to any instances of upselling included in such telephone calls;
 
@@ -30,6 +28,10 @@ Link to an amendment published at 89 FR 26785, Apr. 16, 2024.
 
 (iii) Any instances of upselling included in such telephone calls; and
 
-(7) Telephone calls between a telemarketer and any business to induce the purchase of goods or services or a charitable contribution by the business, except calls to induce the retail sale of nondurable office or cleaning supplies; *provided,* however, that §§ 310.4(b)(1)(iii)(B) and 310.5 shall not apply to sellers or telemarketers of nondurable office or cleaning supplies.
+(7) Telephone calls between a telemarketer and any business to induce the purchase of goods or services or a charitable contribution by the business, *provided,* however that this exemption does not apply to:
 
-[75 FR 48516, Aug. 10, 2010, as amended at 80 FR 77559, Dec. 14, 2015]
+(i) The requirements of § 310.3(a)(2) and(4); or
+
+(ii) Calls to induce the retail sale of nondurable office or cleaning supplies; *provided,* however, that §§ 310.4(b)(1)(iii)(B) and 310.5 shall not apply to sellers or telemarketers of nondurable office or cleaning supplies.
+
+[75 FR 48516, Aug. 10, 2010, as amended at 80 FR 77559, Dec. 14, 2015; 89 FR 26785, Apr. 16, 2024]
