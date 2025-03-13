@@ -1,7 +1,1 @@
-##### § 240.13a-21 Purchases of equity securities by a foreign private issuer and affiliated purchasers. #####
-
-(a) Every foreign private issuer that has a class of equity securities registered pursuant to section 12 of the Act (15 U.S.C. 78*l*) and that does not file quarterly reports on Form 10-Q (§ 249.308a of this chapter) and annual reports on Form 10-K (§ 249.310 of this chapter) must file a Form F-SR (§ 249.333 of this chapter) disclosing, for the period covered by the form and as specified by the form, the aggregate purchases during each day made by or on behalf of the issuer or any “affiliated purchaser,” as defined in § 240.10b-18(a)(3), of shares or other units of any class of the issuer's equity securities that is registered by the issuer pursuant to section 12 of the Act, within the time period specified in General Instruction I to Form F-SR. The information provided pursuant to the form must be provided in an Interactive Data File as required by § 232.405 of this chapter (Rule 405 of Regulation S-T) in accordance with the EDGAR Filer Manual.
-
-(b) Paragraph (a) of this section shall not apply to an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et. seq.*).
-
-[88 FR 36508, June 1, 2023]
+##### § 240.13a-21 [Reserved] #####

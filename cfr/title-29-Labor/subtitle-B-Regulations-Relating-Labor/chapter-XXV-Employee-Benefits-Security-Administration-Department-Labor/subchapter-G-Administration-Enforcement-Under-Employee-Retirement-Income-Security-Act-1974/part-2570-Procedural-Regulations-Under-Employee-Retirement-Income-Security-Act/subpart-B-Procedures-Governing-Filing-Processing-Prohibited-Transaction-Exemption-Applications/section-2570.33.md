@@ -1,13 +1,13 @@
 ##### § 2570.33 Applications the Department will not ordinarily consider. #####
 
-(a) The Department ordinarily will not consider:
+(a) The Department ordinarily will not consider an application that fails to include all the information required by §§ 2570.34 and 2570.35 (or fails to include current information) or otherwise fails to conform to the requirements in this subpart.
 
-(1) An application that fails to include all the information required by §§ 2570.34 and 2570.35 of this subpart or otherwise fails to conform to the requirements of these procedures; or
+(b) An application for an individual exemption relating to a specific exemption transaction or transactions ordinarily will not be considered if the Department has under consideration a class exemption relating to the same type of transaction or transactions. Notwithstanding the preceding sentence, the Department may consider such an application if the issuance of the final class exemption is not imminent, and the Department determines that time constraints necessitate consideration of the exemption transaction on an individual basis.
 
-(2) An application involving a transaction or transactions which are the subject of an investigation for possible violations of part 1 or 4 of subtitle B of Title I of ERISA or section 8477 or 8478 of FERSA or an application involving a party in interest who is the subject of such an investigation or who is a defendant in an action by the Department or the Internal Revenue Service to enforce the above-mentioned provisions of ERISA or FERSA.
+(c) If a party, excluding a Federal, state, or other governmental entity, designates any information submitted in connection with its exemption application as confidential, the Department will not process the application unless and until the applicant withdraws its claim of confidentiality. By submitting an exemption application, an applicant consents to public disclosure of the entire administrative record pursuant to § 2570.51.
 
-(b) An application for an individual exemption relating to a specific transaction or transactions ordinarily will not be considered if the Department has under consideration a class exemption relating to the same type of transaction or transactions. Notwithstanding the foregoing, the Department may consider such an application if the issuance of the final class exemption may not be imminent, and the Department determines that time constraints necessitate consideration of the transaction on an individual basis.
+(d) The Department will not engage a pre-submission applicant or its representative, whether through written correspondence or a conference, if the pre-submission applicant does not:
 
-(c) The administrative record of an exemption application includes the initial exemption application and any supporting information provided by the applicant (as well as any comments and testimony received by the Department in connection with an application). If an applicant designates as confidential any information required by these regulations or requested by the Department, the Department will determine whether the information is material to the exemption determination. If it determines the information to be material, the Department will not process the application unless the applicant withdraws the claim of confidentiality.
+(1) Identify and fully describe the exemption transaction; and
 
-(d) If for any reason the Department decides not to consider an exemption application, it will inform the applicant in writing of that decision and of the reasons therefore.
+(2) Set forth the prohibited transactions that the applicant believes are applicable.

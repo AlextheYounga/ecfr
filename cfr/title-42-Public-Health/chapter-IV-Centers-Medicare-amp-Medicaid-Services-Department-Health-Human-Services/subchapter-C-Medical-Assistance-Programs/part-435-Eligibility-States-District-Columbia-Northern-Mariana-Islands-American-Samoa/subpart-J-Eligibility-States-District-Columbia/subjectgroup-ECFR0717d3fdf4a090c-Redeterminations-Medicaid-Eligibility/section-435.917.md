@@ -1,8 +1,6 @@
 ##### § 435.917 Notice of agency's decision concerning eligibility, benefits, or services. #####
 
-Link to an amendment published at 89 FR 8980, Feb. 8, 2024.
-
-(a) *Notice of eligibility determinations.* Consistent with §§ 431.206 through 431.214 of this chapter, the agency must provide all applicants and beneficiaries with timely and adequate written notice of any decision affecting their eligibility, including an approval, denial, termination or suspension of eligibility, or a denial or change in benefits and services. Such notice must—
+(a) *Notice of determinations.* Consistent with §§ 431.206 through 431.214 of this chapter, the agency must provide all applicants and beneficiaries with timely and adequate written notice of any decision affecting their eligibility, including an approval, denial, termination or suspension of eligibility, or a denial or change in benefits and services. Such notice must—
 
 (1) Be written in plain language;
 
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 8980, Feb. 8, 2024.
 
 (3) If provided in electronic format, comply with § 435.918(b).
 
-(b) *Content of eligibility notice*—(1) *Notice of approved eligibility.* Any notice of an approval of Medicaid eligibility must include, but is not limited to, clear statements containing the following information—
+(b) *Content of notice*—(1) *Notice of approved eligibility.* Any notice of an approval of Medicaid eligibility must include, but is not limited to, clear statements containing the following information—
 
 (i) The basis and effective date of eligibility;
 
@@ -28,7 +26,7 @@ Link to an amendment published at 89 FR 8980, Feb. 8, 2024.
 
 (D) An explanation of any right to appeal the eligibility status or level of benefits and services approved.
 
-(2) Notice of adverse action including denial, termination or suspension of eligibility or change in benefits or services. Any notice of denial, termination or suspension of Medicaid eligibility or change in benefits or services must be consistent with § 431.210 of this chapter.
+(2) *Notice of adverse action.* Notice of adverse action including denial, termination, or suspension of eligibility or change in benefits or services. Any notice of denial, termination, or suspension of Medicaid eligibility, or, in the case of beneficiaries receiving medical assistance, denial of or change in benefits or services must be consistent with § 431.210 of this chapter.
 
 (c) *Eligibility.* Whenever an approval, denial, or termination of eligibility is based on an applicant's or beneficiary's having household income at or below the applicable modified adjusted gross income standard in accordance with § 435.911, the eligibility notice must contain—
 
@@ -38,4 +36,4 @@ Link to an amendment published at 89 FR 8980, Feb. 8, 2024.
 
 (d) *Combined Eligibility Notice.* The agency's responsibility to provide notice under this section is satisfied by a combined eligibility notice, as defined in § 435.4, provided by the Exchange or other insurance affordability program in accordance with an agreement between the agency and such program consummated in accordance with § 435.1200(b)(3), except that, if the information described in paragraph (b)(1)(iii) and (iv) of this section is not included in such combined eligibility notice, the agency must provide the individual with a supplemental notice of such information, consistent with this section.
 
-[81 FR 86458, Nov. 30, 2016]
+[81 FR 86458, Nov. 30, 2016, as amended at 89 FR 8980, Feb. 8, 2024]

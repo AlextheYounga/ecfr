@@ -1,7 +1,5 @@
 ##### § 431.220 When a hearing is required. #####
 
-Link to an amendment published at 89 FR 8980, Feb. 8, 2024.
-
 (a) The State agency must grant an opportunity for a hearing to the following:
 
 (1) Any individual who requests it because he or she believes the agency has taken an action erroneously, denied his or her claim for eligibility or for covered benefits or services, or issued a determination of an individual's liability, or has not acted upon the claim with reasonable promptness including, if applicable—
@@ -12,9 +10,11 @@ Link to an amendment published at 89 FR 8980, Feb. 8, 2024.
 
 (iii) A determination of the amount of premiums and cost sharing charges under subpart A of part 447 of this chapter;
 
-(iv) A change in the amount or type of benefits or services; or
+(iv) A change in the amount or type of benefits or services;
 
-(v) A request for exemption from mandatory enrollment in an Alternative Benefit Plan.
+(v) A request for exemption from mandatory enrollment in an Alternative Benefit Plan; or
+
+(vi) A prior authorization decision.
 
 (2) Any resident who requests it because he or she believes a skilled nursing facility or nursing facility has erroneously determined that he or she must be transferred or discharged.
 
@@ -28,4 +28,4 @@ Link to an amendment published at 89 FR 8980, Feb. 8, 2024.
 
 (b) The agency need not grant a hearing if the sole issue is a Federal or State law requiring an automatic change adversely affecting some or all beneficiaries.
 
-[44 FR 17932, Mar. 29, 1979, as amended at 57 FR 56505, Nov. 30, 1992; 67 FR 41095, June 14, 2002; 67 FR 65505, Oct. 25, 2002; 81 FR 27853, May 6, 2016; 81 FR 86448, Nov. 30, 2016]
+[44 FR 17932, Mar. 29, 1979, as amended at 57 FR 56505, Nov. 30, 1992; 67 FR 41095, June 14, 2002; 67 FR 65505, Oct. 25, 2002; 81 FR 27853, May 6, 2016; 81 FR 86448, Nov. 30, 2016; 89 FR 8980, Apr. 8, 2024]

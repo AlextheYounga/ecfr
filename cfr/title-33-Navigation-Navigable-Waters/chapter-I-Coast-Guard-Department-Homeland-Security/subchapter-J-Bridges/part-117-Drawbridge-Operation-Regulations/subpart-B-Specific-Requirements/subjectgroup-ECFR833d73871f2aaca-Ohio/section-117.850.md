@@ -1,5 +1,7 @@
 ##### § 117.850 Black River. #####
 
+Link to an amendment published at 89 FR 24383, Apr. 8, 2024.
+
 The draw of the Erie Avenue bridge, mile 0.6, at Lorain shall open on signal except as follows:
 
 (a) From April 1 through December 31—

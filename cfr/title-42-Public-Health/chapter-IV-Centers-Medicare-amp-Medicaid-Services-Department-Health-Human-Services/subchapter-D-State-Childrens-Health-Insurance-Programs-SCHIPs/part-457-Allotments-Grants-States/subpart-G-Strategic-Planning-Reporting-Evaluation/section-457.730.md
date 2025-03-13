@@ -1,7 +1,5 @@
 ##### § 457.730 Beneficiary access to and exchange of data. #####
 
-Link to an amendment published at 89 FR 8982, Feb. 8, 2024.
-
 (a) *Application Programming Interface to support CHIP beneficiaries.* A State must implement and maintain a standards-based Application Programming Interface (API) that permits third-party applications to retrieve, with the approval and at the direction of the current individual beneficiary or the beneficiary's personal representative, data specified in paragraph (b) of this section through the use of common technologies and without special effort from the beneficiary.
 
 (b) *Accessible content.* A State must make the following information accessible to its current beneficiaries or the beneficiary's personal representative through the API described in paragraph (a) of this section:
@@ -10,13 +8,39 @@ Link to an amendment published at 89 FR 8982, Feb. 8, 2024.
 
 (2) Encounter data no later than 1 business day after receiving the data from providers, other than MCOs, PIHPs, or PAHPs, compensated on the basis of capitation payments;
 
-(3) Clinical data, including laboratory results, if a State maintains any such data, no later than one (1) business day after the data is received by the State; and
+(3) All data classes and data elements included in a content standard in 45 CFR 170.213 that are maintained by the State no later than 1 business day after the State receives the data; and
 
 (4) Information, about covered outpatient drugs and updates to such information, including, where applicable, preferred drug list information, no later than one (1) business day after the effective date of the information or updates to such information.
 
+(5) Beginning January 1, 2027, the information in paragraph (b)(5)(i) of this section about prior authorizations for items and services (excluding drugs as defined in paragraph (b)(6) of this section), according to the timelines in paragraph (b)(5)(ii) of this section.
+
+(i) The prior authorization request and decision, including all of the following, as applicable:
+
+(A) The prior authorization status.
+
+(B) The date the prior authorization was approved or denied.
+
+(C) The date or circumstance under which the prior authorization ends.
+
+(D) The items and services approved.
+
+(E) If denied, a specific reason why the request was denied.
+
+(F) Related structured administrative and clinical documentation submitted by a provider.
+
+(ii) The information in paragraph (b)(5)(i) of this section must—
+
+(A) Be accessible no later than 1 business day after the State receives a prior authorization request;
+
+(B) Be updated no later than 1 business day after any status change; and
+
+(C) Continue to be accessible for the duration that the authorization is active and at least 1 year after the prior authorization's last status change.
+
+(6) Drugs are defined for the purposes of paragraph (b)(5) of this section as any and all drugs covered by the State.
+
 (c) *Technical requirements.* A State implementing an API under paragraph (a) of this section:
 
-(1) Must implement, maintain, and use API technology conformant with 45 CFR 170.215;
+(1) Must implement and maintain API technology conformant with 45 CFR 170.215(a)(1), (b)(1)(i), (c)(1), and (e)(1);
 
 (2) Must conduct routine testing and monitoring, and update as appropriate, to ensure the API functions properly, including assessments to verify that the API technology is fully and successfully implementing privacy and security features such as, but not limited to, those required to comply with HIPAA privacy and security requirements in 45 CFR parts 160 and 164, 42 CFR parts 2 and 3, and other applicable law protecting the privacy and security of individually identifiable data;
 
@@ -36,7 +60,7 @@ Link to an amendment published at 89 FR 8982, Feb. 8, 2024.
 
 (B) For standards at 45 CFR 170.213 and 170.215, the National Coordinator has approved the updated version for use in the ONC Health IT Certification Program; and
 
-(C) Use of the updated version of a standard does not disrupt an end user's ability to access the data described in paragraph (b) of this section through the API described in paragraph (a) of this section.
+(C) Using the updated version of the standard, implementation guide, or specification does not disrupt an end user's ability to access the data specified in paragraph (b) of this section or §§ 457.731, 457.732, and 457.760 through the required APIs.
 
 (d) *Documentation requirements for APIs.* For each API implemented in accordance with paragraph (a) of this section, a State must make publicly accessible, by posting directly on its website or via publicly accessible hyperlink(s), complete accompanying documentation that contains, at a minimum the information listed in this paragraph. For the purposes of this section, “publicly accessible” means that any person using commonly available technology to browse the internet could access the information without any preconditions or additional steps, such as a fee for access to the documentation; a requirement to receive a copy of the material via email; a requirement to register or create an account to receive the documentation; or a requirement to read promotional material or agree to receive future communications from the organization making the documentation available;
 
@@ -50,17 +74,13 @@ Link to an amendment published at 89 FR 8982, Feb. 8, 2024.
 
 (1) Reasonably determines, consistent with its security risk analysis under 45 CFR part 164 subpart C, that allowing an application to connect or remain connected to the API would present an unacceptable level of risk to the security of protected health information on the State's systems; and
 
-(2) Makes this determination using objective, verifiable criteria that are applied fairly and consistently across all applications and developers through which beneficiaries seek to access their electronic health information as defined at 45 CFR 171.102, including but not limited to criteria that may rely on automated monitoring and risk mitigation tools.
+(2) Makes this determination using objective, verifiable criteria that are applied fairly and consistently across all apps and developers through which parties seek to access electronic health information, as defined in 45 CFR 171.102, including but not limited to criteria that rely on automated monitoring and risk mitigation tools.
 
-(f) *Beneficiary resources regarding privacy and security.* A State must provide in an easily accessible location on its public website and through other appropriate mechanisms through which it ordinarily communicates with current and former beneficiaries seeking to access their health information held by the State CHIP agency, educational resources in non-technical, simple and easy-to-understand language explaining at a minimum:
+(f) *Reporting on Patient Access API usage.* Beginning in 2026, by March 31 of each year, a State must report to CMS the following metrics, in the form of aggregated, de-identified data, for the previous calendar year at the State level in the form and manner specified by the Secretary:
 
-(1) General information on steps the individual may consider taking to help protect the privacy and security of their health information, including factors to consider in selecting an application including secondary uses of data, and the importance of understanding the security and privacy practices of any application to which they will entrust their health information; and
+(1) The total number of unique beneficiaries whose data are transferred via the Patient Access API to a health app designated by the beneficiary; and
 
-(2) An overview of which types of organizations or individuals are and are not likely to be HIPAA covered entities, the oversight responsibilities of OCR and FTC, and how to submit a complaint to:
-
-(i) The HHS Office for Civil Rights (OCR); and
-
-(ii) The Federal Trade Commission (FTC).
+(2) The total number of unique beneficiaries whose data are transferred more than once via the Patient Access API to a health app designated by the beneficiary.
 
 (g) *Data availability.* (1) The State must comply with the requirements in paragraphs (a) through (f) of this section beginning January 1, 2021 with regard to data:
 
@@ -70,4 +90,10 @@ Link to an amendment published at 89 FR 8982, Feb. 8, 2024.
 
 (2) [Reserved]
 
-[85 FR 25636, May 1, 2020]
+(h) *Applicability.* A State must comply with the requirements in paragraphs (a) through (e) and (g) of this section beginning January 1, 2021, and with the requirements in paragraph (f) of this section beginning in 2026, with regard to data:
+
+(1) With a date of service on or after January 1, 2016; and
+
+(2) That are maintained by the State.
+
+[85 FR 25636, May 1, 2020, as amended at 89 FR 8982, Feb. 8, 2024]

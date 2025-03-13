@@ -8,4 +8,4 @@ If the Department tentatively decides that an administrative exemption is warran
 
 (c) Inform interested persons of their right to submit comments to the Department (either electronically or in writing) relating to the proposed exemption and establish a deadline for receipt of such comments; and
 
-(d) Where the proposed exemption includes relief from the prohibitions of section 406(b) of ERISA, section 4975(c)(1)(E) or (F) of the Code, or section 8477(c)(2) of FERSA, inform interested persons of their right to request a hearing under § 2570.46 of this subpart and establish a deadline for receipt of requests for such hearings.
+(d) If the proposed exemption includes relief from the prohibitions of ERISA section 406(b), Code section 4975(c)(1)(E) or (F), or FERSA section 8477(c)(2), inform interested persons who are materially affected by the grant of the exemption of their right to request a hearing under § 2570.46 and establish a deadline for hearing requests to be submitted.

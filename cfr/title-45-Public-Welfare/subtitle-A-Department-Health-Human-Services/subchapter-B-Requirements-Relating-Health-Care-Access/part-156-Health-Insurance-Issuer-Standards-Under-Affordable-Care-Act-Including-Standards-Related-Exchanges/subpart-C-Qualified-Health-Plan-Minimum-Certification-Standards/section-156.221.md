@@ -1,22 +1,46 @@
 ##### § 156.221 Access to and exchange of health data and plan information. #####
 
-Link to an amendment published at 89 FR 8986, Feb. 8, 2024.
-
 (a) *Application Programming Interface to support enrollees.* Subject to paragraph (h) of this section, a QHP issuer on a Federally-Facilitated Exchange must implement and maintain a standards-based Application Programming Interface (API) that permits third-party applications to retrieve, with the approval and at the direction of a current individual enrollee or the enrollee's personal representative, data specified in paragraph (b) of this section through the use of common technologies and without special effort from the enrollee.
 
 (b) *Accessible content.* (1) A QHP issuer on a Federally-facilitate Exchange must make the following information accessible to its current enrollees or the enrollee's personal representative through the API described in paragraph (a) of this section:
 
 (i) Data concerning adjudicated claims, including claims data for payment decisions that may be appealed, were appealed, or are in the process of appeal, and provider remittances and enrollee cost-sharing pertaining to such claims, no later than one (1) business day after a claim is processed;
 
-(ii) Encounter data from capitated providers, no later than one (1) business day after data concerning the encounter is received by the QHP issuer; and
+(ii) Encounter data from capitated providers, no later than one (1) business day after data concerning the encounter is received by the QHP issuer;
 
-(iii) Clinical data, including laboratory results, if the QHP issuer maintains any such data, no later than one (1) business day after data is received by the issuer.
+(iii) All data classes and data elements included in a content standard in 45 CFR 170.213 that are maintained by the Qualified Health Plan (QHP) issuer no later than 1 business day after the QHP issuer receives the data; and
+
+(iv) For plan years beginning on or after January 1, 2027, the information in paragraph (b)(1)(iv)(A) of this section about prior authorizations for items and services (excluding drugs, as defined in paragraph (b)(1)(v) of this section), according to the timelines in paragraph (b)(1)(iv)(B) of this section.
+
+(A) The prior authorization request and decision, including all of the following, as applicable:
+
+(*1*) The prior authorization status.
+
+(*2*) The date the prior authorization was approved or denied.
+
+(*3*) The date or circumstance under which the prior authorization ends.
+
+(*4*) The items and services approved.
+
+(*5*) If denied, a specific reason why the request was denied.
+
+(*6*) Related structured administrative and clinical documentation submitted by a provider.
+
+(B) The information in paragraph (b)(1)(iv)(A) of this section must—
+
+(*1*) Be accessible no later than 1 business day after the QHP issuer receives a prior authorization request;
+
+(*2*) Be updated no later than 1 business day after any status change; and
+
+(*3*) Continue to be accessible for the duration that the authorization is active and at least 1 year after the prior authorization's last status change.
+
+(v) Drugs are defined for the purposes of paragraph (b)(1)(iv) of this section as any and all drugs covered by the QHP issuer.
 
 (2) [Reserved]
 
 (c) *Technical requirements.* A QHP issuer on a Federally-facilitated Exchange implementing an API under paragraph (a) of this section:
 
-(1) Must implement, maintain, and use API technology conformant with 45 CFR 170.215;
+(1) Must implement and maintain API technology conformant with 45 CFR 170.215(a)(1), (b)(1)(i), (c)(1), and (e)(1);
 
 (2) Must conduct routine testing and monitoring, and update as appropriate, to ensure the API functions properly, including assessments to verify the API is fully and successfully implementing privacy and security features such as, but not limited to, those required to comply with HIPAA privacy and security requirements in parts 160 and 164, 42 CFR parts 2 and 3, and other applicable law protecting privacy and security of individually identifiable data;
 
@@ -36,7 +60,7 @@ Link to an amendment published at 89 FR 8986, Feb. 8, 2024.
 
 (B) For standards at 45 CFR 170.213 and 45 CFR 170.215, the National Coordinator has approved the updated version for use in the ONC Health IT Certification Program; and
 
-(C) Use of the updated version of a standard does not disrupt an end user's ability to access the data described in paragraph (b) of this section through the API described in paragraph (a) of this section.
+(C) Using the updated version of the standard, implementation guide, or specification does not disrupt an end user's ability to access the data specified in paragraph (b) of this section or §§ 156.221, 156.222, and 156.223 through the required APIs.
 
 (d) *Documentation requirements for APIs.* For each API implemented in accordance with paragraph (a) of this section, a QHP issuer on a Federally-Facilitated Exchange must make publicly accessible, by posting directly on its website and/or via publicly accessible hyperlink(s), complete accompanying documentation that contains, at a minimum the information listed in this paragraph. For the purposes of this section, “publicly accessible” means that any person using commonly available technology to browse the internet could access the information without any preconditions or additional steps, such as a fee for access to the documentation; a requirement to receive a copy of the material via email; a requirement to register or create an account to receive the documentation; or a requirement to read promotional material or agree to receive future communications from the organization making the documentation available;
 
@@ -50,17 +74,13 @@ Link to an amendment published at 89 FR 8986, Feb. 8, 2024.
 
 (1) Reasonably determines, consistent with its security risk analysis under 45 CFR part 164 subpart C, that allowing an application to connect or remain connected to the API would present an unacceptable level of risk to the security of personally identifiable information, including protected health information, on the QHP issuer's systems; and
 
-(2) Makes this determination using objective, verifiable criteria that are applied fairly and consistently across all applications and developers through which enrollees seek to access their electronic health information as defined at § 171.102 of this subchapter, including but not limited to criteria that may rely on automated monitoring and risk mitigation tools.
+(2) Makes this determination using objective, verifiable criteria that are applied fairly and consistently across all apps and developers through which parties seek to access electronic health information, as defined in 45 CFR 171.102, including but not limited to criteria that rely on automated monitoring and risk mitigation tools.
 
-(f) *Coordination among payers.* (1) A QHP issuer on a Federally-facilitated Exchange must maintain a process for the electronic exchange of, at a minimum, the data classes and elements included in the content standard adopted at 45 CFR 170.213. Such information received by a QHP issuer on a Federally-facilitated Exchange must be incorporated into the QHP issuer's records about the current enrollee. With the approval and at the direction of a current or former enrollee or the enrollee's personal representative, a QHP issuer on a Federally-facilitated Exchange must:
+(f) *Reporting on Patient Access API usage.* Beginning in 2026, by March 31 following any calendar year that it offers a QHP on a Federally-facilitated Exchange, a QHP issuer must report to CMS the following metrics, in the form of aggregated, de-identified data, for the previous calendar year at the issuer level in the form and manner specified by the Secretary:
 
-(i) Receive all such data for a current enrollee from any other payer that has provided coverage to the enrollee within the preceding 5 years;
+(1) The total number of unique enrollees whose data are transferred via the Patient Access API to a health app designated by the enrollee.
 
-(ii) At any time the enrollee is currently enrolled in the plan and up to 5 years after disenrollment, send all such data to any other payer that currently covers the enrollee or a payer the enrollee or the enrollee's personal representative specifically requests receive the data; and
-
-(iii) Send data received from another payer under this paragraph (f) in the electronic form and format it was received.
-
-(2) [Reserved]
+(2) The total number of unique enrollees whose data are transferred more than once via the Patient Access API to a health app designated by the enrollee.
 
 (g) *Enrollee resources regarding privacy and security.* A QHP issuer on a Federally-facilitated Exchange must provide in an easily accessible location on its public website and through other appropriate mechanisms through which it ordinarily communicates with current and former enrollees seeking to access their health information held by the QHP issuer, educational resources in non-technical, simple and easy-to-understand language explaining at a minimum:
 
@@ -76,10 +96,10 @@ Link to an amendment published at 89 FR 8986, Feb. 8, 2024.
 
 (2) The Federally-facilitated Exchange may grant an exception to the requirements in paragraphs (a) through (g) of this section if the Exchange determines that making such health plan available through such Exchange is in the interests of qualified individuals in the State or States in which such Exchange operates.
 
-(i) *Applicability.* A QHP issuer on an individual market Federally-facilitated Exchange, not including QHP issuers offering only stand-alone dental plans, must comply with the requirements in paragraphs (a) through (e) and (g) of this section beginning with plan years beginning on or after January 1, 2021, and with the requirements in paragraph (f) of this section beginning with plan years beginning on or after January 1, 2022 with regard to data:
+(i) *Applicability.* A QHP issuer on an individual market Federally-facilitated Exchange, not including QHP issuers offering only stand-alone dental plans, must comply with the requirements in paragraphs (a) through (e) and (g) of this section beginning with plan years beginning on or after January 1, 2021, and with the requirements in paragraph (f) of this section beginning in 2026, with regard to data:
 
 (1) With a date of service on or after January 1, 2016; and
 
 (2) That are maintained by the QHP issuer for enrollees in QHPs.
 
-[85 FR 25638, May 1, 2020]
+[85 FR 25638, May 1, 2020, as amended at 89 FR 8986, Feb. 8, 2024]

@@ -1,7 +1,5 @@
 ##### § 438.210 Coverage and authorization of services. #####
 
-Link to an amendment published at 89 FR 8980, Feb. 8, 2024.
-
 (a) *Coverage.* Each contract between a State and an MCO, PIHP, or PAHP must do the following:
 
 (1) Identify, define, and specify the amount, duration, and scope of each service that the MCO, PIHP, or PAHP is required to offer.
@@ -58,11 +56,17 @@ Link to an amendment published at 89 FR 8980, Feb. 8, 2024.
 
 (d) *Timeframe for decisions.* Each MCO, PIHP, or PAHP contract must provide for the following decisions and notices:
 
-(1) *Standard authorization decisions.* For standard authorization decisions, provide notice as expeditiously as the enrollee's condition requires and within State-established timeframes that may not exceed 14 calendar days following receipt of the request for service, with a possible extension of up to 14 additional calendar days, if—
+(1) *Standard authorization decisions.* (i) For standard authorization decisions, provide notice as expeditiously as the enrollee's condition requires and:
 
-(i) The enrollee, or the provider, requests extension; or
+(A) For rating periods that start before January 1, 2026, within state established time frames that may not exceed 14 calendar days after receiving the request for service.
 
-(ii) The MCO, PIHP, or PAHP justifies (to the State agency upon request) a need for additional information and how the extension is in the enrollee's interest.
+(B) For rating periods that start on or after January 1, 2026, within state established time frames that may not exceed 7 calendar days after receiving the request for service.
+
+(ii) Standard authorization decisions may have an extension to the timeframes in paragraph (d)(1)(i) of this section up to 14 additional calendar days if—
+
+(A) The enrollee or the provider requests the extension; or
+
+(B) The MCO, PIHP, or PAHP justifies (to the State agency upon request) a need for additional information and how the extension is in the enrollee's interest.
 
 (2) *Expedited authorization decisions.* (i) For cases in which a provider indicates, or the MCO, PIHP, or PAHP determines, that following the standard timeframe could seriously jeopardize the enrollee's life or health or ability to attain, maintain, or regain maximum function, the MCO, PIHP, or PAHP must make an expedited authorization decision and provide notice as expeditiously as the enrollee's health condition requires and no later than 72 hours after receipt of the request for service.
 
@@ -74,8 +78,28 @@ Link to an amendment published at 89 FR 8980, Feb. 8, 2024.
 
 (e) *Compensation for utilization management activities.* Each contract between a State and MCO, PIHP, or PAHP must provide that, consistent with §§ 438.3(i), and 422.208 of this chapter, compensation to individuals or entities that conduct utilization management activities is not structured so as to provide incentives for the individual or entity to deny, limit, or discontinue medically necessary services to any enrollee.
 
-(f) *Applicability date.* (1) Subject to paragraph (f)(2) of this section, this section applies to the rating period for contracts with MCOs, PIHPs, and PAHPs beginning on or after July 1, 2017. Until that applicability date, States are required to continue to comply with § 438.210 contained in the 42 CFR parts 430 to 481, edition revised as of October 1, 2015.
+(f) *Publicly reporting prior authorization metrics.* Beginning January 1, 2026, following each calendar year it has a contract with a State Medicaid agency, the MCO, PIHP, or PAHP must report prior authorization data, excluding data on any and all drugs covered by the MCO, PIHP, or PAHP, at the plan level by March 31. The MCO, PIHP, or PAHP must make the following data from the previous calendar year publicly accessible by posting them on its website:
+
+(1) A list of all items and services that require prior authorization.
+
+(2) The percentage of standard prior authorization requests that were approved, aggregated for all items and services.
+
+(3) The percentage of standard prior authorization requests that were denied, aggregated for all items and services.
+
+(4) The percentage of standard prior authorization requests that were approved after appeal, aggregated for all items and services.
+
+(5) The percentage of prior authorization requests for which the timeframe for review was extended, and the request was approved, aggregated for all items and services.
+
+(6) The percentage of expedited prior authorization requests that were approved, aggregated for all items and services.
+
+(7) The percentage of expedited prior authorization requests that were denied, aggregated for all items and services.
+
+(8) The average and median time that elapsed between the submission of a request and a determination by the MCO, PIHP or PAHP, for standard prior authorizations, aggregated for all items and services.
+
+(9) The average and median time that elapsed between the submission of a request and a decision by the MCO, PIHP or PAHP, for expedited prior authorizations, aggregated for all items and services.
+
+(g) *Applicability date.* (1) Subject to paragraph (f)(2) of this section, this section applies to the rating period for contracts with MCOs, PIHPs, and PAHPs beginning on or after July 1, 2017. Until that applicability date, States are required to continue to comply with § 438.210 contained in the 42 CFR parts 430 to 481, edition revised as of October 1, 2015.
 
 (2) Provisions in this section affecting applicable integrated plans, as defined in § 422.561 of this chapter, are applicable no later than January 1, 2021.
 
-[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017; 84 FR 15843, Apr. 16, 2019]
+[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017; 84 FR 15843, Apr. 16, 2019; 89 FR 8980, Feb. 8, 2024]

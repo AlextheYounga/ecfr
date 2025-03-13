@@ -1,26 +1,34 @@
 ##### § 422.568 Standard timeframes and notice requirements for organization determinations. #####
 
-Link to an amendment published at 89 FR 8976, Feb. 8, 2024.
-
 (a) *Method and place for filing a request.* An enrollee must ask for a standard organization determination by making a request with the MA organization or, if applicable, to the entity responsible for making the determination (as directed by the MA organization), in accordance with the following:
 
 (1) The request may be made orally or in writing, except as provided in paragraph (a)(2) of this section.
 
 (2) Requests for payment must be made in writing (unless the MA organization or entity responsible for making the determination has implemented a voluntary policy of accepting verbal payment requests).
 
-(b) *Timeframes*—(1) *Requests for service or item.* Except as provided in paragraph (b)(1)(i) of this section, when a party has made a request for a service or an item, the MA organization must notify the enrollee of its determination as expeditiously as the enrollee's health condition requires, but no later than 14 calendar days after the date the organization receives the request for a standard organization determination.
+(b) *Timeframes*—(1) *Requests for service or item.* Except as provided in paragraph (b)(2) of this section, when a party has made a request for an item or service, the MA organization must notify the enrollee of its determination as expeditiously as the enrollee's health condition requires but no later than either of the following:
 
-(i) *Extensions; requests for service or item.* The MA organization may extend the timeframe by up to 14 calendar days if—
+(i) For a service or item not subject to the prior authorization rules in § 422.122, 14 calendar days after receiving the request for the standard organization determination.
 
-(A) The enrollee requests the extension;
+(ii) Beginning on or after January 1, 2026, for a service or item subject to the prior authorization rules in § 422.122, 7 calendar days after receiving the request for the standard organization determination.
 
-(B) The extension is justified and in the enrollee's interest due to the need for additional medical evidence from a noncontract provider that may change an MA organization's decision to deny an item or service; or
+(2) *Extensions; requests for service or item*—(i) *Extension of timeframe on a request for service or item.* The MA organization may extend the timeframe by up to 14 calendar days under any of the following circumstances:
+
+(A) The enrollee requests the extension.
+
+(B) The extension is justified and in the enrollee's interest due to the need for additional medical evidence from a noncontract provider that may change an MA organization's decision to deny an item or service.
 
 (C) The extension is justified due to extraordinary, exigent, or other non-routine circumstances and is in the enrollee's interest.
 
-(ii) *Notice of extension.* When the MA organization extends the timeframe, it must notify the enrollee in writing of the reasons for the delay, and inform the enrollee of the right to file an expedited grievance if he or she disagrees with the MA organization's decision to grant an extension. The MA organization must notify the enrollee of its determination as expeditiously as the enrollee's health condition requires, but no later than upon expiration of the extension.
+(ii) *Notice of extension.* (A) When the MA organization extends the timeframe, it must—
 
-(2) *Requests for a Part B drug.* An MA organization must notify the enrollee (and the prescribing physician or other prescriber involved, as appropriate) of its determination as expeditiously as the enrollee's health condition requires, but no later than 72 hours after receipt of the request. This 72-hour period may not be extended under the provisions in paragraph (b)(1)(i) of this section.
+(*1*) Notify the enrollee in writing of the reasons for the delay; and
+
+(*2*) Inform the enrollee of the right to file an expedited grievance if the enrollee disagrees with the MA organization's decision to grant an extension.
+
+(B) The MA organization must notify the enrollee of its determination as expeditiously as the enrollee's health condition requires, but no later than upon expiration of the extension.
+
+(3) *Requests for a Part B drug.* An MA organization must notify the enrollee (and the prescribing physician or other prescriber involved, as appropriate) of its determination as expeditiously as the enrollee's health condition requires, but no later than 72 hours after receipt of the request. This 72-hour period may not be extended under the provisions in paragraph (b)(2) of this section.
 
 (c) *Timeframe for requests for payment.* The MA organization must process requests for payment according to the “prompt payment” provisions set forth in § 422.520.
 
@@ -74,4 +82,4 @@ Link to an amendment published at 89 FR 8976, Feb. 8, 2024.
 
 (k) *Withdrawing a request.* A party that requests an organization determination may withdraw its request at any time before the decision is issued by filing a request with the MA organization.
 
-[65 FR 40329, June 29, 2000, as amended at 70 FR 4739, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 75 FR 19812, Apr. 15, 2010; 75 FR 32859, June 10, 2010; 80 FR 7961, Feb. 12, 2015; 84 FR 23880, May 23, 2019; 86 FR 6101, Jan. 19, 2021]
+[65 FR 40329, June 29, 2000, as amended at 70 FR 4739, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 75 FR 19812, Apr. 15, 2010; 75 FR 32859, June 10, 2010; 80 FR 7961, Feb. 12, 2015; 84 FR 23880, May 23, 2019; 86 FR 6101, Jan. 19, 2021; 89 FR 8976, Feb. 8, 2024]
