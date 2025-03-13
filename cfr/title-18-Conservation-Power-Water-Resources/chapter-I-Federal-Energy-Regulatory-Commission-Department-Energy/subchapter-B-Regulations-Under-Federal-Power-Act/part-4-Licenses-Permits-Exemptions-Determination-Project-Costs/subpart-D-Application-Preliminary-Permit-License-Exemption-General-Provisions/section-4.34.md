@@ -1,7 +1,5 @@
 ##### § 4.34 Hearings on applications; consultation on terms and conditions; motions to intervene; alternative procedures. #####
 
-Link to an amendment published at 89 FR 96529, Dec. 5, 2024.
-
 (a) *Trial-type hearing.* The Commission may order a trial-type hearing on an application for a preliminary permit, a license, or an exemption from licensing upon either its own motion or the motion of any interested party of record. Any trial-type hearing will be limited to the issues prescribed by order of the Commission. In all other cases the hearings will be conducted by notice and comment procedures.
 
 (b) *Notice and comment hearings.* All comments (including mandatory and recommended terms and conditions or prescriptions) on an application for exemption or license must be filed with the Commission no later than 60 days after issuance by the Commission of public notice declaring that the application is ready for environmental analysis. All reply comments must be filed within 105 days of that notice. All comments and reply comments and all other filings described in this section must be served on all persons listed in the service list prepared by the Commission, in accordance with the requirements of § 385.2010 of this chapter. If a party or interceder (as defined in § 385.2201 of this Chapter) submits any written material to the Commission relating to the merits of an issue that may affect the responsibilities of a particular resource agency, the party or interceder must also serve a copy of the submission on this resource agency. The Commission may allow for longer comment or reply comment periods if appropriate. A commenter or reply commenter may obtain an extension of time from the Commission only upon a showing of good cause or extraordinary circumstances in accordance with § 385.2008 of this chapter. Late-filed fish and wildlife recommendations will not be subject to the requirements of paragraphs (e), (f)(1)(ii), and (f)(3) of this section, and late-filed terms and conditions or prescriptions will not be subject to the requirements of paragraphs (f)(1)(iv), (f)(1)(v), and (f)(2) of this section. Late-filed fish and wildlife recommendations, terms and conditions, or prescriptions will be considered by the Commission under section 10(a) of the Federal Power Act if such consideration would not delay or disrupt the proceeding.
@@ -20,17 +18,17 @@ Link to an amendment published at 89 FR 96529, Dec. 5, 2024.
 
 (ii) If an applicant files an amendment to its application that would materially change the project's proposed plans of development, as provided in § 4.35, an agency, Indian tribe or member of the public may modify the recommendations or terms and conditions or prescriptions it previously submitted to the Commission pursuant to paragraphs (b)(1), (b)(2), or (b)(3) of this section no later than the due date specified by the Commission for comments on the amendment.
 
-(5)(i) With regard to certification requirements for a license applicant under section 401(a)(1) of the Federal Water Pollution Control Act (Clean Water Act), an applicant shall file within 60 days from the date of issuance of the notice of ready for environmental analysis:
+(5)(i) With regard to certification requirements under section 401(a)(1) of the Federal Water Pollution Control Act (Clean Water Act) for an application for a license or exemption from licensing, an applicant shall file within 60 days from the date of issuance of the notice of ready for environmental analysis:
 
-(A) A copy of the water quality certification;
+(A) A copy of the water quality certification or the certifying authority's express waiver;
 
-(B) A copy of the request for certification, including proof of the date on which the certifying agency received the request; or
+(B) A copy of the request for certification, including proof of the date on which the certifying authority received the request; or
 
-(C) Evidence of waiver of water quality certification as described in paragraph (b)(5)(ii) of this section.
+(C) Evidence of waiver of water quality certification as described in paragraph (b)(5)(iii) of this section.
 
 (ii) In the case of an application process using the alternative procedures of paragraph 4.34(i), the filing requirement of paragraph (b)(5)(i) shall apply upon issuance of notice the Commission has accepted the application as provided for in paragraph 4.32(d) of this part.
 
-(iii) A certifying agency is deemed to have waived the certification requirements of section 401(a)(1) of the Clean Water Act if the certifying agency has not denied or granted certification by one year after the date the certifying agency received a written request for certification. If a certifying agency denies certification, the applicant must file a copy of the denial within 30 days after the applicant received it.
+(iii) A certifying authority is deemed to have waived the certification requirements of section 401(a)(1) of the Clean Water Act if the certifying authority has not denied, expressly waived, or granted certification by one year after the date the certifying authority received a written request for certification. If a certifying authority denies certification, the applicant must file a copy of the denial within 30 days after the applicant received it.
 
 (c) *Additional procedures.* If necessary or appropriate the Commission may require additional procedures (*e.g.,* a pre-hearing conference, further notice and comment on specific issues or oral argument). A party may request additional procedures in a motion that clearly and specifically sets forth the procedures requested and the basis for the request. Replies to such requests may be filed within 15 days of the request.
 
@@ -122,4 +120,4 @@ Link to an amendment published at 89 FR 96529, Dec. 5, 2024.
 
 (9) If this section requires an applicant to reveal Critical Energy Infrastructure Information (CEII), as defined by § 388.113(c) of this chapter, to any person, the applicant shall follow the procedures set out in § 4.32(k).
 
-[Order 533, 56 FR 23148, May 20, 1991, as amended at 56 FR 61155, Dec. 2, 1991; Order 540, 57 FR 21737, May 22, 1992; Order 596, 62 FR 59810, Nov. 5, 1997; Order 2002, 68 FR 51116, Aug. 25, 2003; Order 643, 68 FR 52094, Sept. 2, 2003; 68 FR 61742, Oct. 30, 2003; Order 756, 77 FR 4893, Feb. 1, 2012; Order 800, 79 FR 59110, Oct. 1, 2014]
+[Order 533, 56 FR 23148, May 20, 1991, as amended at 56 FR 61155, Dec. 2, 1991; Order 540, 57 FR 21737, May 22, 1992; Order 596, 62 FR 59810, Nov. 5, 1997; Order 2002, 68 FR 51116, Aug. 25, 2003; Order 643, 68 FR 52094, Sept. 2, 2003; 68 FR 61742, Oct. 30, 2003; Order 756, 77 FR 4893, Feb. 1, 2012; Order 800, 79 FR 59110, Oct. 1, 2014; 89 FR 96529, Dec. 5, 2024]

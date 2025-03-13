@@ -1,12 +1,10 @@
 ##### 36.603 Collecting data on and appraising firms' qualifications. #####
 
-Link to an amendment published at 89 FR 101831, Dec. 16, 2024.
-
 (a) *Establishing offices.* Agencies shall maintain offices or permanent evaluation boards, or arrange to use the offices or boards of other agencies, to receive and maintain data on firms wishing to be considered for Government contracts. Each office or board shall be assigned a jurisdiction by its parent agency, making it responsible for a geographical region or area, or a specialized type of construction.
 
 (b) *Qualifications data.* To be considered for architect-engineer contracts, a firm must file with the appropriate office or board the Standard Form 330, “Architect-Engineer Qualifications,” Part II, and when applicable, SF 330, Part I.
 
-(c) *Data files and the classification of firms.* Under the direction of the parent agency, offices or permanent evaluation boards shall maintain an architect-engineer qualifications data file. These offices or boards shall review the SF's 254 and 255 filed, and shall classify each firm with respect to:
+(c) *Data files and the classification of firms.* Under the direction of the parent agency, offices or permanent evaluation boards shall maintain an architect-engineer qualifications data file. These offices or boards shall review the SF 330 filed, and shall classify each firm with respect to:
 
 (1) Location;
 
@@ -32,4 +30,4 @@ Link to an amendment published at 89 FR 101831, Dec. 16, 2024.
 
 (e) *Use of data files.* Evaluation boards and other appropriate Government employees, including contracting officers, shall use data files on firms.
 
-[48 FR 42356, Sept. 19, 1983, as amended at 68 FR 69231, Dec. 11, 2003; 74 FR 31560, July 1, 2009]
+[48 FR 42356, Sept. 19, 1983, as amended at 68 FR 69231, Dec. 11, 2003; 74 FR 31560, July 1, 2009; 89 FR 101831, Dec. 16, 2024]

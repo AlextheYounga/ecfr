@@ -1,5 +1,7 @@
 ##### § 800.73 Computation and payment of service fees; general fee information. #####
 
+Link to an amendment published at 90 FR 535, Jan. 6, 2025.
+
 (a) *Computing hourly rates.* The applicable hourly rate will be assessed in quarter hour increments for:
 
 (1) Travel from the FGIS field office or assigned duty station to the service point and return;

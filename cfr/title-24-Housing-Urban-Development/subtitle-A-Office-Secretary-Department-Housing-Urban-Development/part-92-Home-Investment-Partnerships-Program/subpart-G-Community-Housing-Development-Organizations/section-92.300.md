@@ -1,5 +1,7 @@
 ##### § 92.300 Set-aside for community housing development organizations (CHDOs). #####
 
+Link to an amendment published at 90 FR 886, Jan. 6, 2025.
+
 (a) Within 24 months after the date that HUD notifies the participating jurisdiction of HUD's execution of the HOME Investment Partnerships Agreement, the participating jurisdiction must reserve not less than 15 percent of the HOME allocation for investment only in housing to be owned, developed or sponsored by community housing development organizations. For a State, the HOME allocation includes funds reallocated under § 92.451(c)(2)(i) and, for a unit of general local government, includes funds transferred from a State under § 92.102(b). The participating jurisdiction must certify the organization as meeting the definition of “community housing development organization” and must document that the organization has capacity to own, develop, or sponsor housing each time it commits funds to the organization. For purposes of this paragraph:
 
 (1) Funds are reserved when a participating jurisdiction enters into a written agreement with the community housing development organization (or project owner as described in paragraph (a)(4) of this section) committing the funds to a specific local project in accordance with paragraph (2) of the definition of “commitment” in § 92.2.

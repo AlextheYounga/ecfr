@@ -1,5 +1,7 @@
 ##### § 92.203 Income determinations. #####
 
+Link to an amendment published at 90 FR 866, Jan. 6, 2025.
+
 (a) *Methods of determining annual income.* The HOME program has income targeting requirements for the HOME program and for HOME projects. Therefore, the participating jurisdiction must determine each family is income eligible by determining the family's annual income.
 
 (1) If a family is applying for or living in a HOME-assisted rental unit, and the unit is assisted by a Federal or State project-based rental subsidy program, then a participating jurisdiction must accept the public housing agency, owner, or rental subsidy provider's determination of the family's annual income and adjusted income under that program's rules.

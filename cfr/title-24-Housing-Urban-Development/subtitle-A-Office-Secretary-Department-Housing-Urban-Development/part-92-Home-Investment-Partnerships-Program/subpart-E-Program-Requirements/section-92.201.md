@@ -1,5 +1,7 @@
 ##### § 92.201 Distribution of assistance. #####
 
+Link to an amendment published at 90 FR 866, Jan. 6, 2025.
+
 (a) *Local.* (1) Each local participating jurisdiction must, insofar as is feasible, distribute HOME funds geographically within its boundaries and among different categories of housing need, according to the priorities of housing need identified in its approved consolidated plan.
 
 (2) The participating jurisdiction may only invest its HOME funds in eligible projects within its boundaries, or in jointly funded projects within the boundaries of contiguous local jurisdictions which serve residents from both jurisdictions. For a project to be jointly funded, both jurisdictions must make a financial contribution to the project. A jurisdiction's financial contribution may take the form of a grant or loan (including a loan of funds that comes from other federal sources and that are in the jurisdiction's control, such as CDBG program funds) or relief of a significant tax or fee (such as waiver of impact fees, property taxes, or other taxes or fees customarily imposed on projects within the jurisdiction).

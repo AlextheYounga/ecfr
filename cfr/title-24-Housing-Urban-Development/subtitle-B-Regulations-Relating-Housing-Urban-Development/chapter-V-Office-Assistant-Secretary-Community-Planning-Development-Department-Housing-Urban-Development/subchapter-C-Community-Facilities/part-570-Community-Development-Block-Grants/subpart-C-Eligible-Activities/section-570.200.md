@@ -1,5 +1,7 @@
 ##### § 570.200 General policies. #####
 
+Link to an amendment published at 90 FR 894, Jan. 6, 2025.
+
 (a) *Determination of eligibility.* An activity may be assisted in whole or in part with CDBG funds only if all of the following requirements are met:
 
 (1) *Compliance with section 105 of the Act.* Each activity must meet the eligibility requirements of section 105 of the Act as further defined in this subpart.

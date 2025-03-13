@@ -1,0 +1,3 @@
+##### § 14.3 Pre-application meeting. #####
+
+Prior to submitting an application for a right-of-way permit, the potential applicant should contact the superintendent of the System unit that would be affected by the project to schedule a pre-application meeting to discuss the project and the permitting process along with applicable law and policy. Through a pre-application meeting, the NPS may inform the potential applicant about documentation needed to make an application complete, and provide the potential applicant with an expected timeline and potential costs the NPS will incur to review and process the application.

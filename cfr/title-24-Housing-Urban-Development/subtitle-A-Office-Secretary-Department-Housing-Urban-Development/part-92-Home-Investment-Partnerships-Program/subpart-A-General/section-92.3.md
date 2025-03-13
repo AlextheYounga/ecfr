@@ -1,5 +1,7 @@
 ##### § 92.3 Applicability of 2013 regulatory changes. #####
 
+Link to an amendment published at 90 FR 865, Jan. 6, 2025.
+
 The regulations of this part, as revised by final rule published on July 24, 2013 are applicable to projects for which HOME funds are committed on or after August 23, 2013, with the exception of the following provisions;
 
 (a) Section 92.2, for the definition of commitment, the change which eliminates reservations of funds that are not project-specific to CHDOs as a commitment will be applicable on October 22, 2013 and will be implemented by HUD for deadlines that occur on or after January 1, 2015;

@@ -1,5 +1,7 @@
 ##### § 92.212 Pre-award costs. #####
 
+Link to an amendment published at 90 FR 869, Jan. 6, 2025.
+
 (a) *General.* Before the effective date of the HOME Investment Partnership Agreement, the participating jurisdiction may incur costs which may be charged to the HOME allocation after the award of the HOME allocation, provided the costs are in compliance with the requirements of this part (including environmental review requirements) and with the statutory and regulatory requirements in effect at the time the costs are charged to the HOME allocation.
 
 (b) *Administrative and planning costs.* Eligible administrative and planning costs may be incurred as of the beginning of the participating jurisdiction's consolidated program year (see 24 CFR 91.10) or the date the consolidated plan describing the HOME allocation to which the costs will be charged is received by HUD, whichever is later.

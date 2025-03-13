@@ -1,5 +1,7 @@
 ##### § 92.551 Corrective and remedial actions. #####
 
+Link to an amendment published at 90 FR 894, Jan. 6, 2025.
+
 (a) *General.* HUD will use the procedures in this section in conducting the performance review as provided in § 92.550 and in taking corrective and remedial actions.
 
 (b) *Performance review.* (1) If HUD determines preliminarily that the participating jurisdiction has not met a requirement of this part, the participating jurisdiction will be given notice of this determination and an opportunity to demonstrate, within the time prescribed by HUD (not to exceed 30 days) and on the basis of substantial facts and data, that it has done so.

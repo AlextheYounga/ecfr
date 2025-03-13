@@ -1,7 +1,5 @@
 ##### § 300.28 FAD restrictions. #####
 
-Link to an amendment published at 89 FR 96909, Dec. 6, 2024.
-
 (a) *FAD identification requirements for purse seine vessels.* (1) For each FAD deployed or modified on or after January 1, 2017, in the IATTC Convention Area, the vessel owner or operator must either: obtain a unique code from HMS Branch; or use an existing unique identifier associated with the FAD (*e.g.,* the manufacturer identification code for the attached buoy).
 
 (2) U.S. purse seine vessel owners and operators shall ensure the characters of the unique code or unique identifier be marked indelibly at least five centimeters in height on the upper portion of the attached radio or satellite buoy in a location that does not cover the solar cells used to power the equipment. For FADs without attached radio or satellite buoys, the characters shall be on the uppermost or emergent top portion of the FAD. The vessel owner or operator shall ensure the marking is visible at all times during daylight. In circumstances where the on-board observer is unable to view the code, the captain or crew shall assist the observer (*e.g.,* by providing the FAD identification code to the observer).
@@ -50,14 +48,26 @@ Link to an amendment published at 89 FR 96909, Dec. 6, 2024.
 
 (3) Transfer of ownership while the FAD is at sea.
 
-(f) *Restrictions on FAD deployments and removals.* (1) U.S. vessel owners, operators, and crew of purse seine vessels of class size 4-6 (more than 182 metric tons carrying capacity) must not deploy a FAD during a period of 15 days prior to the start of the selected closure period described in § 300.25(e)(1).
+(f) *Restrictions on FAD deployments, removals, and recovery.* (1) U.S. vessel owners, operators, and crew of purse seine vessels of class size 4-6 (more than 182 metric tons carrying capacity) must not deploy a FAD during a period of 15 days prior to the start of the selected closure period described in § 300.25(e)(1).
 
 (2) During the 15 days prior to the start of the closure period selected by the vessel per § 300.25(e)(1), U.S. vessel owners, operators, and crew of purse seine vessels of class size 6 (greater than 363 metric tons carrying capacity) must remove from the water a number of FADs equal to the number of FADs set upon by the vessel during that same 15 day period.
 
-(g) *FAD design requirements to reduce entanglements.* All FADs onboard or deployed in the IATTC Convention Area by U.S. vessel owners, operators, or crew, must comply with the following design requirements:
+(3) U.S. vessel owners and operators may recover FADs for final disposal or recycling. Recovery activities must be limited to the collection of FADs for final disposal or recycling and may not include any type of maintenance or adjustment on deployed FADs.
 
-(1) *Raft:* If the FAD design includes a raft (e.g., flat raft or rolls of material) and if mesh netting is used as part of the structure, the mesh netting shall have a mesh size less than 7 centimeters and the mesh net must be tightly wrapped such that no netting hangs below the FAD when deployed; and,
+(g) *Non-entangling FAD materials.* Beginning January 1, 2025, U.S. purse seine vessel owners and operators must ensure that the design and construction of any FAD to be deployed or redeployed (*i.e.,* placed in the water) in the IATTC Convention Area uses only non-entangling FAD materials.
 
-(2) *Subsurface:* Any netting used in the subsurface structure of the FAD must be tightly tied into bundles (“sausages”), or have stretched mesh size less than 7 centimeters in a panel that is weighted on the lower end with at least enough weight to keep the netting taut in the water column.
+(h) *Biodegradable FAD materials.* In addition to complying with the requirement to use non-entangling materials specified in paragraph (g) of this section, vessel owners and operators must ensure that the design and construction of any FAD to be deployed or redeployed in the IATTC Convention Area meets the following specifications:
 
-[83 FR 15510, Apr. 11, 2018, as amended at 83 FR 62734, Dec. 6, 2018; 87 FR 40741, July 8, 2022]
+(1) Beginning January 1, 2026, all FADs deployed or redeployed in the IATTC Convention Area must be designed and constructed according to one of the following sets of specifications:
+
+(i) The surface part of the FAD must be made of fully biodegradable materials, except for flotation components (*e.g.,* plastic buoys, foam, purse-seine corks), whereas the subsurface part of the FAD may contain non-biodegradable materials (*e.g.,* synthetic raffia, metallic frame, plastic floats, nylon ropes); or
+
+(ii) The subsurface part of the FAD must be made of fully biodegradable materials, whereas the surface part and any flotation components (*e.g.,* plastic buoys, foam, purse-seine corks) of the FAD may contain non-biodegradable materials (*e.g.,* synthetic raffia, metallic frame, plastic floats, nylon ropes); or
+
+(iii) The surface part, except for flotation components (*e.g.,* plastic buoys, foam, purse-seine corks), and subsurface part must be made of fully biodegradable materials. Non-biodegradable materials, in particular nylon ropes, can be used exclusively to strengthen the structure of the floating or underwater component of the FAD.
+
+(2) Beginning January 1, 2029, all FADs deployed or redeployed in the IATTC Convention Area must be made of fully biodegradable materials, except for flotation components (*e.g.,* plastic buoys, foam, purse seine corks), which may be made of non-biodegradable material. Non-biodegradable materials, in particular nylon ropes, can be used exclusively to strengthen the structure of the floating or underwater component of the FAD.
+
+(3) Restrictions on biodegradable FAD materials set forth in paragraphs (h)(1) and (2) of this section do not apply to satellite buoys that are attached to FADs in order to track them.
+
+[83 FR 15510, Apr. 11, 2018, as amended at 83 FR 62734, Dec. 6, 2018; 87 FR 40741, July 8, 2022; 89 FR 96909, Dec. 6, 2024]

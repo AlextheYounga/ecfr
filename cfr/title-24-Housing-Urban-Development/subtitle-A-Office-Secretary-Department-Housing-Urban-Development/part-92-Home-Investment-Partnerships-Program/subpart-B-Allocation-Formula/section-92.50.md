@@ -1,5 +1,7 @@
 ##### § 92.50 Formula allocation. #####
 
+Link to an amendment published at 90 FR 866, Jan. 6, 2025.
+
 (a) *Jurisdictions eligible for a formula allocation.* HUD will provide allocations of funds in amounts determined by the formula described in this section to units of general local governments that, as of the end of the previous fiscal year, are metropolitan cities, urban counties, or consortia approved under § 92.101; and States.
 
 (b) *Amounts available for allocation; State and local share.* The amount of funds that are available for allocation by the formula under this section is equal to the balance of funds remaining after reserving amounts for insular areas, housing education and organizational support, other support for State and local housing strategies, and other purposes authorized by Congress, in accordance with the Act and appropriations.

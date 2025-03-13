@@ -1,5 +1,7 @@
 ##### § 92.351 Affirmative marketing; minority outreach program. #####
 
+Link to an amendment published at 90 FR 887, Jan. 6, 2025.
+
 (a) *Affirmative marketing.* (1) Each participating jurisdiction must adopt and follow affirmative marketing procedures and requirements for rental and homebuyer projects containing five or more HOME-assisted housing units. Affirmative marketing requirements and procedures also apply to all HOME- funded programs, including, but not limited to, tenant-based rental assistance and downpayment assistance programs. Affirmative marketing steps consist of actions to provide information and otherwise attract eligible persons in the housing market area to the available housing without regard to race, color, national origin, sex, religion, familial status, or disability. If participating jurisdiction's written agreement with the project owner permits the rental housing project to limit tenant eligibility or to have a tenant preference in accordance with § 92.253(d)(3), the participating jurisdiction must have affirmative marketing procedures and requirements that apply in the context of the limited/preferred tenant eligibility for the project.
 
 (2) The affirmative marketing requirements and procedures adopted must include:

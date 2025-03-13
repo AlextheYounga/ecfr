@@ -16,8 +16,7 @@ Note 1 to paragraph (a).
 
 See §§ 1.2110 and 1.2112(a)(1) through (7) for further clarification on determining affiliation.
 
-(b) *Qualifying transaction.* A transaction between unaffiliated parties involving a partition and/or disaggregation, long-term leasing arrangement, or full assignment that meets the requirements of either the small carrier or Tribal Nation transaction prong
-pursuant to § 1.60003 or the rural-focused transaction prong pursuant to § 1.60004.
+(b) *Qualifying transaction.* A transaction between unaffiliated parties involving a partition and/or disaggregation, long-term leasing arrangement, or full assignment that meets the requirements of either the small carrier or Tribal Nation transaction prong pursuant to § 1.60003 or the rural-focused transaction prong pursuant to § 1.60004.
 
 (c) *Qualifying geography.* Qualifying Geography is the minimum geography threshold required for the rural-focused transaction prong.
 

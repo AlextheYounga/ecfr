@@ -1,5 +1,7 @@
 ##### § 800.0 Meaning of terms. #####
 
+Link to an amendment published at 90 FR 533, Jan. 6, 2025.
+
 (a) *Construction.* Words used in the singular form shall be considered to imply the plural and vice versa, as appropriate. When a section; e.g., § 800.2, is cited, it refers to the indicated section in these regulations.
 
 (b) *Definitions.* For the purpose of these regulations, unless the context requires otherwise, the following terms shall have the meanings given for them below. The terms defined in the Act have been incorporated herein for easy reference.

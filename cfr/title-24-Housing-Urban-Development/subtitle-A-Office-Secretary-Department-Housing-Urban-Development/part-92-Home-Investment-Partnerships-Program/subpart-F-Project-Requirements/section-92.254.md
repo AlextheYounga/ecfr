@@ -1,5 +1,7 @@
 ##### § 92.254 Qualification as affordable housing: Homeownership. #####
 
+Link to an amendment published at 90 FR 881, Jan. 6, 2025.
+
 (a) *Acquisition with or without rehabilitation.* Housing that is for acquisition by a family must meet the affordability requirements of this paragraph (a).
 
 (1) The housing must be single family housing.

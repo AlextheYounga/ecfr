@@ -2,4 +2,4 @@
 
 In cases where an investigation is being conducted by the Commission in connection with the operation of a broadcast station or a pending application for renewal of a broadcast license, the licensee may file a written statement to the Commission setting forth its views regarding the matters under investigation; the staff, in its discretion, may in writing, advise such licensee of the general nature of the investigation, and advise the licensee of its opportunity to submit such a statement to the staff. Any filing by the licensee will be forwarded to the Commission in conjunction with any staff memorandum recommending that the Commission take action as a result of the invesigation. Nothing in this rule shall supersede the application of our *ex parte* rules to situations described in § 1.1203 of these rules.
 
-(Secs. 4, 303, 307, 48 Stat., as amended, 1066, 1082, 1083; (47 U.S.C. 154, 303, 307))[45 FR 65597, Oct. 3, 1980]
+(Secs. 4, 303, 307, 48 Stat., as amended, 1066, 1082, 1083; (47 U.S.C. 154, 303, 307)) [45 FR 65597, Oct. 3, 1980]

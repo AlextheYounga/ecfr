@@ -2,11 +2,11 @@
 
 (a) In bands shared coequally with terrestrial radio communication services, the equivalent isotropically radiated power transmitted in any direction towards the horizon by an earth station, other than an ESV, operating in frequency bands between 1 and 15 GHz, shall not exceed the following limits except as provided for in paragraph (c) of this section:
 
- \+ 40 dBW in any 4 kHz band for θ ≤0° + 40 + 3θ dBW in any 4 kHz band for 0° \<θ ≤5°where θ is the angle of elevation of the horizon viewed from the center of radiation of the antenna of the earth station and measured in degrees as positive above the horizontal plane and negative below it.
+ \+ 40 dBW in any 4 kHz band for θ ≤0°  + 40 + 3θ dBW in any 4 kHz band for 0° \<θ ≤5° where θ is the angle of elevation of the horizon viewed from the center of radiation of the antenna of the earth station and measured in degrees as positive above the horizontal plane and negative below it.
 
 (b) In bands shared coequally with terrestrial radiocommunication services, the equivalent isotropically radiated power transmitted in any direction towards the horizon by an earth station operating in frequency bands above 15 GHz shall not exceed the following limits except as provided for in paragraph (c) of this section:
 
- \+ 64 dBW in any 1 MHz band for θ ≤0° + 64 + 3 θ dBW in any 1 MHz band for 0° \<θ ≤5°where θ is as defined in paragraph (a) of this section.
+ \+ 64 dBW in any 1 MHz band for θ ≤0°  + 64 + 3 θ dBW in any 1 MHz band for 0° \<θ ≤5° where θ is as defined in paragraph (a) of this section.
 
 (c) For angles of elevation of the horizon greater than 5° there shall be no restriction as to the equivalent isotropically radiated power transmitted by an earth station towards the horizon.
 

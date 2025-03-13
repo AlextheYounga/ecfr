@@ -1,5 +1,7 @@
 ##### § 92.552 Notice and opportunity for hearing; sanctions. #####
 
+Link to an amendment published at 90 FR 894, Jan. 6, 2025.
+
 (a) If HUD finds after reasonable notice and opportunity for hearing that a participating jurisdiction has failed to comply with any provision of this part and until HUD is satisfied that there is no longer any such failure to comply:
 
 (1) HUD shall reduce the funds in the participating jurisdiction's HOME Investment Trust Fund by the amount of any expenditures that were not in accordance with the requirements of this part; and

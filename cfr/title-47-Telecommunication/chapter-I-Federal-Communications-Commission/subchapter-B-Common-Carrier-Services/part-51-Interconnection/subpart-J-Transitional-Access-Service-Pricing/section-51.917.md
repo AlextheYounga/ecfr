@@ -142,8 +142,7 @@
 
 (3) A Rate-of-Return Carrier that elects to receive CAF ICC support must certify with its annual access tariff filing that it has complied with paragraphs (d) and (e), and, after doing so, is eligible to receive the CAF ICC support requested pursuant to paragraph (f) of this section.
 
-(4) Except as provided in paragraph (f)(5) of this section, a Rate-of-Return Carrier must impute an amount equal to the Access Recovery Charge for each Consumer Broadband-Only Loop line that receives support pursuant to § 54.901 of this chapter, with the imputation applied before CAF-ICC recovery is determined.
-The per line per month imputation amount shall be equal to the Access Recovery Charge amount prescribed by paragraph (e) of this section, consistent with the residential or single-line business or multi-line business status of the retail customer.
+(4) Except as provided in paragraph (f)(5) of this section, a Rate-of-Return Carrier must impute an amount equal to the Access Recovery Charge for each Consumer Broadband-Only Loop line that receives support pursuant to § 54.901 of this chapter, with the imputation applied before CAF-ICC recovery is determined. The per line per month imputation amount shall be equal to the Access Recovery Charge amount prescribed by paragraph (e) of this section, consistent with the residential or single-line business or multi-line business status of the retail customer.
 
 (5) Notwithstanding paragraph (f)(4) of this section, commencing July 1, 2018 and ending June 30, 2023, the maximum total dollar amount a carrier must impute on supported consumer broadband-only loops is limited as follows:
 

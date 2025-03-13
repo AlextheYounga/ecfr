@@ -1,7 +1,5 @@
 ##### § 199.620 Alternatives for all vessels in a specified service. #####
 
-Link to an amendment published at 89 FR 97402, Dec. 6, 2024.
-
 (a) *General.* Vessels operating in oceans; coastwise; Great Lakes; lakes, bays, and sounds; and rivers service may comply with alternative requirements to subparts A through E of this part as described in this section for the services specified in table 199.620(a) of this section.
 
 |                                           Section or paragraph in this part:                                            |Service and reference to alternative requirement section or paragraph|                       |                      |              |               |
@@ -28,7 +26,7 @@ Link to an amendment published at 89 FR 97402, Dec. 6, 2024.
 
 (b) *Lifebuoy approval series.* As an alternative to a lifebuoy approved under approval series 160.150, vessels may carry a lifebuoy approved under approval series 160.050.
 
-(c) *Lifejackets approval series.* As an alternative to a lifejacket meeting the approval requirements in § 199.70, vessels may carry a lifejacket approved under approval series 160.002, 160.005, 160.055, or 160.077.
+(c) *Lifejackets approval series.* As an alternative to a lifejacket meeting the approval requirements in § 199.70, vessels may carry a lifejacket approved under approval series in subparts 160.002, 160.005, 160.055, 160.077, or 160.255 of part 160 of this chapter. An inflatable lifejacket approved under approval series in subpart 160.255 of part 160 of this chapter must include a full back-up inflation chamber.
 
 (d) *Lifejacket quantity.* Vessels may carry lifejackets as follows:
 
@@ -110,4 +108,4 @@ Link to an amendment published at 89 FR 97402, Dec. 6, 2024.
 
 (q) For a new liferaft or inflatable buoyant apparatus, the first annual servicing may be deferred to two years after initial packing if so indicated on the servicing sticker.
 
-[CGD 84-069, 61 FR 25313, May 20, 1996; 61 FR 40281, Aug. 1, 1996, as amended at 63 FR 52820, Oct. 1, 1998; 63 FR 56066, Oct. 20, 1998; USCG-2001-10224, 66 FR 48621, Sept. 21, 2001; USCG-2001-11118, 67 FR 58542, Sept. 17, 2002]
+[CGD 84-069, 61 FR 25313, May 20, 1996; 61 FR 40281, Aug. 1, 1996, as amended at 63 FR 52820, Oct. 1, 1998; 63 FR 56066, Oct. 20, 1998; USCG-2001-10224, 66 FR 48621, Sept. 21, 2001; USCG-2001-11118, 67 FR 58542, Sept. 17, 2002; USCG-2022-0120, 89 FR 97402, Dec. 6, 2024]

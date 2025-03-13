@@ -1,5 +1,7 @@
 ##### § 92.500 The HOME Investment Trust Fund. #####
 
+Link to an amendment published at 90 FR 888, Jan. 6, 2025.
+
 (a) *General.* A HOME Investment Trust Fund consists of the accounts described in this section solely for investment in accordance with the provisions of this part. HUD will establish a HOME Investment Trust Fund United States Treasury account for each participating jurisdiction. Each participating jurisdiction may use either a separate local HOME Investment Trust Fund account or, a subsidiary account within its general fund (or other appropriate fund) as the local HOME Investment Trust Fund account.
 
 (b) *Treasury Account.* The United States Treasury account of the HOME Investment Trust Fund includes funds allocated to the participating jurisdiction under § 92.50 (including for a local participating jurisdiction, any transfer of the State's allocation pursuant to § 92.102(b)(2)) and funds reallocated to the participating jurisdiction, either by formula or by competition, under subpart J of this part; and

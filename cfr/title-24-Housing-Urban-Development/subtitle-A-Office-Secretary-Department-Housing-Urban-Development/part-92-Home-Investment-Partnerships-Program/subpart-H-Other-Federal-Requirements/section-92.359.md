@@ -1,5 +1,7 @@
 ##### § 92.359 VAWA requirements. #####
 
+Link to an amendment published at 90 FR 888, Jan. 6, 2025.
+
 (a) *General.* (1) The Violence Against Women Act (VAWA) requirements set forth in 24 CFR part 5, subpart L, apply to all HOME tenant-based rental assistance and rental housing assisted with HOME funds, as supplemented by this section.
 
 (2) For the HOME program, the “covered housing provider,” as this term is used in HUD's regulations in 24 CFR part 5, subpart L, refers to:

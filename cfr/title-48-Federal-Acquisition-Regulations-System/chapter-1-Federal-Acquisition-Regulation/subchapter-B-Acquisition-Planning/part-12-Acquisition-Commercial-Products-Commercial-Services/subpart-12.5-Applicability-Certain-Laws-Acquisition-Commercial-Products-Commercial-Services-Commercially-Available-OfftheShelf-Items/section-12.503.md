@@ -1,7 +1,5 @@
 ##### 12.503 Applicability of certain laws to Executive agency contracts for the acquisition of commercial products and commercial services. #####
 
-Link to an amendment published at 89 FR 101826, Dec. 16, 2024.
-
 (a) The following laws are not applicable to Executive agency contracts for the acquisition of commercial products or commercial services:
 
 (1) 10 U.S.C. 983, Institutions of Higher Education that Prevent ROTC Access or Military Recruiting on Campus: Denial of Grants and Contracts from Department of Defense, Department of Education, and Certain Other Departments and Agencies (see 9.110).
@@ -32,7 +30,7 @@ Link to an amendment published at 89 FR 101826, Dec. 16, 2024.
 
 (3) 41 U.S.C. 8703 and 8704, Requirement for a clause and certain other requirements related to kickbacks (see 3.502).
 
-(4) 49 U.S.C. 40118, Requirement for a clause under the Fly American provisions (see 47.405).
+(4) 49 U.S.C. 40118, Requirement for a clause under provisions of the Government-financed air transportation statute, commonly referred to as the Fly America Act, except that 49 U.S.C. 40118(g) is applicable to the acquisition of commercial services (see 47.405).
 
 (c) The applicability of the following laws have been modified in regard to Executive agency contracts for the acquisition of commercial products and commercial services:
 

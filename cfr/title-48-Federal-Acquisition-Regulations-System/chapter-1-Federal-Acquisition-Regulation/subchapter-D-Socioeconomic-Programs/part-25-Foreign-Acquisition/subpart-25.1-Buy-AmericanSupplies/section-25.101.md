@@ -1,7 +1,5 @@
 ##### 25.101 General. #####
 
-Link to an amendment published at 89 FR 101831, Dec. 16, 2024.
-
 (a) The Buy American statute restricts the purchase of supplies that are not domestic end products. For manufactured end products, the Buy American statute, E.O. 13881, and E.O. 14005 use a two-part test to define a domestic end product.
 
 (1) The article must be manufactured in the United States; and
@@ -20,6 +18,6 @@ Link to an amendment published at 89 FR 101831, Dec. 16, 2024.
 
 (i) See 25.1101(a)(1)(ii) or 25.1101(b)(1)(v) for use of the appropriate Alternate clause to reflect the domestic content threshold that will apply to the entire period of performance for that contract; and
 
-(ii) Use the fill-in at 52.213-4(b)(1)(xvii)(B) instead of including 52.225-1 Alternate I when using 52.213-4, Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services).
+(ii) Use the fill-in at52.213-4(b)(1)(xviii)(B) instead of including 52.225-1 Alternate I when using 52.213-4, Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services).
 
-[64 FR 72419, Dec. 27, 1999, as amended at 74 FR 2722, Jan. 15, 2009; 79 FR 24208, Apr. 29, 2014; 86 FR 6187, Jan. 19, 2021; 87 FR 12790, Mar. 7, 2022]
+[64 FR 72419, Dec. 27, 1999, as amended at 74 FR 2722, Jan. 15, 2009; 79 FR 24208, Apr. 29, 2014; 86 FR 6187, Jan. 19, 2021; 87 FR 12790, Mar. 7, 2022; 89 FR 101831, Dec. 16, 2024]

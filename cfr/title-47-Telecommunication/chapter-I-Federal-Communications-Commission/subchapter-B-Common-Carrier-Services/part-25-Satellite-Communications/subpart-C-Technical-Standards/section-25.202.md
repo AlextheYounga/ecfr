@@ -1,24 +1,22 @@
 ##### § 25.202 Frequencies, frequency tolerance, and emission limits. #####
 
-Link to an amendment published at 89 FR 96602, Dec. 5, 2024.
-
 (a)(1) In addition to the frequency-use restrictions set forth in § 2.106 of this chapter, the following restrictions apply:
 
 (i) In the 27.5-28.35 GHz band, the FSS (Earth-to-space) is secondary to the Upper Microwave Flexible Use Service authorized pursuant to part 30 of this chapter, except for FSS operations associated with earth stations authorized pursuant to § 25.136.
 
 (ii) Use of the 37.5-40 GHz band by the FSS (space-to-Earth) is limited to individually licensed earth stations. Earth stations in this band must not be ubiquitously deployed and must not be used to serve individual consumers.
 
-(iii) The U.S. non-Federal Table of Frequency Allocations, in § 2.106 of this chapter, is applicable between Commission space station licensees relying on a U.S. ITU filing and transmitting to or receiving from anywhere on Earth, including airborne earth stations, in the 17.7-20.2 GHz or 27.5-30 GHz bands.
+(iii) The U.S. non-Federal Table of Frequency Allocations, in § 2.106 of this chapter, is applicable between Commission space station licensees relying on a U.S. ITU filing and transmitting to or receiving from anywhere on Earth, including airborne earth stations, in the 17.3-20.2 GHz or 27.5-30.0 GHz bands.
 
 (2) [Reserved]
 
 (3) The following frequencies are available for use by the non-voice, non-geostationary mobile-satellite service:
 
-137-138 MHz: Space-to-Earth148-150.05 MHz: Earth-to-space399.9-400.05 MHz: Earth-to-space400.15-401 MHz: Space-to-Earth
+137-138 MHz: Space-to-Earth 148-150.05 MHz: Earth-to-space 399.9-400.05 MHz: Earth-to-space 400.15-401 MHz: Space-to-Earth
 
 (4)(i) The following frequencies are available for use by the 1.6/2.4 GHz Mobile-Satellite Service:
 
-1610-1626.5 MHz: User-to-Satellite Link1613.8-1626.5 MHz: Satellite-to-User Link (secondary)2483.5-2500 MHz: Satellite-to-User Link
+1610-1626.5 MHz: User-to-Satellite Link 1613.8-1626.5 MHz: Satellite-to-User Link (secondary) 2483.5-2500 MHz: Satellite-to-User Link
 
 (ii) The following frequencies are available for use by the 2 GHz Mobile-Satellite Service: 2000-2020 MHz: User-to-Satellite Link; 2180-2200 MHz: Satellite-to-User Link.
 
@@ -88,7 +86,33 @@ Use of the 17.7-17.8 GHz band (space-to-Earth) by the broadcasting-satellite ser
 
 (iii) The following frequencies are available for use by Earth Stations in Motion (ESIMs) communicating with NGSO FSS space stations, subject to the provisions in § 2.106 of this chapter:
 
-10.7-11.7 GHz (space-to-Earth)11.7-12.2 GHz (space-to-Earth)14.0-14.5 GHz (Earth-to-space)17.8-18.3 GHz (space-to-Earth)18.3-18.6 GHz (space-to-Earth)18.8-19.3 GHz (space-to-Earth)19.3-19.4 GHz (space-to-Earth)19.6-19.7 GHz (space-to-Earth)19.7-20.2 GHz (space-to-Earth)28.4-28.6 GHz (Earth-to-space)28.6-29.1 GHz (Earth-to-space)29.5-30.0 GHz (Earth-to-space)
+10.7-11.7 GHz (space-to-Earth)
+
+11.7-12.2 GHz (space-to-Earth)
+
+14.0-14.5 GHz (Earth-to-space)
+
+17.3-17.7 GHz (space-to-Earth)
+
+17.7-17.8 GHz (space-to-Earth)
+
+17.8-18.3 GHz (space-to-Earth)
+
+18.3-18.6 GHz (space-to-Earth)
+
+18.8-19.3 GHz (space-to-Earth)
+
+19.3-19.4 GHz (space-to-Earth)
+
+19.6-19.7 GHz (space-to-Earth)
+
+19.7-20.2 GHz (space-to-Earth)
+
+28.4-28.6 GHz (Earth-to-space)
+
+28.6-29.1 GHz (Earth-to-space)
+
+29.5-30.0 GHz (Earth-to-space)
 
 (11) [Reserved]
 

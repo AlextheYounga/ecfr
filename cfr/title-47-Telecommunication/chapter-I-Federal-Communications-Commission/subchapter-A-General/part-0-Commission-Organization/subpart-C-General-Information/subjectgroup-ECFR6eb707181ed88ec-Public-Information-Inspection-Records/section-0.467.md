@@ -6,7 +6,7 @@ Note to paragraph (a)(1):
 
 The fees for FCC employees will be modified periodically to correspond with modifications in the rate of pay approved by Congress and any such modifications will be announced by public notice and will be posted on the Commission's Web site, *http://www.fcc.gov/foia/#feeschedule.*
 
-(2) The fees specified in paragraph (a)(1) of this section are computed at Step 5 of each grade level based on the General Schedule or the hourly rate of non-FCC personnel, including in addition twenty percent for personnel benefits. Search and review fees will be assessed in1/4 hour increments.
+(2) The fees specified in paragraph (a)(1) of this section are computed at Step 5 of each grade level based on the General Schedule or the hourly rate of non-FCC personnel, including in addition twenty percent for personnel benefits. Search and review fees will be assessed in 1/4 hour increments.
 
 (b) Search fees may be assessed for time spent searching, even if the Commission fails to locate responsive records or if any records located are determined to be exempt from disclosure.
 

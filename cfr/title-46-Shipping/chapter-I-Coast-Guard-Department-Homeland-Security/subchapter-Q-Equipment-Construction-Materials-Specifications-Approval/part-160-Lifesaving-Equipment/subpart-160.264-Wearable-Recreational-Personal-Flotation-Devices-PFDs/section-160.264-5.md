@@ -1,0 +1,7 @@
+##### § 160.264-5 Incorporation by reference. #####
+
+Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at the Coast Guard Headquarters and at the National Archives and Records Administration (NARA). Contact Commandant (CG-ENG-4), Attn: Lifesaving and Fire Safety Division, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE, Washington, DC 20593-7509. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations* or email *fr.inspection@nara.gov*. The material may be obtained from UL, 333 Pfingsten Road, Northbrook, IL 60062-2002; phone (847) 272-8800; website: *www.ul.com*.
+
+(a) ANSI/CAN/UL 9595:2021, Standard for Safety Factory Follow-Up on Personal Flotation Devices (PFDs), First Edition, June 4, 2020 (including revisions through September 9, 2021) (“ANSI/CAN/UL 9595”); IBR approved for § 160.264-15(a).
+
+(b) ANSI/CAN/UL 12402-5:2022, Standard for Safety Personal Flotation Devices—Part 5: Buoyancy Aids (Level 50)—Safety Requirements, First Edition, December 31, 2015 (including revisions through January 27, 2022) (“ANSI/CAN/UL 12402-5”); IBR approved for §§ 160.264-7(a) and (b); 160.264-13(a) and (b); 160.264-17(a); 160.264-19; 160.264-21(a).

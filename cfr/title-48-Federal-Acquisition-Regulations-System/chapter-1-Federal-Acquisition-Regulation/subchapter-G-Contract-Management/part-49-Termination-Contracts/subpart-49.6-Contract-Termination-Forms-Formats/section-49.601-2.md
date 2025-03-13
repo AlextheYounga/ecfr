@@ -1,14 +1,12 @@
 ##### 49.601-2 Letter notice. #####
 
-Link to an amendment published at 89 FR 101831, Dec. 16, 2024.
-
 The following letter notice of termination is suggested for use if a contract for supplies is being terminated for convenience.
 With appropriate modifications, it may be used in terminating contracts for other than supplies and in terminating subcontracts.
 This notice shall be sent by certified mail, return receipt requested, or electronically, provided evidence of receipt is received by the contracting officer. If no prior electronic notice was issued, or if no confirmation of an electronic notice was received, use the alternate notice that follows this notice.
 
-*line items, etc.”*
+*Notice of Termination to Prime Contractors*
 
-[*At the top of the notice, set out all special details relating to the particular termination; e.g., name and address of company, contract number of terminated contract, items, etc.*]
+[*At the top of the notice, set out all special details relating to the particular termination; e.g., name and address of company, contract number of terminated contract, line items, etc.*]
 
 (a) *Effective date of termination.* This confirms the Government's electronic notice to you dated \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_, terminating \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ [*insert* “completely” *or* “in part”] Contract No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (referred to as “the contract”) for the Government's convenience under the clause entitled \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ [*insert title of appropriate termination clause*]. The termination is effective on the date and in the manner stated in the electronic notice.
 
@@ -90,4 +88,4 @@ The undersigned acknowledges receipt of a signed copy of this notice on \_\_\_\_
 
 (a) *Effective date of termination.* You are notified that Contract No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (referred to as “the contract”) is terminated \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ [*insert* “completely” *or* “in part”] for the Government's convenience under the clause entitled \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ [*insert title of appropriate termination clause*]. The termination is effective \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ [*insert either* “immediately upon receipt of this Notice” *or* “on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_,” *or* “as soon as you have delivered, including prior deliveries, the following items:” (*list*)]. Reduce items to be delivered as follows: [*insert instructions*].
 
-[48 FR 42447, Sept. 19, 1983, as amended at 65 FR 36031, June 6, 2000; 81 FR 83099, Nov. 18, 2016; 82 FR 4714, Jan. 13, 2017]
+[48 FR 42447, Sept. 19, 1983, as amended at 65 FR 36031, June 6, 2000; 81 FR 83099, Nov. 18, 2016; 82 FR 4714, Jan. 13, 2017; 89 FR 101831, Dec. 16, 2024]

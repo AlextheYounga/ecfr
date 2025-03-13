@@ -1,8 +1,6 @@
 ##### 22.1703 Policy. #####
 
-Link to an amendment published at 89 FR 101826, Dec. 16, 2024.
-
-The United States Government has adopted a policy prohibiting trafficking in persons, including the trafficking-related activities below. Additional information about trafficking in persons may be found at the Web site for the Department of State's Office to Monitor and Combat Trafficking in Persons at *http://www.state.gov/j/tip*/. Government solicitations and contracts shall—
+The United States Government has adopted a policy prohibiting trafficking in persons, including the trafficking-related activities below. Additional information about trafficking in persons may be found at the website for the Department of State's Office to Monitor and Combat Trafficking in Persons at *http://www.state.gov/j/tip/.* See 47.405(b) for contract reporting requirements concerning training to prevent human trafficking for domestic carrier air transportation; 47.405(b) is not applicable to contracts awarded by the Department of Defense or contracts for commercial products. Government solicitations and contracts shall—
 
 (a) Prohibit contractors, contractor employees, subcontractors, subcontractor employees, and their agents from—
 
@@ -90,4 +88,4 @@ The United States Government has adopted a policy prohibiting trafficking in per
 
 (e) Provide suitable remedies, including termination, to be imposed on contractors that fail to comply with the requirements of paragraphs (a) through (d) of this section.
 
-[72 FR 46341, Aug. 17, 2007, as amended at 74 FR 2744, Jan. 15, 2009; 80 FR 4987, Jan. 29, 2015; 83 FR 65477, Dec. 20, 2018; 85 FR 62489, Oct. 2, 2020]
+[72 FR 46341, Aug. 17, 2007, as amended at 74 FR 2744, Jan. 15, 2009; 80 FR 4987, Jan. 29, 2015; 83 FR 65477, Dec. 20, 2018; 85 FR 62489, Oct. 2, 2020; 89 FR 101826, Dec. 16, 2024]

@@ -1,5 +1,7 @@
 ##### § 92.214 Prohibited activities and fees. #####
 
+Link to an amendment published at 90 FR 869, Jan. 6, 2025.
+
 (a) HOME funds may not be used to:
 
 (1) Provide project reserve accounts, except as provided in § 92.206(d)(5), or operating subsidies;

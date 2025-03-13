@@ -1,12 +1,12 @@
 ##### § 300.21 Definitions. #####
 
-Link to an amendment published at 89 FR 96909, Dec. 6, 2024.
-
 In addition to the terms defined in § 300.2, in the Act, the Convention for the Establishment of an Inter-American Tropical Tuna Commission (Convention), and the Convention for the Strengthening of the Inter-American Tropical Tuna Commission Established by the 1949 Convention between the United States of America and the Republic of Costa Rica (Antigua Convention), the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, in the Act, or in the Antigua Convention, the definition in this section shall apply.
 
 *Activation of a satellite buoy* means the act of initializing network service for receiving the satellite buoy's position. Activation is done by the buoy supplier company at the request of the vessel owner or manager. Following activation, the vessel owner pays for the communication service. The buoy can be transmitting or not, depending if it has been switched on.
 
 *Active FAD* means a FAD deployed at sea where activation of the satellite buoy has occurred and the satellite buoy is transmitting its location and is being tracked by the vessel owner or operator. A FAD shall be considered an Active FAD unless/until the vessel owner or operator is no longer tracking its location and the vessel owner or operator notifies the IATTC that the FAD is deactivated.
+
+*Biodegradable* means non-synthetic materials and/or bio-based alternatives that are consistent with approved international standards for materials that are biodegradable in marine environments. The components resulting from the degradation of these materials should not be damaging to the marine and coastal ecosystems or include heavy metals or plastics in their composition. Examples of non-synthetic materials include plant-based materials such as cotton, jute, manila hemp (abaca), bamboo, and natural rubber; and animal-based materials such as leather, wool, and lard. The approved international standards are ASTM D6691, ASTM D7881, and TUV Austria.
 
 *Commercial* with respect to commercial fishing, means fishing in which the fish harvested, either in whole or in part, are intended to enter commerce through sale, barter or trade.
 
@@ -43,6 +43,8 @@ In addition to the terms defined in § 300.2, in the Act, the Convention for the
 *Mesh size* means the distance between the inside of one knot to the inside of the opposing knot when the mesh is stretched, regardless of twine size.
 
 *Mobulid ray* means any animal in the family Mobulidae, which includes manta rays (*Manta spp.*) and devil rays (*Mobula spp.*).
+
+*Non-entangling FAD* means a FAD that does not include any netting materials for any part of the FAD including both the surface structure (*e.g.,* raft) and subsurface structure (*e.g.,* tail).
 
 *Observer* means an individual placed aboard a fishing vessel under the IATTC observer program or any other international observer program in which the United States may participate.
 

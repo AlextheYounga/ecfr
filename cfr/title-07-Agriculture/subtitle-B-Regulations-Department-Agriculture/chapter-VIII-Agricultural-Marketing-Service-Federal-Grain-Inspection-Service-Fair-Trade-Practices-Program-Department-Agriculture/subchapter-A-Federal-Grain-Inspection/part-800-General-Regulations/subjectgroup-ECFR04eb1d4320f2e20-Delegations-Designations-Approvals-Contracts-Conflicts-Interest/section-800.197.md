@@ -1,5 +1,7 @@
 ##### § 800.197 Approval as a scale testing and certification organization. #####
 
+Link to an amendment published at 90 FR 535, Jan. 6, 2025.
+
 (a) *Who may apply.* Any State, local government, or person may request approval to perform scale testing and certification under the Act.
 
 (b) *When and how to apply.* A request for approval to perform scale testing and certification under the Act should be filed with the Service not less than 90 calendar days before the requested action's effective date. A request for approval to perform scale testing and certification shall:

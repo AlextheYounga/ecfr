@@ -1,5 +1,7 @@
 ##### § 92.502 Program disbursement and information system. #####
 
+Link to an amendment published at 90 FR 888, Jan. 6, 2025.
+
 (a) *General.* The HOME Investment Trust Fund account established in the United States Treasury is managed through a computerized disbursement and information system established by HUD. The system disburses HOME funds that are allocated or reallocated, and collects and reports information on the use of HOME funds in the United States Treasury account. (For purposes of reporting in the Integrated Disbursement and Information System, a HOME project is an activity.) The participating jurisdiction must report all program income in HUD's computerized disbursement and information system.
 
 (b) *Project set-up.* After the participating jurisdiction executes the HOME Investment Partnership Agreement, submits the applicable banking and security documents, complies with the environmental requirements under 24 CFR part 58 for release of funds and commits funds to a specific local project, the participating jurisdiction may identify (set up) specific investments in the disbursement and information system. Investments that require the set-up of projects in the system are the acquisition, new construction, or rehabilitation of housing, and the provision of tenant-based rental assistance. The participating jurisdiction is required to enter complete project set-up information at the time of project set-up.

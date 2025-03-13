@@ -1,5 +1,7 @@
 ##### § 92.454 Reallocations by formula. #####
 
+Link to an amendment published at 90 FR 888, Jan. 6, 2025.
+
 (a) HUD will reallocate under this section:
 
 (1) Any HOME funds remaining available for reallocation after HUD has made competitive reallocations under § 92.451 and § 92.452;

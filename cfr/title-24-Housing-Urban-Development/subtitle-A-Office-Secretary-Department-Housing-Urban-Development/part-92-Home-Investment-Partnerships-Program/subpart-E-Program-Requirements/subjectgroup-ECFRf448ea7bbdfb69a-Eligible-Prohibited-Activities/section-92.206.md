@@ -1,5 +1,7 @@
 ##### § 92.206 Eligible project costs. #####
 
+Link to an amendment published at 90 FR 867, Jan. 6, 2025.
+
 HOME funds may be used to pay the following eligible costs:
 
 (a) *Development hard costs.* The actual cost of constructing or rehabilitating housing. These costs include the following:

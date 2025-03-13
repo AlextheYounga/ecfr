@@ -1,5 +1,7 @@
 ##### § 92.220 Form of matching contribution. #####
 
+Link to an amendment published at 90 FR 870, Jan. 6, 2025.
+
 (a) *Eligible forms.* Matching contributions must be made from nonfederal resources and may be in the form of one or more of the following:
 
 (1) *Cash contributions from nonfederal sources.* To be recognized as a cash contribution, funds must be contributed permanently to the HOME program (or to affordable housing not assisted with HOME funds), regardless of the form of investment provided to the project. Therefore, to receive match credit for the full amount of a loan to a HOME project, all repayment, interest, or other return on investment of the contribution must be deposited in the local account of the participating jurisdiction's HOME Investment Trust Fund to be used for eligible HOME activities in accordance with the requirements of this part. A cash contribution to affordable housing that is not assisted with HOME funds must be contributed permanently to the project. Repayments of matching contributions in affordable housing projects, as defined in § 92.219(b), that are not HOME-assisted, must be made to the local account of the participating jurisdiction's HOME Investment Trust Fund to get match credit for the full loan amount.

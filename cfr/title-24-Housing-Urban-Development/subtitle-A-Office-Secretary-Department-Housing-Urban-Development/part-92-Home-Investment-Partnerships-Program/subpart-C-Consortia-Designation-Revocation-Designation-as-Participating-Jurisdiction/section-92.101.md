@@ -1,5 +1,7 @@
 ##### § 92.101 Consortia. #####
 
+Link to an amendment published at 90 FR 866, Jan. 6, 2025.
+
 (a) A consortium of geographically contiguous units of general local government is a unit of general local government for purposes of this part if the requirements of this section are met.
 
 (1) One or more members of a proposed consortium or an existing consortium whose consortium qualification terminates at the end of the fiscal year, must provide written notification to the HUD Field Office of its intent to participate as a consortium in the HOME Program for the following fiscal year. HUD shall establish the deadline for this submission.

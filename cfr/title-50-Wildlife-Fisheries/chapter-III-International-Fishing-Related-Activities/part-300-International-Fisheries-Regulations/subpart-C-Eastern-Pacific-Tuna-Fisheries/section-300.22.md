@@ -1,7 +1,5 @@
 ##### § 300.22 Recordkeeping and reporting requirements. #####
 
-Link to an amendment published at 89 FR 96909, Dec. 6, 2024.
-
 (a) *Logbooks*—(1) *General logbook reporting.* The master or other person in charge of a commercial fishing vessel or commercial passenger fishing vessel (CPFV) authorized to fish for tuna and tuna-like species in the Convention Area, or a person authorized in writing to serve as the agent for either person, must keep an accurate log of operations conducted from the fishing vessel.
 
 (2) *Longline and other non-purse seine logbooks.* Maintaining and submitting any logbook required by existing state or Federal regulation will be sufficient to comply with paragraph (a)(1) of this section.
@@ -18,6 +16,8 @@ Link to an amendment published at 89 FR 96909, Dec. 6, 2024.
 
 (4) *Reactivation of Active FADs.* U.S. vessel owners and operators must report any remote reactivation of a satellite buoy, including the reason for remote reactivation, date, latitude, longitude, buoy identifier, speed. This information must be reported to the IATTC, using a format and address provided by the HMS Branch. This information must be submitted for each calendar month no later than 90 days after the month covered by the report.
 
+(5) *Reporting on recovered FADs.* U.S. vessel owners and operators must report information on FADs that are recovered for disposal or recycling to the IATTC, unless that information is already reported to the IATTC by an observer. This information must be reported using a format and address provided by the HMS Branch. The owner and operator must ensure that the form is submitted within 30 days of each recovery to the address specified by the HMS Branch.
+
 (d) *Cannery reporting.* U.S. vessel owners and operators must report processing plant data for fish caught in the IATTC Convention Area to the IATTC, and also make the data available to NMFS upon request, no later than 10 days after completion of unloading and the last day of grading by size. Instructions for reporting are available in a compliance guide.
 
-[87 FR 40736, July 8, 2022]
+[87 FR 40736, July 8, 2022, as amended at 89 FR 96909, Dec. 6, 2024]

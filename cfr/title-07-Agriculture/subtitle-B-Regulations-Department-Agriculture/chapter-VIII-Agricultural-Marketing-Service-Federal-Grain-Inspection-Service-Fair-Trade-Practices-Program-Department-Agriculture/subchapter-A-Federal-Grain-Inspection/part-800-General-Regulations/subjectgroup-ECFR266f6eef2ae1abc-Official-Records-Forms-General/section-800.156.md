@@ -1,5 +1,7 @@
 ##### § 800.156 Official inspection records. #####
 
+Link to an amendment published at 90 FR 535, Jan. 6, 2025.
+
 (a) *Pan tickets.* The record for each kind of official inspection service identified in § 800.76 shall, in addition to the official certificate, consist of one or more pan tickets as prescribed in the instructions. Activities that are performed as a series during the course of an inspection service may be recorded on one pan ticket or on separate pan tickets. The original copy of each pan ticket shall be retained by the agency or field office that performed the inspection.
 
 (b) *Inspection logs.* The record of an official inspection service for grain in a combined lot and shiplot shall include the official inspection log as prescribed in the instructions. The original copy of each inspection log shall be retained by the agency or field office that performed the inspection. If the inspection is performed by an agency, one copy of the inspection log shall be promptly sent to the appropriate field office.

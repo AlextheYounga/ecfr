@@ -1,7 +1,5 @@
 ##### 47.401 Definitions. #####
 
-Link to an amendment published at 89 FR 101827, Dec. 16, 2024.
-
 As used in this subpart—
 
 *Air freight forwarder* means an indirect air carrier that is responsible for the transportation of property from the point of receipt to the point of destination, and utilizes for the whole or any part of such transportation the services of a direct air carrier or its agent, or of another air freight forwarder.
@@ -14,6 +12,6 @@ As used in this subpart—
 
 *United States* means the 50 States, the District of Columbia, and outlying areas of the United States.
 
-*U.S.-flag air carrier* means an air carrier holding a certificate under section 401 of the Federal Aviation Act of 1958 (49 U.S.C. 41102).
+*U.S.-flag air carrier* means an entity granted authority to provide air transportation in the form of a certificate of public convenience and necessity under 49 U.S.C. 41102.
 
-[48 FR 42424, Sept. 19, 1983, as amended at 66 FR 2134, Jan. 10, 2001; 68 FR 28084, May 22, 2003]
+[48 FR 42424, Sept. 19, 1983, as amended at 66 FR 2134, Jan. 10, 2001; 68 FR 28084, May 22, 2003; 89 FR 101827, Dec. 16, 2024]

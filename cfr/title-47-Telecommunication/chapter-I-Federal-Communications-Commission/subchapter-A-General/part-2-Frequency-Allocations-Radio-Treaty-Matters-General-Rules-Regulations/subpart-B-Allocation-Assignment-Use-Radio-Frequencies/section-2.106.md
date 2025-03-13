@@ -1,6 +1,6 @@
 ##### § 2.106 Table of Frequency Allocations. #####
 
-Link to an amendment published at 89 FR 96601, Dec. 5, 2024.Link to an amendment published at 89 FR 100865, Dec. 13, 2024.
+Link to an amendment published at 89 FR 100865, Dec. 13, 2024.
 
 (a) *Allocation Table.* The Table of Frequency Allocations (Allocation Table) consists of the International Table of Frequency Allocations (International Table), the United States Table of Frequency Allocations (United States Table), and the FCC rule part(s) cross references as described in §§ 2.104 and 2.105, respectively. The International Telecommunication Union (ITU) Radio Regulations are described in § 2.100. The definitions of terms and acronyms used in the Allocation Table are specified in § 2.1. The footnotes to the Allocation Table are listed in ascending numerical order in paragraphs (b) through (e) of this section; however, in some cases, a letter(s) has/have been appended to the digit(s) of a footnote number in order to preserve the sequential order.
 
@@ -3049,13 +3049,13 @@ The provisions of paragraphs (d)(53)(i) through (iii) of this section shall not 
 
 (58) NG58 In the band 17.3-17.8 GHz, the following provisions shall apply to the broadcasting-satellite, fixed, and fixed-satellite services:
 
-(i) The use of the band 17.3-17.8 GHz by the broadcasting-satellite and fixed-satellite (space-to-Earth) services is limited to geostationary satellites.
+(i) The use of the band 17.3-17.8 GHz by the broadcasting-satellite service is limited to geostationary satellites.
 
 (ii) The use of the band 17.3-17.8 GHz by the fixed-satellite service (Earth-to-space) is limited to feeder links for broadcasting-satellite service.
 
 (iii) The use of the band 17.7-17.8 GHz by the broadcasting-satellite service is limited to receiving earth stations located outside of the United States and its insular areas.
 
-(iv) In the band 17.7-17.8 GHz, earth stations in the fixed-satellite service may be authorized for the reception of FSS emissions from geostationary satellites, subject to the condition that these earth stations shall not claim protection from transmissions of non-Federal stations in the fixed service that operate in that band.
+(iv) In the band 17.7-17.8 GHz, earth stations in the fixed-satellite service may be authorized for the reception of FSS emissions from geostationary satellites and non-geostationary satellites, subject to the condition that these earth stations shall not claim protection from transmissions of non-Federal stations in the fixed-service that operate in the band.
 
 (59) NG59 The frequencies 37.60 and 37.85 MHz may be authorized only for use by base, mobile, and operational fixed stations participating in an interconnected or coordinated power service utility system.
 
@@ -3237,7 +3237,7 @@ The provisions of paragraphs (d)(53)(i) through (iii) of this section shall not 
 
 (v) In the bands 18.8-19.3 GHz (space-to-Earth) and 28.6-29.1 GHz (Earth-to-space), ESIMs may be authorized to communicate with geostationary and non-geostationary satellites, subject to the condition that geostationary-satellite networks may not cause unacceptable interference to, or claim protection from, non-geostationary satellite systems in the fixed-satellite service.
 
-(vi) In the band 17.3-17.8 GHz, ESIMs may be authorized for the reception of FSS emissions from geostationary satellites on an unprotected basis.
+(vi) In the band 17.3-17.8 GHz, ESIMs may be authorized for the reception of FSS emissions from geostationary satellites and non-geostationary satellites on an unprotected basis.
 
 (528)-(534) [Reserved]
 
@@ -3363,4 +3363,4 @@ The provisions of paragraphs (d)(53)(i) through (iii) of this section shall not 
 
 (iii) The GOES satellite receiver shall not claim protection from existing and future stations in the fixed service (ITU Radio Regulation No. 5.43A does not apply).
 
-[49 FR 2373, Jan. 19, 1984]Editorial Note: For Federal Register citations affecting § 2.106, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[49 FR 2373, Jan. 19, 1984] Editorial Note: For Federal Register citations affecting § 2.106, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,5 @@
 ##### § 300.24 Prohibitions. #####
 
-Link to an amendment published at 89 FR 96909, Dec. 6, 2024.
-
 In addition to the prohibitions in § 300.4, it is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 
 (a) Land any species of tuna during the closed season for that species in excess of the amount allowed by the Regional Administrator.
@@ -89,5 +87,9 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 (pp) Fail to timely remove from the water a number of FADs in the IATTC Convention Area equal to the number of FADs set upon by the vessel during the 15 days prior to the start of the selected closure period as required in § 300.28(d)(2).
 
 (qq) Deploy, or have onboard a vessel, a FAD in the IATTC Convention Area that fails to comply with the FAD design requirements in § 300.28(e).
+
+(rr) Except for tuna purse seine vessels, when recovering FADs, performing maintenance and adjustments on deployed FADs, or deploying a FAD.
+
+(ss) Deploy or redeploy a FAD in the IATTC Convention Area that fails to comply with the FAD design requirements in § 300.28(g) and (h).
 
 [61 FR 35550, July 5, 1996] Editorial Note:For Federal Register citations affecting § 300.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

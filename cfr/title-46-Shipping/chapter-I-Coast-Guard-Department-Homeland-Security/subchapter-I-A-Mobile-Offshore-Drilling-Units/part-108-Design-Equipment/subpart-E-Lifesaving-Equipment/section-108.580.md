@@ -1,7 +1,5 @@
 ##### § 108.580 Personal lifesaving appliances. #####
 
-Link to an amendment published at 89 FR 97387, Dec. 6, 2024.
-
 (a) *Lifebuoys.* Each unit must carry at least eight lifebuoys approved under approval series 160.150 as follows:
 
 (1) *Stowage.* Lifebuoys must be stowed as follows:
@@ -32,7 +30,7 @@ Link to an amendment published at 89 FR 97387, Dec. 6, 2024.
 
 (iii) At least two lifebuoys on the unit each must be fitted with a self-activating smoke signal approved under approval series 160.157. Lifebuoys fitted with smoke signals must also be fitted with lights.
 
-(b) *Lifejackets.* Each unit must carry lifejackets approved under approval series 160.155, 160.176, or 160.177. If the unit carries inflatable lifejackets, they must be of the same or similar design and have the same method of operation.
+(b) *Lifejackets.* Each unit must carry lifejackets approved under approval series 160.155 or 160.176. If the unit carries inflatable lifejackets, they must be of the same or similar design and have the same method of operation.
 
 (1) *General.* Each unit must carry a lifejacket for each person on board and in addition, a sufficient number of lifejackets must be carried for persons at each work station and industrial work site.
 
@@ -66,4 +64,4 @@ Link to an amendment published at 89 FR 97387, Dec. 6, 2024.
 
 (ii) Each immersion suit or anti-exposure suit must have a whistle firmly secured by a cord to the immersion suit or anti-exposure suit.
 
-[CGD 84-069, 61 FR 25291, May 20, 1996, as amended at 63 FR 52814, Oct. 1, 1998]
+[CGD 84-069, 61 FR 25291, May 20, 1996, as amended at 63 FR 52814, Oct. 1, 1998; USCG-2022-0120, 89 FR 97387, Dec. 6, 2024]

@@ -1,7 +1,5 @@
 ##### § 4.201 Contents of application. #####
 
-Link to an amendment published at 89 FR 96530, Dec. 5, 2024.
-
 An application for amendment of a license for a water power project must contain the following information in the form specified.
 
 (a) *Initial statement.*
@@ -38,4 +36,6 @@ Before the Federal Energy Regulatory CommissionApplication for Amendment of Lice
 
 (2) A licensee wishing to file an application for amendment of license under this section may seek advice from the Commission staff regarding which exhibits(s) must be submitted and whether the proposed amendment is consistent with the scope of the existing licensed project.
 
-[Order 184, 46 FR 55943, Nov. 13, 1981, as amended by Order 225, 47 FR 19056, May 3, 1982; 48 FR 4459, Feb. 1, 1983; 48 FR 16653, Apr. 19, 1983; Order 413, 50 FR 11689, Mar. 25, 1985; Order 533, 56 FR 23154, May 20, 1991; Order 756, 77 FR 4894, Feb. 1, 2012; Order 877, 86 FR 42714, Aug. 5, 2021]
+(e) For any amendment that requires certification under section 401(a)(1) of the Federal Water Pollution Control Act (Clean Water Act), a certifying authority is deemed to have waived the certification requirements of section 401(a)(1) of the Clean Water Act if the certifying authority has not denied, expressly waived, or granted certification by one year after the date the certifying authority received a written request for certification.
+
+[Order 184, 46 FR 55943, Nov. 13, 1981, as amended by Order 225, 47 FR 19056, May 3, 1982; 48 FR 4459, Feb. 1, 1983; 48 FR 16653, Apr. 19, 1983; Order 413, 50 FR 11689, Mar. 25, 1985; Order 533, 56 FR 23154, May 20, 1991; Order 756, 77 FR 4894, Feb. 1, 2012; Order 877, 86 FR 42714, Aug. 5, 2021; 89 FR 96530, Dec. 5, 2024]

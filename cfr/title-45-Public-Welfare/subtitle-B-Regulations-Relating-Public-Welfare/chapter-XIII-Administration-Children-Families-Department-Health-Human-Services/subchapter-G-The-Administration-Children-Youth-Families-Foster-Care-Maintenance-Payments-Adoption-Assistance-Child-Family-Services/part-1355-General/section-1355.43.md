@@ -1,16 +1,14 @@
 ##### § 1355.43 Data reporting requirements. #####
 
-Link to an amendment published at 89 FR 96588, Dec. 5, 2024.The effective date of this amendment was corrected to read Jan. 4, 2025, at 89 FR 106364, Dec. 30, 2024.
-
 (a) *Report periods and deadlines.* There are two six-month report periods based on the Federal fiscal year: October 1 to March 31 and April 1 to September 30. The title IV-E agency must submit the out-of-home care and adoption assistance data files to ACF within 45 days of the end of the report period (*i.e.,* by May 15 and November 14). If the reporting deadline falls on a weekend, the title IV-E agency has through the end of the following Monday to submit the data file.
 
 (b) *Out-of-home care data file.* A title IV-E agency must report the information required in § 1355.44 pertaining to each child in the out-of-home care reporting population, in accordance with the following:
 
-(1) The title IV-E agency must report the most recent information for the applicable data elements in § 1355.44(a) and (b).
+(1) The title IV-E agency must report the most recent information for the applicable data elements in § 1355.44(a), (b), and (c).
 
-(2) Except as provided in paragraph (b)(3) of this section, the title IV-E agency must report the most recent information and all historical information for the applicable data elements described in § 1355.44(c) through (h).
+(2) The title IV-E agency must report the most recent information and all historical information for the applicable data elements in § 1355.44(d) through (i).
 
-(3) For a child who had an out-of-home care episode(s) as defined in § 1355.42(a) prior to October 1, 2022, the title IV-E agency must report only the information for the data described in § 1355.44(d)(1) and (g)(1) and (3) for the out-of-home care episode(s) that occurred prior to October 1, 2022.
+(3) For state title IV-E agencies only, regarding only the ICWA-related data elements in § 1355.44(b)(3) through (6) and (i): For a child who entered the out-of-home care reporting population as defined in § 1355.42(a) prior to October 1, 2028 and exits the out-of-home care reporting population on or after October 1, 2028, the state title IV-E agency must report information for the data described in § 1355.44(b)(4)(i) and (ii) and (6)(i) only.
 
 (c) *Adoption and guardianship assistance data file.* A title IV-E agency must report the most recent information for the applicable data elements in § 1355.45 that pertains to each child in the adoption and guardianship assistance reporting population on the last day of the report period.
 
@@ -20,4 +18,4 @@ Link to an amendment published at 89 FR 96588, Dec. 5, 2024.The effective date o
 
 (f) *Record retention.* The title IV-E agency must retain all records necessary to comply with the data requirements in §§ 1355.41 through 1355.45. The title IV-E agency's retention of such records is not limited to the requirements of 45 CFR 92.42(b) and (c).
 
-[81 FR 90569, Dec. 14, 2016, as amended at 85 FR 28424, May 12, 2020]
+[81 FR 90569, Dec. 14, 2016, as amended at 85 FR 28424, May 12, 2020; 89 FR 96588, Dec. 5, 2024]

@@ -1,7 +1,5 @@
 ##### § 25.115 Applications for earth station authorizations. #####
 
-Link to an amendment published at 89 FR 96601, Dec. 5, 2024.
-
 (a)(1)(i) *Transmitting earth stations.* Commission authorization must be obtained for authority to operate a transmitting earth station. Applications must be filed electronically on FCC Form 312, Main Form and Schedule B, and include the information specified in this section, except as set forth in paragraphs (a)(1)(ii) and (a)(2) of this section.
 
 (ii) *Certification of compliance with space station authorization.* An earth station applicant certifying that it will comply with the applicable terms and conditions of the authorization of any space station with which it communicates need not provide technical demonstrations or other information that is duplicative or unnecessary due to the certification. This provision does not apply to FSS operation in bands below 10 GHz or in bands subject to § 25.136.
@@ -146,7 +144,7 @@ Link to an amendment published at 89 FR 96601, Dec. 5, 2024.
 
 (f) *NGSO FSS earth stations in 10.7-30.0 GHz.* (1) An application for an NGSO FSS earth station license in the 10.7-30.0 GHz band must include the certification described in § 25.146(a)(2).
 
-(2) Individual or blanket license applications may be filed for operation in the 10.7-12.7 GHz, 14-14.5 GHz, 17.8-18.6 GHz, 18.8-19.4 GHz, 19.6-20.2 GHz, 28.35-29.1 GHz, or 29.5-30.0 GHz bands; however, ESIMs cannot operate in the 28.35-28.4 GHz band and blanket licensing in the 10.7-11.7 GHz, 17.8-18.3 GHz, 19.3-19.4 GHz, and 19.6-19.7 GHz bands is on an unprotected basis with respect to current and future systems operating in the fixed service.
+(2) Individual or blanket license applications may be filed for operation in the 10.7-12.7 GHz, 14-14.5 GHz, 17.3-17.7 GHz, 17.7-17.8 GHz, 17.8-18.6 GHz, 18.8-19.4 GHz, 19.6-20.2 GHz, 28.35-29.1 GHz, or 29.5-30.0 GHz bands; however, ESIMs cannot operate in the 28.35-28.4 GHz band and blanket licensing in the 10.7-11.7 GHz, 17.7-17.8 GHz, 17.8-18.3 GHz, 19.3-19.4 GHz, and 19.6-19.7 GHz bands is on an unprotected basis with respect to current and future systems operating in the fixed service.
 
 (3) Individual license applications only may be filed for operation in the 12.75-13.15 GHz, 13.2125-13.25 GHz, 13.75-14 GHz, or 27.5-28.35 GHz bands.
 

@@ -1,7 +1,5 @@
 ##### § 199.70 Personal lifesaving appliances. #####
 
-Link to an amendment published at 89 FR 97401, Dec. 6, 2024.
-
 (a) *Lifebuoys.* Each vessel must carry lifebuoys approved under approval series 160.150 as follows:
 
 (1) *Stowage.* Lifebuoys must be stowed as follows:
@@ -36,7 +34,7 @@ Link to an amendment published at 89 FR 97401, Dec. 6, 2024.
 
 (iii) At least two lifebuoys on the vessel must be fitted with a self-activating smoke signal approved under approval series 160.157. Lifebuoys fitted with smoke signals must also be fitted with lights.
 
-(b) *Lifejackets.* Each vessel must carry lifejackets approved under approval series 160.155, 160.176 or 160.177. If the vessel carries inflatable lifejackets, they must be of the same or similar design and have the same method of operation.
+(b) *Lifejackets.* Each vessel must carry lifejackets approved under approval series 160.155 or 160.176. If the vessel carries inflatable lifejackets, they must be of the same or similar design and have the same method of operation.
 
 (1) *General.* Each vessel must carry a lifejacket for each person on board, and in addition—
 
@@ -82,4 +80,4 @@ Link to an amendment published at 89 FR 97401, Dec. 6, 2024.
 
 (d) *Lifejacket, immersion suit, and anti-exposure suit containers.* Each lifejacket, immersion suit, and anti-exposure suit container must be marked in block capital letters and numbers with the quantity, identity, and size of the equipment stowed inside the container. The equipment may be identified in words or with the appropriate symbol from IMO Resolution A.760(18).
 
-[CGD 84-069, 61 FR 25313, May 20, 1996, as amended at 63 FR 52818, Oct. 1, 1998; 63 FR 56066, Oct. 20, 1998; 64 FR 53229, Oct. 1, 1999]
+[CGD 84-069, 61 FR 25313, May 20, 1996, as amended at 63 FR 52818, Oct. 1, 1998; 63 FR 56066, Oct. 20, 1998; 64 FR 53229, Oct. 1, 1999; USCG-2022-0120, 89 FR 97401, Dec. 6, 2024]

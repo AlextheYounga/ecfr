@@ -1,7 +1,5 @@
 ##### § 133.70 Personal lifesaving appliances. #####
 
-Link to an amendment published at 89 FR 97388, Dec. 6, 2024.
-
 (a) *Lifebuoys.* Each OSV must carry lifebuoys approved under approval series 160.150 or 160.050 as follows:
 
 (1) *Number.* The number of lifebuoys carried must be as prescribed in table 133.70 of this section.
@@ -46,7 +44,7 @@ Link to an amendment published at 89 FR 97388, Dec. 6, 2024.
 
 (ii) Except for an OSV in coastwise service and under 30 meters (99 feet) in length, at least one-half the total number of lifebuoys, but not less than two, must each be fitted with a self-igniting light approved under approval series 161.010. The self-igniting light must not be attached to the lifebuoys required by this section to be fitted with lifelines. However, if the OSV carries less than four lifebuoys, a buoyant lifeline can be fitted to one of the lifebuoys with a self-igniting light.
 
-(b) *Lifejackets.* Each OSV must carry lifejackets approved under approval series 160.002, 160.005, 160.055, 160.077, 160.155, 160.176, or 160.177. If the OSV carries inflatable lifejackets, they must be of the same or similar design and have the same method of operation.
+(b) *Lifejackets.* Each OSV must carry lifejackets approved under approval series 160.002, 160.005, 160.055, 160.077, 160.155, 160.176, or 160.255. If the OSV carries inflatable lifejackets, they must be of the same or similar design and have the same method of operation.
 
 (1) *General.* Each OSV must carry a lifejacket for each person on board and in addition, a sufficient number of lifejackets must be carried for persons on watch and for use at remotely located survival craft stations.
 
@@ -86,4 +84,4 @@ Link to an amendment published at 89 FR 97388, Dec. 6, 2024.
 
 (d) *Lifejacket, immersion suit, and anti-exposure suit containers.* Each lifejacket, immersion suit, and anti-exposure suit container must be marked in block capital letters and numbers with the quantity, identity, and size of the equipment stowed inside the container. The equipment may be identified in words, or with the appropriate symbol from IMO Resolution A.760(18).
 
-[CGD 84-069, 61 FR 25304, May 20, 1996; 61 FR 40281, Aug. 1, 1996, as amended at 63 FR 52816, Oct. 1, 1998]
+[CGD 84-069, 61 FR 25304, May 20, 1996; 61 FR 40281, Aug. 1, 1996, as amended at 63 FR 52816, Oct. 1, 1998; USCG-2022-0120, 89 FR 97388, Dec. 6, 2024]

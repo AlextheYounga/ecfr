@@ -1,5 +1,7 @@
 ##### § 92.356 Conflict of interest. #####
 
+Link to an amendment published at 90 FR 888, Jan. 6, 2025.
+
 (a) *Applicability.* In the procurement of property and services by participating jurisdictions, State recipients, and subrecipients, the conflict of interest provisions in 2 CFR 200.317 and 2 CFR 200.318, apply. In all cases not governed by 2 CFR 200.317 and 2 CFR 200.318, the provisions of this section apply.
 
 (b) *Conflicts prohibited.* No persons described in paragraph (c) of this section who exercise or have exercised any functions or responsibilities with respect to activities assisted with HOME funds or who are in a position to participate in a decision-making process or gain inside information with regard to these activities may obtain a financial interest or financial benefit from a HOME-assisted activity, or have a financial interest in any contract, subcontract, or agreement with respect to the HOME-assisted activity, or the proceeds from such activity, either for themselves or those with whom they have business or immediate family ties, during their tenure or for one year thereafter. Immediate family ties include (whether by blood, marriage or adoption) the spouse, parent (including a stepparent), child (including a stepchild), brother, sister (including a stepbrother or stepsister), grandparent, grandchild, and in-laws of a covered person.

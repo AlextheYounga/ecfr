@@ -1,5 +1,7 @@
 ##### § 92.221 Match credit. #####
 
+Link to an amendment published at 90 FR 870, Jan. 6, 2025.
+
 (a) *When credit is given.* Contributions are credited on a fiscal year basis at the time the contribution is made, as follows:
 
 (1) A cash contribution is credited when the funds are expended.

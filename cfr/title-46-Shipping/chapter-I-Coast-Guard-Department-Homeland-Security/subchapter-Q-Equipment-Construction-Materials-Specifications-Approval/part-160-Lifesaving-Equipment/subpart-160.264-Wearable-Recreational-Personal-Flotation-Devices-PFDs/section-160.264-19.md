@@ -1,0 +1,3 @@
+##### § 160.264-19 Placard. #####
+
+Each PFD sold or offered for sale must be provided with a placard that a prospective purchaser can read prior to purchase, as specified in Figure 8DV.1.1a and Figure 8DV.1.1b, Choose the Device You Will Want to Wear, of ANSI/CAN/UL 12402-5 (incorporated by reference, see § 160.264-5). The required placard text must be printed exactly as set out in ANSI/CAN/UL 12402-5.

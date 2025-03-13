@@ -1,7 +1,5 @@
 ##### 47.101 Policies. #####
 
-Link to an amendment published at 89 FR 101826, Dec. 16, 2024.
-
 (a) For domestic shipments, the contracting officer shall authorize shipments on commercial bills of lading (CBL's). Government bills of lading (GBL's) may be used for international or noncontiguous domestic trade shipments or when otherwise authorized.
 
 (b) The contract administration office (CAO) shall ensure that instructions to contractors result in the most efficient and economical use of transportation services and equipment. Transportation personnel will assist and provide transportation management expertise to the CAO. Specific responsibilities and details on transportation management are located in the Federal Management Regulation at 41 CFR parts 102-117 and 102-118. (For the Department of Defense, DoD 4500.9-R, Defense Transportation Regulation.)
@@ -30,8 +28,8 @@ Link to an amendment published at 89 FR 101826, Dec. 16, 2024.
 
 (f) Agencies shall place with small business concerns purchases and contracts for transportation and transportation-related services as prescribed in part 19.
 
-(g) Agencies shall comply with the Fly America Act, the Cargo Preference Act, and related statutes as prescribed in subparts 47.4, Air Transportation by U.S.-Flag Carriers, and 47.5, Ocean Transportation by U.S.-Flag Vessels.
+(g) Agencies shall comply with the requirements for Government-financed air transportation (commonly referred to as the Fly America Act), the Cargo Preference Act, and related statutes as prescribed in subparts 47.4, Air Transportation by U.S.-Flag Carriers, and 47.5, Ocean Transportation by U.S.-Flag Vessels.
 
 (h) When a contract specifies delivery of supplies f.o.b. origin with transportation costs to be paid by the Government, the contractor shall make shipments on bills of lading, or on other shipping documents prescribed by Military Surface Deployment and Distribution Command (SDDC) in the case of seavan containers, either at the direction of or furnished by the CAO or the appropriate agency transportation office.
 
-[48 FR 42424, Sept. 19, 1983, as amended at 71 FR 203, Jan. 3, 2006]
+[48 FR 42424, Sept. 19, 1983, as amended at 71 FR 203, Jan. 3, 2006; 89 FR 101826, Dec. 16, 2024]

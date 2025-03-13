@@ -1,5 +1,7 @@
 ##### § 800.71 Fees assessed by the Service. #####
 
+Link to an amendment published at 90 FR 534, Jan. 6, 2025.
+
 (a) *Official inspection and weighing services.* The fees shown in Schedule A of paragraph (a)(1) of this section apply to official inspection and weighing services performed by FGIS in the U.S. and Canada. The fees shown in Schedule B of paragraph (a)(2) of this section apply to official domestic inspection and weighing services performed by delegated States and designated agencies, including land carrier shipments to Canada and Mexico. The fees charged to delegated States by the Service are set forth in the State's Delegation of Authority document. Failure of a delegated State or designated agency to pay the appropriate fees to the Service within 30 days after becoming due will result in an automatic termination of the delegation or designation. The delegation or designation may be reinstated by the Service if fees that are due, plus interest and any further expenses incurred by the Service because of the termination, are paid within 60 days of the termination.
 
 (1) *Schedule A—Fees for official inspection and weighing services performed in the United States and Canada.* For each calendar year, FGIS will calculate *Schedule A* fees as defined in paragraph (b) of this section. FGIS will publish a notice in the Federal Register and post *Schedule A* fees on the Agency's public website.
