@@ -16,7 +16,7 @@
 
 *Certified citrus nursery stock.* Citrus nursery stock, such as trees or plants, grown at a nursery that is in compliance with State certification requirements and approved for producing citrus nursery stock for commercial sale.
 
-*Citrus canker.* A plant disease caused by strains of the bacterium *Xanthomonas axonopodis* pv. *citri.*
+*Citrus canker.* A plant disease caused by strains of the bacterium *Xanthomonas citri.* subsp. *citri.*
 
 *Commercial citrus grove.* An establishment maintained for the primary purpose of producing citrus fruit for commercial sale.
 
@@ -74,4 +74,4 @@
 
 *United States.* All of the States, the District of Columbia, Guam, the Northern Mariana Islands, Puerto Rico, the Virgin Islands of the United States, and all other territories and possessions of the United States.
 
-[55 FR 37450, Sept. 11, 1990, as amended at 61 FR 1521, Jan. 22, 1996; 65 FR 61080, Oct. 16, 2000; 66 FR 32717, June 18, 2001; 71 FR 33172, June 8, 2006; 72 FR 13427, Mar. 22, 2007; 72 FR 65203, Nov. 19, 2007; 74 FR 54444, Oct. 22, 2009; 76 FR 23457, Apr. 27, 2011; 87 FR 80009, Dec. 29, 2022]
+[55 FR 37450, Sept. 11, 1990, as amended at 61 FR 1521, Jan. 22, 1996; 65 FR 61080, Oct. 16, 2000; 66 FR 32717, June 18, 2001; 71 FR 33172, June 8, 2006; 72 FR 13427, Mar. 22, 2007; 72 FR 65203, Nov. 19, 2007; 74 FR 54444, Oct. 22, 2009; 76 FR 23457, Apr. 27, 2011; 87 FR 80009, Dec. 29, 2022; 88 FR 85470, Dec. 8, 2023]

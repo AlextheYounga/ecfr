@@ -62,7 +62,9 @@ An aircraft exported or reexported to a country pursuant to this paragraph (a) m
 
 (b) *Equipment and spare parts for permanent use on a vessel or aircraft, and ship and plane stores*—(1) *Vessel.* Equipment and spare parts for permanent use on a vessel, when necessary for the proper operation of such vessel, may be exported or reexported for use on board a vessel of any registry, except a vessel registered in Country Group D:1 (see supplement no. 1 to part 740), Cuba, or owned or controlled by, or under charter or lease to any of these countries or their nationals. In addition, other equipment and services for necessary repair to fishing and fishery support vessels of Country Group D:1 may be exported for use on board such vessels when admitted into the United States under governing international fishery agreements.
 
-(2) *Aircraft.* Equipment and spare parts for permanent use on an aircraft, when necessary for the proper operation of such aircraft, may be exported or reexported for use on board an aircraft of any registry, except an aircraft registered in, owned or controlled by, or under charter or lease to a country included in Country Group D:1, Cuba, or a national of any of these countries.
+(2) *Aircraft.* (i) Equipment and spare parts, for permanent use on an aircraft, when necessary for the proper operation of such aircraft, may be exported or reexported for use on board an aircraft of any registry, except an aircraft registered in, owned or controlled by, or under charter or lease to a country included in Country Group D:1, Cuba, or a national of any of these countries.
+
+(ii) This paragraph (b)(2)(ii) authorizes exports, reexports, and transfers (in-country) to any country that is identified in Country Group A:2 and supplement no. 3 to part 746 of ECCNs 7A101 through 7A103 when the commodities are for use in or for the “production” of civil manned aircraft.
 
 (3) *Ship and plane stores.* Usual and reasonable kinds and quantities of the following commodities may be exported for use or consumption on board an aircraft or vessel of any registry during the outgoing and immediate return flight or voyage.
 

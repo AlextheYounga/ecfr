@@ -26,11 +26,7 @@ License Exception STA authorizes transfers (in-country) but is only needed to au
 
 (v) License Exception STA may not be used for any item controlled by ECCN 1C351.a, .b, .c, .d.14, .d.15 or .e, ECCNs 1C353, 1C354, 1E001 (*i.e.,* for technology, as specified in ECCN 1E001, for items controlled by ECCN 1C351.a, .b, .c, .d.14, .d.15 or .e or ECCNs 1C353 or 1C354) or ECCN 1E351.
 
-(vi) Toxins controlled by ECCN 1C351.d.1 through 1C351.d.13 and 1C351.d.16 through 1C351.d.21 are authorized under License Exception STA to destinations indicated in Country Group A:5 (See supplement no. 1 to this part 740), subject to the following limits. For purposes of this paragraph (b)(2)(vi), all such toxins that are sent from one exporter, reexporter or transferor to a single end-user, on the same day, constitute one shipment.
-
-(A) The maximum amount of any one toxin in any one shipment may not exceed 100 milligrams.
-
-(B) No exporter, reexporter or transferor may send more than six shipments of any one toxin to any one end user in a single calendar year.
+(vi) [Reserved]
 
 (vii) Commerce Control List Category 7 limitation on use of License Exception STA. License Exception STA may not be used for 7E004 “technology,” except for “technology” controlled under 7E004.a.7.
 

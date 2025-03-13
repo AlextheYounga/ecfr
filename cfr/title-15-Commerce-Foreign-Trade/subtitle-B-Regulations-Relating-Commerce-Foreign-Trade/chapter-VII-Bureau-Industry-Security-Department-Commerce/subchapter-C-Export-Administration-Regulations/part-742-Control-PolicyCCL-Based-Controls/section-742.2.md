@@ -4,9 +4,11 @@
 
 (1) If CB Column 1 of the Country Chart (supplement no. 1 to part 738 of the EAR) is indicated in the appropriate ECCN, a license is required to all destinations, including Canada, for the following:
 
-(i) Human pathogens, zoonoses, toxins, animal pathogens, genetically modified microorganisms and plant pathogens identified in ECCNs 1C351, 1C353, and 1C354; and
+(i) Toxins identified in ECCNs 1C351.d.14 and .15;
 
-(ii) Technology (ECCNs 1E001 and 1E351) for the production and/or disposal of microbiological commodities described in paragraph (a)(1)(i) of this section.
+(ii) Genetic elements (ECCN 1C353) of the toxins described in paragraph (a)(1)(i) of this section; and
+
+(iii) Technology (ECCNs 1E001 and 1E351) for the production and/or disposal of toxins described in paragraph (a)(1)(i) of this section.
 
 (2) If CB Column 2 of the Country Chart (supplement no. 1 to part 738 of the EAR) is indicated in the appropriate ECCN, a license is required to all destinations except countries in Country Group A:3 (see supplement no. 1 to part 740 of the EAR) (Australia Group members) for the following:
 
@@ -22,11 +24,13 @@
 
 (*2*) Test kits that contain no more than 300 grams of any chemical controlled by ECCN 1C350.d (CB-controlled chemicals not also identified as Schedule 1, 2, or 3 chemicals under the CWC). Such test kits are controlled by ECCN 1C995 for AT reasons.
 
-(ii) Software (ECCN 1D390) for process control that is specifically configured to control or initiate production of the chemical precursors controlled by ECCN 1C350.
+(ii) Human pathogens, zoonoses, toxins, animal pathogens, genetically modified microorganisms and plant pathogens identified in ECCNs 1C351 (except .d.14 and .15), 1C353 (except genetic elements of toxins in ECCN 1C351.d.14 and .15), and 1C354; and
 
-(iii) Technology (ECCN 1E001) for the development or production of chemical detection systems and dedicated detectors therefore, controlled by ECCN 1A004.c, that also have the technical characteristics described in ECCN 2B351.a.
+(iii) Software (ECCN 1D390) for process control that is specifically configured to control or initiate production of the chemical precursors controlled by ECCN 1C350.
 
-(iv) Technology (ECCNs 1E001 and 1E350) involving the following for facilities designed or intended to produce chemicals described in 1C350:
+(iv) Technology (ECCN 1E001) for the development or production of chemical detection systems and dedicated detectors therefore, controlled by ECCN 1A004.c, that also have the technical characteristics described in ECCN 2B351.a.
+
+(v) Technology (ECCNs 1E001 and 1E350) involving the following for facilities designed or intended to produce chemicals described in 1C350:
 
 (A) Overall plant design;
 
@@ -38,27 +42,31 @@
 
 (E) Consultation on specific problems involving such facilities.
 
-(v) Technology (ECCNs 1E001 and 1E351) for the production and/or disposal of chemical precursors described in ECCN 1C350;
+(vi) Technology (ECCNs 1E001 and 1E351) for:
 
-(vi) Equipment and materials identified in ECCN 2B350 or 2B351 on the CCL, chemical detection systems controlled by 1A004.c for detecting chemical warfare agents and having the characteristics of toxic gas monitoring systems described in 2B351.a, and valves controlled by ECCN 2A226 having the characteristics of those described in 2B350.g, which can be used in the production of chemical weapons precursors or chemical warfare agents.
+(A) Production and/or disposal of chemical precursors described in ECCN 1C350; and
 
-(vii) Equipment and materials identified in ECCN 2B352, which can be used in the production of biological agents.
+(B) Production and/or disposal of microbiological commodities described in paragraph (a)(2)(ii) of this section (except toxins and genetic elements of those toxins in ECCN 1C351.d.14 and .15).
 
-(viii) Software identified in ECCN 2D351 or 2D352, as follows:
+(vii) Equipment and materials identified in ECCN 2B350 or 2B351 on the CCL, chemical detection systems controlled by 1A004.c for detecting chemical warfare agents and having the characteristics of toxic gas monitoring systems described in 2B351.a, and valves controlled by ECCN 2A226 having the characteristics of those described in 2B350.g, which can be used in the production of chemical weapons precursors or chemical warfare agents.
+
+(viii) Equipment and materials identified in ECCN 2B352, which can be used in the production of biological agents.
+
+(ix) Software identified in ECCN 2D351 or 2D352, as follows:
 
 (A) Dedicated software identified in ECCN 2D351 for the “use” of toxic gas monitoring systems and their dedicated detecting components controlled by ECCN 2B351;
 
 (B) Software designed for nucleic acid assemblers and synthesizers controlled by 2B352.j that is capable of designing and building functional genetic elements from digital sequence data.
 
-(ix) Technology identified in ECCN 2E001 for the “development” of software controlled by ECCN 2D351 or 2D352.
+(x) Technology identified in ECCN 2E001 for the “development” of software controlled by ECCN 2D351 or 2D352.
 
-(x) Technology identified in ECCN 2E001, 2E002, or 2E301 for:
+(xi) Technology identified in ECCN 2E001, 2E002, or 2E301 for:
 
 (A) The development, production, or use of items controlled by ECCN 2B350, 2B351, or 2B352; or
 
 (B) The development or production of valves controlled by ECCN 2A226 having the characteristics of those described in ECCN 2B350.g.
 
-(xi) Technology identified in ECCN 2E201 or 2E290 for the use of valves controlled by ECCN 2A226 having the characteristics of those described in 2B350.g.
+(xii) Technology identified in ECCN 2E201 or 2E290 for the use of valves controlled by ECCN 2A226 having the characteristics of those described in 2B350.g.
 
 (3) If CB Column 3 of the Country Chart (supplement no. 1 to part 738 of the EAR) is indicated in the appropriate ECCN, a license is required to Country Group D:3 (see supplement no. 1 to part 740 of the EAR) for medical products identified in ECCN 1C991.c.
 

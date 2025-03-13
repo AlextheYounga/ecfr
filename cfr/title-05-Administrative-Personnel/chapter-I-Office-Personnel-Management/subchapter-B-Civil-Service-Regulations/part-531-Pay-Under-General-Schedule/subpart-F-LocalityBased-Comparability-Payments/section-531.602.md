@@ -1,6 +1,6 @@
 ##### § 531.602 Definitions. #####
 
-Link to an amendment published at 88 FR 78634, Nov. 16, 2023.
+Link to an amendment published at 88 FR 78634, Nov. 16, 2023.Link to an amendment published at 88 FR 85467, Dec. 8, 2023.
 
 In this subpart:
 

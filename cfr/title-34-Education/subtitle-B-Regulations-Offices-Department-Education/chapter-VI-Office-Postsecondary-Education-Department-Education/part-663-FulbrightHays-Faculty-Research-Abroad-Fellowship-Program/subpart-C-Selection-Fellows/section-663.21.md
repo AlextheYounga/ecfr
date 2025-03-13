@@ -1,5 +1,7 @@
 ##### § 663.21 What criteria does the Secretary use to evaluate an application for a fellowship? #####
 
+Link to an amendment published at 88 FR 85508, Dec. 8, 2023.
+
 (a) *General.* The Secretary evaluates an application for a fellowship on the basis of the criteria in this section. The Secretary informs applicants of the maximum possible score for each criterion in the application package or in a notice published in the Federal Register.
 
 (b) *Quality of proposed project.* The Secretary reviews each application to determine the quality of the research project proposed by the applicant. The Secretary considers—

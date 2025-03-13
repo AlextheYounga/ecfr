@@ -22,11 +22,7 @@
 
 (4) After the train has cleared, the draw opens and the lights return to flashing green.
 
-(k) [Reserved]
-
-(l) *John F. Kennedy Space Center bridge, mile 885 at Addison Point.* The draw shall open on signal; except that, from 6:30 a.m. to 8 a.m. and 3:30 p.m. to 5 p.m. Monday through Friday, except Federal holidays, the draw need not open.
-
-(m) [Reserved]
+(k)-(m)[Reserved]
 
 (n) *A1A North Causeway Bridge, mile 964.8 at Fort Pierce.* The draw shall open on the hour and half-hour.
 
