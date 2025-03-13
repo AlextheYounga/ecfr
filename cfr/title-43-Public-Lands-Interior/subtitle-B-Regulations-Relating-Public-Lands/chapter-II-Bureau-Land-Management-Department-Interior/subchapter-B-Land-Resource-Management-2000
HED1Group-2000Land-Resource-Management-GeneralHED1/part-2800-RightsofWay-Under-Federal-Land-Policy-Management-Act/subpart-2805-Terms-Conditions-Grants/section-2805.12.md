@@ -1,6 +1,6 @@
 ##### § 2805.12 What terms and conditions must I comply with? #####
 
-Link to an amendment published at 89 FR 25962, Apr. 12, 2024.
+Link to an amendment published at 89 FR 25962, Apr. 12, 2024.Link to an amendment published at 89 FR 35679, May 1, 2024.
 
 (a) By accepting a grant or lease, you agree to comply with and be bound by the following terms and conditions. During construction, operation, maintenance, and termination of the project you must:
 

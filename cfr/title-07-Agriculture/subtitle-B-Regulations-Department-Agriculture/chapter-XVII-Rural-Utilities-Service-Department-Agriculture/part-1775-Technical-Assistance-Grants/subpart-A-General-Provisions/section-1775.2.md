@@ -6,8 +6,6 @@ The following definitions apply to subparts A through D of this part.
 
 *Approval official.* Any individual with administrative and legal responsibility for Rural Development programs.
 
-*DUNS Number.* Data Universal Numbering System number obtained from Dun and Bradstreet and used when applying for Federal grants or cooperative agreements. A DUNS number may be obtained at no cost, by calling 1-866-705-5711.
-
 *Grant agreement.* RUS Guide 1775-1. The agreement outlines the terms and conditions of the grant awards and establishes the guidelines for administering the grant awards.
 
 *Grantee.* The entity or organization receiving financial assistance directly from the RUS to carry out the project or program under these programs.
@@ -26,4 +24,4 @@ The following definitions apply to subparts A through D of this part.
 
 *Technical Assistance.* Supervision, oversight, or training by an organization for the practical solution of a problem or need of an association as defined in this section.
 
-[70 FR 70878, Jan. 7, 2004, as amended at 80 FR 9862, Feb. 24, 2015; 87 FR 38643, June 29, 2022]
+[70 FR 70878, Jan. 7, 2004, as amended at 80 FR 9862, Feb. 24, 2015; 87 FR 38643, June 29, 2022; 89 FR 34958, May 1, 2024]

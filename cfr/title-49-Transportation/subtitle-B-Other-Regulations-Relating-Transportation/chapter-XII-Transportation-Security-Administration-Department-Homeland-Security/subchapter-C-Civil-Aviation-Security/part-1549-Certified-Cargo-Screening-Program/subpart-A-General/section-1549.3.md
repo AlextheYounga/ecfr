@@ -1,5 +1,7 @@
 ##### § 1549.3 TSA inspection authority. #####
 
+Link to an amendment published at 89 FR 35626, May 1, 2024.
+
 (a) Each certified cargo screening facility must allow TSA, at any time or place, in a reasonable manner, without advance notice, to enter the facility and make any inspections or tests, including copying records, to—
 
 (1) Determine compliance of a certified cargo screening facility, airport operator, foreign air carrier, indirect air carrier, or airport tenant with this chapter and 49 U.S.C. 114 and Subtitle VII, as amended; or

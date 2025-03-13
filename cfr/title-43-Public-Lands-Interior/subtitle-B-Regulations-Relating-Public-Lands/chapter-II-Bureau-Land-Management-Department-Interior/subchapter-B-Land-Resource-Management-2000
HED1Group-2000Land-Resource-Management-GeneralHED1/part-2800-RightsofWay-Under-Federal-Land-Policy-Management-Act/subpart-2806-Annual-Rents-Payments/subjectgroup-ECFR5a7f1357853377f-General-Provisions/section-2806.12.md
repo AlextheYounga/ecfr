@@ -1,5 +1,7 @@
 ##### § 2806.12 When and where do I pay rent? #####
 
+Link to an amendment published at 89 FR 35680, May 1, 2024.
+
 (a) You must pay rent for the initial rental period before the BLM issues you a grant or lease.
 
 (1) If your non-linear grant or lease is effective on:

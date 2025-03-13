@@ -1,5 +1,7 @@
 ##### § 1665.4 Requests to amend records. #####
 
+Link to an amendment published at 89 FR 35005, May 1, 2024.
+
 (a) *Requirement for written requests.* Individuals desiring to amend a record that pertains to them in a system of records maintained by SSS must submit their request in writing in accord with the procedures set forth herein. Records not subject to the Privacy Act of 1974 will not be amended in accord with these provisions. However, individuals who believe that such records are inaccurate may bring this to the attention of SSS.
 
 (b) *Procedures.* (1)(i) The requests to amend a record in a system of records shall be addressed to the records manager. Included in the request shall be the name of the system and a brief description of the record proposed for amendment. In the event the request to amend the record is the result of the individual's having gained access to the record in accordance with the provisions concerning access to records as set forth above, copies of previous correspondence between the requester and SSS will serve in lieu of a separate description of the record.

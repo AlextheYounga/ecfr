@@ -1,5 +1,7 @@
 ##### § 433.2 Definitions. #####
 
+Link to an amendment published at 89 FR 35415, May 1, 2024.
+
 For purposes of this part, the following terms, phrases and words are defined as follows:
 
 *ANSI* means the American National Standards Institute.

@@ -1,5 +1,7 @@
 ##### § 2801.6 Scope. #####
 
+Link to an amendment published at 89 FR 35677, May 1, 2024.
+
 (a) *What do these regulations apply to?* The regulations in this part apply to:
 
 (1) Grants for necessary transportation or other systems and facilities which are in the public interest and which require the use of public lands for the purposes identified in 43 U.S.C. 1761, and administering, amending, assigning, renewing, and terminating them;

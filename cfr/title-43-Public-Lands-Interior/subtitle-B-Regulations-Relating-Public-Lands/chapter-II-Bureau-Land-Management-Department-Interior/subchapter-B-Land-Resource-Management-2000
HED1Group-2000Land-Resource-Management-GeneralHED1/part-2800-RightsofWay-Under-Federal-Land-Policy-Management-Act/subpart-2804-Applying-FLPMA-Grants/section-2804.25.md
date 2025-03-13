@@ -1,6 +1,6 @@
 ##### § 2804.25 How will BLM process my application? #####
 
-Link to an amendment published at 89 FR 25961, Apr. 12, 2024.
+Link to an amendment published at 89 FR 25961, Apr. 12, 2024.Link to an amendment published at 89 FR 35678, May 1, 2024.
 
 (a) The BLM will notify you in writing when it receives your application. This notification will also:
 

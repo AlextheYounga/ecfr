@@ -1,5 +1,7 @@
 ##### § 1554.3 TSA inspection authority. #####
 
+Link to an amendment published at 89 FR 35631, May 1, 2024.
+
 (a) *General.* Each repair station must allow TSA and other authorized DHS officials, at any time and in a reasonable manner, without advance notice, to enter, conduct any audits, assessments, or inspections of any property, facilities, equipment, and operations; and to view, inspect, and copy records as necessary to carry out TSA's security-related statutory or regulatory authorities, including its authority to—
 
 (1) Assess threats to transportation security;

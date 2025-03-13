@@ -1,5 +1,7 @@
 ##### § 2804.31 How will the BLM call for site testing for solar and wind energy? #####
 
+Link to an amendment published at 89 FR 35679, May 1, 2024.
+
 (a) *Call for site testing.* The BLM may, at its own discretion, initiate a call for site testing. The BLM will publish this call for site testing in the Federal Register and may also use other notification methods, such as a newspaper of general circulation in the area affected by the potential right-of-way, or the Internet. The Federal Register and any other notices will include:
 
 (1) The date, time, and location that site testing applications identified under § 2801.9(d)(1) of this part may be submitted;

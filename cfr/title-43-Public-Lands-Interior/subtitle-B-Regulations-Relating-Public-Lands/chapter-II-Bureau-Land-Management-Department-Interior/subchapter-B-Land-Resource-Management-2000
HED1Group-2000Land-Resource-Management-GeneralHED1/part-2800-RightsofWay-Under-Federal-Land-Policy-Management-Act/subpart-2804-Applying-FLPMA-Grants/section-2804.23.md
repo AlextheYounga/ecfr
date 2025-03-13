@@ -1,5 +1,7 @@
 ##### § 2804.23 When will the BLM use a competitive process? #####
 
+Link to an amendment published at 89 FR 35678, May 1, 2024.
+
 (a) If there are two or more competing applications for the same facility or system and your application is in:
 
 (1) *Processing Category 1 through 4.* You must reimburse the Federal Government for processing costs as if the other application or applications had not been filed.

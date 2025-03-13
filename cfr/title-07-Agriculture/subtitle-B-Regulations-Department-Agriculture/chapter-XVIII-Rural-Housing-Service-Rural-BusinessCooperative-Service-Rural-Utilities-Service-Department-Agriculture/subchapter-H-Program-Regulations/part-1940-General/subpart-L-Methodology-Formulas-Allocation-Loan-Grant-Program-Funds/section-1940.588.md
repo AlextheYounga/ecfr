@@ -22,7 +22,7 @@ The Agency will allocate funds to the States each Federal fiscal year for the pr
 
 (B) For the criterion specified in paragraph (a)(2)(i)(B), 5-year income data from the American Community Survey (ACS) or, if needed, other Census Bureau data.
 
-(C) For the criterion specified in paragraph (a)(2)(i)(C), the most recent Bureau of Labor Statistics data.
+(C) For the criterion specified in paragraph (a)(2)(i)(C) of this section, the 5-year data from the ACS.
 
 (iii) Each criterion is assigned a specific weight factor according to its relevance in determining need. The percentage representing each criterion is multiplied by the weight factor and summed to arrive at State Factor (SF). The SF cannot exceed 0.05. The Agency may elect to use different weight factors than those identified in this paragraph by publishing a timely notice in the Federal Register.
 
@@ -56,4 +56,4 @@ SF = (criterion (a)(2)(i)(A) × 25 percent) + (criterion (a)(2)(i)(B) × 50 perc
 
 (2) The Agency determines that it is in the best financial interest of the Federal Government not to make a State allocation for any program identified in this section and that the exercise of this determination is not in conflict with applicable law.
 
-[79 FR 56218, Sept. 19, 2014]Editorial Note:At 79 FR 55967, September 18, 2014, § 1940.588 was amended by revising paragraph (i); however, paragraph (i) was not found in the section.
+[79 FR 56218, Sept. 19, 2014, as amended at 89 FR 34962, May 1, 2024]Editorial Note:At 79 FR 55967, September 18, 2014, § 1940.588 was amended by revising paragraph (i); however, paragraph (i) was not found in the section.

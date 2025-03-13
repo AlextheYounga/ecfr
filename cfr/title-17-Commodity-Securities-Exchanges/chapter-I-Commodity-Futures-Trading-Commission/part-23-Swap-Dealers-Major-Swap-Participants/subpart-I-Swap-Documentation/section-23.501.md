@@ -1,5 +1,7 @@
 ##### § 23.501 Swap confirmation. #####
 
+Link to an amendment published at 89 FR 35001, May 1, 2024.
+
 (a) *Confirmation.* Subject to the compliance schedule in paragraph (c) of this section:
 
 (1) Each swap dealer and major swap participant entering into a swap transaction with a counterparty that is a swap dealer or major swap participant shall execute a confirmation for the swap transaction as soon as technologically practicable, but in any event by the end of first business day following the day of execution.

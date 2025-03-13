@@ -2,7 +2,7 @@
 
 (a) *Filing period.* The Agency will publish an annual notice in the Federal Register stating the filing period, where to file, and all other applicable information necessary to submit a complete application.
 
-(b) *Application requirements.* To file an application, an organization must provide their DUNS number. An organization may obtain a DUNS number from Dun and Bradstreet by calling (1-866-705-5711). To file a complete application the following information must be submitted:
+(b) *Application requirements.* To file an application, an organization must provide their Unique Entity Identifier (UEI) in accordance with 2 CFR part 25. Instructions for obtaining the UEI are available at *https://sam.gov/.* To file a complete application the following information must be submitted:
 
 (1) “Application for Federal Assistance (For Non-Construction)
 
@@ -65,3 +65,5 @@
 (vi) Statement indicating the number of months it will take to complete the Project or service, and
 
 (vii) Documentation on cost effectiveness of Project. Provide the cost per Ultimate Recipient to be served or the proposed cost of personnel to provide assistance.
+
+[81 FR 1866, Jan. 14, 2016, as amended at 89 FR 34958, May 1, 2024]

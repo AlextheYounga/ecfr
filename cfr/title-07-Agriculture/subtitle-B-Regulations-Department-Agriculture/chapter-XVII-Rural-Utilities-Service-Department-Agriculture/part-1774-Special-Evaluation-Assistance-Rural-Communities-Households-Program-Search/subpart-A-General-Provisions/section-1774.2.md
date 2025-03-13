@@ -10,8 +10,6 @@ The following definitions apply to subparts A and B of this part.
 
 *Design assistance.* Preliminary design and engineering analysis necessary for an application for funding. Design assistance does not include financial assistance for development of plans, specifications, or bidding documents.
 
-*DUNS Number.* Data Universal Numbering System number obtained from Dun and Bradstreet and used when applying for Federal grants or cooperative agreements. A DUNS number may be obtained at no cost, by calling 1-866-705-5711.
-
 *Eligible entity.* Entity that meets eligibility requirements to obtain a loan, loan guarantee or grant under Paragraphs 1, 2 or 24 of Section 306(a) of the ConAct (codified at 7 U.S.C. Section 1926(a)(1)(2) and (24)).
 
 *Feasibility study.* Documentation associated with an objective analysis of project-related technical engineering or environmental impact analyses required to support applications for funding water or waste disposal projects through USDA, Rural Utilities Service or other agencies.
@@ -30,4 +28,4 @@ The following definitions apply to subparts A and B of this part.
 
 *Technical Assistance.* Supervision, oversight, or training by an organization for the development of an application for financial assistance.
 
-[75 FR 35963, June 24, 2010, as amended at 80 FR 9862, Feb. 24, 2015; 84 FR 3669, Feb. 13, 2019; 87 FR 38642, June 29, 2022]
+[75 FR 35963, June 24, 2010, as amended at 80 FR 9862, Feb. 24, 2015; 84 FR 3669, Feb. 13, 2019; 87 FR 38642, June 29, 2022; 89 FR 34958, May 1, 2024]

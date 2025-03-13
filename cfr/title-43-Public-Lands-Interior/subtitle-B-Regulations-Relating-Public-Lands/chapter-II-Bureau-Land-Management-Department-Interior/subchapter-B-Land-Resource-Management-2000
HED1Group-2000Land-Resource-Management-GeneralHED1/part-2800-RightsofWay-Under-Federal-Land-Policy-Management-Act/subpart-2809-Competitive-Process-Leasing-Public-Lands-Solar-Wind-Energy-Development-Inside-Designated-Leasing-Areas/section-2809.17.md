@@ -1,5 +1,7 @@
 ##### § 2809.17 Will the BLM ever reject bids or re-conduct a competitive offer? #####
 
+Link to an amendment published at 89 FR 35684, May 1, 2024.
+
 (a) The BLM may reject bids regardless of the amount offered. If the BLM rejects your bid under this provision, you will be notified in writing and such notice will include the reason(s) for the rejection and what refunds to which you are entitled. If the BLM rejects a bid, the bidder may appeal that decision under § 2801.10.
 
 (b) We may offer the lease to the next highest qualified bidder if the successful bidder does not execute the lease or is for any reason disqualified from holding the lease.

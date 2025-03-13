@@ -1,6 +1,6 @@
 ##### § 2806.20 What is the rent for a linear right-of-way grant? #####
 
-Link to an amendment published at 89 FR 25964, Apr. 12, 2024.
+Link to an amendment published at 89 FR 25964, Apr. 12, 2024.Link to an amendment published at 89 FR 35680, May 1, 2024.
 
 (a) Except as described in § 2806.26 of this chapter, the BLM will use the Per Acre Rent Schedule (see paragraph (c) of this section) to calculate rent for all linear right-of-way authorizations, regardless of the granting authority (FLPMA, MLA, and their predecessors). Counties (or other geographical areas) are assigned to an appropriate zone in accordance with § 2806.21. The BLM will adjust the per acre rent values in the schedule annually in accordance with § 2806.22(a), and it will revise the schedule at the end of each 10-year period in accordance with § 2806.22(b).
 

@@ -1,6 +1,6 @@
 ##### § 17.40 Special rules—mammals. #####
 
-Link to an amendment published at 89 FR 22553, Apr. 1, 2024.Link to an amendment published at 89 FR 23940, Apr. 5, 2024.
+Link to an amendment published at 89 FR 23940, Apr. 5, 2024.
 
 (a) Mazama pocket gophers (Olympia, Roy Prairie, Tenino, and Yelm) (*Thomomys mazama pugetensis, glacialis, tumuli,* and *yelmensis*)—(1) *Which populations of the Mazama pocket gopher are covered by this special rule?* This special rule covers the four Thurston/Pierce subspecies of the Mazama pocket gopher (Olympia, Roy Prairie, Tenino, and Yelm) (*Thomomys mazama pugetensis, glacialis, tumuli,* and *yelmensis*) wherever they occur.
 
@@ -184,11 +184,21 @@ The notarized statement in paragraph (c)(2)(i) of this section, shall be accepta
 
 (3) *Permits.* All permits available under § 17.32 (General Permits—Threatened Wildlife) are available with regard to the gray wolf in Minnesota. All the terms and provisions of § 17.32 apply to such permits issued under the authority of this paragraph (d)(3).
 
-(e) African elephant (*Loxodonta africana*). This paragraph (e) applies to any specimen of the species *Loxodonta africana* whether live or dead, including any part or product thereof. The African Elephant Conservation Act (16 U.S.C. 4201 *et. seq.*), and any moratorium under that act, also applies. Except as provided in paragraphs (e)(2) through (9) of this section, all of the prohibitions and exceptions in §§ 17.31 and 17.32 apply to the African elephant. Persons seeking to benefit from the exceptions provided in this paragraph (e) must demonstrate that they meet the criteria to qualify for the exceptions.
+(e) African elephant (*Loxodonta africana*). This paragraph (e) applies to any specimen of the species *Loxodonta africana* whether live or dead, including any part or product thereof. The African Elephant Conservation Act (16 U.S.C. 4201 *et. seq.*), and any moratorium under that act, also applies. Except as provided in paragraphs (e)(2) through (11) of this section, all of the prohibitions and exceptions in §§ 17.31 and 17.32 apply to the African elephant. Persons seeking to benefit from the exceptions provided in this paragraph (e) must demonstrate that they meet the criteria to qualify for the exceptions.
 
-(1) *Definitions.* In this paragraph (e), *antique* means any item that meets all four criteria under section 10(h) of the Endangered Species Act (16 U.S.C. 1539(h)). *Ivory* means any African elephant tusk and any piece of an African elephant tusk. *Raw ivory* means any African elephant tusk, and any piece thereof, the surface of which, polished or unpolished, is unaltered or minimally carved. *Worked ivory* means any African elephant tusk, and any piece thereof, that is not raw ivory.
+(1) *Definitions.* In this paragraph (e), the following terms have these meanings:
 
-(2) *Live animals and parts and products other than ivory and sport-hunted trophies.* Live African elephants and African elephant parts and products other than ivory and sport-hunted trophies may be imported into or exported from the United States; sold or offered for sale in interstate or foreign commerce; and delivered, received, carried, transported, or shipped in interstate or foreign commerce in the course of a commercial activity without a threatened species permit issued under § 17.32, provided the requirements in 50 CFR parts 13, 14, and 23 have been met.
+*Antique* means any item that meets all four criteria under section 10(h) of the Endangered Species Act (16 U.S.C. 1539(h)).
+
+*Ivory* means any African elephant tusk and any piece of an African elephant tusk.
+
+*Range country* means a country that exercises jurisdiction over part of the natural geographic range of the African elephant including the following: Angola; Benin; Botswana; Burkina Faso; Cameroon; Central African Republic; Chad; Congo, Republic of the; Congo, The Democratic Republic of the; Côte d'Ivoire; Equatorial Guinea; Eritrea; Eswatini; Ethiopia; Gabon; Ghana; Guinea; Guinea-Bissau; Kenya; Liberia; Malawi; Mali; Mozambique; Namibia; Niger; Nigeria; Rwanda; Senegal; Sierra Leone; Somalia; South Africa; South Sudan; Tanzania, United Republic of; Togo; Uganda; Zambia; and Zimbabwe.
+
+*Raw ivory* means any African elephant tusk, and any piece thereof, the surface of which, polished or unpolished, is unaltered or minimally carved.
+
+*Worked ivory* means any African elephant tusk, and any piece thereof, that is not raw ivory.
+
+(2) *Parts and products other than ivory and sport-hunted trophies.* African elephant parts and products other than ivory and sport-hunted trophies may be imported into or exported from the United States; sold or offered for sale in interstate or foreign commerce; and delivered, received, carried, transported, or shipped in interstate or foreign commerce in the course of a commercial activity without a threatened species permit issued under § 17.32, provided the requirements in 50 CFR parts 13, 14, and 23 and paragraph (e)(11) of this section have been met.
 
 (3) *Interstate and foreign commerce of ivory.* Except for antiques and certain manufactured or handcrafted items containing *de minimis* quantities of ivory, sale or offer for sale of ivory in interstate or foreign commerce and delivery, receipt, carrying, transport, or shipment of ivory in interstate or foreign commerce in the course of a commercial activity is prohibited. Except as provided in paragraphs (e)(5)(iii) and (e)(6) through (8) of this section, manufactured or handcrafted items containing *de minimis* quantities of ivory may be sold or offered for sale in interstate or foreign commerce and delivered, received, carried, transported, or shipped in interstate or foreign commerce in the course of a commercial activity without a threatened species permit issued under § 17.32, provided they meet all of the following criteria:
 
@@ -240,13 +250,43 @@ The notarized statement in paragraph (c)(2)(i) of this section, shall be accepta
 
 (C) The trophy is legibly marked in accordance with 50 CFR part 23;
 
-(D) The requirements in 50 CFR parts 13, 14, and 23 have been met; and
+(D) The requirements in 50 CFR parts 13, 14, and 23 and paragraph (e)(11) of this section have been met; and
 
 (E) No more than two African elephant sport-hunted trophies are imported by any hunter in a calendar year.
 
-(ii) It is unlawful to sell or offer for sale in interstate or foreign commerce or to deliver, receive, carry, transport, or ship in interstate or foreign commerce and in the course of a commercial activity any sport-hunted African elephant trophy. The exception in paragraph (e)(3) of this section regarding manufactured or handcrafted items containing *de minimis* quantities of ivory does not apply to ivory imported or exported under this paragraph (e)(6) as part of a sport-hunted trophy.
+(ii) For African elephant sport-hunted trophies taken on or after May 1, 2024, to make an enhancement determination under paragraph (e)(6)(i)(B) of this section and § 17.32, the Service must possess a properly documented and verifiable certification by the government of the range country dated no earlier than 1 year prior to the date the elephant is taken that:
 
-(iii) Except as provided in paragraph (e)(9) of this section, raw ivory that was imported as part of a sport-hunted trophy may not be exported from the United States. Except as provided in paragraphs (e)(5), (e)(7), (e)(8), and (e)(9) of this section, worked ivory imported as a sport-hunted trophy may not be exported from the United States. Parts of a sport-hunted trophy other than ivory may be exported from the United States without a threatened species permit issued under § 17.32, provided the requirements of 50 CFR parts 13, 14, and 23 have been met.
+(A) African elephant populations in the range country are biologically sustainable, as well as sufficiently large to sustain sport hunting at the level authorized by the country.
+
+(B) Regulating authorities have the capacity to obtain sound data on these populations using scientifically based methods consistent with peer-reviewed literature.
+
+(C) Regulating authorities recognize these populations as a valuable resource and have the legal and practical capacity to manage them for their conservation.
+
+(D) Regulating governments follow the rule of law concerning African elephant conservation and management.
+
+(E) The current viable habitat of these populations is secure and is not decreasing or degrading.
+
+(F) Regulating authorities can ensure that the involved trophies have in fact been legally taken from the specified populations.
+
+(G) Funds derived from the involved sport hunting are applied significantly toward African elephant conservation, including funds used for:
+
+*(1)* Managing protected habitat, securing additional habitat, or restoring habitat to secure long-term populations of elephants in their natural ecosystems and habitats, including corridors between protected areas;
+
+*(2)* Improving the quality and carrying capacity of existing habitats;
+
+*(3)* Helping range country governments to produce or strengthen regional and national elephant conservation strategies and laws;
+
+*(4)* Developing capacity within the range country to survey, census, and monitor elephant populations;
+
+*(5)* Conducting elephant population surveys;
+
+*(6)* Supporting enforcement efforts to combat poaching of African elephants; and
+
+*(7)* Supporting local communities to help conserve the species in the wild through protecting, expanding, or restoring habitat or other methods used to prevent or mitigate human-elephant conflict.
+
+(iii) It is unlawful to sell or offer for sale in interstate or foreign commerce or to deliver, receive, carry, transport, or ship in interstate or foreign commerce and in the course of a commercial activity any sport-hunted African elephant trophy. The exception in paragraph (e)(3) of this section regarding manufactured or handcrafted items containing *de minimis* quantities of ivory does not apply to ivory imported or exported under this paragraph (e)(6) as part of a sport-hunted trophy.
+
+(iv) Except as provided in paragraph (e)(9) of this section, raw ivory that was imported as part of a sport-hunted trophy may not be exported from the United States. Except as provided in paragraphs (e)(5), (e)(7), (e)(8), and (e)(9) of this section, worked ivory imported as a sport-hunted trophy may not be exported from the United States. Parts of a sport-hunted trophy other than ivory may be exported from the United States without a threatened species permit issued under § 17.32, provided the requirements of 50 CFR parts 13, 14, and 23 have been met.
 
 (7) *Import/export of ivory for law enforcement purposes.* Raw or worked ivory may be imported into and worked ivory may be exported from the United States by an employee or agent of a Federal, State, or tribal government agency for law enforcement purposes, without a threatened species permit issued under § 17.32, provided the requirements of 50 CFR parts 13, 14, and 23 have been met. It is unlawful to sell or offer for sale in interstate or foreign commerce and to deliver, receive, carry, transport, or ship in interstate or foreign commerce and in the course of a commercial activity any African elephant ivory that was imported into or exported from the United States for law enforcement purposes. The exception in paragraph (e)(3) of this section regarding manufactured or handcrafted items containing *de minimis* quantities of ivory does not apply to ivory imported or exported under this paragraph (e)(7) for law enforcement purposes.
 
@@ -259,6 +299,52 @@ The notarized statement in paragraph (c)(2)(i) of this section, shall be accepta
 (ii) It is unlawful to sell or offer for sale in interstate or foreign commerce and to deliver, receive, carry, transport, or ship in interstate or foreign commerce and in the course of a commercial activity any African elephant ivory that was imported into or exported from the United States for genuine scientific purposes. The exception in paragraph (e)(3) of this section regarding manufactured or handcrafted items containing *de minimis* quantities of ivory does not apply to ivory imported or exported under this paragraph (e)(8) for genuine scientific purposes.
 
 (9) *Antique ivory.* Antiques (as defined in paragraph (e)(1) of this section) are not subject to the provisions of this rule. Antiques containing or consisting of ivory may, therefore, be imported into or exported from the United States without a threatened species permit issued under § 17.32, provided the requirements of 50 CFR parts 13, 14, and 23 have been met. Nevertheless, nothing in this rule interprets or changes any provisions or prohibitions that may apply under the African Elephant Conservation Act (16 U.S.C. 4201 *et seq.*), regardless of the age of the item. Antiques that consist of or contain raw or worked ivory may similarly be sold or offered for sale in interstate or foreign commerce and delivered, received, carried, transported, or shipped in interstate or foreign commerce in the course of a commercial activity without a threatened species permit issued under § 17.32.
+
+(10) *Live African elephants.* (i) Live African elephants may be imported into the United States, provided the Service determines that the activity will enhance the survival of the species, the Service finds that the proposed recipient is suitably equipped to house and care for the live elephant (see criteria in § 23.65 of this chapter), the animal is accompanied by a threatened species permit issued under § 17.32, and the requirements in 50 CFR parts 13, 14, and 23 and paragraph (e)(11) of this section have been met.
+
+(ii) To make an enhancement determination for the import of wild-sourced live African elephants under paragraph (e)(10)(i) of this section and § 17.32, the Service must possess a properly documented and verifiable certification by the government of the range country dated no earlier than 1 year prior to the date the elephant is removed from the wild that:
+
+(A) African elephant populations in the range country are biologically sustainable, as well as sufficiently large to sustain removal of live elephants at the level authorized by the country.
+
+(B) Regulating authorities have the capacity to obtain sound data on these populations using scientifically based methods consistent with peer-reviewed literature.
+
+(C) Regulating authorities recognize these populations as a valuable resource and have the legal and practical capacity to manage them for their conservation.
+
+(D) Regulating governments follow the rule of law concerning African elephant conservation and management.
+
+(E) The current viable habitat of these populations is secure and is not decreasing or degrading.
+
+(F) Regulating authorities can ensure that the involved live animals have in fact been legally taken from the specified populations and family units were kept intact to the maximum extent practicable.
+
+(G) Regulating authorities can ensure that no live African elephants to be imported are pregnant.
+
+(H) Funds derived from the import are applied significantly toward African elephant conservation, including funds used for:
+
+*(1)* Managing protected habitat, securing additional habitat, or restoring habitat to secure long-term populations of African elephants in their natural ecosystems and habitats, including corridors between protected areas;
+
+*(2)* Improving the quality and carrying capacity of existing habitats;
+
+*(3)* Helping range country governments to produce or strengthen regional and national African elephant conservation strategies and laws;
+
+*(4)* Developing capacity within the range country to survey, census, and monitor African elephant populations;
+
+*(5)* Conducting African elephant population surveys;
+
+*(6)* Supporting enforcement efforts to combat poaching of African elephants; and
+
+*(7)* Supporting local communities to help conserve the species in the wild through protecting, expanding, or restoring habitat or other methods used to prevent or mitigate human-elephant conflict.
+
+(I) The government of the range country first considers any live elephants that it approves for export for both in situ conservation programs and for transportation to other locations to augment extant wild populations or reintroduce elephants to extirpated ranges.
+
+(iii) Live African elephants may be sold or offered for sale in interstate commerce, and delivered, received, carried, transported, or shipped in interstate commerce in the course of a commercial activity, provided the Service finds that the proposed recipient is suitably equipped to house and care for the live elephant (see criteria in § 23.65 of this chapter), and a special purpose permit is issued under § 17.32 or a captive-bred wildlife registration is issued under § 17.21(g).
+
+(iv) Each permit issued to authorize activity with a live African elephant under 50 CFR parts 17 or 23 must include a condition that the elephant and its offspring will not be sold or otherwise transferred to another person or location without a special purpose permit issued under § 17.32. Each special purpose permit for a live African elephant must also include the same condition. Each special purpose permit issued for a live African elephant will require a finding by the Service that the proposed recipient is suitably equipped to house and care for the live elephant (see criteria in § 23.65 of this chapter).
+
+(11) *CITES National Legislation Project and African elephants.* On or after January 1, 2026, live African elephants, sport-hunted trophies, and parts or products other than ivory and sport-hunted trophies may not be imported into the United States under the exceptions for importation provided in § 17.32 or paragraphs (e)(2), (e)(6), or (e)(10) of this section except when:
+
+(i) All trade in the specimen has been and is accompanied by a valid CITES document issued by the Management Authority of a Party with a CITES Category One designation under the CITES National Legislation Project (see § 23.7 of this chapter and *http://www.cites.org*); or
+
+(ii) When importation under paragraph (e)(2) of this section is for law enforcement purposes and meets the requirements as set forth at paragraph (e)(7) of this section for the import of ivory or is for genuine scientific purposes and meets the requirements as set forth at paragraph (e)(8) of this section for the import of ivory.
 
 (f) Leopard (*Panthera pardus*) (1) Except as noted in paragraph (f)(2) of this section, all prohibitions of § 17.31 of this part and exemptions of § 17.32 of this part shall apply to the leopard populations occurring in southern Africa to the south of a line running along the borders of the following countries: Gabon/Rio Muni; Gabon/Cameroon; Congo/Cameroon; Congo/Central African Republic; Zaire/Central African Republic; Zaire/Sudan; Uganda/Sudan; Kenya/Sudan; Kenya/Ethiopia; Kenya/Somalia.
 

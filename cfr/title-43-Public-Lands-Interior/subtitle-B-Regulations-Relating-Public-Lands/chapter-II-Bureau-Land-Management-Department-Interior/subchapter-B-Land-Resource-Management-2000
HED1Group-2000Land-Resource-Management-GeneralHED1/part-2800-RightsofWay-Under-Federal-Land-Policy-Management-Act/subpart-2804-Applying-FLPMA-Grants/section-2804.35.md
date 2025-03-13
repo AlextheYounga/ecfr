@@ -1,5 +1,7 @@
 ##### § 2804.35 How will the BLM prioritize my solar or wind energy application? #####
 
+Link to an amendment published at 89 FR 35679, May 1, 2024.
+
 The BLM will prioritize your application by placing it into one of three categories and may re-categorize your application based on new information received through surveys, public meetings, or other data collection, or after any changes to the application. The BLM will generally prioritize the processing of leases awarded under subpart 2809 before applications submitted under subpart 2804. For applications submitted under subpart 2804, the BLM will categorize your application based on the following screening criteria.
 
 (a) High-priority applications are given processing priority over medium- and low-priority applications and may include lands that meet the following criteria:

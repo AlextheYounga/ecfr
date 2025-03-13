@@ -1,5 +1,7 @@
 ##### § 2809.11 How will the BLM solicit nominations? #####
 
+Link to an amendment published at 89 FR 35683, May 1, 2024.
+
 (a) *Call for nominations.* The BLM will publish a notice in the Federal Register and may use other notification methods, such as a newspaper of general circulation in the area affected by the potential offer of public land for solar and wind energy development or the Internet; to solicit nominations and expressions of interest for parcels of land inside designated leasing areas for solar or wind energy development.
 
 (b) *Nomination submission.* A nomination must be in writing and must include the following:

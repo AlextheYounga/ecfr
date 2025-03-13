@@ -2,11 +2,9 @@
 
 (a) *Online application system.* Loan and loan/grant combination applications must be submitted through RUS' online application system and include all information as required by that system and detailed in the Rural Broadband Program Application Guide (the Application Guide), available on the Agency's website, so that applications can be uniformly evaluated and compared.
 
-(b) *DUNS registration.* All Applicants must register for a Dun and Bradstreet Universal Numbering System (DUNS) number as part of the application. The Applicant can obtain the DUNS number free of charge by calling Dun and Bradstreet. Go to *http://fedgov.dnb.com/webform* for more information on assignment of a DUNS number or confirmation.
+(b) *SAM registration.* Prior to submitting an application, all Applicants requesting loan/grant combination funds must register in the System for Award Management (SAM) at *https://sam.gov/* and provide a Unique Entity Identifier as part of the application. SAM registration must be active with current data at all times, from the application review throughout the active Federal Award. To maintain the required registration in the SAM database, annual renewal is required with a review and update of all information. The Applicant must ensure that the information in the database is current, accurate, and complete.
 
-(c) *SAM registration.* Prior to submitting an application, all Applicants requesting loan/grant combination funds must register in the System for Award Management (SAM) at *https://www.sam.gov/SAM/* and supply a Commercial and Government Entity (CAGE) code number as part of the application. SAM registration must be active with current data at all times, from the application review throughout the active Federal Award funding period. To maintain active SAM registration, the Applicant must review and update the information in the SAM database annually from the date of initial registration or from the date of the last update. The Applicant must ensure that the information in the database is current, accurate, and complete.
-
-(d) *Contents of the application.* A complete application will include the following information as requested in the RUS online application system and Application Guide:
+(c) *Contents of the application.* A complete application will include the following information as requested in the RUS online application system and Application Guide:
 
 (1) General information on the Applicant and the project including:
 
@@ -56,4 +54,6 @@
 
 (18) Additional items that may be required by the Administrator through a notice in the Federal Register.
 
-(e) *Material representations.* The application, including certifications and all forms submitted as part of the application, will be treated as material representations upon which RUS will rely in awarding loans and loan/grant combinations.
+(d) *Material representations.* The application, including certifications and all forms submitted as part of the application, will be treated as material representations upon which RUS will rely in awarding loans and loan/grant combinations.
+
+[85 FR 14398, Mar. 12, 2020, as amended at 89 FR 34957, May 1, 2024]

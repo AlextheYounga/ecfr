@@ -16,8 +16,6 @@ The definitions and abbreviations in § 3570.53 apply to this subpart unless oth
 
 *Conflict of interest.* A situation in which a person or entity has competing personal, professional, or financial interests that make it difficult for the person or business to act impartially. Regarding use of both grant and matching funds, Federal procurement standards prohibit transactions that involve a real or apparent conflict of interest for owners, employees, officers, agents, or their immediate family members having a financial or other interest in the outcome of the Project; or that restrict open and free competition for unrestrained trade. Specifically, Project funds may not be used for services or goods going to, or coming from, a person or entity with a real or apparent Conflict of Interest, including, but not limited to, owner(s) and their immediate family members. An example of Conflict of Interest occurs when the Grantee's employees, board of directors, or the immediate family of either, have the appearance of a professional or personal financial interest in the Applicant receiving the benefits or services of the grant.
 
-*DUNS.* A Data Universal Numbering System (DUNS) which is obtained from Dun and Bradstreet and is used when applying for Federal financial assistance.
-
 *Generally Accepted Accounting Principles (GAAP).* A widely accepted set of rules, conventions, standards and procedures for reporting financial information, as established by the Financial Accounting Standards Board.
 
 *Indian Tribe.* Any Indian Tribe, band, nation, or other organized group or community, including Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) [43 U.S.C. 1601 *et seq.*], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
@@ -55,3 +53,5 @@ The definitions and abbreviations in § 3570.53 apply to this subpart unless oth
 (iii) Members of the organization have ultimate control of the proposed community facility; and
 
 (iv) The organization receives the majority of its funding from its members or their volunteer efforts. Public bodies and Indian Tribes that are applying for funding as Ultimate Recipients or are the benefitting from TAT grant funds as the Ultimate Recipient are not required to further demonstrate Community ties to the local Rural Areas.
+
+[81 FR 1866, Jan. 14, 2016, as amended at 89 FR 34958, May 1, 2024]

@@ -6,9 +6,9 @@
 
 (2) An applicant will apply to the National Office if the project will serve multiple states. The application must be submitted to the following address: Assistant Administrator, Water and Environmental Programs, Rural Utilities Service, Washington, DC 20250-1570.
 
-(3) Electronic applications will be accepted prior to the filing deadline through the Federal Government's eGrants Web site (Grants.gov) at *http://www.grants.gov.* Applicants should refer to instructions found on the Grants.gov Web site to submit an electronic application. A DUNS number and a Central Contractor Registry (CCR) registration is required prior to electronic submission. The sign-up procedures, required by Grants.gov, may take several business days to complete.
+(3) Electronic applications will be accepted prior to the filing deadline through the Federal Government's eGrants website (*Grants.gov*) at *https://www.grants.gov.* Applicants should refer to instructions found on the *Grants.gov* website to submit an electronic application. A Unique Entity Identifier (UEI) from the System for Award Management and a Central Contractor Registry (CCR) registration is required prior to electronic submission. The sign-up procedures, required by *Grants.gov,* may take several business days to complete.
 
-(c) *Application requirements.* To file an application, an organization must provide their DUNS number. An organization may obtain a DUNS number from Dun and Bradstreet by calling (1-866-705-5711). To file a complete application, the following information should be submitted:
+(c) *Application requirements.* To file an application, an organization must provide their UEI in accordance with2 CFR part 25. Instructions for obtaining the UEI are available at *https://sam.gov/.* To file a complete application, the following information should be submitted:
 
 (1) Standard Form 424, “Application for Federal Assistance (For Non-Construction).”
 
@@ -76,4 +76,4 @@
 
 (viii) Other factors for consideration, such as emergency situation, training need identified, health or safety problems, geographic distribution, Rural Development Office recommendations, etc.
 
-[70 FR 70878, Jan. 7, 2004, as amended at 79 FR 76005, Dec. 19, 2014]
+[70 FR 70878, Jan. 7, 2004, as amended at 79 FR 76005, Dec. 19, 2014; 89 FR 34958, May 1, 2024]

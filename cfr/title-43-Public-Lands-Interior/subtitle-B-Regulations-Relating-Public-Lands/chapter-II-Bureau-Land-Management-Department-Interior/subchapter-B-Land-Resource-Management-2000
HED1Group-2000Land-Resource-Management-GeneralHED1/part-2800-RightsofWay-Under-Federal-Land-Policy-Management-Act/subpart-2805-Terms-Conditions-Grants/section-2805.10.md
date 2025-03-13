@@ -1,5 +1,7 @@
 ##### § 2805.10 How will I know whether the BLM has approved or denied my application or if my bid for a solar or wind energy development grant or lease is successful or unsuccessful? #####
 
+Link to an amendment published at 89 FR 35679, May 1, 2024.
+
 (a) The BLM will send you a written response when it has made a decision on your application or if you are the successful bidder for a solar or wind energy development grant or lease. If we approve your application, we will send you an unsigned grant for your review and signature. If you are the successful bidder for a solar or wind energy lease inside a designated leasing area under § 2809.15, we may send you an unsigned lease for your review and signature. If your bid is unsuccessful, it will be refunded under § 2804.30(e)(4) or § 2809.14(d) and you will receive written notice from us.
 
 (b) Your unsigned grant or lease document:

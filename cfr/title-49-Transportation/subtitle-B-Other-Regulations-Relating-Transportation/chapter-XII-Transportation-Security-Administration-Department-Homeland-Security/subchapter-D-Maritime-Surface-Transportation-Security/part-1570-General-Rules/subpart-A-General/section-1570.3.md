@@ -1,5 +1,7 @@
 ##### § 1570.3 Terms used in this subchapter. #####
 
+Link to an amendment published at 89 FR 35631, May 1, 2024.
+
 In addition to the definitions in §§ 1500.3, 1500.5, and 1503.202 of subchapter A, the following terms are used in this subchapter:
 
 *Adjudicate* means to make an administrative determination of whether an applicant meets the standards in this subchapter, based on the merits of the issues raised.

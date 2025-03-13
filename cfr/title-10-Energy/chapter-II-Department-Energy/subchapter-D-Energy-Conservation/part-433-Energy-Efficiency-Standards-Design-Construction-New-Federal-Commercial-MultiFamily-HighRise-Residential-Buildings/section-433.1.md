@@ -1,5 +1,7 @@
 ##### § 433.1 Purpose and scope. #####
 
+Link to an amendment published at 89 FR 35415, May 1, 2024.
+
 (a) This part establishes an energy efficiency performance standard for the new Federal commercial and multi-family high-rise buildings, for which design for construction began on or after January 3, 2007, as required by section 305(a) of the Energy Conservation and Production Act, as amended (42 U.S.C. 6834(a)).
 
 (b) [Reserved]

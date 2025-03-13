@@ -1,5 +1,7 @@
 ##### § 1572.400 Scope and definitions. #####
 
+Link to an amendment published at 89 FR 35631, May 1, 2024.
+
 (a) *Scope.* This part applies to—
 
 (1) States that issue an HME for a commercial driver's license;

@@ -1,5 +1,7 @@
 ##### § 2809.16 When do variable offsets apply? #####
 
+Link to an amendment published at 89 FR 35684, May 1, 2024.
+
 (a) The successful bidder may be eligible for an offset of up to 20 percent of the bonus bid based on the factors identified in the notice of competitive offer.
 
 (b) The BLM may apply a variable offset to the bonus bid of the successful bidder. The notice of competitive offer will identify each factor of the variable offset, the specific percentage for each factor that would be applied to the bonus bid, and the documentation required to be provided to the BLM prior to the day of the offer to qualify for the offset. The total variable offset cannot be greater than 20 percent of the bonus bid.

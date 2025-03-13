@@ -1,5 +1,7 @@
 ##### § 2804.30 What is the competitive process for solar or wind energy development for lands outside of designated leasing areas? #####
 
+Link to an amendment published at 89 FR 35679, May 1, 2024.
+
 (a) *Available land.* The BLM may offer through a competitive process any land not inside a designated leasing area and open to right-of-way applications under § 2802.10.
 
 (b) *Variety of competitive procedures available.* The BLM may use any type of competitive process or procedure to conduct its competitive offer and any method, including the use of the Internet, to conduct the actual auction or competitive bid procedure. Possible bid procedures could include, but are not limited to: Sealed bidding, oral auctions, modified competitive bidding, electronic bidding, and any combination thereof.

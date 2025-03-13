@@ -1,5 +1,7 @@
 ##### § 435.1 Purpose and scope. #####
 
+Link to an amendment published at 89 FR 35433, May 1, 2024.
+
 (a) This part establishes energy efficiency performance standard for the construction of new Federal low-rise residential buildings as required by section 305(a) of the Energy Conservation and Production Act, as amended (42 U.S.C. 6834(a)).
 
 (b) [Reserved]

@@ -1,5 +1,7 @@
 ##### § 2806.10 What rent must I pay for my grant? #####
 
+Link to an amendment published at 89 FR 35680, May 1, 2024.
+
 (a) You must pay in advance a rent BLM establishes based on sound business management principles and, as far as practical and feasible, using comparable commercial practices. Rent does not include processing or monitoring fees and rent is not offset by such fees. BLM may exempt, waive, or reduce rent for a grant under §§ 2806.14 and 2806.15 of this subpart.
 
 (b) If BLM issued your grant on or before October 21, 1976, under then existing statutory authority, upon request, BLM will conduct an informal hearing before a proposed rent increase becomes effective. This applies to rent increases due to a BLM-initiated change in the rent or from initially being put on a rent schedule. You are not entitled to a hearing on annual adjustments once you are on a rent schedule.

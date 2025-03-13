@@ -1,5 +1,7 @@
 ##### § 2807.21 May I assign or make other changes to my grant or lease? #####
 
+Link to an amendment published at 89 FR 35682, May 1, 2024.
+
 (a) With the BLM's approval, you may assign, in whole or in part, any right or interest in a grant or lease. Assignment actions that may require BLM approval include, but are not limited to, the following:
 
 (1) The transfer by the holder (assignor) of any right or interest in the grant or lease to a third party (assignee); and

@@ -1,6 +1,6 @@
 ##### § 2805.14 What rights does a grant convey? #####
 
-Link to an amendment published at 89 FR 25962, Apr. 12, 2024.
+Link to an amendment published at 89 FR 25962, Apr. 12, 2024.Link to an amendment published at 89 FR 35680, May 1, 2024.
 
 The grant conveys to you only those rights which it expressly contains. BLM issues it subject to the valid existing rights of others, including the United States. Rights which the grant conveys to you include the right to:
 

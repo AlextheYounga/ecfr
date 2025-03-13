@@ -1,5 +1,7 @@
 ##### § 1500.3 Terms and abbreviations used in this chapter. #####
 
+Link to an amendment published at 89 FR 35625, May 1, 2024.
+
 As used in this chapter:
 
 *Administrator* means the Assistant Secretary for Homeland Security, Transportation Security Administration (Assistant Secretary), who is the highest-ranking TSA official, or his or her designee. Administrator also means the Under Secretary of Transportation for Security identified in 49 U.S.C. 114(b).

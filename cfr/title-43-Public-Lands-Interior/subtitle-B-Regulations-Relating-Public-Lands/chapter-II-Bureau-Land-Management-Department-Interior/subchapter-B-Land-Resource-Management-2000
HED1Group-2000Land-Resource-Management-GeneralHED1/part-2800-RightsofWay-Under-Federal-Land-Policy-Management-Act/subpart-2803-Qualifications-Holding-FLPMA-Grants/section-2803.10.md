@@ -1,5 +1,7 @@
 ##### § 2803.10 Who may hold a grant? #####
 
+Link to an amendment published at 89 FR 35678, May 1, 2024.
+
 To hold a grant under these regulations, you must be:
 
 (a) An individual, association, corporation, partnership, or similar business entity, or a Federal agency or state, tribal, or local government;

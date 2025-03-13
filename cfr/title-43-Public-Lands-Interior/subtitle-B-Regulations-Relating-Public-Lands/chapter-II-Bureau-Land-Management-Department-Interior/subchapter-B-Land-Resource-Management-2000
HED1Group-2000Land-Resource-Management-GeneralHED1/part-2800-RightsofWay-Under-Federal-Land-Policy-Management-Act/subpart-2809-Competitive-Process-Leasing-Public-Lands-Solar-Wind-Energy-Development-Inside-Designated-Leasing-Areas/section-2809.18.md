@@ -1,5 +1,7 @@
 ##### § 2809.18 What terms and conditions apply to leases? #####
 
+Link to an amendment published at 89 FR 35684, May 1, 2024.
+
 The lease will be issued subject to the following terms and conditions:
 
 (a) *Lease term.* The term of your lease includes the initial partial year in which it is issued, plus 30 additional full years. The lease will terminate on December 31 of the final year of the lease term. You may submit an application for renewal under § 2805.14(g).

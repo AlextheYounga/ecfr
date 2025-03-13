@@ -1,5 +1,7 @@
 ##### § 1515.3 Terms used in this part. #####
 
+Link to an amendment published at 89 FR 35626, May 1, 2024.
+
 The terms used in 49 CFR parts 1500, 1540, 1570, and 1572 also apply in this part. In addition, the following terms are used in this part:
 
 *Administrative law judge* means an administrative law judge appointed pursuant to the provisions of 5 U.S.C. 3105.

@@ -1,6 +1,6 @@
 ##### § 2801.9 When do I need a grant? #####
 
-Link to an amendment published at 89 FR 25959, Apr. 12, 2024.
+Link to an amendment published at 89 FR 25959, Apr. 12, 2024.Link to an amendment published at 89 FR 35677, May 1, 2024.
 
 (a) You must have a grant under this part when you plan to use public lands for systems or facilities over, under, on, or through public lands. These include, but are not limited to:
 

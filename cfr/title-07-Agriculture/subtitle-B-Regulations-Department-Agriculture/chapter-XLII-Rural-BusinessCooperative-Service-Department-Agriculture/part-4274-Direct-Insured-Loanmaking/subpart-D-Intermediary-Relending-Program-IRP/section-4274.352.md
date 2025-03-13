@@ -22,7 +22,7 @@
 
 (4) Copies of sufficient material from the ultimate recipient's application and the intermediary's related files to allow the Agency to determine the:
 
-(i) Name, address, DUNS number, Federal ID number, and North American Classification System (NAICS) Code of the ultimate recipient;
+(i) Name, address, Unique Entity Identifier, Federal ID number, and North American Classification System (NAICS) Code of the ultimate recipient;
 
 (ii) Loan purpose;
 
@@ -37,3 +37,5 @@
 (5) Such other information as the Agency may request.
 
 (b) *Revolved IRP loan funds.* An intermediary may use revolved funds to make loans to ultimate recipients in accordance with § 4274.320(b) without obtaining prior Agency concurrence as required in § 4274.352(a) and are also exempted from completion of items required by paragraphs (a)(2) and (3) of this section.
+
+[86 FR 72156, Dec. 21, 2021, as amended at 89 FR 34958, May 1, 2024]

@@ -22,8 +22,10 @@ To receive an RBDG under this subpart, an applicant must meet the requirements s
 
 (2) Maintain an active SAM registration with current information at all times during which it has an active Federal award or an application under consideration by the Agency; and
 
-(3) Provide its Dun and Bradstreet Data Universal Numbering System (DUNS) number in each application it submits to the Agency. Generally, the DUNS number is included on Standard Form (SF) 424, “Application for Federal Assistance.”
+(3) Provide its Unique Entity Identifier (UEI) in each application it submits to the Agency. The UEI is included on the Standard Form (SF) 424, “Application for Federal Assistance.”
 
 (d) *Delinquent debt.* The applicant must not have any delinquent debt to the Federal Government. If an applicant has any delinquent debt to the Federal Government, the applicant will be ineligible to receive any funds obligated under this subpart until the debt has been paid.
 
 (e) *Legal authority and responsibility.* Each Applicant must have the legal authority necessary to apply for and carry out the purpose of the grant.
+
+[80 FR 15667, Mar. 25, 2015, as amended at 89 FR 34959, May 1, 2024]

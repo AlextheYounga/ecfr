@@ -1,5 +1,7 @@
 ##### § 37.6 Enforceability. #####
 
+Link to an amendment published at 89 FR 35001, May 1, 2024.
+
 (a) A transaction entered into on or pursuant to the rules of a swap execution facility shall not be void, voidable, subject to rescission, otherwise invalidated, or rendered unenforceable as a result of:
 
 (1) A violation by the swap execution facility of the provisions of section 5h of the Act or this part;

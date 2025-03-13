@@ -1,5 +1,7 @@
 ##### § 2809.15 How will the BLM select the successful bidder? #####
 
+Link to an amendment published at 89 FR 35683, May 1, 2024.
+
 (a) The bidder with the highest total bid, prior to any variable offset, is the successful bidder and may be offered a lease in accordance with § 2805.10.
 
 (b) The BLM will determine the variable offsets for the successful bidder in accordance with § 2809.16 before issuing final payment terms.

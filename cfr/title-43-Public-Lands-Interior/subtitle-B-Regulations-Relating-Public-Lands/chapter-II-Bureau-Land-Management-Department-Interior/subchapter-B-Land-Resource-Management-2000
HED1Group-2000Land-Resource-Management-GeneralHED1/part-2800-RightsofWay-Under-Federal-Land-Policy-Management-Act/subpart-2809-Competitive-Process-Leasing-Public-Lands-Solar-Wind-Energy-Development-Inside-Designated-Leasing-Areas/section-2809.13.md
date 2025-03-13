@@ -1,5 +1,7 @@
 ##### § 2809.13 How will the BLM conduct competitive offers? #####
 
+Link to an amendment published at 89 FR 35683, May 1, 2024.
+
 (a) *Variety of competitive procedures available.* The BLM may use any type of competitive process or procedure to conduct its competitive offer, and any method, including the use of the Internet, to conduct the actual auction or competitive bid procedure. Possible bid procedures could include, but are not limited to: Sealed bidding, oral auctions, modified competitive bidding, electronic bidding, and any combination thereof.
 
 (b) *Notice of competitive offer.* We will publish a notice in the Federal Register at least 30 days prior to the competitive offer and may use other notification methods, such as a newspaper of general circulation in the area affected by the potential right-of-way or the Internet. The Federal Register and other notices will include:

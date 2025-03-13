@@ -1,5 +1,7 @@
 ##### § 1665.6 Schedule of fees. #####
 
+Link to an amendment published at 89 FR 35006, May 1, 2024.
+
 (a) *Prohibitions against charging fees.* Individuals will not be charged for:
 
 (1) The search and review of the record.

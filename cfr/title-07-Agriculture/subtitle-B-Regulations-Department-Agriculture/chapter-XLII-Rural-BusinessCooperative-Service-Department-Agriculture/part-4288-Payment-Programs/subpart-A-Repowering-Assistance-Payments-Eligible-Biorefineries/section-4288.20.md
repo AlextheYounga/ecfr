@@ -2,7 +2,7 @@
 
 (a) *Address to make application.* Application must be submitted to USDA, Rural Development-Energy Division, Program Branch, Attention: Repowering Assistance Program, 1400 Independence Avenue, SW., Stop 3225, Washington, DC 20250-3225.
 
-(b) *Content and form of submission.* Applicants must submit a signed original and one copy of an application containing the information specified in this section. The applicant must also furnish the Agency the required documentation identified in Form RD 4288-4, “Repowering Assistance Program Application,” to verify compliance with program provisions before acceptance into the program. Note that applicants are required to have a Dun and Bradstreet Universal Numbering System (DUNS) number (unless the applicant is an individual). The DUNS number is a nine-digit identification number, which uniquely identifies business entities. A DUNS number can be obtained at no cost via a toll-free request line at 1-866-705-5711, or online at *http://fedgov.dnb.com/webform.* Applicants must submit to the Agency the documents specified in paragraphs (b)(1) through (b)(6) of this section.
+(b) *Content and form of submission.* Applicants must submit a signed original and one copy of an application containing the information specified in this section. The applicant must also furnish the Agency the required documentation identified in Form RD 4288-4, “Repowering Assistance Program Application,” to verify compliance with program provisions before acceptance into the program. Note that applicants are required to have a Unique Entity Identifier (UEI) (unless the applicant is an individual). Instructions for obtaining the UEI are available at *https://sam.gov/.* Applicants must submit to the Agency the documents specified in paragraphs (b)(1) through (6) of this section.
 
 (1) *Form RD 4288-4.* Applicants must submit this form and all necessary attachments providing project information on the biorefinery; the facility at which the biorefinery operates, including location and products produced; and the types and quantities of renewable biomass feedstock being proposed to produce heat or power. This form requires the applicant to provide relevant data to allow for technical analysis of their existing facility to demonstrate replacement of fossil fuel by renewable biomass with reasonable costs and maximum efficiencies. The applicant must also submit evidence that the biorefinery was in existence on or before June 18, 2008. The applicant is required to certify the information provided.
 
@@ -104,4 +104,4 @@
 
 (x) If woody biomass from National forest system lands or public lands is proposed as the feedstock, documentation must be provided that it cannot be used as a higher value wood-based product.
 
-[76 FR 7926, Feb. 11, 2011, as amended at 81 FR 11053, Mar. 2, 2016]
+[76 FR 7926, Feb. 11, 2011, as amended at 81 FR 11053, Mar. 2, 2016; 89 FR 34959, May 1, 2024]

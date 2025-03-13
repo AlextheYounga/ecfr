@@ -1,5 +1,7 @@
 ##### § 1548.3 TSA inspection authority. #####
 
+Link to an amendment published at 89 FR 35626, May 1, 2024.
+
 (a) Each indirect air carrier must allow TSA, at any time or place, to make any inspections or tests, including copying records, to determine compliance of an airport operator, aircraft operator, foreign air carrier, indirect air carrier, or airport tenant with—
 
 (1) This subchapter, and any security program approved under this subchapter, and part 1520 of this chapter; and

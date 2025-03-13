@@ -1,6 +1,6 @@
 ##### § 1774.10 Applications. #####
 
-(a) To file an application, an organization must provide their DUNS number. An organization may obtain a DUNS number from Dun and Bradstreet by calling (1-866-705-5711). To file a complete application, the following information should be submitted:
+(a) To file an application, an organization must provide their Unique Entity Identifier (UEI) in accordance with 2 CFR part 25. Instructions for obtaining the UEI are available at *https://sam.gov/.* To file a complete application, the following should be submitted:
 
 (1) Standard Form 424, “Application for Federal Assistance (For Non-Construction).”
 
@@ -29,3 +29,5 @@
 (vii) Certification regarding prohibited tying arrangements. Applicants that provide electric service must provide the Agency a certification that they will not require users of a water or waste facility financed under this part to accept electric service as a condition of receiving assistance.
 
 (b) Applicants are encouraged to contact the State Office or the Processing Official to find out how to file electronically. The application and supporting documentation must be sent or delivered to the Processing Official, unless it is filed electronically.
+
+[75 FR 35963, June 24, 2010, as amended at 89 FR 34958, May 1, 2024]

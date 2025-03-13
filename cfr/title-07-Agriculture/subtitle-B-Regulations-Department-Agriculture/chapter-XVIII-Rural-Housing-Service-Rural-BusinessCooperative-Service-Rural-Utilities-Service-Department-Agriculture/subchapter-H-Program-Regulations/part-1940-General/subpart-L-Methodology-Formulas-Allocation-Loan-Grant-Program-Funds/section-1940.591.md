@@ -12,9 +12,9 @@
 
 (iii) State's percentage of national nonmetropolitan unemployment—25 percent.
 
-(2) The data source for the first criterion is the most recent decennial Census data. The data source for the second criterion is the 5-year data from the American Community Survey (ACS) or, if needed, other Census Bureau data. The data source for the third criterion is the most recent Bureau of Labor Statistics data. Each criterion is assigned a specific weight according to its relevance in determining need. The percentage representing each criterion is multiplied by the weight factor and summed to arrive at a State factor (SF). The SF cannot exceed 0.05.
+(2) The data source for the first criterion is the most recent decennial Census data. The data source for the second and third criteria is the 5-year data from the American Community Survey (ACS). Each criterion is assigned a specific weight according to its relevance in determining need. The percentage representing each criterion is multiplied by the weight factor and summed to arrive at a State factor (SF). The SF cannot exceed 0.05.
 
-SF = (criterion (b)(1)(i) × 50 percent) + (criterion (b)(1)(ii) × 25 percent) + (criterion (b)(1)(iii) × 25 percent)
+Equation 1 to Paragraph (b)SF = (criterion (b)(1)(i) × 50 percent) + (criterion (b)(1)(ii) × 25 percent) + (criterion (b)(1)(iii) × 25 percent)
 
 (c) *Basic formula allocation.* See § 1940.552(c) of this subpart. States receiving administrative allocations do not receive formula allocations.
 
@@ -34,4 +34,4 @@ SF = (criterion (b)(1)(i) × 50 percent) + (criterion (b)(1)(ii) × 25 percent) 
 
 (k) *Other documentation.* Not applicable.
 
-[55 FR 11134, Mar. 27, 1990, as amended at 58 FR 54486, Oct. 22, 1993; 80 FR 9877, Feb. 24, 2015]
+[55 FR 11134, Mar. 27, 1990, as amended at 58 FR 54486, Oct. 22, 1993; 80 FR 9877, Feb. 24, 2015; 89 FR 34961, May 1, 2024]

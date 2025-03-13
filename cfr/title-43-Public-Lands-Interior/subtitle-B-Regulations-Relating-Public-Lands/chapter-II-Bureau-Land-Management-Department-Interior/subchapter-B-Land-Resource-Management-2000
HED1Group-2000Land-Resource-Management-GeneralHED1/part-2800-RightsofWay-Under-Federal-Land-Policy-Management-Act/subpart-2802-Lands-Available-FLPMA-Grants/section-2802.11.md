@@ -1,5 +1,7 @@
 ##### § 2802.11 How does the BLM designate right-of-way corridors and designated leasing areas? #####
 
+Link to an amendment published at 89 FR 35677, May 1, 2024.
+
 (a) The BLM may determine the locations and boundaries of right-of-way corridors or designated leasing areas during the land use planning process described in part 1600 of this chapter. During this process, the BLM coordinates with other Federal agencies, State, local, and tribal governments, and the public to identify resource-related issues, concerns, and needs. The process results in a resource management plan or plan amendment, which addresses the extent to which you may use public lands and resources for specific purposes.
 
 (b) When determining which lands may be suitable for right-of-way corridors or designated leasing areas, the factors the BLM considers include, but are not limited to, the following:

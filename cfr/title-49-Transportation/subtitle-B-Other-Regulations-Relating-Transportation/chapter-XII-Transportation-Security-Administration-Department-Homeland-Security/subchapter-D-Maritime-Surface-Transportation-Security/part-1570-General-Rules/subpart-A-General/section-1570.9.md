@@ -1,5 +1,7 @@
 ##### § 1570.9 Compliance, inspection, and enforcement. #####
 
+Link to an amendment published at 89 FR 35631, May 1, 2024.
+
 (a) Each person subject to any of the requirements of this subchapter, must allow TSA and other authorized DHS officials, at any time and in a reasonable manner, without advance notice, to enter, assess, inspect, and test property, facilities, equipment, and operations; and to view, inspect, and copy records, as necessary to carry out TSA's security-related statutory or regulatory authorities, including its authority to—
 
 (1) Assess threats to transportation.

@@ -1,6 +1,6 @@
 ##### § 2803.12 What happens to my application or grant if I die? #####
 
-Link to an amendment published at 89 FR 25959, Apr. 12, 2024.
+Link to an amendment published at 89 FR 25959, Apr. 12, 2024.Link to an amendment published at 89 FR 35678, May 1, 2024.
 
 (a) If an applicant or grant holder dies, any inheritable interest in an application or grant will be distributed under state law.
 

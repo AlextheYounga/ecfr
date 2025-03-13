@@ -1,5 +1,7 @@
 ##### § 2809.19 Applications in designated leasing areas or on lands that later become designated leasing areas. #####
 
+Link to an amendment published at 89 FR 35684, May 1, 2024.
+
 (a) Applications for solar or wind energy development filed on lands outside of designated leasing areas, which subsequently become designated leasing areas will:
 
 (1) Continue to be processed by the BLM and are not subject to the competitive leasing offer process of this subpart, if such applications are filed prior to the publication of the notice of intent or other public announcement from the BLM of the proposed land use plan amendment to designate the solar or wind leasing area; or

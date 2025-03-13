@@ -1,6 +1,6 @@
 ##### § 2804.12 What must I do when submitting my application? #####
 
-Link to an amendment published at 89 FR 25959, Apr. 12, 2024.
+Link to an amendment published at 89 FR 25959, Apr. 12, 2024.Link to an amendment published at 89 FR 35678, May 1, 2024.
 
 (a) File your application on Standard Form 299, available from any BLM office or at *http://www.blm.gov,* and fill in the required information as completely as possible. Your completed application must include the following:
 

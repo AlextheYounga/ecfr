@@ -1,5 +1,7 @@
 ##### § 1503.103 Terms used in this part. #####
 
+Link to an amendment published at 89 FR 35625, May 1, 2024.
+
 In addition to the terms in § 1500.3 of this chapter, the following definitions apply in this part:
 
 *Administrative law judge* or *ALJ* means an ALJ appointed pursuant to the provisions of 5 U.S.C. 3105.
