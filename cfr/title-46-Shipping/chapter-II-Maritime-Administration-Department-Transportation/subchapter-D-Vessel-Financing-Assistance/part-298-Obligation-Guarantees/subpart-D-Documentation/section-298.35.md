@@ -1,7 +1,5 @@
 ##### § 298.35 Title XI Reserve Fund and Financial Agreement. #####
 
-Link to an amendment published at 88 FR 86612, Dec. 14, 2023.
-
 (a) *Purpose.* In order to provide us with further security and to ensure payment of the interest and principal due on the Obligations, we will require the Company to enter into a Title XI Reserve Fund and Financial Agreement (Agreement) at the first Closing at which the Company issues Obligations. We may waive or modify provisions of the Agreement based on our evaluation of the aggregate security for the Guarantees.
 
 (b) *Financial covenants.* There will be two sets of covenants. One set of covenants will be imposed regardless of the Company's financial condition (primary covenants). The other set of covenants will be imposed only if the Company does not meet specific financial conditions (supplemental covenants). The primary and supplemental covenants are to be set forth in the Agreement. Covenants shall be imposed on the Company as follows:
@@ -34,7 +32,7 @@ Link to an amendment published at 88 FR 86612, Dec. 14, 2023.
 
 (vii) Enter into any merger or consolidation or convey, sell, demise charter, or otherwise transfer, or dispose of any portion of its properties or assets (any and all of which acts are encompassed within the words “sale” or “sold” as used in this section), provided that, the Company will not be deemed to have sold such properties or assets if the net book value of the aggregate of all the assets sold by the Company during any period of 12 consecutive calendar months does not exceed ten percent of the total net book value of all of the Company's assets; the Company retains the proceeds of the sale of assets for use in accordance with the Company's regular business activities; and the sale is not otherwise prohibited by paragraph (b)(1)(iii) of this section. The Company may not consummate such sale without our prior written consent if the Company has not, prior to the time of such sale, submitted to us, as required, its most recently audited financial statements referred to in § 298.42(a) and any attempt to consummate a sale absent such approval will be null and void *ab initio.*
 
-(2) *Supplemental Covenants which may become applicable.* Unless, after giving effect to such transaction or transactions, during any fiscal year of the Company, the Company's Working Capital is equal to at least one dollar, the Company's Long-Term Debt does not exceed two times the Company's Net Worth and the Company's Net Worth is at least the amount specified by us, the Company shall not, without our prior written consent:
+(2) *Supplemental covenants which may become applicable.* Unless, after giving effect to such transaction or transactions, during any fiscal year of the Company, the Company must remain in compliance with financial terms and requirements specified by MARAD based on the agency's evaluation for financial performance and creditworthiness and appropriate to protect the interest of the United States. The Company must not, without prior MARAD written consent:
 
 (i) Withdraw any capital;
 
@@ -72,7 +70,7 @@ Link to an amendment published at 88 FR 86612, Dec. 14, 2023.
 
 (ii) The principal amount of Obligations retired or paid (as defined in the Security Agreement), prepaid or redeemed, in excess of the required redemptions or payments which may be used by the Company as a credit against future required redemptions or other required payments with respect to the Obligations.
 
-(d) *Deposits.* Unless the Company, as of the close of its accounting year, was subject to and in compliance with the financial requirements set forth in paragraph (b)(2) of this section, the Company shall make one or more deposits to us to be held by the Depository (the Title XI Reserve Fund), as further provided for in the Depository Agreement. The amount of deposit as to any year, or period less than a full year, where applicable, will be determined as follows:
+(d) *Deposits.* Unless the Company, as of the close of its accounting year, was subject to and in compliance with the financial terms required by paragraph (b)(2) of this section, the Company must make one or more deposits to MARAD to be held by the Depository (the Title XI Reserve Fund), as further provided for in the depository agreement. The amount of deposit for any year, or period less than a full year, where applicable, will be determined as follows:
 
 (1) Fifty percent of the Title XI Reserve Fund Net Income, less an amount equal to 10% of the Company's total original equity investment in the Vessel or Vessels, (if the Company is the owner of the assets), will be deposited into the Title XI Reserve Fund.
 
@@ -92,4 +90,4 @@ Link to an amendment published at 88 FR 86612, Dec. 14, 2023.
 
 (e) *Fund in lieu of Title XI Reserve Fund.* If the Company has established a Capital Construction Fund (CCF), pursuant to section 607 of the Act, whether interim or permanent, at any time when a deposit would otherwise be required to be made into the Title XI Reserve Fund, and the Company elects to make such deposits to the CCF, the Company must enter into an agreement, satisfactory to us, providing that all such deposits of assets therein will be security (CCF Security Amount) to the United States in lieu of the Title XI Reserve Fund. The deposit requirements of the Title XI Reserve Fund and Financial Agreement will be deemed satisfied by deposits of equal amounts in the CCF, and withdrawal of the CCF Security Amount will be subject to our prior written consent. If, for any reason, the CCF terminates prior to the payment of the Obligations, the Secretary's Note and all other amounts due under or secured by the Security Agreement or Mortgage, the CCF Security Amount will be deposited or redeposited in the Title XI Reserve Fund.
 
-[65 FR 45152, July 20, 2000, as amended at 67 FR 61282, Sept. 30, 2002]
+[65 FR 45152, July 20, 2000, as amended at 67 FR 61282, Sept. 30, 2002; 88 FR 86612, Dec. 14, 2023]

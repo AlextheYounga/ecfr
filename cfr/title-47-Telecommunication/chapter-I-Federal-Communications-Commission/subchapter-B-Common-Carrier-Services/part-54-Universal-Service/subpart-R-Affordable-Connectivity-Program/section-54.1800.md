@@ -1,7 +1,5 @@
 ##### § 54.1800 Definitions. #####
 
-Link to an amendment published at 88 FR 84447, Dec. 5, 2023.
-
 (a) *Administrator.* The term “Administrator” means the Universal Service Administrative Company.
 
 (b) *Affordable connectivity benefit.* The term “affordable connectivity benefit” means a monthly discount for an eligible household, applied to the actual amount charged to such household, in an amount equal to such amount charged, but not more than $30, or, if an internet service offering is provided to an eligible household on Tribal land, not more than $75.
@@ -22,7 +20,7 @@ Link to an amendment published at 88 FR 84447, Dec. 5, 2023.
 
 (j) *Eligible household.* The term “eligible household” means, regardless of whether the household or any member of the household receives support under subpart E of this Part, and regardless of whether any member of the household has any past or present arrearages with a broadband provider, a household in which—
 
-(1) At least one member of the household meets the qualifications in § 54.409(a)(2) or (b) of this part (or any successor regulation);
+(1) At least one member of the household meets the qualifications in § 54.409(a)(2) or (3) or (b);
 
 (2) The household's income as defined in § 54.1800(k) is at or below 200% of the Federal Poverty Guidelines for a household of that size;
 
@@ -33,6 +31,8 @@ Link to an amendment published at 88 FR 84447, Dec. 5, 2023.
 (5) At least one member of the household meets the eligibility criteria for a participating provider's existing low-income program, subject to the requirements of § 54.1806(a)(2); or
 
 (6) At least one member of the household receives assistance through the special supplemental nutritional program for women, infants and children established by section 17 of the Child Nutrition Act of 1996 (42 U.S.C. 1786).
+
+(7) Compliance with paragraph (j)(1) of this section will not be required until this paragraph (j)(7) is removed or contains a compliance date, which will not occur until the later of July 15, 2024; or after OMB completes review of any information collection requirements in subpart E of this part, §§ 54.403(a)(4), 54.410(d)(2)(ii), 54.410(i), and 54.424, that the Wireline Competition Bureau determines is required under the Paperwork Reduction Act or the Wireline Competition Bureau determines that such review is not required. The Commission directs the Wireline Competition Bureau to announce a compliance date for the requirements of paragraph (j)(1) by subsequent Public Notice and notification in the Federal Register and to cause this section to be revised accordingly.
 
 (k) *Enrollment representative.* “Enrollment representative” means an employee, agent, contractor, or subcontractor, acting on behalf of a participating provider or third-party entity, who directly or indirectly provides information to the Administrator for the purpose of eligibility verification, enrollment, subscriber personal information updates, benefit transfers, or de-enrollment.
 
@@ -59,3 +59,5 @@ Link to an amendment published at 88 FR 84447, Dec. 5, 2023.
 (4) Has not been removed or voluntarily withdrawn from the Affordable Connectivity Program pursuant to § 54.1801(e).
 
 (s) *Tribal lands.* For purposes of this subpart, “Tribal lands” include any federally recognized Indian tribe's reservation, pueblo, or colony, including former reservations in Oklahoma; Alaska Native regions established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688); Indian allotments; Hawaiian Home Lands—areas held in trust for Native Hawaiians by the State of Hawaii, pursuant to the Hawaiian Homes Commission Act, 1920 July 9, 1921, 42 Stat. 108, *et. seq.,* as amended; and any land designated as such by the Commission for purposes of subpart E of this part pursuant to the designation process in § 54.412.
+
+[87 FR 8373, Feb. 14, 2022, as amended at 88 FR 84447, Dec. 5, 2023]

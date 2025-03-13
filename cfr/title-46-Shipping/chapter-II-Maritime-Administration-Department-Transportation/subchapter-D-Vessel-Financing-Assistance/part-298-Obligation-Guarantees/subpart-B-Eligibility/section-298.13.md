@@ -1,7 +1,5 @@
 ##### § 298.13 Financial requirements. #####
 
-Link to an amendment published at 88 FR 86611, Dec. 14, 2023.
-
 (a) *In general.* To be eligible for guarantees, you and/or your parent organization (when applicable), and any other participants in the project having a significant financial or contractual relationship with you must submit information, respectively, on their financial condition. You must submit this information at the time of the application. You must supplement this information if we require it in subsequent requests. You must submit information satisfactory to us to show that financial resources are available to support the Title XI project.
 
 (b) *Cost of the project.* You must submit the following cost information with respect to the project:
@@ -64,7 +62,7 @@ Link to an amendment published at 88 FR 86611, Dec. 14, 2023.
 
 (Approved by the Office of Management and Budget under control number 2133-0005)
 
-(d) *Financial definitions.* For the purpose of this section and §§ 298.35 and 298.42 of this part:
+(d) *Financial definitions.* For the purpose of this section and §§ 298.35, 298.36, and 298.42 of this part:
 
 (1) “Company” means any Person subject to financial requirements imposed under paragraph (f) of this section and in § 298.35, as well as the reporting requirements imposed by § 298.42.
 
@@ -76,9 +74,9 @@ Link to an amendment published at 88 FR 86611, Dec. 14, 2023.
 
 (B) An amount equal to any excess of unterminated voyage revenue over unterminated voyage expenses.
 
-(ii) In determining current liabilities, you must deduct any excess of unterminated voyage expenses over unterminated voyage revenue and add one half of all annual charter hire and other lease obligations (having a term of more than six months) due and payable within the succeeding fiscal year, other than charter hire and such other lease obligations already included and reported as a current liability on the Company's balance sheet.
+(ii) In determining current liabilities, you must deduct any excess of unterminated voyage expenses over unterminated voyage revenue.
 
-(3) “Equity” or “net worth” means, as of any date, (the total of paid-in-capital stock, paid-in surplus, earned surplus and appropriated surplus,) and all other amounts that would be included in net worth in accordance with GAAP, but does not include:
+(3) “Equity” or “Net Worth” means, as of any date, (the total of paid-in-capital stock, paid-in surplus, earned surplus, retained earnings, and appropriated surplus,) and all other amounts that would be included in net worth in accordance with GAAP, but does not include:
 
 (i) Any receivables from any stockholder, director, Officer or employee (or their family) of the Company or from any Related Party (other than current receivables arising out of the ordinary course of business and not outstanding for more than 60 days), and
 
@@ -90,7 +88,7 @@ Link to an amendment published at 88 FR 86611, Dec. 14, 2023.
 
 (6) “Depreciated Capitalizable Cost” means the Capitalizable Cost of a Vessel or Shipyard Project, depreciated on a straightline basis over the same useful life as determined by us for Actual Cost, and depreciated as required by § 298.21(g).
 
-(e) *Applicability.* The financial resources must be adequate to meet the Equity requirements in the project and Working Capital requirements, as set forth in paragraph (f) of this section.
+(e) *Applicability.* The financial resources must be adequate to meet the financial terms MARAD requires pursuant to paragraph (f) of this section.
 
 (1) The various financial requirements shall be met by the owner of the Vessel or Vessels or Shipyard Project to be security to us for the Guarantees, except that if the owner is not the operator, the overall financial requirements will be allocated among the owner, the operator and other parties as determined by us.
 
@@ -98,44 +96,40 @@ Link to an amendment published at 88 FR 86611, Dec. 14, 2023.
 
 (3) A determination as to whether the Company has satisfied all financial requirements shall be based on the assumption that the projected financing has been completed. Accordingly, you must submit:
 
-(i) A pro forma balance sheet at the time of the application, reflecting any adjustment made pursuant to paragraph (f)(1)(i) of this section, and
+(i) A pro forma balance sheet at the time of the application; and
 
 (ii) A revised pro forma balance sheet, reflecting the completion of the projected financing, at least five business days before the first Closing at which the Obligations are issued.
 
-(f) *Financial requirements at Closing.* Financial requirements can apply to one or more Companies, and are determined as follows:
+(f) *Financial requirements at Closing.* As a condition of disbursement of a guaranteed loan, the Company must demonstrate financial performance that supports a reasonable prospect of repayment taking into account foreseeable negative economic conditions.
 
-(1) *Owner as operator.* Where the owner is to be the Vessel operator, minimum requirements at Closing usually are as follows:
+(1) The financial requirements of this section are applicable to Companies qualifying under one of the following three categories:
 
-(i) *Working Capital.* The Company's Working Capital shall not be less than one dollar. This Working Capital requirement is based on the premise that the Company engages in a service-type activity with only normal vessel inventory. If Working Capital includes other inventory, in addition to such normal Vessel inventory, we may adjust the requirement as appropriate. Also, if we determine that the Company's Working Capital includes amounts receivable that it reasonably could not expect to collect within one year, we may make adjustments to the Working Capital requirements.
+(i) Owner as vessel operator, where the owner is to be the vessel operator;
 
-(ii) *Long-Term Debt.* The Company's Long-Term Debt must not be greater than twice its Equity.
+(ii) Lessee or charterer as operator, where the lessee or charterer is to be the vessel operator; or
 
-(iii) *Equity (net worth).* The Company's Equity must be:
+(iii) Owner as general shipyard facility, where the owner of a shipyard project is a general shipyard facility.
 
-(A) The greater of:
+(2) Qualifying financial performance will be substantiated by financial results over at least the trailing 12 quarters and/or demonstrated by pro-forma financial performance that is underpinned by reasonable assumptions.
 
-(*1)* 50 percent of its Long-Term Debt; or
+(3) Qualifying creditworthiness will be substantiated by reviewing and evaluating applicants based on revenue metrics which include the following non-exhaustive list:
 
-(*2)* 90 percent of its Equity as shown on the last audited balance sheet, dated not earlier than six months before the date of issuance of the Letter Commitment; or
+(i) Market factors;
 
-(B) Such other amount as may be specified by us.
+(ii) Strategic positioning;
 
-(2) *Lessee or charterer as operator.* Where a lessee or charterer is to be the Vessel operator, minimum requirements at Closing usually are as follows:
+(iii) Management and governance;
 
-(i) *Working Capital.* The operator's Working Capital requirement will be the same as that which would have otherwise been imposed on the owner as operator under paragraph (f)(1)(i) of this section and based on the same premise stated in that paragraph.
+(iv) Pro-forma financial strength;
 
-(ii) *Long-Term Debt.* The operator's Long-Term Debt will be the same as that which would have otherwise been imposed on the owner as operator under paragraph (f)(1)(ii) of this section.
+(v) Project specific factors; and
 
-(iii) *Equity (net worth).* The operator's equity requirement will be the same as that which would have otherwise been imposed on the owner as operator under paragraph (f)(1)(iii) of this section.
+(vi) Loan terms.
 
-(iv) The owner's Equity shall at least be equal to the difference between the Capitalizable Cost or Depreciated Capitalizable Cost of the Vessel (whichever is applicable) and the total amount of the Guarantees.
+(g) *Adjustments to financial requirements at Closing.* If the owner, although not operating a vessel, assumes any of the operating responsibilities, MARAD may adjust the financial requirements of the owner and operator by increasing the requirements of the owner and decreasing those of the operator.
 
-(3) *Owner as General Shipyard Facility.* Where the owner of Shipyard Project is a General Shipyard Facility, minimum requirements at Closing will be the same as those set forth in paragraph (f)(1) of this section for an owner as operator.
+(h) *Subordinated debt considered to be equity.* With MARAD approval, part of the equity requirements applicable under paragraph (c) of this section may be satisfied by debt, fully subordinated by a subordination agreement with MARAD, as to the payment of principal and interest on the Secretary's Note and any claims secured as provided for in the Security Agreement or the Mortgage. Repayment of subordinated debt may be made only from funds available for payment of dividends or for other distributions, in accordance with requirements of the Title XI Reserve Fund and Financial Agreement (described in section 298.35). Such subordinated debt must not be secured by any interest in property that is security for Guarantees under Title XI, unless the obligor and the lender enter into a written agreement approved by MARAD. The written agreement must provide, among other things, that if any Title XI financing or advance by us to the obligor occurs in the future, such security interest of the lender must become subordinated to any indebtedness to MARAD incurred by the obligor and to any security interest obtained by MARAD in that property or other property, with respect to the subsequent indebtedness.
 
-(g) *Adjustments to financial requirements at Closing.* If the owner, although not operating a Vessel, assumes any of the operating responsibilities, we may adjust the respective Working Capital and Equity requirements of the owner and operator, otherwise applicable under paragraph (f) of this section, by increasing the requirements of the owner and decreasing those of the operator by the same amount.
+(i) *Modified requirements.* MARAD may waive or modify the financial terms or requirements otherwise applicable under sections 298.35 and 298.42, upon determining that there is adequate security for the guarantees or that such waiver or modification is in the best interests of the United States. MARAD may impose similar financial requirements on any person providing other security for the guarantees.
 
-(h) *Subordinated debt considered to be Equity.* With our consent, part of the Equity requirements applicable under paragraphs (c) and (f) of this section may be satisfied by debt, fully subordinated as to the payment of principal and interest on the Secretary's Note and any claims secured as provided for in the Security Agreement or the Mortgage. Repayment of subordinated debt may be made only from funds available for payment of dividends or for other distributions, in accordance with requirements of the Title XI Reserve Fund and Financial Agreement (described in § 298.35). Such subordinated debt shall not be secured by any interest in property that is security for Guarantees under Title XI, unless the Obligor and the lender enter into a written agreement, satisfactory to us, providing, among other things, that if any Title XI financing or advance by us to the Obligor shall occur in the future, such security interest of the lender shall become subordinated to any indebtedness to us incurred by the Obligor and to any security interest obtained by us in that property or other property, with respect to the subsequent indebtedness.
-
-(i) *Modified requirements.* We may waive or modify the financial terms or requirements otherwise applicable under this section and §§ 298.35 and 298.42, upon determining that there is adequate security for the Guarantees. We may impose similar financial requirements on any Person providing other security for the Guarantees.
-
-[65 FR 45152, July 20, 2000, as amended at 68 FR 62538, Nov. 5, 2003; 69 FR 61451, Oct. 19, 2004]
+[65 FR 45152, July 20, 2000, as amended at 68 FR 62538, Nov. 5, 2003; 69 FR 61451, Oct. 19, 2004; 88 FR 86611, Dec. 14, 2023]

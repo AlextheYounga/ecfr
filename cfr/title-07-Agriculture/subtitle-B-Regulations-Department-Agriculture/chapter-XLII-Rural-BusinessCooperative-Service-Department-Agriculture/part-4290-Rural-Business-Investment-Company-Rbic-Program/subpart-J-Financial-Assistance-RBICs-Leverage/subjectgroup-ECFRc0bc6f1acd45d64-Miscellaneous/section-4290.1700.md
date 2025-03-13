@@ -1,0 +1,3 @@
+##### § 4290.1700 Agency's transfer of interest in a RBIC's Leverage security. #####
+
+Upon such conditions and for such consideration as it deems reasonable, the Agency may sell, assign, transfer, or otherwise dispose of any Debenture held by or on behalf of the Agency. Upon notice by the Agency, a RBIC will make all payments of principal and interest as shall be directed by the Agency. A RBIC will be liable for all damage or loss which the Agency may sustain by reason of the RBIC's failure to follow such payment instructions, up to the amount of the RBIC's liability under such security, plus court costs and reasonable attorney's fees incurred by the Agency.

@@ -1,0 +1,3 @@
+##### § 4279.224 Minimum retention. #####
+
+The Lender is required to hold a minimum of 7.5 percent of the total loan amount. The amount required to be held must be of the unguaranteed portion of the loan and cannot be Participated to another Person. The Agency may reduce the minimum retention below 7.5 percent on a case by case basis when the Lender establishes to the Secretary's satisfaction that reduction of the minimum retention percentage is to meet compliance with the Lender's regulatory authority. The Lender must retain interest in the Collateral, and retain the servicing responsibilities for the guaranteed loan.

@@ -1,5 +1,7 @@
 ##### § 21.4201 Restrictions on enrollment; percentage of students receiving financial support. #####
 
+Link to an amendment published at 89 FR 2502, Jan. 16, 2024.
+
 (a) *General.* Except as otherwise provided in this section the Department of Veterans Affairs shall not approve an enrollment in any course for an eligible veteran, not already enrolled, for any period during which more than 85 percent of the students enrolled in the course are having all or part of their tuition, fees or other charges paid for them by the educational institution or by VA under title 38, U.S.C., or under title 10, U.S.C. This restriction may be waived in whole or in part.
 
 (Authority: 10 U.S.C. 16136(b); 38 U.S.C. 3034(a), 3241(a), 3323(a), 3680A(d))

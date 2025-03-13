@@ -1,0 +1,3 @@
+##### § 4290.691 Responsibilities of RBIC during examination. #####
+
+You must make all books, records and other pertinent documents and materials available for the examination, including any information required by the examiner under § 4290.620(c). In addition, the agreement between you and the independent public accountant performing your audit must provide that any information in the accountant's working papers be made available to the examiners upon request.

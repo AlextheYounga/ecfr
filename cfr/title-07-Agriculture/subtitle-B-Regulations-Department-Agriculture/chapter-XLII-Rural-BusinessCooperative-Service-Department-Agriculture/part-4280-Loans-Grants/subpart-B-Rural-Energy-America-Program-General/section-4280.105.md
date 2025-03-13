@@ -1,0 +1,3 @@
+##### § 4280.105 Review or appeal rights. #####
+
+Agency Applicants or grantees may have appeal or review rights for Agency decisions made under this part. Agency decisions that are adverse to the individual participant are appealable, while matters of general applicability are not subject to appeal; however, such decisions are reviewable for appealability by the National Appeals Division (NAD). All appeals will be conducted by NAD and will be handled in accordance with 7 CFR part 11. The applicant or grantee can appeal any Agency decision that directly and adversely affects them.

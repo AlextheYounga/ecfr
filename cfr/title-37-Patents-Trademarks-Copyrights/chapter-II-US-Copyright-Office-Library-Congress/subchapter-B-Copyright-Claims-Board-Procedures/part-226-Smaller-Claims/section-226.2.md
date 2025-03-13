@@ -1,3 +1,5 @@
 ##### § 226.2 Requesting a smaller claims proceeding. #####
 
+Link to an amendment published at 89 FR 2492, Jan. 16, 2024.
+
 A claimant may request consideration of a claim under the smaller claim procedures in this part at the time of filing a claim. The claimant may change its choice as to whether to have its claim considered under the smaller claim procedures at any time before service of the *initial notice.* If the claimant changes its choice, but the *initial notice* has already been issued, the claimant shall request reissuance of the *initial notice* indicating the updated choice. Once the claimant has served the *initial notice* on any respondent, the claimant may not amend its choice without consent of the other parties and leave of the Board.

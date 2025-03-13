@@ -1,0 +1,3 @@
+##### § 4280.38 Maximum amount of loans or Grants. #####
+
+During any given fiscal year, Rural Development will publish an announcement of available loan and Grant funds and will indicate the maximum loan and Grant amounts for which an Intermediary or prospective Intermediary may apply. This announcement will also include contact information and application deadlines. All pending applications on file at RBS, including both loan and Grant applications, from the same Intermediary or prospective Intermediary for the same Project will be considered to be one application in determining that the maximum size of the application is in accordance with this section.

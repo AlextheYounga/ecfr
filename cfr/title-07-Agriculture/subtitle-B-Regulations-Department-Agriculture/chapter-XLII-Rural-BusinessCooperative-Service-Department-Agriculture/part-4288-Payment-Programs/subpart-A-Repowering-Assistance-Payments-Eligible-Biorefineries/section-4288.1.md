@@ -1,0 +1,9 @@
+##### § 4288.1 Purpose and scope. #####
+
+(a) *Purpose.* The purpose of this program is to provide financial incentives to biorefineries in existence on June 18, 2008, the date of the enactment of the Food, Conservation, and Energy Act of 2008 (the 2008 Farm Bill) (Pub. L. 110-246), to replace the use of fossil fuels used to produce heat or power at their facilities by installing new systems that use renewable biomass, or to produce new energy from renewable biomass.
+
+(b) *Scope.* The Agency may make payments under this program to any biorefinery that meets the requirements of the program up to the limits established for the program. Based on our research and survey of medium-sized project costs, the Agency has determined that the dollar amount identified will provide adequate incentive for biorefineries to apply.
+
+(1) The Agency will determine the amount of payments to be made to a biorefinery taking into consideration the percentage reduction in fossil fuel used by the biorefinery (including the quantity of fossil fuels a renewable biomass system is replacing), and the cost and cost-effectiveness of the renewable biomass system.
+
+(2) The Agency will determine who receives payment under this program based on the percentage reduction in fossil fuel used by the biorefinery that will result from the installation of the renewable biomass system; the cost and cost-effectiveness of the renewable biomass system; and other scoring criteria identified in § 4288.21. The above criteria will be used to determine priority for awards of 50 percent of total eligible project costs, up to the maximum award applicable for the fiscal year.

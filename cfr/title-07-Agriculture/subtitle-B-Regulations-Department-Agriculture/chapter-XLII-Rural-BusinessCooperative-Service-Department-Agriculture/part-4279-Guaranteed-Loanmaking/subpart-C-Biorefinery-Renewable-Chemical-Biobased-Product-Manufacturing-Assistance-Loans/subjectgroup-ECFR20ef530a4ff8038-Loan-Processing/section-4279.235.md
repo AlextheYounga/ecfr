@@ -1,0 +1,7 @@
+##### § 4279.235 Collateral. #####
+
+The Lender is responsible for obtaining and maintaining proper and adequate Collateral to protect the interest of the Lender, the Holder, and the Agency. Collateral must be of such a nature that repayment of the loan is reasonably ensured when considered with the integrity and ability of Project management, soundness of the Project, and the Borrower's prospective earnings. The Collateral may include, but is not limited to, the following: Revenue, land, easements, rights-of-way, buildings, machinery, equipment, inventory, accounts receivable, contracts, cash, or other accounts, licenses and assignments of leases or leasehold interest.
+
+(a) The entire loan, the guaranteed and unguaranteed portions, must be secured by a first lien on all assets of the Project including all assets in the Project budget. The Agency may consider a subordinate lien position on inventory and accounts receivable to Working Capital loans including revolving lines of credit provided the Agency determines the Working Capital is necessary for the operation and with the Subordination, the loan remains adequately secured.
+
+(b) The entire loan must be secured by the same security with equal lien priority for the guaranteed and unguaranteed portions of the loan. The unguaranteed portion of the loan will neither be paid first nor given any preference or priority over the guaranteed portion.

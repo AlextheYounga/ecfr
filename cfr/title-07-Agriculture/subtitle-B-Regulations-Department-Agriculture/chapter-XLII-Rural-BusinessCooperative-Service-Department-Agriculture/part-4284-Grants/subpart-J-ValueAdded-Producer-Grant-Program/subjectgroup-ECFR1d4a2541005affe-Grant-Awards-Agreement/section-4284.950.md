@@ -1,0 +1,7 @@
+##### § 4284.950 Award process. #####
+
+(a) *Selection of applications for funding and for potential funding.* The Agency will select and rank applications for funding based on the score an application has received in response to the proposal evaluation criteria, compared to the scores of other value-added applications received in the same Fiscal Year. Higher scoring applications will receive first consideration for funding. The Agency may set a minimally acceptable score for funding, which will be noted in the published program notice. The Agency will notify Applicants, in writing, whether or not they have been selected for funding. For those Applicants not selected for funding, the Agency will provide a brief explanation for why they were not selected.
+
+(b) *Ranked applications not funded.* A ranked application that is not funded in the Fiscal Year in which it was submitted will not be carried forward into the next Fiscal Year. The Agency will notify the Applicant in writing.
+
+(c) *Intergovernmental review.* If State or local governments raise objections to a proposed project under the intergovernmental review process that are not resolved within 90 days of the Agency's award announcement date, the Agency will rescind the award and will provide the Applicant with a written notice to that effect. This is prior to the signing of a Grant Agreement. The Agency, in its sole discretion, may extend the 90-day period if it appears resolution is imminent.

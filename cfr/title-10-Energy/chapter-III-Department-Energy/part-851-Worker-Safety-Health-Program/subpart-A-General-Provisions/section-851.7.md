@@ -1,10 +1,8 @@
 ##### § 851.7 Requests for a binding interpretive ruling. #####
 
-Link to an amendment published at 88 FR 86815, Dec. 15, 2023.
-
 (a) *Right to file.* Any person subject to this part shall have the right to file a request for an interpretive ruling that is binding on DOE with regard to a question as to how the regulations in this part would apply to particular facts and circumstances.
 
-(b) *How to file.* Any person who wants to file a request under this section must file by mail or messenger in an envelop addressed to the Office of General Counsel, GC-1, U.S. Department of Energy, 1000 Independence Avenue, SW., Washington, DC 20585.
+(b) *How to file.* Any person who wants to file a request under this section must file by mail or messenger in an envelope addressed to the Office of General Counsel, GC-1, U.S. Department of Energy, 1000 Independence Avenue, SW., Washington, DC 20585.
 
 (c) *Content of request for interpretive ruling.* A request under this section must:
 
@@ -52,4 +50,4 @@ Link to an amendment published at 88 FR 86815, Dec. 15, 2023.
 
 (k) *Public availability of interpretive rulings.* For information of interested members of the public, DOE may file a copy of interpretive rulings on a DOE internet web site.
 
-[71 FR 6931, Feb. 9, 2006; 71 FR 36661, June 28, 2006]
+[71 FR 6931, Feb. 9, 2006; 71 FR 36661, June 28, 2006, as amended at 88 FR 86815, Dec. 15, 2023]

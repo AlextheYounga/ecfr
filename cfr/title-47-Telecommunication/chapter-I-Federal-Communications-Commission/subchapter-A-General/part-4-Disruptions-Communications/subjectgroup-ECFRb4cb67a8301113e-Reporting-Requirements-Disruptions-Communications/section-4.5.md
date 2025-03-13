@@ -1,5 +1,7 @@
 ##### § 4.5 Definitions of outage, special offices and facilities, and 911 special facilities. #####
 
+Link to an amendment published at 89 FR 2513, Jan. 16, 2024.
+
 (a) *Outage* is defined as a significant degradation in the ability of an end user to establish and maintain a channel of communications as a result of failure or degradation in the performance of a communications provider's network.
 
 (b) *Special offices and facilities* are defined as entities enrolled in the Telecommunications Service Priority (TSP) Program at priority Levels 1 and 2, which may include, but are not limited to, major military installations, key government facilities, nuclear power plants, and those airports that are listed as current primary (PR) airports in the FAA's National Plan of Integrated Airports Systems (NPIAS) (as issued at least one calendar year prior to the outage).

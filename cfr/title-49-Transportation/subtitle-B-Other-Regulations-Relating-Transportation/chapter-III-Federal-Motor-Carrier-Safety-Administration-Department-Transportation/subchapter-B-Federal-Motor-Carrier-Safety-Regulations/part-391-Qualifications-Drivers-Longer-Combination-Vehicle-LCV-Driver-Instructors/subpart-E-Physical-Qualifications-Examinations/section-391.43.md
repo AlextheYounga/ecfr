@@ -1,7 +1,5 @@
 ##### § 391.43 Medical examination; certificate of physical examination. #####
 
-Link to an amendment published at 88 FR 80184, Nov. 17, 2023.
-
 (a) Except as provided by paragraph (b) of this section, the medical examination must be performed by a medical examiner listed on the National Registry of Certified Medical Examiners under subpart D of part 390 of this chapter.
 
 (b) Exceptions:
@@ -22,7 +20,7 @@ Link to an amendment published at 88 FR 80184, Nov. 17, 2023.
 
 (f) The medical examination shall be performed, and its results shall be recorded on the Medical Examination Report Form, MCSA-5875, set out in this paragraph (f):
 
-![](/graphics/er07jy21.077.gif)![](/graphics/er07jy21.078.gif)![](/graphics/er07jy21.079.gif)![](/graphics/er07jy21.080.gif)![](/graphics/er07jy21.081.gif)![](/graphics/er07jy21.082.gif)![](/graphics/er07jy21.083.gif)![](/graphics/er07jy21.084.gif)![](/graphics/er07jy21.085.gif)
+![](/graphics/er17no23.000.gif)![](/graphics/er17no23.001.gif)![](/graphics/er17no23.002.gif)![](/graphics/er17no23.003.gif)![](/graphics/er17no23.004.gif)![](/graphics/er17no23.005.gif)![](/graphics/er17no23.006.gif)![](/graphics/er17no23.007.gif)![](/graphics/er17no23.008.gif)
 
 (g) Upon completion of the medical examination required by this subpart:
 
@@ -44,7 +42,7 @@ Link to an amendment published at 88 FR 80184, Nov. 17, 2023.
 
 (h) The medical examiner's certificate shall be completed in accordance with the following Form MCSA-5876, Medical Examiner's Certificate:
 
-![](/graphics/er04oc16.150.gif)
+![](/graphics/er17no23.009.gif)
 
 (i) Each original (paper or electronic) completed Medical Examination Report and a copy or electronic version of each medical examiner's certificate must be retained on file at the office of the medical examiner for at least 3 years from the date of examination. The medical examiner must make all records and information in these files available to an authorized representative of FMCSA or an authorized Federal, State, or local enforcement agency representative, within 48 hours after the request is made.
 

@@ -1,0 +1,13 @@
+##### § 64.6408 Protection of the privacy of calls and text messages to covered hotlines. #####
+
+(a) All covered providers, wireline providers of voice service, fixed wireless providers of voice service, and fixed satellite providers of voice service shall:
+
+(1) Omit from consumer-facing logs of calls and text messages any records of calls or text messages to covered hotlines in the central database established by the Commission.
+
+(2) Maintain internal records of calls and text messages omitted from consumer-facing logs of calls and text messages pursuant to paragraph (a)(1) of this section.
+
+(3) Be responsible for downloading the initial database file and subsequent updates to the database file from the central database established by the Commission. Updates must be downloaded and implemented by covered providers, wireline providers of voice service, fixed wireless providers of voice service, and fixed satellite providers of voice service no later than 15 days after such updates are made available for download.
+
+(b) With respect to covered providers, wireline providers of voice service, fixed wireless providers of voice service, and fixed satellite providers of voice service that are not small service providers, compliance with paragraph (a) of this section shall be required December 5, 2024. In the event the Wireline Competition Bureau has not released the database download file specification by April 5, 2024, or in the event the Wireline Competition Bureau has not announced that the database administrator has made the initial database download file available for testing by October 7, 2024, the compliance deadline set forth in this paragraph (b) shall be extended consistent with the delay, and the Wireline Competition Bureau is delegated authority to revise this section accordingly.
+
+(c) With respect to small service providers that are covered providers or wireline providers of voice service, compliance with paragraph (a) of this section shall be required June 5, 2025. In the event the Wireline Competition Bureau has not released the database download file specification by October 7, 2024, or in the event the Wireline Competition Bureau has not announced that the database administrator has made the initial database download file available for testing by April 7, 2025, the compliance deadline set forth in this paragraph (c) shall be extended consistent with the delay, and the Wireline Competition Bureau is delegated authority to revise this section accordingly.

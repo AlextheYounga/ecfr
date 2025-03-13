@@ -1,0 +1,3 @@
+##### § 4279.217 Oversight and monitoring. #####
+
+The Lender must permit representatives of the Agency (or other agencies of the United States) to inspect and make copies of any records of the Lender pertaining to Program guaranteed loans during regular office hours of the Lender or at any other time upon agreement between the Lender and the Agency. In addition, the Lender must cooperate fully with Agency oversight and monitoring of all Lenders involved in any manner with any loan guarantee under this Program to ensure compliance with this subpart. Such oversight and monitoring will include, but is not limited to, reviewing Lender records and meeting with Lenders (in accordance with § 4287.307(d) of this chapter).

@@ -1,0 +1,3 @@
+##### § 64.6409 Compliance date. #####
+
+Compliance with §§ 64.6400 through 64.6407 will not be required until this section is removed or contains a compliance date, which will not occur until the later of July 15, 2024; or after the Office of Management and Budget completes review of any information collection requirements in §§ 64.6400 through 64.6407 that the Wireline Competition Bureau determines is required under the Paperwork Reduction Act or the Wireline Competition Bureau determines that such review is not required. The Commission directs the Wireline Competition Bureau to announce a compliance date for §§ 64.6400 through 64.6407 by subsequent Public Notice and notification in the Federal Register and to cause this subpart to be revised accordingly.

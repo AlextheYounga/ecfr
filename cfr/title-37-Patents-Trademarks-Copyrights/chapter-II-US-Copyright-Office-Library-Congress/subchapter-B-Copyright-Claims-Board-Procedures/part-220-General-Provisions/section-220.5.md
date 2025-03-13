@@ -1,5 +1,7 @@
 ##### § 220.5 Requests, responses, and written submissions. #####
 
+Link to an amendment published at 89 FR 2492, Jan. 16, 2024.
+
 (a) *Requests and responses submitted through fillable form.* Unless this subchapter provides otherwise or the Board orders otherwise, documents listed under this subsection shall be submitted through a fillable form on eCCB and shall comply with the following requirements:
 
 (1) *Tier one requests and responses.* Requests and responses to requests which are identified under this paragraph (a)(1) shall be filed through the fillable form on eCCB and be limited to 4,000 characters. Any party may submit a response to a request identified in this paragraph within seven days of the filing of the request. The Board may deny such a request before the time to submit a response expires, but the Board will not grant a request before the time to submit a response expires, unless the request is consented to by all parties. There shall be no replies from a party that submits a request, absent leave of the Board. Tier one requests and responses shall include:

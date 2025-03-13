@@ -1,5 +1,7 @@
 ##### § 240.17Ad-22 Standards for clearing agencies. #####
 
+Link to an amendment published at 89 FR 2829, Jan. 16, 2024.
+
 (a) *Definitions.* For purposes of this section:
 
 (1) *Backtesting* means an ex-post comparison of actual outcomes with expected outcomes derived from the use of margin models.

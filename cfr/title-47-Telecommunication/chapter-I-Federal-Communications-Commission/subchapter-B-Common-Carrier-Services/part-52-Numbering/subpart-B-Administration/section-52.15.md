@@ -72,9 +72,7 @@ Link to an amendment published at 88 FR 80637, Nov. 20, 2023.
 
 (8) Reports of Permanently Disconnected Numbers—Reporting carriers must report information regarding NANP numbers in accordance with § 64.1200(l) of this title.
 
-(g) *Applications for numbering resources*—
-
-(1) *General requirements.* An applicant for numbering resources must include in its application the applicant's company name, company headquarters address, OCN, parent company's OCN(s), and the primary type of business in which the numbering resources will be used.
+(g) *Applications for numbering resources*—(1) *General requirements.* An applicant for numbering resources must include in its application the applicant's company name, company headquarters address, OCN, parent company's OCN(s), and the primary type of business in which the numbering resources will be used.
 
 (2) *Initial numbering resources.* An applicant for initial numbering resources must include in its application evidence that the applicant is authorized to provide service in the area for which the numbering resources are requested; and that the applicant is or will be capable of providing service within sixty (60) days of the numbering resources activation date. A provider of VoIP Positioning Center (VPC) services that is unable to demonstrate authorization to provide service in a state may instead demonstrate that the state does not certify VPC service providers in order to request pseudo-Automatic Numbering Identification (p-ANI) codes directly from the Numbering Administrators for purposes of providing 911 and E-911 service.
 

@@ -1,0 +1,7 @@
+##### § 4290.3015 Evaluation and selection of Non-leveraged RBICs. #####
+
+(a) *General.* Notwithstanding any other provision in this part, when selecting applications for non-leveraged status, the Agency may select one or more applications, or none, for further consideration based on the evaluation criteria of this part.
+
+(b) *Eligibility and completeness.* In addition to the requirements specified in § 4290.350, an Applicant under this subpart must complete a written application that includes information not otherwise exempted by the Agency, in its sole discretion. The Agency may, on its own initiative, exempt material from a Non-leveraged RBIC application where the Agency determines it impedes an expedited process without a commensurate benefit to the program. To the extent that the Agency's exemption applies to the entire program, an announcement of the exemption will be published in the Federal Register. The Agency shall make a decision as to licensing an Applicant after the receipt of a complete application and will enter into a Participation Agreement with the RBIC if approved.
+
+(c) *Effect of a RBIC license.* Paragraphs (d)(2) and (d)(3) of § 4290.390 do not apply to Non-leveraged RBICs.

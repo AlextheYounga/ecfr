@@ -1,0 +1,3 @@
+##### § 4290.508 Compliance with non-discrimination laws and regulations applicable to federally-assisted programs. #####
+
+In conducting your operations and providing Assistance to your Portfolio Concerns, you must comply with Title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d-1 *et seq.*), the Age Discrimination Act of 1975 (Pub. L. 94-135, Title III), and Title V of the Equal Credit Opportunity Act (15 U.S.C. 1691 *et seq.*) and the following regulations promulgated by USDA to implement and enforce such laws: 7 CFR part 15.

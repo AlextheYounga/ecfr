@@ -1,0 +1,3 @@
+##### § 4284.1002 Policy. #####
+
+It is the policy of the Secretary of Agriculture to fund Centers which evidence broad support from the agricultural community in the state or region, significant coordination with end users (processing and distribution companies and regional grocers), strategic alliances with entities having technical research capabilities and a focused delivery plan for reaching out to the producer community. It is also the policy of the Secretary, using the research and technical services of the U.S. Department of Agriculture, to assist the grantees in establishing Centers. This program is not intended to fund scientific research.

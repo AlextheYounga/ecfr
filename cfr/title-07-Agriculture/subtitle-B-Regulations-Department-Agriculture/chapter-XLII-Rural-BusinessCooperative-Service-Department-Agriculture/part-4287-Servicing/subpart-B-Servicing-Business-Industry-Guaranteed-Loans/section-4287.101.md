@@ -1,0 +1,9 @@
+##### § 4287.101 Introduction. #####
+
+(a) As of October 1, 2020, this subpart is specifically applicable to and only contains regulations for servicing Business and Industry (B&I) Loans guaranteed by the Agency prior to October 1, 2020 and Business and Industry loans under the authority of the Coronavirus Aid, Relief, and Economic Security Act (CARES Act) (Pub. L. 116-136) to provide B&I guarantees for loans needed as a result of the Coronavirus Disease 2019 (COVID-19) pandemic for working capital loan purposes to support business operations and facilities in rural areas (B&I CARES Act Program Loans). Other than B&I CARES Act Program Loans and B&I loans guaranteed by the Agency prior to October 1, 2020, this subpart is no longer used for servicing B&I loans guaranteed by the Agency. Requirements for B&I loans guaranteed by the Agency after October 1, 2020 (other than B&I CARES Act Loans) may be found at 7 CFR part 5001.
+
+(b) The lender is responsible for servicing the entire loan and must remain mortgagee and secured party of record, notwithstanding the fact that another party may hold a portion of the loan.
+
+(c) Whether specifically stated or not, whenever Agency approval is required, it must be in writing. Copies of all forms and regulations referenced in this subpart may be obtained from any Agency office and from the USDA Rural Development Web site at *http://www.rd.usda.gov/publications.* Whenever a form is designated in this subpart, that designation includes predecessor and successor forms, if applicable, as specified by the Agency.
+
+[81 FR 36020, June 3, 2016, as amended at 85 FR 62196, Oct. 2, 2020]

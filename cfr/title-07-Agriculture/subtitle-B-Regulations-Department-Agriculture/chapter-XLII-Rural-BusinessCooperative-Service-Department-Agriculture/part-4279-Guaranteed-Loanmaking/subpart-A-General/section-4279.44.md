@@ -1,0 +1,3 @@
+##### § 4279.44 Access to records. #####
+
+The lender must permit representatives of the Agency (or other agencies of the United States) to inspect and make copies of any records of the lender pertaining to Agency guaranteed loans during regular office hours of the lender or at any other time upon agreement between the lender and the Agency. In addition, the lender must cooperate fully with Agency oversight and monitoring of all lenders involved in any manner with any guarantee to ensure compliance with this subpart, subpart B of this part, and subpart B of part 4287 of this chapter. Such oversight and monitoring will include, but is not limited to, reviewing lender records and meeting with lenders in accordance with subpart B of part 4287 of this chapter.

@@ -1,7 +1,5 @@
 ##### § 54.410 Subscriber eligibility determination and certification. #####
 
-Link to an amendment published at 88 FR 84447, Dec. 5, 2023.
-
 (a) All eligible telecommunications carriers must implement policies and procedures for ensuring that their Lifeline subscribers are eligible to receive Lifeline services. An eligible telecommunications carrier may not provide a consumer with an activated device that it represents enables use of Lifeline-supported service, nor may it activate service that it represents to be Lifeline service, unless and until it has:
 
 (1) Confirmed that the consumer is a qualifying low-income consumer pursuant to § 54.409, and;
@@ -64,7 +62,7 @@ Link to an amendment published at 88 FR 84447, Dec. 5, 2023.
 
 (i) The subscriber's full name;
 
-(ii) The subscriber's full residential address;
+(ii) The subscriber's full residential address, or, for a subscriber seeking to receive emergency communications support from the Lifeline program, a prior billing or residential address from within the past six months;
 
 (iii) Whether the subscriber's residential address is permanent or temporary;
 
@@ -98,9 +96,7 @@ Link to an amendment published at 88 FR 84447, Dec. 5, 2023.
 
 (e) State Lifeline administrators or other state agencies that are responsible for the initial determination of a subscriber's eligibility for Lifeline must provide each eligible telecommunications carrier with a copy of each of the certification forms collected by the state Lifeline administrator or other state agency for that carrier's subscribers.
 
-(f) *Annual eligibility re-certification process.*
-
-(1) All eligible telecommunications carriers must annually re-certify all subscribers, except for subscribers in states where the National Verifier, state Lifeline administrator, or other state agency is responsible for the annual re-certification of subscribers' Lifeline eligibility.
+(f) *Annual eligibility re-certification process*—(1) All eligible telecommunications carriers must annually re-certify all subscribers, except for subscribers in states where the National Verifier, state Lifeline administrator, or other state agency is responsible for the annual re-certification of subscribers' Lifeline eligibility.
 
 (2) In order to re-certify a subscriber's eligibility, an eligible telecommunications carrier must confirm a subscriber's current eligibility to receive Lifeline by:
 
@@ -128,4 +124,8 @@ Link to an amendment published at 88 FR 84447, Dec. 5, 2023.
 
 (h) *National Verifier transition.* As the National Verifier is implemented in a state, the obligations in paragraphs (b) through (g) of this section with respect to the National Verifier and eligible telecommunications carriers will also take effect.
 
-[77 FR 12970, Mar. 2, 2012, as amended at 77 FR 38534, June 28, 2012; 78 FR 40970, July 9, 2013; 80 FR 40935, July 14, 2015; 81 FR 33093, May 24, 2016; 83 FR 2085, Jan. 16, 2018; 84 FR 71328, Dec. 27, 2019]
+(i) *Survivors of domestic violence.* All survivors seeking to receive emergency communications support from the Lifeline program must have their eligibility to participate in the program confirmed through the National Verifier. The National Verifier will also transition survivors approaching the end of their six-month emergency support period in a manner consistent with the requirements applied to eligible telecommunications carriers at paragraph (f) of this section, and the National Verifier will de-enroll survivors whose continued eligibility to participate in the Lifeline program cannot be confirmed, consistent with § 54.405(e)(6).
+
+(j) *Compliance date.* Compliance with paragraph (d)(2)(ii) and paragraph (i) will not be required until this paragraph (j) is removed or contains a compliance date, which will not occur until the later of July 15, 2024; or after OMB completes review of any information collection requirements in paragraph (d)(2)(ii) and paragraph (i) that the Wireline Competition Bureau determines is required under the Paperwork Reduction Act or the Wireline Competition Bureau determines that such review is not required. The Commission directs the Wireline Competition Bureau to announce a compliance date for paragraph (d)(2)(ii) and paragraph (i) by subsequent Public Notice and notification in the Federal Register and to cause this section to be revised accordingly.
+
+[77 FR 12970, Mar. 2, 2012, as amended at 77 FR 38534, June 28, 2012; 78 FR 40970, July 9, 2013; 80 FR 40935, July 14, 2015; 81 FR 33093, May 24, 2016; 83 FR 2085, Jan. 16, 2018; 84 FR 71328, Dec. 27, 2019; 88 FR 84447, Dec. 5, 2023]

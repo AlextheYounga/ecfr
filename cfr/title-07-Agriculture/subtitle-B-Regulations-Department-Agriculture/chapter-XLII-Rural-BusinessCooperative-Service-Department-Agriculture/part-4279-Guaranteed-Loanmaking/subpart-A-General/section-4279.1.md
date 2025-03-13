@@ -1,0 +1,9 @@
+##### § 4279.1 Introduction. #####
+
+(a) As of October 1, 2020, this subpart is specifically applicable to and only contains regulations for Business and Industry loans under the authority of the Coronavirus Aid, Relief, and Economic Security Act (CARES Act) (Pub. L. 116-136) to provide B&I guarantees for loans needed as a result of the Coronavirus Disease 2019 (COVID-19) pandemic for working capital loan purposes to support business operations and facilities in rural areas (B&I CARES Act Program Loans). Some of the requirements of this subpart are waived or altered for B&I CARES Act Program Loans. The waivers and alterations are provided in § 4279.190 of this subpart. Other than B&I CARES Act Program Loans, this subpart is no longer used for making Business and Industry (B&I) loans guaranteed by the Agency. Subpart B of part 4287 of this chapter is retained for servicing B&I CARES Act Program Loans and B&I loans guaranteed by the Agency prior to October 1, 2020. Requirements for B&I loans guaranteed by the Agency after October 1, 2020 (other than B&I CARES Act Loans) may be found at 7 CFR part 5001.
+
+(b) The lender is responsible for ascertaining that all requirements for making, securing, servicing, and collecting the loan are complied with.
+
+(c) Whether specifically stated or not, whenever Agency approval is required, it must be in writing. Copies of all forms and regulations referenced in this subpart may be obtained from any Agency office and from the USDA Rural Development Web site at *http://www.rd.usda.gov/publications.* Whenever a form is designated in this subpart, it is initially capitalized and its reference includes predecessor and successor forms, if applicable.
+
+[81 FR 35997, June 3, 2016, as amended at 85 FR 31040, May 22, 2020; 85 FR 62196, Oct. 2, 2020]

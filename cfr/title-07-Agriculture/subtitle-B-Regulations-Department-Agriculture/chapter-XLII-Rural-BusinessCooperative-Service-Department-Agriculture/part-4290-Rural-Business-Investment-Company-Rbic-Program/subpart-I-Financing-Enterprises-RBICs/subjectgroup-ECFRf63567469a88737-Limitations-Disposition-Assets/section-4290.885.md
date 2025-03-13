@@ -1,0 +1,3 @@
+##### § 4290.885 Disposition of assets to RBIC's Associates or to competitors of Portfolio Concerns. #####
+
+Except with the Agency's prior written approval, you are not permitted to dispose of assets (including assets acquired in liquidation) to any Associate or to competitors of Portfolio Concerns if you have outstanding Leverage. As a prerequisite to such approval, you must demonstrate that the proposed terms of disposal are at least as favorable to you as the terms obtainable elsewhere.

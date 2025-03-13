@@ -1,0 +1,3 @@
+##### § 4290.430 Notification of transactions that may change ownership or Control. #####
+
+You must promptly notify the Agency as soon as you have knowledge of transactions or events that may result in a transfer of Control or ownership of at least 10 percent of your Regulatory Capital. If the effect of a particular transaction or event is unclear, you must report all pertinent facts to the Agency.

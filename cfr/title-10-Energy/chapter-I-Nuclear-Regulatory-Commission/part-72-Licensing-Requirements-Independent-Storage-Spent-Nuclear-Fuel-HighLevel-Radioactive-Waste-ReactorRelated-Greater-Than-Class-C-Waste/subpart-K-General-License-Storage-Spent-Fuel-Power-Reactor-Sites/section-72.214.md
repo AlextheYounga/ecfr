@@ -1,7 +1,5 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 88 FR 74023, Oct. 30, 2023.
-
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
 Certificate Number: 1004.
@@ -164,7 +162,7 @@ Model Number: HI-STAR 100 (MPC-24, MPC-32, MPC-68, MPC-68F).
 
 *Amendment Number 8 Effective Date:* May 2, 2012, as corrected on November 16, 2012 (ADAMS Accession No. ML12213A170); superseded by Amendment Number 8, Revision 1, Effective Date: February 16, 2016; superseded by Renewed Amendment Number 8, Revision 1 Effective Date: August 2, 2023.
 
-*Amendment Number 9 Effective Date:* March 11, 2014; superseded by Amendment Number 9, Revision 1, Effective Date: March 21, 2016, as corrected on August 25, 2017 (ADAMS Accession No. ML17236A451); superseded by Renewed Amendment Number 9, Revision 1 Effective Date: August 2, 2023.
+*Amendment Number 9 Effective Date:* March 11, 2014, superseded by Amendment Number 9, Revision 1, Effective Date: March 21, 2016, as corrected on August 25, 2017 (ADAMS Accession No. ML17236A451); superseded by Renewed Amendment Number 9, Revision 1 Effective Date: August 2, 2023.
 
 *Amendment Number 10 Effective Date:* May 31, 2016, as corrected on August 25, 2017 (ADAMS Accession No. ML17236A452); superseded by Renewed Amendment Number 10 Effective Date: August 2, 2023.
 
@@ -177,6 +175,10 @@ Model Number: HI-STAR 100 (MPC-24, MPC-32, MPC-68, MPC-68F).
 *Amendment Number 14 Effective Date:* December 17, 2019, as corrected (ADAMS Accession No. ML19343B287); superseded by Renewed Amendment Number 14 Effective Date: August 2, 2023.
 
 *Amendment Number 15 Effective Date:* June 14, 2021, superseded by Renewed Amendment Number 15 Effective Date: August 2, 2023.
+
+Renewed Amendment Number 16 [Reserved].
+
+*Renewed Amendment Number 17 Effective Date:* January 16, 2024.
 
 *Safety Analysis Report (SAR) Submitted by:* Holtec International.
 

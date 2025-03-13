@@ -64,4 +64,4 @@
 
 (2) For the third application filing window and any subsequent filing windows covering funding for purchases made between July 1, 2022, and June 30, 2024, the service delivery date for equipment, other non-recurring services, and recurring services is June 30, 2024.
 
-[, as amended at 86 FR 41409, Aug. 2, 2021, as amended at 86 FR 70985, Dec. 14, 2021; 87 FR 14181, Mar. 14, 2022; 87 FR 19395, Apr. 4, 2022; 88 FR 36513, June 5, 2023; 88 FR 58511, Aug. 28, 2023]
+[86 FR 29158, May 28, 2021, as amended at 86 FR 41409, Aug. 2, 2021, as amended at 86 FR 70985, Dec. 14, 2021; 87 FR 14181, Mar. 14, 2022; 87 FR 19395, Apr. 4, 2022; 88 FR 36513, June 5, 2023; 88 FR 58511, Aug. 28, 2023]

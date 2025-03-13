@@ -1,0 +1,3 @@
+##### § 4284.941 Application withdrawal. #####
+
+During the period between the submission of an application and the execution of award documents, the Applicant must notify the Agency in writing if the project is no longer viable or the Applicant no longer is requesting financial assistance for the project. When the Applicant notifies the Agency, the selection will be rescinded or the application withdrawn.

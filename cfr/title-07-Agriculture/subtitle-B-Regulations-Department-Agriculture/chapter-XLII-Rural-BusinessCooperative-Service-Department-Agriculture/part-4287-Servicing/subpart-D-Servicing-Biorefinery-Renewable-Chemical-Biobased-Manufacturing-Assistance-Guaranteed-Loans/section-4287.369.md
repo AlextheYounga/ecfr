@@ -1,0 +1,3 @@
+##### § 4287.369 Future recovery. #####
+
+Unless notified otherwise by the Agency, after the final loss claim has been paid, the Lender must use reasonable efforts to attempt collection from any party still liable for Future Recovery. Any net proceeds from Future Recovery must be split Pro Rata between the Lender and the Agency based on the original amount of the loan guarantee. Any collection of Federal Debt made by the Federal Government from any liable party to the guaranteed loan will not be split with the Lender.

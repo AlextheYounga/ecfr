@@ -1,0 +1,5 @@
+##### § 4288.137 Succession and loss of control of advanced biofuel facilities and production. #####
+
+(a) *Contract succession.* An entity who becomes the eligible advanced biofuel producer for an advanced biofuel facility that is under contract under this subpart must request permission from the Agency to succeed to the Program contract and the Agency may grant such request if it is determined that the entity is an eligible producer and permitting such succession would serve the purposes of the Program. If appropriate, the Agency may require the consent of the previous eligible advanced biofuel producer to such succession.
+
+(b) *Loss of control.* Payments will be made only for eligible advanced biofuels produced at an advanced biofuel facility owned or controlled by an eligible advanced biofuel producer with a valid contract. If payments are made to an advanced biofuel producer for production at an advanced biofuel facility no longer owned or controlled by said producer or to an otherwise ineligible advanced biofuel producer, the Agency will demand full refund of all such payments.

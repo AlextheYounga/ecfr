@@ -1,0 +1,3 @@
+##### § 4284.2 Policy. #####
+
+It is the policy of Cooperative Services to administer grant programs as uniformly as possible to minimize unnecessary inconsistencies in the administration of the grant programs provided for in this part. The specific provisions or definitions provided in the subparts that are specific to Cooperative Services are supplemental to these general provisions. Where a specific program provision is expressly different from what is provided in this subpart, the program specific subpart shall prevail.

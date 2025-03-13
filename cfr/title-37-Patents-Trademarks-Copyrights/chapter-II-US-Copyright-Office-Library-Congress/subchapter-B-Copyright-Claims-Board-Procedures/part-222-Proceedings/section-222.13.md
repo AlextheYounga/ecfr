@@ -1,5 +1,7 @@
 ##### § 222.13 Consolidation. #####
 
+Link to an amendment published at 89 FR 2492, Jan. 16, 2024.
+
 (a) *Consolidation.* If a claimant has multiple *active proceedings* against the same respondent or that arise out of the same facts and circumstances, the Board may consolidate the proceedings for purposes of conducting discovery, submitting evidence to the Board, or holding hearings. Consolidated proceedings shall remain separate for purposes of Board determinations and any damages awards.
 
 (b) *Timing.* The Board may consolidate proceedings at any time upon its own authority or following consideration of a request by any party, with reasonable notice and opportunity to be heard provided to all affected parties.

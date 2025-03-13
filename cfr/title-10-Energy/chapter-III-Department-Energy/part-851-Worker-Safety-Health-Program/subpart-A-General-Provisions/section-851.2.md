@@ -1,7 +1,5 @@
 ##### § 851.2 Exclusions. #####
 
-Link to an amendment published at 88 FR 86815, Dec. 15, 2023.
-
 (a) This part does not apply to work at a DOE site:
 
 (1) Regulated by the Occupational Safety and Health Administration; or
@@ -12,6 +10,6 @@ Link to an amendment published at 88 FR 86815, Dec. 15, 2023.
 
 (c) This part does not apply to transportation to or from a DOE site.
 
-(d) This part does not require compliance with any Occupational Safety and Health Administration beryllium requirement except for any permissible exposure limit for beryllium in 29 CFR 1910.1000.
+(d) This part does not require compliance with any Occupational Safety and Health Administration requirements for beryllium or beryllium compounds except as provided in 10 CFR part 850, “Chronic Beryllium Disease Prevention Program.”
 
-[71 FR 6931, Feb. 9, 2006, as amended at 80 FR 69566, Nov. 10, 2015]
+[71 FR 6931, Feb. 9, 2006, as amended at 80 FR 69566, Nov. 10, 2015; 88 FR 86815, Dec. 15, 2023]

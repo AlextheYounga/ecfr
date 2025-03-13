@@ -1,5 +1,7 @@
 ##### § 226.4 Nature of a smaller claims proceeding. #####
 
+Link to an amendment published at 89 FR 2493, Jan. 16, 2024.
+
 (a) *Proceeding before a Copyright Claims Officer.* A smaller claims proceeding shall be heard by one Copyright Claims Officer (Officer). One of the three Officers shall hear smaller claims proceedings on a rotating basis at the Board's discretion.
 
 (b) *Initial scheduling order.* Upon confirmation that a proceeding has become active and the claimant has paid the second payment of the filing fee set forth in 37 CFR 201.3(g), and after completion of the 14-day period specified in the Board's order pursuant to § 222.7 of this subchapter, the Board shall issue an initial scheduling order that shall include the dates or deadlines for filing of a response to the claim and any counterclaims by the respondent and an initial conference with the Officer presiding over the proceeding. The Board or presiding Officer may issue additional scheduling orders or amend the scheduling order at its own discretion or upon request of a party pursuant to § 222.11(d) of this subchapter.

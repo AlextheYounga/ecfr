@@ -1,0 +1,3 @@
+##### § 4287.400 OMB control number. #####
+
+In accordance with the Paperwork Reduction Act of 1995, the information collection requirements contained in the subsequent interim rule have been submitted to the Office of Management and Budget (OMB) under OMB Control Number 0570-0065 for approval. A person is not required to respond to a collection of information unless it displays a currently valid OMB control number.

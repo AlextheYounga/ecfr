@@ -1,5 +1,13 @@
 ##### § 455.101 Definitions. #####
 
+*Additional disclosable party* means, with respect to a nursing facility defined in section 1919(a) of the Act, any person or entity who—
+
+(1) Exercises operational, financial, or managerial control over the facility or a part thereof, or provides policies or procedures for any of the operations of the facility, or provides financial or cash management services to the facility;
+
+(2) Leases or subleases real property to the facility, or owns a whole or part interest equal to or exceeding 5 percent of the total value of such real property; or
+
+(3) Provides management or administrative services, management or clinical consulting services, or accounting or financial services to the facility.
+
 *Affiliation* means, for purposes of applying § 455.107, any of the following:
 
 (1) A 5 percent or greater direct or indirect ownership interest that an individual or entity has in another organization.
@@ -56,7 +64,25 @@
 
 *Managed care entity (MCE)* means managed care organizations (MCOs), PIHPs, PAHPs, PCCMs, and HIOs.
 
-*Managing employee* means a general manager, business manager, administrator, director, or other individual who exercises operational or managerial control over, or who directly or indirectly conducts the day-to-day operation of an institution, organization, or agency.
+*Managing employee* means—
+
+(1) A general manager, business manager, administrator, director, or other individual who exercises operational or managerial control over, or who directly or indirectly conducts, the day-to-day operation of an institution, organization, or agency, either under contract or through some other arrangement, whether or not the individual is a W-2 employee of the institution, organization, or agency; or
+
+(2) With respect to the additional requirements at § 455.104(e) for a nursing facility defined in section 1919(a) of the Act, an individual, including a general manager, business manager, administrator, director, or consultant, who directly or indirectly manages, advises, or supervises any element of the practices, finances, or operations of the facility.
+
+*Organizational structure* means, with respect to a nursing facility defined in section 1919(a) of the Act, in the case of any of the following:
+
+(1) *A corporation.* The officers, directors, and shareholders of the corporation who have an ownership interest in the corporation which is equal to or exceeds 5 percent.
+
+(2) *A limited liability company.* The members and managers of the limited liability company including, as applicable, what percentage each member and manager has of the ownership interest in the limited liability company.
+
+(3) *A general partnership.* The partners of the general partnership.
+
+(4) *A limited partnership.* The general partners and any limited partners of the limited partnership who have an ownership interest in the limited partnership which is equal to or exceeds 10 percent.
+
+(5) *A trust.* The trustees of the trust.
+
+(6) *An individual.* Contact information for the individual.
 
 *Ownership interest* means the possession of equity in the capital, the stock, or the profits of the disclosing entity.
 
@@ -112,4 +138,4 @@
 
 *Wholly owned supplier* means a supplier whose total ownership interest is held by a provider or by a person, persons, or other entity with an ownership or control interest in a provider.
 
-[44 FR 41644, July 17, 1979, as amended at 51 FR 34788, Sept. 30, 1986; 76 FR 5967, Feb. 2, 2011; 84 FR 47856, Sept. 10, 2019]
+[44 FR 41644, July 17, 1979, as amended at 51 FR 34788, Sept. 30, 1986; 76 FR 5967, Feb. 2, 2011; 84 FR 47856, Sept. 10, 2019; 88 FR 80168, Nov. 17, 2023]

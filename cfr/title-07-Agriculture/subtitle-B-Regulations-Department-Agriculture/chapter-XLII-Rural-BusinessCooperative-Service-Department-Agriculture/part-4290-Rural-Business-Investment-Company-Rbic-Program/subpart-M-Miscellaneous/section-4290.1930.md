@@ -1,0 +1,3 @@
+##### § 4290.1930 Effect of changes in this part 4290 on transactions previously consummated. #####
+
+The legality of a transaction covered by the regulations in this part is governed by the regulations in this part in effect at the time the transaction was consummated, regardless of later changes. Nothing in this part bars enforcement action with respect to any transaction consummated in violation of provisions applicable at the time, but no longer in effect.

@@ -1,7 +1,5 @@
 ##### § 851.3 Definitions. #####
 
-Link to an amendment published at 88 FR 86815, Dec. 15, 2023.
-
 (a) As used in this part:
 
 *AEA* means the Atomic Energy Act of 1954, 42 U.S.C. 2011 *et seq.*
@@ -42,7 +40,7 @@ Link to an amendment published at 88 FR 86815, Dec. 15, 2023.
 
 *DOE site* means a DOE-owned or -leased area or location or other area or location controlled by DOE where activities and operations are performed at one or more facilities or places by a contractor in furtherance of a DOE mission.
 
-*Final notice of violation* means a document that determines a contactor has violated or is continuing to violate a requirement of this part and includes:
+*Final notice of violation* means a document that determines a contractor has violated or is continuing to violate a requirement of this part and includes:
 
 (1) A statement specifying the requirement of this part to which the violation relates;
 
@@ -104,4 +102,4 @@ Link to an amendment published at 88 FR 86815, Dec. 15, 2023.
 
 (b) Terms undefined in this part that are defined in the Atomic Energy Act of 1954 must have the same meaning as under that Act.
 
-[71 FR 6931, Feb. 9, 2006, as amended at 80 FR 5008, Jan. 30, 2015; 88 FR 41293, June 26, 2023]
+[71 FR 6931, Feb. 9, 2006, as amended at 80 FR 5008, Jan. 30, 2015; 88 FR 41293, June 26, 2023; 88 FR 86815, Dec. 15, 2023]

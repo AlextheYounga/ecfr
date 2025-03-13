@@ -1,0 +1,7 @@
+##### § 64.6405 Financial responsibility following line separations. #####
+
+(a) Beginning on the date on which a covered provider transfers billing responsibilities for and use of telephone number(s) to a survivor following a line separation under § 64.6402(a), the survivor shall assume financial responsibility, including for monthly service costs, for the transferred telephone number(s), unless ordered otherwise by a court. Upon the transfer of the telephone number(s) under § 64.6402(a) to separate the line(s) of the abuser from a shared mobile service contract, the survivor shall have no further financial responsibilities to the transferring covered provider for the services provided by the transferring covered provider for the telephone number(s) or for any mobile device associated with the abuser's telephone number(s).
+
+(b) Beginning on the date on which a covered provider transfers billing responsibilities for and rights to telephone number(s) to a survivor following a line separation under § 64.6402(a), the survivor shall not assume financial responsibility for any mobile device(s) associated with the separated line(s), unless the survivor purchased the mobile device(s), or affirmatively elects to maintain possession of the mobile device(s), unless otherwise ordered by a court.
+
+(c) Following a line separation under § 64.6402(a), a covered provider shall maintain any arrears previously accrued on the account with the subscriber who was the primary account holder prior to the line separation.

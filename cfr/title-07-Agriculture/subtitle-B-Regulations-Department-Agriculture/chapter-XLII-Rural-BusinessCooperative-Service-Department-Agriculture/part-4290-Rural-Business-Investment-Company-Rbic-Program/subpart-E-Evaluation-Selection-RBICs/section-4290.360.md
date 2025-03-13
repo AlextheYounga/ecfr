@@ -1,0 +1,3 @@
+##### § 4290.360 Initial review of Applicant's management team's qualifications. #####
+
+The Agency will review the information submitted by the Applicant concerning the qualifications of the Applicant's management team to determine in its sole discretion whether the team meets the minimum requirements deemed by the Agency to be critical to successful capital investing. In making this determination, the Agency will consider, among other things, the general business reputation of the owners and managers of the Applicant. Only those Applicants considered to have a management team qualified for venture capital investing will be further considered for selection as a RBIC.

@@ -1,6 +1,6 @@
 ##### § 64.2010 Safeguards on the disclosure of customer proprietary network information. #####
 
-Link to an amendment published at 88 FR 84448, Dec. 5, 2023.Link to a delay published at 88 FR 85814, Dec. 8, 2023.Link to a correction published at 88 FR 88261, Dec. 21, 2023.
+Link to a delay published at 88 FR 85814, Dec. 8, 2023.Link to a correction published at 88 FR 88261, Dec. 21, 2023.
 
 (a) *Safeguarding CPNI.* Telecommunications carriers must take reasonable measures to discover and protect against attempts to gain unauthorized access to CPNI. Telecommunications carriers must properly authenticate a customer prior to disclosing CPNI based on customer-initiated telephone contact, online account access, or an in-store visit.
 
@@ -12,7 +12,9 @@ Link to an amendment published at 88 FR 84448, Dec. 5, 2023.Link to a delay publ
 
 (e) *Establishment of a password and back-up authentication methods for lost or forgotten passwords.* To establish a password, a telecommunications carrier must authenticate the customer without the use of readily available biographical information, or account information. Telecommunications carriers may create a back-up customer authentication method in the event of a lost or forgotten password, but such back-up customer authentication method may not prompt the customer for readily available biographical information, or account information. If a customer cannot provide the correct password or the correct response for the back-up customer authentication method, the customer must establish a new password as described in this paragraph.
 
-(f) *Notification of account changes.* Telecommunications carriers must notify customers immediately whenever a password, customer response to a back-up means of authentication for lost or forgotten passwords, online account, or address of record is created or changed. This notification is not required when the customer initiates service, including the selection of a password at service initiation. This notification may be through a carrier-originated voicemail or text message to the telephone number of record, or by mail to the address of record, and must not reveal the changed information or be sent to the new account information.
+(f) *Notification of account changes.* (1) Telecommunications carriers must notify customers immediately whenever a password, customer response to a back-up means of authentication for lost or forgotten password, online account, or address of record is created or changed. This notification is not required when the customer initiates service, including the selection of a password at service initiation. This notification may be through a carrier-originated voicemail or text message to the telephone number of record, or by mail to the address of record, and must not reveal the changed information or be sent to the new account information.
+
+(2) Paragraph (f)(1) of this section does not apply to a change made in connection with a line separation request under 47 U.S.C. 345 and subpart II of this part.
 
 (g) *Business customer exemption.* Telecommunications carriers may bind themselves contractually to authentication regimes other than those described in this section for services they provide to their business customers that have both a dedicated account representative and a contract that specifically addresses the carriers' protection of CPNI.
 
@@ -28,4 +30,6 @@ Link to an amendment published at 88 FR 84448, Dec. 5, 2023.Link to a delay publ
 
 (9) *Compliance.* This paragraph (h) contains information-collection and/or recordkeeping requirements. Compliance with this paragraph (h) will not be required until this paragraph is removed or contains a compliance date.
 
-[82 FR 44419, Sept. 21, 2017, as amended at 88 FR 85814, Dec. 8, 2023]
+(i) *Compliance date.* Compliance with the provision in paragraph (f) of this section applicable to line separation requests under 47 U.S.C. 345 and subpart II of this part will not be required until this paragraph (i) is removed or contains a compliance date, which will not occur until the later of July 15, 2024; or after OMB completes review of any information collection requirements in subpart II of this part that the Wireline Competition Bureau determines is required under the Paperwork Reduction Act or the Wireline Competition Bureau determines that such review is not required. The Commission directs the Wireline Competition Bureau to announce a compliance date for the requirements of paragraph (f) by subsequent Public Notice and notification in the Federal Register and to cause this section to be revised accordingly.
+
+[82 FR 44419, Sept. 21, 2017, as amended at 88 FR 85814, Dec. 8, 2023; 88 FR 84448, Dec. 5, 2023; 88 FR 88261, Dec. 21, 2023]

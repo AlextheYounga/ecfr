@@ -1,7 +1,5 @@
 ##### § 298.21 Limits. #####
 
-Link to an amendment published at 88 FR 86612, Dec. 14, 2023.
-
 (a) *Actual Cost basis.* We will issue a guarantee on an amount of the Obligation satisfactory to us based on the economic soundness of the transaction. The Obligation amount may be less than but not more than 75 percent or 871/2 percent, whichever is applicable, under the provisions of section 1104A(b)(2) or section 1104B(b)(2) of the Act of the Actual Cost of the Vessel or Vessels or Shipyard Project asset(s).
 
 (1) If minimum horsepower of the main engine is a requirement for Guarantees up to 871/2 percent of the Actual Cost, the standard for the horsepower will be continuous rated horsepower.
@@ -14,7 +12,7 @@ Link to an amendment published at 88 FR 86612, Dec. 14, 2023.
 
 (b) *Actual Cost items.* Actual Cost is comprised essentially of those items which would customarily be capitalized as Vessel or Shipyard Project construction costs such as designing, engineering, constructing (including performance bond premiums that we approve), inspecting, outfitting and equipping.
 
-(1) Cost items include those items usually specified in Vessel or Shipyard Project construction contracts, *e.g.,* changes and extras, cost of owner furnished equipment, shoreside spare parts and commitment fees and interest on the Obligations or other borrowings incurred during the construction period (excluding interest paid on subordinated debt considered to be Equity), and less income realized from investment of Escrow Fund deposits during the construction period.
+(1) Cost items include those items usually specified in Vessel or Shipyard Project construction contracts, *e.g.,* changes and extras, cost of owner furnished equipment, shoreside spare parts and commitment fees and interest on the Obligations or other borrowings incurred during the construction period (excluding interest paid on subordinated debt considered to be equity), and less income realized from investment of Escrow Fund deposits during the construction period.
 
 (2) Commissions (which represent a portion of the total shipyard contract price) may be included in the foreign equipment and services amount of the Actual Cost of an export project, provided:
 
@@ -78,4 +76,4 @@ Link to an amendment published at 88 FR 86612, Dec. 14, 2023.
 
 (g) *Depreciated Actual Cost.* After a Vessel or Shipyard Project has been delivered or redelivered (in the case of reconstruction or reconditioning), the limitation on the amount of Guarantees will be 75 or 871/2 percent, whichever is applicable, of the Depreciated Actual Cost of the Vessel or Shipyard Project.
 
-[65 FR 45152, July 20, 2000, as amended at 67 FR 61282, Sept. 30, 2002]
+[65 FR 45152, July 20, 2000, as amended at 67 FR 61282, Sept. 30, 2002; 88 FR 86612, Dec. 14, 2023]

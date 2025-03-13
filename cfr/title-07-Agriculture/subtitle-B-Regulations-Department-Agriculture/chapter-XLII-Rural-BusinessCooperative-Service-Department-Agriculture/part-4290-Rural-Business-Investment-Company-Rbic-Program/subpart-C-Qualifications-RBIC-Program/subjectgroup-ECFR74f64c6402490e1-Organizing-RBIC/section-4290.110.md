@@ -1,0 +1,5 @@
+##### § 4290.110 Qualified management. #####
+
+An Applicant must show, to the satisfaction of the Agency, that its current or proposed management team is qualified and has the knowledge, experience, and capability in Community Development Finance or Relevant Capital Finance, necessary for investing in the types of Enterprises contemplated by the Act, regulations in this part, and its business plan. In determining whether an Applicant's current or proposed management team has sufficient qualifications, the Agency will consider information provided by the Applicant and third parties concerning the background, capability, education, training and reputation (and any other managerial aspect identified by the USDA in a Federal Register notice) of its general partners, managers, officers, key personnel, and investment committee and governing board members. The Applicant must designate at least one individual as the official responsible for contact with the Agency.
+
+[76 FR 80222, Dec. 23, 2011]
