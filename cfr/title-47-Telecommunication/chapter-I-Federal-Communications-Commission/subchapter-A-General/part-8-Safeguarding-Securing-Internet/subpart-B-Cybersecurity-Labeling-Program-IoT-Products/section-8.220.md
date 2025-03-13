@@ -1,6 +1,6 @@
 ##### § 8.220 Requirements for CLAs. #####
 
-Link to an amendment published at 89 FR 84095, Oct. 21, 2024.Link to an amendment published at 89 FR 84096, Oct. 21, 2024.
+Link to an amendment published at 89 FR 84096, Oct. 21, 2024.
 
 (a) *In general.* CLAs designated by the Commission, or designated by another authority recognized by the Commission, shall comply with the requirements of this section. Each entity seeking authority to act as a CLA must file an application with the Commission for consideration by PSHSB, which includes a description of its organization structure, an explanation of how it will avoid personal and organizational conflict when processing applications, a description of its processes for evaluating applications seeking authority to use the FCC IoT Label, and a demonstration of expertise that will be necessary to effectively serve as a CLA including, but not limited to, the criteria in paragraph (c) of this section.
 
@@ -74,6 +74,14 @@ Link to an amendment published at 89 FR 84095, Oct. 21, 2024.Link to an amendmen
 
 (11) All CLA actions are subject to Commission review.
 
+(12) A CLA shall share the Lead Administrator's expenses incurred as a result of the Lead Administrator's performance of its duties under the FCC IoT Labeling Program.
+
+(i) The Lead Administrator expenses subject to sharing by CLAs are those expenses determined to be reasonable by the Public Safety and Homeland Security Bureau and the Office of Managing Director.
+
+(ii) A CLA shall share Lead Administrator expenses pursuant to a methodology agreed to by the CLAs and the Lead Administrator subject to ongoing oversight by the Commission.
+
+(13) A CLA shall maintain the confidentiality of non-public information received as part of an application for authority to use the FCC IoT Label, and will implement appropriate administrative, technical, procedural, and physical safeguards to protect the confidentiality of information received by the CLA and protect against the unauthorized disclosure and unauthorized use of non-public information received as a result of its participation in the FCC IoT Labeling Program.
+
 (g) *Post-market surveillance requirements.* (1) In accordance with ISO/IEC 17065, a CLA shall perform appropriate post-market surveillance activities. These activities shall be based on type testing a certain number of samples of the total number of product types for which the CLA has certified use of the Label.
 
 (2) PSHSB may request that a grantee of authority to use the FCC IoT Label submit a product sample directly to the CLA that evaluated the grantee's application as part of the post market surveillance. Any product samples requested by the Commission and tested by the CLA will be counted toward a minimum number of samples that the CLA must test to meet its post market surveillance requirements.
@@ -83,3 +91,5 @@ Link to an amendment published at 89 FR 84095, Oct. 21, 2024.Link to an amendmen
 (4) If during post market surveillance of a complying consumer IoT product, a CLA determines that the product fails to comply with the technical regulations (or other FCC requirements) for that product, the CLA shall immediately notify the grantee and the Commission in writing of its findings. The grantee shall provide a report to the CLA describing the actions taken to correct the situation, as provided in § 8.216, and the CLA shall provide a report of these actions to the Commission within 30 days.
 
 (5) CLAs shall submit periodic reports to the Commission of their post-market surveillance activities and findings in a format and by a date specified by the Commission.
+
+[89 FR 61272, July 30, 2024, as amended at 89 FR 84095, Oct. 21, 2024]

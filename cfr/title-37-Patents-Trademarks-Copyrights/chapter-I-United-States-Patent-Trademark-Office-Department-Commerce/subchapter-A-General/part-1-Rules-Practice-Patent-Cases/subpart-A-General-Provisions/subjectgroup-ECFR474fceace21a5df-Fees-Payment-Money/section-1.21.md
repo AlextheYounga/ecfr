@@ -1,5 +1,7 @@
 ##### § 1.21 Miscellaneous fees and charges. #####
 
+Link to an amendment published at 89 FR 92007, Nov. 20, 2024.
+
 The Patent and Trademark Office has established the following fees for the services indicated:
 
 (a) Registration of attorneys and agents:

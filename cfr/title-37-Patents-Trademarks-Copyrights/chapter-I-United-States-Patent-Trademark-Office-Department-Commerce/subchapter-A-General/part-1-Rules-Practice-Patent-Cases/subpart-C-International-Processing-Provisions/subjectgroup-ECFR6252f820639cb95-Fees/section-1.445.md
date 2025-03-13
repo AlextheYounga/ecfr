@@ -1,5 +1,7 @@
 ##### § 1.445 International application filing, processing and search fees. #####
 
+Link to an amendment published at 89 FR 92009, Nov. 20, 2024.
+
 (a) The following fees and charges for international applications are established by law or by the director under the authority of 35 U.S.C. 376:
 
 (1) A transmittal fee (*see* 35 U.S.C. 361(d) and PCT Rule 14) consisting of:

@@ -1,5 +1,7 @@
 ##### § 1.97 Filing of information disclosure statement. #####
 
+Link to an amendment published at 89 FR 92008, Nov. 20, 2024.
+
 (a) In order for an applicant for a patent or for a reissue of a patent to have an information disclosure statement in compliance with § 1.98 considered by the Office during the pendency of the application, the information disclosure statement must satisfy one of paragraphs (b), (c), or (d) of this section.
 
 (b) An information disclosure statement shall be considered by the Office if filed by the applicant within any one of the following time periods:

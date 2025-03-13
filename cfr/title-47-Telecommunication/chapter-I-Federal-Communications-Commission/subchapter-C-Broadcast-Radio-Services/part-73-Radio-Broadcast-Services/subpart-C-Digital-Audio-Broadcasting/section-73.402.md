@@ -1,7 +1,5 @@
 ##### § 73.402 Definitions. #####
 
-Link to an amendment published at 89 FR 84104, Oct. 21, 2024.
-
 (a) *DAB.* Digital audio broadcast stations are those radio stations licensed by the Commission and use the In-band On-channel (“IBOC”) system for broadcasting purposes.
 
 (b) *In Band On Channel DAB System.* A technical system in which a station's digital signal is broadcast in the same spectrum and on the same channel as its analog signal.
@@ -18,4 +16,6 @@ Link to an amendment published at 89 FR 84104, Oct. 21, 2024.
 
 (h) *All-digital AM station.* An AM station broadcasting an IBOC waveform that consists solely of digitally modulated subcarriers and the unmodulated AM carrier.
 
-[72 FR 45692, Aug. 15, 2007, as amended at 85 FR 78027, Dec. 3, 2020]
+(i) *Asymmetric sideband operation.* For digital FM stations, the use of different power levels on the upper and lower digital sidebands in a hybrid or extended hybrid DAB system.
+
+[72 FR 45692, Aug. 15, 2007, as amended at 85 FR 78027, Dec. 3, 2020; 89 FR 84104, Oct. 21, 2024]

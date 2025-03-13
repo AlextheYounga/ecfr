@@ -1,5 +1,7 @@
 ##### § 1.138 Express abandonment. #####
 
+Link to an amendment published at 89 FR 92008, Nov. 20, 2024.
+
 (a) An application may be expressly abandoned by filing a written declaration of abandonment identifying the application in the United States Patent and Trademark Office. Express abandonment of the application may not be recognized by the Office before the date of issue or publication unless it is actually received by appropriate officials in time to act.
 
 (b) A written declaration of abandonment must be signed by a party authorized under § 1.33(b)(1) or (b)(3) to sign a paper in the application, except as otherwise provided in this paragraph. A registered attorney or agent, not of record, who acts in a representative capacity under the provisions of § 1.34 when filing a continuing application, may expressly abandon the prior application as of the filing date granted to the continuing application.

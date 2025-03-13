@@ -1,5 +1,7 @@
 ##### § 1.20 Post-issuance fees. #####
 
+Link to an amendment published at 89 FR 92007, Nov. 20, 2024.
+
 (a) For providing a certificate of correction for an applicant's mistake (§ 1.323): $160.00
 
 (b) Processing fee for correcting inventorship in a patent (§ 1.324): $160.00

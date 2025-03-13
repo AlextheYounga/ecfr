@@ -1,5 +1,7 @@
 ##### § 1.98 Content of information disclosure statement. #####
 
+Link to an amendment published at 89 FR 92008, Nov. 20, 2024.
+
 (a) Any information disclosure statement filed under § 1.97 shall include the items listed in paragraphs (a)(1), (a)(2) and (a)(3) of this section.
 
 (1) A list of all patents, publications, applications, or other information submitted for consideration by the Office. U.S. patents and U.S. patent application publications must be listed in a section separately from citations of other documents. Each page of the list must include:

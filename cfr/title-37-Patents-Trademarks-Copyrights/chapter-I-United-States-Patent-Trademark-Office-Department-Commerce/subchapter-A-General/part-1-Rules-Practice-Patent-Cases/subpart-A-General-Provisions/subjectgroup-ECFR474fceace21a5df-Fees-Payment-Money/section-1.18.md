@@ -1,5 +1,7 @@
 ##### § 1.18 Patent post allowance (including issue) fees. #####
 
+Link to an amendment published at 89 FR 92006, Nov. 20, 2024.
+
 (a) Issue fee for issuing each original patent, except a design or plant patent, or for issuing each reissue patent:
 
 |                                     |        |

@@ -1,5 +1,7 @@
 ##### § 1.78 Claiming benefit of earlier filing date and cross-references to other applications. #####
 
+Link to an amendment published at 89 FR 92008, Nov. 20, 2024.
+
 (a) *Claims under 35 U.S.C. 119(e) for the benefit of a prior-filed provisional application.* An applicant in a nonprovisional application, other than for a design patent, or an international application designating the United States may claim the benefit of one or more prior-filed provisional applications under the conditions set forth in 35 U.S.C. 119(e) and this section.
 
 (1) The nonprovisional application or international application designating the United States must be:

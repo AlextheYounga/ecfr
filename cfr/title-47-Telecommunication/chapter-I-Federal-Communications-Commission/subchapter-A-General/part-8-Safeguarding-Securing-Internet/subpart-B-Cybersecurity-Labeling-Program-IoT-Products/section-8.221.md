@@ -1,7 +1,5 @@
 ##### § 8.221 Requirements for the Lead Administrator. #####
 
-Link to an amendment published at 89 FR 84096, Oct. 21, 2024.
-
 (a) *Establishing a Lead Administrator.* If more than one qualified entity is selected by the Commission to be a CLA, the Commission will select a Lead Administrator. The Lead Administrator shall:
 
 (1) Interface with the Commission on behalf of the CLAs, including but not limited to submitting to the Bureau all complaints alleging a product bearing the FCC IoT Label does not meet the requirements of the Commission's labeling program;
@@ -34,6 +32,14 @@ Link to an amendment published at 89 FR 84096, Oct. 21, 2024.
 
 (10) Submit to the Commission any other reports upon request of the Commission or as required by Commission rules in this subpart.
 
+(11) Create, update, and implement a cybersecurity risk management plan identifying the cyber risks that the entity faces, the controls used to mitigate those risks, and the steps taken to ensure that these controls are applied effectively to their operations. The plan must also describe how the Lead Administrator employs its organizational resources and processes to ensure the confidentiality, integrity, and availability of its information and information systems. The Lead Administrator's cybersecurity risk management plan must be available to the Commission upon request;
+
+(12) Submit to the Public Safety and Homeland Security Bureau and the Office of the Managing Director, an estimate of its forward-looking costs including, separately, program stand-up costs and ongoing program costs to perform the Lead Administrator duties for the Lead Administrator's upcoming calendar year, which will be reviewed by the Cybersecurity Labeling Administrators, Public Safety and Homeland Security Bureau, and the Office of the Managing Director for reasonableness, and if reasonable, will be used to estimate the overall CLA cost sharing obligation;
+
+(13) Implement internal controls adequate to ensure its operations maintain best practices to protect against improper payments and to prevent fraud, waste, and abuse in its handling of funds; and
+
+(14) Submit to the Public Safety and Homeland Security Bureau and the Office of the Managing Director, an annual, independently audited, statement of program expenditures and monies received from the CLAs due before the end of the Lead Administrator's calendar year.
+
 (b) *Criteria for designation.* In addition to completing the CLA application information, entities seeking to be the Lead Administrator will submit a description of how they will execute the duties of the Lead Administrator, including:
 
 (1) Their previous experience in IoT cybersecurity;
@@ -47,3 +53,5 @@ Link to an amendment published at 89 FR 84096, Oct. 21, 2024.
 (5) A proposed consumer education campaign; and
 
 (6) Additional information the applicant believes demonstrates why they should be the Lead Administrator.
+
+[89 FR 61272, July 30, 2024, as amended at 89 FR 84096, Oct. 21, 2024]

@@ -1,5 +1,7 @@
 ##### § 1.761-2 Exclusion of certain unincorporated organizations from the application of all or part of subchapter K of chapter 1 of the Internal Revenue Code. #####
 
+Link to an amendment published at 89 FR 91561, Nov. 20, 2024.
+
 (a) *Exclusion of eligible unincorporated organizations*—(1) *In general.* Under conditions set forth in this section, an unincorporated organization described in subparagraph (2) or (3) of this paragraph may be excluded from the application of all or a part of the provisions of subchapter K of chapter 1 of the Code. Such organization must be availed of (i) for investment purposes only and not for the active conduct of a business, or (ii) for the joint production, extraction, or use of property, but not for the purpose of selling services or property produced or extracted. The members of such organization must be able to compute their income without the necessity of computing partnership taxable income. Any syndicate, group, pool, or joint venture which is classifiable as an association, or any group operating under an agreement which creates an organization classifiable as an association, does not fall within these provisions.
 
 (2) *Investing partnership.* Where the participants in the joint purchase, retention, sale, or exchange of investment property:

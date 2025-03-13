@@ -1,0 +1,3 @@
+##### § 1.903 Consultation with other agencies. #####
+
+The Department may consult with the appropriate officials in other Federal agencies to identify their current and former covered employees, and current and former dependents who reported an anomalous health incident. The Department will not process payment for employees, former employees, or dependents of current or former employees of other agencies.

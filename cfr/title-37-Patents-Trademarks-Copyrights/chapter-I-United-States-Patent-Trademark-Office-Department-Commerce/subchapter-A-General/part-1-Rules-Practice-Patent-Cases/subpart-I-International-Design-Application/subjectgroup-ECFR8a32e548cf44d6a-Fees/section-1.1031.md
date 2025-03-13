@@ -1,5 +1,7 @@
 ##### § 1.1031 International design application fees. #####
 
+Link to an amendment published at 89 FR 92011, Nov. 20, 2024.
+
 (a) International design applications filed through the Office as an office of indirect filing are subject to payment of a transmittal fee (35 U.S.C. 382(b) and Article 4(2)) in the amount of:
 
 |                                     |      |
