@@ -2,8 +2,8 @@
 
 The grantee will provide an audit report or financial statements as follows:
 
-(a) Grantees expending $750,000 or more Federal funds per fiscal year will submit an audit conducted in accordance with Subpart F of 2 CFR part 200, as adopted by USDA through 2 CFR part 400. The audit will be submitted with 9 months of the grantee's fiscal year. Additional audits may be required if the project period covers more than one fiscal year.
+(a) In accordance with subpart F of 2 CFR part 200, as adopted by USDA through 2 CFR part 400, grantees expending Federal funds each fiscal year equal to or greater than the current Single Audit threshold will submit an audit. The audit will be submitted within 30 calendar days after the auditee receives the auditor's report or 9 months after the end of the grantee's fiscal year, whichever is earlier.
 
-(b) Grantees expending less than $750,000 will provide annual financial statement covering the grant period, consisting of the organization's statement of income and expense and balance sheet signed by an appropriate official of the organization. Financial statement will be submitted within 90 days after the grantees fiscal year.
+(b) Grantees expending less than the current Single Audit dollar threshold will provide annual financial statements covering the grant period, consisting of the organization's statement of income and expense, and balance sheet signed by an authorized official of the organization. Financial statements will be submitted within 90 days after the grantee's fiscal year end.
 
-[70 FR 70878, Jan. 7, 2004, as amended at 79 FR 76005, Dec. 19, 2014]
+[70 FR 70878, Jan. 7, 2004, as amended at 79 FR 76005, Dec. 19, 2014; 89 FR 82484, Oct. 11, 2024]

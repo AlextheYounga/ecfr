@@ -6,7 +6,7 @@
 
 |        Type of wheel brake       |Maximum piston travel (in inches)|
 |----------------------------------|---------------------------------|
-|   Cam Type Driving Wheel Brake   |              31/2               |
+|   Cam Type Driving Wheel Brake   |   3<sup>1</sup>⁄<sub>2</sub>    |
 |Other forms of Driving Wheel Brake|                6                |
 |        Engine Truck Brake        |                8                |
 |           Tender Brake           |                9                |
