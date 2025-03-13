@@ -1,7 +1,5 @@
 ##### § 1201.41 Judges. #####
 
-Link to an amendment published at 89 FR 72961, Sept. 9, 2024.
-
 (a) *Exercise of authority.* Judges may exercise authority as provided in paragraphs (b) and (c) of this section on their own motion or on the motion of a party, as appropriate.
 
 (b) *Authority.* Judges will conduct fair and impartial hearings and will issue timely and clear decisions based on statutes and legal precedents. They will have all powers necessary to that end unless those powers are otherwise limited by law. Judges' powers include, but are not limited to, the authority to:
@@ -14,15 +12,9 @@ Link to an amendment published at 89 FR 72961, Sept. 9, 2024.
 
 (4) Rule on discovery motions under § 1201.73 of this part;
 
-(5) After notice to the parties, order a hearing on his or her own initiative if the judge determines that a hearing is necessary:
+(5) Grant an appellant's request for a hearing; case;
 
-(i) To resolve an important issue of credibility;
-
-(ii) To ensure that the record on significant issues is fully developed; or
-
-(iii) To otherwise ensure a fair and just adjudication of the case;
-
-(6) Convene a hearing as appropriate, regulate the course of the hearing, maintain decorum, and exclude any disruptive persons from the hearing;
+(6) Convene a hearing by appropriate method, regulate the course of the hearing, maintain decorum, and exclude any disruptive persons from the hearing;
 
 (7) Exclude any person from all or any part of the proceeding before him or her as provided under § 1201.31(d) of this part;
 
@@ -52,4 +44,6 @@ Link to an amendment published at 89 FR 72961, Sept. 9, 2024.
 
 (ii) If the agreement is not entered into the record, the Board will not retain jurisdiction to ensure compliance.
 
-[54 FR 53504, Dec. 29, 1989, as amended at 62 FR 62689, Nov. 25, 1997; 63 FR 35500, June 30, 1998; 77 FR 62366, Oct. 12, 2012]
+(iii) The judge may rescind a settlement agreement and reinstate the underlying matter on appeal in accordance with § 1201.183(a)(8)(ii).
+
+[54 FR 53504, Dec. 29, 1989, as amended at 62 FR 62689, Nov. 25, 1997; 63 FR 35500, June 30, 1998; 77 FR 62366, Oct. 12, 2012; 89 FR 72961, Sept. 9, 2024]

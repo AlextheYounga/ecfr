@@ -1,7 +1,5 @@
 ##### § 1209.2 Jurisdiction. #####
 
-Link to an amendment published at 89 FR 72966, Sept. 9, 2024.
-
 (a) *Generally.* Under 5 U.S.C. 1221(a), an employee, former employee, or applicant for employment may appeal to the Board from agency personnel actions alleged to have been threatened, proposed, taken, or not taken because of the appellant's whistleblowing or other protected activity.
 
 (b) *Appeals authorized.* The Board exercises jurisdiction over:
@@ -16,7 +14,7 @@ Example 5:Same as Example 4 above. While the OSC complaint with respect to the p
 
 (c) *Issues before the Board in IRA appeals.* In an individual right of action appeal, the only merits issues before the Board are those listed in 5 U.S.C. 1221(e), *i.e.*, whether the appellant has demonstrated that whistleblowing or other protected activity was a contributing factor in one or more covered personnel actions and, if so, whether the agency has demonstrated by clear and convincing evidence that it would have taken the same personnel action(s) in the absence of the whistleblowing or other protected activity. The appellant may not raise affirmative defenses, such as claims of discrimination or harmful procedural error. In an IRA appeal that concerns an adverse action under 5 U.S.C. 7512, the agency need not prove its charges, nexus, or the reasonableness of the penalty, as a requirement under 5 U.S.C. 7513(a), *i.e.*, that its action is taken “only for such cause as will promote the efficiency of the service.” However, the Board may consider the strength of the agency's evidence in support of its adverse action in determining whether the agency has demonstrated by clear and convincing evidence that it would have taken the same personnel action in the absence of the whistleblowing or other protected activity.
 
-(d) *Elections under 5 U.S.C. 7121(g).* (1) Under 5 U.S.C. 7121(g)(3), an employee who believes he or she was subjected to a covered personnel action in retaliation for whistleblowing or other protected activity “may elect not more than one” of 3 remedies: An appeal to the Board under 5 U.S.C. 7701; a negotiated grievance under 5 U.S.C. 7121(d); or corrective action under subchapters II and III of 5 U.S.C. chapter 12, *i.e.*, a complaint filed with the Special Counsel (5 U.S.C. 1214), which can be followed by an IRA appeal filed with the Board (5 U.S.C. 1221). Under 5 U.S.C. 7121(g)(4), an election is deemed to have been made based on which of the 3 actions the individual files first.
+(d) *Elections under 5 U.S.C. 7121(g).* (1) Under 5 U.S.C. 7121(g)(3), an employee who believes he or she was subjected to a covered personnel action in retaliation for whistleblowing or other protected activity “may elect not more than one” of 3 remedies: An appeal to the Board under 5 U.S.C. 7701; a negotiated grievance under 5 U.S.C. 7121(b); or corrective action under subchapters II and III of 5 U.S.C. chapter 12, *i.e.*, a complaint filed with the Special Counsel (5 U.S.C. 1214), which can be followed by an IRA appeal filed with the Board (5 U.S.C. 1221). Under 5 U.S.C. 7121(g)(4), an election is deemed to have been made based on which of the 3 actions the individual files first.
 
 (2) In the case of an otherwise appealable action as described in paragraph (b)(2) of this section, an employee who files a complaint with OSC prior to filing an appeal with the Board has elected corrective action under subchapters II and III of 5 U.S.C. chapter 12, *i.e.*, a complaint filed with OSC, which can be followed by an IRA appeal with the Board. As described in paragraph (c) of this section, the IRA appeal in such a case is limited to resolving the claim(s) of reprisal for whistleblowing or other protected activity.
 
@@ -26,4 +24,4 @@ Example 5:Same as Example 4 above. While the OSC complaint with respect to the p
 
 (2) If a finding has been made that a protected disclosure or other protected activity was a contributing factor in one or more covered personnel actions, the Board will order corrective action unless the agency demonstrates by clear and convincing evidence that it would have taken the same personnel action in the absence of such disclosure or activity.
 
-[78 FR 39546, July 2, 2013]
+[78 FR 39546, July 2, 2013, as amended at 89 FR 72966, Sept. 9, 2024]

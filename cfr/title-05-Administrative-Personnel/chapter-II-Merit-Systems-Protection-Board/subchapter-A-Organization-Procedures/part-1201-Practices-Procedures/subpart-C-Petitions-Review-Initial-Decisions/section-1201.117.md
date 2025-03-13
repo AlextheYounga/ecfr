@@ -1,8 +1,6 @@
 ##### § 1201.117 Board decisions; procedures for review or reopening. #####
 
-Link to an amendment published at 89 FR 72964, Sept. 9, 2024.
-
-(a) In any case that is reopened or reviewed, the Board may:
+(a) In any case that is reviewed, or reopened at the Board's discretion pursuant to § 1201.118, the Board may:
 
 (1) Issue a decision that decides the case;
 
@@ -22,4 +20,4 @@ Link to an amendment published at 89 FR 72964, Sept. 9, 2024.
 
 (2) *Nonprecedential Orders.* A nonprecedential Order is one that the Board has determined does not add significantly to the body of MSPB case law. The Board may, in its discretion, include in nonprecedential Orders a discussion of the issue(s) to assist the parties in understanding the reason(s) for the Board's disposition in a particular appeal. Nonprecedential Orders are not binding on the Board or its administrative judges in any future appeals except when it is determined they have a preclusive effect on parties under the doctrines of res judicata (claim preclusion), collateral estoppel (issue preclusion), judicial estoppel, or law of the case. Parties may cite nonprecedential Orders, but such orders have no precedential value; the Board and its administrative judges are not required to follow or distinguish them in any future decisions. In contrast, a precedential decision issued as an Opinion and Order has been identified by the Board as significantly contributing to the Board's case law.
 
-[76 FR 60707, Sept. 30, 2011, as amended at 77 FR 62370, Oct. 12, 2012]
+[76 FR 60707, Sept. 30, 2011, as amended at 77 FR 62370, Oct. 12, 2012; 89 FR 72964, Sept. 9, 2024]

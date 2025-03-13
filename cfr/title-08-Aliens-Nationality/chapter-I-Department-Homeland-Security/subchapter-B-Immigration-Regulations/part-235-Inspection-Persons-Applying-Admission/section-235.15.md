@@ -1,6 +1,6 @@
 ##### § 235.15 Inadmissible aliens and expedited removal during emergency border circumstances. #####
 
-(a) *Applicability.* Notwithstanding §§ 235.3(b)(2)(i) and 235.3(b)(4)(i) (but not § 235.3(b)(4)(ii)), the provisions of this section apply to any alien described in § 235.3(b)(1)(i) through (ii) if the alien is described in § 208.13(g) and is not described in section 3(b) of the Presidential Proclamation of June 3, 2024, Securing the Border.
+(a) *Applicability.* Notwithstanding §§ 235.3(b)(2)(i) and 235.3(b)(4)(i) (but not § 235.3(b)(4)(ii)), the provisions of this section apply to any alien described in § 235.3(b)(1)(i) through (ii) if the alien is described in § 208.13(g) and is not described in section 3(b) of the Presidential Proclamation of June 3, 2024, as defined in 8 CFR 208.13(h).
 
 (b) *Expedited removal.*
 
@@ -24,6 +24,6 @@
 
 (c)-(f) [Reserved]
 
-(g) *Severability.* The Department intends that in the event that any provision of paragraphs (a), (b)(2)(i), and (b)(4) of this section, § 208.35, or the Presidential Proclamation of June 3, 2024, Securing the Border, is held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, the provisions of this section and § 208.35 should be construed so as to continue to give the maximum effect to those provisions permitted by law, unless such holding is that a provision is wholly invalid and unenforceable, in which event the provision should be severed from the remainder of this section and the holding should not affect the remainder of this section or the application of the provision to persons not similarly situated or to dissimilar circumstances.
+(g) *Severability.* The Department intends that in the event that any provision of paragraphs (a), (b)(2)(i), and (b)(4) of this section, § 208.35, or the Presidential Proclamation of June 3, 2024, as defined in 8 CFR 208.13(h), is held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, the provisions of this section and § 208.35 should be construed so as to continue to give the maximum effect to those provisions permitted by law, unless such holding is that a provision is wholly invalid and unenforceable, in which event the provision should be severed from the remainder of this section and the holding should not affect the remainder of this section or the application of the provision to persons not similarly situated or to dissimilar circumstances.
 
-[89 FR 48770, June 7, 2024]
+[89 FR 48770, June 7, 2024, as amended at 89 FR 81285, Oct. 7, 2024]

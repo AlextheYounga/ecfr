@@ -1,8 +1,6 @@
-##### § 1201.115 Criteria for granting petition or cross petition for review. #####
+##### § 1201.115 Criteria for granting petition for review. #####
 
-Link to an amendment published at 89 FR 72963, Sept. 9, 2024.
-
-The Board normally will consider only issues raised in a timely filed petition or cross petition for review. Situations in which the Board may grant a petition or cross petition for review include, but are not limited to, a showing that:
+The Board normally will consider only issues raised in a timely filed petition for review. Situations in which the Board may grant a petition for review include, but are not limited to, a showing that:
 
 (a) The initial decision contains erroneous findings of material fact.
 
@@ -18,4 +16,4 @@ The Board normally will consider only issues raised in a timely filed petition o
 
 (e) Notwithstanding the above provisions in this section, the Board reserves the authority to consider any issue in an appeal before it.
 
-[77 FR 62369, Oct. 12, 2012]
+[77 FR 62369, Oct. 12, 2012, as amended at 89 FR 72963, Sept. 9, 2024]

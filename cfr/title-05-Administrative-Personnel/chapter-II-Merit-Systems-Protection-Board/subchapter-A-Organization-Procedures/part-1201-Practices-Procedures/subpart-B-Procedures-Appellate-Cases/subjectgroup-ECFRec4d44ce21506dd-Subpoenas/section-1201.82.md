@@ -1,5 +1,5 @@
 ##### § 1201.82 Motions to quash subpoenas. #####
 
-Link to an amendment published at 89 FR 72962, Sept. 9, 2024.
+Any person to whom a subpoena is directed, or any party, may file a motion to quash or limit the subpoena. The motion must include reasons why compliance with the subpoena should not be required or the subpoena's scope should be limited. A party must file the motion with the judge and serve it on the other parties. A non-party must file the motion with the judge, who will enter the motion into the record and serve the motion on all parties. For purposes of this section, judges may provide a method by which nonparties may file the motion electronically, including by email, notwithstanding § 1201.14(d). Any party may file a response to the motion within 10 days after the motion has been entered into the record, and the judge will specify the method of service of any such response upon a non-party.
 
-Any person to whom a subpoena is directed, or any party, may file a motion to quash or limit the subpoena. The motion must be filed with the judge, and it must include the reasons why compliance with the subpoena should not be required or the reasons why the subpoena's scope should be limited.
+[89 FR 72962, Sept. 9, 2024]

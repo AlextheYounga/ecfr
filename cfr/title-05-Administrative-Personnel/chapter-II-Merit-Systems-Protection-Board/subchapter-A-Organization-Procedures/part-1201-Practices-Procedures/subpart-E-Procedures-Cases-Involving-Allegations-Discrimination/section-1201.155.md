@@ -1,6 +1,4 @@
-##### § 1201.155 Requests for review of arbitrators' decisions. #####
-
-Link to an amendment published at 89 FR 72964, Sept. 9, 2024.
+##### § 1201.155 Requests for review of final grievance or arbitrator's decisions. #####
 
 (a) *Source and applicability.* (1) Under paragraph (d) of 5 U.S.C. 7121, an employee who believes he or she has been subjected to discrimination within the meaning of 5 U.S.C. 2302(b)(1), and who may raise the matter under either a statutory procedure such as 5 U.S.C. 7701 or under a negotiated grievance procedure, must make an election between the two procedures. The election of the negotiated grievance procedure “in no manner prejudices” the employee's right to request Board review of the final decision pursuant to 5 U.S.C. 7702. Subsection (a)(1) of section 7702 provides that, “[n]otwithstanding any other provision of law,” when an employee who has been subjected to an action that is appealable to the Board and who alleges that the action was the result of discrimination within the meaning of 5 U.S.C. 2302(b)(1), the Board will decide both the issue of discrimination and the appealable action in accordance with the Board's appellate procedures under section 7701.
 
@@ -24,4 +22,6 @@ Link to an amendment published at 89 FR 72964, Sept. 9, 2024.
 
 (f) *Closing of the record.* The record will close upon expiration of the period for filing the response to the request for review, or to the brief on intervention, if any, or on any other date the Board sets for this purpose. Once the record closes, no additional evidence or argument will be accepted unless the party submitting it shows that the evidence was not readily available before the record closed.
 
-[77 FR 62371, Oct. 12, 2012]
+(g) *Petition for enforcement.* A petition for enforcement of a final Board decision or order that was issued pursuant to paragraphs (a) through (f) of this section, should be filed with the Office of the Clerk of the Board and should otherwise comply with the requirements set forth in § 1201.182(a).
+
+[77 FR 62371, Oct. 12, 2012, as amended at 89 FR 72964, Sept. 9, 2024]

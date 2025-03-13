@@ -1,7 +1,5 @@
 ##### § 1201.56 Burden and degree of proof. #####
 
-Link to an amendment published at 89 FR 72961, Sept. 9, 2024.
-
 (a) *Applicability.* This section does not apply to the following types of appeals which are covered by § 1201.57:
 
 (1) An individual right of action appeal under the Whistleblower Protection Act, 5 U.S.C. 1221;
@@ -26,7 +24,7 @@ Link to an amendment published at 89 FR 72961, Sept. 9, 2024.
 
 (C) Affirmative defenses.
 
-(ii) In appeals from reconsideration decisions of the Office of Personnel Management (OPM) involving retirement benefits, if the appellant filed the application, the appellant has the burden of proving, by a preponderance of the evidence (as defined in § 1201.4(q)), entitlement to the benefits. Where OPM proves by preponderant evidence an overpayment of benefits, an appellant may prove, by substantial evidence (as defined in § 1201.4(p)), eligibility for waiver or adjustment.
+(ii) In appeals from final decisions of the Office of Personnel Management (OPM) involving retirement benefits, if the appellant filed the application, the appellant has the burden of proving, by a preponderance of the evidence (as defined in § 1201.4(q)), entitlement to the benefits.
 
 (c) *Affirmative defenses of the appellant.* Under 5 U.S.C. 7701(c)(2), the Board is required to reverse the action of the agency, even where the agency has met the evidentiary standard stated in paragraph (b) of this section, if the appellant:
 
@@ -38,4 +36,4 @@ Link to an amendment published at 89 FR 72961, Sept. 9, 2024.
 
 (d) *Administrative judge.* The administrative judge will inform the parties of the proof required as to the issues of jurisdiction, the timeliness of the appeal, and affirmative defenses.
 
-[80 FR 4496, Jan. 28, 2015]
+[80 FR 4496, Jan. 28, 2015, as amended at 89 FR 72961, Sept. 9, 2024]

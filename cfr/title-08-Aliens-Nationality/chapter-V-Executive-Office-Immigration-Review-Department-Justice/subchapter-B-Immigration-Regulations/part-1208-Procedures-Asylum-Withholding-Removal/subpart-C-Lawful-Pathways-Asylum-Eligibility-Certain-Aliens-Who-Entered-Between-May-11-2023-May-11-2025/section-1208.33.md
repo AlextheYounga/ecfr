@@ -28,7 +28,7 @@ Notwithstanding any contrary section of this part, including §§ 1208.2, 1208.1
 
 (B) Faced an imminent and extreme threat to life or safety, such as an imminent threat of rape, kidnapping, torture, or murder; or
 
-(C) Satisfied the definition of “victim of a severe form of trafficking in persons” provided in 8 CFR 214.11(a).
+(C) Satisfied the definition of “victim of a severe form of trafficking in persons” provided in 8 CFR 214.201(a).
 
 (ii) An alien who demonstrates by a preponderance of the evidence any of the circumstances in paragraph (a)(3)(i) of this section shall necessarily rebut the presumption in paragraph (a)(1) of this section.
 
@@ -51,3 +51,5 @@ Notwithstanding any contrary section of this part, including §§ 1208.2, 1208.1
 (2) The conditions on asylum eligibility in paragraph (a)(1) of this section shall not apply to an asylum application filed by an alien described in paragraph (d)(1) of this section if the asylum application is filed after May 11, 2025, the alien was under the age of 18 at the time of the entry referenced in paragraph (d)(1) of this section, and the alien is applying for asylum as a principal applicant.
 
 (e) *Severability.* The Department intends that any provision of this section held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, should be construed so as to continue to give the maximum effect to the provision permitted by law, unless such holding is that the provision is wholly invalid and unenforceable, in which event the provision should be severed from the remainder of this section and the holding should not affect the remainder of this section or the application of the provision to persons not similarly situated or to dissimilar circumstances.
+
+[88 FR 31451, May 16, 2023, as amended at 89 FR 81285, Oct. 7, 2024]

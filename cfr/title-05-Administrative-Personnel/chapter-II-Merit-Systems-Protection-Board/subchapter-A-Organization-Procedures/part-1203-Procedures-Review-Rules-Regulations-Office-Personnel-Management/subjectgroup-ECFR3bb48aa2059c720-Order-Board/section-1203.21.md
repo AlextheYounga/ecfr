@@ -1,7 +1,5 @@
 ##### § 1203.21 Final order of the Board. #####
 
-Link to an amendment published at 89 FR 72966, Sept. 9, 2024.
-
 (a) *Invalid regulation.* If the Board determines that a regulation is invalid on its face, in whole or in part, it will require any agency affected by the order to stop complying with the regulation, in whole or in part. In addition, it may order other remedial action that it finds necessary.
 
 (b) *Invalidly implemented regulation.* If the Board determines that a regulation has been implemented invalidly, in whole or in part, it will require affected agencies to terminate the invalid implementation.
@@ -21,3 +19,7 @@ Link to an amendment published at 89 FR 72966, Sept. 9, 2024.
 (6) Other remedial measures to reverse the effects of a prohibited personnel practice; and
 
 (7) The agency's submission of a verified report of its compliance with the Board's order.
+
+(d) *Final decision.* The decision of the Board is final and judicially appealable if the Board grants the request to review and addresses the merits of the request.
+
+[54 FR 23632, June 2, 1989, as amended at 89 FR 72966, Sept. 9, 2024]

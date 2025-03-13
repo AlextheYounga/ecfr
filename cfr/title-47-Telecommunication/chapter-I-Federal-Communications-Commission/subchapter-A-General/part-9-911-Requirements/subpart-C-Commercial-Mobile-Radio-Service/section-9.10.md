@@ -1,7 +1,5 @@
 ##### § 9.10 911 Service. #####
 
-Link to an amendment published at 89 FR 34165, Apr. 30, 2024.
-
 (a) *Scope of section.* Except as described in paragraph (r) of this section, the following requirements of paragraphs (a) through (t) of this section are only applicable to CMRS providers, excluding mobile satellite service (MSS) operators, to the extent that they:
 
 (1) Offer real-time, two way switched voice service that is interconnected with the public switched network; and
@@ -431,6 +429,26 @@ Note to paragraph (d): With respect to 911 calls accessing their systems through
 (i) Use information regarding the location of a device, including but not limited to device-based location information, to route SCS 911 voice calls and SCS 911 text messages to an appropriate PSAP and transmit the phone number of the device used to send the SCS 911 voice call or SCS 911 text message and available location information to an appropriate PSAP; or
 
 (ii) Use an emergency call center, at which emergency call center personnel must determine the emergency caller's phone number and location and then transfer or otherwise direct the 911 caller to an appropriate PSAP.
+
+(3) *Reporting.* Each CMRS provider that utilizes SCS arrangements to expand its coverage areas for providing service to its end-user subscribers must maintain records of all SCS 911 voice calls and SCS 911 text messages received on its network and received at its emergency call center. By October 15 of each year, each CMRS provider that utilizes SCS arrangements to expand its coverage areas for providing service to its end-user subscribers must submit a report to the Commission regarding SCS 911 voice calls and 911 text messages, and its emergency call center data, current as of September 30 of that year. CMRS providers that utilize SCS arrangements to expand their coverage areas for providing service to their end-user subscribers must submit this certification in the Commission's Electronic Comment Filing System. These reports must include, at a minimum, the following:
+
+(i) The name and address of the CMRS provider, the address of that CMRS provider's emergency call center, and the contact information of the emergency call center;
+
+(ii) The aggregate number of SCS 911 voice calls and SCS 911 text messages received by the network of the CMRS provider that provides SCS service to its end-user subscribers during each month during the relevant reporting period;
+
+(iii) The aggregate number of SCS 911 voice calls and SCS 911 text messages received by the emergency call center each month during the relevant reporting period;
+
+(iv) The aggregate number of SCS 911 voice calls and SCS 911 text messages received by the emergency call center each month during the relevant reporting period that required forwarding to a PSAP and how many did not require forwarding to a PSAP;
+
+(v) The aggregate number of SCS 911 voice calls that were routed using location information that met the timeliness and accuracy thresholds defined in paragraphs (s)(3)(i)(A) and (B) of this section;
+
+(vi) The aggregate number of SCS 911 voice calls and SCS 911 text messages that were routed using location information that did not meet the timeliness and accuracy thresholds defined in paragraphs (s)(3)(i)(A) and (B) of this section; and
+
+(vii) An explanation of how the SCS deployment, including network architecture, systems, and procedures, will support routing SCS 911 voice calls and SCS 911 text messages to the geographically appropriate PSAP with sufficient location information in compliance with paragraph (t)(2) of this section.
+
+(4) *Certification.* CMRS providers that utilize SCS arrangements to expand their coverage areas for providing service to their end-user subscribers must certify on a one-time basis that neither they nor any third party they rely on to obtain location information or associated data used for compliance with paragraph (t)(2)(i) or (ii) of this section will use such location information or associated data for any non-911 purpose, except with prior express consent or as otherwise permitted or required by law. The certification must state that the CMRS provider and any third parties it relies on to obtain location information or associated data used for compliance with paragraph (t)(2)(i) or (ii) have implemented measures sufficient to safeguard the privacy and security of such location information or associated data. CMRS providers that utilize SCS arrangements to expand their coverage areas for providing service to their end-user subscribers must submit this one-time certification in the Commission's Electronic Comment Filing System on the due date of the first report made under paragraph (t)(3) of this section.
+
+(5) *Subscriber notification.* Each CMRS provider that utilizes SCS arrangements to expand its coverage areas for providing service to its end-user subscribers shall specifically advise every subscriber, both new and existing, in writing prominently and in plain language, of the circumstances under which 911 service for all SCS 911 calls, or SCS 911 text messages may not be available via SCS or may be in some way limited by comparison to traditional enhanced 911 service.
 
 [84 FR 66760, Dec. 5, 2019, as amended at 85 FR 2675, Jan. 16, 2020; 85 FR 53246, Aug. 28, 2020; 85 FR 70501, Nov. 5, 2020; 85 FR 78022, Dec. 3, 2020; 86 FR 19584, Apr. 14, 2021; 89 FR 18523, Mar. 13, 2024;
 89 FR 34165, Apr. 30, 2024; 89 FR 78825, Sept. 26, 2024]

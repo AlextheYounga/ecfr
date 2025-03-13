@@ -1,11 +1,9 @@
 ##### § 1203.14 Serving documents. #####
 
-Link to an amendment published at 89 FR 72966, Sept. 9, 2024.
-
 (a) *Parties.* In every case, the person requesting regulation review must serve a copy of the request on the Director of OPM. In addition, when the implementation of a regulation is being challenged, the requester must also serve a copy of the request on the head of the implementing agency. A copy of all other pleadings must be served, by the person submitting the pleading, on each other party to the proceeding.
 
 (b) *Method of serving documents.* Pleadings may be served on parties by mail, by personal delivery, by facsimile, or by commercial delivery. Service by mail is accomplished by mailing the pleading to each party or representative, at the party's or representative's last known address. Service by facsimile is accomplished by transmitting the pleading by facsimile to each party or representative. Service by personal delivery or by commercial delivery is accomplished by delivering the pleading to the business office or home of each party or representative and leaving it with the party or representative, or with a responsible person at that address. Regardless of the method of service, the party serving the document must submit to the Board, along with the pleading, a certificate of service as proof that the document was served on the other parties or their representatives. The certificate of service must list the names and addresses of the persons on whom the pleading was served, must state the date on which the pleading was served, must state the method (*i.e.,* mail, personal delivery, facsimile, or commercial delivery) by which service was accomplished, and must be signed by the person responsible for accomplishing service.
 
-(c) *Electronic filing.* Other than the initial request for a regulation review, pleadings in a regulation review proceeding may be filed with the Board and served upon other parties by electronic filing, provided the requirements of § 1201.14 of this chapter are satisfied.
+(c) *Electronic filing.* An initial request for a regulation review and other pleadings in a regulation review proceeding may be filed with the Board and served upon other parties by electronic filing, provided the requirements of § 1201.14 of this chapter are satisfied.
 
-[54 FR 23632, June 21, 1989, as amended at 59 FR 65242, Dec. 19, 1994; 68 FR 59864, Oct. 20, 2003; 69 FR 57631, Sept. 27, 2004]
+[54 FR 23632, June 21, 1989, as amended at 59 FR 65242, Dec. 19, 1994; 68 FR 59864, Oct. 20, 2003; 69 FR 57631, Sept. 27, 2004; 89 FR 72966, Sept. 9, 2024]

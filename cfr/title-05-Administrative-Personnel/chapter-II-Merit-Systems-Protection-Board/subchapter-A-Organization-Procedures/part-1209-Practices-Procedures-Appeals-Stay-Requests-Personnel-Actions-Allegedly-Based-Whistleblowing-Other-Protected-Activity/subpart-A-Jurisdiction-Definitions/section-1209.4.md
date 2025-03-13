@@ -1,7 +1,5 @@
 ##### § 1209.4 Definitions. #####
 
-Link to an amendment published at 89 FR 72966, Sept. 9, 2024.
-
 (a) *Personnel action* means, as to individuals and agencies covered by 5 U.S.C. 2302:
 
 (1) An appointment;
@@ -42,8 +40,8 @@ Link to an amendment published at 89 FR 72966, Sept. 9, 2024.
 
 (d) *Contributing factor* means any disclosure that affects an agency's decision to threaten, propose, take, or not take a personnel action with respect to the individual making the disclosure.
 
-(e) *Clear and convincing evidence* is that measure or degree of proof that produces in the mind of the trier of fact a firm belief as to the allegations sought to be established. It is a higher standard than “preponderance of the evidence” as defined in 5 CFR 1201.56(c)(2).
+(e) *Clear and convincing evidence* is that measure or degree of proof that produces in the mind of the trier of fact a firm belief as to the allegations sought to be established. It is a higher standard than “preponderance of the evidence” as defined in 5 CFR 1201.4(q).
 
 (f) *Reasonable belief.* An employee or applicant may be said to have a reasonable belief when a disinterested observer with knowledge of the essential facts known to and readily ascertainable by the employee or applicant could reasonably conclude that the actions of the Government evidence the violation, mismanagement, waste, abuse, or danger in question.
 
-[55 FR 28592, July 12, 1990, as amended at 62 FR 17048, Apr. 9, 1997; 77 FR 62374, Oct. 12, 2012; 78 FR 39547, July 2, 2013]
+[55 FR 28592, July 12, 1990, as amended at 62 FR 17048, Apr. 9, 1997; 77 FR 62374, Oct. 12, 2012; 78 FR 39547, July 2, 2013; 89 FR 72966, Sept. 9, 2024]
