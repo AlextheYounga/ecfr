@@ -1,6 +1,6 @@
 ##### § 440.3 Definitions. #####
 
-Link to an amendment published at 85 FR 79719, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79719, Dec. 10, 2020.Link to an amendment published at 89 FR 76728, Sept. 19, 2024.
 
 Except as otherwise provided in this section, any term used in this part and defined in 51 U.S.C. 50901-50923, or in § 401.5 or § 401.7 of this chapter shall have the meaning contained therein.
 

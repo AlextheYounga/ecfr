@@ -1,6 +1,6 @@
 ##### § 401.5 Definitions. #####
 
-Link to an amendment published at 85 FR 79707, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79707, Dec. 10, 2020.Link to an amendment published at 89 FR 76725, Sept. 19, 2024.
 
 For the purposes of parts 415, 417, 431, 435, 440, and 460 of this chapter, the following definitions apply:
 

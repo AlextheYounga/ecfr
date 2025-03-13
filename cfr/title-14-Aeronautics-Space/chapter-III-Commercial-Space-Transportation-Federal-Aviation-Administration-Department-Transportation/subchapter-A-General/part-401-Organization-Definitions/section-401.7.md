@@ -1,5 +1,7 @@
 ##### § 401.7 Definitions. #####
 
+Link to an amendment published at 89 FR 76726, Sept. 19, 2024.
+
 For the purposes of this chapter unless otherwise excepted, the following definitions apply:
 
 *Act* means 51 U.S.C Subtitle V, Programs Targeting Commercial Opportunities, chapter 509—Commercial Space Launch Activities, 51 U.S.C. 50901-50923.

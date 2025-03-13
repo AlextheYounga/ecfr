@@ -1,7 +1,5 @@
 ##### § 54.500 Terms and definitions. #####
 
-Link to an amendment published at 89 FR 67324, Aug. 20, 2024.
-
 *Basic maintenance.* A service is eligible for support as a “basic maintenance” service if, but for the maintenance at issue, the internal connection would not function and serve its intended purpose with the degree of reliability ordinarily provided in the marketplace to entities receiving such services. Basic maintenance services do not include services that maintain equipment that is not supported by E-rate or that enhance the utility of equipment beyond the transport of information, or diagnostic services in excess of those necessary to maintain the equipment's ability to transport information.
 
 *Billed entity.* A “billed entity” is the entity that remits payment to service providers for services rendered to eligible schools and libraries.
@@ -56,4 +54,8 @@ Link to an amendment published at 89 FR 67324, Aug. 20, 2024.
 
 *Wide area network.* For purposes of this subpart, a “wide area network” is a voice or data network that provides connections from one or more computers within an eligible school or library to one or more computers or networks that are external to such eligible school or library. Excluded from this definition is a voice or data network that provides connections between or among instructional buildings of a single school campus or between or among non-administrative buildings of a single library branch.
 
-[63 FR 2128, Jan. 13, 1998, as amended at 68 FR 36942, June 20, 2003; 76 FR 56302, Sept. 13, 2011; 79 FR 49197, Aug. 19, 2014; 79 FR 68634, Nov. 18, 2014; 87 FR 8210, Feb. 14, 2022; 88 FR 55409, Aug. 15, 2023]
+*Wi-Fi.* “Wi-Fi” is a wireless networking protocol based on Institute of Electrical and Electronics Engineers standard 802.11.
+
+*Wi-Fi hotspot.* A “Wi-Fi hotspot” is a device that is capable of receiving advanced telecommunications and information services, and sharing such services with another connected device through the use of Wi-Fi.
+
+[63 FR 2128, Jan. 13, 1998, as amended at 68 FR 36942, June 20, 2003; 76 FR 56302, Sept. 13, 2011; 79 FR 49197, Aug. 19, 2014; 79 FR 68634, Nov. 18, 2014; 87 FR 8210, Feb. 14, 2022; 88 FR 55409, Aug. 15, 2023; 89 FR 67324, Aug. 20, 2024]

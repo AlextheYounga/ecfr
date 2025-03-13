@@ -1,7 +1,5 @@
 ##### § 54.520 Children's Internet Protection Act certifications required from recipients of discounts under the federal universal service support mechanism for schools and libraries. #####
 
-Link to an amendment published at 89 FR 67325, Aug. 20, 2024.
-
 (a) *Definitions.*
 
 (1) *School.* For the purposes of the certification requirements of this rule, school means school, school board, school district, local education agency or other authority responsible for administration of a school.
@@ -56,7 +54,7 @@ Link to an amendment published at 89 FR 67325, Aug. 20, 2024.
 
 (B) Pursuant to the Children's Internet Protection Act, as codified at 47 U.S.C. 254(h) and (l), the recipient(s) of service represented in the Funding Request Number(s) on this Form 486, for whom this is the first funding year in the federal universal service support mechanism for schools and libraries, is (are) undertaking such actions, including any necessary procurement procedures, to comply with the requirements of CIPA for the next funding year, but has (have) not completed all requirements of CIPA for this funding year.
 
-(C) The Children's Internet Protection Act, as codified at 47 U.S.C. 254(h) and (l), does not apply because the recipient(s) of service represented in the Funding Request Number(s) on this Form 486 is (are) receiving discount services only for telecommunications services.
+(C) The Children's internet Protection Act, as codified at 47 U.S.C. 254(h) and (l), does not apply because the recipient(s) of service represented in the Funding Request Number(s) on this Form 486 is (are) receiving discount services only for telecommunications services, or is (are) receiving support under the Federal universal service support mechanism for schools and libraries for internet access or internal connections that will not be used in conjunction with a computer owned by the recipient(s).
 
 (2) *Libraries.* The billed entity for a library that receives discounts for Internet access and internal connections must certify, on FCC Form 486, that an Internet safety policy is being enforced. If the library is an eligible member of a consortium but is not the billed entity for the consortium, the library must instead certify on FCC Form 479 (“Certification to Consortium Leader of Compliance with the Children's Internet Protection Act”) that an Internet safety policy is being enforced.
 
@@ -80,7 +78,7 @@ Link to an amendment published at 89 FR 67325, Aug. 20, 2024.
 
 (B) Pursuant to the Children's Internet Protection Act, as codified at 47 U.S.C. 254(h) and (l), the recipient(s) of service represented in the Funding Request Number(s) on this Form 486, for whom this is the first funding year in the federal universal service support mechanism for schools and libraries, is (are) undertaking such actions, including any necessary procurement procedures, to comply with the requirements of CIPA for the next funding year, but has (have) not completed all requirements of CIPA for this funding year.
 
-(C) The Children's Internet Protection Act, as codified at 47 U.S.C. 254(h) and (l), does not apply because the recipient(s) of service represented in the Funding Request Number(s) on this Form 486 is (are) receiving discount services only for telecommunications services.
+(C) The Children's internet Protection Act, as codified at 47 U.S.C. 254(h) and (l), does not apply because the recipient(s) of service represented in the Funding Request Number(s) on this Form 486 is (are) receiving discount services only for telecommunications services, or is (are) receiving support under the Federal universal service support mechanism for schools and libraries for internet access or internal connections that will not be used in conjunction with a computer owned by the recipient(s).
 
 (3) *Certifications required from consortia members and billed entities for consortia.* (i) The billed entity of a consortium, as defined in paragraph (a)(3) of this section, other than one requesting only discounts on telecommunications services for consortium members, must collect from the authority for each of its school and library members, one of the following signed certifications on FCC Form 479 (“Certification to Consortium Leader of Compliance with the Children's Internet Protection Act”), which must be submitted to the billed entity consistent with paragraph (c)(1) or paragraph (c)(2) of this section:
 
@@ -88,7 +86,7 @@ Link to an amendment published at 89 FR 67325, Aug. 20, 2024.
 
 (B) Pursuant to the Children's Internet Protection Act, as codified at 47 U.S.C. 254(h) and (l), the recipient(s) of service under my administrative authority and represented in the Funding Request Number(s) for which you have requested or received Funding Commitments, and for whom this is the first funding year in the federal universal service support mechanism for schools and libraries, is (are) undertaking such actions, including any necessary procurement procedures, to comply with the requirements of CIPA for the next funding year, but has (have) not completed all requirements of CIPA for this funding year.
 
-(C) The Children's Internet Protection Act, as codified at 47 U.S.C. 254(h) and (l), does not apply because the recipient(s) of service under my administrative authority and represented in the Funding Request Number(s) for which you have requested or received Funding Commitments is (are) receiving discount services only for telecommunications services; and
+(C) The Children's internet Protection Act, as codified at 47 U.S.C. 254(h) and (l), does not apply because the recipient(s) of service under my administrative authority and represented in the Funding Request Number(s) for which you have requested or received Funding Commitments is (are) receiving discount services only for telecommunications services; and, or is (are) receiving support under the Federal universal service support mechanism for schools and libraries for internet access or internal connections that will not be used in conjunction with a computer owned by the recipient(s); and
 
 (ii) The billed entity for a consortium, as defined in paragraph (a)(3) of this section, must make one of the following two certifications on FCC Form 486: “I certify as the Billed Entity for the consortium that I have collected duly completed and signed Forms 479 from all eligible members of the consortium.”; or I certify “as the Billed Entity for the consortium that the only services that I have been approved for discounts under the universal service support on behalf of eligible members of the consortium are telecommunications services, and therefore the requirements of the Children's Internet Protection Act, as codified at 47 U.S.C. 254(h) and (l), do not apply.”; and
 
@@ -116,4 +114,4 @@ Link to an amendment published at 89 FR 67325, Aug. 20, 2024.
 
 (h) *Public notice; hearing or meeting.* A school or library shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy.
 
-[66 FR 19396, Apr. 16, 2001; 66 FR 22133, May 3, 2001, as amended at 67 FR 50603, Aug. 5, 2002; 68 FR 47255, Aug. 8, 2003; 76 FR 56303, Sept. 13, 2011]
+[66 FR 19396, Apr. 16, 2001; 66 FR 22133, May 3, 2001, as amended at 67 FR 50603, Aug. 5, 2002; 68 FR 47255, Aug. 8, 2003; 76 FR 56303, Sept. 13, 2011; 89 FR 67325, Aug. 20, 2024]

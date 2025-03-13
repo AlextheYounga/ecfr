@@ -1,5 +1,7 @@
 ##### § 450.45 Safety review and approval. #####
 
+Link to an amendment published at 89 FR 76729, Sept. 19, 2024.
+
 (a) *General.* The FAA issues a safety approval to an applicant if it determines that an applicant can conduct launch or reentry without jeopardizing public health and safety and safety of property. A license applicant must satisfy the application requirements in this section and subpart C of this part.
 
 (b) *Services or property provided by a Federal launch or reentry site.* The FAA will accept any safety-related launch or reentry service or property provided by a Federal launch or reentry site or other Federal entity by contract, as long as the FAA determines that the launch or reentry services or property provided satisfy this part.

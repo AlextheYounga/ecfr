@@ -1,5 +1,7 @@
 ##### § 437.3 Definitions. #####
 
+Link to an amendment published at 89 FR 76726, Sept. 19, 2024.
+
 *Envelope expansion* means any portion of a flight where planned operations will subject a reusable suborbital rocket to the effects of altitude, velocity, acceleration, or burn duration that exceed a level or duration successfully verified during an earlier flight.
 
 *Exclusion area* means an area, within an operating area, that a reusable suborbital rocket's instantaneous impact point may not traverse.

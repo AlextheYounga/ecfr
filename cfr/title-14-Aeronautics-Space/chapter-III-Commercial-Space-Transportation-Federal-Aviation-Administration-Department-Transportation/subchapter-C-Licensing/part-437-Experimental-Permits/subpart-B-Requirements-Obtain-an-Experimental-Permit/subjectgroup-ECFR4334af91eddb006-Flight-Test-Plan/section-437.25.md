@@ -1,5 +1,7 @@
 ##### § 437.25 Flight test plan. #####
 
+Link to an amendment published at 89 FR 76727, Sept. 19, 2024.
+
 An applicant must—
 
 (a) Describe any flight test program, including estimated number of flights and key flight-safety events.

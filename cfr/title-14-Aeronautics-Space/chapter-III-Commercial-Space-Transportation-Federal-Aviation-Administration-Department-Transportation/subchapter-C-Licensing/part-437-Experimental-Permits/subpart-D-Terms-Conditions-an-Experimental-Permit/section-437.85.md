@@ -1,5 +1,7 @@
 ##### § 437.85 Allowable design changes; modification of an experimental permit. #####
 
+Link to an amendment published at 89 FR 76728, Sept. 19, 2024.
+
 (a) The FAA will identify in the experimental permit the type of changes that the permittee may make to the reusable suborbital rocket design without invalidating the permit.
 
 (b) Except for design changes made under paragraph (a) of this section, a permittee must ask the FAA to modify the experimental permit if—

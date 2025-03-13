@@ -1,5 +1,7 @@
 ##### § 413.3 Who must obtain a license or permit. #####
 
+Link to an amendment published at 89 FR 76726, Sept. 19, 2024.
+
 (a) A person must obtain a license in accordance with this section, unless eligible for an experimental permit under paragraph (f) of this section.
 
 (b) A person must obtain a license to—

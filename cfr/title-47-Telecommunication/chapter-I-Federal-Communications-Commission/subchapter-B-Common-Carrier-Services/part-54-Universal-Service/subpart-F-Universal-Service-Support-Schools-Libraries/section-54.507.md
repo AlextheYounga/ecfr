@@ -1,7 +1,5 @@
 ##### § 54.507 Cap. #####
 
-Link to an amendment published at 89 FR 67324, Aug. 20, 2024.
-
 (a) *Amount of the annual cap.* The aggregate annual cap on federal universal service support for schools and libraries shall be $3.9 billion per funding year, of which $1 billion per funding year will be available for category two services, as described in § 54.502(a)(2), unless demand for category one services is higher than available funding.
 
 (1) *Inflation increase.* In funding year 2016 and subsequent funding years, the $3.9 billion funding cap on federal universal service support for schools and libraries shall be automatically increased annually to take into account increases in the rate of inflation as calculated in paragraph (a)(2) of this section.
@@ -52,6 +50,8 @@ Link to an amendment published at 89 FR 67324, Aug. 20, 2024.
 
 (3) To the extent that there are single discount percentage levels associated with “shared services” under § 54.505(b)(4), the Administrator shall allocate funds to the applicants at each descending discount level (e.g., 90 percent, 89 percent, then 88 percent) until there are no funds remaining.
 
-(4) For both paragraphs (f)(1) and (2) of this section, if the remaining funds are not sufficient to support all of the funding requests within a particular discount level, the Administrator shall allocate funds at that discount level using the percentage of students eligible for the National School Lunch Program. Thus, if there is not enough support to fund all requests at the 40 percent discount level, the Administrator shall allocate funds beginning with those applicants with the highest percentage of NSLP eligibility for that discount level by funding those applicants with 19 percent NSLP eligibility, then 18 percent NSLP eligibility, and shall continue committing funds in the same manner to applicants at each descending percentage of NSLP until there are no funds remaining.
+(4) In the event that demand exceeds available funding, requests for category one services used off-premises shall be funded after on-premises category one and category two services.
 
-[79 FR 49201, Aug. 19, 2014, as amended at 80 FR 5990, Feb. 4, 2015]
+(5) For paragraphs (f)(1) through (4) of this section, if the remaining funds are not sufficient to support all of the funding requests within a particular discount level, the Administrator shall allocate funds at that discount level using the percentage of students eligible for the National School Lunch Program. Thus, if there is not enough support to fund all requests at the 40 percent discount level, the Administrator shall allocate funds beginning with those applicants with the highest percentage of NSLP eligibility for that discount level by funding those applicants with 19 percent NSLP eligibility, then 18 percent NSLP eligibility, and shall continue committing funds in the same manner to applicants at each descending percentage of NSLP until there are no funds remaining.
+
+[79 FR 49201, Aug. 19, 2014, as amended at 80 FR 5990, Feb. 4, 2015; 89 FR 67324, Aug. 20, 2024]

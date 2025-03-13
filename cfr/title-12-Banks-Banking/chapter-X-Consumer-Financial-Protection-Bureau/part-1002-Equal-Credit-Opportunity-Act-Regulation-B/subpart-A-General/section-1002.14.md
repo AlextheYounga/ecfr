@@ -18,12 +18,4 @@
 
 (3) *Valuation.* The term “valuation” means any estimate of the value of a dwelling developed in connection with an application for credit.
 
-[78 FR 7248, Jan. 31, 2013]Editorial Note:At 89 FR 55029, July 3, 2024, § 1002.14 was amended by;
-
-a. In paragraph (b)(1) removing “October 1, 2024” and adding in its place “July 18, 2025”;
-
-b. In paragraph (b)(2) removing “April 1, 2025” and adding in its place “January 16, 2026”;
-
-c. In paragraphs (b)(3) and (4) removing “January 1, 2026” and adding in its place “October 18, 2026”; and
-
-d. Adding paragraph (c)(3); however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[78 FR 7248, Jan. 31, 2013]

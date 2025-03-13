@@ -1,7 +1,5 @@
 ##### § 3010.101 Definitions. #####
 
-Link to an amendment published at 89 FR 67294, Aug. 20, 2024.
-
 (a) *Act* means title 39 of the United States Code, as amended.
 
 (b) *Commission* or *Commissioner* means, respectively, the Postal Regulatory Commission established by the Act or a member thereof. The Commission is located at 901 New York Avenue NW, Suite 200, Washington, DC 20268-0001. The Commission's regular business hours are from 8 a.m. to 4:30 p.m. Eastern Time, except for Saturdays, Sundays, and Federal holidays.
@@ -32,15 +30,31 @@ Link to an amendment published at 89 FR 67294, Aug. 20, 2024.
 
 (o) *Product* means a postal service with a distinct cost or market characteristic for which a rate or rates are, or may reasonably be, applied.
 
-(p) *Public Representative* or *PR* means an officer of the Commission designated to represent the interests of the general public in a Commission proceeding.
+(p) *Public proceeding* means a proceeding developing rules, regulations, and procedures or a proceeding materially affecting the interests of the general public. A proceeding considering a request for summary approval of a negotiated service agreement or of an amendment to a negotiated service agreement is not a public proceeding. A proceeding considering a request to amend a negotiated service agreement for the sole purpose of extending the expiration date of the negotiated service agreement is not a public proceeding.
 
-(q) *Rate or class of general applicability* means a rate or class that is available to all mailers equally on the same terms and conditions.
+(q) *Public Representative* or *PR* means an officer of the Commission designated to represent the interests of the general public:
 
-(r) *Record* means all documents and other material in a docket, including pleadings, testimony, exhibits, library references, transcripts of oral testimony or statements given or made during a hearing, comments, briefs, and *in camera* material, whether or not relied upon by the Commission or presiding officer in reaching a decision.
+(1) In a public proceeding;
 
-(s) *Secretary* means the Secretary of the Commission, the Acting Secretary, or the Secretary's designee.
+(2) With respect to any one of the following:
 
-(t) *Small business concern* means a for-profit business entity that:
+(i) The Commission's annual determination of compliance;
+
+(ii) A request for an advisory opinion on a change in the nature of postal services which will generally affect service on a nationwide or substantially nationwide basis,
+
+(iii) A rate or service complaint; or
+
+(iv) Appeal of a Postal Service determination to close or consolidate a post office; or
+
+(3) As appointed by the Chairman.
+
+(r) *Rate or class of general applicability* means a rate or class that is available to all mailers equally on the same terms and conditions.
+
+(s) *Record* means all documents and other material in a docket, including pleadings, testimony, exhibits, library references, transcripts of oral testimony or statements given or made during a hearing, comments, briefs, and *in camera* material, whether or not relied upon by the Commission or presiding officer in reaching a decision.
+
+(t) *Secretary* means the Secretary of the Commission, the Acting Secretary, or the Secretary's designee.
+
+(u) *Small business concern* means a for-profit business entity that:
 
 (1) Is independently owned and operated;
 
@@ -52,4 +66,6 @@ Link to an amendment published at 89 FR 67294, Aug. 20, 2024.
 
 (5) Together with its affiliates, qualifies as *small* in its primary industry under the criteria and size standards established by the Small Business Administration in 13 CFR 121.201 based on annual receipts or number of employees.
 
-(u) *Website* means the Commission's website located at *https://www.prc.gov.*
+(v) *Website* means the Commission's website located at *https://www.prc.gov.*
+
+[85 FR 9620, Feb. 19, 2020, as amended at 89 FR 67294, Aug. 20, 2024]

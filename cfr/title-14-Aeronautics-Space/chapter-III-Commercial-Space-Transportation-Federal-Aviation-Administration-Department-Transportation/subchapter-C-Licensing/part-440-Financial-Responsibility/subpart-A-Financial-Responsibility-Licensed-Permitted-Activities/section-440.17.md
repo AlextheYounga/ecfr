@@ -1,5 +1,7 @@
 ##### § 440.17 Reciprocal waiver of claims requirements. #####
 
+Link to an amendment published at 89 FR 76728, Sept. 19, 2024.
+
 (a) As a condition of each license or permit, the licensee or permittee must comply with the reciprocal waiver of claims requirements of this section.
 
 (b) The licensee or permittee and each of its contractors and subcontractors, each customer, and each customer's contractors and subcontractors, must enter into a reciprocal waiver of claims agreement under which each party waives and releases claims against all the other parties to the waiver and against any other customer, and agrees to assume financial responsibility for property damage it sustains and for bodily injury or property damage sustained by its own employees, and to hold harmless and indemnify each other from bodily injury or property damage sustained by its employees, resulting from a licensed or permitted activity, regardless of fault.

@@ -1,5 +1,7 @@
 ##### § 437.71 Flight rules. #####
 
+Link to an amendment published at 89 FR 76728, Sept. 19, 2024.
+
 (a) Before initiating rocket-powered flight, a permittee must confirm that all systems and operations necessary to ensure that safety measures derived from §§ 437.55, 437.57, 437.59, 437.61, 437.63, 437.65, 437.67, and 437.69 are within acceptable limits.
 
 (b) During all phases of flight, a permittee must—

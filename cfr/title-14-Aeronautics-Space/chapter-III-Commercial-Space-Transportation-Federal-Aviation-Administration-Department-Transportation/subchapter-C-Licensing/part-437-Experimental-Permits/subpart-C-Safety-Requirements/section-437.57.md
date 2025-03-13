@@ -1,5 +1,7 @@
 ##### § 437.57 Operating area containment. #####
 
+Link to an amendment published at 89 FR 76727, Sept. 19, 2024.
+
 (a) During each permitted flight, a permittee must contain its reusable suborbital rocket's instantaneous impact point within an operating area determined in accordance with paragraph (b) and outside any exclusion area defined by the FAA in accordance with paragraph (c) of this section.
 
 (b) An operating area—

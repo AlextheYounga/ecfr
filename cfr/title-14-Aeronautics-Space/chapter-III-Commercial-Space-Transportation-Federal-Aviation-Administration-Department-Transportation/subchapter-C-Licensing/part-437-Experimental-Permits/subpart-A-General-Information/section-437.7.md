@@ -1,5 +1,7 @@
 ##### § 437.7 Scope of an experimental permit. #####
 
+Link to an amendment published at 89 FR 76726, Sept. 19, 2024.
+
 An experimental permit authorizes launch or reentry of a reusable suborbital rocket. The authorization includes pre- and post-flight ground operations as defined in this section.
 
 (a) A pre-flight ground operation includes each operation that—

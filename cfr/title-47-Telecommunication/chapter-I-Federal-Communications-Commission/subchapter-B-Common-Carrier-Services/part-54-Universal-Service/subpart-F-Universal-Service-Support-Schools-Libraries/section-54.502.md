@@ -1,6 +1,6 @@
 ##### § 54.502 Eligible services. #####
 
-Link to an amendment published at 84 FR 70036, Dec. 20, 2019.Link to an amendment published at 89 FR 67324, Aug. 20, 2024.
+Link to an amendment published at 84 FR 70036, Dec. 20, 2019.
 
 (a) *Supported services.* All supported services are listed in the Eligible Services List as updated annually in accordance with paragraph (d) of this section. The services in this subpart will be supported in addition to all reasonable charges that are incurred by taking such services, such as state and federal taxes. Charges for termination liability, penalty surcharges, and other charges not included in the cost of taking such service shall not be covered by the universal service support mechanisms. The supported services fall within the following general categories:
 
@@ -50,6 +50,30 @@ Link to an amendment published at 84 FR 70036, Dec. 20, 2019.Link to an amendmen
 
 (6) *Non-instructional buildings.* Support is not available for category two services provided to or within non-instructional school buildings or separate library administrative buildings unless those category two services are essential for the effective transport of information to or within one or more instructional buildings of a school or non-administrative library buildings, or the Commission has found that the use of those services meets the definition of educational purpose, as defined in § 54.500. When applying for category two support for eligible services within a non-instructional school building or library administrative building, the applicant shall not be required to deduct the cost of the non-instructional building's use of the category two services or equipment.
 
-(e) *Eligible services list process.* The Administrator shall submit by March 30 of each year a draft list of services eligible for support, based on the Commission's rules for the following funding year. The Wireline Competition Bureau will issue a Public Notice seeking comment on the Administrator's proposed eligible services list. The final list of services eligible for support will be released at least 60 days prior to the opening of the application filing window for the following funding year.
+(e) *Off-premises Wi-Fi hotspot program.* Each eligible school district, school operating independently of a school district, library system and library operating independently of a system shall be eligible for support for category one services for a maximum pre-discount budget for off-premises Wi-Fi hotspots and recurring services pursuant to the formula described in paragraphs (e)(1) through (4) of this section and subject to the limitations described in paragraphs (e)(5) and (6) of this section.
 
-[62 FR 32948, June 17, 1997, as amended at 79 FR 49198, Aug. 19, 2014; 79 FR 68634, Nov. 18, 2014;80 FR 5988, Feb. 4, 2015; 84 FR 70036, Dec. 20, 2019; 88 FR 55409, Aug. 15, 2023]
+(1) *Fixed three-year funding cycle.* Beginning in funding year 2025, each eligible school, school district, library, or library system shall be eligible for a budgeted amount of pre-discount support for category one off-premises Wi-Fi hotspots and recurring services over a three-year funding cycle that will reset every three funding years. Each school, school district, library, or library system shall be eligible for the total available budget less the pre-discount amount of any support received for these services in the prior funding years of that fixed three-year funding cycle.
+
+(2) *School and school district mechanism.* Each eligible school operating independently of a school district or school district shall be eligible for up to a pre-discount price calculated by multiplying the student count by 0.2 and the category one discount rate, rounded up to the nearest ten. This value is then multiplied by $630. The formula will be based on the number of full-time students.
+
+(3) *Library and library system mechanism.* Each eligible library operating independently of a system, or library system shall be eligible for up to a pre-discount price calculated by multiplying the square footage by 0.0055 and the category one discount rate, rounded up to the nearest ten. This value is then multiplied by $630.
+
+(4) *Wi-fi Hotspots and service funding caps.* The available funding for Wi-Fi hotspots is capped at $90 and services at $15 per month. An applicant may not request more than 45 percent of the Wi-Fi hotspot budget in a single funding year. Each E-Rate-supported Wi-Fi hotspot must have an accompanying request for recurring service.
+
+(5) *Non-usage notice and termination requirements.* At least once every 31 days, service providers shall determine whether any E-Rate-supported lines have zero data usage in the prior 60 days and provide notice to the applicant of the particular lines within 5 business days. If there is zero data usage for 90 days, service providers shall discontinue service to such lines.
+
+(6) *Early termination.* Service providers must exclude or waive early termination fees for lines of service associated with Wi-Fi hotspots that are lost, broken, or unused, including those for which service is discontinued in paragraph (e)(5) of this section. Service providers shall not bill applicants for unused lines of service that are discontinued.
+
+(7) *Off-premises hotspots program adjustments.* The Chief, Wireline Competition Bureau, is delegated authority to adjust the limiting mechanism amounts and the Wi-Fi hotspot program cost caps, after seeking comment on a proposed adjustment.
+
+(8) *Eligible users.* Eligible schools and libraries are permitted to request and receive support for the purchase of Wi-Fi hotspots and services for off-premises use by:
+
+(i) In the case of a school, students and school staff; and
+
+(ii) In the case of a library, patrons of the library.
+
+(9) *Per user limitation.* Support for eligible Wi-Fi hotspots and services used off-premises is limited to not more than one Wi-Fi hotspot per student, school staff member, or library patron.
+
+(f) *Eligible services list process.* The Administrator shall submit by March 30 of each year a draft list of services eligible for support, based on the Commission's rules for the following funding year. The Wireline Competition Bureau will issue a Public Notice seeking comment on the Administrator's proposed eligible services list. The final list of services eligible for support will be released at least 60 days prior to the opening of the application filing window for the following funding year.
+
+[62 FR 32948, June 17, 1997, as amended at 79 FR 49198, Aug. 19, 2014; 79 FR 68634, Nov. 18, 2014;80 FR 5988, Feb. 4, 2015; 84 FR 70036, Dec. 20, 2019; 88 FR 55409, Aug. 15, 2023; 89 FR 67324, Aug. 20, 2024]

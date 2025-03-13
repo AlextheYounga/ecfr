@@ -1,7 +1,5 @@
 ##### § 3010.102 Commission dockets. #####
 
-Link to an amendment published at 89 FR 67294, Aug. 20, 2024.
-
 (a) The Commission may initiate a proceeding by issuing a notice or order that establishes a docket in which a proceeding is to be conducted.
 
 (b) When permitted by statute or regulation, any person may seek the initiation of a proceeding by filing a request with the Commission that complies with the rules governing the type of proceeding being requested.
@@ -22,21 +20,23 @@ Link to an amendment published at 89 FR 67294, Aug. 20, 2024.
 
 (vi) International Mail (IM);
 
-(vii) Mail Classification (MC);
+(vii) Competitive Negotiated Service Agreement (K);
 
-(viii) Market Test (MT);
+(viii) Mail Classification (MC);
 
-(ix) Change in the Nature of Postal Services (N);
+(ix) Market Test (MT);
 
-(x) Public Inquiry (PI);
+(x) Change in the Nature of Postal Services (N);
 
-(xi) Market Dominant Rates (R);
+(xi) Public Inquiry (PI);
 
-(xii) Rulemaking (RM);
+(xii) Market Dominant Rates (R);
 
-(xiii) Special Studies (SS); and
+(xiii) Rulemaking (RM);
 
-(xiv) Annual Review of Tax Calculation (T).
+(xiv) Special Studies (SS); and
+
+(xv) Annual Review of Tax Calculation (T).
 
 (2) The Commission may modify the list of docket types and document formats without prior notice.
 
@@ -49,3 +49,5 @@ Link to an amendment published at 89 FR 67294, Aug. 20, 2024.
 (h) Public material filed within a docket may be viewed at the Commission's Docket Section during regular business hours. Public documents filed in a docket that appear in electronic format may also be accessed remotely via the Commission's website. Confidential material filed under seal in a docket may only be accessed with prior authorization. Part 3011 of this chapter sets forth the procedures for obtaining such authorization. Persons who wish to access confidential material should contact the Commission's Docket Section for the appropriate mode for transmitting material filed under seal.
 
 (i) Active dockets may only be closed by the Commission.
+
+[85 FR 9620, Feb. 19, 2020, as amended at 89 FR 67294, Aug. 20, 2024]

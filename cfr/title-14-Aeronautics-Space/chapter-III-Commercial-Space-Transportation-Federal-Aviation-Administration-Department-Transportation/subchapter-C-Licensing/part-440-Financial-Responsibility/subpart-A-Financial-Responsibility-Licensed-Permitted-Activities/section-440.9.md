@@ -1,5 +1,7 @@
 ##### § 440.9 Insurance requirements for licensed or permitted activities. #####
 
+Link to an amendment published at 89 FR 76728, Sept. 19, 2024.
+
 (a) As a condition of each license or permit, a licensee or permittee must comply with all insurance requirements of this section and of a license or permit issued by the FAA, or otherwise demonstrate the required amount of financial responsibility.
 
 (b) A licensee or permittee must obtain and maintain in effect a policy or policies of liability insurance, in an amount determined by the FAA under paragraph (c) of this section, that protects the following persons as additional insureds to the extent of their respective potential liabilities against covered claims by a third party for bodily injury or property damage resulting from a licensed or permitted activity:

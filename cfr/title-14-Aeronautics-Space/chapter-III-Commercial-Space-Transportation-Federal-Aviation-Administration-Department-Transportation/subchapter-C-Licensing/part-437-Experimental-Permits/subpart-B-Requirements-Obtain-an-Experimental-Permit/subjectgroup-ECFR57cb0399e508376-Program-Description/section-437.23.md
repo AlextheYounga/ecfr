@@ -1,5 +1,7 @@
 ##### § 437.23 Program description. #####
 
+Link to an amendment published at 89 FR 76727, Sept. 19, 2024.
+
 (a) An applicant must provide—
 
 (1) Dimensioned three-view drawings or photographs of the reusable suborbital rocket; and
