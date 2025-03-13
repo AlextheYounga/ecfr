@@ -1,5 +1,7 @@
 ##### § 488.408 Selection of remedies. #####
 
+Link to an amendment published at 89 FR 64162, Aug. 6, 2024.
+
 (a) *Categories of remedies.* In this section, the remedies specified in § 488.406(a) are grouped into categories and applied to deficiencies according to how serious the noncompliance is.
 
 (b) *Application of remedies.* After considering the factors specified in § 488.404, as applicable, if CMS and the State choose to impose remedies, as provided in paragraphs (c)(1), (d)(1) and (e)(1) of this section, for facility noncompliance, instead of, or in addition to, termination of the provider agreement, CMS does and the State must follow the criteria set forth in paragraphs (c)(2), (d)(2), and (e)(2) of this section, as applicable.

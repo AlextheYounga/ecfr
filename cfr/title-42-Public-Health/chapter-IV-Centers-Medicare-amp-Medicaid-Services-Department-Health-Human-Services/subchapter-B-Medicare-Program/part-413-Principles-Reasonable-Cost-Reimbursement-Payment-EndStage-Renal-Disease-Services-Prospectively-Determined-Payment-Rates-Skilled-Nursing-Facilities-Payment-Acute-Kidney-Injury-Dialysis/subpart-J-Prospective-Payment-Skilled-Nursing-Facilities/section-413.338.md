@@ -1,5 +1,7 @@
 ##### § 413.338 Skilled nursing facility value-based purchasing program. #####
 
+Link to an amendment published at 89 FR 64160, Aug. 6, 2024.
+
 (a) *Definitions.* As used in this section:
 
 *Achievement threshold (or achievement performance standard)* means the 25th percentile of SNF performance on a measure during the baseline period for a fiscal year.

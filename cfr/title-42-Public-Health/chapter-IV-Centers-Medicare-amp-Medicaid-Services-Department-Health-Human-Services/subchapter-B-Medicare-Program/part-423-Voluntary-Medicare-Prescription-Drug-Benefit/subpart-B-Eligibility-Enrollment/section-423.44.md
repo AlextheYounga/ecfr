@@ -90,13 +90,25 @@
 
 (*3*) Dated copies of the notices required in paragraph (d)(2)(viii) of this section.
 
-(v) *Documentation.* The PDP sponsor must document the enrollee's behavior, its own efforts to resolve any problems, as described in paragraph (d)(2)(iii) of this section, and any extenuating circumstances. The PDP sponsor may request from CMS the ability to decline future enrollment by the individual. The PDP sponsor must submit this information and any documentation received by the individual to CMS.
+(v) *CMS review of the proposed disenrollment.* CMS reviews the information submitted by the PDP sponsor and any information submitted by the individual (which the PDP sponsor has submitted to CMS) to determine if the PDP sponsor has fulfilled the requirements to request disenrollment for disruptive behavior. If the PDP sponsor has fulfilled the necessary requirements, CMS reviews the information and make a decision to approve or deny the request for disenrollment, including conditions on future enrollment, within 20 working days. During the review, CMS ensures that staff with appropriate clinical or medical expertise reviews the case before making a final decision. The PDP sponsor is required to provide a reasonable accommodation, as determined by CMS, for the individual in exceptional circumstances that CMS deems necessary. CMS notifies the PDP sponsor within 5 working days after making its decision.
 
-(vi) *CMS review of the proposed disenrollment.* CMS reviews the information submitted by the PDP sponsor and any information submitted by the individual (which the PDP sponsor has submitted to CMS) to determine if the PDP sponsor has fulfilled the requirements to request disenrollment for disruptive behavior. If the PDP sponsor has fulfilled the necessary requirements, CMS reviews the information and make a decision to approve or deny the request for disenrollment, including conditions on future enrollment, within 20 working days. During the review, CMS ensures that staff with appropriate clinical or medical expertise reviews the case before making a final decision. The PDP sponsor is required to provide a reasonable accommodation, as determined by CMS, for the individual in exceptional circumstances that CMS deems necessary. CMS notifies the PDP sponsor within 5 working days after making its decision.
+(vi) *Exception for fallback prescription drug plans.* CMS reserves the right to deny a request from a fallback prescription drug plan as defined in *§ 423.855* to disenroll an individual for disruptive behavior.
 
-(vii) *Exception for fallback prescription drug plans.* CMS reserves the right to deny a request from a fallback prescription drug plan as defined in § 423.855 to disenroll an individual for disruptive behavior.
+(vii) *Effective date of disenrollment.* If CMS permits a PDP to disenroll an individual for disruptive behavior, the termination is effective the first day of the calendar month after the month in which the PDP gives the individual written notice of the disenrollment that meets the requirements set forth in paragraph (c) of this section.
 
-(viii) *Effective date of disenrollment.* If CMS permits a PDP to disenroll an individual for disruptive behavior, the termination is effective the first day of the calendar month after the month in which the PDP gives the individual written notice of the disenrollment that meets the requirements set forth in paragraph (c) of this section.
+(viii) *Required notices.* The PDP sponsor must provide the individual two notices prior to submitting the request for disenrollment to CMS.
+
+(A) The first notice, the advance notice, informs the member that continued disruptive behavior could lead to involuntary disenrollment and provides the individual an opportunity to cease the behavior in order to avoid the disenrollment action.
+
+(*1*) If the disruptive behavior ceases after the member receives the advance notice and then later resumes, the sponsor must begin the process again.
+
+(*2*) The sponsor must wait at least 30 days after sending the advance notice before sending the second notice, during which 30-day period the individual has the opportunity to cease their behavior.
+
+(B) The second notice, the notice of intent to request CMS permission to disenroll the member, notifies the member that the PDP sponsor requests CMS permission to involuntarily disenroll the member.
+
+(*1*) This notice must be provided prior to submission of the request to CMS.
+
+(*2*) These notices are in addition to the disenrollment submission notice required under § 423.44(c).
 
 (3) *Loss of Part D eligiblity.* If an individual is no longer eligible for Part D, CMS notifies the PDP that the disenrollment is effective the first day of the calendar month following the last month of Part D eligibility.
 
@@ -140,4 +152,4 @@
 
 (5) *Effective date of disenrollment.* After a grace period and notice of termination has been provided in accordance with paragraphs (e)(2) and (4) of this section, the effective date of disenrollment is the first day following the last day of the initial grace period.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1543, Jan. 12, 2009; 75 FR 19816, Apr. 15, 2010; 76 FR 21570, Apr. 15, 2011; 79 FR 29962, May 23, 2014; 80 FR 7962, Feb. 12, 2015; 89 FR 30831, Apr. 23, 2024]Editorial Note:At 89 FR 30831, Apr. 23, 2024, § 423.44 was amended by revising newly redesignated paragraph (d)(2)(v); however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1543, Jan. 12, 2009; 75 FR 19816, Apr. 15, 2010; 76 FR 21570, Apr. 15, 2011; 79 FR 29962, May 23, 2014; 80 FR 7962, Feb. 12, 2015; 89 FR 30831, Apr. 23, 2024; 89 FR 63827, Aug. 6, 2024]

@@ -54,7 +54,7 @@
 
 (ii) For any complaint submitted to a QIO, the PACE organization must cooperate with the QIO in resolving the complaint.
 
-(4) The PACE organization may withhold notification of the grievance resolution if the individual who submitted the grievance specifically requests not to receive the notification, and the PACE organization has documented this request in writing. The PACE organization is still responsible for paragraphs (h)(1) through (3) of this section.
+(4) The PACE organization may withhold notification of the grievance resolution if the individual who submitted the grievance specifically requests not to receive the notification, and the PACE organization has documented this request in writing. The PACE organization is still responsible for complying with all other requirements of this section.
 
 (i) *Continuing care during grievance process.* The PACE organization must continue to furnish all required services to the participant during the grievance process.
 
@@ -64,4 +64,4 @@
 
 (l) *Analyzing grievance information.* The PACE organization must aggregate and analyze the information collected under paragraph (k) of this section for purposes of its internal quality improvement program.
 
-[89 FR 30847, Apr. 23, 2024]
+[89 FR 30847, Apr. 23, 2024, as amended at 89 FR 63828, Aug. 6, 2024]

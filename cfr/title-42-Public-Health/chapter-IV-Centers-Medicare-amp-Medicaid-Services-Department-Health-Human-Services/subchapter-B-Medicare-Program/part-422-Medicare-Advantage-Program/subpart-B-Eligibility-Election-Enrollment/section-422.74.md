@@ -128,6 +128,10 @@
 
 (4) *Individual no longer resides in the MA plan's service area*—(i) *Basis for disenrollment.* Unless continuation of enrollment is elected under § 422.54, the MA organization must disenroll an individual, and must document the basis for such action, if the MA organization establishes, on the basis of a written statement from the individual or other evidence acceptable to CMS, that the individual has permanently moved—
 
+(A) Out of the MA plan's service area or is incarcerated as specified in paragraph (d)(4)(v) of this section.
+
+(B) From the residence in which the individual resided at the time of enrollment in the MA plan to an area outside the MA plan's service area, for those individuals who enrolled in the MA plan under the eligibility requirements at § 422.50(a)(3)(ii) or (a)(4).
+
 (ii) *Special rule.* If the individual has not moved from the MA plan's service area (or residence, as described in paragraph (d)(4)(i)(B) of this section), but has left the service area (or residence) for more than 6 months, the MA organization must disenroll the individual from the plan, unless the exception in paragraph (d)(4)(iii) of this section applies.
 
 (A) The individual is considered to be temporarily absent from the plan service area when one or more of the required materials and content referenced in § 422.2267(e), if provided by mail, is returned to the MA organization by the U.S. Postal Service as undeliverable and a forwarding address is not provided.
@@ -202,4 +206,4 @@
 
 (ii) An individual who fails to make an election during the special election period is deemed to have elected original Medicare.
 
-[63 FR 35071, June 26, 1998; 63 FR 52612, Oct. 1, 1998, as amended at 65 FR 40318, June 29, 2000; 68 FR 50855, Aug. 22, 2003; 70 FR 4718, Jan. 28, 2005; 74 FR 1541, Jan. 12, 2009; 75 FR 19804, Apr. 15, 2010; 76 FR 21562, Apr. 15, 2011; 79 FR 29955, May 23, 2014; 80 FR 7959, Feb. 12, 2015; 89 FR 30816, Apr. 23, 2024]
+[63 FR 35071, June 26, 1998; 63 FR 52612, Oct. 1, 1998, as amended at 65 FR 40318, June 29, 2000; 68 FR 50855, Aug. 22, 2003; 70 FR 4718, Jan. 28, 2005; 74 FR 1541, Jan. 12, 2009; 75 FR 19804, Apr. 15, 2010; 76 FR 21562, Apr. 15, 2011; 79 FR 29955, May 23, 2014; 80 FR 7959, Feb. 12, 2015; 89 FR 30816, Apr. 23, 2024; 89 FR 63826, Aug. 6, 2024]

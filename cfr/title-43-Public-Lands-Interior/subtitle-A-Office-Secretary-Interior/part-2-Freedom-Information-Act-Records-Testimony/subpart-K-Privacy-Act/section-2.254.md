@@ -10,7 +10,7 @@
 
 (4) INTERIOR/OIG-02, Investigative Records.
 
-(5) INTERIOR/DOI-10, Incident Management, Analysis and Reporting System.
+(5) INTERIOR/DOI-10, DOI Law Enforcement Records Management System (LE RMS).
 
 (6) INTERIOR/DOI-50, Insider Threat Program.
 
@@ -21,6 +21,8 @@
 (2) INTERIOR/DOI-45, Personnel Security Program Files.
 
 (3) INTERIOR/OIG-02, Investigative Records.
+
+(4) INTERIOR/DOI-10, DOI Law Enforcement Records Management System (LE RMS).
 
 (c) *Law enforcement records exempt under 5 U.S.C. 552a(k)(2).* Pursuant to 5 U.S.C. 552a(k)(2), the following systems of records are exempted from paragraphs (c)(3), (d), (e)(1), (e)(4)(G), (H), and (I), and (f) of 5 U.S.C. 552a and the provisions of the regulations in this subpart implementing these paragraphs:
 
@@ -50,7 +52,7 @@
 
 (14) INTERIOR/DOI-11, Debarment and Suspension Program.
 
-(15) INTERIOR/DOI-10, Incident Management, Analysis and Reporting System.
+(15) INTERIOR/DOI-10, DOI Law Enforcement Records Management System (LE RMS).
 
 (16) INTERIOR/DOI-50, Insider Threat Program.
 
@@ -70,6 +72,8 @@
 
 (3) INTERIOR/OIG-02, Investigative Records.
 
+(4) INTERIOR/DOI-10, DOI Law Enforcement Records Management System (LE RMS).
+
 (e) *Investigatory records exempt under 5 U.S.C. 552a(k)(5).* Pursuant to 5 U.S.C. 552a(k)(5), the following systems of records have been exempted from paragraphs (c)(3), (d), (e)(1), (e)(4)(G), (H), and (I), and (f) of 5 U.S.C. 552a and the provisions of the regulations in this subpart implementing these paragraphs:
 
 (1) [Reserved]
@@ -88,10 +92,12 @@
 
 (8) INTERIOR/OIG-02, Investigative Records.
 
+(9) INTERIOR/DOI-10, DOI Law Enforcement Records Management System (LE RMS).
+
 (f) *Records maintained on testing and examination material exempt under 5 U.S.C. 552a(k)(6).* Pursuant to U.S.C. 552a(k)(6), the following systems of records have been exempted from 5 U.S.C. 552a(c)(3), (d), (e)(1), (e)(4)(G), (H) and (I), and (f) and the provisions of the regulations in this subpart implementing these paragraphs.
 
 (1) INTERIOR/DOI-45, Personnel Security Program Files.
 
-(2) [Reserved]
+(2) INTERIOR/DOI-10, DOI Law Enforcement Records Management System (LE RMS).
 
-[86 FR 49928, Sept. 7, 2021, as amended at 87 FR 8428, Feb. 15, 2022; 88 FR 10480, Feb. 21, 2023; 89 FR 2148, Jan. 12, 2024]
+[86 FR 49928, Sept. 7, 2021, as amended at 87 FR 8428, Feb. 15, 2022; 88 FR 10480, Feb. 21, 2023; 89 FR 2148, Jan. 12, 2024; 89 FR 63830, Aug. 6, 2024]

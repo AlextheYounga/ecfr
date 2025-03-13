@@ -1,5 +1,7 @@
 ##### § 418.24 Election of hospice care. #####
 
+Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
+
 (a) *Filing an election statement.* (1) *General.* An individual who meets the eligibility requirement of § 418.20 may file an election statement with a particular hospice. If the individual is physically or mentally incapacitated, his or her representative (as defined in § 418.3) may file the election statement.
 
 (2) *Notice of election.* The hospice chosen by the eligible individual (or his or her representative) must file the Notice of Election (NOE) with its Medicare contractor within 5 calendar days after the effective date of the election statement.

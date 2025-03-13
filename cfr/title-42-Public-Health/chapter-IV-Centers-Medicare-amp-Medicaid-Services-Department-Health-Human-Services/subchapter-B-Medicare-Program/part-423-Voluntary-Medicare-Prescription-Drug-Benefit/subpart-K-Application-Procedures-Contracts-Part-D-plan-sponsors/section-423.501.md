@@ -38,9 +38,7 @@ For purposes of this subpart, the following definitions apply:
 
 (3) Receives responses from the Part D sponsor requesting an appeal of the final settlement amount.
 
-(4)[Reserved]
-
-(5) Takes final actions to adjudicate an appeal (if requested) and make payments to or receive payments from the Part D sponsor. The final settlement amount is calculated after all applicable reconciliations have occurred after a contract has been consolidated, nonrenewed, or terminated.
+(4) Takes action to adjudicate an appeal (if requested) and make payments to or receive payments from the Part D sponsor. The final settlement amount is calculated after all applicable reconciliations have occurred after a contract has been consolidated, nonrenewed, or terminated.
 
 *First tier entity* means any party that enters into a written arrangement, acceptable to CMS, with a Part D plan sponsor or applicant to provide administrative services or health care services for a Medicare eligible individual under Part D.
 
@@ -86,4 +84,4 @@ For purposes of this subpart, the following definitions apply:
 
 *Significant business transaction* means any business transaction or series of transactions of the kind specified in the above definition of business transaction that, during any fiscal year of the Part D plan sponsor, have a total value that exceeds $25,000 or 5 percent of the PDP sponsor's total operating expenses, whichever is less.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 77 FR 22170, Apr. 12, 2012; 80 FR 29963, Nov. 6, 2015; 89 FR 30837, Apr. 23, 2024]
+[70 FR 4525, Jan. 28, 2005, as amended at 77 FR 22170, Apr. 12, 2012; 80 FR 29963, Nov. 6, 2015; 89 FR 30837, Apr. 23, 2024; 89 FR 63828, Aug. 6, 2024]

@@ -2,7 +2,7 @@
 
 None of the requirements of this section apply in the Overlap Area.
 
-(a) *Establishment of bigeye tuna catch limits.* (1) There is a limit of 3,554 metric tons of bigeye tuna per calendar year that may be captured in the Convention Area by longline gear and retained on board by fishing vessels of the United States.
+(a) *Establishment of bigeye tuna catch limits.* (1) There is a limit of 6,554 metric tons of bigeye tuna per calendar year that may be captured in the Convention Area by longline gear and retained on board by fishing vessels of the United States.
 
 (2) [Reserved]
 
@@ -60,4 +60,4 @@ None of the requirements of this section apply in the Overlap Area.
 
 (4) If a fishing vessel of the United States, other than a vessel that catches bigeye tuna that is to be attributed to the longline fishery of American Samoa, Guam, or the Commonwealth of the Northern Mariana Islands, in accordance with paragraphs (b), (c), and (d) of this section, or a vessel for which a declaration has been made to NMFS, pursuant to § 665.803(a) of this title, that the current trip type is shallow-setting, is used to fish in the Pacific Ocean using longline gear outside the Convention Area and the vessel enters the Convention Area at any time during the same fishing trip, the longline gear on the fishing vessel must, while it is in the Convention Area, be stowed in a manner so as not to be readily available for fishing; specifically, the hooks, branch or dropper lines, and floats used to buoy the mainline must be stowed and not available for immediate use, and any power-operated mainline hauler on deck must be covered in such a manner that it is not readily available for use.
 
-[78 FR 58246, Sept. 23, 2013, as amended at 79 FR 64111, Oct. 28, 2014; 80 FR 43636, July 23, 2015; 81 FR 41251, June 24, 2016; 83 FR 33870, July 18, 2018; 85 FR 37390, June 22, 2020]
+[78 FR 58246, Sept. 23, 2013, as amended at 79 FR 64111, Oct. 28, 2014; 80 FR 43636, July 23, 2015; 81 FR 41251, June 24, 2016; 83 FR 33870, July 18, 2018; 85 FR 37390, June 22, 2020; 89 FR 63843, Aug. 6, 2024]

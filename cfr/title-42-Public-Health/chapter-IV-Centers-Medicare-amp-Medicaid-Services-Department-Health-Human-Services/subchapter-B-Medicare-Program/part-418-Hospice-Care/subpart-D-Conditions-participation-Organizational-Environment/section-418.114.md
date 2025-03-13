@@ -1,5 +1,7 @@
 ##### § 418.114 Condition of participation: Personnel qualifications. #####
 
+Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
+
 (a) *General qualification requirements.* Except as specified in paragraph (c) of this section, all professionals who furnish services directly, under an individual contract, or under arrangements with a hospice, must be legally authorized (licensed, certified or registered) in accordance with applicable Federal, State and local laws, and must act only within the scope of his or her State license, or State certification, or registration. All personnel qualifications must be kept current at all times.
 
 (b) *Personnel qualifications for certain disciplines.* The following qualifications must be met:

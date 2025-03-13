@@ -2,13 +2,13 @@
 
 (a) *Who may request an expedited redetermination.* An enrollee or an enrollee's prescribing physician or other prescriber may request that a Part D plan sponsor expedite a redetermination that involves the issues specified in § 423.566(b) or an at-risk determination made under a drug management program in accordance with § 423.153(f). (This does not include requests for payment of drugs already furnished.)
 
-(b) *Procedure and timeframe for filing a request.* A request for redetermination must be filed within 60 calendar days after receipt of the written coverage determination notice or at-risk determination notice. (1) To ask for an expedited redetermination, an enrollee or a prescribing physician or other prescriber acting on behalf of an enrollee must submit an oral or written request directly to the Part D plan sponsor or, if applicable, to the entity responsible for making the redetermination, as directed by the Part D plan sponsor.
+(b) *Procedure and timeframe for filing a request.* A request for a redetermination must be filed within 60 calendar days after receipt of the written coverage determination notice or at-risk determination notice. (1) To ask for an expedited redetermination, an enrollee or a prescribing physician or other prescriber acting on behalf of an enrollee must submit an oral or written request directly to the Part D plan sponsor or, if applicable, to the entity responsible for making the redetermination, as directed by the Part D plan sponsor.
 
 (2) A prescribing physician or other prescriber may provide oral or written support for an enrollee's request for an expedited redetermination.
 
 (3) The date of receipt of the coverage determination or at-risk determination is presumed to be 5 calendar days after the date of the written coverage determination or at-risk determination, unless there is evidence to the contrary.
 
-(4) For purposes of meeting the 60-calendar day filing deadline, the request is considered as filed on the date it is received by the Part D plan sponsor or delegated entity specified the Part D plan sponsor's written coverage determination or at-risk determination.
+(4) For purposes of meeting the 60-calendar day filing deadline, the request is considered as filed on the date it is received by the Part D plan sponsor or delegated entity specified in the Part D plan sponsor's written coverage determination or at-risk determination.
 
 (c) *How the Part D plan sponsor must process requests.* The Part D plan sponsor must establish and maintain the following procedures for processing requests for expedited redetermination:
 
@@ -40,4 +40,4 @@
 
 (f) *Dismissing a request.* The Part D plan sponsor dismisses an expedited redetermination in accordance with § 423.582.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20507, Apr. 15, 2008; 74 FR 1547, Jan. 12, 2009; 74 FR 65363, Dec. 9, 2009; 83 FR 16752, Apr. 16, 2018; 86 FR 6120, Jan. 19, 2021; 89 FR 30841, Apr. 23, 2024]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20507, Apr. 15, 2008; 74 FR 1547, Jan. 12, 2009; 74 FR 65363, Dec. 9, 2009; 83 FR 16752, Apr. 16, 2018; 86 FR 6120, Jan. 19, 2021; 89 FR 30841, Apr. 23, 2024; 89 FR 63828, Aug. 6, 2024]

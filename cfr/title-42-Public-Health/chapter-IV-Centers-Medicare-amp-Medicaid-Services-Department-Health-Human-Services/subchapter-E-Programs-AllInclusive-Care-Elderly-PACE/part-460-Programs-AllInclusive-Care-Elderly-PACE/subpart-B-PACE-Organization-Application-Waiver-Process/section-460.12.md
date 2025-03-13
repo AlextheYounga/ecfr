@@ -8,10 +8,12 @@
 
 (2) A PACE organization's application to expand its service area and/or add a PACE center site must include an assurance from the State administering agency of the State in which the program is located indicating that the State is willing to amend the PACE program agreement to include the new site and/or expand the PACE organization's service area.
 
+(3) Any PACE application that does not include a signed and dated State assurances document that includes accurate service area information and the physical address of the PACE center, as applicable, is considered incomplete and invalid and will not be evaluated by CMS.
+
 (c) *Service area designation.* (1) An entity submitting an application to become a PACE organization or a PACE organization submitting an application seeking to expand its service area must describe the proposed service area in its application.
 
 (2) CMS, in consultation with the State administering agency, may exclude from designation an area that is already covered under another PACE program agreement to avoid unnecessary duplication of services and avoid impairing the financial and service viability of an existing program.
 
 (d) *Service area and/or PACE center site expansion.* CMS and the State administering agency will only approve a service area expansion or PACE center site expansion after the PACE organization has successfully completed its first trial period audit and, if applicable, has implemented an acceptable corrective action plan.
 
-[84 FR 25671, June 3, 2019, as amended at 89 FR 30843, Apr. 23, 2024]
+[84 FR 25671, June 3, 2019, as amended at 89 FR 30843, Apr. 23, 2024; 89 FR 63828, Aug. 6, 2024]

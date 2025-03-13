@@ -378,13 +378,33 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (iii) Include the model content in disclaimer form or within the material whenever Star Ratings are mentioned in marketing materials, with the exception of when Star Ratings are published on small objects (that is, a give-away items such as a pens or rulers).
 
-(34) *SSBCI Disclaimer.* This is model content through which MA organizations must:
+(34) *SSBCI disclaimer.* This is model content and must be used by MA organizations that offer CMS-approved SSBCI as specified in § 422.102(f). In the SSBCI disclaimer, MA organizations must include the information required in paragraphs (i) through (iii) of this section. MA organizations must do all of the following:
 
 (i) Convey the benefits mentioned are a part of special supplemental benefits.
 
-(ii) Convey that not all members will qualify.
+(ii) List the chronic condition(s) the enrollee must have to be eligible for the SSBCI offered by the applicable MA plan(s), in accordance with the following requirements.
 
-(iii) Include the model content in the material copy which mentions SSBCI benefits.
+(A) The following applies when only one type of SSBCI is mentioned:
+
+(*1*) If the number of condition(s) is five or fewer, then list all condition(s).
+
+(*2*) If the number of conditions is more than five, then list the top five conditions, as determined by the MA organization, and convey that there are other eligible conditions not listed.
+
+(B) The following applies when multiple types of SSBCI are mentioned:
+
+(*1*) If the number of condition(s) is five or fewer, then list all condition(s), and if relevant, state that these conditions may not apply to all types of SSBCI mentioned.
+
+(*2*) If the number of conditions is more than five, then list the top five conditions, as determined by the MA organization, for which one or more listed SSBCI is available, and convey that there are other eligible conditions not listed.
+
+(iii) Convey that even if the enrollee has a listed chronic condition, the enrollee will not necessarily receive the benefit because coverage of the item or service depends on the enrollee being a “chronically ill enrollee” as defined in § 422.102(f)(1)(i)(A) and on the applicable MA plan's coverage criteria for a specific SSBCI required by § 422.102(f)(4).
+
+(iv) Meet the following requirements for the SSBCI disclaimer in ads:
+
+(A) For television, online, social media, radio, or other voice-based ads, either read the disclaimer at the same pace as, or display the disclaimer in the same font size as, the advertised phone number or other contact information.
+
+(B) For outdoor advertising (as defined in § 422.2260), display the disclaimer in the same font size as the advertised phone number or other contact information.
+
+(v) Include the SSBCI disclaimer in all marketing and communications materials that mention SSBCI.
 
 (35) *Accommodations Disclaimer.* This is model content through which MA organizations must:
 
@@ -468,4 +488,4 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (F) A customer service number, and required TTY number, to call for additional help.
 
-[86 FR 6108, Jan. 19, 2021, as amended at 87 FR 27898, May 9, 2022; 88 FR 22336, Apr. 12, 2023; 88 FR 34780, May 31, 2023; 89 FR 30827, Apr. 23, 2024]Editorial Note:At 89 FR 30827, Apr. 23, 2024, § 422.2267 was amended by revising paragraph (e)(34); however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[86 FR 6108, Jan. 19, 2021, as amended at 87 FR 27898, May 9, 2022; 88 FR 22336, Apr. 12, 2023; 88 FR 34780, May 31, 2023; 89 FR 30827, Apr. 23, 2024; 89 FR 63827, Aug. 6, 2024]

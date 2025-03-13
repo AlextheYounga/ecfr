@@ -10,8 +10,6 @@
 
 (B) Any entity that becomes a foreign reporting company on or after January 1, 2025, shall file a report within 30 calendar days of the earlier of the date on which it receives actual notice that it has been registered to do business or the date on which a secretary of state or similar office first provides public notice, such as through a publicly accessible registry, that the foreign reporting company has been registered to do business.
 
-(ii) Any entity that becomes a foreign reporting company on or after January 1, 2024 shall file a report within 30 calendar days of the earlier of the date on which it receives actual notice that it has been registered to do business or the date on which a secretary of state or similar office first provides public notice, such as through a publicly accessible registry, that the foreign reporting company has been registered to do business.
-
 (iii) Any domestic reporting company created before January 1, 2024 and any entity that became a foreign reporting company before January 1, 2024 shall file a report not later than January 1, 2025.
 
 (iv) Any entity that no longer meets the criteria for any exemption under paragraph (c)(2) of this section shall file a report within 30 calendar days after the date that it no longer meets the criteria for any exemption.

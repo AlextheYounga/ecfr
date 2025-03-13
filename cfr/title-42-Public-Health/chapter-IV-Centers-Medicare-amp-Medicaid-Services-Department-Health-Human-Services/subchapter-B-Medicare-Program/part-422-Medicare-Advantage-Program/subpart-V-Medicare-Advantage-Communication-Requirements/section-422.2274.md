@@ -84,6 +84,8 @@ If an MA organization uses agents and brokers to sell its Medicare plans, the re
 
 (12) Ensure that, prior to an enrollment, CMS' required questions and topics regarding beneficiary needs in a health plan choice are fully discussed. Topics include information regarding primary care providers and specialists (that is, whether or not the beneficiary's current providers are in the plan's network), regarding pharmacies (that is, whether or not the beneficiary's current pharmacy is in the plan's network), prescription drug coverage and costs (including whether or not the beneficiary's current prescriptions are covered), costs of health care services, premiums, benefits, and specific health care needs.
 
+(13) Beginning with contract year 2025, ensure that no provision of a contract with an agent, broker, or other TPMO has a direct or indirect effect of creating an incentive that would reasonably be expected to inhibit an agent or broker's ability to objectively assess and recommend which plan best fits the health care needs of a beneficiary.
+
 (d) *Compensation requirements.* MA organizations must ensure they meet the requirements in paragraphs (d)(1) through (5) of this section in order to pay compensation. These compensation requirements only apply to independent agents and brokers.
 
 (1) *General rules.* (i) MA organizations may only pay agents or brokers who meet the requirements in paragraph (b) of this section.
@@ -210,4 +212,4 @@ If an MA organization uses agents and brokers to sell its Medicare plans, the re
 
 (4) Beginning October 1, 2024, personal beneficiary data collected by a TPMO for marketing or enrolling them into an MA plan may only be shared with another TPMO when prior express written consent is given by the beneficiary. Prior express written consent from the beneficiary to share the data and be contacted for marketing or enrollment purposes must be obtained through a clear and conspicuous disclosure that lists each entity receiving the data and allows the beneficiary to consent or reject to the sharing of their data with each individual TPMO.
 
-[86 FR 6112, Jan. 19, 2021, as amended at 87 FR 27899, May 9, 2022; 88 FR 22337, Apr. 12, 2023; 89 FR 30829, Apr. 23, 2024]Editorial Note:At 89 FR 30829, Apr. 23, 2024, § 422.2274 was amended by revising paragraph (c)(13); however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[86 FR 6112, Jan. 19, 2021, as amended at 87 FR 27899, May 9, 2022; 88 FR 22337, Apr. 12, 2023; 89 FR 30829, Apr. 23, 2024; 89 FR 63827, Aug. 6, 2024]

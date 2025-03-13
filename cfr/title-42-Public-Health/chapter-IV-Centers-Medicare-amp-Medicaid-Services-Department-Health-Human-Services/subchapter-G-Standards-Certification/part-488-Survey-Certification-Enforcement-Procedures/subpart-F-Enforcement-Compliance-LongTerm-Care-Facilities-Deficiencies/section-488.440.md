@@ -1,5 +1,7 @@
 ##### § 488.440 Civil money penalties: Effective date and duration of penalty. #####
 
+Link to an amendment published at 89 FR 64163, Aug. 6, 2024.
+
 (a)(1) The per day civil money penalty may start accruing as early as the date that the facility was first out of compliance, as determined by CMS or the State.
 
 (2) A civil money penalty for each instance of noncompliance is imposed in a specific amount for that particular deficiency .

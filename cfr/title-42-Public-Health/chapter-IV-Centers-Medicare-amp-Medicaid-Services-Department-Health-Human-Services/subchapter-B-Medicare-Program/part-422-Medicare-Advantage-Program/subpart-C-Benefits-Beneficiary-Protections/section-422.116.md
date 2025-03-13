@@ -366,11 +366,15 @@
 
 (*v*) Groups counties by county designation to determine the 95th percentile of penetration among MA plans for each county type.
 
-(f) *Exception requests.* (1) An MA plan may request an exception to network adequacy criteria in paragraphs (b) through (e) of this section when both of the following occur:
+(f) *Exception requests.* (1) An MA plan may request an exception to network adequacy criteria in paragraphs (b) through (e) of this section when either paragraph (f)(1)(i) or (ii) of this section is met:
 
-(i) Certain providers or facilities are not available for the MA plan to meet the network adequacy criteria as shown in the Provider Supply file for the year for a given county and specialty type.
+(i)(A) Certain providers or facilities are not available for the MA plan to meet the network adequacy criteria as shown in the Provider Supply file for the year for a given county and specialty type; and
 
-(ii) The MA plan has contracted with other providers and facilities that may be located beyond the limits in the time and distance criteria, but are currently available and accessible to most enrollees, consistent with the local pattern of care.
+(B) The MA plan has contracted with other providers and facilities that may be located beyond the limits in the time and distance criteria, but are currently available and accessible to most enrollees, consistent with the local pattern of care.
+
+(ii)(A) A facility-based Institutional-Special Needs Plan (I-SNP) is unable to contract with certain specialty types required under § 422.116(b) because of the way enrollees in facility-based I-SNPs receive care; or
+
+(B) A facility-based I-SNP provides sufficient and adequate access to basic benefits through additional telehealth benefits (in compliance with § 422.135) when using telehealth providers of the specialties listed in paragraph (d)(5) of this section in place of in-person providers to fulfill network adequacy standards in paragraphs (b) through (e) of this section.
 
 (2) In evaluating exception requests, CMS considers whether—
 
@@ -388,4 +392,4 @@
 
 (3) Any MA organization that receives the exception provided for facility-based I-SNPs must agree to offer only facility-based I-SNPs under the MA contract that receives the exception.
 
-[85 FR 33904, June 2, 2020, as amended at 87 FR 27895, May 9, 2022; 88 FR 22330, Apr. 12, 2023; 89 FR 30819, Apr. 23, 2024]Editorial Note:At 89 FR 30819, Apr. 23, 2024, § 422.116 was amended by removing the phrase “both of the following occur” and adding in its place the phrase “either of the following occur” in (f)(1) introductory text and revising paragraph (f)(1); however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[85 FR 33904, June 2, 2020, as amended at 87 FR 27895, May 9, 2022; 88 FR 22330, Apr. 12, 2023; 89 FR 30819, Apr. 23, 2024; 89 FR 63827, Aug. 6, 2024]

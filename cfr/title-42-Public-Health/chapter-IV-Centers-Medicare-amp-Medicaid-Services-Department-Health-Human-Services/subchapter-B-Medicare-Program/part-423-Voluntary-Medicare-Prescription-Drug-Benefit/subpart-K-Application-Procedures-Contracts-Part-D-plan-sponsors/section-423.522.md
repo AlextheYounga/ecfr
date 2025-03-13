@@ -54,10 +54,8 @@
 
 (2) The Part D sponsor bears the burden of proof by providing evidence demonstrating that CMS' calculation of the final settlement amount is incorrect.
 
-(c)-(d)[Reserved]
+(c) *Stay of financial transaction until appeals are exhausted.* If a Part D sponsor requests review of the final settlement amount, the financial transaction associated with the issuance or payment of the final settlement amount is stayed until all appeals are exhausted. Once all levels of appeal are exhausted or the Part D sponsor fails to request further review within the applicable 15-calendar-day timeframe, CMS communicates with the Part D sponsor to complete the financial transaction associated with the issuance or payment of the final settlement amount, as appropriate.
 
-(e) *Stay of financial transaction until appeals are exhausted.* If a Part D sponsor requests review of the final settlement amount, the financial transaction associated with the issuance or payment of the final settlement amount is stayed until all appeals are exhausted. Once all levels of appeal are exhausted or the Part D sponsor fails to request further review within the applicable 15-calendar-day timeframe, CMS communicates with the Part D sponsor to complete the financial transaction associated with the issuance or payment of the final settlement amount, as appropriate.
+(d) *Continued compliance with other law required.* Nothing in this section limits a Part D sponsor's responsibility to comply with any other statute or regulation.
 
-(f) *Continued compliance with other law required.* Nothing in this section limits a Part D sponsor's responsibility to comply with any other statute or regulation.
-
-[89 FR 30839, Apr. 23, 2024]
+[89 FR 30839, Apr. 23, 2024, as amended at 89 FR 63828, Aug. 6, 2024]

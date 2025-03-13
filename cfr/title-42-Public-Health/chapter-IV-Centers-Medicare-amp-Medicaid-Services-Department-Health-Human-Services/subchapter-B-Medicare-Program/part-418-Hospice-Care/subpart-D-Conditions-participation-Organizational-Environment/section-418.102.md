@@ -1,5 +1,7 @@
 ##### § 418.102 Condition of participation: Medical director. #####
 
+Link to an amendment published at 89 FR 64272, Aug. 6, 2024.
+
 The hospice must designate a physician to serve as medical director. The medical director must be a doctor of medicine or osteopathy who is an employee, or is under contract with the hospice. When the medical director is not available, a physician designated by the hospice assumes the same responsibilities and obligations as the medical director.
 
 (a) *Standard: Medical director contract.* (1) A hospice may contract with either of the following—

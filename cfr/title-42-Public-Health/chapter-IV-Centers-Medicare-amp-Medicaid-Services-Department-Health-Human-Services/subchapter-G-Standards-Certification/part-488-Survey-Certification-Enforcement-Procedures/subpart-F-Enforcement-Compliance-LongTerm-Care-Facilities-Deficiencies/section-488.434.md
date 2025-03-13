@@ -1,5 +1,7 @@
 ##### § 488.434 Civil money penalties: Notice of penalty. #####
 
+Link to an amendment published at 89 FR 64163, Aug. 6, 2024.
+
 (a) *CMS notice of penalty.* (1) CMS sends a written notice of the penalty to the facility for all facilities except non-State operated NFs when the State is imposing the penalty.
 
 (2) *Content of notice.* The notice that CMS sends includes—

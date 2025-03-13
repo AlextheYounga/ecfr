@@ -56,7 +56,19 @@
 
 (iv) The MA organization must make its bibliography of relevant acceptable evidence available to CMS upon request.
 
-(4) [Reserved]
+(4) *Plan responsibilities.* An MA plan offering SSBCI must do all of the following:
+
+(i) Have written policies for determining enrollee eligibility and must document its determination that an enrollee is a chronically ill enrollee based on the definition in paragraph (f)(1)(i) of this section.
+
+(ii) Make information and documentation related to determining enrollee eligibility available to CMS upon request.
+
+(iii)(A) Have and apply written policies based on objective criteria for determining a chronically ill enrollee's eligibility to receive a particular SSBCI; and
+
+(B) Document the written policies specified in paragraph (f)(4)(iii)(A) of this section and the objective criteria on which the written policies are based.
+
+(iv) Document each eligibility determination for an enrollee, whether eligible or ineligible, to receive a specific SSBCI and make this information available to CMS upon request.
+
+(v) Maintain without modification, as it relates to an SSBCI, evidentiary standards for a specific enrollee to be determined eligible for a particular SSBCI, or the specific objective criteria used by a plan as part of SSBCI eligibility determinations for the full coverage year.
 
 (5) *CMS review of SSBCI offerings in bids.* (i) CMS may decline to approve an MA organization's bid if CMS determines that the MA organization has not demonstrated, through relevant acceptable evidence, that an SSBCI has a reasonable expectation of improving or maintaining the health or overall function of the chronically ill enrollees that the MA organization is targeting.
 
@@ -64,4 +76,4 @@
 
 (iii) This provision does not limit CMS's authority to review and negotiate bids or to reject bids under section 1854(a) of the Act and 42 CFR part 422 subpart F nor does it limit CMS's authority to review plan benefits and bids for compliance with all applicable requirements.
 
-[65 FR 40320, June 29, 2000, as amended at 70 FR 4720, Jan. 28, 2005; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019; 85 FR 33903, June 2, 2020; 86 FR 6095, Jan. 19, 2021; 89 FR 30818, Apr. 23, 2024]Editorial Note:At 89 FR 30818, Apr. 23, 2024, § 422.102 was amended by revising paragraph (f)(4); however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[65 FR 40320, June 29, 2000, as amended at 70 FR 4720, Jan. 28, 2005; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019; 85 FR 33903, June 2, 2020; 86 FR 6095, Jan. 19, 2021; 89 FR 30818, Apr. 23, 2024; 89 FR 63826, Aug. 6, 2024]
