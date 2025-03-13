@@ -6,7 +6,7 @@
 
 (c) Failure by an EA or Regional licensee to meet the construction requirements of paragraph (a) of this section, as applicable, will result in automatic cancellation of its entire EA or Regional license. In such instances, EA or Regional licenses will not be converted to individual, site-by-site authorizations for already constructed stations.
 
-(d) EA and Regional licensees will not be permitted to count the resale of the services of other providers in their EA or REAG, *e.g.*, incumbent, Phase I licensees, to meet the construction requirement of paragraph (a) of this section, as applicable.
+(d) EA and Regional licensees will not be permitted to count the resale of the services of other providers in their EA or REAG, e.g., incumbent, Phase I licensees, to meet the construction requirement of paragraph (a) of this section, as applicable.
 
 (e) EA and Regional licensees will not be required to construct and place in operation, or commence service on, all of their authorized channels at all of their base stations or fixed stations.
 

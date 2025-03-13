@@ -30,4 +30,4 @@
 
 (4) In determining whether the institution qualifies for a payment or reduction in accountability, the Secretary takes into account any liabilities of the institution arising from that audit or program review or any other source. The Secretary collects those liabilities by offset in accordance with 34 CFR part 30.
 
-(Approved by the Office of Management and Budget under control number 1845-0039)[60 FR 61816, Dec. 1, 1995; 61 FR 3776, Feb. 1, 1996, as amended at 71 FR 38004, July 3, 2006; 86 FR 59626, Oct. 28, 2021]
+(Approved by the Office of Management and Budget under control number 1845-0039) [60 FR 61816, Dec. 1, 1995; 61 FR 3776, Feb. 1, 1996, as amended at 71 FR 38004, July 3, 2006; 86 FR 59626, Oct. 28, 2021]

@@ -24,4 +24,4 @@
 
 (c) In any application period, an academic department may not submit more than one application for new awards.
 
-(Approved by the Office of Management and Budget under control number 1840-0604)(Authority: 20 U.S.C. 1135b)[58 FR 65842, Dec. 16, 1993, as amended at 64 FR 13487, Mar. 18, 1999]
+(Approved by the Office of Management and Budget under control number 1840-0604) (Authority: 20 U.S.C. 1135b)[58 FR 65842, Dec. 16, 1993, as amended at 64 FR 13487, Mar. 18, 1999]

@@ -64,4 +64,4 @@ The Secretary evaluates an institutional application for an allocation of fellow
 
 (i) *Priorities.* If one or more competitive priorities have been established under § 657.22, the Secretary reviews each application for information that shows the extent to which the Center or program meets these priorities.
 
-(Approved by the Office of Management and Budget under control number 1840-0068)(Authority: 20 U.S.C. 1122)[61 FR 50202, Sept. 24, 1996, as amended at 70 FR 13375, Mar. 21, 2005; 74 FR 35073, July 17, 2009]
+(Approved by the Office of Management and Budget under control number 1840-0068) (Authority: 20 U.S.C. 1122)[61 FR 50202, Sept. 24, 1996, as amended at 70 FR 13375, Mar. 21, 2005; 74 FR 35073, July 17, 2009]

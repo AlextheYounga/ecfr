@@ -16,4 +16,4 @@ Administrative hearings under this subpart are conducted as follows:
 
 (g) The ALJ is bound by all applicable statutes and regulations and may neither waive them nor rule them invalid.
 
-(Authority: 5 U.S.C. 556 and 3105; 20 U.S.C. 7711(a))[60 FR 50778, Sept. 29, 1995, as amended at 62 FR 35419, July 1, 1997]
+(Authority: 5 U.S.C. 556 and 3105; 20 U.S.C. 7711(a)) [60 FR 50778, Sept. 29, 1995, as amended at 62 FR 35419, July 1, 1997]

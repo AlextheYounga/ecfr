@@ -106,4 +106,4 @@
 
 (11) The school was placed on the heightened cash monitoring payment method as defined in § 668.162(d)(2) of this chapter.
 
-(Approved by the Office of Management and Budget under control number 1845-0021)[59 FR 61690, Dec. 1, 1994, as amended at 59 FR 66134, Dec. 22, 1994; 64 FR 58972, Nov. 1, 1999. Redesignated at 65 FR 65629, Nov. 1, 2000, as amended at 66 FR 34765, June 29, 2001; 78 FR 65834, Nov. 1, 2013; 81 FR 76081, Nov. 1, 2016; 84 FR 49930, Sept. 23, 2019; 87 FR 66060, Nov. 1, 2022; 88 FR 43065, July 6, 2023]
+(Approved by the Office of Management and Budget under control number 1845-0021) [59 FR 61690, Dec. 1, 1994, as amended at 59 FR 66134, Dec. 22, 1994; 64 FR 58972, Nov. 1, 1999. Redesignated at 65 FR 65629, Nov. 1, 2000, as amended at 66 FR 34765, June 29, 2001; 78 FR 65834, Nov. 1, 2013; 81 FR 76081, Nov. 1, 2016; 84 FR 49930, Sept. 23, 2019; 87 FR 66060, Nov. 1, 2022; 88 FR 43065, July 6, 2023]

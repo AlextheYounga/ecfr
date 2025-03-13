@@ -1,5 +1,7 @@
 ##### § 50.11 General conditions applicable to permits. #####
 
+Link to an amendment published at 89 FR 46733, May 29, 2024.
+
 (a) The following terms and conditions, among others as the Commission will find are required by the public interest, will attach to the issuance of each permit and to the exercise of the rights granted under the permit.
 
 (b) The permit will be void and without force or effect unless accepted in writing by the permittee within 30 days from the date of the order issuing the permit. *Provided that*, when an applicant files for rehearing of the order in accordance with FPA section 313(a), the acceptance must be filed within 30 days from the issue date of the order of the Commission upon the application for rehearing or within 30 days from the date on which the application may be deemed to have been denied when the Commission has not acted on such application within 30 days after it has been filed. *Provided further*, that when a petition for review is filed in accordance with the provisions of FPA section 313(b), the acceptance shall be filed within 30 days after final disposition of the judicial review proceedings thus initiated.

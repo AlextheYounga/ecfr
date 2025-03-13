@@ -10,4 +10,4 @@
 
 (2) If the State provides clear and convincing evidence that all children with disabilities have available to them FAPE, the Secretary may waive, in whole or in part, the requirements of paragraph (c)(1) of this section if the Secretary concurs with the evidence provided by the State under § 300.164.
 
-(Approved by the Office of Management and Budget under control number 1820-0030)(Authority: 20 U.S.C. 1412(a)(17))[71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61306, Oct. 30, 2007]
+(Approved by the Office of Management and Budget under control number 1820-0030)(Authority: 20 U.S.C. 1412(a)(17)) [71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61306, Oct. 30, 2007]

@@ -14,4 +14,4 @@
 
 (g) *Default.* If a borrower defaults on a loan, the guarantor reimburses the lender for the amount of its loss. The guarantor then collects the amount owed from the borrower.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1071 to 1087-2)[57 FR 60323, Dec. 18, 1992, as amended at 59 FR 25744, May 17, 1994; 59 FR 33348, June 28, 1994; 64 FR 18975, Apr. 16, 1999; 64 FR 58952, Nov. 1, 1999; 68 FR 75428, Dec. 31, 2003; 71 FR 45698, Aug. 9, 2006; 78 FR 65806, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1845-0020) (Authority: 20 U.S.C. 1071 to 1087-2)[57 FR 60323, Dec. 18, 1992, as amended at 59 FR 25744, May 17, 1994; 59 FR 33348, June 28, 1994; 64 FR 18975, Apr. 16, 1999; 64 FR 58952, Nov. 1, 1999; 68 FR 75428, Dec. 31, 2003; 71 FR 45698, Aug. 9, 2006; 78 FR 65806, Nov. 1, 2013]

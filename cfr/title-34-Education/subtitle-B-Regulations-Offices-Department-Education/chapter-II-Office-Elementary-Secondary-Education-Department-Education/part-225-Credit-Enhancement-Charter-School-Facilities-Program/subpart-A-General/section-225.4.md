@@ -1,8 +1,6 @@
 ##### § 225.4 What definitions apply to the Credit Enhancement for Charter School Facilities Program? #####
 
-(a) *Definitions in the Act.* The following term used in this part is defined in section 4310(2) of the Elementary and
-Secondary Education Act of 1965, as amended by the Every
-Student Succeeds Act:
+(a) *Definitions in the Act.* The following term used in this part is defined in section 4310(2) of the Elementary and Secondary Education Act of 1965, as amended by the Every Student Succeeds Act:
 
 Charter school
 

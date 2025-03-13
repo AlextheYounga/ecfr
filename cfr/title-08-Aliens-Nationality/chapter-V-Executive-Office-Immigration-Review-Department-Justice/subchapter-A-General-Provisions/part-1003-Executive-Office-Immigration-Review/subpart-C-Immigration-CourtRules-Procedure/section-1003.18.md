@@ -1,5 +1,7 @@
 ##### § 1003.18 Scheduling of cases. #####
 
+Link to an amendment published at 89 FR 46792, May 29, 2024.
+
 (a) The Immigration Court shall be responsible for scheduling cases and providing notice to the government and the alien of the time, place, and date of hearings.
 
 (b) In removal proceedings pursuant to section 240 of the Act, the Service shall provide in the Notice to Appear, the time, place and date of the initial removal hearing, where practicable. If that information is not contained in the Notice to Appear, the Immigration Court shall be responsible for scheduling the initial removal hearing and providing notice to the government and the alien of the time, place, and date of hearing. In the case of any change or postponement in the time and place of such proceeding, the Immigration Court shall provide written notice to the alien specifying the new time and place of the proceeding and the consequences under section 240(b)(5) of the Act of failing, except under exceptional circumstances as defined in section 240(e)(1) of the Act, to attend such proceeding. No such notice shall be required for an alien not in detention if the alien has failed to provide the address required in section 239(a)(1)(F) of the Act.

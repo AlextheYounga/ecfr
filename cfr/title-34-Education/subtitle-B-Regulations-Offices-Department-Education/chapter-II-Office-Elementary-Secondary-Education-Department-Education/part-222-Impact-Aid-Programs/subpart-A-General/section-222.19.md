@@ -42,4 +42,4 @@
 
 (d) 2 CFR part 200, as adopted in 2 CFR part 3474 (Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards), for payments under sections 8003(d) (payments for federally connected children with disabilities), 8007 (construction), and 8008 (school facilities).
 
-(Authority: 20 U.S.C. 1221e-3)[60 FR 50778, Sept. 29, 1995. Redesignated at 62 FR 35412, July 1, 1997;79 FR 76095, Dec. 19, 2014; 80 FR 33162, June 11, 2015]
+(Authority: 20 U.S.C. 1221e-3) [60 FR 50778, Sept. 29, 1995. Redesignated at 62 FR 35412, July 1, 1997;79 FR 76095, Dec. 19, 2014; 80 FR 33162, June 11, 2015]

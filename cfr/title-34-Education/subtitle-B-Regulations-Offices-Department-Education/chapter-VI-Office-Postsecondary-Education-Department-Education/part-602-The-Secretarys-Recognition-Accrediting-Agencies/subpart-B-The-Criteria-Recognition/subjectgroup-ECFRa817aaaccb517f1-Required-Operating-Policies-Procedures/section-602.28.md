@@ -18,4 +18,4 @@
 
 (e) The agency must, upon request, share with other appropriate recognized accrediting agencies and recognized State approval agencies information about the accreditation or preaccreditation status of an institution or program and any adverse actions it has taken against an accredited or preaccredited institution or program.
 
-(Approved by the Office of Management and Budget under control number 1845-0003)(Authority: 20 U.S.C. 1099b)
+(Approved by the Office of Management and Budget under control number 1845-0003) (Authority: 20 U.S.C. 1099b)

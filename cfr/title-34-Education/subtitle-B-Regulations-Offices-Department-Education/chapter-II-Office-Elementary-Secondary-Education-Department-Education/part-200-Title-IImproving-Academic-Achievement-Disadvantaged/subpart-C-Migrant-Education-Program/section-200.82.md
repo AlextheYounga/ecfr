@@ -18,4 +18,4 @@ An SEA may use the funds available from its State Migrant Education Program (MEP
 
 (h) Conducting an evaluation of the effectiveness of the State MEP.
 
-(Authority: 20 U.S.C. 6392, 6571)[67 FR 71736, Dec. 2, 2002; 68 FR 19152, Apr. 18, 2003]
+(Authority: 20 U.S.C. 6392, 6571) [67 FR 71736, Dec. 2, 2002; 68 FR 19152, Apr. 18, 2003]

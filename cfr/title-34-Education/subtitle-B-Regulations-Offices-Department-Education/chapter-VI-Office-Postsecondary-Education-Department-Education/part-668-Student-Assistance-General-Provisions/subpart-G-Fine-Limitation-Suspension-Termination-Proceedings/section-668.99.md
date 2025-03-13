@@ -32,4 +32,4 @@
 
 (j) The Secretary may delegate to a designated department official the functions described in paragraphs (f) through (i) of this section.
 
-(Authority: 20 U.S.C. 1094)(Approved by the Office of Management and Budget under control number 1801-0003)[57 FR 60034, Dec. 17, 1992, as amended at 58 FR 14153, Mar. 16, 1993; 78 FR 48051, Aug. 7, 2013. Redesignated and amended at 82 FR 6257, 6259, Jan. 19, 2017]
+(Authority: 20 U.S.C. 1094)(Approved by the Office of Management and Budget under control number 1801-0003) [57 FR 60034, Dec. 17, 1992, as amended at 58 FR 14153, Mar. 16, 1993; 78 FR 48051, Aug. 7, 2013. Redesignated and amended at 82 FR 6257, 6259, Jan. 19, 2017]

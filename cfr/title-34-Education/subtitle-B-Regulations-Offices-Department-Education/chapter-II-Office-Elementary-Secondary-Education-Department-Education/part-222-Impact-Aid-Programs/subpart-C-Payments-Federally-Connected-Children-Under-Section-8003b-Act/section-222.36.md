@@ -14,4 +14,4 @@
 
 (c) Children described in paragraph (b) of this section are counted for the purposes of paragraph (a) of this section only if the applicant LEA is eligible to receive a payment on behalf of those children under section 8003.
 
-(Authority: 20 U.S.C. 7703(a)(3) and (b)(1)(B))[60 FR 50778, Sept. 29, 1995, as amended at 62 FR 35415, July 1, 1997; 80 FR 33163, June 11, 2015]
+(Authority: 20 U.S.C. 7703(a)(3) and (b)(1)(B)) [60 FR 50778, Sept. 29, 1995, as amended at 62 FR 35415, July 1, 1997; 80 FR 33163, June 11, 2015]

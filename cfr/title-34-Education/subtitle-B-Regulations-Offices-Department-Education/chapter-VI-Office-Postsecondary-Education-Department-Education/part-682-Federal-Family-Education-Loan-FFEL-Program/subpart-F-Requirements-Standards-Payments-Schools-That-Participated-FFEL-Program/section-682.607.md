@@ -14,4 +14,4 @@
 
 (c) *Timely payment.* A school must pay a refund or a return of title IV, HEA program funds that is due in accordance with the timeframe in § 668.22(j).
 
-(Authority: 20 U.S.C. 1077, 1078, 1078-1, 1078-2, 1082, 1094)[64 FR 59043, Nov. 1, 1999]
+(Authority: 20 U.S.C. 1077, 1078, 1078-1, 1078-2, 1082, 1094) [64 FR 59043, Nov. 1, 1999]

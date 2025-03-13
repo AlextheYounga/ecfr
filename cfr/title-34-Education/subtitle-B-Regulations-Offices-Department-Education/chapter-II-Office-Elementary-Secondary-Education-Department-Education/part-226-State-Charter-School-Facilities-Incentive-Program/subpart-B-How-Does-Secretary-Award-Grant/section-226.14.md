@@ -12,4 +12,4 @@
 
 (c) The Secretary may elect to consider the points awarded under these priorities only for proposals that exhibit sufficient quality to warrant funding under the selection criteria in § 226.12 of this part.
 
-(Approved by the Office of Management and Budget under control number 1855-0012)(Authority: 20 U.S.C. 7221d(b))[70 FR 15003, Mar. 24, 2005, as amended at 87 FR 3661, Jan. 25, 2022]
+(Approved by the Office of Management and Budget under control number 1855-0012) (Authority: 20 U.S.C. 7221d(b)) [70 FR 15003, Mar. 24, 2005, as amended at 87 FR 3661, Jan. 25, 2022]

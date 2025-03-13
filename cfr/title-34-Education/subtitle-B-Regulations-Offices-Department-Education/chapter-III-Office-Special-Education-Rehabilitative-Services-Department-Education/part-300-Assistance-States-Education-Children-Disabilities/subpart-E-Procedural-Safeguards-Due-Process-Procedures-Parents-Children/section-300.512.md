@@ -24,4 +24,4 @@
 
 (3) Have the record of the hearing and the findings of fact and decisions described in paragraphs (a)(4) and (a)(5) of this section provided at no cost to parents.
 
-(Authority: 20 U.S.C. 1415(f)(2), 1415(h))[71 FR 46753, Aug. 14, 2006, as amended at 73 FR 73027, Dec. 1, 2008]
+(Authority: 20 U.S.C. 1415(f)(2), 1415(h)) [71 FR 46753, Aug. 14, 2006, as amended at 73 FR 73027, Dec. 1, 2008]

@@ -38,4 +38,4 @@
 
 (2) The definitions in paragraph (e)(1) of this section apply to each State and LEA, whether or not the State or LEA chooses to coordinate with the NIMAC.
 
-(Approved by the Office of Management and Budget under control number 1820-0030)(Authority: 20 U.S.C. 1412(a)(23), 1474(e))[71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61306, Oct. 30, 2007]
+(Approved by the Office of Management and Budget under control number 1820-0030)(Authority: 20 U.S.C. 1412(a)(23), 1474(e)) [71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61306, Oct. 30, 2007]

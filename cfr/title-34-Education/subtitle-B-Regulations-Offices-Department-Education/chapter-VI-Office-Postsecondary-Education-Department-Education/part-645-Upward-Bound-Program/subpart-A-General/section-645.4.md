@@ -26,4 +26,4 @@
 
 (c) A grantee does not have to revalidate a participant's eligibility after the participant's initial selection.
 
-(Approved by the Office of Management and Budget under control number 1840-0550)(Authority: 20 U.S.C. 1070a-11)[60 FR 4748, Jan. 24, 1995, as amended at 75 FR 65784, Oct. 26, 2010]
+(Approved by the Office of Management and Budget under control number 1840-0550) (Authority: 20 U.S.C. 1070a-11)[60 FR 4748, Jan. 24, 1995, as amended at 75 FR 65784, Oct. 26, 2010]

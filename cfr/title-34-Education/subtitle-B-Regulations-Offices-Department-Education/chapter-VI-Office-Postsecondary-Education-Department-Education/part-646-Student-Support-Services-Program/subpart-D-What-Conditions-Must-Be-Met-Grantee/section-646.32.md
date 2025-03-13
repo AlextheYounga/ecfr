@@ -34,4 +34,4 @@
 
 (3) Costs for special classes and events that would benefit Student Support Services students and participants in other programs for disadvantaged students must be proportionately divided among the benefiting projects.
 
-(Approved by the Office of Management and Budget under control number 1840-NEW5)(Authority: 20 U.S.C. 1070a-11 and 1070a)[61 FR 38537, July 24, 1996, as amended at 75 FR 65794, Oct. 26, 2010]
+(Approved by the Office of Management and Budget under control number 1840-NEW5) (Authority: 20 U.S.C. 1070a-11 and 1070a)[61 FR 38537, July 24, 1996, as amended at 75 FR 65794, Oct. 26, 2010]

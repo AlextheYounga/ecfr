@@ -24,4 +24,4 @@
 
 (2) [Reserved]
 
-(Approved by the Office of Management and Budget under control number 1840-0650)(Authority: 20 U.S.C. 1091, 1094)[58 FR 3184, Jan. 7, 1993, as amended at 58 FR 26674, May 4, 1993; 60 FR 61813, Dec. 1, 1995; 63 FR 40626, July 29, 1998]
+(Approved by the Office of Management and Budget under control number 1840-0650) (Authority: 20 U.S.C. 1091, 1094)[58 FR 3184, Jan. 7, 1993, as amended at 58 FR 26674, May 4, 1993; 60 FR 61813, Dec. 1, 1995; 63 FR 40626, July 29, 1998]

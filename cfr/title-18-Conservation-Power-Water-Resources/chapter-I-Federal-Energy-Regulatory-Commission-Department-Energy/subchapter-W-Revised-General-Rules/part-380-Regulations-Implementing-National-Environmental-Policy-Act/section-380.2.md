@@ -1,5 +1,7 @@
 ##### § 380.2 Definitions and terminology. #####
 
+Link to an amendment published at 89 FR 46734, May 29, 2024.
+
 For purposes of this part—
 
 (a) *Categorical exclusion* means a category of actions described in § 380.4, which do not individually or cumulatively have a significant effect on the human environment and which the Commission has found to have no such effect and for which, therefore, neither an environmental assessment nor an environmental impact statement is required. The Commission may decide to prepare environmental assessments for the reasons stated in § 380.4(b).

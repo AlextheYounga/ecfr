@@ -14,4 +14,4 @@ The Magnet Schools Assistance Program provides grants to eligible local educatio
 
 (f) Ensuring that all students enrolled in the magnet school programs have equitable access to high quality education that will enable the students to succeed academically and continue with postsecondary education or productive employment.
 
-(Authority: 20 U.S.C. 7231)[51 FR 20414, June 4, 1986, as amended at 60 FR 14865, Mar. 20, 1995; 69 FR 4996, Feb. 2, 2004]
+(Authority: 20 U.S.C. 7231) [51 FR 20414, June 4, 1986, as amended at 60 FR 14865, Mar. 20, 1995; 69 FR 4996, Feb. 2, 2004]

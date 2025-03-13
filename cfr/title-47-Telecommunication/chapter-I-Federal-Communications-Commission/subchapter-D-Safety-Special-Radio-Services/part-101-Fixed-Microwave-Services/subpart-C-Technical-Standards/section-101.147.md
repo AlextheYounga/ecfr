@@ -1,7 +1,5 @@
 ##### § 101.147 Frequency assignments. #####
 
-Link to an amendment published at 89 FR 33261, Apr. 29, 2024.
-
 (a) Frequencies in the following bands are available for assignment for fixed microwave services.
 
 928.0-929.0 MHz (28)932.0-932.5 MHz (27)932.5-935 MHz (17)941.0-941.5 MHz (27)941.5-944 MHz (17) (18)952.0-960.0 MHz (28)1,850-1,990 MHz (20) (22)2,110-2,130 MHz) (1) (3) (7) (20) (23)2,130-2,150 MHz (20) (22)2,160-2,180 MHz (1) (2) (20) (23)2,180-2,200 MHz (20) (22)2,450-2,500 MHz (12)2,650-2,690 MHz3,700-4,200 MHz (8) (14) (25)5,925-6,425 MHz (6) (14) (25)6,425-6,525 MHz (24)6,525-6.875 MHz (14) (33)6,875-7,125 MHz (10), (34)10,550-10,680 MHz (19)10,700-11,700 MHz (8) (9) (19) (25)11,700-12,200 MHz (24)12,200-12,700 MHz (31)12,700-13,200 (22), (34)13,200-13,250 MHz (4) (24) (25)14,200-14,400 MHz (24)17,700-18,820 MHz (5) (10) (15)17,700-18,300 MHz (10) (15)18,820-18,920 MHz (22)18,300-18,580 MHz (5) (10) (15)18,580-19,300 MHz (22) (30)18,920-19,160 MHz (5 (10) (15)19,160-19,260 MHz (22)19,260-19,700 MHz (5) (10) (15)19,300-19,700 MHz (5) (10) (15)21,200-22,000 MHz (4) (11) (12) (13) (24) (25) (26)22,000-23,600 MHz (4) (11) (12) (24) (25) (26)24,250-25,250 MHz29,100-29,250 MHz (5), (16)31,000-31,300 MHz (16)42,000-42,500 MHz71,000-76,000 MHz (5) (17)81,000-86,000 MHz (5) (17)92,000-94,000 MHz (17)94,100-95,000 MHz (17)Notes
@@ -82,10 +80,6 @@ Paragraphs (b)(1) through (b)(5) and Tables 1 through 7 of this section pertain 
 
 (1) Frequencies listed in this paragraph are designated for private internal use and are subject to site-based licensing.
 
-Table 1—Paired Frequencies (MHz)
-
-[12.5 kHz bandwidth]
-
 |Remote transmit|Master transmit|
 |---------------|---------------|
 |   928.00625   |   952.00625   |
@@ -117,10 +111,6 @@ Table 1—Paired Frequencies (MHz)
 |   928.33125   |   952.33125   |
 |   928.34375   |   952.34375   |
 
-Unpaired Frequencies (MHz)
-
-[12.5 kHz bandwidth]
-
 |    D    |    D    |    D    |
 |---------|---------|---------|
 |956.25625|956.33125|956.39375|
@@ -129,10 +119,6 @@ Unpaired Frequencies (MHz)
 |956.29375|956.36875|956.43125|
 |956.30625|956.38125|956.44375|
 |956.31875|         |         |
-
-Table 2—Paired Frequencies (MHz)
-
-[25 kHz bandwidth]
 
 |Remote transmit|Master transmit|
 |---------------|---------------|
@@ -151,20 +137,12 @@ Table 2—Paired Frequencies (MHz)
 |   928.3125    |   952.3125    |
 |   928.3375    |   952.3375    |
 
-Unpaired Frequencies (MHz)
-
-[25 kHz bandwidth]
-
 |956.2625|956.3375|956.4125|
-|:-------|:-------|:-------|
+|--------|--------|--------|
 |956.2875|956.3625|956.4375|
 |956.3125|956.3875|        |
 
 (2) Frequencies listed in this paragraph are designated for private internal use and are subject to site-based licensing.
-
-Table 3—Paired Frequencies (MHz)
-
-[12.5 kHz bandwidth]
 
 |Remote transmit|Master transmit|
 |---------------|---------------|
@@ -209,10 +187,6 @@ Table 3—Paired Frequencies (MHz)
 |   928.83125   |   952.83125   |
 |   928.84375   |   952.84375   |
 
-Table 4—Paired Frequencies (MHz)
-
-[25 kHz bandwidth]
-
 |Remote transmit|Master transmit|
 |---------------|---------------|
 |   928.3625    |   952.3625    |
@@ -238,10 +212,6 @@ Table 4—Paired Frequencies (MHz)
 
 (3) Frequencies listed in this paragraph are not restricted to private internal use and are licensed by geographic area. Incumbent facilities must be protected.
 
-Table 5—Paired Frequencies (MHz)
-
-[12.5 kHz bandwidth]
-
 |Remote transmit|Master transmit|
 |---------------|---------------|
 |   928.85625   |   959.85625   |
@@ -257,10 +227,6 @@ Table 5—Paired Frequencies (MHz)
 |   928.98125   |   959.98125   |
 |   928.99375   |   959.99375   |
 
-Table 6—Paired Frequencies (MHz)
-
-[25 kHz bandwidth]
-
 |Remote transmit|Master transmit|
 |---------------|---------------|
 |   928.8625    |   959.8625    |
@@ -271,8 +237,6 @@ Table 6—Paired Frequencies (MHz)
 |   928.9875    |   959.9875    |
 
 (4) Frequencies listed in this paragraph are licensed by either economic area or on a site-by-site basis.
-
-Table 7—Paired Frequencies
 
 |                                   Remote transmit                                    |Master transmit|
 |--------------------------------------------------------------------------------------|---------------|
@@ -339,10 +303,6 @@ For mobile operations the maximum ERP is 25 watts (44 dBm).
 
 (6) Fixed point-to-point frequencies.
 
-Table 8—Paired Frequencies
-
-[All frequencies may be used by Common Carrier Fixed Point-to-Point and Private Operational Fixed Point-to-Point Microwave Service licensees; 25 kHz bandwidth]
-
 |Transmit (receive) (MHz)|Receive (transmit) (MHz)|
 |------------------------|------------------------|
 |        932.5125        |        941.5125        |
@@ -360,115 +320,98 @@ Table 8—Paired Frequencies
 |        934.9625        |        943.9625        |
 |        934.9875        |        943.9875        |
 
-Table 9—Paired Frequencies
+|                                         Transmit (receive) (MHz)                                          |Receive (transmit) (MHz)|
+|-----------------------------------------------------------------------------------------------------------|------------------------|
+|                                            932.70 <sup>1</sup>                                            |  <sup>1</sup> 941.70   |
+|                                            932.75 <sup>1</sup>                                            |  <sup>1</sup> 941.75   |
+|                                            934.80 <sup>1</sup>                                            |  <sup>1</sup> 943.80   |
+|                                                  956.65                                                   |         953.05         |
+|                                                  956.75                                                   |         953.15         |
+|                                                  956.85                                                   |         953.25         |
+|                                                  956.95                                                   |         953.35         |
+|                                                  957.05                                                   |         953.45         |
+|                                                  957.25                                                   |         953.65         |
+|                                                  957.35                                                   |         953.75         |
+|                                                  957.45                                                   |         953.85         |
+|                                                  957.65                                                   |         954.05         |
+|                                                  957.75                                                   |         954.15         |
+|                                                  957.85                                                   |         954.25         |
+|                                                  958.05                                                   |         954.45         |
+|                                                  958.15                                                   |         954.55         |
+|                                                  958.25                                                   |         954.65         |
+|                                                  958.45                                                   |         954.85         |
+|                                                  958.55                                                   |         954.95         |
+|                                                  958.65                                                   |         955.05         |
+|                                                  958.85                                                   |         955.25         |
+|                                                  958.95                                                   |         955.35         |
+|                                                  959.05                                                   |         955.45         |
+|                                                  959.25                                                   |         955.65         |
+|                                                  959.35                                                   |         955.75         |
+|                                                  959.45                                                   |         955.85         |
+|                                                  959.55                                                   |         955.95         |
+|                                                  959.65                                                   |         956.05         |
+|<sup>1</sup> These frequencies also may be used by Common Carrier Fixed Point-to-Point Microwave licensees.|                        |
 
-[Frequencies may be used only by Private Operational Fixed Point-to-Point Microwave Service licensees, unless otherwise noted; 50 kHz bandwidth]
+|                                         Transmit (receive) (MHz)                                          |Receive (transmit) (MHz)|
+|-----------------------------------------------------------------------------------------------------------|------------------------|
+|                                           932.8250 <sup>1</sup>                                           | <sup>1</sup> 941.8250  |
+|                                           932.9250 <sup>1</sup>                                           | <sup>1</sup> 941.9250  |
+|                                           933.0250 <sup>1</sup>                                           | <sup>1</sup> 942.0250  |
+|                                           934.5250 <sup>1</sup>                                           | <sup>1</sup> 943.5250  |
+|                                           934.6250 <sup>1</sup>                                           | <sup>1</sup> 943.6250  |
+|                                           934.7250 <sup>1</sup>                                           | <sup>1</sup> 943.7250  |
+|                                                   956.6                                                   |         953.0          |
+|                                                   956.7                                                   |         953.1          |
+|                                                   956.8                                                   |         953.2          |
+|                                                   956.9                                                   |         953.3          |
+|                                                   957.0                                                   |         953.4          |
+|                                                   957.1                                                   |         953.5          |
+|                                                   957.2                                                   |         953.6          |
+|                                                   957.3                                                   |         953.7          |
+|                                                   957.4                                                   |         953.8          |
+|                                                   957.5                                                   |         953.9          |
+|                                                   957.6                                                   |         954.0          |
+|                                                   957.7                                                   |         954.1          |
+|                                                   957.8                                                   |         954.2          |
+|                                                   957.9                                                   |         954.3          |
+|                                                   958.0                                                   |         954.4          |
+|                                                   958.1                                                   |         954.5          |
+|                                                   958.2                                                   |         954.6          |
+|                                                   958.3                                                   |         954.7          |
+|                                                   958.4                                                   |         954.8          |
+|                                                   958.5                                                   |         954.9          |
+|                                                   958.6                                                   |         955.0          |
+|                                                   958.7                                                   |         955.1          |
+|                                                   958.8                                                   |         955.2          |
+|                                                   958.9                                                   |         955.3          |
+|                                                   959.0                                                   |         955.4          |
+|                                                   959.1                                                   |         955.5          |
+|                                                   959.2                                                   |         955.6          |
+|                                                   959.3                                                   |         955.7          |
+|                                                   959.4                                                   |         955.8          |
+|                                                   959.5                                                   |         955.9          |
+|                                                   959.6                                                   |         956.0          |
+|                                                   959.7                                                   |         956.1          |
+|<sup>1</sup> These frequencies also may be used by Common Carrier Fixed Point-to-Point Microwave licensees.|                        |
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|   932.70<sup>1</sup>   |  <sup>1</sup> 941.70   |
-|   932.75<sup>1</sup>   |  <sup>1</sup> 941.75   |
-|   934.80<sup>1</sup>   |  <sup>1</sup> 943.80   |
-|         956.65         |         953.05         |
-|         956.75         |         953.15         |
-|         956.85         |         953.25         |
-|         956.95         |         953.35         |
-|         957.05         |         953.45         |
-|         957.25         |         953.65         |
-|         957.35         |         953.75         |
-|         957.45         |         953.85         |
-|         957.65         |         954.05         |
-|         957.75         |         954.15         |
-|         957.85         |         954.25         |
-|         958.05         |         954.45         |
-|         958.15         |         954.55         |
-|         958.25         |         954.65         |
-|         958.45         |         954.85         |
-|         958.55         |         954.95         |
-|         958.65         |         955.05         |
-|         958.85         |         955.25         |
-|         958.95         |         955.35         |
-|         959.05         |         955.45         |
-|         959.25         |         955.65         |
-|         959.35         |         955.75         |
-|         959.45         |         955.85         |
-|         959.55         |         955.95         |
-|         959.65         |         956.05         |
-
-<sup>1</sup> These frequencies also may be used by Common Carrier Fixed Point-to-Point Microwave licensees.
-
-Table 10—Paired Frequencies
-
-[Frequencies may be used only by Private Operational Fixed Point-to-Point Microwave licensees, unless otherwise noted; 100 kHz bandwidth]
-
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|  932.8250<sup>1</sup>  | <sup>1</sup> 941.8250  |
-|  932.9250<sup>1</sup>  | <sup>1</sup> 941.9250  |
-|  933.0250<sup>1</sup>  | <sup>1</sup> 942.0250  |
-|  934.5250<sup>1</sup>  | <sup>1</sup> 943.5250  |
-|  934.6250<sup>1</sup>  | <sup>1</sup> 943.6250  |
-|  934.7250<sup>1</sup>  | <sup>1</sup> 943.7250  |
-|         956.6          |         953.0          |
-|         956.7          |         953.1          |
-|         956.8          |         953.2          |
-|         956.9          |         953.3          |
-|         957.0          |         953.4          |
-|         957.1          |         953.5          |
-|         957.2          |         953.6          |
-|         957.3          |         953.7          |
-|         957.4          |         953.8          |
-|         957.5          |         953.9          |
-|         957.6          |         954.0          |
-|         957.7          |         954.1          |
-|         957.8          |         954.2          |
-|         957.9          |         954.3          |
-|         958.0          |         954.4          |
-|         958.1          |         954.5          |
-|         958.2          |         954.6          |
-|         958.3          |         954.7          |
-|         958.4          |         954.8          |
-|         958.5          |         954.9          |
-|         958.6          |         955.0          |
-|         958.7          |         955.1          |
-|         958.8          |         955.2          |
-|         958.9          |         955.3          |
-|         959.0          |         955.4          |
-|         959.1          |         955.5          |
-|         959.2          |         955.6          |
-|         959.3          |         955.7          |
-|         959.4          |         955.8          |
-|         959.5          |         955.9          |
-|         959.6          |         956.0          |
-|         959.7          |         956.1          |
-
-<sup>1</sup> These frequencies also may be used by Common Carrier Fixed Point-to-Point Microwave licensees.
-
-Table 11—Paired Frequencies
-
-[Frequencies may be used only by Private Operational Fixed Point-to-Point Microwave licensees, unless otherwise noted; (200 kHz bandwidth)]
-
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|  933.1750<sup>1</sup>  | <sup>1</sup> 942.1750  |
-|  933.3750<sup>1</sup>  | <sup>1</sup> 942.3750  |
-|  933.5750<sup>1</sup>  | <sup>1</sup> 942.5750  |
-|  933.7750<sup>1</sup>  | <sup>1</sup> 942.7750  |
-|  933.9750<sup>1</sup>  | <sup>1</sup> 942.9750  |
-|  934.1750<sup>1</sup>  | <sup>1</sup> 943.1750  |
-|  934.3750<sup>1</sup>  | <sup>1</sup> 943.3750  |
-|         957.15         |         953.55         |
-|         957.55         |         953.95         |
-|         957.95         |         954.35         |
-|         958.35         |         954.75         |
-|         958.75         |         955.15         |
-|         959.15         |         955.55         |
-
-<sup>1</sup> These frequencies also may be used by Common Carrier Fixed Point-to-Point Microwave licensees.
+|                                         Transmit (receive) (MHz)                                          |Receive (transmit) (MHz)|
+|-----------------------------------------------------------------------------------------------------------|------------------------|
+|                                           933.1750 <sup>1</sup>                                           | <sup>1</sup> 942.1750  |
+|                                           933.3750 <sup>1</sup>                                           | <sup>1</sup> 942.3750  |
+|                                           933.5750 <sup>1</sup>                                           | <sup>1</sup> 942.5750  |
+|                                           933.7750 <sup>1</sup>                                           | <sup>1</sup> 942.7750  |
+|                                           933.9750 <sup>1</sup>                                           | <sup>1</sup> 942.9750  |
+|                                           934.1750 <sup>1</sup>                                           | <sup>1</sup> 943.1750  |
+|                                           934.3750 <sup>1</sup>                                           | <sup>1</sup> 943.3750  |
+|                                                  957.15                                                   |         953.55         |
+|                                                  957.55                                                   |         953.95         |
+|                                                  957.95                                                   |         954.35         |
+|                                                  958.35                                                   |         954.75         |
+|                                                  958.75                                                   |         955.15         |
+|                                                  959.15                                                   |         955.55         |
+|<sup>1</sup> These frequencies also may be used by Common Carrier Fixed Point-to-Point Microwave licensees.|                        |
 
 (c) *1850-1990 MHz.* (1) 10 MHz maximum bandwidth.
-
-Paired Frequencies
 
 |Transmit (receive) (MHz)|Receive (transmit) (MHz)|
 |------------------------|------------------------|
@@ -479,17 +422,12 @@ Paired Frequencies
 |          1895          |          1975          |
 |          1905          |          1985          |
 
-Unpaired Frequencies
-
-|1915<sup>1</sup>|
-|:---------------|
-|1925<sup>1</sup>|
-
-<sup>1</sup> Available for systems employing one-way transmission.
+|                        1915 <sup>1</sup>                         |
+|------------------------------------------------------------------|
+|                        1925 <sup>1</sup>                         |
+|<sup>1</sup> Available for systems employing one-way transmission.|
 
 (2) 5 MHz maximum bandwidth.
-
-Paired Frequencies
 
 |Transmit (receive) (MHz)|Receive (transmit) (MHz)|
 |------------------------|------------------------|
@@ -501,39 +439,36 @@ Paired Frequencies
 
 (d) *2130-2150 MHz; 2180-2200 MHz.* 800 kHz maximum bandwidth, unless noted.
 
-Paired Frequencies
-
 |2130-2150|2180-2200|
-|:--------|--------:|
+|---------|---------|
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|         2130.8         |         2180.8         |
-|         2131.6         |  <sup>1</sup> 2181.6   |
-|         2132.4         |         2182.4         |
-|         2133.2         |  <sup>1</sup> 2183.2   |
-|         2134.0         |         2184.0         |
-|         2134.8         |  <sup>1</sup> 2184.8   |
-|         2135.6         |         2185.6         |
-|         2136.4         |  <sup>1</sup> 2186.4   |
-|         2137.2         |         2187.2         |
-|         2138.0         |  <sup>1</sup> 2188.0   |
-|         2139.6         |  <sup>1</sup> 2189.6   |
-|         2138.8         |         2188.8         |
-|         2140.4         |         2190.4         |
-|         2141.2         |  <sup>1</sup> 2191.2   |
-|         2142.0         |         2192.0         |
-|         2142.8         |  <sup>1</sup> 2192.8   |
-|         2143.6         |         2193.6         |
-|         2144.4         |  <sup>1</sup> 2194.4   |
-|         2145.2         |         2195.2         |
-|         2146.0         |  <sup>1</sup> 2196.0   |
-|         2146.8         |         2196.8         |
-|         2147.6         |  <sup>1</sup> 2197.6   |
-|         2148.4         |         2198.4         |
-|         2149.2         |         2199.2         |
-
-<sup>1</sup> Consideration will be given on a case-by-case basis to assigning these frequency pairs to systems employing 1600 KHz bandwidth transmissions.
+|                                                                 Transmit (receive) (MHz)                                                                 |Receive (transmit) (MHz)|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+|                                                                          2130.8                                                                          |         2180.8         |
+|                                                                          2131.6                                                                          |  <sup>1</sup> 2181.6   |
+|                                                                          2132.4                                                                          |         2182.4         |
+|                                                                          2133.2                                                                          |  <sup>1</sup> 2183.2   |
+|                                                                          2134.0                                                                          |         2184.0         |
+|                                                                          2134.8                                                                          |  <sup>1</sup> 2184.8   |
+|                                                                          2135.6                                                                          |         2185.6         |
+|                                                                          2136.4                                                                          |  <sup>1</sup> 2186.4   |
+|                                                                          2137.2                                                                          |         2187.2         |
+|                                                                          2138.0                                                                          |  <sup>1</sup> 2188.0   |
+|                                                                          2139.6                                                                          |  <sup>1</sup> 2189.6   |
+|                                                                          2138.8                                                                          |         2188.8         |
+|                                                                          2140.4                                                                          |         2190.4         |
+|                                                                          2141.2                                                                          |  <sup>1</sup> 2191.2   |
+|                                                                          2142.0                                                                          |         2192.0         |
+|                                                                          2142.8                                                                          |  <sup>1</sup> 2192.8   |
+|                                                                          2143.6                                                                          |         2193.6         |
+|                                                                          2144.4                                                                          |  <sup>1</sup> 2194.4   |
+|                                                                          2145.2                                                                          |         2195.2         |
+|                                                                          2146.0                                                                          |  <sup>1</sup> 2196.0   |
+|                                                                          2146.8                                                                          |         2196.8         |
+|                                                                          2147.6                                                                          |  <sup>1</sup> 2197.6   |
+|                                                                          2148.4                                                                          |         2198.4         |
+|                                                                          2149.2                                                                          |         2199.2         |
+|<sup>1</sup> Consideration will be given on a case-by-case basis to assigning these frequency pairs to systems employing 1600 KHz bandwidth transmissions.|                        |
 
 (e) [Reserved]
 
@@ -542,8 +477,6 @@ Paired Frequencies
 (2) Stations licensed in this band under this part prior to March 1, 1996, are grandfathered and may continue their authorized operations. Stations licensed in the 2483.5-2500 MHz portion of the band as of July 25, 1985, and licensees whose initial applications were filed on or before July 25, 1985, are grandfathered, and may continue operations, subject only to license renewal, on a co-primary basis with with the mobile-satellite and radiodetermination-satellite services, and in the segment 2495-2500 MHz, their operations are also on a co-primary basis with part 27 fixed and mobile except aeronautical mobile service operations.
 
 (3) 625 KHz bandwidth channels. The normal bandwidth authorized will be 625 KHz. Upon adequate justification, additional contiguous channels may be authorized to provide up to a 2500 KHz bandwidth.
-
-Paired Frequencies
 
 |Transmit (receive) (MHz)|Receive (transmit) (MHz)|
 |------------------------|------------------------|
@@ -580,23 +513,22 @@ Paired Frequencies
 
 20 MHz bandwidth channels:
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|          3710          |          3750          |
-|          3730          |          3770          |
-|          3790          |          3830          |
-|          3810          |          3850          |
-|          3870          |          3910          |
-|          3890          |          3930          |
-|          3950          |          3990          |
-|          3970          |          4010          |
-|          4030          |          4070          |
-|          4050          |          4090          |
-|          4110          |          4150          |
-|          4130          |          4170          |
-|          N/A           |   <sup>1</sup> 4190    |
-
-<sup>1</sup> This frequency may be assigned for unpaired use.
+|                  Transmit (receive) (MHz)                   |Receive (transmit) (MHz)|
+|-------------------------------------------------------------|------------------------|
+|                            3710                             |          3750          |
+|                            3730                             |          3770          |
+|                            3790                             |          3830          |
+|                            3810                             |          3850          |
+|                            3870                             |          3910          |
+|                            3890                             |          3930          |
+|                            3950                             |          3990          |
+|                            3970                             |          4010          |
+|                            4030                             |          4070          |
+|                            4050                             |          4090          |
+|                            4110                             |          4150          |
+|                            4130                             |          4170          |
+|                             N/A                             |   <sup>1</sup> 4190    |
+|<sup>1</sup> This frequency may be assigned for unpaired use.|                        |
 
 (i) *5,925 to 6,425 MHz.* 60 MHz authorized bandwidth.
 
@@ -648,125 +580,122 @@ Paired Frequencies
 
 (3) 1.25 MHz bandwidth channels:
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|        5925.625        |        6177.500        |
-|        5926.875        |        6178.750        |
-|        5928.125        |        6180.000        |
-|        5929.375        |        6181.250        |
-|        6108.893        |        6360.933        |
-|        6110.128        |        6362.168        |
-|        6111.364        |        6363.404        |
-|        6112.599        |        6364.639        |
-|        6113.834        |        6365.874        |
-|        6115.070        |        6367.110        |
-|        6116.305        |        6368.345        |
-|        6117.541        |        6369.581        |
-|        6118.776        |        6370.816        |
-|        6120.011        |        6372.051        |
-|        6121.247        |        6373.287        |
-|        6122.482        |        6374.522        |
-|        6123.718        |        6375.758        |
-|        6124.953        |        6376.993        |
-|        6126.189        |        6378.229        |
-|        6127.424        |        6379.464        |
-|        6128.659        |        6380.699        |
-|        6129.895        |        6381.935        |
-|        6131.130        |        6383.170        |
-|        6132.366        |        6384.406        |
-|        6133.601        |        6385.641        |
-|        6134.836        |        6386.876        |
-|        6136.072        |        6388.112        |
-|        6137.307        |        6389.347        |
-|        6138.543        |        6390.583        |
-|        6139.778        |        6391.818        |
-|        6141.014        |        6393.054        |
-|        6142.249        |        6394.289        |
-|        6143.484        |        6395.524        |
-|        6144.720        |        6396.760        |
-|        6145.955        |        6397.995        |
-|        6147.191        |        6399.231        |
-|        6148.426        |        6400.466        |
-|        6149.661        |        6401.701        |
-|        6150.897        |        6402.937        |
-|        6152.132        |        6404.172        |
-|        6153.368        |        6405.408        |
-|        6154.603        |        6406.643        |
-|        6155.839        |        6407.879        |
-|        6157.074        |        6409.114        |
-|        6158.309        |        6410.349        |
-|        6159.545        |        6411.585        |
-|        6160.780        |        6412.820        |
-|        6162.016        |        6414.056        |
-|        6163.251        |        6415.291        |
-|        6164.486        |        6416.526        |
-|        6165.722        |        6417.762        |
-|        6166.957        |        6418.997        |
-|        6168.750        |        6420.625        |
-|        6170.000        |        6421.875        |
-|        6171.250        |        6423.125        |
-|        6172.500        |        6424.375        |
-|  6173.750<sup>1</sup>  |          N/A           |
-|  6175.000<sup>1</sup>  |          N/A           |
-|  6176.250<sup>1</sup>  |          N/A           |
-
-<sup>1</sup> These frequencies may be assigned for unpaired use.
+|                    Transmit (receive) (MHz)                    |Receive (transmit) (MHz)|
+|----------------------------------------------------------------|------------------------|
+|                            5925.625                            |        6177.500        |
+|                            5926.875                            |        6178.750        |
+|                            5928.125                            |        6180.000        |
+|                            5929.375                            |        6181.250        |
+|                            6108.893                            |        6360.933        |
+|                            6110.128                            |        6362.168        |
+|                            6111.364                            |        6363.404        |
+|                            6112.599                            |        6364.639        |
+|                            6113.834                            |        6365.874        |
+|                            6115.070                            |        6367.110        |
+|                            6116.305                            |        6368.345        |
+|                            6117.541                            |        6369.581        |
+|                            6118.776                            |        6370.816        |
+|                            6120.011                            |        6372.051        |
+|                            6121.247                            |        6373.287        |
+|                            6122.482                            |        6374.522        |
+|                            6123.718                            |        6375.758        |
+|                            6124.953                            |        6376.993        |
+|                            6126.189                            |        6378.229        |
+|                            6127.424                            |        6379.464        |
+|                            6128.659                            |        6380.699        |
+|                            6129.895                            |        6381.935        |
+|                            6131.130                            |        6383.170        |
+|                            6132.366                            |        6384.406        |
+|                            6133.601                            |        6385.641        |
+|                            6134.836                            |        6386.876        |
+|                            6136.072                            |        6388.112        |
+|                            6137.307                            |        6389.347        |
+|                            6138.543                            |        6390.583        |
+|                            6139.778                            |        6391.818        |
+|                            6141.014                            |        6393.054        |
+|                            6142.249                            |        6394.289        |
+|                            6143.484                            |        6395.524        |
+|                            6144.720                            |        6396.760        |
+|                            6145.955                            |        6397.995        |
+|                            6147.191                            |        6399.231        |
+|                            6148.426                            |        6400.466        |
+|                            6149.661                            |        6401.701        |
+|                            6150.897                            |        6402.937        |
+|                            6152.132                            |        6404.172        |
+|                            6153.368                            |        6405.408        |
+|                            6154.603                            |        6406.643        |
+|                            6155.839                            |        6407.879        |
+|                            6157.074                            |        6409.114        |
+|                            6158.309                            |        6410.349        |
+|                            6159.545                            |        6411.585        |
+|                            6160.780                            |        6412.820        |
+|                            6162.016                            |        6414.056        |
+|                            6163.251                            |        6415.291        |
+|                            6164.486                            |        6416.526        |
+|                            6165.722                            |        6417.762        |
+|                            6166.957                            |        6418.997        |
+|                            6168.750                            |        6420.625        |
+|                            6170.000                            |        6421.875        |
+|                            6171.250                            |        6423.125        |
+|                            6172.500                            |        6424.375        |
+|                     6173.750 <sup>1</sup>                      |          N/A           |
+|                     6175.000 <sup>1</sup>                      |          N/A           |
+|                     6176.250 <sup>1</sup>                      |          N/A           |
+|<sup>1</sup> These frequencies may be assigned for unpaired use.|                        |
 
 (4) 2.5 MHz bandwidth channels:
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|        5926.250        |        6178.125        |
-|        5928.750        |        6180.625        |
-|        6109.510        |        6361.550        |
-|        6111.981        |        6364.021        |
-|        6114.452        |        6366.492        |
-|        6116.923        |        6368.963        |
-|        6119.394        |        6371.434        |
-|        6121.865        |        6373.905        |
-|        6124.335        |        6376.375        |
-|        6126.806        |        6378.846        |
-|        6129.277        |        6381.317        |
-|        6131.748        |        6383.788        |
-|        6134.219        |        6386.259        |
-|        6136.690        |        6388.730        |
-|        6139.160        |        6391.200        |
-|        6141.631        |        6393.671        |
-|        6144.102        |        6396.142        |
-|        6146.573        |        6398.613        |
-|        6149.044        |        6401.084        |
-|        6151.515        |        6403.555        |
-|        6153.985        |        6406.025        |
-|        6156.456        |        6408.496        |
-|        6158.927        |        6410.967        |
-|        6161.398        |        6413.438        |
-|        6163.869        |        6415.909        |
-|        6166.340        |        6418.380        |
-|        6169.375        |        6421.250        |
-|        6171.875        |        6423.750        |
-|  6175.625<sup>1</sup>  |          N/A           |
-
-<sup>1</sup> This frequency may be assigned for unpaired use.
+|                  Transmit (receive) (MHz)                   |Receive (transmit) (MHz)|
+|-------------------------------------------------------------|------------------------|
+|                          5926.250                           |        6178.125        |
+|                          5928.750                           |        6180.625        |
+|                          6109.510                           |        6361.550        |
+|                          6111.981                           |        6364.021        |
+|                          6114.452                           |        6366.492        |
+|                          6116.923                           |        6368.963        |
+|                          6119.394                           |        6371.434        |
+|                          6121.865                           |        6373.905        |
+|                          6124.335                           |        6376.375        |
+|                          6126.806                           |        6378.846        |
+|                          6129.277                           |        6381.317        |
+|                          6131.748                           |        6383.788        |
+|                          6134.219                           |        6386.259        |
+|                          6136.690                           |        6388.730        |
+|                          6139.160                           |        6391.200        |
+|                          6141.631                           |        6393.671        |
+|                          6144.102                           |        6396.142        |
+|                          6146.573                           |        6398.613        |
+|                          6149.044                           |        6401.084        |
+|                          6151.515                           |        6403.555        |
+|                          6153.985                           |        6406.025        |
+|                          6156.456                           |        6408.496        |
+|                          6158.927                           |        6410.967        |
+|                          6161.398                           |        6413.438        |
+|                          6163.869                           |        6415.909        |
+|                          6166.340                           |        6418.380        |
+|                          6169.375                           |        6421.250        |
+|                          6171.875                           |        6423.750        |
+|                    6175.625 <sup>1</sup>                    |          N/A           |
+|<sup>1</sup> This frequency may be assigned for unpaired use.|                        |
 
 (5) 3.75 MHz bandwidth channels:
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|        6111.364        |        6363.404        |
-|        6116.305        |        6368.345        |
-|        6121.247        |        6373.287        |
-|        6126.189        |        6378.229        |
-|        6131.130        |        6383.170        |
-|        6136.072        |        6388.112        |
-|        6141.014        |        6393.054        |
-|        6145.955        |        6397.995        |
-|        6150.897        |        6402.937        |
-|        6155.839        |        6407.879        |
-|        6160.780        |        6412.820        |
-|        6165.722        |        6417.762        |
-|  6175.000<sup>1</sup>  |          N/A           |
-
-<sup>1</sup> This frequency may be assigned for unpaired use.
+|                  Transmit (receive) (MHz)                   |Receive (transmit) (MHz)|
+|-------------------------------------------------------------|------------------------|
+|                          6111.364                           |        6363.404        |
+|                          6116.305                           |        6368.345        |
+|                          6121.247                           |        6373.287        |
+|                          6126.189                           |        6378.229        |
+|                          6131.130                           |        6383.170        |
+|                          6136.072                           |        6388.112        |
+|                          6141.014                           |        6393.054        |
+|                          6145.955                           |        6397.995        |
+|                          6150.897                           |        6402.937        |
+|                          6155.839                           |        6407.879        |
+|                          6160.780                           |        6412.820        |
+|                          6165.722                           |        6417.762        |
+|                    6175.000 <sup>1</sup>                    |          N/A           |
+|<sup>1</sup> This frequency may be assigned for unpaired use.|                        |
 
 (6) 5 MHz bandwidth channels:
 
@@ -787,49 +716,47 @@ Paired Frequencies
 
 (7) 10 MHz bandwidth channels:
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|        5935.32         |        6187.36         |
-|        5945.20         |        6197.24         |
-|        5955.08         |        6207.12         |
-|        5964.97         |        6217.01         |
-|        5974.85         |        6226.89         |
-|        5984.73         |        6236.77         |
-|        5994.62         |        6246.66         |
-|        6004.50         |        6256.54         |
-|        6014.38         |        6266.42         |
-|        6024.27         |        6276.31         |
-|        6034.15         |        6286.19         |
-|        6044.03         |        6296.07         |
-|        6053.92         |        6305.96         |
-|        6063.80         |        6315.84         |
-|        6073.68         |        6325.72         |
-|        6083.57         |        6335.61         |
-|        6093.45         |        6345.49         |
-|        6103.33         |        6355.37         |
-|  6113.22<sup>1</sup>   |  <sup>1</sup> 6365.26  |
-|  6123.10<sup>1</sup>   |  <sup>1</sup> 6375.14  |
-|  6132.98<sup>1</sup>   |  <sup>1</sup> 6385.02  |
-|  6142.87<sup>1</sup>   |  <sup>1</sup> 6394.91  |
-|  6152.75<sup>1</sup>   |  <sup>1</sup> 6404.79  |
-|  6162.63<sup>1</sup>   |  <sup>1</sup> 6414.67  |
-
-<sup>1</sup> Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked.
+|                                                              Transmit (receive) (MHz)                                                               |Receive (transmit) (MHz)|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+|                                                                       5935.32                                                                       |        6187.36         |
+|                                                                       5945.20                                                                       |        6197.24         |
+|                                                                       5955.08                                                                       |        6207.12         |
+|                                                                       5964.97                                                                       |        6217.01         |
+|                                                                       5974.85                                                                       |        6226.89         |
+|                                                                       5984.73                                                                       |        6236.77         |
+|                                                                       5994.62                                                                       |        6246.66         |
+|                                                                       6004.50                                                                       |        6256.54         |
+|                                                                       6014.38                                                                       |        6266.42         |
+|                                                                       6024.27                                                                       |        6276.31         |
+|                                                                       6034.15                                                                       |        6286.19         |
+|                                                                       6044.03                                                                       |        6296.07         |
+|                                                                       6053.92                                                                       |        6305.96         |
+|                                                                       6063.80                                                                       |        6315.84         |
+|                                                                       6073.68                                                                       |        6325.72         |
+|                                                                       6083.57                                                                       |        6335.61         |
+|                                                                       6093.45                                                                       |        6345.49         |
+|                                                                       6103.33                                                                       |        6355.37         |
+|                                                                6113.22 <sup>1</sup>                                                                 |  <sup>1</sup> 6365.26  |
+|                                                                6123.10 <sup>1</sup>                                                                 |  <sup>1</sup> 6375.14  |
+|                                                                6132.98 <sup>1</sup>                                                                 |  <sup>1</sup> 6385.02  |
+|                                                                6142.87 <sup>1</sup>                                                                 |  <sup>1</sup> 6394.91  |
+|                                                                6152.75 <sup>1</sup>                                                                 |  <sup>1</sup> 6404.79  |
+|                                                                6162.63 <sup>1</sup>                                                                 |  <sup>1</sup> 6414.67  |
+|<sup>1</sup> Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked.|                        |
 
 (8) 30 MHz bandwidth channels:
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|        5945.20         |        6197.24         |
-|        5974.85         |        6226.89         |
-|        6004.50         |        6256.54         |
-|        6034.15         |        6286.19         |
-|        6063.80         |        6315.84         |
-|        6093.45         |        6345.49         |
-|  6123.10<sup>1</sup>   |  <sup>1</sup> 6375.14  |
-|  6152.75<sup>1</sup>   |  <sup>1</sup> 6404.79  |
-
-<sup>1</sup> Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked.
+|                                                              Transmit (receive) (MHz)                                                               |Receive (transmit) (MHz)|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+|                                                                       5945.20                                                                       |        6197.24         |
+|                                                                       5974.85                                                                       |        6226.89         |
+|                                                                       6004.50                                                                       |        6256.54         |
+|                                                                       6034.15                                                                       |        6286.19         |
+|                                                                       6063.80                                                                       |        6315.84         |
+|                                                                       6093.45                                                                       |        6345.49         |
+|                                                                6123.10 <sup>1</sup>                                                                 |  <sup>1</sup> 6375.14  |
+|                                                                6152.75 <sup>1</sup>                                                                 |  <sup>1</sup> 6404.79  |
+|<sup>1</sup> Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked.|                        |
 
 (9) 60 MHz bandwidth channels:1
 
@@ -899,317 +826,311 @@ Paired Frequencies
 
 (3) 1.25 MHz bandwidth channels:
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|        6525.625        |        6870.625        |
-|        6526.875        |        6871.875        |
-|        6528.125        |        6873.125        |
-|        6529.375        |        6874.375        |
-|  6540.625<sup>1</sup>  | <sup>1</sup> 6718.125  |
-|  6541.875<sup>1</sup>  | <sup>1</sup> 6719.375  |
-|  6543.125<sup>1</sup>  | <sup>1</sup> 6713.125  |
-|  6544.375<sup>1</sup>  | <sup>1</sup> 6714.375  |
-|  6545.625<sup>1</sup>  | <sup>1</sup> 6715.625  |
-|  6546.875<sup>1</sup>  | <sup>1</sup> 6716.875  |
-|        6548.125        |        6728.125        |
-|        6549.375        |        6729.375        |
-|        6550.625        |        6730.625        |
-|        6551.875        |        6731.875        |
-|  6553.125<sup>1</sup>  | <sup>1</sup> 6723.125  |
-|  6554.375<sup>1</sup>  | <sup>1</sup> 6724.375  |
-|  6555.625<sup>1</sup>  | <sup>1</sup> 6725.625  |
-|  6556.875<sup>1</sup>  | <sup>1</sup> 6726.875  |
-|        6558.125        |        6738.125        |
-|        6559.375        |        6739.375        |
-|        6560.625        |        6740.625        |
-|        6561.875        |        6741.875        |
-|        6563.125        |        6733.125        |
-|        6564.375        |        6734.375        |
-|        6565.625        |        6735.625        |
-|        6566.875        |        6736.875        |
-|  6568.125<sup>1</sup>  | <sup>1</sup> 6720.625  |
-|  6569.375<sup>1</sup>  | <sup>1</sup> 6721.875  |
-|  6580.625<sup>1</sup>  | <sup>1</sup> 6868.125  |
-|  6581.875<sup>1</sup>  | <sup>1</sup> 6869.375  |
-|        6583.125        |        6743.125        |
-|        6584.375        |        6744.375        |
-|        6585.625        |        6745.625        |
-|        6586.875        |        6746.875        |
-|        6588.125        |        6748.125        |
-|        6589.375        |        6749.375        |
-|        6590.625        |        6750.625        |
-|        6591.875        |        6751.875        |
-|        6593.125        |        6753.125        |
-|        6594.375        |        6754.375        |
-|        6595.625        |        6755.625        |
-|        6596.875        |        6756.875        |
-|        6598.125        |        6758.125        |
-|        6599.375        |        6759.375        |
-|        6600.625        |        6760.625        |
-|        6601.875        |        6761.875        |
-|        6603.125        |        6763.125        |
-|        6604.375        |        6764.375        |
-|        6605.625        |        6765.625        |
-|        6606.875        |        6766.875        |
-|        6608.125        |        6768.125        |
-|        6609.375        |        6769.375        |
-|        6610.625        |        6770.625        |
-|        6611.875        |        6771.875        |
-|        6613.125        |        6773.125        |
-|        6614.375        |        6774.375        |
-|        6615.625        |        6775.625        |
-|        6616.875        |        6776.875        |
-|        6618.125        |        6778.125        |
-|        6619.375        |        6779.375        |
-|        6620.625        |        6780.625        |
-|        6621.875        |        6781.875        |
-|        6623.125        |        6783.125        |
-|        6624.375        |        6784.375        |
-|        6625.625        |        6785.625        |
-|        6626.875        |        6786.875        |
-|        6628.125        |        6788.125        |
-|        6629.375        |        6789.375        |
-|        6630.625        |        6790.625        |
-|        6631.875        |        6791.875        |
-|        6633.125        |        6793.125        |
-|        6634.375        |        6794.375        |
-|        6635.625        |        6795.625        |
-|        6636.875        |        6796.875        |
-|        6638.125        |        6798.125        |
-|        6639.375        |        6799.375        |
-|        6640.625        |        6800.625        |
-|        6641.875        |        6801.875        |
-|        6643.125        |        6803.125        |
-|        6644.375        |        6804.375        |
-|        6645.625        |        6805.625        |
-|        6646.875        |        6806.875        |
-|        6648.125        |        6808.125        |
-|        6649.375        |        6809.375        |
-|        6650.625        |        6810.625        |
-|        6651.875        |        6811.875        |
-|        6653.125        |        6813.125        |
-|        6654.375        |        6814.375        |
-|        6655.625        |        6815.625        |
-|        6656.875        |        6816.875        |
-|        6658.125        |        6818.125        |
-|        6659.375        |        6819.375        |
-|        6660.625        |        6820.625        |
-|        6661.875        |        6821.875        |
-|        6663.125        |        6823.125        |
-|        6664.375        |        6824.375        |
-|        6665.625        |        6825.625        |
-|        6666.875        |        6826.875        |
-|        6668.125        |        6828.125        |
-|        6669.375        |        6829.375        |
-|        6670.625        |        6830.625        |
-|        6671.875        |        6831.875        |
-|        6673.125        |        6833.125        |
-|        6674.375        |        6834.375        |
-|        6675.625        |        6835.625        |
-|        6676.875        |        6836.875        |
-|        6678.125        |        6838.125        |
-|        6679.375        |        6839.375        |
-|        6680.625        |        6840.625        |
-|        6681.875        |        6841.875        |
-|        6683.125        |        6843.125        |
-|        6684.375        |        6844.375        |
-|        6685.625        |        6845.625        |
-|        6686.875        |        6846.875        |
-|        6688.125        |        6848.125        |
-|        6689.375        |        6849.375        |
-|        6690.625        |        6850.625        |
-|        6691.875        |        6851.875        |
-|        6693.125        |        6853.125        |
-|        6694.375        |        6854.375        |
-|        6695.625        |        6855.625        |
-|        6696.875        |        6856.875        |
-|        6698.125        |        6858.125        |
-|        6699.375        |        6859.375        |
-|        6700.625        |        6860.625        |
-|        6701.875        |        6861.875        |
-|        6703.125        |        6863.125        |
-|        6704.375        |        6864.375        |
-|        6705.625        |        6865.625        |
-|        6706.875        |        6866.875        |
-|  6708.125<sup>1</sup>  | <sup>1</sup> 6710.625  |
-|  6709.375<sup>1</sup>  | <sup>1</sup> 6711.875  |
-
-<sup>1</sup> These frequencies may be assigned for unpaired use.
+|                    Transmit (receive) (MHz)                    |Receive (transmit) (MHz)|
+|----------------------------------------------------------------|------------------------|
+|                            6525.625                            |        6870.625        |
+|                            6526.875                            |        6871.875        |
+|                            6528.125                            |        6873.125        |
+|                            6529.375                            |        6874.375        |
+|                     6540.625 <sup>1</sup>                      | <sup>1</sup> 6718.125  |
+|                     6541.875 <sup>1</sup>                      | <sup>1</sup> 6719.375  |
+|                     6543.125 <sup>1</sup>                      | <sup>1</sup> 6713.125  |
+|                     6544.375 <sup>1</sup>                      | <sup>1</sup> 6714.375  |
+|                     6545.625 <sup>1</sup>                      | <sup>1</sup> 6715.625  |
+|                     6546.875 <sup>1</sup>                      | <sup>1</sup> 6716.875  |
+|                            6548.125                            |        6728.125        |
+|                            6549.375                            |        6729.375        |
+|                            6550.625                            |        6730.625        |
+|                            6551.875                            |        6731.875        |
+|                     6553.125 <sup>1</sup>                      | <sup>1</sup> 6723.125  |
+|                     6554.375 <sup>1</sup>                      | <sup>1</sup> 6724.375  |
+|                     6555.625 <sup>1</sup>                      | <sup>1</sup> 6725.625  |
+|                     6556.875 <sup>1</sup>                      | <sup>1</sup> 6726.875  |
+|                            6558.125                            |        6738.125        |
+|                            6559.375                            |        6739.375        |
+|                            6560.625                            |        6740.625        |
+|                            6561.875                            |        6741.875        |
+|                            6563.125                            |        6733.125        |
+|                            6564.375                            |        6734.375        |
+|                            6565.625                            |        6735.625        |
+|                            6566.875                            |        6736.875        |
+|                     6568.125 <sup>1</sup>                      | <sup>1</sup> 6720.625  |
+|                     6569.375 <sup>1</sup>                      | <sup>1</sup> 6721.875  |
+|                     6580.625 <sup>1</sup>                      | <sup>1</sup> 6868.125  |
+|                     6581.875 <sup>1</sup>                      | <sup>1</sup> 6869.375  |
+|                            6583.125                            |        6743.125        |
+|                            6584.375                            |        6744.375        |
+|                            6585.625                            |        6745.625        |
+|                            6586.875                            |        6746.875        |
+|                            6588.125                            |        6748.125        |
+|                            6589.375                            |        6749.375        |
+|                            6590.625                            |        6750.625        |
+|                            6591.875                            |        6751.875        |
+|                            6593.125                            |        6753.125        |
+|                            6594.375                            |        6754.375        |
+|                            6595.625                            |        6755.625        |
+|                            6596.875                            |        6756.875        |
+|                            6598.125                            |        6758.125        |
+|                            6599.375                            |        6759.375        |
+|                            6600.625                            |        6760.625        |
+|                            6601.875                            |        6761.875        |
+|                            6603.125                            |        6763.125        |
+|                            6604.375                            |        6764.375        |
+|                            6605.625                            |        6765.625        |
+|                            6606.875                            |        6766.875        |
+|                            6608.125                            |        6768.125        |
+|                            6609.375                            |        6769.375        |
+|                            6610.625                            |        6770.625        |
+|                            6611.875                            |        6771.875        |
+|                            6613.125                            |        6773.125        |
+|                            6614.375                            |        6774.375        |
+|                            6615.625                            |        6775.625        |
+|                            6616.875                            |        6776.875        |
+|                            6618.125                            |        6778.125        |
+|                            6619.375                            |        6779.375        |
+|                            6620.625                            |        6780.625        |
+|                            6621.875                            |        6781.875        |
+|                            6623.125                            |        6783.125        |
+|                            6624.375                            |        6784.375        |
+|                            6625.625                            |        6785.625        |
+|                            6626.875                            |        6786.875        |
+|                            6628.125                            |        6788.125        |
+|                            6629.375                            |        6789.375        |
+|                            6630.625                            |        6790.625        |
+|                            6631.875                            |        6791.875        |
+|                            6633.125                            |        6793.125        |
+|                            6634.375                            |        6794.375        |
+|                            6635.625                            |        6795.625        |
+|                            6636.875                            |        6796.875        |
+|                            6638.125                            |        6798.125        |
+|                            6639.375                            |        6799.375        |
+|                            6640.625                            |        6800.625        |
+|                            6641.875                            |        6801.875        |
+|                            6643.125                            |        6803.125        |
+|                            6644.375                            |        6804.375        |
+|                            6645.625                            |        6805.625        |
+|                            6646.875                            |        6806.875        |
+|                            6648.125                            |        6808.125        |
+|                            6649.375                            |        6809.375        |
+|                            6650.625                            |        6810.625        |
+|                            6651.875                            |        6811.875        |
+|                            6653.125                            |        6813.125        |
+|                            6654.375                            |        6814.375        |
+|                            6655.625                            |        6815.625        |
+|                            6656.875                            |        6816.875        |
+|                            6658.125                            |        6818.125        |
+|                            6659.375                            |        6819.375        |
+|                            6660.625                            |        6820.625        |
+|                            6661.875                            |        6821.875        |
+|                            6663.125                            |        6823.125        |
+|                            6664.375                            |        6824.375        |
+|                            6665.625                            |        6825.625        |
+|                            6666.875                            |        6826.875        |
+|                            6668.125                            |        6828.125        |
+|                            6669.375                            |        6829.375        |
+|                            6670.625                            |        6830.625        |
+|                            6671.875                            |        6831.875        |
+|                            6673.125                            |        6833.125        |
+|                            6674.375                            |        6834.375        |
+|                            6675.625                            |        6835.625        |
+|                            6676.875                            |        6836.875        |
+|                            6678.125                            |        6838.125        |
+|                            6679.375                            |        6839.375        |
+|                            6680.625                            |        6840.625        |
+|                            6681.875                            |        6841.875        |
+|                            6683.125                            |        6843.125        |
+|                            6684.375                            |        6844.375        |
+|                            6685.625                            |        6845.625        |
+|                            6686.875                            |        6846.875        |
+|                            6688.125                            |        6848.125        |
+|                            6689.375                            |        6849.375        |
+|                            6690.625                            |        6850.625        |
+|                            6691.875                            |        6851.875        |
+|                            6693.125                            |        6853.125        |
+|                            6694.375                            |        6854.375        |
+|                            6695.625                            |        6855.625        |
+|                            6696.875                            |        6856.875        |
+|                            6698.125                            |        6858.125        |
+|                            6699.375                            |        6859.375        |
+|                            6700.625                            |        6860.625        |
+|                            6701.875                            |        6861.875        |
+|                            6703.125                            |        6863.125        |
+|                            6704.375                            |        6864.375        |
+|                            6705.625                            |        6865.625        |
+|                            6706.875                            |        6866.875        |
+|                     6708.125 <sup>1</sup>                      | <sup>1</sup> 6710.625  |
+|                     6709.375 <sup>1</sup>                      | <sup>1</sup> 6711.875  |
+|<sup>1</sup> These frequencies may be assigned for unpaired use.|                        |
 
 (4) 2.5 MHz bandwidth channels:
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|        6526.25         |        6871.25         |
-|        6528.75         |        6873.75         |
-|  6541.25<sup>1</sup>   |  <sup>1</sup> 6718.75  |
-|  6543.75<sup>1</sup>   |  <sup>1</sup> 6713.75  |
-|  6546.25<sup>1</sup>   |  <sup>1</sup> 6716.25  |
-|        6548.75         |        6728.75         |
-|        6551.25         |        6731.25         |
-|  6553.75<sup>1</sup>   |  <sup>1</sup> 6723.75  |
-|  6556.25<sup>1</sup>   |  <sup>1</sup> 6726.25  |
-|        6558.75         |        6738.75         |
-|        6561.25         |        6741.25         |
-|        6563.75         |        6733.75         |
-|        6566.25         |        6736.25         |
-|  6568.75<sup>1</sup>   |  <sup>1</sup> 6721.25  |
-|  6581.25<sup>1</sup>   |  <sup>1</sup> 6868.75  |
-|        6583.75         |        6743.75         |
-|        6586.25         |        6746.25         |
-|        6588.75         |        6748.75         |
-|        6591.25         |        6751.25         |
-|        6593.75         |        6753.75         |
-|        6596.25         |        6756.25         |
-|        6598.75         |        6758.75         |
-|        6601.25         |        6761.25         |
-|        6603.75         |        6763.75         |
-|        6606.25         |        6766.25         |
-|        6608.75         |        6768.75         |
-|        6611.25         |        6771.25         |
-|        6613.75         |        6773.75         |
-|        6616.25         |        6776.25         |
-|        6618.75         |        6778.75         |
-|        6621.25         |        6781.25         |
-|        6623.75         |        6783.75         |
-|        6626.25         |        6786.25         |
-|        6628.75         |        6788.75         |
-|        6631.25         |        6791.25         |
-|        6633.75         |        6793.75         |
-|        6636.25         |        6796.25         |
-|        6638.75         |        6798.75         |
-|        6641.25         |        6801.25         |
-|        6643.75         |        6803.75         |
-|        6646.25         |        6806.25         |
-|        6648.75         |        6808.75         |
-|        6651.25         |        6811.25         |
-|        6653.75         |        6813.75         |
-|        6656.25         |        6816.25         |
-|        6658.75         |        6818.75         |
-|        6661.25         |        6821.25         |
-|        6663.75         |        6823.75         |
-|        6666.25         |        6826.25         |
-|        6668.75         |        6828.75         |
-|        6671.25         |        6831.25         |
-|        6673.75         |        6833.75         |
-|        6676.25         |        6836.25         |
-|        6678.75         |        6838.75         |
-|        6681.25         |        6841.25         |
-|        6683.75         |        6843.75         |
-|        6686.25         |        6846.25         |
-|        6688.75         |        6848.75         |
-|        6691.25         |        6851.25         |
-|        6693.75         |        6853.75         |
-|        6696.25         |        6856.25         |
-|        6698.75         |        6858.75         |
-|        6701.25         |        6861.25         |
-|        6703.75         |        6863.75         |
-|        6706.25         |        6866.25         |
-|  6708.75<sup>1</sup>   |  <sup>1</sup> 6711.25  |
-
-<sup>1</sup> These frequencies may be assigned for unpaired use.
+|                    Transmit (receive) (MHz)                    |Receive (transmit) (MHz)|
+|----------------------------------------------------------------|------------------------|
+|                            6526.25                             |        6871.25         |
+|                            6528.75                             |        6873.75         |
+|                      6541.25 <sup>1</sup>                      |  <sup>1</sup> 6718.75  |
+|                      6543.75 <sup>1</sup>                      |  <sup>1</sup> 6713.75  |
+|                      6546.25 <sup>1</sup>                      |  <sup>1</sup> 6716.25  |
+|                            6548.75                             |        6728.75         |
+|                            6551.25                             |        6731.25         |
+|                      6553.75 <sup>1</sup>                      |  <sup>1</sup> 6723.75  |
+|                      6556.25 <sup>1</sup>                      |  <sup>1</sup> 6726.25  |
+|                            6558.75                             |        6738.75         |
+|                            6561.25                             |        6741.25         |
+|                            6563.75                             |        6733.75         |
+|                            6566.25                             |        6736.25         |
+|                      6568.75 <sup>1</sup>                      |  <sup>1</sup> 6721.25  |
+|                      6581.25 <sup>1</sup>                      |  <sup>1</sup> 6868.75  |
+|                            6583.75                             |        6743.75         |
+|                            6586.25                             |        6746.25         |
+|                            6588.75                             |        6748.75         |
+|                            6591.25                             |        6751.25         |
+|                            6593.75                             |        6753.75         |
+|                            6596.25                             |        6756.25         |
+|                            6598.75                             |        6758.75         |
+|                            6601.25                             |        6761.25         |
+|                            6603.75                             |        6763.75         |
+|                            6606.25                             |        6766.25         |
+|                            6608.75                             |        6768.75         |
+|                            6611.25                             |        6771.25         |
+|                            6613.75                             |        6773.75         |
+|                            6616.25                             |        6776.25         |
+|                            6618.75                             |        6778.75         |
+|                            6621.25                             |        6781.25         |
+|                            6623.75                             |        6783.75         |
+|                            6626.25                             |        6786.25         |
+|                            6628.75                             |        6788.75         |
+|                            6631.25                             |        6791.25         |
+|                            6633.75                             |        6793.75         |
+|                            6636.25                             |        6796.25         |
+|                            6638.75                             |        6798.75         |
+|                            6641.25                             |        6801.25         |
+|                            6643.75                             |        6803.75         |
+|                            6646.25                             |        6806.25         |
+|                            6648.75                             |        6808.75         |
+|                            6651.25                             |        6811.25         |
+|                            6653.75                             |        6813.75         |
+|                            6656.25                             |        6816.25         |
+|                            6658.75                             |        6818.75         |
+|                            6661.25                             |        6821.25         |
+|                            6663.75                             |        6823.75         |
+|                            6666.25                             |        6826.25         |
+|                            6668.75                             |        6828.75         |
+|                            6671.25                             |        6831.25         |
+|                            6673.75                             |        6833.75         |
+|                            6676.25                             |        6836.25         |
+|                            6678.75                             |        6838.75         |
+|                            6681.25                             |        6841.25         |
+|                            6683.75                             |        6843.75         |
+|                            6686.25                             |        6846.25         |
+|                            6688.75                             |        6848.75         |
+|                            6691.25                             |        6851.25         |
+|                            6693.75                             |        6853.75         |
+|                            6696.25                             |        6856.25         |
+|                            6698.75                             |        6858.75         |
+|                            6701.25                             |        6861.25         |
+|                            6703.75                             |        6863.75         |
+|                            6706.25                             |        6866.25         |
+|                      6708.75 <sup>1</sup>                      |  <sup>1</sup> 6711.25  |
+|<sup>1</sup> These frequencies may be assigned for unpaired use.|                        |
 
 (5) 3.75 MHz bandwidth channels:
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|  6545.625<sup>1</sup>  |  6715.625<sup>1</sup>  |
-|        6550.625        |        6730.625        |
-|  6555.625<sup>1</sup>  |  6725.625<sup>1</sup>  |
-|        6560.625        |        6740.625        |
-|        6565.625        |        6735.625        |
-|        6585.625        |        6745.625        |
-|        6590.625        |        6750.625        |
-|        6595.625        |        6755.625        |
-|        6600.625        |        6760.625        |
-|        6605.625        |        6765.625        |
-|        6610.625        |        6770.625        |
-|        6615.625        |        6775.625        |
-|        6620.625        |        6780.625        |
-|        6625.625        |        6785.625        |
-|        6630.625        |        6790.625        |
-|        6635.625        |        6795.625        |
-|        6640.625        |        6800.625        |
-|        6645.625        |        6805.625        |
-|        6650.625        |        6810.625        |
-|        6655.625        |        6815.625        |
-|        6660.625        |        6820.625        |
-|        6665.625        |        6825.625        |
-|        6670.625        |        6830.625        |
-|        6675.625        |        6835.625        |
-|        6680.625        |        6840.625        |
-|        6685.625        |        6845.625        |
-|        6690.625        |        6850.625        |
-|        6695.625        |        6855.625        |
-|        6700.625        |        6860.625        |
-|        6705.625        |        6865.625        |
-|  6710.625<sup>1</sup>  | <sup>1</sup> 6720.625  |
-
-<sup>1</sup> These frequencies may be assigned for unpaired use.
+|                    Transmit (receive) (MHz)                    |Receive (transmit) (MHz)|
+|----------------------------------------------------------------|------------------------|
+|                     6545.625 <sup>1</sup>                      | 6715.625 <sup>1</sup>  |
+|                            6550.625                            |        6730.625        |
+|                     6555.625 <sup>1</sup>                      | 6725.625 <sup>1</sup>  |
+|                            6560.625                            |        6740.625        |
+|                            6565.625                            |        6735.625        |
+|                            6585.625                            |        6745.625        |
+|                            6590.625                            |        6750.625        |
+|                            6595.625                            |        6755.625        |
+|                            6600.625                            |        6760.625        |
+|                            6605.625                            |        6765.625        |
+|                            6610.625                            |        6770.625        |
+|                            6615.625                            |        6775.625        |
+|                            6620.625                            |        6780.625        |
+|                            6625.625                            |        6785.625        |
+|                            6630.625                            |        6790.625        |
+|                            6635.625                            |        6795.625        |
+|                            6640.625                            |        6800.625        |
+|                            6645.625                            |        6805.625        |
+|                            6650.625                            |        6810.625        |
+|                            6655.625                            |        6815.625        |
+|                            6660.625                            |        6820.625        |
+|                            6665.625                            |        6825.625        |
+|                            6670.625                            |        6830.625        |
+|                            6675.625                            |        6835.625        |
+|                            6680.625                            |        6840.625        |
+|                            6685.625                            |        6845.625        |
+|                            6690.625                            |        6850.625        |
+|                            6695.625                            |        6855.625        |
+|                            6700.625                            |        6860.625        |
+|                            6705.625                            |        6865.625        |
+|                     6710.625 <sup>1</sup>                      | <sup>1</sup> 6720.625  |
+|<sup>1</sup> These frequencies may be assigned for unpaired use.|                        |
 
 (6) 5 MHz bandwidth channels:
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|    6545<sup>1</sup>    |    <sup>1</sup>6715    |
-|          6550          |          6730          |
-|    6555<sup>1</sup>    |   <sup>1</sup> 6725    |
-|          6560          |          6740          |
-|          6565          |          6735          |
-|          6585          |          6745          |
-|          6590          |          6750          |
-|          6595          |          6755          |
-|          6600          |          6760          |
-|          6605          |          6765          |
-|          6610          |          6770          |
-|          6615          |          6775          |
-|          6620          |          6780          |
-|          6625          |          6785          |
-|          6630          |          6790          |
-|          6635          |          6795          |
-|          6640          |          6800          |
-|          6645          |          6805          |
-|          6650          |          6810          |
-|          6655          |          6815          |
-|          6660          |          6820          |
-|          6665          |          6825          |
-|          6670          |          6830          |
-|          6675          |          6835          |
-|          6680          |          6840          |
-|          6685          |          6845          |
-|          6690          |          6850          |
-|          6695          |          6855          |
-|          6700          |          6860          |
-|          6705          |          6865          |
-|    6710<sup>1</sup>    |   <sup>1</sup> 6720    |
-
-<sup>1</sup> These frequencies may be assigned for unpaired use.
+|                    Transmit (receive) (MHz)                    |Receive (transmit) (MHz)|
+|----------------------------------------------------------------|------------------------|
+|                       6545 <sup>1</sup>                        |   <sup>1</sup> 6715    |
+|                              6550                              |          6730          |
+|                       6555 <sup>1</sup>                        |   <sup>1</sup> 6725    |
+|                              6560                              |          6740          |
+|                              6565                              |          6735          |
+|                              6585                              |          6745          |
+|                              6590                              |          6750          |
+|                              6595                              |          6755          |
+|                              6600                              |          6760          |
+|                              6605                              |          6765          |
+|                              6610                              |          6770          |
+|                              6615                              |          6775          |
+|                              6620                              |          6780          |
+|                              6625                              |          6785          |
+|                              6630                              |          6790          |
+|                              6635                              |          6795          |
+|                              6640                              |          6800          |
+|                              6645                              |          6805          |
+|                              6650                              |          6810          |
+|                              6655                              |          6815          |
+|                              6660                              |          6820          |
+|                              6665                              |          6825          |
+|                              6670                              |          6830          |
+|                              6675                              |          6835          |
+|                              6680                              |          6840          |
+|                              6685                              |          6845          |
+|                              6690                              |          6850          |
+|                              6695                              |          6855          |
+|                              6700                              |          6860          |
+|                              6705                              |          6865          |
+|                       6710 <sup>1</sup>                        |   <sup>1</sup> 6720    |
+|<sup>1</sup> These frequencies may be assigned for unpaired use.|                        |
 
 (7) 10 MHz bandwidth channels:
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|    6545<sup>1</sup>    |   <sup>1</sup> 6715    |
-|    6555<sup>1</sup>    |   <sup>1</sup> 6725    |
-|          6565          |          6735          |
-|          6585          |          6745          |
-|          6595          |          6755          |
-|          6605          |          6765          |
-|          6615          |          6775          |
-|          6625          |          6785          |
-|          6635          |          6795          |
-|          6645          |          6805          |
-|          6655          |          6815          |
-|          6665          |          6825          |
-|          6675          |          6835          |
-|          6685          |          6845          |
-|          6695          |          6855          |
-|          6705          |          6865          |
-|    6535<sup>2</sup>    |   <sup>2</sup> 6575    |
-
-<sup>1</sup> These frequencies may be assigned for unpaired use.
-
-<sup>2</sup> Available only for emergency restoration, maintenance bypass, or other temporary-fixed purposes. Such uses are authorized on a non-interference basis to other frequencies in this band. Interference analysis required by § 101.105 does not apply to this frequency pair.
+|                                                                                                                                Transmit (receive) (MHz)                                                                                                                                |Receive (transmit) (MHz)|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+|                                                                                                                                   6545 <sup>1</sup>                                                                                                                                    |   <sup>1</sup> 6715    |
+|                                                                                                                                   6555 <sup>1</sup>                                                                                                                                    |   <sup>1</sup> 6725    |
+|                                                                                                                                          6565                                                                                                                                          |          6735          |
+|                                                                                                                                          6585                                                                                                                                          |          6745          |
+|                                                                                                                                          6595                                                                                                                                          |          6755          |
+|                                                                                                                                          6605                                                                                                                                          |          6765          |
+|                                                                                                                                          6615                                                                                                                                          |          6775          |
+|                                                                                                                                          6625                                                                                                                                          |          6785          |
+|                                                                                                                                          6635                                                                                                                                          |          6795          |
+|                                                                                                                                          6645                                                                                                                                          |          6805          |
+|                                                                                                                                          6655                                                                                                                                          |          6815          |
+|                                                                                                                                          6665                                                                                                                                          |          6825          |
+|                                                                                                                                          6675                                                                                                                                          |          6835          |
+|                                                                                                                                          6685                                                                                                                                          |          6845          |
+|                                                                                                                                          6695                                                                                                                                          |          6855          |
+|                                                                                                                                          6705                                                                                                                                          |          6865          |
+|                                                                                                                                   6535 <sup>2</sup>                                                                                                                                    |   <sup>2</sup> 6575    |
+|                                                                                                            <sup>1</sup> These frequencies may be assigned for unpaired use.                                                                                                            |                        |
+|<sup>2</sup> Available only for emergency restoration, maintenance bypass, or other temporary-fixed purposes. Such uses are authorized on a non-interference basis to other frequencies in this band. Interference analysis required by § 101.105 does not apply to this frequency pair.|                        |
 
 (8) 30 MHz bandwidth channels:
 
@@ -1394,36 +1315,35 @@ Paired Frequencies
 
 (4) 2.5 MHz bandwidth channels:
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|        10551.25        |        10616.25        |
-|        10553.75        |        10618.75        |
-|        10556.25        |        10621.25        |
-|        10558.75        |        10623.75        |
-|        10561.25        |        10626.25        |
-|        10563.75        |        10628.75        |
-|        10566.25        |        10631.25        |
-|        10568.75        |        10633.75        |
-|        10571.25        |        10636.25        |
-|        10573.75        |        10638.75        |
-|        10576.25        |        10641.25        |
-|        10578.75        |        10643.75        |
-|  10581.25<sup>1</sup>  | <sup>1</sup> 10646.25  |
-|  10583.75<sup>1</sup>  | <sup>1</sup> 10648.75  |
-|  10586.25<sup>1</sup>  | <sup>1</sup> 10651.25  |
-|  10588.75<sup>1</sup>  | <sup>1</sup> 10653.75  |
-|  10591.25<sup>1</sup>  | <sup>1</sup> 10656.25  |
-|  10593.75<sup>1</sup>  | <sup>1</sup> 10658.75  |
-|  10596.25<sup>1</sup>  | <sup>1</sup> 10661.25  |
-|  10598.75<sup>1</sup>  | <sup>1</sup> 10663.75  |
-|  10601.25<sup>1</sup>  | <sup>1</sup> 10666.25  |
-|  10603.75<sup>1</sup>  | <sup>1</sup> 10668.75  |
-|  10606.25<sup>1</sup>  | <sup>1</sup> 10671.25  |
-|  10608.75<sup>1</sup>  | <sup>1</sup> 10673.75  |
-|  10611.25<sup>1</sup>  | <sup>1</sup> 10676.25  |
-|  10613.75<sup>1</sup>  | <sup>1</sup> 10678.75  |
-
-<sup>1</sup> These frequencies are also available for DEMS stations licensed, in operation, or applied for prior to July 15, 1993.
+|                                                     Transmit (receive) (MHz)                                                     |Receive (transmit) (MHz)|
+|----------------------------------------------------------------------------------------------------------------------------------|------------------------|
+|                                                             10551.25                                                             |        10616.25        |
+|                                                             10553.75                                                             |        10618.75        |
+|                                                             10556.25                                                             |        10621.25        |
+|                                                             10558.75                                                             |        10623.75        |
+|                                                             10561.25                                                             |        10626.25        |
+|                                                             10563.75                                                             |        10628.75        |
+|                                                             10566.25                                                             |        10631.25        |
+|                                                             10568.75                                                             |        10633.75        |
+|                                                             10571.25                                                             |        10636.25        |
+|                                                             10573.75                                                             |        10638.75        |
+|                                                             10576.25                                                             |        10641.25        |
+|                                                             10578.75                                                             |        10643.75        |
+|                                                      10581.25 <sup>1</sup>                                                       | <sup>1</sup> 10646.25  |
+|                                                      10583.75 <sup>1</sup>                                                       | <sup>1</sup> 10648.75  |
+|                                                      10586.25 <sup>1</sup>                                                       | <sup>1</sup> 10651.25  |
+|                                                      10588.75 <sup>1</sup>                                                       | <sup>1</sup> 10653.75  |
+|                                                      10591.25 <sup>1</sup>                                                       | <sup>1</sup> 10656.25  |
+|                                                      10593.75 <sup>1</sup>                                                       | <sup>1</sup> 10658.75  |
+|                                                      10596.25 <sup>1</sup>                                                       | <sup>1</sup> 10661.25  |
+|                                                      10598.75 <sup>1</sup>                                                       | <sup>1</sup> 10663.75  |
+|                                                      10601.25 <sup>1</sup>                                                       | <sup>1</sup> 10666.25  |
+|                                                      10603.75 <sup>1</sup>                                                       | <sup>1</sup> 10668.75  |
+|                                                      10606.25 <sup>1</sup>                                                       | <sup>1</sup> 10671.25  |
+|                                                      10608.75 <sup>1</sup>                                                       | <sup>1</sup> 10673.75  |
+|                                                      10611.25 <sup>1</sup>                                                       | <sup>1</sup> 10676.25  |
+|                                                      10613.75 <sup>1</sup>                                                       | <sup>1</sup> 10678.75  |
+|<sup>1</sup> These frequencies are also available for DEMS stations licensed, in operation, or applied for prior to July 15, 1993.|                        |
 
 (5) 3.75 MHz bandwidth channels:
 
@@ -1443,21 +1363,20 @@ Paired Frequencies
 
 (6) 5 MHz bandwidth channels:
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|        10552.5         |        10617.5         |
-|        10557.5         |        10622.5         |
-|        10562.5         |        10627.5         |
-|  10567.5<sup>1</sup>   |  <sup>1</sup> 10632.5  |
-|  10572.5<sup>1</sup>   |  <sup>1</sup> 10637.5  |
-|  10577.5<sup>1</sup>   |  <sup>1</sup> 10642.5  |
-|  10582.5<sup>1</sup>   |  <sup>1</sup> 10647.5  |
-|        10587.5         |        10652.5         |
-|        10592.5         |        10657.5         |
-|        10597.5         |        10662.5         |
-|        10602.5         |        10667.5         |
-
-<sup>1</sup> These frequencies are also available for DEMS stations licensed, in operation, or applied for prior to July 15, 1993.
+|                                                     Transmit (receive) (MHz)                                                     |Receive (transmit) (MHz)|
+|----------------------------------------------------------------------------------------------------------------------------------|------------------------|
+|                                                             10552.5                                                              |        10617.5         |
+|                                                             10557.5                                                              |        10622.5         |
+|                                                             10562.5                                                              |        10627.5         |
+|                                                       10567.5 <sup>1</sup>                                                       |  <sup>1</sup> 10632.5  |
+|                                                       10572.5 <sup>1</sup>                                                       |  <sup>1</sup> 10637.5  |
+|                                                       10577.5 <sup>1</sup>                                                       |  <sup>1</sup> 10642.5  |
+|                                                       10582.5 <sup>1</sup>                                                       |  <sup>1</sup> 10647.5  |
+|                                                             10587.5                                                              |        10652.5         |
+|                                                             10592.5                                                              |        10657.5         |
+|                                                             10597.5                                                              |        10662.5         |
+|                                                             10602.5                                                              |        10667.5         |
+|<sup>1</sup> These frequencies are also available for DEMS stations licensed, in operation, or applied for prior to July 15, 1993.|                        |
 
 (n) Point-to-multipoint systems licensed, in operation, or applied for in the 10,550-10,680 MHz band prior to July 15, 1993, are permitted to use the DEMS frequencies noted above if they prior coordinate such usage with the necessary parties including 10 GHz point-to-point applicants and licensees. DEMS Nodal Stations shall use the band 10,565-10,615 MHz while DEMS User Stations shall use the band 10,630-10,680 MHz.
 
@@ -1597,103 +1516,98 @@ Paired Frequencies
 
 (5) 10 MHz bandwidth channels:
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|         10705          |         11205          |
-|         10715          |         11215          |
-|   10725<sup>2</sup>    |   <sup>1</sup> 11675   |
-|         10735          |         11225          |
-|         10745          |         11235          |
-|         10755          |         11245          |
-|         10765          |         11255          |
-|         10775          |         11265          |
-|         10785          |         11275          |
-|         10795          |         11285          |
-|         10805          |         11295          |
-|         10815          |         11305          |
-|         10825          |         11315          |
-|         10835          |         11325          |
-|         10845          |         11335          |
-|         10855          |         11345          |
-|         10865          |         11355          |
-|         10875          |         11365          |
-|         10885          |         11375          |
-|         10895          |         11385          |
-|         10905          |         11395          |
-|         10915          |         11405          |
-|         10925          |         11415          |
-|         10935          |         11425          |
-|         10945          |         11435          |
-|         10955          |         11445          |
-|         10965          |         11455          |
-|         10975          |         11465          |
-|         10985          |         11475          |
-|         10995          |         11485          |
-|         11005          |         11495          |
-|         11015          |         11505          |
-|         11025          |         11515          |
-|         11035          |         11525          |
-|         11045          |         11535          |
-|         11055          |         11545          |
-|         11065          |         11555          |
-|         11075          |         11565          |
-|         11085          |         11575          |
-|         11095          |         11585          |
-|         11105          |         11595          |
-|         11115          |         11605          |
-|         11125          |         11615          |
-|   11135<sup>1</sup>    |   <sup>1</sup> 11625   |
-|   11145<sup>1</sup>    |   <sup>1</sup> 11635   |
-|   11155<sup>1</sup>    |   <sup>1</sup> 11645   |
-|   11165<sup>1</sup>    |   <sup>1</sup> 11655   |
-|   11175<sup>1</sup>    |   <sup>1</sup> 11665   |
-|   11185<sup>1</sup>    |   <sup>1</sup> 11685   |
-|   11195<sup>1</sup>    |   <sup>1</sup> 11695   |
-
-<sup>1</sup> Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked.
-
-<sup>2</sup> These frequencies may be assigned for unpaired use.
+|                                                              Transmit (receive) (MHz)                                                               |Receive (transmit) (MHz)|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+|                                                                        10705                                                                        |         11205          |
+|                                                                        10715                                                                        |         11215          |
+|                                                                 10725 <sup>2</sup>                                                                  |   <sup>1</sup> 11675   |
+|                                                                        10735                                                                        |         11225          |
+|                                                                        10745                                                                        |         11235          |
+|                                                                        10755                                                                        |         11245          |
+|                                                                        10765                                                                        |         11255          |
+|                                                                        10775                                                                        |         11265          |
+|                                                                        10785                                                                        |         11275          |
+|                                                                        10795                                                                        |         11285          |
+|                                                                        10805                                                                        |         11295          |
+|                                                                        10815                                                                        |         11305          |
+|                                                                        10825                                                                        |         11315          |
+|                                                                        10835                                                                        |         11325          |
+|                                                                        10845                                                                        |         11335          |
+|                                                                        10855                                                                        |         11345          |
+|                                                                        10865                                                                        |         11355          |
+|                                                                        10875                                                                        |         11365          |
+|                                                                        10885                                                                        |         11375          |
+|                                                                        10895                                                                        |         11385          |
+|                                                                        10905                                                                        |         11395          |
+|                                                                        10915                                                                        |         11405          |
+|                                                                        10925                                                                        |         11415          |
+|                                                                        10935                                                                        |         11425          |
+|                                                                        10945                                                                        |         11435          |
+|                                                                        10955                                                                        |         11445          |
+|                                                                        10965                                                                        |         11455          |
+|                                                                        10975                                                                        |         11465          |
+|                                                                        10985                                                                        |         11475          |
+|                                                                        10995                                                                        |         11485          |
+|                                                                        11005                                                                        |         11495          |
+|                                                                        11015                                                                        |         11505          |
+|                                                                        11025                                                                        |         11515          |
+|                                                                        11035                                                                        |         11525          |
+|                                                                        11045                                                                        |         11535          |
+|                                                                        11055                                                                        |         11545          |
+|                                                                        11065                                                                        |         11555          |
+|                                                                        11075                                                                        |         11565          |
+|                                                                        11085                                                                        |         11575          |
+|                                                                        11095                                                                        |         11585          |
+|                                                                        11105                                                                        |         11595          |
+|                                                                        11115                                                                        |         11605          |
+|                                                                        11125                                                                        |         11615          |
+|                                                                 11135 <sup>1</sup>                                                                  |   <sup>1</sup> 11625   |
+|                                                                 11145 <sup>1</sup>                                                                  |   <sup>1</sup> 11635   |
+|                                                                 11155 <sup>1</sup>                                                                  |   <sup>1</sup> 11645   |
+|                                                                 11165 <sup>1</sup>                                                                  |   <sup>1</sup> 11655   |
+|                                                                 11175 <sup>1</sup>                                                                  |   <sup>1</sup> 11665   |
+|                                                                 11185 <sup>1</sup>                                                                  |   <sup>1</sup> 11685   |
+|                                                                 11195 <sup>1</sup>                                                                  |   <sup>1</sup> 11695   |
+|<sup>1</sup> Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked.|                        |
+|                                          <sup>2</sup> These frequencies may be assigned for unpaired use.                                           |                        |
 
 (6) 30 MHz bandwidth channels:
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|         10715          |         11215          |
-|         10755          |         11245          |
-|         10795          |         11285          |
-|         10835          |         11325          |
-|         10875          |         11365          |
-|         10915          |         11405          |
-|         10955          |         11445          |
-|         10995          |         11485          |
-|         11035          |         11525          |
-|         11075          |         11565          |
-|         11115          |         11605          |
-|   11155<sup>1</sup>    |   <sup>1</sup> 11645   |
-|   11185<sup>1</sup>    |   <sup>1</sup> 11685   |
-
-<sup>1</sup> Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked.
+|                                                              Transmit (receive) (MHz)                                                               |Receive (transmit) (MHz)|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+|                                                                        10715                                                                        |         11215          |
+|                                                                        10755                                                                        |         11245          |
+|                                                                        10795                                                                        |         11285          |
+|                                                                        10835                                                                        |         11325          |
+|                                                                        10875                                                                        |         11365          |
+|                                                                        10915                                                                        |         11405          |
+|                                                                        10955                                                                        |         11445          |
+|                                                                        10995                                                                        |         11485          |
+|                                                                        11035                                                                        |         11525          |
+|                                                                        11075                                                                        |         11565          |
+|                                                                        11115                                                                        |         11605          |
+|                                                                 11155 <sup>1</sup>                                                                  |   <sup>1</sup> 11645   |
+|                                                                 11185 <sup>1</sup>                                                                  |   <sup>1</sup> 11685   |
+|<sup>1</sup> Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked.|                        |
 
 (7) 40 MHz bandwidth channels:2
 
-|Transmit (receive) (MHz)|Receive (transmit) (MHz)|
-|------------------------|------------------------|
-|         10735          |         11225          |
-|         10775          |         11265          |
-|         10815          |         11305          |
-|         10855          |         11345          |
-|         10895          |         11385          |
-|         10935          |         11425          |
-|         10975          |         11465          |
-|         11015          |         11505          |
-|         11055          |         11545          |
-|         11095          |         11585          |
-|   11135<sup>1</sup>    |   <sup>1</sup> 11625   |
-|   11175<sup>1</sup>    |   <sup>1</sup> 11665   |
-
-<sup>1</sup> Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked.
-
-<sup>2</sup> In congested areas where 40 MHz channels block most 30 MHz channels, radios authorized for 30 MHz bandwidths may use the 40 MHz channels. In uncongested areas, 30 MHz channels should be used.
+|                                                                                          Transmit (receive) (MHz)                                                                                          |Receive (transmit) (MHz)|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+|                                                                                                   10735                                                                                                    |         11225          |
+|                                                                                                   10775                                                                                                    |         11265          |
+|                                                                                                   10815                                                                                                    |         11305          |
+|                                                                                                   10855                                                                                                    |         11345          |
+|                                                                                                   10895                                                                                                    |         11385          |
+|                                                                                                   10935                                                                                                    |         11425          |
+|                                                                                                   10975                                                                                                    |         11465          |
+|                                                                                                   11015                                                                                                    |         11505          |
+|                                                                                                   11055                                                                                                    |         11545          |
+|                                                                                                   11095                                                                                                    |         11585          |
+|                                                                                             11135 <sup>1</sup>                                                                                             |   <sup>1</sup> 11625   |
+|                                                                                             11175 <sup>1</sup>                                                                                             |   <sup>1</sup> 11665   |
+|                           <sup>1</sup> Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked.                            |                        |
+|<sup>2</sup> In congested areas where 40 MHz channels block most 30 MHz channels, radios authorized for 30 MHz bandwidths may use the 40 MHz channels. In uncongested areas, 30 MHz channels should be used.|                        |
 
 (8) 80 MHz bandwidth channels:1
 
@@ -2023,252 +1937,252 @@ Paired Frequencies
 
 (4) 5 Megahertz maximum authorized bandwidth channels:
 
-|                            Transmit (receive) (MHz)                             |Receive (transmit) (MHz)|
-|---------------------------------------------------------------------------------|------------------------|
-|340 Megahertz Separation (\* channels are no longer available on a primary basis)|                        |
-|                                    18762.5\*                                    |       19102.5\*        |
-|                                    18767.5\*                                    |       19107.5\*        |
-|                                    18772.5\*                                    |       19112.5\*        |
-|                                    18777.5\*                                    |       19117.5\*        |
-|                                    18782.5\*                                    |       19122.5\*        |
-|                                    18787.5\*                                    |       19127.5\*        |
-|                                    18792.5\*                                    |       19132.5\*        |
-|                                    18797.5\*                                    |       19137.5\*        |
-|                                    18802.5\*                                    |       19142.5\*        |
-|                                    18807.5\*                                    |       19147.5\*        |
-|                                    18812.5\*                                    |       19152.5\*        |
-|                                    18817.5\*                                    |       19157.5\*        |
+|                              Transmit (receive) (MHz)                               |Receive (transmit) (MHz)|
+|-------------------------------------------------------------------------------------|------------------------|
+|**340 Megahertz Separation (\* channels are no longer available on a primary basis)**|                        |
+|                                      18762.5\*                                      |       19102.5\*        |
+|                                      18767.5\*                                      |       19107.5\*        |
+|                                      18772.5\*                                      |       19112.5\*        |
+|                                      18777.5\*                                      |       19117.5\*        |
+|                                      18782.5\*                                      |       19122.5\*        |
+|                                      18787.5\*                                      |       19127.5\*        |
+|                                      18792.5\*                                      |       19132.5\*        |
+|                                      18797.5\*                                      |       19137.5\*        |
+|                                      18802.5\*                                      |       19142.5\*        |
+|                                      18807.5\*                                      |       19147.5\*        |
+|                                      18812.5\*                                      |       19152.5\*        |
+|                                      18817.5\*                                      |       19157.5\*        |
 
 (5) 5 Megahertz maximum authorized bandwidth channels:
 
-|Transmit (receive) (MHz) |Receive  <br/>(transmit)  <br/>(MHz)|
-|-------------------------|------------------------------------|
-|1560 Megahertz Separation|                                    |
-|         17702.5         |                N/A                 |
-|         17707.5         |                N/A                 |
-|         17712.5         |                N/A                 |
-|         17717.5         |                N/A                 |
-|         17722.5         |                N/A                 |
-|         17727.5         |                N/A                 |
-|         17732.5         |                N/A                 |
-|         17737.5         |                N/A                 |
-|         18062.5         |              19622.5               |
-|         18067.5         |              19627.5               |
-|         18072.5         |              19632.5               |
-|         18077.5         |              19637.5               |
-|         18082.5         |              19642.5               |
-|         18087.5         |              19647.5               |
-|         18092.5         |              19652.5               |
-|         18097.5         |              19657.5               |
-|         18102.5         |              19662.5               |
-|         18107.5         |              19667.5               |
-|         18112.5         |              19672.5               |
-|         18117.5         |              19677.5               |
-|         18122.5         |              19682.5               |
-|         18127.5         |              19687.5               |
-|         18132.5         |              19692.5               |
-|         18137.5         |              19697.5               |
+|  Transmit (receive) (MHz)   |Receive  <br/>(transmit)  <br/>(MHz)|
+|-----------------------------|------------------------------------|
+|**1560 Megahertz Separation**|                                    |
+|           17702.5           |                N/A                 |
+|           17707.5           |                N/A                 |
+|           17712.5           |                N/A                 |
+|           17717.5           |                N/A                 |
+|           17722.5           |                N/A                 |
+|           17727.5           |                N/A                 |
+|           17732.5           |                N/A                 |
+|           17737.5           |                N/A                 |
+|           18062.5           |              19622.5               |
+|           18067.5           |              19627.5               |
+|           18072.5           |              19632.5               |
+|           18077.5           |              19637.5               |
+|           18082.5           |              19642.5               |
+|           18087.5           |              19647.5               |
+|           18092.5           |              19652.5               |
+|           18097.5           |              19657.5               |
+|           18102.5           |              19662.5               |
+|           18107.5           |              19667.5               |
+|           18112.5           |              19672.5               |
+|           18117.5           |              19677.5               |
+|           18122.5           |              19682.5               |
+|           18127.5           |              19687.5               |
+|           18132.5           |              19692.5               |
+|           18137.5           |              19697.5               |
 
 (6) MVPD use: Multichannel video programming distributors (MVPDs) can use any size channels for one-way operations in the 17.7-18.58 GHz band for any permissible communications specified for this band in § 101.603 provided that they have coordinated the appropriate emission designators and power, but must request contiguous spectrum (minus spectrum that is already licensed or prior coordinated in the area and thus blocked). MVPD systems must meet the efficiency requirements of § 101.141. Spectrum at 18.3-18.58 GHz is only available for grandfathered stations. See § 101.85.
 
 (7) 10 Megahertz maximum authorized bandwidth channels:
 
-|                             Transmit (receive) (MHz)                             |Receive  <br/>(transmit)  <br/>(MHz)|
-|----------------------------------------------------------------------------------|------------------------------------|
-|1560 Megahertz Separation (\* channels are no longer available on a primary basis)|                                    |
-|                                     17705.0                                      |             19265.0\*              |
-|                                     17715.0                                      |             19275.0\*              |
-|                                     17725.0                                      |             19285.0\*              |
-|                                     17735.0                                      |             19295.0\*              |
-|                                     17745.0                                      |              19305.0               |
-|                                     17755.0                                      |              19315.0               |
-|                                     17765.0                                      |              19325.0               |
-|                                     17775.0                                      |              19335.0               |
-|                                     17785.0                                      |              19345.0               |
-|                                     17795.0                                      |              19355.0               |
-|                                     17805.0                                      |              19365.0               |
-|                                     17815.0                                      |              19375.0               |
-|                                     17825.0                                      |              19385.0               |
-|                                     17835.0                                      |              19395.0               |
-|                                     17845.0                                      |              19405.0               |
-|                                     17855.0                                      |              19415.0               |
-|                                     17865.0                                      |              19425.0               |
-|                                     17875.0                                      |              19435.0               |
-|                                     17885.0                                      |              19445.0               |
-|                                     17895.0                                      |              19455.0               |
-|                                     17905.0                                      |              19465.0               |
-|                                     17915.0                                      |              19475.0               |
-|                                     17925.0                                      |              19485.0               |
-|                                     17935.0                                      |              19495.0               |
-|                                     17945.0                                      |              19505.0               |
-|                                     17955.0                                      |              19515.0               |
-|                                     17965.0                                      |              19525.0               |
-|                                     17975.0                                      |              19535.0               |
-|                                     17985.0                                      |              19545.0               |
-|                                     17995.0                                      |              19555.0               |
-|                                     18005.0                                      |              19565.0               |
-|                                     18015.0                                      |              19575.0               |
-|                                     18025.0                                      |              19585.0               |
-|                                     18035.0                                      |              19595.0               |
-|                                     18045.0                                      |              19605.0               |
-|                                     18055.0                                      |              19615.0               |
-|                                     18065.0                                      |              19625.0               |
-|                                     18075.0                                      |              19635.0               |
-|                                     18085.0                                      |              19645.0               |
-|                                     18095.0                                      |              19655.0               |
-|                                     18105.0                                      |              19665.0               |
-|                                     18115.0                                      |              19675.0               |
-|                                     18125.0                                      |              19685.0               |
-|                                     18135.0                                      |              19695.0               |
-|                             340 Megahertz Separation                             |                                    |
-|                                    18585.0\*                                     |             18925.0\*              |
-|                                    18595.0\*                                     |             18935.0\*              |
-|                                    18605.0\*                                     |             18945.0\*              |
-|                                    18615.0\*                                     |             18955.0\*              |
-|                                    18625.0\*                                     |             18965.0\*              |
-|                                    18635.0\*                                     |             18975.0\*              |
-|                                    18645.0\*                                     |             18985.0\*              |
-|                                    18655.0\*                                     |             18995.0\*              |
-|                                    18665.0\*                                     |             19005.0\*              |
-|                                    18675.0\*                                     |             19015.0\*              |
-|                                    18685.0\*                                     |             19025.0\*              |
-|                                    18695.0\*                                     |             19035.0\*              |
-|                                    18705.0\*                                     |             19045.0\*              |
-|                                    18715.0\*                                     |             19055.0\*              |
-|                                    18725.0\*                                     |             19065.0\*              |
-|                                    18735.0\*                                     |             19075.0\*              |
-|                                    18745.0\*                                     |             19085.0\*              |
-|                                    18755.0\*                                     |             19095.0\*              |
-|                                    18765.0\*                                     |             19105.0\*              |
-|                                    18775.0\*                                     |             19115.0\*              |
-|                                    18785.0\*                                     |             19125.0\*              |
-|                                    18795.0\*                                     |             19135.0\*              |
-|                                    18805.0\*                                     |             19145.0\*              |
-|                                    18815.0\*                                     |             19155.0\*              |
+|                               Transmit (receive) (MHz)                               |Receive  <br/>(transmit)  <br/>(MHz)|
+|--------------------------------------------------------------------------------------|------------------------------------|
+|**1560 Megahertz Separation (\* channels are no longer available on a primary basis)**|                                    |
+|                                       17705.0                                        |             19265.0\*              |
+|                                       17715.0                                        |             19275.0\*              |
+|                                       17725.0                                        |             19285.0\*              |
+|                                       17735.0                                        |             19295.0\*              |
+|                                       17745.0                                        |              19305.0               |
+|                                       17755.0                                        |              19315.0               |
+|                                       17765.0                                        |              19325.0               |
+|                                       17775.0                                        |              19335.0               |
+|                                       17785.0                                        |              19345.0               |
+|                                       17795.0                                        |              19355.0               |
+|                                       17805.0                                        |              19365.0               |
+|                                       17815.0                                        |              19375.0               |
+|                                       17825.0                                        |              19385.0               |
+|                                       17835.0                                        |              19395.0               |
+|                                       17845.0                                        |              19405.0               |
+|                                       17855.0                                        |              19415.0               |
+|                                       17865.0                                        |              19425.0               |
+|                                       17875.0                                        |              19435.0               |
+|                                       17885.0                                        |              19445.0               |
+|                                       17895.0                                        |              19455.0               |
+|                                       17905.0                                        |              19465.0               |
+|                                       17915.0                                        |              19475.0               |
+|                                       17925.0                                        |              19485.0               |
+|                                       17935.0                                        |              19495.0               |
+|                                       17945.0                                        |              19505.0               |
+|                                       17955.0                                        |              19515.0               |
+|                                       17965.0                                        |              19525.0               |
+|                                       17975.0                                        |              19535.0               |
+|                                       17985.0                                        |              19545.0               |
+|                                       17995.0                                        |              19555.0               |
+|                                       18005.0                                        |              19565.0               |
+|                                       18015.0                                        |              19575.0               |
+|                                       18025.0                                        |              19585.0               |
+|                                       18035.0                                        |              19595.0               |
+|                                       18045.0                                        |              19605.0               |
+|                                       18055.0                                        |              19615.0               |
+|                                       18065.0                                        |              19625.0               |
+|                                       18075.0                                        |              19635.0               |
+|                                       18085.0                                        |              19645.0               |
+|                                       18095.0                                        |              19655.0               |
+|                                       18105.0                                        |              19665.0               |
+|                                       18115.0                                        |              19675.0               |
+|                                       18125.0                                        |              19685.0               |
+|                                       18135.0                                        |              19695.0               |
+|                             **340 Megahertz Separation**                             |                                    |
+|                                      18585.0\*                                       |             18925.0\*              |
+|                                      18595.0\*                                       |             18935.0\*              |
+|                                      18605.0\*                                       |             18945.0\*              |
+|                                      18615.0\*                                       |             18955.0\*              |
+|                                      18625.0\*                                       |             18965.0\*              |
+|                                      18635.0\*                                       |             18975.0\*              |
+|                                      18645.0\*                                       |             18985.0\*              |
+|                                      18655.0\*                                       |             18995.0\*              |
+|                                      18665.0\*                                       |             19005.0\*              |
+|                                      18675.0\*                                       |             19015.0\*              |
+|                                      18685.0\*                                       |             19025.0\*              |
+|                                      18695.0\*                                       |             19035.0\*              |
+|                                      18705.0\*                                       |             19045.0\*              |
+|                                      18715.0\*                                       |             19055.0\*              |
+|                                      18725.0\*                                       |             19065.0\*              |
+|                                      18735.0\*                                       |             19075.0\*              |
+|                                      18745.0\*                                       |             19085.0\*              |
+|                                      18755.0\*                                       |             19095.0\*              |
+|                                      18765.0\*                                       |             19105.0\*              |
+|                                      18775.0\*                                       |             19115.0\*              |
+|                                      18785.0\*                                       |             19125.0\*              |
+|                                      18795.0\*                                       |             19135.0\*              |
+|                                      18805.0\*                                       |             19145.0\*              |
+|                                      18815.0\*                                       |             19155.0\*              |
 
 (8) 20 Megahertz maximum authorized bandwidth channels:
 
-|                             Transmit (receive) (MHz)                             |Receive  <br/>(transmit)  <br/>(MHz)|
-|----------------------------------------------------------------------------------|------------------------------------|
-|1560 Megahertz Separation (\* channels are no longer available on a primary basis)|                                    |
-|                                     17710.0                                      |             19270.0\*              |
-|                                     17730.0                                      |             19290.0\*              |
-|                                     17750.0                                      |              19310.0               |
-|                                     17770.0                                      |              19330.0               |
-|                                     17790.0                                      |              19350.0               |
-|                                     17810.0                                      |              19370.0               |
-|                                     17830.0                                      |              19390.0               |
-|                                     17850.0                                      |              19410.0               |
-|                                     17870.0                                      |              19430.0               |
-|                                     17890.0                                      |              19450.0               |
-|                                     17910.0                                      |              19470.0               |
-|                                     17930.0                                      |              19490.0               |
-|                                     17950.0                                      |              19510.0               |
-|                                     17970.0                                      |              19530.0               |
-|                                     17990.0                                      |              19550.0               |
-|                                     18010.0                                      |              19570.0               |
-|                                     18030.0                                      |              19590.0               |
-|                                     18050.0                                      |              19610.0               |
-|                                     18070.0                                      |              19630.0               |
-|                                     18090.0                                      |              19650.0               |
-|                                     18110.0                                      |              19670.0               |
-|                                     18130.0                                      |              19690.0               |
-|                             340 Megahertz Separation                             |                                    |
-|                                    18590.0\*                                     |             18930.0\*              |
-|                                    18610.0\*                                     |             18950.0\*              |
-|                                    18630.0\*                                     |             18970.0\*              |
-|                                    18650.0\*                                     |             18990.0\*              |
-|                                    18670.0\*                                     |             19010.0\*              |
-|                                    18690.0\*                                     |             19030.0\*              |
-|                                    18710.0\*                                     |             19050.0\*              |
-|                                    18730.0\*                                     |             19070.0\*              |
-|                                    18750.0\*                                     |             19090.0\*              |
-|                                    18770.0\*                                     |             19110.0\*              |
-|                                    18790.0\*                                     |             19130.0\*              |
-|                                    18810.0\*                                     |             19150.0\*              |
+|                               Transmit (receive) (MHz)                               |Receive  <br/>(transmit)  <br/>(MHz)|
+|--------------------------------------------------------------------------------------|------------------------------------|
+|**1560 Megahertz Separation (\* channels are no longer available on a primary basis)**|                                    |
+|                                       17710.0                                        |             19270.0\*              |
+|                                       17730.0                                        |             19290.0\*              |
+|                                       17750.0                                        |              19310.0               |
+|                                       17770.0                                        |              19330.0               |
+|                                       17790.0                                        |              19350.0               |
+|                                       17810.0                                        |              19370.0               |
+|                                       17830.0                                        |              19390.0               |
+|                                       17850.0                                        |              19410.0               |
+|                                       17870.0                                        |              19430.0               |
+|                                       17890.0                                        |              19450.0               |
+|                                       17910.0                                        |              19470.0               |
+|                                       17930.0                                        |              19490.0               |
+|                                       17950.0                                        |              19510.0               |
+|                                       17970.0                                        |              19530.0               |
+|                                       17990.0                                        |              19550.0               |
+|                                       18010.0                                        |              19570.0               |
+|                                       18030.0                                        |              19590.0               |
+|                                       18050.0                                        |              19610.0               |
+|                                       18070.0                                        |              19630.0               |
+|                                       18090.0                                        |              19650.0               |
+|                                       18110.0                                        |              19670.0               |
+|                                       18130.0                                        |              19690.0               |
+|                             **340 Megahertz Separation**                             |                                    |
+|                                      18590.0\*                                       |             18930.0\*              |
+|                                      18610.0\*                                       |             18950.0\*              |
+|                                      18630.0\*                                       |             18970.0\*              |
+|                                      18650.0\*                                       |             18990.0\*              |
+|                                      18670.0\*                                       |             19010.0\*              |
+|                                      18690.0\*                                       |             19030.0\*              |
+|                                      18710.0\*                                       |             19050.0\*              |
+|                                      18730.0\*                                       |             19070.0\*              |
+|                                      18750.0\*                                       |             19090.0\*              |
+|                                      18770.0\*                                       |             19110.0\*              |
+|                                      18790.0\*                                       |             19130.0\*              |
+|                                      18810.0\*                                       |             19150.0\*              |
 
 (9) 30 Megahertz maximum authorized bandwidth channels:
 
-|Transmit (receive) (MHz) |Receive (transmit) (MHz)|
-|-------------------------|------------------------|
-|1560 Megahertz Separation|                        |
-|         17715.0         |          N/A           |
-|         17755.0         |        19315.0         |
-|         17785.0         |        19345.0         |
-|         17815.0         |        19375.0         |
-|         17845.0         |        19405.0         |
-|         17875.0         |        19435.0         |
-|         17905.0         |        19465.0         |
-|         17935.0         |        19495.0         |
-|         17965.0         |        19525.0         |
-|         17995.0         |        19555.0         |
-|         18025.0         |        19585.0         |
-|         18055.0         |        19615.0         |
-|         18085.0         |        19645.0         |
-|         18115.0         |        19675.0         |
+|  Transmit (receive) (MHz)   |Receive (transmit) (MHz)|
+|-----------------------------|------------------------|
+|**1560 Megahertz Separation**|                        |
+|           17715.0           |          N/A           |
+|           17755.0           |        19315.0         |
+|           17785.0           |        19345.0         |
+|           17815.0           |        19375.0         |
+|           17845.0           |        19405.0         |
+|           17875.0           |        19435.0         |
+|           17905.0           |        19465.0         |
+|           17935.0           |        19495.0         |
+|           17965.0           |        19525.0         |
+|           17995.0           |        19555.0         |
+|           18025.0           |        19585.0         |
+|           18055.0           |        19615.0         |
+|           18085.0           |        19645.0         |
+|           18115.0           |        19675.0         |
 
 (10) 40 Megahertz maximum authorized bandwidth channels:
 
-|                             Transmit (receive) (MHz)                             |Receive (transmit) (MHz)|
-|----------------------------------------------------------------------------------|------------------------|
-|1560 Megahertz Separation (\* channels are no longer available on a primary basis)|                        |
-|                                     17720.0                                      |       19280.0\*        |
-|                                     17760.0                                      |        19320.0         |
-|                                     17800.0                                      |        19360.0         |
-|                                     17840.0                                      |        19400.0         |
-|                                     17880.0                                      |        19440.0         |
-|                                     17920.0                                      |        19480.0         |
-|                                     17960.0                                      |        19520.0         |
-|                                     18000.0                                      |        19560.0         |
-|                                     18040.0                                      |        19600.0         |
-|                                     18080.0                                      |        19640.0         |
-|                                     18120.0                                      |        19680.0         |
+|                               Transmit (receive) (MHz)                               |Receive (transmit) (MHz)|
+|--------------------------------------------------------------------------------------|------------------------|
+|**1560 Megahertz Separation (\* channels are no longer available on a primary basis)**|                        |
+|                                       17720.0                                        |       19280.0\*        |
+|                                       17760.0                                        |        19320.0         |
+|                                       17800.0                                        |        19360.0         |
+|                                       17840.0                                        |        19400.0         |
+|                                       17880.0                                        |        19440.0         |
+|                                       17920.0                                        |        19480.0         |
+|                                       17960.0                                        |        19520.0         |
+|                                       18000.0                                        |        19560.0         |
+|                                       18040.0                                        |        19600.0         |
+|                                       18080.0                                        |        19640.0         |
+|                                       18120.0                                        |        19680.0         |
 
 (11) 50 Megahertz maximum authorized bandwidth channels:
 
-|Transmit (receive) (MHz) |Receive (transmit) (MHz)|
-|-------------------------|------------------------|
-|1560 Megahertz Separation|                        |
-|         17765.0         |        19325.0         |
-|         17815.0         |        19375.0         |
-|         17865.0         |        19425.0         |
-|         17915.0         |        19475.0         |
-|         17965.0         |        19525.0         |
-|         18015.0         |        19575.0         |
-|         18065.0         |        19625.0         |
-|         18115.0         |        19675.0         |
+|  Transmit (receive) (MHz)   |Receive (transmit) (MHz)|
+|-----------------------------|------------------------|
+|**1560 Megahertz Separation**|                        |
+|           17765.0           |        19325.0         |
+|           17815.0           |        19375.0         |
+|           17865.0           |        19425.0         |
+|           17915.0           |        19475.0         |
+|           17965.0           |        19525.0         |
+|           18015.0           |        19575.0         |
+|           18065.0           |        19625.0         |
+|           18115.0           |        19675.0         |
 
 (12) 80 Megahertz maximum authorized bandwidth channels:
 
-|                             Transmit (receive) (MHz)                             |Receive  <br/>(transmit)  <br/>(MHz)|
-|----------------------------------------------------------------------------------|------------------------------------|
-|1560 Megahertz Separation (\* channels are no longer available on a primary basis)|                                    |
-|                                     17740.0                                      |             19300.0\*              |
-|                                     17820.0                                      |              19380.0               |
-|                                     17900.0                                      |              19460.0               |
-|                                     17980.0                                      |              19540.0               |
-|                                     18060.0                                      |              19620.0               |
+|                               Transmit (receive) (MHz)                               |Receive  <br/>(transmit)  <br/>(MHz)|
+|--------------------------------------------------------------------------------------|------------------------------------|
+|**1560 Megahertz Separation (\* channels are no longer available on a primary basis)**|                                    |
+|                                       17740.0                                        |             19300.0\*              |
+|                                       17820.0                                        |              19380.0               |
+|                                       17900.0                                        |              19460.0               |
+|                                       17980.0                                        |              19540.0               |
+|                                       18060.0                                        |              19620.0               |
 
 (13) The following frequencies on channels 35-39 are available for point-to-multipoint systems and are available by geographic area licensing in the 24 GHz Service to be used as the licensee desires. The 24 GHz spectrum can be aggregated or disaggregated and does not have to be used in the transmit/receive manner shown except to comply with international agreements along the U.S. borders. Channels 35 through 39 are licensed in the 24 GHz Service by Economic Areas for any digital fixed service. Channels may be used at either nodal or subscriber station locations for transmit or receive but must be coordinated with adjacent channel and adjacent area users in accordance with the provisions of § 101.509 of this subpart. Stations also must comply with international coordination agreements.
 
-|                      Channel No.                       |Nodal station  <br/>frequency band  <br/>(MHz) limits|User station  <br/>frequency band  <br/>(MHz) limits|
-|--------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------|
-|(\* channels are no longer available on a primary basis)|                                                     |                                                    |
-|                           25                           |                    18,820-18,830                    |                  19,160-19,170\*                   |
-|                           26                           |                    18,830-18,840                    |                  19,170-19,180\*                   |
-|                           27                           |                    18,840-18,850                    |                  19,180-19,190\*                   |
-|                           28                           |                    18,850-18,860                    |                  19,190-19,200\*                   |
-|                           29                           |                    18,860-18,870                    |                  19,200-19,210\*                   |
-|                           30                           |                    18,870-18,880                    |                  19,210-19,220\*                   |
-|                           31                           |                    18,880-18,890                    |                  19,220-19,230\*                   |
-|                           32                           |                    18,890-18,900                    |                  19,230-19,240\*                   |
-|                           33                           |                    18,900-18,910                    |                  19,240-19,250\*                   |
-|                           34                           |                    18,910-18,920                    |                  19,250-19,260\*                   |
-|                           35                           |                    24,250-24,290                    |                   25,050-25,090                    |
-|                           36                           |                    24,290-24,330                    |                   25,090-25,130                    |
-|                           37                           |                    24,330-24,370                    |                   25,130-25,170                    |
-|                           38                           |                    24,370-24,410                    |                   25,170-25,210                    |
-|                           39                           |                    24,410-24,450                    |                   25,210-25,250                    |
+|                        Channel No.                         |Nodal station  <br/>frequency band  <br/>(MHz) limits|User station  <br/>frequency band  <br/>(MHz) limits|
+|------------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------|
+|**(\* channels are no longer available on a primary basis)**|                                                     |                                                    |
+|                             25                             |                    18,820-18,830                    |                  19,160-19,170\*                   |
+|                             26                             |                    18,830-18,840                    |                  19,170-19,180\*                   |
+|                             27                             |                    18,840-18,850                    |                  19,180-19,190\*                   |
+|                             28                             |                    18,850-18,860                    |                  19,190-19,200\*                   |
+|                             29                             |                    18,860-18,870                    |                  19,200-19,210\*                   |
+|                             30                             |                    18,870-18,880                    |                  19,210-19,220\*                   |
+|                             31                             |                    18,880-18,890                    |                  19,220-19,230\*                   |
+|                             32                             |                    18,890-18,900                    |                  19,230-19,240\*                   |
+|                             33                             |                    18,900-18,910                    |                  19,240-19,250\*                   |
+|                             34                             |                    18,910-18,920                    |                  19,250-19,260\*                   |
+|                             35                             |                    24,250-24,290                    |                   25,050-25,090                    |
+|                             36                             |                    24,290-24,330                    |                   25,090-25,130                    |
+|                             37                             |                    24,330-24,370                    |                   25,130-25,170                    |
+|                             38                             |                    24,370-24,410                    |                   25,170-25,210                    |
+|                             39                             |                    24,410-24,450                    |                   25,210-25,250                    |
 
 (14) *Special provision for low power systems in the 17,700-19,700 MHz band:* Notwithstanding other provisions in 47 CFR part 101 and except for specified areas around Washington, DC, and Denver, Colorado, licensees of point-to-multipoint channel pairs 25-29 identified in paragraph (r)(13) of this section may continue to operate in accordance with the requirements of § 101.85 and may operate multiple low power transmitting devices within a defined service area. Operations are prohibited within 55 km when used outdoor and within 20 km when used indoor of the coordinates 38 deg.48′ N/76 deg.52′ W (Washington, DC area) and 39 deg.43′ N/104 deg.46′ W (Denver, Colorado area). The service area will be a 28 kilometer omni directional radius originating from specified center reference coordinates. The specified center coordinates must be no closer than 56 kilometers from any co-channel nodal station or the specified center coordinates of another co-channel system. Applicants/licensees do not need to specify the location of each individual transmitting device operating within their defined service areas. Such operations are subject to the following requirements on the low power transmitting devices:
 
@@ -2288,439 +2202,437 @@ A = 35 + .003 (F−0.5B) dBor,80 dB (whichever is the lesser attenuation).Where:
 
 (s) *21,200 to 23,600 MHz:* 50 MHz authorized bandwidth.
 
-|   Transmit (receive) (MHz)    |Receive (transmit)  <br/>(MHz)|
-|-------------------------------|------------------------------|
-|(1) 2.5 MHz bandwidth channels:|                              |
-|           21601.25            |           22801.25           |
-|           21603.75            |           22803.75           |
-|           21606.25            |           22806.25           |
-|           21608.75            |           22808.75           |
-|           21611.25            |           22811.25           |
-|           21613.75            |           22813.75           |
-|           21616.25            |           22816.25           |
-|           21618.75            |           22818.75           |
-|           21621.25            |           22821.25           |
-|           21623.75            |           22823.75           |
-|           21626.25            |           22826.25           |
-|           21628.75            |           22828.75           |
-|           21631.25            |           22831.25           |
-|           21633.75            |           22833.75           |
-|           21636.25            |           22836.25           |
-|           21638.75            |           22838.75           |
-|           21641.25            |           22841.25           |
-|           21643.75            |           22843.75           |
-|           21646.25            |           22846.25           |
-|           21648.75            |           22848.75           |
-|           21651.25            |           22851.25           |
-|           21653.75            |           22853.75           |
-|           21656.25            |           22856.25           |
-|           21658.75            |           22858.75           |
-|           21661.25            |           22861.25           |
-|           21663.75            |           22863.75           |
-|           21666.25            |           22866.25           |
-|           21668.75            |           22868.75           |
-|           21671.25            |           22871.25           |
-|           21673.75            |           22873.75           |
-|           21676.25            |           22876.25           |
-|           21678.75            |           22878.75           |
-|           21681.25            |           22881.25           |
-|           21683.75            |           22883.75           |
-|           21686.25            |           22886.25           |
-|           21688.75            |           22888.75           |
-|           21691.25            |           22891.25           |
-|           21693.75            |           22893.75           |
-|           21696.25            |           22896.25           |
-|           21698.75            |           22898.75           |
-|           21701.25            |           22901.25           |
-|           21703.75            |           22903.75           |
-|           21706.25            |           22906.25           |
-|           21708.75            |           22908.75           |
-|           21711.25            |           22911.25           |
-|           21713.75            |           22913.75           |
-|           21716.25            |           22916.25           |
-|           21718.75            |           22918.75           |
-|           21721.25            |           22921.25           |
-|           21723.75            |           22923.75           |
-|           21726.25            |           22926.25           |
-|           21728.75            |           22928.75           |
-|           21731.25            |           22931.25           |
-|           21733.75            |           22933.75           |
-|           21736.25            |           22936.25           |
-|           21738.75            |           22938.75           |
-|           21741.25            |           22941.25           |
-|           21743.75            |           22943.75           |
-|           21746.25            |           22946.25           |
-|           21748.75            |           22948.75           |
-|           21751.25            |           22951.25           |
-|           21753.75            |           22953.75           |
-|           21756.25            |           22956.25           |
-|           21758.75            |           22958.75           |
-|           21761.25            |           22961.25           |
-|           21763.75            |           22963.75           |
-|           21766.25            |           22966.25           |
-|           21768.75            |           22968.75           |
-|           21771.25            |           22971.25           |
-|           21773.75            |           22973.75           |
-|           21776.25            |           22976.25           |
-|           21778.75            |           22978.75           |
-|           21781.25            |           22981.25           |
-|           21783.75            |           22983.75           |
-|           21786.25            |           22986.25           |
-|           21788.75            |           22988.75           |
-|           21791.25            |           22991.25           |
-|           21793.75            |           22993.75           |
-|           21796.25            |           22996.25           |
-|           21798.75            |           22998.75           |
-|           22301.25            |           23501.25           |
-|           22303.75            |           23503.75           |
-|           22306.25            |           23506.25           |
-|           22308.75            |           23508.75           |
-|           22311.25            |           23511.25           |
-|           22313.75            |           23513.75           |
-|           22316.25            |           23516.25           |
-|           22318.75            |           23518.75           |
-|           22321.25            |           23521.25           |
-|           22323.75            |           23523.75           |
-|           22326.25            |           23526.25           |
-|           22328.75            |           23528.75           |
-|           22331.25            |           23531.25           |
-|           22333.75            |           23533.75           |
-|           22336.25            |           23536.25           |
-|           22338.75            |           23538.75           |
-|           22341.25            |           23541.25           |
-|           22343.75            |           23543.75           |
-|           22346.25            |           23546.25           |
-|           22348.75            |           23548.75           |
-|           22351.25            |           23551.25           |
-|           22353.75            |           23553.75           |
-|           22356.25            |           23556.25           |
-|           22358.75            |           23558.75           |
-|           22361.25            |           23561.25           |
-|           22363.75            |           23563.75           |
-|           22366.25            |           23566.25           |
-|           22368.75            |           23568.75           |
-|           22371.25            |           23571.25           |
-|           22373.75            |           23573.75           |
-|           22376.25            |           23576.25           |
-|           22378.75            |           23578.75           |
-|           22381.25            |           23581.25           |
-|           22383.75            |           23583.75           |
-|           22386.25            |           23586.25           |
-|           22388.75            |           23588.75           |
-|           22391.25            |           23591.25           |
-|           22393.75            |           23593.75           |
-|           22396.25            |           23596.25           |
-|           22398.75            |           23598.75           |
-| (2) 5 MHz bandwidth channels: |                              |
-|            21602.5            |           22802.5            |
-|            21607.5            |           22807.5            |
-|            21612.5            |           22812.5            |
-|            21617.5            |           22817.5            |
-|            21622.5            |           22822.5            |
-|            21627.5            |           22827.5            |
-|            21632.5            |           22832.5            |
-|            21637.5            |           22837.5            |
-|            21642.5            |           22842.5            |
-|            21647.5            |           22847.5            |
-|            21652.5            |           22852.5            |
-|            21657.5            |           22857.5            |
-|            21662.5            |           22862.5            |
-|            21667.5            |           22867.5            |
-|            21672.5            |           22872.5            |
-|            21677.5            |           22877.5            |
-|            21682.5            |           22882.5            |
-|            21687.5            |           22887.5            |
-|            21692.5            |           22892.5            |
-|            21697.5            |           22897.5            |
-|            21702.5            |           22902.5            |
-|            21707.5            |           22907.5            |
-|            21712.5            |           22912.5            |
-|            21717.5            |           22917.5            |
-|            21722.5            |           22922.5            |
-|            21727.5            |           22927.5            |
-|            21732.5            |           22932.5            |
-|            21737.5            |           22937.5            |
-|            21742.5            |           22942.5            |
-|            21747.5            |           22947.5            |
-|            21752.5            |           22952.5            |
-|            21757.5            |           22957.5            |
-|            21762.5            |           22962.5            |
-|            21767.5            |           22967.5            |
-|            21772.5            |           22972.5            |
-|            21777.5            |           22977.5            |
-|            21782.5            |           22982.5            |
-|            21787.5            |           22987.5            |
-|            21792.5            |           22992.5            |
-|            21797.5            |           22997.5            |
-|            22302.5            |           23502.5            |
-|            22307.5            |           23507.5            |
-|            22312.5            |           23512.5            |
-|            22317.5            |           23517.5            |
-|            22322.5            |           23522.5            |
-|            22327.5            |           23527.5            |
-|            22332.5            |           23532.5            |
-|            22337.5            |           23537.5            |
-|            22342.5            |           23542.5            |
-|            22347.5            |           23547.5            |
-|            22352.5            |           23552.5            |
-|            22357.5            |           23557.5            |
-|            22362.5            |           23562.5            |
-|            22367.5            |           23567.5            |
-|            22372.5            |           23572.5            |
-|            22377.5            |           23577.5            |
-|            22382.5            |           23582.5            |
-|            22387.5            |           23587.5            |
-|            22392.5            |           23592.5            |
-|            22397.5            |           23597.5            |
-|(3) 10 MHz bandwidth channels: |                              |
-|             21205             |            22405             |
-|             21215             |            22415             |
-|             21225             |            22425             |
-|             21235             |            22435             |
-|             21245             |            22445             |
-|             21255             |            22455             |
-|             21265             |            22465             |
-|             21275             |            22475             |
-|             21285             |            22485             |
-|             21295             |            22495             |
-|             21305             |            22505             |
-|             21315             |            22515             |
-|             21325             |            22525             |
-|             21335             |            22535             |
-|             21345             |            22545             |
-|             21355             |            22555             |
-|             21365             |            22565             |
-|             21375             |            22575             |
-|             21385             |            22585             |
-|             21395             |            22595             |
-|             21405             |            22605             |
-|             21415             |            22615             |
-|             21425             |            22625             |
-|             21435             |            22635             |
-|             21445             |            22645             |
-|             21455             |            22655             |
-|             21465             |            22665             |
-|             21475             |            22675             |
-|             21485             |            22685             |
-|             21495             |            22695             |
-|             21505             |            22705             |
-|             21515             |            22715             |
-|             21525             |            22725             |
-|             21535             |            22735             |
-|             21545             |            22745             |
-|             21555             |            22755             |
-|             21565             |            22765             |
-|             21575             |            22775             |
-|             21585             |            22785             |
-|             21595             |            22795             |
-|       21605<sup>1</sup>       |      <sup>1</sup> 22805      |
-|       21615<sup>1</sup>       |      <sup>1</sup> 22815      |
-|       21625<sup>1</sup>       |      <sup>1</sup> 22825      |
-|       21635<sup>1</sup>       |      <sup>1</sup> 22835      |
-|       21645<sup>1</sup>       |      <sup>1</sup> 22845      |
-|       21655<sup>1</sup>       |      <sup>1</sup> 22855      |
-|       21665<sup>1</sup>       |      <sup>1</sup> 22865      |
-|       21675<sup>1</sup>       |      <sup>1</sup> 22875      |
-|       21685<sup>1</sup>       |      <sup>1</sup> 22885      |
-|       21695<sup>1</sup>       |      <sup>1</sup> 22895      |
-|       21705<sup>1</sup>       |      <sup>1</sup> 22905      |
-|       21715<sup>1</sup>       |      <sup>1</sup> 22915      |
-|       21725<sup>1</sup>       |      <sup>1</sup> 22925      |
-|       21735<sup>1</sup>       |      <sup>1</sup> 22935      |
-|       21745<sup>1</sup>       |      <sup>1</sup> 22945      |
-|       21755<sup>1</sup>       |      <sup>1</sup> 22955      |
-|       21765<sup>1</sup>       |      <sup>1</sup> 22965      |
-|       21775<sup>1</sup>       |      <sup>1</sup> 22975      |
-|       21785<sup>1</sup>       |      <sup>1</sup> 22985      |
-|       21795<sup>1</sup>       |      <sup>1</sup> 22995      |
-|       21805<sup>2</sup>       |      <sup>2</sup> 23005      |
-|       21815<sup>2</sup>       |      <sup>2</sup> 23015      |
-|       21825<sup>2</sup>       |      <sup>2</sup> 23025      |
-|       21835<sup>2</sup>       |      <sup>2</sup> 23035      |
-|       21845<sup>2</sup>       |      <sup>2</sup> 23045      |
-|       21855<sup>2</sup>       |      <sup>2</sup> 23055      |
-|       21865<sup>2</sup>       |      <sup>2</sup> 23065      |
-|       21875<sup>2</sup>       |      <sup>2</sup> 23075      |
-|       21885<sup>2</sup>       |      <sup>2</sup> 23085      |
-|       21895<sup>2</sup>       |      <sup>2</sup> 23095      |
-|       21905<sup>2</sup>       |      <sup>2</sup> 23105      |
-|       21915<sup>2</sup>       |      <sup>2</sup> 23115      |
-|       21925<sup>2</sup>       |      <sup>2</sup> 23125      |
-|       21935<sup>2</sup>       |      <sup>2</sup> 23135      |
-|       21945<sup>2</sup>       |      <sup>2</sup> 23145      |
-|       21955<sup>2</sup>       |      <sup>2</sup> 23155      |
-|       21965<sup>2</sup>       |      <sup>2</sup> 23165      |
-|       21975<sup>2</sup>       |      <sup>2</sup> 23175      |
-|       21985<sup>2</sup>       |      <sup>2</sup> 23185      |
-|       21995<sup>2</sup>       |      <sup>2</sup> 23195      |
-|             22005             |            23205             |
-|             22015             |            23215             |
-|       22025<sup>2</sup>       |      23225<sup>2</sup>       |
-|             22035             |            23235             |
-|             22045             |            23245             |
-|             22055             |            23255             |
-|             22065             |            23265             |
-|       22075<sup>2</sup>       |      23275<sup>2</sup>       |
-|             22085             |            23285             |
-|             22095             |            23295             |
-|             22105             |            23305             |
-|             22115             |            23315             |
-|             22125             |            23325             |
-|             22135             |            23335             |
-|             22145             |            23345             |
-|             22155             |            23355             |
-|             22165             |            23365             |
-|             22175             |            23375             |
-|             22185             |            23385             |
-|             22195             |            23395             |
-|             22205             |            23405             |
-|             22215             |            23415             |
-|             22225             |            23425             |
-|             22235             |            23435             |
-|             22245             |            23445             |
-|             22255             |            23455             |
-|             22265             |            23465             |
-|             22275             |            23475             |
-|             22285             |            23485             |
-|             22295             |            23495             |
-|       22305<sup>1</sup>       |      <sup>1</sup> 23505      |
-|       22315<sup>1</sup>       |      <sup>1</sup> 23515      |
-|       22325<sup>1</sup>       |      <sup>1</sup> 23525      |
-|       22335<sup>1</sup>       |      <sup>1</sup> 23535      |
-|       22345<sup>1</sup>       |      <sup>1</sup> 23545      |
-|       22355<sup>1</sup>       |      <sup>1</sup> 23555      |
-|       22365<sup>1</sup>       |      <sup>1</sup> 23565      |
-|       22375<sup>1</sup>       |      <sup>1</sup> 23575      |
-|       22385<sup>1</sup>       |      <sup>1</sup> 23585      |
-|       22395<sup>1</sup>       |      <sup>1</sup> 23595      |
-|(4) 20 MHz bandwidth channels: |                              |
-|             21210             |            22410             |
-|             21230             |            22430             |
-|             21260             |            22460             |
-|             21280             |            22480             |
-|             21310             |            22510             |
-|             21330             |            22530             |
-|             21360             |            22560             |
-|             21380             |            22580             |
-|             21410             |            22610             |
-|             21430             |            22630             |
-|             21460             |            22660             |
-|             21480             |            22680             |
-|             21510             |            22710             |
-|             21530             |            22730             |
-|             21560             |            22760             |
-|             21580             |            22780             |
-|       21610<sup>1</sup>       |      <sup>1</sup> 22810      |
-|       21630<sup>1</sup>       |      <sup>1</sup> 22830      |
-|       21660<sup>1</sup>       |      <sup>1</sup> 22860      |
-|       21680<sup>1</sup>       |      <sup>1</sup> 22880      |
-|       21710<sup>1</sup>       |      <sup>1</sup> 22910      |
-|       21730<sup>1</sup>       |      <sup>1</sup> 22930      |
-|       21760<sup>1</sup>       |      <sup>1</sup> 22960      |
-|       21780<sup>1</sup>       |      <sup>1</sup> 22980      |
-|       21810<sup>2</sup>       |      <sup>2</sup> 23010      |
-|       21830<sup>2</sup>       |      <sup>2</sup> 23030      |
-|       21860<sup>2</sup>       |      <sup>2</sup> 23060      |
-|       21880<sup>2</sup>       |      <sup>2</sup> 23080      |
-|       21910<sup>2</sup>       |      <sup>2</sup> 23110      |
-|       21930<sup>2</sup>       |      <sup>2</sup> 23130      |
-|       21960<sup>2</sup>       |      <sup>2</sup> 23160      |
-|       21980<sup>2</sup>       |      <sup>2</sup> 23180      |
-|             22010             |            23210             |
-|             22030             |            23230             |
-|             22060             |            23260             |
-|             22080             |            23280             |
-|             22110             |            23310             |
-|             22130             |            23330             |
-|             22160             |            23360             |
-|             22180             |            23380             |
-|             22210             |            23410             |
-|             22230             |            23430             |
-|             22260             |            23460             |
-|             22280             |            23480             |
-|       22310<sup>1</sup>       |      <sup>1</sup> 23510      |
-|       22330<sup>1</sup>       |      <sup>1</sup> 23530      |
-|       22360<sup>1</sup>       |      <sup>1</sup> 23560      |
-|       22380<sup>1</sup>       |      <sup>1</sup> 23580      |
-|(5) 30 MHz bandwidth channels: |                              |
-|             21235             |            22435             |
-|             21285             |            22485             |
-|             21335             |            22535             |
-|             21385             |            22585             |
-|             21435             |            22635             |
-|             21485             |            22685             |
-|             21535             |            22735             |
-|             21585             |            22785             |
-|       21635<sup>1</sup>       |      <sup>1</sup> 22835      |
-|       21685<sup>1</sup>       |      <sup>1</sup> 22885      |
-|       21735<sup>1</sup>       |      <sup>1</sup> 22935      |
-|       21785<sup>1</sup>       |      <sup>1</sup> 22985      |
-|       21835<sup>2</sup>       |      <sup>2</sup> 23035      |
-|       21885<sup>2</sup>       |      <sup>2</sup> 23085      |
-|       21935<sup>2</sup>       |      <sup>2</sup> 23135      |
-|       21985<sup>2</sup>       |      <sup>2</sup> 23185      |
-|             22035             |            23235             |
-|             22085             |            23285             |
-|             22135             |            23335             |
-|             22185             |            23385             |
-|             22235             |            23435             |
-|             22285             |            23485             |
-|       22335<sup>1</sup>       |      <sup>1</sup> 23535      |
-|       22385<sup>1</sup>       |      <sup>1</sup> 23585      |
-|(6) 40 MHz bandwidth channels: |                              |
-|             21220             |            22420             |
-|             21270             |            22470             |
-|             21320             |            22520             |
-|             21370             |            22570             |
-|             21420             |            22620             |
-|             21470             |            22670             |
-|             21520             |            22720             |
-|             21570             |            22770             |
-|       21620<sup>1</sup>       |      <sup>1</sup> 22820      |
-|       21670<sup>1</sup>       |      <sup>1</sup> 22870      |
-|       21720<sup>1</sup>       |      <sup>1</sup> 22920      |
-|       21770<sup>1</sup>       |      <sup>1</sup> 22970      |
-|       21820<sup>2</sup>       |      <sup>2</sup> 23020      |
-|       21870<sup>2</sup>       |      <sup>2</sup> 23070      |
-|       21920<sup>2</sup>       |      <sup>2</sup> 23120      |
-|       21970<sup>2</sup>       |      <sup>2</sup> 23170      |
-|             22020             |            23220             |
-|             22070             |            23270             |
-|             22120             |            23320             |
-|             22170             |            23370             |
-|             22220             |            23420             |
-|             22270             |            23470             |
-|       22320<sup>1</sup>       |      <sup>1</sup> 23520      |
-|       22370<sup>1</sup>       |      <sup>1</sup> 23570      |
-|(7) 50 MHz bandwidth channels: |                              |
-|             21225             |            22425             |
-|             21275             |            22475             |
-|             21325             |            22525             |
-|             21375             |            22575             |
-|             21425             |            22625             |
-|             21475             |            22675             |
-|             21525             |            22725             |
-|             21575             |            22775             |
-|       21625<sup>1</sup>       |      <sup>1</sup> 22825      |
-|       21675<sup>1</sup>       |      <sup>1</sup> 22875      |
-|       21725<sup>1</sup>       |      <sup>1</sup> 22925      |
-|       21775<sup>1</sup>       |      <sup>1</sup> 22975      |
-|       21825<sup>2</sup>       |      <sup>2</sup> 23025      |
-|       21875<sup>2</sup>       |      <sup>2</sup> 23075      |
-|       21925<sup>2</sup>       |      <sup>2</sup> 23125      |
-|       21975<sup>2</sup>       |      <sup>2</sup> 23175      |
-|       22025<sup>2</sup>       |      23225<sup>2</sup>       |
-|       22075<sup>2</sup>       |      23275<sup>2</sup>       |
-|             22125             |            23325             |
-|             22175             |            23375             |
-|             22225             |            23425             |
-|             22275             |            23475             |
-|       22325<sup>1</sup>       |      <sup>1</sup> 23525      |
-|       22375<sup>1</sup>       |      <sup>1</sup>23575       |
-
-<sup>1</sup> Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked.
-
-<sup>2</sup> These frequencies may be assigned to low power systems, as defined in paragraph (8) of this section.
+|                                                              Transmit (receive) (MHz)                                                               |Receive (transmit)  <br/>(MHz)|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+|                                                           (1) 2.5 MHz bandwidth channels:                                                           |                              |
+|                                                                      21601.25                                                                       |           22801.25           |
+|                                                                      21603.75                                                                       |           22803.75           |
+|                                                                      21606.25                                                                       |           22806.25           |
+|                                                                      21608.75                                                                       |           22808.75           |
+|                                                                      21611.25                                                                       |           22811.25           |
+|                                                                      21613.75                                                                       |           22813.75           |
+|                                                                      21616.25                                                                       |           22816.25           |
+|                                                                      21618.75                                                                       |           22818.75           |
+|                                                                      21621.25                                                                       |           22821.25           |
+|                                                                      21623.75                                                                       |           22823.75           |
+|                                                                      21626.25                                                                       |           22826.25           |
+|                                                                      21628.75                                                                       |           22828.75           |
+|                                                                      21631.25                                                                       |           22831.25           |
+|                                                                      21633.75                                                                       |           22833.75           |
+|                                                                      21636.25                                                                       |           22836.25           |
+|                                                                      21638.75                                                                       |           22838.75           |
+|                                                                      21641.25                                                                       |           22841.25           |
+|                                                                      21643.75                                                                       |           22843.75           |
+|                                                                      21646.25                                                                       |           22846.25           |
+|                                                                      21648.75                                                                       |           22848.75           |
+|                                                                      21651.25                                                                       |           22851.25           |
+|                                                                      21653.75                                                                       |           22853.75           |
+|                                                                      21656.25                                                                       |           22856.25           |
+|                                                                      21658.75                                                                       |           22858.75           |
+|                                                                      21661.25                                                                       |           22861.25           |
+|                                                                      21663.75                                                                       |           22863.75           |
+|                                                                      21666.25                                                                       |           22866.25           |
+|                                                                      21668.75                                                                       |           22868.75           |
+|                                                                      21671.25                                                                       |           22871.25           |
+|                                                                      21673.75                                                                       |           22873.75           |
+|                                                                      21676.25                                                                       |           22876.25           |
+|                                                                      21678.75                                                                       |           22878.75           |
+|                                                                      21681.25                                                                       |           22881.25           |
+|                                                                      21683.75                                                                       |           22883.75           |
+|                                                                      21686.25                                                                       |           22886.25           |
+|                                                                      21688.75                                                                       |           22888.75           |
+|                                                                      21691.25                                                                       |           22891.25           |
+|                                                                      21693.75                                                                       |           22893.75           |
+|                                                                      21696.25                                                                       |           22896.25           |
+|                                                                      21698.75                                                                       |           22898.75           |
+|                                                                      21701.25                                                                       |           22901.25           |
+|                                                                      21703.75                                                                       |           22903.75           |
+|                                                                      21706.25                                                                       |           22906.25           |
+|                                                                      21708.75                                                                       |           22908.75           |
+|                                                                      21711.25                                                                       |           22911.25           |
+|                                                                      21713.75                                                                       |           22913.75           |
+|                                                                      21716.25                                                                       |           22916.25           |
+|                                                                      21718.75                                                                       |           22918.75           |
+|                                                                      21721.25                                                                       |           22921.25           |
+|                                                                      21723.75                                                                       |           22923.75           |
+|                                                                      21726.25                                                                       |           22926.25           |
+|                                                                      21728.75                                                                       |           22928.75           |
+|                                                                      21731.25                                                                       |           22931.25           |
+|                                                                      21733.75                                                                       |           22933.75           |
+|                                                                      21736.25                                                                       |           22936.25           |
+|                                                                      21738.75                                                                       |           22938.75           |
+|                                                                      21741.25                                                                       |           22941.25           |
+|                                                                      21743.75                                                                       |           22943.75           |
+|                                                                      21746.25                                                                       |           22946.25           |
+|                                                                      21748.75                                                                       |           22948.75           |
+|                                                                      21751.25                                                                       |           22951.25           |
+|                                                                      21753.75                                                                       |           22953.75           |
+|                                                                      21756.25                                                                       |           22956.25           |
+|                                                                      21758.75                                                                       |           22958.75           |
+|                                                                      21761.25                                                                       |           22961.25           |
+|                                                                      21763.75                                                                       |           22963.75           |
+|                                                                      21766.25                                                                       |           22966.25           |
+|                                                                      21768.75                                                                       |           22968.75           |
+|                                                                      21771.25                                                                       |           22971.25           |
+|                                                                      21773.75                                                                       |           22973.75           |
+|                                                                      21776.25                                                                       |           22976.25           |
+|                                                                      21778.75                                                                       |           22978.75           |
+|                                                                      21781.25                                                                       |           22981.25           |
+|                                                                      21783.75                                                                       |           22983.75           |
+|                                                                      21786.25                                                                       |           22986.25           |
+|                                                                      21788.75                                                                       |           22988.75           |
+|                                                                      21791.25                                                                       |           22991.25           |
+|                                                                      21793.75                                                                       |           22993.75           |
+|                                                                      21796.25                                                                       |           22996.25           |
+|                                                                      21798.75                                                                       |           22998.75           |
+|                                                                      22301.25                                                                       |           23501.25           |
+|                                                                      22303.75                                                                       |           23503.75           |
+|                                                                      22306.25                                                                       |           23506.25           |
+|                                                                      22308.75                                                                       |           23508.75           |
+|                                                                      22311.25                                                                       |           23511.25           |
+|                                                                      22313.75                                                                       |           23513.75           |
+|                                                                      22316.25                                                                       |           23516.25           |
+|                                                                      22318.75                                                                       |           23518.75           |
+|                                                                      22321.25                                                                       |           23521.25           |
+|                                                                      22323.75                                                                       |           23523.75           |
+|                                                                      22326.25                                                                       |           23526.25           |
+|                                                                      22328.75                                                                       |           23528.75           |
+|                                                                      22331.25                                                                       |           23531.25           |
+|                                                                      22333.75                                                                       |           23533.75           |
+|                                                                      22336.25                                                                       |           23536.25           |
+|                                                                      22338.75                                                                       |           23538.75           |
+|                                                                      22341.25                                                                       |           23541.25           |
+|                                                                      22343.75                                                                       |           23543.75           |
+|                                                                      22346.25                                                                       |           23546.25           |
+|                                                                      22348.75                                                                       |           23548.75           |
+|                                                                      22351.25                                                                       |           23551.25           |
+|                                                                      22353.75                                                                       |           23553.75           |
+|                                                                      22356.25                                                                       |           23556.25           |
+|                                                                      22358.75                                                                       |           23558.75           |
+|                                                                      22361.25                                                                       |           23561.25           |
+|                                                                      22363.75                                                                       |           23563.75           |
+|                                                                      22366.25                                                                       |           23566.25           |
+|                                                                      22368.75                                                                       |           23568.75           |
+|                                                                      22371.25                                                                       |           23571.25           |
+|                                                                      22373.75                                                                       |           23573.75           |
+|                                                                      22376.25                                                                       |           23576.25           |
+|                                                                      22378.75                                                                       |           23578.75           |
+|                                                                      22381.25                                                                       |           23581.25           |
+|                                                                      22383.75                                                                       |           23583.75           |
+|                                                                      22386.25                                                                       |           23586.25           |
+|                                                                      22388.75                                                                       |           23588.75           |
+|                                                                      22391.25                                                                       |           23591.25           |
+|                                                                      22393.75                                                                       |           23593.75           |
+|                                                                      22396.25                                                                       |           23596.25           |
+|                                                                      22398.75                                                                       |           23598.75           |
+|                                                            (2) 5 MHz bandwidth channels:                                                            |                              |
+|                                                                       21602.5                                                                       |           22802.5            |
+|                                                                       21607.5                                                                       |           22807.5            |
+|                                                                       21612.5                                                                       |           22812.5            |
+|                                                                       21617.5                                                                       |           22817.5            |
+|                                                                       21622.5                                                                       |           22822.5            |
+|                                                                       21627.5                                                                       |           22827.5            |
+|                                                                       21632.5                                                                       |           22832.5            |
+|                                                                       21637.5                                                                       |           22837.5            |
+|                                                                       21642.5                                                                       |           22842.5            |
+|                                                                       21647.5                                                                       |           22847.5            |
+|                                                                       21652.5                                                                       |           22852.5            |
+|                                                                       21657.5                                                                       |           22857.5            |
+|                                                                       21662.5                                                                       |           22862.5            |
+|                                                                       21667.5                                                                       |           22867.5            |
+|                                                                       21672.5                                                                       |           22872.5            |
+|                                                                       21677.5                                                                       |           22877.5            |
+|                                                                       21682.5                                                                       |           22882.5            |
+|                                                                       21687.5                                                                       |           22887.5            |
+|                                                                       21692.5                                                                       |           22892.5            |
+|                                                                       21697.5                                                                       |           22897.5            |
+|                                                                       21702.5                                                                       |           22902.5            |
+|                                                                       21707.5                                                                       |           22907.5            |
+|                                                                       21712.5                                                                       |           22912.5            |
+|                                                                       21717.5                                                                       |           22917.5            |
+|                                                                       21722.5                                                                       |           22922.5            |
+|                                                                       21727.5                                                                       |           22927.5            |
+|                                                                       21732.5                                                                       |           22932.5            |
+|                                                                       21737.5                                                                       |           22937.5            |
+|                                                                       21742.5                                                                       |           22942.5            |
+|                                                                       21747.5                                                                       |           22947.5            |
+|                                                                       21752.5                                                                       |           22952.5            |
+|                                                                       21757.5                                                                       |           22957.5            |
+|                                                                       21762.5                                                                       |           22962.5            |
+|                                                                       21767.5                                                                       |           22967.5            |
+|                                                                       21772.5                                                                       |           22972.5            |
+|                                                                       21777.5                                                                       |           22977.5            |
+|                                                                       21782.5                                                                       |           22982.5            |
+|                                                                       21787.5                                                                       |           22987.5            |
+|                                                                       21792.5                                                                       |           22992.5            |
+|                                                                       21797.5                                                                       |           22997.5            |
+|                                                                       22302.5                                                                       |           23502.5            |
+|                                                                       22307.5                                                                       |           23507.5            |
+|                                                                       22312.5                                                                       |           23512.5            |
+|                                                                       22317.5                                                                       |           23517.5            |
+|                                                                       22322.5                                                                       |           23522.5            |
+|                                                                       22327.5                                                                       |           23527.5            |
+|                                                                       22332.5                                                                       |           23532.5            |
+|                                                                       22337.5                                                                       |           23537.5            |
+|                                                                       22342.5                                                                       |           23542.5            |
+|                                                                       22347.5                                                                       |           23547.5            |
+|                                                                       22352.5                                                                       |           23552.5            |
+|                                                                       22357.5                                                                       |           23557.5            |
+|                                                                       22362.5                                                                       |           23562.5            |
+|                                                                       22367.5                                                                       |           23567.5            |
+|                                                                       22372.5                                                                       |           23572.5            |
+|                                                                       22377.5                                                                       |           23577.5            |
+|                                                                       22382.5                                                                       |           23582.5            |
+|                                                                       22387.5                                                                       |           23587.5            |
+|                                                                       22392.5                                                                       |           23592.5            |
+|                                                                       22397.5                                                                       |           23597.5            |
+|                                                           (3) 10 MHz bandwidth channels:                                                            |                              |
+|                                                                        21205                                                                        |            22405             |
+|                                                                        21215                                                                        |            22415             |
+|                                                                        21225                                                                        |            22425             |
+|                                                                        21235                                                                        |            22435             |
+|                                                                        21245                                                                        |            22445             |
+|                                                                        21255                                                                        |            22455             |
+|                                                                        21265                                                                        |            22465             |
+|                                                                        21275                                                                        |            22475             |
+|                                                                        21285                                                                        |            22485             |
+|                                                                        21295                                                                        |            22495             |
+|                                                                        21305                                                                        |            22505             |
+|                                                                        21315                                                                        |            22515             |
+|                                                                        21325                                                                        |            22525             |
+|                                                                        21335                                                                        |            22535             |
+|                                                                        21345                                                                        |            22545             |
+|                                                                        21355                                                                        |            22555             |
+|                                                                        21365                                                                        |            22565             |
+|                                                                        21375                                                                        |            22575             |
+|                                                                        21385                                                                        |            22585             |
+|                                                                        21395                                                                        |            22595             |
+|                                                                        21405                                                                        |            22605             |
+|                                                                        21415                                                                        |            22615             |
+|                                                                        21425                                                                        |            22625             |
+|                                                                        21435                                                                        |            22635             |
+|                                                                        21445                                                                        |            22645             |
+|                                                                        21455                                                                        |            22655             |
+|                                                                        21465                                                                        |            22665             |
+|                                                                        21475                                                                        |            22675             |
+|                                                                        21485                                                                        |            22685             |
+|                                                                        21495                                                                        |            22695             |
+|                                                                        21505                                                                        |            22705             |
+|                                                                        21515                                                                        |            22715             |
+|                                                                        21525                                                                        |            22725             |
+|                                                                        21535                                                                        |            22735             |
+|                                                                        21545                                                                        |            22745             |
+|                                                                        21555                                                                        |            22755             |
+|                                                                        21565                                                                        |            22765             |
+|                                                                        21575                                                                        |            22775             |
+|                                                                        21585                                                                        |            22785             |
+|                                                                        21595                                                                        |            22795             |
+|                                                                 21605 <sup>1</sup>                                                                  |      <sup>1</sup> 22805      |
+|                                                                 21615 <sup>1</sup>                                                                  |      <sup>1</sup> 22815      |
+|                                                                 21625 <sup>1</sup>                                                                  |      <sup>1</sup> 22825      |
+|                                                                 21635 <sup>1</sup>                                                                  |      <sup>1</sup> 22835      |
+|                                                                 21645 <sup>1</sup>                                                                  |      <sup>1</sup> 22845      |
+|                                                                 21655 <sup>1</sup>                                                                  |      <sup>1</sup> 22855      |
+|                                                                 21665 <sup>1</sup>                                                                  |      <sup>1</sup> 22865      |
+|                                                                 21675 <sup>1</sup>                                                                  |      <sup>1</sup> 22875      |
+|                                                                 21685 <sup>1</sup>                                                                  |      <sup>1</sup> 22885      |
+|                                                                 21695 <sup>1</sup>                                                                  |      <sup>1</sup> 22895      |
+|                                                                 21705 <sup>1</sup>                                                                  |      <sup>1</sup> 22905      |
+|                                                                 21715 <sup>1</sup>                                                                  |      <sup>1</sup> 22915      |
+|                                                                 21725 <sup>1</sup>                                                                  |      <sup>1</sup> 22925      |
+|                                                                 21735 <sup>1</sup>                                                                  |      <sup>1</sup> 22935      |
+|                                                                 21745 <sup>1</sup>                                                                  |      <sup>1</sup> 22945      |
+|                                                                 21755 <sup>1</sup>                                                                  |      <sup>1</sup> 22955      |
+|                                                                 21765 <sup>1</sup>                                                                  |      <sup>1</sup> 22965      |
+|                                                                 21775 <sup>1</sup>                                                                  |      <sup>1</sup> 22975      |
+|                                                                 21785 <sup>1</sup>                                                                  |      <sup>1</sup> 22985      |
+|                                                                 21795 <sup>1</sup>                                                                  |      <sup>1</sup> 22995      |
+|                                                                 21805 <sup>2</sup>                                                                  |      <sup>2</sup> 23005      |
+|                                                                 21815 <sup>2</sup>                                                                  |      <sup>2</sup> 23015      |
+|                                                                 21825 <sup>2</sup>                                                                  |      <sup>2</sup> 23025      |
+|                                                                 21835 <sup>2</sup>                                                                  |      <sup>2</sup> 23035      |
+|                                                                 21845 <sup>2</sup>                                                                  |      <sup>2</sup> 23045      |
+|                                                                 21855 <sup>2</sup>                                                                  |      <sup>2</sup> 23055      |
+|                                                                 21865 <sup>2</sup>                                                                  |      <sup>2</sup> 23065      |
+|                                                                 21875 <sup>2</sup>                                                                  |      <sup>2</sup> 23075      |
+|                                                                 21885 <sup>2</sup>                                                                  |      <sup>2</sup> 23085      |
+|                                                                 21895 <sup>2</sup>                                                                  |      <sup>2</sup> 23095      |
+|                                                                 21905 <sup>2</sup>                                                                  |      <sup>2</sup> 23105      |
+|                                                                 21915 <sup>2</sup>                                                                  |      <sup>2</sup> 23115      |
+|                                                                 21925 <sup>2</sup>                                                                  |      <sup>2</sup> 23125      |
+|                                                                 21935 <sup>2</sup>                                                                  |      <sup>2</sup> 23135      |
+|                                                                 21945 <sup>2</sup>                                                                  |      <sup>2</sup> 23145      |
+|                                                                 21955 <sup>2</sup>                                                                  |      <sup>2</sup> 23155      |
+|                                                                 21965 <sup>2</sup>                                                                  |      <sup>2</sup> 23165      |
+|                                                                 21975 <sup>2</sup>                                                                  |      <sup>2</sup> 23175      |
+|                                                                 21985 <sup>2</sup>                                                                  |      <sup>2</sup> 23185      |
+|                                                                 21995 <sup>2</sup>                                                                  |      <sup>2</sup> 23195      |
+|                                                                        22005                                                                        |            23205             |
+|                                                                        22015                                                                        |            23215             |
+|                                                                 22025 <sup>2</sup>                                                                  |      23225 <sup>2</sup>      |
+|                                                                        22035                                                                        |            23235             |
+|                                                                        22045                                                                        |            23245             |
+|                                                                        22055                                                                        |            23255             |
+|                                                                        22065                                                                        |            23265             |
+|                                                                 22075 <sup>2</sup>                                                                  |      23275 <sup>2</sup>      |
+|                                                                        22085                                                                        |            23285             |
+|                                                                        22095                                                                        |            23295             |
+|                                                                        22105                                                                        |            23305             |
+|                                                                        22115                                                                        |            23315             |
+|                                                                        22125                                                                        |            23325             |
+|                                                                        22135                                                                        |            23335             |
+|                                                                        22145                                                                        |            23345             |
+|                                                                        22155                                                                        |            23355             |
+|                                                                        22165                                                                        |            23365             |
+|                                                                        22175                                                                        |            23375             |
+|                                                                        22185                                                                        |            23385             |
+|                                                                        22195                                                                        |            23395             |
+|                                                                        22205                                                                        |            23405             |
+|                                                                        22215                                                                        |            23415             |
+|                                                                        22225                                                                        |            23425             |
+|                                                                        22235                                                                        |            23435             |
+|                                                                        22245                                                                        |            23445             |
+|                                                                        22255                                                                        |            23455             |
+|                                                                        22265                                                                        |            23465             |
+|                                                                        22275                                                                        |            23475             |
+|                                                                        22285                                                                        |            23485             |
+|                                                                        22295                                                                        |            23495             |
+|                                                                 22305 <sup>1</sup>                                                                  |      <sup>1</sup> 23505      |
+|                                                                 22315 <sup>1</sup>                                                                  |      <sup>1</sup> 23515      |
+|                                                                 22325 <sup>1</sup>                                                                  |      <sup>1</sup> 23525      |
+|                                                                 22335 <sup>1</sup>                                                                  |      <sup>1</sup> 23535      |
+|                                                                 22345 <sup>1</sup>                                                                  |      <sup>1</sup> 23545      |
+|                                                                 22355 <sup>1</sup>                                                                  |      <sup>1</sup> 23555      |
+|                                                                 22365 <sup>1</sup>                                                                  |      <sup>1</sup> 23565      |
+|                                                                 22375 <sup>1</sup>                                                                  |      <sup>1</sup> 23575      |
+|                                                                 22385 <sup>1</sup>                                                                  |      <sup>1</sup> 23585      |
+|                                                                 22395 <sup>1</sup>                                                                  |      <sup>1</sup> 23595      |
+|                                                           (4) 20 MHz bandwidth channels:                                                            |                              |
+|                                                                        21210                                                                        |            22410             |
+|                                                                        21230                                                                        |            22430             |
+|                                                                        21260                                                                        |            22460             |
+|                                                                        21280                                                                        |            22480             |
+|                                                                        21310                                                                        |            22510             |
+|                                                                        21330                                                                        |            22530             |
+|                                                                        21360                                                                        |            22560             |
+|                                                                        21380                                                                        |            22580             |
+|                                                                        21410                                                                        |            22610             |
+|                                                                        21430                                                                        |            22630             |
+|                                                                        21460                                                                        |            22660             |
+|                                                                        21480                                                                        |            22680             |
+|                                                                        21510                                                                        |            22710             |
+|                                                                        21530                                                                        |            22730             |
+|                                                                        21560                                                                        |            22760             |
+|                                                                        21580                                                                        |            22780             |
+|                                                                 21610 <sup>1</sup>                                                                  |      <sup>1</sup> 22810      |
+|                                                                 21630 <sup>1</sup>                                                                  |      <sup>1</sup> 22830      |
+|                                                                 21660 <sup>1</sup>                                                                  |      <sup>1</sup> 22860      |
+|                                                                 21680 <sup>1</sup>                                                                  |      <sup>1</sup> 22880      |
+|                                                                 21710 <sup>1</sup>                                                                  |      <sup>1</sup> 22910      |
+|                                                                 21730 <sup>1</sup>                                                                  |      <sup>1</sup> 22930      |
+|                                                                 21760 <sup>1</sup>                                                                  |      <sup>1</sup> 22960      |
+|                                                                 21780 <sup>1</sup>                                                                  |      <sup>1</sup> 22980      |
+|                                                                 21810 <sup>2</sup>                                                                  |      <sup>2</sup> 23010      |
+|                                                                 21830 <sup>2</sup>                                                                  |      <sup>2</sup> 23030      |
+|                                                                 21860 <sup>2</sup>                                                                  |      <sup>2</sup> 23060      |
+|                                                                 21880 <sup>2</sup>                                                                  |      <sup>2</sup> 23080      |
+|                                                                 21910 <sup>2</sup>                                                                  |      <sup>2</sup> 23110      |
+|                                                                 21930 <sup>2</sup>                                                                  |      <sup>2</sup> 23130      |
+|                                                                 21960 <sup>2</sup>                                                                  |      <sup>2</sup> 23160      |
+|                                                                 21980 <sup>2</sup>                                                                  |      <sup>2</sup> 23180      |
+|                                                                        22010                                                                        |            23210             |
+|                                                                        22030                                                                        |            23230             |
+|                                                                        22060                                                                        |            23260             |
+|                                                                        22080                                                                        |            23280             |
+|                                                                        22110                                                                        |            23310             |
+|                                                                        22130                                                                        |            23330             |
+|                                                                        22160                                                                        |            23360             |
+|                                                                        22180                                                                        |            23380             |
+|                                                                        22210                                                                        |            23410             |
+|                                                                        22230                                                                        |            23430             |
+|                                                                        22260                                                                        |            23460             |
+|                                                                        22280                                                                        |            23480             |
+|                                                                 22310 <sup>1</sup>                                                                  |      <sup>1</sup> 23510      |
+|                                                                 22330 <sup>1</sup>                                                                  |      <sup>1</sup> 23530      |
+|                                                                 22360 <sup>1</sup>                                                                  |      <sup>1</sup> 23560      |
+|                                                                 22380 <sup>1</sup>                                                                  |      <sup>1</sup> 23580      |
+|                                                           (5) 30 MHz bandwidth channels:                                                            |                              |
+|                                                                        21235                                                                        |            22435             |
+|                                                                        21285                                                                        |            22485             |
+|                                                                        21335                                                                        |            22535             |
+|                                                                        21385                                                                        |            22585             |
+|                                                                        21435                                                                        |            22635             |
+|                                                                        21485                                                                        |            22685             |
+|                                                                        21535                                                                        |            22735             |
+|                                                                        21585                                                                        |            22785             |
+|                                                                 21635 <sup>1</sup>                                                                  |      <sup>1</sup> 22835      |
+|                                                                 21685 <sup>1</sup>                                                                  |      <sup>1</sup> 22885      |
+|                                                                 21735 <sup>1</sup>                                                                  |      <sup>1</sup> 22935      |
+|                                                                 21785 <sup>1</sup>                                                                  |      <sup>1</sup> 22985      |
+|                                                                 21835 <sup>2</sup>                                                                  |      <sup>2</sup> 23035      |
+|                                                                 21885 <sup>2</sup>                                                                  |      <sup>2</sup> 23085      |
+|                                                                 21935 <sup>2</sup>                                                                  |      <sup>2</sup> 23135      |
+|                                                                 21985 <sup>2</sup>                                                                  |      <sup>2</sup> 23185      |
+|                                                                        22035                                                                        |            23235             |
+|                                                                        22085                                                                        |            23285             |
+|                                                                        22135                                                                        |            23335             |
+|                                                                        22185                                                                        |            23385             |
+|                                                                        22235                                                                        |            23435             |
+|                                                                        22285                                                                        |            23485             |
+|                                                                 22335 <sup>1</sup>                                                                  |      <sup>1</sup> 23535      |
+|                                                                 22385 <sup>1</sup>                                                                  |      <sup>1</sup> 23585      |
+|                                                           (6) 40 MHz bandwidth channels:                                                            |                              |
+|                                                                        21220                                                                        |            22420             |
+|                                                                        21270                                                                        |            22470             |
+|                                                                        21320                                                                        |            22520             |
+|                                                                        21370                                                                        |            22570             |
+|                                                                        21420                                                                        |            22620             |
+|                                                                        21470                                                                        |            22670             |
+|                                                                        21520                                                                        |            22720             |
+|                                                                        21570                                                                        |            22770             |
+|                                                                 21620 <sup>1</sup>                                                                  |      <sup>1</sup> 22820      |
+|                                                                 21670 <sup>1</sup>                                                                  |      <sup>1</sup> 22870      |
+|                                                                 21720 <sup>1</sup>                                                                  |      <sup>1</sup> 22920      |
+|                                                                 21770 <sup>1</sup>                                                                  |      <sup>1</sup> 22970      |
+|                                                                 21820 <sup>2</sup>                                                                  |      <sup>2</sup> 23020      |
+|                                                                 21870 <sup>2</sup>                                                                  |      <sup>2</sup> 23070      |
+|                                                                 21920 <sup>2</sup>                                                                  |      <sup>2</sup> 23120      |
+|                                                                 21970 <sup>2</sup>                                                                  |      <sup>2</sup> 23170      |
+|                                                                        22020                                                                        |            23220             |
+|                                                                        22070                                                                        |            23270             |
+|                                                                        22120                                                                        |            23320             |
+|                                                                        22170                                                                        |            23370             |
+|                                                                        22220                                                                        |            23420             |
+|                                                                        22270                                                                        |            23470             |
+|                                                                 22320 <sup>1</sup>                                                                  |      <sup>1</sup> 23520      |
+|                                                                 22370 <sup>1</sup>                                                                  |      <sup>1</sup> 23570      |
+|                                                           (7) 50 MHz bandwidth channels:                                                            |                              |
+|                                                                        21225                                                                        |            22425             |
+|                                                                        21275                                                                        |            22475             |
+|                                                                        21325                                                                        |            22525             |
+|                                                                        21375                                                                        |            22575             |
+|                                                                        21425                                                                        |            22625             |
+|                                                                        21475                                                                        |            22675             |
+|                                                                        21525                                                                        |            22725             |
+|                                                                        21575                                                                        |            22775             |
+|                                                                 21625 <sup>1</sup>                                                                  |      <sup>1</sup> 22825      |
+|                                                                 21675 <sup>1</sup>                                                                  |      <sup>1</sup> 22875      |
+|                                                                 21725 <sup>1</sup>                                                                  |      <sup>1</sup> 22925      |
+|                                                                 21775 <sup>1</sup>                                                                  |      <sup>1</sup> 22975      |
+|                                                                 21825 <sup>2</sup>                                                                  |      <sup>2</sup> 23025      |
+|                                                                 21875 <sup>2</sup>                                                                  |      <sup>2</sup> 23075      |
+|                                                                 21925 <sup>2</sup>                                                                  |      <sup>2</sup> 23125      |
+|                                                                 21975 <sup>2</sup>                                                                  |      <sup>2</sup> 23175      |
+|                                                                 22025 <sup>2</sup>                                                                  |      23225 <sup>2</sup>      |
+|                                                                 22075 <sup>2</sup>                                                                  |      23275 <sup>2</sup>      |
+|                                                                        22125                                                                        |            23325             |
+|                                                                        22175                                                                        |            23375             |
+|                                                                        22225                                                                        |            23425             |
+|                                                                        22275                                                                        |            23475             |
+|                                                                 22325 <sup>1</sup>                                                                  |      <sup>1</sup> 23525      |
+|                                                                 22375 <sup>1</sup>                                                                  |      <sup>1</sup> 23575      |
+|<sup>1</sup> Alternate channels. These channels are set aside for narrow bandwidth systems and should be used only if all other channels are blocked.|                              |
+|                  <sup>2</sup> These frequencies may be assigned to low power systems, as defined in paragraph (8) of this section.                  |                              |
 
 (8) *Special provisions for low power, limited coverage systems in the 21.8-22.0 GHz and 23.0-23.2 GHz band segments.* Notwithstanding any contrary provisions in this part, the frequency band segment 21.8-22.0 GHz paired with the frequency band segment 23.0-23.2 GHz may be authorized for low power, limited coverage systems subject to the following provisions:
 
@@ -2780,5 +2692,155 @@ These channels are assigned for use within a rectangular service area to be desc
 (z) *71,000-76,000 MHz; 81,000-86,000 MHz; 92,000-94,000 MHz; 94,100-95,000 MHz.* (1) Those applicants who are approved in accordance with FCC Form 601 will each be granted a single, non-exclusive nationwide license. Site-by-site registration is on a first-come, first-served basis. Registration will be in the Universal Licensing System until the Wireless Telecommunications Bureau announces by public notice, the implementation of a third-party database. *See* 47 CFR 101.1523. Links may not operate until NTIA approval is received. Licensees may use these bands for any point-to-point non-broadcast service.
 
 (2) Prior links shall be protected using the interference protection criteria set forth in section 101.105. For transmitters employing digital modulation techniques and operating in the 71,000-76,000 MHz or 81,000-86,000 MHz bands, the licensee must construct a system that meets a minimum bit rate of 0.125 bits per second per Hertz of bandwidth. For transmitters that operate in the 92,000-94,000 MHz or 94,100-95,000 MHz bands, licensees must construct a system that meets a minimum bit rate of 1.0 bit per second per Hertz of bandwidth. If it is determined that a licensee has not met these loading requirements, then the database will be modified to limit coordination rights to the spectrum that is loaded and the licensee will lose protection rights on spectrum that has not been loaded.
+
+(3) The following channel plans apply to the 71,000-76,000 MHz and 81,000-86,000 MHz bands:
+
+(i) *250 MHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               71250                |               81250                |
+|               71500                |               81500                |
+|               71750                |               81750                |
+|               72000                |               82000                |
+|               72250                |               82250                |
+|               72500                |               82500                |
+|               72750                |               82750                |
+|               73000                |               83000                |
+|               73250                |               83250                |
+|               73500                |               83500                |
+|               73750                |               83750                |
+|               74000                |               84000                |
+|               74250                |               84250                |
+|               74500                |               84500                |
+|               74750                |               84750                |
+|               75000                |               85000                |
+|               75250                |               85250                |
+|               75500                |               85500                |
+|               75750                |               85750                |
+
+(ii) *500 MHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               71375                |               81375                |
+|               71875                |               81875                |
+|               72375                |               82375                |
+|               72875                |               82875                |
+|               73375                |               83375                |
+|               73875                |               83875                |
+|               74375                |               84375                |
+|               74875                |               84875                |
+|               75375                |               85375                |
+
+(iii) *750 MHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               71500                |               81500                |
+|               72250                |               82250                |
+|               73000                |               83000                |
+|               73750                |               83750                |
+|               74500                |               84500                |
+|               75250                |               85250                |
+
+(iv) *1 GHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               71625                |               81625                |
+|               72625                |               82625                |
+|               74125                |               84125                |
+|               75125                |               85125                |
+
+(v) *1.25 GHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               71750                |               81750                |
+|               73000                |               83000                |
+|               74250                |               84250                |
+
+(vi) *1.5 GHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               71875                |               81875                |
+|               74375                |               84375                |
+
+(vii) *1.75 GHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               72000                |               82000                |
+|               74500                |               84500                |
+
+(viii) *2.0 GHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               72125                |               82125                |
+|               74625                |               84625                |
+
+(ix) *2.25 GHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               72250                |               82250                |
+|               74750                |               84750                |
+
+(x) *2.5 GHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               72375                |               82375                |
+
+(xi) *2.75 GHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               72500                |               82500                |
+
+(xii) *3 GHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               72625                |               82625                |
+
+(xiii) *3.25 GHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               72750                |               82750                |
+
+(xiv) *3.5 GHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               72875                |               82875                |
+
+(xv) *3.75 GHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               73000                |               83000                |
+
+(xvi) *4 GHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               73125                |               83125                |
+
+(xvii) *4.25 GHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               73250                |               83250                |
+
+(xviii) *4.5 GHz authorized bandwidth.*
+
+|Transmit  <br/>(receive)  <br/>(MHz)|Receive  <br/>(transmit)  <br/>(MHz)|
+|------------------------------------|------------------------------------|
+|               73375                |               83375                |
 
 [61 FR 26677, May 28, 1996]Editorial Note:For Federal Register citations affecting § 101.147, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

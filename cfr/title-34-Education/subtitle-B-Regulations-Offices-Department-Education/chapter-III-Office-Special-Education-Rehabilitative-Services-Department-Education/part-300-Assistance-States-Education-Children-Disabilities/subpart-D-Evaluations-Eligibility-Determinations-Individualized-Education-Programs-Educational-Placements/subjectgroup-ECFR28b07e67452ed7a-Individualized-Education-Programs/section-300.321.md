@@ -42,4 +42,4 @@
 
 (f) *Initial IEP Team meeting for child under Part C.* In the case of a child who was previously served under Part C of the Act, an invitation to the initial IEP Team meeting must, at the request of the parent, be sent to the Part C service coordinator or other representatives of the Part C system to assist with the smooth transition of services.
 
-(Authority: 20 U.S.C. 1414(d)(1)(B)-(d)(1)(D))[71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61307, Oct. 30, 2007]
+(Authority: 20 U.S.C. 1414(d)(1)(B)-(d)(1)(D)) [71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61307, Oct. 30, 2007]

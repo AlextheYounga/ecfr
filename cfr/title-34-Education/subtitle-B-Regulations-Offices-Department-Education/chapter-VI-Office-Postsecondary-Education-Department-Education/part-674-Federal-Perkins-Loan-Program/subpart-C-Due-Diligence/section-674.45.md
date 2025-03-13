@@ -68,4 +68,4 @@
 
 (h) As part of the collection activities provided for in this section, the institution must provide the borrower with information on the availability of the Student Loan Ombudsman's office.
 
-(Approved by the Office of Management and Budget under control number 1845-0023)(Authority: 20 U.S.C. 424, 1087cc, 1091a)[52 FR 45555, Nov. 30, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32346, July 21, 1992; 59 FR 61412, Nov. 30, 1994; 62 FR 50848, Sept. 26, 1997; 64 FR 58312, Oct. 28, 1999; 67 FR 67077, Nov. 1, 2002; 72 FR 61997, Nov. 1, 2007]
+(Approved by the Office of Management and Budget under control number 1845-0023) (Authority: 20 U.S.C. 424, 1087cc, 1091a)[52 FR 45555, Nov. 30, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32346, July 21, 1992; 59 FR 61412, Nov. 30, 1994; 62 FR 50848, Sept. 26, 1997; 64 FR 58312, Oct. 28, 1999; 67 FR 67077, Nov. 1, 2002; 72 FR 61997, Nov. 1, 2007]

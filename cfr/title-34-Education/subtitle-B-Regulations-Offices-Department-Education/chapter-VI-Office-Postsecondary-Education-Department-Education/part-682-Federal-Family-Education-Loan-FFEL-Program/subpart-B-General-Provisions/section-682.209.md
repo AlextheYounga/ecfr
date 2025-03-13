@@ -176,4 +176,4 @@
 
 (4) The school is affiliated with the lender by common control, contract, or business arrangement.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1077, 1078, 1078-1, 1078-2, 1078-3, 1079, 1082, 1085)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.209, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Approved by the Office of Management and Budget under control number 1845-0020) (Authority: 20 U.S.C. 1077, 1078, 1078-1, 1078-2, 1078-3, 1079, 1082, 1085)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.209, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

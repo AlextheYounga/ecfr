@@ -1,6 +1,6 @@
 ##### § 668.84 Fine proceedings. #####
 
-(a) *Scope and consequences.* (1) The Secretary may impose a fine of up to $69,7331 per violation on a participating institution or third-party servicer that—
+(a) *Scope and consequences.* (1) The Secretary may impose a fine of up to $69,733 1 per violation on a participating institution or third-party servicer that—
 
 1 As adjusted in accordance with the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended (28 U.S.C. 2461 note).
 

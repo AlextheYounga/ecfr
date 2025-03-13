@@ -40,4 +40,4 @@
 
 (e) *Rule of construction.* Notwithstanding any other individual right of action that a parent or student may maintain under this part, nothing in this part shall be construed to create a right of action on behalf of an individual student or a class of students for the failure of a particular SEA or LEA employee to meet the applicable requirements described in paragraph (c) of this section, or to prevent a parent from filing a complaint about staff qualifications with the SEA as provided for under this part.
 
-(Approved by the Office of Management and Budget under control number 1820-0030)(Authority: 20 U.S.C. 1412(a)(14))[71 FR 46753, Aug. 14, 2006, as amended at 82 FR 29759, June 30, 2017]
+(Approved by the Office of Management and Budget under control number 1820-0030)(Authority: 20 U.S.C. 1412(a)(14)) [71 FR 46753, Aug. 14, 2006, as amended at 82 FR 29759, June 30, 2017]

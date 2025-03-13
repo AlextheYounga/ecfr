@@ -1,5 +1,5 @@
 ##### § 101.1501 Service areas. #####
 
-Link to an amendment published at 89 FR 33261, Apr. 29, 2024.
+The 70/80/90 GHz bands are licensed on the basis of non-exclusive nationwide licenses. There is no limit to the number of non-exclusive nationwide licenses that may be granted for these bands, and these licenses will serve as a prerequisite for registering individual point-to-point links. In the 71-76 GHz and 81-86 GHz bands, nationwide non-exclusive licenses also serve as a blanket license for air-to-air and ship-to-ship operations, and as a prerequisite to register ground-to-air (GTA) stations and to operate associated GTA and air-to-ground (ATG) transmissions; and as a prerequisite to register shore stations and aerostat relay stations and to operate associated ship-to-shore, shore-to-ship, shore-to-aerostat, aerostat-to-ship, and aerostat-to-shore transmissions.
 
-The 70/80/90 GHz bands are licensed on the basis of non-exclusive nationwide licenses. There is no limit to the number of non-exclusive nationwide licenses that may be granted for these bands, and these licenses will serve as a prerequisite for registering individual links.
+[89 FR 33261, Apr. 29, 2024]

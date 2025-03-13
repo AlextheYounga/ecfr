@@ -64,4 +64,4 @@ The Secretary uses the following criteria to evaluate an application for a new g
 
 (3) Provide for the disclosure of unanticipated project outcomes, using quantifiable measures if appropriate.
 
-(Approved by the Office of Management and Budget under control number 1840-NEW3)(Authority: 20 U.S.C. 1070a-16)[59 FR 2658, Jan. 18, 1994, as amended at 75 FR 65781, Oct. 26, 2010]
+(Approved by the Office of Management and Budget under control number 1840-NEW3) (Authority: 20 U.S.C. 1070a-16)[59 FR 2658, Jan. 18, 1994, as amended at 75 FR 65781, Oct. 26, 2010]

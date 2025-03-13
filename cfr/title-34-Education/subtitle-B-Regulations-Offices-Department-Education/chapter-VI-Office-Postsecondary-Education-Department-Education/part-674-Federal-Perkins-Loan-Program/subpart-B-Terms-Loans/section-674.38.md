@@ -32,4 +32,4 @@
 
 (d) The institution must determine the continued eligibility of a borrower for a deferment at least annually, except that a borrower engaged in service described in §§ 674.34(e)(6), 674.35(c)(3), 674.36(c)(2), 674.37(c)(2), and § 674.60(a)(1) must be granted a deferment for the lesser of the borrower's full term of service in the Peace Corps, or the borrower's remaining period of eligibility for a deferment under § 674.34(e), not to exceed 3 years.
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority: 20 U.S.C. 425, 1087dd)[52 FR 45754, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988. Redesignated and amended at 59 FR 61410, 61411, Nov. 30, 1994; 64 FR 57531, Oct. 25, 1999; 64 FR 58315, Oct. 28, 1999; 72 FR 61996, Nov. 1, 2007]
+(Approved by the Office of Management and Budget under control number 1845-0019) (Authority: 20 U.S.C. 425, 1087dd)[52 FR 45754, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988. Redesignated and amended at 59 FR 61410, 61411, Nov. 30, 1994; 64 FR 57531, Oct. 25, 1999; 64 FR 58315, Oct. 28, 1999; 72 FR 61996, Nov. 1, 2007]

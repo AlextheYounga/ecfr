@@ -30,4 +30,4 @@
 
 (e) The borrower may rehabilitate a defaulted loan only one time.
 
-(Approved by the Office of Management and Budget under control number 1845-0023)[64 FR 58311, Oct. 28, 1999, as amended at 65 FR 65614, Nov. 1, 2000; 67 FR 67077, Nov. 1, 2002; 71 FR 45698, Aug. 9, 2006; 74 FR 55661, Oct. 28, 2009; 78 FR 65805, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1845-0023) [64 FR 58311, Oct. 28, 1999, as amended at 65 FR 65614, Nov. 1, 2000; 67 FR 67077, Nov. 1, 2002; 71 FR 45698, Aug. 9, 2006; 74 FR 55661, Oct. 28, 2009; 78 FR 65805, Nov. 1, 2013]

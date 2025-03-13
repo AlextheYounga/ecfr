@@ -8,4 +8,4 @@
 
 (b) An institution may not solicit or accept fees, commission, contributions, or gifts as a condition for FWS employment, nor permit any organization with which it has an employment agreement to do so.
 
-(Approved by the Office of Management and Budget under control number 1840-0535)(Authority: 42 U.S.C. 2754)[52 FR 45770, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 59 FR 61419, Nov. 30, 1994; 62 FR 50848, Sept. 26, 1997]
+(Approved by the Office of Management and Budget under control number 1840-0535) (Authority: 42 U.S.C. 2754)[52 FR 45770, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 59 FR 61419, Nov. 30, 1994; 62 FR 50848, Sept. 26, 1997]

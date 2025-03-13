@@ -14,4 +14,4 @@
 
 (c) If no points or weights are assigned to the selection criteria and selected factors, the Secretary evaluates each criterion equally and, within each criterion, each factor equally.
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)[62 FR 10401, Mar. 6, 1997]
+(Authority: 20 U.S.C. 1221e-3 and 3474) [62 FR 10401, Mar. 6, 1997]

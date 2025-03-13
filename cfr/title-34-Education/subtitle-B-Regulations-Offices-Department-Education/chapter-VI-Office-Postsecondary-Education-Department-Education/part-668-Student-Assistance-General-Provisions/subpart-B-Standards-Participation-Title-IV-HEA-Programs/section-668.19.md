@@ -16,4 +16,4 @@
 
 (2) The institution may not make a disbursement to that student for seven days following its request, unless it receives the information from NSLDS in response to its request or obtains that information directly by accessing NSLDS, and the information it receives allows it to make that disbursement.
 
-(Approved by the Office of Management and Budget under control number 1845-0537)(Authority: 20 U.S.C. 1070g, 1091, 1094)[65 FR 65675, Nov. 1, 2000, as amended at 71 FR 38002, July 3, 2006; 73 FR 35492, June 23, 2008]
+(Approved by the Office of Management and Budget under control number 1845-0537) (Authority: 20 U.S.C. 1070g, 1091, 1094)[65 FR 65675, Nov. 1, 2000, as amended at 71 FR 38002, July 3, 2006; 73 FR 35492, June 23, 2008]

@@ -6,4 +6,4 @@
 
 (c) The Secretary generally approves indirect cost rate agreements annually. Indirect cost rate agreements may be approved for periods longer than a year if the Secretary determines that rates will be sufficiently stable to justify a longer rate period.
 
-(Authority: 20 U.S.C. 1221e-3, 3474, and 6511(a))[59 FR 59583, Nov. 17, 1994]
+(Authority: 20 U.S.C. 1221e-3, 3474, and 6511(a)) [59 FR 59583, Nov. 17, 1994]

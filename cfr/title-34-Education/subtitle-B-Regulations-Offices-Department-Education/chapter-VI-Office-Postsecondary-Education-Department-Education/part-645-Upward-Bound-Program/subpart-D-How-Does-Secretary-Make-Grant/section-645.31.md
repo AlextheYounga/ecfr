@@ -118,4 +118,4 @@ The Secretary uses the following criteria to evaluate an application for a grant
 
 (2) Examine in specific and measurable ways the success of the project in making progress toward achieving its process and outcomes objectives.
 
-(Approved by the Office of Management and Budget under control number 1840-0550)(Authority: 20 U.S.C. 1070a-11 and 1070a-13)[60 FR 4748, Jan. 24, 1995, as amended at 75 FR 65786, Oct. 26, 2010]
+(Approved by the Office of Management and Budget under control number 1840-0550) (Authority: 20 U.S.C. 1070a-11 and 1070a-13)[60 FR 4748, Jan. 24, 1995, as amended at 75 FR 65786, Oct. 26, 2010]

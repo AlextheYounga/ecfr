@@ -46,4 +46,4 @@
 
 (ii) The existence of any fact that would establish that the amount of the proposed offset would cause an extreme financial hardship for the employee.
 
-(Authority: 5 U.S.C. 5514; 31 U.S.C. 3716)[54 FR 31821, Aug. 19, 1989, as amended at 86 FR 40334, July 28, 2021]
+(Authority: 5 U.S.C. 5514; 31 U.S.C. 3716) [54 FR 31821, Aug. 19, 1989, as amended at 86 FR 40334, July 28, 2021]

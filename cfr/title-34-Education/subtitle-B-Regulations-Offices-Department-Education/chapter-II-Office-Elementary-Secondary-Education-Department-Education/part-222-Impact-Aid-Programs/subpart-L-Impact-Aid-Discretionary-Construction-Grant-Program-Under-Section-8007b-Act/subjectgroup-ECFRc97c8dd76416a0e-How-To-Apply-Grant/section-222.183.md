@@ -8,4 +8,4 @@
 
 (2) Be timely filed in accordance with the provisions of the Secretary's application notice.
 
-(Approved by the Office of Management and Budget under control number 1810-0657)(Authority: 20 U.S.C. 7707(b))[60 FR 50778, Sept. 29, 1995, as amended at 76 FR 23713, Apr. 28, 2011]
+(Approved by the Office of Management and Budget under control number 1810-0657)(Authority: 20 U.S.C. 7707(b)) [60 FR 50778, Sept. 29, 1995, as amended at 76 FR 23713, Apr. 28, 2011]

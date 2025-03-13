@@ -18,4 +18,4 @@
 
 (ii) Comparable in quality and cost to the student.
 
-A recipient may render such assistance to any agency, organization, or person which provides all or part of such housing to students only of one sex.[45 FR 30955, May 9, 1980, as amended at 85 FR 30579, May 19, 2020]
+A recipient may render such assistance to any agency, organization, or person which provides all or part of such housing to students only of one sex. [45 FR 30955, May 9, 1980, as amended at 85 FR 30579, May 19, 2020]

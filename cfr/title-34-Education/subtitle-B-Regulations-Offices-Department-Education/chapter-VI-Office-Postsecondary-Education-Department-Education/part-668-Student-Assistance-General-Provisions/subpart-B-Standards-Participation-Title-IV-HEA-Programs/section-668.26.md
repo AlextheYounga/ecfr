@@ -100,4 +100,4 @@
 
 (2) A commitment under the campus-based programs occurs when a student is enrolled and attending the institution and has received a notice from the institution of the amount that he or she can expect to receive and how and when that amount will be paid.
 
-(Approved by the Office of Management and Budget under control number 1840-0537)(Authority: 20 U.S.C. 1070g, 1094, 1099a-3)[59 FR 22442, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 61 FR 60492, Nov. 27, 1996; 63 FR 40624, July 29, 1998; 64 FR 59042, Nov. 1, 1999; 65 FR 38729, June 22, 2000; 65 FR 65637, Nov. 1, 2000; 69 FR 12276, Mar. 16, 2004; 71 FR 38002, July 3, 2006; 73 FR 35493, June 23, 2008; 84 FR 58931, Nov. 1, 2019]
+(Approved by the Office of Management and Budget under control number 1840-0537) (Authority: 20 U.S.C. 1070g, 1094, 1099a-3)[59 FR 22442, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 61 FR 60492, Nov. 27, 1996; 63 FR 40624, July 29, 1998; 64 FR 59042, Nov. 1, 1999; 65 FR 38729, June 22, 2000; 65 FR 65637, Nov. 1, 2000; 69 FR 12276, Mar. 16, 2004; 71 FR 38002, July 3, 2006; 73 FR 35493, June 23, 2008; 84 FR 58931, Nov. 1, 2019]

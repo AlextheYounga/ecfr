@@ -194,4 +194,4 @@
 
 (ii) Under this paragraph (e), the Secretary will not initiate such a proceeding more than 5 years after the date of the final determination included in the written decision referenced in paragraph (e)(11) of this section. The Department will notify the school of the borrower defense to repayment application within 60 days of the date of the Department's receipt of the borrower's application.
 
-(Approved by the Office of Management and Budget under control number 1845-0021)[59 FR 61690, Dec. 1, 1994, as amended at 60 FR 33345, June 28, 1995; 64 FR 58972, Nov. 1, 1999; 78 FR 65832, Nov. 1, 2013; 81 FR 76080, Nov. 1, 2016; 84 FR 49926, Sept. 23, 2019; 87 FR 66055, Nov. 1, 2022]
+(Approved by the Office of Management and Budget under control number 1845-0021) [59 FR 61690, Dec. 1, 1994, as amended at 60 FR 33345, June 28, 1995; 64 FR 58972, Nov. 1, 1999; 78 FR 65832, Nov. 1, 2013; 81 FR 76080, Nov. 1, 2016; 84 FR 49926, Sept. 23, 2019; 87 FR 66055, Nov. 1, 2022]

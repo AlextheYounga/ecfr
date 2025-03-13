@@ -10,4 +10,4 @@
 
 (c) *Compliance.* Except as provided in § 76.791(a), or the authorizing statute or implementing regulations for the applicable covered program, a charter school LEA must establish its eligibility and comply with all applicable program requirements on the same basis as other LEAs.
 
-(Approved by the Office of Management and Budget under control number 1810-0623)(Authority: 20 U.S.C. 8065a)
+(Approved by the Office of Management and Budget under control number 1810-0623) (Authority: 20 U.S.C. 8065a)

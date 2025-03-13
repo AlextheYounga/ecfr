@@ -136,4 +136,4 @@
 
 (iii) Any period during which a servicemember is absent from duty on account of sickness, wounds, leave, or other lawful cause.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1077, 1078, 1078-1, 1078-2, 1078-3, 1079, 1080, 1082, 1085)[57 FR 60323, Dec. 18, 1992, as amended at 58 FR 9119, Feb. 19, 1993; 59 FR 22476, Apr. 29, 1994; 64 FR 18976, Apr. 16, 1999; 64 FR 58626, Oct. 29, 1999; 64 FR 58965, Nov. 1, 1999; 71 FR 45701, Aug. 9, 2006; 72 FR 62000, 62031, Nov. 1, 2007; 74 FR 55993, Oct. 29, 2009; 78 FR 65811, Nov. 1, 2013; 80 FR 67237, Oct. 30, 2015]
+(Approved by the Office of Management and Budget under control number 1845-0020) (Authority: 20 U.S.C. 1077, 1078, 1078-1, 1078-2, 1078-3, 1079, 1080, 1082, 1085)[57 FR 60323, Dec. 18, 1992, as amended at 58 FR 9119, Feb. 19, 1993; 59 FR 22476, Apr. 29, 1994; 64 FR 18976, Apr. 16, 1999; 64 FR 58626, Oct. 29, 1999; 64 FR 58965, Nov. 1, 1999; 71 FR 45701, Aug. 9, 2006; 72 FR 62000, 62031, Nov. 1, 2007; 74 FR 55993, Oct. 29, 2009; 78 FR 65811, Nov. 1, 2013; 80 FR 67237, Oct. 30, 2015]

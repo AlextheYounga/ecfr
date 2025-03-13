@@ -1,5 +1,7 @@
 ##### § 50.6 Applications: general content. #####
 
+Link to an amendment published at 89 FR 46732, May 29, 2024.
+
 Each application filed under this part must provide the following information:
 
 (a) The exact legal name of applicant; its principal place of business; whether the applicant is an individual, partnership, corporation, or otherwise; the State laws under which the applicant is organized or authorized; and the name, title, and mailing address of the person or persons to whom communications concerning the application are to be addressed.

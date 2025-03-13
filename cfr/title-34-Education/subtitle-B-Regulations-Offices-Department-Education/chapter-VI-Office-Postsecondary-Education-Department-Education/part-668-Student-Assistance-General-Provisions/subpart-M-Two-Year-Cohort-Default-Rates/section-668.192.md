@@ -34,4 +34,4 @@
 
 (c) *Determination.* If we determine that incorrect data were used to calculate your cohort default rate, we recalculate your cohort default rate based on the correct data and electronically correct the rate that is publicly released.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)(Authority: 20 U.S.C. 1082, 1085, 1094, 1099c)[65 FR 65638, Nov. 1, 2000, as amended at 74 FR 55651, Oct. 28, 2009]
+(Approved by the Office of Management and Budget under control number 1845-0022) (Authority: 20 U.S.C. 1082, 1085, 1094, 1099c)[65 FR 65638, Nov. 1, 2000, as amended at 74 FR 55651, Oct. 28, 2009]

@@ -6,7 +6,7 @@ Award yearClock hourCorrespondence courseCredit hourSecretaryState
 
 (b) The following definitions are contained in subpart A of the Student Assistance General Provisions, 34 CFR part 668:
 
-Academic yearDependent studentEligible programEnrolledExpected family contributionFederal Pell Grant ProgramFederal Supplemental Educational Opportunity Grant ProgramFederal Work-Study ProgramFull-time studentHalf-time studentHEAIndependent studentInstitutional student information record (ISIR)ParentPayment periodStudent aid report (SAR)Teacher Education Assistance for College and Higher Education (TEACH) Grant ProgramTEACH GrantThree-quarter-time studentUndergraduate studentValid institutional student information record (valid ISIR)Valid student aid report (valid SAR)William D. Ford Federal Direct Loan Program
+Academic yearDependent studentEligible programEnrolledExpected family contributionFederal Pell Grant ProgramFederal Supplemental Educational Opportunity Grant ProgramFederal Work-Study ProgramFull-time student Half-time studentHEAIndependent studentInstitutional student information record (ISIR)ParentPayment periodStudent aid report (SAR)Teacher Education Assistance for College and Higher Education (TEACH) Grant ProgramTEACH GrantThree-quarter-time studentUndergraduate studentValid institutional student information record (valid ISIR)Valid student aid report (valid SAR)William D. Ford Federal Direct Loan Program
 
 (c) Other terms used in this part are:
 

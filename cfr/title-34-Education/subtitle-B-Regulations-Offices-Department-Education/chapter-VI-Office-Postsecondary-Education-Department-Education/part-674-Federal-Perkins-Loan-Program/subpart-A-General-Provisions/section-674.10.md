@@ -14,4 +14,4 @@
 
 (3) Maintained in the institution's files.
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority: 20 U.S.C. 1087cc and 1087dd)[52 FR 45747, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 59 FR 61407, Nov. 30, 1994; 64 FR 58292, 58315, Oct. 28, 1999]
+(Approved by the Office of Management and Budget under control number 1845-0019) (Authority: 20 U.S.C. 1087cc and 1087dd)[52 FR 45747, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 59 FR 61407, Nov. 30, 1994; 64 FR 58292, 58315, Oct. 28, 1999]

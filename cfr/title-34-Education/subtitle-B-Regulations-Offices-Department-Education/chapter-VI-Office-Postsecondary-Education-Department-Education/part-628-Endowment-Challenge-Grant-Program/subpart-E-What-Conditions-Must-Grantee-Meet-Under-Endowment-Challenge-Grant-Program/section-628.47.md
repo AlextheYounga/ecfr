@@ -22,4 +22,4 @@ A grantee shall—
 
 (f) Submit reports on a timely basis that are requested by the Secretary.
 
-(Approved by the Office of Management and Budget under control number 1840-0564)(Authority: 20 U.S.C. 1065 and 1232f)[49 FR 28521, July 12, 1984, as amended at 52 FR 11258, Apr. 8, 1987; 53 FR 49146, Dec. 6, 1988; 58 FR 11164, Feb. 23, 1993; 79 FR 76101, Dec. 19, 2014]
+(Approved by the Office of Management and Budget under control number 1840-0564) (Authority: 20 U.S.C. 1065 and 1232f)[49 FR 28521, July 12, 1984, as amended at 52 FR 11258, Apr. 8, 1987; 53 FR 49146, Dec. 6, 1988; 58 FR 11164, Feb. 23, 1993; 79 FR 76101, Dec. 19, 2014]

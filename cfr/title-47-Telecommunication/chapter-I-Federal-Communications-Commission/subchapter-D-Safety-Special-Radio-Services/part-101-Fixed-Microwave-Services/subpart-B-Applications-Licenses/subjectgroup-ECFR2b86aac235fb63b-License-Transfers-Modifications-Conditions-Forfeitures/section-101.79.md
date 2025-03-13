@@ -8,8 +8,8 @@
 
 (b) If the parties cannot agree on a schedule or an alternative arrangement, requests for extension will be accepted and reviewed on a case-by-case basis. The Commission will grant such extensions only if the incumbent can demonstrate that:
 
-(1) It cannot relocate within the six-month period (*e.g.,* because no alternative spectrum or other reasonable option is available), and;
+(1) It cannot relocate within the six-month period (e.g., because no alternative spectrum or other reasonable option is available), and;
 
-(2) The public interest would be harmed if the incumbent is forced to terminate operations (*e.g.,* if public safety communications services would be disrupted).
+(2) The public interest would be harmed if the incumbent is forced to terminate operations (e.g., if public safety communications services would be disrupted).
 
 [61 FR 29695, June 12, 1996, as amended at 62 FR 12758, Mar. 18, 1997; 68 FR 68254, Dec. 8, 2003; 71 FR 29842, May 24, 2006; 78 FR 8272, Feb. 5, 2013]

@@ -16,4 +16,4 @@
 
 (2) An academic year component designed by the applicant to enhance achievement of project objectives in the most cost-effective way taking into account the distances involved in reaching participants in the project's target area.
 
-(Approved by the Office of Management and Budget under control number 1840-0550)(Authority: 20 U.S.C. 1070a-11 and 1070a-13)[60 FR 4748, Jan. 24, 1995. Redesignated at 75 FR 65785, Oct. 26, 2010]
+(Approved by the Office of Management and Budget under control number 1840-0550) (Authority: 20 U.S.C. 1070a-11 and 1070a-13)[60 FR 4748, Jan. 24, 1995. Redesignated at 75 FR 65785, Oct. 26, 2010]

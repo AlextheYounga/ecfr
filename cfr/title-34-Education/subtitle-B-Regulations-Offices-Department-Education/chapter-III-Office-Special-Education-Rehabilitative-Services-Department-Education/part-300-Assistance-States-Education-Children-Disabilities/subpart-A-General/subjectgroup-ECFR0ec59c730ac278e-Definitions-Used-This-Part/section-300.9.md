@@ -12,4 +12,4 @@
 
 (3) If the parent revokes consent in writing for their child's receipt of special education services after the child is initially provided special education and related services, the public agency is not required to amend the child's education records to remove any references to the child's receipt of special education and related services because of the revocation of consent.
 
-(Authority: 20 U.S.C. 1414(a)(1)(D))[71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61306, Oct. 30, 2007; 73 FR 73027, Dec. 1, 2008]
+(Authority: 20 U.S.C. 1414(a)(1)(D)) [71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61306, Oct. 30, 2007; 73 FR 73027, Dec. 1, 2008]

@@ -70,4 +70,4 @@
 
 (ii) The requirements of §§ 300.320 (relating to IEPs), and 300.114 (relating to LRE), do not apply with respect to the modifications described in paragraph (d)(2)(i) of this section.
 
-(Authority: 20 U.S.C. 1412(a)(1), 1412(a)(12)(A)(i), 1414(d)(3), (4)(B), and (7); and 1414(e))[71 FR 46753, Aug. 14, 2006, as amended at 82 FR 29761, June 30, 2017]
+(Authority: 20 U.S.C. 1412(a)(1), 1412(a)(12)(A)(i), 1414(d)(3), (4)(B), and (7); and 1414(e)) [71 FR 46753, Aug. 14, 2006, as amended at 82 FR 29761, June 30, 2017]

@@ -8,4 +8,4 @@ Within 10 business days after an institution receives the documentary evidence o
 
 (c) Submit Form G-845 and attachments to the INS District Office.
 
-(Approved by the Office of Management and Budget under control number 1840-0650)(Authority: 20 U.S.C. 1091, 1094)[58 FR 3184, Jan. 7, 1993, as amended at 58 FR 26674, May 4, 1993]
+(Approved by the Office of Management and Budget under control number 1840-0650) (Authority: 20 U.S.C. 1091, 1094)[58 FR 3184, Jan. 7, 1993, as amended at 58 FR 26674, May 4, 1993]

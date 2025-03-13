@@ -24,4 +24,4 @@ In order to receive a grant under this part, an institution must submit an appli
 
 (2) Who graduated with baccalaureate degrees during any one of the five school years immediately preceding the school year described in paragraph (h)(1) of this section.
 
-(Approved by the Office of Management and Budget under control number 1840-0113)(Authority: 20 U.S.C. 1063, 1063a and 1066(b)(2))
+(Approved by the Office of Management and Budget under control number 1840-0113) (Authority: 20 U.S.C. 1063, 1063a and 1066(b)(2))

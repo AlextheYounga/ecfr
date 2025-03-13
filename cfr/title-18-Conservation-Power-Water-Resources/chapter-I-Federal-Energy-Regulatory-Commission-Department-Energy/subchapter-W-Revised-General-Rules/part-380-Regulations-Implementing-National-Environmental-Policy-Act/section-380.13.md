@@ -1,5 +1,7 @@
 ##### § 380.13 Compliance with the Endangered Species Act. #####
 
+Link to an amendment published at 89 FR 46734, May 29, 2024.
+
 (a) *Definitions.* For purposes of this section:
 
 (1) *Listed species* and *critical habitat* have the same meaning as provided in 50 CFR 402.02.

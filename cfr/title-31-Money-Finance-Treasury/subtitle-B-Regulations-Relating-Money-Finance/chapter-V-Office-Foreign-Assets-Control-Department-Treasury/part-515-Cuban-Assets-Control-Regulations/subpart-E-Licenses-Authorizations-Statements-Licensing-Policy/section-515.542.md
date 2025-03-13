@@ -12,7 +12,7 @@
 
 (f) [Reserved]
 
-(g) Any entity subject to U.S. jurisdiction relying on paragraph (b), (c), or (d) of this section shall notify OFAC in writing within 30 days after commencing or ceasing to offer such services, as applicable, and shall furnish by January 15 and July 15 of each year semiannual reports providing the total amount of all payments made to Cuba or a third country related to any of the services authorized by this section during the prior six months. These notifications and reports must be captioned “Section 515.542 Notification” or “Section 515.542 Report” and faxed to 202/622-6931 or mailed to the Office of Foreign Assets Control, *Attn:* Regulatory Affairs Division, 1500 Pennsylvania Avenue NW., Annex, Washington, DC 20220.
+(g) Any entity subject to U.S. jurisdiction relying on paragraph (b), (c), or (d) of this section shall notify OFAC in writing within 30 days after commencing or ceasing to offer such services, as applicable, and shall furnish by January 15 and July 15 of each year semiannual reports providing the total amount of all payments made to Cuba or a third country related to any of the services authorized by this section during the prior six months. These notifications and reports must be captioned “Section 515.542 Notification” or “Section 515.542 Report” and emailed to *OFACReport@treasury.gov*. The reporting requirement in this paragraph (g) applies only to the non-banking institution entity subject to U.S. jurisdiction relying upon paragraph (b), (c), or (d) of this section to provide telecommunications services.
 
 (h) For purposes of this section, the term “telecommunications services” includes data, telephone, telegraph, internet connectivity, radio, television, news wire feeds, and similar services, regardless of the medium of transmission, including transmissions by satellite.
 
@@ -28,4 +28,4 @@ Note 2 to § 515.542:
 
 For general licenses authorizing physical and business presence in Cuba for certain persons, see § 515.573. An authorization related to business presence was previously included in this section. For an authorization of certain internet-related services, see § 515.578.
 
-[80 FR 2293, Jan. 16, 2015, as amended at 80 FR 56921, Sept. 21, 2015; 81 FR 13991, Mar. 16, 2016; 81 FR 71376, Oct. 17, 2016; 85 FR 60071, Sept. 24, 2020; 87 FR 35089, June 9, 2022]
+[80 FR 2293, Jan. 16, 2015, as amended at 80 FR 56921, Sept. 21, 2015; 81 FR 13991, Mar. 16, 2016; 81 FR 71376, Oct. 17, 2016; 85 FR 60071, Sept. 24, 2020; 87 FR 35089, June 9, 2022; 89 FR 46324, May 29, 2024]

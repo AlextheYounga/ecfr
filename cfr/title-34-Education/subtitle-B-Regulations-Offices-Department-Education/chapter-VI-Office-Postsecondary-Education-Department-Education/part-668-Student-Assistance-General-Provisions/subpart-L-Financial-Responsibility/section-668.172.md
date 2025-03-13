@@ -46,4 +46,4 @@
 
 (2) Accounting Standards Codification (ASC) 205, Presentation of Financial Statements, Updated through August 9, 2021 (with taxonomy revisions as of January 26, 2022).
 
-(Approved by the Office of Management and Budget under control number 1845-0022)[62 FR 62877, Nov. 25, 1997, as amended at 63 FR 40348, July 28, 1998; 65 FR 65637, Nov. 1, 2000; 84 FR 49913, Sept. 23, 2019; 87 FR 63693, Oct. 20, 2022]
+(Approved by the Office of Management and Budget under control number 1845-0022) [62 FR 62877, Nov. 25, 1997, as amended at 63 FR 40348, July 28, 1998; 65 FR 65637, Nov. 1, 2000; 84 FR 49913, Sept. 23, 2019; 87 FR 63693, Oct. 20, 2022]

@@ -10,5 +10,4 @@
 
 (ii) If the confined or incarcerated individual's other financial assistance cannot be reduced, the student's Pell Grant must be reduced by the amount that the student's total financial assistance exceeds the student's cost of attendance.
 
-[88 FR 65498, Oct. 28, 2023]
-]
+[87 FR 65498, Oct. 28, 2022]

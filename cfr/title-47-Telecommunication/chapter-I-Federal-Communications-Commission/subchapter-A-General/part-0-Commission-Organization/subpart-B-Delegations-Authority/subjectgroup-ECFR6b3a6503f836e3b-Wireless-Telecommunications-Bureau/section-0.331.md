@@ -1,8 +1,6 @@
 ##### § 0.331 Authority delegated. #####
 
-Link to an amendment published at 89 FR 33258, Apr. 29, 2024.
-
-The Chief, Wireless Telecommunications Bureau, is hereby delegated authority to perform all functions of the Bureau, described in § 0.131, subject to the exceptions and limitations in paragraphs (a) through (d) of this section, and also the functions described in paragraph (e) of this section.
+The Chief, Wireless Telecommunications Bureau, is hereby delegated authority to perform all functions of the Bureau, described in § 0.131, subject to the exceptions and limitations in paragraphs (a) through (d) of this section, and also the functions described in paragraphs (e) through (g) of this section.
 
 (a) *Authority concerning applications.* (1) The Chief, Wireless Telecommunications Bureau shall not have authority to act on any radio applications that are in hearing status.
 
@@ -24,4 +22,6 @@ The Chief, Wireless Telecommunications Bureau, is hereby delegated authority to 
 
 (f) The Chief of the Wireless Telecommunications Bureau is delegated authority jointly with the Chief of the Office of Engineering and Technology to administer the Spectrum Access System (SAS) and SAS Administrator functions set forth in part 96 of this chapter. The Chief is delegated authority to develop specific methods that will be used to designate SAS Administrators; to designate SAS Administrators; to develop procedures that these SAS Administrators will use to ensure compliance with the requirements for SAS operation; to make determinations regarding the continued acceptability of individual SAS Administrators; and to perform other functions as needed for the administration of the SAS. The Chief is delegated the authority to perform these same functions with regard to the Environmental Sensing Capability.
 
-[60 FR 35506, July 10, 1995, as amended at 61 FR 26465, May 28, 1996; 62 FR 40285, July 28, 1997; 65 FR 43715, July 14, 2000; 67 FR 63284, Oct. 11, 2002; 69 FR 46440, Aug. 3, 2004; 73 FR 25587, May 7, 2008; 75 FR 75835, Dec. 6, 2010; 79 FR 56984, Sept. 24, 2014; 80 FR 36218, June 23, 2015; 85 FR 34527, June 5, 2020; 86 FR 12547, Mar. 4, 2021]
+(g) *Authority concerning review of certain proposed technologies in the 71-76 and 81-86 GHz bands.* The Chief of the Wireless Telecommunications Bureau is delegated authority, jointly with the Chief of the Office of Engineering and Technology, to establish and administer a process for review of proposed technologies for point-to-endpoint-in-motion communications to aircraft and ships in the 71-76 GHz and 81-86 GHz bands to ensure compliance with the requirements adopted by the Commission. The Chief of the Wireless Telecommunications Bureau is also delegated authority to establish and administer specific procedures to be followed for coordinating and registering aeronautical and maritime stations and their associated transmissions.
+
+[60 FR 35506, July 10, 1995, as amended at 61 FR 26465, May 28, 1996; 62 FR 40285, July 28, 1997; 65 FR 43715, July 14, 2000; 67 FR 63284, Oct. 11, 2002; 69 FR 46440, Aug. 3, 2004; 73 FR 25587, May 7, 2008; 75 FR 75835, Dec. 6, 2010; 79 FR 56984, Sept. 24, 2014; 80 FR 36218, June 23, 2015; 85 FR 34527, June 5, 2020; 86 FR 12547, Mar. 4, 2021; 89 FR 33258, Apr. 29, 2024]

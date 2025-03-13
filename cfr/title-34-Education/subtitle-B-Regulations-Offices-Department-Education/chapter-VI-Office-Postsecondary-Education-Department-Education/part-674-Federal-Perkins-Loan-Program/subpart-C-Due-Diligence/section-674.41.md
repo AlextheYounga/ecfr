@@ -18,4 +18,4 @@
 
 (4) The current name, address, telephone number and Social Security number of the borrower.
 
-(Approved by the Office of Management and Budget under control number 1845-0023)(Authority: 20 U.S.C. 424, 1087cc)[52 FR 45555, Nov. 30, 1987, as amended at 59 FR 61411, Nov. 30, 1994; 64 FR 58312, Oct. 28, 1999]
+(Approved by the Office of Management and Budget under control number 1845-0023) (Authority: 20 U.S.C. 424, 1087cc)[52 FR 45555, Nov. 30, 1987, as amended at 59 FR 61411, Nov. 30, 1994; 64 FR 58312, Oct. 28, 1999]

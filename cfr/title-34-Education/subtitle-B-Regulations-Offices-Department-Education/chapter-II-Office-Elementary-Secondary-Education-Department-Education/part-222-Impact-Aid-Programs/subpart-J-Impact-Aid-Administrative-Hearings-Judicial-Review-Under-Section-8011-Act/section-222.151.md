@@ -8,4 +8,4 @@
 
 (2) The issues of fact or law specified in the hearing request are material to the determination of the applicant's rights and are not committed wholly to the discretion of the Secretary.
 
-(Authority: 20 U.S.C. 7711(a))[60 FR 50778, Sept. 29, 1995, as amended at 62 FR 35418, July 1, 1997; 80 FR 33170, June 11, 2015]
+(Authority: 20 U.S.C. 7711(a)) [60 FR 50778, Sept. 29, 1995, as amended at 62 FR 35418, July 1, 1997; 80 FR 33170, June 11, 2015]

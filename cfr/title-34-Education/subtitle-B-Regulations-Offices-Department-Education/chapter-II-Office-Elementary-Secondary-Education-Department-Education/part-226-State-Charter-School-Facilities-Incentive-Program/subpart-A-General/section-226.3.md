@@ -32,4 +32,4 @@ The following regulations apply to the State Charter School Facilities Incentive
 
 (c) The Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards in 2 CFR part 200, as adopted in 2 CFR part 3474 and the OMB Guidelines to Agencies on Governmentwide Debarment and Suspension (Nonprocurement) in 2 CFR part 180, as adopted in 2 CFR part 3485.
 
-(Authority: 20 U.S.C. 1221e-3; 7221d(b))[70 FR 75909, Dec. 21, 2005, as amended at 79 FR 76096, Dec. 19, 2014]
+(Authority: 20 U.S.C. 1221e-3; 7221d(b)) [70 FR 75909, Dec. 21, 2005, as amended at 79 FR 76096, Dec. 19, 2014]

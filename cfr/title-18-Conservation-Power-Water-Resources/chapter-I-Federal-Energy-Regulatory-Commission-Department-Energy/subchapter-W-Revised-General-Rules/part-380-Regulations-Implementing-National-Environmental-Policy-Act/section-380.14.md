@@ -1,5 +1,7 @@
 ##### § 380.14 Compliance with the National Historic Preservation Act. #####
 
+Link to an amendment published at 89 FR 46734, May 29, 2024.
+
 (a) Section 106 of the National Historic Preservation Act, as amended (16 U.S.C. 470(f)) (NHPA), requires the Commission to take into account the effect of a proposed project on any historic property and to afford the Advisory Council on Historic Preservation (Council) an opportunity to comment on projects if required under 36 CFR 800. The project sponsor, as a non-Federal party, assists the Commission in meeting its obligations under NHPA section 106 and the implementing regulations at 36 CFR part 800 by following the procedures at § 380.12(f). The project sponsor may contact the Commission at any time for assistance. The Commission will review the resultant filings.
 
 (1) The Commission's NHPA section 106 responsibilities apply to public and private lands, unless subject to the provisions of paragraph (a)(2) of this section. The project sponsor will assist the Commission in taking into account the views of interested parties, Native Americans, and tribal leaders.

@@ -20,4 +20,4 @@ The following examples will illustrate the programs aided by Federal financial a
 
 (i) Even though an applicant or recipient has never used discriminatory policies, the services and benefits of the program or activity it administers may not in fact be equally available to some racial or nationality groups. In such circumstances, an applicant or recipient may properly give special consideration to race, color, or national origin to make the benefits of its program more widely available to such groups, not then being adequately served. For example, where a university is not adequately serving members of a particular racial or nationality group, it may establish special recruitment policies to make its program better known and more readily available to such group, and take other steps to provide that group with more adequate service.
 
-(Authority: Sec. 601, 602, Civil Rights Act of 1964; 78 Stat. 252; 42 U.S.C. 2000d, 2000d-1)[45 FR 30918, May 9, 1980, as amended at 65 FR 68053, Nov. 13, 2000]
+(Authority: Sec. 601, 602, Civil Rights Act of 1964; 78 Stat. 252; 42 U.S.C. 2000d, 2000d-1) [45 FR 30918, May 9, 1980, as amended at 65 FR 68053, Nov. 13, 2000]

@@ -102,4 +102,4 @@ The Secretary evaluates applications on the basis of the criteria in this sectio
 
 (iii) Potential use of some aspects of the project at other institutions.
 
-(Approved by the Office of Management and Budget under control number 1840-0109)(Authority: 20 U.S.C. 1067-1067c, 1067g-1067k, 1068, and 1068b)[46 FR 51204, Oct. 16, 1981, as amended at 53 FR 49146, Dec. 6, 1988; 57 FR 54302, Nov. 18, 1992; 70 FR 13374, Mar. 21, 2005]
+(Approved by the Office of Management and Budget under control number 1840-0109) (Authority: 20 U.S.C. 1067-1067c, 1067g-1067k, 1068, and 1068b)[46 FR 51204, Oct. 16, 1981, as amended at 53 FR 49146, Dec. 6, 1988; 57 FR 54302, Nov. 18, 1992; 70 FR 13374, Mar. 21, 2005]

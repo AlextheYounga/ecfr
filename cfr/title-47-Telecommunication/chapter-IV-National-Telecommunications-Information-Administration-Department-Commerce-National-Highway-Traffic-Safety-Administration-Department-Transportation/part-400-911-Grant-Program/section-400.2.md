@@ -22,7 +22,7 @@ As used in this part—
 
 *ICO* means the 911 Implementation Coordination Office established under 47 U.S.C. 942 for the administration of the 911 grant program, located at the National Highway Traffic Safety Administration, U.S. Department of Transportation, 1200 New Jersey Avenue SE, NTI-140, Washington, DC 20590.
 
-*Integrated telecommunications services* means one or more elements of the provision of multiple 911 systems' or PSAPs' infrastructure, equipment, or utilities, such as voice, data, image, graphics, and video network, customer premises equipment (such as consoles, hardware, or software), or other utilities, which make common use of all or part of the same transmission facilities, switches, signaling, or control devices (*e.g.,* database, cybersecurity).
+*Integrated telecommunications services* means one or more elements of the provision of multiple 911 systems' or PSAPs' infrastructure, equipment, or utilities, such as voice, data, image, graphics, and video network, customer premises equipment (such as consoles, hardware, or software), or other utilities, which make common use of all or part of the same transmission facilities, switches, signaling, or control devices (e.g., database, cybersecurity).
 
 *IP-enabled emergency network or IP-enabled emergency system* means an emergency communications network or system based on a secured infrastructure that allows secured transmission of information, using internet Protocol, among users of the network or system.
 

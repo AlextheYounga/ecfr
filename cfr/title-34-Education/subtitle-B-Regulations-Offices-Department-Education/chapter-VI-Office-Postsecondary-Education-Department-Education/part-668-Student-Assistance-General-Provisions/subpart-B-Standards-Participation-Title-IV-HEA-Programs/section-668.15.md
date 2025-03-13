@@ -216,4 +216,4 @@ Link to an amendment published at 88 FR 74698, Oct. 31, 2023.
 
 (h) *Foreign institutions.* The Secretary makes a determination of the financial responsibility for a foreign institution on the basis of financial statements submitted under § 668.23(h).
 
-(Approved by the Office of Management and Budget under control number 1840-0537)(Authority: 20 U.S.C. 1094 and 1099c and Section 4 of Pub. L. 95-452, 92 Stat. 1101-1109)[59 FR 22428, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 59 FR 61179, Nov. 29, 1994; 60 FR 34431, June 30, 1995; 60 FR 42408, Aug. 15, 1995; 61 FR 29901, June 12, 1996; 61 FR 60569, Nov. 29, 1996; 62 FR 27128, May 16, 1997; 71 FR 45694, Aug. 9, 2006; 75 FR 67198, Nov. 1, 2010]
+(Approved by the Office of Management and Budget under control number 1840-0537) (Authority: 20 U.S.C. 1094 and 1099c and Section 4 of Pub. L. 95-452, 92 Stat. 1101-1109)[59 FR 22428, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 59 FR 61179, Nov. 29, 1994; 60 FR 34431, June 30, 1995; 60 FR 42408, Aug. 15, 1995; 61 FR 29901, June 12, 1996; 61 FR 60569, Nov. 29, 1996; 62 FR 27128, May 16, 1997; 71 FR 45694, Aug. 9, 2006; 75 FR 67198, Nov. 1, 2010]

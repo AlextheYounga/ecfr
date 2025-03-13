@@ -8,4 +8,4 @@
 
 (b) If a foreign institution fails to provide, release, or authorize release to the Secretary of information that is required in this subpart E, the institution is ineligible to apply to participate in the FFEL programs.
 
-(Approved by the Office of Management and Budget under control number 1840-0673)(Authority: 20 U.S.C. 1082, 1088)
+(Approved by the Office of Management and Budget under control number 1840-0673) (Authority: 20 U.S.C. 1082, 1088)

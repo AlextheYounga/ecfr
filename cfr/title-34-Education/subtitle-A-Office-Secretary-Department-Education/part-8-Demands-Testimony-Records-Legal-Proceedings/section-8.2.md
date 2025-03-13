@@ -28,4 +28,4 @@ The following definitions apply to this part:
 
 *United States* means the Federal Government of the United States and any of its agencies or instrumentalities.
 
-(Authority: 5 U.S.C. 301; 20 U.S.C. 3474)[57 FR 34646, Aug. 5, 1992, as amended at 73 FR 27748, May 14, 2008]
+(Authority: 5 U.S.C. 301; 20 U.S.C. 3474) [57 FR 34646, Aug. 5, 1992, as amended at 73 FR 27748, May 14, 2008]

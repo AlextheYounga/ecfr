@@ -88,4 +88,4 @@
 
 (q) Each party must file with the Hearing Official or Hearing Panel all written motions, briefs, and other documents and must at the same time provide a copy to the other parties to the proceedings.
 
-(Authority: 20 U.S.C. 1412(d)(2))[71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61306, Oct. 30, 2007]
+(Authority: 20 U.S.C. 1412(d)(2)) [71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61306, Oct. 30, 2007]

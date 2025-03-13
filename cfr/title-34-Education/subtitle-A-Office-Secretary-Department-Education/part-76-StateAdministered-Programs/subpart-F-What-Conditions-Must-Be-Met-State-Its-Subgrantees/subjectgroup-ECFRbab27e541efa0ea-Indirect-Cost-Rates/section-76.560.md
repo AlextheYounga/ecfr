@@ -14,4 +14,4 @@
 
 (d) The Secretary accepts an indirect cost rate negotiated by a grantee's cognizant agency, but may establish a restricted indirect cost rate for a grantee to satisfy the statutory requirements of certain programs administered by the Department.
 
-(Authority: 20 U.S.C. 1221e-3, 3474, and 6511(a))[57 FR 30341, July 8, 1992, as amended at 59 FR 59582, Nov. 17, 1994; 79 FR 76094, Dec. 19, 2014]
+(Authority: 20 U.S.C. 1221e-3, 3474, and 6511(a)) [57 FR 30341, July 8, 1992, as amended at 59 FR 59582, Nov. 17, 1994; 79 FR 76094, Dec. 19, 2014]

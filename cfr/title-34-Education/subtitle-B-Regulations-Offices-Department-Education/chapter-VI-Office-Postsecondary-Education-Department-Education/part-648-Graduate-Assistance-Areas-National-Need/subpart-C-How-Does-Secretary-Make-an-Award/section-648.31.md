@@ -106,4 +106,4 @@ The Secretary evaluates an application on the basis of the criteria in this sect
 
 (k) *Adequacy of resources.* The Secretary reviews each application to determine the adequacy of the resources that the applicant makes available to graduate students receiving fellowships under this program, including facilities, equipment, and supplies.
 
-(Approved by the Office of Management and Budget under control number 1840-0604)(Authority: 20 U.S.C. 1135-1135c)[58 FR 65842, Dec. 16, 1993, as amended at 70 FR 13375, Mar. 21, 2005]
+(Approved by the Office of Management and Budget under control number 1840-0604) (Authority: 20 U.S.C. 1135-1135c)[58 FR 65842, Dec. 16, 1993, as amended at 70 FR 13375, Mar. 21, 2005]

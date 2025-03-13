@@ -60,4 +60,4 @@
 
 (ii) A student who is enrolled at the institution and who received a loan under title IV of the HEA has changed his or her permanent address.
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority: 20 U.S.C. 1087cc, 1087hh, 1094, and 1232f)[52 FR 45747, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32345, July 21, 1992; 59 FR 61408, 61415, Nov. 30, 1994; 59 FR 61722, Dec. 1, 1994; 60 FR 61814, Dec. 1, 1995; 61 FR 60492, Nov. 27, 1996; 62 FR 50847, Sept. 26, 1997; 64 FR 58315, Oct. 28, 1999; 67 FR 67076, Nov. 1, 2002; 72 FR 61996, Nov. 1, 2007; 78 FR 65805, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1845-0019) (Authority: 20 U.S.C. 1087cc, 1087hh, 1094, and 1232f)[52 FR 45747, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32345, July 21, 1992; 59 FR 61408, 61415, Nov. 30, 1994; 59 FR 61722, Dec. 1, 1994; 60 FR 61814, Dec. 1, 1995; 61 FR 60492, Nov. 27, 1996; 62 FR 50847, Sept. 26, 1997; 64 FR 58315, Oct. 28, 1999; 67 FR 67076, Nov. 1, 2002; 72 FR 61996, Nov. 1, 2007; 78 FR 65805, Nov. 1, 2013]

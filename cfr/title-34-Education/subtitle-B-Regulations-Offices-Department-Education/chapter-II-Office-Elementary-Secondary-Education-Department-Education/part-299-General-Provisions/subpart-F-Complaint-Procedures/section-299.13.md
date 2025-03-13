@@ -6,5 +6,4 @@ An organization or individual may file a written signed complaint with an SEA. T
 
 (b) The facts on which the statement is based and the specific requirement allegedly violated.
 
-(Approved by the Office of Management and Budget under OMB control number 1810-0591)
-)[62 FR 28252, May 22, 1997. Redesignated and amended at 84 FR 31679, July 2, 2019]
+(Approved by the Office of Management and Budget under OMB control number 1810-0591) ) [62 FR 28252, May 22, 1997. Redesignated and amended at 84 FR 31679, July 2, 2019]

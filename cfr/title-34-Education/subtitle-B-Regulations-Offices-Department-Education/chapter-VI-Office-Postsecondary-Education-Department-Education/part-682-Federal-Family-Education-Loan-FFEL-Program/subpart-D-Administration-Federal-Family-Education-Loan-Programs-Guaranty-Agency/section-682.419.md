@@ -70,4 +70,4 @@
 
 (E) The agency paid claims.
 
-(Authority: 20 U.S.C. 1072-1)[64 FR 58634, Oct. 29, 1999, as amended at 71 FR 45708, Aug. 9, 2006; 78 FR 65820, Nov. 1, 2013]
+(Authority: 20 U.S.C. 1072-1) [64 FR 58634, Oct. 29, 1999, as amended at 71 FR 45708, Aug. 9, 2006; 78 FR 65820, Nov. 1, 2013]

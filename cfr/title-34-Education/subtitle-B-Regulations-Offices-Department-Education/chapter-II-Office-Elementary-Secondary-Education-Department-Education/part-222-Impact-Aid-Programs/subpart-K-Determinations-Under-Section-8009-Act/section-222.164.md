@@ -36,7 +36,7 @@
 
 (c) *Determinations.* The Secretary reviews the participants' submissions and any views presented at a predetermination hearing under paragraph (b)(5) of this section, including views submitted during the post-hearing comment period. Based upon this review, the Secretary issues a written determination setting forth the reasons for the determination in sufficient detail to enable the State or LEAs to respond. The Secretary affords reasonable notice of a determination under this subpart and the opportunity for a hearing to the State or any LEA adversely affected by the determination.
 
-(Approved by the Office of Management and Budget under control number 1810-0036)(Authority: 20 U.S.C. 7709)Note to paragraph (b)(2) of this section:
+(Approved by the Office of Management and Budget under control number 1810-0036)(Authority: 20 U.S.C. 7709) Note to paragraph (b)(2) of this section:
 
 The U.S. Postal Service does not uniformly provide a dated postmark. Before relying on this method, an applicant should check with its local post office.
 

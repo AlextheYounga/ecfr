@@ -92,4 +92,4 @@
 
 (2) If an institution receives a repayment from a borrower after a loan has been discharged, it must deposit that payment in its Fund.
 
-(Approved by the Office of Management and Budget under control number 1845-0023)(Authority: 20 U.S.C. 424, 1087cc)[52 FR 45555, Nov. 30, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32346, July 21, 1992; 59 FR 1652, Jan. 12, 1994; 59 FR 61412, Nov. 30, 1994; 64 FR 58313, Oct. 28, 1999; 65 FR 65614, Nov. 1, 2000]
+(Approved by the Office of Management and Budget under control number 1845-0023) (Authority: 20 U.S.C. 424, 1087cc)[52 FR 45555, Nov. 30, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32346, July 21, 1992; 59 FR 1652, Jan. 12, 1994; 59 FR 61412, Nov. 30, 1994; 64 FR 58313, Oct. 28, 1999; 65 FR 65614, Nov. 1, 2000]

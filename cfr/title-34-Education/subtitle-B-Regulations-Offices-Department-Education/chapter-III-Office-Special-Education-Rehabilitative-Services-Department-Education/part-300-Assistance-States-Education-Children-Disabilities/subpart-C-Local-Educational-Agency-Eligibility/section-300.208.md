@@ -10,4 +10,4 @@
 
 (b) *Administrative case management.* An LEA may use funds received under Part B of the Act to purchase appropriate technology for recordkeeping, data collection, and related case management activities of teachers and related services personnel providing services described in the IEP of children with disabilities, that is needed for the implementation of those case management activities.
 
-(Approved by the Office of Management and Budget under control number 1820-0600)(Authority: 20 U.S.C. 1413(a)(4))[71 FR 46753, Aug. 14, 2006, as amended at 80 FR 23667, Apr. 28, 2015]
+(Approved by the Office of Management and Budget under control number 1820-0600)(Authority: 20 U.S.C. 1413(a)(4)) [71 FR 46753, Aug. 14, 2006, as amended at 80 FR 23667, Apr. 28, 2015]

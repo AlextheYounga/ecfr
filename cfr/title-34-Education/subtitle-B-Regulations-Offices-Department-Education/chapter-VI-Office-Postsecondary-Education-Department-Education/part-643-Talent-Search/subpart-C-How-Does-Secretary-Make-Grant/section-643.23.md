@@ -12,4 +12,4 @@
 
 (2) The amount requested by the applicant.
 
-(Approved by the Office of Management and Budget under control number 1840-0549)(Authority: 20 U.S.C. 1070a-11)[58 FR 59145, Nov. 5, 1993, as amended at 75 FR 65778, Oct. 26, 2010]
+(Approved by the Office of Management and Budget under control number 1840-0549) (Authority: 20 U.S.C. 1070a-11)[58 FR 59145, Nov. 5, 1993, as amended at 75 FR 65778, Oct. 26, 2010]

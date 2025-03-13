@@ -20,4 +20,4 @@
 
 (d) *Use of best data.* For the purpose of making grants under this section, States must apply on a uniform basis across all LEAs the best data that are available to them on the numbers of children enrolled in public and private elementary and secondary schools and the numbers of children living in poverty.
 
-(Authority: 20 U.S.C. 1419(g)(1))[71 FR 46753, Aug. 14, 2006, as amended at 73 FR 73028, Dec. 1, 2008]
+(Authority: 20 U.S.C. 1419(g)(1)) [71 FR 46753, Aug. 14, 2006, as amended at 73 FR 73028, Dec. 1, 2008]

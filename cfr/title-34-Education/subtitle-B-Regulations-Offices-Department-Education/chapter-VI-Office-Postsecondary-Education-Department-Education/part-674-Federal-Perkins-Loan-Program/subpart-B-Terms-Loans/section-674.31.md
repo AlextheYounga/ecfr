@@ -94,4 +94,4 @@
 
 (iii) If the borrower defaults on the loan and the loan is assigned to the Secretary for collection, the Secretary may disclose to a national credit bureau that the borrower has defaulted on the loan, along with other relevant information.
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority: 20 U.S.C. 1087dd)[52 FR 45754, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32345, July 21, 1992; 59 FR 61408, 61415, Nov. 30, 1994; 60 FR 61814, Dec. 1, 1995; 62 FR 50848, Sept. 26, 1997; 64 FR 58309, Oct. 28, 1999]
+(Approved by the Office of Management and Budget under control number 1845-0019) (Authority: 20 U.S.C. 1087dd)[52 FR 45754, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32345, July 21, 1992; 59 FR 61408, 61415, Nov. 30, 1994; 60 FR 61814, Dec. 1, 1995; 62 FR 50848, Sept. 26, 1997; 64 FR 58309, Oct. 28, 1999]

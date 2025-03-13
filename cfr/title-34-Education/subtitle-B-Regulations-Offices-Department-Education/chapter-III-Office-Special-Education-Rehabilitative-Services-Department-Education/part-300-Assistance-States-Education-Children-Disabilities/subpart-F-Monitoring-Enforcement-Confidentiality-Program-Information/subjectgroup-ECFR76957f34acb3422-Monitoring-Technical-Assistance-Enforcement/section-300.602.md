@@ -16,4 +16,4 @@
 
 (3) *Privacy.* The State must not report to the public or the Secretary any information on performance that would result in the disclosure of personally identifiable information about individual children, or where the available data are insufficient to yield statistically reliable information.
 
-(Approved by the Office of Management and Budget under control number 1820-0624)(Authority: 20 U.S.C. 1416(b)(2)(C))[71 FR 46753, Aug. 14, 2006, as amended at 73 FR 73027, Dec. 1, 2008]
+(Approved by the Office of Management and Budget under control number 1820-0624)(Authority: 20 U.S.C. 1416(b)(2)(C)) [71 FR 46753, Aug. 14, 2006, as amended at 73 FR 73027, Dec. 1, 2008]

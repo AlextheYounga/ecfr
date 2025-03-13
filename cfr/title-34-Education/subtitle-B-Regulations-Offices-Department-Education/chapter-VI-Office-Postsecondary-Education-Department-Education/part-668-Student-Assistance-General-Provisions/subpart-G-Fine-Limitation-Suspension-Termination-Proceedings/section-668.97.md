@@ -26,4 +26,4 @@
 
 (3) Grants the request subject to a limitation or limitations.
 
-(Approved by the Office of Management and Budget under control number 1840-0537)(Authority: 20 U.S.C. 1094; E.O. 12549 (3 CFR, 1986 Comp., p. 189), 12689 (3 CFR, 1989 Comp., p. 235))[59 FR 22451, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994. Redesignated at 82 FR 6257, Jan. 19, 2017]
+(Approved by the Office of Management and Budget under control number 1840-0537) (Authority: 20 U.S.C. 1094; E.O. 12549 (3 CFR, 1986 Comp., p. 189), 12689 (3 CFR, 1989 Comp., p. 235))[59 FR 22451, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994. Redesignated at 82 FR 6257, Jan. 19, 2017]

@@ -34,4 +34,4 @@ ApplicantApplicationBudgetEDGARElementary schoolEquipmentFacilitiesFiscal yearLo
 
 (4) A course of study or a part of a course of study that fails to provide for a participating student's meeting the requirements for completion of elementary or secondary education in the same period as other students enrolled in the applicant's schools.
 
-(Authority: 20 U.S.C. 7231-7231j)[50 FR 21191, May 22, 1985, as amended at 51 FR 20414, June 4, 1986; 54 FR 19508, 19509, May 5, 1989; 57 FR 61509, Dec. 24, 1992; 60 FR 14865, Mar. 20, 1995; 69 FR 4996, Feb. 2, 2004; 75 FR 9780, Mar. 4, 2010]
+(Authority: 20 U.S.C. 7231-7231j) [50 FR 21191, May 22, 1985, as amended at 51 FR 20414, June 4, 1986; 54 FR 19508, 19509, May 5, 1989; 57 FR 61509, Dec. 24, 1992; 60 FR 14865, Mar. 20, 1995; 69 FR 4996, Feb. 2, 2004; 75 FR 9780, Mar. 4, 2010]

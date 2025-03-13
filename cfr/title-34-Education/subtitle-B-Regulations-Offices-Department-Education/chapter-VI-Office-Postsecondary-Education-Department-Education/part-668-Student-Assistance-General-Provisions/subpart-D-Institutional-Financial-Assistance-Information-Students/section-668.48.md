@@ -38,4 +38,4 @@
 
 (d) The provisions of § 668.45(e) apply for purposes of this section.
 
-(Approved by the Office of Management and Budget under control number 1845-0004)(Authority: 20 U.S.C. 1092)[60 FR 61788, Dec. 1, 1995. Redesignated and amended at 64 FR 59067, 59072, Nov. 1, 1999; 69 FR 12276, Mar. 16, 2004]
+(Approved by the Office of Management and Budget under control number 1845-0004) (Authority: 20 U.S.C. 1092)[60 FR 61788, Dec. 1, 1995. Redesignated and amended at 64 FR 59067, 59072, Nov. 1, 1999; 69 FR 12276, Mar. 16, 2004]

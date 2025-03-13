@@ -16,4 +16,4 @@ In addition to the information needed by the Secretary to determine whether the 
 
 (3) A ranking of the activities in preferred funding order.
 
-(Approved by the Office of Management and Budget under control number 1840-0114)(Authority: 20 U.S.C. 1101 *et seq.*)[64 FR 70147, Dec. 15, 1999. Redesignated at 85 FR 59981, Sept. 23, 2020]
+(Approved by the Office of Management and Budget under control number 1840-0114) (Authority: 20 U.S.C. 1101 *et seq.*)[64 FR 70147, Dec. 15, 1999. Redesignated at 85 FR 59981, Sept. 23, 2020]

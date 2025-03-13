@@ -26,4 +26,4 @@ The agency must demonstrate that it has established and follows written procedur
 
 (2) Lets its accreditation or preaccreditation lapse, within 10 business days of the date on which accreditation or preaccreditation lapses.
 
-(Approved by the Office of Management and Budget under control number 1845-0003)(Authority: 20 U.S.C. 1099b)[64 FR 56617, Oct. 20, 1999, as amended at 74 FR 55429, Oct. 27, 2009; 84 FR 58924, Nov. 1, 2019]
+(Approved by the Office of Management and Budget under control number 1845-0003) (Authority: 20 U.S.C. 1099b)[64 FR 56617, Oct. 20, 1999, as amended at 74 FR 55429, Oct. 27, 2009; 84 FR 58924, Nov. 1, 2019]

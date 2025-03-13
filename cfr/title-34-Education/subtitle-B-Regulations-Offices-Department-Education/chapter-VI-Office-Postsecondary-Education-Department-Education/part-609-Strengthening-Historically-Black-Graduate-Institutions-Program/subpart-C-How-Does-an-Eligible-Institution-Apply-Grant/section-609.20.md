@@ -16,4 +16,4 @@ In order to receive a grant under this part, an institution must submit an appli
 
 (2) If an applicant has already submitted a comprehensive development plan as described in § 609.21, a description of the progress the applicant has made in carrying out the goals of its plan.
 
-(Approved by the Office of Management and Budget under control number 1840-0113)(Authority: 20 U.S.C. 1063d and 1066(b)(2))
+(Approved by the Office of Management and Budget under control number 1840-0113) (Authority: 20 U.S.C. 1063d and 1066(b)(2))

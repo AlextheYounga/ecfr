@@ -12,4 +12,4 @@
 
 (4) That assurances, policies, and procedures provided in its application have been satisfied.
 
-(Approved by the Office of Management and Budget under control number 1840-0604)(Authority: 20 U.S.C. 1135-1135d)
+(Approved by the Office of Management and Budget under control number 1840-0604) (Authority: 20 U.S.C. 1135-1135d)

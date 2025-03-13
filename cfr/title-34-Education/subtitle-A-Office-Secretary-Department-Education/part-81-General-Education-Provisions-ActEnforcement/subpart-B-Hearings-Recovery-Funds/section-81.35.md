@@ -8,4 +8,4 @@ The Secretary or an authorized Departmental official as appropriate may, after t
 
 (c) Compromising the claim under § 81.36, if applicable.
 
-(Authority: 20 U.S.C. 1221e-3, 1234(f)(1), 1234a(j), and 3474(a); 31 U.S.C. 3711)[54 FR 19512, May 5, 1989. Redesignated and amended at 58 FR 43473, Aug. 16, 1993]
+(Authority: 20 U.S.C. 1221e-3, 1234(f)(1), 1234a(j), and 3474(a); 31 U.S.C. 3711) [54 FR 19512, May 5, 1989. Redesignated and amended at 58 FR 43473, Aug. 16, 1993]

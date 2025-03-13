@@ -84,4 +84,4 @@
 
 (j) The institution must report enrollment and loan status information, or any Title IV loan-related information required by the Secretary, to the Secretary by the deadline date established by the Secretary.
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority: 20 U.S.C. 1987cc, 1087cc-1, 1087dd, 1091 and 1094)[52 FR 45747, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 59 FR 61408, Nov. 30, 1994; 59 FR 61722, Dec. 1, 1994; 60 FR 34433, June 30, 1995; 60 FR 61814, Dec. 1, 1995; 61 FR 60608, Nov. 29, 1996; 64 FR 58309, Oct. 28, 1999; 67 FR 67076, Nov. 1, 2002; 71 FR 45697, Aug. 9, 2006; 72 FR 61996, 62030, Nov. 1, 2007]
+(Approved by the Office of Management and Budget under control number 1845-0019) (Authority: 20 U.S.C. 1987cc, 1087cc-1, 1087dd, 1091 and 1094)[52 FR 45747, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 59 FR 61408, Nov. 30, 1994; 59 FR 61722, Dec. 1, 1994; 60 FR 34433, June 30, 1995; 60 FR 61814, Dec. 1, 1995; 61 FR 60608, Nov. 29, 1996; 64 FR 58309, Oct. 28, 1999; 67 FR 67076, Nov. 1, 2002; 71 FR 45697, Aug. 9, 2006; 72 FR 61996, 62030, Nov. 1, 2007]

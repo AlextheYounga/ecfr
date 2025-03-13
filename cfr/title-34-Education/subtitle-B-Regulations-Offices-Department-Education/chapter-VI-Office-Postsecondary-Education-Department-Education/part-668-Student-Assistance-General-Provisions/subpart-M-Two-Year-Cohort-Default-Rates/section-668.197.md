@@ -8,4 +8,4 @@
 
 (c) *Determination.* You do not lose eligibility under § 668.187 if we determine that you meet the requirements for a thirty-or-fewer borrowers appeal.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)(Authority: 20 U.S.C. 1082, 1085, 1094, 1099c)
+(Approved by the Office of Management and Budget under control number 1845-0022) (Authority: 20 U.S.C. 1082, 1085, 1094, 1099c)

@@ -1,5 +1,7 @@
 ##### § 50.5 Pre-filing procedures. #####
 
+Link to an amendment published at 89 FR 46731, May 29, 2024.
+
 (a) *Introduction.* Any applicant seeking a permit to site new electric transmission facilities or modify existing facilities must comply with the following pre-filing procedures prior to filing an application for Commission review.
 
 (b) *Initial consultation.* An applicant must meet and consult with the Director concerning the proposed project.

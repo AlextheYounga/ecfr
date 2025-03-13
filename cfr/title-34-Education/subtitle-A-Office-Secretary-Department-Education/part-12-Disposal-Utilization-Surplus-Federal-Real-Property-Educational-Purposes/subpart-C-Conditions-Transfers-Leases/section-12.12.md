@@ -60,4 +60,4 @@
 
 (d) *Additional terms and conditions for leases.* In addition to the terms and conditions contained in paragraph (a) of this section, the Secretary requires, for leases of surplus Federal real property, that all terms and conditions apply to the initial lease agreement, and any renewal periods, unless specifically excluded in writing by the Secretary.
 
-(Authority: 40 U.S.C. 484(k)(1))(Approved by the Office of Management and Budget under control number 1880-0524)
+(Authority: 40 U.S.C. 484(k)(1)) (Approved by the Office of Management and Budget under control number 1880-0524)

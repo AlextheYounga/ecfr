@@ -58,4 +58,4 @@
 
 *Total local tax revenues* means all “local tax revenues” as defined in paragraph (c) of this section, including tax revenues for education programs for children needing special services, vocational education, transportation, and the like during the period in question but excluding all revenues from State and Federal sources.
 
-(Authority: 20 U.S.C. 7709)[60 FR 50778, Sept. 29, 1995, as amended at 62 FR 35419, July 1, 1997; 80 FR 33170, June 11, 2015; 81 FR 64744, Sept. 20, 2016; 83 FR 47070, Sept. 18, 2018]
+(Authority: 20 U.S.C. 7709) [60 FR 50778, Sept. 29, 1995, as amended at 62 FR 35419, July 1, 1997; 80 FR 33170, June 11, 2015; 81 FR 64744, Sept. 20, 2016; 83 FR 47070, Sept. 18, 2018]

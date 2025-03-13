@@ -46,4 +46,4 @@ The Secretary evaluates an application for a development grant on the basis of t
 
 (g) *Budget.* The extent to which the proposed costs are necessary and reasonable in relation to the project's objectives and scope.
 
-(Approved by the Office of Management and Budget under control number 1840-0114)(Authority: 20 U.S.C. 1057-1059, 1066-1069f)[59 FR 41924, Aug. 15, 1994, as amended at 70 FR 13374, Mar. 21, 2005]
+(Approved by the Office of Management and Budget under control number 1840-0114) (Authority: 20 U.S.C. 1057-1059, 1066-1069f)[59 FR 41924, Aug. 15, 1994, as amended at 70 FR 13374, Mar. 21, 2005]

@@ -14,4 +14,4 @@ An applicant requesting a hearing in accordance with this subpart must—
 
 (c) Furnish a copy of its hearing request to its State educational agency (SEA) (unless the applicant is an SEA).
 
-(Authority: 20 U.S.C. 7711(a))[60 FR 50778, Sept. 29, 1995, as amended at 80 FR 33170, June 11, 2015]
+(Authority: 20 U.S.C. 7711(a)) [60 FR 50778, Sept. 29, 1995, as amended at 80 FR 33170, June 11, 2015]

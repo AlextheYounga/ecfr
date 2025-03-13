@@ -1,5 +1,7 @@
 ##### § 50.7 Applications: exhibits. #####
 
+Link to an amendment published at 89 FR 46732, May 29, 2024.
+
 Each exhibit must contain a title page showing the applicant's name, title of the exhibit, the proper letter designation of the exhibit, and, if 10 or more pages, a table of contents, citing by page, section number or subdivision, the component elements or matters contained in the exhibit.
 
 (a) *Exhibit A—Articles of incorporation and bylaws.* If the applicant is not an individual, a conformed copy of its articles of incorporation and bylaws, or other similar documents.

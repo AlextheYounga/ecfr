@@ -72,4 +72,4 @@
 
 (4) The institution shall review annually the amount of repayments expected to be made on accounts it refers to a third party for billing or collection services, and shall ensure that the amount of the fidelity bond or insurance coverage maintained continues to meet the requirements of this paragraph.
 
-(Approved by the Office of Management and Budget under control number 1845-0023)(Authority: 20 U.S.C. 424, 1087cc)[52 FR 45555, Nov. 30, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 59 FR 61412, Nov. 30, 1994; 64 FR 58315, Oct. 28, 1999]
+(Approved by the Office of Management and Budget under control number 1845-0023) (Authority: 20 U.S.C. 424, 1087cc)[52 FR 45555, Nov. 30, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 59 FR 61412, Nov. 30, 1994; 64 FR 58315, Oct. 28, 1999]

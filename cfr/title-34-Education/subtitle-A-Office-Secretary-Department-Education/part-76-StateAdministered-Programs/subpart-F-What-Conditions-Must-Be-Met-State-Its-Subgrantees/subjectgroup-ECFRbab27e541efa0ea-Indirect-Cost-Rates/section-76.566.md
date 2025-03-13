@@ -8,4 +8,4 @@ As used in § 76.564, *fixed costs* means contributions of the grantee to fringe
 
 (c) Property, employee, health, and liability insurance.
 
-(Authority: 20 U.S.C. 1221e-3(a)(1), 2831(a), 2974(b), and 3474)[59 FR 59583, Nov. 17, 1994]
+(Authority: 20 U.S.C. 1221e-3(a)(1), 2831(a), 2974(b), and 3474) [59 FR 59583, Nov. 17, 1994]

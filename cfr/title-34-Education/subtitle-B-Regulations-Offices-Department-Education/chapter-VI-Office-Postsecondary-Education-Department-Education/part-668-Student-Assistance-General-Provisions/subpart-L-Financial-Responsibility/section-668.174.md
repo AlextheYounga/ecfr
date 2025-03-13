@@ -68,4 +68,4 @@ Link to an amendment published at 88 FR 74707, Oct. 31, 2023.
 
 (4) “Family member” is defined in § 600.21(f) of this chapter.
 
-(Approved by the Office of Management and Budget under control number 1840-0537)[62 FR 62877, Nov. 25, 1997, as amended at 63 FR 40348, 40349, July 28, 1998; 67 FR 67075, Nov. 1, 2002; 85 FR 54818, Sept. 2, 2020]
+(Approved by the Office of Management and Budget under control number 1840-0537) [62 FR 62877, Nov. 25, 1997, as amended at 63 FR 40348, 40349, July 28, 1998; 67 FR 67075, Nov. 1, 2002; 85 FR 54818, Sept. 2, 2020]

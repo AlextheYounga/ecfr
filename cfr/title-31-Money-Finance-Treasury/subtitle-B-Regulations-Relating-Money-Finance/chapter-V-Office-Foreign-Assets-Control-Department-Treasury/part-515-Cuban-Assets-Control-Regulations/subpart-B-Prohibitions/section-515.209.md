@@ -12,10 +12,10 @@ The names of entities and subentities that the Secretary of State has identified
 
 Note 1 to § 515.209:
 
-This section does not prohibit a person subject to U.S. jurisdiction from participating in an indirect financial transaction, such as those authorized pursuant to § 515.584(g) relating to U.S. dollar monetary instruments, where the person does not act as the originator or beneficiary on a transfer of funds.
+This section does not prohibit a person subject to U.S. jurisdiction from participating in an indirect financial transaction, such as those authorized pursuant to § 515.584(d) relating to funds transfers or § 515.584(g) relating to U.S. dollar monetary instruments, where the person does not act as the originator or beneficiary on a transfer of funds.
 
 Note 2 to § 515.209:
 
 A transaction relating to the collection, forwarding, or receipt of remittances involving an entity or subentity identified on the Cuba Restricted List is not authorized as a transaction ordinarily incident to a licensed transaction where the terms of the applicable general or specific license expressly exclude any such transactions. *See* §§ 515.570, 515.572(a)(3), and 515.587.
 
-[82 FR 51999, Nov. 9, 2017, as amended at 84 FR 47122, Sept. 9, 2019; 85 FR 60070, Sept. 24, 2020; 85 FR 67989, Oct. 27, 2020]
+[82 FR 51999, Nov. 9, 2017, as amended at 84 FR 47122, Sept. 9, 2019; 85 FR 60070, Sept. 24, 2020; 85 FR 67989, Oct. 27, 2020; 89 FR 46324, May 29, 2024]

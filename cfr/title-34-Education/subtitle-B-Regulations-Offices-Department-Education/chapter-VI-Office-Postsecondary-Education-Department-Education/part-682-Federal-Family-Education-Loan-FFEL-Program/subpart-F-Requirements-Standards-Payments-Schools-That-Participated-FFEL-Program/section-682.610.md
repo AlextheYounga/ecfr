@@ -34,4 +34,4 @@
 
 (ii) A student who is enrolled at the school and who received a loan under title IV of the Act has changed his or her permanent address.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1078, 1078-1, 1078-2, 1082, 1094)[57 FR 60323, Dec. 18, 1992, as amended at 58 FR 9119, Feb. 19, 1993; 61 FR 60493, Nov. 27, 1996; 64 FR 58965, Nov. 1, 1999; 66 FR 34764, June 29, 2001; 78 FR 65822, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1845-0020) (Authority: 20 U.S.C. 1078, 1078-1, 1078-2, 1082, 1094)[57 FR 60323, Dec. 18, 1992, as amended at 58 FR 9119, Feb. 19, 1993; 61 FR 60493, Nov. 27, 1996; 64 FR 58965, Nov. 1, 1999; 66 FR 34764, June 29, 2001; 78 FR 65822, Nov. 1, 2013]

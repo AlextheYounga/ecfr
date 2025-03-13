@@ -12,4 +12,4 @@ Each SEA must ensure that a child with a disability who is placed in or referred
 
 (c) Has all of the rights of a child with a disability who is served by a public agency.
 
-(Approved by the Office of Management and Budget under control number 1820-0030)(Authority: 20 U.S.C. 1412(a)(10)(B))[71 FR 46753, Aug. 14, 2006, as amended at 82 FR 29759, June 30, 2017]
+(Approved by the Office of Management and Budget under control number 1820-0030)(Authority: 20 U.S.C. 1412(a)(10)(B)) [71 FR 46753, Aug. 14, 2006, as amended at 82 FR 29759, June 30, 2017]

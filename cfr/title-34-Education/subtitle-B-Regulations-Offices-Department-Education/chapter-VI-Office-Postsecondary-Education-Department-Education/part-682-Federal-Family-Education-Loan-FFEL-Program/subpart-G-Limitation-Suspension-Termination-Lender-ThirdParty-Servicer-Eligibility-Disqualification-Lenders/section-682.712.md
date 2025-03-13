@@ -62,4 +62,4 @@
 
 (3) The guaranty agency determines that special circumstances warrant disqualification of the lender from the FFEL programs for a significant period, notwithstanding the agency's decision not to terminate the lender's eligibility to participate in the agency's program.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1082)[57 FR 60323, Dec. 18, 1992, as amended at 58 FR 9119, Feb. 19, 1993; 64 FR 58965, Nov. 1, 1999; 78 FR 65822, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1845-0020) (Authority: 20 U.S.C. 1082)[57 FR 60323, Dec. 18, 1992, as amended at 58 FR 9119, Feb. 19, 1993; 64 FR 58965, Nov. 1, 1999; 78 FR 65822, Nov. 1, 2013]

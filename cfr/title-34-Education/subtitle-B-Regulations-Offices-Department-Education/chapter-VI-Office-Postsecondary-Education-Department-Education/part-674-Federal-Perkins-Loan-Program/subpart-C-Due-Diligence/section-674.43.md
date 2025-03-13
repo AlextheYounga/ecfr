@@ -80,4 +80,4 @@
 
 (2) An institution shall exercise the level of care required of a fiduciary with regard to these deposits and investments.
 
-(Approved by the Office of Management and Budget under control number 1845-0023)(Authority: 20 U.S.C. 424, 1087cc)[52 FR 45555, Nov. 30, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32346, July 21, 1992; 59 FR 61412, Nov. 30, 1994; 64 FR 58315, Oct. 28, 1999; 67 FR 67077, Nov. 1, 2002]
+(Approved by the Office of Management and Budget under control number 1845-0023) (Authority: 20 U.S.C. 424, 1087cc)[52 FR 45555, Nov. 30, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32346, July 21, 1992; 59 FR 61412, Nov. 30, 1994; 64 FR 58315, Oct. 28, 1999; 67 FR 67077, Nov. 1, 2002]

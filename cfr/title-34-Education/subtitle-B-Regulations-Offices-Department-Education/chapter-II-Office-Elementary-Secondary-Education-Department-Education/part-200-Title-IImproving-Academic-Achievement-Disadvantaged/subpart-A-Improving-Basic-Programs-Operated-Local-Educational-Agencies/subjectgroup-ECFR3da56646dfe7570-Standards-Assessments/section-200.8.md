@@ -16,4 +16,4 @@
 
 (2) The requirement to report itemized score analyses in paragraph (b)(1) of this section does not require the release of test items.
 
-(Approved by the Office of Management and Budget under control number 1810-0576)(Authority: 20 U.S.C. 1221e-3, 3474, 6311(b)(2)(B)(x) and (xii), and 6571)[67 FR 45042, July 5, 2002, as amended at 81 FR 88938, Dec. 8, 2016]
+(Approved by the Office of Management and Budget under control number 1810-0576) (Authority: 20 U.S.C. 1221e-3, 3474, 6311(b)(2)(B)(x) and (xii), and 6571)[67 FR 45042, July 5, 2002, as amended at 81 FR 88938, Dec. 8, 2016]

@@ -22,6 +22,6 @@ See § 515.533(a)(4) for payment and financing terms for exportations or reexpor
 
 (b) *Examples.* (1) A specific license authorizing a person to complete a securities sale involving Cuban Company A, whose property and interests in property are blocked pursuant to this part, also authorizes other persons to engage in activities that are ordinarily incident and necessary to complete the sale, including transactions by the buyer, broker, transfer agents, and banks.
 
-(2) A general license authorizing a person to import certain goods from independent Cuban entrepreneurs also authorizes funds transfers or payments that are ordinarily incident to the importation, including payments made using online payment platforms.
+(2) A general license authorizing a person to import certain goods from independent private sector entrepreneurs also authorizes funds transfers or payments that are ordinarily incident to the importation, including payments made using online payment platforms.
 
-[80 FR 56919, Sept. 21, 2015, as amended at 81 FR 4584, Jan. 27, 2016; 81 FR 71374, Oct. 17, 2016; 82 FR 52000, Nov. 9, 2017; 85 FR 60070, Sept. 24, 2020; 85 FR 67989, Oct. 27, 2020]
+[80 FR 56919, Sept. 21, 2015, as amended at 81 FR 4584, Jan. 27, 2016; 81 FR 71374, Oct. 17, 2016; 82 FR 52000, Nov. 9, 2017; 85 FR 60070, Sept. 24, 2020; 85 FR 67989, Oct. 27, 2020; 89 FR 46324, May 29, 2024]

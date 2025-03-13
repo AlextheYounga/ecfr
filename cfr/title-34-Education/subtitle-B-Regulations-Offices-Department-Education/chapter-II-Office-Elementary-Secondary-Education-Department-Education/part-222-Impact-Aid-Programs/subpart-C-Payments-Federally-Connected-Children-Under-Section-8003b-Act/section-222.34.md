@@ -8,4 +8,4 @@
 
 (b) The applicant may use the information obtained from a second membership count to amend its application for assistance as described in § 222.5(b).
 
-(Approved by the Office of Management and Budget under control number 1810-0036)(Authority: 20 U.S.C. 7703 and 7705)[60 FR 50778, Sept. 29, 1995, as amended at 80 FR 33163, June 11, 2015]
+(Approved by the Office of Management and Budget under control number 1810-0036)(Authority: 20 U.S.C. 7703 and 7705) [60 FR 50778, Sept. 29, 1995, as amended at 80 FR 33163, June 11, 2015]

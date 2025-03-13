@@ -12,4 +12,4 @@ To receive an allotment under the SLEAP Program, a State must—
 
 (e) Ensure that the Federal share will not exceed one-third of the total funds expended under the SLEAP Program.
 
-(Authority: 20 U.S.C. 1070c-3a)[65 FR 65608, Nov. 1, 2000, as amended at 66 FR 34039, June 26, 2001]
+(Authority: 20 U.S.C. 1070c-3a) [65 FR 65608, Nov. 1, 2000, as amended at 66 FR 34039, June 26, 2001]

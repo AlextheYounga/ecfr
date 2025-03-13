@@ -1,5 +1,7 @@
 ##### § 1239.2 Cancellation of notice to appear. #####
 
+Link to an amendment published at 89 FR 46794, May 29, 2024.
+
 (a) *Prior to commencement of proceedings.* For provisions relating to the authority of an immigration officer to cancel a notice to appear prior to the vesting of jurisdiction with the immigration judge, see 8 CFR 239.2(a) and (b).
 
 (b) [Reserved]

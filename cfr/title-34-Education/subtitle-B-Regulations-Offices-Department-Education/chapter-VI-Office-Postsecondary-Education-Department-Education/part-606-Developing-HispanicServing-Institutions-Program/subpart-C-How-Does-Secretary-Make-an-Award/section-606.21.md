@@ -26,4 +26,4 @@ The Secretary evaluates an application for a planning grant on the basis of the 
 
 (d) *Budget.* The Secretary reviews each application to determine the extent to which the proposed project costs are necessary and reasonable.
 
-(Approved by the Office of Management and Budget under control number 1840-0114)(Authority: 20 U.S.C. 1101 *et seq.*)[64 FR 70147, Dec. 15, 1999, as amended at 70 FR 13373, Mar. 21, 2005]
+(Approved by the Office of Management and Budget under control number 1840-0114) (Authority: 20 U.S.C. 1101 *et seq.*)[64 FR 70147, Dec. 15, 1999, as amended at 70 FR 13373, Mar. 21, 2005]

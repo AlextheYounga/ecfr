@@ -80,4 +80,4 @@
 
 (4) If a borrower's application for a discharge of a loan based on a borrower defense is approved under 34 CFR part 685, subpart D, the Secretary discharges the obligation of the borrower, in accordance with the procedures described in subpart D of this part.
 
-(Approved by the Office of Management and Budget under control number 1845-0021)[59 FR 61690, Dec. 1, 1994]Editorial Note:For Federal Register citations affecting § 685.212, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Approved by the Office of Management and Budget under control number 1845-0021) [59 FR 61690, Dec. 1, 1994] Editorial Note:For Federal Register citations affecting § 685.212, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

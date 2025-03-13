@@ -30,4 +30,4 @@
 
 (3) Revise the plan, as necessary, based on the results of the regular monitoring, to ensure continuous improvement of students in the schoolwide program.
 
-(Approved by the Office of Management and Budget under control number 1810-0581)[67 FR 71718, Dec. 2, 2002, as amended at 84 FR 31673, July 2, 2019]
+(Approved by the Office of Management and Budget under control number 1810-0581) [67 FR 71718, Dec. 2, 2002, as amended at 84 FR 31673, July 2, 2019]

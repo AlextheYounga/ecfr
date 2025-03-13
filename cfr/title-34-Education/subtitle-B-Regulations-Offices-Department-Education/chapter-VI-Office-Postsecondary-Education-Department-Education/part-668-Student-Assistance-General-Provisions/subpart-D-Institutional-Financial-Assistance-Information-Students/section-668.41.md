@@ -108,4 +108,4 @@
 
 (2) An institution must submit the report described in paragraph (g)(1)(i) of this section to the Secretary within 15 days of making it available to students, prospective students, and the public.
 
-(Approved by the Office of Management and Budget under control number 1845-0004)[64 FR 59066, Nov. 1, 1999, as amended at 74 FR 55942, Oct. 29, 2009; 81 FR 76070, Nov. 1, 2016; 84 FR 58932, Nov. 1, 2019; 84 FR 49910, Sept. 23, 2019; 87 FR 66039, Nov. 1, 2022]
+(Approved by the Office of Management and Budget under control number 1845-0004) [64 FR 59066, Nov. 1, 1999, as amended at 74 FR 55942, Oct. 29, 2009; 81 FR 76070, Nov. 1, 2016; 84 FR 58932, Nov. 1, 2019; 84 FR 49910, Sept. 23, 2019; 87 FR 66039, Nov. 1, 2022]

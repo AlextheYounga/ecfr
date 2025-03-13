@@ -24,4 +24,4 @@
 
 (4) Foundation or other charitable organization funds.
 
-(Authority: 20 U.S.C. 1068d, 1103d, and 1070b-2)[52 FR 45778, Dec. 1, 1987, as amended at 59 FR 61421, Nov. 30, 1994; 66 FR 34039, June 26, 2001]
+(Authority: 20 U.S.C. 1068d, 1103d, and 1070b-2) [52 FR 45778, Dec. 1, 1987, as amended at 59 FR 61421, Nov. 30, 1994; 66 FR 34039, June 26, 2001]

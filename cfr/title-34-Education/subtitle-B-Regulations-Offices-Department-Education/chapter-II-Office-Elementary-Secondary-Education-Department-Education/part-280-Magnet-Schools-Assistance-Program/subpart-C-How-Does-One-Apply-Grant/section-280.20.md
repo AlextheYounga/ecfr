@@ -88,4 +88,4 @@
 
 (5) What criteria will be used in selecting students to attend the proposed magnet schools program.
 
-(Approved by the Office of Management and Budget under control number 1855-0011)(Authority: 20 U.S.C. 7231d)[50 FR 21191, May 22, 1985, as amended at 54 FR 19508, May 5, 1989; 57 FR 61509, Dec. 24, 1992; 60 FR 14865, Mar. 20, 1995; 69 FR 4997, Feb. 2, 2004; 75 FR 9780, Mar. 4, 2010]
+(Approved by the Office of Management and Budget under control number 1855-0011) (Authority: 20 U.S.C. 7231d)[50 FR 21191, May 22, 1985, as amended at 54 FR 19508, May 5, 1989; 57 FR 61509, Dec. 24, 1992; 60 FR 14865, Mar. 20, 1995; 69 FR 4997, Feb. 2, 2004; 75 FR 9780, Mar. 4, 2010]

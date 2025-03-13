@@ -16,4 +16,4 @@ The State must—
 
 (c) Annually report to the Secretary and the public on the progress of the State, and of children with disabilities in the State, toward meeting the goals established under paragraph (a) of this section, which may include elements of the reports required under section 1111(h) of the ESEA.
 
-(Approved by the Office of Management and Budget under control number 1820-0030)(Authority: 20 U.S.C. 1412(a)(15))[71 FR 46753, Aug. 14, 2006, as amended at 82 FR 29760, June 30, 2017]
+(Approved by the Office of Management and Budget under control number 1820-0030)(Authority: 20 U.S.C. 1412(a)(15)) [71 FR 46753, Aug. 14, 2006, as amended at 82 FR 29760, June 30, 2017]

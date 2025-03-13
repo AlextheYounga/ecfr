@@ -32,4 +32,4 @@
 
 (b) The following terms used in this subpart are defined or referenced in 34 CFR 77.1:
 
-ApplicantApplicationAwardContractDepartmentEDGAREquipmentFiscal yearGrantGranteeProjectPublicReal propertyRecipient(Authority: 20 U.S.C. 7707(b) and 1221e-3)
+Applicant Application Award Contract Department EDGAR Equipment Fiscal year Grant Grantee Project Public Real property Recipient(Authority: 20 U.S.C. 7707(b) and 1221e-3)

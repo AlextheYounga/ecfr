@@ -28,4 +28,4 @@
 
 (g) *Limit on use of funds.* Funds received by a school under this part may be used only to make Direct Loans to eligible borrowers and may not be used or hypothecated for any other purpose.
 
-(Approved by the Office of Management and Budget under control number 1840-0672)(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 61690, Dec. 1, 1994, as amended at 60 FR 33345, June 28, 1995; 61 FR 60493, Nov. 27, 1996; 61 FR 60610, Nov. 29, 1996; 78 FR 65841, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1840-0672) (Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 61690, Dec. 1, 1994, as amended at 60 FR 33345, June 28, 1995; 61 FR 60493, Nov. 27, 1996; 61 FR 60610, Nov. 29, 1996; 78 FR 65841, Nov. 1, 2013]

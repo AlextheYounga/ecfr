@@ -50,4 +50,4 @@
 
 (ii) The total number of borrowers in that cohort and the two most recent prior cohorts, as determined for each cohort under paragraph (b) of this section.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)(Authority: 20 U.S.C. 1070g, 1082, 1085, 1094, 1099c)[65 FR 65638, Nov. 1, 2000, as amended at 67 FR 67075, Nov. 1, 2002; 73 FR 35494, June 23, 2008; 74 FR 55649, Oct. 28, 2009]
+(Approved by the Office of Management and Budget under control number 1845-0022) (Authority: 20 U.S.C. 1070g, 1082, 1085, 1094, 1099c)[65 FR 65638, Nov. 1, 2000, as amended at 67 FR 67075, Nov. 1, 2002; 73 FR 35494, June 23, 2008; 74 FR 55649, Oct. 28, 2009]

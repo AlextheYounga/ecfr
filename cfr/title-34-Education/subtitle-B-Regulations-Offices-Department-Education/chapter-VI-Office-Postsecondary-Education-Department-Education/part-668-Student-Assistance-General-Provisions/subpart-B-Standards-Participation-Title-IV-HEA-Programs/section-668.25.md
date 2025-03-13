@@ -62,4 +62,4 @@
 
 (2) An institution that contracts with a third-party servicer to administer any aspect of the institution's participation in a Title IV, HEA program shall provide to the Secretary, upon request, a copy of the contract, including any modifications, and provide information pertaining to the contract or to the servicer's administration of the institution's participation in any Title IV, HEA program.
 
-(Approved by the Office of Management and Budget under control number 1840-0537)(Authority: 20 U.S.C. 1094)[59 FR 22441, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 61 FR 60492, Nov. 27, 1996; 63 FR 40624, July 29, 1998; 64 FR 59042, Nov. 1, 1999; 75 FR 66952, Oct. 29, 2010]
+(Approved by the Office of Management and Budget under control number 1840-0537) (Authority: 20 U.S.C. 1094)[59 FR 22441, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 61 FR 60492, Nov. 27, 1996; 63 FR 40624, July 29, 1998; 64 FR 59042, Nov. 1, 1999; 75 FR 66952, Oct. 29, 2010]

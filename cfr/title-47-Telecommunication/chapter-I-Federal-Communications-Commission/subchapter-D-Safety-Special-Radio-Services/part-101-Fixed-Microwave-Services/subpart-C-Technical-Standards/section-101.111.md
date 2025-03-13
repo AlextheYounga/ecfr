@@ -1,7 +1,5 @@
 ##### § 101.111 Emission limitations. #####
 
-Link to an amendment published at 89 FR 33259, Apr. 29, 2024.
-
 (a) The mean power of emissions must be attenuated below the mean output power of the transmitter in accordance with the following schedule:
 
 (1) When using transmissions other than those employing digital modulation techniques:
@@ -29,6 +27,14 @@ A = 11 + 0.4(P−50) + 10 Log10 B. (Attenuation greater than 56 decibels or to a
 (iv) The emission mask for LMDS and the 24 GHz Service shall use the equation in paragraph (a)(2)(ii) of this section and apply it only to the band edge of each block of spectrum, but not to subchannels established by licensees. The value of P in the equation is the percentage removed from the carrier frequency and assumes that the carrier frequency is the center of the actual bandwidth used. The emission mask can be satisfied by locating a carrier of the subchannel sufficiently far from the channel edges so that the emission levels of the mask are satisfied. The LMDS or 24 GHz emission mask shall use a value B (bandwidth) of 40 MHz, for all cases even in the case where a narrower subchannel is used (for instance the actual bandwidth is 10 MHz) and the mean output power used in the calculation is the sum of the output power of a fully populated channel. For block assigned channels, the out-of-band emission limits apply only outside the assigned band of operation and not within the band.
 
 (v) The emission mask for the 71-76 GHz, 81-86 GHz, 92-94 GHz, and 94.1-95 GHz bands used in the equation in paragraph (a)(2)(ii) of this section applies only to the edge of each channel, but not to sub-channels established by licensees. The value of P in the equation is for the percentage removed from the carrier frequency and assumes that the carrier frequency is the center of the actual bandwidth used. The value of B will always be 500 MHz. In the case where a narrower sub-channel is used within the assigned bandwidth, such sub-carrier will be located sufficiently far from the channel edges to satisfy the emission levels of the mask. The mean output power used in the calculation is the sum of the output power of a fully populated channel.
+
+(vi)(A) In order to protect Federal Earth Exploration-Satellite Service (passive), aeronautical and maritime endpoints in motion operating in the 70 and 80 GHz bands must comply with the following limits:
+
+(*1*) Ground-to-air transmissions shall not exceed an unwanted emission level of -38.5 dBW per 100 MHz in any portion of the 86-92 GHz passive band;
+
+(*2*) Air-to-air, ship-to-shore, and aerostat-to-shore transmissions shall not exceed an unwanted emission level of −29.7 dBW per 100 MHz in any portion of the 86-92 GHz passive band.
+
+(B) Any changes to system specifications, operations, or deployment scenarios for aeronautical or maritime end points in motion shall be pre-coordinated with NTIA and affected Federal agencies, and licensees of aeronautical or maritime end points in motion must cooperate fully with any updates to the required unwanted emission limits that may result from these modifications.
 
 (3) For Digital Termination System channels used in the Digital Electronic Message Service (DEMS) operating in the 10,550-10,680 MHz band:
 
@@ -88,4 +94,4 @@ A = 80 + 10 log10 N decibels
 
 (2) *31-31.3 GHz.* For fixed stations authorized after August 6, 2018, the unwanted emissions power in any 100 MHz of the 31.3-31.5 GHz band shall be limited to −38 dBW (−38 dBW/100 MHz), as measured at the input to the antenna.
 
-[61 FR 26677, May 28, 1996, as amended at 62 FR 24582, May 6, 1997; 65 FR 59358, Oct. 5, 2000; 67 FR 43038, June 26, 2002; 68 FR 4957, Jan. 31, 2003; 69 FR 3266, Jan. 23, 2004; 69 FR 31746, June 7, 2004; 80 FR 38912, July 7, 2015]
+[61 FR 26677, May 28, 1996, as amended at 62 FR 24582, May 6, 1997; 65 FR 59358, Oct. 5, 2000; 67 FR 43038, June 26, 2002; 68 FR 4957, Jan. 31, 2003; 69 FR 3266, Jan. 23, 2004; 69 FR 31746, June 7, 2004; 80 FR 38912, July 7, 2015; 89 FR 33259, Apr. 29, 2024]

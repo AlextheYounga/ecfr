@@ -132,4 +132,4 @@
 
 (2) If an institution loses its eligibility because of one of the prohibitions contained in paragraphs (a)(2) and (a)(3) of this section, this loss is permanent. The institution's eligibility cannot be reinstated.
 
-(Approved by the Office of Management and Budget under control number 1840-0098)[59 FR 22336, Apr. 29, 1994; 59 FR 32082, June 22, 1994, as amended at 59 FR 47801, Sept. 19, 1994; 60 FR 34430, June 30, 1995; 64 FR 58616, Oct. 29, 1999; 71 FR 45692, Aug. 9, 2006; 85 FR 54810, Sept. 2, 2020; 87 FR 65486, Oct. 28, 2022]
+(Approved by the Office of Management and Budget under control number 1840-0098) [59 FR 22336, Apr. 29, 1994; 59 FR 32082, June 22, 1994, as amended at 59 FR 47801, Sept. 19, 1994; 60 FR 34430, June 30, 1995; 64 FR 58616, Oct. 29, 1999; 71 FR 45692, Aug. 9, 2006; 85 FR 54810, Sept. 2, 2020; 87 FR 65486, Oct. 28, 2022]

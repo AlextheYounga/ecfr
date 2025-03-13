@@ -1,5 +1,7 @@
 ##### § 1003.1 Organization, jurisdiction, and powers of the Board of Immigration Appeals. #####
 
+Link to an amendment published at 89 FR 46787, May 29, 2024.
+
 (a)(1) *Organization.* There shall be in the Department of Justice a Board of Immigration Appeals, subject to the general supervision of the Director, Executive Office for Immigration Review (EOIR). The Board members shall be attorneys appointed by the Attorney General to act as the Attorney General's delegates in the cases that come before them. The Board shall consist of 28 members. A vacancy, or the absence or unavailability of a Board member, shall not impair the right of the remaining members to exercise all the powers of the Board. The Board members shall also be known as Appellate Immigration Judges.
 
 (2) *Chairman.* The Attorney General shall designate one of the Board members to serve as Chairman. The Attorney General may designate one or two Vice Chairmen to assist the Chairman in the performance of his duties and to exercise all of the powers and duties of the Chairman in the absence or unavailability of the Chairman. The Chairman of the Board of Immigration Appeals shall also be known as the Chief Appellate Immigration Judge, and a Vice Chairman of the Board of Immigration Appeals shall also be known as a Deputy Chief Appellate Immigration Judge.

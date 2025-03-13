@@ -12,4 +12,4 @@
 
 (c) *Application of proportion to Impact Aid payments.* Except as provided in § 222.161(a)(1)(ii) and (iii), the proportion established under this section (or a lesser proportion) for any LEA receiving payments under sections 8002 and 8003(b) (including hold harmless payments calculated under section 8003(e)) may be applied by a State to actual receipts of those payments.
 
-(Authority: 20 U.S.C. 7709(d)(1)(B))[60 FR 50778, Sept. 29, 1995, as amended at 80 FR 33170, June 11, 2015]
+(Authority: 20 U.S.C. 7709(d)(1)(B)) [60 FR 50778, Sept. 29, 1995, as amended at 80 FR 33170, June 11, 2015]

@@ -30,4 +30,4 @@ The selection criteria for this program are as follows:
 
 (e) *State experience.* The experience of the State in addressing the facility needs of charter schools through various means, including providing per-pupil aid and access to State loan or bonding pools.
 
-(Approved by the Office of Management and Budget under control number 1855-0012)(Authority: 20 U.S.C. 7221d(b))[70 FR 15003, Mar. 24, 2005, as amended at 87 FR 3661, Jan. 25, 2022]
+(Approved by the Office of Management and Budget under control number 1855-0012) (Authority: 20 U.S.C. 7221d(b)) [70 FR 15003, Mar. 24, 2005, as amended at 87 FR 3661, Jan. 25, 2022]

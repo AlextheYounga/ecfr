@@ -2,7 +2,7 @@
 
 (a) *Definitions in the Adult Education and Family Literacy Act (Act).* The following terms used in these regulations are defined in section 203 of the Adult Education and Family Literacy Act, 20 U.S.C. 3292 (Act):
 
-Adult education,Eligible provider,Individual of limited English proficiency,Individual with a disability,Literacy.
+Adult education,Eligible provider,Individual of limited English proficiency,Individual with a disability, Literacy.
 
 (b) *Other definitions.* The following definitions also apply to this part:
 

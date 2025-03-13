@@ -26,4 +26,4 @@
 
 (d) An institution that reimburses its Fund under paragraph (a) of this section thereby acquires for its own account all the right, title and interest of the Fund in the loan for which reimbursement has been made.
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority: 20 U.S.C. 1087dd-1087hh)[52 FR 45747, Dec. 1, 1987, as amended at 59 FR 61407, Nov. 30, 1994; 64 FR 58315, Oct. 28, 1999; 65 FR 65614, Nov. 1, 2000]
+(Approved by the Office of Management and Budget under control number 1845-0019) (Authority: 20 U.S.C. 1087dd-1087hh)[52 FR 45747, Dec. 1, 1987, as amended at 59 FR 61407, Nov. 30, 1994; 64 FR 58315, Oct. 28, 1999; 65 FR 65614, Nov. 1, 2000]

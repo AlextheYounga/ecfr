@@ -2,7 +2,7 @@
 
 (a)(1) The following terms defined in section 8013 of the Act apply to this part:
 
-Armed forcesAverage per-pupil expenditureConstructionCurrent expendituresIndian landsLocal contribution percentageLow-rent housingModernizationSchool facilities
+Armed forces Average per-pupil expenditure Construction Current expenditures Indian lands Local contribution percentage Low-rent housing ModernizationSchool facilities
 
 (2) The following term defined in § 222.30 applies to this part:
 
@@ -10,7 +10,7 @@ Free public education
 
 (b) The following terms defined in section 9101 of the ESEA (General Provisions) also apply to this part:
 
-Average daily attendance (ADA)ChildCountyDepartmentOutlying areaParentSecretaryStateState educational agency (SEA)
+Average daily attendance (ADA) Child County DepartmentOutlying area Parent Secretary State State educational agency (SEA)
 
 (c) In addition, the following definitions apply to this part:
 
@@ -164,4 +164,4 @@ Example 1:Maria delivers bread to the convenience store and the commissary, whic
 
 *Uniformed services* means the United States Army, Navy, Air Force, Marine Corps, Coast Guard, National Oceanic and Atmospheric Administration, and Public Health Service.
 
-(Approved by the Office of Management and Budget under control number 1810-0036)(Authority: 20 U.S.C. 7703(a)(1); 37 U.S.C. 101)[60 FR 50778, Sept. 29, 1995, as amended at 80 FR 33161, June 11, 2015; 81 FR 64740, Sept. 20, 2016]
+(Approved by the Office of Management and Budget under control number 1810-0036)(Authority: 20 U.S.C. 7703(a)(1); 37 U.S.C. 101) [60 FR 50778, Sept. 29, 1995, as amended at 80 FR 33161, June 11, 2015; 81 FR 64740, Sept. 20, 2016]

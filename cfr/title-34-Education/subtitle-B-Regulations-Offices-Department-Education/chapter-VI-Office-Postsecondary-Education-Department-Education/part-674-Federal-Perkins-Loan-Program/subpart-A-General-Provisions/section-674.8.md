@@ -66,4 +66,4 @@ To participate in the Federal Perkins Loan program, an institution shall enter i
 
 (f) The institution shall provide the loan information required by section 463A of the HEA to a borrower.
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority: 20 U.S.C. 1087cc, 1087cc-1, 1094)[52 FR 45747, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32344, July 21, 1992; 59 FR 61407, 61415, Nov. 30, 1994; 61 FR 60396, Nov. 27, 1996; 64 FR 58315, Oct. 28, 1999; 72 FR 61996, Nov. 1, 2007]
+(Approved by the Office of Management and Budget under control number 1845-0019) (Authority: 20 U.S.C. 1087cc, 1087cc-1, 1094)[52 FR 45747, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32344, July 21, 1992; 59 FR 61407, 61415, Nov. 30, 1994; 61 FR 60396, Nov. 27, 1996; 64 FR 58315, Oct. 28, 1999; 72 FR 61996, Nov. 1, 2007]

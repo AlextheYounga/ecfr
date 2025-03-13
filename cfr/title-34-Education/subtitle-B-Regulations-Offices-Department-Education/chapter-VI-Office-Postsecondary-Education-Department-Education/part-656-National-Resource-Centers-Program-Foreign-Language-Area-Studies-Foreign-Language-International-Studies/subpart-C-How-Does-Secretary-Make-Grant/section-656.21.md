@@ -76,4 +76,4 @@ The Secretary evaluates an application for a comprehensive Center on the basis o
 
 (j) *Degree to which priorities are served.* If, under the provisions of § 656.23, the Secretary establishes competitive priorities for Centers, the Secretary considers the degree to which those priorities are being served.
 
-(Approved by the Office of Management and Budget under control number 1840-0068)(Authority: 20 U.S.C. 1122)[61 FR 50193, Sept. 24, 1996, as amended at 70 FR 13375, Mar. 21, 2005; 74 FR 35073, July 17, 2009]
+(Approved by the Office of Management and Budget under control number 1840-0068) (Authority: 20 U.S.C. 1122)[61 FR 50193, Sept. 24, 1996, as amended at 70 FR 13375, Mar. 21, 2005; 74 FR 35073, July 17, 2009]

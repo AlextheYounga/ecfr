@@ -32,4 +32,4 @@
 
 (ii) Must be assessed at its market value as of the end of the trading day on the date the institution deposits the security into the endowment fund established under this part.
 
-(Approved by the Office of Management and Budget under control number 1840-0564)(Authority: 20 U.S.C. 1065)[49 FR 28521, July 21, 1984, as amended at 49 FR 37325, Sept. 21, 1984; 52 FR 11258, Apr. 8, 1987; 53 FR 49146, Dec. 6, 1988]
+(Approved by the Office of Management and Budget under control number 1840-0564) (Authority: 20 U.S.C. 1065)[49 FR 28521, July 21, 1984, as amended at 49 FR 37325, Sept. 21, 1984; 52 FR 11258, Apr. 8, 1987; 53 FR 49146, Dec. 6, 1988]

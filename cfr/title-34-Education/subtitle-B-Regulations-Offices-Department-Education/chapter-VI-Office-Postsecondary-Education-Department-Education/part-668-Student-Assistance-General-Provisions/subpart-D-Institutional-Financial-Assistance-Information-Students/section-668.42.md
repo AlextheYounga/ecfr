@@ -34,4 +34,4 @@
 
 (6) The exit counseling information the institution provides and collects as required by 34 CFR 674.42 for borrowers under the Federal Perkins Loan Program, by 34 CFR 685.304 for borrowers under the William D. Ford Federal Direct Student Loan Program, and by 34 CFR 682.604 for borrowers under the Federal Stafford Loan Program.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)(Authority: 20 U.S.C. 1092)[51 FR 43323, Dec. 1, 1986. Redesignated and amended at 64 FR 59067, Nov. 1, 1999; 74 FR 55649, Oct. 29, 2009]
+(Approved by the Office of Management and Budget under control number 1845-0022) (Authority: 20 U.S.C. 1092)[51 FR 43323, Dec. 1, 1986. Redesignated and amended at 64 FR 59067, Nov. 1, 1999; 74 FR 55649, Oct. 29, 2009]

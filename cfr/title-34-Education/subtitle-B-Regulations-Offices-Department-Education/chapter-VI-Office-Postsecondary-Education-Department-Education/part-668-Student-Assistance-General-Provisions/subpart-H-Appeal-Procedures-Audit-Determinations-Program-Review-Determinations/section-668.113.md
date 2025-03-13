@@ -16,4 +16,4 @@
 
 (3) If the institution is charged with a liability as a result of an error described in paragraph (d)(1) of this section, the institution cures or corrects that error with regard to that liability if the cure or correction eliminates the basis for the liability.
 
-(Approved by the Office of Management and Budget under control number 1840-0537)[59 FR 22452, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 64 FR 58619, Oct. 29, 1999; 78 FR 48051, Aug. 7, 2013; 85 FR 54818, Sept. 2, 2020]
+(Approved by the Office of Management and Budget under control number 1840-0537) [59 FR 22452, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 64 FR 58619, Oct. 29, 1999; 78 FR 48051, Aug. 7, 2013; 85 FR 54818, Sept. 2, 2020]

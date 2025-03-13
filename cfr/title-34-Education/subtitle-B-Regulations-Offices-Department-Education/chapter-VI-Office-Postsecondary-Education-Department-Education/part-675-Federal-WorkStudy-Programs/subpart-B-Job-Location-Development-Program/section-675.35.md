@@ -20,4 +20,4 @@
 
 (v) If the institution uses Federal funds to contract with another institution, suitable performance standards will be part of that contract.
 
-(Approved by the Office of Management and Budget under control number 1840-0535)(Authority: 42 U.S.C. 2756)[52 FR 45770, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 59 FR 61417, 61419, Nov. 30, 1994]
+(Approved by the Office of Management and Budget under control number 1840-0535) (Authority: 42 U.S.C. 2756)[52 FR 45770, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 59 FR 61417, 61419, Nov. 30, 1994]

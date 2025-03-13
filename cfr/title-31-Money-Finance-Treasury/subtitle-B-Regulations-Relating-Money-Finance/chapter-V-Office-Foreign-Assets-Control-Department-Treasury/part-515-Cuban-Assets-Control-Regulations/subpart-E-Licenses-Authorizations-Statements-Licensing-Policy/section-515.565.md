@@ -1,6 +1,6 @@
 ##### § 515.565 Educational activities. #####
 
-(a) *General license for educational activities.* Persons subject to U.S. jurisdiction, including U.S. academic institutions and their faculty, staff, and students, are authorized to engage in the travel-related transactions set forth in § 515.560(c), that are related to:
+(a) *General license for educational activities.* Persons subject to U.S. jurisdiction, including U.S. academic institutions and their faculty, staff, and students, are authorized to engage in transactions including the travel-related transactions set forth in § 515.560(c), that are related to:
 
 (1) Participation in a structured educational program in Cuba as part of a course offered for credit by a U.S. graduate or undergraduate degree-granting academic institution that is sponsoring the program;
 
@@ -80,4 +80,4 @@ Except as provided in paragraph (b)(6) of this section, each person relying on t
 
 (f) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to educational activities that do not qualify for the general licenses under paragraph (a) or (b) of this section.
 
-[82 FR 52000, Nov. 9, 2017, as amended at 84 FR 25992, June 5, 2019; 85 FR 60071, Sept. 24, 2020; 87 FR 35089, June 9, 2022]
+[82 FR 52000, Nov. 9, 2017, as amended at 84 FR 25992, June 5, 2019; 85 FR 60071, Sept. 24, 2020; 87 FR 35089, June 9, 2022; 89 FR 46325, May 29, 2024]

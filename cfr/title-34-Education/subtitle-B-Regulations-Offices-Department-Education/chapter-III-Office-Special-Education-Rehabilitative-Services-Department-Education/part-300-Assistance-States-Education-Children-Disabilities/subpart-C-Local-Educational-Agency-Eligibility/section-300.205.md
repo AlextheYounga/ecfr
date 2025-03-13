@@ -8,4 +8,4 @@
 
 (d) *Special rule.* The amount of funds expended by an LEA for early intervening services under § 300.226 shall count toward the maximum amount of expenditures that the LEA may reduce under paragraph (a) of this section.
 
-(Approved by the Office of Management and Budget under control number 1820-0600)(Authority: 20 U.S.C. 1413(a)(2)(C))[71 FR 46753, Aug. 14, 2006, as amended at 80 FR 23667, Apr. 28, 2015]
+(Approved by the Office of Management and Budget under control number 1820-0600)(Authority: 20 U.S.C. 1413(a)(2)(C)) [71 FR 46753, Aug. 14, 2006, as amended at 80 FR 23667, Apr. 28, 2015]

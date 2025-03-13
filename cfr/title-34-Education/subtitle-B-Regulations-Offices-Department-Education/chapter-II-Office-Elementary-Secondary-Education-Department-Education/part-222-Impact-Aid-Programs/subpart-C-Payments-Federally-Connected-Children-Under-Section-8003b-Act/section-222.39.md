@@ -68,4 +68,4 @@ a. The SEA identifies the following groups:
 
 b. On the basis of § 222.41, the SEA computes the LCR for each group of generally comparable LEAs that the SEA has identified.
 
-(Approved by the Office of Management and Budget under control number 1810-0036)(Authority: 20 U.S.C. 7703(b)(1)(C)(iii))[60 FR 50778, Sept. 29, 1995, as amended at 80 FR 33163, June 11, 2015]
+(Approved by the Office of Management and Budget under control number 1810-0036)(Authority: 20 U.S.C. 7703(b)(1)(C)(iii)) [60 FR 50778, Sept. 29, 1995, as amended at 80 FR 33163, June 11, 2015]

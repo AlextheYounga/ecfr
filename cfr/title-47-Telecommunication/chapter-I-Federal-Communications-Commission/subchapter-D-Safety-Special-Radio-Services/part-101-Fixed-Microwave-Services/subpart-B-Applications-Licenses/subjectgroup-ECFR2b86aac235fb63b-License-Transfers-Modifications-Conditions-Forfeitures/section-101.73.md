@@ -6,7 +6,7 @@
 
 (1) Whether the ET licensee has made a *bona fide* offer to relocate the FMS licensee to comparable facilities in accordance with Section 101.75(b);
 
-(2) If the FMS licensee has demanded a premium, the type of premium requested (*e.g.,* whether the premium is directly related to relocation, such as system-wide relocations and analog-to-digital conversions, versus other types of premiums), and whether the value of the premium as compared to the cost of providing comparable facilities is disproportionate (*i.e.,* whether there is a lack of proportion or relation between the two);
+(2) If the FMS licensee has demanded a premium, the type of premium requested (e.g., whether the premium is directly related to relocation, such as system-wide relocations and analog-to-digital conversions, versus other types of premiums), and whether the value of the premium as compared to the cost of providing comparable facilities is disproportionate (*i.e.,* whether there is a lack of proportion or relation between the two);
 
 (3) What steps the parties have taken to determine the actual cost of relocation to comparable facilities;
 
@@ -20,6 +20,6 @@
 
 (2) *Reliability.* System reliability is the degree to which information is transferred accurately within a system. Comparable facilities provide reliability equal to the overall reliability of the FMS system. For digital systems, reliability is measured by the percent of time the bit error rate (BER) exceeds a desired value, and for analog or digital voice transmission, it is measured by the percent of time that audio signal quality meets an established threshold. If an analog system is replaced with a digital system, only the resulting frequency response, harmonic distortion, signal-to-noise and its reliability will be considered in determining comparable reliability.
 
-(3) *Operating Costs.* Operating costs are the cost to operate and maintain the FMS system. ET licensees would compensate FMS licensees for any increased recurring costs associated with the replacement facilities (*e.g.*, additional rental payments, and increased utility fees) for five years after relocation. ET licensees could satisfy this obligation by making a lump-sum payment based on present value using current interest rates. Additionally, the maintenance costs to the FMS licensee would be equivalent to the 2 GHz system in order for the replacement system to be comparable.
+(3) *Operating Costs.* Operating costs are the cost to operate and maintain the FMS system. ET licensees would compensate FMS licensees for any increased recurring costs associated with the replacement facilities (e.g., additional rental payments, and increased utility fees) for five years after relocation. ET licensees could satisfy this obligation by making a lump-sum payment based on present value using current interest rates. Additionally, the maintenance costs to the FMS licensee would be equivalent to the 2 GHz system in order for the replacement system to be comparable.
 
 [61 FR 29694, June 12, 1996, as amended at 62 FR 12758, Mar. 18, 1997; 65 FR 48182, Aug. 7, 2000; 68 FR 3464, Jan. 24, 2003; 68 FR 68253, Dec. 8, 2003; 69 FR 62622, Oct. 27, 2004; 71 FR 29842, May 24, 2006; 78 FR 8272, Feb. 5, 2013; 78 FR 48621, Aug. 9, 2013]

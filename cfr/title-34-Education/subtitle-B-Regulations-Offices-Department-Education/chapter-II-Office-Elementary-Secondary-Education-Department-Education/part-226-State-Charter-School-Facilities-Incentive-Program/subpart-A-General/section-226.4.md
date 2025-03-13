@@ -6,7 +6,7 @@ Charter school
 
 (b) *Definitions in EDGAR.* The following terms used in this part are defined in 34 CFR 77.1:
 
-ApplicantApplicationAwardDepartmentEDGARFacilitiesGrantGranteeProjectPublicSecretary
+Applicant Application Award Department EDGAR Facilities Grant Grantee Project Public Secretary
 
 (c) *Other definition.* The following definition also applies to this part:
 
@@ -22,4 +22,4 @@ ApplicantApplicationAwardDepartmentEDGARFacilitiesGrantGranteeProjectPublicSecre
 
 (5) Inspections or supervision related to school facilities.
 
-(Authority: 20 U.S.C. 7221d(b); 7221i(1))[70 FR 15003, Mar. 24, 2005, as amended at 87 FR 3661, Jan. 25, 2022]
+(Authority: 20 U.S.C. 7221d(b); 7221i(1)) [70 FR 15003, Mar. 24, 2005, as amended at 87 FR 3661, Jan. 25, 2022]

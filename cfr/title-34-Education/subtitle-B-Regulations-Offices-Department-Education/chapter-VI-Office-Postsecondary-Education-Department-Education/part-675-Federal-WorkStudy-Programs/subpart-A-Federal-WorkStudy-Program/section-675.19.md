@@ -20,4 +20,4 @@
 
 (3) Each year an institution shall submit a Fiscal Operations Report plus other information the Secretary requires. The institution shall insure that the information reported is accurate and shall submit it on the form and at the time specified by the Secretary.
 
-(Approved by the Office of Management and Budget under control number 1845-0535)(Authority: 42 U.S.C. 2753 and 20 U.S.C. 1094 and 1232f)[52 FR 45770, Dec. 1, 1987, as amended at 53 FR 30183, Aug. 10, 1988; 53 FR 49147, Dec. 6, 1988; 59 FR 61419, Nov. 30, 1994; 59 FR 61722, Dec. 1, 1994; 60 FR 61815, Dec. 1, 1995; 61 FR 60492, Nov. 27, 1996; 62 FR 50848, Sept. 26, 1997; 65 FR 65676, Nov. 1, 2000]
+(Approved by the Office of Management and Budget under control number 1845-0535) (Authority: 42 U.S.C. 2753 and 20 U.S.C. 1094 and 1232f)[52 FR 45770, Dec. 1, 1987, as amended at 53 FR 30183, Aug. 10, 1988; 53 FR 49147, Dec. 6, 1988; 59 FR 61419, Nov. 30, 1994; 59 FR 61722, Dec. 1, 1994; 60 FR 61815, Dec. 1, 1995; 61 FR 60492, Nov. 27, 1996; 62 FR 50848, Sept. 26, 1997; 65 FR 65676, Nov. 1, 2000]

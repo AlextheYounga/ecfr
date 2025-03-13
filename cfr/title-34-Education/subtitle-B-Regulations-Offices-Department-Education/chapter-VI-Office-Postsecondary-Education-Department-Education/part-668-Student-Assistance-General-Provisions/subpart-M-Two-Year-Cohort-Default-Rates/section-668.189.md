@@ -62,4 +62,4 @@
 
 (5) You may not seek judicial review of our determination of a cohort default rate until we issue our decision on all pending requests for adjustments or appeals for that cohort default rate.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)(Authority: 20 U.S.C. 1082, 1085, 1094, 1099c)
+(Approved by the Office of Management and Budget under control number 1845-0022) (Authority: 20 U.S.C. 1082, 1085, 1094, 1099c)

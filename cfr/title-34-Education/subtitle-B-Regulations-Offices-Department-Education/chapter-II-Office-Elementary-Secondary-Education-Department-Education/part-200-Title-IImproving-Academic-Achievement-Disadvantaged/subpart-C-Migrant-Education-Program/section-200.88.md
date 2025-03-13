@@ -14,4 +14,4 @@
 
 (4) The grantee monitors program performance to ensure that these requirements are met.
 
-(Approved by the Office of Management and Budget under control number 1810-0662)[67 FR 71736, Dec. 2, 2002; 68 FR 19152, Apr. 18, 2003; 84 FR 31677, July 2, 2019]
+(Approved by the Office of Management and Budget under control number 1810-0662) [67 FR 71736, Dec. 2, 2002; 68 FR 19152, Apr. 18, 2003; 84 FR 31677, July 2, 2019]

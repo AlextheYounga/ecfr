@@ -10,4 +10,4 @@
 
 (c) Each institution shall retain responsibility for the proper disbursement of the Federal funds it contributes under an agreement with other eligible institutions.
 
-(Approved by the Office of Management and Budget under control number 1840-0535)(Authority: 42 U.S.C. 2756)[52 FR 45770, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 59 FR 61417, Nov. 30, 1994]
+(Approved by the Office of Management and Budget under control number 1840-0535) (Authority: 42 U.S.C. 2756)[52 FR 45770, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 59 FR 61417, Nov. 30, 1994]

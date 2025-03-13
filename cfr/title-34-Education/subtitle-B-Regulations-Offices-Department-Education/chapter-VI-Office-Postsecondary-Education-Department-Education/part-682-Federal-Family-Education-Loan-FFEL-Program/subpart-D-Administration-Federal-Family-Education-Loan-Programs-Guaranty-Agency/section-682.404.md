@@ -160,4 +160,4 @@
 
 (3) Ensure that due diligence will be exercised in the collection of loans.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1078, 1078-1, 1078-2, 1078-3, 1082)[57 FR 60323, Dec. 18, 1992, as amended at 58 FR 9119, Feb. 19, 1993; 59 FR 25746, May 17, 1994; 59 FR 61429, Nov. 30, 1994; 60 FR 31411, June 15, 1995; 61 FR 60486, Nov. 27, 1996; 64 FR 18980, Apr. 16, 1999; 64 FR 58628, Oct. 29, 1999; 71 FR 45707, Aug. 9, 2006; 72 FR 62006, Nov. 1, 2007; 78 FR 65815, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1845-0020) (Authority: 20 U.S.C. 1078, 1078-1, 1078-2, 1078-3, 1082)[57 FR 60323, Dec. 18, 1992, as amended at 58 FR 9119, Feb. 19, 1993; 59 FR 25746, May 17, 1994; 59 FR 61429, Nov. 30, 1994; 60 FR 31411, June 15, 1995; 61 FR 60486, Nov. 27, 1996; 64 FR 18980, Apr. 16, 1999; 64 FR 58628, Oct. 29, 1999; 71 FR 45707, Aug. 9, 2006; 72 FR 62006, Nov. 1, 2007; 78 FR 65815, Nov. 1, 2013]

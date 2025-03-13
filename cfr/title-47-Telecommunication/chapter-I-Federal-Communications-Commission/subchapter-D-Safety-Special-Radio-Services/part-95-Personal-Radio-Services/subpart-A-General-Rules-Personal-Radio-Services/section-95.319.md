@@ -2,7 +2,7 @@
 
 If the operator of a Personal Radio Services station becomes aware that the transmitting equipment is no longer functioning properly, he or she must stop making transmissions (except for emergency communications) using the malfunctioning transmitting equipment until it has been adjusted and/or repaired, as necessary, to restore proper operation.
 
-(a) *FCC request to discontinue operation.* If an FCC representative informs a Personal Radio Services station operator that the technical characteristics of his or her transmitted signals are not in compliance with the applicable rules (*e.g.,* regarding power, unwanted emissions, frequency accuracy), he or she must immediately stop making transmissions with the transmitter producing the non-compliant signals.
+(a) *FCC request to discontinue operation.* If an FCC representative informs a Personal Radio Services station operator that the technical characteristics of his or her transmitted signals are not in compliance with the applicable rules (e.g., regarding power, unwanted emissions, frequency accuracy), he or she must immediately stop making transmissions with the transmitter producing the non-compliant signals.
 
 (b) *Internal repairs.* Internal adjustments and repairs to Personal Radio Services transmitters must be performed by or under the supervision of an individual who is qualified to maintain and repair transmitters.
 

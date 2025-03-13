@@ -8,4 +8,4 @@
 
 (d) *Information to beneficiaries and participants.* Each recipient shall make available to participants, beneficiaries, and other interested persons such information regarding the provisions of this regulation and its applicability to the program for which the recipient receives Federal financial assistance, and make such information available to them in such manner, as the responsible Department official finds necessary to apprise such persons of the protections against discrimination assured them by the Act and this regulation.
 
-(Approved by the Office of Management and Budget under control number 1870-0500)(Authority: Sec. 601, 602, Civil Rights Act of 1964; 78 Stat. 252; 42 U.S.C. 2000d, 2000d-1)[45 FR 30918, May 9, 1980, as amended at 53 FR 49143, Dec. 6, 1988; 65 FR 68053, Nov. 13, 2000]
+(Approved by the Office of Management and Budget under control number 1870-0500)(Authority: Sec. 601, 602, Civil Rights Act of 1964; 78 Stat. 252; 42 U.S.C. 2000d, 2000d-1) [45 FR 30918, May 9, 1980, as amended at 53 FR 49143, Dec. 6, 1988; 65 FR 68053, Nov. 13, 2000]

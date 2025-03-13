@@ -50,7 +50,7 @@ The following terms and definitions apply only to the rules in this part.
 
 *Harmful interference.* Any transmission, radiation, or induction that endangers the functioning of a radionavigation service or of other safety services or seriously degrades, obstructs, or repeatedly interrupts a radiocommunication service operating in accordance with applicable laws, treaties, and regulations.
 
-*Individual.* A human being, *e.g.,* one man or one woman.
+*Individual.* A human being, e.g., one man or one woman.
 
 *Individual license.* An authorization to operate a Personal Radio Service station, granted by the FCC to a specific person.
 

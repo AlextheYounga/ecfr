@@ -58,4 +58,4 @@
 
 (v) The student is employed in community service activities and is performing civic education and participation activities in a project as defined in § 675.18(g)(4).
 
-(Authority: 20 U.S.C. 1068d and 1103d; 42 U.S.C. 2753)[52 FR 45770, Dec. 1, 1987, as amended at 59 FR 61417, 61419, Nov. 30, 1994; 61 FR 60396, Nov. 27, 1996; 62 FR 63439, Nov. 28, 1997; 63 FR 52855, Oct. 1, 1998; 64 FR 58294, Oct. 28, 1999; 66 FR 34039, June 26, 2001; 71 FR 45698, Aug. 9, 2006; 74 FR 55950, Oct. 29, 2009]
+(Authority: 20 U.S.C. 1068d and 1103d; 42 U.S.C. 2753) [52 FR 45770, Dec. 1, 1987, as amended at 59 FR 61417, 61419, Nov. 30, 1994; 61 FR 60396, Nov. 27, 1996; 62 FR 63439, Nov. 28, 1997; 63 FR 52855, Oct. 1, 1998; 64 FR 58294, Oct. 28, 1999; 66 FR 34039, June 26, 2001; 71 FR 45698, Aug. 9, 2006; 74 FR 55950, Oct. 29, 2009]

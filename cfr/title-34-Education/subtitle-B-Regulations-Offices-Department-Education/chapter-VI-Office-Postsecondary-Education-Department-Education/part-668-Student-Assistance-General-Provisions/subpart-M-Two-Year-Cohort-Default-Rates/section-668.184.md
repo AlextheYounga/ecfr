@@ -32,4 +32,4 @@
 
 (3) After the period described in paragraph (d)(2) of this section, your cohort default rates do not include borrowers from your former parent institution in the calculation under § 668.183.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)(Authority: 20 U.S.C. 1082, 1085, 1094, 1099c)[65 FR 65638, Nov. 1, 2000, as amended at 74 FR 55649, Oct. 28, 2009; 74 FR 55947, Oct. 29, 2009]
+(Approved by the Office of Management and Budget under control number 1845-0022) (Authority: 20 U.S.C. 1082, 1085, 1094, 1099c) [65 FR 65638, Nov. 1, 2000, as amended at 74 FR 55649, Oct. 28, 2009; 74 FR 55947, Oct. 29, 2009]

@@ -26,4 +26,4 @@
 
 (3) The Secretary waives the requirements in paragraph (d)(1) of this section if the applicant demonstrates that that the project director will be able to effectively administer more than three programs and that this arrangement would promote effective coordination between the program and other Federal TRIO programs (sections 402B through 402F of the HEA) and similar programs funded through other sources.
 
-(Approved by the Office of Management and Budget under control number 1840—NEW8)(Authority: 20 U.S.C. 1070a-11 and 1070a-16).[59 FR 2658, Jan. 18, 1994, as amended at 75 FR 65783, Oct. 26, 2010]
+(Approved by the Office of Management and Budget under control number 1840—NEW8) (Authority: 20 U.S.C. 1070a-11 and 1070a-16).[59 FR 2658, Jan. 18, 1994, as amended at 75 FR 65783, Oct. 26, 2010]

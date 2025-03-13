@@ -16,4 +16,4 @@ Except as otherwise specified in the Act, the SEA, subject to the Secretary's re
 
 (d) The SEA certifies the resulting figure for each group as the LCR for that group of generally comparable LEAs to be used by the Secretary under section 8003(b)(1)(C)(iii) in determining the LEA's maximum payment amount under section 8003.
 
-(Authority: 20 U.S.C. 7703(b)(1)(C)(iii))[60 FR 50778, Sept. 29, 1995, as amended at 80 FR 33165, June 11, 2015]
+(Authority: 20 U.S.C. 7703(b)(1)(C)(iii)) [60 FR 50778, Sept. 29, 1995, as amended at 80 FR 33165, June 11, 2015]

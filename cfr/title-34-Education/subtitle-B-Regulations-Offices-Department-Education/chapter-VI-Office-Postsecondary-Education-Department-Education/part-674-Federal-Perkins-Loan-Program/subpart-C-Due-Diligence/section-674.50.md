@@ -84,4 +84,4 @@
 
 (h) An institution shall consider a borrower whose loan has been assigned to the United States for collection to be in default on that loan for the purpose of eligibility for title IV financial assistance, until the borrower provides the institution confirmation from the Secretary that he or she has made satisfactory arrangements to repay the loan.
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority: 20 U.S.C. 424, 1087cc)[52 FR 45555, Nov. 30, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32347, July 21, 1992; 57 FR 60707, Dec. 21, 1992; 59 FR 61412, Nov. 30, 1994; 64 FR 58315, Oct. 28, 1999; 65 FR 65614, Nov. 1, 2000; 67 FR 67077, Nov. 1, 2002; 72 FR 61997, Nov. 1, 2007; 78 FR 65805, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1845-0019) (Authority: 20 U.S.C. 424, 1087cc)[52 FR 45555, Nov. 30, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32347, July 21, 1992; 57 FR 60707, Dec. 21, 1992; 59 FR 61412, Nov. 30, 1994; 64 FR 58315, Oct. 28, 1999; 65 FR 65614, Nov. 1, 2000; 67 FR 67077, Nov. 1, 2002; 72 FR 61997, Nov. 1, 2007; 78 FR 65805, Nov. 1, 2013]

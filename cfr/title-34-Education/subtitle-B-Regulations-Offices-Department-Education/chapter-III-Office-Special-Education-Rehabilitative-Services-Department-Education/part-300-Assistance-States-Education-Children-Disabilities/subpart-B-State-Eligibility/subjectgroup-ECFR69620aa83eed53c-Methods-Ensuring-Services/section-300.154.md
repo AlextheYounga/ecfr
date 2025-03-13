@@ -76,4 +76,4 @@
 
 (h) *Construction.* Nothing in this part should be construed to alter the requirements imposed on a State Medicaid agency, or any other agency administering a public benefits or insurance program by Federal statute, regulations or policy under title XIX, or title XXI of the Social Security Act, 42 U.S.C. 1396 through 1396v and 42 U.S.C. 1397aa through 1397jj, or any other public benefits or insurance program.
 
-(Approved by the Office of Management and Budget under control number 1820-0030)(Authority: 20 U.S.C. 1412(a)(12) and (e))[71 FR 46753, Aug. 14, 2006, as amended at 78 FR 10537, Feb. 14, 2013; 79 FR 76096, Dec. 19, 2014; 82 FR 29759, June 30, 2017]
+(Approved by the Office of Management and Budget under control number 1820-0030)(Authority: 20 U.S.C. 1412(a)(12) and (e)) [71 FR 46753, Aug. 14, 2006, as amended at 78 FR 10537, Feb. 14, 2013; 79 FR 76096, Dec. 19, 2014; 82 FR 29759, June 30, 2017]

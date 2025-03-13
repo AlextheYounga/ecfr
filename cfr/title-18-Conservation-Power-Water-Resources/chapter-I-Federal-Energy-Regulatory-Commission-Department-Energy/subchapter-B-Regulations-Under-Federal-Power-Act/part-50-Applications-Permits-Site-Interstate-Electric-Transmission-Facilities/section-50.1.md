@@ -1,5 +1,7 @@
 ##### § 50.1 Definitions. #####
 
+Link to an amendment published at 89 FR 46730, May 29, 2024.
+
 As used in this part:
 
 *Affected landowners* include owners of property interests, as noted in the most recent county/city tax records as receiving the tax notice, whose property:

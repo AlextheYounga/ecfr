@@ -62,4 +62,4 @@
 
 (4) If a borrower does not qualify for a discharge, the Secretary notifies the borrower in writing of the reasons for the determination. The Secretary resumes collection and grants forbearance of principal and interest for the period in which collection activity was suspended. The Secretary may capitalize any interest accrued and not paid during that period.
 
-(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1087a *et seq.*)[64 FR 58969, Nov. 1, 1999. Redesignated and amended at 65 FR 65629, Nov. 1, 2000; 66 FR 34765, June 29, 2001; 78 FR 65835, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1845-0021) (Authority: 20 U.S.C. 1087a *et seq.*)[64 FR 58969, Nov. 1, 1999. Redesignated and amended at 65 FR 65629, Nov. 1, 2000; 66 FR 34765, June 29, 2001; 78 FR 65835, Nov. 1, 2013]

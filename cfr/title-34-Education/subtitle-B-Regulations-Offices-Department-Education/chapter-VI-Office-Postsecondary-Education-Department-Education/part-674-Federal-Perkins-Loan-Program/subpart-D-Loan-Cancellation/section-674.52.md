@@ -36,4 +36,4 @@
 
 (2) The borrower switches to a position that qualifies the borrower for cancellation under a different cancellation category under §§ 674.58 or 674.60, the borrower's cancellation rate progression under the new cancellation category begins at the year one cancellation rates specified in §§ 674.58(b) or 674.60(b), respectively.
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority: 20 U.S.C. 425, 1087ee)[52 FR 45758, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 59 FR 61413, Nov. 30, 1994; 62 FR 50848, Sept. 26, 1997; 64 FR 58313, Oct. 28, 1999; 72 FR 55053, Sept. 28, 2007; 78 FR 65805, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1845-0019) (Authority: 20 U.S.C. 425, 1087ee)[52 FR 45758, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 59 FR 61413, Nov. 30, 1994; 62 FR 50848, Sept. 26, 1997; 64 FR 58313, Oct. 28, 1999; 72 FR 55053, Sept. 28, 2007; 78 FR 65805, Nov. 1, 2013]

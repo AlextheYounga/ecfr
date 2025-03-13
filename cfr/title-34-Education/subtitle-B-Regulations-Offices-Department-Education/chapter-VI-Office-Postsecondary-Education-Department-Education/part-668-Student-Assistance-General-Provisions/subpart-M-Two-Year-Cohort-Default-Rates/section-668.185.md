@@ -40,4 +40,4 @@
 
 (5) If we determine that you qualify for continued eligibility based on your participation rate index challenge, you will not lose eligibility under § 668.187 when your next official cohort default rate is published. A successful challenge that is based on your draft cohort default rate does not excuse you from any other loss of eligibility. However, if your successful challenge of a loss of eligibility under paragraph (c)(1)(ii) of this section is based on a prior, official cohort default rate, and not on your draft cohort default rate, we also excuse you from any subsequent loss of eligibility, under § 668.187(a)(2), that would be based on that official cohort default rate.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)(Authority: 20 U.S.C. 1082, 1085, 1094, 1099c)[65 FR 65638, Nov. 1, 2000, as amended at 74 FR 55649, Oct. 28, 2009]
+(Approved by the Office of Management and Budget under control number 1845-0022) (Authority: 20 U.S.C. 1082, 1085, 1094, 1099c) [65 FR 65638, Nov. 1, 2000, as amended at 74 FR 55649, Oct. 28, 2009]

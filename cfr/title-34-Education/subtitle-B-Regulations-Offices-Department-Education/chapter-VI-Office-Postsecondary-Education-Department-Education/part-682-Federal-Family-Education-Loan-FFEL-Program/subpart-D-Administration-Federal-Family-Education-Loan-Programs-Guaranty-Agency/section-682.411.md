@@ -116,4 +116,4 @@
 
 (2) Do not preempt provisions of the Fair Credit Reporting Act that provide relief to a borrower while the lender determines the legal enforceability of a loan when the lender receives a valid identity theft report or notification from a consumer reporting agency that information furnished is a result of an alleged identity theft as defined in § 682.402(e)(14).
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1078, 1078-1, 1078-2, 1078-3, 1080a, 1082, 1087)[64 FR 58630, Oct. 29, 1999, as amended at 64 FR 58965, Nov. 1, 1999; 72 FR 62006, Nov. 1, 2007; 73 FR 63254, Oct. 23, 2008; 78 FR 65820, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1845-0020) (Authority: 20 U.S.C. 1078, 1078-1, 1078-2, 1078-3, 1080a, 1082, 1087)[64 FR 58630, Oct. 29, 1999, as amended at 64 FR 58965, Nov. 1, 1999; 72 FR 62006, Nov. 1, 2007; 73 FR 63254, Oct. 23, 2008; 78 FR 65820, Nov. 1, 2013]

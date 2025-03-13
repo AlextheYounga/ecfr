@@ -18,4 +18,4 @@
 
 (ii) Ensuring that the project is carried out by the group in accordance with Federal requirements.
 
-(Approved by the Office of Management and Budget under control number 1840-0114)(Authority: 20 U.S.C. 1066 and 1069)[52 FR 30529, Aug. 14, 1987, as amended at 59 FR 41924, Aug. 15, 1994. Redesignated at 85 FR 59981, Sept 23, 2020]
+(Approved by the Office of Management and Budget under control number 1840-0114) (Authority: 20 U.S.C. 1066 and 1069)[52 FR 30529, Aug. 14, 1987, as amended at 59 FR 41924, Aug. 15, 1994. Redesignated at 85 FR 59981, Sept 23, 2020]

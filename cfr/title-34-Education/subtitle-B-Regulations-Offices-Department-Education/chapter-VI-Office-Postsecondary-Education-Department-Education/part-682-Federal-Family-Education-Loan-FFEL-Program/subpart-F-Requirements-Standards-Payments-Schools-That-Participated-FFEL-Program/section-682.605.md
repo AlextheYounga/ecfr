@@ -6,4 +6,4 @@
 
 (c) For the purpose of a school's reporting to a lender and the Secretary, a student's withdrawal date is the month, day and year of the withdrawal date.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)[60 FR 61757, Dec. 1, 1995, as amended at 64 FR 58965, 59043, Nov. 1, 1999; 78 FR 65822, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1845-0020) [60 FR 61757, Dec. 1, 1995, as amended at 64 FR 58965, 59043, Nov. 1, 1999; 78 FR 65822, Nov. 1, 2013]

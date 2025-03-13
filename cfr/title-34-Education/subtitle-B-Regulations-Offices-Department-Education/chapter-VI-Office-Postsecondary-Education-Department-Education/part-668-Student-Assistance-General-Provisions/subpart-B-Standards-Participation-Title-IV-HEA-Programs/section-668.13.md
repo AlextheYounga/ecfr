@@ -96,4 +96,4 @@ Link to an amendment published at 88 FR 74695, Oct. 31, 2023.
 
 (5) The mailing date of a notice of revocation or a request for reconsideration of a revocation is the date evidenced on the original receipt of mailing from the U.S. Postal Service or another service that provides delivery confirmation for that document.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)[59 FR 22424, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 60 FR 34431, June 30, 1995; 62 FR 62876, Nov. 25, 1997; 63 FR 40623, July 29, 1998; 64 FR 58617, Oct. 29, 1999; 65 FR 65675, Nov. 1, 2000; 74 FR 55934, Oct. 29, 2009; 75 FR 67198, Nov. 1, 2010; 85 FR 54816, Sept. 2, 2020; 87 FR 63692, Oct. 20, 2022]
+(Approved by the Office of Management and Budget under control number 1845-0022) [59 FR 22424, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 60 FR 34431, June 30, 1995; 62 FR 62876, Nov. 25, 1997; 63 FR 40623, July 29, 1998; 64 FR 58617, Oct. 29, 1999; 65 FR 65675, Nov. 1, 2000; 74 FR 55934, Oct. 29, 2009; 75 FR 67198, Nov. 1, 2010; 85 FR 54816, Sept. 2, 2020; 87 FR 63692, Oct. 20, 2022]

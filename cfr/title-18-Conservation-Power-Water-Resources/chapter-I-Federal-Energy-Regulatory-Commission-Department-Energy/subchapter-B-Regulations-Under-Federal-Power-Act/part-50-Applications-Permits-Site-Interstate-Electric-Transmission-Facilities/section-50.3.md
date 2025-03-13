@@ -1,5 +1,7 @@
 ##### § 50.3 Applications/pre-filing; rules and format. #####
 
+Link to an amendment published at 89 FR 46730, May 29, 2024.
+
 (a) Filings are subject to the formal paper and electronic filing requirements for proceedings before the Commission as provided in part 385 of this chapter.
 
 (b) Applications, amendments, and all exhibits and other submissions required to be furnished by an applicant to the Commission under this part must be submitted in an original and 7 conformed copies.

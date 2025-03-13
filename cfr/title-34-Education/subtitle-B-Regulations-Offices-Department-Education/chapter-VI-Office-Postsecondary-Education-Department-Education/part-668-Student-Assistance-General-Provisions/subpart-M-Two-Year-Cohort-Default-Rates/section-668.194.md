@@ -78,4 +78,4 @@
 
 (ii) Are not contradicted or otherwise proven to be incorrect by information we maintain, to an extent that would render the independent auditor's opinion unacceptable.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)(Authority: 20 U.S.C. 1082, 1085, 1094, 1099c)
+(Approved by the Office of Management and Budget under control number 1845-0022) (Authority: 20 U.S.C. 1082, 1085, 1094, 1099c)

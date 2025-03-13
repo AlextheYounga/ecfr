@@ -48,4 +48,4 @@
 
 (d) *Notice in understandable language.* The notice required under paragraph (a) of this section must meet the requirements of § 300.503(c).
 
-(Approved by the Office of Management and Budget under control number 1820-0600)(Authority: 20 U.S.C. 1415(d))[71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61307, Oct. 30, 2007]
+(Approved by the Office of Management and Budget under control number 1820-0600)(Authority: 20 U.S.C. 1415(d)) [71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61307, Oct. 30, 2007]

@@ -40,4 +40,4 @@
 
 (ii) If the Secretary approves the request, the approval terminates when the institution's program participation agreement expires. The institution may request an extension of that approval as part of the recertification process.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)[67 FR 67071, Nov. 1, 2002, as amended at 71 FR 45693, Aug. 9, 2006; 85 FR 54814, Sept. 2, 2020]
+(Approved by the Office of Management and Budget under control number 1845-0022) [67 FR 67071, Nov. 1, 2002, as amended at 71 FR 45693, Aug. 9, 2006; 85 FR 54814, Sept. 2, 2020]

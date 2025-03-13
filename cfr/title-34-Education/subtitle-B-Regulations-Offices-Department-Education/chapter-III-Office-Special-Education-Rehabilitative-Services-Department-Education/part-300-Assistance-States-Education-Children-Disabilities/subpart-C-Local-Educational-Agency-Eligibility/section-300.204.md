@@ -18,4 +18,4 @@ Notwithstanding the restriction in § 300.203(b), an LEA may reduce the level of
 
 (e) The assumption of cost by the high cost fund operated by the SEA under § 300.704(c).
 
-(Approved by the Office of Management and Budget under control number 1820-0600)(Authority: 20 U.S.C. 1413(a)(2)(B))[71 FR 46753, Aug. 14, 2006, as amended at 80 FR 23667, Apr. 28, 2015]
+(Approved by the Office of Management and Budget under control number 1820-0600)(Authority: 20 U.S.C. 1413(a)(2)(B)) [71 FR 46753, Aug. 14, 2006, as amended at 80 FR 23667, Apr. 28, 2015]

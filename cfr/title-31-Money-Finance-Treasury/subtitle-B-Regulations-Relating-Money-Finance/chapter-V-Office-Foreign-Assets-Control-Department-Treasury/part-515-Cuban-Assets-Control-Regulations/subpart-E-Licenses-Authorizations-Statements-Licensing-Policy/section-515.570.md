@@ -40,7 +40,7 @@
 
 (2) To support the Cuban people through activities of recognized human rights organizations, independent organizations designed to promote a rapid, peaceful transition to democracy, and activities of individuals and non-governmental organizations that promote independent activity intended to strengthen civil society in Cuba; and
 
-(3) To support the development of private businesses, and operation of economic activity in the non-state sector by self-employed individuals, as defined in § 515.340.
+(3) To support the development of private businesses in Cuba, including farms of up to 100 employees, and operation of economic activity in the non-state sector of Cuba by independent private sector entrepreneurs, as defined in § 515.340.
 
 (h) *Unblocking of certain previously blocked remittances authorized.* Banking institutions, as defined in § 515.314, are authorized to engage in all transactions necessary to unblock and return remittances if they would have qualified as authorized had they been sent under current paragraph (a) or (b) of this section, provided that persons subject to U.S. jurisdiction unblocking remittances originally blocked on or after August 25, 1997 pursuant to this section must submit a report to the Department of the Treasury, Office of Foreign Assets Control, Attn: Sanctions Compliance & Evaluation Division, 1500 Pennsylvania Avenue NW, Freedman's Bank Building, Washington, DC 20220 within 10 business days from the date such remittances are released. Such reports shall include the following:
 
@@ -72,4 +72,4 @@ Note 2 to § 515.570:
 
 For the rules relating to the carrying of remittances to Cuba, see § 515.560(c)(4). See § 515.572 for an authorization related to the collection, forwarding, or receipt of certain remittances to or from Cuba.
 
-[76 FR 5076, Jan. 28, 2011, as amended at 80 FR 2298, Jan. 16, 2015; 80 FR 56923, Sept. 21, 2015; 81 FR 71377, Oct. 17, 2016; 84 FR 47122, Sept. 9, 2019; 85 FR 60072, Sept. 24, 2020; 85 FR 67989, Oct. 27, 2020; 87 FR 35091, June 9, 2022]
+[76 FR 5076, Jan. 28, 2011, as amended at 80 FR 2298, Jan. 16, 2015; 80 FR 56923, Sept. 21, 2015; 81 FR 71377, Oct. 17, 2016; 84 FR 47122, Sept. 9, 2019; 85 FR 60072, Sept. 24, 2020; 85 FR 67989, Oct. 27, 2020; 87 FR 35091, June 9, 2022; 89 FR 46325, May 29, 2024]

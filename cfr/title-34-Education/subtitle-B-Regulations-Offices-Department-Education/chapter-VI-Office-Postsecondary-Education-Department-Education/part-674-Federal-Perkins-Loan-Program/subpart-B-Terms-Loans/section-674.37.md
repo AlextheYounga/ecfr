@@ -32,4 +32,4 @@
 
 (f) The institution may permit the borrower to defer payment of principal and interest, but interest shall continue to accrue, on a Defense loan for a total of 3 years after the commencement or resumption of the repayment period on a loan, during which he or she is attending an institution of higher education as a less-than-half-time regular student.
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority: 20 U.S.C. 425, 1087dd)[52 FR 45754, Dec. 1, 1987, as amended at 57 FR 32345, July 21, 1992; 59 FR 1652, Jan. 12, 1994. Redesignated at 59 FR 61410, Nov. 30, 1994, as amended at 62 FR 50848, Sept. 26, 1997; 64 FR 58315, Oct. 28, 1999]
+(Approved by the Office of Management and Budget under control number 1845-0019) (Authority: 20 U.S.C. 425, 1087dd)[52 FR 45754, Dec. 1, 1987, as amended at 57 FR 32345, July 21, 1992; 59 FR 1652, Jan. 12, 1994. Redesignated at 59 FR 61410, Nov. 30, 1994, as amended at 62 FR 50848, Sept. 26, 1997; 64 FR 58315, Oct. 28, 1999]

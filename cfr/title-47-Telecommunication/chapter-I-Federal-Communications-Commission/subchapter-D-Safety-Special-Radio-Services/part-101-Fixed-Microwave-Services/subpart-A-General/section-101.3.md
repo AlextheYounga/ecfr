@@ -210,6 +210,6 @@ The percentage of the total power outside the occupied bandwidth is represented 
 
 *User or subscriber station.* The station(s) in a microwave radio system operating at the users' premises on point-to-multipoint or multipoint-to-multipoint frequencies and communicating with one or more nodal stations.
 
-*Video entertainment material.* The transmission of a video signal (*e.g.* United States Standard Monochrome or National Television Systems Committee 525-line television) and an associated audio signal which is designed primarily to amuse or entertain, such as movies and games.
+*Video entertainment material.* The transmission of a video signal (e.g., United States Standard Monochrome or National Television Systems Committee 525-line television) and an associated audio signal which is designed primarily to amuse or entertain, such as movies and games.
 
 [61 FR 26677, May 28, 1996, as amended at 61 FR 29693, June 12, 1996; 61 FR 31052, June 19, 1996; 61 FR 44181, Aug. 28, 1996; 62 FR 23163, Apr. 29, 1997; 63 FR 68981, Dec. 14, 1998; 65 FR 17448, Apr. 3, 2000; 65 FR 38326, June 20, 2000; 65 FR 59357, Oct. 5, 2000; 67 FR 43037, June 26, 2002; 68 FR 4955, Jan. 31, 2003; 77 FR 54432, Sept. 5, 2012; 85 FR 22889, Apr. 23, 2020]

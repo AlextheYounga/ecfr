@@ -1,5 +1,7 @@
 ##### § 380.16 Environmental reports for section 216 Federal Power Act Permits. #####
 
+Link to an amendment published at 89 FR 46734, May 29, 2024.
+
 (a) *Introduction.* (1) The applicant must submit an environmental report with any application that proposes the construction or modification of any facility identified in § 380.3(c)(3). The environmental report must include the 11 resource reports and related material described in this section.
 
 (2) The detail of each resource report must be commensurate with the complexity of the proposal and its potential for environmental impact. Each topic in each resource report must be addressed or its omission justified, unless the data is not required for that type of proposal. If material required for one resource report is provided in another resource report or in another exhibit, it may be cross referenced. If any resource report topic is required for a particular project but is not provided at the time the application is filed, the environmental report must explain why it is missing and when the applicant anticipates it will be filed.

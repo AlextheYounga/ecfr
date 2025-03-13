@@ -4,9 +4,9 @@
 
 *Medical Body Area Network (MBAN).* An MBAN is a low power network consisting of a MedRadio programmer/control transmitter and one or more medical body-worn devices all of which transmit or receive non-voice data or related device control commands for the purpose of measuring and recording physiological parameters and other patient information or performing diagnostic or therapeutic functions via radiated bi-directional or uni-directional electromagnetic signals
 
-*Medical body-worn device.* Apparatus that is placed on or in close proximity to the human body (*e.g.,* within a few centimeters) for the purpose of performing diagnostic or therapeutic functions.
+*Medical body-worn device.* Apparatus that is placed on or in close proximity to the human body (e.g., within a few centimeters) for the purpose of performing diagnostic or therapeutic functions.
 
-*Medical body-worn transmitter.* A MedRadio transmitter intended to be placed on or in close proximity to the human body (*e.g.,* within a few centimeters) used to facilitate communications with other medical communications devices for purposes of delivering medical therapy to a patient or collecting medical diagnostic information from a patient.
+*Medical body-worn transmitter.* A MedRadio transmitter intended to be placed on or in close proximity to the human body (e.g., within a few centimeters) used to facilitate communications with other medical communications devices for purposes of delivering medical therapy to a patient or collecting medical diagnostic information from a patient.
 
 *Medical Device Radio Communications (MedRadio) Service.* An ultra-low power radio service for the transmission of non-voice data for the purpose of facilitating diagnostic and/or therapeutic functions involving implanted and body-worn medical devices.
 

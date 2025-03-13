@@ -372,4 +372,4 @@
 
 (9) A student in a program offered in modules is scheduled to complete the days in a module if the student's coursework in that module was used to determine the amount of the student's eligibility for title IV, HEA funds for the payment period or period of enrollment.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)[64 FR 59038, Nov. 1, 1999, as amended at 67 FR 67073, Nov. 1, 2002; 71 FR 45694, Aug. 9, 2006; 71 FR 64397, Nov. 1, 2006; 72 FR 62027, Nov. 1, 2007; 73 FR 35493, June 23, 2008; 75 FR 66951, Oct. 29, 2010; 85 FR 54816, Sept. 2, 2020]
+(Approved by the Office of Management and Budget under control number 1845-0022) [64 FR 59038, Nov. 1, 1999, as amended at 67 FR 67073, Nov. 1, 2002; 71 FR 45694, Aug. 9, 2006; 71 FR 64397, Nov. 1, 2006; 72 FR 62027, Nov. 1, 2007; 73 FR 35493, June 23, 2008; 75 FR 66951, Oct. 29, 2010; 85 FR 54816, Sept. 2, 2020]

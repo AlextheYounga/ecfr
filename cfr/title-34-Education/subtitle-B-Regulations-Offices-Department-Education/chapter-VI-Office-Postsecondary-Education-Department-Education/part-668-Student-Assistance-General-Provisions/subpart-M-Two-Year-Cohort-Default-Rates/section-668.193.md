@@ -74,4 +74,4 @@
 
 (2) Based on our determination, we use a statistically valid methodology to exclude the corresponding percentage of borrowers from both the numerator and denominator of the calculation of your cohort default rate, and electronically correct the rate that is publicly released.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)(Authority: 20 U.S.C. 1082, 1085, 1094, 1099c)[65 FR 65638, Nov. 1, 2000, as amended at 67 FR 67075, Nov. 1, 2002; 74 FR 55651, Oct. 28, 2009]
+(Approved by the Office of Management and Budget under control number 1845-0022) (Authority: 20 U.S.C. 1082, 1085, 1094, 1099c)[65 FR 65638, Nov. 1, 2000, as amended at 67 FR 67075, Nov. 1, 2002; 74 FR 55651, Oct. 28, 2009]

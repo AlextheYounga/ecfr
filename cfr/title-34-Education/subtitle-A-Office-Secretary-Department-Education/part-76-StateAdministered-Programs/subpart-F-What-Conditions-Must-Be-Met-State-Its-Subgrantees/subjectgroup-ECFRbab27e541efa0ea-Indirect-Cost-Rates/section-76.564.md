@@ -14,4 +14,4 @@ Restricted indirect cost rate = (General management costs + Fixed costs) ÷ (Oth
 
 (d) Indirect costs that are unrecovered as a result of these restrictions may not be charged directly, used to satisfy matching or cost-sharing requirements, or charged to another Federal award.
 
-(Authority: 20 U.S.C. 1221e-3(a)(1), 2831(a), 2974(b), and 3474)[59 FR 59583, Nov. 17, 1994, as amended at 79 FR 76094, Dec. 19, 2014]
+(Authority: 20 U.S.C. 1221e-3(a)(1), 2831(a), 2974(b), and 3474) [59 FR 59583, Nov. 17, 1994, as amended at 79 FR 76094, Dec. 19, 2014]

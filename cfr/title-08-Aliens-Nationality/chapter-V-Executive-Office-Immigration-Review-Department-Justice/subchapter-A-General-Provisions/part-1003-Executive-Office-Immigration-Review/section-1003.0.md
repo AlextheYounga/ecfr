@@ -1,5 +1,7 @@
 ##### § 1003.0 Executive Office for Immigration Review. #####
 
+Link to an amendment published at 89 FR 46787, May 29, 2024.
+
 (a) *Organization.* Within the Department of Justice, there shall be an Executive Office for Immigration Review (EOIR), headed by a Director who is appointed by the Attorney General. The Director shall be assisted by a Deputy Director and the heads of EOIR's other components, who shall report to the Director and Deputy Director. EOIR shall include the Board of Immigration Appeals, the Office of the Chief Immigration Judge, the Office of the Chief Administrative Hearing Officer, the Office of Policy, the Office of the General Counsel, and such other components and staff as the Attorney General or the Director may provide.
 
 (b) *Powers of the Director*—(1) *In general.* The Director shall manage EOIR and its employees and shall be responsible for the direction and supervision of each EOIR component in the execution of its respective duties pursuant to the Act and the provisions of this chapter. Unless otherwise provided by the Attorney General, the Director shall report to the Deputy Attorney General and the Attorney General. The Director shall have the authority to:

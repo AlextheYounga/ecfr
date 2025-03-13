@@ -18,4 +18,4 @@
 
 (iii) The SEA may provide funds to the charter school LEA from the SEA's allocation under the applicable covered program for the academic year in which the charter school LEA opened or significantly expanded its enrollment, or from the SEA's allocation under the program for the succeeding academic year.
 
-(Approved by the Office of Management and Budget under control number 1810-0623)(Authority: 20 U.S.C. 8065a)
+(Approved by the Office of Management and Budget under control number 1810-0623) (Authority: 20 U.S.C. 8065a)

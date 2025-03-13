@@ -38,4 +38,4 @@ In addition to the terms defined in § 222.2, the following definition applies t
 
 (ii) By another educational entity, over which the applicant LEA, or other public agency, exercises authority with respect to the significant aspects of the educational program for the children claimed. The Secretary considers significant aspects of the educational program to include administrative decisions relating to teachers, instruction, and curriculum.
 
-(Authority: 20 U.S.C. 7703, 7709, 7713(6))[60 FR 50778, Sept. 29, 1995, as amended at 81 FR 64741, Sept. 20, 2016]
+(Authority: 20 U.S.C. 7703, 7709, 7713(6)) [60 FR 50778, Sept. 29, 1995, as amended at 81 FR 64741, Sept. 20, 2016]

@@ -16,4 +16,4 @@
 
 (4) A description of methods, processes, and procedures that will be used by the college or university to institutionalize financial management and academic program practices and improvements developed under the proposed funded activities.
 
-(Approved by the Office of Management and Budget under control number 1840-0113)(Authority: 20 U.S.C. 1063a)
+(Approved by the Office of Management and Budget under control number 1840-0113) (Authority: 20 U.S.C. 1063a)

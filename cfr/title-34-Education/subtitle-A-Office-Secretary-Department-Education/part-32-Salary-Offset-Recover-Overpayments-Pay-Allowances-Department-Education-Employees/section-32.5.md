@@ -32,4 +32,4 @@
 
 (e) Formal discovery between the parties is not provided.
 
-(Authority: 5 U.S.C. 5514; 31 U.S.C. 3716)[52 FR 24957, July 1, 1987, as amended at 86 FR 40335, July 28, 2021]
+(Authority: 5 U.S.C. 5514; 31 U.S.C. 3716) [52 FR 24957, July 1, 1987, as amended at 86 FR 40335, July 28, 2021]

@@ -28,4 +28,4 @@ A State may use the funds it receives under the SLEAP Program for one or more of
 
 (iv) Other fields determined by the State to be critical to the State's workforce needs.
 
-(Authority: 20 U.S.C. 1070c-3a)[66 FR 34039, June 26, 2001]
+(Authority: 20 U.S.C. 1070c-3a) [66 FR 34039, June 26, 2001]

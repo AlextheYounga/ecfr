@@ -12,4 +12,4 @@
 
 (c) If an institution determines at the beginning of a payment period that a student is not maintaining satisfactory progress, but reverses that determination after the end of the payment period, the institution may neither pay the student a Federal Pell Grant for that payment period nor make adjustments in subsequent Federal Pell Grant payments to compensate for the loss of aid for that period.
 
-(Approved by the Office of Management and Budget under control number 1845-0681)(Authority: 20 U.S.C. 1070a)[52 FR 45736, Dec. 1, 1987, as amended at 56 FR 56916, Nov. 6, 1991; 59 FR 54730, 54735, Nov. 1, 1994; 60 FR 30789, June 12, 1995; 61 FR 60397, Nov. 27, 1996; 61 FR 60610, Nov. 29, 1996; 65 FR 65676, Nov. 1, 2000; 67 FR 67083, Nov. 1, 2002; 85 FR 49828, Aug. 14, 2020]
+(Approved by the Office of Management and Budget under control number 1845-0681) (Authority: 20 U.S.C. 1070a)[52 FR 45736, Dec. 1, 1987, as amended at 56 FR 56916, Nov. 6, 1991; 59 FR 54730, 54735, Nov. 1, 1994; 60 FR 30789, June 12, 1995; 61 FR 60397, Nov. 27, 1996; 61 FR 60610, Nov. 29, 1996; 65 FR 65676, Nov. 1, 2000; 67 FR 67083, Nov. 1, 2002; 85 FR 49828, Aug. 14, 2020]

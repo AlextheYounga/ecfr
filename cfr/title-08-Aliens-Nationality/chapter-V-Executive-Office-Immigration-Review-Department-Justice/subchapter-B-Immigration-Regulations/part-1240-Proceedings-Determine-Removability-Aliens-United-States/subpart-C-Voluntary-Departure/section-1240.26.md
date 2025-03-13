@@ -1,5 +1,7 @@
 ##### § 1240.26 Voluntary departure—authority of the Executive Office for Immigration Review. #####
 
+Link to an amendment published at 89 FR 46795, May 29, 2024.
+
 (a) *Eligibility: general.* An alien previously granted voluntary departure under section 240B of the Act, including by DHS under § 240.25, and who fails to depart voluntarily within the time specified, shall thereafter be ineligible, for a period of ten years, for voluntary departure or for relief under sections 240A, 245, 248, and 249 of the Act.
 
 (b) *Prior to completion of removal proceedings*—(1) *Grant by the immigration judge.* (i) An alien may be granted voluntary departure by an immigration judge pursuant to section 240B(a) of the Act only if the alien:

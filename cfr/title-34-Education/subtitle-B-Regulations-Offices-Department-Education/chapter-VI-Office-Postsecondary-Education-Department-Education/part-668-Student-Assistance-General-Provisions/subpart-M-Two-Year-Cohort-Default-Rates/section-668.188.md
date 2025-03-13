@@ -32,4 +32,4 @@
 
 (3) If you are subject to a loss of eligibility under this section that has already been imposed against another institution, you may only request an adjustment or submit an appeal for the loss of eligibility under the same requirements that would be applicable to the other institution under § 668.189.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)(Authority: 20 U.S.C. 1082, 1085, 1094, 1099c)[65 FR 65638, Nov. 1, 2000, as amended at 74 FR 55650, Oct. 28, 2009; 84 FR 58933, Nov. 1, 2019]
+(Approved by the Office of Management and Budget under control number 1845-0022) (Authority: 20 U.S.C. 1082, 1085, 1094, 1099c) [65 FR 65638, Nov. 1, 2000, as amended at 74 FR 55650, Oct. 28, 2009; 84 FR 58933, Nov. 1, 2019]

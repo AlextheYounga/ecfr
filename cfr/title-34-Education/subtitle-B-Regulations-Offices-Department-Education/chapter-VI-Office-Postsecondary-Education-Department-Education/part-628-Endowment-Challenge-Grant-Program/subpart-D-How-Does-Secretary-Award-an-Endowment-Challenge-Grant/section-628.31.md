@@ -60,4 +60,4 @@ In evaluating an application for an endowment challenge grant, the Secretary use
 
 (ii) Excludes real estate from being considered as part of the applicant's existing endowment or quasi-endowment fund.
 
-(Approved by the Office of Management and Budget under control number 1840-0531)(Authority: 20 U.S.C. 1065)[49 FR 28521, July 12, 1984, as amended at 49 FR 37325, Sept. 21, 1984]
+(Approved by the Office of Management and Budget under control number 1840-0531) (Authority: 20 U.S.C. 1065)[49 FR 28521, July 12, 1984, as amended at 49 FR 37325, Sept. 21, 1984]

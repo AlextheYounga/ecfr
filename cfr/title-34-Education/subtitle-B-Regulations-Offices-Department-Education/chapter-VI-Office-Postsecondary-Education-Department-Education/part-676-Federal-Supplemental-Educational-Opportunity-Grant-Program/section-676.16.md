@@ -22,4 +22,4 @@ FSEOG———— Nwhere:FSEOG = the total FSEOG awarded for an academic year an
 
 (e) A correspondence student shall submit his or her first completed lesson before receiving an FSEOG payment.
 
-(Approved by the Office of Management and Budget under control number 1840-0535)(Authority: 20 U.S.C. 1070b. 1091)[52 FR 45778, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32357, July 21, 1992; 59 FR 61420, 61421, Nov. 30, 1994; 59 FR 61722, Dec. 1, 1994; 61 FR 60396, Nov. 27, 1996; 61 FR 60608, Nov. 29, 1996; 71 FR 45698, Aug. 9, 2006; 72 FR 62030, Nov. 1, 2007]
+(Approved by the Office of Management and Budget under control number 1840-0535) (Authority: 20 U.S.C. 1070b. 1091)[52 FR 45778, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32357, July 21, 1992; 59 FR 61420, 61421, Nov. 30, 1994; 59 FR 61722, Dec. 1, 1994; 61 FR 60396, Nov. 27, 1996; 61 FR 60608, Nov. 29, 1996; 71 FR 45698, Aug. 9, 2006; 72 FR 62030, Nov. 1, 2007]

@@ -32,4 +32,4 @@ An LEA or consortium of LEAs may use funds received under this part for the foll
 
 (h) Activities to enable the LEA or consortium of LEAs to have flexibility in designing magnet schools for students in all grades.
 
-(Authority: 20 U.S.C. 7231f)[51 FR 20414, June 4, 1986, as amended at 54 FR 19509, May 5, 1989; 60 FR 14866, Mar. 20, 1995; 69 FR 4997, Feb. 2, 2004]
+(Authority: 20 U.S.C. 7231f) [51 FR 20414, June 4, 1986, as amended at 54 FR 19509, May 5, 1989; 60 FR 14866, Mar. 20, 1995; 69 FR 4997, Feb. 2, 2004]

@@ -22,4 +22,4 @@
 
 (3) Payments in Lieu of Taxes from the Department of Interior under 31 U.S.C. 6901 *et seq.*
 
-(Authority: 20 U.S.C. 7702(a)(2) and (b)(1)(A))[60 FR 50778, Sept. 29, 1995, as amended at 62 FR 35414, July 1, 1997; 80 FR 33162, June 11, 2015; 81 FR 64741, Sept. 20, 2016]
+(Authority: 20 U.S.C. 7702(a)(2) and (b)(1)(A)) [60 FR 50778, Sept. 29, 1995, as amended at 62 FR 35414, July 1, 1997; 80 FR 33162, June 11, 2015; 81 FR 64741, Sept. 20, 2016]

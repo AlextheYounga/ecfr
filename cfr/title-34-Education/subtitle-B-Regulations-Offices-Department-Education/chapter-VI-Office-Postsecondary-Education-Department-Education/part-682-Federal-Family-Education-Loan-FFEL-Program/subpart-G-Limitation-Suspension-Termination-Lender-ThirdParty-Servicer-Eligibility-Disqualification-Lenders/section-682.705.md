@@ -24,4 +24,4 @@
 
 (vi) Asks the lender or servicer to correct voluntarily any alleged violations.
 
-(Authority: 20 U.S.C. 1080, 1082, 1085, 1094)[59 FR 22457, Apr. 29, 1994, as amended at 60 FR 33058, June 26, 1995; 66 FR 34764, June 29, 2001; 68 FR 66615, Nov. 26, 2003; 72 FR 62009, Nov. 1, 2007; 78 FR 65822, Nov. 1, 2013]
+(Authority: 20 U.S.C. 1080, 1082, 1085, 1094) [59 FR 22457, Apr. 29, 1994, as amended at 60 FR 33058, June 26, 1995; 66 FR 34764, June 29, 2001; 68 FR 66615, Nov. 26, 2003; 72 FR 62009, Nov. 1, 2007; 78 FR 65822, Nov. 1, 2013]

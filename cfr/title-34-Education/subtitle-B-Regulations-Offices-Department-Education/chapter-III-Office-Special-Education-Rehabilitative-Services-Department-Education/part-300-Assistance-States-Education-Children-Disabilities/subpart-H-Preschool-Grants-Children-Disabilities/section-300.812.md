@@ -8,4 +8,4 @@
 
 (2) The rate of inflation, as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor.
 
-(Authority: 20 U.S.C. 1419(d))[71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61307, Oct. 30, 2007]
+(Authority: 20 U.S.C. 1419(d)) [71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61307, Oct. 30, 2007]

@@ -466,4 +466,4 @@
 
 (v) Promptly notifying the Secretary of the results of any actions taken by the agency to protect Federal funds involving such a school or holder.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.410, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Approved by the Office of Management and Budget under control number 1845-0020) [57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.410, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

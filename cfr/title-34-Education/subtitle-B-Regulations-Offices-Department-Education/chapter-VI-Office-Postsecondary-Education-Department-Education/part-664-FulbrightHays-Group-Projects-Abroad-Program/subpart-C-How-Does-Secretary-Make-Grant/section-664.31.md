@@ -58,4 +58,4 @@ The Secretary uses the criteria in this section to evaluate applications for the
 
 (g) *Priorities.* The Secretary looks for information that shows the extent to which the project addresses program priorities in the field of modern foreign languages and area studies for that year.
 
-(Approved by the Office of Management and Budget under control number 1840-0068)(Authority: 22 U.S.C. 2452(b)(6), 2456(a)(2))[63 FR 46366, Aug. 31, 1998, as amended at 70 FR 13376, Mar. 21, 2005]
+(Approved by the Office of Management and Budget under control number 1840-0068) (Authority: 22 U.S.C. 2452(b)(6), 2456(a)(2))[63 FR 46366, Aug. 31, 1998, as amended at 70 FR 13376, Mar. 21, 2005]

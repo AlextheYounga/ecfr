@@ -18,4 +18,4 @@
 
 (2) If we determine that your participation rate index for a fiscal year is equal to or less than 0.0375, under paragraph (d)(1) of this section, we also excuse you from any subsequent loss of eligibility under § 668.187(a)(2) that would be based on the official cohort default rate for that fiscal year.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)(Authority: 20 U.S.C. 1082, 1085, 1094, 1099c)
+(Approved by the Office of Management and Budget under control number 1845-0022) (Authority: 20 U.S.C. 1082, 1085, 1094, 1099c)

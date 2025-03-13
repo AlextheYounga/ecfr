@@ -4,7 +4,7 @@ As used in this part:
 
 *Alleged perpetrator of a crime of violence* is a student who is alleged to have committed acts that would, if proven, constitute any of the following offenses or attempts to commit the following offenses that are defined in appendix A to this part:
 
-ArsonAssault offensesBurglaryCriminal homicide—manslaughter by negligenceCriminal homicide—murder and nonnegligent manslaughterDestruction/damage/vandalism of propertyKidnapping/abductionRobberyForcible sex offenses.
+Arson Assault offenses Burglary Criminal homicide—manslaughter by negligence Criminal homicide—murder and nonnegligent manslaughter Destruction/damage/vandalism of property Kidnapping/abduction Robbery Forcible sex offenses.
 
 *Alleged perpetrator of a nonforcible sex offense* means a student who is alleged to have committed acts that, if proven, would constitute statutory rape or incest. These offenses are defined in appendix A to this part.
 

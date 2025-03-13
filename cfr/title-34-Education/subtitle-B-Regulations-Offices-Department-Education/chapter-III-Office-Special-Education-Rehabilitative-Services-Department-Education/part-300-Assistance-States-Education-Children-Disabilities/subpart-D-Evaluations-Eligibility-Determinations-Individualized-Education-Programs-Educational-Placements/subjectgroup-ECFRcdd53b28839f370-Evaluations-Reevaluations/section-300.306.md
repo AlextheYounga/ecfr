@@ -26,4 +26,4 @@
 
 (2) If a determination is made that a child has a disability and needs special education and related services, an IEP must be developed for the child in accordance with §§ 300.320 through 300.324.
 
-(Authority: 20 U.S.C. 1414(b)(4) and (5))[71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61307, Oct. 30, 2007; 82 FR 29761, June 30, 2017]
+(Authority: 20 U.S.C. 1414(b)(4) and (5)) [71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61307, Oct. 30, 2007; 82 FR 29761, June 30, 2017]

@@ -2,11 +2,11 @@
 
 (a) *Definitions in the Act.* The following terms used in this part are defined in section 472 of the Act:
 
-AdministratorSurplus property
+Administrator Surplus property
 
 (b) *Definitions in the Education Department General Administrative Regulations (EDGAR).* The following terms used in this part are defined in 34 CFR 77.1:
 
-DepartmentSecretaryState
+Department Secretary State
 
 (c) *Other definitions:* The following definitions also apply to this part:
 

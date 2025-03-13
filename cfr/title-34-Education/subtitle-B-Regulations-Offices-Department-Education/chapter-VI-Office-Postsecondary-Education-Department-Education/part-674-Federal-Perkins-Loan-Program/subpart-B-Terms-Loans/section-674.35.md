@@ -94,4 +94,4 @@
 
 (i) The borrower need not repay principal, and interest does not accrue, until six months after completion of any period during which the borrower is in deferment under paragraphs (b), (c), (d), (e), and (f) of this section.
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority: 20 U.S.C. 1087dd)[52 FR 45754, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32345, July 21, 1992; 59 FR 1652, Jan. 12, 1994. Redesignated and amended at 59 FR 61410, 61411, Nov. 30, 1994; 62 FR 50848, Sept. 26, 1997; 64 FR 58315, Oct. 28, 1999; 85 FR 49820, Aug. 14, 2020]
+(Approved by the Office of Management and Budget under control number 1845-0019) (Authority: 20 U.S.C. 1087dd)[52 FR 45754, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988; 57 FR 32345, July 21, 1992; 59 FR 1652, Jan. 12, 1994. Redesignated and amended at 59 FR 61410, 61411, Nov. 30, 1994; 62 FR 50848, Sept. 26, 1997; 64 FR 58315, Oct. 28, 1999; 85 FR 49820, Aug. 14, 2020]

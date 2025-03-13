@@ -4,6 +4,6 @@
 
 (b) If any other rules for participation of students enrolled in private schools apply under a particular program, they are in the authorizing statute or implementing regulations for that program.
 
-(Authority: 20 U.S.C. 1221e-3 and 3474)Note:
+(Authority: 20 U.S.C. 1221e-3 and 3474) Note:
 
 Some program statutes authorize the Secretary—under certain circumstances—to provide benefits directly to private school students. These “bypass” provisions—where they apply—are implemented in the individual program regulations.

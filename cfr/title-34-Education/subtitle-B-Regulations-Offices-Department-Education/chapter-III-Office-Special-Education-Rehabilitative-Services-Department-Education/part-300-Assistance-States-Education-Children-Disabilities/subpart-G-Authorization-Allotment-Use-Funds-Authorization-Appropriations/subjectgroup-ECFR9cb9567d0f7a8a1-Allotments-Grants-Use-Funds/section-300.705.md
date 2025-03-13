@@ -26,4 +26,4 @@
 
 (2) After an SEA distributes funds under this part to an eligible LEA that is not serving any children with disabilities, as provided in paragraph (a) of this section, the SEA must determine, within a reasonable period of time prior to the end of the carryover period in 34 CFR 76.709, whether the LEA has obligated the funds. The SEA may reallocate any of those funds not obligated by the LEA to other LEAs in the State that are not adequately providing special education and related services to all children with disabilities residing in the areas served by those other LEAs. The SEA may also retain those funds for use at the State level to the extent the State has not reserved the maximum amount of funds it is permitted to reserve for State-level activities pursuant to § 300.704.
 
-(Approved by the Office of Management and Budget under control number 1820-0030)(Authority: 20 U.S.C. 1411(f))[71 FR 46753, Aug. 14, 2006, as amended at 73 FR 73028, Dec. 1, 2008]
+(Approved by the Office of Management and Budget under control number 1820-0030)(Authority: 20 U.S.C. 1411(f)) [71 FR 46753, Aug. 14, 2006, as amended at 73 FR 73028, Dec. 1, 2008]

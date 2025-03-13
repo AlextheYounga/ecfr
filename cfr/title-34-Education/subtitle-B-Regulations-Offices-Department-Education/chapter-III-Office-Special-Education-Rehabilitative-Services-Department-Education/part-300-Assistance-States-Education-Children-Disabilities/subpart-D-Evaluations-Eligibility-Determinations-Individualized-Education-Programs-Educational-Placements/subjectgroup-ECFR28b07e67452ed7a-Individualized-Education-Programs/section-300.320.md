@@ -56,4 +56,4 @@
 
 (2) The IEP Team to include information under one component of a child's IEP that is already contained under another component of the child's IEP.
 
-(Authority: 20 U.S.C. 1414(d)(1)(A) and (d)(6))[71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61307, Oct. 30, 2007]
+(Authority: 20 U.S.C. 1414(d)(1)(A) and (d)(6)) [71 FR 46753, Aug. 14, 2006, as amended at 72 FR 61307, Oct. 30, 2007]

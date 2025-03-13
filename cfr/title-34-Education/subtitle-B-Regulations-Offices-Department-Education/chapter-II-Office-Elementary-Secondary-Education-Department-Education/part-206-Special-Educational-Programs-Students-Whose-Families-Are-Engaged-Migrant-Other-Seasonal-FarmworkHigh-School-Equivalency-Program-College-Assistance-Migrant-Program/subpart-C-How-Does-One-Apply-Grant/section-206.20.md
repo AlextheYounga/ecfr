@@ -34,4 +34,4 @@ In applying for a grant, an applicant shall:
 
 (2) The grantee will develop and implement a plan for identifying and using the resources of the participating IHE and the community to supplement and enhance the services provided by the project.
 
-(Authority: 20 U.S.C. 1070d-2(a) and (d)-(f))(Approved by the Office of Management and Budget under control number 1810-0055)[46 FR 35075, July 6, 1981, as amended at 52 FR 24920, July 1, 1987; 57 FR 60407, Dec. 18, 1992; 75 FR 65770, Oct. 26, 2010]
+(Authority: 20 U.S.C. 1070d-2(a) and (d)-(f)) (Approved by the Office of Management and Budget under control number 1810-0055)[46 FR 35075, July 6, 1981, as amended at 52 FR 24920, July 1, 1987; 57 FR 60407, Dec. 18, 1992; 75 FR 65770, Oct. 26, 2010]

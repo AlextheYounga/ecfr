@@ -24,4 +24,4 @@
 
 (2) Within the time specified in § 682.406(a)(5), file a default claim thereon with the guaranty agency for the entire unpaid balance of principal and accrued interest.
 
-(Approved by the Office of Management and Budget under control number 1840-0538)(Authority: 20 U.S.C. 1077, 1078, 1078-1, 1078-2, 1078-3, 1082, 1087-1)[57 FR 60323, Dec. 18, 1992, as amended at 58 FR 9120, Feb. 19, 1993; 60 FR 61757, Dec. 1, 1995; 64 FR 58632, Oct. 29, 1999; 78 FR 65820, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1840-0538) (Authority: 20 U.S.C. 1077, 1078, 1078-1, 1078-2, 1078-3, 1082, 1087-1)[57 FR 60323, Dec. 18, 1992, as amended at 58 FR 9120, Feb. 19, 1993; 60 FR 61757, Dec. 1, 1995; 64 FR 58632, Oct. 29, 1999; 78 FR 65820, Nov. 1, 2013]

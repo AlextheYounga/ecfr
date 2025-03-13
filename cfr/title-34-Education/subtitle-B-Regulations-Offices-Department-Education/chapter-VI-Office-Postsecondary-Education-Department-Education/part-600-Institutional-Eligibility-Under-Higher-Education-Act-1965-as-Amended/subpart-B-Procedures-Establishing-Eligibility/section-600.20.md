@@ -194,4 +194,4 @@
 
 (iv) A default management plan unless the institution is exempt from providing that plan under 34 CFR 668.14(b)(15).
 
-(Approved by the Office of Management and Budget under control number 1845-0012)[85 FR 54810, Sept. 2, 2020, as amended at 86 FR 49479, Sept. 3, 2021; 87 FR 65487, Oct. 28, 2022]
+(Approved by the Office of Management and Budget under control number 1845-0012) [85 FR 54810, Sept. 2, 2020, as amended at 86 FR 49479, Sept. 3, 2021; 87 FR 65487, Oct. 28, 2022]

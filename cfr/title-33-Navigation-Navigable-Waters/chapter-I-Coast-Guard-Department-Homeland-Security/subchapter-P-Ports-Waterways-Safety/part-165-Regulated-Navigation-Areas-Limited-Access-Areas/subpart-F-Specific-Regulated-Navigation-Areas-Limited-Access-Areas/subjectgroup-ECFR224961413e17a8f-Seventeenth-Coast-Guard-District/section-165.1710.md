@@ -1,10 +1,8 @@
 ##### § 165.1710 Port Valdez and Valdez Narrows, Valdez, Alaska—security zones. #####
 
-Link to an amendment published at 89 FR 33232, Apr. 29, 2024.
-
 (a) *Location.* The following areas are security zones:
 
-(1) *Trans-Alaska Pipeline (TAPS) Valdez Terminal complex (Terminal), Valdez, Alaska and TAPS tank vessels.* All waters enclosed within a line beginning on the southern shoreline of Port Valdez at 61°05′03.6″ N, 146°25′42″ W; thence northerly to yellow buoy at 61°06′00″ N, 146°25′42″ W; thence east to the yellow buoy at 61°06′00″ N, 146°21′30″ W; thence south to 61°05′06″ N, 146°21′30″ W; thence west along the shoreline and including the area 2000 yards inland along the shoreline to the beginning point.
+(1) *Trans-Alaska Pipeline (TAPS) Valdez Terminal complex (Terminal), Valdez, Alaska and TAPS tank vessels.* All waters enclosed within a line beginning on the southern shoreline of Port Valdez at 61°05′03.6″ N, 146°25′42″ W; thence northerly to yellow buoy at 61°06′00″ N, 146°25′42″ W; thence east to the yellow buoy at 61°06′00″ N, 146°21′30″ W; thence south to 61°05′06″ N, 146°21′30″ W; thence west along the shoreline to the beginning point.
 
 (2) *Tank vessel moving security zone.* All waters within 200 yards of any TAPS tank vessel maneuvering to approach, moor, unmoor or depart the TAPS Terminal or transiting, maneuvering, laying to or anchored within the boundaries of the Captain of the Port, Prince William Sound Zone described in 33 CFR 3.85-20 (b).
 
@@ -16,4 +14,4 @@ Link to an amendment published at 89 FR 33232, Apr. 29, 2024.
 
 (3) All persons and vessels must comply with the instructions of the Coast Guard Captain of the Port and the designated on-scene patrol personnel. These personnel comprise commissioned, warrant, and petty officers of the Coast Guard. Upon being hailed by a vessel displaying a U.S. Coast Guard ensign by siren, radio, flashing light, or other means, the operator of the vessel must proceed as directed. Coast Guard Auxiliary and local or state agencies may be present to inform vessel operators of the requirements of this section and other applicable laws.
 
-[COTP Prince William Sound 02-011, 71 FR 2154, Jan. 13, 2006]
+[COTP Prince William Sound 02-011, 71 FR 2154, Jan. 13, 2006, as amended by USCG-2024-0157, 89 FR 33232, Apr. 29, 2024]

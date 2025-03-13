@@ -30,4 +30,4 @@ The Secretary evaluates an application on the basis of the criteria in this sect
 
 (i) *Priorities.* If, under the provisions of § 669.22, the application notice specifies priorities for this program, the Secretary determines the degrees to which the priorities are served.
 
-(Approved by the Office of Management and Budget under control number 1840-0608)(Authority: 20 U.S.C. 1123)[55 FR 2773, Jan. 26, 1990, as amended at 58 FR 32577, June 10, 1993; 70 FR 13377, Mar. 21, 2005]
+(Approved by the Office of Management and Budget under control number 1840-0608) (Authority: 20 U.S.C. 1123)[55 FR 2773, Jan. 26, 1990, as amended at 58 FR 32577, June 10, 1993; 70 FR 13377, Mar. 21, 2005]

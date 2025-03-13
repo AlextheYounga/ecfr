@@ -72,4 +72,4 @@
 
 (2) If the guaranty agency fails to comply with the decision, the Secretary may recover the Federal funds from any funds due the agency from the Department without any further notice or procedure and may take any other action permitted or authorized by law to compel compliance.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)[64 FR 58632, Oct. 29, 1999]
+(Approved by the Office of Management and Budget under control number 1845-0020) [64 FR 58632, Oct. 29, 1999]

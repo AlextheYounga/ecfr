@@ -114,4 +114,4 @@ Link to an amendment published at 88 FR 70187, Oct. 10, 2023.Link to an amendmen
 
 (C) An institution must make a determination regarding the State in which a student is located at the time of the student's initial enrollment in an educational program and, if applicable, upon formal receipt of information from the student, in accordance with the institution's procedures under paragraph (c)(3)(ii)(A) of this section, that the student's location has changed to another State.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)[64 FR 59068, Nov. 1, 1999, as amended at 74 FR 55943, Oct. 29, 2009; 75 FR 66954, Oct. 29, 2010; 84 FR 58932, Nov. 1, 2019; 87 FR 65495, Oct. 28, 2022]
+(Approved by the Office of Management and Budget under control number 1845-0022) [64 FR 59068, Nov. 1, 1999, as amended at 74 FR 55943, Oct. 29, 2009; 75 FR 66954, Oct. 29, 2010; 84 FR 58932, Nov. 1, 2019; 87 FR 65495, Oct. 28, 2022]

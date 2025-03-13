@@ -22,4 +22,4 @@ Example:An LEA that timely requests forgiveness has two overpayments of which po
 
 The Secretary calculates the amount that the LEA must repay by determining the amount by which the preceding fiscal year's closing balance exceeds 10 percent of the preceding year's TCE. This calculation is made by subtracting 10 percent of the LEA's TCE ($150,000) from the closing balance ($250,000), resulting in a difference of $100,000 that the LEA must repay. The Secretary then totals the eligible overpayment amounts ($200,000 + $300,000), resulting in a total amount of $500,000. The Secretary subtracts the calculated repayment amount ($100,000) from the total of the two overpayment balances ($500,000), resulting in $400,000 that the Secretary forgives.
 
-(Authority: 20 U.S.C. 7712)[62 FR 35414, July 1, 1997]
+(Authority: 20 U.S.C. 7712) [62 FR 35414, July 1, 1997]

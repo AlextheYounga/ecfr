@@ -38,7 +38,6 @@ The following definitions apply to this program:
 
 *State vocational rehabilitation agency* means the designated State agency as defined in 34 CFR 361.5(c)(13).
 
-(Authority: Section 12(c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 709(c))
-f
+(Authority: Section 12(c) of the Rehabilitation Act of 1973, as amended; 29 U.S.C. 709(c)) f
 
 ##### § 386.4 Subpart B [Reserved] #####

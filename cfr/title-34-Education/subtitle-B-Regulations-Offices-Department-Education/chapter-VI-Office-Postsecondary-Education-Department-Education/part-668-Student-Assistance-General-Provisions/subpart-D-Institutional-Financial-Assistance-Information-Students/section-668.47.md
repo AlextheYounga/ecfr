@@ -112,4 +112,4 @@
 
 (ii) If an assistant coach had responsibilities for more than one team and the institution does not allocate that coach's salary by team, the institution must divide the salary by the number of teams for which the coach has responsibility and allocate the salary among the teams on a basis consistent with the coach's responsibilities for the different teams.
 
-(Approved by the Office of Management and Budget under control number 1845-0010)(Authority: 20 U.S.C. 1092)[64 FR 59071, Nov. 1, 1999]
+(Approved by the Office of Management and Budget under control number 1845-0010) (Authority: 20 U.S.C. 1092)[64 FR 59071, Nov. 1, 1999]

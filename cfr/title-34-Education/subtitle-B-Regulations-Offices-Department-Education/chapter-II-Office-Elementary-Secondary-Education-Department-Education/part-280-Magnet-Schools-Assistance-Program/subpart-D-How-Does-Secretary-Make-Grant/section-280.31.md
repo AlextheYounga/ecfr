@@ -76,4 +76,4 @@ The Secretary may use the following selection criteria in evaluating each applic
 
 (ii) Has identified other resources to continue support for the magnet school activities when assistance under this program is no longer available.
 
-(Approved by the Office of Management and Budget under control number 1855-0011)(Authority: 20 U.S.C. 7231-7231j)[57 FR 61509, Dec. 24, 1992, as amended at 60 FR 14866, Mar. 20, 1995; 69 FR 4997, Feb. 2, 2004; 72 FR 10607, Mar. 9, 2007]
+(Approved by the Office of Management and Budget under control number 1855-0011) (Authority: 20 U.S.C. 7231-7231j) [57 FR 61509, Dec. 24, 1992, as amended at 60 FR 14866, Mar. 20, 1995; 69 FR 4997, Feb. 2, 2004; 72 FR 10607, Mar. 9, 2007]
