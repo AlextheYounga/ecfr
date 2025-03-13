@@ -1,8 +1,6 @@
 ##### § 547.508 Payments for legal services from funds originating outside the United States. #####
 
-(a) *Professional fees and incurred expenses.* (1) Receipt of payment of professional fees and reimbursement of incurred expenses for the provision of legal services authorized
-pursuant to § 547.507(a) to or on behalf of any person whose property and interests in property are blocked pursuant to § 547.201 or any further Executive orders relating to the national emergency declared in E.O. 13413 of October 27, 2006, is authorized from funds
-originating outside the United States, provided that the funds do not originate from:
+(a) *Professional fees and incurred expenses.* (1) Receipt of payment of professional fees and reimbursement of incurred expenses for the provision of legal services authorized pursuant to § 547.507(a) to or on behalf of any person whose property and interests in property are blocked pursuant to § 547.201 or any further Executive orders relating to the national emergency declared in E.O. 13413 of October 27, 2006, is authorized from funds originating outside the United States, provided that the funds do not originate from:
 
 (i) A source within the United States;
 
@@ -26,7 +24,7 @@ originating outside the United States, provided that the funds do not originate 
 
 (2) The reports, which must reference this section, are to be submitted to OFAC using one of the following methods:
 
-(i) *Email:* (preferred method)*OFAC.Regulations.Reports@treasury.gov;* or
+(i) *Email:* (preferred method) *OFAC.Regulations.Reports@treasury.gov;* or
 
 (ii) *U.S. mail:* OFAC Regulations Reports, Office of Foreign Assets Control, U.S. Department of the Treasury, 1500 Pennsylvania Avenue NW, Freedman's Bank Building, Washington, DC 20220.
 

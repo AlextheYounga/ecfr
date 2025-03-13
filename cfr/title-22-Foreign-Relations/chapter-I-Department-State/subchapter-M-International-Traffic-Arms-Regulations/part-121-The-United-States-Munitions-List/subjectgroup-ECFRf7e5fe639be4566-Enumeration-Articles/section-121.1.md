@@ -3246,4 +3246,4 @@ Category XXI—Articles, Technical Data, and Defense Services Not Otherwise Enum
 
 2. At 79 FR 61228, Oct. 10, 2014, § 121.1 was amended by removing the word “enumerated” and adding in its place the word “described” in one place in Note 1 to paragraph (i) of Category VI; however, the amendment could not be incorporated because of inaccurate amendatory instruction.
 
-Effective Date Note 2:At 88 FR 84074, Dec. 4, 2023, § 121.1, under Category VIII, was amended by revising the note to paragraph (h)(1), effective from Dec. 4, 2023, until Dec. 1, 2024.
+Effective Date Note 2:At 88 FR 84074, Dec. 4, 2023, § 121.1, under Category VIII, was amended by revising the note to paragraph (h)(1), effective from Dec. 4, 2023, until Dec. 1, 2024, or when terminated by the Department, whichever occurs first. At 89 FR 93170, Nov. 26, 2024, the effective period was extended to Dec. 1, 2026.

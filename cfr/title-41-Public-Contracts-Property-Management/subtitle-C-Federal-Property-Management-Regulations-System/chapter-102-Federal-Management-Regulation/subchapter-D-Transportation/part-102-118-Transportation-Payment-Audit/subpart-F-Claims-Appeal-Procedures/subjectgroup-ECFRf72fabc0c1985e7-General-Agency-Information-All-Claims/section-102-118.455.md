@@ -1,5 +1,7 @@
 ##### § 102-118.455 What is the time limit for a TSP to file a transportation claim against my agency? #####
 
+Link to an amendment published at 89 FR 93196, Nov. 26, 2024.
+
 The time limits on a TSP transportation claim against the Government differ by mode as shown in the following table:
 
 |                     Mode                     |Freight charges|       Statute       |

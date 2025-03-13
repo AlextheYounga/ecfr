@@ -1,5 +1,7 @@
 ##### § 102-118.460 What is the time limit for my agency to file a court claim with a TSP for freight charges, reparations, and loss or damage to the property? #####
 
+Link to an amendment published at 89 FR 93197, Nov. 26, 2024.
+
 Statutory time limits vary depending on the mode and the service involved and may involve freight charges. The following tables list the time limits:
 
 |                    Mode                    |           Freight charges            |             Reparations              |                                             Loss and damage                                             |

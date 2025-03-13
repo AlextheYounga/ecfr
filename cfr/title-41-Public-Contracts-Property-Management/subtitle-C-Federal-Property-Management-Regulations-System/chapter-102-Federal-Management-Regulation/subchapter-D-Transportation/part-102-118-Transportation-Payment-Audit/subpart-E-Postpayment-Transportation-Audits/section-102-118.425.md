@@ -1,5 +1,7 @@
 ##### § 102-118.425 Is my agency required to forward all transportation documents to GSA Transportation Audits Division, and what information must be on these documents? #####
 
+Link to an amendment published at 89 FR 93196, Nov. 26, 2024.
+
 (a) Yes, your agency must provide all TDs to GSA Transportation Audits Division (see § 102-118.35 for definition TD).
 
 (b) The following information must be annotated on all TDs and bills that have completed your agency's prepayment audit for submission to GSA Transportation Audits Division:

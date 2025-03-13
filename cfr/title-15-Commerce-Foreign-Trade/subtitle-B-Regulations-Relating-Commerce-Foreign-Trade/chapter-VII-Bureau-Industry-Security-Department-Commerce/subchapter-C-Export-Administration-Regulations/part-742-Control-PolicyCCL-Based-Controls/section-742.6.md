@@ -1,5 +1,7 @@
 ##### § 742.6 Regional stability. #####
 
+Link to an amendment published at 89 FR 93167, Nov. 26, 2024.
+
 (a) *License requirements.* The following controls are maintained in support of U.S. foreign policy to maintain regional stability:
 
 (1) *RS Column 1 license requirements in general.* A license is required for exports and reexports to all destinations, except Australia, Canada, or the United Kingdom, for all items in ECCNs on the CCL that include RS Column 1 in the Country Chart column of the “License Requirements” section. Transactions described in paragraph (a)(2), (3), or (9) of this section are subject to the RS Column 1 license requirements set forth in those paragraphs rather than the license requirements set forth in this paragraph (a)(1).
@@ -50,6 +52,8 @@
 
 (*2*) *Full exclusion.* There is a full deemed export and reexport exclusion in § 742.6(a)(6)(iv) that conveys to the license requirement in this paragraph (a)(10) for “technology” and “software” in ECCNs 3D001, 3D002, and 3E001 for anisotropic dry plasma etch equipment and isotropic dry etch equipment in 3B001.c.1.a and c.1.c.
 
+(11) [Reserved]
+
 (b) *Licensing policy*—(1) *Licensing policy for RS Column 1 items.* (i) Applications for exports and reexports of ECCN 0A501, 0A502, 0A504, 0A505, 0A506, 0A507, 0A508, 0A509, 0B501, 0B505, 0D501, 0D505, 0E501, 0E504, and 0E505 items, 9x515, and “600 series” items will be reviewed under the following policies:
 
 (A) Applications for exports and reexports of ECCN 0A501, 0A502, 0A504, 0A505, 0A506, 0A507, 0A508, 0A509, 0B501, 0B505, 0D501, 0D505, 0E501, 0E504, and 0E505 items; 9x515 and “600 series” items will be reviewed on a case-by-case basis to determine whether the transaction is contrary to the national security or foreign policy interests of the United States, including the foreign policy interest of promoting the observance of human rights throughout the world.
@@ -93,6 +97,8 @@
 (ii) *License review policy for paragraph (a)(6)(iii) of this section.* License applications for items specified in paragraph (a)(6)(iii) of this section to or within destinations not specified in Country Group D:5 (except Macau) will be reviewed on a presumption of approval basis, unless the export, reexport, or transfer (in-country) is to an entity headquartered in, whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5, in which case license applications will be reviewed under a presumption of denial. License applications for items to or within Macau or destinations specified in Country Group D:5 for items specified in paragraph (a)(6)(iii) will be reviewed under a presumption of denial.
 
 (11) *License review policy for items specified in paragraph (a)(10).* License applications to export or reexport items described in paragraph (a)(10) of this section to destinations specified in Country Group A:1, A:5, and A:6, see supplement no. 1 to part 740 of the EAR, will be reviewed with a presumption of approval. License applications to export or reexport items described in paragraph (a)(10) of this section to destinations specified in Country Groups D:1 or D:5 of supplement no. 1 to part 740 of the EAR will be reviewed under a presumption of denial. License applications to export or reexport items described in paragraph (a)(10) of this section to any other destination will be reviewed on a case-by-case basis, unless subject to a more restrictive RS policy in this section.
+
+(12) [Reserved]
 
 (c)(1) *Contract sanctity date:* March 21, 2003. This contract sanctity date applies only to items controlled under ECCNs 2A983, 2D983 and 2E983 destined for countries not listed in Country Group E (supplement 1 to part 740). See parts 742 and 746 for the contract sanctity requirements applicable to exports and reexports to countries listed in Country Group E.
 

@@ -1,5 +1,7 @@
 ##### § 102-118.260 Must my agency send all quotations, tenders, or contracts with a TSP to GSA? #####
 
+Link to an amendment published at 89 FR 93196, Nov. 26, 2024.
+
 (a) Yes, your agency must send copies of each quotation, tender, or contract of special rates, fares, charges, or concessions with TSPs including those authorized by 49 U.S.C. 10721 and 13712, upon execution to—*audit.policy@gsa.gov* or General Services Administration, Office of Travel, Employee Relocation and Transportation, Attn: Transportation Audits Division, 1800 F Street NW, 3rd Floor, Mail Hub 3400, Washington, DC 20405.
 
 (b) Tenders must be submitted electronically, following the instructions provided by the requesting agency. The following information must be submitted with the tender:

@@ -1,5 +1,7 @@
 ##### § 102-118.545 What information must a TSP claim include? #####
 
+Link to an amendment published at 89 FR 93198, Nov. 26, 2024.
+
 Transportation service provider (TSP) claims received by GSA or its designee must include one of the following:
 
 (a) The signature of an individual or party legally entitled to receive payment for services on behalf of the TSP;

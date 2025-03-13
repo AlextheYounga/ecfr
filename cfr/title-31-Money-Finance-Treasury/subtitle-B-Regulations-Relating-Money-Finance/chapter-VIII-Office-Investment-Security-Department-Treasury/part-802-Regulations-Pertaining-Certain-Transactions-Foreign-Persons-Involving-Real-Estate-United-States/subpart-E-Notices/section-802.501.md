@@ -1,5 +1,7 @@
 ##### § 802.501 Procedures for notices. #####
 
+Link to an amendment published at 89 FR 93185, Nov. 26, 2024.
+
 (a) Except as otherwise prohibited under paragraph (j) of this section, a party or parties to a proposed or completed transaction may file a voluntary notice of the transaction with the Committee. Voluntary notice to the Committee is filed by sending an electronic copy of the notice that includes, in English, the information set out in § 802.502, including the certification required under paragraph (h) of that section, and paying the fee required under subpart K of this part. For electronic submission instructions, see the Committee's section of the Department of the Treasury website.
 
 (b) If the Committee determines that a transaction for which no voluntary notice has been filed under this part, and with respect to which the Committee has not informed the parties in writing that the Committee has concluded all action under section 721, may be a covered real estate transaction and may raise national security considerations, the Staff Chairperson, acting on the recommendation of the Committee, may request the parties to the transaction to provide to the Committee the information necessary to determine whether the transaction is a covered real estate transaction, and if the Committee determines that the transaction is a covered real estate transaction, to file a notice of such covered real estate transaction under paragraph (a) of this section.

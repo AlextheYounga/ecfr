@@ -1,5 +1,7 @@
 ##### § 571.127 Standard No. 127; Automatic emergency braking systems for light vehicles. #####
 
+Link to an amendment published at 89 FR 93220, Nov. 26, 2024.
+
 S1. *Scope.* This standard establishes performance requirements for automatic emergency braking (AEB) systems for light vehicles.
 
 S2. *Purpose.* The purpose of this standard is to reduce the number of deaths and injuries that result from crashes in which drivers do not apply the brakes or fail to apply sufficient braking power to avoid or mitigate a crash.
@@ -214,7 +216,7 @@ S7.1. *Setup.*
 
 S7.2. *Headway calculation.* For each test run conducted under S7.3 and S7.4, the headway (*L*0), in meters, providing 5.0 seconds time to collision (*TTC*) is calculated. *L*0 is determined with the following equation where *V*SV is the speed of the subject vehicle in m/s and *V*LV is the speed of the lead vehicle in m/s:
 
-Equation 1 to S7.2*L*0 = TTC0 × (*V*SV*−V*LV)TTC0 = 5.0
+Equation 1 to S7.2*L*0 = TTC0 × (*V*SV − *V*LV)TTC0 = 5.0
 
 S7.3. *Stopped lead vehicle.*
 
@@ -351,11 +353,7 @@ S8.1.3. *Pedestrian test mannequin.*
 
 S8.2. *Headway calculation.* For each test run conducted under S8.3, S8.4, and S8.5, the headway (*L*0), in meters, providing 4.0 seconds time to collision (*TTC*) is calculated. *L*0 is determined with the following equation where *V*SV is the speed of the subject vehicle in m/s and *V*P-y is the component of speed of the pedestrian test mannequin in m/s in the direction of the intended travel path:
 
-Equation 2 to S8.2
-
-*L*0 = TTC0 × (*V*SV *− V*P-y)
-
-TTC0 = 4.0
+Equation 2 to S8.2*L*0 = TTC0 × (*V*SV − *V*P-y)TTC0 = 4.0
 
 S8.3. *Pedestrian crossing road.*
 
@@ -511,7 +509,7 @@ S8.5.4. *Test completion criteria.* The test run is complete when the subject ve
 
 S9. *False AEB activation.*
 
-S9.1. *Headway calculation.* For each test run to be conducted under S9.2 and S9.3, the headway (*L*0, *L*2.1, *L*1.1), in meters, providing 5.0 seconds, 2.1 seconds, and 1.1 seconds time to collision (TTC) is calculated. *L*0*, L*2.1*,* and *L*1.1 are determined with the following equation where *V*SV is the speed of the subject vehicle in m/s:
+S9.1. *Headway calculation.* For each test run to be conducted under S9.2 and S9.3, the headway (*L*0, *L*2.1, *L*1.1), in meters, providing 5.0 seconds, 2.1 seconds, and 1.1 seconds time to collision (TTC) is calculated. *L*0, *L*2.1, and *L*1.1 are determined with the following equation where *V*SV is the speed of the subject vehicle in m/s:
 
 Equation 3 to S9.1*L*X = TTCX × (*V*SV)*TTC*0 = *5.0**TTC*2.1 = *2.1**TTC*1.1 = *1.1*
 

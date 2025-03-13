@@ -1,5 +1,7 @@
 ##### § 102-118.435 What are the transportation postpayment audit roles and responsibilities of the GSA Transportation Audits Division? #####
 
+Link to an amendment published at 89 FR 93196, Nov. 26, 2024.
+
 (a) The GSA Transportation Audits Division role is to perform the oversight responsibility of transportation prepayment and postpayment granted to the Administrator. The GSA Transportation Audits Division will—
 
 (1) Examine and analyze transportation documents and payments to discover their validity, relevance and conformity with tariffs, quotations, contracts, agreements, or tenders and make adjustments to protect the interest of an agency;

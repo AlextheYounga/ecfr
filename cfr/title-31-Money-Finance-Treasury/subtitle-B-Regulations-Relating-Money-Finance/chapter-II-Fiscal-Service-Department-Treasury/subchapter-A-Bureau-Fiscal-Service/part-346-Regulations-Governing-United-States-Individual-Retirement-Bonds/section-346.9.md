@@ -24,4 +24,4 @@ In any case coming under the provisions of this subsection, a duly certified cop
 
 (c) *Ownership of redemption proceeds.* The orders of precedence set forth in paragraphs (a) and (b) of this section, except in cases where redemption is made for the account of a registered owner, are for the Department's convenience in discharging its obligation on an Individual Retirement Bond. The discharge of the obligation in accordance therewith shall be final so far as the Department is concerned, but those provisions do not otherwise purport to determine ownership of the redemption proceeds of a bond.
 
-(26 U.S.C. 220 and 31 U.S.C. 757)[40 FR 4240, Jan. 28, 1975, as amended at 42 FR 37520, July 21, 1977]
+(26 U.S.C. 220 and 31 U.S.C. 757) [40 FR 4240, Jan. 28, 1975, as amended at 42 FR 37520, July 21, 1977]

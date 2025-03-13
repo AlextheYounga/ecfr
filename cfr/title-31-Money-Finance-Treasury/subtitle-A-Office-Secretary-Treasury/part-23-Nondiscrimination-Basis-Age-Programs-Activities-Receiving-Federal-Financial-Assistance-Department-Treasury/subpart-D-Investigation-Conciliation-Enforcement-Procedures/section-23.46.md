@@ -16,8 +16,7 @@
 
 (c) Treasury will take no action under paragraph (a) of this section until:
 
-(1) The Secretary has advised the recipient of its failure to comply with the
-Act and these regulations and has determined that voluntary compliance cannot be obtained.
+(1) The Secretary has advised the recipient of its failure to comply with the Act and these regulations and has determined that voluntary compliance cannot be obtained.
 
 (2) Thirty days have elapsed after the Secretary has sent a written report of the circumstances and grounds of the action to the committees of Congress having legislative jurisdiction over the Federal program or activity involved. The Secretary will file a report whenever any action is taken under paragraph (a) of this section.
 

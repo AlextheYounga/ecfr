@@ -1,5 +1,7 @@
 ##### § 800.901 Penalties and damages. #####
 
+Link to an amendment published at 89 FR 93185, Nov. 26, 2024.
+
 (a) Any person who submits a declaration or notice with a material misstatement or omission or makes a false certification under § 800.404, § 800.405, or § 800.502 may be liable to the United States for a civil penalty not to exceed $250,000 per violation. The amount of the penalty imposed for a violation shall be based on the nature of the violation.
 
 (b) Any person who fails to comply with the requirements of § 800.401 may be liable to the United States for a civil penalty not to exceed $250,000 or the value of the transaction, whichever is greater. The amount of the penalty imposed for a violation shall be based on the nature of the violation.

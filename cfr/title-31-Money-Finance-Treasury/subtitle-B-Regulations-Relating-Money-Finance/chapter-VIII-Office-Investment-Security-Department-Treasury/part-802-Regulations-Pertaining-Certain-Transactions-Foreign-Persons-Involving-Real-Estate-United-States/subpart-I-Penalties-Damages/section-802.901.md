@@ -1,5 +1,7 @@
 ##### § 802.901 Penalties and damages. #####
 
+Link to an amendment published at 89 FR 93186, Nov. 26, 2024.
+
 (a) Any person who submits a declaration or notice with a material misstatement or omission or makes a false certification under § 802.402, § 802.403, or § 802.502 may be liable to the United States for a civil penalty not to exceed $250,000 per violation. The amount of the penalty imposed for a violation shall be based on the nature of the violation.
 
 (b) Any person who violates a material provision of a mitigation agreement with, a material condition imposed by, or an order issued by, the United States under section 721(l) may be liable to the United States for a civil penalty not to exceed $250,000 per violation or the value of the transaction, whichever is greater. For clarification, under the previous sentence, whichever penalty amount is greater may be imposed per violation, and the amount of the penalty imposed for a violation shall be based on the nature of the violation.

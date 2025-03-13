@@ -1,5 +1,7 @@
 ##### § 800.801 Obligation of parties to provide information. #####
 
+Link to an amendment published at 89 FR 93184, Nov. 26, 2024.
+
 (a) Parties to a transaction that is notified or declared under subparts D or E, or a transaction for which no notice or declaration has been submitted and for which the Staff Chairperson has requested information to assess whether the transaction is a covered transaction, shall provide information to the Staff Chairperson that will enable the Committee to conduct a full assessment, review, and/or investigation of the transaction. Parties to a transaction that have filed information with the Committee shall promptly advise the Staff Chairperson of any material changes to such information. If deemed necessary by the Committee, information may be obtained from parties to a transaction or other persons through subpoena or otherwise, under the Defense Production Act Reauthorization of 2003, as amended (50 U.S.C. 4555(a)).
 
 (b) Documentary materials or information required or requested to be filed with the Committee under this part shall be submitted in English. Supplementary materials, such as annual reports, written in a foreign language shall be submitted in certified English translation.

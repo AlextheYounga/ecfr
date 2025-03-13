@@ -1,5 +1,7 @@
 ##### § 102-118.150 What are the major mandatory terms and conditions governing the use of passenger transportation documents? #####
 
+Link to an amendment published at 89 FR 93196, Nov. 26, 2024.
+
 The mandatory terms and conditions governing the use of passenger transportation documents are:
 
 (a) Government travel must be via the lowest cost available, that meets travel requirements; e.g., Government contract, fare, through, excursion, or reduced one way or round trip fare. This should be done by entering the term “lowest coach” on the Government travel document if the specific fare basis is not known;

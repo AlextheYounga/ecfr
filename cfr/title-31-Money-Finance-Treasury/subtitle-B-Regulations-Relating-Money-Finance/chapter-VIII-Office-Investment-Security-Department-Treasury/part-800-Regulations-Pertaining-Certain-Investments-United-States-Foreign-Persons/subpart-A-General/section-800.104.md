@@ -1,5 +1,7 @@
 ##### § 800.104 Applicability rule. #####
 
+Link to an amendment published at 89 FR 93184, Nov. 26, 2024.
+
 (a) Except as provided in paragraphs (b) through (e) of this section and otherwise in this part, the regulations in this part apply from February 13, 2020.
 
 (b) Subject to paragraph (c) of this section, for any transaction for which the following has occurred before February 13, 2020, the corresponding provisions of the regulations in this part that were in effect on February 12, 2020, will apply:

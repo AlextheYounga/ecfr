@@ -24,4 +24,4 @@
 
 (e) *Succession of governmental officer.* If a security is registered in the name and title of a governmental officer who has died, resigned, or has been removed, succession shall be determined in accordance with applicable law.
 
-(Approved by the Office of Management and Budget under control number 1535-0068)[51 FR 18265, May 16, 1986; 51 FR 18884, May 23, 1986, as amended at 53 FR 10074, Mar. 29, 1988; 62 FR 46861, Sept. 4, 1997; 64 FR 6527, Feb. 10, 1999; 70 FR 57441, Sept. 30, 2005; 75 FR 78901, Dec. 17, 2010; 76 FR 18064, Apr. 1, 2011]
+(Approved by the Office of Management and Budget under control number 1535-0068) [51 FR 18265, May 16, 1986; 51 FR 18884, May 23, 1986, as amended at 53 FR 10074, Mar. 29, 1988; 62 FR 46861, Sept. 4, 1997; 64 FR 6527, Feb. 10, 1999; 70 FR 57441, Sept. 30, 2005; 75 FR 78901, Dec. 17, 2010; 76 FR 18064, Apr. 1, 2011]

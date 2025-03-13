@@ -1,5 +1,7 @@
 ##### § 802.504 Deferral, rejection, or disposition of certain voluntary notices. #####
 
+Link to an amendment published at 89 FR 93186, Nov. 26, 2024.
+
 (a) The Committee, acting through the Staff Chairperson, may:
 
 (1) Reject any voluntary notice that does not comply with § 802.501 or § 802.502 and so inform the parties promptly in writing;
