@@ -1,0 +1,3 @@
+##### § 88.103 Emissions bandwidth. #####
+
+The authorized bandwidth is the maximum occupied bandwidth authorized to be used by a station. Transmitters operating in the 5030-5091 MHz band must comply with the channel width requirements, channel placement requirements, tunability requirements, and non-video channel bandwidth limitations specified in technical standard RTCA DO-362A (incorporated by reference, see § 88.117) sections 2.2.1.5.2, 2.2.1.5.3, 2.2.1.5.4, and 2.2.1.5.6, respectively.

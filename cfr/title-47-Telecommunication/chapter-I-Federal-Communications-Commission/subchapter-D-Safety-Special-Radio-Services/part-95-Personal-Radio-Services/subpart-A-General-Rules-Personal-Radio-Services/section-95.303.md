@@ -1,7 +1,5 @@
 ##### § 95.303 Definitions. #####
 
-Link to an amendment published at 90 FR 1400, Jan. 8, 2025.
-
 The following terms and definitions apply only to the rules in this part.
 
 *Antenna.* A device that converts radio frequency electrical energy from a transmitter to radiated electromagnetic energy.
@@ -104,8 +102,12 @@ The following terms and definitions apply only to the rules in this part.
 
 *Two-way communications.* Communications where information flows in both directions through a communications channel, either simultaneously (duplex operation) or alternately (simplex operation).
 
+*Uncrewed Aircraft System Services.* The rules for these services, including technical rules, are contained in part 88 of this chapter. Only NNA stations authorized on a Non-Networked Access basis, as those terms are defined in § 88.3 of this chapter, are considered part of the Citizens Band Radio Services.
+
 *Unwanted emissions.* Emissions whose frequencies are outside of the necessary bandwidth; comprising out-of-band emissions and spurious emissions.
 
 *User.* Any person who uses or benefits from the operation of a Personal Radio Service station.
 
 *Voice obscuring feature.* A feature incorporated into a Personal Radio Service telephony transmitter that alters the sound of the user's voice in such a way that the communications are intended to be understandable only to individuals using a similar unit that reverses the process on the receiving end, so that the voice again becomes intelligible.
+
+[82 FR 41104, Aug. 29, 2017, as amended at 90 FR 1400, Jan. 8, 2025]

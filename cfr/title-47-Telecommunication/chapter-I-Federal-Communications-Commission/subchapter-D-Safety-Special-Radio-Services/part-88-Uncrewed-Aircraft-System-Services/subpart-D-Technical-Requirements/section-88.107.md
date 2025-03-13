@@ -1,0 +1,3 @@
+##### § 88.107 Out-of-band emission limits. #####
+
+Transmitters operating in the 5030-5091 MHz band must comply with the out-of-band-emission limits specified in technical standard RTCA DO-362A (incorporated by reference, see § 88.117) section 2.2.1.8.2 and associated subsections. On any frequency outside the 5030-5091 MHz band that is not addressed by RTCA DO-362A section 2.2.1.8.2 and associated subsections, the power of any emission, as measured over a 1 megahertz resolution bandwidth, shall be attenuated outside the band below the transmitter power (P) by at least 43 + 10log(P) dB.

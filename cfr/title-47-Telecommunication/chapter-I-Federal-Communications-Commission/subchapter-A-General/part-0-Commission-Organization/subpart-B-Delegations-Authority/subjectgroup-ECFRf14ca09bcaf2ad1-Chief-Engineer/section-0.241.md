@@ -1,7 +1,5 @@
 ##### § 0.241 Authority delegated. #####
 
-Link to an amendment published at 90 FR 1394, Jan. 8, 2025.
-
 (a) The performance of functions and activities described in § 0.31 is delegated to the Chief of the Office of Engineering and Technology: Provided that the following matters shall be referred to the Commission en banc for disposition:
 
 (1) Notice of proposed rulemaking and of inquiry and final orders in rulemaking proceedings, inquiry proceedings and non-editorial orders making changes, except that:
@@ -9,6 +7,8 @@ Link to an amendment published at 90 FR 1394, Jan. 8, 2025.
 (i) The Chief of the Office of Engineering and Technology is delegated authority, together with the Chief of the Wireless Telecommunications Bureau, to adopt certain technical standards applicable to hearing aid compatibility under § 20.19 of this chapter, as specified in § 20.19(k).
 
 (ii) The Chief of the Office of Engineering and Technology is delegated authority, by notice-and-comment rulemaking if required by statute or otherwise in the public interest, to issue an order amending rules in parts 2, 5, 15, or 18 of this chapter that reference industry standards to specify revised versions of the standards. This delegation is limited to modifying rules to reference revisions to standards that are already in the rules and not to incorporate a new standard into the rules, and is limited to the approval of changes to the technical standards that do not raise major compliance issues.
+
+(iii) The Chief of the Office of Engineering and Technology is delegated authority, along with the Chief of the Wireless Telecommunications Bureau, by notice-and-comment rulemaking if required by statute or in the public interest, to issue an order amending rules in part 88 of this chapter that reference industry standards to specify revised versions of the standards. These delegations are limited to modifying rules to reference revisions to standards that are already in the rules and not to incorporate a new standard into the rules, and are limited to the approval of changes that do not raise major compliance issues.
 
 (2) Applications for review of actions taken pursuant to delegated authority, except that the Chief of the Office of Engineering and Technology may dismiss any such application that does not contain any statement required under § 1.115(a) or (b) of this chapter, or does not comply with the filing requirements of § 1.115(d) or (f) of this chapter.
 
@@ -46,4 +46,6 @@ Link to an amendment published at 90 FR 1394, Jan. 8, 2025.
 
 (l) The Chief of the Office of Engineering and Technology is delegated authority, jointly with the Chief of the Wireless Telecommunications Bureau, to establish and administer a process for review of proposed technologies for point-to-endpoint-in-motion communications to aircraft and ships in the 71-76 GHz and 81-86 GHz bands to ensure compliance with the requirements adopted by the Commission.
 
-[51 FR 41106, Nov. 13, 1986, as amended at 57 FR 18088, Apr. 29, 1992; 60 FR 5324, Jan. 27, 1995; 60 FR 32119, June 20, 1995; 61 FR 4918, Feb. 9, 1996; 61 FR 31045, June 19, 1996; 62 FR 48952, Sept. 18, 1997; 64 FR 4995, Feb. 2, 1999; 67 FR 13220, Mar. 21, 2002; 69 FR 70337, Dec. 3, 2004; 73 FR 9463, Feb. 21, 2008; 73 FR 25587, May 7, 2008; 75 FR 75835, Dec. 6, 2010; 80 FR 33438, June 12, 2015; 80 FR 36217, June 23, 2015; 85 FR 31410, May 26, 2020; 86 FR 12546, Mar. 4, 2021; 89 FR 33258, Apr. 29, 2024]
+(m) The Chief of the Office of Engineering and Technology is delegated authority jointly with the Chief of the Wireless Telecommunications Bureau to administer the Dynamic Frequency Management System (DFMS) and DFMS Administrator functions set forth in part 88 of this chapter. The Chief is delegated authority to administer the process of DFMS Administrator approval in close consultation with the FAA and NTIA, including authority to develop specific methods that will be used to designate DFMS Administrators; to designate DFMS Administrators; to develop procedures that these DFMS Administrators will use to ensure compliance with the requirements for DFMS operation; and to make determinations regarding the continued acceptability of individual DFMS Administrators.
+
+[51 FR 41106, Nov. 13, 1986, as amended at 57 FR 18088, Apr. 29, 1992; 60 FR 5324, Jan. 27, 1995; 60 FR 32119, June 20, 1995; 61 FR 4918, Feb. 9, 1996; 61 FR 31045, June 19, 1996; 62 FR 48952, Sept. 18, 1997; 64 FR 4995, Feb. 2, 1999; 67 FR 13220, Mar. 21, 2002; 69 FR 70337, Dec. 3, 2004; 73 FR 9463, Feb. 21, 2008; 73 FR 25587, May 7, 2008; 75 FR 75835, Dec. 6, 2010; 80 FR 33438, June 12, 2015; 80 FR 36217, June 23, 2015; 85 FR 31410, May 26, 2020; 86 FR 12546, Mar. 4, 2021; 89 FR 33258, Apr. 29, 2024; 90 FR 1394, Jan. 8, 2025]

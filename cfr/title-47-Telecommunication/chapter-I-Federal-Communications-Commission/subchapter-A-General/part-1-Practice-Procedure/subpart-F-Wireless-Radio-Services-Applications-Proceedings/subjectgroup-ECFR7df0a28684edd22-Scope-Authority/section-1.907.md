@@ -1,6 +1,6 @@
 ##### § 1.907 Definitions. #####
 
-Link to an amendment published at 89 FR 100850, Dec. 13, 2024.Link to an amendment published at 90 FR 1395, Jan. 8, 2025.Link to a correction of the above amendment published at 90 FR 5724, Jan. 17, 2025.
+Link to an amendment published at 89 FR 100850, Dec. 13, 2024.Link to a correction of the above amendment published at 90 FR 5724, Jan. 17, 2025.
 
 *Antenna structure.* The term antenna structure includes the radiating and receiving elements, its supporting structures, towers, and all appurtenances mounted thereon.
 
@@ -38,7 +38,7 @@ Link to an amendment published at 89 FR 100850, Dec. 13, 2024.Link to an amendme
 
 *Non-auctionable license application.* A Wireless Radio Service license application for which § 1.2102 of this part precludes the use of competitive bidding if the application is subject to mutually exclusive applications.
 
-*Private Wireless Services.* Wireless Radio Services authorized by parts 80, 87, 90, 95, 96, 97, and 101 that are not Wireless Telecommunications Services, as defined in this part.
+*Private Wireless Services.* Wireless Radio Services authorized by parts 80, 87, 88, 90, 95, 96, 97, and 101 of this chapter that are not Wireless Telecommunications Services, as defined in this part.
 
 *Radio station.* A separate transmitter or a group of transmitters under simultaneous common control, including the accessory equipment required for carrying on a radio communications service.
 
@@ -50,8 +50,8 @@ Link to an amendment published at 89 FR 100850, Dec. 13, 2024.Link to an amendme
 
 *Universal Licensing System.* The Universal Licensing System (ULS) is the consolidated database, application filing system, and processing system for all Wireless Radio Services. ULS supports electronic filing of all applications and related documents by applicants and licensees in the Wireless Radio Services, and provides public access to licensing information.
 
-*Wireless Radio Services.* All radio services authorized in parts 13, 20, 22, 24, 26, 27, 74, 80, 87, 90, 95, 96, 97 and 101 of this chapter, whether commercial or private in nature.
+*Wireless Radio Services.* All radio services authorized in parts 13, 20, 22, 24, 26, 27, 30, 74, 80, 87, 88, 90, 95, 96, 97 and 101 of this chapter, whether commercial or private in nature.
 
 *Wireless Telecommunications Services.* Wireless Radio Services, whether fixed or mobile, that meet the definition of “telecommunications service” as defined by 47 U.S.C. 153, as amended, and are therefore subject to regulation on a common carrier basis.
 
-[63 FR 68921, Dec. 14, 1998, as amended at 73 FR 9018, Feb. 19, 2008; 78 FR 41321, July 10, 2013; 80 FR 36218, June 23, 2015; 81 FR 79930, Nov. 14, 2016; 82 FR 41544, Sept. 1, 2017; 83 FR 7401, Feb. 21, 2018; 83 FR 63095, Dec. 7, 2018; 84 FR 57363, Oct. 25, 2019; 85 FR 22861, Apr. 23, 2020; 85 FR 41929, July 13, 2020; 85 FR 43129, July 16, 2020; 86 FR 17942, Apr. 7, 2021; 88 FR 44736, July 13, 2023; 89 FR 63314, Aug. 5, 2024]
+[63 FR 68921, Dec. 14, 1998, as amended at 73 FR 9018, Feb. 19, 2008; 78 FR 41321, July 10, 2013; 80 FR 36218, June 23, 2015; 81 FR 79930, Nov. 14, 2016; 82 FR 41544, Sept. 1, 2017; 83 FR 7401, Feb. 21, 2018; 83 FR 63095, Dec. 7, 2018; 84 FR 57363, Oct. 25, 2019; 85 FR 22861, Apr. 23, 2020; 85 FR 41929, July 13, 2020; 85 FR 43129, July 16, 2020; 86 FR 17942, Apr. 7, 2021; 88 FR 44736, July 13, 2023; 89 FR 63314, Aug. 5, 2024; 90 FR 1395, Jan. 8, 2025]

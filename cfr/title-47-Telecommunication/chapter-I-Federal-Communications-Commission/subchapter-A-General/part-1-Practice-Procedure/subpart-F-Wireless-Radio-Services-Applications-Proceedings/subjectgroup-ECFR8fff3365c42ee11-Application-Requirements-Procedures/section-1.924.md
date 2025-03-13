@@ -1,7 +1,5 @@
 ##### § 1.924 Quiet zones. #####
 
-Link to an amendment published at 90 FR 1395, Jan. 8, 2025.
-
 Areas implicated by this paragraph are those in which it is necessary to restrict radiation so as to minimize possible impact on the operations of radio astronomy or other facilities that are highly sensitive to interference. Consent throughout this paragraph means written consent from the quiet zone, radio astronomy, research, and receiving installation entity. The areas involved and procedures required are as follows:
 
 (a) *NRAO, NRRO.* The requirements of this paragraph are intended to minimize possible interference at the National Radio Astronomy Observatory site located at Green Bank, Pocahontas County, West Virginia, and at the Naval Radio Research Observatory site at Sugar Grove, Pendleton County, West Virginia.
@@ -11,6 +9,8 @@ Areas implicated by this paragraph are those in which it is necessary to restric
 (2) When an application for authority to operate a station is filed with the FCC, the notification required in paragraph (a)(1) of this section may be made prior to, or simultaneously with the application. The application must state the date that notification in accordance with paragraph (a)(1) of this section was made. After receipt of such applications, the FCC will allow a period of 20 days for comments or objections in response to the notifications indicated. If an applicant submits written consent from the National Radio Astronomy Observatory for itself or on behalf of the Naval Radio Research Observatory, the FCC will process the application without awaiting the conclusion of the 20-day period. For services that do not require individual station authorization, entities that have obtained written consent from the National Radio Astronomy Observatory for itself or on behalf of the Naval Radio Research Observatory may begin to operate new or modified facilities prior to the end of the 20-day period. In instances in which notification has been made to the National Radio Astronomy Observatory prior to application filing, the applicant must also provide notice to the quiet zone entity upon actual filing of the application with the FCC. Such notice will be made simultaneous with the filing of the application and shall comply with the requirements of paragraph (a)(1) of this section.
 
 (3) If an objection is received during the 20-day period from the National Radio Astronomy Observatory for itself or on behalf of the Naval Radio Research Observatory, the FCC will, after consideration of the record, take whatever action is deemed appropriate.
+
+(4) Parties subject to subpart B of part 88 of this chapter shall follow the requirements of § 88.35 of this chapter instead of the requirements of paragraph (a) of this section.
 
 (b) *Table Mountain.* The requirements of this paragraph are intended to minimize possible interference at the Table Mountain Radio Receiving Zone of the Research Laboratories of the Department of Commerce located in Boulder County, Colorado.
 
@@ -149,4 +149,4 @@ Note to § 1.924:
 
 Unless otherwise noted, all coordinates cited in this section are specified in terms of the North American Datum of 1983 (NAD 83).
 
-[63 FR 68924, Dec. 14, 1998, as amended at 67 FR 6182, Feb. 11, 2002; 67 FR 13224, Mar. 21, 2002; 67 FR 41852, June 20, 2002; 67 FR 71111, Nov. 29, 2002; 69 FR 17957, Apr. 6, 2004; 70 FR 31372, June 1, 2005; 71 FR 69046, Nov. 29, 2006; 73 FR 25420, May 6, 2008; 75 FR 62932, Oct. 13, 2010; 80 FR 38823, July 7, 2015]
+[63 FR 68924, Dec. 14, 1998, as amended at 67 FR 6182, Feb. 11, 2002; 67 FR 13224, Mar. 21, 2002; 67 FR 41852, June 20, 2002; 67 FR 71111, Nov. 29, 2002; 69 FR 17957, Apr. 6, 2004; 70 FR 31372, June 1, 2005; 71 FR 69046, Nov. 29, 2006; 73 FR 25420, May 6, 2008; 75 FR 62932, Oct. 13, 2010; 80 FR 38823, July 7, 2015; 90 FR 1395, Jan. 8, 2025]

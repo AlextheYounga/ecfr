@@ -1,12 +1,10 @@
 ##### § 2.1055 Measurements required: Frequency stability. #####
 
-Link to an amendment published at 90 FR 1395, Jan. 8, 2025.
-
 (a) The frequency stability shall be measured with variation of ambient temperature as follows:
 
 (1) From −30° to + 50° centigrade for all equipment except that specified in paragraphs (a) (2) and (3) of this section.
 
-(2) From −20° to + 50° centigrade for equipment to be licensed for use in the Maritime Services under part 80 of this chapter, except for Class A, B, and S Emergency Position Indicating Radiobeacons (EPIRBS), and equipment to be licensed for use above 952 MHz at operational fixed stations in all services, stations in the Local Television Transmission Service and Point-to-Point Microwave Radio Service under part 21 of this chapter, equipment licensed for use aboard aircraft in the Aviation Services under part 87 of this chapter, and equipment authorized for use in the Family Radio Service under part 95 of this chapter.
+(2) From −20° to +50° centigrade for equipment to be licensed for use in the Maritime Services under part 80 of this chapter, except for Class A, B, and S Emergency Position Indicating Radiobeacons (EPIRBS), and equipment to be licensed for use above 952 MHz at operational fixed stations in all services, stations in the Local Television Transmission Service and Point-to-Point Microwave Radio Service under part 21 of this chapter, equipment licensed for use aboard aircraft in the Aviation Services under part 87 of this chapter, uncrewed aircraft stations (as defined in § 88.5 of this chapter) in the Uncrewed Aircraft System Services under part 88 of this chapter, and equipment authorized for use in the Family Radio Service under part 95 of this chapter.
 
 (3) From 0° to + 50° centigrade for equipment to be licensed for use in the Radio Broadcast Services under part 73 of this chapter.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 90 FR 1395, Jan. 8, 2025.
 
 (e) When deemed necessary, the Commission may require tests of frequency stability under conditions in addition to those specifically set out in paragraphs (a), (b), (c), and (d) of this section. (For example measurements showing the effect of proximity to large metal objects, or of various types of antennas, may be required for portable equipment.)
 
-[39 FR 5919, Feb. 14, 1974, as amended at 51 FR 31304, Sept. 2, 1986; 56 FR 11682, Mar. 20, 1991. Redesignated at 63 FR 36599, July 7, 1998. 68 FR 68545, Dec. 9, 2003]
+[39 FR 5919, Feb. 14, 1974, as amended at 51 FR 31304, Sept. 2, 1986; 56 FR 11682, Mar. 20, 1991. Redesignated at 63 FR 36599, July 7, 1998. 68 FR 68545, Dec. 9, 2003; 90 FR 1395, Jan. 8, 2025]
