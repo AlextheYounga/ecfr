@@ -1,5 +1,7 @@
 ##### § 91.113 Right-of-way rules: Except water operations. #####
 
+Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
+
 (a) *Inapplicability.* This section does not apply to the operation of an aircraft on water.
 
 (b) *General.* When weather conditions permit, regardless of whether an operation is conducted under instrument flight rules or visual flight rules, vigilance shall be maintained by each person operating an aircraft so as to see and avoid other aircraft. When a rule of this section gives another aircraft the right-of-way, the pilot shall give way to that aircraft and may not pass over, under, or ahead of it unless well clear.

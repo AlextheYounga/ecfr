@@ -1,5 +1,7 @@
 ##### § 135.244 Operating experience. #####
 
+Link to an amendment published at 89 FR 92487, Nov. 21, 2024.
+
 (a) No certificate holder may use any person, nor may any person serve, as a pilot in command of an aircraft operated in a commuter operation, as defined in part 119 of this chapter unless that person has completed, prior to designation as pilot in command, on that make and basic model aircraft and in that crewmember position, the following operating experience in each make and basic model of aircraft to be flown:
 
 (1) Aircraft, single engine—10 hours.

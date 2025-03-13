@@ -2,7 +2,7 @@
 
 (a) Each cable, cable fitting, turnbuckle, splice, and pulley must be approved. In addition—
 
-(1) No cable smaller than1/8 inch in diameter may be used in the aileron, elevator, or rudder systems; and
+(1) No cable smaller than 1/8 inch in diameter may be used in the aileron, elevator, or rudder systems; and
 
 (2) Each cable system must be designed so that there will be no hazardous change in cable tension throughout the range of travel under operating conditions and temperature variations.
 

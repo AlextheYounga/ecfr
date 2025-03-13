@@ -1,5 +1,7 @@
 ##### § 135.340 Initial and transition training and checking: Flight instructors (aircraft), flight instructors (simulator). #####
 
+Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
+
 (a) No certificate holder may use a person nor may any person serve as a flight instructor unless—
 
 (1) That person has satisfactorily completed initial or transition flight instructor training; and

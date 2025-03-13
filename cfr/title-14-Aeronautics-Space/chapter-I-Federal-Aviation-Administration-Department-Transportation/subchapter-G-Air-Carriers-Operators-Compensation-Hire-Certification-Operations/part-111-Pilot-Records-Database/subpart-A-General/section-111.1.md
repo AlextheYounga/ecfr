@@ -1,5 +1,7 @@
 ##### § 111.1 Applicability. #####
 
+Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
+
 (a) This part prescribes rules governing the use of the Pilot Records Database (PRD).
 
 (b) Except as provided in subsection (c) of this section, this part applies to:

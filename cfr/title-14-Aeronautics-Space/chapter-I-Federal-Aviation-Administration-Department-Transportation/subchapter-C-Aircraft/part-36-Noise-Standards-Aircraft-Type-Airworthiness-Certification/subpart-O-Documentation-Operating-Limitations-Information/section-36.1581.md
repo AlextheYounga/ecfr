@@ -22,4 +22,4 @@ No determination has been made by the Federal Aviation Administration that the n
 
 (g) Except as provided in paragraphs (d), (e), and (f) of this section, no operating limitations are furnished under this part.
 
-[Doc. No. 13243, 40 FR 1035, Jan. 6, 1975]Editorial Note:For Federal Register citations affecting § 36.1581, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Doc. No. 13243, 40 FR 1035, Jan. 6, 1975] Editorial Note:For Federal Register citations affecting § 36.1581, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

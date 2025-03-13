@@ -1,6 +1,6 @@
 ##### § 61.57 Recent flight experience: Pilot in command. #####
 
-Link to an amendment published at 89 FR 80339, Oct. 2, 2024.
+Link to an amendment published at 89 FR 80339, Oct. 2, 2024.Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
 
 (a) *General experience.* (1) Except as provided in paragraph (e) of this section, no person may act as a pilot in command of an aircraft carrying passengers or of an aircraft certificated for more than one pilot flight crewmember unless that person has made at least three takeoffs and three landings within the preceding 90 days, and—
 
@@ -132,4 +132,4 @@ Link to an amendment published at 89 FR 80339, Oct. 2, 2024.
 
 (6) A person approved by the FAA to perform night vision goggle proficiency checks.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40898, July 30, 1997]Editorial Note:For Federal Register citations affecting § 61.57, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40898, July 30, 1997] Editorial Note:For Federal Register citations affecting § 61.57, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

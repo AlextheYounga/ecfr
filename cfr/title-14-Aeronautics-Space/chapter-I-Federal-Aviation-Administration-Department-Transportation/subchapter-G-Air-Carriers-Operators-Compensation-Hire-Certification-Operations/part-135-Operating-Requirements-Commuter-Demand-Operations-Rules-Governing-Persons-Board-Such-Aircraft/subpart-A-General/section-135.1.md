@@ -1,5 +1,7 @@
 ##### § 135.1 Applicability. #####
 
+Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
+
 (a) This part prescribes rules governing—
 
 (1) The commuter or on-demand operations of each person who holds or is required to hold an Air Carrier Certificate or Operating Certificate under part 119 of this chapter.

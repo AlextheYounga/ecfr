@@ -1,5 +1,7 @@
 ##### § 141.37 Check instructor qualifications. #####
 
+Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
+
 (a) To be designated as a check instructor for conducting student stage checks, end-of-course tests, and instructor proficiency checks under this part, a person must meet the eligibility requirements of this section:
 
 (1) For checks and tests that relate to either flight or ground training, the person must pass a test, given by the chief instructor, on—

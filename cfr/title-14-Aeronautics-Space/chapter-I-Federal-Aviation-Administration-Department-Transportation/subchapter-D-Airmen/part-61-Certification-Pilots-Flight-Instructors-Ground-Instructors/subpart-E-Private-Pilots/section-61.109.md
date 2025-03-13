@@ -1,5 +1,7 @@
 ##### § 61.109 Aeronautical experience. #####
 
+Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
+
 (a) *For an airplane single-engine rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with an airplane category and single-engine class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(1) of this part, and the training must include at least—
 
 (1) 3 hours of cross-country flight training in a single-engine airplane;

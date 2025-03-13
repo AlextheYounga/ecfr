@@ -410,7 +410,7 @@ The phase shall advance (or retard) monotonically throughout the transition regi
 
 (2) CW. The CW pulse transmissions and the CW angle transmissions as may be required in the signal format of any function must have characteristics such that the requirements of paragraph (d) of this section are met.
 
-(d) *Radio frequency signal spectrum.* The transmitted signal must be such that during the transmission time, the mean power density above a height of 600 meters (2000 feet) does not exceed −100.5 dBW/m2 for angle guidance and −95.5 dBW/m2 for data, as measured in a 150 KHz bandwidth centered at a frequency of 840 KHz or more from the assigned frequency.
+(d) *Radio frequency signal spectrum.* The transmitted signal must be such that during the transmission time, the mean power density above a height of 600 meters (2000 feet) does not exceed −100.5 dBW/m 2 for angle guidance and −95.5 dBW/m 2 for data, as measured in a 150 KHz bandwidth centered at a frequency of 840 KHz or more from the assigned frequency.
 
 (e) *Synchronization.* Synchronization between the azimuth and elevation components is required and, in split-site configurations, would normally be accomplished by landline interconnections. Synchronization monitoring must be provided to preclude function overlap.
 

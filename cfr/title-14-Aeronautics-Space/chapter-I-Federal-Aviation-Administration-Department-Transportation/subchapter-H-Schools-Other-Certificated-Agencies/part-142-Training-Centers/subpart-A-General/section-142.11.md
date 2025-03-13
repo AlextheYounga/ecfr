@@ -1,5 +1,7 @@
 ##### § 142.11 Application for issuance or amendment. #####
 
+Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
+
 (a) An application for a training center certificate and training specifications shall—
 
 (1) Be made on a form and in a manner prescribed by the Administrator;

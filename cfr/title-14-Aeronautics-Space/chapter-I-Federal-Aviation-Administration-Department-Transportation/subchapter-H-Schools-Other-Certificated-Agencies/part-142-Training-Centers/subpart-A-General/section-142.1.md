@@ -1,5 +1,7 @@
 ##### § 142.1 Applicability. #####
 
+Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
+
 (a) This subpart prescribes the requirements governing the certification and operation of training centers. Except as provided in paragraph (b) of this section, this part provides an alternative means to accomplish training required by parts 61, 63, 65, 91, 121, 125, 135, or 137 of this chapter.
 
 (b) Certification under this part is not required for training that is—

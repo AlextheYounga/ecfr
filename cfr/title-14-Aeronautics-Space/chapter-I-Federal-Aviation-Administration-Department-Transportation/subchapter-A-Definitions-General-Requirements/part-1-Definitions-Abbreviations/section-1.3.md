@@ -1,5 +1,7 @@
 ##### § 1.3 Rules of construction. #####
 
+Link to an amendment published at 89 FR 92483, Nov. 21, 2024.
+
 (a) In Subchapters A through K of this chapter, unless the context requires otherwise:
 
 (1) Words importing the singular include the plural;

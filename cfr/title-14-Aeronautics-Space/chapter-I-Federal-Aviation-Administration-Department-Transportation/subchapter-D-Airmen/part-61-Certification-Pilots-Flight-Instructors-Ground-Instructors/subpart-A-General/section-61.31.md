@@ -1,5 +1,7 @@
 ##### § 61.31 Type rating requirements, additional training, and authorization requirements. #####
 
+Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
+
 (a) *Type ratings required.* A person who acts as a pilot in command of any of the following aircraft must hold a type rating for that aircraft:
 
 (1) Large aircraft (except lighter-than-air).

@@ -10,4 +10,4 @@
 
 (e) If the rear position light, when mounted as far aft as practicable in accordance with § 29.1385(c), cannot show unbroken light within dihedral angle A (as defined in paragraph (d) of this section), a solid angle or angles of obstructed visibility totaling not more than 0.04 steradians is allowable within that dihedral angle, if such solid angle is within a cone whose apex is at the rear position light and whose elements make an angle of 30° with a vertical line passing through the rear position light.
 
-(49 U.S.C. 1655(c))[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-9, 36 FR 21279, Nov. 5, 1971]
+(49 U.S.C. 1655(c)) [Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-9, 36 FR 21279, Nov. 5, 1971]

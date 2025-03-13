@@ -10,7 +10,7 @@
 
 (2) May establish conditions for the conduct of commercial air tour operations, including, but not limited to, commercial air tour routes, maximum number of flights per unit of time, maximum and minimum altitudes, time of day restrictions, restrictions for particular events, intrusions on privacy on tribal lands, and mitigation of noise, visual, or other impacts;
 
-(3) Shall apply to all commercial air tour operations within1/2 mile outside the boundary of a national park;
+(3) Shall apply to all commercial air tour operations within 1/2 mile outside the boundary of a national park;
 
 (4) Shall include incentives (such as preferred commercial air tour routes and altitudes, and relief from caps and curfews) for the adoption of quiet technology aircraft by commercial air tour operators conducting commercial air tour operations at the park;
 

@@ -1,6 +1,6 @@
 ##### § 61.39 Prerequisites for practical tests. #####
 
-Link to an amendment published at 89 FR 80049, Oct. 1, 2024.
+Link to an amendment published at 89 FR 80049, Oct. 1, 2024.Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
 (a) Except as provided in paragraphs (b), (c), and (e) of this section, to be eligible for a practical test for a certificate or rating issued under this part, an applicant must:
 

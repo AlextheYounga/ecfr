@@ -1,5 +1,7 @@
 ##### § 135.179 Inoperable instruments and equipment. #####
 
+Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
+
 (a) No person may take off an aircraft with inoperable instruments or equipment installed unless the following conditions are met:
 
 (1) An approved Minimum Equipment List exists for that aircraft.

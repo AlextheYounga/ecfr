@@ -1,5 +1,7 @@
 ##### § 61.163 Aeronautical experience: Powered-lift category rating. #####
 
+Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
+
 (a) A person who is applying for an airline transport pilot certificate with a powered-lift category rating must have at least 1,500 hours of total time as a pilot that includes at least:
 
 (1) 500 hours of cross-country flight time;

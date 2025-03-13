@@ -1,6 +1,6 @@
 ##### § 61.51 Pilot logbooks. #####
 
-Link to an amendment published at 89 FR 80050, Oct. 1, 2024.Link to an amendment published at 89 FR 80339, Oct. 2, 2024.
+Link to an amendment published at 89 FR 80050, Oct. 1, 2024.Link to an amendment published at 89 FR 80339, Oct. 2, 2024.Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
 (a) *Training time and aeronautical experience.* Each person must document and record the following time in a manner acceptable to the Administrator:
 

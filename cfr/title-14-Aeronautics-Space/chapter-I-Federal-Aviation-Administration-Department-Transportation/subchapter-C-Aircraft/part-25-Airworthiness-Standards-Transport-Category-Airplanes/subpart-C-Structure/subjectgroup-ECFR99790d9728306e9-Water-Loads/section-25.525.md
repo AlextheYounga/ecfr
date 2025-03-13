@@ -6,6 +6,6 @@
 
 (c) For twin float seaplanes, each float must be treated as an equivalent hull on a fictitious seaplane with a weight equal to one-half the weight of the twin float seaplane.
 
-(d) Except in the takeoff condition of § 25.531, the aerodynamic lift on the seaplane during the impact is assumed to be2/3 of the weight of the seaplane.
+(d) Except in the takeoff condition of § 25.531, the aerodynamic lift on the seaplane during the impact is assumed to be 2/3 of the weight of the seaplane.
 
 [Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Doc. No. FAA-2022-1355, Amdt. 25-148, 87 FR 75710, Dec. 9, 2022; 88 FR 2813, Jan. 18, 2023]

@@ -1,5 +1,7 @@
 ##### § 61.64 Use of a flight simulator and flight training device. #####
 
+Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
+
 (a) *Use of a flight simulator or flight training device.* If an applicant for a certificate or rating uses a flight simulator or flight training device for training or any portion of the practical test, the flight simulator and flight training device—
 
 (1) Must represent the category, class, and type (if a type rating is applicable) for the rating sought; and

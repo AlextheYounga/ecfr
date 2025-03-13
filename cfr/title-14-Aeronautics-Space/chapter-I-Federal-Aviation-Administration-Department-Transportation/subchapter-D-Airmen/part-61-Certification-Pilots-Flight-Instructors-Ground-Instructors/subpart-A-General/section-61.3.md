@@ -1,5 +1,7 @@
 ##### § 61.3 Requirement for certificates, ratings, and authorizations. #####
 
+Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
+
 (a) *Required pilot certificate for operating a civil aircraft of the United States.* No person may serve as a required pilot flight crewmember of a civil aircraft of the United States, unless that person:
 
 (1) Has in the person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate or authorization—

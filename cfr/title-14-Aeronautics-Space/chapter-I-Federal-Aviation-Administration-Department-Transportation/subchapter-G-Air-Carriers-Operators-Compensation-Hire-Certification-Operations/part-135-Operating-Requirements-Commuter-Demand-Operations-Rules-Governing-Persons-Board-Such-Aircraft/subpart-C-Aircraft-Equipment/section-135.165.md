@@ -1,5 +1,7 @@
 ##### § 135.165 Communication and navigation equipment: Extended over-water or IFR operations. #####
 
+Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
+
 (a) *Aircraft navigation equipment requirements*—*General.* Except as provided in paragraph (g) of this section, no person may conduct operations under IFR or extended over-water unless—
 
 (1) The en route navigation aids necessary for navigating the aircraft along the route (e.g., ATS routes, arrival and departure routes, and instrument approach procedures, including missed approach procedures if a missed approach routing is specified in the procedure) are available and suitable for use by the navigation systems required by this section:

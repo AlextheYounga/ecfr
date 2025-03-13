@@ -1,6 +1,6 @@
 ##### § 1.1 General definitions. #####
 
-Link to an amendment published at 89 FR 80338, Oct. 2, 2024.
+Link to an amendment published at 89 FR 80338, Oct. 2, 2024.Link to an amendment published at 89 FR 92483, Nov. 21, 2024.
 
 As used in Subchapters A through K of this chapter, unless the context requires otherwise:
 

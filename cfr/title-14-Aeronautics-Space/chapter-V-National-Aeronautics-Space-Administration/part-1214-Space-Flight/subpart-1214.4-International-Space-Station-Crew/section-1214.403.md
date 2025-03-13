@@ -2,7 +2,7 @@
 
 The Code of Conduct for the International Space Station Crew, which sets forth minimum standards for NASA-provided International Space Station crewmembers, is as follows:
 
-Code of Conduct for the International Space Station CrewI. IntroductionA. Authority
+Code of Conduct for the International Space Station Crew I. Introduction A. Authority
 
 This Code of Conduct for the International Space Station (ISS) crew, hereinafter referred to as Crew Code of Conduct (CCOC), is established pursuant to:
 
@@ -34,7 +34,7 @@ For the purposes of the CCOC:
 
 (7) “ISS crewmembers” means any person approved for flight to the ISS, including both ISS expedition crew and visiting crew, beginning upon assignment to the crew for a specific and ending upon completion of the postflight activities related to the mission.
 
-II. General StandardsA. Responsibilities of ISS Crewmembers
+II. General Standards A. Responsibilities of ISS Crewmembers
 
 ISS Crewmembers shall comply with the CCOC. Accordingly, during preflight, on-orbit, and postflight activities, they shall comply with the ISS Commander's orders, all Flight and ISS program Rules, operational directives, and management policies, as applicable. These include those related to safety, health, well-being, security, and other operational or management matters governing all aspects of ISS elements, equipment, payloads and facilities, and non-ISS facilities, to which they have access. All applicable rules, regulations, directives, and policies shall be made accessible to ISS crewmembers through appropriate means, coordinated by the MCOP.
 
@@ -62,7 +62,7 @@ An ISS crewmember's personal effects, such as a wristwatch, will not be consider
 
 If a Cooperating Agency carries and stores items onboard the ISS in connection with separate arrangements, these items will not be considered mementos of the ISS crewmembers.
 
-III. Authority and Responsibilities of the ISS Commander, Chain of Command and Succession Onorbit; Relationship Between Ground and On-Orbit ManagementA. Authority and Responsibilities of the ISS Commander
+III. Authority and Responsibilities of the ISS Commander, Chain of Command and Succession Onorbit; Relationship Between Ground and On-Orbit Management A. Authority and Responsibilities of the ISS Commander
 
 The ISS Commander, as an ISS crewmember, is subject to the standards detailed elsewhere in this CCOC, in addition to the command-specific provisions set forth below:
 
@@ -74,7 +74,7 @@ For avoidance of doubt, nothing in this Section shall affect the ability of the 
 
 The ISS Commander is the leader of the crew and is responsible for forming the individual ISS crewmembers into a single, integrated team. During preflight activities, the ISS Commander, to the extent of his or her authority, leads the ISS crewmembers through the training curriculum and mission-preparation activities and seeks to ensure that the ISS crewmembers are adequately prepared for the mission, acting as the crew's representative to the ISS program's training, medical, operations, and utilization authorities. During postflight activities, the ISS Commander coordinates as necessary with these authorities to ensure that the ISS crewmembers complete the required postflight activities.
 
-(2) During On-Orbit Operations(a) General
+(2) During On-Orbit Operations (a) General
 
 The ISS Commander is responsible for and will, to the extent of his or her authority and the ISS on-orbit capabilities, accomplish the mission program implementation and ensure the safety of the ISS crewmembers and the protection of the ISS elements, equipment, or payloads.
 

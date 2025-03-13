@@ -1,5 +1,7 @@
 ##### § 61.5 Certificates and ratings issued under this part. #####
 
+Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
+
 (a) The following certificates are issued under this part to an applicant who satisfactorily accomplishes the training and certification requirements for the certificate sought:
 
 (1) Pilot certificates—

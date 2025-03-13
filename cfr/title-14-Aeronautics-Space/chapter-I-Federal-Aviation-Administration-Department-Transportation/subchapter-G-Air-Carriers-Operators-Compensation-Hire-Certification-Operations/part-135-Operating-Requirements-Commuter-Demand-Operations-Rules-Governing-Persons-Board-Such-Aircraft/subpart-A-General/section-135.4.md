@@ -30,7 +30,7 @@
 
 (ii) In any of the following conditions:
 
-(A) The prevailing visibility for the airport is at or below3/4 mile.
+(A) The prevailing visibility for the airport is at or below 3/4 mile.
 
 (B) The runway visual range for the runway to be used is at or below 4,000 feet.
 

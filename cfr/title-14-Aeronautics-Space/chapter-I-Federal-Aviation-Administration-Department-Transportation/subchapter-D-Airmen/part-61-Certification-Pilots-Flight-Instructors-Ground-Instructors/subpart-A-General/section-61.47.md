@@ -1,5 +1,7 @@
 ##### § 61.47 Status of an examiner who is authorized by the Administrator to conduct practical tests. #####
 
+Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
+
 (a) An examiner represents the Administrator for the purpose of conducting practical tests for certificates and ratings issued under this part and to observe an applicant's ability to perform the areas of operation on the practical test.
 
 (b) The examiner is not the pilot in command of the aircraft during the practical test unless the examiner agrees to act in that capacity for the flight or for a portion of the flight by prior arrangement with:

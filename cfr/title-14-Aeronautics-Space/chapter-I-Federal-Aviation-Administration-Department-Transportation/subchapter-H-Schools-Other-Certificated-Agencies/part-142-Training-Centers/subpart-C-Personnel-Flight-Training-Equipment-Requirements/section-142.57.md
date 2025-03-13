@@ -1,5 +1,7 @@
 ##### § 142.57 Aircraft requirements. #####
 
+Link to an amendment published at 89 FR 92489, Nov. 21, 2024.
+
 (a) An applicant for, or holder of, a training center certificate must ensure that each aircraft used for flight instruction and solo flights meets the following requirements:
 
 (1) Except for flight instruction and solo flights in a curriculum for agricultural aircraft operations, external load operations, and similar aerial work operations, the aircraft must have an FAA standard airworthiness certificate or a foreign equivalent of an FAA standard airworthiness certificate, acceptable to the Administrator.

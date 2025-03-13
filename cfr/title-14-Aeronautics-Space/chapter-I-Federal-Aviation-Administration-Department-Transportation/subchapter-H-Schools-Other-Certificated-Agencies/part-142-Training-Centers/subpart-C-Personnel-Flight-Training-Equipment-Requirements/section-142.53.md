@@ -1,5 +1,7 @@
 ##### § 142.53 Training center instructor training and testing requirements. #####
 
+Link to an amendment published at 89 FR 92489, Nov. 21, 2024.
+
 (a) Except as provided in paragraph (c) of this section, prior to designation and every 12 calendar months beginning the first day of the month following an instructor's initial designation, a certificate holder must ensure that each of its instructors meets the following requirements:
 
 (1) Each instructor must satisfactorily demonstrate to an authorized evaluator knowledge of, and proficiency in, instructing in a representative segment of each curriculum for which that instructor is designated to instruct under this part.

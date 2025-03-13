@@ -1,5 +1,7 @@
 ##### § 135.243 Pilot in command qualifications. #####
 
+Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
+
 (a) No certificate holder may use a person, nor may any person serve, as pilot in command in passenger-carrying operations—
 
 (1) Of a turbojet airplane, of an airplane having a passenger-seat configuration, excluding each crewmember seat, of 10 seats or more, or of a multiengine airplane in a commuter operation as defined in part 119 of this chapter, unless that person holds an airline transport pilot certificate with appropriate category and class ratings and, if required, an appropriate type rating for that airplane.

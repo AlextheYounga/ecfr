@@ -1,5 +1,7 @@
 ##### § 91.1 Applicability. #####
 
+Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
+
 (a) Except as provided in paragraphs (b), (c), (e), and (f) of this section and §§ 91.701 and 91.703, this part prescribes rules governing the operation of aircraft within the United States, including the waters within 3 nautical miles of the U.S. coast.
 
 (b) Each person operating an aircraft in the airspace overlying the waters between 3 and 12 nautical miles from the coast of the United States must comply with §§ 91.1 through 91.21; §§ 91.101 through 91.143; §§ 91.151 through 91.159; §§ 91.167 through 91.193; § 91.203; § 91.205; §§ 91.209 through 91.217; § 91.221, § 91.225; §§ 91.303 through 91.319; §§ 91.323 through 91.327; § 91.605; § 91.609; §§ 91.703 through 91.715; and § 91.903.

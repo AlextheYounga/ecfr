@@ -16,4 +16,4 @@
 
 (6) Any additional tests required for new or unusual design features.
 
-(Secs. 604, 605, 72 Stat. 778, 49 U.S.C. 1424, 1425)[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-4, 33 FR 14106, Sept. 18, 1968; Amdt. 27-26, 55 FR 8001, Mar. 6, 1990]
+(Secs. 604, 605, 72 Stat. 778, 49 U.S.C. 1424, 1425) [Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-4, 33 FR 14106, Sept. 18, 1968; Amdt. 27-26, 55 FR 8001, Mar. 6, 1990]

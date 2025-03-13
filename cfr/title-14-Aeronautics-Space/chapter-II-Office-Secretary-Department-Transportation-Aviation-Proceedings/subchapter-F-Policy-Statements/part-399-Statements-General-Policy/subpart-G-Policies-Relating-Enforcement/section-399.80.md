@@ -2,7 +2,7 @@
 
 It is the policy of the Department to regard as an unfair or deceptive practice or unfair method of competition the practices enumerated in paragraphs (a) through (o) of this section by a ticket agent of any size and the practice enumerated in paragraph (s) of this section by a ticket agent that sells air transportation online and is not considered a small business under the Small Business Administration's size standards set forth in 13 CFR 121.201:
 
-(a) Misrepresentations1 which may induce members of the public to believe that the ticket agent is an air carrier.
+(a) Misrepresentations 1 which may induce members of the public to believe that the ticket agent is an air carrier.
 
 1 The word “misrepresentation” used in this list includes any statement or representation made in advertising or made orally to members of the public which is false, fraudulent, deceptive or misleading, or which has the tendency or capacity to deceive or mislead.
 

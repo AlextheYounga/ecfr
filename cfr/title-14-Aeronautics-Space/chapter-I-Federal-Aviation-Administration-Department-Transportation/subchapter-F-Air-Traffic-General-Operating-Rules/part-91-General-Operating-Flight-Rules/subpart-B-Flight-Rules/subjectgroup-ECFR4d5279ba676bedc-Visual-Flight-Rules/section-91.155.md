@@ -42,9 +42,9 @@
 
 (b) *Class G Airspace.* Notwithstanding the provisions of paragraph (a) of this section, the following operations may be conducted in Class G airspace below 1,200 feet above the surface:
 
-(1) *Helicopter.* A helicopter may be operated clear of clouds in an airport traffic pattern within1/2 mile of the runway or helipad of intended landing if the flight visibility is not less than1/2 statute mile.
+(1) *Helicopter.* A helicopter may be operated clear of clouds in an airport traffic pattern within 1/2 mile of the runway or helipad of intended landing if the flight visibility is not less than 1/2 statute mile.
 
-(2) *Airplane, powered parachute, or weight-shift-control aircraft.* If the visibility is less than 3 statute miles but not less than 1 statute mile during night hours and you are operating in an airport traffic pattern within1/2 mile of the runway, you may operate an airplane, powered parachute, or weight-shift-control aircraft clear of clouds.
+(2) *Airplane, powered parachute, or weight-shift-control aircraft.* If the visibility is less than 3 statute miles but not less than 1 statute mile during night hours and you are operating in an airport traffic pattern within 1/2 mile of the runway, you may operate an airplane, powered parachute, or weight-shift-control aircraft clear of clouds.
 
 (c) Except as provided in § 91.157, no person may operate an aircraft beneath the ceiling under VFR within the lateral boundaries of controlled airspace designated to the surface for an airport when the ceiling is less than 1,000 feet.
 

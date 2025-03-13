@@ -1,5 +1,7 @@
 ##### § 61.45 Practical tests: Required aircraft and equipment. #####
 
+Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
+
 (a) *General.* Except as provided in paragraph (a)(2) of this section or when permitted to accomplish the entire flight increment of the practical test in a flight simulator or a flight training device, an applicant for a certificate or rating issued under this part must furnish:
 
 (1) An aircraft of U.S. registry for each required test that—

@@ -1,5 +1,7 @@
 ##### § 61.55 Second-in-command qualifications. #####
 
+Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
+
 (a) A person may serve as a second-in-command of an aircraft type certificated for more than one required pilot flight crewmember or in operations requiring a second-in-command pilot flight crewmember only if that person holds:
 
 (1) At least a private pilot certificate with the appropriate category and class rating; and

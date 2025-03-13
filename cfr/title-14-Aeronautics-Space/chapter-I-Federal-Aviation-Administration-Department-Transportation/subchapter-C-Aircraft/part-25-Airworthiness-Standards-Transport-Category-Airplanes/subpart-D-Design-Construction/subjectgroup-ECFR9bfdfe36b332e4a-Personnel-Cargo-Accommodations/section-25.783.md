@@ -84,7 +84,7 @@
 
 (h) *Doors that are not a hazard.* For the purposes of this section, a door is considered not to be a hazard in the unlatched condition during flight, provided it can be shown to meet all of the following conditions:
 
-(1) Doors in pressurized compartments would remain in the fully closed position if not restrained by the latches when subject to a pressure greater than1/2 psi. Opening by persons, either inadvertently or intentionally, need not be considered in making this determination.
+(1) Doors in pressurized compartments would remain in the fully closed position if not restrained by the latches when subject to a pressure greater than 1/2 psi. Opening by persons, either inadvertently or intentionally, need not be considered in making this determination.
 
 (2) The door would remain inside the airplane or remain attached to the airplane if it opens either in pressurized or unpressurized portions of the flight. This determination must include the consideration of inadvertent and intentional opening by persons during either pressurized or unpressurized portions of the flight.
 

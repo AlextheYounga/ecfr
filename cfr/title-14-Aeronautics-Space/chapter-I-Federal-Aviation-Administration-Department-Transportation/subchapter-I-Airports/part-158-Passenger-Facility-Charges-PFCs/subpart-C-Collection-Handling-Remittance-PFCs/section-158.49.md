@@ -12,7 +12,7 @@
 
 (iii) The minimum PFC reserve balance must never fall below the fixed amount defined in paragraph (c)(1)(ii) of this section.
 
-(iv) A covered air carrier may continue to deposit the PFCs it collects into its general operating accounts combined with ticket sales revenue. However, at least once every business day, the covered air carrier must remove all PFC revenue (Daily PFC amount) from those accounts and transfer it to the new PFC account. An estimate based on1/30 of the PFC reserve balance is permitted in substitution of the Daily PFC amount.
+(iv) A covered air carrier may continue to deposit the PFCs it collects into its general operating accounts combined with ticket sales revenue. However, at least once every business day, the covered air carrier must remove all PFC revenue (Daily PFC amount) from those accounts and transfer it to the new PFC account. An estimate based on 1/30 of the PFC reserve balance is permitted in substitution of the Daily PFC amount.
 
 (A) In the event a covered air carrier ceases operations while still owing PFC remittances, the PFC reserve fund may be used to make those remittances. If there is any balance in the PFC reserve fund after all PFC remittances are made, that balance will be returned to the covered air carrier's general account.
 

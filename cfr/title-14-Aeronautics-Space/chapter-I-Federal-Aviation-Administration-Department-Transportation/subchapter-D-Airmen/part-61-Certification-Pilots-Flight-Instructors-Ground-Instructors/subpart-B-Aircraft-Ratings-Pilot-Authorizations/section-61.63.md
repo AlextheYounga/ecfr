@@ -1,5 +1,7 @@
 ##### § 61.63 Additional aircraft ratings (other than for ratings at the airline transport pilot certification level). #####
 
+Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
+
 (a) *General.* For an additional aircraft rating on a pilot certificate, other than for an airline transport pilot certificate, a person must meet the requirements of this section appropriate to the additional aircraft rating sought.
 
 (b) *Additional aircraft category rating.* A person who applies to add a category rating to a pilot certificate:

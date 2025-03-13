@@ -1,5 +1,7 @@
 ##### § 91.1053 Crewmember experience. #####
 
+Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
+
 (a) No program manager or owner may use any person, nor may any person serve, as a pilot in command or second in command of a program aircraft, or as a flight attendant on a program aircraft, in program operations under this subpart unless that person has met the applicable requirements of part 61 of this chapter and has the following experience and ratings:
 
 (1) Total flight time for all pilots:

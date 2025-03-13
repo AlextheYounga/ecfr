@@ -1,5 +1,7 @@
 ##### § 135.293 Initial and recurrent pilot testing requirements. #####
 
+Link to an amendment published at 89 FR 92487, Nov. 21, 2024.
+
 (a) No certificate holder may use a pilot, nor may any person serve as a pilot, unless, since the beginning of the 12th calendar month before that service, that pilot has passed a written or oral test, given by the Administrator or an authorized check pilot, on that pilot's knowledge in the following areas—
 
 (1) The appropriate provisions of parts 61, 91, and 135 of this chapter and the operations specifications and the manual of the certificate holder;

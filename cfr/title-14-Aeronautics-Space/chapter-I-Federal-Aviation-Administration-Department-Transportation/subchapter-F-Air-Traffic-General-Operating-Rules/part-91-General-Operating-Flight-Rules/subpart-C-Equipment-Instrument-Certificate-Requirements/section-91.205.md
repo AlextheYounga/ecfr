@@ -1,5 +1,7 @@
 ##### § 91.205 Powered civil aircraft with standard category U.S. airworthiness certificates: Instrument and equipment requirements. #####
 
+Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
+
 (a) *General.* Except as provided in paragraphs (c)(3) and (e) of this section, no person may operate a powered civil aircraft with a standard category U.S. airworthiness certificate in any operation described in paragraphs (b) through (f) of this section unless that aircraft contains the instruments and equipment specified in those paragraphs (or FAA-approved equivalents) for that type of operation, and those instruments and items of equipment are in operable condition.
 
 (b) *Visual-flight rules (day).* For VFR flight during the day, the following instruments and equipment are required:

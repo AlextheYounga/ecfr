@@ -1,5 +1,7 @@
 ##### § 142.47 Training center instructor eligibility requirements. #####
 
+Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
+
 (a) A certificate holder may not employ a person as an instructor in a flight training course that is subject to approval by the Administrator unless that person—
 
 (1) Is at least 18 years of age;
