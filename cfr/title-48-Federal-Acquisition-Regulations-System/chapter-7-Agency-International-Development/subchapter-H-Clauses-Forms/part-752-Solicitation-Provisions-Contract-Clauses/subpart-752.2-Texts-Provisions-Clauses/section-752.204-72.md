@@ -1,4 +1,4 @@
-##### 752.204-72 Access to USAID facilities and USAID's information systems. #####
+##### 752.204-72 Access to USAID Facilities and USAID's Information Systems. #####
 
 Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
 

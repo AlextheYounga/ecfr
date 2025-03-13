@@ -1,6 +1,4 @@
-##### § 170.102 Confidentiality of information in a premarket notification for a food contact substance (FCN). #####
-
-Link to an amendment published at 89 FR 20315, Mar. 22, 2024.
+##### § 170.102 Confidentiality of information related to premarket notification for a food contact substance (FCN). #####
 
 (a) During the 120-day period of the Food and Drug Administration (FDA) review of an FCN, FDA will not disclose publicly any information in that FCN.
 
@@ -10,9 +8,9 @@ Link to an amendment published at 89 FR 20315, Mar. 22, 2024.
 
 (d) By submitting an FCN to FDA, the manufacturer or supplier waives any claim to confidentiality of the information required to adequately describe the food contact substance and the intended conditions of use that are the subject of that FCN.
 
-(e) The following data and information in an FCN are available for public disclosure, unless extraordinary circumstances are shown, on the 121st day after receipt of the notification by FDA, except that no data or information are available for public disclosure if the FCN is withdrawn under § 170.103.
+(e) The following data and information are available for public disclosure, unless extraordinary circumstances are shown, on the 121st day after receipt of the notification by FDA, except that no data or information are available for public disclosure if the FCN is withdrawn under § 170.103; and on the date of publication in the Federal Register of an FDA determination that an FCN is no longer effective.
 
-(1) All safety and functionality data and information submitted with or incorporated by reference into the notification. Safety and functionality data include all studies and tests of a food contact substance on animals and humans and all studies and tests on a food contact substance for establishing identity, stability, purity, potency, performance, and usefulness.
+(1) All safety and functionality data and information submitted with or incorporated by reference into the notification, or submitted in reference to an effective FCN. Safety and functionality data include all studies and tests of a food contact substance on animals and humans and all studies and tests on a food contact substance for establishing identity, stability, purity, potency, performance, and usefulness.
 
 (2) A protocol for a test or study, unless it is exempt from disclosure under § 20.61 of this chapter.
 
@@ -20,6 +18,8 @@ Link to an amendment published at 89 FR 20315, Mar. 22, 2024.
 
 (4) An assay method or other analytical method, unless it serves no regulatory or compliance purpose and is exempt from disclosure under § 20.61 of this chapter.
 
-(5) All correspondence and written summaries of oral discussions relating to the notification, except information that is exempt for disclosure under § 20.61 of this chapter.
+(5) All correspondence and written summaries of oral discussions relating to the notification or to FDA's determination that an FCN is no longer effective, except information that is exempt under § 20.61 of this chapter.
 
 (6) All other information not subject to an exemption from disclosure under subpart D of part 20 of this chapter.
+
+[67 FR 35729, May 21, 2002, as amended by 89 FR 20315, Mar. 22, 2024]

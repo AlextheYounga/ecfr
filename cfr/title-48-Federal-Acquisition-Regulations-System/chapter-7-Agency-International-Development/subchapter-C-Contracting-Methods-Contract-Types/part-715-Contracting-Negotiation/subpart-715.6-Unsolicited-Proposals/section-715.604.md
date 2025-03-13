@@ -1,6 +1,6 @@
 ##### 715.604 Agency points of contact. #####
 
-Link to an amendment published at 89 FR 4206, Jan. 23, 2024.
+Link to an amendment published at 89 FR 4206, Jan. 23, 2024.Link to a correction published at 89 FR 44553, May 21, 2024.
 
 (a) Information on USAID's policies for unsolicited proposals is available from the U.S. Agency for International Development, Bureau for Management, Office of Acquisition and Assistance, Evaluation Division (M/OAA/E), SA-44, Room 858-E, 1300 Pennsylvania Ave. NW., Washington, DC 20523 or by email to *UnsolicitedProposals@usaid.gov.* Initial inquiries and subsequent unsolicited proposals must be submitted to the address specified above.
 
