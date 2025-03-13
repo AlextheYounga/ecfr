@@ -1,0 +1,5 @@
+##### § 752.11 What will the NCUA do if the application is denied? #####
+
+(a) The NCUA will inform the applicant in writing that the application has been denied and summarize or cite the relevant considerations specified in § 752.10.
+
+(b) The denial will also notify the applicant of the right to request reconsideration from the field office, or to file an appeal with the Board, and will include a description of applicable filing deadlines and time frames for agency responses. The field office and the Board will apply the review process contained in 12 CFR part 746, subpart B, to any request for reconsideration or appeal. For credit union-sponsored applications, either the institution or the subject individual (or both, as a consolidated request) may file a request for reconsideration or appeal. The request for review must include a statement of the underlying facts that form the basis of the request for reconsideration or appeal, a statement of the basis for the denial to which the applicant objects and the alleged error in such denial, and any other support, materials, or evidence relied upon by the applicant that were not previously provided.

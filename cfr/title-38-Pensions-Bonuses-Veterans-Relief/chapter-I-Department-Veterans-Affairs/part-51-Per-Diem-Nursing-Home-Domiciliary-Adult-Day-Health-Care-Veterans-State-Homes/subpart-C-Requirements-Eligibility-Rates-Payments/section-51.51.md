@@ -1,5 +1,7 @@
 ##### § 51.51 Eligible veterans—domiciliary care. #####
 
+Link to an amendment published at 89 FR 86249, Oct. 30, 2024.
+
 (a) A veteran is an eligible veteran for the purposes of payment of per diem for domiciliary care in a State home under this part if VA determines that the veteran is not barred from receiving care based on his or her service (see 38 U.S.C. 5303, 5303A), is not barred from receiving VA pension, compensation or dependency and indemnity compensation based on the character of a discharge from military service (see 38 CFR 3.12), and the veteran is:
 
 (1) A veteran whose annual income does not exceed the maximum annual rate of pension payable to a veteran in need of regular aid and attendance; or

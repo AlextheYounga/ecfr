@@ -1,0 +1,3 @@
+##### § 752.9 How does an individual or a credit union file an application? #####
+
+Forms and instructions can be obtained from the NCUA's website (*www.ncua.gov*), and the application(s) must be filed with the appropriate field office Director. An application may be filed by an individual or by an insured credit union on behalf of an individual, or by both. The appropriate field office for a credit union-sponsored application is the office covering the state where the insured credit union's home office is located, or the Office of National Examinations and Supervision. The appropriate field office for an application filed by an individual is the office covering the state where the person resides. States covered by each NCUA field office are listed in 12 CFR 790.2.

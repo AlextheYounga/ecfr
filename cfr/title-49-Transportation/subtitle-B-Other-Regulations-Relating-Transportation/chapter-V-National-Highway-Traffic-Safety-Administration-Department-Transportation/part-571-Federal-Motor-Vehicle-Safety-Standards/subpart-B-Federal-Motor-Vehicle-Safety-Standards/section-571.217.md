@@ -1,5 +1,7 @@
 ##### § 571.217 Standard No. 217; Bus emergency exits and window retention and release. #####
 
+Link to an amendment published at 89 FR 86282, Oct. 30, 2024.
+
 S1. *Scope.* This standard establishes requirements for the retention of windows other than windshields in buses, and establishes operating forces, opening dimensions, and markings for bus emergency exits.
 
 S2. *Purpose.* The purpose of this standard is to minimize the likelihood of occupants being thrown from the bus and to provide a means of readily accessible emergency egress.

@@ -1,5 +1,7 @@
 ##### § 51.42 Payment procedures. #####
 
+Link to an amendment published at 89 FR 86249, Oct. 30, 2024.
+
 (a) *Forms required*—(1) *Forms required at time of admission or enrollment.* As a condition for receiving payment of per diem under this part, the State home must submit the forms identified in paragraphs (a)(1)(i) and (ii) of this section to the VA medical center of jurisdiction for each veteran at the time of the veteran's admission to or enrollment in a State home. If the home is not a recognized State home, the home must, after recognition, submit forms for Veterans who received care on and after the date of the completion of the VA survey that provided the basis for determining that the home met the standards of this part. The State home must also submit the appropriate form with any request for a change in the type of per diem paid on behalf of a veteran as a result of a change in the veteran's program of care or a change in the veteran's service-connected disability rating that makes the veteran's care eligible for payment under § 51.41. Copies of VA Forms can be obtained from any VA Medical Center and are available on our website at *www.va.gov/vaforms.* The required forms are:
 
 (i) A completed VA Form 10-10EZ, Application for Medical Benefits (or VA Form 10-10EZR, Health Benefits Renewal Form, if a completed Form 10-10EZ is already on file at VA).

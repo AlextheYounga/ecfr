@@ -1,7 +1,5 @@
 ##### § 741.3 Criteria. #####
 
-Link to an amendment published at 89 FR 79393, Sept. 30, 2024.
-
 In determining the insurability of a credit union which makes application for insurance and in continuing the insurability of its accounts pursuant to title II of the Act, the following criteria shall be applied:
 
 (a) *Reserves*—(1) *General rule.* State-chartered credit unions are subject to section 216 of the Act, 12 U.S.C. 1790d, and to part 702 and subpart L of part 747 of this chapter.
@@ -20,7 +18,7 @@ In determining the insurability of a credit union which makes application for in
 
 (5) The existence of a written interest rate risk policy (“IRR policy”) and an effective interest rate risk management program (“effective IRR program”) as part of asset liability management. Federally insured credit unions (“FICUs”) with assets of more than $50 million, as measured by the most recent Call Report filing, must adopt a written IRR policy and implement an effective IRR program. Appendix A to this part 741 provides guidance on how to develop an IRR policy and an effective IRR program. The guidance describes widely accepted best practices in the management of interest rate risk for the benefit of all FICUs.
 
-(c) *Fitness of management.* The officers, directors, and committee members of the credit union must have conducted its operations in accordance with provisions of applicable law, regulations, its charter and bylaws. No person shall serve as a director, officer, committee member, or employee of an insured credit union who has been convicted of any criminal offense involving dishonesty or breach of trust, except with the written consent of the Board.
+(c) *Fitness of management.* The officers, directors, and committee members of the credit union must have conducted its operations in accordance with provisions of applicable law, regulations, its charter and bylaws. No person shall serve as a director, officer, committee member, or employee of an insured credit union who has been convicted of a crime covered under section 205(d) of the Federal Credit Union Act (12 U.S.C. 1785(d)), except with the written consent of the Board.
 
 (d) *Insurance of member accounts would not otherwise involve undue risk to the NCUSIF.* The credit union must maintain adequate fidelity bond coverage as specified in § 741.201. Any circumstances which may be unique to the particular credit union concerned shall also be considered in arriving at the determination of whether or not an undue risk to the NCUSIF is or may be present. For purposes of this section, the term “undue risk to the NCUSIF” is defined as a condition which creates a probability of loss in excess of that normally found in a credit union and which indicates a reasonably foreseeable probability of the credit union becoming insolvent because of such condition, with a resultant claim against the NCUSIF.
 
@@ -30,4 +28,4 @@ In determining the insurability of a credit union which makes application for in
 
 (g) Nothing in this section shall preclude the NCUA Board from imposing additional terms or conditions pursuant to the insurance agreement.
 
-[60 FR 58504, Nov. 28, 1995, as amended at 64 FR 41040, July 29, 1999; 65 FR 8593, Feb. 18, 2000; 67 FR 71094, Nov. 29, 2002; 77 FR 32001, May 31, 2012; 77 FR 5162, Feb. 2, 2012; 77 FR 74112, Dec. 13, 2012; 78 FR 4037, Jan. 18, 2013; 84 FR 1608, Feb. 5, 2019]
+[60 FR 58504, Nov. 28, 1995, as amended at 64 FR 41040, July 29, 1999; 65 FR 8593, Feb. 18, 2000; 67 FR 71094, Nov. 29, 2002; 77 FR 32001, May 31, 2012; 77 FR 5162, Feb. 2, 2012; 77 FR 74112, Dec. 13, 2012; 78 FR 4037, Jan. 18, 2013; 84 FR 1608, Feb. 5, 2019; 89 FR 79393, Sept. 30, 2024]

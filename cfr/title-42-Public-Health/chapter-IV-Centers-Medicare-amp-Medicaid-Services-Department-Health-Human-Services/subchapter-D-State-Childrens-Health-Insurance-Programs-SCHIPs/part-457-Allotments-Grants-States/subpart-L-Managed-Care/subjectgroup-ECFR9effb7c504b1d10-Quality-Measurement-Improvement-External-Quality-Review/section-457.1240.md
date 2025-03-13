@@ -12,6 +12,6 @@
 
 (e) *Managed care quality strategy.* The State must draft and implement a written quality strategy for assessing and improving the quality of health care and services furnished CHIP enrollees as described in § 438.340 of this chapter, except that the reference to consultation with the Medical Care Advisory Committee described in § 438.340(c)(1)(i) of this chapter does not apply.
 
-(f) *Applicability to PCCM entities.* For purposes of paragraphs (b) and (e) of this section and § 457.1250(a), a PCCM entity described in this paragraph is a PCCM entity whose contract with the State provides for shared savings, incentive payments or other financial reward for improved quality outcomes.
+(f) *Applicability to PCCM entities.* For purposes of paragraphs (b) and (e) of this section, a PCCM entity described in this paragraph is a PCCM entity whose contract with the State provides for shared savings, incentive payments or other financial reward for improved quality outcomes.
 
 [81 FR 27897, May 6, 2016, as amended at 82 FR 40, Jan. 3, 2017; 85 FR 72842, Nov. 13, 2020; 89 FR 41285, May 10, 2024]

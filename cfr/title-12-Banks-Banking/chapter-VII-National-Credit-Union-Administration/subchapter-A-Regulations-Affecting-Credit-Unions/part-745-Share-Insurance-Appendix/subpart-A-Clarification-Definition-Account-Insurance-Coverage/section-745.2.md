@@ -1,5 +1,4 @@
-##### § 745.2 General principles applicable in determining insurance of accounts.
-- #####
+##### § 745.2 General principles applicable in determining insurance of accounts. #####
 
 Link to an amendment published at 89 FR 79414, Sept. 30, 2024.
 
@@ -9,7 +8,7 @@ Link to an amendment published at 89 FR 79414, Sept. 30, 2024.
 
 (c) *Records.* (1) The account records of the insured credit union shall be conclusive as to the existence of any relationship pursuant to which the funds in the account are deposited and on which a claim for insurance coverage is founded. Examples would be trustee, agent, custodian, or executor. No claim for insurance based on such a relationship will be recognized in the absence of such disclosure.
 
-(2) If the account records of an insured credit union disclose the existence of a relationship which may provide a basis for additional insurance, the details of the relationship and the interest of other parties in the account must be ascertainable either from the records of the credit union or the records of the member maintained in good faith and in the regular course of business.
+(2) If the account records of an insured credit union disclose the existence of a relationship which may provide a basis for additional insurance, the details of the relationship and the interest of other parties in the account must be ascertainable either from the records of the credit union or the records of the member, maintained in good faith and in the regular course of business by the member or by some person who or entity that has undertaken to maintain such records for the member.
 
 (3) The account records of an insured credit union in connection with a trust account shall disclose the name of both the settlor (grantor) and the trustee of the trust and shall contain an account signature card executed by the trustee.
 
@@ -27,4 +26,4 @@ Link to an amendment published at 89 FR 79414, Sept. 30, 2024.
 
 (f) *Continuation of separate share insurance coverage after merger of insured credit unions.* Whenever the liability to pay the member accounts of one or more insured credit unions is assumed by another insured credit union, whether by merger, consolidation, other statutory assumption or contract: The insured status of the credit unions whose member account liability has been assumed terminates, for purposes of this section, on the date of receipt by NCUA of satisfactory evidence of the assumption; and the separate insurance of member accounts assumed continues for six months from the date the assumption takes effect or, in the case of a share certificate, the earliest maturity date after the six-month period. In the case of a share certificate that matures within the six-month grace period that is renewed at the same dollar amount, either with or without accrued dividends having been added to the principal amount, and for the same term as the original share certificate, the separate insurance applies to the renewed share certificate until the first maturity date after the six-month period. A share certificate that matures within the six-month grace period that is renewed on any other basis, or that is not renewed, is separately insured only until the end of the six-month grace period.
 
-[51 FR 37560, Oct. 23, 1986, as amended at 65 FR 34924, June 1, 2000; 68 FR 75114, Dec. 30, 2003; 71 FR 14635, Mar. 23, 2006]
+[51 FR 37560, Oct. 23, 1986, as amended at 65 FR 34924, June 1, 2000; 68 FR 75114, Dec. 30, 2003; 71 FR 14635, Mar. 23, 2006; 89 FR 79414, Sept. 30, 2024]
