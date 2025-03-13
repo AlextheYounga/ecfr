@@ -1,5 +1,7 @@
 ##### 211.274-6 Contract clauses. #####
 
+Link to an amendment published at 88 FR 88536, Dec. 22, 2023.
+
 (a)(1) Use the clause at 252.211-7003, Item Unique Identification and Valuation, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services, for supplies, and for services involving the furnishing of supplies, unless the conditions in 211.274-2(b) apply.
 
 (2) Identify in paragraph (c)(1)(ii) of the clause the contract line, subline, or exhibit line item number and description of any item(s) below $5,000 in unit acquisition cost for which DoD item unique identification or a DoD recognized unique identification equivalent is required in accordance with 211.274-2(a)(2).

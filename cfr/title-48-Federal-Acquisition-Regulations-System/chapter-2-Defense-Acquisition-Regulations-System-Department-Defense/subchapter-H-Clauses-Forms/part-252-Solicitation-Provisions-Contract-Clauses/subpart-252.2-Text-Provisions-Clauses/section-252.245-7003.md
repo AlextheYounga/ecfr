@@ -1,5 +1,7 @@
 ##### 252.245-7003 Contractor Property Management System Administration. #####
 
+Link to an amendment published at 88 FR 88537, Dec. 22, 2023.
+
 As prescribed in 245.107(5), insert the following clause:
 
 Contractor Property Management System Administration (APR 2012)

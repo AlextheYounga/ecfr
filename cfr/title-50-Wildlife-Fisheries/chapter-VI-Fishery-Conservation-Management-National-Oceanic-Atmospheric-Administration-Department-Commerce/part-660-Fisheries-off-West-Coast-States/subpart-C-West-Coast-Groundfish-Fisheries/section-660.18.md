@@ -1,8 +1,6 @@
 ##### § 660.18 Observer and catch monitor provider permits and endorsements. #####
 
-Link to an amendment published at 88 FR 81358, Nov. 22, 2023.
-
-(a) *Provider permits.* Persons seeking to provide observer or catch monitor services must obtain a provider permit from NMFS before providing certified catch monitors or certified observers for the Shorebased IFQ Program, the MS Coop Program, the C/P Coop Program, or for processing vessels in the fixed gear or open access fisheries. There are two types of endorsements for provider permits, an observer endorsement and a catch monitor endorsement. Provider permits must have at least one endorsement and it must be appropriate for the services being provided. Provider permits are obtained through an application process and must be renewed annually to remain valid in the following year. A provider permit and associated endorsements expire if not renewed or if services have not been provided for 12 consecutive months.
+(a) *Provider permits.* Persons seeking to provide observer or catch monitor services must obtain a provider permit from NMFS before providing certified catch monitors or certified observers for the Shorebased IFQ Program, the MS Co-op Program, the C/P Co-op Program, or for processing vessels in the fixed gear or open access fisheries. There are two types of endorsements for provider permits, an observer endorsement and a catch monitor endorsement. Provider permits must have at least one endorsement and it must be appropriate for the services being provided. Provider permits are obtained through an application process and must be renewed annually to remain valid in the following year. A provider permit and associated endorsements expire if not renewed or if services have not been provided for 12 consecutive months.
 
 (b) *Application process to become an observer or catch monitor provider*—(1) *New provider applications.* An applicant seeking a provider permit may submit an application at any time during the calendar year. Any provider permit issued during a given year will expire on December 31. Application forms must be submitted by mail to the West Coast Region Fisheries Permits Office, 7600 Sand Point Way NE., Bldg 1, Seattle, WA 98115. Only complete applications will be considered for approval by the review board.
 
@@ -74,7 +72,7 @@ Link to an amendment published at 88 FR 81358, Nov. 22, 2023.
 
 (d) *Agency determination on an application.*
 
-(1) *Initial administrative determination.* For all complete applications, NMFS will issue an IAD that either approves or disapproves the application. If approved, the IAD will be the provider permit and any associated endorsements. If disapproved, the IAD will provide the reasons for this determination. If the applicant does not appeal the IAD within 30 calendar days, the IAD becomes the final decision of the Regional Administrator acting on behalf of the Secretary of Commerce.
+(1) *Initial administrative determination.* For all complete applications, NMFS will issue an IAD if it disapproves the application. An approved application will result in issuance of the permit. If disapproved, the IAD will provide the reasons for this determination. If the applicant does not appeal the IAD within 30 calendar days, the IAD becomes the final decision of the Regional Administrator acting on behalf of the Secretary of Commerce.
 
 (2) *Appeal.* The applicant may appeal the IAD consistent with the observer, catch monitor, and provider appeals process defined at § 660.19.
 
@@ -98,4 +96,4 @@ Link to an amendment published at 88 FR 81358, Nov. 22, 2023.
 
 (j) *Permit fees.* The Regional Administrator may charge fees to cover administrative expenses related to issuance of permits including initial issuance, renewal replacement, and appeals.
 
-[80 FR 22283, Apr. 21, 2015]
+[80 FR 22283, Apr. 21, 2015, as amended at 88 FR 81358, Nov. 22, 2023]

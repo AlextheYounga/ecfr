@@ -1,5 +1,7 @@
 ##### 52.222-33 Notice of Requirement for Project Labor Agreement. #####
 
+Link to an amendment published at 88 FR 88728, Dec. 22, 2023.
+
 As prescribed in 22.505(a)(1), insert the following provision:
 
 Notice of Requirement for Project Labor Agreement (MAY 2010)

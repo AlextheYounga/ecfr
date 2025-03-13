@@ -1,5 +1,7 @@
 ##### 212.301 Solicitation provisions and contract clauses for the acquisition of commercial products and commercial services. #####
 
+Link to an amendment published at 88 FR 88537, Dec. 22, 2023.
+
 (c) Include an evaluation factor regarding supply chain risk (see subpart 239.73) when acquiring information technology, whether as a service or as a supply, that is a covered system, is a part of a covered system, or is in support of a covered system, as defined in 239.7301.
 
 (f) The following additional provisions and clauses apply to DoD solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services. If the offeror has completed any of the following provisions listed in this paragraph electronically as part of its annual representations and certifications at *https://www.sam.gov,* the contracting officer shall consider this information instead of requiring the offeror to complete these provisions for a particular solicitation. The contracting officer shall not use other FAR or DFARS provisions and clauses unless required by the FAR or DFARS or consistent with customary commercial practices (section 874(b)(1)(A), Pub. L. 114-328).

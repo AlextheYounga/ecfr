@@ -1,5 +1,7 @@
 ##### 22.502 Definitions. #####
 
+Link to an amendment published at 88 FR 88727, Dec. 22, 2023.
+
 As used in this subpart—
 
 *Construction* means construction, rehabilitation, alteration, conversion, extension, repair, or improvement of buildings, highways, or other real property.

@@ -1,7 +1,5 @@
 ##### § 660.113 Trawl fishery—recordkeeping and reporting. #####
 
-Link to an amendment published at 88 FR 81358, Nov. 22, 2023.
-
 General groundfish recordkeeping and reporting requirements are defined at § 660.13, subpart C. The following recordkeeping and reporting requirements are in addition to those and are specific to the limited entry trawl fisheries.
 
 (a) *General requirements.* (1) All records or reports required by this paragraph (a) must: be maintained in English, be accurate, be legible, be based on local time, and be submitted in a timely manner.
@@ -124,7 +122,7 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (*5*) The dates and amounts of disbursements to the fish buyer, or other parties, of interest earned on deposits.
 
-(c) *MS Coop Program (coop and non-coop fisheries)*—(1) *Economic data collection (EDC) program.* The following persons are required to submit a complete economic data collection form as specified at § 660.114.
+(c) *MS Co-op Program (co-op and non-coop fisheries)*—(1) *Economic data collection (EDC) program.* The following persons are required to submit a complete economic data collection form as specified at § 660.114.
 
 (i) All owners, lessees, and charterers of a catcher vessel registered to a limited entry trawl MS/CV-endorsed permit.
 
@@ -138,19 +136,19 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (3) *Annual co-op report.* The designated co-op manager for the mothership co-op must submit an annual report to NMFS and the Council by March 17 each year, before a co-op permit is issued for that year. The annual co-op report will contain information about the previous year's fishery, including:
 
-(i) The mothership sector's annual allocation of Pacific whiting and the permitted mothership coop allocation;
+(i) The mothership sector's annual allocation of Pacific whiting and the permitted mothership co-op allocation;
 
 (ii) The mothership coop's actual retained and discarded catch of Pacific whiting, salmon, Pacific halibut, rockfish, groundfish, and other species on a vessel-by-vessel basis;
 
-(iii) A description of the method used by the mothership coop to monitor performance of coop vessels that participated in the fishery;
+(iii) A description of the method used by the mothership co-op to monitor performance of co-op vessels that participated in the fishery;
 
-(iv) A description of any actions taken by the mothership coop in response to any vessels that exceed their allowed catch and bycatch; and
+(iv) A description of any actions taken by the mothership co-op in response to any vessels that exceed their allowed catch and bycatch; and
 
-(v) Plans for the current year's mothership coop fishery, including the companies participating in the cooperative, the harvest agreement, and catch monitoring and reporting requirements.
+(v) Plans for the current year's mothership co-op fishery, including the companies participating in the cooperative, the harvest agreement, and catch monitoring and reporting requirements.
 
-(4) *Cease fishing report.* If required, as specified at § 660.150(c)(4)(ii), the designated coop manager, or, in the case of an inter-coop agreement, all of the designated coop managers must submit a cease fishing report to NMFS indicating that harvesting has concluded for the year.
+(4) [Reserved]
 
-(5) *Cost recovery program.* In addition to the requirements at paragraph (a) of this section, the fish buyer, as defined at § 660.111 for the MS Coop Program, is required to comply with the following recordkeeping and reporting requirements:
+(5) *Cost recovery program.* In addition to the requirements at paragraph (a) of this section, the fish buyer, as defined at § 660.111 for the MS Co-op Program, is required to comply with the following recordkeeping and reporting requirements:
 
 (i) *Reporting*—(A) *Cost recovery form.* The fish buyer must submit a cost recovery form at the time cost recovery fees are paid to NMFS as specified at § 660.115. The cost recovery form requires providing information that includes, but is not limited to, fish buyer's name, address, phone number, MS permit number, vessel name, USCG vessel documentation number, month and year of deliveries, weight of deliveries, ex-vessel value, and fee due.
 
@@ -200,7 +198,7 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (*5*) The dates and amounts of disbursements to the fish buyer, or other parties, of interest earned on deposits.
 
-(d) *C/P Coop Program*—(1) *Economic data collection (EDC) program.* All owners, lessees, and charterers of a vessel registered to a C/P-endorsed limited entry trawl permit are required to submit a complete economic data collection form as specified at § 660.114.
+(d) *C/P Co-op Program*—(1) *Economic data collection (EDC) program.* All owners, lessees, and charterers of a vessel registered to a C/P-endorsed limited entry trawl permit are required to submit a complete economic data collection form as specified at § 660.114.
 
 (2) *NMFS-approved scales*—(i) *Scale test report form.* Catcher/processor vessel operators are responsible for conducting scale tests and for recording the scale test information on the scale test report form as specified at § 660.15(b), for catcher/processor vessels.
 
@@ -214,15 +212,15 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (ii) The C/P coop's actual retained and discarded catch of Pacific whiting, salmon, Pacific halibut, rockfish, groundfish, and other species on a vessel-by-vessel basis;
 
-(iii) A description of the method used by the C/P coop to monitor performance of cooperative vessels that participated in the fishery;
+(iii) A description of the method used by the C/P co-op to monitor performance of cooperative vessels that participated in the fishery;
 
-(iv) A description of any actions taken by the C/P coop in response to any vessels that exceed their allowed catch and bycatch; and
+(iv) A description of any actions taken by the C/P co-op in response to any vessels that exceed their allowed catch and bycatch; and
 
-(v) Plans for the current year's C/P coop fishery, including the companies participating in the cooperative, the harvest agreement, and catch monitoring and reporting requirements.
+(v) Plans for the current year's C/P co-op fishery, including the companies participating in the cooperative, the harvest agreement, and catch monitoring and reporting requirements.
 
-(4) *Cease fishing report.* If required, as specified at § 660.160(c)(5), the designated coop manager must submit a cease fishing report to NMFS indicating that harvesting has concluded for the year.
+(4) [Reserved]
 
-(5) *Cost recovery program.* In addition to the requirements at paragraph (a) of this section, the fish buyer, as defined at § 660.111 for the C/P Coop Program, is required to comply with the following recordkeeping and reporting requirements:
+(5) *Cost recovery program.* In addition to the requirements at paragraph (a) of this section, the fish buyer, as defined at § 660.111 for the C/P Co-op Program, is required to comply with the following recordkeeping and reporting requirements:
 
 (i) *Reporting.* The fish buyer must submit a cost recovery form at the time cost recovery fees are paid to NMFS as specified at § 660.115. The cost recovery form requires providing information that includes, but is not limited to, fish buyer's name, address, phone number, C/P-endorsed limited entry permit number, vessel name, USCG vessel documentation number, year of harvest, weight, ex-vessel value, and fee due.
 
@@ -248,7 +246,7 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (*2*) The total amount disbursed.
 
-(e) *Salmon Mitigation Plan (SMP).* NMFS may approve a SMP for a group of at least three vessels in the MS Coop Program, C/P Coop Program, or Pacific whiting IFQ fishery. NMFS may approve an SMP for more than one group in a given year.
+(e) *Salmon Mitigation Plan (SMP).* NMFS may approve a SMP for a group of at least three vessels in the MS Co-op Program, C/P Co-op Program, or Pacific whiting IFQ fishery. NMFS may approve an SMP for more than one group in a given year.
 
 (1) *Applicability of further measures to manage salmon bycatch.* Routine management measures to minimize Chinook salmon bycatch as described in § 660.60(i) may be implemented for vessels with an approved SMP.
 
@@ -328,4 +326,4 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (D) A description of any amendments to the terms of the SMP that were approved by NMFS during the fishing year in which the SMP was approved and the reasons the amendments to the SMP were made.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78385, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74740, Dec. 1, 2011; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 81 FR 27010, May 5, 2016; 81 FR 84430, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 84 FR 68806, Dec. 17, 2019; 86 FR 10869, Feb. 23, 2021; 87 FR 77005, Dec. 16, 2022]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78385, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74740, Dec. 1, 2011; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 81 FR 27010, May 5, 2016; 81 FR 84430, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 84 FR 68806, Dec. 17, 2019; 86 FR 10869, Feb. 23, 2021; 87 FR 77005, Dec. 16, 2022; 88 FR 81358, Nov. 22, 2023]

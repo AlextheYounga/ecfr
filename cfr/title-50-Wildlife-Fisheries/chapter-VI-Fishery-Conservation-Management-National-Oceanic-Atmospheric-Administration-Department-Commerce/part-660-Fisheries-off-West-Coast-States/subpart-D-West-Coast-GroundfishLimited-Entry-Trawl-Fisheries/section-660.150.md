@@ -1,8 +1,6 @@
 ##### § 660.150 Mothership (MS) Co-op Program. #####
 
-Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
-
-(a) *General.* The MS Coop Program is a general term to describe the limited access program that applies to eligible harvesters and processors in the mothership sector of the Pacific whiting at-sea trawl fishery. Eligible harvesters and processors, including coop and non-coop fishery participants, must meet the requirements set forth in this section of the Pacific Coast groundfish regulations. Each year a vessel registered to an MS/CV-endorsed permit may fish in either the coop or non-coop portion of the MS Coop Program, but not both. In addition to the requirements of this section, the MS Coop Program is subject to the following groundfish regulations of subparts C and D of this part:
+(a) *General.* The MS Co-op Program is a general term to describe the limited access program that applies to eligible harvesters and processors in the mothership sector of the Pacific whiting at-sea trawl fishery. Eligible harvesters and processors, including co-op and non-coop fishery participants, must meet the requirements set forth in this section of the Pacific Coast groundfish regulations. Each year a vessel registered to an MS/CV-endorsed permit may fish in either the co-op or non-coop portion of the MS Co-op Program, but not both. In addition to the requirements of this section, the MS Co-op Program is subject to the following groundfish regulations of subparts C and D of this part:
 
 (1) Pacific whiting seasons § 660.131(b), subpart D.
 
@@ -12,9 +10,9 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (4) Regulations set out in the following sections of subpart D: § 660.111 Trawl fishery definitions, § 660.112 Trawl fishery prohibitions, § 660.113 Trawl fishery recordkeeping and reporting, § 660.115 Trawl fishery cost recovery program, § 660.120 Trawl fishery crossover provisions, § 660.130 Trawl fishery management measures, and § 660.131 Pacific whiting fishery management measures.
 
-(5) The MS Coop Program may be restricted or closed as a result of projected overages within the MS Coop Program, the C/P Coop Program, or the Shorebased IFQ Program. As determined necessary by the Regional Administrator, area restrictions, season closures, or other measures will be used to prevent the trawl sectors in aggregate or the individual trawl sector (Shorebased IFQ, MS Coop, or C/P Coop) from exceeding an ACL, ACT, or formal allocation specified in the PCGFMP or regulation at § 660.55, subpart C, or §§ 660.140, 660.150, or 660.160, subpart D.
+(5) The MS Co-op Program may be restricted or closed as a result of projected overages within the MS Co-op Program, the C/P Co-op Program, or the Shorebased IFQ Program. As determined necessary by the Regional Administrator, area restrictions, season closures, or other measures will be used to prevent the trawl sectors in aggregate or the individual trawl sector (Shorebased IFQ, MS Co-op, or C/P Co-op) from exceeding an ACL, ACT, or formal allocation specified in the PCGFMP or regulation at § 660.55, subpart C, or §§ 660.140, 660.150, or 660.160, subpart D.
 
-(b) *Participation requirements and responsibilities*—(1) *Mothership vessels*—(i) *Mothership vessel participation requirements.* A vessel is eligible to receive and process catch as a mothership in the MS Coop Program if:
+(b) *Participation requirements and responsibilities*—(1) *Mothership vessels*—(i) *Mothership vessel participation requirements.* A vessel is eligible to receive and process catch as a mothership in the MS Co-op Program if:
 
 (A) The vessel is registered to an MS permit; and
 
@@ -34,9 +32,9 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (D) *Cost recovery program.* Collect and remit to NMFS cost recovery program fees as specified at § 660.115.
 
-(2) *Mothership catcher vessels*—(i) *Mothership catcher vessel participation requirements*—(A) A vessel is eligible to harvest in the MS Coop Program if the following conditions are met:
+(2) *Mothership catcher vessels*—(i) *Mothership catcher vessel participation requirements*—(A) A vessel is eligible to harvest in the MS Co-op Program if the following conditions are met:
 
-(*1*) If the vessel is used to fish as a mothership catcher vessel for a permitted MS coop, the vessel is registered to a limited entry permit with a trawl endorsement and NMFS has been notified that the vessel is authorized to fish for the coop.
+(*1*) If the vessel is used to fish as a mothership catcher vessel for a permitted MS co-op, the vessel is registered to a limited entry permit with a trawl endorsement and NMFS has been notified that the vessel is authorized to fish for the co-op.
 
 (*2*) If the vessel is used to harvest fish in the non-coop fishery, the vessel is registered to an MS/CV-endorsed limited entry permit.
 
@@ -50,9 +48,9 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (C) *Cost recovery program.* Vessel must pay cost recovery program fees, as specified at § 660.115.
 
-(3) *MS coops*—(i) *MS coop participation requirements.* For a MS coop to participate in the Pacific whiting mothership sector fishery it must:
+(3) *MS co-ops*—(i) *MS co-op participation requirements.* For a MS co-op to participate in the Pacific whiting mothership sector fishery it must:
 
-(A) Be issued a MS coop permit;
+(A) Be issued a MS co-op permit;
 
 (B) Be composed of MS/CV-endorsed limited entry permit owners;
 
@@ -60,53 +58,53 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (D) Be a legally recognized entity that represents its members;
 
-(E) Designate an individual as a coop manager; and
+(E) Designate an individual as a co-op manager; and
 
-(F) Include at least 20 percent of all MS/CV-endorsed permits as members. The coop membership percentage will be interpreted by rounding to the nearest whole permit (*i.e.*, less than 0.5 rounds down and 0.5 and greater rounds up).
+(F) Include at least 20 percent of all MS/CV-endorsed permits as members. The co-op membership percentage will be interpreted by rounding to the nearest whole permit (*i.e.*, less than 0.5 rounds down and 0.5 and greater rounds up).
 
-(ii) *MS coop responsibilities.* A MS coop is responsible for:
+(ii) *MS co-op responsibilities.* A MS co-op is responsible for:
 
-(A) Applying for and being registered to a MS coop permit;
+(A) Applying for and being registered to a MS co-op permit;
 
-(B) Organizing and coordinating harvest activities of vessels authorized to fish for the coop;
+(B) Organizing and coordinating harvest activities of vessels authorized to fish for the co-op;
 
-(C) Reassigning catch history assignments for use by coop members;
+(C) Reassigning catch history assignments for use by co-op members;
 
-(D) Organizing and coordinating the transfer and leasing of catch allocations with other permitted coops through inter-coop agreements;
+(D) Organizing and coordinating the transfer and leasing of catch allocations with other permitted co-ops through inter-co-op agreements;
 
-(E) Monitoring harvest activities and enforcing the catch limits of coop members;
+(E) Monitoring harvest activities and enforcing the catch limits of co-op members;
 
 (F) Submitting an annual report.
 
-(G) Having a designated coop manager. The designated coop manager must:
+(G) Having a designated co-op manager. The designated co-op manager must:
 
-(*1*) Serve as the contact person between NMFS, the Council, and other coops;
+(*1*) Serve as the contact person between NMFS, the Council, and other co-ops;
 
-(*2*) Be responsible for the annual distribution of catch and bycatch allocations among coop members;
+(*2*) Be responsible for the annual distribution of catch and bycatch allocations among co-op members;
 
-(*3*) Oversee reassignment of catch allocations within the coop;
+(*3*) Oversee reassignment of catch allocations within the co-op;
 
-(*4*) Oversee inter-coop catch allocation reassignments;
+(*4*) Oversee inter-co-op catch allocation reassignments;
 
-(*5*) Prepare and submit an annual report on behalf of the coop;
+(*5*) Prepare and submit an annual report on behalf of the co-op;
 
-(*6*) Be authorized to receive or respond to any legal process in which the coop is involved; and
+(*6*) Be authorized to receive or respond to any legal process in which the co-op is involved; and
 
-(*7*) Notify NMFS if the coop dissolves.
+(*7*) Notify NMFS if the co-op dissolves.
 
-(iii) *MS coop compliance and joint/several liability.* An MS coop must comply with the provisions of this section. The MS coop, member limited entry permit owners, and owners and operators of vessels registered to member limited entry permits, are jointly and severally responsible for compliance with the provisions of this section. Pursuant to 15 CFR part 904, each MS coop, member permit owner, and owner and operator of a vessel registered to a coop member permit may be charged jointly and severally for violations of the provisions of this section. For purposes of enforcement, an MS coop is a legal entity that can be subject to NOAA enforcement action for violations of the provisions of this section.
+(iii) *MS co-op compliance and joint/several liability.* An MS co-op must comply with the provisions of this section. The MS co-op, member limited entry permit owners, and owners and operators of vessels registered to member limited entry permits, are jointly and severally responsible for compliance with the provisions of this section. Pursuant to 15 CFR part 904, each MS co-op, member permit owner, and owner and operator of a vessel registered to a co-op member permit may be charged jointly and severally for violations of the provisions of this section. For purposes of enforcement, an MS co-op is a legal entity that can be subject to NOAA enforcement action for violations of the provisions of this section.
 
-(c) *MS Coop Program species and allocations*—(1) *MS Co-op Program species.* All species other than Pacific whiting are managed with set-asides for the MS and C/P Co-op Programs, as described in the biennial specifications.
+(c) *MS Co-op Program species and allocations*—(1) *MS Co-op Program species.* All species other than Pacific whiting are managed with set-asides for the MS and C/P Co-op Programs, as described in the biennial specifications.
 
 (2) *Annual mothership sector sub-allocations.* Annual allocation amount(s) will be determined using the following procedure:
 
 (i) *MS/CV catch history assignments.* Catch history assignments will be based on catch history using the following methodology:
 
-(A) *Pacific whiting catch history assignment.* Each MS/CV endorsement's associated catch history assignment of Pacific whiting will be annually allocated to a single permitted MS coop or to the non-coop fishery. If multiple MS/CV endorsements and their associated CHAs are registered to a limited entry permit, that permit may be simultaneously registered to more than one MS coop or to both a coop(s) and non-coop fishery. Once assigned to a permitted MS coop or to the non-coop fishery, each MS/CV endorsement's catch history assignment remains with that permitted MS coop or non-coop fishery for that calendar year. When the mothership sector allocation is established, the information for the conversion of catch history assignment to pounds will be made available to the public through a Federal Register announcement and/or public notice and/or the NMFS website. The amount of whiting from the catch history assignment will be issued to the nearest whole pound using standard rounding rules (*i.e.,* less than 0.5 rounds down and 0.5 and greater rounds up).
+(A) *Pacific whiting catch history assignment.* Each MS/CV endorsement's associated catch history assignment of Pacific whiting will be annually allocated to a single permitted MS co-op or to the non-coop fishery. If multiple MS/CV endorsements and their associated CHAs are registered to a limited entry permit, that permit may be simultaneously registered to more than one MS co-op or to both a co-op(s) and non-coop fishery. Once assigned to a permitted MS co-op or to the non-coop fishery, each MS/CV endorsement's catch history assignment remains with that permitted MS co-op or non-coop fishery for that calendar year. When the mothership sector allocation is established, the information for the conversion of catch history assignment to pounds will be made available to the public through a Federal Register announcement and/or public notice and/or the NMFS website. The amount of whiting from the catch history assignment will be issued to the nearest whole pound using standard rounding rules (*i.e.,* less than 0.5 rounds down and 0.5 and greater rounds up).
 
 (*1*) In years where the Pacific whiting harvest specification is known by the start of the mothership sector primary whiting season specified at § 660.131(b)(2)(iii)(B), allocation for Pacific whiting will be made by the start of the season.
 
-(*2*) In years where the Pacific whiting harvest specification is not known by the start of the mothership sector primary whiting season specified at § 660.131(b)(2)(iii)(B), NMFS will issue Pacific whiting allocations in two parts. Before the start of the primary whiting season, NMFS will allocate Pacific whiting based on the MS Coop Program allocation percent multiplied by the lower end of the range of potential harvest specifications for Pacific whiting for that year. After the final Pacific whiting harvest specifications are established, NMFS will allocate any additional amounts of Pacific whiting to the MS Coop Program.
+(*2*) In years where the Pacific whiting harvest specification is not known by the start of the mothership sector primary whiting season specified at § 660.131(b)(2)(iii)(B), NMFS will issue Pacific whiting allocations in two parts. Before the start of the primary whiting season, NMFS will allocate Pacific whiting based on the MS Co-op Program allocation percent multiplied by the lower end of the range of potential harvest specifications for Pacific whiting for that year. After the final Pacific whiting harvest specifications are established, NMFS will allocate any additional amounts of Pacific whiting to the MS Co-op Program.
 
 (B) *Non-whiting groundfish species catch*—(*1*) At-sea set-asides of non-whiting groundfish species will be managed on an annual basis unless there is a risk of a harvest specification being exceeded, unforeseen impact on other fisheries, or conservation concerns, in which case inseason action may be taken. Set asides may be adjusted through the biennial specifications and management measures process as necessary.
 
@@ -114,13 +112,13 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (*3*) Annually a specified amount of the Pacific halibut will be held in reserve as a shared set-aside for bycatch in the at-sea Pacific whiting fisheries and the shorebased trawl sector south of 40°10′ N lat.
 
-(C) *Rounding rules and MS/CV allocations.* Rounding rules may affect distribution of the MS Coop Program allocations among the catch history assignments for individual MS/CV-endorsed permits. NMFS will distribute such allocations to the maximum extent practicable, not to exceed the total allocation.
+(C) *Rounding rules and MS/CV allocations.* Rounding rules may affect distribution of the MS Co-op Program allocations among the catch history assignments for individual MS/CV-endorsed permits. NMFS will distribute such allocations to the maximum extent practicable, not to exceed the total allocation.
 
-(ii) *Annual coop allocations*—(A) *Pacific whiting.* Each permitted MS coop is authorized to harvest a quantity of Pacific whiting that is based on the sum of the catch history assignments for each member MS/CV-endorsed permit identified in the NMFS-accepted coop agreement for a given calendar year. Other limited entry permits registered to vessels that will fish for the coop do not bring catch allocation to a permitted MS coop.
+(ii) *Annual co-op allocations*—(A) *Pacific whiting.* Each permitted MS co-op is authorized to harvest a quantity of Pacific whiting that is based on the sum of the catch history assignments for each member MS/CV-endorsed permit identified in the NMFS-accepted co-op agreement for a given calendar year. Other limited entry permits registered to vessels that will fish for the co-op do not bring catch allocation to a permitted MS co-op.
 
-(B) *Single MS/CV Coop Fishery.* If all MS/CV-endorsed permits are members of a single coop in a given year and there is not a non-coop fishery, then NMFS will allocate 100 percent of the MS Coop Program allocation to that coop.
+(B) *Single MS/CV Co-op Fishery.* If all MS/CV-endorsed permits are members of a single co-op in a given year and there is not a non-coop fishery, then NMFS will allocate 100 percent of the MS Co-op Program allocation to that co-op.
 
-(iii) *Annual non-coop allocation*—(A) *Pacific whiting.* The non-coop whiting fishery is authorized to harvest a quantity of Pacific whiting that is remaining in the mothership sector annual allocation after the deduction of all coop allocations.
+(iii) *Annual non-coop allocation*—(A) *Pacific whiting.* The non-coop whiting fishery is authorized to harvest a quantity of Pacific whiting that is remaining in the mothership sector annual allocation after the deduction of all co-op allocations.
 
 (B) *Announcement of the non-coop fishery allocations.* Information on the amount of Pacific whiting and non-whiting groundfish with allocations that will be made available to the non-coop fishery when the final Pacific whiting specifications for the mothership sector is established and will be announced to the public through a Federal Register announcement and/or public notice and/or the NMFS website.
 
@@ -128,7 +126,7 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (i) Further harvesting, receiving or at-sea processing by a mothership or catcher vessel in the mothership sector is prohibited when the mothership sector Pacific whiting allocation is projected to be reached. No additional unprocessed groundfish may be brought on board after at-sea processing is prohibited, but a mothership may continue to process catch that was on board before at-sea processing was prohibited. Pacific whiting may not be taken and retained, possessed, or landed by a catcher vessel participating in the mothership sector.
 
-(ii) When a permitted MS coop sub-allocation of Pacific whiting-is reached, further harvesting or receiving of groundfish by vessels fishing in the permitted MS coop must cease, unless the permitted MS coop is operating under an NMFS-accepted inter-coop agreement.
+(ii) When a permitted MS co-op sub-allocation of Pacific whiting-is reached, further harvesting or receiving of groundfish by vessels fishing in the permitted MS co-op must cease, unless the permitted MS co-op is operating under an NMFS-accepted inter-co-op agreement.
 
 (iii) When the non-coop fishery sub-allocation of Pacific whiting is projected to be reached, further harvesting or receiving of groundfish by vessels fishing in the non-coop fishery must cease.
 
@@ -136,81 +134,81 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (5) *Announcements.* The Regional Administrator will announce in the Federal Register when the mothership sector allocation of Pacific whiting is reached, or is projected to be reached, and specify the appropriate action. In order to prevent exceeding an allocation and to avoid underutilizing the resource, prohibitions against further taking and retaining, receiving, or at-sea processing of Pacific whiting may be made effective immediately by actual notice to fishers and processors, by email, internet, phone, fax, letter, press release, and/or USCG Notice to Mariners (monitor channel 16 VHF), followed by publication in the Federal Register, in which instance public comment will be sought for a reasonable period of time thereafter.
 
-(6) *Redistribution of annual allocation*—(i) *Between permitted MS coops (inter-coop).* (A) Through an inter-co-op agreement, the designated co-op managers of permitted MS co-ops may distribute Pacific whiting allocations among one or more permitted MS co-ops.
+(6) *Redistribution of annual allocation*—(i) *Between permitted MS co-ops (inter-co-op).* (A) Through an inter-co-op agreement, the designated co-op managers of permitted MS co-ops may distribute Pacific whiting allocations among one or more permitted MS co-ops.
 
-(B) In the case of a MS coop failure during the Pacific whiting primary season for the mothership sector, unused allocation associated with the catch history will not be available for harvest by the coop that failed, by any former members of the coop that failed, or any other MS coop for the remainder of that calendar year.
+(B) In the case of a MS co-op failure during the Pacific whiting primary season for the mothership sector, unused allocation associated with the catch history will not be available for harvest by the co-op that failed, by any former members of the co-op that failed, or any other MS co-op for the remainder of that calendar year.
 
-(*1*) *Between the MS coop and non-coop fisheries.* Pacific whiting may not be redistributed between the coop and non-coop fisheries.
+(*1*) *Between the MS co-op and non-coop fisheries.* Pacific whiting may not be redistributed between the co-op and non-coop fisheries.
 
 (*2*) *Between Pacific whiting sectors.* Pacific whiting may not be redistributed between the mothership sector and catcher/processor sector. Whiting may not be redistributed to the Shorebased IFQ Program.
 
-(d) *MS coop permit and agreement*—(1) *Eligibility and registration*—(i) *Eligibility.* To be an eligible coop entity a group of MS/CV-endorsed permit owners (coop members) must be a recognized entity under the laws of the United States or the laws of a State and represent all of the coop members.
+(d) *MS co-op permit and agreement*—(1) *Eligibility and registration*—(i) *Eligibility.* To be an eligible co-op entity a group of MS/CV-endorsed permit owners (co-op members) must be a recognized entity under the laws of the United States or the laws of a State and represent all of the co-op members.
 
 (ii) *Annual registration and deadline.* Each year, a co-op entity intending to participate as a co-op under the MS Co-op Program must submit an application for a MS co-op permit between January 17 and March 17 of the year in which it intends to fish. NMFS will not consider any applications received after March 17. An MS co-op permit expires on December 31 of the year in which it was issued.
 
 (iii) *Application for MS co-op permit.* The designated co-op manager, on behalf of the co-op entity, must submit a complete application form and include each of the items listed in paragraph (d)(1)(iii)(A) of this section. Only complete applications will be considered for issuance of a MS co-op permit. An application will not be considered complete if any required application fees and annual co-op reports have not been received by NMFS. NMFS may request additional supplemental documentation as necessary to make a determination of whether to approve or disapprove the application. Application forms and instruction are available on the NMFS West Coast Region (WCR) website (*https://www.fisheries.noaa.gov/permit/groundfish-mothership-cooperative-permit*) or by request from NMFS. The designated co-op manager must sign the application acknowledging the responsibilities of a designated co-op manager defined in paragraph (b)(3) of this section. For permit owners with more than one MS/CV endorsement and associated CHA, paragraph (g)(2)(iv)(D) of this section specifies how to join an MS co-op(s).
 
-(A) *Coop agreement.* Signed copies of the coop agreement must be submitted to NMFS before the coop is authorized to engage in fishing activities. A coop agreement must include all of the information listed in this paragraph to be considered a complete coop agreement. NMFS will only review complete coop agreements. A coop agreement will not be accepted unless it includes all of the required information; the descriptive items listed in this paragraph appear to meet the stated purpose; and information submitted is correct and accurate.
+(A) *Co-op agreement.* Signed copies of the co-op agreement must be submitted to NMFS before the co-op is authorized to engage in fishing activities. A co-op agreement must include all of the information listed in this paragraph to be considered a complete co-op agreement. NMFS will only review complete co-op agreements. A co-op agreement will not be accepted unless it includes all of the required information; the descriptive items listed in this paragraph appear to meet the stated purpose; and information submitted is correct and accurate.
 
-(*1*) *Coop agreement contents.* Each coop agreement must be signed by all of the coop members (MS/CV-endorsed permit owners) and include the following information:
+(*1*) *Co-op agreement contents.* Each co-op agreement must be signed by all of the co-op members (MS/CV-endorsed permit owners) and include the following information:
 
-(*i*) A list of all vessels and permit owners participating in the coop and their share of the allocated catch history assignments which must match the amount distributed to individual permit owners by NMFS.
+(*i*) A list of all vessels and permit owners participating in the co-op and their share of the allocated catch history assignments which must match the amount distributed to individual permit owners by NMFS.
 
 (*ii*) All MS/CV-endorsed limited entry member permits identified by permit number.
 
-(*iii*) A clause indicting that each member MS/CV-endorsed permit's catch history assignment is based on the catch history assignment calculation by NMFS used for distribution to the coop.
+(*iii*) A clause indicting that each member MS/CV-endorsed permit's catch history assignment is based on the catch history assignment calculation by NMFS used for distribution to the co-op.
 
 (*iv*) A description of the coop's plan to adequately monitor and account for the catch of Pacific whiting and non-whiting groundfish, and to monitor and account for the catch of prohibited species.
 
-(*v*) A clause stating that if a permit is registered to a new permit owner during the effective period of the coop agreement, any new owners of that member permit would be coop members required to comply with membership restrictions in the coop agreement.
+(*v*) A clause stating that if a permit is registered to a new permit owner during the effective period of the co-op agreement, any new owners of that member permit would be co-op members required to comply with membership restrictions in the co-op agreement.
 
 (*vi*) A description of the coop's enforcement and penalty provisions adequate to maintain catch of Pacific whiting and non-whiting groundfish within the allocations.
 
 (*vii*) A description of measures to reduce catch of overfished species.
 
-(*viii*) A clause describing the co-op manager's responsibility for managing inter-coop reassignments of catch history assignment, should any occur.
+(*viii*) A clause describing the co-op manager's responsibility for managing inter-co-op reassignments of catch history assignment, should any occur.
 
-(*ix*) A clause describing how the annual report will be produced to document the coop's catch, bycatch data, inseason catch history reassignments and any other significant activities undertaken by the coop during the year, and the submission deadlines for that report.
+(*ix*) A clause describing how the annual report will be produced to document the coop's catch, bycatch data, inseason catch history reassignments and any other significant activities undertaken by the co-op during the year, and the submission deadlines for that report.
 
-(*x*) Identification of the designated coop manager.
+(*x*) Identification of the designated co-op manager.
 
-(*xi*) Provisions that prohibit member permit owners that have incurred legal sanctions that prevent them from fishing groundfish in the Council region from fishing in the coop.
+(*xi*) Provisions that prohibit member permit owners that have incurred legal sanctions that prevent them from fishing groundfish in the Council region from fishing in the co-op.
 
-(*2*) *Inter-coop agreement.* The coop entity must provide, at the time of annual application, copies of any inter-coop agreement(s) into which the coop has entered. Such agreements must incorporate and honor the provisions of the individual coop agreements for each coop that is a party to the inter-coop agreement. Inter-coop agreements are specified at paragraph (e) of this section.
+(*2*) *Inter-co-op agreement.* The co-op entity must provide, at the time of annual application, copies of any inter-co-op agreement(s) into which the co-op has entered. Such agreements must incorporate and honor the provisions of the individual co-op agreements for each co-op that is a party to the inter-co-op agreement. Inter-co-op agreements are specified at paragraph (e) of this section.
 
-(B) *Acceptance of a coop agreement*—(*1*) If NMFS does not accept the coop agreement, the coop permit application will be returned to the applicant with a letter stating the reasons the coop agreement was not accepted by NMFS.
+(B) *Acceptance of a co-op agreement*—(*1*) If NMFS does not accept the co-op agreement, the co-op permit application will be returned to the applicant with a letter stating the reasons the co-op agreement was not accepted by NMFS.
 
-(*2*) Coop agreements that are not accepted may be resubmitted for review by sufficiently addressing the deficiencies identified in the NMFS letter and resubmitting the entire coop permit application by the date specified in the NMFS letter.
+(*2*) Co-op agreements that are not accepted may be resubmitted for review by sufficiently addressing the deficiencies identified in the NMFS letter and resubmitting the entire co-op permit application by the date specified in the NMFS letter.
 
-(*3*) An accepted coop agreement that was submitted with the MS coop permit application and for which a MS coop permit was issued will remain in place through the end of the calendar year. The designated coop manager must resubmit a complete coop agreement to NMFS consistent with the coop agreement contents described in paragraph (d)(1)(iii)(A)(*1*) of this section if there is a material change to the coop agreement.
+(*3*) An accepted co-op agreement that was submitted with the MS co-op permit application and for which a MS co-op permit was issued will remain in place through the end of the calendar year. The designated co-op manager must resubmit a complete co-op agreement to NMFS consistent with the co-op agreement contents described in paragraph (d)(1)(iii)(A)(*1*) of this section if there is a material change to the co-op agreement.
 
-(*4*) Within 7 calendar days following a material change, the designated coop manager must notify NMFS of the material change. Within 30 calendar days, the designated coop manger must submit to NMFS the revised coop agreement with a letter that describes such changes. NMFS will review the material changes and provide a letter to the coop manager that either accepts the changes as given or does not accept the revised coop agreement with a letter stating the reasons that it was not accepted by NMFS. The coop may resubmit the coop agreement with further revisions to the material changes responding to NMFS concerns.
+(*4*) Within 7 calendar days following a material change, the designated co-op manager must notify NMFS of the material change. Within 30 calendar days, the designated co-op manger must submit to NMFS the revised co-op agreement with a letter that describes such changes. NMFS will review the material changes and provide a letter to the co-op manager that either accepts the changes as given or does not accept the revised co-op agreement with a letter stating the reasons that it was not accepted by NMFS. The co-op may resubmit the co-op agreement with further revisions to the material changes responding to NMFS concerns.
 
-(iv) *Effective date of MS coop permit.* A MS coop permit will be effective upon the date approved by NMFS and will allow fishing from the start of the MS sector primary whiting season until the end of the calendar year or until one or more of the following events occur, whichever comes first:
+(iv) *Effective date of MS co-op permit.* A MS co-op permit will be effective upon the date approved by NMFS and will allow fishing from the start of the MS sector primary whiting season until the end of the calendar year or until one or more of the following events occur, whichever comes first:
 
-(A) NMFS permanently closes the mothership sector fishing season for the year or a specific MS coop or the designated coop manager notifies NMFS that the coop has completed fishing for the calendar year,
+(A) NMFS permanently closes the mothership sector fishing season for the year or a specific MS co-op or the designated co-op manager notifies NMFS that the co-op has completed fishing for the calendar year,
 
-(B) The coop has reached its Pacific whiting allocation,
+(B) The co-op has reached its Pacific whiting allocation,
 
-(C) A material change to the coop agreement has occurred and the designated coop manager failed to notify NMFS within 7 calendar days of the material change and submit to NMFS the revised coop agreement with a letter that describes such changes within 30 calendar days, or
+(C) A material change to the co-op agreement has occurred and the designated co-op manager failed to notify NMFS within 7 calendar days of the material change and submit to NMFS the revised co-op agreement with a letter that describes such changes within 30 calendar days, or
 
-(D) NMFS has determined that a coop failure occurred.
+(D) NMFS has determined that a co-op failure occurred.
 
-(2) *Initial administrative determination.* For all complete applications, NMFS will issue an IAD that either approves or disapproves the application. If approved, the IAD will include a MS coop permit. If disapproved, the IAD will provide the reasons for this determination. The IAD for a MS coop permit follows the same requirement as specified for limited entry permits at § 660.25(g)(4)(ii); if the applicant does not appeal the IAD within the 30 calendar days, the IAD becomes the final decision of the Regional Administrator acting on behalf of the Secretary of Commerce.
+(2) *Initial administrative determination.* For all complete applications, NMFS will issue an IAD if the application is disapproved. An approved application will result in issuance of the permit. If disapproved, the IAD will provide the reasons for this determination. The IAD for a MS co-op permit follows the same requirement as specified for limited entry permits at § 660.25(g)(4)(ii); if the applicant does not appeal the IAD within the 30 calendar days, the IAD becomes the final decision of the Regional Administrator acting on behalf of the Secretary of Commerce.
 
-(3) *Appeals.* An appeal to a MS coop permit action follows the same process as the general permit appeals process defined at § 660.25(g), subpart C.
+(3) *Appeals.* An appeal to a MS co-op permit action follows the same process as the general permit appeals process defined at § 660.25(g), subpart C.
 
-(4) *Fees.* The Regional Administrator is authorized to charge fees for administrative costs associated with the issuance of a MS coop permit consistent with the provisions given at § 660.25(f), subpart C.
+(4) *Fees.* The Regional Administrator is authorized to charge fees for administrative costs associated with the issuance of a MS co-op permit consistent with the provisions given at § 660.25(f), subpart C.
 
-(e) *Inter-coop agreements*—(1) *General.* Permitted MS coops may voluntarily enter into inter-coop agreements for the purpose of sharing permitted MS coop allocations of Pacific whiting and allocated non-whiting groundfish. If two or more permitted MS coops enter into an inter-coop agreement, the inter-coop agreement must incorporate and honor the provisions of each permitted MS coop subject to the inter-coop agreement.
+(e) *Inter-co-op agreements*—(1) *General.* Permitted MS co-ops may voluntarily enter into inter-co-op agreements for the purpose of sharing permitted MS co-op allocations of Pacific whiting and allocated non-whiting groundfish. If two or more permitted MS co-ops enter into an inter-co-op agreement, the inter-co-op agreement must incorporate and honor the provisions of each permitted MS co-op subject to the inter-co-op agreement.
 
-(2) *Submission of inter-coop agreements.* Inter-coop agreements must be submitted to NMFS for acceptance.
+(2) *Submission of inter-co-op agreements.* Inter-co-op agreements must be submitted to NMFS for acceptance.
 
-(3) *Inter-coop agreement review process.* Each designated coop manager must submit a copy of the inter-coop agreement signed by both designated coop managers for review. Complete coop agreements containing all items listed under paragraph (d)(1)(iii)(A)(*1*) will be reviewed by NMFS.
+(3) *Inter-co-op agreement review process.* Each designated co-op manager must submit a copy of the inter-co-op agreement signed by both designated co-op managers for review. Complete co-op agreements containing all items listed under paragraph (d)(1)(iii)(A)(*1*) will be reviewed by NMFS.
 
 (f) *Mothership (MS) permit.*
 
-(1) *General.* Any vessel that processes or receives deliveries as a mothership processor in the Pacific whiting fishery mothership sector must be registered to an MS permit. A vessel registered to an MS permit may receive fish from a vessel that fishes in an MS coop and/or may receive fish from a vessel that fishes in the non-coop fishery at the same time or during the same year.
+(1) *General.* Any vessel that processes or receives deliveries as a mothership processor in the Pacific whiting fishery mothership sector must be registered to an MS permit. A vessel registered to an MS permit may receive fish from a vessel that fishes in an MS co-op and/or may receive fish from a vessel that fishes in the non-coop fishery at the same time or during the same year.
 
 (i) *Vessel size endorsement.* An MS permit does not have a vessel size endorsement. The endorsement provisions at § 660.25(b)(3)(iii), subpart C, do not apply to an MS permit.
 
@@ -228,11 +226,11 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (5) *Cost recovery.* The owner of a vessel registered to an MS permit, the operator of a vessel registered to an MS permit, and the owner of the MS permit registered to that vessel, are considered to be the fish buyer as defined at § 660.111, and must comply with the cost recovery program specified at § 660.115.
 
-(g) *Mothership catcher vessel (MS/CV)—endorsed permit*—(1) *General.* Any vessel that delivers whiting to a mothership processor in the Pacific whiting fishery mothership sector must be registered to an MS/CV-endorsed permit, except that a vessel registered to limited entry trawl permit without an MS/CV or C/P endorsement may fish for a coop if authorized by the coop. Within the MS Coop Program, an MS/CV-endorsed permit may participate in an MS coop or in the non-coop fishery. An MS/CV-endorsed permit is a limited entry permit and is subject to the limited entry permit provisions given at § 660.25(b), subpart C.
+(g) *Mothership catcher vessel (MS/CV)—endorsed permit*—(1) *General.* Any vessel that delivers whiting to a mothership processor in the Pacific whiting fishery mothership sector must be registered to an MS/CV-endorsed permit, except that a vessel registered to limited entry trawl permit without an MS/CV or C/P endorsement may fish for a co-op if authorized by the co-op. Within the MS Co-op Program, an MS/CV-endorsed permit may participate in an MS co-op or in the non-coop fishery. An MS/CV-endorsed permit is a limited entry permit and is subject to the limited entry permit provisions given at § 660.25(b), subpart C.
 
 (i) *Catch history assignment.* NMFS will assign a catch history assignment to each MS/CV-endorsed permit. The catch history assignment is based on the catch history in the Pacific whiting mothership sector during the qualifying years of 1994 through 2003. The catch history assignment is expressed as a percentage of Pacific whiting of the total mothership sector allocation as described at paragraph (d)(2)(i) of this section. Catch history assignments will be issued to the nearest whole pound using standard rounding rules (*i.e.*, decimal amounts from zero up to 0.5 round down and 0.5 up to 1.0 round up).
 
-(ii) *Pacific whiting mothership sector allocation.* The catch history assignment allocation accrues to the coop to which the MS/CV-endorsed permit is tied through private agreement, or will be assigned to the non-coop fishery if the MS/CV-endorsed permit does not participate in the coop fishery.
+(ii) *Pacific whiting mothership sector allocation.* The catch history assignment allocation accrues to the co-op to which the MS/CV-endorsed permit is tied through private agreement, or will be assigned to the non-coop fishery if the MS/CV-endorsed permit does not participate in the co-op fishery.
 
 (iii) *MS/CV endorsement and CHA non-severable.* Subject to the regulations at paragraph (g)(2)(iv) and (v) of this section, an MS/CV endorsement and its associated CHA are permanently linked together as originally issued by NMFS and cannot be divided or registered separately to another limited entry trawl permit. An MS/CV endorsement and its associated CHA must be registered to a limited entry trawl permit and any change in endorsement registration must be to another limited entry trawl permit.
 
@@ -256,7 +254,7 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (C) *Effective date.* Any change in MS/CV endorsement registration from one limited entry trawl permit to another limited entry trawl permit will be effective on January 1 in the year following the application period.
 
-(D) A limited entry trawl permit owner with multiple MS/CV-endorsements and associated CHA on a single permit may assign each distinct MS/CV endorsement and catch history assignment separately to coop(s) or the non-coop fishery. In such cases, as part of the coop permit application process, specified at paragraph (d)(1)(iii) of this section, the permit owner must specify on the coop permit application form which MS/CV endorsement and associated CHA is specifically registered to a particular coop.
+(D) A limited entry trawl permit owner with multiple MS/CV-endorsements and associated CHA on a single permit may assign each distinct MS/CV endorsement and catch history assignment separately to co-op(s) or the non-coop fishery. In such cases, as part of the co-op permit application process, specified at paragraph (d)(1)(iii) of this section, the permit owner must specify on the co-op permit application form which MS/CV endorsement and associated CHA is specifically registered to a particular co-op.
 
 (v) *Combination.* An MS/CV-endorsed permit may be combined with one or more other limited entry trawl permits; the resulting permit will be a single permit with an increased size endorsement. If the MS/CV-endorsed permit is combined with another limited entry trawl-endorsed permit other than a C/P-endorsed permit, the resulting permit will be MS/CV-endorsed. If an MS/CV-endorsed permit is combined with a C/P-endorsed permit, the resulting permit will be exclusively a C/P-endorsed permit, and will not have an MS/CV endorsement. If an MS/CV-endorsed permit is combined with another MS/CV-endorsed permit, the combined catch history assignment of the permit(s) will be added to the active permit (the permit remaining after combination) and the other permit will be retired. If a trawl permit has more than one MS/CV endorsements and it is combined with a non C/P-endorsed trawl permit with no such endorsements, the MS/CV endorsements on the resulting permit will be maintained as separate endorsements on the resulting permit. NMFS will not approve a permit combination if it results in a person exceeding the accumulation limits specified at paragraph (g)(3) of this section. Any request to combine permits is subject to the provision provided at § 660.25(b), including the combination formula for resulting size endorsements.
 
@@ -274,7 +272,7 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (C) *Trawl identification of ownership interest form.* Any person that owns a limited entry trawl permit and that is applying for or renewing an MS/CV endorsement shall document those persons that have an ownership interest in the permit greater than or equal to 2 percent. This ownership interest must be documented with the SFD via the Trawl Identification of Ownership Interest Form. SFD will not issue an MS/CV endorsement unless the Trawl Identification of Ownership Interest Form has been completed. NMFS may request additional information of the applicant as necessary to verify compliance with accumulation limits. Further, if SFD discovers through review of the Trawl Identification of Ownership Interest Form that a person owns or controls more than the accumulation limits, the person will be subject to divestiture provisions specified in paragraph (g)(3)(i)(D) of this section.
 
-(D) *Divestiture.* For MS/CV-endorsed permit owners that are found to exceed the accumulation limits during the initial issuance of MS/CV-endorsed permits, an adjustment period will be provided during which they will have to completely divest of ownership in permits that exceed the accumulation limits. Any person that NMFS determines, as a result of the initial issuance of MS/CV-endorsed permits, to own in excess of 20 percent of the total catch history assignment in the MS Coop Program applying the individual and collective rule described at § 660.150(g)(3)(i)(A) will be allowed to receive such permit(s), but must divest themselves of the excess ownership by August 31, 2016. Owners of such permit(s) may receive and use the MS/CV-endorsed permit(s), up to the time their divestiture is completed. After August 31, 2016, any MS/CV-endorsed permits owned by a person (including any person who has ownership interest in the owner named on the permit) in excess of the accumulation limits will not be issued (renewed) until the permit owner complies with the accumulation limits.
+(D) *Divestiture.* For MS/CV-endorsed permit owners that are found to exceed the accumulation limits during the initial issuance of MS/CV-endorsed permits, an adjustment period will be provided during which they will have to completely divest of ownership in permits that exceed the accumulation limits. Any person that NMFS determines, as a result of the initial issuance of MS/CV-endorsed permits, to own in excess of 20 percent of the total catch history assignment in the MS Co-op Program applying the individual and collective rule described at § 660.150(g)(3)(i)(A) will be allowed to receive such permit(s), but must divest themselves of the excess ownership by August 31, 2016. Owners of such permit(s) may receive and use the MS/CV-endorsed permit(s), up to the time their divestiture is completed. After August 31, 2016, any MS/CV-endorsed permits owned by a person (including any person who has ownership interest in the owner named on the permit) in excess of the accumulation limits will not be issued (renewed) until the permit owner complies with the accumulation limits.
 
 (ii) *Catcher vessel usage limit.* No vessel may catch more than 30 percent of the mothership sector's whiting allocation.
 
@@ -320,7 +318,7 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (A) *Prequalified application.* A “prequalified application” is a partially pre-filled application where NMFS has preliminarily determined the catch history that may qualify the applicant for an initial issuance of an MS/CV endorsement and associated catch history assignment. NMFS will mail prequalified application packages to the owners of current limited entry trawl permits, as listed in the NMFS permit database at the time applications are mailed, which NMFS determines may qualify for an MS/CV endorsement and associated catch history assignment. NMFS will mail the application by certified mail to the current address of record in the NMFS permit database. The application will contain the basis of NMFS' calculation. The application package will include, but is not limited to: a prequalified application (with landings history), a Trawl Identification of Ownership Interest form, and any other documents NMFS believes are necessary to aid the limited entry permit owner in completing the application.
 
-(B) *Request for an application.* Any owner of a current limited entry trawl permit that does not receive a prequalified application that believes the permit qualifies for an initial issuance of an MS/CV endorsement and associated catch history assignment must complete an application package and submit the completed application to NMFS by the application deadline. Application packages are available on the NMFS Web site (*http://www.nwr.noaa.gov/Groundfish-Halibut/Groundfish-Permits/index.cfm*) or by contacting SFD. An application must include valid NORPAC data, copies of NMFS observer data forms, or other credible information that substantiates the applicant's qualification for an initial issuance of an MS/CV endorsement and associated catch history assignment.
+(B) *Request for an application.* Any owner of a current limited entry trawl permit that does not receive a prequalified application that believes the permit qualifies for an initial issuance of an MS/CV endorsement and associated catch history assignment must complete an application package and submit the completed application to NMFS by the application deadline. Application packages are available on the NMFS Web site (*https://www.fisheries.noaa.gov/region/west-coast*) or by contacting SFD. An application must include valid NORPAC data, copies of NMFS observer data forms, or other credible information that substantiates the applicant's qualification for an initial issuance of an MS/CV endorsement and associated catch history assignment.
 
 (v) *Corrections to the application.* If the applicant does not accept NMFS' calculation in the prequalified application either in part or whole, in order for NMFS to reconsider NMFS' calculation, the applicant must identify in writing to NMFS which parts of the application that the applicant contends to be inaccurate, and must provide specific credible information to substantiate any requested corrections. The completed application and specific credible information must be provided to NMFS in writing by the application deadline. Written communication must be either post-marked or hand-delivered within normal business hours no later than November 1, 2010. Requests for corrections may only be granted for changes to the selection of the eight years with the highest relative history of whiting and errors in NMFS' use or application of data, including:
 
@@ -346,7 +344,7 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (*6*) NMFS may request additional information of the applicant as necessary to make an IAD on initial issuance of an MS/CV-endorsed permit and associated catch history assignment.
 
-(B) *Application deadline.* A complete, certified application must be either postmarked or hand-delivered within normal business hours to NMFS, Northwest Region, Permits Office, Bldg. 1, 7600 Sand Point Way NE., Seattle, WA 98115, no later than November 1, 2010. NMFS will not accept or review any applications received or postmarked after the application deadline. There are no hardship provisions for this deadline.
+(B) *Application deadline.* A complete, certified application must be either postmarked or hand-delivered within normal business hours to NMFS West Coast Region, Permits Office, Bldg. 1, 7600 Sand Point Way NE., Seattle, WA 98115, no later than November 1, 2010. NMFS will not accept or review any applications received or postmarked after the application deadline. There are no hardship provisions for this deadline.
 
 (vii) *Permit transfer during application period.* NMFS will not review or approve any request for a change in limited entry trawl permit owner at any time after either November 1, 2010 or the date upon which the application is received by NMFS, whichever occurs first, until a final decision is made by the Regional Administrator on behalf of the Secretary of Commerce on that permit.
 
@@ -826,16 +824,16 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (D) *Appeals.* A certified observer who receives an IAD that suspends or revokes his or her observer certification may appeal the determination within 30 calendar days after the date on the IAD to the Office of Administrative Appeals pursuant to § 660.19.
 
-(k) *MS coop failure*—(1) The Regional Administrator will determine that a permitted MS coop is considered to have failed if:
+(k) *MS co-op failure*—(1) The Regional Administrator will determine that a permitted MS co-op is considered to have failed if:
 
-(i) The coop members dissolve the coop, or
+(i) The co-op members dissolve the co-op, or
 
-(ii) The coop membership falls below 20 percent of the MS/CV-endorsed limited entry permits, or
+(ii) The co-op membership falls below 20 percent of the MS/CV-endorsed limited entry permits, or
 
-(iii) The coop agreement is no longer valid.
+(iii) The co-op agreement is no longer valid.
 
-(2) If a permitted MS coop dissolves, the designated coop manager must notify NMFS SFD in writing of the dissolution of the coop.
+(2) If a permitted MS co-op dissolves, the designated co-op manager must notify NMFS SFD in writing of the dissolution of the co-op.
 
-(3) In the event of a NMFS determined coop failure, or reported failure, the designated coop manager will be notified in writing about NMFS' determination. Upon notification of a coop failure, fishing under the MS coop permit will no longer be allowed. Should a coop failure determination be made during the Pacific whiting primary season for the mothership sector, unused allocation associated with the catch history will not be available for harvest by the coop that failed, by any former members of the coop that failed, or any other MS coop for the remainder of that calendar year.
+(3) In the event of a NMFS determined co-op failure, or reported failure, the designated co-op manager will be notified in writing about NMFS' determination. Upon notification of a co-op failure, fishing under the MS co-op permit will no longer be allowed. Should a co-op failure determination be made during the Pacific whiting primary season for the mothership sector, unused allocation associated with the catch history will not be available for harvest by the co-op that failed, by any former members of the co-op that failed, or any other MS co-op for the remainder of that calendar year.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78406, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74744, Dec. 1, 2011; 77 FR 45512, Aug. 1, 2012; 77 FR 55157, Sept. 7, 2012; 78 FR 18896, Mar. 28, 2013; 78 FR 68772, Nov. 15, 2013; 78 FR 75282, Dec. 11, 2013; 80 FR 22290, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 762, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 31160, June 28, 2019; 84 FR 68810, Dec. 17, 2019; 85 FR 37029, June 19, 2020; 85 FR 35601, June 11, 2020; 86 FR 26443, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 87 FR 54909, Sept. 8, 2022; 87 FR 77027, Dec. 16, 2022; 87 FR 77006, Dec. 16, 2022]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78406, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74744, Dec. 1, 2011; 77 FR 45512, Aug. 1, 2012; 77 FR 55157, Sept. 7, 2012; 78 FR 18896, Mar. 28, 2013; 78 FR 68772, Nov. 15, 2013; 78 FR 75282, Dec. 11, 2013; 80 FR 22290, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 762, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 31160, June 28, 2019; 84 FR 68810, Dec. 17, 2019; 85 FR 37029, June 19, 2020; 85 FR 35601, June 11, 2020; 86 FR 26443, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 87 FR 54909, Sept. 8, 2022; 87 FR 77027, Dec. 16, 2022; 87 FR 77006, Dec. 16, 2022; 88 FR 81358, 81359, Nov. 22, 2023]

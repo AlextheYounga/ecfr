@@ -1,4 +1,6 @@
-##### 252.211-7008 Use of Government-assigned Serial Numbers #####
+##### 252.211-7008 Use of Government-assigned Serial Numbers. #####
+
+Link to an amendment published at 88 FR 88537, Dec. 22, 2023.
 
 As prescribed in 211.274-6(c), use the following clause:
 

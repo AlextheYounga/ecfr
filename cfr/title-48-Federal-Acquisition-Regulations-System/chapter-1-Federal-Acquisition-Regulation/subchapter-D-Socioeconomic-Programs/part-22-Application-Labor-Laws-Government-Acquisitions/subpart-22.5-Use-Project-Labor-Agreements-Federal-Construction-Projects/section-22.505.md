@@ -1,5 +1,7 @@
 ##### 22.505 Solicitation provision and contract clause. #####
 
+Link to an amendment published at 88 FR 88728, Dec. 22, 2023.
+
 For acquisition of large-scale construction projects, if the agency decides pursuant to this subpart that a project labor agreement will be required, the contracting officer shall—
 
 (a) Insert the provision at 52.222-33, Notice of Requirement for Project Labor Agreement, in all solicitations associated with the construction project.

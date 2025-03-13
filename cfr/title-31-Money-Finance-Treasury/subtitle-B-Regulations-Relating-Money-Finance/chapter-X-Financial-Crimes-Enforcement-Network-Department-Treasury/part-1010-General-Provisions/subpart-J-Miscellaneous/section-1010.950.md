@@ -1,5 +1,7 @@
 ##### § 1010.950 Availability of information. #####
 
+Link to an amendment published at 88 FR 88808, Dec. 22, 2023.
+
 (a) The Secretary may within his discretion disclose information reported under this chapter for any reason consistent with the purposes of the Bank Secrecy Act, including those set forth in paragraphs (b) through (d) of this section.
 
 (b) The Secretary may make any information set forth in any report received pursuant to this chapter available to another agency of the United States, to an agency of a state or local government or to an agency of a foreign government, upon the request of the head of such department or agency made in writing and stating the particular information desired, the criminal, tax or regulatory purpose for which the information is sought, and the official need for the information.

@@ -1,5 +1,7 @@
 ##### 52.222-34 Project Labor Agreement. #####
 
+Link to an amendment published at 88 FR 88729, Dec. 22, 2023.
+
 As prescribed in 22.505(b)(1), insert the following clause:
 
 Project Labor Agreement (MAY 2010)

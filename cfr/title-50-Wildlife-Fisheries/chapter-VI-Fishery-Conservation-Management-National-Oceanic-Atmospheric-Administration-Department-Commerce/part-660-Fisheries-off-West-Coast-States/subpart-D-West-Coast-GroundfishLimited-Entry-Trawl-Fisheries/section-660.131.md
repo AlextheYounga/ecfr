@@ -8,7 +8,7 @@
 
 (iii) For vessels delivering to motherships, the primary season is the period(s) when catching and at-sea processing is allowed for the MS sector (after the season closes, at-sea processing of any fish already on board the processing vessel is allowed to continue).
 
-(2) *Different primary season start dates.* North of 40°30′ N. lat., different primary season starting dates may be established for the C/P Coop Program, the MS Coop Program, and the Pacific whiting IFQ fishery for vessels delivering to IFQ first receivers north of 42° N. lat. and vessels delivering to IFQ first receivers between 42° and 40°30′ N. lat.
+(2) *Different primary season start dates.* North of 40°30′ N. lat., different primary season starting dates may be established for the C/P Co-op Program, the MS Co-op Program, and the Pacific whiting IFQ fishery for vessels delivering to IFQ first receivers north of 42° N. lat. and vessels delivering to IFQ first receivers between 42° and 40°30′ N. lat.
 
 (i) *Procedures.* The Pacific whiting primary seasons north of 40°30′ N. lat. generally will be established according to the procedures of the PCGFMP for developing and implementing harvest specifications and apportionments. The season opening dates remain in effect unless changed.
 
@@ -44,7 +44,7 @@
 
 (e) *At-sea processing.* Whiting may not be processed at sea south of 42°00′ N. lat. (Oregon-California border), unless by a waste-processing vessel as authorized under paragraph (g) of this section.
 
-(f) *Time of day.* Vessels fishing in the Pacific whiting primary seasons for the Shorebased IFQ Program, MS Coop Program or C/P Coop Program shall not target Pacific whiting with midwater trawl gear in the fishery management area south of 42°00′ N. lat. between 0001 hours to one-half hour after official sunrise (local time). During this time south of 42°00′ N. lat., trawl doors must be on board any vessel used to fish for whiting and the trawl must be attached to the trawl doors. Official sunrise is determined, to the nearest 5° lat., in The Nautical Almanac issued annually by the Nautical Almanac Office, U.S. Naval Observatory, and available from the U.S. Government Printing Office.
+(f) *Time of day.* Vessels fishing in the Pacific whiting primary seasons for the Shorebased IFQ Program, MS Co-op Program or C/P Co-op Program shall not target Pacific whiting with midwater trawl gear in the fishery management area south of 42°00′ N. lat. between 0001 hours to one-half hour after official sunrise (local time). During this time south of 42°00′ N. lat., trawl doors must be on board any vessel used to fish for whiting and the trawl must be attached to the trawl doors. Official sunrise is determined, to the nearest 5° lat., in The Nautical Almanac issued annually by the Nautical Almanac Office, U.S. Naval Observatory, and available from the U.S. Government Printing Office.
 
 (g) *Processing fish waste at sea.* A vessel that processes only fish waste (a “waste-processing vessel”) is not considered a whiting processor and therefore is not subject to the allocations, seasons, or restrictions for catcher/processors or motherships while it operates as a waste-processing vessel. However, no vessel may operate as a waste-processing vessel 48 hours immediately before and after a primary season for whiting in which the vessel operates as a catcher/processor or mothership. A vessel must meet the following conditions to qualify as a waste-processing vessel:
 
@@ -74,4 +74,4 @@
 
 (i) *Salmon bycatch.* This fishery may be closed through automatic action at § 660.60(d)(1)(v) and (vi).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 78390, Dec. 15, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 77 FR 28516, May 15, 2012; 80 FR 27600, May 14, 2015; 80 FR 19036, Apr. 9, 2015; 80 FR 77273, Dec. 14, 2015; 83 FR 64002, Dec. 12, 2018; 84 FR 63988, Nov. 19, 2019; 84 FR 65926, Dec. 2, 2019; 87 FR 77006, Dec. 16, 2022]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 78390, Dec. 15, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 77 FR 28516, May 15, 2012; 80 FR 27600, May 14, 2015; 80 FR 19036, Apr. 9, 2015; 80 FR 77273, Dec. 14, 2015; 83 FR 64002, Dec. 12, 2018; 84 FR 63988, Nov. 19, 2019; 84 FR 65926, Dec. 2, 2019; 87 FR 77006, Dec. 16, 2022; 88 FR 81358, Nov. 22, 2023]

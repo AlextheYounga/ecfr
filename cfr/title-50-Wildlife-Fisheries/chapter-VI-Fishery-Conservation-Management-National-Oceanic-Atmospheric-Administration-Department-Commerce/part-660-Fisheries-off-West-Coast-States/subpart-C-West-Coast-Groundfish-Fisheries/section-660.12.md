@@ -22,9 +22,9 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (9) When requested or required by an authorized officer, refuse to present fishing gear for inspection, refuse to present fish subject to such persons control for inspection; or interfere with a fishing gear or marine animal or plant life inspection.
 
-(10) Transfer fish to another vessel at sea unless the vessel transferring fish is participating in the MS Coop or C/P Coop Programs.
+(10) Transfer fish to another vessel at sea unless the vessel transferring fish is participating in the MS Co-op or C/P Co-op Programs.
 
-(11) Fail to remove all fish from the vessel at landing (defined in § 660.11) and prior to beginning a new fishing trip, except for processing vessels participating in the MS Coop or C/P Coop Programs.
+(11) Fail to remove all fish from the vessel at landing (defined in § 660.11) and prior to beginning a new fishing trip, except for processing vessels participating in the MS Co-op or C/P Co-op Programs.
 
 (12) Fish with dredge gear (defined in § 660.11, subpart C) anywhere within EFH within the EEZ. For the purposes of regulation, EFH within the EEZ is described at § 660.75, subpart C.
 
@@ -128,4 +128,4 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (8) Falsify any declaration report that is required, as specified at § 660.13.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 84 FR 32098, July 5, 2019; 84 FR 63973, Nov. 19, 2019; 86 FR 10867, Feb. 23, 2021; 87 FR 59728, Oct. 3, 2022]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 84 FR 32098, July 5, 2019; 84 FR 63973, Nov. 19, 2019; 86 FR 10867, Feb. 23, 2021; 87 FR 59728, Oct. 3, 2022; 88 FR 81358, Nov. 22, 2023]

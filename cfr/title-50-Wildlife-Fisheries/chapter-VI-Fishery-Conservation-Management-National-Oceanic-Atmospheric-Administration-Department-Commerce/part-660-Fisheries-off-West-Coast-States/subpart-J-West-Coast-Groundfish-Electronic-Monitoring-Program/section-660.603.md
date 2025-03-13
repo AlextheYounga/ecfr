@@ -1,7 +1,5 @@
 ##### § 660.603 Electronic monitoring provider permits and responsibilities. #####
 
-Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
-
 (a) *General.* This section contains requirements for EM service providers providing EM services, pursuant to contracts with vessel owners whose vessels operate in the Shorebased IFQ Program (§ 660.140) or the MS Co-op Program (§ 660.150) and use EM under this subpart. A person must obtain a permit and endorsement as provided under § 660.603(b) in order to be an EM service provider. An EM service provider must:
 
 (1) Operate under a NMFS-accepted EM Service Plan (see paragraph (b)(1)(vii) of this section).
@@ -214,7 +212,7 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (m) *Data services.* For vessels with which it has a contract (see § 660.604(k)), the EM service provider must provide and manage EM data and logbook processing, reporting, and record retention services, as described below and according to a NMFS-approved EM Service Plan, which is required under paragraph (b)(1)(vii) of this section, and as described in the EM Program Manual or other written and oral instructions provided by the EM program, and such that the EM program achieves its purpose as defined at § 660.600(b).
 
-(1) The EM service provider must process vessels' EM data and logbooks according to a prescribed coverage level or sampling scheme, as specified by NMFS in consultation with the Council, and determine an estimate of discards for each trip using standardized estimation methods specified by NMFS. NMFS will maintain manuals for EM and logbook data processing protocols on its website.
+(1) [Reserved]
 
 (2) The EM service provider must ensure that its data processing staff are fully trained in:
 
@@ -232,7 +230,7 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (3) The EM service provider must track hard drives and EM datasets throughout their cycles, including documenting any access and modifications. If end-to-end encryption is not used to protect EM data, EM data must be removed from hard drives or other mediums before returning them to the field.
 
-(4) The EM service provider must communicate with vessel operators and NMFS to coordinate data service needs, resolve specific program issues, and provide feedback on program operations. No later than three weeks from the date of receipt of EM data for processing from the vessel operator, the EM service provider must provide feedback to vessel representatives, field services staff, and NMFS regarding:
+(4) The EM service provider must communicate with vessel operators and NMFS to coordinate data service needs, resolve specific program issues, and provide feedback on program operations. No later than 60 days from the date of receipt of EM data for processing from the vessel operator, the EM service provider must provide feedback to vessel representatives, field services staff, and NMFS regarding:
 
 (i) Adjustments to system settings;
 
@@ -244,7 +242,7 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (v) Any other information that would improve the quality and effectiveness of data collection on the vessel.
 
-(5) *Submission of data and reports.* On behalf of vessels with which it has a contract (see § 660.604(k)), the EM service provider must submit to NMFS logbook data, EM summary reports, including discard estimates, fishing activity information, and meta data (*e.g.,* image quality, reviewer name), and incident reports of compliance issues according to a NMFS-accepted EM Service Plan, which is required under paragraph (b)(1)(vii) of this section, and as described in the EM Program Manual or other written and oral instructions provided by the EM program, such that the EM program achieves its purpose as defined at § 660.600(b). Logbook data must be submitted to NMFS within two business days of receipt from the vessel operator. EM summary reports must be submitted within three weeks of the date the EM data was received by the EM service provider from the vessel operator. If NMFS determines that the information does not meet these standards, NMFS may require the EM service provider to correct and resubmit the datasets and reports.
+(5) *Submission of data and reports.* On behalf of vessels with which it has a contract (see § 660.604(k)), the EM service provider must submit to NMFS logbook data, EM summary reports, including discard estimates, fishing activity information, and meta data (*e.g.,* image quality, reviewer name), and incident reports of compliance issues according to a NMFS-accepted EM Service Plan, which is required under paragraph (b)(1)(vii) of this section, and as described in the EM Program Manual or other written and oral instructions provided by the EM program, such that the EM program achieves its purpose as defined at § 660.600(b). Logbook data must be submitted to NMFS within 7 business days of receipt from the vessel operator. EM summary reports must be submitted within 60 days of the date the EM data was received by the EM service provider from the vessel operator. If NMFS determines that the information does not meet these standards, NMFS may require the EM service provider to correct and resubmit the datasets and reports.
 
 (6) *Retention of records.* Following an EM trip, the EM service provider must maintain all of a vessel's EM data and other records specified in this section, or used in the preparation of records or reports specified in this section or corrections to these reports. The EM service provider must maintain EM data for a period of not less than 12 months after NMFS has completed its determination of the total base year IFQ catch for all vessels for end-of-year account reconciliation (*i.e.,* base year is the year in which the EM trip was taken). NMFS will issue a public notice when end-of-the-year account reconciliation has been completed, on or about March 1 of each year. The EM service provider must maintain summary EM data and other records for a period of not less than three years after the date of landing for that trip. EM data and other records must be stored such that the integrity and security of the records is maintained for the duration of the retention period. The EM service provider must produce EM data and other records immediately upon request by NMFS or an authorized officer.
 
@@ -256,4 +254,4 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (3) Must not release a vessel's EM data and other records specified in this section (including documents containing such data and observations or summaries thereof) except to NMFS and authorized officers as provided in paragraph (m)(6) of this section, or as authorized by an authorized representative of the vessel.
 
-[84 FR 31160, June 28, 2019, as amended at 85 FR 74614, Nov. 23, 2020; 86 FR 55527, Oct. 6, 2021; 87 FR 59713, Oct. 3, 2022]
+[84 FR 31160, June 28, 2019, as amended at 85 FR 74614, Nov. 23, 2020; 86 FR 55527, Oct. 6, 2021; 87 FR 59713, Oct. 3, 2022; 88 FR 81359, Nov. 22, 2023]

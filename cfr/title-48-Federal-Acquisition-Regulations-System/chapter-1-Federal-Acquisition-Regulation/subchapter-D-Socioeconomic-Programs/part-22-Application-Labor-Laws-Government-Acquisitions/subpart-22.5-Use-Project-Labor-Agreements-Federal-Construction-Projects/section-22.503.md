@@ -1,5 +1,7 @@
 ##### 22.503 Policy. #####
 
+Link to an amendment published at 88 FR 88727, Dec. 22, 2023.
+
 (a) Project labor agreements are a tool that agencies may use to promote economy and efficiency in Federal procurement. Pursuant to Executive Order 13502, agencies are encouraged to consider requiring the use of project labor agreements in connection with large-scale construction projects.
 
 (b) An agency may, if appropriate, require that every contractor and subcontractor engaged in construction on the project agree, for that project, to negotiate or become a party to a project labor agreement with one or more labor organizations if the agency decides that the use of project labor agreements will—

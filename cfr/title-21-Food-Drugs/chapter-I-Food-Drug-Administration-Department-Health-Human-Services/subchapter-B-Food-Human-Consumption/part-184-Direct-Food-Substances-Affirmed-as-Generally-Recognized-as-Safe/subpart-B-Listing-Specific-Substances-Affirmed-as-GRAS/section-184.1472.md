@@ -1,7 +1,5 @@
 ##### § 184.1472 Menhaden oil. #####
 
-Link to an amendment published at 88 FR 53773, Aug. 9, 2023.
-
 (a) *Menhaden oil.* (1) Menhaden oil is prepared from fish of the genus *Brevoortia,* commonly known as menhaden, by cooking and pressing. The resulting crude oil is then refined using the following steps: Storage (winterization), degumming (optional), neutralization, bleaching, and deodorization. Winterization may separate the oil and produce a solid fraction.
 
 (2) Menhaden oil meets the following specifications:
@@ -61,9 +59,9 @@ Link to an amendment published at 88 FR 53773, Aug. 9, 2023.
 
 (4) To ensure safe use of the substance, menhaden oil shall not be used in combination with any other added oil that is a significant source of eicosapentaenoic acid or docosahexaenoic acid.
 
-(b) *Hydrogenated and partially hydrogenated menhaden oils.* (1) Partially hydrogenated and hydrogenated menhaden oils are prepared by feeding hydrogen gas under pressure to a converter containing crude menhaden oil and a nickel catalyst. The reaction is begun at 150 to 160 °C and after 1 hour the temperature is raised to 180 °C until the desired degree of hydrogenation is reached. Hydrogenated menhaden oil is fully hydrogenated.
+(b) *Hydrogenated menhaden oil.* (1) Hydrogenated menhaden oil is prepared by feeding hydrogen gas under pressure to a converter containing crude menhaden oil and a nickel catalyst. The reaction is begun at 150 to 160 °C and after 1 hour the temperature is raised to 180 °C until the menhaden oil is fully hydrogenated.
 
-(2) Partially hydrogenated and hydrogenated menhaden oils meet the following specifications:
+(2) Hydrogenated menhaden oil meets the following specifications:
 
 (i) *Color.* Opaque white solid.
 
@@ -71,9 +69,9 @@ Link to an amendment published at 88 FR 53773, Aug. 9, 2023.
 
 (iii) *Saponification value.* Between 180 and 200.
 
-(iv) *Iodine number.* Not more than 119 for partially hydrogenated menhaden oil and not more than 10 for fully hydrogenated menhaden oil.
+(iv) *Iodine number.* Not more than 4.
 
-(v) *Unsaponifiable matter.* Not more than 1.5 percent.—
+(v) *Unsaponifiable matter.* Not more than 1.5 percent.
 
 (vi) *Free fatty acids.* Not more than 0.1 percent.
 
@@ -83,12 +81,12 @@ Link to an amendment published at 88 FR 53773, Aug. 9, 2023.
 
 (ix) *Mercury.* Not more than 0.5 part per million.
 
-(x) *Arsenic* (*as As*). Not more than 0.1 part per million.
+(x) *Arsenic (as As).* Not more than 0.1 part per million.
 
 (xi) *Lead.* Not more than 0.1 part per million.
 
-(3) Partially hydrogenated and hydrogenated menhaden oils are used as edible fats or oils, as defined in § 170.3(n)(12) of this chapter, in food at levels not to exceed current good manufacturing practice.
+(3) Hydrogenated menhaden oil is used as edible fat or oil, as defined in § 170.3(n)(12) of this chapter, in food at levels not to exceed current good manufacturing practice.
 
-(4) If the fat or oil is fully hydrogenated, the name to be used on the label of a product containing it shall include the term “hydrogenated,” or if it is partially hydrogenated, the name shall include the term “partially hydrogenated,” in accordance with § 101.4(b)(14) of this chapter.
+(4) The name to be used on the label of a product containing hydrogenated menhaden oil must include the term “hydrogenated,” in accordance with § 101.4(b)(14) of this chapter.
 
-[62 FR 30756, June 5, 1997, as amended at 70 FR 14531, Mar. 23, 2005; 81 FR 5596, Feb. 3, 2016; 88 FR 17724, Mar. 24, 2023]
+[62 FR 30756, June 5, 1997, as amended at 70 FR 14531, Mar. 23, 2005; 81 FR 5596, Feb. 3, 2016; 88 FR 17724, Mar. 24, 2023; 88 FR 53773, Aug. 9, 2023]

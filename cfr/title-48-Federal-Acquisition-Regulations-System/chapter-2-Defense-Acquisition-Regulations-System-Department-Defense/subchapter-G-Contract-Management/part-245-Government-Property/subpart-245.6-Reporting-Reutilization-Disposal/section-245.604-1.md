@@ -1,5 +1,7 @@
 ##### 245.604-1 Sales procedures. #####
 
+Link to an amendment published at 88 FR 88537, Dec. 22, 2023.
+
 (1) *Best value sales approach.* Plant clearance officers shall determine a best value sales approach (formal or informal sales), to include due consideration for costs, risks, and benefits, *e.g.,* potential sales proceeds.
 
 (2) *Informal bid procedures.* The plant clearance officer may direct the contractor to issue informal invitations for bid (orally, telephonically, or by other informal media), provided—

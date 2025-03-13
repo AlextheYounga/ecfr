@@ -1,5 +1,7 @@
 ##### 245.102 Policy. #####
 
+Link to an amendment published at 88 FR 88537, Dec. 22, 2023.
+
 See the policy guidance at PGI 245.102-70.
 
 (1) *Mapping, charting, and geodesy property.* All Government-furnished mapping, charting, and geodesy (MC&G) property is under the control of the Director, National Geospatial Intelligence Agency.

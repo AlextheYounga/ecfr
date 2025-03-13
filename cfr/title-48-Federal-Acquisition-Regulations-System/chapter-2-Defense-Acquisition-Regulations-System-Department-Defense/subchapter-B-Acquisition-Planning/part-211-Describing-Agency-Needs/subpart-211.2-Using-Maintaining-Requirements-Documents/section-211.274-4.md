@@ -1,5 +1,7 @@
 ##### 211.274-4 Policy for reporting of Government-furnished property. #####
 
+Link to an amendment published at 88 FR 88536, Dec. 22, 2023.
+
 (a) It is DoD policy that all Government-furnished property be recorded in the DoD Item Unique Identification (IUID) Registry, as defined in the clause at 252.211-7007, Reporting of Government-Furnished Property.
 
 (b) The following items are not required to be reported:

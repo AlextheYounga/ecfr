@@ -1,5 +1,7 @@
 ##### 252.211-7007 Reporting of Government-Furnished Property. #####
 
+Link to an amendment published at 88 FR 88537, Dec. 22, 2023.
+
 As prescribed in 211.274-6(b), use the following clause:
 
 Reporting of Government-Furnished Property (MAR 2022)

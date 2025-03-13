@@ -4,7 +4,7 @@
 
 (b) *Scales used to weigh fish at sea.* Vessel owners, operators, and managers are jointly and severally responsible for their vessel's compliance with the requirements specified in this section.
 
-(1) *Performance and technical requirements for scales in the MS and C/P Coop Programs.* A scale used to weigh fish in the MS and C/P Coop Programs must meet the type evaluation, initial inspection, and annual reinspection requirements set forth in 50 CFR 679.28(b)(1) and (2), and must be approved by NMFS to weigh fish at sea.
+(1) *Performance and technical requirements for scales in the MS and C/P Co-op Programs.* A scale used to weigh fish in the MS and C/P Co-op Programs must meet the type evaluation, initial inspection, and annual reinspection requirements set forth in 50 CFR 679.28(b)(1) and (2), and must be approved by NMFS to weigh fish at sea.
 
 (2) *Annual inspection.* Once a scale is installed on a vessel and approved by NMFS for use to weigh fish at sea, it must be reinspected annually within 12 months of the date of the most recent inspection to determine if the scale meets all of the applicable performance and technical requirements as described in 50 CFR 679.28(b).
 
@@ -153,7 +153,7 @@
 
 (4) *Improving data quality.* Vessel owners and operators, first receivers, or shoreside processor owners, or managers may contact NMFS to request assistance in improving data quality and resolving issues. Requests may be submitted to: Attn: Electronic Fish Ticket Monitoring, National Marine Fisheries Service, West Coast Region, Sustainable Fisheries Division, 7600 Sand Point Way, NE., Seattle, WA 98115.
 
-(e) *Video monitoring systems used monitor at-sea scales*—(1) *Performance and technical requirements for video monitoring systems for the MS and C/P Coop Programs.* A video monitoring system used to monitor at-sea scales must meet the system requirements and system inspections, set forth in 50 CFR 679.28(e)(1) through (4) and be issued a Video Monitoring Inspection Report verifying that the video system meets all applicable requirements for use in the Alaska Pollock fishery. Any change to the system must meet the requirements specified at 50 CFR 679.28(e)(7) and be approved by the Alaska Regional Administrator in writing before any changes are made.
+(e) *Video monitoring systems used monitor at-sea scales*—(1) *Performance and technical requirements for video monitoring systems for the MS and C/P Co-op Programs.* A video monitoring system used to monitor at-sea scales must meet the system requirements and system inspections, set forth in 50 CFR 679.28(e)(1) through (4) and be issued a Video Monitoring Inspection Report verifying that the video system meets all applicable requirements for use in the Alaska Pollock fishery. Any change to the system must meet the requirements specified at 50 CFR 679.28(e)(7) and be approved by the Alaska Regional Administrator in writing before any changes are made.
 
 (i) MS or C/P vessels required to weigh fish at sea under the regulations in this section must:
 
@@ -167,4 +167,4 @@
 
 (3) *Retention of records.* Consistent with the requirements set forth at 50 CFR 679.28(e)(1), the video data must be maintained on the vessel and made available on request by NMFS staff, or any individual authorized by NMFS. The data must be retained on board the vessel for no less than 120 days after the date the video is recorded, unless NMFS has notified the operator in writing that the video data may be retained for less than this 120-day period.
 
-[75 FR 78375, Dec. 15, 2010, as amended at 76 FR 74733, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 81 FR 27008, May 5, 2016; 81 FR 84426, Nov. 23, 2016]
+[75 FR 78375, Dec. 15, 2010, as amended at 76 FR 74733, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 81 FR 27008, May 5, 2016; 81 FR 84426, Nov. 23, 2016; 88 FR 81358, Nov. 22, 2023]

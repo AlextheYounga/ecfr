@@ -1,5 +1,7 @@
 ##### 22.504 General requirements for project labor agreements. #####
 
+Link to an amendment published at 88 FR 88727, Dec. 22, 2023.
+
 (a) *General.* Project labor agreements established under this subpart shall fully conform to all statutes, regulations, and Executive orders.
 
 (b) *Requirements.* The project labor agreement shall—

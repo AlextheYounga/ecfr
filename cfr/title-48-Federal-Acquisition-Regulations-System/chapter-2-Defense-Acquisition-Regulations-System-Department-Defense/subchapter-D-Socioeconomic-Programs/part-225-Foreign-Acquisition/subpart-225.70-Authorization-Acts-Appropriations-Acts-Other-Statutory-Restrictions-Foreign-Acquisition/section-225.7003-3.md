@@ -46,7 +46,7 @@
 
 (A) At least 30 days before making a domestic nonavailability determination that would apply to more than one contract, the USD(A&S) will, to the maximum extent practicable, and in a manner consistent with the protection of national security and confidential business information—
 
-(*1*) Publish a notice on the Federal Business Opportunities Web site (*http://www.FedBizOpps.gov* or any successor site) of the intent to make the domestic nonavailability determination; and
+(*1*) Publish a notice in the Governmentwide point of entry (GPE) (*https://www.sam.gov*) of the intent to make the domestic nonavailability determination; and
 
 (*2*) Solicit information relevant to such notice from interested parties, including producers of specialty metal mill products.
 
@@ -84,4 +84,4 @@
 
 (3) Because national security waivers will only be granted when the acquisition in question is necessary to the national security interests of the United States, the requirement for a plan will be applied as a condition subsequent, and not a condition precedent, to the granting of a waiver.
 
-[74 FR 37636, July 29, 2009, as amended at 75 FR 48280, Aug. 10, 2010; 79 FR 17446, Mar. 28, 2014; 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 76994, Dec. 16, 2022; 88 FR 6584, Jan. 31, 2023; 88 FR 73237, Oct. 25, 2023]
+[74 FR 37636, July 29, 2009, as amended at 75 FR 48280, Aug. 10, 2010; 79 FR 17446, Mar. 28, 2014; 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 76994, Dec. 16, 2022; 88 FR 6584, Jan. 31, 2023; 88 FR 73237, Oct. 25, 2023; 88 FR 88533, Dec. 22, 2023]

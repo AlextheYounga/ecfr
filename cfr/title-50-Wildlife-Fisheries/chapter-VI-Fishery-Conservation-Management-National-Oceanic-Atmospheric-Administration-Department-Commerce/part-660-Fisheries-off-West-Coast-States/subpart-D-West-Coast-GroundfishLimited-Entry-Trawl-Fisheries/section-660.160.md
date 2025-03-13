@@ -1,8 +1,6 @@
-##### § 660.160 Catcher/processor (C/P) Coop Program. #####
+##### § 660.160 Catcher/processor (C/P) Co-op Program. #####
 
-Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
-
-(a) *General.* The C/P Coop Program is a limited access program that applies to vessels in the C/P sector of the Pacific whiting at-sea trawl fishery and is a single voluntary coop. Eligible harvesters and processors must meet the requirements set forth in this section of the Pacific Coast groundfish regulations. In addition to the requirements of this section, the C/P Coop Program is subject to the following groundfish regulations:
+(a) *General.* The C/P Co-op Program is a limited access program that applies to vessels in the C/P sector of the Pacific whiting at-sea trawl fishery and is a single voluntary co-op. Eligible harvesters and processors must meet the requirements set forth in this section of the Pacific Coast groundfish regulations. In addition to the requirements of this section, the C/P Co-op Program is subject to the following groundfish regulations:
 
 (1) Pacific whiting seasons § 660.131(b), subpart D.
 
@@ -12,13 +10,13 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (4) Regulations set out in the following sections of subpart D: § 660.111 Trawl fishery definitions, § 660.112 Trawl fishery prohibitions, § 660.113 Trawl fishery recordkeeping and reporting, § 660.115 Trawl fishery cost recovery program, § 660.120 Trawl fishery crossover provisions, § 660.130 Trawl fishery management measures, and § 660.131 Pacific whiting fishery management measures.
 
-(5) The C/P Coop Program may be restricted or closed as a result of projected overages within the MS Coop Program, the C/P Coop Program, or the Shorebased IFQ Program. As determined necessary by the Regional Administrator, area restrictions, season closures, or other measures will be used to prevent the trawl sectors in aggregate or the individual trawl sector (Shorebased IFQ, MS Coop, or C/P Coop) from exceeding an ACL, ACT, or formal allocation specified in the PCGFMP or regulation at § 660.55, subpart C, or §§ 660.140, 660.150, or 660.160, subpart D.
+(5) The C/P Co-op Program may be restricted or closed as a result of projected overages within the MS Co-op Program, the C/P Co-op Program, or the Shorebased IFQ Program. As determined necessary by the Regional Administrator, area restrictions, season closures, or other measures will be used to prevent the trawl sectors in aggregate or the individual trawl sector (Shorebased IFQ, MS Co-op, or C/P Co-op) from exceeding an ACL, ACT, or formal allocation specified in the PCGFMP or regulation at § 660.55, subpart C, or §§ 660.140, 660.150, or 660.160, subpart D.
 
-(b) *Participation requirements and responsibilities*—(1) *C/P vessels*—(i) *C/P vessel participation requirements.* A vessel is eligible to fish as a catcher/processor in the C/P Coop Program if:
+(b) *Participation requirements and responsibilities*—(1) *C/P vessels*—(i) *C/P vessel participation requirements.* A vessel is eligible to fish as a catcher/processor in the C/P Co-op Program if:
 
 (A) The vessel is registered to a C/P-endorsed limited entry trawl permit.
 
-(B) The vessel is not used to harvest fish as a catcher vessel in the mothership coop program in the same calendar year.
+(B) The vessel is not used to harvest fish as a catcher vessel in the mothership co-op program in the same calendar year.
 
 (ii) *Catcher/processor vessel responsibilities.* The owner and operator of a catcher/processor vessel must:
 
@@ -34,9 +32,9 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (D) *Cost recovery program.* Collect and remit to NMFS cost recovery program fees, as specified at § 660.115.
 
-(2) *C/P coops*—(i) *C/P coop participation requirements.* For a C/P coop to participate in the catcher/processor sector of the Pacific whiting fishery, the C/P coop must:
+(2) *C/P co-ops*—(i) *C/P co-op participation requirements.* For a C/P co-op to participate in the catcher/processor sector of the Pacific whiting fishery, the C/P co-op must:
 
-(A) Be issued a C/P coop permit;
+(A) Be issued a C/P co-op permit;
 
 (B) Be composed of all C/P-endorsed limited entry permits and their owners;
 
@@ -44,45 +42,45 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (D) Be a legally recognized entity that represents its members; and
 
-(E) Designate an individual as a coop manager.
+(E) Designate an individual as a co-op manager.
 
-(ii) *C/P coop responsibilities.* A C/P coop is responsible for:
+(ii) *C/P co-op responsibilities.* A C/P co-op is responsible for:
 
-(A) Applying for and being registered to a C/P coop permit;
+(A) Applying for and being registered to a C/P co-op permit;
 
-(B) Organizing and coordinating harvest activities of vessels that fish for the coop;
+(B) Organizing and coordinating harvest activities of vessels that fish for the co-op;
 
-(C) Allocating catch for use by specific coop members;
+(C) Allocating catch for use by specific co-op members;
 
-(D) Monitoring harvest activities and enforcing the catch limits of coop members;
+(D) Monitoring harvest activities and enforcing the catch limits of co-op members;
 
 (E) Submitting an annual report.
 
-(F) Having a designated coop manager. The designated coop manager must:
+(F) Having a designated co-op manager. The designated co-op manager must:
 
 (*1*) Serve as the contact person with NMFS and the Council;
 
-(*2*) Be responsible for the annual distribution of catch and bycatch allocations among coop members;
+(*2*) Be responsible for the annual distribution of catch and bycatch allocations among co-op members;
 
-(*3*) Prepare and submit an annual report on behalf of the coop; and
+(*3*) Prepare and submit an annual report on behalf of the co-op; and
 
-(*4*) Be authorized to receive or respond to any legal process in which the coop is involved; and
+(*4*) Be authorized to receive or respond to any legal process in which the co-op is involved; and
 
-(*5*) Notify NMFS if the coop dissolves.
+(*5*) Notify NMFS if the co-op dissolves.
 
-(iii) *C/P coop compliance and joint/several liability.* A C/P coop must comply with the provisions of this section. The C/P coop, member limited entry permit owners, and owners and operators of vessels registered to member limited entry permits, are jointly and severally responsible for compliance with the provisions of this section. Pursuant to 15 CFR part 904, each C/P coop, member permit owner, and owner and operator of a vessel registered to a coop member permit may be charged jointly and severally for violations of the provisions of this section. For purposes of enforcement, a C/P coop is a legal entity that can be subject to NOAA enforcement action for violations of the provisions of this section.
+(iii) *C/P co-op compliance and joint/several liability.* A C/P co-op must comply with the provisions of this section. The C/P co-op, member limited entry permit owners, and owners and operators of vessels registered to member limited entry permits, are jointly and severally responsible for compliance with the provisions of this section. Pursuant to 15 CFR part 904, each C/P co-op, member permit owner, and owner and operator of a vessel registered to a co-op member permit may be charged jointly and severally for violations of the provisions of this section. For purposes of enforcement, a C/P co-op is a legal entity that can be subject to NOAA enforcement action for violations of the provisions of this section.
 
-(c) *C/P Coop Program species and allocations*—(1) *C/P Coop Program species.* All species other than Pacific whiting are managed with set-asides for the MS and C/P Coop Programs.
+(c) *C/P Co-op Program species and allocations*—(1) *C/P Co-op Program species.* All species other than Pacific whiting are managed with set-asides for the MS and C/P Co-op Programs.
 
-(i) Species with formal allocations to the C/P Coop Program: Pacific whiting.
+(i) Species with formal allocations to the C/P Co-op Program: Pacific whiting.
 
 (ii) Species with set-asides for the MS and C/P Programs, as described in the biennial specifications.
 
-(2) *C/P Coop Program annual allocations.* The C/P Coop Program allocation of Pacific whiting is equal to the catcher/processor sector allocation. Only a single coop may be formed in the catcher/processor sector with the one permitted coop receiving the catcher/processor sector allocation.
+(2) *C/P Co-op Program annual allocations.* The C/P Co-op Program allocation of Pacific whiting is equal to the catcher/processor sector allocation. Only a single co-op may be formed in the catcher/processor sector with the one permitted co-op receiving the catcher/processor sector allocation.
 
 (i) In years where the Pacific whiting harvest specification is known by the start of the catcher/processor sector primary whiting season specified at § 660.131(b)(2)(iii)(A), allocation for Pacific whiting will be made by the start of the season.
 
-(ii) In years where the Pacific whiting harvest specification is not known by the start of the catcher/processor sector primary whiting season specified at § 660.131(b)(2)(iii)(A), NMFS will issue Pacific whiting allocations in two parts. Before the start of the primary whiting season, NMFS will allocate Pacific whiting based on the C/P Coop Program allocation percent multiplied by the lower end of the range of potential harvest specifications for Pacific whiting for that year. After the final Pacific whiting harvest specifications are established, NMFS will allocate any additional amounts of Pacific whiting to the C/P Coop Program.
+(ii) In years where the Pacific whiting harvest specification is not known by the start of the catcher/processor sector primary whiting season specified at § 660.131(b)(2)(iii)(A), NMFS will issue Pacific whiting allocations in two parts. Before the start of the primary whiting season, NMFS will allocate Pacific whiting based on the C/P Co-op Program allocation percent multiplied by the lower end of the range of potential harvest specifications for Pacific whiting for that year. After the final Pacific whiting harvest specifications are established, NMFS will allocate any additional amounts of Pacific whiting to the C/P Co-op Program.
 
 (3) *Non-whiting groundfish species*—(i) At-sea sector set-asides of non-whiting groundfish species will be managed on an annual basis unless there is a risk of a harvest specification being exceeded, unforeseen impact on other fisheries, or conservation concerns, in which case inseason action may be taken. Set asides may be adjusted through the biennial specifications and management measures process as necessary.
 
@@ -96,57 +94,57 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (7) *Announcements.* The Regional Administrator will announce in the Federal Register when the catcher/processor sector allocation of Pacific whiting is reached, or is projected to be reached, and specify the appropriate action. In order to prevent exceeding an allocation and to avoid underutilizing the resource, prohibitions against further taking and retaining, receiving, or at-sea processing of Pacific whiting may be made effective immediately by actual notice to fishers and processors, by email, internet, phone, fax, letter, press release, and/or USCG Notice to Mariners (monitor channel 16 VHF), followed by publication in the Federal Register, in which instance public comment will be sought for a reasonable period of time thereafter.
 
-(d) *C/P coop permit and agreement*—(1) *Eligibility and registration*—(i) *Eligibility.* To be an eligible coop entity a group of C/P-endorsed permit owners (coop members) must be a recognized entity under the laws of the United States or the laws of a State and that represents all of the coop members.
+(d) *C/P co-op permit and agreement*—(1) *Eligibility and registration*—(i) *Eligibility.* To be an eligible co-op entity a group of C/P-endorsed permit owners (co-op members) must be a recognized entity under the laws of the United States or the laws of a State and that represents all of the co-op members.
 
 (ii) *Annual registration and deadline.* Each year, the co-op entity must submit a complete application to NMFS for a C/P co-op permit. The application must be submitted to NMFS by between January 17 and March 17 of the year in which it intends to participate. NMFS will not consider any applications received after March 17. A C/P co-op permit expires on December 31 of the year in which it was issued.
 
-(iii) *Application for a C/P coop permit.* The designated coop manager, on behalf of the coop entity, must submit a complete application form and include each of the items listed in paragraph (d)(1)(iii)(A) of this section. Only complete applications will be considered for issuance of a C/P coop permit. An application will not be considered complete if any required application fees and annual coop reports have not been received by NMFS. NMFS may request additional supplemental documentation as necessary to make a determination of whether to approve or disapprove the application. Application forms and instruction are available on the NMFS NWR Web site (*http://www.nwr.noaa.gov*) or by request from NMFS. The designated coop manager must sign the application acknowledging the responsibilities of a designated coop manager defined in paragraph (b)(2) of this section.
+(iii) *Application for a C/P co-op permit.* The designated co-op manager, on behalf of the co-op entity, must submit a complete application form and include each of the items listed in paragraph (d)(1)(iii)(A) of this section. Only complete applications will be considered for issuance of a C/P co-op permit. An application will not be considered complete if any required application fees and annual co-op reports have not been received by NMFS. NMFS may request additional supplemental documentation as necessary to make a determination of whether to approve or disapprove the application. Application forms and instruction are available on the NMFS WCR Web site (*https://www.fisheries.noaa.gov/region/west-coast*) or by request from NMFS. The designated co-op manager must sign the application acknowledging the responsibilities of a designated co-op manager defined in paragraph (b)(2) of this section.
 
-(A) *Coop agreement.* Signed copies of the coop agreement must be submitted to NMFS before the coop is authorized to engage in fishing activities. A coop agreement must include all of the information listed in this paragraph to be considered a complete coop agreement. NMFS will only review complete coop agreements. A coop agreement will not be accepted unless it includes all of the required information; the descriptive items listed in this paragraph appear to meet the stated purpose; and information submitted is correct and accurate.
+(A) *Co-op agreement.* Signed copies of the co-op agreement must be submitted to NMFS before the co-op is authorized to engage in fishing activities. A co-op agreement must include all of the information listed in this paragraph to be considered a complete co-op agreement. NMFS will only review complete co-op agreements. A co-op agreement will not be accepted unless it includes all of the required information; the descriptive items listed in this paragraph appear to meet the stated purpose; and information submitted is correct and accurate.
 
-(*1*) *Coop agreement contents.* The coop agreement must be signed by the coop members (C/P-endorsed permit owners) and include the following information:
+(*1*) *Co-op agreement contents.* The co-op agreement must be signed by the co-op members (C/P-endorsed permit owners) and include the following information:
 
-(*i*) A list of all vessels registered to C/P-endorsed permits that the member permit owners intend to use for fishing under the C/P coop permit.
+(*i*) A list of all vessels registered to C/P-endorsed permits that the member permit owners intend to use for fishing under the C/P co-op permit.
 
 (*ii*) All C/P-endorsed limited entry member permits identified by permit number.
 
 (*iii*) A description of the coop's plan to adequately monitor and account for the catch of Pacific whiting and non-whiting groundfish, and to monitor and account for the catch of prohibited species.
 
-(*iv*) A clause stating that if a permit is registered to a new permit owner during the effective period of the coop agreement, any new owners of that member permit would be coop members and are required to comply with membership restrictions in the coop agreement.
+(*iv*) A clause stating that if a permit is registered to a new permit owner during the effective period of the co-op agreement, any new owners of that member permit would be co-op members and are required to comply with membership restrictions in the co-op agreement.
 
 (*v*) A description of the coop's enforcement and penalty provisions adequate to maintain catch of Pacific whiting and non-whiting groundfish within the allocations.
 
 (*vi*) A description of measures to reduce catch of overfished species.
 
-(*vii*) A clause describing how the annual report will be produced to document the coop's catch, bycatch data, and any other significant activities undertaken by the coop during the year, and the submission deadlines for that report.
+(*vii*) A clause describing how the annual report will be produced to document the coop's catch, bycatch data, and any other significant activities undertaken by the co-op during the year, and the submission deadlines for that report.
 
-(*viii*) Identification of the designated coop manager.
+(*viii*) Identification of the designated co-op manager.
 
 (*2*) [Reserved]
 
-(B) *Acceptance of a coop agreement*—(*1*) If NMFS does not accept the coop agreement, the coop permit application will be returned to the applicant with a letter stating the reasons the coop agreement was not accepted by NMFS.
+(B) *Acceptance of a co-op agreement*—(*1*) If NMFS does not accept the co-op agreement, the co-op permit application will be returned to the applicant with a letter stating the reasons the co-op agreement was not accepted by NMFS.
 
-(*2*) Coop agreements that are not accepted may be resubmitted for review by sufficiently addressing the deficiencies identified in the NMFS letter and resubmitting the entire coop permit application by the date specified in the NMFS letter.
+(*2*) Co-op agreements that are not accepted may be resubmitted for review by sufficiently addressing the deficiencies identified in the NMFS letter and resubmitting the entire co-op permit application by the date specified in the NMFS letter.
 
-(*3*) An accepted coop agreement that was submitted with the C/P coop permit application and for which a C/P coop permit was issued will remain in place through the end of the calendar year. The designated coop manager must resubmit a complete coop agreement to NMFS consistent with the coop agreement contents described in this paragraph if there is a material change to the coop agreement.
+(*3*) An accepted co-op agreement that was submitted with the C/P co-op permit application and for which a C/P co-op permit was issued will remain in place through the end of the calendar year. The designated co-op manager must resubmit a complete co-op agreement to NMFS consistent with the co-op agreement contents described in this paragraph if there is a material change to the co-op agreement.
 
-(*4*) Within 7 calendar days following a material change, the designated coop manager must notify NMFS of the material change. Within 30 calendar days, the designated coop manger must submit to NMFS the revised coop agreement with a letter that describes such changes. NMFS will review the material changes and provide a letter to the coop manager that either accepts the changes as given or does not accept the revised coop agreement with a letter stating the reasons that it was not accepted by NMFS. The coop may resubmit the coop agreement with further revisions to the material changes responding to NMFS concerns.
+(*4*) Within 7 calendar days following a material change, the designated co-op manager must notify NMFS of the material change. Within 30 calendar days, the designated co-op manger must submit to NMFS the revised co-op agreement with a letter that describes such changes. NMFS will review the material changes and provide a letter to the co-op manager that either accepts the changes as given or does not accept the revised co-op agreement with a letter stating the reasons that it was not accepted by NMFS. The co-op may resubmit the co-op agreement with further revisions to the material changes responding to NMFS concerns.
 
-(iv) *Effective date of C/P coop permit.* A C/P coop permit will be effective on the date approved by NMFS and will allow fishing from the start of the C/P sector primary whiting season until the end of the calendar year or until one or more of the following events occur, whichever comes first:
+(iv) *Effective date of C/P co-op permit.* A C/P co-op permit will be effective on the date approved by NMFS and will allow fishing from the start of the C/P sector primary whiting season until the end of the calendar year or until one or more of the following events occur, whichever comes first:
 
-(A) NMFS closes the C/P sector fishing season for the year or the designated coop manager notifies NMFS that the coop has completed fishing for the calendar year,
+(A) NMFS closes the C/P sector fishing season for the year or the designated co-op manager notifies NMFS that the co-op has completed fishing for the calendar year,
 
-(B) The C/P coop has reached its Pacific whiting allocation,
+(B) The C/P co-op has reached its Pacific whiting allocation,
 
-(C) A material change to the coop agreement has occurred and the designated coop manager failed to notify NMFS within 7 calendar days of the material change and submit to NMFS the revised coop agreement with a letter that describes such changes within 30 calendar days, or
+(C) A material change to the co-op agreement has occurred and the designated co-op manager failed to notify NMFS within 7 calendar days of the material change and submit to NMFS the revised co-op agreement with a letter that describes such changes within 30 calendar days, or
 
-(D) NMFS has determined that a coop failure occurred.
+(D) NMFS has determined that a co-op failure occurred.
 
-(2) *Initial administrative determination.* For all complete applications, NMFS will issue an IAD that either approves or disapproves the application. If approved, the IAD will include a C/P coop permit. If disapproved, the IAD will provide the reasons for this determination. The IAD for a C/P coop permit follows the same requirement as specified for limited entry permits at § 660.25(g)(4)(ii), if the applicant does not appeal the IAD within the 30 calendar days, the IAD becomes the final decision of the Regional Administrator acting on behalf of the Secretary of Commerce.
+(2) *Initial administrative determination.* For all complete applications, NMFS will issue an IAD if the application is disapproved. An approved application will result in issuance of the permit. If disapproved, the IAD will provide the reasons for this determination. The IAD for a C/P co-op permit follows the same requirement as specified for limited entry permits at § 660.25(g)(4)(ii), if the applicant does not appeal the IAD within the 30 calendar days, the IAD becomes the final decision of the Regional Administrator acting on behalf of the Secretary of Commerce.
 
-(3) *Appeals.* An appeal to a C/P coop permit action follows the same process as the general permit appeals process defined at § 660.25(g), subpart C.
+(3) *Appeals.* An appeal to a C/P co-op permit action follows the same process as the general permit appeals process defined at § 660.25(g), subpart C.
 
-(4) *Fees.* The Regional Administrator is authorized to charge fees for administrative costs associated with the issuance of a C/P coop permit consistent with the provisions given at § 660.25(f), subpart C.
+(4) *Fees.* The Regional Administrator is authorized to charge fees for administrative costs associated with the issuance of a C/P co-op permit consistent with the provisions given at § 660.25(f), subpart C.
 
 (e) *C/P-endorsed permit*—(1) *General.* Any vessel participating in the C/P sector of the non-tribal primary Pacific whiting fishery-must be registered to a valid limited entry permit with a C/P endorsement—subject to the limited entry permit provisions given at § 660.25(b).
 
@@ -488,31 +486,31 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (D) *Appeals.* A certified observer who receives an IAD that suspends or revokes the observer certification may appeal the determination within 30 calendar days after the date on the IAD to the Office of Administrative Appeals pursuant to § 660.19.
 
-(h) *C/P coop failure*—(1) *Conditions for determination of coop failure.* The Regional Administrator will determine that a permitted C/P coop has failed if any one of the following occurs:
+(h) *C/P co-op failure*—(1) *Conditions for determination of co-op failure.* The Regional Administrator will determine that a permitted C/P co-op has failed if any one of the following occurs:
 
-(i) Any current C/P-endorsed limited entry trawl permit is not identified as a C/P coop member in the coop agreement submitted to NMFS during the C/P coop permit application process;
+(i) Any current C/P-endorsed limited entry trawl permit is not identified as a C/P co-op member in the co-op agreement submitted to NMFS during the C/P co-op permit application process;
 
-(ii) Any current C/P-endorsed permit withdraws from the C/P coop agreement;
+(ii) Any current C/P-endorsed permit withdraws from the C/P co-op agreement;
 
-(iii) The coop members voluntarily dissolve the coop; or
+(iii) The co-op members voluntarily dissolve the co-op; or
 
-(iv) The coop agreement is no longer valid.
+(iv) The co-op agreement is no longer valid.
 
-(2) *Notification of coop failure.* If the permitted C/P coop dissolves, the designated coop manager must notify NMFS SFD in writing of the dissolution of the coop to allow the Regional Administrator to make a determination of coop failure. The Regional Administrator may also make an independent determination of a coop failure based on factual information collected by or provided to NMFS. NMFS will notify the designated coop manager in writing in the event the Regional Administrator determines the coop has failed.
+(2) *Notification of co-op failure.* If the permitted C/P co-op dissolves, the designated co-op manager must notify NMFS SFD in writing of the dissolution of the co-op to allow the Regional Administrator to make a determination of co-op failure. The Regional Administrator may also make an independent determination of a co-op failure based on factual information collected by or provided to NMFS. NMFS will notify the designated co-op manager in writing in the event the Regional Administrator determines the co-op has failed.
 
-(3) *Coop permit no longer in effect.* Upon determination of a coop failure, the C/P coop permit will no longer be in effect.
+(3) *Co-op permit no longer in effect.* Upon determination of a co-op failure, the C/P co-op permit will no longer be in effect.
 
-(4) *Conversion to IFQ Fishery.* The C/P sector will convert to an IFQ-based fishery beginning the following calendar year after a determination of a coop failure, or as soon as practicable thereafter. NMFS will develop additional regulations, as necessary to implement an IFQ-based fishery for the C/P sector. Each C/P-endorsed permit will receive an equal amount of QS from the total C/P sector allocation. That QS will not be transferable separate from the C/P-endorsed permit until a determination is made to allow such transfers, necessary regulations are implemented, and public notice is provided. Any use of QP or IBQ pounds associated with C/P endorsed permits is prohibited until the regulations for a C/P sector IFQ system are implemented.
+(4) *Conversion to IFQ Fishery.* The C/P sector will convert to an IFQ-based fishery beginning the following calendar year after a determination of a co-op failure, or as soon as practicable thereafter. NMFS will develop additional regulations, as necessary to implement an IFQ-based fishery for the C/P sector. Each C/P-endorsed permit will receive an equal amount of QS from the total C/P sector allocation. That QS will not be transferable separate from the C/P-endorsed permit until a determination is made to allow such transfers, necessary regulations are implemented, and public notice is provided. Any use of QP or IBQ pounds associated with C/P endorsed permits is prohibited until the regulations for a C/P sector IFQ system are implemented.
 
-(5) *Accumulation limits.* C/P Sector accumulation limits will take effect in the event that the C/P coop fails and converts to an IFQ-based fishery. If an IFQ fishery is implemented, any individual or entity may own or control a maximum of five C/P endorsed permits and QS allocations associated with those permits, as described in paragraph (e)(5)(iv) of this section. C/P endorsed permit accumulation limits will only take effect after determination of a coop failure is made and the following administrative process occurs:
+(5) *Accumulation limits.* C/P Sector accumulation limits will take effect in the event that the C/P co-op fails and converts to an IFQ-based fishery. If an IFQ fishery is implemented, any individual or entity may own or control a maximum of five C/P endorsed permits and QS allocations associated with those permits, as described in paragraph (e)(5)(iv) of this section. C/P endorsed permit accumulation limits will only take effect after determination of a co-op failure is made and the following administrative process occurs:
 
-(i) *Divestiture Period.* Upon determination of a coop failure, a divestiture period will occur starting with the date that co-op failure has been determined and running through the date on which an IFQ program is implemented for the C/P sector or another date specified in the IFQ program implementing regulations. During the divestiture period, an individual or entity may not acquire ownership or control over a total of more than five C/P-endorsed permits. Any entity that already owns or controls more than five C/P-endorsed permits may not acquire additional permits. During the divestiture period any entity who owns or controls C/P-endorsed permits may sell or trade any permits it owns. C/P-endorsed permits may be voluntarily abandoned to NMFS using the procedures provided under paragraph (h)(5)(iii) of this section.
+(i) *Divestiture Period.* Upon determination of a co-op failure, a divestiture period will occur starting with the date that co-op failure has been determined and running through the date on which an IFQ program is implemented for the C/P sector or another date specified in the IFQ program implementing regulations. During the divestiture period, an individual or entity may not acquire ownership or control over a total of more than five C/P-endorsed permits. Any entity that already owns or controls more than five C/P-endorsed permits may not acquire additional permits. During the divestiture period any entity who owns or controls C/P-endorsed permits may sell or trade any permits it owns. C/P-endorsed permits may be voluntarily abandoned to NMFS using the procedures provided under paragraph (h)(5)(iii) of this section.
 
 (ii) *Divestiture and redistribution process.* After conversion to an IFQ fishery and completion of the divestiture period, any person owning or controlling C/P-endorsed permits must be in compliance with accumulation limits, even if that ownership is not reflected in the ownership records available to NMFS as specified at § 660.140(e)(1)(iv). Permit owners found to exceed the five permit accumulation limit for C/P-endorsed permits after the divestiture period are in violation of the accumulation limits and required to completely divest of ownership or control of C/P-endorsed permits that exceed the accumulation limit. C/P-endorsed permits may be voluntarily abandoned to NMFS using the procedures provided under paragraph (h)(5)(iii) of this section. If NMFS finds that any entity owns or controls more than five C/P-endorsed permits, NMFS will make an Initial Administrative Determination (IAD) that the entity must divest of control or ownership of permits that exceed the accumulation limit within 30 days or NMFS will revoke the excess permits in accordance with § 660.25(h)(2)(ii). The permit owner will have the opportunity to appeal the IAD through the National Appeals Office under the provisions established at 15 CFR part 906. All QS associated with revoked permits will be redistributed to all other C/P-endorsed permit owners in proportion to their QS holdings, based on current ownership records, on or about January 1 of the calendar year following the year in which the permits are revoked. This redistribution process will not allow any entity to receive more than 50 percent of the total QS allocations for the C/P sector.
 
 (iii) *Abandonment of C/P-endorsed permits.* C/P-endorsed permits owners that own or control more than the five permit accumulation limit may voluntarily abandon C/P-endorsed permits if they notify NMFS in writing during the divestiture period specified at paragraph (h)(5)(i) of this section or within 30 days of conversion to an IFQ fishery. The written abandonment request must include the C/P endorsed permit number and the associated QS allocation percentage that will be abandoned. Either the C/P-endorsed permit owner or an authorized representative of the C/P-endorsed permit owner must sign the request. C/P-endorsed permit owners choosing to utilize the abandonment option will permanently relinquish to NMFS any right to the abandoned C/P-endorsed permit, and the QS associated with that permit will be redistributed as described under paragraph (h)(5)(ii) of this section. No compensation will be due for any abandoned permit, or associated QS or QP.
 
-(iv) *Review of C/P-permit ownership interest and accumulation limits.* NMFS may request additional information from C/P-permit owners as necessary to verify compliance with accumulation limits in the event of C/P coop failure and conversion to IFQ fishery. If NMFS discovers through review of the Trawl Identification of Ownership Interest Form that a person is not in compliance with accumulation limits, the person will be subject to divestiture provisions specified in paragraph (h)(5)(ii) of this section.
+(iv) *Review of C/P-permit ownership interest and accumulation limits.* NMFS may request additional information from C/P-permit owners as necessary to verify compliance with accumulation limits in the event of C/P co-op failure and conversion to IFQ fishery. If NMFS discovers through review of the Trawl Identification of Ownership Interest Form that a person is not in compliance with accumulation limits, the person will be subject to divestiture provisions specified in paragraph (h)(5)(ii) of this section.
 
 (v) *Definition of Ownership or Control.* For the purpose of determining ownership or control a person or entity has over a C/P endorsed permit, all of the following criteria apply:
 
@@ -538,4 +536,4 @@ Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
 
 (H) The person or entity has the ability through any means whatsoever to control or have a controlling influence over the entity to which a permit associated QS is registered, with the exception of those activities allowed under paragraphs (h)(5)(v)(C) and (G) of this section.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 763, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 68812, Dec. 17, 2019; 85 FR 35601, June 11, 2020; 85 FR 37029, June 19, 2020; 86 FR 26443, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 87 FR 54910, Sept. 8, 2022; 87 FR 77027, Dec. 16, 2022; 87 FR 77006, Dec. 16, 2022]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 763, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 68812, Dec. 17, 2019; 85 FR 35601, June 11, 2020; 85 FR 37029, June 19, 2020; 86 FR 26443, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 87 FR 54910, Sept. 8, 2022; 87 FR 77027, Dec. 16, 2022; 87 FR 77006, Dec. 16, 2022; 88 FR 81358, 81359, Nov. 22, 2023]

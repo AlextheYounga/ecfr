@@ -1,5 +1,7 @@
 ##### 252.245-7004 Reporting, Reutilization, and Disposal. #####
 
+Link to an amendment published at 88 FR 88537, Dec. 22, 2023.
+
 As prescribed in 245.107(5), use the following clause:
 
 REPORTING, REUTILIZATION, AND DISPOSAL (DEC 2017)

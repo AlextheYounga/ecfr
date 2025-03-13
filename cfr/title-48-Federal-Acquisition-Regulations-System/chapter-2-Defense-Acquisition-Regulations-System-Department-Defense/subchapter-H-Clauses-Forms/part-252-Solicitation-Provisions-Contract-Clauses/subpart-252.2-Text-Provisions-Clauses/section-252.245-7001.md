@@ -1,5 +1,7 @@
 ##### 252.245-7001 Tagging, labeling, and marking of government-furnished property #####
 
+Link to an amendment published at 88 FR 88537, Dec. 22, 2023.
+
 As prescribed in 245.107(3), use the following clause:
 
 Tagging, Labeling, and Marking of Government-furnished Property (APR 2012)

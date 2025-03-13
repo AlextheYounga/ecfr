@@ -14,7 +14,7 @@
 
 (1) At least 30 days before making a nonavailability determination that would apply to more than one contract, the USD(A&S) will, to the maximum extent practicable, and in a manner consistent with the protection of national security and confidential business information—
 
-(i) Publish a notice on the Federal Business Opportunities website (*www.FedBizOpps.gov*) of the intent to make the nonavailability determination; and
+(i) Publish a notice in the GPE (*https://www.sam.gov*) of the intent to make the nonavailability determination; and
 
 (ii) Solicit information relevant to such notice from interested parties, including producers of mill products from covered materials.
 
@@ -26,4 +26,4 @@
 
 (iii) Will ensure that any such nonavailability determination and the rationale for the determination are made publicly available to the maximum extent consistent with the protection of national security and confidential business information.
 
-[84 FR 18158, Apr. 30, 2019, as amended at 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020]
+[84 FR 18158, Apr. 30, 2019, as amended at 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 88 FR 88533, Dec. 22, 2023]

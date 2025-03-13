@@ -1,5 +1,7 @@
 ##### 245.107 Contract clauses. #####
 
+Link to an amendment published at 88 FR 88537, Dec. 22, 2023.
+
 (1)(i) In lieu of the prescription at FAR 45.107(d), use the clause at FAR 52.245-1, Government Property, in all purchase orders for repair, maintenance, overhaul, or modification of Government property regardless of the unit acquisition cost of the items to be repaired.
 
 (ii) For negotiated fixed-price contracts awarded on a basis other than submission of certified cost or pricing data for which Government property is provided, use the clause at FAR 52.245-1, Government Property, without its Alternate I.
