@@ -1,5 +1,7 @@
 ##### § 65a.9 What are the terms and conditions of awards? #####
 
+Link to an amendment published at 89 FR 80068, Oct. 2, 2024.
+
 In addition to being subject to other applicable regulations (see § 65a.11), grants awarded under this part are subject to the following terms and conditions:
 
 (a) *Material changes.* Except as otherwise provided by 45 CFR 75.308, the grantee may not materially change the quality, nature, scope, or duration of the program unless the written approval of the Director is obtained prior to the change.

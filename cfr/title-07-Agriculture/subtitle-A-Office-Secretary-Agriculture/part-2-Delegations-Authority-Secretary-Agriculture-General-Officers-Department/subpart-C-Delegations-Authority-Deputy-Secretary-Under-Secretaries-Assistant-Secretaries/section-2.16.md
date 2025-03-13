@@ -76,15 +76,7 @@
 
 (xxvii) Formulate and carry out the Grassroots Source Water Protection Program authorized by the Food Security Act of 1985, as amended (16 U.S.C. 3839bb-2).
 
-(xxviii) Administer cooperative agreements authorized under 7 U.S.C. 2204b(b)(4) as follows:
-
-(A) Administer cooperative agreements with respect to conservation programs;
-
-(B) Administer cooperative agreements with Federal agencies, State, local, and tribal governments, nongovernmental organizations, and educational institutions related to outreach and technical assistance for programs carried out by the Farm Service Agency, and, where such cooperative agreements focus on outreach activities to beginning, underserved, or veteran producers, coordinate with the Director, Office of Partnerships and Public Engagement to reduce potential duplication.
-
-(xxix) Administer the feedstock flexibility program for bioenergy producers under section 9010 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8110) and the biomass crop assistance program under section 9011 of that Act (7 U.S.C. 8111).
-
-(xxx-(xxxi) [Reserved]
+(xxviii)i-(xxxi) [Reserved]
 
 (xxxii) Implement the authority in section 1241 of the Food Security Act of 1985 (16 U.S.C. 3841) to accept and use voluntary contributions of non-Federal funds in support of natural resources conservation programs under subtitle D of title XII of that Act with respect to authorities delegated to the Under Secretary for Farm Production and Conservation.
 
@@ -456,6 +448,8 @@
 
 (12) Establish programs with any bureau of the U.S. Department of the Interior (DOI), or with other agencies within USDA, in support of the Service First initiative for the purpose of promoting customer service and efficiency, including delegating to employees of DOI and other USDA agencies the authorities of the agencies in the Farm Production and Conservation mission area necessary to carry out projects on behalf of USDA (43 U.S.C. 1703).
 
+(13) Enter into cooperative agreements with Federal agencies, State and local governments, and any other organization or individual to improve the coordination and effectiveness of Federal programs, services, and actions affecting rural areas (7 U.S.C. 2204b(b)(4)).
+
 (b) The following authorities are reserved to the Secretary of Agriculture:
 
 (1) *Related to farm service.* (i) Appointment of Farm Service Agency State committeemen.
@@ -472,4 +466,4 @@
 
 (4) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25775, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19900, Apr. 24, 1997; 62 FR 40253, July 28, 1997; 65 FR 12427, Mar. 9, 2000; 68 FR 27435, May 20, 2003; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3401, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015; 83 FR 22179, May 14, 2018; 83 FR 61311, Nov. 29. 2018; 85 FR 65504, Oct. 15, 2020; 87 FR 44267, July 26, 2022]
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25775, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19900, Apr. 24, 1997; 62 FR 40253, July 28, 1997; 65 FR 12427, Mar. 9, 2000; 68 FR 27435, May 20, 2003; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3401, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015; 83 FR 22179, May 14, 2018; 83 FR 61311, Nov. 29. 2018; 85 FR 65504, Oct. 15, 2020; 87 FR 44267, July 26, 2022; 89 FR 80074, Oct. 2, 2024]

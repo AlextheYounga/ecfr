@@ -1,5 +1,7 @@
 ##### § 51c.502 Definitions. #####
 
+Link to an amendment published at 89 FR 80065, Oct. 2, 2024.
+
 (a) *Equipment* means nonexpendable personal property as defined in 45 CFR 75.2.
 
 (b) *Existing building* means a completed or substantially completed structure, and may include the realty on which it is or is to be located.

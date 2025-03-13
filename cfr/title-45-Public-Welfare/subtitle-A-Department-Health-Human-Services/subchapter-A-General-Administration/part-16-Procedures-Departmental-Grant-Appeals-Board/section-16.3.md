@@ -1,5 +1,7 @@
 ##### § 16.3 When these procedures become available. #####
 
+Link to an amendment published at 89 FR 80070, Oct. 2, 2024.
+
 Before the Board will take an appeal, three circumstances must be present:
 
 (a) The dispute must arise under a program which uses the Board for dispute resolution, and must meet any special conditions established for that program. An explanation is contained in appendix A.

@@ -1,5 +1,7 @@
 ##### § 287.60 Are there additional financial reporting and auditing requirements? #####
 
+Link to an amendment published at 89 FR 80072, Oct. 2, 2024.
+
 (a) The reporting of expenditures are generally subject to the requirements of 45 CFR 75.341.
 
 (b) NEW Program funds and activities are subject to the audit requirement of the Single Audit Act of 1984 (45 CFR part 75, subpart F).

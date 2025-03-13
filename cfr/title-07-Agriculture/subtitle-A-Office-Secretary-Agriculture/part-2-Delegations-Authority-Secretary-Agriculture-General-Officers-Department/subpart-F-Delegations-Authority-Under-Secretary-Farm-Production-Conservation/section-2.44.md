@@ -20,6 +20,8 @@
 
 (9) Coordinate with the Administrator, Farm Service Agency, on the type and format of data received under the noninsured crop assistance program authorized by Sec. 196 of the Federal Agriculture Improvement and Reform Act of 1996 (Pub. L 104-127, as amended) (7 U.S.C. 7333).
 
+(10) Establish programs with any bureau of the U.S. Department of the Interior (DOI), or with other agencies within USDA, in support of the Service First initiative for the purpose of promoting customer service and efficiency, including delegating to employees of DOI and other USDA agencies the authorities of the Risk Management Agency to carry out projects on behalf of USDA (43 U.S.C. 1703).
+
 (b) [Reserved]
 
-[62 FR 19901, Apr. 24, 1997, as amended at 74 FR 3407, Jan. 21, 2009; 79 FR 44113, July 30, 2014; 83 FR 22188, May 14, 2018; 85 FR 65516, Oct. 15, 2020]
+[62 FR 19901, Apr. 24, 1997, as amended at 74 FR 3407, Jan. 21, 2009; 79 FR 44113, July 30, 2014; 83 FR 22188, May 14, 2018; 85 FR 65516, Oct. 15, 2020; 89 FR 80075, Oct. 2, 2024]

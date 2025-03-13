@@ -1,5 +1,7 @@
 ##### § 136.302 Definitions. #####
 
+Link to an amendment published at 89 FR 80069, Oct. 2, 2024.
+
 As used in this subpart: (a) *Act* means the Indian Health Care Improvement Act, Pub. L. 94-437 (25 U.S.C. 1601 *et seq.*).
 
 (b) *Academic year* means the traditional approximately 9 month September to June annual session, except for students who attend summer session in addition to the traditional academic year during a 12 month period, for whom the academic year will be considered to be of approximately 12 months duration.

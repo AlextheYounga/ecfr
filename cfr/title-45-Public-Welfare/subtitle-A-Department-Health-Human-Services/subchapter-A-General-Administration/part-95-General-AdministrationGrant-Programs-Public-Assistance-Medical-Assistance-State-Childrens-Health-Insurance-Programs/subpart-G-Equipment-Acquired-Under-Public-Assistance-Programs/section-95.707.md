@@ -1,5 +1,7 @@
 ##### § 95.707 Equipment management and disposition. #####
 
+Link to an amendment published at 89 FR 80071, Oct. 2, 2024.
+
 (a) Once equipment, whose costs are claimed for Federal financial participation (i.e., equipment that is capitalized and depreciated or is claimed in the period acquired), has reached the end of its useful life (as defined in an approved APD), the equipment shall be subject to the property disposal rules in § 75.320.
 
 (b) The State agency is responsible for adequately managing the equipment, maintaining records on the equipment, and taking periodic physical inventories. Physical inventories may be made on the basis of statistical sampling. The following requirements apply to the disposition of this equipment:

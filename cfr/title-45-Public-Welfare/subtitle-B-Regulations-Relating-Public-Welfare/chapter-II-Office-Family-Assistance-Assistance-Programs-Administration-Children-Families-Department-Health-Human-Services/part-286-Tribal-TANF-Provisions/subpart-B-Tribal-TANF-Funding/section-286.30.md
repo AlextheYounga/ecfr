@@ -1,5 +1,7 @@
 ##### § 286.30 What is the process for retrocession of a Tribal Family Assistance Grant? #####
 
+Link to an amendment published at 89 FR 80071, Oct. 2, 2024.
+
 (a) A Tribe that wishes to terminate its TFAG prior to the end of its three-year plan must—
 
 (1) Notify the Secretary and the State in writing of the reason(s) for termination no later than 120 days prior to the effective date of the termination, or

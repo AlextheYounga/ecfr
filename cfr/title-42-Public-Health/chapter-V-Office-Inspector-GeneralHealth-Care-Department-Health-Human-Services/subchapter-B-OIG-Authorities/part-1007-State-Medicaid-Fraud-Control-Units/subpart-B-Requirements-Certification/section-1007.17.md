@@ -1,5 +1,7 @@
 ##### § 1007.17 Annual recertification of Unit. #####
 
+Link to an amendment published at 89 FR 80070, Oct. 2, 2024.
+
 (a) *Information required annually for recertification.* To continue receiving payments under this part, a Unit must submit to OIG:
 
 (1) *Reapplication for recertification.* Reapplication is due at least 60 days prior to the expiration of the 12-month certification period. A reapplication must include:

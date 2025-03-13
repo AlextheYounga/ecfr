@@ -1,6 +1,6 @@
 ##### § 2.41 Chief Operating Officer, Farm Production and Conservation Business Center. #####
 
-(a) Delegations. Pursuant to § 2.16(a), subject to the reservations in § 2.16(b)(1), the following delegations of authority are made by the Under Secretary for Farm Production and Conservation to the Chief Operating Officer, Farm Production and Conservation Programs Business Center:
+(a) *Delegations.* Pursuant to § 2.16(a), subject to the reservations in § 2.16(b)(1), the following delegations of authority are made by the Under Secretary for Farm Production and Conservation to the Chief Operating Officer, Farm Production and Conservation Programs Business Center:
 
 (1) Provide to the Farm Service Agency, Natural Resources Conservation Service, and Risk Management Agency management support services including information technology, financial management, human resources, procurement, property management, and related business and administrative processes.
 
@@ -32,6 +32,8 @@
 
 (6) Administer a Century Farms Program as authorized by section 12508 of the Agriculture Improvement Act of 2018 (7 U.S.C. 2266a).
 
+(7) Establish programs with any bureau of the U.S. Department of the Interior (DOI), or with other agencies within USDA, in support of the Service First initiative for the purpose of promoting customer service and efficiency, including delegating to employees of DOI and other USDA agencies the authorities of the Farm Production and Conservation Business Center necessary to carry out projects on behalf of USDA (43 U.S.C. 1703).
+
 (b) [Reserved]
 
-[83 FR 61312, Nov. 29, 2018, as amended at 85 FR 65514, Oct. 15, 2020]
+[83 FR 61312, Nov. 29, 2018, as amended at 85 FR 65514, Oct. 15, 2020; 89 FR 80075, Oct. 2, 2024]

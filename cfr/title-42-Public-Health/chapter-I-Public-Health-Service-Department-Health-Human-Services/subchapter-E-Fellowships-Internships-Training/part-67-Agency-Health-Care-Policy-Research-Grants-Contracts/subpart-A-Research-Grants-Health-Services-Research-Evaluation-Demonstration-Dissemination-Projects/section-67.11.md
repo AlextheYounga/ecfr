@@ -1,5 +1,7 @@
 ##### § 67.11 Definitions. #####
 
+Link to an amendment published at 89 FR 80068, Oct. 2, 2024.
+
 As used in this subpart—
 
 *Administrator* means the Administrator and any other officer or employee of the Agency for Health Care Policy and Research to whom the authority involved may be delegated.

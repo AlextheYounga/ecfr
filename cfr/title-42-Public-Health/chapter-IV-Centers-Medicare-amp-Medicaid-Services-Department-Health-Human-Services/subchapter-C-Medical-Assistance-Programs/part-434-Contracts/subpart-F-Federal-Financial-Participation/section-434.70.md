@@ -1,5 +1,7 @@
 ##### § 434.70 Conditions for Federal Financial Participation (FFP). #####
 
+Link to an amendment published at 89 FR 80069, Oct. 2, 2024.
+
 (a) *Basic requirements.* FFP is available only for periods during which the contract—
 
 (1) Meets the requirements of this part;

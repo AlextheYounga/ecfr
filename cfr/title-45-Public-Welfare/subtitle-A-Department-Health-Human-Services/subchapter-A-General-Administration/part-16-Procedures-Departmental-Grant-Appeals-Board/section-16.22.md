@@ -1,5 +1,7 @@
 ##### § 16.22 The effect of an appeal. #####
 
+Link to an amendment published at 89 FR 80070, Oct. 2, 2024.
+
 (a) *General.* Until the Board disposes of an appeal, the respondent shall take no action to implement the final decision appealed.
 
 (b) *Exceptions.* The respondent may—

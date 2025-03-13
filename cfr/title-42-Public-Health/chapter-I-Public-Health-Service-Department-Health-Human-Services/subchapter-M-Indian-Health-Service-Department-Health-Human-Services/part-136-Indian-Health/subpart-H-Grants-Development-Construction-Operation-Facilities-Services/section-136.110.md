@@ -1,5 +1,7 @@
 ##### § 136.110 Facilities construction. #####
 
+Link to an amendment published at 89 FR 80068, Oct. 2, 2024.
+
 In addition to other requirements of this subpart:
 
 (a) An applicant for a construction grant to build, renovate, modernize, or remodel a hospital, clinic, health station or quarters for housing personnel associated with such facilities, must in its application:

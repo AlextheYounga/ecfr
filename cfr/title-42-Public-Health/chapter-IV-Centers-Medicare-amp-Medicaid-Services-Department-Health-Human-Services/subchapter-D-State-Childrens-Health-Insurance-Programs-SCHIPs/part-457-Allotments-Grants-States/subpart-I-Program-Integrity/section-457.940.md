@@ -1,5 +1,7 @@
 ##### § 457.940 Procurement standards. #####
 
+Link to an amendment published at 89 FR 80070, Oct. 2, 2024.
+
 (a) A State must submit to CMS a written assurance that Title XXI services will be provided in an effective and efficient manner. The State must submit the assurance—
 
 (1) With the initial State plan; or

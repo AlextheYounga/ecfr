@@ -1,5 +1,7 @@
 ##### § 52b.14 Other federal laws, regulations, executive orders, and policies that apply. #####
 
+Link to an amendment published at 89 FR 80065, Oct. 2, 2024.
+
 Other federal laws, regulations, executive orders, and policies apply to grants under this part. These include, but are not necessarily limited to:
 
 (a) *Laws.*

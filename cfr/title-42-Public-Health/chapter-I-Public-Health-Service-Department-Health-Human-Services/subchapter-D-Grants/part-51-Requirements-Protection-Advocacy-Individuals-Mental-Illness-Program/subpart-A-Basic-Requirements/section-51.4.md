@@ -1,5 +1,7 @@
 ##### § 51.4 Grants administration requirements. #####
 
+Link to an amendment published at 89 FR 80064, Oct. 2, 2024.
+
 The following parts of titles 42 and 45 CFR apply to grants funded under this part.
 
 42 CFR Part 50, Subpart D.45 CFR Part 16—Procedures of the Departmental Grant Appeal Board.45 CFR Part 75—Uniform Administrative Requirements, Cost Principles, and Audit Requirements for HHS Awards.45 CFR Part 76—Government-wide Debarment and Suspension (Nonprocurement) and Government-wide Requirements for Drug-Free Workplace.45 CFR Part 80—Nondiscrimination under Programs Receiving Federal Assistance through the Department of Health and Human Services—Effectuation of Title VI of the Civil Rights Act of 1964.45 CFR Part 81—Practice and Procedure for Hearings under Part 80 of This Title.45 CFR Part 84—Nondiscrimination on the Basis of Handicap in Programs and Activities Receiving or Benefiting from Federal Financial Assistance.45 CFR Part 86—Nondiscrimination on the Basis of Sex in Education Programs and Activities Receiving Federal Financial Assistance.45 CFR Part 91—Nondiscrimination on the Basis of Age in Education Programs and Activities Receiving Federal Financial Assistance from HHS.45 CFR Part 93—New Restrictions on Lobbying.45 CFR Part 1386, subpart A.[62 FR 53564, Oct. 15, 1997, as amended at 81 FR 3006, Jan. 20, 2016]

@@ -1,5 +1,7 @@
 ##### § 136.116 Reports. #####
 
+Link to an amendment published at 89 FR 80069, Oct. 2, 2024.
+
 In addition to the reporting and information requirements provided in 45 CFR 75.341 through 75.360 made applicable to grants under this subpart by § 136.114, each recipient of Federal financial assistance shall make such reports and information available to the Indian people served or represented by such recipient as and in a manner determined by the Secretary to be adequate.
 
 Note:

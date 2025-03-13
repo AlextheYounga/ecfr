@@ -1,5 +1,7 @@
 ##### § 136.312 Application. #####
 
+Link to an amendment published at 89 FR 80069, Oct. 2, 2024.
+
 (a) Forms for applying for grants are governed by 45 CFR 75.2061
 
 1 Applications and instructions may be obtained from the appropriate Indian Health Service Area or Program Office or by writing the Director, Indian Health Service, Room 5A-55, 5600 Fishers Lane, Rockville, MD 20857.

@@ -126,7 +126,7 @@
 
 (30) Administer the Rural Rehabilitation Corporation Trust Liquidation Act (40 U.S.C. 440 *et seq.*), and trust, liquidation, and other agreements entered into pursuant thereto.
 
-(31) [Reserved]
+(31) Establish programs with any bureau of the U.S. Department of the Interior (DOI), or with other agencies within USDA, in support of the Service First initiative for the purpose of promoting customer service and efficiency, including delegating to employees of DOI and other USDA agencies the authorities of the Farm Service Agency necessary to carry out projects on behalf of USDA (43 U.S.C. 1703).
 
 (32) Administer Farmers Home Administration or any successor agency assets conveyed in trust under the Participation Sales Act of 1966 (12 U.S.C. 1717).
 
@@ -246,4 +246,4 @@
 
 (2) Making and issuing notes to the Secretary of the Treasury for the purposes of the Agricultural Credit Insurance Fund as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1929).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19901, Apr. 24, 1997; 68 FR 27443, May 20, 2003; 69 FR 34254, June 21, 2004; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3406, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44112, July 30, 2014; 80 FR 58338, Sept. 29, 2015; 83 FR 22184, May 14, 2018; 83 FR 61313, Nov. 29, 2018; 85 FR 65514, Oct. 15, 2020; 87 FR 44269, July 26, 2022]
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19901, Apr. 24, 1997; 68 FR 27443, May 20, 2003; 69 FR 34254, June 21, 2004; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3406, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44112, July 30, 2014; 80 FR 58338, Sept. 29, 2015; 83 FR 22184, May 14, 2018; 83 FR 61313, Nov. 29, 2018; 85 FR 65514, Oct. 15, 2020; 87 FR 44269, July 26, 2022; 89 FR 80075, Oct. 2, 2024]

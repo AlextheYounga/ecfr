@@ -1,5 +1,7 @@
 ##### § 136.104 Application. #####
 
+Link to an amendment published at 89 FR 80068, Oct. 2, 2024.
+
 (a) Forms for applying for grants are governed by 45 CFR 75.206.
 
 (b) In addition to such other pertinent information as the Secretary may require, the application for a grant under this subpart shall contain the following:

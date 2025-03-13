@@ -1,5 +1,7 @@
 ##### § 434.6 General requirements for all contracts and subcontracts. #####
 
+Link to an amendment published at 89 FR 80069, Oct. 2, 2024.
+
 (a) *Contracts.* All contracts under this part must include all of the following:
 
 (1) Include provisions that define a sound and complete procurement contract, as required by 45 CFR part 75.

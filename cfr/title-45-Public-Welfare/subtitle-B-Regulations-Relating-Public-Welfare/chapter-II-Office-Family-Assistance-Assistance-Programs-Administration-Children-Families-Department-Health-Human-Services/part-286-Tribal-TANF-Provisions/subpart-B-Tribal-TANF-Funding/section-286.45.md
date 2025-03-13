@@ -1,5 +1,7 @@
 ##### § 286.45 What uses of Tribal Family Assistance Grant funds are improper? #####
 
+Link to an amendment published at 89 FR 80071, Oct. 2, 2024.
+
 (a) A Tribe may not use Tribal Family Assistance Grant funds to provide assistance to:
 
 (1) Families or individuals that do not otherwise meet the eligibility criteria contained in the Tribal Family Assistance Plan (TFAP); or

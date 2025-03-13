@@ -66,6 +66,8 @@
 
 (20) Conduct legal sufficiency reviews and concur with all proposed agency contracts or other transactions to retain outside counsel or for the provision of legal services regardless of whether an agency has specific statutory authority to retain outside counsel or legal services. The following services do not require legal sufficiency review and concurrence from the Office of the General Counsel: Contracts for the provision of services in relation to USDA office's and agencies' Freedom of Information Act activities; contracts for the performance of trademark searches or other trademark or copyright related services; or contracts for the performance of patent prosecution or other related patent services.
 
+(21) Enter into cooperative agreements with nongovernmental organizations and educational institutions related to public interest and agricultural law for the purpose of agricultural and public service programs, sponsorships, convenings, and trainings (7 U.S.C. 2204b(b)(4)).
+
 (b) *Related to ethics.* The following delegation of authority is made by the Secretary to the General Counsel: Provide administrative supervision for the Office of Ethics.
 
 (c) *Related to the Freedom of Information Act.* (1) Serve as the Chief Freedom of Information Act Officer for the Department; oversee general officers and agency heads in efficient and appropriate compliance with the provisions of the Freedom of Information Act (5 U.S.C. 552); monitor implementation of 5 U.S.C. 552 throughout the agency and keep the Secretary and the Attorney General informed regarding agency performance in its implementation; recommend to the Secretary necessary adjustments to agency practices, policies, personnel, and funding to improve implementation of 5 U.S.C. 552; review and report to the Attorney General, through the Secretary, as the Attorney General may direct; and, facilitate public understanding of the purposes of the statutory exemptions contained in 5 U.S.C. 552.
@@ -74,4 +76,4 @@
 
 (d) *Related to records management.* Administer the Departmental records management program.
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 49237, Sept. 19, 1996; 65 FR 12429, Mar. 9, 2000; 70 FR 23927, May 6, 2005; 70 FR 30610, May 27, 2005; 78 FR 40938, July 9, 2013; 79 FR 44112, July 30, 2014; 83 FR 22184, May 14, 2018; 85 FR 65512, Oct. 15, 2020; 87 FR 44269, July 26, 2022]
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 49237, Sept. 19, 1996; 65 FR 12429, Mar. 9, 2000; 70 FR 23927, May 6, 2005; 70 FR 30610, May 27, 2005; 78 FR 40938, July 9, 2013; 79 FR 44112, July 30, 2014; 83 FR 22184, May 14, 2018; 85 FR 65512, Oct. 15, 2020; 87 FR 44269, July 26, 2022; 89 FR 80074, Oct. 2, 2024]

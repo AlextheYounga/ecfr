@@ -1,5 +1,7 @@
 ##### § 440.170 Any other medical care or remedial care recognized under State law and specified by the Secretary. #####
 
+Link to an amendment published at 89 FR 80069, Oct. 2, 2024.
+
 (a) *Transportation.* (1) “Transportation” includes expenses for transportation and other related travel expenses determined to be necessary by the agency to secure medical examinations and treatment for a beneficiary.
 
 (2) Except as provided in paragraph (a)(4), transportation, as defined in this section, is furnished only by a provider to whom a direct vendor payment can appropriately be made by the agency.

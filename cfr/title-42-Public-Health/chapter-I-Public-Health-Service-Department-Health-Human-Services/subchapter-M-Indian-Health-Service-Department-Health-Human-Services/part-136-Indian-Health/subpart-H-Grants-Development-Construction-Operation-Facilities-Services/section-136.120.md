@@ -1,5 +1,7 @@
 ##### § 136.120 Use of Indian business concerns. #####
 
+Link to an amendment published at 89 FR 80069, Oct. 2, 2024.
+
 Grants awarded pursuant to this subpart will incorporate the following:
 
 Use of Indian business concerns.

@@ -1,5 +1,7 @@
 ##### § 1357.40 Direct payments to Indian Tribal Organizations (title IV-B, subpart 1, child welfare services). #####
 
+Link to an amendment published at 89 FR 80073, Oct. 2, 2024.
+
 (a) *Who may apply for direct funding?* Any Indian Tribal Organization (ITO) that meets the definitions in section 428(c) of the Act, or any consortium or other group of eligible Tribal organizations authorized by the membership of the Tribes to act for them is eligible to apply for direct funding if the ITO, consortium or group has a plan for child welfare services that is jointly developed by the ITO and the Department.
 
 (b) *Title IV-B Child and Family Services Plan (CFSP).* (1) In order to receive funds under title IV-B, subpart 1, beginning in FY 1995, the Indian Tribe or Tribal organization must have in effect an approved five-year child and family services plan that meets the applicable requirements of § 1357.15 of this part.

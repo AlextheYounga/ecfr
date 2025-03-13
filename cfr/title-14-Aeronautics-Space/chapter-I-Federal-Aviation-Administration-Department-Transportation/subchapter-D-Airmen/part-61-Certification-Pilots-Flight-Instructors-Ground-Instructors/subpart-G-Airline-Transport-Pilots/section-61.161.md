@@ -1,5 +1,7 @@
 ##### § 61.161 Aeronautical experience: Rotorcraft category and helicopter class rating. #####
 
+Link to an amendment published at 89 FR 80340, Oct. 2, 2024.
+
 (a) A person who is applying for an airline transport pilot certificate with a rotorcraft category and helicopter class rating, must have at least 1,200 hours of total time as a pilot that includes at least:
 
 (1) 500 hours of cross-country flight time;

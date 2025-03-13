@@ -1,5 +1,7 @@
 ##### § 1321.9 State agency policies and procedures. #####
 
+Link to an amendment published at 89 FR 80073, Oct. 2, 2024.
+
 (a) The State agency on aging shall develop policies and procedures governing all aspects of programs operated as set forth in this part and part 1324 of this chapter. These policies and procedures shall be developed in consultation with area agencies on aging, program participants, and other appropriate parties in the State. Except for the Ombudsman program as set forth in 45 CFR part 1324, subpart A and where otherwise indicated, the State agency policies may allow for such policies and procedures to be developed at the area agency on aging level. The State agency is responsible for implementing, monitoring, and enforcing policies and procedures, where:
 
 (1) The policies and procedures developed by the State agency shall address how the State agency will monitor the programmatic and fiscal performance of all programs and activities initiated under this part for compliance with all requirements, and for quality and effectiveness. As set forth in sections 305(a)(2)(A) and 306(a) of the Act (42 U.S.C. 3025(a)(2)(A) and 3026(a)), and consistent with section 305(a)(1)(C) (42 U.S.C. 3025(a)(1)(C)), the State agency shall be responsible for monitoring the program and financial activities of subrecipients and subgrantees to ensure that grant awards are used for the authorized purposes and in compliance with Federal statutes, regulations, and the terms and conditions of the grant award, including:

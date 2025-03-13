@@ -1,5 +1,7 @@
 ##### § 1336.50 Financial and administrative requirements. #####
 
+Link to an amendment published at 89 FR 80073, Oct. 2, 2024.
+
 (a) *General.* The following HHS regulations apply to all grants awarded under this part:
 
 45 CFR Part 16 Department grant appeals process.

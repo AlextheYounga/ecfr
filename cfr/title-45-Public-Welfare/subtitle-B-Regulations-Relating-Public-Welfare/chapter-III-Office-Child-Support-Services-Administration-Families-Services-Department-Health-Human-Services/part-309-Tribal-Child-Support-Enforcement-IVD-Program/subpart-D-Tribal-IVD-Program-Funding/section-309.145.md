@@ -1,5 +1,7 @@
 ##### § 309.145 What costs are allowable for Tribal IV-D programs carried out under § 309.65(a) of this part? #####
 
+Link to an amendment published at 89 FR 80072, Oct. 2, 2024.
+
 Federal funds are available for costs of operating a Tribal IV-D program under an approved Tribal IV-D application carried out under § 309.65(a) of this part, provided that such costs are determined by the Secretary to be reasonable, necessary, and allocable to the program. Allowable activities and costs include:
 
 (a) Administration of the Tribal IV-D program, including but not limited to the following:

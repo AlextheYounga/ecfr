@@ -1,5 +1,7 @@
 ##### § 59a.16 What other conditions apply? #####
 
+Link to an amendment published at 89 FR 80067, Oct. 2, 2024.
+
 Although the Secretary may approve exceptions which are consistent with program purposes, in addition to other terms, conditions, and assurances required by law, each grantee must meet the following requirements:
 
 (a) *Use of funds.* Any funds granted under this subpart shall be expended solely for the purpose for which the funds were granted in accordance with the approved application and budget, the regulations of this subpart, the terms and conditions of the award, and the applicable cost principles in 45 CFR part 75, subpart E.

@@ -1,5 +1,7 @@
 ##### § 136.115 Rescission of grants. #####
 
+Link to an amendment published at 89 FR 80068, Oct. 2, 2024.
+
 (a) When the Secretary determines that the performance of a grantee under these regulations involves (1) the violation of the rights or endangerment of the health, safety, or welfare of any persons, or (2) gross negligence or the mismanagement in the handling or use of funds under the grant, the Secretary will, in writing, notify the grantee of such determination and will request that the grantee take such corrective action, within such period of time, as the Secretary may prescribe.
 
 (b) When the Secretary determines that a grantee has not taken corrective action (as prescribed by him under paragraph (a) of this section) to his satisfaction, he may, after providing the grantee an opportunity for a hearing in accordance with paragraph (c) of this section, rescind the grant in whole or in part and if he deems it appropriate, assume or resume control or operation of the program, activity, or service involved.

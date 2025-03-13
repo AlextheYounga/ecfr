@@ -1,5 +1,7 @@
 ##### § 430.2 Other applicable Federal regulations. #####
 
+Link to an amendment published at 89 FR 80069, Oct. 2, 2024.
+
 Other regulations applicable to State Medicaid programs include the following:
 
 (a) 5 CFR part 900, subpart F, Administration of the Standards for a Merit System of Personnel Administration.

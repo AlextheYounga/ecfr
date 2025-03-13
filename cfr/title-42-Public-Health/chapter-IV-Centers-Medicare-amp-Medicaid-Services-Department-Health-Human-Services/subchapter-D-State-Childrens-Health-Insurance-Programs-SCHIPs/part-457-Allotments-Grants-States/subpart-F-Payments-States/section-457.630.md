@@ -1,5 +1,7 @@
 ##### § 457.630 Grants procedures. #####
 
+Link to an amendment published at 89 FR 80070, Oct. 2, 2024.
+
 (a) *General provisions.* Once CMS has approved a State child health plan, CMS makes quarterly grant awards to the State to cover the Federal share of expenditures for child health assistance, other child health assistance, special health initiatives, outreach and administration.
 
 (1) For fiscal year 1998, a State must submit a budget request in an appropriate format for the 4 quarters of the fiscal year. CMS bases the grant awards for the 4 quarters of fiscal year 1998 based on the State's budget requests for those quarters.

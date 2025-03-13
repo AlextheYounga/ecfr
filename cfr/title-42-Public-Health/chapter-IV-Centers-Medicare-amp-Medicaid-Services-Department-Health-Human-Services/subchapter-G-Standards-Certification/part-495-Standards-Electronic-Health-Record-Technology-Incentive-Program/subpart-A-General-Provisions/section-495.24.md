@@ -664,7 +664,7 @@ The criteria specified in paragraphs (c) and (d) of this section are optional fo
 
 (B) In 2023 and 2024, earn a total score of at least 60 points.
 
-(C) In 2025 and subsequent years, earn a total score of at least 70 points.
+(C) In 2025 earn a total score of at least 70 points.
 
 (D) In 2026 and subsequent years, earn a total score of at least 80 points.
 
@@ -678,4 +678,4 @@ The criteria specified in paragraphs (c) and (d) of this section are optional fo
 
 (ii) *Distribution of points for nonapplicable measures.* For eligible hospitals or CAHs that claim such exclusion, the points assigned to the excluded measure are distributed to other measures as specified by CMS for an EHR reporting period.
 
-[81 FR 79884, Nov. 14, 2016, as amended at 82 FR 38517, August 14, 2017; 82 FR 46143, Oct. 4, 2017; 83 FR 41707, Aug. 17, 2018; 83 FR 60096, Nov. 23, 2018; 84 FR 42616, Aug. 16, 2019; 85 FR 59026, Sept. 18, 2020; 86 FR 45522, Aug. 13, 2021; 87 FR 49410, Aug. 10, 2022; 89 FR 69914, Aug. 28, 2024]
+[81 FR 79884, Nov. 14, 2016, as amended at 82 FR 38517, August 14, 2017; 82 FR 46143, Oct. 4, 2017; 83 FR 41707, Aug. 17, 2018; 83 FR 60096, Nov. 23, 2018; 84 FR 42616, Aug. 16, 2019; 85 FR 59026, Sept. 18, 2020; 86 FR 45522, Aug. 13, 2021; 87 FR 49410, Aug. 10, 2022; 89 FR 69914, Aug. 28, 2024; 89 FR 80131, Oct. 2, 2024]

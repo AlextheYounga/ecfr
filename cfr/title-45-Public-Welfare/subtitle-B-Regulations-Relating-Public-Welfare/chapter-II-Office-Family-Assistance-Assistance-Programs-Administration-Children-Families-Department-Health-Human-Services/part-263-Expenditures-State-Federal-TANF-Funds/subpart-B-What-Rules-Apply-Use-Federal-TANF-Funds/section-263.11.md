@@ -1,5 +1,7 @@
 ##### § 263.11 What uses of Federal TANF funds are improper? #####
 
+Link to an amendment published at 89 FR 80071, Oct. 2, 2024.
+
 (a) States may use Federal TANF funds for expenditures:
 
 (1) That are reasonably calculated to accomplish the purposes of TANF, as specified at § 260.20 of this chapter; or

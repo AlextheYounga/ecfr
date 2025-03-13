@@ -1,5 +1,7 @@
 ##### § 59.212 Grantee accountability. #####
 
+Link to an amendment published at 89 FR 80067, Oct. 2, 2024.
+
 (a) *Accounting for grant award payments.* All payments made by the Secretary shall be recorded by the grantee in accounting records separate from the records of all other grant funds, including funds derived from other grant awards. With respect to each approved project the grantee shall account for the sum total of all amounts paid by presenting or otherwise making available evidence satisfactory to the Secretary of expenditures for direct and indirect costs meeting the requirements of this part: *Provided, however,* That when the amount awarded for indirect costs was based on a predetermined fixed-percentage of estimated direct costs, the amount allowed for indirect costs shall be computed on the basis of such predetermined fixed-percentage rates applied to the total, or a selected element thereof, of the reimbursable direct costs incurred.
 
 (b) [Reserved]

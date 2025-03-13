@@ -1,5 +1,7 @@
 ##### § 1355.30 Other applicable regulations. #####
 
+Link to an amendment published at 89 FR 80073, Oct. 2, 2024.
+
 Except as specified, the following regulations are applicable to State and Tribal programs funded under titles IV-B and IV-E of the Act.
 
 (a) 45 CFR Part 16—Procedures of the Departmental Grant Appeals Board.

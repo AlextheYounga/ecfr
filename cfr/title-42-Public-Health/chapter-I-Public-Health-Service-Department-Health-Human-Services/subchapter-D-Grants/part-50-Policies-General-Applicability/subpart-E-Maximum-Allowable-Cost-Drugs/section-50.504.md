@@ -1,5 +1,7 @@
 ##### § 50.504 Allowable cost of drugs. #####
 
+Link to an amendment published at 89 FR 80064, Oct. 2, 2024.
+
 (a) The maximum amount which may be expended from program funds for the acquisition of any drug shall be the lowest of
 
 (1) The maximum allowable cost (MAC) of the drug, if any, established in accordance with 45 CFR part 19, plus a dispensing fee determined by the Secretary in accordance with paragraph (b) of this section, to be reasonable;

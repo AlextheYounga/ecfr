@@ -1,5 +1,7 @@
 ##### § 438.356 State contract options for external quality review. #####
 
+Link to an amendment published at 89 FR 80069, Oct. 2, 2024.
+
 (a) The State—
 
 (1) Must contract with one EQRO to conduct either EQR alone or EQR and other EQR-related activities.

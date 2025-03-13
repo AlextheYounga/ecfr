@@ -1,5 +1,7 @@
 ##### § 52a.4 What information must each application contain? #####
 
+Link to an amendment published at 89 FR 80065, Oct. 2, 2024.
+
 Each application under this part must include detailed information as to the following:
 
 (a) The personnel, facilities, and other resources available to the applicant with which to initiate and maintain the proposed center grants program;

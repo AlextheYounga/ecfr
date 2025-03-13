@@ -1,5 +1,7 @@
 ##### § 95.621 ADP reviews. #####
 
+Link to an amendment published at 89 FR 80071, Oct. 2, 2024.
+
 The Department will conduct periodic onsite surveys and reviews of State and local agency ADP methods and practices to determine the adequacy of such methods and practices and to assure that ADP equipment and services are utilized for the purposes consistent with proper and efficient administration under the Act. Where practical, the Department will develop a mutually acceptable schedule between the Department and State or local agencies prior to conducting such surveys or reviews, which may include but are not limited to:
 
 (a) *Pre-installation readiness.* A pre-installation survey including an onsite evaluation of the physical site and the agency's readiness to productively use the proposed ADP services, equipment or system when installed and operational.

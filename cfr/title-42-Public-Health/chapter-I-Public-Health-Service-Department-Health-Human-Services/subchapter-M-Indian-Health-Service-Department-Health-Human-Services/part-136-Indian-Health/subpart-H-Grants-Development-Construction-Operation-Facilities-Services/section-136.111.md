@@ -1,5 +1,7 @@
 ##### § 136.111 Interest. #####
 
+Link to an amendment published at 89 FR 80068, Oct. 2, 2024.
+
 Tribes and Tribal organizations shall not be held accountable for interest earned on grant funds, pending disbursement by such organization.
 
 Note:

@@ -1,5 +1,7 @@
 ##### § 57.315 Records, reports, inspection, and audit. #####
 
+Link to an amendment published at 89 FR 80066, Oct. 2, 2024.
+
 (a) *Records and reports.* (1) Each Federal capital contribution and Federal capital loan is subject to the condition that the school must maintain those records and file with the Secretary those reports relating to the operation of its nursing student loan funds as the Secretary may find necessary to carry out the purposes of the Act and these regulations. A school must submit required reports to the Secretary within 45 days of the close of the reporting period.
 
 (i) A school which fails to submit a required report for its Federal capital contribution fund within 45 days of the close of the reporting period:

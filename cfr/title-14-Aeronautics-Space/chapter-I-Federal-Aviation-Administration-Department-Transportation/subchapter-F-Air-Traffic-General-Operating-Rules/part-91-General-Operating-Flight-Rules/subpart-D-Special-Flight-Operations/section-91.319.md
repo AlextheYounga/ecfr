@@ -1,5 +1,7 @@
 ##### § 91.319 Aircraft having experimental certificates: Operating limitations. #####
 
+Link to an amendment published at 89 FR 80340, Oct. 2, 2024.
+
 (a) No person may operate an aircraft that has an experimental certificate—
 
 (1) For other than the purpose for which the certificate was issued; or

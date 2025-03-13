@@ -1,6 +1,6 @@
 ##### § 2.60 Chief, Forest Service. #####
 
-(a) Delegations. Pursuant to § 2.20(a)(1), (2), and (6), (a)(7)(ii), and (a)(8), the following delegations of authority are made by the Under Secretary for Natural Resources and Environment to the Chief of the Forest Service:
+(a) *Delegations.* Pursuant to § 2.20(a)(1), (2), and (6), (a)(7)(ii), and (a)(8), the following delegations of authority are made by the Under Secretary for Natural Resources and Environment to the Chief of the Forest Service:
 
 (1) Provide national leadership in forestry. (As used here and elsewhere in this section, the term “forestry” encompasses renewable and nonrenewable resources of forests, including lands governed by the Alaska National Interest Lands Conservation Act, forest-related rangeland, grassland, brushland, woodland, and alpine areas including but not limited to recreation, range, timber, minerals, watershed, wildlife and fish; natural scenic, scientific, cultural, and historic values of forests and related lands; and derivative values such as economic strength and social well-being).
 
@@ -204,7 +204,7 @@
 
 (57) Utilize the Agriculture Conservation Experienced Services (ACES) Program (16 U.S.C. 3851) to provide technical services for conservation-related programs and authorities carried out on National Forest System lands (16 U.S.C. 3851a).
 
-(58) Enter into reciprocal fire agreements or contracts with domestic entities. Administer reimbursements received for fire suppression (16 U.S.C. 1856-1856e).
+(58) Enter into reciprocal fire agreements or contracts with domestic entities. Administer reimbursements received for fire suppression (42 U.S.C. 1856-1856e).
 
 (59) Administer the large airtanker and aerial asset lease program (16 U.S.C. 551c).
 
@@ -234,4 +234,4 @@
 
 (7) The authority to approve disbursements from the New World Mine Response and Restoration Account and the authority to prepare and approve the New World Mine Response and Restoration Plan, including the coordination of the response and restoration activities of the Forest Service and the other Federal and State agencies, and make quarterly reports to Congress under section 502(d) and (f) of Title V of the Department of the Interior and Related Agencies Appropriations Act of 1998, Pub. L. 105-83.
 
-[60 FR 56393, Nov. 8, 1995, as amended at 64 FR 34967, June 30, 1999; 65 FR 12429, Mar. 9, 2000; 67 FR 59135, Sept. 20, 2002; 72 FR 36859, July 6, 2007; 74 FR 3408, Jan. 21, 2009; 78 FR 40938, July 9, 2013; 79 FR 44114, July 30, 2014; 85 FR 65516, Oct. 15, 2020; 87 FR 44270, July 26, 2022; 88 FR 70580, Oct. 12, 2023]
+[60 FR 56393, Nov. 8, 1995, as amended at 64 FR 34967, June 30, 1999; 65 FR 12429, Mar. 9, 2000; 67 FR 59135, Sept. 20, 2002; 72 FR 36859, July 6, 2007; 74 FR 3408, Jan. 21, 2009; 78 FR 40938, July 9, 2013; 79 FR 44114, July 30, 2014; 85 FR 65516, Oct. 15, 2020; 87 FR 44270, July 26, 2022; 88 FR 70580, Oct. 12, 2023; 89 FR 80075, Oct. 2, 2024]

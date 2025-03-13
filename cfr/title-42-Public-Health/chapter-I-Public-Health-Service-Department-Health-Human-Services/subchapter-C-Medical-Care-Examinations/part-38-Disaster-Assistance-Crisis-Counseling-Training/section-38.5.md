@@ -1,5 +1,7 @@
 ##### § 38.5 Grant assistance. #####
 
+Link to an amendment published at 89 FR 80064, Oct. 2, 2024.
+
 (a) *Eligibility.* Public agencies and private nonprofit mental health organizations which are determined by the Secretary to be capable of providing the professional mental health crisis counseling services or mental health training of disaster workers needed as a result of a major disaster are eligible for a grant award under this part.
 
 (b) *Application.* The application shall contain:

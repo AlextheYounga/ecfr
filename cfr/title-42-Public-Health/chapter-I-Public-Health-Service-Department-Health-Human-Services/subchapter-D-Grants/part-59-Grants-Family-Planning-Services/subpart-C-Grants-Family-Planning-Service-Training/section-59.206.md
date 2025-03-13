@@ -1,5 +1,7 @@
 ##### § 59.206 Evaluation and grant award. #####
 
+Link to an amendment published at 89 FR 80067, Oct. 2, 2024.
+
 (a) Within the limits of funds available for such purpose, the Secretary may award grants to assist in the establishment and operation of those projects which will in his judgment best promote the purposes of section 1003 of the Act, taking into account:
 
 (1) The extent to which a training program will increase the delivery of services to people, particularly low-income groups, with a high percentage of unmet need for family planning services;

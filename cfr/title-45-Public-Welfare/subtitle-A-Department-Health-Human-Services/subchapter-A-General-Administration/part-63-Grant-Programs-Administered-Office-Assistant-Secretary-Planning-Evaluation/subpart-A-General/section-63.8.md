@@ -1,5 +1,7 @@
 ##### § 63.8 Supplemental regulations and grant conditions. #####
 
+Link to an amendment published at 89 FR 80070, Oct. 2, 2024.
+
 (a) *Grants under section 232 of the Community Services Act.* (1) Any grants awarded with funds appropriated under section 232 of the Community Services Act shall be subject to the following regulations issued by the Director of the Community Services Administration (formerly the Office of Economic Opportunity):
 
 |45 CFR 1060.2|                                  (Income Poverty Guidelines.)                                   |

@@ -1,5 +1,7 @@
 ##### § 51b.106 What other conditions apply to these grants? #####
 
+Link to an amendment published at 89 FR 80065, Oct. 2, 2024.
+
 (a) The notice of grant award specifies how long HHS intends to support the project without requiring the project to recompete for funds. This period, called the project period, will usually be for 2 to 5 years.
 
 (b) For budgetary and funding purposes, the project period is generally divided into 12-month intervals called budget periods. A grantee must submit a separate application to have the support continued for each subsequent budget period after the initial award. Decisions regarding continuation awards and the funding level of such awards will be made after consideration of such factors as the grantee's progress and management practices and the availability of funds. In all cases, continuation awards require a determination by HHS that continued funding is in the best interest of the government.

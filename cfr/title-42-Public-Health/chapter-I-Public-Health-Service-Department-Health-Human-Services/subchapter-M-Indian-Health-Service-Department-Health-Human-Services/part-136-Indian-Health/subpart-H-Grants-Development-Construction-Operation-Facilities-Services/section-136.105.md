@@ -1,5 +1,7 @@
 ##### § 136.105 Project elements. #####
 
+Link to an amendment published at 89 FR 80068, Oct. 2, 2024.
+
 A project supported under this subpart must:
 
 (a) Have sufficient, adequately trained staff in relation to the scope of the project.

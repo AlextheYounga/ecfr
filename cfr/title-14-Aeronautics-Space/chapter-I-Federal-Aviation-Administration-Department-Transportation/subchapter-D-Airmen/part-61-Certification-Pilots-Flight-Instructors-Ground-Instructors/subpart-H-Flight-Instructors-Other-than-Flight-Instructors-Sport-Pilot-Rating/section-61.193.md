@@ -1,5 +1,7 @@
 ##### § 61.193 Flight instructor privileges. #####
 
+Link to an amendment published at 89 FR 80340, Oct. 2, 2024.
+
 (a) A person who holds a flight instructor certificate is authorized within the limitations of that person's flight instructor certificate and ratings to train and issue endorsements that are required for:
 
 (1) A student pilot certificate;

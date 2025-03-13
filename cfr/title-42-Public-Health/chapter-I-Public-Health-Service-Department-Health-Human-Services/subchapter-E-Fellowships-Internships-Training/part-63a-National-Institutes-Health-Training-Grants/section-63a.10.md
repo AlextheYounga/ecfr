@@ -1,5 +1,7 @@
 ##### § 63a.10 How may training grant funds be spent? #####
 
+Link to an amendment published at 89 FR 80067, Oct. 2, 2024.
+
 (a) *Authorized expenditures; general.* A grantee shall expend funds it receives under this part solely in accordance with the approved application and budget, the regulations of this part, the terms and conditions of the grant award, and the applicable cost principles in 45 CFR part 75, subpart E.
 
 (b) *Authorized categories of expenditures.* Subject to any limitations imposed in the approved application and budget or as a condition of the award, grant funds may be expended for the following costs:

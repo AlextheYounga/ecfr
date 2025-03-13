@@ -1,3 +1,5 @@
 ##### § 1303.12 Insurance and bonding. #####
 
+Link to an amendment published at 89 FR 80073, Oct. 2, 2024.
+
 An agency must have an ongoing process to identify risks and have cost-effective insurance for those identified risks; a grant recipient must require the same for its delegates. The agency must specifically consider the risk of accidental injury to children while participating in the program. The grant recipient must submit proof of appropriate coverage in its initial application for funding. The process of identifying risks must also consider the risk of losses resulting from fraudulent acts by individuals authorized to disburse Head Start funds. Consistent with 45 CFR part 75, if the agency lacks sufficient coverage to protect the federal government's interest, the agency must maintain adequate fidelity bond coverage.

@@ -1,5 +1,7 @@
 ##### § 436.407 Types of acceptable documentary evidence of citizenship. #####
 
+Link to an amendment published at 89 FR 80069, Oct. 2, 2024.
+
 For purposes of this section, the term “citizenship” includes status as a “national of the United States” as defined by section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. § 1101(a)(22)) to include both citizens of the United States and non-citizen nationals of the United States.
 
 (a) *Primary evidence of citizenship and identity.* The following evidence must be accepted as satisfactory documentary evidence of both identity and citizenship:

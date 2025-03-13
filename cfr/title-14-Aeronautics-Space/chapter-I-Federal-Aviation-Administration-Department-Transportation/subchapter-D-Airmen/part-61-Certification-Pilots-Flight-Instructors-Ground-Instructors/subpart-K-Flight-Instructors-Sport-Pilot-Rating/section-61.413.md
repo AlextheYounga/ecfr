@@ -1,5 +1,7 @@
 ##### § 61.413 What are the privileges of my flight instructor certificate with a sport pilot rating? #####
 
+Link to an amendment published at 89 FR 80340, Oct. 2, 2024.
+
 (a) If you hold a flight instructor certificate with a sport pilot rating, you are authorized, within the limits of your certificate and rating, to provide training and endorsements that are required for, and relate to—
 
 (1) A student pilot seeking a sport pilot certificate;

@@ -1,5 +1,7 @@
 ##### § 303.11 Case closure criteria. #####
 
+Link to an amendment published at 89 FR 80072, Oct. 2, 2024.
+
 (a) The IV-D agency shall establish a system for case closure.
 
 (b) The IV-D agency may elect to close a case if the case meets at least one of the following criteria and supporting documentation for the case closure decision is maintained in the case record:

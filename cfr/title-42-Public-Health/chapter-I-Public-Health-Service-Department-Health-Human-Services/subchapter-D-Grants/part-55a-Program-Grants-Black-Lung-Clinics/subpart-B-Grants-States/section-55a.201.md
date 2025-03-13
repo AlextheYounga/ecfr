@@ -1,5 +1,7 @@
 ##### § 55a.201 What is required for a State application? #####
 
+Link to an amendment published at 89 FR 80066, Oct. 2, 2024.
+
 An approvable State application must contain assurances that the State will:
 
 (a) Provide the following services for active and inactive miners in the State:

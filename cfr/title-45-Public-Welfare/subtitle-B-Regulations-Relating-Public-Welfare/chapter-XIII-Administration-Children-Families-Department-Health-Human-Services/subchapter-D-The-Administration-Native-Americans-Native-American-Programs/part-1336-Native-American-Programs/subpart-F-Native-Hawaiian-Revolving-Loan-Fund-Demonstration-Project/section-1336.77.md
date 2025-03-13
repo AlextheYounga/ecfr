@@ -1,5 +1,7 @@
 ##### § 1336.77 Recovery of funds. #####
 
+Link to an amendment published at 89 FR 80073, Oct. 2, 2024.
+
 (a) Funds provided under this Subpart may be recovered by the Commissioner for both costs of administration of the Loan Fund and losses incurred by the Fund (hereafter jointly referred to as “costs”) under the following circumstances:
 
 (1) Whenever claimed costs are unallowable under the Native Americans Programs Act of 1974, as amended, or under 45 CFR part 75, subpart E, or both;

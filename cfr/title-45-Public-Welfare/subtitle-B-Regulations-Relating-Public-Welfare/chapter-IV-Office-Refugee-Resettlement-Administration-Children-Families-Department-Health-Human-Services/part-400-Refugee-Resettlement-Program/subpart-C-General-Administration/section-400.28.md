@@ -1,5 +1,7 @@
 ##### § 400.28 Maintenance of records and reports. #####
 
+Link to an amendment published at 89 FR 80072, Oct. 2, 2024.
+
 (a) A State must provide for the maintenance of such operational records as are necessary for Federal monitoring of the State's refugee resettlement program in accordance with 45 CFR 75.361 through 75.370. This recordkeeping must include:
 
 (1) Documentation of services and assistance provided, including identification of individuals receiving those services;

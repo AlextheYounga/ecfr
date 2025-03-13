@@ -1,5 +1,7 @@
 ##### § 64.8 How may funds be used? #####
 
+Link to an amendment published at 89 FR 80067, Oct. 2, 2024.
+
 A grantee shall expend funds it receives under this part solely in accordance with the approved application and budget, the regulations of this part, the terms and conditions of the grant award, and the applicable cost principles in 45 CFR part 75, subpart E. The funds may not be expended for:
 
 (a) Compensation for employment or for the performance of personal services by individuals receiving training and instruction; or

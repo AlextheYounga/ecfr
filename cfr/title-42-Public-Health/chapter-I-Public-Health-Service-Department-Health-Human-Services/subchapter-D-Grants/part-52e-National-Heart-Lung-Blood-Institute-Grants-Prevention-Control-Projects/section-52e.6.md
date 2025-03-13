@@ -1,5 +1,7 @@
 ##### § 52e.6 How will NIH evaluate applications? #####
 
+Link to an amendment published at 89 FR 80066, Oct. 2, 2024.
+
 (a) Within the limits of funds available, after consultation with the Council, the Director may award grants to applicants with proposed projects which in the Director's judgment will best promote the purposes of section 419 of the Act, taking into consideration among other pertinent factors:
 
 (1) The scientific and technical merit of the proposed project;

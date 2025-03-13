@@ -1,5 +1,7 @@
 ##### § 51d.10 What are the reporting requirements? #####
 
+Link to an amendment published at 89 FR 80065, Oct. 2, 2024.
+
 (a) For immediate awards:
 
 (1) A mid-program report only if an Intermediate award application is being prepared and submitted. This report shall be included as part of the Intermediate award application,

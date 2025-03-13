@@ -1,5 +1,7 @@
 ##### § 309.75 What administrative and management procedures must a Tribe or Tribal organization include in a Tribal IV-D plan? #####
 
+Link to an amendment published at 89 FR 80072, Oct. 2, 2024.
+
 A Tribe or Tribal organization must include in its Tribal IV-D plan the administrative and management provisions contained in this section:
 
 (a) A description of the structure of the IV-D agency and the distribution of responsibilities within the agency.

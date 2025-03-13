@@ -1,5 +1,7 @@
 ##### § 50.604 Responsibilities of Institutions regarding Investigator financial conflicts of interest. #####
 
+Link to an amendment published at 89 FR 80064, Oct. 2, 2024.
+
 Each Institution shall:
 
 (a) Maintain an up-to-date, written, enforced policy on financial conflicts of interest that complies with this subpart, and make such policy available via a publicly accessible Web site. If the Institution does not have any current presence on a publicly accessible Web site (and only in those cases), the Institution shall make its written policy available to any requestor within five business days of a request. If, however, the Institution acquires a presence on a publicly accessible Web site during the time of the PHS award, the requirement to post the information on that Web site will apply within 30 calendar days. If an Institution maintains a policy on financial conflicts of interest that includes standards that are more stringent than this subpart (e.g., that require a more extensive disclosure of financial interests), the Institution shall adhere to its policy and shall provide FCOI reports regarding identified financial conflicts of interest to the PHS Awarding Component in accordance with the Institution's own standards and within the timeframe prescribed by this subpart.

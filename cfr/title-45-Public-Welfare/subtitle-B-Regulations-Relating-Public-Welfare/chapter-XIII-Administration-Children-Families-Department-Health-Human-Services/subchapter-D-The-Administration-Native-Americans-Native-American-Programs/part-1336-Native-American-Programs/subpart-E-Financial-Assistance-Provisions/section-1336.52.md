@@ -1,5 +1,7 @@
 ##### § 1336.52 Appeals. #####
 
+Link to an amendment published at 89 FR 80073, Oct. 2, 2024.
+
 (a) *Right to appeal.* Recipients whose financial assistance has been suspended or terminated, or whose non-competing continuation applications for refunding have been denied, may appeal such decisions using the procedures described in this section. Denial of an application for refunding means the refusal to fund a non-competing continuation application for a budget period within a previously approved project period.
 
 (b) *Suspension, termination, and denial of funding.* Procedures for and definitions of suspension and termination of financial assistance are published in 45 CFR 75.371 through 75.380. Appeals from a denial of refunding will be treated the same procedurally as appeals to termination of financial assistance. The term “denial of refunding” does not include policy decisions to eliminate one or more activities of an approved project. A decision not to fund an application at the end of the recipients's project period is not a “denial of refunding” and is not subject to appeal.

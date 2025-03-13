@@ -1,5 +1,7 @@
 ##### § 1357.30 State fiscal requirements (title IV-B, subpart 1, child welfare services). #####
 
+Link to an amendment published at 89 FR 80073, Oct. 2, 2024.
+
 (a) *Scope.* The requirements of this section shall apply to all funds allotted or reallotted to States under title IV-B, subpart 1.
 
 (b) *Allotments.* Allotments for each State shall be determined in accordance with section 421 of the Act.

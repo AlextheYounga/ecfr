@@ -1,5 +1,7 @@
 ##### § 52b.7 How is the grantee obligated to use the facility? #####
 
+Link to an amendment published at 89 FR 80065, Oct. 2, 2024.
+
 (a) The grantee shall use the facility (or that portion of the facility supported by a grant under this part) for its originally authorized purpose so long as needed for that purpose, or other period prescribed by statute, unless the grantee obtains advance approval from the Director, in the form and manner as the Director may prescribe, to use the facility for another purpose. Use for other purposes shall be limited as prescribed in § 52b.9(c)(2).
 
 (b) The Director, in determining whether to approve an alternative use of the facility, shall take into consideration the extent to which:

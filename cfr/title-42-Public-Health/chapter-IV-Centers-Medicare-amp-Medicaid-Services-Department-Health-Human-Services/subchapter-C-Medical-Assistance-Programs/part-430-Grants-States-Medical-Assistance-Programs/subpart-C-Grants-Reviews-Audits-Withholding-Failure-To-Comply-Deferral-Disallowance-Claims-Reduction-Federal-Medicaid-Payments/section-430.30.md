@@ -1,5 +1,7 @@
 ##### § 430.30 Grants procedures. #####
 
+Link to an amendment published at 89 FR 80069, Oct. 2, 2024.
+
 (a) *General provisions.* (1) Once CMS has approved a State plan, it makes quarterly grant awards to the State to cover the Federal share of expenditures for services, training, and administration.
 
 (2) The amount of the quarterly grant is determined on the basis of information submitted by the State agency (in quarterly estimate and quarterly expenditure reports) and other pertinent documents.

@@ -20,6 +20,8 @@
 
 (9) Administer the USDA/1994 Land Grant Institutions (Tribal Colleges) Programs.
 
+(10) Enter into cooperative agreements with associations of institutions of higher education for the purpose of participation in internship programs for graduate and undergraduate students in support of the 1994 Tribal College Program and carry out the related authorities and responsibilities outlined in 7 U.S.C. 2279c.
+
 (b) [Reserved]
 
-[87 FR 44269, July 26, 2022, as amended at 88 FR 70580, Oct. 12, 2023]
+[87 FR 44269, July 26, 2022, as amended at 88 FR 70580, Oct. 12, 2023; 89 FR 80074, Oct. 2, 2024]

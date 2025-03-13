@@ -1,5 +1,7 @@
 ##### § 456.722 Electronic claims management system. #####
 
+Link to an amendment published at 89 FR 80070, Oct. 2, 2024.
+
 (a) *Point-of-sale system.* Each Medicaid agency, at its option, may establish, as its principal (but not necessarily exclusive) means of processing claims for covered outpatient drugs, a point-of-sale electronic claims management (ECM) system to perform on-line, real-time (that is, immediate) eligibility verifications, claims data capture, adjudication of claims, and to assist pharmacists and other authorized persons (including dispensing physicians) in applying for and receiving payment. The State determines who must participate in an ECM system and who may decline to do so. If the State exercises this option and wishes to receive FFP for its ECM system, the system must meet the functional and additional procurement and system requirements in paragraphs (b) and (c) of this section.
 
 (b) *Functional requirements.* The ECM system developed by the State must include at least the on-line, real-time capabilities specified in paragraphs (b)(1) through (3) of this section. The real-time requirement for prescriptions filled for nursing facilities and prescriptions filled by mail order dispensers may be waived by the State to permit claims to be processed in the batch mode at the end of the day or other time mutually agreed to by the nursing facility or mail order dispenser and Medicaid agency.

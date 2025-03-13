@@ -1,5 +1,7 @@
 ##### § 286.205 How will we determine if a Tribe fails to meet the minimum work participation rate(s)? #####
 
+Link to an amendment published at 89 FR 80071, Oct. 2, 2024.
+
 (a) We will use the Tribal TANF Data Reports required under § 286.255 to determine if we will assess the penalty under § 286.195(a)(3) for failure to meet the minimum participation rate(s) established for the Tribe.
 
 (b) Each Tribal TANF Grantee's quarterly reports (the TANF Data Report and the Tribal TANF Financial Report) must be complete and accurate and filed by the due date. The accuracy of the reports are subject to validation by us.

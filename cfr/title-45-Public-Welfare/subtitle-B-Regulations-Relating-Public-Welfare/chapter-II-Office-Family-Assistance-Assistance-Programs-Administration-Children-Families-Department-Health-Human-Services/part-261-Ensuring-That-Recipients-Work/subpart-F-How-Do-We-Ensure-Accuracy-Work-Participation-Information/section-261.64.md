@@ -1,5 +1,7 @@
 ##### § 261.64 How will we determine whether a State's work verification procedures ensure an accurate work participation measurement? #####
 
+Link to an amendment published at 89 FR 80071, Oct. 2, 2024.
+
 (a) We will determine that a State has met the requirement to establish work verification procedures if it submitted an interim Work Verification Plan by September 30, 2006 and a complete Work Verification Plan that we approved by September 30, 2007.
 
 (b) A “complete” Work Verification Plan means that:

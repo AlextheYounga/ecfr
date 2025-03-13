@@ -1,5 +1,7 @@
 ##### § 52.6 Grant awards. #####
 
+Link to an amendment published at 89 FR 80065, Oct. 2, 2024.
+
 (a) Within the limits of funds available for that purpose, the Secretary will award a grant to those applicants whose approved projects will in the Secretary's judgment best promote the purposes of the statute authorizing the grant and the regulations of this part. The date specified by the Secretary as the beginning of the project period shall be no later than 9 months following the date of any initial or new award statement unless the Secretary finds that because of the nature of a project or the grantee's particular circumstances earlier assurance of grant support is required to initiate the project. Any funds granted under this part shall be expended solely for the purposes for which the funds were granted in accordance with the approved application and budget, the regulations of this part, the terms and conditions of the award and the applicable cost principles prescribed in 45 CFR part 75, subpart E.
 
 (b) *Evaluation of unapproved drug treatments for AIDS.* Grants under section 2314 of the Act to support research relating to the evaluation of drug treatments for AIDS not approved by the Commissioner of Food and Drugs, shall be subject to appropriate scientific and ethical guidelines established by the Secretary for each project, pursuant to section 2314(c) of the Act. In order to receive a grant, the applicant must agree to comply with those guidelines.

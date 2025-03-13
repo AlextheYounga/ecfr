@@ -1,5 +1,7 @@
 ##### § 262.3 How will we determine if a State is subject to a penalty? #####
 
+Link to an amendment published at 89 FR 80071, Oct. 2, 2024.
+
 (a)(1) We will use the single audit under 45 CFR part 75, subpart F, in conjunction with other reviews, audits, and data sources, as appropriate, to determine if a State is subject to a penalty for misusing Federal TANF funds (§ 263.10 of this chapter), intentionally misusing Federal TANF funds (§ 263.12 of this chapter), failing to participate in IEVS (§ 264.10 of this chapter), failing to comply with paternity establishment and child support requirements (§ 264.31 of this chapter), failing to maintain assistance to an adult single custodial parent who cannot obtain child care for a child under 6 (§ 261.57 of this chapter), failing to reduce assistance to a recipient who refuses without good cause to work (§ 261.54 of this chapter), and after October 1, 2007 failing to comply with work participation verification procedures (§ 261.64 of this chapter).
 
 (2) We will also use the single audit as a secondary method of determining if a State is subject to other penalties if an audit detects lack of compliance in other penalty areas.

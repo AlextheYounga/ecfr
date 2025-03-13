@@ -1,5 +1,7 @@
 ##### § 302.15 Reports and maintenance of records. #####
 
+Link to an amendment published at 89 FR 80072, Oct. 2, 2024.
+
 The State plan shall provide that:
 
 (a) The IV-D agency will maintain records necessary for the proper and efficient operation of the plan, including records regarding:

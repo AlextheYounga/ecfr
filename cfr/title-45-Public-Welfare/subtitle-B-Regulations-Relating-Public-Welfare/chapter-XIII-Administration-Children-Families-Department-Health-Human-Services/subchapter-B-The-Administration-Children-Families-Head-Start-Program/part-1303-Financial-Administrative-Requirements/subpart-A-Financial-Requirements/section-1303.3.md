@@ -1,5 +1,7 @@
 ##### § 1303.3 Other requirements. #####
 
+Link to an amendment published at 89 FR 80072, Oct. 2, 2024.
+
 The following chart includes HHS regulations that apply to all grants made under the Act:
 
 |     Cite     |                                                                                       Title                                                                                       |

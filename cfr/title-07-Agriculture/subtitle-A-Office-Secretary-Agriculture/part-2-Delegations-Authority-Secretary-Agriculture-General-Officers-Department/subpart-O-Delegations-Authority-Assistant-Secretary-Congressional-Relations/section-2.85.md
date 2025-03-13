@@ -1,6 +1,6 @@
 ##### § 2.85 Director, Office of Intergovernmental Affairs. #####
 
-(a) Delegations. Pursuant to § 2.23, the following delegations of authority are made by the Assistant Secretary for Congressional Relations to the Director, Office of Intergovernmental Affairs:
+(a) *Delegations.* Pursuant to § 2.23, the following delegations of authority are made by the Assistant Secretary for Congressional Relations to the Director, Office of Intergovernmental Affairs:
 
 (1) Coordinate all programs involving intergovernmental affairs including State and local government relations and liaison with:
 

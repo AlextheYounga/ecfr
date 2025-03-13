@@ -1,5 +1,7 @@
 ##### § 417.911 Definitions. #####
 
+Link to an amendment published at 89 FR 80069, Oct. 2, 2024.
+
 As used in this subpart—
 
 *Any 12-month period* means the 12-month period beginning on the first day of any month.

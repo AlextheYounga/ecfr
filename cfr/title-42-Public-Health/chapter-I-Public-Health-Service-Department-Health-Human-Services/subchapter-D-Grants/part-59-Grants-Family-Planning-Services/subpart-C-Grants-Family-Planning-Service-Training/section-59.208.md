@@ -1,5 +1,7 @@
 ##### § 59.208 Use of project funds. #####
 
+Link to an amendment published at 89 FR 80067, Oct. 2, 2024.
+
 (a) Any funds granted pursuant to this subpart as well as other funds to be used in performance of the approved project shall be expended solely for carrying out the approved project in accordance with the statute, the regulations of this subpart, the terms and conditions of the award, and, except as may otherwise be provided in this subpart, the applicable cost principles prescribed by 45 CFR part 75, subpart E.
 
 (b) Prior approval by the Secretary of revision of the budget and project plan is required whenever there is to be a significant change in the scope or nature of project activities.

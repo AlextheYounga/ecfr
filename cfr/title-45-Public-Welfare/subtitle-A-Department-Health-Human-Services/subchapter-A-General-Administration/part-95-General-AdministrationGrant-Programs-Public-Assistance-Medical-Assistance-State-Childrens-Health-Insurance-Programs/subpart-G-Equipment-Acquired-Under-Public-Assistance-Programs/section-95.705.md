@@ -1,5 +1,7 @@
 ##### § 95.705 Equipment costs—Federal financial participation. #####
 
+Link to an amendment published at 89 FR 80071, Oct. 2, 2024.
+
 (a) *General rule.* In computing claims for Federal financial participation, equipment having a unit acquisition cost of $25,000 or less may be claimed in the period acquired or depreciated, at the option of the State agency. Equipment having a unit acquisition cost of more than $25,000 shall be depreciated. For purposes of this section, the term depreciate also includes use allowances computed in accordance with the cost principles prescribed in part 75.
 
 (b) *Exceptions.* (1) Equipment purchased under service agreements with other State agencies and under cost-type contracts shall be depreciated. However, equipment having a unit acquisition cost of $25,000 or less may be claimed in the period acquired if (a) the State agency approved the specific purchase and the claiming of the cost of the item, and (b) the contract or service agreement requires that the equipment or its residual value be transferred to the State agency when the equipment is no longer needed to carry out the work under the contract or service agreement.

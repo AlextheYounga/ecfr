@@ -1,5 +1,7 @@
 ##### § 309.85 What records must a Tribe or Tribal organization agree to maintain in a Tribal IV-D plan? #####
 
+Link to an amendment published at 89 FR 80072, Oct. 2, 2024.
+
 A Tribal IV-D plan must provide that:
 
 (a) The Tribal IV-D agency will maintain records necessary for the proper and efficient operation of the program, including records regarding:

@@ -60,7 +60,7 @@
 
 (vii) The Emergency Conservation Program and the Emergency Watershed Protection Program under sections 401-405 of the Agricultural Credit Act of 1978, 16 U.S.C. 2201-2205, except for the provisions of sections 401 and 402, 16 U.S.C. 2201-2202, as administered by the Farm Service Agency.
 
-(5) [Reserved]
+(5) Establish programs with any bureau of the U.S. Department of the Interior (DOI), or with other agencies within USDA, in support of the Service First initiative for the purpose of promoting customer service and efficiency, including delegating to employees of DOI and other USDA agencies the authorities of the Natural Resources and Conservation Service necessary to carry out projects on behalf of USDA (43 U.S.C. 1703).
 
 (6) Administer the Resource Conservation and Development Program under 16 U.S.C. 590a-f; 7 U.S.C. 1010-1011; and 16 U.S.C. 3451-3461, except for responsibilities assigned to the Rural Utilities Service.
 
@@ -238,4 +238,4 @@
 
 (3) Giving final approval to and transmitting to the Congress watershed work plans that require congressional approval.
 
-[83 FR 22185, May 14, 2018, as amended at 85 FR 65515, Oct. 15, 2020]
+[83 FR 22185, May 14, 2018, as amended at 85 FR 65515, Oct. 15, 2020; 89 FR 80075, Oct. 2, 2024]

@@ -1,5 +1,7 @@
 ##### § 263.2 What kinds of State expenditures count toward meeting a State's basic MOE expenditure requirement? #####
 
+Link to an amendment published at 89 FR 80071, Oct. 2, 2024.
+
 (a) Expenditures of State funds in TANF or separate State programs may count if they are made for the following types of benefits or services:
 
 (1) Cash assistance, including the State's share of the assigned child support collection that is distributed to the family, and disregarded in determining eligibility for, and amount of the TANF assistance payment;

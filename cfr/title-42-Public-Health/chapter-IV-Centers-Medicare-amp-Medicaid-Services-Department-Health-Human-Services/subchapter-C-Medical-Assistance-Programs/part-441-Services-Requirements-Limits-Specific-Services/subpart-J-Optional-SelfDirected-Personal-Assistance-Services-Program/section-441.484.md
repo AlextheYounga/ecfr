@@ -1,5 +1,7 @@
 ##### § 441.484 Financial management services. #####
 
+Link to an amendment published at 89 FR 80070, Oct. 2, 2024.
+
 (a) States may choose to provide financial management services to participants, or their representatives, as applicable, self-directing PAS, with the exception of those participants utilizing the cash option who directly perform those functions, utilizing a financial management entity, through the following arrangements:
 
 (1) States may use a reporting or subagent through its fiscal intermediary in accordance with section 3504 of the IRS Code and Revenue Procedure 80-4 and Notice 2003-70; or
