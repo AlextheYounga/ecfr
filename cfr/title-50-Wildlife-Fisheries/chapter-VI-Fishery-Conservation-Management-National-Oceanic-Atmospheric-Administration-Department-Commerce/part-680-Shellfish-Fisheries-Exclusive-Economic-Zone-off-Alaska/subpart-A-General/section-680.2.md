@@ -1,7 +1,5 @@
 ##### § 680.2 Definitions. #####
 
-Link to an amendment published at 89 FR 47876, June 4, 2024.
-
 In addition to the definitions in the Magnuson-Stevens Act, in 50 CFR part 600, and § 679.2 of this chapter, the terms used in this part have the following meanings:
 
 *Adak community entity* means the non-profit entity incorporated under the laws of the state of Alaska that represents the community of Adak and has a board of directors elected by the residents of Adak.
@@ -168,7 +166,7 @@ In addition to the definitions in the Magnuson-Stevens Act, in 50 CFR part 600, 
 
 (2) For the purposes of the EDR, each employee on a vessel, excluding the captain and fisheries observers, that participated in any CR fishery.
 
-*Custom processing* means processing of crab by a person undertaken on behalf of another person.
+*Custom processing* means processing crab in any CR fishery when the IPQ holder does not have a 10 percent or greater direct or indirect ownership interest in the processing facility or affiliation with the processing facility's owners.
 
 *Data collection agent (DCA)* means the entity selected by the Regional Administrator to distribute an EDR to a person required to complete it, to receive the completed EDR, to review and verify the accuracy of the data in the EDR, and to provide those data to authorized recipients.
 
@@ -223,8 +221,6 @@ In addition to the definitions in the Magnuson-Stevens Act, in 50 CFR part 600, 
 *Finished pounds* means the total weight, in pounds, of processed product, not including the container.
 
 *Fishing trip* means, for the purposes of §§ 680.7(e)(2) and 680.40(g)(2)(i)(A) and (m)(2)(i), the period beginning when a vessel operator commences harvesting crab in a crab QS fishery and ending when the vessel operator offloads or transfers any processed or unprocessed crab in that crab QS fishery from that vessel.
-
-*Fishing trip for purposes of § 680.7(e)(2)* means the period beginning when a vessel operator commences harvesting crab in a crab QS fishery and ending when the vessel operator offloads or transfers any processed or unprocessed crab in that crab QS fishery from that vessel.
 
 *IFQ account* means the amount of crab IFQ in raw crab pounds that is held by a person at any particular time for a crab QS fishery, sector, region, and class.
 
@@ -294,4 +290,4 @@ In addition to the definitions in the Magnuson-Stevens Act, in 50 CFR part 600, 
 
 (2) Any corporation, partnership, association, or other entity that is organized under Federal, state, or local laws of the United States or that may legally operate in the United States.
 
-[70 FR 10241, Mar. 2, 2005, as amended at 73 FR 29982, May 23, 2008; 73 FR 35088, June 20, 2008; 73 FR 76189, Dec. 15, 2008; 74 FR 41095, Aug. 14, 2009; 77 FR 6503, Feb. 8, 2012; 82 FR 52014, Nov. 9, 2017; 88 FR 7591, Feb. 6, 2023; 89 FR 47876, June 4, 2024]
+[70 FR 10241, Mar. 2, 2005, as amended at 73 FR 29982, May 23, 2008; 73 FR 35088, June 20, 2008; 73 FR 76189, Dec. 15, 2008; 74 FR 41095, Aug. 14, 2009; 77 FR 6503, Feb. 8, 2012; 82 FR 52014, Nov. 9, 2017; 88 FR 7591, Feb. 6, 2023; 89 FR 47876, June 4, 2024; 89 FR 47876, June 4, 2024]

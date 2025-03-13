@@ -1,23 +1,23 @@
-##### § 112.45 What measures must I take if my agricultural water does not meet the requirements of § 112.41 or § 112.44? #####
+##### § 112.45 What measures must I take for agricultural water to reduce the potential for contamination of covered produce or food contact surfaces with known or reasonably foreseeable hazards? #####
 
-(a) If you have determined or have reason to believe that your agricultural water is not safe or of adequate sanitary quality for its intended use as required under § 112.41 and/or if your agricultural water does not meet the microbial quality criterion for the specified purposes as required under § 112.44(a), you must immediately discontinue that use(s), and before you may use the water source and/or distribution system again for the intended use(s), you must either:
+(a) *Discontinue use(s).* If you have determined or have reason to believe that your agricultural water is not safe or of adequate sanitary quality for its intended use(s) in growing, harvesting, packing, or holding covered produce as required under § 112.41, and/or if your agricultural water used as sprout irrigation water or for harvesting, packing, or holding activities does not meet the requirements in § 112.44(a) (including the microbial quality criterion), you must immediately discontinue such use(s). Before you may use the water source and/or distribution system again for the intended use(s), you must either:
 
-(1) Re-inspect the entire affected agricultural water system to the extent it is under your control, identify any conditions that are reasonably likely to introduce known or reasonably foreseeable hazards into or onto covered produce or food contact surfaces, make necessary changes, and take adequate measures to determine if your changes were effective and, as applicable, adequately ensure that your agricultural water meets the microbial quality criterion in § 112.44(a); or
+(1) Re-inspect the entire affected agricultural water system to the extent it is under your control, identify any conditions that are reasonably likely to introduce known or reasonably foreseeable hazards into or onto covered produce or food contact surfaces, make necessary changes, and take adequate measures to determine if your changes were effective, and as applicable, adequately ensure that your agricultural water meets the microbial quality criterion in § 112.44(a); or
 
-(2) Treat the water in accordance with the requirements of § 112.43.
+(2) Treat the water in accordance with the requirements of § 112.46.
 
-(b) If you have determined that your agricultural water does not meet the microbial quality criteria (or any alternative microbial quality criteria, if applicable) required under § 112.44(b), as soon as practicable and no later than the following year, you must discontinue that use, unless you either:
+(b) *Implement mitigation measures.* (1) You must implement any mitigation measures that are reasonably necessary to reduce the potential for contamination of covered produce (other than sprouts) or food contact surfaces with known or reasonably foreseeable hazards associated with your agricultural water. Such measures must be implemented as soon as practicable and no later than 1 year after the date of your agricultural water assessment or reassessment (as required by § 112.43), except that mitigation measures for known or reasonably foreseeable hazards related to animal activity, the application of biological soil amendments of animal origin, or the presence of untreated or improperly treated human waste on adjacent or nearby lands must be implemented promptly, and no later than the same growing season as such assessment or reassessment. Mitigation measures include:
 
-(1) Apply a time interval(s) (in days) and/or a (calculated) log reduction by:
+(i) Making necessary changes (for example, repairs) to address any conditions that are reasonably likely to introduce such known or reasonably foreseeable hazards into or onto the covered produce or food contact surfaces;
 
-(i) Applying a time interval between last irrigation and harvest using either:
+(ii) Increasing the time interval between the last direct application of agricultural water and harvest of the covered produce to allow for microbial die-off, provided you have scientifically valid supporting data and information;
 
-(A) A microbial die-off rate of 0.5 log per day to achieve a (calculated) log reduction of your geometric mean (GM) and statistical threshold value (STV) to meet the microbial quality criteria in § 112.44(b) (or any alternative microbial criteria, if applicable), but no greater than a maximum time interval of 4 consecutive days; or
+(iii) Increasing the time interval between harvest and the end of storage to allow for microbial die-off, and/or conducting other activities during or after harvest to allow for microbial die-off or removal, provided you have scientifically valid supporting data and information;
 
-(B) An alternative microbial die-off rate and any accompanying maximum time interval, in accordance with § 112.49; and/or
+(iv) Changing the method of water application to reduce the likelihood of contamination of the covered produce (such as by changing from overhead spray to subsurface drip irrigation of certain crops);
 
-(ii) Applying a time interval between harvest and end of storage using an appropriate microbial die-off rate between harvest and end of storage, and/or applying a (calculated) log reduction using appropriate microbial removal rates during activities such as commercial washing, to meet the microbial quality criteria in § 112.44(b) (or any alternative microbial criteria, if applicable), and any accompanying maximum time interval or log reduction, provided you have adequate supporting scientific data and information;
+(v) Treating the water in accordance with § 112.46; and
 
-(2) Re-inspect the entire affected agricultural water system to the extent it is under your control, identify any conditions that are reasonably likely to introduce known or reasonably foreseeable hazards into or onto covered produce or food contact surfaces, make necessary changes, and take adequate measures to determine if your changes were effective and adequately ensure that your agricultural water meets the microbial quality criteria in § 112.44(b) (or any alternative microbial criteria, if applicable); or
+(vi) Taking an alternative mitigation measure, provided that you satisfy the requirements of § 112.12.
 
-(3) Treat the water in accordance with the requirements of § 112.43.
+(2) If you fail to implement appropriate mitigation measures in accordance with paragraph (b)(1) of this section, or if you determine that your mitigation measures were not effective to reduce the potential for contamination of the covered produce or food contact surfaces with known or reasonably foreseeable hazards, you must discontinue use of the agricultural water until you have implemented mitigation measures adequate to reduce the potential for such contamination, consistent with § 112.41.

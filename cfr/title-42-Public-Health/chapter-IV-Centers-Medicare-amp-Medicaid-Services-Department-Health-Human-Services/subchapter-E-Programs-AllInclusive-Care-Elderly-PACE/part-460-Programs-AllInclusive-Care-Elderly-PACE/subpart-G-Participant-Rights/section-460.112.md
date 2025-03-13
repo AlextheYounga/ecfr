@@ -1,8 +1,6 @@
 ##### § 460.112 Specific rights to which a participant is entitled. #####
 
-Link to an amendment published at 89 FR 37692, May 6, 2024.
-
-(a) *Right to treatment.* Each participant has the right to appropriate and timely treatment for their health conditions, including the right to all of the following:
+(a) *Respect and nondiscrimination.* Each participant has the right to considerate, respectful care from all PACE employees and contractors at all times and under all circumstances. Each participant has the right not to be discriminated against in the delivery of required PACE services based on race, ethnicity, national origin, religion, sex (including sex characteristics, including intersex traits; pregnancy or related conditions; sexual orientation; gender identity; and sex stereotypes), age, mental or physical disability, or source of payment. Specifically, each participant has the right to the following:
 
 (1) Receive all care and services needed to improve or maintain the participant's health condition and attain the highest practicable physical, emotional, and social well-being.
 
@@ -134,4 +132,4 @@ Link to an amendment published at 89 FR 37692, May 6, 2024.
 
 (3) To appeal any treatment decision of the PACE organization, its employees, or contractors through the process described in § 460.122.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71336, Dec. 8, 2006; 84 FR 25675, June 3, 2019; 86 FR 6132, Jan. 19, 2021; 89 FR 30846, Apr. 23, 2024]
+[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71336, Dec. 8, 2006; 84 FR 25675, June 3, 2019; 86 FR 6132, Jan. 19, 2021; 89 FR 30846, Apr. 23, 2024; 89 FR 37692, May 6, 2024]

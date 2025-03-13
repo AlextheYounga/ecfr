@@ -1,0 +1,3 @@
+##### § 92.208 Prohibition on sex discrimination related to marital, parental, or family status. #####
+
+In determining whether an individual satisfies any policy or criterion regarding access to its health programs or activities, a covered entity must not take an individual's sex, as defined in § 92.101(a)(2), into account in applying any rule concerning an individual's current, perceived, potential, or past marital, parental, or family status.

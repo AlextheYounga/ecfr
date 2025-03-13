@@ -1,6 +1,4 @@
-##### § 112.151 What methods must I use to test the quality of water to satisfy the requirements of § 112.46? #####
-
-Link to an amendment published at 89 FR 37518, May 6, 2024.
+##### § 112.151 What methods must I use to test the quality of water to satisfy the requirements of subpart E of this part? #####
 
 You must test the quality of water using:
 
@@ -8,4 +6,6 @@ You must test the quality of water using:
 
 (b)(1) A scientifically valid method that is at least equivalent to the method of analysis in § 112.151(a) in accuracy, precision, and sensitivity; or
 
-(2) For any other indicator of fecal contamination you may test for pursuant to § 112.49(a), a scientifically valid method.
+(2) For any other indicator of fecal contamination, index organism, or other analyte you may test for pursuant to § 112.43(d), a scientifically valid method.
+
+[80 FR 74547, Nov. 27, 2015, as amended at 89 FR 37518, May 6, 2024]

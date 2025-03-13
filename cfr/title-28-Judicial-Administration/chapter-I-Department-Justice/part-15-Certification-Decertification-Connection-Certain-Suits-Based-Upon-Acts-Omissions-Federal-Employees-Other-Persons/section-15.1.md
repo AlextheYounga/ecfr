@@ -1,5 +1,7 @@
 ##### § 15.1 General provisions. #####
 
+Link to an amendment published at 89 FR 55517, July 5, 2024.
+
 (a) This part contains the regulations of the Department of Justice governing the application for and the issuance of statutory certifications and decertifications in connection with certain suits based upon the acts or omissions of Federal employees and certain other persons as to whom the remedy provided by the Federal Tort Claims Act, 28 U.S.C. 1346(b) and 2672, is made exclusive of any other civil action or proceeding for money damages by reason of the same subject matter against such Federal employees and other persons.
 
 (b) As used in this part:

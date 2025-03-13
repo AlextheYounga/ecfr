@@ -1,7 +1,5 @@
 ##### § 442.43 Payment transparency reporting. #####
 
-Link to an amendment published at 89 FR 52396, June 24, 2024.
-
 (a) *Definitions.* (1) *Compensation* means, with respect to direct care workers and support staff delivering services authorized under this part:
 
 (i) Salary, wages, and other remuneration as defined by the Fair Labor Standards Act and implementing regulations (29 U.S.C. 201 *et seq.,* 29 CFR parts 531 and 778);
@@ -58,7 +56,8 @@ Link to an amendment published at 89 FR 52396, June 24, 2024.
 
 (iii) Costs of personal protective equipment for facility staff.
 
-(b) *Reporting requirements.* The State must report to CMS annually, by facility, the percentage of Medicaid payments (not including excluded costs) for services specified in paragraph (b)(1) of this section, that is spent on compensation for direct care workers and on compensation for support staff, at the time and in the form and manner specified by CMS. For the purposes of this part, Medicaid payment for fee-for-service (FFS) includes base and supplemental payments as defined in section 1903(bb)(2) of the Social Security Act, and for payments from a managed care organization (MCO) or prepaid inpatient health plan (PIHP) (as these entities are defined in § 438.2 of this chapter) includes the MCO's or PIHP's contractually negotiated rate, State directed payments as defined in § 438.6(c) of this chapter, pass-through payments as defined in § 438.6(a) of this chapter for nursing facilities, and any other payments from the MCO or PIHP.
+(b) *Reporting requirements.* The State must report to CMS annually, by facility, the percentage of Medicaid payments (not including excluded costs) for services specified in paragraph (b)(1) of this section, that is spent on compensation for direct care workers and on compensation for support staff, at the time and in the form and manner specified by CMS. For the purposes of this part, Medicaid payment for fee-for-service (FFS) includes base and supplemental payments as defined in section 1903(bb)(2) of the Social Security Act, and for payments from a managed care organization (MCO) or prepaid inpatient health plan (PIHP) (as these entities are defined in § 438.2 of this chapter) includes the MCO's or PIHP's contractually negotiated rate, State directed payments as defined in § 438.2 of this chapter, pass-through payments as defined in §
+438.6(a) of this chapter for nursing facilities, and any other payments from the MCO or PIHP.
 
 (1) *Services.* Except as provided in paragraphs (b)(2) and (3) of this section, reporting must be based on all Medicaid payments (including but not limited to FFS base and supplemental payments, and payments from an MCO or PIHP, as applicable) made to nursing facility and ICF/IID providers for Medicaid-covered services, with the exception of services provided in swing bed hospitals as defined in § 440.40(a)(1)(ii)(B) of this chapter.
 

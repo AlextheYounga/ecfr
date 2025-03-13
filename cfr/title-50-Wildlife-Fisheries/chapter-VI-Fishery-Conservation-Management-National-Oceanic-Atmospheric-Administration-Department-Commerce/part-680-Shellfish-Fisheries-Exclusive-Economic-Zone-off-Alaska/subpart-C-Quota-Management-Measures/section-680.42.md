@@ -1,7 +1,5 @@
 ##### § 680.42 Limitations on use of QS, PQS, IFQ, and IPQ. #####
 
-Link to an amendment published at 89 FR 47877, June 4, 2024.Link to a correction published at 89 FR 53532, June 27, 2024.
-
 (a) *QS and IFQ use caps*—(1) *General.* Separate and distinct QS and IFQ use caps apply to all QS and IFQ categories pertaining to a given crab QS fishery with the following provisions:
 
 (i) A person who receives an initial allocation of QS that exceeds the use cap listed in paragraph (a)(2) of this section may not receive QS by transfer unless and until that person's holdings are reduced to an amount below the use cap.
@@ -34,7 +32,7 @@ Link to an amendment published at 89 FR 47877, June 4, 2024.Link to a correction
 
 (3) A CDQ Group, individually or collectively, may not:
 
-(i) Hold QS in excess of more than the amounts of QS specified in the following table:
+(i) Hold QS in excess of the amounts of QS specified in the following table:
 
 |                    Fishery                    |CDQ CVO/CPO Use Cap in QS Units|
 |-----------------------------------------------|-------------------------------|
@@ -78,31 +76,45 @@ Link to an amendment published at 89 FR 47877, June 4, 2024.Link to a correction
 
 (b) *PQS and IPQ Use Caps.* (1) A person may not:
 
-(i) Hold more than 30 percent of the initial PQS pool in any crab QS fishery unless that person received an initial allocation of PQS in excess of this limit. A person will not be issued PQS in excess of the use caps established in this section based on PQS derived from the transfer of legal processing history after June 10, 2002.
+(i) Hold PQS in excess of 30 percent of the initial PQS pool in any crab QS fishery unless that person received an initial allocation of PQS in excess of this limit. A person will not be issued PQS in excess of the use caps established in this section based on PQS derived from the transfer of legal processing history after June 10, 2002.
 
 (ii) Use IPQ in excess of the amount of IPQ that results from the PQS caps in paragraph (b)(1)(i) of this section, unless that IPQ is:
 
-(A) Derived from PQS that was received by that person in the initial allocation of PQS for that crab QS fishery, or
+(A) Derived from PQS that was received by that person in the initial allocation of PQS for that crab QS fishery; or
 
-(B) Subject to an exemption for that IPQ pursuant to § 680.4(p).
+(B) Subject to an exemption for that IPQ pursuant to § 680.4(p); or
 
-(2) A person may not use more than 60 percent of the IPQ issued in the BSS crab QS fishery with a North region designation during a crab fishing year except that a person who:
+(C) Used for custom processing at a facility that is:
+
+(*1*) Any shoreside crab processor located within the boundaries of a home rule, first class, or second class city in the State of Alaska in existence on June 29, 2009; or
+
+(*2*) Any stationary floating crab processor that is:
+
+(*i*) Located within the boundaries of a home rule, first class, or second class city in the State of Alaska in existence on June 29, 2009;
+
+(*ii*) Moored at a dock, docking facility, or at a permanent mooring buoy, unless that stationary floating crab processor is located within the boundaries of the city of Atka in which case that stationary floating crab processor is not required to be moored at a dock, docking facility, or at a permanent mooring buoy; and
+
+(*iii*) Located within a harbor, unless that stationary floating crab processor is located within the boundaries of the city of Atka on June 29, 2009, in which case that stationary floating crab processor is not required to be located within a harbor.
+
+(2) A person may not use IPQ in excess of 60 percent of the IPQ issued in the BSS crab QS fishery with a North region designation during a crab fishing year. Except that a person who:
 
 (i) Holds IPQ; and
 
-(ii) Has a 10 percent or greater direct or indirect ownership interest in the shoreside crab processor or stationary floating crab processor where that IPQ crab is processed will not be considered to use any IPQ in the BSS crab QS fishery with a North region designation if that IPQ meets the requirements described in paragraph (b)(7) of this section.
+(ii) Has a 10 percent or greater direct or indirect ownership interest in the shoreside crab processor or stationary floating crab processor where that IPQ crab is processed will not be considered to use any IPQ in the BSS crab QS fishery with a North region designation if that IPQ is custom processed at a facility consistent with paragraph (b)(1)(ii)(C) of this section.
 
-(3) Non-individual persons holding PQS will be required to provide, on an annual basis, a list of persons with an ownership interest in the non-individual PQS holder. This list of owners shall be provided to the individual level and will include the percentage of ownership held by each individual. This annual submission of information must be submitted as part of the complete annual application for crab IFQ/IPQ permit. A person will be considered to be a holder of PQS for purposes of applying the PQS use caps in this paragraph if that person:
+(3) A non-individual entity holding PQS will be required to provide, on an annual basis, a list of persons with an ownership interest in the non-individual entity. This ownership list shall be provided to the individual level, will include the percentage of ownership held by each owner, and must be submitted annually with the complete application for a crab IFQ/IPQ permit.
+
+(4) A person will be considered to be a holder of PQS for purposes of applying the PQS use caps in this paragraph if that person:
 
 (i) Is the sole proprietor of an entity that holds PQS; or
 
 (ii) Is not a CDQ group and directly or indirectly owns a 10 percent or greater interest in an entity that holds PQS.
 
-(iii) A person that is not a CDQ group and holds PQS is limited to a PQS use cap that is calculated based on the sum of all PQS held by that PQS holder and all PQS held by any affiliate of the PQS holder. A CDQ group that holds PQS is limited to a PQS use cap that is calculated based on the sum of all PQS held, individually or collectively, by that CDQ group.
+(5) A person that is not a CDQ group and holds PQS is limited to a PQS use cap that is calculated based on the sum of all PQS held by that PQS holder and all PQS held by any affiliate of the PQS holder. A person that is not a CDQ group and holds IPQ is limited to an IPQ use cap that is calculated based on the sum of all IPQ held by that IPQ holder and all IPQ held by any affiliate of the IPQ holder.
 
-(iv) A person that is not a CDQ group and holds IPQ is limited to an IPQ use cap that is calculated based on the sum of all IPQ held by that IPQ holder and all IPQ held by any affiliate of the IPQ holder. A CDQ group that holds IPQ is limited to an IPQ use cap that is calculated based on the sum of all IPQ held, individually or collectively, by that CDQ group.
+(6) A CDQ group that holds PQS is limited to a PQS use cap that is calculated based on the sum of all PQS held, individually or collectively, by that CDQ group. A CDQ group that holds IPQ is limited to an IPQ use cap that is calculated based on the sum of all IPQ held, individually or collectively, by that CDQ group.
 
-(4) Before July 1, 2007, IPQ for the BSS, BBR, PIK, SMB, and EAG crab QS fisheries may not be used to process crab derived from PQS based on activities in an ECC, except in the geographic boundaries established in paragraph (b)(4)(iv) of this section, except that, before July 1, 2007:
+(7) Before July 1, 2007, IPQ for the BSS, BBR, PIK, SMB, and EAG crab QS fisheries may not be used to process crab derived from PQS based on activities in an ECC, except in the geographic boundaries established in paragraph (b)(7)(iv) of this section, except that, before July 1, 2007:
 
 (i) Ten percent of the IPQs that are issued for a crab QS fishery or an amount of IPQ that yields up to 500,000 raw crab pounds (226.7 mt) on an annual basis, whichever is less, may be leased for use in processing crab outside that ECC. The amount of IPQ that is issued on an annual basis for use in that ECC and the amount that may be leased outside that ECC will be established annually and will be divided on a pro rata basis among all PQS permit holders issued IPQ for use in that ECC for that year.
 
@@ -120,7 +132,7 @@ Link to an amendment published at 89 FR 47877, June 4, 2024.Link to a correction
 
 (iii) This provision does not exempt any IPQ permit holder from any regional designation that may apply to that IPQ.
 
-(iv) Geographic boundaries for use of IPQ outside ECCs for purposes of paragraph (b)(4) of this section:
+(iv) Geographic boundaries for use of IPQ outside ECCs for purposes of this paragraph (b)(7):
 
 (A) Akutan, False Pass, King Cove, or Port Moller: IPQ may not be used outside of the boundaries of the Aleutians East Borough as those boundaries are established by the State of Alaska;
 
@@ -134,61 +146,13 @@ Link to an amendment published at 89 FR 47877, June 4, 2024.Link to a correction
 
 (F) St. Paul: IPQ may not be used outside of the boundaries of the City of St. Paul as those boundaries are established by the State of Alaska.
 
-(5) Any person harvesting crab under a Class A CVO or Class A CVC IFQ Permit, except as provided under paragraph (b)(4) of this section, must deliver that crab:
+(8) Any person harvesting crab under a Class A CVO or Class A CVC IFQ Permit, except as provided under paragraph (b)(7) of this section, must deliver that crab:
 
 (i) Only to RCRs with unused IPQ for the same crab QS fishery; and
 
 (ii) Only to an RCR in the region for which the QS and IFQ is designated.
 
-(6) Any person harvesting crab under a Class B IFQ, CPO IFQ, CVC IFQ, or CPC IFQ permit may deliver that crab to any RCR.
-
-(7) Any IPQ crab that is received by an RCR will not be considered use of IPQ by an IPQ holder who has a 10 percent or greater direct or indirect ownership interest in the shoreside crab processor or stationary floating crab processor where that IPQ crab is processed under § 680.7(a)(7) or paragraph (a)(8) of this section if:
-
-(i) That RCR is not affiliated with an IPQ holder who has a 10 percent or greater direct or indirect ownership interest in the shoreside crab processor or stationary floating crab processor where that IPQ crab is processed; and
-
-(ii) The IPQ crab meets the conditions in paragraphs (b)(7)(ii)(A) and (B) of this section or the IPQ crab meets the conditions in paragraph (b)(7)(ii)(C) of this section:
-
-(A) The IPQ crab is:
-
-(*1*) BSS IPQ crab with a North region designation;
-
-(*2*) EAG IPQ crab;
-
-(*3*) EBT IPQ crab;
-
-(*4*) PIK IPQ crab;
-
-(*5*) SMB IPQ crab;
-
-(*6*) WAG IPQ crab provided that IPQ crab is processed west of 174 degrees west longitude;
-
-(*7*) WAI IPQ crab; or
-
-(*8*) WBT IPQ crab.
-
-(B) That IPQ crab is processed at:
-
-(*1*) Any shoreside crab processor located within the boundaries of a home rule, first class, or second class city in the State of Alaska in existence on June 29, 2009; or
-
-(*2*) Any stationary floating crab processor that is:
-
-(*i*) Located within the boundaries of a home rule, first class, or second class city in the State of Alaska in existence on June 29, 2009;
-
-(*ii*) Moored at a dock, docking facility, or at a permanent mooring buoy, unless that stationary floating crab processor is located within the boundaries of the city of Atka in which case that stationary floating crab processor is not required to be moored at a dock, docking facility, or at a permanent mooring buoy; and
-
-(*iii*) Located within a harbor, unless that stationary floating crab processor is located within the boundaries of the city of Atka on June 29, 2009, in which case that stationary floating crab processor is not required to be located within a harbor.
-
-(C) The IPQ crab is:
-
-(*1*) Derived from PQS that is, or was, subject to a ROFR as that term is defined at § 680.2;
-
-(*2*) Derived from PQS that has been transferred from the initial recipient of those PQS to another person under the requirements described at § 680.41;
-
-(*3*) Received by an RCR who is not the initial recipient of those PQS; and
-
-(*4*) Received by an RCR within the boundaries of the ECC for which that PQS and IPQ derived from that PQS is, or was, designated in the ROFR.
-
-(8) Any IPQ crab that is received by an RCR will not be considered use of IPQ by an IPQ holder for the purposes of paragraphs (b)(1) and (b)(2) of this section, if the IPQ is subject to an exemption pursuant to § 680.4(p).
+(9) Any person harvesting crab under a Class B IFQ, CPO IFQ, CVC IFQ, or CPC IFQ permit may deliver that crab to any RCR.
 
 (c) *Vessel limitations.* (1) Except for vessels that participate solely in a crab harvesting cooperative as described under § 680.21 and under the provisions described in paragraph (c)(4) of this section, no vessel may be used to harvest CVO or CPO IFQ in excess of the following percentages of the TAC for that crab QS fishery for that crab fishing year:
 
@@ -226,4 +190,4 @@ Link to an amendment published at 89 FR 47877, June 4, 2024.Link to a correction
 
 (ii) A person that directly or indirectly owns a 10 percent or greater interest in an entity that owns a vessel.
 
-[70 FR 10241, Mar. 2, 2005, as amended at 70 FR 33395, June 8, 2005; 70 FR 75421, 75422, Dec. 20, 2005; 71 FR 32865, June 7, 2006; 73 FR 29983, May 23, 2008; 73 FR 35088, June 20, 2008; 74 FR 25457, May 28, 2009; 78 FR 28531, May 15, 2013; 81 FR 4212, Jan. 26, 2016; 81 FR 92702, Dec. 20, 2016; 82 FR 52014, Nov. 9, 2017]
+[70 FR 10241, Mar. 2, 2005, as amended at 70 FR 33395, June 8, 2005; 70 FR 75421, 75422, Dec. 20, 2005; 71 FR 32865, June 7, 2006; 73 FR 29983, May 23, 2008; 73 FR 35088, June 20, 2008; 74 FR 25457, May 28, 2009; 78 FR 28531, May 15, 2013; 81 FR 4212, Jan. 26, 2016; 81 FR 92702, Dec. 20, 2016; 82 FR 52014, Nov. 9, 2017; 89 FR 47877, June 4, 2024; 89 FR 53532, June 27, 2024]

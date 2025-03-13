@@ -1,6 +1,6 @@
 ##### § 438.206 Availability of services. #####
 
-Link to an amendment published at 89 FR 37691, May 6, 2024.Link to an amendment published at 89 FR 41276, May 10, 2024.
+Link to an amendment published at 89 FR 41276, May 10, 2024.
 
 (a) *Basic rule.* Each State must ensure that all services covered under the State plan are available and accessible to enrollees of MCOs, PIHPs, and PAHPs in a timely manner. The State must also ensure that MCO, PIHP and PAHP provider networks for services covered under the contract meet the standards developed by the State in accordance with § 438.68.
 
@@ -36,10 +36,10 @@ Link to an amendment published at 89 FR 37691, May 6, 2024.Link to an amendment 
 
 (vi) Take corrective action if there is a failure to comply by a network provider.
 
-(2) *Access and cultural considerations.* Each MCO, PIHP, and PAHP participates in the State's efforts to promote the delivery of services in a culturally competent manner to all enrollees, including those with limited English proficiency and diverse cultural and ethnic backgrounds, disabilities, and regardless of sex.
+(2) *Access and cultural considerations.* Each MCO, PIHP, and PAHP participates in the State's efforts to promote the delivery of services in a culturally competent manner to all enrollees, including those with limited English proficiency and diverse cultural and ethnic backgrounds, disabilities, and regardless of sex which includes sex characteristics, including intersex traits; pregnancy or related conditions; sexual orientation; gender identity and sex stereotypes.
 
 (3) *Accessibility considerations.* Each MCO, PIHP, and PAHP must ensure that network providers provide physical access, reasonable accommodations, and accessible equipment for Medicaid enrollees with physical or mental disabilities.
 
 (d) *Applicability date.* This section applies to the rating period for contracts with MCOs, PIHPs, and PAHPs beginning on or after July 1, 2018. Until that applicability date, states are required to continue to comply with § 438.206 contained in the 42 CFR parts 430 to 481, edition revised as of October 1, 2015.
 
-[81 FR 27853, May 6, 2016, as amended at 85 FR 37243, June 19, 2020]
+[81 FR 27853, May 6, 2016, as amended at 85 FR 37243, June 19, 2020; 89 FR 37691, May 6, 2024]

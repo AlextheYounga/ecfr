@@ -1,5 +1,7 @@
 ##### § 40.6302(c)-1 Deposits. #####
 
+Link to an amendment published at 89 FR 55511, July 5, 2024.
+
 (a) *In general*—(1) *Semimonthly deposits required.* Except as provided by statute, or by paragraph (e) of this section, each person required under § 40.6011(a)-1(a)(2) to file a quarterly return must make a deposit of tax for each semimonthly period (as defined in § 40.0-1(c)) in which tax liability is incurred.
 
 (2) *Treatment of taxes imposed by chapter 33.* For purposes of this part 40, tax imposed by chapter 33 (relating to communications and air transportation) is treated as a tax liability incurred during the semimonthly period—

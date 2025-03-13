@@ -1,6 +1,6 @@
 ##### 502.101 Definitions. #####
 
-Link to an amendment published at 89 FR 48336, June 6, 2024.
+Link to an amendment published at 89 FR 48336, June 6, 2024.Link to an amendment published at 89 FR 55523, July 5, 2024.
 
 *Commercial supplier agreements* means terms and conditions customarily offered to the public by vendors of supplies or services that meets the definition of “commercial products and commercial services” set forth in FAR 2.101 and intended to create a binding legal obligation on the end user. Commercial supplier agreements are particularly common in information technology acquisitions, including acquisitions of commercial computer software and commercial technical data, but they may apply to any products or service. The term applies—
 

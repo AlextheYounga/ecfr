@@ -1,6 +1,6 @@
 ##### § 229.36 Atlantic Pelagic Longline Take Reduction Plan (PLTRP). #####
 
-Link to an amendment published at 88 FR 36972, June 6, 2023.
+Link to an amendment published at 88 FR 36972, June 6, 2023.Link to a delay of the above amendment published at 89 FR 55523, July 5, 2024.
 
 (a) *Purpose and scope.* The purpose of this section is to implement the PLTRP to reduce incidental mortality and serious injury of short-finned pilot whales in the Atlantic pelagic longline fishery off the U.S. East Coast, a component of the Atlantic Ocean, Caribbean, Gulf of Mexico large pelagics longline fishery. The requirements in this section apply to the owner or operator of any vessel that has been issued or is required to be issued an Atlantic HMS tunas, swordfish, or shark permit (under 50 CFR 635.4) and that has onboard pelagic longline gear (as defined at 50 CFR 635.2) in the EEZ (as defined in 50 CFR 600.10) of the Atlantic Ocean east of the line of demarcation between the Atlantic Ocean and the Gulf of Mexico (as defined in 50 CFR 600.105(c)).
 

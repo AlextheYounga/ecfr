@@ -1,0 +1,5 @@
+##### § 92.202 Effective communication for individuals with disabilities. #####
+
+(a) A covered entity must take appropriate steps to ensure that communications with individuals with disabilities (including companions with disabilities), are as effective as communications with non-disabled individuals in its health programs and activities, in accordance with the standards found at 28 CFR 35.130 and 35.160 through 35.164. Where the regulatory provisions referenced in this section use the term “public entity,” the term “covered entity” shall apply in its place.
+
+(b) A covered entity must provide appropriate auxiliary aids and services where necessary to afford individuals with disabilities an equal opportunity to participate in, and enjoy the benefits of, the health program or activity in question. Such auxiliary aids and services must be provided free of charge, in accessible formats, in a timely manner, and in such a way to protect the privacy and the independence of the individual with a disability.

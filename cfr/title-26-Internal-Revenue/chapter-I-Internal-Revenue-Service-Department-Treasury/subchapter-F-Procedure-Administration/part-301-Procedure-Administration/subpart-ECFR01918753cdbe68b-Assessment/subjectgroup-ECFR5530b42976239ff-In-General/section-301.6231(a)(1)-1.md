@@ -1,0 +1,19 @@
+##### § 301.6231(a)(1)-1 Exception for small partnerships. #####
+
+(a) *In general.* For purposes of the exception for small partnerships under section 6231(a)(1)(B), the rules contained in this section shall apply.
+
+(1) *10 or fewer.* The 10 or fewer limitation described in section 6231(a)(1)(B)(i) is applied to the number of natural persons, C corporations, and estates of deceased partners that were partners at any one time during the partnership taxable year. Thus, for example, a partnership that at no time during the taxable year had more than 10 partners may be treated as a small partnership even if, because of transfers of interests in the partnership, 11 or more natural persons, C corporations, or estates of deceased partners owned interests in the partnership for some portion of the taxable year. See section 1361(a)(2) for the definition of a *C corporation.* For purposes of section 6231(a)(1)(B) and this section, a husband and wife (and their estates) are treated as one person.
+
+(2) *Pass-thru partner.* The exception provided in section 6231(a)(1)(B) does not apply to a partnership for a taxable year if any partner in the partnership during that taxable year is a pass-thru partner as defined in section 6231(a)(9). For purposes of this paragraph (a)(2), an estate shall not be treated as a pass-thru partner.
+
+(3) *Determination made annually.* The determination of whether a partnership meets the requirements for the exception for small partnerships under section 6231(a)(1)(B) and this paragraph (a) shall be made with respect to each partnership taxable year. Thus, a partnership that does not qualify as a small partnership in one taxable year may qualify as a small partnership in another taxable year if the requirements for the exception under section 6231(a)(1)(B) and this paragraph (a) are met with respect to that other taxable year.
+
+(b) *Election to have subchapter C of chapter 63 apply*—(1) *In general.* Any partnership that meets the requirements set forth in section 6231(a)(1)(B) and paragraph (a) of this section (relating to the exception for small partnerships) may elect under paragraph (b)(2) of this section to have the provisions of subchapter C of chapter 63 of the Internal Revenue Code apply with respect to that partnership.
+
+(2) *Method of election.* A partnership shall make the election described in paragraph (b)(1) of this section by attaching a statement to the partnership return for the first taxable year for which the election is to be effective. The statement shall be identified as an election under section 6231(a)(1)(B)(ii), shall be signed by all persons who were partners of that partnership at any time during the partnership taxable year to which the return relates, and shall be filed at the time (determined with regard to any extension of time for filing) and place prescribed for filing the partnership return. However, for any partnership taxable year for which the due date of the return (determined without regard to extensions) is before January 2, 2002, the partnership may file the statement described in the preceding sentence on or before the date which is one year before the date specified in section 6229(a) for the expiration of the period of limitations with respect to that partnership (determined with regard to extensions of that period under section 6229(b)).
+
+(3) *Years covered by election.* The election shall be effective for the partnership taxable year to which the return relates and all subsequent partnership taxable years unless revoked with the consent of the Commissioner.
+
+(c) *Effective date.* This section is applicable to partnership taxable years beginning on or after October 4, 2001. For years beginning prior to October 4, 2001, see § 301.6231(a)(1)-1T contained in 26 CFR part 1, revised April 1, 2001.
+
+[T.D. 8965, 66 FR 50556, Oct. 4, 2001]

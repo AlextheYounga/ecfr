@@ -1,0 +1,15 @@
+##### § 1.32-3 Eligibility requirements after denial of the earned income credit. #####
+
+(a) *In general.* A taxpayer who has been denied the earned income credit (EIC), in whole or in part, as a result of the deficiency procedures under subchapter B of chapter 63 (deficiency procedures) is ineligible to file a return claiming the EIC subsequent to the denial until the taxpayer demonstrates eligibility for the EIC in accordance with paragraph (c) of this section. If a taxpayer demonstrates eligibility for a taxable year in accordance with paragraph (c) of this section, the taxpayer need not comply with those requirements for any subsequent taxable year unless the Service again denies the EIC as a result of the deficiency procedures.
+
+(b) *Denial of the EIC as a result of the deficiency procedures.* For purposes of this section, denial of the EIC as a result of the deficiency procedures occurs when a tax on account of the EIC is assessed as a deficiency (other than as a mathematical or clerical error under section 6213(b)(1)).
+
+(c) *Demonstration of eligibility.* In the case of a taxpayer to whom paragraph (a) of this section applies, and except as otherwise provided by the Commissioner in the instructions for Form 8862, “Information To Claim Earned Income Credit After Disallowance,” no claim for the EIC filed subsequent to the denial is allowed unless the taxpayer properly completes Form 8862, demonstrating eligibility for the EIC, and otherwise is eligible for the EIC. If any item of information on Form 8862 is incorrect or inconsistent with any item on the return, the taxpayer will be treated as not demonstrating eligibility for the EIC. The taxpayer must follow the instructions for Form 8862 to determine the income tax return to which Form 8862 must be attached. If the taxpayer attaches Form 8862 to an incorrect tax return, the taxpayer will not be relieved of the requirement that the taxpayer attach Form 8862 to the correct tax return and will, therefore, not be treated as meeting the taxpayer's obligation under paragraph (a) of this section.
+
+(d) *Failure to demonstrate eligibility.* If a taxpayer to whom paragraph (a) of this section applies fails to satisfy the requirements of paragraph (c) of this section with respect to a particular taxable year, the IRS can deny the EIC as a mathematical or clerical error under section 6213(g)(2)(K).
+
+(e) *Special rule where one spouse denied EIC.* The eligibility requirements set forth in this section apply to taxpayers filing a joint return where one spouse was denied the EIC for a taxable year prior to marriage and has not established eligibility as either an unmarried or married taxpayer for a subsequent taxable year.
+
+(f) *Effective date.* This section applies to returns claiming the EIC for taxable years beginning after December 31, 1997, where the EIC was denied for a taxable year beginning after December 31, 1996.
+
+[T.D. 8953, 66 FR 33637, June 25, 2001]

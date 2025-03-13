@@ -1,7 +1,5 @@
 ##### § 112.3 What definitions apply to this part? #####
 
-Link to an amendment published at 89 FR 37514, May 6, 2024.
-
 The definitions and interpretations of terms in section 201 of the Federal Food, Drug, and Cosmetic Act apply to such terms when used in this part. The following definitions also apply:
 
 *Adequate* means that which is needed to accomplish the intended purpose in keeping with good public health practice.
@@ -13,6 +11,14 @@ The definitions and interpretations of terms in section 201 of the Federal Food,
 *Agricultural tea additive* means a nutrient source (such as molasses, yeast extract, or algal powder) added to agricultural tea to increase microbial biomass.
 
 *Agricultural water* means water used in covered activities on covered produce where water is intended to, or is likely to, contact covered produce or food contact surfaces, including water used in growing activities (including irrigation water applied using direct water application methods, water used for preparing crop sprays, and water used for growing sprouts) and in harvesting, packing, and holding activities (including water used for washing or cooling harvested produce and water used for preventing dehydration of covered produce).
+
+*Agricultural water assessment* means an evaluation of an agricultural water system, agricultural water practices, crop characteristics, environmental conditions, and other relevant factors (including test results, where appropriate) related to growing activities for covered produce (other than sprouts) to:
+
+(1) Identify any condition(s) that are reasonably likely to introduce known or reasonably foreseeable hazards into or onto covered produce or food contact surfaces; and
+
+(2) Determine whether measures are reasonably necessary to reduce the potential for contamination of covered produce or food contact surfaces with such known or reasonably foreseeable hazards.
+
+*Agricultural water system* means a source of agricultural water, the water distribution system, any building or structure that is part of the water distribution system (such as a well house, pump station, or shed), and any equipment used for application of agricultural water to covered produce during growing, harvesting, packing, or holding activities.
 
 *Animal excreta* means solid or liquid animal waste.
 
@@ -132,4 +138,4 @@ The definitions and interpretations of terms in section 201 of the Federal Food,
 
 *You,* for purposes of this part, means the owner, operator, or agent in charge of a covered farm that is subject to some or all of the requirements of this part.
 
-[80 FR 74547, Nov. 27, 2015, as amended at 81 FR 26467, May 3, 2016]
+[80 FR 74547, Nov. 27, 2015, as amended at 81 FR 26467, May 3, 2016; 89 FR 37514, May 6, 2024]

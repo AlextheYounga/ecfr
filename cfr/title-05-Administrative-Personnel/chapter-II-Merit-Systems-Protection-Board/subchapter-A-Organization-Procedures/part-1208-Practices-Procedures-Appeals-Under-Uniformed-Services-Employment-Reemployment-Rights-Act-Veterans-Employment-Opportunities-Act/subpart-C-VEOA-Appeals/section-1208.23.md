@@ -16,4 +16,4 @@
 
 (c) *Electronic filing.* An appeal may be filed electronically by using the Board's e-Appeal site (*https://e-appeal.mspb.gov*) in accordance with § 1201.14 of this chapter.
 
-[65 FR 5412, Feb. 4, 2000, as amended at 65 FR 49896, Aug. 16, 2000; 68 FR 59865, Oct. 20, 2003; 69 FR 57631, Sept. 27, 2004; 77 FR 62373, Oct. 12, 2012]Editorial Note:At 77 FR 62373, Oct. 12, 2012, § 1208.23 was amended by revising paragraph (a)(6); however, the amendatory instruction could not be followed because the paragraph could not be found in the section.
+[65 FR 5412, Feb. 4, 2000, as amended at 65 FR 49896, Aug. 16, 2000; 68 FR 59865, Oct. 20, 2003; 69 FR 57631, Sept. 27, 2004; 77 FR 62373, Oct. 12, 2012] Editorial Note:At 77 FR 62373, Oct. 12, 2012, § 1208.23 was amended by revising paragraph (a)(6); however, the amendatory instruction could not be followed because the paragraph could not be found in the section.

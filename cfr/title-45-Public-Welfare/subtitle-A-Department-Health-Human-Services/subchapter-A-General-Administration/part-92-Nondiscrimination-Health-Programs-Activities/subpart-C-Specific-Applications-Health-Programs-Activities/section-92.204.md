@@ -1,0 +1,5 @@
+##### § 92.204 Accessibility of information and communication technology for individuals with disabilities. #####
+
+(a) A covered entity must ensure that its health programs and activities provided through information and communication technology are accessible to individuals with disabilities, unless doing so would result in undue financial and administrative burdens or a fundamental alteration in the nature of the health programs or activities. If an action required to comply with this section would result in such an alteration or such burdens, a covered entity shall take any other action that would not result in such an alteration or such burdens but would nevertheless ensure that, to the maximum extent possible, individuals with disabilities receive the benefits or services of the health program or activity provided by the covered entity.
+
+(b) A recipient or State Exchange shall ensure that its health programs and activities provided through websites and mobile applications comply with the requirements of section 504 of the Rehabilitation Act, as interpreted consistent with title II of the ADA (42 U.S.C. 12131 through 12165).

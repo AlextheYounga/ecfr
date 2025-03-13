@@ -6,8 +6,7 @@
 
 (1)(i) Be a Congressional employee (as defined in section 2107 of title 5, United States Code), other than an employee of the Architect of the Capitol, engaged in providing food service operations for the House of Representatives under the administrative control of the Architect of the Capitol, or
 
-(ii) Be a Senate Restaurants employee who is an employee of the Architect of the Capitol on July 17, 2008;
-'
+(ii) Be a Senate Restaurants employee who is an employee of the Architect of the Capitol on July 17, 2008; '
 
 (2) Be subject to subchapter III of chapter 83 of title 5, United States Code;
 

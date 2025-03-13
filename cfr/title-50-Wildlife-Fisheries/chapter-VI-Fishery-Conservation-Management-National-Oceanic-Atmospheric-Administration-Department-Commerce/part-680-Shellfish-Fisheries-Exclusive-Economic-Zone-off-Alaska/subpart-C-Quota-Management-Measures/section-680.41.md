@@ -1,7 +1,5 @@
 ##### § 680.41 Transfer of QS, PQS, IFQ and IPQ. #####
 
-Link to an amendment published at 89 FR 47877, June 4, 2024.
-
 (a) *General.* (1) Transfer of crab QS, PQS, IFQ, or IPQ means any transaction, approved by NMFS, requiring QS or PQS, or the use thereof in the form of IFQ or IPQ, to pass from one person to another, permanently or for a fixed period of time, except that:
 
 (2) A crab IFQ hired master permit issued by NMFS, as described in § 680.4, is not a transfer of crab QS or IFQ; and
@@ -200,7 +198,7 @@ Link to an amendment published at 89 FR 47877, June 4, 2024.
 
 (ii) An affidavit from the vessel owner attesting to that person's participation as a member of a fish harvesting crew on board a vessel during a landing of a crab QS species within the 365 days prior to submission of an Application for transfer of crab QS/IFQ or PQS/IPQ.
 
-(j) *Transfer of crab QS/IFQ to or from and ECCO*—(1) *Designation of an ECCO.* (i) The appropriate governing body of each ECC may designate a non-profit organization to serve as the ECCO for that ECC. To transfer and hold QS on the behalf of that ECC, this designation must be submitted by the non-profit organization in its Application to Become an ECCO.
+(j) *Transfer of crab QS/IFQ to or from an ECCO*—(1) *Designation of an ECCO.* (i) The appropriate governing body of each ECC may designate a non-profit organization to serve as the ECCO for that ECC. To transfer and hold QS on the behalf of that ECC, this designation must be submitted by the non-profit organization in its Application to Become an ECCO.
 
 (ii) If the non-profit entity is approved by NMFS to serve as the ECCO, then the appropriate governing body of the ECC must authorize the transfer of any QS from the ECCO.
 
@@ -364,4 +362,4 @@ Link to an amendment published at 89 FR 47877, June 4, 2024.
 
 (ii) *Notification of PQS or IPQ transfer.* A PQS holder submitting an application to transfer PQS or IPQ for use in processing outside any community identified under paragraph (l)(3)(i) must notify the ECC entity designated by the City of Kodiak and Kodiak Island Borough under paragraph (l)(2) of this section 10 days prior to the intended transfer of PQS or IPQ for use outside the community. At the end of that time period, the application will be approved pending meeting the criteria set forth in paragraph (i) of this section.
 
-[70 FR 10241, Mar. 2, 2005, as amended at 71 FR 32864, June 7, 2006; 73 FR 29983, May 23, 2008; 74 FR 51520, Oct. 7, 2009; 80 FR 15898, Mar. 26, 2015; 81 FR 1561, Jan. 13, 2016; 81 FR 24518, Apr. 26, 2016; 86 FR 70754, Dec. 13, 2021]
+[70 FR 10241, Mar. 2, 2005, as amended at 71 FR 32864, June 7, 2006; 73 FR 29983, May 23, 2008; 74 FR 51520, Oct. 7, 2009; 80 FR 15898, Mar. 26, 2015; 81 FR 1561, Jan. 13, 2016; 81 FR 24518, Apr. 26, 2016; 86 FR 70754, Dec. 13, 2021; 89 FR 47877, June 4, 2024]

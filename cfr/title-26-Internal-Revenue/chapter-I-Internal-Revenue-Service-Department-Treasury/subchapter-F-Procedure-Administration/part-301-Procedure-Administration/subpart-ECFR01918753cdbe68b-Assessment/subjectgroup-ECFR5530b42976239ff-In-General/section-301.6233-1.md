@@ -1,0 +1,15 @@
+##### § 301.6233-1 Extension to entities filing partnership returns. #####
+
+(a) *Entities filing a partnership return.* Except as provided in paragraph (c)(1) of this section, the provisions of subchapter C of chapter 63 of the Internal Revenue Code (subchapter C) and the regulations thereunder shall apply with respect to any taxable year of an entity for which such entity files a partnership return as well as to such entity's items for that taxable year and to any person holding an interest in such entity at any time during that taxable year. Any final partnership administrative adjustment or judicial determination resulting from a proceeding under subchapter C with respect to such taxable year may include a determination that the entity is not a partnership for such taxable year as well as determinations with respect to all items of the entity that would be partnership items, as defined in section 6231(a)(3) and the regulations thereunder, if such entity had been a partnership in such taxable year (including, for example, any amounts taxable to an entity determined to be an association taxable as a corporation). For example, a final determination under subchapter C that an entity that filed a partnership return is an association taxable as a corporation will serve as a basis for a computational adjustment reflecting the disallowance of any loss or credit claimed by a purported partner with respect to that entity.
+
+(b) *Partnership return filed but no entity found to exist.* Paragraph (a) of this section shall apply where a partnership return is filed for a taxable year but it is determined that there is no entity for such taxable year. For purposes of applying paragraph (a) of this section, the partnership return shall be treated as if it were filed by an entity. However, any final partnership administrative adjustment or judicial determination resulting from a proceeding under subchapter C with respect to such taxable year may also include a determination that there is no entity for such taxable year.
+
+(c) *Exceptions.* Paragraph (a) of this section shall not apply to—
+
+(1) Entities for any taxable year in which such entity would be excepted from the provisions of subchapter C of the Internal Revenue Code under section 6231(a)(1)(B) and the regulations thereunder (relating to the exception for small partnerships) if such entity were a partnership for such taxable year; and
+
+(2) Entities for any taxable year for which a partnership return was filed for the sole purpose of making the election described in section 761(a).
+
+(d) *Effective dates.* This section is applicable to partnership taxable years beginning on or after October 4, 2001. For years beginning prior to October 4, 2001, see § 301.6233-1T contained in 26 CFR part 1, revised April 1, 2001.
+
+[T.D. 8965, 66 FR 50563, Oct. 4, 2001]

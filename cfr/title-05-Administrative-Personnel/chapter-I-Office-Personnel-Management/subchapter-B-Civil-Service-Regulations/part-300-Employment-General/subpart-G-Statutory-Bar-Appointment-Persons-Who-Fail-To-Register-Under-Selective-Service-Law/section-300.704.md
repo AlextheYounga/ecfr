@@ -8,7 +8,7 @@ Applicant's Statement of Selective Service Registration Status
 
 If you are a male born after December 31, 1959, and are at least 18 years of age, civil service employment law (5 U.S.C. 3328) requires that you must be registered with the Selective Service System, unless you meet certain exemptions under Selective Service law. If you are required to register but knowingly and willfully fail to do so, you are ineligible for appointment by executive agencies of the Federal Government.
 
-Certification of Registration StatusCheck one:[ ] I certify I am registered with the Selective Service System.[ ] I certify I have been determined by the Selective Service System to be exempt from the registration provisions of Selective Service law.[ ] I certify I have not registered with the Selective Service System.[ ] I certify I have not reached my 18th birthday and understand I am required by law to register at that time.Non-Registrants Under Age 26
+Certification of Registration Status Check one: [ ] I certify I am registered with the Selective Service System. [ ] I certify I have been determined by the Selective Service System to be exempt from the registration provisions of Selective Service law. [ ] I certify I have not registered with the Selective Service System. [ ] I certify I have not reached my 18th birthday and understand I am required by law to register at that time. Non-Registrants Under Age 26
 
 If you are under age 26 and have not registered as required, you should register promptly at a United States Post Office, or consular office if you are outside the United States.
 

@@ -1,7 +1,5 @@
 ##### § 17.45 Species-specific rules—snails and clams. #####
 
-Link to an amendment published at 89 FR 48099, June 4, 2024.
-
 (a) Atlantic pigtoe (*Fusconaia masoni*)—(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Atlantic pigtoe. Except as provided under paragraphs (a)(2) and (3) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
 
 (i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
@@ -86,7 +84,39 @@ Link to an amendment published at 89 FR 48099, June 4, 2024.
 
 (v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
 
-(c) [Reserved]
+(c) Texas fawnsfoot (*Truncilla macrodon*).
+
+(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to Texas fawnsfoot. Except as provided under paragraph (c)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to the Texas fawnsfoot:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *Exceptions from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (c)(4) for endangered wildlife.
+
+(iii) Take as set forth at § 17.31(b).
+
+(iv) Possess and engage in other acts with unlawfully taken Texas fawnsfoot, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+(v) Take incidental to an otherwise lawful activity caused by:
+
+(A) Channel restoration projects that create natural, physically stable, ecologically functioning streams (or stream and wetland systems) that are reconnected with their groundwater aquifers. To qualify for the exception in this paragraph (c)(2)(v)(A), a channel restoration project must satisfy all applicable Federal, State, and local permitting requirements. In addition, at least 30 days prior to commencing actual construction within an area designated as critical habitat for the Texas fawnsfoot (see 50 CFR 17.95(f)), notice must be provided to the Service, through the Austin Ecological Services Field Office, of the location and nature of the proposed work to allow the Service to make arrangements for surveys and potential relocation of any mussels that might be adversely affected. You may obtain field office contact information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(B) Bioengineering methods for streambank stabilization using native live stakes (live, vegetative cuttings inserted or tamped into the ground in a manner that allows the stake to take root and grow), native live fascines (live branch cuttings, usually willows, bound together into long, cigar-shaped bundles), or native brush layering (cuttings or branches of easily rooted tree species layered between successive lifts of soil fill). Methods that include the use of quarried rock (riprap) for more than 25 percent of the area within the streambanks or include the use of rock baskets or gabion structures do not qualify for the exception in this paragraph (c)(2)(v)(B). In addition, to reduce streambank erosion and sedimentation into the stream, work using these bioengineering methods qualifies for the exception in this paragraph (c)(2)(v)(B) only if it is performed during base-flow or low-water conditions and when significant rainfall likely to result in significant runoff is not predicted at or upstream of the area where work is proposed for a period of at least 3 days after the work is scheduled to be undertaken. Further, streambank stabilization projects that involve the placement or use of equipment in the stream channels or water do not qualify for the exception in this paragraph (c)(2)(v)(B). To qualify for the exception in this paragraph (c)(2)(v)(B), a project using bioengineering methods must satisfy all applicable Federal, State, and local permitting requirements.
+
+(C) Soil and water conservation practices and riparian and adjacent upland habitat management activities that restore in-stream habitats for the species, restore adjacent riparian habitats that enhance stream habitats for the species, stabilize degraded and eroding stream banks to limit sedimentation and scour of the species' habitats, restore or enhance nearby upland habitats to limit sedimentation of the species' habitats, and comply with conservation practice standards and specifications and with technical guidelines developed by the Natural Resources Conservation Service for application of the affected habitat types. In addition, at least 30 days prior to commencing soil and water conservation practices within an area designated as critical habitat for the Texas fawnsfoot (see 50 CFR 17.95(f)), notice must be provided to the Service, through the Austin Ecological Services Field Office, of the location and nature of the proposed work to allow the Service to make arrangements for surveys and potential relocation of any mussels that might be adversely affected. You may obtain field office contact information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(D) Presence or abundance surveys for Texas fawnsfoot conducted by individuals who successfully complete and show proficiency by passing the end-of-course test with a score equal to or greater than 90 percent, with 100 percent accuracy in identification of mussel species listed under the Endangered Species Act, in an approved freshwater mussel identification and sampling course (specific to the species and basins in which the Texas fawnsfoot is known to occur), such as that administered by the Service, a State wildlife agency, or qualified university experts. Those individuals exercising the exemption in this paragraph (c)(2)(v)(D) should provide reports to the Service annually on number, location, and date of collection. The exemption in this paragraph (c)(2)(v)(D) does not apply if lethal take or collection is anticipated. The exemption in this paragraph (c)(2)(v)(D) only applies for 5 years from the date of successful course completion.
 
 (d) Longsolid (*Fusconaia subrotunda*) and round hickorynut (*Obovaria subrotunda*).
 
@@ -162,4 +192,4 @@ Link to an amendment published at 89 FR 48099, June 4, 2024.
 
 (vi) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
 
-[86 FR 64034, Nov. 16, 2021, as amended at 87 FR 6077, Feb. 3, 2022; 88 FR 14839, Mar. 9, 2023; 88 FR 41757, June 27, 2023; 89 FR 23940, Apr. 5, 2024]
+[86 FR 64034, Nov. 16, 2021, as amended at 87 FR 6077, Feb. 3, 2022; 88 FR 14839, Mar. 9, 2023; 88 FR 41757, June 27, 2023; 89 FR 23940, Apr. 5, 2024; 89 FR 48099, June 4, 2024]

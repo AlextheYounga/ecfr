@@ -1,0 +1,27 @@
+##### § 1.44-4 Recapture for certain dispositions. #####
+
+(a) *In general.* (1) Under section 44(d) except as provided in paragraphs (b) and (c) of this section, if the taxpayer disposes of property, with respect to the purchase of which a credit was allowed under section 44(a), at any time within 36 months after the date on which he acquired it (or, in the case of construction by the taxpayer, the date on which he first occupied it as his principal residence), then the tax imposed under chapter 1 of the Code for the taxable year in which the replacement period (as provided under subparagraph (2) of this paragraph) terminates is increased by an amount equal to the amount allowed as a credit for the purchase of such property.
+
+(2) The replacement period is the period provided for purchase of a new principal residence under section 1034 of the Code without recognition of gain on the sale of the old residence. In the case of residences sold or exchanged after December 31, 1974, it is generally 18 months in the case of acquisition by purchase and 2 years in the case of construction by the taxpayer provided, however, that such construction has commenced within the 18-month period. Thus, a calendar-year taxpayer who disposes of his old principal residence in December 1975 and does not qualify under paragraph (b) or (c) of this section will include the amount previously allowed as additional tax on his 1977 tax return.
+
+(3) Except as provided in paragraphs (b) and (c) of this section, section 44(d) applies to all dispositions of property, including sales (including foreclosure sales), exchanges (including tax-free exchanges such as those under sections 351, 721, and 1031), and gifts.
+
+(4) In the case of a husband and wife who were allowed a credit under section 44(a) claimed on a joint return, for the purpose of section 44(d) and this section the credit shall be allocated between the spouses in accordance with the provisions of paragraph (b)(3) of § 1.44-1.
+
+(b) *Acquisition of a new residence.* (1) Section 44(d)(1) and paragraph (a) of this section shall not apply to a disposition of property with respect to the purchase of which a credit was allowed under section 44(a) in the case of a taxpayer who purchases or constructs a new principal residence (within the meaning of § 1.44-5(a)) within the applicable replacement period provided in section 1034. In determining whether a new principal residence qualifies for purposes of this section the rules relating to construction, acquisition, and occupancy under § 1.44-2 do not apply. Where a disposition has occurred and the taxpayer's purchase (or construction) costs of a new principal residence are less than the adjusted sales price (as defined in section 1034(b)) of the old residence, the tax imposed by chapter 1 of the Code for the taxable year following the taxable year during which disposition occurs is increased by an amount which bears the same ratio to the amount allowed as a credit for the purchase of the old residence as (i) the adjusted sales price of the old residence (within the meaning of section 1034), reduced (but not below zero) by the taxpayer's cost of purchasing (or constructing) the new residence (within the meaning of such section) bears to (ii) the adjusted sales price of the old residence.
+
+(2) The rules of subparagraph (1) of this paragraph may be illustrated by the following example:
+
+Example.On July 15, 1975, A purchases a new principal residence for a total purchase price of $40,000. The property meets the tests of § 1.44-2, and A is allowed a credit of $2,000 on his 1975 tax return. On January 15, 1977 (within 36 months after acquisition) A sells his residence for an adjusted sales price of $50,000 and on March 15, 1977, purchases a new principal residence at a cost of $40,000. Since the new principal residence was purchased within the 18-month replacement period (provided in section 1034), the amount recaptured is limited to $400, determined by multiplying the amount of the credit allowed ($2,000) by a fraction, the numerator of which is $10,000 (determined by reducing the adjusted sales price of the old residence ($50,000) by A's cost of purchasing the new principal residence ($40,000)) and the denominator of which is $50,000 (the adjusted sales price). Therefore, A's tax liability for 1978, the year following the taxable year in which the disposition occurred, is increased by $400.
+
+(c) *Certain involuntary dispositions.* Section 44(d)(1) and paragraph (a) of this section shall not apply to the following:
+
+(1) A disposition of a residence made on account of the death of any individual having a legal or equitable interest therein occurring during the 36-month period described in paragraph (a) of this section,
+
+(2) A disposition of the residence if it is substantially or completely destroyed by a casualty described in section 165(c)(3),
+
+(3) A disposition of the residence if it is compulsorily and involuntarily converted within the meaning of section 1033(a), or
+
+(4) A disposition of the residence pursuant to a settlement in a divorce or legal separation proceeding where the other spouse retains the residence as principal residence (as defined in § 1.44-5(a)).
+
+[T.D. 7391, 40 FR 55854, Dec. 2, 1975; 40 FR 58138, Dec. 15, 1975]

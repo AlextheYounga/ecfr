@@ -1,7 +1,5 @@
 ##### § 680.7 Prohibitions. #####
 
-Link to an amendment published at 89 FR 47877, June 4, 2024.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) *Receiving and processing CR crab.* (1) Process any CR crab that has not been weighed by an RCR on:
@@ -24,15 +22,11 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (ii) The IPQ permit and IPQ amount are subject to an exemption pursuant to § 680.4(p).
 
-(5) Receive any crab harvested under a Class A IFQ permit in excess of the total amount of unused IPQ held by the RCR in a crab QS fishery unless that RCR subsequently receives unused IPQ by transfer as described under § 680.41 that is at least equal to the amount of all Class A IFQ received by that RCR in that crab QS fishery before the end of the crab fishing year for which an IPQ permit was issued.
+(5) Receive any crab harvested under a Class A IFQ permit in excess of the total amount of unused IPQ held by the RCR in a crab QS fishery, unless that RCR subsequently receives unused IPQ by transfer as described under § 680.41 that is at least equal to the amount of all Class A IFQ received by that RCR in that crab QS fishery before the end of the crab fishing year for which an IPQ permit was issued.
 
 (6) Receive crab harvested under a Class B IFQ permit on a vessel if that vessel was used to harvest and process any crab in that crab QS fishery during the same crab fishing season.
 
-(7) For an IPQ holder to use more IPQ than the maximum amount of IPQ that may be held by that person. Use of IPQ includes all IPQ held by that person, and all IPQ crab that are received by any RCR at any shoreside crab processor or stationary floating crab processor in which that IPQ holder has a 10 percent or greater direct or indirect ownership interest, unless that IPQ crab meets the requirements in § 680.42(b)(7) or § 680.42(b)(8).
-
-(8) For a shoreside crab processor or stationary floating crab processor, that does not have at least one owner with a 10 percent or greater direct or indirect ownership interest who also holds IPQ in that crab QS fishery, to receive in excess of 30 percent of the IPQ issued for that crab fishery, unless that IPQ meets the requirements described in § 680.42(b)(7) or § 680.42(b)(8).
-
-(9) For any shoreside crab processor or stationary floating crab processor east of 174 degrees west longitude to use more than 60 percent of the IPQ issued in the EAG or WAI crab QS fisheries, unless that IPQ meets the requirements described in § 680.42(b)(8).
+(7) For an IPQ holder to use more IPQ than the maximum amount of IPQ that may be held by that person under § 680.42(b).
 
 (b) *Landing CR crab.* (1) Remove retained and unprocessed CR crab from a vessel at any location other than to an RCR operating under an approved catch monitoring plan as described in § 680.23(g) unless that crab is accompanied by a signed landing receipt showing the crab was properly landed.
 
@@ -80,4 +74,4 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (h) *Inseason action.* Conduct any fishing contrary to notification of inseason action closure, or adjustment issued under § 680.22.
 
-[70 FR 10241, Mar. 2, 2005, as amended at 70 FR 33395, June 8, 2005; 73 FR 29982, May 23, 2008; 73 FR 76190, Dec. 15, 2008; 74 FR 25457, May 28, 2009; 74 FR 41095, Aug. 14, 2009; 76 FR 35786, June 20, 2011; 78 FR 28531, May 15, 2013; 81 FR 24518, Apr. 26, 2016; 85 FR 72583, Nov. 13, 2020]
+[70 FR 10241, Mar. 2, 2005, as amended at 70 FR 33395, June 8, 2005; 73 FR 29982, May 23, 2008; 73 FR 76190, Dec. 15, 2008; 74 FR 25457, May 28, 2009; 74 FR 41095, Aug. 14, 2009; 76 FR 35786, June 20, 2011; 78 FR 28531, May 15, 2013; 81 FR 24518, Apr. 26, 2016; 85 FR 72583, Nov. 13, 2020; 89 FR 47877, June 4, 2024]

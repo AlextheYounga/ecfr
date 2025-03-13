@@ -1,0 +1,49 @@
+##### § 301.6235-1 Period of limitations on making adjustments. #####
+
+(a) *In general.* Except as provided in section 6235(c), section 905(c), or paragraph (d) of this section (regarding extensions), no partnership adjustment (as defined in § 301.6241-1(a)(6)) for any partnership taxable year may be made after the later of the date that is—
+
+(1) 3 years after the latest of—
+
+(i) The date on which the partnership return for such taxable year was filed;
+
+(ii) The return due date (as defined in section 6241(3)) for the taxable year; or
+
+(iii) The date on which the partnership filed an administrative adjustment request with respect to such taxable year under section 6227;
+
+(2) The date described in paragraph (b) of this section with respect to a request for modification; or
+
+(3) The date described in paragraph (c) of this section with respect to a notice of proposed partnership adjustment.
+
+(b) *Modification requested under section 6225(c)*—(1) *In general.* For purposes of paragraph (a)(2) of this section, in the case of any request for modification of any imputed underpayment under section 6225(c), the date by which the Internal Revenue Service (IRS) may make a partnership adjustment is the date that is 270 days (plus the number of days of an extension of the period for requesting modification (as described in § 301.6225-2(c)(3)(i)) agreed to by the IRS under section 6225(c)(7) and § 301.6225-2(c)(3)(ii)) after the date on which everything required to be submitted to the IRS pursuant to section 6225(c) is so submitted.
+
+(2) *Date on which everything is required to be submitted*—(i) *In general.* For purposes of paragraph (b)(1) of this section, the date on which everything required to be submitted to the IRS pursuant to section 6225(c) is so submitted is the earlier of—
+
+(A) The date the period for requesting modification ends (including extensions) as described in § 301.6225-2(c)(3)(i) and (ii); or
+
+(B) The date the period for requesting modification expires as a result of a waiver of the prohibition on mailing a notice of final partnership adjustment (FPA) under § 301.6231-1(b)(2). See § 301.6225-2(c)(3)(iii).
+
+(ii) *Incomplete submission has no effect.* A determination by the IRS that the information submitted as part of a request for modification is incomplete has no effect on the applicability of paragraph (b)(2) of this section.
+
+(c) *Notice of proposed partnership adjustment.* For purposes of paragraph (a)(3) of this section, the date by which the IRS may make a partnership adjustment is the date that is 330 days (plus the number of days of an extension of the modification period (as described in § 301.6225-2(c)(3)(i)) agreed to by the IRS under section 6225(c)(7) and § 301.6225-2(c)(3)(ii)) after the date the last notice of proposed partnership adjustment (NOPPA) under section 6231(a)(2) is mailed, regardless of whether modification is requested by the partnership under section 6225(c).
+
+(d) *Extension by agreement.* The periods described in paragraphs (a), (b), and (c) of this section (including any extension of those periods pursuant to this paragraph (d)) may be extended by an agreement, in writing, entered into by the partnership and the IRS before the expiration of such period.
+
+(e) *Examples.* The following examples illustrate the rules of this section. For purposes of these examples, each partnership has a calendar taxable year.
+
+(1) *Example 1.* Partnership timely files its partnership return for the 2020 taxable year on March 1, 2021. On September 1, 2023, Partnership files an administrative adjustment request (AAR) under section 6227 with respect to its 2020 taxable year. As of September 1, 2023, the IRS has not initiated an administrative proceeding under subchapter C of chapter 63 of the Internal Revenue Code with respect to Partnership's 2020 taxable year. Therefore, as of September 1, 2023, under paragraph (a)(1) of this section, the period for making partnership adjustments with respect to Partnership's 2020 taxable year expires on September 1, 2026.
+
+(2) *Example 2.* Partnership timely files its partnership return for the 2020 taxable year on the due date, March 15, 2021. On February 1, 2023, the IRS mails to Partnership and the partnership representative of Partnership (PR) a notice of administrative proceeding under section 6231(a)(1) with respect to Partnership's 2020 taxable year. Assuming no AAR has been filed with respect to Partnership's 2020 taxable year and the IRS has not yet mailed a NOPPA under section 6231(a)(2) with respect to Partnership's 2020 taxable year, the period for making partnership adjustments for Partnership's 2020 taxable year expires on the date determined under paragraph (a)(1) of this section, March 15, 2024.
+
+(3) *Example 3.* The facts are the same as in *Example 2* in paragraph (e)(2) of this section, except that on June 1, 2023, pursuant to paragraph (d) of this section, PR signs an agreement extending the period for making partnership adjustments under section 6235(a) for Partnership's 2020 taxable year to December 31, 2025. In addition, on June 2, 2025, the IRS mails to Partnership and PR a timely NOPPA under section 6231(a)(2). Pursuant to § 301.6225-2(c)(3)(i), the period for requesting modification expires on February 27, 2026 (270 days after June 2, 2025, the date the NOPPA is mailed), but PR does not submit a request for modification on or before this date. Under paragraph (c) of this section, the date for purposes of paragraph (a)(3) of this section is April 28, 2026, the date that is 330 days from the mailing of the NOPPA. Because April 28, 2026 is later than the date under paragraph (a)(1) of this section (December 31, 2025, as extended under paragraph (d) of this section), and because no modification was requested, paragraph (a)(2) of this section is not applicable, April 28, 2026 is the date on which the period for making partnership adjustments expires under section 6235.
+
+(4) *Example 4.* The facts are the same as in *Example 3* in paragraph (e)(3) of this section, except that PR notifies the IRS that Partnership will be requesting modification. On January 5, 2026, PR and the IRS agree to extend the period for requesting modification pursuant to section 6225(c)(7) and § 301.6225-2(c)(3)(ii) for 45 days—from February 27, 2026 to April 13, 2026. PR submits the request for modification to the IRS on April 13, 2026. Therefore, the date determined under paragraph (b) of this section is February 22, 2027, which is 270 days after the date everything required to be submitted was so submitted pursuant to paragraph (b)(2) of this section plus the additional 45-day extension of the period for requesting modification agreed to by PR and the IRS. Because February 22, 2027 is later than the date under paragraph (a)(1) of this section (December 31, 2025, as extended under paragraph (d) of this section) and the date under paragraph (a)(3) of this section (June 12, 2026, which is 330 days from the date the NOPPA was mailed plus the 45-day extension under section 6225(c)(7)), February 22, 2027 is the date on which the period for making partnership adjustments expires under section 6235.
+
+(5) *Example 5.* The facts are the same as in *Example 4* in paragraph (e)(4) of this section, except that PR does not request an extension of the period for requesting modification. On February 1, 2026, PR submits a request for modification and PR, and the IRS agree in writing to waive the prohibition on mailing an FPA pursuant to § 301.6231-1(b)(2). Pursuant to § 301.6225-2(c)(3)(iii), the period for requesting modification expires as of February 1, 2026, rather than February 27, 2026. Accordingly, under paragraph (b)(2) of this section, the date on which everything required to be submitted pursuant to section 6225(c) is so submitted is February 1, 2026, and the 270-day period described in paragraph (b)(1) of this section begins to run on that date. Therefore, the date for purposes of paragraph (a)(2) of this section is October 29, 2026, which is 270 days after February 1, 2026, the date on which everything required to be submitted under section 6225(c) is so submitted. Because October 29, 2026 is later than the date under paragraph (a)(1) of this section (December 31, 2025, as extended under paragraph (d) of this section) and the date under paragraph (a)(3) of this section (April 28, 2026), October 29, 2026 is the date on which the period for making partnership adjustments expires under section 6235.
+
+(6) *Example 6.* The facts are the same as in *Example 5* in paragraph (e)(5) of this section, except PR completes its submission of information to support a request for modification on July 1, 2025, but does not execute a waiver pursuant to § 301.6231-1(b)(2). Therefore, pursuant to paragraph (b)(2) of this section, February 27, 2026, the date the period requesting modification expires, is the date on which everything required to be submitted pursuant to section 6225(c) is so submitted. As a result, the 270-day period described in paragraph (b)(1) of this section expires on November 24, 2026. Because November 24, 2026 is later than the date under paragraph (a)(1) of this section (December 31, 2025, as extended under paragraph (d) of this section) and the date under paragraph (a)(3) of this section (April 28, 2026), November 24, 2026 is the date on which the period for making partnership adjustments expires under section 6235.
+
+(f) *Applicability date*—(1) *In general.* Except as provided in paragraph (f)(2) of this section, this section applies to partnership taxable years beginning after December 31, 2017, and ending after August 12, 2018.
+
+(2) *Election under § 301.9100-22 in effect.* This section applies to any partnership taxable year beginning after November 2, 2015, and before January 1, 2018, for which a valid election under § 301.9100-22 is in effect.
+
+[T.D. 9844, 84 FR 6566, Feb. 27, 2019]

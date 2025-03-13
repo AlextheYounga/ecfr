@@ -1,7 +1,5 @@
 ##### § 7.58 Cape Hatteras National Seashore. #####
 
-Link to an amendment published at 89 FR 47868, June 4, 2024.
-
 (a) *Hunting.* (1) Lands within the Seashore on which hunting is legally permitted are designated as follows:
 
 (i) Ocracoke Island, except Ocracoke village.
@@ -210,4 +208,14 @@ The permit shall be carried at all times while engaged in commercial fishing and
 
 (15) *Information Collection.* As required by 44 U.S.C. 3501 *et seq.,* OMB has approved the information collection requirements contained in this paragraph. The OMB approval number is 1024-0026. NPS is collecting this information to provide the Superintendent data necessary to issue ORV special-use permits. The information will be used to grant a benefit. The obligation to respond is required in order to obtain the benefit in the form of the ORV permit.
 
-[24 FR 11052, Dec. 30, 1959, as amended at 38 FR 33081, Nov. 30, 1973; 40 FR 4135, Jan. 28, 1975; 40 FR 56888, Dec. 5, 1975; 48 FR 30295, June 30, 1983; 52 FR 10686, Apr. 2, 1987; 77 FR 3142, Jan. 23, 2012; 81 FR 93604, Dec. 21, 2016]
+(d) *Bicycle Use.* (1) The Superintendent may designate all or a portion of the following trails as open to bicycle use:
+
+(i) Multi-use pathway in the Hatteras Island District (approximately 1.6 miles).
+
+(ii) [Reserved]
+
+(2) Maps showing the pathway as open to bicycle use will be available at Seashore visitor centers and posted on the Seashore website. The Superintendent will provide notice that the pathway is open to bicycle use in accordance with § 1.7 of this chapter, including in the superintendent's compendium (or written compilation) of discretionary actions referred to in 36 CFR 1.7(b).
+
+(3) The Superintendent may limit, restrict, or impose conditions on bicycle use, or close any trail to bicycle use, or terminate such conditions, closures, limits, or restrictions in accordance with § 4.30 of this chapter. A violation of any such limit, restriction, condition, or closure is prohibited.
+
+[24 FR 11052, Dec. 30, 1959, as amended at 38 FR 33081, Nov. 30, 1973; 40 FR 4135, Jan. 28, 1975; 40 FR 56888, Dec. 5, 1975; 48 FR 30295, June 30, 1983; 52 FR 10686, Apr. 2, 1987; 77 FR 3142, Jan. 23, 2012; 81 FR 93604, Dec. 21, 2016; 89 FR 47868, June 4, 2024]

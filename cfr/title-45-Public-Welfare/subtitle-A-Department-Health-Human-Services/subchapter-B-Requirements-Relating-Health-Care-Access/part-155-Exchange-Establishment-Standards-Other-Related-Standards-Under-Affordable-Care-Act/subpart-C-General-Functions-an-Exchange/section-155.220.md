@@ -1,7 +1,5 @@
 ##### § 155.220 Ability of States to permit agents and brokers and web-brokers to assist qualified individuals, qualified employers, or qualified employees enrolling in QHPs. #####
 
-Link to an amendment published at 89 FR 37703, May 6, 2024.
-
 (a) *General rule.* A State may permit agents, brokers, and web-brokers to—
 
 (1) Enroll individuals, employers or employees in any QHP in the individual or small group market as soon as the QHP is offered through an Exchange in the State;
@@ -186,7 +184,7 @@ Link to an amendment published at 89 FR 37703, May 6, 2024.
 
 (2) *Standards of conduct.* An individual or entity described in paragraph (j)(1) of this section must—
 
-(i) Provide consumers with correct information, without omission of material fact, regarding the Federally-facilitated Exchanges, QHPs offered through the Federally-facilitated Exchanges, and insurance affordability programs, and refrain from marketing or conduct that is misleading (including by having a direct enrollment website that HHS determines could mislead a consumer into believing they are visiting *HealthCare.gov*), coercive, or discriminates based on race, color, national origin, disability, age, or sex;
+(i) Provide consumers with correct information, without omission of material fact, regarding the Federally-facilitated Exchanges, QHPs offered through the Federally-facilitated Exchanges, and insurance affordability programs, and refrain from marketing or conduct that is misleading (including by having a direct enrollment website that HHS determines could mislead a consumer into believing they are visiting *HealthCare.gov*), coercive, or discriminates based on race, color, national origin, disability, age, or sex (which includes discrimination on the basis of sex characteristics, including intersex traits; pregnancy or related conditions; sexual orientation; gender identity; and sex stereotypes);
 
 (ii) Provide the Federally-facilitated Exchanges with correct information, and document that eligibility application information has been reviewed by and confirmed to be accurate by the consumer, or the consumer's authorized representative designated in compliance with § 155.227, prior to the submission of information, under section 1411(b) of the Affordable Care Act, including but not limited to:
 
@@ -272,4 +270,4 @@ Link to an amendment published at 89 FR 37703, May 6, 2024.
 
 (v) Agreements between the web-broker and the State Exchange.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 54134, Aug. 30, 2013; 79 FR 13837, Mar. 11, 2014; 81 FR 12338, Mar. 8, 2016; 81 FR 94176, Dec. 22, 2016; 84 FR 17563, Apr. 25, 2019; 85 FR 37248, June 19, 2020; 86 FR 24288, May 5, 2021; 87 FR 27388, May 6, 2022; 88 FR 25917, Apr. 27, 2023; 89 FR 26420, Apr. 15, 2024]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 54134, Aug. 30, 2013; 79 FR 13837, Mar. 11, 2014; 81 FR 12338, Mar. 8, 2016; 81 FR 94176, Dec. 22, 2016; 84 FR 17563, Apr. 25, 2019; 85 FR 37248, June 19, 2020; 86 FR 24288, May 5, 2021; 87 FR 27388, May 6, 2022; 88 FR 25917, Apr. 27, 2023; 89 FR 26420, Apr. 15, 2024; 89 FR 37703, May 6, 2024]

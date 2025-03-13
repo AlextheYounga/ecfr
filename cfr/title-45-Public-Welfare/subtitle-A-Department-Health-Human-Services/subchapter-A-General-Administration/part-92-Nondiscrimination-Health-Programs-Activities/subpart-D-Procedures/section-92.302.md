@@ -1,0 +1,23 @@
+##### § 92.302 Notification of views regarding application of Federal religious freedom and conscience laws. #####
+
+(a) *General application.* A recipient may rely on applicable Federal protections for religious freedom and conscience, and consistent with § 92.3(c), application of a particular provision(s) of this part to specific contexts, procedures, or health care services shall not be required where such protections apply.
+
+(b) *Assurance of religious freedom and conscience exemption.* A recipient that seeks assurance consistent with paragraph (a) of this section regarding the application of particular provision(s) of this part to specific contexts, procedures, or health care services may do so by submitting a notification in writing to the Director of OCR. Notification may be provided by the recipient at any time, including before an investigation is initiated or during the pendency of an investigation. The notification must include:
+
+(1) The particular provision(s) of this part from which the recipient asserts they are exempt under Federal religious freedom or conscience protections;
+
+(2) The legal basis supporting the recipient's exemption should include the standards governing the applicable Federal religious freedom and conscience protections, such as the provisions in the ACA itself; the Church, Coats-Snowe, and Weldon Amendments; the generally applicable requirements of the Religious Freedom Restoration Act (RFRA); or any other applicable Federal laws; and
+
+(3) The factual basis supporting the recipient's exemption, including identification of the conflict between the recipient's religious or conscience beliefs and the requirements of this part, which may include the specific contexts, procedures, or health care services that the recipient asserts will violate their religious or conscience beliefs overall or based on an individual patient matter.
+
+(c) *Temporary exemption.* A temporary exemption from administrative investigation and enforcement will take effect upon the recipient's submission of the notification—regardless of whether the assurance is sought before or during an investigation. The temporary exemption is limited to the application of the particular provision(s) in this part as applied to the specific contexts, procedures, or health care services identified in the notification to OCR.
+
+(1) If the notification is received before an investigation is initiated, within 30 days of receiving the notification, OCR must provide the recipient with email confirmation acknowledging receipt of the notification. OCR will then work expeditiously to reach a determination of recipient's notification request.
+
+(2) If the notification is received during the pendency of an investigation, the temporary exemption will exempt conduct as applied to the specific contexts, procedures, or health care services identified in the notification during the pendency of OCR's review and determination regarding the notification request. The notification shall further serve as a defense to the relevant investigation or enforcement activity regarding the recipient until the final determination of recipient's exemption assurance request or the conclusion of the investigation.
+
+(d) *Effect of determination.* If OCR makes a determination to provide assurance of the recipient's exemption from the application of certain provision(s) of this part or that modified application of certain provision(s) is required, OCR will provide the recipient its determination in writing, and if granted, the recipient will be considered exempt from OCR's administrative investigation and enforcement with regard to the application of that provision(s) as applied to the specific contexts, procedures, or health care services provided. The determination does not otherwise limit the application of any other provision of this part to the recipient or to other contexts, procedures, or health care services.
+
+(e) *Appeal.* A recipient subject to an adverse determination of its request for an exemption assurance may appeal OCR's determination under the administrative procedures set forth at 45 CFR part 81. The temporary exemption provided for in paragraph (c) of this section will expire upon a final decision under 45 CFR part 81.
+
+(f) *Final agency action.* A determination under this section is not final for purposes of judicial review until after a final decision under 45 CFR part 81.

@@ -1,5 +1,7 @@
 ##### § 40.0-1 Introduction. #####
 
+Link to an amendment published at 89 FR 55510, July 5, 2024.
+
 (a) *In general.* The regulations in this part 40 are designated “Excise Tax Procedural Regulations.” The regulations set forth administrative provisions relating to the excise taxes imposed by chapters 31, 32, 33, 34, 36, 38, 39, and 49 (except for the chapter 32 tax imposed by section 4181 (firearms tax) and the chapter 36 taxes imposed by sections 4461 (harbor maintenance tax) and 4481 (heavy vehicle use tax)), and to floor stocks taxes imposed on articles subject to any of these taxes. Chapter 31 relates to retail excise taxes; chapter 32 to manufacturers' excise taxes; chapter 33 to taxes imposed on communications services and air transportation; chapter 34 to taxes imposed on certain insurance policies; chapter 36 to taxes imposed on transportation by water; chapter 38 to environmental taxes; chapter 39 to taxes imposed on registration-required obligations; and chapter 49 to taxes imposed on indoor tanning services. References in this part to “taxes” also include references to the fees imposed by sections 4375 and 4376. See parts 43, 46, 48, 49, and 52 of this chapter for regulations relating to the imposition of tax.
 
 (b) *References to forms.* Any reference to a form in this part is also a reference to any other form designated for the same use by the Commissioner after October 22, 1992.
