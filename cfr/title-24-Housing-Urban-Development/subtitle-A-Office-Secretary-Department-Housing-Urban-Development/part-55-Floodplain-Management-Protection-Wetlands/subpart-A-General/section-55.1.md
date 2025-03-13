@@ -1,5 +1,7 @@
 ##### § 55.1 Purpose and basic responsibility. #####
 
+Link to an amendment published at 89 FR 30903, Apr. 23, 2024.
+
 (a)(1) The purpose of Executive Order 11988, Floodplain Management, is “to avoid to the extent possible the long and short-term adverse impacts associated with the occupancy and modification of floodplains and to avoid direct or indirect support of floodplain development wherever there is a practicable alternative.”
 
 (2) The purpose of Executive Order 11990, Protection of Wetlands, is “to avoid to the extent possible the long- and short-term adverse impacts associated with the destruction or modification of wetlands and to avoid direct or indirect support of new construction in wetlands wherever there is a practicable alternative.”

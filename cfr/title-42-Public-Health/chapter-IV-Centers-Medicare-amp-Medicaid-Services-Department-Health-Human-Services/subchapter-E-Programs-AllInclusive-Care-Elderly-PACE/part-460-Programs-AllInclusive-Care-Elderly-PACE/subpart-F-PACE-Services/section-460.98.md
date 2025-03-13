@@ -1,5 +1,7 @@
 ##### § 460.98 Service delivery. #####
 
+Link to an amendment published at 89 FR 30845, Apr. 23, 2024.
+
 (a) *Access to services.* A PACE organization is responsible for providing care that meets the needs of each participant across all care settings, 24 hours a day, every day of the year, and must establish and implement a written plan to ensure that care is appropriately furnished.
 
 (b) *Provision of services.* (1) The PACE organization must furnish comprehensive medical, health, and social services that integrate acute and long-term care. These services must be furnished in accordance with § 460.70(a).

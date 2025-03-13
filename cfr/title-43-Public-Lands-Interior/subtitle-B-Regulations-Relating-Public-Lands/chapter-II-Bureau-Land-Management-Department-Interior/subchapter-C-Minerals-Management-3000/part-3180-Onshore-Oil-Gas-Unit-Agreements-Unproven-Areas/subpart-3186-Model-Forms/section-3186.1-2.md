@@ -1,6 +1,6 @@
 ##### § 3186.1-2 Model Exhibit “B”. #####
 
-Swan Unit Area, Campbell County, Wyoming
+Link to an amendment published at 89 FR 31005, Apr. 23, 2024.
 
 |                      Tract No.                      |                        Description of land                         |No. of acres|Serial No. and expiration date of lease|Basic royalty and ownership percentage|Lessee of record |Overriding royalty and percentage|Working interest and percentage|
 |-----------------------------------------------------|--------------------------------------------------------------------|------------|---------------------------------------|--------------------------------------|-----------------|---------------------------------|-------------------------------|

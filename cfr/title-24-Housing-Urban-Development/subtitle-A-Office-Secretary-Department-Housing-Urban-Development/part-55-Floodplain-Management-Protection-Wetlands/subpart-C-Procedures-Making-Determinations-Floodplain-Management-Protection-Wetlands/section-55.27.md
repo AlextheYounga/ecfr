@@ -1,5 +1,7 @@
 ##### § 55.27 Documentation. #####
 
+Link to an amendment published at 89 FR 30913, Apr. 23, 2024.
+
 (a) For purposes of compliance with § 55.20, the responsible HUD official who would approve the proposed action (or Certifying Officer for a responsible entity authorized by 24 CFR part 58) shall require that the following actions be documented:
 
 (1) When required by § 55.20(c), practicable alternative sites have been considered outside the floodplain or wetland, but within the local housing market area, the local public utility service area, or the jurisdictional boundaries of a recipient unit of general local government, whichever geographic area is most appropriate to the proposed action. Actual sites under review must be identified and the reasons for the nonselection of those sites as practicable alternatives must be described; and

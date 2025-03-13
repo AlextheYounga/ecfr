@@ -1,5 +1,7 @@
 ##### § 422.137 Medicare Advantage Utilization Management Committee. #####
 
+Link to an amendment published at 89 FR 30820, Apr. 23, 2024.
+
 (a) *General.* An MA organization that uses utilization management (UM) policies and procedures, including prior authorization (PA), must establish a UM committee that is led by a plan's medical director (described in § 422.562(a)(4)).
 
 (b) *Limit on use of UM policies and procedures.* An MA plan may not use any UM policies and procedures for basic or supplemental benefits on or after January 1, 2024 unless those policies and procedures have been reviewed and approved by the UM committee.

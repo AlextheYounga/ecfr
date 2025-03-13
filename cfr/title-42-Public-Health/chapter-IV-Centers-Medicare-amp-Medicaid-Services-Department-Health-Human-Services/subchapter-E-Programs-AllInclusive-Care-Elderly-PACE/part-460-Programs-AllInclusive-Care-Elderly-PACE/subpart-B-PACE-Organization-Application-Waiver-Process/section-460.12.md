@@ -1,5 +1,7 @@
 ##### § 460.12 Application requirements. #####
 
+Link to an amendment published at 89 FR 30843, Apr. 23, 2024.
+
 (a) *Submission of application.* An individual authorized to act for an entity that seeks to become a PACE organization or a PACE organization that seeks to expand its service area and/or add a PACE center site must submit to CMS a complete application in the form and manner specified by CMS that describes how the entity or PACE organization meets all requirements in this part.
 
 (b) *State assurance.* (1) An entity's application to become a PACE organization must include an assurance from the State administering agency of the State in which the program is located indicating that the State considers the entity to be qualified to be a PACE organization and is willing to enter into a PACE program agreement with the entity.

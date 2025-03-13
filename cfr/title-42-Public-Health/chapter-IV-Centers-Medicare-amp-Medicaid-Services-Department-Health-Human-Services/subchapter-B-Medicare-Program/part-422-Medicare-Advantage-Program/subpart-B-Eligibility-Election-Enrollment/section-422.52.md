@@ -1,5 +1,7 @@
 ##### § 422.52 Eligibility to elect an MA plan for special needs individuals. #####
 
+Link to an amendment published at 89 FR 30814, Apr. 23, 2024.
+
 (a) *General rule.* In order to elect a specialized MA plan for a special needs individual (Special Needs MA plan, or SNP), the individual must meet the eligibility requirements specified in this section.
 
 (b) *Basic eligibility requirements.* Except as provided in paragraph (c) of this section, to be eligible to elect an SNP, an individual must:

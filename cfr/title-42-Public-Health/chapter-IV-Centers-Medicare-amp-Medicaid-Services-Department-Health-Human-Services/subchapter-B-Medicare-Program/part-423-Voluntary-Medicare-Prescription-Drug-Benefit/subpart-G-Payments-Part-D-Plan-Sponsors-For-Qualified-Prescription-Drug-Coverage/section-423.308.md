@@ -1,5 +1,7 @@
 ##### § 423.308 Definitions and terminology. #####
 
+Link to an amendment published at 89 FR 30837, Apr. 23, 2024.
+
 For the purposes of this subpart, the following definitions apply—
 
 *Actually paid* means that the costs must be actually incurred by the Part D sponsor and must be net of any direct or indirect remuneration (including discounts, charge backs or rebates, cash discounts, free goods contingent on a purchase agreement, up-front payments, coupons, goods in kind, free or reduced-price services, grants, or other price concessions or similar benefits offered to some or all purchasers) from any source (including manufacturers, pharmacies, enrollees, or any other person) that would serve to decrease the costs incurred under the Part D plan. Direct and indirect remuneration includes discounts, chargebacks or rebates, cash discounts, free goods contingent on a purchase agreement, up-front payments, coupons, goods in kind, free or reduced-price services, grants, or other price concessions or similar benefits from manufacturers, pharmacies or similar entities obtained by an intermediary contracting organization with which the Part D plan sponsor has contracted, regardless of whether the intermediary contracting organization retains all or a portion of the direct and indirect remuneration or passes the entire direct and indirect remuneration to the Part D plan sponsor and regardless of the terms of the contract between the plan sponsor and the intermediary contracting organization.

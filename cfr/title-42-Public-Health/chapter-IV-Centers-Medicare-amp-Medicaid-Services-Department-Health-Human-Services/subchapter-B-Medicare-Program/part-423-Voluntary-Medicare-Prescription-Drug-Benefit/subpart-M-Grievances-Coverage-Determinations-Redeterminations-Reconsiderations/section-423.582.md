@@ -1,5 +1,7 @@
 ##### § 423.582 Request for a standard redetermination. #####
 
+Link to an amendment published at 89 FR 30841, Apr. 23, 2024.
+
 (a) *Method and place for filing a request.* An enrollee or an enrollee's prescribing physician or other prescriber (acting on behalf of the enrollee) must ask for a redetermination by making a written request with the Part D plan sponsor that made the coverage determination or the at-risk determination under a drug management program in accordance with § 423.153(f). The Part D plan sponsor may adopt a policy for accepting oral requests.
 
 (b) *Timeframe for filing a request.* Except as provided in paragraph (c) of this section, a request for a redetermination must be filed within 60 calendar days from the date of the notice of the coverage determination or the at-risk determination under a drug management program in accordance with § 423.153(f).

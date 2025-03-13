@@ -1,5 +1,7 @@
 ##### § 422.74 Disenrollment by the MA organization. #####
 
+Link to an amendment published at 89 FR 30816, Apr. 23, 2024.
+
 (a) *General rule.* Except as provided in paragraphs (b) through (d) of this section, an MA organization may not—
 
 (1) Disenroll an individual from any MA plan it offers; or

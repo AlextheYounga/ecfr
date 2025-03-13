@@ -1,5 +1,7 @@
 ##### § 460.194 Corrective action. #####
 
+Link to an amendment published at 89 FR 30848, Apr. 23, 2024.
+
 (a) A PACE organization must take action to correct deficiencies identified by CMS or the State administering agency through the following:
 
 (1) Ongoing monitoring of the PACE organization.

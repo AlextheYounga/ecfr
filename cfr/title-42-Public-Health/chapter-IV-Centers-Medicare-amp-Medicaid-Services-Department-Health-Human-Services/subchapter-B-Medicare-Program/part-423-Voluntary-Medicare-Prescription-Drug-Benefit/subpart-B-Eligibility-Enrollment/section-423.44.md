@@ -1,5 +1,7 @@
 ##### § 423.44 Involuntary disenrollment from Part D coverage. #####
 
+Link to an amendment published at 89 FR 30831, Apr. 23, 2024.
+
 (a) *General rule.* Except as provided in paragraphs (b) through (d) of this section, a PDP sponsor may not—
 
 (1) Involuntarily disenroll an individual from any PDP it offers; or

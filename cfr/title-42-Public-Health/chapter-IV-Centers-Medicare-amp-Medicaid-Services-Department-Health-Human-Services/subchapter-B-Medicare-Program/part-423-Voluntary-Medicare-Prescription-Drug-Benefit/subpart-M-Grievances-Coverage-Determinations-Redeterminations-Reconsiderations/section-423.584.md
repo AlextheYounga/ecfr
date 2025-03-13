@@ -1,5 +1,7 @@
 ##### § 423.584 Expediting certain redeterminations. #####
 
+Link to an amendment published at 89 FR 30841, Apr. 23, 2024.
+
 (a) *Who may request an expedited redetermination.* An enrollee or an enrollee's prescribing physician or other prescriber may request that a Part D plan sponsor expedite a redetermination that involves the issues specified in § 423.566(b) or an at-risk determination made under a drug management program in accordance with § 423.153(f). (This does not include requests for payment of drugs already furnished.)
 
 (b) *How to make a request.* (1) To ask for an expedited redetermination, an enrollee or a prescribing physician or other prescriber acting on behalf of an enrollee must submit an oral or written request directly to the Part D plan sponsor or, if applicable, to the entity responsible for making the redetermination, as directed by the Part D plan sponsor.

@@ -1,5 +1,7 @@
 ##### § 422.68 Effective dates of coverage and change of coverage. #####
 
+Link to an amendment published at 89 FR 30815, Apr. 23, 2024.
+
 (a) *Initial coverage election period.* An election made during an initial coverage election period as described in § 422.62(a)(1) is effective as follows:
 
 (1) If made prior to the month of entitlement to both Part A and Part B, it is effective as of the first day of the month of entitlement to both Part A and Part B.

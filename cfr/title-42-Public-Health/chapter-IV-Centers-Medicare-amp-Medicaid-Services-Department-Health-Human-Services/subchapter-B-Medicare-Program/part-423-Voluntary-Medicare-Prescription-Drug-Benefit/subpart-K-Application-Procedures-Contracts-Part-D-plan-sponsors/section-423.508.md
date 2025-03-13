@@ -1,5 +1,7 @@
 ##### § 423.508 Modification or termination of contract by mutual consent. #####
 
+Link to an amendment published at 89 FR 30838, Apr. 23, 2024.
+
 (a) *General rule.* A contract may be modified or terminated at any time by written mutual consent. If the PDP sponsor submits a request to end the term of its contract after the deadline provided in § 423.507(a)(2)(i), the contract may be terminated by mutual consent in accordance with paragraphs (b) through (f) of this section. CMS may mutually consent to the contract termination if the contract termination does not negatively affect the administration of the Medicare Part D program.
 
 (b) *Notification of termination.* If the contract is terminated by mutual consent, the Part D plan sponsor must provide notice to its Medicare enrollees and the general public as provided in paragraph (c) of this section.

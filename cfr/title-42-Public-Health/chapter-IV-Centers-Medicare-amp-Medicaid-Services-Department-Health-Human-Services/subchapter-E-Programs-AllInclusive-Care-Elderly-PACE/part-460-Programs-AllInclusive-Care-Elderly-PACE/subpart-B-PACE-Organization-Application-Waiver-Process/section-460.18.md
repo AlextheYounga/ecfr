@@ -1,5 +1,7 @@
 ##### § 460.18 CMS evaluation of applications. #####
 
+Link to an amendment published at 89 FR 30843, Apr. 23, 2024.
+
 CMS evaluates an application on the basis of the following information:
 
 (a) Information contained in the application.

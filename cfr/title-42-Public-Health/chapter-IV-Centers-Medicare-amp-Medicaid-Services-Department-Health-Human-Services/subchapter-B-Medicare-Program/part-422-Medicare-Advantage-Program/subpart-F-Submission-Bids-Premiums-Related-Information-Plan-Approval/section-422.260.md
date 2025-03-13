@@ -1,5 +1,7 @@
 ##### § 422.260 Appeals of quality bonus payment determinations. #####
 
+Link to an amendment published at 89 FR 30822, Apr. 23, 2024.
+
 (a) *Scope.* The provisions of this section pertain to the administrative review process to appeal quality bonus payment status determinations based on section 1853(o) of the Act. Such determinations are made based on the overall rating for MA-PDs and Part C summary rating for MA-only contracts for the contract assigned under subpart D of this part.
 
 (b) *Definitions.* The following definitions apply to this section:

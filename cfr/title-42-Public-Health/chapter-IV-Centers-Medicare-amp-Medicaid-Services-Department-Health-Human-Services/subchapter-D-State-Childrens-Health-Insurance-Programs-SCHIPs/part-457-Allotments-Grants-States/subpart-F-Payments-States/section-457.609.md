@@ -1,7 +1,5 @@
 ##### § 457.609 Process and calculation of State allotments for a fiscal year after FY 2008. #####
 
-Link to an amendment published at 89 FR 13947, Feb. 23, 2024.
-
 (a) *General.* For each of the 50 States and the District of Columbia and for each Commonwealth and Territory with an approved State child health plan, the State allotments for FY 2009 through FY 2015 are determined by CMS as described in paragraphs (b) through (g) of this section. Unless otherwise indicated in this section, the reference to “State” refers to the 50 States and the District of Columbia and the Commonwealths and Territories (American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands).
 
 (b) *Amounts available for allotment.* The total amounts available for allotment for each fiscal year are as follows:
@@ -174,6 +172,6 @@ Link to an amendment published at 89 FR 13947, Feb. 23, 2024.
 
 (3) Subject to paragraph (e) of this section relating to proration, the amount of the allotment of the State or District under this section for such fiscal year shall be increased by the excess amount described in paragraph (g)(2)(i)of this section. A State or District may only obtain an increase under paragraph (g)(2)(ii) of this section for an allotment for FY 2010, FY 2012, or FY 2014.
 
-(h) *CHIP Fiscal Year Allotment Process.* As determined by the Secretary, the CHIP allotments for a fiscal year may be published as Preliminary Allotments or Final Allotments in the Federal Register.
+(h) *CHIP fiscal year allotment process.* The national CHIP allotment and State CHIP allotments will be posted in the Medicaid Budget and Expenditure System/State Children's Health Insurance Program Budget and Expenditure System and at *Medicaid.gov* (or similar successor system or website) as soon as practicable after the allotments have been determined for each Federal fiscal year.
 
-[76 FR 9246, Feb. 17, 2011]
+[76 FR 9246, Feb. 17, 2011, as amended at 89 FR 13947, Feb. 23, 2024]

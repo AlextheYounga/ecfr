@@ -1,5 +1,7 @@
 ##### § 422.4 Types of MA plans. #####
 
+Link to an amendment published at 89 FR 30814, Apr. 23, 2024.
+
 (a) *General rule.* An MA plan may be a coordinated care plan, a combination of an MA MSA plan and a contribution into an MA MSA established in accordance with § 422.262, or an MA private fee-for-service plan.
 
 (1) *A coordinated care plan.* A coordinated care plan is a plan that includes a network of providers that are under contract or arrangement with the organization to deliver the benefit package approved by CMS.

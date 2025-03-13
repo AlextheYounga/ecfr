@@ -1,5 +1,7 @@
 ##### § 423.104 Requirements related to qualified prescription drug coverage. #####
 
+Link to an amendment published at 89 FR 30833, Apr. 23, 2024.
+
 (a) *General.* Subject to the conditions and limitations set forth in this subpart, a Part D sponsor must provide enrollees with coverage of the benefits described in paragraph (c) of this section. The benefits may be provided directly by the Part D sponsor or through arrangements with other entities. CMS reviews and approves these benefits consistent with § 423.272, and using written policy guidelines and requirements in this part and other CMS instructions.
 
 (b) *Availability of prescription drug plan.* A PDP sponsor offering a prescription drug plan must offer the plan—

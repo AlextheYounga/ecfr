@@ -1,5 +1,7 @@
 ##### § 55.26 Adoption of another agency's review under the executive orders. #####
 
+Link to an amendment published at 89 FR 30913, Apr. 23, 2024.
+
 If a proposed action covered under this part is already covered in a prior review performed under either or both of the Executive Orders by another agency, including HUD or a different responsible entity, that review may be adopted by HUD or by a responsible entity authorized under 24 CFR part 58, provided that:
 
 (a) There is no pending litigation relating to the other agency's review for floodplain management or wetland protection;

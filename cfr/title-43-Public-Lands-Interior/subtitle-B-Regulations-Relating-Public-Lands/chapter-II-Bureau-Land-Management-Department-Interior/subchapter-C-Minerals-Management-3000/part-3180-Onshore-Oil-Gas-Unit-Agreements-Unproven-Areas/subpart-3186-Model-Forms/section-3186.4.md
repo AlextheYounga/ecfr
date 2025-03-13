@@ -1,5 +1,7 @@
 ##### § 3186.4 Model for change in unit operator by assignment. #####
 
+Link to an amendment published at 89 FR 31005, Apr. 23, 2024.
+
 Change in Unit Operator \_\_\_\_\_\_ Unit Area, County of \_\_\_\_\_\_\_\_\_\_\_\_, State of \_\_\_\_\_\_\_\_\_\_\_\_\_\_, No. \_\_. This indenture, dated as of the \_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_, by and between \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ hereinafter designated as “First Party,” and \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ hereinafter designated as “Second Party.”
 
 Witnesseth: Whereas under the provisions of the Act of February 25, 1920, 41 Stat. 437 30 U.S.C. secs. 181, *et seq.,* as amended by the Act of August 8, 1946, 60 Stat. 950, the Department of the Interior, on the \_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_, approved a unit agreement for the \_\_\_\_\_\_ Unit Area, wherein the First Party is designated as Unit Operator; and

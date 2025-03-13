@@ -1,5 +1,7 @@
 ##### § 55.12 Inapplicability of 24 CFR part 55 to certain categories of proposed actions. #####
 
+Link to an amendment published at 89 FR 30908, Apr. 23, 2024.
+
 (a) The decisionmaking steps in § 55.20(b), (c), and (g) (steps 2, 3, and 7) do not apply to the following categories of proposed actions:
 
 (1) HUD's or the recipient's actions involving the disposition of acquired multifamily housing projects or “bulk sales” of HUD-acquired (or under part 58 of recipients') one- to four-family properties in communities that are in the Regular Program of National Flood Insurance Program and in good standing (i.e., not suspended from program eligibility or placed on probation under 44 CFR 59.24). For programs subject to part 58, this paragraph applies only to recipients' disposition activities that are subject to review under part 58.

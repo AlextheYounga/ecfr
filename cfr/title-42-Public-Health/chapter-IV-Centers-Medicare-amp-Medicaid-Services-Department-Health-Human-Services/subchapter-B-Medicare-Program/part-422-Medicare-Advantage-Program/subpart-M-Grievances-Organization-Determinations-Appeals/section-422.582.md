@@ -1,5 +1,7 @@
 ##### § 422.582 Request for a standard reconsideration. #####
 
+Link to an amendment published at 89 FR 30827, Apr. 23, 2024.
+
 (a) *Method and place for filing a request.* A party to an organization determination or, upon providing notice to the enrollee, a physician who is treating an enrollee and acting on the enrollee's behalf, must ask for a reconsideration of the determination by making a written request to the MA organization that made the organization determination. The MA organization may adopt a policy for accepting oral requests.
 
 (b) *Timeframe for filing a request.* Except as provided in paragraph (c) of this section, a request for reconsideration must be filed within 60 calendar days from the date of the notice of the organization determination.

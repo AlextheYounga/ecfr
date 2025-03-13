@@ -1,5 +1,7 @@
 ##### § 55.3 Assignment of responsibilities. #####
 
+Link to an amendment published at 89 FR 30905, Apr. 23, 2024.
+
 (a)(1) *The Assistant Secretary for Community Planning and Development (CPD)* shall oversee:
 
 (i) The Department's implementation of Executive Orders 11988 and 11990 and this part in all HUD programs; and

@@ -1,5 +1,7 @@
 ##### § 55.28 Use of individual permits under section 404 of the Clean Water Act for HUD Executive Order 11990 processing where all wetlands are covered by the permit. #####
 
+Link to an amendment published at 89 FR 30913, Apr. 23, 2024.
+
 (a) *Processing requirements.* HUD (or the responsible entity subject to 24 CFR part 58) shall not be required to perform the steps at § 55.20(a) through (e) upon adoption by HUD (or the responsible entity) of the terms and conditions of a Section 404 permit so long as:
 
 (1) The project involves new construction on a property located outside of the 100-year floodplain (or the 500-year floodplain for critical actions);

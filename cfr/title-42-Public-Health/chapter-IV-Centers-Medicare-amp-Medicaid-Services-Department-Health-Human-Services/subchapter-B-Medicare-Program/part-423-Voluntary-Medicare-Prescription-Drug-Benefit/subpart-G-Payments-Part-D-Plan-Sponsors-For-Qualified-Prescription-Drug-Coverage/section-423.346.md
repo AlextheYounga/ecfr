@@ -1,5 +1,7 @@
 ##### § 423.346 Reopening. #####
 
+Link to an amendment published at 89 FR 30837, Apr. 23, 2024.
+
 (a) CMS may reopen and revise an initial or reconsidered final payment determination (including a determination on the final amount of direct subsidy described in § 423.329(a)(1), final reinsurance payments described in § 423.329(c), the final amount of the low income subsidy described in § 423.329(d), or final risk corridor payments as described in § 423.336) or the Coverage Gap Discount Reconciliation (as described at § 423.2320(b))—
 
 (1) For any reason, within 12 months from the date of the notice of the final determination to the Part D sponsor

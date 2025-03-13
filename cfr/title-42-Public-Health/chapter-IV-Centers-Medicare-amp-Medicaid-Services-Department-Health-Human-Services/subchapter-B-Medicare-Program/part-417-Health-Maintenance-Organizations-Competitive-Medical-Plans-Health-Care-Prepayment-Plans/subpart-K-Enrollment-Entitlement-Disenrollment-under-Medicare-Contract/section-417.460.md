@@ -1,5 +1,7 @@
 ##### § 417.460 Disenrollment of beneficiaries by an HMO or CMP. #####
 
+Link to an amendment published at 89 FR 30812, Apr. 23, 2024.
+
 (a) *General rule.* Except as provided in paragraphs (b) through (i) of this section, an HMO or CMP may not—
 
 (1) Disenroll a Medicare beneficiary; or

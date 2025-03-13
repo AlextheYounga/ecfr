@@ -1,5 +1,7 @@
 ##### § 50.20 Categorical exclusions subject to the Federal laws and authorities cited in § 50.4. #####
 
+Link to an amendment published at 89 FR 30903, Apr. 23, 2024.
+
 (a) The following actions, activities, and programs are categorically excluded from the NEPA requirements for further review in an Environmental Assessment or an Environmental Impact Statement as set forth in this part. They are not excluded from individual compliance requirements of other environmental statutes, Executive orders, and HUD standards cited in § 50.4, where appropriate. Where the responsible official determines that any proposed action identified below may have an environmental effect because of extraordinary circumstances (40 CFR 1508.4), the requirements for further review under NEPA shall apply (see paragraph (b) of this section).
 
 (1) Special projects directed to the removal of material and architectural barriers that restrict the mobility of and accessibility to elderly and persons with disabilities.

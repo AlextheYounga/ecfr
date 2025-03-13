@@ -1,5 +1,7 @@
 ##### § 423.153 Drug utilization management, quality assurance, medication therapy management programs (MTMPs), drug management programs, and access to Medicare Parts A and B claims data extracts. #####
 
+Link to an amendment published at 89 FR 30834, Apr. 23, 2024.
+
 (a) *General rule.* Each Part D sponsor must have established, for covered Part D drugs furnished through a Part D plan, a drug utilization management program, quality assurance measures and systems, and an MTMP as described in paragraphs (b), (c), and (d) of this section. No later than January 1, 2022, a Part D plan sponsor must have established a drug management program for at-risk beneficiaries enrolled in their prescription drug benefit plans to address overutilization of frequently abused drugs, as described in paragraph (f) of this section.
 
 (b) *Drug utilization management.* A Part D sponsor must have established a reasonable and appropriate drug utilization management program that address all of the following:

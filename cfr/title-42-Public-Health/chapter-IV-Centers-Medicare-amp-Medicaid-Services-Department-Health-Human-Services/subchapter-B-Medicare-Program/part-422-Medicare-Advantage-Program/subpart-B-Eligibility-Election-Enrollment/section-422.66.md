@@ -1,5 +1,7 @@
 ##### § 422.66 Coordination of enrollment and disenrollment through MA organizations. #####
 
+Link to an amendment published at 89 FR 30815, Apr. 23, 2024.
+
 (a) *Enrollment.* An individual who wishes to elect an MA plan offered by an MA organization may make or change his or her election during the election periods specified in § 422.62 by filing the appropriate election form with the organization or through other mechanisms as determined by CMS.
 
 (b) *Disenrollment*—(1) *Basic rule.* An individual who wishes to disenroll from an MA plan may change his or her election during the election periods specified in § 422.62 in either of the following manners:

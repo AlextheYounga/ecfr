@@ -1,5 +1,7 @@
 ##### § 422.500 Scope and definitions. #####
 
+Link to an amendment published at 89 FR 30823, Apr. 23, 2024.
+
 (a) *Scope.* This subpart sets forth application requirements for entities seeking a contract as a Medicare organization offering an MA plan, including MA organizations offering a specialized MA plan for special needs individuals. MA organizations offering prescription drug plans must, in addition to the requirements of this part, follow the requirements of part 423 of this chapter specifically related to the prescription drug benefit.
 
 (b) *Definitions.* For purposes of this subpart, the following definitions apply:

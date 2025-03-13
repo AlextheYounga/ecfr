@@ -1,5 +1,7 @@
 ##### § 3137.61 How do I change unit operators? #####
 
+Link to an amendment published at 89 FR 30987, Apr. 23, 2024.
+
 (a) To change unit operators, the new unit operator must submit to BLM—
 
 (1) Statements that—

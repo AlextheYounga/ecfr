@@ -1,5 +1,7 @@
 ##### § 460.120 Grievance process. #####
 
+Link to an amendment published at 89 FR 30847, Apr. 23, 2024.
+
 For purposes of this part, a grievance is a complaint, either written or oral, expressing dissatisfaction with service delivery or the quality of care furnished.
 
 (a) *Process to resolve grievances.* A PACE organization must have a formal written process to evaluate and resolve medical and nonmedical grievances by participants, their family members, or representatives.

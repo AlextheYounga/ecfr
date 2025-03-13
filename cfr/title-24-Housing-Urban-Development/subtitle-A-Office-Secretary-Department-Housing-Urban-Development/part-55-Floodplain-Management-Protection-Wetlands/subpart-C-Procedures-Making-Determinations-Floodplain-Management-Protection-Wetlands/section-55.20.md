@@ -1,5 +1,7 @@
 ##### § 55.20 Decision making process. #####
 
+Link to an amendment published at 89 FR 30910, Apr. 23, 2024.
+
 Except for actions covered by § 55.12(a), the decisionmaking process for compliance with this part contains eight steps, including public notices and an examination of practicable alternatives when addressing floodplains and wetlands. The steps to be followed in the decisionmaking process are as follows:
 
 (a) *Step 1.* Determine whether the proposed action is located in the 100-year floodplain (500-year floodplain for critical actions) or results in new construction in a wetland. If the action does not occur in a floodplain or result in new construction in a wetland, then no further compliance with this part is required. The following process shall be followed by HUD (or the responsible entity) in making wetland determinations.

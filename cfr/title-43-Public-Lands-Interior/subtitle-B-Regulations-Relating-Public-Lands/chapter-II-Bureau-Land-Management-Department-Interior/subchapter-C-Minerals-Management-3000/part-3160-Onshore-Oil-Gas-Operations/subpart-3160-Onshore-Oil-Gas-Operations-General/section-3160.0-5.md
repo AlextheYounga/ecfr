@@ -1,5 +1,7 @@
 ##### § 3160.0-5 Definitions. #####
 
+Link to an amendment published at 89 FR 30995, Apr. 23, 2024.
+
 As used in this part, the term:
 
 *Authorized representative* means any entity or individual authorized by the Secretary to perform duties by cooperative agreement, delegation or contract.

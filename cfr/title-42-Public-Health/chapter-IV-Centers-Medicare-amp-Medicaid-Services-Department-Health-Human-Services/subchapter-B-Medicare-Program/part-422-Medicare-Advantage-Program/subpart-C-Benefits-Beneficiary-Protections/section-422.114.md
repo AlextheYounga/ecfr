@@ -1,5 +1,7 @@
 ##### § 422.114 Access to services under an MA private fee-for-service plan. #####
 
+Link to an amendment published at 89 FR 30819, Apr. 23, 2024.
+
 (a) *Sufficient access.* (1) An MA organization that offers an MA private fee-for-service plan must demonstrate to CMS that it has sufficient number and range of providers willing to furnish services under the plan.
 
 (2) Subject to paragraphs (a)(3) and (a)(4) of this section, CMS finds that an MA organization meets the requirement in paragraph (a)(1) of this section if, with respect to a particular category of health care providers, the MA organization has—

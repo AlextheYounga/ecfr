@@ -1,5 +1,7 @@
 ##### § 50.4 Related Federal laws and authorities. #####
 
+Link to an amendment published at 89 FR 30903, Apr. 23, 2024.
+
 HUD and/or applicants must comply, where applicable, with all environmental requirements, guidelines and statutory obligations under the following authorities and HUD standards:
 
 (a) *Historic properties.* (1) The National Historic Preservation Act of 1966 (16 U.S.C. 470 *et seq.*), as amended.

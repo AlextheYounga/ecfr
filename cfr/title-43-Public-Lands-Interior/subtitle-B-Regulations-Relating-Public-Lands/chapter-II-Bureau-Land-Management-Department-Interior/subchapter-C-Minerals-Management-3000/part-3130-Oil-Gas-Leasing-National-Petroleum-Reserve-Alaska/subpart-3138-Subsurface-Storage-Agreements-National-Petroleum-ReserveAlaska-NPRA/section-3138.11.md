@@ -1,5 +1,7 @@
 ##### § 3138.11 How do I apply for a subsurface storage agreement? #####
 
+Link to an amendment published at 89 FR 30987, Apr. 23, 2024.
+
 (a) You must submit an application to BLM for a subsurface storage agreement that includes—
 
 (1) The reason for forming a subsurface storage agreement;

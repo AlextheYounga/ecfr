@@ -1,7 +1,5 @@
 ##### § 447.294 Medicaid disproportionate share hospital (DSH) allotment reductions. #####
 
-Link to an amendment published at 89 FR 13945, Feb. 23, 2024.
-
 (a) *Basis and purpose.* This section sets forth the DSH health reform methodology (DHRM) for calculating State-specific annual DSH allotment reductions as required under section 1923(f) of the Act.
 
 (b) *Definitions.* For purposes of this section—
@@ -120,11 +118,11 @@ Link to an amendment published at 89 FR 13945, Feb. 23, 2024.
 
 (11) *HUF application and reduction amount.* CMS will determine the HUF portion of the final aggregate DSH allotment reduction allocation by multiplying each State's HUF by the aggregate DSH allotment reduction allocated to the HUF factor under paragraph (e)(5) of this section for the respective State group.
 
-(12) *Section 1115 budget neutrality factor (BNF) calculation.* This factor is only calculated for States for which all or a portion of the DSH allotment was included in the calculation of budget neutrality under a section 1115 demonstration for the specific fiscal year subject to reduction pursuant to an approval on or before July 31, 2009. CMS will calculate the BNF for qualifying states by the following:
+(12) *Section 1115 budget neutrality factor (BNF) calculation.* This factor is only calculated for States for which all or a portion of the DSH allotment was included in the calculation of budget neutrality under a section 1115 demonstration in accordance with an approval on or before July 31, 2009. CMS will calculate the BNF for qualifying States by the following:
 
-(i) For States whose DSH allotment was included in the budget neutrality calculation for a coverage expansion that was approved under section 1115 as of July 31, 2009, (without regard to approved amendments since that date) determining the amount of the State's DSH allotment included in the budget neutrality calculation for coverage expansion for the specific fiscal year subject to reduction. This amount is not subject to reductions under the HMF and HUF calculations.
+(i) For States in which the State's DSH allotment was included in the budget neutrality calculation for a coverage expansion that was approved under section 1115 as of July 31, 2009, determining the amount of the State's DSH allotment included in the budget neutrality calculation for coverage expansion. This amount is not subject to reductions under the HMF and HUF calculations. DSH allotment amounts included in the budget neutrality calculation for purposes other than coverage expansion for a demonstration project under section 1115 that was approved as of July 31, 2009, are subject to reduction as specified in paragraphs (e)(12)(ii) through (iv) of this section. For States whose DSH allotment was included in the budget neutrality calculation for a demonstration project that was approved under section 1115 after July 31, 2009, whether for coverage expansion or otherwise, the entire DSH allotment amount that was included in the budget neutrality calculation is subject to reduction as specified in paragraphs (e)(12)(ii) through (iv) of this section.
 
-(ii) Determining the amount of the State's DSH allotment included in the budget neutrality calculation for non-coverage expansion purposes for the specific fiscal year subject to reduction.
+(ii) Determining the amount of the State's DSH allotment included in the budget neutrality calculation subject to reduction. The amount to be assigned reductions under paragraphs (e)(12)(iii) and (iv) of this section is the total of each State's DSH allotment diverted under an approved 1115 demonstration during the period that aligns with the associated State plan rate year DSH audit utilized in the DSH allotment reductions.
 
 (iii) Multiplying each qualifying State's value of paragraph (e)(12)(ii) of this section by the mean HMF reduction percentage for the respective State group.
 
@@ -146,4 +144,4 @@ Link to an amendment published at 89 FR 13945, Feb. 23, 2024.
 
 (f) *Annual DSH allotment reduction application.* For each fiscal year identified in section 1923(f)(7)(A)(ii) of the Act, CMS will subtract the State-specific DSH allotment amount determined in paragraph (e)(14) of this section from that State's final unreduced DSH allotment. This amount is the State's final DSH allotment for the fiscal year.
 
-[78 FR 57311, Sept. 18, 2013, as amended at 84 FR 50332, Sept. 25, 2019]
+[78 FR 57311, Sept. 18, 2013, as amended at 84 FR 50332, Sept. 25, 2019; 89 FR 13945, Feb. 23, 2024]

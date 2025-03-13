@@ -1,5 +1,7 @@
 ##### § 422.101 Requirements relating to basic benefits. #####
 
+Link to an amendment published at 89 FR 30817, Apr. 23, 2024.
+
 Except as specified in § 422.318 (for entitlement that begins or ends during a hospital stay) and § 422.320 (with respect to hospice care), each MA organization must meet the following requirements:
 
 (a) Provide coverage of, by furnishing, arranging for, or making payment for, all services that are covered by Part A and Part B of Medicare (if the enrollee is entitled to benefits under both parts) or by Medicare Part B (if entitled only under Part B) and that are available to beneficiaries residing in the plan's service area. Services may be provided outside of the service area of the plan if the services are accessible and available to enrollees.

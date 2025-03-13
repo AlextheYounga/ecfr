@@ -1,5 +1,7 @@
 ##### § 55.2 Terminology. #####
 
+Link to an amendment published at 89 FR 30904, Apr. 23, 2024.
+
 (a) With the exception of those terms defined in paragraph (b) of this section, the terms used in this part shall follow the definitions contained in section 6 of Executive Order 11988, section 7 of Executive Order 11990, and the Floodplain Management Guidelines for Implementing Executive Order 11988 (43 FR 6030, February 10, 1978), issued by the Water Resources Council; the terms “special flood hazard area,” “criteria,” and “Regular Program” shall follow the definitions contained in FEMA regulations at 44 CFR 59.1; and the terms “Letter of Map Revision” and “Letter of Map Amendment” shall refer to letters issued by FEMA, as provided in 44 CFR part 65 and 44 CFR part 70, respectively.
 
 (b) For purposes of this part, the following definitions apply:

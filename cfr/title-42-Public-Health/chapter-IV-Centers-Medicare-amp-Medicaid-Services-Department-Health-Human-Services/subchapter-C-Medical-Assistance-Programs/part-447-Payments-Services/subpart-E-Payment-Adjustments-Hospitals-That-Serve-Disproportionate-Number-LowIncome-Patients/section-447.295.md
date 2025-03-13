@@ -1,7 +1,5 @@
 ##### § 447.295 Hospital-specific disproportionate share hospital payment limit: Determination of individuals without health insurance or other third party coverage. #####
 
-Link to an amendment published at 89 FR 13945, Feb. 23, 2024.
-
 (a) *Basis and purpose.* This section sets forth the methodology for determining the costs for individuals who have no health insurance or other source of third party coverage for services furnished during the year for purposes of calculating the hospital-specific disproportionate share hospital payment limit under section 1923(g) of the Act.
 
 (b) *Definitions.*
@@ -9,6 +7,12 @@ Link to an amendment published at 89 FR 13945, Feb. 23, 2024.
 *Health insurance coverage limit* means a limit imposed by a third party payer that establishes a maximum dollar value or maximum number of specific services, for benefits received by an individual.
 
 *Individuals who have no health insurance (or other source of third party coverage) for the services furnished during the year* means individuals who have no source of third party coverage for the specific inpatient hospital or outpatient hospital service furnished by the hospital.
+
+*97th percentile hospital* means a hospital that is in at least the 97th percentile of all hospitals nationwide with respect to the hospital's number of inpatient days or the hospital's percentage of total inpatient days, for the hospital's most recent cost reporting period, made up of patients who were entitled to benefits under part A of title XVIII and supplemental security income benefits under title XVI (excluding any State supplementary benefits paid).
+
+(i) CMS will identify the 97th percentile hospitals, for each Medicaid State plan rate year beginning on or after October 1, 2021, using Medicare cost reporting and claims data sources, as well as supplemental security income eligibility data provided by the Social Security Administration.
+
+(ii) CMS will publish lists identifying each 97th percentile hospital annually in advance of October 1 of each year. CMS will revise a published list only to correct a mathematical or other similar technical error that is identified to CMS during the one-year period beginning on the date the list is published.
 
 *No source of third party coverage for a specific inpatient hospital or outpatient hospital service* means that the service is not included in an individual's health benefits coverage through a group health plan or health insurer, and for which there is no other legally liable third party. When a health insurance coverage limit is imposed by a third party payer, specific services beyond the limit would not be within the individual's health benefit package from that third party payer. For American Indians/Alaska Natives, IHS and tribal coverage is only considered third party coverage when services are received directly from IHS or tribal health programs (direct health care services) or when IHS or a tribal health program has authorized coverage through the contract health service program (through a purchase order or equivalent document). Administrative denials of payment, or requirements for satisfaction of deductible, copayment or coinsurance liability, do not affect the determination that a specific service is included in the health benefits coverage.
 
@@ -18,6 +22,10 @@ Link to an amendment published at 89 FR 13945, Feb. 23, 2024.
 
 (2) Individuals who are inmates in a public institution or are otherwise involuntarily in secure custody as a result of criminal charges are considered to have a source of third party coverage.
 
-(d) *Hospital-specific DSH limit calculation.* Only costs incurred in providing inpatient hospital and outpatient hospital services to Medicaid individuals, and revenues received with respect to those services, and costs incurred in providing inpatient hospital and outpatient hospital services, and revenues received with respect to those services, for which a determination has been made in accordance with paragraph (c) of this section that the services were furnished to individuals who have no source of third party coverage for the specific inpatient hospital or outpatient hospital service are included when calculating the costs and revenues for Medicaid individuals and individuals who have no health insurance or other source of third party coverage for purposes of section 1923(g)(1) of the Act.
+(d) *Hospital-specific DSH limit calculation.* (1) For each State's Medicaid State plan rate years beginning prior to October 1, 2021 and subject to paragraph (d)(3) of this section, only costs incurred in providing inpatient hospital and outpatient hospital services to Medicaid individuals, and revenues received with respect to those services, and costs incurred in providing inpatient hospital and outpatient hospital services, and revenues received with respect to those services, for which a determination has been made in accordance with paragraph (c) of this section that the services were furnished to individuals who have no source of third-party coverage for the specific inpatient hospital or outpatient hospital service are included when calculating the costs and revenues for Medicaid individuals and individuals who have no health insurance or other source of third-party coverage for purposes of section 1923(g)(1) of the Act.
 
-[79 FR 71694, Dec. 3, 2014]
+(2) For each State's first Medicaid State plan rate year beginning on or after October 1, 2021, and thereafter, subject to paragraph (d)(3) of this section, only costs incurred in providing inpatient hospital and outpatient hospital services to Medicaid individuals when Medicaid is the primary payer for such services, and revenues received with respect to those services, and costs incurred in providing inpatient hospital and outpatient hospital services, and revenues received with respect to those services, for which a determination has been made in accordance with paragraph (c) of this section that the services were furnished to individuals who have no source of third-party coverage for the specific inpatient hospital or outpatient hospital service are included when calculating the costs and revenues for Medicaid individuals and individuals who have no health insurance or other source of third-party coverage for purposes of section 1923(g)(1) of the Act.
+
+(3) Effective for each State's first Medicaid State plan rate year beginning on or after October 1, 2021, and thereafter, the hospital-specific DSH limit for a 97th percentile hospital defined in paragraph (b) of this section is the higher of the values from the calculations described in paragraphs (d)(1) and (2) of this section.
+
+[79 FR 71694, Dec. 3, 2014, as amended at 89 FR 13945, Feb. 23, 2024]

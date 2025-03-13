@@ -1,5 +1,7 @@
 ##### § 422.311 RADV audit dispute and appeal processes. #####
 
+Link to an amendment published at 89 FR 30822, Apr. 23, 2024.
+
 (a) *Risk adjustment data validation (RADV) audits.* In accordance with §§ 422.2 and 422.310(e), the Secretary annually conducts RADV audits to ensure risk-adjusted payment integrity and accuracy.
 
 (1) Recovery of improper payments from MA organizations will be conducted in accordance with the Secretary's payment error extrapolation and recovery methodologies.

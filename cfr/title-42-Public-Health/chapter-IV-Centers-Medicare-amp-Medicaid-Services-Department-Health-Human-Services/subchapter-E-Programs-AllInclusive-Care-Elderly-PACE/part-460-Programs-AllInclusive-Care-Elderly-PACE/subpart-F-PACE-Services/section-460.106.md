@@ -1,5 +1,7 @@
 ##### § 460.106 Plan of care. #####
 
+Link to an amendment published at 89 FR 30845, Apr. 23, 2024.
+
 (a) *Basic requirement.* Within 30 days of the date of enrollment, the interdisciplinary team members specified in § 460.104(a)(2) must develop a comprehensive plan of care for each participant based on the initial comprehensive assessment findings.
 
 (b) *Content of plan of care.* The plan of care must meet the following requirements:

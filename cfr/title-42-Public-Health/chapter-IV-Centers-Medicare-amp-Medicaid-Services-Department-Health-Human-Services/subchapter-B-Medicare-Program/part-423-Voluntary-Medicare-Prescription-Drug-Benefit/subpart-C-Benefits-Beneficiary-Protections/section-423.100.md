@@ -1,5 +1,7 @@
 ##### § 423.100 Definitions. #####
 
+Link to an amendment published at 89 FR 30832, Apr. 23, 2024.
+
 As used in this part, unless otherwise specified-
 
 *Actual cost* means the negotiated price for a covered Part D drug when the drug is purchased at a network pharmacy, and the usual and customary price when a beneficiary purchases the drug at an out-of-network pharmacy consistent with § 423.124(a).
@@ -292,4 +294,4 @@ As used in this part, unless otherwise specified-
 
 *Valid prescription* means a prescription that complies with all applicable State law requirements constituting a valid prescription.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 1543, Jan. 12, 2009; 76 FR 21571, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 77 FR 32407, June 1, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16737, Apr. 16, 2018; 84 FR 15840, Apr. 16, 2019; 86 FR 6115, Jan. 19, 2021; 87 FR 27899, May 9, 2022; 87 FR 27899, Jan. 1, 2024]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 1543, Jan. 12, 2009; 76 FR 21571, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 77 FR 32407, June 1, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16737, Apr. 16, 2018; 84 FR 15840, Apr. 16, 2019; 86 FR 6115, Jan. 19, 2021; 87 FR 27899, May 9, 2022]

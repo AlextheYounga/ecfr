@@ -1,0 +1,3 @@
+##### § 1091.402 Time limits. #####
+
+In computing any period of time prescribed by this part, or by order of the Director, the date of the act or event that commences the designated period of time is not included. The last day so computed is included unless it is a Saturday, Sunday, or Federal holiday as set forth in 5 U.S.C. 6103(a). When the last day is a Saturday, Sunday, or Federal holiday, the period runs until the end of the next day that is not a Saturday, Sunday, or Federal holiday. Intermediate Saturdays, Sundays, and Federal holidays are included in the computation of time, except when the time period within which an act is to be performed is ten days or less. Changes to time limits are addressed in § 1091.404.

@@ -1,5 +1,7 @@
 ##### § 55.11 Applicability of Subpart C decisionmaking process. #####
 
+Link to an amendment published at 89 FR 30908, Apr. 23, 2024.
+
 (a) Before reaching the decision points described in § 55.10(a), HUD (for Department-administered programs) or the responsible entity (for HUD financial assistance subject to 24 CFR part 58) shall determine whether Executive Order 11988, Executive Order 11990, and this part apply to the proposed action.
 
 (b) If Executive Order 11988 or Executive Order 11990 and this part apply, the approval of a proposed action or initial commitment shall be made in accordance with this part. The primary purpose of Executive Order 11988 is “to avoid to the extent possible the long and short term adverse impacts associated with the occupancy and modification of floodplains and to avoid direct or indirect support of floodplain development wherever there is a practicable alternative.” The primary purpose of Executive Order 11990 is “to avoid to the extent possible the long and short-term adverse impacts associated with the destruction or modification of wetlands and to avoid direct or indirect support of new construction in wetlands wherever there is a practicable alternative.”

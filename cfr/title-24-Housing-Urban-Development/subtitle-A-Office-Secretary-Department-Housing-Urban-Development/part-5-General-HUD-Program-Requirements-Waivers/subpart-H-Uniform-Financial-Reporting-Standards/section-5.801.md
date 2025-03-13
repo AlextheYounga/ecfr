@@ -1,5 +1,7 @@
 ##### § 5.801 Uniform financial reporting standards. #####
 
+Link to an amendment published at 89 FR 30276, Apr. 23, 2024.
+
 (a) *Applicability.* This subpart H implements uniform financial reporting standards for:
 
 (1) Public housing agencies (PHAs) receiving assistance under sections 5, 9, or 14 of the 1937 Act (42 U.S.C. 1437c, 1437g, and 1437*l*) (Public Housing);

@@ -1,5 +1,7 @@
 ##### § 422.530 Plan crosswalks. #####
 
+Link to an amendment published at 89 FR 30826, Apr. 23, 2024.
+
 (a) *General rules*—(1) *Definition of crosswalk.* A crosswalk is the movement of enrollees from one plan (or plan benefit package (PBP)) to another plan (or PBP) under a contract between the MA organization and CMS. To crosswalk enrollees from one PBP to another is to change the enrollment from the first PBP to the second.
 
 (2) *Prohibitions.* Except as described in paragraph (c) of this section, crosswalks are prohibited between different contracts or different plan types (for example, HMO to PPO).

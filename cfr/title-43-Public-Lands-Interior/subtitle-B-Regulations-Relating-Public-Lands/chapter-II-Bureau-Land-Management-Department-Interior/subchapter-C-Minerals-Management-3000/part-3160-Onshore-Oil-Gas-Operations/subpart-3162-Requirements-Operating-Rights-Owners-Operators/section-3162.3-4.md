@@ -1,5 +1,7 @@
 ##### § 3162.3-4 Well abandonment. #####
 
+Link to an amendment published at 89 FR 30996, Apr. 23, 2024.
+
 (a) The operator shall promptly plug and abandon, in accordance with a plan first approved in writing or prescribed by the authorized officer, each newly completed or recompleted well in which oil or gas is not encountered in paying quantities or which, after being completed as a producing well, is demonstrated to the satisfaction of the authorized officer to be no longer capable of producing oil or gas in paying quantities, unless the authorized officer shall approve the use of the well as a service well for injection to recover additional oil or gas or for subsurface disposal of produced water. In the case of a newly drilled or recompleted well, the approval to abandon may be written or oral with written confirmation.
 
 (b) Completion of a well as plugged and abandoned may also include conditioning the well as water supply source for lease operations or for use by the surface owner or appropriate Government Agency, when authorized by the authorized officer. All costs over and above the normal plugging and abandonment expense will be paid by the party accepting the water well.

@@ -1,5 +1,7 @@
 ##### § 58.59 Public hearings and meetings. #####
 
+Link to an amendment published at 89 FR 30913, Apr. 23, 2024.
+
 (a) *Factors to consider.* In determining whether or not to hold public hearings in accordance with 40 CFR 1506.6, the responsible entity must consider the following factors:
 
 (1) The magnitude of the project in terms of economic costs, the geographic area involved, and the uniqueness or size of commitment of resources involved.

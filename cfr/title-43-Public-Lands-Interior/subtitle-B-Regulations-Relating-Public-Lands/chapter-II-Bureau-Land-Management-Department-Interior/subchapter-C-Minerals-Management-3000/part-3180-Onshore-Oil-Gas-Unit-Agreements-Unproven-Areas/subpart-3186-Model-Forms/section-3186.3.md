@@ -1,5 +1,7 @@
 ##### § 3186.3 Model for designation of successor unit operator by working interest owners. #####
 
+Link to an amendment published at 89 FR 31005, Apr. 23, 2024.
+
 Designation of successor Unit Operator \_\_\_\_\_\_ Unit Area, County of \_\_\_\_\_\_, State of \_\_\_\_\_\_. No. \_\_\_\_\_\_.
 
 This indenture, dated as of the \_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_, by and between \_\_\_\_\_\_\_\_\_\_\_\_\_\_, hereinafter designated as “First Party,” and the owners of unitized working interests, hereinafter designated as “Second Parties,”

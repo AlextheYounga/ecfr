@@ -1,6 +1,6 @@
 ##### § 3186.2 Model collective bond. #####
 
-Collective Corporate Surety Bond
+Link to an amendment published at 89 FR 31005, Apr. 23, 2024.Collective Corporate Surety Bond
 
 Know all men by these presents. That we, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name of unit operator), signing as Principal, for and on behalf of the record owners of unitized substances now or hereafter covered by the unit agreement for the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name of unit), approved \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Date) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name and address of Surety), as Surety are jointly and severally held and firmly bound unto the United States of America in the sum of \_\_\_\_\_\_ (Amount of bond) Dollars, lawful money of the United States, for the use and benefit of and to be paid to the United States and any entryman or patentee of any portion of the unitized land here-to-fore entered or patented with the reservation of the oil or gas deposits to the United States, for which payment, well and truly to be made, we bind ourselves, and each of us, and each of our heirs, executors, administrators, successors, and assigns by these presents.
 

@@ -1,5 +1,7 @@
 ##### § 423.165 Compliance deemed on the basis of accreditation. #####
 
+Link to an amendment published at 89 FR 30835, Apr. 23, 2024.
+
 (a) *General rule.* A Part D sponsor is deemed to meet all of the requirements of any of the areas described in paragraph (b) of this section if—
 
 (1) The Part D sponsor is fully accredited (and periodically reaccredited) for the standards related to the applicable area under paragraph (b) of this section by a private, national accreditation organization approved by CMS; and

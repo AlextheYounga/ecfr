@@ -1,5 +1,7 @@
 ##### § 423.551 General provisions. #####
 
+Link to an amendment published at 89 FR 30840, Apr. 23, 2024.
+
 (a) *Change of ownership.* The following constitute a change of ownership:
 
 (1) *Partnership.* The removal, addition, or substitution of a partner, unless the partners expressly agree otherwise as permitted by applicable State law, constitutes a change of ownership.

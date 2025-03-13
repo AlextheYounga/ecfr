@@ -1,5 +1,7 @@
 ##### § 62.12 Control of Forms DS-2019. #####
 
+Link to an amendment published at 89 FR 30271, Apr. 23, 2024.
+
 (a) *Issuance of Forms DS-2019.* Sponsors must:
 
 (1) Grant access to SEVIS only to Responsible Officers and Alternate Responsible Officers and ensure that they have access to and use SEVIS to update required information;

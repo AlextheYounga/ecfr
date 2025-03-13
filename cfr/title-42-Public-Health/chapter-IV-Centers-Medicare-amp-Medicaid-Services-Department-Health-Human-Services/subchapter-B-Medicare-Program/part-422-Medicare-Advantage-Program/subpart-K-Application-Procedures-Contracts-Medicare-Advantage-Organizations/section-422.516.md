@@ -1,5 +1,7 @@
 ##### § 422.516 Validation of Part C reporting requirements. #####
 
+Link to an amendment published at 89 FR 30825, Apr. 23, 2024.
+
 (a) *Required information.* Each MA organization must have an effective procedure to develop, compile, evaluate, and report to CMS, to its enrollees, and to the general public, at the times and in the manner that CMS requires, and while safeguarding the confidentiality of the doctor-patient relationship, statistics and other information with respect to the following:
 
 (1) The cost of its operations.

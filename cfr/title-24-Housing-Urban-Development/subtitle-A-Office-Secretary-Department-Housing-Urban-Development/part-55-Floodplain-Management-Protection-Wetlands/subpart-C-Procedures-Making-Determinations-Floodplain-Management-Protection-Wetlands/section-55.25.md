@@ -1,5 +1,7 @@
 ##### § 55.25 Areawide compliance. #####
 
+Link to an amendment published at 89 FR 30913, Apr. 23, 2024.
+
 (a) A HUD-approved areawide compliance process may be substituted for individual compliance or aggregated compliance under § 55.24 where a series of individual actions is proposed or contemplated in a pertinent area for HUD's examination of floodplain hazards. In areawide compliances, the area for examination may include a sector of, or the entire, floodplain—as relevant to the proposed or anticipated actions. The areawide compliance process shall be in accord with the decision making process under § 55.20.
 
 (b) The areawide compliance process shall address the relevant executive orders and shall consider local land use planning and development controls (e.g., those enforced by the community for purposes of floodplain management under the National Flood Insurance Program (NFIP)) and applicable state programs for floodplain management. The process shall include the development and publication of a strategy that identifies the range of development and mitigation measures under which the proposed HUD assistance may be approved and that indicates the types of actions that will not be approved in the floodplain.

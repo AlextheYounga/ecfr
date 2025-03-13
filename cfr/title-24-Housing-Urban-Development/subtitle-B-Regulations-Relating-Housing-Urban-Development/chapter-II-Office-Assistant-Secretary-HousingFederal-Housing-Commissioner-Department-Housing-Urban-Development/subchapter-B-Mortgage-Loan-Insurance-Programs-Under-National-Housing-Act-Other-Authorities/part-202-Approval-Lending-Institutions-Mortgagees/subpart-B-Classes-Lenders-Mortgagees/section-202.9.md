@@ -1,5 +1,7 @@
 ##### § 202.9 Investing lenders and mortgagees. #####
 
+Link to an amendment published at 89 FR 30277, Apr. 23, 2024.
+
 (a) *Definition.* An investing lender or mortgagee is an organization that is not approved under any other section of this part. An investing lender or mortgagee may purchase, hold or sell Title I loans or Title II mortgages, respectively, but may not originate Title I loans or Title II mortgages in its own name or submit applications for the insurance of mortgages. An investing lender or mortgagee may not service Title I loans or Title II mortgages without prior approval of the Secretary.
 
 (b) *Additional requirements.* In addition to the general approval requirements in § 202.5, an investing lender or mortgagee shall meet the following requirements:

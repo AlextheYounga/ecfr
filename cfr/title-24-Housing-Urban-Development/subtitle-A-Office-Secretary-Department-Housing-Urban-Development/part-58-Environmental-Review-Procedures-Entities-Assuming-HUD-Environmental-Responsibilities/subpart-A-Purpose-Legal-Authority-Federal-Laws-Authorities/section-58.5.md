@@ -1,5 +1,7 @@
 ##### § 58.5 Related Federal laws and authorities. #####
 
+Link to an amendment published at 89 FR 30913, Apr. 23, 2024.
+
 In accordance with the provisions of law cited in § 58.1(b), the responsible entity must assume responsibilities for environmental review, decision-making and action that would apply to HUD under the following specified laws and authorities. The responsible entity must certify that it has complied with the requirements that would apply to HUD under these laws and authorities and must consider the criteria, standards, policies and regulations of these laws and authorities.
 
 (a) *Historic properties.* (1) The National Historic Preservation Act of 1966 (16 U.S.C. 470 *et seq.*), particularly sections 106 and 110 (16 U.S.C. 470 and 470h-2).

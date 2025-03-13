@@ -1,5 +1,7 @@
 ##### § 3165.1 Relief from operating and producing requirements. #####
 
+Link to an amendment published at 89 FR 30996, Apr. 23, 2024.
+
 (a) Applications for relief from either the operating or the producing requirements of a lease, or both, shall be filed with the authorized officer, and shall include a full statement of the circumstances that render such relief necessary.
 
 (b) The authorized officer shall act on applications submitted for a suspension of operations or production, or both, filed pursuant to § 3103.4-4 of this title. The application for suspension shall be filed with the authorized officer prior to the expiration date of the lease; shall be executed by all operating rights owners or, in the case of a Federal unit approved under part 3180 of this title, by the unit operator on behalf of the committed tracts or by all operating rights owners of such tracts; and shall include a full statement of the circumstances that makes such relief necessary.

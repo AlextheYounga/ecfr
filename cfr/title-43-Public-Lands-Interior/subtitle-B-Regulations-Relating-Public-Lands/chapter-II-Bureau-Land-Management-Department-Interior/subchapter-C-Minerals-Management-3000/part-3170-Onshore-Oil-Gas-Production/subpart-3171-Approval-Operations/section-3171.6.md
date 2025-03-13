@@ -1,5 +1,7 @@
 ##### § 3171.6 Components of a complete APD package. #####
 
+Link to an amendment published at 89 FR 30997, Apr. 23, 2024.
+
 Operators are encouraged to consider and incorporate Best Management Practices into their APDs because Best Management Practices can result in reduced processing times and reduced number of Conditions of Approval. An APD package must include the following information that will be reviewed by technical specialists of the appropriate agencies to determine the technical adequacy of the package:
 
 (a) A completed Form 3160-3; and

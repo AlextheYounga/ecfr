@@ -1,5 +1,7 @@
 ##### § 200.926d Construction requirements. #####
 
+Link to an amendment published at 89 FR 30913, Apr. 23, 2024.
+
 (a) *Application*—(1) *General.* These standards cover the agency requirements for accessibility to physically handicapped people, variations to standards, real estate entity, trespass and utilities, site conditions, access, site design, streets, dedication of utilities, drainage and flood hazard exposure, special construction and product acceptance, thermal requirements, and water supply systems.
 
 (2) *Requirements for accessibility to physically handicapped people.* The HUD Field Office will advise project sponsors as to the extent accessibility will be required for new construction of one- and two-family dwellings on a project-by-project basis.

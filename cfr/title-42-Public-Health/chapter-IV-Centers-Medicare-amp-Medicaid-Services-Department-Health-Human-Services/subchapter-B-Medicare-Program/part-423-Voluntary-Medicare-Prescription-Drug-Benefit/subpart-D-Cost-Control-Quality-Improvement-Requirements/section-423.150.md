@@ -1,5 +1,7 @@
 ##### § 423.150 Scope. #####
 
+Link to an amendment published at 89 FR 30834, Apr. 23, 2024.
+
 This subpart sets forth the requirements relating to the following:
 
 (a) Drug utilization management programs, quality assurance measures and systems, and medication therapy management programs (MTMP) for Part D sponsors.

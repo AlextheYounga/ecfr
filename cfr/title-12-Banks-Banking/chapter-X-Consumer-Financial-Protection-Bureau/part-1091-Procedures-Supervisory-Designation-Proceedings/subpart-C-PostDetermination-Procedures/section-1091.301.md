@@ -1,0 +1,11 @@
+##### § 1091.301 Petition for termination of order. #####
+
+(a) Any person subject to an order under 1091.206(a)(1) may, no sooner than two years after issuance of such an order and no more frequently than annually thereafter, petition for termination of the order. The same applies to an order under § 1091.201, subject to the limitations in § 1091.201(c).
+
+(b) A petition for termination submitted pursuant to paragraph (a) of this section shall set forth the reasons supporting termination of the order, including any actions taken by a respondent since issuance of the order to address the conduct that led to issuance of the order, and may include any supporting information or evidence that the petitioner believes is relevant to the Director's determination of the matter. A petition for termination must be filed with the Director and served on the initiating official and is subject to the word limit in § 1091.403.
+
+(c) The initiating official shall, within 30 days of receipt of a petition for termination, file a recommendation with the Director and serve it on the respondent. The initiating official's recommendation shall state whether the initiating official recommends that the order be terminated, or modified, or that the petition for termination be denied and the basis for such recommendation. The recommendation is subject to the word limit in § 1091.403.
+
+(d) Not later than 90 days after submission of a petition under paragraph (a) of this section, the Director shall issue a written decision either terminating or modifying the order, or denying the petition. If the Director modifies the order or denies the petition, the Director shall explain the basis for his or her decision with respect to the petition. At any time before issuing a decision, the Director may, on the Director's own motion, request that the respondent and initiating official provide any supplemental briefing that Director considers appropriate.
+
+(e) The decision of the Director made pursuant to paragraph (d) of this section shall constitute final agency action under 5 U.S.C. 704.

@@ -1,5 +1,7 @@
 ##### § 422.633 Integrated reconsiderations. #####
 
+Link to an amendment published at 89 FR 30827, Apr. 23, 2024.
+
 (a) *General rule.* An applicable integrated plan may only have one level of integrated reconsideration for an enrollee.
 
 (b) *External medical reviews.* If a State has established an external medical review process, the requirements of § 438.402(c)(1)(i)(B) of this chapter apply to each applicable integrated plan that is a Medicaid managed care organization, as defined in section 1903 of the Act.

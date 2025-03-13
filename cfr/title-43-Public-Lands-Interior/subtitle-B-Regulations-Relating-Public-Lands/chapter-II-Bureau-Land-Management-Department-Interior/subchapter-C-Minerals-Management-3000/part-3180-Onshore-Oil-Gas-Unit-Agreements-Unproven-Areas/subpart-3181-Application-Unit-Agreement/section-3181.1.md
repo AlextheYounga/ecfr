@@ -1,3 +1,5 @@
 ##### § 3181.1 Preliminary consideration of unit agreement. #####
 
+Link to an amendment published at 89 FR 30997, Apr. 23, 2024.
+
 The model unit agreement set forth in § 3186.1 of this title, is acceptable for use in unproven areas. Unique situations requiring special provisions should be clearly identified, since these and other special conditions may necessitate a modification of the model unit agreement set forth in § 3186.1 of this title. Any proposed special provisions or other modifications of the model agreement should be submitted for preliminary consideration so that any necessary revision may be prescribed prior to execution by the interested parties. Where Federal lands constitute less than 10 percent of the total unit area, a non-Federal unit agreement may be used. Upon submission of such an agreement, the authorized officer will take appropriate action to commit the Federal lands.

@@ -1,5 +1,7 @@
 ##### § 423.36 Disenrollment process. #####
 
+Link to an amendment published at 89 FR 30830, Apr. 23, 2024.
+
 (a) *General rule.* An individual may disenroll from a PDP during the periods specified in § 423.38 by enrolling in a different PDP plan, submitting a disenrollment request to the PDP in the form and manner prescribed by CMS, or filing the appropriate disenrollment request through other mechanisms as determined by CMS.
 
 (b) *Responsibilities of the PDP sponsor.* The PDP sponsor must—

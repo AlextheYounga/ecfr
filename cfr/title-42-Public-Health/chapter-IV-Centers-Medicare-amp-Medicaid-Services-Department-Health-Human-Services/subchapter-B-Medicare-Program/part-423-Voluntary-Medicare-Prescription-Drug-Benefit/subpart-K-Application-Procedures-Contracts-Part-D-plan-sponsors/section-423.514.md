@@ -1,5 +1,7 @@
 ##### § 423.514 Validation of Part D reporting requirements. #####
 
+Link to an amendment published at 89 FR 30838, Apr. 23, 2024.
+
 (a) *Required information.* Each Part D plan sponsor must have an effective procedure to develop, compile, evaluate, and report to CMS, to its enrollees, and to the general public, at the times and in the manner that CMS requires, statistics indicating the following—
 
 (1) The cost of its operations.

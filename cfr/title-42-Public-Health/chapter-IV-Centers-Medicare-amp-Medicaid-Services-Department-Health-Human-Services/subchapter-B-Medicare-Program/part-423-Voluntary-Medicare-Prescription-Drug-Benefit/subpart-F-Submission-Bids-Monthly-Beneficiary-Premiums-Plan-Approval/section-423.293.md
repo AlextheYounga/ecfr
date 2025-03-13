@@ -1,5 +1,7 @@
 ##### § 423.293 Collection of monthly beneficiary premium. #####
 
+Link to an amendment published at 89 FR 30836, Apr. 23, 2024.
+
 (a) *General rules.* Part D sponsors must—
 
 (1) Charge enrollees a consolidated monthly Part D premium equal to the sum of the Part D monthly premium for basic prescription drug coverage (if any) and the premium for supplemental coverage (if any and if the beneficiary has enrolled in such supplemental coverage).

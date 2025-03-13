@@ -1,5 +1,7 @@
 ##### § 58.45 Public comment periods. #####
 
+Link to an amendment published at 89 FR 30913, Apr. 23, 2024.
+
 Required notices must afford the public the following minimum comment periods, counted in accordance with § 58.21:
 
 |  (a) Notice of Finding of No Significant Impact (FONSI)   |15 days when published or, if no publication, 18 days when mailing and posting|

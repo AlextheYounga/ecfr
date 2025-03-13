@@ -1,5 +1,7 @@
 ##### § 58.43 Dissemination and/or publication of the findings of no significant impact. #####
 
+Link to an amendment published at 89 FR 30913, Apr. 23, 2024.
+
 (a) If the responsible entity makes a finding of no significant impact, it must prepare a FONSI notice, using the current HUD-recommended format or an equivalent format. As a minimum, the responsible entity must send the FONSI notice to individuals and groups known to be interested in the activities, to the local news media, to the appropriate tribal, local, State and Federal agencies; to the Regional Offices of the Environmental Protection Agency having jurisdiction and to the HUD Field Office (or the State where applicable). The responsible entity may also publish the FONSI notice in a newspaper of general circulation in the affected community. If the notice is not published, it must also be prominently displayed in public buildings, such as the local Post Office and within the project area or in accordance with procedures established as part of the citizen participation process.
 
 (b) The responsible entity may disseminate or publish a FONSI notice at the same time it disseminates or publishes the NOI/RROF required by § 58.70. If the notices are released as a combined notice, the combined notice shall:
