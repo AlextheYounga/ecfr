@@ -1,7 +1,5 @@
 ##### § 1726.14 Definitions. #####
 
-Link to an amendment published at 89 FR 17275, Mar. 11, 2024.
-
 Terms used in this part have the meanings set forth in 7 CFR 1710.2. References to specific RUS forms and other RUS documents, and to specific sections or lines of such forms and documents, shall include the corresponding forms, documents, sections and lines in any subsequent revisions of these forms and documents. In addition to the terms defined in 7 CFR 1710.2, the following terms have the following meanings for the purposes of this part:
 
 *Approval of proposed construction* means RUS approval of a construction work plan or other appropriate engineering study and RUS approval, for purposes of system financing, of the completion of all appropriate environmental review requirements in accordance with 7 CFR part 1970.
@@ -36,13 +34,11 @@ Terms used in this part have the meanings set forth in 7 CFR 1710.2. References 
 
 *Minor error or irregularity* means a defect or variation in a bid that is a matter of form and not of substance. Errors or irregularities are “minor” if they can be corrected or waived without being prejudicial to other bidders and when they do not affect the price, quantity, quality, or timeliness of construction. A minor error or irregularity is not an exception for purposes of determining whether a bid is responsive.
 
-*Minor modification or improvement* means a project the cost of which is $150,000 or less, exclusive of the cost of owner furnished materials.
+*Minor modification or improvement* means a project the cost of which is $250,000 or less, exclusive of the cost of owner furnished materials.
 
 *Multiparty lump sum quotations* means the procurement of goods or services on a lump sum basis, based on the lowest evaluated offering, when three or more offers are received. (See § 1726.205).
 
 *Multiparty negotiation* means the procurement procedure where three or more bids are received and provides for negotiations between the contracting committee and each bidder to determine the bid which is in the borrower's best interest (see § 1726.203).
-
-*Multiparty unit price quotations* means the procurement of goods or services on a unit price basis, based on the lowest evaluated offering, when three or more offers are received (See § 1726.204).
 
 *Net utility plant (NUP)* means Part C, Line 5 of RUS Form 7 for distribution borrowers or Section B, Line 5 of RUS Form 12a for power supply borrowers for the immediately preceding calendar year.
 
@@ -56,4 +52,4 @@ Terms used in this part have the meanings set forth in 7 CFR 1710.2. References 
 
 *Unit prices* means individual prices for specific construction units defined in accordance with RUS approved units specified in RUS standard contract forms.
 
-[60 FR 10155, Feb. 23, 1995, as amended at 77 FR 3071, Jan. 23, 2012; 81 FR 11027, Mar. 2, 2016]
+[60 FR 10155, Feb. 23, 1995, as amended at 77 FR 3071, Jan. 23, 2012; 81 FR 11027, Mar. 2, 2016; 89 FR 17275, Mar. 11, 2024]

@@ -1,5 +1,7 @@
 ##### § 1303.92 Fees to be charged—categories of requesters. #####
 
+Link to an amendment published at 89 FR 48826, June 10, 2024.
+
 There are four categories of FOIA requesters: Commercial use requesters; educational and non-commercial scientific institutions; representatives of the news media; and all other requesters. The specific levels of fees for each of these categories are:
 
 (a) *Commercial use requesters.* When OMB receives a request for documents for commercial use, it will assess charges that recover the full direct costs of searching for, reviewing for release, and duplicating the record sought. Commercial use requesters are not entitled to two hours of free search time nor 100 free pages of reproduction of documents. OMB may recover the cost of searching for and reviewing records even if there is ultimately no disclosure of records (*see* § 1303.93(b)).

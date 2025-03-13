@@ -1,5 +1,7 @@
 ##### § 1303.91 Fees to be charged—general. #####
 
+Link to an amendment published at 89 FR 48826, June 10, 2024.
+
 OMB will charge fees that recoup the full allowable direct costs it incurs. Moreover, it will use the most efficient and least costly methods to comply with requests for documents made under the FOIA. For example, employees should not engage in line-by-line search when merely duplicating an entire document would prove the less expensive and quicker method of complying with a request. Search should be distinguished, moreover, from review of material in order to determine whether the material is exempt from disclosure. When documents that would be responsive to a request are maintained for distribution by agencies operating statutory-based fee schedule programs (*see* definition in § 1303.30(b)), such as the NTIS, OMB will inform requesters of the steps necessary to obtain records from those sources.
 
 (a) *Search.* Requests made by educational institutions, noncommercial scientific institutions, or representatives of the news media are not subject to search fees. OMB will charge search fees for all other requesters, subject to the restrictions of paragraph (h) of this section.

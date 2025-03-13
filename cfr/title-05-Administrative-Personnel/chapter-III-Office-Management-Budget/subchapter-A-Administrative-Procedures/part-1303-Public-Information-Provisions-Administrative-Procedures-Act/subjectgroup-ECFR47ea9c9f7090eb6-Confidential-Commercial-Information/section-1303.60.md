@@ -1,5 +1,7 @@
 ##### § 1303.60 Notification procedures for confidential commercial information. #####
 
+Link to an amendment published at 89 FR 48826, June 10, 2024.
+
 (a) *Definitions.* (1) “Confidential commercial information” means commercial or financial information obtained by OMB from a submitter that may be protected from disclosure under Exemption 4 of the FOIA, 5 U.S.C. 552(b)(4).
 
 (2) “Submitter” means any person or entity, including a corporation, State, or foreign government, but not including another Federal Government entity, that provides confidential commercial information, either directly or indirectly to the Federal Government.

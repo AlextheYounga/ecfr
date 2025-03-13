@@ -1,16 +1,14 @@
 ##### § 218.99 Shoving or pushing movements. #####
 
-Link to an amendment published at 89 FR 25108, Apr. 9, 2024.
-
 (a)(1) Each railroad shall adopt and comply with an operating rule which complies with the requirements of this section. When any person including, but not limited to, each railroad, railroad officer, supervisor, and employee violates any requirement of an operating rule which complies with the requirements of this section, that person shall be considered to have violated the requirements of this section.
 
-(2) The following requirements for shoving or pushing movements do not apply to rolling equipment intentionally shoved or pushed to permit the rolling equipment to roll without power attached, i.e., free rolling equipment, during switching activities known as kicking, humping, or dropping cars.
+(2) The following requirements for shoving or pushing movements do not apply to rolling equipment intentionally shoved or pushed to permit the rolling equipment to roll without power attached, *i.e.,* free rolling equipment, during switching service activities known as kicking, humping, or dropping cars.
 
 (b) *General movement requirements*—(1) *Job briefing.* Rolling equipment shall not be shoved or pushed until the locomotive engineer participating in the move has been briefed by the employee who will direct the move. The job briefing shall include the means of communication to be used between the locomotive engineer and the employee directing the move and how point protection will be provided.
 
 (2) *No unrelated tasks.* During the shoving or pushing movement, the employee directing the movement shall not engage in any task unrelated to the oversight of the shoving or pushing movement.
 
-(3) *Point protection.* When rolling equipment or a lite locomotive consist is shoved or pushed, point protection shall be provided by a crewmember or other qualified employee by:
+(3) *Point protection.* When rolling equipment or a lite locomotive train with two or more locomotives that is operated from a single control stand is shoved or pushed, point protection shall be provided by a crewmember or other qualified employee by:
 
 (i) Visually determining that the track is clear. The determination that the track is clear may be made with the aid of monitored cameras or other technological means, provided that it and the procedures for use provide an equivalent level of protection to that of a direct visual determination by a crewmember or other qualified employee properly positioned to make the observation as prescribed in this section and appendix D to this part; and
 
@@ -48,7 +46,7 @@ Link to an amendment published at 89 FR 25108, Apr. 9, 2024.
 
 (1) Push-pull operations when operated from the leading end in the direction of movement, i.e., push mode;
 
-(2) Shoving or pushing operations with manned helper locomotives or distributed power locomotives assisting a train when the train is being operated from the leading end in the direction of movement;
+(2) Shoving or pushing operations with a helper service train operation or distributed power locomotives assisting a train when the train is being operated from the leading end in the direction of movement;
 
 (3) During the performance of roadway maintenance activity under the direct control of a roadway worker performing work in accordance with railroad operating rules specific to roadway workers; or
 
@@ -98,4 +96,4 @@ Link to an amendment published at 89 FR 25108, Apr. 9, 2024.
 
 (viii) The shove light system is continuously illuminated when the circuited section of the track is unoccupied.
 
-[73 FR 8498, Feb. 13, 2008, as amended at 73 FR 33902, June 16, 2008]
+[73 FR 8498, Feb. 13, 2008, as amended at 73 FR 33902, June 16, 2008; 89 FR 25108, Apr. 9, 2024]

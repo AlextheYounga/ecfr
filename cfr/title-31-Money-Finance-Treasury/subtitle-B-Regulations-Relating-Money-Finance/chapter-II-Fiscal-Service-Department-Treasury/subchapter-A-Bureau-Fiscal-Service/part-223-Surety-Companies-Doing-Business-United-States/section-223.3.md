@@ -1,5 +1,7 @@
 ##### § 223.3 Issuance of certificates of authority. #####
 
+Link to an amendment published at 89 FR 48832, June 10, 2024.
+
 (a)(1)(i) A company submitting an application to be issued a certificate of authority by Treasury to underwrite and reinsure Federal surety bonds must include all required data and information, as determined by Treasury in its discretion, for the application to be complete and ready for review. Upon receipt of a complete application, Treasury will evaluate the submission to determine whether the applicant company:
 
 (A) Is duly authorized under its charter or articles of incorporation to conduct the business referenced under 31 U.S.C. 9304(a)(2);

@@ -1,5 +1,7 @@
 ##### § 1303.93 Miscellaneous fee provisions. #####
 
+Link to an amendment published at 89 FR 48826, June 10, 2024.
+
 (a) *Charging interest—notice and rate.* OMB may begin assessing interest charges on an unpaid bill starting on the 31st day after OMB sends the bill. If OMB receives the fee within the thirty-day grace period, interest will not accrue on the paid portion of the bill, even if the payment is unprocessed. Interest will be at the rate prescribed in section 3717 of title 31 of the United States Code and will accrue from the date of the billing.
 
 (b) *Charges for unsuccessful search.* OMB may properly charge for time spent searching even if it does not locate any responsive records or if OMB determines that the records are entirely exempt from disclosure.

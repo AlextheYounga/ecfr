@@ -1,5 +1,7 @@
 ##### § 223.12 Recognition as reinsurer. #####
 
+Link to an amendment published at 89 FR 48835, June 10, 2024.
+
 (a) *Application by U.S. company.* Any company organized under the laws of the United States or of any State thereof, wishing to apply for recognition as an admitted reinsurer (except on excess risks running to the United States) of surety companies doing business with the United States, shall file the following data with the designated Treasury official, and shall transmit therewith the fee in accordance with the provisions of § 223.22:
 
 (1) A certified copy of its charter or articles of incorporation, and

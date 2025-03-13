@@ -1,5 +1,7 @@
 ##### § 223.13 Full penalty of the obligation regarded as the liability; exceptions. #####
 
+Link to an amendment published at 89 FR 48837, June 10, 2024.
+
 In determining the limitation prescribed in this part, the full penalty of the obligation will be regarded as the liability, and no offset will be allowed on account of any estimate of risk which is less than such full penalty, except in the following cases:
 
 (a) Appeal bonds; in which case the liability will be regarded as the amount of the judgment appealed from, plus 10 percent of said amount to cover interest and costs.

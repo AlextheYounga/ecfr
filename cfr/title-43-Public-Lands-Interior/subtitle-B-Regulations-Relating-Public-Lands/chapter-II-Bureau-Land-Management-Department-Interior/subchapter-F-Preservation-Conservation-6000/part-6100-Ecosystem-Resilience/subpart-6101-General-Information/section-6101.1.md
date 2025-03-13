@@ -1,0 +1,3 @@
+##### § 6101.1 Purpose. #####
+
+The BLM's management of public lands on the basis of multiple use and sustained yield relies on healthy landscapes and resilient ecosystems. The purpose of this part is to promote the use of conservation to ensure ecosystem resilience and prevent permanent impairment or unnecessary or undue degradation of public lands. This part discusses the use of protection and restoration actions, as well as tools such as watershed condition assessments, land health evaluations, inventory, assessment, and monitoring.

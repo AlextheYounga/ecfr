@@ -1,5 +1,7 @@
 ##### § 1303.50 Responses to requests. #####
 
+Link to an amendment published at 89 FR 48825, June 10, 2024.
+
 (a) *Acknowledgements of requests.* OMB will assign an individualized tracking number to each request received that will take longer than ten days to process; and acknowledge each request, informing the requestor of their tracking number if applicable; and, upon request, make available information about the status of a request to the requester using the assigned tracking number, including—
 
 (1) The date on which OMB originally received the request; and

@@ -1,7 +1,5 @@
 ##### § 1710.501 Loan application documents. #####
 
-Link to an amendment published at 89 FR 17274, Mar. 11, 2024.
-
 (a) *All borrowers.* Borrowers may be eligible to submit their loan application via RUS' electronic application intake system instead of submitting a paper submission. Please consult your GFR in accordance with § 1710.500. All applications for electric loans shall include the documents listed in this paragraph (a).
 
 (1) *Loan application letter.* A letter signed by the borrower's manager indicating the actual corporate name, the borrowers RUS Designation, the borrowers RUS Loan Designation, and taxpayer identification number of the borrower and addressing the following items:
@@ -78,13 +76,11 @@ Link to an amendment published at 89 FR 17274, Mar. 11, 2024.
 
 (8) *Standard Form 100—Equal Employment Opportunity Employer Report EEO—1.* This form, required by the Department of Labor, sets forth employment data for borrowers with 100 or more employees. A copy of this form, as submitted to the Department of Labor, is to be included in the application for an insured loan if the borrower has more than 100 employees. See § 1710.122.
 
-(9) *Form AD-1047, Certification Regarding Debarment, Suspension, and Other Responsibility Matters—Primary Covered Transactions.* This statement certifies that the borrower will comply with certain regulations on debarment and suspension required by Executive Order 12549, Debarment and Suspension (3 CFR, 1986 Comp., p. 189). See 2 CFR 417, and § 1710.123 of this part.
+(9) *Uniform Relocation Act assurance statement.* This assurance, which need not be resubmitted if previously submitted, provides that the borrower shall comply with 49 CFR part 24, which implements the Uniform Relocation Assistance and Real Property Acquisition Policy Act of 1970, as amended by the Uniform Relocation Act Amendments of 1987 and 1991. See § 1710.124.
 
-(10) *Uniform Relocation Act assurance statement.* This assurance, which need not be resubmitted if previously submitted, provides that the borrower shall comply with 49 CFR part 24, which implements the Uniform Relocation Assistance and Real Property Acquisition Policy Act of 1970, as amended by the Uniform Relocation Act Amendments of 1987 and 1991. See § 1710.124.
+(10) *Lobbying.* The following information on lobbying is required pursuant to 2 CFR 418, and § 1710.125. Borrowers applying for both insured and guaranteed financing should consult RUS before submitting this information.
 
-(11) *Lobbying.* The following information on lobbying is required pursuant to 2 CFR 418, and § 1710.125. Borrowers applying for both insured and guaranteed financing should consult RUS before submitting this information.
-
-(12) *Federal debt delinquency requirements.* See § 1710.126. The following documents are required:
+(11) *Federal debt delinquency requirements.* See § 1710.126. The following documents are required:
 
 (i) *Report on Federal debt delinquency.* This report indicates whether or not a borrower is delinquent on any Federal debt.
 
@@ -104,13 +100,11 @@ Link to an amendment published at 89 FR 17274, Mar. 11, 2024.
 
 (G) Refer the borrower's account to the Department of Justice for collection.
 
-(13) *Assurance regarding Felony Conviction (AD Form 3030). This form must be included with each application to document the status regarding a felony criminal violation and status of any unpaid federal tax liability;*
+(12) *RD Form 400-4, Assurance Agreement. This form provides assurance to USDA that recipients of federal financial assistance are in compliance with Title VI of the Civil Rights Act of 1964, 7 CFR part 15 and other agency regulations;*
 
-(14) *RD Form 400-4, Assurance Agreement. This form provides assurance to USDA that recipients of federal financial assistance are in compliance with Title VI of the Civil Rights Act of 1964, 7 CFR part 15 and other agency regulations;*
+(13) *Seismic safety certifications.* This certification shall be included, if required under 7 CFR part 1792.
 
-(15) *Seismic safety certifications.* This certification shall be included, if required under 7 CFR part 1792.
-
-(16) *Other forms.* Other forms as required by law or as requested.
+(14) *Other forms.* Other forms as required by law or as requested.
 
 (b) *New or returning borrowers.* In addition to the items in paragraph (a) of this section, applications for loans submitted by new or returning borrowers shall include the items listed in this paragraph (b).
 
@@ -162,4 +156,4 @@ Link to an amendment published at 89 FR 17274, Mar. 11, 2024.
 
 (g) *Interest rate category.* For pending loans, RUS will promptly notify the borrower if its eligibility for an interest rate category changes pursuant to new information from the Department of Energy or the Bureau of the Census. See 7 CFR part 1714.
 
-(Approved by the Office of Management and Budget under control numbers 0572-0017, 0572-0032 and 0572-1013)[60 FR 3731, Jan. 19, 1995. Redesignated at 78 FR 73366, Dec. 5, 2013, as amended at 79 FR 76002, Dec. 19, 2014; 81 FR 11026, Mar. 2, 2016; 84 FR 32613, July 9, 2019; 86 FR 36196, July 9, 2021; 87 FR 73438, Nov. 30, 2022]
+(Approved by the Office of Management and Budget under control numbers 0572-0017, 0572-0032 and 0572-1013)[60 FR 3731, Jan. 19, 1995. Redesignated at 78 FR 73366, Dec. 5, 2013, as amended at 79 FR 76002, Dec. 19, 2014; 81 FR 11026, Mar. 2, 2016; 84 FR 32613, July 9, 2019; 86 FR 36196, July 9, 2021; 87 FR 73438, Nov. 30, 2022; 89 FR 17274, Mar. 11, 2024]

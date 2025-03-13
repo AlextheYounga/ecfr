@@ -1,5 +1,7 @@
 ##### § 1303.40 Timing of responses to requests. #####
 
+Link to an amendment published at 89 FR 48825, June 10, 2024.
+
 (a) *In general.* Upon receipt of any request for information or records, the FOIA Officer will determine within 20 working days (excepting Saturdays, Sundays, and legal public holidays) after the receipt of such request whether it is appropriate to grant the request and will immediately notify the requester of such determination and the reasons therefore and the right of such person to seek assistance from the FOIA Public Liaison. The 20-day period, as used herein, shall commence on the date on which the FOIA Officer or the FOIA Public Liaison first receives the request but in any event not later than 10 working days after the request is first received by any component's office that is designated by these regulations to receive requests. OMB may toll this 20-day period either one time while OMB is awaiting information that it has reasonably requested from the requester or any time when necessary to clarify with the requester issues regarding fee assessment. OMB's receipt of the requester's response to OMB's request for information ends the tolling period.
 
 (b) *Multitrack processing.* (1) FOIA requests are placed on one of three tracks:

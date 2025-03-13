@@ -1,5 +1,7 @@
 ##### § 1303.30 Responsibility for responding to requests. #####
 
+Link to an amendment published at 89 FR 48825, June 10, 2024.
+
 (a) *Search cutoff date.* In determining which records are responsive to a request, OMB ordinarily will include only records in its possession as of the date that it begins its search. If any other date is used, OMB will inform the requester of that date.
 
 (b) *Transfer of records to the National Archives and Records Administration (NARA).* Permanent records of OMB which have been transferred to the control of NARA under the Federal Records Act are not in the control of OMB and are therefore not accessible by a FOIA request to OMB. Requests for such records should be directed to NARA.

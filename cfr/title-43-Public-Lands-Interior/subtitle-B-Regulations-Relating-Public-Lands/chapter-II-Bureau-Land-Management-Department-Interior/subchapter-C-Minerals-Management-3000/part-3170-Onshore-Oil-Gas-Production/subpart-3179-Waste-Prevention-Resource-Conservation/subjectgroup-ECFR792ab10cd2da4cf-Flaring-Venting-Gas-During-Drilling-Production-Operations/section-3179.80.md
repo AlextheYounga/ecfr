@@ -1,0 +1,3 @@
+##### § 3179.80 Loss of well control while drilling. #####
+
+If, during drilling, gas is lost as a result of loss of well control, the operator must notify the BLM within 24 hours of the start of the loss of the well control event and submit to the BLM a Sundry Notice within 15 days following the conclusion of the event describing the loss of well control. The BLM will determine whether the loss of well control was due to operator negligence. Oil or gas lost as a result of loss of well control is avoidably lost if the BLM determines that the loss of well control was due to operator negligence. The BLM will notify the operator in writing when it determines whether oil or gas was lost due to operator negligence, and whether such loss will qualify as an avoidable loss.

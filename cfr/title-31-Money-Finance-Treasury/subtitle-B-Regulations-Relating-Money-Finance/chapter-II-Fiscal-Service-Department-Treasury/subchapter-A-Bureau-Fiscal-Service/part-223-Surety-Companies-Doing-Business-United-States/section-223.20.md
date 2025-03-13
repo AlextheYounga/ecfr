@@ -1,5 +1,7 @@
 ##### § 223.20 Revocation proceedings initiated by Treasury upon receipt of an agency complaint. #####
 
+Link to an amendment published at 89 FR 48838, June 10, 2024.
+
 (a) *Agency complaint.* If an agency determines that a company has not promptly made full payment or fully satisfied one or more bond obligations naming the agency as obligee, the head of the agency, or his or her designee, may submit a written complaint to the designated Treasury official (with executive oversight over the Treasury surety program, at the Assistant Commissioner level or equivalent), requesting that the company's certificate of authority be revoked for nonperformance. Under such complaint, the agency shall certify that:
 
 (1) The bond obligations that are the subject of the complaint are administratively final under the agency's regulations or other authorities;

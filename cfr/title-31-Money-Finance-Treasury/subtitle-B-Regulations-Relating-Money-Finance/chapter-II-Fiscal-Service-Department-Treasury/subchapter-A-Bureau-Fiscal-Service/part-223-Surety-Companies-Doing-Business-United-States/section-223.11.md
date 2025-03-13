@@ -1,5 +1,7 @@
 ##### § 223.11 Limitation of risk: Protective methods. #####
 
+Link to an amendment published at 89 FR 48834, June 10, 2024.
+
 The limitation of risk prescribed in § 223.10 may be complied with by the following methods:
 
 (a) *Coinsurance.* Two or more companies may underwrite a risk on any bond or policy, the amount of which does not exceed their aggregate underwriting limitations. Each company shall limit its liability upon the face of the bond or policy, to a definite specified amount which shall be within its underwriting limitation.

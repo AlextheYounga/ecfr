@@ -1,7 +1,5 @@
 ##### § 1710.250 General. #####
 
-Link to an amendment published at 89 FR 17274, Mar. 11, 2024.
-
 (a) An ongoing, integrated planning system is needed by borrowers to determine their short-term and long-term needs for plant additions, improvements, replacements, and retirements. The primary components of the system consist of long-range engineering plans, construction work plans (CWPs), CWP amendments, and special engineering and cost studies. Long range engineering plans identify plant investments required over a period of 10-20 years or more. CWPs specify and document plant requirements for the short-term, usually 4 years, and special engineering and cost studies are used to support CWPs and to identify and document requirements for specific items or purposes, such as load management equipment, System Control and Data Acquisition equipment, sectionalizing investments, and additions of generation capacity and associated transmission plant.
 
 (b) A long range engineering plan specifies and supports the major system additions, improvements, replacements, and retirements needed for an orderly transition from the existing system to the system required 10 or more years in the future. The planned future system should be based on the most technically and economically sound means of serving the borrower's long-range loads in a reliable and environmentally acceptable manner, and it should ensure that planned facilities will not become obsolete prematurely.
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 17274, Mar. 11, 2024.
 
 (e) Except as provided in paragraph (f) of this section, to be eligible for RUS financing, the facilities, including equipment and other items, included in a CWP must be approved by RUS and receive Environmental Clearance before the start of construction. This requirement also applies to any amendments to a CWP required to add facilities to a CWP or to make significant physical changes in the facilities already included in a CWP. Provision for funding of “minor projects” under an RUS loan guarantee is permitted on the same basis as that discussed for insured loan funds in 7 CFR part 1721, Post-Loan Policies and Procedures for Insured Electric Loans.
 
-(f) In the case of damage caused by storms and other natural catastrophes, a borrower may proceed with emergency repair work before a CWP or CWP amendment is prepared by the borrower and approved by RUS, without losing eligibility for RUS financing of the repairs. The borrower must notify the RUS regional office in writing after the natural catastrophe, of its preliminary estimates of damages and repair costs. Not later than 120 days after the natural catastrophe, the borrower must submit to RUS for approval, a CWP or CWP amendment detailing the repairs.
+(f) In the case of damage caused by storms, natural catastrophes, sabotage, willful attacks, accidents, or acts of force majeure, a borrower may proceed with emergency repair work before a CWP or CWP amendment is prepared by the borrower and approved by RUS, without losing eligibility for RUS financing of the repairs. The borrower must notify RUS in writing after the incident, of its preliminary estimates of damages and repair costs. Not later than 120 days after the incident, the borrower must submit to RUS for approval, a CWP or CWP amendment detailing the repairs.
 
 (g) A CWP may be amended or augmented when the borrower can demonstrate the need for the changes.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 89 FR 17274, Mar. 11, 2024.
 
 (j) Upon written request from a borrower, RUS may waive in writing certain requirements with respect to long-range engineering plans and CWPs if RUS determines that such requirements impose a substantial burden on the borrower and that waiving the requirements will not significantly affect the accomplishment of the objectives of this subpart. For example, if a borrower's load is forecast to remain constant or decline during the planning period, RUS may waive those portions of the plans that relate to load growth.
 
-[84 FR 32611, July 9, 2019]
+[84 FR 32611, July 9, 2019, as amended at 89 FR 17274, Mar. 11, 2024]

@@ -1,10 +1,6 @@
 ##### § 218.93 Definitions. #####
 
-Link to an amendment published at 89 FR 25108, Apr. 9, 2024.
-
 As used in this subpart—
-
-*Associate Administrator for Safety* means the Associate Administrator for Safety of the Federal Railroad Administration or that person's delegate as designated in writing.
 
 *Clearance point* means the location near a turnout beyond which it is unsafe for passage on an adjacent track(s). Where a person is permitted by a railroad's operating rules to ride the side of a car, a clearance point shall accommodate a person riding the side of a car.
 
@@ -25,8 +21,6 @@ As used in this subpart—
 *Highway-rail grade crossing* means, for purposes of this subpart only, an at-grade crossing where a public highway, road, street, or private roadway, including associated sidewalks and pathways, crosses one or more railroad tracks at grade, and is identified by a U.S. DOT National Highway-Rail Grade Crossing Inventory Number, or is marked by crossbucks, stop signs, or other appropriate signage indicating the presence of an at-grade crossing.
 
 *Industry track* means a switching track, or series of tracks, serving the needs of a commercial industry other than a railroad.
-
-*Lite locomotive consist* means two or more locomotive units coupled without cars attached, regardless of whether the locomotive units are connected so that they may be operated from a single control stand.
 
 *Locomotive* means, for purposes of this subpart only, a piece of on-track equipment (other than specialized roadway maintenance equipment or a dual purpose vehicle operating in accordance with § 240.104(a)(2) of this chapter):
 
@@ -78,4 +72,4 @@ As used in this subpart—
 
 (2) Open to persons other than railroad employees going about their normal duties, e.g., business guests or family members.
 
-[73 FR 8498, Feb. 13, 2008, as amended at 73 FR 33902, June 16, 2008]
+[73 FR 8498, Feb. 13, 2008, as amended at 73 FR 33902, June 16, 2008; 89 FR 25108, Apr. 9, 2024]
