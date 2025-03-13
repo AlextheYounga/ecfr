@@ -1,5 +1,7 @@
 ##### § 3.12 Character of discharge. #####
 
+Link to an amendment published at 89 FR 32372, Apr. 26, 2024.
+
 (a) If the former service member did not die in service, pension, compensation, or dependency and indemnity compensation is not payable unless the period of service on which the claim is based was terminated by discharge or release under conditions other than dishonorable. (38 U.S.C. 101(2)). A discharge under honorable conditions is binding on the Department of Veterans Affairs as to character of discharge.
 
 (b) A discharge or release from service under one of the conditions specified in this section is a bar to the payment of benefits unless it is found that the person was insane at the time of committing the offense causing such discharge or release or unless otherwise specifically provided (38 U.S.C. 5303(b)).

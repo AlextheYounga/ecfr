@@ -1,5 +1,7 @@
 ##### § 5.21 Safety policy. #####
 
+Link to an amendment published at 89 FR 33106, Apr. 26, 2024.
+
 (a) The certificate holder must have a safety policy that includes at least the following:
 
 (1) The safety objectives of the certificate holder.

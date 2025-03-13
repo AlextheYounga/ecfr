@@ -1,5 +1,7 @@
 ##### § 5.53 System analysis and hazard identification. #####
 
+Link to an amendment published at 89 FR 33107, Apr. 26, 2024.
+
 (a) When applying safety risk management, the certificate holder must analyze the systems identified in § 5.51. Those system analyses must be used to identify hazards under paragraph (c) of this section, and in developing and implementing risk controls related to the system under § 5.55(c).
 
 (b) In conducting the system analysis, the following information must be considered:

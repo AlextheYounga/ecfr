@@ -1,5 +1,7 @@
 ##### § 160.103 Definitions. #####
 
+Link to an amendment published at 89 FR 33062, Apr. 26, 2024.
+
 Except as otherwise provided, the following definitions apply to this subchapter:
 
 *Act* means the Social Security Act.

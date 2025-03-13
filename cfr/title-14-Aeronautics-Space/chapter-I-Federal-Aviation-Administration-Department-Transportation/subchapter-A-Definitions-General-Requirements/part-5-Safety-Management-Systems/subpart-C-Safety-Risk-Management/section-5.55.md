@@ -1,5 +1,7 @@
 ##### § 5.55 Safety risk assessment and control. #####
 
+Link to an amendment published at 89 FR 33107, Apr. 26, 2024.
+
 (a) The certificate holder must develop and maintain processes to analyze safety risk associated with the hazards identified in § 5.53(c).
 
 (b) The certificate holder must define a process for conducting risk assessment that allows for the determination of acceptable safety risk.

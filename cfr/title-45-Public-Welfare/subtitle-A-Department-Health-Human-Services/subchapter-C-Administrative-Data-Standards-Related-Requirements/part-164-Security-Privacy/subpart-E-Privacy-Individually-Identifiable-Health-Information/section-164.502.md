@@ -1,5 +1,7 @@
 ##### § 164.502 Uses and disclosures of protected health information: General rules. #####
 
+Link to an amendment published at 89 FR 33063, Apr. 26, 2024.
+
 (a) *Standard.* A covered entity or business associate may not use or disclose protected health information, except as permitted or required by this subpart or by subpart C of part 160 of this subchapter.
 
 (1) *Covered entities: Permitted uses and disclosures.* A covered entity is permitted to use or disclose protected health information as follows:

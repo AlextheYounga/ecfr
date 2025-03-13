@@ -1,5 +1,7 @@
 ##### § 541.600 Amount of salary required. #####
 
+Link to an amendment published at 89 FR 32971, Apr. 26, 2024.
+
 (a) To qualify as an exempt executive, administrative or professional employee under section 13(a)(1) of the Act, an employee must be compensated on a salary basis at a rate of not less than $684 per week (or $455 per week if employed in the Commonwealth of the Northern Mariana Islands, Guam, Puerto Rico, or the U.S. Virgin Islands by employers other than the Federal Government, or $380 per week if employed in American Samoa by employers other than the Federal Government), exclusive of board, lodging or other facilities. Administrative and professional employees may also be paid on a fee basis, as defined in § 541.605.
 
 (b) The required amount of compensation per week may be translated into equivalent amounts for periods longer than one week. For example, the $684-per-week requirement will be met if the employee is compensated biweekly on a salary basis of not less than $1,368, semimonthly on a salary basis of not less than $1,482, or monthly on a salary basis of not less than $2,964. However, the shortest period of payment that will meet this compensation requirement is one week.

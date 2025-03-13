@@ -1,5 +1,7 @@
 ##### § 541.601 Highly compensated employees. #####
 
+Link to an amendment published at 89 FR 32972, Apr. 26, 2024.
+
 (a)(1) Beginning on January 1, 2020, an employee with total annual compensation of at least $107,432 is deemed exempt under section 13(a)(1) of the Act if the employee customarily and regularly performs any one or more of the exempt duties or responsibilities of an executive, administrative or professional employee as identified in subparts B, C or D of this part.
 
 (2) Where the annual period covers periods both prior to and after January 1, 2020, the amount of total annual compensation due will be determined on a proportional basis.

@@ -1,5 +1,7 @@
 ##### § 164.512 Uses and disclosures for which an authorization or opportunity to agree or object is not required. #####
 
+Link to an amendment published at 89 FR 33064, Apr. 26, 2024.
+
 A covered entity may use or disclose protected health information without the written authorization of the individual, as described in § 164.508, or the opportunity for the individual to agree or object as described in § 164.510, in the situations covered by this section, subject to the applicable requirements of this section. When the covered entity is required by this section to inform the individual of, or when the individual may agree to, a use or disclosure permitted by this section, the covered entity's information and the individual's agreement may be given orally.
 
 (a) *Standard: Uses and disclosures required by law.* (1) A covered entity may use or disclose protected health information to the extent that such use or disclosure is required by law and the use or disclosure complies with and is limited to the relevant requirements of such law.

@@ -1,5 +1,7 @@
 ##### § 164.520 Notice of privacy practices for protected health information. #####
 
+Link to an amendment published at 89 FR 33064, Apr. 26, 2024.
+
 (a) *Standard: Notice of privacy practices*—(1) *Right to notice.* Except as provided by paragraph (a)(2) or (3) of this section, an individual has a right to adequate notice of the uses and disclosures of protected health information that may be made by the covered entity, and of the individual's rights and the covered entity's legal duties with respect to protected health information.
 
 (2) *Exception for group health plans.* (i) An individual enrolled in a group health plan has a right to notice:

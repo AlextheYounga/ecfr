@@ -1,7 +1,5 @@
 ##### § 372.107 Definitions. #####
 
-Link to an amendment published at 89 FR 13997, Feb. 26, 2024.
-
 As used in the regulations in this part, the following terms shall have the meaning shown:
 
 (a) *Cooperative association.* The term “cooperative association” means an association which conforms to the following definition in the Agricultural Marketing Act, approved June 15, 1929, as amended (12 U.S.C. 1141j):
@@ -32,4 +30,10 @@ Associations which do not conform to such definition are not eligible to operate
 
 (h) *Fiscal year.* The term “fiscal year” means the annual accounting period adopted by the cooperative association or federation of cooperative associations for Federal income tax reporting purposes.
 
-[43 FR 2397, Jan. 17, 1978, as amended at 45 FR 45524, July 3, 1980; 47 FR 13353, Mar. 30, 1982; 47 FR 15142, Apr. 8, 1982; 66 FR 49870, Oct. 1, 2001]
+(i) *Recreational activities.* The term “recreational activities” means activities consisting of an outdoor experience or excursion typically of a physical or athletic nature which require transportation for the sole purpose of moving customers to another location or locations where the outdoor experience or excursion will take place and collecting those customers to transport them back to the place of initial boarding or another outpost of the motor carrier. Recreational activities include but are not limited to hiking, biking, horseback riding, canoeing, whitewater rafting, water trails, tubing, skiing, snowshoeing, snowmobiling, hunting, fishing, mountain climbing, swimming, and off-highway vehicle driving and riding. The term does not include any activity:
+
+(1) for which the activity offered or sold is occurring simultaneously with the transportation; or
+
+(2) for which the transportation is the primary service offered for sale.
+
+[43 FR 2397, Jan. 17, 1978, as amended at 45 FR 45524, July 3, 1980; 47 FR 13353, Mar. 30, 1982; 47 FR 15142, Apr. 8, 1982; 66 FR 49870, Oct. 1, 2001; 89 FR 13997, Feb. 26, 2024]

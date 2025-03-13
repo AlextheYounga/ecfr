@@ -1,5 +1,7 @@
 ##### § 541.300 General rule for professional employees. #####
 
+Link to an amendment published at 89 FR 32971, Apr. 26, 2024.
+
 (a) The term “employee employed in a bona fide professional capacity” in section 13(a)(1) of the Act shall mean any employee:
 
 (1) Compensated on a salary or fee basis pursuant to § 541.600 at a rate of not less than $684 per week (or $455 per week if employed in the Commonwealth of the Northern Mariana Islands, Guam, Puerto Rico, or the U.S. Virgin Islands by employers other than the Federal government, or $380 per week if employed in American Samoa by employers other than the Federal government), exclusive of board, lodging or other facilities; and

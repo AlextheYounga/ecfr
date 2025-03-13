@@ -1,5 +1,7 @@
 ##### § 5.71 Safety performance monitoring and measurement. #####
 
+Link to an amendment published at 89 FR 33107, Apr. 26, 2024.
+
 (a) The certificate holder must develop and maintain processes and systems to acquire data with respect to its operations, products, and services to monitor the safety performance of the organization. These processes and systems must include, at a minimum, the following:
 
 (1) Monitoring of operational processes.

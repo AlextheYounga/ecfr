@@ -1,5 +1,7 @@
 ##### § 5.97 SMS records. #####
 
+Link to an amendment published at 89 FR 33108, Apr. 26, 2024.
+
 (a) The certificate holder must maintain records of outputs of safety risk management processes as described in subpart C of this part. Such records must be retained for as long as the control remains relevant to the operation.
 
 (b) The certificate holder must maintain records of outputs of safety assurance processes as described in subpart D of this part. Such records must be retained for a minimum of 5 years.

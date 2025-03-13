@@ -1,5 +1,7 @@
 ##### § 5.23 Safety accountability and authority. #####
 
+Link to an amendment published at 89 FR 33106, Apr. 26, 2024.
+
 (a) The certificate holder must define accountability for safety within the organization's safety policy for the following individuals:
 
 (1) Accountable executive, as described in § 5.25.

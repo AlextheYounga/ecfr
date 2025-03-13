@@ -1,5 +1,7 @@
 ##### § 259.5 Customer Service Plan. #####
 
+Link to an amendment published at 89 FR 32832, Apr. 26, 2024.
+
 (a) *Adoption of Plan.* Each covered carrier shall adopt a Customer Service Plan applicable to its scheduled flights and shall adhere to the plan's terms.
 
 (b) *Contents of Plan.* Each Customer Service Plan shall address the following subjects and comply with the minimum standards set forth:

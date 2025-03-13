@@ -1,5 +1,7 @@
 ##### § 5.25 Designation and responsibilities of required safety management personnel. #####
 
+Link to an amendment published at 89 FR 33106, Apr. 26, 2024.
+
 (a) *Designation of the accountable executive.* The certificate holder must identify an accountable executive who, irrespective of other functions, satisfies the following:
 
 (1) Is the final authority over operations authorized to be conducted under the certificate holder's certificate(s).

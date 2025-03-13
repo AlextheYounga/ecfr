@@ -1,5 +1,7 @@
 ##### § 5.73 Safety performance assessment. #####
 
+Link to an amendment published at 89 FR 33108, Apr. 26, 2024.
+
 (a) The certificate holder must conduct assessments of its safety performance against its safety objectives, which include reviews by the accountable executive, to:
 
 (1) Ensure compliance with the safety risk controls established by the certificate holder.

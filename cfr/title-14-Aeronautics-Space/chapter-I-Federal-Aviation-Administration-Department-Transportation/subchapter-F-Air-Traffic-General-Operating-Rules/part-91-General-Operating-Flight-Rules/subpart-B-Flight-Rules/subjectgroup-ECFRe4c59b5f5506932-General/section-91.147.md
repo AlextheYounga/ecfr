@@ -1,5 +1,7 @@
 ##### § 91.147 Passenger carrying flights for compensation or hire. #####
 
+Link to an amendment published at 89 FR 33108, Apr. 26, 2024.
+
 Each Operator conducting passenger-carrying flights for compensation or hire must meet the following requirements unless all flights are conducted under § 91.146.
 
 (a) For the purposes of this section and for drug and alcohol testing, *Operator* means any person conducting nonstop passenger-carrying flights in an airplane, powered-lift, or rotorcraft for compensation or hire in accordance with § 119.1(e)(2), § 135.1(a)(5), or § 121.1(d) of this chapter that begin and end at the same airport and are conducted within a 25-statute mile radius of that airport.

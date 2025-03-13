@@ -1,5 +1,7 @@
 ##### § 541.204 Educational establishments. #####
 
+Link to an amendment published at 89 FR 32971, Apr. 26, 2024.
+
 (a) The term “employee employed in a bona fide administrative capacity” in section 13(a)(1) of the Act also includes employees:
 
 (1) Compensated on a salary or fee basis at a rate of not less than $684 per week (or $455 per week if employed in the Commonwealth of the Northern Mariana Islands, Guam, Puerto Rico, or the U.S. Virgin Islands by employers other than the Federal government, or $380 per week if employed in American Samoa by employers other than the Federal government), exclusive of board, lodging, or other facilities; or on a salary basis which is at least equal to the entrance salary for teachers in the educational establishment by which employed; and

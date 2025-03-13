@@ -1,5 +1,7 @@
 ##### § 541.605 Fee basis. #####
 
+Link to an amendment published at 89 FR 32972, Apr. 26, 2024.
+
 (a) Administrative and professional employees may be paid on a fee basis, rather than on a salary basis. An employee will be considered to be paid on a “fee basis” within the meaning of these regulations if the employee is paid an agreed sum for a single job regardless of the time required for its completion. These payments resemble piecework payments with the important distinction that generally a “fee” is paid for the kind of job that is unique rather than for a series of jobs repeated an indefinite number of times and for which payment on an identical basis is made over and over again. Payments based on the number of hours or days worked and not on the accomplishment of a given single task are not considered payments on a fee basis.
 
 (b) To determine whether the fee payment meets the minimum amount of salary required for exemption under these regulations, the amount paid to the employee will be tested by determining the time worked on the job and whether the fee payment is at a rate that would amount to at least the minimum salary per week, as required by §§ 541.600(a) and 541.602(a), if the employee worked 40 hours. Thus, an artist paid $350 for a picture that took 20 hours to complete meets the $684 minimum salary requirement for exemption since earnings at this rate would yield the artist $700 if 40 hours were worked.

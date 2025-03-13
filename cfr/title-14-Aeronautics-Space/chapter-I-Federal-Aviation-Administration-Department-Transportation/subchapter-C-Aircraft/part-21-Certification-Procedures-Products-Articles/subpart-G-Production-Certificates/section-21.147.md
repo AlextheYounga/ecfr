@@ -1,5 +1,7 @@
 ##### § 21.147 Amendment of production certificates. #####
 
+Link to an amendment published at 89 FR 33108, Apr. 26, 2024.
+
 (a) A holder of a production certificate must apply for an amendment to a production certificate in a form and manner prescribed by the FAA.
 
 (b) An applicant for an amendment to a production certificate to add a type certificate or model, or both, must comply with §§ 21.137, 21.138, and 21.150.
