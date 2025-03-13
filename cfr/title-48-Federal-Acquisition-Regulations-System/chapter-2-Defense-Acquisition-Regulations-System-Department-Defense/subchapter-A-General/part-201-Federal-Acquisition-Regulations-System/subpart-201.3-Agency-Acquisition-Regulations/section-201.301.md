@@ -1,5 +1,7 @@
 ##### 201.301 Policy. #####
 
+Link to an amendment published at 88 FR 73235, Oct. 25, 2023.
+
 (a)(1) DoD implementation and supplementation of the FAR is issued in the Defense Federal Acquisition Regulation Supplement (DFARS) under authorization and subject to the authority, direction, and control of the Secretary of Defense. The DFARS contains—
 
 (i) Requirements of law;

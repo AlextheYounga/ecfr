@@ -1,5 +1,7 @@
 ##### § 734.2 Subject to the EAR. #####
 
+Link to an amendment published at 88 FR 73488, Oct. 25, 2023.
+
 (a) *Subject to the EAR—Definition.* (1) *“Subject to the EAR*” is a term used in the EAR to describe those items and activities over which BIS exercises regulatory jurisdiction under the EAR. Conversely, items and activities that are not subject to the EAR are outside the regulatory jurisdiction of the EAR and are not affected by these regulations. The items and activities subject to the EAR are described in §§ 734.2 through 734.5 and 734.9 of this part. You should review the Commerce Control List (CCL) and any applicable parts of the EAR to determine whether an item or activity is subject to the EAR. However, if you need help in determining whether an item or activity is subject to the EAR, see § 734.6 of this part. Publicly available technology and software not subject to the EAR are described in §§ 734.7, 734.8, 734.10, and supplement no. 1 to this part.
 
 (2) Items and activities subject to the EAR may also be controlled under export-related programs administered by other agencies. Items and activities subject to the EAR are not necessarily exempted from the control programs of other agencies. Although BIS and other agencies that maintain controls for national security and foreign policy reasons try to minimize overlapping jurisdiction, you should be aware that in some instances you may have to comply with more than one regulatory program.

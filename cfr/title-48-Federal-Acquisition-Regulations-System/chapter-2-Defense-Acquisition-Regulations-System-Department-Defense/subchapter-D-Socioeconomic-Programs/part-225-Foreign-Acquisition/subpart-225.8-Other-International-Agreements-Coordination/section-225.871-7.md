@@ -1,5 +1,7 @@
 ##### 225.871-7 Congressional notification. #####
 
+Link to an amendment published at 88 FR 73236, Oct. 25, 2023.
+
 (a) Congressional notification is required when DoD makes a determination to award a contract or subcontract to a particular entity, if the determination was not part of the certification made under 22 U.S.C. 2767(f) before finalizing the cooperative agreement.
 
 (1) Departments and agencies shall provide a proposed Congressional notice to the Director of Defense Procurement and Acquisition Policy in sufficient time to forward to Congress before the time of contract award.

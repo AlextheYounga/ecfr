@@ -1,5 +1,7 @@
 ##### § 1610.5 Test apparatus and materials. #####
 
+Link to an amendment published at 88 FR 73231, Oct. 25, 2023.
+
 (a) *Flammability apparatus.* The flammability test apparatus consists of a draft-proof ventilated chamber enclosing a standardized ignition mechanism, sample rack, and automatic timing mechanism. The flammability apparatus shall meet the minimum requirements for testing as follows.
 
 (1) *Test chamber*—(i) *Test chamber structure.* The test chamber shall be a metal, draft-proof ventilated chamber. The test chamber shall have inside dimensions of 35.3 cm high by 36.8 cm wide by 21.6 cm deep (14 in by 14.5 in by 8.5 in). There shall be eleven or twelve 12.7 mm diameter (0.5 in) holes equidistant along the rear of the top closure. The front of the chamber shall be a close fitting door with an insert made of clear material (i.e., glass, plexiglass) to permit observation of the entire test. A ventilating strip is provided at the base of the door in the front of the apparatus. The test chamber to be used in this test method is illustrated in Figures 1 and 2 of this part.

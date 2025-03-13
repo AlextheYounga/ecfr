@@ -1,5 +1,7 @@
 ##### § 758.1 The Electronic Export Information (EEI) filing to the Automated Export System (AES). #####
 
+Link to an amendment published at 88 FR 73497, Oct. 25, 2023.
+
 (a) The *Electronic Export Information (EEI) filing to the Automated Export System (AES).* The EEI is used by the Bureau of Census to collect trade statistics and by the Bureau of Industry and Security for export control purposes. The EEI collects basic information such as the names and addresses of the parties to a transaction; the Export Control Classification Number (ECCN) (when required), the Schedule B number or Harmonized Tariff Schedule of the United States (HTS) number, the description, quantity and value of the items exported; and the license authority for the export. The EEI is a statement to the United States Government that the transaction occurred as described.
 
 (b) *When is an EEI filing required to be filed in the AES.* Except when the export of items subject to the EAR is to take place electronically or in an otherwise intangible form, you must file EEI in the AES with the United States Government for items subject to the EAR, including exports by U.S. mail, in the following situations:

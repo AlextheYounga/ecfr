@@ -1,5 +1,7 @@
 ##### 232.7101 Policy and procedures. #####
 
+Link to an amendment published at 88 FR 73237, Oct. 25, 2023.
+
 (a) The contracting officer shall require the contractor to—
 
 (1) Promptly notify the contracting officer when a levy may result in an inability to perform the contract; and

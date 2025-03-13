@@ -1,5 +1,7 @@
 ##### 201.402 Policy. #####
 
+Link to an amendment published at 88 FR 73235, Oct. 25, 2023.
+
 (1) The Director of Defense Procurement and Acquisition Policy, Office of the Under Secretary of Defense (Acquisition, Technology, and Logistics) (OUSD(AT&L)DPAP), is the approval authority within DoD for any individual or class deviation from—
 
 (i) FAR 3.104, Procurement Integrity, or DFARS 203.104, Procurement Integrity;

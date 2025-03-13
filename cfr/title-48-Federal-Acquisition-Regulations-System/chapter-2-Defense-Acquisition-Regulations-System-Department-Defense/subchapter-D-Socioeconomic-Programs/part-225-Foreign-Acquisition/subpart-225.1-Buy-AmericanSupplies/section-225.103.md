@@ -1,5 +1,7 @@
 ##### 225.103 Exceptions. #####
 
+Link to an amendment published at 88 FR 73236, Oct. 25, 2023.
+
 (a)(i)(A) Public interest exceptions for certain countries are in 225.872.
 
 (B) For procurements covered by the World Trade Organization Government Procurement Agreement, the Under Secretary of Defense (Acquisition, Technology, and Logistics) has determined that it is inconsistent with the public interest to apply the Buy American statute to end products that are substantially transformed in the United States.

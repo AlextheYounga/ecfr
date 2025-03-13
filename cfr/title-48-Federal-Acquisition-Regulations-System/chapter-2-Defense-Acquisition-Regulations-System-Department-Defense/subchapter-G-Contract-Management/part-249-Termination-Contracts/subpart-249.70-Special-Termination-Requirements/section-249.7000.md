@@ -1,5 +1,7 @@
 ##### 249.7000 Terminated contracts with Canadian Commercial Corporation. #####
 
+Link to an amendment published at 88 FR 73238, Oct. 25, 2023.
+
 (a) Terminate contracts with the Canadian Commercial Corporation in accordance with—
 
 (1) The Letter of Agreement (LOA) between the Department of Defence Production (Canada) and the U.S. DoD, “Canadian Agreement” (for a copy of the LOA or for questions on its currency, contact the Office of the Director of Defense Procurement and Acquisition Policy (Contract Policy and International Contracting), osd.pentagon.ousd-atl.mbx.cpic@mail.mil);

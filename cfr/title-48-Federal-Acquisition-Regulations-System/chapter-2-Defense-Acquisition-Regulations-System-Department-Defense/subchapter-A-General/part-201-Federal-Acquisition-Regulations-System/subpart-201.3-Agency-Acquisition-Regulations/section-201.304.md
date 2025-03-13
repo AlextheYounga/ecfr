@@ -1,5 +1,7 @@
 ##### 201.304 Agency control and compliance procedures. #####
 
+Link to an amendment published at 88 FR 73235, Oct. 25, 2023.
+
 Departments and agencies and their component organizations may issue acquisition regulations as necessary to implement or supplement the FAR or DFARS.
 
 (1)(i) Approval of the USD (AT&L) is required before including in a department/agency or component supplement, or any other contracting regulation document such as a policy letter or clause book, any policy, procedure, clause, or form that—

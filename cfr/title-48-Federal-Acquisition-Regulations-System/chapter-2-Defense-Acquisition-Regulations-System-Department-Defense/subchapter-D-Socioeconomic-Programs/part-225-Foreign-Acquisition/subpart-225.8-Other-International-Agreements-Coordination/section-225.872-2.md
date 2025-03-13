@@ -1,5 +1,7 @@
 ##### 225.872-2 Applicability. #####
 
+Link to an amendment published at 88 FR 73236, Oct. 25, 2023.
+
 (a) This section applies to all acquisitions of supplies except those restricted by—
 
 (1) U.S. National Disclosure Policy, DoDD 5230.11, Disclosure of Classified Military Information to Foreign Governments and International Organizations;

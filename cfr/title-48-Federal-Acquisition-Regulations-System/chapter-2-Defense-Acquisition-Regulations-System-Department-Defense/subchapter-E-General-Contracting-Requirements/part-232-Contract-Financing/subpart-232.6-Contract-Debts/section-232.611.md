@@ -1,5 +1,7 @@
 ##### 232.611 Contract clause. #####
 
+Link to an amendment published at 88 FR 73237, Oct. 25, 2023.
+
 (a) The Director of Defense Procurement and Acquisition Policy, Office of the Under Secretary of Defense (Acquisition, Technology, and Logistics), may exempt the contracts in FAR 32.611(a)(2) through (5) and other contracts, in exceptional circumstances, from the administrative interest charges required by this subpart.
 
 (7) Other exceptions are—

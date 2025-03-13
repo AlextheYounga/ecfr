@@ -1,5 +1,7 @@
 ##### 252.225-7040 Contractor Personnel Supporting U.S. Armed Forces Deployed Outside the United States. #####
 
+Link to an amendment published at 88 FR 73238, Oct. 25, 2023.
+
 As prescribed in 225.371-5(a), use the following clause:
 
 Contractor Personnel Supporting U.S. Armed Forces Deployed Outside the United States (OCT 2015)

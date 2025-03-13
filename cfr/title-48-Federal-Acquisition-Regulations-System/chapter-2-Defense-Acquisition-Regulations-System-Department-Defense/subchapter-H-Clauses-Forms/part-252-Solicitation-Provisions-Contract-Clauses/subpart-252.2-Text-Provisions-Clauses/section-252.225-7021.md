@@ -1,5 +1,7 @@
 ##### 252.225-7021 Trade Agreements. #####
 
+                                                                                                                                                                                                                                Link to an amendment published at 88 FR 73242, Oct. 25, 2023.
+
                                                                                                                                                                                                                                 *Basic.* As prescribed in 225.1101(6) and (6)(i), use the following clause:
 
                                                                                                                                                                                                                                 Trade Agreements—Basic (JAN 2023)

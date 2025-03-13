@@ -1,5 +1,7 @@
 ##### 201.201-1 The two councils. #####
 
+Link to an amendment published at 88 FR 73234, Oct. 25, 2023.
+
 (c) The composition and operation of the DAR Council is prescribed in DoD Instruction 5000.35, Defense Acquisition Regulations (DAR) System.
 
 (d)(i) Departments and agencies process proposed revisions of FAR or DFARS through channels to the Director of the DAR Council. Process the proposed revision as a memorandum in the following format, addressed to the Director, DAR Council, OUSD(AT&L), 3060 Defense Pentagon, Washington, DC 20301-3060; datafax (571) 372-6094:

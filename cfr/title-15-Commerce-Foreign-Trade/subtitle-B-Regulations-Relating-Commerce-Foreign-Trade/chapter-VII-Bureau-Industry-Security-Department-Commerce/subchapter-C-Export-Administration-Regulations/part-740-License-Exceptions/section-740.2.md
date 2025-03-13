@@ -1,5 +1,7 @@
 ##### § 740.2 Restrictions on all License Exceptions. #####
 
+Link to an amendment published at 88 FR 73447, Oct. 25, 2023.Link to an amendment published at 88 FR 73491, Oct. 25, 2023.
+
 (a) You may not use *any* License Exception if *any* one or more of the following apply:
 
 (1) Your authorization to use a License Exception has been suspended or revoked, or your intended export does not qualify for a License Exception.

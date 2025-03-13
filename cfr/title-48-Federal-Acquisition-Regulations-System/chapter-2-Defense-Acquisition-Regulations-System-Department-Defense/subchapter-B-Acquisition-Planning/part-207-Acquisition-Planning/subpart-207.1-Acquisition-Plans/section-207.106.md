@@ -1,5 +1,7 @@
 ##### 207.106 Additional requirements for major systems. #####
 
+Link to an amendment published at 88 FR 73236, Oct. 25, 2023.
+
 (b)(1)(A) The contracting officer is prohibited by 10 U.S.C. 3208(d)(1) from requiring offers for development or production of major systems that would enable the Government to use technical data to competitively reprocure identical items or components of the system if the item or component were developed exclusively at private expense, unless the contracting officer determines that—
 
 (*1*) The original supplier of the item or component will be unable to satisfy program schedule or delivery requirements;

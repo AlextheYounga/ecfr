@@ -1,5 +1,7 @@
 ##### 230.201-5 Waiver. #####
 
+Link to an amendment published at 88 FR 73237, Oct. 25, 2023.
+
 (a)(1)(A) The military departments and the Director, Defense Procurement and Acquisition Policy, Office of the Under Secretary of Defense (Acquisition, Technology, and Logistics)—
 
 (*1*) May grant CAS waivers that meet the conditions in FAR 30.201-5(b)(1); and

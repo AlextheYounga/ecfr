@@ -1,5 +1,7 @@
 ##### § 1610.6 Test procedure. #####
 
+Link to an amendment published at 88 FR 73231, Oct. 25, 2023.
+
 The test procedure is divided into two steps. Step 1 is testing in the original state; Step 2 is testing after the fabric has been refurbished according to paragraph (b)(1) of this section.
 
 (a) *Step 1—Testing in the original state.* (1) Tests shall be conducted on the fabric in a form or state ready for use in wearing apparel. Determine whether the fabric to be tested is a plain surface textile fabric or a raised surface textile fabric as defined in § 1610.2 (k) and (l). There are some fabrics that require extra attention when preparing test specimens because of their particular construction characteristics. Examples of these fabrics are provided in paragraphs (a)(1)(i) through (vi) of this section along with guidelines for preparing specimens from these fabrics. This information is not intended to be all-inclusive.

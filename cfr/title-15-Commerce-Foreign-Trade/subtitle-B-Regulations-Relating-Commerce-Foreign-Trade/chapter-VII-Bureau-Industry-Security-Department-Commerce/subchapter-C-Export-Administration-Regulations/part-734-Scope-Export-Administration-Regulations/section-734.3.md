@@ -1,5 +1,7 @@
 ##### § 734.3 Items subject to the EAR. #####
 
+Link to an amendment published at 88 FR 73488, Oct. 25, 2023.
+
 (a) Except for items excluded in paragraph (b) of this section, the following items are subject to the EAR:
 
 (1) All items in the United States, including in a U.S. Foreign Trade Zone or moving intransit through the United States from one foreign country to another;

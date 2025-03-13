@@ -1,5 +1,7 @@
 ##### § 1610.8 Reporting results. #####
 
+Link to an amendment published at 88 FR 73233, Oct. 25, 2023.
+
 (a) The reported result shall be the classification before or after refurbishing, whichever is the more severe; and based on this result, the textile shall be placed in the proper final classification as described in § 1610.4.
 
 (b) *Test result codes.* The following are the definitions for the test result codes, which shall be used for recording flammability results for each specimen that is burned.

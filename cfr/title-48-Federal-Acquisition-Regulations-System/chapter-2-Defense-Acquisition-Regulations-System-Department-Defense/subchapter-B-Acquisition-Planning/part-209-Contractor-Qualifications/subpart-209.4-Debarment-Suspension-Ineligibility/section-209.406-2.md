@@ -1,5 +1,7 @@
 ##### 209.406-2 Causes for debarment. #####
 
+Link to an amendment published at 88 FR 73236, Oct. 25, 2023.
+
 (1) Any person shall be considered for debarment if criminally convicted of intentionally affixing a label bearing a “Made in America” inscription to any product sold in or shipped to the United States or its outlying areas that was not made in the United States or its outlying areas (10 U.S.C. 4658).
 
 (i) The debarring official will make a determination concerning debarment not later than 90 days after determining that a person has been so convicted.

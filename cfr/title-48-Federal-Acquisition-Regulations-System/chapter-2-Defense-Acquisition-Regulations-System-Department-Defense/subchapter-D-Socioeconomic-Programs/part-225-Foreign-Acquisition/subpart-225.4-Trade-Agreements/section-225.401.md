@@ -1,5 +1,7 @@
 ##### 225.401 Exceptions. #####
 
+Link to an amendment published at 88 FR 73236, Oct. 25, 2023.
+
 (a)(2)(A) If a department or agency considers an individual acquisition of a product to be indispensable for national security or national defense purposes and appropriate for exclusion from the provisions of FAR subpart 25.4, it may submit a request with supporting rationale to the Director of Defense Procurement and Acquisition Policy (OUSD(AT&L)DPAP). Approval by OUSD(AT&L)DPAP is not required if—
 
 (*1*) Purchase from foreign sources is restricted by statute (see subpart 225.70);

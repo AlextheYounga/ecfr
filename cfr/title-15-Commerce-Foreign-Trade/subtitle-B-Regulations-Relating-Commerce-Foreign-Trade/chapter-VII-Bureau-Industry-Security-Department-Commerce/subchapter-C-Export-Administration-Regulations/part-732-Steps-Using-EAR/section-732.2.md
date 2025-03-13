@@ -1,5 +1,7 @@
 ##### § 732.2 Steps regarding scope of the EAR. #####
 
+Link to an amendment published at 88 FR 73487, Oct. 25, 2023.
+
 Steps 1 though 6 are designed to aid you in determining the scope of the EAR. A flow chart describing these steps is contained in supplement no. 2 to part 732.
 
 (a) *Step 1: Items subject to the exclusive jurisdiction of another Federal agency.* This step is relevant for both exports and reexports. Determine whether your item is subject to the exclusive jurisdiction of another Federal Agency as provided in § 734.3 of the EAR.

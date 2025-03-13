@@ -1,5 +1,7 @@
 ##### § 734.9 Foreign-Direct Product (FDP) Rules. #####
 
+Link to an amendment published at 88 FR 73488, Oct. 25, 2023.
+
 Foreign-produced items located outside the United States are subject to the EAR when they are a “direct product” of specified “technology” or “software,” or are produced by a plant or 'major component' of a plant that itself is a “direct product” of specified “technology” or “software.” If a foreign-produced item is subject to the EAR, then you should separately determine the license requirements that apply to that foreign-produced item (e.g., by assessing the item classification, destination, end-use, and end-user in the relevant transaction). Not all transactions involving foreign-produced items that are subject to the EAR require a license. Those transactions that do require a license may be eligible for a license exception.
 
 (a) *Definitions.* The terms defined in this paragraph are specific to § 734.9 of the EAR. These terms are indicated by single quotation marks. Terms that are in double quotation marks are defined in part 772 of the EAR.

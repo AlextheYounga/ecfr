@@ -1,5 +1,7 @@
 ##### 202.101 Definitions. #####
 
+Link to an amendment published at 88 FR 73235, Oct. 25, 2023.
+
 *Authorized aftermarket manufacturer* means an organization that fabricates an electronic part under a contract with, or with the express written authority of, the original component manufacturer based on the original component manufacturer's designs, formulas, and/or specifications.
 
 *Compromise* means disclosure of information to unauthorized persons, or a violation of the security policy of a system, in which unauthorized intentional or unintentional disclosure, modification, destruction, or loss of an object, or the copying of information to unauthorized media may have occurred.

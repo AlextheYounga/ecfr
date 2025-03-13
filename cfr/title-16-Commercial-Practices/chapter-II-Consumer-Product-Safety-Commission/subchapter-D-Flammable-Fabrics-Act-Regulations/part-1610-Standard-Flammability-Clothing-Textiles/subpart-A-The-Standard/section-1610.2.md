@@ -1,5 +1,7 @@
 ##### § 1610.2 Definitions. #####
 
+Link to an amendment published at 88 FR 73230, Oct. 25, 2023.
+
 In addition to the definitions given in Section 2 of the Flammable Fabrics Act as amended (15 U.S.C. 1191), the following definitions apply for this part 1610.
 
 (a) *Base burn* (also known as base fabric ignition or fusing) means the point at which the flame burns the ground (base) fabric of a raised surface textile fabric and provides a self-sustaining flame. Base burns, used to establish a Class 3 fabric, are those burns resulting from surface flash that occur on specimens in places other than the point of impingement when the warp and fill yarns of a raised surface textile fabric undergo combustion. Base burns can be identified by an opacity change, scorching on the reverse side of the fabric, or when a physical hole is evident.

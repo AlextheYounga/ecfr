@@ -1,5 +1,7 @@
 ##### § 740.16 Additional permissive reexports (APR). #####
 
+Link to an amendment published at 88 FR 73492, Oct. 25, 2023.
+
 This License Exception allows the following reexports:
 
 (a) *Reexports from Country Group A:1.* Reexports may be made from countries in Country Group A:1, provided that:

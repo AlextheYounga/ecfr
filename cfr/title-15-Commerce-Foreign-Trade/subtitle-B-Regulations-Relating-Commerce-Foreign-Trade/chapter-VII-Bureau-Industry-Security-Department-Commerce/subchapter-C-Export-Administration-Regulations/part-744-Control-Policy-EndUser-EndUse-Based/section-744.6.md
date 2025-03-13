@@ -1,5 +1,7 @@
 ##### § 744.6 Restrictions on specific activities of “U.S. persons.” #####
 
+Link to an amendment published at 88 FR 73448, Oct. 25, 2023.Link to an amendment published at 88 FR 73494, Oct. 25, 2023.
+
 (a) *Scope.* The general prohibitions in this section apply only to the extent that the underlying activities are not subject to a license requirement or general prohibition administered by another federal department or agency, see, for example, Assistance to Foreign Atomic Energy Activities regulations (10 CFR part 810), administered by the Department of Energy; International Traffic in Arms Regulations (ITAR) (22 CFR parts 120 through 130), administered by the Department of State; and certain sanctions regulations (to include, but not limited to, 31 CFR parts 500 through 599), administered by the Department of the Treasury. Accordingly, “U.S. persons” are required to seek a license from BIS only for the activities described in this section that are not subject to a license requirement or general prohibition administered by the Department of Energy, Department of State, Department of the Treasury, or other federal department or agency. The issuance of a license by BIS, or any other federal department or agency, does not authorize “U.S. persons” to engage in any activity that is otherwise prohibited by law, including criminal statutes.
 
 (b) *General prohibitions.* No “U.S. person” may, without a license from BIS, 'support':

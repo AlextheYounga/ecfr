@@ -1,5 +1,7 @@
 ##### 217.7405 Plans and reports. #####
 
+Link to an amendment published at 88 FR 73236, Oct. 25, 2023.
+
 (a) To provide for enhanced management and oversight of UCAs, departments and agencies shall—
 
 (1) Prepare and maintain a Consolidated UCA Management Plan; and

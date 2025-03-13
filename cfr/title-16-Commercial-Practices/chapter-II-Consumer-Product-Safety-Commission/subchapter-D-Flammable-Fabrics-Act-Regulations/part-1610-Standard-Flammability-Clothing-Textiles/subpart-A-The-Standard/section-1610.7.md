@@ -1,5 +1,7 @@
 ##### § 1610.7 Test sequence and classification criteria. #####
 
+Link to an amendment published at 88 FR 73231, Oct. 25, 2023.
+
 (a) *Preliminary and final classifications.* Preliminary classifications are assigned based on the test results both before and after refurbishing. The final classification shall be the preliminary classification before or after refurbishing, whichever is the more severe flammability classification.
 
 (b) *Test sequence and classification criteria.* (1) Step 1, Plain Surface Textile Fabrics in the original state.

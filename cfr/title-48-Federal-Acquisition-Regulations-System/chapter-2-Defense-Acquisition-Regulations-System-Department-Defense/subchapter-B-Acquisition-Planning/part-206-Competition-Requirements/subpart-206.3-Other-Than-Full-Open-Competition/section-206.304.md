@@ -1,5 +1,7 @@
 ##### 206.304 Approval of the justification. #####
 
+Link to an amendment published at 88 FR 73236, Oct. 25, 2023.
+
 (a)(4) The Under Secretary of Defense (Acquisition, Technology, and Logistics) may delegate this authority to—
 
 (A) An Assistant Secretary of Defense; or

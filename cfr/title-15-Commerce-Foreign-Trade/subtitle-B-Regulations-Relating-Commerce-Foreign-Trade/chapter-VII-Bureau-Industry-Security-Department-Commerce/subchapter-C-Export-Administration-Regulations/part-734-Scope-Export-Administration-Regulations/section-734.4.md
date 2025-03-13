@@ -1,5 +1,7 @@
 ##### § 734.4 De minimis U.S. content. #####
 
+Link to an amendment published at 88 FR 73446, Oct. 25, 2023.Link to an amendment published at 88 FR 73488, Oct. 25, 2023.
+
 (a) *Items for which there is no de minimis level.* (1) There is no *de minimis* level for the export from a foreign country of a foreign-made computer with an Adjusted Peak Performance (APP) exceeding that listed in ECCN 4A003.b and containing U.S.-origin controlled semiconductors (other than memory circuits) classified under ECCN 3A001 to Computer Tier 3 destinations; or exceeding an APP listed in ECCN 4A994.b and containing U.S.-origin controlled semiconductors (other than memory circuits) classified under ECCN 3A001 or high speed interconnect devices (ECCN 4A994.j) to Cuba, Iran, North Korea, and Syria.
 
 (2) Foreign produced encryption technology that incorporates U.S. origin encryption technology controlled by ECCN 5E002 is subject to the EAR regardless of the amount of U.S. origin content.

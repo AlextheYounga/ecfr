@@ -1,5 +1,7 @@
 ##### § 740.19 Consumer Communications Devices (CCD). #####
 
+Link to an amendment published at 88 FR 73493, Oct. 25, 2023.
+
 (a) *Authorizations.* This section authorizes the export, reexport, or transfer (in-country) of commodities and software to Cuba, Russia, and Belarus subject to the requirements stated in this section. This section does not authorize U.S. owned or controlled entities in third countries to engage in reexports of foreign produced commodities to Cuba for which no license would be issued by the Department of the Treasury pursuant to 31 CFR 515.559.
 
 (b) *Eligible commodities and software.* Commodities and software in paragraphs (b)(1) through (16) of this section are eligible for export, reexport, or transfer (in-country) under this section to and within Cuba, Russia, and Belarus.

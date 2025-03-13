@@ -1,5 +1,7 @@
 ##### 225.770-5 Waiver of prohibition. #####
 
+Link to an amendment published at 88 FR 73236, Oct. 25, 2023.
+
 (a) The prohibition in 225.770-2 may be waived, on a case-by-case basis, if an official identified in paragraph (b) of this subsection determines that a waiver is necessary for national security purposes.
 
 (b) The following officials are authorized, without power of delegation, to make the determination specified in paragraph (a) of this subsection:

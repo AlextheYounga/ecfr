@@ -1,5 +1,7 @@
 ##### § 744.23 “Supercomputer” and semiconductor manufacturing end use. #####
 
+Link to an amendment published at 88 FR 73449, Oct. 25, 2023.Link to an amendment published at 88 FR 73495, Oct. 25, 2023.
+
 (a) *General prohibition.* In addition to the license requirements for items specified on the CCL, you may not export, reexport, or transfer (in-country) without a license any item subject to the EAR meeting the product scope in paragraph (a)(1) of this section when you have “knowledge” at the time of export, reexport, or transfer (in-country) that the item is destined for the end-use described in paragraph (a)(2) of this section.
 
 (1) *Product scope.* Any of the following items meet the product scope of the prohibition in this section:

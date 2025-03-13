@@ -1,5 +1,7 @@
 ##### 225.403 World Trade Organization Government Procurement Agreement and Free Trade Agreements. #####
 
+Link to an amendment published at 88 FR 73236, Oct. 25, 2023.
+
 (c) For acquisitions of supplies covered by the World Trade Organization Government Procurement Agreement, acquire only U.S.-made, qualifying country, or designated country end products unless—
 
 (i) The contracting officer determines that offers of U.S.-made, qualifying country, or designated country end products from responsive, responsible offerors are either—

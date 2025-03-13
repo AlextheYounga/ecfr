@@ -1,5 +1,7 @@
 ##### 225.872-3 Solicitation procedures. #####
 
+Link to an amendment published at 88 FR 73237, Oct. 25, 2023.
+
 (a) Except for items developed under the U.S./Canadian Development Sharing Program, use the criteria for soliciting and awarding contracts to small business concerns under FAR Part 19 without regard to whether there are potential qualifying country sources for the end product. Do not consider an offer of a qualifying country end product if the solicitation is identified for the exclusive participation of small business concerns.
 
 (b) Send solicitations directly to qualifying country sources. Solicit Canadian sources through the Canadian Commercial Corporation in accordance with 225.870.
