@@ -1,10 +1,8 @@
 ##### § 210.27 General provisions governing discovery. #####
 
-Link to an amendment published at 90 FR 243, Jan. 3, 2025.
-
 (a) *Discovery methods.* The parties to an investigation may obtain discovery by one or more of the following methods: depositions upon oral examination or written questions; written interrogatories; production of documents or things or permission to enter upon land or other property for inspection or other purposes; and requests for admissions.
 
-(b) *Scope of discovery.* Regarding the scope of discovery for the temporary relief phase of an investigation, see § 210.61. For the permanent relief phase of an investigation, unless otherwise ordered by the administrative law judge, a party may obtain discovery regarding any matter, not privileged, that is relevant to the following:
+(b) *Scope of discovery.* Regarding the scope of discovery for the temporary relief phase of an investigation, see § 210.61 and the limitations of paragraph (d) of this section. For the permanent relief phase of an investigation, unless otherwise ordered by the administrative law judge, a party may obtain discovery, subject to the limitations of paragraph (d) of this section, regarding any matter, not privileged, that is proportional to the needs of the investigation and relevant to the following:
 
 (1) The claim or defense of the party seeking discovery or to the claim or defense of any other party, including the existence, description, nature, custody, condition, and location of any books, documents, or other tangible things;
 
@@ -56,7 +54,7 @@ It is not grounds for objection that the information sought will be inadmissible
 
 (C) Within 7 days of service of the notice take reasonable steps to retrieve the document if the person disclosed it to others before being notified.
 
-(ii) Within 7 days of service of the notice, the claimant and the parties shall meet and confer in good faith to resolve the claim of privilege or protection. Within 5 days after the conference, a party may file a motion to compel the production of the document and may, in the motion to compel, use a description of the document from the notice produced under this paragraph. In connection with the motion to compel, the party may submit the document *in camera* for consideration by the administrative law judge. The person that produced the document must preserve the document until the claim of privilege or protection is resolved.
+(ii) If there exists a disagreement about the basis for the claim of privilege or protection as attorney work product, within seven (7) days of service of the notice, the claimant and the parties shall meet and confer in good faith to resolve the claim of privilege or protection. If, after meeting and conferring there continues to be a disagreement, within five (5) days after the conference, a party may file a motion to compel the production of the document and may, in the motion to compel, use a description of the document from the notice produced under this paragraph (e)(2). In connection with the motion to compel, the party may submit the document *in camera* for consideration by the administrative law judge. The person that produced the document must preserve the document until the claim of privilege or protection is resolved.
 
 (3) Parties may enter into a written agreement to waive compliance with paragraph (e)(1) of this section for documents, communications, and items created or communicated within a time period specified in the agreement. The administrative law judge may decline to entertain any motion based on information claimed to be subject to the agreement. If information claimed to be subject to the agreement is produced in discovery then the administrative law judge may determine that the produced information is not entitled to privilege or protection.
 
@@ -70,7 +68,7 @@ It is not grounds for objection that the information sought will be inadmissible
 
 (B) Identify facts or data that the party's attorney provided and that the expert considered in forming the opinions to be expressed; or
 
-(iii) Identify assumptions that the party's attorney provided and that the expert relied on in forming the opinions to be expressed.
+(C) Identify assumptions that the party's attorney provided and that the expert relied on in forming the opinions to be expressed.
 
 (f) *Supplementation of responses.* (1) A party who has responded to a request for discovery with a response is under a duty to supplement or correct the response to include information thereafter acquired if ordered by the administrative law judge or the Commission or in the following circumstances: A party is under a duty seasonably to amend a prior response to an interrogatory, request for production, or request for admission if the party learns that the response is in some material respect incomplete or incorrect and if the additional or corrective information has not otherwise been made known to the other parties during the discovery process or in writing.
 
@@ -94,4 +92,4 @@ If a request, response, or objection is not signed, it shall be stricken unless 
 
 (5) Monetary sanctions may be imposed under this section to reimburse the Commission for expenses incurred by a Commission investigative attorney or the Commission's Office of Unfair Import Investigations. Monetary sanctions will not be imposed under this section to reimburse the Commission for attorney's fees.
 
-[59 FR 39039, Aug. 1, 1994, as amended at 78 FR 29623, May 21, 2013; 83 FR 21161, May 8, 2018]
+[59 FR 39039, Aug. 1, 1994, as amended at 78 FR 29623, May 21, 2013; 83 FR 21161, May 8, 2018; 90 FR 243, Jan. 3, 2025]

@@ -20,7 +20,7 @@ The following principles shall apply to the disposition of carcasses of livestoc
 
 (b) *Organs or other parts condemned.* An organ or other part of a swine, cattle, sheep, goat, or equine carcass affected by localized tuberculosis shall be condemned when it contains lesions of tuberculosis or when the corresponding lymph node contains lesions of tuberculosis.
 
-(c) *Carcasses of cattle passed without restriction for human food.* Carcasses of cattle may be passed without restriction for human food only when the carcass of an animal not identified as a reactor to a tuberculin test administered by an Animal and Plant Health Inspection Service, State, or accredited veterinarian1 is found free of tuberculosis lesions during postmortem inspection.
+(c) *Carcasses of cattle passed without restriction for human food.* Carcasses of cattle may be passed without restriction for human food only when the carcass of an animal not identified as a reactor to a tuberculin test administered by an Animal and Plant Health Inspection Service, State, or accredited veterinarian 1 is found free of tuberculosis lesions during postmortem inspection.
 
 1 Such testing is conducted in the tuberculosis eradication program of the Animal and Plant Health Inspection Service, U.S. Department of Agriculture.
 

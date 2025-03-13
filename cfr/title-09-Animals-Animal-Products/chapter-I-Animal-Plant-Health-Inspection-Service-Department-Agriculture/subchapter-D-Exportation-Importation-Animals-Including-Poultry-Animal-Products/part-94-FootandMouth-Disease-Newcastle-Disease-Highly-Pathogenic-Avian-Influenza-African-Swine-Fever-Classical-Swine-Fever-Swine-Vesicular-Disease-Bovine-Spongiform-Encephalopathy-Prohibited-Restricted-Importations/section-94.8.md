@@ -14,8 +14,7 @@
 
 (v) Any other fact or circumstance found to exist which constitutes a risk of introduction of African swine fever into the United States.
 
-(2) A list of regions where African swine fever exists or the Administrator has reason to believe that African swine fever exists is maintained on the APHIS website
-at *https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-and-animal-product-import-information/animal-health-status-of-regions.* Copies of the list are also available via postal mail upon request to Regionalization Evaluation Services, Strategy and Policy, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road, Unit 38, Riverdale, Maryland 20737; *AskRegionalization@usda.gov.*
+(2) A list of regions where African swine fever exists or the Administrator has reason to believe that African swine fever exists is maintained on the APHIS website at *https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-and-animal-product-import-information/animal-health-status-of-regions.* Copies of the list are also available via postal mail upon request to Regionalization Evaluation Services, Strategy and Policy, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road, Unit 38, Riverdale, Maryland 20737; *AskRegionalization@usda.gov.*
 
 (3) APHIS will add a region to the list upon determining that the disease exists in the region based on reports APHIS receives of outbreaks of the disease from veterinary officials of the exporting country, from the World Organization for Animal Health (OIE), or from other sources the Administrator determines to be reliable, or upon determining that there is reason to believe the disease exists in the region. APHIS will remove a region from the list after conducting an evaluation of the region in accordance with § 92.2 of this subchapter and finding that the disease is not present and that there is no reason to believe the disease is present. In the case of a region formerly not on this list that is added due to an outbreak, the region may be removed from the list in accordance with the procedures for reestablishment of a region's disease-free status in § 92.4 of this subchapter.
 
@@ -39,7 +38,7 @@ at *https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-and-animal-pro
 
 (ii) *Two-step process.* The pork skins must be dry-cooked at a minimum of 260 °C for approximately 210 minutes after which they must be cooked in hot oil (deep-fried) at a minimum of 104 °C for an additional 150 minutes.
 
-(5) The processing establishment8 in a region listed in this section must comply with the following requirements:
+(5) The processing establishment 8 in a region listed in this section must comply with the following requirements:
 
 8 As a condition of entry into the United States, pork or pork products must also meet all of the requirements of the Federal Meat Inspection Act (21 U.S.C. 601 *et seq.*) and regulations thereunder (9 CFR, chapter III, part 327), including requirements that the pork or pork products be prepared only in approved establishments.
 

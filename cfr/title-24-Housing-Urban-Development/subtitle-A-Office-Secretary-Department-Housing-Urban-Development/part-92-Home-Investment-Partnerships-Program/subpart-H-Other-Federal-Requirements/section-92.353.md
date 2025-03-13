@@ -1,6 +1,6 @@
 ##### § 92.353 Displacement, relocation, and acquisition. #####
 
-Link to an amendment published at 90 FR 887, Jan. 6, 2025.
+Link to an amendment published at 90 FR 887, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) *Minimizing displacement.* Consistent with the other goals and objectives of this part, the participating jurisdiction must ensure that it has taken all reasonable steps to minimize the displacement of persons (families, individuals, businesses, nonprofit organizations, and farms) as a result of a project assisted with HOME funds. To the extent feasible, residential tenants must be provided a reasonable opportunity to lease and occupy a suitable, decent, safe, sanitary, and affordable dwelling unit in the building/complex upon completion of the project.
 

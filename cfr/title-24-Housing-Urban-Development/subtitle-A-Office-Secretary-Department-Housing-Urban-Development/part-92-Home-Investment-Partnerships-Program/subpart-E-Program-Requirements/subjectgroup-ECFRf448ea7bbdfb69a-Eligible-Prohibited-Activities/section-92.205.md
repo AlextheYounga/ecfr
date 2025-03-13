@@ -1,6 +1,6 @@
 ##### § 92.205 Eligible activities: General. #####
 
-Link to an amendment published at 90 FR 867, Jan. 6, 2025.
+Link to an amendment published at 90 FR 867, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) *Eligible activities.* (1) HOME funds may be used by a participating jurisdiction to provide incentives to develop and support affordable rental housing and homeownership affordability through the acquisition (including assistance to homebuyers), new construction, reconstruction, or rehabilitation of nonluxury housing with suitable amenities, including real property acquisition, site improvements, conversion, demolition, and other expenses, including financing costs, relocation expenses of any displaced persons, families, businesses, or organizations; to provide tenant-based rental assistance, including security deposits; to provide payment of reasonable administrative and planning costs; and to provide for the payment of operating expenses of community housing development organizations. The housing must be permanent or transitional housing. The specific eligible costs for these activities are set forth in §§ 92.206 through 92.209. The activities and costs are eligible only if the housing meets the property standards in § 92.251 upon project completion.
 

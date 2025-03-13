@@ -30,7 +30,7 @@ The following definitions apply to this part:
 
 (4) Any other numbering system approved by the Administrator for the identification of animals in commerce.
 
-*Official Johne's disease test.* An organism detection test approved by the Administrator and conducted in a laboratory approved by the Administrator.1
+*Official Johne's disease test.* An organism detection test approved by the Administrator and conducted in a laboratory approved by the Administrator. 1
 
 1 The list of approved laboratories is available on the internet at *https://www.nahln.org* or upon request from the Animal and Plant Health Inspection Service, Veterinary Services, National Veterinary Services Laboratories, P.O. Box 844, Ames, IA 50010-0844.
 
@@ -42,7 +42,7 @@ The following definitions apply to this part:
 
 (2) A seven-character alphanumeric code, with the right-most character being a check digit. The check digit number is based upon the ISO 7064 Mod 36/37 check digit algorithm.
 
-*Recognized slaughtering establishment.* A slaughtering establishment2 operating under the Federal Meat Inspection Act (21 U.S.C. 601 *et seq.*) or a State inspected slaughtering establishment.
+*Recognized slaughtering establishment.* A slaughtering establishment 2 operating under the Federal Meat Inspection Act (21 U.S.C. 601 *et seq.*) or a State inspected slaughtering establishment.
 
 2 A list of recognized slaughtering establishments in any State may be obtained from an APHIS representative, the State animal health official, or a State representative.
 

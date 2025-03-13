@@ -1,6 +1,6 @@
 ##### § 92.209 Tenant-based rental assistance: Eligible costs and requirements. #####
 
-Link to an amendment published at 90 FR 868, Jan. 6, 2025.
+Link to an amendment published at 90 FR 868, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) *Eligible costs.* Eligible costs are the rental assistance and security deposit payments made to provide tenant-based rental assistance for a family pursuant to this section. Eligible costs also include utility deposit assistance, but only if this assistance is provided with tenant-based rental assistance or security deposit payment. Administration of tenant-based rental assistance is eligible only under general management oversight and coordination at § 92.207(a), except that the costs of inspecting the housing and determining the income eligibility of the family are eligible as costs of the tenant-based rental assistance.
 

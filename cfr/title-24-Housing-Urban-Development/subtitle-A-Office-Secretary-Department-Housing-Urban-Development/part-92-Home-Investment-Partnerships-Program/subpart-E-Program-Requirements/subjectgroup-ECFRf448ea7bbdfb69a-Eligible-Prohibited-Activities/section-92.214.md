@@ -1,6 +1,6 @@
 ##### § 92.214 Prohibited activities and fees. #####
 
-Link to an amendment published at 90 FR 869, Jan. 6, 2025.
+Link to an amendment published at 90 FR 869, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) HOME funds may not be used to:
 

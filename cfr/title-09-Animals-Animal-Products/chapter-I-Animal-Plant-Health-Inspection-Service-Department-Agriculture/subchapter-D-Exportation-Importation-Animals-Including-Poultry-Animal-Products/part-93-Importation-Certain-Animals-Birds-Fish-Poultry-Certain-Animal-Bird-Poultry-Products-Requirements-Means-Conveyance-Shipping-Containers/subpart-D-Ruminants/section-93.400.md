@@ -76,7 +76,7 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 (2) Originate from a herd of origin that tested negative to a whole herd test conducted within the last 12 months and the individual animals being moved into the herd also tested negative to any additional individual tests for tuberculosis and brucellosis required by the Administrator.
 
-*Immediate slaughter.* Consignment directly from the port of entry to a recognized slaughtering establishment1 and slaughtered within 2 weeks from the date of entry.
+*Immediate slaughter.* Consignment directly from the port of entry to a recognized slaughtering establishment 1 and slaughtered within 2 weeks from the date of entry.
 
 1 The name of recognized slaughtering establishments approved under this part may be obtained from the area veterinarian in charge for the State of destination of the shipment. The name and address of the area veterinarian in charge in any State is available from the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 39, Riverdale, MD 20737-1231.
 
@@ -148,7 +148,7 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Quarantine area.* That area of a privately owned medium or minimum security quarantine facility that comprises all of the lot-holding areas in the facility and any other areas in the facility that ruminants have access to, including loading docks for receiving and releasing ruminants, and any areas used to conduct examinations of ruminants and take samples and any areas where samples are processed or examined.
 
-*Recognized slaughtering establishment.* Any slaughtering establishment operating under the provisions of the Federal Meat Inspection Act (21 U.S.C. 601 *et seq.*) or a State meat inspection act.2
+*Recognized slaughtering establishment.* Any slaughtering establishment operating under the provisions of the Federal Meat Inspection Act (21 U.S.C. 601 *et seq.*) or a State meat inspection act. 2
 
 2 See footnote 1.
 

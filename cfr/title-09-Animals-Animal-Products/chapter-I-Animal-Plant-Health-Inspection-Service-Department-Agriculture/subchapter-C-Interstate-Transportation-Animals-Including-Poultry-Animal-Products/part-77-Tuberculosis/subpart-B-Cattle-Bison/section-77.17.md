@@ -30,4 +30,4 @@
 
 (c) *Suspect cattle and bison.* Suspect cattle or bison from herds in which no reactor cattle or bison have been disclosed on an official tuberculin test, as well as negative cattle or bison from such herds, may be moved interstate only if they are moved directly to slaughter to a recognized slaughtering establishment in accordance with 9 CFR part 86.
 
-(Approved by the Office of Management and Budget under control number 0579-0051)[65 FR 63517, Oct. 23, 2000, as amended at 78 FR 2066, Jan. 9, 2013]
+(Approved by the Office of Management and Budget under control number 0579-0051) [65 FR 63517, Oct. 23, 2000, as amended at 78 FR 2066, Jan. 9, 2013]

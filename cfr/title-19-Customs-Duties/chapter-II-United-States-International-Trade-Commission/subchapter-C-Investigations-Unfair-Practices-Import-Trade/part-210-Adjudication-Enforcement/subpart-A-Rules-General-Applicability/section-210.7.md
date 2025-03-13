@@ -1,10 +1,8 @@
 ##### § 210.7 Service of process and other documents; publication of notices. #####
 
-Link to an amendment published at 90 FR 238, Jan. 3, 2025.
-
 (a) *Manner of service.* (1) The service of process and all documents issued by or on behalf of the Commission or the administrative law judge—and the service of all documents issued by parties under §§ 210.27 through 210.34 of this part—shall be in accordance with § 201.16 of this chapter, unless the Commission, the administrative law judge, or this or another section of this part specifically provides otherwise.
 
-(2) The service of all initial determinations as defined in § 210.42, all cease and desist orders as set forth in § 210.50(a)(1), and all documents containing confidential business information as defined in § 201.6(a), issued by or on behalf of the Commission or the administrative law judge on a private party, shall be effected by serving a copy of the document by express delivery, as defined in § 201.16(e), on the person to be served, on a member of the partnership to be served, on the president, secretary, other executive officer, or member of the board of directors of the corporation, association, or other organization to be served, or, if an attorney represents any of the above in connection with an investigation under this subtitle, by serving a copy by express delivery on such attorney.
+(2) The service of all initial determinations as defined in § 210.42, all cease and desist orders as set forth in § 210.50(a)(1), all show cause orders issued under § 210.16(b)(1)(i), and all documents containing confidential business information as defined in § 201.6(a) of this chapter, issued by or on behalf of the Commission or the administrative law judge on a private party, shall be effected by serving a copy of the document by express delivery, as defined in § 201.16(e) of this chapter, on the person to be served, on a member of the partnership to be served, on the president, secretary, other executive officer, or member of the board of directors of the corporation, association, or other organization to be served, or, if an attorney represents a person or entity to be served in connection with an investigation under part 210, by serving a copy by express delivery on such attorney.
 
 (3) Whenever the Commission effects service of documents issued by or on behalf of the Commission or the administrative law judge upon the private parties by overnight delivery, service upon the Office of Unfair Import Investigations shall also be deemed to have occurred by overnight delivery.
 
@@ -14,4 +12,4 @@ Link to an amendment published at 90 FR 238, Jan. 3, 2025.
 
 (2) When an administrative law judge or the Commission determines to amend or supplement a notice published in accordance with paragraph (c)(1) of this section, notice of the amendment will be published in the Federal Register.
 
-[60 FR 53119, Oct. 12, 1995, as amended at 72 FR 13960, Mar. 23, 2007; 73 FR 38320, July 7, 2008; 78 FR 23480, Apr. 19, 2013]
+[60 FR 53119, Oct. 12, 1995, as amended at 72 FR 13960, Mar. 23, 2007; 73 FR 38320, July 7, 2008; 78 FR 23480, Apr. 19, 2013; 90 FR 238, Jan. 3, 2025]

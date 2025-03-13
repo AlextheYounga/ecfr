@@ -4,7 +4,7 @@
 
 (b) *Cetaceans.* Primary enclosures housing cetaceans shall contain a pool of water and may consist entirely of a pool of water. In determining the minimum space required in a pool holding cetaceans, four factors must be satisfied. These are MHD, depth, volume, and surface area. For the purposes of this subpart, cetaceans are divided into Group I cetaceans and Group II cetaceans as shown in Table III in this section.
 
-(1)(i) *The required minimum horizontal dimension* (MHD) of a pool for Group I cetaceans shall be 7.32 meters (24.0 feet) or two times the average adult length of the longest species of Group I cetacean housed therein (as measured in a parallel or horizontal line, from the tip of its upper jaw, or from the most anterior portion of the head in bulbous headed animals, to the notch in the tail fluke8), whichever is greater; except that such MHD measurement may be reduced from the greater number by up to 20 percent if the amount of the reduction is added to the MHD at the 90-degree angle and if the minimum volume and surface area requirements are met based on an MHD of 7.32 meters (24.0 feet) or two times the average adult length of the longest species of Group I cetacean housed therein, whichever is greater.
+(1)(i) *The required minimum horizontal dimension* (MHD) of a pool for Group I cetaceans shall be 7.32 meters (24.0 feet) or two times the average adult length of the longest species of Group I cetacean housed therein (as measured in a parallel or horizontal line, from the tip of its upper jaw, or from the most anterior portion of the head in bulbous headed animals, to the notch in the tail fluke 8), whichever is greater; except that such MHD measurement may be reduced from the greater number by up to 20 percent if the amount of the reduction is added to the MHD at the 90-degree angle and if the minimum volume and surface area requirements are met based on an MHD of 7.32 meters (24.0 feet) or two times the average adult length of the longest species of Group I cetacean housed therein, whichever is greater.
 
 8 The body length of a *Monodon monoceros* (narwhale) is measured from the tip of the upper incisor tooth to the notch in the tail fluke. If the upper incisor is absent or does not extend beyond the front of the head, then it is measured like other cetaceans, from the tip of the upper jaw to the notch in the tail fluke. Immature males should be anticipated to develop the “tusk” (usually left incisor tooth) beginning at sexual maturity.
 
@@ -140,7 +140,7 @@
 
 (ii) The minimum volume of water required for up to four Group II cetaceans is based upon the following formula:
 
-![](/graphics/ec14no91.012.gif)When there are more than four Group II cetaceans housed in a primary enclosure pool, the additional volume of water required for each additional Group II cetacean in excess of four is based on the following formula:Volume = (Average Adult Length)2 × 3.14 × depthSee Table II for required volumes.
+![](/graphics/ec14no91.012.gif)When there are more than four Group II cetaceans housed in a primary enclosure pool, the additional volume of water required for each additional Group II cetacean in excess of four is based on the following formula:Volume = (Average Adult Length) 2 × 3.14 × depthSee Table II for required volumes.
 
 (iii) When a mixture of both Group I and Group II cetaceans are housed together, the MHD must be satisfied as stated in § 3.104(b)(1), and the minimum depth must be satisfied as stated in § 3.104(b)(2). Based on these figures, the resulting volume must then be calculated
 
@@ -148,15 +148,15 @@
 
 (4)(i) *The minimum surface area* requirements for each cetacean housed in a pool, regardless of Group I or Group II classification, are calculated as follows:
 
-![](/graphics/ec14no91.014.gif)In a pool containing more than two Group I cetaceans or more than four Group II cetaceans,9 the additional surface area which may be required when animals are added must be calculated for each such animal.
+![](/graphics/ec14no91.014.gif)In a pool containing more than two Group I cetaceans or more than four Group II cetaceans, 9 the additional surface area which may be required when animals are added must be calculated for each such animal.
 
 9 A pool containing up to two Group I cetaceans or up to four Group II cetaceans which meets the required MHD and depth will have the necessary surface area and volume required for the animals contained therein.
 
-(ii) When a mixture of Group I and Group II cetaceans are to be housed in a pool, the required MHD, depth, and volume must be met. Then the required surface area must be determined for each animal in the pool. The sum of these surface areas must then be compared to the surface area which is obtained by a computation based on the required MHD of the pool.10 The larger of the two figures represents the surface area which is required for a pool housing a mixture of Group I and Group II cetaceans. Pool surfaces where the depth does not meet the minimum requirements cannot be used in determining the required surface area.
+(ii) When a mixture of Group I and Group II cetaceans are to be housed in a pool, the required MHD, depth, and volume must be met. Then the required surface area must be determined for each animal in the pool. The sum of these surface areas must then be compared to the surface area which is obtained by a computation based on the required MHD of the pool. 10 The larger of the two figures represents the surface area which is required for a pool housing a mixture of Group I and Group II cetaceans. Pool surfaces where the depth does not meet the minimum requirements cannot be used in determining the required surface area.
 
 10 Since the MHD represents the diameter of a circle, the surface area based on the MHD is calculated by use of the following formula:
 
-SA = π × (MHD / 2).2
+SA = π × (MHD / 2). 2
 
 (iii) Surface area requirements are given in Table IV.
 
@@ -195,11 +195,11 @@ SA = π × (MHD / 2).2
 
 (i) *Group I pinnipeds.* Square the average adult length of each pinniped to be contained in the primary enclosure. Add the figures obtained for each of the pinnipeds in the primary enclosure to determine the dry resting or social activity area required for such pinnipeds. If only a single Group I pinniped is maintained in the primary enclosure, the minimum dry resting or social activity area shall be twice the square of the average adult length of that single Group I pinniped. Examples:
 
-(average adult length)2 of 1st Group I pinniped + (average adult length)2 of 2nd Group I pinniped = Total DRA for two pinnipedsDRA for one pinniped = 2 × (average adult length of Group I pinniped)2
+(average adult length) 2 of 1st Group I pinniped + (average adult length) 2 of 2nd Group I pinniped = Total DRA for two pinnipeds DRA for one pinniped = 2 × (average adult length of Group I pinniped) 2
 
 (ii) *Group II pinnipeds.* List all pinnipeds contained in a primary enclosure by average adult length in descending order from the longest species of pinniped to the shortest species of pinniped. Square the average adult length of each pinniped. Multiply the average adult length squared of the longest pinniped by 1.5, the second longest by 1.4, the third longest by 1.3, the fourth longest by 1.2, and the fifth longest by 1.1, as indicated in the following example. Square the average adult length of the sixth pinniped and each additional pinniped. Add the figures obtained for all the pinnipeds in the primary enclosure to determine the required minimum dry resting or social activity area required for such pinnipeds. If only a single Group II pinniped is maintained in the primary enclosure, the minimum dry resting or social activity area must be computed for a minimum of two pinnipeds.
 
-Examples: DRA for 1 Group II Pinniped = [(Average adult length)2 × 1.5] + [(Average adult length)2 × 1.4]
+Examples: DRA for 1 Group II Pinniped = [(Average adult length) 2 × 1.5] + [(Average adult length) 2 × 1.4]
 
 |               1st pinniped (avg. adult length) <sup>2</sup> × 1.5 = social and DRA required                |
 |------------------------------------------------------------------------------------------------------------|
@@ -210,7 +210,7 @@ Examples: DRA for 1 Group II Pinniped = [(Average adult length)2 × 1.5] + [(Ave
 |              Each pinniped over 5 (avg. adult length) <sup>2</sup> = social and DRA required               |
 |Total minimum social activity and dry resting area required for all pinnipeds housed in a primary enclosure.|
 
-If all the pinnipeds in the primary enclosure are of the same species, the same descending order of calculation shall apply. Example: Hooded seal—average adult length of male = 8.5 feet and female = 6.6 feet. In a primary enclosure containing 2 males and 2 females, the social or DRA required would be the sum of [(8.5)2 × 1.5] + [(8.5)2 × 1.4] + [(6.6)2 × 1.3] + [(6.6)2 × 1.2].
+If all the pinnipeds in the primary enclosure are of the same species, the same descending order of calculation shall apply. Example: Hooded seal—average adult length of male = 8.5 feet and female = 6.6 feet. In a primary enclosure containing 2 males and 2 females, the social or DRA required would be the sum of [(8.5) 2 × 1.5] + [(8.5) 2 × 1.4] + [(6.6) 2 × 1.3] + [(6.6) 2 × 1.2].
 
 If two or more sexually mature males are maintained together in a primary enclosure, the dry resting or social activity area shall be divided into two or more separate areas with sufficient visual barriers (such as fences, rocks, or foliage) to provide relief from aggressive animals.
 

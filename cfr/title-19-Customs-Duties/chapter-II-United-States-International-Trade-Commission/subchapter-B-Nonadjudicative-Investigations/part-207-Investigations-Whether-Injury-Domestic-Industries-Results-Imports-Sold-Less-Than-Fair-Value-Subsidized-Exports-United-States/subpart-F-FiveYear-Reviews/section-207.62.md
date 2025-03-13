@@ -1,7 +1,5 @@
 ##### § 207.62 Rulings on adequacy and nature of Commission review. #####
 
-Link to an amendment published at 90 FR 236, Jan. 3, 2025.
-
 (a) *Basis for rulings on adequacy.* The Commission will assess the adequacy of aggregate interested party responses to the notice of institution with respect to each order or suspension agreement under review and, where the underlying affirmative Commission determination found multiple domestic like products, on the basis of each domestic like product.
 
 (b) *Comments to the Commission.* (1) Comments to the Commission concerning whether the Commission should conduct an expedited review may be submitted by:
@@ -10,7 +8,7 @@ Link to an amendment published at 90 FR 236, Jan. 3, 2025.
 
 (ii) Any party, other than an interested party, that is a party to the five-year review.
 
-(2) Comments shall be submitted within the time specified in the notice of institution. In a grouped review, only one set of comments shall be filed per party. Comments shall be filed electronically, and nine (9) true paper copies shall be submitted on the same business day. Comments shall not exceed fifteen (15) pages of textual material, double spaced and single sided, when printed out on paper measuring 8.5 × 11 inches. Comments containing new factual information shall be disregarded.
+(2) Comments shall be submitted within the time specified in the notice of institution. In a grouped review, only one set of comments shall be filed per party. Comments shall not exceed fifteen (15) pages of textual material. Comments containing new factual information shall be disregarded.
 
 (c) *Notice of scheduling of full review.* If the Commission concludes that interested parties' responses to the notice of institution are adequate, or otherwise determines that a full review should proceed, investigative activities pertaining to that review will continue. The Commission will publish in the Federal Register a notice of scheduling pertaining to subsequent procedures in the review.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 90 FR 236, Jan. 3, 2025.
 
 (e) *Use of facts available.* The Commission's determination in an expedited review will be based on the facts available, in accordance with section 776 of the Act.
 
-[63 FR 30608, June 5, 1998, as amended at 68 FR 32978, June 3, 2003; 76 FR 61944, Oct. 6, 2011; 79 FR 35925, June 25, 2014]
+[63 FR 30608, June 5, 1998, as amended at 68 FR 32978, June 3, 2003; 76 FR 61944, Oct. 6, 2011; 79 FR 35925, June 25, 2014; 90 FR 236, Jan. 3, 2025]

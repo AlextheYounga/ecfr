@@ -1,6 +1,6 @@
 ##### § 92.258 Elder cottage housing opportunity (ECHO) units. #####
 
-Link to an amendment published at 90 FR 886, Jan. 6, 2025.
+Link to an amendment published at 90 FR 886, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) *General.* HOME funds may be used for the initial purchase and initial placement costs of elder cottage housing opportunity (ECHO) units that meet the requirements of this section, and that are small, free-standing, barrier-free, energy-efficient, removable, and designed to be installed adjacent to existing single-family dwellings.
 

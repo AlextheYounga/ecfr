@@ -1,6 +1,6 @@
 ##### § 92.354 Labor. #####
 
-Link to an amendment published at 90 FR 888, Jan. 6, 2025.
+Link to an amendment published at 90 FR 888, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) *General.* (1) Every contract for the construction (rehabilitation or new construction) of housing that includes 12 or more units assisted with HOME funds must contain a provision requiring the payment of not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to the Davis-Bacon Act (40 U.S.C. 3141), to all laborers and mechanics employed in the development of any part of the housing. Such contracts must also be subject to the overtime provisions, as applicable, of the Contract Work Hours and Safety Standards Act (40 U.S.C. 3701).
 

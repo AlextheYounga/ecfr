@@ -20,7 +20,7 @@
 
 (8) *Mycoplasma mycoides;*
 
-(9) Newcastle disease virus;1
+(9) Newcastle disease virus; 1
 
 (10) Peste des petits ruminants virus;
 
@@ -34,7 +34,7 @@
 
 (c) Genetic elements, recombinant and/or synthetic nucleic acids, and recombinant and/or synthetic organisms:
 
-(1) Nucleic acids that can produce infectious forms of any of the select agent viruses listed in paragraph (b) of this section.2
+(1) Nucleic acids that can produce infectious forms of any of the select agent viruses listed in paragraph (b) of this section. 2
 
 2 The importation and interstate movement of VS select agents or toxins listed in paragraphs (c)(1) through (c)(3) of this section may be subject to the permit requirements under part 122 of this subchapter.
 
@@ -66,7 +66,7 @@
 
 (8) Waste generated during the delivery of patient care by health care professionals from a patient diagnosed with an illness or condition associated with a select agent, where that waste is decontaminated or transferred for destruction by complying with State and Federal regulations within 7 calendar days of the conclusion of patient care.
 
-(9) Any low pathogenic strains of avian influenza virus, avian paramyxovirus serotype-1 (APMV-1) viruses which do not meet the criteria for Newcastle disease virus,4 including those identified as pigeon paramyxovirus-15 isolated from a non-poultry species, all subspecies *Mycoplasma capricolum* except subspecies *capripneumoniae* (contagious caprine pleuropneumonia), and all subspecies *Mycoplasma mycoides* except subspecies *mycoides* small colony (*Mmm* SC) (contagious bovine pleuropneumonia), provided that the individual or entity can identify that the agent is within the exclusion category.
+(9) Any low pathogenic strains of avian influenza virus, avian paramyxovirus serotype-1 (APMV-1) viruses which do not meet the criteria for Newcastle disease virus,4 including those identified as pigeon paramyxovirus-1 5 isolated from a non-poultry species, all subspecies *Mycoplasma capricolum* except subspecies *capripneumoniae* (contagious caprine pleuropneumonia), and all subspecies *Mycoplasma mycoides* except subspecies *mycoides* small colony (*Mmm* SC) (contagious bovine pleuropneumonia), provided that the individual or entity can identify that the agent is within the exclusion category.
 
 4 An APMV-1 virus isolated from poultry which has an intracerebral pathogenicity index in day-old chicks (*Gallus gallus*) of 0.7 or greater or has an amino acid sequence at the fusion (F) protein cleavage site that is consistent with virulent strains of Newcastle disease virus. A failure to detect a cleavage site that is consistent with virulent strains does not confirm the absence of a virulent virus.
 

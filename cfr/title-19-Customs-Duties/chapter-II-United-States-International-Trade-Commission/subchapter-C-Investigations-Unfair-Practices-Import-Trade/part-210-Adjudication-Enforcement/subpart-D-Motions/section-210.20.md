@@ -1,7 +1,7 @@
 ##### § 210.20 Declassification of confidential information. #####
 
-Link to an amendment published at 90 FR 242, Jan. 3, 2025.
-
-(a) Any party may move to declassify documents (or portions thereof) that have been designated confidential by the submitter but that do not satisfy the confidentiality criteria set forth in § 201.6(a) of this chapter. All such motions, whether brought at any time during the investigation or after conclusion of the investigation shall be addressed to and ruled upon by the presiding administrative law judge, or if the investigation is not before a presiding administrative law judge, by the chief administrative law judge or such administrative law judge as he may designate.
+(a) Any party may move to declassify documents (or portions thereof) that have been designated confidential by the submitter but that do not satisfy the confidentiality criteria set forth in § 201.6(a) of this chapter. All such motions, whether brought at any time during the investigation or after conclusion of the investigation shall be addressed to and ruled upon by the presiding administrative law judge, or if the investigation is not before a presiding administrative law judge, by the chief administrative law judge or such administrative law judge as the chief administrative law judge may designate.
 
 (b) Following issuance of a public version of the initial determination on whether there is a violation of section 337 of the Tariff Act of 1930 or an initial determination that would otherwise terminate the investigation (if adopted by the Commission), the granting of a motion, in whole or part, to declassify information designated confidential shall constitute an initial determination, except as to that information for which no submissions in opposition to declassification have been filed.
+
+[59 FR 39039, Aug. 1, 1994, as amended at 90 FR 242, Jan. 3, 2025]

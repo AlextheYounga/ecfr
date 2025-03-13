@@ -1,6 +1,6 @@
 ##### § 92.201 Distribution of assistance. #####
 
-Link to an amendment published at 90 FR 866, Jan. 6, 2025.
+Link to an amendment published at 90 FR 866, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) *Local.* (1) Each local participating jurisdiction must, insofar as is feasible, distribute HOME funds geographically within its boundaries and among different categories of housing need, according to the priorities of housing need identified in its approved consolidated plan.
 

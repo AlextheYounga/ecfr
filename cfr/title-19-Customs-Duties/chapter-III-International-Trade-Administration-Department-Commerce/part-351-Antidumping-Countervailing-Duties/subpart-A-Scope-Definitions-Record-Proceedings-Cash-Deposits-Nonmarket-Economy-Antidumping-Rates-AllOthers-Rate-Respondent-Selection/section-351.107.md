@@ -1,4 +1,4 @@
-##### § 351.107 Cash deposit rates; producer/exporter combination #####
+##### § 351.107 Cash deposit rates; producer/exporter combination rates. #####
 
 (a) *Introduction.* Sections 703(d)(1)(B), 705(d), 733(d)(1)(B), and 735(c) of the Act direct the Secretary to order the posting of cash deposits, as determined in preliminary and final determinations of antidumping and countervailing duty investigations, and additional provisions of the Act, including section 751, direct the Secretary to establish a cash deposit rate in accordance with various reviews. This section covers the establishment of cash deposit rates and the instructions which the Secretary issues to U.S. Customs and Border Protection to collect those cash deposits.
 

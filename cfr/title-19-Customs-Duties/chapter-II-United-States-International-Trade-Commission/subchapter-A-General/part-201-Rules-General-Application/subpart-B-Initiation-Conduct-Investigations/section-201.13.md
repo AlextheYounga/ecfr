@@ -1,7 +1,5 @@
 ##### § 201.13 Conduct of nonadjudicative hearings. #####
 
-Link to an amendment published at 90 FR 233, Jan. 3, 2025.
-
 (a) *In general.* Public hearings are held by the Commission when required by law or, if not required by law, when in the judgment of the Commission there is good and sufficient reason therefor. Public hearings will be held at the time and place specified in notices issued under § 201.10. Public hearings are ordinarily held in the Hearing Room of the International Trade Commission Building, in Washington, DC, but may be held elsewhere at the Commission's discretion.
 
 (b) *Presiding officials*—(1) *Who presides.* Public hearings or conferences in nonadjudicative investigations will be conducted by the Commission or by one or more Commissioners. When the Commission deems it necessary, such hearings will be conducted by one or more designated employees. In all cases the transcript of the testimony at a hearing will be presented for the consideration of the Commission.
@@ -12,11 +10,17 @@ Link to an amendment published at 90 FR 233, Jan. 3, 2025.
 
 (2) *Notices of participation.* Notices of participation in a hearing shall be filed with the Secretary at least three (3) days in advance of the date set for the hearing or two (2) days in advance of the date set in the notice of investigation for a prehearing conference, whichever shall first occur, except that the presiding officials may waive this requirement for good cause. Witnesses on behalf of persons filing notices of participation need not file separate notices.
 
-(d) *Witness list.* Each person who files a notice of participation pursuant to paragraph (c) of this section shall simultaneously file with the Secretary a list of the witnesses he intends to call at the hearing.
+(d) *Witness list.* Each person who files a notice of participation pursuant to paragraph (c) of this section shall simultaneously file with the Secretary a list of the witnesses that person intends to call at the hearing.
 
 (e) *Order of the testimony.* Unless otherwise ordered by the presiding officials, witnesses will give testimony in the order designated by the Secretary to the Commission. Each witness, after being duly sworn, will be permitted to proceed with his or her testimony without interruption except by presiding officials.
 
-(f) *Supplementary material.* A party to the investigation may file with the Secretary supplementary material, other than remarks read into the record, for acceptance into the record. The party shall file any such material with the Secretary at the hearing. Supplementary materials must be marked with the name of the organization submitting it. As used herein, the term *supplementary material* refers to (1) additional graphic material such as charts and diagrams used to illuminate an argument or clarify a position and (2) information not available to a party at the time its prehearing brief was filed.
+(f) *Supplementary material.* (1) A party to the investigation may file with the Secretary supplementary material for acceptance into the record. The party shall file any such material with the Secretary no later than the day of the hearing. Supplementary materials must be marked with the name of the organization submitting it. As used herein, the term *supplementary material* refers to:
+
+(i) Additional graphic material such as charts and diagrams used to illuminate an argument or clarify a position; and
+
+(ii) Information not available to a party at the time its prehearing brief was filed.
+
+(2) Supplementary material does not include witness statements which are addressed in §§ 207.15 and 207.24 of this chapter.
 
 (g) *Questioning of witnesses.* After completing testimony, a witness may be questioned by any member of the Commission or by its staff. Any participant may, with the permission of the presiding officials, direct questions to the witness, but only for the purpose of assisting the Commission in obtaining relevant and material facts with respect to the subject matter of the investigation.
 
@@ -42,4 +46,4 @@ Link to an amendment published at 90 FR 233, Jan. 3, 2025.
 
 (2) In addition, during each hearing held in an investigation conducted under section 202 of the Trade Act, as amended, or in an investigation under title VII of the Tariff Act as provided in § 207.24 of this chapter, following the public presentation of the petitioner(s) and that of each panel of respondents, the Commission will, if it deems it appropriate, close the hearing in order to allow Commissioners to question parties and/or their representatives concerning matters involving confidential business information.
 
-[47 FR 6189, Feb. 10, 1982, as amended at 47 FR 33682, Aug. 4, 1982; 54 FR 13678, Apr. 5, 1989; 59 FR 66722, Dec. 28, 1994; 61 FR 37829, July 22, 1996; 68 FR 32975, June 3, 2003]
+[47 FR 6189, Feb. 10, 1982, as amended at 47 FR 33682, Aug. 4, 1982; 54 FR 13678, Apr. 5, 1989; 59 FR 66722, Dec. 28, 1994; 61 FR 37829, July 22, 1996; 68 FR 32975, June 3, 2003; 90 FR 233, Jan. 3, 2025]

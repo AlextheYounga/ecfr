@@ -34,7 +34,7 @@
 
 (ii) As required in § 381.413(j)(2) for relative claims:
 
-(A) The identity of the reference product and the percent (or fraction) that the calories differ between the two products are declared in immediate proximity to the most prominent such claim (e.g., lower calorie ‘product’—“331/3 percent fewer calories than our regular ‘product’ ”); and
+(A) The identity of the reference product and the percent (or fraction) that the calories differ between the two products are declared in immediate proximity to the most prominent such claim (e.g., lower calorie ‘product’—“33 1/3 percent fewer calories than our regular ‘product’ ”); and
 
 (B) Quantitative information comparing the level of calories in the product per labeled serving size with that of the reference product that it replaces is declared adjacent to the most prominent claim or to the nutrition information (e.g., “calorie content has been reduced from 150 to 100 calories per serving”).
 

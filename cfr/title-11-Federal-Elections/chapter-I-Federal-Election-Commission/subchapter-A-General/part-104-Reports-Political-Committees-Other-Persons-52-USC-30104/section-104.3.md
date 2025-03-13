@@ -1,7 +1,5 @@
 ##### § 104.3 Contents of reports (52 U.S.C. 30104(b), 30114). #####
 
-Link to an amendment published at 89 FR 93152, Nov. 26, 2024.
-
 (a) *Reporting of receipts.* Each report filed under § 104.1 shall disclose the total amount of receipts for the reporting period and for the calendar year (or for the election cycle, in the case of an authorized committee) and shall disclose the information set forth at paragraphs (a)(1) through (a)(4) of this section. The first report filed by a political committee shall also include all amounts received prior to becoming a political committee under § 100.5 of this chapter, even if such amounts were not received during the current reporting period.
 
 (1) *Cash on hand.* The amount of cash on hand at the beginning of the reporting period, including: currency; balance on deposit in banks, savings and loan institutions, and other depository institutions; traveler's checks owned by the committee; certificates of deposit, treasury bills and any other committee investments valued at cost.
@@ -292,7 +290,11 @@ Link to an amendment published at 89 FR 93152, Nov. 26, 2024.
 
 (6) A political committee shall not use pseudonyms for the purpose of circumventing the reporting requirements or the limitations and prohibitions of the Act.
 
-(f) *Consolidated reports.* Each principal campaign committee shall consolidate in each report those reports required to be filed with it. Such consolidated reports shall include: (1) Reports submitted to it by any authorized committees and (2) the principal campaign committee's own report. Such consolidation shall be made on FEC Form 3-Z and shall be submitted with the reports of the principal campaign committee and with the reports, or applicable portions thereof, of the committees shown on the consolidation.
+(f) *Consolidated reports.* Each principal campaign committee shall consolidate in each report those reports required to be filed with it. Such consolidated reports shall include:
+
+(1) Reports submitted to it by any authorized committees; and
+
+(2) The principal campaign committee's own reports.
 
 (g) *Building funds.* (1) A political party committee must report gifts, subscriptions, loans, advances, deposits of money, or anything of value that are used by the political party committee's Federal accounts to defray the costs of construction or purchase of the committee's office building. See 11 CFR 300.35. Such a receipt is a contribution subject to the limitations and prohibitions of the Act and reportable as a contribution, regardless of whether the contributor has designated the funds or things of value for such purpose and regardless of whether such funds are deposited in a separate Federal account dedicated to that purpose.
 

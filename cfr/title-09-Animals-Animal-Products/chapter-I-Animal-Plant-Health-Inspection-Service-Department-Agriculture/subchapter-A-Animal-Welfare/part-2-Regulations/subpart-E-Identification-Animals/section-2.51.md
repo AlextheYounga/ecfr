@@ -4,7 +4,7 @@
 
 (1) Circular in shape and not less than 11/4 inches in diameter, or
 
-(2) Oblong and flat in shape, not less than 2 inches by3/4 inch and riveted to an acceptable collar.
+(2) Oblong and flat in shape, not less than 2 inches by 3/4 inch and riveted to an acceptable collar.
 
 (b) Each tag shall have the following information embossed or stamped on so that it is easily readable:
 

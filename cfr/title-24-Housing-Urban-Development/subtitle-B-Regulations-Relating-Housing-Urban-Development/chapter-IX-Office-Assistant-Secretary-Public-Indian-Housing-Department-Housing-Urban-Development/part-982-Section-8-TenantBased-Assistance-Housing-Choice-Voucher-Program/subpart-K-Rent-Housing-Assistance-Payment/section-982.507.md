@@ -1,6 +1,6 @@
 ##### § 982.507 Rent to owner: Reasonable rent. #####
 
-Link to an amendment published at 90 FR 894, Jan. 6, 2025.
+Link to an amendment published at 90 FR 894, Jan. 6, 2025.Link to a delay of the above amendment published at 90 FR 8780, Feb. 3, 2025.
 
 (a) *PHA determination.* (1) Except as provided in paragraph (c) of this section, the PHA may not approve a lease until the PHA determines that the initial rent to owner is a reasonable rent.
 

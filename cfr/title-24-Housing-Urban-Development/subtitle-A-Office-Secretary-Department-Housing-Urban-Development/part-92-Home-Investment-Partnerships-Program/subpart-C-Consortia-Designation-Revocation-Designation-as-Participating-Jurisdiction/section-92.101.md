@@ -1,6 +1,6 @@
 ##### § 92.101 Consortia. #####
 
-Link to an amendment published at 90 FR 866, Jan. 6, 2025.
+Link to an amendment published at 90 FR 866, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) A consortium of geographically contiguous units of general local government is a unit of general local government for purposes of this part if the requirements of this section are met.
 

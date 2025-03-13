@@ -22,7 +22,7 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Horses.* Horses, asses, mules, and zebras.
 
-*Immediate slaughter.* Consignment directly from the port of entry to a recognized slaughtering establishment1 and slaughter thereat within two weeks from the date of entry.
+*Immediate slaughter.* Consignment directly from the port of entry to a recognized slaughtering establishment 1 and slaughter thereat within two weeks from the date of entry.
 
 1 The name of recognized slaughtering establishments approved under this part may be obtained from the Area Veterinarian in Charge, Veterinary Services, for the State of destination of the shipment.
 

@@ -2,7 +2,7 @@
 
 (a) Except for products offered for entry from Canada, poultry products which upon reinspection are found to be acceptable for entry into the United States shall be marked with the official inspection legend shown in paragraph (b) of this section. Such inspection legend shall be placed upon such products only after completion of official import inspection and product acceptance.
 
-(b) The official mark for marking poultry products offered for entry as “U.S. inspected and passed” shall be in the following form, and any device approved by the Administrator for applying such mark shall be an official device.2
+(b) The official mark for marking poultry products offered for entry as “U.S. inspected and passed” shall be in the following form, and any device approved by the Administrator for applying such mark shall be an official device. 2
 
 2 The number “I-42” is given as an example only. The establishment number of the official establishment or official import inspection establishment where the product was inspected shall be shown on each stamp impression.
 

@@ -1,6 +1,6 @@
 ##### § 92.250 Maximum per-unit subsidy amount, underwriting, and subsidy layering. #####
 
-Link to an amendment published at 90 FR 870, Jan. 6, 2025.
+Link to an amendment published at 90 FR 870, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) *Maximum per-unit subsidy amount.* The total amount of HOME funds and ADDI funds that a participating jurisdiction may invest on a per-unit basis in affordable housing may not exceed the per-unit dollar limitations established under section 221(d)(3)(ii) of the National Housing Act (12 U.S.C.17151(d)(3)(ii)) for elevator- type projects that apply to the area in which the housing is located. HUD will allow the per-unit subsidy amount to be increased on a program-wide basis to an amount, up to 240 percent of the original per unit limits, to the extent that the costs of multifamily housing construction exceed the section 221(d)(3)(ii) limit.
 

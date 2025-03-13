@@ -40,7 +40,7 @@
 
 (9) *General standard for finding tying.* A subsidy will normally be determined to be tied to a product or market when the authority providing the subsidy was made aware of, or otherwise had knowledge of, the intended use of the subsidy and acknowledged that intended use of the subsidy prior to, or concurrent with, the bestowal of the subsidy.
 
-(c) *Trading companie*s—(1) *In general.* Benefits from subsidies provided to a trading company that exports subject merchandise shall be cumulated with benefits from subsidies provided to the firm which is producing subject merchandise that is sold through the trading company, regardless of whether the trading company and the producing firm are affiliated.
+(c) *Trading companies*—(1) *In general.* Benefits from subsidies provided to a trading company that exports subject merchandise shall be cumulated with benefits from subsidies provided to the firm which is producing subject merchandise that is sold through the trading company, regardless of whether the trading company and the producing firm are affiliated.
 
 (2) *The individually examined respondent exports through trading company.* To cumulate subsidies when the trading company is not individually examined as a respondent, the Secretary will pro-rate the subsidy rate calculated for the trading company by using the ratio of the producer's total exports of subject merchandise to the United States sold through the trading company divided by producer's total exports of subject merchandise to the United States and add the resultant rate onto the producer's calculated subsidy rate.
 

@@ -1,6 +1,6 @@
 ##### § 92.212 Pre-award costs. #####
 
-Link to an amendment published at 90 FR 869, Jan. 6, 2025.
+Link to an amendment published at 90 FR 869, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) *General.* Before the effective date of the HOME Investment Partnership Agreement, the participating jurisdiction may incur costs which may be charged to the HOME allocation after the award of the HOME allocation, provided the costs are in compliance with the requirements of this part (including environmental review requirements) and with the statutory and regulatory requirements in effect at the time the costs are charged to the HOME allocation.
 

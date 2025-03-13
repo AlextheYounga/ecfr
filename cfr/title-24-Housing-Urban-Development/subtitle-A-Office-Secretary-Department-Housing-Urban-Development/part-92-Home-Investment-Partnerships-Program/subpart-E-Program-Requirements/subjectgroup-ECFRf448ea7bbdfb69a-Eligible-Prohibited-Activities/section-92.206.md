@@ -1,6 +1,6 @@
 ##### § 92.206 Eligible project costs. #####
 
-Link to an amendment published at 90 FR 867, Jan. 6, 2025.
+Link to an amendment published at 90 FR 867, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 HOME funds may be used to pay the following eligible costs:
 

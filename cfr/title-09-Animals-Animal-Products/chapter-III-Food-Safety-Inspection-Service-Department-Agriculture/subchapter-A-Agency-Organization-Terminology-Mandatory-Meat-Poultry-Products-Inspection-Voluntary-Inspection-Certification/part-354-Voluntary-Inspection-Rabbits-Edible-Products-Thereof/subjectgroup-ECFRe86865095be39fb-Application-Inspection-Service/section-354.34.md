@@ -12,7 +12,7 @@ Any person desiring to process and pack products in a plant under inspection ser
 
 (3) The floor plan shall show all space to be included in the official plant. If rooms or compartments shown on the drawings or blueprints are not to be included as part of the official plant, this shall be clearly indicated thereon.
 
-(4) The sheets of paper on which drawings or blueprints are made shall not exceed a size 34″ × 44″. The drawings other than of the plot plan shall be made to a scale of1/8″ per foot, except that additional plans for some areas showing detail may be drawn to a scale of1/4″ per foot. The plot plan may be drawn to a scale of not less than1/32″ per foot. The drawings shall indicate the scale used and shall also indicate the floor shown (e.g., basement, first, or second).
+(4) The sheets of paper on which drawings or blueprints are made shall not exceed a size 34″ × 44″. The drawings other than of the plot plan shall be made to a scale of 1/8″ per foot, except that additional plans for some areas showing detail may be drawn to a scale of 1/4″ per foot. The plot plan may be drawn to a scale of not less than 1/32″ per foot. The drawings shall indicate the scale used and shall also indicate the floor shown (e.g., basement, first, or second).
 
 (c) Features required to be shown on floor plan. The following features shall be shown on the floor plan:
 

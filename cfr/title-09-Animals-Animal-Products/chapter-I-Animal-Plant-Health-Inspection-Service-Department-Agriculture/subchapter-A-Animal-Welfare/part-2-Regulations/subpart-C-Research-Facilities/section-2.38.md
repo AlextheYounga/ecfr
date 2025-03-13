@@ -46,7 +46,7 @@
 
 (3) Unweaned puppies or kittens need not be individually identified while they are maintained as a litter with their dam in the same primary enclosure, provided the dam has been individually identified.
 
-(4) The official tag shall be made of a durable alloy such as brass, bronze, or steel, or of a durable plastic. Aluminum of a sufficient thickness to assure the tag is durable and legible may also be used. The tag may be circular in shape and not less than 11/4 inches in diameter, or oblong and flat in shape and not less than 2 inches by3/4 inch, and riveted to an acceptable collar.
+(4) The official tag shall be made of a durable alloy such as brass, bronze, or steel, or of a durable plastic. Aluminum of a sufficient thickness to assure the tag is durable and legible may also be used. The tag may be circular in shape and not less than 11/4 inches in diameter, or oblong and flat in shape and not less than 2 inches by 3/4 inch, and riveted to an acceptable collar.
 
 (5) Each tag shall have the following information embossed or stamped on so that it is easily readable:
 
@@ -58,7 +58,7 @@
 
 (6) Official tags shall be serially numbered and shall be applied to dogs or cats in the manner set forth in this section in as close to consecutive numerical order as possible. No tag number shall be used to identify more than one animal or shall be reused within a 5-year period.
 
-(7) Research facilities may obtain, at their own expense, official tags from commercial tag manufacturers.1 At the time the research facility is registered, the Department will assign identification letters and numbers to be used on the official tags.
+(7) Research facilities may obtain, at their own expense, official tags from commercial tag manufacturers. 1 At the time the research facility is registered, the Department will assign identification letters and numbers to be used on the official tags.
 
 1 A list of the commercial manufacturers who produce these tags and are known to the Department may be obtained from the Deputy Administrator. Any manufacturer who desires to be included in the list should notify the Administrator.
 

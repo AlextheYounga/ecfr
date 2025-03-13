@@ -18,7 +18,7 @@ Bronchitis Vaccine shall be prepared from virus-bearing cell culture fluids or e
 
 (iii) Calculate the EID50 by the Spearman-Karber or Reed-Muench method.
 
-(3) Twenty-one to twenty-eight days post-vaccination, all vaccinates and controls shall be challenged by eye-drop with virulent bronchitis virus. A separate set of vaccinates and controls shall be used for each serotype against which protection is claimed. Each challenge virus shall be approved or provided by Animal and Plant Health Inspection Service and shall titer at least 104.0 EID50 per ml.
+(3) Twenty-one to twenty-eight days post-vaccination, all vaccinates and controls shall be challenged by eye-drop with virulent bronchitis virus. A separate set of vaccinates and controls shall be used for each serotype against which protection is claimed. Each challenge virus shall be approved or provided by Animal and Plant Health Inspection Service and shall titer at least 10 4.0 EID50 per ml.
 
 (i) Tracheal swabs shall be taken once, 5 days post-challenge, from each control and vaccinate. Each swab shall be placed in a test tube containing 3 ml of tryptose phosphate broth and antibiotics. The tube and swab shall be swirled thoroughly and if they are to be stored, be immediately frozen and be stored at below −40 °C. pending egg evaluation. For each chicken swab, at least five chicken embryos 9 to 11 days old shall be inoculated in the allantoic cavity with 0.2 ml each of broth from each tube.
 
@@ -53,6 +53,6 @@ If unfavorable reactions occur which are not attributable to the product, the te
 
 (ii) Each bronchitis virus type shall be harvested separately and a sample of bulk harvested material shall be collected prior to mixing with the other virus type(s). Each sample shall contain not less than the minimum virus titer stated in the filed Outline of Production.
 
-(iii) To be eligible for release, each serial and each subserial shall have a virus titer sufficiently greater than the titer of vaccine virus used in the immunogenicity test prescribed in paragraph (c) of this section to assure that when tested at any time within the expiration period, each serial and subserial shall have a virus titer of 100.7 greater than that used in such immunogenicity test but not less than 102.0 EID50 per dose.
+(iii) To be eligible for release, each serial and each subserial shall have a virus titer sufficiently greater than the titer of vaccine virus used in the immunogenicity test prescribed in paragraph (c) of this section to assure that when tested at any time within the expiration period, each serial and subserial shall have a virus titer of 10 0.7 greater than that used in such immunogenicity test but not less than 10 2.0 EID50 per dose.
 
 [39 FR 44724, Dec. 27, 1974, as amended at 40 FR 18406, Apr. 28, 1975; 40 FR 41089, Sept. 5, 1975; 42 FR 43617, Aug. 30, 1977; 48 FR 33473, July 22, 1983. Redesignated at 55 FR 35562, Aug. 31, 1990, as amended at 56 FR 66784, 66786, Dec. 26, 1991; 64 FR 43045, Aug. 9, 1999; 72 FR 72564, Dec. 21, 2007]

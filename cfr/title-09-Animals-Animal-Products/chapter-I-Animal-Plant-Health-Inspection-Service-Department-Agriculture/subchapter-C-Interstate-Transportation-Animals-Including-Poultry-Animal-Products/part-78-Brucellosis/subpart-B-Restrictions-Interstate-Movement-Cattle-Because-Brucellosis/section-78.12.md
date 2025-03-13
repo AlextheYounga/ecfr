@@ -28,7 +28,7 @@ Not withstanding any provisions in the regulations to the contrary, cattle may b
 
 (ii) The cattle are accompanied interstate by an ICVI which states, in addition to the items specified in § 78.1, the test dates and results of the official tests when such tests are required.
 
-(e) *Movement from herds which are not qualified.* Cattle from herds known to be affected or from herds which are not qualified in any quarantined area may be moved interstate only in accordance with § 78.8(a) or (b).5
+(e) *Movement from herds which are not qualified.* Cattle from herds known to be affected or from herds which are not qualified in any quarantined area may be moved interstate only in accordance with § 78.8(a) or (b). 5
 
 5 A herd which is not qualified in a quarantined area may become a qualified herd upon compliance with the provisions set forth in § 78.1 in the definition of “qualified herd.”
 

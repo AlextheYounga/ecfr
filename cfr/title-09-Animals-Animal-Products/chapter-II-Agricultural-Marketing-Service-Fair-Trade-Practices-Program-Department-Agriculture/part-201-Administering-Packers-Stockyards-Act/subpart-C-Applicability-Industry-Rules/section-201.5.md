@@ -4,4 +4,4 @@
 
 (b) Market agencies selling livestock on commission shall not, in carrying out the statutory duty imposed upon them by section 307 of title III of the act, permit dealers, packers, or others representing interests which conflict with those of consignors, to participate, directly or indirectly, in determination of the need for, or in the establishment of, regulations governing, or practices relating to, the responsibilities, duties, or obligations of such market agencies to their consignors.
 
-(7 U.S.C. 181 *et seq.*)[19 FR 4524, July 22, 1954, as amended at 44 FR 45361, Aug. 2, 1979. Redesignated at 76 FR 76889, Dec. 9, 2011]
+(7 U.S.C. 181 *et seq.*) [19 FR 4524, July 22, 1954, as amended at 44 FR 45361, Aug. 2, 1979. Redesignated at 76 FR 76889, Dec. 9, 2011]

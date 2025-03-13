@@ -16,7 +16,7 @@
 
 *Brucellosis exposed.* Except for brucellosis reactors, animals that are part of a herd known to be affected, or are in a quarantined feedlot or a quarantined pasture, or are brucellosis suspects, or that have been in contact with a brucellosis reactor for a period of 24 hours or more, or for a period of less than 24 hours if the brucellosis reactor has aborted, calved, or farrowed within the past 30 days or has a vaginal or uterine discharge.
 
-*Brucellosis reactor animal.* (1) Any sheep or goat that has been determined by a designated brucellosis epidemiologist1 to be affected with brucellosis, based on test results, herd/flock history, and/or culture results. Any test used for cattle and bison under the APHIS official brucellosis eradication program (*see* part 78 of this chapter) may be used, but test results must be interpreted by a designated brucellosis epidemiologist.
+*Brucellosis reactor animal.* (1) Any sheep or goat that has been determined by a designated brucellosis epidemiologist 1 to be affected with brucellosis, based on test results, herd/flock history, and/or culture results. Any test used for cattle and bison under the APHIS official brucellosis eradication program (*see* part 78 of this chapter) may be used, but test results must be interpreted by a designated brucellosis epidemiologist.
 
 1 Requirements for designated brucellosis epidemiologists are contained in Veterinary Services Memorandum No. 551.10. A copy of this memorandum may be obtained from an APHIS representative, the State animal health official, or a State representative.
 

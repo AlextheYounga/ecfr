@@ -1,6 +1,6 @@
 ##### § 92.359 VAWA requirements. #####
 
-Link to an amendment published at 90 FR 888, Jan. 6, 2025.
+Link to an amendment published at 90 FR 888, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) *General.* (1) The Violence Against Women Act (VAWA) requirements set forth in 24 CFR part 5, subpart L, apply to all HOME tenant-based rental assistance and rental housing assisted with HOME funds, as supplemented by this section.
 

@@ -1,13 +1,11 @@
 ##### § 210.67 Remedy, the public interest, and bonding. #####
 
-Link to an amendment published at 90 FR 247, Jan. 3, 2025.
-
 The procedure for arriving at the Commission's determination of the issues of the appropriate form of temporary relief, whether the public interest factors enumerated in the statute preclude such relief, and the amount of the bond under which respondents' merchandise will be permitted to enter the United States during the pendency of any temporary relief order issued by the Commission, is as follows:
 
-(a) While the motion for temporary relief is before the administrative law judge, he may compel discovery on matters relating to remedy, the public interest and bonding (as provided in § 210.61). The administrative law judge also is authorized to make findings pertaining to the public interest, as provided in § 210.66(a). Such findings may be superseded, however, by Commission findings on that issue as provided in paragraph (c) of this section.
+(a) While the motion for temporary relief is before the administrative law judge, the administrative law judge may compel discovery on matters relating to remedy, the public interest and bonding (as provided in § 210.61). The administrative law judge also is authorized to make findings pertaining to the public interest, as provided in § 210.66(a). Such findings may be superseded, however, by Commission findings on that issue as provided in paragraph (c) of this section.
 
 (b) On the 65th day after institution in an ordinary case or on the 110th day after institution in a “more complicated” investigation, all parties shall file written submissions with the Commission addressing those issues. The submissions shall refer to information and evidence already on the record, but additional information and evidence germane to the issues of appropriate relief, the statutory public interest factors, and bonding by respondents may be provided along with the parties' submissions. Pursuant to § 210.50(a)(4), interested persons may also file written comments, on the aforesaid dates, concerning the issues of remedy, the public interest, and bonding by the respondents.
 
 (c) On or before the 90-day or 150-day statutory deadline for determining whether to order temporary relief under section 337 (e)(1) and/or (f)(1) of the Tariff Act of 1930, the Commission will determine what relief is appropriate in light of any violation that appears to exist, whether the public interest factors enumerated in the statute preclude the issuance of such relief, and the amount of the bond under which the respondents' merchandise will be permitted to enter the United States during the pendency of any temporary relief order issued by the Commission. In the event that Commission's findings on the public interest pursuant to this paragraph are inconsistent with findings made by the administrative law judge in the initial determination pursuant to § 210.66(a), the Commission's findings are controlling.
 
-[59 FR 39039, Aug. 1, 1994, as amended at 73 FR 38326, July 7, 2008]
+[59 FR 39039, Aug. 1, 1994, as amended at 73 FR 38326, July 7, 2008; 90 FR 247, Jan. 3, 2025]

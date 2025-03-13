@@ -14,4 +14,4 @@
 
 (b) If a regulation provides a person with an opportunity for hearing and specifies some procedures for the hearing but not a comprehensive set of procedures, the procedures in this part apply to the extent that they are supplementary and not in conflict with the other procedures specified for the hearing. Thus, the procedures in subpart A of part 108 relating to emergency permit control are supplemented by the nonconflicting procedures in this part, e.g., the right to counsel, public notice of the hearing, reconsideration and stay, and judicial review.
 
-[44 FR 22367, Apr. 13, 1979, as amended at 57 FR 58403, Dec. 10, 1992; 65 FR 76110, Dec. 5, 2000; 74 FR 33095, July 9, 2009]
+[44 FR 22367, Apr. 13, 1979, as amended at 57 FR 58403, Dec. 10, 1992; 65 FR 76110, Dec. 5, 2000; 74 FR 33095, July 9, 2009; 89 FR 83781, Oct. 18, 2024]

@@ -16,14 +16,14 @@
 
 (4) Low temperature procedure qualification thickness ranges are as indicated in table 1 to § 57.03-1(b).
 
-|                                          Thickness, “t” of test plate or pipe as welded  <br/>(inches)                                           |Range of thickness of materials qualified by test plate or pipe  <br/>(inches)|                         |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|-------------------------|
-|                                                                     Minimum                                                                      |                                   Maximum                                    |                         |
-|                                        <sup>1</sup>⁄<sub>16</sub> to <sup>3</sup>⁄<sub>8</sub>, inclusive                                        |                          <sup>1</sup>⁄<sub>16</sub>                          |<sup>3</sup>⁄<sub>8</sub>|
-|                                      Over <sup>3</sup>⁄<sub>8</sub> but less than <sup>3</sup>⁄<sub>4</sub>                                      |                    <sup>1</sup><sup>3</sup>⁄<sub>8</sub>                     |<sup>3</sup>⁄<sub>4</sub>|
-|                                                    <sup>3</sup>⁄<sub>4</sub> to 3, inclusive                                                     |                          <sup>3</sup>⁄<sub>4</sub>                           |     <sup>2</sup> t      |
-|<sup>1</sup> For thicknesses less than <sup>5</sup>⁄<sub>8</sub> inch, the thickness of the test plate or pipe is the minimum thickness qualified.|                                                                              |                         |
-|                  <sup>2</sup> Where “t” is the thickest material over <sup>3</sup>⁄<sub>4</sub> inch to be used in production.                   |                                                                              |                         |
+|                               Thickness, “t” of test plate or pipe as welded  <br/>(inches)                                |Range of thickness of materials qualified by test plate or pipe  <br/>(inches)|              |
+|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------|
+|                                                          Minimum                                                           |                                   Maximum                                    |              |
+|                                                   1/16 to 3/8, inclusive                                                   |                                     1/16                                     |     3/8      |
+|                                                 Over 3/8 but less than 3/4                                                 |                               <sup>1</sup> 3/8                               |     3/4      |
+|                                                    3/4 to 3, inclusive                                                     |                                     3/4                                      |<sup>2</sup> t|
+|<sup>1</sup> For thicknesses less than 5/8 inch, the thickness of the test plate or pipe is the minimum thickness qualified.|                                                                              |              |
+|                  <sup>2</sup> Where “t” is the thickest material over 3/4 inch to be used in production.                   |                                                                              |              |
 
 (5) The limits for heat input production, as measured in Joules/inch, must be at or below the maximum heat input applied to the procedure test plate. The word “maximum” must not be interpreted as either nominal or average.
 

@@ -1,6 +1,6 @@
 ##### § 92.504 Participating jurisdiction responsibilities; written agreements; on-site inspection. #####
 
-Link to an amendment published at 90 FR 888, Jan. 6, 2025.
+Link to an amendment published at 90 FR 888, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) *Responsibilities.* The participating jurisdiction is responsible for managing the day-to-day operations of its HOME program, ensuring that HOME funds are used in accordance with all program requirements and written agreements, and taking appropriate action when performance problems arise. The use of State recipients, subrecipients, or contractors does not relieve the participating jurisdiction of this responsibility. The performance and compliance of each contractor, State recipient, and subrecipient must be reviewed at least annually. The participating jurisdiction must have and follow written policies, procedures, and systems, including a system for assessing risk of activities and projects and a system for monitoring entities consistent with this section, to ensure that the requirements of this part are met.
 

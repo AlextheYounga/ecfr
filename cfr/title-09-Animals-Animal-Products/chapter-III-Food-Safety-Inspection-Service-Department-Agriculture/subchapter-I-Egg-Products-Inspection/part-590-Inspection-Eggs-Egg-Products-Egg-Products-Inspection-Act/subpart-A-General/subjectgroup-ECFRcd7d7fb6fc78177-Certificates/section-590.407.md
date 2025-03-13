@@ -8,7 +8,7 @@
 
 (d) FSIS will retain a copy of the certificate.
 
-(e)(1) When authorized by inspection personnel, establishments must mark the outside container of any inspected and passed egg products destined for export, the securely enclosed pallet within the consignment, or closed means of conveyance transporting the consignment, with a mark that contains a unique identifier that links the consignment to the export certificate or an official mark with the following form:1
+(e)(1) When authorized by inspection personnel, establishments must mark the outside container of any inspected and passed egg products destined for export, the securely enclosed pallet within the consignment, or closed means of conveyance transporting the consignment, with a mark that contains a unique identifier that links the consignment to the export certificate or an official mark with the following form: 1
 
 1 The number “1234567” is given as an example only. The number on the export certificate will correspond to the printed number on the export certificate.
 

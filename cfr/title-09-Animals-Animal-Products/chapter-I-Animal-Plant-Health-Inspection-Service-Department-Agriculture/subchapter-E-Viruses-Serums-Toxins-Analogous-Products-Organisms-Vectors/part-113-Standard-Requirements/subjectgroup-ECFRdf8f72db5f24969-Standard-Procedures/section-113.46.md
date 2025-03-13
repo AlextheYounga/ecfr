@@ -2,13 +2,13 @@
 
 The tests for detection of cytopathogenic and/or hemadsorbing agents provided in this section shall be conducted when prescribed in an applicable Standard Requirement or in the filed Outline of Production for a product.
 
-(a) *Test for cytopathogenic agents.* One or more monolayers that are at least 6 cm2 and at least 7 days from the last subculture shall be tested as provided in this paragraph.
+(a) *Test for cytopathogenic agents.* One or more monolayers that are at least 6 cm 2 and at least 7 days from the last subculture shall be tested as provided in this paragraph.
 
 (1) Stain each monolayer with a suitable cytological stain.
 
 (2) Examine the entire area of each stained monolayer for evidence of inclusion bodies, abnormal number of giant cells, or other cytopathology indicative of cell abnormalities attributable to an extraneous agent.
 
-(b) *Test for hemadsorbing agents.* One or more monolayers that are at least 6 cm2 and at least 7 days from the last subculture shall be tested as provided in this paragraph.
+(b) *Test for hemadsorbing agents.* One or more monolayers that are at least 6 cm 2 and at least 7 days from the last subculture shall be tested as provided in this paragraph.
 
 (1) Wash the monolayer with several changes of phosphate buffered saline.
 

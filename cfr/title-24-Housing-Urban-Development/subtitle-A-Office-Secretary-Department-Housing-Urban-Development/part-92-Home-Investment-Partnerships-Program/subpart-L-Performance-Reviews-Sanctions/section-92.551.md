@@ -1,6 +1,6 @@
 ##### § 92.551 Corrective and remedial actions. #####
 
-Link to an amendment published at 90 FR 894, Jan. 6, 2025.
+Link to an amendment published at 90 FR 894, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) *General.* HUD will use the procedures in this section in conducting the performance review as provided in § 92.550 and in taking corrective and remedial actions.
 

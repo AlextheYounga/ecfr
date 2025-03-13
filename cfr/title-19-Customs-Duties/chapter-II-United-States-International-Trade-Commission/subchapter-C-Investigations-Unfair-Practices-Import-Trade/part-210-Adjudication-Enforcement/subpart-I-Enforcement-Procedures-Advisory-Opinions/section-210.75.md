@@ -1,22 +1,24 @@
 ##### § 210.75 Proceedings to enforce exclusion orders, cease and desist orders, consent orders, and other Commission orders. #####
 
-Link to an amendment published at 90 FR 247, Jan. 3, 2025.
-
-(a) *Formal enforcement proceedings.* (1) The Commission may institute an enforcement proceeding at the Commission level upon the filing by the complainant in the original investigation or his successor in interest, by the Office of Unfair Import Investigations, or by the Commission of a complaint setting forth alleged violations of any exclusion order, cease and desist order, or consent order. If a proceeding is instituted, the complaint shall be served upon the alleged violator and a notice of institution published in the Federal Register. Within 15 days after the date of service of such a complaint, the named respondent shall file a response to it. Responses shall fully advise the Commission as to the nature of any defense and shall admit or deny each allegation of the complaint specifically and in detail unless the respondent is without knowledge, in which case its answer shall so state and the statement shall operate as a denial. Allegations of fact not denied or controverted may be deemed admitted. Matters alleged as affirmative defenses shall be separately stated and numbered. These proceedings are authorized under section 337(b) as investigations on whether there is a violation of section 337 in the same manner as original investigations, and are conducted in accordance with the laws for original investigations as set forth in section 1337 of title 19 and sections 554, 555, 556, 557, and 702 of title 5 of the United States Code and the rules of this part.
+(a) *Formal enforcement proceedings.* (1) The Commission may institute an enforcement proceeding upon the filing of an enforcement complaint pursuant to §§ 210.4 and 210.8(a) by the complainant in the original investigation or the complainant's successor in interest, by the Office of Unfair Import Investigations, or by the Commission. Notwithstanding § 210.8(a)(1)(ii), no paper copies of enforcement complaints or exhibits thereto are required for the government of the foreign country in which each alleged violator is located. If a proceeding is instituted, the Commission shall publish in the Federal Register a notice of institution and shall serve copies of the nonconfidential version the enforcement complaint, the nonconfidential exhibits, and the notice of investigation upon each alleged violator. Within fifteen (15) days after the date of service of such a complaint, the named respondent shall file a response to it.
 
 (i) The determination of whether to institute shall be made within 30 days after the complaint is filed, unless—
 
 (A) Exceptional circumstances preclude adherence to a 30-day deadline;
 
-(B) The filing party requests that the Commission postpone the determination on whether to institute an investigation; or
+(B) The filing party requests that the Commission postpone the determination on whether to institute an investigation;
 
-(C) The filing party withdraws the complaint.
+(C) The filing party withdraws the complaint; or
+
+(D) The complaint or any exhibits or attachments thereto contain excessive designations of confidentiality that are not warranted under § 201.6(a) of this chapter and § 210.5.
 
 (ii) If exceptional circumstances preclude Commission adherence to the 30-day deadline for determining whether to institute an investigation on the basis of the complaint, the determination will be made as soon after that deadline as possible.
 
 (iii) If the filing party desires to have the Commission postpone making a determination on whether to institute an investigation in response to the complaint, the filing party must file a written request with the Secretary. If the request is granted, the determination will be rescheduled for whatever date is appropriate in light of the facts.
 
 (iv) The filing party may withdraw the complaint as a matter of right at any time before the Commission votes on whether to institute an enforcement proceeding. To effect such withdrawal, the filing party must file a written notice with the Commission.
+
+(v) If the Commission determines that the complaint or any exhibits or attachments thereto contain excessive designations of confidentiality that are not warranted under § 201.6(a) of this chapter and § 210.5, the Commission may require the complainant to file new nonconfidential versions of the aforesaid submissions in accordance with § 210.4(f)(7)(i) and may determine that the thirty (30) day period for deciding whether to institute an investigation shall begin to run anew from the date the new nonconfidential versions are filed with the Commission in accordance with § 210.4(f)(7)(i).
 
 (2) Upon the failure of a respondent to file and serve a response within the time and in the manner prescribed herein the Commission, in its discretion, may find the facts alleged in the complaint to be true and take such action as may be appropriate without notice or hearing, or, in its discretion, proceed without notice to take evidence on the allegations set forth in the complaint, provided that the Commission (or administrative law judge, if one is appointed) may permit late filings of an answer for good cause shown.
 
@@ -44,4 +46,4 @@ Link to an amendment published at 90 FR 247, Jan. 3, 2025.
 
 (b) *Court enforcement.* To obtain judicial enforcement of an exclusion order, a cease and desist order, a consent order, or a sanctions order, the Commission may initiate a civil action in the U.S. district court. In a civil action under section 337(f)(2) of the Tariff Act of 1930, the Commission may seek to recover for the United States the civil penalty accruing to the United States under that section for the breach of a cease and desist order or a consent order, and may ask the court to issue a mandatory injunction incorporating the relief the Commission deems appropriate for enforcement of the cease and desist order or consent order. The Commission may initiate a proceeding to obtain judicial enforcement without any other type of proceeding otherwise available under section 337 or this subpart or without prior notice to any person, except as required by the court in which the civil action is initiated.
 
-[59 FR 39039, Aug. 1, 1994, as amended at 73 FR 38327, July 7, 2008; 78 FR 23486, Apr. 19, 2013; 83 FR 21163, May 8, 2018]
+[59 FR 39039, Aug. 1, 1994, as amended at 73 FR 38327, July 7, 2008; 78 FR 23486, Apr. 19, 2013; 83 FR 21163, May 8, 2018; 90 FR 247, Jan. 3, 2025]

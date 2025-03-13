@@ -19,4 +19,4 @@ Clostridium Chauvoei Bacterin shall be produced from a culture of *Clostridium c
 |  1  |         8          |               8               |                        1 or less                        |                         3 or more.                         |
 |  2  |         8          |              16               |                        4 or less                        |                         5 or more.                         |
 
-The second stage shall be required only when exactly two animals die in the first stage. The second stage shall be conducted in a manner identical to the first stage.[39 FR 16862, May 10, 1974, as amended at 45 FR 40100, June 13, 1980. Redesignated at 55 FR 35562, Aug. 31, 1990 and amended at 56 FR 66784, 66785, Dec. 26, 1991]
+The second stage shall be required only when exactly two animals die in the first stage. The second stage shall be conducted in a manner identical to the first stage. [39 FR 16862, May 10, 1974, as amended at 45 FR 40100, June 13, 1980. Redesignated at 55 FR 35562, Aug. 31, 1990 and amended at 56 FR 66784, 66785, Dec. 26, 1991]

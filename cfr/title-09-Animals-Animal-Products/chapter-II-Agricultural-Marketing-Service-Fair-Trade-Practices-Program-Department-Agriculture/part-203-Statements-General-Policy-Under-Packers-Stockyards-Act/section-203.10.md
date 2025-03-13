@@ -14,4 +14,4 @@
 
 (e) The term current liabilities generally includes: (1) Bank overdrafts (per books); (2) amounts due a custodial account for shippers' proceeds; (3) accounts payable within one year from date of balance sheet; (4) notes payable or portions thereof due and payable within one year from date of balance sheet; (5) accruals such as taxes, wages, social security, unemployment compensation, etc., due and payable as of the date of the balance sheet; and (6) all other liabilities whose regular and ordinary liquidation is expected to occur within one year.
 
-(Sec. 407(a), 42 Stat. 169, 72 Stat. 1750; 7 U.S.C. 228(a). Interprets or applies secs. 202, 307, 312, 502, 505; 42 Stat. 161 *et seq.,* as amended; 7 U.S.C. 192, 208, 213, 218a, 218d)[32 FR 6901, May 5, 1967]
+(Sec. 407(a), 42 Stat. 169, 72 Stat. 1750; 7 U.S.C. 228(a). Interprets or applies secs. 202, 307, 312, 502, 505; 42 Stat. 161 *et seq.,* as amended; 7 U.S.C. 192, 208, 213, 218a, 218d) [32 FR 6901, May 5, 1967]

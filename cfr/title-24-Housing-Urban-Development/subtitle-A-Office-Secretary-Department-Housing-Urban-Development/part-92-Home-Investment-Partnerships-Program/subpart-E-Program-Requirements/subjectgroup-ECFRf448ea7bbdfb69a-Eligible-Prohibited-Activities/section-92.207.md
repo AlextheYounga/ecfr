@@ -1,6 +1,6 @@
 ##### § 92.207 Eligible administrative and planning costs. #####
 
-Link to an amendment published at 90 FR 868, Jan. 6, 2025.
+Link to an amendment published at 90 FR 868, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 A participating jurisdiction may expend, for payment of reasonable administrative and planning costs of the HOME program and ADDI, an amount of HOME funds that is not more than ten percent of the sum of the Fiscal Year HOME basic formula allocation plus any funds received in accordance with § 92.102(b) to meet or exceed participation threshold requirements that Fiscal Year. A state that transfers any HOME funds in accordance with § 92.102(b) must exclude these funds in calculating the amount it may expend for administrative and planning costs. A participating jurisdiction may also expend, for payment of reasonable administrative and planning costs of the HOME program and the ADDI described in subpart M of this part, a sum up to ten percent of the program income deposited into its local account or received and reported by its state recipients or subrecipients during the program year. A participating jurisdiction may expend such funds directly or may authorize its state recipients or subrecipients, if any, to expend all or a portion of such funds, provided total expenditures for planning and administrative costs do not exceed the maximum allowable amount. Reasonable administrative and planning costs include:
 

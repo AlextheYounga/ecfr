@@ -36,7 +36,7 @@ Unless otherwise prescribed in an applicable Standard Requirement or in the file
 
 (e) Only serials tested for viricidal activity in accordance with the test provided in § 113.35 and found satisfactory by such test shall be packaged as diluent for desiccated fractions in combination packages.
 
-(f) If formaldehyde is used as the inactivating agent, and the serial has not been found satisfactory by the viricidal activity test, bulk or final container samples of completed product from each serial must be tested for residual free formaldehyde content using the ferric chloride test.1 Firms currently using tests for residual free formaldehyde content other than the ferric chloride test have until July 14, 2004 to update their Outline of Production to be in compliance with this requirement.
+(f) If formaldehyde is used as the inactivating agent, and the serial has not been found satisfactory by the viricidal activity test, bulk or final container samples of completed product from each serial must be tested for residual free formaldehyde content using the ferric chloride test. 1 Firms currently using tests for residual free formaldehyde content other than the ferric chloride test have until July 14, 2004 to update their Outline of Production to be in compliance with this requirement.
 
 1 The procedures for performing the ferric chloride test for residual free formaldehyde may be obtained from USDA, APHIS, Center for Veterinary Biologics-Laboratory, 1800 Dayton Road, P.O. Box 844, Ames, IA 50010.
 

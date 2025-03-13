@@ -1,6 +1,6 @@
 ##### § 92.203 Income determinations. #####
 
-Link to an amendment published at 90 FR 866, Jan. 6, 2025.
+Link to an amendment published at 90 FR 866, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) *Methods of determining annual income.* The HOME program has income targeting requirements for the HOME program and for HOME projects. Therefore, the participating jurisdiction must determine each family is income eligible by determining the family's annual income.
 

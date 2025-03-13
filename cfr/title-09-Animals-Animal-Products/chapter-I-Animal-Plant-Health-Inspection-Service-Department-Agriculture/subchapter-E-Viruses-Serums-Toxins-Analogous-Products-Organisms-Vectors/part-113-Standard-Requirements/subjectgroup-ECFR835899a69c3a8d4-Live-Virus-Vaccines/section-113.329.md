@@ -20,7 +20,7 @@ Newcastle Disease Vaccine shall be prepared from virus-bearing cell culture flui
 
 (iv) Calculate the EID50 by the Spearman-Karber or Reed-Muench method.
 
-(3) Twenty to twenty-eight days postvaccination, all vaccinates and controls shall be challenged intramuscularly with at least 104.0 EID50 of virus per chicken and observed each day for 14 days. Challenge virus shall be provided or approved by Animal and Plant Health Inspection Service.
+(3) Twenty to twenty-eight days postvaccination, all vaccinates and controls shall be challenged intramuscularly with at least 10 4.0 EID50 of virus per chicken and observed each day for 14 days. Challenge virus shall be provided or approved by Animal and Plant Health Inspection Service.
 
 (4) If at least 90 percent of the controls do not develop clinical signs of Newcastle disease during the observation period, the test is a No Test and may be repeated. If at least 19 of 20, or 27 of 30, or 36 of 40 of the vaccinates in each group do not remain free from clinical signs of Newcastle disease during the observation period, the Master Seed Virus is unsatisfactory.
 
@@ -49,6 +49,6 @@ Newcastle Disease Vaccine shall be prepared from virus-bearing cell culture flui
 
 Each of twenty-five 3 to 5 week old Newcastle disease susceptible chickens shall be vaccinated as recommended on the label with the equivalent of ten doses and observed each day for 21 days. If any of the birds show severe clinical signs of disease or death during the observation period due to causes attributable to the product, the serial is unsatisfactory.
 
-(3) *Virus titer requirements.* Final container samples of completed product shall be tested for virus titer using the titration method used in paragraph (c)(2) of this section. To be eligible for release, each serial and each subserial shall have a virus titer per dose sufficiently greater than the titer of vaccine virus used in the immunogenicity test prescribed in paragraph (c) of this section to assure that when tested at any time within the expiration period, each serial and subserial shall have a virus titer of 100.7 greater than that used in the immunogenicity test but not less than 105.5 EID50 per dose.
+(3) *Virus titer requirements.* Final container samples of completed product shall be tested for virus titer using the titration method used in paragraph (c)(2) of this section. To be eligible for release, each serial and each subserial shall have a virus titer per dose sufficiently greater than the titer of vaccine virus used in the immunogenicity test prescribed in paragraph (c) of this section to assure that when tested at any time within the expiration period, each serial and subserial shall have a virus titer of 10 0.7 greater than that used in the immunogenicity test but not less than 10 5.5 EID50 per dose.
 
 [39 FR 44727, Dec. 27, 1974, as amended at 40 FR 18407, Apr. 28, 1975; 40 FR 23721, June 2, 1975; 40 FR 41090, Sept. 5, 1975; 42 FR 43618, Aug. 30, 1977; 48 FR 33473, July 22, 1983. Redesignated at 55 FR 35562, Aug. 31, 1990, as amended at 56 FR 66784, 66786, Dec. 26, 1991; 72 FR 72564, Dec. 21, 2007]

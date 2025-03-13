@@ -1,6 +1,6 @@
 ##### § 92.356 Conflict of interest. #####
 
-Link to an amendment published at 90 FR 888, Jan. 6, 2025.
+Link to an amendment published at 90 FR 888, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) *Applicability.* In the procurement of property and services by participating jurisdictions, State recipients, and subrecipients, the conflict of interest provisions in 2 CFR 200.317 and 2 CFR 200.318, apply. In all cases not governed by 2 CFR 200.317 and 2 CFR 200.318, the provisions of this section apply.
 

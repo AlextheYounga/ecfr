@@ -1,6 +1,6 @@
 ##### § 92.3 Applicability of 2013 regulatory changes. #####
 
-Link to an amendment published at 90 FR 865, Jan. 6, 2025.
+Link to an amendment published at 90 FR 865, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 The regulations of this part, as revised by final rule published on July 24, 2013 are applicable to projects for which HOME funds are committed on or after August 23, 2013, with the exception of the following provisions;
 

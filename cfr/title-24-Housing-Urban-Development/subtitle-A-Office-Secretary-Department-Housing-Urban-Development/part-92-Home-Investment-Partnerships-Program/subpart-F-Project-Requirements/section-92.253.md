@@ -1,6 +1,6 @@
 ##### § 92.253 Tenant protections and selection. #####
 
-Link to an amendment published at 90 FR 876, Jan. 6, 2025.
+Link to an amendment published at 90 FR 876, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) *Lease.* There must be a written lease between the tenant and the owner of rental housing assisted with HOME funds that is for a period of not less than 1 year, unless by mutual agreement between the tenant and the owner a shorter period is specified. The lease must incorporate the VAWA lease term/addendum required under § 92.359(e), except as otherwise provided by § 92.359(b).
 

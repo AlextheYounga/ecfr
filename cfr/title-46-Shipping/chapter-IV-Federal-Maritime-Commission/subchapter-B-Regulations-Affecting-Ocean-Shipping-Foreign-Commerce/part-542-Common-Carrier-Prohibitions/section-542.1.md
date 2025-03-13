@@ -1,7 +1,5 @@
 ##### § 542.1 Definition of unreasonable refusal of cargo space accommodations when available and unreasonable refusal to deal or negotiate with respect to vessel space provided by an ocean common carrier. #####
 
-Link to an amendment published at 89 FR 59672, July 23, 2024.Link to an amendment published at 90 FR 30, Jan. 2, 2025.
-
 (a) *Purpose.* This part establishes the elements and definitions necessary for the Federal Maritime Commission (Commission) to apply 46 U.S.C. 41104(a)(3) with respect to refusals of cargo space accommodations when available for containerized cargo and to apply 46 U.S.C. 41104(a)(10) with respect to refusals of vessel space accommodations provided by an ocean common carrier with respect to containerized cargo. This part applies to complaints brought before the Commission by a private party and enforcement cases brought by the Commission.
 
 (b) *Definitions.* For the purposes of this section:
@@ -78,7 +76,19 @@ Link to an amendment published at 89 FR 59672, July 23, 2024.Link to an amendmen
 
 (i) *Use of sweeper vessels.* Ocean common carriers are not precluded from using sweeper vessels previously designated for that purpose to reposition empty containers; however, the designation of a vessel as a sweeper vessel is subject to Commission review to determine whether the designation results in an unreasonable refusal of ocean carriage services.
 
-(j) [Reserved]
+(j) *Documented export policy.* Ocean common carriers must file with the Federal Maritime Commission a documented export policy that enables the timely and efficient movement of export cargo.
+
+(l) Each ocean common carrier must submit a documented export policy to the Commission once per calendar year and include, in a manner prescribed by the Commission, pricing strategies, services offered, strategies for equipment provision, and descriptions of markets served. Updates may be submitted more than once per year if the ocean common carrier chooses to do so. Other topics a documented export policy should also address, if applicable, include:
+
+(i) The effect of blank sailings or other schedule disruptions on the ocean common carrier's ability to accept shipments;
+
+(ii) The ocean common carrier's rules and practices for the designation and use of sweeper vessels; and
+
+(iii) The alternative remedies or assistance the ocean common carrier would make available to a shipper to whom it refused vessel space accommodations.
+
+(2) A documented export policy required to be filed by this part must be submitted to: Director, Bureau of Trade Analysis, Federal Maritime Commission, *exportpolicy@fmc.gov.*
+
+(3) The documented export policies filed in accordance with this section shall not be circulated outside of the Federal Maritime Commission. These documents, and the information contained therein, shall not be publicly disclosable, in whole or in part, including in response to requests under the Freedom of Information Act. The information may, however, be disclosed to the extent that it is relevant to an administrative or judicial action or proceeding; or to either House of Congress, or a duly authorized committee or subcommittee of Congress.
 
 (k) *Shifting the burden of production.* In accordance with applicable laws, the following standard applies:
 
@@ -87,3 +97,5 @@ Link to an amendment published at 89 FR 59672, July 23, 2024.Link to an amendmen
 (2) Once a complainant sets forth a prima facie case of a violation, the burden shifts to the ocean common carrier to justify that its actions were reasonable.
 
 (3) The ultimate burden of persuading the Commission always remains with the complainant or the Commission's Bureau of Enforcement, Investigations, and Compliance.
+
+[89 FR 59671-59672, July 23, 2024]

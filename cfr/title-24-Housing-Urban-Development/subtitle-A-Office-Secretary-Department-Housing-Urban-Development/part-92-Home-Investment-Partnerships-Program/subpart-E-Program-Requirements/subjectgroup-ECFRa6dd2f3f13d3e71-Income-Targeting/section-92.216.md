@@ -1,6 +1,6 @@
 ##### § 92.216 Income targeting: Tenant-based rental assistance and rental units. #####
 
-Link to an amendment published at 90 FR 870, Jan. 6, 2025.
+Link to an amendment published at 90 FR 870, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 Each participating jurisdiction must invest HOME funds made available during a fiscal year so that, with respect to tenant-based rental assistance and rental units:
 

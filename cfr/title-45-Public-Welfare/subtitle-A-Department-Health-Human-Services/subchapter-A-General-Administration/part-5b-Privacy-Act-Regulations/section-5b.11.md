@@ -1,6 +1,6 @@
 ##### § 5b.11 Exempt systems. #####
 
-Link to an amendment published at 89 FR 104453, Dec. 23, 2024.Link to an amendment published at 90 FR 4677, Jan. 16, 2025.
+Link to an amendment published at 89 FR 104453, Dec. 23, 2024.This amendment was delayed until Mar. 21, 2025, at 90 FR 8781, Feb. 3, 2025.Link to an amendment published at 90 FR 4677, Jan. 16, 2025.
 
 (a) *General policy.* The Act permits certain types of specific systems of records to be exempt from some of its requirements. It is the policy of the Department to exercise authority to exempt systems of records only in compelling cases.
 

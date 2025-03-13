@@ -1,8 +1,6 @@
 ##### § 210.35 Prehearing conferences. #####
 
-Link to an amendment published at 90 FR 245, Jan. 3, 2025.
-
-(a) *When appropriate.* The administrative law judge in any investigation may direct counsel or other representatives for all parties to meet with him for one or more conferences to consider any or all of the following:
+(a) *When appropriate.* The administrative law judge in any investigation may direct counsel or other representatives for all parties to meet with the administrative law judge for one or more conferences to consider any or all of the following:
 
 (1) Simplification and clarification of the issues;
 
@@ -24,4 +22,4 @@ Link to an amendment published at 90 FR 245, Jan. 3, 2025.
 
 (d) *Order.* The administrative law judge may enter in the record an order that recites the results of the conference. Such order shall include the administrative law judge's rulings upon matters considered at the conference, together with appropriate direction to the parties. The administrative law judge's order shall control the subsequent course of the hearing, unless the administrative law judge modifies the order.
 
-[59 FR 39039, Aug. 1, 1994, as amended at 73 FR 38324, July 7, 2008]
+[59 FR 39039, Aug. 1, 1994, as amended at 73 FR 38324, July 7, 2008; 90 FR 245, Jan. 3, 2025]

@@ -1,6 +1,6 @@
 ##### § 71.20 Approval of livestock facilities. #####
 
-(a) To qualify for approval by the Administrator as an approved livestock facility1 and to retain such designation, the individual legally responsible for the day-to-day operations of the livestock facility shall execute the following agreement:
+(a) To qualify for approval by the Administrator as an approved livestock facility 1 and to retain such designation, the individual legally responsible for the day-to-day operations of the livestock facility shall execute the following agreement:
 
 1 A list of approved livestock facilities may be obtained by writing to National Animal Health Programs, VS, APHIS, 4700 River Road Unit 36, Riverdale, MD 20737-1231.
 
@@ -48,11 +48,11 @@ General Facilities and Equipment Standards
 
 (13) Electrical outlets shall be provided at the chute area for branding purposes.
 
-Standards for Handling Different Classes of Livestock(By his or her initials, the operator of the facility shall signify the class or classes of livestock that the facility will handle.)
+Standards for Handling Different Classes of Livestock (By his or her initials, the operator of the facility shall signify the class or classes of livestock that the facility will handle.)
 
 (14) Cattle and bison:
 
-—This facility will handle cattle and bison: [*Initials of operator, date*]—This facility will handle cattle and bison known to be brucellosis reactors, suspects, or exposed: [*Initials of operator, date*]—This facility will not handle cattle and bison known to be brucellosis reactors, suspects, or exposed and such cattle and bison will not be permitted to enter the facility: [*Initials of operator, date*]
+—This facility will handle cattle and bison: [*Initials of operator, date*] —This facility will handle cattle and bison known to be brucellosis reactors, suspects, or exposed: [*Initials of operator, date*] —This facility will not handle cattle and bison known to be brucellosis reactors, suspects, or exposed and such cattle and bison will not be permitted to enter the facility: [*Initials of operator, date*]
 
 (i) Cattle and bison shall be received, handled, and released by the facility only in accordance with 9 CFR parts 71 and 78.
 
@@ -76,7 +76,7 @@ Standards for Handling Different Classes of Livestock(By his or her initials, th
 
 (15) Swine:
 
-—This facility will handle breeding swine: [*Initials of operator, date*]—This facility will handle slaughter swine: [*Initials of operator, date*]—This facility will handle feeder swine: [*Initials of operator, date*]—This facility will handle pseudorabies reactor, suspect, or exposed swine: [*Initials of operator, date*].—This facility will not handle swine known to be pseudorabies reactor, suspect, or exposed swine and such swine will not be permitted to enter the facility: [*Initials of operator, date*].
+—This facility will handle breeding swine: [*Initials of operator, date*] —This facility will handle slaughter swine: [*Initials of operator, date*] —This facility will handle feeder swine: [*Initials of operator, date*] —This facility will handle pseudorabies reactor, suspect, or exposed swine: [*Initials of operator, date*]. —This facility will not handle swine known to be pseudorabies reactor, suspect, or exposed swine and such swine will not be permitted to enter the facility: [*Initials of operator, date*].
 
 (i) Swine shall be received, handled, and released by the livestock facility only in accordance with 9 CFR parts 71, 78, and 85.
 
@@ -92,7 +92,7 @@ Standards for Handling Different Classes of Livestock(By his or her initials, th
 
 (16) Horses:
 
-—This facility will handle horses: [*Initials of operator, date*]—This facility will handle equine infectious anemia (EIA) reactors: [*Initials of operator, date*]—This facility will not handle horses known to be EIA reactors and will not permit EIA reactors to enter the facility: [*Initials of operator, date*]
+—This facility will handle horses: [*Initials of operator, date*] —This facility will handle equine infectious anemia (EIA) reactors: [*Initials of operator, date*] —This facility will not handle horses known to be EIA reactors and will not permit EIA reactors to enter the facility: [*Initials of operator, date*]
 
 (i) Horses shall be received, handled, and released by the livestock facility only in accordance with 9 CFR parts 71 and 75.
 
@@ -104,7 +104,7 @@ Standards for Handling Different Classes of Livestock(By his or her initials, th
 
 (17) Sheep and goats:
 
-—This facility will handle breeding sheep or goats: [*Initials of operator, date*]—This facility will handle slaughter sheep or goats: [*Initials of operator, date*]—This facility will handle scrapie-exposed goats or high-risk sheep or goats: [*Initials of operator, date*]—This facility will not handle goats known to be scrapie-exposed or sheep or goats known to be high-risk animals, nor permit such animals to enter the facility: [*Initials of operator, date*]
+—This facility will handle breeding sheep or goats: [*Initials of operator, date*] —This facility will handle slaughter sheep or goats: [*Initials of operator, date*] —This facility will handle scrapie-exposed goats or high-risk sheep or goats: [*Initials of operator, date*] —This facility will not handle goats known to be scrapie-exposed or sheep or goats known to be high-risk animals, nor permit such animals to enter the facility: [*Initials of operator, date*]
 
 (i) All sheep and goats must be received, handled, and released by the facility only in accordance with 9 CFR parts 71 and 79.
 
@@ -146,4 +146,4 @@ I hereby request approval for this facility to operate as an approved livestock 
 
 (ii) The person who signed the agreement executed in accordance with paragraph (a) of this section is no longer responsible for the day-to-day operations of the facility.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0258 and 0579-0342)[62 FR 27934, May 22, 1997, as amended at 62 FR 54758, Oct. 22, 1997; 63 FR 32119, June 12, 1998; 68 FR 62226, Nov. 3, 2003; 74 FR 14709, Apr. 1, 2009; 78 FR 26489, May 7, 2013; 85 FR 4194, Jan. 24, 2020]
+(Approved by the Office of Management and Budget under control numbers 0579-0258 and 0579-0342) [62 FR 27934, May 22, 1997, as amended at 62 FR 54758, Oct. 22, 1997; 63 FR 32119, June 12, 1998; 68 FR 62226, Nov. 3, 2003; 74 FR 14709, Apr. 1, 2009; 78 FR 26489, May 7, 2013; 85 FR 4194, Jan. 24, 2020]

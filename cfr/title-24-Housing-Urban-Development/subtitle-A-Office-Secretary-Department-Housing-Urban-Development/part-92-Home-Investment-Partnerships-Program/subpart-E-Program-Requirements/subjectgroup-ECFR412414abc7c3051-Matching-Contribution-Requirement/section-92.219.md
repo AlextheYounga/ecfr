@@ -1,6 +1,6 @@
 ##### § 92.219 Recognition of matching contribution. #####
 
-Link to an amendment published at 90 FR 870, Jan. 6, 2025.
+Link to an amendment published at 90 FR 870, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) *Match contribution to HOME-assisted housing.* A contribution is recognized as a matching contribution if it is made with respect to:
 

@@ -12,7 +12,7 @@ When prescribed in an applicable Standard Requirement or in a filed Outline of P
 
 (b) The MCS shall be shown to be of the same species of origin as that reported in paragraph (a)(1) of this section by the following method:
 
-(1) At least four monolayers with a total area of at least 6 cm2 shall be grown to at least 80 percent confluency.
+(1) At least four monolayers with a total area of at least 6 cm 2 shall be grown to at least 80 percent confluency.
 
 (2) The monolayers shall be removed from their media, processed, stained, and examined.
 
@@ -28,15 +28,15 @@ When prescribed in an applicable Standard Requirement or in a filed Outline of P
 
 (5) Alternate tests to determine the species of origin of the MCS may be used if approved by APHIS.
 
-(c) The MCS and either each subculture of cells used to prepare a biological product or the final pool of harvested material (with or without the stabilizer) or final container samples of completed product for each serial of such product shall be shown to be free of mycoplasma as prescribed in § 113.28. The sample for testing shall consist of at least 75 cm2 of actively growing cells or the equivalent, in harvest fluids. The cells shall represent all sources of cells in the batch.
+(c) The MCS and either each subculture of cells used to prepare a biological product or the final pool of harvested material (with or without the stabilizer) or final container samples of completed product for each serial of such product shall be shown to be free of mycoplasma as prescribed in § 113.28. The sample for testing shall consist of at least 75 cm 2 of actively growing cells or the equivalent, in harvest fluids. The cells shall represent all sources of cells in the batch.
 
 (d) The MCS and either each subculture used to prepare a biological product or the final pool of harvested material for each serial of such product or final container samples of completed product for each serial of such product shall be tested for bacteria and fungi as prescribed in § 113.26 or § 113.27 (whichever is applicable). If bacteria or fungi are found in the MCS, the MCS shall not be used. If bacteria or fungi are found in a subculture, the subculture shall not be used.
 
-(e) A monolayer at least 75 cm2 from each MCS shall be shown free of extraneous agents as prescribed in this paragraph.
+(e) A monolayer at least 75 cm 2 from each MCS shall be shown free of extraneous agents as prescribed in this paragraph.
 
 (1) The test monolayer shall be maintained for at least 21 days using the medium (with additives) intended for growth and maintenance and under conditions similar to those used to prepare biological products.
 
-(2) Cells shall be subcultured at least two times during the maintenance period. All but the last subculture shall result in at least one new monolayer of at least 75 cm2. The last subculture shall meet the minimum area requirement specified in §§ 113.46 and 113.47 and paragraph (f) of this section.
+(2) Cells shall be subcultured at least two times during the maintenance period. All but the last subculture shall result in at least one new monolayer of at least 75 cm 2. The last subculture shall meet the minimum area requirement specified in §§ 113.46 and 113.47 and paragraph (f) of this section.
 
 (3) Monolayers shall be examined regularly throughout the 21-day maintenance period for evidence of the presence of cytopathogenic agents. If evidence of a cytopathogenic agent is found, the MCS is unsatisfactory.
 
@@ -46,9 +46,9 @@ When prescribed in an applicable Standard Requirement or in a filed Outline of P
 
 (ii) Extraneous agents by the fluorescent antibody technique as prescribed in § 113.47.
 
-(f) At the conclusion of the 21-day maintenance period provided in paragraph (e) of this section, at least one monolayer of at least 75 cm2 shall also be shown free of extraneous agents as prescribed in this paragraph.
+(f) At the conclusion of the 21-day maintenance period provided in paragraph (e) of this section, at least one monolayer of at least 75 cm 2 shall also be shown free of extraneous agents as prescribed in this paragraph.
 
-(1) Alternately freeze and thaw the monolayer(s) three times. Centrifuge the disrupted cells at no greater than 2,000 × g for no more than 15 minutes to remove cellular debris. Divide the supernatant into equal aliquots and dispense 1.0 ml onto each of at least one monolayer (at least 75 cm2) of:
+(1) Alternately freeze and thaw the monolayer(s) three times. Centrifuge the disrupted cells at no greater than 2,000 × g for no more than 15 minutes to remove cellular debris. Divide the supernatant into equal aliquots and dispense 1.0 ml onto each of at least one monolayer (at least 75 cm 2) of:
 
 (i) Vero (African green monkey kidney) cell line;
 
@@ -58,7 +58,7 @@ When prescribed in an applicable Standard Requirement or in a filed Outline of P
 
 (iv) Embryonic cells, neonatal cells, or a cell line of bovine origin if not specified in paragraphs (f)(1)(ii), and (iii) of this section.
 
-(2) The monolayers of cells specified in paragraphs (f)(1)(i), (ii), (iii), and (iv) of this section shall be maintained for at least 14 days after inoculation with the aliquot of disrupted MCS. Monolayers shall be subcultured at least once during the maintenance period. All but the last subculture shall result in a new monolayer of at least 75 cm2. The last subculture shall meet the minimum area requirement specified in §§ 113.46 and 113.47.
+(2) The monolayers of cells specified in paragraphs (f)(1)(i), (ii), (iii), and (iv) of this section shall be maintained for at least 14 days after inoculation with the aliquot of disrupted MCS. Monolayers shall be subcultured at least once during the maintenance period. All but the last subculture shall result in a new monolayer of at least 75 cm 2. The last subculture shall meet the minimum area requirement specified in §§ 113.46 and 113.47.
 
 (3) Monolayers shall be examined regularly throughout the 14-day maintenance period for evidence of the presence of cytopathogenic agents. If evidence of a cytopathogenic agent is found, the MCS is unsatisfactory.
 

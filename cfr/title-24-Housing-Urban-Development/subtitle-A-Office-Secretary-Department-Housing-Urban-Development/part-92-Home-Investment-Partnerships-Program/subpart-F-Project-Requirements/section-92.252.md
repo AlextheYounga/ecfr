@@ -1,6 +1,6 @@
 ##### § 92.252 Qualification as affordable housing: Rental housing. #####
 
-Link to an amendment published at 90 FR 873, Jan. 6, 2025.
+Link to an amendment published at 90 FR 873, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 The HOME-assisted units in a rental housing project must be occupied by households that are eligible as low- income families and must meet the requirements of this section to qualify as affordable housing. If the housing is not occupied by eligible tenants within six months following the date of project completion, HUD will require the participating jurisdiction to submit marketing information and, if appropriate, submit a marketing plan. HUD will require the participating jurisdiction to repay HOME funds invested in any housing unit that has not been rented to eligible tenants 18 months after the date of project completion. The affordability requirements also apply to the HOME- assisted non-owner-occupied units in single-family housing purchased with HOME funds in accordance with § 92.254. The tenant must have a written lease that complies with § 92.253.
 

@@ -1,6 +1,6 @@
 ##### § 92.552 Notice and opportunity for hearing; sanctions. #####
 
-Link to an amendment published at 90 FR 894, Jan. 6, 2025.
+Link to an amendment published at 90 FR 894, Jan. 6, 2025.This amendment was delayed until April 20, 2025, at 90 FR 8780, Feb. 3, 2025.
 
 (a) If HUD finds after reasonable notice and opportunity for hearing that a participating jurisdiction has failed to comply with any provision of this part and until HUD is satisfied that there is no longer any such failure to comply:
 
