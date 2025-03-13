@@ -18,7 +18,7 @@
 
 (3) If the presiding officer modifies their initial ruling, any party adversely affected by the modified ruling may file a request for permission to file appeal, pursuant to the provisions of this paragraph.
 
-(c) *Procedures, effective date.* (1) Unless the presiding officer orders otherwise, rulings made shall be effective when the order is released or (if no written order) when the ruling is made. The Commission may stay the effect of any ruling that comes before it for consideration on appeal.
+(c) *Procedures, effective date.*(1) Unless the presiding officer orders otherwise, rulings made shall be effective when the order is released or (if no written order) when the ruling is made. The Commission may stay the effect of any ruling that comes before it for consideration on appeal.
 
 (2) Appeals filed under paragraph (a) of this section shall be filed within 5 days after the order is released or (if no written order) after the ruling is made. Appeals filed under paragraph (b) of this section shall be filed within 5 days after the appeal is allowed.
 
@@ -32,4 +32,4 @@
 
 (7) Oppositions and replies shall be served and filed in the same manner as appeals and shall be served on appellant if he is not a party to the proceeding. Oppositions shall be filed within 5 days after the appeal is filed. Replies shall not be permitted, unless the Commission specifically requests them. Oppositions shall not exceed 5 double-spaced typewritten pages. Replies shall not exceed 5 double-spaced typewritten pages.
 
-(Secs. 4, 303, 307, 48 Stat., as amended, 1066, 1082, 1083; 47 U.S.C. 154, 303, 307) [35 FR 17333, Nov. 11, 1970, as amended at 40 FR 39509, Aug. 28, 1975; 41 FR 14874, Apr. 8, 1976; 41 FR 28789, July 13, 1976; 46 FR 58682, Dec. 3, 1981; 55 FR 36641, Sept. 6, 1990; 62 FR 4171, Jan. 29, 1997; 85 FR 63179, Oct. 6, 2020]
+(Secs. 4, 303, 307, 48 Stat., as amended, 1066, 1082, 1083; 47 U.S.C. 154, 303, 307)[35 FR 17333, Nov. 11, 1970, as amended at 40 FR 39509, Aug. 28, 1975; 41 FR 14874, Apr. 8, 1976; 41 FR 28789, July 13, 1976; 46 FR 58682, Dec. 3, 1981; 55 FR 36641, Sept. 6, 1990; 62 FR 4171, Jan. 29, 1997; 85 FR 63179, Oct. 6, 2020]

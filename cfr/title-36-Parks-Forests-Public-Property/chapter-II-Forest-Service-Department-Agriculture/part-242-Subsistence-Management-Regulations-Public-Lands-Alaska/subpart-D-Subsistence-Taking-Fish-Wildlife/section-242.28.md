@@ -130,7 +130,7 @@
 
 (D) You may take king crab only from June 1 through January 31, except that the subsistence taking of king crab is prohibited in waters 25 fathoms or greater in depth during the period 14 days before and 14 days after State open commercial fishing seasons for red king crab, blue king crab, or Tanner crab in the location.
 
-(E) The waters of the Pacific Ocean enclosed by the boundaries of Womens Bay, Gibson Cove, and an area defined by a line1/2 mile on either side of the mouth of the Karluk River, and extending seaward 3,000 feet, and all waters within 1,500 feet seaward of the shoreline of Afognak Island are closed to the harvest of king crab except by Federally qualified subsistence users.
+(E) The waters of the Pacific Ocean enclosed by the boundaries of Womens Bay, Gibson Cove, and an area defined by a line 1/2 mile on either side of the mouth of the Karluk River, and extending seaward 3,000 feet, and all waters within 1,500 feet seaward of the shoreline of Afognak Island are closed to the harvest of king crab except by Federally qualified subsistence users.
 
 (v) In the subsistence taking of Tanner crab:
 

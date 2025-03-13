@@ -1,5 +1,7 @@
 ##### § 39.13 Risk management. #####
 
+Link to an amendment published at 90 FR 7939, Jan. 22, 2025.
+
 (a) *General.* A derivatives clearing organization shall ensure that it possesses the ability to manage the risks associated with discharging the responsibilities of the derivatives clearing organization through the use of appropriate tools and procedures.
 
 (b) *Risk management framework.* A derivatives clearing organization shall have and implement written policies, procedures, and controls, approved by its board of directors, that establish an appropriate risk management framework that, at a minimum, clearly identifies and documents the range of risks to which the derivatives clearing organization is exposed, addresses the monitoring and management of the entirety of those risks, and provides a mechanism for internal audit. The risk management framework shall be regularly reviewed and updated as necessary.

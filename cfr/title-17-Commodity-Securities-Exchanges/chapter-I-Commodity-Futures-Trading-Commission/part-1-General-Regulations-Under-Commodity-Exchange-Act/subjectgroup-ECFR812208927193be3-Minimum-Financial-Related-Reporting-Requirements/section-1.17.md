@@ -1,5 +1,7 @@
 ##### § 1.17 Minimum financial requirements for futures commission merchants and introducing brokers. #####
 
+Link to an amendment published at 90 FR 7932, Jan. 22, 2025.
+
 (a)(1)(i) Except as provided in paragraph (a)(2)(i) of this section, each person registered as a futures commission merchant must maintain adjusted net capital equal to or in excess of the greatest of:
 
 (A) $1,000,000, *Provided, however,* that if the futures commission merchant also is a swap dealer, the minimum amount shall be $20,000,000;

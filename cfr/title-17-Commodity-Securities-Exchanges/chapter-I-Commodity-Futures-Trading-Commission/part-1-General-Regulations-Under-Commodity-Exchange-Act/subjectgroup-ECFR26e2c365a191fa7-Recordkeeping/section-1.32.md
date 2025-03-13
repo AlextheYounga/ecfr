@@ -1,5 +1,7 @@
 ##### § 1.32 Reporting of segregated account computation and details regarding the holding of futures customer funds. #####
 
+Link to an amendment published at 90 FR 7870, Jan. 22, 2025.Link to an amendment published at 90 FR 7934, Jan. 22, 2025.
+
 (a) Each futures commission merchant must compute as of the close of each business day, on a currency-by-currency basis:
 
 (1) The total amount of futures customer funds on deposit in segregated accounts on behalf of futures customers;

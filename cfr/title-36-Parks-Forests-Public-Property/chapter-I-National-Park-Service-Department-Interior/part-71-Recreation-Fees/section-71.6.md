@@ -12,7 +12,7 @@
 
 (5) Any applicant meeting the age and other requirements described in paragraph (a)(2) of this section not having in his possession any identification or information evidencing his qualification for a Golden Age Passport may be issued such a Passport on the basis of the affidavit below, if such an affidavit is signed in front of the Issuing Officer.
 
-Passport No \_\_\_\_\_\_\_\_\_\_Date \_\_\_\_\_\_\_\_\_\_To the Secretary of the Interior:
+Passport No \_\_\_\_\_\_\_\_\_\_ Date \_\_\_\_\_\_\_\_\_\_ To the Secretary of the Interior:
 
 I do hereby swear or affirm that I am 62 years of age or older, that I am a citizen of the United States or that I am domiciled therein and that I am duly entitled to be issued free of charge one Golden Age Passport pursuant to the Land and Water Conservation Fund Act of 1965, 16 U.S.C. A.460*l*-6a (Supp., 1974), as amended by Pub. L. 93-303.
 

@@ -202,7 +202,7 @@
 
 (vi) Approving interim and final site restoration measures; and
 
-(vii) Approving a plan for exploration which authorizes repair of an existing road and the construction of1/3 mile of temporary road; clearing vegetation from an acre of land for trenches, drill pads, or support facilities.
+(vii) Approving a plan for exploration which authorizes repair of an existing road and the construction of 1/3 mile of temporary road; clearing vegetation from an acre of land for trenches, drill pads, or support facilities.
 
 (9) Implementation or modification of minor management practices to improve allotment condition or animal distribution when an allotment management plan is not yet in place. Examples include, but are not limited to:
 
@@ -222,19 +222,19 @@
 
 (iii) Shall be completed within 3 years following a wildland fire.
 
-(12) Harvest of live trees not to exceed 70 acres, requiring no more than1/2 mile of temporary road construction. Do not use this category for even-aged regeneration harvest or vegetation type conversion. The proposed action may include incidental removal of trees for landings, skid trails, and road clearing. Examples include, but are not limited to:
+(12) Harvest of live trees not to exceed 70 acres, requiring no more than 1/2 mile of temporary road construction. Do not use this category for even-aged regeneration harvest or vegetation type conversion. The proposed action may include incidental removal of trees for landings, skid trails, and road clearing. Examples include, but are not limited to:
 
 (i) Removal of individual trees for sawlogs, specialty products, or fuelwood, and
 
 (ii) Commercial thinning of overstocked stands to achieve the desired stocking level to increase health and vigor.
 
-(13) Salvage of dead and/or dying trees not to exceed 250 acres, requiring no more than1/2 mile of temporary road construction. The proposed action may include incidental removal of live or dead trees for landings, skid trails, and road clearing. Examples include, but are not limited to:
+(13) Salvage of dead and/or dying trees not to exceed 250 acres, requiring no more than 1/2 mile of temporary road construction. The proposed action may include incidental removal of live or dead trees for landings, skid trails, and road clearing. Examples include, but are not limited to:
 
 (i) Harvest of a portion of a stand damaged by a wind or ice event and construction of a short temporary road to access the damaged trees, and
 
 (ii) Harvest of fire-damaged trees.
 
-(14) Commercial and non-commercial sanitation harvest of trees to control insects or disease not to exceed 250 acres, requiring no more than1/2 mile of temporary road construction, including removal of infested/infected trees and adjacent live uninfested/uninfected trees as determined necessary to control the spread of insects or disease. The proposed action may include incidental removal of live or dead trees for landings, skid trails, and road clearing. Examples include, but are not limited to:
+(14) Commercial and non-commercial sanitation harvest of trees to control insects or disease not to exceed 250 acres, requiring no more than 1/2 mile of temporary road construction, including removal of infested/infected trees and adjacent live uninfested/uninfected trees as determined necessary to control the spread of insects or disease. The proposed action may include incidental removal of live or dead trees for landings, skid trails, and road clearing. Examples include, but are not limited to:
 
 (i) Felling and harvest of trees infested with southern pine beetles and immediately adjacent uninfested trees to control expanding spot infestations, and
 

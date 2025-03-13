@@ -2,7 +2,7 @@
 
 (a) This account shall include the cost of materials and supplies held in stock and inventories of goods held for resale or lease. The investment in inventories shall be maintained in the following subaccounts:
 
-1220.1 Material and supplies 1220.2 Property held for sale or lease
+1220.1 Material and supplies1220.2 Property held for sale or lease
 
 (b) These subaccounts shall not include items which are related to a nonregulated activity unless that activity involves joint or common use of assets and resources in the provision of regulated and nonregulated products and services.
 

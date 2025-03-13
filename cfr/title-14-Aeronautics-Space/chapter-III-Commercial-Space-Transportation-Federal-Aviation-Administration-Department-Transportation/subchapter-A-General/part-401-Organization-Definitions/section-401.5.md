@@ -180,5 +180,4 @@ For the purposes of parts 415, 417, 431, 435, 440, and 460 of this chapter, the 
 
 *Verification* means an evaluation to determine that safety measures derived from a system safety process are effective and have been properly implemented. Verification provides measurable evidence that a safety measure reduces risk to acceptable levels.
 
-[Doc. No. FAA-1999-5535, 65 FR 56656, Sept. 19, 2000, as amended by Amdt. 401-2, 65 FR 62861, Oct. 19, 2000; Amdt. 401-4, 71 FR 50530, Aug. 25, 2006; 71 FR 75631, Dec. 15, 2006; Amdt. 401-5, 72 FR 17016, Apr. 6, 2007; Amdt. 401-6, 73 FR 73782, Dec. 4, 2008; Amdt. 401-7, 77 FR 20532, Apr. 5, 2012; 80 FR 30151, May 27, 2015; Amdt. 401-8, 80 FR 31834, June 4, 2015; Doc. No. FAA-2019-0229, Amdt. 401-9, 85 FR 79707, Dec. 10, 2020; Doc. No. FAA-2023-1656, Amdt. No.
-401-10, 89 FR 76725, Sept. 19, 2024]
+[Doc. No. FAA-1999-5535, 65 FR 56656, Sept. 19, 2000, as amended by Amdt. 401-2, 65 FR 62861, Oct. 19, 2000; Amdt. 401-4, 71 FR 50530, Aug. 25, 2006; 71 FR 75631, Dec. 15, 2006; Amdt. 401-5, 72 FR 17016, Apr. 6, 2007; Amdt. 401-6, 73 FR 73782, Dec. 4, 2008; Amdt. 401-7, 77 FR 20532, Apr. 5, 2012; 80 FR 30151, May 27, 2015; Amdt. 401-8, 80 FR 31834, June 4, 2015; Doc. No. FAA-2019-0229, Amdt. 401-9, 85 FR 79707, Dec. 10, 2020; Doc. No. FAA-2023-1656, Amdt. No. 401-10, 89 FR 76725, Sept. 19, 2024]

@@ -38,19 +38,19 @@ Front of PermitNo. \_\_\_\_\_\_united statesdepartment of the interiornational p
 
 Permission is hereby granted \_\_\_\_\_\_\_\_\_\_\_\_of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, during the period from \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 19\_\_\_\_ to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 19\_\_\_\_, inclusive to operate a
 
-(Specify type of establishment)on the following described privately-owned lands within Yosemite National Park, over which the United States exercises exclusive jurisdiction \_\_\_\_\_\_\_\_\_\_\_\_ subject to the general provisions and any special conditions stated on the reverse hereof.
+(Specify type of establishment) on the following described privately-owned lands within Yosemite National Park, over which the United States exercises exclusive jurisdiction \_\_\_\_\_\_\_\_\_\_\_\_ subject to the general provisions and any special conditions stated on the reverse hereof.
 
 Issued at \_\_\_\_\_\_\_\_\_\_\_\_ this \_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
 
-SuperintendentThe undersigned hereby accepts this permit subject to the terms, covenants, obligations and reservations, expressed or implied therein.
+Superintendent The undersigned hereby accepts this permit subject to the terms, covenants, obligations and reservations, expressed or implied therein.
 
 Two witnesses to signature(s):
 
-1 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Address)(Address)
+1 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Address) (Address)
 
 1 Sign name or names as written in body of permit; for copartnership, permittees should sign as “Members of firm”; for corporation, the officer authorized to execute contracts, etc., should sign, with title, the sufficiency of such signature being attested by the secretary, with corporate seal, in lieu of witnesses.
 
-Reverse of PermitGeneral Regulatory Provisions of This Permit
+Reverse of Permit General Regulatory Provisions of This Permit
 
 1. Permittee shall exercise this privilege subject to the supervision of the Superintendent of the Park and shall comply with the regulations of the Secretary of the Interior governing the Park.
 

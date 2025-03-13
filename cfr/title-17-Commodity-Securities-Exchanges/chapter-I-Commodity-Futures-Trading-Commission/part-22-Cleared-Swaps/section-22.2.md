@@ -1,5 +1,7 @@
 ##### § 22.2 Futures Commission Merchants: Treatment of Cleared Swaps and Associated Cleared Swaps Customer Collateral. #####
 
+Link to an amendment published at 90 FR 7873, Jan. 22, 2025.Link to an amendment published at 90 FR 7937, Jan. 22, 2025.
+
 (a) *General.* A futures commission merchant shall treat and deal with the Cleared Swaps of Cleared Swaps Customers and associated Cleared Swaps Customer Collateral as belonging to Cleared Swaps Customers.
 
 (b) *Location of Cleared Swaps Customer Collateral.* (1) A futures commission merchant must segregate all Cleared Swaps Customer Collateral that it receives, and must either hold such Cleared Swaps Customer Collateral itself as set forth in paragraph (b)(2) of this section, or deposit such collateral into one or more Cleared Swaps Customer Accounts held at a Permitted Depository, as set forth in paragraph (b)(3) of this section.

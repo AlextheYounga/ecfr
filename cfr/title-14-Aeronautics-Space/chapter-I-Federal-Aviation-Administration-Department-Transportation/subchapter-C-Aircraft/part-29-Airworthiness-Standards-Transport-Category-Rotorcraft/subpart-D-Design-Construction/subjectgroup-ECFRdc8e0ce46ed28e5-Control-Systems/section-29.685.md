@@ -12,7 +12,7 @@
 
 (2) The design of cable systems must prevent any hazardous change in cable tension throughout the range of travel under any operating conditions and temperature variations.
 
-(3) No cable smaller than1/8 inch diameter may be used in any primary control system.
+(3) No cable smaller than 1/8 inch diameter may be used in any primary control system.
 
 (4) Pulley kinds and sizes must correspond to the cables with which they are used. The pulley-cable combinations and strength values specified in MIL-HDBK-5 must be used unless they are inapplicable.
 

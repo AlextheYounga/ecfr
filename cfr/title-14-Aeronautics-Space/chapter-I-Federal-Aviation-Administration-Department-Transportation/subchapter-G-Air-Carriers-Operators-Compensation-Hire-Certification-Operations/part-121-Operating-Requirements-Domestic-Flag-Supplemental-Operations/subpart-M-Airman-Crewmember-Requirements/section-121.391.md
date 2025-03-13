@@ -20,4 +20,4 @@
 
 (d) During takeoff and landing, flight attendants required by this section shall be located as near as practicable to required floor level exits and shall be uniformly distributed throughout the airplane in order to provide the most effective egress of passengers in event of an emergency evacuation. During taxi, flight attendants required by this section must remain at their duty stations with safety belts and shoulder harnesses fastened except to perform duties related to the safety of the airplane and its occupants.
 
-[Doc. No. 2033, 30 FR 3206, Mar. 9, 1965]Editorial Note:For Federal Register citations affecting § 121.391, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Doc. No. 2033, 30 FR 3206, Mar. 9, 1965] Editorial Note:For Federal Register citations affecting § 121.391, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

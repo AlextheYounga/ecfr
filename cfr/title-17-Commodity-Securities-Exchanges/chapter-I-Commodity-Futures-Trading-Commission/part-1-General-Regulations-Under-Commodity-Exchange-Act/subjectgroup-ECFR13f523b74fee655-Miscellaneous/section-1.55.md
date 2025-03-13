@@ -1,5 +1,7 @@
 ##### § 1.55 Public disclosures by futures commission merchants. #####
 
+Link to an amendment published at 90 FR 7870, Jan. 22, 2025.
+
 (a)(1) Except as provided in 1.65, no futures commission merchant, or in the case of an introduced account no introducing broker, may open a commodity futures account for a customer, other than for a customer specified in paragraph (f) of this section, unless the futures commission merchant or introducing broker first:
 
 (i) Furnishes the customer with a separate written disclosure statement containing only the language set forth in paragraph (b) of this section (except for nonsubstantive additions such as captions) or as otherwise approved under paragraph (c) of this section; *Provided, however,* that the disclosure statement may be attached to other documents as the cover page or the first page of such documents and as the only material on such page; and

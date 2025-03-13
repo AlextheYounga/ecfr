@@ -40,7 +40,7 @@ A = 11 + 0.4(P−50) + 10 Log10 B. (Attenuation greater than 56 decibels or to a
 
 (i) In any 4 KHz band, the center frequency of which is removed from the edge of the DEMS channel by up to and including 1.125 times the DEMS subchannel bandwidth: As specified by the following equation may in no event be less than 50 + 10 log10 N decibels:
 
-A = 50 + 0.0333(F − 0.5B) + 10 log10 N decibels Where: A = Attenuation (in decibels) below means output power level contained within the DEMS channel for a given polarization. B = Bandwidth of DEMS channel (in KHz). F = Absolute value of the difference between the center frequency of the 4 KHz band measured and the center frequency of the DEMS channel (in KHz). N = Number of active subchannels of the given polarization within the DEMS channel.
+A = 50 + 0.0333(F − 0.5B) + 10 log10 N decibelsWhere:A = Attenuation (in decibels) below means output power level contained within the DEMS channel for a given polarization.B = Bandwidth of DEMS channel (in KHz).F = Absolute value of the difference between the center frequency of the 4 KHz band measured and the center frequency of the DEMS channel (in KHz).N = Number of active subchannels of the given polarization within the DEMS channel.
 
 (ii) In any 4 KHz band within the authorized DEMS band the center frequency of which is removed from the center frequency of the DEMS channel by more than the sum of 50% of the DEMS channel bandwidth plus 1.125 times the subchannel bandwidth: As specified by the following equation but in no event less than 80 decibels:
 
@@ -52,7 +52,7 @@ A = 80 + 10 log10 N decibels
 
 (i) In any 4 KHz band, the center frequency of which is removed from the frequency of the center of the DEMS channel by more than 50 percent of the DEMS channel bandwidth up to and including 50 percent plus 500 KHz: As specified by the following equation but in no event be less than 50 + 10 log10 N decibels:
 
-A = 50 + 0.06(F −0.5B) + 10 log10 N decibels Where: A = Attenuation (in decibels) below means output power level contained within the DEMS channel for a given polarization. B = Bandwidth of DEMS channel (in KHz). F = Absolute value of the difference between the center frequency of the 4 KHz band measured and the center frequency of the DEMS channel (in KHz). N = Number of active subchannels of the given polarization within the DEMS channel.
+A = 50 + 0.06(F −0.5B) + 10 log10 N decibelsWhere:A = Attenuation (in decibels) below means output power level contained within the DEMS channel for a given polarization.B = Bandwidth of DEMS channel (in KHz).F = Absolute value of the difference between the center frequency of the 4 KHz band measured and the center frequency of the DEMS channel (in KHz).N = Number of active subchannels of the given polarization within the DEMS channel.
 
 (ii) In any 4 KHz band within the authorized DEMS band, the center frequency of which is removed from the center frequency of the DEMS channel by more than the sum of 50 percent of the channel bandwidth plus 500 KHz: As specified by the following equation but in no event less than 80 decibels:
 

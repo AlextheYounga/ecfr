@@ -1,5 +1,7 @@
 ##### § 1.73 Clearing futures commission merchant risk management. #####
 
+Link to an amendment published at 90 FR 7937, Jan. 22, 2025.
+
 (a) Each futures commission merchant that is a clearing member of a derivatives clearing organization shall:
 
 (1) Establish risk-based limits in the proprietary account and in each customer account based on position size, order size, margin requirements, or similar factors;

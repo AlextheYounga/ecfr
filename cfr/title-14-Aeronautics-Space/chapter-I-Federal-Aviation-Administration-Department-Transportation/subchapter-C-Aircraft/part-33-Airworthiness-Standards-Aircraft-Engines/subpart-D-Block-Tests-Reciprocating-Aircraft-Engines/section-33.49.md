@@ -6,15 +6,15 @@
 
 (1) A 30-hour run consisting of alternate periods of 5 minutes at rated takeoff power with takeoff speed, and 5 minutes at maximum best economy cruising power or maximum recommended cruising power.
 
-(2) A 20-hour run consisting of alternate periods of 11/2 hours at rated maximum continuous power with maximum continuous speed, and1/2 hour at 75 percent rated maximum continuous power and 91 percent maximum continuous speed.
+(2) A 20-hour run consisting of alternate periods of 11/2 hours at rated maximum continuous power with maximum continuous speed, and 1/2 hour at 75 percent rated maximum continuous power and 91 percent maximum continuous speed.
 
-(3) A 20-hour run consisting of alternate periods of 11/2 hours at rated maximum continuous power with maximum continuous speed, and1/2 hour at 70 percent rated maximum continuous power and 89 percent maximum continuous speed.
+(3) A 20-hour run consisting of alternate periods of 11/2 hours at rated maximum continuous power with maximum continuous speed, and 1/2 hour at 70 percent rated maximum continuous power and 89 percent maximum continuous speed.
 
-(4) A 20-hour run consisting of alternate periods of 11/2 hours at rated maximum continuous power with maximum continuous speed, and1/2 hour at 65 percent rated maximum continuous power and 87 percent maximum continuous speed.
+(4) A 20-hour run consisting of alternate periods of 11/2 hours at rated maximum continuous power with maximum continuous speed, and 1/2 hour at 65 percent rated maximum continuous power and 87 percent maximum continuous speed.
 
-(5) A 20-hour run consisting of alternate periods of 11/2 hours at rated maximum continuous power with maximum continuous speed, and1/2 hour at 60 percent rated maximum continuous power and 84.5 percent maximum continuous speed.
+(5) A 20-hour run consisting of alternate periods of 11/2 hours at rated maximum continuous power with maximum continuous speed, and 1/2 hour at 60 percent rated maximum continuous power and 84.5 percent maximum continuous speed.
 
-(6) A 20-hour run consisting of alternate periods of 11/2 hours at rated maximum continuous power with maximum continuous speed, and1/2 hour at 50 percent rated maximum continuous power and 79.5 percent maximum continuous speed.
+(6) A 20-hour run consisting of alternate periods of 11/2 hours at rated maximum continuous power with maximum continuous speed, and 1/2 hour at 50 percent rated maximum continuous power and 79.5 percent maximum continuous speed.
 
 (7) A 20-hour run consisting of alternate periods of 21/2 hours at rated maximum continuous power with maximum continuous speed, and 21/2 hours at maximum best economy cruising power or at maximum recommended cruising power.
 
@@ -22,9 +22,9 @@
 
 (1) A 30-hour run consisting of alternate periods in the lower gear ratio of 5 minutes at rated takeoff power with takeoff speed, and 5 minutes at maximum best economy cruising power or at maximum recommended cruising power. If a takeoff power rating is desired in the higher gear ratio, 15 hours of the 30-hour run must be made in the higher gear ratio in alternate periods of 5 minutes at the observed horsepower obtainable with the takeoff critical altitude manifold pressure and takeoff speed, and 5 minutes at 70 percent high ratio rated maximum continuous power and 89 percent high ratio maximum continuous speed.
 
-(2) A 15-hour run consisting of alternate periods in the lower gear ratio of 1 hour at rated maximum continuous power with maximum continuous speed, and1/2 hour at 75 percent rated maximum continuous power and 91 percent maximum continuous speed.
+(2) A 15-hour run consisting of alternate periods in the lower gear ratio of 1 hour at rated maximum continuous power with maximum continuous speed, and 1/2 hour at 75 percent rated maximum continuous power and 91 percent maximum continuous speed.
 
-(3) A 15-hour run consisting of alternate periods in the lower gear ratio of 1 hour at rated maximum continuous power with maximum continuous speed, and1/2 hour at 70 percent rated maximum continuous power and 89 percent maximum continuous speed.
+(3) A 15-hour run consisting of alternate periods in the lower gear ratio of 1 hour at rated maximum continuous power with maximum continuous speed, and 1/2 hour at 70 percent rated maximum continuous power and 89 percent maximum continuous speed.
 
 (4) A 30-hour run in the higher gear ratio at rated maximum continuous power with maximum continuous speed.
 

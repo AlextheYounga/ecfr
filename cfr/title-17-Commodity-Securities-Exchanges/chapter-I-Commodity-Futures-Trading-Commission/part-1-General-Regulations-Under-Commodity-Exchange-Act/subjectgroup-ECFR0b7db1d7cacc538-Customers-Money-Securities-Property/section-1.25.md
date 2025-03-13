@@ -1,5 +1,7 @@
 ##### § 1.25 Investment of customer funds. #####
 
+Link to an amendment published at 90 FR 7867, Jan. 22, 2025.Link to an amendment published at 90 FR 7869, Jan. 22, 2025.Link to an amendment published at 90 FR 7871, Jan. 22, 2025.
+
 (a) *Permitted investments.* (1) Subject to the terms and conditions set forth in this section, a futures commission merchant or a derivatives clearing organization may invest customer money in the following instruments (permitted investments):
 
 (i) Obligations of the United States and obligations fully guaranteed as to principal and interest by the United States (U.S. government securities);

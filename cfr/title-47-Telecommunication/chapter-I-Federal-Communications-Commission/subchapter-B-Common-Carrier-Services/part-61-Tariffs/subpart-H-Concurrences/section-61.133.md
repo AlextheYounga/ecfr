@@ -20,6 +20,6 @@ Tariff
 
 Cancels FCC Concurrence No.\_\_\_, effective \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_.
 
-(Name of concurring carrier)By (Title)
+(Name of concurring carrier)By(Title)
 
 (b) No material is to be included in a concurrence other than that indicated in the above-prescribed form, unless specially authorized by the Commission. A concurrence in any tariff so described will be deemed to include all amendments and successive issues which the issuing carrier may make and file. All such amendments and successive issues will be binding between customers and carriers. Between carriers themselves, however, the filing by the issuing carrier of an amendment or successive issue with the Commission must not imply or be construed to imply an agreement to the filing by concurring carriers. Such filings do not affect the contractual rights or remedies of any concurring carrier(s) which have not, by contract or otherwise, specifically consented in advance to such amendment or successive issue.

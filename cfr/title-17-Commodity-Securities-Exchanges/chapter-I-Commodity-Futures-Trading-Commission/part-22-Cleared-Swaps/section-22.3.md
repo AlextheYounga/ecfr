@@ -1,5 +1,7 @@
 ##### § 22.3 Derivatives clearing organizations: Treatment of cleared swaps customer collateral. #####
 
+Link to an amendment published at 90 FR 7873, Jan. 22, 2025.
+
 (a) *General.* A derivatives clearing organization shall treat and deal with the Cleared Swaps Customer Collateral deposited by a futures commission merchant as belonging to the Cleared Swaps Customers of such futures commission merchant and not other persons, including, without limitation, the futures commission merchant.
 
 (b) *Location of Cleared Swaps Customer Collateral.* (1) The derivatives clearing organization must segregate all Cleared Swaps Customer Collateral that it receives from futures commission merchants, and must either hold such Cleared Swaps Customer Collateral itself as set forth in paragraph (b)(2) of this section, or deposit such collateral into one or more Cleared Swaps Customer Accounts held at a Permitted Depository, as set forth in paragraph (b)(3) of this section.

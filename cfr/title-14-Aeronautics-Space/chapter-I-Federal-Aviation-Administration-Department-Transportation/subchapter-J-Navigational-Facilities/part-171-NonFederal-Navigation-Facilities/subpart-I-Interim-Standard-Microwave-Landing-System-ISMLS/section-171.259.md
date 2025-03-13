@@ -48,11 +48,11 @@ Relative humidity, 5% to 100%.
 
 Wind velocity, 0-100 MPH (not including gusts).
 
-Hail stones,1/2″ diameter.
+Hail stones, 1/2″ diameter.
 
 Rain, provide coverage through a distance of 5 nautical miles with rain falling at a rate of 50 millimeters per hour, and with rain falling at the rate of 25 millimeters per hour for the additional design performance range of the system.
 
-Ice loading, encased in1/2″ radial thickness of clear ice.
+Ice loading, encased in 1/2″ radial thickness of clear ice.
 
 (d) The ISMLS must perform in accordance with the following standards and practices for Facility Performance Category I operation:
 

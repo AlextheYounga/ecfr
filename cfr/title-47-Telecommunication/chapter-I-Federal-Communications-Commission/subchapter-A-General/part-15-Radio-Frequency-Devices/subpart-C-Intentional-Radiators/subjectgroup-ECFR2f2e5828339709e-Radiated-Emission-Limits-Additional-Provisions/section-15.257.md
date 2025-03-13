@@ -26,7 +26,7 @@
 
 (2) Radiated emissions below 40 GHz shall not exceed the general limits in § 15.209.
 
-(3) Between 40 GHz and 200 GHz, the level of these emissions shall not exceed 90 pW/cm 2 at a distance of 3 meters.
+(3) Between 40 GHz and 200 GHz, the level of these emissions shall not exceed 90 pW/cm2 at a distance of 3 meters.
 
 (4) The levels of the spurious emissions shall not exceed the level of the fundamental emission.
 

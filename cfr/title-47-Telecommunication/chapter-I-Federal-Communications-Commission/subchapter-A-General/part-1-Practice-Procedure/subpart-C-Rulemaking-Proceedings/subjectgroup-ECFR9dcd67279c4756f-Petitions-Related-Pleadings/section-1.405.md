@@ -10,4 +10,4 @@ Except for petitions to amend the FM Television or Air-Ground Tables of Assignme
 
 (d) The Commission may act on a petition for rule making at any time after the deadline for the filing of replies to statements in support of or in opposition to the petition. Statements in support of or in opposition to a petition for rule making, and replies thereto, shall not be filed after Commission action.
 
-(Secs. 4, 303, 307, 48 Stat., as amended, 1066, 1082, 1083; 47 U.S.C. 154, 303, 307) [28 FR 12413, Nov. 22, 1963, as amended at 28 FR 14503, Dec. 31, 1963; 45 FR 42621, June 25, 1980; 46 FR 60404, Dec. 9, 1981]
+(Secs. 4, 303, 307, 48 Stat., as amended, 1066, 1082, 1083; 47 U.S.C. 154, 303, 307)[28 FR 12413, Nov. 22, 1963, as amended at 28 FR 14503, Dec. 31, 1963; 45 FR 42621, June 25, 1980; 46 FR 60404, Dec. 9, 1981]

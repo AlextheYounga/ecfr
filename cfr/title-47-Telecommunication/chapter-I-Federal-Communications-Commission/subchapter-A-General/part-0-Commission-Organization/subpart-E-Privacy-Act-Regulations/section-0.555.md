@@ -22,4 +22,4 @@
 
 (2) Seek judicial relief in the district courts of the United States pursuant to paragraph (g)(1)(B) of the Act.
 
-(Secs. 4(i) and 303(n), Communications Act of 1934, as amended, 47 U.S.C. 154(i) and 303(n); 47 CFR 0.231(d)) [40 FR 44512, Sept. 26, 1975, as amended at 40 FR 58858, Dec. 19, 1975; 49 FR 13369, Apr. 4, 1984; 80 FR 53749, Sept. 8, 2015]
+(Secs. 4(i) and 303(n), Communications Act of 1934, as amended, 47 U.S.C. 154(i) and 303(n); 47 CFR 0.231(d))[40 FR 44512, Sept. 26, 1975, as amended at 40 FR 58858, Dec. 19, 1975; 49 FR 13369, Apr. 4, 1984; 80 FR 53749, Sept. 8, 2015]

@@ -32,4 +32,4 @@ The Commission may authorize non-Federal licensees to operate mobile and portabl
 |    IR9     |    173.0375 (S)     |      173.0375      |   IR18    |    410.8375 (S)     |      410.8375      |
 |(S)—Simplex.|                     |                    |           |                     |                    |
 
-[83 FR 19980, May 7, 2018] Effective Date Note:At 83 FR 19980, May 7, 2018, § 90.25 was added. This text contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[83 FR 19980, May 7, 2018]Effective Date Note:At 83 FR 19980, May 7, 2018, § 90.25 was added. This text contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

@@ -12,7 +12,7 @@
 
 (2) The Stehekin landing field, located at approximate latitude 48°21′ N, approximate longitude 120°43′ W.
 
-(c) *Weapons.* The following location is designated for target practice between the hours of sunrise and sunset, subject to all applicable Federal, State, and local laws: in the SE1/4 of sec. 8, T. 33 N., R. 17 E., WM, approximately 100 yards east of mile point 7 on the Stehekin Valley Road, a converted borrow pit.
+(c) *Weapons.* The following location is designated for target practice between the hours of sunrise and sunset, subject to all applicable Federal, State, and local laws: in the SE 1/4 of sec. 8, T. 33 N., R. 17 E., WM, approximately 100 yards east of mile point 7 on the Stehekin Valley Road, a converted borrow pit.
 
 (d) *Solid waste disposal.* A solid waste transfer station located near Stehekin within the boundary of Lake Chelan National Recreation Area must comply with all provisions in 36 CFR part 6, except it may:
 

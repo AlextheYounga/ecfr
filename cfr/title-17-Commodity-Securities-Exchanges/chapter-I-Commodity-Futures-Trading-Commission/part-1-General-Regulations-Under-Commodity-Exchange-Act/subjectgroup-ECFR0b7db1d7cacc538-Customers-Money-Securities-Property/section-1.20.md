@@ -1,5 +1,7 @@
 ##### § 1.20 Futures customer funds to be segregated and separately accounted for. #####
 
+Link to an amendment published at 90 FR 7867, Jan. 22, 2025.Link to an amendment published at 90 FR 7870, Jan. 22, 2025.Link to an amendment published at 90 FR 7933, Jan. 22, 2025.
+
 (a) *General.* A futures commission merchant must separately account for all futures customer funds and segregate such funds as belonging to its futures customers. A futures commission merchant shall deposit futures customer funds under an account name that clearly identifies them as futures customer funds and shows that such funds are segregated as required by sections 4d(a) and 4d(b) of the Act and by this part. A futures commission merchant must at all times maintain in the separate account or accounts money, securities and property in an amount at least sufficient in the aggregate to cover its total obligations to all futures customers as computed under paragraph (i) of this section. The futures commission merchant must perform appropriate due diligence as required by § 1.11 on any and all locations of futures customer funds, as specified in paragraph (b) of this section, to ensure that the location in which the futures commission merchant has deposited such funds is a financially sound entity.
 
 (b) *Location of futures customer funds.* A futures commission merchant may deposit futures customer funds, subject to the risk management policies and procedures of the futures commission merchant required by § 1.11, with the following depositories:

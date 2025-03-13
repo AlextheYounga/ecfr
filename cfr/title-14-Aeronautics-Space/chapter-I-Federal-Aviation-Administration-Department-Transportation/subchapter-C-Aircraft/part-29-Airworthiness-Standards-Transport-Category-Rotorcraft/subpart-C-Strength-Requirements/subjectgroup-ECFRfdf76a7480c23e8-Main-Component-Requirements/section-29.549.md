@@ -16,4 +16,4 @@
 
 (e) If approval for the use of 21/2-minute OEI power is requested, each engine mount and adjacent structure must be designed to withstand the loads resulting from a limit torque equal to 1.25 times the mean torque for 21/2-minute OEI power combined with 1g flight loads.
 
-(Secs. 604, 605, 72 Stat. 778, 49 U.S.C. 1424, 1425)[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-4, 33 FR 14106, Sept. 18, 1968; Amdt. 29-26, 53 FR 34215, Sept. 2, 1988]
+(Secs. 604, 605, 72 Stat. 778, 49 U.S.C. 1424, 1425) [Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-4, 33 FR 14106, Sept. 18, 1968; Amdt. 29-26, 53 FR 34215, Sept. 2, 1988]

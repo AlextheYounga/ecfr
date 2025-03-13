@@ -52,4 +52,4 @@ The staff has been authorized to act on rulemaking proceedings described in § 1
 
 (9) Are untimely.
 
-(Secs. 4, 303, 307, 48 Stat., as amended, 1066, 1082, 1083; 47 U.S.C. 154, 303, 307) [41 FR 1287, Jan. 7, 1976, as amended at 44 FR 5436, Jan. 26, 1979; 46 FR 18556, Mar. 25, 1981; 52 FR 49161, Dec. 30, 1987; 63 FR 24126, May 1, 1998; 76 FR 24392, May 2, 2011]
+(Secs. 4, 303, 307, 48 Stat., as amended, 1066, 1082, 1083; 47 U.S.C. 154, 303, 307)[41 FR 1287, Jan. 7, 1976, as amended at 44 FR 5436, Jan. 26, 1979; 46 FR 18556, Mar. 25, 1981; 52 FR 49161, Dec. 30, 1987; 63 FR 24126, May 1, 1998; 76 FR 24392, May 2, 2011]

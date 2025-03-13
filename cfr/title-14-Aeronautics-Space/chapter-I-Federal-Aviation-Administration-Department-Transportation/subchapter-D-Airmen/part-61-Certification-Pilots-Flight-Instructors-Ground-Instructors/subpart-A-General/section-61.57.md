@@ -140,4 +140,4 @@
 
 (6) A person approved by the FAA to perform night vision goggle proficiency checks.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40898, July 30, 1997]Editorial Note:For Federal Register citations affecting § 61.57, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40898, July 30, 1997] Editorial Note:For Federal Register citations affecting § 61.57, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

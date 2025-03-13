@@ -4,7 +4,7 @@
 
 (b) *Magnetic tape.* Agencies may transfer electronic records to the National Archives of the United States on magnetic tape as follows:
 
-(1) Open-reel magnetic tape must be on1/2-inch 9-track tape reels recorded at 1600 or 6250 bpi that meet ANSI X3.39 or ANSI X3.54 (both incorporated by reference, see § 1235.4), respectively.
+(1) Open-reel magnetic tape must be on 1/2-inch 9-track tape reels recorded at 1600 or 6250 bpi that meet ANSI X3.39 or ANSI X3.54 (both incorporated by reference, see § 1235.4), respectively.
 
 (2) 18-track 3480-class cartridges must be recorded at 37,871 bpi that meet ANSI X3.180 (incorporated by reference see, § 1235.4). The data must be blocked at no more than 32,760 bytes per block.
 

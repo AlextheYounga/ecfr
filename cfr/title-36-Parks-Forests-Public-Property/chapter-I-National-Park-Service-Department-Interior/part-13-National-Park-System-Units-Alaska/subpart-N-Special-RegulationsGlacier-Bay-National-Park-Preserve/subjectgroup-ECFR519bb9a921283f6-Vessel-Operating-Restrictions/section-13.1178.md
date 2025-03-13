@@ -6,12 +6,12 @@ The following are prohibited:
 
 (b) Operating a vessel or otherwise approaching within 100 yards of a Steller (northern) sea lion (*Eumetopias jubatus*) hauled-out on land or a rock or a nesting seabird colony: *Provided, however,* that vessels may approach within 50 yards of that part of South Marble Island lying south of 58°38.6′ N latitude (approximately the southern one-half of South Marble Island) to view seabirds.
 
-(c) May 1 through August 31, operating a vessel, or otherwise approaching within1/4 nautical mile of, Spider Island or any of the four small islets lying immediately west of Spider Island.
+(c) May 1 through August 31, operating a vessel, or otherwise approaching within 1/4 nautical mile of, Spider Island or any of the four small islets lying immediately west of Spider Island.
 
 (d) May 1 through August 31, operating a cruise ship on Johns Hopkins Inlet waters south of 58°54.2′ N latitude (an imaginary line running approximately due west from Jaw Point).
 
 (e) May 1 through June 30, operating a vessel or a seaplane on Johns Hopkins Inlet waters south of 58°54.2′ N latitude (an imaginary line running approximately due west from Jaw Point).
 
-(f) July 1 through August 31, operating a vessel or a seaplane on Johns Hopkins Inlet waters south of 58°54.2′ N latitude (an imaginary line running approximately due west from Jaw Point), within1/4 nautical mile of a seal hauled out on ice; except when safe navigation requires, and then with due care to maintain the1/4 nautical mile distance from concentrations of seals.
+(f) July 1 through August 31, operating a vessel or a seaplane on Johns Hopkins Inlet waters south of 58°54.2′ N latitude (an imaginary line running approximately due west from Jaw Point), within 1/4 nautical mile of a seal hauled out on ice; except when safe navigation requires, and then with due care to maintain the 1/4 nautical mile distance from concentrations of seals.
 
 (g) Restrictions imposed in this section are minimum distances. Park visitors are advised that protection of park wildlife may require that visitors maintain greater distances from wildlife. *See,* 36 CFR 2.2 (Wildlife protection).

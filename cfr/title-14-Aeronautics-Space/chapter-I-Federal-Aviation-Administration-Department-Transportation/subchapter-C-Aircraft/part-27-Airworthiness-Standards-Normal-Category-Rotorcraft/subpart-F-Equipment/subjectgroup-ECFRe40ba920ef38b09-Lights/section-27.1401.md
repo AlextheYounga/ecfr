@@ -14,7 +14,7 @@
 
 (e) *Light intensity.* The minimum light intensities in any vertical plane, measured with the red filter (if used) and expressed in terms of “effective” intensities, must meet the requirements of paragraph (f) of this section. The following relation must be assumed:
 
-![](/graphics/ec28se91.086.gif)where:*I*e = effective intensity (candles).*I(t)* = instantaneous intensity as a function of time.*t*2−*t*1 = flash time interval (seconds).Normally, the maximum value of effective intensity is obtained when *t*2 and *t*1 are chosen so that the effective intensity is equal to the instantaneous intensity at *t*2 and *t*1.
+![](/graphics/ec28se91.086.gif)where:*I*e = effective intensity (candles). *I(t)* = instantaneous intensity as a function of time. *t*2−*t*1 = flash time interval (seconds). Normally, the maximum value of effective intensity is obtained when *t*2 and *t*1 are chosen so that the effective intensity is equal to the instantaneous intensity at *t*2 and *t*1.
 
 (f) *Minimum effective intensities for anticollision light.* Each anticollision light effective intensity must equal or exceed the applicable values in the following table:
 

@@ -4,7 +4,7 @@
 
 (b) The source of each definition is indicated as follows:
 
-CS—Annex to the Constitution of the International Telecommunication Union (ITU) CV—Annex to the Convention of the ITU FCC—Federal Communications Commission RR—ITU Radio Regulations
+CS—Annex to the Constitution of the International Telecommunication Union (ITU)CV—Annex to the Convention of the ITUFCC—Federal Communications CommissionRR—ITU Radio Regulations
 
 (c) The following terms and definitions are issued:
 
@@ -122,7 +122,7 @@ For most practical purposes associated with the ITU *Radio Regulations*, UTC is 
 
 *Direct Sequence Systems.* A spread spectrum system in which the carrier has been modulated by a high speed spreading code and an information data stream. The high speed code sequence dominates the “modulating function” and is the direct cause of the wide spreading of the transmitted signal.
 
-*Duplex Operation.* Operating method in which transmission is possible simultaneously in both directions of a telecommunication channel. 3 (RR)
+*Duplex Operation.* Operating method in which transmission is possible simultaneously in both directions of a telecommunication channel.3 (RR)
 
 3 In general, duplex operation and semi-duplex operation require two frequencies in radiocommunication; simplex operation may use either one or two.
 
@@ -468,7 +468,7 @@ In these [international] Radio Regulations, unless otherwise stated, any radioco
 
 *Ship Station.* A mobile station in the maritime mobile service located on board a vessel which is not permanently moored, other than a survival craft station. (RR)
 
-*Simplex Operation.* Operating method in which transmission is made possible alternatively in each direction of a telecommunication channel, for example, by means of manual control. 5 (RR)
+*Simplex Operation.* Operating method in which transmission is made possible alternatively in each direction of a telecommunication channel, for example, by means of manual control.5 (RR)
 
 5 (See footnote under Duplex Operations.)
 

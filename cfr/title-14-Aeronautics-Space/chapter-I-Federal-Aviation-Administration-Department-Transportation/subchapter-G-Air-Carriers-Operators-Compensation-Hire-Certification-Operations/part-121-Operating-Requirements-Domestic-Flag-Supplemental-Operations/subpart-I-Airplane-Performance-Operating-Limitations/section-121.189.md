@@ -2,7 +2,7 @@
 
 (a) No person operating a turbine engine powered airplane may take off that airplane at a weight greater than that listed in the Airplane Flight Manual for the elevation of the airport and for the ambient temperature existing at takeoff.
 
-(b) No person operating a turbine engine powered airplane certificated after August 26, 1957, but before August 30, 1959 (SR422, 422A), may take off that airplane at a weight greater than that listed in the Airplane Flight Manual for the minimum distances required for takeoff. In the case of an airplane certificated after September 30, 1958 (SR422A, 422B), the takeoff distance may include a clearway distance but the clearway distance included may not be greater than1/2 of the takeoff run.
+(b) No person operating a turbine engine powered airplane certificated after August 26, 1957, but before August 30, 1959 (SR422, 422A), may take off that airplane at a weight greater than that listed in the Airplane Flight Manual for the minimum distances required for takeoff. In the case of an airplane certificated after September 30, 1958 (SR422A, 422B), the takeoff distance may include a clearway distance but the clearway distance included may not be greater than 1/2 of the takeoff run.
 
 (c) No person operating a turbine engine powered airplane certificated after August 29, 1959 (SR422B), may take off that airplane at a weight greater than that listed in the Airplane Flight Manual at which compliance with the following may be shown:
 

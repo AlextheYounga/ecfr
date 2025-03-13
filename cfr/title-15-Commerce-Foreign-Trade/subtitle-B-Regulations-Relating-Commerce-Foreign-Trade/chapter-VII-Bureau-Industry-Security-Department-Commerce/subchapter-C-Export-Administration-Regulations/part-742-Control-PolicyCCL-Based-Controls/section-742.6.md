@@ -122,12 +122,6 @@
 
 (C) For items specified in paragraph (a)(6)(iii)(A) of this section, applications for exports, reexports, or transfers (in-country) to or within destinations listed in paragraph (b) of supplement no. 5 to Part 740, TPP allocations may be increased up to 100% for that destination pursuant to government-to-government assurances, as applicable. Accordingly, the licensing policy in paragraph (b)(10)(iii)(B) will apply, up to the adjusted country allocations.
 
-(iv) For items specified in paragraph (a)(6)(iii)(B) of this section:
-
-(A) *Presumption of approval.* Applications for exports, reexports, or transfers (in-country) will be reviewed with a presumption of approval to or within destinations not specified in Country Group D:5 or Macau or to an entity not headquartered in, and whose ultimate parent company is not headquartered in, either Macau or a destination specified in Country Group D:5.
-
-(B) *Presumption of denial.* Applications for exports, reexports, or transfers (in-country) will be reviewed under a presumption of denial to or within Macau or destinations specified in Country Group D:5 or to an entity headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5.
-
 (11) *License review policy for items specified in paragraph (a)(10).* License applications to export or reexport items described in paragraph (a)(10) of this section to destinations specified in Country Group A:1, A:5, and A:6, see supplement no. 1 to part 740 of the EAR, will be reviewed with a presumption of approval. License applications to export or reexport items described in paragraph (a)(10) of this section to destinations specified in Country Groups D:1 or D:5 of supplement no. 1 to part 740 of the EAR will be reviewed under a presumption of denial. License applications to export or reexport items described in paragraph (a)(10) of this section to any other destination will be reviewed on a case-by-case basis, unless subject to a more restrictive RS policy in this section.
 
 (12) *License review policy for paragraph (a)(11).* The license review policy for items subject to a license pursuant to paragraph (a)(11) of this section will be reviewed as specified in the license review policy column for the listed entity. See also § 744.11(a)(2)(v) of the EAR.
