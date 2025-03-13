@@ -1,7 +1,5 @@
 ##### § 274a.12 Classes of aliens authorized to accept employment. #####
 
-Link to an amendment published at 89 FR 34943, Apr. 30, 2024.
-
 (a) *Aliens authorized employment incident to status.* Pursuant to the statutory or regulatory reference cited, the following classes of aliens are authorized to be employed in the United States without restrictions as to location or type of employment as a condition of their admission or subsequent change to one of the indicated classes. Any alien who is within a class of aliens described in paragraphs (a)(3), (a)(4), (a)(6)-(a)(8), (a)(10)-(a)(15), or (a)(20) of this section, and who seeks to be employed in the United States, must apply to U.S. Citizenship and Immigration Services (USCIS) for a document evidencing such employment authorization. USCIS may, in its discretion, determine the validity period assigned to any document issued evidencing an alien's authorization to work in the United States.
 
 (1) An alien who is a lawful permanent resident (with or without conditions pursuant to section 216 of the Act), as evidenced by Form I-551 issued by the Service. An expiration date on the Form I-551 reflects only that the card must be renewed, not that the bearer's work authorization has expired;
@@ -239,6 +237,10 @@ Link to an amendment published at 89 FR 34943, Apr. 30, 2024.
 (35) An alien who is the principal beneficiary of a valid immigrant petition under section 203(b)(1), 203(b)(2) or 203(b)(3) of the Act described as eligible for employment authorization in 8 CFR 204.5(p).
 
 (36) A spouse or child of a principal beneficiary of a valid immigrant petition under section 203(b)(1), 203(b)(2) or 203(b)(3) of the Act described as eligible for employment authorization in 8 CFR 204.5(p).
+
+(37)-(39) [Reserved]
+
+(40) A noncitizen applicant for T nonimmigrant status, and eligible family members, who have pending, bona fide applications, and who merit a favorable exercise of discretion.
 
 (d) An alien lawfully enlisted in one of the Armed Forces, or whose enlistment the Secretary with jurisdiction over such Armed Force has determined would be vital to the national interest under 10 U.S.C. 504(b)(2), is authorized to be employed by that Armed Force in military service, if such employment is not otherwise authorized under this section and the immigration laws. An alien described in this section is not issued an employment authorization document.
 

@@ -1,5 +1,7 @@
 ##### § 412.1 Scope of part. #####
 
+Link to an amendment published at 89 FR 69909, Aug. 28, 2024.
+
 (a) *Purpose.* (1) This part implements sections 1886(d) and (g) of the Act by establishing a prospective payment system for the operating costs of inpatient hospital services furnished to Medicare beneficiaries in cost reporting periods beginning on or after October 1, 1983, and a prospective payment system for the capital-related costs of inpatient hospital services furnished to Medicare beneficiaries in cost reporting periods beginning on or after October 1, 1991.
 
 (i) Under these prospective payment systems, payment for the operating and capital-related costs of inpatient hospital services furnished by hospitals subject to the systems (generally, short-term, acute-care hospitals) is made on the basis of prospectively determined rates and applied on a per discharge basis.

@@ -1,6 +1,6 @@
 ##### § 679.7 Prohibitions. #####
 
-Link to an amendment published at 89 FR 60808, July 29, 2024.Link to an amendment published at 89 FR 66637, Aug. 16, 2024.
+Link to an amendment published at 89 FR 66637, Aug. 16, 2024.
 
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
@@ -68,6 +68,8 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (ii) *Associated processor.* Function as a tender vessel or buying station without an associated processor.
 
+(iii) *Tender vessel.* Use a catcher vessel or catcher/processor to harvest groundfish while operating as a tender vessel.
+
 (12) *Prohibited species donation program.* Retain or possess prohibited species, defined at § 679.21(a)(1), except as permitted to do so under the PSD program as provided by § 679.26, or as authorized by other applicable law.
 
 (13) *Halibut.* With respect to halibut caught with fixed gear, as defined in § 679.2 under the definition of “Authorized fishing gear,” deployed from a vessel fishing for groundfish, except for vessels fishing for halibut as prescribed in the annual management measures published in the Federal Register pursuant to § 300.62 of this title:
@@ -86,19 +88,17 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (iv) Allow halibut caught with longline gear to contact the vessel, if such contact causes, or is capable of causing, the halibut to be stripped from the hook.
 
-(14) *Trawl gear performance standard*—(i) *BSAI.* Use a vessel to participate in a directed fishery for pollock using trawl gear and have on board the vessel, at any particular time, 20 or more crabs of any species that have a carapace width of more than 1.5 inches (38 mm) at the widest dimension.
+(14) *Trawl gear performance standard*—(i) *BSAI.* Except for catcher vessels in the trawl EM category, use a vessel to participate in a directed fishery for pollock using trawl gear and have on board the vessel, at any particular time, 20 or more crabs of any species that have a carapace width of more than 1.5 inches (38 mm) at the widest dimension.
 
-(ii) *GOA.* Use a vessel to participate in a directed fishery for pollock using trawl gear when directed fishing for pollock with nonpelagic trawl gear is closed and have on board the vessel, at any particular time, 20 or more crabs of any species that have a carapace width of more than 1.5 inches (38 mm) at the widest dimension.
+(ii) *GOA.* Except for catcher vessels in the trawl EM category, use a vessel to participate in a directed fishery for pollock using trawl gear when directed fishing for pollock with nonpelagic trawl gear is closed and have on board the vessel, at any particular time, 20 or more crabs of any species that have a carapace width of more than 1.5 inches (38 mm) at the widest dimension.
 
 (15) *Federal processor permit (FPP).* (i) Receive, purchase or arrange for purchase, discard, or process groundfish harvested in the GOA or BSAI by a shoreside processor or SFP and in the Western and Central GOA regulatory areas, including Federal reporting areas 610, 620, and 630, that does not have on site a legible copy of a valid FPP issued pursuant to § 679.4(f).
 
 (ii) Receive, purchase or arrange for purchase, discard, or process groundfish harvested in the GOA by a CQE floating processor that does not have on site a legible copy of a valid FPP issued pursuant to § 679.4(f).
 
-(16) *Retention of groundfish bycatch species.* Exceed the maximum retainable groundfish amount established under § 679.20(e).
+(16) *Retention of groundfish bycatch species.* Except for catcher vessels in the trawl EM category, exceed the maximum retainable amount established under § 679.20(e).
 
-(17) *Tender vessel.* (i) Use a catcher vessel or catcher/processor as a tender vessel before offloading all groundfish or groundfish product harvested or processed by that vessel.
-
-(ii) Use a catcher vessel or catcher/processor to harvest groundfish while operating as a tender vessel.
+(17) [Reserved]
 
 (18) *Pollock, Pacific Cod, and Atka Mackerel Directed Fishing and VMS.* Operate a vessel in any Federal reporting area when a vessel is authorized under § 679.4(b) to participate in the Atka mackerel, Pacific cod, or pollock directed fisheries and the vessel's authorized species and gear type is open to directed fishing, unless the vessel carries an operable NMFS-approved Vessel Monitoring System (VMS) and complies with the requirements in § 679.28(f).
 
@@ -112,11 +112,11 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (b) *Prohibitions specific to the GOA*—(1) *Southeast outside trawl closure.* Use trawl gear in the GOA east of 140° W long.
 
-(2) *Catcher vessel harvest limit for pollock.* (i) Retain more than 300,000 lb (136 mt) of unprocessed pollock on board a catcher vessel issued a FFP at any time during a fishing trip as defined at § 679.2;
+(2) *Catcher vessel harvest limit for pollock.* (i) Except for catcher vessels in the trawl EM category, retain more than 300,000 lb (136 mt) of unprocessed pollock on board a catcher vessel issued a FFP at any time during a fishing trip as defined at § 679.2;
 
-(ii) Land more than 300,000 lb (136 mt) of unprocessed pollock harvested in any GOA reporting area from a catcher vessel issued a FFP to any processor or tender vessel during a calendar day as defined at § 679.2; and
+(ii) Except for catcher vessels in the trawl EM category, land more than 300,000 lb (136 mt) of unprocessed pollock harvested in any GOA reporting area from a catcher vessel issued a FFP to any processor or tender vessel during a calendar day as defined at § 679.2; and
 
-(iii) Land a cumulative amount of unprocessed pollock harvested from any GOA reporting area from a catcher vessel issued a FFP during a directed fishery that exceeds the amount in paragraph (b)(2)(ii) of this section multiplied by the number of calendar days that occur during the time period the directed fishery is open in that reporting area.
+(iii) Except for catcher vessels in the trawl EM category, land a cumulative amount of unprocessed pollock harvested from any GOA reporting area from a catcher vessel issued a FFP during a directed fishery that exceeds the amount in paragraph (b)(2)(ii) of this section multiplied by the number of calendar days that occur during the time period the directed fishery is open in that reporting area.
 
 (3) *Tender vessel restrictions for pollock.* (i) Operate as a tender vessel east of 157°00′ W long. for pollock harvested in the GOA.
 
@@ -459,29 +459,61 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (12) *Prohibitions specific to directed fishing in the BSAI non-CDQ Pacific cod trawl catcher vessel fishery as specified at § 679.20(a)(7)(ii)(A).* Use a catcher/processor to receive and process Pacific cod harvested and delivered by a catcher vessel directed fishing in the BSAI non-CDQ Pacific cod trawl catcher vessel fishery without a legible copy on board of a valid groundfish LLP license with Bering Sea or Aleutian Islands area, catcher/processor operation, and BSAI Pacific cod trawl mothership endorsements.
 
-(j) *North Pacific Observer Program—EM Systems.* (1) Fish without an EM system when a vessel is required to carry an EM system under § 679.51(f).
+(j) *North Pacific Observer Program—Electronic Monitoring.*—(1) *General.*
 
-(2) Fish with an EM system without a copy of a valid NMFS-approved VMP on board when directed fishing in a fishery subject to EM coverage.
+(i) Fish without an EM system when a vessel is required to carry an EM system under § 679.51.
 
-(3) Fail to comply with a NMFS-approved VMP.
+(ii) Fish with an EM system without a copy of a valid NMFS-approved VMP on board when directed fishing in a fishery subject to EM coverage.
 
-(4) Fail to conduct a function test prior to departing port on a fishing trip as required at § 679.51(f)(5)(vi)(A).
+(iii) Fail to comply with a NMFS-approved VMP when directed fishing in a fishery subject to EM coverage.
 
-(5) Depart on a fishing trip selected for EM coverage without a functional EM system, unless procedures at § 679.51(f)(5)(vi)(A)(*1*) and § 679.51(f)(5)(vi)(A)(*2*) have been followed.
+(iv) Fail to ensure an EM system is functioning prior to departing port on a fishing trip as specified at § 679.51(f)(5)(vi)(A).
 
-(6) Fail to follow procedures at § 679.51(f)(5)(vi)(B) prior to each set on a fishing trip selected for EM coverage.
+(v) Fail to ensure an EM system is functional prior to departing on a fishing trip as specified at § 679.51(g)(3)(v).
 
-(7) Fail to make the EM system, associated equipment, logbooks, and other records available for inspection upon request by NMFS, OLE, or other NMFS-authorized officer.
+(vi) Depart on a fishing trip without a functional EM system, per the VMP, unless approved to do so by NMFS, after the procedures at § 679.51(f)(5)(vi)(A)(*1*), or § 679.51(g), have been followed.
 
-(8) Fail to submit a video data storage device as specified under § 679.51(f)(5)(vii).
+(vii) Fail to follow procedures related to EM system malfunctions as described at § 679.51(f)(5)(vi)(B) or § 679.51(g) prior to deploying each set of gear on a fishing trip selected for EM coverage.
 
-(9) Tamper with, bias, disconnect, damage, destroy, alter, or in any other way distort, render useless, inoperative, ineffective, or inaccurate any component of the EM system, associated equipment, or data recorded by the EM system when the vessel is directed fishing in a fishery subject to EM coverage, unless the vessel operator is directed to make changes to the EM system by NMFS, the EM service provider, or as directed in the troubleshooting guide of the VMP.
+(viii) Fail to make the EM system, associated equipment, logbooks, and other records available for inspection upon request by NMFS, OLE, or other NMFS-authorized officer.
 
-(10) Assault, impede, intimidate, harass, sexually harass, bribe, or interfere with an EM service provider.
+(ix) Fail to submit EM data as specified under § 679.51(f)(5)(vii) or § 679.51(g).
 
-(11) Interfere or bias the sampling procedure employed in the EM selection pool, including either mechanically or manually sorting or discarding catch outside of the camera view or inconsistent with the NMFS-approved VMP.
+(x) Tamper with, bias, disconnect, damage, destroy, alter, or in any other way distort, render useless, inoperative, ineffective, or inaccurate any component of the EM system, associated equipment, or data recorded by the EM system when the vessel is directed fishing in a fishery subject to EM coverage, unless the vessel operator is directed to make changes to the EM system by NMFS, the EM service provider, or as directed in the troubleshooting guide of the VMP.
 
-(12) Fail to meet vessel owner and operator responsibilities specified at § 679.51(f)(5).
+(xi) Assault, impede, intimidate, harass, sexually harass, bribe, or interfere with an EM service provider.
+
+(xii) Interfere with or bias the sampling procedure employed in the EM selection pool, including either mechanically or manually sorting or discarding catch outside of the camera view or inconsistent with the NMFS-approved VMP.
+
+(xiii) Fail to meet the vessel owner and operator responsibilities when using an EM system as specified at § 679.51(f)(5) or § 679.51(g)(5).
+
+(2) *Trawl EM category*—(i) *Catcher vessels in the trawl EM category.* (A) Use a catcher vessel in the partial coverage trawl EM category to fish without being party to an approved trawl EM incentive plan agreement established under § 679.57;
+
+(B) Use a catcher vessel in the trawl EM category to discard catch from the codend before it is brought on board the vessel unless required to maintain the safety and stability of the vessel;
+
+(C) Use a catcher vessel in the trawl EM category to deploy a nonpelagic trawl;
+
+(D) Use a catcher vessel in the trawl EM category to land catch to a tender vessel that is not in the trawl EM category or does not have a NMFS-approved VMP;
+
+(E) Use a catcher vessel in the trawl EM category to land catch to a shoreside processor or stationary floating processor that does not have a NMFS-approved CMCP; or
+
+(F) Use a catcher vessel in the trawl EM category to deploy trawl gear in an area that is closed, for any reason, to directed fishing for pollock.
+
+(ii) *Shoreside processors and stationary floating processors.* (A) Receive any delivery from a vessel in the trawl EM category without being issued and following a NMFS-approved Catch Monitoring Control Plan as described in § 679.28(g).
+
+(B) Store any non-salmon species in a designated salmon storage container as described in a NMFS-approved Catch Monitoring Control Plan per § 679.28(g).
+
+(C) Allow any salmon species to be placed into any location other than the designated salmon storage container described in a NMFS-approved Catch Monitoring Control Plan per § 679.28(g) at a shoreside processor or stationary floating processor.
+
+(D) Begin sorting a trawl EM category offload from the Bering Sea or CDQ pollock fisheries before an observer has completed the count of all salmon and the collection of scientific data and biological samples from the previous offload.
+
+(E) Continue to sort trawl EM category catch from the Bering Sea or CDQ pollock fisheries if the salmon storage container described in a NMFS-approved Catch Monitoring Control Plan per § 679.28(g) is full.
+
+(F) Allow any PSC harvested or delivered by a vessel in the trawl EM category to be sold, purchased, bartered, or traded.
+
+(iii) *Tender vessels.* (A) Operate a tender vessel in the trawl EM category and receive a delivery from a catcher vessel in the trawl EM category and a catcher vessel not in the trawl EM category during the same fishing trip.
+
+(B) Operate a tender vessel in the trawl EM category without an approved VMP and receive a delivery from a catcher vessel in the trawl EM category.
 
 (k) *Prohibitions specific to the AFA.* It is unlawful for any person to do any of the following:
 

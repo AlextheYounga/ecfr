@@ -1,7 +1,5 @@
 ##### § 679.21 Prohibited species bycatch management. #####
 
-Link to an amendment published at 89 FR 60810, July 29, 2024.
-
 (a) *General.* (1) See § 679.2 and Table 2b to this part for definition of prohibited species.
 
 (2) *Prohibited species catch restrictions.* The operator of each vessel engaged in directed fishing for groundfish in the GOA or BSAI must:
@@ -9,6 +7,10 @@ Link to an amendment published at 89 FR 60810, July 29, 2024.
 (i) Minimize its catch of prohibited species.
 
 (ii) After allowing for sampling by an observer, if an observer is aboard, sort its catch immediately after retrieval of the gear and, except for salmon prohibited species catch in the BS pollock fisheries and GOA groundfish fisheries under paragraph (f) or (h) of this section, or any prohibited species catch as provided (in permits issued) under the PSD program at § 679.26, return all prohibited species, or parts thereof, to the sea immediately, with a minimum of injury, regardless of its condition.
+
+(A) Vessels in the trawl EM category must retain all prohibited species catch for sampling by an observer.
+
+(B) [Reserved]
 
 (3) *Rebuttable presumption.* Except as provided under paragraphs (f) and (h) of this section and § 679.26, there will be a rebuttable presumption that any prohibited species retained on board a fishing vessel regulated under this part was caught and retained in violation of this section.
 
@@ -746,19 +748,7 @@ Link to an amendment published at 89 FR 60810, July 29, 2024.
 
 (*4*) Comply with the requirements in paragraphs (f)(15)(ii)(B)(*2*) and (*3*) of this section, before handling the catch prior to delivery.
 
-(C) Shoreside processors or stationary floating processors must—
-
-(*1*) Comply with the requirements in § 679.28(g)(7)(vii) for the receipt, sorting, and storage of salmon from deliveries of catch from the BS pollock fishery.
-
-(*2*) Ensure no salmon of any species pass beyond the last point where sorting of fish occurs, as identified in the scale drawing of the plant in the Catch Monitoring Control Plan (CMCP).
-
-(*3*) Sort and transport all salmon of any species to the salmon storage container identified in the CMCP (see § 679.28 (g)(7)(vi)(C) and (g)(7)(x)(F)). The salmon must remain in that salmon storage container and within the view of the observer at all times during the offload.
-
-(*4*) If, at any point during the offload, salmon are too numerous to be contained in the salmon storage container, cease the offload and all sorting and give the observer the opportunity to count the salmon and collect scientific data or biological samples. The counted salmon then must be removed from the area by plant personnel in the presence of the observer.
-
-(*5*) At the completion of the offload, give the observer the opportunity to count the salmon and collect scientific data or biological samples.
-
-(*6*) Before sorting of the next offload of catch from the BS pollock fishery may begin, give the observer the opportunity to complete the count of salmon and the collection of scientific data or biological samples from the previous offload of catch from the BS pollock fishery. When the observer has completed all counting and sampling duties for the offload, plant personnel must remove the salmon, in the presence of the observer, from the salmon storage container and location where salmon are counted and biological samples or scientific data are collected.
+(C) Shoreside processors and stationary floating processors must comply with the requirements in § 679.28(g)(9) and (10) for the receipt, sorting, and storage of salmon from deliveries of catch from the BS pollock fishery.
 
 (iii) *Assignment of crew to assist observer.* Operators of vessels and managers of shoreside processors and SFPs that are required to retain salmon under paragraph (f)(15)(i) of this section must designate and identify to the observer aboard the vessel, or at the shoreside processor or SFP, a crew person or employee responsible for ensuring all sorting, retention, and storage of salmon occurs according to the requirements of (f)(15)(ii) of this section.
 

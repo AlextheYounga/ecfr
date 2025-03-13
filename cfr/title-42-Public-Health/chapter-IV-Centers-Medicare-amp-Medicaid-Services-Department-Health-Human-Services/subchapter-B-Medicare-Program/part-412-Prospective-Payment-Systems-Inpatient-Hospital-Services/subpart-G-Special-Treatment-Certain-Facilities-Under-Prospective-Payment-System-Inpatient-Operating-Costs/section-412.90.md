@@ -1,5 +1,7 @@
 ##### § 412.90 General rules. #####
 
+Link to an amendment published at 89 FR 69910, Aug. 28, 2024.
+
 (a) *Sole community hospitals.* CMS may adjust the prospective payment rates for inpatient operating costs determined under subpart D or E of this part if a hospital, by reason of factors such as isolated location, weather conditions, travel conditions, or absence of other hosptials, is the sole source of inpatient hospital services reasonably available in a geographic area to Medicare beneficiaries. If a hospital meets the criteria for such an exception under § 412.92(a), its prospective payment rates for inpatient operating costs are determined under § 412.92(d).
 
 (b) *Referral center.* CMS may adjust the prospective payment rates for inpatient operating costs determined under subpart D or E of this part if a hospital acts as a referral center for patients transferred from other hospitals. Criteria for identifying such referral centers are set forth in § 412.96.

@@ -1,5 +1,7 @@
 ##### § 431.960 Types of payment errors. #####
 
+Link to an amendment published at 89 FR 69913, Aug. 28, 2024.
+
 (a) *General rule.* Errors identified for the Medicaid and CHIP improper payments measurement under the Improper Payments Information Act of 2002 must affect payment under applicable Federal or State policy, or both.
 
 (b) *Data processing errors.* (1) A data processing error is an error resulting in an overpayment or underpayment that is determined from a review of the claim and other information available in the State's Medicaid Management Information System, related systems, or outside sources of provider verification resulting in Federal and/or State improper payments.

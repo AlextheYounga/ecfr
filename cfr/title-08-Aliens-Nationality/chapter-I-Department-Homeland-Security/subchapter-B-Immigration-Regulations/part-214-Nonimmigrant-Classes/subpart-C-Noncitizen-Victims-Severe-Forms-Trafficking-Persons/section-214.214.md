@@ -1,0 +1,5 @@
+##### § 214.214 Removal proceedings. #####
+
+(a) Nothing in this section prohibits DHS from instituting removal proceedings for conduct committed after admission, or for conduct or a condition that was not disclosed prior to the granting of T nonimmigrant status, including misrepresentations of material facts in the Application for T-1 Nonimmigrant Status or in an Application for Derivative T Nonimmigrant Status, or after revocation of T nonimmigrant status.
+
+(b) ICE will maintain a policy regarding the exercise of discretion toward all applicants for T nonimmigrant status and T nonimmigrants. This policy will address, but need not be limited to, ICE's discretionary decision-making in proceedings before the Executive Office for Immigration Review and considerations related to ICE's immigration enforcement actions involving T visa applicants and T nonimmigrants.

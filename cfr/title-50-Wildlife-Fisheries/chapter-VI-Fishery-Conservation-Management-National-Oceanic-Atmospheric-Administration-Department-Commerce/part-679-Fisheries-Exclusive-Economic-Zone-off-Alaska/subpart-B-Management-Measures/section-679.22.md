@@ -1,7 +1,5 @@
 ##### § 679.22 Closures. #####
 
-Link to an amendment published at 89 FR 60810, July 29, 2024.
-
 (a) *BSAI*—(1) *Zone 1 (512) closure to trawl gear.* No fishing with trawl gear is allowed at any time in reporting Area 512 of Zone 1 in the Bering Sea subarea.
 
 (2) *Zone 1 (516) closure to trawl gear.* No fishing with trawl gear is allowed at any time in reporting Area 516 of Zone 1 in the Bering Sea Subarea during the period March 15 through June 15.
@@ -100,9 +98,9 @@ Link to an amendment published at 89 FR 60810, July 29, 2024.
 
 (21) *Modified Gear Trawl Zone.* No vessel required to be federally permitted may fish with nonpelagic trawl gear in the Modified Gear Trawl Zone specified at Table 51 to this part, except for federally permitted vessels that are directed fishing for groundfish using modified nonpelagic trawl gear that meets the standards at § 679.24(f).
 
-(b) *GOA*—(1) *Kodiak Island, trawls other than pelagic trawls*—(i) *Type I closures.* No person may trawl in waters of the EEZ within the vicinity of Kodiak Island, as shown in Figure 5 to this part as Type I areas, from a vessel having any trawl other than a pelagic trawl either attached or on board.
+(b) *GOA*—(1) *Kodiak Island, trawls other than pelagic trawls*—(i) *Type I closures.* No person may trawl in waters of the EEZ within the vicinity of Kodiak Island, as shown in Figure 5 to this part as Type I areas, from a vessel having any trawl other than a pelagic trawl either attached or on board, except as follows. Vessels in the trawl EM category may have a trawl other than a pelagic trawl either attached or on board, but may not deploy a trawl other than a pelagic trawl in a Type I area.
 
-(ii) *Type II closures.* From February 15 to June 15, no person may trawl in waters of the EEZ within the vicinity of Kodiak Island, as shown in Figure 5 to this part as Type II areas, from a vessel having any trawl other than a pelagic trawl either attached or on board.
+(ii) *Type II closures.* From February 15 to June 15, no person may trawl in waters of the EEZ within the vicinity of Kodiak Island, as shown in Figure 5 to this part as Type II areas, from a vessel having any trawl other than a pelagic trawl either attached or on board, except as follows. Vessels in the trawl EM category may have a trawl other than a pelagic trawl either attached or on board, but may not deploy a trawl other than a pelagic trawl in a Type II area.
 
 (iii) *Type III closures.* Type III areas are open unless otherwise closed to trawling.
 

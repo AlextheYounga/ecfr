@@ -1,5 +1,7 @@
 ##### § 431.954 Basis and scope. #####
 
+Link to an amendment published at 89 FR 69913, Aug. 28, 2024.
+
 (a) *Basis.* The statutory bases for this subpart are as follows:
 
 (1) Sections 1102, 1902(a)(6), and 2107(b)(1) of the Act, which contain the Secretary's general rulemaking authority and obligate States to provide information, as the Secretary may require, to monitor program performance.

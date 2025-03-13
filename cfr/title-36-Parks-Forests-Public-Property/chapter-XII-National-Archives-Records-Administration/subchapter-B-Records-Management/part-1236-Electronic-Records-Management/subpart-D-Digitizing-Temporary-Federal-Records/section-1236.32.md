@@ -1,15 +1,15 @@
 ##### § 1236.32 Digitization standards. #####
 
-Link to an amendment published at 89 FR 46804, May 30, 2024.
-
 When digitizing temporary records, agencies must meet the following standards:
 
-(a) Capture all information contained in the original source records;
+(a) Capture all information contained in the source records;
 
-(b) Include all the pages or parts from the original source records;
+(b) Include all the pages or parts from the source records;
 
-(c) Ensure the agency can use the digitized versions for all the purposes the original source records serve, including the ability to attest to transactions and activities;
+(c) Ensure the agency can use the digitized records for all the purposes the source records serve, including the ability to attest to transactions and activities;
 
 (d) Protect against unauthorized deletions, additions, or alterations to the digitized versions; and
 
 (e) Ensure the agency can locate, retrieve, access, and use the digitized versions for the records' entire retention period.
+
+[84 FR 14266, Apr. 10, 2019, as amended at 89 FR 46804, May 30, 2024]

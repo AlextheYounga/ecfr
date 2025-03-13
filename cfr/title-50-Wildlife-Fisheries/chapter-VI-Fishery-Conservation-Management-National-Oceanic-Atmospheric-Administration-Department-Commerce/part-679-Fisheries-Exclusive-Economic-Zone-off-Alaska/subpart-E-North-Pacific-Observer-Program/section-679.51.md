@@ -1,6 +1,6 @@
 ##### § 679.51 Observer and Electronic Monitoring System requirements for vessels and plants. #####
 
-Link to an amendment published at 89 FR 60812, July 29, 2024.Link to an amendment published at 89 FR 66637, Aug. 16, 2024.
+Link to an amendment published at 89 FR 66637, Aug. 16, 2024.
 
 (a) *Observer requirements for vessels*—(1) *Groundfish and halibut fishery partial coverage category*—(i) *Vessel classes in partial coverage category.* Unless otherwise specified in paragraph (a)(2) of this section, the following catcher vessels and catcher/processors are in the partial coverage category when fishing for halibut or when directed fishing for groundfish in a federally managed or parallel groundfish fishery, as defined at § 679.2:
 
@@ -12,7 +12,7 @@ Link to an amendment published at 89 FR 60812, July 29, 2024.Link to an amendmen
 
 (D) A catcher vessel less than or equal to 46 ft LOA using hook-and-line gear when groundfish CDQ fishing under § 679.32(c)(3)(iii).
 
-(ii) *Registration and notification of observer deployment.* The Observer Declare and Deploy System (ODDS) is the communication platform for the partial coverage category by which NMFS receives information about fishing plans subject to randomized observer deployment. Vessel operators provide fishing plan and contact information to NMFS and receive instructions through ODDS for coordinating with an observer provider for any required observer coverage. Access to ODDS is available through the NMFS Alaska Region Web site at *http://alaskafisheries.noaa.gov.*
+(ii) *Registration and notification of observer deployment.* The Observer Declare and Deploy System (ODDS) is the communication platform for the partial coverage category by which NMFS receives information about fishing plans subject to randomized observer deployment. Vessel operators provide fishing plan and contact information to NMFS and receive instructions through ODDS for coordinating with an observer provider for any required observer coverage. Access to ODDS is available through the NMFS Alaska Region website
 
 (A) *Registration.* NMFS will enter information into ODDS about all partial coverage category vessels that are designated on an FFP and all catcher vessels that are not designated on an FFP but that landed sablefish IFQ or halibut IFQ or CDQ in the previous or current year. Owners or operators are not responsible for initial registration of their vessel in ODDS.
 
@@ -42,6 +42,8 @@ Link to an amendment published at 89 FR 60812, July 29, 2024.Link to an amendmen
 
 (iii) *Release from observer coverage.* The Observer Program may release a selected trip per paragraph (a)(1)(ii)(C) of this section or a selected vessel per paragraph (a)(1)(ii)(D) of this section, from observer coverage on a case-by-case basis.
 
+(iv) *Observer workload at shoreside processors and stationary floating processors.* Regarding shoreside processors and stationary floating processors, the time required for an observer to complete sampling, data recording, and data communication duties, per this paragraph (a)(1), may not exceed 12 hours in each 24-hour period.
+
 (2) *Groundfish and halibut fishery full observer coverage category*—(i) *Vessel classes in the full coverage category.* The following classes of vessels are in the full observer coverage category when harvesting halibut or when harvesting, receiving, or processing groundfish in a federally managed or parallel groundfish fishery, as defined at § 679.2:
 
 (A) Catcher/processors, except a catcher/processor placed in the partial observer coverage category under paragraph (a)(3) of this section;
@@ -60,7 +62,11 @@ Link to an amendment published at 89 FR 60812, July 29, 2024.Link to an amendmen
 
 (*5*) Participating in the PCTC Program.
 
-(ii) *Observer coverage requirements.* Unless subject to the partial observer coverage category per paragraph (a)(1)(i) of this section, a vessel listed in paragraphs (a)(2)(i)(A) through (C) of this section must have at least one observer aboard the vessel at all times. Some fisheries require additional observer coverage in accordance with paragraph (a)(2)(vi) of this section.
+(ii) *Observer coverage requirements.* A vessel listed in paragraphs (a)(2)(i)(A) through (C) of this section must have at least one observer aboard the vessel at all times. Some fisheries require additional observer coverage in accordance with paragraph (a)(2)(vi) of this section. The following exceptions apply:
+
+(A) A vessel subject to the partial observer coverage category as per paragraph (a)(1)(i) of this section;
+
+(B) A vessel approved to be in the full coverage trawl EM category; vessels in the full coverage trawl EM category are subject to observer coverage if NMFS determines that at-sea coverage is necessary in the Annual Deployment Plan.
 
 (iii) *Observer workload.* The time required for an observer to complete sampling, data recording, and data communication duties per paragraph (a)(2) of this section may not exceed 12 consecutive hours in each 24-hour period.
 
@@ -138,7 +144,7 @@ Link to an amendment published at 89 FR 60812, July 29, 2024.Link to an amendmen
 
 (C) Is not subject to additional observer coverage requirements in paragraph (a)(2)(vi) of this section.
 
-(iv) *How to request placement of a catcher/processor in partial observer coverage.* A vessel owner must submit a request form to NMFS. The request form must be completed with all required fields accurately completed. The request form is provided by NMFS and is available on the NMFS Alaska Region Web site (*http://alaskafisheries.noaa.gov*). The submittal methods are described on the form.
+(iv) *How to request placement of a catcher/processor in partial observer coverage.* A vessel owner must submit a request form to NMFS. The request form must be completed with all required fields accurately completed. The request form is provided by NMFS and is available on the NMFS Alaska Region website. The submittal methods are described on the form.
 
 (v) *Notification of placement in the partial observer coverage category.* NMFS will notify the owner if the catcher/processor has been placed in the partial observer coverage category in writing. Until NMFS provides notification, the catcher/processor is in the full observer coverage category for that fishing year.
 
@@ -164,17 +170,23 @@ Link to an amendment published at 89 FR 60812, July 29, 2024.Link to an amendmen
 
 (2) *Shoreside processor and stationary floating processor full observer coverage category.* An AFA inshore processor is in the full observer coverage category.
 
-(i) *Coverage level.* An AFA inshore processor must provide an observer for each 12 consecutive-hour period of each calendar day during which the processor takes delivery of, or processes, groundfish harvested by a vessel engaged in a directed pollock fishery in the BS. An AFA inshore processor that, for more than 12 consecutive hours in a calendar day, takes delivery of or processes pollock harvested in the BS directed pollock fishery must provide two observers for each such day.
+(i) *Coverage level.* (A) An AFA inshore processor must provide an observer for each 12-consecutive-hour period of each calendar day during which the processor takes delivery of, or processes, groundfish harvested by a vessel engaged in a directed pollock fishery in the BS. An AFA inshore processor that, for more than 12 consecutive hours in a calendar day, takes delivery of or processes pollock harvested in the BS directed pollock fishery must provide two observers for each such day.
+
+(B) The owner and operator of an AFA shoreside or stationary floating processor receiving deliveries from a catcher vessel in the trawl EM category must provide the necessary number of observers to meet the criteria prescribed by NMFS in the Annual Deployment Plan for each calendar day during which the processor takes delivery of, or processes, groundfish harvested by a vessel engaged in a directed pollock fishery in the BS.
 
 (ii) *Multiple processors.* An observer deployed to an AFA inshore processor may not be assigned to cover more than one processor during a calendar day in which the processor receives or processes pollock harvested in the BS directed pollock fishery.
 
 (iii) *Observers transferring between vessels and processors.* An observer transferring from an AFA catcher vessel to an AFA inshore processor may not be assigned to cover the AFA inshore processor until at least 12 hours after offload and sampling of the catcher vessel's delivery is completed.
 
+(3) *Shoreside processor and stationary floating processor receiving a delivery from catcher or tender vessels in the trawl EM category*—(i) *Deadline to submit a request to receive trawl EM deliveries.* A shoreside processor and stationary floating processor must submit a request to NMFS by November 1 of the year prior to the fishing year in which they intend to receive deliveries from catcher vessels or tender vessels in the trawl EM category.
+
+(ii) [Reserved]
+
 (c) *NMFS employee observers.* (1) Any vessel, shoreside processor, or stationary floating processor required to comply with observer coverage requirements under paragraphs (a) or (b) of this section or under § 679.7(f)(4) must use, upon written notification by the Regional Administrator, a NMFS employee to satisfy observer coverage requirements as specified in paragraphs (a) and (b) of this section or for other conservation and management purposes as specified by the Regional Administrator.
 
 (2) Prior to deployment of a NMFS employee, the agency will provide written notification to the owner or operator of a vessel, shoreside processor, or stationary floating processor whether observer coverage credit will be granted for that deployment.
 
-(3) Vessel, shoreside processor, and stationary floating processor owners and operators, as well as observers and observer providers, may contact NMFS in writing to request assistance in improving observer data quality and resolving observer sampling issues. Requests may be submitted to: NMFS Observer Program, 7600 Sand Point Way NE., Seattle, WA 98115-0070 or transmitted by facsimile to 206-526-4066.
+(3) Vessel, shoreside processor, and stationary floating processor owners and operators, as well as observers and observer providers, may contact NMFS in writing to request assistance in improving observer data quality and resolving observer sampling issues. Requests may be submitted to: NMFS Observer Program, 7600 Sand Point Way NE., Seattle, WA 98115-0070 or other method specified by NMFS on the NMFS Observer Program website.
 
 (d) *Procurement of observer services*—(1) *Full coverage category.* (i) The owner of a vessel, shoreside processor, or stationary floating processor required to have full observer coverage under paragraphs (a)(2) and (b)(2) of this section must arrange and pay for observer services from a permitted observer provider.
 
@@ -274,35 +286,35 @@ Link to an amendment published at 89 FR 60812, July 29, 2024.Link to an amendmen
 
 (f) *Electronic monitoring system requirements for vessels that use nontrawl gear.* Vessels that use nontrawl gear in the partial coverage category in paragraph (a)(1)(i) of this section may be eligible for EM coverage instead of observer coverage.
 
-(1) *Vessel placement in the EM selection pool*—(i) *Applicability.* The owner or operator of a vessel that uses nontrawl gear in the partial coverage category under paragraph (a)(1)(i) of this section may request to be placed in the EM selection pool.
+(1) *Vessel placement in the nontrawl EM selection pool*—(i) *Applicability.* The owner or operator of a vessel that uses nontrawl gear in the partial coverage category under paragraph (a)(1)(i) of this section may request to be placed in the nontrawl EM selection pool.
 
-(ii) *How to request placement in the EM selection pool.* A vessel owner or operator must complete an EM request and submit it to NMFS using ODDS. Access to ODDS is available through the NMFS Alaska Region Web site at *http://alaskafisheries.noaa.gov.* ODDS is described in paragraph (a)(1)(ii) of this section.
+(ii) *How to request placement in the nontrawl EM selection pool.* A vessel owner or operator must complete an EM request and submit it to NMFS using ODDS. Access to ODDS is available through the NMFS Alaska Region website ODDS is described in paragraph (a)(1)(ii) of this section.
 
-(iii) *Deadline to submit an EM request.* A vessel owner or operator must submit an EM request in ODDS by November 1 of the year prior to the calendar year in which the catcher vessel would be placed in the EM selection pool.
+(iii) *Deadline to submit an EM request.* A vessel owner or operator must submit an EM request in ODDS by November 1 of the year prior to the calendar year in which the catcher vessel would be placed in the nontrawl EM selection pool.
 
-(iv) *Approval for placement in the EM selection pool.* NMFS will approve a nontrawl gear vessel for placement in the EM selection pool based on criteria specified in NMFS' Annual Deployment Plan, available through the NMFS Alaska Region Web site at *http://alaskafisheries.noaa.gov.* Criteria may include, but are not limited to, availability of EM systems, vessel gear type, vessel length, area fished, number of trips or total catch, sector, target fishery, and home or landing port.
+(iv) *Approval for placement in the nontrawl EM selection pool.* NMFS will approve a nontrawl gear vessel for placement in the nontrawl EM selection pool based on criteria specified in NMFS' Annual Deployment Plan, available through the NMFS Alaska Region website Criteria may include, but are not limited to, availability of EM systems, vessel gear type, vessel length, area fished, number of trips or total catch, sector, target fishery, and home or landing port.
 
-(v) *Notification of approval for placement in the EM selection pool.* (A) NMFS will notify the vessel owner or operator through ODDS of approval for the EM selection pool for the next calendar year. The vessel remains subject to observer coverage under paragraph (a)(1)(i) of this section unless NMFS approves the request for placement of the vessel in the EM selection pool.
+(v) *Notification of approval for placement in the nontrawl EM selection pool.* (A) NMFS will notify the vessel owner or operator through ODDS of approval for the nontrawl EM selection pool for the next calendar year. The vessel remains subject to observer coverage under paragraph (a)(1)(i) of this section unless NMFS approves the request for placement of the vessel in the nontrawl EM selection pool.
 
 (B) Once the vessel owner or operator receives notification of approval from NMFS, the vessel owner or operator must comply with the vessel owner or operator responsibilities in paragraphs (f)(4) and (5) of this section and all further instructions set forth by ODDS.
 
-(vi) *Initial Administrative Determination (IAD).* If NMFS denies a request to place a vessel in the EM selection pool, NMFS will provide an IAD to the vessel owner, which will explain the basis for the denial.
+(vi) *Initial Administrative Determination (IAD).* If NMFS denies a request to place a vessel in the nontrawl EM selection pool, NMFS will provide an IAD to the vessel owner, which will explain the basis for the denial.
 
-(vii) *Appeal.* If the vessel owner wishes to appeal NMFS' denial of a request to place the vessel in the EM selection pool, the owner may appeal the determination under the appeals procedure set out at 15 CFR part 906.
+(vii) *Appeal.* If the vessel owner wishes to appeal NMFS' denial of a request to place the vessel in the nontrawl EM selection pool, the owner may appeal the determination under the appeals procedure set out at 15 CFR part 906.
 
-(viii) *Duration.* Once NMFS approves a vessel for the EM selection pool, that vessel will remain in the EM selection pool until—
+(viii) *Duration.* Once NMFS approves a vessel for the nontrawl EM selection pool, that vessel will remain in the nontrawl EM selection pool until—
 
 (A) NMFS disapproves the VMP under paragraph (f)(4) of this section;
 
-(B) The vessel owner or operator notifies NMFS that the vessel intends to leave the EM selection pool in the following fishing year under paragraph (f)(1)(ix) of this section; or
+(B) The vessel owner or operator notifies NMFS that the vessel intends to leave the nontrawl EM selection pool in the following fishing year under paragraph (f)(1)(ix) of this section; or
 
-(C) The vessel no longer meets the EM selection pool criteria specified by NMFS.
+(C) The vessel no longer meets the nontrawl EM selection pool criteria specified by NMFS.
 
-(ix) *How to leave the EM selection pool.* A vessel owner must complete a request to leave the EM selection pool and submit it to NMFS using ODDS. ODDS is described in paragraph (a)(1)(ii) of this section.
+(ix) *How to leave the nontrawl EM selection pool.* A vessel owner must complete a request to leave the nontrawl EM selection pool and submit it to NMFS using ODDS. ODDS is described in paragraph (a)(1)(ii) of this section.
 
-(x) *Deadline to submit a request to leave the EM selection pool.* A vessel owner or operator must submit a request to leave the EM selection pool by November 1 of the year prior to the calendar year in which the vessel would be placed in observer coverage.
+(x) *Deadline to submit a request to leave the nontrawl EM selection pool.* A vessel owner or operator must submit a request to leave the nontrawl EM selection pool by November 1 of the year prior to the calendar year in which the vessel would be placed in observer coverage.
 
-(2) *Notification of EM selection*—(i) Prior to embarking on each fishing trip, the operator of a vessel in the EM selection pool with a NMFS-approved VMP must register the anticipated trip with ODDS.
+(2) *Notification of nontrawl EM trip selection.*—(i) Prior to embarking on each fishing trip, the operator of a vessel in the nontrawl EM selection pool with a NMFS-approved VMP must register the anticipated trip with ODDS.
 
 (ii) ODDS will notify the vessel operator whether the trip is selected for EM coverage and provide a receipt number corresponding to this notification. Trip registration is complete when the vessel operator receives the receipt number.
 
@@ -316,19 +328,39 @@ Link to an amendment published at 89 FR 60812, July 29, 2024.Link to an amendmen
 
 (i) A fishing trip selected for EM coverage may not begin until all previously harvested fish have been offloaded.
 
-(ii) At the end of the fishing trip selected for EM coverage, the vessel operator must use ODDS to close the fishing trip following the instructions in the VMP and submit the video data storage devices and associated documentation as outlined in paragraph (f)(5)(vii) of this section.
+(ii) At the end of the fishing trip selected for EM coverage, the vessel operator must use ODDS to close the fishing trip following the instructions in the VMP and submit EM data and associated documentation as outlined in paragraph (f)(5)(vii) of this section.
 
-(4) *Vessel Monitoring Plan (VMP).* Once approved for the EM selection pool and prior to registering a fishing trip in ODDS under paragraph (f)(2) of this section, the vessel owner or operator must develop a VMP with the EM service provider following the VMP template available through the NMFS Alaska Region Web site at *https://alaskafisheries.noaa.gov/.*
+(4) *Vessel Monitoring Plan (VMP).* Once approved for the nontrawl EM selection pool and prior to registering a fishing trip in ODDS under paragraph (f)(2) of this section, the vessel owner or operator must develop a VMP with the EM service provider following the VMP template available through the NMFS Alaska Region website.
 
 (i) The vessel owner or operator must sign and submit the VMP to NMFS each calendar year.
 
-(ii) NMFS will approve the VMP for the calendar year if it meets all the requirements specified in the VMP template available through the NMFS Alaska Region Web site *https://alaskafisheries.noaa.gov/.*
+(ii) NMFS will approve the VMP for the calendar year if it meets all the requirements specified in the VMP template available through the NMFS Alaska Region website.
 
 (iii) If the VMP does not meet all the requirements specified in the VMP template, NMFS will provide the vessel owner or operator the opportunity to submit a revised VMP that meets all the requirements specified in the VMP template.
 
 (iv) If NMFS does not approve the revised VMP, NMFS will issue an IAD to the vessel owner or operator that will explain the basis for the disapproval. The vessel owner or operator may file an administrative appeal under the administrative appeals procedures set out at 15 CFR part 906.
 
-(v) If changes are required to the VMP to improve the data collection of the EM system or address fishing operation changes, the vessel owner or operator must work with NMFS and the EM service provider to alter the VMP. The vessel owner or operator must sign the updated VMP and submit these changes to the VMP to NMFS prior to departing on the next fishing trip selected for EM coverage.
+(v) If, at any time, changes are required to the VMP to improve the data collection of the EM system or address fishing operation changes, the vessel owner or operator must work with NMFS and the EM service provider to amend the VMP. The vessel owner or operator must sign the amended VMP and submit these changes to the VMP to NMFS prior to departing on the next fishing trip selected for EM coverage.
+
+(vi) The VMP will require information regarding:
+
+(A) Vessel and contact information;
+
+(B) Gear used;
+
+(C) EM hardware functionality requirements;
+
+(D) Requirements for meeting program objectives as specified in the Annual Deployment Plan;
+
+(E) List of potential solutions for hardware malfunctions;
+
+(F) Images of camera locations and camera views;
+
+(G) EM hardware service provider information;
+
+(H) Valid signatures from the EM hardware service provider and vessel owner or operator; and
+
+(I) Any other information required by the applicable VMP.
 
 (5) *Vessel owner or operator responsibilities.* To use an EM system under this section, the vessel owner or operator must:
 
@@ -362,7 +394,7 @@ Link to an amendment published at 89 FR 60812, July 29, 2024.Link to an amendmen
 
 (*2*) If the malfunction cannot be repaired at sea, the vessel operator must notify the EM service provider of the malfunction at the end of the fishing trip. The malfunction must be repaired prior to departing on a subsequent fishing trip selected for EM coverage.
 
-(vii) At the end of a fishing trip selected for EM coverage, the vessel operator must submit the video data storage device and associated documentation identified in the vessel's VMP to NMFS using a method that requires a signature for delivery and provides a return receipt or delivery notification to the sender. The vessel operator must postmark the video data storage device and associated documentation no later than 2 business days after the end of the fishing trip. If the fishing trip ends in a remote port with limited postal service or at a tender vessel, the vessel operator must ensure the video data storage device and associated documentation is postmarked as soon as possible but no later than two weeks after the end of the fishing trip.
+(vii) At the end of a fishing trip selected for EM coverage, the vessel operator must submit EM data and associated documentation identified in the vessel's VMP to NMFS using a method that requires a signature for delivery and provides a return receipt or delivery notification to the sender. The vessel operator must postmark EM data and associated documentation no later than 2 business days after the end of the fishing trip. If the fishing trip ends in a remote port with limited postal service or at a tender vessel, the vessel operator must ensure EM data and associated documentation is postmarked as soon as possible but no later than two weeks after the end of the fishing trip.
 
 (viii) Make the EM system and associated equipment available for inspection upon request by OLE, a NMFS-authorized officer, or other NMFS-authorized personnel.
 
@@ -372,8 +404,126 @@ Link to an amendment published at 89 FR 60812, July 29, 2024.Link to an amendmen
 
 (ii) Register in ODDS that he or she intends to fish in multiple regulatory areas using the exception in § 679.7(f)(4).
 
-(iii) Ensure the EM system is powered continuously during the fishing trip. If the EM system is powered down during periods of non-fishing, the VMP must describe alternate methods to ensure location information about the vessel is available for the entire fishing trip, as specified in the VMP template available through the NMFS Alaska Region Web site *https://alaskafisheries.noaa.gov/.*
+(iii) Ensure the EM system is powered continuously during the fishing trip. If the EM system is powered down during periods of non-fishing, the VMP must describe alternate methods to ensure location information about the vessel is available for the entire fishing trip, as specified in the VMP template available through the NMFS Alaska Region website.
 
 (iv) If an EM system malfunction occurs during a fishing trip that does not allow the recording of retrieval location information and imagery of catch as described in the vessel's VMP, the vessel operator must cease fishing and contact OLE immediately.
 
-[77 FR 70091, Nov. 21, 2012, as amended at 79 FR 54601, Sept. 12, 2014; 81 FR 26745, May 4, 2016; 81 FR 37556, June 10, 2016; 81 FR 67117, Sept. 30, 2016; 81 FR 70607, Oct. 13, 2016; 81 FR 95457, Dec. 28, 2016; 82 FR 37002, Aug. 8, 2017; 83 FR 30532, 30533, June 29, 2018; 84 FR 55053, Oct. 15, 2019; 85 FR 850, Jan. 8, 2020; 88 FR 53734, Aug. 8, 2023; 88 FR 77231, Nov. 9, 2023]
+(g) *Trawl EM category*—(1) *Vessel placement in the trawl EM category*—(i) *Applicability.* (A) The owner or operator of a catcher vessel with a pollock trawl endorsement (PTW) on their FFP in the partial coverage category under paragraph (a)(1)(i) of this section, or in the full coverage category in paragraph (a)(2)(i) of this section, may request to be placed in the trawl EM category.
+
+(*1*) *Partial coverage trawl EM category.* Catcher vessels directed fishing for pollock with pelagic trawl gear in the GOA or AI fisheries.
+
+(*2*) *Full coverage trawl EM category.* Catcher vessels directed fishing for pollock with pelagic trawl gear in the BS or CDQ fisheries.
+
+(B) The owner or operator of a tender vessel must request to be placed in the trawl EM category before receiving a delivery from a catcher vessel in the trawl EM category.
+
+(ii) *How to request placement in the trawl EM category.* The owner or operator of a vessel must complete the trawl EM category request and submit it to NMFS using ODDS. Access to ODDS is available through the NMFS Alaska Region website. ODDS is described in paragraph (a)(1)(ii) of this section.
+
+(iii) *Deadline to submit a trawl EM category request.* A vessel owner or operator must submit an annual trawl EM category request in ODDS by November 1 of the year prior to the fishing year in which the vessel would be placed in the trawl EM category.
+
+(iv) *Approval for placement in the trawl EM category.* NMFS may approve a vessel for placement in the trawl EM category based on criteria specified by NMFS in the Annual Deployment Plan, available through the NMFS Alaska Region website. Criteria for disapproval may include actions by the vessel leading to data gaps, noncompliance with program elements such as discarding of catch, vessel configuration or fishing practices that cannot provide the necessary camera views to meet data collection goals, failure to follow the trawl EM category VMP, and/or failure to adhere to an incentive plan agreement as specified in § 679.57 for partial coverage catcher vessels or § 679.21(f)(12) for full coverage catcher vessels. For the trawl EM application to be considered complete, all fees due to NMFS from the owner or authorized representative of a catcher vessel subject to the fees specified at § 679.56 at the time of application must be paid.
+
+(v) *Notification of approval for placement in the trawl EM category.* (A) NMFS will notify the owner or operator through ODDS of approval for the trawl EM category for the following fishing year. Catcher vessels remain subject to observer coverage under paragraphs (a)(1)(i) or (a)(2)(i) of this section unless and until NMFS approves the request for placement of the catcher vessel in the trawl EM category.
+
+(B) Once NMFS notifies the catcher vessel owner or operator that their request to be placed in the trawl EM category has been approved, the vessel owner or operator must comply with the responsibilities in paragraphs (g)(2) and (3) of this section and all further instructions set forth in ODDS when they operate in the trawl EM category. When a catcher vessel approved for placement in the trawl EM category does not operate in the trawl EM category on a particular fishing trip, the vessel remains subject to observer coverage under paragraphs (a)(1)(i) or (a)(2)(i) of this section.
+
+(vi) *Initial Administrative Determination (IAD).* If NMFS denies a request to place a vessel in the trawl EM category, NMFS will provide an IAD to the vessel owner, which will explain the basis for the denial.
+
+(vii) *Appeal.* If the vessel owner wishes to appeal NMFS' denial of a request to place the vessel in the trawl EM category, the owner may appeal the determination under the appeals procedure set out at 15 CFR part 906.
+
+(viii) *Duration.* Once NMFS approves a vessel for placement in the trawl EM category, that vessel will remain in the trawl EM category for the following upcoming fishing year or until:
+
+(A) NMFS disapproves the vessel's VMP under paragraph (g)(2) of this section; or
+
+(B) The vessel no longer meets the trawl EM category criteria specified by NMFS.
+
+(ix) *Procurement of EM services.* (A) In the partial coverage category, the owner or operator of a vessel approved for the trawl EM category must use the EM hardware service provider as outlined by NMFS in the Annual Deployment Plan.
+
+(B) In the full coverage category, the owner or operator of a vessel approved for the trawl EM category must arrange and pay for EM service provider services from a permitted EM hardware service provider.
+
+(2) *Vessel Monitoring Plan (VMP).* Once approved for the trawl EM category, and prior to the first trawl EM fishing trip in the fishing year, the vessel owner or operator must develop a VMP with the EM hardware service provider following the VMP template available through the NMFS Alaska Region website.
+
+(i) *VMP Submission.* The vessel owner or operator must sign and submit the VMP to NMFS each fishing year.
+
+(ii) *VMP Approval.* NMFS may approve the VMP for the fishing year if it meets all the requirements specified in the VMP template available through the NMFS Alaska Region website.
+
+(iii) *VMP Resubmission.* If the VMP does not meet all the requirements specified in the VMP template, NMFS will provide the vessel owner or operator the opportunity to submit a revised VMP that meets all the requirements specified in the VMP template.
+
+(iv) *VMP Disapproval.* If NMFS does not approve the revised VMP, NMFS will issue an IAD to the vessel owner or operator that will explain the basis for the disapproval. The vessel owner or operator may file an administrative appeal under the administrative appeals procedures set out at 15 CFR part 906.
+
+(v) *VMP Revision.* If, at any time, changes must be made to the VMP to improve the data collection of the EM system or address fishing operation changes, the vessel owner or operator must work with NMFS and the EM hardware service provider to amend the VMP. The vessel owner or operator must sign the updated VMP and submit those changes to NMFS. NMFS must approve the amended VMP prior to departing on the next fishing trip selected for EM coverage.
+
+(vi) *VMP Components.* The VMP will require information regarding:
+
+(A) Vessel and contact information;
+
+(B) Gear used;
+
+(C) EM hardware functionality requirements;
+
+(D) Requirements for meeting program objectives as specified in the Annual Deployment Plan;
+
+(E) List of potential solutions for hardware malfunctions;
+
+(F) Images of camera locations and camera views;
+
+(G) EM hardware service provider information;
+
+(H) Valid signatures from the EM hardware service provider and either the vessel owner or operator; and
+
+(I) Any other information required by the applicable VMP.
+
+(3) *Responsibilities.* To use an EM system under this section the vessel owner and operator must:
+
+(i) *Installation.* Make the vessel available for the installation of EM equipment by an EM hardware service provider;
+
+(ii) *Access.* Provide access to the vessel's EM system and reasonable assistance to the EM hardware service provider;
+
+(iii) *Copy.* Maintain a copy of a NMFS-approved VMP onboard the vessel at all times when the vessel is directed fishing in a fishery subject to EM coverage;
+
+(iv) *Compliance.* Comply with all elements of the VMP during trawl EM category fishing trips;
+
+(v) *Maintenance.* Maintain the EM system, including by doing the following:
+
+(A) Ensure the EM system is functioning before departing on a fishing trip.
+
+(B) Ensure power is maintained to the EM system for the duration of a trawl EM category fishing trip;
+
+(C) Ensure the system is functioning for the entire fishing trip, camera views are unobstructed and clear in quality, and discards may be completely viewed, identified, and quantified; and
+
+(D) Ensure EM system components are not tampered with, disabled, destroyed, or operated or maintained improperly.
+
+(vi) *Communication.* Communicate catch information to the shoreside processor or stationary floating processor receiving catch through a NMFS approved system. The following information must be transmitted as outlined in the VMP:
+
+(A) Vessel name;
+
+(B) Identify which Management areas the vessel was operating in;
+
+(C) Most precise estimate available of tonnage aboard the vessel;
+
+(D) Estimated deckload size, if present;
+
+(E) Estimated time of arrival at shoreside processor or stationary floating processor; and
+
+(F) Information to meet other requirements of this part, if requested by NMFS.
+
+(4) *EM coverage duration and duties.* (i) *Beginning a Fishing Trip.* A fishing trip in the trawl EM category may not begin until all previously harvested fish have been landed.
+
+(ii) *Ending a Fishing Trip.* At the end of the fishing trip in the trawl EM category, the vessel operator must follow the instructions in the VMP and submit the EM data and associated documentation identified in the VMP.
+
+(iii) *Daily Tests.* The vessel operator must complete daily tests of equipment functionality as instructed in the vessel's VMP.
+
+(A) During a fishing trip in the trawl EM category, before each haul is retrieved, the vessel operator must verify all cameras are recording and all sensors and other required EM system components are functioning as instructed in the vessel's VMP.
+
+(*1*) If a malfunction is detected prior to retrieving the haul the vessel operator must attempt to correct the problem using the instructions in the vessel's VMP.
+
+(*2*) If the malfunction cannot be repaired at sea, the vessel operator must notify the EM hardware service provider of the malfunction at the end of the fishing trip. The malfunction must be repaired prior to departing on the next fishing trip in the trawl EM category.
+
+(B) [Reserved]
+
+(iv) *Inspection.* Make the EM system and associated equipment available for inspection upon request by OLE, a NMFS-authorized officer, or other NMFS-authorized personnel.
+
+(5) *ODDS requirements for trawl EM category catcher vessels in the partial coverage category*—(i) *EM trips.* Prior to embarking on each fishing trip, the operator of a catcher vessel in the partial coverage trawl EM category with a NMFS-approved VMP must register the anticipated trip with ODDS. The owner or operator must specify the use of pelagic trawl gear to determine trawl EM category participation for the upcoming fishing trip.
+
+(ii) [Reserved]
+
+[77 FR 70091, Nov. 21, 2012, as amended at 79 FR 54601, Sept. 12, 2014; 81 FR 26745, May 4, 2016; 81 FR 37556, June 10, 2016; 81 FR 67117, Sept. 30, 2016; 81 FR 70607, Oct. 13, 2016; 81 FR 95457, Dec. 28, 2016; 82 FR 37002, Aug. 8, 2017; 83 FR 30532, 30533, June 29, 2018; 84 FR 55053, Oct. 15, 2019; 85 FR 850, Jan. 8, 2020; 88 FR 53734, Aug. 8, 2023; 88 FR 77231, Nov. 9, 2023; 89 FR 60812, July 29, 2024]

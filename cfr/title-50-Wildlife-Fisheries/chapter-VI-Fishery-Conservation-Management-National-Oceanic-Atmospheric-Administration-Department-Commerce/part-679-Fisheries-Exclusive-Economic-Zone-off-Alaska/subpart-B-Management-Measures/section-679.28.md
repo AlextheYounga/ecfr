@@ -1,7 +1,5 @@
 ##### § 679.28 Equipment and operational requirements. #####
 
-Link to an amendment published at 89 FR 60810, July 29, 2024.
-
 (a) *Applicability.* This section contains the operational requirements for scales, observer sampling stations, vessel monitoring system hardware, catch monitoring and control plans, catcher vessel electronic logbook software, and video monitoring systems. The operator or manager must retain a copy of all records described in this section (§ 679.28) as indicated at § 679.5(a)(5) and (6) and make available the records upon request of NMFS observers and authorized officers as indicated at § 679.5(a)(5).
 
 (b) *Scales used to weigh catch at sea.* In order to be approved by NMFS a scale used to weigh catch at sea must meet the type evaluation requirements set forth in paragraph (b)(1) of this section and the initial inspection and annual reinspection requirements set forth in paragraph (b)(2) of this section. Once a scale is installed on a vessel and approved by NMFS for use to weigh catch at sea, it must be reinspected annually and must be tested daily and meet the maximum permissible error (MPE) requirements described in paragraph (b)(3) of this section.
@@ -303,7 +301,7 @@ Link to an amendment published at 89 FR 60810, July 29, 2024.
 
 (10) *Inspection of the observer sampling station.* Each observer sampling station must be inspected and approved by NMFS prior to its use for the first time and then once each year within 12 months of the most recent inspection with the following exceptions: If the observer sampling station is moved or if the space or equipment available to the observer is reduced or removed when use of the observer sampling station is required, the Observer Sampling Station Inspection Report issued under this section is no longer valid, and the observer sampling station must be reinspected and approved by NMFS. Inspection of the observer sampling station is in addition to inspection of the at-sea scales by an authorized scale inspector required at paragraph (b)(2) of this section.
 
-(i) *How does a vessel owner arrange for an observer sampling station inspection?* The vessel owner must submit an Inspection Request for Observer Sampling Station with all the information fields accurately filled in to NMFS by fax (206-526-4066) or emailing (*station.inspections@noaa.gov*) at least 10 working days in advance of the requested date of inspection. The request form is available on the NMFS Alaska Region Web site at *https://alaskafisheries.noaa.gov.*
+(i) *How does a vessel owner arrange for an observer sampling station inspection?* The vessel owner must submit an Inspection Request for Observer Sampling Station with all the information fields accurately filled in to NMFS by emailing (*station.inspections@noaa.gov*), or completing the online request form, at least 10 working days in advance of the requested date of inspection. The request form is available on the NMFS Alaska Region website.
 
 (ii) Where will Observer sampling station inspections be conducted? Inspections will be conducted on vessels tied up at docks in Kodiak, Alaska, Dutch Harbor, Alaska, and in the Puget Sound area of Washington State.
 
@@ -413,7 +411,7 @@ Link to an amendment published at 89 FR 60810, July 29, 2024.
 
 (7) *What additional requirements does an operator have if trawling in the Aleutian Islands reporting areas?* Operators of vessels named on a Federal Fisheries Permit under § 679.4(b), and that are using trawl gear in the Aleutian Islands reporting areas to harvest groundfish that is required to be deducted from a Federal TAC specified at § 679.20, must set their VMS to transmit the vessel location at least 10 times per hour.
 
-(g) *Catch monitoring and control plan requirements (CMCP)*—(1) *What is a CMCP?* A CMCP is a plan submitted by the owner and manager of a processing plant, and approved by NMFS, detailing how the processing plant will meet the catch monitoring and control standards detailed in paragraph (g)(7) of this section.
+(g) *Catch monitoring and control plan requirements (CMCP)*—(1) *What is a CMCP?* A CMCP is a plan submitted by the owner and manager of a processing plant, and approved by NMFS, detailing how the processor will meet the applicable catch monitoring and control standards detailed in paragraphs (g)(7) through (10) of this section.
 
 (2) *Who is required to prepare and submit a CMCP for approval?* The owner and manager of shoreside or stationary floating processors receiving fish harvested in the following fisheries must prepare, submit, and have approved a CMCP prior to the receipt of fish harvested in these fisheries:
 
@@ -423,27 +421,31 @@ Link to an amendment published at 89 FR 60810, July 29, 2024.
 
 (iii) Rockfish Program, unless those fish are harvested under the rockfish entry level longline fishery as described under § 679.83.
 
-(3) *How is a CMCP approved by NMFS?* NMFS will approve a CMCP if it meets all the requirements specified in paragraph (g)(7) of this section. The processor must be inspected by NMFS prior to approval of the CMCP to ensure that the processor conforms to the elements addressed in the CMCP. NMFS will complete its review of the CMCP within 14 working days of receiving a complete CMCP and conducting a CMCP inspection. If NMFS disapproves a CMCP, the plant owner or manager may resubmit a revised CMCP or file an administrative appeal as set forth under the administrative appeals procedures described at § 679.43.
+(iv) Any shoreside processor or stationary floating processor receiving any delivery from catcher vessels or tender vessels in the trawl EM category as defined at § 679.2.
 
-(4) *How is a CMCP inspection arranged?* The time and place of a CMCP inspection may be arranged by submitting a written request for an inspection to NMFS, Alaska Region. NMFS will schedule an inspection within 10 working days after NMFS receives a complete application for an inspection. The inspection request must include:
+(3) *How is a CMCP approved by NMFS?* NMFS will approve a CMCP if it meets all the applicable requirements specified in paragraphs (g)(7) through (10) of this section. The processor may be inspected by NMFS prior to approval of the CMCP to ensure that the processor conforms to the elements addressed in the CMCP. NMFS will complete its review of the CMCP within 14 working days of receipt. If NMFS disapproves a CMCP, the processor owner or manager may resubmit a revised CMCP or file an administrative appeal as set forth under the administrative appeals procedures described at § 679.43.
 
-(i) Name and signature of the person submitting the application and the date of the application;
+(4) *How is a CMCP inspection arranged?* The processor must submit a request for a CMCP inspection. The time and place of a CMCP inspection may be arranged by submitting a written request to NMFS, Alaska Region, or other method of electronic communication designated by NMFS. NMFS will review the inspection request within 10 working days after receiving a complete application for an inspection. The inspection request must include:
 
-(ii) Address, telephone number, fax number, and email address (if available) of the person submitting the application;
+(i) Name of the person submitting the application and the date of the application;
 
-(iii) A proposed CMCP detailing how the processor will meet each of the performance standards in paragraph (g)(7) of this section.
+(ii) Address, telephone number, and email address of the person submitting the application; and
 
-(5) *For how long is a CMCP approved?* NMFS will approve a CMCP for 1 year if it meets the performance standards specified in paragraph (e)(2) of this section. An owner or manager must notify NMFS in writing if changes are made in plant operations or layout that do not conform to the CMCP.
+(iii) A proposed CMCP detailing how the processor will meet each of the applicable performance standards in paragraphs (g)(7) through (10) of this section.
 
-(6) *How do I make changes to my CMCP?* An owner and manager may change an approved CMCP by submitting a CMCP addendum to NMFS. NMFS will approve the modified CMCP if it continues to meet the performance standards specified in paragraph (e)(2) of this section. Depending on the nature and magnitude of the change requested, NMFS may require a CMCP inspection as described in paragraph (g)(3) of this section. A CMCP addendum must contain:
+(5) *For how long is a CMCP approved?* NMFS will approve a CMCP for up to 1 year if it meets the applicable performance standards specified in paragraphs (g)(7) through (10) of this section. An owner or manager must notify NMFS in writing if changes are made in plant operations or layout that do not conform to the CMCP.
 
-(i) Name and signature of the person submitting the addendum;
+(6) *How do I make changes to my CMCP?* An owner and manager may change an approved CMCP by submitting a CMCP addendum to NMFS. NMFS will approve the modified CMCP if it continues to meet the applicable performance standards specified in paragraphs (g)(7) through (10) of this section. Depending on the nature and magnitude of the change requested, NMFS may require a CMCP inspection as described in paragraph (g)(3) of this section. A CMCP addendum must contain:
 
-(ii) Address, telephone number, fax number and email address (if available) of the person submitting the addendum;
+(i) Name of the person submitting the addendum;
+
+(ii) Address, telephone number, and email address of the person submitting the addendum; and
 
 (iii) A complete description of the proposed CMCP change.
 
-(7) *Catch monitoring and control standards*—(i) *Catch sorting and weighing requirements.* All groundfish delivered to the plant must be sorted and weighed by species. The CMCP must detail the amount and location of space for sorting catch, the number of staff assigned to catch sorting and the maximum rate that catch will flow through the sorting area.
+(7) *Catch monitoring and control standards.* For all shoreside processors or stationary floating processors accepting any delivery from the fisheries listed in paragraph (g)(2) of this section:
+
+(i) *Catch sorting and weighing requirements.* All groundfish delivered to the plant must be sorted and weighed by species. The CMCP must detail the amount and location of space for sorting catch, the number of staff assigned to catch sorting and the maximum rate that catch will flow through the sorting area.
 
 (ii) *Scales used for weighing groundfish.* The CMCP must identify by serial number each scale used to weigh groundfish and describe the rational for its use.
 
@@ -459,7 +461,7 @@ Link to an amendment published at 89 FR 60810, July 29, 2024.
 
 (iv) *Printed record.* The owner and manager must ensure that the scale produces a complete and accurate printed record of the weight of each species in a delivery. All of the groundfish in a delivery must be weighed on a scale capable of producing a complete printed record as described in paragraph (c)(3) of this section. However, NMFS may exempt scales not designed for automatic bulk weighing from some or all of the printed record requirements if the CMCP identifies any scale that cannot produce a complete printed record, states how the processor will use the scale, and states how the plant intends to produce a complete record of the total weight of each delivery.
 
-(v) *Delivery point.* Each CMCP must identify a single delivery point. The delivery point is the first location where fish removed from a delivering catcher vessel can be sorted or diverted to more than one location. If the catch is pumped from the hold of a catcher vessel or a codend, the delivery point normally will be the location where the pump first discharges the catch. If catch is removed from a vessel by brailing, the delivery point normally will be the bin or belt where the brailer discharges the catch.
+(v) *Delivery point.* Each CMCP must identify a single delivery point. The delivery point is the first location where fish removed from a delivering catcher vessel can be sorted or diverted to more than one location. If the catch is pumped from the hold of a catcher vessel or a codend, the delivery point normally will be the location where the pump first discharges the catch. If catch is removed from a vessel by brailing, the delivery point normally will be the bin or belt where the brailer discharges the catch. The CMCP must describe how the catch will be offloaded at the delivery point.
 
 (vi) *Observation area.* Each CMCP must designate an observation area. The observation area is a location designated on the CMCP where an individual may monitor the flow of fish during a delivery. The owner and manager must ensure that the observation area meets the following standards:
 
@@ -467,47 +469,121 @@ Link to an amendment published at 89 FR 60810, July 29, 2024.
 
 (B) *Monitoring the flow of fish.* From the observation area, an individual must have an unobstructed view or otherwise be able to monitor the entire flow of fish between the delivery point and a location where all sorting has taken place and each species has been weighed.
 
-(C) For shoreside processors or stationary floating processors taking deliveries from vessels directed fishing for pollock in the BS, including vessels directed fishing for pollock CDQ in the BS, the observation area must provide a clear, unobstructed view of the salmon storage container to ensure no salmon of any species are removed without the observer's knowledge.
-
-(vii) *Observer work station.* Each CMCP must identify and include an observer work station for the exclusive use of observers. Unless otherwise approved by NMFS, the work station must meet the following criteria:
-
-(A) *Location of observer work station.* (1) The observer work station must be located in an area protected from the weather where the observer has access to unsorted catch.
-
-(2) For shoreside processors or stationary floating processors taking deliveries from vessels directed fishing for pollock in the BS, including vessels directed fishing for pollock CDQ in the BS, the observer work station must be adjacent to the location where salmon will be counted and biological samples or scientific data are collected.
-
-(B) *Platform scale.* The observer work station must include a platform scale as described in paragraph (c)(4) of this section;
-
-(C) *Proximity of observer work station.* The observation area must be located near the observer work station. The plant liaison must be able to walk between the work station and the observation area in less than 20 seconds without encountering safety hazards.
-
-(D) *Workspace.* The observer work station must include: A working area of at least 4.5 square meters, a table as specified in paragraph (d)(4) of this section, and meet the other requirements as specified in paragraph (d)(6) of this section.
-
-(E) *Lockable cabinet.* The observer work station must include a secure and lockable cabinet or locker of at least 0.5 cubic meters.
-
-(viii) *Communication with observer.* The CMCP must describe what communication equipment such as radios, pagers or cellular phones, is used to facilitate communications within the plant. The plant owner must ensure that the plant manager provides the observer with the same communications equipment used by plant staff.
-
-(ix) Plant liaison. The CMCP must designate a plant liaison. The plant liaison is responsible for:
-
-(A) Orienting new observers to the plant and providing a copy of the approved CMCP;
-
-(B) Assisting in the resolution of observer concerns; and
-
-(C) Informing NMFS if changes must be made to the CMCP.
-
-(x) *Scale drawing of plant.* The CMCP must be accompanied by a scale drawing of the plant showing:
+(vii) *Scale Drawing of the Plant.* The CMCP must be accompanied by a scale drawing of the plant showing:
 
 (A) The delivery point;
 
-(B) The observation area;
+(B) Flow of fish;
 
-(C) The observer work station;
+(C) The observation area;
 
-(D) The location of each scale used to weigh catch;
+(D) The observer sampling station described in paragraph (g)(7)(ix) of this section;
 
-(E) Each location where catch is sorted including the last location where sorting could occur; and
+(E) The location of each scale used to weigh catch;
 
-(F) For shoreside processors or stationary floating processors taking deliveries from vessels directed fishing for BS pollock, including vessels directed fishing for pollock CDQ in the BS, the location of the salmon storage container.
+(F) Each location where catch is sorted including the last location where sorting could occur; and
 
-(xi) *CMCP specialist notification.* For shoreside processors receiving deliveries of groundfish harvested under the authority of a rockfish CQ permit, describe how the CMCP specialist will be notified of deliveries of groundfish harvested under the authority of a rockfish CQ permit.
+(G) Information to meet other requirements of this part, if requested by NMFS.
+
+(viii) *Reasonable assistance.* Shoreside processors and stationary floating processors must provide reasonable assistance as described in § 679.51(e)(2)(vi), to observer(s) and to the Rockfish CMCP specialist. The CMCP must identify staff responsible for ensuring reasonable assistance is provided.
+
+(ix) *Observer sampling station.* Each CMCP, except for the Rockfish Program, must identify and include an observer(s) sampling station for the exclusive use of observer(s). Unless otherwise approved by NMFS, the sampling station must meet the following criteria:
+
+(A) *Location of observer sampling station.* (*1*) The observer sampling station must be located in an area protected from the weather where the observer has access to unsorted catch.
+
+(*2*) The observer sampling station must be adjacent to the location where salmon will be counted and biological samples or scientific data are collected.
+
+(*3*) Clear, unobstructed passage must be provided between the observer sampling station and observer sample collection point. The observer(s) must be able to monitor the collection and transport of unsorted catch to the observer sampling station.
+
+(B) *Proximity of observer sampling station.* The observer sampling station must be located within 4 meters of the observer sample collection point without encountering safety hazards, or, reasonable assistance must be given to move samples into the observer sampling station upon request.
+
+(C) *Minimum workspace requirements.* The observer sampling station must include: A working area of at least 4.5 square meters. The observer(s) must be able to stand upright and have a sampling area at least 0.9 meters deep in front of the table and scale. The workspace must include flooring that prevents slipping and drains well, adequate lighting, and a hose that supplies fresh or sea water to the observer.
+
+(D) *Clear, unobstructed passage.* A clear and unobstructed passage is required between the observer sample collection point and sampling station, and within the observer sampling station. Passageways must be at least 65 centimeters wide at their narrowest point, and be free of tripping or head bumping hazards.
+
+(E) *Table.* The observer sampling station must include a table at least 0.6 meters deep, 1.2 meters wide, 0.9 meters high, and no more than 1.1 meters high. The entire surface area of the table must be available for use by the observer(s). Any area used for the observer sampling scale is in addition to the minimum space requirements for the table specified at paragraph (g)(7)(ix)(B) of this section. The observer sampling table must be secure, and stable.
+
+(F) *Observer Platform scale.* The observer sampling station must include a platform scale as described in paragraph (c)(4) of this section, and must meet the requirements specified in paragraph (c)(3)(v) of this section when tested by the observer. The platform scale must be located within 1 meter of the observer sampling table. The scale must be mounted so that the weighing surface is no more than 0.7 meters above the floor.
+
+(G) *Lockable cabinet.* The observer work station must include a secure and lockable cabinet or locker of at least 0.5 cubic meters, and must be for the exclusive use of the observer(s).
+
+(x) *Communication with observer.* The CMCP, except for the Rockfish Program, must describe what communication equipment such as radios or cellular phones is used to facilitate communications within the plant. The plant owner must ensure that the plant manager provides the observer(s) with the same communications equipment used by plant staff. The plant owner or plant manager must communicate the following information to the observer(s), including:
+
+(A) Daily schedule of expected landings;
+
+(B) Vessel name;
+
+(C) Identify which management areas the vessel was operating in;
+
+(D) If the delivering vessel is operating under the trawl EM category;
+
+(E) Estimated tonnage onboard the vessel;
+
+(F) If there is a deckload;
+
+(G) Estimated start time of each vessel offload;
+
+(H) Estimated time to complete the offload;
+
+(I) If the vessel offload will be interrupted for any reason; and
+
+(J) Any other information required by the applicable CMCP or VMP.
+
+(xi) *Processor liaison.* The CMCP must designate a processor liaison. The processor liaison is responsible for:
+
+(A) Orienting new observer(s) to the plant and providing a copy of the NMFS-approved CMCP and any subsequent addendums or revisions; and
+
+(B) Assisting in the resolution of observer(s) concerns.
+
+(8) *Rockfish Program.* In addition to compliance with requirements set forth at paragraph (g)(7) of this section, all shoreside processors or stationary floating processors receiving deliveries of groundfish harvested under the authority of a rockfish CQ permit must:
+
+(i) *Rockfish CMCP specialist notification.* Describe how the Rockfish CMCP specialist will be notified of deliveries of groundfish harvested under the authority of a rockfish CQ permit.
+
+(ii) [Reserved]
+
+(9) *Processors receiving AFA pollock, CDQ pollock, and trawl EM category deliveries.* In addition to compliance with requirements set forth at paragraph (g)(7) of this section, all shoreside processors and stationary floating processors receiving deliveries from the fisheries described in paragraphs (g)(2)(i),(ii), and (iv) of this section, must comply with the following:
+
+(i) *Salmon storage container.* (A) A salmon storage container must be designated for the exclusive purpose of storing salmon during an offload;
+
+(B) The observer(s) must have a clear, unobstructed view of the salmon storage container to ensure no salmon of any species are removed without the observer's knowledge;
+
+(C) The CMCP must describe the process of sorting and storing salmon; and
+
+(D) The scale drawing of the plant must include the location of the salmon storage container.
+
+(ii) *Salmon sorting and handling practices.* (A) Sort and transport all salmon to the salmon storage container identified in the CMCP (see paragraphs (g)(7)(vi)(C) and (g)(7)(x)(F) of this section). The salmon must remain in that salmon storage container and within the view of the observer(s) at all times during the offload;
+
+(B) If, at any point during the offload, salmon are too numerous to be contained in the salmon storage container, cease the offload and all sorting and give the observer(s) the opportunity to count and collect scientific data or biological samples from all salmon in the storage bin. The counted salmon then must be removed from the area by plant personnel in the presence of the observer(s);
+
+(C) At the completion of the offload, give the observer(s) the opportunity to count the salmon and collect scientific data or biological samples;
+
+(D) When receiving deliveries of pollock from the Bering Sea or CDQ pollock fisheries, give the observer(s) the opportunity to complete the count of salmon and the collection of scientific data or biological samples from the previous offload of catch before sorting of the next offload of any catch may begin. When the observer(s) has completed all counting and sampling duties for the offload, plant personnel must remove the salmon in the presence of the observer(s), from the salmon storage container and location where salmon are counted and biological samples or scientific data are collected; and
+
+(E) Regarding deliveries of pollock from the Gulf of Alaska or Aleutian Islands, the observer(s) must be given the opportunity to complete the count of salmon and the collection of scientific data or biological samples from all offloads selected for monitoring. When the observer(s) has completed all counting and sampling duties for the offload, plant personnel must remove the salmon in the presence of the observer(s), from the salmon storage container and location where salmon are counted and biological samples or scientific data are collected.
+
+(iii) *Observer sample collection point.* The observer sample collection point is the location where the observer collects unsorted catch.
+
+(A) The observer sample collection point (see paragraph (g)(7)(ix)(A)(*3*) of this section) must have a diverter mechanism to allow fish to be diverted from the belt directly into the observer's sampling baskets. The location and design of the diverter mechanism must be described in the CMCP; and
+
+(B) The scale drawing of the plant, specified at paragraph (g)(7)(vii) of this section, must include the location of the observer sample collection point.
+
+(iv) *Observer sampling scales and test weights.* (A) Identify by serial number each observer sampling scale in the CMCP;
+
+(B) Provide observer sampling scales that are accurate and within the limits specified in paragraph (c)(4)(v) of this section;
+
+(C) Test weights must be made available for the observer(s) use, be kept in good condition, be made of stainless steel or other corrosion-resistant material, and must meet requirements specified in paragraph (c)(4)(iii) of this section;
+
+(D) List the serial numbers of the test weights to be used to test the observer sampling scale in the CMCP; and
+
+(E) The CMCP must identify where the test weights will be stored. Test weights must be stored within the observer sampling station or reasonable assistance must be provided upon observer(s) request to move the weights from the storage location to the observer sampling scale.
+
+(10) *AFA pollock and CDQ pollock.* In addition to paragraphs (g)(7) and (9) of this section, all shoreside processors and stationary floating processors accepting deliveries described in paragraph (g)(2)(i) of this section have the following additional requirements:
+
+(i) Ensure no salmon of any species pass beyond the last point where sorting of fish occurs, as identified in the scale drawing of the plant, paragraph (g)(7)(vii) of this section, in the CMCP;
+
+(ii) The CMCP must describe the process that will be used to sort salmon, including the procedures for handling salmon that have passed beyond the last point where sorting of fish occurs; and
+
+(iii) Meet all salmon handling requirements as described in (g)(9) of this section.
 
 (h) *ELB software*—(1) *How do I get my ELB software approved by NMFS?*—(i) *Specifications.* NMFS will provide specifications for ELB software upon request. Interested parties may contact NMFS by mail at NMFS Alaska Region, Sustainable Fisheries Division, Catch Accounting/Data Quality, P.O. Box 21668, Juneau, AK 99802-1668; by telephone at 907-586-7228. The four types of ELB software are:
 

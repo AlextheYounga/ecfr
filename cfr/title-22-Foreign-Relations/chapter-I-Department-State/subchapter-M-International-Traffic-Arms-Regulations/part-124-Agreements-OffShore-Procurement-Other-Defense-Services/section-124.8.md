@@ -1,6 +1,6 @@
 ##### § 124.8 Clauses required both in manufacturing license agreements and technical assistance agreements. #####
 
-Link to an amendment published at 89 FR 67290, Aug. 20, 2024.
+Link to an amendment published at 89 FR 67290, Aug. 20, 2024.Link to an amendment published at 89 FR 68778, Aug. 28, 2024.
 
 (a) The following statements must be included both in manufacturing license agreements and in technical assistance agreements:
 

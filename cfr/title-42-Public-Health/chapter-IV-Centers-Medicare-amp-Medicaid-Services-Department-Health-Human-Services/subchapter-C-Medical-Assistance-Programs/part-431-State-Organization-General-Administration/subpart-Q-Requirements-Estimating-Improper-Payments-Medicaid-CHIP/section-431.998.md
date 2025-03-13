@@ -1,6 +1,6 @@
 ##### § 431.998 Difference resolution and appeal process. #####
 
-##### § 431.998 Difference resolution and appeal process. #####
+Link to an amendment published at 89 FR 69913, Aug. 28, 2024.
 
 (a) The State may file, in writing, a request with the relevant Federal contractor to resolve differences in the Federal contractor's findings based on medical, data processing, or eligibility reviews in Medicaid or CHIP.
 

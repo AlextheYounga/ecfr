@@ -1,5 +1,7 @@
 ##### § 413.75 Direct GME payments: General requirements. #####
 
+Link to an amendment published at 89 FR 69912, Aug. 28, 2024.
+
 (a) *Statutory basis and scope*—(1) *Basis.* This section and §§ 413.76 through 413.83 implement section 1886(h) of the Act by establishing the methodology for Medicare payment of the cost of direct graduate medical educational activities.
 
 (2) *Scope.* This section and §§ 413.76 through 413.83 apply to Medicare payments to hospitals and hospital-based providers for the costs of approved residency programs in medicine, osteopathy, dentistry, and podiatry for cost reporting periods beginning on or after July 1, 1985.

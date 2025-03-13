@@ -1,0 +1,3 @@
+##### § 150.2 Determination by the Department of State. #####
+
+The question of whether any particular person enjoys diplomatic agent-level immunity and is therefore not subject to the jurisdiction of the United States, or whether they enjoy lesser status-based immunity, on any particular date entails both factual and legal analysis, and is determined by the Department of State, in accordance with relevant international and domestic law.

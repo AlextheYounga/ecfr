@@ -1,7 +1,5 @@
 ##### § 679.52 Observer provider permitting and responsibilities. #####
 
-Link to an amendment published at 89 FR 60814, July 29, 2024.
-
 (a) *Observer provider permit*—(1) *Permit.* The Regional Administrator may issue a permit authorizing a person's participation as an observer provider for operations requiring full observer coverage per § 679.51(a)(2) and (b)(2). Persons seeking to provide observer services under this section must obtain an observer provider permit from NMFS.
 
 (2) *New observer provider.* An applicant seeking an observer provider permit must submit a completed application by fax or mail to the Observer Program at the address listed at § 679.51(c)(3).
@@ -66,13 +64,13 @@ Link to an amendment published at 89 FR 60814, July 29, 2024.
 
 (iii) For each observer employed by an observer provider, either a written contract or a written contract addendum must exist that is signed by the observer and observer provider prior to the observer's deployment and that includes the following conditions for continued employment:
 
-(A) That all the observer's in-season catch messages between the observer and NMFS are delivered to the Observer Program at least every 7 days, unless otherwise specified by the Observer Program;
+(A) That all of the observer's in-season catch messages (data) between the observer and NMFS are submitted to the Observer Program as outlined in the current Observer Sampling Manual.
 
 (B) That the observer completes in-person mid-deployment data reviews, unless:
 
 (*1*) The observer is specifically exempted by the Observer Program, or
 
-(*2*) The observer does not at any time during his or her deployment travel through a location where an Observer Program employee is available for an in-person data review and the observer completes a phone or fax mid-deployment data review as described in the Observer Sampling Manual; and
+(*2*) The observer does not at any time during his or her deployment travel through a location where an Observer Program employee is available for an in-person data review and the observer completes a phone, email, or other NMFS-specified method for mid-deployment data review, as described in the Observer Sampling Manual; and
 
 (C) The observer informs the observer provider prior to the time of embarkation if he or she is experiencing any new mental illness or physical ailments or injury since submission of the physician's statement as required in paragraph (b)(11)(iii) of this section that would prevent him or her from performing his or her assigned duties;
 
@@ -86,7 +84,7 @@ Link to an amendment published at 89 FR 60814, July 29, 2024.
 
 (iv) Return all sampling and safety gear to the Observer Program.
 
-(3) *Observer conduct.* (i) An observer provider must develop, maintain, and implement a policy addressing observer conduct and behavior for their employees that serve as observers. The policy shall address the following behavior and conduct regarding:
+(3) *Observer conduct.* (i) An observer provider must develop, maintain, implement, and enforce a policy addressing observer conduct and behavior for their employees that serve as observers. The policy shall address the following behavior and conduct regarding:
 
 (A) Observer use of alcohol;
 
@@ -150,7 +148,7 @@ Link to an amendment published at 89 FR 60814, July 29, 2024.
 
 (10) *Provide 24 hours a day communications with observers.* An observer provider must have an employee responsible for observer activities on call 24 hours a day to handle emergencies involving an observer or problems concerning observer logistics, whenever an observer is at sea, stationed at a shoreside processor or stationary floating processor, in transit, or in port awaiting vessel or processor (re)assignment.
 
-(11) *Provide information to the Observer Program.* An observer provider must provide all the following information to the Observer Program by electronic transmission (email), fax, or other method specified by NMFS within the specified timeframes.
+(11) *Provide information to the Observer Program.* An observer provider must provide all the following information to the Observer Program by electronic transmission (email), or other method specified by NMFS within the specified timeframes.
 
 (i) *Registration materials.* Observer training and briefing registration materials must be submitted to the Observer Program at least 5 business days prior to the beginning of a scheduled observer certification training or briefing session. Registration materials consist of the following:
 
@@ -174,13 +172,13 @@ Link to an amendment published at 89 FR 60814, July 29, 2024.
 
 (iii) *Physician's statement.* A signed and dated statement from a licensed physician that he or she has physically examined an observer or observer candidate. The statement must confirm that, based on the physical examination, the observer or observer candidate does not have any health problems or conditions that would jeopardize their individual safety or the safety of others while the observer or observer candidate is deployed, or prevent the observer or observer candidate from performing his or her duties satisfactorily. The statement must declare that, prior to the examination, the physician read the NMFS-prepared pamphlet provided to the candidate by the observer provider as specified in paragraph (b)(1)(ii) of this section and was made aware of the duties of the observer as well as the dangerous, remote, and rigorous nature of the work. The physician's statement must be submitted to the Observer Program prior to certification of an observer. The physical exam must have occurred during the 12 months prior to the observer's or observer candidate's deployment. The physician's statement will expire 12 months after the physical exam occurred. A new physical exam must be performed, and accompanying statement submitted, prior to any deployment occurring after the expiration of the statement.
 
-(iv) *Observer deployment/logistics report.* A deployment/logistics report must be submitted by Wednesday, 4:30 p.m., Pacific local time, of each week with regard to each observer deployed by the observer provider during that week. The deployment/logistics report must include the observer's name, cruise number, current vessel, shoreside processor, or stationary floating processor assignment and vessel/processor code, embarkation date, and estimated or actual disembarkation dates. The report must include the location of any observer employed by the observer provider who is not assigned to a vessel, shoreside processor, or stationary floating processor.
+(iv) *Observer deployment/logistics report.* An accurate deployment/logistics report must be submitted within 24 hours of the observer assignment, or daily by 4:30 p.m., Pacific time, each business day with regard to each observer. The deployment/logistics report must include the observer's name, cruise number, current vessel, shoreside processor or stationary floating processor assignment and vessel/processor code, embarkation date, and estimated or actual disembarkation dates.
 
 (v) *Observer debriefing registration.* The observer provider must contact the Observer Program within 5 business days after the completion of an observer's deployment to schedule a date, time, and location for debriefing. Observer debriefing registration information must be provided at the time the debriefing is scheduled and must include the observer's name, cruise number, vessel, or shoreside or stationary floating processor assignment name(s) and code(s), and requested debriefing date.
 
 (vi) *Certificates of insurance.* Copies of “certificates of insurance” that name the NMFS Observer Program leader as the “certificate holder” must be submitted to the Observer Program by February 1 of each year. The certificates of insurance shall verify all coverage provisions specified at § 600.748(b) and (c) of this chapter and state that the insurance company will notify the certificate holder if insurance coverage is changed or canceled.
 
-(vii) *Observer provider contracts.* Observer providers must submit to the Observer Program a completed and unaltered copy of each type of signed and valid contract (including all attachments, appendices, addendums, and exhibits incorporated into the contract) between the observer provider and those entities requiring observer services under § 679.51(a)(2) and (b)(2), by February 1 of each year. Observer providers must also submit to the Observer Program upon request, a completed and unaltered copy of the current or most recent signed and valid contract (including all attachments, appendices, addendums, and exhibits incorporated into the contract and any agreements or policies with regard to observer compensation or salary levels) between the observer provider and the particular entity identified by the Observer Program or with specific observers. Said copies must be submitted to the Observer Program via fax or mail within 5 business days of the request for the contract at the address or fax number listed in § 679.51(c)(3). Signed and valid contracts include the contracts an observer provider has with:
+(vii) *Observer provider contracts.* Observer providers must submit to the Observer Program a completed and unaltered copy of each type of signed and valid contract (including all attachments, appendices, addendums, and exhibits incorporated into the contract) between the observer provider and those entities requiring observer services under § 679.51(a)(2) and (b)(2), by February 1 of each year. Observer providers must also submit to the Observer Program, upon request, a completed and unaltered copy of the current or most recent signed and valid contract (including all attachments, appendices, addendums, and exhibits incorporated into the contract and any agreements or policies with regard to observer compensation or salary levels) between the observer provider and the particular entity identified by the Observer Program or with specific observers. The copies must be submitted by electronic transmission (email or through an electronic system as designated by NMFS) or other method specified by NMFS within 5 business days of the request for the contract at the address listed in § 679.51(c)(3). Signed and valid contracts include the contracts an observer provider has with:
 
 (A) Vessels required to have observer coverage as specified at § 679.51(a)(2);
 
@@ -206,9 +204,9 @@ Link to an amendment published at 89 FR 60814, July 29, 2024.
 
 (*6*) Amount charged by the provider for any other observer expenses, including but not limited to: Ground transportation, excess baggage, and lodging. Charges for these expenses must be separated and identified.
 
-(ix) *Change in observer provider management and contact information.* Except for changes in ownership addressed under paragraph (a)(6) of this section, an observer provider must submit notification of any other change to the information submitted on the provider's permit application under paragraphs (a)(3)(i) through (iv) of this section. Within 30 days of the effective date of such change, the information must be submitted by fax or mail to the Observer Program at the address listed in § 679.51(c)(3). Any information submitted under paragraphs (a)(3)(iii) or (a)(3)(iv) of this section will be subject to NMFS review and determinations under paragraphs (a)(4) through (7) of this section.
+(ix) *Change in observer provider management and contact information.* Except for changes in ownership addressed under paragraph (a)(6) of this section, an observer provider must submit notification of any other change to the information submitted on the provider's permit application under paragraphs (a)(3)(i) through (iv) of this section. Within 30 days of the effective date of such change, the information must be submitted by electronic submission (email or online through NMFS-designated electronic system) or mail to the Observer Program at the address listed in § 679.51(c)(3). Any information submitted under paragraphs (a)(3)(iii) or (a)(3)(iv) of this section will be subject to NMFS review and determinations under paragraphs (a)(4) through (7) of this section.
 
-(x) *Other reports.* Reports of the following must be submitted in writing to the Observer Program by the observer provider via fax or email:
+(x) *Other reports.* Reports of the following must be submitted in writing to the Observer Program by the observer provider via electronic submission (email or online through NMFS-designated electronic system):
 
 (A) Within 24 hours after the observer provider becomes aware of the following information:
 
@@ -222,7 +220,7 @@ Link to an amendment published at 89 FR 60814, July 29, 2024.
 
 (*5*) Any information, allegations or reports regarding observer conflict of interest or failure to abide by the standards of behavior described in § 679.53(b)(1) through (b)(2), or;
 
-(B) Within 72 hours after the observer provider determines that an observer violated the observer provider's conduct and behavior policy described at paragraph (b)(3)(i) of this section; these reports shall include the underlying facts and circumstances of the violation.
+(B) Within 72 hours after the observer provider determines that an observer violated the observer provider's conduct and behavior policy described at paragraph (b)(3)(i) of this section; these reports shall include the underlying facts, circumstances, and provider responses to the violation, including the steps taken to enforce the provider's conduct and behavior policy.
 
 (12) *Replace lost or damaged gear.* An observer provider must replace all lost or damaged gear and equipment issued by NMFS to an observer under contract to that provider. All replacements must be in accordance with requirements and procedures identified in writing by the Observer Program.
 
@@ -244,4 +242,44 @@ Link to an amendment published at 89 FR 60814, July 29, 2024.
 
 (4) Must not solicit or accept, directly or indirectly, any gratuity, gift, favor, entertainment, loan, or anything of monetary value from anyone who conducts fishing or fish processing activities that are regulated by NMFS, or who has interests that may be substantially affected by the performance or nonperformance of the official duties of the observer provider.
 
-[77 FR 70096, Nov. 21, 2012, as amended at 81 FR 67118, Sept. 30, 2016; 83 FR 30533, June 29, 2018; 87 FR 54910, Sept. 8, 2022]
+(d) *EM hardware service provider permit.*—(1) *Permit.* The Regional Administrator may issue a permit authorizing a person's participation as an EM hardware service provider for operations requiring EM system coverage per § 679.51(f) and (g). Persons seeking to provide EM services under this section must obtain an EM hardware service provider permit from the NMFS Alaska Region.
+
+(2) *EM hardware service provider.* An applicant seeking an EM hardware service provider permit must submit a completed application to the Regional Administrator for review. This application can be found on the NMFS Alaska Region website.
+
+(3) *Contents of application.* An application for an EM hardware service provider permit must contain the following:
+
+(i) *Contact information.* (A) The permanent phone number and email address of the owner(s) of the EM hardware service provider.
+
+(B) Current physical location, business mailing address, business telephone, and business email address for each office of the EM hardware service provider.
+
+(ii) *Hardware and software testing.* Description of testing conducted to ensure that the EM hardware is capable of withstanding environmental conditions in the North Pacific Ocean. NMFS will provide specifications for EM hardware upon request. At any time after initial approval of the EM hardware service provider permit, this testing requirement must be applied to and met by any EM system requiring new, or significantly updated, hardware or software installed onboard a vessel.
+
+(iii) *Data review.* Provide a sample of EM data to NMFS that can be reviewed by NMFS EM data review software for compliance with program objectives as specified in § 679.51(f) and (g).
+
+(iv) *Conflict of interest.* A statement signed under penalty of perjury from each owner or, if the owner is an entity, each board member and officer, if a corporation, that they have no conflict of interest as described in paragraph (c) of this section.
+
+(v) *Criminal convictions and Federal contracts.* A statement signed under penalty of perjury from each owner or, if the owner is an entity, each board member and officer, if a corporation, describing:
+
+(A) Any criminal convictions; and
+
+(B) Any Federal contracts they have had and the performance rating they received for each such contract.
+
+(vi) *Prior experience.* A description of any prior experience the EM hardware service provider may have in placing individuals in remote field and/or marine work environments. This includes recruiting, hiring, deployment, working with fishing fleets, and operations in remote areas.
+
+(vii) *Responsibilities and duties.* A description of the EM hardware service provider's ability to carry out the responsibilities and duties of an EM hardware service provider as set out under paragraph (e) of this section and the arrangements to be used to do so.
+
+(4) *Application evaluation.* NMFS staff will evaluate the completeness of the application, the application's consistency with needs and objectives of the EM program, and other relevant factors. NMFS will provide specifications for EM hardware upon request.
+
+(5) *Agency determination on an application.* NMFS will send the Agency's determination on the application to the EM hardware service provider. If an application is approved, NMFS will issue an EM hardware service provider permit to the applicant. If an application is denied, the reason for denial will be explained in the electronic determination.
+
+(6) *Transferability.* An EM hardware service provider permit is not transferable. To prevent a lapse in authority to provide EM hardware services, a provider that experiences a change in ownership that involves a new person may submit a new permit application prior to sale and ask to have the application approved under this paragraph (a) prior to date of sale.
+
+(7) *Expiration of EM hardware service provider permit.*—(i) *Permit duration.* An EM hardware service provider permit will expire after a period of 12 continuous months during which no EM services are provided to vessels in an EM category.
+
+(ii) *Permit expiration.* The Regional Administrator will provide a written initial administrative determination (IAD) of permit expiration to a provider if NMFS records indicate that the provider has not provided EM services to vessels in an EM category during a period of 12 continuous months. A provider who receives an IAD of permit expiration may appeal the IAD under § 679.43. A provider that appeals an IAD will be issued an extension of the expiration date of the permit until after the final resolution of the appeal.
+
+(8) *Removal of permit.* Performance of the EM hardware service provider will be assessed annually on the ability of the provider to meet program objectives as outlined in § 679.51 and the Annual Deployment Plan. If the EM hardware service provider is unable to meet program objectives, the permit will be removed.
+
+(e) *Responsibilities of EM hardware service providers.* Responsibilities of EM hardware service providers are specified in section § 679.51(f) and (g).
+
+[77 FR 70096, Nov. 21, 2012, as amended at 81 FR 67118, Sept. 30, 2016; 83 FR 30533, June 29, 2018; 87 FR 54910, Sept. 8, 2022; 89 FR 60814, July 29, 2024]

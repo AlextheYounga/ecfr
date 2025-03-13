@@ -1,7 +1,5 @@
 ##### § 679.2 Definitions. #####
 
-Link to an amendment published at 89 FR 60808, July 29, 2024.
-
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 
 *ABC reserve* means, for purposes of flathead sole, rock sole, and yellowfin sole in the BSAI, an amount, not to exceed the ABC surplus, that may be reduced for social, economic, or ecological considerations according to § 679.20(b)(1)(iii).
@@ -614,9 +612,11 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 (iii) Begins or ends every charter vessel fishing trip, as defined in § 300.61 of this title, authorized by the charter halibut permit issued to that person, and on which halibut are retained, at a location(s) within the boundaries of the community represented by the CQE from which the GAF were received. The geographic boundaries of the eligible community will be those defined by the United States Census Bureau.
 
-*EM selection pool* means the defined group of vessels from which NMFS will randomly select the vessels required to use an EM system under § 679.51(f).
+*EM service provider* means any person, including their employees or agents, that NMFS contracts with, or grants an EM hardware service provider permit to under § 679.52(d), to provide EM services, or to collect, review, interpret, or analyze EM data, as required under § 679.51. The two types of EM service providers are as follows:
 
-*EM service provider* means any person, including their employees or agents, that NMFS contracts with to provide EM services, or to review, interpret, or analyze EM data, as required under § 679.51(f).
+(1) *EM hardware service provider* is a provider that NMFS grants a permit under § 679.52(d) and is authorized to deploy and service EM hardware aboard vessels in an EM category as specified in § 679.51.
+
+(2) *EM data review service provider* is a provider that NMFS contracts with, or otherwise has an established business relationship with, to review, interpret, or analyze EM data as required under § 679.51.
 
 *Endorsement.* (1) (See *area endorsement* for purposes of the groundfish LLP permits);
 
@@ -668,7 +668,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 (iii) For a catcher/processor in the partial observer coverage category, the period of time that begins when the vessel departs a port to harvest fish until the vessel returns to port and offloads all processed product.
 
-(iv) *For a vessel in the EM selection pool of the partial coverage category,* the period of time that begins when the vessel leaves a shore-based port or tender vessel with an empty hold until the vessel returns to a shore-based port or tender vessel and all fish are delivered.
+(iv) For a vessel in any EM category, the period of time that begins when the vessel with an empty hold departs a port or tender vessel until the vessel returns to a port or tender vessel and offloads or delivers all fish.
 
 (4) *For purposes of § 679.7(n)(7)*, the period beginning when a vessel operator commences harvesting any Rockfish Program species and ending when the vessel operator offloads or transfers any processed or unprocessed Rockfish Program species from that vessel.
 
@@ -901,6 +901,8 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 *Non-allocated secondary species* (see *Rockfish Program species* in this section).
 
 *Non-chinook salmon* means coho, pink, chum or sockeye salmon.
+
+*Nontrawl EM selection pool* means the defined group of vessels from which NMFS will randomly select the vessels required to use an EM system under § 679.51(f).
 
 *North Pacific fishery* means any commercial fishery in state or Federal waters off Alaska.
 
@@ -1297,6 +1299,10 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 (1) *Groundfish fisheries of the GOA and BSAI.* Any loading, offloading, shipment or receipt of any IFQ sablefish or other groundfish product by a mothership, catcher/processor, shoreside processor, or stationary floating processor, including quantities transferred inside or outside the EEZ, within any state's territorial waters, within the internal waters of any state, at any shoreside processor, stationary floating processor, or at any offsite meal reduction plant.
 
 (2) *IFQ halibut and CDQ halibut fisheries.* Any loading, offloading, or shipment of any IFQ halibut or CDQ halibut product including quantities transferred inside or outside the EEZ, within any state's territorial waters, within the internal waters of any state, at any shoreside processor, stationary floating processor, or at any offsite meal reduction plant.
+
+*Trawl EM category* means catcher vessels and tender vessels with a NMFS-approved VMP that are required to use an EM system as specified under § 679.51(g)(1) when those vessels are directed fishing for, or receiving deliveries of, pollock.
+
+*Trawl EM Incentive Plan Agreement (TEM IPA)* means a voluntary private contract in writing, approved by NMFS under § 679.57, that establishes incentives for partial coverage catcher vessels in the trawl EM category to keep catch within the limits to which vessels not in the trawl EM category are subject. These limits include the catcher vessel harvest limit for pollock in the Gulf of Alaska (§ 679.7(b)(2)) and MRAs (§ 679.20(e)).
 
 *Trawl test areas* (see Figure 7 to this part and § 679.24(d)).
 

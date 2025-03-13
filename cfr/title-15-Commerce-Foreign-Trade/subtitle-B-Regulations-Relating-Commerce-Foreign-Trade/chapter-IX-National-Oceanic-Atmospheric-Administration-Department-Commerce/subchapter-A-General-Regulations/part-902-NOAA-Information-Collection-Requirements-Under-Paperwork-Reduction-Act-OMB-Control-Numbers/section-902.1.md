@@ -1,7 +1,5 @@
 ##### § 902.1 OMB control numbers assigned pursuant to the Paperwork Reduction Act. #####
 
-Link to an amendment published at 89 FR 60807, July 29, 2024.
-
 (a) *Purpose.* This part collects and displays the control numbers assigned to information collection requirements of the National Oceanic and Atmospheric Administration (NOAA) by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act (PRA). NOAA intends that this part comply with the requirements of section 3507(c)(B)(i) of the PRA, which requires that agencies inventory and display a current control number assigned by the Director of OMB for each agency information collection requirement.
 
 (b) *Display.*
@@ -417,7 +415,7 @@ Link to an amendment published at 89 FR 60807, July 29, 2024.
 |                                             665.935                                             |                                                \-0664                                                |
 |                                             665.965                                             |                                                \-0664                                                |
 |                                              679.4                                              |                 \-0206, -0272, -0334, -0393, -0513, -0545, -0565, -0665, and -0811.                  |
-|                                            679.5(a)                                             |                                       \-0213, -0269, and -0272                                       |
+|                                            679.5(a)                                             |                                   \-0213, -0269, -0515, and -0272.                                   |
 |                                     679.5(b), (h), and (k)                                      |                                                \-0213                                                |
 |                                     679.5(c), (e), and (f)                                      |                                \-0213, -0272, -0330, -0513, and -0515                                |
 |                                        679.5(e) and (f)                                         |                                                \-0401                                                |
@@ -456,6 +454,7 @@ Link to an amendment published at 89 FR 60807, July 29, 2024.
 |                                            679.28(a)                                            |                                           \-0213 and -0330                                           |
 |                                  679.28(b) through (e) and (i)                                  |                                                \-0330                                                |
 |                                            679.28(f)                                            |                                           \-0206 and -0445                                           |
+|                                        679.28(g)(2)(iv)                                         |                                               \-0330.                                                |
 |                                            679.28(h)                                            |                                           \-0213 and -0515                                           |
 |                                        679.28(j) and (k)                                        |                                                \-0515                                                |
 |                                            679.28(l)                                            |                                                \-0330                                                |
@@ -482,6 +481,8 @@ Link to an amendment published at 89 FR 60807, July 29, 2024.
 |                                             679.53                                              |                                                \-0318                                                |
 |                                             679.54                                              |                                                \-0318                                                |
 |                                             679.55                                              |                                       \-0206, -0272, and -0711                                       |
+|                                             679.56                                              |                                                \-0711                                                |
+|                                             679.57                                              |                                                \-0318                                                |
 |                                      679.61(a) through (f)                                      |                                           \-0393 and -0401                                           |
 |                                             679.62                                              |                                                \-0393                                                |
 |                                             679.63                                              |                                           \-0213 and -0330                                           |

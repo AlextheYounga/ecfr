@@ -1,7 +1,5 @@
 ##### § 679.20 General limitations. #####
 
-Link to an amendment published at 89 FR 60809, July 29, 2024.
-
 This section applies to vessels engaged in directed fishing for groundfish in the GOA and/or the BSAI and to vessels engaged in commercial fishing for Arctic fish in the Arctic Management Area.
 
 (a) *Harvest limits*—(1) *OY*—(i) *BSAI and GOA.* The OY for BSAI and GOA target species is a range or specific amount that can be harvested consistently with this part, plus the amounts of “nonspecified species” taken incidentally to the harvest of target species. The species categories are defined in Table 1 of the specifications as provided in paragraph (c) of this section.
@@ -432,7 +430,11 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (*2*) If the halibut PSC sideboard limit is reached for the shallow-water species fishery as defined in § 679.21(d)(3)(iii)(A) for a season, then NMFS will close directed fishing in the GOA for all species in the shallow-water species fishery for that season.
 
-(2) *Groundfish as prohibited species closure.* When the Regional Administrator determines that the TAC of any target species specified under paragraph (c) of this section, or the share of any TAC assigned to any type of gear, has been or will be achieved prior to the end of a year, NMFS will publish notification in the Federal Register requiring that target species be treated in the same manner as a prohibited species, as described under § 679.21(a), for the remainder of the year, except rockfish species caught by catcher vessels using hook-and-line, pot, or jig gear as described in § 679.20(j).
+(2) *Groundfish as prohibited species closure.* When the Regional Administrator determines that the TAC of any target species specified under paragraph (c) of this section, or the share of any TAC assigned to any type of gear, has been or will be achieved prior to the end of a year, NMFS will publish notification in the Federal Register requiring that target species be treated in the same manner as a prohibited species, as described under § 679.21(a), for the remainder of the year, except:
+
+(i) Rockfish species caught by catcher vessels using hook-and-line, pot, or jig gear as described in paragraph (j) of this section; and
+
+(ii) Catcher vessels in the trawl EM category.
 
 (3) *Overfishing closure*—(i) *Notification.* If, in making a determination under paragraph (d)(2) of this section, the Regional Administrator also determines that fishing for other target species or species groups in the area, district or part thereof where the notification applies, may lead to the overfishing of the species or species group for which the allocation or apportionment has been or will be reached, NMFS will publish notification in the Federal Register specifying limitations or prohibitions designed to prevent overfishing of that species or species group.
 

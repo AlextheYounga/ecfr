@@ -1,9 +1,13 @@
-##### § 1236.36 Disposing of original source records. #####
+##### § 1236.36 Disposing of source records. #####
 
-Link to an amendment published at 89 FR 46804, May 30, 2024.
+(a) When an agency disposes of source records, it must have an approved agency records schedule or identify an applicable General Records Schedule.
 
-(a) When an agency has validated that the digitized versions meet the standards in § 1236.32, the agency may destroy the original source records pursuant to General Records Schedule (GRS) 5.2 (intermediary records) or an agency-specific records schedule that addresses disposition after digitization, subject to any pending legal constraint on the agency, such as a litigation hold.
+(b) When an agency has validated that the digitized versions meet the standards in § 1236.32, the agency may destroy the source records according to General Records Schedule (GRS) 4.5 Digitizing Records.
 
-(b) The agency must treat the digitized versions, now the recordkeeping versions, in the same way it would have treated the original source records. The agency must retain the digitized versions for the remaining portion of any retention period established by the applicable records schedule.
+(c) Agencies must consider any existing legal restrictions, such as a litigation hold, before destroying the source records.
 
-(c) Agencies do not need to obtain NARA approval to destroy scheduled temporary records they have digitized according to this part.
+(d) Agencies must manage the digitized records in the same way it would have managed the source records. Agencies must retain the digitized records for the remaining portion of any retention period established by the applicable records schedule.
+
+(e) Agencies do not need NARA approval to destroy scheduled temporary source records they have digitized according to this part.
+
+[89 FR 46804, May 30, 2024]

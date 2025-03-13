@@ -1,5 +1,7 @@
 ##### § 412.2 Basis of payment. #####
 
+Link to an amendment published at 89 FR 69909, Aug. 28, 2024.
+
 (a) *Payment on a per discharge basis.* Under both the inpatient operating and inpatient capital-related prospective payment systems, hospitals are paid a predetermined amount per discharge for inpatient hospital services furnished to Medicare beneficiaries. The prospective payment rate for each discharge (as defined in § 412.4) is determined according to the methodology described in subpart D, E, or G of this part, as appropriate, for operating costs, and according to the methodology described in subpart M of this part for capital-related costs. An additional payment is made for both inpatient operating and inpatient capital-related costs, in accordance with subpart F of this part, for cases that are extraordinarily costly to treat.
 
 (b) *Payment in full.* (1) The prospective payment amount paid for inpatient hospital services is the total Medicare payment for the inpatient operating costs (as described in paragraph (c) of this section) and the inpatient capital-related costs (as described in paragraph (d) of this section) incurred in furnishing services covered by the Medicare program.
