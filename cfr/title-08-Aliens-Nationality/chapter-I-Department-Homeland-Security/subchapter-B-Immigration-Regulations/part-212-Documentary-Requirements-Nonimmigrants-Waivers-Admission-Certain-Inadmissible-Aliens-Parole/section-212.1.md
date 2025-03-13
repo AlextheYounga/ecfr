@@ -1,5 +1,7 @@
 ##### § 212.1 Documentary requirements for nonimmigrants. #####
 
+Link to an amendment published at 89 FR 3327, Jan. 18, 2024.
+
 A valid unexpired visa that meets the requirements of part 215, subpart B, of this chapter, if applicable, and an unexpired passport, shall be presented by each arriving nonimmigrant alien except that the passport validity period for an applicant for admission who is a member of a class described in section 102 of the Act is not required to extend beyond the date of his application for admission if so admitted, and except as otherwise provided in the Act, this chapter, and for the following classes:
 
 (a) *Citizens of Canada or Bermuda, Bahamian nationals or British subjects resident in certain islands*—(1) *Canadian citizens.* A visa is generally not required for Canadian citizens, except those Canadians that fall under nonimmigrant visa categories E, K, S, or V as provided in paragraphs (h), (l), and (m) of this section and 22 CFR 41.2. A valid unexpired passport is required for Canadian citizens arriving in the United States, except when meeting one of the following requirements:

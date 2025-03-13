@@ -960,7 +960,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (*1*) Make all necessary loss determinations, except the acreage measurement; and
 
-(*2*) Finalize the claim in accordance with applicable policy provisions after you provide the acreage measurement to us (if you failto provide the measurement, your claim will not be paid); or
+(*2*) Finalize the claim in accordance with applicable policy provisions after you provide the acreage measurement to us (if you fail to provide the measurement, your claim will not be paid); or
 
 (B) Elect to measure the acreage, and:
 

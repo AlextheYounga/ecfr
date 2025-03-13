@@ -1,7 +1,5 @@
 ##### § 655.601 Purpose. #####
 
-Link to an amendment published at 88 FR 87695, Dec. 19, 2023.
-
 To prescribe the policies and procedures of the Federal Highway Administration (FHWA) to obtain basic uniformity of traffic control devices on all streets and highways in accordance with the following references that are approved by the FHWA for application on Federal-aid projects:
 
 (a) MUTCD.
@@ -20,16 +18,8 @@ To prescribe the policies and procedures of the Federal Highway Administration (
 
 (2) FHWA, Federal Highway Administration, 1200 New Jersey Avenue SE., Washington, DC 20590, telephone (202) 366-1993, also available at *http://mutcd.fhwa.dot.gov.*
 
-(i) Manual on Uniform Traffic Control Devices for Streets and Highways (MUTCD), as follows:
-
-(A) 2009 edition, November 4, 2009.
-
-(B) Revision No. 1, dated May 2012.
-
-(C) Revision No. 2, dated May 2012.
-
-(D) Revision No. 3, dated June 2022.
+(i) Manual on Uniform Traffic Control Devices for Streets and Highways (MUTCD), 11th Edition, FHWA, December 2023.
 
 (ii) [Reserved]
 
-[77 FR 28466, May 14, 2012, as amended at 87 FR 47931, Aug. 5, 2022]
+[77 FR 28466, May 14, 2012, as amended at 87 FR 47931, Aug. 5, 2022; 88 FR 87695, Dec. 19, 2023]

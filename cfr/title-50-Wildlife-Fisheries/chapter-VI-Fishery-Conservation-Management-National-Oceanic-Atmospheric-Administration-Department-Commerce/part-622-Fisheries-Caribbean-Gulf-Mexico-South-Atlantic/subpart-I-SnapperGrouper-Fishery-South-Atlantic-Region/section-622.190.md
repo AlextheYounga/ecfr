@@ -66,6 +66,8 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (D) For the 2026-2027 and subsequent fishing years, 359,288 lb (162,970 kg).
 
+(iii) Any unused portion of the quota specified in paragraph (a)(3)(i) of this section will be added to the quota specified in paragraph (a)(3)(ii) of this section. Any unused portion of the quota specified in paragraph (a)(3)(ii) of this section, including any addition of quota specified in paragraph (a)(3)(i) of this section that was unused, will become void and will not be added to any subsequent quota.
+
 (4) *Vermilion snapper.* (i) For the period January through June each year.
 
 (A) For the 2019 fishing year—483,658 lb (219,384 kg), gutted weight; 536,860 lb (243,516 kg), round weight.
@@ -172,4 +174,4 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (2) [Reserved]
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49195, Aug. 13, 2013]; 78 FR 58253, Sept. 23, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 80 FR 48278, Aug. 12, 2015; 81 FR 3738, Jan. 22, 2016; 83 FR 62512, Dec. 4, 2018; 83 FR 14024, Apr. 9, 2019; 85 FR 4594, Jan. 27, 2020; 87 FR 77747, Dec. 20, 2022; 88 FR 65146, Sept. 21, 2023; 88 FR 65822, Sept. 26, 2023; 88 FR 76701, Nov. 7, 2023; 88 FR 83869, Dec. 1, 2023]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49195, Aug. 13, 2013]; 78 FR 58253, Sept. 23, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 80 FR 48278, Aug. 12, 2015; 81 FR 3738, Jan. 22, 2016; 83 FR 62512, Dec. 4, 2018; 83 FR 14024, Apr. 9, 2019; 85 FR 4594, Jan. 27, 2020; 87 FR 77747, Dec. 20, 2022; 88 FR 65146, Sept. 21, 2023; 88 FR 65822, Sept. 26, 2023; 88 FR 76701, Nov. 7, 2023; 88 FR 83869, Dec. 1, 2023; 89 FR 277, Jan. 3, 2024]

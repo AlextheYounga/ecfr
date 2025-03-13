@@ -1,5 +1,7 @@
 ##### § 328.102 Prohibition. #####
 
+Link to an amendment published at 89 FR 3531, Jan. 18, 2024.
+
 (a) *Use of the FDIC name or logo.* (1) No person may represent or imply that any Uninsured Financial Product is insured or guaranteed by the FDIC by using FDIC-Associated Terms as part of any business name or firm name of any person.
 
 (2) No person may represent or imply that any Uninsured Financial Product is insured or guaranteed by the FDIC by using FDIC-Associated Terms or by using FDIC-Associated Images as part of an Advertisement, solicitation, or other publication or dissemination.

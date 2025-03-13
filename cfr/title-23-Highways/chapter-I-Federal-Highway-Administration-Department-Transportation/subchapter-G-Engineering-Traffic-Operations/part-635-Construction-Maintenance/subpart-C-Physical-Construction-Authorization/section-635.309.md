@@ -1,7 +1,5 @@
 ##### § 635.309 Authorization. #####
 
-Link to an amendment published at 88 FR 87695, Dec. 19, 2023.
-
 Authorization to advertise the physical construction for bids or to proceed with force account construction thereof shall normally be issued as soon as, but not until, all of the following conditions have been met:
 
 (a) The plans, specifications, and estimates (PS&E) have been approved.
@@ -48,7 +46,7 @@ Authorization to advertise the physical construction for bids or to proceed with
 
 (n) The FHWA has determined that the PS&E provide for the erection of only those information signs and traffic control devices that conform to the standards developed by the Secretary of Transportation or mandates of Federal law and do not include promotional or other informational signs regarding such matters as identification of public officials, contractors, organizational affiliations, and related logos and symbols.
 
-(o) The FHWA has determined that, where applicable, provisions are included in the PS&E that require the erection of funding source signs, for the life of the construction project, in accordance with section 154 of the Surface Transportation and Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, as amended (Pub. L. 91-646, 84 Stat. 1894; primarily codified in 42 U.S.C. 4601 *et seq.*;) (Uniform Act).
+(o) The FHWA has determined that, where applicable, provisions are included in the PS&E that require the erection of funding source signs that comply with the Manual on Uniform Traffic Control Devices for Streets and Highways, for the life of the construction project, in accordance with section 154 of the Surface Transportation and Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, as amended (Pub. L. 91-646, 84 Stat. 1894; primarily codified in 42 U.S.C. 4601 *et seq.;*) (Uniform Act).
 
 (p) In the case of a design-build or CM/GC project, the following certification requirements apply
 
@@ -84,4 +82,4 @@ Authorization to advertise the physical construction for bids or to proceed with
 
 (4) A statement is received from the State that either all ROW, utility, and railroad work has been completed or that all necessary arrangements will be made for the completion of ROW, utility, and railroad work.
 
-[81 FR 57728, Aug. 23, 2016, as amended at 81 FR 86943, Dec. 2, 2016; 85 FR 72931, Nov. 16, 2020; 87 FR 67558, Nov. 9, 2022]
+[81 FR 57728, Aug. 23, 2016, as amended at 81 FR 86943, Dec. 2, 2016; 85 FR 72931, Nov. 16, 2020; 87 FR 67558, Nov. 9, 2022; 88 FR 87695, Dec. 19, 2023]
