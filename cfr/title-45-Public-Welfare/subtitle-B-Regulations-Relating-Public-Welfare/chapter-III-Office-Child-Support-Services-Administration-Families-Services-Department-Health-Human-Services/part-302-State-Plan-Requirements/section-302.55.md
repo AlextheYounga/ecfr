@@ -1,0 +1,5 @@
+##### § 302.55 Incentive payments to States and political subdivisions. #####
+
+Effective October 1, 1985, in order for the State to be eligible to receive any incentive payments under § 304.12 and part 305 of this chapter, the State plan shall provide that, if one or more political subdivisions of the State participate in the costs of carrying out the activities under the State plan during any period, each such subdivision shall be entitled to receive an appropriate share of any incentive payments made to the State for such period, as determined by the State in accordance with § 303.52 of this chapter, taking into account the efficiency and effectiveness of the political subdivision in carrying out the activities under the State plan.
+
+(Approved by the Office of Management and Budget under control number 0960-0385)[50 FR 19649, May 9, 1985; 50 FR 23958, June 7, 1985, as amended at 51 FR 37731, Oct. 24, 1986; 54 FR 32309, Aug. 4, 1989; 65 FR 82208, Dec. 27, 2000]

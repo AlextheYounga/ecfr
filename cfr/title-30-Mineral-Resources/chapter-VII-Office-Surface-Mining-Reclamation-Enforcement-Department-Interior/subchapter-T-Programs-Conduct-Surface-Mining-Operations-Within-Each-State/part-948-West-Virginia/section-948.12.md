@@ -1,7 +1,5 @@
 ##### § 948.12 State statutory, regulatory, and proposed program amendment provisions not approved. #####
 
-Link to an amendment published at 89 FR 2138, Jan. 12, 2024.
-
 (a) We are not approving the following provisions of the proposed program amendment that West Virginia submitted on May 11, 1998:
 
 (1) CSR 38-2-3.14, to the extent that it could be interpreted as applying to the on-site reprocessing of abandoned coal mine waste piles or to the extent that it would apply to the removal of abandoned coal refuse piles where, on average, the material to be removed meets the definition of coal in 30 CFR 700.5.
@@ -76,4 +74,10 @@ Link to an amendment published at 89 FR 2138, Jan. 12, 2024.
 
 (4) At CSR 38-2-6.5.h, we are not approving its deletion because the deletion of CSR 38-2-6.5.h would make CSR 199-1-3.6.g and 3.11 less effective than the Federal blasting requirements.
 
-[48 FR 52053, Nov. 16, 1983, as amended at 50 FR 28323, 28342, July 11, 1985; 55 FR 21337, May 23, 1990; 61 FR 6535, Feb. 21, 1996; 65 FR 26135, May 5, 2000; 65 FR 50430, Aug. 18, 2000; 65 FR 80328, Dec. 21, 2000; 68 FR 40167, July 7, 2003; 68 FR 68738, Dec. 10, 2003; 70 FR 6590, Feb. 8, 2005; 71 FR 10790, Mar. 2, 2006; 85 FR 27156, May 7, 2020]
+(k) We are not approving the following portions of provisions of the proposed program amendment that West Virginia submitted on May 15, 2017:
+
+(1) We are deferring our decision on the deletion of provisions from W. Va. Code 22-3-11(g)(2) regarding the development of a long-range planning process for the selection and prioritization of sites to be reclaimed. We defer our decision until we make a determination on West Virginia's related amendment docketed at WV-128-FOR, which relates to the complete and accurate listing of all outstanding reclamation obligations (including water treatment) on active permits in the State.
+
+(2) [Reserved]
+
+[48 FR 52053, Nov. 16, 1983, as amended at 50 FR 28323, 28342, July 11, 1985; 55 FR 21337, May 23, 1990; 61 FR 6535, Feb. 21, 1996; 65 FR 26135, May 5, 2000; 65 FR 50430, Aug. 18, 2000; 65 FR 80328, Dec. 21, 2000; 68 FR 40167, July 7, 2003; 68 FR 68738, Dec. 10, 2003; 70 FR 6590, Feb. 8, 2005; 71 FR 10790, Mar. 2, 2006; 85 FR 27156, May 7, 2020; 89 FR 2138, Jan. 12, 2024]

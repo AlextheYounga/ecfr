@@ -1,5 +1,7 @@
 ##### § 64.2011 Notification of customer proprietary network information security breaches. #####
 
+Link to an amendment published at 89 FR 10002, Feb. 12, 2024.
+
 (a) A telecommunications carrier shall notify law enforcement of a breach of its customers' CPNI as provided in this section. The carrier shall not notify its customers or disclose the breach publicly, whether voluntarily or under state or local law or these rules, until it has completed the process of notifying law enforcement pursuant to paragraph (b) of this section.
 
 (b) As soon as practicable, and in no event later than seven (7) business days, after reasonable determination of the breach, the telecommunications carrier shall electronically notify the United States Secret Service (USSS) and the Federal Bureau of Investigation (FBI) through a central reporting facility. The Commission will maintain a link to the reporting facility at *http://www.fcc.gov/eb/cpni.*

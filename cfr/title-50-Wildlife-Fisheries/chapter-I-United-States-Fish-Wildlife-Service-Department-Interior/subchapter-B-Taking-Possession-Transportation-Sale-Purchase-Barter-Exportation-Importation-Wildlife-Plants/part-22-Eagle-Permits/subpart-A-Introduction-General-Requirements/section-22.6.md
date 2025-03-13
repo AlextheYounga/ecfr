@@ -1,5 +1,7 @@
 ##### § 22.6 Definitions. #####
 
+Link to an amendment published at 89 FR 9958, Feb. 12, 2024.
+
 In addition to the definitions contained in part 10 of this subchapter, and unless the context otherwise requires, in this part 22:
 
 *Alternate nest* means one of potentially several nests within a nesting territory that is not an in-use nest at the current time. When there is no in-use nest, all nests in the territory are alternate nests.

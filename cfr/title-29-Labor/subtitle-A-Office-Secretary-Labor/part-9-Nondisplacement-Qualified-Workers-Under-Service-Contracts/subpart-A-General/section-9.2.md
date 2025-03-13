@@ -2,36 +2,40 @@
 
 For purposes of this part:
 
+*Administrative Review Board (ARB)* means the Administrative Review Board, U.S. Department of Labor.
+
 *Administrator* means the Administrator of the Wage and Hour Division and includes any official of the Wage and Hour Division authorized to perform any of the functions of the Administrator under this part.
 
-*Administrative Review Board* means the Administrative Review Board, U.S. Department of Labor.
+*Agency* means an executive department or agency, including an independent establishment subject to the Federal Property and Administrative Services Act.
 
-*Contractor* means a prime contractor and all of its first or lower tier subcontractors on a Federal service contract.
+*Associate Solicitor* means the Associate Solicitor for Fair Labor Standards, Office of the Solicitor, U.S. Department of Labor, Washington, DC 20210.
 
-*Contracting Officer* means the individual, a duly appointed successor, or authorized representative who is designated and authorized to enter into procurement contracts on behalf of the Federal contracting agency.
+*Business day* means Monday through Friday, except the legal public holidays specified in 5 U.S.C. 6103, any day declared to be a holiday by Federal statute or executive order, or any day with respect to which the U.S. Office of Personnel Management has announced that Federal agencies in the Washington, DC, area are closed.
 
-*Day* means, unless otherwise specified, a calendar day.
+*Contract or service contract* means any contract, contract-like instrument, or subcontract for services entered into by the Federal Government or its contractors that is covered by the Service Contract Act (SCA). Contract or contract-like instrument means an agreement between two or more parties creating obligations that are enforceable or otherwise recognizable at law. This definition includes, but is not limited to, a mutually binding legal relationship obligating one party to furnish services and another party to pay for them. The term *contract* includes all contracts and any subcontracts of any tier thereunder, whether negotiated or advertised, including any procurement actions, cooperative agreements, provider agreements, intergovernmental service agreements, service agreements, temporary interim contracts, licenses, permits, or any other type of agreement, regardless of nomenclature, type, or particular form, and whether entered into verbally or in writing, to the extent such contracts and subcontracts are subject to the SCA. Contracts may be the result of competitive bidding or awarded to a single source under applicable authority to do so. In addition to bilateral instruments, contracts include, but are not limited to, awards and notices of awards; job orders or task letters issued under basic ordering agreements; letter contracts; orders, such as purchase orders, under which the contract becomes effective by written acceptance or performance; and bilateral contract modifications.
 
-*Employee* or *service employee* means any person engaged in the performance of a service contract other than any person employed in a bona fide executive, administrative, or professional capacity, as those terms are defined in 29 CFR part 541. The term *employee* or *service employee* includes all such persons, as defined in the McNamara-O'Hara Service Contract Act of 1965, as amended, regardless of any contractual relationship that may be alleged to exist between a contractor or subcontractor and such persons.
+*Contracting officer* means an agency official with the authority to enter into, administer, and/or terminate contracts and make related determinations and findings. This term includes certain authorized representatives of the contracting officer acting within the limits of their authority as delegated by the contracting officer.
+
+*Contractor* means any individual or other legal entity that is awarded a Federal Government service contract or subcontract under a Federal Government service contract. Unless the context of the provision reflects otherwise, the term “contractor” refers collectively to a prime contractor and all of its subcontractors of any tier on a service contract with the Federal Government. The term “employer” is used interchangeably with the terms “contractor” and “subcontractor” in various sections of this part. The U.S. Government, its agencies, and instrumentalities are not contractors, subcontractors, employers, or joint employers for purposes of compliance with the provisions of the Executive order.
+
+*Employee* means a service employee as defined in the Service Contract Act, 41 U.S.C. 6701(3), and its implementing regulations.
 
 *Employment opening* means any vacancy in a position on the contract, including any vacancy caused by replacing an employee from the predecessor contract with a different employee.
 
-*Federal Government* means an agency or instrumentality of the United States that enters into a procurement contract pursuant to authority derived from the Constitution and the laws of the United States.
+*Federal Government* means an agency or instrumentality of the United States that enters into a contract pursuant to authority derived from the Constitution or the laws of the United States. This definition does not include the District of Columbia or any Territory or possession of the United States.
 
-*Managerial employee* and *supervisory employee* mean a person engaged in the performance of services under the contract who is employed in a bona fide executive, administrative, or professional capacity, as those terms are defined and delimited in 29 CFR part 541.
-
-*Month* means a period of 30 consecutive days, regardless of the day of the calendar month on which it begins.
+*Month* means a period of 30 consecutive calendar days, regardless of the day of the calendar month on which it begins.
 
 *Office of Administrative Law Judges* means the Office of Administrative Law Judges, U.S. Department of Labor.
 
+*Same or similar work* means work that is either identical to or has primary characteristics that are alike in substance to work performed on another service contract.
+
 *Secretary* means the U.S. Secretary of Labor or an authorized representative of the Secretary.
 
-*Same or similar service* means a service that is either identical to or has one or more characteristics that are alike in substance to a service performed at the same location on a contract that is being replaced by the Federal Government or a contractor on a Federal service contract.
+*Service Contract Act* means the McNamara-O'Hara Service Contract Act of 1965, as amended, 41 U.S.C. 6701 *et seq.,* and the implementing regulations in this subtitle.
 
-*Service contract* or *contract* means any contract or subcontract for services entered into by the Federal Government or its contractors that is covered by the McNamara-O'Hara Service Contract Act of 1965, as amended, and its implementing regulations.
+*Solicitation* means any request to submit offers, bids, or quotations to the Federal Government.
 
-*Solicitation* means any request to submit offers or quotations to the Government.
-
-*United States* means the United States and all executive departments, independent establishments, administrative agencies, and instrumentalities of the United States, including corporations of which all or substantially all of the stock is owned by the United States, by the foregoing departments, establishments, agencies, instrumentalities, and including non-appropriated fund instrumentalities.
+*United States* means the United States and all executive departments, independent establishments, administrative agencies, and instrumentalities of the United States, including corporations of which all or substantially all of the stock is owned by the United States, by the foregoing departments, establishments, agencies, instrumentalities, and including non-appropriated fund instrumentalities. When used in a geographic sense, the United States means the 50 States, the District of Columbia, Puerto Rico, the Virgin Islands, Outer Continental Shelf lands as defined in the Outer Continental Shelf Lands Act, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, Wake Island, and Johnston Island.
 
 *Wage and Hour Division* means the Wage and Hour Division, U.S. Department of Labor.

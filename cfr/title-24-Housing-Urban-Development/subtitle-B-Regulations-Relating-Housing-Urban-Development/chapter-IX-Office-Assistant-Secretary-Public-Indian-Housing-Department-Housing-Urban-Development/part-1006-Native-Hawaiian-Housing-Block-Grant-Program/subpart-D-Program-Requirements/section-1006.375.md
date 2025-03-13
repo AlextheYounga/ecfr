@@ -1,5 +1,7 @@
 ##### § 1006.375 Other Federal requirements. #####
 
+Link to an amendment published at 89 FR 9763, Feb. 12, 2024.
+
 (a) *Lead-based paint.* The following subparts of HUD's lead-based paint regulations at part 35, which implement the Lead-Based Paint Poisoning Prevention Act (42 U.S.C. 4822-4846) and the Residential Lead-Based Paint Hazard Reduction Act of 1992 (42 U.S.C. 4851-4856), apply to the use of assistance under this part:
 
 (1) Subpart A, “Disclosure of Known Lead-Based Paint Hazards Upon Sale or Lease of Residential Property”;

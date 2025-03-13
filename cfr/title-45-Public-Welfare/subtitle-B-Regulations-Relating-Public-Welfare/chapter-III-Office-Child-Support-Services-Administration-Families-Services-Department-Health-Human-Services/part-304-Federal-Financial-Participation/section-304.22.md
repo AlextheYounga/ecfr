@@ -1,0 +1,5 @@
+##### § 304.22 Federal financial participation in purchased support enforcement services. #####
+
+Federal financial participation is available at the applicable matching rate for the purchase of support enforcement services as provided for in the State plan to the extent that payment for such purchased services is in accordance with rates of payment established by the State which do not exceed the amounts reasonable and necessary to assure quality of such service and in the case of such services purchased from other public agencies, the cost reasonably assignable to such services. The determination that the amounts are reasonable and necessary and that the costs are reasonably assignable must be fully documented in the IV-D agency records. Support enforcement services which may be purchased with Federal financial participation are those for which Federal financial participation is otherwise available under § 304.20 and which are included under the approved State plan.
+
+[40 FR 27166, June 26, 1975, as amended at 47 FR 57282, Dec. 23, 1982; 50 FR 19656, May 9, 1985]

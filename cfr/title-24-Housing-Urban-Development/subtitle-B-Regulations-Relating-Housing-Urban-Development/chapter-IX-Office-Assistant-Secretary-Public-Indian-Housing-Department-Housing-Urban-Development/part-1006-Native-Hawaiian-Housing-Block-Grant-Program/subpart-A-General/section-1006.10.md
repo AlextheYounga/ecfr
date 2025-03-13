@@ -1,5 +1,7 @@
 ##### § 1006.10 Definitions. #####
 
+Link to an amendment published at 89 FR 9760, Feb. 12, 2024.
+
 The following definitions apply in this part:
 
 *Act* means title VIII of NAHASDA, as amended.

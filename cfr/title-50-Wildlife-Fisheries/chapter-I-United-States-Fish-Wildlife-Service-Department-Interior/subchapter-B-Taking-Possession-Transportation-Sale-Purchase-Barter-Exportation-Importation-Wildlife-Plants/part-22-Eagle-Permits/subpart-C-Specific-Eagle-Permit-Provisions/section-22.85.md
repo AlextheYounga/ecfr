@@ -1,5 +1,7 @@
 ##### § 22.85 Removal of eagle nests. #####
 
+Link to an amendment published at 89 FR 9958, Feb. 12, 2024.
+
 (a) *Purpose and scope.* (1) A permit may be issued under this section to authorize removal or relocation of:
 
 (i) An in-use or alternate nest where necessary to alleviate an existing safety emergency, or to prevent a rapidly developing safety emergency that is otherwise likely to result in bodily harm to humans or eagles while the nest is still in use by eagles for breeding purposes;

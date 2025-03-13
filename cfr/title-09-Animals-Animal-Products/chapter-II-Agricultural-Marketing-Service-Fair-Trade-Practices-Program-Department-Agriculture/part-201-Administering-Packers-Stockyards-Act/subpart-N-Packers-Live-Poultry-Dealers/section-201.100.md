@@ -1,20 +1,18 @@
 ##### § 201.100 Records to be furnished poultry growers and sellers. #####
 
-Link to an amendment published at 88 FR 83291, Nov. 28, 2023.
+(a) *Poultry growing arrangement; timing of disclosure.* A live poultry dealer who offers a poultry growing arrangement to a poultry grower must provide the poultry grower with a true written copy of the offered poultry growing arrangement on the date the dealer provides the poultry grower with poultry housing specifications.
 
-(a) *Poultry growing arrangement; timing of disclosure.* As a live poultry dealer who offers a poultry growing arrangement to a poultry grower, you must provide the poultry grower with a true written copy of the offered poultry growing arrangement on the date you provide the poultry grower with poultry house specifications.
+(b) *Right to discuss the terms of poultry growing arrangement offer.* A live poultry dealer, notwithstanding any confidentiality provision in the poultry growing arrangement, may not prohibit a poultry grower or prospective poultry grower from discussing the terms of a poultry growing arrangement offer or, if applicable, the accompanying Live Poultry Dealer Disclosure Document described in § 201.102 (b) through (d) of this part with any of the following:
 
-(b) *Right to discuss the terms of poultry growing arrangement offer.* As a live poultry dealer, notwithstanding any confidentiality provision in the poultry growing arrangement, you must allow poultry growers to discuss the terms of a poultry growing arrangement offer with:
+(1) A Federal or State agency.
 
-(1) A Federal or State agency;
+(2) The grower's financial advisor or lender.
 
-(2) The grower's financial advisor or lender;
+(3) The grower's legal advisor.
 
-(3) The grower's legal advisor;
+(4) An accounting services representative hired by the grower.
 
-(4) An accounting services representative hired by the grower;
-
-(5) Other growers for the same live poultry dealer; or
+(5) Other growers for the same live poultry dealer.
 
 (6) A member of the grower's immediate family or a business associate. A business associate is a person not employed by the grower, but with whom the grower has a valid business reason for consulting with when entering into or operating under a poultry growing arrangement.
 
@@ -60,4 +58,4 @@ Link to an amendment published at 88 FR 83291, Nov. 28, 2023.
 
 (2) A live poultry dealer's poultry growing arrangement with a poultry grower shall also provide the poultry grower with the opportunity to terminate its poultry growing arrangement in writing at least 90 days prior to the termination of the poultry growing arrangement.
 
-(Approved by the Office of Management and Budget under control number 0580-0015)[54 FR 16356, Apr. 24, 1989; 54 FR 18713, May 2, 1989, as amended at 68 FR 75388, Dec. 31, 2003; 74 FR 63277, Dec. 3, 2009]
+(Approved by the Office of Management and Budget under control number 0580-0015)[54 FR 16356, Apr. 24, 1989; 54 FR 18713, May 2, 1989, as amended at 68 FR 75388, Dec. 31, 2003; 74 FR 63277, Dec. 3, 2009; 88 FR 83291, Nov. 28, 2023]

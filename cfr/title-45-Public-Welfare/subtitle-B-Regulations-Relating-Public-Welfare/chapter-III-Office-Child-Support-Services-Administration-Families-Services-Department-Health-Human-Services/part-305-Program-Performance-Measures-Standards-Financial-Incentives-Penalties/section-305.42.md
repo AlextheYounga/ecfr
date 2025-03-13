@@ -1,0 +1,3 @@
+##### § 305.42 Penalty phase-in. #####
+
+States are subject to the performance penalties described in § 305.40 based on data reported for FY 2001. Data reported for FY 2000 will be used as a base year to determine improvements in performance during FY 2001. There will be an automatic one-year corrective action period before any penalty is assessed. The penalties will be assessed and then suspended during the corrective action period.

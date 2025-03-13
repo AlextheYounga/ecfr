@@ -1,0 +1,7 @@
+##### § 309.60 Who is responsible for administration of the Tribal IV-D program under the Tribal IV-D plan? #####
+
+(a) Under the Tribal IV-D plan, the Tribe or Tribal organization shall establish or designate an agency to administer the Tribal IV-D plan. That agency shall be referred to as the Tribal IV-D agency.
+
+(b) The Tribe or Tribal organization is responsible and accountable for the operation of the Tribal IV-D program. Except where otherwise provided in this part, the Tribal IV-D agency need not perform all the functions of the Tribal IV-D program, so long as the Tribe or Tribal organization ensures that all approved functions are carried out properly, efficiently and effectively.
+
+(c) If the Tribe or Tribal organization delegates any of the functions of the Tribal IV-D program to another Tribe, a State, and/or another agency or entity pursuant to a cooperative arrangement, contract, or Tribal resolution, the Tribe or Tribal organization is responsible for securing compliance with the requirements of the Tribal IV-D plan by such Tribe, State, agency or entity. The Tribe or Tribal organization is responsible for submitting copies and appending to the Tribal IV-D plan any agreements, contracts, or Tribal resolutions between the Tribal IV-D agency and a Tribe, State, other agency or entity.

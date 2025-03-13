@@ -1,5 +1,7 @@
 ##### § 1006.350 Environmental review. #####
 
+Link to an amendment published at 89 FR 9763, Feb. 12, 2024.
+
 (a) In order to ensure that the policies of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 *et seq.*) (NEPA) and other provisions of Federal law which further the purposes of that act (as specified in 24 CFR 58.5) are most effectively implemented in connection with the expenditure of NHHBG funds, HUD will provide for the release of funds for specific projects to the DHHL if the Director of the DHHL assumes all of the responsibilities for environmental review, decisionmaking, and action under NEPA and other provisions of Federal law which further the purposes of that act (as specified in 24 CFR 58.5) that would apply to HUD were HUD to undertake those projects as Federal projects.
 
 (b) An environmental review does not have to be completed before a HUD finding of compliance for the housing plan or amendments to the housing plan submitted by the DHHL.

@@ -1,90 +1,84 @@
 ##### 538.273 FSS solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 89 FR 2173, Jan. 12, 2024.
+The following clauses and provisions apply to FSS solicitations and contracts, unless otherwise excepted (see 538.001) or as otherwise stated below. For example, if only used in solicitations, the prescription will clearly state this. If the language does not specify “solicitations” then the clause applies to both FSS solicitations and contracts.
 
-(a) As prescribed in this paragraph, insert the following provisions in the beginning of FSS solicitations:
+(a) Insert the following provisions in FSS solicitations:
 
-(1) 552.238-70, Cover Page for Worldwide Federal Supply Schedules. Use in all FSS solicitations. Use Alternate I for single award Federal Supply Schedules.
+(1) 552.238-70, Cover Page for Worldwide Federal Supply Schedules. Use in all FSS solicitations.
 
 (2) 552.238-71, Notice of Total Small Business Set-Aside. Use in FSS solicitations containing special item numbers (SINs) that are set aside for small business.
 
 (3) 552.238-72, Information Collection Requirements. Use in all FSS solicitations.
 
-(b) As prescribed in this paragraph, insert the following clause and provision as an addendum to 52.212-1, Instructions to Offerors—Commercial Products and Commercial Services:
+(b) Insert the following clauses and provisions in FSS solicitations and contracts as an addendum to FAR 52.212-1, Instructions to Offerors—Commercial Products and Commercial Services:
 
-(1) 552.238-73, Identification of Electronic Office Equipment Providing Accessibility for Individuals with Disabilities. Use only in FSS solicitations for electronic office equipment.
+(1) 552.238-73, Identification of Electronic Office Equipment Providing Accessibility for Individuals with Disabilities. the Handicapped. Use only in FSS solicitations for electronic office equipment.
 
-(2) 552.238-74, Introduction of New Supplies and Services Special Item Number (SIN). Use only in FSS solicitations allowing the introduction of new supplies/services. Note: GSA Form 1649, Notification of Federal Supply Schedule Improvement, may be required if revising a Special Item Number (SIN).
+(2) 552.238-74, Introduction of New Supplies/Services (INSS). Only for those solicitations allowing the introduction of new supplies/services. Note: GSA Form 1649, Notification of Federal Supply Schedule Improvement, may be required if revising a Special Item Number (SIN).
 
-(c) As prescribed in this paragraph, insert the following provisions as an addendum to 52.212-2, Evaluation—Commercial Products and Commercial Services:
+(c) Insert the following provisions in FSS solicitations as an addendum to FAR 52.212-2, Evaluation—Commercial Products and Commercial Services:
 
-(1) 552.238-75, Evaluation—Commercial Products and Commercial Services (Federal Supply Schedules). Use in FSS standing solicitations.
+(1) 552.238-75, Evaluation—Commercial Products and Commercial Services (Federal Supply Schedule).
 
 (2) 552.238-76, Use of Non-Government Employees to Review Offers. Use only in FSS solicitations when non-government employees may be utilized to review solicitation responses.
 
-(d) As prescribed in this paragraph, insert the following clauses as an addendum to Clause 52.212-4, Contract Terms and Conditions-Commercial Products and Commercial Services:
+(d) Insert the following clauses in FSS solicitations and contracts as an addendum to Clause FAR 52.212-4, Contract Terms and Conditions—Commercial Products and Commercial Services:
 
-(1) 552.238-77, Submission and Distribution of Authorized Federal Supply Schedule Price Lists. Use in all FSS solicitations and contracts.
+(1) 552.238-77, Submission and Distribution of Authorized Federal Supply Schedule Price Lists.
 
-(2) 552.238-78, Identification of Products that have Environmental Attributes. Use only in FSS solicitations and contracts that contemplate products with environmental attributes.
+(2) 552.238-78, Identification of Products that have Environmental Attributes. Use only in solicitations and contracts that contemplate products with environmental attributes.
 
-(3) 552.238-79, Cancellation. Use in all FSS solicitations and contracts.
+(3) 552.238-79, Cancellation.
 
-(4) 552.238-80, Industrial Funding Fee and Sales Reporting. Use Alternate I for Federal Supply Schedules with Transactional Data Reporting requirements. Clause 552.238-81 Alternate I should also be used when vendors agree to include clause 552.238-80 Alternate I in the contract.
+(4) 552.238-80, Industrial Funding Fee and Sales Reporting. Use Alternate I for FSS with Transactional Data Reporting requirements.
 
-(5) 552.238-81, Price Reductions. Use Alternate I for Federal Supply Schedules with Transactional Data Reporting requirements. This alternate clause is used when vendors agree to include clause 552.238-80 Alternate I in the contract.
+(5) 552.238-81, Price Reductions. Use Alternate I for FSS with Transactional Data Reporting requirements.
 
-(6) 552.238-82, Modifications (Federal Supply Schedules). Use in all FSS solicitations and contracts.
+(6) 552.238-82, Modifications (Federal Supply Schedules).
 
-(i) Use Alternate I for Federal Supply Schedules that only accept eMod.
+(i) Use Alternate I for FSS that only accept eMod.
 
-(ii) Use Alternate II for Federal Supply Schedules with Transactional Data Reporting requirements. This alternate clause is used when vendors agree to include clause 552.238-80 Alternate I in the contract.
+(ii) Use Alternate II for FSS with Transactional Data Reporting requirements.
 
-(7) 552.238-83, Examination of Records by GSA (Federal Supply Schedules). Use in all FSS solicitations and contracts. With the Senior Procurement's Executive approval, the contracting officer may modify this clause to provide for post-award access to and the right to examine records to verify that the pre-award/modification pricing, sales or other data related to the supplies or services offered under the contract which formed the basis for the award/modification was accurate, current, and complete. The following procedures apply:
+(7) 552.238-83, Examination of Records by GSA (Federal Supply Schedules).
 
-(i) Such a modification of the clause must provide for the right of access to expire 2 years after award or modification.
+(8) 552.238-84, Discounts for Prompt Payment.
 
-(ii) Before modifying the clause, the contracting officer must make a determination that absent such access there is a likelihood of significant harm to the Government and submit it to the Senior Procurement Executive for approval.
+(9) 552.238-85, Contractor's Billing Responsibilities.
 
-(iii) The determinations under paragraph (9)(ii) must be made on a schedule-by-schedule basis.
+(10) 552.238-86, Delivery Schedule. Use only for supplies.
 
-(8) 552.238-84, Discounts for Prompt Payment. Use in all FSS solicitations and contracts.
+(11) 552.238-87, Delivery Prices.
 
-(9) 552.238-85, Contractor's Billing Responsibilities. Use in all FSS solicitations and contracts.
+(12) 552.238-88, GSA Advantage!®. This clause is not required for the Department of Veterans Affairs Federal Supply Schedules.
 
-(10) 552.238-86, Delivery Schedule. Use only in FSS solicitations and contracts for supplies.
+(13) 552.238-89, Deliveries to the U.S. Postal Service. Use only for mailable articles when delivery to a U.S. Postal Service (USPS) facility is contemplated.
 
-(11) 552.238-87, Delivery Prices. Use in all FSS solicitations and contracts.
+(14) 552.238-90, Characteristics of Electric Current. Use only when the supply of equipment which uses electrical current is contemplated.
 
-(12) 552.238-88, GSA *Advantage*!®. Use in all FSS solicitations and contracts except the Department of Veterans Affairs Federal Supply Schedules.
+(15) 552.238-91, Marking and Documentation Requirements for Shipping. Use only for supplies when the need for outlining the minimum information and documentation required for shipping is contemplated.
 
-(13) 552.238-89, Deliveries to the U.S. Postal Service. Use only in FSS solicitations and contracts for mailable articles when delivery to a U.S. Postal Service (USPS) facility is contemplated.
+(16) 552.238-92, Vendor Managed Inventory (VMI) Program. Use only for supplies when a VMI Program is contemplated.
 
-(14) 552.238-90, Characteristics of Electric Current. Use only in FSS solicitations and contracts when the supply of equipment which uses electrical current is contemplated.
+(17) 552.238-93, Order Acknowledgement. Use only for supplies.
 
-(15) 552.238-91, Marking and Documentation Requirements for Shipping. Use only in FSS solicitations and contracts for supplies when the need for outlining the minimum information and documentation required for shipping is contemplated.
+(18) 552.238-94, Accelerated Delivery Requirements. Use only for supplies.
 
-(16) 552.238-92, Vendor Managed Inventory (VMI) Program. Use only in FSS solicitations and contracts for supplies when a VMI Program is contemplated.
+(19) 552.238-95, Separate Charge for Performance Oriented Packaging (POP). Use only for products defined as hazardous under Federal Standard No. 313.
 
-(17) 552.238-93, Order Acknowledgement. Use only in FSS solicitations and contracts for supplies.
+(20) 552.238-96, Separate Charge for Delivery within Consignee's Premises. Use only for supplies when allowing offerors to propose separate charges for deliveries within the consignee's premises.
 
-(18) 552.238-94, Accelerated Delivery Requirements. Use only in FSS solicitations and contracts for supplies.
+(21) 552.238-97, Parts and Service.
 
-(19) 552.238-95, Separate Charge for Performance Oriented Packaging (POP). Use only in FSS solicitations and contracts for products defined as hazardous under Federal Standard No. 313.
+(22) 552.238-98, Clauses for Overseas Coverage. Use only when overseas acquisition is contemplated. Choose the most appropriate clause(s) to the contract scenario. For example there are multiple free on board (F.o.b.) clauses. Select those that apply best to what is being procured. The following clauses and provisions shall also be inserted in full text, when applicable.
 
-(20) 552.238-96, Separate Charge for Delivery within Consignee's Premises. Use only in FSS solicitations and contracts for supplies when allowing offerors to propose separate charges for deliveries within the consignee's premises.
+(i) FAR 52.214-34 Submission of Offers in the English Language.
 
-(21) 552.238-97, Parts and Service. Use in all FSS solicitations and contracts.
-
-(22) 552.238-98, Clauses for Overseas Coverage. Use only in FSS solicitations and contracts when overseas acquisition is contemplated. The GSAR clauses and GSAR provisions in paragraphs (d)(22)(i) through (xi) of this section shall also be inserted in full text, when applicable.
-
-(i) 52.214-34 Submission of Offers in the English Language.
-
-(ii) 52.214-35 Submission of Offers in U.S. Currency.
+(ii) FAR 52.214-35 Submission of Offers in U.S. Currency.
 
 (iii) 552.238-90 Characteristics of Electric Current.
 
-(iv) 552.238-91 Marking and Documentation Requirements Per Shipment.
+(iv) 552.238-91 Marking and Documentation Requirements for Shipping.
 
 (v) 552.238-97 Parts and Service.
 
@@ -94,42 +88,40 @@ Link to an amendment published at 89 FR 2173, Jan. 12, 2024.
 
 (viii) 552.238-101 Foreign Taxes and Duties.
 
-(ix) 52.247-34 FOB Destination.
+(ix) FAR 52.247-29 F.o.b Origin.
 
-(x) 52.247-38 FOB Inland Carrier, Country of Exportation.
+(x) FAR 52.247-34 F.o.b. Destination.
 
-(xi) 52.247-39 FOB Inland Point, Country of Importation.
+(xi) FAR 52.247-48 F.o.b. Destination—Evidence of Shipment.
 
-(23) 552.238-99, Delivery Prices Overseas. Use only in FSS solicitations and contracts when overseas acquisition is contemplated.
+(23) 552.238-99, Delivery Prices Overseas. Use only when overseas acquisition is contemplated.
 
-(24) 552.238-100, Transshipments. Use only in FSS solicitations and contracts when overseas acquisition is contemplated.
+(24) 552.238-100, Transshipments. Use only when overseas acquisition is contemplated.
 
-(25) 552.238-101, Foreign Taxes and Duties. Use only in FSS solicitations and contracts when overseas acquisition is contemplated.
+(25) 552.238-101, Foreign Taxes and Duties. Use only when overseas acquisition is contemplated.
 
-(26) 552.238-102, English Language and U.S. Dollar Requirements. Use in all FSS solicitations and contracts.
+(26) 552.238-102, English Language and U.S. Dollar Requirements.
 
-(27) 552.238-103, Electronic Commerce. Use in all FSS solicitations and contracts except the Department of Veterans Affairs Federal Supply Schedules.
+(27) 552.238-103, Electronic Commerce. This clause is not required for Department of Veterans Affairs Federal Supply Schedules.
 
-(28) 552.238-104, Dissemination of Information by Contractor. Use in all FSS solicitations and contracts.
+(28) 552.238-104, Dissemination of Information by Contractor.
 
-(29) 552.238-105, Deliveries Beyond the Contractual Period—Placing of Orders. Use only in FSS solicitations and contracts for supplies.
+(29) 552.238-105, Deliveries Beyond the Contractual Period—Placing of Orders.
 
-(30) 552.238-106, Interpretation of Contract Requirements. Use in all FSS solicitations and contracts.
+(30) 552.238-106, Interpretation of Contract Requirements.
 
-(31) 552.238-107, Export Traffic Release (Supplies). Use in FSS solicitations and contracts for supplies, except vehicles.
+(31) 552.238-107, Export Traffic Release (Supplies). Use in FSS solicitations and contracts for supplies. This clause is not required for vehicles.
 
-(32) 552.238-108, Spare Parts Kit. Use only in FSS solicitations and contracts for products requiring spare part kits. This information is to be specified at the order level.
+(32) 552.238-108, Spare Parts Kit. Use only for products requiring spare part kits. This information is to be specified at the order level.
 
-(33) 552.238-109, Authentication Supplies and Services. Use in Federal Supply Schedule solicitations that contain information technology Special Item Numbers (SINs) only, and only contracts awarded SINs associated with the Homeland Security Presidential Directive 12 (HSPD-12).
+(33) 552.238-109, Authentication Supplies and Services. Use only for information technology associated with the Homeland Security Presidential Directive 12 (HSPD-12).
 
-(34) 552.238-110, Commercial Satellite Communication (COMSATCOM) Services. Use only in FSS solicitations and contracts for COMSATCOM services.
+(34) 552.238-110, Commercial Satellite Communication (COMSATCOM) Services. Use only for COMSATCOM services.
 
-(35) 552.238-111, Environmental Protection Agency Registration Requirement. Use only in FSS solicitations and contracts for supplies when products may require registration with the Environmental Protection Agency.
+(35) 552.238-111, Environmental Protection Agency Registration Requirement. Use only for supplies when products may require registration with the Environmental Protection Agency.
 
-(36) 552.238-116, Option to Extend the Term of the FSS Contract. Use in FSS solicitations and contracts when appropriate.
-
-(37) 552.238-117, Price Adjustment—Failure to Provide Accurate Information. Use only in FSS solicitations and contracts under the MAS program. This clause is used when the contract contains the basic clause 552.238-80 Industrial Funding Fee and Sales Reporting.
+(36) 552.238-116, Option to Extend the Term of the FSS Contract. Use when appropriate.
 
 (e) Insert the following fill-in information within the blank of paragraph (d) of FAR clause 52.216-22, Indefinite Quantity: “the completion of customer order, including options, 60 months following the expiration of the FSS contract ordering period”.
 
-[84 FR 17039, Apr. 23, 2019; 84 FR 22382, May 17, 2019, as amended at 86 FR 55521, Oct. 6, 2021; 86 FR 68443, Dec. 2, 2021; 87 FR 6045, Feb. 3, 2022; 87 FR 10314, Feb. 24, 2022; 88 FR 20078, Apr. 5, 2023; 88 FR 62473, Sept. 12, 2023]
+[89 FR 2173, Jan. 12, 2024]

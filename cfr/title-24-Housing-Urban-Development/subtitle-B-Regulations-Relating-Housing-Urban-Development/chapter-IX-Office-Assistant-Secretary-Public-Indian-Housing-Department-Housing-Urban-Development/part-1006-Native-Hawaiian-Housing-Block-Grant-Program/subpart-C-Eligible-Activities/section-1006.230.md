@@ -1,5 +1,7 @@
 ##### § 1006.230 Administrative and planning costs. #####
 
+Link to an amendment published at 89 FR 9761, Feb. 12, 2024.
+
 Up to such amount as HUD may authorize, or such other limit as may be specified by statute, of each grant received under the Act may be used for any reasonable administrative and planning expenses of the DHHL relating to carrying out the Act and this part and activities assisted with NHHBG funds, including:
 
 (a) *General management, oversight and coordination.* Reasonable costs of overall program management, coordination, monitoring, and evaluation. Such costs include, but are not limited to, necessary expenditures for the following:

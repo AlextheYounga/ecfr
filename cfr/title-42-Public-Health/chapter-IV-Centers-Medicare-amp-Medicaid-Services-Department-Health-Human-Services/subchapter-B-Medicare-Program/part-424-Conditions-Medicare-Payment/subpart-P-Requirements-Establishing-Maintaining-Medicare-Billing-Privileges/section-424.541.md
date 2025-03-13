@@ -18,11 +18,11 @@
 
 (*2*) The stay ends (as described in subsection (a)(5) of this section) on or before the 60th day of the stay period.
 
-(*3*) A stay of enrollment lasts no longer than 60 days from the postmark date of the notification letter, which is the effective date of the stay.
+(3) A stay of enrollment lasts no longer than 60 days from the postmark date of the notification letter, which is the effective date of the stay.
 
-(*4*) CMS notifies the affected provider or supplier in writing of the imposition of the stay.
+(4) CMS notifies the affected provider or supplier in writing of the imposition of the stay.
 
-(*5*) A stay of enrollment ends on the date on which CMS or its contractor determines that the provider or supplier has resumed compliance with all Medicare enrollment requirements in Title 42 or the day after the 60-day stay period expires, whichever occurs first.
+(5) A stay of enrollment ends on the date on which CMS or its contractor determines that the provider or supplier has resumed compliance with all Medicare enrollment requirements in Title 42 or the day after the 60-day stay period expires, whichever occurs first.
 
 (b)(1) If a provider or supplier receives written notice from CMS or its contractor that the provider or supplier is subject to a stay under this section, the provider or supplier has 15 calendar days from the date of the written notice to submit a rebuttal to the stay as described in paragraph (b) of this section.
 
@@ -52,4 +52,4 @@
 
 (B) In all cases other than that described in paragraph (b)(8)(ii)(A) of this section, a stay rebuttal that was submitted in compliance with the requirements of paragraph (b) of this section is considered separately and independently of any review of any other rebuttal or, for revocations, appeal under 42 CFR part 498.
 
-[88 FR 79542, Nov. 16, 2023]
+[88 FR 79542, Nov. 16, 2023, as amended at 89 FR 9784, Feb. 12, 2024]

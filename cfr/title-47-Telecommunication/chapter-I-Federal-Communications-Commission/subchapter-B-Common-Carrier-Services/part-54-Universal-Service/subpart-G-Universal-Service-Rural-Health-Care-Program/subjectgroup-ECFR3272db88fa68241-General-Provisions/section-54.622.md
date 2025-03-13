@@ -152,4 +152,4 @@ Link to an amendment published at 89 FR 1846, Jan. 11, 2024.
 
 (5) *Annual undiscounted cost of $10,000 or less.* An applicant under the Healthcare Connect Fund Program that seeks support for $10,000 or less of total undiscounted eligible expenses for a single year is exempt from the competitive bidding requirements under this section, if the term of the contract is one year or less. This exemption does not apply to applicants under the Telecommunications Program.
 
-[84 FR 54979, Oct. 11, 2019, as amended at 88 FR 17396, Mar. 23, 2023]Effective Date Note:At 89 FR , Jan. 11 2024, § 54.622 was amended by revising paragraphs (e)(1)(i) and (ii) and adding paragraph (i)(3)(iv), these amendments were delayed indefinitely.
+[84 FR 54979, Oct. 11, 2019, as amended at 88 FR 17396, Mar. 23, 2023]Effective Date Note:At 89 FR 1846, Jan. 11 2024, § 54.622 was amended by revising paragraphs (e)(1)(i) and (ii) and adding paragraph (i)(3)(iv), these amendments were delayed indefinitely.

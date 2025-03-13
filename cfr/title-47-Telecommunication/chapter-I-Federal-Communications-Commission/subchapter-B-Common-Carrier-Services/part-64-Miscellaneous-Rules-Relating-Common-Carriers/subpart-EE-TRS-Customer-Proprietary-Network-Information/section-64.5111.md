@@ -1,5 +1,7 @@
 ##### § 64.5111 Notification of customer proprietary network information security breaches. #####
 
+Link to an amendment published at 89 FR 10003, Feb. 12, 2024.
+
 (a) A TRS provider shall notify law enforcement of a breach of its customers' CPNI as provided in this section. The TRS provider shall not notify its customers or disclose the breach publicly, whether voluntarily or under state or local law or these rules, until it has completed the process of notifying law enforcement pursuant to paragraph (b) of this section. The TRS provider shall file a copy of the notification with the Disability Rights Office of the Consumer and Governmental Affairs Bureau at the same time as when the TRS provider notifies the customers.
 
 (b) As soon as practicable, and in no event later than seven (7) business days, after reasonable determination of the breach, the TRS provider shall electronically notify the United States Secret Service (USSS) and the Federal Bureau of Investigation (FBI) through a central reporting facility. The Commission will maintain a link to the reporting facility at *http://www.fcc.gov/eb/cpni.*

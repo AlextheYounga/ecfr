@@ -1,0 +1,3 @@
+##### § 301.10 State plan. #####
+
+The State plan is a comprehensive statement submitted by the IV-D agency describing the nature and scope of its program and giving assurance that it will be administered in conformity with the specific requirements stipulated in title IV-D, the regulations in Subtitle A and this chapter of this title, and other applicable official issuances of the Department. The State plan contains all information necessary for the Office to determine whether the plan can be approved, as a basis for Federal financial participation in the State program.

@@ -1,5 +1,7 @@
 ##### § 22.80 Permits for eagle take that is associated with, but not the purpose of, an activity. #####
 
+Link to an amendment published at 89 FR 9958, Feb. 12, 2024.
+
 (a) *Purpose and scope.* This permit authorizes take of bald eagles and golden eagles where the take is compatible with the preservation of the bald eagle and the golden eagle; is necessary to protect an interest in a particular locality; is associated with, but not the purpose of, the activity; and cannot practicably be avoided.
 
 (b) *Definitions.* In addition to the definitions contained in part 10 of this subchapter, and § 22.6, the following definition applies in this section:

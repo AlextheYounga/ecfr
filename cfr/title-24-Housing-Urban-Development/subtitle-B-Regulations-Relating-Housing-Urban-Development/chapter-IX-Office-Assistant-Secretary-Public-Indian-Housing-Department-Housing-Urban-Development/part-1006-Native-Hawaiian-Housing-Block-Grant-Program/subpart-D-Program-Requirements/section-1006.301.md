@@ -1,5 +1,7 @@
 ##### § 1006.301 Eligible families. #####
 
+Link to an amendment published at 89 FR 9761, Feb. 12, 2024.
+
 (a) Assistance for eligible housing activities under the Act and this part is limited to low-income Native Hawaiian families who are eligible to reside on the Hawaiian Home Lands, except as provided under paragraphs (b) and (c), of this section.
 
 (b) *Exception to low-income requirement*—(1) *Other Native Hawaiian families.* The DHHL may provide assistance for homeownership activities and through loan guarantee activities to Native Hawaiian families who are not low-income families, as approved by HUD, to address a need for housing for those families that cannot be reasonably met without that assistance.

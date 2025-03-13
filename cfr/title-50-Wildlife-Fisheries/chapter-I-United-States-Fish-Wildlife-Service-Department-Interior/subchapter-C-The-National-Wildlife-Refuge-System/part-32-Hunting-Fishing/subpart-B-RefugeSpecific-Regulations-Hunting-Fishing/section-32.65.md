@@ -32,7 +32,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (C) Parking for non-ambulatory anglers is available adjacent to the dock at D Pool. All other anglers must enter the area by foot or bicycle.
 
-(b) Chincoteague National Wildlife Refuge—(1) *Migratory game bird hunting.* We allow hunting of waterfowl, coot, snipe, gallinule, dove, woodcock, crow, and rail on designated areas of the refuge subject to the following conditions:
+(b) *Chincoteague National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of waterfowl, coot, snipe, gallinule, dove, woodcock, crow, and rail on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters must obtain and possess a signed refuge hunt brochure while hunting on the refuge.
 
@@ -88,7 +88,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) We allow the possession or use of only three surf fishing poles per licensed angler, and those poles must be attended at all times. This includes persons age 65 or older who are license-exempt in Virginia.
 
-(c) Eastern Shore of Virginia National Wildlife Refuge—(1) *Migratory game bird hunting.* We allow hunting of waterfowl, rail, snipe, gallinule, coot, woodcock, dove, and crow on designated areas of the refuge subject to the following conditions:
+(c) *Eastern Shore of Virginia National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of waterfowl, rail, snipe, gallinule, coot, woodcock, dove, and crow on designated areas of the refuge subject to the following conditions:
 
 (i) We allow holders of a signed refuge hunt brochure (signed brochure) to access areas of the refuge typically closed to the non-hunting public. All occupants of a vehicle or hunt party must possess a signed brochure and be actively engaged in hunting. We allow an exception for those persons aiding a disabled person who possesses a valid State-issued Commonwealth of Virginia Disabled Resident Lifetime License or Commonwealth of Virginia Resident Disabled Veteran's Lifetime License.
 
@@ -200,7 +200,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We require a Special Use Permit (FWS Form 3-1383-G) for vehicular access to the boat ramp on Interior Ditch Road on the west side of Lake Drummond.
 
-(h) *James River National Wildlife Refuge.*(1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:
+(h) *James River National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:
 
 (i) We allow waterfowl hunting only during the mentor-led hunts.
 
@@ -320,7 +320,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) We prohibit the use of lead fishing tackle.
 
-(m) *Rappahannock River Valley National Wildlife Refuge.*(1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:
+(m) *Rappahannock River Valley National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters may only hunt waterfowl during designated days and times. The refuge provides dates for the waterfowl hunting season in the annual refuge hunt brochure.
 
@@ -360,7 +360,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vii) We prohibit the use of boats propelled by gasoline motors, sail, or mechanically operated paddle wheel while fishing.
 
-(n) *Wallops Island National Wildlife Refuge.*(1) *Migratory game bird hunting.* We allow hunting of waterfowl, rail, coot, snipe, gallinule, dove, woodcock, and crow on designated areas of the refuge subject to the following conditions:
+(n) *Wallops Island National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of waterfowl, rail, coot, snipe, gallinule, dove, woodcock, and crow on designated areas of the refuge subject to the following conditions:
 
 (i) You must obtain and possess a signed refuge hunt brochure while hunting on the refuge.
 

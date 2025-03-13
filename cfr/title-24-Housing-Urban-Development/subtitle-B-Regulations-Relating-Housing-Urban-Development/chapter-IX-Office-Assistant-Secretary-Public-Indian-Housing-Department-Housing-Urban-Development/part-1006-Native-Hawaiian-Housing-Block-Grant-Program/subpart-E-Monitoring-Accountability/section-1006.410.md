@@ -1,5 +1,7 @@
 ##### § 1006.410 Performance reports. #####
 
+Link to an amendment published at 89 FR 9764, Feb. 12, 2024.
+
 (a) *Requirement.* For each fiscal year, the DHHL must:
 
 (1) Review the progress the DHHL has made during that fiscal year in achieving goals stated in its housing plan; and

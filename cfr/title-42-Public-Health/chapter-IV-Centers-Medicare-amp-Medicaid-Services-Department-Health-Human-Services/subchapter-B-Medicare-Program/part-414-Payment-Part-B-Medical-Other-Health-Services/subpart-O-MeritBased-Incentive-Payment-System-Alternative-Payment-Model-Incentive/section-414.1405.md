@@ -26,7 +26,7 @@
 
 (ii) The performance threshold for the 2025 MIPS payment year is 75 points. The prior period used to determine the performance threshold is the 2019 MIPS payment year.
 
-(iii) The performance threshold for the 2025 MIPS payment year is 75 points. The prior period to determine the performance threshold is the 2019 MIPS payment year.
+(iii) The performance threshold for the 2026 MIPS payment year is 75 points. The prior period to determine the performance threshold is the 2019 MIPS payment year.
 
 (c) *Applicable percent.* For MIPS payment year 2019, 4 percent. For MIPS payment year 2020, 5 percent. For MIPS payment year 2021, 7 percent. For MIPS payment year 2022 and each subsequent MIPS payment year, 9 percent.
 
@@ -58,4 +58,4 @@
 
 (g) *Performance threshold methodology.* For each of the 2024, 2025, and 2026 MIPS payment years, the performance threshold is the mean of the final scores for all MIPS eligible clinicians from a prior period as specified under paragraph (b) of this section.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53960, Nov. 16, 2017; 83 FR 60089, Nov. 23, 2018; 84 FR 63200, Nov. 15, 2019; 86 FR 65681, Nov. 19, 2021; 87 FR 70229, Nov. 18, 2022; 88 FR 79538, Nov. 16, 2023]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53960, Nov. 16, 2017; 83 FR 60089, Nov. 23, 2018; 84 FR 63200, Nov. 15, 2019; 86 FR 65681, Nov. 19, 2021; 87 FR 70229, Nov. 18, 2022; 88 FR 79538, Nov. 16, 2023; 89 FR 9784, Feb. 12, 2024]

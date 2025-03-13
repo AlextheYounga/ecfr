@@ -1,5 +1,7 @@
 ##### § 13.24 Right of succession by certain persons. #####
 
+Link to an amendment published at 89 FR 9957, Feb. 12, 2024.
+
 (a) Certain persons other than the permittee are authorized to carry on a permitted activity for the remainder of the term of a current permit, provided they comply with the provisions of paragraph (b) of this section. Such persons are the following:
 
 (1) The surviving spouse, child, executor, administrator, or other legal representative of a deceased permittee; or

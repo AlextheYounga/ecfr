@@ -1,5 +1,7 @@
 ##### § 1006.305 Low-income requirement and income targeting. #####
 
+Link to an amendment published at 89 FR 9762, Feb. 12, 2024.
+
 (a) *In general.* Housing qualifies as affordable housing for purposes of the Act and this part only if each dwelling unit in the housing:
 
 (1) In the case of rental housing, is made available for occupancy only by a family that is a low-income family at the time of the initial occupancy of that family of that unit; and

@@ -21,7 +21,6 @@ Any person desiring to inspect Commission records that are not specified in § 0
 (d)(1) Requests shall be:
 
 (i) Filed electronically through the internet at *https://www.foiaonline.gov/foiaonline/action/public/home;* or
-or
 
 (ii) Delivered or mailed to the Managing Director at the address indicated in § 0.401(a), Attn: FOIA Request.
 

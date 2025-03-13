@@ -1,5 +1,7 @@
 ##### § 1006.205 Development. #####
 
+Link to an amendment published at 89 FR 9761, Feb. 12, 2024.
+
 (a) NHHBG funds may be used for the acquisition, new construction, reconstruction, or moderate or substantial rehabilitation of affordable housing for homeownership or rental, which may include:
 
 (1) Real property acquisition;

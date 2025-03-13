@@ -1,7 +1,5 @@
 ##### § 246.2 Definitions. #####
 
-Link to an amendment published at 88 FR 86561, Dec. 14, 2023.
-
 For the purpose of this part and all contracts, guidelines, instructions, forms and other documents related hereto, the term:
 
 *2 CFR part 200,* means the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards published by OMB. The part reference covers applicable: Acronyms and Definitions (subpart A), General Provisions (subpart B), Post Federal Award Requirements (subpart D), Cost Principles (subpart E), and Audit Requirements (subpart F). (NOTE: Pre-Federal Award Requirements and Contents of Federal Awards (subpart C) does not apply to the National School Lunch Program).
@@ -67,6 +65,16 @@ For the purpose of this part and all contracts, guidelines, instructions, forms 
 *Electronic Benefit Transfer* (EBT) means a method that permits electronic access to WIC food benefits using a card or other access device approved by the Secretary.
 
 *Electronic signature* means an electronic sound, symbol, or process, attached to or associated with an application or other record and executed and or adopted by a person with the intent to sign the record.
+
+*Emergency period* means a period during which there exists:
+
+(1) A presidentially declared major disaster as defined under section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 *et seq.*).
+
+(2) A presidentially declared emergency as defined under section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 *et seq.*).
+
+(3) A public health emergency declared by the Secretary of HHS under section 319 of the Public Health Service Act (42 U.S.C. 247d).
+
+(4) A renewal of such a public health emergency pursuant to section 319.
 
 *Employee fraud and abuse* means the intentional conduct of a State, local agency or clinic employee which violates program regulations, policies, or procedures, including, but not limited to, misappropriating or altering food instruments or cash-value vouchers, entering false or misleading information in case records, or creating case records for fictitious participants.
 
@@ -178,7 +186,11 @@ For the purpose of this part and all contracts, guidelines, instructions, forms 
 
 *Proxy* means any person designated by a woman participant, or by a parent or caretaker of an infant or child participant, to obtain and transact food instruments or cash-value vouchers or to obtain supplemental foods on behalf of a participant. The proxy must be designated consistent with the State agency's procedures established pursuant to § 246.12(r)(1). Parents or caretakers applying on behalf of child and infant participants are not proxies.
 
+*Qualified administrative requirement* means a statutory requirement under Section 17 of the Child Nutrition Act of 1966 (CNA; 42 U.S.C. 1786) or a regulatory requirement issued pursuant to this section.
+
 *Rebate* means the amount of money refunded under cost containment procedures to any State agency from the manufacturer of the particular food product as the result of the purchase of the supplemental food with a voucher or other purchase instrument by a participant in each State agency's program. Such rebates shall be payments made subsequent to the exchange of a food instrument for food.
+
+*Recall* means recall as defined in 21 CFR 7.3(g) or any successor regulation. Recalls may be conducted voluntarily by a manufacturer or may be required by FDA.
 
 *Remote Indian or Native village* means an Indian or Native village that is located in a rural area, has a population of less than 5,000 inhabitants, and is not accessible year-round by means of a public road (as defined in 23 U.S.C. 101).
 
@@ -205,6 +217,8 @@ For the purpose of this part and all contracts, guidelines, instructions, forms 
 *Supplemental foods* means those foods containing nutrients determined by nutritional research to be lacking in the diets of pregnant, breastfeeding and postpartum women, infants, and children, and foods that promote the health of the population served by the WIC Program as indicated by relevant nutrition science, public health concerns, and cultural eating patterns, as prescribed by the Secretary in § 246.10.
 
 *Supplemental Nutrition Assistance Program (SNAP),* formerly known as the Food Stamp Program, is the program authorized by the Food and Nutrition Act of 2008 (7 U.S.C. 2011, *et. seq.*), in which eligible households receive benefits that can be used to purchase food items from authorized retail stores and farmers' markets.
+
+*Supply chain disruption* means a shortage of WIC supplemental foods that limits WIC participants' ability reasonably to purchase supplemental foods using WIC benefits within a State agency's jurisdiction, as determined, and declared by the Secretary for the purposes of WIC.
 
 *USDA implementing regulations* include the following: 2 CFR part 400, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards; 2 CFR part 415, General Program Administrative Regulations; 2 CFR part 416, General Program Administrative Regulations for Grants and Cooperative Agreements to State and Local Governments; and 2 CFR part 418, New Restrictions on Lobbying.
 

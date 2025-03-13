@@ -1,5 +1,7 @@
 ##### § 1006.101 Housing plan requirements. #####
 
+Link to an amendment published at 89 FR 9761, Feb. 12, 2024.
+
 The DHHL must submit a housing plan for each Federal Fiscal Year grant. The housing plan has two components, a five-year plan and a one-year plan, as follows:
 
 (a) *Five-year plan.* Each housing plan must contain, for the 5-year period beginning with the fiscal year for which the plan is first submitted, the following information:

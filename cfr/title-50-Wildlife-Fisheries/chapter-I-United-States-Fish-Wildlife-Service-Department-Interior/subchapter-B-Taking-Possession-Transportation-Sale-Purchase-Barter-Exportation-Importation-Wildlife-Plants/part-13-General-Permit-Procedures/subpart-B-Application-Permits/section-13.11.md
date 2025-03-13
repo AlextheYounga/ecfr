@@ -1,5 +1,7 @@
 ##### § 13.11 Application procedures. #####
 
+Link to an amendment published at 89 FR 9956, Feb. 12, 2024.
+
 The Service may not issue a permit for any activity authorized by this subchapter B unless you have filed an application under the following procedures:
 
 (a) *Forms.* Applications must be submitted in writing on a Federal Fish and Wildlife License/Permit Application (Form 3-200) or as otherwise specifically directed by the Service.

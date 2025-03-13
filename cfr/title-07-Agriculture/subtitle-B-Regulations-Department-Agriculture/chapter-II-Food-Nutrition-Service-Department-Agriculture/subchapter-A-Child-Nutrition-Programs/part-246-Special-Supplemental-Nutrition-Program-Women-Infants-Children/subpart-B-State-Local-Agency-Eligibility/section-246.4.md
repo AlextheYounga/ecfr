@@ -1,7 +1,5 @@
 ##### § 246.4 State plan. #####
 
-Link to an amendment published at 88 FR 86562, Dec. 14, 2023.
-
 (a) *Requirements.* By August 15 of each year, each State agency shall submit to FNS for approval a State Plan for the following fiscal year as a prerequisite to receiving funds under this section. The State agency may submit the State Plan in the format provided by FNS guidance. Alternatively, the State agency may submit the Plan in combination with other federally required planning documents or develop its own format, provided that the information required below is included. FNS requests advance notification that a State agency intends to use an alternative format. The State Plan shall be signed by the State designated official responsible for ensuring that the Program is operated in accordance with the State Plan. FNS will provide written approval or denial of a completed State Plan or amendment within 30 days of receipt. Within 15 days after FNS receives an incomplete Plan, FNS will notify the State agency that additional information is needed to complete the Plan. Any disapproval will be accompanied by a statement of the reasons for the disapproval. After receiving approval of the State Plan, each State agency shall only submit to FNS for approval substantive changes in the State Plan. A complete and approved Plan shall include:
 
 (1) An outline of the State agency's goals and objectives for improving Program operations, to include EBT and/or EBT implementation.
@@ -139,6 +137,40 @@ Link to an amendment published at 88 FR 86562, Dec. 14, 2023.
 (28) The State agency's plan for collecting and maintaining information on cases of participant and employee fraud and abuse. Such information should include the nature of the fraud detected and the associated dollar losses.
 
 (29) The State agency's Universal Identifier number.
+
+(30) Plans of alternate operating procedures, commonly referred to as disaster plans, to support the continuation of WIC services during an emergency period as defined at § 246.2, supply chain disruption as defined at § 246.2, and supplemental food recall. State agencies must consider the unique and sudden nature of an emergency period, supplemental food recall, and other supply chain disruptions when developing alternate operating procedures. Alternate procedures must describe the process by which the State agency will minimize the negative impact to WIC operations and services and ensure the availability of authorized supplemental foods, especially infant formula, to the extent feasible. At a minimum, alternate operating procedures must include-
+
+(i) A plan to address operation of specific Program areas including-
+
+(A) Access to Program records;
+
+(B) Alternate certification and benefit issuance
+
+(C) Verification of Certification (VOC) issuance
+
+(D) Food package adjustments;
+
+(E) Vendor requirements;
+
+(F) Benefit redemption; and
+
+(G) Food delivery systems.
+
+(ii) A plan to ensure continuity of WIC services and address the needs of participants with documented qualifying conditions receiving Food Package III, rural areas, Indian tribal organizations, and other priority populations in the affected area as applicable;
+
+(iii) A designated emergency contact within the State agency for emergency periods, supplemental food recalls, and other supply chain disruptions;
+
+(iv) A designated emergency contact within the State agency to address the needs of participants with documented qualifying conditions receiving Food Package III;
+
+(v) A plan to establish relationships with relief agencies responsible for disaster and public health emergency planning applicable to the State agency's jurisdiction and participants to support data-informed approaches when responding to emergency periods, supplemental food recalls, and other supply chain disruptions;
+
+(vi) A plan to limit the disruption of infant formula benefits in the event of an emergency period, supplemental food recall, and other supply chain disruptions;
+
+(vii) A communications plan to keep FNS, State and local agency staff, authorized WIC vendors, WIC participants, and the public informed during an emergency period supplemental food recall, and other supply chain disruptions;
+
+(viii) A plan to report to FNS on alternate operating procedures implemented during an emergency period, supplemental food recall, and other supply chain disruptions which includes Program data and information on the impact of benefit use and delivery; and
+
+(ix) A plan to adjust State agency specific minimum requirements for the variety and quantity of supplemental foods that a vendor applicant must stock to be authorized.
 
 (b) *Public comment.* The State agency shall establish a procedure under which members of the general public are provided an opportunity to comment on the development of the State agency plan.
 

@@ -22,6 +22,8 @@
 
 (3) *Relationship to ONC-ACBs and ONC-ATLs.* (i) ONC's review of certified health IT or a health IT developer's actions or practices is independent of, and may be in addition to, any surveillance of certified health IT conducted by an ONC-ACB.
 
+(ii) ONC may assert exclusive review of certified health IT as to any matters under review by ONC and any similar matters under surveillance by an ONC-ACB.
+
 (iii) ONC's determination on matters under its review is controlling and supersedes any determination by an ONC-ACB on the same matters.
 
 (iv) An ONC-ACB and ONC-ATL shall provide ONC with any available information that ONC deems relevant to its review of certified health IT or a health IT developer's actions or practices.
