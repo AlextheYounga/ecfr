@@ -1,6 +1,6 @@
 ##### § 950.15 Approval of Wyoming regulatory program amendments. #####
 
-Link to an amendment published at 90 FR 2620, Jan. 13, 2025.
+Link to an amendment published at 90 FR 2620, Jan. 13, 2025.This amendment was delayed until Mar. 21, 2025, at 90 FR 9516, Feb. 13, 2025.
 
 The following is a list of the dates amendments were submitted to OSM, the dates when the Director's decision approving all, or portions of these amendments, were published in the Federal Register and the State citations or a brief description of each amendment. The amendments in this table are listed in order of the date of final publication in the Federal Register.
 

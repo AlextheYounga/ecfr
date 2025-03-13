@@ -1,6 +1,6 @@
 ##### § 7.70 Glen Canyon National Recreation Area. #####
 
-Link to an amendment published at 90 FR 2629, Jan. 13, 2025.
+Link to an amendment published at 90 FR 2629, Jan. 13, 2025.This amendment was delayed until Mar. 21, 2025, at 90 FR 9518, Feb. 13, 2025.
 
 (a) *Designated airstrips.* (1) Wahweap, latitude 36°59′45″ N., longitude 111°30′45″ W.
 

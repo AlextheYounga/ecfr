@@ -1,6 +1,6 @@
 ##### § 83.1 What terms are used in this part? #####
 
-Link to an amendment published at 90 FR 3643, Jan. 15, 2025.
+Link to an amendment published at 90 FR 3643, Jan. 15, 2025.This amendment was delayed until Mar. 21, 2025, at 90 FR 9515, Feb. 13, 2025.
 
 As used in this part:
 
