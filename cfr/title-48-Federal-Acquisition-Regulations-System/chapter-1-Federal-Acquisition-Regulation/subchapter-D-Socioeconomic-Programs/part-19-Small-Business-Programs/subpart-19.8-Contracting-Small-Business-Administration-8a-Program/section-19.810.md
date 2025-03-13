@@ -1,7 +1,5 @@
 ##### 19.810 SBA appeals. #####
 
-Link to an amendment published at 88 FR 69525, Oct. 5, 2023.
-
 (a) The SBA Administrator may submit the following matters for determination to the agency head if the SBA and the contracting officer fail to agree on them:
 
 (1) The decision not to make a particular acquisition available for award under the 8(a) Program.
@@ -9,6 +7,8 @@ Link to an amendment published at 88 FR 69525, Oct. 5, 2023.
 (2) A contracting officer's decision to reject a specific 8(a) participant for award of an 8(a) contract after SBA's acceptance of the requirement for the 8(a) program.
 
 (3) The terms and conditions of a proposed 8(a) contract, including the contracting officer's NAICS code designation and estimate of the fair market price.
+
+(4) A contracting officer's decision that an acquisition previously procured under the 8(a) program is a new requirement not subject to the release requirements at 13 CFR 124.504(d)(1) (see 19.815(a) and (d)(1)).
 
 (b)(1) Notification by SBA of an intent to appeal to the agency head—
 
@@ -20,4 +20,4 @@ Link to an amendment published at 88 FR 69525, Oct. 5, 2023.
 
 (c) If the SBA appeal is denied, the decision of the agency head shall specify the reasons for the denial, including the reasons why the selected participant was determined incapable of performance, if appropriate. The decision shall be made a part of the contract file.
 
-[54 FR 46005, Oct. 31, 1989, as amended at 64 FR 32745, June 17, 1999; 65 FR 46057, July 26, 2000, as amended at 82 FR 4729, Jan. 13, 2017; 85 FR 11766, Feb. 27, 2020]
+[54 FR 46005, Oct. 31, 1989, as amended at 64 FR 32745, June 17, 1999; 65 FR 46057, July 26, 2000, as amended at 82 FR 4729, Jan. 13, 2017; 85 FR 11766, Feb. 27, 2020; 88 FR 69525, Oct. 5, 2023]

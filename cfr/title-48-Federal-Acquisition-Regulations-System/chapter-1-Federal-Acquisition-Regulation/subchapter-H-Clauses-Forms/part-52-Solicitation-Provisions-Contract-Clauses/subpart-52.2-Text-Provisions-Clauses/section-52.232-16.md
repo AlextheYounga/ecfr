@@ -192,4 +192,4 @@ The Government will make progress payments to the Contractor when requested as w
 
 (n) The provisions of this clause will not be applicable to individual orders at or below the simplified acquisition threshold, as defined in FAR 2.101 on the date of individual order award.
 
-[48 FR 42478, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting 52.232-16, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[48 FR 42478, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 52.232-16, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

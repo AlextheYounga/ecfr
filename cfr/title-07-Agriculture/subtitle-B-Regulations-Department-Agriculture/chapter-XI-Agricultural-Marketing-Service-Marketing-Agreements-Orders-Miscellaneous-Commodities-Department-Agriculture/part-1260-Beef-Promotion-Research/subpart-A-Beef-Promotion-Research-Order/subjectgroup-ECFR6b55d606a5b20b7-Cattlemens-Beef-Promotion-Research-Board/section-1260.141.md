@@ -1,5 +1,7 @@
 ##### § 1260.141 Membership of Board. #####
 
+Link to an amendment published at 88 FR 76100, Nov. 6, 2023.
+
 (a) Beginning with the 2020 Board nominations and the associated appointments effective early in the year 2021, the United States shall be divided into 38 geographical units and 1 unit representing importers, for a total of 39 units. The number of Board members from each unit shall be as follows:
 
 Table 1 to Paragraph (a)—Cattle and Calves<sup>1</sup>

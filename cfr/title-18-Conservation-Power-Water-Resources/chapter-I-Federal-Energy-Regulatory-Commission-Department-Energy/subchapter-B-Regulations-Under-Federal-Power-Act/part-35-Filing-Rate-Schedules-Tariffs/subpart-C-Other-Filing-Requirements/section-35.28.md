@@ -1,7 +1,5 @@
 ##### § 35.28 Non-discriminatory open access transmission tariff. #####
 
-Link to an amendment published at 88 FR 61261, Sept. 6, 2023.
-
 (a) *Applicability.* This section applies to any public utility that owns, controls or operates facilities used for the transmission of electric energy in interstate commerce and to any non-public utility that seeks voluntary compliance with jurisdictional transmission tariff reciprocity conditions.
 
 (b) *Definitions*—(1) *Requirements service agreement* means a contract or rate schedule under which a public utility provides any portion of a customer's bundled wholesale power requirements.
@@ -102,7 +100,9 @@ Link to an amendment published at 88 FR 61261, Sept. 6, 2023.
 
 (i) Any public utility that seeks a deviation from the standard interconnection procedures and agreement or the standard small generator interconnection procedures and agreement required by Commission rulemaking proceedings promulgating and amending such interconnection procedures and agreements, must demonstrate that the deviation is consistent with the principles set forth in Commission rulemaking proceedings promulgating and amending such interconnection procedures and agreements.
 
-(ii)-(iv) [Reserved]
+(ii) Any public utility that conducts interconnection studies shall be liable for and eligible to appeal certain penalties under the interconnection procedures and agreements adopted by the Commission-approved independent system operator or regional transmission organization under paragraph (f)(1) of this section following that public utility's failure to complete an interconnection study by the appropriate deadline.
+
+(iii)-(iv) [Reserved]
 
 (2) The non-public utility procedures for tariff reciprocity compliance described in paragraph (e) of this section are applicable to the standard interconnection procedures and agreements.
 

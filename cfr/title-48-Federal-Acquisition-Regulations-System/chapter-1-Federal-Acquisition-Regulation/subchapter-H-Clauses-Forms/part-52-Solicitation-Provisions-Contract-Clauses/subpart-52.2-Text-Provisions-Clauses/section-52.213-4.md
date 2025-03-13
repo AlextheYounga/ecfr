@@ -1,10 +1,10 @@
 ##### 52.213-4 Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services). #####
 
-Link to an amendment published at 88 FR 69522, Oct. 5, 2023.Link to an amendment published at 88 FR 69517, Oct. 5, 2023.
+Link to an amendment published at 88 FR 69517, Oct. 5, 2023.
 
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (SEP 2023)
+Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (NOV 2023)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -46,7 +46,7 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (vi) 52.233-1, Disputes (MAY 2014).
 
-(vii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (SEP 2023).
+(vii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (NOV 2023).
 
 (viii) 52.253-1, Computer Generated Forms (JAN 1991).
 
@@ -54,35 +54,37 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (1) The clauses listed below implement provisions of law or Executive order:
 
-(i) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (JUN 2020) (Pub. L. 109-282) (31 U.S.C. 6101 note) (Applies to contracts valued at or above the threshold specified in FAR 4.1403(a) on the date of award of this contract).
+(i) 52.203-17, Contractor Employee Whistleblower Rights (NOV 2023) (41 U.S.C. 4712); this clause does not apply to contracts of DoD, NASA, the Coast Guard, or applicable elements of the intelligence community—see FAR 3.900(a).
 
-(ii) 52.222-19, Child Labor—Cooperation with Authorities and Remedies (DEC 2022) (E.O. 13126) (Applies to contracts for supplies exceeding the micro-purchase threshold, as defined in 2.101 on the date of award of this contract).
+(ii) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (JUN 2020) (Pub. L. 109-282) (31 U.S.C. 6101 note) (Applies to contracts valued at or above the threshold specified in FAR 4.1403(a) on the date of award of this contract).
 
-(iii) 52.222-20, Contracts for Materials, Supplies, Articles, and Equipment (JUN 2020) (41 U.S.C. chapter 65) (Applies to supply contracts over the threshold specified in FAR 22.602 on the date of award of this contract, in the United States, Puerto Rico, or the U.S. Virgin Islands).
+(iii) 52.222-19, Child Labor—Cooperation with Authorities and Remedies (DEC 2022) (E.O. 13126) (Applies to contracts for supplies exceeding the micro-purchase threshold, as defined in 2.101 on the date of award of this contract).
 
-(iv) 52.222-35, Equal Opportunity for Veterans (JUN 2020) (38 U.S.C. 4212) (Applies to contracts valued at or above the threshold specified in FAR 22.1303(a) on the date of award of this contract).
+(iv) 52.222-20, Contracts for Materials, Supplies, Articles, and Equipment (JUN 2020) (41 U.S.C. chapter 65) (Applies to supply contracts over the threshold specified in FAR 22.602 on the date of award of this contract, in the United States, Puerto Rico, or the U.S. Virgin Islands).
 
-(v) 52.222-36, Equal Employment for Workers with Disabilities (JUN 2020) (29 U.S.C. 793) (Applies to contracts over the threshold specified in FAR 22.1408(a) on the date of award of this contract, unless the work is to be performed outside the United States by employees recruited outside the United States). (For purposes of this clause, “United States” includes the 50 States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, and Wake Island.)
+(v) 52.222-35, Equal Opportunity for Veterans (JUN 2020) (38 U.S.C. 4212) (Applies to contracts valued at or above the threshold specified in FAR 22.1303(a) on the date of award of this contract).
 
-(vi) 52.222-37, Employment Reports on Veterans (JUN 2020)(38 U.S.C. 4212) (Applies to contracts valued at or above the threshold specified in FAR 22.1303(a) on the date of award of this contract).
+(vi) 52.222-36, Equal Employment for Workers with Disabilities (JUN 2020) (29 U.S.C. 793) (Applies to contracts over the threshold specified in FAR 22.1408(a) on the date of award of this contract, unless the work is to be performed outside the United States by employees recruited outside the United States). (For purposes of this clause, “United States” includes the 50 States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, and Wake Island.)
 
-(vii) 52.222-41, Service Contract Labor Standards (AUG 2018) (41 U.S.C. chapter 67) (Applies to service contracts over $2,500 that are subject to the Service Contract Labor Standards statute and will be performed in the United States, District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, Johnston Island, Wake Island, or the outer Continental Shelf).
+(vii) 52.222-37, Employment Reports on Veterans (JUN 2020)(38 U.S.C. 4212) (Applies to contracts valued at or above the threshold specified in FAR 22.1303(a) on the date of award of this contract).
 
-(viii)(A) 52.222-50, Combating Trafficking in Persons (NOV 2021) (22 U.S.C. chapter 78 and E.O. 13627) (Applies to all solicitations and contracts).
+(viii) 52.222-41, Service Contract Labor Standards (AUG 2018) (41 U.S.C. chapter 67) (Applies to service contracts over $2,500 that are subject to the Service Contract Labor Standards statute and will be performed in the United States, District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, Johnston Island, Wake Island, or the outer Continental Shelf).
+
+(ix)(A) 52.222-50, Combating Trafficking in Persons (NOV 2021) (22 U.S.C. chapter 78 and E.O. 13627) (Applies to all solicitations and contracts).
 
 (B) Alternate I (MAR 2015) (Applies if the Contracting Officer has filled in the following information with regard to applicable directives or notices: Document title(s), source for obtaining document(s), and contract performance location outside the United States to which the document applies).
 
-(ix) 52.222-55, Minimum Wages for Contractor Workers Under Executive Order 14026 (JAN 2022) (Applies when 52.222-6 or 52.222-41 are in the contract and performance in whole or in part is in the United States (the 50 States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, Johnston Island, Wake Island, and the outer Continental Shelf as defined in the Outer Continental Shelf Lands Act (43 U.S.C. 1331, *et seq.*))).
+(x) 52.222-55, Minimum Wages for Contractor Workers Under Executive Order 14026 (JAN 2022) (Applies when 52.222-6 or 52.222-41 are in the contract and performance in whole or in part is in the United States (the 50 States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, Johnston Island, Wake Island, and the outer Continental Shelf as defined in the Outer Continental Shelf Lands Act (43 U.S.C. 1331, *et seq.*))).
 
-(x) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2022) (E.O. 13706) (Applies when 52.222-6 or 52.222-41 are in the contract and performance in whole or in part is in the United States (the 50 States and the District of Columbia.))
+(xi) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2022) (E.O. 13706) (Applies when 52.222-6 or 52.222-41 are in the contract and performance in whole or in part is in the United States (the 50 States and the District of Columbia.))
 
-(xi) 52.223-5, Pollution Prevention and Right-to-Know Information (MAY 2011) (E.O. 13423) (Applies to services performed on Federal facilities).
+(xii) 52.223-5, Pollution Prevention and Right-to-Know Information (MAY 2011) (E.O. 13423) (Applies to services performed on Federal facilities).
 
-(xii) 52.223-11, Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons (JUN 2016) (E.O. 13693)(applies to contracts for products as prescribed at FAR 23.804(a)(1)).
+(xiii) 52.223-11, Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons (JUN 2016) (E.O. 13693)(applies to contracts for products as prescribed at FAR 23.804(a)(1)).
 
-(xiii) 52.223-12, Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners (JUN 2016) (E.O. 13693) (Applies to maintenance, service, repair, or disposal of refrigeration equipment and air conditioners).
+(xiv) 52.223-12, Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners (JUN 2016) (E.O. 13693) (Applies to maintenance, service, repair, or disposal of refrigeration equipment and air conditioners).
 
-(xiv) 52.223-15, Energy Efficiency in Energy-Consuming Products (MAY 2020) (42 U.S.C. 8259b) (Unless exempt pursuant to 23.204, applies to contracts when energy-consuming products listed in the ENERGY STAR® Program or Federal Energy Management Program (FEMP) will be—
+(xv) 52.223-15, Energy Efficiency in Energy-Consuming Products (MAY 2020) (42 U.S.C. 8259b) (Unless exempt pursuant to 23.204, applies to contracts when energy-consuming products listed in the ENERGY STAR® Program or Federal Energy Management Program (FEMP) will be—
 
 (A) Delivered;
 
@@ -92,11 +94,11 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (D) Specified in the design of a building or work, or incorporated during its construction, renovation, or maintenance).
 
-(xv) 52.223-20, Aerosols (JUN 2016) (E.O. 13693) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons as a propellant or as a solvent; or contracts for maintenance or repair of electronic or mechanical devices).
+(xvi) 52.223-20, Aerosols (JUN 2016) (E.O. 13693) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons as a propellant or as a solvent; or contracts for maintenance or repair of electronic or mechanical devices).
 
-(xvi) 52.223-21, Foams (JUN 2016) (E.O. 13693) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons or refrigerant blends containing hydrofluorocarbons as a foam blowing agent; or contracts for construction of buildings or facilities.
+(xvii) 52.223-21, Foams (JUN 2016) (E.O. 13693) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons or refrigerant blends containing hydrofluorocarbons as a foam blowing agent; or contracts for construction of buildings or facilities.
 
-(xvii)(A) 52.225-1, Buy American—Supplies (OCT 2022) (41 U.S.C. chapter 67) (Applies to contracts for supplies, and to contracts for services involving the furnishing of supplies, for use in the United States or its outlying areas, if the value of the supply contract or supply portion of a service contract exceeds the micro-purchase threshold, as defined in 2.101 on the date of award of this contract, and the acquisition—
+(xviii)(A) 52.225-1, Buy American—Supplies (OCT 2022) (41 U.S.C. chapter 67) (Applies to contracts for supplies, and to contracts for services involving the furnishing of supplies, for use in the United States or its outlying areas, if the value of the supply contract or supply portion of a service contract exceeds the micro-purchase threshold, as defined in 2.101 on the date of award of this contract, and the acquisition—
 
 (*1*) Is set aside for small business concerns; or
 
@@ -106,13 +108,13 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (A) The cost of its components mined, produced, or manufactured in the United States exceeds \_\_\_\_ percent of the cost of all its components. [*Contracting officer to insert the percentage per instructions at 13.302-5(d)(4).*])
 
-(xviii) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (JUN 2020) (42 U.S.C. 1792) (Applies to contracts greater than the threshold specified in FAR 26.404 on the date of award of this contract, that provide for the provision, the service, or the sale of food in the United States).
+(xix) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (JUN 2020) (42 U.S.C. 1792) (Applies to contracts greater than the threshold specified in FAR 26.404 on the date of award of this contract, that provide for the provision, the service, or the sale of food in the United States).
 
-(xix) 52.232-33, Payment by Electronic Funds Transfer—System for Award Management (OCT 2018) (Applies when the payment will be made by electronic funds transfer (EFT) and the payment office uses the System for Award Management (SAM) as its source of EFT information).
+(xx) 52.232-33, Payment by Electronic Funds Transfer—System for Award Management (OCT 2018) (Applies when the payment will be made by electronic funds transfer (EFT) and the payment office uses the System for Award Management (SAM) as its source of EFT information).
 
-(xx) 52.232-34, Payment by Electronic Funds Transfer—Other than System for Award Management (JUL 2013) (Applies when the payment will be made by EFT and the payment office does not use the SAM database as its source of EFT information.)
+(xxi) 52.232-34, Payment by Electronic Funds Transfer—Other than System for Award Management (JUL 2013) (Applies when the payment will be made by EFT and the payment office does not use the SAM database as its source of EFT information.)
 
-(xxi) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (NOV 2021) (46 U.S.C. 55305) (Applies to supplies transported by ocean vessels (except for the types of subcontracts listed at 47.504(d).)
+(xxii) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (NOV 2021) (46 U.S.C. 55305) (Applies to supplies transported by ocean vessels (except for the types of subcontracts listed at 47.504(d).)
 
 (2) Listed below are additional clauses that may apply:
 

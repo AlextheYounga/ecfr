@@ -161,4 +161,4 @@ Foreign (Nondesignated Country) and Domestic Construction Materials Cost Compari
 
 (2) The Contractor shall use only domestic construction material, Recovery Act designated country manufactured construction material, or designated country unmanufactured construction material, other than Bahrainian, Mexican, or Omani construction material, in performing this contract, except as provided in paragraphs (b)(3) and (b)(4) of this clause.
 
-[74 FR 14628, Mar. 31, 2009]Editorial Note:For Federal Register citations affecting 52.225-23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[74 FR 14628, Mar. 31, 2009]Editorial Note:For Federal Register citations affecting § 52.225-23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

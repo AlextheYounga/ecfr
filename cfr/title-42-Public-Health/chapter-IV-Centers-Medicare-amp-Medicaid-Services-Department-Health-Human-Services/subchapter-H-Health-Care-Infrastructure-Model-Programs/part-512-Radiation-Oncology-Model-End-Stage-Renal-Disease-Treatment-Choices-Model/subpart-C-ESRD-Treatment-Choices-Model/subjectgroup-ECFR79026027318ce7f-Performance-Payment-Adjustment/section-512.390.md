@@ -1,5 +1,7 @@
 ##### § 512.390 Notification, data sharing, and targeted review. #####
 
+Link to an amendment published at 88 FR 76506, Nov. 6, 2023.
+
 (a) *Notification.* CMS will notify each ETC Participant, in a form and manner determined by CMS, of the ETC Participant's attributed beneficiaries, MPS, and PPA for a PPA Period no later than one month before the start of the applicable PPA Period.
 
 (b) *Data sharing with ETC Participants.* CMS shares certain beneficiary-identifiable data as described in paragraph (b)(1) of this section and certain aggregate data as described in paragraph (b)(2) of this section with ETC Participants regarding their attributed beneficiaries and performance under the ETC Model.

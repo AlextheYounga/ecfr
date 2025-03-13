@@ -1,5 +1,7 @@
 ##### § 413.232 Low-volume adjustment. #####
 
+Link to an amendment published at 88 FR 76505, Nov. 6, 2023.
+
 (a) CMS adjusts the base rate for low-volume ESRD facilities, as defined in paragraph (b) of this section.
 
 (b) A low-volume facility is an ESRD facility that, as determined based on the documentation submitted pursuant to paragraph (g) of this section:

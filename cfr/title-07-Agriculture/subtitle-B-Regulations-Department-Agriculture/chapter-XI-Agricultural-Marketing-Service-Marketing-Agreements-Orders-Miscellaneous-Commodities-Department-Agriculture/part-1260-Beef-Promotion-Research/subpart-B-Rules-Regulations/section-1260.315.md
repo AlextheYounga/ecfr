@@ -1,5 +1,7 @@
 ##### § 1260.315 Qualified State Beef Councils. #####
 
+Link to an amendment published at 88 FR 76102, Nov. 6, 2023.
+
 The following State beef promotion entities have been certified by the Board as Qualified State Beef Councils:
 
 (a) Alabama Cattlemen's Association.

@@ -69,4 +69,4 @@ Free Trade Agreement Country End Products (Other than Bahrainian, Korean, Morocc
 |             |                 |
 |             |                 |
 
-[List as necessary][64 FR 72435, Dec. 27, 1999; 65 FR 4633, Jan. 31, 2000]Editorial Note:For Federal Register citations affecting 52.225-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[List as necessary][64 FR 72435, Dec. 27, 1999; 65 FR 4633, Jan. 31, 2000]Editorial Note:For Federal Register citations affecting § 52.225-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

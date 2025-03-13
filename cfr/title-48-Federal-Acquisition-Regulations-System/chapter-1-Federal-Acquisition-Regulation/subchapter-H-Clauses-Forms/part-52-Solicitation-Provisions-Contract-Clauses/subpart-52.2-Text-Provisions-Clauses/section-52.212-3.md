@@ -1,10 +1,8 @@
 ##### 52.212-3 Offeror Representations and Certifications—Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 88 FR 69526, Oct. 5, 2023.
-
 As prescribed in 12.301(b)(2), insert the following provision:
 
-Offeror Representations and Certifications—Commercial Products and Commercial Services (SEP 2023)
+Offeror Representations and Certifications—Commercial Products and Commercial Services (NOV 2023)
 
 The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through *https://www.sam.gov.* If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (v) of this provision.
 
@@ -351,7 +349,7 @@ Other End Products:
 
 (k) *Certificates regarding exemptions from the application of the Service Contract Labor Standards.* (Certification by the offeror as to its compliance with respect to the contract also constitutes its certification as to compliance by its subcontractor if it subcontracts out the exempt services.) [*The contracting officer is to check a box to indicate if paragraph (k)(1) or (k)(2) applies.*]
 
-(1)□ Maintenance, calibration, or repair of certain equipment as described in FAR 22.1003-4(c)(1). The offeror □ does □ does not certify that—
+□ (1) Maintenance, calibration, or repair of certain equipment as described in FAR 22.1003-4(c)(1). The offeror □ does □ does not certify that—
 
 (i) The items of equipment to be serviced under this contract are used regularly for other than Governmental purposes and are sold or traded by the offeror (or subcontractor in the case of an exempt subcontract) in substantial quantities to the general public in the course of normal business operations;
 
@@ -359,7 +357,7 @@ Other End Products:
 
 (iii) The compensation (wage and fringe benefits) plan for all service employees performing work under the contract will be the same as that used for these employees and equivalent employees servicing the same equipment of commercial customers.
 
-(2)□ Certain services as described in FAR 22.1003-4(d)(1). The offeror □ does □ does not certify that—
+□ (2) Certain services as described in FAR 22.1003-4(d)(1). The offeror □ does □ does not certify that—
 
 (i) The services under the contract are offered and sold regularly to non-Governmental customers, and are provided by the offeror (or subcontractor in the case of an exempt subcontract) to the general public in substantial quantities in the course of normal business operations;
 

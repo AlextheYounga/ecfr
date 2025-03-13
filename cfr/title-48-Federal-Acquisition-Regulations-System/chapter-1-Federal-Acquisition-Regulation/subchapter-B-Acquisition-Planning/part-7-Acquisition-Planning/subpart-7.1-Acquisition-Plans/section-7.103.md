@@ -2,7 +2,7 @@
 
 The agency head or a designee shall prescribe procedures for the following:
 
-(a) Promoting and providing for full and open competition (see part 6) or, when full and open competition is not required in accordance with part 6, for obtaining competition to the maximum extent practicable, with due regard to the nature of the supplies and services to be acquired (10 U.S.C. 3206(a)(1)and 41 U.S.C. 3306(a)(1)).
+(a) Promoting and providing for full and open competition (see part 6) or, when full and open competition is not required in accordance with part 6, for obtaining competition to the maximum extent practicable, with due regard to the nature of the supplies and services to be acquired (10 U.S.C. 3206(a)(1) and 41 U.S.C. 3306(a)(1)).
 
 (b) Encouraging offerors to supply commercial products or commercial services, or to the extent that commercial products suitable to meet the agency needs are not available, nondevelopmental items in response to agency solicitations (10 U.S.C. 3453 and 41 U.S.C 3307).
 

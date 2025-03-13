@@ -35,14 +35,14 @@
 
 (5) Branch lines in the various spaces shall be noted in table 34.15-5(d)(5).
 
-|Maximum quantity of carbon dioxide required, pounds|Minimum pipe sizes, inches|Maximum quantity of carbon dioxide required, pounds| Minimum pipe size inches |
-|---------------------------------------------------|--------------------------|---------------------------------------------------|--------------------------|
-|                        100                        |<sup>1</sup>⁄<sub>2</sub> |                       2,500                       |2<sup>1</sup>⁄<sub>2</sub>|
-|                        225                        |<sup>3</sup>⁄<sub>4</sub> |                       4,450                       |            3             |
-|                        300                        |            1             |                       7,100                       |3<sup>1</sup>⁄<sub>2</sub>|
-|                        600                        |1<sup>1</sup>⁄<sub>4</sub>|                      10,450                       |            4             |
-|                       1,000                       |1<sup>1</sup>⁄<sub>2</sub>|                      15,000                       |4<sup>1</sup>⁄<sub>2</sub>|
-|                       2,450                       |            2             |                                                   |                          |
+|Maximum quantity of carbon dioxide required, pounds|Minimum pipe sizes, inches|Maximum quantity of carbon dioxide required, pounds|Minimum pipe size inches|
+|---------------------------------------------------|--------------------------|---------------------------------------------------|------------------------|
+|                        100                        |           1/2            |                       2,500                       |          21/2          |
+|                        225                        |           3/4            |                       4,450                       |           3            |
+|                        300                        |            1             |                       7,100                       |          31/2          |
+|                        600                        |           11/4           |                      10,450                       |           4            |
+|                       1,000                       |           11/2           |                      15,000                       |          41/2          |
+|                       2,450                       |            2             |                                                   |                        |
 
 (6) Distribution piping within the space shall be proportioned from the supply line to give proper distribution to the outlets without throttling.
 

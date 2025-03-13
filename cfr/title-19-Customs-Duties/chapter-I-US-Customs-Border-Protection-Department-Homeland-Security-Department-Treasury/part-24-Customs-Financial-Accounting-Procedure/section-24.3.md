@@ -1,7 +1,5 @@
 ##### § 24.3 Bills and accounts; receipts. #####
 
-Link to an amendment published at 88 FR 72680, Oct. 23, 2023.
-
 (a) Any bill or account for money due the United States shall be rendered by an authorized Customs officer or employee on an official form.
 
 (b) A receipt for the payment of estimated Customs duties, taxes, fees, and interest, if applicable, shall be provided a payer at the time of payment if he furnishes with his payment an additional copy of the documentation submitted in support of the payment. The appropriate Customs official shall validate the additional copy as paid and return it to the payer. Otherwise, a copy of the document filed by the payer and the payer's cancelled check shall constitute evidence of payment.
@@ -10,6 +8,6 @@ Link to an amendment published at 88 FR 72680, Oct. 23, 2023.
 
 (d) Every payment which is not made in person shall be accompanied by the original bill or by a communication containing sufficient information to identify the account or accounts to which it is to be applied.
 
-(e) Except for bills resulting from dishonored checks or dishonored Automated Clearinghouse (ACH) transactions, all other bills for duties, taxes, fees, interest, or other charges are due and payable within 30 days of the date of issuance of the bill. Bills resulting from dishonored checks or dishonored ACH transactions are due within 15 days of the date of issuance of the bill.
+(e) Except for bills resulting from dishonored payments (*e.g.,* a check or Automated Clearinghouse (ACH) transaction), all other bills for duties, taxes, fees, interest, or other charges are due and payable within 30 days of the date of the issuance of the bill. Bills resulting from dishonored payments are due and payable within 15 days of the date of the issuance of the bill.
 
-[28 FR 14808, Dec. 31, 1963, as amended by T.D. 74-73, 39 FR 7782, Feb. 28, 1974; T.D. 79-221, 44 FR 46813, Aug. 9, 1979; T.D. 86-178, 51 FR 34959, Oct. 1, 1986; T.D. 99-75, 64 FR 56437, Oct. 20, 1999]
+[28 FR 14808, Dec. 31, 1963, as amended by T.D. 74-73, 39 FR 7782, Feb. 28, 1974; T.D. 79-221, 44 FR 46813, Aug. 9, 1979; T.D. 86-178, 51 FR 34959, Oct. 1, 1986; T.D. 99-75, 64 FR 56437, Oct. 20, 1999; 88 FR 72680, Oct. 23, 2023]

@@ -1,5 +1,7 @@
 ##### § 413.178 ESRD quality incentive program. #####
 
+Link to an amendment published at 88 FR 76504, Nov. 6, 2023.
+
 (a) *Definitions.* As used in this section:
 
 (1) *Achievement threshold* means the 15th percentile of national ESRD facility performance on a clinical measure during the baseline period for a payment year.

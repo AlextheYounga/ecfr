@@ -4050,7 +4050,43 @@ Map provided is for informational purposes only. Map follows:
 
 (v) Map 2—Carpinteria Salt Marsh Unit—follows:
 
-![](/graphics/er20my04.001.gif)Family Fabaceae: *Lupinus sulphureus* ssp. *kincaidii* (Kincaid's lupine).
+![](/graphics/er20my04.001.gif)Family Fabaceae: *Lupinus constancei* (Lassics lupine)
+
+(1) The critical habitat unit is depicted for Humboldt and Trinity Counties, California, on the map in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the Lassics lupine consist of the following components:
+
+(i) A plant community that consists of the following:
+
+(A) Areas of open to sparse understory to ensure competition with Lassics lupine is inhibited. When sparse understory is present, the composition is predominantly native vegetation.
+
+(B) Suitable solar insolation levels to support growth. These suitable levels can be achieved by the appropriate combination of canopy cover and aspect, with hotter and drier west-facing slopes needing moderate and more protective canopy cover compared to cooler north-facing slopes where there can be little to no canopy cover.
+
+(C) A diversity and abundance of native plant species whose blooming times overlap to provide pollinator species with pollen and nectar sources for foraging throughout the seasons and to provide nesting and egg-laying sites; appropriate nest materials; and sheltered, undisturbed habitat for hibernation and overwintering of pollinator species and insect visitors.
+
+(ii) Sufficient pollinators, particularly bees, for successful Lassics lupine reproduction and seed production.
+
+(iii) Suitable soils and hydrology that consist of the following:
+
+(A) Open, relatively barren, upland sites categorized as receiving sufficient snow and rain for seed germination and moisture for growing plants.
+
+(B) Soils that are generally fast-draining, including serpentine or clastic (composed of pieces of older rocks) soils, with very shallow soil and low organic matter.
+
+(C) Soils characterized by their relatively high levels of magnesium and iron, while being simultaneously low in calcium, nitrogen, potassium, and phosphorus.
+
+(D) Soils characterized by relatively high sand content.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on November 6, 2023.
+
+(4) Data layers defining the map unit were created based on surveys conducted with global positioning system (GPS) units collecting in WGS84 coordinates, and the critical habitat unit was then mapped using Universal Transverse Mercator (UTM) Zone 10N coordinates. The map in this entry, as modified by any accompanying regulatory text, establishes the boundaries of the critical habitat designation. The coordinates or plot points or both on which the map is based are available to the public at the Service's internet site at *https://www.fws.gov/office/arcata-fish-and-wildlife,* at *https://www.regulations.gov* at Docket No. FWS-R8-ES-2022-0083, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Mount Lassic Unit, Humboldt and Trinity Counties, California.
+
+(i) The Mount Lassic Unit consists of 512 acres (207 hectares) of land in Humboldt and Trinity Counties. The entirety of the unit falls within the boundary of the Six Rivers National Forest.
+
+(ii) Map of the Mount Lassic Unit follows:
+
+Figure 1 to Family Fabaceae: *Lupinus constancei* (Lassics lupine) paragraph (5)(ii)![](/graphics/er05oc23.058.gif)Family Fabaceae: *Lupinus sulphureus* ssp. *kincaidii* (Kincaid's lupine).
 
 (1) Critical habitat units are depicted for Benton, Lane, Polk, and Yamhill Counties, Oregon, and Lewis County, Washington, on the maps below.
 

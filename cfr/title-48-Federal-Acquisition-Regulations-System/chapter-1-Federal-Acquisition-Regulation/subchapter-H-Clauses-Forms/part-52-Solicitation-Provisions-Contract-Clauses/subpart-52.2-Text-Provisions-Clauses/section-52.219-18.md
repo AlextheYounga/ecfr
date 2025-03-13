@@ -34,4 +34,4 @@ Notification of Competition Limited to Eligible 8(a) Participants (OCT 2022)
 
 (iii) The offeror's approved business plan is on the file and serviced by \_\_[*Contracting Officer completes by inserting the appropriate SBA District and/or Area Office(s) as identified by the SBA*].
 
-[54 FR 46009, Oct. 31, 1989; 54 FR 48105, Nov. 21, 1989]Editorial Note:For Federal Register citations affecting 52.219-18, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[54 FR 46009, Oct. 31, 1989; 54 FR 48105, Nov. 21, 1989]Editorial Note:For Federal Register citations affecting section 52.219-18, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

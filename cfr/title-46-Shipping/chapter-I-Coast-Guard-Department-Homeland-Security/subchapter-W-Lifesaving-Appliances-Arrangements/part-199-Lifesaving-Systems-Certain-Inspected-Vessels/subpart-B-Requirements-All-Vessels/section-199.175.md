@@ -8,9 +8,9 @@
 
 (3) Must be as small and of as little mass as possible;
 
-(4) Must be packed in a suitable compact form; and
+(4) Must be packed in a suitable compact form;
 
-(5) *Can opener.* A can opener must meet the requirements in ISO 18813:2006(E) paragraph 4.43 (incorporated by reference, see § 199.05). A can opener may be in a jackknife meeting the requirements in paragraph (b)(16) of this section.
+(5) Must be marked with either the Coast Guard approval number or the standard that the product meets, as applicable; and
 
 (6) Should be stowed so the items do not—
 
@@ -176,76 +176,62 @@
 
 (c) Any Coast Guard-approved equipment on board before December 14, 2022 may remain on board as long as it remains in good and serviceable condition.
 
-Table 1 to § 199.175—Survival Craft Equipment
-
-|Item No.|                   Item                   |International voyage|Short international voyage|                                         |           |   |   |
-|--------|------------------------------------------|--------------------|--------------------------|-----------------------------------------|-----------|---|---|
-|Lifeboat|Rigid  <br/>liferaft  <br/>(SOLAS A pack) |    Rescue boat     |         Lifeboat         |Rigid  <br/>liferaft  <br/>(SOLAS B pack)|Rescue boat|   |   |
-|   1    |            Bailer<sup>1</sup>            |         1          |            1             |                    1                    |     1     | 1 | 1 |
-|   2    |          Bilge pump<sup>2</sup>          |         1          |                          |                                         |     1     |   |   |
-|   3    |                 Boathook                 |         2          |                          |                    1                    |     2     |   | 1 |
-|   4    |            Bucket<sup>3</sup>            |         2          |                          |                    1                    |     2     |   | 1 |
-|   5    |         Can opener<sup>11</sup>          |         3          |            3             |                                         |     3     |   |   |
-|   6    |                 Compass                  |         1          |                          |                    1                    |     1     |   | 1 |
-|   7    |                  Dipper                  |         1          |                          |                                         |     1     |   |   |
-|   8    |               Drinking cup               |         1          |            1             |                                         |     1     |   |   |
-|   9    |            Fire extinguisher             |         1          |                          |                    1                    |     1     |   | 1 |
-|   10   |              First aid kit               |         1          |            1             |                    1                    |     1     | 1 | 1 |
-|   11   |               Fishing kit                |         1          |            1             |                                         |           |   |   |
-|   12   |                Flashlight                |         1          |            1             |                    1                    |     1     | 1 | 1 |
-|   13   |                 Hatchet                  |         2          |                          |                                         |     2     |   |   |
-|   14   |               Heaving line               |         2          |            1             |                    2                    |     2     | 1 | 2 |
-|   15   |             Instruction card             |                    |            1             |                                         |           | 1 |   |
-|   16   |                Jackknife                 |         1          |                          |                                         |     1     |   |   |
-|   17   |Knife<sup>1</sup><sup>4</sup><sup>11</sup>|         1          |            1             |                    1                    |     1     | 1 | 1 |
-|   18   |                  Ladder                  |         1          |                          |                    1                    |     1     |   | 1 |
-|   19   |            Mirror, signalling            |         1          |            1             |                                         |     1     | 1 |   |
-|   20   |        Oars, units<sup>5 6</sup>         |         1          |                          |                    1                    |     1     |   | 1 |
-|        |                 Paddles                  |                    |            2             |                                         |           | 2 |   |
-|   21   |                 Painter                  |         2          |            1             |                    1                    |     2     | 1 | 1 |
-|   22   |      Provisions (units per person)       |         1          |            1             |                                         |           |   |   |
-|   23   |             Pump<sup>7</sup>             |                    |                          |                    1                    |           |   | 1 |
-|   24   |             Radar reflector              |         1          |            1             |                    1                    |     1     | 1 | 1 |
-|   25   |       Rainwater collection device        |         1          |                          |                                         |     1     |   |   |
-|   26   |          Repair kit<sup>7</sup>          |                    |                          |                    1                    |           |   | 1 |
-|   27   |                Sea anchor                |         1          |            2             |                    1                    |     1     | 2 | 1 |
-|   28   |               Searchlight                |         1          |                          |                    1                    |     1     |   | 1 |
-|   29   |    Seasickness kit (units per person)    |         1          |            1             |                                         |     1     | 1 |   |
-|   30   |              Signal, smoke               |         2          |            2             |                                         |     2     | 1 |   |
-|   31   |            Signal, hand flare            |         6          |            6             |                                         |     6     | 3 |   |
-|   32   |         Signal, parachute flare          |         4          |            4             |                                         |     4     | 2 |   |
-|   33   |      Skates and fenders<sup>8</sup>      |         1          |                          |                    1                    |     1     |   | 1 |
-|   34   |            Sponge<sup>7</sup>            |                    |            2             |                    2                    |           | 2 | 2 |
-|   35   |          Survival instructions           |         1          |            1             |                                         |     1     | 1 |   |
-|   36   |       Table of lifesaving signals        |         1          |            1             |                                         |     1     | 1 |   |
-|   37   |   Thermal protective aids<sup>9</sup>    |        10%         |           10%            |                   10%                   |    10%    |10%|10%|
-|   38   |                 Tool kit                 |         1          |                          |                                         |     1     |   |   |
-|   39   |           Towline<sup>10</sup>           |         1          |                          |                    1                    |     1     |   | 1 |
-|   40   |        Water (liters per person)         |         3          |           1.5            |                                         |     3     |   |   |
-|   41   |                 Whistle                  |         1          |            1             |                    1                    |     1     | 1 | 1 |
-
-Notes:
-
-<sup>1</sup> Each liferaft equipped for 13 persons or more must carry two of these items.
-
-<sup>2</sup> Not required for boats of self-bailing design.
-
-<sup>3</sup> Not required for inflated or rigid-inflated rescue boats.
-
-<sup>4</sup> A hatchet counts towards this requirement in rigid rescue boats.
-
-<sup>5</sup> Oars are not required on a free-fall lifeboat; a unit of oars means the number of oars specified by the boat manufacturer.
-
-<sup>6</sup> Rescue boats may substitute buoyant paddles for oars, as specified by the manufacturer.
-
-<sup>7</sup> Not required for a rigid rescue boat.
-
-<sup>8</sup> Required if specified by the boat manufacturer.
-
-<sup>9</sup> Sufficient thermal protective aids are required for at least 10% of the persons the survival craft is equipped to carry, but not less than two.
-
-<sup>10</sup> Required only if the lifeboat is also the rescue boat.
-
-<sup>11</sup> One (1) jackknife may replace one (1) can opener and one (1) knife.
+|                                                                          Item No.                                                                          |                   Item                    |International voyage|Short international voyage|                                         |           |   |   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|--------------------|--------------------------|-----------------------------------------|-----------|---|---|
+|                                                                          Lifeboat                                                                          | Rigid  <br/>liferaft  <br/>(SOLAS A pack) |    Rescue boat     |         Lifeboat         |Rigid  <br/>liferaft  <br/>(SOLAS B pack)|Rescue boat|   |   |
+|                                                                             1                                                                              |            Bailer <sup>1</sup>            |         1          |            1             |                    1                    |     1     | 1 | 1 |
+|                                                                             2                                                                              |          Bilge pump <sup>2</sup>          |         1          |                          |                                         |     1     |   |   |
+|                                                                             3                                                                              |                 Boathook                  |         2          |                          |                    1                    |     2     |   | 1 |
+|                                                                             4                                                                              |            Bucket <sup>3</sup>            |         2          |                          |                    1                    |     2     |   | 1 |
+|                                                                             5                                                                              |         Can opener <sup>11</sup>          |         3          |            3             |                                         |     3     |   |   |
+|                                                                             6                                                                              |                  Compass                  |         1          |                          |                    1                    |     1     |   | 1 |
+|                                                                             7                                                                              |                  Dipper                   |         1          |                          |                                         |     1     |   |   |
+|                                                                             8                                                                              |               Drinking cup                |         1          |            1             |                                         |     1     |   |   |
+|                                                                             9                                                                              |             Fire extinguisher             |         1          |                          |                    1                    |     1     |   | 1 |
+|                                                                             10                                                                             |               First aid kit               |         1          |            1             |                    1                    |     1     | 1 | 1 |
+|                                                                             11                                                                             |                Fishing kit                |         1          |            1             |                                         |           |   |   |
+|                                                                             12                                                                             |                Flashlight                 |         1          |            1             |                    1                    |     1     | 1 | 1 |
+|                                                                             13                                                                             |                  Hatchet                  |         2          |                          |                                         |     2     |   |   |
+|                                                                             14                                                                             |               Heaving line                |         2          |            1             |                    2                    |     2     | 1 | 2 |
+|                                                                             15                                                                             |             Instruction card              |                    |            1             |                                         |           | 1 |   |
+|                                                                             16                                                                             |                 Jackknife                 |         1          |                          |                                         |     1     |   |   |
+|                                                                             17                                                                             |Knife <sup>1</sup><sup>4</sup><sup>11</sup>|         1          |            1             |                    1                    |     1     | 1 | 1 |
+|                                                                             18                                                                             |                  Ladder                   |         1          |                          |                    1                    |     1     |   | 1 |
+|                                                                             19                                                                             |            Mirror, signalling             |         1          |            1             |                                         |     1     | 1 |   |
+|                                                                             20                                                                             |        Oars, units <sup>5 6</sup>         |         1          |                          |                    1                    |     1     |   | 1 |
+|                                                                                                                                                            |                  Paddles                  |                    |            2             |                                         |           | 2 |   |
+|                                                                             21                                                                             |                  Painter                  |         2          |            1             |                    1                    |     2     | 1 | 1 |
+|                                                                             22                                                                             |       Provisions (units per person)       |         1          |            1             |                                         |           |   |   |
+|                                                                             23                                                                             |             Pump <sup>7</sup>             |                    |                          |                    1                    |           |   | 1 |
+|                                                                             24                                                                             |              Radar reflector              |         1          |            1             |                    1                    |     1     | 1 | 1 |
+|                                                                             25                                                                             |        Rainwater collection device        |         1          |                          |                                         |     1     |   |   |
+|                                                                             26                                                                             |          Repair kit <sup>7</sup>          |                    |                          |                    1                    |           |   | 1 |
+|                                                                             27                                                                             |                Sea anchor                 |         1          |            2             |                    1                    |     1     | 2 | 1 |
+|                                                                             28                                                                             |                Searchlight                |         1          |                          |                    1                    |     1     |   | 1 |
+|                                                                             29                                                                             |    Seasickness kit (units per person)     |         1          |            1             |                                         |     1     | 1 |   |
+|                                                                             30                                                                             |               Signal, smoke               |         2          |            2             |                                         |     2     | 1 |   |
+|                                                                             31                                                                             |            Signal, hand flare             |         6          |            6             |                                         |     6     | 3 |   |
+|                                                                             32                                                                             |          Signal, parachute flare          |         4          |            4             |                                         |     4     | 2 |   |
+|                                                                             33                                                                             |      Skates and fenders <sup>8</sup>      |         1          |                          |                    1                    |     1     |   | 1 |
+|                                                                             34                                                                             |            Sponge <sup>7</sup>            |                    |            2             |                    2                    |           | 2 | 2 |
+|                                                                             35                                                                             |           Survival instructions           |         1          |            1             |                                         |     1     | 1 |   |
+|                                                                             36                                                                             |        Table of lifesaving signals        |         1          |            1             |                                         |     1     | 1 |   |
+|                                                                             37                                                                             |    Thermal protective aids<sup>9</sup>    |        10%         |           10%            |                   10%                   |    10%    |10%|10%|
+|                                                                             38                                                                             |                 Tool kit                  |         1          |                          |                                         |     1     |   |   |
+|                                                                             39                                                                             |           Towline <sup>10</sup>           |         1          |                          |                    1                    |     1     |   | 1 |
+|                                                                             40                                                                             |         Water (liters per person)         |         3          |           1.5            |                                         |     3     |   |   |
+|                                                                             41                                                                             |                  Whistle                  |         1          |            1             |                    1                    |     1     | 1 | 1 |
+|                                                                         **Notes:**                                                                         |                                           |                    |                          |                                         |           |   |   |
+|                                 <sup>1</sup> Each liferaft equipped for 13 persons or more must carry two of these items.                                  |                                           |                    |                          |                                         |           |   |   |
+|                                                <sup>2</sup> Not required for boats of self-bailing design.                                                 |                                           |                    |                          |                                         |           |   |   |
+|                                           <sup>3</sup> Not required for inflated or rigid-inflated rescue boats.                                           |                                           |                    |                          |                                         |           |   |   |
+|                                       <sup>4</sup> A hatchet counts towards this requirement in rigid rescue boats.                                        |                                           |                    |                          |                                         |           |   |   |
+|          <sup>5</sup> Oars are not required on a free-fall lifeboat; a unit of oars means the number of oars specified by the boat manufacturer.           |                                           |                    |                          |                                         |           |   |   |
+|                            <sup>6</sup> Rescue boats may substitute buoyant paddles for oars, as specified by the manufacturer.                            |                                           |                    |                          |                                         |           |   |   |
+|                                                     <sup>7</sup> Not required for a rigid rescue boat.                                                     |                                           |                    |                          |                                         |           |   |   |
+|                                                <sup>8</sup> Required if specified by the boat manufacturer.                                                |                                           |                    |                          |                                         |           |   |   |
+|<sup>9</sup> Sufficient thermal protective aids are required for at least 10% of the persons the survival craft is equipped to carry, but not less than two.|                                           |                    |                          |                                         |           |   |   |
+|                                            <sup>10</sup> Required only if the lifeboat is also the rescue boat.                                            |                                           |                    |                          |                                         |           |   |   |
+|                                     <sup>11</sup> One (1) jackknife may replace one (1) can opener and one (1) knife.                                      |                                           |                    |                          |                                         |           |   |   |
 
 [CGD 84-069, 61 FR 25313, May 20, 1996; 61 FR 40281, Aug. 1, 1996; 63 FR 52819, Oct. 1, 1998; USCG-1999-6216, 64 FR 53229, Oct. 1, 1999; USCG-2000-7790, 65 FR 58465, Sept. 29, 2000; USCG-2004-18884, 69 FR 58352, Sept. 30, 2004; USCG-2020-0107, 87 FR 68308, Nov. 14, 2022]

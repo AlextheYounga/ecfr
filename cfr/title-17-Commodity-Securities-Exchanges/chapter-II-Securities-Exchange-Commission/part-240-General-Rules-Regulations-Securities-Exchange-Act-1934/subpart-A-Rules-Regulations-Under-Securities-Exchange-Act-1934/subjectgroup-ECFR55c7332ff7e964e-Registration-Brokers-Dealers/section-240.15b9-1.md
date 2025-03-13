@@ -1,11 +1,15 @@
 ##### § 240.15b9-1 Exemption for certain exchange members. #####
 
-Link to an amendment published at 88 FR 61893, Sept. 7, 2023.
+Any broker or dealer required by section 15(b)(8) of the Act (15 U.S.C. 78*o*(b)(8)) to become a member of a registered national securities association shall be exempt from such requirement if it:
 
-(a) Any broker or dealer required by section 15(b)(8) of the Act to become a member of a registered national securities association shall be exempt from such requirement if it: (1) Is a member of a national securities exchange, (2) carries no customer accounts, and (3) has annual gross income derived from purchases and sales of securities otherwise than on a national securities exchange of which it is a member in an amount no greater than $1,000.
+(a) Is a member of a national securities exchange;
 
-(b) The gross income limitation contained in paragraph (a) of this section, shall not apply to income derived from transactions (1) for the dealer's own account with or through another registered broker or dealer or (2) through the Intermarket Trading System.
+(b) Carries no customer accounts; and
 
-(c) For purposes of this section, the term *Intermarket Trading System* shall mean the intermarket communications linkage operated jointly by certain self-regulatory organizations pursuant to a plan filed with, and approved by, the Commission pursuant to § 242.608 of this chapter.
+(c) Effects transactions in securities solely on a national securities exchange of which it is a member, except that with respect to this paragraph (c):
 
-[48 FR 53691, Nov. 29, 1983, as amended at 70 FR 37618, June 29, 2005]
+(1) A broker or dealer may effect transactions in securities otherwise than on a national securities exchange of which the broker or dealer is a member that result solely from orders that are routed by a national securities exchange of which the broker or dealer is a member to comply with § 242.611 of this chapter or the Options Order Protection and Locked/Crossed Market Plan; or
+
+(2) A broker or dealer may effect transactions in securities otherwise than on a national securities exchange of which the broker or dealer is a member, with or through another registered broker or dealer, that are solely for the purpose of executing the stock leg of a stock-option order. A broker or dealer seeking to rely on this exception shall establish, maintain and enforce written policies and procedures reasonably designed to ensure and demonstrate that such transactions are solely for the purpose of executing the stock leg of a stock-option order. Such broker or dealer shall preserve a copy of its policies and procedures in a manner consistent with § 240.17a-4 until three years after the date the policies and procedures are replaced with updated policies and procedures.
+
+[88 FR 61893, Sept. 7, 2023]

@@ -1,12 +1,10 @@
 ##### § 24.3a CBP bills; interest assessment on bills; delinquency; notice to principal and surety. #####
 
-Link to an amendment published at 88 FR 72680, Oct. 23, 2023.
-
 (a) *Due date of CBP bills.* CBP bills for supplemental duties, taxes and fees(increased or additional duties, taxes, and fees assessed upon liquidation or reliquidation), or vessel repair duties, together with interest thereon, reimbursable services (such as provided for in §§ 24.16 and 24.17), and miscellaneous amounts (bills other than duties, taxes, reimbursable services, liquidated damages, fines, and penalties) are due as provided for in § 24.3(e).
 
 (b) *Assessment of interest charges*—(1) *Bills for vessel repair duties, reimbursable services and miscellaneous amounts.* If payment is not received by CBP on or before the late payment date appearing on the bill, interest charges will be assessed upon the delinquent principal amount of the bill. The late payment date is the date 30 calendar days after the interest computation date. The interest computation date is the date from which interest is calculated and is initially the bill date.
 
-(2) *Interest on supplemental duties, taxes, fees, and interest*—(i) *Initial interest accrual.* Except as otherwise provided in paragraphs (b)(2)(i)(A) through (b)(2)(i)(C) of this section, interest assessed due to an underpayment of duties, taxes, fees, or interest will accrue from the date the importer of record is required to deposit estimated duties, taxes, fees, and interest to the date of liquidation or reliquidation of the applicable entry or reconciliation. An example follows:
+(2) *Interest on supplemental duties, taxes, fees, and interest*—(i) *Initial interest accrual.* Except as otherwise provided in paragraphs (b)(2)(i)(A) and (b)(2)(i)(B) of this section, interest assessed due to an underpayment of duties, taxes, fees, or interest will accrue from the date the importer of record is required to deposit estimated duties, taxes, fees, and interest to the date of liquidation or reliquidation of the applicable entry or reconciliation. An example follows:
 
 Example:Entry underpaid as determined upon liquidation![](/graphics/er20oc99.000.gif)Importer owes $500 plus interest as follows:The importer makes a $1,000 initial deposit on the required date (January 1) and the entry liquidates for $1,500 (December 1). Upon liquidation, the importer will be billed for $500 plus interest. The interest will accrue from the date payment was due (January 1) to date of liquidation (December 1).
 
@@ -30,9 +28,9 @@ Example:Excess pre-liquidation deposit and excess pre-liquidation refund![](/gra
 
 (*4*) If the additional deposit or any portion thereof is determined upon liquidation or reliquidation of the applicable entry or reconciliation to constitute a payment in excess of the amount initially required to be deposited, the excess deposit will be treated as a refundable amount on which interest also may be payable (see § 24.36).
 
-(C) If a depository bank notifies CBP by a debit voucher that a CBP account is being debited due to a dishonored check or dishonored Automated Clearinghouse (ACH) transaction, interest will accrue on the debited amount from the date of the debit voucher to either the date of payment of the debt represented by the debit voucher or the date of issuance of a bill for payment, whichever date is earlier.
-
 (ii) *Interest on overdue bills.* If duties, taxes, fees, and interest are not paid in full within the applicable period specified in § 24.3(e), any unpaid balance will be considered delinquent and shall bear interest until the full balance is paid.
+
+(3) *Interest accrual on debit vouchers.* If a depository bank notifies CBP by a debit voucher that a CBP account is being debited due to a dishonored payment (*e.g.,* a check or Automated Clearinghouse (ACH) transaction), interest will accrue on the debited amount from the date of the bill resulting from the dishonored payment. If payment is not received by CBP on or before the late payment date appearing on the bill, interest charges will be assessed on the debited amount. The initial late payment date is the date 15 days after the interest computation date. The interest computation date is the date from which interest is calculated and is initially the bill date. No interest charge will be assessed where the payment is actually received at the “Send Payment To” location designated on the bill within the initial 15-day period. After the initial 15-day period, interest will be assessed in 30-day periods pursuant to paragraph (c) of this section.
 
 (c) *Interest rate and applicability.* (1) The percentage rate of interest to be charged on such bills will be based upon the quarterly rate(s) established under sections 6621 and 6622 of the Internal Revenue Code of 1954 (26 U.S.C. 6621, 6622). The current rate of interest will appear on the CBP bill and may be obtained from the IRS or the CBP's Revenue Division, Office of Administration. For the convenience of the importing public and CBP personnel, CBP publishes the current interest rate(s) in the *Customs Bulletin and Decisions* and Federal Register on a quarterly basis.
 
@@ -84,4 +82,4 @@ Example:Excess pre-liquidation deposit and excess pre-liquidation refund![](/gra
 
 (ii) Upon the written request of a surety, CBP will provide the surety a notice containing the billing information at the time of the initial billing to its principal.
 
-[T.D. 86-178, 51 FR 34958, Oct. 1, 1986, as amended by T.D. 99-75, 64 FR 56437, Oct. 20, 1999 ; CBP Dec. 08-25, 73 FR 40726, July 16, 2008; CBP Dec. 12-04, 77 FR 17332, Mar. 26, 2012]
+[T.D. 86-178, 51 FR 34958, Oct. 1, 1986, as amended by T.D. 99-75, 64 FR 56437, Oct. 20, 1999 ; CBP Dec. 08-25, 73 FR 40726, July 16, 2008; CBP Dec. 12-04, 77 FR 17332, Mar. 26, 2012; 88 FR 72680, Oct. 23, 2023]

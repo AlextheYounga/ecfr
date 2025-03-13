@@ -1,6 +1,6 @@
 ##### 6.305 Availability of the justification. #####
 
-(a) The agency shall make publicly available the justification required by 6.303-1 as required by 10 U.S.C. 3204(f)and 41 U.S.C. 3304(f). Except for the circumstances in paragraphs (b) and (c) of this section, the justification shall be made publicly available within 14 days after contract award.
+(a) The agency shall make publicly available the justification required by 6.303-1 as required by 10 U.S.C. 3204(f) and 41 U.S.C. 3304(f). Except for the circumstances in paragraphs (b) and (c) of this section, the justification shall be made publicly available within 14 days after contract award.
 
 (b) In the case of a contract award permitted under 6.302-2, the justification shall be posted within 30 days after contract award.
 

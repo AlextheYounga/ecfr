@@ -1,10 +1,8 @@
 ##### 52.212-4 Contract Terms and Conditions—Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 88 FR 69522, Oct. 5, 2023.
-
 As prescribed in 12.301(b)(3), insert the following clause:
 
-Contract Terms and Conditions—Commercial Products and Commercial Services (DEC 2022)
+Contract Terms and Conditions—Commercial Products and Commercial Services (NOV 2023)
 
 (a) *Inspection/Acceptance.* The Contractor shall only tender for acceptance those items that conform to the requirements of this contract. The Government reserves the right to inspect or test any supplies or services that have been tendered for acceptance. The Government may require repair or replacement of nonconforming supplies or reperformance of nonconforming services at no increase in contract price. If repair/replacement or reperformance will not correct the defects or is not possible, the Government may seek an equitable price reduction or adequate consideration for acceptance of nonconforming supplies or services. The Government must exercise its postacceptance rights (1) within a reasonable time after the defect was discovered or should have been discovered; and (2) before any substantial change occurs in the condition of the item, unless the change is due to the defect in the item.
 
@@ -122,7 +120,7 @@ Contract Terms and Conditions—Commercial Products and Commercial Services (DEC
 
 (q) *Other compliances.* The Contractor shall comply with all applicable Federal, State and local laws, executive orders, rules and regulations applicable to its performance under this contract.
 
-(r) *Compliance with laws unique to Government contracts.* The Contractor agrees to comply with 31 U.S.C. 1352 relating to limitations on the use of appropriated funds to influence certain Federal contracts; 18 U.S.C. 431 relating to officials not to benefit; 40 U.S.C. chapter 37, Contract Work Hours and Safety Standards; 41 U.S.C. chapter 87, Kickbacks; 41 U.S.C. 4712 and 10 U.S.C. 4701 relating to whistleblower protections; 49 U.S.C. 40118, Fly American; and 41 U.S.C. chapter 21 relating to procurement integrity.
+(r) *Compliance with laws unique to Government contracts.* The Contractor agrees to comply with 31 U.S.C. 1352 relating to limitations on the use of appropriated funds to influence certain Federal contracts; 18 U.S.C. 431 relating to officials not to benefit; 40 U.S.C. chapter 37, Contract Work Hours and Safety Standards; 41 U.S.C. chapter 87, Kickbacks; 49 U.S.C. 40118, Fly American; and 41 U.S.C. chapter 21 relating to procurement integrity.
 
 (s) *Order of precedence.* Any inconsistencies in this solicitation or contract shall be resolved by giving precedence in the following order: (1) the schedule of supplies/services; (2) The Assignments, Disputes, Payments, Invoice, Other Compliances, Compliance with Laws Unique to Government Contracts, and Unauthorized Obligations paragraphs of this clause; (3) the clause at 52.212-5; (4) addenda to this solicitation or contract, including any license agreements for computer software; (5) solicitation provisions if this is a solicitation; (6) other paragraphs of this clause; (7) the Standard Form 1449; (8) other documents, exhibits, and attachments; and (9) the specification.
 

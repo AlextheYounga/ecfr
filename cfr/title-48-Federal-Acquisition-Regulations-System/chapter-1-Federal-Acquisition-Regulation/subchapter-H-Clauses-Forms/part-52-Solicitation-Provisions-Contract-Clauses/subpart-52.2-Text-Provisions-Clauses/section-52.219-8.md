@@ -72,4 +72,4 @@ Utilization of Small Business Concerns (SEP 2023)
 
 (5) The Contractor shall confirm that a subcontractor representing itself as a HUBZone small business concern is certified by SBA as a HUBZone small business concern by accessing SAM or by accessing DSBS at *https://web.sba.gov/pro-net/search/dsp\_dsbs.cfm.* If the subcontractor is a joint venture, the Contractor shall confirm that at least one party to the joint venture is certified by SBA as a HUBZone small business concern. The Contractor may confirm the representation by accessing SAM.
 
-(End of clause)[63 FR 70275, Dec. 18, 1998]Editorial Note:For Federal Register citations affecting 52.219-8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+(End of clause)[63 FR 70275, Dec. 18, 1998]Editorial Note:For Federal Register citations affecting § 52.219-8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
