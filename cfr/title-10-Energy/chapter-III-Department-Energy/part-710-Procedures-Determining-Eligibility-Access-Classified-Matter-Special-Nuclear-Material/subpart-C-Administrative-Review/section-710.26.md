@@ -1,5 +1,7 @@
 ##### § 710.26 Conduct of hearings. #####
 
+Link to an amendment published at 89 FR 59597, July 23, 2024.
+
 (a) In all hearings conducted under this part, the individual shall have the right to be represented by a person of his/her own choosing, at the individual's own expense. The individual is responsible for producing witnesses in his/her own behalf, including requesting the issuance of subpoenas, if necessary, or presenting testimonial, documentary, or physical evidence before the Administrative Judge to support the individual's defense to the derogatory information contained in the notification letter. With the exception of procedural or scheduling matters, the Administrative Judge is prohibited from initiating or otherwise engaging in *ex parte* discussions about the case during the pendency of proceedings under this part.
 
 (b) Unless the Administrative Judge finds good cause for deferring issuance of a decision, in the event that the individual unduly delays the hearing, such as by failure to meet deadlines set by the Administrative Judge, the record shall be closed, and an initial decision shall be made by the Manager on the basis of the record in the case per § 710.22(a)(3).

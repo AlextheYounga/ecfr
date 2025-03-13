@@ -1,5 +1,7 @@
 ##### § 710.25 Appointment of Administrative Judge; prehearing conference; commencement of hearings. #####
 
+Link to an amendment published at 89 FR 59596, July 23, 2024.
+
 (a) Upon receipt of a request for a hearing, the Manager shall in a timely manner transmit that request to the Office of Hearings and Appeals, and identify the DOE Counsel. The Manager shall at the same time transmit a copy of the notification letter and the individual's response to the Office of Hearings and Appeals.
 
 (b) Upon receipt of the hearing request from the Manager, the Director, Office of Hearings and Appeals, shall appoint, as soon as practicable, an Administrative Judge.

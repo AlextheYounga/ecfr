@@ -1,5 +1,7 @@
 ##### § 710.22 Initial decision process. #####
 
+Link to an amendment published at 89 FR 59596, July 23, 2024.
+
 (a) The Manager shall make an initial decision as to the individual's access authorization eligibility based on the existing information in the case if:
 
 (1) The individual fails to respond to the notification letter by filing a timely written request for a hearing before an Administrative Judge or fails to respond to the notification letter after requesting an extension of time to do so;

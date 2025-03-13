@@ -1,5 +1,7 @@
 ##### § 710.31 Reconsideration of access eligibility. #####
 
+Link to an amendment published at 89 FR 59597, July 23, 2024.
+
 (a) If, pursuant to the procedures set forth in §§ 710.20 through 710.30, the Manager, Administrative Judge, Appeal Panel, or the Secretary has made a decision granting or reinstating an individual's access authorization, eligibility shall be reconsidered as a new administrative review under the procedures set forth in this part when previously unconsidered derogatory information is identified, or the individual violates a commitment upon which the DOE previously relied to favorably resolve an issue of access authorization eligibility.
 
 (b) If, pursuant to the procedures set forth in §§ 710.20 through 710.31, the Manager, Administrative Judge, Appeal Panel, or the Secretary has made a decision denying or revoking the individual's access authorization, eligibility may be reconsidered only when the individual so requests in writing, when there is a bona fide offer of employment requiring access authorization, and when there is either material and relevant new evidence which the individual and the individual's representatives were without fault in failing to present earlier, or convincing evidence of rehabilitation or reformation.

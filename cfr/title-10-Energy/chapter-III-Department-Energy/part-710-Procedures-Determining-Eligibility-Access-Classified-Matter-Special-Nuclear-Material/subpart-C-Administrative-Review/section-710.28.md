@@ -1,5 +1,7 @@
 ##### § 710.28 Action on the Administrative Judge's decision. #####
 
+Link to an amendment published at 89 FR 59597, July 23, 2024.
+
 (a) Within 10 calendar days of receipt of the decision and the administrative record, unless an extension of time is granted by the Director, the Manager shall:
 
 (1) Notify the individual in writing of the Administrative Judge's decision;

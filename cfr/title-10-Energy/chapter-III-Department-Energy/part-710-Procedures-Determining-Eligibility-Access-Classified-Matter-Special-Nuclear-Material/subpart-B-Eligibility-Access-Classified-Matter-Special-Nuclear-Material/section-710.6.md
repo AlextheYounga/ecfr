@@ -1,5 +1,7 @@
 ##### § 710.6 Cooperation by the individual. #####
 
+Link to an amendment published at 89 FR 59596, July 23, 2024.
+
 (a)(1) It is the responsibility of the individual to provide full, frank, and truthful answers to DOE's relevant and material questions, and when requested, to furnish or authorize others to furnish information that the DOE deems pertinent to the individual's eligibility for access authorization. This obligation to cooperate applies when completing security forms, during the course of a personnel security background investigation or reinvestigation, and at any stage of DOE's processing of the individual's access authorization request, including but not limited to, personnel security interviews, DOE-sponsored mental health evaluations, and other authorized DOE investigative activities under this part. The individual may elect not to cooperate; however, such refusal may prevent DOE from reaching an affirmative finding required for granting or continuing access authorization. In this event, any access authorization then in effect may be administratively withdrawn or, for applicants, further processing may be administratively terminated.
 
 (2) It is the responsibility of an individual subject to 10 CFR 709.3(d) to consent to and take a polygraph examination required by part 709. A refusal to consent to or take such an examination may prevent DOE from reaching an affirmative finding required for continuing access authorization. In this event, any access authorization then in effect may be administratively withdrawn.

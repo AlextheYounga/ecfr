@@ -1,5 +1,7 @@
 ##### § 710.21 Notice to the individual. #####
 
+Link to an amendment published at 89 FR 59596, July 23, 2024.
+
 (a) Unless an extension is authorized in writing by the Director, within 30 calendar days of receipt of authority to institute administrative review procedures, the Manager shall prepare and deliver to the individual a notification letter approved by the local Office of Chief Counsel, or the Office of the General Counsel for Headquarters cases. Where practicable, the letter shall be delivered to the individual in person.
 
 (b) The letter shall state:

@@ -1,5 +1,7 @@
 ##### § 710.9 Suspension of access authorization. #####
 
+Link to an amendment published at 89 FR 59596, July 23, 2024.
+
 (a) If derogatory information is received, the Local Director of Security shall authorize action(s), to be taken on an expedited basis, to resolve the question pursuant to § 710.8(a). If the question as to the individual's continued access authorization eligibility is not resolved in favor of the individual, the Local Director of Security shall submit the matter to the Manager with the recommendation that the individual's access authorization be suspended pending the final determination resulting from the procedures set forth in this part.
 
 (b) If the information received is determined to represent an immediate threat to national security or to the safety or security of a DOE facility or employee, or is determined to be so serious in nature that action(s) to resolve the matter as set forth in § 710.8(b) are not practical or advisable, the Local Director of Security shall immediately submit the matter to the Manager with a recommendation that the individual's access authorization be suspended pending the final determination resulting from the procedures set forth in this part. The Manager shall either authorize the immediate suspension of access authorization, or shall direct the Local Director of Security to take action(s) as set forth in § 710.8(b), in an expedited manner, to resolve the matter.

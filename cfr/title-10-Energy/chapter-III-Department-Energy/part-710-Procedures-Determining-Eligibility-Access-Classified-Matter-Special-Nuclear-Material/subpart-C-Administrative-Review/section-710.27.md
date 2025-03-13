@@ -1,5 +1,7 @@
 ##### § 710.27 Administrative Judge's decision. #####
 
+Link to an amendment published at 89 FR 59597, July 23, 2024.
+
 (a) The Administrative Judge shall carefully consider the entire record of the proceeding and shall render a decision, within 30 calendar days of the receipt of the hearing transcript, as to whether granting or restoring the individual's access authorization would not endanger the common defense and security and would be clearly consistent with the national interest. In resolving a question concerning the eligibility of an individual for access authorization under these procedures, the Administrative Judge shall consider the factors stated in § 710.7(c) to determine whether the findings will be favorable or unfavorable.
 
 (b) In reaching the findings, the Administrative Judge shall consider the demeanor of the witnesses who have testified at the hearing, the probability or likelihood of the truth of their testimony, their credibility, and the authenticity and accuracy of documentary evidence, or lack of evidence on any material points in issue. If the individual is, or may be, handicapped by the non-disclosure to the individual of undisclosed information or by lack of opportunity to cross-examine confidential informants, the Administrative Judge shall take that fact into consideration. The possible adverse impact of the loss of the individual's access authorization upon the DOE program in which the individual works shall not be considered by the Administrative Judge.

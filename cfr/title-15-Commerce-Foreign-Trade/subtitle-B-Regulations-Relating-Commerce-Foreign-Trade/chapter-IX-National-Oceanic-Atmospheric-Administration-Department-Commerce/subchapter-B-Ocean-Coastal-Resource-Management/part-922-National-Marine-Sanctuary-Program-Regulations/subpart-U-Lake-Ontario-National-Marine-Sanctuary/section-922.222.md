@@ -1,0 +1,5 @@
+##### § 922.222 Co-management. #####
+
+(a) NOAA has primary responsibility for the management of the Sanctuary pursuant to the Act. However, as the Sanctuary is in State waters, NOAA will co-manage Lake Ontario National Marine Sanctuary in collaboration with New York State. The Director may enter into a Memorandum of Agreement regarding this collaboration that may address, but not be limited to, such aspects as areas of mutual concern, including sanctuary resource protection, programs, permitting, activities, development, and threats to sanctuary resources.
+
+(b) Furthermore, sunken military craft are administered by the respective Secretary concerned pursuant to the Sunken Military Craft Act. The Director will enter into a Memorandum of Agreement regarding collaboration with other federal agencies charged with implementing the Sunken Military Craft Act that may address aspects of managing and protecting sunken military craft. The Director will request approval from the Secretary concerned for any terms and conditions of ONMS authorizations that may involve sunken military craft.

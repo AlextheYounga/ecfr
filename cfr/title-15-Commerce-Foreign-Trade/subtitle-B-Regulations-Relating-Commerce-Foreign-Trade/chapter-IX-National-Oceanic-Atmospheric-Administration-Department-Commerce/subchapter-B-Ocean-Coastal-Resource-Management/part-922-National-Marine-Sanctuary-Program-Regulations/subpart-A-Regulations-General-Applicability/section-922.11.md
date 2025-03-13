@@ -1,7 +1,5 @@
 ##### § 922.11 Definitions. #####
 
-Link to an amendment published at 89 FR 48287, June 6, 2024.
-
 The following definitions shall apply to this part, unless modified by the definitions for a specific subpart or regulation:
 
 *Abandoning* means leaving without intent to remove any structure, material, or other matter on or in the seabed or submerged lands of a Sanctuary. For Thunder Bay National Marine Sanctuary and Underwater Preserve, abandoning means leaving without intent to remove any structure, material or other matter on the lake bottom associated with underwater cultural resources.
@@ -10,7 +8,7 @@ The following definitions shall apply to this part, unless modified by the defin
 
 *Assistant Administrator* means the Assistant Administrator for Ocean Services and Coastal Zone Management, National Oceanic and Atmospheric Administration (NOAA) or designee.
 
-*Attract or attracting* means the conduct of any activity that lures or may lure any animal by using food, bait, chum, dyes, decoys (*e.g.,* surfboards or body boards used as decoys), acoustics or any other means, except the mere presence of human beings (*e.g.,* swimmers, divers, boaters, kayakers, surfers).
+*Attract or attracting* means the conduct of any activity that lures or may lure any animal by using food, bait, chum, dyes, decoys (e.g., surfboards or body boards used as decoys), acoustics or any other means, except the mere presence of human beings (e.g., swimmers, divers, boaters, kayakers, surfers).
 
 *Benthic community* means the assemblage of organisms, substrate, and structural formations found at or near the sea/ocean/lake bottom that is periodically or permanently covered by water.
 
@@ -66,7 +64,7 @@ The following definitions shall apply to this part, unless modified by the defin
 
 *Sanctuary quality* means any of those ambient conditions, physical-chemical characteristics and natural processes, the maintenance of which is essential to the ecological health of a national marine sanctuary, including, but not limited to, water quality, sediment quality, and air quality.
 
-*Sanctuary resource* means any living or non-living resource of a national marine sanctuary, or the parts or products thereof, that contributes to the conservation, recreational, ecological, historical, educational, cultural, archeological, scientific, or aesthetic value of the national marine sanctuary, including, but not limited to, waters of the sanctuary, the seabed or submerged lands of the sanctuary, other submerged features and the surrounding seabed, carbonate rock, corals and other bottom formations, coralline algae and other marine plants and algae, marine invertebrates, brine-seep biota, phytoplankton, zooplankton, fish, birds, sea turtles and other marine reptiles, marine mammals, and maritime heritage, cultural, archeological, and historical resources. For Thunder Bay National Marine Sanctuary and Underwater Preserve, Sanctuary resource is defined at § 922.191. For Hawaiian Islands Humpback Whale, Sanctuary resource is defined at § 922.182. For Mallows Bay—Potomac River National Marine Sanctuary, Sanctuary resource is defined at § 922.201(a). For Wisconsin Shipwreck Coast National Marine Sanctuary, sanctuary resource is defined at § 922.211.
+*Sanctuary resource* means any living or non-living resource of a national marine sanctuary, or the parts or products thereof, that contributes to the conservation, recreational, ecological, historical, educational, cultural, archaeological, scientific, or aesthetic value of the national marine sanctuary, including, but not limited to, waters of the sanctuary, the seabed or submerged lands of the sanctuary, other submerged features and the surrounding seabed, carbonate rock, corals and other bottom formations, coralline algae and other marine plants and algae, marine invertebrates, brine-seep biota, phytoplankton, zooplankton, fish, birds, sea turtles and other marine reptiles, marine mammals, and maritime heritage, cultural, archaeological, and historical resources. For Thunder Bay National Marine Sanctuary and Underwater Preserve, Sanctuary resource is defined at § 922.191. For Hawaiian Islands Humpback Whale, Sanctuary resource is defined at § 922.182. For Mallows Bay-Potomac River National Marine Sanctuary, Sanctuary resource is defined at § 922.201(a). For Wisconsin Shipwreck Coast National Marine Sanctuary, sanctuary resource is defined at § 922.211. For Lake Ontario National Marine Sanctuary, sanctuary resource is defined at § 922.221.
 
 *Seagrass* means any species of marine angiosperms (flowering plants) that inhabits a portion of the seabed in a national marine sanctuary. Those species include, but are not limited to: *Zostera asiatica* (Asian eelgrass), *Zostera marina* (eelgrass/common eelgrass); *Thalassia testudinum* (turtle grass); *Syringodium filiforme* (manatee grass); *Halodule wrightii* (shoal grass); *Halophila decipiens* (paddle grass), *H. engelmannii (*Engelmann's seagrass), *H. johnsonii* (Johnson's seagrass); and *Ruppia maritima* (widgeon grass).
 
@@ -91,3 +89,5 @@ The following definitions shall apply to this part, unless modified by the defin
 *Vessel* means a watercraft of any description capable of being used as a means of transportation in or on the waters of a sanctuary. The term includes but is not limited to, motorized and non-motorized watercraft, personal watercraft, airboats, and float planes while maneuvering on the water. For purposes of this part, the terms “vessel,” “watercraft,” and “boat” have the same meaning.
 
 *Washington Coast treaty tribe* means the Hoh, Makah, or Quileute Indian Tribes or the Quinault Indian Nation.
+
+[88 FR 958, Jan. 6, 2023, as amended at 89 FR 48287, June 6, 2024]

@@ -7,3 +7,5 @@
 (c) *Public notice.* The Director will not issue a special use permit for any category of activity unless the Director has published a notice in the Federal Register that such category of activity is subject to the requirements of section 310 of the Act.
 
 (d) *Fees.* The Director may assess and collect fees for the conduct of any activity authorized by a special use permit issued pursuant to this section. The fee will be assessed in accordance with § 922.35.
+
+[88 FR 958, Jan. 6, 2023, as amended at 89 FR 48287, June 6, 2024]

@@ -1,12 +1,10 @@
 ##### § 922.30 National Marine Sanctuary general permits. #####
 
-Link to an amendment published at 89 FR 48287, June 6, 2024.
-
 (a) *Authority to issue general permits.* The Director may allow a person to conduct an activity that would otherwise be prohibited by this part through issuance of a general permit, provided the applicant complies with:
 
 (1) The provisions of this subpart; and
 
-(2) The permit procedures and criteria for all national marine sanctuaries in which the proposed activity is to take place in accordance with relevant site specific regulations appearing in subparts F through T of this part.
+(2) The permit procedures and criteria for all national marine sanctuaries in which the proposed activity is to take place in accordance with relevant site-specific regulations appearing in subparts F through U of this part.
 
 (b) *Sanctuary general permit categories.* The Director may issue a sanctuary general permit under this subpart and the relevant site-specific subpart, subject to such terms and conditions as he or she deems appropriate, if the Director finds that the proposed activity falls within one of the following categories or a category in the relevant site-specific subpart:
 

@@ -1,5 +1,7 @@
 ##### § 710.29 Final appeal process. #####
 
+Link to an amendment published at 89 FR 59597, July 23, 2024.
+
 (a) The Appeal Panel shall be convened by the Deputy Director for Security, Office of Environment, Health, Safety and Security to review and render a final decision in access authorization eligibility cases referred by the individual, the Manager, or the Director in accordance with §§ 710.22 or 710.28.
 
 (b) The Appeal Panel shall consist of three members, each of whom shall be a DOE Headquarters employee, a United States citizen, and hold a DOE Q access authorization. The Deputy Director for Security, Office of Environment, Health, Safety and Security shall serve as a permanent member of the Appeal Panel and as the Appeal Panel Chair. The second member of the Appeal Panel shall be a DOE attorney designated by the General Counsel. The head of the DOE Headquarters element which has cognizance over the individual whose access authorization eligibility is being considered may designate an employee to act as the third member on the Appeal Panel; otherwise, the third member shall be designated by the Chair. Only one member of the Appeal Panel shall be from the security field.

@@ -1,5 +1,7 @@
 ##### § 710.5 Definitions. #####
 
+Link to an amendment published at 89 FR 59595, July 23, 2024.
+
 (a) As used in this part:
 
 *Access authorization* means an administrative determination that an individual is eligible for access to classified matter or is eligible for access to, or control over, special nuclear material.
