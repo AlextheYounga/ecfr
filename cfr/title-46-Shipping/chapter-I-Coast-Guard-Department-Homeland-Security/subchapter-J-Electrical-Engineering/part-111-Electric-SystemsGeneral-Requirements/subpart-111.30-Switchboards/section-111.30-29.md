@@ -18,8 +18,6 @@
 
 (3) An indicator light connected between the generator and circuit breaker.
 
-(3) A pilot lamp connected between the generator and circuit breaker.
-
 (e) For each emergency generator that is not excited from a variable voltage or rotary amplifier exciter that is controlled by a voltage regulator unit acting on the exciter field, each emergency switchboard must have:
 
 (1) A generator field rheostat;

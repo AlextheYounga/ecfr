@@ -1,5 +1,7 @@
 ##### § 11.201 General requirements for national and STCW officer endorsements. #####
 
+Link to an amendment published at 88 FR 67984, Oct. 3, 2023.
+
 (a) *General.* In addition to the requirements of part 10 of this subchapter, the applicant for an officer endorsement, whether original, renewal, duplicate, or raise of grade, must establish to the satisfaction of the Coast Guard that he or she possesses all the qualifications necessary (including but not limited to age, experience, character, physical health, citizenship, approved training, professional competence, and a test for dangerous drugs) before the Coast Guard will issue to him or her a merchant mariner credential (MMC). An applicant for any STCW endorsement must hold the appropriate national endorsement unless otherwise specified.
 
 (b) *English language requirements.* Except as provided in § 11.467(h) of this part, an applicant for an officer endorsement must demonstrate an ability to speak and understand English as found in the navigation rules, aids to navigation publications, emergency equipment instructions, machinery instructions, and radiotelephone communications instructions.

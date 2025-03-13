@@ -10,7 +10,7 @@
 
 (4) Does not have specific requirements addressed elsewhere in this subchapter.
 
-(b) An industrial system that meets the applicable requirements of NFPA 70 (incorporated by reference; see § 110.10-1 of this subchapter)must meet only the following:
+(b) An industrial system that meets the applicable requirements of NFPA 70 (incorporated by reference; see § 110.10-1 of this subchapter) must meet only the following:
 
 (1) Part 110, subpart 110.25, of this chapter—Plan Submittal.
 
