@@ -14,19 +14,21 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) We prohibit dog training except during legal hunting seasons.
 
+(vi) You may only use or possess approved lead-free shot shells and ammunition while in the Big Cove Unit (see § 32.2(k)).
+
 (2) *Upland game hunting.* We allow the hunting of ruffed grouse, squirrel, cottontail rabbit, snowshoe hare, red fox, gray fox, bobcat, woodchuck, coyote, opossum, striped skunk, and raccoon on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (a)(1)(i), (iv) and (v) of this section apply.
+(i) The conditions set forth at paragraphs (a)(1)(i), (iv), (v), and (vi) of this section apply.
 
 (ii) You may hunt coyote, raccoon, opossum, skunk, and fox at night, but you must obtain a Special Use Permit (FWS Form 3-1383-G) at the refuge headquarters before hunting.
 
-(iii) We only allow hunting in the No Rifle Zones with the following equipment: Archery (including crossbow), shotgun, or muzzleloader.
+(iii) We only allow hunting in the No Rifle Zones with the following equipment: archery (including crossbow), shotgun, or muzzleloader.
 
 (iv) We prohibit the hunting of upland game species from March 1 through August 31.
 
 (3) *Big game hunting.* We allow the hunting of white-tailed deer, black bear, and turkey on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (a)(1)(i) and (iv) and (a)(2)(iii) of this section apply.
+(i) The conditions set forth at paragraphs (a)(1)(i), (iv), (vi), and (a)(2)(iii) of this section apply.
 
 (ii) We allow the use of dogs for hunting black bear during the gun season.
 
@@ -60,4 +62,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit trotlines (setlines) and turtle lines.
 
-[85 FR 54143, Aug. 31, 2020, as amended at 86 FR 48882, Aug. 31, 2021]
+[85 FR 54143, Aug. 31, 2020, as amended at 86 FR 48882, Aug. 31, 2021; 89 FR 88169, Nov. 7, 2024]

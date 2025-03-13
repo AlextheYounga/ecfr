@@ -116,13 +116,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) We allow fishing only from legal sunrise to legal sunset.
 
-(f) *Shiawassee National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of waterfowl (duck and goose), American coot, common gallinule, sora, Virginia rail, and Wilson's snipe on designated areas of the refuge subject to the following conditions:
+(f) *Shiawassee National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of waterfowl (duck and goose), American woodcock, American crow, American coot, common gallinule, sora, Virginia rail, and Wilson's snipe on designated areas of the refuge subject to the following conditions:
 
-(i) You must possess and carry a refuge check-in card.
+(i) You must possess and carry a refuge check-in card (FWS Form 3-2405, Self-Clearing Check-in Permit).
 
 (ii) We allow waterfowl hunting on Saturdays, Sundays, Tuesdays, and Thursdays during the regular goose season after September 30.
 
-(iii) We allow hunter access to the refuge 11/2 hours before legal shooting time.
+(iii) We allow hunter access to the refuge 2 hours before legal shooting time to 2 hours after legal shooting time.
 
 (iv) You may possess no more than 25 shotgun shells while hunting in the field.
 
@@ -130,23 +130,17 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We allow the take of feral hogs incidental to other lawful hunting using legal methods of take.
 
-(2) *Upland game hunting.* We allow hunting of turkey, small game (eastern fox squirrel, eastern cottontail, ring-necked pheasant, American woodcock, and American crow), and furbearers (raccoon, coyote, and red fox) on designated areas of the refuge subject to the following conditions:
+(2) *Upland game hunting.* We allow hunting of turkey, small game (eastern fox squirrel, eastern cottontail, and ring-necked pheasant), and furbearers (raccoon, coyote, and red fox) on designated areas of the refuge subject to the following conditions:
 
-(i) The condition set forth at paragraph (f)(1)(vi) of this section applies.
+(i) The conditions set forth at paragraphs (f)(1)(iii) and (vi) of this section apply, except we allow hunter access to the refuge for furbearer hunting from1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
 (ii) You may only hunt turkey during the spring season.
 
-(iii) We allow hunter access for the spring wild turkey season from 11/2 hours before legal shooting time to1/2 hour after legal shooting time.
-
-(iv) We allow hunter access for small game hunting from1/2 hour before legal shooting time to1/2 hour after legal shooting time.
-
-(v) We allow hunter access for furbearer hunting from1/2 hour before legal sunrise to1/2 hour after legal sunset.
-
-(vi) We allow dogs for hunting. Raccoon hunting dogs must wear global positioning system (GPS) or radio collars.
+(iii) We allow dogs for hunting. Raccoon hunting dogs must wear global positioning system (GPS) or radio collars.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
 
-(i) The condition set forth at paragraph (f)(1)(vi) of this section applies.
+(i) The conditions set forth at paragraphs (f)(1)(iii) and (vi) of this section apply.
 
 (ii) You must possess and carry a refuge permit (State-issued permit).
 
@@ -156,4 +150,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow bank fishing from legal sunrise to legal sunset only at designated sites along the Tittabawassee and Cass Rivers.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 86 FR 48868, Aug. 31, 2021]
+[58 FR 5064, Jan. 19, 1993, as amended at 86 FR 48868, Aug. 31, 2021; 89 FR 88166, Nov. 7, 2024]

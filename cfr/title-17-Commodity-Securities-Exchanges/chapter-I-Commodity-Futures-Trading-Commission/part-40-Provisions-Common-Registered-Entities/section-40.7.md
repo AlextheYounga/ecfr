@@ -1,5 +1,7 @@
 ##### § 40.7 Delegations. #####
 
+Link to an amendment published at 89 FR 88628, Nov. 7, 2024.
+
 (a) *Procedural matters.* (1) The Commission hereby delegates, until it orders otherwise, to the Director of the Division of Clearing and Risk and, separately, to the Director of the Division of Market Oversight, to be exercised by either Director, as appropriate, or by such employees of the Commission that either Director may designate from time to time, the following authorities, with the concurrence of the General Counsel or the General Counsel's delegate:
 
 (i) To request, pursuant to § 40.3(c)(2) or § 40.5(c)(1)(ii) of this part, that the registered entity requesting approval amend the proposed product, rule or rule amendment, or supplement the submission to the Commission;

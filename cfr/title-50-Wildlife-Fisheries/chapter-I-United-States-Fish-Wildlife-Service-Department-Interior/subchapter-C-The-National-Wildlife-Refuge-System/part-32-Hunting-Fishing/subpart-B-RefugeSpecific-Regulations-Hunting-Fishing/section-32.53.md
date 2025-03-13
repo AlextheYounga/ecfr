@@ -180,7 +180,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit boats during the regular North Dakota waterfowl season.
 
-(q) *Des Lacs National Wildlife Refuge.* (1) [Reserved]
+(q) *Des Lacs National Wildlife Refuge*—(1) [Reserved]
 
 (2) *Upland game hunting.* We allow hunting of fox, sharp-tailed grouse, Hungarian partridge, turkey, and ring-necked pheasant on designated areas of the refuge subject to the following conditions:
 
@@ -192,13 +192,15 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit accessing refuge lands from refuge waters.
 
-(3) *Big game hunting.* We allow deer and moose hunting on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow deer, elk, and moose hunting on designated areas of the refuge subject to the following conditions:
 
 (i) We only allow the use of portable tree stands and ground blinds. We prohibit leaving stands and blinds overnight on the refuge (see § 27.93 of this chapter).
 
 (ii) We prohibit entry to the refuge before 12 p.m. (noon) on the first day of the respective bow, gun, or muzzleloader deer hunting seasons.
 
 (iii) The condition set forth at paragraph (q)(2)(iv) of this section applies.
+
+(iv) You may only possess nontoxic ammunition when hunting elk (see § 32.2(k)).
 
 (4) [Reserved]
 
@@ -264,11 +266,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) Hunters may possess only approved nontoxic shot (see § 32.2(k)) for all upland game hunting, including turkey.
 
-(3) *Big game hunting.* We allow hunting of deer and moose on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of deer, elk, and moose on designated areas of the refuge subject to the following conditions:
 
 (i) You must possess and carry a refuge permit to hunt antlered deer on the refuge outside the nine public hunting areas during the regular firearms season.
 
 (ii) We prohibit entry to the refuge before 12 p.m. (noon) on the first day of the respective bow, gun, or muzzleloader deer hunting seasons. You may access refuge roads open to the public before 12 p.m. (noon).
+
+(iii) You may only possess nontoxic ammunition when hunting elk (see § 32.2(k)).
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -468,11 +472,15 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit boats during the regular North Dakota waterfowl season.
 
-(oo) *Lostwood National Wildlife Refuge.* (1) [Reserved]
+(oo) *Lostwood National Wildlife Refuge*—(1) [Reserved]
 
 (2) *Upland game hunting.* We allow hunting of sharp-tailed grouse, Hungarian partridge, and ring-necked pheasant on designated areas of the refuge subject to the following condition: We allow the use of dogs to retrieve upland game.
 
-(3) *Big game hunting.* We allow deer and moose hunting on designated areas of the refuge subject to the following condition: We prohibit entry to the refuge before 12 p.m. (noon) on the first day of the respective archery, gun, or muzzleloader deer hunting season.
+(3) *Big game hunting.* We allow deer, elk, and moose hunting on designated areas of the refuge subject to the following conditions:
+
+(i) We prohibit entry to the refuge before 12 p.m. (noon) on the first day of the respective archery, gun, or muzzleloader deer hunting season.
+
+(ii) You may only possess nontoxic ammunition when hunting elk (see § 32.2(k)).
 
 (4) [Reserved]
 
@@ -694,21 +702,23 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit boats during the regular North Dakota waterfowl season.
 
-(kkk) *Upper Souris National Wildlife Refuge.* (1) [Reserved]
+(kkk) *Upper Souris National Wildlife Refuge*—(1) [Reserved]
 
 (2) *Upland game hunting.* We allow hunting of wild turkey, sharp-tailed grouse, Hungarian partridge, and pheasant on designated areas of the refuge subject to the following conditions:
 
-(i) We allow the use of dogs for hunting and retrieving of upland game birds with the exception of wild turkey.
+(i) We allow the use of dogs for hunting and retrieving of upland game birds.
 
 (ii) We allow hunters on the refuge from 5 a.m. until 10 p.m.
 
-(3) *Big game hunting.* We allow deer and moose hunting on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow deer, elk, and moose hunting on designated areas of the refuge subject to the following conditions:
 
 (i) We only allow the use of portable tree stands and ground blinds. You must remove stands and blinds from the refuge at the end of each day's hunt (see § 27.93 of this chapter).
 
 (ii) The condition set forth at paragraph (kkk)(2)(ii) of this section applies.
 
 (iii) We prohibit entry to the refuge before 12 p.m. (noon) on the first day of the respective bow, gun, or muzzleloader deer hunting seasons.
+
+(iv) You may only possess nontoxic ammunition when hunting elk (see § 32.2(k)).
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -774,4 +784,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit boats during the regular North Dakota waterfowl season.
 
-[85 FR 54130, Aug. 31, 2020, as amended at 86 FR 48874, Aug. 31, 2021]
+[85 FR 54130, Aug. 31, 2020, as amended at 86 FR 48874, Aug. 31, 2021; 89 FR 88167, Nov. 7, 2024]

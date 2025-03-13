@@ -1,5 +1,7 @@
 ##### § 40.6 Self-certification of rules. #####
 
+Link to an amendment published at 89 FR 88626, Nov. 7, 2024.
+
 (a) *Required certification.* A registered entity shall comply with the following conditions prior to implementing any rule, other than a rule delisting or withdrawing the certification of a product with no open interest and submitted in compliance with §§ 40.6(a)(1)-(2) and § 40.6(a)(7), that has not obtained Commission approval under § 40.5 of this part, that remains dormant subsequent to being submitted under this section or approved under § 40.5 of this part, or that is submitted under § 40.10 of this part, except as otherwise provided by § 40.10(a):
 
 (1) The registered entity has filed its submission electronically in a format and manner specified by the Secretary of the Commission with the Secretary of the Commission.

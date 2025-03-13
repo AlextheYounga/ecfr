@@ -1,5 +1,7 @@
 ##### § 40.5 Voluntary submission of rules for Commission review and approval. #####
 
+Link to an amendment published at 89 FR 88625, Nov. 7, 2024.
+
 (a) *Request for approval of rules.* Pursuant to Section 5c(c) of the Act, a registered entity may request that the Commission approve a new rule, rule amendment or dormant rule prior to implementation of the rule, or if the request was initially submitted under §§ 40.2 or 40.6 of this part, subsequent to implementation of the rule. A request for approval shall:
 
 (1) Be filed electronically in a format and manner specified by the Secretary of the Commission with the Secretary of the Commission;

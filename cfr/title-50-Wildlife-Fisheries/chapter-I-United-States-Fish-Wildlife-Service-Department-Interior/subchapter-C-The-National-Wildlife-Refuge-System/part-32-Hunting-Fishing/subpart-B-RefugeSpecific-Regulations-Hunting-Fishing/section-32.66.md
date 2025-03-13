@@ -50,11 +50,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) Hunters must remove all decoys and other equipment at the end of each day's hunt (see § 27.93 of this chapter).
 
-(2) [Reserved]
-
-(3) *Big game hunting.* We allow hunting of deer on designated areas of the refuge subject to the following conditions: The condition set forth at paragraph (c)(1)(i) of this section applies.
-
-(4) [Reserved]
+(2)-(4) [Reserved]
 
 (d) *Dungeness National Wildlife Refuge.* (1)-(3) [Reserved]
 
@@ -336,4 +332,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54142, Aug. 31, 2020; 86 FR 48882, Aug. 31, 2021; 87 FR 57134, Sept. 16, 2022; 88 FR 74066, Oct. 30, 2023]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54142, Aug. 31, 2020; 86 FR 48882, Aug. 31, 2021; 87 FR 57134, Sept. 16, 2022; 88 FR 74066, Oct. 30, 2023; 89 FR 88169, Nov. 7, 2024]

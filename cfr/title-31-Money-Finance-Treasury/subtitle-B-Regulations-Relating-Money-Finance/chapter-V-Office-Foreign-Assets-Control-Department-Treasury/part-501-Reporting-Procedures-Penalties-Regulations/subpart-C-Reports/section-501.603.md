@@ -1,7 +1,5 @@
 ##### § 501.603 Reports of blocked, unblocked, or transferred blocked property. #####
 
-Link to an amendment published at 89 FR 81361, Oct. 8, 2024.
-
 (a) *Who must report*—(1) *Persons holding, unblocking, or transferring blocked property.* Any U.S. person (or person subject to U.S. jurisdiction in the case of part 515 of this chapter), including a financial institution, holding, unblocking, or transferring property blocked pursuant to this chapter shall submit the relevant reports described in this section to the Office of Foreign Assets Control (OFAC). This requirement applies to all U.S. persons (or persons subject to U.S. jurisdiction in the case of part 515 of this chapter), who have in their possession or control any property blocked pursuant to this chapter, including financial institutions that receive and block payments or transfers, or who have had in their possession or control such property that is unblocked or transferred, as set out in paragraph (b) of this section.
 
 (2) *Primary responsibility to report.* A report may be filed on behalf of a person who holds, transfers, or releases blocked property by an attorney, agent, or other person. Primary responsibility for reporting, however, rests with the actual holder, transferrer, or releaser of the property, or the person exercising control over property located outside the United States, with the following exceptions: primary responsibility for reporting any trust assets rests with the trustee; and primary responsibility for reporting real property rests with any U.S. co-owner, legal representative, agent, or property manager in the United States. No person is excused from filing a report by reason of the fact that another person has submitted a report with regard to the same property, except upon actual knowledge of the report filed by such other person.
@@ -48,7 +46,15 @@ Link to an amendment published at 89 FR 81361, Oct. 8, 2024.
 
 (G) The legal authority or authorities under which the property is blocked. This may include a reference to the sanctions program (current programs are listed here: *www.treasury.gov/resource-center/sanctions/SDN-List/Pages/program\_tags.aspx*), the applicable part of this chapter (*e.g.,* 31 CFR part 515, 31 CFR part 544), an Executive order (E.O.) (*e.g.,* E.O. 13224, E.O. 13599), or a statute (*e.g.,* Foreign Narcotics Kingpin Designation Act). (*Note:* For this purpose, the term “SDN” is generic and cannot be used to identify the legal authority for blocking property).
 
-(3) *Reports of blocked property that is unblocked or transferred*—(i) *When reports are due.* Reports shall be submitted to OFAC within 10 business days from the date blocked property is unblocked or transferred, except that if such reports are already required as a condition of a general or specific license, no additional report is required to be submitted under this section. For example, such reports must be filed when blocked property is unblocked or transferred pursuant to a valid order from a U.S. government agency or U.S. court, including pursuant to a valid judicial order issued pursuant to Section 201(a) of the Terrorism Risk Insurance Act (Pub. L. 107-297, 116 Stat. 2322, 28 U.S.C. 1610 note) or a valid order of forfeiture by any U.S. government agency or U.S. court. Reports do not need to be filed under this section for debits to blocked accounts for normal service charges authorized pursuant to OFAC sanctions.
+(3) *Reports of blocked property that is unblocked or transferred*—(i) *When reports are due.* Except as provided in paragraphs (b)(3)(i)(A) through (D) of this section, reports shall be submitted to OFAC within 10 business days from the date blocked property is unblocked or transferred. For example, such reports must be filed when blocked property is unblocked or transferred pursuant to a valid order from a U.S. Government agency or U.S. court, including pursuant to a valid judicial order issued pursuant to section 201(a) of the Terrorism Risk Insurance Act (Pub. L. 107-297, 116 Stat. 2322, 28 U.S.C. 1610 note) or a valid order of forfeiture by any U.S. Government agency or U.S. court. Reports do not need to be filed under this section for:
+
+(A) Authorized debits to blocked accounts for normal service charges;
+
+(B) Authorized transfers of funds or credit by a financial institution between blocked accounts in its branches or offices;
+
+(C) Unblocking or transfer of blocked property that is explicitly authorized by a specific or general license, unless the specific or general license includes a condition requiring the submission of a separate unblocking report; or
+
+(D) Unblocking of blocked property pursuant to OFAC's removal of a person from OFAC's List of Specially Designated Nationals and Blocked Persons (SDN List).
 
 (ii) *Required information to be reported.* Reports on the release of property from blocked status (*i.e.,* property that is unblocked) shall include the following:
 
@@ -78,4 +84,4 @@ The reporting requirement set forth in this paragraph (b)(3) applies in addition
 
 (e) *Rules governing availability of information.* Information submitted to OFAC pursuant to this section will be protected from disclosure under the Freedom of Information Act (FOIA) (5 U.S.C. 552) and the provisions of 31 CFR part 1 if OFAC reasonably foresees that disclosure would harm an interest protected by a FOIA exemption or disclosure is prohibited by law. See 31 CFR 1.5 for additional provisions relating to confidential commercial information.
 
-[84 FR 29058, June 21, 2019, as amended at 89 FR 15740, Mar. 5, 2024; 89 FR 40375, May 10, 2024]
+[84 FR 29058, June 21, 2019, as amended at 89 FR 15740, Mar. 5, 2024; 89 FR 40375, May 10, 2024; 89 FR 81361, Oct. 8, 2024]

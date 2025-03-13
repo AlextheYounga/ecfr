@@ -1,5 +1,7 @@
 ##### § 665.106 American Samoa annual catch limits (ACL). #####
 
+Link to an amendment published at 89 FR 88171, Nov. 7, 2024.
+
 (a) In accordance with § 665.4, the ACL for American Samoa bottomfish MUS is 5,000 lb.
 
 (b) When NMFS projects the ACL will be reached, the Regional Administrator shall publish a document to that effect in the Federal Register and shall use other means to notify permit holders. The document will include an advisement that the fishery will be closed, beginning at a specified date that is not earlier than seven days after the date of filing the closure notification for public inspection at the Office of the Federal Register, through the end of the fishing year in which the catch limit is reached.

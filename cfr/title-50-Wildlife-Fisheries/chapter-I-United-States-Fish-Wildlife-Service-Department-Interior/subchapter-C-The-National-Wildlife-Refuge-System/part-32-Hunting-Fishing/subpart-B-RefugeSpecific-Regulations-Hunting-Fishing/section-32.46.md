@@ -92,8 +92,6 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We allow portable tree stands and ground blinds to be used from August 16 through January 31.
 
-(iv) We allow muzzleloader deer hunting subject to the following condition: Hunters must possess a refuge hunt permit (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System) and comply with all of its terms and conditions.
-
 (4) *Sport fishing.* We allow fishing on Minnechaduza Creek and on the Niobrara River, downstream from the Cornell Dam, subject to the following conditions:
 
 (i) The conditions set forth at paragraphs (c)(1)(i) and (ii) of this section apply.
@@ -194,4 +192,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit the take of reptiles, amphibians, and minnows (see § 27.21 of this chapter), with the exception that you may take bullfrogs on refuge lakes open to fishing.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54124, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54124, Aug. 31, 2020; 89 FR 88167, Nov. 7, 2024]

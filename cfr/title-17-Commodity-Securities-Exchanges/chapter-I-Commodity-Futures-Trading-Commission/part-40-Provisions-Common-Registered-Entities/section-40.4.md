@@ -1,5 +1,7 @@
 ##### § 40.4 Amendments to terms or conditions of enumerated agricultural products. #####
 
+Link to an amendment published at 89 FR 88624, Nov. 7, 2024.
+
 (a) Notwithstanding the provisions of this part, a designated contract market must submit for Commission approval under the procedures of § 40.5, prior to its implementation, any rule or dormant rule that, for a delivery month having open interest, would materially change a term or condition, as defined in § 40.1(j), of a contract for future delivery in an agricultural commodity enumerated in Section 1a(9) of the Act, or of an option on such a contract or commodity.
 
 (b) The following rules or rule amendments are not material and should not be submitted under this section:

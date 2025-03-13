@@ -1,5 +1,7 @@
 ##### § 40.3 Voluntary submission of new products for Commission review and approval. #####
 
+Link to an amendment published at 89 FR 88624, Nov. 7, 2024.
+
 (a) *Request for approval.* Pursuant to Section 5c(c) of the Act, a designated contract market, a swap execution facility, or a derivatives clearing organization may request that the Commission approve a new or dormant product prior to listing the product for trading or accepting the product for clearing, or if a product was initially submitted under § 40.2 of this part or § 39.5 of this chapter, subsequent to listing the product for trading or accepting the product for clearing. A submission requesting approval shall:
 
 (1) Be filed electronically in a format and manner specified by the Secretary of the Commission with the Secretary of the Commission;

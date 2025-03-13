@@ -282,9 +282,11 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (q) *Kentucky.* (1) Clarks River National Wildlife Refuge.
 
-(2) Ohio River Islands National Wildlife Refuge.
+(2) Green River National Wildlife Refuge.
 
-(3) Reelfoot National Wildlife Refuge.
+(3) Ohio River Islands National Wildlife Refuge.
+
+(4) Reelfoot National Wildlife Refuge.
 
 (r) *Louisiana.* (1) Atchafalaya National Wildlife Refuge.
 
@@ -1008,4 +1010,4 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (2) [Reserved]
 
-[84 FR 47671, Sept. 10, 2019, as amended at 85 FR 54103, Aug. 31, 2020; 86 FR 48849, Aug. 31, 2021; 87 FR 57128, Sept. 16, 2022]
+[84 FR 47671, Sept. 10, 2019, as amended at 85 FR 54103, Aug. 31, 2020; 86 FR 48849, Aug. 31, 2021; 87 FR 57128, Sept. 16, 2022; 89 FR 88162, Nov. 7, 2024]

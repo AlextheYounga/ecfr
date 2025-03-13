@@ -178,7 +178,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(o) *Lost Trail National Wildlife Refuge.* (1) [Reserved]
+(o) *Lost Trail National Wildlife Refuge*—(1) [Reserved]
 
 (2) *Upland game hunting.* We allow hunting of turkey and mountain grouse on designated areas of the refuge subject to the following conditions:
 
@@ -188,13 +188,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We allow portable or temporary blinds and tree stands.
 
+(iv) You may only use or possess nontoxic shot shells while in the field (see § 32.2(k)).
+
 (3) *Big game hunting.* We allow hunting of elk, white-tailed deer, and mule deer on designated areas of the refuge subject to the following conditions:
 
 (i) The conditions set forth at paragraphs (o)(2)(i) through (iii) of this section apply.
 
-(ii) The first week of the archery elk and deer hunting season and the first week of the general elk and deer hunting season are open only to youth hunters (ages 12 to 15). A nonhunting adult age 18 or older must accompany the youth hunter in the field.
-
-(iii) Persons assisting disabled hunters must not be afield with a hunting firearm, bow, or other hunting device.
+(ii) Persons assisting disabled hunters must not be afield with a hunting firearm, bow, or other hunting device.
 
 (4) [Reserved]
 
@@ -320,4 +320,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54124, Aug. 31, 2020; 86 FR 48871, Aug. 31, 2021; 87 FR 57130, Sept. 16, 2022]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54124, Aug. 31, 2020; 86 FR 48871, Aug. 31, 2021; 87 FR 57130, Sept. 16, 2022; 89 FR 88167, Nov. 7, 2024]

@@ -1,5 +1,7 @@
 ##### § 40.10 Special certification procedures for submission of rules by systemically important derivatives clearing organizations. #####
 
+Link to an amendment published at 89 FR 88628, Nov. 7, 2024.
+
 (a) *Advance notice.* A registered derivatives clearing organization that has been designated by the Financial Stability Oversight Council as a systemically important derivatives clearing organization shall provide notice to the Commission not less than 60 days in advance of any proposed change to its rules, procedures, or operations that could materially affect the nature or level of risks presented by the systemically important derivatives clearing organization. A notice submitted under this section shall be subject to the filing requirements of § 40.6(a)(1) and the Web site publication requirements of § 40.6(a)(2).
 
 (1) The notice of a proposed change shall provide the information required to be submitted under § 40.6(a)(7) and shall specifically describe:

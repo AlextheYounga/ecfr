@@ -1,5 +1,7 @@
 ##### § 40.1 Definitions. #####
 
+Link to an amendment published at 89 FR 88622, Nov. 7, 2024.
+
 As used in this part:
 
 (a) *Business day* means the intraday period of time starting at the business hour of 8:15 a.m. and ending at the business hour of 4:45 p.m.; *business hour* means any hour between 8:15 a.m. and 4:45 p.m. Business day and business hour are Eastern Standard Time or Eastern Daylight Savings Time, whichever is currently in effect in Washington, DC, on all days except Saturdays, Sundays, and Federal holidays in Washington, DC.

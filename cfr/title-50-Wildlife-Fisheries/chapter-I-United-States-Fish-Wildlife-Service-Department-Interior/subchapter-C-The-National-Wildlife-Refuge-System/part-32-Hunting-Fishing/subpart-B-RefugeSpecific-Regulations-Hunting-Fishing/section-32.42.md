@@ -24,11 +24,23 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer and moose on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (a)(1)(ii) through (v) of this section apply.
+(i) The conditions set forth at paragraphs (a)(1)(i), (iv), and (v) of this section apply.
 
 (ii) We prohibit shooting on, from, over, across, or within 30 feet (9 meters) of a roadway open to motorized public vehicle transportation at a big game animal or a decoy of a big game animal.
 
 (iii) We only allow archery hunting from the start of the State's deer firearms season, and close as governed by the State's archery deer season.
+
+(iv) You must remove all boats, decoys, cameras, and other personal property brought onto the refuge at the end of each day (see §§ 27.93 and 27.94 of this chapter).
+
+(v) We allow only portable tree stands; portable, elevated hunting platforms not attached to trees; and portable ground blinds that can be hand-carried into the hunting area.
+
+(vi) You may place your tree stand(s), elevated platform(s), and/or ground blind(s) on the refuge only during your designated licensed season. You must remove these stands/blinds by the end of your designated licensed season (see § 27.93 of this chapter). Unoccupied stands/blinds may be used by anyone.
+
+(vii) We allow only two stands/blinds per hunter on the refuge. You must clearly label the stands/blinds with your State hunting license number.
+
+(viii) We prohibit the use of nails, wire, screws, or bolts to attach a stand to a tree.
+
+(ix) We prohibit hunting from a tree into which a metal object has been driven to support a hunter.
 
 (4) [Reserved]
 
@@ -632,4 +644,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing throughout the district subject to the following condition: The condition set forth at paragraph (s)(1)(i) of this section applies.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54119, Aug. 31, 2020; 86 FR 48868, Aug. 31, 2021]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54119, Aug. 31, 2020; 86 FR 48868, Aug. 31, 2021; 89 FR 88166, Nov. 7, 2024]

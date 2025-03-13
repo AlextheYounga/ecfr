@@ -1,5 +1,7 @@
 ##### § 424.527 Provisional period of enhanced oversight. #####
 
+Link to an amendment published at 89 FR 88485, Nov. 7, 2024.
+
 (a) *New provider or supplier.* Exclusively for purposes of both section 1866(j)(3) of the Act and this § 424.527, the term “new provider or supplier” is defined as any of the following:
 
 (1) A newly enrolling Medicare provider or supplier. (This includes providers that are required to enroll as a new provider in accordance with the change in majority ownership provisions in § 424.550(b).)

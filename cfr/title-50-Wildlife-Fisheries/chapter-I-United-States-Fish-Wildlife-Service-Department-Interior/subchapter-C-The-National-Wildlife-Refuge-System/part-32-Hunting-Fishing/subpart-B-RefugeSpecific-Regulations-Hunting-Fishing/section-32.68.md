@@ -60,7 +60,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit hunting bear with dogs.
 
-(iii) Hunters must possess a refuge permit (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System) to hunt in Area E (surrounding the office/visitor center).
+(iii) Hunters must possess a refuge permit (FWS Form 3-2439, Hunt Application/Permit—National Wildlife Refuge System) to hunt in Area E (surrounding the office/visitor center).
 
 (iv) The condition set forth at paragraph (d)(2)(viii) applies.
 
@@ -73,6 +73,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (ii) We prohibit the use of fishing weights or lures containing lead.
 
 (iii) We prohibit the taking of any mussel (clam), crayfish, frog, leech, or turtle species by any method on the refuge (see § 27.21 of this chapter).
+
+(iv) We allow fishing in designated areas from legal sunrise to legal sunset each day.
 
 (e) *Leopold Wetland Management District*—
 (1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district, except that we prohibit hunting on the Blue Wing Waterfowl Production Area (WPA) in Ozaukee County and on the Wilcox WPA in Waushara County, subject to the following conditions:
@@ -252,4 +254,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) The condition set forth at paragraph (j)(1)(iii) applies.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54144, Aug. 31, 2020; 86 FR 48882, Aug. 31, 2021; 87 FR 57134, Sept. 16, 2022]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54144, Aug. 31, 2020; 86 FR 48882, Aug. 31, 2021; 87 FR 57134, Sept. 16, 2022; 89 FR 88169, Nov. 7, 2024]

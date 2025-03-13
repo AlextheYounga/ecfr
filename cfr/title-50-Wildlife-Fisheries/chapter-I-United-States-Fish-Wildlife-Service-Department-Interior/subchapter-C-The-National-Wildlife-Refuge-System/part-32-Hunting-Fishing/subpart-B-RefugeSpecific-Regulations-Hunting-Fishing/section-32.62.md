@@ -562,43 +562,43 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit mooring to water control structures.
 
-(p) *Trinity River National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck on designated areas of the refuge subject to the following conditions:
+(p) *Trinity River National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, merganser, and coot on designated areas of the refuge subject to the following conditions:
 
-(i) We only allow hunting on Champion Lake by refuge lottery drawing.
+(i) We only allow hunting on Champion Lake with a refuge-issued permit (signed hunt brochure).
 
-(ii) We only allow hunting on Champion Lake Saturdays and Sundays during the State duck season. Hunters may not enter the refuge until 5 a.m. and must be out of the hunt area by 12 p.m. (noon).
+(ii) We only allow hunting on Champion Lake on Saturdays and Sundays during the State duck season. Hunters may not enter the refuge until 4:30 a.m. and must be out of the hunt area by 12 p.m. (noon).
 
-(iii) You must remove all blinds, decoys, shell casings, and other personal equipment following each hunt day (see §§ 27.93 and 27.94 of this chapter).
+(iii) We allow the use of dogs when retrieving game.
 
-(iv) We allow the use of dogs when retrieving game.
+(iv) Hunters age 16 and younger must be under the direct supervision of an adult age 17 or older.
 
-(v) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
+(v) We require a minimum distance between hunt parties of 150 yards (135 meters).
 
-(vi) We require a minimum distance between hunt parties of 150 yards (135 meters).
+(vi) We allow motors of 10 horsepower or less on Champion Lake.
 
-(2) *Upland game hunting.* We allow hunting for squirrel and rabbit on designated areas of the refuge subject to the following conditions:
+(2) *Upland game hunting.* We allow hunting for squirrel, and incidental take of rabbit, on designated areas of the refuge subject to the following conditions:
 
-(i) We require hunters to possess a refuge permit (signed refuge hunt brochure). The hunter must carry the nontransferable permit at all times while hunting.
+(i) We require hunters to possess a permit issued by Texas Parks and Wildlife Department (TPWD). Permits are issued by a lottery drawing. The hunter must carry the nontransferable permit at all times while hunting.
 
-(ii) We require that refuge hunters turn in the Harvest Report (FWS Form 3-2542) by the date specified on the permit. Failure to submit the report will render the hunter ineligible for the next year's limited upland game hunt.
+(ii) The condition set forth at paragraph (p)(1)(iii) of this section applies.
 
-(iii) The condition set forth at paragraph (p)(1)(v) of this section applies.
+(iii) We allow all-terrain vehicle use for hunters with disabilities in designated units.
 
-(iv) We allow all-terrain vehicle use for hunters with disabilities in designated units.
+(iv) We require a minimum distance between hunt parties of 200 yards (180 meters).
 
-(v) We require a minimum distance between hunt parties of 200 yards (180 meters). Hunters must visibly wear 400 square inches (2,600 square centimeters) of hunter orange above the waist and a solid hunter-orange hat or cap.
+(v) Hunters may enter the refuge no earlier than 4:30 a.m. We allow hunting from 30 minutes before legal sunrise to 30 minutes after legal sunset only during the days specified on the permit. Hunters must be off the refuge 11/2 hours after legal sunset.
 
-(vi) Hunters may enter the refuge no earlier than 4:30 a.m. We allow hunting from1/2 hour before legal sunrise to legal sunset only during the days specified on the permit.
+(vi) Hunters may place no more than one temporary stand on the refuge. Hunters may place the stand during the scouting week before the hunt begins and must remove it the day the hunt ends (see § 27.93 of this chapter). Hunters must label blinds with the name of the permit holder.
 
-(vii) Hunters may place no more than one temporary stand on the refuge. Hunters may place the stand during the scouting week before the hunt begins and must remove it the day the hunt ends (see § 27.93 of this chapter). Hunters must label blinds with the name of the permit holder. We prohibit hunting or erection of blinds on refuge roads or mowed/maintained trails.
+(3) *Big game hunting.* We allow hunting of white-tailed deer, and incidental take of feral hog, on designated areas of the refuge subject to the following conditions:
 
-(3) *Big game hunting.* We allow hunting of white-tailed deer and feral hog on designated areas of the refuge subject to the following conditions:
+(i) We require hunters to possess a TPWD-issued permit. Permits are issued by a lottery drawing. The hunter must carry the nontransferable permit at all times while hunting.
 
-(i) We require a refuge permit (signed refuge hunt brochure) and Harvest Report (FWS Form 3-2542). Hunters must turn in both forms by the date specified on the permit. Failure to submit the Harvest Report will render the hunter ineligible for the next year's limited big game hunt. Drawings are by lottery. The hunter must carry the nontransferable permit at all times while hunting.
+(ii) The conditions set forth at paragraphs (p)(1)(iii) and (p)(2)(iii) through (vi) of this section apply.
 
-(ii) The conditions set forth at paragraphs (p)(1)(v) and (p)(2)(iv) through (vii) of this section apply.
+(iii) We allow archery hunting of white-tailed deer during the refuge designated 23-day archery season.
 
-(iii) We allow hunting during a designated 23-day archery season.
+(iv) We allow gun hunting of white-tailed deer during the State-designated general gun season in two 9-day “mini-seasons” and during the State-designated muzzleloader season.
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
@@ -610,4 +610,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow fishing from legal sunrise to legal sunset.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54140, Aug. 31, 2020; 86 FR 48876, Aug. 31, 2021; 88 FR 74065, Oct. 30, 2023]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54140, Aug. 31, 2020; 86 FR 48876, Aug. 31, 2021; 88 FR 74065, Oct. 30, 2023; 89 FR 88168, Nov. 7, 2024]

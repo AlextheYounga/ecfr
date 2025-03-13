@@ -138,7 +138,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) In the controlled waterfowl hunting area, we require a valid Refuge Recreation Pass (available electronically or in person at the refuge office) for all hunters age 16 or older. All hunters age 15 and younger must remain in the immediate presence of an adult (age 18 or older) at all times while in the field.
 
-(ii) We require advance reservations for the first 2 days of the hunting season. Reservations are obtained through the waterfowl lottery each year.
+(ii) Unless otherwise posted, we require advance reservations for the first 2 days of the hunting season. Reservations are obtained through the waterfowl lottery each year.
 
 (iii) Hunters may enter the refuge at 4:30 a.m. unless otherwise posted.
 
@@ -152,7 +152,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) Pit-style hunting blinds located in the Stearns units and unit 9D are first-come, first-served. We require you to hunt within a 200-foot (61-meter) radius of the blind.
 
-(2) *Upland game hunting.* We allow hunting of pheasant on designated areas of the refuge subject to the following condition: In the controlled pheasant hunting area, we require a valid permit (available electronically or in person at the refuge office) for all hunters age 16 or older. All hunters age 15 and younger must remain in the immediate presence of an adult (age 18 or older) at all times while in the field.
+(2) *Upland game hunting.* We allow hunting of pheasant on designated areas of the refuge subject to the following conditions:
+
+(i) In the controlled pheasant hunting area, we require a valid Refuge Recreation Pass (available electronically or in person at the refuge office) for all hunters age 16 or older.
+
+(ii) All hunters age 15 or younger must remain in the immediate presence of an adult (age 18 or older) at all times while in the field.
 
 (3)-(4) [Reserved]
 
@@ -174,9 +178,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (m) *Modoc National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
 
-(i) On the opening weekend of the hunting season, hunters must possess and carry a refuge permit (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System) issued through random drawing to hunters with advance reservations only.
+(i) On the opening weekend of the hunting season, hunters must possess and carry a refuge permit (FWS Form 3-2439, Hunt Application/Permit—National Wildlife Refuge System) issued through random drawing to hunters with advance reservations only.
 
-(ii) After the opening weekend of the hunting season, we only allow hunting on Tuesdays, Thursdays, and Saturdays. Hunters must check-in and out of the refuge by using self-service permits (FWS Form 3-2405, Self-Clearing Check-in/out Permit). Hunters must completely fill out the “Refuge Hunt Permit” portion of the permit and deposit it in the drop box prior to hunting. The hunter must possess and carry the “Record of Kill” portion of the permit while on the refuge and turn it in prior to exiting the hunting area.
+(ii) After the opening weekend of the hunting season, we only allow hunting on Tuesdays, Thursdays, and Saturdays. Hunters must check-in and out of the refuge by using self-service permits (FWS Form 3-2405, Self-Clearing Check-in/out Permit). Hunters must completely fill out the “Refuge Hunt Permit” portion of the permit and deposit it in the drop box prior to hunting. Hunters must complete and display the “Daily Vehicle Permit” in the windshield of the hunter's vehicle prior to hunting. The hunter must possess and carry the “Record of Kill” and “Waterfowl Harvest Statistics” portions of the permit while on the refuge and turn them in prior to exiting the hunting area.
 
 (iii) In the designated spaced blind area, you must remain within the blind assigned to you.
 
@@ -188,13 +192,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vii) You must remove all blinds, decoys, shell casings, other personal equipment, and refuse from the refuge at the end of each day (see §§ 27.93 and 27.94 of this chapter).
 
-(viii) Hunters must enter and exit the hunting area from the three designated hunt parking lots, which we open 11/2 hours before legal sunrise and close 1 hour after legal sunset each hunt day.
+(viii) Hunters must enter and exit the hunting area from the three designated hunt parking lots, which we open 11/2 hours before legal shooting time and close 1 hour after legal shooting time each hunt day.
 
-(ix) We only allow access to the hunt area by foot and nonmotorized cart.
+(ix) We only allow walk-in access to the hunt area by foot and nonmotorized cart.
 
 (2) *Upland game hunting.* We allow hunting of pheasant on designated areas of the refuge subject to the following conditions:
 
-(i) We limit hunting to junior hunters possessing a valid State Junior Hunting License and refuge Junior Pheasant Hunt Permit (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System).
+(i) We limit hunting to junior hunters possessing a valid State Junior Hunting License and refuge Junior Pheasant Hunt Permit (FWS Form 3-2439, Hunt Application/Permit—National Wildlife Refuge System).
 
 (ii) All hunters age 15 and younger must remain in the immediate presence of an adult (age 18 or older) at all times while in the field.
 
@@ -426,7 +430,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) All hunters age 15 or younger must remain in the immediate presence of an adult (age 18 or older) at all times while in the field.
 
-(iii) We require advance reservations for the first 2 days of the hunting season. You may obtain a reservation through the waterfowl lottery each year.
+(iii) Unless otherwise posted, we require advance reservations for the first 2 days of the hunting season. You may obtain a reservation through the waterfowl lottery each year.
 
 (iv) Hunters may enter the refuge at 4:30 a.m. unless otherwise posted.
 
@@ -444,10 +448,10 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2) *Upland game hunting.* We allow hunting of pheasant on designated areas of the refuge subject to the following conditions:
 
-(i) In the controlled pheasant hunting area, we require a valid permit (available electronically or in person at the refuge office) for all hunters age 16 or older.
+(i) In the controlled pheasant hunting area, we require a valid Refuge Recreation Pass (available electronically or in person at the refuge office) for all hunters age 16 or older.
 
 (ii) All hunters age 15 or younger must remain in the immediate presence of an adult (age 18 or older) at all times while in the field.
 
 (3)-(4) [Reserved]
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54105, Aug. 31, 2020; 86 FR 48857, Aug. 31, 2021; 87 FR 57128, Sept. 16, 2022; 88 FR 74063, Oct. 30, 2023]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54105, Aug. 31, 2020; 86 FR 48857, Aug. 31, 2021; 87 FR 57128, Sept. 16, 2022; 88 FR 74063, Oct. 30, 2023; 89 FR 88162, Nov. 7, 2024]

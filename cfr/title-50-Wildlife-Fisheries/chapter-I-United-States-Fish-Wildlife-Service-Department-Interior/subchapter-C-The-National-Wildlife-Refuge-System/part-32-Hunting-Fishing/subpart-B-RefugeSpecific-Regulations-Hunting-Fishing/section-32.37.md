@@ -161,9 +161,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (viii) We allow only the use of reflective tacks as marking devices.
 
-(ix) We only allow the incidental take of nutria with approved shot and weapons during any open waterfowl season on the refuge.
-
-(x) We allow the incidental take of raccoon, feral hog, armadillo, opossum, and coyote with approved shot and weapons during any open season on the refuge.
+(ix) We only allow the incidental take of nutria with approved shot and weapons during any open waterfowl season on the refuge. We allow the incidental take of raccoon, feral hog, armadillo, opossum, and coyote with approved shot and weapons during any open season on the refuge.
 
 (2) *Upland game hunting.* We allow hunting of squirrel and rabbit, and the incidental take of nutria, coyote, raccoon, armadillo, and opossum, on designated areas of the refuge subject to the following conditions:
 
@@ -175,11 +173,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) When hunting, you must possess only shot size 4 or smaller or 0.22 caliber rimfire rifles or smaller. We allow the use of air rifles.
 
-(v) The conditions set forth at paragraphs (d)(1)(i) through (iii) and (viii) through (x) of this section apply.
+(v) The conditions set forth at paragraphs (d)(1)(i) through (iii), (viii), and (ix) of this section apply.
+
+(vi) The conditions set forth at paragraphs (d)(2)(i) through (iv) of this section do not apply to upland game hunting on the Mitigation Units.
 
 (3) *Big game hunting.* We allow the hunting of white-tailed deer, and the incidental take of feral hog, on designated areas of the refuge subject to the following conditions:
 
-(i) We allow hunting of deer only with firearms (see § 27.42 of this chapter) during 5 specific days during October and November. A youth gun hunt will occur during the last weekend of October. The general gun hunt will occur during the final full weekend in November. The youth gun hunt includes both Saturday and Sunday. The general gun hunt includes the Friday immediately before the weekend.
+(i) We allow hunting of deer only with firearms (see § 27.42 of this chapter) during 5 specific days during October and November. A youth gun hunt will occur during the last weekend of October, on both Saturday and Sunday. The general gun hunt will occur during the final full weekend in November over 3 days: the Friday immediately before the weekend, Saturday, and Sunday.
 
 (ii) We allow archery deer hunting according to the State of Louisiana archery season. We close refuge archery hunting during refuge deer gun hunts.
 
@@ -187,13 +187,15 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) Hunters may use only portable deer stands. Hunters may erect deer stands no earlier than 48 hours before the deer archery season and must remove them from the refuge within 48 hours after the season closes (see § 27.93 of this chapter). Hunters may place only one deer stand on the refuge. Deer stands must have the owner's State hunting license/sportsman's identification number clearly printed on the stand.
 
-(v) The conditions set forth at paragraphs (d)(1)(i) through (iii), (viii), and (x), and (d)(2)(iii) of this section apply.
+(v) The conditions set forth at paragraphs (d)(1)(i) through (iii), (viii), and (ix), and (d)(2)(iii) of this section apply.
 
-(vi) We prohibit the use of deer decoys.
+(vi) The condition set forth at paragraph (d)(3)(i) of this section does not apply to big game hunting on the Mitigation Units.
 
-(vii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
+(vii) We prohibit the use of deer decoys.
 
-(viii) Deer hunters must display State Wildlife Management Area (WMA) hunter-orange or blaze-pink (as governed by State WMA regulations).
+(viii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
+
+(ix) Deer hunters must display State Wildlife Management Area (WMA) hunter-orange or blaze-pink (as governed by State WMA regulations).
 
 (4) *Sport fishing.* We allow sport fishing in all refuge waters subject to the following conditions:
 
@@ -203,7 +205,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) The refuge is only open to recreational finfishing and shellfishing from legal sunrise to legal sunset.
 
-(e) *Big Branch Marsh National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, merganser, teal, coot, light and dark goose, snipe, rail, gallinule, dove, and woodcock on designated areas of the refuge subject to the following conditions:
+(e) *Big Branch Marsh National Wildlife Refuge*—
+
+(1) *Migratory game bird hunting.* We allow hunting of duck, merganser, teal, coot, light and dark goose, snipe, rail, gallinule, dove, and woodcock on designated areas of the refuge subject to the following conditions:
 
 (i) Each person age 18 and older must possess and carry a valid, signed refuge user brochure while on the refuge.
 
@@ -225,13 +229,15 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (x) We only allow the incidental take of nutria with approved shot and weapons during any open waterfowl (duck, teal, merganser, light and dark goose, and coot) season on the refuge.
 
+(xi) We prohibit hunters and anglers from utilizing air boats, air thrust boats, mud boats, aircraft, and air-cooled propulsion engines on the refuge.
+
 (2) *Upland game hunting.* We allow hunting of squirrel, rabbit, and quail, and the incidental take of nutria, coyote, raccoon, armadillo, and opossum, on designated areas of the refuge subject to the following conditions:
 
 (i) When hunting, you must possess only shot size 4 or smaller, or 0.22 caliber rim-fire rifles or smaller. We allow the use of air rifles.
 
 (ii) When hunting squirrel and rabbit, and for the incidental take of raccoon, we allow the use of dogs only after the close of the State archery deer season. When hunting quail, you may only use dogs to locate, point, and retrieve.
 
-(iii) The conditions set forth at paragraphs (e)(1)(i), (v), (vi), and (viii) through (x) of this section apply.
+(iii) The conditions set forth at paragraphs (e)(1)(i), (v), (vi), and (viii) through (xi) of this section apply.
 
 (iv) During the dog season for squirrel and rabbit, all hunters, including archers (while on the ground), except waterfowl hunters, must wear a minimum of a cap or hat that is hunter orange, blaze pink, or other such color as governed by State regulations.
 
@@ -245,9 +251,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We allow placement of temporary deer stands no earlier than 48 hours prior to the start of deer archery season. Hunters must remove all deer stands within 48 hours after the archery deer season closes (see § 27.93 of this chapter). We allow only one deer stand per hunter on the refuge. Deer stands must have the owner's State license/sportsmen's identification number clearly printed on the stand. We prohibit hunting stands on trees painted with white bands.
 
-(iv) The conditions set forth at paragraphs (e)(1)(i), (v), (vi), and (viii) through (x) of this section apply.
+(iv) Deer hunters must display State Wildlife Management Area (WMA) hunter-orange or blaze-pink (as governed by State WMA regulations) while on the ground.
 
-(v) We prohibit the use of deer decoys.
+(v) The conditions set forth at paragraphs (e)(1)(i), (v), (vi), and (viii) through (xi) of this section apply.
+
+(vi) We prohibit the use of deer decoys.
 
 (4) *Sport fishing.* We allow recreational finfishing and shellfishing on designated areas of the refuge subject to the following conditions:
 
@@ -257,7 +265,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) You must attend to any fishing, crabbing, and crawfishing equipment at all times.
 
-(iv) The condition set forth at paragraph (e)(1)(i) of this section applies.
+(iv) The conditions set forth at paragraphs (e)(1)(i) and (xi) of this section apply.
 
 (f) *Black Bayou Lake National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, coot, and woodcock on designated areas of the refuge subject to the following conditions:
 
@@ -634,7 +642,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (x) We allow only the use of reflective tacks as marking devices.
 
-(2) *Upland game hunting.* We allow hunting of rabbit, and the incidental take of nutria, coyote, raccoon, armadillo, and opossum on designated areas of the refuge subject to the following conditions:
+(xi) We close all refuge lands between Raphael Pass and Main Pass to public entry, including hunting and fishing, from November 1 through the end of February; year-round access is only allowed in Main, Raphael, Octave, Women, and Flatboat passes.
+
+(xii) We prohibit hunters and anglers from utilizing air boats, air thrust boats, mud boats, aircraft, and air-cooled propulsion engines on the refuge.
+
+(2) *Upland game hunting.* We allow hunting of rabbit, and the incidental take of nutria, coyote, raccoon, armadillo, and opossum, on designated areas of the refuge subject to the following conditions:
 
 (i) The refuge rabbit season opens the day after the State duck season closes and continues through the remainder of the State rabbit season.
 
@@ -644,11 +656,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit upland game hunting on days corresponding with refuge deer gun hunts.
 
-(v) The conditions set forth at paragraphs (m)(1)(i) and (v) through (viii) of this section apply.
+(v) The conditions set forth at paragraphs (m)(1)(i), (v) through (viii), (xi), and (xii) of this section apply.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (m)(1)(i) and (v) through (x) of this section apply.
+(i) The conditions set forth at paragraphs (m)(1)(i) and (v) through (xii) of this section apply.
 
 (ii) We allow archery deer hunting, bucks only, from October 1 through 15. We allow either-sex archery deer hunting from October 16 through 31, and from the day after the close of the State duck season through the end of the State deer archery season.
 
@@ -664,11 +676,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow recreational finfishing and shellfishing on designated areas of the refuge subject to the following conditions:
 
-(i) We only allow sport finfishing and shellfishing from1/2 hour before legal sunrise until1/2 hour after legal sunset. During the State waterfowl hunting seasons, we only allow sport finfishing and shellfishing from 2 p.m. until1/2 hour after legal sunset. However, during the waterfowl season, we prohibit all public entry between Main Pass and Raphael Pass.
+(i) We only allow sport finfishing and shellfishing from1/2 hour before legal sunrise until1/2 hour after legal sunset. During the State waterfowl hunting seasons, we only allow sport finfishing and shellfishing from 2 p.m. until1/2 hour after legal sunset.
 
 (ii) We prohibit the use of trotlines, limblines, slat traps, jug lines, nets, or alligator lines.
 
-(iii) The condition set forth at paragraph (m)(1)(i) of this section applies.
+(iii) The conditions set forth at paragraphs (m)(1)(i), (xi), and (xii) of this section apply.
 
 (n) *Grand Cote National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, and woodcock on designated areas of the refuge subject to the following conditions:
 
@@ -1140,4 +1152,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit the taking of turtle (see § 27.21 of this chapter).
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54113, Aug. 31, 2020; 86 FR 48860, Aug. 31, 2021]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54113, Aug. 31, 2020; 86 FR 48860, Aug. 31, 2021; 89 FR 88164, Nov. 7, 2024]

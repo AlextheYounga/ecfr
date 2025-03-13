@@ -1,5 +1,7 @@
 ##### § 484.105 Condition of participation: Organization and administration of services. #####
 
+Link to an amendment published at 89 FR 88485, Nov. 7, 2024.
+
 The HHA must organize, manage, and administer its resources to attain and maintain the highest practicable functional capacity, including providing optimal care to achieve the goals and outcomes identified in the patient's plan of care, for each patient's medical, nursing, and rehabilitative needs. The HHA must assure that administrative and supervisory functions are not delegated to another agency or organization, and all services not furnished directly are monitored and controlled. The HHA must set forth, in writing, its organizational structure, including lines of authority, and services furnished.
 
 (a) *Standard: Governing body.* A governing body (or designated persons so functioning) must assume full legal authority and responsibility for the agency's overall management and operation, the provision of all home health services, fiscal operations, review of the agency's budget and its operational plans, and its quality assessment and performance improvement program.
