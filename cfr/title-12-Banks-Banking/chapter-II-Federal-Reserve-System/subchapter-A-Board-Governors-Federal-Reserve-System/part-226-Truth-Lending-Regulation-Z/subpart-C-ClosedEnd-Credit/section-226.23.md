@@ -1,12 +1,12 @@
 ##### § 226.23 Right of rescission. #####
 
-(a) *Consumer's right to rescind.* (1) In a credit transaction in which a security interest is or will be retained or acquired in a consumer's principal dwelling, each consumer whose ownership interest is or will be subject to the security interest shall have the right to rescind the transaction, except for transactions described in paragraph (f) of this section.47
+(a) *Consumer's right to rescind.* (1) In a credit transaction in which a security interest is or will be retained or acquired in a consumer's principal dwelling, each consumer whose ownership interest is or will be subject to the security interest shall have the right to rescind the transaction, except for transactions described in paragraph (f) of this section. 47
 
 47 For purposes of this section, the addition to an existing obligation of a security interest in a consumer's principal dwelling is a transaction. The right of rescission applies only to the addition of the security interest and not the existing obligation. The creditor shall deliver the notice required by paragraph (b) of this section but need not deliver new material disclosures. Delivery of the required notice shall begin the rescission period.
 
 (2) To exercise the right to rescind, the consumer shall notify the creditor of the rescission by mail, telegram or other means of written communication. Notice is considered given when mailed, when filed for telegraphic transmission or, if sent by other means, when delivered to the creditor's designated place of business.
 
-(3) The consumer may exercise the right to rescind until midnight of the third business day following consummation, delivery of the notice required by paragraph (b) of this section, or delivery of all material disclosures,48 whichever occurs last. If the required notice or material disclosures are not delivered, the right to rescind shall expire 3 years after consummation, upon transfer of all of the consumer's interest in the property, or upon sale of the property, whichever occurs first. In the case of certain administrative proceedings, the rescission period shall be extended in accordance with section 125(f) of the Act.
+(3) The consumer may exercise the right to rescind until midnight of the third business day following consummation, delivery of the notice required by paragraph (b) of this section, or delivery of all material disclosures, 48 whichever occurs last. If the required notice or material disclosures are not delivered, the right to rescind shall expire 3 years after consummation, upon transfer of all of the consumer's interest in the property, or upon sale of the property, whichever occurs first. In the case of certain administrative proceedings, the rescission period shall be extended in accordance with section 125(f) of the Act.
 
 48 The term ‘material disclosures’ means the required disclosures of the annual percentage rate, the finance charge, the amount financed, the total of payments, the payment schedule, and the disclosures and limitations referred to in §§ 226.32(c) and (d) and 226.35(b)(2).
 
@@ -38,15 +38,15 @@
 
 (e) *Consumer's waiver of right to rescind.* (1) The consumer may modify or waive the right to rescind if the consumer determines that the extension of credit is needed to meet a bona fide personal financial emergency. To modify or waive the right, the consumer shall give the creditor a dated written statement that describes the emergency, specifically modifies or waives the right to rescind, and bears the signature of all the consumers entitled to rescind. Printed forms for this purpose are prohibited, except as provided in paragraph (e)(2) of this section.
 
-(2) The need of the consumer to obtain funds immediately shall be regarded as a bona fide personal financial emergency provided that the dwelling securing the extension of credit is located in an area declared during June through September 1993, pursuant to 42 U.S.C. 5170, to be a major disaster area because of severe storms and flooding in the Midwest.48a In this instance, creditors may use printed forms for the consumer to waive the right to rescind. This exemption to paragraph (e)(1) of this section shall expire one year from the date an area was declared a major disaster.
+(2) The need of the consumer to obtain funds immediately shall be regarded as a bona fide personal financial emergency provided that the dwelling securing the extension of credit is located in an area declared during June through September 1993, pursuant to 42 U.S.C. 5170, to be a major disaster area because of severe storms and flooding in the Midwest. 48a In this instance, creditors may use printed forms for the consumer to waive the right to rescind. This exemption to paragraph (e)(1) of this section shall expire one year from the date an area was declared a major disaster.
 
 48a A list of the affected areas will be maintained by the Board.
 
-(3) The consumer's need to obtain funds immediately shall be regarded as a bona fide personal financial emergency provided that the dwelling securing the extension of credit is located in an area declared during June through September 1994 to be a major disaster area, pursuant to 42 U.S.C. 5170, because of severe storms and flooding in the South.48b In this instance, creditors may use printed forms for the consumer to waive the right to rescind. This exemption to paragraph (e)(1) of this section shall expire one year from the date an area was declared a major disaster.
+(3) The consumer's need to obtain funds immediately shall be regarded as a bona fide personal financial emergency provided that the dwelling securing the extension of credit is located in an area declared during June through September 1994 to be a major disaster area, pursuant to 42 U.S.C. 5170, because of severe storms and flooding in the South. 48b In this instance, creditors may use printed forms for the consumer to waive the right to rescind. This exemption to paragraph (e)(1) of this section shall expire one year from the date an area was declared a major disaster.
 
 48b A list of the affected areas will be maintained and published by the Board. Such areas now include parts of Alabama, Florida, and Georgia.
 
-(4) The consumer's need to obtain funds immediately shall be regarded as a bona fide personal financial emergency provided that the dwelling securing the extension of credit is located in an area declared during October 1994 to be a major disaster area, pursuant to 42 U.S.C. 5170, because of severe storms and flooding in Texas.48c In this instance, creditors may use printed forms for the consumer to waive the right to rescind. This exemption to paragraph (e)(1) of this section shall expire one year from the date an area was declared a major disaster.
+(4) The consumer's need to obtain funds immediately shall be regarded as a bona fide personal financial emergency provided that the dwelling securing the extension of credit is located in an area declared during October 1994 to be a major disaster area, pursuant to 42 U.S.C. 5170, because of severe storms and flooding in Texas. 48c In this instance, creditors may use printed forms for the consumer to waive the right to rescind. This exemption to paragraph (e)(1) of this section shall expire one year from the date an area was declared a major disaster.
 
 48c A list of the affected areas will be maintained and published by the Board. Such areas now include the following counties in Texas: Angelina, Austin, Bastrop, Brazos, Brazoria, Burleson, Chambers, Fayette, Fort Bend, Galveston, Grimes, Hardin, Harris, Houston, Jackson, Jasper, Jefferson, Lee, Liberty, Madison, Matagorda, Montgomery, Nacagdoches, Orange, Polk, San Augustine, San Jacinto, Shelby, Trinity, Victoria, Washington, Waller, Walker, and Wharton.
 
@@ -64,7 +64,7 @@
 
 (g) *Tolerances for accuracy*—(1) *One-half of 1 percent tolerance.* Except as provided in paragraphs (g)(2) and (h)(2) of this section, the finance charge and other disclosures affected by the finance charge (such as the amount financed and the annual percentage rate) shall be considered accurate for purposes of this section if the disclosed finance charge:
 
-(i) is understated by no more than1/2 of 1 percent of the face amount of the note or $100, whichever is greater; or
+(i) is understated by no more than 1/2 of 1 percent of the face amount of the note or $100, whichever is greater; or
 
 (ii) is greater than the amount required to be disclosed.
 

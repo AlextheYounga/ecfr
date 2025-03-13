@@ -1,6 +1,6 @@
 ##### § 226.3 Exempt transactions. #####
 
-This regulation does not apply to the following:4
+This regulation does not apply to the following: 4
 
 4 [Reserved]
 

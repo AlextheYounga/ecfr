@@ -1,7 +1,5 @@
 ##### § 201.28 Statements of Account for digital audio recording devices or media. #####
 
-Link to an amendment published at 89 FR 100361, Dec. 12, 2024.
-
 (a) *General.* This section prescribes rules pertaining to the filing of Statements of Account and royalty fees in the Copyright Office as required by 17 U.S.C. 1003(c) and 1004, in order to import and distribute, or manufacture and distribute, in the United States any digital audio recording device or digital audio recording medium.
 
 (b) *Definitions.* For purposes of this section, the following definitions apply:
@@ -100,17 +98,17 @@ Link to an amendment published at 89 FR 100361, Dec. 12, 2024.
 
 (6) *Credits for returned or exported products.* When digital audio recording products first distributed in the United States for ultimate transfer to United States consumers are returned to the manufacturer or importer as unsold or defective merchandise, or are exported, the manufacturing or importing party may take a credit to be deducted from the royalties payable for the period when the products were returned or exported. The credit may be taken only for returns or exports made within two years following the date royalties were paid for the products. This credit must be reflected in the manufacturing or importing party's quarterly or annual Statement of Account. If the manufacturer or importer later redistributes in the United States any products for which a credit has been taken, these products must be listed on the Statement of Account, and a new computation of the royalty fee must be made based on the transfer price of the products at the time of the new distribution.
 
-(7) *Oath and signature.* Each Statement of Account shall include a legally binding signature, including an electronic signature as defined in 15 U.S.C. 7006, of an authorized officer, principal, or agent of the filing party. The signature shall be accompanied by:
+(7) *Oath and signature.* (i) Each Statement of Account shall include a legally binding signature, including an electronic signature as defined in 15 U.S.C. 7006, of an authorized officer, principal, or agent of the filing party. The signature shall be accompanied by:
 
-(i) The printed or typewritten name of the person signing the quarterly Statement of Account;
+(A) The printed or typewritten name of the person signing the quarterly Statement of Account;
 
-(ii) The date the document is signed;
+(B) The date the document is signed;
 
-(iii) The following certification:
+(C) The following certification:
 
 I, the undersigned, hereby certify that I am an authorized officer, principal, or agent of the “manufacturing or importing party” identified in Space B.
 
-Penalties for fraud and false statements are provided under 18 U.S.C. 1001 *et. seq.*
+(ii) Penalties for fraud and false statements are provided under 18 U.S.C. 1001 *et seq.*
 
 (f) *Contents of annual Statements of Account*—(1) *General contents.* Each annual Statement of Account shall be filed on form DART/A, “Annual Statement of Account for Digital Audio Recording Products.” It must be filed by any importer or manufacturer that distributed in the United States, during a given calendar or fiscal year, any digital audio recording device or digital audio recording medium. The annual statement shall cover the aggregate of the distribution of devices and media for the entire year corresponding to the calendar or fiscal year elected. The annual Statement of Account shall contain the information, oath, and certification prescribed in paragraphs (e)(2)(i) through (e)(7)(iii) of this section, and shall cover the entire accounting year, including the fourth quarter distribution, and shall also provide for the reconciliation of the aggregated accounting of digital audio recording devices and media for the reported accounting year.
 
@@ -130,25 +128,7 @@ Penalties for fraud and false statements are provided under 18 U.S.C. 1001 *et. 
 
 (g) *Copies of statements of account.* A licensee shall file an original and one copy of the statement of account with the Licensing Section of the Copyright Office.
 
-(h) *Royalty fee payment.* (1) All royalty fees must be paid by electronic funds transfer, and must be received in the designated bank by the filing deadline for the relevant accounting period. The following information must be provided as part of the EFT and/or as part of the remittance advice as provided for in circulars issued by the Copyright Office:
-
-(i) Remitter's name and address;
-
-(ii) Name of a contact person, telephone number and extension, and email address;
-
-(iii) The actual or anticipated date that the EFT will be transmitted;
-
-(iv) Type of royalty payment (*i.e.*, DART);
-
-(v) Total amount submitted via the EFT;
-
-(vi) Total amount to be paid by year and period;
-
-(vii) Number of Statements of Account that the EFT covers;
-
-(viii) ID numbers assigned by the Licensing Section;
-
-(ix) Legal name of the owner for each Statement of Account.
+(h) *Royalty fee payment.* (1) All royalty fees, including supplemental royalty fee payments, must be paid by electronic funds transfer (EFT), and must be received in the designated bank by the filing deadline for the relevant accounting period. Remitters must provide specific information as part of the EFT and as part of the remittance advice, as listed in the instructions for the Statement of Account form.
 
 (2) The remittance advice shall be attached to the Statement(s) of Account. In addition, a copy of the remittance advice shall be emailed or sent by facsimile to the Licensing Section.
 
@@ -174,13 +154,17 @@ Penalties for fraud and false statements are provided under 18 U.S.C. 1001 *et. 
 
 (iv) Following final processing, all requests will be filed with the original Statement of Account in the records of the Copyright Office. Nothing contained in this paragraph shall be considered to relieve manufacturing or importing parties of their full obligations under title 17 of the United States Code, and the filing of a correction or supplemental payment shall have only such effect as may be attributed to it by a court of competent jurisdiction.
 
-(v)(A) The request must be accompanied by a filing fee in the amount prescribed in § 201.3(e) for each Statement of Account involved. Payment of this fee may be in the form of a personal or company check, or a certified check, cashier's check, or money order, payable to the Register of Copyrights. No request will be processed until the appropriate filing fees are received.
-
-(B) Requests that a supplemental royalty fee payment be deposited must be accompanied by a remittance in the full amount of such fee. Payment of the supplemental royalty fee must be in the form of a certified check, cashier's check, money order, or electronic payment payable to the Register of Copyrights. No such request will be processed until an acceptable remittance in the full amount of the supplemental royalty fee has been received.
+(v) All requests for correction or refunds must be accompanied by a filing fee in the amount prescribed in § 201.3(e) for each Statement of Account involved, paid by EFT. No request will be processed until the appropriate filing fees are received, and no supplemental royalty fee will be deposited until an acceptable remittance in the full amount of the supplemental royalty fee has been received.
 
 (vi) All requests submitted under paragraph (j) of this section must be signed by the manufacturing or importing party named in the Statement of Account, or the duly authorized agent of that party in accordance with paragraph (e)(7) of this section.
 
 (vii) A request for a refund is not necessary where the Licensing Section, during its examination of a Statement of Account or related document, discovers an error that has resulted in a royalty overpayment. In this case, the Licensing Section will forward the royalty refund to the manufacturing or importing party named in the Statement of Account. The Copyright Office will not pay interest on any royalty refunds.
+
+(viii) A refund payment in the amount of fifty dollars ($50.00) or less will not be refunded unless specifically requested before the statement of account is closed, at which point any excess payment will be treated as part of the royalty fee. A request for a refund payment in an amount of over fifty dollars ($50.00) is not necessary where the Licensing Division, during its examination of a Statement of Account or related document, discovers an error that has resulted in a royalty overpayment. In this case, the Licensing Division will affirmatively send the royalty refund to the manufacturing or importing party named in the Statement of Account.
+
+(4) Interest on late payments or underpayments. Royalty fee payments submitted as a result of late or amended filings shall include interest. Interest shall begin to accrue beginning on the first day after the close of the period for filing statements of account for all underpayments or late payments of royalties for the digital audio recording obligation occurring within that accounting period. The accrual period shall end on the date the payment submitted by a remitter is received by the Copyright Office. The interest rate applicable to a specific accounting period beginning with the 1992/2 period shall be the Current Value of Funds Rate, as posted on the Treasury Department website, in effect on the first business day after the close of the filing deadline for that accounting period. Manufacturers or importing parties wishing to obtain the interest rate for a specific accounting period may do so by consulting the Federal Register for the applicable Current Value of Funds Rate, or by consulting the Copyright Office website. Interest is not required to be paid on any royalty underpayment or late payment from a particular accounting period if the interest charge is less than or equal to five dollars ($5.00).
+
+(5) A statement of account shall be considered closed in cases where a licensee fails to reply within ninety days to the request for further information from the Copyright Office or, in the case of subsequent correspondence that may be necessary, ninety days from the date of the last correspondence from the Office.
 
 (k) *Examination of Statements of Account by the Copyright Office.* (1) Upon receiving a Statement of Account and royalty fee, the Copyright Office will make an official record of the actual date when such statement and fee were physically received in the Copyright Office. Thereafter, the Licensing Section will examine the statement for obvious errors or omissions appearing on the face of the documents and will require that any such obvious errors or omissions be corrected before final processing of the document is completed. If, as the result of communications between the Copyright Office and the manufacturer or importer, an additional fee is deposited or changes or additions are made in the Statement of Account, the date that additional deposit or information was actually received in the Office will be added to the official record.
 
@@ -194,4 +178,4 @@ Penalties for fraud and false statements are provided under 18 U.S.C. 1001 *et. 
 
 (m) *Confidentiality of Statements of Account.* Public access to the Copyright Office files of Statements of Account for digital audio recording products shall not be provided. Access will only be granted to interested copyright parties in accordance with regulations prescribed by the Register of Copyrights pursuant to 17 U.S.C. 1003(c).
 
-[59 FR 4589, Feb. 1, 1994, as amended at 64 FR 36575, July 7, 1999; 65 FR 48914, Aug. 10, 2000; 70 FR 30367, May 26, 2005; 70 FR 38022, July 1, 2005; 71 FR 45740, Aug. 10, 2006; 72 FR 33692, June 19, 2007; 73 FR 29073, May 20, 2008; 82 FR 9358, Feb. 6, 2017; 83 FR 51841, Oct. 15, 2018; 85 FR 19667, Apr. 8, 2020; 86 FR 32642, June 22, 2021]
+[59 FR 4589, Feb. 1, 1994, as amended at 64 FR 36575, July 7, 1999; 65 FR 48914, Aug. 10, 2000; 70 FR 30367, May 26, 2005; 70 FR 38022, July 1, 2005; 71 FR 45740, Aug. 10, 2006; 72 FR 33692, June 19, 2007; 73 FR 29073, May 20, 2008; 82 FR 9358, Feb. 6, 2017; 83 FR 51841, Oct. 15, 2018; 85 FR 19667, Apr. 8, 2020; 86 FR 32642, June 22, 2021; 89 FR 100361, Dec. 12, 2024]

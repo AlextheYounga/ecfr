@@ -151,4 +151,4 @@ Except as provided in §§ 648.11(l) and 648.17, or elsewhere in this part, the 
 
 (2) *Possession restrictions to facilitate harvest of sub-ACLs allocated to the common pool.* If the Regional Administrator projects that the sub-ACL of any stock allocated to the common pool pursuant to § 648.90(a)(4) will not be caught during the fishing year, the Regional Administrator may remove or adjust, in a manner consistent with the Administrative Procedure Act, a per-DAS possession limit and/or a maximum trip limit in order to facilitate harvest and enable the total catch to approach, but not exceed, the pertinent sub-ACL allocated to the common pool for that fishing year.
 
-[69 FR 22978, Apr. 27, 2004] Editorial Note:For Federal Register citations affecting § 648.86, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[69 FR 22978, Apr. 27, 2004]Editorial Note:For Federal Register citations affecting § 648.86, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

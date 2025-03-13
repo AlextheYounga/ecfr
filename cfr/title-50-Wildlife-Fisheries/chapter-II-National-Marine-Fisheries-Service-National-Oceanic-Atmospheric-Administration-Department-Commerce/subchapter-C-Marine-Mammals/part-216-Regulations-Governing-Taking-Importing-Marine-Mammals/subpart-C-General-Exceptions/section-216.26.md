@@ -2,7 +2,7 @@
 
 Notwithstanding any other provision of this subpart:
 
-(a) Any bones, teeth or ivory of any dead marine mammal may be collected from a beach or from land within 1/4 of a mile of the ocean. The term *ocean* includes bays and estuaries.
+(a) Any bones, teeth or ivory of any dead marine mammal may be collected from a beach or from land within1/4 of a mile of the ocean. The term *ocean* includes bays and estuaries.
 
 (b) Notwithstanding the provisions of subpart D, soft parts that are sloughed, excreted, or discharged naturally by a living marine mammal in the wild may be collected or imported for bona fide scientific research and enhancement, provided that collection does not involve the taking of a living marine mammal in the wild.
 

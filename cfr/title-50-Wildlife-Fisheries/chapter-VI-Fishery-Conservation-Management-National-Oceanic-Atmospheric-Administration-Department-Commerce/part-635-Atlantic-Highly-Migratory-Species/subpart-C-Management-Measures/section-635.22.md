@@ -38,4 +38,4 @@
 
 (3) Vessels issued an HMS Angling category permit under § 635.4(c), may retain, possess, or land no more than one North Atlantic swordfish per person and up to four North Atlantic swordfish per vessel per trip.
 
-[64 FR 29135, May 28, 1999] Editorial Note:For Federal Register citations affecting § 635.22, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[64 FR 29135, May 28, 1999]Editorial Note:For Federal Register citations affecting § 635.22, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

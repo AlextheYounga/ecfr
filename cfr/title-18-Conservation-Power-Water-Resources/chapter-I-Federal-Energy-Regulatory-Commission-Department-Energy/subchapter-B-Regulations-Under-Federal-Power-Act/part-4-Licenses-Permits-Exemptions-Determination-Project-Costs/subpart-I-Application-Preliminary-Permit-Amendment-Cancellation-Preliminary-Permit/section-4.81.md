@@ -10,7 +10,7 @@ Before the Federal Energy Regulatory CommissionApplication for Preliminary Permi
 
 (2) The location of the proposed project is:
 
-State or territory: County: Township or nearby town: Stream or other body of water:
+State or territory:County:Township or nearby town:Stream or other body of water:
 
 (3) The exact name, business address, and telephone number of the applicant are:
 

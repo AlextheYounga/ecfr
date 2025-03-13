@@ -8,7 +8,7 @@
 
 (b) *Additional gear configuration specifications.* Use of SBG and LBG must conform with the following requirements:
 
-(1) *Surface buoy flotation and strike detection array requirements.* The surface buoy flotation and strike detection array must include a minimum of three buoys (a minimum 45-pound (20.41 kilogram) buoyancy non-compressible hard ball, a minimum 6-pound (2.72 kilogram) buoyancy buoy, and a strike detection buoy), with no more than 6 feet (1.83 meters) of line between adjacent buoys, all connected in-line by a minimum of 3/8 inch (9.53 millimeter) diameter line.
+(1) *Surface buoy flotation and strike detection array requirements.* The surface buoy flotation and strike detection array must include a minimum of three buoys (a minimum 45-pound (20.41 kilogram) buoyancy non-compressible hard ball, a minimum 6-pound (2.72 kilogram) buoyancy buoy, and a strike detection buoy), with no more than 6 feet (1.83 meters) of line between adjacent buoys, all connected in-line by a minimum of3/8 inch (9.53 millimeter) diameter line.
 
 (i) Buoys must be free of tether attachments (*e.g.,* non-streamlined gear with loops and/or dangling components).
 

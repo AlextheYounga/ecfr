@@ -1,10 +1,10 @@
 ##### § 45.2 Positions requiring authorization. #####
 
-(a) The positions subject to this part shall include those of any person elected or appointed to perform the duties or functions ordinarily performed by a president, vice president, secretary, treasurer, general manager, comptroller, chief purchasing agent, director or partner, or to perform any other similar executive duties or functions, in any corporation 1 within the purview of section 305(b) of the Act. With respect to positions not herein specifically mentioned which applicant holds and which are invested with executive authority, applicant shall state in the application the source of such executive authority, whether by bylaws, action of the board of directors, or otherwise.
+(a) The positions subject to this part shall include those of any person elected or appointed to perform the duties or functions ordinarily performed by a president, vice president, secretary, treasurer, general manager, comptroller, chief purchasing agent, director or partner, or to perform any other similar executive duties or functions, in any corporation1 within the purview of section 305(b) of the Act. With respect to positions not herein specifically mentioned which applicant holds and which are invested with executive authority, applicant shall state in the application the source of such executive authority, whether by bylaws, action of the board of directors, or otherwise.
 
 1*Corporation* means any corporation, joint-stock company, partnership, association, business trust, organized group of persons, whether incorporated or not, or a receiver or receivers, trustee or trustees of any of the foregoing. It shall not include *municipalities* as defined in the Federal Power Act (sec. 3, 49 Stat. 838; 16 U.S.C. 796).
 
-(b) Corporations 1 within the purview of section 305(b) of the Act include:
+(b) Corporations1 within the purview of section 305(b) of the Act include:
 
 (1) Any public utility under the Act, which means any person who owns or operates facilities for the transmission of electric energy in interstate commerce, or any person who owns or operates facilities for the sale at wholesale of electric energy in interstate commerce.
 

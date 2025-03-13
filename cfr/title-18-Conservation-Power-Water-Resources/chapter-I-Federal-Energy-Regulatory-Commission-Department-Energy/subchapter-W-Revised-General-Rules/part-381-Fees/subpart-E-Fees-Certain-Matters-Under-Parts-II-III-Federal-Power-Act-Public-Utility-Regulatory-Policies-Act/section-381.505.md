@@ -4,4 +4,4 @@
 
 (b) The fee filed under this section must be submitted in accordance with subpart A of this part and § 292.207(b)(2) of this chapter.
 
-[Order 494, 53 FR 15382, Apr. 29, 1988] Editorial Note:For Federal Register citations affecting § 381.505, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Order 494, 53 FR 15382, Apr. 29, 1988]Editorial Note:For Federal Register citations affecting § 381.505, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

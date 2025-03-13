@@ -1352,4 +1352,4 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Wing tip* means the point where adjacent breast lines intersect or where a breast line intersects with the fishing line.
 
-[61 FR 31230, June 19, 1996] Editorial Note:For Federal Register citations affecting § 679.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

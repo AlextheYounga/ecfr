@@ -20,7 +20,7 @@
 
 (1) *Degradable hinges.* A scup pot or trap must have degradable hinges and fasteners made of one of the following degradable materials:
 
-(i) Untreated hemp, jute, or cotton string of 3/16 inches (4.8 mm) diameter or smaller;
+(i) Untreated hemp, jute, or cotton string of3/16 inches (4.8 mm) diameter or smaller;
 
 (ii) Magnesium alloy, timed float releases (pop-up devices) or similar magnesium alloy fasteners; or
 

@@ -6,7 +6,7 @@
 
 (c) Each classified document received by or originating in the FERC will be assigned an individual control number by the central control registry, OAO. Control numbers will be assigned serially within a calendar year. The first digit of the four-digit control number will indicate the calendar year in which the document was originated or received in the FERC. Control numbers assigned to top secret material will be separate from the sequence for other classified material and will be prefixed by the letters “TS”. Examples:
 
-9006—Sixth classified document controlled by the central control registry in calendar year 1969. TS 1006—Sixth Top Secret document controlled by the central control registry in calendar year 1971.
+9006—Sixth classified document controlled by the central control registry in calendar year 1969.TS 1006—Sixth Top Secret document controlled by the central control registry in calendar year 1971.
 
 (d) The accounting system for control of classified documents will be effected through the use of FERC Form 55, Classified Document Control Record and Receipt. This form will be used to:
 

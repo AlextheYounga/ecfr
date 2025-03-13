@@ -1,7 +1,5 @@
 ##### § 1304.101 Floating cabins. #####
 
-Link to an amendment published at 89 FR 104881, Dec. 26, 2024.
-
 (a)(1) Floating cabins include nonnavigable houseboats approved by TVA as of December 16, 2016, and other floating structures moored on the Tennessee River System as of this date and determined by TVA in its sole discretion to be designed and used primarily for human habitation or occupation and not designed and used primarily for navigation or transportation on the water as of December 16, 2016. If, at any time, the floating cabin is modified such that it no longer meets the criteria to be deemed a floating cabin, the approval for that existing floating cabin will be terminated. TVA's judgment will be guided by, but not limited to, the following factors:
 
 (i) Whether the structure is usually kept at a fixed mooring point;
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 104881, Dec. 26, 2024.
 
 (b) Owners of floating cabins are required to register the floating cabin with TVA by January 10, 2022. Floating cabin owners shall include the following information with their registration: Clear and current photographs of the structure; a drawing or drawings showing in reasonable detail the size and shape of the floating cabin (length, width, and height) and attached structures, such as decks or slips (length, width, and height); and a completed and signed TVA registration form. The completed TVA registration form shall include the mailing and contact information of the owner(s); the TVA permit or TVA-issued numbers (when applicable); the mooring location of the floating cabin; how the floating cabin is moored; how electrical service is provided; how wastewater and sewage are managed; and an owner's signature.
 
-(c) All floating cabins shall comply with the rules contained in this part and make application for a section 26a permit by October 1, 2024.
+(c) All floating cabins shall comply with the rules contained in this part and make application for a section 26a permit by October 1, 2029. TVA may, at its sole discretion, deny an initial application for a floating cabin submitted after this date. Unpermitted structures are subject to the removal provisions of this part and section 9b of the TVA Act.
 
 (d) Existing floating cabins may remain on the Tennessee River System provided they stay in compliance with the rules contained in this part and pay any necessary and reasonable fees levied by TVA to ensure compliance with TVA's regulations, in accordance with section 9b of the TVA Act.
 
@@ -44,7 +42,7 @@ Link to an amendment published at 89 FR 104881, Dec. 26, 2024.
 
 (h)(1) Existing floating cabins shall be maintained in a good state of repair and may be maintained without additional approval from TVA. By way of example, these activities may include painting, changing the internal walls within the existing enclosed space, replacing the shingles, siding, electrical wiring, or plumbing, or adding new flotation in compliance with § 1304.400. Repair and maintenance activities shall not modify the dimensions (length, width, and height) of the floating cabin, any external walls, or the enclosed or open space.
 
-(2) Any alterations to the dimensions or approved plans for an existing floating cabin shall be deemed a structural modification and shall require prior written approval from TVA. All expansions in length, width, or height are prohibited, except under the following circumstances if approved in writing in advance by TVA:
+(2) Any alterations to the dimensions or approved plans for an existing floating cabin (monolithic frame or attached structure) shall be deemed a structural modification and shall require prior written approval from TVA. All expansions in length, width, or height are prohibited, except under the following circumstances if approved in writing in advance by TVA. Structural modifications to attached structures are subject to § 1304.101(i).
 
 (i) TVA may allow alterations necessary to comply with health, safety, and environmental standards;
 
@@ -52,7 +50,7 @@ Link to an amendment published at 89 FR 104881, Dec. 26, 2024.
 
 (iii) TVA may allow enclosure of existing open space on the monolithic frame of the existing floating cabin if the enclosure will not result in expansion to the dimensions (length, width, and height) of the monolithic frame, subject to § 1304.101(i). At least 24 contiguous square feet of open space with a minimum width of four feet shall be maintained on the monolithic frame for unrestricted boarding.
 
-(3) Owners must submit an application to TVA 60 days in advance of proposed rebuilding of a floating cabin or a significant portion of a floating cabin. The owner shall not begin construction until prior written acknowledgment from TVA is received. Plans for removal of the existing floating cabin or portions to be rebuilt shall be acknowledged in writing by TVA before removal occurs, and the removal shall be at the owner's expense before construction of the rebuild may begin. The owner shall provide evidence of approval from the marina operator to rebuild within the marina. TVA may require a new permit for the proposed rebuilding. Construction of the rebuilt floating cabin must be completed within 18 months. The rebuilt floating cabin shall match the exact configuration and dimensions (length, width, and height) of both the total floating cabin and the enclosed and open space as approved by TVA; attached structures are subject to § 1304.101(i).
+(3) Owners must submit an application to TVA sixty (60) days in advance of proposed rebuilding of an entire or significant portion of a floating cabin (monolithic frame or attached structures). The owner shall not begin construction until prior written acknowledgment from TVA is received. Plans for removal of the existing floating cabin or portions to be rebuilt shall be acknowledged in writing by TVA before removal occurs, and the removal shall be at the owner's expense before construction of the rebuild may begin. The owner shall provide evidence of approval from the marina operator to rebuild within the approved harbor limits of a commercial marina. TVA may require a new permit for the proposed rebuilding. Construction of the rebuilt floating cabin must be completed within 18 months. The rebuilt monolithic frame of the floating cabin shall match the exact configuration and dimensions (length, width, and height) of both the total monolithic frame and the enclosed and open space as approved by TVA; attached structures are subject to § 1304.101(i). The footprint of the attached structures shall not be incorporated into the footprint of the monolithic frame of the floating cabin.
 
 (4) TVA may allow the exchange of multiple existing floating cabins removed from the Tennessee River System for a single combined floating cabin under the following conditions:
 
@@ -74,7 +72,7 @@ Link to an amendment published at 89 FR 104881, Dec. 26, 2024.
 
 (2) The footprint of the attached structures shall not be incorporated into the footprint of the monolithic frame of the floating cabin.
 
-(3) Attached structures shall not exceed 14 feet in height from the lowest floor level, shall not be enclosed, and shall comply with § 1304.204(p).
+(3) Attached structures shall not exceed 14 feet in height from the lowest floor level, shall not be enclosed, shall not be connected to the monolithic frame by a single roofline, and shall comply with § 1304.204(p).
 
 (4) All attached structures must be permitted to the floating cabin owner. The owner shall provide evidence of approval from the marina operator for the attached structures.
 
@@ -82,4 +80,4 @@ Link to an amendment published at 89 FR 104881, Dec. 26, 2024.
 
 (j) Any floating cabin not in compliance with this part is subject to the applicable removal provisions of § 1304.406 and section 9b of the TVA Act.
 
-[86 FR 50633, Sept. 10, 2021]
+[86 FR 50633, Sept. 10, 2021, as amended at 89 FR 104881, Dec. 26, 2024]

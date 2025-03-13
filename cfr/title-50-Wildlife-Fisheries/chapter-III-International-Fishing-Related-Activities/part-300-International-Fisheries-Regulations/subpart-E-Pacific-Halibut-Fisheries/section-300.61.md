@@ -132,4 +132,4 @@ In addition to the terms defined in § 300.2 and those in the Act and the Conven
 
 *Vessel class* means, for purposes of commercial fishing in Commission regulatory Area 2A, a group of vessels within a specific range of overall length (in feet) (46 CFR 69.9), as designated by the letters A-H pursuant to § 300.63(g).
 
-[61 FR 35550, July 5, 1996] Editorial Note:For Federal Register citations affecting § 300.61, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[61 FR 35550, July 5, 1996]Editorial Note:For Federal Register citations affecting § 300.61, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

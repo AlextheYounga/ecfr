@@ -4,7 +4,7 @@
 
 This is to certify that\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-(Name of public utility concurring) assents to and concurs in the rate schedule (rate schedule supplement) described below, which the\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name of public utility filing rate schedule) has filed, and hereby files this certificate of concurrence in lieu of the filing of the rate schedule (rate schedule supplement) specified. (Here give exact description of rate schedule or supplement, including F.E.R.C. number) (Name of public utility) By(Title)
+(Name of public utility concurring)assents to and concurs in the rate schedule (rate schedule supplement) described below, which the\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name of public utility filing rate schedule) has filed, and hereby files this certificate of concurrence in lieu of the filing of the rate schedule (rate schedule supplement) specified.(Here give exact description of rate schedule or supplement, including F.E.R.C. number)(Name of public utility)By(Title)
 
 Dated \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 19\_\_\_\_.
 

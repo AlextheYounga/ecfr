@@ -300,7 +300,7 @@
 
 (3) In Region 5, except as specified in § 90.616, channels 201-397 may be authorized in the United States under the following conditions:
 
-(i) An assignment may be made if the predicted power flux density (PFD) of a proposed station's signal does not exceed −107 dBW/m2 at the border. The prediction of the PFD is calculated based upon a modified Longley-Rice point-to-point propagation model with time and location variabilities of 10 percent3 and 3-second digitized terrain date4.
+(i) An assignment may be made if the predicted power flux density (PFD) of a proposed station's signal does not exceed −107 dBW/m2 at the border. The prediction of the PFD is calculated based upon a modified Longley-Rice point-to-point propagation model with time and location variabilities of 10 percent 3 and 3-second digitized terrain date4.
 
 3 See note 1, paragraph (c) of this section.
 

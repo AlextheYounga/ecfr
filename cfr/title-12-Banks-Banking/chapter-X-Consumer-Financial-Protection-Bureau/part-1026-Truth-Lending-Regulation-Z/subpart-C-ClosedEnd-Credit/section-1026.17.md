@@ -46,7 +46,7 @@
 
 (1) Any changed term unless the term was based on an estimate in accordance with § 1026.17(c)(2) and was labeled an estimate;
 
-(2) All changed terms, if the annual percentage rate at the time of consummation varies from the annual percentage rate disclosed earlier by more than1/8 of 1 percentage point in a regular transaction, or more than1/4 of 1 percentage point in an irregular transaction, as defined in § 1026.22(a).
+(2) All changed terms, if the annual percentage rate at the time of consummation varies from the annual percentage rate disclosed earlier by more than 1/8 of 1 percentage point in a regular transaction, or more than 1/4 of 1 percentage point in an irregular transaction, as defined in § 1026.22(a).
 
 (g) *Mail or telephone orders—delay in disclosures.* Except for private education loan disclosures made in compliance with § 1026.47 and mortgage disclosures made in compliance with § 1026.19(a) or (e), (f), and (g), if a creditor receives a purchase order or a request for an extension of credit by mail, telephone, or facsimile machine without face-to-face or direct telephone solicitation, the creditor may delay the disclosures until the due date of the first payment, if the following information for representative amounts or ranges of credit is made available in written form or in electronic form to the consumer or to the public before the actual purchase order or request:
 

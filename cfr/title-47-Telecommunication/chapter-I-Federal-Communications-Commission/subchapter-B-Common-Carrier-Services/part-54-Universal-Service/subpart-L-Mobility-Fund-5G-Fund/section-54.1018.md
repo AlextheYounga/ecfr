@@ -24,5 +24,4 @@
 
 (h) Compliance with paragraphs (a) through (d) and (f) of this section will not be required until after the completion of such review by the Office of Management and Budget as the Office of Economics and Analytics and Wireline Competition Bureau deem necessary. The Commission will publish a document in the Federal Register announcing that compliance date and revising or removing this paragraph (h).
 
-[76 FR 73877, Nov. 29, 2011, as amended at 89 FR 101399, Dec. 13, 2024]Effective Date Note:At 85 FR 75822, Nov. 25, 2020,
-§ 54.1018 was revised, however, paragraphs (a), (b) and (c) have a delayed effective date.
+[76 FR 73877, Nov. 29, 2011, as amended at 89 FR 101399, Dec. 13, 2024] Effective Date Note:At 85 FR 75822, Nov. 25, 2020, § 54.1018 was revised, however, paragraphs (a), (b) and (c) have a delayed effective date.

@@ -42,7 +42,7 @@
 
 (iii) You may use only biodegradable materials for bait; if fish or wildlife is used as bait, only the head, bones, viscera, or skin of legally harvested fish and wildlife, the skinned carcasses of furbearers, and unclassified wildlife may be used, except that in Units 7 and 15, fish or fish parts may not be used as bait. Scent lures may be used at registered bait stations.
 
-(iv) You may not use bait within 1/4 mile of a publicly maintained road or trail.
+(iv) You may not use bait within1/4 mile of a publicly maintained road or trail.
 
 (v) You may not use bait within 1 mile of a house or other permanent dwelling, or within 1 mile of a developed campground or developed recreational facility.
 
@@ -1178,7 +1178,7 @@
 
 (C) You may take caribou from a boat moving under power in Unit 18.
 
-(D) You may take moose from a boat moving under power in that portion of Unit 18 west of a line running from the mouth of the Ishkowik River to the closest point of Dall Lake, then to the east bank of the Johnson River at its entrance into Nunavakanukakslak Lake (N 60°59.41′ Latitude; W 162°22.14′ Longitude), continuing upriver along a line 1/2 mile south and east of, and paralleling a line along the southerly bank of the Johnson River to the confluence of the east bank of Crooked Creek, then continuing upriver to the outlet at Arhymot Lake, then following the south bank west to the Unit 18 border.
+(D) You may take moose from a boat moving under power in that portion of Unit 18 west of a line running from the mouth of the Ishkowik River to the closest point of Dall Lake, then to the east bank of the Johnson River at its entrance into Nunavakanukakslak Lake (N 60°59.41′ Latitude; W 162°22.14′ Longitude), continuing upriver along a line1/2 mile south and east of, and paralleling a line along the southerly bank of the Johnson River to the confluence of the east bank of Crooked Creek, then continuing upriver to the outlet at Arhymot Lake, then following the south bank west to the Unit 18 border.
 
 (E) Taking of wildlife in Unit 18 while in possession of lead shot size T, .20 caliber or less in diameter, is prohibited.
 

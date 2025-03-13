@@ -98,7 +98,7 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (c)(1) *Time deposit* means:
 
-(i) A deposit that the depositor does not have a right and is not permitted to make withdrawals from within six days after the date of deposit unless the deposit is subject to an early withdrawal penalty of at least seven days' simple interest on amounts withdrawn within the first six days after deposit.1 A time deposit from which partial early withdrawals are permitted must impose additional early withdrawal penalties of at least seven days' simple interest on amounts withdrawn within six days after each partial withdrawal. If such additional early withdrawal penalties are not imposed, the account ceases to be a time deposit. The account may become a savings deposit if it meets the requirements for a saving deposit; otherwise it becomes a transaction account. *Time deposit* includes funds—
+(i) A deposit that the depositor does not have a right and is not permitted to make withdrawals from within six days after the date of deposit unless the deposit is subject to an early withdrawal penalty of at least seven days' simple interest on amounts withdrawn within the first six days after deposit. 1 A time deposit from which partial early withdrawals are permitted must impose additional early withdrawal penalties of at least seven days' simple interest on amounts withdrawn within six days after each partial withdrawal. If such additional early withdrawal penalties are not imposed, the account ceases to be a time deposit. The account may become a savings deposit if it meets the requirements for a saving deposit; otherwise it becomes a transaction account. *Time deposit* includes funds—
 
 1 A time deposit, or a portion thereof, may be paid during the period when an early withdrawal penalty would otherwise be required under this part without imposing an early withdrawal penalty specified by this part:
 
@@ -132,13 +132,13 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (B) Any office located outside the United States of a foreign bank;
 
-(C) A foreign national government, or an agency or instrumentality thereof,2 engaged principally in activities which are ordinarily performed in the United States by governmental entities;
+(C) A foreign national government, or an agency or instrumentality thereof, 2 engaged principally in activities which are ordinarily performed in the United States by governmental entities;
 
 2 Other than states, provinces, municipalities, or other regional or local governmental units or agencies or instrumentalities thereof.
 
 (D) An international entity of which the United States is a member; or
 
-(E) Any other foreign, international, or supranational entity specifically designated by the Board.3
+(E) Any other foreign, international, or supranational entity specifically designated by the Board. 3
 
 3 The designated entities are specified in 12 CFR 204.125.
 
@@ -180,13 +180,13 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (B) Any office located outside the United States of a foreign bank;
 
-(C) A foreign national government, or an agency or instrumentality thereof,5 engaged principally in activities which are ordinarily performed in the United States by governmental entities;
+(C) A foreign national government, or an agency or instrumentality thereof, 5 engaged principally in activities which are ordinarily performed in the United States by governmental entities;
 
 5 Other than states, provinces, municipalities, or other regional or local governmental units or agencies or instrumentalities thereof.
 
 (D) An international entity of which the United States is a member; or
 
-(E) Any other foreign, international, or supranational entity specifically designated by the Board.6
+(E) Any other foreign, international, or supranational entity specifically designated by the Board. 6
 
 6 The designated entities are specified in 12 CFR 204.125.
 
@@ -200,7 +200,7 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (i) Net balances due to its non-United States offices and its international banking facilities (*IBFs*) from its United States offices;
 
-(ii)(A) For a depository institution organized under the laws of the United States, assets (including participations) acquired from its United States offices and held by its non-United States offices, by its IBF, or by non-United States offices of an affiliated Edge or Agreement Corporation;7 or
+(ii)(A) For a depository institution organized under the laws of the United States, assets (including participations) acquired from its United States offices and held by its non-United States offices, by its IBF, or by non-United States offices of an affiliated Edge or Agreement Corporation; 7 or
 
 7 This paragraph does not apply to assets that were acquired by an IBF from its establishing entity before the end of the second reserve computation period after its establishment.
 
@@ -212,7 +212,7 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (i) Net balances due to its foreign bank (including offices thereof located outside the United States) and its international banking facility after deducting an amount equal to 8 per cent of the following: the United States branch's or agency's total assets less the sum of (A) cash items in process of collection; (B) unposted debits; (C) demand balances due from depository institutions organized under the laws of the United States and from other foreign banks; (D) balances due from foreign central banks; and (E) positive net balances due from its IBF, its foreign bank, and the foreign bank's United States and non-United States offices; and
 
-(ii) Assets (including participations) acquired from the United States branch or agency (other than assets required to be sold by Federal or State supervisory authorities) and held by its foreign bank (including offices thereof located outside the United States), by its parent holding company, by non-United States offices or an IBF of an affiliated Edge or Agreement Corporation, or by its IBFs.8
+(ii) Assets (including participations) acquired from the United States branch or agency (other than assets required to be sold by Federal or State supervisory authorities) and held by its foreign bank (including offices thereof located outside the United States), by its parent holding company, by non-United States offices or an IBF of an affiliated Edge or Agreement Corporation, or by its IBFs. 8
 
 8 See footnote 7.
 
@@ -302,7 +302,7 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (s) *United States resident* means (1) any individual residing (at the time of the transaction) in the United States; (2) any corporation, partnership, association or other entity organized in the United States (*domestic corporation*); and (3) any branch or office located in the United States of any entity that is not organized in the United States.
 
-(t) *Any deposit that is payable only at an office located outside the United States* means (1) a deposit of a United States resident9 that is in a denomination of $100,000 or more, and as to which the depositor is entitled, under the agreement with the institution, to demand payment only outside the United States or (2) a deposit of a person who is not a United States resident9 as to which the depositor is entitled, under the agreement with the institution, to demand payment only outside the United States.
+(t) *Any deposit that is payable only at an office located outside the United States* means (1) a deposit of a United States resident 9 that is in a denomination of $100,000 or more, and as to which the depositor is entitled, under the agreement with the institution, to demand payment only outside the United States or (2) a deposit of a person who is not a United States resident 9 as to which the depositor is entitled, under the agreement with the institution, to demand payment only outside the United States.
 
 9 A deposit of a foreign branch, office, subsidiary, affiliate or other foreign establishment (*foreign affiliate*) controlled by one or more domestic corporations is not regarded as a deposit of a United States resident if the funds serve a purpose in connection with its foreign or international business or that of other foreign affiliates of the controlling domestic corporation(s).
 
@@ -338,4 +338,4 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (hh) *Bottom of the penalty-free band* means an amount equal to an institution's reserve balance requirement less an amount that is the greater of 10 percent of the institution's reserve balance requirement or $50,000. The bottom of the penalty-free band for a pass-through correspondent is an amount equal to the aggregate reserve balance requirement of the correspondent (if any) and all of its respondents less an amount that is the greater of 10 percent of that aggregate reserve balance requirement or $50,000. In no case will the penalty-free band be less than zero.
 
-[Reg. D, 45 FR 56018, Aug. 22, 1980]Editorial Note:For Federal Register citations affecting § 204.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Reg. D, 45 FR 56018, Aug. 22, 1980] Editorial Note:For Federal Register citations affecting § 204.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

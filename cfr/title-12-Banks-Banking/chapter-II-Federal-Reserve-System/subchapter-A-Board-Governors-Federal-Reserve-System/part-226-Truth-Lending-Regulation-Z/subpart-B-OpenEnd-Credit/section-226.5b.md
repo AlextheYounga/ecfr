@@ -8,11 +8,11 @@ The requirements of this section apply to open-end credit plans secured by the c
 
 (3) For an application that is accessed by the consumer in electronic form, the disclosures required under this section may be provided to the consumer in electronic form on or with the application.
 
-(b) *Time of disclosures.* The disclosures and brochure required by paragraphs (d) and (e) of this section shall be provided at the time an application is provided to the consumer.10a
+(b) *Time of disclosures.* The disclosures and brochure required by paragraphs (d) and (e) of this section shall be provided at the time an application is provided to the consumer. 10a
 
 10a The disclosures and the brochure may be delivered or placed in the mail not later than three business days following receipt of a consumer's application in the case of applications contained in magazines or other publications, or when the application is received by telephone or through an intermediary agent or broker.
 
-(c) *Duties of third parties*—Persons other than the creditor who provide applications to consumers for home equity plans must provide the brochure required under paragraph (e) of this section at the time an application is provided. If such persons have the disclosures required under paragraph (d) of this section for a creditor's home equity plan, they also shall provide the disclosures at such time.10a
+(c) *Duties of third parties*—Persons other than the creditor who provide applications to consumers for home equity plans must provide the brochure required under paragraph (e) of this section at the time an application is provided. If such persons have the disclosures required under paragraph (d) of this section for a creditor's home equity plan, they also shall provide the disclosures at such time. 10a
 
 (d) *Content of disclosures.* The creditor shall provide the following disclosures, as applicable:
 
@@ -34,17 +34,17 @@ The requirements of this section apply to open-end credit plans secured by the c
 
 (i) The length of the draw period and any repayment period.
 
-(ii) An explanation of how the minimum periodic payment will be determined and the timing of the payments. If paying only the minimum periodic payments may not repay any of the principal or may repay less than the outstanding balance, a statement of this fact, as well as a statement that a balloon payment may result.10b
+(ii) An explanation of how the minimum periodic payment will be determined and the timing of the payments. If paying only the minimum periodic payments may not repay any of the principal or may repay less than the outstanding balance, a statement of this fact, as well as a statement that a balloon payment may result. 10b
 
 10b A balloon payment results if paying the minimum periodic payments does not fully amortize the outstanding balance by a specified date or time, and the consumer must repay the entire outstanding balance at such time.
 
-(iii) An example, based on a $10,000 outstanding balance and a recent annual percentage rate,10c showing the minimum periodic payment, any balloon payment, and the time it would take to repay the $10,000 outstanding balance if the consumer made only those payments and obtained no additional extensions of credit.
+(iii) An example, based on a $10,000 outstanding balance and a recent annual percentage rate, 10c showing the minimum periodic payment, any balloon payment, and the time it would take to repay the $10,000 outstanding balance if the consumer made only those payments and obtained no additional extensions of credit.
 
 10c For fixed-rate plans, a recent annual percentage rate is a rate that has been in effect under the plan within the twelve months preceding the date the disclosures are provided to the consumer. For variable-rate plans, a recent annual percentage rate is the most recent rate provided in the historical example described in paragraph (d)(12)(xi) of this section or a rate that has been in effect under the plan since the date of the most recent rate in the table.
 
 If different payment terms may apply to the draw and any repayment period, or if different payment terms may apply within either period, the disclosures shall reflect the different payment terms.
 
-(6) *Annual percentage rate.* For fixed-rate plans, a recent annual percentage rate10c imposed under the plan and a statement that the rate does not include costs other than interest.
+(6) *Annual percentage rate.* For fixed-rate plans, a recent annual percentage rate 10c imposed under the plan and a statement that the rate does not include costs other than interest.
 
 (7) *Fees imposed by creditor.* An itemization of any fees imposed by the creditor to open, use, or maintain the plan, stated as a dollar amount or percentage, and when such fees are payable.
 
@@ -140,7 +140,7 @@ If different payment terms may apply to the draw and any repayment period, or if
 
 (g) *Refund of fees.* A creditor shall refund all fees paid by the consumer to anyone in connection with an application if any term required to be disclosed under paragraph (d) of this section changes (other than a change due to fluctuations in the index in a variable-rate plan) before the plan is opened and, as a result, the consumer elects not to open the plan.
 
-(h) *Imposition of nonrefundable fees.* Neither a creditor nor any other person may impose a nonrefundable fee in connection with an application until three business days after the consumer receives the disclosures and brochure required under this section.10d
+(h) *Imposition of nonrefundable fees.* Neither a creditor nor any other person may impose a nonrefundable fee in connection with an application until three business days after the consumer receives the disclosures and brochure required under this section. 10d
 
 10d If the disclosures and brochure are mailed to the consumer, the consumer is considered to have received them three business days after they are mailed.
 

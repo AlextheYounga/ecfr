@@ -372,7 +372,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) *Stone Lakes National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and moorhen on designated areas of the refuge subject to the following conditions:
 
-(i) We allow hunting on Sun River Unit only on Wednesdays and Saturdays from 1/2 hour before legal sunrise until 12 p.m. (noon).
+(i) We allow hunting on Sun River Unit only on Wednesdays and Saturdays from1/2 hour before legal sunrise until 12 p.m. (noon).
 
 (ii) We will select hunters through a random drawing process (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System) conducted at the refuge. Hunters should bring a copy of their refuge notification on the day of their hunt. Hunters should contact the refuge manager for additional information.
 

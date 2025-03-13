@@ -22,7 +22,7 @@
 
 (10) The permittee shall not harass wildlife in any manner, including, but not limited to, close approach by surface vehicles or aircraft. Aircraft should maintain an altitude of at least 1500 feet above ground level whenever practicable.
 
-(11) No explosives shall be detonated within 1/2 miles of any known denning brown or polar bear or any muskoxen or caribou herd.
+(11) No explosives shall be detonated within1/2 miles of any known denning brown or polar bear or any muskoxen or caribou herd.
 
 (12) The permittee shall operate in such a manner as not to impede or restrict the free passage and movement of large mammals, including caribou, muskoxen, moose, polar bear, and brown bear.
 

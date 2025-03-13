@@ -1,6 +1,6 @@
 ##### § 2.105 United States Table of Frequency Allocations. #####
 
-(a) The United States Table of Frequency Allocations (United States Table) is subdivided into the Federal Table of Frequency Allocations (Federal Table, column 4 of § 2.106) and the non-Federal Table of Frequency Allocations (non-Federal Table, column 5 of § 2.106). The United States Table is based on the Region 2 Table because the relevant area of jurisdiction is located primarily in Region 21 (*i.e.*, the 50 States, the District of Columbia, the Caribbean insular areas,2 and some of the Pacific insular areas).3 The Federal Table is administered by NTIA4 and the non-Federal Table is administered by the Federal Communications Commission (FCC).5
+(a) The United States Table of Frequency Allocations (United States Table) is subdivided into the Federal Table of Frequency Allocations (Federal Table, column 4 of § 2.106) and the non-Federal Table of Frequency Allocations (non-Federal Table, column 5 of § 2.106). The United States Table is based on the Region 2 Table because the relevant area of jurisdiction is located primarily in Region 2 1 (*i.e.*, the 50 States, the District of Columbia, the Caribbean insular areas, 2 and some of the Pacific insular areas). 3 The Federal Table is administered by NTIA 4 and the non-Federal Table is administered by the Federal Communications Commission (FCC). 5
 
 1*See* 2.104(b) for definitions of the ITU Regions.
 
@@ -30,8 +30,7 @@
 
 (iii) Can claim protection, however, from harmful interference from stations of the same or other secondary service(s) to which frequencies may be assigned at a later date.
 
-(d) The format of the United States Table is as follows:
-(1) The frequency band referred to in each allocation, column 4 for Federal operations and column 5 for non-Federal operations, is indicated in the left-hand top corner of the column. If there is no service or footnote indicated for a frequency band in column 4, then the Federal sector has no access to that band except as provided for by § 2.103. If there is no service or footnote indicated for a frequency band in column 5, then the non-Federal sector has no access to that band except as provided for by § 2.102.
+(d) The format of the United States Table is as follows: (1) The frequency band referred to in each allocation, column 4 for Federal operations and column 5 for non-Federal operations, is indicated in the left-hand top corner of the column. If there is no service or footnote indicated for a frequency band in column 4, then the Federal sector has no access to that band except as provided for by § 2.103. If there is no service or footnote indicated for a frequency band in column 5, then the non-Federal sector has no access to that band except as provided for by § 2.102.
 
 (2) When the type of service(s) permitted and any applicable footnote(s) are the same for a frequency band in the Federal Table and the non-Federal Table, columns 4 and 5 are merged, indicating that the frequency band is shared between the Federal and non-Federal sectors under the same conditions.
 

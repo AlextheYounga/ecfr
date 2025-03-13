@@ -14,6 +14,6 @@ All size limits in this section are minimum size limits unless specified otherwi
 
 (d) [Reserved]
 
-(e) *Queen conch.* (1) The minimum size limit is either 9 inches (22.9 cm) in length, that is, from the tip of the spire to the distal end of the shell, or 3/8-inch (9.5 mm) in lip width at its widest point.
+(e) *Queen conch.* (1) The minimum size limit is either 9 inches (22.9 cm) in length, that is, from the tip of the spire to the distal end of the shell, or3/8-inch (9.5 mm) in lip width at its widest point.
 
 (2) A queen conch not in compliance with its size limit, as specified in paragraph (e)(1) of this section, in or from the EEZ around St. Croix, may not be possessed, sold, or purchased and must be released immediately with a minimum of harm. The operator of a vessel that fishes in the EEZ around St. Croix is responsible for ensuring that queen conch on board are in compliance with the size limit specified in paragraph (e)(1) this section.

@@ -10,7 +10,7 @@
 
 (b) *Liability of cardholder for unauthorized use*—(1)(i) *Definition of unauthorized use.* For purposes of this section, the term “unauthorized use” means the use of a credit card by a person, other than the cardholder, who does not have actual, implied, or apparent authority for such use, and from which the cardholder receives no benefit.
 
-(ii) *Limitation on amount.* The liability of a cardholder for unauthorized use22 of a credit card shall not exceed the lesser of $50 or the amount of money, property, labor, or services obtained by the unauthorized use before notification to the card issuer under paragraph (b)(3) of this section.
+(ii) *Limitation on amount.* The liability of a cardholder for unauthorized use 22 of a credit card shall not exceed the lesser of $50 or the amount of money, property, labor, or services obtained by the unauthorized use before notification to the card issuer under paragraph (b)(3) of this section.
 
 22 [Reserved]
 
@@ -18,7 +18,7 @@
 
 (i) The credit card is an accepted credit card;
 
-(ii) The card issuer has provided adequate notice23 of the cardholder's maximum potential liability and of means by which the card issuer may be notified of loss or theft of the card. The notice shall state that the cardholder's liability shall not exceed $50 (or any lesser amount) and that the cardholder may give oral or written notification, and shall describe a means of notification (for example, a telephone number, an address, or both); and
+(ii) The card issuer has provided adequate notice 23 of the cardholder's maximum potential liability and of means by which the card issuer may be notified of loss or theft of the card. The notice shall state that the cardholder's liability shall not exceed $50 (or any lesser amount) and that the cardholder may give oral or written notification, and shall describe a means of notification (for example, a telephone number, an address, or both); and
 
 23 [Reserved]
 

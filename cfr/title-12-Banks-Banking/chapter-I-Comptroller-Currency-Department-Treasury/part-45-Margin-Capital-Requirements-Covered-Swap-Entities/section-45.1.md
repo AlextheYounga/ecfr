@@ -126,4 +126,4 @@
 
 (B) All payment obligations attached to the total effective notional amount being eliminated as a result of the amendment are fully novated to a third party, who complies with applicable margin rules for the novated portion upon the transfer.
 
-[80 FR 74898, 74910, Nov. 30, 2015, as amended at 80 FR 74910, 74923, Nov. 30, 2015; 83 FR 50811, Oct. 10, 2018; 84 FR 9948, Mar. 19, 2019; 85 FR 39468, 39771, July 1, 2020]Editorial Note:At 84 FR 9948, Mar. 19, 2019, § 45.1 was amended by adding paragraph (h), containing two subparagraphs designated (h)(2)(iv).
+[80 FR 74898, 74910, Nov. 30, 2015, as amended at 80 FR 74910, 74923, Nov. 30, 2015; 83 FR 50811, Oct. 10, 2018; 84 FR 9948, Mar. 19, 2019; 85 FR 39468, 39771, July 1, 2020] Editorial Note:At 84 FR 9948, Mar. 19, 2019, § 45.1 was amended by adding paragraph (h), containing two subparagraphs designated (h)(2)(iv).

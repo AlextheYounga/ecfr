@@ -38,7 +38,7 @@
 
 (2) Torts;
 
-(3) Criminal law;2
+(3) Criminal law; 2
 
 2 But see the distinction drawn by the Supreme Court in *Easton* v. *Iowa,* 188 U.S. 220, 238 (1903), where the Court stated that “[u]ndoubtedly a state has the legitimate power to define and punish crimes by general laws applicable to all persons within its jurisdiction \* \* \*. But it is without lawful power to make such special laws applicable to banks organized and operating under the laws of the United States.” *Id.* at 239 (holding that Federal law governing the operations of national banks preempted a state criminal law prohibiting insolvent banks from accepting deposits).
 

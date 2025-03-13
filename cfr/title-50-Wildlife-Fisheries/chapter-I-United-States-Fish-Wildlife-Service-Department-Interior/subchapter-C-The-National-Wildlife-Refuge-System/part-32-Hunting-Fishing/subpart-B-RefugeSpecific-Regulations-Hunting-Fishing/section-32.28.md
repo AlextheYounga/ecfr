@@ -6,7 +6,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) You must possess and carry a signed current refuge hunt permit (signed brochure) while hunting. You must have on your person all applicable licenses and permits.
 
-(ii) We prohibit hunting from all refuge structures, canals, and levees; within 1/2 mile of canoe trails, campsites, and boat ramps; and in areas posted as closed. We allow motorized vessels in the Motorized Zone, south of latitude line 26°27.130. We allow nonmotorized vessels in the Refuge Interior. We allow only one motorized vessel per party.
+(ii) We prohibit hunting from all refuge structures, canals, and levees; within1/2 mile of canoe trails, campsites, and boat ramps; and in areas posted as closed. We allow motorized vessels in the Motorized Zone, south of latitude line 26°27.130. We allow nonmotorized vessels in the Refuge Interior. We allow only one motorized vessel per party.
 
 (iii) Hunters may only enter and leave the refuge at designated entrances.
 
@@ -38,7 +38,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (a)(1)(i) and (iii), (v) through (vii), and (x) and (xi) of this section apply.
 
-(ii) We prohibit hunting from all refuge structures and levees; within 1/2 mile of canoe trails, campsites, and boat ramps; and in areas posted as closed. We allow motorized vessels in the Motorized Zone, south of latitude line 26°27.130. We allow alligator hunting in the Motorized Zone and perimeter canal south of latitude line 26°27.130. We allow nonmotorized vessels in the Refuge Interior. We allow only one motorized vessel per party.
+(ii) We prohibit hunting from all refuge structures and levees; within1/2 mile of canoe trails, campsites, and boat ramps; and in areas posted as closed. We allow motorized vessels in the Motorized Zone, south of latitude line 26°27.130. We allow alligator hunting in the Motorized Zone and perimeter canal south of latitude line 26°27.130. We allow nonmotorized vessels in the Refuge Interior. We allow only one motorized vessel per party.
 
 (iii) We allow alligator hunting on the refuge 1 hour before legal sunset on Friday night through 1 hour after legal sunrise Saturday morning, and 1 hour before legal sunset on Saturday night through 1 hour after legal sunrise Sunday morning. We allow alligator hunting the first two weekends during Harvest Period 1 (August) and the first two weekends during Harvest Period 2 (September). Following the close of Harvest Period 2, the remaining weekends in October will be open for alligator harvest permittees who possess unused CITES tags (OMB Control No. 1018-0093). Specific dates for the alligator hunt are on the harvest permit issued by the State.
 
@@ -82,7 +82,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We allow frog gigging, bow fishing, and fish gigging in all areas open to sport fishing, except in the A, B, and C Impoundments and Strazzulla Marsh.
 
-(vii) We prohibit frog gigging, bow fishing, and fish gigging from structures and from within 1/2 mile of refuge boat ramps, campsites, and canoe trails, and in areas posted as closed.
+(vii) We prohibit frog gigging, bow fishing, and fish gigging from structures and from within1/2 mile of refuge boat ramps, campsites, and canoe trails, and in areas posted as closed.
 
 (viii) We allow the taking of frogs from July 16 through March 15 of each year.
 
@@ -178,7 +178,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) Hunters possessing a valid Big Game Quota Hunt Permit purchased through the Florida Fish and Wildlife Conservation Commission may access the refuge no earlier than 2 hours before legal sunrise and must leave the refuge no later than legal sunset. Hunters possessing a valid family hunt/camp experience permit may remain on the refuge overnight.
 
-(vii) We allow hunting from 1/2 hour before legal sunrise until 1 p.m.
+(vii) We allow hunting from1/2 hour before legal sunrise until 1 p.m.
 
 (viii) We allow only federally approved nontoxic shot (see § 32.2(k)).
 
@@ -210,7 +210,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We allow the take of crabs with the use of dip nets only.
 
-(ii) All anglers must exit refuge lands and waters no later than 1/2 hour after legal sunset.
+(ii) All anglers must exit refuge lands and waters no later than1/2 hour after legal sunset.
 
 (iii) We prohibit the possession and use of seines or trot lines.
 
@@ -296,7 +296,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (viii) Hunters may take only bearded turkeys and only during the State Zone C youth turkey hunts and spring turkey season.
 
-(ix) Shooting hours for spring turkey begin 1/2 hour before legal sunrise and end at 1 p.m.
+(ix) Shooting hours for spring turkey begin1/2 hour before legal sunrise and end at 1 p.m.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -314,7 +314,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit hunters entering the normal or expanded restricted areas of the Kennedy Space Center (KSC).
 
-(v) We allow hunting of waterfowl on refuge-established hunt days from 1/2 hour before legal sunrise until 12 p.m. (noon). Hunters must remove all equipment and check out at the refuge check station prior to 1 p.m. each day.
+(v) We allow hunting of waterfowl on refuge-established hunt days from1/2 hour before legal sunrise until 12 p.m. (noon). Hunters must remove all equipment and check out at the refuge check station prior to 1 p.m. each day.
 
 (vi) You may enter the refuge no earlier than 4 a.m. for the purpose of waterfowl hunting.
 
@@ -338,7 +338,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We prohibit hunters entering the normal or expanded restricted areas of the Kennedy Space Center (KSC).
 
-(iv) We allow hunting within the State's deer season on specific days as defined by the refuge hunt brochure. Each hunt will be a 3-day weekend. Legal shooting hours are 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
+(iv) We allow hunting within the State's deer season on specific days as defined by the refuge hunt brochure. Each hunt will be a 3-day weekend. Legal shooting hours are1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
 (v) Hunters possessing a valid permit (State-issued permit) may access the refuge no earlier than 4 a.m. and must leave the refuge no later than 2 hours after legal sunset. If you wish to track wounded game beyond 2 hours after legal sunset, you must gain consent from a Federal Wildlife Officer to do so.
 
@@ -464,7 +464,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We prohibit taking blue crabs from impounded water on the St. Marks Unit.
 
-(ii) We only allow fishing in refuge lakes, ponds, and impoundments from 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
+(ii) We only allow fishing in refuge lakes, ponds, and impoundments from1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
 (iii) We allow fishing in tidal and coastal waters 24 hours per day year-round.
 
@@ -488,7 +488,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We restrict access to St. Vincent Island to the Indian Pass and West Pass campsites. The hunt brochure lists check-in and check-out procedures. We restrict access to the hunt areas to foot or bicycle travel.
 
-(iv) Hunt hours are 1/2 hour before legal sunrise until 3 p.m. for the sambar deer hunt.
+(iv) Hunt hours are1/2 hour before legal sunrise until 3 p.m. for the sambar deer hunt.
 
 (v) You may set up tree stands only after you check in, and you must remove them from the island at the end of the hunt (see §§ 27.93 and 27.94 of this chapter).
 
@@ -514,7 +514,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
-(i) You may fish from 1/2 hour before legal sunrise to 1/2 hour after legal sunset year-round.
+(i) You may fish from1/2 hour before legal sunrise to1/2 hour after legal sunset year-round.
 
 (ii) We prohibit the use of live minnows as bait.
 
@@ -530,7 +530,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) Hunters must possess and carry a valid, signed refuge permit (signed brochure) at all times while hunting on the refuge.
 
-(iv) We allow hunting from 1/2 hour before legal sunrise until 12 p.m. (noon). Hunters may enter the refuge no earlier than 4 a.m. and must remove all decoys, guns, blinds, and other related equipment by 1 p.m. each day (see § 27.93 of this chapter).
+(iv) We allow hunting from1/2 hour before legal sunrise until 12 p.m. (noon). Hunters may enter the refuge no earlier than 4 a.m. and must remove all decoys, guns, blinds, and other related equipment by 1 p.m. each day (see § 27.93 of this chapter).
 
 (v) We prohibit hunting within 100 yards (90 meters) of the south edge of U.S. 41 and the area posted around Marsh Trail extending south from U.S. 41.
 

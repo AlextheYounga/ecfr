@@ -30,6 +30,6 @@ Now, therefore, the Commission consents to the establishment of such grazing dis
 
 Provided, however, That this determination and consent shall be effective for lands embraced within grazing districts, as of the date of the establishment of such districts, and for isolated tracts of lands leased for grazing purposes, it shall be in effect when such leases are issued, provided that notice thereof is received by this Commission from the Bureau of Land Management, Department of the Interior, within 30 days thereafter, such notice to include full legal description of the lands, withdrawn for power purposes which are involved.
 
-(Secs. 24, 308, 39, 41 Stat. 1075, as amended, 40 Stat. 858; 16 U.S.C. 818, 825g, 825h) [Order 141, 12 FR 8493, Dec. 19, 1947, as amended by Order 225, 47 FR 19056, May 3, 1982] Cross Reference:
+(Secs. 24, 308, 39, 41 Stat. 1075, as amended, 40 Stat. 858; 16 U.S.C. 818, 825g, 825h)[Order 141, 12 FR 8493, Dec. 19, 1947, as amended by Order 225, 47 FR 19056, May 3, 1982]Cross Reference:
 
 For regulations of the Bureau of Land Management, relating to grazing, see the Index to title 43 Chapter II.

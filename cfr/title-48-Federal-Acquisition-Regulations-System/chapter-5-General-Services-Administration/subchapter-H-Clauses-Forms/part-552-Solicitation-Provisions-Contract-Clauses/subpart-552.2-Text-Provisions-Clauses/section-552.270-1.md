@@ -1,10 +1,8 @@
 ##### 552.270-1 Instructions to Offerors—Acquisition of Leasehold Interests in Real Property. #####
 
-Link to an amendment published at 89 FR 105477, Dec. 27, 2024.
-
 As prescribed in 570.702, insert the following provision:
 
-Instructions to Offerors—Acquisition of Leasehold Interests in Real Property (JUN 2011)
+Instructions to Offerors—Acquisition of Leasehold Interests in Real Property (JAN 2025)
 
 (a) *Definitions.* As used in this provision—
 
@@ -96,8 +94,6 @@ Use or disclosure of data contained on this sheet is subject to the restriction 
 
 (iii) A summary of the rationale for award.
 
-(f) *Paperwork collection.* The information collection requirements contained in this solicitation/contract are either required by regulation or approved by the Office of Management and Budget pursuant to the Paperwork Reduction Act and assigned OMB Control No. 3090-0163.
-
 (End of provision)
 
 *Alternate I* (MAR 1998). As prescribed in 570.702, substitute the following paragraph (c)(2)(i) for paragraph (c)(2)(i) of the basic provision:
@@ -108,4 +104,4 @@ Use or disclosure of data contained on this sheet is subject to the restriction 
 
 (4) The Government intends to evaluate proposals and award a lease without discussions with offerors (except clarifications as described in FAR 15.306(a)). Therefore, the offeror's initial proposal should contain the offeror's best terms from a cost or price and technical standpoint. The Government reserves the right to conduct discussions if the Contracting Officer later determines them to be necessary. If the Contracting Officer determines that the number of proposals that would otherwise be in the competitive range exceeds the number at which an efficient competition can be conducted, the Contracting Officer may limit the number of proposals in the competitive range to the greatest number that will permit an efficient competition among the most highly rated proposals.
 
-[64 FR 37229, July 9, 1999, as amended at 76 FR 30845, May 27, 2011; 86 FR 55525, Oct. 6, 2021]
+[64 FR 37229, July 9, 1999, as amended at 76 FR 30845, May 27, 2011; 86 FR 55525, Oct. 6, 2021; 89 FR 105477, Dec. 27, 2024]

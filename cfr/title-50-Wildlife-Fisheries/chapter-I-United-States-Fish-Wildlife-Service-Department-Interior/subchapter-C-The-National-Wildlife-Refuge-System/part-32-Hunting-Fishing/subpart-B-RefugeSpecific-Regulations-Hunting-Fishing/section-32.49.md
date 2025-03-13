@@ -10,7 +10,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We prohibit falconry.
 
-(iv) We prohibit night hunting from 1/2 hour after legal sunset until 1/2 hour before legal sunrise the following day.
+(iv) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
 
 (2) *Upland game hunting.* We allow hunting of coyote, fox, woodchuck, rabbit, squirrel, and pheasant on designated areas of the refuge subject to the following conditions:
 
@@ -78,7 +78,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit falconry.
 
-(iii) We prohibit night hunting from 1/2 hour after legal sunset until 1/2 hour before legal sunrise the following day.
+(iii) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
 
 (2) *Upland game hunting.* We allow hunting of coyote, fox, woodchuck, rabbit, squirrel, and pheasant on designated areas of the refuge subject to the following conditions:
 
@@ -116,7 +116,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (e)(1)(i) through (iii) of this section apply.
 
-(ii) We prohibit night hunting from 1/2 hour after legal sunset until 1/2 hour before legal sunrise the following day.
+(ii) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer, bear, and wild turkey on designated areas of the refuge subject to the following conditions:
 
@@ -130,7 +130,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) At Owens Station Crossing and Hidden Ponds fishing areas, we allow catch-and-release fishing only.
 
-(ii) We allow fishing from 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
+(ii) We allow fishing from1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
 (iii) We prohibit the taking of amphibians and reptiles (see § 27.21 of this chapter).
 

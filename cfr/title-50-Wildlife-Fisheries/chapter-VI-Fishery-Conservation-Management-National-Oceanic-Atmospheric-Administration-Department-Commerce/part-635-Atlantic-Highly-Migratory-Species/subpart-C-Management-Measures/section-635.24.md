@@ -86,4 +86,4 @@ The retention limits in this section are subject to the quotas and closure provi
 
 (c) BAYS tunas. Persons aboard a vessel that has been issued an HMS Commercial Caribbean Small Boat permit under § 635.4 may retain, possess, land, or sell no more than 10 BAYS tunas per vessel per trip.
 
-[64 FR 29135, May 28, 1999] Editorial Note:For Federal Register citations affecting § 635.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[64 FR 29135, May 28, 1999]Editorial Note:For Federal Register citations affecting § 635.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

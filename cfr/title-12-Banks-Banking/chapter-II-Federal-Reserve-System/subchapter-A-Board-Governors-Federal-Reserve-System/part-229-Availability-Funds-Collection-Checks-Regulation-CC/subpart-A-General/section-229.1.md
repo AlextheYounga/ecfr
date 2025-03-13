@@ -28,8 +28,7 @@
 
 (8) Appendix D of this part is reserved.
 
-(9) Appendix E of this part contains Board interpretations, which are labeled
-“Commentary,” of the provisions of this part. The Commentary provides background material to explain the Board's intent in adopting a particular part of the regulation and provides examples to aid in understanding how a particular requirement is to work. The Commentary is an official Board interpretation under section 611(e) of the EFA Act (12 U.S.C. 4010(e)).
+(9) Appendix E of this part contains Board interpretations, which are labeled “Commentary,” of the provisions of this part. The Commentary provides background material to explain the Board's intent in adopting a particular part of the regulation and provides examples to aid in understanding how a particular requirement is to work. The Commentary is an official Board interpretation under section 611(e) of the EFA Act (12 U.S.C. 4010(e)).
 
 (10) Appendix F of this part contains the Board's determinations of the EFA Act and Regulation CC's preemption of state laws that were in effect on September 1, 1989.
 

@@ -120,7 +120,7 @@
 
 (xvii) Reinsuring mortgage insurance on loans originated, purchased, or serviced by the bank, its subsidiaries, or its affiliates, provided that if the subsidiary enters into a quota share agreement, the subsidiary assumes less than 50 percent of the aggregate insured risk covered by the quota share agreement. A “quota share agreement” is an agreement under which the reinsurer is liable to the primary insurance underwriter for an agreed upon percentage of every claim arising out of the covered book of business ceded by the primary insurance underwriter to the reinsurer;
 
-(xviii) Acting as a finder pursuant to 12 CFR 7.1002 to the extent permitted by published OCC precedent for national banks;2
+(xviii) Acting as a finder pursuant to 12 CFR 7.1002 to the extent permitted by published OCC precedent for national banks; 2
 
 2*See, e.g.,* the OCC's monthly publication “Interpretations and Actions.” Beginning with the May 1996 issue, electronic versions of “Interpretations and Actions” are available at *www.occ.gov.*
 

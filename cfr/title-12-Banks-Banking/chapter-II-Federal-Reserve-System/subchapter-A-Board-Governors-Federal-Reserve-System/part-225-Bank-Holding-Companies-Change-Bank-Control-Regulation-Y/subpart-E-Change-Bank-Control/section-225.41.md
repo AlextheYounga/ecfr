@@ -16,7 +16,7 @@
 
 (i) The institution has registered securities under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78l); or
 
-(ii) No other person will own, control, or hold the power to vote a greater percentage of that class of voting securities immediately after the transaction.1
+(ii) No other person will own, control, or hold the power to vote a greater percentage of that class of voting securities immediately after the transaction. 1
 
 1 If two or more persons, not acting in concert, each propose to acquire simultaneously equal percentages of 10 percent or more of a class of voting securities of the state member bank or bank holding company, each person must file prior notice to the Board.
 

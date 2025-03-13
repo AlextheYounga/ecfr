@@ -1,6 +1,6 @@
 ##### § 266.2 Definitions. #####
 
-(a) *Employee* means a regular officer or employee of the Board; it does not include a consultant to the Board.2
+(a) *Employee* means a regular officer or employee of the Board; it does not include a consultant to the Board. 2
 
 2 While former consultants to the Board are not covered by these Rules, they appear to fall within the coverage of section 207 of the United States Criminal Code (18 U.S.C. 207) that provides criminal penalties for engaging in activities similar, although not identical, to those described in paragraphs (a) and (b) of § 266.3.
 

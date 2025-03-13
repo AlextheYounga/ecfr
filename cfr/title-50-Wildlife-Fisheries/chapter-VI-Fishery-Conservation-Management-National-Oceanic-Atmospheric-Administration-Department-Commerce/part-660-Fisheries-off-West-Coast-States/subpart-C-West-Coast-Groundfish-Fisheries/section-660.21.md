@@ -24,7 +24,7 @@ This section contains the requirements of the Seabird Avoidance Program.
 
 (B) Have individual streamers that hang attached to the mainline to 9.8 in (0.25 m) above the waterline in the absence of wind.
 
-(C) Have streamers constructed of material that is brightly colored, UV-protected plastic tubing or 3/8 inch (9.5 mm) polyester line or material of an equivalent density.
+(C) Have streamers constructed of material that is brightly colored, UV-protected plastic tubing or3/8 inch (9.5 mm) polyester line or material of an equivalent density.
 
 (v) *Handling of hooked short-tailed albatross.* If a short-tailed albatross is hooked or entangled by a vessel, owners and operators must ensure that the following actions are taken:
 

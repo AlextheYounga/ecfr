@@ -12,4 +12,4 @@
 
 (c) In order to qualify for the fees in paragraph (b) of this section, the check must be accompanied by an affidavit by the petitioner that states the amount in controversy.
 
-[Order 395, 49 FR 35356, Sept. 7, 1984] Editorial Note:For Federal Register citations affecting § 381.303, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Order 395, 49 FR 35356, Sept. 7, 1984]Editorial Note:For Federal Register citations affecting § 381.303, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -24,7 +24,7 @@
 
 (2) *Collateral haircut approach*—(i) *EAD equation.* A national bank or Federal savings association may determine EAD for an eligible margin loan, repo-style transaction, or netting set by setting EAD equal to max
 
-{0, [(ΣE − ΣC) + Σ(Es × Hs) + Σ(Efx × Hfx)]},where:
+{0, [(ΣE − ΣC) + Σ(Es × Hs) + Σ(Efx × Hfx)]}, where:
 
 (A) ΣE equals the value of the exposure (the sum of the current fair values of all instruments, gold, and cash the national bank or Federal savings association has lent, sold subject to repurchase, or posted as collateral to the counterparty under the transaction (or netting set));
 
@@ -59,7 +59,7 @@
 
 (*2*) For currency mismatches, a national bank or Federal savings association must use a haircut for foreign exchange rate volatility (Hfx) of 8 percent, as adjusted in certain circumstances as provided in paragraphs (b)(2)(ii)(A)(*3*) and (*4*) of this section.
 
-(*3*) For repo-style transactions and client-facing derivative transactions, a national bank or Federal savings association may multiply the supervisory haircuts provided in paragraphs (b)(2)(ii)(A)(*1*) and (*2*) of this section by the square root of1/2 (which equals 0.707107). If the national bank or Federal savings association determines that a longer holding period is appropriate for client-facing derivative transactions, then it must use a larger scaling factor to adjust for the longer holding period pursuant to paragraph (b)(2)(ii)(A)(*6*) of this section.
+(*3*) For repo-style transactions and client-facing derivative transactions, a national bank or Federal savings association may multiply the supervisory haircuts provided in paragraphs (b)(2)(ii)(A)(*1*) and (*2*) of this section by the square root of 1/2 (which equals 0.707107). If the national bank or Federal savings association determines that a longer holding period is appropriate for client-facing derivative transactions, then it must use a larger scaling factor to adjust for the longer holding period pursuant to paragraph (b)(2)(ii)(A)(*6*) of this section.
 
 (*4*) A national bank or Federal savings association must adjust the supervisory haircuts upward on the basis of a holding period longer than ten business days (for eligible margin loans) or five business days (for repo-style transactions), using the formula provided in paragraph (b)(2)(ii)(A)(*6*) of this section where the conditions in this paragraph (b)(2)(ii)(A)(*4*) apply. If the number of trades in a netting set exceeds 5,000 at any time during a quarter, a national bank or Federal savings association must adjust the supervisory haircuts upward on the basis of a minimum holding period of twenty business days for the following quarter (except when a national bank or Federal savings association is calculating EAD for a cleared transaction under § 3.133). If a netting set contains one or more trades involving illiquid collateral, a national bank or Federal savings association must adjust the supervisory haircuts upward on the basis of a minimum holding period of twenty business days. If over the two previous quarters more than two margin disputes on a netting set have occurred that lasted longer than the holding period, then the national bank or Federal savings association must adjust the supervisory haircuts upward for that netting set on the basis of a minimum holding period that is at least two times the minimum holding period for that netting set.
 
@@ -209,8 +209,7 @@
 
 (B) Formula 2 is as follows:
 
-*Hedging set amount* = |*AddOn*TB1IR|
-+ |*AddOn*TB2IR| + |*AddOn*TB3IR|.Where in paragraphs (c)(8)(i)(A) and (B) of this section:*AddOn*TB1IR is the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set with an end date of less than one year from the present date*;**AddOn*TB2IR is the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set with an end date of one to five years from the present date; and*AddOn*TB3IR is the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set with an end date of more than five years from the present date.
+*Hedging set amount* = |*AddOn*TB1IR| + |*AddOn*TB2IR| + |*AddOn*TB3IR|.Where in paragraphs (c)(8)(i)(A) and (B) of this section:*AddOn*TB1IR is the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set with an end date of less than one year from the present date*;**AddOn*TB2IR is the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set with an end date of one to five years from the present date; and*AddOn*TB3IR is the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set with an end date of more than five years from the present date.
 
 (ii) *Exchange rate derivative contracts.* For an exchange rate derivative contract hedging set, the hedging set amount equals the absolute value of the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set.
 
@@ -270,7 +269,7 @@
 
 (*2*) As used in the formula in paragraph (c)(9)(iii)(C)(*1*) of this section:
 
-(*i*) A is the attachment point, which equals the ratio of the notional amounts of all underlying exposures that are subordinated to the national bank's or Federal savings association's exposure to the total notional amount of all underlying exposures, expressed as a decimal value between zero and one;30
+(*i*) A is the attachment point, which equals the ratio of the notional amounts of all underlying exposures that are subordinated to the national bank's or Federal savings association's exposure to the total notional amount of all underlying exposures, expressed as a decimal value between zero and one; 30
 
 30 In the case of a first-to-default credit derivative, there are no underlying exposures that are subordinated to the national bank's or Federal savings association's exposure. In the case of a second-or-subsequent-to-default credit derivative, the smallest (n−1) notional amounts of the underlying exposures are subordinated to the national bank's or Federal savings association's exposure.
 

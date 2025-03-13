@@ -130,7 +130,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) Except for the special quota permit hunts, we allow only archery or muzzleloader hunting for deer. We only allow muzzleloading rifles using a single projectile on the muzzleloader hunts. We prohibit buckshot. During special quota permit hunts, we allow use of centerfire rifles or shotguns. We only allow shotguns for turkey hunts.
 
-(iv) On hunt days, hunters and assistants, parents, or guardians may enter the refuge no earlier than 5 a.m. and must leave the refuge no later than 1 hour after legal sunset. We allow hunting from 1/2 hour before official sunrise until 1/2 hour after official sunset.
+(iv) On hunt days, hunters and assistants, parents, or guardians may enter the refuge no earlier than 5 a.m. and must leave the refuge no later than 1 hour after legal sunset. We allow hunting from1/2 hour before official sunrise until1/2 hour after official sunset.
 
 (v) We require all deer taken during any hunt to be checked at the designated refuge check station before removal from the refuge. In addition, all deer and turkey must be tagged (State-issued).
 
@@ -216,7 +216,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (e)(2)(i) through (viii) of this section apply.
 
-(ii) We prohibit night hunting of deer and feral hogs. On the refuge, we define “nighttime” as from 1/2 hour after legal sunset to 1/2 hour before legal sunrise.
+(ii) We prohibit night hunting of deer and feral hogs. On the refuge, we define “nighttime” as from1/2 hour after legal sunset to1/2 hour before legal sunrise.
 
 (iii) We allow the unlimited incidental take of feral hog while hunting during the day.
 
@@ -228,7 +228,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vii) We open the Plantation Islands (Cuddo Unit) to deer and feral hog hunting only from 5 a.m. until 2:30 p.m.
 
-(viii) Shooting hours are from 1/2 hour before legal sunrise until 1/2 hour after legal sunset.
+(viii) Shooting hours are from1/2 hour before legal sunrise until1/2 hour after legal sunset.
 
 (ix) We allow the use of nonmotorized boats for accessing the unit's interior canals to inland areas open to hunting.
 

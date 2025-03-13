@@ -66,7 +66,7 @@
 
 (B) The Board-regulated institution does not create at issuance of the instrument, through any action or communication, an expectation that the call option will be exercised.
 
-(C) Prior to exercising the call option, or immediately thereafter, the Board-regulated institution must either: Replace the instrument to be called with an equal amount of instruments that meet the criteria under paragraph (b) of this section or this paragraph (c);12 or demonstrate to the satisfaction of the Board that following redemption, the Board-regulated institution will continue to hold capital commensurate with its risk.
+(C) Prior to exercising the call option, or immediately thereafter, the Board-regulated institution must either: Replace the instrument to be called with an equal amount of instruments that meet the criteria under paragraph (b) of this section or this paragraph (c); 12 or demonstrate to the satisfaction of the Board that following redemption, the Board-regulated institution will continue to hold capital commensurate with its risk.
 
 12 Replacement can be concurrent with redemption of existing additional tier 1 capital instruments.
 
@@ -92,7 +92,7 @@
 
 (2) Tier 1 minority interest, subject to the limitations in § 217.21, that is not included in the Board-regulated institution's common equity tier 1 capital.
 
-(3)(i) Any and all instruments that qualified as tier 1 capital under the Board's general risk-based capital rules under 12 CFR part 208, appendix A or 12 CFR part 225, appendix A, as then in effect, that were issued under the Small Business Jobs Act of 201014 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.15
+(3)(i) Any and all instruments that qualified as tier 1 capital under the Board's general risk-based capital rules under 12 CFR part 208, appendix A or 12 CFR part 225, appendix A, as then in effect, that were issued under the Small Business Jobs Act of 2010 14 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.15
 
 14 Public Law 111-240; 124 Stat. 2504 (2010).
 
@@ -118,7 +118,7 @@
 
 (iii) The instrument is not secured, not covered by a guarantee of the Board-regulated institution or of an affiliate of the Board-regulated institution, and not subject to any other arrangement that legally or economically enhances the seniority of the instrument in relation to more senior claims;
 
-(iv) The instrument has a minimum original maturity of at least five years. At the beginning of each of the last five years of the life of the instrument, the amount that is eligible to be included in tier 2 capital is reduced by 20 percent of the original amount of the instrument (net of redemptions) and is excluded from regulatory capital when the remaining maturity is less than one year. In addition, the instrument must not have any terms or features that require, or create significant incentives for, the Board-regulated institution to redeem the instrument prior to maturity;16 and
+(iv) The instrument has a minimum original maturity of at least five years. At the beginning of each of the last five years of the life of the instrument, the amount that is eligible to be included in tier 2 capital is reduced by 20 percent of the original amount of the instrument (net of redemptions) and is excluded from regulatory capital when the remaining maturity is less than one year. In addition, the instrument must not have any terms or features that require, or create significant incentives for, the Board-regulated institution to redeem the instrument prior to maturity; 16 and
 
 16 An instrument that by its terms automatically converts into a tier 1 capital instrument prior to five years after issuance complies with the five-year maturity requirement of this criterion.
 
@@ -128,7 +128,7 @@
 
 (B) The Board-regulated institution does not create at issuance, through action or communication, an expectation the call option will be exercised.
 
-(C) Prior to exercising the call option, or immediately thereafter, the Board-regulated institution must either: Replace any amount called with an equivalent amount of an instrument that meets the criteria for regulatory capital under this section;17 or demonstrate to the satisfaction of the Board that following redemption, the Board-regulated institution would continue to hold an amount of capital that is commensurate with its risk.
+(C) Prior to exercising the call option, or immediately thereafter, the Board-regulated institution must either: Replace any amount called with an equivalent amount of an instrument that meets the criteria for regulatory capital under this section; 17 or demonstrate to the satisfaction of the Board that following redemption, the Board-regulated institution would continue to hold an amount of capital that is commensurate with its risk.
 
 17 A Board-regulated institution may replace tier 2 capital instruments concurrent with the redemption of existing tier 2 capital instruments.
 

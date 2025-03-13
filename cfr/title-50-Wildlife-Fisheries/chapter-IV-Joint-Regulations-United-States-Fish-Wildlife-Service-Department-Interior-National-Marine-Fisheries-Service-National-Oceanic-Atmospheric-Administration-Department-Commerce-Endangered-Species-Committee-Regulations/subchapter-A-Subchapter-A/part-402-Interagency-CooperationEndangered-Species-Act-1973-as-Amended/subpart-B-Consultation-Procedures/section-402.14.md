@@ -46,7 +46,8 @@
 
 (2) The information that is required to complete the consultation, and
 
-(3) The estimated date on which the consultation will be completed. A consultation involving an applicant cannot be extended for more than 60 days without the consent of the applicant. Within 45 days after concluding formal consultation, the Service shall deliver a biological opinion to the Federal agency and any applicant.
+(3) The estimated date on which the consultation will be completed.
+A consultation involving an applicant cannot be extended for more than 60 days without the consent of the applicant. Within 45 days after concluding formal consultation, the Service shall deliver a biological opinion to the Federal agency and any applicant.
 
 (f) *Additional data.* When the Service determines that additional data would provide a better information base from which to formulate a biological opinion, the Director may request an extension of formal consultation and request that the Federal agency obtain additional data to determine how or to what extent the action may affect listed species or critical habitat. If formal consultation is extended by mutual agreement according to § 402.14(e), the Federal agency shall obtain, to the extent practicable, that data which can be developed within the scope of the extension. The responsibility for conducting and funding any studies belongs to the Federal agency and the applicant, not the Service. The Service's request for additional data is not to be construed as the Service's opinion that the Federal agency has failed to satisfy the information standard of section 7(a)(2) of the Act. If no extension of formal consultation is agreed to, the Director will issue a biological opinion using the best scientific and commercial data available.
 

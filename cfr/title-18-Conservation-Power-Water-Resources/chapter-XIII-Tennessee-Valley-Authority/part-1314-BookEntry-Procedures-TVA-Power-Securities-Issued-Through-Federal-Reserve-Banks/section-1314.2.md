@@ -40,7 +40,7 @@ Unless the context requires otherwise, terms used in this part 1314 that are not
 
 (q) *TVA* means the Tennessee Valley Authority, a wholly owned corporate agency and instrumentality of the United States of America created and existing under the Tennessee Valley Authority Act of 1933, as amended (16 U.S.C. 831-831dd).
 
-(r) *TVA Basic Bond Resolution* means the Basic Tennessee Valley Authority Power Bond Resolution 1 adopted by the TVA Board of Directors on October 6, 1960, as heretofore and hereafter amended.
+(r) *TVA Basic Bond Resolution* means the Basic Tennessee Valley Authority Power Bond Resolution1 adopted by the TVA Board of Directors on October 6, 1960, as heretofore and hereafter amended.
 
 1 A copy of the TVA Basic Bond Resolution may be obtained upon request directed to TVA, 400 West Summit Hill Drive, Knoxville, Tennessee 37902-1499, Attn.: Treasurer.
 

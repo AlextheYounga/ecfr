@@ -2,7 +2,8 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Atchafalaya National Wildlife Refuge*— (1) *Migratory game bird hunting.* We allow hunting of mourning dove, duck, goose, coot, snipe, rail, gallinule, and woodcock on designated areas of the refuge subject to the following conditions:
+(a) *Atchafalaya National Wildlife Refuge*—
+(1) *Migratory game bird hunting.* We allow hunting of mourning dove, duck, goose, coot, snipe, rail, gallinule, and woodcock on designated areas of the refuge subject to the following conditions:
 
 (i) You may hunt only as governed by State-issued Sherburne Wildlife Management Area regulations.
 
@@ -84,7 +85,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) Adults accompanying youth on any refuge hunts may participate by hunting (except during the State youth-only seasons), but are not allowed to harvest more than their own daily bag limit (see § 20.24 of this chapter). Youth must harvest their own bag limits.
 
-(vi) We allow migratory bird hunting on Wednesdays, Thursdays, Saturdays, and Sundays from 1/2 hour before legal sunrise until 2 p.m.
+(vi) We allow migratory bird hunting on Wednesdays, Thursdays, Saturdays, and Sundays from1/2 hour before legal sunrise until 2 p.m.
 
 (vii) We open the refuge to goose youth hunting during any segment of goose season that extends beyond the regular duck season.
 
@@ -210,9 +211,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) Each person age 18 and older must possess and carry a valid, signed refuge user brochure while on the refuge.
 
-(ii) We allow waterfowl, snipe, rail, gallinule, dove, and goose hunting on Wednesdays, Thursdays, Saturdays, and Sundays from 1/2 hour before legal sunrise until 2 p.m., including waterfowl hunting during the State teal season and State youth and veterans waterfowl seasons. We only allow hunting of woodcock until 2 p.m.
+(ii) We allow waterfowl, snipe, rail, gallinule, dove, and goose hunting on Wednesdays, Thursdays, Saturdays, and Sundays from1/2 hour before legal sunrise until 2 p.m., including waterfowl hunting during the State teal season and State youth and veterans waterfowl seasons. We only allow hunting of woodcock until 2 p.m.
 
-(iii) We allow light goose hunting for that part of the season that extends beyond the regular duck season from 1/2 hour before legal sunrise until 2 p.m.
+(iii) We allow light goose hunting for that part of the season that extends beyond the regular duck season from1/2 hour before legal sunrise until 2 p.m.
 
 (iv) We allow only temporary blinds, and hunters must remove blinds and decoys by 2 p.m. each day (see § 27.93 of this chapter).
 
@@ -310,7 +311,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) Each person age 18 and older must possess and carry a valid, signed refuge user brochure while on the refuge.
 
-(ii) We only allow hunting of duck, merganser, teal, light and dark goose, and gallinule from 1/2 hour before legal sunrise until 2 p.m. of the State seasons, including during the State teal season, State youth waterfowl season, State veterans season, and special light goose conservation season.
+(ii) We only allow hunting of duck, merganser, teal, light and dark goose, and gallinule from1/2 hour before legal sunrise until 2 p.m. of the State seasons, including during the State teal season, State youth waterfowl season, State veterans season, and special light goose conservation season.
 
 (iii) You must remove blinds and decoys by 2 p.m. each day (see § 27.93 of this chapter).
 
@@ -358,7 +359,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (A) You must use trained hog-hunting dogs to aid in the take of hog.
 
-(B) We allow take of hog from 1/2 hour before legal sunrise until 1/2 hour after legal sunset.
+(B) We allow take of hog from1/2 hour before legal sunrise until1/2 hour after legal sunset.
 
 (C) You must possess only approved nontoxic shot, or pistol or rifle ammunition not larger than .22 caliber rim-fire, to take the hog after it has been caught by dogs.
 
@@ -378,7 +379,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) When the Pearl River Turnaround area is open, we allow boats that do not have gasoline-powered engines attached in the fishing ponds at the Pearl River Turnaround. Anglers must hand-launch these boats into the ponds. When the fishing ponds at the Pearl River Turnaround are open, hook and line is the only legal method of take in those ponds.
 
-(iv) The Pearl River Turnaround area, when open to fishing, is open 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
+(iv) The Pearl River Turnaround area, when open to fishing, is open1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
 (v) The conditions set forth at paragraphs (g)(1)(i) and (viii), and (g)(2)(v) of this section apply.
 
@@ -454,7 +455,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) All youth hunters age 15 and younger must be supervised by an adult during hunts. One adult may supervise up to two youths during small game hunts and migratory bird hunts, but may supervise only one youth during big game hunts. The supervising adult must maintain visual and voice contact with the youth at all times. Adult guardians are responsible for ensuring that youth hunters do not violate refuge rules.
 
-(vii) We allow waterfowl (duck, merganser, teal, light and dark goose, and coot) and gallinule hunting daily during the State regular season, including waterfowl hunting during the State teal season and State youth and veteran waterfowl seasons, from 1/2 hour before legal sunrise until 2 p.m.
+(vii) We allow waterfowl (duck, merganser, teal, light and dark goose, and coot) and gallinule hunting daily during the State regular season, including waterfowl hunting during the State teal season and State youth and veteran waterfowl seasons, from1/2 hour before legal sunrise until 2 p.m.
 
 (viii) You must remove harvested waterfowl, temporary blinds, and decoys used for duck hunting by 2 p.m. each day (see § 27.93 of this chapter).
 
@@ -500,9 +501,10 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) You must attend all crawfish traps and nets at all times. We allow up to, and no more than, 20 traps per angler on the refuge.
 
-(k) *Catahoula National Wildlife Refuge*— (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, and woodcock on designated areas of the refuge subject to the following conditions:
+(k) *Catahoula National Wildlife Refuge*—
+(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, and woodcock on designated areas of the refuge subject to the following conditions:
 
-(i) We allow migratory hunting of duck, goose, and coot on Tuesdays, Thursdays, Saturdays, and Sundays from 1/2 hour before legal sunrise until 12 p.m. (noon) during the State season.
+(i) We allow migratory hunting of duck, goose, and coot on Tuesdays, Thursdays, Saturdays, and Sundays from1/2 hour before legal sunrise until 12 p.m. (noon) during the State season.
 
 (ii) We prohibit migratory game bird hunting during deer modern and primitive firearms hunts.
 
@@ -566,11 +568,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We require anglers age 16 and older to possess and carry a signed special refuge recreational activity permit (name/address/phone only).
 
-(iii) We allow fishing from 1/2 hour before legal sunrise to legal sunset.
+(iii) We allow fishing from1/2 hour before legal sunrise to legal sunset.
 
 (iv) At the Headquarters Unit, we allow year-round fishing on Cowpen Bayou and the Highway 28 borrow pits. We allow fishing on Duck Lake and its tail-waters, Muddy Bayou, Willow Lake, and the Highway 84 borrow pits from March 1 through October 31. We only allow use of a rod and reel or pole with a hook and line attached for fishing in these waters. We prohibit snagging.
 
-(v) At the Bushley Bayou Unit, we allow fishing year-round. We allow trotlines, but anglers must tend them at least once every 24 hours and reset them when receding water levels expose them. Anglers must attach lines with a length of cotton line that extends into the water. We allow the use of yo-yos, but you must attend and only use them from 1 hour before legal sunrise until 1/2 hour after legal sunset. We prohibit the use of nets and traps.
+(v) At the Bushley Bayou Unit, we allow fishing year-round. We allow trotlines, but anglers must tend them at least once every 24 hours and reset them when receding water levels expose them. Anglers must attach lines with a length of cotton line that extends into the water. We allow the use of yo-yos, but you must attend and only use them from 1 hour before legal sunrise until1/2 hour after legal sunset. We prohibit the use of nets and traps.
 
 (vi) At the Headquarters Unit, we allow the launching of only trailered boats at designated boat ramps. Anglers may launch small hand-carried boats from the bank in other areas. We prohibit dragging of boats or driving onto road shoulders to launch boats.
 
@@ -622,7 +624,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) Each person age 18 and older must possess and carry a valid, signed refuge user brochure while on the refuge.
 
-(ii) We allow migratory bird hunting on Wednesdays, Thursdays, Saturdays, and Sundays from 1/2 hour before legal sunrise until 2 p.m. during the State seasons, including the regular waterfowl season, the State teal season, State youth waterfowl season, State veterans waterfowl season, and State light goose special conservation season.
+(ii) We allow migratory bird hunting on Wednesdays, Thursdays, Saturdays, and Sundays from1/2 hour before legal sunrise until 2 p.m. during the State seasons, including the regular waterfowl season, the State teal season, State youth waterfowl season, State veterans waterfowl season, and State light goose special conservation season.
 
 (iii) We only allow temporary blinds. You must remove both blinds and decoys by 2 p.m. each day (see § 27.93 of this chapter).
 
@@ -674,7 +676,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow recreational finfishing and shellfishing on designated areas of the refuge subject to the following conditions:
 
-(i) We only allow sport finfishing and shellfishing from 1/2 hour before legal sunrise until 1/2 hour after legal sunset. During the State waterfowl hunting seasons, we only allow sport finfishing and shellfishing from 2 p.m. until 1/2 hour after legal sunset.
+(i) We only allow sport finfishing and shellfishing from1/2 hour before legal sunrise until1/2 hour after legal sunset. During the State waterfowl hunting seasons, we only allow sport finfishing and shellfishing from 2 p.m. until1/2 hour after legal sunset.
 
 (ii) We prohibit the use of trotlines, limblines, slat traps, jug lines, nets, or alligator lines.
 
@@ -682,7 +684,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (n) *Grand Cote National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, and woodcock on designated areas of the refuge subject to the following conditions:
 
-(i) We allow waterfowl (duck, goose, coot) hunting on Wednesdays and Saturdays from 1/2 hour before legal sunrise until 12 p.m. (noon) during the State season.
+(i) We allow waterfowl (duck, goose, coot) hunting on Wednesdays and Saturdays from1/2 hour before legal sunrise until 12 p.m. (noon) during the State season.
 
 (ii) We prohibit teal hunting during the State September season.
 
@@ -740,7 +742,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We only allow fishing within the Coulee Des Grues Bayou from the bank adjacent to Little California Road.
 
-(iii) Except as provided under paragraph (n)(4)(ii) of this section, we allow fishing from 1/2 hour before legal sunrise to legal sunset. Anglers may enter the refuge no earlier than 4 a.m. and must exit no later than 2 hours after legal sunset for that day.
+(iii) Except as provided under paragraph (n)(4)(ii) of this section, we allow fishing from1/2 hour before legal sunrise to legal sunset. Anglers may enter the refuge no earlier than 4 a.m. and must exit no later than 2 hours after legal sunset for that day.
 
 (iv) We require anglers age 16 and older to purchase and carry a signed refuge special recreational activity permit.
 
@@ -802,7 +804,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (p) *Lake Ophelia National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, and woodcock on designated areas of the refuge subject to the following conditions:
 
-(i) We allow waterfowl (duck, goose, coot) hunting on Tuesdays, Thursdays, and Saturdays from 1/2 hour before legal sunrise until 12 p.m. (noon) during the Statewide duck season.
+(i) We allow waterfowl (duck, goose, coot) hunting on Tuesdays, Thursdays, and Saturdays from1/2 hour before legal sunrise until 12 p.m. (noon) during the Statewide duck season.
 
 (ii) When hunting migratory game birds, you may only use dogs to locate, point, and retrieve.
 
@@ -870,7 +872,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We require anglers age 16 and older to purchase and carry a signed refuge special recreational activity permit (name/address/phone number only).
 
-(iii) We allow fishing from March 1 through October 15 from 1/2 hour before legal sunrise to legal sunset.
+(iii) We allow fishing from March 1 through October 15 from1/2 hour before legal sunrise to legal sunset.
 
 (iv) We allow anglers to operate ATVs on the designated trails to the Duck Lake, Westcut Lake, and Possum Bayou boat ramps.
 

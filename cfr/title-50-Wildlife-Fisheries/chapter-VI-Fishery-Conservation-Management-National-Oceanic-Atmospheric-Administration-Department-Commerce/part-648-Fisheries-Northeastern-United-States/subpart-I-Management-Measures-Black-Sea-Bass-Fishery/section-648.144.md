@@ -20,7 +20,7 @@
 
 (3) *Ghost panel.* (i) Black sea bass traps or pots must contain a ghost panel affixed to the trap or pot with degradable fasteners and hinges. The opening to be covered by the ghost panel must measure at least 3.0 inches (7.62 cm) by 6.0 inches (15.24 cm). The ghost panel must be affixed to the pot or trap with hinges and fasteners made of one of the following degradable materials:
 
-(A) Untreated hemp, jute, or cotton string of 3/16 inches (4.8 mm) diameter or smaller; or
+(A) Untreated hemp, jute, or cotton string of3/16 inches (4.8 mm) diameter or smaller; or
 
 (B) Magnesium alloy, timed float releases (pop-up devices) or similar magnesium alloy fasteners; or
 

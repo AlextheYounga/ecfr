@@ -164,4 +164,4 @@ Subscribed and sworn to before me, a [Notary Public, or title of other official 
 
 (4) Nothing in this section shall be construed to prohibit any persons from voluntarily reaching arrangements or agreements calling for the disclosure of CEII.
 
-[Order 413, 50 FR 11678, Mar. 25, 1985] Editorial Note:For Federal Register citations affecting § 4.32, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Order 413, 50 FR 11678, Mar. 25, 1985]Editorial Note:For Federal Register citations affecting § 4.32, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

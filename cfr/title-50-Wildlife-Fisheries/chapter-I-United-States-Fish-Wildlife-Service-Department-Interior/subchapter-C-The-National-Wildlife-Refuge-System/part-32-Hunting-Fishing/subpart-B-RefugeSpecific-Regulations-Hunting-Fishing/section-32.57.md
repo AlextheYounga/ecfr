@@ -16,7 +16,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (a)(1)(i) and (iii) of this section apply.
 
-(ii) We prohibit night hunting from 1/2 hour after legal sunset until 1/2 hour before legal sunrise the following day.
+(ii) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer, bear, and wild turkey on designated areas of the refuge subject to the following conditions:
 
@@ -32,7 +32,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (B) Use only artificial lures and barbless hooks to fish.
 
-(ii) We allow fishing from 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
+(ii) We allow fishing from1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
 (iii) We allow only nonmotorized or electric-motor boats in designated areas.
 
@@ -78,7 +78,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit the taking or possession of shellfish on the refuge.
 
-(v) We allow fishing from 1/2 hour before sunrise until 1/2 hour after legal sunset.
+(v) We allow fishing from1/2 hour before sunrise until1/2 hour after legal sunset.
 
 (c) *John Heinz National Wildlife Refuge at Tinicum.* (1)-(2) [Reserved]
 

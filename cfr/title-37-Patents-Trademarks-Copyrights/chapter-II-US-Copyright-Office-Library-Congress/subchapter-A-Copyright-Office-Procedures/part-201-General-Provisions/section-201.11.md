@@ -1,7 +1,5 @@
 ##### § 201.11 Satellite carrier statements of account covering statutory licenses for secondary transmissions. #####
 
-Link to an amendment published at 89 FR 100358, Dec. 12, 2024.
-
 (a) *General.* This section prescribes rules pertaining to the deposit of Statements of Account and royalty fees in the Copyright Office as required by the satellite carrier license of 17 U.S.C. 119(b)(1), as amended by Public Law 111-175, in order for certain secondary transmissions by satellite carriers for private home viewing to be subject to statutory licensing.
 
 (b) *Definitions.* (1) The terms *distributor*, *network station*, *private home viewing*, *satellite carrier*, *subscribe*, *subscriber*, *non-network station*, *unserved household*, *primary stream*, and *multicast stream*, have the meanings set forth in 17 U.S.C. 119(d), as amended by Public Law 111-175.
@@ -74,25 +72,7 @@ I, the undersigned Owner or Agent of the Satellite Carrier, or Officer or Partne
 
 (18 U.S.C., section 1001 (1986))
 
-(f) *Royalty fee payment.* (1) All royalty fees shall be paid by electronic funds transfer and payment must be received in the designated bank by the filing deadline for the relevant accounting period. The following information shall be provided as part of the EFT and/or as part of the remittance advice as provided for in circulars issued by the Copyright Office:
-
-(i) Remitter's name and address;
-
-(ii) Name of a contact person, telephone number and extension, and email address;
-
-(iii) The actual or anticipated date that the EFT will be transmitted;
-
-(iv) Type of royalty payment (*i.e.*, satellite);
-
-(v) Total amount submitted via the EFT;
-
-(vi) Total amount to be paid by year and period;
-
-(vii) Number of Statements of Account that the EFT covers;
-
-(viii) ID numbers assigned by the Licensing Section;
-
-(ix) Legal name of the owner for each Statement of Account.
+(f) *Royalty fee payment.* (1) All royalty fees, including supplemental royalty payments, must be paid by electronic funds transfer (EFT), and must be received in the designated bank by the filing deadline for the relevant accounting period. Satellite carriers must provide specific information as part of the EFT and as part of the remittance advice, as listed in the instructions for the Statement of Account form.
 
 (2) The remittance advice shall be attached to the Statement(s) of Account. In addition, a copy of the remittance advice shall be emailed or sent by facsimile to the Licensing Section.
 
@@ -120,15 +100,19 @@ I, the undersigned Owner or Agent of the Satellite Carrier, or Officer or Partne
 
 (B) In the case of a request filed under paragraph (h)(1)(ii) of this section, where the royalty fee was miscalculated and the amount deposited in the Copyright Office was either too high or too low, the request must be accompanied by an affidavit under the official seal of any officer authorized to administer oaths within the United States, or a statement in accordance with section 1746 of title 28 of the United States Code, made and signed in accordance with paragraph (e)(9) of this section. The affidavit or statement shall describe the reasons why the royalty fee was improperly calculated and include a detailed analysis of the proper royalty calculation.
 
-(iv)(A) All requests filed under this paragraph (h) must be accompanied by a filing fee in the amount prescribed in § 201.3(e) of this part for each Statement of Account involved. Payment of this fee may be in the form of a personal or company check, or of a certified check, cashier's check or money order, payable to: Register of Copyrights. No request will be processed until the appropriate filing fees are received.
-
-(B) All requests that a supplemental royalty fee payment be received for deposit under this paragraph (h) must be accompanied by a remittance in the full amount of such fee. Payment of the supplemental royalty fee must be in the form of certified check, cashier's check, or money order, payable to: Register of Copyrights; or electronic payment. No such request will be processed until an acceptable remittance in the full amount of the supplemental royalty fee has been received.
+(iv) All requests for correction or refunds must be accompanied by a filing fee in the amount prescribed in § 201.3(e) for each Statement of Account involved, paid by EFT. No request will be processed until the appropriate filing fees are received, and no supplemental royalty fee will be deposited until an acceptable remittance in the full amount of the supplemental royalty fee has been received.
 
 (v) All requests submitted under this paragraph (h) must be signed by the satellite carrier owner named in the Statement of Account, or the duly authorized agent of the owner, in accordance with paragraph (e)(9) of this section.
 
 (vi) A request for a refund is not necessary where the Licensing Section, during its examination of a Statement of Account or related document, discovers an error that has resulted in a royalty overpayment. In this case, the Licensing Section will forward the royalty refund to the satellite carrier owner named in the Statement of Account without regard to the time limitations provided for in paragraph (h)(3)(i) of this section.
 
+(vii) A refund payment in the amount of fifty dollars ($50.00) or less will not be refunded unless specifically requested before the statement of account is closed, at which point any excess payment will be treated as part of the royalty fee. A request for a refund payment in an amount of over fifty dollars ($50.00) is not necessary where the Licensing Division, during its examination of a Statement of Account or related document, discovers an error that has resulted in a royalty overpayment. In this case, the Licensing Division will affirmatively send the royalty refund to the satellite carrier owner named in the Statement of Account without regard to the time limitations provided for in paragraph (h)(3)(i) of this section.
+
 (4) Following final processing, all requests submitted under this paragraph (h) will be filed with the original Statement of Account in the records of the Copyright Office. Nothing contained in this paragraph shall be considered to relieve satellite carriers from their full obligations under title 17 of the United States Code, and the filing of a correction or supplemental payment shall have only such effect as may be attributed to it by a court of competent jurisdiction.
+
+(5) Royalty fee payments submitted as a result of late or amended filings shall include interest. Interest shall begin to accrue beginning on the first day after the close of the period for filing statements of account for all underpayments or late payments of royalties for the satellite carrier statutory license for secondary transmissions for private home viewing and viewing in commercial establishments occurring within that accounting period. The accrual period shall end on the date the full payment submitted by a remitter is received by the Copyright Office. The interest rate applicable to a specific accounting period beginning with the 1992/2 period shall be the Current Value of Funds Rate, as posted on the Treasury Department's website and published in the Federal Register, in effect on the first business day after the close of the filing deadline for that accounting period. Satellite carriers wishing to obtain the interest rate for a specific accounting period may do so by consulting the Federal Register for the applicable Current Value of Funds Rate, or by consulting the Copyright Office website. Interest is not required to be paid on any royalty underpayment or late payment from a particular accounting period if the interest charge is less than or equal to five dollars ($5.00).
+
+(6) A statement of account shall be considered closed in cases where a licensee fails to reply within ninety days to the request for further information from the Copyright Office or, in the case of subsequent correspondence that may be necessary, ninety days from the date of the last correspondence from the Office.
 
 (i) *Interest.* (1) Royalty fee payments submitted as a result of late or amended filings will include interest. Interest will begin to accrue beginning on the first day after the close of the period for filing statements of account for all underpayments or late payments of royalties for the satellite carrier statutory license for secondary transmissions for private home viewing and viewing in commercial establishments occurring within that accounting period. The accrual period shall end on the date the electronic payment submitted by a satellite carrier is received by the Copyright Office. In cases where a waiver of the electronic funds transfer requirement is approved by the Copyright Office, and royalties payments are either late or underpaid, the accrual period shall end on the date the payment is postmarked. If the payment is not received by the Copyright Office within five business days of its date, then the accrual period shall end on the date of the actual receipt by the Copyright Office.
 
@@ -138,4 +122,4 @@ I, the undersigned Owner or Agent of the Satellite Carrier, or Officer or Partne
 
 (3) Interest is not required to be paid on any royalty underpayment or late payment from a particular accounting period if the interest charge is less than or equal to five dollars ($5.00).
 
-[54 FR 27877, July 3, 1989, as amended at 55 FR 49998, Dec. 4, 1990; 56 FR 29589, June 28, 1991; 57 FR 61834, Dec. 29, 1992; 59 FR 67635, Dec. 30, 1994; 60 FR 34168, June 30, 1995; 60 FR 57937, Nov. 24, 1995; 63 FR 30635, June 5, 1998; 64 FR 36574, July 7, 1999; 70 FR 30366, May 26, 2005; 70 FR 38022, July 1, 2005; 71 FR 45739, Aug. 10, 2006; 72 FR 33691, June 19, 2007; 73 FR 29072, May 20, 2008; 75 FR 56872, Sept. 17, 2010; 78 FR 42874, July 18, 2013; 82 FR 9357, Feb. 6, 2017; 83 FR 51841, Oct. 15, 2018; 85 FR 19667, Apr. 8, 2020; 86 FR 32642, June 22, 2021]
+[54 FR 27877, July 3, 1989, as amended at 55 FR 49998, Dec. 4, 1990; 56 FR 29589, June 28, 1991; 57 FR 61834, Dec. 29, 1992; 59 FR 67635, Dec. 30, 1994; 60 FR 34168, June 30, 1995; 60 FR 57937, Nov. 24, 1995; 63 FR 30635, June 5, 1998; 64 FR 36574, July 7, 1999; 70 FR 30366, May 26, 2005; 70 FR 38022, July 1, 2005; 71 FR 45739, Aug. 10, 2006; 72 FR 33691, June 19, 2007; 73 FR 29072, May 20, 2008; 75 FR 56872, Sept. 17, 2010; 78 FR 42874, July 18, 2013; 82 FR 9357, Feb. 6, 2017; 83 FR 51841, Oct. 15, 2018; 85 FR 19667, Apr. 8, 2020; 86 FR 32642, June 22, 2021; 89 FR 100358, Dec. 12, 2024]

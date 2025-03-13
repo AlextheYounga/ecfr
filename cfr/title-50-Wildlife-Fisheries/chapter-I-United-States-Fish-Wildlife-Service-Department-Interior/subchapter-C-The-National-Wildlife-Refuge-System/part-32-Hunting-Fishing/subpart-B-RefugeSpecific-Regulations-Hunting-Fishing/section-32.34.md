@@ -58,7 +58,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (xi) We prohibit take or possession of turtle or frog at any time (see §§ 27.21 of this chapter).
 
-(xii) We allow anglers on the refuge from 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
+(xii) We allow anglers on the refuge from1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
 (b) *Driftless Area National Wildlife Refuge.* (1) [Reserved]
 
@@ -94,7 +94,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) You must remove all ice fishing shelters and other personal property at the end of each day's fishing (see § 27.93 of this chapter).
 
-(d) *Neal Smith National Wildlife Refuge*— (1) *Migratory game bird hunting.* We allow the hunting of dove, duck, goose, and coot on designated areas of the refuge subject to the following conditions:
+(d) *Neal Smith National Wildlife Refuge*—
+(1) *Migratory game bird hunting.* We allow the hunting of dove, duck, goose, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) We allow entry into the refuge 1 hour before legal sunrise and require hunters to leave the refuge no later than 1 hour after legal sunset.
 

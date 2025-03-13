@@ -1,6 +1,6 @@
 ##### § 571.127 Standard No. 127; Automatic emergency braking systems for light vehicles. #####
 
-Link to an amendment published at 89 FR 93220, Nov. 26, 2024.Link to a correction published at 89 FR 99732, Dec. 11, 2024.
+Link to an amendment published at 89 FR 93220, Nov. 26, 2024.Link to a correction published at 89 FR 99732, Dec. 11, 2024.This amendment was delayed until Mar. 20, 2025, at 90 FR 8179, Jan. 27, 2025.
 
 S1. *Scope.* This standard establishes performance requirements for automatic emergency braking (AEB) systems for light vehicles.
 

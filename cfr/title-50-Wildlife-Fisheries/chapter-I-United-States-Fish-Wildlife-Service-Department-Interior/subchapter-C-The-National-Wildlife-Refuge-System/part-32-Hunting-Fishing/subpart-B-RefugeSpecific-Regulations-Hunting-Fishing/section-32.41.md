@@ -132,7 +132,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2) *Upland game hunting.* We allow hunting of turkey, small game (eastern fox squirrel, eastern cottontail, and ring-necked pheasant), and furbearers (raccoon, coyote, and red fox) on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (f)(1)(iii) and (vi) of this section apply, except we allow hunter access to the refuge for furbearer hunting from 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
+(i) The conditions set forth at paragraphs (f)(1)(iii) and (vi) of this section apply, except we allow hunter access to the refuge for furbearer hunting from1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
 (ii) You may only hunt turkey during the spring season.
 

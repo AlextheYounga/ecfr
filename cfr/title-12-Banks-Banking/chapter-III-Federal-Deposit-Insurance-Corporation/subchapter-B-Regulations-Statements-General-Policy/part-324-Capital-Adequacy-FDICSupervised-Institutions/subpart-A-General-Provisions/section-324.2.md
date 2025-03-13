@@ -168,7 +168,7 @@ As used in this part:
 
 (1) Under applicable law in the relevant jurisdictions, other than:
 
-(i) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar4 to the U.S. laws referenced in this paragraph (1)(i) in order to facilitate the orderly resolution of the defaulting counterparty;
+(i) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar 4 to the U.S. laws referenced in this paragraph (1)(i) in order to facilitate the orderly resolution of the defaulting counterparty;
 
 4 The FDIC expects to evaluate jointly with the Federal Reserve and the OCC whether foreign special resolution regimes meet the requirements of this paragraph.
 
@@ -450,7 +450,7 @@ As used in this part:
 
 (A) Any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than
 
-(*1*) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs,5 or laws of foreign jurisdictions that are substantially similar6 to the U.S. laws referenced in this paragraph (1)(iii)(A)(*1*) in order to facilitate the orderly resolution of the defaulting counterparty; or
+(*1*) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs,5 or laws of foreign jurisdictions that are substantially similar 6 to the U.S. laws referenced in this paragraph (1)(iii)(A)(*1*) in order to facilitate the orderly resolution of the defaulting counterparty; or
 
 5 This requirement is met where all transactions under the agreement are (i) executed under U.S. law and (ii) constitute “securities contracts” under section 555 of the Bankruptcy Code (11 U.S.C. 555), qualified financial contracts under section 11(e)(8) of the Federal Deposit Insurance Act, or netting contracts between or among financial institutions under sections 401-407 of the Federal Deposit Insurance Corporation Improvement Act or the Federal Reserve Board's Regulation EE (12 CFR part 231).
 
@@ -864,7 +864,7 @@ As used in this part:
 
 (i) Any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than:
 
-(A) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar7 to the U.S. laws referenced in this paragraph (2)(i)(A) in order to facilitate the orderly resolution of the defaulting counterparty; or
+(A) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar 7 to the U.S. laws referenced in this paragraph (2)(i)(A) in order to facilitate the orderly resolution of the defaulting counterparty; or
 
 7 The FDIC expects to evaluate jointly with the Federal Reserve and the OCC whether foreign special resolution regimes meet the requirements of this paragraph.
 
@@ -892,7 +892,7 @@ As used in this part:
 
 (*1*) Any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than
 
-(*i*) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar8 to the U.S. laws referenced in this paragraph (3)(ii)(A)(*1*)(*i*) in order to facilitate the orderly resolution of the defaulting counterparty;
+(*i*) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar 8 to the U.S. laws referenced in this paragraph (3)(ii)(A)(*1*)(*i*) in order to facilitate the orderly resolution of the defaulting counterparty;
 
 8 The FDIC expects to evaluate jointly with the Federal Reserve and the OCC whether foreign special resolution regimes meet the requirements of this paragraph.
 
@@ -1004,7 +1004,7 @@ As used in this part:
 
 *State savings association* means a State savings association as defined in section 3(b)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(3)), the deposits of which are insured by the Corporation. It includes a building and loan, savings and loan, or homestead association, or a cooperative bank (other than a cooperative bank which is a state bank as defined in section 3(a)(2) of the Federal Deposit Insurance Act) organized and operating according to the laws of the State in which it is chartered or organized, or a corporation (other than a bank as defined in section 3(a)(1) of the Federal Deposit Insurance Act) that the Board of Directors of the Federal Deposit Insurance Corporation determine to be operating substantially in the same manner as a state savings association.
 
-*Statutory multifamily mortgage* means a loan secured by a multifamily residential property that meets the requirements under section 618(b)(1) of the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991, and that meets the following criteria:9
+*Statutory multifamily mortgage* means a loan secured by a multifamily residential property that meets the requirements under section 618(b)(1) of the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991, and that meets the following criteria: 9
 
 9 The types of loans that qualify as loans secured by multifamily residential properties are listed in the instructions for preparation of the Call Report.
 

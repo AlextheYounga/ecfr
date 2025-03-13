@@ -28,4 +28,4 @@
 
 (ii) The appropriate interest as required in paragraph (c)(2) of this section for the period during which the refundable amounts were held.
 
-The pipeline company that published the tariff shall, on the date set by the Commission in its final order, make refunds with interest to the appropriate shipper for the full period during which the refundable amounts were held. [Order 273, 48 FR 1289; Jan. 12, 1983]
+The pipeline company that published the tariff shall, on the date set by the Commission in its final order, make refunds with interest to the appropriate shipper for the full period during which the refundable amounts were held.[Order 273, 48 FR 1289; Jan. 12, 1983]

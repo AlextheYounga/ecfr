@@ -150,7 +150,7 @@ As used in this part:
 
 (1) Under applicable law in the relevant jurisdictions, other than:
 
-(i) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar4 to the U.S. laws referenced in this paragraph (1)(i) in order to facilitate the orderly resolution of the defaulting counterparty;
+(i) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar 4 to the U.S. laws referenced in this paragraph (1)(i) in order to facilitate the orderly resolution of the defaulting counterparty;
 
 4 The OCC expects to evaluate jointly with the Board and FDIC whether foreign special resolution regimes meet the requirements of this paragraph.
 
@@ -430,7 +430,7 @@ As used in this part:
 
 (iii) The extension of credit is conducted under an agreement that provides the national bank or Federal savings association the right to accelerate and terminate the extension of credit and to liquidate or set-off collateral promptly upon an event of default, including upon an event of receivership, insolvency, liquidation, conservatorship, or similar proceeding, of the counterparty, provided that, in any such case:
 
-(A) Any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than in receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs,5 or laws of foreign jurisdictions that are substantially similar6 to the U.S. laws referenced in this paragraph (1)(iii)(A) in order to facilitate the orderly resolution of the defaulting counterparty; and
+(A) Any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than in receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs,5 or laws of foreign jurisdictions that are substantially similar 6 to the U.S. laws referenced in this paragraph (1)(iii)(A) in order to facilitate the orderly resolution of the defaulting counterparty; and
 
 5 This requirement is met where all transactions under the agreement are (i) executed under U.S. law and (ii) constitute “securities contracts” under section 555 of the Bankruptcy Code (11 U.S.C. 555), qualified financial contracts under section 11(e)(8) of the Federal Deposit Insurance Act, or netting contracts between or among financial institutions under sections 401-407 of the Federal Deposit Insurance Corporation Improvement Act or the Federal Reserve Board's Regulation EE (12 CFR part 231).
 
@@ -822,7 +822,7 @@ As used in this part:
 
 (i) Any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than:
 
-(A) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar7 to the U.S. laws referenced in this paragraph (2)(i)(A) in order to facilitate the orderly resolution of the defaulting counterparty; or
+(A) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar 7 to the U.S. laws referenced in this paragraph (2)(i)(A) in order to facilitate the orderly resolution of the defaulting counterparty; or
 
 7 The OCC expects to evaluate jointly with the Board and FDIC whether foreign special resolution regimes meet the requirements of this paragraph.
 
@@ -844,7 +844,7 @@ As used in this part:
 
 (A) The transaction is executed under an agreement that provides the national bank or Federal savings association the right to accelerate, terminate, and close-out the transaction on a net basis and to liquidate or set-off collateral promptly upon an event of default, including upon an event of receivership, insolvency, liquidation, or similar proceeding, of the counterparty, provided that, in any such case:
 
-(*1*) Any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than in receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar8 to the U.S. laws referenced in this paragraph (3)(ii)(A)(*1*) in order to facilitate the orderly resolution of the defaulting counterparty; and
+(*1*) Any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than in receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar 8 to the U.S. laws referenced in this paragraph (3)(ii)(A)(*1*) in order to facilitate the orderly resolution of the defaulting counterparty; and
 
 8 The OCC expects to evaluate jointly with the Board and FDIC whether foreign special resolution regimes meet the requirements of this paragraph.
 
@@ -952,7 +952,7 @@ As used in this part:
 
 (2) Any amount of a national bank's or Federal savings association's allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, that is not included in tier 2 capital and any amount of “allocated transfer risk reserves.
 
-*Statutory multifamily mortgage* means a loan secured by a multifamily residential property that meets the requirements under section 618(b)(1) of the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991, and that meets the following criteria:9
+*Statutory multifamily mortgage* means a loan secured by a multifamily residential property that meets the requirements under section 618(b)(1) of the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991, and that meets the following criteria: 9
 
 9 The types of loans that qualify as loans secured by multifamily residential properties are listed in the instructions for preparation of the Call Report.
 

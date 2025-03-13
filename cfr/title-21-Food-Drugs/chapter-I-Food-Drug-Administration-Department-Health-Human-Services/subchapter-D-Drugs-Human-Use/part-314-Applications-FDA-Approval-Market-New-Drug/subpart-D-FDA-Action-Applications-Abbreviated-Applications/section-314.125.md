@@ -1,6 +1,6 @@
 ##### § 314.125 Refusal to approve an NDA. #####
 
-Link to an amendment published at 89 FR 105331, Dec. 26, 2024.
+Link to an amendment published at 89 FR 105331, Dec. 26, 2024.Link to a correction of the above amendment published at 90 FR 8173, Jan. 27, 2025.
 
 (a) The Food and Drug Administration will refuse to approve the NDA and for a new drug give the applicant written notice of an opportunity for a hearing under § 314.200 on the question of whether there are grounds for denying approval of the NDA under section 505(d) of the Federal Food, Drug, and Cosmetic Act, if:
 

@@ -70,7 +70,8 @@ When conducting the specified activities identified in §§ 217.310(c) and 217.3
 
 (5) Sunrise Wind must utilize a soft-start protocol at the beginning of foundation installation for each impact pile driving event and at any time following a cessation of impact pile driving of 30 minutes or longer;
 
-(6) Sunrise Wind must deploy, at minimum, a double bubble curtain and AdBm during all monopile foundation pile driving and, at minimum, a double bubble curtain during all jacket foundation pile driving; (i) The double bubble curtain must distribute air bubbles using an air flow rate of at least 0.5 m3/(min\*m). The double bubble curtain must surround 100 percent of the piling perimeter throughout the full depth of the water column. In the unforeseen event of a single compressor malfunction, the offshore personnel operating the bubble curtain(s) must make appropriate adjustments to the air supply and operating pressure such that the maximum possible sound attenuation performance of the bubble curtain(s) is achieved.
+(6) Sunrise Wind must deploy, at minimum, a double bubble curtain and AdBm during all monopile foundation pile driving and, at minimum, a double bubble curtain during all jacket foundation pile driving;
+(i) The double bubble curtain must distribute air bubbles using an air flow rate of at least 0.5 m3/(min\*m). The double bubble curtain must surround 100 percent of the piling perimeter throughout the full depth of the water column. In the unforeseen event of a single compressor malfunction, the offshore personnel operating the bubble curtain(s) must make appropriate adjustments to the air supply and operating pressure such that the maximum possible sound attenuation performance of the bubble curtain(s) is achieved.
 
 (ii) The lowest bubble ring must be in contact with the seafloor for the full circumference of the ring, and the weights attached to the bottom ring must ensure 100-percent seafloor contact.
 

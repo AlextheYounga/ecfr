@@ -132,7 +132,7 @@ The exact name and business address of each person authorized to act as agent fo
 
 (ii) A description of existing water quality in the project impoundment and downstream water affected by the project and the applicable water quality standards and stream segment classifications;
 
-(iii) A description of any minimum flow releases specifying the rate of flow in cubic feet per second (cfs) and duration, changes in the design of project works or in project operation, or other measures recommended by the agencies consulted for the purposes of protecting or improving water quality, including measures to minimize the short-term impacts on water quality of any proposed new development of project works (for any dredging or filling, refer to 40 CFR part 230 and 33 CFR 320.3(f) and 323.3(e)) 1;
+(iii) A description of any minimum flow releases specifying the rate of flow in cubic feet per second (cfs) and duration, changes in the design of project works or in project operation, or other measures recommended by the agencies consulted for the purposes of protecting or improving water quality, including measures to minimize the short-term impacts on water quality of any proposed new development of project works (for any dredging or filling, refer to 40 CFR part 230 and 33 CFR 320.3(f) and 323.3(e))1;
 
 1 33 CFR part 323 was revised at 47 FR 31810, July 22, 1982, and § 323.3(e) no longer exists.
 

@@ -28,7 +28,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (b)(1)(i), (ii), and (iv) of this section apply.
 
-(ii) We allow access for bobcat, coyote, fox, and mountain lion hunting January 1 through February 15, and hunting hours are from 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
+(ii) We allow access for bobcat, coyote, fox, and mountain lion hunting January 1 through February 15, and hunting hours are from1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
 (iii) We prohibit the use of dogs when hunting bobcat, coyote, fox, and mountain lion. We allow the use of dogs while hunting other upland game.
 
@@ -46,7 +46,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We prohibit the use or possession of live minnows or bait fish.
 
-(ii) We open designated fishing areas from 1/2 hour before legal sunrise to 1/2 hour after legal sunset, except the Little White River Recreation Area.
+(ii) We open designated fishing areas from1/2 hour before legal sunrise to1/2 hour after legal sunset, except the Little White River Recreation Area.
 
 (iii) We prohibit the use of lead fishing sinkers on all waters of the refuge except the Little River Recreation Area.
 
@@ -96,7 +96,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-(i) Fishing hours are 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
+(i) Fishing hours are1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
 (ii) We allow ice fishing shanties, but anglers must remove them at the end of each day's fishing activity (see § 27.93 of this chapter).
 

@@ -1,6 +1,6 @@
 ##### § 211.23 Nonbanking activities of foreign banking organizations. #####
 
-(a) *Qualifying foreign banking organizations.* Unless specifically made eligible for the exemptions by the Board, a foreign banking organization shall qualify for the exemptions afforded by this section only if, disregarding its United States banking, more than half of its worldwide business is banking; and more than half of its banking business is outside the United States.10 In order to qualify, a foreign banking organization shall:
+(a) *Qualifying foreign banking organizations.* Unless specifically made eligible for the exemptions by the Board, a foreign banking organization shall qualify for the exemptions afforded by this section only if, disregarding its United States banking, more than half of its worldwide business is banking; and more than half of its banking business is outside the United States. 10 In order to qualify, a foreign banking organization shall:
 
 10 None of the assets, revenues, or net income, whether held or derived directly or indirectly, of a subsidiary bank, branch, agency, commercial lending company, or other company engaged in the business of banking in the United States (including any territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands) shall be considered held or derived from the business of banking “outside the United States”.
 

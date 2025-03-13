@@ -4,7 +4,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (a) *Bogue Chitto National Wildlife Refuge.* Refer to § 32.37(g) for regulations.
 
-(b) *Coldwater River National Wildlife Refuge*— (1) *Migratory game bird hunting.* We allow hunting of migratory ducks, geese, mergansers, coot, rails, snipe, and woodcock on designated areas of the refuge subject to the following conditions:
+(b) *Coldwater River National Wildlife Refuge*—
+(1) *Migratory game bird hunting.* We allow hunting of migratory ducks, geese, mergansers, coot, rails, snipe, and woodcock on designated areas of the refuge subject to the following conditions:
 
 (i) All hunters age 16 and older must possess a State-issued North Mississippi NWR hunting permit (code 606, available from the Mississippi Department of Wildlife, Fisheries, and Parks). While hunting on the refuge, all persons age 15 and younger (“youth hunter”) must be in the presence and under the direct supervision of a licensed or exempt hunter age 21 or older. A hunter supervising a youth hunter must hold all required licenses and permits.
 
@@ -154,7 +155,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (viii) We allow the use of dogs for retrieving migratory birds.
 
-(ix) We allow goose, duck, merganser, and coot hunting beginning 1/2 hour before legal sunrise until 12 p.m. (noon).
+(ix) We allow goose, duck, merganser, and coot hunting beginning1/2 hour before legal sunrise until 12 p.m. (noon).
 
 (x) We do not open for early teal season.
 
@@ -244,7 +245,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vii) We allow the use of dogs for retrieving migratory birds.
 
-(viii) We allow goose, duck, merganser, and coot hunting beginning 1/2 hour before legal sunrise until 12 p.m. (noon).
+(viii) We allow goose, duck, merganser, and coot hunting beginning1/2 hour before legal sunrise until 12 p.m. (noon).
 
 (ix) We do not open for early teal season.
 
@@ -302,7 +303,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (viii) We allow the use of dogs for retrieving migratory birds.
 
-(ix) We allow goose, duck, merganser, and coot hunting beginning 1/2 hour before legal sunrise until 12 p.m. (noon).
+(ix) We allow goose, duck, merganser, and coot hunting beginning1/2 hour before legal sunrise until 12 p.m. (noon).
 
 (x) We do not open for early teal season.
 
@@ -356,7 +357,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (viii) We allow the use of dogs for retrieving migratory birds.
 
-(ix) We allow goose, duck, merganser, and coot hunting beginning 1/2 hour before legal sunrise until 12 p.m. (noon).
+(ix) We allow goose, duck, merganser, and coot hunting beginning1/2 hour before legal sunrise until 12 p.m. (noon).
 
 (x) Beginning December 15 through March 1, we prohibit all entry into the Lower Twist and Carter Ponds area.
 
@@ -478,7 +479,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (k) *St. Catherine Creek National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, and woodcock on designated areas of the refuge subject to the following conditions:
 
-(i) We allow hunting on Butler Lake, Salt Lake, and Gillard Lake from 1/2 hour before legal sunrise until 12 p.m. (noon) on Wednesdays, Saturdays, and Sundays.
+(i) We allow hunting on Butler Lake, Salt Lake, and Gillard Lake from1/2 hour before legal sunrise until 12 p.m. (noon) on Wednesdays, Saturdays, and Sundays.
 
 (ii) We require that all hunters and anglers age 16 and older purchase an Annual Public Use Permit (electronic form). We require the refuge user to sign, certifying that you understand and will comply with all regulations, and carry this permit at all times while on the refuge.
 
@@ -622,7 +623,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (viii) We allow the use of dogs for retrieving migratory birds.
 
-(ix) We allow goose, duck, merganser, and coot hunting beginning 1/2 hour before legal sunrise until 12 p.m. (noon).
+(ix) We allow goose, duck, merganser, and coot hunting beginning1/2 hour before legal sunrise until 12 p.m. (noon).
 
 (x) We limit waterfowl hunters to 25 shotshells per person in the field.
 

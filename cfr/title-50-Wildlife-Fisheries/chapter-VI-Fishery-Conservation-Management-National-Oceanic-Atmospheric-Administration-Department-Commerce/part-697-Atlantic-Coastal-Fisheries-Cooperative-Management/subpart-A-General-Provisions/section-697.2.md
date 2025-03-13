@@ -102,7 +102,7 @@
 
 *Natural Atlantic sturgeon* means any Atlantic sturgeon that is not the result of a commercial aquaculture operation, and includes any naturally occurring Atlantic sturgeon (those Atlantic sturgeon naturally spawned and grown in rivers and ocean waters of the Atlantic Coast).
 
-*One-quarter-inch (1/4-inch) v-shaped notch* means a straight-sided triangular cut, without setal hairs, at least 1/4 inch (0.64 cm) in depth and tapering to a point.
+*One-quarter-inch (1/4-inch) v-shaped notch* means a straight-sided triangular cut, without setal hairs, at least1/4 inch (0.64 cm) in depth and tapering to a point.
 
 *Parts thereof* means any part of an American lobster. A part of a lobster counts as one lobster.
 
@@ -120,7 +120,7 @@
 
 *Shrimp trawl net* means any trawl net that is rigged for fishing and has a mesh size less than 2.50 inches (6.35 cm), as measured between the centers of opposite knots when pulled taut, and each try net, as defined in § 622.2 of this chapter, that is rigged for fishing and has a headrope length longer than 16 ft (4.9 m).
 
-*Standard V-shaped notch* means a notch or indentation in the base of the flipper that is at least as deep as 1/8 inch (0.32 cm), with or without setal hairs.
+*Standard V-shaped notch* means a notch or indentation in the base of the flipper that is at least as deep as1/8 inch (0.32 cm), with or without setal hairs.
 
 *Stocked Atlantic sturgeon* means any Atlantic sturgeon cultured in a hatchery that is placed in rivers and ocean waters of the Atlantic Coast to enhance the Atlantic sturgeon spawning stocks.
 

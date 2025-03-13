@@ -24,15 +24,15 @@ BEFORE THE FEDERAL ENERGY REGULATORY COMMISSIONNOTICE OF INTENT TO CONSTRUCT QUA
 
 The location of the facility is:
 
-State or Territory: County:Township or nearby town: Water source:
+State or Territory:County:Township or nearby town:Water source:
 
 The exact name and business address of the applicant(s) are:
 
-Applicant's Name: Address: Telephone Number: Email Address:
+Applicant's Name:Address:Telephone Number:Email Address:
 
 The exact name and business address of each person authorized to act as an agent for the applicant(s) in this notice of intent are:
 
-Name of Agent: Address: Telephone Number: Email Address:
+Name of Agent:Address:Telephone Number:Email Address:
 
 [Name of applicant] is [a citizen of the United States, an association of citizens of the United States, a municipality, State, or a corporation incorporated under the laws of (specify the United States or the state of incorporation), as appropriate].
 
@@ -80,7 +80,7 @@ The [facility name] has not been licensed or exempted from the licensing require
 
 This (notice of intent to construct, etc.) is executed in the:
 
-State of: County of: by:(Name) (Address)being duly sworn, depose(s) and say(s) that the contents of this (notice of intent to construct, etc.) are true to the best of (his or her) knowledge or belief. The undersigned applicant(s) has (have) signed the (notice of intent to construct, etc.) this \_\_\_\_\_\_\_\_\_\_day of \_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_.By:
+State of:County of:by:(Name)(Address)being duly sworn, depose(s) and say(s) that the contents of this (notice of intent to construct, etc.) are true to the best of (his or her) knowledge or belief. The undersigned applicant(s) has (have) signed the (notice of intent to construct, etc.) this \_\_\_\_\_\_\_\_\_\_day of \_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_.By:
 
 Subscribed and sworn to before me, a \_\_\_\_\_\_\_\_\_\_\_\_ [Notary Public, or title of other official authorized by the state to notarize documents, as appropriate] of the State of \_\_\_\_\_\_\_\_\_\_\_\_this day of \_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_.
 

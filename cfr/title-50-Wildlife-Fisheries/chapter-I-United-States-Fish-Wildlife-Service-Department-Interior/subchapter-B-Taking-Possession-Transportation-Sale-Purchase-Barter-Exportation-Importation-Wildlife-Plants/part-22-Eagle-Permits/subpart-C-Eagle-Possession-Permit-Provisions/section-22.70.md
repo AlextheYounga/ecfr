@@ -4,4 +4,5 @@
 
 (b) *Transfer of golden eagles trapped by government employees to other permittees.* If you have the necessary permit(s) from your State, tribe, or territory, a government employee who has trapped a golden eagle under a Federal depredation permit or under a depredation control order may transfer the bird to you if he or she cannot release the eagle in an appropriate location. A golden eagle may only be taken from a livestock or wildlife depredation area declared by USDA Wildlife Services and permitted under § 22.100, or from a livestock depredation area authorized in accordance with Subpart D—Provisions for Depredating Eagles.
 
-[73 FR 59477, Oct. 8, 2008, as amended at 75 FR 932, Jan. 7, 2010. Redesignated and amended at 87 FR 884, Jan. 7, 2022] Redesignated and amended at 87 FR 884, Jan. 7, 2022]
+[73 FR 59477, Oct. 8, 2008, as amended at 75 FR 932, Jan. 7, 2010. Redesignated and amended at 87 FR 884, Jan. 7, 2022]
+Redesignated and amended at 87 FR 884, Jan. 7, 2022]

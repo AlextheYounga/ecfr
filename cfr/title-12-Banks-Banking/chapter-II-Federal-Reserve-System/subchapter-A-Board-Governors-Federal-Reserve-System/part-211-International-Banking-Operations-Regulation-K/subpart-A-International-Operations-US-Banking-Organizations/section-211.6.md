@@ -64,7 +64,7 @@
 
 (iv) Make private placements of participations in its investments and extensions of credit; however, except to the extent permissible for member banks under section 5136 of the Revised Statutes (12 U.S.C. 24(Seventh)), no Edge or agreement corporation otherwise may engage in the business of underwriting, distributing, or buying or selling securities in the United States;
 
-(v) Act as investment or financial adviser by providing portfolio investment advice and portfolio management with respect to securities, other financial instruments, real-property interests, and other investment assets,3 and by providing advice on mergers and acquisitions, provided such services for U.S. persons are with respect to foreign assets only; and
+(v) Act as investment or financial adviser by providing portfolio investment advice and portfolio management with respect to securities, other financial instruments, real-property interests, and other investment assets, 3 and by providing advice on mergers and acquisitions, provided such services for U.S. persons are with respect to foreign assets only; and
 
 3 For purposes of this section, management of an investment portfolio does not include operational management of real property, or industrial or commercial assets.
 

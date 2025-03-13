@@ -102,7 +102,7 @@
 
 (5)-(6) [Reserved]
 
-(7) Restrictions applicable to gillnet fisheries in North Carolina. No person may fish with gillnet fishing gear which has a stretched mesh size larger than 4 1/4 inches (10.8 cm), annually from September 1 through December 15, in the inshore waters of Pamlico Sound, North Carolina, and all contiguous tidal waters, bounded on the north by 35°46.3′ N. lat., on the south by 35°00′ N. lat., and on the west by 76°30′ W. long.
+(7) Restrictions applicable to gillnet fisheries in North Carolina. No person may fish with gillnet fishing gear which has a stretched mesh size larger than 41/4 inches (10.8 cm), annually from September 1 through December 15, in the inshore waters of Pamlico Sound, North Carolina, and all contiguous tidal waters, bounded on the north by 35°46.3′ N. lat., on the south by 35°00′ N. lat., and on the west by 76°30′ W. long.
 
 (8) *Restrictions applicable to large mesh gillnet fisheries in the mid-Atlantic region.* No person may fish with or possess on board a boat, any gillnet with a stretched mesh size 7-inches (17.8 cm) or larger, unless such gillnets are covered with canvas or other similar material and lashed or otherwise securely fastened to the deck or the rail, and all buoys larger than 6-inches (15.2 cm) in diameter, high flyers, and anchors are disconnected. This restriction applies in the Atlantic Exclusive Economic Zone (as defined in 50 CFR 600.10) during the following time periods and in the following area:
 

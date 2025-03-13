@@ -54,4 +54,4 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (c) *Restrictions applicable after a recreational quota closure or recreational component quota closure.* The bag limit for the applicable species for the recreational sector or recreational sector component in or from the Gulf EEZ is zero. When the Federal charter vessel/headboat component is closed or the entire recreational sector is closed, this bag and possession limit applies in the Gulf on board a vessel for which a valid Federal charter vessel/headboat permit for Gulf reef fish has been issued, without regard to where such species were harvested, *i.e.,* in state or Federal waters.
 
-[78 FR 22952, Apr. 17, 2013] Editorial Note:For Federal Register citations affecting § 622.39, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[78 FR 22952, Apr. 17, 2013]Editorial Note:For Federal Register citations affecting § 622.39, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

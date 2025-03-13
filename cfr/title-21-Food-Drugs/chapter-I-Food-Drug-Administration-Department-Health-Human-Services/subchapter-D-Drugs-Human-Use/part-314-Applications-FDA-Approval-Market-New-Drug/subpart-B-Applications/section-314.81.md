@@ -1,6 +1,6 @@
 ##### § 314.81 Other postmarketing reports. #####
 
-Link to an amendment published at 89 FR 105331, Dec. 26, 2024.
+Link to an amendment published at 89 FR 105331, Dec. 26, 2024.Link to a correction of the above amendment published at 90 FR 8173, Jan. 27, 2025.
 
 (a) *Applicability.* Each applicant shall make the reports for each of its approved applications and abbreviated applications required under this section and section 505(k) of the act.
 

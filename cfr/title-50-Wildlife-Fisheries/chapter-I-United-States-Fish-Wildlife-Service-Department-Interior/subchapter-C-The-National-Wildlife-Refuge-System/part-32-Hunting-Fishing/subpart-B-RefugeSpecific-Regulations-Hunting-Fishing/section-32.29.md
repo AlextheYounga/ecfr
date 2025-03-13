@@ -2,7 +2,8 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Banks Lake National Wildlife Refuge.* (1)-(2) [Reserved]
+(a) *Banks Lake National Wildlife Refuge.* (1)-(2)
+[Reserved]
 
 (3) *Big game hunting.* We allow alligator hunting on designated areas of the refuge subject to the following condition: We only allow alligator hunting on dates outlined by the State of Georgia during the first two weekends (from legal sunset Friday through legal sunrise Monday) of the State alligator season.
 

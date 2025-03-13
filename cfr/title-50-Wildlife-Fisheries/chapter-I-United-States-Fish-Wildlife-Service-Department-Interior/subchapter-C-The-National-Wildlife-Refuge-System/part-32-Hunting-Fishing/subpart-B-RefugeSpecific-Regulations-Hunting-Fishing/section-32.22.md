@@ -6,11 +6,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We allow only shotguns and archery equipment for hunting.
 
-(ii) We prohibit hunting within 50 yards (45 meters) of any road or trail open to public use and within 1/4 mile (402 meters) of any building.
+(ii) We prohibit hunting within 50 yards (45 meters) of any road or trail open to public use and within1/4 mile (402 meters) of any building.
 
 (iii) You must remove boats, equipment, temporary blinds, stands, etc., at the end of each day's activities (see § 27.93 of this chapter).
 
-(iv) Hunters may enter the refuge 1/2 hour before legal sunrise and must leave the refuge no later than 1/2 hour after legal sunset.
+(iv) Hunters may enter the refuge1/2 hour before legal sunrise and must leave the refuge no later than1/2 hour after legal sunset.
 
 (2) *Upland game hunting.* We allow hunting of Gambel's quail, Eurasian collared-dove, cottontail rabbit, coyote, gray fox, and kit fox on designated areas of the refuge subject to the following conditions:
 
@@ -22,7 +22,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow hunting of Eurasian collared-dove during the State mourning and white-winged dove season.
 
-(v) We prohibit night hunting from 1/2 hour after legal sunset until 1/2 hour before legal sunrise the following day.
+(v) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
 
 (3) *Big game hunting.* We allow hunting of desert bighorn sheep and javelina on designated areas of the refuge subject to the following conditions:
 
@@ -46,7 +46,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (b)(1)(i) through (iii) of this section apply.
 
-(ii) We prohibit night hunting from 1/2 hour after legal sunset until 1/2 hour before legal sunrise the following day.
+(ii) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
 
 (3) *Big game hunting.* We allow hunting of mule and white-tailed deer, javelina, mountain lion, and feral hog on designated areas of the refuge subject to the following conditions:
 
@@ -72,7 +72,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We do not allow wheeled carts in designated Wilderness.
 
-(iii) We prohibit night hunting from 1/2 hour after legal sunset until 1/2 hour before legal sunrise the following day.
+(iii) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
 
 (3) *Big game hunting.* We allow hunting of desert bighorn sheep, mule deer, and mountain lion on designated areas of the refuge subject to the following conditions:
 
@@ -84,7 +84,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(d) *Cibola National Wildlife Refuge*— (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen (gallinule), common snipe, mourning and white-winged dove, and Eurasian collared-dove on designated areas of the refuge subject to the following conditions:
+(d) *Cibola National Wildlife Refuge*—
+(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen (gallinule), common snipe, mourning and white-winged dove, and Eurasian collared-dove on designated areas of the refuge subject to the following conditions:
 
 (i) We allow only shotgun and archery.
 
@@ -134,7 +135,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (e)(1)(i) through (iv) of this section apply, except that we also allow pneumatic weapons, muzzleloaders, and hand guns for upland game hunting.
 
-(ii) We prohibit night hunting from 1/2 hour after legal sunset until 1/2 hour before legal sunrise the following day.
+(ii) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
 
 (iii) We allow hunting of Gambel's quail, cottontail rabbit, Eurasian collared-dove, African collared-dove, black-tailed jackrabbit, bobcat, coyote, gray fox, and kit fox from September 1-March 15.
 
@@ -200,7 +201,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2) *Upland game hunting.* We allow hunting of Gambel's and scaled quail; cottontail; black-tailed jackrabbit; gray fox; coati; badger; striped, hooded, spotted, and hog-nosed skunk; bobcat; raccoon; ring-tailed cat; and coyote on designated areas of the refuge subject to the following conditions:
 
-(ii) We prohibit night hunting from 1/2 hour after legal sunset until 1/2 hour before legal sunrise the following day.
+(ii) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
 
 (iii) We allow quail hunting during State seasons. For all other upland game species, we only allow hunting when a species season dates overlap with a general or archery State deer or javelina hunt season, except for youth-only seasons.
 

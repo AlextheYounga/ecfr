@@ -994,7 +994,7 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (10) Whittlesey Creek National Wildlife Refuge.
 
-(xx) *Wyoming.* (1) Bamforth National Wildlife Refuge.
+(xx) *Wyoming.*(1) Bamforth National Wildlife Refuge.
 
 (2) Cokeville Meadows National Wildlife Refuge.
 

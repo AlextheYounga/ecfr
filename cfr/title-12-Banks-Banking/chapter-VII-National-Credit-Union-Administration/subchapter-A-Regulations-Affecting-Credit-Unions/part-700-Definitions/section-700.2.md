@@ -62,4 +62,4 @@ As used in this chapter:
 
 *Unimpaired capital and surplus* means the same as “paid-in and unimpaired capital and surplus,” as defined in paragraph (f) of this section.
 
-[36 FR 23794, Dec. 15, 1971. Redesignated and amended at 66 FR 65624, Dec. 20, 2001; 86 FR 59288, Oct. 27, 2021]Editorial Note:For Federal Register citations affecting § 700.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[36 FR 23794, Dec. 15, 1971. Redesignated and amended at 66 FR 65624, Dec. 20, 2001; 86 FR 59288, Oct. 27, 2021] Editorial Note:For Federal Register citations affecting § 700.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

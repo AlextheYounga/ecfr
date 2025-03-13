@@ -6,7 +6,7 @@
 
 (c) In accordance with requirements in part 32 § 32.5999 (f) expenses recorded in the expense accounts are segregated in the accounting process among the following subsidiary record categories as appropriate to each account:
 
-Salaries and WagesBenefitsRentsOther ExpensesClearances
+Salaries and WagesBenefits Rents Other Expenses Clearances
 
 (1) Subsidiary Record Categories (SRCs) for Salaries and Wages, Benefits and Other Expenses are applicable to all of the expense accounts except for:
 

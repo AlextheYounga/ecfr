@@ -14,7 +14,7 @@
 
 (6) A list of available OCC publications;
 
-(7) A list of forms available from the OCC, and specific forms and instructions;1
+(7) A list of forms available from the OCC, and specific forms and instructions; 1
 
 1 Some forms and instructions that national banks and Federal savings associations use are not available from the OCC. The OCC will provide information on where persons may obtain these forms and instructions upon request.
 

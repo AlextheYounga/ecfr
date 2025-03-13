@@ -8,7 +8,7 @@
 
 (1) A disposition of only transmission facilities, including, but not limited to, those that both before and after the transaction remain under the functional control of a Commission-approved regional transmission organization or independent system operator; and
 
-(2) Transactions that do not require an Appendix A analysis; 1 and
+(2) Transactions that do not require an Appendix A analysis;1 and
 
 1*Inquiry Concerning the Commission's Merger Policy Under the Federal Power Act; Policy Statement,* Order No. 592, 61 FR 68,595 (Dec. 30, 1996), FERC Stats. & Regs. ¶ 31,044 (1996), *reconsideration denied,* Order No. 592-A, 62 FR 33,340 (June 19, 1977), 79 FERC ¶ 61,321 (1997) (Merger Policy Statement).
 

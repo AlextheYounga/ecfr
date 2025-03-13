@@ -1737,4 +1737,4 @@ Substituting the value for *GFroundweight* into the following equation:
 
 (x) *PCTC Program.* The owners and operators of catcher vessels and processors authorized as participants in the PCTC Program must comply with the applicable R&R requirements of this section and must assign all catch to a PCTC Program cooperative at the time of catch or receipt of groundfish. Owners of catcher vessels and processors authorized as participants in the PCTC Program must ensure that their designated representatives or employees comply with applicable R&R requirements as described at § 679.134.
 
-[61 FR 31230, June 19, 1996] Editorial Note:For Federal Register citations affecting § 679.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

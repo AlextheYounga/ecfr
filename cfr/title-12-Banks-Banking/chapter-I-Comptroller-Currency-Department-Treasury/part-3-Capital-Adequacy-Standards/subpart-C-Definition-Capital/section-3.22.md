@@ -72,13 +72,13 @@
 
 (B) If the national bank or Federal savings association is not a Category III national bank or Federal savings association, during the first reporting period after the national bank or Federal savings association is required to comply with subpart A of this part as set forth in § 3.1(f).
 
-(iii) With respect to a national bank or Federal savings association that is not an advanced approaches national bank or Federal savings association, each of its subsidiary banking organizations that is subject to regulatory capital requirements issued by the Board of Governors of the Federal Reserve, the Federal Deposit Insurance Corporation, or the Office of the Comptroller of the Currency21 must elect the same option as the national bank or Federal savings association pursuant to this paragraph (b)(2).
+(iii) With respect to a national bank or Federal savings association that is not an advanced approaches national bank or Federal savings association, each of its subsidiary banking organizations that is subject to regulatory capital requirements issued by the Board of Governors of the Federal Reserve, the Federal Deposit Insurance Corporation, or the Office of the Comptroller of the Currency 21 must elect the same option as the national bank or Federal savings association pursuant to this paragraph (b)(2).
 
 21 These rules include the regulatory capital requirements set forth at 12 CFR part 3 (OCC); 12 CFR part 225 (Board); 12 CFR part 325, and 12 CFR part 390 (FDIC).
 
 (iv) With prior notice to the OCC, a national bank or Federal savings association resulting from a merger, acquisition, or purchase transaction and that is not an advanced approaches national bank or Federal savings association may change its AOCI opt-out election in its Call Report filed for the first reporting period after the date required for such national bank or Federal savings association to comply with subpart A of this part as set forth in § 3.1(f) if:
 
-(A) Other than as set forth in paragraph (b)(2)(iv)(C) of this section, the merger, acquisition, or purchase transaction involved the acquisition or purchase of all or substantially all of either the assets or voting stock of another banking organization that is subject to regulatory capital requirements issued by the Board of Governors of the Federal Reserve, the Federal Deposit Insurance Corporation, or the Office of the Comptroller of the Currency;22
+(A) Other than as set forth in paragraph (b)(2)(iv)(C) of this section, the merger, acquisition, or purchase transaction involved the acquisition or purchase of all or substantially all of either the assets or voting stock of another banking organization that is subject to regulatory capital requirements issued by the Board of Governors of the Federal Reserve, the Federal Deposit Insurance Corporation, or the Office of the Comptroller of the Currency; 22
 
 22 These rules include the regulatory capital requirements set forth at 12 CFR part 3 (OCC); 12 CFR part 225 (Board); 12 CFR part 325, and 12 CFR part 390 (FDIC).
 

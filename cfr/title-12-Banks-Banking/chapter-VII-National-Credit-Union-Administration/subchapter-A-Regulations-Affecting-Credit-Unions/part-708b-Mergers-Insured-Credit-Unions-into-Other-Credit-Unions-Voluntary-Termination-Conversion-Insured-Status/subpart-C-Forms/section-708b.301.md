@@ -4,7 +4,7 @@ Unless the Regional Director approves the use of different forms, a state charte
 
 (a) Form letter notifying NCUA of intent to convert:
 
-(insert name), NCUA Regional Director(insert address of NCUA Regional Director)Re: Notice of Intent to Convert to Private Share InsuranceDear Director (insert name):
+(insert name), NCUA Regional Director (insert address of NCUA Regional Director) Re: Notice of Intent to Convert to Private Share InsuranceDear Director (insert name):
 
 In accordance with federal law at title 12, United States Code Section 1785(b)(1)(D), I request the National Credit Union Administration approve the conversion of (insert name of credit union) from federal share insurance to private primary share insurance with (insert name of private insurance company).
 
@@ -22,13 +22,13 @@ I am aware of the requirements of 12 U.S.C. 1831t(b), including all notification
 
 The point of contact for conversion matters is (insert name and title of credit union employee), who can be reached at (insert telephone number).
 
-Sincerely,
+ Sincerely,
 
 (signature)Chief Executive Officer.Enclosures
 
 (b) Form notice to members of intent to convert and special meeting of members:
 
-Notice of Proposal to Convert to Non-federally insured Status and Special Meeting of Members(Insert Name of Converting Credit Union)
+Notice of Proposal to Convert to Non-federally insured Status and Special Meeting of Members (Insert Name of Converting Credit Union)
 
 On (insert date), the board of directors of your credit union approved a proposition to convert from federal share (deposit) insurance to private insurance. You are encouraged to attend a special meeting of our credit union at (insert address) on (insert time and date) to address this proposition.
 
@@ -65,7 +65,7 @@ By order of the board of directors.
 
 (c) Form ballot:
 
-Ballot for Conversion to Non-federally insured Status(Insert Name of Converting Credit Union)Name of Member: (insert name)Account Number: (insert account number)
+Ballot for Conversion to Non-federally insured Status (Insert Name of Converting Credit Union) Name of Member: (insert name) Account Number: (insert account number)
 
 The credit union must receive this ballot by (insert date and time for vote). Please mail or bring it to: (Insert name of independent entity and address).
 
@@ -85,7 +85,7 @@ I vote on the proposal as follows (check one box):
 
 Signed:
 
-(Insert printed member's name)
+ (Insert printed member's name)
 
 Date:
 
@@ -123,7 +123,7 @@ The action of the members at the special meeting was recorded in the minutes.
 
 This certification signed the (insert date).
 
-(signature of Board Presiding Officer)(insert typed name and title)(signature of Board Secretary)(insert typed name and title)
+(signature of Board Presiding Officer) (insert typed name and title) (signature of Board Secretary)(insert typed name and title)
 
 I (insert name), an officer of the (insert name of independent entity that conducted the vote), hereby certify that the information recorded in paragraph 5 above is accurate.
 

@@ -6,7 +6,7 @@
 
 (2) To make payment on account of any evidence of indebtedness undertaken by the account party; or
 
-(3) To make payment on account of any default by the party procuring the issuance of the letter of credit in the performance of an obligation.6
+(3) To make payment on account of any default by the party procuring the issuance of the letter of credit in the performance of an obligation. 6
 
 6 A standby letter of credit does not include: (1) Commercial letters of credit and similar instruments, where the issuing bank expects the beneficiary to draw upon the issuer, and which do not guaranty payment of a money obligation; or (2) a guaranty or similar obligation issued by a foreign branch in accordance with and subject to the limitations of 12 CFR part 211 (Regulation K).
 

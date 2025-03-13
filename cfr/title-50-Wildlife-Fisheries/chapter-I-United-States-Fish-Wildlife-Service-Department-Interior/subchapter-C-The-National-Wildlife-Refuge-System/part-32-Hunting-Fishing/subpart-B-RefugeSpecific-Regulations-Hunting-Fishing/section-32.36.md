@@ -74,7 +74,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (x) We prohibit the killing or wounding of a game animal and then intentionally or knowingly failing to make a reasonable effort to retrieve and include it in the hunter's bag limit.
 
-(xi) We allow duck, goose, coot, wood duck, teal, and merganser hunting from 1/2 hour before legal sunrise until 12 p.m. (noon). We allow dove hunting according to State shooting hours.
+(xi) We allow duck, goose, coot, wood duck, teal, and merganser hunting from1/2 hour before legal sunrise until 12 p.m. (noon). We allow dove hunting according to State shooting hours.
 
 (xii) We allow the use of dogs for migratory game bird hunting. Dog owners and handlers must have a collar on each dog with the owner's contact information (FWS Form 3-2439).
 

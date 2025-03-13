@@ -58,7 +58,7 @@
 
 (ii) The exceptions in paragraphs (d)(3)(i)(A) through (d)(3)(i)(C) of this section apply only to the amounts of such extensions of credit that are secured in the manner described therein.
 
-(e) *Overdrafts.* (1) No member bank may pay an overdraft of an executive officer or director of the bank or executive officer or director of its affiliates3 on an account at the bank, unless the payment of funds is made in accordance with:
+(e) *Overdrafts.* (1) No member bank may pay an overdraft of an executive officer or director of the bank or executive officer or director of its affiliates 3 on an account at the bank, unless the payment of funds is made in accordance with:
 
 3 This prohibition does not apply to the payment by a member bank of an overdraft of a principal shareholder of the member bank, unless the principal shareholder is also an executive officer or director. This prohibition also does not apply to the payment by a member bank of an overdraft of a related interest of an executive officer, director, or principal shareholder of the member bank or executive officer, director, or principal shareholder of its affiliates.
 

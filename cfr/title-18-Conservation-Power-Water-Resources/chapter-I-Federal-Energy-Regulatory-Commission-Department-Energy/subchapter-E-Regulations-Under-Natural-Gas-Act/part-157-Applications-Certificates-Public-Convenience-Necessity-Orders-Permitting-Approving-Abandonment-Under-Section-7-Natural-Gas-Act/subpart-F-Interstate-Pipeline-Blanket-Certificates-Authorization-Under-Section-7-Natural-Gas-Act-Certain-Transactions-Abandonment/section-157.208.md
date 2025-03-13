@@ -107,4 +107,4 @@
 
 (g) If the actual cost of the project exceeds the per-project cost authorized under a blanket certificate in table 1 to paragraph (d) of this section, the certificate holder shall apply to the Director of the Office of Energy Projects for a waiver of those project cost limits.
 
-[Order 234, 47 FR 24266, June 4, 1982] Editorial Note:For Federal Register citations affecting § 157.208, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Order 234, 47 FR 24266, June 4, 1982]Editorial Note:For Federal Register citations affecting § 157.208, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

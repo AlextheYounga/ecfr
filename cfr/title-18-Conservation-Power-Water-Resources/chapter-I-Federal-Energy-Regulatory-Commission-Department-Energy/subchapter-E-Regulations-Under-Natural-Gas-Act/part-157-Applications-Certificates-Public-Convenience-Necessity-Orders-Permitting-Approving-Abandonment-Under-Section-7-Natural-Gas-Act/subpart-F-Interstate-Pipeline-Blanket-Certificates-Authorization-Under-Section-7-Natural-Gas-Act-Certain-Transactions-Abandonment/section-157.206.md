@@ -70,4 +70,4 @@ Any activity authorized under a blanket certificate issued under this subpart is
 
 (d) *Reports.* The certificate holder shall file reports as required by this subpart.
 
-[Order 234, 47 FR 24266, June 4, 1982] Editorial Note:For Federal Register citations affecting § 157.206, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Order 234, 47 FR 24266, June 4, 1982]Editorial Note:For Federal Register citations affecting § 157.206, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

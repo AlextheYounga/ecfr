@@ -42,7 +42,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) After harvesting a deer, firearm deer hunters must wear blaze orange on the refuge.
 
-(iv) We allow access by foot travel only. You may use a vehicle on designated refuge roads and trails to retrieve deer during the following times only: 9:30 to 10 a.m.; 1:30 to 2 p.m.; and 1/2 hour after legal sunset for 1 hour.
+(iv) We allow access by foot travel only. You may use a vehicle on designated refuge roads and trails to retrieve deer during the following times only: 9:30 to 10 a.m.; 1:30 to 2 p.m.; and1/2 hour after legal sunset for 1 hour.
 
 (v) We allow temporary tree stands, blinds, and game cameras for daily use; you must remove them by the end of each day's hunt (see § 27.93 of this chapter).
 

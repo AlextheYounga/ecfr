@@ -130,4 +130,4 @@
 
 (32) *PURPA benefits* means benefits under section 210 of the Public Utility Regulatory Policies Act of 1978 (PURPA). Section 210(a) of PURPA requires electric utilities to purchase electricity from, and to sell electricity to, qualifying facilities.
 
-[Order 413, 50 FR 11676, Mar. 25, 1985] Editorial Note:For Federal Register citations affecting § 4.30, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Order 413, 50 FR 11676, Mar. 25, 1985]Editorial Note:For Federal Register citations affecting § 4.30, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

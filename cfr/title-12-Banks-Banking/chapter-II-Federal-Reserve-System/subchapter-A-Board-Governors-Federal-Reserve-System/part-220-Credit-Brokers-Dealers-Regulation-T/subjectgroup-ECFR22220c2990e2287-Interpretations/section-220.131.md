@@ -1,6 +1,6 @@
 ##### § 220.131 Application of the arranging section to broker-dealer activities under SEC Rule 144A. #####
 
-(a) The Board has been asked whether the purchase by a broker-dealer of debt securities for resale in reliance on Rule 144A of the Securities and Exchange Commission (17 CFR 230.144A)1 may be considered an arranging of credit permitted as an “investment banking service” under § 220.13(a) of Regulation T.
+(a) The Board has been asked whether the purchase by a broker-dealer of debt securities for resale in reliance on Rule 144A of the Securities and Exchange Commission (17 CFR 230.144A) 1 may be considered an arranging of credit permitted as an “investment banking service” under § 220.13(a) of Regulation T.
 
 1 Rule 144A, 17 CFR 230.144A, was originally published in the Federal Register at 55 FR 17933, April 30, 1990.
 

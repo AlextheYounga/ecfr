@@ -36,4 +36,4 @@
 
 (ii) For years subsequent to 1979, the data required by this paragraph must be filed only to the extent that there has been a change in essential agricultural requirements.
 
-(Natural Gas Policy Act of 1978, 15 U.S.C. 3301-3432; Department of Energy Organization Act, 42 U.S.C. 7101-7352; E.O. 12009, 42 FR 46267; Administrative Procedure Act, 5 U.S.C. 551 *et seq.*) [44 FR 26862, May 8, 1979, as amended at 44 FR 45923, Aug. 6, 1979; 44 FR 62490, Oct. 31, 1979; Order 55-B, 45 FR 54740, July 18, 1980; Order 145, 46 FR 27913, May 22, 1981]
+(Natural Gas Policy Act of 1978, 15 U.S.C. 3301-3432; Department of Energy Organization Act, 42 U.S.C. 7101-7352; E.O. 12009, 42 FR 46267; Administrative Procedure Act, 5 U.S.C. 551 *et seq.*)[44 FR 26862, May 8, 1979, as amended at 44 FR 45923, Aug. 6, 1979; 44 FR 62490, Oct. 31, 1979; Order 55-B, 45 FR 54740, July 18, 1980; Order 145, 46 FR 27913, May 22, 1981]

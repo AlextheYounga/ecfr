@@ -10,7 +10,7 @@
 
 (ii) The bank:
 
-(A) Has a CAMELS composite rating of 1 or 2 under the Uniform Interagency Bank Rating System5 (or an equivalent rating under a comparable rating system) as of the most recent examination of the bank; and
+(A) Has a CAMELS composite rating of 1 or 2 under the Uniform Interagency Bank Rating System 5 (or an equivalent rating under a comparable rating system) as of the most recent examination of the bank; and
 
 5*See* FRRS 3-1575 for an explanation of the Uniform Interagency Bank Rating System. (For availability, see 12 CFR 261.10(f).)
 

@@ -124,7 +124,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-(i) Anglers may access the refuge to fish from designated shore areas 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
+(i) Anglers may access the refuge to fish from designated shore areas1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
 (ii) Anglers may access State waters via the Wise Point Boat Ramp on the refuge from 5 a.m. to 10 p.m.
 

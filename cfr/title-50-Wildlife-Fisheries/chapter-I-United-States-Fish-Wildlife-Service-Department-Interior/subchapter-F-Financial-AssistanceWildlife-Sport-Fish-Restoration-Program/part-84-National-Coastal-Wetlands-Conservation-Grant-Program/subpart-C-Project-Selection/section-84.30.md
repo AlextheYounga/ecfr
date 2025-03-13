@@ -14,7 +14,7 @@ Project selection is a three-step process: proposal acceptance, proposal ranking
 
 (iv) Provides public conservation benefits that are cost effective and long-term, *i.e.*, at least 20 years; and
 
-(v) Identifies obtainable, quantified performance measures (acres enhanced, restored, or protected) that help achieve the management goals and objectives of the National Coastal Wetlands Conservation Grant Program. Through this program, the States' efforts and leadership will help the Service meet its Long-Term and Annual Performance Goals as expressed in the Service's Annual Performance Plan. 1
+(v) Identifies obtainable, quantified performance measures (acres enhanced, restored, or protected) that help achieve the management goals and objectives of the National Coastal Wetlands Conservation Grant Program. Through this program, the States' efforts and leadership will help the Service meet its Long-Term and Annual Performance Goals as expressed in the Service's Annual Performance Plan.1
 
 1 The Service's Annual Performance Plan can be found on the Service's homepage at *http://www./.fws.gov/r9gpra.* For more information you might also contact the Budget Office at 202-208-4596 or the Planning and Evaluation Staff at 202-208-2549.
 

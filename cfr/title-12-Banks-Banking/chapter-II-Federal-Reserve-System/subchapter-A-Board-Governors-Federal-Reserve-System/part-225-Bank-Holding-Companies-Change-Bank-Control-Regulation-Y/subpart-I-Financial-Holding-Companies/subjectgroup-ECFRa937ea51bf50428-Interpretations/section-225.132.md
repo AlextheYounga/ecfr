@@ -2,7 +2,7 @@
 
 (a) From time to time questions have arisen as to whether and under what circumstances a bank holding company engaged in nonbank activities, directly or indirectly through a subsidiary, pursuant to section 4(c)(8) of the Bank Holding Company Act of 1956, as amended (12 U.S.C. 1843(c)(3)), may acquire the assets and employees of another company, without first obtaining Board approval pursuant to section 4(c) (8) and the Board's Regulation Y (12 CFR 225.4(b)).
 
-(b) In determining whether Board approval is required in connection with the acquisition of assets, it is necessary to determine (a) whether the acquisition is made in the ordinary course of business1 or (b) whether it constitutes the acquisition, in whole or in part, of a going concern.2
+(b) In determining whether Board approval is required in connection with the acquisition of assets, it is necessary to determine (a) whether the acquisition is made in the ordinary course of business 1 or (b) whether it constitutes the acquisition, in whole or in part, of a going concern. 2
 
 1 Section 225.4(c)(3) of the Board's Regulation Y (12 CFR 225.4(c)(3)) generally prohibits a bank holding company or its subsidiary engaged in activities pursuant to authority of section 4(c)(8) of the Act from being a party to any merger “or acquisition of assets other than in the ordinary course of business” without prior Board approval.
 

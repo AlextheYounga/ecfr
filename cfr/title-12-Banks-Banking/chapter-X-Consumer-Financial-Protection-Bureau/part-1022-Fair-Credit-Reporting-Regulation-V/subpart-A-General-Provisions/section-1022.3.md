@@ -1,6 +1,6 @@
 ##### § 1022.3 Definitions. #####
 
-Link to an amendment published at 90 FR 3372, Jan. 14, 2025.
+Link to an amendment published at 90 FR 3372, Jan. 14, 2025.Link to a correction published at 90 FR 8173, Jan. 27, 2025.
 
 For purposes of this part, unless explicitly stated otherwise:
 

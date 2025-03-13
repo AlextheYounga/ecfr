@@ -12,7 +12,7 @@
 
 (ii) Covered by participation agreements from other banks, as described in 12 CFR 250.165.
 
-(b) *Loans and extensions of credit to one person*—(1) *Loans and extensions of credit defined. Loans and extensions of credit* has the meaning set forth in § 211.2(q) of this part8 and, for purposes of this paragraph (b), also include:
+(b) *Loans and extensions of credit to one person*—(1) *Loans and extensions of credit defined. Loans and extensions of credit* has the meaning set forth in § 211.2(q) of this part 8 and, for purposes of this paragraph (b), also include:
 
 8 In the case of a foreign government, these includes loans and extensions of credit to the foreign government's departments or agencies deriving their current funds principally from general tax revenues. In the case of a partnership or firm, these include loans and extensions of credit to its members and, in the case of a corporation, these include loans and extensions of credit to the corporation's affiliates, where the affiliate incurs the liability for the benefit of the corporation.
 

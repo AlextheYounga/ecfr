@@ -32,7 +32,7 @@ As used in this subpart, unless the context otherwise requires:
 
 (i) An instrument or a promise or order to pay money, whether negotiable or not, that is—
 
-(A) Payable in a Federal Reserve District1 (District);
+(A) Payable in a Federal Reserve District 1 (District);
 
 1 For purposes of this subpart, the Virgin Islands and Puerto Rico are deemed to be in the Second District, and Guam, American Samoa, and the Northern Mariana Islands in the Twelfth District.
 

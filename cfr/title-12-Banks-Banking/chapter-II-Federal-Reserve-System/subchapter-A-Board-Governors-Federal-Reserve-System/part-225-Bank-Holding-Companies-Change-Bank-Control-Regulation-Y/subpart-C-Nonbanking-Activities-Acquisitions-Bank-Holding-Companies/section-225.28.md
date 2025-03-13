@@ -16,13 +16,13 @@
 
 (v) *Credit bureau services.* Maintaining information related to the credit history of consumers and providing the information to a credit grantor who is considering a borrower's application for credit or who has extended credit to the borrower.
 
-(vi) *Asset management, servicing, and collection activities.* Engaging under contract with a third party in asset management, servicing, and collection3 of assets of a type that an insured depository institution may originate and own, if the company does not engage in real property management or real estate brokerage services as part of these services.
+(vi) *Asset management, servicing, and collection activities.* Engaging under contract with a third party in asset management, servicing, and collection 3 of assets of a type that an insured depository institution may originate and own, if the company does not engage in real property management or real estate brokerage services as part of these services.
 
 3 Asset management services include acting as agent in the liquidation or sale of loans and collateral for loans, including real estate and other assets acquired through foreclosure or in satisfaction of debts previously contracted.
 
 (vii) *Acquiring debt in default.* Acquiring debt that is in default at the time of acquisition, if the company:
 
-(A) Divests shares or assets securing debt in default that are not permissible investments for bank holding companies, within the time period required for divestiture of property acquired in satisfaction of a debt previously contracted under § 225.12(b);4
+(A) Divests shares or assets securing debt in default that are not permissible investments for bank holding companies, within the time period required for divestiture of property acquired in satisfaction of a debt previously contracted under § 225.12(b); 4
 
 4 For this purpose, the divestiture period for property begins on the date that the debt is acquired, regardless of when legal title to the property is acquired.
 
@@ -30,13 +30,13 @@
 
 (C) Does not acquire debt in default secured by shares of a bank or bank holding company.
 
-(viii) *Real estate settlement servicing.* Providing real estate settlement services.5
+(viii) *Real estate settlement servicing.* Providing real estate settlement services. 5
 
 5 For purposes of this section, real estate settlement services do not include providing title insurance as principal, agent, or broker.
 
 (3) *Leasing personal or real property.* Leasing personal or real property or acting as agent, broker, or adviser in leasing such property if:
 
-(i) The lease is on a nonoperating basis;6
+(i) The lease is on a nonoperating basis; 6
 
 6 The requirement that the lease be on a nonoperating basis means that the bank holding company may not, directly or indirectly, engage in operating, servicing, maintaining, or repairing leased property during the lease term. For purposes of the leasing of automobiles, the requirement that the lease be on a nonoperating basis means that the bank holding company may not, directly or indirectly: (1) Provide servicing, repair, or maintenance of the leased vehicle during the lease term; (2) purchase parts and accessories in bulk or for an individual vehicle after the lessee has taken delivery of the vehicle; (3) provide the loan of an automobile during servicing of the leased vehicle; (4) purchase insurance for the lessee; or (5) provide for the renewal of the vehicle's license merely as a service to the lessee where the lessee could renew the license without authorization from the lessor. The bank holding company may arrange for a third party to provide these services or products.
 
@@ -74,11 +74,11 @@
 
 (ii) *Riskless principal transactions.* Buying and selling in the secondary market all types of securities on the order of customers as a “riskless principal” to the extent of engaging in a transaction in which the company, after receiving an order to buy (or sell) a security from a customer, purchases (or sells) the security for its own account to offset a contemporaneous sale to (or purchase from) the customer. This does not include:
 
-(A) Selling bank-ineligible securities8 at the order of a customer that is the issuer of the securities, or selling bank-ineligible securities in any transaction where the company has a contractual agreement to place the securities as agent of the issuer; or
+(A) Selling bank-ineligible securities 8 at the order of a customer that is the issuer of the securities, or selling bank-ineligible securities in any transaction where the company has a contractual agreement to place the securities as agent of the issuer; or
 
 8 A bank-ineligible security is any security that a State member bank is not permitted to underwrite or deal in under 12 U.S.C. 24 and 335.
 
-(B) Acting as a riskless principal in any transaction involving a bank-ineligible security for which the company or any of its affiliates acts as underwriter (during the period of the underwriting or for 30 days thereafter) or dealer.9
+(B) Acting as a riskless principal in any transaction involving a bank-ineligible security for which the company or any of its affiliates acts as underwriter (during the period of the underwriting or for 30 days thereafter) or dealer. 9
 
 9 A company or its affiliates may not enter quotes for specific bank-ineligible securities in any dealer quotation system in connection with the company's riskless principal transactions; except that the company or its affiliates may enter “bid” or “ask” quotations, or publish “offering wanted” or “bid wanted” notices on trading systems other than NASDAQ or an exchange, if the company or its affiliate does not enter price quotations on different sides of the market for a particular security during any two-day period.
 
@@ -98,7 +98,7 @@
 
 (A) Foreign exchange;
 
-(B) Forward contracts, options, futures, options on futures, swaps, and similar contracts, whether traded on exchanges or not, based on any rate, price, financial asset (including gold, silver, platinum, palladium, copper, or any other metal approved by the Board), nonfinancial asset, or group of assets, other than a bank-ineligible security,10 if:
+(B) Forward contracts, options, futures, options on futures, swaps, and similar contracts, whether traded on exchanges or not, based on any rate, price, financial asset (including gold, silver, platinum, palladium, copper, or any other metal approved by the Board), nonfinancial asset, or group of assets, other than a bank-ineligible security, 10 if:
 
 10 A bank-ineligible security is any security that a state member bank is not permitted to underwrite or deal in under 12 U.S.C. 24 and 335.
 
@@ -118,13 +118,13 @@
 
 (*ii*) Receives and instantaneously transfers title to the underlying asset, by operation of contract and without taking or making physical delivery of the asset.
 
-(C) Forward contracts, options,11 futures, options on futures, swaps, and similar contracts, whether traded on exchanges or not, based on an index of a rate, a price, or the value of any financial asset, nonfinancial asset, or group of assets, if the contract requires cash settlement.
+(C) Forward contracts, options, 11 futures, options on futures, swaps, and similar contracts, whether traded on exchanges or not, based on an index of a rate, a price, or the value of any financial asset, nonfinancial asset, or group of assets, if the contract requires cash settlement.
 
 11 This reference does not include acting as a dealer in options based on indices of bank-ineligible securities when the options are traded on securities exchanges. These options are securities for purposes of the federal securities laws and bank-ineligible securities for purposes of section 20 of the Glass-Steagall Act, 12 U.S.C. 337. Similarly, this reference does not include acting as a dealer in any other instrument that is a bank-ineligible security for purposes of section 20. A bank holding company may deal in these instruments in accordance with the Board's orders on dealing in bank-ineligible securities.
 
 (iii) *Buying and selling bullion, and related activities.* Buying, selling and storing bars, rounds, bullion, and coins of gold, silver, platinum, palladium, copper, and any other metal approved by the Board, for the company's own account and the account of others, and providing incidental services such as arranging for storage, safe custody, assaying, and shipment.
 
-(9) *Management consulting and counseling activities*—(i) *Management consulting.* (A) Providing management consulting advice:12
+(9) *Management consulting and counseling activities*—(i) *Management consulting.* (A) Providing management consulting advice: 12
 
 12 In performing this activity, bank holding companies are not authorized to perform tasks or operations or provide services to client institutions either on a daily or continuing basis, except as necessary to instruct the client institution on how to perform such services for itself. See also the Board's interpretation of bank management consulting advice (12 CFR 225.131).
 
@@ -144,7 +144,7 @@
 
 (iii) *Career counseling services.* Providing career counseling services to:
 
-(A) A financial organization13 and individuals currently employed by, or recently displaced from, a financial organization;
+(A) A financial organization 13 and individuals currently employed by, or recently displaced from, a financial organization;
 
 13*Financial organization* refers to insured depository institution holding companies and their subsidiaries, other than nonbanking affiliates of diversified savings and loan holding companies that engage in activities not permissible under section 4(c)(8) of the Bank Holding Company Act (12 U.S.C. 1842(c)(8)).
 
@@ -156,7 +156,7 @@
 
 (A) Checks, commercial papers, documents, and written instruments (excluding currency or bearer-type negotiable instruments) that are exchanged among banks and financial institutions; and
 
-(B) Audit and accounting media of a banking or financial nature and other business records and documents used in processing such media.14
+(B) Audit and accounting media of a banking or financial nature and other business records and documents used in processing such media. 14
 
 14 See also the Board's interpretation on courier activities (12 CFR 225.129), which sets forth conditions for bank holding company entry into the activity.
 
@@ -166,17 +166,17 @@
 
 (A) Directly related to an extension of credit by the bank holding company or any of its subsidiaries; and
 
-(B) Limited to ensuring the repayment of the outstanding balance due on the extension of credit15 in the event of the death, disability, or involuntary unemployment of the debtor.
+(B) Limited to ensuring the repayment of the outstanding balance due on the extension of credit 15 in the event of the death, disability, or involuntary unemployment of the debtor.
 
 15*Extension of credit* includes direct loans to borrowers, loans purchased from other lenders, and leases of real or personal property so long as the leases are nonoperating and full-payout leases that meet the requirements of paragraph (b)(3) of this section.
 
-(ii) *Finance company subsidiary.* Acting as agent or broker for insurance directly related to an extension of credit by a finance company16 that is a subsidiary of a bank holding company, if:
+(ii) *Finance company subsidiary.* Acting as agent or broker for insurance directly related to an extension of credit by a finance company 16 that is a subsidiary of a bank holding company, if:
 
 16*Finance company* includes all non-deposit-taking financial institutions that engage in a significant degree of consumer lending (excluding lending secured by first mortgages) and all financial institutions specifically defined by individual states as finance companies and that engage in a significant degree of consumer lending.
 
 (A) The insurance is limited to ensuring repayment of the outstanding balance on such extension of credit in the event of loss or damage to any property used as collateral for the extension of credit; and
 
-(B) The extension of credit is not more than $10,000, or $25,000 if it is to finance the purchase of a residential manufactured home17 and the credit is secured by the home; and
+(B) The extension of credit is not more than $10,000, or $25,000 if it is to finance the purchase of a residential manufactured home 17 and the credit is secured by the home; and
 
 17 These limitations increase at the end of each calendar year, beginning with 1982, by the percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers published by the Bureau of Labor Statistics.
 
@@ -194,7 +194,7 @@
 
 (B) Has inadequate insurance agency facilities, as determined by the Board, after notice and opportunity for hearing.
 
-(iv) *Insurance-agency activities conducted on May 1, 1982.* Engaging in any specific insurance-agency activity18 if the bank holding company, or subsidiary conducting the specific activity, conducted such activity on May 1, 1982, or received Board approval to conduct such activity on or before May 1, 1982.19 A bank holding company or subsidiary engaging in a specific insurance agency activity under this clause may:
+(iv) *Insurance-agency activities conducted on May 1, 1982.* Engaging in any specific insurance-agency activity 18 if the bank holding company, or subsidiary conducting the specific activity, conducted such activity on May 1, 1982, or received Board approval to conduct such activity on or before May 1, 1982. 19 A bank holding company or subsidiary engaging in a specific insurance agency activity under this clause may:
 
 18 Nothing contained in this provision shall preclude a bank holding company subsidiary that is authorized to engage in a specific insurance-agency activity under this clause from continuing to engage in the particular activity after merger with an affiliate, if the merger is for legitimate business purposes and prior notice has been provided to the Board.
 

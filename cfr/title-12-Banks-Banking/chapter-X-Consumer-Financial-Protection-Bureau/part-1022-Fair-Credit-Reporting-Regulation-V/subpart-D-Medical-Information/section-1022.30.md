@@ -1,6 +1,6 @@
 ##### § 1022.30 Obtaining or using medical information in connection with a determination of eligibility for credit. #####
 
-Link to an amendment published at 90 FR 3372, Jan. 14, 2025.
+Link to an amendment published at 90 FR 3372, Jan. 14, 2025.Link to a correction published at 90 FR 8173, Jan. 27, 2025.
 
 (a) *Scope.* This section applies to any person that participates as a creditor in a transaction, except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 137.
 

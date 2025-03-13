@@ -28,7 +28,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The condition set forth at paragraph (b)(1)(iii) of this section applies.
 
-(ii) We allow hunters to access the refuge 1/2 hour before legal shooting time.
+(ii) We allow hunters to access the refuge1/2 hour before legal shooting time.
 
 (iii) Hunters must wear a minimum of 36 square inches (232.3 square centimeters) of blaze orange, and a blaze orange head covering.
 
@@ -66,7 +66,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) From October 1 through April 14, we allow ice fishing on the Lake Lowell Unit, unless otherwise posted by the Bureau of Reclamation.
 
-(ii) We allow fishing from nonmotorized boats in designated areas of the Lake Lowell Unit from October 1 through April 14, from 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
+(ii) We allow fishing from nonmotorized boats in designated areas of the Lake Lowell Unit from October 1 through April 14, from1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
 (iii) From February 1 through June 30, we prohibit fishing from all islands in the Snake River Islands Unit.
 
@@ -78,7 +78,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2)-(4) [Reserved]
 
-(e) *Kootenai National Wildlife Refuge*— (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on designated areas of the refuge subject to the following conditions:
+(e) *Kootenai National Wildlife Refuge*—
+(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunting only on Tuesdays, Thursdays, Saturdays, and Sundays.
 
@@ -110,7 +111,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit launching boats from, and landing boats on, the banks of Deep Creek.
 
-(f) *Minidoka National Wildlife Refuge*—(1) (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, snipe, dove, and crow on designated areas of the refuge subject to the following conditions:
+(f) *Minidoka National Wildlife Refuge*—(1)
+(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, snipe, dove, and crow on designated areas of the refuge subject to the following conditions:
 
 (i) We allow only hunters and dogs to retrieve game in designated hunting areas.
 

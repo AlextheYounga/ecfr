@@ -60,7 +60,7 @@
 
 (A) The merger of holding companies that are subsidiaries of the savings and loan holding company;
 
-(B) The formation of a subsidiary holding company;1
+(B) The formation of a subsidiary holding company; 1
 
 1 In the case of a transaction that results in the formation or designation of a new savings and loan holding company, the new savings and loan holding company must complete the registration requirements described in section 238.11.
 

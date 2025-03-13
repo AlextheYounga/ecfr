@@ -4,4 +4,4 @@
 
 (b) Notwithstanding any determinations made under paragraph (a) of this section, Commission action shall be deemed final, for purposes of seeking reconsideration at the Commission or judicial review, on the date of public notice as defined in § 1.4(b) of these rules.
 
-(Secs. 4, 303, 307, 48 Stat., as amended, 1066, 1082, 1083; 47 U.S.C. 154, 303, 307)[46 FR 18556, Mar. 25, 1981]
+(Secs. 4, 303, 307, 48 Stat., as amended, 1066, 1082, 1083; 47 U.S.C. 154, 303, 307) [46 FR 18556, Mar. 25, 1981]

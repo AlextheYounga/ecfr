@@ -44,4 +44,4 @@ Regulations in this part were developed by the Council under the Magnuson-Steven
 
 (l) *Fishery Management Plan for Fish Resources of the Arctic Management Area.* Regulations in this part govern commercial fishing for Arctic fish in the Arctic Management Area by vessels of the United States (see this subpart and subpart B of this part).
 
-[61 FR 31230, June 19, 1996] Editorial Note:For Federal Register citations affecting § 679.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

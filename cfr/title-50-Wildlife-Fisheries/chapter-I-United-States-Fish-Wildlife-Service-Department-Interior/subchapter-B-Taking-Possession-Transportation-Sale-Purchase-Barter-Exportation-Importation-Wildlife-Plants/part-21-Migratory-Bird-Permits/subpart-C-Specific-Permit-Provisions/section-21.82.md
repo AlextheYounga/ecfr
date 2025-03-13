@@ -58,7 +58,8 @@
 
 (9) *Standards in effect in your place of residence.* If you live in any State except Hawaii, you may practice falconry as permitted in these regulations if you have a falconry permit from your State, tribe, or territory.
 
-(c) *Practicing falconry*— (1) *Permits and inspections to practice falconry.* You must have a valid falconry permit from the State, tribe, or territory in which you reside (or the tribe on whose land you wish to practice falconry if you reside on tribal land or are a tribal member), to take, possess, or transport raptors for falconry, or to hunt with them. Depending on the game you hunt as a falconer and where you hunt, you also may need a Federal Migratory Bird Hunting and Conservation Stamp (a “Duck Stamp”), and State, tribal, or territorial hunting permits or stamps to hunt with a raptor.
+(c) *Practicing falconry*—
+(1) *Permits and inspections to practice falconry.* You must have a valid falconry permit from the State, tribe, or territory in which you reside (or the tribe on whose land you wish to practice falconry if you reside on tribal land or are a tribal member), to take, possess, or transport raptors for falconry, or to hunt with them. Depending on the game you hunt as a falconer and where you hunt, you also may need a Federal Migratory Bird Hunting and Conservation Stamp (a “Duck Stamp”), and State, tribal, or territorial hunting permits or stamps to hunt with a raptor.
 
 (i) Some State, tribal, territorial, or local governments may require you to have additional permits or licenses to practice falconry or to take a raptor from the wild.
 

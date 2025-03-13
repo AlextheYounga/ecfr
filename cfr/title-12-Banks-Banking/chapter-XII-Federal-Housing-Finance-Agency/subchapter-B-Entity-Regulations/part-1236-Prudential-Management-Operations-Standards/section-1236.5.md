@@ -16,8 +16,7 @@
 
 (b) *Extraordinary growth.* If a regulated entity that has failed to submit an acceptable corrective plan or has failed in any material respect to implement or otherwise comply with an approved corrective plan, also has experienced extraordinary growth, FHFA shall impose at least one of the sanctions listed in paragraph (a) of this section, consistently with the requirements of 12 U.S.C. 4513b(b)(3).
 
-(c) *Orders*—
-(1) *Notice.* Except as provided in paragraph (c)(4) of this section, FHFA will notify a regulated entity or the Office of Finance in writing of FHFA's intent to issue an order requiring the regulated entity or the Office of Finance to correct its failure to submit a corrective plan or its failure in any material respect to implement or otherwise comply with an approved corrective plan. Any such notice will include:
+(c) *Orders*— (1) *Notice.* Except as provided in paragraph (c)(4) of this section, FHFA will notify a regulated entity or the Office of Finance in writing of FHFA's intent to issue an order requiring the regulated entity or the Office of Finance to correct its failure to submit a corrective plan or its failure in any material respect to implement or otherwise comply with an approved corrective plan. Any such notice will include:
 
 (i) A statement that the regulated entity or the Office of Finance has failed to submit a corrective plan under § 1236.4, or has not implemented or otherwise has not complied in any material respect with an approved plan;
 

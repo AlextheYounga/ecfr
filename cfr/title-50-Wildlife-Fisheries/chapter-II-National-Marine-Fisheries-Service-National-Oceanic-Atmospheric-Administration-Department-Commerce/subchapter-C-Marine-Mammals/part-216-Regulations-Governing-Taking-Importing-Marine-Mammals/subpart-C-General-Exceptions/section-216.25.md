@@ -2,7 +2,7 @@
 
 (a) The provisions of the MMPA and these regulations shall not apply:
 
-(1) To any marine mammal taken before December 21, 1972 1, or
+(1) To any marine mammal taken before December 21, 19721, or
 
 1 In the context of captive maintenance of marine mammals, the only marine mammals exempted under this section are those that were actually captured or otherwise in captivity before December 21, 1972.
 
