@@ -1,5 +1,7 @@
 ##### § 356.2 Definitions. #####
 
+Link to an amendment published at 89 FR 6015, Jan. 31, 2024.
+
 For purposes of this part:
 
 (a) *Act* means the Tariff Act of 1930, as amended;

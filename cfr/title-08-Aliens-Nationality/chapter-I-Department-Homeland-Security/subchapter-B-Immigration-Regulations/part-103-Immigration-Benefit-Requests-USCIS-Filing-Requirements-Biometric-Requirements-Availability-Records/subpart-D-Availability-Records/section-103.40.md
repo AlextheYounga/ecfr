@@ -1,5 +1,7 @@
 ##### § 103.40 Genealogical research requests. #####
 
+Link to an amendment published at 89 FR 6385, Jan. 31, 2024.
+
 (a) *Nature of requests.* Genealogy requests are requests for searches and/or copies of historical records relating to a deceased person, usually for genealogy and family history research purposes.
 
 (b) *Forms.* USCIS provides on its website at *https://www.uscis.gov/genealogy* the required forms in electronic versions: Genealogy Index Search Request, or Genealogy Records Request.

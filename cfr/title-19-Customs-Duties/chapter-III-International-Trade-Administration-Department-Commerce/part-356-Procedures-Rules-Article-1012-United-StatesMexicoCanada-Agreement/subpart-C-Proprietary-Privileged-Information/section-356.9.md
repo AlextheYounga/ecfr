@@ -1,5 +1,7 @@
 ##### § 356.9 Persons authorized to receive proprietary information. #####
 
+Link to an amendment published at 89 FR 6016, Jan. 31, 2024.
+
 Persons described in paragraphs (a), (d), (e), (f) and (g) of this section shall, and persons described in paragraphs (b) and (c) of this section may, be authorized by the Department to receive access to proprietary information if they comply with this subpart and such other conditions imposed upon them by the Department:
 
 (a) The members of, and appropriate staff of, a binational panel or extraordinary challenge committee;

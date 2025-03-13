@@ -1,5 +1,7 @@
 ##### § 245a.3 Application for adjustment from temporary to permanent resident status. #####
 
+Link to an amendment published at 89 FR 6399, Jan. 31, 2024.
+
 (a) *Application period for permanent residence.* (1) An alien may submit an application for lawful permanent resident status, with fee, immediately subsequent to the granting of lawful temporary resident status. Any application received prior to the alien's becoming eligible for adjustment to permanent resident status will be administratively processed and held by the INS, but will not be considered filed until the beginning of the nineteenth month after the date the alien was granted temporary resident status as defined in § 245a.2(s) of this chapter.
 
 (2) No application shall be denied for failure to timely apply before the end of 43 months from the date of actual approval of the temporary resident application.

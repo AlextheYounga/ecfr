@@ -1,5 +1,7 @@
 ##### § 245a.12 Filing and applications. #####
 
+Link to an amendment published at 89 FR 6399, Jan. 31, 2024.
+
 (a) *When to file.* The application period began on June 1, 2001, and ends on June 4, 2003. To benefit from the provisions of LIFE Legalization, an alien must properly file an application for adjustment of status, Form I-485, with appropriate fee, to the Service during the application period as described in this section. All applications, whether filed in the United States or filed from abroad, must be postmarked on or before June 4, 2003, to be considered timely filed.
 
 (1) If the postmark is illegible or missing, and the application was mailed from within the United States, the Service will consider the application to be timely filed if it is *received* on or before June 9, 2003.

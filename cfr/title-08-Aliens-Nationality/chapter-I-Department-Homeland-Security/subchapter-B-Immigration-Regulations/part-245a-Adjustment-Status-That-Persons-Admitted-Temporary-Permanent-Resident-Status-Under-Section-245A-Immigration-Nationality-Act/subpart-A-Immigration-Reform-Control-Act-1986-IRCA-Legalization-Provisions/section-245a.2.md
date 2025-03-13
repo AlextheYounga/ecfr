@@ -1,5 +1,7 @@
 ##### § 245a.2 Application for temporary residence. #####
 
+Link to an amendment published at 89 FR 6399, Jan. 31, 2024.
+
 (a) *Application period for temporary residence.* (1) An alien who has resided unlawfully in the United States since January 1, 1982, who believes that he or she meets the eligibility requirements of section 245A of the Act must make application within the twelve month period beginning on May 5, 1987 and ending on May 4, 1988, except as provided in the following paragraphs.
 
 (2)(i) [Reserved]

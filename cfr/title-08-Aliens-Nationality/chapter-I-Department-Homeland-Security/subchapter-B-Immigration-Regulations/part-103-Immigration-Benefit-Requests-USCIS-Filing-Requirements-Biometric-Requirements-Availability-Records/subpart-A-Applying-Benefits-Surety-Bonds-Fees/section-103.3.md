@@ -1,5 +1,7 @@
 ##### § 103.3 Denials, appeals, and precedent decisions. #####
 
+Link to an amendment published at 89 FR 6384, Jan. 31, 2024.
+
 (a) *Denials and appeals*—(1) *General*—(i) *Denial of application or petition.* When a Service officer denies an application or petition filed under § 103.2 of this part, the officer shall explain in writing the specific reasons for denial. If Form I-292 (a denial form including notification of the right of appeal) is used to notify the applicant or petitioner, the duplicate of Form I-292 constitutes the denial order.
 
 (ii) *Appealable decisions.* Certain unfavorable decisions on applications, petitions, and other types of cases may be appealed. Decisions under the appellate jurisdiction of the Board of Immigration Appeals (Board) are listed in § 3.1(b) of this chapter. Decisions under the appellate jurisdiction of the Associate Commissioner, Examinations, are listed in § 103.1(f)(2) of this part.

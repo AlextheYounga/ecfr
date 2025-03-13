@@ -1,5 +1,7 @@
 ##### § 274a.12 Classes of aliens authorized to accept employment. #####
 
+Link to an amendment published at 89 FR 6399, Jan. 31, 2024.
+
 (a) *Aliens authorized employment incident to status.* Pursuant to the statutory or regulatory reference cited, the following classes of aliens are authorized to be employed in the United States without restrictions as to location or type of employment as a condition of their admission or subsequent change to one of the indicated classes. Any alien who is within a class of aliens described in paragraphs (a)(3), (a)(4), (a)(6)-(a)(8), (a)(10)-(a)(15), or (a)(20) of this section, and who seeks to be employed in the United States, must apply to U.S. Citizenship and Immigration Services (USCIS) for a document evidencing such employment authorization. USCIS may, in its discretion, determine the validity period assigned to any document issued evidencing an alien's authorization to work in the United States.
 
 (1) An alien who is a lawful permanent resident (with or without conditions pursuant to section 216 of the Act), as evidenced by Form I-551 issued by the Service. An expiration date on the Form I-551 reflects only that the card must be renewed, not that the bearer's work authorization has expired;

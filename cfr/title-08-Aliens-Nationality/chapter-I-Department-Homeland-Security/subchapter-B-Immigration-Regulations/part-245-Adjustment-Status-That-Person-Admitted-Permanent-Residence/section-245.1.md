@@ -1,5 +1,7 @@
 ##### § 245.1 Eligibility. #####
 
+Link to an amendment published at 89 FR 6399, Jan. 31, 2024.
+
 (a) *General.* Any alien who is physically present in the United States, except for an alien who is ineligible to apply for adjustment of status under paragraph (b) or (c) of this section, may apply for adjustment of status to that of a lawful permanent resident of the United States if the applicant is eligible to receive an immigrant visa and an immigrant visa is immediately available at the time of filing of the application. A special immigrant described under section 101(a)(27)(J) of the Act shall be deemed, for the purpose of applying the adjustment to status provisions of section 245(a) of the Act, to have been paroled into the United States, regardless of the actual method of entry into the United States.
 
 (b) *Restricted aliens.* The following categories of aliens are ineligible to apply for adjustment of status to that of a lawful permanent resident alien under section 245 of the Act, unless the alien establishes eligibility under the provisions of section 245(i) of the Act and § 245.10, is not included in the categories of aliens prohibited from applying for adjustment of status listed in § 245.1(c), is eligible to receive an immigrant visa, and has an immigrant visa immediately available at the time of filing the application for adjustment of status:

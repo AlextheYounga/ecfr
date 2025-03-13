@@ -1,5 +1,7 @@
 ##### § 204.313 Filing and adjudication of a Form I-800. #####
 
+Link to an amendment published at 89 FR 6396, Jan. 31, 2024.
+
 (a) *When to file.* Once a Form I-800A has been approved and the Central Authority has proposed placing a child for adoption by the petitioner, the petitioner may file the Form I-800. The petitioner must complete the Form I-800 in accordance with the instructions that accompany the Form I-800, and must sign the Form I-800 personally. In the case of a married petitioner, one spouse cannot sign for the other, even under a power of attorney or similar agency arrangement. The petitioner may then file the Form I-800 with the stateside or overseas USCIS office or the visa issuing post that has jurisdiction under 8 CFR 204.308(b) to adjudicate the Form I-800, together with the evidence specified in this section and the filing fee specified in 8 CFR 106.2, if more than one Form I-800 is filed for children who are not birth siblings.
 
 (b) *What to include on the Form.* (1) The petitioner must specify on the Form I-800 either that:

@@ -1,5 +1,7 @@
 ##### § 103.7 Fees. #####
 
+Link to an amendment published at 89 FR 6384, Jan. 31, 2024.
+
 (a) *DOJ fees.* Fees for proceedings before immigration judges and the Board of Immigration Appeals are described in 8 CFR 1003.8, 1003.24, and 1103.7.
 
 (1) *USCIS may accept DOJ fees.* Except as provided in 8 CFR 1003.8, or as the Attorney General otherwise may provide by regulation, any fee relating to any EOIR proceeding may be paid to USCIS. Payment of a fee under this section does not constitute filing of the document with the Board or with the immigration court. DHS will provide the payer with a receipt for a fee and return any documents submitted with the fee relating to any immigration court proceeding.

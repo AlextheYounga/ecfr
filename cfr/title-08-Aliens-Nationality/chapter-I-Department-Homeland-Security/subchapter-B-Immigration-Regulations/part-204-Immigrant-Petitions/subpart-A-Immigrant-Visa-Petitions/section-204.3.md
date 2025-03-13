@@ -1,5 +1,7 @@
 ##### § 204.3 Orphan cases under section 101(b)(1)(F) of the Act (non-Hague Adoption Convention cases). #####
 
+Link to an amendment published at 89 FR 6395, Jan. 31, 2024.
+
 (a) This section addresses the immigration classification of alien orphans as provided for in section 101(b)(1)(F) of the Act.
 
 (1) Except as provided in paragraph (a)(2) of this section, a child who meets the definition of orphan contained in section 101(b)(1)(F) of the Act is eligible for classification as the immediate relative of a U.S. citizen if:
