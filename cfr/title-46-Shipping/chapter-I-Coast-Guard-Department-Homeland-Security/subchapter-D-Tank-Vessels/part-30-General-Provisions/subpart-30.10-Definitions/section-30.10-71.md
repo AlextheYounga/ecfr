@@ -1,5 +1,7 @@
 ##### § 30.10-71 Tankerman—TB/ALL. #####
 
+Link to an amendment published at 89 FR 93136, Nov. 25, 2024.
+
 The following ratings are established in part 13 of this chapter. The terms for the ratings identify persons holding valid endorsements for service in the ratings issued under that part:
 
 (a) Tankerman-PIC.

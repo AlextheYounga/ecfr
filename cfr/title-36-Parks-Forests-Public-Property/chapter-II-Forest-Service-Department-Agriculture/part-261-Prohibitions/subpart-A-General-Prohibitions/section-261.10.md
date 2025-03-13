@@ -1,5 +1,7 @@
 ##### § 261.10 Occupancy and use. #####
 
+Link to an amendment published at 89 FR 92815, Nov. 25, 2024.
+
 The following are prohibited:
 
 (a) Constructing, placing, or maintaining any kind of road, trail, structure, fence, enclosure, communication equipment, significant surface disturbance, or other improvement on National Forest System lands or facilities without a special-use authorization, contract, or approved operating plan when such authorization is required.

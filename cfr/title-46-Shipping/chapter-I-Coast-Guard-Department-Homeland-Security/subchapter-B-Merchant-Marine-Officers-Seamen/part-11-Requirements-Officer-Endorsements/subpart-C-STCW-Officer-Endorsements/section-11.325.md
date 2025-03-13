@@ -1,5 +1,7 @@
 ##### § 11.325 Requirements to qualify for an STCW endorsement as chief engineer officer on vessels powered by main propulsion machinery of 3,000 kW/4,000 HP propulsion power or more (management level). #####
 
+Link to an amendment published at 89 FR 93075, Nov. 25, 2024.
+
 (a) To qualify for an STCW endorsement as chief engineer officer, an applicant must—
 
 (1) Provide evidence of not less than 36 months of service as OICEW on ships powered by main propulsion machinery of 750 kW/1,000 HP propulsion power or more. This period may be reduced to not less than 24 months if the applicant has served for not less than 12 months as second engineer officer on ships powered by propulsion machinery of 3,000 kW/4,000 HP or more;

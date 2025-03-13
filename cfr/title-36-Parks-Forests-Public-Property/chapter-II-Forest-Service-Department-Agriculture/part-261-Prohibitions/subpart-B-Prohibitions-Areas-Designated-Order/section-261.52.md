@@ -1,5 +1,7 @@
 ##### § 261.52 Fire. #####
 
+Link to an amendment published at 89 FR 92816, Nov. 25, 2024.
+
 When provided by an order, the following are prohibited:
 
 (a) Building, maintaining, attending or using a fire, campfire, or stove fire.

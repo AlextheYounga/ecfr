@@ -1,5 +1,7 @@
 ##### § 261.4 Disorderly conduct. #####
 
+Link to an amendment published at 89 FR 92815, Nov. 25, 2024.
+
 The following are prohibited:
 
 (a) Engaging in fighting.

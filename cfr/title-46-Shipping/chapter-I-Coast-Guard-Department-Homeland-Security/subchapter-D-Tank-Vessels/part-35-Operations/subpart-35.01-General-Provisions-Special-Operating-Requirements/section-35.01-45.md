@@ -1,5 +1,7 @@
 ##### § 35.01-45 Open hopper type barges—B/ALL. #####
 
+Link to an amendment published at 89 FR 93137, Nov. 25, 2024.
+
 (a) With the exception of those open hopper type barges constructed or modified in conformance with the requirements of subpart 32.63 of this subchapter, the special operating conditions in this section apply to all other open hopper type barges carrying those cargoes listed in table 30.25-1, of this chapter, which are defined as:
 
 (1) Flammable liquids having a Reid vapor pressure in excess of 25 pounds per square inch, absolute, in independent tanks (part 32 of this subchapter).

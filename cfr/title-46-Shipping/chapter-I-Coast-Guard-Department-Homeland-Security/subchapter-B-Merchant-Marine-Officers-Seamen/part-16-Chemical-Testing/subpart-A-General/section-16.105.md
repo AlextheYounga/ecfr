@@ -1,5 +1,7 @@
 ##### § 16.105 Definitions of terms used in this part. #####
 
+Link to an amendment published at 89 FR 93134, Nov. 25, 2024.
+
 *Chemical test* means a scientifically recognized test which analyzes an individual's breath, blood, urine, saliva, bodily fluids, or tissues for evidence of dangerous drug or alcohol use.
 
 *Consortium/Third party administrator (C/TPA)* means a service agent who provides or coordinates the provision of a variety of drug and alcohol testing services to employers. C/TPAs typically perform administrative tasks concerning the operation of the employers' drug and alcohol testing programs. This term includes, but is not limited to, groups of employers who join together to administer, as a single entity, the DOT drug and alcohol testing programs of its members.

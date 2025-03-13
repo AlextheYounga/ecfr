@@ -34,4 +34,4 @@
 
 (d) Subject to the provisions of paragraphs (a), (b), and (c) of this section, an Apprentice Pilot found to be qualified under this subpart may be considered fully registered and issued a Certificate of Registration, valid for a term of five (5) years or until the expiration of their Master, Mate, or Pilot endorsement, or until the Pilot reaches age 70, whichever occurs first.
 
-[29 FR 10465, July 28, 1964]Editorial Note:For Federal Register citations affecting § 401.220, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[29 FR 10465, July 28, 1964] Editorial Note:For Federal Register citations affecting § 401.220, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,5 +1,7 @@
 ##### § 11.466 Requirements for national endorsements as apprentice mate (steersman) of towing vessels. #####
 
+Link to an amendment published at 89 FR 93088, Nov. 25, 2024.
+
 (a) As Table 1 to § 11.466(a) shows, to obtain an endorsement as apprentice mate (steersman) of towing vessels listed in column 1, endorsed with a route listed in column 2, mariners must complete the service requirements indicated in columns 3 through 6.
 
 |                                           1                                            |         2          |               3                |              4              |                 5                 |                 6                 |

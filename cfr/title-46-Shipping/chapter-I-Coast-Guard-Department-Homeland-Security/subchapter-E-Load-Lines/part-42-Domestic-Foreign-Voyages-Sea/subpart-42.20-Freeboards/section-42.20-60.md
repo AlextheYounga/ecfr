@@ -25,4 +25,4 @@
 
 (3) Where the effective length of a forecastle is less than 0.07*L,* the percentages in table 42.20-60(b)(2) of this paragraph shall be reduced by:
 
-5(0.07*L*−*f*)/0.07*L**L* is the length of vessel as defined in § 42.13-15(a),*f* is the effective length of the forecastle.[CGFR 68-60, 33 FR 10065, July 12, 1968, as amended by CGFR 68-126, 34 FR 9015, June 5, 1969; USCG-2014-0688, 79 FR 58280, Sept. 29, 2014]
+5(0.07*L*−*f*)/0.07*L**L* is the length of vessel as defined in § 42.13-15(a), *f* is the effective length of the forecastle.[CGFR 68-60, 33 FR 10065, July 12, 1968, as amended by CGFR 68-126, 34 FR 9015, June 5, 1969; USCG-2014-0688, 79 FR 58280, Sept. 29, 2014]

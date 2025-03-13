@@ -2,7 +2,7 @@
 
 (a) The piping, valves, and fittings shall have a bursting pressure of not less than 6,000 p.s.i.
 
-(b) All piping, in nominal sizes not over3/4 inch, shall be at least Schedule 40 (standard weight), and in nominal sizes over3/4 inch, shall be at least Schedule 80 (extra heavy).
+(b) All piping, in nominal sizes not over 3/4 inch, shall be at least Schedule 40 (standard weight), and in nominal sizes over 3/4 inch, shall be at least Schedule 80 (extra heavy).
 
 (c) All piping, valves, and fittings of ferrous materials shall be protected inside and outside against corrosion unless specifically approved otherwise by the Commandant.
 

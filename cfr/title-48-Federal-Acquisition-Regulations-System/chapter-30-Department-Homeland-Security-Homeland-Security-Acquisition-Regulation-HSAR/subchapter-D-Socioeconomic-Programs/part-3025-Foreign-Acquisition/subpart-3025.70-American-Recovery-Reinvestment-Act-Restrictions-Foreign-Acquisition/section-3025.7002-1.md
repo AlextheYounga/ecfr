@@ -1,5 +1,7 @@
 ##### 3025.7002-1 Restrictions. #####
 
+Link to an amendment published at 89 FR 92852, Nov. 25, 2024.
+
 The following restrictions implement section 604 of the American Recovery and Reinvestment Act of 2009 and they apply to all types of actions, orders, exercising of an option and contracts. Except as provided in subsection (HSAR) 48 CFR 3025.7002-2, do not acquire, either as end products or components, any item listed in paragraphs (a) or (b) of this section, if the item is directly related to the national security interests of the United States and the item has not been grown, reprocessed, reused, or produced in the United States:
 
 (a) Commercial or non-commercial items—(1) Clothing and the materials and components thereof, other than sensors, electronics, or other items added to, and not normally associated with, clothing (and the materials and components thereof); or

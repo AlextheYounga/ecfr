@@ -1,5 +1,7 @@
 ##### § 11.402 Tonnage requirements for national ocean or near-coastal endorsements for vessels of 1,600 GRT or more. #####
 
+Link to an amendment published at 89 FR 93079, Nov. 25, 2024.
+
 (a) To qualify for a national ocean or near-coastal endorsement for service on vessels of unlimited tonnage—
 
 (1) All the required experience must be obtained on vessels of 100 GRT or more; and

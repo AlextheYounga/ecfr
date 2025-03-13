@@ -1,5 +1,7 @@
 ##### § 12.621 Requirements to qualify for an STCW endorsement as person in charge of medical care. #####
 
+Link to an amendment published at 89 FR 93105, Nov. 25, 2024.
+
 (a) To qualify for an STCW endorsement as person in charge of medical care, an applicant must—
 
 (1) Provide evidence of successful completion of an approved course that leads to an endorsement for seafarers designated to take charge of medical care onboard a ship; and

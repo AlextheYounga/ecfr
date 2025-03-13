@@ -1,5 +1,7 @@
 ##### § 11.323 STCW engineer officer endorsements. #####
 
+Link to an amendment published at 89 FR 93075, Nov. 25, 2024.
+
 (a) Specific requirements for all STCW engineer officer endorsements are detailed in the applicable sections in this part.
 
 (1) Chief engineer officer on vessels powered by main propulsion machinery of 3,000 kW/4,000 HP propulsion power or more (management level).

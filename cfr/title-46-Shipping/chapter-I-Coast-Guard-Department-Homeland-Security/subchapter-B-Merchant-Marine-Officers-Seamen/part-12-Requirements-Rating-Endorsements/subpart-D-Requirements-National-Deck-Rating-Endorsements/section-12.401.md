@@ -1,5 +1,7 @@
 ##### § 12.401 General requirements for able seaman (A/B) endorsements. #####
 
+Link to an amendment published at 89 FR 93099, Nov. 25, 2024.
+
 (a) *General.* An A/B is any person below officer and above ordinary seaman who holds a merchant mariner credential (MMC) or merchant mariner document (MMD) endorsed as A/B by the Coast Guard.
 
 (b) *Categories.* The following categories of able seaman endorsements are established:

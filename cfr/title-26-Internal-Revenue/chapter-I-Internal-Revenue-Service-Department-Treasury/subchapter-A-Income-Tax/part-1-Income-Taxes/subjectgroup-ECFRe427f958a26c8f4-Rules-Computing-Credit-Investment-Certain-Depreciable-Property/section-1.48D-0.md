@@ -1,6 +1,6 @@
 ##### § 1.48D-0. Table of contents. #####
 
-Link to an amendment published at 89 FR 84751, Oct. 23, 2024.
+Link to an amendment published at 89 FR 84751, Oct. 23, 2024.Link to a correction published at 89 FR 92793, Nov. 25, 2024.
 
 This section lists the table of contents for §§ 1.48D-1 through 1.48D-6.
 

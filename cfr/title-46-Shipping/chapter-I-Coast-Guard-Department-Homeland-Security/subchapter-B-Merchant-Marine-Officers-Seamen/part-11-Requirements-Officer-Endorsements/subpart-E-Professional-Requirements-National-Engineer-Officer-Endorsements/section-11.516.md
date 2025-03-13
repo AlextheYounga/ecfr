@@ -1,5 +1,7 @@
 ##### § 11.516 Service requirements for national endorsement as third assistant engineer of steam, motor, and/or gas turbine-propelled vessels. #####
 
+Link to an amendment published at 89 FR 93093, Nov. 25, 2024.
+
 (a) The minimum service required to qualify an applicant for endorsement as third assistant engineer of steam, motor, and/or gas turbine-propelled vessels is—
 
 (1) Three years of service in the engineroom of vessels, 2 years of which must have been as a qualified member of the engine department or equivalent position;

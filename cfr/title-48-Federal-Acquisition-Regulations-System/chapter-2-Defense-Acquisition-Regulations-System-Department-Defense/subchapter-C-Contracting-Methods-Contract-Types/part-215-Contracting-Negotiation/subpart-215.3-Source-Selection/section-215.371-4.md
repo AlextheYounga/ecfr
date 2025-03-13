@@ -1,8 +1,6 @@
 ##### 215.371-4 Exceptions. #####
 
-Link to an amendment published at 89 FR 90236, Nov. 15, 2024.
-
-(a) The requirements at section 215.371-2 do not apply to—
+(a) The requirements at 215.371-2 do not apply to—
 
 (1) Acquisitions at or below the simplified acquisition threshold;
 
@@ -16,6 +14,8 @@ Link to an amendment published at 89 FR 90236, Nov. 15, 2024.
 
 (6) Acquisitions under a commercial solutions opening pursuant to subpart 212.70.
 
+(7) Acquisitions of commercial products and commercial services using FAR part 12 procedures.
+
 (b) The applicability of an exception in paragraph (a) of this section does not eliminate the need for the contracting officer to seek maximum practicable competition and to ensure that the price is fair and reasonable.
 
-[78 FR 65216, Oct. 31, 2013, as amended at 83 FR 24889, May 30, 2018; 84 FR 4365, Feb. 15, 2019; 88 FR 55940, Aug. 17, 2023]
+[78 FR 65216, Oct. 31, 2013, as amended at 83 FR 24889, May 30, 2018; 84 FR 4365, Feb. 15, 2019; 88 FR 55940, Aug. 17, 2023; 89 FR 90236, Nov. 15, 2024]

@@ -1,7 +1,5 @@
 ##### § 17.41 Species-specific rules—birds. #####
 
-Link to an amendment published at 89 FR 85337, Oct. 25, 2024.
-
 (a) Streaked horned lark (*Eremophila alpestris strigata*).
 
 (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to streaked horned lark. Except as provided under paragraph (a)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
@@ -220,7 +218,103 @@ Link to an amendment published at 89 FR 85337, Oct. 25, 2024.
 
 (vi) Incidental take resulting from prescribed burns, grazing, and mowing or other mechanical treatment activities in existing moist soil management units or prior converted croplands (e.g., impoundments for rice or other cereal grain production) is allowed.
 
-(g)-(h) [Reserved]
+(g) [Reserved]
+
+(h) Red-cockaded woodpecker (*Dryobates borealis*). (1) *Definitions.* For the purposes of this paragraph (h), we define the following terms:
+
+(i) *Habitat management activities* are activities intended to maintain or improve the quality and/or quantity of red-cockaded woodpecker habitat, including, but not limited to, prescribed burning; using herbicides and equipment to reduce midstory encroachment, thin overstocked pine stands, promote an open canopy pine system, and promote herbaceous groundcover; converting planted pines to more fire-tolerant, site-appropriate native pines found within the associated native pine, fire-dependent ecosystem; planting and seeding native, site-appropriate pines and groundcover species; and regenerating areas of older pine forest to increase and maintain sustainable current and future habitat for red-cockaded woodpeckers.
+
+(ii) *Cavity tree* means any tree containing one or more active or inactive natural or artificial cavities.
+
+(A) An *active cavity* is a completed natural or artificial cavity or cavity start exhibiting fresh pine resin associated with red-cockaded woodpeckers' cavity maintenance, cavity construction, or resin well excavation.
+
+(B) An *inactive cavity* is a cavity that is not presently being used by red-cockaded woodpeckers.
+
+(C) A *cavity start* is a void formed in the bole of the tree during the initial stages of cavity excavation and can be active or inactive.
+
+(iii) *Cluster* means the aggregation of cavity trees within an area previously or currently used and defended by a single red-cockaded woodpecker group. A cluster may be active or inactive. A cluster encompasses the minimum convex polygon containing all of a group's cavity trees and the 61-meter (200-foot) buffer surrounding that polygon. The minimum cluster area size is 4.05 hectares (10 acres), as some clusters may contain only one cavity tree.
+
+(A) An *active cluster* is defined as a cluster in which one or more of the cavity trees exhibit fresh resin as a result of red-cockaded woodpecker activity or in which one or more red-cockaded woodpeckers are observed.
+
+(B) An *inactive cluster* is defined as a cluster that is not currently supporting any red-cockaded woodpeckers and shows no evidence of red-cockaded woodpecker activity.
+
+(C) A *group* is a red-cockaded woodpecker social unit, consisting of a breeding pair with one or more helpers, a breeding pair without helpers, or a solitary male.
+
+(iv) *Foraging habitat* is habitat that generally consists of mature pines with an open canopy, low densities of small pines, a sparse hardwood and/or pine midstory, few or no overstory hardwoods, and abundant native bunchgrass and forb groundcovers.
+
+(2) *Prohibitions.* The following prohibitions in this paragraph (h)(2) that apply to endangered wildlife also apply to the red-cockaded woodpecker. Except as provided under paragraphs (h)(3) and (4) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(3) *General exceptions from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by a permit issued under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (4) for endangered wildlife, and § 17.21(c)(6) and (7) for endangered migratory birds.
+
+(iii) Take, as set forth at § 17.31(b).
+
+(iv) Possess and engage in other acts with unlawfully taken red-cockaded woodpeckers, as set forth at § 17.21(d)(2) for endangered wildlife and § 17.21(d)(3) and (4) for endangered migratory birds.
+
+(4) *Exceptions from prohibitions for specific types of incidental take.* The following activities that cause take that is incidental to an otherwise lawful activity are not in violation of the prohibitions:
+
+(i) *Department of Defense (DoD) installations.* Red-cockaded woodpecker habitat management and military training activities on DoD installations carried out in accordance with a Service-approved integrated natural resources management plan, provided that the DoD installation reports annually to the Service regarding their red-cockaded woodpecker populations.
+
+(ii) *Federal land management agency properties.* Habitat management activities intended to restore or maintain red-cockaded woodpecker habitat on Federal land management agency properties, provided that:
+
+(A) The Federal land management agency details these habitat management activities in a Federal habitat management plan;
+
+(B) The Federal habitat management activities incorporate appropriate conservation measures to minimize or avoid adverse effects of these habitat management activities on, but not limited to, red-cockaded woodpecker foraging habitat, on clusters, and on the species' roosting and nesting behavior to the maximum extent practicable; and
+
+(C) The Federal land management agency reports annually to the Service regarding their red-cockaded woodpecker populations.
+
+(iii) *Privately and other non-federally owned properties.* Application of prescribed burns or herbicides on private and other non-Federal lands to create or maintain habitat (*i.e.,* open pine ecosystems) or sustain and grow red-cockaded woodpecker populations, provided that the landowner or their representative:
+
+(A) Follows applicable best management practices for prescribed burns and applicable Federal and State laws;
+
+(B) Applies herbicides in a manner consistent with applicable best management practices and applicable Federal and State laws; and
+
+(C) Applies prescribed burns and herbicides in a manner that minimizes or avoids adverse effects to known active clusters and red-cockaded woodpecker roosting and nesting behavior to the maximum extent practicable.
+
+(iv) *Artificial cavities.* Installation, maintenance, and replacement of artificial cavity inserts and drilled cavities on public and private lands, provided that:
+
+(A) The individual conducting the installation, maintenance, or replacement has either:
+
+(*1*) Held a valid Service permit for that purpose, which expired after November 25, 2024, and has continued to install, maintain, and replace cavities since the expiration of their permit; or
+
+(*2*) Completed the following training procedures for the type of artificial cavity they plan to install, maintain, or replace:
+
+(*i*) The individual (“apprentice”) has completed a period of apprenticeship to learn proper installation, maintenance, and replacement procedures for artificial cavities under the direction of a person (“trainer”) who has been installing, maintaining, and replacing cavities for at least the past 3 years;
+
+(*ii*) The apprentice has installed at least 10 drilled cavities or 10 inserts under direct supervision and to the satisfaction of the trainer; and
+
+(*iii*) The apprentice has learned the proper maintenance and inspection procedures for cavities.
+
+(B) If the individual conducting the installation is an apprentice, the apprentice's trainer provides a letter to the apprentice and to the Service red-cockaded woodpecker recovery coordinator that outlines the training the apprentice received, which will serve as a record of the apprentice's training.
+
+(C) The individual conducting the installation follows appropriate guidelines for the installation and use of artificial cavity inserts and drilled cavities, including, but not limited to:
+
+(*1*) Monitoring the cavity resource;
+
+(*2*) Installing and maintaining the recommended number of suitable cavities in each cluster;
+
+(*3*) Using the appropriate type of artificial cavity insert and method of artificial cavity installation;
+
+(*4*) Installing artificial cavities as close to existing cavity trees as possible, preferably within 71 meters (200 feet), when adding to an existing cluster;
+
+(*5*) Selecting a tree that is of appropriate age or diameter, when installing a cavity insert;
+
+(*6*) Selecting the appropriate location for artificial cavity installation on the tree; and
+
+(*7*) Protecting red-cockaded woodpeckers from sap leakage by ensuring that no artificial cavity has resin leaking into the chamber or entrance tunnel.
 
 (i) Mount Rainier white-tailed ptarmigan (*Lagopus leucura rainierensis*).
 
@@ -446,4 +540,4 @@ Figure 1 to paragraph (k)![](/graphics/er25no22.032.gif)
 
 (vii) Conduct activities as authorized by a captive-bred wildlife registration under § 17.21(g) for endangered wildlife.
 
-[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6311, Feb. 26, 2019; 84 FR 69946, Dec. 19, 2019; 85 FR 22663, Apr. 23, 2020; 85 FR 63830, Oct. 8, 2020; 87 FR 21811, Apr. 13, 2022; 87 FR 64720, Oct. 26, 2022; 87 FR 72753, Nov. 25, 2022; 87 FR 73971, Dec. 2, 2022; 88 FR 46949, July 20, 2023; 89 FR 23940, Apr. 5, 2024; 89 FR 55113, July 3, 2024]
+[43 FR 6233, Feb. 14, 1978]Editorial Note:For Federal Register citations affecting § 17.41, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

@@ -1,5 +1,7 @@
 ##### § 35.20-7 Verification of vessel compliance with applicable stability requirements—TB/ALL. #####
 
+Link to an amendment published at 89 FR 93138, Nov. 25, 2024.
+
 (a) Except as provided in paragraph (d) of this section, after loading and prior to departure and at all other times necessary to assure the safety of the vessel, the master or person in charge shall determine that the vessel complies with all applicable stability requirements in the vessel's trim and stability book, stability letter, Certificate of Inspection, and Load Line Certificate, as the case may be. The vessel may not depart until it is in compliance with these requirements.
 
 (b) When determining compliance with applicable stability requirements the vessel's draft, trim, and stability must be determined as necessary.

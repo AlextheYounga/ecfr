@@ -10,8 +10,8 @@
 |--------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
 |                                                         Above 2″                                                         |(Not permitted in Class I piping service.)|
 |                                                    Above 1″ up to 2″                                                     |                   600.                   |
-|                                        Above <sup>3</sup>⁄<sub>4</sub>″ up to 1″                                         |                  1,200.                  |
-|                                           <sup>3</sup>⁄<sub>4</sub>″ and below                                           |                  1,500.                  |
+|                                                   Above 3/4″ up to 1″                                                    |                  1,200.                  |
+|                                                      3/4″ and below                                                      |                  1,500.                  |
 |      <sup>1</sup> Further restrictions on the use of threaded joints appear in the low temperature piping section.       |                                          |
 |<sup>2</sup> Threaded joints in hydraulic systems are permitted above the pressures indicated for the nominal sizes shown.|                                          |
 

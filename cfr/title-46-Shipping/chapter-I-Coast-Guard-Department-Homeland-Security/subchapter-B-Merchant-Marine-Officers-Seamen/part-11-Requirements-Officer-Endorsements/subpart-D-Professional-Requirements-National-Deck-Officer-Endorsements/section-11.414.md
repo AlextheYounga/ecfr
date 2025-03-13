@@ -1,5 +1,7 @@
 ##### § 11.414 Service requirements for mate of ocean self-propelled vessels of less than 1,600 GRT. #####
 
+Link to an amendment published at 89 FR 93080, Nov. 25, 2024.
+
 (a) The minimum service required to qualify an applicant for an endorsement as mate of self-propelled vessels of less than 1,600 GRT is—
 
 (1) Three years of total service in the deck department of ocean or near-coastal self-propelled, sail, or auxiliary sail vessels, as follows:

@@ -1,5 +1,7 @@
 ##### § 11.524 Service requirements for national endorsement as designated duty engineer (DDE) of steam, motor, and/or gas turbine-propelled vessels. #####
 
+Link to an amendment published at 89 FR 93094, Nov. 25, 2024.
+
 (a) DDE endorsements are issued in three levels of propulsion power limitations dependent upon the total service of the applicant and completion of an appropriate examination. These endorsements are limited to vessels of less than 500 GRT on certain waters as specified in § 11.501 of this subpart.
 
 (b) The service requirements for endorsements as DDE are—

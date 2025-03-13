@@ -1,0 +1,3 @@
+##### § 81.4 Referral of reports where the designated agency is not a law enforcement agency. #####
+
+Where a report of child abuse received by a designated agency that is not a law enforcement agency involves allegations of sexual abuse, serious physical injury, or life-threatening neglect of a child, that agency shall immediately report such occurrence to a law enforcement agency with authority to take emergency action to protect the child.

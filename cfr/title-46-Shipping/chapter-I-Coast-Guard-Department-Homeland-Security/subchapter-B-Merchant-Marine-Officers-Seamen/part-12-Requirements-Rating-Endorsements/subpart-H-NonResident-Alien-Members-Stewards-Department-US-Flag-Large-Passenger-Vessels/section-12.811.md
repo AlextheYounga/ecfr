@@ -1,5 +1,7 @@
 ##### § 12.811 Restrictions. #####
 
+Link to an amendment published at 89 FR 93106, Nov. 25, 2024.
+
 (a) An MMC issued to a non-resident alien under this subpart authorizes service only in the steward's department of the U.S. flag large passenger vessel(s), that is/are under the same common ownership and control as the foreign flag passenger vessel(s) on which the non-resident alien served to meet the requirements of § 12.807(a) of this subpart.
 
 (1) The MMC will be endorsed for service in the steward's department, in accordance with § 12.703 of this part.

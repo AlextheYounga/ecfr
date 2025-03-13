@@ -1,5 +1,7 @@
 ##### § 11.1105 General requirements for officer endorsements. #####
 
+Link to an amendment published at 89 FR 93099, Nov. 25, 2024.
+
 (a) To serve on a passenger vessel on international voyages, masters, deck officers, chief engineers and engineer officers, must—
 
 (1) Meet the appropriate requirements of the STCW Regulation V/2 and of section A-V/2 of the STCW Code (incorporated by reference, see § 11.102 of this part) as follows:

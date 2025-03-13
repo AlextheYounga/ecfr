@@ -1,5 +1,7 @@
 ##### § 11.410 Requirements for deck officer endorsements for vessels of less than 1,600 GRT. #####
 
+Link to an amendment published at 89 FR 93080, Nov. 25, 2024.
+
 (a) Endorsements as master and mate of vessels of less than 1,600 GRT are issued in the following tonnage categories:
 
 (1) Less than 1,600 GRT.

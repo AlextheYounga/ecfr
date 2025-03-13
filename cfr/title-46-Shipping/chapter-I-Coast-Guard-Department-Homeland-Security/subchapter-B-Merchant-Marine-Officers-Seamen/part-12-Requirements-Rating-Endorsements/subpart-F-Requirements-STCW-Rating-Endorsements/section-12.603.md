@@ -1,5 +1,7 @@
 ##### § 12.603 Requirements to qualify for an STCW endorsement as able seafarer-deck. #####
 
+Link to an amendment published at 89 FR 93103, Nov. 25, 2024.
+
 (a) To qualify for this endorsement as able seafarer-deck, an applicant must—
 
 (1) Be not less than 18 years of age;

@@ -58,7 +58,7 @@
 
 (2) For vessels propelled in whole or in part by screw—
 
-(i) If the total propelling machinery space is 13 percent or less of the vessel's gross register tonnage, deduct32/13 times the total propelling machinery space;
+(i) If the total propelling machinery space is 13 percent or less of the vessel's gross register tonnage, deduct 32/13 times the total propelling machinery space;
 
 (ii) If the total propelling machinery space is more than 13 but less than 20 percent of the vessel's gross register tonnage, deduct 32 percent of the vessel's gross register tonnage; or
 
@@ -66,7 +66,7 @@
 
 (3) For vessels propelled in whole or in part by paddle-wheel—
 
-(i) If the total propelling machinery space is 20 percent or less of the vessel's gross register tonnage, deduct37/20 times the total propelling machinery space;
+(i) If the total propelling machinery space is 20 percent or less of the vessel's gross register tonnage, deduct 37/20 times the total propelling machinery space;
 
 (ii) If the total propelling machinery space is more than 20 but less than 30 percent of the vessel's gross register tonnage, deduct 37 percent of the vessel's gross register tonnage; or
 

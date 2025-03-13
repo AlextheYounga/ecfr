@@ -1,5 +1,7 @@
 ##### § 261.50 Orders. #####
 
+Link to an amendment published at 89 FR 92816, Nov. 25, 2024.
+
 (a) The Chief, each Regional Forester, each Experiment Station Director, the Administrator of the Lake Tahoe Basin Management Unit and each Forest Supervisor may issue orders which close or restrict the use of described areas within the area over which he has jurisdiction. An order may close an area to entry or may restrict the use of an area by applying any or all of the prohibitions authorized in this subpart or any portion thereof.
 
 (b) The Chief, each Regional Forester, each Experiment Station Director, the Administrator of the Lake Tahoe Basin Management Unit and each Forest Supervisor may issue orders which close or restrict the use of any National Forest System road or trail within the area over which he has jurisdiction.

@@ -1,5 +1,7 @@
 ##### 3025.7001 Definitions. #####
 
+Link to an amendment published at 89 FR 92851, Nov. 25, 2024.
+
 As used in this subpart—
 
 (a) “Commercial,” as applied to an item described in (HSAR) 48 CFR 3025.7002-1, means an item of supply, whether an end product or component, that meets the definition of “commercial item” set forth in (FAR) 48 CFR 2.101.

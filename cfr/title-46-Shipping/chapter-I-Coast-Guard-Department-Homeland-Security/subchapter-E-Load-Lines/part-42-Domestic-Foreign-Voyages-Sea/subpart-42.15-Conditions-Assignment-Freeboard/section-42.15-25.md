@@ -24,7 +24,7 @@
 
 (f) *Cleats.* (1) Cleats shall be set to fit the taper of the wedges. They shall be at least 21/2 inches wide and spaced not more than 231/2 inches center to center; the cleats along each side or end shall be not more than 6 inches from the hatch corners.
 
-(g) *Battens and wedges.* (1) Battens and wedges shall be efficient and in good condition. Wedges shall be of tough wood or other equivalent material. They shall have a taper of not more than 1 in 6 and shall be not less than1/2-inch thick at the toes.
+(g) *Battens and wedges.* (1) Battens and wedges shall be efficient and in good condition. Wedges shall be of tough wood or other equivalent material. They shall have a taper of not more than 1 in 6 and shall be not less than 1/2-inch thick at the toes.
 
 (h) *Tarpaulins.* (1) At least two layers of tarpaulin in good condition shall be provided for each hatchway in positions 1 and 2.
 

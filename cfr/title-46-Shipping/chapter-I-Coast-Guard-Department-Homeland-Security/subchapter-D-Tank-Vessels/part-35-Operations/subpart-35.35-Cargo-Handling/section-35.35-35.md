@@ -1,5 +1,7 @@
 ##### § 35.35-35 Duties of person in charge of transfer—TB/ALL. #####
 
+Link to an amendment published at 89 FR 93140, Nov. 25, 2024.
+
 The person in charge of the transfer of liquid cargo in bulk, fuel oil in bulk, or bunkers in bulk shall control the transfer as follows:
 
 (a) Supervise the operations of cargo-system valves.

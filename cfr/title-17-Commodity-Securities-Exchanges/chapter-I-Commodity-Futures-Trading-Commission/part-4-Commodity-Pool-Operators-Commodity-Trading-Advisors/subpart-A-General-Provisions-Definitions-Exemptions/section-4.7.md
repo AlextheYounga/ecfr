@@ -1,76 +1,70 @@
 ##### § 4.7 Exemption from certain part 4 requirements for commodity pool operators with respect to offerings to qualified eligible persons and for commodity trading advisors with respect to advising qualified eligible persons. #####
 
-Link to an amendment published at 89 FR 78810, Sept. 26, 2024.
-
 This section is organized as follows: Paragraph (a) contains definitions for the purposes of § 4.7; paragraph (b) contains the relief available to commodity pool operators under § 4.7; paragraph (c) contains the relief available to commodity trading advisors under § 4.7; paragraph (d) concerns the Notice of Claim for Exemption under § 4.7; and paragraph (e) addresses the effect of an insignificant deviation from a term, condition or requirement of § 4.7.
 
-(a) *Definitions.* Paragraph (a)(1) of this section contains general definitions, paragraph (a)(2) of this section contains the definition of the term *qualified eligible person* with respect to those persons who do not need to satisfy the Portfolio Requirement and paragraph (a)(3) of this section contains the definition of the term *qualified eligible person* with respect to those persons who must satisfy the Portfolio Requirement. For the purposes of this section:
+(a) *Definitions.* (1) *Affiliate* of, or a person *affiliated* with, a specified person means a person that directly or indirectly through one or more persons, controls, is controlled by, or is under common control with the specified person.
 
-(1) *In general*—(i) *Affiliate* of, or a person *affiliated* with, a specified person means a person that directly or indirectly through one or more persons, controls, is controlled by, or is under common control with the specified person.
+(2) *Exempt account* means the account of a qualified eligible person that is directed or guided by a commodity trading advisor pursuant to an effective claim for exemption under this section.
 
-(ii) *Exempt account* means the account of a qualified eligible person that is directed or guided by a commodity trading advisor pursuant to an effective claim for exemption under § 4.7.
+(3) *Exempt pool* means a pool that is operated pursuant to an effective claim for exemption under this section.
 
-(iii) *Exempt pool* means a pool that is operated pursuant to an effective claim for exemption under § 4.7.
+(4) *Non-United States person* means:
 
-(iv) *Non-United States person* means:
+(i) A natural person who is not a resident of the United States;
 
-(A) A natural person who is not a resident of the United States;
+(ii) A partnership, corporation or other entity, other than an entity organized principally for passive investment, organized under the laws of a foreign jurisdiction and which has its principal place of business in a foreign jurisdiction;
 
-(B) A partnership, corporation or other entity, other than an entity organized principally for passive investment, organized under the laws of a foreign jurisdiction and which has its principal place of business in a foreign jurisdiction;
+(iii) An estate or trust, the income of which is not subject to United States income tax regardless of source;
 
-(C) An estate or trust, the income of which is not subject to United States income tax regardless of source;
+(iv) An entity organized principally for passive investment such as a pool, investment company or other similar entity; *Provided,* That units of participation in the entity held by persons who do not qualify as Non-United States persons or otherwise as qualified eligible persons represent in the aggregate less than 10% of the beneficial interest in the entity, and that such entity was not formed principally for the purpose of facilitating investment by persons who do not qualify as Non-United States persons in a pool with respect to which the operator is exempt from certain requirements of this part by virtue of its participants being Non-United States persons; and
 
-(D) An entity organized principally for passive investment such as a pool, investment company or other similar entity; *Provided,* That units of participation in the entity held by persons who do not qualify as Non-United States persons or otherwise as qualified eligible persons represent in the aggregate less than 10% of the beneficial interest in the entity, and that such entity was not formed principally for the purpose of facilitating investment by persons who do not qualify as Non-United States persons in a pool with respect to which the operator is exempt from certain requirements of part 4 of the Commission's regulations by virtue of its participants being Non-United States persons; and
+(v) A pension plan for the employees, officers or principals of an entity organized and with its principal place of business outside the United States.
 
-(E) A pension plan for the employees, officers or principals of an entity organized and with its principal place of business outside the United States.
+(5) *Portfolio Requirement* means that a person:
 
-(v) *Portfolio Requirement* means that a person:
+(i) Owns securities (including pool participations) of issuers not affiliated with such person and other investments with an aggregate market value of at least $4,000,000;
 
-(A) Owns securities (including pool participations) of issuers not affiliated with such person and other investments with an aggregate market value of at least $2,000,000;
+(ii) Has had on deposit with a futures commission merchant, for its own account at any time during the six-month period preceding either the date of sale to that person of a pool participation in the exempt pool or the date that the person opens an exempt account with the commodity trading advisor, at least $400,000 in exchange-specified initial margin and option premiums, together with any required minimum security deposits for retail forex transactions (defined in § 5.1(m) of this chapter), for commodity interest transactions; or
 
-(B) Has had on deposit with a futures commission merchant, for its own account at any time during the six-month period preceding either the date of sale to that person of a pool participation in the exempt pool or the date that the person opens an exempt account with the commodity trading advisor, at least $200,000 in exchange-specified initial margin and option premiums, together with required minimum security deposit for retail forex transactions (as defined in § 5.1(m) of this chapter) for commodity interest transactions; or
+(iii) Owns a portfolio comprised of a combination of the funds or property specified in paragraphs (a)(5)(i) and (ii) of this section, in which the sum of the funds or property includable under paragraph (a)(5)(i) of this section, expressed as a percentage of the minimum amount required thereunder, and the amount of initial margin, option premiums, and minimum security deposits includable under paragraph (a)(5)(ii) of this section, expressed as a percentage of the minimum amount required thereunder, equals at least one hundred percent. An example of a composite portfolio acceptable under this paragraph (a)(5)(iii) would consist of $2,000,000 in securities and other property (50% of paragraph (a)(5)(i)) and $200,000 in initial margin, option premiums, and minimum security deposits (50% of paragraph (a)(5)(ii)).
 
-(C) Owns a portfolio comprised of a combination of the funds or property specified in paragraphs (a)(1)(v)(A) and (B) of this section in which the sum of the funds or property includable under paragraph (a)(1)(v)(A), expressed as a percentage of the minimum amount required thereunder, and the amount of futures margin and option premiums includable under paragraph (a)(1)(v)(B), expressed as a percentage of the minimum amount required thereunder, equals at least one hundred percent. An example of a composite portfolio acceptable under this paragraph (a)(1)(v)(C) would consist of $1,000,000 in securities and other property (50% of paragraph (a)(1)(v)(A)) and $100,000 in exchange-specified initial margin and option premiums (50% of paragraph (a)(1)(v)(B)).
+(6) *Qualified eligible person* means any person, acting for its own account or for the account of a qualified eligible person, who the commodity pool operator reasonably believes, at the time of the sale to that person of a pool participation in the exempt pool, or who the commodity trading advisor reasonably believes, at the time that person opens an exempt account, is included in the following list of persons that is divided into two categories: Persons who are not required to satisfy the Portfolio Requirement defined in paragraph (a)(5) of this section to be qualified eligible persons, and those persons who must satisfy the Portfolio Requirement in paragraph (a)(5) to be qualified eligible persons.
 
-(vi) *United States* means the United States, its states, territories or possessions, or an enclave of the United States government, its agencies or instrumentalities.
-
-(2) *Persons who do not need to satisfy the Portfolio Requirement to be qualified eligible persons. Qualified eligible person* means any person, acting for its own account or for the account of a qualified eligible person, who the commodity pool operator reasonably believes, at the time of the sale to that person of a pool participation in the exempt pool, or who the commodity trading advisor reasonably believes, at the time that person opens an exempt account, is:
-
-(i)(A) A futures commission merchant registered pursuant to section 4d of the Act, or a principal thereof;
+(i) *Persons who need not satisfy the Portfolio Requirement to be qualified eligible persons.* (A) A futures commission merchant registered pursuant to section 4d of the Act, or a principal thereof;
 
 (B) A retail foreign exchange dealer registered pursuant to section 2(c)(2)(B)(i)(II)(gg) of the Act, or a principal thereof;
 
 (C) A swap dealer registered pursuant to section 4s(a)(1) of the Act, or a principal thereof;
 
-(ii) A broker or dealer registered pursuant to section 15 of the Securities Exchange Act of 1934, or a principal thereof;
+(D) A broker or dealer registered pursuant to section 15 of the Securities Exchange Act of 1934, or a principal thereof;
 
-(iii) A commodity pool operator registered pursuant to section 4m of the Act, or a principal thereof; *Provided,* That the pool operator:
+(E) A commodity pool operator registered pursuant to section 4m of the Act, or a principal thereof; *Provided,* That the pool operator:
 
-(A) Has been registered and active as such for two years; or
+(*1*) Has been registered and active as such for two years; or
 
-(B) Operates pools which, in the aggregate, have total assets in excess of $5,000,000;
+(*2*) Operates pools which, in the aggregate, have total assets in excess of $5,000,000;
 
-(iv) A commodity trading advisor registered pursuant to section 4m of the Act, or a principal thereof; *Provided,* That the trading advisor:
+(F) A commodity trading advisor registered pursuant to section 4m of the Act, or a principal thereof; *Provided,* That the trading advisor:
 
-(A) Has been registered and active as such for two years; or
+(*1*) Has been registered and active as such for two years; or
 
-(B) Provides commodity interest trading advice to commodity accounts which, in the aggregate, have total assets in excess of $5,000,000 deposited at one or more futures commission merchants;
+(*2*) Provides commodity interest trading advice to commodity accounts which, in the aggregate, have total assets in excess of $5,000,000 deposited at one or more futures commission merchants;
 
-(v) An investment adviser registered pursuant to section 203 of the Investment Advisers Act of 1940 (“Investment Advisers Act”) or pursuant to the laws of any state, or a principal thereof; *Provided,* That the investment adviser:
+(G) An investment adviser registered pursuant to section 203 of the Investment Advisers Act of 1940 (“Investment Advisers Act”) or pursuant to the laws of any state, or a principal thereof; *Provided,* That the investment adviser:
 
-(A) Has been registered and active as such for two years; or
+(*1*) Has been registered and active as such for two years; or
 
-(B) Provides securities investment advice to securities accounts which, in the aggregate, have total assets in excess of $5,000,000 deposited at one or more registered securities brokers;
+(*2*) Provides securities investment advice to securities accounts which, in the aggregate, have total assets in excess of $5,000,000 deposited at one or more registered securities brokers;
 
-(vi) A “qualified purchaser” as defined in section 2(a)(51)(A) of the Investment Company Act of 1940 (the “Investment Company Act”);
+(H) A “qualified purchaser” as defined in section 2(a)(51)(A) of the Investment Company Act of 1940 (“Investment Company Act”);
 
-(vii) A “knowledgeable employee” as defined in § 270.3c-5 of this title;
+(I) A “knowledgeable employee” as defined in § 270.3c-5 of this title;
 
-(viii)(A) With respect to an exempt pool:
+(J) With respect to an exempt pool:
 
 (*1*) The commodity pool operator, commodity trading advisor or investment adviser of the exempt pool offered or sold, or an affiliate of any of the foregoing;
 
-(*2*) A principal of the exempt pool or the commodity pool operator, commodity trading advisor or investment adviser of the exempt pool, or of an affiliate of any of the foregoing;
+(*2*) A principal of the exempt pool or the commodity pool operator, commodity trading advisor or investment adviser of the exempt pool, or an affiliate of any of the foregoing;
 
 (*3*) An employee of the exempt pool or the commodity pool operator, commodity trading advisor or investment adviser of the exempt pool, or of an affiliate of any of the foregoing (other than an employee performing solely clerical, secretarial or administrative functions with regard to such person or its investments) who, in connection with his or her regular functions or duties, participates in the investment activities of the exempt pool, other commodity pools operated by the pool operator of the exempt pool or other accounts advised by the trading advisor or the investment adviser of the exempt pool, or by the affiliate; *Provided,* That such employee has been performing such functions and duties for or on behalf of the exempt pool, pool operator, trading advisor, investment adviser or affiliate, or substantially similar functions or duties for or on behalf of another person engaged in providing commodity interest, securities or other financial services, for at least 12 months;
 
@@ -80,85 +74,87 @@ This section is organized as follows: Paragraph (a) contains definitions for the
 
 (*ii*) Has been employed or engaged by the exempt pool, commodity pool operator, commodity trading advisor, investment adviser or affiliate, or by another person engaged in providing commodity interest, securities or other financial services, for at least 24 months;
 
-(*5*) The spouse, child, sibling or parent of a person who satisfies the criteria of paragraph (a)(2)(viii)(A)(*1*), (*2*), (*3*) or (*4*) of this section; *Provided,* That:
+(*5*) The spouse, child, sibling or parent of a person who satisfies the criteria of paragraph (a)(6)(i)(J)(*1*), (*2*), (*3*), or (*4*) of this section; *Provided,* That:
 
 (*i*) An investment in the exempt pool by any such family member is made with the knowledge and at the direction of the person; and
 
-(*ii*) The family member is not a qualified eligible person for the purposes of paragraph (a)(3)(xi) of this section;
+(*ii*) The family member is not a qualified eligible person for the purposes of paragraph (a)(6)(ii)(K) of this section;
 
-(*6*)(*i*) Any person who acquires a participation in the exempt pool by gift, bequest or pursuant to an agreement relating to a legal separation or divorce from a person listed in paragraph (a)(2)(viii)(A)(*1*), (*2*), (*3*), (*4*) or (*5*) of this section;
+(*6*) Any person who acquires a participation in the exempt pool by gift, bequest or pursuant to an agreement relating to a legal separation or divorce from a person listed in paragraph (a)(6)(i)(J)(*1*), (*2*), (*3*), (*4*), or (*5*) of this section;
 
-(*ii*) The estate of any person listed in paragraph (a)(2)(viii)(A)(*1*), (*2*), (*3*), (*4*) or (*5*) of this section; or
+(*7*) The estate of any person listed in paragraph (a)(6)(i)(J)(*1*), (*2*), (*3*), (*4*), or (*5*) of this section; or
 
-(*iii*) A company established by any person listed in paragraph (a)(2)(viii)(A)(*1*), (*2*), (*3*), (*4*) or (5) of this section exclusively for the benefit of (or owned exclusively by) that person and any person listed in paragraph (a)(2)(viii)(A)(*6*)(*i*) or (*ii*) of this section;
+(*8*) A company established by any person listed in paragraph (a)(6)(i)(J)(*1*), (*2*), (*3*), (*4*), or (*5*) of this section exclusively for the benefit of (or owned exclusively by) that person and any person listed in paragraph (a)(6)(i)(J)(*6*) or (*7*) of this section;
 
-(B) With respect to an exempt account:
+(K) With respect to an exempt account:
 
 (*1*) An affiliate of the commodity trading advisor of the exempt account;
 
-(*2*) A principal of the commodity trading advisor of the exempt account or of an affiliate of the trading advisor;
+(*2*) A principal of the commodity trading advisor of the exempt account or of an affiliate of the commodity trading advisor;
 
 (*3*) An employee of the commodity trading advisor of the exempt account or of an affiliate of the trading advisor (other than an employee performing solely clerical, secretarial or administrative functions with regard to such person or its investments) who, in connection with his or her regular functions or duties, participates in the investment activities of the trading advisor or the affiliate; *Provided,* That such employee has been performing such functions and duties for or on behalf of the trading advisor or the affiliate, or substantially similar functions or duties for or on behalf of another person engaged in providing commodity interest, securities or other financial services, for at least 12 months;
 
 (*4*) Any other employee of, or an agent engaged to perform legal, accounting, auditing or other financial services for, the commodity trading advisor of the exempt account or any other employee of, or agent so engaged by, an affiliate of the trading advisor (other than an employee or agent performing solely clerical, secretarial or administrative functions with regard to such person or its investments); *Provided,* That such employee or agent:
 
-(*i*) Is an accredited investor as defined in § 230.501(a)(5) or (a)(6) of this title; and
+(*i*) Is an accredited investor as defined in § 230.501(a)(5) or (6) of this title; and
 
-(*ii*) Has been employed or engaged by the commodity trading advisor or the affiliate, or by another person engaged in providing commodity interest, securities or other financial services, for at least 24 months; or
+(*ii*) Has been employed or engaged by the commodity trading advisor or the affiliate, or by another person engaged in providing commodity interest, securities or other financial services, for at least 24 months;
 
-(*5*) The spouse, child, sibling or parent of the commodity trading advisor of the exempt account or of a person who satisfies the criteria of paragraph (a)(2)(viii)(B)(*1*), (*2*), (*3*) or (*4*) of this section; *Provided,* That:
+(*5*) The spouse, child, sibling or parent of the commodity trading advisor of the exempt account or of a person who satisfies the criteria of paragraph (a)(6)(i)(K)(*1*), (*2*), (*3*), or (*4*) of this section; *Provided,* That:
 
 (*i*) The establishment of an exempt account by any such family member is made with the knowledge and at the direction of the person; and
 
-(*ii*) The family member is not a qualified eligible person for the purposes of paragraph (a)(3)(xi) of this section;
+(*ii*) The family member is not a qualified eligible person for the purposes of paragraph (a)(6)(ii)(K) of this section;
 
-(*6*)(*i*) Any person who acquires an interest in an exempt account by gift, bequest or pursuant to an agreement relating to a legal separation or divorce from a person listed in paragraph (a)(2)(viii)(B)(*1*), (*2*), (*3*), (*4*) or (*5*) of this section;
+(*6*) Any person who acquires an interest in an exempt account by gift, bequest or pursuant to an agreement relating to a legal separation or divorce from a person listed in paragraph (a)(6)(i)(K)(*1*), (*2*), (*3*), (*4*), or (*5*) of this section;
 
-(*ii*) The estate of any person listed in paragraph (a)(2)(viii)(B)(*1*), (*2*), (*3*), (*4*) or (*5*) of this section; or
+(*7*) The estate of any person listed in paragraph (a)(6)(i)(K)(*1*), (*2*), (*3*), (*4*), or (*5*) of this section; or
 
-(*iii*) A company established by any person listed in paragraph (a)(2)(viii)(B)(*1*), (*2*), (*3*), (*4*) or (*5*) of this section exclusively for the benefit of (or owned exclusively by) that person and any person listed in paragraph (a)(2)(viii)(B)(*6*)(*i*) or (*ii*) of this section;
+(*8*) A company established by any person listed in paragraph (a)(6)(i)(K)(*1*), (*2*), (*3*), (*4*), or (*5*) of this section exclusively for the benefit of (or owned exclusively by) that person and any person listed in paragraph (a)(6)(i)(K)(*6*) or (*7*) of this section;
 
-(ix) A trust; *Provided,* That:
+(L) A trust; *Provided,* That:
 
-(A) The trust was not formed for the specific purpose of either participating in the exempt pool or opening an exempt account; and
+(*1*) The trust was not formed for the specific purpose of either participating in the exempt pool or opening an exempt account; and
 
-(B) The trustee or other person authorized to make investment decisions with respect to the trust, and each settlor or other person who has contributed assets to the trust, is a qualified eligible person;
+(*2*) The trustee or other person authorized to make investment decisions with respect to the trust, and each settlor or other person who has contributed assets to the trust, is a qualified eligible person;
 
-(x) An organization described in section 501(c)(3) of the Internal Revenue Code (the “IRC”); *Provided,* That the trustee or other person authorized to make investment decisions with respect to the organization, and the person who has established the organization, is a qualified eligible person;
+(M) An organization described in section 501(c)(3) of the Internal Revenue Code (the “IRC”); *Provided,* That the trustee or other person authorized to make investment decisions with respect to the organization, and the person who has established the organization, is a qualified eligible person;
 
-(xi) A Non-United States person;
+(N) A Non-United States person;
 
-(xii)(A) An entity in which all of the unit owners or participants, other than the commodity trading advisor claiming relief under this section, are qualified eligible persons;
+(O) An entity in which all of the unit owners or participants, other than the commodity trading advisor claiming relief under this section, are qualified eligible persons;
 
-(B) An exempt pool; or
+(P) An exempt pool; or
 
-(C) Notwithstanding paragraph (a)(3) of this section, an entity as to which a notice of eligibility has been filed pursuant to § 4.5 which is operated in accordance with such rule and in which all unit owners or participants, other than the commodity trading advisor claiming relief under this section, are qualified eligible persons.
+(Q) Notwithstanding paragraph (a)(6)(ii) of this section, an entity as to which a notice of eligibility has been filed pursuant to § 4.5 which is operated in accordance with such rule and in which all unit owners or participants, other than the commodity trading advisor claiming relief under this section, are qualified eligible persons.
 
-(3) *Persons who must satisfy the Portfolio Requirement to be qualified eligible persons. Qualified eligible person* means any person who the commodity pool operator reasonably believes, at the time of the sale to that person of a pool participation in the exempt pool, or any person who the commodity trading advisor reasonably believes, at the time that person opens an exempt account, satisfies the Portfolio Requirement and is:
+(ii) *Persons who must satisfy the Portfolio Requirement to be qualified eligible persons.* With respect to the persons listed in paragraphs (a)(6)(ii)(A) through (L) of this section, the commodity pool operator must reasonably believe, at the time of the sale to such person of a participation in the exempt pool, or the commodity trading advisor must reasonably believe, at the time such person opens an exempt account, that such person satisfies the Portfolio Requirement in paragraph (a)(5) of this section:
 
-(i) An investment company registered under the Investment Company Act or a business development company as defined in section 2(a)(48) of such Act not formed for the specific purpose of either investing in the exempt pool or opening an exempt account;
+(A) An investment company registered under the Investment Company Act or a business development company as defined in section 2(a)(48) of such Act not formed for the specific purpose of either investing in the exempt pool or opening an exempt account;
 
-(ii) A bank as defined in section 3(a)(2) of the Securities Act of 1933 (the “Securities Act”) or any savings and loan association or other institution as defined in section 3(a)(5)(A) of the Securities Act acting for its own account or for the account of a qualified eligible person;
+(B) A bank as defined in section 3(a)(2) of the Securities Act of 1933 (the “Securities Act”) or any savings and loan association or other institution as defined in section 3(a)(5)(A) of the Securities Act acting for its own account or for the account of a qualified eligible person;
 
-(iii) An insurance company as defined in section 2(13) of the Securities Act acting for its own account or for the account of a qualified eligible person;
+(C) An insurance company as defined in section 2(13) of the Securities Act acting for its own account or for the account of a qualified eligible person;
 
-(iv) A plan established and maintained by a state, its political subdivisions, or any agency or instrumentality of a state or its political subdivisions, for the benefit of its employees, if such plan has total assets in excess of $5,000,000;
+(D) A plan established and maintained by a state, its political subdivisions, or any agency or instrumentality of a state or its political subdivisions, for the benefit of its employees, if such plan has total assets in excess of $5,000,000;
 
-(v) An employee benefit plan within the meaning of the Employee Retirement Income Security Act of 1974; *Provided,* That the investment decision is made by a plan fiduciary, as defined in section 3(21) of such Act, which is a bank, savings and loan association, insurance company, or registered investment adviser; or that the employee benefit plan has total assets in excess of $5,000,000; or, if the plan is self-directed, that investment decisions are made solely by persons that are qualified eligible persons;
+(E) An employee benefit plan within the meaning of the Employee Retirement Income Security Act of 1974; *Provided,* That the investment decision is made by a plan fiduciary, as defined in section 3(21) of such Act, which is a bank, savings and loan association, insurance company, or registered investment adviser; or that the employee benefit plan has total assets in excess of $5,000,000; or, if the plan is self-directed, that investment decisions are made solely by persons that are qualified eligible persons;
 
-(vi) A private business development company as defined in section 202(a)(22) of the Investment Advisers Act;
+(F) A private business development company as defined in section 202(a)(22) of the Investment Advisers Act;
 
-(vii) An organization described in section 501(c)(3) of the IRC, with total assets in excess of $5,000,000;
+(G) An organization described in section 501(c)(3) of the IRC, with total assets in excess of $5,000,000;
 
-(viii) A corporation, Massachusetts or similar business trust, or partnership, limited liability company or similar business venture, other than a pool, which has total assets in excess of $5,000,000, and is not formed for the specific purpose of either participating in the exempt pool or opening an exempt account;
+(H) A corporation, Massachusetts or similar business trust, or partnership, limited liability company or similar business venture, other than a pool, which has total assets in excess of $5,000,000, and is not formed for the specific purpose of either participating in the exempt pool or opening an exempt account;
 
-(ix) A natural person whose individual net worth, or joint net worth with that person's spouse at the time of either his purchase in the exempt pool or his opening of an exempt account would qualify him as an accredited investor as defined in § 230.501(a)(5) of this title;
+(I) A natural person whose individual net worth, or joint net worth with that person's spouse, at the time of either his purchase in the exempt pool or his opening of an exempt account would qualify him as an accredited investor as defined in § 230.501(a)(5) of this title;
 
-(x) A natural person who would qualify as an accredited investor as defined in § 203.501(a)(6) of this title;
+(J) A natural person who would qualify as an accredited investor as defined in § 230.501(a)(6) of this title;
 
-(xi) A pool, trust, insurance company separate account or bank collective trust, with total assets in excess of $5,000,000, not formed for the specific purpose of either participating in the exempt pool or opening an exempt account, and whose participation in the exempt pool or investment in the exempt account is directed by a qualified eligible person; or
+(K) A pool, trust, insurance company separate account or bank collective trust, with total assets in excess of $5,000,000, not formed for the specific purpose of either participating in the exempt pool or opening an exempt account, and whose participation in the exempt pool or investment in the exempt account is directed by a qualified eligible person; or
 
-(xii) Except as provided for the governmental entities referenced in paragraph (a)(3)(iv) of this section, if otherwise authorized by law to engage in such transactions, a governmental entity (including the United States, a state, or a foreign government) or political subdivision thereof, or a multinational or supranational entity or an instrumentality, agency, or department of any of the foregoing.
+(L) Except as provided for the governmental entities referenced in paragraph (a)(6)(ii)(D) of this section, if otherwise authorized by law to engage in such transactions, a governmental entity (including the United States, a state, or a foreign government) or political subdivision thereof, or a multinational or supranational entity or an instrumentality, agency, or department of any of the foregoing.
+
+(7) *United States* means the United States, its states, territories or possessions, or an enclave of the United States government, its agencies or instrumentalities.
 
 (b) *Relief available to commodity pool operators*—(1) *Eligibility.* Relief from specific compliance obligations is available to certain registered commodity pool operators with respect to the pool(s) they operate, provided that the registered commodity pool operator files the required notice under paragraph (d) of this section and otherwise complies with the conditions of paragraph (d) of this section in operating the exempt pool(s).
 
@@ -188,6 +184,8 @@ This section is organized as follows: Paragraph (a) contains definitions for the
 
 (iii) A commodity pool operator that meets the conditions specified in § 4.22(d)(2)(i) to present and compute the pool's financial statements contained in the Annual Report other than in accordance with generally accepted accounting principles, and has filed notice pursuant to § 4.22(d)(2)(iii), may also use the alternative accounting principles, standards or practices identified in that notice with respect to the computation and presentation of the account statement.
 
+(iv) Where the exempt pool is invested in one or more other pools or funds operated by third parties, the commodity pool operator may choose instead to prepare and distribute to its pool participants statements signed and affirmed in accordance with § 4.22(h) on a monthly basis within 45 days of the month-end; *Provided,* that the statements otherwise meet the conditions of paragraphs (b)(3)(i) and (ii) of this section, and that the commodity pool operator notifies its pool participants of this alternate distribution schedule in the exempt pool's offering memorandum distributed prior to the initial investment, or upon its adoption of this reporting schedule, for then existing pool participants.
+
 (4) *Annual report relief.* (i) Exemption from the specific requirements of § 4.22(c) of this part; *Provided,* that within 90 calendar days after the end of the exempt pool's fiscal year or the permanent cessation of trading, whichever is earlier, the commodity pool operator electronically files with the National Futures Association and distributes to each participant in lieu of the financial information and statements specified by that section, an annual report for the exempt pool, affirmed in accordance with § 4.22(h) which contains, at a minimum:
 
 (A) A Statement of Financial Condition as of the close of the exempt pool's fiscal year (elected in accordance with § 4.22(g));
@@ -200,7 +198,7 @@ This section is organized as follows: Paragraph (a) contains definitions for the
 
 (ii) *Legend.* If a claim for exemption has been made pursuant to this section, the commodity pool operator must make a statement to that effect on the cover page of each annual report.
 
-(5) *Recordkeeping relief.* Exemption from the specific requirements of § 4,23; Provided, That the commodity pool operator must maintain the reports referred to in paragraphs (b)(2) and (3) of this section and all books and records prepared in connection with his activities as the pool operator of the exempt pool (including, without limitation, records relating to the qualifications of qualified eligible persons and substantiating any performance representations). Books and records that are not maintained at the pool operator's main business office shall be maintained by one or more of the following: the pool's administrator, distributor or custodian, or a bank or registered broker or dealer acting in a similar capacity with respect to the pool. Such books and records must be made available to any representative of the Commission, the National Futures Association and the United States Department of Justice in accordance with the provisions of § 1.31.
+(5) *Recordkeeping relief.* Exemption from the specific requirements of § 4.23; *Provided,* That the commodity pool operator must maintain the offering memoranda and reports referred to in paragraphs (b)(3) and (4) of this section, and all other books and records prepared in connection with its activities as the pool operator of the exempt pool (including, without limitation, records relating to the qualifications of qualified eligible persons and substantiating any performance representations). Books and records that are not maintained at the pool operator's main business office shall be maintained by one or more of the following: the pool's administrator, distributor, or custodian, or a bank or registered broker or dealer acting in a similar capacity with respect to the pool. Such books and records must be made available to any representative of the Commission, the National Futures Association and the United States Department of Justice in accordance with the provisions of § 1.31 of this chapter.
 
 (6) If the pool operator does not maintain its books and records at its main business office, the pool operator shall:
 
@@ -292,4 +290,4 @@ This section is organized as follows: Paragraph (a) contains definitions for the
 
 (2) A transaction made in reliance on § 4.7 must comply with all applicable terms, conditions and requirements of § 4.7. Where an exemption is established only through reliance upon paragraph (e)(1) of this section, the failure to comply shall nonetheless be actionable by the Commission.
 
-[65 FR 47854, Aug. 4, 2000, as amended at 67 FR 77411, Dec. 18, 2002; 68 FR 47231, Aug. 8, 2003; 71 FR 8942, Feb. 22, 2006; 72 FR 1662, Jan. 16, 2007; 74 FR 57590, Nov. 9, 2009; 75 FR 55428, Sept. 10, 2010; 77 FR 11284, Feb. 24, 2012; 77 FR 17329, Mar. 26, 2012; 77 FR 54358, Sept. 5, 2012; 78 FR 52333, Aug. 22, 2013; 81 FR 85154, Nov. 25, 2016; 84 FR 67367, Dec. 10, 2019]
+[65 FR 47854, Aug. 4, 2000, as amended at 67 FR 77411, Dec. 18, 2002; 68 FR 47231, Aug. 8, 2003; 71 FR 8942, Feb. 22, 2006; 72 FR 1662, Jan. 16, 2007; 74 FR 57590, Nov. 9, 2009; 75 FR 55428, Sept. 10, 2010; 77 FR 11284, Feb. 24, 2012; 77 FR 17329, Mar. 26, 2012; 77 FR 54358, Sept. 5, 2012; 78 FR 52333, Aug. 22, 2013; 81 FR 85154, Nov. 25, 2016; 84 FR 67367, Dec. 10, 2019; 89 FR 78810, Sept. 26, 2024]

@@ -1,5 +1,7 @@
 ##### § 261.54 National Forest System roads. #####
 
+Link to an amendment published at 89 FR 92816, Nov. 25, 2024.
+
 When provided by an order, the following are prohibited:
 
 (a) Using any type of vehicle prohibited by the order.

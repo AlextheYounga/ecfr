@@ -1,5 +1,7 @@
 ##### § 11.901 General provisions. #####
 
+Link to an amendment published at 89 FR 93097, Nov. 25, 2024.
+
 (a) Where required by § 11.903 of this subpart, each applicant for an endorsement listed in that section must pass an examination on the appropriate subjects listed in this subpart.
 
 (b) If the endorsement is to be limited in a manner that would render any of the subject matter unnecessary or inappropriate, the examination may be amended accordingly by the Coast Guard. Limitations that may affect the examination content are as follows:

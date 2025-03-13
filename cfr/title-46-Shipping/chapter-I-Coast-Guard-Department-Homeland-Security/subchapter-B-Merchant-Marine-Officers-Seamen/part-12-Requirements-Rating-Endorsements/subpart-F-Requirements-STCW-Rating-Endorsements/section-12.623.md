@@ -1,5 +1,7 @@
 ##### § 12.623 Requirements to qualify for an STCW endorsement as Global Maritime Distress and Safety System (GMDSS) at-sea maintainer. #####
 
+Link to an amendment published at 89 FR 93105, Nov. 25, 2024.
+
 To qualify for an STCW endorsement as GMDSS at-sea maintainer, an applicant must—
 
 (a) Be not less than 18 years of age;

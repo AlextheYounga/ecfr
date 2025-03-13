@@ -1,5 +1,7 @@
 ##### § 12.503 Service or training requirements. #####
 
+Link to an amendment published at 89 FR 93101, Nov. 25, 2024.
+
 (a) An applicant for an endorsement as QMED must provide the Coast Guard with proof of qualification based on 6 months of service in a rating at least equal to that of wiper or coal passer.
 
 (b) Approved training programs may be substituted for the required periods of service as follows:

@@ -1,5 +1,7 @@
 ##### § 10.205 Validity of a merchant mariner credential. #####
 
+Link to an amendment published at 89 FR 93060, Nov. 25, 2024.
+
 (a) An MMC is valid for a term of 5 years from the date of issuance. Except upon the written request for the immediate issuance by the applicant, the Coast Guard will post-date the issuance of an MMC renewal that includes no other transactions up to 8 months from the date that the Coast Guard accepts a complete application as required in this part. If the expiration date of the mariner's active credential is beyond 8 months of the date that the Coast Guard accepts a complete application as required in this part, the new credential issue date will be 8 months from the date of application acceptance at which time the currently active credential will become invalid in accordance with paragraph (d) of this section. Otherwise, the new credential issue validity date will coincide with the expiration date of the active credential held by the mariner. All other MMC transactions will be processed for immediate issuance.
 
 (b) All endorsements, unless otherwise noted, are valid until the expiration date of the MMC on which they appear.

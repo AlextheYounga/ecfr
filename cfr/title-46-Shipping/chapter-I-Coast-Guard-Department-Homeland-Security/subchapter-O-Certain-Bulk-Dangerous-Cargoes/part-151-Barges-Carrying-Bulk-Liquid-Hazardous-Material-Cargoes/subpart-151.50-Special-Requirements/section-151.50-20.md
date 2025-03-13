@@ -8,7 +8,7 @@
 
 (b)(1) Pressure vessel type cargo tanks shall be independent of the vessel's structure and shall be designed for the maximum pressure to which they may be subjected when compressed air is used to discharge the cargo, but in no case shall the design pressure be less than that indicated as follows:
 
-Fluorosilicic Acid—50 pounds per square inch gauge.Hydrochloric Acid—50 pounds per square inch gauge.*Hydrofluorosilicic Acid, see* Fluorosilicic Acid.Phosphoric Acid—30 pounds per square inch gauge.Sulfuric Acid—50 pounds per square inch gauge.
+Fluorosilicic Acid—50 pounds per square inch gauge.Hydrochloric Acid—50 pounds per square inch gauge. *Hydrofluorosilicic Acid, see* Fluorosilicic Acid.Phosphoric Acid—30 pounds per square inch gauge. Sulfuric Acid—50 pounds per square inch gauge.
 
 (2) Pressure vessel type cargo tanks shall be of welded construction meeting the requirements for Class II or Class III given in Part 54 of this chapter.
 

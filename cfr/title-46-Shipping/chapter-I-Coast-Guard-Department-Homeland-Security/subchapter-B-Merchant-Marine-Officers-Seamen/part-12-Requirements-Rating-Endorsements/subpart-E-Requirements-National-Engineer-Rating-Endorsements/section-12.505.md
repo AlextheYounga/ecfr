@@ -1,5 +1,7 @@
 ##### § 12.505 Examination requirements. #####
 
+Link to an amendment published at 89 FR 93101, Nov. 25, 2024.
+
 (a) Before an applicant is issued an endorsement as QMED in the rating of oiler, fireman/watertender, junior engineer, pumpman/machinist, or electrician/refrigerating engineer, he or she must prove, to the satisfaction of the Coast Guard, by oral or other means of examination, his or her knowledge of the subjects listed in paragraph (c) of this section.
 
 (b) The examination, whether administered orally or by other means, must be conducted only in the English language.

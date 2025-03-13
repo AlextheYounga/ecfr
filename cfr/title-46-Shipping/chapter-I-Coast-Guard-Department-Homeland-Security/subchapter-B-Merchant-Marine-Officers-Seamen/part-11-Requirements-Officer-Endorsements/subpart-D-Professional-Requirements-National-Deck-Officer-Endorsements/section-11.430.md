@@ -1,5 +1,7 @@
 ##### § 11.430 Endorsements for the Great Lakes and inland waters. #####
 
+Link to an amendment published at 89 FR 93082, Nov. 25, 2024.
+
 (a) Any officer endorsement issued for service on Great Lakes and inland waters self-propelled vessels, excluding towing vessels, is valid on all of the inland waters of the United States as defined in § 10.107 of this subchapter.
 
 (b) Any officer endorsement issued for service on inland waters self-propelled vessels, excluding towing vessels, is valid for the inland waters of the United States, excluding the Great Lakes.

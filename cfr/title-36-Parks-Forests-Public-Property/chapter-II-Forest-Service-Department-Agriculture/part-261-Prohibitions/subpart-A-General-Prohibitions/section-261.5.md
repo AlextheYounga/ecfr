@@ -1,5 +1,7 @@
 ##### § 261.5 Fire. #####
 
+Link to an amendment published at 89 FR 92815, Nov. 25, 2024.
+
 The following are prohibited:
 
 (a) Carelessly or negligently throwing or placing any ignited substance or other substance that may cause a fire.

@@ -1,5 +1,7 @@
 ##### § 11.530 Endorsements as engineers of uninspected fishing industry vessels. #####
 
+Link to an amendment published at 89 FR 93094, Nov. 25, 2024.
+
 (a) This section applies to endorsements for chief and assistant engineers of all vessels, however propelled, which are documented to engage in the fishing industry, with the exception of—
 
 (1) Wooden ships of primitive build;

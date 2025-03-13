@@ -1,5 +1,7 @@
 ##### § 11.404 Service requirements for master of ocean or near-coastal self-propelled vessels of unlimited tonnage. #####
 
+Link to an amendment published at 89 FR 93079, Nov. 25, 2024.
+
 (a) The minimum service required to qualify an applicant for an endorsement as master of ocean or near-coastal self-propelled vessels of unlimited tonnage is—
 
 (1) One year of service as chief mate on ocean self-propelled vessels; or

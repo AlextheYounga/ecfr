@@ -1,5 +1,7 @@
 ##### § 11.329 Requirements to qualify for an STCW endorsement as Officer in Charge of an Engineering Watch (OICEW) in a manned engineroom or designated duty engineer in a periodically unmanned engineroom on vessels powered by main propulsion machinery of 750 kW/1,000 HP propulsion power or more (operational level). #####
 
+Link to an amendment published at 89 FR 93076, Nov. 25, 2024.
+
 (a) To qualify for an STCW endorsement as OICEW, an applicant must—
 
 (1) Provide evidence of seagoing service as follows:

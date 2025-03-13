@@ -1,5 +1,7 @@
 ##### § 11.903 Officer endorsements requiring examinations. #####
 
+Link to an amendment published at 89 FR 93097, Nov. 25, 2024.
+
 (a) The following officer endorsements require examinations for issuance:
 
 (1) Chief mate of ocean or near-coastal self-propelled vessels of unlimited tonnage (examined at the management level).

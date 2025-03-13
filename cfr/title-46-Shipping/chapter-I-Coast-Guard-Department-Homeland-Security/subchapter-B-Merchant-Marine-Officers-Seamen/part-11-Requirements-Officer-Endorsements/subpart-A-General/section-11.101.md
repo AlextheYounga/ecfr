@@ -1,5 +1,7 @@
 ##### § 11.101 Purpose of regulations. #####
 
+Link to an amendment published at 89 FR 93069, Nov. 25, 2024.
+
 (a) The purpose of this part is to provide—
 
 (1) A means of determining the qualifications an applicant must possess to be eligible for an officer endorsement as a staff officer, deck officer, engineer officer, pilot, or radio officer on merchant vessels, or for an endorsement to operate uninspected passenger vessels; and

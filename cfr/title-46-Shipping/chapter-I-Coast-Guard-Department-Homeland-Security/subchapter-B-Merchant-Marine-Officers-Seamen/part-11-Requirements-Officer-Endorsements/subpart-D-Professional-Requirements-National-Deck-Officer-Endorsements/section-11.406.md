@@ -1,5 +1,7 @@
 ##### § 11.406 Service requirements for second mate of ocean or near-coastal self-propelled vessels of unlimited tonnage. #####
 
+Link to an amendment published at 89 FR 93079, Nov. 25, 2024.
+
 (a) The minimum service required to qualify an applicant for an endorsement as second mate of ocean or near-coastal self-propelled vessels of unlimited tonnage is—
 
 (1) One year of service as officer in charge of a navigational watch on ocean self-propelled vessels while holding a license or endorsement as third mate; or

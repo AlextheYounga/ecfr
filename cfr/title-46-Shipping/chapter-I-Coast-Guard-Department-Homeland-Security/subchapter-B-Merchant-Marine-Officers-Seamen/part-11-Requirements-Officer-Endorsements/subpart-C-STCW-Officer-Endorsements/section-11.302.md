@@ -1,5 +1,7 @@
 ##### § 11.302 Basic training. #####
 
+Link to an amendment published at 89 FR 93070, Nov. 25, 2024.
+
 (a) Applicants seeking an STCW officer endorsement must provide evidence of meeting the standard of competence for basic training (BT) as follows:
 
 (1) Personal survival techniques as set out in Table A-VI/1-1 of the STCW Code (incorporated by reference, see § 11.102 of this part).

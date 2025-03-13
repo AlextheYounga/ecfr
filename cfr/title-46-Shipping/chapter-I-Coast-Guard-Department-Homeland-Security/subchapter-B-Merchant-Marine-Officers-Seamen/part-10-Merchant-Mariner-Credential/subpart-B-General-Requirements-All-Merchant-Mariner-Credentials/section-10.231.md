@@ -1,5 +1,7 @@
 ##### § 10.231 Requirements for raises of grade or new endorsements. #####
 
+Link to an amendment published at 89 FR 93062, Nov. 25, 2024.
+
 (a) This section applies to applicants who already hold a valid credential and want to make either of the following transactions:
 
 (1) Add a new endorsement.

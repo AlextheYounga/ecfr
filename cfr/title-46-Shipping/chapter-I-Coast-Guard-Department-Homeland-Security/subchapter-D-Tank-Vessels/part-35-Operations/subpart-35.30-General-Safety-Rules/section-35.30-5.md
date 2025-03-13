@@ -1,5 +1,7 @@
 ##### § 35.30-5 Fires, matches, and smoking—TB/ALL. #####
 
+Link to an amendment published at 89 FR 93139, Nov. 25, 2024.
+
 (a) *General.* In making the determinations required under paragraphs (b), (c), and (d) of this section the senior deck officer on duty, who shall be a licensed officer or certificated tankerman, shall exercise his skill and experience with due regard to attendant conditions and circumstances, including consideration for location of shore side facilities, maintenance of mobility, provision for fire protection, state or change of winds, tides, sea, weather conditions, forces of nature and other circumstances generally beyond human control.
 
 (b) *Boiler fires.* Boiler fires are normally permitted during cargo transfer operations: *Provided,* That prior to loading Grades A, B, and C cargoes, the senior deck officer on duty, who shall be a licensed officer or certificated tankerman, shall make an inspection to determine whether in his judgment boiler fires may be maintained with reasonable safety during the loading operation.

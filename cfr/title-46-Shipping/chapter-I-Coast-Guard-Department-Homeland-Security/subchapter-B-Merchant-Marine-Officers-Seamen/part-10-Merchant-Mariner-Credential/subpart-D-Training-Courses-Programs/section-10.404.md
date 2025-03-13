@@ -1,5 +1,7 @@
 ##### § 10.404 Substitution of training for required service, use of training-record books (TRBs), and use of towing officer assessment records (TOARs). #####
 
+Link to an amendment published at 89 FR 93068, Nov. 25, 2024.
+
 (a) *Substitution of training for required service.* (1) Satisfactory completion of an approved training course may be substituted for a portion of the required service on deck or in the engine department for national deck or engineer endorsements. Satisfactory completion of an approved training program which includes sea service may be substituted for a portion of or all of the required service on deck or in the engine department, except as limited by law for ratings. The list of all currently approved courses and programs, including the equivalent service and applicable endorsements, is maintained by the NMC.
 
 (2) Unless otherwise allowed, recency requirements may not be achieved by service granted as a result of successful completion of approved training or by training on a simulator; however, underway service obtained as a portion of an approved course or program may be used for this purpose.

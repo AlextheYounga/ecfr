@@ -1,5 +1,7 @@
 ##### 3052.209-71 Reserve Officer Training Corps and military recruiting on campus. #####
 
+Link to an amendment published at 89 FR 92849, Nov. 25, 2024.
+
 As prescribed in (HSAR) 48 CFR 3009.470-4, use the following clause:
 
 Reserve Officer Training Corps and Military Recruiting on Campus (DEC 2003)

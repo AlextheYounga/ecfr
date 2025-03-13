@@ -4,11 +4,11 @@
 
 (1) Segregation of cargo from surrounding waters (Line 1 of Table 151.05).
 
-i = Skin of vessel (single skin) only required. Cargo tank wall can be vessel's hull.ii = Double skin required. Cargo tank wall cannot be vessel's hull.NA = Nonapplicable for this case. Independent tanks already have such segregation built in through design.
+i = Skin of vessel (single skin) only required. Cargo tank wall can be vessel's hull. ii = Double skin required. Cargo tank wall cannot be vessel's hull. NA = Nonapplicable for this case. Independent tanks already have such segregation built in through design.
 
 (2) Segregation of cargo space from machinery spaces and other spaces which have or could have a source of ignition (Line 2 of Table 151.05).
 
-i = Single bulkhead only required. Tank wall can be sole separating medium.ii = Double bulkhead, required. Cofferdam, empty tank, pumproom, tank with Grade E Liquid (if compatible with cargo) is satisfactory.
+i = Single bulkhead only required. Tank wall can be sole separating medium. ii = Double bulkhead, required. Cofferdam, empty tank, pumproom, tank with Grade E Liquid (if compatible with cargo) is satisfactory.
 
 (b) [Reserved]
 

@@ -1,5 +1,7 @@
 ##### § 11.555 Assistant engineer (OSV). #####
 
+Link to an amendment published at 89 FR 93095, Nov. 25, 2024.
+
 (a) The minimum service required to qualify an applicant for an endorsement as assistant engineer (OSV) of unlimited propulsion power is—
 
 (1) Three years of service in the engineroom. Eighteen months of this service must have been as a qualified member of the engine department (QMED) or equivalent position; or

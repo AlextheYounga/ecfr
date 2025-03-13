@@ -1,5 +1,7 @@
 ##### § 35.35-20 Inspection before transfer of cargo—TB/ALL. #####
 
+Link to an amendment published at 89 FR 93140, Nov. 25, 2024.
+
 Before the transfer of liquid cargo in bulk, the person in charge of the transfer shall inspect the vessel to ensure the following:
 
 (a) Warnings are displayed as required.

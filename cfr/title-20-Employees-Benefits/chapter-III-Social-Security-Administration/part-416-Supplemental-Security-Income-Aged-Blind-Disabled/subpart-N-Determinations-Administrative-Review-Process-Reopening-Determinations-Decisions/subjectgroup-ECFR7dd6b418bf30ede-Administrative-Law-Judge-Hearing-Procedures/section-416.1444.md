@@ -1,7 +1,5 @@
 ##### § 416.1444 Administrative law judge hearing procedures—general. #####
 
-Link to an amendment published at 89 FR 68363, Aug. 26, 2024.
+A hearing is open to the parties and to other persons the administrative law judge considers necessary and proper. At the hearing, the administrative law judge looks fully into the issues, questions you and the other witnesses, and, subject to the provisions of § 416.1435, accepts as evidence any documents that are material to the issues; may stop the hearing temporarily and continue it at a later date if the administrative law judge finds that there is material evidence missing at the hearing or one or more variables outside of our control, such as audio quality or video quality, materially affects the hearing; and may reopen the hearing at any time before the administrative law judge mails a notice of the decision in order to receive new and material evidence. For purposes of this section, materially affects means prevents the hearing from proceeding. The administrative law judge may decide when the evidence will be presented and when the issues will be discussed.
 
-A hearing is open to the parties and to other persons the administrative law judge considers necessary and proper. At the hearing, the administrative law judge looks fully into the issues, questions you and the other witnesses, and, subject to the provisions of § 416.1435: Accepts as evidence any documents that are material to the issues; may stop the hearing temporarily and continue it at a later date if he or she finds that there is material evidence missing at the hearing; and may reopen the hearing at any time before he or she mails a notice of the decision in order to receive new and material evidence. The administrative law judge may decide when the evidence will be presented and when the issues will be discussed.
-
-[81 FR 90995, Dec. 16, 2016
+[89 FR 68363, Aug. 26, 2024]

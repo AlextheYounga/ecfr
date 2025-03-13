@@ -1,5 +1,7 @@
 ##### § 39.5003 Additional requirements for multi-breasted loading using an inboard barge vapor collection system—B/CLBR. #####
 
+Link to an amendment published at 89 FR 93140, Nov. 25, 2024.
+
 (a) Each barge must have at least one liquid overfill protection system that fulfills the requirements of 46 CFR 39.2009.
 
 (b) The vapor header of an inboard barge that is used during outboard barge loading must—

@@ -1,5 +1,7 @@
 ##### § 11.317 Requirements to qualify for an STCW endorsement as master of vessels of less than 500 GT limited to near-coastal waters (management level). #####
 
+Link to an amendment published at 89 FR 93073, Nov. 25, 2024.
+
 (a) To qualify for an STCW endorsement as master, an applicant must—
 
 (1) Provide evidence of 12 months of service as OICNW, on vessels operating in oceans, near-coastal waters, and/or Great Lakes. Service on inland waters, bays, or sounds that are navigable waters of the United States may be substituted for up to 50 percent of the total required service. Experience gained in the engine department on vessels may be creditable for up to 1 month of the service requirements;

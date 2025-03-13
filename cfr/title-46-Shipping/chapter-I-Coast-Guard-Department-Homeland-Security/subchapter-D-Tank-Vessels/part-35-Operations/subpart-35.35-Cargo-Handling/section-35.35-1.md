@@ -1,5 +1,7 @@
 ##### § 35.35-1 Persons on duty—TB/ALL. #####
 
+Link to an amendment published at 89 FR 93139, Nov. 25, 2024.
+
 (a) On each tankship required to be documented under the laws of the United States, the owner, managing operator, master, and person in charge of the vessel, and each of them, shall ensure that—
 
 (1) Enough “Tankerman-PICs” or restricted “Tankerman-PICs”, and “Tankerman-Assistants”, authorized for the classification of cargo carried, are on duty to safely transfer liquid cargo in bulk or safely clean cargo tanks; and

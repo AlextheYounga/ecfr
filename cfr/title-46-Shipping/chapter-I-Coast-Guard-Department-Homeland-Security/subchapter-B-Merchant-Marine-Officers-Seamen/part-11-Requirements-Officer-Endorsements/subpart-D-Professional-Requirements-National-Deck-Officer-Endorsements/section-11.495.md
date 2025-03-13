@@ -1,5 +1,7 @@
 ##### § 11.495 Chief mate (OSV). #####
 
+Link to an amendment published at 89 FR 93092, Nov. 25, 2024.
+
 (a) The minimum service required to qualify an applicant for an endorsement as chief mate (OSV) of offshore supply vessels less than 1,600 GRT/3,000 GT is 12 months of total service as mate, chief mate, or master of ocean or near-coastal and/or Great Lakes on self-propelled vessels of more than 100 GRT. Service on inland waters may substitute for up to 50 percent of the required service.
 
 (b) The minimum service required to qualify an applicant for as chief mate (OSV) of 1,600 GRT/3,000 GT or more is 12 months of total service as mate, chief mate, or master of ocean or near-coastal and/or Great Lakes on self-propelled vessels of more than 100 GRT. At least one-half of the required experience must be obtained on vessels of 1,600 GRT/3,000 GT or more.

@@ -31,7 +31,7 @@
 
 (2) For years after 1950, the average of the total wages is as prescribed in § 404.211(c). If a worker has earnings in the year preceding the year of eligibility or death, or in a later year, we may not have been able to establish the average of the total wages of all workers for that year. Therefore, we will divide a worker's actual earnings in these years by the average of the total wages for the latest year for which that information is available. Average wage information is considered available on January 1 of the year following the year in which it is published in the Federal Register.
 
-(3) The percentages for all years of actual covered earnings are then averaged to give the worker's REP for the entire period of work in the U.S. In determining the percentages for all years of covered earnings and the REP, we make adjustments as necessary to take account of the fact that the covered earnings for some years may have involved less than four U.S. QC's. The actual earnings that are taken into account in determining the percentage for any year with 1, 2, or 3 QC's cannot exceed1/4,1/2, or3/4, respectively, of the maximum creditable earnings for that year. When we determine the REP from the percentages for all years, we add the percentages for all years, divide this sum by the total number of QC's credited to the worker, and multiply this quotient by 4 (see Example 1 of paragraph (d) of this section). This has the effect of calculating the REP on a quarterly basis.
+(3) The percentages for all years of actual covered earnings are then averaged to give the worker's REP for the entire period of work in the U.S. In determining the percentages for all years of covered earnings and the REP, we make adjustments as necessary to take account of the fact that the covered earnings for some years may have involved less than four U.S. QC's. The actual earnings that are taken into account in determining the percentage for any year with 1, 2, or 3 QC's cannot exceed 1/4, 1/2, or 3/4, respectively, of the maximum creditable earnings for that year. When we determine the REP from the percentages for all years, we add the percentages for all years, divide this sum by the total number of QC's credited to the worker, and multiply this quotient by 4 (see Example 1 of paragraph (d) of this section). This has the effect of calculating the REP on a quarterly basis.
 
 (4) For each of the worker's computation base years (see §§ 404.211(b), 404.221(b) and 404.241(c)), we multiply the average of the total wages of all workers for that year by the worker's REP. The product is the amount of earnings attributed to the worker for that year, subject to the annual wage limitation (see § 404.1047). The worker's theoretical earnings record consists of his or her attributed earnings based on his or her REP for all computation base years. However, we do not attribute earnings to computation base years before the year of attainment of age 22 or to computation base years beginning with the year of attainment of retirement age (or the year in which a period of disability begins), unless the worker is actually credited with U.S. earnings in those years. In death cases, earnings for the year of death will be attributed only through the quarter of death, on a proportional basis.
 
@@ -101,22 +101,22 @@ Since C attained age 62 in 1982, his computation base years are 1951 through 198
 
 *Step 3:* Compute the pro rata PIA:
 
-|                       |                 Theoretical PIA                 |   |
-|-----------------------|-------------------------------------------------|---|
-|                       |               − Actual U.S. QC's                |   |
-|                       |              calendar quarters in               |   |
-|                       |            benefit computation years            |   |
-|                       |                                                 |   |
-|                       |                                                 |   |
-|                       |$453 − 26 QC's (6<sup>1</sup>⁄<sub>2</sub> years)|   |
-|                       |             104 quarters (26 years)             |   |
-|                       |                                                 |   |
-|                       |                                                 |   |
-|\= $113.20 pro rata PIA|                                                 |   |
+|                       |      Theoretical PIA      |   |
+|-----------------------|---------------------------|---|
+|                       |    − Actual U.S. QC's     |   |
+|                       |   calendar quarters in    |   |
+|                       | benefit computation years |   |
+|                       |                           |   |
+|                       |                           |   |
+|                       |$453 − 26 QC's (61/2 years)|   |
+|                       |  104 quarters (26 years)  |   |
+|                       |                           |   |
+|                       |                           |   |
+|\= $113.20 pro rata PIA|                           |   |
 
 Example 2:M needs 27 QC's to be insured, but she has only 3 years of work (12 QC's) under the U.S. system. M has enough foreign work, however, to be insured. She attained age 62 in 1978, and her U.S. covered earnings were in 1947, 1948 and 1949. Based on M's date of birth, her theoretical PIA can be computed, in accordance with § 404.220, under a new start method. If M's earnings in 1947, 1948, and 1949 were 50 percent, 60 percent and 70 percent, respectively, of the average wage for each year, her REP would be 60 percent. For each year in the computation period, 60 percent of the average wage for that year will be attributed as M's assumed earnings. The theoretical PIA will then be computed as described in §§ 404.220 through 404.222.
 
-To determine M's pro rata PIA, the theoretical PIA will be multiplied by the ratio of the actual number of U.S. QC's to the number of calendar quarters in the benefit computation years. There are 22 benefit computation years, or 88 quarters. The pro rata PIA would, therefore, be12/88 × theoretical PIA.
+To determine M's pro rata PIA, the theoretical PIA will be multiplied by the ratio of the actual number of U.S. QC's to the number of calendar quarters in the benefit computation years. There are 22 benefit computation years, or 88 quarters. The pro rata PIA would, therefore, be 12/88 × theoretical PIA.
 
 (e) *Rounding of benefits.* (1) If the effective date of the pro rata PIA is before June 1982, we will round to the next higher multiple of 10 cents if it is not already a multiple of 10 cents.
 

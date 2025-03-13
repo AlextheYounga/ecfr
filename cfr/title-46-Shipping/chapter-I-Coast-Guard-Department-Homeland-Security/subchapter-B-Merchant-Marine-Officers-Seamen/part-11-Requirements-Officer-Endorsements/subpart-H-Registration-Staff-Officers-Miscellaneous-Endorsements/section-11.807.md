@@ -1,5 +1,7 @@
 ##### § 11.807 Experience requirements for registry. #####
 
+Link to an amendment published at 89 FR 93097, Nov. 25, 2024.
+
 (a) The applicant for a certificate of registry as staff officer must submit evidence of experience as follows:
 
 (1) *Chief purser.* Two years of service aboard vessels performing duties relating to work in the purser's office.

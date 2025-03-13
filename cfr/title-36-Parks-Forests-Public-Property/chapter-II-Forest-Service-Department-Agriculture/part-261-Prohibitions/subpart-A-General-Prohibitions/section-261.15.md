@@ -1,5 +1,7 @@
 ##### § 261.15 Use of vehicles off roads. #####
 
+Link to an amendment published at 89 FR 92816, Nov. 25, 2024.
+
 It is prohibited to operate any vehicle off National Forest System, State or County roads:
 
 (a) Without a valid license as required by State law.

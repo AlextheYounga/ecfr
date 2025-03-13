@@ -1,5 +1,7 @@
 ##### § 11.467 Requirements for a national endorsement as operator of uninspected passenger vessels of less than 100 GRT. #####
 
+Link to an amendment published at 89 FR 93089, Nov. 25, 2024.
+
 (a) This section applies to an applicant for the endorsement to operate an uninspected vessel of less than 100 GRT, equipped with propulsion machinery of any type, carrying six or fewer passengers.
 
 (b) An endorsement as OUPV for near-coastal waters limits the holder to service on domestic, near-coastal waters not more than 100 miles offshore, the Great Lakes, and all inland waters. Endorsements issued for inland waters include all inland waters except the Great Lakes. Endorsements may be issued for a particular local area under paragraph (f) or paragraph (g) of this section.

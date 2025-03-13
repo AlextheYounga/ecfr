@@ -182,4 +182,4 @@ The Environmental Protection Agency designates hazardous substances in 40 CFR Ta
 
 *Venting system* means a permanent piping arrangement leading from a cargo tank and used to control the flow of vapor to and from the tank.
 
-[CGD 73-96, 42 FR 49027, Sept. 26, 1977]Editorial Note:For Federal Register citations affecting § 153.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[CGD 73-96, 42 FR 49027, Sept. 26, 1977] Editorial Note:For Federal Register citations affecting § 153.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

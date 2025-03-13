@@ -2,7 +2,7 @@
 
 (a) Except as provided in this section, each sailing school vessel must meet the intact stability requirements in §§ 170.170, 171.050, and 171.055 of this chapter.
 
-(b) In applying the requirements in §§ 170.170 and 171.050 of this subchapter, the value of “T” is equal to the angle of heel at which the deck edge is immersed or1/3 of the downflooding angle, whichever is less.
+(b) In applying the requirements in §§ 170.170 and 171.050 of this subchapter, the value of “T” is equal to the angle of heel at which the deck edge is immersed or 1/3 of the downflooding angle, whichever is less.
 
 (c) In applying the requirements of § 171.055(d) (1) and (2) of this subchapter—
 

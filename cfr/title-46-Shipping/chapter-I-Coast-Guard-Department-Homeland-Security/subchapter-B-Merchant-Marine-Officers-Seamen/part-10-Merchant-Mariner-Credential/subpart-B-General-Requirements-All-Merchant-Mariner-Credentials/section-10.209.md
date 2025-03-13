@@ -1,5 +1,7 @@
 ##### § 10.209 General application procedures. #####
 
+Link to an amendment published at 89 FR 93060, Nov. 25, 2024.
+
 (a) The applicant for an MMC, whether for an original, renewal, duplicate, raise of grade, or a new endorsement on a previously issued MMC, must establish that he or she satisfies all the requirements for the MMC and endorsement(s) sought before the Coast Guard will issue the MMC. This section contains the general requirements for all applicants. Additional requirements for duplicates, renewals, new endorsements, and raises of grade appear later in this part.
 
 (b) The Coast Guard may refuse to process an incomplete MMC application. The requirements for a complete application for an original MMC are contained in § 10.225 of this part, the requirements for a renewal MMC application are contained in § 10.227 of this part, the requirements for a duplicate MMC application are contained in § 10.229 of this part, and the requirements for an application for a new endorsement or raise of grade are contained in § 10.231 of this part.

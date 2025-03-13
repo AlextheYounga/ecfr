@@ -14,6 +14,6 @@ Subcategory 1.3—Subscriber or common lines that are jointly used for local exc
 
 (d)-(f) [Reserved]
 
-(g) Effective July 1, 2001, through December 31, 2024, all study areas shall apportion Subcategory 1.3 Exchange Line C&WF among the jurisdictions as specified in paragraph (c) of this section. Direct assignment of subcategory Categories 1.1 and 1.2 Exchange Line C&WF to the jurisdictions shall be updated annually as specified in paragraph (b) of this section.
+(g) Effective July 1, 2001, through December 31, 2030, all study areas shall apportion Subcategory 1.3 Exchange Line C&WF among the jurisdictions as specified in paragraph (c) of this section. Direct assignment of subcategory Categories 1.1 and 1.2 Exchange Line C&WF to the jurisdictions shall be updated annually as specified in paragraph (b) of this section.
 
-[52 FR 17229, May 6, 1987, as amended at 53 FR 33012, Aug. 29, 1988; 54 FR 31033, July 26, 1989; 66 FR 33206, June 21, 2001; 67 FR 17014, Apr. 9, 2002; 71 FR 65746, Nov. 9, 2006; 75 FR 30301, June 1, 2010; 76 FR 30841, May 27, 2011; 79 FR 36237, June 26, 2014; 83 FR 63585, Dec. 11, 2018]
+[52 FR 17229, May 6, 1987, as amended at 53 FR 33012, Aug. 29, 1988; 54 FR 31033, July 26, 1989; 66 FR 33206, June 21, 2001; 67 FR 17014, Apr. 9, 2002; 71 FR 65746, Nov. 9, 2006; 75 FR 30301, June 1, 2010; 76 FR 30841, May 27, 2011; 79 FR 36237, June 26, 2014; 83 FR 63585, Dec. 11, 2018; 89 FR 92845, Nov. 25, 2024]

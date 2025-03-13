@@ -33,7 +33,7 @@ and duly authorized for assigning purposes under the provisions of the Conventio
 
 (All measurements are to upper edge of the respective horizontal lines)
 
-The upper edge of the deck line from which these freeboards are measured is \_\_\_\_ inches above or below the top of the \_\_\_\_ deck at side; i.e., freeboard1 deck.
+The upper edge of the deck line from which these freeboards are measured is \_\_\_\_ inches above or below the top of the \_\_\_\_ deck at side; i.e., freeboard 1 deck.
 
 ![](/graphics/ec01fe91.004.gif)
 
@@ -45,11 +45,11 @@ This certificate is valid until \_\_\_\_\_\_\_\_,2 subject to annual surveys in 
 
 Issued at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Place of issue of certificate), \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_ (Date of issue)
 
-(Signature of official issuing the certificate)[Seal of issuingauthority]
+(Signature of official issuing the certificate)[Seal of issuing authority]
 
 The undersigned declares that he is duly authorized by the said Government to issue this certificate.
 
-(Signature)notes
+(Signature) notes
 
 1. When a ship departs from a port situated on a river or inland waters, deeper loading shall be permitted corresponding to the weight of fuel and all other materials required for consumption between the point of departure and the sea.
 
@@ -109,7 +109,7 @@ notes
 
 (c) The text and arrangement of the printed portion of Form *A2* shall be identical with the information on the face and reverse sides of Form *A1* certificate in paragraph (b) of this section except for the identification of model form, description of the “Freeboard from deck line,” the “Load Line,” and the illustration of load line marks, which shall be as follows:
 
-International Load Line Certificate (1966)[Form *A2*]\* \* \* \* \* \* \*
+International Load Line Certificate (1966)[Form *A2*] \* \* \* \* \* \* \*
 
 |                                            |FREEBOARD FROM DECK LINE|     |                                    LOAD LINE                                    |
 |--------------------------------------------|------------------------|-----|---------------------------------------------------------------------------------|
@@ -121,7 +121,7 @@ International Load Line Certificate (1966)[Form *A2*]\* \* \* \* \* \* \*
 
 (All measurements are to upper edge of the respective horizontal lines)
 
-The upper edge of the deck line from which these freeboards are measured is \_\_\_\_ inches above or below the top of the \_\_\_\_\_\_\_\_ deck at side; i.e., freeboard1 deck.
+The upper edge of the deck line from which these freeboards are measured is \_\_\_\_ inches above or below the top of the \_\_\_\_\_\_\_\_ deck at side; i.e., freeboard 1 deck.
 
 ![](/graphics/ec01fe91.005.gif)\* \* \* \* \* \* \*
 
@@ -148,7 +148,7 @@ The timber freeboards given in this certificate are applicable only when this sh
 
 (All measurements are to upper edge of the respective horizontal lines)
 
-The upper edge of the deck line from which these freeboards are measured is \_\_\_\_ inches above or below the top of the \_\_\_\_\_\_\_\_ deck at side; i.e., freeboard1 deck.
+The upper edge of the deck line from which these freeboards are measured is \_\_\_\_ inches above or below the top of the \_\_\_\_\_\_\_\_ deck at side; i.e., freeboard 1 deck.
 
 ![](/graphics/ec01fe91.006.gif)\* \* \* \* \* \* \*
 
@@ -187,7 +187,7 @@ This certificate is valid until \_\_\_\_\_\_\_\_,2 subject, where appropriate, t
 
 Issued at
 
-(Place of issue of certificate) (Date of issue)(Signature of official issuing the certificate)[Seal of issuingauthority]
+(Place of issue of certificate) (Date of issue)(Signature of official issuing the certificate)[Seal of issuing authority]
 
 The undersigned declares that he is duly authorized by the said Government to issue this certificate.
 

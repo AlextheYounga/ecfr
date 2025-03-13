@@ -1,5 +1,7 @@
 ##### § 35.01-55 Pilot boarding operation. #####
 
+Link to an amendment published at 89 FR 93138, Nov. 25, 2024.
+
 (a) The master shall ensure that pilot boarding equipment is maintained as follows:
 
 (1) The equipment must be kept clean and in good working order.

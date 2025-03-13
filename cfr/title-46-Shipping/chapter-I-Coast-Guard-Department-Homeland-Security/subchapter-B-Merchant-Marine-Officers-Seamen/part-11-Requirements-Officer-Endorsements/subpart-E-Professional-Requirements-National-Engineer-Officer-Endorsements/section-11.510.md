@@ -1,5 +1,7 @@
 ##### § 11.510 Service requirements for national endorsement as chief engineer of steam, motor, and/or gas turbine-propelled vessels. #####
 
+Link to an amendment published at 89 FR 93093, Nov. 25, 2024.
+
 (a) The minimum service required to qualify an applicant for endorsement as chief engineer of steam, motor, and/or gas turbine-propelled vessels is—
 
 (1) One year of service as first assistant engineer; or

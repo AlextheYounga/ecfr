@@ -1,5 +1,7 @@
 ##### § 12.611 Requirements to qualify for an STCW endorsement as electro-technical rating (ETR) on vessels powered by main propulsion machinery of 750 kW/1,000 HP or more. #####
 
+Link to an amendment published at 89 FR 93104, Nov. 25, 2024.
+
 (a) To qualify for an STCW endorsement as an electro-technical rating, an applicant must—
 
 (1) Be not less than 18 years of age;

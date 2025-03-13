@@ -1,0 +1,5 @@
+##### § 81.12 Submission of reports to the “Cyber Tipline” at the National Center for Missing and Exploited Children. #####
+
+(a) When a provider of electronic communications services or remote computing services to the public (“provider”) obtains knowledge of facts or circumstances concerning an apparent violation of Federal child pornography statutes designated by 42 U.S.C. 13032(b)(1), it shall, as soon as reasonably possible, report all such facts or circumstances to the “Cyber Tipline” at the National Center for Missing and Exploited Children Web site (*http://www.CyberTipline.com*), which contains a reporting form for use by providers.
+
+(b) A provider should initially call the National Center for Missing and Exploited Children to receive an identification number and a password that will enable it to log on to the section of the “Cyber Tipline” that is designed for provider reporting.

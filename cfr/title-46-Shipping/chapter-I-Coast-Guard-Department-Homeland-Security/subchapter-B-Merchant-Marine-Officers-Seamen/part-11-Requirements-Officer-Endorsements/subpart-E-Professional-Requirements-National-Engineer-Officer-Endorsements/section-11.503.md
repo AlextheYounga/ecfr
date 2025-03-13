@@ -1,5 +1,7 @@
 ##### § 11.503 Propulsion power limitations for national endorsements. #####
 
+Link to an amendment published at 89 FR 93093, Nov. 25, 2024.
+
 (a) Engineer endorsements of all grades and types may be subject to propulsion power limitations. Other than as provided in § 11.524 of this subpart for the designated duty engineer (DDE), the propulsion power limitation placed on a license or MMC endorsement is based on the applicant's qualifying experience considering the total shaft propulsion power of each vessel on which the applicant has served.
 
 (b) When an applicant for an original or raise of grade of an engineer endorsement, other than a DDE, has not obtained at least 50 percent of the required experience on vessels of 4,000 HP/3,000 kW or more, a propulsion power limitation is placed on the MMC based on the applicant's qualifying experience. The endorsement is limited to the maximum propulsion power on which at least 25 percent of the required experience was obtained, or 150 percent of the maximum propulsion power on which at least 50 percent of the service was obtained, whichever is higher. Limitations are in multiples of 1,000 HP/750 kW, using the next higher figure when an intermediate horsepower is calculated. When the limitation as calculated equals or exceeds 10,000 HP/7,500 kW, an unlimited propulsion power endorsement is issued.

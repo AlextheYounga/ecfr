@@ -1,5 +1,7 @@
 ##### § 10.403 General standards. #####
 
+Link to an amendment published at 89 FR 93067, Nov. 25, 2024.
+
 (a) Each school with an approved course must—
 
 (1) Have a well-maintained facility that accommodates the students in a safe and comfortable environment conducive to learning;

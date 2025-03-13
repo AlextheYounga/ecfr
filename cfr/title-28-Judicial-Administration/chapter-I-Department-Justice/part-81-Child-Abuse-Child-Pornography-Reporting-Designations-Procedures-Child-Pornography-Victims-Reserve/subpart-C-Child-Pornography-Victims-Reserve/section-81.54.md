@@ -1,0 +1,7 @@
+##### § 81.54 Submission of requests to the Department. #####
+
+(a) Requests submitted to the Department must be submitted in the form and manner, and supported by documentation, specified from time to time by the Department. The Department's website will contain directions on how to access the claims system for defined monetary assistance.
+
+(b) Requests may be submitted to the Department at any time. The Department may decline to present to a court any application based on a request that duplicates a previously received request. A request duplicates a previously received request if it is submitted by or in connection with the same claimant and is premised on the same conduct as the previously received request. If a claimant obtains new information relevant to a claim after submitting a request, the claimant should amend that request rather than submitting a new request. If the Department has already returned the request to the claimant, the claimant may submit a new request, so long as such request contains material, additional information supporting the claimant's eligibility for defined monetary assistance.
+
+(c) If a claimant is represented by an authorized representative, the request to the Department and any supporting information may be submitted to the Department by that authorized representative. The authorized representative must submit a separate request on behalf of each represented claimant.

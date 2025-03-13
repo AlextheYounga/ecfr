@@ -1,3 +1,5 @@
 ##### § 12.705 Endorsements for persons enrolled in a Maritime Administration-approved training program. #####
 
+Link to an amendment published at 89 FR 93105, Nov. 25, 2024.
+
 MMCs issued to individuals obtaining sea service as part of an approved training curriculum while enrolled at either the United States Merchant Marine Academy or a deck or engineering class of a Maritime Academy approved by and conducted under the rules prescribed by the Maritime Administrator and listed in 46 CFR Part 310 will include an endorsement of cadet (deck) or cadet (engine), as appropriate, and lifeboatman. Individuals obtaining sea service as part of such an approved training curriculum must do so in the capacity of cadet (deck) or cadet (engine), as appropriate, notwithstanding any other rating endorsements the individual may hold or any other capacity in which the individual may have previously served.

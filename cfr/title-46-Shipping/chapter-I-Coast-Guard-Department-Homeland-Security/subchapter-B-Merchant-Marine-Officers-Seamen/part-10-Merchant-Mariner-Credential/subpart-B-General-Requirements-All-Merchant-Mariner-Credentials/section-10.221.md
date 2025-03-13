@@ -1,5 +1,7 @@
 ##### § 10.221 Citizenship. #####
 
+Link to an amendment published at 89 FR 93060, Nov. 25, 2024.
+
 (a)(1) *MMCs with officer Endorsements.* Only individuals with valid U.S. citizenship may apply for officer endorsements, except individuals applying for endorsements as operators of uninspected passenger vessels authorizing service on undocumented vessels in accordance with § 11.201(d) of this subchapter.
 
 (2) *All other MMCs.* All other applicants, except as noted in § 12.809 of this subchapter, must be either:

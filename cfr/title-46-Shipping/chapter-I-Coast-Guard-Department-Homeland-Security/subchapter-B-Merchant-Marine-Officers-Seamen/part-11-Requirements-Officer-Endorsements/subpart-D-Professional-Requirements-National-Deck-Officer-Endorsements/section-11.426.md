@@ -1,5 +1,7 @@
 ##### § 11.426 Requirements for master of near-coastal self-propelled vessels of less than 200 GRT. #####
 
+Link to an amendment published at 89 FR 93082, Nov. 25, 2024.
+
 (a) The minimum service required to qualify for a master of near-coastal self-propelled vessels of less than 200 GRT is—
 
 (1) Two years total service on ocean or near-coastal waters. Service on Great Lakes and inland waters may substitute for up to 1 year of the required service. One year of the required service must have been as a master, mate, or equivalent position while holding a license or endorsement as master, mate, or operator of uninspected passenger vessels; or

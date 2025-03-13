@@ -1,5 +1,7 @@
 ##### 3025.7002-2 Exceptions. #####
 
+Link to an amendment published at 89 FR 92852, Nov. 25, 2024.
+
 Acquisitions in the following categories are not subject to the restrictions in (HSAR) 48 CFR 3025.7002-1:
 
 (a) Acquisitions at or below the simplified acquisition threshold.

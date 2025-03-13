@@ -1,5 +1,7 @@
 ##### § 11.463 General requirements for national endorsements as master, mate (pilot), and apprentice mate (steersman) of towing vessels. #####
 
+Link to an amendment published at 89 FR 93085, Nov. 25, 2024.
+
 (a) The Coast Guard issues the following endorsements for towing vessels:
 
 (1) Master of towing vessels.

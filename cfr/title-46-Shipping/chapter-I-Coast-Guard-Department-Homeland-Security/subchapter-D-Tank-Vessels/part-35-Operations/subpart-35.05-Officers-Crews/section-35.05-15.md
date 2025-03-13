@@ -1,5 +1,7 @@
 ##### § 35.05-15 Tank vessel security—TB/ALL. #####
 
+Link to an amendment published at 89 FR 93138, Nov. 25, 2024.
+
 (a) *Manned tank vessel.* At least one member of the crew of a manned tank vessel shall be on board at all times except when the vessel is gas free or is moored at a dock or terminal at which watchman service is provided.
 
 (b) *Unmanned barge.* (1) The owner, managing operator, master, and person in charge of a vessel towing a tank barge that need not be manned, and each of them, shall be responsible for monitoring the security and integrity of the tank barge and for ensuring adherence to proper safety precautions. These responsibilities include, but are not limited to—

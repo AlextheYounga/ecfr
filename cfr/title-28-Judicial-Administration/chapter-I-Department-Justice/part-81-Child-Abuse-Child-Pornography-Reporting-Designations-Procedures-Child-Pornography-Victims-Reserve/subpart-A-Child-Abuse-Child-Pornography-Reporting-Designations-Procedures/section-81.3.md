@@ -1,0 +1,3 @@
+##### § 81.3 Designation of Federal Bureau of Investigation. #####
+
+For federal lands, federally operated facilities, or federally contracted facilities where no agency qualifies for designation under § 81.2, the Federal Bureau of Investigation is hereby designated as the agency to receive and investigate reports of child abuse made pursuant to 42 U.S.C. 13031 until such time as another agency qualifies as a designated agency under § 81.2.

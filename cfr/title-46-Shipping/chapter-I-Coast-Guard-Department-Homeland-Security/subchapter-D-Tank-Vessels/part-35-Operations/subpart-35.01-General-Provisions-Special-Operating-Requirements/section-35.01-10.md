@@ -1,3 +1,5 @@
 ##### § 35.01-10 Shipping papers—TB/ALL. #####
 
+Link to an amendment published at 89 FR 93137, Nov. 25, 2024.
+
 Each loaded tank vessel shall have on board a bill of lading, manifest, or shipping document giving the name of the consignee and the location of the delivery point, the kind, grades, and approximate quantity of each kind and grade of cargo, and for whose account the cargo is being handled. The tank vessel shall not be delayed in order to secure exact quantities of cargo. Such manifests or bills of lading may be made out by the master, master of the towing vessel, owner, or agent of the owner: *Provided, however,* That in the case of unmanned barges where shipping papers are not available, an entry in the logbook of the towing vessel giving the name of the shipper and location of shipping point, the name of the consignee and location of delivery point, the approximate kind, grade, and quantity of cargo in each barge of the tow, and for whose account the cargo is being handled, shall be considered as complying with the requirements of this section.

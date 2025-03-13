@@ -1,5 +1,7 @@
 ##### § 11.709 Annual physical examination requirements. #####
 
+Link to an amendment published at 89 FR 93096, Nov. 25, 2024.
+
 (a) This section applies only to an individual who pilots a vessel of 1,600 GRT or more.
 
 (b) Every person holding an MMC endorsement as first-class pilot, or a master or mate serving as a pilot under § 15.812 of this subchapter, must have a thorough physical examination each year. This annual physical examination must be completed by the first day of the month following the anniversary of the individual's most recently completed Coast Guard-required physical examination. Each annual physical examination must meet the requirements specified in 46 CFR, part 10, subpart C, and be recorded on the form CG-719K.

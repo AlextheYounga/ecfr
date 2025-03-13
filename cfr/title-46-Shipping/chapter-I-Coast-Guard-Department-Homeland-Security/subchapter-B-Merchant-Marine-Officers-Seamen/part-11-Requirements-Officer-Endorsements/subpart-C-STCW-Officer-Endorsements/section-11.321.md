@@ -1,5 +1,7 @@
 ##### § 11.321 Requirements to qualify for an STCW endorsement as officer in charge of a navigational watch (OICNW) of vessels of less than 500 GT limited to near-coastal waters (operational level). #####
 
+Link to an amendment published at 89 FR 93074, Nov. 25, 2024.
+
 (a) To qualify for an STCW endorsement as OICNW, an applicant must—
 
 (1) Provide evidence of seagoing service as follows:

@@ -1,5 +1,7 @@
 ##### § 11.553 Chief engineer (OSV). #####
 
+Link to an amendment published at 89 FR 93095, Nov. 25, 2024.
+
 (a) The minimum service required to qualify an applicant for an endorsement as chief engineer (OSV) is 4 years of total service in the engineroom of vessels. One year of this service must have been as an engineer officer while holding an engineer officer endorsement. Two years of the service must have been as a qualified member of the engine department or equivalent position.
 
 (b) If an applicant has not obtained at least 50 percent of the required experience on vessels of 4,000 HP/3,000 kW or more, a propulsion power limitation is placed on the MMC based on the applicant's qualifying experience. The endorsement is limited to the maximum propulsion power on which at least 25 percent of the required experience was obtained, or 150 percent of the maximum propulsion power on which at least 50 percent of the service was obtained, whichever is higher. Limitations are in multiples of 1,000 HP/750 kW, using the next higher figure when an intermediate propulsion power is calculated. When the limitation as calculated equals or exceeds 10,000 HP/7,500 kW, an unlimited propulsion power endorsement is issued.

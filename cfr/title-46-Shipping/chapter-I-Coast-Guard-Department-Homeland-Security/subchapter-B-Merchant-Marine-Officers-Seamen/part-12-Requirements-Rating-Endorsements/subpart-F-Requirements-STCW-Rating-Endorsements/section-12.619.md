@@ -1,5 +1,7 @@
 ##### § 12.619 Requirements to qualify for an STCW endorsement as medical first-aid provider. #####
 
+Link to an amendment published at 89 FR 93105, Nov. 25, 2024.
+
 (a) To qualify for an STCW endorsement as medical first-aid provider, an applicant must—
 
 (1) Provide evidence of successful completion of an approved course in medical first aid; and

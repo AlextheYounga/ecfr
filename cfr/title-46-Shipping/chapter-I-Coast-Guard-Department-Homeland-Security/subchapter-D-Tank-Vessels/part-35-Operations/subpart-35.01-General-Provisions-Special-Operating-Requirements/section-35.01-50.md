@@ -1,5 +1,7 @@
 ##### § 35.01-50 Special operating requirements for tank barges carrying certain dangerous bulk cargoes—B/ALL. #####
 
+Link to an amendment published at 89 FR 93137, Nov. 25, 2024.
+
 (a) The requirements of this section shall apply to all tank barges carrying those cargoes listed on table 30.25-1, of this chapter, which are defined as:
 
 (1) Flammable liquids having a Reid vapor pressure in excess of 25 pounds per square inch, absolute, in independent tanks (part 32 of this subchapter).

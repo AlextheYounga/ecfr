@@ -1,5 +1,7 @@
 ##### § 12.601 General requirements for STCW rating endorsements. #####
 
+Link to an amendment published at 89 FR 93102, Nov. 25, 2024.
+
 (a) *General.* An applicant for any STCW endorsement must hold the appropriate national endorsement, unless otherwise specified. The Coast Guard will issue an STCW endorsement to qualified applicants for any of the following ratings or qualifications:
 
 (1) Able seafarer-deck.

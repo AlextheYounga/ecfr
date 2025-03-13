@@ -1,5 +1,7 @@
 ##### § 261.58 Occupancy and use. #####
 
+Link to an amendment published at 89 FR 92816, Nov. 25, 2024.
+
 When provided by an order, the following are prohibited:
 
 (a) Camping for a period longer than allowed by the order.

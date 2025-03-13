@@ -1,5 +1,7 @@
 ##### § 10.225 Requirements for original merchant mariner credentials. #####
 
+Link to an amendment published at 89 FR 93061, Nov. 25, 2024.
+
 (a) An applicant must apply as an original if the MMC sought is—
 
 (1) The first credential issued to the applicant;

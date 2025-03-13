@@ -1,5 +1,7 @@
 ##### § 11.497 Mate (OSV). #####
 
+Link to an amendment published at 89 FR 93092, Nov. 25, 2024.
+
 (a) The minimum service required to qualify an applicant for an endorsement as mate (OSV) of offshore supply vessels is—
 
 (1) Twenty-four months of total service in the deck department of ocean or near-coastal self-propelled, sail, or auxiliary sail vessels. Service on Great Lakes and inland waters may substitute for up to 1 year of the required service. One year of the required service must have been on vessels of more than 100 GRT; or

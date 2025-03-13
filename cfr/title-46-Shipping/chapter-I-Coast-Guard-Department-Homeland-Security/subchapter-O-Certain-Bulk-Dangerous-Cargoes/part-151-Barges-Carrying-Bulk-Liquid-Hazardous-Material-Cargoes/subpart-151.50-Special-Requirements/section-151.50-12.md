@@ -10,7 +10,7 @@
 
 (2) Cargo tanks shall meet the requirements of Class I pressure vessels.
 
-(3) Cargo tanks shall be designed for the maximum pressure of vapor or gas used in discharging the cargo but in no case shall the design pressure of such tanks be less than 75 pounds per square inch gauge. The tank shell and heads shall not be less than5/16-inch thick.
+(3) Cargo tanks shall be designed for the maximum pressure of vapor or gas used in discharging the cargo but in no case shall the design pressure of such tanks be less than 75 pounds per square inch gauge. The tank shell and heads shall not be less than 5/16-inch thick.
 
 (c)(1) Cargo tanks shall be located below deck in holds or enclosed spaces with the domes or trunks extended above the weather deck and terminating in the open. Provisions shall be made to maintain the watertightness of the deck by means of watertight seals around such domes or trunks. The holds or enclosed spaces, in which the ethylene oxide tanks are located, shall not be used for any other purpose. However, in open hopper type barges of a suitable design approved for such service, the weatherdeck may not be required to be watertight.
 

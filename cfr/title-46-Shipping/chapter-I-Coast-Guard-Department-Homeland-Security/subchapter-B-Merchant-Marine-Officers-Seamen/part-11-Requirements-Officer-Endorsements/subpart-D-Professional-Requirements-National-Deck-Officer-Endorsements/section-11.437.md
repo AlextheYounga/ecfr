@@ -1,5 +1,7 @@
 ##### § 11.437 Requirements for mate of Great Lakes and inland self-propelled vessels of unlimited tonnage. #####
 
+Link to an amendment published at 89 FR 93083, Nov. 25, 2024.
+
 (a) The minimum service required to qualify an applicant for an endorsement as mate of Great Lakes and inland self-propelled vessels of unlimited tonnage is—
 
 (1) Three years of service in the deck department of self-propelled vessels, at least 3 months of which must have been on vessels on inland waters and at least 6 months of which must have been while performing bridge watchkeeping duties under the supervision of the master or a qualified officer;

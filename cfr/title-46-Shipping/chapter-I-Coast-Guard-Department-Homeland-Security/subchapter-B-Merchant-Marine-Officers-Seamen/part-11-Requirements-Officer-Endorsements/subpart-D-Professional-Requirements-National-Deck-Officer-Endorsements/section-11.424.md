@@ -1,5 +1,7 @@
 ##### § 11.424 Requirements for master of ocean self-propelled vessels of less than 200 GRT. #####
 
+Link to an amendment published at 89 FR 93081, Nov. 25, 2024.
+
 (a) The minimum service required to qualify an applicant for an officer endorsement as master of ocean self-propelled vessels of less than 200 GRT is—
 
 (1) Three years of total service on ocean or near-coastal waters. Service on Great Lakes and inland waters may substitute for up to 18 months of the required service. Two years of the required service must have been as master, mate, or equivalent position while holding a license or MMC endorsement as master, as mate, or as operator of uninspected passenger vessels; or

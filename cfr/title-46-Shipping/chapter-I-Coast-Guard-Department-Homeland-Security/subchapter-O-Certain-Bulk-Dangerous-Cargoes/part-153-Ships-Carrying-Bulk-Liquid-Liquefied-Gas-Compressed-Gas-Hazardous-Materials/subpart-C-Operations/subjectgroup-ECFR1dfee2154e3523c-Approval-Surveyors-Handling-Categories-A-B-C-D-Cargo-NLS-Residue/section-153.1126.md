@@ -16,4 +16,4 @@ For tank contents that are miscible
 
 For tank contents that are immiscible
 
-Q = KU1.4 L1.6 × 10−5 m3/hrwhere:Q = maximum permissible slops discharge rate in cubic meters per hour.V = volume of slops in the tank in cubic meters.K = 4.3, except K = 6.45 if Q is distributed between two NLS residue discharge outlets on opposite sides of the ship (see §§ 153.470(c) and 153.481(b)).U = ship's speed in knots.L = ship's length in meters.N = number of tanks containing Category B NLS residue pumped into the slop tank.
+Q = KU1.4 L1.6 × 10−5 m3/hr where: Q = maximum permissible slops discharge rate in cubic meters per hour. V = volume of slops in the tank in cubic meters. K = 4.3, except K = 6.45 if Q is distributed between two NLS residue discharge outlets on opposite sides of the ship (see §§ 153.470(c) and 153.481(b)). U = ship's speed in knots. L = ship's length in meters. N = number of tanks containing Category B NLS residue pumped into the slop tank.

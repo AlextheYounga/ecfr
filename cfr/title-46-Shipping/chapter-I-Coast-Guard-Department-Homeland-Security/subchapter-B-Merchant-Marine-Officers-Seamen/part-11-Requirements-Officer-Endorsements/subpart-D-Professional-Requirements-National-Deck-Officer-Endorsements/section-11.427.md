@@ -1,5 +1,7 @@
 ##### § 11.427 Requirements for mate of near-coastal self-propelled vessels of less than 200 GRT. #####
 
+Link to an amendment published at 89 FR 93082, Nov. 25, 2024.
+
 (a) The minimum service required to qualify for the endorsement as mate of near-coastal self-propelled vessels of less than 200 GRT is—
 
 (1) Twelve months of total service in the deck department of ocean or near-coastal self-propelled, sail, or auxiliary sail vessels. Service on Great Lakes and inland waters may substitute for up to 6 months of the required service; or

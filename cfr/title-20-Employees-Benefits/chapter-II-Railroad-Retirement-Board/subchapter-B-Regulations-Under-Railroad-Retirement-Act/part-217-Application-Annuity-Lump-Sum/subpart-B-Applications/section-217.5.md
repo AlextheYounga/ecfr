@@ -8,4 +8,4 @@ An application is a claim for an annuity or lump sum if it meets all of the foll
 
 (c) It is filed with the Board on or before the date of death of the claimant. (See § 217.10 for limited exceptions.)
 
-(Approved by the Office of Management and Budget under control number 3220-0002)[47 FR 7647, Feb. 22, 1982, as amended at 52 FR 11017, Apr. 6, 1987]
+(Approved by the Office of Management and Budget under control number 3220-0002) [47 FR 7647, Feb. 22, 1982, as amended at 52 FR 11017, Apr. 6, 1987]

@@ -66,7 +66,7 @@
 
 (iv) *Flexural ultimate strength and tensile tests.* Each laminate sample from each major component, such as hull and liner, that does not comply with the resin content requirement in paragraph (e)(1)(iii) of this section, and from each component of every fifth production lifeboat, must be subjected to the flexural ultimate strength and tensile strength tests as described in § 160.135-11(c)(2)(i)(B) of this subpart. The values must be at least 90 percent of the prototype results.
 
-(v) *Buoyancy material.* If block foam buoyancy material is used, each piece must be weighed after it is cut and shaped to make sure that the correct amount of foam is installed. If foamed-in-place buoyancy material is used, a separate sample of the foam must be poured, and used to make a density determination after it has set. The density must be 32 ±8 kg/m3 (2 ±0.5 lb/ft3).
+(v) *Buoyancy material.* If block foam buoyancy material is used, each piece must be weighed after it is cut and shaped to make sure that the correct amount of foam is installed. If foamed-in-place buoyancy material is used, a separate sample of the foam must be poured, and used to make a density determination after it has set. The density must be 32 ±8 kg/m3 (2 ±0.5 lb/ft 3).
 
 (vi) *Steel sheet and plate.* Steel sheet and plate for the hull, floors, and other structural components must meet ASTM A 36 and ASTM A 653 as applicable (incorporated by reference, see § 160.135-5 of this subpart). Non-corrosive resistant steel must meet the coating mass and bend tests requirement specified under ASTM A 653. Compliance for this paragraph can be ascertained through supplier's certification papers or through conducting actual tests.
 

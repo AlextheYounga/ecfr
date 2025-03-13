@@ -1,7 +1,5 @@
 ##### § 75.10 Prohibition on acquiring or retaining an ownership interest in and having certain relationships with a covered fund. #####
 
-Link to an amendment published at 89 FR 78814, Sept. 26, 2024.
-
 (a) *Prohibition.* (1) Except as otherwise provided in this subpart, a banking entity may not, as principal, directly or indirectly, acquire or retain any ownership interest in or sponsor a covered fund.
 
 (2) Paragraph (a)(1) of this section does not include acquiring or retaining an ownership interest in a covered fund by a banking entity:
@@ -32,9 +30,9 @@ Link to an amendment published at 89 FR 78814, Sept. 26, 2024.
 
 (B) (*1*) A commodity pool operator is registered with the CFTC as a commodity pool operator in connection with the operation of the commodity pool;
 
-(*2*) Substantially all participation units of the commodity pool are owned by qualified eligible persons under § 4.7(a)(2) and (3) of this chapter; and
+(*2*) Substantially all participation units of the commodity pool are owned by qualified eligible persons defined under § 4.7(a)(6)(i) and (ii) of this chapter; and
 
-(*3*) Participation units of the commodity pool have not been publicly offered to persons who are not qualified eligible persons under § 4.7(a)(2) and (3) of this chapter; or
+(*3*) Participation units of the commodity pool have not been publicly offered to persons who are not qualified eligible persons defined under § 4.7(a)(6)(i) and (ii) of this chapter; or
 
 (iii) For any banking entity that is, or is controlled directly or indirectly by a banking entity that is, located in or organized under the laws of the United States or of any State, an entity that:
 
@@ -452,4 +450,4 @@ Link to an amendment published at 89 FR 78814, Sept. 26, 2024.
 
 (11) *Riskless principal transaction.* Riskless principal transaction means a transaction in which a banking entity, after receiving an order from a customer to buy (or sell) a security, purchases (or sells) the security in the secondary market for its own account to offset a contemporaneous sale to (or purchase from) the customer.
 
-[79 FR 6048, Jan. 31, 2014, as amended at 84 FR 35021, July 22, 2019; 84 FR 62208, Nov. 14, 2019; 85 FR 46516, July 31, 2020; 85 FR 60355, Sept. 25, 2020]
+[79 FR 6048, Jan. 31, 2014, as amended at 84 FR 35021, July 22, 2019; 84 FR 62208, Nov. 14, 2019; 85 FR 46516, July 31, 2020; 85 FR 60355, Sept. 25, 2020; 89 FR 78814, Sept. 26, 2024]

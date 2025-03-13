@@ -1,12 +1,10 @@
 ##### § 30.6 Disclosure. #####
 
-Link to an amendment published at 89 FR 78814, Sept. 26, 2024.
-
 (a) *Future commission merchants and introducing brokers.* Except as provided in § 1.65 of this chapter, no futures commission merchant, or in the case of an introduced account no introducing broker, may open a foreign futures or option account for a foreign futures or option customer, other than for a customer specified in § 1.55(f) of this chapter, unless the futures commission merchant or introducing broker first furnishes the customer with a separate written disclosure statement containing only the language set forth in § 1.55(b) of this chapter or as otherwise approved under § 155(c) of this chapter (except for nonsubstantive additions such as captions), which has been acknowledged in accordance with § 1.55 of this chapter: *Provided, however,* that the risk disclosure statement may be attached to other documents as the cover page or the first page of such documents and as the only material on such page.
 
 (b) *Commodity pool operators and commodity trading advisors.* (1) With respect to persons who satisfy the requirements of qualified eligible persons, as defined in § 4.7(a) of this chapter:
 
-(i) A commodity pool operator registered or required to be registered under this part, or exempt from registration pursuant to § 30.5, may not, directly or indirectly, engage in any of the activities described in § 30.4(c) unless the pool operator, at or before the time it engages in such activities, first provides each prospective qualified eligible person with the Risk Disclosure Statement set forth in § 4.24(b)(2) of this chapter and the statement in § 4.7(b)(1)(i) of this chapter;
+(i) A commodity pool operator registered or required to be registered under this part, or exempt from registration pursuant to § 30.5, may not, directly or indirectly, engage in any of the activities described in § 30.4(c) unless the pool operator, at or before the time it engages in such activities, first provides each prospective qualified eligible person with the Risk Disclosure Statement set forth in § 4.24(b)(2) of this chapter and the statement in § 4.7(b)(2)(i) of this chapter;
 
 (ii) A commodity trading advisor registered or required to be registered under this part, or exempt from registration pursuant to § 30.5, may not, directly or indirectly, engage in any of the activities described in § 30.4(d) unless the trading advisor, at or before the time it engages in such activities, first provides each qualified eligible person with the Risk Disclosure Statement set forth in § 4.34(b)(2) of this chapter and the statement in § 4.7(c)(1)(i) of this chapter.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 89 FR 78814, Sept. 26, 2024.
 
 (e) This section does not relieve a futures commission merchant, introducing broker, commodity pool operator or commodity trading advisor from any other disclosure obligation it may have under applicable law or regulation.
 
-[52 FR 28998, Aug. 5, 1987, as amended at 58 FR 17505, Apr. 5, 1993; 60 FR 38193, July 25, 1995; 63 FR 8571, Feb. 20, 1998; 64 FR 28914, May 28, 1999; 65 FR 47859, Aug. 4, 2000]
+[52 FR 28998, Aug. 5, 1987, as amended at 58 FR 17505, Apr. 5, 1993; 60 FR 38193, July 25, 1995; 63 FR 8571, Feb. 20, 1998; 64 FR 28914, May 28, 1999; 65 FR 47859, Aug. 4, 2000; 89 FR 78814, Sept. 26, 2024]

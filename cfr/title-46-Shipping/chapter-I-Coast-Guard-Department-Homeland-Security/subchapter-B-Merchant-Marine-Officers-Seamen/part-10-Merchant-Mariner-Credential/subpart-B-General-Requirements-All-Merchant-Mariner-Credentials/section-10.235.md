@@ -1,5 +1,7 @@
 ##### § 10.235 Suspension or revocation of merchant mariner credentials. #####
 
+Link to an amendment published at 89 FR 93063, Nov. 25, 2024.
+
 (a) Any MMC or endorsement is subject to suspension or revocation on the same grounds, in the same manner, and with like procedure as provided in 46 U.S.C. chapter 77.
 
 (b) When any individual's credential is revoked, it is no longer valid for any purpose, and any MMC subsequently requested must be applied for as an original following the procedures of §§ 5.901-5.905 of this subchapter. When an endorsement on an individual's MMC is revoked, it is no longer valid, and any endorsement of the same type subsequently requested must be applied for as an original following the procedures of §§ 5.901-5.905 of this subchapter. When an officer's endorsement is revoked, the Coast Guard will issue an MMC containing any rating endorsement for which the holder is qualified.

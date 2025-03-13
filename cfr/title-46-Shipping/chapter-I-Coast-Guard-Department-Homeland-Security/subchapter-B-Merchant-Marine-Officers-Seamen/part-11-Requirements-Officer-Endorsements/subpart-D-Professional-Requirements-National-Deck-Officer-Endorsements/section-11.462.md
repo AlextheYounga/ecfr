@@ -1,5 +1,7 @@
 ##### § 11.462 Requirements for national endorsement as master or mate of uninspected fishing industry vessels. #####
 
+Link to an amendment published at 89 FR 93084, Nov. 25, 2024.
+
 (a) This section applies to endorsements for masters and mates of all vessels, however propelled, navigating the high seas, which are documented to engage in the fishing industry, with the exception of—
 
 (1) Wooden ships of primitive build;

@@ -1,5 +1,7 @@
 ##### § 11.301 Requirements for STCW officer endorsements. #####
 
+Link to an amendment published at 89 FR 93070, Nov. 25, 2024.
+
 (a) *Standard of competence.* (1) The Coast Guard will accept one or more methods listed in the STCW Code to demonstrate meeting the standard of competence in this subpart. See Column 3—Methods for demonstrating competence—of the Tables of Competence in the STCW Code (incorporated by reference, see § 11.102 of this part). The Coast Guard will accept the following as evidence of meeting the standard of competence under each of these methods:
 
 (i) In-service experience: Documentation of successful completion of assessments, approved or accepted by the Coast Guard, and signed by a qualified assessor (QA)—deck or engineering—as appropriate.

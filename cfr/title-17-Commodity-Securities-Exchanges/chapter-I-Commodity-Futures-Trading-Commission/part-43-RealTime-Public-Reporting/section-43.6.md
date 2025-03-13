@@ -1,7 +1,5 @@
 ##### § 43.6 Block trades and large notional off-facility swaps. #####
 
-Link to an amendment published at 89 FR 78814, Sept. 26, 2024.
-
 (a) *Commission determination.* The Commission shall establish the appropriate minimum block size for publicly reportable swap transactions based on the swap categories set forth in paragraphs (b) and (c) of this section, as applicable, in accordance with the provisions set forth in paragraph (d), (e), (f), (g), (h), or (i) of this section, as applicable.
 
 (b) *Initial swap categories.* Swap categories shall be established for all swaps, by asset class, in the following manner:
@@ -294,7 +292,7 @@ Link to an amendment published at 89 FR 78814, Sept. 26, 2024.
 
 (A) Is a commodity trading advisor registered pursuant to section 4n of the Act, or exempt from such registration under the Act, or a principal thereof, and who has discretionary trading authority or directs client accounts;
 
-(B) Is an investment adviser who has discretionary trading authority or directs client accounts and satisfies the criteria of § 4.7(a)(2)(v) of this chapter; or
+(B) Is an investment adviser who has discretionary trading authority or directs client accounts and satisfies the criteria of § 4.7(a)(6)(i)(G) of this chapter; or
 
 (C) Is a foreign person who performs a similar role or function as the persons described in paragraph (i)(6)(i)(A) or (B) of this section and is subject as such to foreign regulation;
 
@@ -308,10 +306,10 @@ Link to an amendment published at 89 FR 78814, Sept. 26, 2024.
 
 (i) A commodity trading advisor registered pursuant to section 4n of the Act, or exempt from registration under the Act, or a principal thereof, and who has discretionary trading authority or directs client accounts,
 
-(ii) An investment adviser who has discretionary trading authority or directs client accounts and satisfies the criteria of § 4.7(a)(2)(v) of this chapter, or
+(ii) An investment adviser who has discretionary trading authority or directs client accounts and satisfies the criteria of § 4.7(a)(6)(i)(G) of this chapter, or
 
 (iii) A foreign person who performs a similar role or function as the persons described in paragraph (j)(1)(i) or (ii) of this section and is subject as such to foreign regulation, to transact block trades for customers who are not eligible contract participants.
 
 (2) A person transacting a block trade on behalf of a customer shall receive prior written instruction or consent from the customer to do so. Such instruction or consent may be provided in the power of attorney or similar document by which the customer provides the person with discretionary trading authority or the authority to direct the trading in its account.
 
-[85 FR 75482, Nov. 25, 2020]
+[85 FR 75482, Nov. 25, 2020, as amended at 89 FR 78814, Sept. 26, 2024]

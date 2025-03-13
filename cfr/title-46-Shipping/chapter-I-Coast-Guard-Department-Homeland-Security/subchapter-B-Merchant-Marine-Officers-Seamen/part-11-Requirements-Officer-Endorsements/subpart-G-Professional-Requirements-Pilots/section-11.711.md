@@ -1,5 +1,7 @@
 ##### § 11.711 Tonnage requirements. #####
 
+Link to an amendment published at 89 FR 93096, Nov. 25, 2024.
+
 (a) In order to obtain a first-class pilot endorsement authorizing service on vessels of unlimited tonnage over a particular route, the applicant must have sufficient experience on vessels of more than 1,600 GRT.
 
 (b) For purposes of this section, an applicant is considered to have sufficient experience if the applicant has 18 months of experience as master, mate, quartermaster, wheelsman, able seaman, apprentice pilot, or in an equivalent capacity, standing regular watches at the wheel or in the pilothouse as part of routine duties, on vessels of 1,600 GRT or more, and two-thirds of the minimum number of roundtrips required for the route have been on vessels of 1,600 GRT or more.

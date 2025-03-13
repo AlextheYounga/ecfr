@@ -1,5 +1,7 @@
 ##### § 261.2 Definitions. #####
 
+Link to an amendment published at 89 FR 92815, Nov. 25, 2024.
+
 The following definitions apply to this part:
 
 *Administrative unit.* A National Forest, a National Grassland, a purchase unit, a land utilization project, Columbia River Gorge National Scenic Area, Land Between the Lakes, Lake Tahoe Basin Management Unit, Midewin National Tallgrass Prairie, or other comparable unit of the National Forest System.

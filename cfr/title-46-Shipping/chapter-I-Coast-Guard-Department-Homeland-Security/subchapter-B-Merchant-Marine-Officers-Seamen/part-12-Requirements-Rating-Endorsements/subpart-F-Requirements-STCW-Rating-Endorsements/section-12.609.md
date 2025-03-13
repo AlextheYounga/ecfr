@@ -1,5 +1,7 @@
 ##### § 12.609 Requirements to qualify for an STCW endorsement as rating forming part of an engineering watch (RFPEW). #####
 
+Link to an amendment published at 89 FR 93104, Nov. 25, 2024.
+
 (a) To qualify for an STCW endorsement as an RFPEW in a manned engine room or to qualify to be designated to perform duties in a periodically unmanned engine room, an applicant must—
 
 (1) Be not less than 16 years of age;

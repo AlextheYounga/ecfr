@@ -1,5 +1,7 @@
 ##### § 12.627 Requirements to qualify for an STCW endorsement for security awareness. #####
 
+Link to an amendment published at 89 FR 93105, Nov. 25, 2024.
+
 (a) An applicant for an endorsement for security awareness must—
 
 (1) Present satisfactory documentary evidence, such as a certificate or letter signed by a company official, or a certificate of completion from a Coast Guard-accepted or Coast Guard-approved course, of meeting the requirements in 33 CFR 104.225;

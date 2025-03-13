@@ -1,5 +1,7 @@
 ##### § 12.602 Basic training. #####
 
+Link to an amendment published at 89 FR 93103, Nov. 25, 2024.
+
 (a) Applicants seeking an STCW rating endorsement must provide evidence, with their application, of meeting the standard of competence for basic training as described below:
 
 (1) Personal survival techniques, as set out in Table A-VI/1-1 of the STCW Code (incorporated by reference, see § 12.103 of this part).

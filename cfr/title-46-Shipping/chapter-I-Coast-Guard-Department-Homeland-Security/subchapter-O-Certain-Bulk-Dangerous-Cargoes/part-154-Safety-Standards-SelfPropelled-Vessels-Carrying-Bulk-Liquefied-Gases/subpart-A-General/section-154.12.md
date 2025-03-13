@@ -92,7 +92,7 @@
 
 (26) Sections 154.1110 through 154.1130, except §§ 154.1115(b), 154.1120(b), and 154.1125 (c) and (f).
 
-(27) Section 154.1145, except an existing gas vessel with a cargo carrying capacity of less than 2500 m3 (88,200 ft3) may have only one self-contained dry chemical storage unit if that unit—
+(27) Section 154.1145, except an existing gas vessel with a cargo carrying capacity of less than 2500 m 3 (88,200 ft 3) may have only one self-contained dry chemical storage unit if that unit—
 
 (i) is installed before November 1, 1987; and
 

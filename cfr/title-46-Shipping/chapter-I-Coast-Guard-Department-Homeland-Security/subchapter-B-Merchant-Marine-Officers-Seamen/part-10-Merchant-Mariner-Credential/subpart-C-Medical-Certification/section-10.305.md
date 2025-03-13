@@ -1,5 +1,7 @@
 ##### § 10.305 Vision requirements. #####
 
+Link to an amendment published at 89 FR 93067, Nov. 25, 2024.
+
 (a) *Deck standard.* (1) A mariner must have correctable vision to at least 20/40 in one eye and uncorrected vision of at least 20/200 in the same eye. The color sense must be determined to be satisfactory when tested by any of the following methods or an alternative test acceptable to the Coast Guard, without the use of color-sensing lenses:
 
 (i) Pseudoisochromatic Plates (Dvorine, 2nd Edition; AOC; revised edition or AOC-HRR; Ishihara 14-, 24- , or 38-;plate editions).

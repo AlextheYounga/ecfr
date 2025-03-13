@@ -1,5 +1,7 @@
 ##### § 11.304 STCW deck officer endorsements. #####
 
+Link to an amendment published at 89 FR 93070, Nov. 25, 2024.
+
 (a) Specific requirements for all STCW deck officer endorsements are detailed in the applicable sections in this part.
 
 (1) Master on vessels of 3,000 GT or more (management level).

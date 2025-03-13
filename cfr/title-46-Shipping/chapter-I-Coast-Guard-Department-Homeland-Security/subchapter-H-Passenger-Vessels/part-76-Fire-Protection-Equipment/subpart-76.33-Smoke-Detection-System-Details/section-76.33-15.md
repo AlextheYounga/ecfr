@@ -1,6 +1,6 @@
 ##### § 76.33-15 Piping. #####
 
-(a) Individual pipes must be not less than3/4-inch standard pipe size.
+(a) Individual pipes must be not less than 3/4-inch standard pipe size.
 
 (b) All piping, valves, and fittings of ferrous materials must be protected inside and outside against corrosion unless specifically approved otherwise by the Commandant.
 

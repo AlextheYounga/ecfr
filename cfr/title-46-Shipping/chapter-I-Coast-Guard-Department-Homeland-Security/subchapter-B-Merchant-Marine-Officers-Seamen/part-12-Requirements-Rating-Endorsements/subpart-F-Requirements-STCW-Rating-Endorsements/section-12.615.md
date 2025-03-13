@@ -1,5 +1,7 @@
 ##### § 12.615 Requirements to qualify for an STCW endorsement in proficiency in survival craft and rescue boats other than lifeboats and fast rescue boats-limited (PSC-limited). #####
 
+Link to an amendment published at 89 FR 93104, Nov. 25, 2024.
+
 (a) To qualify for an STCW endorsement in proficiency in survival craft and rescue boats other than lifeboats and fast rescue boats-limited (PSC-limited), the applicant must—
 
 (1) Be at least 18 years of age;

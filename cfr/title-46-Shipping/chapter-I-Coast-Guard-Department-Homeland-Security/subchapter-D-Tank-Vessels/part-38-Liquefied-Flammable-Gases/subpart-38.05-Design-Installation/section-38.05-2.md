@@ -4,7 +4,7 @@
 
 (b) The service temperature is the minimum temperature at which cargo is loaded and/or transported in the cargo tank. However, the service temperature shall in no case be taken higher than given by the following formula:
 
-*t*s = tw−0.25(*t*w−tb) (1)where:*t*s = Service temperature.*t*w = Boiling temperature of gas at normal working pressure of tank but not higher than + 32 °F.*t*b = Boiling temperature of gas at atmospheric pressure.
+*t*s = tw−0.25(*t*w−tb) (1)where: *t*s = Service temperature. *t*w = Boiling temperature of gas at normal working pressure of tank but not higher than + 32 °F. *t*b = Boiling temperature of gas at atmospheric pressure.
 
 (c) Heat transmission studies, where required, shall assume the minimum ambient temperatures of 0 °F. still air and 32 °F. still water, and maximum ambient temperatures of 115 °F. still air and 90 °F. still water.
 

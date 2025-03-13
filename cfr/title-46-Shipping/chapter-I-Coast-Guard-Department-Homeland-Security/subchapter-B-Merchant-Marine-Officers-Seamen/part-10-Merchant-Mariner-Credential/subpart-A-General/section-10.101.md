@@ -1,5 +1,7 @@
 ##### § 10.101 Purpose. #####
 
+Link to an amendment published at 89 FR 93054, Nov. 25, 2024.
+
 The regulations in this part provide:
 
 (a) A means of determining and verifying the qualifications an applicant must possess to be eligible for certification to serve on merchant vessels;

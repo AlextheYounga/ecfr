@@ -2,7 +2,7 @@
 
 (a) All tests shall be conducted at the National Bureau of Standards or other laboratories designated by the Coast Guard.
 
-(b) *Smoke tests.* (1) A sample of each thickness submitted shall be tested for smoke emission. Each sample shall be laid on a1/4″ × 12″ × 27″ steel plate. Normal protective coatings and deck attachments shall be incorporated in the samples. Each sample shall be heated in a furnace whose temperature is limited to the standard decking curve reaching 1,325 degrees F. at the end of one hour. Smoke observations shall be made at intervals not greater than five minutes during the one-hour period of test.
+(b) *Smoke tests.* (1) A sample of each thickness submitted shall be tested for smoke emission. Each sample shall be laid on a 1/4″ × 12″ × 27″ steel plate. Normal protective coatings and deck attachments shall be incorporated in the samples. Each sample shall be heated in a furnace whose temperature is limited to the standard decking curve reaching 1,325 degrees F. at the end of one hour. Smoke observations shall be made at intervals not greater than five minutes during the one-hour period of test.
 
 (2) Instantaneous values of the percent of light transmission shall be calculated from the observations noted in paragraph (b)(1) of this section. A plot of light transmission values shall be made using straight lines between instantaneous values.
 
@@ -12,7 +12,7 @@
 
 15 minutes—90 percent light transmission.30 minutes—60 percent light transmission.60 minutes—50 percent light transmission.
 
-(c) *Fire resistance and integrity tests.* (1) A sample of each thickness submitted shall be tested for fire resistance and integrity. Each sample shall be laid on a1/4″ × 12″ × 27″ steel plate. Normal protective coatings and deck attachments shall be incorporated in the samples. Each sample shall be heated in a furnace whose temperature is controlled according to the standard fire exposure curve reaching 1,700 degrees F. at the end of one hour. Temperature of the unexposed side as indicated by a thermocouple under a 0.40 inch asbestos pad shall be observed at intervals not greater than 5 minutes during the one-hour period of test.
+(c) *Fire resistance and integrity tests.* (1) A sample of each thickness submitted shall be tested for fire resistance and integrity. Each sample shall be laid on a 1/4″ × 12″ × 27″ steel plate. Normal protective coatings and deck attachments shall be incorporated in the samples. Each sample shall be heated in a furnace whose temperature is controlled according to the standard fire exposure curve reaching 1,700 degrees F. at the end of one hour. Temperature of the unexposed side as indicated by a thermocouple under a 0.40 inch asbestos pad shall be observed at intervals not greater than 5 minutes during the one-hour period of test.
 
 (2) Data from these tests shall be analyzed to determine the thicknesses necessary to limit the average temperature rise on the unexposed surface to 250 degrees F. above the original temperature at the end of 15, 30, and 60 minutes.
 

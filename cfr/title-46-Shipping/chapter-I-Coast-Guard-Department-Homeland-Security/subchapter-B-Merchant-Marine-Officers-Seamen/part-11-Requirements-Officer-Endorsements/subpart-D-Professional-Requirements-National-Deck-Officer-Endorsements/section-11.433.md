@@ -1,5 +1,7 @@
 ##### § 11.433 Requirements for master of Great Lakes and inland self-propelled vessels of unlimited tonnage. #####
 
+Link to an amendment published at 89 FR 93082, Nov. 25, 2024.
+
 (a) The minimum service required to qualify an applicant for an endorsement as master of Great Lakes and inland self-propelled vessels of unlimited tonnage is—
 
 (1) One year of service as a mate or first-class pilot while acting in the capacity of first mate of Great Lakes self-propelled vessels of 1,600 GRT or more while holding a license or MMC endorsement as mate inland or first-class pilot of Great Lakes and inland self-propelled vessels of unlimited tonnage;

@@ -1,5 +1,7 @@
 ##### § 11.465 Requirements for national endorsements as mate (pilot) of towing vessels. #####
 
+Link to an amendment published at 89 FR 93087, Nov. 25, 2024.
+
 (a) To obtain an endorsement as mate (pilot) of towing vessels endorsed with a route listed in column 1 of Table 1 to paragraph (a) of this section, applicants must complete the service in columns 2 through 5. Mariners holding a license or MMC endorsement as master of towing vessels (limited) wishing to raise of grade to mate (pilot) of towing vessels must complete the service in columns 5 and 6. An endorsement with a route endorsed in column 1 authorizes service on the subordinate routes listed in column 7 without further endorsement. Time of service requirements as an apprentice mate (steersman) of towing vessels may be reduced by an amount equal to the time specified in the approval letter for a completed Coast Guard-approved training program.
 
 |                                                                                                                 1                                                                                                                 |               2                |                                 3                                 |                 4                 |                   5                   |                                               6                                                |                7                 |

@@ -1,5 +1,7 @@
 ##### § 12.605 Requirements to qualify for an STCW endorsement as ratings forming part of a navigational watch (RFPNW). #####
 
+Link to an amendment published at 89 FR 93103, Nov. 25, 2024.
+
 (a) To qualify for endorsement as an RFPNW on a seagoing vessel of 500 GT or more, an applicant must—
 
 (1) Be not less than 16 years of age;

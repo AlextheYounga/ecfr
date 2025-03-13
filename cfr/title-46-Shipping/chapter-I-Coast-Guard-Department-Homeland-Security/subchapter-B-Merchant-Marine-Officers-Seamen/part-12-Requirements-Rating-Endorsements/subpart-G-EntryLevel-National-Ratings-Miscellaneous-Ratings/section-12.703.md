@@ -1,5 +1,7 @@
 ##### § 12.703 General requirements for entry-level ratings. #####
 
+Link to an amendment published at 89 FR 93105, Nov. 25, 2024.
+
 (a) Rating endorsements will be issued without professional examination to applicants in capacities other than able seaman, lifeboatman, lifeboatman-limited, tankerman, or QMED, including—
 
 (1) Ordinary seaman;

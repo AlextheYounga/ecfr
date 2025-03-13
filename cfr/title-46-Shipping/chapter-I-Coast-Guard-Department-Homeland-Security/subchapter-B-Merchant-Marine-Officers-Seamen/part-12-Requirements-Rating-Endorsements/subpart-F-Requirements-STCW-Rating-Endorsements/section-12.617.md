@@ -1,5 +1,7 @@
 ##### § 12.617 Requirements to qualify for an STCW endorsement in proficiency in fast rescue boats. #####
 
+Link to an amendment published at 89 FR 93104, Nov. 25, 2024.
+
 (a) To qualify for an STCW endorsement in proficiency in fast rescue boats, an applicant must—
 
 (1) Be not less than 18 years of age;

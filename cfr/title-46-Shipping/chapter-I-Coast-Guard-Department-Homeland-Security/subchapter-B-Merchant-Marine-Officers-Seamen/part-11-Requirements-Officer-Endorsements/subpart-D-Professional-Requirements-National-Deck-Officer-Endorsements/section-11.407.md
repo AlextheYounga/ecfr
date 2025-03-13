@@ -1,5 +1,7 @@
 ##### § 11.407 Service requirements for third mate of ocean or near-coastal self-propelled vessels of unlimited tonnage. #####
 
+Link to an amendment published at 89 FR 93080, Nov. 25, 2024.
+
 (a) The minimum service or training required to qualify an applicant for an endorsement as third mate of ocean or near-coastal self-propelled vessels of unlimited tonnage is—
 
 (1) Three years of service in the deck department on ocean self-propelled vessels, with a minimum of 6 months of bridge watchkeeping duties under the supervision of the master or a qualified officer. Experience gained in the engine department on vessels of appropriate tonnage may be creditable for up to 3 months of the service requirements for this officer endorsement;

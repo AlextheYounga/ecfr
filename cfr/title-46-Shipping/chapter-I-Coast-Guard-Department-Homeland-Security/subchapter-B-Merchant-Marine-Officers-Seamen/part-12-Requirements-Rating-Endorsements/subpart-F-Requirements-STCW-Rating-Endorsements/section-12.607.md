@@ -1,5 +1,7 @@
 ##### § 12.607 Requirements to qualify for an STCW endorsement as rating as able seafarer-engine. #####
 
+Link to an amendment published at 89 FR 93104, Nov. 25, 2024.
+
 (a) To qualify for an STCW endorsement as an able seafarer-engine, an applicant must—
 
 (1) Be not less than 18 years of age;

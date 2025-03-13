@@ -1,5 +1,7 @@
 ##### § 11.703 Service requirements. #####
 
+Link to an amendment published at 89 FR 93095, Nov. 25, 2024.
+
 (a) The minimum service required to qualify an applicant for an endorsement as first-class pilot is predicated upon the nature of the waters for which pilotage is desired.
 
 (1) *General routes (routes not restricted to rivers, canals and small lakes.* The applicant must have at least 36 months of service in the deck department of self-propelled vessels navigating on oceans, coastwise, and Great Lakes, or bays, sounds, and lakes other than the Great Lakes, as follows:

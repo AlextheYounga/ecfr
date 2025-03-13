@@ -1,5 +1,7 @@
 ##### § 261.12 National Forest System roads and trails. #####
 
+Link to an amendment published at 89 FR 92816, Nov. 25, 2024.
+
 The following are prohibited:
 
 (a) Violating the load, weight, height, length, or width limitations prescribed by State law except by special-use authorization or written agreement or by order issued under § 261.54 of this Chapter.

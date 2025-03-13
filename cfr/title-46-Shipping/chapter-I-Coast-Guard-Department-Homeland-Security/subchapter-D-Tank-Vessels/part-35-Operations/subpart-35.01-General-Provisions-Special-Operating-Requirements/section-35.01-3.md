@@ -1,10 +1,12 @@
 ##### § 35.01-3 Incorporation by reference. #####
 
+Link to an amendment published at 89 FR 93136, Nov. 25, 2024.
+
 (a) Certain materials are incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a). To enforce any edition other than the one listed in paragraph (b) of this section, notice of the change must be published in the Federal Register and the material made available to the public. All approved material is on file at the Coast Guard Headquarters. Contact Commandant (CG-OES), Attn: Office of Operating and Environmental Standards, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509, and is available from the address indicated in paragraph (b), or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (b) The material approved for incorporation by reference in this part, and the sections affected is:
 
-American Society for Testing and Materials100 Barr Harbor Drive, West Conshohocken, PA 19428-2959ASTM F 1014-92 Standard Specification for Flashlights on Vessels.Section affected—35.30-20(c)(3)ASTM Adjunct F 1626, Symbols for Use in Accordance with Regulation II-2/20 of the 1974 SOLAS Convention, PCN 12-616260-01, © 1996-35.10-3ASTM D 93-97, Standard Test Methods for Flash-Point by Pensky-Martens Closed Cup Tester-35.25-10International Maritime Organization (IMO)Publications Section, 4 Albert Embankment, London, SE1 7SR United Kingdom. Resolution A.654(16), Graphical Symbols for Fire Control Plans—35.10-3Note:
+American Society for Testing and Materials100 Barr Harbor Drive, West Conshohocken, PA 19428-2959ASTM F 1014-92 Standard Specification for Flashlights on Vessels. Section affected—35.30-20(c)(3)ASTM Adjunct F 1626, Symbols for Use in Accordance with Regulation II-2/20 of the 1974 SOLAS Convention, PCN 12-616260-01, © 1996-35.10-3ASTM D 93-97, Standard Test Methods for Flash-Point by Pensky-Martens Closed Cup Tester-35.25-10International Maritime Organization (IMO)Publications Section, 4 Albert Embankment, London, SE1 7SR United Kingdom. Resolution A.654(16), Graphical Symbols for Fire Control Plans—35.10-3Note:
 
 All other documents referenced in this part are still in effect.
 

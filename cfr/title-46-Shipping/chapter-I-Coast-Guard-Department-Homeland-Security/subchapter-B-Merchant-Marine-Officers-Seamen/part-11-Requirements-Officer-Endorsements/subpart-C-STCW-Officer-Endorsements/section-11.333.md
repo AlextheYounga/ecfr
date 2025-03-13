@@ -1,5 +1,7 @@
 ##### § 11.333 Requirements to qualify for an STCW endorsement as second engineer officer on vessels powered by main propulsion machinery of 750kW/1,000 HP or more and less than 3,000 kW/4,000 HP propulsion power (management level). #####
 
+Link to an amendment published at 89 FR 93078, Nov. 25, 2024.
+
 (a) To qualify for an STCW endorsement as second engineer officer, an applicant must—
 
 (1) Provide evidence of meeting the requirements for certification as OICEW, as well as serving for not less than 12 months as assistant engineer officer or engineer officer on vessels powered by main propulsion machinery of not less than 750 kW/1,000 HP. Experience gained in the deck department may be creditable for up to 1 month of the total service requirements;

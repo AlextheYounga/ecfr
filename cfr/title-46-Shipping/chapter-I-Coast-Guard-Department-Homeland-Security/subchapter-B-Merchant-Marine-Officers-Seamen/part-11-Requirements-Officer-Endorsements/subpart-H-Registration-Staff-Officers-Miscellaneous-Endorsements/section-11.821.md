@@ -1,5 +1,7 @@
 ##### § 11.821 High-speed craft type-rating. #####
 
+Link to an amendment published at 89 FR 93097, Nov. 25, 2024.
+
 (a) This section is only applicable to those persons who will be serving or have served upon those vessels built and operated in accordance with the International Code of Safety for High Speed Craft (HSC Code).
 
 (b) To qualify for a high-speed craft type-rating endorsement (TRE) for operating vessels to which the HSC Code applies, an applicant must—

@@ -1,7 +1,5 @@
 ##### § 1.35 Records of commodity interest and related cash or forward transactions. #####
 
-Link to an amendment published at 89 FR 78810, Sept. 26, 2024.
-
 (a) *Futures commission merchants, retail foreign exchange dealers, introducing brokers, and members of designated contract markets or swap execution facilities*—(1) *Futures commission merchants, retail foreign exchange dealers, and certain introducing brokers.* Each futures commission merchant, retail foreign exchange dealer, and introducing broker that has generated over the preceding three years more than $5 million in aggregate gross revenues from its activities as an introducing broker, shall:
 
 (i) Keep full, complete, and systematic records (including all pertinent data and memoranda) of all transactions relating to its business of dealing in commodity interests and related cash or forward transactions, which shall include all orders (filled, unfilled, or canceled), trading cards, signature cards, street books, journals, ledgers, canceled checks, copies of confirmations, copies of statements of purchase and sale, and all other records, which have been prepared in the course of its business of dealing in commodity interests and related cash or forward transactions (for purposes of this section, all records described in this paragraph (a)(1)(i) are referred to as “*commodity interest and related records*”);
@@ -84,7 +82,7 @@ Link to an amendment published at 89 FR 78810, Sept. 26, 2024.
 
 (C) A bank, insurance company, trust company, or savings and loan association subject to federal or state regulation;
 
-(D) A foreign adviser that exercises discretionary trading authority solely over the accounts of non-U.S. persons, as defined in § 4.7(a)(1)(iv) of this chapter;
+(D) A foreign adviser that exercises discretionary trading authority solely over the accounts of non-U.S. persons, as defined in § 4.7(a)(4) of this chapter;
 
 (E) A futures commission merchant registered with the Commission pursuant to the Act; or
 
@@ -202,4 +200,4 @@ Link to an amendment published at 89 FR 78810, Sept. 26, 2024.
 
 (ii) For 60 days in computer-readable form on compatible magnetic tapes or discs.
 
-[77 FR 66324, Nov. 2, 2012, as amended at 77 FR 75541, Dec. 21, 2012; 80 FR 80255, Dec. 24, 2015; 82 FR 24487, May 30, 2017]
+[77 FR 66324, Nov. 2, 2012, as amended at 77 FR 75541, Dec. 21, 2012; 80 FR 80255, Dec. 24, 2015; 82 FR 24487, May 30, 2017; 89 FR 78810, Sept. 26, 2024]

@@ -1,5 +1,7 @@
 ##### § 11.544 Endorsement as assistant engineer (MODU). #####
 
+Link to an amendment published at 89 FR 93094, Nov. 25, 2024.
+
 (a) To qualify for an endorsement as assistant engineer (MODU) an applicant must—
 
 (1) Present evidence of one of the following experience:

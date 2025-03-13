@@ -1,5 +1,7 @@
 ##### § 261.53 Special closures. #####
 
+Link to an amendment published at 89 FR 92816, Nov. 25, 2024.
+
 When provided in an order, it is prohibited to go into or be upon any area which is closed for the protection of:
 
 (a) Threatened, endangered, rare, unique, or vanishing species of plants, animals, birds or fish.

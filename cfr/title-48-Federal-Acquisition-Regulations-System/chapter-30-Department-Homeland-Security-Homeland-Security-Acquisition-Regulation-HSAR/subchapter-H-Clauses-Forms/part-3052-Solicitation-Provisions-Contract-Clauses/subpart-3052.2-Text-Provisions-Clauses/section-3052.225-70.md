@@ -1,5 +1,7 @@
 ##### 3052.225-70 Requirement for Use of Certain Domestic Commodities. #####
 
+Link to an amendment published at 89 FR 92852, Nov. 25, 2024.
+
 As prescribed in (HSAR) 48 CFR 3025.7003, use the following clause:
 
 Requirement for Use of Certain Domestic Commodities (AUG 2009)

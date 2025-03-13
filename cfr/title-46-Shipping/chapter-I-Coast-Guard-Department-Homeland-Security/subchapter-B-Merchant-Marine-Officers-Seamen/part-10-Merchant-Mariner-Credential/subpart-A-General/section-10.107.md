@@ -1,5 +1,7 @@
 ##### § 10.107 Definitions in subchapter B. #####
 
+Link to an amendment published at 89 FR 93054, Nov. 25, 2024.
+
 (a) With respect to part 16 of this subchapter only, if the definitions in paragraph (b) of this section differ from those set forth in § 16.105, the definition set forth in § 16.105 applies.
 
 (b) As used in this subchapter, the following terms apply only to merchant marine personnel credentialing and the manning of vessels subject to the manning provisions in the navigation and shipping laws of the United States:

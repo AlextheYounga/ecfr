@@ -1,7 +1,5 @@
 ##### § 4.14 Exemption from registration as a commodity trading advisor. #####
 
-Link to an amendment published at 89 FR 78813, Sept. 26, 2024.
-
 This section is organized as follows: Paragraph (a) of this section specifies the criteria that must be met to qualify for exemption from registration under this section, including the notice of exemption from registration and continuing obligations of persons who have claimed exemption under paragraph (a)(8) of this section; paragraph (b) of this section concerns “cash market transactions”; and paragraph (c) of this section specifies the effect of registration on a person who has claimed an exemption from registration under this section or who is eligible to claim an exemption from registration hereunder.
 
 (a) A person is not required to register under the Act as a commodity trading advisor if:
@@ -34,7 +32,7 @@ This section is organized as follows: Paragraph (a) of this section specifies th
 
 (*1*) The commodity pool operator of each such pool has not so organized and is not so operating the pool for the purpose of avoiding commodity pool operator registration;
 
-(*2*) With the exception of the pool's operator, advisor and their principals, solely “Non-United States persons,” as that term is defined in § 4.7(a)(1)(iv), will contribute funds or other capital to, and will own beneficial interests in, the pool; *Provided,* That units of participation in the pool held by persons who do not qualify as Non-United States persons or otherwise as qualified eligible persons represent in the aggregate less than 10 percent of the beneficial interest of the pool;
+(*2*) With the exception of the pool's operator, advisor, and their principals, solely “Non-United States persons,” as that term is defined in § 4.7(a)(4), will contribute funds or other capital to, and will own beneficial interests in, the pool; *Provided,* That units of participation in the pool held by persons who do not qualify as Non-United States persons or otherwise qualified eligible persons represent in the aggregate less than 10 percent of the beneficial interest of the pool;
 
 (*3*) No person affiliated with the pool conducts any marketing activity for the purpose of, or that could reasonably have the effect of, soliciting participation from other than Non-United States persons; and
 
@@ -116,4 +114,4 @@ This section is organized as follows: Paragraph (a) of this section specifies th
 
 (2) If a person provides commodity interest trading advice to a client described in paragraph (a) of this section and to a client for which it must be, and is, registered as a commodity trading advisor, the person is exempt from the requirements applicable to a registered commodity trading advisor with respect to the clients so described; *Provided,* That the person furnishes in writing to each prospective client described in paragraph (a) of this section a statement that it will provide commodity interest trading advice to the client as if it was exempt from registration as a commodity trading advisor; *Provided Further,* That the person provides to each existing client described in paragraph (a) of this section a right to terminate its advisory agreement, and informs such client of that right no later than the time the person commences to provide commodity interest trading advice to the client as if the person was exempt from registration.
 
-(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982); 5 U.S.C. 552 and 552b)[46 FR 26013, May 8, 1981; 46 FR 26761, May 15, 1981; 48 FR 35298, Aug. 3, 1983; 49 FR 5526, Feb. 13, 1984; 52 FR 41985, Nov. 2, 1987; 52 FR 43827, Nov. 16, 1987; 65 FR 12943, Mar. 10, 2000; 67 FR 77411, Dec. 18, 2002; 68 FR 47233, Aug. 8, 2003; 68 FR 52837, Sept. 8, 2003; 68 FR 59114, Oct. 14, 2003; 72 FR 1664, Jan. 16, 2007; 75 FR 55428, Sept. 10, 2010; 77 FR 11284, Feb. 24, 2012; 77 FR 17330, Mar. 26, 2012; 84 FR 67368, Dec. 10, 2019]
+(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982); 5 U.S.C. 552 and 552b)[46 FR 26013, May 8, 1981; 46 FR 26761, May 15, 1981; 48 FR 35298, Aug. 3, 1983; 49 FR 5526, Feb. 13, 1984; 52 FR 41985, Nov. 2, 1987; 52 FR 43827, Nov. 16, 1987; 65 FR 12943, Mar. 10, 2000; 67 FR 77411, Dec. 18, 2002; 68 FR 47233, Aug. 8, 2003; 68 FR 52837, Sept. 8, 2003; 68 FR 59114, Oct. 14, 2003; 72 FR 1664, Jan. 16, 2007; 75 FR 55428, Sept. 10, 2010; 77 FR 11284, Feb. 24, 2012; 77 FR 17330, Mar. 26, 2012; 84 FR 67368, Dec. 10, 2019; 89 FR 78813, Sept. 26, 2024]

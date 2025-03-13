@@ -1,0 +1,7 @@
+##### 270.105 Solicitation provisions and contract clause. #####
+
+(a) Use the provision at 252.270-7000, Pilot Program to Incentivize Contracting with Employee-Owned Businesses—Representation, in solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial products and commercial services, except for solicitations solely for the acquisition of commercially available off-the-shelf (COTS) items, that include the clause at 252.270-7002, Pilot Program to Incentivize Contracting with Employee-Owned Businesses.
+
+(b) Unless waived in accordance with 270.103(b)(3), use the provision at 252.270-7001, Pilot Program to Incentivize Contracting with Employee-Owned Businesses—Subcontracting Certification, in solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial products and commercial services, except for solicitations solely for the acquisition of COTS items, that include the clause at 252.270-7002, Pilot Program to Incentivize Contracting with Employee-Owned Businesses.
+
+(c) Use the clause at 252.270-7002, Pilot Program to Incentivize Contracting with Employee-Owned Businesses, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services, except for solicitations and contracts solely for the acquisition of COTS items, for approved pilot program acquisitions.

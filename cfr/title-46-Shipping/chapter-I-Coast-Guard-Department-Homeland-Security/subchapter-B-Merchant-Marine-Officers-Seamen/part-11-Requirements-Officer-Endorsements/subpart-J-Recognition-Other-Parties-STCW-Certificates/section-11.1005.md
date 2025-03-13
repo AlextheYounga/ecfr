@@ -1,5 +1,7 @@
 ##### § 11.1005 Employer application requirements. #####
 
+Link to an amendment published at 89 FR 93099, Nov. 25, 2024.
+
 (a) The employer must submit the following to the Coast Guard, as a part of the applicant's application for a “Certificate attesting recognition,” on behalf of the applicant:
 
 (1) A signed report that contains all material disciplinary actions related to the applicant, such as, but not limited to, violence or assault, theft, drug and alcohol policy violations, and sexual harassment, along with an explanation of the criteria used by the employer to determine the materiality of those actions.

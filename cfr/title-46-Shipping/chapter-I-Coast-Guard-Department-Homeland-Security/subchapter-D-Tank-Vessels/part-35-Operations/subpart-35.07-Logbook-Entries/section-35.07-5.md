@@ -1,5 +1,7 @@
 ##### § 35.07-5 Logbooks and records—TB/ALL. #####
 
+Link to an amendment published at 89 FR 93138, Nov. 25, 2024.
+
 (a) The master or person in charge of a vessel that is required by 46 U.S.C. 11301 to have an official logbook shall maintain the logbook on form CG-706. The official logbook is available free to masters of U.S.-flag vessels from the officer in Charge, Marine Inspection, as form CG-706B or CG-706C, depending on the number of persons employed in the crew. When the voyage is completed, the master or person in charge shall file the logbook with the Officer in Charge, Marine Inspection.
 
 (b) The master or person in charge of a vessel that is not required by 46 U.S.C. 11301 to have an official logbook, shall maintain, on board, an unofficial logbook or record in any form desired for the purposes of making entries therein as required by law or regulations in this subchapter. Such logs or records are not filed with the Officer in Charge, Marine Inspection, but must be kept available for review by a marine inspector for a period of 1 year after the date to which the records refer. Separate records of tests and inspections of fire fighting equipment must be maintained with the vessel's logs for the period of validity of the vessel's certificate of inspection.

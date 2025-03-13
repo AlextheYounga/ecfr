@@ -1,5 +1,7 @@
 ##### § 10.109 Classification of endorsements. #####
 
+Link to an amendment published at 89 FR 93059, Nov. 25, 2024.
+
 (a) *National officer endorsements.* The following national officer endorsements are established in part 11 of this subchapter. The endorsements indicate that an individual holding a valid MMC with this endorsement is qualified to serve in that capacity and the endorsement has been issued under the requirements contained in part 11 of this subchapter:
 
 (1) Master.

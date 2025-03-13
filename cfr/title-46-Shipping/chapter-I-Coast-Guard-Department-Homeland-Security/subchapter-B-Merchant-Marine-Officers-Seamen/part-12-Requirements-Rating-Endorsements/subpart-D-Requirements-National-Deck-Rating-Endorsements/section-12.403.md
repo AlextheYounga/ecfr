@@ -1,5 +1,7 @@
 ##### § 12.403 Service or training requirements for able seaman (A/B) endorsements. #####
 
+Link to an amendment published at 89 FR 93099, Nov. 25, 2024.
+
 (a) The minimum service required to qualify for the various categories of endorsement as able seaman is as follows:
 
 (1) *Able seaman—unlimited.* Three years of service on deck on vessels operating on oceans or on the Great Lakes.
