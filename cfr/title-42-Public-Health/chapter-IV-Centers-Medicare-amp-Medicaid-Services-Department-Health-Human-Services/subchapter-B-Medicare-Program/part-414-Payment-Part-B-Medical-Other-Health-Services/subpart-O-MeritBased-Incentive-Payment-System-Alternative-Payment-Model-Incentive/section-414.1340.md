@@ -1,5 +1,7 @@
 ##### § 414.1340 Data completeness criteria for the quality performance category. #####
 
+Link to an amendment published at 89 FR 98561, Dec. 9, 2024.
+
 (a) MIPS eligible clinicians, groups, virtual groups, subgroups, and APM Entities submitting quality measures data on QCDR measures, MIPS CQMs, or eCQMs must submit data on:
 
 (1) At least 50 percent of the MIPS eligible clinician or group's patients that meet the measure's denominator criteria, regardless of payer for MIPS payment year 2019.

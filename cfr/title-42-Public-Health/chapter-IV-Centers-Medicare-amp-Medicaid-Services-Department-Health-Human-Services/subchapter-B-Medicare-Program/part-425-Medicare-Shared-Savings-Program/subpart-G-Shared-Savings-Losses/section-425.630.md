@@ -1,5 +1,7 @@
 ##### § 425.630 Option to receive advance investment payments. #####
 
+Link to an amendment published at 89 FR 98571, Dec. 9, 2024.
+
 (a) *Purpose.* Advance investment payments are intended to encourage low-revenue ACOs that are inexperienced with risk to participate in the Shared Savings Program and to provide additional resources to such ACOs in order to support care improvement for underserved beneficiaries.
 
 (b) *Eligibility.* An ACO is eligible to receive advance investment payments as specified in this section if CMS determines that all of the following criteria are met:

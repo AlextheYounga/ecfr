@@ -1,5 +1,7 @@
 ##### § 424.24 Requirements for medical and other health services furnished by providers under Medicare Part B. #####
 
+Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
+
 (a) *Exempted services.* Certification is not required for the following:
 
 (1) Hospital services and supplies incident to physicians' services furnished to outpatients. The exemption applies to drugs and biologicals that cannot be self-administered, but not to partial hospitalization services, as set forth in paragraph (e) of this section.

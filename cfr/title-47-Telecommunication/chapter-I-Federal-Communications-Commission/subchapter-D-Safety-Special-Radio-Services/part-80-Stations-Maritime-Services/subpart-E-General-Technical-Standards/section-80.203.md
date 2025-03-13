@@ -70,4 +70,4 @@ The verification procedure has been replaced by Supplier's Declaration of Confor
 
 (p) Applicable July 14, 2017, the Commission no longer accepts applications for certification of non-AIS VHF radios that include channels 75 and 76.
 
-[51 FR 31213, Sept. 2, 1986] Editorial Note:For Federal Register citations affecting § 80.203, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[51 FR 31213, Sept. 2, 1986]Editorial Note:For Federal Register citations affecting § 80.203, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

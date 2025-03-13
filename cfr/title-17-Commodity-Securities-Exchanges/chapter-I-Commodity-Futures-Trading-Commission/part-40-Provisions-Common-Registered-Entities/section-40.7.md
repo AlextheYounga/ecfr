@@ -1,7 +1,5 @@
 ##### § 40.7 Delegations. #####
 
-Link to an amendment published at 89 FR 88628, Nov. 7, 2024.
-
 (a) *Procedural matters.* (1) The Commission hereby delegates, until it orders otherwise, to the Director of the Division of Clearing and Risk and, separately, to the Director of the Division of Market Oversight, to be exercised by either Director, as appropriate, or by such employees of the Commission that either Director may designate from time to time, the following authorities, with the concurrence of the General Counsel or the General Counsel's delegate:
 
 (i) To request, pursuant to § 40.3(c)(2) or § 40.5(c)(1)(ii) of this part, that the registered entity requesting approval amend the proposed product, rule or rule amendment, or supplement the submission to the Commission;
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 88628, Nov. 7, 2024.
 
 (4) *Emergency rules.* The Commission hereby delegates to the Director of the Division of Market Oversight and, separately, to the Director of the Division of Clearing and Risk, to be exercised by either Director, as appropriate, or by such other employee or employees of the Commission that either Director may designate from time to time, authority to receive notification of emergency rules under § 40.6(a)(6)(ii) of this part.
 
-(5) The Commission hereby delegates to the Director of the Division of Market Oversight, to be exercised by the Director or by such employees of the Commission that the Director may designate from time to time, with the concurrence of the General Counsel or the General Counsel's delegate, the authority to determine whether a rule change submitted by a designated contract market for a materiality determination under § 40.4(b)(5) of this part is not material (in which case it may be reported pursuant to the provisions of § 40.6(d) of this part), or is material, in which case he or she shall notify the registered entity that the rule change must be submitted for the Commission's prior approval.
+(5) The Commission hereby delegates to the Director of the Division of Market Oversight, to be exercised by the Director or by such employees of the Commission that the Director may designate from time to time, with the concurrence of the General Counsel or the General Counsel's delegate, the authority to determine whether a rule or rule amendment submitted by a designated contract market is material under § 40.4(b)(5), and to notify the designated contract market of such determination.
 
 (b) *Approval authority.* The Commission hereby delegates, until it orders otherwise, to the Director of the Division of Clearing and Risk and, separately, to the Director of the Division of Market Oversight, to be exercised by either Director, as appropriate, or by such employees of the Commission that either Director may designate from time to time, with the concurrence of the General Counsel or the General Counsel's delegate, the authority to approve, pursuant to section 5c(c)(3) of the Act and § 40.5 of this part, rules or rule amendments of a registered entity that:
 
@@ -30,7 +28,7 @@ Link to an amendment published at 89 FR 88628, Nov. 7, 2024.
 
 (2) Reflect routine modifications that are required or anticipated by the terms of the rule of a registered entity;
 
-(3) Establish or amend speculative limits or position accountability provisions that are in compliance with the requirements of the Act and the Commission's regulations;
+(3) Establish or amend or relate to speculative limits or position accountability provisions that are in compliance with the requirements of the Act and17 CFR chapter I;
 
 (4) Are in substance the same as a rule of the same or another registered entity which has been approved previously by the Commission pursuant to section 5c(c)(3) of the Act;
 
@@ -42,4 +40,6 @@ Link to an amendment published at 89 FR 88628, Nov. 7, 2024.
 
 (d) Nothing in this section shall be deemed to prohibit the Commission, at its election, from exercising any of the authority delegated pursuant to this section.
 
-[76 FR 44790, July 27, 2011, as amended at 78 FR 22419, Apr. 16, 2013]
+(e) The Commission hereby delegates, until it orders otherwise, to the Director of the Division of Clearing and Risk and, separately, to the Director of the Division of Market Oversight, to be exercised by either Director, as appropriate, or by such employees of the Commission that either Director may designate from time to time, the authority to specify the format and manner to be used by a registered entity when filing a submission pursuant to this part.
+
+[76 FR 44790, July 27, 2011, as amended at 78 FR 22419, Apr. 16, 2013; 89 FR 88628, Nov. 7, 2024]

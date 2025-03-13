@@ -1,5 +1,7 @@
 ##### § 414.1355 Improvement activities performance category. #####
 
+Link to an amendment published at 89 FR 98561, Dec. 9, 2024.
+
 (a) For a MIPS payment year, CMS uses improvement activities included in the MIPS final inventory of improvement activities established by CMS through rulemaking to assess performance in the improvement activities performance category.
 
 (b) Unless a different scoring weight is assigned by CMS under section 1848(q)(5)(F) of the Act, performance in the improvement activities performance category comprises:

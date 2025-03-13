@@ -1,5 +1,7 @@
 ##### § 425.655 Calculating the regional risk score growth cap adjustment factor. #####
 
+Link to an amendment published at 89 FR 98576, Dec. 9, 2024.
+
 (a) *General.* This section describes the methodology for calculating the regional risk score growth cap adjustment factor that will be applied to the regional growth rate component of the three-way blend used to update the historical benchmark as described in § 425.652(b) for agreement periods beginning on January 1, 2024, and in subsequent years.
 
 (b) *Calculating county risk scores.* CMS does all of the following to determine county prospective HCC and demographic risk scores for use in calculating the ACO's regional risk scores:

@@ -1,5 +1,7 @@
 ##### § 405.2463 What constitutes a visit. #####
 
+Link to an amendment published at 89 FR 98554, Dec. 9, 2024.
+
 (a) *Visit—General.* (1) For RHCs, a visit is either of the following:
 
 (i) Face-to-face encounter (or, for mental health disorders only, an encounter that meets the requirements under paragraph (b)(3) of this section) between an RHC patient and one of the following:

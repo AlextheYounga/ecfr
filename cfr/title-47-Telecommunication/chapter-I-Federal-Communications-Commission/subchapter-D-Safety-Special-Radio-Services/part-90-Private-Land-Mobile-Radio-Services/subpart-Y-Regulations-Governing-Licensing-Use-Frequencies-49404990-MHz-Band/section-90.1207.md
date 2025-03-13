@@ -54,6 +54,6 @@ Link to an amendment published at 89 FR 91585, Nov. 20, 2024.
 
 (f) Licensees holding active authorizations for the 4940-4990 MHz band on March 30, 2023 shall file the complete site-by-site information described in paragraph (e) of this section for their existing radio systems in the Commission's Universal Licensing System by the compliance date specified in paragraph (g) of this section.
 
-(g) Paragraphs (e) and (f) of this section may contain information collection and/or recordkeeping requirements. Compliance with paragraphs (e) and (f) will not be required until this paragraph (g) is removed or contains a compliance date, which will not occur until the date specified in a final rule published by the FCC announcing that the Office of Management and Budget has completed review of any information collection requirements associated with paragraphs (e) and (f) of this section or that they have determined such review is not required, which date shall be no earlier than February 28, 2024.
+(g) Compliance with paragraphs (e) and (f) in this section shall be required as of December 9, 2024. The deadline for submissions for licensees subject to paragraph (f) in this section is Monday, June 9, 2025.
 
-[68 FR 38639, June 30, 2003, as amended at 69 FR 17959, Apr. 6, 2004; 74 FR 23803, May 21, 2009; 88 FR 12571, Feb. 28, 2023]
+[68 FR 38639, June 30, 2003, as amended at 69 FR 17959, Apr. 6, 2004; 74 FR 23803, May 21, 2009; 88 FR 12571, Feb. 28, 2023; 89 FR 97560, Dec. 9, 2024]

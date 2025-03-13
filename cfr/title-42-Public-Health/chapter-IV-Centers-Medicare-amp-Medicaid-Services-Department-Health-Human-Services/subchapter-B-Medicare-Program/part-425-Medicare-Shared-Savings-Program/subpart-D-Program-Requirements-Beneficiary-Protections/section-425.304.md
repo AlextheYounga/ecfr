@@ -1,5 +1,7 @@
 ##### § 425.304 Beneficiary incentives. #####
 
+Link to an amendment published at 89 FR 98566, Dec. 9, 2024.
+
 (a) *General.* (1) Except as set forth in this section, or as otherwise permitted by law, ACOs, ACO participants, ACO providers/suppliers, and other individuals or entities performing functions or services related to ACO activities are prohibited from providing gifts or other remuneration to beneficiaries as inducements for receiving items or services from or remaining in, an ACO or with ACO providers/suppliers in a particular ACO or receiving items or services from ACO participants or ACO providers/suppliers.
 
 (2) Nothing in this section shall be construed as prohibiting an ACO from using shared savings received under this part to cover the cost of an in-kind item or service or incentive payment provided to a beneficiary under paragraph (b) or (c) of this section.

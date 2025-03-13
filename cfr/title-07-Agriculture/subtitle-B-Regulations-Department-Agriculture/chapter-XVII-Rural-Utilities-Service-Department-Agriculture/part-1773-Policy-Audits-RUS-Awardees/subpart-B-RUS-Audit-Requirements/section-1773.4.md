@@ -1,7 +1,5 @@
 ##### § 1773.4 Auditee's responsibilities. #####
 
-Link to an amendment published at 89 FR 88634, Nov. 8, 2024.
-
 (a) *Selection of a qualified auditor.* The auditee's governance board is responsible for the selection of a qualified auditor that meets the requirements set forth in § 1773.5. When selecting an auditor, the auditee should consider, among other matters:
 
 (1) The qualifications of auditors available to do the work;
@@ -18,7 +16,7 @@ Link to an amendment published at 89 FR 88634, Nov. 8, 2024.
 
 (c) *Notification of selection.* When the initial selection or subsequent change of an auditor has been made, the auditee must notify RUS, in writing via email, at least 90 days prior to the audit date. Changes in the name of an auditor are considered to be a change in the auditor.
 
-(1) Within 30 days of the date of receipt of such notice, RUS or its designated representative will notify the auditee, in writing via email, if the selection or change in auditor is not satisfactory as identified in § 1773.5.
+(1) Within 30 days of the date of receipt of such notice, RUS or its designated representative will notify the auditee, in writing via email, if the selection or change in auditor is not satisfactory based on criteria described in § 1773.5.
 
 (2) Notification that the same auditor has been selected for succeeding audits of the auditee's financial statements is not required; however, the procedures outlined in this part must be followed for each new auditor selected, even though such auditor may previously have been approved by RUS to audit records of other RUS auditees.
 
@@ -50,4 +48,4 @@ Link to an amendment published at 89 FR 88634, Nov. 8, 2024.
 
 (2) The status of corrective action taken on previously reported findings and recommendations.
 
-[83 FR 19907, May 7, 2018, as amended at 88 FR 7563, Feb. 6, 2023]
+[83 FR 19907, May 7, 2018, as amended at 88 FR 7563, Feb. 6, 2023; 89 FR 88634, Nov. 8, 2024]

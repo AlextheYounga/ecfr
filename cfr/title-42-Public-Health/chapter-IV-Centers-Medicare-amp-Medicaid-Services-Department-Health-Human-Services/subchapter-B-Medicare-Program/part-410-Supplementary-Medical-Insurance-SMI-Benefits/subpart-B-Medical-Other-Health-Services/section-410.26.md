@@ -1,5 +1,7 @@
 ##### § 410.26 Services and supplies incident to a physician's professional services: Conditions. #####
 
+Link to an amendment published at 89 FR 98555, Dec. 9, 2024.
+
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 (1) *Auxiliary personnel* means any individual who is acting under the supervision of a physician (or other practitioner), regardless of whether the individual is an employee, leased employee, or independent contractor of the physician (or other practitioner) or of the same entity that employs or contracts with the physician (or other practitioner), has not been excluded from the Medicare, Medicaid and all other federally funded health care programs by the Office of Inspector General or had his or her Medicare enrollment revoked, and meets any applicable requirements to provide incident to services, including licensure, imposed by the State in which the services are being furnished.

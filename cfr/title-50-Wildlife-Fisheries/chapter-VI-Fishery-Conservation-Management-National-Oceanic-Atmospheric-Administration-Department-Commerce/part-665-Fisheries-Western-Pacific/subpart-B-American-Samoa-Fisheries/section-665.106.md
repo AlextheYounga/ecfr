@@ -1,15 +1,21 @@
 ##### § 665.106 American Samoa annual catch limits (ACL). #####
 
-Link to an amendment published at 89 FR 88171, Nov. 7, 2024.
+(a) *Annual catch limits (ACL).* In accordance with § 665.4, the ACLs for American Samoa bottomfish MUS during fishing years 2024, 2025 and 2026 are as follows:
 
-(a) In accordance with § 665.4, the ACL for American Samoa bottomfish MUS is 5,000 lb.
+|         Species          |  Samoan name  |ACL  <br/>(lb)|
+|--------------------------|---------------|--------------|
+|    Aphareus rutilans     |Palu-gutusiliva|    8,554     |
+|     Aprion virescens     |    Asoama     |    4,872     |
+|     Caranx lugubris      |    Tafauli    |    3,086     |
+|     Etelis coruscans     |   Palu-loa    |    4,872     |
+|Lethrinus rubrioperculatus| Filoa-paomumu |    8,554     |
+|     Lutjanus kasmira     |    Savane     |    16,645    |
+|Pristipomoides flavipinnis|   Palu-sina   |    2,579     |
+|  Pristipomoides zonatus  |   Palu-ula    |    1,521     |
+|      Variola louti       |     Velo      |    2,205     |
 
-(b) When NMFS projects the ACL will be reached, the Regional Administrator shall publish a document to that effect in the Federal Register and shall use other means to notify permit holders. The document will include an advisement that the fishery will be closed, beginning at a specified date that is not earlier than seven days after the date of filing the closure notification for public inspection at the Office of the Federal Register, through the end of the fishing year in which the catch limit is reached.
+(b) *Post-season accountability measure (AM).* If the average catch of any species in the most recent three years exceeds its specified ACL, the Regional Administrator will make an overage adjustment in a separate rulemaking to reduce the ACL for that species for the subsequent year by the amount of the overage. All ACLs for species for which the three most recent years of catch did not exceed the ACL will remain unchanged.
 
-(c) If the ACL is exceeded in any fishing year, the Regional Administrator shall publish a document to that effect in the Federal Register and shall use other means to notify permit holders. The document will include an advisement that the fishery will be closed, beginning at a specified date that is not earlier than seven days after the date of filing the closure notification for public inspection at the Office of the Federal Register. The fishery will remain closed until such time that a coordinated approach to management is developed that ensures catch in both Federal and territorial waters can be maintained at levels that allow the stock to rebuild or the rebuilding plan is modified based on the best scientific information available.
+(c) *Indicator species. E. coruscans* will serve as an indicator species for *E. carbunculus* and *P. flavipinnis* will serve as an indicator species for *P. filamentosus.* There are no separate ACLs and AMs for *E. carbunculus* and *P. filamentosus. E. carbunculus* will be subject to the post-season AM if *E. coruscans* exceeds the ACL. *P. filamentosus* will be subject to the post-season AM if *P. flavipinnis* reaches exceeds the ACL.
 
-(d) On and after the date the fishery is closed as specified in paragraph (b) or (c) of this section, fishing for and possession of American Samoa bottomfish MUS is prohibited in the American Samoa fishery management area, except as otherwise authorized by law.
-
-(e) On and after the date the fishery is closed as specified in paragraph (b) or (c) of this section, the sale, offering for sale, and purchase of any American Samoa bottomfish MUS caught in the American Samoa fishery management area is prohibited.
-
-[87 FR 25593, May 2, 2022]
+[89 FR 88171, Nov. 7, 2024]

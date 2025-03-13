@@ -1,5 +1,7 @@
 ##### § 414.1330 Quality performance category. #####
 
+Link to an amendment published at 89 FR 98561, Dec. 9, 2024.
+
 (a) For a MIPS payment year, CMS uses the following quality measures, as applicable, to assess performance in the quality performance category:
 
 (1) Measures included in the MIPS final list of quality measures established by CMS through rulemaking;

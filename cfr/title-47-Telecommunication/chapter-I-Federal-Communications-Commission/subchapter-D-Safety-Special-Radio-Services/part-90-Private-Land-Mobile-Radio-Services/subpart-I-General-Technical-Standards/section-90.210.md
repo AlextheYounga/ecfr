@@ -96,7 +96,7 @@ Except as indicated elsewhere in this part, transmitters used in the radio servi
 
 (k) *Emission Mask K*—(1) *Wideband multilateration transmitters.* For transmitters authorized under subpart M to provide forward or reverse links in a multilateration system in the subbands 904-909.75 MHz, 921.75-927.25 MHz and 919.75-921.75 MHz, and which transmit an emission occupying more than 50 kHz bandwidth: in any 100 kHz band, the center frequency of which is removed from the center of authorized sub-band(s) by more than 50 percent of the authorized bandwidth, the power of emissions shall be attenuated below the transmitter output power, as specified by the following equation, but in no case less than 31 dB:
 
-A = 16 + 0.4 (D−50) + 10 log B (attenuation greater than 66 dB is not required) Where:A = attenuation (in decibels) below the maximum permitted output power level D = displacement of the center frequency of the measurement bandwidth from the center frequency of the authorized sub-band, expressed as a percentage of the authorized bandwidth B B = authorized bandwidth in megahertz.
+A = 16 + 0.4 (D−50) + 10 log B (attenuation greater than 66 dB is not required)Where:A = attenuation (in decibels) below the maximum permitted output power levelD = displacement of the center frequency of the measurement bandwidth from the center frequency of the authorized sub-band, expressed as a percentage of the authorized bandwidth BB = authorized bandwidth in megahertz.
 
 (2) *Narrowband forward link transmitters.* For LMS multilateration narrowband forward link transmitters operating in the 927.25-928 MHz frequency band the power of any emission shall be attenuated below the transmitter output power (P) in accordance with following schedule:
 

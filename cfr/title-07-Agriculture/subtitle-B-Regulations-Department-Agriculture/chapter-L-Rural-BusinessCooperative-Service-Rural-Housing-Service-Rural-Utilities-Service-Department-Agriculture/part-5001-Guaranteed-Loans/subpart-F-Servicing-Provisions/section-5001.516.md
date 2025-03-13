@@ -6,7 +6,7 @@ Protective advances are allowed only when they are necessary to preserve the val
 
 (b) A lender cannot make protective advances in lieu of additional loans.
 
-(c) A lender must obtain written Agency approval for any protective advance that will cumulatively amount to more than $200,000, or 10 percent of the aggregate outstanding balance of principal and interest, whichever is less, to the same borrower. Payment of real estate taxes by the lender is not considered a protective advance and does not require Agency approval.
+(c) A lender must obtain written Agency approval for any protective advance that will cumulatively amount to more than $200,000, or 10 percent of the aggregate outstanding balance of principal and interest, whichever is less, to the same borrower. Payment of real estate taxes by the lender is considered a protective advance, subject to the requirements of this section, and does not require Agency advance approval.
 
 (d) Protective advances constitute an indebtedness of the borrower to the lender and must be secured by collateral to the same extent as the original guaranteed loan. It is the lender's responsibility to ensure that any protective advances are secured by the collateral of the guaranteed loan.
 
@@ -18,4 +18,4 @@ Protective advances are allowed only when they are necessary to preserve the val
 
 (h) Holders do not have an interest in protective advances.
 
-[85 FR 42518, July 14, 2020, as amended at 89 FR 79728, Sept. 30, 2024]
+[85 FR 42518, July 14, 2020, as amended at 89 FR 79728, Sept. 30, 2024; 89 FR 97477, Dec. 9, 2024]

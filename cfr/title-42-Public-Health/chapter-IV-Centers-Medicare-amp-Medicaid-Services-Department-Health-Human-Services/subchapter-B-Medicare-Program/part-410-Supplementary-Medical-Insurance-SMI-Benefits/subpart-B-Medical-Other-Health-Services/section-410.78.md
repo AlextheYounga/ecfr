@@ -1,5 +1,7 @@
 ##### § 410.78 Telehealth services. #####
 
+Link to an amendment published at 89 FR 98557, Dec. 9, 2024.
+
 (a) *Definitions.* For the purposes of this section the following definitions apply:
 
 (1) *Asynchronous store and forward technologies* means the transmission of a patient's medical information from an originating site to the physician or practitioner at the distant site. The physician or practitioner at the distant site can review the medical case without the patient being present. An asynchronous telecommunications system in single media format does not include telephone calls, images transmitted via facsimile machines and text messages without visualization of the patient (electronic mail). Photographs visualized by a telecommunications system must be specific to the patient's medical condition and adequate for furnishing or confirming a diagnosis and or treatment plan. Dermatological photographs, for example, a photograph of a skin lesion, may be considered to meet the requirement of a single media format under this provision.

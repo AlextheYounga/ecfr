@@ -1,12 +1,18 @@
-##### § 242.603 Distribution, consolidation, and display of information with respect to quotations for and transactions in NMS stocks. #####
-
-Link to an amendment published at 89 FR 81773, Oct. 8, 2024.
+##### § 242.603 Distribution, consolidation, dissemination, and display of information with respect to quotations for and transactions in NMS stocks. #####
 
 (a) *Distribution of information.* (1) Any exclusive processor, or any broker or dealer with respect to information for which it is the exclusive source, that distributes information with respect to quotations for or transactions in an NMS stock to a securities information processor shall do so on terms that are fair and reasonable.
 
 (2) Any national securities exchange, national securities association, broker, or dealer that distributes information with respect to quotations for or transactions in an NMS stock to a securities information processor, broker, dealer, or other persons shall do so on terms that are not unreasonably discriminatory.
 
-(b) *Dissemination of information.* Every national securities exchange on which an NMS stock is traded and national securities association shall act jointly pursuant to one or more effective national market system plans for the dissemination of consolidated market data. Every national securities exchange on which an NMS stock is traded and national securities association shall make available to all competing consolidators and self-aggregators its information with respect to quotations for and transactions in NMS stocks, including all data necessary to generate consolidated market data, in the same manner and using the same methods, including all methods of access and the same format, as such national securities exchange or national securities association makes available any information with respect to quotations for and transactions in NMS stocks to any person.
+(b) *Consolidation and dissemination of information.* (1) Application of paragraphs (b)(2) and (3) of this section:
+
+(i) Compliance with paragraph (b)(3) of this section is required until the date indicated by the Commission in any order approving amendments to the effective national market system plan(s) to effectuate a cessation of the operations of the plan processors that disseminate consolidated information regarding NMS stocks.
+
+(ii) Compliance with paragraph (b)(2) of this section is required 180 calendar days from the date of the Commission's approval of the amendments, filed as required under § 242.614(e), to the effective national market system plan(s).
+
+(2) Every national securities exchange on which an NMS stock is traded and national securities association shall act jointly pursuant to one or more effective national market system plans for the dissemination of consolidated market data. Every national securities exchange on which an NMS stock is traded and national securities association shall make available to all competing consolidators and self-aggregators its information with respect to quotations for and transactions in NMS stocks, including all data necessary to generate consolidated market data, in the same manner and using the same methods, including all methods of access and the same format, as such national securities exchange or national securities association makes available any information with respect to quotations for and transactions in NMS stocks to any person.
+
+(3) Every national securities exchange on which an NMS stock is traded and national securities association shall act jointly pursuant to one or more effective national market system plans to disseminate consolidated information, including a national best bid and national best offer and odd-lot information, on quotations for and transactions in NMS stocks. Such plan or plans shall provide for the dissemination of all consolidated information for an individual NMS stock through a single plan processor and such single plan processor must represent quotation sizes in such consolidated information in terms of the number of shares, rounded down to the nearest multiple of a round lot. Every national securities exchange on which an NMS stock is traded and national securities association shall make available to a plan processor all data necessary to generate odd-lot information.
 
 (c) *Display of information.* (1) No securities information processor, broker, or dealer shall provide, in a context in which a trading or order-routing decision can be implemented, a display of any information with respect to quotations for or transactions in an NMS stock without also providing, in an equivalent manner, a consolidated display for such stock.
 
@@ -14,4 +20,4 @@ Link to an amendment published at 89 FR 81773, Oct. 8, 2024.
 
 (d) *Exemptions.* The Commission, by order, may exempt from the provisions of this section, either unconditionally or on specified terms and conditions, any person, security, or item of information, or any class or classes of persons, securities, or items of information, if the Commission determines that such exemption is necessary or appropriate in the public interest, and is consistent with the protection of investors.
 
-[70 FR 37620, June 29, 2005, as amended at 86 FR 18811, Apr. 9, 2021]
+[70 FR 37620, June 29, 2005, as amended at 86 FR 18811, Apr. 9, 2021; 89 FR 81773, Oct. 8, 2024]

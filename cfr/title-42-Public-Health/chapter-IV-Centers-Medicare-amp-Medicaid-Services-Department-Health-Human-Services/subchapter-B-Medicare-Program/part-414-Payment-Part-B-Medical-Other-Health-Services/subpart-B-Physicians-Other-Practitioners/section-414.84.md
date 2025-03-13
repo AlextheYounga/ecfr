@@ -1,5 +1,7 @@
 ##### § 414.84 Payment for MDPP services. #####
 
+Link to an amendment published at 89 FR 98558, Dec. 9, 2024.
+
 (a) *Definitions.* In addition to the definitions specified at § 410.79(b) and § 424.205(a) of this chapter, the following definitions apply to this section.
 
 *Attendance payment* means a payment that is made to an MDPP supplier for furnishing services to an MDPP beneficiary when the MDPP beneficiary attends an MDPP core or core maintenance session. CMS will allow up to 22 sessions (alone or in combination with other codes, not to exceed 22 sessions in a 12- month timeframe).

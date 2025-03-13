@@ -1,5 +1,7 @@
 ##### § 410.30 Prescription drugs used in immunosuppressive therapy. #####
 
+Link to an amendment published at 89 FR 98555, Dec. 9, 2024.
+
 (a) *Scope.* Payment may be made for prescription drugs used in immunosuppressive therapy that have been approved for marketing by the FDA and that meet one of the following conditions:
 
 (1) The approved labeling includes the indication for preventing or treating the rejection of a transplanted organ or tissue.

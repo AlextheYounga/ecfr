@@ -10,4 +10,4 @@ Any individual compelled to appear in person in any Commission proceeding may be
 
 (d) Except as provided by paragraph (c) of this section, counsel for the witness may not examine or cross-examine any witness, or offer documentary evidence, unless authorized by the Commission to do so.
 
-(5 U.S.C. 555) [29 FR 12775, Sept. 10, 1964]
+(5 U.S.C. 555)[29 FR 12775, Sept. 10, 1964]

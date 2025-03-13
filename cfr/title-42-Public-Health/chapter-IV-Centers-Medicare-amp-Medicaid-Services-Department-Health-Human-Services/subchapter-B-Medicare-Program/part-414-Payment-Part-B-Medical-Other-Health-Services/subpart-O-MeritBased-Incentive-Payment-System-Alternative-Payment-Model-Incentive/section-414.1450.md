@@ -1,5 +1,7 @@
 ##### § 414.1450 APM incentive payment. #####
 
+Link to an amendment published at 89 FR 98564, Dec. 9, 2024.
+
 (a) *In general.* (1) CMS makes a lump sum payment to QPs in the amount described in paragraph (b) of this section in the manner described in paragraphs (d) and (e) of this section.
 
 (i) For payment years 2019 through 2025, CMS makes a lump sum payment to QPs in the amount described in paragraph (b) of this section in the manner described in paragraphs (d) and (e) of this section.

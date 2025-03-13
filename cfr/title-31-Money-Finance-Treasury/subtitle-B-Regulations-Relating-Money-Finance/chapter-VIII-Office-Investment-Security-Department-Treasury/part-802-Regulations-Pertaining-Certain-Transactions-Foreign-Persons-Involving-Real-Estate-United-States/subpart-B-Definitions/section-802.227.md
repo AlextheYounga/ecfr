@@ -1,7 +1,5 @@
 ##### § 802.227 Military installation. #####
 
-Link to an amendment published at 89 FR 88133, Nov. 7, 2024.
-
 The term *military installation* means any site that meets the following category descriptions, as identified in the list at appendix A to this part:
 
 (a) Active Air Force ballistic missile fields;
@@ -12,11 +10,11 @@ The term *military installation* means any site that meets the following categor
 
 (d) Air Force bases and major annexes thereof containing an Air Force research laboratory or test unit and associated sites;
 
-(e) Air Force bases and major annexes thereof containing a unit of the North American Aerospace Defense Command and its regions;
+(e) Air Force bases and major annexes thereof, and Space Force bases and major annexes thereof containing a unit of the North American Aerospace Defense Command and its regions;
 
-(f) Air Force bases and Air Force stations and major annexes thereof containing satellite, telemetry, tracking, or commanding systems;
+(f) Air Force bases, Air Force stations, Space Force bases, Space Force stations, and major annexes thereof, containing satellite, telemetry, tracking, or commanding systems;
 
-(g) Army bases, ammunition plants, centers of excellence and research laboratories and major annexes thereof, excluding depots, arsenals, and airfields that are not collocated with an Army installation included in this section;
+(g) Army bases, ammunition plants, centers of excellence, major depots and arsenals, military terminals, and research laboratories and major annexes thereof;
 
 (h) Army combat training centers located in the continental United States;
 
@@ -26,14 +24,14 @@ The term *military installation* means any site that meets the following categor
 
 (k) Major range and test facility base activities as defined in 10 U.S.C. 196;
 
-(l) Marine Corps bases and air stations and major annexes thereof, excluding detachments, installations, logistics battalions, recruit depots, and support facilities;
+(l) Marine Corps bases and air stations and major annexes thereof, excluding detachments and recruit depots;
 
-(m) Military ranges as defined in 10 U.S.C. 101(e)(1) owned by the Navy or Air Force, or joint forces training centers that are located in any of the following states: Arizona, California, Florida, Idaho, Iowa, Mississippi, Nevada, North Carolina, North Dakota, Oregon, South Dakota, Texas, or Wisconsin;
+(m) Military ranges as defined in 10 U.S.C. 101 (f)(1), or joint forces training centers;
 
-(n) Naval bases and air stations containing squadrons and supporting commands of the Submarine Force Atlantic or Submarine Force Pacific and major offices thereof;
+(n) Naval bases and air stations including major support activities and annexes;
 
 (o) Naval surface, air, and undersea warfare centers and research laboratories and major annexes thereof; and
 
 (p) Navy off-shore range complexes and off-shore operating areas.
 
-{85 FR 3166, Jan. 17, 2020, as amended at 88 FR 57350, Aug. 23, 2023]
+[85 FR 3166, Jan. 17, 2020, as amended at 88 FR 57350, Aug. 23, 2023; 89 FR 88133, Nov. 7, 2024]

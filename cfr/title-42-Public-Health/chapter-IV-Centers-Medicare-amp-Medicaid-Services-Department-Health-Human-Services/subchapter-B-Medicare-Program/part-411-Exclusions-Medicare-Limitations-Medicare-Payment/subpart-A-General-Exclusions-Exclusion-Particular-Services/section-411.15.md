@@ -1,5 +1,7 @@
 ##### § 411.15 Particular services excluded from coverage. #####
 
+Link to an amendment published at 89 FR 98558, Dec. 9, 2024.
+
 The following services are excluded from coverage:
 
 (a) Routine physical checkups such as:

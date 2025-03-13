@@ -1,5 +1,7 @@
 ##### § 425.202 Application procedures. #####
 
+Link to an amendment published at 89 FR 98566, Dec. 9, 2024.
+
 (a) *General rules.* (1) In order to obtain a determination regarding whether it meets the requirements to participate in the Shared Savings Program, a prospective ACO must submit a complete application in the form and manner required by CMS by the deadline established by CMS.
 
 (2) An ACO executive who has the authority to legally bind the ACO must certify to the best of his or her knowledge, information, and belief that the information contained in the application is accurate, complete, and truthful.

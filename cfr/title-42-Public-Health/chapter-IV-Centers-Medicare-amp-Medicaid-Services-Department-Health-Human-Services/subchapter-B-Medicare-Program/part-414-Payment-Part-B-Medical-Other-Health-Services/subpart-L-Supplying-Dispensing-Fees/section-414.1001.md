@@ -1,5 +1,7 @@
 ##### § 414.1001 Basis of payment. #####
 
+Link to an amendment published at 89 FR 98560, Dec. 9, 2024.
+
 (a) *Supplying fees.* Beginning in CY 2006—
 
 (1) A supplying fee of $24 is paid to a pharmacy for the first prescription of drugs and biologicals described in sections 1861(s)(2)(J), 1861(s)(2)(Q), and 1861(s)(2)(T) of the Act, that the pharmacy provided to a beneficiary during a 30-day period.

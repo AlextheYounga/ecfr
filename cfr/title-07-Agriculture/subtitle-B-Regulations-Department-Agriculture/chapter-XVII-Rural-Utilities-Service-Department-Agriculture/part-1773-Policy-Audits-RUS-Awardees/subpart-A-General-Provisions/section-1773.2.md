@@ -1,7 +1,5 @@
 ##### § 1773.2 Definitions. #####
 
-Link to an amendment published at 89 FR 88634, Nov. 8, 2024.
-
 As used in this part:
 
 *2 CFR part 200, subpart F* means 2 CFR part 200, Uniform Administrative Requirements, Cost Principles and Audit Requirements for Federal Awards, subpart F, Audit Requirements, as adopted by USDA in 2 CFR part 400.
@@ -16,7 +14,7 @@ As used in this part:
 
 *ASC* means the Accounting Standards Codification issued by the Financial Accounting Standards Board.
 
-*Audit* means an examination of financial statements by an independent auditor for the purpose of expressing an opinion on the fairness with which those statements present financial position, results of operations, and changes in cash flows in accordance with U.S. generally accepted accounting principles (GAAP) and for determining whether the auditee has complied with applicable laws, regulations, and provisions of contracts or grant agreements that could have a material effect on the financial statements.
+*Audit* means an examination of financial statements by an independent auditor or audit firm for the purpose of expressing an opinion on the fairness with which the financial statements present the financial position, results of operations, and changes in cash flows in accordance with U.S. generally accepted accounting principles (GAAP) and for determining whether the auditee has complied with provisions of laws, regulations, contracts, or grant agreements that could have a material effect on the financial statements.
 
 *Audit date* means the “as of” date established by the auditee.
 
@@ -56,11 +54,11 @@ As used in this part:
 
 *OMB* means The Office of Management and Budget.
 
-*Peer review* means an approved study, appraisal, or review of one or more aspects of the accounting and auditing practice, not subject to Public Company Accounting Oversight Board permanent inspection, performed once every three years by a CPA firm that is not affiliated with the auditor.
+*Peer review* means an external review of one or more aspects of the accounting and auditing practice, not subject to Public Company Accounting Oversight Board permanent inspection, performed once every three years by a CPA firm that is not affiliated with the auditor.
 
-*Regulatory asset* means an asset resulting from an action of a regulator as defined by FASB.
+*Regulatory asset* means an asset resulting from an action of a regulator as defined by FASB and GASB.
 
-*Regulatory liability* means a liability imposed on a regulated enterprise when there is an enforceable present obligation to deduct an amount in determining the regulated rate to be charged to customers in future periods.
+*Regulatory liability* means a liability imposed on a regulated enterprise when there is an enforceable present obligation to deduct an amount in determining the regulated rate to be charged to customers in future periods, as defined by FASB and GASB.
 
 *Related party* has the same meaning as defined by FASB and GASB.
 
@@ -88,4 +86,4 @@ As used in this part:
 
 *Uniform System of Accounts* means, for telecommunications awardees, as contained in 7 CFR part 1770, subpart B, and for electric awardees, as contained in 7 CFR part 1767, subpart B.
 
-[83 FR 19907, May 7, 2018, as amended at 88 FR 7562, Feb. 6, 2023]
+[83 FR 19907, May 7, 2018, as amended at 88 FR 7562, Feb. 6, 2023; 89 FR 88634, Nov. 8, 2024]

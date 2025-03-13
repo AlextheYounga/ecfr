@@ -1,5 +1,7 @@
 ##### § 425.316 Monitoring of ACOs. #####
 
+Link to an amendment published at 89 FR 98567, Dec. 9, 2024.
+
 (a) *General rule.* (1) In order to ensure that the ACO continues to satisfy the eligibility and program requirements under this part, CMS monitors and assesses the performance of ACOs, their ACO participants, and ACO providers/suppliers.
 
 (2) CMS employs a range of methods to monitor and assess the performance of ACOs, ACO participants, and ACO providers/suppliers, including but not limited to any of the following, as appropriate:

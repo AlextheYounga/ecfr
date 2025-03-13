@@ -22,7 +22,7 @@
 
 (A) Definition of equivalent power flux density: The equivalent power flux density (EPFD) is the power flux density produced at a direct broadcast service (DBS) receive earth station, taking into account shielding effects and the off-axis discrimination of the receiving antenna assumed to be pointing at the appropriate DBS satellite(s) from the transmitting antenna of a multichannel video distribution and data service (MVDDS) transmit station. The EPFD in dBW/m2 in the reference bandwidth is calculated using the following formula:
 
-![](/graphics/er07jn04.000.gif)Where:Pout = Total output power of the MVDDS transmitter (watts) into antenna Gm (*θ*m,*φ*m = Gain of the MVDDS antenna in the direction of the DBS earth station Ge (*θ*e,*φ*e = Gain of the earth station in the direction of the MVDDS antenna I = Interference scaling factor for the earth station (1 dB for MVDDS transmitters employing the modulation discussed in Section 3.1.5 of the MITRE Report (*i.e.,* a QPSK modulated signal passed through a square-root raised cosine filter). For other modulation and filtering schemes, the interference scaling factor can be measured using the procedures described in Appendix A of the MITRE Report available at *http://www.fcc.gov/oet/info/mitrereport/mitrereport\_4\_01.pdf*).Ge, max = Maximum gain of the DBS earth station d = the distance between the MVDDS transmitting antenna and the DBS earth station (meters)
+![](/graphics/er07jn04.000.gif)Where:Pout = Total output power of the MVDDS transmitter (watts) into antennaGm (*θ*m,*φ*m = Gain of the MVDDS antenna in the direction of the DBS earth stationGe (*θ*e,*φ*e = Gain of the earth station in the direction of the MVDDS antennaI = Interference scaling factor for the earth station (1 dB for MVDDS transmitters employing the modulation discussed in Section 3.1.5 of the MITRE Report (*i.e.,* a QPSK modulated signal passed through a square-root raised cosine filter). For other modulation and filtering schemes, the interference scaling factor can be measured using the procedures described in Appendix A of the MITRE Report available at *http://www.fcc.gov/oet/info/mitrereport/mitrereport\_4\_01.pdf*).Ge, max = Maximum gain of the DBS earth stationd = the distance between the MVDDS transmitting antenna and the DBS earth station (meters)
 
 (B) Regional equivalent power flux density levels:
 
@@ -60,7 +60,7 @@
 
 (i) For site-based multiple address stations in the 928-929/952-960 MHz and the 932-932.5/941-941.5 MHz bands, a statement that the proposed system complies with the following co-channel separations from all existing stations and pending applications:
 
-Fixed-to-fixed—145 km; Fixed-to-mobile—113 km; Mobile-to-mobile—81 kmNote to paragraph (c)(3)(i):
+Fixed-to-fixed—145 km;Fixed-to-mobile—113 km;Mobile-to-mobile—81 kmNote to paragraph (c)(3)(i):
 
 Multiple address systems employing only remote stations will be treated as mobile for the purposes of determining the appropriate separation. For mobile operation, the mileage is measured from the reference point specified on the license application. For fixed operation on subfrequencies in accordance with § 101.147 the mileage also is measured from the reference point specified on the license application.
 

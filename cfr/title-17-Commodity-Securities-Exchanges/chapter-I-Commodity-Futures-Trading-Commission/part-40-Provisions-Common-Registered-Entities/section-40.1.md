@@ -1,34 +1,18 @@
 ##### § 40.1 Definitions. #####
 
-Link to an amendment published at 89 FR 88622, Nov. 7, 2024.
-
 As used in this part:
 
-(a) *Business day* means the intraday period of time starting at the business hour of 8:15 a.m. and ending at the business hour of 4:45 p.m.; *business hour* means any hour between 8:15 a.m. and 4:45 p.m. Business day and business hour are Eastern Standard Time or Eastern Daylight Savings Time, whichever is currently in effect in Washington, DC, on all days except Saturdays, Sundays, and Federal holidays in Washington, DC.
+*Business day* means the intraday period of time starting at 8:15 a.m. and ending at 4:45 p.m. Eastern Standard Time or Eastern Daylight Savings Time, whichever is currently in effect in Washington, DC, on all days except Saturdays, Sundays, and Federal holidays in Washington, DC.
 
-(b) *Dormant contract or dormant product* means:
+*Dormant designated contract market* means any designated contract market on which no trading has occurred for a period of 365 days; *provided, however,* no designated contract market shall be considered dormant if its initial and original Commission order of designation was issued within the preceding 1,095 days.
 
-(1) Any agreement, contract, transaction, instrument, swap or any such commodity futures or option contract with respect to all future or option expiries, listed on a designated contract market, a swap execution facility or cleared by a registered derivatives clearing organization, that has no open interest and in which no trading has occurred for a period of twelve complete calendar months following a certification to, or approval by, the Commission; *provided, however,* that no contract or instrument under this paragraph (b)(1) initially and originally certified to, or approved by, the Commission within the preceding 36 complete calendar months shall be considered to be dormant; or
+*Dormant derivatives clearing organization* means any derivatives clearing organization registered pursuant to section 5b of the Act that has not accepted for clearing any agreement, contract or transaction that is required or permitted to be cleared by a derivatives clearing organization under sections 5b(a) and 5b(b) of the Act, respectively, for a period of 365 days; *provided, however,* no derivatives clearing organization shall be considered dormant if its initial and original Commission order of registration was issued within the preceding 1,095 days.
 
-(2) Any commodity futures or option contract, swap or other agreement, contract, transaction or instrument of a dormant designated contract market, dormant swap execution facility or a dormant derivatives clearing organization; or
+*Dormant swap data repository* means any registered swap data repository on which no data has resided for a period of 365 days.
 
-(3) Any commodity futures or option contract or other agreement, contract, swap, transaction or instrument not otherwise dormant that a designated contract market, a swap execution facility or a derivatives clearing organization self-declares through certification to be dormant.
+*Dormant swap execution facility* means any swap execution facility on which no trading has occurred for a period of 365 days; *provided, however,* no swap execution facility shall be considered dormant if its initial and original Commission order of registration was issued within the preceding 1,095 days.
 
-(c) *Dormant designated contract market* means any designated contract market on which no trading has occurred during the period of twelve consecutive calendar months, preceding the first day of the most recent calendar month; *provided, however,* no designated contract market shall be considered to be dormant if its initial and original Commission order of designation was issued within the preceding 36 consecutive calendar months.
-
-(d) *Dormant derivatives clearing organization* means any derivatives clearing organization registered pursuant to Section 5b of the Act that has not accepted for clearing any agreement, contract or transaction that is required or permitted to be cleared by a derivatives clearing organization under Sections 5b(a) and 5b(b) of the Act, respectively, for a period of twelve complete calendar months; *provided, however,* no derivatives clearing organization shall be considered to be dormant if its initial and original Commission order of registration was issued within the preceding 36 complete calendar months.
-
-(e) *Dormant swap data repository* means any registered swap data repository on which no data has resided for a period of twelve consecutive calendar months, preceding the most recent calendar month.
-
-(f) *Dormant swap execution facility* means any swap execution facility on which no trading has occurred for a period of twelve consecutive calendar months, preceding the first day of the most recent calendar month; provided, however, no swap execution facility shall be considered to be dormant if its initial and original Commission order of registration was issued within the preceding 36 consecutive calendar months.
-
-(g) *Dormant rule* means:
-
-(1) Any registered entity rule which remains unimplemented for twelve consecutive calendar months following a certification with, or an approval by, the Commission; or
-
-(2) Any rule or rule amendment of a dormant designated contract market, dormant swap execution facility, dormant swap data repository or dormant derivatives clearing organization.
-
-(h) *Emergency* means any occurrence or circumstance that, in the opinion of the governing board of a registered entity, or a person or persons duly authorized to issue such an opinion on behalf of the governing board of a registered entity under circumstances and pursuant to procedures that are specified by rule, requires immediate action and threatens or may threaten such things as the fair and orderly trading in, or the liquidation of or delivery pursuant to, any agreements, contracts, swaps or transactions or the timely collection and payment of funds in connection with clearing and settlement by a derivatives clearing organization, including:
+*Emergency* means any occurrence or circumstance that, in the opinion of the governing board of a registered entity, or a person or persons duly authorized to issue such an opinion on behalf of the governing board of a registered entity under circumstances and pursuant to procedures that are specified by rule, requires immediate action and threatens or may threaten such things as the fair and orderly trading in, or the liquidation of or delivery pursuant to, any agreements, contracts, swaps or transactions or the timely collection and payment of funds in connection with clearing and settlement by a derivatives clearing organization, including:
 
 (1) Any manipulative or attempted manipulative activity;
 
@@ -40,9 +24,9 @@ As used in this part:
 
 (5) Any other circumstance which may have a severe, adverse effect upon the functioning of a registered entity.
 
-(i) *Rule* means any constitutional provision, article of incorporation, bylaw, rule, regulation, resolution, interpretation, stated policy, advisory, terms and conditions, trading protocol, agreement or instrument corresponding thereto, including those that authorize a response or establish standards for responding to a specific emergency, and any amendment or addition thereto or repeal thereof, made or issued by a registered entity or by the governing board thereof or any committee thereof, in whatever form adopted.
+*Rule* means any constitutional provision, article of incorporation, bylaw, rule, regulation, resolution, interpretation, stated policy, advisory, terms and conditions, trading protocol, margin methodology, agreement or instrument corresponding thereto, including those that authorize a response or establish standards for responding to a specific emergency, and any amendment or addition thereto or repeal thereof, made or issued by a registered entity or by the governing board thereof or any committee thereof, in whatever form adopted.
 
-(j) *Terms and conditions* means any definition of the trading unit or the specific commodity underlying a contract for the future delivery of a commodity or commodity option contract, description of the payments to be exchanged under a swap, specification of cash settlement or delivery standards and procedures, and establishment of buyers' and sellers' rights and obligations under the swap or contract. Terms and conditions include provisions relating to the following:
+*Terms and conditions* means any definition of the trading unit or the specific commodity underlying a contract for the future delivery of a commodity or commodity option contract, description of the payments to be exchanged under a swap, specification of cash settlement or delivery standards and procedures, and establishment of buyers' and sellers' rights and obligations under the swap or contract. Terms and conditions include provisions relating to the following:
 
 (1) For a contract for the purchase or sale of a commodity for future delivery or an option on such a contract or an option on a commodity (other than a swap):
 
@@ -58,7 +42,7 @@ As used in this part:
 
 (vi) Any price limits, no cancellation ranges, trading halts, or circuit breaker provisions, and procedures for the establishment of daily settlement prices;
 
-(vii) Speculative position limits, position accountability standards, and position reporting requirements, including an indication as to whether the contract meets the definition of a referenced contract as defined in § 150.1 of this chapter, and, if so, the name of either the core referenced futures contract or other referenced contract upon which the new referenced contract submitted under this part 40 is based.
+(vii) Speculative position limits, position accountability standards, and position reporting requirements, including an indication as to whether the contract meets the definition of a referenced contract as defined in § 150.1 of this chapter, and if so, the name of either the core referenced futures contract or other referenced contract upon which the new referenced contract submitted under this part is based.
 
 (viii) Delivery points and locational price differentials;
 
@@ -66,7 +50,7 @@ As used in this part:
 
 (x) If cash settled; the definition, composition, calculation and revision of the cash settlement price or index;
 
-(xi) Payment or collection of commodity option premiums or margins;
+(xi) [Reserved];
 
 (xii) Option exercise price, if it is constant, and method for calculating the exercise price, if it is variable;
 
@@ -88,7 +72,7 @@ As used in this part:
 
 (vi) Any price limits, trading halts, or circuit breaker provisions, and procedures for the establishment of daily settlement prices;
 
-(vii) Speculative position limits, position accountability standards, and position reporting requirements, including an indication as to whether the contract meets the definition of economically equivalent swap as defined in § 150.1 of this chapter, and, if so, the name of either the core referenced futures contract or referenced contract, as applicable, to which the swap submitted under this part 40 is economically equivalent.
+(vii) Speculative position limits, position accountability standards, and position reporting requirements, including an indication as to whether the contract meets the definition of economically equivalent swap as defined in § 150.1 of this chapter, and, if so, the name of either the core referenced futures contract or referenced contract, as applicable, to which the swap submitted under this part is economically equivalent.
 
 (viii) Payment and reset frequency, day count conventions, business calendars, and accrual features;
 
@@ -96,7 +80,7 @@ As used in this part:
 
 (x) If cash settled, the definition, composition, calculation and revision of the cash settlement price, and the settlement currency;
 
-(xi) Payment or collection of option premiums or margins;
+(xi) [Reserved]
 
 (xii) Option exercise price, if it is constant, and method for calculating the exercise price, if it is variable;
 
@@ -106,4 +90,4 @@ As used in this part:
 
 (xv) Life cycle events.
 
-[76 FR 44790, July 27, 2011, as amended at 86 FR 3463, Jan. 14, 2021]
+[89 FR 88622, Nov. 7, 2024]

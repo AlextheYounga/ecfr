@@ -24,8 +24,10 @@
 
 (D) Has the ability to meet all of the requirements for submitting and updating clinical trial information as specified in this part.
 
-(ii) With regard to an applicable clinical trial or other clinical trial, a designation by the sponsor under paragraph (c)(2)(i) of this section shall consist of the sponsor obtaining from the principal investigator an acknowledgment of the principal investigator's responsibilities under this part as responsible party, and the principal investigator acknowledging the designation as responsible party to the Director in the format specified at *https://prsinfo.clinicaltrials.gov.*
+(ii) With regard to an applicable clinical trial or other clinical trial, a designation by the sponsor under paragraph (c)(2)(i) of this section shall consist of the sponsor obtaining from the principal investigator an acknowledgment of the principal investigator's responsibilities under this part as responsible party, and the principal investigator acknowledging the designation as responsible party to the Director in the format specified at *https://clinicaltrials.gov* or successor site.
 
 (3) *Withdrawal of the designation of a principal investigator as the responsible party.*
 
-In the event that a principal investigator who has been designated the responsible party no longer meets or is no longer able to meet all the requirements for being so designated under paragraph (c)(2)(i) of this section, the sponsor must withdraw the designation in the format specified at *https://prsinfo.clinicaltrials.gov,* at which time the sponsor will be considered the responsible party unless and until the sponsor makes a new designation in accordance with paragraph (c)(2) of this section.
+In the event that a principal investigator who has been designated the responsible party no longer meets or is no longer able to meet all the requirements for being so designated under paragraph (c)(2)(i) of this section, the sponsor must withdraw the designation in the format specified at *https://clinicaltrials.gov* or successor site at which time the sponsor will be considered the responsible party unless and until the sponsor makes a new designation in accordance with paragraph (c)(2) of this section.
+
+[81 FR 65138, Sept. 21, 2016, as amended at 89 FR 97559, Dec. 9, 2024]

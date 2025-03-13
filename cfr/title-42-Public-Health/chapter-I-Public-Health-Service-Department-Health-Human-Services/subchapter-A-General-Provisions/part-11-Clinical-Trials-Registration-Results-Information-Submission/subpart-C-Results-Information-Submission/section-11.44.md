@@ -64,7 +64,7 @@
 
 (ii) If the extension request is denied, the responsible party must either appeal in accordance with paragraph (e)(3) of this section or submit clinical trial results information specified in § 11.48 by the later of the submission deadline specified in paragraph (a), (b), (c), (d), (e), or (f) of this section, as applicable, or 30 calendar days after the date on which the electronic notice of the denial is sent to the responsible party.
 
-(3) *Appealing a denied extension request.* (i) A responsible party who seeks to appeal a denied extension request or the deadline specified in a granted extension must submit an appeal to the Director in the format specified at *https://prsinfo.clinicaltrials.gov/* not later than 30 calendar days after the date on which the electronic notification of the granting or denial of the request is sent to the responsible party.
+(3) *Appealing a denied extension request.* (i) A responsible party who seeks to appeal a denied extension request or the deadline specified in a granted extension must submit an appeal to the Director in the format specified at *https://clinicaltrials.gov* or successor site not later than 30 calendar days after the date on which the electronic notification of the granting or denial of the request is sent to the responsible party.
 
 (ii) An appeal must contain an explanation of the reason(s) why the initial decision to deny the extension request or to grant the extension request with a shorter deadline than requested should be overturned or revised, with sufficient detail to allow for the evaluation of the appeal.
 
@@ -77,3 +77,5 @@
 (vi) If the Director denies an appeal of a denied deadline specified in a granted extension request, the responsible party must submit clinical trial results information by the later of the deadline specified in the notification granting the extension request, specified in paragraph (e)(2)(i) of this section, or 30 calendar days after the electronic notification denying the appeal, specified in paragraph (e)(3)(iii) of this section, is sent to the responsible party.
 
 (f) *Pediatric postmarket surveillance of a device product that is not a clinical trial.* For each pediatric postmarket surveillance of a device product that is not a clinical trial as defined in this part, the responsible party must submit clinical trial results information as specified in § 11.48(b) or section 402(j)(C)(3) of the Public Health Service Act (42 U.S.C. 282(j)(C)(3)), as applicable, not later than 30 calendar days after the date on which the final report of the approved pediatric postmarket surveillance of a device product, as specified in 21 CFR 822.38, is submitted to FDA.
+
+[81 FR 65138, Sept. 21, 2016, as amended at 89 FR 97559, Dec. 9, 2024]

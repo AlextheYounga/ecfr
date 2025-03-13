@@ -1,5 +1,7 @@
 ##### § 405.2464 Payment rate. #####
 
+Link to an amendment published at 89 FR 98554, Dec. 9, 2024.
+
 (a) *Payment rate for RHCs that are authorized to bill under the reasonable cost system.* (1) Except as specified in paragraphs (d) and (e) of this section, an RHC that is authorized to bill under the reasonable cost system is paid an all-inclusive rate that is determined by the MAC at the beginning of the cost reporting period.
 
 (2) The rate is determined by dividing the estimated total allowable costs by estimated total visits for RHC services.

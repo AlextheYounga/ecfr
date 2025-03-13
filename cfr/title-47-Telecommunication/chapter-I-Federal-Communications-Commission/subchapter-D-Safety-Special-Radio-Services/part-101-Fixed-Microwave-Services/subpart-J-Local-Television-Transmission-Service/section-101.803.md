@@ -2,7 +2,7 @@
 
 (a) Frequencies in the following bands are available for assignment to television pickup and television non-broadcast pickup stations in this service:
 
-6,425 to 6,525 MHz. (6) 11,700 to 12,200 MHz. (3) 13,200 to 13,250 MHz. (1)14,200 to 14,400 MHz. (8)21,200 to 22,000 MHz. (1), (2), (4), (5) 22,000 to 23,600 MHz. (1), (2), (5) 31,000 to 31,300 MHz. (7)Notes
+6,425 to 6,525 MHz. (6)11,700 to 12,200 MHz. (3)13,200 to 13,250 MHz. (1)14,200 to 14,400 MHz. (8)21,200 to 22,000 MHz. (1), (2), (4), (5)22,000 to 23,600 MHz. (1), (2), (5)31,000 to 31,300 MHz. (7)Notes
 
 (1) This frequency band is shared with fixed and mobile stations licensed under this and other parts of the Commission's Rules.
 

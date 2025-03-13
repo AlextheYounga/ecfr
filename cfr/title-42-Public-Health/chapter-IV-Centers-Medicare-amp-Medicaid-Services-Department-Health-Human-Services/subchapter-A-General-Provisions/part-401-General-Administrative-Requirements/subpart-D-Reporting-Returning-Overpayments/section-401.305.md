@@ -1,5 +1,7 @@
 ##### § 401.305 Requirements for reporting and returning of overpayments. #####
 
+Link to an amendment published at 89 FR 98553, Dec. 9, 2024.
+
 (a) *General.* (1) A person that has received an overpayment must report and return the overpayment in the form and manner set forth in this section.
 
 (2) A person has identified an overpayment when the person has, or should have through the exercise of reasonable diligence, determined that the person has received an overpayment and quantified the amount of the overpayment. A person should have determined that the person received an overpayment and quantified the amount of the overpayment if the person fails to exercise reasonable diligence and the person in fact received an overpayment.

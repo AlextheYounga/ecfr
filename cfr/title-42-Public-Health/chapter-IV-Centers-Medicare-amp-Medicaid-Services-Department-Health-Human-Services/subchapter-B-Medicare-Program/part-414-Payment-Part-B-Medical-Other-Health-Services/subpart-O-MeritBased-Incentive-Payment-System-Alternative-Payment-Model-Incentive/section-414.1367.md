@@ -1,5 +1,7 @@
 ##### § 414.1367 APM performance pathway. #####
 
+Link to an amendment published at 89 FR 98562, Dec. 9, 2024.
+
 (a) *General.* Beginning with the 2023 MIPS payment year, the APM Performance Pathway is a MIPS scoring methodology available to MIPS eligible clinicians identified on the Participation List or Affiliated Practitioner List of an APM Entity participating in a MIPS APM.
 
 (b) *Criteria for MIPS APMs.* MIPS APMs are those in which:

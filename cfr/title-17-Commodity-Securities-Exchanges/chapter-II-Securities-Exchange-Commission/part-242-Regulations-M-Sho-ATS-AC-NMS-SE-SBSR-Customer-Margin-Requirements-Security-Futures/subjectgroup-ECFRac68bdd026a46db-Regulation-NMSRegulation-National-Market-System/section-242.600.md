@@ -1,7 +1,5 @@
 ##### § 242.600 NMS security designation and definitions. #####
 
-Link to an amendment published at 89 FR 81772, Oct. 8, 2024.
-
 (a) The term *national market system security* as used in section 11A(a)(2) of the Act (15 U.S.C. 78k-1(a)(2)) shall mean any NMS security as defined in paragraph (b) of this section.
 
 (b)(1) *Actionable indication of interest* means any indication of interest that explicitly or implicitly conveys all of the following information with respect to any order available at the venue sending the indication of interest:
@@ -278,9 +276,11 @@ Link to an amendment published at 89 FR 81772, Oct. 8, 2024.
 
 (69) *Odd-lot information* means:
 
-(i) Odd-lot transaction data disseminated pursuant to the effective national market system plan or plans required under § 242.603(b) as of April 9, 2021; and
+(i) Odd-lot transaction data disseminated pursuant to the effective national market system plan or plans required under § 242.603(b) as of April 9, 2021;
 
-(ii) Odd-lots at a price greater than or equal to the national best bid and less than or equal to the national best offer, aggregated at each price level at each national securities exchange and national securities association.
+(ii) Odd-lots at a price greater than or equal to the national best bid and less than or equal to the national best offer, aggregated at each price level at each national securities exchange and national securities association; and
+
+(iii) *Best odd-lot order to buy and best odd-lot order to sell.* The best odd-lot order to buy means the highest priced odd-lot order to buy that is priced higher than the national best bid, and the best odd-lot order to sell means the lowest priced odd-lot order to sell that is priced lower than the national best offer, for an NMS stock that are calculated and disseminated on a current and continuing basis by a competing consolidator or plan processor or calculated by a self-aggregator; provided, that in the event two or more market centers transmit to a competing consolidator, plan processor, or a self-aggregator identical odd-lot buy orders or odd-lot sell orders for an NMS stock, the highest priced odd-lot buy order or lowest priced odd-lot sell order (as the case may be) shall be determined by ranking all such identical odd-lot buy orders or odd-lot sell orders (as the case may be) first by size (giving the highest ranking to the odd-lot buy order or odd-lot sell order associated with the largest size), and then by time (giving the highest ranking to the odd-lot buy order or odd-lot sell order received first in time).
 
 (70) *Options class* means all of the put option or call option series overlying a security, as defined in section 3(a)(10) of the Act (15 U.S.C. 78c(a)(10)).
 
@@ -340,9 +340,11 @@ Link to an amendment published at 89 FR 81772, Oct. 8, 2024.
 
 (C) Information relating to regulatory halts or trading pauses (news dissemination/pending, LULD, Market-Wide Circuit Breakers) and reopenings or resumptions;
 
-(D) The official opening and closing prices of the primary listing exchange; and
+(D) The official opening and closing prices of the primary listing exchange;
 
-(E) An indicator of the applicable round lot size.
+(E) An indicator of the applicable round lot size; and
+
+(F) An indicator of the applicable minimum pricing increment required under § 242.612.
 
 (ii) Information required to be collected or calculated by the national securities exchange or national securities association on which an NMS stock is traded and provided to competing consolidators and self-aggregators pursuant to the effective national market system plan or plans required under § 242.603(b), including, at a minimum:
 
@@ -351,6 +353,8 @@ Link to an amendment published at 89 FR 81772, Oct. 8, 2024.
 (B) Other regulatory messages including subpenny execution and trade-though exempt indicators.
 
 (iii) For purposes of paragraph (b)(89)(i)(C) of this section, the primary listing exchange that has the largest proportion of companies included in the S&P 500 Index shall monitor the S&P 500 Index throughout the trading day, determine whether a Level 1, Level 2, or Level 3 decline, as defined in self-regulatory organization rules related to Market-Wide Circuit Breakers, has occurred, and immediately inform the other primary listing exchanges of all such declines.
+
+(iv) The primary listing exchange shall also provide the information required under paragraphs (b)(89)(i)(E) and (F) of this section to the applicable plan processor for dissemination.
 
 (90) *Responsible broker or dealer* means:
 
@@ -364,15 +368,29 @@ Link to an amendment published at 89 FR 81772, Oct. 8, 2024.
 
 (93) *Round lot* means:
 
-(i) For any NMS stock for which the prior calendar month's average closing price on the primary listing exchange was $250.00 or less per share, an order for the purchase or sale of an NMS stock of 100 shares;
+(i) For any NMS stock for which the average closing price on the primary listing exchange during the prior Evaluation Period was:
 
-(ii) For any NMS stock for which the prior calendar month's average closing price on the primary listing exchange was $250.01 to $1,000.00 per share, an order for the purchase or sale of an NMS stock of 40 shares;
+(A) $250.00 or less per share, an order for the purchase or sale of an NMS stock of 100 shares;
 
-(iii) For any NMS stock for which the prior calendar month's average closing price on the primary listing exchange was $1,000.01 to $10,000.00 per share, an order for the purchase or sale of an NMS stock of 10 shares;
+(B) $250.01 to $1,000.00 per share, an order for the purchase or sale of an NMS stock of 40 shares;
 
-(iv) For any NMS stock for which the prior calendar month's average closing price on the primary listing exchange was $10,000.01 or more per share, an order for the purchase or sale of an NMS stock of 1 share; and
+(C) $1,000.01 to $10,000.00 per share, an order for the purchase or sale of an NMS stock of 10 shares;
 
-(v) For any NMS stock for which the prior calendar month's average closing price is not available, an order for the purchase or sale of an NMS stock of 100 shares.
+(D) $10,000.01 or more per share, an order for the purchase or sale of an NMS stock of 1 share; and
+
+(ii) *New NMS stocks.* Any security that becomes an NMS stock during an operative period as described in paragraph (b)(93)(iv) of this section shall be assigned a round lot of 100 shares.
+
+(iii) For purposes of this section only, the Evaluation Period means:
+
+(A) All trading days in March for the round lot assigned on the first business day of May; and
+
+(B) All trading days in September for the round lot assigned on the first business day of November during which the average closing price of an NMS stock on the primary listing exchange shall be measured by the primary listing exchange to determine the round lot for each NMS stock.
+
+(iv) The round lot assigned under this section shall be operative on:
+
+(A) The first business day of May for the March Evaluation Period and continue through the last business day of October of the calendar year; and
+
+(B) The first business day of November for the September Evaluation Period and continue through the last business day of April of the next calendar year.
 
 (94) *Self-aggregator* means a broker, dealer, national securities exchange, national securities association, or investment adviser registered with the Commission that receives information with respect to quotations for and transactions in NMS stocks, including all data necessary to generate consolidated market data, and generates consolidated market data solely for internal use. A self-aggregator may make consolidated market data available to its affiliates that are registered with the Commission for their internal use. Except as provided in the preceding sentence, a self-aggregator may not disseminate or otherwise make available consolidated market data, or components of consolidated market data, as provided in paragraph (b)(25) of this section, to any person.
 
@@ -436,4 +454,4 @@ Link to an amendment published at 89 FR 81772, Oct. 8, 2024.
 
 (111) *Vendor* means any securities information processor engaged in the business of disseminating transaction reports, last sale data, or quotations with respect to NMS securities to brokers, dealers, or investors on a real-time or other current and continuing basis, whether through an electronic communications network, moving ticker, or interrogation device.
 
-[70 FR 37620, June 29, 2005, as amended at 83 FR 58427, Nov. 19, 2018; 86 FR 18809, Apr. 9, 2021; 86 FR 29196, June 1, 2021; 89 FR 26608, Apr. 15, 2024]
+[70 FR 37620, June 29, 2005, as amended at 83 FR 58427, Nov. 19, 2018; 86 FR 18809, Apr. 9, 2021; 86 FR 29196, June 1, 2021; 89 FR 26608, Apr. 15, 2024; 89 FR 81772, Oct. 8, 2024]

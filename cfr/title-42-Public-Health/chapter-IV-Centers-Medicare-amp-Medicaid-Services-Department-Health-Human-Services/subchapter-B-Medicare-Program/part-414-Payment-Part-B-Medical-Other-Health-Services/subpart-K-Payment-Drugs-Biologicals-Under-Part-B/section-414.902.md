@@ -1,5 +1,7 @@
 ##### § 414.902 Definitions. #####
 
+Link to an amendment published at 89 FR 98559, Dec. 9, 2024.
+
 As used in this subpart, unless the context indicates otherwise—
 
 *Applicable five-year period* means:

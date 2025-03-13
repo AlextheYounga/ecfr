@@ -14,7 +14,7 @@
 
 (3) The frequency bands are as follows:
 
-90-110 kHz 190-285 kHz 325-435 kHz 74.800 MHz to 75.200 MHz 108.000 MHz to 137.000 MHz 328.600 MHz to 335.400 MHz 960.000 MHz to 1215.000 MHz 1545.000 MHz to 1626.500 MHz 1646.500 MHz to 1660.500 MHz 5000.000 MHz to 5250.000 MHz 14.000 GHz to 14.400 GHz 15.400 GHz to 15.700 GHz 24.250 GHz to 25.250 GHz 31.800 GHz to 33.400 GHz
+90-110 kHz190-285 kHz325-435 kHz74.800 MHz to 75.200 MHz108.000 MHz to 137.000 MHz328.600 MHz to 335.400 MHz960.000 MHz to 1215.000 MHz1545.000 MHz to 1626.500 MHz1646.500 MHz to 1660.500 MHz5000.000 MHz to 5250.000 MHz14.000 GHz to 14.400 GHz15.400 GHz to 15.700 GHz24.250 GHz to 25.250 GHz31.800 GHz to 33.400 GHz
 
 (e) Supplier's Declaration of Conformity for ELTs capable of operating on the frequency 406.0-406.1 MHz must include sufficient documentation to show that the ELT meets the requirements of § 87.199(a). A letter notifying the FAA of the ELT Supplier's Declaration of Conformity must be mailed to: FAA, Office of Spectrum Policy and Management, ASR-1, 800 Independence Avenue SW., Washington, DC 20591.
 

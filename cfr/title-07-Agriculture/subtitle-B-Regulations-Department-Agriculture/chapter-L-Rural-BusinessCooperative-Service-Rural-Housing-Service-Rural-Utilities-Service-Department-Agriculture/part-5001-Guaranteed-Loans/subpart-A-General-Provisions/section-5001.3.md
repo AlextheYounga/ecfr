@@ -4,7 +4,7 @@ The following definitions are applicable to the capitalized terms used in this p
 
 *Administrator* means the Administrator of the Rural Housing Service, the Rural Utilities Service, or the Rural Business-Cooperative Service (or the applicable Service's successor), as applicable, within the Rural Development mission area of the U.S. Department of Agriculture (USDA).
 
-*Affiliate* means a person that is connected with or controlled by another organization. Factors such as ownership, management, current and previous relationships with or ties to another person, and contractual relationships, will be considered in determining whether affiliation exists. Affiliation is determined using the principles outlined in 13 CFR 121.103.
+*Affiliate* means a person that is connected with or controlled by another organization. Factors such as ownership, management, current and previous relationships with or ties to another person, and contractual relationships, may be considered in determining whether affiliation exists. Affiliation is determined using the principles outlined in 13 CFR 121.301(f).
 
 *Agency* means USDA Rural Development, which includes the Rural Housing Service; the Rural Utilities Service; and the Rural Business-Cooperative Service or their successors.
 
@@ -413,4 +413,4 @@ The following will be treated as existing businesses provided there is not a sig
 
 *Working Capital* means current assets available to support a business' operations and growth. Working capital is calculated as current assets less current liabilities.
 
-[85 FR 42518, July 14, 2020, as amended at 85 FR 62196, Oct. 2, 2020; 86 FR 70354, Dec. 10, 2021; 87 FR 38645, June 29, 2022; 89 FR 79704, Sept. 30, 2024]
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62196, Oct. 2, 2020; 86 FR 70354, Dec. 10, 2021; 87 FR 38645, June 29, 2022; 89 FR 79704, Sept. 30, 2024; 89 FR 97477, Dec. 9, 2024]

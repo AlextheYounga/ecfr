@@ -1,5 +1,7 @@
 ##### § 424.205 Requirements for Medicare Diabetes Prevention Program suppliers. #####
 
+Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
+
 (a) *Definitions.* In addition to the definitions specified at § 410.79(b) and § 414.84(a) of this subchapter, the following definitions apply to this section:
 
 *Administrative location* means a physical location associated with the MDPP supplier's operations where they are the primary operator in the space, from where coaches are dispatched or based, and where MDPP services may or may not be furnished.

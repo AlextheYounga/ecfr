@@ -1,5 +1,7 @@
 ##### § 414.1350 Cost performance category. #####
 
+Link to an amendment published at 89 FR 98561, Dec. 9, 2024.
+
 (a) *Specification of cost measures.* For purposes of assessing performance of MIPS eligible clinicians on the cost performance category, CMS specifies cost measures for a performance period.
 
 (b) *Attribution.* (1) Cost measures are attributed at the TIN/NPI level for the 2017 thorough 2019 performance periods.

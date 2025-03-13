@@ -8,7 +8,7 @@
 
 *Carrier power.* The average power at the output terminals of a transmitter (other than a transmitter having a suppressed, reduced or controlled carrier) during one radio frequency cycle under conditions of no modulation.
 
-*Mean power.* The power at the output terminals of a transmitter during normal operation, averaged over a time sufficiently long compared with the period of the lowest frequency encountered in the modulation. A time of 1/10 second during which the mean power is greatest will be selected normally.
+*Mean power.* The power at the output terminals of a transmitter during normal operation, averaged over a time sufficiently long compared with the period of the lowest frequency encountered in the modulation. A time of1/10 second during which the mean power is greatest will be selected normally.
 
 *Necessary bandwidth.* For a given class of emission, the minimum value of the occupied bandwidth sufficient to ensure the transmission of information at the rate and with the quality required for the system employed, under specified conditions. Emissions useful for the good functioning of the receiving equipment, as for example, the emission corresponding to the carrier of reduced carrier systems, shall be included in the necessary bandwidth.
 

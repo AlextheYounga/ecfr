@@ -1,5 +1,7 @@
 ##### § 422.326 Reporting and returning of overpayments. #####
 
+Link to an amendment published at 89 FR 98565, Dec. 9, 2024.
+
 (a) *Terminology.* For purposes of this section—
 
 *Applicable reconciliation* occurs on the date of the annual final deadline for risk adjustment data submission described at § 422.310(g), which is announced by CMS each year.

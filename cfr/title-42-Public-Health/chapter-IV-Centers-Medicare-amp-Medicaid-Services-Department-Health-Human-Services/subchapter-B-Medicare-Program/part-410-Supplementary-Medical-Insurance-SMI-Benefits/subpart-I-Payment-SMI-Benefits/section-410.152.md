@@ -1,5 +1,7 @@
 ##### § 410.152 Amounts of payment. #####
 
+Link to an amendment published at 89 FR 98558, Dec. 9, 2024.
+
 (a) *General provisions*—(1) *Exclusion from incurred expenses.* As used in this section, “incurred expenses” are expenses incurred by an individual, during his or her coverage period, for covered Part B services, excluding the following:
 
 (i) Expenses incurred for services for which the beneficiary is entitled to have payment made under Medicare Part A or would be so entitled except for the application of the Part A deductible and coinsurance requirements.
