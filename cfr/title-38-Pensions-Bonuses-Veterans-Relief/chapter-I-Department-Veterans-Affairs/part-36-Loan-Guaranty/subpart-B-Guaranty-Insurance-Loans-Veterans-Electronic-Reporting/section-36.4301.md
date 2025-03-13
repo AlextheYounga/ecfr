@@ -1,5 +1,7 @@
 ##### § 36.4301 Definitions. #####
 
+Link to an amendment published at 89 FR 25143, Apr. 10, 2024.
+
 Whenever used in 38 U.S.C. chapter 37 or subpart F of this part, unless the context otherwise requires, the terms defined in this section shall have the following meaning:
 
 *A period of more than 180 days.* For the purposes of sections 3707 and 3702(a)(2)(C) of title 38 U.S.C., the term a period of more than 180 days shall mean 181 or more calendar days of continuous active duty.

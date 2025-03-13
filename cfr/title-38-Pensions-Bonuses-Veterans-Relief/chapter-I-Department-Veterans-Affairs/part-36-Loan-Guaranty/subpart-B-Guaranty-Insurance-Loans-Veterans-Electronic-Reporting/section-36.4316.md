@@ -1,5 +1,7 @@
 ##### § 36.4316 Acceptability of partial payments. #####
 
+Link to an amendment published at 89 FR 25144, Apr. 10, 2024.
+
 A partial payment is a remittance by or on behalf of the borrower on a loan in default (as defined in § 36.4301) of any amount less than the full amount due under the terms of the loan and security instruments at the time the remittance is tendered.
 
 (a) Except as provided in paragraph (b) of this section, or upon the express waiver of the Secretary, the mortgage holder shall accept any partial payment and either apply it to the mortgagor's account or identify it with the mortgagor's account and hold it in a special account pending disposition. When partial payments held for disposition aggregate a full monthly installment, including escrow, they shall be applied to the mortgagor's account.

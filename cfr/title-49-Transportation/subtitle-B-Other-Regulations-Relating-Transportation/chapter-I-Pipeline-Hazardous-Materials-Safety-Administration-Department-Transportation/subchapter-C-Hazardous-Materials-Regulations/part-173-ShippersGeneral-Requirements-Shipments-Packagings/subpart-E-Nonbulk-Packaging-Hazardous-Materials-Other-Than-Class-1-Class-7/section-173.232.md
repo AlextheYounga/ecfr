@@ -1,5 +1,7 @@
 ##### § 173.232 Articles containing hazardous materials, n.o.s. #####
 
+Link to an amendment published at 89 FR 25486, Apr. 10, 2024.
+
 (a) Articles containing hazardous materials may be classified as otherwise provided by this subchapter under the proper shipping name for the hazardous materials they contain or in accordance with this section. For the purposes of this section, “article” means machinery, apparatus, or other devices containing one or more hazardous materials (or residues thereof) that are an integral element of the article, necessary for its functioning, and that cannot be removed for the purpose of transport. An inner packaging is not an article. For articles that do not have an existing proper shipping name and that contain only hazardous materials within the permitted limited quantity amounts specified in column (8A) of the § 172.101 Table, see UN3363, Dangerous goods in machinery or apparatus, as prescribed in § 172.102(c)(1), Special provision 136, and § 173.222.
 
 (b) Such articles may contain batteries. Lithium batteries that are integral to the article must be of a type proven to meet the testing requirements of the UN Manual of Tests and Criteria, Part III, subsection 38.3 (IBR, *see* § 171.7 of this subchapter), except when otherwise specified by this subchapter.

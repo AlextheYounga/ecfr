@@ -1,5 +1,7 @@
 ##### § 36.4319 Servicer loss-mitigation options and incentives. #####
 
+Link to an amendment published at 89 FR 25144, Apr. 10, 2024.
+
 (a) The Secretary will pay a servicer in tiers one, two, or three an incentive payment for each of the following successful loss-mitigation options or alternatives to foreclosure completed: repayment plans, special forbearance agreements, loan modifications, compromise sales, and deeds-in-lieu of foreclosure. Only one incentive payment will be made with respect to any default required to be reported to the Secretary pursuant to § 36.4317(c). No incentive payment will be made to a servicer in tier four. The options and alternatives are listed in paragraph (b) of this section from top to bottom in their preferred order of consideration (*i.e.*, a hierarchy for review), but VA recognizes that individual circumstances may lead to “out of the ordinary” considerations.
 
 (b) The amount of the incentive payment is as follows:

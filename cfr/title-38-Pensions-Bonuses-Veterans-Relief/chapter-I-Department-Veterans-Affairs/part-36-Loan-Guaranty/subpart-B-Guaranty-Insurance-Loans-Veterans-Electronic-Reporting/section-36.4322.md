@@ -1,5 +1,7 @@
 ##### § 36.4322 Loan termination. #####
 
+Link to an amendment published at 89 FR 25144, Apr. 10, 2024.
+
 (a) For purposes of this part, a holder, using reasonable diligence must complete a foreclosure within the timeframe and in the manner determined by the Secretary. In determining what constitutes allowable time and method for foreclosure, the Secretary shall review allowances for time and method in connection with the foreclosure of single-family housing loans issued by HUD, Fannie Mae, and Freddie Mac, as well as State statutory requirements. The Secretary will review such timeframes annually and, as the Secretary deems necessary, publish in the Federal Register a table setting forth the timeframes and methods the Secretary determines to be reasonable. The schedule will reflect the timeframe allowed for the standard, acceptable method for foreclosure proceedings in each State. The use of another method will require prior approval from VA. VA will maintain the loan termination time allowable timeframes on a Web site under VA's control, such as at *http://www.homeloans.va.gov.*
 
 (b)(1) At least 30 days prior to the scheduled or anticipated date of the liquidation sale, the holder must request that VA assign an appraiser to conduct a liquidation appraisal.

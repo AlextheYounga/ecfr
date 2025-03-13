@@ -1,5 +1,7 @@
 ##### § 173.21 Forbidden materials and packages. #####
 
+Link to an amendment published at 89 FR 25476, Apr. 10, 2024.
+
 Unless otherwise provided in this subchapter, the offering for transportation or transportation of the following is forbidden:
 
 (a) Materials that are designated “Forbidden” in Column 3 of the § 172.101 table.

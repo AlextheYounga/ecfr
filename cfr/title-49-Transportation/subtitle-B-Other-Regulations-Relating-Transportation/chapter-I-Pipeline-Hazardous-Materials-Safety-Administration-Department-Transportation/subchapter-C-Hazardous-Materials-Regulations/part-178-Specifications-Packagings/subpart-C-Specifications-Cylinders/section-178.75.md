@@ -1,5 +1,7 @@
 ##### § 178.75 Specifications for MEGCs. #####
 
+Link to an amendment published at 89 FR 25489, Apr. 10, 2024.
+
 (a) *General.* Each MEGC must meet the requirements of this section. In a MEGC that meets the definition of a “container” within the terms of the International Convention for Safe Containers (CSC) must meet the requirements of the CSC as amended and 49 CFR parts 450 through 453, and must have a CSC approval plate.
 
 (b) *Alternate Arrangements.* The technical requirements applicable to MEGCs may be varied when the level of safety is determined to be equivalent to or exceed the requirements of this subchapter. Such an alternate arrangement must be approved in writing by the Associate Administrator. MEGCs approved to an Alternate Arrangement must be marked as required by paragraph (j) of this section.

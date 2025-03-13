@@ -1,5 +1,7 @@
 ##### § 173.224 Packaging and control and emergency temperatures for self-reactive materials. #####
 
+Link to an amendment published at 89 FR 25480, Apr. 10, 2024.
+
 (a) *General.* When the § 172.101 table of this subchapter specifies that a Division 4.1 material be packaged in accordance with this section, only packagings which conform to the provisions of this section may be used. Each packaging must conform to the general packaging requirements of subpart B of this part and the applicable requirements of part 178 of this subchapter. Non-bulk packagings must meet Packing Group II performance levels. To avoid unnecessary confinement, metallic non-bulk packagings meeting Packing Group I are not authorized. Self-reactive materials which require temperature control are subject to the provisions of § 173.21(f). Packagings required to bear a Class 1 subsidiary label must conform to §§ 173.60 through 173.62.
 
 (b) *Self-Reactive Materials Table.* The Self-Reactive Materials Table specifies, by technical name, those self-reactive materials that are authorized for transportation and not subject to the approval provisions of § 173.124(a)(2)(iii). A self-reactive material identified by technical name in the following table is authorized for transportation only if it conforms to all applicable provisions of the table. The column headings of the Self-Reactive Materials Table are as follows:

@@ -1,5 +1,7 @@
 ##### § 54.705 Committees of the Administrator's Board of Directors. #####
 
+Link to an amendment published at 89 FR 25162, Apr. 10, 2024.
+
 (a) *Schools and Libraries Committee*—(1) *Committee functions.* The Schools and Libraries Committee shall oversee the administration of the schools and libraries support mechanism by the Schools and Libraries Division. The Schools and Libraries Committee shall have the authority to make decisions concerning:
 
 (i) How the Administrator projects demand for the schools and libraries support mechanism;

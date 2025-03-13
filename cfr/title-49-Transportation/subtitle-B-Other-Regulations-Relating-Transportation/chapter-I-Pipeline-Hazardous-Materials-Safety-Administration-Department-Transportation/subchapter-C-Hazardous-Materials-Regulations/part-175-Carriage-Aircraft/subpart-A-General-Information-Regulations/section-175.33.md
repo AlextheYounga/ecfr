@@ -1,5 +1,7 @@
 ##### § 175.33 Shipping paper and information to the pilot-in-command. #####
 
+Link to an amendment published at 89 FR 25488, Apr. 10, 2024.
+
 (a) When a hazardous material subject to the provisions of this subchapter is carried in an aircraft, the operator of the aircraft must provide the pilot-in-command and the flight dispatcher or other ground support personnel with responsibilities for operational control of the aircraft with accurate and legible written information (e.g., handwritten, printed, or electronic form) as early as practicable before departure of the aircraft, but in no case later than when the aircraft moves under its own power, which specifies at least the following:
 
 (1) The date of the flight;

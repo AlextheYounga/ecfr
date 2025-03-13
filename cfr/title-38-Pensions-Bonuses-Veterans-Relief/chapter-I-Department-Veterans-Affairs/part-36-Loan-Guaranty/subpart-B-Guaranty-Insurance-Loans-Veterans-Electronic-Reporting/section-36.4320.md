@@ -1,5 +1,7 @@
 ##### § 36.4320 Refunding of loans in default. #####
 
+Link to an amendment published at 89 FR 25144, Apr. 10, 2024.
+
 (a) Upon receiving a notice of default or a notice under § 36.4317, the Secretary may require the holder upon penalty of otherwise losing the guaranty or insurance to transfer and assign the loan and the security therefore to the Secretary or to another designated by the Secretary upon receipt of payment in full of the balance of the indebtedness remaining unpaid to the date of such assignment. Such assignment may be made without recourse but the transferor shall not thereby be relieved from the provisions of § 36.4328.
 
 (b) If the obligation is assigned or transferred to a third party pursuant to paragraph (a) of this section the Secretary may continue in effect the guaranty or insurance issued with respect to the previous loan in such manner as to cover the assignee or transferee.

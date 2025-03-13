@@ -1,5 +1,7 @@
 ##### § 178.71 Specifications for UN pressure receptacles. #####
 
+Link to an amendment published at 89 FR 25489, Apr. 10, 2024.
+
 (a) *General.* Each UN pressure receptacle must meet the requirements of this section. UN pressure receptacles and service equipment constructed according to the standards applicable at the date of manufacture may continue in use subject to the continuing qualification and maintenance provisions of part 180 of this subchapter. Requirements for approval, qualification, maintenance, and testing are contained in § 178.70, and subpart C of part 180 of this subchapter.
 
 (b) *Definitions.* The following definitions apply for the purposes of design and construction of UN pressure receptacles under this subpart:

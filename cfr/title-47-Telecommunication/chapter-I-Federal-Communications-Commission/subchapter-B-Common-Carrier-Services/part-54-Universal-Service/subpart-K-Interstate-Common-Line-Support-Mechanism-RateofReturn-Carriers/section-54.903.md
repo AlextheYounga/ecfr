@@ -1,5 +1,7 @@
 ##### § 54.903 Obligations of rate-of-return carriers and the Administrator. #####
 
+Link to an amendment published at 89 FR 25163, Apr. 10, 2024.
+
 (a) To be eligible for CAF BLS, each rate-of-return carrier shall make the following filings with the Administrator.
 
 (1) Each rate-of-return carrier shall submit to the Administrator on March 31 of each year the number of lines it served as of the prior December 31, within each rate-of-return carrier study area showing residential and single-line business line counts, multi-line business line counts, and consumer broadband-only line counts separately.

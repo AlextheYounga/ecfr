@@ -1,5 +1,7 @@
 ##### § 54.314 Certification of support for eligible telecommunications carriers. #####
 
+Link to an amendment published at 89 FR 25161, Apr. 10, 2024.
+
 (a) *Certification.* States that desire eligible telecommunications carriers to receive support pursuant to the high-cost program must file an annual certification with the Administrator and the Commission stating that all federal high-cost support provided to such carriers within that State was used in the preceding calendar year and will be used in the coming calendar year only for the provision, maintenance, and upgrading of facilities and services for which the support is intended. High-cost support shall only be provided to the extent that the State has filed the requisite certification pursuant to this section.
 
 (b) *Carriers not subject to State jurisdiction.* An eligible telecommunications carrier not subject to the jurisdiction of a State that desires to receive support pursuant to the high-cost program must file an annual certification with the Administrator and the Commission stating that all federal high-cost support provided to such carrier was used in the preceding calendar year and will be used in the coming calendar year only for the provision, maintenance, and upgrading of facilities and services for which the support is intended. Support provided pursuant to the high-cost program shall only be provided to the extent that the carrier has filed the requisite certification pursuant to this section.

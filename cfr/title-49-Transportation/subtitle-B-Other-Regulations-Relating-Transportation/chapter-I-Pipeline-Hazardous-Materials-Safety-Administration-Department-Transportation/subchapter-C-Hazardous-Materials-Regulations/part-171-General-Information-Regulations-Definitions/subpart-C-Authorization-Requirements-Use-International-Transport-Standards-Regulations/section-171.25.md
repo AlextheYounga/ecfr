@@ -1,5 +1,7 @@
 ##### § 171.25 Additional requirements for the use of the IMDG Code. #####
 
+Link to an amendment published at 89 FR 25471, Apr. 10, 2024.
+
 (a) A hazardous material may be offered for transportation or transported to, from or within the United States by vessel, and by motor carrier and rail in accordance with the IMDG Code (IBR, see § 171.7), as authorized in § 171.22, provided all or part of the movement is by vessel. Such shipments must conform to the requirements in § 171.22, as applicable, and this section.
 
 (b) Any person who offers for transportation or transports a hazardous material in accordance with the IMDG Code must conform to the following additional conditions and requirements:

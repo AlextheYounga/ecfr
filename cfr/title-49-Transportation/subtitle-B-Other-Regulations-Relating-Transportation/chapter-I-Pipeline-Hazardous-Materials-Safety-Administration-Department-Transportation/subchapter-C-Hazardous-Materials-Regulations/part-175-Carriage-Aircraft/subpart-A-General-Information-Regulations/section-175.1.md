@@ -1,5 +1,7 @@
 ##### § 175.1 Purpose, scope, and applicability. #####
 
+Link to an amendment published at 89 FR 25488, Apr. 10, 2024.
+
 (a) This part prescribes the requirements that apply to the transportation of hazardous materials in commerce aboard (including attached to or suspended from) an aircraft. The requirements in this part are in addition to other requirements contained in parts 171, 172, 173, 178, and 180 of this subchapter.
 
 (b) This part applies to the offering, acceptance, and transportation of hazardous materials in commerce by aircraft to, from, or within the United States, and to any aircraft of United States registry anywhere in air commerce. This subchapter applies to any person who performs, attempts to perform, or is required to perform any function subject to this subchapter, including—(1) Air carriers, indirect air carriers, and freight forwarders and their flight and non-flight employees, agents, subsidiary and contract personnel (including cargo, passenger and baggage acceptance, handling, loading and unloading personnel); and

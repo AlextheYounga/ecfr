@@ -1,5 +1,7 @@
 ##### § 628.32 General risk weights. #####
 
+Link to an amendment published at 89 FR 25130, Apr. 10, 2024.
+
 (a) *Sovereign exposures*—(1) *Exposures to the U.S. Government.* (i) Notwithstanding any other requirement in this subpart, a System institution must assign a 0-percent risk weight to:
 
 (A) An exposure to the U.S. Government, its central bank, or a U.S. Government agency; and
@@ -9,8 +11,6 @@
 (ii) A System institution must assign a 20-percent risk weight to the portion of an exposure that is conditionally guaranteed by the U.S. Government, its central bank, or a U.S. Government agency. This includes an exposure, or the portion of an exposure, that is conditionally guaranteed by the Federal Deposit Insurance Corporation or National Credit Union Administration.
 
 (2) *Other sovereign exposures.* In accordance with Table 1 to § 628.32, a System institution must assign a risk weight to a sovereign exposure based on the Country Risk Classification (CRC) applicable to the sovereign or the sovereign's Organization for Economic Cooperation and Development (OECD) membership status if there is no CRC applicable to the sovereign.
-
-Table 1 to § 628.32—Risk Weights for Sovereign Exposures
 
 |                           |Risk weight  <br/>(in percent)|
 |---------------------------|------------------------------|
@@ -50,8 +50,6 @@ Table 1 to § 628.32—Risk Weights for Sovereign Exposures
 
 (2) *Exposures to foreign banks.* (i) Except as otherwise provided under paragraph (d)(2)(iv) of this section, a System institution must assign a risk weight to an exposure to a foreign bank, in accordance with table 2 to § 628.32, based on the CRC rating that corresponds to the foreign bank's home country or the OECD membership status of the foreign bank's home country if there is no CRC applicable to the foreign bank's home country.
 
-Table 2 to § 628.32—Risk Weights for Exposures to Foreign Banks
-
 |                       |Risk weight  <br/>(in percent)|
 |-----------------------|------------------------------|
 |         CRC:          |                              |
@@ -85,8 +83,6 @@ Table 2 to § 628.32—Risk Weights for Exposures to Foreign Banks
 
 (ii) The risk weight is not lower than the risk weight that corresponds to the PSE's home country in accordance with table 1 to § 628.32.
 
-Table 3 to § 628.32—Risk Weights for Non-U.S. PSE General Obligations
-
 |                           |Risk weight  <br/>(in percent)|
 |---------------------------|------------------------------|
 |           CRC:            |                              |
@@ -97,8 +93,6 @@ Table 3 to § 628.32—Risk Weights for Non-U.S. PSE General Obligations
 |  OECD Member with No CRC  |              20              |
 |Non-OECD Member with No CRC|             100              |
 |     Sovereign Default     |             150              |
-
-Table 4 to § 628.32—Risk Weights for Non-U.S. PSE Revenue Obligations
 
 |                           |Risk weight  <br/>(in percent)|
 |---------------------------|------------------------------|

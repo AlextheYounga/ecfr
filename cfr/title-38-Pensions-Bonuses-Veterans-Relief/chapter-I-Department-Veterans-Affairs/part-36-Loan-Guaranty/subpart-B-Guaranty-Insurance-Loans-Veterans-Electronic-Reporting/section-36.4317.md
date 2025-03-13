@@ -1,5 +1,7 @@
 ##### § 36.4317 Servicer reporting requirements. #####
 
+Link to an amendment published at 89 FR 25144, Apr. 10, 2024.
+
 (a) Servicers of loans guaranteed by the Secretary shall report the information required by this section to the Secretary electronically. The Secretary shall accept electronic submission from each entity servicing loans guaranteed under 38 U.S.C. chapter 37 not later than the effective date of this rule.
 
 (b) Not later than the seventh calendar day of each month each servicer shall report to the Secretary basic information (loan identification information, payment due date, and unpaid principal balance) for every loan guaranteed by the Secretary currently being serviced by that entity, unless previously reported under paragraph (c)(7) of this section and has not reinstated, terminated, or paid in full.

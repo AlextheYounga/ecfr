@@ -1,5 +1,7 @@
 ##### § 173.124 Class 4, Divisions 4.1, 4.2 and 4.3—Definitions. #####
 
+Link to an amendment published at 89 FR 25477, Apr. 10, 2024.
+
 (a) *Division 4.1 (Flammable Solid).* For the purposes of this subchapter, *flammable solid* (Division 4.1) means any of the following four types of materials:
 
 (1) Desensitized explosives that—

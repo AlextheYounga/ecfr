@@ -1,5 +1,7 @@
 ##### § 173.302c Additional requirements for the shipment of adsorbed gases in UN pressure receptacles. #####
 
+Link to an amendment published at 89 FR 25487, Apr. 10, 2024.
+
 (a) A cylinder filled with an adsorbed gas must be offered for transportation in UN pressure receptacles subject to the requirements in this section and § 173.302, as well as, §§ 173.301 and 173.301b.
 
 (b) The pressure of each filled cylinder must be less than 101.3 kPa at 20 °C (68 °F) and must not exceed 300 kPa at 50 °C (122 °F).

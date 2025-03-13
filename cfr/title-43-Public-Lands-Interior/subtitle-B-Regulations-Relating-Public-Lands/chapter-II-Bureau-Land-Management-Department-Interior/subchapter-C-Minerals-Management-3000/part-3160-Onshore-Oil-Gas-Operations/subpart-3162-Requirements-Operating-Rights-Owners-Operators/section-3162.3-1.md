@@ -1,5 +1,7 @@
 ##### § 3162.3-1 Drilling applications and plans. #####
 
+Link to an amendment published at 89 FR 25426, Apr. 10, 2024.
+
 (a) Each well shall be drilled in conformity with an acceptable well-spacing program at a surveyed well location approved or prescribed by the authorized officer after appropriate environmental and technical reviews (see § 3162.5-1 of this title). An acceptable well-spacing program may be either (1) one which conforms with a spacing order or field rule issued by a State Commission or Board and accepted by the authorized officer, or (2) one which is located on a lease committed to a communitized or unitized tract at a location approved by the authorized officer, or (3) any other program established by the authorized officer.
 
 (b) Any well drilled on restricted Indian land shall be subject to the location restrictions specified in the lease and/or Title 25 of the CFR.

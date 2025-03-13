@@ -1,5 +1,7 @@
 ##### § 173.302b Additional requirements for shipment of non-liquefied (permanent) compressed gases in UN pressure receptacles. #####
 
+Link to an amendment published at 89 FR 25487, Apr. 10, 2024.
+
 (a) *General.* A cylinder filled with a non-liquefied gas must be offered for transportation in UN pressure receptacles subject to the requirements in this section and § 173.302. In addition, the requirements in §§ 173.301 and 173.301b must be met.
 
 (b) *UN pressure receptacles filling limits.* A UN pressure receptacle is authorized for the transportation of non-liquefied compressed gases as specified in this section. Except where filling limits are specifically prescribed in this section, the working pressure of a UN pressure receptacle may not exceed2/3 of the test pressure of the receptacle. Alternatively, the filling limits specified for non-liquefied gases in Table 1 of P200 of the UN Recommendations (IBR, see § 171.7 of this subchapter) are authorized. In no case may the internal pressure at 65 °C (149 °F) exceed the test pressure.

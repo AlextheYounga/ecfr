@@ -1,5 +1,7 @@
 ##### § 178.706 Standards for rigid plastic IBCs. #####
 
+Link to an amendment published at 89 FR 25490, Apr. 10, 2024.
+
 (a) The provisions in this section apply to rigid plastic IBCs intended to contain solids or liquids. Rigid plastic IBC types are designated:
 
 (1) 11H1 fitted with structural equipment designed to withstand the whole load when IBCs are stacked, for solids which are loaded or discharged by gravity.

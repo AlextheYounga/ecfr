@@ -1,5 +1,7 @@
 ##### § 54.902 Calculation of CAF BLS Support for transferred exchanges. #####
 
+Link to an amendment published at 89 FR 25163, Apr. 10, 2024.
+
 (a) In the event that a rate-of-return carrier acquires exchanges from an entity that is also a rate-of-return carrier, CAF BLS for the transferred exchanges shall be distributed as follows:
 
 (1) Each carrier may report its updated line counts to reflect the transfer in the next quarterly line count filing pursuant to § 54.903(a)(1) that applies to the period in which the transfer occurred. During a transition period from the filing of the updated line counts until the end of the funding year, the Administrator shall adjust the CAF BLS Support received by each carrier based on the updated line counts and the per-line CAF BLS, categorized by customer class and, if applicable, disaggregation zone, of the selling carrier. If the acquiring carrier does not file a quarterly update of its line counts, it will not receive CAF BLS for those lines during the transition period.

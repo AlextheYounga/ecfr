@@ -1,5 +1,7 @@
 ##### § 178.707 Standards for composite IBCs. #####
 
+Link to an amendment published at 89 FR 25490, Apr. 10, 2024.
+
 (a) The provisions in this section apply to composite IBCs intended to contain solids and liquids. To complete the marking codes listed below, the letter “Z” must be replaced by a capital letter in accordance with § 178.702(a)(2) to indicate the material used for the outer packaging. Composite IBC types are designated:
 
 (1) 11HZ1 Composite IBCs with a rigid plastic inner receptacle for solids loaded or discharged by gravity.

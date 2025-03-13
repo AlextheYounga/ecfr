@@ -1,5 +1,7 @@
 ##### § 54.305 Sale or transfer of exchanges. #####
 
+Link to an amendment published at 89 FR 25159, Apr. 10, 2024.
+
 (a) The provisions of this section shall not be used to determine support for any price cap incumbent local exchange carrier or a rate-of-return carrier, as that term is defined in § 54.5, that is affiliated with a price cap incumbent local exchange carrier.
 
 (b) Beginning January 1, 2012, any carrier subject to the provisions of this paragraph shall receive support pursuant to this paragraph or support based on the actual costs of the acquired exchanges, whichever is less. Except as provided in paragraph (c) of this section, a carrier that acquires telephone exchanges from an unaffiliated carrier shall receive universal service support for the acquired exchanges at the same per-line support levels for which those exchanges were eligible prior to the transfer of the exchanges. If the acquired exchanges are incorporated into an existing rural incumbent local exchange carrier study area, the rural incumbent local exchange carrier shall maintain the costs associated with the acquired exchanges separate from the costs associated with its pre-acquisition study area. The transferred exchanges may be eligible for safety valve support for loop related costs pursuant to paragraph (d) of this section.

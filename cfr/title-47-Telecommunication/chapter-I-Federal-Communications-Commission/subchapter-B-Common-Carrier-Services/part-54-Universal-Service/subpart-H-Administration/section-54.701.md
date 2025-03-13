@@ -1,5 +1,7 @@
 ##### § 54.701 Administrator of universal service support mechanisms. #####
 
+Link to an amendment published at 89 FR 25162, Apr. 10, 2024.
+
 (a) The Universal Service Administrative Company is appointed the permanent Administrator of the federal universal service support mechanisms, subject to a review after one year by the Federal Communications Commission to determine that the Administrator is administering the universal service support mechanisms in an efficient, effective, and competitively neutral manner.
 
 (b)(1) The Administrator shall establish a twenty (20) member Board of Directors, as set forth in § 54.703. The Administrator's Board of Directors shall establish three Committees of the Board of Directors, as set forth in § 54.705:

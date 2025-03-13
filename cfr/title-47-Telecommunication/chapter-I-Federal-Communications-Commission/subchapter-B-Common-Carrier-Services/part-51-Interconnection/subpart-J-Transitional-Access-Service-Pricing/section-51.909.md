@@ -1,5 +1,7 @@
 ##### § 51.909 Transition of rate-of-return carrier access charges. #####
 
+Link to an amendment published at 89 FR 25159, Apr. 10, 2024.
+
 (a) Notwithstanding any other provision of the Commission's rules, on December 29, 2011, a Rate-of-Return Carrier shall:
 
 (1) Cap the rates for all rate elements for services contained in the definitions of End Office Access Service, Tandem Switched Transport Access Service, and Dedicated Transport Access Service, as well as all other interstate switched access rate elements, in its interstate switched access tariffs at the rate that was in effect on the December 29, 2011; and

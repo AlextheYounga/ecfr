@@ -1,6 +1,6 @@
 ##### § 54.316 Broadband deployment reporting and certification requirements for high-cost recipients. #####
 
-Link to an amendment published at 88 FR 55937, Aug. 17, 2023.
+Link to an amendment published at 88 FR 55937, Aug. 17, 2023.Link to an amendment published at 89 FR 25161, Apr. 10, 2024.
 
 (a) *Broadband deployment reporting.* Rate-of Return ETCs, ETCs that elect to receive Connect America Phase II model-based support, and ETCs awarded support to serve fixed locations through a competitive bidding process shall have the following broadband reporting obligations:
 
