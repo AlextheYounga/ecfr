@@ -8,7 +8,7 @@
 
 (3) Submit to a physical or mental examination by a physician.
 
-(b) The request may be served on any party without leave of the Assistant Administrator or administrative law judge.
+(b) The request may be served on any party without leave of the Agency Decisionmaker or administrative law judge.
 
 (c) The request shall:
 
@@ -28,4 +28,4 @@
 
 (2) That objection is made in whole or in part, in which case the reasons for objection shall be stated.
 
-(f) A copy of each request for production and each written response shall be served on all parties and filed with the Assistant Administrator or the administrative law judge, if one has been appointed.
+(f) A copy of each request for production and each written response shall be served on all parties and filed with the Agency Decisionmaker or the administrative law judge, if one has been appointed.

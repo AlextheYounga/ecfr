@@ -4,7 +4,7 @@
 
 (1) Any deposition may be used by any party for the purpose of contradicting or impeaching the testimony of the deponent as a witness.
 
-(2) The deposition of expert witnesses, particularly the deposition of physicians, may be used by any party for any purpose, unless the Assistant Administrator or administrative law judge rules that such use would be unfair or a violation of due process.
+(2) The deposition of expert witnesses, particularly the deposition of physicians, may be used by any party for any purpose, unless the Agency Decisionmaker or administrative law judge rules that such use would be unfair or a violation of due process.
 
 (3) The deposition of a party or of anyone who at the time of taking the deposition was an officer, director, or duly authorized agent of a public or private organization, partnership, or association which is a party, may be used by any other party for any purpose.
 

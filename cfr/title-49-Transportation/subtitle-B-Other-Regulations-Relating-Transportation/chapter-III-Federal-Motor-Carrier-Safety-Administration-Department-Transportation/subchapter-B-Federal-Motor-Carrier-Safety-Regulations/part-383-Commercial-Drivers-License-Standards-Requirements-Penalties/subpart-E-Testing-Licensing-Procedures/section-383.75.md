@@ -1,4 +1,4 @@
-##### § 383.75 Third party testing. #####
+##### § 383.75 Third-party testing. #####
 
 (a) *Third-party tests.* A State may authorize a third-party tester to administer the skills tests as specified in subparts G and H of this part, if the following conditions are met:
 

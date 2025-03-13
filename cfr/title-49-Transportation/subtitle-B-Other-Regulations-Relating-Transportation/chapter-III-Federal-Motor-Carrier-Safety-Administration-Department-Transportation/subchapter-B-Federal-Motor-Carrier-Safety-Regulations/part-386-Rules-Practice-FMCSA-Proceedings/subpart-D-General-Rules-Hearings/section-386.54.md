@@ -16,7 +16,7 @@
 
 (7) Hold conferences to settle or simplify the issues by consent of the parties.
 
-(8) Dispose of procedural motions and requests, except motions that under this part are made directly to the Assistant Administrator.
+(8) Dispose of procedural motions and requests, except motions that under this part are made directly to the Agency Decisionmaker.
 
 (9) Issue orders permitting inspection and examination of lands, buildings, equipment, and any other physical thing and the copying of any document.
 
@@ -26,6 +26,6 @@
 
 (b) *Limitations on the power of the Administrative Law Judge.* The Administrative Law Judge is bound by the procedural requirements of this part and the precedent opinions of the Agency. This section does not preclude an Administrative Law Judge from barring a person from a specific proceeding based on a finding of obstreperous or disruptive behavior in that proceeding.
 
-(c) *Disqualification.* The Administrative Law Judge may disqualify himself or herself at any time, either at the request of any party or upon his or her own initiative. Assignments of Administrative Law Judges are made by the Chief Administrative Law Judge upon the request of the Assistant Administrator. Any request for a change in such assignment, including disqualification, will be considered only for good cause which would unduly prejudice the proceeding.
+(c) *Disqualification.* The Administrative Law Judge may disqualify himself or herself at any time, either at the request of any party or upon his or her own initiative. Assignments of Administrative Law Judges are made by the Chief Administrative Law Judge upon the request of the Agency Decisionmaker. Any request for a change in such assignment, including disqualification, will be considered only for good cause which would unduly prejudice the proceeding.
 
 [70 FR 28485, May 18, 2005]

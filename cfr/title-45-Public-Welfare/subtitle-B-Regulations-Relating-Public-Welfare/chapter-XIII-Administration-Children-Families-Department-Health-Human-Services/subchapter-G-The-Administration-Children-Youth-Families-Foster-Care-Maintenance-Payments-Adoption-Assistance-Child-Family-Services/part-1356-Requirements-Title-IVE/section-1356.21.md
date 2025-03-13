@@ -1,7 +1,5 @@
 ##### § 1356.21 Foster care maintenance payments program implementation requirements. #####
 
-Link to an amendment published at 88 FR 66708, Sept. 28, 2023.
-
 (a) *Statutory and regulatory requirements of the Federal foster care program.* To implement the foster care maintenance payments program provisions of the title IV-E plan and to be eligible to receive Federal financial participation (FFP) for foster care maintenance payments under this part, a title IV-E agency must meet the requirements of this section, 45 CFR 1356.22, 45 CFR 1356.30, and sections 472, 475(1), 475(4), 475(5), 475(6), and for a Tribal title IV-E agency section 479(B)(c)(1)(C)(ii)(II) of the Act.
 
 (b) *Reasonable efforts.* The title IV-E agency must make reasonable efforts to maintain the family unit and prevent the unnecessary removal of a child from his/her home, as long as the child's safety is assured; to effect the safe reunification of the child and family (if temporary out-of-home placement is necessary to ensure the immediate safety of the child); and to make and finalize alternate permanency plans in a timely manner when reunification is not appropriate or possible. In order to satisfy the “reasonable efforts” requirements of section 471(a)(15) (as implemented through section 472(a)(2) of the Act), the title IV-E agency must meet the requirements of paragraphs (b) and (d) of this section. In determining reasonable efforts to be made with respect to a child and in making such reasonable efforts, the child's health and safety must be the paramount concern.
@@ -130,12 +128,14 @@ Link to an amendment published at 88 FR 66708, Sept. 28, 2023.
 
 (m) *Review of payments and licensing standards.* In meeting the requirements of section 471(a)(11) of the Act, the title IV-E agency must review at reasonable, specific, time-limited periods to be established by the agency:
 
-(1) The amount of the payments made for foster care maintenance and adoption assistance to assure their continued appropriateness; and
+(1) The amount of the payments made for foster care maintenance to assure their continued appropriateness, and that the amount made to a licensed or approved relative or kinship foster family home is the same as the amount that would have been made if the child was placed in a licensed or approved non-relative foster family home;
 
-(2) The licensing or approval standards for child care institutions and foster family homes.
+(2) The amount of the payments made for adoption assistance to assure their continued appropriateness; and
+
+(3) The licensing or approval standards for child care institutions and foster family homes.
 
 (n) *Foster care goals.* The specific foster care goals required under section 471(a)(14) of the Act must be incorporated into State law or Tribal law by statute, code, resolution, Tribal proceedings or administrative regulation with the force of law.
 
 (o) *Notice and right to be heard.* The title IV-E agency must provide the foster parent(s) of a child and any preadoptive parent or relative providing care for the child with timely notice of and the opportunity to be heard in any proceedings held with respect to the child during the time the child is in the care of such foster parent, preadoptive parent, or relative caregiver. Notice of and opportunity to be heard does not include the right to standing as a party to the case.
 
-[65 FR 4088, Jan. 25, 2000, as amended at 66 FR 58677, Nov. 23, 2001; 77 FR 947, Jan. 6, 2012]
+[65 FR 4088, Jan. 25, 2000, as amended at 66 FR 58677, Nov. 23, 2001; 77 FR 947, Jan. 6, 2012; 88 FR 66708, Sept. 28, 2023]

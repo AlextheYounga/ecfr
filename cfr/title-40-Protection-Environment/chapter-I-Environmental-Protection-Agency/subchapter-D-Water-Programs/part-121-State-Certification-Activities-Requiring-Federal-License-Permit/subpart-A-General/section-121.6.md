@@ -1,0 +1,11 @@
+##### § 121.6 Reasonable period of time. #####
+
+(a) The reasonable period of time begins on the date that the certifying authority receives a request for certification, as defined in § 121.5, in accordance with the certifying authority's applicable submission procedures. The certifying authority shall send written confirmation to the project proponent and Federal agency of the date that the request for certification was received.
+
+(b) The Federal agency and the certifying authority may jointly agree in writing to the reasonable period of time for the certifying authority to act on the request for certification, provided the reasonable period of time does not exceed one year from the date that the request for certification was received. Such written agreements may establish categorical reasonable periods of time.
+
+(c) If the Federal agency and the certifying authority do not agree in writing on the length of the reasonable period of time, the reasonable period of time shall be six months.
+
+(d) If a longer period of time is necessary to accommodate the certifying authority's public notice procedures or force majeure events (including, but not limited to, government closure or natural disasters), upon written notification by the certifying authority to the Federal agency prior to the end of the reasonable period of time, the reasonable period of time shall be extended by the period of time necessitated by public notice procedures or the force majeure event. In such written notification to the Federal agency, the certifying authority shall identify how much additional time is required and provide a justification for such extension. Such an extension shall not cause the reasonable period of time to exceed one year from the date that the request for certification was received.
+
+(e) The Federal agency and certifying authority may agree in writing to extend the reasonable period of time for any reason, provided that the extension shall not cause the reasonable period of time to exceed one year from the date that the request for certification was received.

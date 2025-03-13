@@ -1,5 +1,7 @@
 ##### § 238.142 Applicability. #####
 
+Link to an amendment published at 88 FR 82979, Nov. 27, 2023.
+
 (a) *Scope*—(1) *Applicability.* Except as provided in paragraph (b) of this section, this subpart applies to any covered company, which includes:
 
 (i) Any Category II savings and loan holding company;

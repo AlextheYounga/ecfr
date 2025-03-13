@@ -1,0 +1,3 @@
+##### § 121.18 Review and advice. #####
+
+Upon the request of any Federal agency, certifying authority, or project proponent, the Administrator shall provide any relevant information on applicable effluent limitations, or other limitations, standards, regulations, or requirements, or water quality criteria, and shall, when requested by any Federal agency, certifying authority, or project proponent, comment on any methods to comply with such limitations, standards, regulations, requirements, or criteria.

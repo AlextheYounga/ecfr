@@ -1,7 +1,5 @@
 ##### § 73.622 Digital television table of allotments. #####
 
-Link to an amendment published at 88 FR 73536, Oct. 26, 2023.Link to an amendment published at 88 FR 73537, Oct. 26, 2023.
-
 (a) *General.* The following table of allotments contains the digital television (DTV) channel allotments designated for the listed communities in the United States, its Territories, and possessions. Requests for addition of new DTV allotments, or requests to change the channels allotted to a community must be made in a petition for rule making to amend the DTV Table of Allotments. A request to amend the DTV table to change the channel of an allotment in the DTV table will be evaluated for technical acceptability using engineering criteria set forth in § 73.623(c). A request to amend the DTV table to add a new allotment will be evaluated for technical acceptability using the geographic spacing criteria set forth in § 73.623(d). DTV allotments designated with an asterisk are assigned for use by non-commercial educational broadcast stations only. Rules governing noncommercial educational TV stations are contained in § 73.621. Where there is only one technically available channel available in a community, an entity that would be eligible to operate a noncommercial educational broadcast station may, prior to application, initiate a rulemaking proceeding requesting that an unoccupied or new channel in the community be changed or added as reserved only for noncommercial educational broadcasting upon demonstrating that the noncommercial educational proponent would provide a first or second noncommercial educational TV service to 2,000 or more people who constitute 10% of the population within the proposed allocation's noise limited contour.
 
 (1) Petitions requesting the addition of a new allotment must specify a channel in the range of channels 2-36.
@@ -258,6 +256,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |   Santa Barbara    |                      21, 27                       |   |
 |    Santa Maria     |                        19                         |   |
 |      Stockton      |                    23, 25, 26                     |   |
+|       Tulare       |                        \*3                        |   |
 |  Twentynine Palms  |                        23                         |   |
 |      Vallejo       |                        34                         |   |
 |      Ventura       |                         S                         |   |
@@ -675,6 +674,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |      Vineland      |                         S                         |   |
 |      Wildwood      |                        36                         |   |
 |     New Mexico     |                                                   |   |
+|     Alamogordo     |                        \*4                        |   |
 |    Albuquerque     |       7, 13, 16, \*17, 22, 24, 26, \*35, 36       |   |
 |      Carlsbad      |                      19, 25                       |   |
 |       Clovis       |                        12                         |   |

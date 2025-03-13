@@ -1,7 +1,5 @@
 ##### § 1355.20 Definitions. #####
 
-Link to an amendment published at 88 FR 66708, Sept. 28, 2023.
-
 (a) Unless otherwise specified, the following terms as they appear in 45 CFR parts 1355, 1356 and 1357 of this title are defined as follows—
 
 *Act* means the Social Security Act, as amended.
@@ -32,7 +30,7 @@ Link to an amendment published at 88 FR 66708, Sept. 28, 2023.
 
 (2) *Child care institutions*—routine day-to-day direction and arrangements to ensure the well-being and safety of the child.
 
-*Foster family home* means, for the purpose of title IV-E eligibility, the home of an individual or family licensed or approved as meeting the standards established by the licensing or approval authority(ies), that provides 24-hour out-of-home care for children. The licensing authority must be a State authority in the State in which the foster family home is located, a Tribal authority with respect to a foster family home on or near an Indian Reservation, or a Tribal authority of a Tribal title IV-E agency with respect to a foster family home in the Tribal title IV-E agency's service area. The term may include group homes, agency-operated boarding homes or other facilities licensed or approved for the purpose of providing foster care by the State or Tribal agency responsible for approval or licensing of such facilities. Foster family homes that are approved must be held to the same standards as foster family homes that are licensed. Anything less than full licensure or approval is insufficient for meeting title IV-E eligibility requirements. Title IV-E agencies may, however, claim title IV-E reimbursement during the period of time between the date a prospective foster family home satisfies all requirements for licensure or approval and the date the actual license is issued, not to exceed 60 days.
+*Foster family home* means, for the purpose of title IV-E eligibility, the home of an individual or family licensed or approved as meeting the standards established by the licensing or approval authority(ies), that provides 24-hour out-of-home care for children. The licensing or approval authority must be a state authority in the state in which the foster family home is located, a tribal authority with respect to a foster family home on or near an Indian Reservation, or a tribal authority of a tribal title IV-E agency with respect to a foster family home in the tribal title IV-E agency's service area. Agencies may establish one set of foster family home licensing or approval standards for all relative or kinship foster family homes that are different from the set of standards used to license or approve all non-relative foster family homes. Anything less than full licensure or approval is insufficient for meeting title IV-E eligibility requirements. Title IV-E agencies may, however, claim title IV-E reimbursement during the period of time between the date a prospective foster family home satisfies all requirements for licensure or approval and the date the actual license is issued, not to exceed 60 days.
 
 *Full review* means the joint Federal and title IV-E agency review of all federally-assisted child and family services programs, including family preservation and support services, child protective services, foster care, adoption, and independent living services, for the purpose of determining the title IV-E agency's substantial conformity with the plan requirements of titles IV-B and IV-E as listed in § 1355.34 of this part. A full review consists of two phases, the statewide assessment (or for a Tribal title IV-E agency, an assessment of the service area) and a subsequent on-site review, as described in § 1355.33 of this part.
 
@@ -76,4 +74,4 @@ Link to an amendment published at 88 FR 66708, Sept. 28, 2023.
 
 (b) Unless otherwise specified, the definitions contained in section 475 of the Act apply to all programs under titles IV-E and IV-B of the Act.
 
-[48 FR 23114, May 23, 1983, as amended at 57 FR 30429, July 9, 1992; 58 FR 67924, Dec. 22, 1993; 61 FR 58653, Nov. 18, 1996; 65 FR 4076, Jan. 25, 2000; 66 FR 58675, Nov. 23, 2001; 77 FR 925, Jan. 6, 2012]
+[48 FR 23114, May 23, 1983, as amended at 57 FR 30429, July 9, 1992; 58 FR 67924, Dec. 22, 1993; 61 FR 58653, Nov. 18, 1996; 65 FR 4076, Jan. 25, 2000; 66 FR 58675, Nov. 23, 2001; 77 FR 925, Jan. 6, 2012; 88 FR 66708, Sept. 28, 2023]

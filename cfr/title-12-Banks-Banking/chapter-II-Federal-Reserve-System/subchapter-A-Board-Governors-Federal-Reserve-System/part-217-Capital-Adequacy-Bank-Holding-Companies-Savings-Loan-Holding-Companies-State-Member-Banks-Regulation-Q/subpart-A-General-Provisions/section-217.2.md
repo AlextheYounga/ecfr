@@ -1,5 +1,7 @@
 ##### § 217.2 Definitions. #####
 
+Link to an amendment published at 88 FR 82968, Nov. 27, 2023.
+
 As used in this part:
 
 *Additional tier 1 capital* is defined in § 217.20(c).
@@ -1102,4 +1104,4 @@ As used in this part:
 
 *Wrong-way risk* means the risk that arises when an exposure to a particular counterparty is positively correlated with the probability of default of such counterparty itself.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013]Editorial Note:For Federal Register citations affecting § 217.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013]Editorial Note:For Federal Register citations affecting § 217.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

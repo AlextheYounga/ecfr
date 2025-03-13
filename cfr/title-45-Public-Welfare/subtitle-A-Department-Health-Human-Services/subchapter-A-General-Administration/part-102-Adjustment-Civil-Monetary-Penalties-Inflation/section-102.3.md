@@ -1,6 +1,6 @@
 ##### § 102.3 Penalty adjustment and table. #####
 
-Link to an amendment published at 88 FR 70373, Oct. 11, 2023.
+Link to an amendment published at 88 FR 70373, Oct. 11, 2023.Link to an amendment published at 88 FR 82787, Nov. 27, 2023.
 
 The adjusted statutory penalty provisions and their applicable amounts are set out in the following table. The right-most column in the table, “Maximum Adjusted Penalty ($)”, provides the maximum adjusted civil penalty amounts. The civil monetary penalty amounts are adjusted annually.
 

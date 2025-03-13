@@ -4,8 +4,8 @@
 
 (b) Reply briefs may be filed within 30 days after service of the appeal brief.
 
-(c) No other briefs shall be permitted except upon request of the Assistant Administrator.
+(c) No other briefs shall be permitted except upon request of the Agency Decisionmaker.
 
 (d) Copies of all briefs must be served on all parties.
 
-(e) No oral argument will be permitted except on order of the Assistant Administrator.
+(e) No oral argument will be permitted except on order of the Agency Decisionmaker.

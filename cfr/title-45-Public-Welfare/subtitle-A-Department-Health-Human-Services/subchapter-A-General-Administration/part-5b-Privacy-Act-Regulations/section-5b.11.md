@@ -124,4 +124,4 @@
 
 (d) *Discretionary actions by the responsible Department official.* Unless disclosure of a record to the general public is otherwise prohibited by law, the responsible Department official may in his discretion grant notification of or access to a record in a system of records which is exempt under paragraph (b) of this section. Discretionary notification of or access to a record in accordance with this paragraph will not be a precedent for discretionary notification of or access to a similar or related record and will not obligate the responsible Department official to exercise his discretion to grant notification of or access to any other record in a system of records which is exempt under paragraph (b) of this section.
 
-[40 FR 47409, Oct. 8, 1975]Editorial Note:For Federal Register citations affecting § 5b.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[40 FR 47409, Oct. 8, 1975]Editorial Note:For Federal Register citations affecting § 5b.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
