@@ -1,7 +1,5 @@
 ##### § 60-300.60 Compliance evaluations. #####
 
-Link to an amendment published at 88 FR 51735, Aug. 4, 2023.
-
 (a) OFCCP may conduct compliance evaluations to determine if the contractor is taking affirmative action to employ, advance in employment and otherwise treat qualified individuals without discrimination based on their status as a protected veteran in all employment practices. A compliance evaluation may consist of any one or any combination of the following investigative procedures:
 
 (1) *Compliance review.* A comprehensive analysis and evaluation of the hiring and employment practices of the contractor, the written affirmative action program, and the results of the affirmative action efforts undertaken by the contractor. A compliance review may proceed in three stages:
@@ -18,8 +16,10 @@ Link to an amendment published at 88 FR 51735, Aug. 4, 2023.
 
 (4) *Focused review.* A review restricted to one or more components of the contractor's organization or one or more aspects of the contractor's employment practices.
 
-(b) Where deficiencies are found to exist, reasonable efforts shall be made to secure compliance through conciliation and persuasion pursuant to § 60-300.62.
+(b) Where deficiencies are found to exist, OFCCP will make reasonable efforts to secure compliance through conciliation and persuasion, pursuant to § 60-300.62. The “reasonable efforts” standard shall be interpreted consistently with title VII of the Civil Rights Act of 1964 and its requirement that the Equal Employment Opportunity Commission endeavor to remove any such alleged unlawful employment practice by informal methods of conference, conciliation, and persuasion.
 
 (c) *Reporting requirements.* During a compliance evaluation, OFCCP may verify whether the contractor has complied with applicable reporting requirements required under regulations promulgated by the Veterans' Employment and Training Service (VETS). If the contractor has not complied with any such reporting requirement, OFCCP will notify VETS.
 
 (d) *Pre-award compliance evaluations.* Each agency will include in the invitation for bids for each formally advertised nonconstruction contract or state at the outset of negotiations for each negotiated contract, that if the award, when let, should total $10 million or more, the prospective contractor and its known first-tier subcontractors with subcontracts of $10 million or more will be subject to a compliance evaluation before the award of the contract unless OFCCP has conducted an evaluation and found them to be in compliance with VEVRAA within the preceding 24 months. The awarding agency will notify OFCCP and request appropriate action and findings in accordance with this subsection. Within 15 days of the notice OFCCP will inform the awarding agency of its intention to conduct a pre-award compliance evaluation. If OFCCP does not inform the awarding agency within that period of its intention to conduct a pre-award compliance evaluation, clearance shall be presumed and the awarding agency is authorized to proceed with the award. If OFCCP informs the awarding agency of its intention to conduct a pre-award compliance evaluation, OFCCP will be allowed an additional 20 days after the date that it so informs the awarding agency to provide its conclusions. If OFCCP does not provide the awarding agency with its conclusions within that period, clearance will be presumed and the awarding agency is authorized to proceed with the award.
+
+[78 FR 58662, Sept. 24, 2013, as amended at 88 FR 51735, Aug. 4, 2023]

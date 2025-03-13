@@ -1,7 +1,5 @@
 ##### § 60-1.20 Compliance evaluations. #####
 
-Link to an amendment published at 88 FR 51734, Aug. 4, 2023.
-
 (a) OFCCP may conduct compliance evaluations to determine if the contractor maintains nondiscriminatory hiring and employment practices and is taking affirmative action to ensure that applicants are employed and that employees are placed, trained, upgraded, promoted, and otherwise treated during employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin. A compliance evaluation may consist of any one or any combination of the following investigative procedures:
 
 (1) *Compliance review.* A comprehensive analysis and evaluation of the hiring and employment practices of the contractor, the written affirmative action program, and the results of the affirmative action efforts undertaken by the contractor. A compliance review may proceed in three stages:
@@ -18,7 +16,7 @@ Link to an amendment published at 88 FR 51734, Aug. 4, 2023.
 
 (4) *Focused review.* An on-site review restricted to one or more components of the contractor's organization or one or more aspects of the contractor's employment practices.
 
-(b) Where deficiencies are found to exist, reasonable efforts shall be made to secure compliance through conciliation and persuasion. Before the contractor can be found to be in compliance with the order, it must make a specific commitment, in writing, to correct any such deficiencies. The commitment must include the precise action to be taken and dates for completion. The time period allotted shall be no longer than the minimum period necessary to effect such changes. Upon approval of the commitment, the contractor may be considered in compliance, on condition that the commitments are faithfully kept. The contractor shall be notified that making such commitments does not preclude future determinations of noncompliance based on a finding that the commitments are not sufficient to achieve compliance.
+(b) Where deficiencies are found to exist, OFCCP will make reasonable efforts to secure compliance through conciliation and persuasion, pursuant to § 60-1.33. The “reasonable efforts” standard shall be interpreted consistently with title VII of the Civil Rights Act of 1964 and its requirement that the Equal Employment Opportunity Commission endeavor to remove any such alleged unlawful employment practice by informal methods of conference, conciliation, and persuasion. Before the contractor can be found to be in compliance with the order, it must make a specific commitment, in writing, to correct any such deficiencies. The commitment must include the precise action to be taken and dates for completion. The time period allotted shall be no longer than the minimum period necessary to effect such changes. Upon approval of the commitment, the contractor may be considered in compliance, on condition that the commitments are faithfully kept. The contractor shall be notified that making such commitments does not preclude future determinations of noncompliance based on a finding that the commitments are not sufficient to achieve compliance.
 
 (c) [Reserved]
 
@@ -30,4 +28,4 @@ Link to an amendment published at 88 FR 51734, Aug. 4, 2023.
 
 (g) *Public Access to Information.* OFCCP will treat information obtained in the compliance evaluation as confidential to the maximum extent the information is exempt from public disclosure under the Freedom of Information Act, 5 U.S.C. 552. It is the practice of OFCCP not to release data where the contractor is still in business, and the contractor indicates, and through the Department of Labor review process it is determined, that the data are confidential and sensitive and that the release of data would subject the contractor to commercial harm.
 
-[43 FR 49240, Oct. 20, 1978; 43 FR 51400, Nov. 3, 1978, as amended at 62 FR 44189, Aug. 19, 1997; 70 FR 36265, June 22, 2005; 79 FR 72994, Dec. 9, 2014]
+[43 FR 49240, Oct. 20, 1978; 43 FR 51400, Nov. 3, 1978, as amended at 62 FR 44189, Aug. 19, 1997; 70 FR 36265, June 22, 2005; 79 FR 72994, Dec. 9, 2014; 88 FR 51734, Aug. 4, 2023]

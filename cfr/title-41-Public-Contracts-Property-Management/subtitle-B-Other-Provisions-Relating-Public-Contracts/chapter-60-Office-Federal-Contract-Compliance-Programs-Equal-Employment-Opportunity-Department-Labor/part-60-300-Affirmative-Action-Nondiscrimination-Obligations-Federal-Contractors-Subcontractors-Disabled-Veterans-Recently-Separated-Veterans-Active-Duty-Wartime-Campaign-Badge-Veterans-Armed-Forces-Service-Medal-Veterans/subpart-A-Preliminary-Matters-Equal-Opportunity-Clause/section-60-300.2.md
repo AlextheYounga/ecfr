@@ -1,7 +1,5 @@
 ##### § 60-300.2 Definitions. #####
 
-Link to an amendment published at 88 FR 51735, Aug. 4, 2023.Link to a correction published at 88 FR 57009, Aug. 22, 2023.
-
 For the purpose of this part:
 
 (a) *Act* means the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as amended, 38 U.S.C. 4212, also referred to throughout this regulation as “VEVRAA.”
@@ -118,15 +116,7 @@ For the purpose of this part:
 
 (s) *Qualified disabled veteran* means a disabled veteran who has the ability to perform the essential functions of the employment position with or without reasonable accommodation.
 
-(t) *Qualitative evidence* includes but is not limited to testimony, interview statements, and documents about biased statements, remarks, attitudes, or acts based upon membership in a protected class, particularly when made by a decision maker involved in the action under investigation; testimony, interview statements, and documents about individuals denied or given misleading or contradictory information about employment or compensation practices, in circumstances suggesting discriminatory treatment based on a protected characteristic; testimony, interview statements, and documents about the extent of discretion or subjectivity involved in making employment decisions, in conjunction with evidence suggesting the discretion or subjectivity has been used to discriminate based on a protected characteristic; or other anecdotal evidence relevant to determining a contractor's discriminatory or non-discriminatory intent, the business necessity (or lack thereof) of a challenged policy or practice, or whether the contractor has otherwise complied with its non-discrimination obligations. Qualitative evidence may not be based solely on subjective inferences or the mere fact of supervisory discretion in employment decisions. The Office of Federal Contract Compliance Programs (OFCCP) may also consider qualitative evidence in the form of a contractor's efforts to advance equal employment opportunity beyond mere compliance with legal obligations in determining whether intentional discrimination has occurred.
-
-(u) *Quantitative evidence* includes hypothesis testing, controlling for the major, measurable parameters, and variables used by the contractor (including, as appropriate, preferred qualifications, other demographic variables, test scores, geographic variables, performance evaluations, years of experience, quality of experience, years of service, quality and reputation of previous employers, years of education, years of training, quality and reputation of credentialing institutions, *etc.*), related to the probability of outcomes occurring by chance and/or analyses reflecting statements concluding that a disparity in employment selection rates or rates of compensation is statistically significant by reference to any one of these statements:
-
-(1) The disparity is two or more times larger than its standard error (*i.e.,* a standard deviation of two or more);
-
-(2) The Z statistic has a value greater than two; or
-
-(3) The probability value is less than 0.05. It also includes numerical analysis of similarly situated individuals, small groups, or other characteristics, demographics or outcomes where hypothesis-testing techniques are not used.
+(t)-(u) [Reserved]
 
 (v) *Reasonable accommodation*—(1) The term *reasonable accommodation* means:
 
@@ -190,4 +180,4 @@ For the purpose of this part:
 
 (ee) *Veteran* means a person who served in the active military, naval, or air service of the United States, and who was discharged or released therefrom under conditions other than dishonorable.
 
-[78 FR 58662, Sept. 24, 2013, as amended at 85 FR 39846, July 2, 2020; 85 FR 71572, Nov. 10, 2020]
+[78 FR 58662, Sept. 24, 2013, as amended at 85 FR 39846, July 2, 2020; 85 FR 71572, Nov. 10, 2020; 88 FR 51735, Aug. 4, 2023; 88 FR 57009, Aug. 22, 2023]

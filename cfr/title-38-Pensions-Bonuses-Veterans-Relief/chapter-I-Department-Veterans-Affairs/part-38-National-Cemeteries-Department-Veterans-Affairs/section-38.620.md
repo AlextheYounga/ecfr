@@ -1,7 +1,5 @@
 ##### § 38.620 Persons eligible for burial. #####
 
-Link to an amendment published at 88 FR 51238, Aug. 3, 2023.
-
 The following is a list of those individuals who are eligible for burial in a national cemetery:
 
 (a) Any veteran (which for purposes of this section includes a person who died in the active military, naval, or air service).
@@ -72,11 +70,15 @@ The following is a list of those individuals who are eligible for burial in a na
 
 (j) Any individual who:
 
-(1) Was naturalized pursuant to section 2(1) of the Hmong Veterans' Naturalization Act of 2000 (Pub. L. 106-207, 114 Stat. 316; 8 U.S.C. 1423 note); and
+(1) Died on or after March 23, 2018; and
 
-(2) At the time of the individual's death resided in the United States; and
+(2) Resided in the United States at the time of their death; and
 
-(3) Died on or after March 23, 2018.
+(3) Either:
+
+(i) Was naturalized pursuant to section 2(1) of the Hmong Veterans' Naturalization Act of 2000 (Pub. L. 106-207, 114 Stat. 316; 8 U.S.C. 1423 note); or
+
+(ii) Served honorably with a special guerilla unit or irregular forces operating from a base in Laos in support of the Armed Forces at any time between February 28, 1961, and May 7, 1975; and was, at the time of the individual's death, a citizen of the United States or an alien lawfully admitted for permanent residence in the United States.
 
 (k) The spouse, minor child, and unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse's or child's death if such death occurs before October 1, 2024. Paragraphs (e)(2) and (3) of this section provide the applicable definitions for “minor child” and “unmarried adult child.”
 
@@ -84,4 +86,4 @@ Note 1 to § 38.620:
 
 A benefit request pertaining to a decedent whose character of discharge may potentially bar eligibility to that benefit may be referred to the Veterans Benefits Administration for review in accordance with 38 CFR 3.12 (Character of discharge) or other applicable sections.
 
-(Authority: 38 U.S.C. 107, 501, 2402)[70 FR 4769, Jan. 31, 2005, as amended at 77 FR 4678, Jan. 31, 2012; 86 FR 43098, Aug. 6, 2021; 86 FR 52077, Sept. 20, 2021]
+(Authority: 38 U.S.C. 107, 501, 2402)[70 FR 4769, Jan. 31, 2005, as amended at 77 FR 4678, Jan. 31, 2012; 86 FR 43098, Aug. 6, 2021; 86 FR 52077, Sept. 20, 2021; 88 FR 51238, Aug. 3, 2023]

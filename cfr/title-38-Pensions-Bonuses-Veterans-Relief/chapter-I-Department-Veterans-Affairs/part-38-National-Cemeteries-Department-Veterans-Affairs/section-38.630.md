@@ -1,7 +1,5 @@
 ##### § 38.630 Burial headstones and markers; medallions. #####
 
-Link to an amendment published at 88 FR 51238, Aug. 3, 2023.
-
 (a) *Eligibility*—(1) *Unmarked graves.* VA will furnish, when requested under paragraph (b)(1)(i) or (ii) of this section, a burial headstone or marker for the unmarked grave of the following individuals:
 
 (i) Any individual buried in a national cemetery or in a military post cemetery. When more than one individual is buried in a single gravesite in a national cemetery, VA will, if feasible, include inscription information for all such individuals on a single headstone or marker, rather than furnishing a separate headstone or marker for each buried individual.
@@ -18,7 +16,7 @@ Link to an amendment published at 88 FR 51238, Aug. 3, 2023.
 
 (E) Individuals who served in the organized military forces of the Government of the Commonwealth of the Philippines, or who served in the New Philippine Scouts, as described in and subject to § 38.620(h).
 
-(F) Individuals who were naturalized pursuant to sec. 2(1) of the Hmong Veterans' Naturalization Act of 2000, as described in and subject to § 38.620(j).
+(F) Individuals who were naturalized pursuant to section 2(1) of the Hmong Veterans' Naturalization Act of 2000, or who served honorably with a special guerilla unit or irregular forces operating from a base in Laos in support of the Armed Forces, as described in and subject to § 38.620(j).
 
 (iii) Soldiers of the Union and Confederate Armies of the Civil War, whose graves may be located in any type of non-national cemetery (e.g., state, tribal, private, or local government cemetery).
 
@@ -36,7 +34,7 @@ Link to an amendment published at 88 FR 51238, Aug. 3, 2023.
 
 (E) Individuals who served in the organized military forces of the Government of the Commonwealth of the Philippines, or who served in the New Philippine Scouts, as described in and subject to § 38.620(h).
 
-(F) Individuals who were naturalized pursuant to sec. 2(1) of the Hmong Veterans' Naturalization Act of 2000, as described in and subject to § 38.620(j).
+(F) Individuals who were naturalized pursuant to section 2(1) of the Hmong Veterans' Naturalization Act of 2000, or who served honorably with a special guerilla unit or irregular forces operating from a base in Laos in support of the Armed Forces, as described in and subject to § 38.620(j).
 
 (ii) An individual described in paragraph (a)(2)(i) of this section is eligible for a headstone or marker provided under this paragraph (a)(2) if:
 
@@ -148,4 +146,4 @@ Link to an amendment published at 88 FR 51238, Aug. 3, 2023.
 
 (D) Has been stolen or vandalized.
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0222)(Authority: 38 U.S.C. 2306, 2402, 2404, sec. 203(b), Pub. L. 110-157, 121 Stat. 1831)[86 FR 43098, Aug. 6, 2021; 86 FR 47387, Aug. 25, 2021]
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0222)(Authority: 38 U.S.C. 2306, 2402, 2404, sec. 203(b), Pub. L. 110-157, 121 Stat. 1831)[86 FR 43098, Aug. 6, 2021; 86 FR 47387, Aug. 25, 2021, as amended at 88 FR 51238, Aug. 3, 2023]

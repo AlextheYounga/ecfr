@@ -1,7 +1,5 @@
 ##### § 229.601 (Item 601) Exhibits. #####
 
-Link to an amendment published at 88 FR 51943, Aug. 4, 2023.
-
 (a) *Exhibits and index required.* (1) Subject to Rule 411(c) (§ 230.411(c) of this chapter) under the Securities Act and Rule 12b-23(c) (§ 240.12b-23(c) of this chapter) under the Exchange Act regarding incorporation of exhibits by reference, the exhibits required in the exhibit table must be filed as indicated, as part of the registration statement or report.
 
 (2) Each registration statement or report shall contain an exhibit index, which must appear before the required signatures in the registration statement or report. For convenient reference, each exhibit shall be listed in the exhibit index according to the number assigned to it in the exhibit table. If an exhibit is incorporated by reference, this must be noted in the exhibit index. Each exhibit identified in the exhibit index (other than an exhibit filed in eXtensible Business Reporting Language or an exhibit that is filed with Form ABS-EE) must include an active link to an exhibit that is filed with the registration statement or report or, if the exhibit is incorporated by reference, an active hyperlink to the exhibit separately filed on EDGAR. If a registration statement or report is amended, each amendment must include hyperlinks to the exhibits required with the amendment. For a description of each of the exhibits included in the exhibit table, see paragraph (b) of this section.
@@ -656,7 +654,11 @@ The certification must be signed by the chief executive officer of the depositor
 
 (C) Is required for a Form 8-K (§ 249.308 of this chapter):
 
-(*1*) Only when the Form 8-K contains audited annual financial statements that are a revised version of financial statements that previously were filed with the Commission and that have been revised pursuant to applicable accounting standards to reflect the effects of certain subsequent events, including a discontinued operation, a change in reportable segments or a change in accounting principle. In such case, the Interactive Data File will be required only as to such revised financial statements regardless of whether the Form 8-K contains other financial statements; and
+(*1*) Only when:
+
+(*i*) The Form 8-K contains audited annual financial statements that are a revised version of financial statements that previously were filed with the Commission and that have been revised pursuant to applicable accounting standards to reflect the effects of certain subsequent events, including a discontinued operation, a change in reportable segments or a change in accounting principle. In such case, the Interactive Data File will be required only as to such revised financial statements regardless of whether the Form 8-K contains other financial statements; or
+
+(*ii*) The Form 8-K includes disclosure required to be provided in an Interactive Data File pursuant to Item 1.05(b) of Form 8-K; and
 
 (*2*) Except that a business development company as defined in Section 2(a)(48) of the Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(48)) also is required to submit an Interactive Data File to the extent required by § 232.405(b)(3)(iii) of this chapter.
 

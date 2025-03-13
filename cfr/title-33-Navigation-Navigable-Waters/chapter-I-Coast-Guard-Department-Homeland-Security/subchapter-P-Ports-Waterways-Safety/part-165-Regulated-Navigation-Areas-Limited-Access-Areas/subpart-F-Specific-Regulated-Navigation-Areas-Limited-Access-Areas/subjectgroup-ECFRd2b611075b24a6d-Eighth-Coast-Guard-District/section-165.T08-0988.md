@@ -18,4 +18,4 @@
 
 (d) *Enforcement periods.* The safety zone in paragraph (a) of this section is in effect from January 20, 2023, through December 31, 2024. This section will be subject to enforcement when high pressure tests are being conducted. Mariners will be informed of enforcement zone and enforcement periods by Broadcast Notice to Mariners, VTS Advisory, and the presence of enforcement vessels displaying flashing blue law enforcement lights.
 
-[USCG-2022-0988, 88 FR 1147, Jan. 9, 2023]
+[USCG-2022-0988, 88 FR 1147, Jan. 9, 2023]Effective Date Note:By USCG-2022-0988, 88 FR 1147, Jan. 9, 2023, § 165.T08-0988 was added, effective Jan. 20, 2023 until Dec. 31, 2024.

@@ -59,4 +59,4 @@
 
 (4) Once a reentry vehicle, and any personnel involved in reentry service, are removed from the water and secured onboard a space support vessel, the Captain of the Port Sector Mobile or designated representative will issue a Broadcast Notice to Mariners on VHF-FM channel 16 announcing the activated safety zone is no longer subject to enforcement.
 
-[USCG-2022-0995, 88 FR 13319, Mar. 3, 2023]
+[USCG-2022-0995, 88 FR 13319, Mar. 3, 2023]Effective Date Note:By USCG-2022-0995, 88 FR 13319, Mar. 3, 2023, § 165.T08-1000 was added, effective Mar. 3, 2023, to Feb. 4, 2024.

@@ -1,7 +1,5 @@
 ##### § 38.619 Requests for interment, committal services or memorial services, and funeral honors. #####
 
-Link to an amendment published at 88 FR 51238, Aug. 3, 2023.
-
 (a) *Interment requests.* A personal representative, as defined in § 38.600, may request interment of an eligible decedent in a national cemetery by contacting the National Cemetery Scheduling Office (NCSO) at 1-800-535-1117.
 
 (1) *Required information.* VA will request the following information from the decedent's personal representative at the time of the request for interment to allow VA to schedule the interment for the decedent:
@@ -24,7 +22,27 @@ Link to an amendment published at 88 FR 51238, Aug. 3, 2023.
 
 (ix) Other relevant information necessary to establish or confirm eligibility of the decedent and/or for cemetery logistics and planning.
 
-(2) [Reserved]
+(2) *Interment requests pursuant to § 38.620(j).* (i) Consistent with paragraph (a)(1)(i) of this section, interment requests pursuant to § 38.620(j) must include the following:
+
+(A) For decedents who were naturalized under section 2(1) of the Hmong Veterans Naturalization Act of 2000 (the Act), a copy of the official U.S. Certificate of Naturalization. (VA will verify with the U.S. Citizenship and Immigration Services that the naturalization was pursuant to section 2(1) of the Act.)
+
+(B) For decedents who were otherwise naturalized, a copy of the U.S. Certificate of Naturalization and documentation of the decedent's honorable service with a special guerilla unit or irregular forces operating from a base in Laos in support of the Armed Forces at any time between February 28, 1961, and May 7, 1975.
+
+(C) For decedents who were not naturalized but were lawfully admitted for permanent residence in the U.S., a copy of the official documentation of status as a lawful permanent resident, and documentation of the decedent's honorable service with a special guerilla unit or irregular forces operating from a base in Laos in support of the Armed Forces at any time between February 28, 1961, and May 7, 1975.
+
+(D) Evidence that the decedent resided in the U.S. at the time of death.
+
+(ii) VA will accept the following types of documentation as evidence of service described in paragraphs (a)(2)(i)(B) and (C) of this section:
+
+(A) Original documentation issued by a government agency officially documenting the service type, location, and dates served;
+
+(B) An affidavit of the decedent's superior officer attesting to the type of service, location, and dates served;
+
+(C) Two affidavits from other individuals who were also serving with such a special guerilla unit or irregular forces and who personally knew of the decedent's service; or
+
+(D) Other appropriate evidence that factually documents the service, location, and dates served.
+
+(iii) The DD Form 214, Certificate of Release or Discharge from Active Duty, is not an appropriate documentation of service for purposes of paragraphs (a)(2)(i)(B) and (C) of this section.
 
 (b) *Memorial services requests.* The personal representative may request a memorial service for a decedent who is eligible for interment in a VA national cemetery. Memorial services may be conducted if the decedent's cremated remains will be scattered and will not be interred, or if the remains of the eligible individual are otherwise not available for interment, or were previously interred without a committal service. The personal representative may request the memorial service by contacting the National Cemetery Scheduling Office (NCSO) at 1-800-535-1117 and providing the following required information:
 
@@ -86,4 +104,4 @@ Link to an amendment published at 88 FR 51238, Aug. 3, 2023.
 
 (h) *Gifts.* Nothing in this section prohibits or constrains any member of a funeral honors provider, a Veterans Service Organization, or the public from offering a gift or token to a family member of the decedent or any person at a committal or memorial service, provided that no compensation is requested, received, or expected in exchange for such gift or token. Committal or memorial service attendees may accept or decline any such gift or token, and may request that the offeror refrain from making any such offers to the service attendees.
 
-(Authority: 38 U.S.C. 2402, 2404)[84 FR 38557, Aug. 7, 2019]
+(Authority: 38 U.S.C. 2402, 2404)[84 FR 38557, Aug. 7, 2019, as amended at 88 FR 51238, Aug. 3, 2023]
