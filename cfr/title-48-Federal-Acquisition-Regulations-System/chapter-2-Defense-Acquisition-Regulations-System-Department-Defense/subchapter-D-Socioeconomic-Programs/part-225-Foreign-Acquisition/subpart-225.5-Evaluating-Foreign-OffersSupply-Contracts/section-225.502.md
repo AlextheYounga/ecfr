@@ -10,9 +10,9 @@
 
 (c) Use the following procedures instead of those in FAR 25.502(c) for acquisitions subject to the Buy American statute or the Balance of Payments Program:
 
-(i)(A) If the acquisition is subject only to the Buy American or Balance of Payments Program, then only qualifying country end products are exempt from application of the Buy American or Balance of Payments Program evaluation factor.
+(i)(A) If the acquisition is subject only to the Buy American statute or the Balance of Payments Program, then only qualifying country end products are exempt from application of the Buy American or Balance of Payments Program evaluation factor.
 
-(B) If the acquisition is also subject to a Free Trade Agreement, then eligible products of the applicable Free Trade Agreement country are also exempt from application of the Buy American or Balance of Payments Program evaluation factor.
+(B) If the acquisition is also subject to a Free Trade Agreement, then eligible products of the applicable Free Trade Agreement country are also exempt from application of the Buy American or Balance of Payments Program evaluation factor, but see 225.106.
 
 (ii) If price is the determining factor, use the following procedures:
 
@@ -20,7 +20,7 @@
 
 (B) If there are no domestic offers, award on the low offer (see example in PGI 225.504(1)).
 
-(C) If the low offer is a foreign offer that is exempt from application of the Buy American or Balance of Payments Program evaluation factor, award on that offer. (If the low offer is a qualifying country offer from a country listed at 225.872-1(b), execute a determination in accordance with 225.872-4.)
+(C) If the low offer is a foreign offer that is exempt from application of the Buy American or Balance of Payments Program evaluation factor, award on that offer. If the low offer is a qualifying country offer from a country listed at 225.872-1(b), execute a determination in accordance with 225.872-4. A qualifying country offer is subject to the domestic content requirement for end products that are wholly or predominantly of iron or steel or a combination of both.
 
 (D) If the low offer is a foreign offer that is not exempt from application of the Buy American or Balance of Payments Program evaluation factor, and there is another foreign offer that is exempt and is lower than the lowest domestic offer, award on the low foreign offer (see example in PGI 225.504(2)).
 
@@ -40,4 +40,4 @@
 
 (iv) If the solicitation includes the provision at 252.225-7023, Preference for Products or Services from Afghanistan, use the evaluation procedures at 225.7703-3.
 
-[68 FR 15620, Mar. 31, 2003, as amended at 69 FR 1928, Jan. 13, 2004; 69 FR 74992, Dec. 15, 2004; 70 FR 2363, Jan. 13, 2005; 73 FR 53152, Sept. 15, 2008; 75 FR 81916, Dec. 29, 2010; 77 FR 35881, June 15, 2012; 78 FR 59857, Sept. 30, 2013; 87 FR 37443, June 23, 2022]
+[68 FR 15620, Mar. 31, 2003, as amended at 69 FR 1928, Jan. 13, 2004; 69 FR 74992, Dec. 15, 2004; 70 FR 2363, Jan. 13, 2005; 73 FR 53152, Sept. 15, 2008; 75 FR 81916, Dec. 29, 2010; 77 FR 35881, June 15, 2012; 78 FR 59857, Sept. 30, 2013; 87 FR 37443, June 23, 2022; 89 FR 11954, Feb. 15, 2024]

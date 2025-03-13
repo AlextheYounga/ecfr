@@ -1,12 +1,12 @@
 ##### 225.1101 Acquisition of supplies. #####
 
-(1) Use the basic or the alternate of the provision at 252.225-7000, Buy American—Balance of Payments Program Certificate, instead of the provision at FAR 52.225-2, Buy American Certificate, in any solicitation, including solicitations using FAR part 12 procedures for the acquisition of commercial products and commercial services, that includes the basic or the alternate of the clause at 252.225-7001, Buy American and Balance of Payments Program. If the solicitation includes the provision at FAR 52.204-7, do not separately list the provision 252.225-7000 in the solicitation.
+(1) Use the basic or the alternate of the provision at 252.225-7000, Buy American—Balance of Payments Program Certificate, instead of the provision at FAR 52.225-2, Buy American Certificate, in any solicitation, including solicitations using FAR part 12 procedures for the acquisition of commercial products and commercial services, that includes the basic or the alternate of the clause at 252.225-7001, Buy American and Balance of Payments Program.
 
-(i) Use the basic provision when the solicitation includes the basic clause at 252.225-7001.
+(i) Use the basic provision when the solicitation includes the basic clause or alternate II of the clause at 252.225-7001.
 
-(ii) Use the alternate I provision when the solicitation includes alternate I of the clause at 252.225-7001.
+(ii) Use the alternate I provision when the solicitation includes alternate I or alternate III of the clause at 252.225-7001.
 
-(2)(i) Use the basic or the alternate of the clause at 252.225-7001, Buy American Act and Balance of Payments Program, instead of the clause at FAR 52.225-1, Buy American —Supplies, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services, unless—
+(2)(i) Use the basic or an alternate of the clause at 252.225-7001, Buy American and Balance of Payments Program, instead of the clause at FAR 52.225-1, Buy American —Supplies, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services, unless—
 
 (A) All line items will be acquired from a particular source or sources under the authority of FAR 6.302-3;
 
@@ -27,6 +27,18 @@
 (ii) Use the basic clause if the acquisition is not of end products listed in 225.401-70 in support of operations in Afghanistan.
 
 (iii) Use the alternate I clause when the acquisition is of end products listed in 225.401-70 in support of operations in Afghanistan.
+
+(iv) Use alternate II of the clause in lieu of the basic clause in solicitations and contracts if—
+
+(A) The acquisition is not of end products listed in 225.401-70 in support of operations in Afghanistan; and
+
+(B) An alternate domestic content threshold will apply to the entire period of performance as approved by the senior procurement executive (see 225.101(d)).
+
+(v) Use alternate III of the clause in lieu of Alternate I of the clause in solicitations and contracts if—
+
+(A) The acquisition is of end products listed in 225.401-70 in support of operations in Afghanistan; and
+
+(B) An alternate domestic content threshold will apply to the entire period of performance as approved by the senior procurement executive (see 225.101(d)).
 
 (3) Use the clause at 252.225-7002, Qualifying Country Sources as Subcontractors, in solicitations and contracts that include the basic or one of the alternates of the following clauses:
 
@@ -50,13 +62,21 @@
 
 (ii) Use the alternate II clause in solicitations and contracts that do not include the clause at 252.225-7024, Requirement for Products or Services from Afghanistan, when the acquisition is of end products in support of operations in Afghanistan.
 
-(iii) Do not use the basic or an alternate of the clause if—
+(iii) Use the alternate III clause in lieu of the basic clause in solicitations and contracts that are not of end products in support of operations in Afghanistan or that include the clause at 252.225-7024, Requirement for Products or Services from Afghanistan, when an alternate domestic content threshold will apply to the entire period of performance as approved by the senior procurement executive (see 225.101(d)).
+
+(iv) Use the alternate IV clause in lieu of the alternate II clause in solicitations and contracts that do not include the clause at 252.225-7024, Requirement for Products or Services from Afghanistan, when—
+
+(A) The acquisition is of end products in support of operations in Afghanistan; and
+
+(B) An alternate domestic content threshold will apply to the entire period of performance as approved by the senior procurement executive (see 225.101(d)).
+
+(v) Do not use the basic or an alternate of the clause if—
 
 (A) Purchase from foreign sources is restricted, unless the contracting officer anticipates a waiver of the restriction; or
 
 (B) The clause at 252.225-7026, Acquisition Restricted to Products or Services from Afghanistan, is included in the solicitation and contract.
 
-(iv) The acquisition of eligible and noneligible products under the same contract may result in the application of trade agreements to only some of the items acquired. In such case, indicate in the Schedule those items covered by the Trade Agreements clause.
+(vi) The acquisition of eligible and noneligible products under the same contract may result in the application of trade agreements to only some of the items acquired. In such case, indicate in the Schedule those items covered by the Trade Agreements clause.
 
 (7) Use the provision at 252.225-7032, Waiver of United Kingdom Levies—Evaluation of Offers, in solicitations if a U.K. firm is expected to—
 
@@ -70,19 +90,19 @@
 
 (ii) Receive a subcontract exceeding $1 million.
 
-(9) Use the basic or an alternate of the provision at 252.225-7035, Buy American—Free Trade Agreements—Balance of Payments Program Certificate, instead of the provision at FAR 52.225-4, Buy American—Free Trade Agreements—Israeli Trade Act Certificate, in solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial products and commercial services, that include the basic or an alternate of the clause at 252.225-7036, Buy American—Free Trade Agreements—Balance of Payments Program. If the solicitation includes the provision at FAR 52.204-7, do not separately list the provision 252.225-7035 in the solicitation.
+(9) Use the basic or an alternate of the provision at 252.225-7035, Buy American—Free Trade Agreements—Balance of Payments Program Certificate, instead of the provision at FAR 52.225-4, Buy American—Free Trade Agreements—Israeli Trade Act Certificate, in solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial products and commercial services, that include the basic or an alternate of the clause at 252.225-7036, Buy American—Free Trade Agreements—Balance of Payments Program.
 
-(i) Use the basic provision in solicitations when the basic of the clause at 252.225-7036 is used.
+(i) Use the basic provision in solicitations when the basic or alternate VI of the clause at 252.225-7036 is used.
 
-(ii) Use the alternate I provision when the solicitation includes alternate I of the clause at 252.225-7036.
+(ii) Use the alternate I provision when the solicitation includes alternate I or alternate VII of the clause at 252.225-7036.
 
-(iii) Use the alternate II provision when the solicitation includes alternate II of the clause at 252.225-7036.
+(iii) Use the alternate II provision when the solicitation includes alternate II or alternate VIII of the clause at 252.225-7036.
 
-(iv) Use the alternate III provision when the solicitation includes alternate III of the clause at 252.225-7036.
+(iv) Use the alternate III provision when the solicitation includes alternate III or alternate IX of the clause at 252.225-7036.
 
-(v) Use the alternate IV provision when the solicitation includes alternate IV of the clause at 252.225-7036.
+(v) Use the alternate IV provision when the solicitation includes alternate IV or alternate X of the clause at 252.225-7036.
 
-(vi) Use the alternate V provision when the solicitation includes alternate V of the clause at 252.225-7036.
+(vi) Use the alternate V provision when the solicitation includes alternate V or alternate XI of the clause at 252.225-7036.
 
 (10)(i) Except as provided in paragraph (10)(ii) of this section, use the basic or an alternate of the clause at 252.225-7036, Buy American—Free Trade Agreements—Balance of Payments Program, instead of the clause at FAR 52.225-3, Buy American—Free Trade Agreements—Israeli Trade Act, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services, for the items listed at 225.401-70, when the estimated value is less than $183,000, unless an exception at FAR 25.401 or 225.401 applies.
 
@@ -98,6 +118,48 @@
 
 (F) Use the alternate V clause in solicitations and contracts when the estimated value equals or exceeds $92,319 but is less than $100,000 and the acquisition is of end products in support of operations in Afghanistan.
 
+(G) Use the alternate VI clause in lieu of the basic clause in solicitations and contracts, except if the acquisition is of end products in support of operations in Afghanistan, when—
+
+(*1*) The estimated value equals or exceeds $100,000 but is less than $183,000; and
+
+(*2*) An alternate domestic content threshold will apply to the entire period of performance as approved by the senior procurement executive (see 225.101(d)).
+
+(H) Use the alternate VII clause in lieu of the alternate I clause in solicitations and contracts, except if the acquisition is of end products in support of operations in Afghanistan, when—
+
+(*1*) The estimated value is less than $92,319; and
+
+(*2*) An alternate domestic content threshold will apply to the entire period of performance as approved by the senior procurement executive (see 225.101(d)).
+
+(I) Use the alternate VIII clause in lieu of the alternate II clause in solicitations and contracts when—
+
+(*1*) The estimated value is less than $183,000;
+
+(*2*) The acquisition is of end products in support of operations in Afghanistan; and
+
+(*3*) An alternate domestic content threshold will apply to the entire period of performance as approved by the senior procurement executive (see 225.101(d)).
+
+(J) Use the alternate IX clause in lieu of the alternate III clause in solicitations and contracts when—
+
+(*1*) The estimated value is less than $92,319;
+
+(*2*) The acquisition is of end products in support of operations in Afghanistan; and
+
+(*3*) An alternate domestic content threshold will apply to the entire period of performance as approved by the senior procurement executive in accordance with FAR 25.101(d).
+
+(K) Use the alternate X clause in lieu of the alternate IV clause in solicitations and contracts, except if the acquisition is of end products in support of operations in Afghanistan, when—
+
+(*1*) The estimated value equals or exceeds $92,319 but is less than $100,000; and
+
+(*2*) An alternate domestic content threshold will apply to the entire period of performance as approved by the senior procurement executive (see 225.101(d)).
+
+(L) Use the alternate XI clause in lieu of the alternate V clause in solicitations and contracts when—
+
+(*1*) The estimated value equals or exceeds $92,319 but is less than $100,000;
+
+(*2*) The acquisition is of end products in support of operations in Afghanistan; and
+
+(*3*) An alternate domestic content threshold will apply to the entire period of performance as approved by the senior procurement executive (see 225.101(d)).
+
 (ii) Do not use the basic or an alternate of the clause in paragraph (10)(i) of this section if—
 
 (A) Purchase from foreign sources is restricted (see 225.401(a)(2)), unless the contracting officer anticipates a waiver of the restriction;
@@ -108,4 +170,4 @@
 
 (iii) The acquisition of eligible and noneligible products under the same contract may result in the application of a Free Trade Agreement to only some of the items acquired. In such case, indicate in the Schedule those items covered by the Buy American —Free Trade Agreements—Balance of Payments Program clause.
 
-[75 FR 81916, Dec. 29, 2010, as amended at 77 FR 4630, Jan. 30, 2012; 77 FR 30357, May 22, 2012; 77 FR 35880, June 15, 2012; 78 FR 37986, June 25, 2013; 78 FR 40043, July 3, 2013; 78 FR 59857, Sept. 30, 2013; 78 FR 79621, Dec. 31, 2013; 79 FR 3520, Jan. 22, 2014; 79 FR 11342, Feb. 28, 2014; 79 FR 65817, Nov. 5, 2014; 80 FR 2021, Jan. 15, 2015; 80 FR 36898, June 26, 2015; 80 FR 81471, Dec. 30, 2015; 81 FR 17048, Mar. 25, 2016; 82 FR 61482, Dec. 28, 2017; 84 FR 72246, Dec. 31, 2019; 86 FR 74377, Dec. 30, 2021; 87 FR 76986, Dec. 16, 2022; 88 FR 6584, Jan. 31, 2023; 88 FR 55940, Aug. 17, 2023]
+[75 FR 81916, Dec. 29, 2010, as amended at 77 FR 4630, Jan. 30, 2012; 77 FR 30357, May 22, 2012; 77 FR 35880, June 15, 2012; 78 FR 37986, June 25, 2013; 78 FR 40043, July 3, 2013; 78 FR 59857, Sept. 30, 2013; 78 FR 79621, Dec. 31, 2013; 79 FR 3520, Jan. 22, 2014; 79 FR 11342, Feb. 28, 2014; 79 FR 65817, Nov. 5, 2014; 80 FR 2021, Jan. 15, 2015; 80 FR 36898, June 26, 2015; 80 FR 81471, Dec. 30, 2015; 81 FR 17048, Mar. 25, 2016; 82 FR 61482, Dec. 28, 2017; 84 FR 72246, Dec. 31, 2019; 86 FR 74377, Dec. 30, 2021; 87 FR 76986, Dec. 16, 2022; 88 FR 6584, Jan. 31, 2023; 88 FR 55940, Aug. 17, 2023; 89 FR 11954, Feb. 15, 2024]

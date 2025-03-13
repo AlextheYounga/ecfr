@@ -14,7 +14,7 @@
 
 (4) Past performance information collected under FAR 42.15 and available through the Contractor Performance Assessment Reporting System at *https://www.cpars.gov/,* or successor system.
 
-(d) The contracting officer may obtain information to evaluate an offeror's past performance on subcontracting plan goals and small disadvantaged business participation, monetary targets, and notifications under FAR 19.1202-4(b) from the following sources:
+(d) The contracting officer may obtain information to evaluate an offeror's past performance on subcontracting plan goals and monetary targets from the following sources:
 
 (1) The Small Business Administration;
 
@@ -28,4 +28,4 @@
 
 (f) Also see the requirements in 570.108, 570.109 and 570.111.
 
-[64 FR 37265, July 9, 1999, as amended at 76 FR 30851, May 27, 2011; 85 FR 38337, June 26, 2020]
+[64 FR 37265, July 9, 1999, as amended at 76 FR 30851, May 27, 2011; 85 FR 38337, June 26, 2020; 89 FR 11749, Feb. 15, 2024]

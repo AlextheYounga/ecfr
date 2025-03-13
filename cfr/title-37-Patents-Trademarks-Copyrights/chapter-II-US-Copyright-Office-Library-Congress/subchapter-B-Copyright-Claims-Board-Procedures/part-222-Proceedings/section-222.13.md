@@ -1,8 +1,6 @@
 ##### § 222.13 Consolidation. #####
 
-Link to an amendment published at 89 FR 2492, Jan. 16, 2024.
-
-(a) *Consolidation.* If a claimant has multiple *active proceedings* against the same respondent or that arise out of the same facts and circumstances, the Board may consolidate the proceedings for purposes of conducting discovery, submitting evidence to the Board, or holding hearings. Consolidated proceedings shall remain separate for purposes of Board determinations and any damages awards.
+(a) *Consolidation.* Except as provided in paragraph (e) of this section, if a claimant has multiple *active proceedings* against the same respondent or multiple active proceedings that arise out of the same facts and circumstances, the Board may consolidate the proceedings for purposes of conducting discovery, submitting evidence to the Board, or holding hearings. Consolidated proceedings shall remain separate for purposes of Board determinations and any damages awards.
 
 (b) *Timing.* The Board may consolidate proceedings at any time upon its own authority or following consideration of a request by any party, with reasonable notice and opportunity to be heard provided to all affected parties.
 
@@ -10,4 +8,6 @@ Link to an amendment published at 89 FR 2492, Jan. 16, 2024.
 
 (d) *Standard for granting request.* In determining whether to grant a request to consolidate, the Board shall balance the need for and benefits of consolidation with the timeliness of the request and whether any undue prejudice has resulted from the delay in making the request.
 
-[87 FR 30077, May 17, 2022]
+(e) *Smaller claims proceedings.* Where the Board becomes aware that a standard proceeding and a smaller claims proceeding involve the same or substantially similar parties and arise out of the same transaction or occurrence, one or more Officers may hold a conference to determine whether the parties are willing to voluntarily consolidate the separate proceedings into a single proceeding using either the smaller claims procedures or the standard Board procedures. The Board will consolidate proceedings only where the parties agree, doing so would be in the interests of justice, and the proceedings involve the same or substantially similar parties and arise out of the same transaction or occurrence. If the proceedings involve the same or substantially similar parties and arise out of the same transaction or occurrence, but the parties do not agree to voluntarily consolidate the separate proceedings into a single proceeding, then each proceeding shall be considered separately.
+
+[87 FR 30077, May 17, 2022, as amended at 89 FR 2492, Jan. 16, 2024]

@@ -1,5 +1,7 @@
 ##### § 121.301 What size standards and affiliation principles are applicable to financial assistance programs? #####
 
+Link to an amendment published at 89 FR 11712, Feb. 15, 2024.
+
 The Small Business Act defines a small business concern as one which is independently owned and operated, and which is not dominant in its field of operation. SBA interprets this statutory definition to require, in certain circumstances, the inclusion of other entities (“Affiliates”) owned by the applicant or an owner of the applicant in determining the size of the applicant.
 
 (a) For Business Loans (other than for 7(a) Business Loans for the period beginning May 5, 2009 and ending on September 30, 2010) and for Disaster Loans (other than physical disaster loans), an applicant business concern must satisfy two criteria:

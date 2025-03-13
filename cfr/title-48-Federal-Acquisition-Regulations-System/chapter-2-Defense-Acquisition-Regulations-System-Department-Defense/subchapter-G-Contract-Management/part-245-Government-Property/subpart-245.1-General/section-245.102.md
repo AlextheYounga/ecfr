@@ -36,7 +36,7 @@ See the policy guidance at PGI 245.102-70.
 
 (*ii*) The head of the contracting activity for all other programs.
 
-(*2*) A copy of the executed determination and findings shall be provided to the DoD Unique Item Identification Policy Office at this address: OUSD (AT&L) DPAP/Program Development and Implementation, Room 3B855, 3060 Defense Pentagon, Washington, DC 20301-3060; or by facsimile to 703-602-6047.
+(*2*) A copy of the executed determination and findings shall be provided to the Office of the Principal Director, Defense Pricing and Contracting (DPC) (Contracting eBusiness) via email at *osd.pentagon.ousd-a-s.mbx.dpc-cb@mail.mil.*
 
 (D) Items that are contractor-acquired property;
 
@@ -50,4 +50,4 @@ See the policy guidance at PGI 245.102-70.
 
 (5) *Reporting Government property.* It is DoD policy that all Government property be reported in the GFP module or Wide Area WorkFlow module of the Procurement Integrated Enterprise Environment (PIEE) as required by the clause at 252.245-7005, Management and Reporting of Government Property.
 
-[74 FR 37647, July 29, 2009, as amended at 76 FR 3537, Jan. 20, 2011; 76 FR 6006, 6008, Feb. 2, 2011; 80 FR 2021, Jan. 15, 2015; 81 FR 36473, June 7, 2016; 86 FR 3839, Jan. 15, 2021; 88 FR 6588, Jan. 31, 2023; 88 FR 88537, Dec. 22, 2023]
+[74 FR 37647, July 29, 2009, as amended at 76 FR 3537, Jan. 20, 2011; 76 FR 6006, 6008, Feb. 2, 2011; 80 FR 2021, Jan. 15, 2015; 81 FR 36473, June 7, 2016; 86 FR 3839, Jan. 15, 2021; 88 FR 6588, Jan. 31, 2023; 88 FR 88537, Dec. 22, 2023; 89 FR 11748, Feb. 15, 2024]

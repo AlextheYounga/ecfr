@@ -1,7 +1,5 @@
 ##### § 21.4201 Restrictions on enrollment; percentage of students receiving financial support. #####
 
-Link to an amendment published at 89 FR 2502, Jan. 16, 2024.
-
 (a) *General.* Except as otherwise provided in this section the Department of Veterans Affairs shall not approve an enrollment in any course for an eligible veteran, not already enrolled, for any period during which more than 85 percent of the students enrolled in the course are having all or part of their tuition, fees or other charges paid for them by the educational institution or by VA under title 38, U.S.C., or under title 10, U.S.C. This restriction may be waived in whole or in part.
 
 (Authority: 10 U.S.C. 16136(b); 38 U.S.C. 3034(a), 3241(a), 3323(a), 3680A(d))
@@ -62,19 +60,7 @@ Link to an amendment published at 89 FR 2502, Jan. 16, 2024.
 
 (ii) NCD (noncollege degree) courses must be computed separately by approved vocational objective. If several curricula lead to the same coded vocational objective, each must meet the 85-15 percent requirement separately, unless it can be shown that two or more courses are identical in all respects (scheduling, hours devoted to each unit subject, etc.). Branch or extension courses will be computed separately from courses at the parent facility. Courses offered on a full- and part-time basis which are identical in length and content will be combined for computing the ratio.
 
-(2) *Assigning students to each part of the ratio.* Notwithstanding the provisions of paragraph (a) of this section, the following students will be considered to be nonsupported provided VA is not furnishing them with educational assistance under title 38, U.S.C., or under title 10, U.S.C.:
-
-(i) Students who are not veterans or reservists, and are not in receipt of institutional aid.
-
-(Authority: 10 U.S.C. 16136(b); 38 U.S.C. 3034(a), 3241(a), 3323(a), 3680A(d))
-
-(ii) All graduate students in receipt of institutional aid.
-
-(iii) Students in receipt of any Federal aid (other than Department of Veterans Affairs benefits).
-
-(iv) Undergraduates and non-college degree students receiving any assistance provided by an institution, if the institutional policy for determining the recipients of such aid is equal with respect to veterans and nonveterans alike.
-
-(Authority: 10 U.S.C. 16136(b); 38 U.S.C. 3034(a), 3241(a), 3323(a), 3680A(d))
+(2) *Assigning students to each part of the ratio.* In accordance with the provisions of paragraph (a) of this section, *non-supported students* are those students enrolled in the course who are having none of their tuition, fees or other charges paid for them by the educational institution, or by VA under title 38, U.S.C., or under title 10, U.S.C., while *supported students* are those students enrolled in the course who are in receipt of institutional aid or VA educational assistance benefits (*i.e.,* having all or part of their tuition, fees or other charges paid for them by the educational institution, or by VA under chapter 36, title 38, United States Code, or under title 10, United States Code.). *Institutional aid* does not include Federal, state, or municipal grant funding, nor does it include matching funds provided by the educational institution through participation in such Federal, state, or municipal grant programs. Recipients of these funds are to be counted as non-supported students barring receipt of other institutional aid or VA educational assistance benefits.
 
 (3) *Calculation.* (i) To determine if the requirement of paragraph (a) of this section has been met for all courses except flight courses the full-time equivalent, nonsupported students as defined by paragraph (e)(2) of this section will be compared to the full-time equivalent students enrolled in the course. If the full-time equivalent, nonsupported students do not equal at least 15 percent of the total full-time enrollment, the 85-15 percent requirement has not been met for the course. If a non-Department of Veterans Affairs student in a correspondence course has not completed a lesson nor made a payment toward the cost of the course during the 6-month period immediately prior to the computation, the student will not be counted in computing the 85-15 percent ratio.
 
@@ -90,9 +76,7 @@ Link to an amendment published at 89 FR 2502, Jan. 16, 2024.
 
 (Authority: 10 U.S.C. 16136(b); 38 U.S.C. 3034(a), 3241(a), 3323(a), 3680A(d))
 
-(f) *Reports.* (1) Schools must submit to VA all calculations needed to support the exemption found in paragraph (c)(4) of this section. If the school is organized on a term, quarter, or semester basis, it shall make that submission no later than 30 days after the beginning of the first term for which the school wants the exemption to apply. If the school is not organized on a term, quarter or semester basis, it shall make that submission no later than 30 days after the beginning of the first calendar quarter for which the school wishes the exemption to apply. A school having received an exemption found in paragraph (c)(4) of this section shall not be required to certify that 85 percent or less of the total student enrollment in any course is receiving Department of Veterans Affairs assistance:
-
-(Authority: 10 U.S.C. 16136(b); 38 U.S.C. 3034(a), 3241(a), 3323(a), 3680A(d))
+(f) *Reports.* (1) Schools must submit to VA all calculations (those needed to support the exemption found in paragraph (c)(4) of this section as well as those made under paragraph (e)(3) of this section). If the school is organized on a term, quarter, or semester basis, it shall make that submission no later than 30 days after the beginning of the first term for which the school wants the exemption to apply. If the school is organized on a non-standard term basis, it shall make its submission no later than 30 days after the beginning of the first non-standard term for which the school wishes the exemption to apply. A school having received an exemption found in paragraph (c)(4) of this section shall not be required to certify that 85 percent or less of the total student enrollment in any course is receiving Department of Veterans Affairs assistance:
 
 (i) Unless the Director of the VA facility of jurisdiction has reason to believe that the enrollment of eligible veterans and eligible persons in a specific course may exceed 85 percent of the total enrollment in a specific course, or
 
@@ -104,9 +88,7 @@ Link to an amendment published at 89 FR 2502, Jan. 16, 2024.
 
 (i) If the school is organized on a term, quarter or semester basis, the calculations must be submitted no later than 30 days after the beginning of each regular school term (excluding summer sessions), or before the beginning date of the next term, whichever occurs first.
 
-(ii) If a school is not organized on a term, quarter or semester basis, reports must be received by the Department of Veterans Affairs no later than 30 days after the end of each calendar quarter.
-
-(Authority: 10 U.S.C. 16136(b); 38 U.S.C. 3034(a), 3241(a), 3323(a), 3680A(d))
+(ii) If a school is organized on a non-standard term basis, reports must be received by the Department of Veterans Affairs no later than 30 days after the beginning of each non-standard term.
 
 (g) *Effect of the 85-15 percent ratio on processing new enrollments.* (1) The Department of Veterans Affairs will process new enrollments of eligible veterans (and servicepersons where this provision applies to them), in a course on the basis of the school's submission of the most recent computation showing that:
 
@@ -146,14 +128,12 @@ Link to an amendment published at 89 FR 2502, Jan. 16, 2024.
 
 (6) Once a student is properly enrolled in a course which either meets the 85-15 percent requirement or which is exempt pursuant to paragraph (c) of this section, such a student may not have benefits for that course terminated because the 85-15 percent requirement subsequently is not met or because the course loses its exemption, as long as the student's enrollment remains continuous. A student enrolled in an institution organized on a term basis need not attend summer sessions in order to maintain continuous enrollment. An enrollment may also be considered continuous if a “break” in enrollment is wholly due to circumstances beyond the student's control such as serious illness.
 
-(h) *Waivers.* Schools which desire a waiver of the provisions of paragraph (a) of this section for a course where the number of full-time equivalent students receiving VA education benefits equals or exceeds 85 percent of the total full-time equivalent enrollment in the course may apply for a waiver to the Director, Education Service, through the Director of the VA facility of jurisdiction. When applying, a school must submit sufficient information to allow the Director, Education Service, to judge the merits of the request against the criteria shown in this paragraph. This information and any other pertinent information available to VA shall be considered in relation to these criteria:
+(h) *Waivers.* Schools which desire a waiver of the provisions of paragraph (a) of this section for a course where the number of full-time equivalent supported students receiving VA education benefits equals or exceeds 85 percent of the total full-time equivalent enrollment in the course may apply for a waiver to the Director, Education Service. When applying, a school must submit sufficient information to allow the Director, Education Service, to judge the merits of the request against the criteria shown in this paragraph. This information and any other pertinent information available to VA shall be considered in relation to these criteria:
 
 (1) Availability of comparable alternative educational facilities effectively open to veterans in the vicinity of the school requesting a waiver.
 
-(2) Status of the school requesting a waiver as a developing institution primarily serving a disadvantaged population. The school should enclose a copy of its notice from the Department of Education that the school is eligible to be considered for a grant under the Strengthening Institutions Program or the Special Needs Program, if applicable. Otherwise the school should submit data sufficient to allow the Director, Education Service, to judge whether the school is similar to institutions which the Department of Education considers to be eligible to apply for a grant under these programs. The pertinent criteria and data categories are published in Title 34, Code of Federal Regulations, Chapter VI, part 624, subpart A; part 625, subpart A; and part 626, subpart A. The requirements of those criteria that a school be a “public or nonprofit” institution need not be met.
+(2) General effectiveness of the school's program in providing educational and employment opportunities to the particular veteran population it serves. Factors to be considered should include, but are not limited to: percentage of veteran-students completing the entire course, graduate employment statistics, graduate salary statistics, satisfaction of Department of Education requirements regarding gainful employment (where applicable), other Department of Education metrics (such as student loan default rate), student complaints, industry endorsements, participation in and compliance with the Principles of Excellence program, established by Executive Order 13607 (where applicable), etc.
 
-(3) Previous compliance history of the school, including such factors as false or deceptive advertising complaints, enrollment certification timeliness and accuracy, and amount of school liability indebtedness to VA.
+(3) Whether the educational institution's aid program appears to be consistent with or appears to undermine the 85/15 rule's tuition and fee costs market validation mechanism.
 
-(4) General effectiveness of the school's program in providing educational and employment opportunities to the particular veteran population it serves. Factors to be considered should include the percentage of veteran-students completing the entire course, ratio of educational and general expenditures to full-time equivalency enrollment, etc.
-
-(Authority: 10 U.S.C. 16136(b); 38 U.S.C. 3034(a), 3241(a), 3323(a), 3680A(d))[44 FR 62498, Oct. 31, 1979, as amended at 48 FR 37985, Aug. 22, 1983; 51 FR 16316, May 2, 1986; 52 FR 45634, Dec. 1, 1987; 54 FR 4285, Jan. 30, 1989; 54 FR 34984, Aug. 23, 1989; 55 FR 28027, July 9, 1990; 57 FR 29800, July 7, 1992; 61 FR 20728, May 8, 1996; 61 FR 26114, May 24, 1996; 61 FR 29296, June 10, 1996; 62 FR 55760, Oct. 28, 1997; 63 FR 34129, June 23, 1998; 74 FR 14667, Mar. 31, 2009; 74 FR 17907, Apr. 20, 2009]
+[44 FR 62498, Oct. 31, 1979, as amended at 48 FR 37985, Aug. 22, 1983; 51 FR 16316, May 2, 1986; 52 FR 45634, Dec. 1, 1987; 54 FR 4285, Jan. 30, 1989; 54 FR 34984, Aug. 23, 1989; 55 FR 28027, July 9, 1990; 57 FR 29800, July 7, 1992; 61 FR 20728, May 8, 1996; 61 FR 26114, May 24, 1996; 61 FR 29296, June 10, 1996; 62 FR 55760, Oct. 28, 1997; 63 FR 34129, June 23, 1998; 74 FR 14667, Mar. 31, 2009; 74 FR 17907, Apr. 20, 2009; 89 FR 2502, Jan. 16, 2024]

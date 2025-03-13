@@ -1,7 +1,5 @@
 ##### § 4.3 Communications providers covered by the requirements of this part. #####
 
-Link to an amendment published at 89 FR 2513, Jan. 16, 2024.
-
 (a) *Cable communications providers* are cable service providers that also provide circuit-switched telephony. Also included are affiliated and non-affiliated entities that maintain or provide communications networks or services used by the provider in offering telephony.
 
 (b) *Communications provider* is an entity that provides for a fee to one or more unaffiliated entities, by radio, wire, cable, satellite, and/or lightguide: two-way voice and/or data communications, paging service, and/or SS7 communications.
@@ -18,6 +16,8 @@ Link to an amendment published at 89 FR 2513, Jan. 16, 2024.
 
 (h) *Interconnected Voice over Internet Protocol (VoIP) providers* are providers of interconnected VoIP service. *See* § 9.3 of this chapter for the definition of interconnected VoIP service. Such providers may be facilities-based or non-facilities-based. Also included are affiliated and non-affiliated entities that maintain or provide communications networks or services used by the provider in offering such communications.
 
-(i) *Exclusion of equipment manufacturers or vendors.* Excluded from the requirements of this part 4 are those equipment manufacturers or vendors that do not maintain or provide communications networks or services used by communications providers in offering communications.
+(i) Excluded from the requirements of this part 4 are those equipment manufacturers or vendors that do not maintain or provide communications networks or services used by communications providers in offering communications.
 
-[69 FR 70338, Dec. 3, 2004, as amended at 77 FR 25097, Apr. 27, 2012; 83 FR 7401, Feb. 21, 2018]
+(j) *Covered 988 service providers* are providers that provide the 988 Suicide & Crisis Lifeline with capabilities such as the ability to receive, process, or forward calls. “Covered 988 service provider” shall not include any entity that constitutes a crisis center that participates in the 988 Lifeline, or any entity that offers the capability to originate 988 calls where another service provider delivers those calls to the appropriate crisis center.
+
+[69 FR 70338, Dec. 3, 2004, as amended at 77 FR 25097, Apr. 27, 2012; 83 FR 7401, Feb. 21, 2018; 89 FR 2513, Jan. 16, 2024]

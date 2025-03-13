@@ -1,6 +1,6 @@
 ##### § 73.3555 Multiple ownership. #####
 
-Link to an amendment published at 89 FR 7260, Feb. 1, 2024.
+Link to an amendment published at 89 FR 7260, Feb. 1, 2024.Link to an amendment published at 89 FR 12229, Feb. 15, 2024.
 
 (a)(1) *Local radio ownership rule.* A person or single entity (or entities under common control) may have a cognizable interest in licenses for AM or FM radio broadcast stations in accordance with the following limits:
 

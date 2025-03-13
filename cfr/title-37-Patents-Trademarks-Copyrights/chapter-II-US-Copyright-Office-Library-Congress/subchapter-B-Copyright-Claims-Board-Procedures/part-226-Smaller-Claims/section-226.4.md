@@ -1,8 +1,6 @@
 ##### § 226.4 Nature of a smaller claims proceeding. #####
 
-Link to an amendment published at 89 FR 2493, Jan. 16, 2024.
-
-(a) *Proceeding before a Copyright Claims Officer.* A smaller claims proceeding shall be heard by one Copyright Claims Officer (Officer). One of the three Officers shall hear smaller claims proceedings on a rotating basis at the Board's discretion.
+(a) *Proceeding before a Copyright Claims Officer.* Except as provided in § 222.13(e), a smaller claims proceeding shall be heard by not fewer than one Copyright Claims Officer (Officer). The Officers shall hear smaller claims proceedings on a rotating basis at the Board's discretion.
 
 (b) *Initial scheduling order.* Upon confirmation that a proceeding has become active and the claimant has paid the second payment of the filing fee set forth in 37 CFR 201.3(g), and after completion of the 14-day period specified in the Board's order pursuant to § 222.7 of this subchapter, the Board shall issue an initial scheduling order that shall include the dates or deadlines for filing of a response to the claim and any counterclaims by the respondent and an initial conference with the Officer presiding over the proceeding. The Board or presiding Officer may issue additional scheduling orders or amend the scheduling order at its own discretion or upon request of a party pursuant to § 222.11(d) of this subchapter.
 
@@ -18,9 +16,9 @@ Link to an amendment published at 89 FR 2493, Jan. 16, 2024.
 
 (ii) May submit a written statement that set forth its positions as to the claims, defenses, and any counterclaims, along with any damages sought and the types of damages sought. Such written statement shall follow the procedures set forth in § 220.5(b) of this subchapter and shall be limited to seven pages. No written responses shall be permitted; and
 
-(iii) May submit witness statements that comply with § 222.15(b)(2) of this subchapter. No later than seven days before the merits conference, an opposing party may request that the witness whose statement was submitted appear at the merits conference so that the party may ask the witness questions relating the witness's testimony. The failure of a witness to appear in response to such a request shall not preclude the presiding Officer from accepting the statement, but the presiding Officer may take the inability to question the witness into account when considering the weight of the witness's testimony.
+(iii) May submit witness statements that comply with § 222.15(b)(2) of this subchapter. No later than seven days before the merits conference, an opposing party may request that the witness whose statement was submitted appear at the merits conference so that the party may ask the witness questions relating to the witness's testimony. The failure of a witness to appear in response to such a request shall not preclude the presiding Officer from accepting the statement, but the presiding Officer may take the inability to question the witness into account when considering the weight of the witness's testimony.
 
-(3) *Failure to submit evidence.* If a party fails to submit evidence in accordance with the presiding Officer's request, or submits evidence that was not served on the other parties or provided by the other side, the presiding Officer may discuss such failure with the parties during the merits conference or may schedule a separate conference to discuss the missing evidence with the parties. The presiding Officer shall determine an appropriate remedy, if any, for the failure to submit evidence in accordance with the presiding Officer's request, including but not limited to drawing an adverse inference with respect to disputed facts, pursuant to 17 U.S.C. 1506(n)(3), if it would be in the interests of justice.
+(3) *Failure to submit evidence.* If a party fails to submit evidence in accordance with the presiding Officer's request or submits evidence that was not served on the other parties or provided by the other side, the presiding Officer may discuss this with the parties during the merits conference or may schedule a separate conference to discuss the missing evidence with the parties. The presiding Officer shall determine an appropriate remedy, if any, including but not limited to drawing an adverse inference with respect to disputed facts, pursuant to 17 U.S.C. 1506(n)(3), if it would be in the interests of justice.
 
 (4) *Conduct of merits conference.* During the merits conference, each party shall have an opportunity to address the materials submitted by any other party and to present their position on the claims, defenses, and any counterclaims, along with any damages sought, if any, to the presiding Officer. The presiding Officer may also ask questions to any party or any witness.
 
@@ -40,4 +38,4 @@ Link to an amendment published at 89 FR 2493, Jan. 16, 2024.
 
 (h) *No expert testimony.* Parties may not submit expert testimony for consideration. Any expert testimony submitted shall be disregarded by the assigned Officer.
 
-[87 FR 30085, May 17, 2022; 87 FR 36061, June 15, 2022]
+[87 FR 30085, May 17, 2022; 87 FR 36061, June 15, 2022; 89 FR 2492, Jan. 16, 2024]

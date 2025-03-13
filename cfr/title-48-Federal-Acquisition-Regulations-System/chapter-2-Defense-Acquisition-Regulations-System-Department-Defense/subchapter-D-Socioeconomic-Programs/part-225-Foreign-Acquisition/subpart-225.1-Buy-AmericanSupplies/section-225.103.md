@@ -26,7 +26,7 @@
 
 (b)(i) A determination that an article, material, or supply is not reasonably available is required when domestic offers are insufficient to meet the requirement and award is to be made on other than a qualifying country or eligible end product.
 
-(ii) Except as provided in FAR 25.103(b)(3), the determination shall be approved—
+(ii) A determination is not required before January 1, 2030, if there is an offer for a foreign end product that exceeds 55 percent domestic content. Except as provided in FAR 25.103(b)(3), the determination shall be approved—
 
 (A) At a level above the contracting officer for acquisitions valued at or below the simplified acquisition threshold;
 
@@ -42,6 +42,6 @@
 
 (iv) Under coordinated acquisition (see Subpart 208.70), the determination is the responsibility of the requiring department when the requiring department specifies acquisition of a foreign end product.
 
-(c) The cost of a domestic end product is unreasonable if it is not the low evaluated offer when evaluated under Subpart 225.5.
+(c) The cost of a domestic end product is unreasonable if it is not the low evaluated offer when evaluated under subpart 225.5.
 
-[68 FR 15618, Mar. 31, 2003, as amended at 70 FR 2362, Jan. 13, 2005; 73 FR 4113, Jan. 24, 2008; 75 FR 45074, Aug. 2, 2010; 77 FR 35880, June 15, 2012; 80 FR 15912, Mar. 26, 2015; 87 FR 76993, Dec. 16, 2022; 88 FR 73236, Oct. 25, 2023]
+[68 FR 15618, Mar. 31, 2003, as amended at 70 FR 2362, Jan. 13, 2005; 73 FR 4113, Jan. 24, 2008; 75 FR 45074, Aug. 2, 2010; 77 FR 35880, June 15, 2012; 80 FR 15912, Mar. 26, 2015; 87 FR 76993, Dec. 16, 2022; 88 FR 73236, Oct. 25, 2023; 89 FR 11954, Feb. 15, 2024]

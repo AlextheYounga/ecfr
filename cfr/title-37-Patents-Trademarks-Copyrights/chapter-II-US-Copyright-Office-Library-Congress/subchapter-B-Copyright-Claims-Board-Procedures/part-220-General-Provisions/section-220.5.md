@@ -1,7 +1,5 @@
 ##### § 220.5 Requests, responses, and written submissions. #####
 
-Link to an amendment published at 89 FR 2492, Jan. 16, 2024.
-
 (a) *Requests and responses submitted through fillable form.* Unless this subchapter provides otherwise or the Board orders otherwise, documents listed under this subsection shall be submitted through a fillable form on eCCB and shall comply with the following requirements:
 
 (1) *Tier one requests and responses.* Requests and responses to requests which are identified under this paragraph (a)(1) shall be filed through the fillable form on eCCB and be limited to 4,000 characters. Any party may submit a response to a request identified in this paragraph within seven days of the filing of the request. The Board may deny such a request before the time to submit a response expires, but the Board will not grant a request before the time to submit a response expires, unless the request is consented to by all parties. There shall be no replies from a party that submits a request, absent leave of the Board. Tier one requests and responses shall include:
@@ -42,9 +40,11 @@ Link to an amendment published at 89 FR 2492, Jan. 16, 2024.
 
 (xviii) Requests to designate an official reporter for a hearing and responses to such requests under § 229.1(d) of this subchapter;
 
-(xix) Requests to withdraw representation under § 232.5 of this subchapter; and
+(xix) Requests to withdraw representation under § 232.5 of this subchapter;
 
-(xx) Requests not otherwise covered under § 220.5(d).
+(xx) Requests by a claimant under § 226.2 of this subchapter to change its choice as to whether to have its claim considered under the smaller claims procedures or the standard Board procedures; and
+
+(xxi) Requests not otherwise covered under § 220.5(d).
 
 (2) *Tier two requests and responses.* Requests and responses to requests which are identified under this paragraph (a)(2) shall be filed through the fillable form on eCCB and be limited to 10,000 characters, not including any permitted attachments. Any party may file a response within 14 days of the filing of the request or the order to show cause. The Board may deny a request before the time to submit a response expires, but the Board will not grant a request before the time to submit a response expires, unless the request is consented to by all parties. There shall be no replies from a party that submits a request, absent leave of the Board. Tier two requests and responses shall include:
 
@@ -130,4 +130,4 @@ Link to an amendment published at 89 FR 2492, Jan. 16, 2024.
 
 (d) *Other requests and responses.* Any requests to the Board not specified in this part can be submitted by filing a request not otherwise covered under paragraph (a)(1) of this section. Depending on the nature of the request, the Board shall advise the parties whether the request is permitted and, if so, if and by when the response must be filed.
 
-[87 FR 30075, May 17, 2022; 87 FR 36060, June 15, 2022]
+[87 FR 30075, May 17, 2022; 87 FR 36060, June 15, 2022; 89 FR 2492, Jan. 16. 2024]

@@ -1,6 +1,4 @@
-##### § 4.5 Definitions of outage, special offices and facilities, and 911 special facilities. #####
-
-Link to an amendment published at 89 FR 2513, Jan. 16, 2024.
+##### § 4.5 Definitions of outage, special offices and facilities, 911 special facilities, and 988 special facilities. #####
 
 (a) *Outage* is defined as a significant degradation in the ability of an end user to establish and maintain a channel of communications as a result of failure or degradation in the performance of a communications provider's network.
 
@@ -30,4 +28,6 @@ Link to an amendment published at 89 FR 2513, Jan. 16, 2024.
 
 (4) There is a loss of ANI/ALI (associated name and location information) and/or a failure of location determination equipment, including Phase II equipment, for at least 30 minutes and potentially affecting at least 900,000 user-minutes (provided that the ANI/ALI or location determination equipment was then currently deployed and in use, and the failure is neither at the PSAP(s) or on the premises of the PSAP(s)).
 
-[69 FR 70338, Dec. 3, 2004, as amended at 81 FR 45067, July 12, 2016]
+(f) An outage that potentially affects a 988 special facility occurs whenever there is a loss of the ability of the 988 Suicide & Crisis Lifeline to receive, process, or forward calls, potentially affecting at least 900,000 user-minutes and lasting at least 30 minutes duration.
+
+[69 FR 70338, Dec. 3, 2004, as amended at 81 FR 45067, July 12, 2016; 89 FR 2513, Jan. 16, 2024]

@@ -1,7 +1,5 @@
 ##### § 11.1 Definitions. #####
 
-Link to an amendment published at 88 FR 78649, Nov. 16, 2023.
-
 This part governs solely the practice of patent, trademark, and other law before the United States Patent and Trademark Office. Nothing in this part shall be construed to preempt the authority of each State to regulate the practice of law, except to the extent necessary for the United States Patent and Trademark Office to accomplish its Federal objectives. Unless otherwise clear from the context, the following definitions apply to this part:
 
 *Attorney* or *lawyer* means an individual who is an active member in good standing of the bar of the highest court of any State. A *non-lawyer* means a person who is not an attorney or lawyer.

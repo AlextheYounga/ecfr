@@ -28,7 +28,7 @@
 
                                                                                                                 (ii) An end product manufactured in the United States if—
 
-                                                                                                                (A) The cost of its qualifying country components and its components that are mined, produced, or manufactured in the United States exceeds 55 percent of the cost of all its components. The cost of components includes transportation costs to the place of incorporation into the end product and U.S. duty (whether or not a duty-free entry certificate is issued). Components of unknown origin are treated as foreign. Scrap generated, collected, and prepared for processing in the United States is considered domestic. A component is considered to have been mined, produced, or manufactured in the United States (regardless of its source in fact) if the end product in which it is incorporated is manufactured in the United States and the component is of a class or kind for which the Government has determined that—
+                                                                                                                (A) The cost of its qualifying country components and its components that are mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029, unless an alternate percentage is established for a contract in accordance with FAR 25.101(d); or award is made before January 1, 2030, for a foreign end product that exceeds 55 percent domestic content (see 225.103(b)(ii)). The cost of components includes transportation costs to the place of incorporation into the end product and U.S. duty (whether or not a duty-free entry certificate is issued). Components of unknown origin are treated as foreign. Scrap generated, collected, and prepared for processing in the United States is considered domestic. A component is considered to have been mined, produced, or manufactured in the United States (regardless of its source in fact) if the end product in which it is incorporated is manufactured in the United States and the component is of a class or kind for which the Government has determined that—
 
                                                                                                                 (*1*) Sufficient and reasonably available commercial quantities of a satisfactory quality are not mined, produced, or manufactured in the United States; or
 
@@ -69,8 +69,9 @@
 (1) An unmanufactured end product mined or produced in a qualifying country; or
 
 (2) An end product manufactured in a qualifying country if—
+:
 
-(i) The cost of the following types of components exceeds 50 percent of the cost of all its components:
+(i) The cost of the following types of components exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029, unless an alternate percentage is established for a contract:
 
 (A) Components mined, produced, or manufactured in a qualifying country.
 
@@ -100,4 +101,4 @@
 
 *United States Munitions List* means the munitions list of the International Traffic in Arms Regulation in 22 CFR part 121.
 
-[68 FR 15618, Mar. 31, 2003, as amended at 69 FR 1927, Jan. 13, 2004; 70 FR 73153, Dec. 9, 2005; 73 FR 76971, Dec. 18, 2008; 74 FR 37651, July 29, 2009; 75 FR 34945, June 21, 2010; 75 FR 81916, Dec. 29, 2010; 77 FR 35880, June 15, 2012; 77 FR 38737, June 29, 2012; 77 FR 76942, Dec. 31, 2012; 81 FR 50651, Aug. 2, 2016; 81 FR 93840, Dec. 22, 2016; 82 FR 61484, Dec. 28, 2017; 83 FR 66071, Dec. 21, 2018; 87 FR 15816, Mar. 18, 2022; 87 FR 37443, June 23, 2022]
+[68 FR 15618, Mar. 31, 2003, as amended at 69 FR 1927, Jan. 13, 2004; 70 FR 73153, Dec. 9, 2005; 73 FR 76971, Dec. 18, 2008; 74 FR 37651, July 29, 2009; 75 FR 34945, June 21, 2010; 75 FR 81916, Dec. 29, 2010; 77 FR 35880, June 15, 2012; 77 FR 38737, June 29, 2012; 77 FR 76942, Dec. 31, 2012; 81 FR 50651, Aug. 2, 2016; 81 FR 93840, Dec. 22, 2016; 82 FR 61484, Dec. 28, 2017; 83 FR 66071, Dec. 21, 2018; 87 FR 15816, Mar. 18, 2022; 87 FR 37443, June 23, 2022; 89 FR 11954, Feb. 15, 2024]
