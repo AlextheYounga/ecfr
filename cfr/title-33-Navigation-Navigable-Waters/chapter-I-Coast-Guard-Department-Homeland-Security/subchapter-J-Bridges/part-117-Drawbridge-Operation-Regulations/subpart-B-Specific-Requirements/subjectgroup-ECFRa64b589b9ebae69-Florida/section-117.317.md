@@ -1,7 +1,5 @@
 ##### § 117.317 Okeechobee Waterway. #####
 
-Link to an amendment published at 89 FR 7622, Feb. 5, 2024.
-
 (a) *Exempt vessels.* This term means public vessels of the United States and tugs with tows.
 
 (b) *Evans Crary (SR A1A) bridge, mile 3.4 at Stuart.* The draw shall open on signal; except that from December 1 through May 1, from 7 a.m. to 6 p.m., Monday through Friday, except federal holidays, the draw need open only on the hour and half-hour. On Saturdays, Sundays, and federal holidays, December 1 through May 1, from 8 a.m. to 6 p.m., the draw need open only on the hour, 20 minutes after the hour, and 40 minutes after the hour. Exempt vessels shall be passed at any time.
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 7622, Feb. 5, 2024.
 
 (4) After the train has cleared, the draw opens and the lights return to flashing green.
 
-(d) *Roosevelt (US1) bridge, mile 7.4 at Stuart.* The draw shall open on signal; except Monday through Friday, except Federal holidays, from 7 a.m. to 6 p.m. the draw need open only on the hour and half hour. However, the draw need not open between 7:30 a.m. and 9 a.m. and 4 p.m. and 5:30 p.m. except at 8:15 a.m. and 4:45 p.m. On Saturdays, Sundays, and federal holidays from 8 a.m. to 6 p.m. the draw need open only on the hour, 20 minutes after the hour, and 40 minutes after the hour. When the adjacent railway bridge is in the closed position at the time of a scheduled opening the draw need not open, but it must then open immediately upon opening of the railroad bridge to pass all accumulated vessels. Exempt vessels shall be passed at any time.
+(d) The SR 707 (Dixie Highway) Bridge, mile 7.5 at Stuart, shall open on signal; except when the adjacent railroad bridge is in the closed position, the draw need not open. The draw must open immediately upon opening of the railroad bridge to pass all accumulated vessels requesting an opening.
 
 (e) *Seaboard System Railroad bridge, mile 28.2 at Indiantown.* The draw of the CSX Railroad Bridge, mile 28.2 at Indiantown, FL, shall operate as follows:
 

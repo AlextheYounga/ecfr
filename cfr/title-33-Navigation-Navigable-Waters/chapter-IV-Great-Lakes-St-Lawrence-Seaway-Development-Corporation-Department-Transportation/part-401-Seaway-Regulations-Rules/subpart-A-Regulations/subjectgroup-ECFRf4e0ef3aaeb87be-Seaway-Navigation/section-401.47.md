@@ -1,5 +1,7 @@
 ##### § 401.47 Leaving a lock. #####
 
+Link to an amendment published at 89 FR 15961, Mar. 6, 2024.
+
 (a) Mooring lines shall only be cast off as directed by the officer in charge of a mooring operation.
 
 (b) No vessel shall proceed out of a lock until the exit gates, ship arresters and the bridge, if any, are in a fully open position.

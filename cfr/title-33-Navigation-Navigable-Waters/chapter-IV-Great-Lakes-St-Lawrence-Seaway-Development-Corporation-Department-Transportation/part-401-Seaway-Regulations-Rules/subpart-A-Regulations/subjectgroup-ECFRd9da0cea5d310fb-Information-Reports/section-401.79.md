@@ -1,5 +1,7 @@
 ##### § 401.79 Advance notice of arrival, vessels requiring inspection. #####
 
+Link to an amendment published at 89 FR 15961, Mar. 6, 2024.
+
 (a) *Advance notice of arrival.* All foreign flagged vessels of 300 GRT or above intending to transit the Seaway shall submit a completed electronic Notice of Arrival (NOA) prior to entering at call in point 2 (CIP2) as follows:
 
 (1) If your voyage time to CIP 2 is 96 hours or more, you must submit an electronic NOA 96 hours before entering the Seaway at CIP 2.

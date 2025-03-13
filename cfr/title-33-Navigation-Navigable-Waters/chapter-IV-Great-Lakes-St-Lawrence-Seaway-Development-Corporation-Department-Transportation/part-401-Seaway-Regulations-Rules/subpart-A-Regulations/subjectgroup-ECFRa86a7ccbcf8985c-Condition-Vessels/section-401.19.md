@@ -1,5 +1,7 @@
 ##### § 401.19 Disposal and discharge systems. #####
 
+Link to an amendment published at 89 FR 15960, Mar. 6, 2024.
+
 (a) Every vessel not equipped with containers for ordure shall be equipped with a sewage disposal system enabling compliance with the Vessel Pollution and Dangerous Chemicals regulations (Canada), the U.S. Clean Water Act and the U.S. River and Harbor Act, and amendments thereto.
 
 (b) Garbage on a vessel shall be:

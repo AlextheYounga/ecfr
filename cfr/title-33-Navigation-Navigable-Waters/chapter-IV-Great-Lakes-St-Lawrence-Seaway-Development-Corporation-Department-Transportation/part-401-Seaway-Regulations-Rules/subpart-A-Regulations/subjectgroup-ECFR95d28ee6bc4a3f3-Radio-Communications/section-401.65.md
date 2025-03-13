@@ -1,5 +1,7 @@
 ##### § 401.65 Communication—ports, docks and anchorages. #####
 
+Link to an amendment published at 89 FR 15961, Mar. 6, 2024.
+
 (a) Every vessel entering or leaving a lake port shall report to the appropriate Seaway station at the following check points:
 
 (1) For the lake ports of Toronto and Hamilton, 1 nautical mile outside the harbor limits; and

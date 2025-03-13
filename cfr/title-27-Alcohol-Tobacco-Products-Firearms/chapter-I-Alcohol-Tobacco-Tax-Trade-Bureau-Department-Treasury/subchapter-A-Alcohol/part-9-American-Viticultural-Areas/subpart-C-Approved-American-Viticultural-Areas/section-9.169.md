@@ -1,7 +1,5 @@
 ##### § 9.169 Red Hills Lake County. #####
 
-Link to an amendment published at 89 FR 7620, Feb. 5, 2024.
-
 (a) *Name.* The name of the viticultural area described in this section is “Red Hills Lake County”.
 
 (b) *Approved Map.* The appropriate maps for determining the boundary of the Red Hills Lake County viticultural area are four 1:24,000 Scale U.S.G.S. topography maps. They are titled:
@@ -42,22 +40,54 @@ Link to an amendment published at 89 FR 7620, Feb. 5, 2024.
 
 (13) Proceed northerly and then westerly along the 2,800-foot contour line around Boggs Lake to the contour line's intersection with Harrington Flat Road, section 18, T12N, R8W (Kelseyville Quadrangle); then
 
-(14) Proceed about 0.4 miles northwesterly along Harrington Flat Road to its intersection with Bottle Rock Road, and continue north-northwesterly along Bottle Rock Road for about 4 miles to its intersection with Cole Creek Road to the west and an unimproved road to the east, section 25, T13N, R9W (Kelseyville Quadrangle); then
+(14) Proceed about 0.4 mile northwesterly along Harrington Flat Road to its intersection with Bottle Rock Road in section 18, T21N, R8W; then
 
-(15) Proceed east and then northeast approximately 0.4 mile along the unimproved road to the road's intersection with State Highway 29/175, then proceed east along State Highway 29/175 to the intersection of the highway with the 1,720-foot elevation line located just west of the 1,758-foot benchmark (BM) in section 25, T13N, R9W (Kelseyville Quadrangle); then
+(15) Proceed southerly along Bottle Rock Road approximately 2,500 feet to its intersection with an unnamed, unimproved dirt road near the marked 2,928-foot elevation; then
 
-(16) Proceed northwest along the 1,720-foot elevation line to the common boundary line between sections 25 and 26, T13N, R9W; then
+(16) Proceed west along the unimproved dirt road to its intersection with the 2,800-foot elevation contour; then
 
-(17) Proceed north along the common boundary line between sections 25 and 26, T13N, R9W, and then the common boundary line between sections 23 and 24, T13N, R9W, (partially concurrent with Wilkinson Road) to the intersection of the common section 23-24 boundary line with the 1,600-foot elevation line (Kelseyville Quadrangle); then
+(17) Proceed northwesterly, then northerly along the meandering 2,800-foot elevation contour to its intersection with the northern boundary of section 18, T12N, R8W; then
 
-(18) Proceed about 1.35 miles straight easterly to the 2,493 benchmark located along an unnamed light-duty road known locally as Konocti Road, section 19, T13N, R8W (Kelseyville Quadrangle); then
+(18) Proceed easterly along the northern boundary of section 18 to its intersection with Bottle Rock Road; then
 
-(19) Proceed less than 0.2 miles easterly and then northerly along the unnamed light-duty road to its intersection with the 2,600-foot elevation line, section 19, T13N, R8W (Kelseyville Quadrangle); then
+(19) Proceed north along Bottle Rock Road to its intersection with an unnamed trail in section 7, T12N, R8W; then
 
-(20) Proceed about 3.0 miles generally east along the 2,600-foot elevation line to its intersection, north of Bell Mine, with an unnamed intermittent stream near the section 20 east boundary line, T13N, R8W (Kelseyville Quadrangle); then
+(20) Proceed west in a straight line to the western boundary of section 7, T12N, R8W; then
 
-(21) Proceed about 1.2 miles in a straight east-northeasterly line to the intersection of Konocti Bay Road and Soda Bay Road, and continue due east to the shore of Clear Lake, section 22, T13N, R8W (Clearlake Highlands Quadrangle); then
+(21) Proceed north along the western boundary of section 7 to the southeastern corner of section 1, T12N, R9W; then
 
-(22) Proceed southeasterly along the shoreline of Clear Lake, returning to the point of beginning at the shoreline's intersection with the common boundary line between sections 3 and 4, T12N, R7W (Clearlake Highlands Quadrangle).
+(22) Proceed west along the southern boundary of section 1 to its intersection with the 2,600-foot elevation contour; then
 
-[T.D. TTB-15, 69 FR 41754, July 12, 2004; T.D. TTB-118, 78 FR 60688, Oct. 2, 2013]
+(23) Proceed north in a straight line to the intersection with an unnamed, unimproved dirt road known locally as Helen Road; then
+
+(24) Proceed west in a straight line to the fourth intersection with the 2,560-foot elevation contour in section 1, T12N, R9W; then
+
+(25) Proceed south in a straight line to the southern boundary of section 1; then
+
+(26) Proceed west along the southern boundary of section 1 to its intersection with the western boundary of section 1; then
+
+(27) Proceed north along the western boundary of section 1 to its intersection with the northern boundary of section 1; then
+
+(28) Proceed east along the northern boundary of section 1 to its intersection with the 2,000-foot elevation contour; then
+
+(29) Proceed southeasterly along the 2,000-foot elevation contour to its intersection with Bottle Rock Road; then
+
+(30) Proceed northwesterly along Bottle Rock Road to its intersection with Cole Creek Road to the west and an unnamed, unimproved road to the east in section 25, T13N, R9W; then
+
+(31) Proceed east and then northeast approximately 0.4 mile along the unimproved road to the road's intersection with State Highway 29/175, then proceed east along State Highway 29/175 to the intersection of the highway with the 1,720-foot elevation line located just west of the 1,758-foot benchmark (BM) in section 25, T13N, R9W (Kelseyville Quadrangle); then
+
+(32) Proceed northwest along the 1,720-foot elevation line to the common boundary line between sections 25 and 26, T13N, R9W; then
+
+(33) Proceed north along the common boundary line between sections 25 and 26, T13N, R9W, and then the common boundary line between sections 23 and 24, T13N, R9W, (partially concurrent with Wilkinson Road) to the intersection of the common section 23-24 boundary line with the 1,600-foot elevation line (Kelseyville Quadrangle); then
+
+(34) Proceed about 1.35 miles straight easterly to the 2,493 benchmark located along an unnamed light-duty road known locally as Konocti Road, section 19, T13N, R8W (Kelseyville Quadrangle); then
+
+(35) Proceed less than 0.2 miles easterly and then northerly along the unnamed light-duty road to its intersection with the 2,600-foot elevation line, section 19, T13N, R8W (Kelseyville Quadrangle); then
+
+(36) Proceed about 3.0 miles generally east along the 2,600-foot elevation line to its intersection, north of Bell Mine, with an unnamed intermittent stream near the section 20 east boundary line, T13N, R8W (Kelseyville Quadrangle); then
+
+(37) Proceed about 1.2 miles in a straight east-northeasterly line to the intersection of Konocti Bay Road and Soda Bay Road, and continue due east to the shore of Clear Lake, section 22, T13N, R8W (Clearlake Highlands Quadrangle); then
+
+(38) Proceed southeasterly along the shoreline of Clear Lake, returning to the point of beginning at the shoreline's intersection with the common boundary line between sections 3 and 4, T12N, R7W (Clearlake Highlands Quadrangle).
+
+[T.D. TTB-15, 69 FR 41754, July 12, 2004; T.D. TTB-118, 78 FR 60688, Oct. 2, 2013; T.D. TTB-190, 89 FR 7620, Feb. 5, 2024]

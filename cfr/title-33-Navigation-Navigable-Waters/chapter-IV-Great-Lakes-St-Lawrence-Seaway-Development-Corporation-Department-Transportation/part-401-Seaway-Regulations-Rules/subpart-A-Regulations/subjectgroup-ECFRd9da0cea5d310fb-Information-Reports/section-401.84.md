@@ -1,5 +1,7 @@
 ##### § 401.84 Reporting of impairment or other hazard by vessels transiting within the Seaway. #####
 
+Link to an amendment published at 89 FR 15962, Mar. 6, 2024.
+
 While transiting the Seaway, the master of a vessel shall immediately report to the nearest Seaway station:
 
 (a) Any condition of the vessel that might impair its ability to transit safely and expeditiously;

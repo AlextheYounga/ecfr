@@ -1,5 +1,7 @@
 ##### § 401.8 Landing booms. #####
 
+Link to an amendment published at 89 FR 15960, Mar. 6, 2024.
+
 (a) Vessels of more than 50 m in overall length and a freeboard of 2m or more shall either be equipped with landing booms or make provisions for tie-up service at the approach walls.
 
 (b) For vessels with landing booms:
