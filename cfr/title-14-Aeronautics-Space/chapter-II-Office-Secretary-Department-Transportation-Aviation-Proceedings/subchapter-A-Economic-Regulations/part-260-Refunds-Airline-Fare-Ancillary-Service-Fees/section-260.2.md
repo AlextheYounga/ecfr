@@ -30,13 +30,13 @@ As used in this part:
 
 *Merchant of record* means the entity (carrier or ticket agent) responsible for processing payments by consumers for airfare or ancillary services or products (including the transport of checked bags), as shown in the consumer's financial charge statements, such as debit or credit card charge statements.
 
-*Prompt refunds* means refunds made within 7 business days of a refund becoming due as required by 14 CFR 374.3 for credit card purchases and within 20 calendar days of a refund becoming due for cash, check, debit card, or other forms of purchases.
+*Prompt refund* means refunds made within 7 business days after the earliest date the refund was requested as set forth in § 260.6(a)(2) as required by 14 CFR 374.3 for credit card purchases and within 20 calendar days after the earliest date the refund was requested as set forth in § 260.6(a)(2) for cash, check, debit card, or other forms of purchases.
 
-*Significant change of flight itinerary* or *significantly changed flight* means a change to a covered flight itinerary made by a covered carrier where as the result of the change:
+*Significantly delayed or changed flight* means a covered flight itinerary with a delay or change made by a covered carrier where, as the result of the delay or change:
 
 (1) The consumer is scheduled to depart from the origination airport three hours or more for domestic itineraries and six hours or more for international itineraries earlier than the original scheduled departure time;
 
-(2) The consumer is scheduled to arrive at the destination airport three hours or more for domestic itineraries or six hours or more for international itineraries later than the original scheduled arrival time;
+(2) The consumer is scheduled to arrive at the destination airport three or more hours for domestic itineraries or six or more hours for international itineraries after the original scheduled arrival time;
 
 (3) The consumer is scheduled to depart from a different origination airport or arrive at a different destination airport;
 
@@ -49,3 +49,5 @@ As used in this part:
 (7) The consumer who is an individual with a disability is scheduled to travel on substitute aircraft on which one or more accessibility features needed by the customer are unavailable.
 
 *Significantly delayed checked bag* means a checked bag not delivered to or picked up by the consumer or another person authorized to act on behalf of the consumer within 12 hours of the last flight segment's arrival for domestic itineraries, within 15 hours of the last flight segment's arrival for international itineraries with a non-stop flight segment between the United States and a foreign point that is 12 hours or less in duration, and within 30 hours of the last flight segment's arrival for international itineraries with a non-stop flight segment between the United States and a foreign point that is more than 12 hours in duration. The 15-hour and 30-hour standards apply to domestic segments of international itineraries.
+
+[DOT-OST-2022-0089 and DOT-OST-2016-0208, 89 FR 32832, Apr. 26, 2024, as amended by DOT-OST-2022-0089, 89 FR 65536, Aug. 12, 2024]

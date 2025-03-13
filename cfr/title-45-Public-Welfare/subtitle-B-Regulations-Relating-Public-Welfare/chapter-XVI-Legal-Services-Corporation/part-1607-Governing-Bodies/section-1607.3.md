@@ -1,5 +1,7 @@
 ##### § 1607.3 Composition. #####
 
+Link to an amendment published at 89 FR 65551, Aug. 12, 2024.
+
 (a) A recipient shall be incorporated in a State in which it provides legal assistance and shall have a governing body which reasonably reflects the interests of the eligible clients in the area served and which consists of members, each of whom is supportive of the purposes of the Act and has an interest in, and knowledge of, the delivery of quality legal services to the poor.
 
 (b) At least sixty percent (60%) of a governing body shall be attorney members.

@@ -1,0 +1,3 @@
+##### § 661.43 Can other sources of funds be used to finance a queued project in advance of receipt of TTFBP funds? #####
+
+Yes. A Tribe can use other sources of funds, including TTP construction funds, on a project that has been approved for funding and placed on the queue and then be reimbursed when TTFBP funds become available. If TTP construction funds are used for this purpose, the funds must be identified on an FHWA approved TTP TIP prior to their expenditure.

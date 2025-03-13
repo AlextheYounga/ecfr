@@ -1,0 +1,3 @@
+##### § 661.47 Can routine bridge maintenance be performed with TTFBP funds? #####
+
+No. Routine bridge maintenance repairs, *e.g.,* guard rail repair, repair of traffic control devices, striping, cleaning scuppers, deck sweeping, snow and debris removal, etc., are not eligible uses of TTFBP funding. The U.S. Department of the Interior's annual allocation for maintenance as well as TTP construction funds are eligible funding sources for routine bridge maintenance.

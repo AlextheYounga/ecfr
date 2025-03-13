@@ -1,0 +1,3 @@
+##### § 661.45 What happens when TTFBP funds cannot be obligated by the end of the fiscal year? #####
+
+The TTFBP funds from the Highway Trust Fund (HTF) provided to a project that cannot be obligated by the end of the fiscal year are to be returned to FHWA during August redistribution. The returned funds will be re-allocated to the BIA the following fiscal year after FHWA receives and accepts a formal request for the funds from BIA, which includes a justification for the amounts requested and the reason for the failure of the prior year obligation.

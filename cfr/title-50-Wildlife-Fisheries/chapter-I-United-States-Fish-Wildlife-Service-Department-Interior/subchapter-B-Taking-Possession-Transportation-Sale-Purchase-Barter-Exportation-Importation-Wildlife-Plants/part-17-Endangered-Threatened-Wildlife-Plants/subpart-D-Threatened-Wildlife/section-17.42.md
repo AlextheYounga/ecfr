@@ -1,7 +1,5 @@
 ##### § 17.42 Species-specific rules—reptiles. #####
 
-Link to an amendment published at 89 FR 57236, July 12, 2024.Link to an amendment published at 89 FR 65225, Aug. 9, 2024.
-
 (a) American alligator (*Alligator mississippiensis*)—(1) *Definitions.* For purposes of this paragraph (a) the following definitions apply:
 
 (i) *American alligator* means any specimen of the species *Alligator mississippiensis*, whether alive or dead, including any skin, part, product, egg, or offspring thereof held in captivity or from the wild.
@@ -270,4 +268,52 @@ Link to an amendment published at 89 FR 57236, July 12, 2024.Link to an amendmen
 
 (v) Conduct activities as authorized by a captive-bred wildlife registration under § 17.21(g) for endangered wildlife.
 
-[42 FR 2076, Jan. 10, 1977, as amended at 43 FR 32809, July 28, 1978; 44 FR 59084, Oct. 12, 1979; 45 FR 17589, Mar. 19, 1980; 45 FR 78154, Nov. 25, 1980; 48 FR 46336, Oct. 12, 1983; 50 FR 25678, June 20, 1985; 50 FR 45409, Oct. 31, 1985; 52 FR 21063, June 4, 1987; 52 FR 42662, Nov. 6, 1987; 55 FR 12191, Apr. 2, 1990; 61 FR 32366, June 24, 1996; 62 FR 59622, Nov. 4, 1997; 65 FR 25879, May 4, 2000; 72 FR 48446, Aug. 23, 2007; 78 FR 38190, June 25, 2013; 79 FR 38746, July 8, 2014; 80 FR 60489, Oct. 6, 2015; 85 FR 11306, Feb. 27, 2020; 86 FR 57376, Oct. 15, 2021; 88 FR 19017, Mar. 30, 2023; 89 FR 23940, Apr. 5, 2024; 89 FR 53528, June 27, 2024]
+(m) Pearl River map turtle (*Graptemys pearlensis*).
+
+(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Pearl River map turtle. Except as provided under paragraphs (m)(2) and (3) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of a commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *General exceptions from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) and (4) for endangered wildlife.
+
+(iii) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+(iv) Take as set forth at § 17.31(b).
+
+(3) *Exceptions from prohibitions for specific types of incidental take.* You may take this species incidental to an otherwise lawful activity caused by silvicultural practices and forest management activities that use State-approved best management practices designed to protect water quality and stream and riparian habitat.
+
+(n) Alabama map turtle (*Graptemys pulchra*), Barbour's map turtle (*Graptemys barbouri*), Escambia map turtle (*Graptemys ernsti*), and Pascagoula map turtle (*Graptemys gibbonsi*).
+
+(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Alabama map turtle, Barbour's map turtle, Escambia map turtle, and Pascagoula map turtle. Except as provided under paragraph (n)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to these species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Intentional take in the form of collect, capture, or trap (other than for scientific purposes).
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of a commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *General exception*s *from prohibitions.* In regard to these species, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take as set forth at § 17.31(b).
+
+(iii) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+[42 FR 2076, Jan. 10, 1977, as amended at 43 FR 32809, July 28, 1978; 44 FR 59084, Oct. 12, 1979; 45 FR 17589, Mar. 19, 1980; 45 FR 78154, Nov. 25, 1980; 48 FR 46336, Oct. 12, 1983; 50 FR 25678, June 20, 1985; 50 FR 45409, Oct. 31, 1985; 52 FR 21063, June 4, 1987; 52 FR 42662, Nov. 6, 1987; 55 FR 12191, Apr. 2, 1990; 61 FR 32366, June 24, 1996; 62 FR 59622, Nov. 4, 1997; 65 FR 25879, May 4, 2000; 72 FR 48446, Aug. 23, 2007; 78 FR 38190, June 25, 2013; 79 FR 38746, July 8, 2014; 80 FR 60489, Oct. 6, 2015; 85 FR 11306, Feb. 27, 2020; 86 FR 57376, Oct. 15, 2021; 88 FR 19017, Mar. 30, 2023; 89 FR 23940, Apr. 5, 2024; 89 FR 53528, June 27, 2024; 89 FR 57236, July 12, 2024; 89 FR 65225, Aug. 9, 2024]
