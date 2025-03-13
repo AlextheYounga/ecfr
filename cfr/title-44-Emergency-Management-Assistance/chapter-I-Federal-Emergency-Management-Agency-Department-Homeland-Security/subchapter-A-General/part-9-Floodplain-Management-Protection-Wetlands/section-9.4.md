@@ -4,7 +4,7 @@ The following definitions shall apply throughout this regulation.
 
 *0.2 percent annual chance flood elevation* means the elevation to which floodwater is anticipated to rise during the 0.2 percent annual chance flood (also known as the 500-year flood).
 
-*0.2 Percent annual chance floodplain* means the area subject to flooding by the 0.2 percent annual chance flood (also known as the 500-year floodplain).
+*0.2 percent annual chance floodplain* means the area subject to flooding by the 0.2 percent annual chance flood (also known as the 500-year floodplain).
 
 *1 percent annual chance flood elevation*—see the definition of *base flood elevation* in this section.
 
@@ -128,4 +128,4 @@ The following definitions shall apply throughout this regulation.
 
 *Wetlands* means those areas which are inundated or saturated by surface or ground water with a frequency sufficient to support, or that under normal hydrologic conditions does or would support, a prevalence of vegetation or aquatic life typically adapted for life in saturated or seasonally saturated soil conditions, including wetlands areas separated from their natural supply of water as a result of construction activities such as structural flood protection methods or solid-fill road beds, and activities such as mineral extraction and navigation improvements. Examples of wetlands include, but are not limited to, swamps, fresh and salt water marshes, estuaries, bogs, beaches, wet meadows, sloughs, potholes, mud flats, river overflows, and other similar areas. This definition is intended to be consistent with the definition utilized by the U.S. Fish and Wildlife Service.
 
-[45 FR 59526, Sept. 9, 1980, as amended at 47 FR 13149, Mar. 29, 1982; 50 FR 40006, Oct. 1, 1985; 74 FR 15335, Apr. 3, 2009; 89 FR 57038, July 11, 2024]
+[45 FR 59526, Sept. 9, 1980, as amended at 47 FR 13149, Mar. 29, 1982; 50 FR 40006, Oct. 1, 1985; 74 FR 15335, Apr. 3, 2009; 89 FR 57038, July 11, 2024; 89 FR 82182, Oct. 10, 2024]

@@ -10,9 +10,7 @@
 
 (i) For purposes of chapter 1 of the Code, the earnings and profits of the transferee foreign corporation shall be reduced by the amount of such deemed payment; and
 
-(ii) For purposes of subpart F of part III of subchapter N of the Code, the transferee foreign corporation may treat such deemed payment as an expense (whether or not that amount is actually paid), properly allocated and apportioned to gross income subject to subpart F, in accordance with the provisions of §§ 1.954-1(c) and 1.861-8.
-
-No other special adjustments to earning the profits, basis, or gross income shall be permitted by reason of the recognition of a deemed payment under this paragraph (c). However, see paragraph (g)(1) of this section for rules permitting the establishment of an account receivable with respect to deemed payments not actually received by the U.S. person.
+(ii) For further guidance, *see* § 1.367(d)-1(c)(2)(ii).
 
 (3) [Reserved]
 
@@ -44,7 +42,7 @@ No other special adjustments to earning the profits, basis, or gross income shal
 
 (i) For purposes of chapter 1 of the Code, the earnings and profits of the transferee foreign corporation shall be reduced by the amount of any payment deemed to be received by a related U.S. person under paragraph (e)(1)(ii) of this section;
 
-(ii) For purposes of subpart F of part III of subchapter N of the Code, the transferee foreign corporation may allocate and apportion such deemed payments (whether or not such payments are actually made to gross income subject to subpart F to the extent appropriate under the provisions of §§ 1.954-1(c) and 1.861-8;
+(ii) For further guidance, *see* § 1.367(d)-1(e)(2)(ii);
 
 (iii) For purposes of reapplying the rules of paragraph (d) and (e) of this section, if the related U.S. person is deemed to have received a right to contingent annual payments for the use of intangible property, then the U.S. related person shall be deemed to have held a proportionate share of the property with a basis equal to a proportionate share of the U.S. transferor's adjusted basis plus the gain, if any, recognized by the U.S. transferor on the earlier transfer of the stock to the U.S. related person, and then to have transferred that proportionate share of the property to the foreign corporation in a transfer subject to section 367(d); and
 
@@ -64,13 +62,9 @@ No other special adjustments to earning the profits, basis, or gross income shal
 
 (ii) The U.S. transferor shall be required to recognize a deemed payment under paragraph (c) of this section for that part of its taxable year that the intangible property was held by the transferee foreign corporation and thereafter shall not be required to recognize any further deemed payments under paragraph (c) or (e)(1) of this section with respect to the transferred intangible property disposed of by the transferee foreign corporation.
 
-(2) *Required adjustments.* If a U.S. transferor is required to recognize gain under paragraph (f)(1) of this section, then—
+(2) *Required adjustments.* For further guidance, *see* § 1.367(d)-1(f)(2) through (6).
 
-(i) For purposes of chapter 1 of the Code, the earnings and profits of the transferee foreign corporation shall be reduced by the amount of gain required to be recognized; and
-
-(ii) The U.S. transferor's recognition of gain will permit the establishment of an account receivable from the transferee foreign corporation, in accordance with paragraph (g)(1) of this section.
-
-(3) *Subsequent transfer of intangible property to related person.* The requirement that a U.S. person recognize gain under paragraph (c) or (e) of this section shall not be affected by the transferee foreign corporation's subsequent disposition of the transferred intangible property to a related person. For purposes of any required adjustments, and of any accounts receivable created under paragraph (g)(1) of this section, the related person that receives the intangible property shall be treated as the transferee foreign corporation.
+(3)-(6) [Reserved]
 
 (g) *Special rules*—(1) *Establishment of accounts receivable*—(i) *In general.* If a U.S. person is required to recognize income under the provisions of paragraph (c), (e), or (f) of this section, and the amount deemed to be received is not actually paid by the transferee foreign corporation, then the U.S. person may establish an account receivable from the transferee foreign corporation equal to the amount deemed paid that was not actually paid. A separate account receivable must be established for each taxable year in which payments deemed to be received are not actually made. Payments received from the transferee foreign corporation must be designated as payments upon a particular account and must be deducted from that account. Accounts receivable under this paragraph (g)(1) may be established and paid without further U.S. income tax consequences to the U.S. transferor or the transferee foreign corporation. No interest shall be paid or accrued on an account receivable created under this paragraph (g)(1), nor shall any bad debt deduction be allowed under section 166 with respect to any failure to receive payment on an account.
 
@@ -96,7 +90,7 @@ No other special adjustments to earning the profits, basis, or gross income shal
 
 (E) [Reserved]
 
-A person that makes the election under this paragraph (g)(2) shall not be subject to the provisions of paragraphs (c) through (f) of this section. Such person shall instead recognize in the year of the transfer ordinary income from sources within the United States in an amount equal to the difference between the fair market value of the intangible property transferred and its adjusted basis. A U.S. person shall make an election under this paragraph (g)(2) by notifying the Internal Revenue Service of the election in accordance with the requirements of section 6038B and regulations thereunder, and subsequently including the appropriate amounts in gross income in a timely filed tax return for the year of the transfer.
+(F) A person that makes the election under this paragraph (g)(2) shall not be subject to the provisions of paragraphs (c) through (f) of this section. Such person shall instead recognize in the year of the transfer ordinary income from sources within the United States in an amount equal to the difference between the fair market value of the intangible property transferred and its adjusted basis. A U.S. person shall make an election under this paragraph (g)(2) by notifying the Internal Revenue Service of the election in accordance with the requirements of section 6038B and regulations thereunder, and subsequently including the appropriate amounts in gross income in a timely filed tax return for the year of the transfer.
 
 (3) [Reserved]
 
@@ -128,8 +122,8 @@ then solely for purposes of section 367(d) that U.S. person shall be treated as 
 
 (i) “10 percent or more” shall be substituted for “more than 50 percent” each place it appears; and
 
-(ii) Section 1563 shall apply (for purposes of section 267(d)), without regard to section 1563(b)(2).
+(ii) For further guidance, *see* § 1.367(d)-1(h)(2)(ii).
 
 (i) *Effective date.* Except as specifically provided to the contrary elsewhere in this section, this section applies to transfers occurring after December 31, 1984.
 
-[T.D. 8087, 51 FR 17953, May 16, 1986, as amended by T.D. 8770, 63 FR 33568, June 19, 1998; T.D. 9803, 81 FR 91030, Dec. 16, 2016]
+[T.D. 8087, 51 FR 17953, May 16, 1986, as amended by T.D. 8770, 63 FR 33568, June 19, 1998; T.D. 9803, 81 FR 91030, Dec. 16, 2016; T.D. 9994, 89 FR 82169, Oct. 10, 2024]

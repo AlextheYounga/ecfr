@@ -1,5 +1,7 @@
 ##### § 38.629 Outer Burial Receptacle Allowance. #####
 
+Link to an amendment published at 89 FR 82181, Oct. 10, 2024.
+
 (a) *Definitions*—*Outer burial receptacle.* For purposes of this section, an outer burial receptacle means a graveliner, burial vault, or other similar type of container for a casket.
 
 (b) *Purpose.* This section provides for payment of a monetary allowance for an outer burial receptacle for any interment in a VA national cemetery where a privately-purchased outer burial receptacle has been used in lieu of a Government-furnished graveliner.

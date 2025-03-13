@@ -1,5 +1,7 @@
 ##### § 39.50 Amount of grant. #####
 
+Link to an amendment published at 89 FR 82182, Oct. 10, 2024.
+
 (a) The amount of an Establishment, Expansion, and Improvement Project grant awarded under this subpart may not exceed 100 percent of the total cost of the project, but may be less than the total cost of the project.
 
 (b) The total cost of a project under this subpart may include:

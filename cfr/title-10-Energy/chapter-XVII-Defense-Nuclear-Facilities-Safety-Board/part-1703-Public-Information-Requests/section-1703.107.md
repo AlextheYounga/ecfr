@@ -1,7 +1,5 @@
 ##### § 1703.107 Fees for record requests. #####
 
-Link to an amendment published at 89 FR 73260, Sept. 10, 2024.
-
 (a) Fees for records available through the Public Reading Room.
 
 (1) With the exception of copies of transcripts of Board public hearings addressed in paragraph (a)(2) of this section, the fees charged shall be limited to costs of duplication of the requested records. The Board shall either duplicate the requested records or have them duplicated by a commercial contractor. If the Board duplicates the records, it shall not charge the requester for the associated labor costs. A schedule of fees for this duplication service shall be prescribed in accordance with paragraph (b)(6) of this section. A person may obtain a copy of the schedule of fees in person or by mail from the Public Reading Room. There shall be no charge for responses consisting of ten or fewer pages.
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 73260, Sept. 10, 2024.
 
 *Commercial use* request means a request from or on behalf of one who seeks information for a use or purpose that furthers commercial, trade, or profit interests as these phrases are commonly known or have been interpreted by the courts in the context of the FOIA;
 
-*Direct costs* means those expenditures which the Board incurs in search, review and duplication, as applicable to different categories of requesters, to respond to requests under § 1703.105. Direct costs include, for example, the average hourly salary and projected benefits costs of Board employees applied to time spent in responding to the request and the cost of operating duplicating machinery. Not included in direct costs are overhead expenses such as cost of space, and heating or lighting the facility in which the Board records are stored.
+*Direct costs* mean those expenditures which DNFSB incurs in search, review, and duplication, as applicable to different categories of requesters, to respond to requests under § 1703.105. Direct costs include, for example, the hourly salary and projected benefits costs of agency personnel who search for, review, or duplicate records in response to a request. Overhead expenses such as cost of space, and heating or lighting the facility in which DNFSB records are stored are not included in direct costs.
 
 *Educational institution* refers to a preschool, a public or private elementary or secondary school, an institution of graduate higher education, an institution of undergraduate higher education, an institution of professional education, and an institution of vocational education, which operates a program of scholarly research;
 
@@ -24,11 +22,11 @@ Link to an amendment published at 89 FR 73260, Sept. 10, 2024.
 
 *Representative of the news media* refers to any person actively gathering news for an entity that is organized and operated to publish or broadcast news to the public. The term *news* means information that is about current events or that would be of current interest to the public. Examples of news media entities include television or radio stations broadcasting to the public at large, and publishers of periodicals (but only in those instances when the periodicals can qualify as disseminations of “news”) who make their products available for purchase or subscription by the general public. These examples are not intended to be all-inclusive. Moreover, as traditional methods of news delivery evolve (e.g., electronic dissemination of newspapers through telecommunications services), such alternative media may be included in this category. A “freelance” journalist may be regarded as working for a news organization if the journalist can demonstrate a solid basis for expecting publication through that organization, even though the journalist is not actually employed by the news organization. A publication contract would be the clearest proof, but the Board may also look to the past publication record of a requester in making this determination.
 
-(2) *Fees.* (i) If documents are requested for commercial use, the Board shall charge the average hourly pay rate for Board employees, plus the average hourly projected benefits cost, for document search time and for document review time, and the costs of duplication as established in the schedule of fees referenced in paragraph (b)(6) of this section.
+(2) *Fees.*(i) If documents are requested for commercial use, DNFSB shall charge the hourly salary and projected benefits costs of agency personnel who search for and review records in response to a request, and for the costs of duplication as set out in subsection (b)(6) of this section.
 
-(ii) If documents are not sought for commercial use and the request is made by an educational or noncommercial scientific institution, whose purpose is scholarly or scientific research, or a representative of the news media, the Board's charges shall be limited to the direct costs of duplication as established in the schedule of fees referenced in paragraph (b)(6) of this section. There shall be no charge for the first 100 pages of duplication.
+(ii) If documents are not sought for commercial use and the request is made by an educational or noncommercial scientific institution, whose purpose is scholarly or scientific research, or a representative of the news media, DNFSB's charges shall be limited to the direct costs of duplication as set out in subsection (b)(6) of this section. There shall be no charge for the first 100 pages of duplication.
 
-(iii) For a request not described in paragraphs (b)(2) (i) or (ii) of this section the Board shall charge the average hourly pay rate for Board employees, plus the average hourly projected benefits cost, for document search time, and the direct costs of duplication as established in the schedule of fees referenced in paragraph (b)(6) of this section. There shall be no charge for document review time and the first 100 pages of reproduction and the first two hours of search time will be furnished without charge.
+(iii) For a request not described in paragraphs (b)(2) (i) or (ii) of this section, DNFSB shall charge the hourly salary and projected benefits costs of the agency's personnel who search for records in response to a request and the direct costs of duplication as set out in subsection (b)(6) of this section. There shall be no charge for document review time, and the first 100 pages of reproduction and the first two hours of search time will be provided without charge.
 
 (iv) The Board will not assess any fees if it has failed to meet its deadlines in § 1703.108.
 
@@ -50,8 +48,24 @@ Link to an amendment published at 89 FR 73260, Sept. 10, 2024.
 
 (5) *Debt collection.* The Board itself may endeavor to collect unpaid FOIA fees, or may refer unpaid FOIA invoices to the General Services Administration, or other federal agency performing financial management services for the Board, for collection.
 
-(6) *Annual adjustment of fees*—(i) *Update and publication.* The Board, by its designee, the General Manager, shall promulgate a schedule of fees and the average hourly pay rates and average hourly projected benefits cost and will update that schedule once every twelve months. The General Manager shall publish the schedule for public comment in the Federal Register.
+(6) *Schedule of Fees.* To the extent authorized by these regulations, DNFSB is authorized to seek the following fees to recover costs incurred in responding to FOIA requests:
 
-(ii) *Payment of updated fees.* The fee applicable to a particular FOIA request will be the fee in effect on the date that the request is received.
+(i) *Document search charges*—(A) *Manual:* Salary rate(s) (basic hourly pay plus 16%) of personnel performing records search or review.
 
-[56 FR 21261, May 8, 1991, as amended at 62 FR 66816, Dec. 22, 1997; 82 FR 30723, July 3, 2017]
+(B) *Electronic:* Salary rate(s) (basic hourly pay plus 16%) of personnel performing search or review.
+
+(C) *Document Review Charges:* Salary rate(s) (basic hourly pay plus 16%) of personnel performing search or review.
+
+(iii) *Commercial requests.* DNFSB will charge requesters who seek records for commercial purposes for the cost of reviewing them to determine whether they are exempt from mandatory disclosure. The agency will assess these charges only when the records are first analyzed to determine the applicability of a specific exemption to a record or portion thereof. DNFSB will not charge for the review of an exemption previously applied at the administrative review level. If a record or portion thereof was withheld in full under an exemption that is subsequently found inapplicable, it may be reviewed again to determine the applicability of other exemptions not previously considered. DNFSB may charge for the cost of such review.
+
+(iv) *Copying charges.* (*1*) *Paper:* $.05 per page, if done in-house, or generally available commercial rate, approximately $0.10 per page.
+
+(*2*) *Electronic media:* Direct cost, including operator time (basic hourly pay plus 16%).
+
+(*3*) *Audio and video cassette:* Actual commercial rates.
+
+(*4*) *Duplication of CD or DVD:* Direct cost, including operator time (basic hourly pay plus 16%).
+
+(*5*) *Large documents, e.g., maps or diagrams:* Actual commercial rates.
+
+[56 FR 21261, May 8, 1991, as amended at 62 FR 66816, Dec. 22, 1997; 82 FR 30723, July 3, 2017; 89 FR 73260, Sept. 10, 2024]

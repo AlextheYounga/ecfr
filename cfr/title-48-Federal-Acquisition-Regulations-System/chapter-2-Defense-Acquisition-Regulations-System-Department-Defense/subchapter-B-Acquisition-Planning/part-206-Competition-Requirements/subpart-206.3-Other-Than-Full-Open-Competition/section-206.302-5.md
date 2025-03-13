@@ -1,5 +1,7 @@
 ##### 206.302-5 Authorized or required by statute. #####
 
+Link to an amendment published at 89 FR 82185, Oct. 10, 2024.
+
 (b) *Application.* Agencies may use this authority to—
 
 (i) Acquire supplies and services from military exchange stores outside the United States for use by the armed forces outside the United States in accordance with 10 U.S.C. 2424(a) and subject to the limitations of 10 U.S.C. 2424(b). The limitations of 10 U.S.C. 2424(b) (1) and (2) do not apply to the purchase of soft drinks that are manufactured in the United States. For the purposes of 10 U.S.C. 2424, soft drinks manufactured in the United States are brand name carbonated sodas, manufactured in the United States, as evidenced by product markings.

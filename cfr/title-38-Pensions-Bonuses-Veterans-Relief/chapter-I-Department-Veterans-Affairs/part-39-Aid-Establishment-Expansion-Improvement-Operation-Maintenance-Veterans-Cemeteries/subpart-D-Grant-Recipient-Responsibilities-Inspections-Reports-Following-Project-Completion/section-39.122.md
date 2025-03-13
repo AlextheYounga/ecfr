@@ -1,5 +1,7 @@
 ##### § 39.122 Inspections, audits, and reports. #####
 
+Link to an amendment published at 89 FR 82182, Oct. 10, 2024.
+
 (a) A State or Tribal Organization will allow VA inspectors and auditors to conduct inspections as necessary to ensure compliance with the provisions of this part. The State or Tribal Organization will provide to VA evidence that it has met its responsibility under the Single Audit Act of 1984.
 
 (b) A State or Tribal Organization will make an annual report on VA Form 40-0241 (State Cemetery Data) signed by the authorized representative of the State or Tribal Organization. These forms document current burial activity at the cemetery, use of gravesites, remaining gravesites, and additional operational information intended to answer questions about the status of the grant program.

@@ -38,9 +38,9 @@ Example.Domestic corporation DC transfers inventory with a fair market value of 
 
 (4) *Property.* For purposes of section 367 and the regulations thereunder, the term “property” means any item that constitutes property for purposes of section 351, 354, 355, 356, or 361, as applicable.
 
-(5) *Intangible property.* The term “intangible property” means either property described in section 936(h)(3)(B) or property to which a U.S. person applies section 367(d) pursuant to paragraph (b)(5) of this section, but does not include property described in section 1221(a)(3) or a working interest in oil and gas property.
+(5) *Intangible property.* The term “intangible property” means either property described in section 367(d)(4) or property to which a U.S. person applies section 367(d) pursuant to paragraph (b)(5) of this section, but does not include property described in section 1221(a)(3) or a working interest in oil and gas property.
 
-(6) *Operating intangibles.* An operating intangible is any property described in section 936(h)(3)(B) of a type not ordinarily licensed or otherwise transferred in transactions between unrelated parties for consideration contingent upon the licensee's or transferee's use of the property. Examples of operating intangibles may include long-term purchase or supply contracts, surveys, studies, and customer lists.
+(6) *Operating intangibles.* An operating intangible is any property described in section 367(d)(4) of a type not ordinarily licensed or otherwise transferred in transactions between unrelated parties for consideration contingent upon the licensee's or transferee's use of the property. Examples of operating intangibles may include long-term purchase or supply contracts, surveys, studies, and customer lists.
 
 (e) *Close of taxable year in certain section 368(a)(1)(F) reorganizations.* If a domestic corporation is the transferor corporation in a reorganization described in section 368(a)(1)(F) after March 30, 1987, in which the acquiring corporation is a foreign corporation, then the taxable year of the transferor corporation shall end with the close of the date of the transfer and the taxable year of the acquiring corporation shall end with the close of the date on which the transferor's taxable year would have ended but for the occurrence of the transfer. With regard to the consequences of the closing of the taxable year, see section 381 and the regulations thereunder.
 
@@ -60,4 +60,4 @@ Example.Domestic corporation DC transfers inventory with a fair market value of 
 
 (5) Paragraphs (a), (b)(1) through (b)(4)(i)(B), (b)(4)(ii) through (b)(5), (c)(3)(ii)(A), (d) introductory text through (d)(2), (d)(4) through (d)(6) of this section apply to transfers occurring on or after September 14, 2015, and to transfers occurring before September 14, 2015, resulting from entity classification elections made under § 301.7701-3 that are filed on or after September 14, 2015. For transfers occurring before this section is applicable, see §§ 1.367(a)-1 and 1.367(a)-1T as contained in 26 CFR part 1 revised as of April 1, 2016.
 
-[T.D. 9803, 81 FR 91022, Dec. 16, 2016, as amended at 82 FR 52848, Nov. 15, 2017]
+[T.D. 9803, 81 FR 91022, Dec. 16, 2016, as amended at 82 FR 52848, Nov. 15, 2017; T.D. 9994, 89 FR 82165, Oct. 10, 2024]

@@ -8,4 +8,6 @@
 
 (d) *Deduction for disqualified payments.* Section 1.951A-2(c)(6) applies to taxable years of foreign corporations ending on or after April 7, 2020, and to taxable years of United States shareholders in which or with which such taxable years end.
 
-[T.D. 9866, 84 FR 29341, June 21, 2019, as amended by T.D. 9902, 85 FR 44648, July 23, 2020; T.D. 9922, 85 FR 72070, Nov. 12, 2020; T.D. 9959, 87 FR 373, Jan. 4, 2022]
+(e) *Determination of gross income and allowable deductions.* Section 1.951A-2(c)(2) applies to taxable years of foreign corporations ending on or after October 10, 2024, and to taxable years of United States shareholders in which or with which such taxable years end. For taxable years of foreign corporations ending before October 10, 2024, and to taxable years of United States shareholders in which or with which such taxable years end, *see* § 1.951A-2(c)(2)(i) and (ii) as contained in 26 CFR part 1, revised as of April 1, 2022.
+
+[T.D. 9866, 84 FR 29341, June 21, 2019, as amended by T.D. 9902, 85 FR 44648, July 23, 2020; T.D. 9922, 85 FR 72070, Nov. 12, 2020; T.D. 9959, 87 FR 373, Jan. 4, 2022; 89 FR 82169, Oct. 10, 2024]

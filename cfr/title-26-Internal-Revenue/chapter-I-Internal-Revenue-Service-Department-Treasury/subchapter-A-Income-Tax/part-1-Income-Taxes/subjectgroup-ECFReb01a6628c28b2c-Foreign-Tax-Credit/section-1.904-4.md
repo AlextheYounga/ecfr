@@ -266,6 +266,8 @@
 
 (*iv*) *Predecessors.* For purposes of paragraphs (f)(2)(vi)(D)(*3*)(*ii*) and (*iii*) of this section, a reference to a limited transferor that is a foreign branch owner includes any predecessor to the foreign branch owner. No person is a predecessor with respect to a foreign branch under this paragraph (f)(2)(vi)(D)(*3*)(*iv*).
 
+(*4*) *Multiple transfers of intangible property.* If the same intangible property is transferred in a series of transfers described in paragraph (f)(2)(vi)(D)(*1*) of this section, each successive transfer is separately subject to the provisions of paragraph (f)(2)(vi)(D)(*1*) and will not terminate or otherwise affect the application of paragraph (f)(2)(vi)(D)(*1*) to a prior transfer described in paragraph (f)(2)(vi)(D)(*1*).
+
 (E) *Amount of disregarded payments.* The amount of each disregarded payment used to make an adjustment under this paragraph (f)(2)(vi) (or the absence of any adjustment) must be determined in a manner that results in the attribution of the proper amount of gross income to each of a foreign branch and its foreign branch owner under the principles of section 482, applied as if the foreign branch were a corporation.
 
 (F) *Multiple disregarded payments.* In the case of multiple disregarded payments, this paragraph (f)(2)(vi) is applied with respect to each disregarded payment, and under the ordering rules specified in paragraphs (f)(2)(vi)(F)(*1*) and (*2*) of this section. For purposes of this paragraph (f)(2)(vi), paragraph (f)(2)(vi)(F)(*1*) of this section applies before paragraph (f)(2)(vi)(F)(*2*) of this section.
@@ -534,6 +536,6 @@
 
 (2) Paragraphs (c)(7)(i) and (iii) and (c)(8)(v) through (viii) apply to taxable years ending on or after December 16, 2019. For taxable years that both begin after December 31, 2017, and end on or after December 4, 2018, and also end before December 16, 2019, see § 1.904-4(c)(7)(i) and (iii) as in effect on December 17, 2019.
 
-(3) Paragraphs (b)(2)(i)(A), (c)(4), and (f) of this section apply to taxable years that begin after December 31, 2019, and end on or after November 2, 2020.
+(3) Except as provided in the following sentence, paragraph (f) of this section applies to taxable years that begin after December 31, 2019, and end on or after November 2, 2020. Paragraph (f)(2)(vi)(D)(*4*) of this section applies to taxable years that begin on or after October 10, 2024.
 
 [T.D. 8214, 53 FR 27011, July 18, 1988]Editorial Note:For Federal Register citations affecting § 1.904-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

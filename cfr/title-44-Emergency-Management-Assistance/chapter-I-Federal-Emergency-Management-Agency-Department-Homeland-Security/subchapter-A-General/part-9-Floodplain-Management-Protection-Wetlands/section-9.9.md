@@ -24,7 +24,7 @@
 
 (5) Agency authorities.
 
-(1) The Agency shall not locate the proposed action in the floodplain as established by § 9.7(c) or in a wetland if a practicable alternative exists outside the floodplain or wetland.
+(d) *Action following the analysis of practicable alternatives.* (1) The Agency shall not locate the proposed action in the floodplain as established by § 9.7(c) or in a wetland if a practicable alternative exists outside the floodplain or wetland.
 
 (2) If no practicable alternative exists outside the floodplain or wetland, in order to carry out the action the floodplain or wetland must itself be a practicable location in light of the review required in this section.
 
@@ -64,4 +64,4 @@
 
 (5) Choose the “no action” alternative where there are no practicable alternative actions or sites and where the floodplain or wetland is not itself a practicable alternative. In making the assessment of whether a floodplain or wetland location is itself a practicable alternative, the practicability of the floodplain or wetland location shall be balanced against the practicability of not carrying out the action at all. That is, even if there is no practicable alternative outside of the floodplain or wetland, the floodplain or wetland itself must be a practicable location in order for the action to be carried out there. To be a practicable location, the importance of carrying out the action must clearly outweigh the requirements of the Orders listed in paragraphs (e)(2) and (e)(3) of this section. Unless the importance of carrying out the action clearly outweighs those requirements, the “no action” alternative shall be selected.
 
-[45 FR 59526, Sept. 9, 1980, as amended at 89 FR 57043, July 11, 2024]
+[45 FR 59526, Sept. 9, 1980, as amended at 89 FR 57043, July 11, 2024; 89 FR 82182, Oct. 10, 2024]

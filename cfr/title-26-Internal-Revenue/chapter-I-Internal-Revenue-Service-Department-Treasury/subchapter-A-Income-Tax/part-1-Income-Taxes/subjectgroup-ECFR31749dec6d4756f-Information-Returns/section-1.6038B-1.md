@@ -110,7 +110,9 @@
 
 (*3*) *Interest.* If additional tax is required to be paid as a result of a transaction described in paragraph (c)(6)(iii)(B) of this section, then interest must be paid on that amount at rates determined under section 6621 with respect to the period between the date prescribed for filing the U.S. transferor's income tax return for the year in which the reorganization occurs and the date on which the additional tax for that year is paid.
 
-(d)(1) through (1)(iii) [Reserved]. For further guidance, see § 1.6038B-1T(d)(1) through (1)(iii).
+(d) *Transfers subject to section 367(d)*—(1) *Initial transfer.* For further guidance, see § 1.6038B-1T(d)(1) introductory text through (d)(1)(iii).
+
+(i) through (iii) [Reserved]
 
 (iv) *Intangible property transferred.* Provide a description of the intangible property transferred, including its adjusted basis. Generally, each item of intangible property must be separately identified, including intangible property described in § 1.367(d)-1(g)(2)(i). Identify all property that is subject to the rules of section 367(d) under § 1.367(a)-1(b)(5) (treatment of certain property as subject to section 367(d)). Describe any property for which the income required to be taken into account under section 367(d) and the regulations thereunder will be recognized over a 20-year period pursuant to § 1.367(d)-1(c)(3)(ii). Estimate the anticipated income or cost reductions attributable to the intangible property's use beyond the 20-year period.
 
@@ -118,7 +120,31 @@
 
 (vii) *Coordination with loss rules.* List any intangible property subject to section 367(d) the transfer of which also gives rise to the recognition of gain under section 904(f)(3) or §§ 1.367(a)-6 or -6T. Provide a calculation of the gain required to be recognized with respect to such property, in accordance with the provisions of § 1.367(d)-1(g)(3).
 
-(d)(1)(viii) through (d)(2) [Reserved]. For further guidance, see § 1.6038B-1T(d)(1)(viii) through (d)(2).
+(viii) *Other intangibles.* For further guidance, see § 1.6038B-1T(d)(1)(viii).
+
+(2) *Subsequent transfers.* For additional, *see* § 1.6038B-1T(d)(2) introductory text through (d)(2)(ii).
+
+(i) through (ii) [Reserved]
+
+(iii) *Subsequent transfer.* Except for a subsequent transfer described in paragraph (d)(2)(iv) of this section, provide the following information concerning the subsequent transfer:
+
+(A) For further guidance, *see* § 1.6038B-1T(d)(2)(iii)(A) through (C).
+
+(B) through (C) [Reserved]
+
+(iv) *Subsequent transfer of intangible property to a qualified domestic person.* Provide the following information concerning a subsequent transfer of intangible property described in § 1.367(d)-1(f)(4)(i):
+
+(A) A statement providing that § 1.367(d)-1(f)(4)(i)(B) applies to the subsequent transfer;
+
+(B) A general description of the subsequent transfer and any wider transaction of which it forms a part, including the U.S. transferor's former adjusted basis in the intangible property and the transferee foreign corporation's adjusted basis in the intangible property (as determined immediately before the subsequent transfer), the amount and computation of any gain recognized by the U.S. transferor under § 1.367(d)-1(f)(4)(i)(A), and a description of whether the intangible property was, or is expected to be, subsequently transferred to one or more other persons (as described in § 1.367(d)-1(f)(4)(v));
+
+(C) A description of the intangible property;
+
+(D) A copy of the Form 926 with respect to the original transfer of the intangible property and any attachments identifying the intangible property as within the scope of section 367(d);
+
+(E) The name, address, and taxpayer identification number of the qualified domestic person that receives the intangible property, including a statement describing the relationship between the U.S. transferor and the qualified domestic person, and, if applicable, such information regarding any other persons described in § 1.367(d)-1(f)(4)(v); and
+
+(F) Any other information as may be prescribed by the Commissioner in publications, forms, instructions, or other guidance.
 
 (e) *Transfers subject to section 367(e)*—(1) *In general.* If a domestic corporation (distributing corporation) makes a distribution described in section 367(e)(1) or section 367(e)(2), the distributing corporation must comply with the reporting requirements of this paragraph (e). Unless otherwise provided in this section, a distributing corporation making a distribution described in sections 367(e)(1) or 367(e)(2) must file a Form 926, “Return by a U.S. Transferor of Property to a Foreign Corporation (under section 367),” as amended and modified by this section.
 
@@ -169,5 +195,7 @@
 (6) The second sentence of paragraph (b)(1)(i) and paragraphs (b)(2)(i)(B)(*1*), (b)(2)(iii), (b)(2)(iv), (c), (e)(4), (f)(2)(iii), and (f)(2)(iv) of this section will apply to transfers for which documents are required to be filed on or after November 19, 2014, as well as to transfers that are the subject of requests for relief submitted on or after November 19, 2014. The second sentence of paragraph (b)(1)(i) and paragraphs (b)(2)(i)(B)(*1*), (b)(2)(iii), (b)(2)(iv), (c), and (f)(2)(iii) of this section will also apply to any transfer that is the subject of a request for relief submitted pursuant to § 1.367(a)-8(r)(3).
 
 (7) Paragraphs (c)(4)(i) through (vii), (c)(5), and (d)(1)(iv) and (vii) of this section apply to transfers occurring on or after September 14, 2015, and to transfers occurring before September 14, 2015, resulting from entity classification elections made under § 301.7701-3 that are filed on or after September 14, 2015. For guidance with respect to paragraphs (c)(4), (c)(5), and (d)(1) of this section before this section is applicable, see §§ 1.6038B-1 and 1.6038B-1T as contained in 26 CFR part 1 revised as of April 1, 2016.
+
+(8) Paragraphs (d)(2)(iii) introductory text and (d)(2)(iv) of this section apply to transfers occurring on or after October 10, 2024.
 
 [T.D. 8770, 63 FR 33568, June 19, 1998]Editorial Note:For Federal Register citations affecting § 1.6038B-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

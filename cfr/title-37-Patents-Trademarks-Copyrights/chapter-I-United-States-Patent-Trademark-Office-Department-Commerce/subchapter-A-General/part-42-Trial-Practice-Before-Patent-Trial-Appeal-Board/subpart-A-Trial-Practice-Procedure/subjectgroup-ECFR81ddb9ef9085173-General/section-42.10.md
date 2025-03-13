@@ -1,5 +1,7 @@
 ##### § 42.10 Counsel. #####
 
+Link to an amendment published at 89 FR 82178, Oct. 10, 2024.
+
 (a) If a party is represented by counsel, the party must designate a lead counsel and at least one back-up counsel who can conduct business on behalf of the lead counsel.
 
 (b) A power of attorney must be filed with the designation of counsel, except the patent owner should not file an additional power of attorney if the designated counsel is already counsel of record in the subject patent or application.

@@ -78,7 +78,7 @@ The rule of this paragraph (b)(3)(iv) is illustrated by the following example.Ex
 
 (C) A general description of the transfer and any wider transaction of which it formed a part.
 
-(iii) *Subsequent transfer.* Provide the following information concerning the subsequent transfer:
+(iii) *Subsequent transfer.* For further guidance, see § 1.6038B-1T(d)(2)(iii) introductory text:
 
 (A) A general description of the subsequent transfer and any wider transaction of which it forms a part;
 
@@ -94,4 +94,4 @@ The rule of this paragraph (b)(3)(iv) is illustrated by the following example.Ex
 
 (g) *Effective date.* This section applies to transfers occurring after December 31, 1984. See § 1.6038B-1T(a) through (b)(2), (c) introductory text, and (f) (26 CFR part 1, revised April 1, 1998) for transfers occurring prior to July 20, 1998. See § 1.6038B-1 for transfers occurring on or after July 20, 1998.
 
-[T.D. 8087, 51 FR 17957, May 16, 1986, as amended by T.D. 8682, 61 FR 42177, Aug. 14, 1996; T.D. 8770, 63 FR 33570, June 19, 1998; T.D. 8834, 64 FR 43083, Aug. 9, 1999; T.D. 9100, 68 FR 70708, Dec. 19, 2003; 69 FR 5017, Feb. 3, 2004; T.D. 9243, 71 FR 4294, Jan. 26, 2006; T.D. 9300, 71 FR 71045, Dec. 8, 2006; T.D. 9615, 78 FR 17064, Mar. 19, 2013; T.D. 9760, 81 FR 15169, Mar. 22, 2016; T.D. 9803, 81 FR 91032, Dec. 16, 2016]
+[T.D. 8087, 51 FR 17957, May 16, 1986, as amended by T.D. 8682, 61 FR 42177, Aug. 14, 1996; T.D. 8770, 63 FR 33570, June 19, 1998; T.D. 8834, 64 FR 43083, Aug. 9, 1999; T.D. 9100, 68 FR 70708, Dec. 19, 2003; 69 FR 5017, Feb. 3, 2004; T.D. 9243, 71 FR 4294, Jan. 26, 2006; T.D. 9300, 71 FR 71045, Dec. 8, 2006; T.D. 9615, 78 FR 17064, Mar. 19, 2013; T.D. 9760, 81 FR 15169, Mar. 22, 2016; T.D. 9803, 81 FR 91032, Dec. 16, 2016; T.D. 9994, 89 FR 82170, Oct. 10, 2024]

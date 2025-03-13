@@ -1,5 +1,7 @@
 ##### § 42.15 Fees. #####
 
+Link to an amendment published at 89 FR 82178, Oct. 10, 2024.
+
 (a) On filing a petition for *inter partes* review of a patent, payment of the following fees are due:
 
 (1) *Inter Partes* Review request fee: $19,000.00
