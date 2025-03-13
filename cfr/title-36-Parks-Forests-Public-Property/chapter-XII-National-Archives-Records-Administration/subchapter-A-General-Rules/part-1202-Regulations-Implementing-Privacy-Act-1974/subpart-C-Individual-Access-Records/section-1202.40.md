@@ -1,5 +1,7 @@
 ##### § 1202.40 How can I gain access to NARA records about myself? #####
 
+Link to an amendment published at 89 FR 16698, Mar. 8, 2024.
+
 (a) If you wish to request access to information about yourself contained in a NARA Privacy Act system of records, you must notify the NARA Privacy Act Officer, National Archives and Records Administration, Rm. 3110, 8601 Adelphi Rd., College Park, MD 20740-6001. If you wish to allow another person to review or obtain a copy of your record, you must provide authorization for that person to obtain access as part of your request.
 
 (b) Your request must be in writing and the letter and the envelope must be marked “Privacy Act Request.” Your request letter must contain:

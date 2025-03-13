@@ -10,9 +10,7 @@
 
 (4) The storage field developed pursuant to this section will not be utilized to render service without further authorization from the Commission, except that gas may be withdrawn on occasion for testing purposes; and
 
-(5) The total expenditures per calendar year pursuant to this section do not exceed the amount specified in Table II as adjusted pursuant to § 157.208(d). These costs shall include expenditures for leases, wells, pipeline, compressors, and related facilities, but shall exclude the cost of the natural gas to be used for testing purposes.
-
-Table 1 to Paragraph (a)(5)
+(5) The total expenditures per calendar year pursuant to this section do not exceed the amount specified in table 1 to this paragraph (a)(5) as adjusted pursuant to § 157.208(d). These costs shall include expenditures for leases, wells, pipeline, compressors, and related facilities, but shall exclude the cost of the natural gas to be used for testing purposes.
 
 |Year|  Limit   |
 |----|----------|
@@ -58,6 +56,7 @@ Table 1 to Paragraph (a)(5)
 |2021|6,800,000 |
 |2022|7,100,000 |
 |2023|7,600,000 |
+|2024|7,900,000 |
 
 (b) *Reporting requirements*—(1) *Annual reports.* For any storage project tested or developed pursuant to this section, the certificate holder shall file, in the manner prescribed in §§ 157.6(a) and 385.2011 of this chapter as part of the annual report required under § 157.207(a), the following information:
 

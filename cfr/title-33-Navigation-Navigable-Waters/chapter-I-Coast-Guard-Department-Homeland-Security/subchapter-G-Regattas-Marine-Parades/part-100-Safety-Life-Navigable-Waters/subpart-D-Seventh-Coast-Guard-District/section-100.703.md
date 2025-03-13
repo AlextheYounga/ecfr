@@ -1,5 +1,7 @@
 ##### § 100.703 Special Local Regulations; Recurring Marine Events, Sector St. Petersburg. #####
 
+Link to an amendment published at 89 FR 16687, Mar. 8, 2024.
+
 This section applies to the marine events listed in table 1 of this section. These regulations will be effective annually, for the duration of each event listed in table 1. Annual notice of the exact dates and times of the effective period of the regulation with respect to each event, the geographical area, and details concerning the nature of the event and the number of participants and type(s) of vessels involved will be provided to the local maritime community through the Local Notice to Mariners, Broadcast Notice to Mariners, or both, well in advance of the events. If the event does not have a date listed, then the exact dates and times of the enforcement will be announced through a Notice of Enforcement in the Federal Register.
 
 (a) *Definitions.* The following definitions apply to this section:

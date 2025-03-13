@@ -1,7 +1,5 @@
 ##### § 740.20 License Exception Strategic Trade Authorization (STA). #####
 
-Link to an amendment published at 89 FR 13592, Feb. 23, 2024.
-
 (a) *Introduction.* This section authorizes exports, reexports, and transfers (in-country), including releases within a single country of software source code and technology to foreign nationals, in lieu of a license that would otherwise be required pursuant to part 742 of the EAR.
 
 Note 1 to paragraph (a):
@@ -50,7 +48,7 @@ License Exception STA authorizes transfers (in-country) but is only needed to au
 
 (ix) [Reserved]
 
-(x) License Exception STA may not be used for items controlled by ECCN 6A002; 6D002 (software “specially designed” for the “use” of commodities controlled under 6A002.b); 6D003.c; 6D991 (software “specially designed” for the “development,” “production,” or “use” of commodities controlled under 6A002 or 6A003); 6E001 (“technology” for the “development” of commodities controlled under ECCN 6A002 or 6A003); or 6E002 “technology” (for the “production” of commodities controlled under ECCN 6A002 or 6A003).
+(x) License Exception STA may not be used for items controlled by ECCN 6A002; 6A293; 6D002 (software “specially designed” for the “use” of commodities controlled under 6A002.b); 6D003.c; 6D991 (software “specially designed” for the “development,” “production,” or “use” of commodities controlled under 6A002 or 6A003); 6E001 (“technology” for the “development” of commodities controlled under ECCN 6A002 or 6A003); or 6E002 “technology” (for the “production” of commodities controlled under ECCN 6A002 or 6A003).
 
 (xi) License Exception STA may not be used for any commodity controlled by ECCN 3A001.b.2 or b.3 (except those that are being exported or reexported for use in civil telecommunications applications), or any “technology” controlled by 3E001 for the “production” or “development” of commodities controlled by 3A001.b.2 or b.3.
 

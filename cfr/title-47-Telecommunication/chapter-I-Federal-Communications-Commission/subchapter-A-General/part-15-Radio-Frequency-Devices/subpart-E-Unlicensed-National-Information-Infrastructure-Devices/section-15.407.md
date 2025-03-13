@@ -4,9 +4,7 @@ Link to an amendment published at 89 FR 890, Jan. 8, 2024.Link to a correction o
 
 (a) *Power limits:*
 
-(1) For the band 5.15-5.25 GHz.
-
-(i) For an outdoor access point operating in the band 5.15-5.25 GHz, the maximum conducted output power over the frequency band of operation shall not exceed 1 W provided the maximum antenna gain does not exceed 6 dBi. In addition, the maximum power spectral density shall not exceed 17 dBm in any 1 megahertz band. If transmitting antennas of directional gain greater than 6 dBi are used, both the maximum conducted output power and the maximum power spectral density shall be reduced by the amount in dB that the directional gain of the antenna exceeds 6 dBi. The maximum e.i.r.p. at any elevation angle above 30 degrees as measured from the horizon must not exceed 125 mW (21 dBm).
+(1) (i) For an outdoor access point operating in the band 5.15-5.25 GHz, the maximum conducted output power over the frequency band of operation shall not exceed 1 W provided the maximum antenna gain does not exceed 6 dBi. In addition, the maximum power spectral density shall not exceed 17 dBm in any 1 megahertz band. If transmitting antennas of directional gain greater than 6 dBi are used, both the maximum conducted output power and the maximum power spectral density shall be reduced by the amount in dB that the directional gain of the antenna exceeds 6 dBi. The maximum e.i.r.p. at any elevation angle above 30 degrees as measured from the horizon must not exceed 125 mW (21 dBm).
 
 (ii) For an indoor access point operating in the band 5.15-5.25 GHz, the maximum conducted output power over the frequency band of operation shall not exceed 1 W provided the maximum antenna gain does not exceed 6 dBi. In addition, the maximum power spectral density shall not exceed 17 dBm in any 1 megahertz band. If transmitting antennas of directional gain greater than 6 dBi are used, both the maximum conducted output power and the maximum power spectral density shall be reduced by the amount in dB that the directional gain of the antenna exceeds 6 dBi.
 
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 890, Jan. 8, 2024.Link to a correction o
 
 (2) For the 5.25-5.35 GHz and 5.47-5.725 GHz bands, the maximum conducted output power over the frequency bands of operation shall not exceed the lesser of 250 mW or 11 dBm + 10 log B, where B is the 26 dB emission bandwidth in megahertz. In addition, the maximum power spectral density shall not exceed 11 dBm in any 1 megahertz band. If transmitting antennas of directional gain greater than 6 dBi are used, both the maximum conducted output power and the maximum power spectral density shall be reduced by the amount in dB that the directional gain of the antenna exceeds 6 dBi.
 
-(3) *For the band 5.725-5.895 GHz:* (i) For the band 5.725-5.850 GHz, the maximum conducted output power over the frequency band of operation shall not exceed 1 W. In addition, the maximum power spectral density shall not exceed 30 dBm in any 500-kHz band. If transmitting antennas of directional gain greater than 6 dBi are used, both the maximum conducted output power and the maximum power spectral density shall be reduced by the amount in dB that the directional gain of the antenna exceeds 6 dBi. However, fixed point-to-point U-NII devices operating in this band may employ transmitting antennas with directional gain greater than 6 dBi without any corresponding reduction in transmitter conducted power. Fixed, point-to-point operations exclude the use of point-to-multipoint systems, omnidirectional applications, and multiple collocated transmitters transmitting the same information. The operator of the U-NII device, or if the equipment is professionally installed, the installer, is responsible for ensuring that systems employing high gain directional antennas are used exclusively for fixed, point-to-point operations.
+(3) (i) For the band 5.725-5.850 GHz, the maximum conducted output power over the frequency band of operation shall not exceed 1 W. In addition, the maximum power spectral density shall not exceed 30 dBm in any 500-kHz band. If transmitting antennas of directional gain greater than 6 dBi are used, both the maximum conducted output power and the maximum power spectral density shall be reduced by the amount in dB that the directional gain of the antenna exceeds 6 dBi. However, fixed point-to-point U-NII devices operating in this band may employ transmitting antennas with directional gain greater than 6 dBi without any corresponding reduction in transmitter conducted power. Fixed, point-to-point operations exclude the use of point-to-multipoint systems, omnidirectional applications, and multiple collocated transmitters transmitting the same information. The operator of the U-NII device, or if the equipment is professionally installed, the installer, is responsible for ensuring that systems employing high gain directional antennas are used exclusively for fixed, point-to-point operations.
 
 (ii) For an indoor access point operating in the 5.850-5.895 GHz band, the maximum power spectral density must not exceed 20 dBm e.i.r.p. in any 1-megahertz band. In addition, the maximum e.i.r.p. over the frequency band of operation must not exceed 36 dBm. Indoor access points operating on a channel that spans the 5.725-5.850 GHz and 5.850-5.895 GHz bands must not exceed an e.i.r.p. of 36 dBm.
 
@@ -40,15 +38,17 @@ The Commission strongly recommends that parties employing U-NII devices to provi
 
 (8) For client devices operating under the control of an indoor access point in the 5.925-7.125 GHz bands, the maximum power spectral density must not exceed −1 dBm e.i.r.p. in any 1-megahertz band, and the maximum e.i.r.p. over the frequency band of operation must not exceed 24 dBm.
 
-(9) Access points operating under the provisions of paragraphs (a)(5) and (a)(6) of this section must employ a permanently attached integrated antenna.
+(9) For very low power devices operating in the 5.925-6.425 GHz and 6.525-6.875 GHz bands, the maximum power spectral density must not exceed −5 dBm e.i.r.p in any 1-megahertz band and the maximum e.i.r.p must not exceed 14 dBm.
 
-(10) The maximum transmitter channel bandwidth for U-NII devices in the 5.925-7.125 GHz band is 320 megahertz.
+(10) Access points operating under the provisions of paragraphs (a)(5) and (a)(6) of this section must employ a permanently attached integrated antenna.
 
-(11) The maximum conducted output power must be measured over any interval of continuous transmission using instrumentation calibrated in terms of an rms-equivalent voltage.
+(11) The maximum transmitter channel bandwidth for U-NII devices in the 5.925-7.125 GHz band is 320 megahertz.
 
-(12) Power spectral density measurement: The maximum power spectral density is measured as a conducted emission by direct connection of a calibrated test instrument to the equipment under test. If the device cannot be connected directly, alternative techniques acceptable to the Commission may be used. Measurements in the 5.725-5.895 GHz band are made over a reference bandwidth of 500 kHz or the 26 dB emission bandwidth of the device, whichever is less. Measurements in all other bands are made over a bandwidth of 1 MHz or the 26 dB emission bandwidth of the device, whichever is less. A narrower resolution bandwidth can be used, provided that the measured power is integrated over the full reference bandwidth.
+(12) The maximum conducted output power must be measured over any interval of continuous transmission using instrumentation calibrated in terms of an rms-equivalent voltage.
 
-(b) *Undesirable emission limits.* Except as shown in paragraph (b)(7) of this section, the maximum emissions outside of the frequency bands of operation shall be attenuated in accordance with the following limits:
+(13) Power spectral density measurement: The maximum power spectral density is measured as a conducted emission by direct connection of a calibrated test instrument to the equipment under test. If the device cannot be connected directly, alternative techniques acceptable to the Commission may be used. Measurements in the 5.725-5.895 GHz band are made over a reference bandwidth of 500 kHz or the 26 dB emission bandwidth of the device, whichever is less. Measurements in all other bands are made over a bandwidth of 1 MHz or the 26 dB emission bandwidth of the device, whichever is less. A narrower resolution bandwidth can be used, provided that the measured power is integrated over the full reference bandwidth.
+
+(b) *Undesirable emission limits.* Except as shown in paragraph (b)(10) of this section, the maximum emissions outside of the frequency bands of operation shall be attenuated in accordance with the following limits:
 
 (1) For transmitters operating in the 5.15-5.25 GHz band: All emissions outside of the 5.15-5.35 GHz band shall not exceed an e.i.r.p. of −27 dBm/MHz.
 
@@ -82,11 +82,21 @@ The Commission strongly recommends that parties employing U-NII devices to provi
 
 (11) When measuring the emission limits, the nominal carrier frequency shall be adjusted as close to the upper and lower frequency band edges as the design of the equipment permits.
 
-(c) The device shall automatically discontinue transmission in case of either absence of information to transmit or operational failure. These provisions are not intended to preclude the transmission of control or signalling information or the use of repetitive codes used by certain digital technologies to complete frame or burst intervals. Applicants shall include in their application for equipment authorization a description of how this requirement is met.
+(c) *Transmission discontinuation requirement.* The device shall automatically discontinue transmission in case of either absence of information to transmit or operational failure. The provisions in this paragraph (c) are not intended to preclude the transmission of control or signaling information or the use of repetitive codes used by certain digital technologies to complete frame or burst intervals. Applicants shall include in their application for equipment authorization a description of how the requirement in this paragraph (c) is met.
 
-(d) *Operational restrictions for 6 GHz U-NII devices.* (1) Operation of standard access points, fixed client devices and indoor access points in the 5.925-7.125 GHz band is prohibited on oil platforms, cars, trains, boats, and aircraft, except that indoor access points are permitted to operate in the 5.925-6.425 GHz bands in large aircraft while flying above 10,000 feet.
+(d) *Operational restrictions for 6 GHz U-NII devices.*(1) Operational restrictions include:
 
-(2) Operation of transmitters in the 5.925-7.125 GHz band is prohibited for control of or communications with unmanned aircraft systems.
+(i) *Oil platforms.* Operation of standard power access points, fixed client devices, very low power devices, and indoor access points in the 5.925-7.125 GHz band is prohibited on oil platforms.
+
+(ii) *Land vehicles.* Operation of standard power access points, fixed client devices, and indoor access points in the 5.925-7.125 GHz band is prohibited on vehicles (*e.g.,* cars, trains).
+
+(iii) *Boats.* Operation of standard power access points, fixed client devices, and indoor access points in the 5.925-7.125 GHz band is prohibited on boats.
+
+(iv) *Aircraft.* Standard power access points, fixed client devices, very low power devices, and indoor access points in the 5.925-7.125 GHz band are prohibited from operating on aircraft, except that very low power devices and indoor access points are permitted to operate in the 5.925-6.425 GHz bands in large aircraft while flying above 10,000 feet.
+
+(v) *Unmanned aircraft systems.* Operation of transmitters in the 5.925-7.125 GHz band is prohibited for control of or communications with unmanned aircraft systems.
+
+(2) [Reserved]
 
 (3) Transmitters operating under the provisions of paragraphs (a)(5), (a)(6), and (a)(8) of this section are limited to indoor locations.
 
@@ -94,9 +104,15 @@ The Commission strongly recommends that parties employing U-NII devices to provi
 
 (5) In the 5.925-7.125 GHz band, client devices, except fixed client devices, must operate under the control of a standard power access point, indoor access point or subordinate devices; Subordinate devices must operate under the control of an indoor access point. In all cases, an exception exists for transmitting brief messages to an access point when attempting to join its network after detecting a signal that confirms that an access point is operating on a particular channel. Access points and subordinate devices may connect to other access points or subordinate devices. Client devices are prohibited from connecting directly to another client device.
 
-(6) Indoor access points, subordinate devices and client devices operating in the 5.925-7.125 GHz band must employ a contention-based protocol.
+(6) All U-NII transmitters, except for standard power access points, operating in the 5.925-7.125 GHz band must employ a contention-based protocol.
 
 (7) Fixed client devices may only connect to a standard power access point.
+
+(8) Very low power devices may not employ a fixed outdoor infrastructure. Such devices may not be mounted on outdoor structures, such as buildings or poles.
+
+(9) Very low power devices must prioritize operations on frequencies above 6.105 GHz prior to operating on frequencies between 5.925 GHz and 6.105 GHz.
+
+(10) Very low power devices operating in the 5.925-6.425 and 6.525-6.875 GHz bands shall employ a transmit power control (TPC) mechanism. A very low power device is required to have the capability to operate at least 6 dB below the maximum EIRP power spectral density (PSD) value of −5 dBm/MHz.
 
 (e) Within the 5.725-5.850 GHz and 5.850-5.895 GHz bands, the minimum 6 dB bandwidth of U-NII devices shall be at least 500 kHz.
 
@@ -216,7 +232,7 @@ Path-loss (L) = Σi P(i) \* Li = PLOS \* LLOS + PNLOS \* LNLOS,where PLOS is the
 
 (i) The AFC system must use −6 dB I/N as the interference protection criteria in determining the size of the co-channel exclusion zone where I (interference) is the co-channel signal from the standard power access point or fixed client device at the fixed microwave service receiver, and N (noise) is background noise level at the fixed microwave service receiver.
 
-(ii) The AFC system must use −6 dB I/N as the interference protection criteria in determining the size of the adjacent channel exclusion zone, where I (interference) is the signal from the standard power access point or fixed client device's out of channel emissions at the fixed microwave service receiver and N (noise) is background noise level at the fixed microwave service receiver. The adjacent channel exclusion zone must be calculated based on the emissions requirements of paragraph (b)(6) of this section.
+(ii) The AFC system must use −6 dB I/N as the interference protection criteria in determining the size of the adjacent channel exclusion zone, where I (interference) is the signal from the standard power access point or fixed client device's out of channel emissions at the fixed microwave service receiver and N (noise) is background noise level at the fixed microwave service receiver. The adjacent channel exclusion zone must be calculated based on the emissions requirements of paragraph (b)(7) of this section.
 
 (m) *Incumbent Protection by AFC system: Radio Astronomy Services.* The AFC system must enforce an exclusion zones to the following radio observatories that observe between 6650-6675.2 MHz: Arecibo Observatory, the Green Bank Observatory, the Very Large Array (VLA), the 10 Stations of the Very Long Baseline Array (VLBA), the Owens Valley Radio Observatory, and the Allen Telescope Array. The exclusion zone sizes are based on the radio line-of-sight and determined using4/3 earth curvature and the following formula:
 
@@ -224,4 +240,4 @@ dkm\_los = 4.12 \* (sqrt(Htx) + sqrt(Hrx)),where Htx is the height of the unlice
 
 (n) *Incumbent Protection by AFC system: Fixed-Satellite Services.* Standard power access points and fixed client devices located outdoors must limit their maximum e.i.r.p. at any elevation angle above 30 degrees as measured from the horizon to 21 dBm (125 mW) to protect fixed satellite services.
 
-[63 FR 40836, July 31, 1998, as amended at 69 FR 2687, Jan. 20, 2004; 69 FR 54036, Sept. 7, 2004; 79 FR 24579, May 1, 2014; 79 FR 56988, Sept. 24, 2014; 79 FR 76903, Dec. 23, 2014; 81 FR 19901, Apr. 6, 2016; 85 FR 18149, Apr. 1, 2020; 85 FR 31411, May 26, 2020; 86 FR 23295, May 3, 2021]
+[63 FR 40836, July 31, 1998, as amended at 69 FR 2687, Jan. 20, 2004; 69 FR 54036, Sept. 7, 2004; 79 FR 24579, May 1, 2014; 79 FR 56988, Sept. 24, 2014; 79 FR 76903, Dec. 23, 2014; 81 FR 19901, Apr. 6, 2016; 85 FR 18149, Apr. 1, 2020; 85 FR 31411, May 26, 2020; 86 FR 23295, May 3, 2021; 89 FR 890, Jan. 8, 2024]

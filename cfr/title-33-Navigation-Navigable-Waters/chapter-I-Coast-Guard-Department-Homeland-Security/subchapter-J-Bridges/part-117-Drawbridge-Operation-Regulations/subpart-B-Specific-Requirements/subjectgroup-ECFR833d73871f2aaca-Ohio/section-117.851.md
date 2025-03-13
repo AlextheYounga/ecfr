@@ -1,5 +1,7 @@
 ##### § 117.851 Portage River. #####
 
+Link to an amendment published at 89 FR 16693, Mar. 8, 2024.
+
 (a) Public vessels of the United States, State or local government vessels used for public safety, vessels in distress and vessels seeking shelter from rough weather shall be passed through the draws listed in this section as soon as possible. Except as provided in paragraph (c)(1)(ii) with respect to the Monroe Street bridge, commercial vessels shall be passed through the draws of this section as soon as possible.
 
 (b) The owners of the bridges listed in this section shall provide and keep in good legible condition two board gages painted white with black figures to indicate the vertical clearance under the closed draw at all stages of the tide. The gages shall be so placed on the bridge that they are plainly visible to operators of vessels approaching the bridge either up or downstream.

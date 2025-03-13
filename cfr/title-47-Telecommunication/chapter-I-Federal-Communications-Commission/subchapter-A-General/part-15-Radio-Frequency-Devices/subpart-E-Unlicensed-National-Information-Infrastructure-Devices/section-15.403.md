@@ -1,7 +1,5 @@
 ##### § 15.403 Definitions. #####
 
-Link to an amendment published at 89 FR 890, Jan. 8, 2024.
-
 *Access Point (AP).* A U-NII transceiver that operates either as a bridge in a peer-to-peer connection or as a connector between the wired and wireless segments of the network or as a relay between wireless network segments.
 
 *Automated Frequency Coordination (AFC) System.* A system that automatically determines and provides lists of which frequencies are available for use by standard power access points operating in the 5.925-6.425 GHz and 6.525-6.875 GHz bands.
@@ -54,4 +52,6 @@ Link to an amendment published at 89 FR 890, Jan. 8, 2024.
 
 *U-NII devices.* Intentional radiators operating in the frequency bands 5.15-5.35 GHz, 5.47-5.895 GHz, and 5.925-7.125 GHz that use wideband digital modulation techniques and provide a wide array of high data rate mobile and fixed communications for individuals, businesses, and institutions.
 
-[85 FR 31410, May 26, 2020, as amended at 86 FR 23295, May 3, 2021]
+*Very low power device.* For the purpose of this subpart, a device that operates in the 5.925-6.425 GHz and 6.525-6.875 GHz bands and has an integrated antenna. These devices do not need to operate under the control of an access point.
+
+[85 FR 31410, May 26, 2020, as amended at 86 FR 23295, May 3, 2021; 89 FR 890, Jan. 8, 2024]

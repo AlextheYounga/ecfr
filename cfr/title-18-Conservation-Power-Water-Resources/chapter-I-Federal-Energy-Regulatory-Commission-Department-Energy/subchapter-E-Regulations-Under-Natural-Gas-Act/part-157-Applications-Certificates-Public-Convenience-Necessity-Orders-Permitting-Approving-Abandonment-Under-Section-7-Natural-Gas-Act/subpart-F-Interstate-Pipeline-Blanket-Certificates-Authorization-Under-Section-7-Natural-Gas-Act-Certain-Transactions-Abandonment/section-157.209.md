@@ -1,6 +1,6 @@
 ##### § 157.209 Temporary compression facilities. #####
 
-(a) *Automatic authorization.* If the cost does not exceed the cost limitations set forth in column 1 of Table I, under § 157.208(d) of this chapter, the certificate holder may install, operate and remove temporary facilities provided that the temporary compressor facilities shall not be used to increase the volume or service above that rendered by the involved existing permanent compressor unit(s).
+(a) *Automatic authorization.* If the cost does not exceed the cost limitations set forth in column 1 of table 1 to § 157.208(d), the certificate holder may install, operate and remove temporary facilities provided that the temporary compressor facilities shall not be used to increase the volume or service above that rendered by the involved existing permanent compressor unit(s).
 
 (b) *Reporting requirements.* As part of the certificate holder's annual report of projects authorized under paragraph (a) of this section, the certificate holder must report the following in the manner prescribed in §§ 157.6(a) and 385.2011 of this chapter;
 
@@ -14,4 +14,4 @@
 
 (5) If applicable, the information required in § 157.208(e)(4).
 
-[Order 603, 64 FR 26608, May 14, 1999, as amended by Order 699, 72 FR 45325, Aug. 14, 2007]
+[Order 603, 64 FR 26608, May 14, 1999, as amended by Order 699, 72 FR 45325, Aug. 14, 2007; 89 FR 16684, Mar. 8, 2024]

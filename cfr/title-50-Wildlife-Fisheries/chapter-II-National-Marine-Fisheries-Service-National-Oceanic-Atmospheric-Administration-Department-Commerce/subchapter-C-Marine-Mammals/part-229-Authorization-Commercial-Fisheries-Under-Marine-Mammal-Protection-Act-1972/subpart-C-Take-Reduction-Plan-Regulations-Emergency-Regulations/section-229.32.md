@@ -269,23 +269,23 @@ Table 10 to Paragraph (c)(2)(iv)
 
 <sup>3</sup> See paragraph (f)(1) of this section for description of area.
 
-(3) *Massachusetts Restricted Area*—(i) *Area.* The Massachusetts Restricted Area is bounded landward by the Massachusetts shoreline, from points MRA1 through MRA3 bounded seaward by the designated Massachusetts state waters boundary, and then bounded by a rhumb line connecting points MRA3 through MRA11 in order as detailed in table 11 to paragraph (c)(3)(i);
+(3) *Massachusetts Restricted Area*—
+(i) *Area.* The Massachusetts Restricted Area is bounded landward by the Massachusetts shoreline, from points MRA1 through MRA3 bounded seaward by the designated Massachusetts State waters boundary, and then bounded by a rhumb line connecting points MRA3 through MRA10 in order as detailed in table 11 to this paragraph (c)(3)(i);
 
 Table 11 to Paragraph (c)(3)(i)
 
-|Point| N lat.  | W long. |
+|Point| N Lat.  | W Long. |
 |-----|---------|---------|
 |MRA1 |42°52.32′|70°48.98′|
 |MRA2 |42°52.58′|70°43.94′|
-|MRA3 | 42°12′  |70°38.69′|
-|MRA4 | 42°12′  | 70°30′  |
-|MRA5 | 42°30′  | 70°30′  |
-|MRA6 | 42°30′  | 69°45′  |
-|MRA7 |41°56.5′ | 69°45′  |
-|MRA8 |41°21.5′ | 69°16′  |
-|MRA9 |41°15.3′ |69°57.9′ |
-|MRA10|41°20.3′ | 70°00′  |
-|MRA11|41°40.2′ | 70°00′  |
+|MRA3 |42°39.77′| 70°30′  |
+|MRA4 | 42°30′  | 70°30′  |
+|MRA5 | 42°30′  | 69°45′  |
+|MRA6 |41°56.5′ | 69°45′  |
+|MRA7 |41°21.5′ | 69°16′  |
+|MRA8 |41°15.3′ |69°57.9′ |
+|MRA9 |41°20.3′ | 70°00′  |
+|MRA10|41°40.2′ | 70°00′  |
 
 (ii) *Closure to fishing with buoy lines.* From February 1 to April 30, it is prohibited to fish with, set, or possess trap/pot gear in the area in this paragraph (c)(3)(i) of this section unless it is fished without buoy lines or with buoy lines that are stored on the bottom until it can be remotely released for hauling, or it is stowed in accordance with § 229.2 of this chapter. Authorizations for fishing without buoy lines must be obtained if such fishing would not be in accordance with surface marking requirements of §§ 697.21 and 648.84 of this title or other applicable fishery management regulations. The minimum number of trap/trawl gear configuration requirements specified in paragraph (c)(2)(iv) of this section remain in effect unless an exemption to those requirements is authorized.
 
@@ -781,4 +781,4 @@ Table 23 to Paragraph (f)(1)
 
 (viii) Similar situations occur.
 
-[86 FR 52011, Sept. 17, 2021, as amended at 87 FR 11979, Mar. 3, 2022]
+[86 FR 52011, Sept. 17, 2021, as amended at 87 FR 11979, Mar. 3, 2022; 89 FR 8349, Feb. 7, 2024]
