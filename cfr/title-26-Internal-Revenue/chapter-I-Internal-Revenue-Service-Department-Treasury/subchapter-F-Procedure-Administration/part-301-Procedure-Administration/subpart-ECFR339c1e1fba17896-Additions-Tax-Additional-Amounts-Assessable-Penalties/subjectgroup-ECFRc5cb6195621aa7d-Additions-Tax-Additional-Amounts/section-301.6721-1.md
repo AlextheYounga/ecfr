@@ -1,7 +1,5 @@
 ##### § 301.6721-1 Failure to file correct information returns. #####
 
-Link to an amendment published at 89 FR 56583, July 9, 2024.
-
 (a) *Imposition of penalty*—(1) *General rule.* A penalty of $250 is imposed for each *information return* (as defined in section 6724(d)(1) and paragraph (h) of this section) with respect to which a *failure* (as defined in section 6721(a)(2) and paragraph (a)(2) of this section) occurs. No more than one penalty will be imposed under this paragraph (a)(1) with respect to a single information return even though there may be more than one failure with respect to such return. The total amount imposed on any person for all failures during any calendar year with respect to all information returns will not exceed $3,000,000. *See* paragraph (b) of this section for a reduction in the penalty if the failures are corrected within specified periods. *See* paragraph (c) of this section for an exception to the penalty for inconsequential errors or omissions. *See* paragraph (d) of this section for an exception to the penalty for a de minimis number of failures. *See* paragraph (e) of this section for a safe harbor exception for certain de minimis errors. *See* paragraph (f) of this section for lower limitations to the $3,000,000 maximum penalty. *See* paragraph (g) of this section for higher penalties if a failure is due to intentional disregard of the requirement to file timely correct information returns. *See* paragraph (i) of this section for inflation adjustments to penalty amounts. *See* § 301.6724-1(a)(1) for waiver of the penalty for a failure that is due to reasonable cause.
 
 (2) *Failures subject to the penalty.* The failures to which section 6721(a) and paragraph (a)(1) of this section apply are—
@@ -165,7 +163,7 @@ Link to an amendment published at 89 FR 56583, July 9, 2024.
 
 (ii) Section 6043A(a) (relating to returns relating to taxable mergers and acquisitions);
 
-(iii) Section 6045(a) or (d) (relating to returns of brokers, generally reported on Form 1099-B, “Proceeds From Broker and Barter Exchange Transactions,” for broker transactions; Form 1099-S, “Proceeds From Real Estate Transactions,” for gross proceeds from the sale or exchange of real estate; and Form 1099-MISC for certain substitute payments and payments to attorneys);
+(iii) Section 6045(a) or (d) of the Code (relating to returns of brokers, generally reported on Form 1099-B, *Proceeds From Broker and Barter Exchange Transactions,* for broker transactions not involving digital assets; Form 1099-DA, *Digital Asset Proceeds from Broker Transactions* for broker transactions involving digital assets; Form 1099-S, *Proceeds From Real Estate Transactions,* for gross proceeds from the sale or exchange of real estate; and Form 1099-MISC, *Miscellaneous Income,* for certain substitute payments and payments to attorneys); and
 
 (iv) Section 6045B(a) (relating to returns relating to actions affecting basis of specified securities);
 
@@ -223,6 +221,6 @@ Link to an amendment published at 89 FR 56583, July 9, 2024.
 
 (i) *Adjustment for inflation.* Each of the dollar amounts under paragraphs (a), (b), (f) (other than paragraph (f)(2)), and (g) of this section and section 6721(a), (b), (d) (other than section 6721(d)(2)(A)), and (e) will be adjusted for inflation pursuant to section 6721(f).
 
-(j) *Applicability date.* This section applies with respect to information returns required to be filed on or after January 1, 2024. *See* 26 CFR 301.6721-1, as revised April 1, 2023, for rules applicable prior to January 1, 2024.
+(j) *Applicability date.* This section applies with respect to information returns required to be filed on or after January 1, 2024. *See* 26 CFR 301.6721-1, as revised April 1, 2023, for rules applicable prior to January 1, 2024. Paragraph (h)(3)(iii) of this section applies to returns required to be filed on or after January 1, 2026.
 
-[T.D. 8386, 56 FR 67182, Dec. 30, 1991, as amended by T.D. 8843, 64 FR 61504, Nov. 12, 1999; T.D. 9200, 70 FR 28742, May 18, 2005; T.D. 9496, 75 FR 49836, Aug. 16, 2010; T.D. 9504, 75 FR 64103, Oct. 18, 2010; T.D. 9660, 79 FR 13231, Mar. 10, 2014; T.D. 9972, 88 FR 11777, Feb. 23, 2023; T.D. 9984, 88 FR 87701, Dec. 19, 2023]
+[T.D. 8386, 56 FR 67182, Dec. 30, 1991, as amended by T.D. 8843, 64 FR 61504, Nov. 12, 1999; T.D. 9200, 70 FR 28742, May 18, 2005; T.D. 9496, 75 FR 49836, Aug. 16, 2010; T.D. 9504, 75 FR 64103, Oct. 18, 2010; T.D. 9660, 79 FR 13231, Mar. 10, 2014; T.D. 9972, 88 FR 11777, Feb. 23, 2023; T.D. 9984, 88 FR 87701, Dec. 19, 2023; T.D. 10000, 89 FR 56583, July 9, 2024]

@@ -1,7 +1,5 @@
 ##### § 31.3406-0 Outline of the backup withholding regulations. #####
 
-Link to an amendment published at 89 FR 56582, July 9, 2024.
-
 This section lists paragraphs contained in §§ 31.3406(a)-1 through 31.3406(i)-1.
 
 § 31.3406(a)-1 Backup withholding requirement on reportable payments.
@@ -136,7 +134,7 @@ This section lists paragraphs contained in §§ 31.3406(a)-1 through 31.3406(i)-
 
 (3) Payments aggregating $600 or more for the calendar year.
 
-§ 31.3406(b)(3)-2 Reportable barter exchanges and gross proceeds of sales of securities or commodities by brokers.
+§ 31.3406(b)(3)-2 Reportable barter exchanges and gross proceeds of sales of securities, commodities, or digital assets by brokers.
 
 (a) Transactions subject to backup withholding.
 
@@ -151,6 +149,20 @@ This section lists paragraphs contained in §§ 31.3406(a)-1 through 31.3406(i)-
 (4) Security short sales.
 
 (5) Fractional shares.
+
+(6) Amount subject to backup withholding in the case of reporting under § 1.6045-1(d)(2)(i)(C) and (d)(10) of this chapter.
+
+(i) Optional reporting method for sales of qualifying stablecoins and specified nonfungible tokens.
+
+(A) In general.
+
+(B) Backup withholding on non-designated sales of qualifying stablecoins.
+
+(*1*) In general.
+
+(*2*) Non-qualifying events.
+
+(ii) Applicable threshold for sales by processors of digital asset payments.
 
 § 31.3406(b)(3)-3 Reportable payments by certain fishing boat operators.
 
@@ -428,7 +440,13 @@ This section lists paragraphs contained in §§ 31.3406(a)-1 through 31.3406(i)-
 
 (e) Certain reportable payments made outside the United States by foreign persons, foreign offices of United States banks and brokers, and others.
 
-(f) Special rule for certain payment card transactions.
+(1) Reportable payments other than gross proceeds from sales of digital assets.
+
+(2) Reportable payments of gross proceeds from sales of digital assets.
+
+(i)-(ii) [Reserved]
+
+(f) Applicability date.
 
 § 31.3406(g)-2 Exception for reportable payments for which backup withholding is otherwise required.
 
@@ -564,4 +582,4 @@ This section lists paragraphs contained in §§ 31.3406(a)-1 through 31.3406(i)-
 
 (h) Cross references.
 
-§ 31.3406(i)-1 Effective date.[T.D. 8637, 60 FR 66112, Dec. 21, 1995, as amended by T.D. 8734, 62 FR 53493, Oct. 14, 1997; T.D. 9010, 67 FR 48759, July 26, 2002; T.D. 9496, 75 FR 49834, Aug. 16, 2010; T.D. 9824, 82 FR 44929, Sept. 27, 2017]
+§ 31.3406(i)-1 Effective date.[T.D. 8637, 60 FR 66112, Dec. 21, 1995, as amended by T.D. 8734, 62 FR 53493, Oct. 14, 1997; T.D. 9010, 67 FR 48759, July 26, 2002; T.D. 9496, 75 FR 49834, Aug. 16, 2010; T.D. 9824, 82 FR 44929, Sept. 27, 2017; T.D. 10000, 89 FR 56582, July 9, 2024]

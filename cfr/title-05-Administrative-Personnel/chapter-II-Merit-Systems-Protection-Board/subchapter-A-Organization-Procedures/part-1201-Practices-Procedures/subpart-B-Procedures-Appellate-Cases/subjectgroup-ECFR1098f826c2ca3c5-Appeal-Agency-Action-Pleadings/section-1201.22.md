@@ -1,5 +1,7 @@
 ##### § 1201.22 Filing an appeal and responses to appeals. #####
 
+Link to an amendment published at 89 FR 72961, Sept. 9, 2024.
+
 (a) *Place of filing.* Appeals, and responses to those appeals, must be filed with the appropriate Board regional or field office. See § 1201.4(d) of this part.
 
 (b) *Time of filing.* (1) Except as provided in paragraph (b)(2) of this section, an appeal must be filed no later than 30 days after the effective date, if any, of the action being appealed, or 30 days after the date of the appellant's receipt of the agency's decision, whichever is later. Where an appellant and an agency mutually agree in writing to attempt to resolve their dispute through an alternative dispute resolution process prior to the timely filing of an appeal, however, the time limit for filing the appeal is extended by an additional 30 days—for a total of 60 days. A response to an appeal must be filed within 20 days of the date of the Board's acknowledgment order. The time for filing a submission under this section is computed in accordance with § 1201.23 of this part.

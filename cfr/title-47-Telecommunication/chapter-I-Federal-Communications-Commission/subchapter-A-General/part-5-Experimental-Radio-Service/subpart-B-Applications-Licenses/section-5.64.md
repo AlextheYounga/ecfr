@@ -1,7 +1,5 @@
 ##### § 5.64 Special provisions for satellite systems. #####
 
-Link to an amendment published at 89 FR 65223, Aug. 9, 2024.
-
 (a) Construction of proposed experimental satellite facilities may begin prior to Commission grant of an authorization. Such construction is entirely at the applicant's risk and does not entitle the applicant to any assurances that its proposed experiment will be subsequently approved or regular services subsequently authorized. The applicant must notify the Commission's Office of Engineering and Technology in writing that it plans to begin construction at its own risk.
 
 (b) Except where the satellite system has already been authorized by the FCC, applicants for an experimental authorization involving a satellite system must submit a description of the design and operational strategies the satellite system will use to mitigate orbital debris, including the following information:
@@ -48,7 +46,7 @@ Link to an amendment published at 89 FR 65223, Aug. 9, 2024.
 
 (iv) For all NGSO space stations under paragraph (b)(7)(ii) or (iii) of this section, the following additional specific provisions apply:
 
-(A) The statement must include a demonstration that the probability of success of the chosen disposal method will be 0.9 or greater for any individual space station. For space station systems consisting of multiple space stations, the demonstration should include additional information regarding efforts to achieve a higher probability of success, with a goal, for large systems, of a probability of success for any individual space station of 0.99 or better. For space stations under paragraph (b)(7)(ii) of this section that will be terminating operations in or passing through low-Earth orbit, successful disposal is defined as atmospheric re-entry of the spacecraft within 25 years or less following completion of the mission. For space stations under paragraph (b)(7)(iii) of this section, successful disposal will be assessed on a case-by-case basis.
+(A) The statement must include a demonstration that the probability of success of the chosen disposal method will be 0.9 or greater for any individual space station. For space station systems consisting of multiple space stations, the demonstration should include additional information regarding efforts to achieve a higher probability of success, with a goal, for large systems, of a probability of success for any individual space station of 0.99 or better. For space stations under paragraph (b)(7)(ii) of this section that will be terminating operations in or passing through the low-Earth orbit region below 2000 km altitude, successful disposal is defined, for the purposes of this paragraph (b)(7)(iv)(A), as atmospheric re-entry of the spacecraft as soon as practicable, but no later than five years following completion of the mission. For space stations under paragraph (b)(7)(iii) of this section, successful disposal will be assessed on a case-by-case basis.
 
 (B) If planned disposal is by atmospheric re-entry, the statement must also include:
 
@@ -56,4 +54,4 @@ Link to an amendment published at 89 FR 65223, Aug. 9, 2024.
 
 (*2*) An assessment as to whether portions of any individual spacecraft will survive atmospheric re-entry and impact the surface of the Earth with a kinetic energy in excess of 15 joules, and demonstration that the calculated casualty risk for an individual spacecraft using the NASA Debris Assessment Software or a higher fidelity assessment tool is less than 0.0001 (1 in 10,000).
 
-[78 FR 25162, Apr. 29, 2013, as amended at 85 FR 52449, Aug. 25, 2020; 86 FR 52101, Sept. 20, 2021]
+[78 FR 25162, Apr. 29, 2013, as amended at 85 FR 52449, Aug. 25, 2020; 86 FR 52101, Sept. 20, 2021; 89 FR 65223, Aug. 9, 2024]

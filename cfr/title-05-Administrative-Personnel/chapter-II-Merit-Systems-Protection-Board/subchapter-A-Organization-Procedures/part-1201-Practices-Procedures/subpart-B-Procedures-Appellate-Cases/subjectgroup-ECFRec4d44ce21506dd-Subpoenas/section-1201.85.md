@@ -1,5 +1,7 @@
 ##### § 1201.85 Enforcing subpoenas. #####
 
+Link to an amendment published at 89 FR 72962, Sept. 9, 2024.
+
 (a) If a person who has been served with a Board subpoena fails or refuses to comply with its terms, the party seeking compliance may file a written motion for enforcement with the judge or make an oral motion for enforcement while on the record at a hearing. That party must present the document certifying that the subpoena was served and, except where the witness was required to appear before the judge, must submit an affidavit or sworn statement under 28 U.S.C. 1746 (see appendix IV) describing the failure or refusal to obey the subpoena. The Board, in accordance with 5 U.S.C. 1204(c), may then ask the appropriate United States district court to enforce the subpoena. If the person who has failed or refused to comply with a Board subpoena is located in a foreign country, the U.S. District Court for the District of Columbia will have jurisdiction to enforce compliance, to the extent that a U.S. court can assert jurisdiction over an individual in the foreign country.
 
 (b) Upon application by the Special Counsel, the Board may seek court enforcement of a subpoena issued by the Special Counsel in the same manner in which it seeks enforcement of Board subpoenas, in accordance with 5 U.S.C. 1212(b)(3).

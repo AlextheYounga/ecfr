@@ -1,5 +1,7 @@
 ##### § 1201.81 Requests for subpoenas. #####
 
+Link to an amendment published at 89 FR 72962, Sept. 9, 2024.
+
 (a) *Request.* Parties who wish to obtain subpoenas that would require the attendance and testimony of witnesses, or subpoenas that would require the production of documents or other evidence under 5 U.S.C. 1204(b)(2)(A), should file their motions for those subpoenas with the judge. The Board has authority under 5 U.S.C. 1204(b)(2)(A) to issue a subpoena requiring the attendance and testimony of any individual regardless of location and for the production of documentary or other evidence from any place in the United States, any territory or possession of the United States, the Commonwealth of Puerto Rico or the District of Columbia. Subpoenas are not ordinarily required to obtain the attendance of Federal employees as witnesses.
 
 (b) *Form.* Parties requesting subpoenas must file their requests, in writing, with the judge. Each request must identify specifically the books, papers, or testimony desired.

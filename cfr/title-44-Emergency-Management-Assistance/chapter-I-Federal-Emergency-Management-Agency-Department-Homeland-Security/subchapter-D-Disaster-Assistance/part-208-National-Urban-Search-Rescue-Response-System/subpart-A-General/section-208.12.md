@@ -18,7 +18,7 @@
 
 (3) *Review and update.* DHS will review and update the Table periodically, at least annually. The comments of Sponsoring and Participating Agencies and their experience with the Table will be considered and evaluated in the course of the reviews.
 
-(4) *Initial rates and subsequent revisions.* DHS will publish the initial maximum pay rate table in the Federal Register as a notice with request for comments. Subsequent revisions will be made to the pay rate table as OPM changes salary rates as described in this section. When subsequent revisions are made to the maximum pay rate table DHS will publish the new maximum pay rate table in the Federal Register. The rates will be effective for the latest year indicated by OPM.1
+(4) *Initial rates and subsequent revisions.* DHS will publish the initial maximum pay rate table in the Federal Register as a notice with request for comments. Subsequent revisions will be made to the pay rate table as OPM changes salary rates as described in this section. When subsequent revisions are made to the maximum pay rate table DHS will publish the new maximum pay rate table in the Federal Register. The rates will be effective for the latest year indicated by OPM. 1
 
 1 In some years the latest year may not be the current calendar year. For instance, OPM did not change its pay rates for calendar year 2004, and the 2003 schedules apply.
 

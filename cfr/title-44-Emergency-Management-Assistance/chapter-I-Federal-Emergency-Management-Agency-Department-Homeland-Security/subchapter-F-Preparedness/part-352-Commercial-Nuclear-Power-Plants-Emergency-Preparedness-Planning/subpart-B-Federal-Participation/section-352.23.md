@@ -4,7 +4,7 @@
 
 (b) Prior to a determination under subpart A (44 CFR 352.6(d)) that Federal facilities and resources are needed, the designated RAC for the specific site will assist the licensee, as necessary, in evaluating the need for Federal facilities and resources, in addition to providing technical assistance under § 352.23(a).
 
-(c) In accomplishing the foregoing, the RAC will use the standards and evaluation criteria in NUREG-0654/FEMA-REP-1, Rev. 1 and Supp. 1.1 or approved alternative approaches, and RAC members shall render such technical assistance as appropriate to their agency mission and expertise.
+(c) In accomplishing the foregoing, the RAC will use the standards and evaluation criteria in NUREG-0654/FEMA-REP-1, Rev. 1 and Supp. 1. 1 or approved alternative approaches, and RAC members shall render such technical assistance as appropriate to their agency mission and expertise.
 
 1 Copy available from FEMA Distribution Center, P.O. Box 70274 Washington, DC 20024
 

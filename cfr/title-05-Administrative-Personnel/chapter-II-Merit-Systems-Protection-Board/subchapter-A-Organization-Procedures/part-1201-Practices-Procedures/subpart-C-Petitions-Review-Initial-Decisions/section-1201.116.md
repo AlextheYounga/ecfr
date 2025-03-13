@@ -1,5 +1,7 @@
 ##### § 1201.116 Compliance with orders for interim relief. #####
 
+Link to an amendment published at 89 FR 72963, Sept. 9, 2024.
+
 (a) *Certification of compliance.* If the appellant was the prevailing party in the initial decision and the decision granted the appellant interim relief, any petition or cross petition for review filed by the agency must be accompanied by a certification that the agency has complied with the interim relief order either by providing the required interim relief or by satisfying the requirements of 5 U.S.C. 7701(b)(2)(A)(ii) and (B).
 
 (b) *Challenge to certification.* If the appellant challenges the agency's certification of compliance with the interim relief order, the Board will issue an order affording the agency the opportunity to submit evidence of its compliance. The appellant may respond to the agency's submission of evidence within 10 days after the date of service of the submission.

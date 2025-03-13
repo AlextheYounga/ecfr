@@ -1,5 +1,7 @@
 ##### § 1201.117 Board decisions; procedures for review or reopening. #####
 
+Link to an amendment published at 89 FR 72964, Sept. 9, 2024.
+
 (a) In any case that is reopened or reviewed, the Board may:
 
 (1) Issue a decision that decides the case;

@@ -1,7 +1,5 @@
 ##### § 9.12 Final public notice. #####
 
-Link to an amendment published at 89 FR 57045, July 11, 2024.
-
 If the Agency decides to take an action in or affecting a floodplain or wetland, it shall provide the public with a statement of its final decision and shall explain the relevant factors considered by the Agency in making this determination.
 
 (a) In addition, those sent notices under § 9.8 shall also be provided the final notice.
@@ -18,21 +16,21 @@ If any of these situations develop, the Agency shall prepare a separate final no
 
 (c) For actions for which an environmental assessment was prepared, the Notice of No Significant Impact is adequate to constitute final public notice, if it includes the information required under paragraph (e) of this section.
 
-(d) For all other actions, the finding shall be made in a document separate from those described in paragraphs (a), (b), and (c) of this section. Based on an assessment of the following factors, the requirement for final notice may be met in a cumulative manner:
+(d)(1) For all other actions, the finding shall be made in a document separate from those described in paragraphs (a), (b), and (c) of this section. Based on an assessment of the following factors, the requirement for final notice may be met in a cumulative manner:
 
-(1) Scale of the action;
+(i) Scale of the action;
 
-(2) Potential for controversy;
+(ii) Potential for controversy;
 
-(3) Degree of public need;
+(iii) Degree of public need;
 
-(4) Number of affected agencies and individuals;
+(iv) Number of affected agencies and individuals;
 
-(5) Its anticipated potential impact; and
+(v) Its anticipated potential impact; and
 
-(6) Similarity of the actions, i.e., to the extent that they are susceptible of common descriptions and assessments.
+(vi) Similarity of the actions, i.e., to the extent that they are susceptible of common descriptions and assessments.
 
-When a damaged structure or facility is already being repaired by the State or local government at the time of the Damage Survey Report, the requirements of Steps 2 and 7 (§§ 9.8 and 9.12) may be met by a single notice. Such notice shall contain all the information required by both sections.
+(2) When a damaged structure or facility is already being repaired by the State or local government at the time of the project application, the requirements of Steps 2 and 7 (§ 9.8 and this section) may be met by a single notice. Such notice shall contain all the information required by both sections.
 
 (e) The final notice shall include the following:
 
@@ -52,4 +50,4 @@ When a damaged structure or facility is already being repaired by the State or l
 
 (f) After providing the final notice, the Agency shall, without good cause shown, wait at least 15 days before carrying out the action.
 
-[45 FR 59526, Sept. 9, 1980, as amended at 48 FR 29318, June 24, 1983]
+[45 FR 59526, Sept. 9, 1980, as amended at 48 FR 29318, June 24, 1983; 89 FR 57045, July 11, 2024]

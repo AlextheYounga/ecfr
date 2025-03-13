@@ -1,6 +1,4 @@
-##### § 31.3406(b)(3)-2 Reportable barter exchanges and gross proceeds of sales of securities or commodities by brokers. #####
-
-Link to an amendment published at 89 FR 56582, July 9, 2024.
+##### § 31.3406(b)(3)-2 Reportable barter exchanges and gross proceeds of sales of securities, commodities, or digital assets by brokers. #####
 
 (a) *Transactions subject to backup withholding.* A payment of a kind, and to a payee, that any broker (as defined in section 6045(c) and § 1.6045-1(a)(1) of this chapter) or any barter exchange (as defined in section 6045(c) and § 1.6045-1(a)(4) of this chapter) is required to report under section 6045 is a reportable payment for purposes of section 3406. See § 31.6051-4 for the requirement to furnish a statement to the payee if tax is withheld under section 3406.
 
@@ -24,4 +22,14 @@ Link to an amendment published at 89 FR 56582, July 9, 2024.
 
 (5) *Fractional shares.* A broker is not required to withhold under section 3406 with respect to a sale of a fractional share of stock resulting in less than $20 of gross proceeds (as described in § 1.6045-1(c)(3)(x) of this chapter).
 
-[T.D. 8637, 60 FR 66118, Dec. 21, 1995, as amended by T.D. 9010, 67 FR 48760, July 26, 2002]
+(6) *Amount subject to backup withholding in the case of reporting under § 1.6045-1(d)(2)(i)(C) and (d)(10) of this chapter*—(i) *Optional reporting method for sales of qualifying stablecoins and specified nonfungible tokens*—(A) *In general.* The amount subject to withholding under section 3406 for a broker that reports sales of digital assets under the optional method for reporting qualifying stablecoins or specified nonfungible tokens under § 1.6045-1(d)(10) of this chapter is the amount of gross proceeds from designated sales of qualifying stablecoins as defined in § 1.6045-1(d)(10)(i)(C) of this chapter and sales of specified nonfungible tokens without regard to the amount which must be paid to the broker's customer before reporting is required.
+
+(B) *Backup withholding on non-designated sales of qualifying stablecoins*—(*1*) *In general.* A broker is not required to withhold under section 3406 on non-designated sales of qualifying stablecoins as defined under § 1.6045-1(d)(10)(i)(C) of this chapter.
+
+(*2*) *Non-qualifying events.* In the case of a digital asset that would satisfy the definition of a non-designated sale of a qualifying stablecoin as defined under § 1.6045-1(d)(10)(i)(C) of this chapter for a calendar year but for a non-qualifying event during that year, a broker is not required to withhold under section 3406 on such sale if it occurs no later than the end of the day that is 30 days after the first non-qualifying event with respect to such digital asset during such year. A *non-qualifying event* is the first date during a calendar year on which the digital asset no longer satisfies all three conditions described in § 1.6045-1(d)(10)(ii)(A) through (C) of this chapter to be a qualifying stablecoin. For purposes of this paragraph (b)(6)(i)(B)(*2*), the date on which a non-qualifying event has occurred with respect to a digital asset and the date that is no later than 30 days after such non-qualifying event must be determined using Coordinated Universal Time (UTC).
+
+(ii) *Applicable threshold for sales by processors of digital asset payments.* For purposes of determining the amount subject to withholding under section 3406, the amount subject to reporting under section 6045 is determined without regard to the minimum gross proceeds which must be paid to the customer under § 1.6045-1(d)(2)(i)(C) of this chapter before reporting is required.
+
+(c) *Applicability date.* This section applies to reportable payments made on or after January 1, 2025. For the rules applicable to reportable payments made prior to January 1, 2025, *see* § 31.3406(b)(3)-2 in effect and contained in 26 CFR part 1 revised April 1, 2024.
+
+[T.D. 8637, 60 FR 66118, Dec. 21, 1995, as amended by T.D. 9010, 67 FR 48760, July 26, 2002; T.D. 10000, 89 FR 56582, July 9, 2024]

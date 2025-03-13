@@ -1,8 +1,6 @@
 ##### § 9.8 Public notice requirements. #####
 
-Link to an amendment published at 89 FR 57042, July 11, 2024.
-
-(a) *Purpose.* The purpose of this section is to establish the initial notice procedures to be followed when proposing any action in or affecting floodplains or wetlands.
+(a) *Purpose.* This section establishes the initial notice procedures to be followed when the Agency proposes any action in or affecting floodplains or wetlands.
 
 (b) *General.* The Agency shall provide adequate information to enable the public to have impact on the decision outcome for all actions having potential to affect, adversely, or be affected by floodplains or wetlands that it proposes. To achieve this objective, the Agency shall:
 
@@ -12,11 +10,11 @@ Link to an amendment published at 89 FR 57042, July 11, 2024.
 
 (c) *Early public notice.* The Agency shall provide opportunity for public involvement in the decision-making process through the provision of public notice upon determining that the proposed action can be expected to affect or be affected by floodplains or wetlands. Whenever possible, notice shall precede major project site identification and analysis in order to preclude the foreclosure of options consistent with the Orders.
 
-(1) For an action for which an environmental impact statement is being prepared, the Notice of Intent to File an EIS is adequate to constitute the early public notice, if it includes the information required under paragraph (c)(5) of this section.
+(1) For an action for which an environmental impact statement is being prepared, the Notice of Intent to File an EIS constitutes the early public notice if it includes the information required under paragraph (c)(5) of this section.
 
-(2) For each action having national significance for which notice is being provided, the Agency shall use the Federal Register as the minimum means for notice, and shall provide notice by mail to national organizations reasonably expected to be interested in the action. The additional notices listed in paragraph (c)(4) of this section shall be used in accordance with the determination made under paragraph (c)(3) of this section.
+(2) For each action having national significance for which notice is being provided, the Agency at a minimum shall provide notice by publication in the Federal Register and shall provide notice by mail to national organizations reasonably expected to be interested in the action. The additional notices listed in paragraph (c)(4) of this section shall be used in accordance with the determination made under paragraph (c)(3) of this section.
 
-(3) The Agency shall base its determination of appropriate notices, adequate comment periods, and whether to issue cumulative notices (paragraphs (c)(4), (6) and (7) of this section) on factors which include, but are not limited to:
+(3) The Agency shall determine whether it has provided appropriate notices, adequate comment periods, and whether to issue cumulative notices (paragraphs (c)(4), (6), and (7) of this section) based on factors which include, but are not limited to:
 
 (i) Scale of the action;
 
@@ -26,39 +24,37 @@ Link to an amendment published at 89 FR 57042, July 11, 2024.
 
 (iv) Number of affected agencies and individuals; and
 
-(v) Its anticipated potential impact.
+(v) Anticipated potential impact of the action.
 
-(4) For each action having primarily local importance for which notice is being provided, notice shall be made in accordance with the criteria under paragraph (c)(3) of this section, and shall entail as appropriate:
+(4) For each action having primarily local importance for which notice is being provided, notice shall be made in accordance with the criteria under paragraph (c)(3) of this section, and shall include, as appropriate:
 
-(i) [Reserved]
+(i) Notice through the internet or another comparable method.
 
 (ii) Notice to Indian tribes when effects may occur on reservations.
 
 (iii) Information required in the affected State's public notice procedures for comparable actions.
 
-(iv) Publication in local newspapers (in papers of general circulation rather than legal papers).
+(iv) Publication in local newspapers.
 
-(v) Notice through other local media.
+(v) Notice through other local media including newsletters.
 
-(vi) Notice to potentially interested community organizations.
+(vi) Notice to potential interested community organizations.
 
-(vii) Publication in newsletters that may be expected to reach potentially interested persons.
+(vii) Direct mailing to owners and occupants of nearby or affected property.
 
-(viii) Direct mailing to owners and occupants of nearby or affected property.
+(viii) Posting of notice on and off site in the area where the action is to be located.
 
-(ix) Posting of notice on and off site in the area where the action is to be located.
+(ix) Public hearing.
 
-(x) Holding a public hearing.
+(5) The notice shall:
 
-(5) The notice shall include:
+(i) Describe the action, its purposes, and a statement of the intent to carry out an action affecting or affected by a floodplain or wetland;
 
-(i) A description of the action, its purpose and a statement of the intent to carry out an action affecting or affected by a floodplain or wetland;
+(ii) Based on the factors in paragraph (c)(3) of this section, include a map of the area and other identification of the floodplain and/or wetland areas which is of adequate scale and detail; alternatively, FEMA may state that such map is available for public inspection, including the location at which such map may be inspected and a telephone number to call for information or may provide a link to access the map online;
 
-(ii) Based on the factors in paragraph (c)(3) of this section, a map of the area or other indentification of the floodplain and/or wetland areas which is of adequate scale and detail so that the location is discernible; instead of publication of such map, FEMA may state that such map is available for public inspection, including the location at which such map may be inspected and a telephone number to call for information;
+(iii) Based on the factors in paragraph (c)(3) of this section, describe the type, extent, and degree of hazard involved and the floodplain or wetland values present; and
 
-(iii) Based on the factors in paragraph (c)(3) of this section, a description of the type, extent and degree of hazard involved and the floodplain or wetland values present; and
-
-(iv) Identification of the responsible official or organization for implementing the proposed action, and from whom further information can be obtained.
+(iv) Identify the responsible official or organization for implementing the proposed action, and from whom further information can be obtained.
 
 (6) The Agency shall provide for an adequate comment period.
 
@@ -66,4 +62,4 @@ Link to an amendment published at 89 FR 57042, July 11, 2024.
 
 (d) *Continuing public notice.* The Agency shall keep the public informed of the progress of the decision-making process through additional public notices at key points in the process. The preliminary information provided under paragraph (c)(5) of this section shall be augmented by the findings of the adverse effects of the proposed actions and steps necessary to mitigate them. This responsibility shall be performed for actions requiring the preparation of an EIS, and all other actions having the potential for major adverse impacts, or the potential for harm to the health and safety of the general public.
 
-[45 FR 59526, Sept. 9, 1980, as amended at 48 FR 29318, June 24, 1983]
+[45 FR 59526, Sept. 9, 1980, as amended at 48 FR 29318, June 24, 1983; 89 FR 57042, July 11, 2024]

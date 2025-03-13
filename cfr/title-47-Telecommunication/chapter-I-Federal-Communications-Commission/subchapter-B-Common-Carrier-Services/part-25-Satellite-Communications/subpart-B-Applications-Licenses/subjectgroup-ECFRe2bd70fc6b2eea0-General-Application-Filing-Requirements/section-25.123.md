@@ -1,7 +1,5 @@
 ##### § 25.123 Applications for streamlined small spacecraft authorization. #####
 
-Link to an amendment published at 85 FR 52452, Aug. 25, 2020.Link to an amendment published at 89 FR 65217, Aug. 9, 2024.
-
 (a) This section shall only apply to applicants for space stations that will operate beyond Earth's orbit and that are able to certify compliance with the certifications set forth in paragraph (b) of this section. For applicants seeking to be authorized under this section, a comprehensive proposal for Commission evaluation must be submitted for each space station in the proposed system on FCC Form 312, Main Form and Schedule S, as described in § 25.114(a) through (c), together with the certifications described in paragraph (b) of this section and the requirements described in paragraph (c) of this section.
 
 (b) Applicants filing for authorization under the streamlined procedure described in this section must include with their applications certifications that the following criteria will be met for all space stations to be operated under the license:
@@ -26,6 +24,8 @@ Link to an amendment published at 85 FR 52452, Aug. 25, 2020.Link to an amendmen
 
 (10) Each space station will have a mass of 500 kg or less, including any propellant.
 
+(11) Upon receipt of a space situational awareness conjunction warning, the operator will review and take all possible steps to assess the collision risk, and will mitigate the collision risk if necessary. As appropriate, steps to assess and mitigate the collision risk should include, but are not limited to: Contacting the operator of any active spacecraft involved in such a warning; sharing ephemeris data and other appropriate operational information with any such operator; and modifying space station attitude and/or operations.
+
 (c) Applicants must also provide the information specified in § 25.122(d) in narrative form.
 
-[85 FR 43734, July 20, 2020]
+[85 FR 43734, July 20, 2020, as amended at 85 FR 52452, Aug. 25, 2020; 89 FR 65217, Aug. 9, 2024]

@@ -62,7 +62,7 @@ Example 1 to paragraph (e)(1):A Department of Agriculture employee whose spouse 
 
 (2) Resulting from the employee's outside business or employment activities when it is clear that such benefits are based on the outside business or employment activities and have not been offered or enhanced because of the employee's official status;
 
-*Example 1 to paragraph (e)(2):* The members of an Army Corps of Engineers environmental advisory committee that meets six times per year are special Government employees. A member who has a consulting business may accept an invitation to a $50 dinner from a corporate client, an Army construction contractor, unless, for example, the invitation was extended in order to discuss the activities of the advisory committee.
+Example 1 to paragraph (e)(2):The members of an Army Corps of Engineers environmental advisory committee that meets six times per year are special Government employees. A member who has a consulting business may accept an invitation to a $50 dinner from a corporate client, an Army construction contractor, unless, for example, the invitation was extended in order to discuss the activities of the advisory committee.
 
 (3) Customarily provided by a prospective employer in connection with bona fide employment discussions. If the prospective employer has interests that could be affected by performance or nonperformance of the employee's duties, acceptance is permitted only if the employee first has complied with the recusal requirements of subpart F of this part applicable when seeking employment; or
 

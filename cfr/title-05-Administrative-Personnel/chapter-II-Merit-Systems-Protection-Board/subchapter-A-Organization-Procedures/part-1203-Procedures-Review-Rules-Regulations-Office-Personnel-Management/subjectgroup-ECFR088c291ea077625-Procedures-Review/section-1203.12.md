@@ -1,5 +1,7 @@
 ##### § 1203.12 Granting or denying the request for regulation review. #####
 
+Link to an amendment published at 89 FR 72966, Sept. 9, 2024.
+
 (a) The Board, in its sole discretion, may grant or deny an interested person's request for regulation review. It will grant a request for regulation review that the Special Counsel submits. It will not, however, review a regulation before its effective date.
 
 (b) After considering the request for regulation review, the Board will issue an order granting or denying the request in whole or in part. Orders in which the Board grants the request, in whole or in part, will identify the agency or agencies involved, if any. They also will include the following:

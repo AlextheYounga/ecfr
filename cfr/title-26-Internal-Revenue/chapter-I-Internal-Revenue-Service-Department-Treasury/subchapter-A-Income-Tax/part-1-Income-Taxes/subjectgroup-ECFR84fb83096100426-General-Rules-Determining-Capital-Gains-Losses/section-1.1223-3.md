@@ -64,14 +64,14 @@
 
 (i) *A, B,* and *C* form an equal partnership (*PRS*). In connection with the formation, *A* contributes $5,000 in cash and a capital asset (capital asset 1) with a fair market value of $5,000 and a basis of $2,000; *B* contributes $7,000 in cash and a capital asset (capital asset 2) with a fair market value of $3,000 and a basis of $3,000; and *C* contributes $10,000 in cash. At the time of the contribution, *A* had held the contributed property for two years. Six months later, when *A*'s basis in *PRS* is $7,000, A transfers one-half of *A*'s interest in *PRS* to *T* for $7,000 at a time when *PRS*'s balance sheet (reflecting a cash receipts and disbursements method of accounting) is as follows:
 
-|                      |   ASSETS   |       |
-|----------------------|------------|-------|
-|    Adjusted basis    |Market value|       |
-|         Cash         |  $22,000   |$22,000|
-|Unrealized Receivables|     0      | 6,000 |
-|   Capital Asset 1    |   2,000    | 5,000 |
-|    Capital Assets    |   5,000    |14,000 |
-|        Total         |   27,000   |42,000 |
+|                      |   ASSETS   |       |               |     |     |
+|----------------------|------------|-------|---------------|-----|-----|
+|    Adjusted basis    |Market value|       |               |     |     |
+|         Cash         |  $22,000   |$22,000|               |     |     |
+|Unrealized Receivables|     0      | 6,000 |               |     |     |
+|   Capital Asset 1    |   2,000    | 5,000 |Capital Asset 2|3,000|9,000|
+|    Capital Assets    |   5,000    |14,000 |               |     |     |
+|        Total         |   27,000   |42,000 |               |     |     |
 
 (ii) Although at the time of the transfer *A* has not held *A*'s interest in *PRS* for more than one year, 50 percent of the fair market value of *A*'s interest in *PRS* was received in exchange for a capital asset with a long-term holding period. Therefore, 50 percent of *A*'s interest in *PRS* has a long-term holding period.
 

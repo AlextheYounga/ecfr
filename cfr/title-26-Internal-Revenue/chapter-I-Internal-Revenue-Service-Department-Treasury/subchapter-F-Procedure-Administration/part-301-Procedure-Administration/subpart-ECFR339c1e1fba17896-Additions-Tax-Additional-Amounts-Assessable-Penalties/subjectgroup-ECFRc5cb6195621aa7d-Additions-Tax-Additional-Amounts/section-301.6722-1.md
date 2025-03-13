@@ -1,7 +1,5 @@
 ##### § 301.6722-1 Failure to furnish correct payee statements. #####
 
-Link to an amendment published at 89 FR 56583, July 9, 2024.
-
 (a) *Imposition of penalty*—(1) *General rule.* A penalty of $250 is imposed for each *payee statement* (as defined in section 6724(d)(2) and paragraph (e)(2) of this section) with respect to which a *failure* (as defined in section 6722(a) and paragraph (a)(2) of this section) occurs. No more than one penalty will be imposed under this paragraph (a) with respect to a single payee statement even though there may be more than one failure with respect to such statement. However, the penalty will apply to failures on composite substitute payee statements as though each type of payment and other required information were furnished on separate statements. A *composite substitute payee statement* is a single document created by a filer to reflect several types of payments made to the same payee. The total amount imposed on any person for all failures during any calendar year with respect to all payee statements will not exceed $3,000,000. *See* section 6722(e) and paragraph (c) of this section for higher penalties if a failure is due to intentional disregard of the requirement to furnish timely correct payee statements. *See* paragraph (d) of this section for a safe harbor exception for certain de minimis errors. *See* paragraph (f) of this section for inflation adjustments to penalty amounts. *See* § 301.6724-1(a)(1) for a waiver of the penalty for a failure that is due to reasonable cause.
 
 (2) *Failures subject to the penalty.* The failures to which section 6722(a) and paragraph (a)(1) of this section apply are—
@@ -157,7 +155,7 @@ Link to an amendment published at 89 FR 56583, July 9, 2024.
 
 (vii) Section 6044(e) (relating to returns regarding payments of patronage dividends, generally the recipient copy of Form 1099-PATR, “Taxable Distributions Received From Cooperatives”);
 
-(viii) Section 6045(b) or (d) (relating to returns of brokers, generally the recipient copy of Form 1099-B, “Proceeds From Broker and Barter Exchange Transactions,” for broker transactions; the transferor copy of Form 1099-S, “Proceeds From Real Estate Transactions,” for reporting proceeds from real estate transactions; and the recipient copy of Form 1099-MISC for certain substitute payments and payments to attorneys);
+(viii) Section 6045(a) or (d) (relating to returns of brokers, generally reported on Form 1099-B, *Proceeds From Broker and Barter Exchange Transactions,* for broker transactions not involving digital assets; Form 1099-DA, *Digital Asset Proceeds From Broker Transactions,* for broker transactions involving digital assets; Form 1099-S, *Proceeds From Real Estate Transactions,* for gross proceeds from the sale or exchange of real estate; and Form 1099-MISC, *Miscellaneous Income,* for certain substitute payments and payments to attorneys);
 
 (ix) Section 6045A (relating to information required in connection with transfers of covered securities to brokers);
 
@@ -225,6 +223,6 @@ Link to an amendment published at 89 FR 56583, July 9, 2024.
 
 (f) *Adjustment for inflation.* Each of the dollar amounts under paragraphs (a), (b), and (c) of this section and paragraphs (a), (b), (d)(1), and (e) of section 6722 will be adjusted for inflation pursuant to section 6722(f).
 
-(g) *Applicability date.* This section applies with respect to payee statements required to be furnished on or after January 1, 2024. *See* 26 CFR 301.6722-1, as revised April 1, 2023, for rules applicable prior to January 1, 2024.
+(g) *Applicability date.* This section applies with respect to payee statements required to be furnished on or after January 1, 2024. *See* 26 CFR 301.6722-1, as revised April 1, 2023, for rules applicable prior to January 1, 2024. Paragraph (e)(2)(viii) of this section applies to payee statements required to be furnished on or after January 1, 2026.
 
-[T.D. 8386, 56 FR 67182, Dec. 30, 1991, as amended by T.D. 9394, 73 FR 23086, Apr. 29, 2008; T.D. 9496, 75 FR 49836, Aug. 16, 2010; T.D. 9504, 75 FR 64104, Oct. 18, 2010; T.D. 9660, 79 FR 13231, Mar. 10, 2014; T.D. 9984, 88 FR 87705, Dec. 19, 2023]
+[T.D. 8386, 56 FR 67182, Dec. 30, 1991, as amended by T.D. 9394, 73 FR 23086, Apr. 29, 2008; T.D. 9496, 75 FR 49836, Aug. 16, 2010; T.D. 9504, 75 FR 64104, Oct. 18, 2010; T.D. 9660, 79 FR 13231, Mar. 10, 2014; T.D. 9984, 88 FR 87705, Dec. 19, 2023; T.D. 10000, 89 FR 56583, July 9, 2024]

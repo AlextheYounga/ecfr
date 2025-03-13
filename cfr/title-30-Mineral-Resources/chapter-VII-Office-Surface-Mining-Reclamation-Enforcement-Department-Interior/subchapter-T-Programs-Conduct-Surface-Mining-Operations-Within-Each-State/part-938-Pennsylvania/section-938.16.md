@@ -1,7 +1,5 @@
 ##### § 938.16 Required regulatory program amendments. #####
 
-Link to an amendment published at 89 FR 64801, Aug. 8, 2024.
-
 Pursuant to 30 CFR 732.17, Pennsylvania is required to submit the following proposed program amendments by the dates specified.
 
 (a)-(e) [Reserved]
@@ -64,9 +62,7 @@ Pursuant to 30 CFR 732.17, Pennsylvania is required to submit the following prop
 
 (ppp) By January 6, 1998, Pennsylvania shall submit a proposed amendment to section 86.5(m), or otherwise amend its program, to provide for notification of the operator and any intervenors of a decision not to revoke an exemption.
 
-(qqq) [Reserved]
-
-(rrr) By January 6, 1998, Pennsylvania shall submit a proposed amendment to subsections 87.108(c), 89.24(c), and 90.108(c), or otherwise amend its program, to require, without exception, that sedimentation ponds cannot be removed sooner than two years after the last augmented seeding.
+(qqq)-(rrr) [Reserved]
 
 (sss) By January 6, 1998, Pennsylvania shall submit proposed amendments to subsections 88.105(c), 88.201(c) and 88.305(c), or otherwise amend its program, to require additional hydrologic testing whenever the PHC determination indicates that adverse impacts may occur to the hydrologic balance, or that acid-forming or toxic-forming material is present that may result in the contamination of surface or ground water supplies.
 

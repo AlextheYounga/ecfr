@@ -1,5 +1,7 @@
 ##### § 1201.73 Discovery procedures. #####
 
+Link to an amendment published at 89 FR 72961, Sept. 9, 2024.
+
 (a) *Initiating discovery.* A party seeking discovery must start the process by serving a request for discovery on the representative of the party or nonparty, or, if there is no representative, on the party or nonparty themselves. The request for discovery must state the time limit for responding, as prescribed in 1201.73(d) of this part, and must specify the time and place of the taking of the deposition, if applicable. When a party directs a request for discovery to the official or employee of a Federal agency that is a party, the agency must make the officer or employee available on official time to respond to the request and must assist the officer or employee as necessary in providing relevant information that is available to the agency.
 
 (b) *Responses to discovery requests.* A party or nonparty must answer a discovery request within the time provided under paragraph (d)(2) of this section, either by furnishing to the requesting party the information requested or agreeing to make deponents available to testify within a reasonable time, or by stating an objection to the particular request and the reasons for the objection. Parties and nonparties may respond to discovery requests by electronic mail if authorized by the requesting party.

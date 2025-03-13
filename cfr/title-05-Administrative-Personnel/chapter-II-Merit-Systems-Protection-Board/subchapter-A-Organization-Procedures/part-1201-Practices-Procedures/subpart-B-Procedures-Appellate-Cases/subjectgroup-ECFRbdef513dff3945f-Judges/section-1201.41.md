@@ -1,5 +1,7 @@
 ##### § 1201.41 Judges. #####
 
+Link to an amendment published at 89 FR 72961, Sept. 9, 2024.
+
 (a) *Exercise of authority.* Judges may exercise authority as provided in paragraphs (b) and (c) of this section on their own motion or on the motion of a party, as appropriate.
 
 (b) *Authority.* Judges will conduct fair and impartial hearings and will issue timely and clear decisions based on statutes and legal precedents. They will have all powers necessary to that end unless those powers are otherwise limited by law. Judges' powers include, but are not limited to, the authority to:

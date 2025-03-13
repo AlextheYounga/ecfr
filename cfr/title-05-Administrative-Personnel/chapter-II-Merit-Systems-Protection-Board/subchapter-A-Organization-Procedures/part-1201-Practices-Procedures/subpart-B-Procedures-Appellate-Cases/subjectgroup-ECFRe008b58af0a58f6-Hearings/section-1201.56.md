@@ -1,5 +1,7 @@
 ##### § 1201.56 Burden and degree of proof. #####
 
+Link to an amendment published at 89 FR 72961, Sept. 9, 2024.
+
 (a) *Applicability.* This section does not apply to the following types of appeals which are covered by § 1201.57:
 
 (1) An individual right of action appeal under the Whistleblower Protection Act, 5 U.S.C. 1221;

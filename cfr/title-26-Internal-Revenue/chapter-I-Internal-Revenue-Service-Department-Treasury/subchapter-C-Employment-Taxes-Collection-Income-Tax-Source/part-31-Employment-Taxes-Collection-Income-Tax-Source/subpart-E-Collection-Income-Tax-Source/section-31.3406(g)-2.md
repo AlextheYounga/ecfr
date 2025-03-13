@@ -1,7 +1,5 @@
 ##### § 31.3406(g)-2 Exception for reportable payment for which withholding is otherwise required. #####
 
-Link to an amendment published at 89 FR 56583, July 9, 2024.
-
 (a) *In general.* A payor of a reportable payment (as defined in section 3406(b)) must not withhold under section 3406 if the payment is subject to withholding under any other provision of the Internal Revenue Code.
 
 (b) *Payment of wages.* A payor who is required to make an information return under section 6041 with respect to a payment of wages (as defined in section 3401) because, e.g., the employee makes a certification under section 3402(n) (relating to employees incurring no income tax liability), must not withhold under section 3406 on those wages.
@@ -26,12 +24,12 @@ Link to an amendment published at 89 FR 56583, July 9, 2024.
 
 (3) *Special rules.* For special rules for determining the amount of the wager in a wagering transaction with respect to horse racing, dog racing, and jai alai, or amounts paid with respect to identical wagers, see § 31.3402(q)-1(c).
 
-(e) *Certain real estate transactions.* A real estate reporting person (the so-called broker) as defined in section 6045(e)(2) must not withhold under section 3406 on a payment made with respect to a real estate transaction that is subject to reporting under sections 6045 (a) and (e) and § 1.6045-4 of this chapter.
+(e) *Certain real estate transactions.* A real estate reporting person (the so-called broker) as defined in section 6045(e)(2) must not withhold under section 3406 on a payment made with respect to a real estate transaction that is subject to reporting under sections 6045 (a) and (e) and § 1.6045-4 of this chapter. Notwith- standing the previous sentence, a real estate reporting person must withhold under section 3406 of the Code and pursuant to the rules under § 31.3406(b)(3)-2 on a reportable payment made in a real estate transaction with respect to a purchaser that exchanges digital assets for real estate to the extent that the exchange is treated as a sale of digital assets subject to reporting under § 1.6045-1 of this chapter.
 
 (f) *Certain payments after an acquisition of accounts or instruments.* A payor who acquires pre-1984 accounts or instruments described in § 31.3406(d)-1(b)(2)(iv) for which the payor does not have a taxpayer identification number or has an obviously incorrect taxpayer identification number as defined in § 31.3406(h)-1(b)(2) must start withholding under section 3406(a)(1)(A) and § 31.3406(d)-1 on those accounts or instruments no later than sixty days following the date of the payor's acquisition of those accounts or instruments.
 
 (g) *Certain gross proceeds.* No withholding under section 3406 is required with respect to any portion of the original issue discount on an instrument or security that is subject to withholding under section 3406 as reportable gross proceeds of such instrument or security under section 6045.
 
-(h) *Applicability date.* The rules apply to reportable gambling winnings paid with respect to a winning event that occurs after November 13, 2017. For rules that apply to payments made with respect to a winning event on or before that date, see § 31.3406(g)-2 as contained in 26 CFR part 31, revised April 1, 2017.
+(h) *Applicability date.* The rules apply to reportable gambling winnings paid with respect to a winning event that occurs after November 13, 2017. For rules that apply to payments made with respect to a winning event on or before that date, see § 31.3406(g)-2 as contained in 26 CFR part 31, revised April 1, 2017. For sales of digital assets, this section applies on or after January 1, 2026.
 
-[T.D. 8637, 60 FR 66128, Dec. 21, 1995, as amended by T.D. 9524, 76 FR 26601, May 9, 2011; T.D. 9586, 77 FR 24611, Apr. 25, 2012; T.D. 9807, 81 FR 96380, Dec. 30, 2016; T.D. 9824, 82 FR 44929, Sept. 27, 2017]
+[T.D. 8637, 60 FR 66128, Dec. 21, 1995, as amended by T.D. 9524, 76 FR 26601, May 9, 2011; T.D. 9586, 77 FR 24611, Apr. 25, 2012; T.D. 9807, 81 FR 96380, Dec. 30, 2016; T.D. 9824, 82 FR 44929, Sept. 27, 2017; 89 FR 56583, July 9, 2024]

@@ -1,5 +1,7 @@
 ##### § 1209.4 Definitions. #####
 
+Link to an amendment published at 89 FR 72966, Sept. 9, 2024.
+
 (a) *Personnel action* means, as to individuals and agencies covered by 5 U.S.C. 2302:
 
 (1) An appointment;

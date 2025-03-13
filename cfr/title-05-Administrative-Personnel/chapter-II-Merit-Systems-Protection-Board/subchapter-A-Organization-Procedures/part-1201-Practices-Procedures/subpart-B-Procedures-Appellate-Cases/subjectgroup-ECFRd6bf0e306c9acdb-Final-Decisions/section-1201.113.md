@@ -1,5 +1,7 @@
 ##### § 1201.113 Finality of decision. #####
 
+Link to an amendment published at 89 FR 72962, Sept. 9, 2024.
+
 The initial decision of the judge will become the Board's final decision 35 days after issuance. Initial decisions are not precedential.
 
 (a) *Exceptions.* The initial decision will not become the Board's final decision if within the time limit for filing specified in 1201.114 of this part, any party files a petition for review or, if no petition for review is filed, files a request that the initial decision be vacated for the purpose of accepting a settlement agreement into the record.

@@ -4,7 +4,7 @@
 
 (b) *Amount of loan.* The amount of the loan is based upon need, not to exceed 25 percent of the operating budget of the local government for the fiscal year in which the disaster occurs, but shall not exceed $5 million. The term *fiscal year* as used in this subpart means the local government's fiscal year.
 
-(c) *Interest rate.* The interest rate is the rate for five year maturities as determined by the Secretary of the Treasury in effect on the date that the Promissory Note is executed. This rate is from the monthly Treasury schedule of certified interest rates which takes into consideration the current average yields on outstanding marketable obligations of the United States, adjusted to the nearest1/8 percent.
+(c) *Interest rate.* The interest rate is the rate for five year maturities as determined by the Secretary of the Treasury in effect on the date that the Promissory Note is executed. This rate is from the monthly Treasury schedule of certified interest rates which takes into consideration the current average yields on outstanding marketable obligations of the United States, adjusted to the nearest 1/8 percent.
 
 (d) *Time limitation.* The Assistant Administrator for the Disaster Assistance Directorate may approve a loan in either the fiscal year in which the disaster occurred or the fiscal year immediately following that year. Only one loan may be approved under section 417(a) for any local government as the result of a single disaster.
 

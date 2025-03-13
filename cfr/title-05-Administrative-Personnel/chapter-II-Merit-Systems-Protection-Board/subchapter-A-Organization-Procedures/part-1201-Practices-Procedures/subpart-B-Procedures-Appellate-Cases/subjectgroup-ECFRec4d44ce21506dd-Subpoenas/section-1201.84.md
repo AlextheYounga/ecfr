@@ -1,5 +1,7 @@
 ##### § 1201.84 Proof of service. #####
 
+Link to an amendment published at 89 FR 72962, Sept. 9, 2024.
+
 The person who has served the subpoena must certify that he or she did so:
 
 (a) By delivering it to the witness in person,

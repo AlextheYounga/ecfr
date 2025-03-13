@@ -1,5 +1,7 @@
 ##### § 251.57 Land use fees. #####
 
+Link to an amendment published at 89 FR 72994, Sept. 9, 2024.
+
 (a) Except as otherwise provided in this part or when specifically authorized by the Secretary of Agriculture, special use authorizations shall require the payment in advance of an annual rental fee as determined by the authorized officer.
 
 (1) The fee shall be based on the fair market value of the rights and privileges authorized, as determined by appraisal or other sound business management principles.

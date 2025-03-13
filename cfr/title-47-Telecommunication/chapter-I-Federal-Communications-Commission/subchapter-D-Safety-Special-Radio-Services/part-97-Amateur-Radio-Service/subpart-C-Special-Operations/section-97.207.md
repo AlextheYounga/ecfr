@@ -1,7 +1,5 @@
 ##### § 97.207 Space station. #####
 
-Link to an amendment published at 89 FR 65223, Aug. 9, 2024.
-
 (a) Any amateur station may be a space station. A holder of any class operator license may be the control operator of a space station, subject to the privileges of the class of operator license held by the control operator.
 
 (b) A space station must be capable of effecting a cessation of transmissions by telecommand whenever such cessation is ordered by the FCC.
@@ -64,7 +62,7 @@ Link to an amendment published at 89 FR 65223, Aug. 9, 2024.
 
 (D) For all NGSO space stations under paragraph (g)(1)(vii)(B) or (C) of this section, the following additional specific provisions apply:
 
-(*1*) The statement must include a demonstration that the probability of success of the chosen disposal method will be 0.9 or greater for any individual space station. For space station systems consisting of multiple space stations, the demonstration should include additional information regarding efforts to achieve a higher probability of success, with a goal, for large systems, of a probability of success for any individual space station of 0.99 or better. For space stations under paragraph (g)(1)(vii)(B) of this section that will be terminating operations in or passing through low-Earth orbit, successful disposal is defined as atmospheric re-entry of the spacecraft within 25 years or less following completion of the mission. For space stations under paragraph (g)(1)(vii)(C) of this section, successful disposal will be assessed on a case-by-case basis.
+(*1*) The statement must include a demonstration that the probability of success of the chosen disposal method will be 0.9 or greater for any individual space station. For space station systems consisting of multiple space stations, the demonstration should include additional information regarding efforts to achieve a higher probability of success, with a goal, for large systems, of a probability of success for any individual space station of 0.99 or better. For space stations under paragraph (g)(1)(vii)(B) of this section that will be terminating operations in or passing through the low-Earth orbit region below 2000 km altitude, successful disposal, for the purposes of this paragraph (g)(1)(vii)(D)(*1*), is defined as atmospheric re-entry of the spacecraft as soon as practicable, but no later than five years following completion of the mission. For space stations under paragraph (g)(1)(vii)(C) of this section, successful disposal will be assessed on a case-by-case basis.
 
 (*2*) If planned disposal is by atmospheric re-entry, the statement must also include:
 
@@ -78,4 +76,4 @@ Link to an amendment published at 89 FR 65223, Aug. 9, 2024.
 
 (3) A post-space station notification is required no later than 3 months after termination of the space station transmissions. When termination of transmissions is ordered by the FCC, the notification is required no later than 24 hours after termination of transmissions.
 
-[54 FR 25857, June 20, 1989, as amended at 54 FR 39535, Sept. 27, 1989; 56 FR 56171, Nov. 1, 1991; 57 FR 32736, July 23, 1992; 60 FR 50124, Sept. 28, 1995; 63 FR 68980, Dec. 14, 1998; 69 FR 54588, Sept. 9, 2004; 71 FR 66462, Nov. 15, 2006; 75 FR 27201, May 14, 2010; 85 FR 52453, Aug. 25, 2020; 85 FR 64068, Oct. 9, 2020; 88 FR 21451, Apr. 10, 2023]
+[54 FR 25857, June 20, 1989, as amended at 54 FR 39535, Sept. 27, 1989; 56 FR 56171, Nov. 1, 1991; 57 FR 32736, July 23, 1992; 60 FR 50124, Sept. 28, 1995; 63 FR 68980, Dec. 14, 1998; 69 FR 54588, Sept. 9, 2004; 71 FR 66462, Nov. 15, 2006; 75 FR 27201, May 14, 2010; 85 FR 52453, Aug. 25, 2020; 85 FR 64068, Oct. 9, 2020; 88 FR 21451, Apr. 10, 2023; 89 FR 65223, Aug. 9, 2024]

@@ -1,5 +1,7 @@
 ##### § 1201.204 Proceedings for consequential, liquidated, or compensatory damages. #####
 
+Link to an amendment published at 89 FR 72965, Sept. 9, 2024.
+
 (a) *Time for making request.* (1) A request for consequential, liquidated, or compensatory damages must be made during the proceeding on the merits, no later than the end of the conference(s) held to define the issues in the case.
 
 (2) The judge or the Board, as applicable, may waive the time limit for making a request for consequential, liquidated, or compensatory damages for good cause shown. The time limit will not be waived if a party shows that such waiver would result in undue prejudice.

@@ -1,7 +1,5 @@
 ##### § 25.122 Applications for streamlined small space station authorization. #####
 
-Link to an amendment published at 85 FR 52452, Aug. 25, 2020.Link to an amendment published at 89 FR 65217, Aug. 9, 2024.
-
 (a) This section shall only apply to applicants for NGSO systems that are able to certify compliance with the certifications set forth in paragraph (c) of this section. For applicants seeking to be authorized under this section, a comprehensive proposal for Commission evaluation must be submitted for each space station in the proposed system on FCC Form 312, Main Form and Schedule S, as described in § 25.114(a) through (c), together with the certifications described in paragraph (c) of this section and the narrative requirements described in paragraph (d) of this section.
 
 (b) Applications for NGSO systems may be filed under this section, provided that the total number of space stations requested in the application is ten or fewer.
@@ -36,9 +34,13 @@ Link to an amendment published at 85 FR 52452, Aug. 25, 2020.Link to an amendmen
 
 (10) The space station(s) can be commanded by command originating from the ground to immediately cease transmissions and the licensee will have the capability to eliminate harmful interference when required under the terms of the license or other applicable regulations;
 
-(11) Each space station is 10 cm or larger in its smallest dimension; and
+(11) Each space station is 10 cm or larger in its smallest dimension;
 
-(12) Each space station will have a mass of 180 kg or less, including any propellant.
+(12) Each space station will have a mass of 180 kg or less, including any propellant;
+
+(13) The probability that any individual space station will become a source of debris by collision with small debris or meteoroids that would cause loss of control and prevent disposal is 0.01 (1 in 100) or less; and
+
+(14) Upon receipt of a space situational awareness conjunction warning, the licensee or operator will review and take all possible steps to assess the collision risk, and will mitigate the collision risk if necessary. As appropriate, steps to assess and mitigate the collision risk should include, but are not limited to: Contacting the operator of any active spacecraft involved in such a warning; sharing ephemeris data and other appropriate operational information with any such operator; and modifying space station attitude and/or operations.
 
 (d) The following information in narrative form shall be contained in each application:
 
@@ -48,10 +50,18 @@ Link to an amendment published at 85 FR 52452, Aug. 25, 2020.Link to an amendmen
 
 (3) A description of means by which requested spectrum could be shared with both current and future operators, (*e.g.,* how ephemeris data will be shared, antenna design, earth station geographic locations) thereby not materially constraining other operations in the requested frequency band(s);
 
-(4) For space stations with any means of maneuverability, including both active and passive means, a description of the design and operation of maneuverability and deorbit systems, and a description of the anticipated evolution over time of the orbit of the proposed satellite or satellites; and
+(4) If at any time during the space station(s)' mission or de-orbit phase the space station(s) will transit through the orbits used by any inhabitable spacecraft, including the International Space Station, a description of the design and operational strategies, if any, that will be used to minimize the risk of collision and avoid posing any operational constraints to the inhabitable spacecraft shall be furnished at the time of application;
 
-(5) In any instances where spacecraft capable of having crew aboard will be located at or below the deployment orbital altitude of the space station seeking a license, a description of the design and operational strategies that will be used to avoid in-orbit collision with such crewed spacecraft shall be furnished at time of application. This narrative requirement will not apply to space stations that will operate beyond Earth's orbit.
+(5) A statement identifying characteristics of the space station(s)' orbits that may present a collision risk, including any planned and/or operational space stations in those orbits, and indicating what steps, if any, have been taken to coordinate with the other spacecraft or system, or what other measures the licensee plans to use to avoid collision;
 
-(6) A list of the FCC file numbers or call signs for any known applications or Commission grants related to the proposed operations (*e.g.,* experimental license grants, other space station or earth station applications or grants).
+(6) A statement disclosing how the licensee or operator plans to identify the space station(s) following deployment and whether space station tracking will be active or passive; whether the space station(s) will be registered with the 18th Space Control Squadron or successor entity prior to deployment; and the extent to which the space station licensee or operator plans to share information regarding initial deployment, ephemeris, and/or planned maneuvers with the 18th Space Control Squadron or successor entity, other entities that engage in space situational awareness or space traffic management functions, and/or other operators;
 
-[85 FR 43734, July 20, 2020]
+(7) A description of the design and operation of maneuverability and deorbit systems, if any, and a description of the anticipated evolution over time of the orbit of the proposed satellite or satellites;
+
+(8) If there are planned proximity operations, a statement disclosing those planned operations, and addressing debris generation that will or may result from the proposed operations, including any planned release of debris, the risk of accidental explosions, the risk of accidental collision, and measures taken to mitigate those risks;
+
+(9) A demonstration that the probability of success of disposal is 0.9 or greater for any individual space station. Space stations deployed to orbits in which atmospheric drag will, in the event of a space station failure, limit the lifetime of the space station to less than 25 years do not need to provide this additional demonstration; and
+
+(10) A list of the FCC file numbers or call signs for any known applications or Commission grants related to the proposed operations (*e.g.,* experimental license grants, other space station or earth station applications or grants).
+
+[85 FR 43734, July 20, 2020, as amended at 85 FR 52452, Aug. 25, 2020; 89 FR 65217, Aug. 9, 2024]

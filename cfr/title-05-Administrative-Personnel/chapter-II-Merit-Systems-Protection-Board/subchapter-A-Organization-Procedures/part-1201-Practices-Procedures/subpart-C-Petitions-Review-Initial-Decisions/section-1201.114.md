@@ -1,5 +1,7 @@
 ##### § 1201.114 Petition and cross petition for review—content and procedure. #####
 
+Link to an amendment published at 89 FR 72962, Sept. 9, 2024.
+
 (a) *Pleadings allowed.* Pleadings allowed on review include a petition for review, a cross petition for review, a response to a petition for review, a response to a cross petition for review, and a reply to a response to a petition for review.
 
 (1) A petition for review is a pleading in which a party contends that an initial decision was incorrectly decided in whole or in part.

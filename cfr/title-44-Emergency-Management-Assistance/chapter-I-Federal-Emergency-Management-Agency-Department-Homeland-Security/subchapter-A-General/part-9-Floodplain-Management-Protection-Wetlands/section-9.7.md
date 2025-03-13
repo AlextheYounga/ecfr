@@ -1,10 +1,16 @@
 ##### § 9.7 Determination of proposed action's location. #####
 
-Link to an amendment published at 89 FR 57042, July 11, 2024.
+(a) *Purpose.* This section establishes Agency procedures for determining whether any action as proposed is located in or affects a floodplain established in paragraph (c) of this section or a wetland.
 
-(a) The purpose of this section is to establish Agency procedures for determining whether any action as proposed is located in or affects (1) the base floodplain (the Agency shall substitute the 500-year floodplain for the base floodplain where the action being proposed involves a critical action), or (2) a wetland.
+(b) *Information needed.* (1) The Agency shall obtain enough information so that it can fulfill the requirements in this part to:
 
-(b) *Information needed.* The Agency shall obtain enough information so that it can fulfill the requirements of the Orders to (1) avoid floodplain and wetland locations unless they are the only practicable alternatives; and (2) minimize harm to and within floodplains and wetlands. In all cases, FEMA shall determine whether the proposed action is located in a floodplain or wetland. In the absence of a finding to the contrary, FEMA may assume that a proposed action involving a facility or structure that has been flooded is in the floodplain. Information about the 100-year and 500-year floods and location of floodways and coastal high hazard areas may also be needed to comply with these regulations, especially § 9.11. The following additional flooding characteristics shall be identified by the Regional Administrator as appropriate:
+(i) Avoid Federal action in floodplain and wetland locations unless they are the only practicable alternatives; and
+
+(ii) Minimize harm to and within floodplains and wetlands.
+
+(2) In all cases, FEMA shall determine whether the proposed action is located in a floodplain or wetland. Information about the floodplain as established by paragraph (c) of this section and the location of floodways and coastal high hazard areas may also be needed to comply with this part, especially § 9.11.
+
+(3) The following additional current and future flooding characteristics may be identified by the Regional Administrator as applicable:
 
 (i) Velocity of floodwater;
 
@@ -36,17 +42,57 @@ Link to an amendment published at 89 FR 57042, July 11, 2024.
 
 (J) Mudflow.
 
-(c) *Floodplain determination.* (1) In the search for flood hazard information, FEMA shall follow the sequence below:
+(vi) Any other applicable flooding characteristics.
 
-(i) The Regional Administrator shall consult the FEMA Flood Insurance Rate Map (FIRM) the Flood Boundary Floodway Map (FBFM) and the Flood Insurance Study (FIS).
+(c) *Floodplain determination.* In the absence of a finding to the contrary, FEMA will determine that a proposed action involving a facility or structure that has been flooded previously is in the floodplain. In determining if a proposed action is in the floodplain:
 
-(ii) If a detailed map (FIRM or FBFM) is not available, the Regional Administrator shall consult an FEMA Flood Hazard Boundary Map (FHBM) . If data on flood elevations, floodways, or coastal high hazard areas are needed, or if the map does not delineate the flood hazard boundaries in the vicinity of the proposed site, the Regional Administrator shall seek the necessary detailed information and assistance from the sources listed below.
+(1) FEMA shall determine whether the action is an action subject to the FFRMS as defined in § 9.4.
 
-Sources of Maps and Technical InformationDepartment of Agriculture: Soil Conservation ServiceDepartment of the Army: Corps of EngineersDepartment of Commerce: National Oceanic and Atmospheric AdministrationFederal Insurance AdministrationFEMA Regional Offices/Natural and Technological Hazards DivisionDepartment of the Interior:Geological SurveyBureau of Land ManagementBureau of ReclamationTennessee Valley AuthorityDelaware River Basin CommissionSusquehanna River Basin CommissionStates
+(i) If the action is an action subject to the FFRMS, FEMA shall establish the FFRMS floodplain area and associated flood elevation by using the process specified in (c)(3) of this section and one of the following approaches:
 
-(iii) If the sources listed do not have or know of the information necessary to comply with the Orders' requirements, the Regional Administrator shall seek the services of a Federal or other engineer experienced in this type of work.
+(A) Climate-Informed Science Approach (CISA): Using a climate-informed science approach that uses the best-available, actionable hydrologic and hydraulic data and methods that integrate current and future changes in flooding based on climate science. This approach will also include an emphasis on whether the action is a critical action as one of the factors to be considered when conducting the analysis;
 
-(2) If a decision involves an area or location within extensive Federal or state holdings or a headwater area, and an FIS, FIRM, FBFM, or FHBM is not available, the Regional Administrator shall seek information from the land administering agency before information and/or assistance is sought from the sources listed in this section. If none of these sources has information or can provide assistance, the services of an experienced Federal or other engineer shall be sought as described above.
+(B) Freeboard Value Approach (FVA): Using the freeboard value, reached by adding an additional 2 feet to the base flood elevation for non-critical actions and by adding an additional 3 feet to the base flood elevation for critical actions;
+
+(C) 0.2-Percent-Annual-Chance Flood Approach (0.2PFA): The 0.2 percent annual chance flood; or
+
+(D) Any other method identified in an update to the FFRMS.
+
+(ii) FEMA may select among and prioritize the approaches in this paragraph (c)(1) by policy.
+
+(iii) FEMA may provide an exception to using the FFRMS floodplain and corresponding flood elevation for an action subject to the FFRMS and instead use the 1 percent annual chance (base) floodplain for non-critical actions or the 0.2 percent annual chance floodplain for critical actions where the action is in the interest of national security, where the action is an emergency action, or where the action is a mission-critical requirement related to a national security interest or an emergency action.
+
+(2) If the action is not an action subject to the FFRMS as defined in § 9.4, FEMA shall use, at a minimum:
+
+(i) The 1 percent annual chance (base) floodplain and flood elevation for non-critical actions; and
+
+(ii) The 0.2 percent annual chance floodplain and flood elevation for critical actions.
+
+(3) FEMA shall establish the floodplain and corresponding elevation using the best available information. The floodplain and corresponding elevation determined using the best available information must be at least as restrictive as FEMA's regulatory determinations under the NFIP where such determinations are available. In obtaining the best available information, FEMA may consider other FEMA information as well as other available information, such as information from:
+
+(i) Department of Agriculture: Natural Resources Conservation Service, U.S. Forest Service;
+
+(ii) Department of Defense: U.S. Army Corps of Engineers;
+
+(iii) Department of Commerce: National Oceanic and Atmospheric Administration;
+
+(iv) Department of the Interior: Bureau of Land Management, Bureau of Reclamation, National Park Service, U.S. Fish and Wildlife Service, United States Geological Survey;
+
+(v) Tennessee Valley Authority;
+
+(vi) Department of Transportation;
+
+(vii) Environmental Protection Agency;
+
+(viii) General Services Administration;
+
+(ix) Agencies of State, Regional, and Indian Tribal governments; or
+
+(x) Local sources such as Floodplain Administrators, Regional Flood Control Districts, or Transportation Departments.
+
+(4) If the sources listed in paragraph (c)(3) of this section do not have or know of the information necessary to comply with the requirements in this part, the Regional Administrator may seek the services of a professional registered engineer.
+
+(5) If a decision involves an area or location within extensive Federal or state holdings or a headwater area and FEMA's regulatory determinations under the National Flood Insurance Program are not available, the Regional Administrator shall seek information from the land administering agency before information and/or assistance is sought from the sources listed in paragraph (c)(3) of this section.
 
 (d) *Wetland determination.* The following sequence shall be followed by the Agency in making the wetland determination.
 
@@ -54,8 +100,8 @@ Sources of Maps and Technical InformationDepartment of Agriculture: Soil Conserv
 
 (2) If the FWS does not have adequate information upon which to base the determination, the Agency shall consult wetland inventories maintained by the Army Corps of Engineers, the Environmental Protection Agency, various states, communities and others.
 
-(3) If state or other sources do not have adequate information upon which to base the determination, the Agency shall carry out an on-site analysis performed by a representative of the FWS or other qualified individual for wetlands characteristics based on the performance definition of what constitutes a wetland.
+(3) If the identified sources do not have adequate information upon which to base the determination, the Agency shall carry out an on-site analysis performed by a representative of the FWS or other qualified individual for wetlands characteristics based on the definition of a wetland in § 9.4.
 
-(4) If an action is in a wetland but not in a floodplain, and the action is new construction, the provisions of this regulation shall apply. Even if the action is not in a wetland, the Regional Administrator shall determine if the action has the potential to result in indirect impacts on wetlands. If so, all adverse impacts shall be minimized. For actions which are in a wetland and the floodplain, completion of the decision-making process is required. (See § 9.6.) In such a case the wetland will be considered as one of the natural and beneficial values of floodplain.
+(4) If an action constitutes new construction and is in a wetland but not in a floodplain, the provisions of this part shall apply. If the action is not in a wetland, the Regional Administrator shall determine if the action has the potential to result in indirect impacts on wetlands. If so, all potential adverse impacts shall be minimized. For actions which are in a wetland and the floodplain, completion of the decision-making process is required. (*See* § 9.6). In such a case, the wetland will be considered as one of the natural and beneficial values of the floodplain.
 
-[45 FR 59526, Sept. 9, 1980, as amended at 47 FR 13149, Mar. 29, 1982; 49 FR 33879, Aug. 27, 1984; 50 FR 40006, Oct. 1, 1985; 51 FR 34605, Sept. 30, 1986]
+[45 FR 59526, Sept. 9, 1980, as amended at 47 FR 13149, Mar. 29, 1982; 49 FR 33879, Aug. 27, 1984; 50 FR 40006, Oct. 1, 1985; 51 FR 34605, Sept. 30, 1986; 89 FR 57042, July 11, 2024]

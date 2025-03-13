@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 89 FR 53004, June 25, 2024.Link to an amendment published at 89 FR 57069, July 12, 2024.Link to an amendment published at 89 FR 72303, Sept. 5, 2024.Link to an amendment published at 89 FR 72308, Sept. 5, 2024.
+Link to an amendment published at 89 FR 57069, July 12, 2024.Link to an amendment published at 89 FR 72303, Sept. 5, 2024.Link to an amendment published at 89 FR 72308, Sept. 5, 2024.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
@@ -144,7 +144,7 @@ Renewed Certificate Expiration Date: October 4, 2059.
 
 Model Number: HI-STAR 100 (MPC-24, MPC-32, MPC-68, MPC-68F).
 
-*Certificate Number:* 1014.
+Certificate Number: 1014.
 
 *Initial Certificate Effective Date:* May 31, 2000, superseded by Renewed Initial Certificate Effective Date: August 2, 2023.
 
@@ -164,7 +164,7 @@ Model Number: HI-STAR 100 (MPC-24, MPC-32, MPC-68, MPC-68F).
 
 *Amendment Number 8 Effective Date:* May 2, 2012, as corrected on November 16, 2012 (ADAMS Accession No. ML12213A170); superseded by Amendment Number 8, Revision 1, Effective Date: February 16, 2016; superseded by Renewed Amendment Number 8, Revision 1 Effective Date: August 2, 2023.
 
-*Amendment Number 9 Effective Date:* March 11, 2014, superseded by Amendment Number 9, Revision 1, Effective Date: March 21, 2016, as corrected on August 25, 2017 (ADAMS Accession No. ML17236A451); superseded by Renewed Amendment Number 9, Revision 1 Effective Date: August 2, 2023.
+*Amendment Number 9 Effective Date:* March 11, 2014, superseded by Amendment Number 9, Revision 1, *Effective Date:* March 21, 2016, as corrected on August 25, 2017 (ADAMS Accession No. ML17236A451); superseded by Renewed Amendment Number 9, Revision 1 Effective Date: August 2, 2023.
 
 *Amendment Number 10 Effective Date:* May 31, 2016, as corrected on August 25, 2017 (ADAMS Accession No. ML17236A452); superseded by Renewed Amendment Number 10 Effective Date: August 2, 2023.
 
@@ -178,7 +178,7 @@ Model Number: HI-STAR 100 (MPC-24, MPC-32, MPC-68, MPC-68F).
 
 *Amendment Number 15 Effective Date:* June 14, 2021, superseded by Renewed Amendment Number 15 Effective Date: August 2, 2023.
 
-Renewed Amendment Number 16 [Reserved].
+*Renewed Amendment Number 16 Effective Date:* September 9, 2024.
 
 *Renewed Amendment Number 17 Effective Date:* January 16, 2024.
 

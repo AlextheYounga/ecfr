@@ -1,5 +1,7 @@
 ##### § 214.4 Decisions that are appealable. #####
 
+Link to an amendment published at 89 FR 72994, Sept. 9, 2024.
+
 To be appealable under this part, a decision must be issued by a Responsible Official in writing and must fall into one of the following categories:
 
 (a) *Livestock grazing.* (1) Modification of a term grazing permit issued under 36 CFR part 222, subpart A. Issuance of annual operating instructions does not constitute a permit modification and is not an appealable decision;

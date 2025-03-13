@@ -1,22 +1,24 @@
 ##### § 9.2 Policy. #####
 
-Link to an amendment published at 89 FR 57038, July 11, 2024.
-
 (a) FEMA shall take no action unless and until the requirements of this regulation are complied with.
 
-(b) It is the policy of the Agency to provide leadership in floodplain management and the protection of wetlands. Further, the Agency shall integrate the goals of the Orders to the greatest possible degree into its procedures for implementing NEPA. The Agency shall take action to:
+(b) The Agency will provide leadership in floodplain management and the protection of wetlands, informed by the best available and actionable science, to bolster the resilience of communities and Federal assets against the impacts of flooding, which are anticipated to increase over time due to the effects of changing conditions which adversely affect the environment, economic prosperity, public health and safety, and national security.
 
-(1) Avoid long- and short-term adverse impacts associated with the occupancy and modification of floodplains and the destruction and modification of wetlands;
+(c) The Agency shall integrate the goals of the Orders to the greatest possible degree into its procedures for implementing the National Environmental Policy Act (42 U.S.C. 4321 *et seq.*).
 
-(2) Avoid direct and indirect support of floodplain development and new construction in wetlands wherever there is a practicable alternative;
+(d) The Agency shall:
 
-(3) Reduce the risk of flood loss;
+(1) Minimize the impact of floods on human health, safety, and welfare;
 
-(4) Promote the use of nonstructural flood protection methods to reduce the risk of flood loss;
+(2) Avoid long- and short-term adverse impacts associated with the occupancy and modification of floodplains and the destruction and modification of wetlands;
 
-(5) Minimize the impact of floods on human health, safety and welfare;
+(3) Avoid direct and indirect support of floodplain development and new construction in wetlands wherever there is a practicable alternative;
 
-(6) Minimize the destruction, loss or degradation of wetlands;
+(4) Reduce the risk of flood loss;
+
+(5) Promote the use of nonstructural flood protection methods to reduce the risk of flood loss;
+
+(6) Minimize the destruction, loss, or degradation of wetlands;
 
 (7) Restore and preserve the natural and beneficial values served by floodplains;
 
@@ -26,4 +28,6 @@ Link to an amendment published at 89 FR 57038, July 11, 2024.
 
 (10) Adhere to the objectives of the Unified National Program for Floodplain Management; and
 
-(11) Improve and coordinate the Agency's plans, programs, functions and resources so that the Nation may attain the widest range of beneficial uses of the environment without degradation or risk to health and safety.
+(11) Improve and coordinate the Agency's plans, programs, functions, and resources so that the Nation may attain the widest range of beneficial uses of the environment without degradation or risk to health and safety.
+
+[45 FR 59526, Sept. 9, 1980, as amended at 89 FR 57038, July 11, 2024]

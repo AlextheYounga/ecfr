@@ -1,8 +1,6 @@
 ##### § 1.6045B-1 Returns relating to actions affecting basis of securities. #####
 
-Link to an amendment published at 89 FR 56580, July 9, 2024.
-
-(a) *In general*—(1) *Information required.* An issuer of a specified security (within the meaning of § 1.6045-1(a)(14)) that takes an organizational action that affects the basis of the security must file an issuer return setting forth the following information and any other information specified in the return form and instructions:
+(a) *In general*—(1) *Information required.* Except as provided in paragraphs (a)(4) and (5) of this section, an issuer of a specified security within the meaning of § 1.6045-1(a)(14)(i) through (iv) that takes an organizational action that affects the basis of the security must file an issuer return setting forth the following information and any other information specified in the return form and instructions:
 
 (i) *Reporting issuer.* The name and taxpayer identification number of the reporting issuer.
 
@@ -23,6 +21,8 @@ Link to an amendment published at 89 FR 56580, July 9, 2024.
 (4) *Exception when holders are exempt recipients.* No reporting is required under this paragraph (a) if the issuer reasonably determines that all of the holders of the security are exempt recipients under paragraph (b)(5) of this section.
 
 (5) *Exception for certain money market funds.* No reporting is required under this paragraph (a) by a regulated investment company described in § 1.6045-1(c)(3)(vi).
+
+(6) *Reporting for certain specified securities that are digital assets.* Unless otherwise excepted under this section, an issuer of a specified security described in paragraph (a)(1) of this section is required to report under this section without regard to whether the specified security is also described in § 1.6045-1(a)(14)(v) or (vi). If a specified security is described in § 1.6045-1(a)(14)(v) or (vi) but is not also described in § 1.6045-1(a)(14)(i), (ii), (iii) or (iv), the issuer of that specified security is permitted, but not required, to report under this section. An issuer that chooses to provide the reporting and furnish statements for a specified security described in the previous sentence is not subject to penalties under section 6721 or 6722 of the Code for failure to report this information correctly.
 
 (b) *Statements to nominees and certificate holders*—(1) *In general.* An issuer required to file an information return under this section must furnish a written statement with the same information to each holder of record of the security or to the holder's nominee. This issuer statement must indicate that the information is being reported to the IRS. An issuer may satisfy this requirement by furnishing a copy of the information return.
 
@@ -92,8 +92,10 @@ Example 1.On January 15, 2014, F, an individual, purchases a one-year exchange-t
 
 (4) Organizational actions occurring on or after January 1, 2016, that affect the basis of debt instruments described in § 1.6045-1(n)(3);
 
-(5) Organizational actions occurring on or after January 1, 2014, that affect the basis of options described in § 1.6045-1(a)(14)(iii); and
+(5) Organizational actions occurring on or after January 1, 2014, that affect the basis of options described in § 1.6045-1(a)(14)(iii);
 
-(6) Organizational actions occurring on or after January 1, 2014, that affect the basis of securities futures contracts described in § 1.6045-1(a)(14)(iv).
+(6) Organizational actions occurring on or after January 1, 2014, that affect the basis of securities futures contracts described in § 1.6045-1(a)(14)(iv); and
 
-[T.D. 9504, 75 FR 64101, Oct. 18, 2010, as amended by T.D. 9616, 78 FR 23133, Apr. 18, 2013]
+(7) Organizational actions occurring on or after January 1, 2025, that affect the basis of digital assets described in § 1.6045-1(a)(14)(v) or (vi) that are also described in one or more paragraphs of § 1.6045-1(a)(14)(i) through (iv).
+
+[T.D. 9504, 75 FR 64101, Oct. 18, 2010, as amended by T.D. 9616, 78 FR 23133, Apr. 18, 2013; T.D. 10000, 89 FR 56580, July 9, 2024]

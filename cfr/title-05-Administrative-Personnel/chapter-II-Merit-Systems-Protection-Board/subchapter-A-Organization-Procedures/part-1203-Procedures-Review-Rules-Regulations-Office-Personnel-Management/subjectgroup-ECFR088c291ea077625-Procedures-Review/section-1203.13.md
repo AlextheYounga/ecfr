@@ -1,5 +1,7 @@
 ##### § 1203.13 Filing pleadings. #####
 
+Link to an amendment published at 89 FR 72966, Sept. 9, 2024.
+
 (a) *Place to file and number of copies.* One original and three copies of each pleading must be filed with the Office of the Clerk, U.S. Merit Systems Protection Board, 1615 M Street, NW., Washington, DC 20419. In addition, parties to a proceeding under this part must serve their pleadings on each other in accordance with § 1203.14 of this part. The Office of the Clerk will make all pleadings available for review by the public.
 
 (b) *Time limits.* (1) A request for regulation review may be filed any time after the effective date of the regulation.

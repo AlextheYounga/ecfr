@@ -1,5 +1,7 @@
 ##### § 1201.155 Requests for review of arbitrators' decisions. #####
 
+Link to an amendment published at 89 FR 72964, Sept. 9, 2024.
+
 (a) *Source and applicability.* (1) Under paragraph (d) of 5 U.S.C. 7121, an employee who believes he or she has been subjected to discrimination within the meaning of 5 U.S.C. 2302(b)(1), and who may raise the matter under either a statutory procedure such as 5 U.S.C. 7701 or under a negotiated grievance procedure, must make an election between the two procedures. The election of the negotiated grievance procedure “in no manner prejudices” the employee's right to request Board review of the final decision pursuant to 5 U.S.C. 7702. Subsection (a)(1) of section 7702 provides that, “[n]otwithstanding any other provision of law,” when an employee who has been subjected to an action that is appealable to the Board and who alleges that the action was the result of discrimination within the meaning of 5 U.S.C. 2302(b)(1), the Board will decide both the issue of discrimination and the appealable action in accordance with the Board's appellate procedures under section 7701.
 
 (2) This section does not apply to employees of the Postal Service or to other employees excluded from the coverage of the Federal labor management laws at chapter 71 of title 5, United States Code.

@@ -1,5 +1,7 @@
 ##### § 1209.2 Jurisdiction. #####
 
+Link to an amendment published at 89 FR 72966, Sept. 9, 2024.
+
 (a) *Generally.* Under 5 U.S.C. 1221(a), an employee, former employee, or applicant for employment may appeal to the Board from agency personnel actions alleged to have been threatened, proposed, taken, or not taken because of the appellant's whistleblowing or other protected activity.
 
 (b) *Appeals authorized.* The Board exercises jurisdiction over:

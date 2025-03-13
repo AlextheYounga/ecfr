@@ -1,0 +1,3 @@
+##### § 3006.104 Chief Freedom of Information Act Officer. #####
+
+The Commission designates the General Counsel of the Commission as the Chief FOIA Officer. The Chief FOIA Officer shall be responsible for the administration of and reporting on the Commission's Freedom of Information Act program. The Chief FOIA Officer (and any individual(s) designated by the Chief FOIA Officer to communicate with FOIA requesters) may be contacted via email at *FOIA@prc.gov* or telephone at 202-789-6800.

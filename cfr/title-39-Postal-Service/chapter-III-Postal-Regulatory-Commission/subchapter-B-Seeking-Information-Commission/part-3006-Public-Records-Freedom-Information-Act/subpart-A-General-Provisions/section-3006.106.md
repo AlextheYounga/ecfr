@@ -1,0 +1,3 @@
+##### § 3006.106 Commission procedure when served a subpoena. #####
+
+If an officer or employee of the Commission is served with a subpoena duces tecum, material that is not part of the public files and records of the Commission shall be produced only as authorized by the General Counsel. Service of such a subpoena shall immediately be reported to the General Counsel with a statement of all relevant facts. The General Counsel will thereupon enter such order or give such instructions as it deems advisable.
