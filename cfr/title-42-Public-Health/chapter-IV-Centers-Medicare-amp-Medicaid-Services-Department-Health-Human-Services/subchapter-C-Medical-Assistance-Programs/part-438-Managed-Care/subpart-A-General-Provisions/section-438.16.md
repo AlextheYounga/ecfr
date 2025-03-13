@@ -97,6 +97,7 @@
 (ii) *CMS oversight process.* If CMS determines that a State is out of compliance with any requirement in this part or receives a State notification in paragraph (e)(2)(i) of this section, CMS may require the State to terminate the use of an ILOS.
 
 (iii) *Process for termination of ILOS.* Within 30 calendar days of receipt of a notice described in paragraph (e)(2)(iii)(A), (B), or (C) of this section, the State must submit an ILOS transition plan to CMS for review and approval.
+
 (A) The notice the State provides to an MCO, PIHP, or PAHP of its decision to terminate an ILOS.
 
 (B) The notice an MCO, PIHP, or PAHP provides to the State of its decision to cease offering an ILOS to its enrollees.

@@ -18,7 +18,7 @@
 
 (vii) Establishment and implementation of procedures and a system with dedicated staff for routine internal monitoring and auditing of compliance risks, prompt response to compliance issues as they are raised, investigation of potential compliance problems as identified in the course of self-evaluation and audits, correction of such problems promptly and thoroughly (or coordination of suspected criminal acts with law enforcement agencies) to reduce the potential for recurrence, and ongoing compliance with the requirements under the contract.
 
-(2) Provision for prompt reporting of all overpayments identified or recovered, specifying the overpayments due to potential fraud, to the State.
+(2) Provision for reporting within 30 calendar days all overpayments identified or recovered, specifying the overpayments due to potential fraud, to the State.
 
 (3) Provision for prompt notification to the State when it receives information about changes in an enrollee's circumstances that may affect the enrollee's eligibility including all of the following:
 
@@ -58,7 +58,12 @@
 
 (2) Each MCO, PIHP, or PAHP requires and has a mechanism for a network provider to report to the MCO, PIHP or PAHP when it has received an overpayment, to return the overpayment to the MCO, PIHP or PAHP within 60 calendar days after the date on which the overpayment was identified, and to notify the MCO, PIHP or PAHP in writing of the reason for the overpayment.
 
-(3) Each MCO, PIHP, or P
-AHP must report annually to the State on their recoveries of overpayments.
+(3) Each MCO, PIHP, or PAHP must report annually to the State on all overpayments identified or recovered.
 
 (4) The State must use the results of the information and documentation collected in paragraph (d)(1) of this section and the report in paragraph (d)(3) of this section for setting actuarially sound capitation rates for each MCO, PIHP, or PAHP consistent with the requirements in § 438.4.
+
+(e) *Standards for provider incentive or bonus arrangements.* The State, through its contract with the MCO, PIHP or PAHP, must require that incentive payment contracts between managed care plans and network providers meet the requirements as specified in §§ 438.3(i)(3) and (4).
+
+(f) *Applicability date.* Paragraphs (a)(2), (d)(3) and (e) of this section apply to the first rating period for contracts with MCOs, PIHPs, or PAHPs beginning on or after 1 year from July 9, 2024.
+
+[81 FR 27853, May 6, 2016, as amended at 89 FR 41284, May 10, 2024]
