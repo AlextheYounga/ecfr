@@ -1,7 +1,5 @@
 ##### § 1026.58 Internet posting of credit card agreements. #####
 
-Link to an amendment published at 89 FR 19202, Mar. 15, 2024.
-
 (a) *Applicability.* The requirements of this section apply to any card issuer that issues credit cards under a credit card account under an open-end (not home-secured) consumer credit plan.
 
 (b) *Definitions*—(1) *Agreement.* For purposes of this section, “agreement” or “credit card agreement” means the written document or documents evidencing the terms of the legal obligation, or the prospective legal obligation, between a card issuer and a consumer for a credit card account under an open-end (not home-secured) consumer credit plan. “Agreement” or “credit card agreement” also includes the pricing information, as defined in § 1026.58(b)(7).
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 19202, Mar. 15, 2024.
 
 (5) *Offers.* For purposes of this section, an issuer “offers” or “offers to the public” an agreement if the issuer is soliciting or accepting applications for accounts that would be subject to that agreement.
 
-(6) *Open account.* For purposes of this section, an account is an “open account” or “open credit card account” if it is a credit card account under an open-end (not home-secured) consumer credit plan and either:
+(6) *Open accounts.* For purposes of this section and § 1026.52, an account is an “open account” or “open credit card account” if it is a credit card account under an open-end (not home-secured) consumer credit plan and either:
 
 (i) The cardholder can obtain extensions of credit on the account; or
 
@@ -138,4 +136,4 @@ Link to an amendment published at 89 FR 19202, Mar. 15, 2024.
 
 (2) *Posting of agreements offered to the public.* Nothing in paragraph (g)(1) of this section shall affect the agreement posting requirements in paragraph (d) of this section.
 
-[76 FR 79772, Dec. 22, 2011, as amended at 80 FR 21158, Apr. 17, 2015]
+[76 FR 79772, Dec. 22, 2011, as amended at 80 FR 21158, Apr. 17, 2015; 89 FR 19202, Mar. 15, 2024]

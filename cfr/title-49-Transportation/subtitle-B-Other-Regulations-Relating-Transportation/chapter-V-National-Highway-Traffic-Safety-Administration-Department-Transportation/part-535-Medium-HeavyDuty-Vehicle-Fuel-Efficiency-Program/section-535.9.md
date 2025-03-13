@@ -1,16 +1,16 @@
 ##### § 535.9 Enforcement approach. #####
 
-Link to an amendment published at 89 FR 18831, Mar. 15, 2024.
-
 (a) *Compliance.* (1) Each year NHTSA will assess compliance with fuel consumption standards as specified in § 535.10.
 
-(i) NHTSA may conduct audits or verification testing prior to first sale throughout a given model year or after the model year in order to validate data received from manufacturers and will discuss any potential issues with EPA and the manufacturer. Audits may periodically be performed to confirm manufacturers credit balances or other credit transactions.
+(i) NHTSA may conduct audits or confirmatory testing on any configuration prior to first sale throughout a given model year or after the model year in order to validate data received from manufacturers and will discuss any potential issues with EPA and the manufacturer. NHTSA may perform confirmatory testing. Any such testing would be performed as specified in EPA's regulations at 40 CFR part 1037. Audits may periodically be performed to confirm manufacturers' credit balances, or other credit transactions or other information submitted to EPA and NHTSA.
 
 (ii) NHTSA may also conduct field inspections either at manufacturing plants or at new vehicle dealerships to validate data received from manufacturers. Field inspections will be carried out in order to validate the condition of vehicles, engines or technology prior to first commercial sale to verify each component's certified configuration as initially built. NHTSA reserves the right to conduct inspections at other locations but will target only those components for which a violation would apply to OEMs and not the fleets or vehicle owners. Compliance inspections could be carried out through a number of approaches including during safety inspections or during compliance safety testing.
 
 (iii) NHTSA will conduct audits and inspections in the same manner and, when possible, in conjunction with EPA. NHTSA will also attempt to coordinate inspections with EPA and share results.
 
 (iv) Documents collected under NHTSA safety authority may be used to support fuel efficiency audits and inspections.
+
+(v) NHTSA may require a manufacturer to perform selective enforcement audits with respect to any GEM inputs in its application for certification or in the end of the year ABT final reports. Any required selective enforcement audits would be required to be conducted in a manner consistent with EPA's corresponding provisions at 40 CFR 1037.301, 1037.305, and 1037.320.
 
 (2) At the end of each model year NHTSA will confirm a manufacturer's fleet or family performance values against the applicable standards and, if a manufacturer uses a credit flexibility, the amount of credits in each averaging set. The averaging set balance is based upon the engines or vehicles performance above or below the applicable regulatory subcategory standards in each respective averaging set and any credits that are traded into or out of an averaging set during the model year.
 
@@ -161,3 +161,5 @@ Link to an amendment published at 89 FR 18831, Mar. 15, 2024.
 (2) If a manufacturer divides or divests itself of a portion of its automobile manufacturing business, it must inform NHTSA how it plans to divide the manufacturer's credit holdings into two or more accounts. NHTSA will subsequently distribute holdings as directed by the manufacturer, subject to provision for reasonably anticipated compliance obligations.
 
 (3) If a manufacturer is a successor to another manufacturer's business, it must inform NHTSA how it plans to allocate credits and resolve liabilities per 49 CFR part 534.
+
+[81 FR 74238, Oct. 25, 2016, as amended at 89 FR 18831, Mar. 15, 2024]

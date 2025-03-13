@@ -1,10 +1,8 @@
 ##### § 535.5 Standards. #####
 
-Link to an amendment published at 89 FR 18825, Mar. 15, 2024.
+(a) *Heavy-duty pickup trucks and vans.* Each manufacturer's fleet of heavy-duty pickup trucks and vans shall comply with the fuel consumption standards in this paragraph (a) expressed in gallons per 100 miles. Each vehicle must be manufactured to comply for its full useful life. For the Phase 1 program, if the manufacturer's fleet includes conventional vehicles (gasoline, diesel and alternative fueled vehicles) and advanced technology vehicles (hybrids with powertrain designs that include energy storage systems, vehicles with waste heat recovery, electric vehicles and fuel cell vehicles), it may divide its fleet into two separate fleets each with its own separate fleet average fuel consumption standard which the manufacturer must comply with the requirements of this paragraph (a). For Phase 2, manufacturers may calculate their fleet average fuel consumption standard for a conventional fleet and multiple advanced technology vehicle fleets. Advanced technology vehicle fleets should be separated into plug-in hybrid electric vehicles, electric vehicles, and fuel cell vehicles. The standards in this paragraph (a) correspond to EPA requirements specified in 40 CFR 86.1819-14. When applying the fuel consumption standards in this paragraph (a), manufacturers must use the same options they use to comply with EPA in 40 CFR part 86, subpart S in terms of grouping vehicles and/or engines for purposes of determining applicable standards and determining compliance (*i.e.,* the vehicles and/or engines and must be grouped in the same way for purposes of this paragraph (a) as they are grouped for compliance with EPA's requirements in 40 CFR part 86, subpart S). Engines that are installed in vehicles that are subject to the standards in this paragraph are not subject to the standards in paragraph (d) of this section and may not optionally comply with paragraph (d).
 
-(a) *Heavy-duty pickup trucks and vans.* Each manufacturer's fleet of heavy-duty pickup trucks and vans shall comply with the fuel consumption standards in this paragraph (a) expressed in gallons per 100 miles. Each vehicle must be manufactured to comply for its full useful life. For the Phase 1 program, if the manufacturer's fleet includes conventional vehicles (gasoline, diesel and alternative fueled vehicles) and advanced technology vehicles (hybrids with powertrain designs that include energy storage systems, vehicles with waste heat recovery, electric vehicles and fuel cell vehicles), it may divide its fleet into two separate fleets each with its own separate fleet average fuel consumption standard which the manufacturer must comply with the requirements of this paragraph (a). For Phase 2, manufacturers may calculate their fleet average fuel consumption standard for a conventional fleet and multiple advanced technology vehicle fleets. Advanced technology vehicle fleets should be separated into plug-in hybrid electric vehicles, electric vehicles and fuel cell vehicles. NHTSA standards correspond to the same requirements for EPA as specified in 40 CFR 86.1819-14.
-
-(1) *Mandatory standards.* For model years 2016 and later, each manufacturer must comply with the fleet average standard derived from the unique subconfiguration target standards (or groups of subconfigurations approved by EPA in accordance with 40 CFR 86.1819) of the model types that make up the manufacturer's fleet in a given model year. Each subconfiguration has a unique attribute-based target standard, defined by each group of vehicles having the same payload, towing capacity and whether the vehicles are equipped with a 2-wheel or 4-wheel drive configuration. Phase 1 target standards apply for model years 2016 through 2020. Phase 2 target standards apply for model year 2021 and afterwards.
+(1) *Mandatory standards.* For model years 2016 and later, each manufacturer must comply with the fleet average standard derived from the unique subconfiguration target standards (or groups of subconfigurations approved by EPA in accordance with 40 CFR 86.1819-14) of the model types that make up the manufacturer's fleet in a given model year. Each subconfiguration has a unique attribute-based target standard, defined by each group of vehicles having the same payload, towing capacity and whether the vehicles are equipped with a 2-wheel or 4-wheel drive configuration. Phase 1 target standards apply for model years 2016 through 2020. Phase 2 target standards apply for model year 2021 and afterwards.
 
 (2) *Subconfiguration target standards.* (i) Two alternatives exist for determining the subconfiguration target standards for Phase 1. For each alternative, separate standards exist for compression-ignition and spark-ignition vehicles:
 
@@ -16,43 +14,41 @@ Link to an amendment published at 89 FR 18825, Mar. 15, 2024.
 
 Subconfiguration Target Standard (gallons per 100 miles) = [c × (WF)] + dWhere:WF = Work Factor = [0.75 x (Payload Capacity + Xwd)] + [0.25 x Towing Capacity]Xwd = 4wd Adjustment = 500 lbs if the vehicle group is equipped with 4wd and all-wheel drive, otherwise equals 0 lbs for 2wd.Payload Capacity = GVWR (lbs)—Curb Weight (lbs) (for each vehicle group)Towing Capacity = GCWR (lbs)—GVWR (lbs) (for each vehicle group)
 
-Table 6—Coefficients for Mandatory Subconfiguration Target Standards
-
-|                 Model Year(s)                  |    c    |  d  |
-|------------------------------------------------|---------|-----|
-|  Phase 1 Alternative 1—Fixed Target Standards  |         |     |
-|            CI Vehicle Coefficients             |         |     |
-|                  2016 to 2018                  |0.0004322|3.330|
-|                  2019 to 2020                  |0.0004086|3.143|
-|            SI Vehicle Coefficients             |         |     |
-|                  2016 to 2017                  |0.0005131|3.961|
-|                  2018 to 2020                  |0.0004086|3.143|
-|Phase 1 Alternative 2—Phased-in Target Standards|         |     |
-|            CI Vehicle Coefficients             |         |     |
-|                      2016                      |0.0004519|3.477|
-|                      2017                      |0.0004371|3.369|
-|                  2018 to 2020                  |0.0004086|3.143|
-|            SI Vehicle Coefficients             |         |     |
-|                      2016                      |0.0005277|4.073|
-|                      2017                      |0.0005176|3.983|
-|                  2018 to 2020                  |0.0004951|3.815|
-|         Phase 2—Fixed Target Standards         |         |     |
-|            CI Vehicle Coefficients             |         |     |
-|                      2021                      |0.0003988|3.065|
-|                      2022                      |0.0003880|2.986|
-|                      2023                      |0.0003792|2.917|
-|                      2024                      |0.0003694|2.839|
-|                      2025                      |0.0003605|2.770|
-|                      2026                      |0.0003507|2.701|
-|                 2027 and later                 |0.0003418|2.633|
-|            SI Vehicle Coefficients             |         |     |
-|                      2021                      |0.0004827|3.725|
-|                      2022                      |0.0004703|3.623|
-|                      2023                      |0.0004591|3.533|
-|                      2024                      |0.0004478|3.443|
-|                      2025                      |0.0004366|3.364|
-|                      2026                      |0.0004253|3.274|
-|                 2027 and later                 |0.0004152|3.196|
+|                   Model Year(s)                    |    c    |  d  |
+|----------------------------------------------------|---------|-----|
+|  **Phase 1 Alternative 1—Fixed Target Standards**  |         |     |
+|            **CI Vehicle Coefficients**             |         |     |
+|                    2016 to 2018                    |0.0004322|3.330|
+|                    2019 to 2020                    |0.0004086|3.143|
+|            **SI Vehicle Coefficients**             |         |     |
+|                    2016 to 2017                    |0.0005131|3.961|
+|                    2018 to 2020                    |0.0004086|3.143|
+|**Phase 1 Alternative 2—Phased-in Target Standards**|         |     |
+|            **CI Vehicle Coefficients**             |         |     |
+|                        2016                        |0.0004519|3.477|
+|                        2017                        |0.0004371|3.369|
+|                    2018 to 2020                    |0.0004086|3.143|
+|            **SI Vehicle Coefficients**             |         |     |
+|                        2016                        |0.0005277|4.073|
+|                        2017                        |0.0005176|3.983|
+|                    2018 to 2020                    |0.0004951|3.815|
+|         **Phase 2—Fixed Target Standards**         |         |     |
+|            **CI Vehicle Coefficients**             |         |     |
+|                        2021                        |0.0003988|3.065|
+|                        2022                        |0.0003880|2.986|
+|                        2023                        |0.0003792|2.917|
+|                        2024                        |0.0003694|2.839|
+|                        2025                        |0.0003605|2.770|
+|                        2026                        |0.0003507|2.701|
+|                   2027 and later                   |0.0003418|2.633|
+|            **SI Vehicle Coefficients**             |         |     |
+|                        2021                        |0.0004827|3.725|
+|                        2022                        |0.0004703|3.623|
+|                        2023                        |0.0004591|3.533|
+|                        2024                        |0.0004478|3.443|
+|                        2025                        |0.0004366|3.364|
+|                        2026                        |0.0004253|3.274|
+|                   2027 and later                   |0.0004152|3.196|
 
 (3) *Fleet average fuel consumption standard.* (i) For the Phase 1 program, calculate each manufacturer's fleet average fuel consumption standard for a conventional fleet and a combined advanced technology fleet separately based on the subconfiguration target standards specified in paragraph (a)(2) of this section, weighted to production volumes and averaged using the following equation combining all the applicable vehicles in a manufacturer's U.S.-directed fleet (compression-ignition, spark-ignition and advanced technology vehicles) for a given model year, rounded to the nearest 0.001 gallons per 100 miles:
 
@@ -70,16 +66,14 @@ Table 6—Coefficients for Mandatory Subconfiguration Target Standards
 
 (iii) Calculate separate subconfiguration target standards for compression-ignition and spark-ignition vehicles for model years 2013 through 2015 using the equation in paragraph (a)(2)(ii) of this section, substituting the appropriate values for the coefficients in the following table as appropriate:
 
-Table 7—Coefficients for Voluntary Subconfiguration Target Standards
-
-|     Model Year(s)     |    c    |  d  |
-|-----------------------|---------|-----|
-|CI Vehicle Coefficients|         |     |
-|      2013 and 14      |0.0004695|3.615|
-|         2015          |0.0004656|3.595|
-|SI Vehicle Coefficients|         |     |
-|      2013 and 14      |0.0005424|4.175|
-|         2015          |0.0005390|4.152|
+|       Model Year(s)       |    c    |  d  |
+|---------------------------|---------|-----|
+|**CI Vehicle Coefficients**|         |     |
+|        2013 and 14        |0.0004695|3.615|
+|           2015            |0.0004656|3.595|
+|**SI Vehicle Coefficients**|         |     |
+|        2013 and 14        |0.0005424|4.175|
+|           2015            |0.0005390|4.152|
 
 (iv) Calculate the fleet average fuel consumption standards for model years 2013 through 2015 using the equation in paragraph (a)(3) of this section.
 
@@ -129,7 +123,7 @@ Table 7—Coefficients for Voluntary Subconfiguration Target Standards
 
 (11) *Compliance with standards.* A manufacturer complies with the standards of this part as described in § 535.10.
 
-(b) *Heavy-duty vocational vehicles.* Each manufacturer building complete or incomplete heavy-duty vocational vehicles shall comply with the fuel consumption standards in this paragraph (b) expressed in gallons per 1000 ton-miles. Engines used in heavy-duty vocational vehicles shall comply with the standards in paragraph (d) of this section. Each vehicle must be manufactured to comply for its full useful life. Standards apply to the vehicle subfamilies based upon the vehicle service classes within each of the vocational vehicle regulatory subcategories in accordance with § 535.4 and based upon the applicable modeling and testing specified in § 535.6. Determine the duty cycles that apply to vocational vehicles according to 40 CFR 1037.140 and 1037.150(z).
+(b) *Heavy-duty vocational vehicles.* Each manufacturer building complete or incomplete heavy-duty vocational vehicles shall comply with the fuel consumption standards in this paragraph (b) expressed in gallons per 1,000 ton-miles. When applying the fuel consumption standards in this paragraph (b), manufacturers must use the same options they use to comply with EPA in 40 CFR 1037.105 in terms of grouping vehicles and/or engines for purposes of determining applicable standards and determining compliance (*i.e.,* the vehicles and/or engines and must be grouped in the same way for purposes of this paragraph (b) as they are grouped for compliance with EPA's requirements in 40 CFR 1037.105). Engines used in heavy-duty vocational vehicles shall comply with the standards in paragraph (d) of this section. Each vehicle must be manufactured to comply for its full useful life. Standards apply to the vehicle subfamilies based upon the vehicle service classes within each of the vocational vehicle regulatory subcategories in accordance with § 535.4 and based upon the applicable modeling and testing specified in § 535.6. Determine the duty cycles that apply to vocational vehicles according to 40 CFR 1037.140 and 1037.150(z).
 
 (1) *Mandatory standards.* Heavy-duty vocational vehicle subfamilies produced for Phase 1 must comply with the fuel consumption standards in paragraph (b)(3) of this section. For Phase 2, each vehicle manufacturer of heavy-duty vocational vehicle subfamilies must comply with the fuel consumption standards in paragraph (b)(4) of this section.
 
@@ -141,7 +135,7 @@ Table 7—Coefficients for Voluntary Subconfiguration Target Standards
 
 (A) Vocational vehicles including custom chassis vehicles must use qualified automatic tire inflation systems or tire pressure monitoring systems for wheels on all axles.
 
-(B) Tire pressure monitoring systems must use low pressure warning and malfunction telltales in clear view of the driver as specified in S4.3 and S4.4 of 49 CFR 571.138.
+(B) [Reserved]
 
 (2) *Voluntary compliance.* (i) For model years 2013 through 2015, a manufacturer may choose voluntarily to comply early with the fuel consumption standards provided in paragraph (b)(3) of this section. For example, a manufacturer may choose to comply early in order to begin accumulating credits through over-compliance with the applicable standards. A manufacturer choosing early compliance must comply with all the vehicles and engines it manufacturers in each regulatory category for a given model year.
 
@@ -149,70 +143,62 @@ Table 7—Coefficients for Voluntary Subconfiguration Target Standards
 
 (3) *Regulatory subcategory standards for model years 2013 to 2020.* The mandatory and voluntary fuel consumption standards for heavy-duty vocational vehicles are given in the following table:
 
-Table 8—Phase 1 Vocational Vehicle Fuel Consumption Standards
-
-[Gallons per 1000 ton-miles]
-
-|          Regulatory subcategories          |Vocational  <br/>LHD vehicles|Vocational  <br/>MHD vehicles|Vocational  <br/>HHD vehicles|
-|--------------------------------------------|-----------------------------|-----------------------------|-----------------------------|
-|Model Years 2013 to 2016 Voluntary Standards|                             |                             |                             |
-|                  Standard                  |           38.1139           |           22.9862           |           22.2004           |
-|Model Years 2017 to 2020 Mandatory Standards|                             |                             |                             |
-|                  Standard                  |           36.6405           |           22.1022           |           21.8075           |
+|            Regulatory subcategories            |Vocational  <br/>LHD vehicles|Vocational  <br/>MHD vehicles|Vocational  <br/>HHD vehicles|
+|------------------------------------------------|-----------------------------|-----------------------------|-----------------------------|
+|**Model Years 2013 to 2016 Voluntary Standards**|                             |                             |                             |
+|                    Standard                    |           38.1139           |           22.9862           |           22.2004           |
+|**Model Years 2017 to 2020 Mandatory Standards**|                             |                             |                             |
+|                    Standard                    |           36.6405           |           22.1022           |           21.8075           |
 
 (4) *Regulatory subcategory standards for model years 2021 and later.* The mandatory fuel consumption standards for heavy-duty vocational vehicles are given in the following table:
 
-Table 9—Phase 2 Vocational Vehicle Fuel Consumption Standards
-
-[Gallons per 1,000 ton-miles]
-
-|                     Duty cycle                     |LHD  <br/>Vocational  <br/>vehicles|MHD  <br/>Vocational  <br/>vehicles|Vocational HHD  <br/>vehicles|
-|----------------------------------------------------|-----------------------------------|-----------------------------------|-----------------------------|
-| Model Years 2021 to 2023 Standards for CI Vehicles |                                   |                                   |                             |
-|                       Urban                        |              41.6503              |              29.0766              |           30.2554           |
-|                   Multi-Purpose                    |              36.6405              |              26.0314              |           25.6385           |
-|                      Regional                      |              30.5501              |              22.9862              |           20.2358           |
-| Model Years 2021 to 2023 Standards for SI Vehicles |                                   |                                   |                             |
-|                       Urban                        |              51.8735              |              36.9078              |             NA              |
-|                   Multi-Purpose                    |              45.7972              |              32.9695              |             NA              |
-|                      Regional                      |              37.6955              |              29.3687              |             NA              |
-| Model Years 2024 to 2026 Standards for CI Vehicles |                                   |                                   |                             |
-|                       Urban                        |              37.8193              |              26.6208              |           27.7996           |
-|                   Multi-Purpose                    |              33.7917              |              24.1650              |           23.7721           |
-|                      Regional                      |              29.0766              |              21.7092              |           19.0570           |
-| Model Years 2024 to 2026 Standards for SI Vehicles |                                   |                                   |                             |
-|                       Urban                        |              48.6103              |              34.8824              |             NA              |
-|                   Multi-Purpose                    |              43.3217              |              31.3942              |             NA              |
-|                      Regional                      |              36.4577              |              28.2435              |             NA              |
-|Model Years 2027 and later Standards for CI Vehicles|                                   |                                   |                             |
-|                       Urban                        |              36.0511              |              25.3438              |           26.4244           |
-|                   Multi-Purpose                    |              32.4165              |              23.0845              |           22.5933           |
-|                      Regional                      |              28.5855              |              21.4145              |           18.5658           |
-|Model Years 2027 and later Standards for SI Vehicles|                                   |                                   |                             |
-|                       Urban                        |              46.4724              |              33.4196              |             NA              |
-|                   Multi-Purpose                    |              41.8589              |              30.1564              |             NA              |
-|                      Regional                      |              35.8951              |              27.7934              |             NA              |
+|**Model Years 2021 through 2023 Standards for CI Vehicles**|                             |                                     |                             |
+|-----------------------------------------------------------|-----------------------------|-------------------------------------|-----------------------------|
+|                        Duty cycle                         |LHD vocational  <br/>vehicles|    MHD vocational  <br/>vehicles    |Vocational HHD  <br/>vehicles|
+|                           Urban                           |           41.6503           |               29.0766               |           30.2554           |
+|                       Multi-Purpose                       |           36.6405           |               26.0314               |           25.6385           |
+|                         Regional                          |           30.5501           |               22.9862               |           20.1375           |
+|**Model Years 2021 through 2023 Standards for SI Vehicles**|                             |                                     |                             |
+|                        Duty cycle                         |LHD vocational  <br/>vehicles|MHD and HHD  <br/>vocational vehicles|             N/A             |
+|                           Urban                           |           51.8735           |               36.9078               |             N/A             |
+|                       Multi-Purpose                       |           45.7972           |               32.9695               |             N/A             |
+|                         Regional                          |           37.6955           |               29.3687               |             N/A             |
+|**Model Years 2024 through 2026 Standards for CI Vehicles**|                             |                                     |                             |
+|                        Duty cycle                         |   Vocational LHD vehicles   |    Vocational MHD  <br/>vehicles    |Vocational HHD  <br/>vehicles|
+|                           Urban                           |           37.8193           |               26.6208               |           27.7996           |
+|                       Multi-Purpose                       |           33.7917           |               24.1650               |           23.7721           |
+|                         Regional                          |           29.0766           |               21.7092               |           19.0570           |
+|**Model Years 2024 through 2026 Standards for SI Vehicles**|                             |                                     |                             |
+|                        Duty cycle                         |   Vocational LHD vehicles   |   Vocational MHD and HHD vehicles   |             N/A             |
+|                           Urban                           |           48.6103           |               34.8824               |             N/A             |
+|                       Multi-Purpose                       |           43.3217           |               31.3942               |             N/A             |
+|                         Regional                          |           36.4577           |               28.2435               |             N/A             |
+| **Model Years 2027 and later Standards for CI Vehicles**  |                             |                                     |                             |
+|                        Duty cycle                         |   Vocational LHD vehicles   |    Vocational MHD  <br/>vehicles    |Vocational HHD  <br/>vehicles|
+|                           Urban                           |           36.0511           |               25.3438               |           26.4244           |
+|                       Multi-Purpose                       |           32.4165           |               23.0845               |           22.5933           |
+|                         Regional                          |           28.5855           |               21.4145               |           18.5658           |
+| **Model Years 2027 and later Standards for SI Vehicles**  |                             |                                     |                             |
+|                        Duty cycle                         |Vocational LHD  <br/>vehicles|Vocational MHD and  <br/>HHD vehicles|             N/A             |
+|                           Urban                           |           46.4724           |               33.4196               |             N/A             |
+|                       Multi-Purpose                       |           41.8589           |               30.1564               |             N/A             |
+|                         Regional                          |           35.8951           |               27.7934               |             N/A             |
 
 (5) *Subfamily standards.* Manufacturers may specify a family emission limit (FEL) in terms of fuel consumption for each vehicle subfamily. The FEL may not be less than the result of fuel consumption modeling from 40 CFR 1037.520. The FELs is the fuel consumption standards for the vehicle subfamily instead of the standards specified in paragraph (b)(3) and (4) of this section and can be used for calculating fuel consumption credits in accordance with § 535.7.
 
 (6) *Alternate standards for custom chassis vehicles for model years 2021 and later.* Manufacturers may elect to certify certain vocational vehicles to the alternate standards for custom chassis vehicles specified in this paragraph (b)(6) instead of the standards specified in paragraph (b)(4) of this section. Note that, although these standards were established for custom chassis vehicles, manufacturers may apply these provisions to any qualifying vehicle even though these standards were established for custom chassis vehicles. For example, large diversified vehicle manufacturers may certify vehicles to the refuse hauler standards of this section as long as the manufacturer ensures that those vehicles qualify as refuse haulers when placed into service. GEM simulates vehicle operation for each type of vehicle based on an assigned vehicle service class, independent of the vehicle's actual characteristics, as shown in Table 10 of this section; however, standards apply for the vehicle's useful life based on its actual characteristics as specified in paragraph (b)(10) of this section. Vehicles certified to these alternative standards must use engines certified to requirements under paragraph (d) of this section and 40 CFR part 1036 for the appropriate model year, except that motor homes and emergency vehicles may use engines certified with the loose-engine provisions of paragraph (a)(7) of this section and 40 CFR 1037.150(m). This also applies for vehicles meeting standards under paragraphs (b)(6)(iv) through (vi) of this section. The fuel consumption standards for custom chassis vehicles are given in the following table:
 
-Table 10—Phase 2 Custom Chassis Fuel Consumption Standards
-
-[Gallon per 1,000 ton-mile]
-
-|Vehicle type<sup>1</sup>|Assigned vehicle service class|MY 2021|MY 2027|
-|------------------------|------------------------------|-------|-------|
-|       Coach Bus        |         HHD Vehicle          |20.6287|20.1375|
-|       Motor Home       |         MDH Vehicle          |22.3969|22.2004|
-|       School Bus       |         MHD Vehicle          |28.5855|26.6208|
-|       Other bus        |         HHD Vehicle          |29.4695|28.0943|
-|     Refuse hauler      |         HHD Vehicle          |30.7466|29.2731|
-|     Concrete mixer     |         HHD Vehicle          |31.3360|31.0413|
-|   Mixed-use vehicle    |         HHD Vehicle          |31.3360|31.0413|
-|   Emergency Vehicle    |         HHD Vehicle          |31.8271|31.3360|
-
-<sup>1</sup> Vehicle types are generally defined in § 535.3. “Other bus” includes any bus that is not a school bus or a coach bus. A “mixed-use vehicle” is one that meets at least one of the criteria specified in 40 CFR 1037.631(a)(1) or at least one of the criteria in 40 CFR 1037.631(a)(2), but not both.
+|                                                                                                                                            Vehicle type <sup>1</sup>                                                                                                                                             |Assigned vehicle service class|MY 2021|MY 2027|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------|-------|
+|                                                                                                                                                    Coach Bus                                                                                                                                                     |         HHD Vehicle          |20.6287|20.1375|
+|                                                                                                                                                    Motor Home                                                                                                                                                    |         MDH Vehicle          |22.3969|22.2004|
+|                                                                                                                                                    School Bus                                                                                                                                                    |         MHD Vehicle          |28.5855|26.6208|
+|                                                                                                                                                    Other bus                                                                                                                                                     |         HHD Vehicle          |29.4695|28.0943|
+|                                                                                                                                                  Refuse hauler                                                                                                                                                   |         HHD Vehicle          |30.7466|29.2731|
+|                                                                                                                                                  Concrete mixer                                                                                                                                                  |         HHD Vehicle          |31.3360|31.0413|
+|                                                                                                                                                Mixed-use vehicle                                                                                                                                                 |         HHD Vehicle          |31.3360|31.0413|
+|                                                                                                                                                Emergency Vehicle                                                                                                                                                 |         HHD Vehicle          |31.8271|31.3360|
+|<sup>1</sup> Vehicle types are generally defined in § 535.3. “Other bus” includes any bus that is not a school bus or a coach bus. A “mixed-use vehicle” is one that meets at least one of the criteria specified in 40 CFR 1037.631(a)(1) or at least one of the criteria in 40 CFR 1037.631(a)(2), but not both.|                              |       |       |
 
 (i) Manufacturers may generate or use fuel consumption credits for averaging to demonstrate compliance with the alternative standards as described in § 535.7(c). This requires that manufacturers specify a Family Emission Limit (FEL) for fuel consumption for each vehicle subfamily. The FEL may not be less than the result of emission modeling as described in this paragraph (b). These FELs serve as the fuel consumption standards for the vehicle subfamily instead of the standards specified in this paragraph (b)(6). Manufacturers may only use fuel consumption credits for vehicles certified to the optional standards in this paragraph (b)(6) as specified in § 535.7(c)(6) through (8) and you may not bank or trade fuel consumption credits from any vehicles certified under this paragraph (b)(6).
 
@@ -246,7 +232,7 @@ Table 10—Phase 2 Custom Chassis Fuel Consumption Standards
 
 (9) *Off-road exemptions.* This section provides an exemption for heavy-duty vocational vehicle subfamilies, including vocational tractors that are intended to be used extensively in off-road environments such as forests, oil fields, and construction sites from the fuel consumption standards in this paragraph (b). Vehicle exempted by this part do not comply with vehicle standards in this paragraph (b), but the engines in these vehicles must meet the engine requirements of paragraph (d) of this section. Note that manufacturers may not include these exempted vehicles in any credit calculations under this part.
 
-(i) *Qualifying criteria.* Vocational vehicles intended for off-road use are exempt without request, subject to the provisions of this section, if they are primarily designed to perform work off-road (such as in oil fields, mining, forests, or construction sites), and they meet at least one of the criteria of paragraph (b)(9)(i)(A) of this section and at least one of the criteria of paragraph (b)(9)(i)(B) of this section. See paragraph (b)(6) of this section for alternate standards that apply for vehicles meeting only one of these sets of criteria.
+(i) *Qualifying criteria.* Vocational vehicles with a date of manufacture before January 1, 2021 automatically qualify for an exemption under this paragraph (b)(9) if the tires installed on the vehicle have a maximum speed rating at or below 55 miles per hour. Vocational vehicles intended for off-road use are exempt without request, subject to the provisions of this section, if they are primarily designed to perform work off-road (such as in oil fields, mining, forests, or construction sites), and they meet at least one of the criteria of paragraph (b)(9)(i)(A) of this section and at least one of the criteria of paragraph (b)(9)(i)(B) of this section. See paragraph (b)(6) of this section for alternate standards that apply for vehicles meeting only one of these sets of criteria.
 
 (A) The vehicle must have affixed components designed to work inherently in an off-road environment (such as hazardous material equipment or off-road drill equipment) or be designed to operate at low speeds such that it is unsuitable for normal highway operation.
 
@@ -294,7 +280,7 @@ Table 10—Phase 2 Custom Chassis Fuel Consumption Standards
 
 (13) *Compliance with Standards.* A manufacturer complies with the standards of this part as described in § 535.10.
 
-(c) *Truck tractors.* Each manufacturer building truck tractors, except vocational tractors or vehicle constructed in accordance with § 571.7(e), with a GVWR above 26,000 pounds shall comply with the fuel consumption standards in this paragraph (c) expressed in gallons per 1000 ton-miles. Engines used in heavy-duty truck tractors vehicles shall comply with the standards in paragraph (d) of this section. Each vehicle must be manufactured to comply for its full useful life. Standards apply to the vehicle subfamilies within each of the tractor vehicle regulatory subcategories in accordance with § 535.4 and 40 CFR 1037.230 and based upon the applicable modeling and testing specified in § 535.6. Determine the vehicles in each regulatory subcategory in accordance with 40 CFR 1037.140.
+(c) *Truck tractors.* Each manufacturer building truck tractors, except vocational tractors or vehicle constructed in accordance with 49 CFR 571.7(e), with a GVWR above 26,000 pounds shall comply with the fuel consumption standards in this paragraph (c) expressed in gallons per 1,000 ton-miles. When applying the fuel consumption standards in this paragraph (c), manufacturers must use the same options they use to comply with EPA in 40 CFR 1037.106 in terms of grouping vehicles and/or engines for purposes of determining applicable standards and determining compliance (*i.e.,* the vehicles and/or engines and must be grouped in the same way for purposes of this paragraph (c) as they are grouped for compliance with EPA's requirements in 40 CFR 1037.106). Engines used in heavy-duty truck tractors vehicles shall comply with the standards in paragraph (d) of this section. Each vehicle must be manufactured to comply for its full useful life. Standards apply to the vehicle subfamilies within each of the tractor vehicle regulatory subcategories in accordance with § 535.4 and 40 CFR 1037.230 and based upon the applicable modeling and testing specified in § 535.6. Determine the vehicles in each regulatory subcategory in accordance with 40 CFR 1037.140.
 
 (1) *Mandatory standards.* For model years 2016 and later, each manufacturer's truck tractor subfamilies must comply with the fuel consumption standards in paragraph (c)(3) of this section.
 
@@ -310,49 +296,46 @@ Table 10—Phase 2 Custom Chassis Fuel Consumption Standards
 
 (3) *Regulatory subcategory standards.* The fuel consumption standards for truck tractors, except for vocational tractors, are given in the following table:
 
-Table 11—Truck Tractor Fuel Consumption Standards
-
-[Gallons per 1,000 ton-miles]
-
-|               Regulatory subcategories               |Day cab |Sleeper cab|Heavy-Haul|       |
-|------------------------------------------------------|--------|-----------|----------|-------|
-|                       Class 7                        |Class 8 |  Class 8  |          |       |
-| Phase 1—Model Years 2013 to 2015 Voluntary Standards |        |           |          |       |
-|                       Low Roof                       |10.5108 |  7.9568   |  6.6798  |       |
-|                       Mid Roof                       |11.6896 |  8.6444   |  7.4656  |       |
-|                      High Roof                       |12.1807 |  9.0373   |  7.3674  |       |
-|      Phase 1—Model Year 2016 Mandatory Standard      |        |           |          |       |
-|                       Low Roof                       |10.5108 |  7.9568   |  6.6798  |  NA   |
-|                       Mid Roof                       |11.6896 |  8.6444   |  7.4656  |       |
-|                      High Roof                       |12.1807 |  9.0373   |  7.3674  |       |
-| Phase 1—Model Years 2017 to 2020 Mandatory Standards |        |           |          |       |
-|                       Low Roof                       |10.2161 |  7.8585   |  6.4833  |  NA   |
-|                       Mid Roof                       |11.2967 |  8.4479   |  7.1709  |       |
-|                      High Roof                       |11.7878 |  8.7426   |  7.0727  |       |
-| Phase 2—Model Years 2021 to 2023 Mandatory Standards |        |           |          |       |
-|                       Low Roof                       |10.36346|  7.90766  | 7.10216  |5.14735|
-|                       Mid Roof                       |11.11984|  8.38900  | 7.66208  |       |
-|                      High Roof                       |11.14931|  8.40864  | 7.43615  |       |
-| Phase 2—Model Years 2024 to 2026 Mandatory Standards |        |           |          |       |
-|                       Low Roof                       |9.80354 |  7.48527  | 6.67976  |4.93124|
-|                       Mid Roof                       |10.52063|  7.94695  | 7.22004  |       |
-|                      High Roof                       |10.47151|  7.89784  | 6.94499  |       |
-|Phase 2—Model Years 2027 and later Mandatory Standards|        |           |          |       |
-|                       Low Roof                       |9.44990 |  7.21022  | 6.29666  |4.74460|
-|                       Mid Roof                       |10.15717|  7.66208  | 6.83694  |       |
-|                      High Roof                       |9.82318 |  7.43615  | 6.31631  |       |
+|                 Regulatory subcategories                 |Day cab |Sleeper cab|Heavy-Haul|       |
+|----------------------------------------------------------|--------|-----------|----------|-------|
+|                         Class 7                          |Class 8 |  Class 8  |          |       |
+| **Phase 1—Model Years 2013 to 2015 Voluntary Standards** |        |           |          |       |
+|                         Low Roof                         |10.5108 |  7.9568   |  6.6798  |       |
+|                         Mid Roof                         |11.6896 |  8.6444   |  7.4656  |       |
+|                        High Roof                         |12.1807 |  9.0373   |  7.3674  |       |
+|      **Phase 1—Model Year 2016 Mandatory Standard**      |        |           |          |       |
+|                         Low Roof                         |10.5108 |  7.9568   |  6.6798  |  NA   |
+|                         Mid Roof                         |11.6896 |  8.6444   |  7.4656  |       |
+|                        High Roof                         |12.1807 |  9.0373   |  7.3674  |       |
+| **Phase 1—Model Years 2017 to 2020 Mandatory Standards** |        |           |          |       |
+|                         Low Roof                         |10.2161 |  7.8585   |  6.4833  |  NA   |
+|                         Mid Roof                         |11.2967 |  8.4479   |  7.1709  |       |
+|                        High Roof                         |11.7878 |  8.7426   |  7.0727  |       |
+| **Phase 2—Model Years 2021 to 2023 Mandatory Standards** |        |           |          |       |
+|                         Low Roof                         |10.36346|  7.90766  | 7.10216  |5.14735|
+|                         Mid Roof                         |11.11984|  8.38900  | 7.66208  |       |
+|                        High Roof                         |11.14931|  8.40864  | 7.43615  |       |
+| **Phase 2—Model Years 2024 to 2026 Mandatory Standards** |        |           |          |       |
+|                         Low Roof                         |9.80354 |  7.48527  | 6.67976  |4.93124|
+|                         Mid Roof                         |10.52063|  7.94695  | 7.22004  |       |
+|                        High Roof                         |10.47151|  7.89784  | 6.94499  |       |
+|**Phase 2—Model Years 2027 and later Mandatory Standards**|        |           |          |       |
+|                         Low Roof                         |9.44990 |  7.21022  | 6.29666  |4.74460|
+|                         Mid Roof                         |10.15717|  7.66208  | 6.83694  |       |
+|                        High Roof                         |9.82318 |  7.43615  | 6.31631  |       |
 
 (4) *Subfamily standards.* Manufacturers may generate or use fuel consumption credits for averaging, banking, and trading as described in § 535.7(c). This requires that manufacturers calculate a credit quantity if they specify a Family Emission Limit (FEL) that is different than the standard specified in this section. The FEL may not be less than the result of emission and fuel consumption modeling from 40 CFR 1037.520. These FELs serve as the emission standards for the specific vehicle subfamily instead of the standards specified in paragraph (2) of this section.
 
 (5) *Alternate standards for tractors at or above 120,000 pounds GCWR.* Manufacturers may certify tractors at or above 120,000 pounds GCWR to the following fuel consumption standards in the following table:
 
-Table 12—Alternate Fuel Consumption Standards for Tractors Above 120,000 Pounds GCWR for 2021 MY and Later Fuel Consumption
-
-[Gallons per 1,000 ton-miles]
-
-|Low roof day cab|Mid roof  <br/>day cab|High roof  <br/>day cab|Low roof  <br/>sleeper cab|Mid roof  <br/>sleeper cab|High roof  <br/>sleeper cab|
-|----------------|----------------------|-----------------------|--------------------------|--------------------------|---------------------------|
-|    3.59528     |       3.82122        |        3.84086        |         3.26130          |         3.52652          |          3.43811          |
+|      Regulatory subcategory       |Model years 2021 through 2023|Model years 2024 through 2026|Model years 2027 and later|
+|-----------------------------------|-----------------------------|-----------------------------|--------------------------|
+|  Heavy Class 8 Low-Roof Day Cab   |           5.25540           |           4.99018           |         4.80354          |
+|Heavy Class 8 Low-Roof Sleeper Cab |           4.62672           |           4.37132           |         4.16503          |
+|  Heavy Class 8 Mid-Roof Day Cab   |           5.46169           |           5.18664           |         4.99018          |
+|Heavy Class 8 Mid-Roof Sleeper Cab |           4.87230           |           4.60707           |         4.39096          |
+|  Heavy Class 8 High-Roof Day Cab  |           5.35363           |           5.04912           |         4.77407          |
+|Heavy Class 8 High-Roof Sleeper Cab|           4.62672           |           4.34185           |         4.02750          |
 
 (6) *Advanced, innovative and off-cycle technologies.* For tractors subject to Phase 1 standards, manufacturers must create separate vehicle subfamilies for vehicles that contain advanced or innovative technologies and group those vehicles together in a vehicle subfamilies if they use the same advanced or innovative technologies. Manufacturers may generate separate credit allowances for advanced and innovative technologies as specified in § 535.7(f)(1) and (2). For vehicles subject to Phase 2 standards, manufacturers may generate separate credits allowance for off-cycle technologies in accordance with § 535.7(f)(2). Separate credit allowances for advanced technology vehicles cannot be generated but instead manufacturers may use the credit multipliers specified in § 535.7(f)(1)(iv) through model year 2026.
 
@@ -398,7 +381,7 @@ Table 12—Alternate Fuel Consumption Standards for Tractors Above 120,000 Pound
 
 (13) *Compliance with standards.* A manufacturer complies with the standards of this part as described in § 535.10.
 
-(d) *Heavy-duty engines.* Each manufacturer of heavy-duty engines shall comply with the fuel consumption standards in this paragraph (d) of this section expressed in gallons per 100 horsepower-hour. Each engine must be manufactured to comply for its full useful life, expressed in service miles, operating hours, or calendar years, whatever comes first. The provisions of this part apply to all new 2014 model year and later heavy-duty engines fueled by conventional and alternative fuels and manufactured for use in heavy-duty tractors or vocational vehicles. Standards apply to the engine families based upon the primary intended service classes within each of the engine regulatory subcategories as described in § 535.4 and based upon the applicable modeling and testing specified in § 535.6.
+(d) *Heavy-duty engines.* Each manufacturer of heavy-duty engines shall comply with the fuel consumption standards in this paragraph (d) of this section expressed in gallons per 100 horsepower-hour. When applying the fuel consumption standards in this paragraph (d), manufacturers must use the same options they use to comply with EPA in 40 CFR 1036.108 in terms of grouping engines for purposes of determining applicable standards and determining compliance (*i.e.,* the engines must be grouped in the same way for part 535.5(d) purposes as they are grouped for compliance with EPA's requirements in 40 CFR 1036.108). Each engine must be manufactured to comply for its full useful life, expressed in service miles, operating hours, or calendar years, whatever comes first. The provisions of this part apply to all new 2014 model year and later heavy-duty engines fueled by conventional and alternative fuels and manufactured for use in heavy-duty tractors or vocational vehicles. Standards apply to the engine and powertrain families and sub-families based upon the primary intended service classes within each of the engine regulatory subcategories as described in § 535.4 and based upon the applicable modeling and testing specified in § 535.6.
 
 (1) *Mandatory standards.* Manufacturers of heavy-duty engine families shall comply with the mandatory fuel consumption standards in paragraphs (d)(3) through (6) of this section for model years 2017 and later for compression-ignition engines and for model years 2016 and later for spark-ignition engines.
 
@@ -414,23 +397,27 @@ Table 12—Alternate Fuel Consumption Standards for Tractors Above 120,000 Pound
 
 (3) *Regulatory subcategory standards.* The primary fuel consumption standards for heavy-duty engine families are given in the following table:
 
-Table 13—Primary Heavy-Duty Engine Fuel Consumption Standards
+|Phase 1—Voluntary Standards|                                          |                                    |                                    |          |       |      |
+|---------------------------|------------------------------------------|------------------------------------|------------------------------------|----------|-------|------|
+|  Regulatory subcategory   |CI LHD engines and all other  <br/>engines|CI MHD engines and all other engines|HHD CI engines and all other engines|SI engines|       |      |
+|        Application        |                Vocational                |             Vocational             |              Tractor               |Vocational|Tractor| All  |
+|           2015            |                                          |                                    |                                    |          |       |7.0552|
+|     2013 through 2016     |                  5.8939                  |               5.8939               |               4.9312               |  5.5697  | 4.666 |      |
 
-[Gallons per 100 hp-hr]
+|Phase 1—Mandatory Standards|                                          |                                    |                                    |          |       |      |
+|---------------------------|------------------------------------------|------------------------------------|------------------------------------|----------|-------|------|
+|  Regulatory subcategory   |CI LHD engines and all other  <br/>engines|CI MHD engines and all other engines|CI HHD engines and all other engines|SI engines|       |      |
+|        Application        |                Vocational                |             Vocational             |              Tractor               |Vocational|Tractor| All  |
+|           2016            |                                          |                                    |                                    |          |       |7.0552|
+|     2017 through 2020     |                  5.6582                  |               5.6582               |               4.7839               |  5.4519  |4.5187 |7.0552|
 
-|  Regulatory subcategory   |CI LHD engines  <br/>and all other  <br/>engines|CI MHD engines  <br/>and all other  <br/>engines|HHD CI engines  <br/>and all other  <br/>engines|SI engines|       |      |
-|---------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|----------|-------|------|
-|        Application        |                   Vocational                   |                   Vocational                   |                    Tractor                     |Vocational|Tractor| All  |
-|Phase 1—Voluntary Standards|                                                |                                                |                                                |          |       |      |
-|           2015            |                                                |                                                |                                                |          |       |7.0552|
-|       2013 to 2016        |                     5.8939                     |                     5.8939                     |                     4.9312                     |  5.5697  | 4.666 |      |
-|Phase 1—Mandatory Standards|                                                |                                                |                                                |          |       |      |
-|           2016            |                                                |                                                |                                                |          |       |7.0552|
-|       2017 to 2020        |                     5.6582                     |                     5.6582                     |                     4.6660                     |  5.4519  |4.4401 |7.0552|
-|Phase 2—Mandatory Standards|                                                |                                                |                                                |          |       |      |
-|       2021 to 2023        |                     5.5305                     |                     5.3536                     |                     4.6464                     |  5.0393  |4.3910 |7.0552|
-|       2024 to 2026        |                     5.4519                     |                     5.2849                     |                     4.5285                     |  4.9705  |4.2829 |7.0552|
-|      2027 and later       |                     5.4224                     |                     5.2554                     |                     4.4892                     |  4.9411  |4.2436 |7.0552|
+|Phase 2—Mandatory Standards|                                          |                                    |                                    |                               |       |      |
+|---------------------------|------------------------------------------|------------------------------------|------------------------------------|-------------------------------|-------|------|
+|  Regulatory subcategory   |CI LHD engines and all other  <br/>engines|CI MHD engines and all other engines|CI HHD engines and all other engines|SI engines (except HHD engines)|       |      |
+|        Application        |                Vocational                |             Vocational             |              Tractor               |          Vocational           |Tractor| All  |
+|     2021 through 2023     |                  5.5305                  |               5.3536               |               4.6464               |            5.0393             |4.3910 |7.0552|
+|     2024 through 2026     |                  5.4519                  |               5.2849               |               4.5285               |            4.9705             |4.2829 |7.0552|
+|      2027 and Later       |                  5.4224                  |               5.2554               |               4.4892               |            4.9411             |4.2436 |7.0552|
 
 (4) *Alternate subcategory standards.* The alternative fuel consumption standards for heavy-duty compression-ignition engine families are as follows:
 
@@ -442,19 +429,14 @@ Table 13—Primary Heavy-Duty Engine Fuel Consumption Standards
 
 (5) *Alternate phase-in standards.* Manufacturers have the option to comply with EPA emissions standards for compression-ignition engine families using an alternative phase-in schedule that correlates with EPA's OBD standards. If a manufacturer chooses to use the alternative phase-in schedule for meeting EPA standards and optionally chooses to comply early with the NHTSA fuel consumption program, it must use the same phase-in schedule beginning in model year 2013 for fuel consumption standards and must remain in the program for each model year thereafter until model year 2020. The fuel consumption standard for each model year of the alternative phase-in schedule is provided in Table 15 of this section. Note that engine families certified to these standards are not eligible for early credits under § 535.7.
 
-Table 14—Phase 1 Alternative Phase-In CI Engine Fuel Consumption Standards
-
-[Gallons per 100 hp-hr]
-
-|         Tractors         |LHD engines|MHD engines|HHD engines|
-|--------------------------|-----------|-----------|-----------|
-| Model Years 2013 to 2015 |    NA     |  5.0295   |  4.7642   |
-|Model Years 2016 to 2020 †|    NA     |  4.7839   |  4.5187   |
-|        Vocational        |LHD engines|MHD engines|HHD engines|
-| Model Years 2013 to 2015 |  6.0707   |  6.0707   |  5.6680   |
-|Model Years 2016 to 2020 †|  5.6582   |  5.6582   |  5.4519   |
-
-† Note: These alternate standards for 2016 and later are the same as the otherwise applicable standards for 2017 through 2020.
+|                                                             Tractors                                                             |LHD engines|MHD engines|HHD engines|
+|----------------------------------------------------------------------------------------------------------------------------------|-----------|-----------|-----------|
+|                                                     Model Years 2013 to 2015                                                     |    NA     |  5.0295   |  4.7642   |
+|                                                    Model Years 2016 to 2020 †                                                    |    NA     |  4.7839   |  4.5187   |
+|                                                            Vocational                                                            |LHD engines|MHD engines|HHD engines|
+|                                                     Model Years 2013 to 2015                                                     |  6.0707   |  6.0707   |  5.6680   |
+|                                                    Model Years 2016 to 2020 †                                                    |  5.6582   |  5.6582   |  5.4519   |
+|† **Note:** These alternate standards for 2016 and later are the same as the otherwise applicable standards for 2017 through 2020.|           |           |           |
 
 (6) *Alternative fuel conversions.* Engines that have been converted to operate on alternative fuels may demonstrate compliance with the standards of this part or other alternative compliance approaches allowed by EPA in 40 CFR 85.525.
 
@@ -478,11 +460,11 @@ Table 14—Phase 1 Alternative Phase-In CI Engine Fuel Consumption Standards
 
 (11) *Alternate transition option for Phase 2 engine standards.* (i) Manufacturers may optionally elect to comply with the model year 2021 primary (Phase 2) vocational vehicle and tractor engine standards in paragraph (d)(3) of this section beginning in model year 2020 (*e.g.* comply with the more stringent standards one year early). The model year 2021 standard would apply to these manufacturers for model years 2020 through 2023. Manufacturers that voluntarily certify their engines to model year 2021 standards early would then be eligible for less stringent engine tractor standards in model years 2024 through 2026, as follows:
 
-(A) 5.2849 gallons per 100 hp-hr for MHD vocational vehicle engines.
+(A) 5.3241 gallons per 100 hp-hr for MHD vocational vehicle engines.
 
 (B) 4.5874 gallons per 100 hp-hr for MHD tractor engines.
 
-(C) 4.9705 gallons per 100 hp-hr for HHD vocational vehicle engines.
+(C) 5.0098 gallons per 100 hp-hr for HHD vocational vehicle engines.
 
 (D) 4.3418 gallons per 100 hp-hr for HHD tractor engines.
 
@@ -492,68 +474,4 @@ Table 14—Phase 1 Alternative Phase-In CI Engine Fuel Consumption Standards
 
 (12) *Compliance with Standards.* A manufacturer complies with the standards of this part as described in § 535.10.
 
-(e) *Heavy-duty Trailers.* Each manufacturer of heavy-duty trailers as specified in 49 CFR 523.10, except trailers constructed in accordance with 49 CFR 571.7(f), shall comply with the fuel consumption standards in paragraph (e)(1) of this section expressed in gallons per 1000 ton-miles. Each vehicle must be manufactured to comply for its full useful life. There are no Phase 1 standards for trailers. Different levels of stringency apply for box vans depending on features that may affect aerodynamic performance. Standards apply to the trailer vehicle families within each of the trailer regulatory subcategories in accordance with § 535.4 and 40 CFR 1037.230 and based upon the applicable modeling and testing specified in § 535.6.
-
-(1) *Fuel consumption standards for Box-Vans.* Box van trailer families manufactured in model year 2021 and later must comply with the fuel consumption standards of this section. For model years 2018 through 2020, box van trailer manufacturers have the option to voluntarily comply with the fuel consumption standards of this section. Different levels of stringency apply for box vans depending on features that may affect aerodynamic performance. A manufacturer may optionally meet less stringent standards for different trailer types, which are characterized as follows:
-
-(i) For trailers 35 feet or longer, a manufacturer may designate as “non-aero box vans” those box vans that have a rear lift gate or rear hinged ramp, and at least one of the following side features: Side lift gate, side-mounted pull-out platform, steps for side-door access, a drop-deck design, or belly boxes that occupy at least half the length of both sides of the trailer between the centerline of the landing gear and the leading edge of the front wheels. For trailers less than 35 feet long, manufacturers may designate as “non-aero box vans” any refrigerated box vans with at least one of the side features identified for longer trailers.
-
-(ii) A manufacturer may designate as “partial-aero box vans” those box vans that have at least one of the side features identified in paragraph (a)(1)(i) of this section. Long box vans may also qualify as partial-aero box vans if they have a rear lift gate or rear hinged ramp. Note that this paragraph (e)(1)(ii) does not apply for box vans designated as “non-aero box vans” under paragraph (e)(1)(i) of this section.
-
-(iii) “Full-aero box vans” are box vans that are not designated as non-aero box vans or partial-aero box vans under this paragraph (e)(1).
-
-(iv) Fuel consumption standards apply for full-aero box vans as specified in the following table:
-
-Table 15—Phase 2 Full Aero Box Van Fuel Consumption Standards
-
-[Gallons per 1,000 ton-miles]
-
-|    Model years    |Dry van|Refrigerated van|       |        |
-|-------------------|-------|----------------|-------|--------|
-|       Long        | Short |      Long      | Short |        |
-|Voluntary Standards|       |                |       |        |
-|   2018 to 2020    |7.98625|    12.31827    |8.15324|12.68173|
-|Mandatory Standards|       |                |       |        |
-|   2021 to 2023    |7.75049|    12.15128    |7.91749|12.52456|
-|   2024 to 2026    |7.58350|    11.87623    |7.75049|12.24951|
-|  2027 and later   |7.43615|    11.72888    |7.60314|12.10216|
-
-(v) Fuel consumption standards apply for partial-aero box vans as specified in the following table:
-
-Table 16—Phase 2 Fuel Consumption Standards for Partial-Aero Box Vans
-
-[Gallons per 1,000 ton-mile]
-
-|  Model year  |Dry van |Refrigerated van|        |       |
-|--------------|--------|----------------|--------|-------|
-|    Short     |  Long  |     Short      |  Long  |       |
-|  2018-2020   |12.31827|    7.98625     |12.68173|8.15324|
-|2021 and later|12.15128|    7.91749     |12.52456|8.08448|
-
-(2) *Fuel consumption standards for Non-aero Box Vans and Non-box Trailers.* (i) Non-aero box van and non-box trailer families manufactured in model year 2021 and later must comply with the fuel consumption standards of this section. For model years 2018 through 2020, trailer manufacturers have the option to voluntarily comply with the fuel consumption standards of this section.
-
-(ii) Non-aero box vans and non-box vans must meet the following standards:
-
-(A) Trailers must use automatic tire inflation systems or tire pressure monitoring systems with wheels on all axles. Tire pressure monitoring systems must use low pressure warning and malfunction telltales in clear view of the driver as specified in S4.3 and S4.4 of 49 CFR 571.138.
-
-(B) Non-box trailers must use tires with a TRRL at or below 5.1 kg/tonne. Through model year 2020, non-box trailers may instead use tires with a TRRL at or below 6.0 kg/tonne.
-
-(C) Non-aero box vans must use tires with a TRRL at or below 4.7 kg/tonne. Through model year 2020, non-aero box vans may instead use tires with a TRRL at or below 5.1 kg/tonne.
-
-(3) *Subfamily standards.* Starting in model year 2027, manufacturers may generate or use fuel consumption credits for averaging to demonstrate compliance with the standards specified in paragraph (e)(1)(iii) of this section as described in § 535.7(e). This requires that manufacturers specify a Family Emission Limit (FEL) for fuel consumption for each vehicle subfamily. The FEL may not be less than the result of the emission and fuel consumption calculation in 40 CFR 1037.515. The FEL may not be greater than the appropriate standard for model year 2021 trailers. These FELs serve as the fuel consumption standards for the specific vehicle subfamily instead of the standards specified in paragraph (e)(1) of this section. Manufacturers may not use averaging for non-box trailers, partial-aero box vans, or non-aero box vans that meet standards under paragraph (e)(1)(i) or (e)(1)(ii) of this section, and manufacturers may not use fuel consumption credits for banking or trading for any trailers.
-
-(4) *Useful life.* The fuel consumption standards of this section apply for a useful life equal to 10 years.
-
-(5) *Transitional allowances for trailers.* Through model year 2026, trailer manufacturers may calculate a number of trailers that are exempt from the standards and certification requirements of this part. Calculate the number of exempt box vans in a given model year by multiplying the manufacturer's total U.S.-directed production volume of certified box vans by 0.20 and rounding to the nearest whole number; however, in no case may the number of exempted box vans be greater than 350 units in any given model year. Repeat this calculation to determine the number of non-box trailers, up to 250 annual units, that are exempt from standards and certification requirements. Perform the calculation based on the manufacturer's projected production volumes in the first year that standards apply; in later years, use actual production volumes from the preceding model year. Manufacturers include these calculated values of the production volumes of exempt trailers in their annual production report under § 535.8 and 40 CFR 1037.250.
-
-(6) *Roll-up doors for non-aero box vans.* Through model year 2023, box vans may qualify for non-aero or partial-aero standards under this paragraph (e) by treating roll-up rear doors as being equivalent to rear lift gates.
-
-(7) *Expanded families.* A manufacturer may include refrigerated box vans in a vehicle family with dry box vans by treating them all as dry box vans for demonstrating compliance with fuel consumption standards. A manufacturer may include certain other types of trailers in a vehicle family with a different type of trailer, such that the combined set of trailers are all subject to the more stringent standards, as follows:
-
-(i) Standards for long trailers are more stringent than standards for short trailers.
-
-(ii) Standards for long dry box vans are more stringent than standards for short refrigerated box vans.
-
-(iii) Standards for non-aero box vans are more stringent than standards for non-box trailers.
-
-(8) *Compliance with standards.* A manufacturer complies with the standards of this part as described in § 535.10.
+[81 FR 74238, Oct. 25, 2016, as amended at 89 FR 18819, Mar. 15, 2024]

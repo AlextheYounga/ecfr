@@ -1,7 +1,5 @@
 ##### § 535.6 Measurement and calculation procedures. #####
 
-Link to an amendment published at 89 FR 18828, Mar. 15, 2024.
-
 This part describes the measurement and calculation procedures manufacturers use to determine annual fuel consumption performance results. Manufacturers use the fuel consumption results determined in this part for calculating credit balances specified in § 535.7 and then determine whether they comply with standards as specified in § 535.10. Manufacturers must use EPA emissions test results for deriving NHTSA's fuel consumption performance rates. Consequently, manufacturers conducting testing for certification or annual demonstration testing and providing CO2 emissions data to EPA must also provide equivalent fuel consumption results to NHTSA for all values. NHTSA and EPA reserve the right to verify separately or in coordination the results of any testing and measurement established by manufacturers in complying with the provisions of this program and as specified in 40 CFR 1037.301 and § 535.9. Any carry over data from the Phase 1 program may be carried into the Phase 2 only with approval from EPA and by using good engineering judgment considering differences in testing protocols between test procedures.
 
 (a) *Heavy-duty pickup trucks and vans.* This section describes the method for determining the fuel consumption performance rates for test groups and for fleets of complete heavy-duty pickup trucks and vans each model year. The NHTSA heavy-duty pickup truck and van fuel consumption performance rates correspond to the same requirements for EPA as specified in 40 CFR 86.1819-14.
@@ -38,7 +36,7 @@ This part describes the measurement and calculation procedures manufacturers use
 
 (b) *Heavy-duty vocational vehicles and tractors.* This section describes the method for determining the fuel consumption performance rates for vehicle families of heavy-duty vocational vehicles and tractors. The NHTSA heavy-duty vocational vehicle and tractor fuel consumption performance rates correspond to the same requirements for EPA as specified in 40 CFR 1037, subpart F.
 
-(1) Select vehicles and vehicle family configurations to test as specified in 40 CFR 1037.230 for vehicles that make up each of the manufacturer's regulatory subcategories of vocational vehicles and tractors. For the Phase 2 program, select powertrain, axle and transmission families in accordance with 40 CFR 1037.231 and 1037.232.
+(1) Select vehicles and vehicle family configurations as specified in 40 CFR 1037.150 and 1037.230 for vehicles that make up each of the manufacturer's regulatory subcategories of vocational vehicles and tractors. For the Phase 2 program, select powertrain, axle and transmission families in accordance with 40 CFR 1037.231 and 1037.232.
 
 (2) Follow the EPA testing requirements in 40 CFR 1037.230 and 1037.501 to derive inputs for the Greenhouse gas Emissions Model (GEM).
 
@@ -48,7 +46,7 @@ This part describes the measurement and calculation procedures manufacturers use
 
 (i) Model year and regulatory subcategory (see § 535.3 and 40 CFR 1037.230).
 
-(ii) Coefficient of aerodynamic drag or drag area, as described in 40 CFR 1037.520(b) (tractors only for Phase 1).
+(ii) Coefficient of aerodynamic drag (CdA) or drag area, as described in 40 CFR 1037.520(b), 1037.525, 1037.527, and 1037.528. Alternatively, manufacturers may use CdA values as specified in 40 CFR 1037.530, 1037.532, or 1037.534 if used for determining CO2 compliance for EPA. Manufacturers must use the same compliance approach for determining CdA values in GEM for the NHTSA and EPA programs.
 
 (iii) Steer and drive tire rolling resistance, as described in 40 CFR 1037.520(c).
 
@@ -60,7 +58,7 @@ This part describes the measurement and calculation procedures manufacturers use
 
 (5) For Phase 2 vehicles, the GEM inputs described in paragraphs (b)(4)(i) through (v) of this section continue to apply. Note that the provisions related to vehicle speed limiters and automatic engine shutdown systems are available for vocational vehicles in Phase 2. The additional GEM inputs that apply for vocational vehicles and other tractor regulatory subcategories for demonstrating compliance with Phase 2 standards are as follows:
 
-(i) *Engine characteristics.* Enter information from the engine manufacturer to describe the installed engine and its operating parameters as described in 40 CFR 1036.510 and 1037.520(f).
+(i) *Engine characteristics.* Enter information from the engine manufacturer to describe the installed engine and its operating parameters as described in 40 CFR 1036.503 and 1037.520(f).
 
 (ii) *Vehicle information.* Enter information in accordance with 40 CFR 1037.520(g) for the vehicle and its operating parameters including:
 
@@ -92,6 +90,10 @@ This part describes the measurement and calculation procedures manufacturers use
 
 (*2*) If the agencies approve an off-cycle technology under § 535.7(f) and 40 CFR 1037.610 in the form of an improvement factor, enter the improvement factor expressed as a percentage reduction in CO2 emissions. (Note: In the case of approved off-cycle technologies whose benefit is quantified as a g/ton-mile credit, apply the credit to the GEM result, not as a GEM input value.)
 
+(*3*) Manufacturers may use values to characterize torque converters as inputs to GEM as specified in the procedure defined in 40 CFR 1037.570.
+
+(*4*) Vocational vehicle manufacturers may optionally use values for neutral coasting in GEM as specified in 40 CFR 1037.520.
+
 (vi) *Vehicles with hybrid power take-off (PTO).* For vocational vehicles, determine the delta PTO emission result of the manufacturer's engine and hybrid power take-off system as described in 40 CFR 1037.540.
 
 (vii) *Aerodynamic improvements for vocational vehicles.* For vocational vehicles certified using the Regional duty cycle, enter *ΔC*d*A* values to account for using rear fairings and a reduced minimum frontal area as specified in 40 CFR 1037.520(m) and 1037.527.
@@ -106,11 +108,11 @@ This part describes the measurement and calculation procedures manufacturers use
 
 (c) [Reserved]
 
-(d) *Heavy-duty engines.* This section describes the method for determining equivalent fuel consumption family certification level (FCL) values for engine families of heavy-duty truck tractors and vocational vehicles. The NHTSA heavy-duty engine fuel consumption FCLs are determined from the EPA FCLs tested in accordance with 40 CFR 1036, subpart F. Each engine family must use the same primary intended service class as designated for EPA in accordance with 40 CFR 1036.140.
+(d) *Heavy-duty engines.* This section describes the method for determining equivalent fuel consumption family certification level (FCL) values for engine and powertrain families and subfamilies of heavy-duty truck tractors and vocational vehicles. The NHTSA heavy-duty engine fuel consumption FCLs are determined from the EPA FCLs tested in accordance with 40 CFR part 1036, subpart F. Each engine and powertrain family must use the same primary intended service class as designated for EPA in accordance with 40 CFR 1036.140.
 
-(1) Manufacturers must select emission-data engines representing the tested configuration of each engine family specified in 40 CFR part 86 and 40 CFR 1036.235 for engines in heavy-duty truck tractors and vocational vehicles that make up each of the manufacture's regulatory subcategories.
+(1) Manufacturers must select emission-data engines representing the tested configuration of each engine family specified in 40 CFR 1036.501 for engines in heavy-duty truck tractors and vocational vehicles that make up each of the manufacturer's regulatory subcategories.
 
-(2) Standards in § 535.5(d) apply to the CO2 emissions rates for each emissions-data engine in an engine family subject to the procedures and equipment specified in 40 CFR part 1036, subpart F. Determine equivalent fuel consumptions rates using CO2 emissions rates in grams per hp-hr measured to at least one more decimal place than that of the applicable EPA standard in 40 CFR 1036.108.
+(2) Standards in § 535.5(d) apply to the CO2 emissions rates for each emissions-data engine in an engine or powertrain family or sub-family subject to the procedures and equipment specified in 40 CFR part 1036, subpart F. Determine equivalent fuel consumptions rates using CO2 emissions rates in grams per hp-hr measured to at least one more decimal place than that of the applicable EPA standard in 40 CFR 1036.108.
 
 (i) Use the CO2 emissions test results for engines running on each fuel type for conventional, dedicated, multi-fueled (dual-fuel, and flexible-fuel) engines as specified in 40 CFR part 1036, subpart F.
 
@@ -120,11 +122,11 @@ This part describes the measurement and calculation procedures manufacturers use
 
 (iv) All electric vehicles are deemed to have zero emissions of CO2 and zero fuel consumption. No emission or fuel consumption testing is required for such electric vehicles.
 
-(3) Use the CO2 emissions test results for tractor engine families in accordance with 40 CFR 1036.501 and for vocational vehicle engine families in accordance with 40 CFR part 86, subpart N, for each heavy-duty engine regulatory subcategory for each model year.
+(3) For medium HD and heavy HD engines certified as tractor and other long-haul engine families, use the CO2 emissions test results from the steady-state duty cycle, which is referred to as the Supplemental Emission Test (SET), as specified in 40 CFR 1036.510 for each model year; for medium HD and heavy HD engines certified as tractor and vocational engine families, use the CO2 test results from the transient duty cycle, which is referred to as the Federal Test Procedure (FTP) duty cycle, as specified in 40 CFR 1036.512 for each model year; for all other engines (including those certifying to SI standards) use the CO2 emissions test results from the appropriate duty cycle, as specified in 40 CFR 1036.501 for each model year.
 
 (i) If a manufacturer certifies an engine family for use both as a vocational engine and as a tractor engine, the manufacturer must split the family into two separate subfamilies in accordance with 40 CFR 1036.230. The manufacturer may assign the numbers and configurations of engines within the respective subfamilies at any time prior to the submission of the end-of-year report required by 40 CFR 1036.730 and § 535.8. The manufacturer must track into which type of vehicle each engine is installed, although EPA may allow the manufacturer to use statistical methods to determine this for a fraction of its engines.
 
-(ii) The following engines are excluded from the engine families used to determine fuel consumption FCL values and the benefit for these engines is determined as an advanced technology credit under the ABT provisions provided in § 535.7(e); these provisions apply only for the Phase 1 program:
+(ii) The following engines are excluded from the engine and powertrain families and subfamilies used to determine fuel consumption FCL values and the benefit for these engines is determined as an advanced technology credit under the ABT provisions provided in § 535.7(e); these provisions apply only for the Phase 1 program:
 
 (A) Engines certified as hybrid engines or power packs.
 
@@ -144,18 +146,4 @@ This part describes the measurement and calculation procedures manufacturers use
 
 (iv) If a manufacturer uses an alternate test procedure under 40 CFR 1065.10 and subsequently the data is rejected by EPA, NHTSA will also reject the data.
 
-(e) *Heavy-duty trailers.* This section describes the method for determining the fuel consumption performance rates for trailers. The NHTSA heavy-duty trailers fuel consumption performance rates correspond to the same requirements for EPA as specified in 40 CFR part 1037, subpart F.
-
-(1) Select trailer family configurations that make up each of the manufacturer's regulatory subcategories of heavy-duty trailers in 40 CFR 1037.230 and § 535.4.
-
-(2) Obtain preliminary approvals for trailer aerodynamic devices from EPA in accordance with 40 CFR 1037.150.
-
-(3) For manufacturers voluntarily complying in model years 2018 through 2020, and for trailers complying with mandatory standards in model years 2021 and later, determine the CO2 emissions and fuel consumption results for partial- and full-aero trailers using the equations and technologies specified in 40 CFR part 1037, subpart F. Use testing to determine input values in accordance with 40 CFR 1037.515.
-
-(4) From the equation results, use the CO2 family emissions level (FEL) to calculate equivalent fuel consumption FELs are expressed to the nearest 0.0001 gallons per 1000 ton-mile.
-
-(i) For families containing multiple subfamilies, identify the FELs for each subfamily.
-
-(ii) Calculate equivalent fuel consumption FEL values for trailer families. CO2 FEL value (grams per 1000 ton-mile)/10,180 grams per 1000 ton-mile of diesel fuel) × (103) = Fuel consumption FEL value. The equivalent fuel consumption FELs are expressed to the nearest 0.0001 gallons per 1000 ton-mile.
-
-[81 FR 74238, Oct. 25, 2016, as amended at 85 FR 25274, Apr. 30, 2020]
+[81 FR 74238, Oct. 25, 2016, as amended at 85 FR 25274, Apr. 30, 2020; 89 FR 18828, Mar. 15, 2024]

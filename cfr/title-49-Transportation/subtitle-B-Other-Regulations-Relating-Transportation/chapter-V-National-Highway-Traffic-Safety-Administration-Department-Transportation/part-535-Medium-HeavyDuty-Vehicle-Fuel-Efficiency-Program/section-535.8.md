@@ -1,7 +1,5 @@
 ##### § 535.8 Reporting and recordkeeping requirements. #####
 
-Link to an amendment published at 89 FR 18831, Mar. 15, 2024.
-
 (a) *General requirements.* Manufacturers producing heavy-duty vehicles and engines applicable to fuel consumption standards in § 535.5, for each given model year, must submit the required information as specified in paragraphs (b) through (h) of this section.
 
 (1) The information required by this part must be submitted by the deadlines specified in this section and must be based upon all the information and data available to the manufacturer 30 days before submitting information.
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 18831, Mar. 15, 2024.
 
 (5) Manufacturers must use good engineering judgment and provide comparable fuel consumption information to that of the information or data provided to EPA under 40 CFR 86.1865, 1036.250, 1036.730, 1036.825 1037.250, 1037.730, and 1037.825.
 
-(6) Any information that must be sent directly to NHTSA. In instances in which EPA has not created an electronic pathway to receive the information, the information should be sent through an electronic portal identified by NHTSA or through the NHTSA CAFE database (*i.e.,* information on fuel consumption credit transactions). If hardcopy documents must be sent, the information should be sent to the Associate Administrator of Enforcement at 1200 New Jersey Avenue, NVS-200, Office W45-306, SW., Washington, DC 20590.
+(6) Any information that must be sent directly to NHTSA. In instances in which EPA has not created an electronic pathway to receive the information, the information should be sent through an electronic portal identified by NHTSA or through the NHTSA CAFE database (*i.e.,* information on fuel consumption credit transactions). If hardcopy documents must be sent, the information should be sent to the Associate Administrator of Enforcement at 1200 New Jersey Avenue SE, NVS-200, Office W45-306, Washington, DC 20590.
 
 (b) *Pre-model year reports.* Manufacturers producing heavy-duty pickup trucks and vans must submit reports in advance of the model year providing early estimates demonstrating how their fleet(s) would comply with GHG emissions and fuel consumption standards. Note, the agencies understand that early model year reports contain estimates that may change over the course of a model year and that compliance information manufacturers submit prior to the beginning of a new model year may not represent the final compliance outcome. The agencies view the necessity for requiring early model reports as a manufacturer's good faith projection for demonstrating compliance with emission and fuel consumption standards.
 
@@ -162,7 +160,7 @@ NHTSA may also ask a manufacturer to provide additional information if necessary
 
 (B) A copy of any contracts related to the trade.
 
-(C) The averaging set corresponding to the engine families that generated fuel consumption credits for the trade, including the number of fuel consumption credits from each averaging set.
+(C) The averaging set corresponding to the engine and powertrain families and subfamilies that generated fuel consumption credits for the trade, including the number of fuel consumption credits from each averaging set.
 
 (ii) As the buyer, the manufacturer or entity must include the following information in its report:
 
@@ -174,7 +172,7 @@ NHTSA may also ask a manufacturer to provide additional information if necessary
 
 (D) A copy of the contract with signatures from both the buyer and the seller.
 
-(12) *Production reports.* Within 90 days after the end of the model year and no later than March 31st, manufacturers participating and not-participating in the ABT program must send to EPA and NHTSA a report including the total U.S.-directed production volume of vehicles it produced in each vehicle and engine family during the model year (based on information available at the time of the report) as required by 40 CFR 1036.250 and 1037.250. Trailer manufacturers must include a separate report including the total U.S.-directed production volume of excluded trailers as allowed by § 535.3(e). Each manufacturer shall report by vehicle or engine identification number and by configuration and identify the subfamily identifier. Report uncertified vehicles sold to secondary vehicle manufacturers. Small business manufacturers may omit reporting. Identify any differences between volumes included for EPA but excluded for NHTSA.
+(12) *Production reports.* Within 90 days after the end of the model year and no later than March 31st, manufacturers participating and not-participating in the ABT program must send to EPA and NHTSA a report including the total U.S.-directed production volume of vehicles it produced in each vehicle and engine family during the model year (based on information available at the time of the report) as required by 40 CFR 1036.250 and 1037.250. Each manufacturer shall report by vehicle or engine identification number and by configuration and identify the subfamily identifier. Report uncertified vehicles sold to secondary vehicle manufacturers. Small business manufacturers may omit reporting. Identify any differences between volumes included for EPA but excluded for NHTSA.
 
 (13) *Transition to engine-based model years.* The following provisions apply for production and ABT reports during the transition to engine-based model year determinations for tractors and vocational vehicles in 2020 and 2021:
 
@@ -184,7 +182,7 @@ NHTSA may also ask a manufacturer to provide additional information if necessary
 
 (h) *Public information.* Based upon information submitted by manufacturers and EPA, NHTSA will publish fuel consumption standards and performance results.
 
-(i) *Information received from EPA.* NHTSA will receive information from EPA as specified in 40 CFR 1036.755 and 1037.755.
+(i) *Information received from EPA.* NHTSA will receive information from EPA as specified in 40 CFR 1036.755 and 1037.755. The knowing and willful submission of false, fictitious or fraudulent information under this part will subject a manufacturer to the civil and criminal penalties of 18 U.S.C. 1001.
 
 (j) *Recordkeeping.* NHTSA has the same recordkeeping requirements as the EPA, specified in 40 CFR 86.1865-12(k), 1036.250, 1036.735, 1036.825, 1037.250, 1037.735, and 1037.825. The agencies each reserve the right to request information contained in reports separately.
 
@@ -199,3 +197,5 @@ NHTSA may also ask a manufacturer to provide additional information if necessary
 (5) The agencies may require manufacturers to keep additional records or to send relevant information not required by this section in accordance with each agency's authority.
 
 (6) If collected separately and NHTSA finds that information is provided fraudulent or grossly negligent or otherwise provided in bad faith, the manufacturer may be liable to civil penalties in accordance with each agency's authority.
+
+[81 FR 74238, Oct. 25, 2016, as amended at 89 FR 18831, Mar. 15, 2024]

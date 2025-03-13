@@ -1,6 +1,6 @@
 ##### § 622.41 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
-Link to an amendment published at 89 FR 40436, May 10, 2024.
+Link to an amendment published at 89 FR 40436, May 10, 2024.Link to an amendment published at 89 FR 41899, May 14, 2024.
 
 (a) *Greater amberjack*—(1) *Commercial sector.* (i) If commercial landings, as estimated by the SRD, reach or are projected to reach the annual catch target (ACT) specified in § 622.39(a)(1)(v)(commercial quota), the Assistant Administrator for Fisheries, NOAA, (AA) will file a notification with the Office of the Federal Register to close the commercial sector for the remainder of the fishing year.
 

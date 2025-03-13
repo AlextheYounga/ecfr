@@ -1,18 +1,20 @@
 ##### § 535.10 How do manufacturers comply with fuel consumption standards? #####
 
-Link to an amendment published at 89 FR 18831, Mar. 15, 2024.
-
 (a) *Pre-certification process.* (1) Regulated manufacturers determine eligibility to use exemptions or exclusions in accordance with § 535.3.
 
 (2) Manufacturers may seek preliminary approvals as specified in 40 CFR 1036.210 and 40 CFR 1037.210 from EPA and NHTSA, if needed. Manufacturers may request to schedule pre-certification meetings with EPA and NHTSA prior to submitting approval requests for certificates of conformity to address any joint compliance issues and gain informal feedback from the agencies.
 
-(3) The requirements and prohibitions required by EPA in special circumstances in accordance with 40 CFR 1037.601 and 40 CFR part 1068 apply to manufacturers for the purpose of complying with fuel consumption standards. Manufacturers should use good judgment when determining how EPA requirements apply in complying with the NHTSA program. Manufacturers may contact NHTSA and EPA for clarification about how these requirements apply to them.
+(3) [Reserved]
 
 (4) In circumstances in which EPA provides multiple compliance approaches manufacturers must choose the same compliance path to comply with NHTSA's fuel consumption standards that they choose to comply with EPA's greenhouse gas emission standards.
 
 (5) Manufacturers may not introduce new vehicles into commerce without a certificate of conformity from EPA. Manufacturers must attest to several compliance standards in order to obtain a certificate of conformity. This includes stating comparable fuel consumption results for all required CO2 emissions rates. Manufacturers not completing these steps do not comply with the NHTSA fuel consumption standards.
 
-(6) Manufacturers apply the fuel consumption standards specified in § 535.5 to vehicles, engines and components that represent production units and components for vehicle and engine families, sub-families and configurations consistent with the EPA specifications in 40 CFR 86.1819, 1036.230, and 1037.230.
+(6) Manufacturers apply the fuel consumption standards specified in § 535.5 to vehicles, engines and components that represent production units and components for vehicle and engine families, subfamilies and configurations consistent with the EPA specifications in 40 CFR 86.1819, 1036.230, and 1037.230. Vehicles required to meet the fuel consumption standards of this part must also comply with the following additional requirements, consistent with CFR 1037.115(a) and (d):
+
+(i) *Adjustable parameters.* Vehicles that have adjustable parameters must meet all the requirements of this part for any adjustment in the practically adjustable range. We may require that you set adjustable parameters to any specification within the practically adjustable range during any testing. See 40 CFR 1068.50 for general provisions related to adjustable parameters. You must ensure safe vehicle operation throughout the practically adjustable range of each adjustable parameter, including consideration of production tolerances. Note that adjustable roof fairings and trailer rear fairings are deemed not to be adjustable parameters.
+
+(ii) *Defeat devices.* Consistent with 40 CFR 1068.101, the use of defeat devices is prohibited.
 
 (7) Only certain vehicles and engines are allowed to comply differently between the NHTSA and EPA programs as detailed in this section. These vehicles and engines must be identified by manufacturers in the ABT and production reports required in § 535.8.
 
@@ -22,9 +24,9 @@ Link to an amendment published at 89 FR 18831, Mar. 15, 2024.
 
 (1) For heavy-duty pickup trucks and vans, the manufacturer's fleet average performance, as determined in § 535.6, is less than the fleet average standard; or
 
-(2) For truck tractors, vocational vehicles, engines and box trailers the manufacturer's fuel consumption performance for each vehicle or engine family (or sub-family), as determined in § 535.6, is lower than the applicable regulatory subcategory standards in § 535.5.
+(2) For truck tractors, vocational vehicles, and engines the manufacturer's fuel consumption performance for each vehicle or engine family (or subfamily), as determined in § 535.6, is lower than the applicable regulatory subcategory standards in § 535.5.
 
-(3) For non-box and non-aero trailers, a manufacturer is considered in compliance with fuel consumption standards if all trailers meet the specified standards in § 535.5(e)(1)(i).
+(3) [Reserved]
 
 (4) NHTSA will use the EPA final verified values as specified in 40 CFR 86.1819, 40 CFR 1036.755, and 1037.755 for making final determinations on whether vehicles and engines comply with fuel consumption standards.
 
@@ -35,3 +37,5 @@ Link to an amendment published at 89 FR 18831, Mar. 15, 2024.
 (7) A manufacturer failing to comply with the provisions specified in this part may be liable to pay civil penalties in accordance with § 535.9.
 
 (8) A manufacturer may also be liable to pay civil penalties if found by EPA or NHTSA to have provided false information as identified through NHTSA or EPA enforcement audits or new vehicle verification testing as specified in § 535.9 and 40 CFR parts 86, 1036, and 1037.
+
+[81 FR 74238, Oct. 25, 2016, as amended at 89 FR 18831, Mar. 15, 2024]
