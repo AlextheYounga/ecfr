@@ -1,5 +1,7 @@
 ##### § 1147.108 Reimbursement calculation. #####
 
+Link to an amendment published at 88 FR 57872, Aug. 24, 2023.
+
 (a) For each eligible dairy product donated by an eligible dairy organization with an approved Dairy Donation and Distribution Plan, the amount of reimbursement under § 1147.106 for the donated eligible dairy product shall be the sum of the values of the input cost, the manufacturing cost, and the transportation cost.
 
 (1) The input cost shall be the monthly Federal Milk Marketing Order minimum classified value pursuant to 7 CFR 1000.50 of the fresh fluid milk product (raw milk, skim milk, cream, or concentrate fluid product) or fluid milk equivalent of the bulk dairy commodity product used to make the donated eligible dairy product pursuant to 7 CFR 1000.40 for the month of processing.

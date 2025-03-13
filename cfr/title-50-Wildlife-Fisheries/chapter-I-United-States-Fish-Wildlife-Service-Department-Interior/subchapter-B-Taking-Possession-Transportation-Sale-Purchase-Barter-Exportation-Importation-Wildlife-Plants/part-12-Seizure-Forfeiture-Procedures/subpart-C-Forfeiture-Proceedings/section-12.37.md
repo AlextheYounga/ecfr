@@ -1,0 +1,3 @@
+##### § 12.37 Can I get my property back while the claim is pending? #####
+
+If you have filed a claim and you think that continued possession of the property by the United States during the forfeiture proceeding will cause you substantial hardship, you may request under 18 U.S.C. 983(f) that the Service return the property to you pending the resolution of the judicial forfeiture proceeding. In determining whether to grant or deny your request, the Service will consider the factors set out in 18 U.S.C. 983(f). You must furnish evidence substantiating the hardship, and that none of the conditions set forth in 18 U.S.C. 983(f)(8) apply; for example, the property may not be contraband.

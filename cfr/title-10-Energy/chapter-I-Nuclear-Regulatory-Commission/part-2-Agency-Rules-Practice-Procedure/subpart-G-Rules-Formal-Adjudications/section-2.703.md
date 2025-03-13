@@ -1,5 +1,7 @@
 ##### § 2.703 Examination by experts. #####
 
+Link to an amendment published at 88 FR 57877, Aug. 24, 2023.
+
 (a) A party may request the presiding officer to permit a qualified individual who has scientific or technical training or experience to participate on behalf of that party in the examination and cross-examination of expert witnesses. The presiding officer may permit the individual to participate on behalf of the party in the examination and cross-examination of expert witnesses, upon finding:
 
 (1) That cross-examination by that individual would serve the purpose of furthering the conduct of the proceeding;

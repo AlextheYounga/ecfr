@@ -1,5 +1,7 @@
 ##### § 1146.102 Dairy donation and distribution plans. #####
 
+Link to an amendment published at 88 FR 57872, Aug. 24, 2023.
+
 Eligible partnerships must submit a completed Dairy Donation and Distribution Plan to AMS in the form and manner established by AMS to be eligible for program consideration. The completed Dairy Donation and Distribution Plan must include: (a) The physical location(s) of the eligible dairy organization's processing plant(s) and the eligible distributor's distribution site(s);
 
 (b) The entity type and contact information for the eligible dairy organization;

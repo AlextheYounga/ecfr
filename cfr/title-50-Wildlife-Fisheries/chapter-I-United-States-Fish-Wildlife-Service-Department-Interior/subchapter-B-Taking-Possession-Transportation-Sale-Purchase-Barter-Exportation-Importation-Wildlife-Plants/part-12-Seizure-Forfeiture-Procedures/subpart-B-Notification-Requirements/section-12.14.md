@@ -1,0 +1,3 @@
+##### § 12.14 What happens if the required notification of seizure and proposed forfeiture is not provided? #####
+
+Under 18 U.S.C. 983(a)(1)(F), if the Service or the Solicitor does not send notice of a seizure of property in accordance with that section to the person from whom the property was seized, and no extension of time was granted, the Government is required to return the property to that person, unless the property is contraband or other property that is illegal to possess. Any return of property under this section does not prejudice the right of the Government to commence a forfeiture proceeding at a later time.

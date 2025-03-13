@@ -1,0 +1,5 @@
+##### § 12.35 How will the Solicitor notify me of the decision on my petition for remission? #####
+
+(a) The Solicitor will notify you in writing of any decision to grant or deny a petition for remission or to dismiss the petition for failure to provide the information required in this part or to timely file that petition. The notification will advise you of the reasons for the decision made and the options, if any, available to you for addressing the decision.
+
+(b) In the event that the Solicitor denies your petition for remission of forfeiture, you may file a supplemental petition for reconsideration if you have information or evidence not previously considered that is material to the basis for the denial or new documentation clearly demonstrating that the denial was erroneous. A supplemental petition must be received within 60 days from the date of the Solicitor's notification denying the original petition. You may file only one supplemental petition. The Solicitor's decision on your petition for remission will be the decision for the Service.

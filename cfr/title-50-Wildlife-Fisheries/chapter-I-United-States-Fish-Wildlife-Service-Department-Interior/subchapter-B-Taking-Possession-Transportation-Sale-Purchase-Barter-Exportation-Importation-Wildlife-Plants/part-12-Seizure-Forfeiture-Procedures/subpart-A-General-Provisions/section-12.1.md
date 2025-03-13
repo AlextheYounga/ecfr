@@ -1,3 +1,3 @@
-##### § 12.1 Purpose of regulations. #####
+##### § 12.1 What is the purpose of the regulations in this part? #####
 
-The regulations of this part establish procedures relating to property seized or subject to forfeiture under various laws enforced by the Service.
+These regulations provide procedures that govern the seizure and administrative forfeiture or abandonment of property, as well as the disposal of such property, and the recovery of costs associated with handling and storage of seized property under various laws enforced by the Service.

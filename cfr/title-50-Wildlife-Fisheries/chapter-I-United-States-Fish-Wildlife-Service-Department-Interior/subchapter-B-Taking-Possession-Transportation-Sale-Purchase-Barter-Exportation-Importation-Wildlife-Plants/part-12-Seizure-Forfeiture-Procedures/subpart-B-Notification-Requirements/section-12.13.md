@@ -1,0 +1,5 @@
+##### § 12.13 How is a declaration of forfeiture issued? #####
+
+(a) If the seizing agency commences a timely proceeding against property subject to administrative forfeiture, and either no valid and timely claim is filed or the seized property is not released in response to a petition or supplemental petition for remission, the Service or the Solicitor will declare the property forfeited to the United States for disposition according to law. The declaration of forfeiture will have the same force and effect as a final decree and order of forfeiture in a Federal judicial forfeiture proceeding.
+
+(b) The declaration of forfeiture will describe the property and state the date, time, place, and reason for the seizure of the property. The declaration of forfeiture will refer to the notice of seizure and proposed forfeiture and describe the dates and manner in which the notice of seizure and proposed forfeiture was sent to you. If we have no proof of delivery to you of the notice of seizure and proposed forfeiture, the declaration of forfeiture will describe the efforts made to deliver the notice of seizure and proposed forfeiture to you.

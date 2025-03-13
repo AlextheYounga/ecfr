@@ -1,5 +1,7 @@
 ##### § 2.708 Admissions. #####
 
+Link to an amendment published at 88 FR 57877, Aug. 24, 2023.
+
 (a) Apart from any admissions made during or as a result of a prehearing conference, at any time after his or her answer has been filed, a party may file a written request for the admission of the genuineness and authenticity of any relevant document described in or attached to the request, or for the admission of the truth of any specified relevant matter of fact. A copy of the document for which an admission of genuineness and authenticity is requested must be delivered with the request unless a copy has already been furnished.
 
 (b)(1) Each requested admission is considered made unless, within a time designated by the presiding officer or the Commission, and not less than ten (10) days after service of the request or such further time as may be allowed on motion, the party to whom the request is directed serves on the requesting party either:

@@ -1,5 +1,7 @@
 ##### § 2.706 Depositions upon oral examination and written interrogatories; interrogatories to parties. #####
 
+Link to an amendment published at 88 FR 57877, Aug. 24, 2023.
+
 (a) *Depositions upon oral examination and written interrogatories.* (1) Any party desiring to take the testimony of any party or other person by deposition on oral examination or written interrogatories shall, without leave of the Commission or the presiding officer, give reasonable notice in writing to every other party, to the person to be examined and to the presiding officer of the proposed time and place of taking the deposition; the name and address of each person to be examined, if known, or if the name is not known, a general description sufficient to identify him or the class or group to which he belongs; the matters upon which each person will be examined and the name or descriptive title and address of the officer before whom the deposition is to be taken.
 
 (2) [Reserved]

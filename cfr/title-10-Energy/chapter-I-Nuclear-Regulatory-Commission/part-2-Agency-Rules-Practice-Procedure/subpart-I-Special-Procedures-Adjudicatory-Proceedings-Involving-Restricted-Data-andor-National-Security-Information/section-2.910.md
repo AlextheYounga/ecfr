@@ -1,5 +1,7 @@
 ##### § 2.910 Unclassified statements required. #####
 
+Link to an amendment published at 88 FR 57877, Aug. 24, 2023.
+
 (a) Whenever Restricted Data or other National Security Information is introduced into a proceeding, the party offering it shall submit to the presiding officer and to all parties to the proceeding an unclassified statement setting forth the information in the classified matter as accurately and completely as possible.
 
 (b) In accordance with such procedures as may be agreed upon by the parties or prescribed by the presiding officer, and after notice to all parties and opportunity to be heard thereon, the presiding officer shall determine whether the unclassified statement or any portion of it, together with any appropriate modifications suggested by any party, may be substituted for the classified matter or any portion of it without prejudice to the interest of any party or to the public interest.

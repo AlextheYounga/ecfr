@@ -1,5 +1,7 @@
 ##### § 2.908 Contents of notice of intent to introduce restricted data or other national security information. #####
 
+Link to an amendment published at 88 FR 57877, Aug. 24, 2023.
+
 (a) A party who intends to introduce Restricted Data or other National Security Information shall file a notice of intent with the Secretary. The notice shall be unclassified and, to the extent consistent with classification requirements, shall include the following:
 
 (1) The subject matter of the Restricted Data or other National Security Information which it is anticipated will be involved;

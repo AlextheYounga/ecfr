@@ -8,17 +8,13 @@ If you use the geothermal resource for direct use:
 
 (2) The equivalent value of the least expensive, reasonable alternative energy source (fuel) multiplied by the royalty rate in your lease. The equivalent value of the least expensive, reasonable alternative energy source will be based on the amount of thermal energy that would otherwise be used by the direct use facility in place of the geothermal resource. That amount of thermal energy (in Btu) displaced by the geothermal resource will be determined by the equation:
 
-![](/graphics/er02my07.003.gif)Where hin is the enthalpy in Btu/lb at the direct use facility inlet (based on measured inlet temperature), hout is the enthalpy in Btu/lb at the facility outlet (based on measured outlet temperature), density is in lbs/cu ft based on inlet temperature, the factor 0.133681 (cu ft/gal) converts gallons to cubic feet, and volume is the quantity of geothermal fluid in gallons produced at the wellhead or measured at an approved point. The efficiency factor of the alternative energy source will be 0.7 for coal and 0.8 for oil, natural gas, and other fuels derived from oil and natural gas, or an efficiency factor proposed by the lessee and approved by ONRR. The methods of measuring resource parameters (temperature, volume, etc.) and the frequency of computing and accumulating the amount of thermal energy displaced will be determined and approved by BLM under 43 CFR 3275.13-3275.17.
+![](/graphics/er24au23.039.gif)Where hin is the enthalpy in Btu/lb at the direct use facility inlet (based on measured inlet temperature), hout is the enthalpy in Btu/lb at the facility outlet (based on measured outlet temperature), density is in lbs/cu ft based on inlet temperature, the factor 0.133681 (cu ft/gal) converts gallons to cubic feet, and volume is the quantity of geothermal fluid in gallons produced at the wellhead or measured at an approved point. The efficiency factor of the alternative energy source will be 0.7 for coal and 0.8 for oil, natural gas, and other fuels derived from oil and natural gas, or an efficiency factor proposed by the lessee and approved by ONRR. The methods of measuring resource parameters (temperature, volume, etc.) and the frequency of computing and accumulating the amount of thermal energy displaced will be determined and approved by BLM under 43 CFR 3275.13-3275.17.
 
 (3) A royalty determined by any other reasonable method approved by ONRR or the Assistant Secretary, Policy, Management and Budget of the Department of the Interior, under § 1206.364 of this part.
 
 (b) For geothermal resources produced from Class II and Class III leases, you must multiply the appropriate fee from the schedule in subparagraph (b)(1) of this section by the number of gallons or pounds you produce from the direct use lease each month.
 
 (1) You must use the following fee schedule to calculate fees due under this section:
-
-Direct Use Fee Schedule
-
-[Hot water]
 
 |If your average monthly inlet temperature (°F) is|Your fees are . . .|                   |                  |
 |-------------------------------------------------|-------------------|-------------------|------------------|
@@ -65,4 +61,4 @@ Direct Use Fee Schedule
 
 (c) For geothermal resources other than hot water, ONRR will determine fees on a case-by-case basis.
 
-[48 FR 35641, Aug. 5, 1983; 76 FR 76615, Dec. 8, 2011]Editorial Note:At 76 FR 76615, Dec. 8, 2011, § 1206.356 was amended in the thermal energy displaced equation in paragraph (a)(2) by removing “0.113681” and adding in its place “0.133681”. The rule document does not include a revised illustration to be used for publication.
+[72 FR 24459, May 2, 2007, as amended at 76 FR 76615, Dec. 8, 2011; 88 FR 57882, Aug. 24, 2023]

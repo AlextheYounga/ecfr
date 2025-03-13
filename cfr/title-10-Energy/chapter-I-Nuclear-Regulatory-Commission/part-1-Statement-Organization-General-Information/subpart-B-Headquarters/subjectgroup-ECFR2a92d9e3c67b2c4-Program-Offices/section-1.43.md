@@ -1,5 +1,7 @@
 ##### § 1.43 Office of Nuclear Reactor Regulation. #####
 
+Link to an amendment published at 88 FR 57876, Aug. 24, 2023.
+
 The Office of Nuclear Reactor Regulation—
 
 (a) Develops, promulgates and implements regulations and develops and implements policies, programs, and procedures for all aspects of licensing, inspection, and safeguarding of—

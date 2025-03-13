@@ -1,5 +1,7 @@
 ##### § 2.702 Subpoenas. #####
 
+Link to an amendment published at 88 FR 57877, Aug. 24, 2023.
+
 (a) On application by any party, the designated presiding officer or, if he or she is not available, the Chief Administrative Judge, or other designated officer will issue subpoenas requiring the attendance and testimony of witnesses or the production of evidence. The officer to whom application is made may require a showing of general relevance of the testimony or evidence sought, and may withhold the subpoena if such a showing is not made. However, the officer may not determine the admissibility of evidence.
 
 (b) Every subpoena will bear the name of the Commission, the name and office of the issuing officer and the title of the hearing, and will command the person to whom it is directed to attend and give testimony or produce specified documents or other things at a designated time and place. The subpoena will also advise of the quashing procedure provided in paragraph (f) of this section.

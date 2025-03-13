@@ -1,6 +1,6 @@
 ##### § 1614.403 How to appeal. #####
 
-(a) The complainant, agency, agent, grievant or individual class claimant (hereinafter appellant) must file an appeal with the Director, Office of Federal Operations, Equal Employment Opportunity Commission, at P.O. Box 77960, Washington, DC 20013, or electronically, or by personal delivery or facsimile. The appellant should use EEOC Form 573, Notice of Appeal/Petition, and should indicate what is being appealed.
+(a) The complainant, agency, agent, grievant or individual class claimant (hereinafter appellant) must file an appeal with the Director, Office of Federal Operations, Equal Employment Opportunity Commission, at P.O. Box 77960, Washington, DC 20013, or electronically, by email, or through FedSEP or the EEOC's Public Portal, as applicable, or by personal delivery or facsimile. The appellant should use EEOC Form 573, Notice of Appeal/Petition, and should indicate what is being appealed.
 
 (b) The appellant shall furnish a copy of the appeal to the opposing party at the same time it is filed with the Commission. In or attached to the appeal to the Commission, the appellant must certify the date and method by which service was made on the opposing party.
 
@@ -14,4 +14,4 @@
 
 (g) Agencies are required to submit appeals, complaint files, and other filings to the Office of Federal Operations in a digital format acceptable to the Commission, absent a showing of good cause why an agency cannot submit digital records. Appellants are encouraged, but not required, to submit digital appeals and supporting documentation to the Office of Federal Operations in a format acceptable to the Commission.
 
-[64 FR 37659, July 12, 1999, as amended at 74 FR 3430, Jan. 21, 2009; 77 FR 43505, July 25, 2012]
+[64 FR 37659, July 12, 1999, as amended at 74 FR 3430, Jan. 21, 2009; 77 FR 43505, July 25, 2012; 88 FR 57881, Aug. 24, 2023]

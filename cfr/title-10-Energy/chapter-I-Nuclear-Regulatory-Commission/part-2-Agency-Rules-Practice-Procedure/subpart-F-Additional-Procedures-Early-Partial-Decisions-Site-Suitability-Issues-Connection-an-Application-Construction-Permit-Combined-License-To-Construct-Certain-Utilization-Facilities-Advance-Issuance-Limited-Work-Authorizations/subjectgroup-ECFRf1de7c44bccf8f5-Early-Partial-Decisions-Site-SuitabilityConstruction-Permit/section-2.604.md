@@ -1,5 +1,7 @@
 ##### § 2.604 Notice of hearing on application for early review of site suitability issues in construction permit proceeding. #####
 
+Link to an amendment published at 88 FR 57876, Aug. 24, 2023.
+
 (a) Where an applicant for a construction permit requests an early review and hearing and an early partial decision on issues of site suitability pursuant to § 2.101(a-1), the provisions in the notice of hearing setting forth the matters of fact and law to be considered, as required by § 2.104, shall be modified so as to relate only to the site suitability issue or issues under review.
 
 (b) After docketing of part two of the application, as provided in §§ 2.101(a-1) and 2.603, a supplementary notice of hearing will be published under § 2.104 with respect to the remaining unresolved issues in the proceeding within the scope of § 2.104. This supplementary notice of hearing will provide that any person whose interest may be affected by the proceeding and who desires to participate as a party in the resolution of the remaining issues shall file a petition for leave to intervene pursuant to § 2.309 within the time prescribed in the notice. This supplementary notice will also provide appropriate opportunities for participation by a representative of an interested State under § 2.315(c) and for limited appearances under § 2.315(a).

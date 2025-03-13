@@ -1,5 +1,7 @@
 ##### § 2.711 Evidence. #####
 
+Link to an amendment published at 88 FR 57877, Aug. 24, 2023.
+
 (a) *General.* Every party to a proceeding has the right to present oral or documentary evidence and rebuttal evidence and to conduct, in accordance with an approved cross-examination plan that contains the information specified in paragraph (c) of this section, any cross-examination required for full and true disclosure of the facts.
 
 (b) *Testimony.* The parties shall submit direct testimony of witnesses in written form, unless otherwise ordered by the presiding officer on the basis of objections presented. In any proceeding in which advance written testimony is to be used, each party shall serve copies of its proposed written testimony on every other party at least fifteen (15) days in advance of the session of the hearing at which its testimony is to be presented. The presiding officer may permit the introduction of written testimony not so served, either with the consent of all parties present or after they have had a reasonable opportunity to examine it. Written testimony must be incorporated into the transcript of the record as if read or, in the discretion of the presiding officer, may be offered and admitted in evidence as an exhibit.

@@ -1,5 +1,7 @@
 ##### § 2.102 Administrative review of application. #####
 
+Link to an amendment published at 88 FR 57876, Aug. 24, 2023.
+
 (a) During review of an application by the NRC staff, an applicant may be required to supply additional information. The staff may request any one party to the proceeding to confer with the NRC staff informally. In the case of docketed application for a limited work authorization, construction permit, operating license, early site permit, standard design approval, combined license, or manufacturing license under this chapter, the NRC staff shall establish a schedule for its review of the application, specifying the key intermediate steps from the time of docketing until the completion of its review.
 
 (b) The Director, Office of Nuclear Reactor Regulation, or Director, Office of Nuclear Material Safety and Safeguards, as appropriate, will refer the docketed application to the ACRS as required by law and in such additional cases as he or the Commission may determine to be appropriate. The ACRS will render to the Commission one or more reports as required by law or as requested by the Commission.

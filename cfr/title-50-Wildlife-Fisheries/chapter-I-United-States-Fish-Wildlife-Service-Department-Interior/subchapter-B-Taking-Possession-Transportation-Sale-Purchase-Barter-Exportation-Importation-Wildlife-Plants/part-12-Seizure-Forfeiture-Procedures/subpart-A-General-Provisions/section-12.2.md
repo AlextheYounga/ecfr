@@ -1,25 +1,39 @@
-##### § 12.2 Scope of regulations. #####
+##### § 12.2 What is the scope of the regulations in this part? #####
 
-Except as hereinafter provided, the regulations of this part apply to all property seized or subject to forfeiture under any of the following laws:
+(a) The regulations in this part apply to all property seized or subject to administrative forfeiture under any of the following laws:
 
-(a) The Eagle Protection Act, 16 U.S.C. 668 *et seq.;*
+(1) The Bald and Golden Eagle Protection Act, 16 U.S.C. 668 *et seq.;*
 
-(b) The National Wildlife Refuge System Administration Act, 16 U.S.C. 668dd *et seq.;*
+(2) The Airborne Hunting Act, 16 U.S.C. 742j-1;
 
-(c) The Migratory Bird Treaty Act, 16 U.S.C. 703 *et seq.;*
+(3) The Endangered Species Act, 16 U.S.C. 1531 *et seq.;*
 
-(d) The Migratory Bird Hunting Stamp Act, 16 U.S.C. 718 *et seq.;*
+(4) The Lacey Act, 18 U.S.C. 42;
 
-(e) The Airborne Hunting Act, 16 U.S.C. 742j-1;
+(5) The Lacey Act Amendments of 1981, 16 U.S.C. 3371 *et seq.;*
 
-(f) The Black Bass Act, 16 U.S.C. 851 *et seq.;*
+(6) The Rhinoceros and Tiger Conservation Act, 16 U.S.C. 5301 *et seq.;*
 
-(g) The Marine Mammal Protection Act, 16 U.S.C. 1361 *et seq.;*
+(7) The Antarctic Conservation Act, 16 U.S.C. 2401 *et seq.;*
 
-(h) The Endangered Species Act, 16 U.S.C. 1531 *et seq.;* and
+(8) The Paleontological Resources Protection Act, 16 U.S.C. 470aaa *et seq.;* and
 
-(i) The Lacey Act, 18 U.S.C. 43-44.
+(9) The African Elephant Conservation Act, 16 U.S.C. 4201 *et seq.*
 
-(j) The Lacey Act Amendments of 1981, 16 U.S.C. 3371 *et seq.*
+(b) These regulations apply to the disposal of any property forfeited or abandoned to the United States under any of the following laws:
 
-[45 FR 17864, Mar. 19, 1980; 45 FR 31725, May 14, 1980, as amended at 47 FR 56860, Dec. 21, 1982]
+(1) Any of the laws identified in paragraph (a) of this section;
+
+(2) The National Wildlife Refuge System Administration Act, 16 U.S.C. 668dd *et seq.;*
+
+(3) The Migratory Bird Treaty Act, 16 U.S.C. 703 *et seq.* (MBTA);
+
+(4) The Migratory Bird Hunting and Conservation Stamp Act, 16 U.S.C. 718 *et seq.;*
+
+(5) The Marine Mammal Protection Act of 1972, 16 U.S.C. 1361 *et seq.;*
+
+(6) The Archeological Resources Protection Act, 16 U.S.C. 470aa *et seq.;* and
+
+(7) The Native American Graves Protection and Repatriation Act, 25 U.S.C. 3001 *et seq.*
+
+(c) This part applies to all forfeitures administered by the Service with the exception of seizures and forfeitures under the statutes listed under 18 U.S.C. 983(i). The authority under this part to conduct administrative forfeitures derives from the procedural provisions of the Customs and Border Protection laws (19 U.S.C. 1602-1618) where those provisions are incorporated by reference in the substantive forfeiture statutes enforced by the Service.

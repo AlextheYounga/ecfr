@@ -1,0 +1,5 @@
+##### § 12.64 How does forfeiture or abandonment affect the status of the property? #####
+
+(a) After property has been forfeited or abandoned, the prior illegal status of the property, due to violations of any Act listed in § 12.2 that led to the forfeiture or abandonment of the property, is terminated. However, any subsequent holder or owner of the property must comply with all prohibitions, restrictions, conditions, or requirements that apply to a particular species of fish, wildlife, or plant under any Act listed in § 12.2, or any other applicable Federal, State, Tribal, or foreign law or regulation.
+
+(b) When releasing property under the provisions of this subpart, the Service will prescribe the conditions under which the property may be possessed and used and will reserve the right to resume possession of the property if it is possessed or used in violation of those conditions.

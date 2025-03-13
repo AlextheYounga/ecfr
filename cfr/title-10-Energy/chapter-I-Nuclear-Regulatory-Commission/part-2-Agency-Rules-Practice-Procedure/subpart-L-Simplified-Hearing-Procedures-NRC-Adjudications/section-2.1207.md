@@ -1,5 +1,7 @@
 ##### § 2.1207 Process and schedule for submissions and presentations in an oral hearing. #####
 
+Link to an amendment published at 88 FR 57877, Aug. 24, 2023.
+
 (a) Unless otherwise limited by this subpart or by the presiding officer, participants in an oral hearing may submit and sponsor in the hearings:
 
 (1) Initial written statements of position and written testimony with supporting affidavits on the admitted contentions. These materials must be filed on the dates set by the presiding officer.

@@ -1,5 +1,7 @@
 ##### § 2.909 Rearrangement or suspension of proceedings. #####
 
+Link to an amendment published at 88 FR 57877, Aug. 24, 2023.
+
 In any proceeding subject to this part where a party gives a notice of intent to introduce Restricted Data or other National Security Information, and the presiding officer determines that any other interested party does not have required security clearances, the presiding officer may in his discretion:
 
 (a) Rearrange the normal order of the proceeding in a manner which gives such interested parties an opportunity to obtain required security clearances with minimum delay in the conduct of the proceeding.

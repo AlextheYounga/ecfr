@@ -1,5 +1,7 @@
 ##### § 2.203 Settlement and compromise. #####
 
+Link to an amendment published at 88 FR 57876, Aug. 24, 2023.
+
 At any time after the issuance of an order designating the time and place of hearing in a proceeding to modify, suspend, or revoke a license or for other action, the staff and a licensee or other person may enter into a stipulation for the settlement of the proceeding or the compromise of a civil penalty. The stipulation or compromise shall be subject to approval by the designated presiding officer or, if none has been designated, by the Chief Administrative Law Judge, according due weight to the position of the staff. The presiding officer, or if none has been designated, the Chief Administrative Law Judge, may order such adjudication of the issues as he may deem to be required in the public interest to dispose of the proceeding. If approved, the terms of the settlement or compromise shall be embodied in a decision or order settling and discontinuing the proceeding.
 
 [36 FR 16896, Aug. 26, 1971]

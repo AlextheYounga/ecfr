@@ -1,5 +1,7 @@
 ##### § 1.42 Office of Nuclear Material Safety and Safeguards. #####
 
+Link to an amendment published at 88 FR 57875, Aug. 24, 2023.
+
 (a) The Office of Nuclear Material Safety and Safeguards (NMSS) is responsible for regulating activities that provide for the safe and secure production of nuclear fuel used in commercial nuclear reactors; the safe storage, transportation, and disposal of low-level and high-level radioactive waste and spent nuclear fuel; the transportation of radioactive materials regulated under the Atomic Energy Act of 1954, as amended (the Act); and all other medical, industrial, academic, and commercial uses of radioactive isotopes. The NMSS ensures safety and security by implementing a regulatory program involving activities including licensing, inspection, assessment of environmental impacts for all nuclear material facilities and activities, assessment of licensee performance, events analysis, enforcement, and identification and resolution of generic issues. The NMSS leads, manages, and facilitates rulemaking activities for new, advanced, and operating power reactors, as well as non-power utilization facilities; nuclear materials, including production of nuclear fuel used in commercial nuclear reactors, as well as storage, transportation, and disposal of high-level radioactive waste and spent nuclear fuel, and the transportation of radioactive materials regulated by the NRC.
 
 (b) The Office of Nuclear Material Safety and Safeguards—

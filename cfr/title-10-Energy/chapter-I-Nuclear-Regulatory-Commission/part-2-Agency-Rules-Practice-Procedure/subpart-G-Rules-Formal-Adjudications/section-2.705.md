@@ -1,5 +1,7 @@
 ##### § 2.705 Discovery-additional methods. #####
 
+Link to an amendment published at 88 FR 57877, Aug. 24, 2023.
+
 (a) *Discovery methods.* Parties may obtain discovery by one or more of the following methods: depositions upon oral examination or written interrogatories (§ 2.706); interrogatories to parties (§ 2.706); production of documents or things or permission to enter upon land or other property, for inspection and other purposes (§ 2.707); and requests for admission (§ 2.708).
 
 (b) *Scope of discovery.* Unless otherwise limited by order of the presiding officer in accordance with this section, the scope of discovery is as follows:

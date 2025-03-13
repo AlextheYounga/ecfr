@@ -1,5 +1,7 @@
 ##### § 32.72 Manufacture, preparation, or transfer for commercial distribution of radioactive drugs containing byproduct material for medical use under part 35. #####
 
+Link to an amendment published at 88 FR 57878, Aug. 24, 2023.
+
 (a) An application for a specific license to manufacture, prepare, or transfer for commercial distribution radioactive drugs containing byproduct material for use by persons authorized pursuant to part 35 of this chapter will be approved if:
 
 (1) The applicant satisfies the general requirements specified in 10 CFR 30.33;

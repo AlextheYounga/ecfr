@@ -1,5 +1,7 @@
 ##### § 2.337 Evidence at a hearing. #####
 
+Link to an amendment published at 88 FR 57876, Aug. 24, 2023.
+
 (a) *Admissibility.* Only relevant, material, and reliable evidence which is not unduly repetitious will be admitted. Immaterial or irrelevant parts of an admissible document will be segregated and excluded so far as is practicable.
 
 (b) *Objections.* An objection to evidence must briefly state the grounds of objection. The transcript must include the objection, the grounds, and the ruling. Exception to an adverse ruling is preserved without notation on-the-record.

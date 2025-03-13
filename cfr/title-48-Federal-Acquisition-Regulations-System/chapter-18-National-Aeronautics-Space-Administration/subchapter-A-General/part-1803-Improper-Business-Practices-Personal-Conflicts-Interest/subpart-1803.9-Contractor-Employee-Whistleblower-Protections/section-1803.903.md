@@ -1,8 +1,6 @@
 ##### 1803.903 Policy. #####
 
-Link to an amendment published at 88 FR 47807, July 25, 2023.
-
-(a) *Policy.* 10 U.S.C. 2409 prohibits contractors or subcontractors from discharging, demoting, or otherwise discriminating against an employee as a reprisal for disclosing, to any of the entities listed at paragraph (b) of this section, information that the employee reasonably believes is evidence of gross mismanagement of a NASA contract, a gross waste of NASA funds, an abuse of authority relating to a NASA contract, a substantial and specific danger to public health or safety, or a violation of law, rule, or regulation related to a NASA contract (including the competition for or negotiation of a contract). Such reprisal is prohibited even if it is undertaken at the request of an executive branch official, unless the request takes the form of a non-discretionary directive and is within the authority of the executive branch official making the request.
+(a) *Policy.* 10 U.S.C. 4701 prohibits contractors or subcontractors from discharging, demoting, or otherwise discriminating against an employee as a reprisal for disclosing, to any of the entities listed at paragraph (b) of this section, information that the employee reasonably believes is evidence of gross mismanagement of a NASA contract, a gross waste of NASA funds, an abuse of authority relating to a NASA contract, a substantial and specific danger to public health or safety, or a violation of law, rule, or regulation related to a NASA contract (including the competition for or negotiation of a contract). Such reprisal is prohibited even if it is undertaken at the request of an executive branch official, unless the request takes the form of a non-discretionary directive and is within the authority of the executive branch official making the request.
 
 (b) Entities to whom disclosure may be made:
 
@@ -23,3 +21,5 @@ Link to an amendment published at 88 FR 47807, July 25, 2023.
 (c) *Disclosure clarified.* An employee who initiates or provides evidence of contractor or subcontractor misconduct in any judicial or administrative proceeding relating to waste, fraud, or abuse on a NASA contract shall be deemed to have made a disclosure.
 
 (d) *Contracting officer actions.* A contracting officer who receives a complaint of reprisal of the type described in paragraph (a) of this section shall forward it to legal counsel and to the NASA Inspector General.
+
+[79 FR 43959, July 29, 2014, as amended at 88 FR 47807, July 25, 2023]

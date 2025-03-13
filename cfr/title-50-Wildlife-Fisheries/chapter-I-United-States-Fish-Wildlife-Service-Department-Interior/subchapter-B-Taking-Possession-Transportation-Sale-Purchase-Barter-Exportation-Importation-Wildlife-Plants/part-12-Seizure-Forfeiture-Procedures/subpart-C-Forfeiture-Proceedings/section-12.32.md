@@ -1,0 +1,3 @@
+##### § 12.32 When may the Service or the Solicitor obtain administrative forfeiture of my property? #####
+
+If your fish, wildlife, plant or other property is subject to forfeiture under any Act listed in § 12.2, and it is also property subject to administrative forfeiture, the Service or the Solicitor may initiate an administrative forfeiture proceeding of the property under the forfeiture procedures described in this subpart.
