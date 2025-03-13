@@ -10,4 +10,4 @@ Note 1 to § 542.313:
 
 *See* § 501.801 of this chapter on licensing procedures.
 
-[79 FR 25416, May 2, 2014. Redesignated and amended at 89 FR 48317, June 6, 2024.]
+[79 FR 25416, May 2, 2014. Redesignated and amended at 89 FR 48317, 48318, June 6, 2024]

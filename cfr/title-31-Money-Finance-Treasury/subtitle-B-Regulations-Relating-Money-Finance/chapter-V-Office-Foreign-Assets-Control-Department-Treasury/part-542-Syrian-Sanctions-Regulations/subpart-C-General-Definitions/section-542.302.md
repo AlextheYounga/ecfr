@@ -1,13 +1,5 @@
-##### § 542.302 Effective date. #####
+##### § 542.302 Construction or engineering services. #####
 
-The term *effective date* refers to the effective date of the applicable prohibitions and directives contained in this part as follows:
+The term *construction or engineering services,* as used in § 542.201(a)(13)(v), means the provision of services for the construction of buildings or structures, or for the production, procurement, devising, framing, or arranging in Syria of parts or materials to fabricate, shape, or form buildings or structures, and assistance, advisory, consultative, design, and recommendation services concerning engineering matters or during any phase of an engineering project, including the on-site design, development, assembly, or construction of residential, commercial, or institutional buildings in Syria. The term applies to engaging in new work, additions, or alterations of commercial or institutional buildings. Engineering design services may be for: the construction of foundations and building structures (*i.e.,* structural engineering); mechanical and electrical installations for buildings; the construction of civil engineering works; industrial processes and production; or other engineering designs, such as those for acoustics, vibration, traffic control systems, or prototype development for new products.
 
-(a) With respect to prohibited transfers or other dealings in blocked property and interests in property of the Government of Syria, as defined in § 542.305, 12:01 a.m. eastern daylight time, August 18, 2011;
-
-(b) With respect to a person whose property and interests in property are blocked pursuant to § 542.201(a)(2)(i), 1:00 p.m. eastern daylight time, April 29, 2011, for persons listed in the Annex to Executive Order 13572 of April 29, 2011, and 1:00 p.m. eastern daylight time, May 18, 2011, for persons listed in the Annex to Executive Order 13573 of May 18, 2011;
-
-(c) With respect to a person whose property and interests in property are blocked pursuant to § 542.201(a)(3)(i), 12:01 a.m. eastern daylight time, April 23, 2012;
-
-(d) With respect to a person whose property and interests in property are otherwise blocked pursuant to § 542.201(a), the earlier of the date of actual or constructive notice that such person's property and interests in property are blocked; and
-
-(e) With respect to the prohibitions set forth in §§ 542.206 through 542.210, 12:01 a.m. eastern daylight time, August 18, 2011.
+[89 FR 48318, June 6, 2024]

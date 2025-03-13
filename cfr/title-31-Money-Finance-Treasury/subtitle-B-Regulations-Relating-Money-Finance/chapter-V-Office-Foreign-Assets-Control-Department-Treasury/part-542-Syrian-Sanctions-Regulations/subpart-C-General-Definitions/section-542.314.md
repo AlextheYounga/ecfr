@@ -2,4 +2,4 @@
 
 The term *loans or other extensions of credit* means any transfer or extension of funds or credit on the basis of an obligation to repay, or any assumption or guarantee of the obligation of another to repay an extension of funds or credit, including but not limited to: Overdrafts; currency swaps; purchases of debt securities issued by the Government of Syria; purchases of a loan made by another person; sales of financial assets subject to an agreement to repurchase; renewals or refinancings whereby funds or credits are transferred to or extended to a prohibited borrower or prohibited recipient; the issuance of standby letters of credit; and drawdowns on existing lines of credit.
 
-[79 FR 25416, May 2, 2014. Redesignated at 89 FR 48317, June 6, 2024.]
+[79 FR 25416, May 2, 2014. Redesignated at 89 FR 48317, June 6, 2024]

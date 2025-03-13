@@ -210,4 +210,6 @@ Link to an amendment published at 85 FR 84193, Dec. 23, 2020.This amendment was 
 
 (f) *Lawful pathways condition.* For applications filed by aliens who entered the United States between May 11, 2023, and May 11, 2025, also refer to the provisions on asylum eligibility described in § 208.33.
 
-[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76133, Dec. 6, 2000; 83 FR 55952, Nov. 9, 2018; 84 FR 33843, July 16, 2019; 85 FR 67258, Oct. 21, 2020; 85 FR 80387, Dec. 11, 2020; 85 FR 82289, Dec. 17, 2020; 88 FR 31449, May 16, 2023]
+(g) *Entry during emergency border circumstances.* For an alien who entered the United States across the southern border (as that term is described in section 4(d) of the Presidential Proclamation of June 3, 2024, Securing the Border) between the dates described in section 1 of such Proclamation and section 2(a) of such Proclamation (or the revocation of such Proclamation, whichever is earlier), or between the dates described in section 2(b) of such Proclamation and section 2(a) of such Proclamation (or the revocation of such Proclamation, whichever is earlier), refer to the provisions on asylum eligibility described in § 208.35.
+
+[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76133, Dec. 6, 2000; 83 FR 55952, Nov. 9, 2018; 84 FR 33843, July 16, 2019; 85 FR 67258, Oct. 21, 2020; 85 FR 80387, Dec. 11, 2020; 85 FR 82289, Dec. 17, 2020; 88 FR 31449, May 16, 2023; 89 FR 48769, June 7, 2024]

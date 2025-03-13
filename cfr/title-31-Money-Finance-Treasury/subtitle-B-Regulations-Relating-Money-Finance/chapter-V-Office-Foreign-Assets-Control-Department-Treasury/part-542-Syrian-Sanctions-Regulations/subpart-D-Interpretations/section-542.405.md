@@ -24,4 +24,4 @@ Note 1 to § 542.405.
 
 *See* §§ 542.507 and 542.531 for general licenses authorizing the provision of certain legal and emergency medical services.
 
-[89 FR 48319, June 6, 2024]
+[79 FR 25416, May 2, 2014, as amended at 89 FR 48319, June 6, 2024]

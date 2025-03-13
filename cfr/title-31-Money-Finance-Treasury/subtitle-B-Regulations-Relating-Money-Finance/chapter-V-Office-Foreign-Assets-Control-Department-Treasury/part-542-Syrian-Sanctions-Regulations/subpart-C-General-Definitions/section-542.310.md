@@ -12,4 +12,4 @@ To be considered *information or informational materials,* artworks must be clas
 
 (2) With respect to which acts are prohibited by 18 U.S.C. chapter 37.
 
-[79 FR 25416, May 2, 2014. Redesignated at 89 FR 48317, June 6, 2024.]
+[79 FR 25416, May 2, 2014. Redesignated at 89 FR 48317, June 6, 2024]

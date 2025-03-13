@@ -24,4 +24,4 @@ Note 2 to § 542.511.
 
 Nothing in this section relieves the exporter from compliance with the export license application requirements of another Federal agency.
 
-[89 FR 48320, June 6, 2024]
+[79 FR 25416, May 2, 2014, as amended 89 FR 48320, June 6, 2024]

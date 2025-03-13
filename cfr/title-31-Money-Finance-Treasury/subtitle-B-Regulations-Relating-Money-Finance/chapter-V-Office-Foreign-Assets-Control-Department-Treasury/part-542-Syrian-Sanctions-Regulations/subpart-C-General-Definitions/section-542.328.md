@@ -9,4 +9,4 @@ The term *U.S. registered broker or dealer in securities* means any U.S. citizen
 (c) Is registered with the Securities and Exchange Commission under
 the Securities Exchange Act of 1934.
 
-[79 FR 25416, May 2, 2014. Redesignated at 89 FR 48317, June 6, 2024.]
+[79 FR 25416, May 2, 2014. Redesignated at 89 FR 48317, June 6, 2024]

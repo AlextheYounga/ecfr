@@ -6,4 +6,4 @@ The term *new investment* means a transaction after 12:01 a.m. eastern daylight 
 
 (b) A loan or other extension of credit as defined in § 542.314.
 
-[79 FR 25416, May 2, 2014. Redesignated at 89 FR 48317, June 6, 2024.]
+[79 FR 25416, May 2, 2014. Redesignated and amended at 89 FR 48317, 48319, June 6, 2024]

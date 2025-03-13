@@ -24,4 +24,4 @@
 
 (3) These records must be furnished to OFAC on demand consistent with § 501.602 of this chapter.
 
-[89 FR 48320, June 6, 2024]
+[79 FR 25416, May 2, 2014, as amended at 89 FR 48320, June 6, 2024]

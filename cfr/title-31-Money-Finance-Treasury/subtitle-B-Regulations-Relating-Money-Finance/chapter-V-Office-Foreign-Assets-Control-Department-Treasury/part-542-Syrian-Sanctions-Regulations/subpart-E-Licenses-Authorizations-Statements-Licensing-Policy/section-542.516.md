@@ -40,4 +40,4 @@ Note 2 to § 542.516.
 
 *See* § 542.510 for a general license authorizing the exportation or reexportation of certain items and services to Syria.
 
-[89 FR 48321, June 6, 2024]
+[79 FR 25416, May 2, 2014, as amended 89 FR 48321, June 6, 2024]

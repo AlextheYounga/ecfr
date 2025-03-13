@@ -12,4 +12,4 @@ Note 1 to § 542.513.
 
 The authorization in this section includes the processing or transfer of funds on behalf of third-country entities to or from Syria in support of the transactions authorized by this section. U.S. financial institutions may rely on the originator of a funds transfer with regard to compliance with this section, provided that the financial institution does not know or have reason to know that the funds transfer is not in compliance with this section.
 
-[89 FR 48321, June 6, 2024]
+[79 FR 25416, May 2, 2014, as amended 89 FR 48321, June 6, 2024]

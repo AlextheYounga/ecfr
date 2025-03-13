@@ -18,4 +18,4 @@ Note 2 to § 542.308:
 
 Section 501.807 of this chapter describes the procedures to be followed by persons seeking administrative reconsideration of OFAC's determination that they fall within the definition of the term *Government of Syria.*
 
-[79 FR 25416, May 2, 2014. Redesignated at 89 FR 48317, June 6, 2024, as amended at 89 FR 48318, June 6, 2024]
+[79 FR 25416, May 2, 2014. Redesignated and amended at 89 FR 48317, 48318, June 6, 2024]
