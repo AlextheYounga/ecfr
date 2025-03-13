@@ -8,7 +8,7 @@
 
 (1) At intervals not to exceed 6 months and after instrument servicing;
 
-(2) For linear scale instruments, at two points located approximately 1/3 and 2/3 of full-scale on each scale; for logarithmic scale instruments, at midrange of each decade, and at two points of at least one decade; and for digital instruments, at appropriate points; and
+(2) For linear scale instruments, at two points located approximately1/3 and2/3 of full-scale on each scale; for logarithmic scale instruments, at midrange of each decade, and at two points of at least one decade; and for digital instruments, at appropriate points; and
 
 (3) So that an accuracy within plus or minus 20 percent of the calibration standard can be demonstrated on each scale.
 

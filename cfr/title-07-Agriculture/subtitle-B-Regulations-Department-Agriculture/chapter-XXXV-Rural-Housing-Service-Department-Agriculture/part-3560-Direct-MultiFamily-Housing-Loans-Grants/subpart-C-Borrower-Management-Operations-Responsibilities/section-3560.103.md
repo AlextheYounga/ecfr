@@ -1,5 +1,7 @@
 ##### § 3560.103 Maintaining housing projects. #####
 
+Link to an amendment published at 89 FR 103631, Dec. 19, 2024.
+
 (a) *Physical maintenance.* (1) The purposes of physical maintenance are the following:
 
 (i) Provide decent, safe, and sanitary housing; and

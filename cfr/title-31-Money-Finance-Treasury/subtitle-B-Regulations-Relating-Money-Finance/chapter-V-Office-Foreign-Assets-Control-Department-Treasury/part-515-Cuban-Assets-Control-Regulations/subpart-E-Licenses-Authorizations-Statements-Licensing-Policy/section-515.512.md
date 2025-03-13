@@ -30,19 +30,17 @@
 
 (iii) Any person, other than the person on whose behalf the legal services authorized pursuant to paragraph (a) of this section are to be provided, whose property and interests in property are blocked pursuant to any part of this chapter other than part 515.
 
-(2) *Reports.* (i) Persons subject to U.S. jurisdiction who receive payments in connection with legal services authorized pursuant to paragraph (a) of this section must submit annual reports no later than 30 days following the end of the calendar year during which the payments were received providing information on the funds received. Such reports shall specify:
+(2) *Records.* Consistent with §§ 501.601 and 501.602 of this chapter, persons subject to U.S. jurisdiction who receive payments in connection with legal services authorized pursuant to paragraph (a) of this section must retain for ten years from the date of the relevant payment, and furnish to OFAC on demand, a record that specifies the following for each payment:
 
-(A) The individual or entity from whom the funds originated and the amount of funds received; and
+(i) The individual or entity from whom the funds originated and the amount of funds received; and
 
-(B) If applicable:
+(ii) If applicable:
 
-(*1*) The names of any individuals or entities providing related services to the person subject to U.S. jurisdiction receiving payment in connection with authorized legal services, such as private investigators or expert witnesses;
+(A) The names of any persons subject to U.S. jurisdiction receiving payment in connection with authorized legal services to or on behalf of Cuba or a Cuban national, such as private investigators or expert witnesses;
 
-(*2*) A general description of the services provided; and
+(B) A general description of the services provided; and
 
-(*3*) The amount of funds paid in connection with such services.
-
-(ii) The reports, which must reference this section, are to be mailed to: Department of the Treasury, Office of Foreign Assets Control, Attn: Licensing Division, 1500 Pennsylvania Avenue NW., Annex, Washington, DC 20220.
+(C) The amount of funds paid in connection with such services.
 
 Note 1 to § 515.512:
 
@@ -52,4 +50,4 @@ Note 2 to § 515.512:
 
 See §§ 515.527 and 515.528 for general licenses authorizing fees due to attorneys in connection with certain intellectual property-related transactions. See § 515.588 for a general license authorizing the receipt of, and payment for, certain legal services from Cuba or a Cuban national.
 
-[80 FR 56919, Sept. 21, 2015]
+[80 FR 56919, Sept. 21, 2015, as amended at 89 FR 103642, Dec. 19, 2024]

@@ -16,7 +16,7 @@
 
 (4) In proceedings for which a Federal Register notice of agency action is not published, not later than the latest of:
 
-(i) Sixty (60) days after publication of notice on the NRC Web site at *http://www.nrc.gov/public-involve/major-actions.html,* or
+(i) Sixty (60) days after publication of notice on the NRC Web site at*http://www.nrc.gov/public-involve/major-actions.html,* or
 
 (ii) Sixty (60) days after the requestor receives actual notice of a pending application, but not more than sixty (60) days after agency action on the application.
 

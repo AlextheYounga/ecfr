@@ -1,5 +1,7 @@
 ##### § 215.5 Definitions. #####
 
+Link to an amendment published at 89 FR 103692, Dec. 19, 2024.
+
 As used in this part:
 
 (a) *Break* means a fracture resulting in complete separation into parts;

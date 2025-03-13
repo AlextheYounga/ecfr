@@ -1,4 +1,4 @@
-##### § 50.35 Issuance of construction permits. 1 #####
+##### § 50.35 Issuance of construction permits.1 #####
 
 1 The Commission may issue a provisional construction permit pursuant to the regulations in this part in effect on March 30, 1970, for any facility for which a notice of hearing on an application for a provisional construction permit has been published on or before that date.
 

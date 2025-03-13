@@ -42,7 +42,7 @@
 
 (vi) *Observations.* Removal of more than 0.005 microcurie of radioactivity in any test prescribed by this paragraph shall be cause for rejection of the source design. Results of prototype tests submitted to the Commission shall be given in terms of radioactivity in microcuries and percent of removal from the total amount of radioactive material deposited on the source.
 
-(b) Each person licensed under this section shall affix to each source, or storage container for the source, a label which shall contain sufficient information relative to safe use and storage of the source and shall include the following statement or a substantially similar statement which contains the information called for in the following statement. 1
+(b) Each person licensed under this section shall affix to each source, or storage container for the source, a label which shall contain sufficient information relative to safe use and storage of the source and shall include the following statement or a substantially similar statement which contains the information called for in the following statement.1
 
 1 Sources generally licensed under this section prior to January 19, 1975 may bear labels authorized by the regulations in effect on January 1, 1975.
 

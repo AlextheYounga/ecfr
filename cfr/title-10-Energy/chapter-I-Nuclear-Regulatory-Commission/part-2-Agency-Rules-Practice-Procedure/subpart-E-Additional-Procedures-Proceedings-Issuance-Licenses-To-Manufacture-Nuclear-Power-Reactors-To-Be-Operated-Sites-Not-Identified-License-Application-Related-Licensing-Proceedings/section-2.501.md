@@ -1,6 +1,6 @@
 ##### § 2.501 Notice of hearing on application under subpart F of 10 CFR part 52 for a license to manufacture nuclear power reactors. #####
 
-(a) In the case of an application under subpart F of part 52 of this chapter for a license to manufacture nuclear power reactors of the type described in § 50.22 of this chapter to be operated at sites not identified in the license application, the Secretary will issue a notice of hearing to be published in the Federal Register at least 30 days before the date set for hearing in the notice. 1 The notice shall be issued as soon as practicable after the application has been docketed. The notice will state:
+(a) In the case of an application under subpart F of part 52 of this chapter for a license to manufacture nuclear power reactors of the type described in § 50.22 of this chapter to be operated at sites not identified in the license application, the Secretary will issue a notice of hearing to be published in the Federal Register at least 30 days before the date set for hearing in the notice.1 The notice shall be issued as soon as practicable after the application has been docketed. The notice will state:
 
 1 The thirty-day (30) requirement of this paragraph is not applicable to a notice of the time and place of hearing published by the presiding officer after the notice of hearing described in this section has been published.
 

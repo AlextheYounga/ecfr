@@ -802,7 +802,7 @@ For R \< 0, ΔKI depends on the crack depth (a), and the flow stress (σf). The 
 
 (c) *Reactor coolant pressure boundary.* Systems and components of boiling and pressurized water-cooled nuclear power reactors must meet the requirements of the ASME BPV Code as specified in this paragraph. Each manufacturing license, standard design approval, and design certification application under part 52 of this chapter and each combined license for a utilization facility is subject to the following conditions:
 
-(1) *Standards requirement for reactor coolant pressure boundary components.* Components that are part of the reactor coolant pressure boundary must meet the requirements for Class 1 components in Section III 1 4 of the ASME BPV Code, except as provided in paragraphs (c)(2) through (4) of this section.
+(1) *Standards requirement for reactor coolant pressure boundary components.* Components that are part of the reactor coolant pressure boundary must meet the requirements for Class 1 components in Section III1 4 of the ASME BPV Code, except as provided in paragraphs (c)(2) through (4) of this section.
 
 (2) *Exceptions to reactor coolant pressure boundary standards requirement.* Components that are connected to the reactor coolant system and are part of the reactor coolant pressure boundary as defined in § 50.2 need not meet the requirements of paragraph (c)(1) of this section, provided that:
 
@@ -824,7 +824,7 @@ For R \< 0, ΔKI depends on the crack depth (a), and the flow stress (σf). The 
 
 (d) *Quality Group B components.* Systems and components of boiling and pressurized water-cooled nuclear power reactors must meet the requirements of the ASME BPV Code as specified in this paragraph. Each manufacturing license, standard design approval, and design certification application under part 52 of this chapter, and each combined license for a utilization facility is subject to the following conditions.
 
-(1) *Standards requirement for Quality Group B components.* For a nuclear power plant whose application for a construction permit under this part, or a combined license or manufacturing license under part 52 of this chapter, docketed after May 14, 1984, or for an application for a standard design approval or a standard design certification docketed after May 14, 1984, components classified Quality Group B 7 must meet the requirements for Class 2 Components in Section III of the ASME BPV Code.
+(1) *Standards requirement for Quality Group B components.* For a nuclear power plant whose application for a construction permit under this part, or a combined license or manufacturing license under part 52 of this chapter, docketed after May 14, 1984, or for an application for a standard design approval or a standard design certification docketed after May 14, 1984, components classified Quality Group B7 must meet the requirements for Class 2 Components in Section III of the ASME BPV Code.
 
 (2) *Quality Group B: Applicable Code and Code Cases and conditions on their use.* The Code edition, addenda, and optional ASME Code Cases to be applied to the systems and components identified in paragraph (d)(1) of this section must be determined by the rules of paragraph NCA-1140, Subsection NCA of Section III of the ASME BPV Code, subject to the following conditions:
 
@@ -836,7 +836,7 @@ For R \< 0, ΔKI depends on the crack depth (a), and the flow stress (σf). The 
 
 (e) *Quality Group C components.* Systems and components of boiling and pressurized water-cooled nuclear power reactors must meet the requirements of the ASME BPV Code as specified in this paragraph. Each manufacturing license, standard design approval, and design certification application under part 52 of this chapter and each combined license for a utilization facility is subject to the following conditions.
 
-(1) *Standards requirement for Quality Group C components.* For a nuclear power plant whose application for a construction permit under this part, or a combined license or manufacturing license under part 52 of this chapter, docketed after May 14, 1984, or for an application for a standard design approval or a standard design certification docketed after May 14, 1984, components classified Quality Group C 7 must meet the requirements for Class 3 components in Section III of the ASME BPV Code.
+(1) *Standards requirement for Quality Group C components.* For a nuclear power plant whose application for a construction permit under this part, or a combined license or manufacturing license under part 52 of this chapter, docketed after May 14, 1984, or for an application for a standard design approval or a standard design certification docketed after May 14, 1984, components classified Quality Group C7 must meet the requirements for Class 3 components in Section III of the ASME BPV Code.
 
 (2) *Quality Group C applicable Code and Code Cases and conditions on their use.* The Code edition, addenda, and optional ASME Code Cases to be applied to the systems and components identified in paragraph (e)(1) of this section must be determined by the rules of paragraph NCA-1140, subsection NCA of Section III of the ASME BPV Code, subject to the following conditions:
 
@@ -974,7 +974,8 @@ For R \< 0, ΔKI depends on the crack depth (a), and the flow stress (σf). The 
 
 (*4*) If ultrasonic examinations of butt welds are used to meet the NDE requirements in paragraphs (g)(6)(ii)(E)(*2*) or (*3*) of this section, they must be performed using the appropriate supplement of Section XI, Appendix VIII, of the ASME BPV Code.
 
-(F) *Augmented ISI requirements: Examination requirements for Class 1 piping and nozzle dissimilar-metal butt welds*— (*1*) *Implementation.* Holders of operating licenses or combined licenses for pressurized water reactors as of or after September 30, 2024, shall implement the requirements of ASME BPV Code Case N-770-7 instead of ASME BPV Code Case N-770-5, subject to the conditions specified in paragraphs (g)(6)(ii)(F)(*2*) through (*16*) of this section, by no later than one year after September 30, 2024. All NRC authorized alternatives from previous versions of paragraph (g)(6)(ii)(F) of this section remain applicable.
+(F) *Augmented ISI requirements: Examination requirements for Class 1 piping and nozzle dissimilar-metal butt welds*—
+(*1*) *Implementation.* Holders of operating licenses or combined licenses for pressurized water reactors as of or after September 30, 2024, shall implement the requirements of ASME BPV Code Case N-770-7 instead of ASME BPV Code Case N-770-5, subject to the conditions specified in paragraphs (g)(6)(ii)(F)(*2*) through (*16*) of this section, by no later than one year after September 30, 2024. All NRC authorized alternatives from previous versions of paragraph (g)(6)(ii)(F) of this section remain applicable.
 
 (*2*) *Categorization.* (*i*) Welds that have been mitigated by the Mechanical Stress Improvement Process (MSIPTM) may be categorized as Inspection Items D or E, as appropriate, provided the criteria in Appendix I of the code case have been met.
 

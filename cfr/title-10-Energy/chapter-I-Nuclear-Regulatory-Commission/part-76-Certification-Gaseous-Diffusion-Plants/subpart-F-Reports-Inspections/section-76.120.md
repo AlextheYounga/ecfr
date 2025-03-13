@@ -10,7 +10,7 @@
 
 (4) An emergency condition that has been declared an alert or site area emergency.
 
-(b) *Four-hour report.* The Corporation shall notify the NRC Operations Center as soon as possible but not later than 4 hours after discovery of an event 1 that prevents immediate protective actions necessary to avoid releases or exposures to radiation or radioactive materials that could exceed regulatory limits.
+(b) *Four-hour report.* The Corporation shall notify the NRC Operations Center as soon as possible but not later than 4 hours after discovery of an event1 that prevents immediate protective actions necessary to avoid releases or exposures to radiation or radioactive materials that could exceed regulatory limits.
 
 1 Events may include fires, explosions, radiological releases, etc.
 

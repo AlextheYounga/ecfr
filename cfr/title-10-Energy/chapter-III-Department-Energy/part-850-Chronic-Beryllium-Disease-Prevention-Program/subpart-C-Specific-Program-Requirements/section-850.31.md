@@ -4,7 +4,7 @@
 
 (b) Before releasing beryllium-contaminated equipment or other items to the general public or for use in a non-beryllium area of a DOE facility, the responsible employer must ensure that:
 
-(1) The removable contamination level of equipment or item surfaces does not exceed the higher of 0.2 µg/100 cm 2 or the concentration level of beryllium in soil at the point or release, whichever is greater;
+(1) The removable contamination level of equipment or item surfaces does not exceed the higher of 0.2 µg/100 cm2 or the concentration level of beryllium in soil at the point or release, whichever is greater;
 
 (2) The equipment or item is labeled in accordance with § 850.38(b); and
 
@@ -12,7 +12,7 @@
 
 (c) Before releasing beryllium-contaminated equipment or other items to another facility performing work with beryllium, the responsible employer must ensure that:
 
-(1) The removable contamination level of equipment or item surfaces does not exceed 3 µg/100 cm 2;
+(1) The removable contamination level of equipment or item surfaces does not exceed 3 µg/100 cm2;
 
 (2) The equipment or item is labeled in accordance with § 850.38(b); and
 

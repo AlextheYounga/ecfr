@@ -162,15 +162,15 @@ The following provisions are applicable to each licensee operating a facility de
 
 4. If the Commission determines that the licensee is financially able to reimburse the Commission for a deferred premium payment made in its behalf, and the licensee, after notice of such determination by the Commission fails to make such reimbursement within 120 days, the Commission will take appropriate steps to suspend the license for 30 days. The Commission may take any further action as necessary if reimbursement is not made within the 30-day suspension period including, but not limited to termination of the operating license.
 
-United States Nuclear Regulatory CommissionIndemnity Agreement No. Item 1—Licensee Address Item 2—a. Amount of financial protection
+United States Nuclear Regulatory CommissionIndemnity Agreement No.Item 1—LicenseeAddressItem 2—a. Amount of financial protection
 
 b. With respect to any nuclear incident, the amount specified in Item 2a of this Attachment shall be deemed to be (i) reduced to the extent that any payment made by the insurer or insurers under a policy or policies specified in Item 5 of this Attachment reduces the aggregate amount of such insurance policies below the amount specified in Item 2a and (ii) restored to the extent that, following such reduction, the aggregate amount of such insurance policies is reinstated.
 
-Item 3—License number or numbers Item 4—Location Item 5—Insurance Policy No.(s) Item 6—The indemnity agreement designated above, of which this Attachment is a part, is effective as of \_\_ m., on the \_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
+Item 3—License number or numbersItem 4—LocationItem 5—Insurance Policy No.(s)Item 6—The indemnity agreement designated above, of which this Attachment is a part, is effective as of \_\_ m., on the \_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
 
 For the United States Nuclear Regulatory Commission.
 
-By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_For the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Name of licensee) By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_For the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Name of licensee)By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Dated at Bethesda, MD, the \_\_\_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
 

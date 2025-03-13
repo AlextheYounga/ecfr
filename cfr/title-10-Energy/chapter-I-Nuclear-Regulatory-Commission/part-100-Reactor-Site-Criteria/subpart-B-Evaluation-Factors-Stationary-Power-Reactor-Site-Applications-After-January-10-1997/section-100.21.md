@@ -20,7 +20,7 @@ Applications for site approval for commercial power reactors shall demonstrate t
 
 (g) Physical characteristics unique to the proposed site that could pose a significant impediment to the development of emergency plans must be identified;
 
-(h) Reactor sites should be located away from very densely populated centers. Areas of low population density are, generally, preferred. However, in determining the acceptability of a particular site located away from a very densely populated center but not in an area of low density, consideration will be given to safety, environmental, economic, or other factors, which may result in the site being found acceptable 3.
+(h) Reactor sites should be located away from very densely populated centers. Areas of low population density are, generally, preferred. However, in determining the acceptability of a particular site located away from a very densely populated center but not in an area of low density, consideration will be given to safety, environmental, economic, or other factors, which may result in the site being found acceptable3.
 
 3 Examples of these factors include, but are not limited to, such factors as the higher population density site having superior seismic characteristics, better access to skilled labor for construction, better rail and highway access, shorter transmission line requirements, or less environmental impact on undeveloped areas, wetlands or endangered species, etc. Some of these factors are included in, or impact, the other criteria included in this section.
 

@@ -880,7 +880,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Refrigerant-desiccant dehumidifier* means a whole-home dehumidifier that removes moisture from the process air by means of a desiccant material in addition to a refrigeration system.
 
-*Refrigerator* means a cabinet, used with one or more doors, that has a source of refrigeration that requires single-phase, alternating current electric energy input only and is capable of maintaining compartment temperatures above 32 °F (0 °C) and below 39 °F (3.9 °C) as determined according to § 429.14(d)(2) of this chapter. A refrigerator may include a compartment capable of maintaining compartment temperatures below 32 °F (0 °C), but does not provide a separate low temperature compartment capable of maintaining compartment temperatures below 8 °F (−13.3 °C) as determined according to § 429.14(d)(2). However, the term does not include:
+*Refrigerator* means a cabinet, used with one or more doors, that has a source of refrigeration that requires single-phase, alternating current electric energy input only and is capable of maintaining compartment temperatures above 32 °F (0 °C) and below 39 °F (3.9 °C) as determined according to § 429.14(d)(2) of this chapter. A refrigerator may include a compartment capable of maintaining compartment temperatures below 32 °F (0 °C), but does not provide a separate low temperature compartment capable of maintaining compartment temperatures below
+8 °F (−13.3 °C) as determined according to § 429.14(d)(2). However, the term does not include:
 
 (1) Any product that does not include a compressor and condenser unit as an integral part of the cabinet assembly;
 

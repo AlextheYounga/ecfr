@@ -36,7 +36,7 @@
 
 (iv) Corrective steps taken or planned to ensure against a recurrence, including the schedule for achieving conformance with applicable limits, ALARA constraints, generally applicable environmental standards, and associated license conditions.
 
-(2) Each report filed pursuant to paragraph (a) of this section must include for each occupationally overexposed 1 individual: the name, Social Security account number, and date of birth. The report must be prepared so that this information is stated in a separate and detachable part of the report and must be clearly labeled “Privacy Act Information: Not for Public Disclosure.”
+(2) Each report filed pursuant to paragraph (a) of this section must include for each occupationally overexposed1 individual: the name, Social Security account number, and date of birth. The report must be prepared so that this information is stated in a separate and detachable part of the report and must be clearly labeled “Privacy Act Information: Not for Public Disclosure.”
 
 1 With respect to the limit for the embryo/fetus (§ 20.1208), the identifiers should be those of the declared pregnant woman.
 

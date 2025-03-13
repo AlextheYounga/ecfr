@@ -18,15 +18,15 @@
 
 (ii) The requirements, or lack of requirement, for leak testing, or for testing any on-off mechanism and indicator, including the maximum time interval for such testing, and the identification of radioactive material by isotope, quantity of radioactivity, and date of determination of the quantity; and
 
-(iii) The information called for in the following statement in the same or substantially similar form: 1
+(iii) The information called for in the following statement in the same or substantially similar form:1
 
 1 Devices licensed under § 32.51 prior to January 19, 1975 may bear labels authorized by the regulations in effect on January 1, 1975.
 
-The receipt, possession, use, and transfer of this device Model \_\_\_\_ 2, Serial No.\_\_\_ 2, are subject to a general license or the equivalent and the regulations of the U.S. NRC or of a State with which the NRC has entered into an agreement for the exercise of regulatory authority. This label shall be maintained on the device in a legible condition. Removal of this label is prohibited.
+The receipt, possession, use, and transfer of this device Model \_\_\_\_2, Serial No.\_\_\_2, are subject to a general license or the equivalent and the regulations of the U.S. NRC or of a State with which the NRC has entered into an agreement for the exercise of regulatory authority. This label shall be maintained on the device in a legible condition. Removal of this label is prohibited.
 
 2 The model, serial number, and the name of the manufacturer, or initial transferor may be omitted from this label provided the information is elsewhere specified in labeling affixed to the device.
 
-CAUTION—RADIOACTIVE MATERIAL(Name of manufacturer, or initial transferor) 2
+CAUTION—RADIOACTIVE MATERIAL(Name of manufacturer, or initial transferor)2
 
 (4) Each device having a separable source housing that provides the primary shielding for the source also bears, on the source housing, a durable label containing the device model number and serial number, the isotope and quantity, the words, “Caution-Radioactive Material,” the radiation symbol described in § 20.1901 of this chapter, and the name of the manufacturer or initial distributor.
 

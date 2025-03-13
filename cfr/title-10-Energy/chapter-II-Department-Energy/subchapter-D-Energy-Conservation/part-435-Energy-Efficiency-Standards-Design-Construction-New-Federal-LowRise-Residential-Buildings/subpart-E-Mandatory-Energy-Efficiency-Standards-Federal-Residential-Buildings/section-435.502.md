@@ -46,7 +46,7 @@
 
 (u) *Set of conservation options* means the combination of envelope design and equipment measures that influences the long term energy use in a building designed to maintain a minimum of ventilation level of 0.7 air changes per hour, including the heating and cooling equipment, domestic hot water equipment, glazing, insulation, refrigerators and air infiltration control measures.
 
-(v) *Shading coefficient* means the ratio of the heat gains through windows, with or without integral shading devices, to that occurring through unshaded, 1/8-inch clear glass.
+(v) *Shading coefficient* means the ratio of the heat gains through windows, with or without integral shading devices, to that occurring through unshaded,1/8-inch clear glass.
 
 (w) *Total annual coil load* means the energy for space heating and/or cooling with no adjustment for HVAC equipment efficiency.
 

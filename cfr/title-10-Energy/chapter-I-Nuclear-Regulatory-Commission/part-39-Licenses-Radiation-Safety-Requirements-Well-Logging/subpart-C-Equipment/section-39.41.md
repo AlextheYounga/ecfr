@@ -24,7 +24,7 @@
 
 (iv) *Puncture test.* A 1 gram hammer and pin, 0.3 cm pin diameter, must be dropped from a height of 1 m onto the test source.
 
-(v) *Pressure test.* The test source must be subject to an external pressure of 1.695 × 10 7 pascals [24,600 pounds per square inch absolute].
+(v) *Pressure test.* The test source must be subject to an external pressure of 1.695 × 107 pascals [24,600 pounds per square inch absolute].
 
 (e) The requirements in paragraphs (a), (b), (c), and (d) of this section do not apply to sealed sources that contain licensed material in gaseous form.
 

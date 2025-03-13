@@ -8,7 +8,7 @@ A licensee is not required to label—
 
 (c) Containers attended by an individual who takes the precautions necessary to prevent the exposure of individuals in excess of the limits established by this part; or
 
-(d) Containers when they are in transport and packaged and labeled in accordance with the regulations of the Department of Transportation, 3 or
+(d) Containers when they are in transport and packaged and labeled in accordance with the regulations of the Department of Transportation,3 or
 
 3 Labeling of packages containing radioactive materials is required by the Department of Transportation (DOT) if the amount and type of radioactive material exceeds the limits for an excepted quantity or article as defined and limited by DOT regulations 49 CFR 173.403 (m) and (w) and 173.421-424.
 

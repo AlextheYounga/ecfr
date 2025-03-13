@@ -10,7 +10,7 @@
 
 (2) Nothing in this paragraph (a) authorizes payments for legal services using funds in which any other person whose property and interests in property are blocked pursuant to § 583.201, any other part of this chapter, or any Executive order or statute has an interest.
 
-(b) *Records.* Consistent with § 501.601 of this chapter, U.S. persons who receive payments pursuant to paragraph (a) of this section must retain for five years from the date of the relevant payment a record that specifies the following for each payment:
+(b) *Records.* Consistent with §§ 501.601 and 501.602 of this chapter, U.S. persons who receive payments pursuant to paragraph (a) of this section must retain for ten years from the date of the relevant payment, and furnish to OFAC on demand, a record that specifies the following for each payment:
 
 (1) The individual or entity from whom the funds originated and the amount of funds received; and
 
@@ -22,4 +22,4 @@
 
 (iii) The amount of funds paid in connection with such services.
 
-(3) These records must be furnished to OFAC on demand consistent with § 501.602 of this chapter.
+[89 FR 17731, Mar. 12, 2024, as amended at 89 FR 103647, Dec. 19, 2024]

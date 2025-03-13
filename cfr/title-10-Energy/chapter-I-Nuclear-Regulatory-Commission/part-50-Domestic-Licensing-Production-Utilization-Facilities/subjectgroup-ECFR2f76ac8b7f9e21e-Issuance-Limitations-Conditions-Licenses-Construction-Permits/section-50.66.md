@@ -78,7 +78,7 @@
 
 (1) For those reactors with surveillance programs which have developed credible surveillance data as defined in § 50.61, percent recovery due to thermal annealing (Rt and Ru) must be evaluated by testing surveillance specimens that have been withdrawn from the surveillance program and that have been annealed under the same time and temperature conditions as those given the beltline material.
 
-(2) Alternatively, the percent recovery due to thermal annealing (Rt and Ru) may be determined from the results of a verification test program employing materials removed from the beltline region of the reactor vessel 6 and that have been annealed under the same time and temperature conditions as those given the beltline material.
+(2) Alternatively, the percent recovery due to thermal annealing (Rt and Ru) may be determined from the results of a verification test program employing materials removed from the beltline region of the reactor vessel6 and that have been annealed under the same time and temperature conditions as those given the beltline material.
 
 6 For those cases where materials are removed from the beltline of the pressure vessel, the stress limits of the applicable portions of the ASME Code Section III must be satisfied, including consideration of fatigue and corrosion, regardless of the Code of record for the vessel design.
 

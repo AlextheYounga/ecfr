@@ -8,7 +8,7 @@ Each licensee shall monitor exposures to radiation and radioactive material at l
 
 (2) Minors likely to receive, in 1 year, from radiation sources external to the body, a deep dose equivalent in excess of 0.1 rem (1 mSv), a lens dose equivalent in excess of 0.15 rem (1.5 mSv), or a shallow dose equivalent to the skin or to the extremities in excess of 0.5 rem (5 mSv);
 
-(3) Declared pregnant women likely to receive during the entire pregnancy, from radiation sources external to the body, a deep dose equivalent in excess of 0.1 rem (1 mSv); 2 and
+(3) Declared pregnant women likely to receive during the entire pregnancy, from radiation sources external to the body, a deep dose equivalent in excess of 0.1 rem (1 mSv);2 and
 
 2 All of the occupational doses in § 20.1201 continue to be applicable to the declared pregnant worker as long as the embryo/fetus dose limit is not exceeded.
 

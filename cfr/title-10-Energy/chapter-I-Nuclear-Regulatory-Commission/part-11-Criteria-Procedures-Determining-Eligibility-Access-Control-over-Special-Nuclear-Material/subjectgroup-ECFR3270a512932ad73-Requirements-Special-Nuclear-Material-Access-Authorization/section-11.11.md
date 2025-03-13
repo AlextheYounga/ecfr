@@ -16,7 +16,7 @@
 
 (iii) All jobs which require unescorted access within onsite alarm stations.
 
-(iv) All jobs which require unescorted access 2 to special nuclear material or within vital areas.
+(iv) All jobs which require unescorted access2 to special nuclear material or within vital areas.
 
 2 This does not alter the requirement for methods to observe individuals within material access areas as stated in § 73.46(e)(9) of this chapter.
 
