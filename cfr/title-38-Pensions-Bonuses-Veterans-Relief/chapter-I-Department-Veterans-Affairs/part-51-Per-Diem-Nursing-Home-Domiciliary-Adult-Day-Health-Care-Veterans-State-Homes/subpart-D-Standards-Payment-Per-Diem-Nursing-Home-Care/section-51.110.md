@@ -1,7 +1,5 @@
 ##### § 51.110 Resident assessment. #####
 
-Link to an amendment published at 88 FR 83034, Nov. 28, 2023.
-
 The facility management must conduct initially, annually and as required by a change in the resident's condition a comprehensive, accurate, standardized, reproducible assessment of each resident's functional capacity.
 
 (a) *Admission orders.* At the time each resident is admitted, the facility management must have physician orders for the resident's immediate care and a medical assessment, including a medical history and physical examination, within a time frame appropriate to the resident's condition, not to exceed 72 hours after admission, except when an examination was performed within five days before admission and the findings were recorded in the medical record on admission.
@@ -32,7 +30,7 @@ The facility management must conduct initially, annually and as required by a ch
 
 (2) Certification. Each person who completes a portion of the assessment must sign and certify the accuracy of that portion of the assessment.
 
-(d) Submission of assessments. Each assessment (initial, annual, change in condition, and quarterly) using the Centers for Medicare and Medicaid Services (CMS) Resident Assessment Instrument Minimum Data Set, Version 2.0 must be submitted electronically to VA at the IP address provided by VA to the State within 30 days after completion of the assessment document.
+(d) Submission of assessments. Each assessment (initial, annual, change in condition, and quarterly) using the Centers for Medicare and Medicaid Services (CMS) Resident Assessment Instrument Minimum Data Set, Version 3.0 must be submitted electronically to VA at the IP address provided by VA to the State within 30 days after completion of the assessment document.
 
 (e) *Comprehensive care plans.* (1) The facility management must develop an individualized comprehensive care plan for each resident that includes measurable objectives and timetables to meet a resident's physical, mental, and psychosocial needs that are identified in the comprehensive assessment. The care plan must describe the following—
 
@@ -62,4 +60,4 @@ The facility management must conduct initially, annually and as required by a ch
 
 (3) A post-discharge plan of care that is developed with the participation of the resident and his or her family, which will assist the resident to adjust to his or her new living environment.
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0160)(Authority: 38 U.S.C. 101, 501, 1710, 1741-1743)[65 FR 968, Jan. 6, 2000, as amended at 74 FR 19434, Apr. 29, 2009; 77 FR 26184, May 3, 2012]
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0160)(Authority: 38 U.S.C. 101, 501, 1710, 1741-1743)[65 FR 968, Jan. 6, 2000, as amended at 74 FR 19434, Apr. 29, 2009; 77 FR 26184, May 3, 2012; 88 FR 83034, Nov. 28, 2023]

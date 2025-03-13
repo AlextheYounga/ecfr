@@ -1,5 +1,7 @@
 ##### § 493.1491 Technologist qualifications on or before February 28, 1992. #####
 
+Link to an amendment published at 88 FR 90044, Dec. 28, 2023.
+
 In order to qualify as high complexity testing personnel under § 493.1489(b)(3), the individual must have met or could have met the following qualifications for technologist as they were in effect on or before February 28, 1992. Each technologist must—
 
 (a) Possess a current license as a laboratory technologist issued by the State, if such licensing exists; and

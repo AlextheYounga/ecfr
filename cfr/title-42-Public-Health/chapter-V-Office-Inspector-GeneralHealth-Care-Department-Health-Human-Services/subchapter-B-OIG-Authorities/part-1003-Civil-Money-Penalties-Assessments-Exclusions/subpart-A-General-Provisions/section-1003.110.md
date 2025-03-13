@@ -144,4 +144,4 @@ For purposes of this part:
 
 *Timely basis* means, in accordance with § 1003.300(a) of this part, the 60-day period from the time the prohibited amounts are collected by the individual or the entity.
 
-[51 FR 34777, Sept. 30, 1986. Redesignated at 81 FR 88355, Dec. 7, 2016]Editorial Note:For Federal Register citations affecting § 1003.110, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[51 FR 34777, Sept. 30, 1986. Redesignated at 81 FR 88355, Dec. 7, 2016]Editorial Note:For Federal Register citations affecting § 1003.110, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

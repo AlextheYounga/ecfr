@@ -1,7 +1,5 @@
 ##### § 51.70 Resident rights. #####
 
-Link to an amendment published at 88 FR 83034, Nov. 28, 2023.
-
 The resident has a right to a dignified existence, self-determination, and communication with and access to persons and services inside and outside the facility. The facility management must protect and promote the rights of each resident, including each of the following rights:
 
 (a) *Exercise of rights.* (1) The resident has the right to exercise his or her rights as a resident of the facility and as a citizen or resident of the United States.
@@ -148,6 +146,6 @@ Send and promptly receive mail that is unopened; and
 
 (m) *Married couples.* The resident has the right to share a room with his or her spouse when married residents live in the same facility and both spouses consent to the arrangement.
 
-(n) *Self-Administration of Drugs.* An individual resident may self-administer drugs if the interdisciplinary team, as defined by § 51.110(d)(2)(ii) of this part, has determined that this practice is safe.
+(n) *Self-Administration of Drugs.* An individual resident may self-administer drugs if the interdisciplinary team, as defined by § 51.110(e)(2)(ii), has determined that this practice is safe.
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0160)(Authority: 38 U.S.C. 101, 501, 1710, 1741-1743)[65 FR 968, Jan. 6, 2000, as amended at 74 FR 19434, Apr. 29, 2009]
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0160)(Authority: 38 U.S.C. 101, 501, 1710, 1741-1743)[65 FR 968, Jan. 6, 2000, as amended at 74 FR 19434, Apr. 29, 2009; 88 FR 83034, Nov. 28, 2023]

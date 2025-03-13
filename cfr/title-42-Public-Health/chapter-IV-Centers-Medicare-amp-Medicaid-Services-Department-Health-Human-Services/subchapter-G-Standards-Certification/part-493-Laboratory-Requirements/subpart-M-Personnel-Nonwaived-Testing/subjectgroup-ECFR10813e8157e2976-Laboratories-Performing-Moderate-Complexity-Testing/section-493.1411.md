@@ -1,5 +1,7 @@
 ##### § 493.1411 Standard; Technical consultant qualifications. #####
 
+Link to an amendment published at 88 FR 90040, Dec. 28, 2023.
+
 The laboratory must employ one or more individuals who are qualified by education and either training or experience to provide technical consultation for each of the specialties and subspecialties of service in which the laboratory performs moderate complexity tests or procedures. The director of a laboratory performing moderate complexity testing may function as the technical consultant provided he or she meets the qualifications specified in this section.
 
 (a) The technical consultant must possess a current license issued by the State in which the laboratory is located, if such licensing is required.

@@ -1,7 +1,5 @@
 ##### § 51.300 Resident rights and behavior; State home practices; quality of life. #####
 
-Link to an amendment published at 88 FR 83034, Nov. 28, 2023.
-
 The State home must protect and promote the rights and quality of life of each resident receiving domiciliary care, and otherwise comply with the requirements in § 51.70, except § 51.70(b)(9), (h)(1), and (m); § 51.80, except § 51.80(a)(2) and (4) and (b); § 51.90; and § 51.100, except § 51.100(g)(2), (h), and (i)(5) through (7). The State Home must have a written procedure for admissions, discharges, and transfers. For purposes of this section, the terms “nursing home” and “nursing facility” or “facility” in the applicable provisions of the cited sections apply to a domiciliary.
 
 (a) *Notice of rights and services—notification of changes.* (1) Facility management must immediately inform the resident and consult with the primary care physician when there is
@@ -52,7 +50,7 @@ The State home must protect and promote the rights and quality of life of each r
 
 (vii) The resident ceases to meet any of the eligibility criteria of § 51.51.
 
-(3) *Documentation.* When the facility transfers or discharges a resident under any of the circumstances specified in paragraphs (a)(2)(i) through (vii) of this section, the primary care physician must document the transfer and circumstances in the resident's clinical record.
+(3) *Documentation.* When the facility transfers or discharges a resident under any of the circumstances specified in paragraphs (d)(2)(i) through (vii) of this section, the primary care physician must document the transfer and circumstances in the resident's clinical record.
 
 (4) *Notice before transfer.* Before a facility transfers or discharges a resident, the facility must
 
@@ -120,4 +118,4 @@ The State home must protect and promote the rights and quality of life of each r
 
 (4) Private closet space in each resident's room, as specified in § 51.200(d)(2)(iv).
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0160)
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0160)[83 FR 61277, Nov. 28, 2018, as amended at 88 FR 83034, Nov. 28, 2023]

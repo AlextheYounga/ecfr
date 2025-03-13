@@ -1,5 +1,7 @@
 ##### § 493.1278 Standard: Histocompatibility. #####
 
+Link to an amendment published at 88 FR 90038, Dec. 28, 2023.
+
 (a) *General.* The laboratory must meet the following requirements:
 
 (1) An audible alarm system must be used to monitor the storage temperature of specimens (donor and beneficiary) and reagents. The laboratory must have an emergency plan for alternate storage.

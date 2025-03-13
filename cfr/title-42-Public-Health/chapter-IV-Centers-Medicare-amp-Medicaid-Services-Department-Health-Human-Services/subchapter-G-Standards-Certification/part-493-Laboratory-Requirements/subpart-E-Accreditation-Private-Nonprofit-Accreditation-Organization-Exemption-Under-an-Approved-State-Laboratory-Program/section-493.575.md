@@ -1,5 +1,7 @@
 ##### § 493.575 Removal of deeming authority or CLIA exemption and final determination review. #####
 
+Link to an amendment published at 88 FR 90035, Dec. 28, 2023.
+
 (a) *CMS review.* CMS conducts a review of the following:
 
 (1) A deeming authority review of an accreditation organization's program if the comparability or validation review produces findings, as described at § 493.573. CMS reviews, as appropriate, the criteria described in §§ 493.555 and 493.557(a) to reevaluate whether the accreditation organization continues to meet all these criteria.

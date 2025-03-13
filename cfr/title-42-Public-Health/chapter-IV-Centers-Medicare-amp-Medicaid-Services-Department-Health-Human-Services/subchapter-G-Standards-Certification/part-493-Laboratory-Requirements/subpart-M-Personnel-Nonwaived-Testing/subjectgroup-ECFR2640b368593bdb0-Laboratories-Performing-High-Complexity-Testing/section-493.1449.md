@@ -1,5 +1,7 @@
 ##### § 493.1449 Standard; Technical supervisor qualifications. #####
 
+Link to an amendment published at 88 FR 90041, Dec. 28, 2023.
+
 The laboratory must employ one or more individuals who are qualified by education and either training or experience to provide technical supervision for each of the specialties and subspecialties of service in which the laboratory performs high complexity tests or procedures. The director of a laboratory performing high complexity testing may function as the technical supervisor provided he or she meets the qualifications specified in this section.
 
 (a) The technical supervisor must possess a current license issued by the State in which the laboratory is located, if such licensing is required; and

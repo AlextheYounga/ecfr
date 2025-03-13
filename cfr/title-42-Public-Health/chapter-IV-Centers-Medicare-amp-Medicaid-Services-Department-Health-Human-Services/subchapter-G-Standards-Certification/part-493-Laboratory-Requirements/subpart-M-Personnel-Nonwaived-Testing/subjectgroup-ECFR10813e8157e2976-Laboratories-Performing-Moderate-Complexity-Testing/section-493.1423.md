@@ -1,5 +1,7 @@
 ##### § 493.1423 Standard; Testing personnel qualifications. #####
 
+Link to an amendment published at 88 FR 90040, Dec. 28, 2023.
+
 Each individual performing moderate complexity testing must—
 
 (a) Possess a current license issued by the State in which the laboratory is located, if such licensing is required; and

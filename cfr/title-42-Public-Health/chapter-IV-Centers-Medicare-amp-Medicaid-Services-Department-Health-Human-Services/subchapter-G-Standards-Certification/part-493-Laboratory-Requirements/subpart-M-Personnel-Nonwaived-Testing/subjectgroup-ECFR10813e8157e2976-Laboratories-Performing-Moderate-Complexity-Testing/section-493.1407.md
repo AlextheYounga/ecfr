@@ -1,5 +1,7 @@
 ##### § 493.1407 Standard; Laboratory director responsibilities. #####
 
+Link to an amendment published at 88 FR 90039, Dec. 28, 2023.
+
 The laboratory director is responsible for the overall operation and administration of the laboratory, including the employment of personnel who are competent to perform test procedures, and record and report test results promptly, accurate, and proficiently and for assuring compliance with the applicable regulations.
 
 (a) The laboratory director, if qualified, may perform the duties of the technical consultant, clinical consultant, and testing personnel, or delegate these responsibilities to personnel meeting the qualifications of §§ 493.1409, 493.1415, and 493.1421, respectively.

@@ -1,5 +1,7 @@
 ##### § 493.1463 Standard: General supervisor responsibilities. #####
 
+Link to an amendment published at 88 FR 90044, Dec. 28, 2023.
+
 The general supervisor is responsible for day-to-day supervision or oversight of the laboratory operation and personnel performing testing and reporting test results.
 
 (a) The general supervisor—(1) Must be accessible to testing personnel at all times testing is performed to provide on-site, telephone or electronic consultation to resolve technical problems in accordance with policies and procedures established either by the laboratory director or technical supervisor;

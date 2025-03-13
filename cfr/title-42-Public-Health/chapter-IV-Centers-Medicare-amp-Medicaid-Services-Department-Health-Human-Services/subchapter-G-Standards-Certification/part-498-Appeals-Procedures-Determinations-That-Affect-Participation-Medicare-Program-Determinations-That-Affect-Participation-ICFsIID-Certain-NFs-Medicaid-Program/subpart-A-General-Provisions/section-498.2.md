@@ -74,4 +74,4 @@ As used in this part—
 
 (13) A site approved by CMS to furnish intensive cardiac rehabilitation services.
 
-[52 FR 22446, June 12, 1987]Editorial Note:For Federal Register citations affecting § 498.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[52 FR 22446, June 12, 1987]Editorial Note:For Federal Register citations affecting § 498.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

@@ -1,5 +1,7 @@
 ##### § 6.6 Mandatory and discretionary supervisory actions. #####
 
+Link to an amendment published at 88 FR 89842, Dec. 28, 2023.
+
 (a) *Mandatory supervisory actions*—(1) *Provisions applicable to all national banks and Federal savings associations.* All national banks and Federal savings associations are subject to the restrictions contained in section 38(d) of the FDI Act on payment of distributions and management fees.
 
 (2) *Provisions applicable to undercapitalized, significantly undercapitalized, and critically undercapitalized national banks or Federal savings associations.* Immediately upon receiving notice or being deemed to have notice, as provided in § 6.3, that the national bank or Federal savings association is undercapitalized, significantly undercapitalized, or critically undercapitalized, the national bank or Federal savings association shall become subject to the provisions of section 38 of the FDI Act:

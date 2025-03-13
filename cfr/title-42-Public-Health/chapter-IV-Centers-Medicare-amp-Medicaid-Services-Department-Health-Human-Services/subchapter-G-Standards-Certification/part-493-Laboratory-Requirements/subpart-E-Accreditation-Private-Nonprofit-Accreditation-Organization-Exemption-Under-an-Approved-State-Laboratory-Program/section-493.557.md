@@ -1,5 +1,7 @@
 ##### § 493.557 Additional submission requirements. #####
 
+Link to an amendment published at 88 FR 90035, Dec. 28, 2023.
+
 (a) *Specific requirements for accreditation organizations.* In addition to the information specified in §§ 493.553 and 493.555, as part of the approval and review process, an accreditation organization applying or reapplying for deeming authority must also provide the following:
 
 (1) The specialty or subspecialty areas for which the organization is requesting deeming authority and its mechanism for monitoring compliance with all requirements equivalent to condition-level requirements within the scope of the specialty or subspecialty areas.

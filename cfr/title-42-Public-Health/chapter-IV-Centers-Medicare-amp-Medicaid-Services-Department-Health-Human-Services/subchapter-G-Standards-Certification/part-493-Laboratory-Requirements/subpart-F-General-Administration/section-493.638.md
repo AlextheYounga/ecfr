@@ -1,5 +1,7 @@
 ##### § 493.638 Certificate fees. #####
 
+Link to an amendment published at 88 FR 90035, Dec. 28, 2023.
+
 (a) *Basic rule.* Laboratories must pay a fee for the issuance of a registration certificate, certificate for PPM procedures, certificate of waiver, certificate of accreditation, or a certificate of compliance, as applicable. Laboratories must also pay a fee to reapply for a certificate for PPM procedures, certificate of waiver, certificate of accreditation, or a certificate of compliance. The total of fees collected by HHS under the laboratory program must be sufficient to cover the general costs of administering the laboratory certification program under section 353 of the PHS Act.
 
 (1) For registration certificates and certificates of compliance, the costs include issuing the certificates, collecting the fees, evaluating and monitoring proficiency testing programs, evaluating which procedures, tests or examinations meet the criteria for inclusion in the appropriate complexity category, and implementing section 353 of the PHS Act.

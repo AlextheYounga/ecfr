@@ -1,5 +1,7 @@
 ##### § 493.1359 Standard; PPM laboratory director responsibilities. #####
 
+Link to an amendment published at 88 FR 90039, Dec. 28, 2023.
+
 The laboratory director is responsible for the overall operation and administration of the laboratory, including the prompt, accurate, and proficient reporting of test results. The laboratory director must—
 
 (a) Direct no more than five laboratories; and

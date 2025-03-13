@@ -1,5 +1,7 @@
 ##### § 2.10-25 Definitions. #####
 
+Link to an amendment published at 88 FR 89607, Dec. 28, 2023.
+
 The following definitions apply to this subpart:
 
 *Drill ship MODU* means a mobile offshore drilling unit with a ship shape displacement hull intended for operation in the floating condition.

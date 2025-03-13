@@ -1,5 +1,7 @@
 ##### § 493.1451 Standard: Technical supervisor responsibilities. #####
 
+Link to an amendment published at 88 FR 90043, Dec. 28, 2023.
+
 The technical supervisor is responsible for the technical and scientific oversight of the laboratory. The technical supervisor is not required to be on site at all times testing is performed; however, he or she must be available to the laboratory on an as needed basis to provide supervision as specified in (a) of this section.
 
 (a) The technical supervisor must be accessible to the laboratory to provide on-site, telephone, or electronic consultation; and

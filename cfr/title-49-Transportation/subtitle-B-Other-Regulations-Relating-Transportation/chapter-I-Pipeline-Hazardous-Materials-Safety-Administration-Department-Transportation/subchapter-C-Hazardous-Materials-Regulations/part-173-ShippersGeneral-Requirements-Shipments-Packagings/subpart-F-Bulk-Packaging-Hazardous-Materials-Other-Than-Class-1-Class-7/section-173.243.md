@@ -51,4 +51,4 @@ When § 172.101 of this subchapter specifies that a hazardous material be packag
 
 (3) The subsidiary hazard is Class 8, Packaging Group, III.
 
-[Amdt. 173-224, 55 FR 52663, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 173.243, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[Amdt. 173-224, 55 FR 52663, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 173.243, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

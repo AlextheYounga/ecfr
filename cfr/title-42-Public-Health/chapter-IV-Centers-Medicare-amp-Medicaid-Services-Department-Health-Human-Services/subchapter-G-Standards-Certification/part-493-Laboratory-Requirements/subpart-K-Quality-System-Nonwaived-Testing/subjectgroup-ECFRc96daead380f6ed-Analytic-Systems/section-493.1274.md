@@ -1,5 +1,7 @@
 ##### § 493.1274 Standard: Cytology. #####
 
+Link to an amendment published at 88 FR 90038, Dec. 28, 2023.
+
 (a) *Cytology slide examination site.* All cytology slide preparations must be evaluated on the premises of a laboratory certified to conduct testing in the subspecialty of cytology.
 
 (b) *Staining.* The laboratory must have available and follow written policies and procedures for each of the following, if applicable:

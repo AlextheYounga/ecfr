@@ -174,4 +174,4 @@
 
 (2) All EPs, eligible hospitals, and CAHs must keep documentation supporting their demonstration of meaningful use for 6 years.
 
-[75 FR 44565, July 28, 2010. Redesignated at 80 FR 62943, Oct. 16, 2015]Editorial Note:For Federal Register citations affecting § 495.40, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[75 FR 44565, July 28, 2010. Redesignated at 80 FR 62943, Oct. 16, 2015]Editorial Note:For Federal Register citations affecting § 495.40, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

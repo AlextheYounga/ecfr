@@ -1,6 +1,6 @@
 ##### § 493.2 Definitions. #####
 
-Link to an amendment published at 87 FR 41232, July 11, 2022.
+Link to an amendment published at 87 FR 41232, July 11, 2022.Link to an amendment published at 88 FR 90035, Dec. 28, 2023.
 
 As used in this part, unless the context indicates otherwise—
 
@@ -54,6 +54,8 @@ This definition includes any foreign institution of higher education that HHS or
 
 *CLIA-exempt laboratory* means a laboratory that has been licensed or approved by a State where CMS has determined that the State has enacted laws relating to laboratory requirements that are equal to or more stringent than CLIA requirements and the State licensure program has been approved by CMS in accordance with subpart E of this part.
 
+*CMS agent* means an entity with which CMS arranges to inspect laboratories and assess laboratory activities against CLIA requirements and may be a State survey agency, a private, nonprofit organization other than an approved accreditation organization, a component of HHS, or any other governmental component CMS approves for this purpose. In those instances where all of the laboratories in a State are exempt from CLIA requirements, based on the approval of a State's exemption request, the State survey agency is not the CMS agent.
+
 *Condition level deficiency* means noncompliance with one or more condition level requirements.
 
 *Condition level requirements* means any of the requirements identified as “conditions” in § 493.41 and subparts G through Q of this part.
@@ -72,9 +74,11 @@ This definition includes any foreign institution of higher education that HHS or
 
 *Distributive testing* means laboratory testing performed on the same specimen, or an aliquot of it, that requires sharing it between two or more laboratories to obtain all data required to complete an interpretation or calculation necessary to provide a final reportable result for the originally ordered test. When such testing occurs at multiple locations with different CLIA certificates, it is considered distributive testing.
 
-*Equivalency* means that an accreditation organization's or a State laboratory program's requirements, taken as a whole, are equal to or more stringent than the CLIA requirements established by CMS, taken as whole. It is acceptable for an accreditation organization's or State laboratory program's requirements to be organized differently or otherwise vary from the CLIA requirements, as long as (1) all of the requirements taken as a whole would provide at least the same protection as the CLIA requirements taken as a whole; and (2) a finding of noncompliance with respect to CLIA requirements taken as a whole would be matched by a finding of noncompliance with the accreditation or State requirements taken as a whole.
+*Equivalency* means that an accreditation organization's or a State laboratory program's requirements, taken as a whole, are equal to or more stringent than the CLIA requirements established by CMS, taken as whole. It is acceptable for an accreditation organization's or State laboratory program's requirements to be organized differently or otherwise vary from the CLIA requirements, as long as
 
-*CMS agent* means an entity with which CMS arranges to inspect laboratories and assess laboratory activities against CLIA requirements and may be a State survey agency, a private, nonprofit organization other than an approved accreditation organization, a component of HHS, or any other governmental component CMS approves for this purpose. In those instances where all of the laboratories in a State are exempt from CLIA requirements, based on the approval of a State's exemption request, the State survey agency is not the CMS agent.
+(1) All of the requirements taken as a whole would provide at least the same protection as the CLIA requirements taken as a whole; and
+
+(2) A finding of noncompliance with respect to CLIA requirements taken as a whole would be matched by a finding of noncompliance with the accreditation or State requirements taken as a whole.
 
 *FDA-cleared or approved test system* means a test system cleared or approved by the FDA through the premarket notification (510(k)) or premarket approval (PMA) process for in-vitro diagnostic use. Unless otherwise stated, this includes test systems exempt from FDA premarket clearance or approval.
 

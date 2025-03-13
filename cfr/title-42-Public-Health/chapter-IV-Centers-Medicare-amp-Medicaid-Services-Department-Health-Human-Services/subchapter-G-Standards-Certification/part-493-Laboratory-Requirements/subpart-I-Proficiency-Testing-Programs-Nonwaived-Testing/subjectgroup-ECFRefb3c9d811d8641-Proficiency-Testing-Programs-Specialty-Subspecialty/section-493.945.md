@@ -1,5 +1,7 @@
 ##### § 493.945 Cytology; gynecologic examinations. #####
 
+Link to an amendment published at 88 FR 90038, Dec. 28, 2023.
+
 (a) *Program content and frequency of challenge.* (1) To be approved for proficiency testing for gynecologic examinations (Pap smears) in cytology, a program must provide test sets composed of 10- and 20-glass slides. Proficiency testing programs may obtain slides for test sets from cytology laboratories, provided the slides have been retained by the laboratory for the required period specified in §§ 493.1105(a)(7)(i)(A) and 493.1274(f)(2). If slide preparations are still subject to retention by the laboratory, they may be loaned to a proficiency testing program if the program provides the laboratory with documentation of the loan of the slides and ensures that slides loaned to it are retrievable upon request. Each test set must include at least one slide representing each of the response categories described in paragraph (b)(3)(ii)(A) of this section, and test sets should be comparable so that equitable testing is achieved within and between proficiency testing providers.
 
 (2) To be approved for proficiency testing in gynecologic cytology, a program must provide announced and unannounced on-site testing for each individual at least once per year and must provide an initial retesting event for each individual within 45 days after notification of test failure and subsequent retesting events within 45 days after completion of remedial action described in § 493.855.

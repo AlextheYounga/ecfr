@@ -96,6 +96,4 @@ Federal hazardous materials transportation law (49 U.S.C. 5101 *et seq.*) direct
 
 (3) The procedures for DOT to make administrative determinations of preemption are set forth in subpart E of part 397 of this title with respect to non-Federal requirements on highway routing (paragraph (f)(1)(iv) of this section) and in subpart C of part 107 of this chapter with respect to all other non-Federal requirements.
 
-(g) *Penalties for noncompliance.* Each person who knowingly violates a requirement of the Federal hazardous material transportation law, an order issued under Federal hazardous material transportation law, subchapter A of this chapter, or a special permit or approval issued under subchapter A or C of this chapter is liable for a civil penalty of not more than $96,624 for each violation, except the maximum civil penalty is $225,455 if the violation results in death, serious illness, or severe injury to any person or substantial destruction of property. There is no minimum civil penalty, except for a minimum civil penalty of $582 for a violation relating to training.
-
-[68 FR 61937, Oct. 30, 2003; 70 FR 20031, Apr. 15, 2005, as amended at 70 FR 73162, Dec. 9, 2005; 71 FR 44931, Aug. 8, 2006; 88 FR 1125, Jan. 6, 2023]
+[68 FR 61937, Oct. 30, 2003; 70 FR 20031, Apr. 15, 2005, as amended at 70 FR 73162, Dec. 9, 2005; 71 FR 44931, Aug. 8, 2006; 88 FR 1125, Jan. 6, 2023; 88 Fr, Dec. 28, 2023]

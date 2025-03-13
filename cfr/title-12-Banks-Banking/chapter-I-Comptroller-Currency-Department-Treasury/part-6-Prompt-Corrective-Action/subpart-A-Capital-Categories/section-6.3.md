@@ -1,5 +1,7 @@
 ##### § 6.3 Notice of capital category. #####
 
+Link to an amendment published at 88 FR 89842, Dec. 28, 2023.
+
 (a) *Effective date of determination of capital category.* A national bank or Federal savings association shall be deemed to be within a given capital category for purposes of section 38 of the FDI Act and this part as of the date the national bank or Federal savings association is notified of, or is deemed to have notice of, its capital category pursuant to paragraph (b) of this section.
 
 (b) *Notice of capital category.* A national bank or Federal savings association shall be deemed to have been notified of its capital levels and its capital category as of the most recent date:

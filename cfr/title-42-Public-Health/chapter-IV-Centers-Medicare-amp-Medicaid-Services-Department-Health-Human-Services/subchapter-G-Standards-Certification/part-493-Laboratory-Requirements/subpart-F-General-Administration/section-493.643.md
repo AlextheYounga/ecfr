@@ -1,5 +1,7 @@
 ##### § 493.643 Fee for determination of program compliance. #####
 
+Link to an amendment published at 88 FR 90036, Dec. 28, 2023.
+
 (a) *Fee requirement.* In addition to the fee required under § 493.638, a laboratory subject to routine inspections must pay a fee to cover the cost of determining program compliance. Laboratories issued a certificate for PPM procedures, certificate of waiver, or a certificate of accreditation are not subject to this fee for routine inspections.
 
 (b) *Costs included in the fee.* Included in the fee for determining program compliance is the cost of evaluating qualifications of personnel; monitoring proficiency testing; conducting onsite inspections; documenting deficiencies; evaluating laboratories' plans to correct deficiencies; and necessary administrative costs. HHS sets the fee amounts annually on a calendar year basis. Laboratories are inspected biennially; therefore, fees are assessed and payable biennially. If additional expenses are incurred to conduct follow up visits to verify correction of deficiencies, to impose sanctions, and/or for surveyor preparation for and attendance at ALJ hearings, HHS assesses an additional fee to include these costs. The additional fee is based on the actual resources and time necessary to perform the activities.

@@ -1,5 +1,7 @@
 ##### § 493.1804 General considerations. #####
 
+Link to an amendment published at 88 FR 90044, Dec. 28, 2023.
+
 (a) *Purpose.* The enforcement mechanisms set forth in this subpart have the following purposes:
 
 (1) To protect all individuals served by laboratories against substandard testing of specimens.

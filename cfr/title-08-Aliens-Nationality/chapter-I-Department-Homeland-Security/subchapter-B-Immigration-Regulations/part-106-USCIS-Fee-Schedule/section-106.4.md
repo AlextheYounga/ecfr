@@ -1,5 +1,7 @@
 ##### § 106.4 Premium processing service. #####
 
+Link to an amendment published at 88 FR 89550, Dec. 28, 2023.
+
 (a) *General.* A person may submit a request to USCIS for premium processing of certain immigration benefit requests, subject to processing timeframes and fees, as described in this section.
 
 (b) *Submitting a request.* A request must be submitted on the form and in the manner prescribed by USCIS in the form instructions. If the request for premium processing is submitted together with the underlying immigration benefit request, all required fees in the correct amount must be paid. The fee to request premium processing service may not be waived and must be paid in addition to, and in a separate remittance from, other filing fees.

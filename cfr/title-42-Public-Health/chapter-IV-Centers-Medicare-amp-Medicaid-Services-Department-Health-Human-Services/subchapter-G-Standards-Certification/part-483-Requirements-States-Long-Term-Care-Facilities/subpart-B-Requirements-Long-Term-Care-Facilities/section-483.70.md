@@ -266,4 +266,4 @@ A facility must be administered in a manner that enables it to use its resources
 
 (5) *Submission schedule.* The facility must submit direct care staffing information on the schedule specified by CMS, but no less frequently than quarterly.
 
-[56 FR 48877, Sept. 26, 1991. Redesignated at 81 FR 68861, Oct. 4, 2016]Editorial Note:For Federal Register citations affecting § 483.70, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[56 FR 48877, Sept. 26, 1991. Redesignated at 81 FR 68861, Oct. 4, 2016]Editorial Note:For Federal Register citations affecting § 483.70, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

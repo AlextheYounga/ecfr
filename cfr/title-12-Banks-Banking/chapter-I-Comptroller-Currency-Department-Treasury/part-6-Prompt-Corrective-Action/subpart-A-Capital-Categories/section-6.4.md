@@ -1,5 +1,7 @@
 ##### § 6.4 Capital measures and capital categories. #####
 
+Link to an amendment published at 88 FR 89842, Dec. 28, 2023.
+
 (a) *Capital measures.* (1) For purposes of section 38 of the FDI Act and this part, the relevant capital measures shall be:
 
 (i) Total Risk-Based Capital Measure: the total risk-based capital ratio;

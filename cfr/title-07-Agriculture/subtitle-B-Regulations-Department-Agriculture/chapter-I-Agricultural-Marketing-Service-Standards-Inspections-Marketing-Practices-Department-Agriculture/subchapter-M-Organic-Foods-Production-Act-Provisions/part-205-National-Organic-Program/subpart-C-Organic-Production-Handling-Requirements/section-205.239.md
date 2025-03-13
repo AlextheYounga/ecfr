@@ -1,6 +1,6 @@
 ##### § 205.239 Livestock living conditions. #####
 
-Link to an amendment published at 88 FR 75446, Nov. 2, 2023.
+Link to an amendment published at 88 FR 75446, Nov. 2, 2023.Link to a correction of the above amendment published at 88 FR 89539, Dec. 28, 2023.
 
 (a) The producer of an organic livestock operation must establish and maintain year-round livestock living conditions which accommodate the health and natural behavior of animals, including:
 

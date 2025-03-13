@@ -1,5 +1,7 @@
 ##### § 117.645 River Rouge. #####
 
+Link to an amendment published at 88 FR 89576, Dec. 28, 2023.
+
 (a) The Delray Connecting Railroad Bridge, mile 0.34, need not have a drawtender in continued attendance at the bridge and shall open on signal if a 4-hour advance notice is provided.
 
 (b) The Delray Connecting Railroad Bridge, mile 0.80, over the Old Channel need not have a drawtender in continued attendance at the bridge. The bridge will remain open ten minutes before the bridge is lowered for train traffic. A crewmember from the train will initiate a SECURITE call on VHF-FM Marine Channel 16 that the bridge will be lowering for train traffic and invite any concerned mariners to contact the drawtender on VHF-FM Marine Channel 12. The drawtender will also visually monitor for vessel traffic and listen for the standard bridge opening signal of one prolonged blast and one short blast from vessels already transiting the waterway. After the ten minute warning, another SECURITE call shall be made on VHF-FM Marine Channel 16 that the bridge will be lowering for rail traffic five minutes before lowering. Once the drawtender is satisfied that it is safe, the bridge will be lowered for rail traffic. Once the rail traffic has cleared the bridge, the bridge shall be raised and locked in the fully open to navigation position.

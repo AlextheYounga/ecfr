@@ -102,4 +102,4 @@
 
 (6) The overpack requirements of § 173.25 do not apply to large salvage packagings used in accordance with this paragraph.
 
-[Amdt. 173-224, 55 FR 52607, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 173.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[Amdt. 173-224, 55 FR 52607, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 173.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

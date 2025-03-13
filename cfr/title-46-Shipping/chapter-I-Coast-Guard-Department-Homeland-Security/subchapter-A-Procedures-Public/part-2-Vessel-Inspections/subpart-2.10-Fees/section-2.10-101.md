@@ -1,5 +1,7 @@
 ##### § 2.10-101 Annual vessel inspection fee. #####
 
+Link to an amendment published at 88 FR 89608, Dec. 28, 2023.
+
 (a)(1) Unless otherwise provided by this subpart, each vessel required to have a Certificate of Inspection is subject to the annual vessel inspection fee listed in table 2.10-101 for its vessel category.
 
 (2) A vessel certificated for more than one service must pay only the higher of the two applicable fees in table 2.10-101 of this section.

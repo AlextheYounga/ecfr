@@ -1,5 +1,7 @@
 ##### § 493.649 Methodology for determining fee amount. #####
 
+Link to an amendment published at 88 FR 90036, Dec. 28, 2023.
+
 (a) *General rule.* The amount of the fee in each schedule for compliance determination inspections is based on the average hourly rate (which includes the costs to perform the required activities and necessary administration costs) multiplied by the average number of hours required or, if activities are performed by more than one of the entities listed in paragraph (b) of this section, the sum of the products of the applicable hourly rates multiplied by the average number of hours required by the entity to perform the activity. The fee for issuance of the registration certificate or certificate of compliance is based on the laboratory's scope and volume of testing.
 
 (b) *Determining average hourly rates used in fee schedules.* Three different entities perform activities related to the issuance or reissuance of any certificate. HHS determines the average hourly rates for the activities of each of these entities.

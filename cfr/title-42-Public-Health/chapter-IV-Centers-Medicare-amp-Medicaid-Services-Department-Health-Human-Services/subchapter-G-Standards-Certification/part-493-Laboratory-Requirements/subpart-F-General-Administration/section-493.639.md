@@ -1,5 +1,7 @@
 ##### § 493.639 Fee for revised certificate. #####
 
+Link to an amendment published at 88 FR 90036, Dec. 28, 2023.
+
 (a) If, after a laboratory is issued a registration certificate, it changes its name or location, the laboratory must pay a fee to cover the cost of issuing a revised registration certificate. The fee for the revised registration certificate is based on the cost to issue the revised certificate to the laboratory.
 
 (b) A laboratory must pay a fee to cover the cost of issuing a revised certificate in any of the following circumstances:

@@ -1,5 +1,7 @@
 ##### § 493.645 Additional fee(s) applicable to approved State laboratory programs and laboratories issued a certificate of accreditation, certificate of waiver, or certificate for PPM procedures. #####
 
+Link to an amendment published at 88 FR 90036, Dec. 28, 2023.
+
 (a) *Approved State laboratory programs.* State laboratory programs approved by HHS are assessed a fee for the following:
 
 (1) Costs of Federal inspections of laboratories in that State (that is, CLIA-exempt laboratories) to verify that standards are being enforced in an appropriate manner.

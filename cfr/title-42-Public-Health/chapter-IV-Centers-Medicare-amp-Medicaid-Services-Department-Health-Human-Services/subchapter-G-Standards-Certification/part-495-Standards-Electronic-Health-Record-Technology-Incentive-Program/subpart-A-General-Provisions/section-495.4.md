@@ -524,4 +524,4 @@ In this part, unless otherwise indicated—
 
 *Qualified EHR* has the same definition as this term is defined at 45 CFR 170.102.
 
-[75 FR 44565, July 28, 2010]Editorial Note:For Federal Register citations affecting § 495.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[75 FR 44565, July 28, 2010]Editorial Note:For Federal Register citations affecting § 495.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

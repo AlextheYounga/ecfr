@@ -64,7 +64,9 @@ Link to an amendment published at 88 FR 59469, Aug. 29, 2023.
 
 (8) FM6 LPTV stations may be assigned or transferred; however, an FM6 LPTV station's FM6 operation is not severable from its digital license and may not be assigned or transferred separate from the FM6 LPTV station.
 
-(9)-(10) [Reserved]
+(9) FM6 LPTV stations must notify the Media Bureau within 30 days of permanently ceasing FM6 operations. Such notification hall be made by written letter and mailed to the FCC Office of the Secretary, Attention: Chief, Video Division, Media Bureau. If an FM6 LPTV station permanently ceases FM6 operations, FM6 operations may not resume.
+
+(10) FM6 LPTV stations must certify in an attachment to their license renewal application that they have continued to provide FM6 service in accordance with the FM6 rules in this section during the prior license term.
 
 (11) FM6 LPTV stations shall continue to be subject to all rules in part 73 of this chapter and this part applicable to low power television stations. In addition, the following rules shall apply to FM6 LPTV stations with respect to their FM6 operations:
 
@@ -164,4 +166,4 @@ Link to an amendment published at 88 FR 59469, Aug. 29, 2023.
 
 (xlviii) Section 73.4265, Telephone conversation broadcasts (network and like sources).
 
-[69 FR 69334, Nov. 29, 2004, as amended at 87 FR 58205, Sept. 23, 2022; 88 FR 30670, May 12, 2023; 88 FR 59468, Aug. 29, 2023]
+[69 FR 69334, Nov. 29, 2004, as amended at 87 FR 58205, Sept. 23, 2022; 88 FR 30670, May 12, 2023; 88 FR 59468, Aug. 29, 2023; 88 FR 59469, Aug. 29, 2023]

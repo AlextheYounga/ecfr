@@ -1,5 +1,7 @@
 ##### § 493.1443 Standard; Laboratory director qualifications. #####
 
+Link to an amendment published at 88 FR 90041, Dec. 28, 2023.
+
 The laboratory director must be qualified to manage and direct the laboratory personnel and performance of high complexity tests and must be eligible to be an operator of a laboratory within the requirements of subpart R.
 
 (a) The laboratory director must possess a current license as a laboratory director issued by the State in which the laboratory is located, if such licensing is required; and

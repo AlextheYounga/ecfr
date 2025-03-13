@@ -34,14 +34,14 @@
 
 1*Viscosity determination:* Where the substance concerned is non-Newtonian, or where a flow-cup method of viscosity determination is otherwise unsuitable, a variable shear-rate viscometer shall be used to determine the dynamic viscosity coefficient of the substance, at 23 °C (73.4 °F), at a number of shear rates. The values obtained are plotted against shear rate and then extrapolated to zero shear rate. The dynamic viscosity thus obtained, divided by the density, gives the apparent kinematic viscosity at near-zero shear rate.
 
-|Kinematic viscosity  <br/>(extrapolated)  <br/>ν (at near-zero  <br/>shear rate) mm2/s  <br/>at 23 °C (73.4 °F)|Flow-time t in  <br/>seconds|Jet diameter  <br/>in mm|   Flash point c.c.   |
-|---------------------------------------------------------------------------------------------------------------|----------------------------|------------------------|----------------------|
-|                                                 20 \< ν ≤ 80                                                  |        20 \< t ≤ 60        |           4            |above 17 °C (62.6 °F).|
-|                                                 80 \< ν ≤ 135                                                 |       60 \< t ≤ 100        |           4            | above 10 °C (50 °F). |
-|                                                135 \< ν ≤ 220                                                 |        20 \< t ≤ 32        |           6            | above 5 °C (41 °F).  |
-|                                                220 \< ν ≤ 300                                                 |        32 \< t ≤ 44        |           6            |above −1 °C (31.2 °F).|
-|                                                300 \< ν ≤ 700                                                 |       44 \< t ≤ 100        |           6            | above −5 °C (23 °F). |
-|                                                   700 \< ν                                                    |          100 \< t          |           6            |      No limit.       |
+|Kinematic viscosity   <br/>(extrapolated)   <br/>ν (at near-zero   <br/>shear rate) mm2/s   <br/>at 23 °C (73.4 °F)|Flow-time t in   <br/>seconds|Jet diameter   <br/>in mm|   Flash point c.c.   |
+|-------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------------------|----------------------|
+|                                                   20 \< ν ≤ 80                                                    |        20 \< t ≤ 60         |            4            |above 17 °C (62.6 °F).|
+|                                                   80 \< ν ≤ 135                                                   |        60 \< t ≤ 100        |            4            | above 10 °C (50 °F). |
+|                                                  135 \< ν ≤ 220                                                   |        20 \< t ≤ 32         |            6            | above 5 °C (41 °F).  |
+|                                                  220 \< ν ≤ 300                                                   |        32 \< t ≤ 44         |            6            |above −1 °C (31.2 °F).|
+|                                                  300 \< ν ≤ 700                                                   |        44 \< t ≤ 100        |            6            | above −5 °C (23 °F). |
+|                                                     700 \< ν                                                      |          100 \< t           |            6            |      No limit.       |
 
 (2) The methods by which the tests referred to in paragraph (b)(1) of this section shall be performed are as follows:
 
@@ -49,4 +49,4 @@
 
 (ii) *Solvent Separation Test.* This test is carried out at 23 °C (73 °F) using a 100.0 mL(3 ounces) measuring cylinder of the stoppered type of approximately 25.0 cm (9.8 inches) total height and of a uniform internal diameter of approximately 30 mm (1.2 inches) over the calibrated section. The sample should be stirred to obtain a uniform consistency, and poured in up to the 100 mL (3 ounces) mark. The stopper should be inserted and the cylinder left standing undisturbed for 24 hours. After 24 hours, the height of the upper separated layer should be measured and the percentage of this layer as compared with the total height of the sample calculated.
 
-[Amdt. 173-224, 55 FR 52634, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 173.121, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[Amdt. 173-224, 55 FR 52634, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 173.121, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

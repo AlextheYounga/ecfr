@@ -1,5 +1,7 @@
 ##### § 493.1469 Standard: Cytology general supervisor qualifications. #####
 
+Link to an amendment published at 88 FR 90044, Dec. 28, 2023.
+
 The cytology general supervisor must be qualified to supervise cytology services. The general supervisor in cytology must possess a current license issued by the State in which the laboratory is located, if such licensing is required, and must—
 
 (a) Be qualified as a technical supervisor under § 493.1449 (b) or (k); or
