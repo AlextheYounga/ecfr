@@ -1,6 +1,6 @@
 ##### § 52.15 Central office code administration. #####
 
-Link to an amendment published at 88 FR 80636, Nov. 20, 2023.Link to an amendment published at 88 FR 80637, Nov. 20, 2023.
+Link to an amendment published at 88 FR 80637, Nov. 20, 2023.
 
 (a) Central Office Code Administration shall be performed by the NANPA, or another entity or entities, as designated by the Commission.
 
@@ -78,43 +78,85 @@ Link to an amendment published at 88 FR 80636, Nov. 20, 2023.Link to an amendmen
 
 (2) *Initial numbering resources.* An applicant for initial numbering resources must include in its application evidence that the applicant is authorized to provide service in the area for which the numbering resources are requested; and that the applicant is or will be capable of providing service within sixty (60) days of the numbering resources activation date. A provider of VoIP Positioning Center (VPC) services that is unable to demonstrate authorization to provide service in a state may instead demonstrate that the state does not certify VPC service providers in order to request pseudo-Automatic Numbering Identification (p-ANI) codes directly from the Numbering Administrators for purposes of providing 911 and E-911 service.
 
-(3) *Commission authorization process.* A provider of interconnected VoIP service may show a Commission authorization obtained pursuant to this paragraph as evidence that it is authorized to provide service under paragraph (g)(2) of this section.
+(3) *Commission authorization process.* A provider of interconnected VoIP service may show a Commission authorization obtained pursuant to this paragraph (g)(3) as evidence that it is authorized to provide service under paragraph (g)(2) of this section.
 
-(i) *Contents of the application for interconnected VoIP provider numbering authorization.* An application for authorization must reference this section and must contain the following:
+(i) *Definition.* The term *foreign carrier* found in this section is given the same meaning as in § 63.09(d) of this chapter.
 
-(A) The applicant's name, address, and telephone number, and contact information for personnel qualified to address issues relating to regulatory requirements, compliance with Commission's rules, 911, and law enforcement;
+(ii) *Contents of the application for interconnected VoIP provider numbering authorization.* An application for authorization must reference this section and must contain the following:
 
-(B) An acknowledgment that the authorization granted under this paragraph is subject to compliance with applicable Commission numbering rules; numbering authority delegated to the states; and industry guidelines and practices regarding numbering as applicable to telecommunications carriers;
+(A) The applicant's name, address, and telephone number and contact information for personnel qualified to address issues relating to regulatory requirements, compliance with Commission's rules in this chapter, 911, and law enforcement;
 
-(C) An acknowledgement that the applicant must file requests for numbers with the relevant state commission(s) at least 30 days before requesting numbers from the Numbering Administrators;
+(B) An acknowledgment that the authorization granted under this paragraph (g)(3) is subject to compliance with applicable Commission numbering rules in this part; numbering authority delegated to the states; and industry guidelines and practices regarding numbering as applicable to telecommunications carriers;
 
-(D) Proof that the applicant is or will be capable of providing service within sixty (60) days of the numbering resources activation date in accordance with paragraph (g)(2) of this section;
+(C)-(F) [Reserved]
 
-(E) Certification that the applicant complies with its Universal Service Fund contribution obligations under 47 CFR part 54, subpart H, its Telecommunications Relay Service contribution obligations under 47 CFR 64.604(c)(5)(iii), its NANP and LNP administration contribution obligations under 47 CFR 52.17 and 52.32, its obligations to pay regulatory fees under 47 CFR 1.1154, and its 911 obligations under 47 CFR part 9; and
+(G) An acknowledgment that the applicant must file requests for numbers with the relevant state commission(s) at least 30 days before requesting numbers from the Numbering Administrators;
 
-(F) Certification that the applicant possesses the financial, managerial, and technical expertise to provide reliable service. This certification must include the name of applicant's key management and technical personnel, such as the Chief Operating Officer and the Chief Technology Officer, or equivalent, and state that none of the identified personnel are being or have been investigated by the Federal Communications Commission or any law enforcement or regulatory agency for failure to comply with any law, rule, or order; and
+(H) Proof that the applicant is or will be capable of providing service within sixty (60) days of the numbering resources activation date in accordance with paragraph (g)(2) of this section;
 
-(G) Certification pursuant to Sections 1.2001 and 1.2002 of this chapter that no party to the application is subject to a denial of Federal benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988. *See* 21 U.S.C. 862.
+(I) [Reserved]
 
-(ii) An applicant for Commission authorization under this section must file its application electronically through the “Submit a Non-Docketed Filing” module of the Commission's Electronic Comment Filing System (ECFS). Once the Commission reviews the application and assigns a docket number, the applicant must make all subsequent filings relating to its application in this docket. Parties may file comments addressing an application for authorization no later than 15 days after the Commission releases a public notice stating that the application has been accepted for filing, unless the public notice specifies a different filing date.
+(J) A certification that the applicant complies with its applicable Universal Service Fund contribution obligations under part 54, subpart H, of this chapter, its Telecommunications Relay Service contribution obligations under § 64.604(c)(5)(iii) of this chapter, its NANP and local number portability (LNP) administration contribution obligations under §§ 52.17 and 52.32 of this chapter, and its obligations to pay regulatory fees under § 1.1154 of this chapter;
 
-(iii) An application under this section is deemed granted by the Commission on the 31st day after the Commission releases a public notice stating that the application has been accepted for filing, unless the Wireline Competition Bureau (Bureau) notifies the applicant that the grant will not be automatically effective. The Bureau may halt this auto-grant process if;
+(K) A certification that the applicant possesses the financial, managerial, and technical expertise to provide reliable service. This certification must include the name of applicant's key management and technical personnel, such as the Chief Operating Officer and the Chief Technology Officer, or equivalent, and state that none of the identified personnel are being or have been investigated by the Commission or any law enforcement or regulatory agency for failure to comply with any law, rule, or order; and
 
-(A) An applicant fails to respond promptly to Commission inquiries,
+(L) [Reserved]
 
-(B) An application is associated with a non-routine request for waiver of the Commission's rules,
+(M) A certification pursuant to §§ 1.2001 and 1.2002 of this chapter that no party to the application is subject to a denial of Federal benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988, *see* 21 U.S.C. 862.
 
-(C) Timely-filed comments on the application raise public interest concerns that require further Commission review, or
+(N) [Reserved]
 
-(D) The Bureau determines that the application requires further analysis to determine whether granting the application serves the public interest. The Commission reserves the right to request additional information after its initial review of an application.
+(iii) *Filing procedure.* An applicant for Commission authorization under this section must file its application electronically through the “Submit a Non-Docketed Filing” module of the Commission's Electronic Comment Filing System (ECFS). Each application shall be accompanied by the fee prescribed in part 1, subpart G, of this chapter.
 
-(iv) *Conditions applicable to all interconnected VoIP provider numbering authorizations.* An interconnected VoIP provider authorized to request numbering resources directly from the Numbering Administrators under this section must adhere to the following requirements:
+(iv) *Public notice and review period for streamlined pleading cycle.* Upon determination by the Wireline Competition Bureau (Bureau) that the applicant has filed a complete application that is appropriate for streamlined treatment, the Bureau will assign a docket number to the application and issue a public notice stating that the application has been accepted for filing as a streamlined application. The applicant must make all subsequent filings relating to its application in this docket. Parties may file comments addressing an application for authorization no later than 15 days after the Bureau releases a public notice stating that the application has been accepted for filing, unless the public notice specifies a different filing date. An application under this section is deemed granted by the Commission on the 31st day after the Commission releases a public notice stating that the application has been accepted for filing, unless the Bureau notifies the applicant that the grant will not be automatically effective.
+
+(v) *Non-streamlined processing of applications.* If an application discloses that the applicant has reportable ownership by a foreign person or entity, the Bureau shall remove the application from streamlined processing. The Bureau may also remove an application from streamlined processing at its discretion for other reasons. The Bureau shall notify the applicant by public notice that it is removing the application from streamlined processing, and shall state the reason for the removal. An application may also receive non-streamlined processing if:
+
+(A) An applicant fails to respond promptly to Commission inquiries;
+
+(B) An application is associated with a non-routine request for waiver of the Commission's rules in this chapter;
+
+(C) An application would, on its face, violate a Commission rule in this chapter or the Communications Act;
+
+(D) Timely filed comments on the application raise public interest concerns that require further Commission review; or
+
+(E) The Bureau determines that the application requires further analysis to determine whether granting the application serves the public interest.
+
+(vi) *Additional information.* Applicants must provide additional information requested by the Bureau during and after its initial review of a direct access application. Failure to respond to such a request or other official correspondence may result in the rejection of the application without prejudice. Any additional information that the Bureau may require must be submitted in the same manner as the original application filing, unless the Bureau specifies another method.
+
+(vii) *Rejection of applications.* The Bureau may reject an application by announcing the rejection, the reasons for the rejection, and whether the rejection is with or without prejudice via public notice if it determines or has a reasonable basis to believe that:
+
+(A) The applicant cannot satisfy the qualification requirements for a Commission authorization under this paragraph (g)(3);
+
+(B) The applicant has made a false statement or certification to the Commission;
+
+(C) The applicant has engaged in behavior contrary to the public interest; or
+
+(D) Granting the application would not serve the public interest.
+
+(viii) *Authorization suspension.* The Wireline Competition Bureau or Enforcement Bureau may suspend a direct access authorization holder's access to new numbering resources under 5 U.S.C. 558(c):
+
+(A) After either Bureau determines that the authorization holder acted willfully; or public health, interest, or safety requires an immediate suspension; or
+
+(B) After giving the authorization holder notice and an opportunity to demonstrate compliance with the Commission's rules in this chapter.
+
+(ix) *Authorization revocation.* The Wireline Competition Bureau or Enforcement Bureau shall determine appropriate procedures and initiate revocation and/or termination proceedings and revoke and/or terminate an authorization, as required by due process and applicable law and in light of the relevant facts and circumstances, including providing the authorization holder with notice and opportunity to respond. Either Bureau may commence such revocation and/or termination proceedings if:
+
+(A) The authorization holder has failed to comply with the Commission's numbering rules in this part.
+
+(B) The authorization holder no longer meets the requirements for a Commission authorization under this paragraph (g)(3);
+
+(C) The authorization holder, or officer or authorized representative of the authorization holder, has made a false statement or certification to the Commission; or
+
+(D) Revoking and/or terminating the authorization is in the public interest.
+
+(x) *Conditions applicable to all interconnected VoIP provider numbering authorizations.* An interconnected VoIP provider authorized to request numbering resources directly from the Numbering Administrators under this section shall:
 
 (A) Maintain the accuracy of all contact information and certifications in its application. If any contact information or certification is no longer accurate, the provider must file a correction with the Commission and each applicable state within thirty (30) days of the change of contact information or certification. The Commission may use the updated information or certification to determine whether a change in authorization status is warranted;
 
-(B) Comply with the applicable Commission numbering rules; numbering authority delegated to the states; and industry guidelines and practices regarding numbering as applicable to telecommunications carriers;
+(B) Comply with the applicable Commission numbering rules in this part; numbering authority delegated to the states; and industry guidelines and practices regarding numbering as applicable to telecommunications carriers;
 
-(C) File requests for numbers with the relevant state commission(s) at least thirty (30) days before requesting numbers from the Numbering Administrators;
+(C) File requests for numbers with the relevant state commission(s) at least thirty (30) days before requesting numbers from the Numbering Administrators; and
 
 (D) Provide accurate regulatory and numbering contact information to each state commission when requesting numbers in that state.
 
@@ -166,4 +208,4 @@ Link to an amendment published at 88 FR 80636, Nov. 20, 2023.Link to an amendmen
 
 (3) Requests for “for cause” audits shall be forwarded to the Chief of the Enforcement Bureau, with a copy to the Chief of the Common Carrier Bureau. Requests must state the reason for which a “for cause” audit is being requested and include documentation of the alleged anomaly, inconsistency, or violation of the Commission rules or orders or applicable industry guidelines. The Chief of the Enforcement Bureau will provide carriers up to 30 days to provide a written response to a request for a “for cause” audit.
 
-[61 FR 47353, Sept. 6, 1996, as amended at 62 FR 55182, Oct. 23, 1997; 65 FR 37707, June 16, 2000; 66 FR 9531, Feb. 8, 2001; 67 FR 6434, Feb. 12, 2002; 67 FR 13226, Mar. 21, 2002; 68 FR 25843, May 14, 2003; 71 FR 65750, Nov. 9, 2006; 80 FR 66479, Oct. 29, 2015; 84 FR 11232, Mar. 26, 2019]
+[61 FR 47353, Sept. 6, 1996, as amended at 62 FR 55182, Oct. 23, 1997; 65 FR 37707, June 16, 2000; 66 FR 9531, Feb. 8, 2001; 67 FR 6434, Feb. 12, 2002; 67 FR 13226, Mar. 21, 2002; 68 FR 25843, May 14, 2003; 71 FR 65750, Nov. 9, 2006; 80 FR 66479, Oct. 29, 2015; 84 FR 11232, Mar. 26, 2019; 88 FR 80636, Nov. 20, 2023]

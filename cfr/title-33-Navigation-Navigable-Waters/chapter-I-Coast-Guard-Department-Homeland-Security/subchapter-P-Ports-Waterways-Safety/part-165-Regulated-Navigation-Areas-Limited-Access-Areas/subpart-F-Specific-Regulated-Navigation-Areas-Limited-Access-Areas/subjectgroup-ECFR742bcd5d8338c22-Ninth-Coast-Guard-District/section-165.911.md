@@ -1,4 +1,4 @@
-##### § 165.911 Security Zones; Captain of the Port Buffalo Zone. #####
+##### § 165.911 Security Zones; Captain of the Port Eastern Great Lakes Zone. #####
 
 (a) *Location.* The following are security zones:
 
@@ -10,10 +10,10 @@
 
 (4) *Long Sault Spillway Dam.* The waters of the St. Lawrence River bounded by the following area, starting at 44°59.5′ N, 074°52.0′ W; north to 45°00.0′ N, 074°52.0′ W; east to 45°00.0′ N, 074°51.6′ W, then south to 44°59.5′ N, 074°51.6′ W; then west back to the starting point (NAD 83).
 
-(b) *Regulations.* (1) In accordance with § 165.33, entry into this zone is prohibited unless authorized by the Coast Guard Captain of the Port Buffalo.
+(b) *Regulations.* (1) In accordance with § 165.33, entry into this zone is prohibited unless authorized by the Coast Guard Captain of the Port Eastern Great Lakes.
 
-(2) Persons or vessels desiring to transit the area of the Nine Mile Point and Fitzpatrick Nuclear Power Plants or Ginna Nuclear Power Plant security zones must contact the Captain of Port Buffalo at telephone number (716) 843-9570, or on VHF/FM channel 16 to seek permission to transit the area. Persons desiring to transit the area of Moses-Saunders Power Dam or Long Sault Spillway Dam security zones must contact the Supervisor, Marine Safety Detachment Massena at telephone number (315) 769-5483, or on VHF/FM channel 16 to seek permission to transit the area. If permission is granted, all persons and vessels shall comply with the instructions of the Captain of the Port or his or her designated representative.
+(2) Persons or vessels desiring to transit the area of the Nine Mile Point and Fitzpatrick Nuclear Power Plants or Ginna Nuclear Power Plant security zones must contact the Captain of Port Eastern Great Lakes at telephone number (716) 843-9570, or on VHF/FM channel 16 to seek permission to transit the area. Persons desiring to transit the area of Moses-Saunders Power Dam or Long Sault Spillway Dam security zones must contact the Supervisor, Marine Safety Detachment Massena at telephone number (315) 769-5483, or on VHF/FM channel 16 to seek permission to transit the area. If permission is granted, all persons and vessels shall comply with the instructions of the Captain of the Port or his or her designated representative.
 
 (c) *Authority.* In addition to 46 U.S.C. 70034 and 46 U.S.C. 70051, the authority for this section includes 46 U.S.C. 70116.
 
-[CGD09-02-005, 67 FR 53500, Aug. 16, 2002, as amended by USCG-2010-0821, 75 FR 61100, Oct. 4, 2010]
+[CGD09-02-005, 67 FR 53500, Aug. 16, 2002, as amended by USCG-2010-0821, 75 FR 61100, Oct. 4, 2010; 88 FR 87930, Dec. 20, 2023]
