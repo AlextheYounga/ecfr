@@ -1,5 +1,7 @@
 ##### § 5.4 Availability of records. #####
 
+Link to an amendment published at 89 FR 213, Jan. 2, 2024.
+
 (a) In accordance with 52 U.S.C. 30111(a), the Commission shall make the following material available for public inspection and copying through the Commission's Public Disclosure and Media Relations Division:
 
 (1) Reports of receipts and expenditures, designations of campaign depositories, statements of organization, candidate designations of campaign committees and the indices compiled from the filings therein.

@@ -1,7 +1,5 @@
 ##### § 622.183 Area and seasonal closures. #####
 
-Link to an amendment published at 88 FR 83868, Dec. 1, 2023.
-
 (a) *Area closures*—(1) *Marine protected areas (MPAs).* (i) No person may fish for a South Atlantic snapper-grouper in an MPA, and no person may possess a South Atlantic snapper-grouper in an MPA. However, the prohibition on possession does not apply to a person aboard a vessel that is in transit with fishing gear appropriately stowed as specified in paragraph (a)(1)(ii) of this section. In addition to these restrictions, see § 635.21(d)(1)(iii) of this chapter regarding restrictions applicable within these MPAs for any vessel issued a permit under part 635 of this chapter that has longline gear on board. MPAs consist of deepwater areas as follows:
 
 (A) *Snowy Grouper Wreck MPA* is bounded by rhumb lines connecting, in order, the following points:
@@ -219,7 +217,7 @@ Link to an amendment published at 88 FR 83868, Dec. 1, 2023.
 
 (7) *Blueline tilefish recreational sector closure.* The recreational sector for blueline tilefish in or from the South Atlantic EEZ is closed from January 1 through April 30, and September 1 through December 31, each year. During a closure, the bag and possession limit for blueline tilefish in or from the South Atlantic EEZ is zero.
 
-(8) *Snowy grouper recreational sector closure.* The recreational sector for snowy grouper in or from the South Atlantic EEZ is closed from January 1 through April 30, and September 1 through December 31, each year. During a closure, the bag and possession limit for snowy grouper in or from the South Atlantic EEZ is zero.
+(8) *Snowy grouper recreational sector closure.* The recreational sector for snowy grouper in the South Atlantic EEZ is closed each year from January 1 through April 30, and July 1 through December 31. During a recreational closure, the bag and possession limits for snowy grouper harvested in or from the South Atlantic EEZ are zero.
 
 (9) *Red porgy recreational sector closure.* The recreational sector for red porgy is closed from January 1 through April 30, and July 1 through December 31, each year. During a closure, the bag and possession limits for red porgy in or from the South Atlantic EEZ are zero.
 
@@ -227,4 +225,4 @@ Link to an amendment published at 88 FR 83868, Dec. 1, 2023.
 
 (11) *Golden tilefish commercial longline component.* The golden tilefish commercial longline component in or from the South Atlantic EEZ is closed from January 1 through January 14, each year. During a closure, no vessel with a valid or renewable golden tilefish longline endorsement as described at 50 CFR 622.191(a)(2)(ii), and no person, may fish for, harvest, or possess golden tilefish from the South Atlantic EEZ with longline gear on board.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44464, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49184, Aug. 13, 2013; 78 FR 58253, Sept. 23, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 43038, July 21, 2015; 81 FR 95902, Dec. 29, 2016; 82 FR 29775, June 30, 2017; 82 FR 34594, July 25, 2017; 83 FR 35435, July 26, 2018; 85 FR 6827, Feb. 6, 2020; 85 FR 64980, Oct. 14, 2020; 87 FR 77747, Dec. 20, 2022; 88 FR 65822, Sept. 26, 2023; 88 FR 76701, Nov. 7, 2023]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44464, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49184, Aug. 13, 2013; 78 FR 58253, Sept. 23, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 43038, July 21, 2015; 81 FR 95902, Dec. 29, 2016; 82 FR 29775, June 30, 2017; 82 FR 34594, July 25, 2017; 83 FR 35435, July 26, 2018; 85 FR 6827, Feb. 6, 2020; 85 FR 64980, Oct. 14, 2020; 87 FR 77747, Dec. 20, 2022; 88 FR 65822, Sept. 26, 2023; 88 FR 76701, Nov. 7, 2023; 88 FR 83868, Dec. 1, 2023]

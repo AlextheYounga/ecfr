@@ -1,5 +1,7 @@
 ##### § 104.21 Reporting by inaugural committees. #####
 
+Link to an amendment published at 89 FR 216, Jan. 2, 2024.
+
 (a) *Definitions*—(1) *Inaugural committee.* Inaugural committee means the committee appointed by the President-elect to be in charge of the Presidential inaugural ceremony and functions and activities connected with the inaugural ceremony.
 
 (2) *Donation.* For purposes of this section, donation has the same meaning as in 11 CFR 300.2(e).

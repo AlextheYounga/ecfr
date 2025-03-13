@@ -1,5 +1,7 @@
 ##### § 9004.9 Net outstanding qualified campaign expenses. #####
 
+Link to an amendment published at 89 FR 220, Jan. 2, 2024.
+
 (a) *Candidates receiving post-election funding.* A candidate who is eligible to receive post-election payments under 11 CFR 9004.3 shall file, no later than 20 calendar days after the date of the election, a preliminary statement of that candidate's net outstanding qualified campaign expenses. The candidate's net outstanding qualified campaign expenses under this section equal the difference between 11 CFR 9004.9(a) (1) and (2).
 
 (1) The total of:

@@ -1,5 +1,7 @@
 ##### § 9034.2 Matchable contributions. #####
 
+Link to an amendment published at 89 FR 220, Jan. 2, 2024.
+
 (a) Contributions meeting the following requirements will be considered matchable campaign contributions.
 
 (1) The contribution shall be a gift of money made: By an individual; by a written instrument and for the purpose of influencing the result of a primary election.

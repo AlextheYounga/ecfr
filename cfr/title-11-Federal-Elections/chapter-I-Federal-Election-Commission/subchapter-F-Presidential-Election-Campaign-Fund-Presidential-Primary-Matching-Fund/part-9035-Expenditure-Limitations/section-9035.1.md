@@ -1,5 +1,7 @@
 ##### § 9035.1 Campaign expenditure limitation; compliance and fundraising exemptions. #####
 
+Link to an amendment published at 89 FR 221, Jan. 2, 2024.
+
 (a) *Spending limit.* (1) No candidate or his or her authorized committee(s) shall knowingly incur expenditures in connection with the candidate's campaign for nomination, which expenditures, in the aggregate, exceed $10,000,000 (as adjusted under 52 U.S.C. 30116(c)), except that the aggregate expenditures by a candidate in any one State shall not exceed the greater of: 16 cents (as adjusted under 52 U.S.C. 30116(c)) multiplied by the voting age population of the State (as certified under 52 U.S.C. 30116(e)); or $200,000 (as adjusted under 52 U.S.C. 30116(c)).
 
 (2) The Commission will calculate the amount of expenditures attributable to the overall expenditure limit or to a particular state using the full amounts originally charged for goods and services rendered to the committee and not the amounts for which such obligations were settled and paid, unless the committee can demonstrate that the lower amount paid reflects a reasonable settlement of a bona fide dispute with the creditor.

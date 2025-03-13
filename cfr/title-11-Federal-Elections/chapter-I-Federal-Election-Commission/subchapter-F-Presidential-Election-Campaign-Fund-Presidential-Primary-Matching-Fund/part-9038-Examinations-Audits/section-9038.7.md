@@ -1,5 +1,7 @@
 ##### § 9038.7 Administrative record. #####
 
+Link to an amendment published at 89 FR 221, Jan. 2, 2024.
+
 (a) The Commission's administrative record for final determinations under 11 CFR part 9033, sections 9034.5, 9036.5 and part 9039, and for repayment determinations under 11 CFR 9038.2, consists of all documents or materials submitted to the Commission for its consideration in making those determinations. The administrative record will include the certification of the Commission's vote(s), the audit report that is sent to the committee (for repayment determinations), the statement(s) of reasons, and the candidate agreement. The committee may include documents or materials in the administrative record by submitting them within the time periods set forth at 11 CFR 9033.3(b), 9033.4(a)(2), 9033.6(c), 9033.7(b), 9033.9(b), 9034.5(g)(2), 9036.5(e), 9038.1(c) and 9038.2(c)(2), as appropriate.
 
 (b) The Commission's administrative record for determinations under 11 CFR part 9033, sections 9034.5, 9036.5 and 9038.2 and part 9039 does not include:

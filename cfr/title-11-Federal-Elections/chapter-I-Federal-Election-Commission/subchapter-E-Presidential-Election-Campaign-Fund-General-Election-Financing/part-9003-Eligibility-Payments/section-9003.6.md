@@ -1,5 +1,7 @@
 ##### § 9003.6 Production of computer information. #####
 
+Link to an amendment published at 89 FR 219, Jan. 2, 2024.
+
 (a) *Categories of computerized information to be provided.* If the candidate or the candidate's authorized committee maintains or uses computerized information containing any of the categories of data listed in paragraphs (a)(1) through (a)(9) of this section, the committee shall provide computerized magnetic media, such as magnetic tapes or magnetic diskettes, containing the computerized information at the times specified in 11 CFR 9007.1(b)(1):
 
 (1) Information required by law to be maintained regarding the committee's receipts or disbursements;

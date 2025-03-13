@@ -1,5 +1,7 @@
 ##### § 110.6 Earmarked contributions 52 U.S.C. 30116(a)(8)). #####
 
+Link to an amendment published at 89 FR 217, Jan. 2, 2024.
+
 (a) *General.* All contributions by a person made on behalf of or to a candidate, including contributions which are in any way earmarked or otherwise directed to the candidate through an intermediary or conduit, are contributions from the person to the candidate.
 
 (b) *Definitions.* (1) For purposes of this section, *earmarked* means a designation, instruction, or encumbrance, whether direct or indirect, express or implied, oral or written, which results in all or any part of a contribution or expenditure being made to, or expended on behalf of, a clearly identified candidate or a candidate's authorized committee.

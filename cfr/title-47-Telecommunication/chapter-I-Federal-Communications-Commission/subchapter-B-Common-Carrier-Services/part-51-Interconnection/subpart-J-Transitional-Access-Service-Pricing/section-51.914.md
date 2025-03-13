@@ -1,7 +1,5 @@
 ##### § 51.914 Additional provisions applicable to Access Stimulation traffic. #####
 
-Link to an amendment published at 88 FR 35762, June 1, 2023.Link to an amendment published at 88 FR 83828, Dec. 1, 2023.Link to an amendment published at 88 FR 83829, Dec. 1, 2023.
-
 (a) Notwithstanding any other provision of this part, if a local exchange carrier is engaged in Access Stimulation, as defined in § 61.3(bbb) of this chapter, it shall, within 45 days of commencing Access Stimulation, or within 45 days of July 3, 2023, whichever is later:
 
 (1) Not bill any Interexchange Carrier for interstate or intrastate terminating switched access tandem switching or terminating switched access transport charges for any traffic between such local exchange carrier's terminating end office or equivalent and the associated access tandem switch; and
@@ -26,12 +24,26 @@ Link to an amendment published at 88 FR 35762, June 1, 2023.Link to an amendment
 
 (3) The Intermediate Access Provider shall not assess any charges for such services to the Interexchange Carrier.
 
-(d) [Reserved]
+(d) Notwithstanding any other provision of the Commission's rules, if an IPES Provider, as defined in § 61.3(eee) of this chapter, is engaged in Access Stimulation, as defined in § 61.3(bbb) of this chapter, it shall, within 45 days of commencing Access Stimulation, or within 45 days after [the effective date of this paragraph (d)—which will be 30 days after the Commission publishes the notification of OMB approval in the Federal Register], whichever is later, notify in writing the Commission, all Intermediate Access Providers that it subtends, and Interexchange Carriers with which it does business of the following:
 
-(e) In the event that an Intermediate Access Provider receives notice under paragraph (b) of this section that it has been designated to provide terminating switched access tandem switching or terminating switched access tandem transport services to a local exchange carrier engaged in Access Stimulation, as defined in § 61.3(bbb) of this chapter, or to an IPES Provider engaged in Access Stimulation, directly, or indirectly through a local exchange carrier, and that local exchange carrier engaged in Access Stimulation shall pay or the IPES Provider engaged in Access Stimulation may pay for such terminating access service from such Intermediate Access Provider, the Intermediate Access Provider shall not bill Interexchange Carriers for interstate or intrastate terminating switched access tandem switching or terminating switched access tandem transport service for traffic bound for such local exchange carrier or IPES Provider but, instead, shall bill such local exchange carrier or may bill such IPES Provider for such services.
+(1) That it is an IPES Provider engaged in Access Stimulation; and
 
-(f) Notwithstanding paragraphs (a) through (c) of this section, any local exchange carrier that is not itself engaged in Access Stimulation, as that term is defined in § 61.3(bbb) of this chapter, but serves as an Intermediate Access Provider with respect to traffic bound for a local exchange carrier engaged in Access Stimulation or bound for an IPES Provider engaged in Access Stimulation, shall not itself be deemed a local exchange carrier engaged in Access Stimulation or be affected by paragraphs (a) and (b) of this section.
+(2) That it shall designate the Intermediate Access Provider(s), if any, that will provide the terminating switched access tandem switching or terminating switched access tandem transport services directly, or indirectly through a local exchange carrier, to the IPES Provider engaged in Access Stimulation; and
 
-(g) [Reserved]
+(3) Whether the IPES Provider will pay for those services as of that date.
 
-[88 FR 35762, June 1, 2023]
+(d) Notwithstanding any other provision of this part, if an internet Protocol Enabled Service (IPES) Provider, as defined in § 61.3(eee) of this chapter, is engaged in Access Stimulation, as defined in § 61.3(bbb) of this chapter, it shall, within 45 days of commencing Access Stimulation, or within 45 days after January 2, 2024, whichever is later, notify in writing the Commission, all Intermediate Access Providers that it subtends, and Interexchange Carriers with which it does business of the following:
+
+(1) That it is an IPES Provider engaged in Access Stimulation; and
+
+(2) That it shall designate the Intermediate Access Provider(s), if any, that will provide the terminating switched access tandem switching or terminating switched access tandem transport services directly, or indirectly through a local exchange carrier, to the IPES Provider engaged in Access Stimulation; and
+
+(3) Whether the IPES Provider will pay for those services as of that date.
+
+(e) In the event that an Intermediate Access Provider receives notice under paragraph (b) or (d) of this section that it has been designated to provide terminating switched access tandem switching or terminating switched access tandem transport services to a local exchange carrier engaged in Access Stimulation, as defined in § 61.3(bbb) of this chapter, or to an IPES Provider engaged in Access Stimulation, directly, or indirectly through a local exchange carrier, and that local exchange carrier engaged in Access Stimulation shall pay or the IPES Provider engaged in Access Stimulation may pay for such terminating access service from such Intermediate Access Provider, the Intermediate Access Provider shall not bill Interexchange Carriers for interstate or intrastate terminating switched access tandem switching or terminating switched access tandem transport service for traffic bound for such local exchange carrier or IPES Provider but, instead, shall bill such local exchange carrier or may bill such IPES Provider for such services.
+
+(f) Notwithstanding paragraphs (a) through (d) of this section, any local exchange carrier that is not itself engaged in Access Stimulation, as that term is defined in § 61.3(bbb) of this chapter, but serves as an Intermediate Access Provider with respect to traffic bound for a local exchange carrier engaged in Access Stimulation or bound for an IPES Provider engaged in Access Stimulation, shall not itself be deemed a local exchange carrier engaged in Access Stimulation or be affected by paragraphs (a) and (b) of this section.
+
+(g) Upon terminating its engagement in Access Stimulation, as defined in § 61.3(bbb) of this chapter, the local exchange carrier or IPES Provider engaged in Access Stimulation shall provide concurrent, written notification to the Commission and any affected Intermediate Access Provider(s) and Interexchange Carrier(s) of such fact.
+
+[88 FR 35762, June 1, 2023, as amended at 88 FR 83829, Dec. 1, 2023]

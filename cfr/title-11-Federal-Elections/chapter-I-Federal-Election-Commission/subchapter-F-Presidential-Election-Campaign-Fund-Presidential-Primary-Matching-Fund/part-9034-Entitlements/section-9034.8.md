@@ -1,5 +1,7 @@
 ##### § 9034.8 Joint fundraising. #####
 
+Link to an amendment published at 89 FR 221, Jan. 2, 2024.
+
 (a) *General.* Nothing in this section shall supersede 11 CFR part 300, which prohibits any person from soliciting, receiving, directing, transferring, or spending any non-Federal funds, or from transferring Federal funds for Federal election activities.
 
 (1) *Permissible participants.* Presidential primary candidates who receive matching funds under this subchapter may engage in joint fundraising with other candidates, political committees or unregistered committees or organizations.

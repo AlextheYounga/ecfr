@@ -1,5 +1,7 @@
 ##### § 9036.4 Commission review of submissions. #####
 
+Link to an amendment published at 89 FR 221, Jan. 2, 2024.
+
 (a) *Non-acceptance of submission for review of matchability.* (1) The Commission will make an initial review of each submission made under 11 CFR part 9036 to determine if it substantially meets the format requirements of 11 CFR 9036.1(b) and 9036.2(b) and the Federal Election Commission's Guideline for Presentation in Good Order. If the Commission determines that a submission does not substantially meet these requirements, it will not review the matchability of the contributions contained therein.
 
 (2) For submissions made in the year before the Presidential election year (other than submissions made on the last submission date in that year), and submissions made after the candidate's date of ineligibility, the Commission will stop reviewing the submission once the projected dollar value of nonmatchable contributions exceeds 15% of the amount requested, as provided in 11 CFR 9036.2 (c) or (d), as applicable.

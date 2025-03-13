@@ -1,5 +1,7 @@
 ##### § 116.8 Creditor forgiveness of debts owed by ongoing committees; Commission review. #####
 
+Link to an amendment published at 89 FR 218, Jan. 2, 2024.
+
 (a) *General requirements.* A creditor may forgive the outstanding balance of a debt owed by an ongoing committee if the creditor and the ongoing committee have satisfied the requirements of 11 CFR 116.3 or 116.5, as appropriate, regarding extensions of credit by commercial vendors and advances by committee staff and other individuals, and the debt has been outstanding for at least twenty-four months, and—
 
 (1) The creditor has exercised reasonable diligence in attempting to locate the ongoing committee and has been unable to do so; or

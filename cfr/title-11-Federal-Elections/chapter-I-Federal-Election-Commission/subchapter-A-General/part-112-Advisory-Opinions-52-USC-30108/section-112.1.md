@@ -1,5 +1,7 @@
 ##### § 112.1 Requests for advisory opinions (52 U.S.C. 30108(a)(1)). #####
 
+Link to an amendment published at 89 FR 218, Jan. 2, 2024.
+
 (a) Any person may request in writing an advisory opinion concerning the application of the Act, chapters 95 or 96 of the Internal Revenue Code of 1954, or any regulation prescribed by the Commission. An authorized agent of the requesting person may submit the advisory opinion request, but the agent shall disclose the identity of his or her principal.
 
 (b) The written advisory opinion request shall set forth a specific transaction or activity that the requesting person plans to undertake or is presently undertaking and intends to undertake in the future. Requests presenting a general question of interpretation, or posing a hypothetical situation, or regarding the activities of third parties, do not qualify as advisory opinion requests.

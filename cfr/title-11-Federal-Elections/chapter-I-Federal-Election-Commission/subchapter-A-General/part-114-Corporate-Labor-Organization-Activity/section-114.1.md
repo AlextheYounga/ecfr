@@ -1,5 +1,7 @@
 ##### § 114.1 Definitions. #####
 
+Link to an amendment published at 89 FR 218, Jan. 2, 2024.
+
 (a) For purposes of part 114—
 
 (1) The terms *contribution* and *expenditure* shall include any direct or indirect payment, distribution, loan, advance, deposit, or gift of money, or any services, or anything of value (except a loan of money by a State bank, a federally chartered depository institution (including a national bank) or a depository institution whose deposits and accounts are insured by the Federal Deposit Insurance Corporation or the National Credit Union Administration, if such loan is made in accordance with 11 CFR 100.82(a) through (d)) to any candidate, political party or committee, organization, or any other person in connection with any election to any of the offices referred to in 11 CFR 114.2 (a) or (b) as applicable.

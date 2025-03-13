@@ -1,5 +1,7 @@
 ##### § 520.6 Retrieval of information. #####
 
+Link to an amendment published at 89 FR 31, Jan. 2, 2024.
+
 (a) *General.* Tariffs systems shall present retrievers with the ability to:
 
 (1) Search for commonly understood tariff objects (*e.g.,* commodities, origins, destinations, etc.) without restricting such search to a specific tariff;

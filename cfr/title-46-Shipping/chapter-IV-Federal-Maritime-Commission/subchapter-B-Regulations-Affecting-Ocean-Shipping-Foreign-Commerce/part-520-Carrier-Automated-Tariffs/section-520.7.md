@@ -1,5 +1,7 @@
 ##### § 520.7 Tariff limitations. #####
 
+Link to an amendment published at 89 FR 31, Jan. 2, 2024.
+
 (a) *General.* Tariffs published pursuant to this part shall:
 
 (1) Be clear and definite;

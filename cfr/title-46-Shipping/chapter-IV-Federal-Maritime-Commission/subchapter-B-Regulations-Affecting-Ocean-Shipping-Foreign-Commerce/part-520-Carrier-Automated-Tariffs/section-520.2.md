@@ -1,5 +1,7 @@
 ##### § 520.2 Definitions. #####
 
+Link to an amendment published at 89 FR 29, Jan. 2, 2024.
+
 The following definitions shall apply to this part:
 
 *Act* means the Shipping Act of 1984, as amended by the Ocean Shipping Reform Act of 1998.

@@ -1,5 +1,7 @@
 ##### § 112.4 Issuance of advisory opinions (52 U.S.C. 30108(a) and (b)). #####
 
+Link to an amendment published at 89 FR 218, Jan. 2, 2024.
+
 (a) Within 60 calendar days after receiving an advisory opinion request that qualifies under 11 CFR 112.1, the Commission shall issue to the requesting person a written advisory opinion or shall issue a written response stating that the Commission was unable to approve an advisory opinion by the required affirmative vote of 4 members.
 
 (b) The 60 calendar day period of 11 CFR 112.4(a) is reduced to 20 calendar days for an advisory opinion request qualified under 11 CFR 112.1 provided the request:

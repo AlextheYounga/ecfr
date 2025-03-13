@@ -1,5 +1,7 @@
 ##### § 9038.1 Audit. #####
 
+Link to an amendment published at 89 FR 221, Jan. 2, 2024.
+
 (a) *General.* (1) The Commission will conduct an audit of the qualified campaign expenses of every candidate and his or her authorized committee(s) who received Presidential primary matching funds. The audit may be conducted at any time after the date of the candidate's ineligibility.
 
 (2) In addition, the Commission may conduct other examinations and audits from time to time as it deems necessary to carry out the provisions of this subchapter.

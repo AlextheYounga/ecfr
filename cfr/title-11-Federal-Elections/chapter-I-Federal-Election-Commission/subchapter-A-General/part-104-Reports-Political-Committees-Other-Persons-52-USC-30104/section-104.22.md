@@ -1,5 +1,7 @@
 ##### § 104.22 Disclosure of bundling by Lobbyist/Registrants and Lobbyist/Registrant PACs (52 U.S.C. 30104(i)). #####
 
+Link to an amendment published at 89 FR 216, Jan. 2, 2024.
+
 (a) *Definitions.* (1) *Reporting Committee. Reporting committee* means:
 
 (i) An authorized committee of a Federal candidate as defined at 11 CFR 100.5(f)(1);

@@ -1,5 +1,7 @@
 ##### § 102.6 Transfers of funds; collecting agents. #####
 
+Link to an amendment published at 89 FR 215, Jan. 2, 2024.
+
 (a) *Transfers of funds; registration and reporting required*—(1) *Who may make transfers under this section.* (i) Transfers of funds may be made without limit on amount between affiliated committees whether or not they are political committees under 11 CFR 100.5.
 
 (ii) Subject to the restrictions set forth at 11 CFR 300.10(a), 300.31 and 300.34(a) and (b), transfers of funds may be made without limit on amount between or among a national party committee, a State party committee and/or any subordinate party committee whether or not they are political committees under 11 CFR 100.5 and whether or not such committees are affiliated.

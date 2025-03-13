@@ -1,7 +1,5 @@
 ##### § 11.16 Requirements for admission to the USPTO Law School Clinic Certification Program. #####
 
-Link to an amendment published at 88 FR 78650, Nov. 16, 2023.
-
 (a) The USPTO Law School Clinic Certification Program allows students enrolled in a participating law school's clinic to practice before the Office in patent or trademark matters by drafting, filing, and prosecuting patent or trademark applications on a *pro bono* basis for clients that qualify for assistance from the law school's clinic. All law schools accredited by the American Bar Association are eligible for participation in the program, and shall be examined for acceptance using identical criteria.
 
 (b) *Application for admission and renewal*—(1) *Application for admission.* Non-participating law schools seeking admission to the USPTO Law School Clinic Certification Program, and participating law schools seeking to add a practice area, shall submit an application for admission for such practice area to OED in accordance with criteria and time periods set forth by the OED Director.
@@ -14,7 +12,7 @@ Link to an amendment published at 88 FR 78650, Nov. 16, 2023.
 
 (1) *Patent Faculty Clinic Supervisor.* A Faculty Clinic Supervisor for a law school clinic's patent practice must:
 
-(i) Be a registered patent practitioner in active status and good standing with OED;
+(i) Be registered under § 11.6(a) or (b) as a patent practitioner in active status and good standing with OED;
 
 (ii) Demonstrate at least 3 years experience in prosecuting patent applications before the Office within the 5 years immediately prior to the request for approval as a Faculty Clinic Supervisor;
 
@@ -94,4 +92,4 @@ Link to an amendment published at 88 FR 78650, Nov. 16, 2023.
 
 (4) Students registered to practice before the Office in patent matters as a patent agent, or authorized to practice before the Office in trademark matters under § 11.14, must complete and submit a student application pursuant to paragraph (d)(1) of this section and meet the criteria of paragraph (d)(2) or (3) of this section, as applicable, in order to participate in the program.
 
-[81 FR 33596, May 27, 2016]
+[81 FR 33596, May 27, 2016, as amended at 88 FR 78650, Nov. 16, 2023]

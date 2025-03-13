@@ -1,5 +1,7 @@
 ##### § 111.18 Conciliation (52 U.S.C. 30109(a)(4)). #####
 
+Link to an amendment published at 89 FR 218, Jan. 2, 2024.
+
 (a) Upon a Commission finding of probable cause to believe, the Office of General Counsel shall attempt to correct or prevent the violation by informal methods of conference conciliation and persuasion, and shall attempt to reach a tentative conciliation agreement with the respondent.
 
 (b) A conciliation agreement is not binding upon either party unless and until it is signed by the respondent and by the General Counsel upon approval by the affirmative vote of four (4) members of the Commission.

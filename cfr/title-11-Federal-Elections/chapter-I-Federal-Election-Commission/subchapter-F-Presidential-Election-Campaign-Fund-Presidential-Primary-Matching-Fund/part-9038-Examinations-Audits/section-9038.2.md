@@ -1,5 +1,7 @@
 ##### § 9038.2 Repayments. #####
 
+Link to an amendment published at 89 FR 221, Jan. 2, 2024.
+
 (a) *General.* (1) A candidate who has received payments from the matching payment account shall pay the United States Treasury any amounts which the Commission determines to be repayable under this section. In making repayment determinations under this section, the Commission may utilize information obtained from audits and examinations conducted pursuant to 11 CFR 9038.1 and part 9039 or otherwise obtained by the Commission in carrying out its responsibilities under this subchapter.
 
 (2) The Commission will notify the candidate of any repayment determinations made under this section as soon as possible, but not later than 3 years after the close of the matching payment period. The Commission's issuance of the audit report to the candidate under 11 CFR 9038.1(d) will constitute notification for purposes of this section.

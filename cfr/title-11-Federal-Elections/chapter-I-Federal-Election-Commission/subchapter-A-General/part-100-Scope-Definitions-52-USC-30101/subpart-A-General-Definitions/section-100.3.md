@@ -1,5 +1,7 @@
 ##### § 100.3 Candidate (52 U.S.C. 30101(2)). #####
 
+Link to an amendment published at 89 FR 214, Jan. 2, 2024.
+
 (a) *Definition. Candidate* means an individual who seeks nomination for election, or election, to federal office. An individual becomes a candidate for Federal office whenever any of the following events occur:
 
 (1) The individual has received contributions aggregating in excess of $5,000 or made expenditures aggregating in excess of $5,000.

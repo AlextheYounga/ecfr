@@ -1,5 +1,7 @@
 ##### § 200.3 Processing of petitions. #####
 
+Link to an amendment published at 89 FR 218, Jan. 2, 2024.
+
 (a) If a document qualifies as a petition under 11 CFR 200.2, the Commission, upon the recommendation of the Office of General Counsel, will—
 
 (1) Publish a Notice of Availability in the Federal Register, stating that the petition is available for public inspection in the Commission's Public Records Office and that statements in support of or in opposition to the petition may be filed within a stated period after publication of the notice;

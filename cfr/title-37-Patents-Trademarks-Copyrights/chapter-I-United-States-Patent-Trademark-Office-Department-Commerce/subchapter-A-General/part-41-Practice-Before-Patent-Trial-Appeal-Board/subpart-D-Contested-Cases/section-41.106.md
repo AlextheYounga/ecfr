@@ -1,7 +1,5 @@
 ##### § 41.106 Filing and service. #####
 
-Link to an amendment published at 88 FR 78650, Nov. 16, 2023.
-
 (a) *General format requirements.* (1) The paper used for filings must be durable and white. A party must choose to file on either A4-sized paper or 81/2 inch × 11 inch paper except in the case of exhibits that require a larger size in order to preserve details of the original. A party may not switch between paper sizes in a single proceeding. Only one side of the paper may be used.
 
 (2) In papers, including affidavits, created for the proceeding:
@@ -46,6 +44,6 @@ Link to an amendment published at 88 FR 78650, Nov. 16, 2023.
 
 (iii) For exhibits filed as a group, the name and number of each exhibit served.
 
-(4) A certificate made by a person other than a registered patent practitioner must be in the form of an affidavit.
+(4) A certificate made by a person other than a registered practitioner must be in the form of an affidavit.
 
-[69 FR 50003, Aug. 12, 2004, as amended at 79 FR 63043, Oct. 22, 2014]
+[69 FR 50003, Aug. 12, 2004, as amended at 79 FR 63043, Oct. 22, 2014; 88 FR 78650, Nov. 16, 2023]

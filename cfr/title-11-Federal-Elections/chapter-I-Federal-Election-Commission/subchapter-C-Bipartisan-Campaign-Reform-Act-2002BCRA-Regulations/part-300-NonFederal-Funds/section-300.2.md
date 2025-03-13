@@ -1,5 +1,7 @@
 ##### § 300.2 Definitions. #####
 
+Link to an amendment published at 89 FR 219, Jan. 2, 2024.
+
 (a) *501(c) organization that makes expenditures or disbursements in connection with a Federal election.* A 501(c) organization *that makes expenditures or disbursements in connection with a Federal election* as that term is used in 11 CFR 300.11, 300.37, 300.50, and 300.51 includes an organization that, within the current election cycle, plans to:
 
 (1) Make expenditures or disbursements in connection with an election for Federal office including for Federal election activity; or

@@ -1,5 +1,7 @@
 ##### § 520.8 Effective dates. #####
 
+Link to an amendment published at 89 FR 32, Jan. 2, 2024.
+
 (a) *General.* (1) No new or initial rate, charge, or change in an existing rate, that results in an increased cost to a shipper may become effective earlier than thirty (30) calendar days after publication.
 
 (2) An amendment which deletes a specific commodity and applicable rate from a tariff, thereby resulting in a higher “cargo n.o.s.” or similar general cargo rate, is a rate increase requiring a 30-day notice period.

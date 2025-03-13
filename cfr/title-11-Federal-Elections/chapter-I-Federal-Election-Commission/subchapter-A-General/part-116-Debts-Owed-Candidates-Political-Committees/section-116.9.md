@@ -1,5 +1,7 @@
 ##### § 116.9 Creditors that cannot be found or that are out of business. #####
 
+Link to an amendment published at 89 FR 218, Jan. 2, 2024.
+
 (a) *General requirements.* A political committee may request that the Commission determine that a debt owed to a creditor is not payable for purposes of the Act if the debt has been outstanding for at least twenty-four months, and the requirements of paragraph (b) or (c) of this section, as appropriate, have been satisfied, and—
 
 (1) The creditor has gone out of business and no other entity has a right to be paid the amount owed; or

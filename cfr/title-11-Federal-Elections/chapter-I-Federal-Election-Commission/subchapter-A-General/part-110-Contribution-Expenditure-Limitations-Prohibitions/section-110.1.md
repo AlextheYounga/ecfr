@@ -1,5 +1,7 @@
 ##### § 110.1 Contributions by persons other than multicandidate political committees (52 U.S.C. 30116(a)(1)). #####
 
+Link to an amendment published at 89 FR 216, Jan. 2, 2024.
+
 (a) *Scope.* This section applies to all contributions made by any person as defined in 11 CFR 100.10, except multicandidate political committees as defined in 11 CFR 100.5(e)(3) or entities and individuals prohibited from making contributions under 11 CFR 110.20 and 11 CFR parts 114 and 115.
 
 (b) *Contributions to candidates; designations; and redesignations.* (1) No person shall make contributions to any candidate, his or her authorized political committees or agents with respect to any election for Federal office that, in the aggregate, exceed $2,000.

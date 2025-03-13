@@ -1,7 +1,5 @@
 ##### § 17.40 Special rules—mammals. #####
 
-Link to an amendment published at 88 FR 83772, Nov. 30, 2023.
-
 (a) Mazama pocket gophers (Olympia, Roy Prairie, Tenino, and Yelm) (*Thomomys mazama pugetensis, glacialis, tumuli,* and *yelmensis*)—(1) *Which populations of the Mazama pocket gopher are covered by this special rule?* This special rule covers the four Thurston/Pierce subspecies of the Mazama pocket gopher (Olympia, Roy Prairie, Tenino, and Yelm) (*Thomomys mazama pugetensis, glacialis, tumuli,* and *yelmensis*) wherever they occur.
 
 (2) *What activities are prohibited?* Except as noted in paragraphs (a)(3) through (7) of this section, all prohibitions of § 17.31 apply to the Olympia, Roy Prairie, Tenino, and Yelm pocket gophers.
@@ -661,5 +659,37 @@ Native, and
 (vii) Remove nonnative, invasive, or noxious plants for the purpose of Stephens' kangaroo rat conservation as approved by the Service. This includes noxious weed control and other vegetation reduction in the course of habitat management and restoration to benefit Stephens' kangaroo rat, including mechanical and chemical control, provided that these activities are conducted in a manner consistent with Federal and applicable State laws, including Environmental Protection Agency label restrictions for herbicide application.
 
 (viii) Implement activities conducted as part of a plan developed in coordination with the Service or the California Department of Fish and Wildlife that are for the purpose of Stephens' kangaroo rat conservation.
+
+(u) North American wolverine (*Gulo gulo luscus*), contiguous U.S. DPS.
+
+(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the contiguous U.S. distinct population segment (DPS) of the North American wolverine. Except as provided under paragraph (u)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this DPS:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of a commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *Exceptions from prohibitions.* In regard to this DPS, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (c)(4) for endangered wildlife.
+
+(iii) Take, as set forth at § 17.31(b).
+
+(iv) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+(v) Take caused by scientific or research activities for wolverine undertaken by a biologist from a Federal agency other than the U.S. Fish and Wildlife Service, or a federally recognized Tribe, when acting in the course of their official duties, provided that such taking does not result in the death or permanent injury to the wolverine(s) involved and that the taking is reported to the nearest U.S. Fish and Wildlife Service law enforcement office and to the appropriate State wildlife agency or Tribal wildlife authorities. Activities associated with scientific research may include capture, anesthesia, collaring, tracking, genetic sampling, the use and baiting of camera and DNA traps, den monitoring, and aerial surveying.
+
+(vi) Take incidental to an otherwise lawful activity caused by:
+
+(A) Forest vegetation management activities for the purpose of reducing the risk or severity of wildfire.
+
+(B) Trapping of species other than wolverine, provided that the trapping is conducted in accordance with State or Tribal trapping laws and regulations, the trapping is conducted in a manner that uses best practices to minimize the potential for capture and mortality of wolverines, and any take of wolverine is reported to the nearest U.S. Fish and Wildlife Service law enforcement office and to the appropriate State wildlife agency or Tribal wildlife authorities within 5 days of occurrence. Unharmed individuals are to be released immediately.
 
 [40 FR 44415, Sept. 26, 1975]Editorial Note:For Federal Register citations affecting § 17.40, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

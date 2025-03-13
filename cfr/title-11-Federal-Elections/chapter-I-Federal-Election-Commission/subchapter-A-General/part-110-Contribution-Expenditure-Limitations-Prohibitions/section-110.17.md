@@ -1,5 +1,7 @@
 ##### § 110.17 Price index increase. #####
 
+Link to an amendment published at 89 FR 217, Jan. 2, 2024.
+
 (a) *Price index increases for party committee expenditure limitations and Presidential candidate expenditure limitations.* The limitations on expenditures established by 11 CFR 109.32 and 110.8 shall be increased by the percent difference between the price index, as certified to the Commission by the Secretary of Labor, for the 12 months preceding the beginning of the calendar year and the price index for the base period.
 
 (1) Each expenditure limitation so increased shall be the expenditure limitation in effect for that calendar year.

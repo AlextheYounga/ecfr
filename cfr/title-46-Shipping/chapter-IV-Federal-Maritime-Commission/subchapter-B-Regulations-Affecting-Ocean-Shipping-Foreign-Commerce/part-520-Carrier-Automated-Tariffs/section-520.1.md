@@ -1,5 +1,7 @@
 ##### § 520.1 Scope and purpose. #####
 
+Link to an amendment published at 89 FR 29, Jan. 2, 2024.
+
 (a) *Scope.* The regulations of this part govern the publication of tariffs in automated systems by common carriers and conferences in the waterborne foreign commerce of the United States. They cover the transportation of property by such carriers, including through transportation with inland carriers. They implement the tariff publication requirements of section 8 of the Shipping Act of 1984 (“the Act”) (46 U.S.C. 40501-40503), as modified by the Ocean Shipping Reform Act of 1998 and section 424 of Public Law 105-258.
 
 (b) *Purpose.* The requirements of this part are intended to permit:

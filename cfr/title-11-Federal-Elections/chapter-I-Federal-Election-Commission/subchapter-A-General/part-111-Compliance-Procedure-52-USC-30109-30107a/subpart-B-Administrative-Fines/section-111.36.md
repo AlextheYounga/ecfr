@@ -1,5 +1,7 @@
 ##### § 111.36 Who will review the respondent's written response? #####
 
+Link to an amendment published at 89 FR 218, Jan. 2, 2024.
+
 (a) A reviewing officer shall review the respondent's written response. The reviewing officer shall be a person who has not been involved in the reason to believe finding.
 
 (b) The reviewing officer shall review the reason to believe finding with supporting documentation and the respondent's written response with supporting documentation. The reviewing officer may request supplemental information from the respondent and/or the Commission staff. The respondent shall submit the supplemental information to the reviewing officer within a time specified by the reviewing officer. The reviewing officer will be entitled to draw an adverse inference from the failure by the respondent to submit the supplemental information.

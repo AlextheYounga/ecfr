@@ -1,5 +1,7 @@
 ##### § 9003.2 Candidate certifications. #####
 
+Link to an amendment published at 89 FR 219, Jan. 2, 2024.
+
 (a) *Major party candidates.* To be eligible to receive payments under 11 CFR part 9005, each Presidential and Vice Presidential candidate of a major party shall, under penalty of perjury, certify to the Commission:
 
 (1) That the candidate and his or her authorized committee(s) have not incurred and will not incur qualified campaign expenses in excess of the aggregate payments to which they will be entitled under 11 CFR part 9004.

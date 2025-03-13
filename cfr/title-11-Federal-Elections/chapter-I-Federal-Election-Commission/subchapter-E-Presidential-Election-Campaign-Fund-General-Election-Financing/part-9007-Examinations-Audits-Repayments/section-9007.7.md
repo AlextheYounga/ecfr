@@ -1,5 +1,7 @@
 ##### § 9007.7 Administrative record. #####
 
+Link to an amendment published at 89 FR 220, Jan. 2, 2024.
+
 (a) The Commission's administrative record for final determinations under 11 CFR 9004.9 and 9005.1, and for repayment determinations under 11 CFR 9007.2, consists of all documents and materials submitted to the Commission for its consideration in making those determinations. The administrative record will include the certification of the Commission's vote(s), the audit report that is sent to the committee (for repayment determinations), the statement(s) of reasons, and the candidate agreement. The committee may include documents or materials in the administrative record by submitting them within the time periods set forth at 11 CFR 9004.9(f)(2)(ii), 9005.1(b)(2), 9005.1(c)(4), 9007.1(c) and 9007.2(c)(2), as appropriate.
 
 (b) The Commission's administrative record for determinations under 11 CFR 9004.9, 9005.1 and 9007.2 does not include:

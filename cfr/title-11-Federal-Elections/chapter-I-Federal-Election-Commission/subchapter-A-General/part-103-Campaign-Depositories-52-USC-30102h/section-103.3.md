@@ -1,5 +1,7 @@
 ##### § 103.3 Deposit of receipts and disbursements (52 U.S.C. 30102(h)(1)). #####
 
+Link to an amendment published at 89 FR 215, Jan. 2, 2024.
+
 (a) All receipts by a political committee shall be deposited in account(s) established pursuant to 11 CFR 103.2, except that any contribution may be, within 10 days of the treasurer's receipt, returned to the contributor without being deposited. The treasurer of the committee shall be responsible for making such deposits. All deposits shall be made within 10 days of the treasurer's receipt. A committee shall make all disbursements by check or similar drafts drawn on an account at its designated campaign depository, except for expenditures of $100 or less made from a petty cash fund maintained pursuant to 11 CFR 102.11. Funds may be transferred from the depository for investment purposes, but shall be returned to the depository before such funds are used to make expenditures.
 
 (b) The treasurer shall be responsible for examining all contributions received for evidence of illegality and for ascertaining whether contributions received, when aggregated with other contributions from the same contributor, exceed the contribution limitations of 11 CFR 110.1 or 110.2.

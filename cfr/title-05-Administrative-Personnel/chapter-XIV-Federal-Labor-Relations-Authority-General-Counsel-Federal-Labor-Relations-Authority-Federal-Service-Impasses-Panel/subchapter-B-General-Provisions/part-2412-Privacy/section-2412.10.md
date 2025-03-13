@@ -1,9 +1,11 @@
-##### § 2412.10 Requests for correction or amendment of records. #####
+##### § 2412.10 Initial decision on amendment or correction. #####
 
-(a) After inspection of any records, if the individual disagrees with any information in the record, the individual may request that the records maintained about the individual be corrected or otherwise amended. Such request shall specify the particular portions of the record to be amended or corrected, the desired amendment or correction, and the reasons therefor.
+(a) Within ten (10) working days after receiving your request for amendment or correction, the FLRA's Solicitor or IG, as appropriate, will acknowledge receipt of the request and, under normal circumstances, the Solicitor or IG will notify you, by mail or other appropriate means, of the decision regarding the request not later than thirty (30) working days after receiving of the request.
 
-(b) Such request shall be in writing and directed as follows:
+(b) The notice of decision will include:
 
-(1) If the system of records is located in a regional office of the Authority, it should be made to the appropriate Regional Director; and
+(1) A statement of whether the Solicitor or IG has granted or denied your request, in whole or in part;
 
-(2) If the system of records is located in the offices of the Authority, the General Counsel or the Panel in Washington, DC, it should be made to the Deputy Director of Administration of the Authority, Washington, DC.
+(2) A quotation or description of any amendment or correction made to any records; and
+
+(3) When a request is denied in whole or in part, an explanation of the reason for that denial and of your right to appeal the decision to the Chairman of the Authority, pursuant to § 2412.12.

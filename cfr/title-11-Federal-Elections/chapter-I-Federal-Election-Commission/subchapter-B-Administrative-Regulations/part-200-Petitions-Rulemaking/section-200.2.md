@@ -1,5 +1,7 @@
 ##### § 200.2 Procedural requirements. #####
 
+Link to an amendment published at 89 FR 218, Jan. 2, 2024.
+
 (a) Any interested person may file with the Commission a written petition for the issuance, amendment, or repeal of a rule implementing any of the following statutes:
 
 (1) The Federal Election Campaign Act of 1971, as amended, 52 U.S.C. 30101 *et seq.;*

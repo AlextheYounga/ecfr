@@ -1,5 +1,7 @@
 ##### § 100.19 File, filed, or filing (52 U.S.C. 30104(a)). #####
 
+Link to an amendment published at 89 FR 214, Jan. 2, 2024.
+
 With respect to documents required to be filed under 11 CFR parts 101, 102, 104, 105, 107, 108, and 109, and any modifications or amendments thereto, the terms *file, filed, and filing* mean one of the actions set forth in paragraphs (a) through (f) of this section. For purposes of this section, document means any report, statement, notice, or designation required by the Act to be filed with the Commission.
 
 (a) *Where to deliver reports.* Except for documents electronically filed under paragraph (c) of this section, a document is timely filed upon delivery to the Federal Election Commission, at the street address identified in the definition of “Commission” in § 1.2, by the close of business on the prescribed filing date.

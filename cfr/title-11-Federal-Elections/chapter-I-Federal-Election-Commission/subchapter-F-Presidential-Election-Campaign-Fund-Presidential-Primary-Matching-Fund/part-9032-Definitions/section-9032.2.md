@@ -1,5 +1,7 @@
 ##### § 9032.2 Candidate. #####
 
+Link to an amendment published at 89 FR 220, Jan. 2, 2024.
+
 *Candidate* means an individual who seeks nomination for election to the office of President of the United States. An individual is considered to seek nomination for election if he or she—
 
 (a) Takes the action necessary under the law of a State to qualify for a caucus, convention, primary election or run-off election;

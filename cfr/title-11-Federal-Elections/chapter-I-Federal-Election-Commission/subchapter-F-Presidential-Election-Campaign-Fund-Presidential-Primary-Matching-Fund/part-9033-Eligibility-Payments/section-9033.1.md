@@ -1,5 +1,7 @@
 ##### § 9033.1 Candidate and committee agreements. #####
 
+Link to an amendment published at 89 FR 220, Jan. 2, 2024.
+
 (a) *General.* (1) A candidate seeking to become eligible to receive Presidential primary matching fund payments shall agree in a letter signed by the candidate to the Commission that the candidate and the candidate's authorized committee(s) will comply with the conditions set forth in 11 CFR 9033.1(b). The candidate may submit the letter containing the agreements required by this section at any time after January 1 of the year immediately preceding the Presidential election year.
 
 (2) The Commission will not consider a candidate's threshold submission until the candidate has submitted a candidate agreement that meets the requirements of this section.

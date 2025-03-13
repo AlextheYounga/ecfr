@@ -1,5 +1,7 @@
 ##### § 100.142 Bank loans. #####
 
+Link to an amendment published at 89 FR 215, Jan. 2, 2024.
+
 (a) *General provisions.* Repayment of a loan of money to a candidate or a political committee by a State bank, a federally chartered depository institution (including a national bank) or a depository institution whose deposits and accounts are insured by the Federal Deposit Insurance Corporation or the National Credit Union Administration is not an expenditure by the lending institution if such loan is made in accordance with applicable banking laws and regulations and is made in the ordinary course of business. A loan will be deemed to be made in the ordinary course of business if it:
 
 (1) Bears the usual and customary interest rate of the lending institution for the category of loan involved;

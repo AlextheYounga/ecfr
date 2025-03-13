@@ -1,5 +1,7 @@
 ##### § 9004.6 Expenditures for transportation and services made available to media personnel; reimbursements. #####
 
+Link to an amendment published at 89 FR 219, Jan. 2, 2024.
+
 (a) *General.* (1) Expenditures by an authorized committee for transportation, ground services or facilities (including air travel, ground transportation, housing, meals, telephone service, typewriters, and computers) provided to media personnel, Secret Service personnel or national security staff will be considered qualified campaign expenses, and, except for costs relating to Secret Service personnel or national security staff, will be subject to the overall expenditure limitations of 11 CFR 9003.2(a)(1) and (b)(1).
 
 (2) Subject to the limitations in paragraphs (b) and (c) of this section, committees may seek reimbursement from the media for the expenses described in paragraph (a)(3) of this section, and may deduct reimbursements received from media representatives from the amount of expenditures subject to the overall expenditure limitation of 11 CFR § 9003.2(a)(1) and (b)(1). Expenses for which the committee receives no reimbursement will be considered qualified campaign expenses, and, with the exception of those expenses relating to Secret Service personnel and national security staff, will be subject to the overall expenditure limitation.

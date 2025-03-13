@@ -1,5 +1,7 @@
 ##### § 9004.7 Allocation of travel expenditures. #####
 
+Link to an amendment published at 89 FR 219, Jan. 2, 2024.
+
 (a) Notwithstanding the provisions of 11 CFR 106.3, expenditures for travel relating to a Presidential or Vice Presidential candidate's campaign by any individual, including a candidate, shall, pursuant to the provisions of paragraph (b) of this section, be qualified campaign expenses and be reported by the candidate's authorized committee(s) as expenditures.
 
 (b)(1) For a trip which is entirely campaign-related, the total cost of the trip shall be a qualified campaign expense and a reportable expenditure.

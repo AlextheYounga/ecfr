@@ -1,5 +1,7 @@
 ##### § 5.5 Request for records. #####
 
+Link to an amendment published at 89 FR 213, Jan. 2, 2024.
+
 (a) A request to inspect or copy those public records described in 11 CFR 5.4(a) may be made in person or by mail. The Public Disclosure and Media Relations Division is open Monday through Friday between the hours of 9 a.m. and 5 p.m. and is located at the Federal Election Commission at the street address identified in the definition of “Commission” in § 1.2.
 
 (b) Each request shall describe the records sought with sufficient specificity with respect to names, dates and subject matter to permit the records to be located with a reasonable amount of effort. A requester will be promptly advised if the requested records cannot be located on the basis of the description given and that further identifying information must be provided before the request can be satisfied.

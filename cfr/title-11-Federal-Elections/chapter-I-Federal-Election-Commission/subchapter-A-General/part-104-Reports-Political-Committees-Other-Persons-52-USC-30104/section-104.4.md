@@ -1,5 +1,7 @@
 ##### § 104.4 Independent expenditures by political committees (52 U.S.C. 30104(b), (d), and (g)). #####
 
+Link to an amendment published at 89 FR 216, Jan. 2, 2024.
+
 (a) *Regularly scheduled reporting.* Every political committee that makes independent expenditures must report all such independent expenditures on Schedule E in accordance with 11 CFR 104.3(b)(3)(vii). Every person that is not a political committee must report independent expenditures in accordance with paragraphs (e) and (f) of this section and 11 CFR 109.10.
 
 (b) *Reports of independent expenditures made at any time up to and including the 20th day before an election*—(1) *Independent expenditures aggregating less than $10,000 in a calendar year.* For each election in which a political committee makes independent expenditures, the political committee shall aggregate its independent expenditures made in each calendar year to determine its reporting obligation. When a committee makes independent expenditures aggregating less than $10,000 for an election in any calendar year, up to and including the 20th day before an election, the committee must report those independent expenditures on Schedule E of the applicable FEC Form, at the time of its regular reports in accordance with 11 CFR 104.3, 104.5, and 104.9.

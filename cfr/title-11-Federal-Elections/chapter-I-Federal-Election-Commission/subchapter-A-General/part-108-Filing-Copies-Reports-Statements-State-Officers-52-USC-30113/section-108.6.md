@@ -1,5 +1,7 @@
 ##### § 108.6 Duties of State officers (52 U.S.C. 30113(b)). #####
 
+Link to an amendment published at 89 FR 216, Jan. 2, 2024.
+
 Except as provided in § 108.1(b), the Secretary of State, or the equivalent State officer, shall carry out the duties set forth in paragraphs (a) through (e) of this section:
 
 (a) Receive and maintain in an orderly manner all reports and statements required to be filed;

@@ -1,5 +1,7 @@
 ##### § 520.11 Non-vessel-operating common carriers. #####
 
+Link to an amendment published at 89 FR 32, Jan. 2, 2024.
+
 (a) *Financial responsibility.* An ocean transportation intermediary that operates as a non-vessel-operating common carrier shall state in its tariff publication:
 
 (1) That it has furnished the Commission proof of its financial responsibility in the manner and amount required by part 515 of this chapter;

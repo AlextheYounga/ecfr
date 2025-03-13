@@ -1,5 +1,7 @@
 ##### § 520.12 Time/Volume rates. #####
 
+Link to an amendment published at 89 FR 33, Jan. 2, 2024.
+
 (a) *General.* Common carriers or conferences may publish in their tariffs rates which are conditioned upon the receipt of a specified aggregate volume of cargo or aggregate freight revenue over a specified period of time.
 
 (b) *Publication requirements.* (1) All rates, charges, classifications rules and practices concerning time/volume rates must be set forth in the carrier's or conference's tariff.

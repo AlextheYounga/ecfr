@@ -1,5 +1,7 @@
 ##### § 114.9 Use of corporate or labor organization facilities. #####
 
+Link to an amendment published at 89 FR 218, Jan. 2, 2024.
+
 (a) *Use of corporate facilities for individual volunteer activity by stockholders and employees.* (1) Stockholders and employees of the corporation may, subject to the rules and practices of the corporation and 11 CFR 100.54, make occasional, isolated, or incidental use of the facilities of a corporation for individual volunteer activity in connection with a Federal election and will be required to reimburse the corporation only to the extent that the overhead or operating costs of the corporation are increased. A corporation may not condition the availability of its facilities on their being used for political activity, or on support for or opposition to any particular candidate or political party. As used in this paragraph, *occasional, isolated, or incidental use* generally means—
 
 (i) When used by employees during working hours, an amount of activity which does not prevent the employee from completing the normal amount of work which that employee usually carries out during such work period; or

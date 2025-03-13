@@ -1,5 +1,7 @@
 ##### § 100.24 Federal election activity (52 U.S.C. 30101(20)). #####
 
+Link to an amendment published at 89 FR 214, Jan. 2, 2024.
+
 (a) As used in this section, and in part 300 of this chapter,
 
 (1) *In connection with an election in which a candidate for Federal office appears on the ballot* means:

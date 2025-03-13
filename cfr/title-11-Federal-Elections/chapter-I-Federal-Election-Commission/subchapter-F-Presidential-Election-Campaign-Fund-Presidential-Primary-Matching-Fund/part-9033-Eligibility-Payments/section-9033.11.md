@@ -1,5 +1,7 @@
 ##### § 9033.11 Documentation of disbursements. #####
 
+Link to an amendment published at 89 FR 220, Jan. 2, 2024.
+
 (a) *Burden of proof.* Each candidate shall have the burden of proving that disbursements made by the candidate or his or her authorized committee(s) or persons authorized to make expenditures on behalf of the candidate or authorized committee(s) are qualified campaign expenses as defined in 11 CFR 9032.9. The candidate and his or her authorized committee(s) shall obtain and furnish to the Commission on request any evidence regarding qualified campaign expenses made by the candidate, his or her authorized committees and agents or persons authorized to make expenditures on behalf of the candidate or committee(s) as provided in paragraph (b) of this section.
 
 (b) *Documentation required.* (1) For disbursements in excess of $200 to a payee, the candidate shall present a canceled check negotiated by the payee and either:

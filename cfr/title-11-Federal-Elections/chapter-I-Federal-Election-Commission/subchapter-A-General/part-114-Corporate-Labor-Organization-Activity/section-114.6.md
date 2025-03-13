@@ -1,5 +1,7 @@
 ##### § 114.6 Twice yearly solicitations. #####
 
+Link to an amendment published at 89 FR 218, Jan. 2, 2024.
+
 (a) A corporation and/or its separate segregated fund may make a total of two written solicitations for contributions to its separate segregated fund per calendar year of its employees other than stockholders, executive or administrative personnel, and their families. Employees as used in this section does not include former or retired employees who are not stockholders. Nothing in this paragraph shall limit the number of solicitations a corporation may make of its stockholders and executive or administrative personnel under § 114.5(g).
 
 (b) A labor organization and/or its separate segregated fund may make a total of two written solicitations per calendar year of employees who are not members of the labor organization, executive or administrative personnel, or stockholders (and their families) of a corporation in which the labor organization represents members working for the corporation. Nothing in this paragraph shall limit the number of solicitations a labor organization may make of its members under § 114.5(g).

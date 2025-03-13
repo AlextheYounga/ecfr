@@ -1,5 +1,7 @@
 ##### § 104.14 Formal requirements regarding reports and statements. #####
 
+Link to an amendment published at 89 FR 216, Jan. 2, 2024.
+
 (a) Each individual having the responsibility to file a designation, report or statement required under this subchapter shall sign the original designation, report or statement except that:
 
 (1) Reports or statements of independent expenditures filed by facsimile machine or electronic mail under 11 CFR 104.4(b) or 11 CFR 109.10 must be verified in accordance with those sections; and

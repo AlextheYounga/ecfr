@@ -1,5 +1,7 @@
 ##### § 300.64 Participation by Federal candidates and officeholders at non-Federal fundraising events (52 U.S.C. 30125(e)(1) and (3)). #####
 
+Link to an amendment published at 89 FR 219, Jan. 2, 2024.
+
 (a) *Scope.* This section covers participation by Federal candidates and officeholders at fundraising events in connection with an election for Federal office or any non-Federal election at which funds outside the amount limitations and source prohibitions of the Act or Levin funds are solicited. This section also covers participation by Federal candidates and officeholders in publicity related to such non-Federal fundraising events. This section applies even if funds that comply with the amount limitations and source prohibitions of the Act are also solicited at the event. Nothing in this section shall be construed to alter the fundraising exception for State candidates at 11 CFR 300.63 or the fundraising exceptions for certain tax-exempt organizations at 11 CFR 300.65.
 
 (b) *Participation at non-Federal fundraising events.* A Federal candidate or officeholder may:

@@ -1,5 +1,7 @@
 ##### § 111.13 Service of subpoenas, orders and notifications (52 U.S.C. 30107(a)(3), (4)). #####
 
+Link to an amendment published at 89 FR 217, Jan. 2, 2024.
+
 (a) Service of a subpoena, order or notification upon a person named therein shall be made by delivering a copy to that person in the manner described by 11 CFR 111.13 (b), (c), and (d). In the case of subpoenas, fees for one day's attendance and mileage shall be tendered as specified in 11 CFR 111.14.
 
 (b) Whenever service is to be made upon a person who has advised the Commission of representation by an attorney pursuant to 11 CFR 111.23, the service shall be made upon the attorney by any of the methods specified in 11 CFR 111.13(c).

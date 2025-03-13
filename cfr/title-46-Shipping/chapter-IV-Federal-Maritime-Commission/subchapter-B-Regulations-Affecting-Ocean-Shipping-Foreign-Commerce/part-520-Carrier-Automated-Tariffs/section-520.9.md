@@ -1,5 +1,7 @@
 ##### § 520.9 Access to tariffs. #####
 
+Link to an amendment published at 89 FR 32, Jan. 2, 2024.
+
 (a) *Methods to access.* Carriers and conferences shall provide access to their published tariffs, via a personal computer (“PC”), by:
 
 (1) Dial-up connection via public switched telephone networks (“PSTN”); or

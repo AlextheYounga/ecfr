@@ -1,5 +1,7 @@
 ##### § 9036.3 Submission errors and insufficient documentation. #####
 
+Link to an amendment published at 89 FR 221, Jan. 2, 2024.
+
 Contributions which are otherwise matchable may be rejected for matching purposes because of submission errors or insufficient supporting documentation. Contributions, other than those defined in 11 CFR 9034.3 or in the form of money orders, cashier's checks, or similar negotiable instruments, may become matchable if there is a proper resubmission in accordance with 11 CFR 9036.5 and 9036.6. Insufficient documentation or submission errors include but are not limited to:
 
 (a) Discrepancies in the written instrument, such as:

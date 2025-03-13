@@ -1,5 +1,7 @@
 ##### § 100.94 Uncompensated Internet activity by individuals that is not a contribution. #####
 
+Link to an amendment published at 89 FR 215, Jan. 2, 2024.
+
 (a) When an individual or a group of individuals, acting independently or in coordination with any candidate, authorized committee, or political party committee, engages in Internet activities for the purpose of influencing a Federal election, neither of the following is a contribution by that individual or group of individuals:
 
 (1) The individual's uncompensated personal services related to such Internet activities;

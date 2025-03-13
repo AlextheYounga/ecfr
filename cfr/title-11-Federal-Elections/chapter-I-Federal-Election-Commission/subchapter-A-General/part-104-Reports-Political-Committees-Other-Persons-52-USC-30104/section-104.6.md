@@ -1,5 +1,7 @@
 ##### § 104.6 Form and content of internal communications reports (52 U.S.C. 30101(9)(B)(iii)). #####
 
+Link to an amendment published at 89 FR 216, Jan. 2, 2024.
+
 (a) *Form.* Every membership organization or corporation which makes disbursements for communications pursuant to 11 CFR 100.134(a) and 114.3 shall report to the Commission on FEC Form 7 such costs which are directly attributable to any communication expressly advocating the election or defeat of a clearly identified candidate (other than a communication primarily devoted to subjects other than the election or defeat of a clearly identified candidate), if such costs exceed $2,000 for any election.
 
 (1) For the purposes of 11 CFR 104.6(a), *election* means two separate processes in a calendar year, to each of which the $2,000 threshold described above applies separately. The first process is comprised of all primary elections for federal office, wherever and whenever held; the second process is comprised of all general elections for federal office, wherever and whenever held.

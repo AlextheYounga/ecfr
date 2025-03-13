@@ -1,5 +1,7 @@
 ##### § 9036.5 Resubmissions. #####
 
+Link to an amendment published at 89 FR 221, Jan. 2, 2024.
+
 (a) *Alternative resubmission methods.* Upon receipt of the Commission's notice of the results of the submission review pursuant to 11 CFR 9036.4(b), or of an inquiry pursuant to 11 CFR 9039.3 that results in a downward adjustment to the amount of certified matching funds, a candidate may choose to:
 
 (1) Resubmit the entire submission; or

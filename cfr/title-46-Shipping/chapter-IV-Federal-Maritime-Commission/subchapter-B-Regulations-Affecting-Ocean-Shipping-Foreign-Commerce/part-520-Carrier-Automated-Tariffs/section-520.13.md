@@ -1,5 +1,7 @@
 ##### § 520.13 Exemptions and exceptions. #####
 
+Link to an amendment published at 89 FR 33, Jan. 2, 2024.
+
 (a) *General.* Exemptions from the requirements of this part are governed by section 16 of the Act (46 U.S.C. 40103) and Rule 67 of the Commission's Rules of Practice and Procedure, § 502.67 of this chapter.
 
 (b) *Services.* The following services are exempt from the requirements of this part:

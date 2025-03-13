@@ -1,5 +1,7 @@
 ##### § 100.93 Travel by aircraft or other means of transportation. #####
 
+Link to an amendment published at 89 FR 215, Jan. 2, 2024.
+
 (a) *Scope and definitions.* (1) This section applies to all campaign travelers who use non-commercial travel.
 
 (2) Campaign travelers who use commercial travel, such as a commercial airline flight, charter flight, taxi, or an automobile provided by a rental company, are governed by 11 CFR 100.52(a) and (d), not this section.

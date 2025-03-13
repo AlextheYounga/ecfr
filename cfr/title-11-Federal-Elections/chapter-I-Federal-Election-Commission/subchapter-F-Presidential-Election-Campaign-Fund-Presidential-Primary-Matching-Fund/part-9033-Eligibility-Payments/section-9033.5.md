@@ -1,5 +1,7 @@
 ##### § 9033.5 Determination of ineligibility date. #####
 
+Link to an amendment published at 89 FR 220, Jan. 2, 2024.
+
 The candidate's date of ineligibility shall be whichever date by operation of 11 CFR 9033.5 (a), (b), or (c) occurs first. After the candidate's date of ineligibility, he or she may only receive matching payments to the extent that he or she has net outstanding campaign obligations as defined in 11 CFR 9034.5.
 
 (a) *Inactive candidate.* The ineligibility date shall be the day on which an individual ceases to be a candidate because he or she is not actively conducting campaigns in more than one State in connection with seeking the Presidential nomination. This date shall be the earliest of—

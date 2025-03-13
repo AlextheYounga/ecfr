@@ -1,5 +1,7 @@
 ##### § 102.9 Accounting for contributions and expenditures (52 U.S.C. 30102(c)). #####
 
+Link to an amendment published at 89 FR 215, Jan. 2, 2024.
+
 The treasurer of a political committee or an agent authorized by the treasurer to receive contributions and make expenditures shall fulfill all recordkeeping duties as set forth at 11 CFR 102.9(a) through (f):
 
 (a) An account shall be kept by any reasonable accounting procedure of all contributions received by or on behalf of the political committee.

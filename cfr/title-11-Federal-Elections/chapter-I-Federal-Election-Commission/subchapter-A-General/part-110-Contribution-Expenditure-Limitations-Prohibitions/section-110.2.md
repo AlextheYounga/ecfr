@@ -1,5 +1,7 @@
 ##### § 110.2 Contributions by multicandidate political committees (52 U.S.C. 30116(a)(2)). #####
 
+Link to an amendment published at 89 FR 217, Jan. 2, 2024.
+
 (a)(1) *Scope.* This section applies to all contributions made by any multicandidate political committee as defined in 11 CFR 100.5(e)(3). See 11 CFR 102.2(a)(3) for multicandidate political committee certification requirements. A political committee becomes a multicandidate committee at the time the political committee meets the requirements of 11 CFR 100.5(e)(3) or becomes affiliated with an existing multicandidate committee, whether or not the political committee has certified its status as a multicandidate committee with the Commission in accordance with 11 CFR 102.2(a)(3).
 
 (2) *Notice to recipients.* Each multicandidate committee that makes a contribution under this section shall notify the recipient in writing of its status as a multicandidate committee.

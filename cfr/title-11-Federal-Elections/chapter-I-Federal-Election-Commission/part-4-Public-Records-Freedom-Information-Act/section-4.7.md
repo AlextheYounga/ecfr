@@ -1,5 +1,7 @@
 ##### § 4.7 Requests for records. #####
 
+Link to an amendment published at 89 FR 213, Jan. 2, 2024.
+
 (a) [Reserved]
 
 (b)(1) Requests for copies of records pursuant to the Freedom of Information Act shall be addressed to Chief FOIA Officer, Federal Election Commission, at the street address identified in the definition of “Commission” in § 1.2. The request shall reasonably describe the records sought with sufficient specificity with respect to names, dates, and subject matter, to permit the records to be located. A requester will be promptly advised if the records cannot be located on the basis of the description given and that further identifying information must be provided before the request can be satisfied.

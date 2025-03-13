@@ -1,5 +1,7 @@
 ##### § 9007.1 Audits. #####
 
+Link to an amendment published at 89 FR 220, Jan. 2, 2024.
+
 (a) *General.* (1) After each Presidential election, the Commission will conduct a thorough examination and audit of the receipts, disbursements, debts and obligations of each candidate, his or her authorized committee(s), and agents of such candidates or committees. Such examination and audit will include, but will not be limited to, expenditures pursuant to 11 CFR 9003.4 prior to the beginning of the expenditure report period, contributions to and expenditures made from the legal and accounting compliance fund established under 11 CFR 9003.3(a), contributions received to supplement any payments received from the Fund, and qualified campaign expenses.
 
 (2) In addition, the Commission may conduct other examinations and audits from time to time as it deems necessary to carry out the provisions of this subchapter.

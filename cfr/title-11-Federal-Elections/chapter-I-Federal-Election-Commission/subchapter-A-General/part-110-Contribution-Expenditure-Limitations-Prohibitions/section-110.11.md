@@ -1,5 +1,7 @@
 ##### § 110.11 Communications; advertising; disclaimers (52 U.S.C. 30120). #####
 
+Link to an amendment published at 89 FR 217, Jan. 2, 2024.
+
 (a) *Scope.* The following communications must include disclaimers, as specified in this section:
 
 (1) All public communications, as defined in 11 CFR 100.26, made by a political committee; electronic mail of more than 500 substantially similar communications when sent by a political committee; and all Internet websites of political committees available to the general public.

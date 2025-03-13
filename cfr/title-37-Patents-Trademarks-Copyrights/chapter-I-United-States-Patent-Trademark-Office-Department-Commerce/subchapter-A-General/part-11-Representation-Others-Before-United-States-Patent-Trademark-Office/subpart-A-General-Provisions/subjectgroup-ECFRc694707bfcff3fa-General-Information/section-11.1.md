@@ -16,6 +16,8 @@ This part governs solely the practice of patent, trademark, and other law before
 
 *Data sheet* means a form used to collect the name, address, and telephone information from individuals recognized to practice before the Office in patent matters.
 
+*Design patent practitioner* means a practitioner who is registered under § 11.6(d).
+
 *Disqualified* means any action that prohibits a practitioner from participating in or appearing before the program or agency, regardless of how long the prohibition lasts or the specific terminology used.
 
 *Federal agency* means any authority of the executive branch of the Government of the United States.
@@ -52,9 +54,9 @@ This part governs solely the practice of patent, trademark, and other law before
 
 *Practitioner* means:
 
-(1) An attorney or agent registered to practice before the Office in patent matters;
+(1) An attorney or agent registered to practice before the Office in patent matters under § 11.6;
 
-(2) An individual authorized under 5 U.S.C. 500(b), or otherwise as provided by § 11.14(a), (b), and (c), to practice before the Office in trademark matters or other non-patent matters;
+(2) An individual authorized under 5 U.S.C. 500(b), or otherwise as provided by § 11.14(a) through (c), to practice before the Office in trademark matters or other non-patent matters;
 
 (3) An individual authorized to practice before the Office in patent matters under § 11.9(a) or (b); or
 
@@ -70,7 +72,7 @@ This part governs solely the practice of patent, trademark, and other law before
 
 *Registration* means registration to practice before the Office in patent proceedings.
 
-*Roster* or *register* means a list of individuals who have been registered as either a patent attorney or patent agent.
+*Roster* or *register* means a list of individuals who have been registered as a patent attorney, patent agent, or design patent practitioner.
 
 *Screened* means the isolation of a practitioner from any participation in a matter through the timely imposition of procedures within a firm that are reasonably adequate under the circumstances to protect information that the isolated practitioner is obligated to protect under these USPTO Rules of Professional Conduct or other law.
 
@@ -96,4 +98,4 @@ This part governs solely the practice of patent, trademark, and other law before
 
 *Writing* or *written* means a tangible or electronic record of a communication or representation, including handwriting, typewriting, printing, photostating, photography, audio or video recording and electronic communications. A “signed” writing includes an electronic sound, symbol or process attached to or logically associated with a writing and executed or adopted by a person with the intent to sign the writing.
 
-[69 FR 35452, June 24, 2004, as amended at 73 FR 47687, Aug. 14, 2008; 77 FR 45251, July 31, 2012; 78 FR 20197, Apr. 3, 2013; 81 FR 33596, May 27, 2016; 86 FR 28452, May 26, 2021; 86 FR 32640, June 22, 2021]
+[69 FR 35452, June 24, 2004, as amended at 73 FR 47687, Aug. 14, 2008; 77 FR 45251, July 31, 2012; 78 FR 20197, Apr. 3, 2013; 81 FR 33596, May 27, 2016; 86 FR 28452, May 26, 2021; 86 FR 32640, June 22, 2021; 88 FR 78649, Nov. 16, 2023]

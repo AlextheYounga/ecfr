@@ -1,5 +1,7 @@
 ##### § 100.29 Electioneering communication (52 U.S.C. 30104(f)(3)). #####
 
+Link to an amendment published at 89 FR 214, Jan. 2, 2024.
+
 (a) *Electioneering communication* means any broadcast, cable, or satellite communication that:
 
 (1) Refers to a clearly identified candidate for Federal office;

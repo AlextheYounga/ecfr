@@ -1,5 +1,7 @@
 ##### § 201.3 Public funding, audits and litigation: Ex parte contacts prohibited. #####
 
+Link to an amendment published at 89 FR 219, Jan. 2, 2024.
+
 (a) In order to avoid the possibility of prejudice, real or apparent, to the public interest in Commission decisionmaking during the public funding process, in audits undertaken by the Commission, and in any litigation to which the Commission is a party, no person outside the agency shall make or cause to be made to any Commissioner or any member of any Commissioner's staff any ex parte communication regarding any candidate or committee's eligibility for or entitlement to public funding; any audit; or any pending or prospective Commission decision regarding litigation, including whether to initiate, settle, appeal, or seek certiorari, or any other decision concerning a litigation matter; nor shall any Commissioner or member of any Commissioner's staff entertain any such ex parte communications.
 
 (b) The requirements of this section apply:

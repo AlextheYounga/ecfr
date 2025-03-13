@@ -1,5 +1,7 @@
 ##### § 9034.5 Net outstanding campaign obligations. #####
 
+Link to an amendment published at 89 FR 220, Jan. 2, 2024.
+
 (a) Within 15 calendar days after the candidate's date of ineligibility, as determined under 11 CFR 9033.5, the candidate shall submit a statement of net outstanding campaign obligations. The candidate's net outstanding campaign obligations under this section equal the difference between paragraphs (a) (1) and (2) of this section:
 
 (1) The total of all outstanding obligations for qualified campaign expenses as of the candidate's date of ineligibility as determined under 11 CFR 9033.5, plus estimated necessary winding down costs as defined under 11 CFR 9034.4(a)(3), less

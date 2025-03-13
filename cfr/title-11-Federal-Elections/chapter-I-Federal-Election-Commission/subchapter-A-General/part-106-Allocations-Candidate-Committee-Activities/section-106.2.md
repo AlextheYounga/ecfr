@@ -1,5 +1,7 @@
 ##### § 106.2 State allocation of expenditures incurred by authorized committees of Presidential primary candidates receiving matching funds. #####
 
+Link to an amendment published at 89 FR 216, Jan. 2, 2024.
+
 (a) *General*—(1) This section applies to Presidential primary candidates receiving or expecting to receive federal matching funds pursuant to 11 CFR parts 9031 *et seq.* The expenditures described in 11 CFR 106.2(b)(2) shall be allocated to a particular State if incurred by a candidate's authorized committee(s) for the purpose of influencing the nomination of that candidate for the office of President with respect to that State. An expenditure shall not necessarily be allocated to the State in which the expenditure is incurred or paid. In the event that the Commission disputes the candidate's allocation or claim of exemption for a particular expense, the candidate shall demonstrate, with supporting documentation, that his or her proposed method of allocation or claim of exemption was reasonable. Expenditures required to be allocated to the primary election under 11 CFR 9034.4(e) shall also be allocated to particular states in accordance with this section.
 
 (2) Disbursements made prior to the time an individual becomes a candidate for the purpose of determining whether that individual should become a candidate pursuant to 11 CFR 100.72(a) and 100.131(a), *i.e.*, payments for testing the waters, shall be allocable expenditures under this section if the individual becomes a candidate.

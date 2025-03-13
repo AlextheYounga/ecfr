@@ -1,5 +1,7 @@
 ##### § 114.8 Trade associations. #####
 
+Link to an amendment published at 89 FR 218, Jan. 2, 2024.
+
 (a) *Definition.* A trade association is generally a membership organization of persons engaging in a similar or related line of commerce, organized to promote and improve business conditions in that line of commerce and not to engage in a regular business of a kind ordinarily carried on for profit, and no part of the net earnings of which inures to the benefit of any member.
 
 (b) *Prohibition.* Nothing in this section waives the prohibition on contributions by corporations which are members of a trade association.

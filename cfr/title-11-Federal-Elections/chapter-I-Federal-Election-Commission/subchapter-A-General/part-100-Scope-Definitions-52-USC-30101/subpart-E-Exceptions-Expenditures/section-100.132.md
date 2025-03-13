@@ -1,5 +1,7 @@
 ##### § 100.132 News story, commentary, or editorial by the media. #####
 
+Link to an amendment published at 89 FR 215, Jan. 2, 2024.
+
 Any cost incurred in covering or carrying a news story, commentary, or editorial by any broadcasting station (including a cable television operator, programmer or producer), Web site, newspaper, magazine, or other periodical publication, including any Internet or electronic publication, is not an expenditure unless the facility is owned or controlled by any political party, political committee, or candidate, in which case the cost for a news story:
 
 (a) That represents a *bona fide* news account communicated in a publication of general circulation or on a licensed broadcasting facility; and

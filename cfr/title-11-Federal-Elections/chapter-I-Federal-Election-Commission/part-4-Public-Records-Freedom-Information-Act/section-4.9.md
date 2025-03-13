@@ -1,5 +1,7 @@
 ##### § 4.9 Fees. #####
 
+Link to an amendment published at 89 FR 213, Jan. 2, 2024.
+
 (a) *Exceptions to fee charges*—(1) *General.* Except for a commercial use requester, the Commission will not charge a fee to any requester for the first two hours of search time and the first 100 pages of duplication in response to any FOIA request.
 
 (2) *Free computer search time.* For purposes of this paragraph, the term *search time* is based on the concept of a manual search. To apply this to a search conducted by a computer, the Commission will provide the equivalent dollar value of two hours of professional staff time, calculated according to paragraph (c)(4) of this section, in computer search time. Computer search time is determined by adding the cost of the computer connect time actually used for the search, calculated at the rate of $25.00 per hour, to the cost of the operator's salary for the time spent conducting the computer search, calculated at the professional staff time rate set forth at paragraph (c)(4) of this section.

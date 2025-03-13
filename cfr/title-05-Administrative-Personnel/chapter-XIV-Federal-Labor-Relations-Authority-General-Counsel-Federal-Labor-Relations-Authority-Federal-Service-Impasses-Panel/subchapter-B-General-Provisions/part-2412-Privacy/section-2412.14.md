@@ -1,5 +1,3 @@
-##### § 2412.14 Fees. #####
+##### § 2412.14 Penalties. #####
 
-(a) As provided in this part, the Authority, the General Counsel or the Panel will provide a copy of the records to the individual to whom they pertain. There will be a charge of ten cents per copy of each page.
-
-(b) Any charges may be waived or reduced whenever it is in the public interest to do so.
+Any person who knowingly and willfully requests or obtains any record concerning an individual from the Authority, the General Counsel, the IG, or the Panel under false pretenses will be subject to criminal prosecution under 5 U.S.C. 552a(i)(3), which provides that such person shall be guilty of a misdemeanor and fined not more than $5,000.

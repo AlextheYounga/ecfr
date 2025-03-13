@@ -1,17 +1,13 @@
-##### § 2412.9 Accounting of disclosures. #####
+##### § 2412.9 Requests for amendment or correction of records. #####
 
-(a) All Regional Directors of the Authority and the Director of Administration of the Authority shall maintain a record (“accounting”) of every instance in which records about an individual are made available, pursuant to this part, to any person other than:
+(a) Unless the record is not subject to amendment or correction as stated in paragraph (b) of this section, you may make a request for amendment or correction of an Authority, General Counsel, IG, or Panel record about yourself or about an individual for whom you are a parent or guardian by submitting a written request to the FLRA's Solicitor or IG, as appropriate, following the procedures in § 2412.5. Your request should identify each particular record in question, state the amendment or correction that you want, and state why you believe that the record is not accurate, relevant, timely, or complete. Please note that a requester bears the burden of proving by the preponderance of the evidence that information is not accurate, relevant, timely, or complete. You may submit any documentation that you think would be helpful. If you believe that the same record is in more than one system of records, your request should state that.
 
-(1) Officers or employees of the Authority, the General Counsel or the Panel in the performance of their duties; or
+(b) The following records are not subject to amendment or correction:
 
-(2) Any person pursuant to the Freedom of Information Act, as amended, 5 U.S.C. 552.
+(1) Transcripts of testimony given under oath or written statements made under oath;
 
-(b) The accounting which shall be retained for at least five (5) years or the life of the record, whichever is longer, shall contain the following information:
+(2) Transcripts of grand jury proceedings, judicial proceedings, or quasi-judicial proceedings, which are the official record of those proceedings;
 
-(1) A brief description of records disclosed;
+(3) Records in systems of records that have been exempted from amendment and correction under the Privacy Act, 5 U.S.C. 552a(j) or (k), by notice published in the Federal Register; and
 
-(2) The date, nature and, where known, the purpose of the disclosure; and
-
-(3) The name and address of the person or agency to whom the disclosure is made.
-
-[45 FR 3491, Jan. 17, 1980, as amended at 51 FR 33837, Sept. 23, 1986]
+(4) Records compiled in reasonable anticipation of a civil action or proceeding.

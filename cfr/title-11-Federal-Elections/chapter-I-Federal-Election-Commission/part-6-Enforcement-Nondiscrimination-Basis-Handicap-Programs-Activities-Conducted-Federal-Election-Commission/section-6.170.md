@@ -1,5 +1,7 @@
 ##### § 6.170 Compliance procedures. #####
 
+Link to an amendment published at 89 FR 214, Jan. 2, 2024.
+
 (a) Except as provided in paragraph (b) of this section, this section applies to all allegations of discrimination on the basis of handicap in programs or activities conducted by the Commission.
 
 (b) The Commission will process complaints alleging violations of section 504 with respect to employment according to the procedures established in 29 CFR part 1613 pursuant to section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 791).

@@ -1,5 +1,7 @@
 ##### § 9036.2 Additional submissions for matching fund payments. #####
 
+Link to an amendment published at 89 FR 221, Jan. 2, 2024.
+
 (a) *Time for submission of additional submissions.* The candidate may submit additional submissions for payments to the Commission on dates to be determined and published by the Commission. On the last two submission dates in the year prior to the election year and on each submission date after the beginning of the matching payment period, the candidate may not make more than one additional submission, and either one resubmission under 11 CFR 9036.5 or one corrected submission under 11 CFR 9036.2(c) or (d)(2), as appropriate.
 
 (b) *Format for additional submissions.* The candidate may obtain additional matching fund payments subsequent to the Commission's threshold certification and payment of primary matching funds to the candidate by filing an additional submission for payment. All additional submissions for payments filed by the candidate shall be made in accordance with the Federal Election Commission's Guideline for Presentation in Good Order.

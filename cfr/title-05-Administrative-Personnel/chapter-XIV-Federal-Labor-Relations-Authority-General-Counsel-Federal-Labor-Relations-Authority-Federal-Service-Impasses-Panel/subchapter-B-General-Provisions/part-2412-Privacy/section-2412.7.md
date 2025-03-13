@@ -1,7 +1,25 @@
-##### § 2412.7 Special procedures; medical records. #####
+##### § 2412.7 Initial decision on access requests. #####
 
-(a) If medical records are requested for inspection which, in the opinion of the appropriate Regional Director or the Director of Administration of the Authority, as appropriate, may be harmful to the requester if personally inspected by such person, such records will be furnished only to a licensed physician designated to receive such records by the requester. Prior to such disclosure, the requester must furnish a signed written authorization to make such disclosure and the physician must furnish a written request for the physician's receipt of such records to the appropriate Regional Director or the Director of Administration of the Authority, as appropriate.
+(a) Within ten (10) working days of the receipt of a request pursuant to § 2412.5, the FLRA's Solicitor or IG will make an initial decision regarding whether the requested records exist and whether they will be made available to the requester. The Solicitor or IG will promptly communicate that initial decision to you in writing or other appropriate form.
 
-(b) If such authorization is not executed within the presence of an Authority, General Counsel or Panel representative, the authorization must be accompanied by a notarized statement verifying the identification of the requester.
+(b) When the initial decision is to provide access to the requested records, the writing or other appropriate communication notifying you of the decision will:
 
-[45 FR 3491, Jan. 17, 1980, as amended at 51 FR 33837, Sept. 23, 1986]
+(1) Briefly describe the records to be made available;
+
+(2) State whether any records maintained about you in the system of records in question are not being made available;
+
+(3) State whether any further verification of your identity is necessary; and
+
+(4) Notify you of any fee charged under § 2412.13.
+
+(5) The Solicitor or IG will promptly disclose the requested records to you upon payment of any applicable fee under § 2412.13.
+
+(c) When the initial decision is not to provide access to requested records and accountings, the Solicitor or IG will, by writing or other appropriate communication, explain the reason for that decision. The Solicitor or IG will only refuse to provide you access when:
+
+(1) Your verification of identity is inadequate under § 2412.5(d);
+
+(2) No such records are maintained or an exemption applies;
+
+(3) Your information is contained in, and inseparable from, another individual's record;
+
+(4) The requested records have been compiled in reasonable anticipation of civil or criminal action or other proceedings.

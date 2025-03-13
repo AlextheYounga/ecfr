@@ -1,5 +1,7 @@
 ##### § 9036.1 Threshold submission. #####
 
+Link to an amendment published at 89 FR 221, Jan. 2, 2024.
+
 (a) *Time for submission of threshold submission.* At any time after January 1 of the year immediately preceding the Presidential election year, the candidate may submit a threshold submission for matching fund payments in accordance with the format for such submissions set forth in 11 CFR 9036.1(b). The candidate may submit the threshold submission simultaneously with or subsequent to his or her submission of the candidate agreement and certifications required by 11 CFR 9033.1 and 9033.2.
 
 (b) *Format for threshold submission.* (1) For each State in which the candidate certifies that he or she has met the requirements of the certifications in 11 CFR 9033.2(b), the candidate shall submit an alphabetical list of contributors showing:

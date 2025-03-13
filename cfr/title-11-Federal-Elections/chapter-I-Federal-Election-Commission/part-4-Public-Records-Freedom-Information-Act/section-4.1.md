@@ -1,5 +1,7 @@
 ##### § 4.1 Definitions. #####
 
+Link to an amendment published at 89 FR 213, Jan. 2, 2024.
+
 As used in this part:
 
 (a) *Commission* means the Federal Election Commission, established by the Federal Election Campaign Act of 1971, as amended.

@@ -1,8 +1,8 @@
 ##### § 431.92 Definitions concerning commercial air conditioners and heat pumps. #####
 
-Link to an amendment published at 88 FR 84228, Dec. 4, 2023.
-
 The following definitions apply for purposes of this subpart, and of subparts J through M of this part. Any words or terms not defined in this section or elsewhere in this part shall be defined as provided in 42 U.S.C. 6311. For definitions that reference the application for which the equipment is marketed, DOE will consider any publicly available document published by the manufacturer (*e.g.,* product literature, catalogs, and packaging labels) to determine marketing intent. For definitions in this section that pertain to computer room air conditioners, italicized terms within a definition indicate terms that are separately defined in this section.
+
+*Applied Coefficient of performance,* or *ACOP* means the ratio of the heating capacity to the power input, including system pump power, for water-source heat pumps. ACOP is expressed in watts per watt and determined according to appendix C1 of this subpart.
 
 *Basic model* includes:
 
@@ -74,7 +74,15 @@ The following definitions apply for purposes of this subpart, and of subparts J 
 
 *Horizontal-flow* means a configuration of a *floor-mounted computer room air conditioner* that is neither a *down-flow* nor an *up-flow* unit.
 
-*Integrated energy efficiency ratio, or IEER,* means a weighted average calculation of mechanical cooling EERs determined for four load levels and corresponding rating conditions, expressed in Btu/watt-hour. IEER is measured per appendix A to this subpart for air-cooled small (≥65,000 Btu/h), large, and very large commercial package air conditioning and heating equipment, measured per appendix D1 to this subpart for variable refrigerant flow multi-split air conditioners and heat pumps (other than air-cooled with rated cooling capacity less than 65,000 Btu/h), and measured per appendix G1 to this subpart for single package vertical air conditioners and single package vertical heat pumps.
+*Integrated energy efficiency ratio,* or *IEER,* means a weighted average calculation of mechanical cooling EERs determined for four load levels and corresponding rating conditions, expressed in Btu/watt-hour. IEER is measured:
+
+(1) Per appendix A to this subpart for air-cooled small (≥65,000 Btu/h), large, and very large commercial package air conditioning and heating equipment;
+
+(2) Per appendix C1 to this subpart for water-source heat pumps;
+
+(3) Per appendix D1 to this subpart for variable refrigerant flow multi-split air conditioners and heat pumps (other than air-cooled with rated cooling capacity less than 65,000 Btu/h); and
+
+(4) Per appendix G1 to this subpart for single package vertical air conditioners and single package vertical heat pumps.
 
 *Integrated seasonal coefficient of performance 2* or *ISCOP2,* means a seasonal weighted-average heating efficiency for heat pump dedicated outdoor air systems, expressed in W/W, as measured according to appendix B of this subpart.
 
@@ -210,6 +218,6 @@ The following definitions apply for purposes of this subpart, and of subparts J 
 
 *Wall-mounted* means a configuration of a *computer room air conditioner* for which the unit housing the evaporator coil is configured for installation on or through a wall.
 
-*Water-source heat pump* means a single-phase or three-phase reverse-cycle heat pump that uses a circulating water loop as the heat source for heating and as the heat sink for cooling. The main components are a compressor, refrigerant-to-water heat exchanger, refrigerant-to-air heat exchanger, refrigerant expansion devices, refrigerant reversing valve, and indoor fan. Such equipment includes, but is not limited to, water-to-air water-loop heat pumps.
+*Water-source heat pump* means commercial package air-conditioning and heating equipment that is a single-phase or three-phase reverse-cycle heat pump that uses a circulating water loop as the heat source for heating and as the heat sink for cooling. The main components are a compressor, refrigerant-to-water heat exchanger, refrigerant-to-air heat exchanger, refrigerant expansion devices, refrigerant reversing valve, and indoor fan (except that coil-only units do not include an indoor fan). Such equipment includes, but is not limited to, water-to-air water-loop heat pumps.
 
-[69 FR 61969, Oct. 21, 2004, as amended at 70 FR 60415, Oct. 18, 2005; 73 FR 58828, Oct. 7, 2008; 74 FR 12073, Mar. 23, 2009; 76 FR 12503, Mar. 7, 2011; 77 FR 28988, May 16, 2012; 78 FR 79598, Dec. 31, 2013; 80 FR 42664, July 17, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2529, Jan. 15, 2016; 87 FR 45197, July 27, 2022; 87 FR 63896, Oct. 20, 2022; 87 FR 75167, Dec. 7, 2022; 87 FR 77325, Dec. 16, 2022; 88 FR 21838, Apr. 11, 2023; 88 FR 36386, 36424, June 2, 2023]
+[69 FR 61969, Oct. 21, 2004, as amended at 70 FR 60415, Oct. 18, 2005; 73 FR 58828, Oct. 7, 2008; 74 FR 12073, Mar. 23, 2009; 76 FR 12503, Mar. 7, 2011; 77 FR 28988, May 16, 2012; 78 FR 79598, Dec. 31, 2013; 80 FR 42664, July 17, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2529, Jan. 15, 2016; 87 FR 45197, July 27, 2022; 87 FR 63896, Oct. 20, 2022; 87 FR 75167, Dec. 7, 2022; 87 FR 77325, Dec. 16, 2022; 88 FR 21838, Apr. 11, 2023; 88 FR 36386, 36424, June 2, 2023; 88 FR 84228, Dec. 4, 2023]

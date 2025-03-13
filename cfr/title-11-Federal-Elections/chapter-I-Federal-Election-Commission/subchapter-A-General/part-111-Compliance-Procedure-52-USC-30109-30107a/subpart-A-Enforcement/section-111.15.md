@@ -1,5 +1,7 @@
 ##### § 111.15 Motions to quash or modify a subpoena (52 U.S.C. 30107(a)(3), (4)). #####
 
+Link to an amendment published at 89 FR 217, Jan. 2, 2024.
+
 (a) Any person to whom a subpoena is directed may, prior to the time specified therein for compliance, but in no event more than 5 days after the date of receipt of such subpoena, apply to the Commission to quash or modify such subpoena, accompanying such application with a brief statement of the reasons therefor. Motions to quash shall be filed with the General Counsel of the Federal Election Commission at the street address identified in the definition of “Commission” in § 1.2. If possible, three (3) copies should be submitted.
 
 (b) The Commission may deny the application or quash the subpoena or modify the subpoena.

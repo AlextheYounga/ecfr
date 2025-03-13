@@ -1,5 +1,7 @@
 ##### § 111.37 What will the Commission do once it receives the respondent's written response and the reviewing officer's recommendation? #####
 
+Link to an amendment published at 89 FR 218, Jan. 2, 2024.
+
 (a) If the Commission, after having found reason to believe and after reviewing the respondent's written response and the reviewing officer's recommendation, determines by an affirmative vote of at least four (4) of its members, that the respondent has violated 52 U.S.C. 30104(a) and the amount of the civil money penalty, the Commission shall authorize the reviewing officer to notify the respondent by letter of its final determination.
 
 (b) If the Commission, after reviewing the reason to believe finding, the respondent's written response, and the reviewing officer's written recommendation, determines by an affirmative vote of at least four (4) of its members, that no violation has occurred (either because the Commission had based its reason to believe finding on a factual error or because the respondent used best efforts to file in a timely manner) or otherwise terminates its proceedings, the Commission shall authorize the reviewing officer to notify the respondent by letter of its final determination.

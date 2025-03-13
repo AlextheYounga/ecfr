@@ -1,5 +1,7 @@
 ##### § 520.3 Publication responsibilities. #####
 
+Link to an amendment published at 89 FR 30, Jan. 2, 2024.
+
 (a) *General.* Unless otherwise exempted by § 520.13, all common carriers and conferences shall keep open for public inspection, in automated tariff systems, tariffs showing all rates, charges, classifications, rules, and practices between all points or ports on their own routes and on any through transportation route that has been established.
 
 (b) *Conferences.* Conferences shall publish, in their automated tariff systems, rates offered pursuant to independent action by their members and may publish any open rates offered by their members. Alternatively, open rates may be published in individual tariffs of conference members.

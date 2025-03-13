@@ -1,7 +1,5 @@
 ##### § 1.4 Nature of correspondence and signature requirements. #####
 
-Link to an amendment published at 88 FR 78648, Nov. 16, 2023.
-
 (a) Correspondence with the Patent and Trademark Office comprises:
 
 (1) Correspondence relating to services and facilities of the Office, such as general inquiries, requests for publications supplied by the Office, orders for printed copies of patents, orders for copies of records, transmission of assignments for recording, and the like, and
@@ -12,7 +10,7 @@ Link to an amendment published at 88 FR 78648, Nov. 16, 2023.
 
 (c) Since different matters may be considered by different branches or sections of the Office, each distinct subject, inquiry, or order must be contained in a separate paper to avoid confusion and delay in answering papers dealing with different subjects. Subjects provided for on a single Office or World Intellectual Property Organization form may be contained in a single paper.
 
-(d)(1) *Handwritten signature.* Each piece of correspondence, except as provided in paragraphs (d)(2), (d)(3), (d)(4), (e), and (f) of this section, filed in an application, patent file, or other proceeding in the Office which requires a person's signature, must:
+(d)(1) *Handwritten signature.*A design patent practitioner must indicate their design patent practitioner status by placing the word “design” (in any format) adjacent to their handwritten signature. Each piece of correspondence, except as provided in paragraphs (d)(2) through (4), (e), and (f) of this section, filed in an application, patent file, or other proceeding in the Office that requires a person's signature, must:
 
 (i) Be an original, that is, have an original handwritten signature personally signed, in permanent dark ink or its equivalent, by that person; or
 
@@ -22,7 +20,7 @@ Link to an amendment published at 88 FR 78648, Nov. 16, 2023.
 
 (i) The S-signature must consist only of letters, or Arabic numerals, or both, with appropriate spaces and commas, periods, apostrophes, or hyphens for punctuation, and the person signing the correspondence must insert his or her own S-signature with a first single forward slash mark before, and a second single forward slash mark after, the S-signature (*e.g.,*/Dr. James T. Jones, Jr./); and
 
-(ii) A patent practitioner (§ 1.32(a)(1)), signing pursuant to §§ 1.33(b)(1) or 1.33(b)(2), must supply his/her registration number either as part of the S-signature, or immediately below or adjacent to the S-signature. The number (#) character may be used only as part of the S-signature when appearing before a practitioner's registration number; otherwise the number character may not be used in an S-signature.
+(ii) A patent practitioner (§ 1.32(a)(1)), signing pursuant to § 1.33(b)(1) or (2), must supply their registration number either as part of the S-signature or immediately below or adjacent to the S-signature. The hash (#) character may only be used as part of the S-signature when appearing before a practitioner's registration number; otherwise, the hash character may not be used in an S-signature. A design patent practitioner must additionally indicate their design patent practitioner status by placing the word “design” (in any format) adjacent to the last forward slash of their S-signature.
 
 (iii) The signer's name must be:
 
