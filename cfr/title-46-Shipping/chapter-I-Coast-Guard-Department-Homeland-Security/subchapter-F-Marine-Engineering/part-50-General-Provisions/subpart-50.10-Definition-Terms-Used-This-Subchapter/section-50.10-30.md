@@ -1,14 +1,12 @@
 ##### § 50.10-30 Coast Guard number. #####
 
-Link to an amendment published at 89 FR 50094, June 12, 2024.
-
 (a) The Coast Guard number means that number assigned to boilers and pressure vessels by the Officer in Charge, Marine Inspection, who makes the final tests and inspections.
 
-(b) The Coast Guard number shall be stamped on the nameplates of boilers and pressure vessels.
+(b) The Coast Guard number must be stamped on the nameplates of boilers and pressure vessels.
 
 (c) The Coast Guard number is comprised of the following:
 
-(1) Three capital letters which identify the office of the issuing Officer in Charge, Marine Inspection (see table 50.10-30); followed by,
+(1) Three capital letters which identify the office of the issuing Officer in Charge, Marine Inspection (see table 1 to § 50.10-30); followed by,
 
 (2) An OCMI serial number, by which the particular boiler or pressure vessel can be identified; the first two digits of which will identify the calendar year the number was assigned.
 
@@ -67,4 +65,4 @@ Link to an amendment published at 89 FR 50094, June 12, 2024.
 |     VAL      |      Valdez.      |
 |     WNC      |  Wilmington, NC.  |
 
-[CGFR 68-82, 33 FR 18808, Dec. 18, 1968, as amended by CGFR 69-127, 35 FR 9975, June 17, 1970; CGD 74-219, 39 FR 40158, Nov. 14, 1974; CGD 78-161, 44 FR 13492, Mar. 12, 1979; USCG-2000-7790, 65 FR 58459, Sept. 29, 2000; USCG-2006-25556, 72 FR 36330, July 2, 2007]
+[CGFR 68-82, 33 FR 18808, Dec. 18, 1968, as amended by CGFR 69-127, 35 FR 9975, June 17, 1970; CGD 74-219, 39 FR 40158, Nov. 14, 1974; CGD 78-161, 44 FR 13492, Mar. 12, 1979; USCG-2000-7790, 65 FR 58459, Sept. 29, 2000; USCG-2006-25556, 72 FR 36330, July 2, 2007; USCG-2020-0634, 89 FR 50094, June 12, 2024]

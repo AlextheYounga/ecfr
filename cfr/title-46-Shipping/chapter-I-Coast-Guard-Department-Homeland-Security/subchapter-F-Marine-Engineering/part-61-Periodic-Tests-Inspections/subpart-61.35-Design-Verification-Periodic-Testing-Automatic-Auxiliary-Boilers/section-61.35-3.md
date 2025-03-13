@@ -1,7 +1,5 @@
 ##### § 61.35-3 Required tests and checks. #####
 
-Link to an amendment published at 89 FR 50189, June 12, 2024.
-
 (a) Tests and checks must include the following:
 
 (1) *Safety (Programming) controls.* Safety controls must control and cycle the unit in the proper manner and sequence. Proper prepurge, ignition, postpurge, and modulation must be verified. All time intervals must be verified.
@@ -27,3 +25,7 @@ Link to an amendment published at 89 FR 50189, June 12, 2024.
 (11) *Low voltage test.* The fuel supply to the burners must automatically shut off when the supply voltage is lowered.
 
 (12) *Switches.* All switches must be tested to verify satisfactory operation.
+
+(b) [Reserved]
+
+[CGD 88-057, 55 FR 24237, June 15, 1990, as amended by USCG-2020-0634, 89 FR 50189, June 12, 2024]

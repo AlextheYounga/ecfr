@@ -1,7 +1,5 @@
 ##### § 62.25-10 Manual alternate control systems. #####
 
-Link to an amendment published at 89 FR 50191, June 12, 2024.
-
 (a) Manual alternate control systems must—
 
 (1) Be operable in an emergency and after a remote or automatic primary control system failure;
@@ -14,6 +12,8 @@ Link to an amendment published at 89 FR 50191, June 12, 2024.
 
 (b) Permanent communications must be provided between primary remote control locations and manual alternate control locations if operator attendance is necessary to maintain safe alternate control.
 
-Note:
+Note 1 to paragraph (b):
 
 Typically, this includes main boiler fronts and local propulsion control.
+
+[CGD 81-030, 53 FR 17838, May 18, 1988, as amended by USCG-2020-0634, 89 FR 50191, June 12, 2024]

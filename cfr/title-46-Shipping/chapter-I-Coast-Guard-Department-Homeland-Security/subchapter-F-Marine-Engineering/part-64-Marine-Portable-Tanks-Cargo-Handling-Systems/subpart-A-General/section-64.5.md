@@ -1,7 +1,5 @@
 ##### § 64.5 Definitions. #####
 
-Link to an amendment published at 89 FR 50199, June 12, 2024.
-
 As used in this part:
 
 (a) *Marine portable tank* or *MPT* means a liquid-carrying tank that—
@@ -20,7 +18,7 @@ As used in this part:
 
 (c) *Total containment pressure* means the minimum pressure for total product containment under normal operating conditions at a gauge pressure consisting of the absolute vapor pressure of the product at 122 °F added to the dynamic pressure, based on the tank dimensions and the location of the relief devices, of not less than 5 pounds per square inch gauge (psig) at the top of the tank in the operating position.
 
-(d) *Maximum allowable working pressure* means the maximum gauge pressure at the top of the tank in the operating position at 122 °F, equal to or greater than the total containment pressure as defined in paragraph (c) of this section. The maximum allowable working pressure is used in the calculation of the minimum thickness of each element of the tank, excluding the allowance for corrosion and the thickness for loadings other than pressure, as provided for in the ASME Code.
+(d) *Maximum allowable working pressure* means the maximum gauge pressure at the top of the tank in the operating position at 122 °F, equal to or greater than the total containment pressure as defined in paragraph (c) of this section. The maximum allowable working pressure is used in the calculation of the minimum thickness of each element of the tank, excluding the allowance for corrosion and the thickness for loadings other than pressure, as provided for in Section VIII of the ASME BPVC (incorporated by reference, see § 64.2).
 
 (e) *Test pressure* means a hydrostatic pressure of at least one and one-half times the maximum allowable working pressure.
 
@@ -34,4 +32,4 @@ As used in this part:
 
 (g) *Owner* means the person, corporation, company, partnership, or organization in which is vested the ownership, dominion, or title of a portable tank.
 
-[CGD 73-172, 39 FR 22950, June 25, 1974, as amended by CGD 84-043, 55 FR 37409, Sept. 11, 1990]
+[CGD 73-172, 39 FR 22950, June 25, 1974, as amended by CGD 84-043, 55 FR 37409, Sept. 11, 1990; USCG-2020-0634, 89 FR 50199, June 12, 2024]

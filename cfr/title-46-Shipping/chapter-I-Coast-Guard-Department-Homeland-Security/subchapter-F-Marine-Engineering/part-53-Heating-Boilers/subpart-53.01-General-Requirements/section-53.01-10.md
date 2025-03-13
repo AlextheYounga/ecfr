@@ -1,22 +1,22 @@
 ##### § 53.01-10 Service restrictions and exceptions (replaces HG-101). #####
 
-(a) *General.* The service restrictions and exceptions shall be as indicated in this section in lieu of the requirements in HG-101 of section IV of the ASME Boiler and Pressure Vessel Code (incorporated by reference; see 46 CFR 53.01-1).
+(a) *General.* The service restrictions and exceptions must be as indicated in this section in lieu of the requirements of HG-101 of Section IV of the ASME BPVC (incorporated by reference; see § 53.01-1).
 
-(b) *Service restrictions.* (1) Boilers of wrought materials shall be restricted to a maximum of 103 kPa gage (15 psig) for steam and a maximum of 689 kPa (100 psig) or 121 °C (250 °F) for hot water. If operating conditions exceed these limits, design and fabrications shall be in accordance with part 52 of this subchapter.
+(b) *Service restrictions.* (1) Boilers of wrought materials must be restricted to a maximum of 103 kPa gage (15 psig) for steam and a maximum of 689 kPa (100 psig) or 121 °C (250 °F) for hot water. If operating conditions exceed these limits, design and fabrications must be in accordance with part 52 of this subchapter.
 
-(2) Boilers of cast iron materials shall be restricted to a maximum of 103 kPa gage (15 psig) for steam and to a maximum of 206 kPa gage (30 psig) or 121 °C (250 °F) for hot water.
+(2) Boilers of cast iron materials must be restricted to a maximum of 103 kPa gage (15 psig) for steam and to a maximum of 206 kPa gage (30 psig) or 121 °C (250 °F) for hot water.
 
-(c) *Hot water supply boilers.* (1) Electrically fired hot water supply boilers that have a capacity not greater than 454 liters (120 gallons), a heat input not greater than 58.6 kilowatts (200,000 BTU per hour), and are listed as approved under Underwriters' Laboratories UL 174 or UL 1453 (both incorporated by reference; see 46 CFR 53.01-1) are exempted from the requirements of this part provided they are protected by a pressure relief device. This relief device need not comply with § 53.05-2.
+(c) *Hot water supply boilers.* (1) Electrically fired hot water supply boilers that have a capacity not greater than 454 liters (120 gallons), a heat input not greater than 58.6 kilowatts (200,000 Btu per hour), and are listed as approved under UL 174 or UL 1453 (both incorporated by reference; see § 53.01-1) are exempted from the requirements of this part provided they are protected by a pressure relief device. This relief device need not comply with § 53.05-2.
 
-(2) Oil fired hot water supply boilers shall not be exempted from the requirements of this part on the basis of size or heat input.
+(2) Oil fired hot water supply boilers are not exempted from the requirements of this part on the basis of size or heat input.
 
-(d) Exhaust gas type boilers shall be restricted to a working pressure equal to or less than 103 kPa gage (15 psig) and an operating temperature equal to or less than 454 °C (850 °F). The design temperature of parts exposed to the exhaust gas must be the maximum temperature that could normally be produced by the source of exhaust gas. This temperature shall be verified by testing or by the manufacturer of the engine or other equipment producing the exhaust.
+(d) *Exhaust gas boilers.* Exhaust gas type boilers must be restricted to a working pressure equal to or less than 103 kPa gage (15 psig) and an operating temperature equal to or less than 454 °C (850 °F). The design temperature of parts exposed to the exhaust gas must be the maximum temperature that could normally be produced by the source of exhaust gas. This temperature must be verified by testing or by the manufacturer of the engine or other equipment producing the exhaust.
 
-(e) Heating boilers whose operating conditions are within the service restrictions of § 53.01-10(b)(1) may be constructed in accordance with section I of the ASME Boiler and Pressure Vessel Code (incorporated by reference; see 46 CFR 53.01-1). In addition, these heating boilers must:
+(e) *ASME BPVC Section I.* Heating boilers whose operating conditions are within the service restrictions of paragraph (b)(1) of this section may be constructed in accordance with Section I of the ASME BPVC (incorporated by reference; see § 53.01-1). In addition, these heating boilers must:
 
-(1) Be stamped with the appropriate ASME Code symbol in accordance with PG-104 through PG-113 of section IV of the ASME Boiler and Pressure Vessel Code;
+(1) Be stamped with the appropriate ASME symbol in accordance with Section I of the ASME BPVC;
 
-(2) Meet the service restrictions of § 53.01-10(b)(2) if made of cast iron;
+(2) Meet the service restrictions of paragraph (b)(2) of this section if made of cast iron;
 
 (3) Have safety valves which meet the requirements of § 52.01-120 of this subchapter;
 

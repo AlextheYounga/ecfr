@@ -12,4 +12,4 @@
 
 (5) Additional plans may be required for “fail-safe” equipment and for cargo hatch systems with alternate means of operation.
 
-[CGD 73-254, 40 FR 40168, Sept. 2, 1975]
+(b) [Reserved]

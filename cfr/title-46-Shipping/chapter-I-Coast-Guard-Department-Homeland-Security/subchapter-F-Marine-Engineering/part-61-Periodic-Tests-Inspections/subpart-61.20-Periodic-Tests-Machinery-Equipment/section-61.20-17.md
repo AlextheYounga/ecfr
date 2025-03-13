@@ -1,10 +1,8 @@
 ##### § 61.20-17 Examination intervals. #####
 
-Link to an amendment published at 89 FR 50189, June 12, 2024.
+(a) A lubricant that demonstrates the corrosion inhibiting properties of oil when tested in accordance with ASTM D665 (incorporated by reference, see § 61.03-1) is considered to be equivalent to oil for the purposes of the tailshaft examination interval.
 
-(a) A lubricant that demonstrates the corrosion inhibiting properties of oil when tested in accordance with ASTM D 665 (incorporated by reference, see § 61.03-1) is considered to be equivalent to oil for the purposes of the tailshaft examination interval.
-
-(b) Except as provided in paragraphs (c) through (f) of this section, each tailshaft on a vessel must be examined twice within any 5 year period. No more than 3 years may elapse between any 2 tailshaft examinations.
+(b) Except as provided in paragraphs (c) through (f) of this section, each tailshaft on a vessel must be examined twice within any 5-year period. No more than 3 years may elapse between any 2 tailshaft examinations.
 
 (c) Tailshafts on vessels fitted with multiple shafts must be examined once every 5 years.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 89 FR 50189, June 12, 2024.
 
 (2) Regularly examined in a manner acceptable to the Commandant CG-CVC.
 
-[CGD 95-027, 61 FR 26001, May 23, 1996, as amended by CGD 96-041, 61 FR 50728, Sept. 27, 1996; 61 FR 52497, Oct. 7, 1996; USCG-1999-5151, 64 FR 67180, Dec. 1, 1999; USCG-2009-0702, 74 FR 49229, Sept. 25, 2009; USCG-2012-0832, 77 FR 59778, Oct. 1, 2012]
+[CGD 95-027, 61 FR 26001, May 23, 1996, as amended by CGD 96-041, 61 FR 50728, Sept. 27, 1996; 61 FR 52497, Oct. 7, 1996; USCG-1999-5151, 64 FR 67180, Dec. 1, 1999; USCG-2009-0702, 74 FR 49229, Sept. 25, 2009; USCG-2012-0832, 77 FR 59778, Oct. 1, 2012; USCG-2020-0634, 89 FR 50189, June 12, 2024]

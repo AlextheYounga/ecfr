@@ -1,6 +1,6 @@
 ##### § 56.50-96 Keel cooler installations. #####
 
-(a) Keel cooler installations shall meet the requirements of § 56.50-95(d)(1) and (2), and (e)(3), and (f) except that shutoff or isolation valves will not be required for the inlet and discharge connections if:
+(a) Keel cooler installations must meet the requirements of § 56.50-95(d)(1) and (2), (e)(3), and (f) except that shutoff or isolation valves will not be required for the inlet and discharge connections if:
 
 (1) The installation is forward of the collision bulkhead; or,
 
@@ -13,5 +13,7 @@
 (iii) Full penetration welds are employed in the fabrication of the structure and its attachment to the hull.
 
 (iv) The forward end of the structure must be faired to the hull such that the horizontal length of the fairing is no less than four times the height of the structure, or be in a protected location such as inside a bow thruster trunk.
+
+(b) [Reserved]
 
 [CGFR 68-82, 33 FR 18843, Dec. 18, 1968, as amended by CGFR 72-59R, 37 FR 6189, Mar. 25, 1972; CGD 77-140, 54 FR 40611, Oct. 2, 1989]

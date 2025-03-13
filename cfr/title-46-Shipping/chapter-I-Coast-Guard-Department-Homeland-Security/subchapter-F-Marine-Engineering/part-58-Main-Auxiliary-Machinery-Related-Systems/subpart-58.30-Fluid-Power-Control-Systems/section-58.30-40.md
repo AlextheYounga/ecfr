@@ -10,8 +10,6 @@
 
 (4) The fluid used in the system.
 
-(5) The velocity of the fluid flow in the system.
+(5) Details of the system components in accordance with § 56.01-10(d) of this subchapter.
 
-(6) Details of the system components in accordance with § 56.01-10(d) of this subchapter.
-
-[CGD 73-254, 40 FR 40168, Sept. 2, 1975]
+(b) [Reserved]

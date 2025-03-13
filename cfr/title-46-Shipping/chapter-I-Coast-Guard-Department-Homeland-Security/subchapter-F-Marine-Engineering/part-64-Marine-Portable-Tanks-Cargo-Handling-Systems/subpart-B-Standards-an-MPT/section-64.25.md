@@ -1,11 +1,9 @@
 ##### § 64.25 Cross section. #####
 
-Link to an amendment published at 89 FR 50199, June 12, 2024.
-
 A tank must have a cross section design that is—
 
 (a) Circular; or
 
-(b) Other than circular and stress analyzed experimentally by the method contained in UG-101 of the ASME Code.
+(b) Other than circular and stress analyzed experimentally by the method contained in UG-101 of Section VIII of the ASME BPVC (incorporated by reference; see § 64.2).
 
-[CGD 73-172, 39 FR 22950, June 25, 1974, as amended by CGD 84-043, 55 FR 37410, Sept. 11, 1990]
+[USCG-2020-0634, 89 FR 50199, June 12, 2024]

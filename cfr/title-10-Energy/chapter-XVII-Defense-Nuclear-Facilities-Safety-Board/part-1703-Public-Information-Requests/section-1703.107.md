@@ -1,5 +1,7 @@
 ##### § 1703.107 Fees for record requests. #####
 
+Link to an amendment published at 89 FR 73260, Sept. 10, 2024.
+
 (a) Fees for records available through the Public Reading Room.
 
 (1) With the exception of copies of transcripts of Board public hearings addressed in paragraph (a)(2) of this section, the fees charged shall be limited to costs of duplication of the requested records. The Board shall either duplicate the requested records or have them duplicated by a commercial contractor. If the Board duplicates the records, it shall not charge the requester for the associated labor costs. A schedule of fees for this duplication service shall be prescribed in accordance with paragraph (b)(6) of this section. A person may obtain a copy of the schedule of fees in person or by mail from the Public Reading Room. There shall be no charge for responses consisting of ten or fewer pages.

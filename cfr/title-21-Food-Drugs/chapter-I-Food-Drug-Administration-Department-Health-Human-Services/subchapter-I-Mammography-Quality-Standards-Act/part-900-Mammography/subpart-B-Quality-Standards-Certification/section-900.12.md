@@ -1,7 +1,5 @@
 ##### § 900.12 Quality standards. #####
 
-Link to an amendment published at 88 FR 15168, Mar. 10, 2023.
-
 (a) *Personnel.* The following requirements apply to all personnel involved in any aspect of mammography, including the production, processing, and interpretation of mammograms and related quality assurance activities:
 
 (1) *Interpreting physicians.* All physicians interpreting mammograms shall meet the following qualifications:
@@ -104,13 +102,17 @@ Link to an amendment published at 88 FR 15168, Mar. 10, 2023.
 
 (B) Medical physicists who fail to meet the continuing experience requirement of paragraph (a)(3)(iii)(B) of this section shall complete a sufficient number of surveys under the direct supervision of a medical physicist who meets the qualifications of paragraphs (a)(3)(i) and (a)(3)(iii) of this section to bring their total surveys up to the required two facilities and six units in the previous 24 months. No more than one survey of a specific unit within a period of 60 days can be counted towards the total mammography unit survey requirement.
 
-(4) *Retention of personnel records.* Facilities shall maintain records to document the qualifications of all personnel who worked at the facility as interpreting physicians, radiologic technologists, or medical physicists. These records must be available for review by the MQSA inspectors. Records of personnel no longer employed by the facility should not be discarded until the next annual inspection has been completed and FDA has determined that the facility is in compliance with the MQSA personnel requirements.
+(4) *Retention of personnel records.* Facilities shall maintain records of training and experience relevant to their qualification under MQSA for personnel who work or have worked at the facility as interpreting physicians, radiologic technologists, or medical physicists. These records must be available for review by the MQSA inspectors. Records of personnel no longer employed by the facility must be maintained for no less than 24 months from the date of the departure of an employee, and these records must be available for review at the time of any annual inspection occurring during those 24 months. The facility shall provide copies of these personnel records to current interpreting physicians, radiologic technologists, and medical physicists upon their request. Facilities must provide personnel records to former employees if the former employees communicate their request within 24 months of the date of their departure. If it has been greater than 24 months and the facility has maintained those records, the facility must provide those records to former employees upon request. Before a facility closes or ceases to provide mammography services, it must make arrangements for access by current and former personnel to their MQSA personnel records. This access may be provided by the permanent transfer of these records to the personnel or the transfer of the records to a facility or other entity that will provide access to these records for no less than 24 months from the date of facility closure or cessation of mammography services.
 
 (b) *Equipment.* Regulations published under §§ 1020.30, 1020.31, and 900.12(e) of this chapter that are relevant to equipment performance should also be consulted for a more complete understanding of the equipment performance requirements.
 
 (1) *Prohibited equipment.* Radiographic equipment designed for general purpose or special nonmammography procedures shall not be used for mammography. This prohibition includes systems that have been modified or equipped with special attachments for mammography. This requirement supersedes the implied acceptance of such systems in § 1020.31(f)(3) of this chapter.
 
 (2) *General.* All radiographic equipment used for mammography shall be specifically designed for mammography and shall be certified pursuant to § 1010.2 of this chapter as meeting the applicable requirements of §§ 1020.30 and 1020.31 of this chapter in effect at the date of manufacture.
+
+(i) All devices used in mammography must have met the applicable FDA premarket authorization requirements for medical devices of that type with that intended use.
+
+(ii) A mammography unit that is converted from one mammographic modality to another is considered a new unit at the facility under this part and must, prior to clinical use, undergo a mammography equipment evaluation demonstrating compliance with applicable requirements. The facility must also follow its accreditation body's procedures for applying for accreditation of that unit.
 
 (3) *Motion of tube-image receptor assembly.* (i) The assembly shall be capable of being fixed in any position where it is designed to operate. Once fixed in any such position, it shall not undergo unintended motion.
 
@@ -168,7 +170,7 @@ Link to an amendment published at 88 FR 15168, Mar. 10, 2023.
 
 (iii) The system shall provide means for the operator to vary the selected optical density from the normal (zero) setting.
 
-(11) *X-ray film.* The facility shall use X-ray film for mammography that has been designated by the film manufacturer as appropriate for mammography.
+(11) *Film.* For facilities using screen-film units, the facility shall use x-ray film for mammography that has been designated by the film manufacturer as appropriate for mammography. For facilities using hardcopy prints of digital images for transfer, retention, or final interpretation purposes, the facility shall use a type of film designated by the film manufacturer as appropriate for these purposes and compatible with the printer being used.
 
 (12) *Intensifying screens.* The facility shall use intensifying screens for mammography that have been designated by the screen manufacturer as appropriate for mammography and shall use film that is matched to the screen's spectral output as specified by the manufacturer.
 
@@ -178,49 +180,77 @@ Link to an amendment published at 88 FR 15168, Mar. 10, 2023.
 
 (15) *Film masking devices.* Facilities shall ensure that film masking devices that can limit the illuminated area to a region equal to or smaller than the exposed portion of the film are available to all interpreting physicians interpreting for the facility.
 
-(c) *Medical records and mammography reports*—(1) *Contents and terminology.* Each facility shall prepare a written report of the results of each mammography examination performed under its certificate. The mammography report shall include the following information:
+(16) *Equipment—other modalities.* Systems with image receptor modalities other than screen-film shall demonstrate compliance with quality standards by successful results of quality assurance testing as specified under paragraph (e)(6) of this section.
+
+(c) *Medical records and mammography reports*—(1) *Contents and terminology.* Each facility shall prepare a written report of the results of each mammographic examination performed under its certificate. The mammographic examination presented for interpretation must be in the original mammographic modality in which it was performed, and must not consist of digital images produced through copying or digitizing hardcopy original images. The mammography report shall include the following information:
 
 (i) The name of the patient and an additional patient identifier;
 
-(ii) Date of examination;
+(ii) Date of examination, facility name, and location. At a minimum, the location shall include the city, State, ZIP code, and telephone number of the facility;
 
 (iii) The name of the interpreting physician who interpreted the mammogram;
 
-(iv) Overall final assessment of findings, classified in one of the following categories:
+(iv) Overall final assessment of findings, classified in one of the following categories (the assessment statement is only the word or phrase within the quotation marks):
 
-(A) “Negative:” Nothing to comment upon (if the interpreting physician is aware of clinical findings or symptoms, despite the negative assessment, these shall be explained);
+(A) “Negative.” Nothing to comment upon (if the interpreting physician is aware of clinical findings or symptoms, despite the negative assessment, these shall be documented and addressed);
 
-(B) “Benign:” Also a negative assessment;
+(B) “Benign.” Also a normal result, with benign findings present, but no evidence of malignancy (if the interpreting physician is aware of clinical findings or symptoms, despite the benign assessment, these shall be documented and addressed);
 
-(C) “Probably Benign:” Finding(s) has a high probability of being benign;
+(C) “Probably Benign.” Finding(s) has a high probability of being benign;
 
-(D) “Suspicious:” Finding(s) without all the characteristic morphology of breast cancer but indicating a definite probability of being malignant;
+(D) “Suspicious.” Finding(s) without all the characteristic morphology of breast cancer but indicating a definite probability of being malignant;
 
-(E) “Highly suggestive of malignancy:” Finding(s) has a high probability of being malignant;
+(E) “Highly Suggestive of Malignancy.” Finding(s) has a high probability of being malignant;
 
-(v) In cases where no final assessment category can be assigned due to incomplete work-up, “Incomplete: Need additional imaging evaluation” shall be assigned as an assessment and reasons why no assessment can be made shall be stated by the interpreting physician; and
+(F) “Known Biopsy-Proven Malignancy.” Reserved for known malignancies being mammographically evaluated for definitive therapy; and
 
-(vi) Recommendations made to the health care provider about what additional actions, if any, should be taken. All clinical questions raised by the referring health care provider shall be addressed in the report to the extent possible, even if the assessment is negative or benign.
+(G) “Post-Procedure Mammogram for Marker Placement.” Reserved for a post-procedure mammogram used to confirm the deployment and position of a breast tissue marker.
 
-(2) *Communication of mammography results to the patients.* Each facility shall send each patient a summary of the mammography report written in lay terms within 30 days of the mammographic examination. If assessments are “Suspicious” or “Highly suggestive of malignancy,” the facility shall make reasonable attempts to ensure that the results are communicated to the patient as soon as possible.
+(v) In cases where no final assessment category can be assigned due to incomplete work-up, one of the following classification statements shall be assigned as an assessment and reasons why no final assessment can be made shall be stated by the interpreting physician.
 
-(i) Patients who do not name a health care provider to receive the mammography report shall be sent the report described in paragraph (c)(1) of this section within 30 days, in addition to the written notification of results in lay terms.
+(A) “Incomplete: Need additional imaging evaluation.” Reserved for examinations where additional imaging needs to be performed before an assessment category identified in paragraphs (c)(1)(iv)(A) through (G) of this section can be given; or
 
-(ii) Each facility that accepts patients who do not have a health care provider shall maintain a system for referring such patients to a health care provider when clinically indicated.
+(B) “Incomplete: Need prior mammograms for comparison.” Reserved for examinations where comparison with prior mammograms should be performed before an assessment category identified in paragraphs (c)(1)(iv)(A) through (G) of this section can be given. If this assessment category is used, a followup report with an assessment category identified in paragraphs (c)(1)(iv)(A) through (E) of this section must be issued within 30 calendar days of the initial report whether or not comparison views can be obtained.
+
+(vi) Overall assessment of breast density, classified in one of the following categories:
+
+(A) “The breasts are almost entirely fatty.”
+
+(B) “There are scattered areas of fibroglandular density.”
+
+(C) “The breasts are heterogeneously dense, which may obscure small masses.”
+
+(D) “The breasts are extremely dense, which lowers the sensitivity of mammography.”
+
+(vii) Recommendations made to the healthcare provider about what additional actions, if any, should be taken. All clinical questions raised by the referring healthcare provider shall be addressed in the report to the extent possible, even if the assessment is negative or benign.
+
+(2) *Communication of mammography results to the patients.* Each facility shall provide each patient a summary of the mammography report written in lay terms within 30 calendar days of the mammographic examination which shall, at a minimum, include the name of the patient; the name, address, and telephone number of the facility performing the mammographic examination; and an assessment of breast density as described in paragraphs (c)(2)(iii) and (iv) of this section. If the assessment of the mammography report is “Suspicious” or “Highly Suggestive of Malignancy,” the facility shall provide the patient a summary of the mammography report written in lay language within 7 calendar days of the final interpretation of the mammograms.
+
+(i) Patients who do not name a healthcare provider to receive the mammography report shall be sent the report described in paragraph (c)(1) of this section within 30 days, in addition to the written notification of results in lay terms. If the assessment of the mammography report is “Suspicious” or “Highly Suggestive of Malignancy,” the facility shall send this report to the patient within 7 calendar days of the final interpretation of the mammograms.
+
+(ii) Each facility that accepts patients who do not have a healthcare provider shall maintain a system for referring such patients to a healthcare provider when clinically indicated, which shall include when such patients' mammogram assessment is either probably benign, suspicious, or highly suggestive of malignancy.
+
+(iii) If the mammography report identifies the patient's breast density as “The breasts are almost entirely fatty” or “There are scattered areas of fibroglandular density,” the lay summary shall include the statement “Breast tissue can be either dense or not dense. Dense tissue makes it harder to find breast cancer on a mammogram and also raises the risk of developing breast cancer. Your breast tissue is not dense. Talk to your healthcare provider about breast density, risks for breast cancer, and your individual situation.”
+
+(iv) If the mammography report identifies the breast density as “The breasts are heterogeneously dense, which may obscure small masses” or “The breasts are extremely dense, which lowers the sensitivity of mammography,” the lay summary shall include the statement “Breast tissue can be either dense or not dense. Dense tissue makes it harder to find breast cancer on a mammogram and also raises the risk of developing breast cancer. Your breast tissue is dense. In some people with dense tissue, other imaging tests in addition to a mammogram may help find cancers. Talk to your healthcare provider about breast density, risks for breast cancer, and your individual situation.”
 
 (3) *Communication of mammography results to health care providers.* When the patient has a referring health care provider or the patient has named a health care provider, the facility shall:
 
 (i) Provide a written report of the mammography examination, including the items listed in paragraph (c)(1) of this section, to that health care provider as soon as possible, but no later than 30 days from the date of the mammography examination; and
 
-(ii) If the assessment is “Suspicious” or “Highly suggestive of malignancy,” make reasonable attempts to communicate with the health care provider as soon as possible, or if the health care provider is unavailable, to a responsible designee of the health care provider.
+(ii) If the assessment is “Suspicious” or “Highly Suggestive of Malignancy,” the facility shall provide a written report of the mammographic examination, including the items listed in paragraph (c)(1) of this section, to the referring healthcare provider, or if the referring healthcare provider is unavailable, to a responsible designee of the referring healthcare provider within 7 calendar days of the final interpretation of the mammograms.
 
 (4) *Recordkeeping.* Each facility that performs mammograms:
 
-(i) Shall (except as provided in paragraph (c)(4)(ii) of this section) maintain mammography films and reports in a permanent medical record of the patient for a period of not less than 5 years, or not less than 10 years if no additional mammograms of the patient are performed at the facility, or a longer period if mandated by State or local law; and
+(i) Shall (except as provided in paragraph (c)(4)(ii) of this section) maintain the original mammograms and mammography reports in a permanent medical record of the patient for the longest of the following: a period of not less than 5 years, a period of not less than 10 years if no additional mammograms of the patient are performed at the facility, or a period, if any, mandated by State or local law. Facilities shall implement policies and procedures to minimize the possibility of loss of these records. The original mammograms must be retained in retrievable form in the mammographic modality in which they were produced. They cannot be produced by copying or digitizing hardcopy originals.
 
-(ii) Shall upon request by, or on behalf of, the patient, permanently or temporarily transfer the original mammograms and copies of the patient's reports to a medical institution, or to a physician or health care provider of the patient, or to the patient directly;
+(ii) Shall upon request by, or on behalf of, the patient, permanently or temporarily transfer the original mammograms and copies of the patient's reports to a medical institution, a physician or healthcare provider of the patient, or to the patient directly during the time specified in paragraph (c)(4)(i) of this section. Transfer of the mammograms and mammography reports must take place within 15 calendar days of the facility receiving such request. The transferred mammograms must be in the mammographic modality in which they were produced, and cannot be produced by copying or digitizing hardcopy originals. For digital mammograms or digital breast tomosynthesis, if the examination is being transferred for final interpretation purposes, the facility must be able to provide the recipient with original digital images electronically;
 
-(iii) Any fee charged to the patients for providing the services in paragraph (c)(4)(ii) of this section shall not exceed the documented costs associated with this service.
+(iii) Shall upon request by, or on behalf of, the patient, provide copies of mammograms and copies of mammogram reports to a medical institution, a physician or healthcare provider of the patient, or to the patient directly during the time specified in paragraph (c)(4)(i) of this section. Release of the copies must take place within 15 calendar days of the facility receiving such request. For digital mammograms or digital breast tomosynthesis, if the copies are being released for final interpretation purposes, the facility must be able to provide the recipient with digital images electronically;
+
+(iv) Any fee charged to the patients for providing the services in paragraphs (c)(4)(ii) or (iii) of this section shall not exceed the documented costs associated with this service; and
+
+(v) Before a facility closes or ceases to provide mammography services, it must make arrangements for access by patients and healthcare providers to their mammographic records. This access may be provided by the permanent transfer of mammographic records to the patient or the patient's healthcare provider or the transfer of the mammographic records to a facility or other entity that will provide access to patients and healthcare providers. Access to the records must be provided by such other facility or entity for the remainder of the time periods specified in paragraph (c)(4)(i) of this section. If a facility ceases to perform mammography but continues to operate as a medical entity, and is able to satisfy the recordkeeping requirements of paragraphs (c)(4)(i) through (iv) of this section, it may choose to continue to retain the medical records rather than transfer them to another facility, unless such a transfer is requested by, or on behalf of, the patient. The facility must notify its accreditation body and certification agency in writing of the arrangements it has made and must make reasonable efforts to notify all affected patients.
 
 (5) *Mammographic image identification.* Each mammographic image shall have the following information indicated on it in a permanent, legible, and unambiguous manner and placed so as not to obscure anatomic structures:
 
@@ -408,11 +438,19 @@ Link to an amendment published at 88 FR 15168, Mar. 10, 2023.
 
 (f) *Quality assurance-mammography medical outcomes audit.* Each facility shall establish and maintain a mammography medical outcomes audit program to followup positive mammographic assessments and to correlate pathology results with the interpreting physician's findings. This program shall be designed to ensure the reliability, clarity, and accuracy of the interpretation of mammograms.
 
-(1) *General requirements.* Each facility shall establish a system to collect and review outcome data for all mammograms performed, including followup on the disposition of all positive mammograms and correlation of pathology results with the interpreting physician's mammography report. Analysis of these outcome data shall be made individually and collectively for all interpreting physicians at the facility. In addition, any cases of breast cancer among women imaged at the facility that subsequently become known to the facility shall prompt the facility to initiate followup on surgical and/or pathology results and review of the mammograms taken prior to the diagnosis of a malignancy.
+(1) *General requirements.* For the purposes of these audit requirements, a mammographic examination consisting of routine views of an asymptomatic patient shall be termed a screening mammogram, while a mammographic examination consisting of individualized views of a patient with breast symptoms, physical signs of breast disease, or abnormal findings on a screening mammogram shall be termed a diagnostic mammogram. Each facility shall establish a system to collect and review outcome data for all mammographic examinations performed, including followup on the disposition of all positive mammograms and correlation of pathology results with the interpreting physician's mammography report. In addition, for cases of breast cancer among patients imaged at the facility that subsequently become known to the facility, the facility shall promptly initiate followup on surgical and/or pathology results and review of the mammographic examinations taken prior to the diagnosis of a malignancy. Analysis of these outcome data shall be made individually and collectively for all interpreting physicians and, at a minimum, shall consist of a determination of the following:
+
+(i) Positive predictive value—percent of patients with positive mammograms who are diagnosed with breast cancer within 1 year of the date of the mammographic examination.
+
+(ii) Cancer detection rate—of the patients initially examined with screening mammograms who receive an assessment of “Incomplete: Need additional imaging evaluation,” “Suspicious,” or “Highly Suggestive of Malignancy” on the screening mammogram or on a subsequent diagnostic mammogram, the number of patients who are diagnosed with breast cancer within 1 year of the date of the initial screening mammogram, expressed arithmetically as a ratio per 1,000 patients.
+
+(iii) Recall rate—percentage of screening mammograms given an assessment of “Incomplete: Need additional imaging evaluation.”
 
 (2) *Frequency of audit analysis.* The facility's first audit analysis shall be initiated no later than 12 months after the date the facility becomes certified, or 12 months after April 28, 1999, whichever date is the latest. This audit analysis shall be completed within an additional 12 months to permit completion of diagnostic procedures and data collection. Subsequent audit analyses will be conducted at least once every 12 months.
 
 (3) *Audit interpreting physician.* Each facility shall designate at least one interpreting physician to review the medical outcomes audit data at least once every 12 months. This individual shall record the dates of the audit period(s) and shall be responsible for analyzing results based on this audit. This individual shall also be responsible for documenting the results and for notifying other interpreting physicians of their results and the facility aggregate results. If followup actions are taken, the audit interpreting physician shall also be responsible for documenting the nature of the followup.
+
+(4) The records and data required to demonstrate compliance with the requirements in paragraphs (f)(1) through (3) of this section must be retained until the annual inspection that follows the facility's analysis of that information.
 
 (g) *Mammographic procedure and techniques for mammography of patients with breast implants.* (1) Each facility shall have a procedure to inquire whether or not the patient has breast implants prior to the actual mammographic exam.
 
@@ -430,8 +468,8 @@ Link to an amendment published at 88 FR 15168, Mar. 10, 2023.
 
 (i) *Clinical image quality.* Clinical images produced by any certified facility must continue to comply with the standards for clinical image quality established by that facility's accreditation body.
 
-(j) *Additional mammography review and patient notification.* (1) If FDA believes that mammography quality at a facility has been compromised and may present a serious risk to human health, the facility shall provide clinical images and other relevant information, as specified by FDA, for review by the accreditation body or other entity designated by FDA. This additional mammography review will help the agency to determine whether the facility is in compliance with this section and, if not, whether there is a need to notify affected patients, their physicians, or the public that the reliability, clarity, and accuracy of interpretation of mammograms has been compromised.
+(j) *Additional mammography review and patient and referring provider notification.* (1) If FDA or the State certification agency believes that mammographic quality at a facility has been compromised and may present a significant risk to human health, the facility shall provide clinical images and other relevant information, as specified by FDA or the State certification agency, for review by the accreditation body or the State certification agency. This additional mammography review will help FDA or the State certification agency determine whether the facility is in compliance with this section and whether there is a need to notify affected patients, their referring physicians or other healthcare providers, and/or the public that there is a significant risk to human health.
 
-(2) If FDA determines that the quality of mammography performed by a facility, whether or not certified under § 900.11, was so inconsistent with the quality standards established in this section as to present a significant risk to individual or public health, FDA may require such facility to notify patients who received mammograms at such facility, and their referring physicians, of the deficiencies presenting such risk, the potential harm resulting, appropriate remedial measures, and such other relevant information as FDA may require. Such notification shall occur within a timeframe and in a manner specified by FDA.
+(2) Based on the results of the additional mammography review, the facility's failure to comply with the terms of the additional mammography review, or other information, FDA or the State certification agency may determine that the quality of mammography performed by a facility, whether or not certified under § 900.11, was so inconsistent with the quality standards established in this part as to present a significant risk to human health. FDA or the State certification agency may require such a facility to notify all patients who received mammograms at the facility or those patients who are determined to be at risk due to the quality of their mammography, and their referring physicians or other healthcare providers, of the deficiencies and resulting potential harm, appropriate remedial measures, and such other relevant information as FDA or the State certification agency may require. Such notification shall occur within a timeframe and in a manner specified by FDA or the State certification agency. If the facility is unable or unwilling to perform such notification, FDA or the State certification agency may notify patients and their referring physicians or other healthcare providers individually or through the mass media.
 
-[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 63 FR 56558, Oct. 22, 1998; 64 FR 18333, Apr. 14, 1999; 64 FR 32408, June 17, 1999; 65 FR 43690, July 14, 2000]
+[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 63 FR 56558, Oct. 22, 1998; 64 FR 18333, Apr. 14, 1999; 64 FR 32408, June 17, 1999; 65 FR 43690, July 14, 2000; 88 FR 15168, Mar. 10, 2023]

@@ -44,6 +44,6 @@
 
 (3) After receiving the provisional certificate, the facility may lawfully resume performing mammography services while completing the requirements for certification.
 
-(4) If a facility's certificate was revoked on the basis of an act described in 41 U.S.C. 263b(i)(1), no person who owned or operated that facility at the time the act occurred may own or operate a mammography facility within 2 years of the date of revocation.
+(4) If a facility's certificate was revoked on the basis of an act described in 42 U.S.C. 263b(i)(1), as implemented by § 900.14(a), no person who owned or operated that facility at the time the act occurred may own or operate a mammography facility within 2 years of the date of revocation.
 
-[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 83 FR 13864, Apr. 2, 2018]
+[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 83 FR 13864, Apr. 2, 2018; 88 FR 15168, Mar. 10, 2023]

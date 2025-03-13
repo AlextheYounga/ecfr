@@ -1,14 +1,14 @@
 ##### § 54.20-3 Design (modifies UW-9, UW-11(a), UW-13, and UW-16). #####
 
-(a) Fabrication by welding shall be in accordance with the provisions of this part and with part 57 of this subchapter.
+(a) Fabrication by welding must be in accordance with the provisions of this part and with part 57 of this subchapter.
 
-(b) Welding subject to UW-11(a) of section VIII of the ASME Boiler and Pressure Vessel Code (incorporated by reference; see 46 CFR 54.01-1) shall be modified as described in § 54.25-8 for radiographic examination.
+(b) Welding subject to UW-11(a) of Section VIII of the ASME BPVC (incorporated by reference; see § 54.01-1) must be modified as described in § 54.25-8 for radiographic examination.
 
-(c) A butt welded joint with one plate edge offset, as shown in Figure UW-13.1(k) of section VIII of the ASME Boiler and Pressure Vessel Code, may only be used for circumferential joints of Class II and Class III pressure vessels.
+(c) A butt-welded joint with one plate edge offset, as shown in Figure UW-13.1(k) of Section VIII of the ASME BPVC, may only be used for circumferential joints of Class II and Class III pressure vessels.
 
-(d) Attachment welds for nozzles and other connections shall be in accordance with UW-16 of section VIII of the ASME Boiler and Pressure Vessel Code. When nozzles or connections are made to pressure vessels, as shown in Figure UW-16.1 (a) and (c) of the ASME Code, and are welded from one side only, backing strips shall be used unless it can be determined visually that a full penetration weld has been achieved.
+(d) Attachment welds for nozzles and other connections must be in accordance with UW-16 of Section VIII of the ASME BPVC. When nozzles or connections are made to pressure vessels, as shown in Figure UW-16.1 (a) and (c) of the ASME BPVC, and are welded from one side only, backing strips must be used unless it can be determined visually that a full penetration weld has been achieved.
 
-(e) When fabricating by welding the minimum joint requirements shall be as specified under the column headed “minimum joint requirements” in table 54.01-5(b) for various classes of pressure vessels.
+(e) When fabricating by welding the minimum joint requirements must be as specified under the column headed “minimum joint requirements” in table 2 to § 54.01-5 for various classes of pressure vessels.
 
 (f) Joints in Class II or III pressure vessel cargo tanks must meet the following:
 

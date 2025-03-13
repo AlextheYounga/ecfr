@@ -1,6 +1,6 @@
 ##### § 62.10-1 Definitions. #####
 
-(a) For the purpose of this part:
+For the purpose of this part:
 
 *Alarm* means an audible and visual indication of a hazardous or potentially hazardous condition that requires attention.
 
@@ -8,23 +8,23 @@
 
 *Automatic control* means self-regulating in attaining or carrying out an operator-specified equipment response or sequence.
 
-*Boiler low-low water level* is the minimum safe level in the boiler, in no case lower than that visible in the gage glass (see § 52.01-110 of this chapter, Water Level Indicators).
+*Boiler low-low water level* is the minimum safe level in the boiler, in no case lower than that visible in the gage glass (see § 52.01-110 of this subchapter).
 
 *Engineering Control Center (ECC)* means the centralized engineering control, monitoring, and communications location.
 
-*Failsafe* means that upon failure or malfunction of a component, subsystem, or system, the output automatically reverts to a pre-determined design state of least critical consequence. Typical failsafe states are listed in Table 62.10-1(a).
+*Failsafe* means that upon failure or malfunction of a component, subsystem, or system, the output automatically reverts to a pre-determined design state of least critical consequence. Typical failsafe states are listed in the following table:
 
-|    System or component     |      Preferred failsafe state       |
-|----------------------------|-------------------------------------|
-|    Cooling water valve     |           As is or open.            |
-|        Alarm system        |             Annunciate.             |
-|       Safety system        |Shut down, limited, or as is & alarm.|
-|        Burner valve        |               Closed.               |
-|  Propulsion speed control  |               As is.                |
-|      Feedwater valve       |           As is or open.            |
-|Controllable pitch propeller|               As is.                |
-|   Propulsion safety trip   |           As is & alarm.            |
-|      Fuel tank valve       |         See § 56.50-60(d).          |
+|      System or component       |      Preferred failsafe state       |
+|--------------------------------|-------------------------------------|
+|    (1) Cooling water valve     |           As is or open.            |
+|        (2) Alarm system        |             Annunciate.             |
+|       (3) Safety system        |Shut down, limited, or as is & alarm.|
+|        (4) Burner valve        |               Closed.               |
+|  (5) Propulsion speed control  |               As is.                |
+|      (6) Feedwater valve       |           As is or open.            |
+|(7) Controllable pitch propeller|               As is.                |
+|   (8) Propulsion safety trip   |           As is & alarm.            |
+|      (9) Fuel tank valve       |See § 56.50-60(d) of this subchapter.|
 
 *Flooding safety* refers to flooding detection, watertight integrity, and dewatering systems.
 
@@ -32,7 +32,7 @@
 
 *Limit control* means a function of an automatic control system to restrict operation to a specified operating range or sequence without stopping the machinery.
 
-*Local control* means operator control from a location where the equipment and its output can be directly manipulated and observed, e.g., at the switchboard, motor controller, propulsion engine, or other equipment.
+*Local control* means operator control from a location where the equipment and its output can be directly manipulated and observed, *e.g.,* at the switchboard, motor controller, propulsion engine, or other equipment.
 
 *Manual control* means operation by direct or power-assisted operator intervention.
 
@@ -44,30 +44,30 @@
 
 *System* means a grouping or arrangement of elements that interact to perform a specific function and typically includes the following, as applicable:
 
-A fuel or power source.
+(1) A fuel or power source.
 
-Power conversion elements.
+(2) Power conversion elements.
 
-Control elements.
+(3) Control elements.
 
-Power transmission elements.
+(4) Power transmission elements.
 
-Instrumentation.
+(5) Instrumentation.
 
-Safety control elements.
+(6) Safety control elements.
 
-Conditioning elements.
+(7) Conditioning elements.
 
 *Vital system or equipment* is essential to the safety of the vessel, its passengers and crew. This typically includes, but is not limited to, the following:
 
-Fire detection, alarm, and extinguishing systems.
+(1) Fire detection, alarm, and extinguishing systems.
 
-Flooding safety systems.
+(2) Flooding safety systems.
 
-Ship service and emergency electrical generators, switchgear, and motor control circuits serving vital electrical loads.
+(3) Ship service and emergency electrical generators, switchgear, and motor control circuits serving vital electrical loads.
 
-The emergency equipment and systems listed in § 112.15 of this chapter.
+(4) The emergency equipment and systems listed in § 112.15 of this chapter.
 
-Propulsion systems, including those provided to meet § 58.01-35.
+(5) Propulsion systems, including those provided to meet § 58.01-35 of this subchapter.
 
-Steering systems.
+(6) Steering systems.

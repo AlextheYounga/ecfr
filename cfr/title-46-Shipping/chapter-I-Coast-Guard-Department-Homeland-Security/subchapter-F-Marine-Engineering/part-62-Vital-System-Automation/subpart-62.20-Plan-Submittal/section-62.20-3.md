@@ -6,7 +6,7 @@
 
 (2) A planned maintenance program for all vital systems.
 
-(b) One copy of a qualitative failure analysis must be submitted in accordance with § 50.20-5 of this chapter for the following:
+(b) One copy of a qualitative failure analysis must be submitted in accordance with § 50.20-5 of this subchapter for the following:
 
 (1) Propulsion controls.
 
@@ -20,7 +20,7 @@
 
 (6) Any other automation that, in the judgment of the Commandant, potentially constitutes a safety hazard to the vessel or personnel in case of failure.
 
-Note:
+Note 1 to paragraph (b):
 
 The qualitative failure analysis is intended to assist in evaluating the safety and reliability of the design. It should be conducted to a level of detail necessary to demonstrate compliance with applicable requirements and should follow standard qualitative analysis procedures. Assumptions, operating conditions considered, failures considered, cause and effect relationships, how failures are detected by the crew, alternatives available to the crew, and possible design verification tests necessary should be included. Questions regarding failure analysis should be referred to the Marine Safety Center at an early stage of design.
 

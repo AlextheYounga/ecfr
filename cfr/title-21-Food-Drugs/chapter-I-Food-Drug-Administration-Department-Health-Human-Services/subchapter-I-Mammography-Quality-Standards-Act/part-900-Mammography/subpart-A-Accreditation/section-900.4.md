@@ -1,7 +1,5 @@
 ##### § 900.4 Standards for accreditation bodies. #####
 
-Link to an amendment published at 88 FR 15168, Mar. 10, 2023.
-
 (a) *Code of conduct and general responsibilities.* The accreditation body shall accept the following responsibilities in order to ensure safe and accurate mammography at the facilities it accredits and shall perform these responsibilities in a manner that ensures the integrity and impartiality of accreditation body actions.
 
 (1)(i) When an accreditation body receives or discovers information that suggests inadequate image quality, or upon request by FDA, the accreditation body shall review a facility's clinical images or other aspects of a facility's practice to assist FDA in determining whether or not the facility's practice poses a serious risk to human health. Such reviews are in addition to the evaluation an accreditation body performs as part of the initial accreditation or renewal process for facilities.
@@ -26,7 +24,9 @@ Link to an amendment published at 88 FR 15168, Mar. 10, 2023.
 
 (ii) Unless FDA has approved the exclusive use and promotion of a particular commercial product in accordance with this section, all products produced, distributed, or sold by an accreditation body or an organization that has a financial or other relationship with the accreditation body that may be a conflict of interest or have the appearance of a conflict of interest with the body's accreditation functions, shall bear a disclaimer stating that the purchase or use of such products is not required for accreditation or certification of any facility under § 900.11(b). Any representations about such products shall include a similar disclaimer.
 
-(6) When an accreditation body denies accreditation to a facility, the accreditation body shall notify the facility in writing and explain the bases for its decision. The notification shall also describe the appeals process available from the accreditation body for the facility to contest the decision.
+(6)(i) When an accreditation body denies accreditation to a facility, the accreditation body shall notify the facility in writing and explain the bases for its decision. The notification shall also describe the appeals process available from the accreditation body for the facility to contest the decision.
+
+(ii) If a facility has failed to become accredited after three consecutive attempts, no accreditation body shall accept an application for accreditation from the facility for a period of 1 year from the date of the most recent accreditation failure.
 
 (7) No accreditation body may establish requirements that preclude facilities from being accredited under § 900.11(b) by any other accreditation body, or require accreditation by itself under MQSA if another accreditation body is available to a facility.
 
@@ -164,7 +164,7 @@ Link to an amendment published at 88 FR 15168, Mar. 10, 2023.
 
 (A) Assessment of overall clinical image QA activities of the facility;
 
-(B) Review of facility documentation to determine if appropriate mammography reports are sent to patients and physicians as required;
+(B) Review of facility documentation to determine if appropriate mammography reports are sent to patients and providers as required;
 
 (C) Selection of a sample of clinical images for clinical image review by the accreditation body. Clinical images shall be selected in a manner specified by the accreditation body and approved by FDA that does not compromise care of the patient as a result of the absence of the selected images from the facility;
 
@@ -210,4 +210,4 @@ Link to an amendment published at 88 FR 15168, Mar. 10, 2023.
 
 (2) At FDA's request, accreditation bodies shall provide financial records or other material to assist FDA in assessing the reasonableness of accreditation body fees. Such material shall be provided to FDA in a manner and time period specified by the agency.
 
-[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 64 FR 32407, June 17, 1999]
+[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 64 FR 32407, June 17, 1999; 88 FR 15168, Mar. 10, 2023]

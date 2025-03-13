@@ -1,7 +1,5 @@
 ##### § 900.15 Appeals of adverse accreditation or reaccreditation decisions that preclude certification or recertification. #####
 
-Link to an amendment published at 88 FR 15171, Mar. 10, 2023.
-
 (a) The appeals procedures described in this section are available only for adverse accreditation or reaccreditation decisions that preclude certification or recertification by FDA. Agency decisions to suspend or revoke certificates that are already in effect will be handled in accordance with § 900.14.
 
 (b) Upon learning that a facility has failed to become accredited or reaccredited, FDA will notify the facility that the agency is unable to certify that facility without proof of accreditation.
@@ -10,7 +8,7 @@ Link to an amendment published at 88 FR 15171, Mar. 10, 2023.
 
 (d) A facility that cannot achieve satisfactory resolution of an adverse accreditation decision through the accreditation body's appeal process is entitled to further appeal in accordance with procedures set forth in this section and in regulations published in 42 CFR part 498.
 
-(1) References to the Health Care Financing Administration (HCFA) in 42 CFR part 498 should be read as the Division of Mammography Quality and Radiation Programs (DMQRP), Center for Devices and Radiological Health, Food and Drug Administration.
+(1) References to the Centers for Medicare and Medicaid Services in 42 CFR part 498 should be read as the Division of Mammography Quality Standards (DMQS), Center for Devices and Radiological Health, Food and Drug Administration.
 
 (2) References to the Appeals Council of the Social Security Administration in 42 CFR part 498 should be read as references to the Departmental Appeals Board.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 88 FR 15171, Mar. 10, 2023.
 
 (6) A facility cannot perform mammography services while an adverse accreditation decision is being appealed.
 
-[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 75 FR 20916, Apr. 22, 2010; 85 FR 18443, Apr. 2, 2020]
+[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 75 FR 20916, Apr. 22, 2010; 85 FR 18443, Apr. 2, 2020; 88 FR 15171, Mar. 10, 2023]

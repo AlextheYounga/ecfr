@@ -1,10 +1,8 @@
 ##### § 64.11 Design of MPTs. #####
 
-Link to an amendment published at 89 FR 50199, June 12, 2024.
-
 An MPT must be designed—
 
-(a) In accordance with the ASME Code and this subpart;
+(a) In accordance with Section VIII of the ASME BPVC (incorporated by reference; see § 64.2) and this subpart;
 
 (b) With a maximum gross weight of 55,000 pounds;
 
@@ -16,4 +14,4 @@ An MPT must be designed—
 
 (f) To withstand dynamic loading conditions applied simultaneously.
 
-[CGD 84-043, 55 FR 37410, Sept. 11, 1990; 55 FR 40755, Oct. 4, 1990]
+[CGD 84-043, 55 FR 37410, Sept. 11, 1990; 55 FR 40755, Oct. 4, 1990; USCG-2020-0634, 89 FR 50199, June 12, 2024]

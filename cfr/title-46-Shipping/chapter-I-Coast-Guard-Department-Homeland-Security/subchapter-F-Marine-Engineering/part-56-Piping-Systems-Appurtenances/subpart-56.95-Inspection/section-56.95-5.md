@@ -1,3 +1,3 @@
 ##### § 56.95-5 Rights of access of marine inspectors. #####
 
-Marine inspectors shall have rights of access to any place where work concerned with the piping is being performed. This includes manufacture, fabrication, assembly, erection, and testing of the piping or system components. Marine inspectors shall have access to review all certifications or records pertaining to the inspection requirements of § 56.95-1, including certified qualifications for welders, welding operators, and welding procedures.
+Marine inspectors must have rights of access to any place where work concerned with the piping is being performed. This includes manufacture, fabrication, assembly, erection, and testing of the piping or system components. Marine inspectors must have access to review all certifications or records pertaining to the inspection requirements of § 56.95-1, including certified qualifications for welders, welding operators, and welding procedures.

@@ -1,6 +1,6 @@
 ##### § 54.20-5 Welding qualification tests and production testing (modifies UW-26, UW-28, UW-29, UW-47, and UW-48). #####
 
-(a) *Performance and procedure qualification.* No production welding shall be done until welding procedures and welders have been qualified in accordance with part 57 of this subchapter.
+(a) *Performance and procedure qualification.* No production welding must be done until welding procedures and welders have been qualified in accordance with part 57 of this subchapter.
 
 (b) *Tests.* Production tests are required in accordance with § 57.06-1 of this subchapter.
 

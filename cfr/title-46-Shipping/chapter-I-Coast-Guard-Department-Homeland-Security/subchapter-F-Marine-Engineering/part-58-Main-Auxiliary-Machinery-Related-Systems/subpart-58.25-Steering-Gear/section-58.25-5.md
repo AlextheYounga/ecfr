@@ -1,26 +1,26 @@
 ##### § 58.25-5 General. #####
 
-Link to an amendment published at 89 FR 50177, June 12, 2024.
-
-(a) Definitions.
+(a) The following definitions apply to this subpart:
 
 *Ancillary steering equipment* means steering equipment, other than the required control systems and power actuating systems, that either is not required, such as automatic pilot or non-followup control from the pilothouse, or is necessary to perform a specific required function, such as the automatic detection and isolation of a defective section of a tanker's hydraulic steering gear.
 
-*Auxiliary steering gear* means the equipment, other than any part of the main steering gear, necessary to steer the vessel in case of failure of the main steering gear, not including a tiller, quadrant, or other component serving the same purpose. Control system means the equipment by which orders for rudder movement are transmitted from the pilothouse to the steering-gear power units. A control system for steering gear includes, but is not limited to, one or more—
+*Auxiliary steering gear* means the equipment, other than any part of the main steering gear, necessary to steer the vessel in case of failure of the main steering gear, not including a tiller, quadrant, or other component serving the same purpose.
 
-(1) Transmitters;
+*Control system* means the equipment by which orders for rudder movement are transmitted from the pilothouse to the steering-gear power units. A control system for steering gear includes, but is not limited to, one or more—
 
-(2) Receivers;
+(i) Transmitters;
 
-(3) Feedback devices;
+(ii) Receivers;
 
-(4) Hydraulic servo-control pumps, with associated motors and motor controllers;
+(iii) Feedback devices;
 
-(5) Differential units, hunting gear, and similar devices;
+(iv) Hydraulic servo-control pumps, with associated motors and motor controllers;
 
-(6) All gearing, piping, shafting, cables, circuitry, and ancillary devices for controlling the output of power units; and
+(v) Differential units, hunting gear, and similar devices;
 
-(7) Means of bringing steering-gear power units into operation.
+(vi) All gearing, piping, shafting, cables, circuitry, and ancillary devices for controlling the output of power units; and
+
+(vii) Means of bringing steering-gear power units into operation.
 
 *Fast-acting valve,* as used in this subpart, means a ball, plug, spool, or similar valve with a handle connected for quick manual operation.
 
@@ -34,11 +34,11 @@ Link to an amendment published at 89 FR 50177, June 12, 2024.
 
 *Power actuating system* means the hydraulic equipment for applying torque to the rudder stock. It includes, but is not limited to—
 
-(1) Rudder actuators;
+(i) Rudder actuators;
 
-(2) Steering-gear power units; and
+(ii) Steering-gear power units; and
 
-(3) Pipes, valves, fittings, linkages, and cables for transmitting power from the power unit or units to the rudder actuator or actuators.
+(iii) Pipes, valves, fittings, linkages, and cables for transmitting power from the power unit or units to the rudder actuator or actuators.
 
 *Speedily regained,* as used in this subpart, refers to the time it takes one qualified crewmember, after arriving in the steering-gear compartment, and without the use of tools, to respond to a failure of the steering gear and take the necessary corrective action.
 
@@ -46,13 +46,13 @@ Link to an amendment published at 89 FR 50177, June 12, 2024.
 
 *Steering gear* means the machinery, including power actuating systems, control systems, and ancillary equipment, necessary for moving the rudder to steer the vessel.
 
-*Steering-gear power* unit means:
+*Steering-gear power unit* means:
 
-(1) In the case of electric steering gear, an electric motor and its associated electrical equipment, including motor controller, disconnect switch, and feeder circuit.
+(i) In the case of electric steering gear, an electric motor and its associated electrical equipment, including motor controller, disconnect switch, and feeder circuit.
 
-(2) In the case of an electro-hydraulic steering gear, an electric motor, connected pump, and associated electrical equipment such as the motor controller, disconnect switch, and feeder circuit.
+(ii) In the case of an electro-hydraulic steering gear, an electric motor, connected pump, and associated electrical equipment such as the motor controller, disconnect switch, and feeder circuit.
 
-(3) In the case of hydraulic steering gear, the pump and its prime mover.
+(iii) In the case of hydraulic steering gear, the pump and its prime mover.
 
 *Tank vessel,* as used in this subpart, means a self-propelled vessel, including a chemical tanker or a gas carrier, defined either as a tanker by 46 U.S.C. 2101(38) or as a tank vessel by 46 U.S.C. 2101(39).
 
@@ -64,7 +64,7 @@ Link to an amendment published at 89 FR 50177, June 12, 2024.
 
 (c) Each substantial replacement of steering-gear components or reconfiguration of steering-gear arrangements on an existing vessel must comply with the requirements of this subpart for new installations to the satisfaction of the cognizant Officer in Charge, Marine Inspection.
 
-(d) Each non-pressure-containing steering-gear component and each rudder stock must be of sound and reliable construction, meet the minimum material requirements of § 58.25-75, and be designed to standards at least equal to those established by the ABS Steel Vessel Rules (incorporated by reference, see 46 CFR 58.03-1).
+(d) Each non-pressure-containing steering-gear component and each rudder stock must be of sound and reliable construction, meet the minimum material requirements of § 58.25-75, and be designed to standards at least equal to those established by the ABS Marine Vessel Rules (incorporated by reference, see § 58.03-1).
 
 (e) The suitability of any essential steering-gear component not duplicated must be specifically approved by the Commanding Officer, Marine Safety Center. Where a steering-gear component is shared by—
 
@@ -88,4 +88,4 @@ Link to an amendment published at 89 FR 50177, June 12, 2024.
 
 (i) General arrangement plans for the main and auxiliary steering gear and their piping must be submitted for approval in accordance with subpart 50.20 of this subchapter.
 
-[CGD 83-043, 60 FR 24776, May 10, 1995, as amended by USCG-2003-16630, 73 FR 65187, Oct. 31, 2008]
+[CGD 83-043, 60 FR 24776, May 10, 1995, as amended by USCG-2003-16630, 73 FR 65187, Oct. 31, 2008; USCG-2020-0634, 89 FR 50173, June 12, 2024]

@@ -1,49 +1,53 @@
 ##### § 63.05-1 Incorporation by reference. #####
 
-Link to an amendment published at 89 FR 50196, June 12, 2024.
+Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Coast Guard must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at the U.S. Coast Guard and the National Archives and Records Administration (NARA). Contact U.S. Coast Guard Headquarters at: Commandant (CG-ENG), Attn: Office of Design and Engineering Standards, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE, Washington, DC 20593-7509; phone (202) 372-1375; email *typeapproval@uscg.mil*. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations* or email *fr.inspection@nara.gov*. The material may be obtained from the following sources:
 
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Coast Guard must publish notice of change in the Federal Register and the material must be available to the public. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* The material is also available for inspection at the Coast Guard Headquarters. Contact Commandant (CG-ENG), Attn: Office of Design and Engineering Systems, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509. The material is also available from the sources listed in paragraphs (b) through (g) of this section.
+(a) *American Society of Mechanical Engineers* (*ASME*), Two Park Avenue, New York, NY 10016-5990; 800-843-2763; *CustomerCare@asme.org*; *www.asme.org*.
 
-(b) *American Gas Association*, 1515 Wilson Boulevard, Arlington, VA 22209:
-
-(1) ANSI/AGA Z21.22-86 Relief Valves and Automatic Shutoff Devices for Hot Water Supply Systems, March 28, 1986 (“ANSI/AGA Z21.22”), 63.25-3; and
+(1) ASME CSD-1-2018, Controls and Safety Devices for Automatically Fired Boilers, issued October 12, 2018 (“ASME CSD-1”); IBR approved for §§ 63.10-1(b); 63.15-1(b); 63.20-1.
 
 (2) [Reserved]
 
-(c) *American Society of Mechanical Engineers (ASME) International*, Three Park Avenue, New York, NY 10016-5990:
+(b) *ASTM International* (ASTM), 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959; 610-832-9500; *service@astm.org*; *www.astm.org*.
 
-(1) ASME CSD-1-2004, Controls and Safety Devices for Automatically Fired Boilers (2004) (“ASME CSD-1”), 63.10-1; 63.15-1; 63.20-1; and
-
-(2) [Reserved]
-
-(d) *ASTM International (formerly American Society for Testing and Materials) (ASTM)*, 100 Barr Harbor Drive, West Conshohocken, PA 19428-2959:
-
-(1) ASTM F 1323-2001, Standard Specification for Shipboard Incinerators (2001) (“ASTM F 1323”), 63.25-9; and
+(1) ASTM F1323-14, Standard Specification for Shipboard Incinerators, approved November 1, 2014 (2001) (“ASTM F1323”); IBR approved for § 63.25-9(a).
 
 (2) [Reserved]
 
-(e) *International Maritime Organization (IMO)*, Publications Section, 4 Albert Embankment, London, SE1 7SR United Kingdom:
+(c) *Canadian Standards Association (CSA),* CSA Group, 5060 Spectrum Way, Suite 100, Mississauga, ON, Canada L4W 5N6; 416-474-2233; *techsupport@csagroup.org*; *https://shop.csa.ca*.
 
-(1) Resolution MEPC.76(40), Standard Specification for Shipboard Incinerators (Sep. 25, 1997) (“IMO MEPC.76(40)”), 63.25-9; and
+(1) ANSI Z21.22-2015/CSA 4.4-2015, Relief valves for hot water systems, July 2015 (“ANSI Z21.22”); IBR approved for § 63.25-3(a).
 
-(2) The International Convention for the Prevention of Pollution from Ships (MARPOL 73/78), Annexes I, II, III, and V (1978) (“IMO MARPOL 73/78”), 63.25-9
+(2) [Reserved]
 
-(f) *International Organization for Standardization (ISO)*, Case postale 56, CH-1211 Geneva 20, Switzerland:
+Note 1 to paragraph (c):
 
-(1) ISO 9096, Stationary source emissions—Manual determination of mass concentration of particulate matter, Second edition (Feb. 1, 2003) (“ISO 9096”), 63.25-9;
+CSA material also available from the American National Standards Institute (ANSI), 1899 L Street NW, 11th Floor, Washington, DC 20036; 202-293-8020; *info@ansi.org*; *www.ansi.org*.
 
-(2) ISO 10396, Stationary source emissions—Sampling for the automated determination of gas emission concentrations for permanently-installed monitoring systems, Second edition (Feb. 1, 2007) (“ISO 10396”), 63.25-9; and
+(d) *International Maritime Organization (IMO),* 4 Albert Embankment, London, SE1 7SR United Kingdom; +44 (0) 20 7735 7611; *sales@imo.org*; *www.imo.org*.
 
-(3) ISO 13617, Shipbuilding-Shipboard Incinerators—Requirements, Second Edition (Nov. 15, 2001) (“ISO 13617”), 63.25-9.
+(1) Resolution MEPC.76(40), Standard Specification for Shipboard Incinerators, September 25, 1997 (“IMO MEPC.76(40)”); IBR approved for § 63.25-9(a), (d), and (f).
 
-(g) *Underwriters' Laboratories, Inc. (UL)*, 12 Laboratory Drive, Research Triangle Park, NC 27709-3995:
+(2) Resolution MEPC.244(66), 2014 Standard Specification for Shipboard Incinerators, adopted April 14, 2014 (“IMO MEPC.244(66)”); IBR approved for § 63.25-9(g).
 
-(1) UL 174, Standard for Household Electric Storage Tank Water Heaters, Tenth Edition, Feb. 28, 1996 (Revisions through and including Nov. 10, 1997) (“UL 174”), 63.25-3;
+(3) The International Convention for the Prevention of Pollution from Ships (MARPOL 73/78), Annexes I, II, III, and V, 1978 (“IMO MARPOL 73/78”); IBR approved for § 63.25-9(c).
 
-(2) UL 296, Oil Burners (1993) (“UL 296”), 63.15-5;
+(e) *International Organization for Standardization* (ISO), Chemin de Blandonnet 8, CP 401-1214, Vernier, Geneva, Switzerland; +41 22 749 01 11; *central@iso.org*; *www.iso.org*.
 
-(3) UL 343, Pumps for Oil-Burning Appliances, Eighth Edition (May 27, 1997) (“UL 343”), 63.15-3; and
+(1) ISO 9096:2017(E), Stationary source emissions—Manual determination of mass concentration of particulate matter, Third Edition, September 1, 2017 (“ISO 9096”); IBR approved for § 63.25-9(f).
 
-(4) UL 1453, Standard for Electric Booster and Commercial Storage Tank Water Heaters, Fourth Edition (Sep. 1, 1995) (“UL 1453”), 63.25-3.
+(2) ISO 10396:2007(E), Stationary source emissions—Sampling for the automated determination of gas emission concentrations for permanently-installed monitoring systems, Second Edition, February 1, 2007 (“ISO 10396”); IBR approved for § 63.25-9(f).
 
-[USCG-2003-16630, 73 FR 65190, Oct. 31, 2008, as amended by USCG-2009-0702, 74 FR 49229, Sept. 25, 2009; USCG-2012-0832, 77 FR 59778, Oct. 1, 2012; USCG-2013-0671, 78 FR 60149, Sept. 30, 2013]
+(3) ISO 13617:2019(E), Ships and Marine Technology-Shipboard Incinerators—Requirements, Third Edition, August 2019 (“ISO 13617”); IBR approved for § 63.25-9(a).
+
+(f) *UL Solutions* (UL), 333 Pfingsten Road, Northbrook, IL 60062; 847-272-8800; *www.ul.com*.
+
+(1) UL 174, Standard for Safety, Household Electric Storage Tank Water Heaters, Eleventh Edition, dated April 29, 2004, including revisions through December 15, 2016 (“UL 174”); IBR approved for § 63.25-3(a) and (j).
+
+(2) UL 296, Standard for Safety, Oil Burners, Eleventh Edition, dated February 24, 2017 (“UL 296”); IBR approved for § 63.15-5(c).
+
+(3) UL 343, Standard for Safety, Pumps for Oil-Burning Appliances, Ninth Edition, dated December 17, 2008, including revisions through June 12, 2013 (“UL 343”); IBR approved for § 63.15-3(e).
+
+(4) UL 1453, Standard for Safety, Electric Booster and Commercial Storage Tank Water Heaters, 6th Edition, dated March 29, 2016, including revisions through March 9, 2017 (“UL 1453”); IBR approved for § 63.25-3(a) and (j).
+
+[USCG-2020-0634, 89 FR 50196, June 12, 2024]

@@ -1,7 +1,5 @@
 ##### § 900.2 Definitions. #####
 
-Link to an amendment published at 88 FR 15168, Mar. 10, 2023.
-
 The following definitions apply to subparts A, B, and C of this part:
 
 (a) *Accreditation body* or *body* means an entity that has been approved by FDA under § 900.3(d) to accredit mammography facilities.
@@ -12,7 +10,7 @@ The following definitions apply to subparts A, B, and C of this part:
 
 (1) Poor image quality;
 
-(2) Failure to send mammography reports within 30 days to the referring physician or in a timely manner to the self-referred patient; and
+(2) Failure to send mammography reports within 30 days to the referring healthcare provider or in a timely manner to the self-referred patient; and
 
 (3) Use of personnel that do not meet the applicable requirements of § 900.12(a).
 
@@ -30,7 +28,7 @@ The following definitions apply to subparts A, B, and C of this part:
 
 (j) *Clinical image* means a mammogram.
 
-(k) *Consumer* means an individual who chooses to comment or complain in reference to a mammography examination, including the patient or representative of the patient (e.g., family member or referring physician).
+(k) *Consumer* means an individual who chooses to comment or complain in reference to a mammography examination, including the patient or representative of the patient (*e.g.,* family member or referring healthcare provider).
 
 (l) *Continuing education unit* or *continuing education credit* means one contact hour of training.
 
@@ -68,13 +66,15 @@ The following definitions apply to subparts A, B, and C of this part:
 
 (y) *Mammogram* means a radiographic image produced through mammography.
 
-(z) *Mammographic modality* means a technology, within the scope of 42 U.S.C. 263b, for radiography of the breast. Examples are screen-film mammography and xeromammography.
+(z) *Mammographic modality* means a technology, within the scope of 42 U.S.C. 263b, for radiography of the breast. Examples are screen-film mammography, full field digital mammography, and digital breast tomosynthesis.
 
 (aa) *Mammography* means radiography of the breast, but, for the purposes of this part, does not include:
 
-(1) Radiography of the breast performed during invasive interventions for localization or biopsy procedures; or
+(1) Radiography of the breast performed during invasive interventions for localization or biopsy procedures;
 
-(2) Radiography of the breast performed with an investigational mammography device as part of a scientific study conducted in accordance with FDA's investigational device exemption regulations in part 812 of this chapter.
+(2) Radiography of the breast performed with an investigational mammography device as part of a scientific study conducted in accordance with FDA's investigational device exemption regulations in part 812 of this chapter; or
+
+(3) Computed tomography of the breast.
 
 (bb) *Mammography equipment evaluation* means an onsite assessment of mammography unit or image processor performance by a medical physicist for the purpose of making a preliminary determination as to whether the equipment meets all of the applicable standards in § 900.12(b) and (e).
 
@@ -90,7 +90,7 @@ The following definitions apply to subparts A, B, and C of this part:
 
 (hh) *Multi-reading* means two or more physicians, at least one of whom is an interpreting physician, interpreting the same mammogram.
 
-(ii) *Patient* means any individual who undergoes a mammography evaluation in a facility, regardless of whether the person is referred by a physician or is self-referred.
+(ii) *Patient* means any individual who undergoes a mammography evaluation in a facility, regardless of whether the person is referred by a healthcare provider or is self-referred.
 
 (jj) *Phantom* means a test object used to simulate radiographic characteristics of compressed breast tissue and containing components that radiographically model aspects of breast disease and cancer.
 
@@ -130,4 +130,4 @@ The following definitions apply to subparts A, B, and C of this part:
 
 (bbb) *Authorization* means obtaining approval from FDA to utilize new or changed State regulations or procedures during the issuance, maintenance, and withdrawal of certificates by the certification agency.
 
-[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 63 FR 56558, Oct. 22, 1998; 64 FR 32407, June 17, 1999; 67 FR 5467, Feb. 6, 2002]
+[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 63 FR 56558, Oct. 22, 1998; 64 FR 32407, June 17, 1999; 67 FR 5467, Feb. 6, 2002; 88 FR 15168, Mar. 10, 2023]

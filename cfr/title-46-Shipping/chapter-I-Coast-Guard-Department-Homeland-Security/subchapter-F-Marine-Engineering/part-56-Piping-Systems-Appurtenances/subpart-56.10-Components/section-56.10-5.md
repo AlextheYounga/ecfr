@@ -1,18 +1,20 @@
 ##### § 56.10-5 Pipe. #####
 
-(a) *General.* Pipe and tubing shall be selected as described in table 56.60-1(a).
+(a) *General.* Pipe and tubing must be selected as described in table 1 to § 56.60-1.
 
-(b) *Ferrous pipe.* ASTM Specification A 53 (incorporated by reference, see § 56.01-2) furnace welded pipe shall not be used for combustible or flammable liquids within machinery spaces. (See §§ 30.10-15 and 30.10-22 of this chapter.)
+(b) *Ferrous pipe.* ASTM A53/A53M (incorporated by reference, see § 56.01-2) furnace welded pipe must not be used for combustible or flammable liquids within machinery spaces. (See §§ 30.10-15 and 30.10-22 of this chapter for definitions of combustible and flammable liquids.)
 
-(c) *Nonferrous pipe.* (See also § 56.60-20.) (1) Copper and brass pipe for water and steam service may be used for design pressures up to 250 pounds per square inch and for design temperatures to 406 °F.
+(c) *Nonferrous pipe.* (See also § 56.60-20.)
 
-(2) Copper and brass pipe for air may be used in accordance with the allowable stresses found from table 56.60-1(a).
+(1) Copper and brass pipe for water and steam service may be used for design pressures up to 250 psig and for design temperatures to 406 °F.
 
-(3) Copper-nickel alloys may be used for water and steam service within the design limits of stress and temperature indicated in ASME B31.1 (incorporated by reference; see 46 CFR 56.01-2).
+(2) Copper and brass pipe for air may be used in accordance with the allowable stresses of the materials found from table 1 to § 56.60-1.
 
-(4) Copper tubing may be used for dead-end instrument service up to 1,000 pounds per square inch.
+(3) Copper-nickel alloys may be used for water and steam service within the design limits of stress and temperature indicated in ASME B31.1 (incorporated by reference; see § 56.01-2).
 
-(5) Copper, brass, or aluminum pipe or tube shall not be used for flammable fluids except where specifically permitted by this part.
+(4) Copper tubing may be used for instrument service up to 1,000 psig.
+
+(5) Copper, brass, or aluminum pipe or tube must not be used for flammable fluids except where specifically permitted by this part.
 
 (6) Aluminum-alloy pipe or tube along with similar junction equipment may be used within the limitation stated in 124.7 of ASME B31.1 and paragraph (c)(5) of this section.
 

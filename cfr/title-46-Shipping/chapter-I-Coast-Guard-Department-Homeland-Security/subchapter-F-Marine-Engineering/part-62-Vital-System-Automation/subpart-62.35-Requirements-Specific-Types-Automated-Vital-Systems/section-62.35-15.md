@@ -4,4 +4,6 @@
 
 (1) A firemain pressure indicator; or
 
-(2) A firemain low pressure alarm.
+(2) A firemain low-pressure alarm.
+
+(b) [Reserved]

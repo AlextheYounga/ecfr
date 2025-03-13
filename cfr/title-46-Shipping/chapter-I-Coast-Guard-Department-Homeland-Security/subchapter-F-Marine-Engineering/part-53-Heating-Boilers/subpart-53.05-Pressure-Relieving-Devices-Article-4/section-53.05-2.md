@@ -1,6 +1,6 @@
 ##### § 53.05-2 Relief valve requirements for hot water boilers (modifies HG-400.2). #####
 
-(a) The relief valve requirements for hot water boilers must be as indicated in article 4 of section IV of the ASME Boiler and Pressure Vessel Code (incorporated by reference; see 46 CFR 53.01-1) except as noted otherwise in this section.
+(a) *Relief valves.* The relief valve requirements for hot water boilers must be as indicated in article 4 of Section IV of the ASME BPVC (incorporated by reference; see § 53.01-1) except as noted otherwise in this section.
 
 (b) *Hot water heating boilers.* Each hot water heating boiler must have at least one safety relief valve.
 

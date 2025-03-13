@@ -1,6 +1,6 @@
 ##### § 52.01-5 Plans. #####
 
-(a) Manufacturers intending to fabricate boilers to be installed on vessels shall submit detailed plans as required by subpart 50.20 of this subchapter. The plans, including design calculations, must be certified by a registered professional engineer as meeting the design requirements in this part and in section I of the ASME Boiler and Pressure Vessel Code (incorporated by reference; see 46 CFR 52.01-1).
+(a) Manufacturers intending to fabricate boilers to be installed on vessels must submit detailed plans as required by subpart 50.20 of this subchapter. The plans, including design calculations, must be certified by a registered professional engineer as meeting the design requirements in this part and in Section I of the ASME BPVC (incorporated by reference; see § 52.01-1).
 
 (b) The following information must be included:
 
@@ -8,7 +8,7 @@
 
 (2) Joint design and methods of attachment of all pressure containment components.
 
-(3) A bill of material meeting the requirements of section I of the ASME Code, as modified by this subpart.
+(3) A bill of material meeting the requirements of Section I of the ASME BVPC, as modified by this subpart.
 
 (4) A diagrammatic arrangement drawing of the assembled unit indicating the location of internal and external components including any interconnecting piping.
 

@@ -1,6 +1,6 @@
 ##### § 56.90-5 Bolting procedure. #####
 
-(a) All flanged joints shall be fitted up so that the gasket contact faces bear uniformly on the gasket and then shall be made up with relatively uniform bolt stress. Bolt loading and gasket compression need only be verified by touch and visual observation.
+(a) All flanged joints must be fitted up so that the gasket contact faces bear uniformly on the gasket and then must be made up with relatively uniform bolt stress.
 
 (b) When bolting gasketed flanged joints, the gasket must be properly compressed in accordance with the design principles applicable to the type of gasket used.
 

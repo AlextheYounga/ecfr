@@ -2,7 +2,7 @@
 
 (a) *Manual propulsion control.* All vessels having remote propulsion control from the navigating bridge, an ECC or maneuvering platform, or elsewhere must have a manual alternate propulsion control located at the equipment.
 
-Note:
+Note 1 to paragraph (a):
 
 Separate local control locations may be provided for each independent propeller.
 
@@ -14,19 +14,19 @@ Separate local control locations may be provided for each independent propeller.
 
 (3) Shaft speed and thrust direction indicators for each independent propeller controlled;
 
-(4) The means to pass propulsion orders required by § 113.30-5 and § 113.35-3 of this chapter; and
+(4) The means to pass propulsion orders required by §§ 113.30-5 and 113.35-3 of this chapter; and
 
 (5) The means required by paragraph (d) of this section to achieve control location transfer and independence.
 
 (c) *Main navigating bridge propulsion control.* (1) Navigating bridge remote propulsion control must be performed by a single control device for each independent propeller. Control must include automatic performance of all associated services, and must not permit rate of movement of the control device to overload the propulsion machinery.
 
-(2) On vessels propelled by steam turbines, the navigation bridge primary control system must include safety limit controls for high and low boiler water levels and low steam pressure. Actuation of these limits must be alarmed on the navigating bridge and at the maneuvering platform or ECC.
+(2) On vessels propelled by steam turbines, the navigation bridge primary control system must include safety alarms for high and low boiler water levels and low steam pressure.
 
-(3) On vessels propelled by internal combustion engines, an alarm must annunciate on the navigating bridge and at the maneuvering platform or ECC, if provided, to indicate starting capability less than 50% of that required by § 62.35-35. If the primary remote control system provides automatic starting, the number of automatic consecutive attempts that fail to produce a start must be limited to reserve 50% of the required starting capability.
+(3) On vessels propelled by internal combustion engines, an alarm must annunciate on the navigating bridge and at the maneuvering platform or ECC, if provided, to indicate starting capability less than 50% of that required by § 62.35-35.
 
-(d) *Transfer of control location.* Transfer of control location must meet section 4-9-2/5.11 of the ABS Steel Vessel Rules (incorporated by reference; see 46 CFR 62.05-1). Manual alternative-propulsion-control locations must be capable of overriding, and of operating independent of, all remote and automatic propulsion-control locations.
+(d) *Transfer of control location.* Transfer of control location must meet section 4-9-2/13.11 of the ABS Marine Vessel Rules (incorporated by reference; see § 62.05-1). Manual alternative-propulsion-control locations must be capable of overriding, and of operating independent of, all remote and automatic propulsion-control locations.
 
-(e) *Control system details.* (1) Each operator control device must have a detent at the zero thrust position.
+(e) *Control system details.* (1) Each operator control device must have a detent at the zero-thrust position.
 
 (2) Propulsion machinery automatic safety trip control operation must only occur when continued operation could result in serious damage, complete breakdown, or explosion of the equipment. Other than the overrides mentioned in § 62.25-10(a)(4) and temporary overrides located at the main navigating bridge control location, overrides of these safety trip controls are prohibited. Operation of permitted overrides must be alarmed at the navigating bridge and at the maneuvering platform or ECC, as applicable, and must be guarded against inadvertent operation.
 

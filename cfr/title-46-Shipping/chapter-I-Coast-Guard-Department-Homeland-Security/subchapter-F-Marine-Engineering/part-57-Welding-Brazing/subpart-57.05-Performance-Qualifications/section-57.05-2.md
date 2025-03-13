@@ -7,3 +7,5 @@
 (2) A copy of the qualification test records of each welder together with employment records and identification data are transferred by the plant or company which qualified the welder to the new plant or company; and,
 
 (3) The new plant or company accepts the welder as qualified.
+
+(b) [Reserved]

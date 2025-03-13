@@ -1,0 +1,9 @@
+##### § 54.25-15 Low temperature operation—high alloy steels (modifies UHA-23(b) and UHA-51). #####
+
+(a) Toughness tests for the materials listed in UHA-51(a) in Section VIII of the ASME BPVC (incorporated by reference; see § 54.01-1) for service temperatures below −425 °F, UHA-51(b)(1) through (5) for service temperatures below 0 °F, and UHA-51(c) for all service temperatures, must be performed in accordance with the requirements of subpart 54.05. These requirements are also applicable to nonpressure vessel type, low temperature tanks and associated secondary barriers, as defined in § 38.05-4 in subchapter D of this chapter. Such tests are required regardless of the vessel's design stress. Service temperature is defined in § 54.25-10(a)(2).
+
+(b) Materials for pressure vessels with service temperatures below −320 °F must be of the stabilized or low carbon (less than 0.10 percent) austenitic stainless-steel type, produced according to the applicable specifications of table UHA-23 of Section VIII of the ASME BPVC. These materials and their weldments must be tested for toughness according to the requirements of subpart 54.05 except that the Charpy V-notch testing acceptance criteria will be in accordance with UHT-6(a)(4) and (5) of Section VIII of the ASME BPVC.
+
+(c) Except as permitted by § 54.05-30, the allowable stress values used in the design of low temperature pressure vessels may not exceed those given in table UHA-23 of Section VIII of the ASME BPVC for temperatures of −20 °F to 100 °F.
+
+[CGFR 68-82, 33 FR 18828, Dec. 18, 1968, as amended by CGD 73-133R, 39 FR 9178, Mar. 8, 1974; CGD 73-254, 40 FR 40164, Sept. 2, 1975; USCG-2003-16630, 73 FR 65171, Oct. 31, 2008]

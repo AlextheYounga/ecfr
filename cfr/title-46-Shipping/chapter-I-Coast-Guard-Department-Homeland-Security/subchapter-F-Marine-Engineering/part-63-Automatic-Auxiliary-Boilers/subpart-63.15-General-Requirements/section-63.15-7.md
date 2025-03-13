@@ -6,4 +6,4 @@
 
 (c) For steam boilers, operation of the lower low water cutoff must automatically sound an audible alarm. A visual indicator must indicate that the shutdown was caused by low water.
 
-(d) For a periodically unattended machinery space, the auxiliary boiler trip alarm required by 46 CFR 62.35-50, Table 62.35-50 satisfies the requirements for the audible alarms specified in this section.
+(d) For a periodically unattended machinery space, the auxiliary boiler trip alarm required by table 1 to § 62.35-50 of this subchapter satisfies the requirements for the audible alarms specified in this section.

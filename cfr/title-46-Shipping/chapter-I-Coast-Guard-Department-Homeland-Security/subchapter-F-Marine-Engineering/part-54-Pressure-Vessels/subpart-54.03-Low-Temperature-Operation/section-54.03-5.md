@@ -1,6 +1,6 @@
 ##### § 54.03-5 General. #####
 
-(a) Requirements for ferritic steels, high alloy steels, and heat treated ferritic steels are contained in §§ 54.25-10, 54.25-15, and 54.25-20 respectively of this subchapter.
+(a) Requirements for ferritic steels, high alloy steels, and heat-treated ferritic steels are contained in §§ 54.25-10, 54.25-15, and 54.25-20, respectively.
 
 (b) Requirements for toughness testing of material product forms and weldments (including weld procedure qualification and production toughness tests) are contained in subpart 54.05.
 

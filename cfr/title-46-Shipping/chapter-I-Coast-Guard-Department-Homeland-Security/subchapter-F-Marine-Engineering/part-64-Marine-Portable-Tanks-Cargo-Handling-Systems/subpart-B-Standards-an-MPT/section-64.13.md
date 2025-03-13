@@ -1,11 +1,11 @@
 ##### § 64.13 Allowable stress; tank. #####
 
-Link to an amendment published at 89 FR 50199, June 12, 2024.
+(a) The calculated stress in the tank under design conditions, including dynamic loading conditions applied simultaneously, must not exceed the allowable stress listed in Section VIII of the ASME BPVC (incorporated by reference; see § 64.2), for a design temperature of 122 °F.
 
-(a) The calculated stress in the tank under design conditions, including dynamic loading conditions applied simultaneously, must not exceed the allowable stress listed in Division 1 of section VIII of the ASME Code, for a design temperature of 122 °F.
+(b) The calculated stress in the tank at test pressure must not exceed 75 percent of the minimum yield stress, or 37.5 percent of the minimum tensile stress of the material, whichever is less.
 
-(b) The calculated stress in the tank at test pressure must not exceed 75 percent of the minimum yield stress,1 or 37.5 percent of the minimum tensile stress1 of the material, whichever is less.
+Note 1 to paragraph (b):
 
-1 Listed in Division 1 of section VIII of the ASME Code.
+The minimum yield stress and minimum tensile stress are listed in Section VIII of the ASME BPVC.
 
-[CGD 73-172, 39 FR 22950, June 25, 1974, as amended by CGD 84-043, 55 FR 37410, Sept. 11, 1990]
+[USCG-2020-0634, 89 FR 50199, June 12, 2024]

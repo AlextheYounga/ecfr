@@ -1,8 +1,8 @@
 ##### § 54.01-30 Loadings (modifies UG-22). #####
 
-(a) The loadings for pressure vessels shall be as required by UG-22 of section VIII of the ASME Boiler and Pressure Vessel Code (incorporated by reference; see 46 CFR 54.01-1) except as noted otherwise in this section.
+(a) The loadings for pressure vessels must be as required by UG-22 of Section VIII of the ASME BPVC (incorporated by reference; see § 54.01-1) except as noted otherwise in this section.
 
-(b) In evaluating loadings for certain pressure vessel applications, the Commandant may require consideration of the following loads in addition to those listed in UG-22 of section VIII of the ASME Boiler and Pressure Vessel Code:
+(b) In evaluating loadings for certain pressure vessel applications, the Commandant may require consideration of the following loads in addition to those listed in UG-22 of Section VIII of the ASME BPVC:
 
 (1) Loading imposed by vessel's attitude in roll, list, pitch and trim.
 

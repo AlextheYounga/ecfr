@@ -1,13 +1,13 @@
 ##### § 64.57 Acceptance of pressure relief devices. #####
 
-Link to an amendment published at 89 FR 50199, June 12, 2024.
-
 A pressure relief device for an MPT must be—
 
-(a) From a supplier2 accepted under chapter I of title 46, Code of Federal Regulations; or
+(a) From a supplier accepted under chapter I of title 46, Code of Federal Regulations; or
 
-2 Accepted suppliers are listed in CG-190, *Equipment list.*
+Note 1 to paragraph (a):
 
-(b) Accepted by the Coast Guard in accordance with the procedures in § 50.25-10 of this chapter.
+Accepted suppliers are listed in CG-190, *Equipment list.*
 
-[CGD 84-043, 55 FR 37410, Sept. 11, 1990]
+(b) Accepted by the Coast Guard in accordance with the procedures in § 50.25-10 of this subchapter.
+
+[CGD 84-043, 55 FR 37410, Sept. 11, 1990, as amended by USCG-2020-0634, 89 FR 50199, June 12, 2024]

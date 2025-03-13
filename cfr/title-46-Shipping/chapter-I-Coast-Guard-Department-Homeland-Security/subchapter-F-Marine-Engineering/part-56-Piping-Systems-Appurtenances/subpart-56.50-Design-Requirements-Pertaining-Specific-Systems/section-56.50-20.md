@@ -1,10 +1,10 @@
 ##### § 56.50-20 Pressure relief piping. #####
 
-(a) *General.* There must be no intervening stop valves between the vessel or piping system being protected and its protective device or devices, except as specifically provided for in other regulations or as specifically authorized by the Marine Safety Center.
+(a) *General.* There must be no intervening stop valves between the pressure vessel or piping system being protected and its protective device or devices, except as authorized by the Marine Safety Center.
 
-(b) *Discharge lines (reproduces 122.6.2(d)).* Discharge lines from pressure-relieving safety devices shall be designed to facilitate drainage.
+(b) *Discharge lines.* (Reproduces 122.6.2(d).) Discharge lines from pressure-relieving safety devices must be designed to facilitate drainage.
 
-(c) *Stop valves.* Stop valves between the safety or relief valve and the point of discharge are not permitted, except as specifically provided for in other regulations or as specifically approved by the Marine Safety Center.
+(c) *Stop valves.* Stop valves between the safety or relief valve and the point of discharge are not permitted, except as specifically approved by the Marine Safety Center.
 
 (d) *Reference.* See also § 56.07-10(a) and (b) for specific requirements.
 

@@ -1,7 +1,5 @@
 ##### § 58.25-25 Indicating and alarm systems. #####
 
-Link to an amendment published at 89 FR 50178, June 12, 2024.
-
 (a) Indication of the rudder angle must be provided both at the main steering station in the pilothouse and in the steering-gear compartment. The rudder-angle indicator must be independent of control systems for steering gear.
 
 (b) Each electric-type rudder-angle indicator must comply with § 113.40-10 of this chapter and, in accordance with § 112.15-5(h) of this chapter, draw its power from the source of emergency power.
@@ -24,8 +22,6 @@ Link to an amendment published at 89 FR 50178, June 12, 2024.
 
 (3) Occurrence of a low oil level in any oil reservoir of a hydraulic, power-operated steering-gear system.
 
-Note:
-
-See § 62.50-30(f) of this subchapter regarding extension of alarms to the navigating bridge on vessels with periodically unattended machinery spaces.
-
 (f) Each power motor for the main and auxiliary steering gear must have a “motor running” indicator light in the pilothouse, and in the machinery space, that activates when the motor is energized.
+
+[CGD 83-043, 60 FR 24776, May 10, 1995, as amended by USCG-2020-0634, 89 FR 50178, June 12, 2024]

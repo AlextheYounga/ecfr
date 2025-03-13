@@ -2,7 +2,7 @@
 
 (a) This part contains requirements for the various ships' and barges' piping systems and appurtenances.
 
-(b) The respective piping systems installed on ships and barges shall have the necessary pumps, valves, regulation valves, safety valves, relief valves, flanges, fittings, pressure gages, liquid level indicators, thermometers, etc., for safe and efficient operation of the vessel.
+(b) The respective piping systems installed on ships and barges must have the necessary pumps, valves, regulation valves, safety valves, relief valves, flanges, fittings, pressure gages, liquid level indicators, thermometers, etc., for safe and efficient operation of the vessel.
 
 (c) Piping for industrial systems on mobile offshore drilling units need not fully comply with the requirements of this part but must meet subpart 58.60 of this subchapter.
 

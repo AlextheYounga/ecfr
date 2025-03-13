@@ -54,18 +54,6 @@
 
 (d) *Instrument proficiency check.* (1) Except as provided in paragraph (e) of this section, a person who has failed to meet the instrument experience requirements of paragraph (c) of this section for more than six calendar months may reestablish instrument currency only by completing an instrument proficiency check. The instrument proficiency check must include the areas of operation contained in the applicable Airman Certification Standards (incorporated by reference, see § 61.14) as listed in appendix A of this part as appropriate to the rating held.
 
-(i) Air traffic control clearances and procedures;
-
-(ii) Flight by reference to instruments;
-
-(iii) Navigation systems;
-
-(iv) Instrument approach procedures;
-
-(v) Emergency operations; and
-
-(vi) Postflight procedures.
-
 (2) The instrument proficiency check must be—
 
 (i) In an aircraft that is appropriate to the aircraft category;

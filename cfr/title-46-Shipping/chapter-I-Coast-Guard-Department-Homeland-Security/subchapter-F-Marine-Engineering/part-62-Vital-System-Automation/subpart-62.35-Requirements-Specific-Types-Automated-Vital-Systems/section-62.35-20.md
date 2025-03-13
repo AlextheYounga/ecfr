@@ -1,6 +1,6 @@
 ##### § 62.35-20 Oil-fired main boilers. #####
 
-(a) *General.* (1) All main boilers, regardless of intended mode of operation, must be provided with the automatic safety trip control system(s) of paragraphs (h)(1), (h)(2)(i), (h)(2) (ii), and (i) of this section to prevent unsafe conditions after light off.
+(a) *General.* (1) All main boilers, regardless of intended mode of operation, must be provided with the automatic safety trip control system(s) of paragraphs (h)(1), (h)(2)(i) and (ii), and (i) of this section to prevent unsafe conditions after light off.
 
 (2) Manual alternate control of boilers must be located at the boiler front.
 
@@ -51,10 +51,6 @@
 (d) *Programming control.* The programming control must provide a programed sequence of interlocks for the safe ignition and normal shutdown of the boiler burners. The programming control must prevent ignition if unsafe conditions exist and must include the following minimum sequence of events and interlocks:
 
 (1) *Prepurge.* Boilers must undergo a continuous purge of the combustion chamber and convecting spaces to make sure of a minimum of 5 changes of air. The purge must not be less than 15 seconds in duration, and must occur immediately prior to the trial for ignition of the initial burner of a boiler. All registers and dampers must be open and an air flow of at least 25 percent of the full load volumetric air flow must be proven before the purge period commences. The prepurge must be complete before trial for ignition of the initial burner.
-
-Note:
-
-A pre-purge is not required immediately after a complete post-purge.
 
 (2) *Trial for ignition and ignition.* (i) Only one burner per boiler is to be in trial for ignition at any time.
 

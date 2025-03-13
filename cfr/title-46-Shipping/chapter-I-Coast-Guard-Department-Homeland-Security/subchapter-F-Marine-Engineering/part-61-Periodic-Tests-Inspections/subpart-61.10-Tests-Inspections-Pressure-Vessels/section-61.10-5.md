@@ -1,7 +1,5 @@
 ##### § 61.10-5 Pressure vessels in service. #####
 
-Link to an amendment published at 89 FR 50188, June 12, 2024.
-
 (a) *Basic requirements.* Each pressure vessel must be examined or tested every 5 years. The extent of the test or examination should be that necessary to determine that the pressure vessel's condition is satisfactory and that the pressure vessel is fit for the service intended.
 
 (b) *Internal and external tests and inspections.* (1) Each pressure vessel listed on the Certificate of Inspection must be thoroughly examined externally every 5 years.
@@ -34,13 +32,15 @@ Link to an amendment published at 89 FR 50188, June 12, 2024.
 
 (f) *Compressed gas or hazardous liquid pressure vessel tests.* Cargo tanks of pressure vessel configuration containing liquefied, compressed gases or hazardous liquids must be inspected and tested as required by the applicable regulations published in subchapter D or subchapter I of this chapter.
 
-(g) *Bulk storage tanks.* Each bulk storage tank containing refrigerated liquefied CO2 for use aboard a vessel as a fire-extinguishing agent shall be subjected to a hydrostatic test of 11/2 times the maximum allowable working pressure in the tenth year of the installation and at ten-year intervals thereafter. After the test, the tank should be drained and an internal examination made. Parts of the jacket and lagging on the underside of the tank designated by the marine inspector must be removed at the time of the test so the marine inspector may determine the external condition of the tank.
+(g) *Bulk storage tanks.* (1) Each bulk storage tank containing refrigerated liquefied CO2 for use aboard a vessel as a fire-extinguishing agent must be subjected to a hydrostatic test of 1.5 times the maximum allowable working pressure in the 10th year of the installation and at 10-year intervals thereafter. After the test, the tank should be drained, and an internal examination made. Parts of the jacket and lagging designated by the marine inspector must be removed at the time of the test so the marine inspector may determine the condition of the tank.
+
+(2) In lieu of the requirements contained in paragraph (g)(1) of this section, in the 10th year of installation and at 10-year intervals thereafter, each bulk storage tank containing refrigerated liquefied CO2 for use aboard a vessel as a fire-extinguishing agent which contains a manhole or means to enter, may undergo an internal examination by a marine inspector. Bulk storage tanks which have been satisfactorily examined internally by a marine inspector and in which no defects have been found which impair the safety of the pressure vessel will not require a hydrostatic test. When a defect is found during the internal examination that, in the judgment of the marine inspector, may affect the safety of the pressure vessel, the pressure vessel must be hydrostatically tested at a pressure of 1.5 times the maximum allowable working pressure, unless alternative means, acceptable to the Officer in Charge, Marine Inspection, are used to ensure the safe operation of the pressure vessel.
 
 (h) *Pneumatic tests.* (1) Pressure vessels that were pneumatically tested before being stamped with the Coast Guard Symbol must be examined internally twice every 5 years and examined externally at each Inspection for Certification. No more than 3 years may elapse between any external examination and its immediate predecessor.
 
 (2) For tanks whose design precludes a thorough internal or external examination, the thickness must be determined by a nondestructive method acceptable to the Officer in Charge, Marine Inspection.
 
-(3) If (due to the product carried) your vessel's inspection intervals are prescribed in subchapter D (Tank Vessels), subchapter I (Cargo and Miscellaneous Vessels), or subchapter I-A (Mobile Offshore Drilling Units), you must comply with the pneumatic test regulations there, instead of the ones in this section.
+(3) If (due to the product carried) your vessel's inspection intervals are prescribed in subchapter D, subchapter I, or subchapter I-A, all of this chapter, you must comply with the pneumatic test regulations there, instead of the ones in this section.
 
 (i) *Safety or relief valves on pressure vessels.* (1) If your vessel's Certificate of Inspection is renewed annually, the marine inspector must check the settings of the safety or relief valves on all pressure vessels, except cargo tanks, at each inspection for certification.
 
@@ -48,4 +48,4 @@ Link to an amendment published at 89 FR 50188, June 12, 2024.
 
 (3) Cargo tank safety or relief valves must be checked at the interval required in subchapter D (Tank Vessels) or subchapter I (Cargo and Miscellaneous Vessels) of this chapter.
 
-[CGFR 68-82, 33 FR 18890, Dec. 18, 1968, as amended by CGFR 69-127, 35 FR 9980, June 17, 1970; CGD 73-251, 43 FR 56801, Dec. 4, 1978; CGD 77-147, 47 FR 21811, May 20, 1982; CGD 86-033, 53 FR 36024, Sept. 16, 1988; CGD 83-043, 60 FR 24782, May 10, 1995; CGD 95-028, 62 FR 51202, Sept. 30, 1997; USCG-1999-6216, 64 FR 53225, Oct. 1, 1999; USCG-1999-4976, 65 FR 6500, Feb. 9, 2000]
+[CGFR 68-82, 33 FR 18890, Dec. 18, 1968, as amended by CGFR 69-127, 35 FR 9980, June 17, 1970; CGD 73-251, 43 FR 56801, Dec. 4, 1978; CGD 77-147, 47 FR 21811, May 20, 1982; CGD 86-033, 53 FR 36024, Sept. 16, 1988; CGD 83-043, 60 FR 24782, May 10, 1995; CGD 95-028, 62 FR 51202, Sept. 30, 1997; USCG-1999-6216, 64 FR 53225, Oct. 1, 1999; USCG-1999-4976, 65 FR 6500, Feb. 9, 2000; USCG-2020-0634, 89 FR 50188, June 12, 2024]
