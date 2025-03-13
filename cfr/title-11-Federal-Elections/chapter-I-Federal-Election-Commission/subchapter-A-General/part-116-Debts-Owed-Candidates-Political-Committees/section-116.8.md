@@ -14,7 +14,7 @@
 
 (iv) Owes debts to other creditors of such magnitude that the creditor could reasonably conclude that the ongoing committee will not pay this particular debt.
 
-(b) *Procedures for forgiving debts.* A creditor that intends to forgive a debt owed by an ongoing committee shall notify the Commission in writing of its intent. The letter shall demonstrate that the requirements set forth in paragraph (a) of this section are satisfied. The letter shall provide the following information—
+(b) *Procedures for forgiving debts.* A creditor that intends to forgive a debt owed by an ongoing committee shall notify the Commission in writing of its intent. The notification shall demonstrate that the requirements set forth in paragraph (a) of this section are satisfied. The notification shall provide the following information—
 
 (1) The terms of the initial extension of credit and a description of the terms under which the creditor has extended credit to nonpolitical debtors of similar risk and size of obligation;
 

@@ -2,7 +2,7 @@
 
 (a) *General.* (1) To become eligible to receive payments under 11 CFR part 9005, the Presidential and Vice Presidential candidates of a political party shall agree in a writing signed by the candidates to the Commission that they and their authorized committee(s) shall comply with the conditions set forth in 11 CFR 9003.1(b).
 
-(2) Major party candidates shall sign and submit such agreement to the Commission within 14 days after receiving the party's nomination for election. Minor and new party candidates shall sign and submit such letter within 14 days after such candidates have qualified to appear on the general election ballot in 10 or more states pursuant to 11 CFR 9002.2(a)(2). The Commission, on written request by a minor or new party candidate, at any time prior to the date of the general election, may extend the deadline for filing such agreement except that the deadline shall be a date prior to the date of the general election.
+(2) Major party candidates shall sign and submit such agreement to the Commission within 14 days after receiving the party's nomination for election. Minor and new party candidates shall sign and submit such agreement within 14 days after such candidates have qualified to appear on the general election ballot in 10 or more states pursuant to 11 CFR 9002.2(a)(2). The Commission, on written request by a minor or new party candidate, at any time prior to the date of the general election, may extend the deadline for filing such agreement except that the deadline shall be a date prior to the date of the general election.
 
 (b) *Conditions.* The candidates shall:
 

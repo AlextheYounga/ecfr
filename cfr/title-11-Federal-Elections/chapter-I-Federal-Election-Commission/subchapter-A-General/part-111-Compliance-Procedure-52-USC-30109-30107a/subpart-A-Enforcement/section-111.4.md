@@ -1,6 +1,6 @@
 ##### § 111.4 Complaints (52 U.S.C. 30109(a)(1)). #####
 
-(a) Any person who believes that a violation of any statute or regulation over which the Commission has jurisdiction has occurred or is about to occur may file a complaint in writing addressed to the General Counsel”; and remove the phrase “three (3) copies” and add in its place “three (3) copies of any complaint not filed electronically.= If possible, three (3) copies should be submitted.
+(a) Any person who believes that a violation of any statute or regulation over which the Commission has jurisdiction has occurred or is about to occur may file a complaint in writing addressed to the General Counsel three (3) copies of any complaint not filed electronically. If possible, three (3) copies should be submitted.
 
 (b) A complaint shall comply with the following:
 

@@ -4,7 +4,7 @@
 
 (2) The Commission will not consider a candidate's threshold submission until the candidate has submitted a candidate agreement that meets the requirements of this section.
 
-(b) *Conditions.*The candidate shall agree that:
+(b) *Conditions.* The candidate shall agree that:
 
 (1) The candidate has the burden of proving that disbursements by the candidate or any authorized committee(s) or agents thereof are qualified campaign expenses as defined at 11 CFR 9032.9.
 

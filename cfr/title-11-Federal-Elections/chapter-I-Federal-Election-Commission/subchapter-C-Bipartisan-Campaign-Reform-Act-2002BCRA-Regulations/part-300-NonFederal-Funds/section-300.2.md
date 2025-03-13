@@ -90,7 +90,7 @@
 
 (ii) A communication that provides instructions on how or where to send contributions or donations, including providing a phone number specifically dedicated to facilitating the making of contributions or donations. However, a communication does not, in and of itself, satisfy the definition of “to solicit” merely because it includes a mailing address or phone number that is not specifically dedicated to facilitating the making of contributions or donations.
 
-(iii) A communication that identifies a website address where the Web page displayed is specifically dedicated to facilitating the making of a contribution or donation, or automatically redirects the Internet user to such a page, or exclusively displays a link to such a page. However, a communication does not, in and of itself, satisfy the definition of “to solicit” merely because it includes the address of a web page that is not specifically dedicated to facilitating the making of a contribution or donation.
+(iii) A communication that identifies a website address where the web page displayed is specifically dedicated to facilitating the making of a contribution or donation, or automatically redirects the Internet user to such a page, or exclusively displays a link to such a page. However, a communication does not, in and of itself, satisfy the definition of “to solicit” merely because it includes the address of a web page that is not specifically dedicated to facilitating the making of a contribution or donation.
 
 (2) The following statements constitute solicitations:
 

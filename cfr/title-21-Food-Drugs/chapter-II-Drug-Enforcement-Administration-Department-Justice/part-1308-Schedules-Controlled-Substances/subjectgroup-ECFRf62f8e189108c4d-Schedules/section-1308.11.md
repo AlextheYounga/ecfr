@@ -68,7 +68,7 @@
 |                                 (61) 4′-Methyl acetyl fentanyl (N-(1-(4-methylphenethyl)piperidin-4-yl)-N-phenylacetamide)                                  |9819|
 |                                   (62) 3-Methylfentanyl (N-[3-methyl-1-(2-phenylethyl)-4-piperidyl]-N-phenylpropanamide)                                    |9813|
 |                                (63) 3-Methylthiofentanyl (N-[3-methyl-1-(2-thienylethyl)-4-piperidinyl]-N-phenylpropanamide)                                |9833|
-|                                (64) Metodesnitazene (N,N-diethyl-2-(2-(4-methoxybenzyl)-1H-benzimidazol-1-yl)ethan-1-amine)                                 |    |
+|                                (64) Metodesnitazene (N,N-diethyl-2-(2-(4-methoxybenzyl)-1H-benzimidazol-1-yl)ethan-1-amine)                                 |9764|
 |                              (65) Metonitazene (N,N-diethyl-2-(2-(4-methoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-amine)                              |9757|
 |                                                                      (66) Morpheridine                                                                      |9632|
 |                                                    (67) MPPP (1-methyl-4-phenyl-4-propionoxypiperidine)                                                     |9661|
