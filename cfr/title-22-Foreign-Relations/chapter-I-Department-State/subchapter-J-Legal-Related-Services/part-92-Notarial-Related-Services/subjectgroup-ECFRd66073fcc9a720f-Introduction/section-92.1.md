@@ -1,5 +1,7 @@
 ##### § 92.1 Definitions. #####
 
+Link to an amendment published at 89 FR 85430, Oct. 28, 2024.
+
 (a) In the United States the term *notary* or *notary public* means a public officer qualified and bonded under the laws of a particular jurisdiction for the performance of notarial acts, usually in connection with the execution of some document.
 
 (b) The term *notarial act* means an act recognized by law or usage as pertaining to the office of a notary public.

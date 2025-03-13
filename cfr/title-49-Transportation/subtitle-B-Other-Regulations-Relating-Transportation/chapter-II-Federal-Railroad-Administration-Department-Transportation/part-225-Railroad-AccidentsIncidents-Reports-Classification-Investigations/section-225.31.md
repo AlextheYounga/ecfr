@@ -1,6 +1,6 @@
 ##### § 225.31 Investigations. #####
 
-Link to an amendment published at 89 FR 79776, Oct. 1, 2024.
+Link to an amendment published at 89 FR 79776, Oct. 1, 2024.The effective date of this amendment was corrected to read Nov. 15, 2024, at 89 FR 85450, Oct. 28, 2024.
 
 (a) It is the policy of the FRA to investigate rail transportation accidents/incidents which result in the death of a railroad employee or the injury of five or more persons. Other accidents/incidents are investigated when it appears that an investigation would substantially serve to promote railroad safety.
 

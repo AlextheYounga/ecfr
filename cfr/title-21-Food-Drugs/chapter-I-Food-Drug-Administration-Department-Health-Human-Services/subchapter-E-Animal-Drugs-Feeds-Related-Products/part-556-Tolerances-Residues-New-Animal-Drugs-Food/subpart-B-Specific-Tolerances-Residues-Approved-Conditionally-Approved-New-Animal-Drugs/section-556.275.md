@@ -24,6 +24,10 @@
 
 (ii) [Reserved]
 
+(6) *Quail.* (i) Liver (target tissue): 6 ppm fenbendazole sulfone (marker residue).
+
+(ii) [Reserved]
+
 (c) *Related conditions of use.* See §§ 520.905a, 520.905b, 520.905c, 520.905d, and 558.258 of this chapter.
 
-[84 FR 32993, July 11, 2019, as amended at 86 FR 57998, Oct. 20, 2021; 86 FR 61686, Nov. 8, 2021]
+[84 FR 32993, July 11, 2019, as amended at 86 FR 57998, Oct. 20, 2021; 86 FR 61686, Nov. 8, 2021; 89 FR 85428, Oct. 28, 2024]

@@ -8,9 +8,7 @@
 
 (1) Nos. 016592 and 061133 for use of products described in paragraph (a) of this section as in paragraph (d) of this section.
 
-(2) No. 066104 for use of product described in paragraph (a)(1) of this section as in paragraph (d) of this section.
-
-(3) No. 051072 for use of product described in paragraph (a)(1) of this section as in paragraph (d)(1) of this section.
+(2) Nos. 051072 and 066104 for use of product described in paragraph (a)(1) of this section as in paragraph (d) of this section.
 
 (c) *Related tolerances.* See § 556.50 of this chapter.
 
@@ -30,4 +28,4 @@
 
 (ii) *Limitations.* Withdraw 24 hours before slaughter. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal. Use as the sole source of amprolium.
 
-[71 FR 56346, Sept. 27, 2006, as amended at 72 FR 60551, Oct. 25, 2007; 73 FR 45611, Aug. 6, 2008; 73 FR 70276, Nov. 20, 2008; 74 FR 10484, Mar. 11, 2009; 76 FR 38554, July 1, 2011; 76 FR 40808, July 12, 2011; 78 FR 23, Jan. 2, 2013; 78 FR 17596, Mar. 22, 2013; 78 FR 57058, Sept. 17, 2013; 81 FR 22523, Apr. 18, 2016; 81 FR 59133, Aug. 29, 2016; 84 FR 8972, Mar. 13, 2019; 86 FR 13184, Mar. 8, 2021]
+[71 FR 56346, Sept. 27, 2006, as amended at 72 FR 60551, Oct. 25, 2007; 73 FR 45611, Aug. 6, 2008; 73 FR 70276, Nov. 20, 2008; 74 FR 10484, Mar. 11, 2009; 76 FR 38554, July 1, 2011; 76 FR 40808, July 12, 2011; 78 FR 23, Jan. 2, 2013; 78 FR 17596, Mar. 22, 2013; 78 FR 57058, Sept. 17, 2013; 81 FR 22523, Apr. 18, 2016; 81 FR 59133, Aug. 29, 2016; 84 FR 8972, Mar. 13, 2019; 86 FR 13184, Mar. 8, 2021; 89 FR 85426, Oct. 28, 2024]

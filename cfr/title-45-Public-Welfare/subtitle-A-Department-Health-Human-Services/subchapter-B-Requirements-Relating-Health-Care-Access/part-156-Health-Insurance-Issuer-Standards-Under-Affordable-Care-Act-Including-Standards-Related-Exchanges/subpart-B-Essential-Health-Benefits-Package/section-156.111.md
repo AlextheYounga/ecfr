@@ -50,6 +50,12 @@
 
 (*4*) The benefits in the plan are from a plan year beginning after December 31, 2013.
 
+(iii) Not have benefits unduly weighted towards any of the categories of benefits at § 156.110(a);
+
+(iv) Provide benefits for diverse segments of the population, including women, children, persons with disabilities, and other groups; and
+
+(v) Not include discriminatory benefit designs that contravene the non-discrimination standards defined in § 156.125.
+
 (c) The State must provide reasonable public notice and an opportunity for public comment on the State's selection of an EHB-benchmark plan that includes posting a notice on its opportunity for public comment with associated information on a relevant State website.
 
 (d) A State must notify HHS of the selection of a new EHB-benchmark plan by the first Wednesday in May of the year that is 2 years before the effective date of the new EHB-benchmark plan.
@@ -68,4 +74,4 @@
 
 (4) Other documentation specified by HHS, which is necessary to operationalize the State's EHB-benchmark plan.
 
-[83 FR 17068, Apr. 17, 2018, as amended at 85 FR 29261, May 14, 2020; 87 FR 27390, May 6, 2022; 89 FR 26424, Apr. 15, 2024]
+[83 FR 17068, Apr. 17, 2018, as amended at 85 FR 29261, May 14, 2020; 87 FR 27390, May 6, 2022; 89 FR 26424, Apr. 15, 2024; 89 FR 85431, Oct. 28, 2024]

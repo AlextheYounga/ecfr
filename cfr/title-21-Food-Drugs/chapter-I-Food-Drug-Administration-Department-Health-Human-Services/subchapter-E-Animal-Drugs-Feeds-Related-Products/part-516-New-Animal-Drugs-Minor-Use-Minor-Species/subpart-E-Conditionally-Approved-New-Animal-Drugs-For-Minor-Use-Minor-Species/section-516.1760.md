@@ -1,6 +1,6 @@
 ##### § 516.1760 Phenobarbital. #####
 
-(a) *Specifications.* Each tablet contains 16.2, 32.4, 64.8, or 97.2 milligrams (mg) phenobarbital.
+(a) *Specifications.* Each tablet contains 15, 16.2, 30, 32.4, 60, 64.8, 97.2 or 100 milligrams (mg) phenobarbital.
 
 (b) *Sponsor.* See No. 064950 in § 510.600(c) of this chapter.
 
@@ -10,4 +10,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian. It is a violation of Federal law to use this product other than as directed in the labeling.
 
-[88 FR 84699, Dec. 6, 2023]
+[88 FR 84699, Dec. 6, 2023; 89 FR 85426, Oct. 28, 2024]

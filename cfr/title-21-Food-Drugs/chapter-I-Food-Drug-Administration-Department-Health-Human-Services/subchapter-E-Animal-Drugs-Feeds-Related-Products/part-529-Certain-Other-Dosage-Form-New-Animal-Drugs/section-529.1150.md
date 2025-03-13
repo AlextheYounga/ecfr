@@ -14,7 +14,7 @@
 
 (iii) Freshwater-reared salmonids for the control of mortality due to bacterial gill disease associated with *Flavobacterium branchiophilum:* 100 mg/L for 30 minutes, or 50 to 100 mg/L for 60 minutes, in a continuous flow water supply or as a static bath once per day on alternate days for three treatments.
 
-(iv) Freshwater-reared salmonids for the treatment and control of *Gyrodactylus spp:* 100 mg/L for 30 minutes, or 50 to 100 mg/L for 60 minutes, in a continuous flow water supply or as a static bath once per day on alternate days for three treatments.
+(iv) Freshwater-reared salmonids for the treatment and control of *Gyrodactylus* spp: 100 mg/L for 30 minutes, or 50 mg/L for 60 minutes, in a continuous flow water supply or as a static bath once per day on alternate days for three treatments.
 
 (v) Freshwater-reared coolwater and warmwater finfish fingerlings and adults for the control of mortality due to external columnaris disease associated with *Flavobacterium columnare:* 50 to 75 mg/L for 60 minutes in continuous flow water supply or as a static bath once per day on alternate days for three treatments.
 
@@ -28,4 +28,4 @@
 
 (iv) Preharvest withdrawal time: Zero days.
 
-[72 FR 5330, Feb. 6, 2007, as amended at 78 FR 73698, Dec. 9, 2013; 85 FR 4208, Jan. 24, 2020]
+[72 FR 5330, Feb. 6, 2007, as amended at 78 FR 73698, Dec. 9, 2013; 85 FR 4208, Jan. 24, 2020; 89 FR 85428, Oct. 28, 2024]

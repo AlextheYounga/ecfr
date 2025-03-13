@@ -50,10 +50,10 @@
 
 (ii) For treatment of anemia due to iron deficiency, administer 100 mg by intramuscular injection. Treatment may be repeated in 10 days.
 
-(7) Nos. 016592 and 042552 for use of product described in paragraph (a)(2) of this section as follows:
+(7) Nos. 016592, 042552, and 058005 for use product described in paragraph (a)(2) of this section as follows:
 
 (i) For prevention of anemia due to iron deficiency, intramuscularly inject 200 mg of elemental iron (1 mL) at 1 to 3 days of age.
 
 (ii) For treatment of anemia due to iron deficiency, intramuscularly inject 200 mg of elemental iron at the first sign of anemia.
 
-[73 FR 12635, Mar. 10, 2008, as amended at 73 FR 14385, Mar. 18, 2008; 78 FR 17597, Mar. 22, 2013; 78 FR 44433, July 24, 2013; 79 FR 16190, Mar. 25, 2014; 81 FR 22524, Apr. 18, 2016; 81 FR 59134, Aug. 29, 2016; 82 FR 11508, Feb. 24, 2017; 83 FR 48946, Sept. 28, 2018; 86 FR 14820, Mar. 19, 2021]
+[73 FR 12635, Mar. 10, 2008, as amended at 73 FR 14385, Mar. 18, 2008; 78 FR 17597, Mar. 22, 2013; 78 FR 44433, July 24, 2013; 79 FR 16190, Mar. 25, 2014; 81 FR 22524, Apr. 18, 2016; 81 FR 59134, Aug. 29, 2016; 82 FR 11508, Feb. 24, 2017; 83 FR 48946, Sept. 28, 2018; 86 FR 14820, Mar. 19, 2021; 89 FR 85427, Oct. 28, 2024]

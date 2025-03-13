@@ -30,7 +30,7 @@
 
 (C) The accessible versions are provided to students or educators and stored by the educational institution in a manner intended to reasonably prevent unauthorized further dissemination of a work.
 
-(ii) For purposes of paragraph (b)(2) of this section,
+(ii) For purposes of this paragraph (b)(2):
 
 (A) “Audio description” means an oral narration that provides an accurate rendering of the motion picture;
 
@@ -66,9 +66,11 @@
 
 (B) The copy of each motion picture is lawfully acquired and owned by the institution, or licensed to the institution without a time limitation on access;
 
-(C) The person undertaking the circumvention views or listens to the contents of the motion pictures in the corpus solely for the purpose of verification of the research findings; and
+(C) The person undertaking the circumvention or conducting research or teaching under this exemption views or listens to the contents of the motion pictures in the corpus solely to conduct text and data mining research or teaching;
 
-(D) The institution uses effective security measures to prevent further dissemination or downloading of motion pictures in the corpus, and to limit access to only the persons identified in paragraph (b)(4)(i)(A) of this section or to researchers affiliated with other institutions of higher education solely for purposes of collaboration or replication of the research.
+(D) The institution uses effective security measures to prevent dissemination or downloading of motion pictures in the corpus, and upon a reasonable request from a copyright owner who reasonably believes that their work is contained in the corpus, or a trade association representing such author, provide information to that copyright owner or trade association regarding the nature of such measures; and
+
+(E) The institution limits access to the corpus to only the persons identified in paragraph (b)(4)(i)(A) of this section or to researchers affiliated with other nonprofit institutions of higher education, with all access provided only through secure connections and on the condition of authenticated credentials, solely for purposes of text and data mining research or teaching.
 
 (ii) For purposes of paragraph (b)(4)(i) of this section:
 
@@ -84,7 +86,11 @@
 
 (*5*) Is accredited by a nationally recognized accrediting agency or association.
 
-(B) The term “effective security measures” means security measures that have been agreed to by interested copyright owners of motion pictures and institutions of higher education; or, in the absence of such measures, those measures that the institution uses to keep its own highly confidential information secure. If the institution uses the security measures it uses to protect its own highly confidential information, it must, upon a reasonable request from a copyright owner whose work is contained in the corpus, provide information to that copyright owner regarding the nature of such measures.
+(B) The term “effective security measures” is defined as:
+
+(*1*) Security measures that have been agreed to by all interested copyright owners of motion pictures and institutions of higher education; or
+
+(*2*) Security measures that the institution uses to keep its own highly confidential information secure.
 
 (5)(i) Literary works, excluding computer programs and compilations that were compiled specifically for text and data mining purposes, distributed electronically where:
 
@@ -92,25 +98,31 @@
 
 (B) The copy of each literary work is lawfully acquired and owned by the institution, or licensed to the institution without a time limitation on access;
 
-(C) The person undertaking the circumvention views the contents of the literary works in the corpus solely for the purpose of verification of the research findings; and
+(C) The person undertaking the circumvention or conducting research or teaching under this exemption views the contents of the literary works in the corpus solely to conduct text and data mining research or teaching;
 
-(D) The institution uses effective security measures to prevent further dissemination or downloading of literary works in the corpus, and to limit access to only the persons identified in paragraph (b)(5)(i)(A) of this section or to researchers or to researchers affiliated with other institutions of higher education solely for purposes of collaboration or replication of the research.
+(D) The institution uses effective security measures to prevent dissemination or downloading of literary works in the corpus, and upon a reasonable request from a copyright owner who reasonably believes that their work is contained in the corpus, or a trade association representing such author, provide information to that copyright owner or trade association regarding the nature of such measures; and
+
+(E) The institution limits access to the corpus to only the persons identified in paragraph (b)(5)(i)(A) of this section or to researchers affiliated with other nonprofit institutions of higher education, with all access provided only through secure connections and on the condition of authenticated credentials, solely for purposes of text and data mining research or teaching.
 
 (ii) For purposes of paragraph (b)(5)(i) of this section:
 
 (A) An institution of higher education is defined as one that:
 
-(1) Admits regular students who have a certificate of graduation from a secondary school or the equivalent of such a certificate;
+(*1*) Admits regular students who have a certificate of graduation from a secondary school or the equivalent of such a certificate;
 
-(2) Is legally authorized to provide a postsecondary education program;
+(*2*) Is legally authorized to provide a post secondary education program;
 
-(3) Awards a bachelor's degree or provides not less than a two-year program acceptable towards such a degree;
+(*3*) Awards a bachelor's degree or provides not less than a two-year program acceptable towards such a degree;
 
-(4) Is a public or other nonprofit institution; and
+(*4*) Is a public or other nonprofit institution; and
 
-(5) Is accredited by a nationally recognized accrediting agency or association.
+(*5*) Is accredited by a nationally recognized accrediting agency or association.
 
-(B) The term “effective security measures” means security measures that have been agreed to by interested copyright owners of literary works and institutions of higher education; or, in the absence of such measures, those measures that the institution uses to keep its own highly confidential information secure. If the institution uses the security measures it uses to protect its own highly confidential information, it must, upon a reasonable request from a copyright owner whose work is contained in the corpus, provide information to that copyright owner regarding the nature of such measures.
+(B) The term “effective security measures” is defined as:
+
+(*1*) Security measures that have been agreed to by all interested copyright owners of literary works and institutions of higher education; or
+
+(*2*) Security measures that the institution uses to keep its own highly confidential information secure.
 
 (6)(i) Literary works or previously published musical works that have been fixed in the form of text or notation, distributed electronically, that are protected by technological measures that either prevent the enabling of read-aloud functionality or interfere with screen readers or other applications or assistive technologies:
 
@@ -134,25 +146,33 @@
 
 (13) Computer programs that are contained in and control the functioning of a lawfully acquired motorized land vehicle or marine vessel such as a personal automobile or boat, commercial vehicle or vessel, or mechanized agricultural vehicle or vessel, except for programs accessed through a separate subscription service, when circumvention is a necessary step to allow the diagnosis, repair, or lawful modification of a vehicle or vessel function, where such circumvention is not accomplished for the purpose of gaining unauthorized access to other copyrighted works. Eligibility for this exemption is not a safe harbor from, or defense to, liability under other applicable laws, including without limitation regulations promulgated by the Department of Transportation or the Environmental Protection Agency.
 
-(14) Computer programs that are contained in and control the functioning of a lawfully acquired device that is primarily designed for use by consumers, when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such a device, and is not accomplished for the purpose of gaining access to other copyrighted works. For purposes of this paragraph (b)(14):
+(14) Computer programs that are contained in and control the functioning of a lawfully acquired motorized land vehicle or marine vessel such as a personal automobile or boat, commercial vehicle or vessel, or mechanized agricultural vehicle or vessel, except for programs accessed through a separate subscription service, to allow vehicle or vessel owners and lessees, or those acting on their behalf, to access, store, and share operational data, including diagnostic and telematics data, where such circumvention is not accomplished for the purpose of gaining unauthorized access to other copyrighted works. Eligibility for this exemption is not a safe harbor from, or defense to, liability under other applicable laws, including without limitation regulations promulgated by the Department of Transportation or the Environmental Protection Agency.
+
+(15) Computer programs that are contained in and control the functioning of a lawfully acquired device that is primarily designed for use by consumers, when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such a device, and is not accomplished for the purpose of gaining access to other copyrighted works. For purposes of this paragraph (b)(15):
 
 (i) The “maintenance” of a device is the servicing of the device in order to make it work in accordance with its original specifications and any changes to those specifications authorized for that device; and
 
 (ii) The “repair” of a device is the restoring of the device to the state of working in accordance with its original specifications and any changes to those specifications authorized for that device. For video game consoles, “repair” is limited to repair or replacement of a console's optical drive and requires restoring any technological protection measures that were circumvented or disabled.
 
-(15) Computer programs that are contained in and control the functioning of a lawfully acquired medical device or system, and related data files, when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such a device or system. For purposes of this paragraph (b)(15):
+(16) Computer programs that are contained in and control the functioning of lawfully acquired equipment that is primarily designed for use in retail-level commercial food preparation when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such a device, and is not accomplished for the purpose of gaining access to other copyrighted works. For purposes of this paragraph (b)(16):
+
+(i) The “maintenance” of a device is the servicing of the device in order to make it work in accordance with its original specifications and any changes to those specifications authorized for that device; and
+
+(ii) The “repair” of a device is the restoring of the device to the state of working in accordance with its original specifications and any changes to those specifications authorized for that device.
+
+(17) Computer programs that are contained in and control the functioning of a lawfully acquired medical device or system, and related data files, when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such a device or system. For purposes of this paragraph (b)(17):
 
 (i) The “maintenance” of a device or system is the servicing of the device or system in order to make it work in accordance with its original specifications and any changes to those specifications authorized for that device or system; and
 
 (ii) The “repair” of a device or system is the restoring of the device or system to the state of working in accordance with its original specifications and any changes to those specifications authorized for that device or system.
 
-(16)(i) Computer programs, where the circumvention is undertaken on a lawfully acquired device or machine on which the computer program operates, or is undertaken on a computer, computer system, or computer network on which the computer program operates with the authorization of the owner or operator of such computer, computer system, or computer network, solely for the purpose of good-faith security research.
+(18)(i) Computer programs, where the circumvention is undertaken on a lawfully acquired device or machine on which the computer program operates, or is undertaken on a computer, computer system, or computer network on which the computer program operates with the authorization of the owner or operator of such computer, computer system, or computer network, solely for the purpose of good-faith security research.
 
-(ii) For purposes of paragraph (b)(16)(i) of this section, “good-faith security research” means accessing a computer program solely for purposes of good-faith testing, investigation, and/or correction of a security flaw or vulnerability, where such activity is carried out in an environment designed to avoid any harm to individuals or the public, and where the information derived from the activity is used primarily to promote the security or safety of the class of devices or machines on which the computer program operates, or those who use such devices or machines, and is not used or maintained in a manner that facilitates copyright infringement.
+(ii) For purposes of paragraph (b)(18)(i) of this section, “good-faith security research” means accessing a computer program solely for purposes of good-faith testing, investigation, and/or correction of a security flaw or vulnerability, where such activity is carried out in an environment designed to avoid any harm to individuals or the public, and where the information derived from the activity is used primarily to promote the security or safety of the class of devices or machines on which the computer program operates, or those who use such devices or machines, and is not used or maintained in a manner that facilitates copyright infringement.
 
-(iii) Good-faith security research that qualifies for the exemption under paragraph (b)(16)(i) of this section may nevertheless incur liability under other applicable laws, including without limitation the Computer Fraud and Abuse Act of 1986, as amended and codified in title 18, United States Code, and eligibility for that exemption is not a safe harbor from, or defense to, liability under other applicable laws.
+(iii) Good-faith security research that qualifies for the exemption under paragraph (b)(18)(i) of this section may nevertheless incur liability under other applicable laws, including without limitation the Computer Fraud and Abuse Act of 1986, as amended and codified in title 18, United States Code, and eligibility for that exemption is not a safe harbor from, or defense to, liability under other applicable laws.
 
-(17)(i) Video games in the form of computer programs embodied in physical or downloaded formats that have been lawfully acquired as complete games, when the copyright owner or its authorized representative has ceased to provide access to an external computer server necessary to facilitate an authentication process to enable gameplay, solely for the purpose of:
+(19)(i) Video games in the form of computer programs embodied in physical or downloaded formats that have been lawfully acquired as complete games, when the copyright owner or its authorized representative has ceased to provide access to an external computer server necessary to facilitate an authentication process to enable gameplay, solely for the purpose of:
 
 (A) Permitting access to the video game to allow copying and modification of the computer program to restore access to the game for personal, local gameplay on a personal computer or video game console; or
 
@@ -160,13 +180,13 @@
 
 (ii) Video games in the form of computer programs embodied in physical or downloaded formats that have been lawfully acquired as complete games, that do not require access to an external computer server for gameplay, and that are no longer reasonably available in the commercial marketplace, solely for the purpose of preservation of the game in a playable form by an eligible library, archives, or museum, where such activities are carried out without any purpose of direct or indirect commercial advantage and the video game is not distributed or made available outside of the physical premises of the eligible library, archives, or museum.
 
-(iii) Computer programs used to operate video game consoles solely to the extent necessary for an eligible library, archives, or museum to engage in the preservation activities described in paragraph (b)(17)(i)(B) or (b)(17)(ii) of this section.
+(iii) Computer programs used to operate video game consoles solely to the extent necessary for an eligible library, archives, or museum to engage in the preservation activities described in paragraph (b)(19)(i)(B) or (b)(19)(ii) of this section.
 
-(iv) For purposes of this paragraph (b)(17), the following definitions shall apply:
+(iv) For purposes of this paragraph (b)(19), the following definitions shall apply:
 
-(A) For purposes of paragraphs (b)(17)(i)(A) and (b)(17)(ii) of this section, “complete games” means video games that can be played by users without accessing or reproducing copyrightable content stored or previously stored on an external computer server.
+(A) For purposes of paragraphs (b)(19)(i)(A) and (b)(19)(ii) of this section, “complete games” means video games that can be played by users without accessing or reproducing copyrightable content stored or previously stored on an external computer server.
 
-(B) For purposes of paragraph (b)(17)(i)(B) of this section, “complete games” means video games that meet the definition in paragraph (b)(17)(iv)(A) of this section, or that consist of both a copy of a game intended for a personal computer or video game console and a copy of the game's code that was stored or previously stored on an external computer server.
+(B) For purposes of paragraph (b)(19)(i)(B) of this section, “complete games” means video games that meet the definition in paragraph (b)(19)(iv)(A) of this section, or that consist of both a copy of a game intended for a personal computer or video game console and a copy of the game's code that was stored or previously stored on an external computer server.
 
 (C) “Ceased to provide access” means that the copyright owner or its authorized representative has either issued an affirmative statement indicating that external server support for the video game has ended and such support is in fact no longer available or, alternatively, server support has been discontinued for a period of at least six months; provided, however, that server support has not since been restored.
 
@@ -182,11 +202,11 @@
 
 (*4*) The collections of the library, archives, or museum are composed of lawfully acquired and/or licensed materials; and
 
-(*5*) The library, archives, or museum implements reasonable digital security measures as appropriate for the activities permitted by this paragraph (b)(17).
+(*5*) The library, archives, or museum implements reasonable digital security measures as appropriate for the activities permitted by this paragraph (b)(19).
 
-(18)(i) Computer programs, except video games, that have been lawfully acquired and that are no longer reasonably available in the commercial marketplace, solely for the purpose of lawful preservation of a computer program, or of digital materials dependent upon a computer program as a condition of access, by an eligible library, archives, or museum, where such activities are carried out without any purpose of direct or indirect commercial advantage. Any electronic distribution, display, or performance made outside of the physical premises of an eligible library, archives, or museum of works preserved under this paragraph may be made to only one user at a time, for a limited time, and only where the library, archives, or museum has no notice that the copy would be used for any purpose other than private study, scholarship, or research.
+(20)(i) Computer programs, except video games, that have been lawfully acquired and that are no longer reasonably available in the commercial marketplace, solely for the purpose of lawful preservation of a computer program, or of digital materials dependent upon a computer program as a condition of access, by an eligible library, archives, or museum, where such activities are carried out without any purpose of direct or indirect commercial advantage. Any electronic distribution, display, or performance made outside of the physical premises of an eligible library, archives, or museum of works preserved under this paragraph may be made to only one user at a time, for a limited time, and only where the library, archives, or museum has no notice that the copy would be used for any purpose other than private study, scholarship, or research.
 
-(ii) For purposes of the exemption in paragraph (b)(18)(i) of this section, a library, archives, or museum is considered “eligible” if—
+(ii) For purposes of the exemption in paragraph (b)(20)(i) of this section, a library, archives, or museum is considered “eligible” if—
 
 (A) The collections of the library, archives, or museum are open to the public and/or are routinely made available to researchers who are not affiliated with the library, archives, or museum;
 
@@ -196,11 +216,13 @@
 
 (D) The collections of the library, archives, or museum are composed of lawfully acquired and/or licensed materials; and
 
-(E) The library, archives, or museum implements reasonable digital security measures as appropriate for the activities permitted by this paragraph (b)(18).
+(E) The library, archives, or museum implements reasonable digital security measures as appropriate for the activities permitted by this paragraph (b)(20).
 
-(19) Computer programs that operate 3D printers that employ technological measures to limit the use of material, when circumvention is accomplished solely for the purpose of using alternative material and not for the purpose of accessing design software, design files, or proprietary data.
+(iii) For purposes of paragraph (b)(20) of this section, the phrase “one user at a time” means that for each copy of a work lawfully owned by an eligible library, archives, or museum and preserved under paragraph (b)(20)(i) of this section, such library, archives, or museum may make an electronic distribution, display, or performance of that work outside of its physical premises. An eligible library, archives, or museum may make each copy of such lawfully owned and preserved work available to different users simultaneously. This provision does not permit an eligible library, archives, or museum to make multiple, simultaneous copies of the same copy of a work for the purposes of providing users access to the work.
 
-(20) Computer programs, solely for the purpose of investigating a potential infringement of free and open source computer programs where:
+(21) Computer programs that operate 3D printers that employ technological measures to limit the use of material, when circumvention is accomplished solely for the purpose of using alternative material and not for the purpose of accessing design software, design files, or proprietary data.
+
+(22) Computer programs, solely for the purpose of investigating a potential infringement of free and open source computer programs where:
 
 (i) The circumvention is undertaken on a lawfully acquired device or machine other than a video game console, on which the computer program operates;
 
@@ -210,8 +232,6 @@
 
 (iv) The copy of the computer program, or the device or machine on which it operates, is not used or maintained in a manner that facilitates copyright infringement.
 
-(21) Video games in the form of computer programs, embodied in lawfully acquired physical or downloaded formats, and operated on a general-purpose computer, where circumvention is undertaken solely for the purpose of allowing an individual with a physical disability to use software or hardware input methods other than a standard keyboard or mouse.
-
 (c) *Persons who may initiate circumvention.* To the extent authorized under paragraph (b) of this section, the circumvention of a technological measure that restricts wireless telephone handsets or other wireless devices from connecting to a wireless telecommunications network may be initiated by the owner of any such handset or other device, by another person at the direction of the owner, or by a provider of a commercial mobile radio service or a commercial mobile data service at the direction of such owner or other person, solely in order to enable such owner or a family member of such owner to connect to a wireless telecommunications network, when such connection is authorized by the operator of such network.
 
-[65 FR 64574, Oct. 27, 2000, as amended at 68 FR 62018, Oct. 31, 2003; 71 FR 68479, Nov. 27, 2006; 74 FR 55139, Oct. 27, 2009; 75 FR 43839, July 27, 2010; 75 FR 47465, Aug. 6, 2010; 77 FR 65278, Oct. 26, 2012; 79 FR 50553, Aug. 25, 2014; 80 FR 65961, Oct. 28, 2015; 83 FR 54028, Oct. 26, 2018; 86 FR 59637, Oct. 28, 2021]
+[65 FR 64574, Oct. 27, 2000, as amended at 68 FR 62018, Oct. 31, 2003; 71 FR 68479, Nov. 27, 2006; 74 FR 55139, Oct. 27, 2009; 75 FR 43839, July 27, 2010; 75 FR 47465, Aug. 6, 2010; 77 FR 65278, Oct. 26, 2012; 79 FR 50553, Aug. 25, 2014; 80 FR 65961, Oct. 28, 2015; 83 FR 54028, Oct. 26, 2018; 86 FR 59637, Oct. 28, 2021; 89 FR 85446, Oct. 28, 2024]

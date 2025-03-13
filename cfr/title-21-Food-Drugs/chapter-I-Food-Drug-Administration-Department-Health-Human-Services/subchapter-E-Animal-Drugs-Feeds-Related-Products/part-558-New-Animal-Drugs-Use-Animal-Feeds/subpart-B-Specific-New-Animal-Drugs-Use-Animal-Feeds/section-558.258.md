@@ -8,7 +8,7 @@
 
 (d) *Special considerations.* See § 500.25 of this chapter.
 
-(e) *Conditions of use*—(1)
+(e) *Conditions of use*—(1) *Turkeys.*
 
 |Amount fenbendazole in grams per ton|Combination in grams per ton|                                                                                                              Indications for use                                                                                                               |                               Limitations                               |Sponsor|
 |------------------------------------|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-------|
@@ -104,6 +104,7 @@
 |                 (i) Feral swine (Sus scrofa):                 |           90 to 325            |                          For the treatment and control of kidney worm (Stephanurus dentatus), roundworm (Ascaris suum), nodular worm (Oesophagostomum dentatum)                           | Use as a complete feed at a rate to provide 3 mg/kg/day for 3 consecutive days. Prior withdrawal of feed or water is not necessary. Retreatment may be required in 6 weeks. Do not use 14 days before or during the hunting season |000061 |
 |(ii) Ruminants (subfamily Antilopinae, Hippotraginae, Caprinae)|           50 to 300            |For the treatment and control of small stomach worm (Trichostrongylus spp.), thread necked intestinal worm (Nematodirus spp.), barberpole worm (Haemonchus spp.), whipworm (Trichuris spp.)|Use as a complete feed at a rate to provide 2.5 mg/kg/day for 3 consecutive days. Prior withdrawal of feed or water is not necessary. Retreatment may be required in 6 weeks. Do not use 14 days before or during the hunting season|000061 |
 |    (iii) Rocky mountain bighorn sheep (Ovis c. canadensis)    |          375 to 1,000          |                                                                   For the treatment and control of Protostrongylus spp.                                                                   |Use as a complete feed at a rate to provide 10 mg/kg/day for 3 consecutive days. Prior withdrawal of feed or water is not necessary. Retreatment may be required in 6 weeks. Do not use 14 days before or during the hunting season |000061 |
+|                        (iv) Wild quail                        |              90.7              |                                                For the treatment and control of Gastrointestinal worms: cecal worms (Aulonocephalus spp.)                                                 |                                                                              Feed for 21 consecutive days. Prior withdrawal of feed is not necessary                                                                               |000061 |
 
 (6) Fenbendazole may also be used in combination with:
 
@@ -111,4 +112,4 @@
 
 (ii) Lincomycin as in § 558.325.
 
-[66 FR 58935, Nov. 26, 2001, as amended at 68 FR 34534, June 10, 2003; 72 FR 66046, Nov. 27, 2007; 73 FR 58873, Oct. 8, 2008; 74 FR 61517, Nov. 25, 2009; 79 FR 13545, Mar. 11, 2014; 81 FR 17609, Mar. 30, 2016; 81 FR 95005, Dec. 27, 2016; 84 FR 12499, Apr. 2, 2019; 86 FR 14822, Mar. 19, 2021; 87 FR 58964, Sept. 29, 2022; 88 FR 14904, Mar. 10, 2023]
+[66 FR 58935, Nov. 26, 2001, as amended at 68 FR 34534, June 10, 2003; 72 FR 66046, Nov. 27, 2007; 73 FR 58873, Oct. 8, 2008; 74 FR 61517, Nov. 25, 2009; 79 FR 13545, Mar. 11, 2014; 81 FR 17609, Mar. 30, 2016; 81 FR 95005, Dec. 27, 2016; 84 FR 12499, Apr. 2, 2019; 86 FR 14822, Mar. 19, 2021; 87 FR 58964, Sept. 29, 2022; 88 FR 14904, Mar. 10, 2023; 89 FR 85428, Oct. 28, 2024]
