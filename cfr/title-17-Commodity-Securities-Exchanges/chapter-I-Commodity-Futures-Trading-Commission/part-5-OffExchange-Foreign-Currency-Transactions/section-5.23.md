@@ -38,10 +38,10 @@
 
 (4) A statement of the number of accounts to be liquidated.
 
-(f) *Filing of notices.* The notice required by paragraph (b) and (d) of this section shall be filed five business days prior to the transfer or liquidation of the retail forex transaction with the Deputy Director, Compliance and Registration Section, Division of Swap Dealer and Intermediary Oversight, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW., Washington, DC 20581; the National Futures Association Attn: Vice President-Compliance; and the designated self-regulatory organization for the transferor firm.
+(f) *Filing of notices.* The notice required by paragraph (b) and (d) of this section shall be filed five business days prior to the transfer or liquidation of the retail forex transaction with the Deputy Director, Registration and Compliance Branch, Division of Swap Dealer and Intermediary Oversight Market Participants Division, at the Commission's Washington, DC headquarters; the National Futures Association Attn: Vice President-Compliance; and the designated self-regulatory organization for the transferor firm.
 
 (g) *No effect on other obligations.* The requirements of this section shall not affect the obligations of a retail foreign exchange dealer, futures commission merchant or introducing broker under the rules of a self-regulatory organization or applicable customer account agreement with respect to assignments of positions or transfers of accounts or liquidation of positions.
 
 (h) *Corrective notice.* If a proposed transfer is not completed in accordance with the notice required to be filed by paragraph (b) of this section, a corrective notice shall be filed within five business days of the date such proposed transfer was to occur explaining why the proposed transfer was not completed.
 
-[75 FR 55432, Sept. 10, 2010, as amended at 78 FR 22419, Apr. 16, 2013]
+[75 FR 55432, Sept. 10, 2010, as amended at 78 FR 22419, Apr. 16, 2013; 89 FR 71807, Sept. 4, 2024]

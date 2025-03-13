@@ -1,5 +1,7 @@
 ##### § 1010.810 Enforcement. #####
 
+Link to an amendment published at 89 FR 72275, Sept. 4, 2024.
+
 (a) Overall authority for enforcement and compliance, including coordination and direction of procedures and activities of all other agencies exercising delegated authority under this chapter, is delegated to the Director, FinCEN.
 
 (b) Authority to examine institutions to determine compliance with the requirements of this chapter is delegated as follows:

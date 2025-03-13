@@ -1017,29 +1017,52 @@ Standard Spectrum means any incandescent reflector lamp that does not meet the d
 
 (aa) *Miscellaneous refrigeration products.* The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
 
-(1) Coolers manufactured starting on October 28, 2019 shall have Annual Energy Use (AEU) no more than:
+(1) *Coolers.* (i) Coolers manufactured on or after October 28, 2019, and before January 31, 2029, shall have an Annual Energy Use (AEU) no more than:
 
-|                                                      Product class                                                      | AEU (kWh/yr) |
-|-------------------------------------------------------------------------------------------------------------------------|--------------|
-|                                                   1. Built-in compact                                                   |7.88AV + 155.8|
-|                                                       2. Built-in                                                       |              |
-|                                                 3. Freestanding compact                                                 |              |
-|                                                     4. Freestanding                                                     |              |
-|AV = Total adjusted volume, expressed in ft<sup>3</sup>, as calculated according to appendix A of subpart B of this part.|              |
+|                                                      Product class                                                      |AEU  <br/>(kWh/yr)|
+|-------------------------------------------------------------------------------------------------------------------------|------------------|
+|                                                (A) Freestanding compact.                                                |  7.88AV + 155.8  |
+|                                                    (B) Freestanding.                                                    |  7.88AV + 155.8  |
+|                                                  (C) Built-in compact.                                                  |  7.88AV + 155.8  |
+|                                                      (D) Built-in.                                                      |  7.88AV + 155.8  |
+|**Note:** AV = Total adjusted volume, expressed in ft<sup>3</sup>, as determined in appendix A to subpart B of this part.|                  |
 
-(2) Combination cooler refrigeration products manufactured starting on October 28, 2019 shall have Annual Energy Use (AEU) no more than:
+(ii) Coolers manufactured on or after January 31, 2029, shall have an Annual Energy Use (AEU) no more than:
 
-|                                                      Product class                                                      | AEU (kWh/yr) |
-|-------------------------------------------------------------------------------------------------------------------------|--------------|
-|                                  C-3A. Cooler with all-refrigerator—automatic defrost                                   |4.57AV + 130.4|
-|                            C-3A-BI. Built-in cooler with all-refrigerator—automatic defrost                             |5.19AV + 147.8|
-|                 C-9. Cooler with upright freezers with automatic defrost without an automatic icemaker                  |5.58AV + 147.7|
-|            C-9-BI. Built-in cooler with upright freezer with automatic defrost without an automatic icemaker            |6.38AV + 168.8|
-|                   C-9I. Cooler with upright freezer with automatic defrost with an automatic icemaker                   |5.58AV + 231.7|
-|             C-9I-BI. Built-in cooler with upright freezer with automatic defrost with an automatic icemaker             |6.38AV + 252.8|
-|                              C-13A. Compact cooler with all-refrigerator—automatic defrost                              |5.93AV + 193.7|
-|                        C-13A-BI. Built-in compact cooler with all-refrigerator—automatic defrost                        |6.52AV + 213.1|
-|AV = Total adjusted volume, expressed in ft<sup>3</sup>, as calculated according to appendix A of subpart B of this part.|              |
+|                                                      Product class                                                      |AEU  <br/>(kWh/yr)|
+|-------------------------------------------------------------------------------------------------------------------------|------------------|
+|                                                (A) Freestanding compact.                                                |  5.52AV + 109.1  |
+|                                                    (B) Freestanding.                                                    |  5.52AV + 109.1  |
+|                                                  (C) Built-in compact.                                                  |  5.52AV + 109.1  |
+|                                                      (D) Built-in.                                                      |  6.30AV + 124.6  |
+|**Note:** AV = Total adjusted volume, expressed in ft<sup>3</sup>, as determined in appendix A to subpart B of this part.|                  |
+
+(2) *Combination cooler refrigeration products.* (i) Combination cooler refrigeration products manufactured on or after October 28, 2019, and before January 31, 2029, shall have an Annual Energy Use (AEU) no more than:
+
+|                                                      Product class                                                      |AEU  <br/>(kWh/yr)|
+|-------------------------------------------------------------------------------------------------------------------------|------------------|
+|                                (A) C-3A. Cooler with all-refrigerator—automatic defrost                                 |  4.57AV + 130.4  |
+|                          (B) C-3A-BI. Built-in cooler with all-refrigerator—automatic defrost                           |  5.19AV + 147.8  |
+|                (C) C-9. Cooler with upright freezer with automatic defrost without an automatic icemaker                |  5.58AV + 147.7  |
+|          (D) C-9-BI. Built-in cooler with upright freezer with automatic defrost without an automatic icemaker          |  6.38AV + 168.8  |
+|                 (E) C-9I. Cooler with upright freezer with automatic defrost with an automatic icemaker                 |  5.58AV + 231.7  |
+|           (F) C-9I-BI. Built-in cooler with upright freezer with automatic defrost with an automatic icemaker           |  6.38AV + 252.8  |
+|                            (G) C-13A. Compact cooler with all-refrigerator—automatic defrost                            |  5.93AV + 193.7  |
+|                      (H) C-13A-BI. Built-in compact cooler with all-refrigerator—automatic defrost                      |  6.52AV + 213.1  |
+|**Note:** AV = Total adjusted volume, expressed in ft<sup>3</sup>, as determined in appendix A to subpart B of this part.|                  |
+
+(ii) Combination cooler refrigeration products manufactured on or after January 31, 2029, shall have an Annual Energy Use (AEU) no more than:
+
+|                                                                                                        Product class                                                                                                        | AEU  <br/>(kWh/yr) |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+|                                                                                  (A) C-3A. Cooler with all-refrigerator—automatic defrost                                                                                   |   4.11AV + 117.4   |
+|                                                                            (B) C-3A-BI. Built-in cooler with all-refrigerator—automatic defrost                                                                             |   4.67AV + 133.0   |
+|                                                          (C) C-5-BI. Built-in cooler with refrigerator-freezer with automatic defrost with bottom-mounted freezer                                                           |5.47AV + 196.2 + 28I|
+|                                                                  (D) C-9. Cooler with upright freezer with automatic defrost without an automatic icemaker                                                                  |5.58AV + 147.7 + 28I|
+|                                                            (E) C-9-BI. Built-in cooler with upright freezer with automatic defrost without an automatic icemaker                                                            |6.38AV + 168.8 + 28I|
+|                                                                              (F) C-13A. Compact cooler with all-refrigerator—automatic defrost                                                                              |   4.74AV + 155.0   |
+|                                                                        (G) C-13A-BI. Built-in compact cooler with all-refrigerator—automatic defrost                                                                        |   5.22AV + 170.5   |
+|**Note:** AV = Total adjusted volume, expressed in ft<sup>3</sup>, as determined in appendix A to subpart B of this part. I = 1 for a product with an automatic icemaker and = 0 for a product without an automatic icemaker.|                    |
 
 (bb) *Rough service lamps and vibration service lamps.* (1) Subject to the sales prohibition in paragraph (dd) of this section, rough service lamps manufactured on or after January 25, 2018 must:
 

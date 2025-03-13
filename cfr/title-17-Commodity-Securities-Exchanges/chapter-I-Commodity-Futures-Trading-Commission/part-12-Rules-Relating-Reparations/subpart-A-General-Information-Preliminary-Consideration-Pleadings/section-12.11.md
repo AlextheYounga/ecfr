@@ -20,8 +20,8 @@
 
 (e) *Length and form of briefs.* All briefs filed containing more than 15 pages shall include an index and a table of cases and other authorities cited. No brief shall exceed 25 pages in length without prior permission of the Presiding Officer.
 
-(f) All documents which are required to be served upon a party shall be filed concurrently with the Proceedings Clerk. A document shall be filed by delivering it in person or by first-class mail or a more expeditious form of United States mail or by overnight or similar commercial delivery service to Proceedings Clerk, Office of Proceedings, Three Lafayette Centre, 1155 21st Street NW., Washington, DC 20581; or faxing the document to (202) 418-5532; or emailing it to *PROC\_\_Filings@cftc.gov* in accordance with the conditions set forth in paragraph (a)(2) of this section.
+(f) All documents which are required to be served upon a party shall be filed concurrently with the Proceedings Clerk. A document shall be filed by delivering it in person or by first-class mail or a more expeditious form of United States mail or by overnight or similar commercial delivery service to Proceedings Clerk, Office of Proceedings, at the Commission's Washington, DC headquarters; or faxing the document to (202) 418-5532; or emailing it to *PROC\_\_Filings@cftc.gov* in accordance with the conditions set forth in paragraph (a)(2) of this section.
 
 (g) To be timely filed under this part, a document must be delivered in person; mailed by first-class or a more expeditious form of United States mail or by an overnight or similar commercial delivery service; or faxed or emailed to the Proceedings Clerk within the time prescribed for filing.
 
-[78 FR 12936, Feb. 26, 2013, as amended at 86 FR 64352, Nov. 18, 2021]
+[78 FR 12936, Feb. 26, 2013, as amended at 86 FR 64352, Nov. 18, 2021; 89 FR 71808, Sept. 4, 2024]

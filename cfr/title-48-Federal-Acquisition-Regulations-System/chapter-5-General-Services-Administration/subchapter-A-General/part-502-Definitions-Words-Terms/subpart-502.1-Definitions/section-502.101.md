@@ -1,12 +1,12 @@
 ##### 502.101 Definitions. #####
 
-Link to an amendment published at 89 FR 63327, Aug. 5, 2024.
-
 *Commercial supplier agreements* means terms and conditions customarily offered to the public by vendors of supplies or services that meets the definition of “commercial products and commercial services” set forth in FAR 2.101 and intended to create a binding legal obligation on the end user. Commercial supplier agreements are particularly common in information technology acquisitions, including acquisitions of commercial computer software and commercial technical data, but they may apply to any products or service. The term applies—
 
 (a) Regardless of the format or style of the document. For example, a commercial supplier agreement may be styled as standard terms of sale or lease, Terms of Service (TOS), End User License Agreement (EULA), or another similar legal instrument or agreement, and may be presented as part of a proposal or quotation responding to a solicitation for a contract or order;
 
 (b) Regardless of the media or delivery mechanism used. For example, a commercial supplier agreement may be presented as one or more paper documents or may appear on a computer or other electronic device screen during a purchase, software installation, other product delivery, registration for a service, or another transaction.
+
+*Economic price adjustment (EPA) method* means the agreed upon procedure by which pricing may be adjusted throughout the contract period to include, but not limited to, the mechanism(s) to be used to adjust pricing (e.g., adjustments based on established pricing), the pricing subject to adjustment, and any other requirements (e.g., timing, frequency, limits on increases).
 
 *GSA Information System* means an information system used or operated by the U.S. General Services Administration (GSA) or by a contractor or other organization on behalf of the U.S. General Services Administration including:
 
@@ -44,4 +44,4 @@ Link to an amendment published at 89 FR 63327, Aug. 5, 2024.
 
 *Single-use plastic (SUP) free packaging* means Single-use plastic (SUP) free packaging means product or shipping containment materials free of single-use plastic. Other attributes of single-use plastic free packaging may include the following: use of minimal materials, will be reused multiple times, or produces less emissions compared to traditional manufacturing or distribution. These additional attributes alone do not qualify as SUP free. Examples may include, but are not limited, to corrugated cardboard, paper products, and paper backed tape.
 
-[83 FR 7633, Feb. 22, 2018, as amended at 86 FR 68442, Dec. 2, 2021; 87 FR 7395, Feb. 9, 2022; 89 FR 48336, June 6, 2024; 89 FR 55523, July 5, 2024]
+[83 FR 7633, Feb. 22, 2018, as amended at 86 FR 68442, Dec. 2, 2021; 87 FR 7395, Feb. 9, 2022; 89 FR 48336, June 6, 2024; 89 FR 55523, July 5, 2024; 89 FR 63327, Aug. 5, 2024]

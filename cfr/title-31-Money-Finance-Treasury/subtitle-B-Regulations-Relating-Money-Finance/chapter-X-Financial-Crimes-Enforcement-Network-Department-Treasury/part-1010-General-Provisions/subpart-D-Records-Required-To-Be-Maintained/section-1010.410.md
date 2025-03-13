@@ -1,5 +1,7 @@
 ##### § 1010.410 Records to be made and retained by financial institutions. #####
 
+Link to an amendment published at 89 FR 72274, Sept. 4, 2024.
+
 Each financial institution shall retain either the original or a copy or reproduction of each of the following:
 
 (a) A record of each extension of credit in an amount in excess of $10,000, except an extension of credit secured by an interest in real property, which record shall contain the name and address of the person to whom the extension of credit is made, the amount thereof, the nature or purpose thereof, and the date thereof;

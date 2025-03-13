@@ -48,7 +48,7 @@ For purposes of this part:
 
 *Proceeding* means a case in which the pleadings have been forwarded and in which a procedure has been commenced pursuant to § 12.26.
 
-*Proceedings Clerk* means that member of the Commission's staff in the Office of Proceedings who shall maintain the Commission's reparation docket, assign reparation cases to an appropriate decisionmaking official, and act as custodian of the records of proceedings.
+*Proceedings Clerk* means any member of the Commission's staff designated as such by the Director of the Office of Proceedings;
 
 *Punitive damages* means damages awarded (no more than two times the amount of actual damages) in the case of any action arising from a willful and intentional violation in the execution of an order on the floor of a contract market. An order does not have to be actually executed to render a violation subject to punitive damages. As a prerequisite to an award of punitive damages, a complainant must claim actual and punitive damages, prove actual damages, and demonstrate that punitive damages are appropriate.
 
@@ -68,4 +68,4 @@ For purposes of this part:
 
 *Voluntary decisional procedure* means, regardless of the amount of damages claimed, a procedure which the complainant and the respondent have chosen voluntarily to submit their claims and counterclaims, allowable under this part, for an expeditious resolution by an Administrative Judge. By electing the voluntary decisional procedure, parties agree that a decision issued by an Administrative Judge shall be without accompanying findings of fact and shall be final without right of Commission review or judicial review. A voluntary decisional proceeding is governed by subpart C of this part.
 
-[86 FR 64350, Nov. 18, 2021]
+[86 FR 64350, Nov. 18, 2021, as amended at 89 FR 71808, Sept. 4, 2024]

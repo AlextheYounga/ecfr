@@ -40,4 +40,4 @@
 
 (2) *Presumption.* For the purposes of this section, there is a presumption that an error exists if the swap data that is maintained and disseminated by an SDR for a swap is not complete and accurate. This includes, but is not limited to, the swap data that the SDR makes available to the reporting counterparty for verification under § 49.11 of this chapter.
 
-[85 FR 75654, Nov. 25, 2020]
+[85 FR 75654, Nov. 25, 2020]Editorial Note:At 89 FR 71812, Sept. 4, 2024, § 45.14 was amended by revising paragraph (a)(1)(ii). However, the amendment could not be incorporated due to an error in the amendatory instruction that misidentified the section.

@@ -1,6 +1,6 @@
 ##### § 3.22 Supplemental filings. #####
 
-Notwithstanding any other provision of this chapter, the Commission, the Directors of the Division of Swap Dealer and Intermediary Oversight or Division of Enforcement or either Director's designee, or the National Futures Association may, at any time, give written notice to any registrant, applicant for registration, or person required to be registered:
+Notwithstanding any other provision of this chapter, the Commission, the Directors of the Market Participants Division or Division of Enforcement or either Director's designee, or the National Futures Association may, at any time, give written notice to any registrant, applicant for registration, or person required to be registered:
 
 (a)(1) That derogatory information has come to the attention of the staff of the Commission or the National Futures Association which, if true, could constitute grounds upon which to base a determination that the person is unfit to become, or to remain, registered or temporarily licensed in accordance with the Act or the regulations thereunder and setting forth such information in the notice and requesting the person to provide evidence mitigating the seriousness of the statutory disqualification set forth in the notice and evidence that the person has undergone rehabilitation, or
 

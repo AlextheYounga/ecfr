@@ -1,5 +1,7 @@
 ##### § 146.6 Disclosure to third parties. #####
 
+(a) All requests for non-public records shall be made in writing and shall be addressed or otherwise directed to the Office of the General Counsel at the Commission's Washington, DC headquarters, Attn: FOIA Request, or electronically via *foiasubmissions@cftc.gov*. Requests for public records directed to a regional office of the Commission pursuant to § 145.2 should be sent to the Eastern Regional Office, Central Regional Office, or Southwestern Regional Office, as applicable.
+
 (a) The Commission shall not disclose to any agency or to any person by any means of communication a record pertaining to an individual which is contained in a system of records, except under the following circumstances:
 
 (1) The individual to whom the record pertains has given his written consent to the disclosure;
@@ -42,8 +44,8 @@
 
 (3) The accounting will be retained for at least five years or the life of the record, whichever is longer, after the disclosure for which the accounting is made.
 
-(d) The accounting described in paragraph (c) of this section will be made available to the individual named in the record upon his written request, directed to the FOI, Privacy and Sunshine Acts compliance staff, Office of the Secretariat, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW., Washington, DC 20581, except that the accounting will not be revealed with respect to disclosures made under paragraph (a)(7) of this section pertaining to law enforcement activity, and to disclosures involving systems of investigative records exempted under § 146.12 of these rules.
+(d) The accounting described in paragraph (c) of this section will be made available to the individual named in the record upon his written request, directed to the FOIA compliance staff in the Office of the General Counsel at the Commission's Washington, DC headquarters, except that the accounting will not be revealed with respect to disclosures made under paragraph (a)(7) of this section pertaining to law enforcement activity, and to disclosures involving systems of investigative records exempted under § 146.12 of these rules.
 
 (e) Whenever an amendment or correction of a record or a notation of dispute concerning the accuracy of records is made by the Commission in accordance with §§ 146.8 and 146.9 of these rules, the Commission will inform any person or other agency to whom the record was previously disclosed, if an accounting of the disclosure was made pursuant to the requirements of paragraph (c) of this section.
 
-(Secs. 2(a)(11), 8 and 8a of the Commodity Exchange Act, 7 U.S.C. 4a(j), 12 and 12a, as amended by Pub. L. 97-444)[41 FR 3212, Jan. 21, 1976, as amended at 41 FR 28261, July 9, 1976; 48 FR 22136, May 17, 1983; 49 FR 4465, Feb. 7, 1984; 60 FR 49335, Sept. 25, 1995]
+(Secs. 2(a)(11), 8 and 8a of the Commodity Exchange Act, 7 U.S.C. 4a(j), 12 and 12a, as amended by Pub. L. 97-444)[41 FR 3212, Jan. 21, 1976, as amended at 41 FR 28261, July 9, 1976; 48 FR 22136, May 17, 1983; 49 FR 4465, Feb. 7, 1984; 60 FR 49335, Sept. 25, 1995; 89 FR 71818, Sept. 4, 2024]

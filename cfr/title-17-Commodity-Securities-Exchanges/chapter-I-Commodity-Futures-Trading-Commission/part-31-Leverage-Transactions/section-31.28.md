@@ -38,10 +38,10 @@
 
 (i) The Commission may at any time, after appropriate notice and opportunity for hearing, withdraw its approval of any plan or part of one established under this section, if such plan or part of one ceases to effectuate adequately the purposes of section 19 of the Act or of this section.
 
-(j) Whenever a registered leverage transaction merchant holding membership in a self-regulatory organization ceases to be a member in good standing of that self-regulatory organization, such self-regulatory organization must, on the same day that event takes place, give telegraphic notice of that event to the principal office of the Commission in Washington, DC and send a copy of that notification to such leverage transaction merchant.
+(j) Whenever a registered leverage transaction merchant holding membership in a self-regulatory organization ceases to be a member in good standing of that self-regulatory organization, such self-regulatory organization must, on the same day that event takes place, give electronic notice of that event to *MPDAlerts@cftc.gov* and send a copy of that notification to such leverage transaction merchant.
 
 (k) Nothing in this section shall preclude the Commission from examining any leverage transaction merchant for compliance with the minimum financial, cover, segregation and sales practice, and related reporting requirements to which such leverage transaction merchant is subject.
 
 (l) In the event a plan is not filed and/or approved for each registered leverage transaction merchant which is a member of more than one self-regulatory organization, the Commission may design and, after notice and opportunity for comment, approve a plan for those leverage transaction merchants which are not the subject of an approved plan (under paragraph (g) of this section), delegating to a designated self-regulatory organization the responsibilities described in paragraph (c) of this section.
 
-[54 FR 41083, Oct. 5, 1989]
+[54 FR 41083, Oct. 5, 1989, as amended at 89 FR 71811, Sept. 4, 2024]

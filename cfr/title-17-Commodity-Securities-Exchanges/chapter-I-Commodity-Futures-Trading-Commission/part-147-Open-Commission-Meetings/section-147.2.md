@@ -14,6 +14,6 @@ For purposes of this part:
 
 (f) *Quorum* means at least the minimum number of Commissioners required to take action on behalf of the Commission;
 
-(g) The term *FOI, Privacy and Sunshine Acts compliance staff* refers to the staff in the Office of the Secretariat in the Commission's principal office in Washington, DC who are assigned to respond to requests and handle various other matters under the Freedom of Information Act, the Privacy Act of 1974 and the Government in the Sunshine Act.
+(g) The term *FOIA Compliance staff* refers to the Freedom of Information Act Compliance Staff assigned to respond to requests for information under the Freedom of Information Act.
 
-[42 FR 13704, Mar. 11, 1977, as amended at 45 FR 26955, Apr. 22, 1980]
+[42 FR 13704, Mar. 11, 1977, as amended at 45 FR 26955, Apr. 22, 1980; 89 FR 71819, Sept. 4, 2024]

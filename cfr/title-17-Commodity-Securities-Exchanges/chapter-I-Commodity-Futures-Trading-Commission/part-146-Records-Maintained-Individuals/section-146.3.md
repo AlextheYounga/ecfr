@@ -1,6 +1,6 @@
 ##### § 146.3 Requests by an individual for information or access. #####
 
-(a) Any individual may request information on whether a system of records maintained by the Commission contains any information pertaining to him, or may request access to his record or to any information pertaining to him which is contained in a system of records. All requests shall be directed to the FOI, Privacy and Sunshine Acts compliance staff, Office of the Secretariat, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW., Washington, DC 20581.
+(a) Any individual may request information on whether a system of records maintained by the Commission contains any information pertaining to him, or may request access to his record or to any information pertaining to them which is contained in a system of records. All requests shall be directed to the FOIA compliance staff in the Office of the General Counsel at the Commission's Washington, DC headquarters and clearly marked “Privacy Act request.”
 
 (b) A request for information or for access to records under this part may be made by mail or in person. The request shall:
 
@@ -24,4 +24,4 @@
 
 (e) When an individual has requested access to records, available to him under these rules, he will either be notified in writing of where and when he may obtain access to the records requested or be given the name, address and telephone number of the member of the Commission staff with whom he should communicate to make further arrangements for access.
 
-[41 FR 3212, Jan. 21, 1976, as amended at 41 FR 28260, July 9, 1976; 60 FR 49335, Sept. 25, 1995]
+[41 FR 3212, Jan. 21, 1976, as amended at 41 FR 28260, July 9, 1976; 60 FR 49335, Sept. 25, 1995; 89 FR 71818, Sept. 4, 2024]

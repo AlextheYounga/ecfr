@@ -1,0 +1,3 @@
+##### § 910.5 Severability. #####
+
+If any provision of this part is held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, or stayed pending further agency action, the provision shall be construed so as to continue to give the maximum effect to the provision permitted by law and such invalidity shall not affect the application of the provision to other persons or circumstances or the validity or application of other provisions. If any provision or application of this part is held to be invalid or unenforceable, the provision or application shall be severable from this part and shall not affect the remainder thereof.

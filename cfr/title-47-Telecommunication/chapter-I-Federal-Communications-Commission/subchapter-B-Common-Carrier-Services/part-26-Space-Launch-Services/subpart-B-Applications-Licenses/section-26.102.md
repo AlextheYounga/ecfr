@@ -1,0 +1,3 @@
+##### § 26.102 License period; renewal. #####
+
+Licenses for stations in the Space Launch Services will be issued for a term of ten years from the date of original issuance, or renewal. Prior to expiration of the term of a license, the space launch licensee shall submit to the Commission an application for the renewal in accordance with part 1, subpart F, of this chapter. Such renewal application shall certify that, during the preceding license term, the licensee operated and continues to operate consistent with Commission rules in this chapter and the terms of its existing authorization, including the operation of stations consistent with the terms of frequency coordination performed during its license term.

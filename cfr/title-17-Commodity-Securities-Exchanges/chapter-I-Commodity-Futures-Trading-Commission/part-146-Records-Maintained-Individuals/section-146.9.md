@@ -12,7 +12,7 @@
 
 (b) The petition to the Commission shall be in writing and shall (1) state in what manner it is claimed the Commission or any Commission employee has failed or refused to comply with provisions of the Privacy Act or of the rules contained in this part 146, and (2) set forth the corrective action the petitioner wishes the Commission to take. The petitioner may, if he wishes, state such facts and cite such legal or other authorities as he considers appropriate.
 
-(c) The petition shall be directed to the FOI, Privacy and Sunshine Acts compliance staff, Office of the Secretariat, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW., Washington, DC 20581.
+(c) The petition shall be directed to the General Counsel, Office of the General Counsel at the Commission's Washington, DC headquarters.
 
 (d) The Commission will make a determination of any petition filed pursuant to this § 146.9 within thirty days (excluding Saturdays, Sundays and legal public holidays) after receipt by the FOI, Privacy and Sunshine Acts compliance staff, Office of the Secretariat of the petition, unless for good cause shown, the Commission extends the 30-day period. If a petition is denied, the Commission will notify the petitioner in writing and state the reasons therefor.
 
@@ -26,4 +26,4 @@
 
 (f) The General Counsel or his or her designee is hereby delegated the authority to act for the Commission in deciding appeals under this section. The General Counsel may, in his or her sole and unfettered discretion, refer such appeals to the Commission for decision.
 
-[41 FR 3211, Jan. 21, 1976, as amended at 41 FR 28261, July 9, 1976; 45 FR 26954, Apr. 22, 1980; 51 FR 26874, July 28, 1986; 60 FR 49336, Sept. 25, 1995]
+[41 FR 3211, Jan. 21, 1976, as amended at 41 FR 28261, July 9, 1976; 45 FR 26954, Apr. 22, 1980; 51 FR 26874, July 28, 1986; 60 FR 49336, Sept. 25, 1995; 89 FR 71818, Sept. 4, 2024]

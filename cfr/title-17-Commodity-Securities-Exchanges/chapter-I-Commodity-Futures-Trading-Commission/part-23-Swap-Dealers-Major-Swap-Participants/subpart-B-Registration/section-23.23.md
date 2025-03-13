@@ -220,7 +220,7 @@
 
 (7) *Modifications.* The Commission reserves the right to further condition, modify, suspend, terminate, or otherwise restrict a comparability determination issued under this section in the Commission's discretion.
 
-(8) *Delegation of authority.* The Commission hereby delegates to the Director of the Division of Swap Dealer and Intermediary Oversight, or such other employee or employees as the Director may designate from time to time, the authority to request information and/or documentation in connection with the Commission's issuance of a comparability determination under this section.
+(8) *Delegation of authority.* The Commission hereby delegates to the Director of the Market Participants Division, or such other employee or employees as the Director may designate, the authority to request information and/or documentation in connection with the Commission's issuance of a comparability determination under this section.
 
 (h) *Records, scope of application, effective and compliance dates*—(1) *Records.* Swap dealers and major swap participants shall create a record of their compliance with this section and shall retain records in accordance with § 23.203.
 
@@ -232,4 +232,4 @@
 
 (iii) Swap dealers and major swap participants must comply with the requirements of this section no later than September 14, 2021.
 
-[85 FR 56997, Sept. 14, 2020, as amended at 85 FR 69499, Nov. 3, 2020]
+[85 FR 56997, Sept. 14, 2020, as amended at 85 FR 69499, Nov. 3, 2020; 89 FR 71810, Sept. 4, 2024]

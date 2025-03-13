@@ -4,7 +4,7 @@
 
 (b) The agency shall process complaints alleging violations of section 504 with respect to employment according to the procedures established by the Equal Employment Opportunity Commission in 29 CFR part 1613 pursuant to section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 791).
 
-(c) The Executive Director of the Commission shall be responsible for coordinating implementation of this section. Complaints may be sent to the Equal Employment Opportunity Officer, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW., Washington, DC 20581.
+(c) The Executive Director of the Commission shall be responsible for coordinating implementation of this section. Complaints may be sent to the Equal Employment Opportunity Officer at the Commission's Washington, DC headquarters.
 
 (d) The agency shall accept and investigate all complete complaints for which it has jurisdiction. All complete complaints must be filed within 180 days of the alleged act of discrimination. The agency may extend this time period for good cause.
 
@@ -30,4 +30,4 @@
 
 (l) The agency may delegate its authority for conducting complaint investigations to other Federal agencies, except that the authority for making the final determination may not be delegated to another agency.
 
-[51 FR 22889, 22896, June 23, 1986, as amended at 51 FR 22889, June 23, 1986; 60 FR 49336, Sept. 25, 1995]
+[51 FR 22889, 22896, June 23, 1986, as amended at 51 FR 22889, June 23, 1986; 60 FR 49336, Sept. 25, 1995; 89 FR 71819, Sept. 4, 2024]

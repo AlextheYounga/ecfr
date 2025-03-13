@@ -1,0 +1,5 @@
+##### § 910.4 Relation to State laws and preservation of State authority and private rights of action. #####
+
+(a) This part will not be construed to annul, or exempt any person from complying with any State statute, regulation, order, or interpretation applicable to a non-compete clause, including, but not limited to, State antitrust and consumer protection laws and State common law, except that this part supersedes such laws to the extent, and only to the extent, that such laws would otherwise permit or authorize a person to engage in conduct that is an unfair method of competition under § 910.2(a) or conflict with the notice requirement in § 910.2(b).
+
+(b) Except with respect to laws superseded under paragraph (a) of this section, no provision of this part shall be construed as altering, limiting, or affecting the authority of a State attorney general or any other regulatory or enforcement agency or entity or the rights of a person to bring a claim or regulatory action arising under any State statute, regulation, order, or interpretation, including, but not limited to, State antitrust and consumer protection laws and State common law.

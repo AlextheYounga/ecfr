@@ -1,7 +1,5 @@
 ##### 538.273 FSS solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 89 FR 63328, Aug. 5, 2024.
-
 The following clauses and provisions apply to FSS solicitations and contracts, unless otherwise excepted (see 538.001) or as otherwise stated below. For example, if only used in solicitations, the prescription will clearly state this. If the language does not specify “solicitations” then the clause applies to both FSS solicitations and contracts.
 
 (a) Insert the following provisions in FSS solicitations:
@@ -134,6 +132,8 @@ The following clauses and provisions apply to FSS solicitations and contracts, u
 
 (40) 552.238-119, Single-use Plastic Free Packaging Availability.
 
+(41) 552.238-120, Economic Price Adjustment—Federal Supply Schedule Contracts.
+
 (e) Insert the following fill-in information within the blank of paragraph (d) of FAR 52.216-22, Indefinite Quantity: “the completion of customer order, including options, 60 months following the expiration of the FSS contract ordering period”.
 
-[89 FR 2173, Jan. 12, 2024, as amended at 89 FR 10007, Feb. 13, 2024; 89 FR 13284, Feb. 22, 2024; 89 FR 48336, June 6, 2024]
+[89 FR 2173, Jan. 12, 2024, as amended at 89 FR 10007, Feb. 13, 2024; 89 FR 13284, Feb. 22, 2024; 89 FR 48336, June 6, 2024; 89 FR 63328, Aug. 5, 2024]

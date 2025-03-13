@@ -18,7 +18,7 @@ For purposes of this part:
 
 (h) *Hearing* means that part of a proceeding which involves the submission of evidence, either by oral presentation or written submission;
 
-(i) *Proceedings Clerk* means that member of the Commission's staff designated as such in the Commission's Office of Proceedings.
+(i) *Proceedings Clerk* means that member of the Commission's staff designated as such in the Commission's Office of Proceedings any member of the Commission's staff designated as such by the Director of the Office of Proceedings.
 
 (j) *Order* means the whole or any part of a final procedural or substantive disposition of a matter by the Commission or by the Presiding Officer in a matter other than rulemaking;
 
@@ -32,4 +32,4 @@ For purposes of this part:
 
 (o) *Respondent* means a party to an adjudicatory proceeding against whom findings may be made or relief or remedial action may be taken.
 
-[41 FR 2511, Jan. 16, 1976, as amended at 60 FR 54801, Oct. 26, 1995]
+[41 FR 2511, Jan. 16, 1976, as amended at 60 FR 54801, Oct. 26, 1995; 89 FR 71807, Sept. 4, 2024]

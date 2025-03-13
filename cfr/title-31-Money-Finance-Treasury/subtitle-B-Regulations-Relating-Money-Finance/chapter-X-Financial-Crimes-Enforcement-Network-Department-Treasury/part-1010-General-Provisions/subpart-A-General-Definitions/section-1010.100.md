@@ -1,5 +1,7 @@
 ##### § 1010.100 General definitions. #####
 
+Link to an amendment published at 89 FR 72274, Sept. 4, 2024.
+
 When used in this chapter and in forms prescribed under this chapter, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this subpart. Terms applicable to a particular type of financial institution or specific part or subpart of this chapter are located in that part or subpart. Terms may have different meanings in different parts or subparts.
 
 (a) *Accept.* A receiving financial institution, other than the recipient's financial institution, accepts a transmittal order by executing the transmittal order. A recipient's financial institution accepts a transmittal order by paying the recipient, by notifying the recipient of the receipt of the order or by otherwise becoming obligated to carry out the order.

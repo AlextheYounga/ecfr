@@ -1,6 +1,6 @@
-##### § 140.94 Delegation of authority to the Director of the Division of Swap Dealer and Intermediary Oversight and the Director of the Division of Clearing and Risk. #####
+##### § 140.94 Delegation of authority to the Director of the Market Participants Division and to the Director of the Division of Clearing and Risk. #####
 
-(a) The Commission hereby delegates, until such time as the Commission orders otherwise, the following functions to the Director of the Division of Swap Dealer and Intermediary Oversight and to such members of the Commission's staff acting under his or her direction as he or she may designate from time to time:
+(a) The Commission hereby delegates, until such time as the Commission orders otherwise, the following functions to the Director of the Market Participants Division and to such members of the Commission's staff acting under their direction as they may designate:
 
 (1) All functions reserved to the Commission in § 5.7 of this chapter;
 
@@ -12,9 +12,10 @@
 
 (5) All functions reserved to the Commission in § 5.14 of this chapter.
 
-(b) The Director of the Division of Swap Dealer and Intermediary Oversight may submit any matter which has been delegated to him or her under paragraph (a) of this section to the Commission for its consideration.
+(b) The Director of the Market Participants Division
+may submit any matter which has been delegated to him or her under paragraph (a) of this section to the Commission for its consideration.
 
-(c) The Commission hereby delegates, until such time as the Commission orders otherwise, the following functions to the Director of the Division of Clearing and Risk and to such members of the Commission's staff acting under his or her direction as he or she may designate from time to time:
+(c) The Commission hereby delegates, until such time as the Commission orders otherwise, the following functions to the Director of the Division of Clearing and Risk and to such members of the Commission's staff actingunder their direction as they may designate:
 
 (1) The authority to review applications for registration as a derivatives clearing organization filed with the Commission under § 39.3(a)(1) of this chapter, to determine that an application is materially complete pursuant to § 39.3(a)(2) of this chapter, to request additional information in support of an application pursuant to § 39.3(a)(4) of this chapter, to extend the review period for an application pursuant to § 39.3(a)(7) of this chapter, to stay the running of the 180-day review period if an application is incomplete pursuant to § 39.3(b)(1) of this chapter, to review requests for amendments to orders of registration filed with the Commission under § 39.3(d)(1) of this chapter, to request additional information in support of a request for an amendment to an order of registration pursuant to § 39.3(d)(2) of this chapter, and to request additional information in support of a rule submission pursuant to § 39.3(g)(3) of this chapter;
 
@@ -60,8 +61,8 @@
 
 (iii) Modify registration under § 39.51(d)(4) of this chapter.
 
-(d) The Director of Clearing and Risk may submit any matter which has been delegated to him or her under paragraph (c) of this section to the Commission for its consideration.
+(d) The Director of Clearing and Risk may submit any matter which has been delegated to them under paragraph (c) of this section to the Commission for its consideration.
 
-(e) Nothing in this section may prohibit the Commission, at its election, from exercising the authority delegated to the Director of the Division of Swap Dealers and Intermediary Oversight under paragraph (a) or to the Director of the Division of Clearing and Risk under paragraph (c) of this section.
+(e) Nothing in this section may prohibit the Commission, at its election, from exercising the authority delegated to the Director of the Market Participants Division under paragraph (a) or to the Director of the Division of Clearing and Risk under paragraph (c) of this section.
 
 [78 FR 22420, Apr. 16, 2013, as amended at 78 FR 72514, Dec. 2, 2013; 85 FR 4900, Jan. 27, 2020; 85 FR 67189, Oct. 21, 2020; 86 FR 968, Jan. 7, 2021; 88 FR 53698, Aug. 8, 2023]

@@ -18,8 +18,8 @@
 
 (c) A national securities exchange or other securities industry self-regulatory organization may submit an application for an order pursuant to this section on behalf of its members.
 
-(d) An application for an order must be submitted to the Director of the Division of Swap Dealer and Intermediary Oversight, Commodity Futures Trading Commission, 1155 21st Street, NW., Washington, DC 20581, if in paper form, or to *tm@cftc.gov* if submitted via electronic mail.
+(d) An application for an order must be submitted to the Director of the Market Participants Division, at the Commission's Washington, DC headquarters if in paper form, or to *MPDletters@cftc.gov* if submitted via electronic mail.
 
 (e) The Commission may, in its sole discretion, grant the application, deny the application, decline to entertain the application, or grant the application subject to one or more conditions.
 
-[66 FR 43086, Aug. 17, 2001. Redesignated at 67 FR 53171, Aug. 14, 2002, as amended at 67 FR 62352, Oct. 7, 2002; 78 FR 22419, Apr. 16, 2013]
+[66 FR 43086, Aug. 17, 2001. Redesignated at 67 FR 53171, Aug. 14, 2002, as amended at 67 FR 62352, Oct. 7, 2002; 78 FR 22419, Apr. 16, 2013; 89 FR 71812, Sept. 4, 2024]

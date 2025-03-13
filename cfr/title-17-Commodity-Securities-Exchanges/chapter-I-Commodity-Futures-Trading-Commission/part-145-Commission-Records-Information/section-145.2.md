@@ -1,6 +1,6 @@
 ##### § 145.2 Records available for public inspection and copying; documents published and indexed. #####
 
-Except as provided in § 145.5, pertaining to nonpublic matters, and in addition to those documents listed in appendix A to part 145, Compilation of Commission Records Available to the Public, the following materials are available for public inspection and copying during normal business hours at the Commission's Public Reading Room, located at the principal office of the Commission in Washington, DC and at the regional offices of the Commission:
+Except as provided in § 145.5, pertaining to nonpublic matters, and in addition to those documents listed in appendix A to part 145, Compilation of Commission Records Available to the Public, the following materials are available for public inspection and copying during normal business hours at the Commission's Public Reading Room, located at the Commission's Washington, DC headquarters and at the regional offices of the Commission:
 
 (a) A guide for requesting records or publicly available information from the Commission which includes:
 
@@ -20,4 +20,4 @@ Except as provided in § 145.5, pertaining to nonpublic matters, and in addition
 
 (f) Indices providing identifying information to the public as to the materials made available pursuant to paragraphs (a) through (e) of this section.
 
-[62 FR 17069, Apr. 9, 1997]
+[62 FR 17069, Apr. 9, 1997, as amended at 89 FR 71817, Sept. 4, 2024]

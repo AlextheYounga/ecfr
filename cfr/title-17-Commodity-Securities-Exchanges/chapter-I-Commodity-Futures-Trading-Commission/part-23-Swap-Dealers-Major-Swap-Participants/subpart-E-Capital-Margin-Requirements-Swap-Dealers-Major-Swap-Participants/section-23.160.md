@@ -134,7 +134,7 @@
 
 (6) *Modifications.* The Commission reserves the right to further condition, modify, suspend, terminate or otherwise restrict a Comparability Determination in the Commission's discretion.
 
-(7) *Delegation of authority.* The Commission hereby delegates to the Director of the Division of Swap Dealer and Intermediary Oversight, or such other employee or employees as the Director may designate from time to time, the authority to request information and/or documentation in connection with the Commission's issuance of a Comparability Determination.
+(7) *Delegation of authority.* The Commission hereby delegates to the Director of the Market Participants Division, or such other employee or employees as the Director may designate, the authority to request information and/or documentation in connection with the Commission's issuance of a Comparability Determination.
 
 (d) *Non-netting jurisdiction requirements.* Except as provided in paragraph (e) of this section, if a CSE cannot conclude after sufficient legal review with a well-founded basis that the netting agreement described in § 23.152(c) meets the definition of “eligible master netting agreement” set forth in § 23.151, the CSE must treat the uncleared swaps covered by the agreement on a gross basis for the purposes of calculating and complying with the requirements of § 23.152(a) and § 23.153(a) to collect margin, but the CSE may net those uncleared swaps in accordance with § 23.152(c) and § 23.153(d) for the purposes of calculating and complying with the requirements of this part to post margin. A CSE that relies on this paragraph (d) must have policies and procedures ensuring that it is in compliance with the requirements of this paragraph, and maintain books and records properly documenting that all of the requirements of this paragraph (d) are satisfied.
 
@@ -154,4 +154,4 @@
 
 (7) The CSE maintains books and records properly documenting that all of the requirements of this paragraph (e) are satisfied.
 
-[81 FR 34847, May 31, 2016]
+[81 FR 34847, May 31, 2016, as amended at 89 FR 71810, Sept. 4, 2024]

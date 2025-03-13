@@ -1,6 +1,6 @@
 ##### § 11.7 Rights of witnesses. #####
 
-(a) *Orders authorizing issuance of subpoenas.* Any person upon whom a subpoena has been served compelling him to furnish documentary evidence or testimony in an investigation shall, upon his request, be permitted to examine a copy of the Commission's order pursuant to which the subpoena has been issued. However, a copy of the order shall not be furnished for his retention except with the express approval of either the Director, a Deputy Director, the Program Coordinator, the Chief Counsel, an Associate Director, or a Regional Counsel of the Division of Enforcement, or a Regional Director of the Commission; approval shall not be given unless it has been shown by the person seeking to retain a copy that his retention of a copy would be consistent both with the protection of privacy of persons involved in the investigation and with the unimpeded conduct of the investigation.
+(a) *Orders authorizing issuance of subpoenas.* Any person upon whom a subpoena has been served compelling him to furnish documentary evidence or testimony in an investigation shall, upon his request, be permitted to examine a copy of the Commission's order pursuant to which the subpoena has been issued. However, a copy of the order shall not be furnished for his retention except with the express approval of either the Director, a Deputy Director, the Principal Deputy Director, the Chief Counsel, an Associate Director, or a Deputy Regional Counsel of the Division of Enforcement; approval shall not be given unless it has been shown by the person seeking to retain a copy that his retention of a copy would be consistent both with the protection of privacy of persons involved in the investigation and with the unimpeded conduct of the investigation.
 
 (b) *Copies of testimony or data.* A person compelled to submit data or evidence in the course of an investigatory proceeding shall be entitled to retain or, upon payment of appropriate fees as set forth in the Schedule of Fees for records services, 17 CFR part 145b, procure a copy or transcript thereof, except that the witness may for good cause be limited to inspection of the official transcript of his testimony.
 
@@ -16,4 +16,4 @@
 
 2 This subsection shall be effective on and after such date as section 6001 of Title 18 of the United States Code has been amended to include the Commodity Futures Trading Commission among those agencies which may, with the approval of the Attorney General, grant immunity to witnesses to the extent and in the manner prescribed in 18 U.S.C. 6001 *et seq.*
 
-[41 FR 29799, July 19, 1976, as amended at 61 FR 1709, Jan. 23, 1996]
+[41 FR 29799, July 19, 1976, as amended at 61 FR 1709, Jan. 23, 1996; 89 FR 71808, Sept. 4, 2024]

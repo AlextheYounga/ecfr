@@ -8,7 +8,7 @@
 
 (c) *Automatic suspension.* A person required to pay a reparation award shall be prohibited from trading on all contract markets and if such person is registered, the registration shall be suspended automatically, without further notice, unless such person shall, within fifteen (15) days after the time limit for satisfaction of an award (as prescribed in paragraph (a) or (b) of this section) expires, file with the Proceedings Clerk and serve on the other parties:
 
-(1) A copy of a certified check or the equivalent showing statisfaction of the award; or
+(1) A copy of a certified check or the equivalent showing Satisfaction of the award; or
 
 (2) A sworn release executed by each recipient of a reparation award, which has not been satisfied by payment with a certified check or the equivalent; or
 
@@ -18,4 +18,4 @@
 
 (e) *Automatic suspension after appeal.* If on appeal to the U.S. Court of Appeals the appellee prevails, or if the appeal is dismissed, the automatic prohibition against trading and suspension of registration shall become effective at the expiration of thirty (30) days from the date of judgment on the appeal, but if the judgment is stayed by a court of competent jurisdiction, the suspension shall become effective ten (10) days after the expiration of such stay, unless prior thereto the judgment of the court or the final order of the Commission has been satisfied.
 
-[49 FR 6621, Feb. 22, 1984; 49 FR 15070, Apr. 17, 1984, as amended at 50 FR 40332, Oct. 3, 1985; 73 FR 70275, Nov. 20, 2008; 86 FR 64361, Nov. 18, 2021]
+[49 FR 6621, Feb. 22, 1984; 49 FR 15070, Apr. 17, 1984, as amended at 50 FR 40332, Oct. 3, 1985; 73 FR 70275, Nov. 20, 2008; 86 FR 64361, Nov. 18, 2021; 89 FR 71808, Sept. 4, 2024]

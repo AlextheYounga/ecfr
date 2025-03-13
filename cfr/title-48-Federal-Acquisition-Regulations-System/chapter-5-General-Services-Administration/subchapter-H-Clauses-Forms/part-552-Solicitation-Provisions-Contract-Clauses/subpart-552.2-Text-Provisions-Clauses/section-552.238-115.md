@@ -1,10 +1,8 @@
 ##### 552.238-115 Special Ordering Procedures for the Acquisition of Order-Level Materials. #####
 
-Link to an amendment published at 89 FR 63328, Aug. 5, 2024.
-
 As prescribed in 538.7204(b), insert the following clause:
 
-Special Ordering Procedures for the Acquisition of Order-Level Materials (APR 2022)
+Special Ordering Procedures for the Acquisition of Order-Level Materials (AUG 24)
 
 (a) *Definition.*
 
@@ -48,10 +46,10 @@ Special Ordering Procedures for the Acquisition of Order-Level Materials (APR 20
 
 (10) Order-level materials are exempt from the following clauses:
 
-(i) 552.216-70 Economic Price Adjustment—FSS Multiple Award Schedule Contracts.
+(i) 552.238-77 Submission and Distribution of Authorized Federal Supply Schedule (FSS) Price Lists.
 
-(ii) 552.238-77 Submission and Distribution of Authorized Federal Supply Schedule (FSS) Price Lists.
+(ii) 552.238-81 Price Reductions.
 
-(iii) 552.238-81 Price Reductions.
+(iii) 552.238-120, Economic Price Adjustment—Federal Supply Schedule Contracts.
 
-(End of clause)[84 FR 17046, Apr. 23, 2019, as amended at 87 FR 11590, Mar. 2, 2022]
+(End of clause)[84 FR 17046, Apr. 23, 2019, as amended at 87 FR 11590, Mar. 2, 2022; 89 FR 63328, Sept. 4, 2024]

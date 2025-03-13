@@ -4,7 +4,7 @@
 
 (b) Data reported to the Commission pursuant to this section shall be reported at times announced by the Commission. Data reported to the Commission pursuant to this section with respect to pre-enactment and transition swaps in existence on or after April 25, 2011 shall be reported in an electronic format acceptable to the Commission.
 
-(c) Delegation of authority to the Chief Information Officer: The Commission hereby delegates to its Chief Information Officer, until the Commission orders otherwise, the authority set forth in paragraph (c) of this section, to be exercised by the Chief Information Officer or by such other employee or employees of the Commission as may be designated from time to time by the Chief Information Officer. The Chief Information Officer may submit to the Commission for its consideration any matter which has been delegated in this paragraph. Nothing in this paragraph prohibits the Commission, at its election, from exercising the authority delegated in this paragraph. The authority delegated to the Chief Information Officer by paragraph (c) of this section shall include:
+(c) Delegation of authority to the Director of the Division of Data: The Commission hereby delegates to its Director of the Division of Data, until the Commission orders otherwise, the authority set forth in this paragraph (c), to be exercised by the Director of the Division of Data or by such other employee or employees of the Commission as may be designated by the Director of the Division of Data. The Director of the Division of Data may submit to the Commission for its consideration any matter which has been delegated in this paragraph. Nothing in this paragraph prohibits the Commission, at its election, from exercising the authority delegated in this paragraph. The authority delegated to the Director of the Division of Data by paragraph (c) of this section shall include:
 
 (1) With respect to all pre-enactment and transition swaps required to be reported by this part, the authority to determine the dates and times at which data concerning such swaps shall be reported pursuant to this part.
 
@@ -14,6 +14,6 @@
 
 (ii) The authority to determine whether the Commission may permit or require use by registered entities or counterparties in reporting pre-enactment or transition swaps in existence on or after April 25, 2011, of one or more particular data standards (such as FIX, FpML, ISO 20022, or some other standard), in order to accommodate the needs of different communities of users.
 
-(d) The Chief Information Officer shall publish from time to time in the Federal Register and on the Web site of the Commission the dates and times, format, data schema, and electronic data transmission methods and procedures for reporting acceptable to the Commission with respect to reporting data for pre-enactment and transition swaps pursuant to this section.
+(d) The Director of the Division of Data shall publish from time to time in the Federal Register and on the Web site of the Commission the dates and times, format, data schema, and electronic data transmission methods and procedures for reporting acceptable to the Commission with respect to reporting data for pre-enactment and transition swaps pursuant to this section.
 
-[77 FR 35226, June 12, 2012, as amended at 85 FR 75594, Nov. 25, 2020]
+[77 FR 35226, June 12, 2012, as amended at 85 FR 75594, Nov. 25, 2020; 89 FR 71813, Sept. 4, 2024]

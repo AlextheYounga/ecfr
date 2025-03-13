@@ -8,7 +8,7 @@
 
 (ii) Members of the staffs of the Administrative Law Judges;
 
-(iii) The Deputy General Counsel for Opinions and Review and staff of the Office of General Counsel.
+(iii) The Deputy General Counsel for Litigation, Enforcement, and Adjudication and staff of the Office of the General Counsel.
 
 (iv) Members of the staff of the Office of Proceedings; and
 
@@ -52,4 +52,4 @@
 
 (3) Nothing in this section shall constitute authority to withhold information from Congress.
 
-(Sec. 4, Pub. L. 94-409, 90 Stat. 1246, 1247 (5 U.S.C. 551(14), 556(d) and 557(d)); sec. 101(a)(11), Pub. L. 93-463, 88 Stat. 1391 (7 U.S.C. 4a(j) (Supp. V, 1975))[42 FR 13700, Mar. 11, 1977, as amended at 60 FR 54801, Oct. 26, 1995]
+(Sec. 4, Pub. L. 94-409, 90 Stat. 1246, 1247 (5 U.S.C. 551(14), 556(d) and 557(d)); sec. 101(a)(11), Pub. L. 93-463, 88 Stat. 1391 (7 U.S.C. 4a(j) (Supp. V, 1975))[42 FR 13700, Mar. 11, 1977, as amended at 60 FR 54801, Oct. 26, 1995; 89 FR 71807, Sept. 4, 2024]

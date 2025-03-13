@@ -1,6 +1,6 @@
 ##### § 31.14 Recordkeeping. #####
 
-(a) All books, records and other documents required to be kept by this part shall be kept in accordance with the provisions of § 1.31 of this chapter. In addition, information concerning leverage transactions shall be made available upon request of the Executive Director, the Director of the Division of Swap Dealer and Intermediary Oversight, the Director of the Division of Market Oversight or the Director of the Division of Enforcement, or other designees, at a time and place and in such form and manner as may be specified in the request.
+(a) All books, records and other documents required to be kept by this part shall be kept in accordance with the provisions of § 1.31 of this chapter. In addition, information concerning leverage transactions shall be made available upon request of the Executive Director, the Director of the Market Participants Division, the Director of the Division of Market Oversight or the Director of the Division of Enforcement, or other designees, at a time and place and in such form and manner as may be specified in the request.
 
 (b) Each leverage transaction merchant shall:
 
@@ -44,4 +44,4 @@
 
 (6) The unrealized profit or loss on each open leverage contract marked to the market on the basis of the leverage transaction merchant's bid price for a long leverage contract and ask price for a short leverage contract.
 
-(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982))[50 FR 32, Jan. 2, 1985; 50 FR 2283, Jan. 16, 1985, as amended at 67 FR 62352, Oct. 7, 2002; 78 FR 22419, Apr. 16, 2013]
+(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982))[50 FR 32, Jan. 2, 1985; 50 FR 2283, Jan. 16, 1985, as amended at 67 FR 62352, Oct. 7, 2002; 78 FR 22419, Apr. 16, 2013; 89 FR 71811, Sept. 4, 2024]

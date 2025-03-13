@@ -6,7 +6,7 @@ For purposes of this part:
 
 (b) *Disciplinary action* includes any proceeding brought by the National Futures Association to enforce its rules that may result in expulsion, suspension, censure, bar from association with a member, fine in excess of $100 or any comparable sanction being imposed on a member or a person associated with a member.
 
-(c) *Ex parte communication* shall include any communication, whether written or oral, which is both (1) not preceded by reasonable notice to all parties to a proceeding, and (2) not made on the public record. It shall not include requests made to the Commission's Opinions Section or Office of Proceedings for status reports or for an interpretation of these rules.
+(c) *Ex parte communication* shall include any communication, whether written or oral, which is both (1) not preceded by reasonable notice to all parties to a proceeding, and (2) not made on the public record. It shall not include requests made to the Office of the General Counsel's Litigation, Enforcement, and Adjudication Section or Office of Proceedings for status reports or for an interpretation of these rules.
 
 (d) *Final Decision* means the decision that terminates the proceeding before the National Futures Association on the action that is the subject of the notice of appeal filed with the Commission.
 
@@ -27,3 +27,5 @@ For purposes of this part:
 (l) *Registration action* includes any proceeding brought by the National Futures Association, pursuant to authority delegated by the Commission, to grant, condition, deny, suspend, restrict, or revoke the registration of any person.
 
 (m) *Rule of the National Futures Association* includes any article of incorporation, bylaw, rule, regulation, resolution or written interpretation of stated policy of the National Futures Association.
+
+[55 FR 41068, Oct. 9, 1990, as amended at 89 FR 71821, Sept. 4, 2024]

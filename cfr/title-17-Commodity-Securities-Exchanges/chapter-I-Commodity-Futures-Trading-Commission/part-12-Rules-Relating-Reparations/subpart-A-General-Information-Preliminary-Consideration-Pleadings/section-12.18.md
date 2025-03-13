@@ -26,6 +26,6 @@ An answer filed pursuant to § 12.16 of these rules shall meet the following req
 
 (d) *Affidavit of service.* The registrant shall file with the answer an affidavit showing that a true copy of the answer has been served upon the complainant, either personally or by first-class mail addressed to the complainant at the address set forth in the complaint.
 
-(e) *Time and place of filing an answer.* An answer shall be filed by mailing or delivering a copy thereof, in proper form, to the Commission at its principal office in Washington, DC, addressed to the Office of Proceedings, Attention of the Proceedings Clerk. The answer may be filed in person, during normal business hours, or by certified mail, or registered mail with return receipt requested. If filing is by mail, it shall be addressed to the Proceedings Clerk, Office of Proceedings, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW., Washington, DC 20581.
+(e) *Time and place of filing an answer.* An answer shall be filed by delivering a copy thereof, in proper form to the Office of Proceedings at the Commission's Washington, DC headquarters. The answer may be filed in person, during normal business hours, or by certified mail, or registered mail with return receipt requested.
 
-[49 FR 6621, Feb. 22, 1984, as amended at 59 FR 9637, Mar. 1, 1994; 60 FR 49335, Sept. 25, 1995; 86 FR 64353, Nov. 18, 2021]
+[49 FR 6621, Feb. 22, 1984, as amended at 59 FR 9637, Mar. 1, 1994; 60 FR 49335, Sept. 25, 1995; 86 FR 64353, Nov. 18, 2021; 89 FR 71808, Sept. 4, 2024]

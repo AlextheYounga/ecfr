@@ -1,6 +1,6 @@
 ##### § 9.4 Filing and service; official docket. #####
 
-(a) *Filing with the Proceedings Clerk; proof of filing; proof of service.* Any document that is required by this part to be filed with the Proceedings Clerk must be filed by delivering it in person or by mail to: Proceedings Clerk, Office of Proceedings, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street NW, Washington, DC 20581. To be timely filed under this part, a document must be delivered or mailed to the Proceedings Clerk within the time prescribed for filing. A party must use a means of filing which is at least as expeditious as that used in serving that document upon the other parties. Proof of filing must be made by attaching to the document for filing a statement of service as provided in § 10.12(a)(6) of this chapter.
+(a) *Filing with the Proceedings Clerk; proof of filing; proof of service.* Any document that is required by this part to be filed with the Proceedings Clerk must be filed by delivering it in person or by mail to the Proceedings Clerk, Office of Proceedings at the Commission's Washington, DC headquarters. To be timely filed under this part, a document must be delivered or mailed to the Proceedings Clerk within the time prescribed for filing. A party must use a means of filing which is at least as expeditious as that used in serving that document upon the other parties. Proof of filing must be made by attaching to the document for filing a statement of service as provided in § 10.12(a)(6) of this chapter.
 
 (b) *Formalities of filing*—(1) *Number of copies.* Unless otherwise specifically provided, an original and one conformed copy of all documents filed with the Commission in accordance with the provisions of this part must be filed with the Proceedings Clerk.
 
@@ -18,4 +18,4 @@
 
 (d) *Official docket.* Upon receipt of a notice of appeal filed in accordance with § 9.20, or a petition for stay pending review filed in accordance with § 9.24, the Proceedings Clerk will establish and thereafter maintain the official docket of that proceeding and will assign a docket number to the proceeding.
 
-[52 FR 25366, July 7, 1987, as amended at 60 FR 49334, Sept. 25, 1995; 83 FR 1546, Mar. 13, 2018]
+[52 FR 25366, July 7, 1987, as amended at 60 FR 49334, Sept. 25, 1995; 83 FR 1546, Mar. 13, 2018; 89 FR 71807, Sept. 4, 2024]

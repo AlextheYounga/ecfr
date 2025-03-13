@@ -20,7 +20,7 @@
 
 (2) The Commission or the registered futures association of which the swap dealer is a member determines that the internal models are no longer sufficient for purposes of the capital calculations of the swap dealer as a result of changes in the operations of the swap dealer;
 
-(3) The swap dealer fails to come into compliance with its requirements under this section, after having received from the Director of the Commission's Division of Swap Dealer and Intermediary Oversight, or from the registered futures association of which the swap dealer is a member, written notification that the swap dealer is not in compliance with its requirements, and must come into compliance by a date specified in the notice; or
+(3) The swap dealer fails to come into compliance with its requirements under this section, after having received from the Director of the Commission's Market Participants Division, or from the registered futures association of which the swap dealer is a member, written notification that the swap dealer is not in compliance with its requirements, and must come into compliance by a date specified in the notice; or
 
 (4) The Commission by written order finds that permitting the swap dealer to continue to use the internal models is no longer appropriate.
 
@@ -30,4 +30,4 @@
 
 (3) A swap dealer shall cease using capital models subject to the certification under paragraph (f)(1) of this section if the regulatory authority that previously approved the models for use by the swap dealer, or by the swap dealer's affiliate, has withdrawn its approval and the Commission or a registered futures association has not approved the models.
 
-[85 FR 57550, Sept. 15, 2020, as amended at 89 FR 45586, May 23, 2024]
+[85 FR 57550, Sept. 15, 2020, as amended at 89 FR 45586, May 23, 2024; 89 FR 71810, Sept. 4, 2024]

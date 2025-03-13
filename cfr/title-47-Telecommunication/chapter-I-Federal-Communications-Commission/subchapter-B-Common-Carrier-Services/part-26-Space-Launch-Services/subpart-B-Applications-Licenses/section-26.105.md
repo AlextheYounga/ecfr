@@ -1,0 +1,5 @@
+##### § 26.105 Authorization required. #####
+
+(a) *General rule.* Stations in the Space Launch Services must be used and operated only in accordance with the service rules set forth in this part, including the terms of the frequency coordination performed pursuant to subpart C of this part, and with a valid authorization granted by the Commission under the provisions of this part, except as specified in paragraph (b) of this section.
+
+(b) *Restrictions.* The holding of an authorization does not create any rights beyond the terms, conditions, and period specified in the authorization. Authorizations may be granted upon proper application, provided that the Commission finds that the applicant is qualified in regard to citizenship, character, financial, technical, and other criteria, and that the public interest, convenience, and necessity will be served. *See* 47 U.S.C. 301, 308, 309, and 310.

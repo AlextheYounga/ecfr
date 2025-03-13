@@ -8,9 +8,10 @@
 
 (d) Where the disclosure involves medical records, the records may be provided only to a physician designated in writing by the individual.
 
-(e) Requests for copies of documents may be directed to the FOI, Privacy and Sunshine Acts compliance staff, Office of the Secretariat, or to the member of the Commission's staff through whom arrangements for access were made.
+(e) Requests for copies of documents may be directed to the FOIA compliance staffr to the member of the Commission's staff through whom arrangements for access were made.
 
-(f) Fees for copies of records shall be charged as set forth in the schedule of fees contained in appendix A to this part. Copies of the schedule may be obtained upon request from the FOI, Privacy and Sunshine Acts compliance staff, Office of the Secretariat, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW., Washington, DC 20581. Payment should be made by check or money order payable to the Commodity Futures Trading Commission. Advance payment of all or part of the fee may be required at the discretion of the Commission, but generally this will not be required for requests where the anticipated fee is less than $25.
+(f) Fees for copies of records shall be charged as set forth in the schedule of fees contained in appendix A to this part. Copies of the schedule may be obtained upon request from the FOIA compliance staff in the Office of the General Counsel at the Commission's Washington, DC headquarters and clearly marked “Privacy Act request”.
+. Payment should be made by check or money order payable to the Commodity Futures Trading Commission. Advance payment of all or part of the fee may be required at the discretion of the Commission, but generally this will not be required for requests where the anticipated fee is less than $25.
 
 (g) Nothing in this section or in § 146.3 shall:
 
@@ -20,4 +21,4 @@
 
 (3) Require the furnishing of information or records which cannot be retrieved by the name or other identifier of the individual making the request.
 
-[41 FR 3212, Jan. 21, 1976, as amended at 41 FR 28261, July 9, 1976; 45 FR 26954, Apr. 22, 1980; 60 FR 49335, Sept. 25, 1995]
+[41 FR 3212, Jan. 21, 1976, as amended at 41 FR 28261, July 9, 1976; 45 FR 26954, Apr. 22, 1980; 60 FR 49335, Sept. 25, 1995; 89 FR 71818, Sept. 4, 2024]

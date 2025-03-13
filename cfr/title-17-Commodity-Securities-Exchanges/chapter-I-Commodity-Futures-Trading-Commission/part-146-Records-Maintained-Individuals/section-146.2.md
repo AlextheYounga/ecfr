@@ -6,7 +6,7 @@ For purposes of this part 146:
 
 (b) The term *Executive Director* refers to the executive level staff official appointed pursuant to section 2(a)(5) of the Commodity Exchange Act.
 
-(c) The term *FOI, Privacy and Sunshine Acts compliance staff* refers to the staff in the Office of the Secretariat in the Commission's principal office in Washington, DC who are assigned to respond to requests and handle various other matters under the Freedom of Information Act, the Privacy Act of 1974 and the Government in the Sunshine Act;
+(c) The term *FOIA compliance staff* refers to the Freedom of Information Act compliance staff assigned to respond to requests for information under the Freedom of Information Act;
 
 (d) The term *individual* means a citizen of the United States or an alien lawfully admitted for permanent residence;
 
@@ -24,4 +24,4 @@ For purposes of this part 146:
 
 (k) The term *agency* means any executive department, military department, Government corporation, Government controlled corporation or other establishment in the Executive branch of the Government or any independent regulatory agency.
 
-[41 FR 3212, Jan. 21, 1976, as amended at 45 FR 26954, Apr. 22, 1980]
+[41 FR 3212, Jan. 21, 1976, as amended at 45 FR 26954, Apr. 22, 1980; 89 FR 71818, Sept. 4, 2024]

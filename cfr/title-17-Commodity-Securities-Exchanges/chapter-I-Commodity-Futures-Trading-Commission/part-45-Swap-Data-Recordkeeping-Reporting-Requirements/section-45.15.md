@@ -20,4 +20,4 @@
 
 (4) The Director of the Division of Market Oversight shall publish from time to time in the Federal Register and on the website of the Commission the technical specifications for swap data reporting pursuant to § 45.13(a)(1).
 
-[85 FR 75565, Nov. 25, 2020]
+[85 FR 75565, Nov. 25, 2020]Editorial Note:At 89 FR 71812, Sept. 4, 2024, § 45.15 was amended by revising paragraphs (a) introductory text, (a)(4), (b) introductory text, and (b)(4). However, the amendment could not be incorporated due to an error in the amendatory instruction that misidentified the section.

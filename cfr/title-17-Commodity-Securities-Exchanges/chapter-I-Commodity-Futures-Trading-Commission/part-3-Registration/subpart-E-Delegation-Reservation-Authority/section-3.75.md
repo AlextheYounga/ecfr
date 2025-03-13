@@ -1,6 +1,8 @@
 ##### § 3.75 Delegation and reservation of authority. #####
 
-(a) The Commission hereby delegates, until such time as it orders otherwise, to the Director of the Division of Swap Dealer and Intermediary Oversight or his or her designee the authority to grant or deny requests filed pursuant to § 3.12(g). The Director of the Division of Swap Dealer and Intermediary Oversight may submit to the Commission for its consideration any matter which has been delegated to him pursuant to § 3.12(g). The Commission hereby delegates, until such time as it orders otherwise, the authority to perform all functions specified in subparts B through D of this part to the persons authorized to perform them thereunder.
+(a) The Commission hereby delegates, until such time as it orders otherwise, to the Director of the Market Participants Division
+or his or her designee the authority to grant or deny requests filed pursuant to § 3.12(g). The Director of the Market Participants Division
+may submit to the Commission for its consideration any matter which has been delegated to them pursuant to § 3.12(g). The Commission hereby delegates, until such time as it orders otherwise, the authority to perform all functions specified in subparts B through D of this part to the persons authorized to perform them thereunder.
 
 (b) Nothing in this subpart shall prevent the Commission from exercising the authority delegated therein.
 

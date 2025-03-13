@@ -10,10 +10,10 @@
 
 (d) Public announcement of meetings, as required by this section, shall be provided as follows:
 
-(1) A public calendar shall be printed and distributed by the Commission on a regular basis to interested persons to provide advance public notice of meetings as required by paragraph (a) of this section, and, to the extent practicable, as required by paragraphs (b) and (c) of this section. Upon request in writing to the Office of Public Affairs, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW., Washington, DC 20581, any person or organization will be sent the public calendar on a regular basis free of charge. Copies of the public calendar also will be publicly available in the Commission's Office of Public Affairs.
+(1) A public calendar shall be printed and distributed by the Commission on a regular basis to interested persons to provide advance public notice of meetings as required by paragraph (a) of this section, and, to the extent practicable, as required by paragraphs (b) and (c) of this section. Upon request in writing to the Office of Public Affairs at the Commission's Washington, DC headquarters, Three Lafayette Centre, 1155 21st Street, NW., Washington, DC 20581, any person or organization will be sent the public calendar on a regular basis free of charge. Copies of the public calendar also will be publicly available in the Commission's Office of Public Affairs.
 
 (2) Interested persons may contact the Commission's Office of the Secretariat during normal business hours to obtain information concerning future meetings.
 
 (e) Immediately following each public announcement required by this section, the Commission shall submit for publication in the Federal Register, except to the extent that such information is exempt from disclosure under the provisions of § 147.3(b), notice of the time, place, and subject matter of a meeting, which portions of the meeting shall be open or closed to the public, any change in one of the preceding, and the name and telephone number of an official of the Commission who may be contacted for information about the meeting.
 
-[42 FR 13704, Mar. 11, 1977, as amended at 60 FR 49336, Sept. 25, 1995]
+[42 FR 13704, Mar. 11, 1977, as amended at 60 FR 49336, Sept. 25, 1995; 89 FR 71819, Sept. 4, 2024]

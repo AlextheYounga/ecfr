@@ -1,0 +1,7 @@
+##### § 26.201 Policies governing the assignment of frequencies. #####
+
+(a) Frequencies assigned to Space Launch Services stations are available on a shared basis only and will not be assigned for the exclusive use of any licensee.
+
+(b) Any base, fixed, itinerant, or mobile station operating in the band must comply with the frequency coordination requirements set forth in this subpart.
+
+(c) All applicants and licensees shall cooperate in the selection and use of frequencies for Space Launch Services and comply with the frequency coordination requirements in this subpart in order to minimize the potential for interference and make the most effective use of the authorized facilities. Information regarding registered launch sites, stations, and launches that have completed the frequency coordination process set forth in this subpart will be available at *https://wireless.fcc.gov/uls.* Licensees should examine this information before registering individual launch operations, and make every effort to ensure that their planned launch operations will not interfere or conflict with previously registered operations. Licensees of stations suffering or causing harmful interference are expected to cooperate and resolve this problem by mutually satisfactory arrangements.

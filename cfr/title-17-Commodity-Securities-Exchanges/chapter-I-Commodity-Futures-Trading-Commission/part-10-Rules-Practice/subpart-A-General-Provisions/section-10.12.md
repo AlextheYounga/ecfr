@@ -34,7 +34,7 @@
 
 (c) *Designation of person to receive service.* The first page of the first document filed in a proceeding by a party or participant must include the name and contact information of a person authorized to receive service on the party or participant's behalf. Contact information must include a post office address and daytime telephone number, and should also include the person's fax or email. Thereafter service of documents shall be made upon the person authorized unless service on the party himself is ordered by the Administrative Law Judge or the Commission, or unless no person authorized to receive service can be found, or unless the person authorized to receive service is changed by the party upon due notice to all other parties.
 
-(d) *Filing of documents with the Proceedings Clerk.* (1) All documents which are required to be served upon a party shall be filed concurrently with the Proceedings Clerk. A document shall be filed by delivering it in person or by first-class mail or a more expeditious form of United States mail or by overnight or similar commercial delivery service to Proceedings Clerk, Office of Proceedings, Three Lafayette Centre, 1155 21st Street NW., Washington, DC 20581; or faxing the document to (202) 418-5532; or emailing it to *PROC\_\_Filings@cftc.gov* in accordance with the conditions set forth in paragraph (a)(2) of this section.
+(d) *Filing of documents with the Proceedings Clerk.* (1) All documents which are required to be served upon a party shall be filed concurrently with the Proceedings Clerk. A document shall be filed by delivering it in person or by first-class mail or a more expeditious form of United States mail or by overnight or similar commercial delivery service to the Proceedings Clerk, Office of Proceedings at the Commission's Washington, DC headquarters; or faxing the document to (202) 418-5532; or emailing it to *PROC\_\_Filings@cftc.gov* in accordance with the conditions set forth in paragraph (a)(2) of this section.
 
 (2) To be timely filed under this part, a document must be delivered in person; mailed by first-class or a more expeditious form of United States mail or by an overnight or similar commercial delivery service; or faxed or emailed to the Proceedings Clerk within the time prescribed for filing.
 
@@ -60,4 +60,4 @@
 
 (f) *Official docket.* The Proceedings Clerk will maintain the official docket for each proceeding. The official docket is available for public inspection in the Commission's Office of Proceedings.
 
-[41 FR 2511, Jan. 16, 1976, as amended at 41 FR 28260, July 9, 1976; 60 FR 54802, Oct. 26, 1995; 63 FR 55791, Oct. 19, 1998; 73 FR 63360, Oct. 24, 2008; 78 FR 12935, Feb. 26, 2013]
+[41 FR 2511, Jan. 16, 1976, as amended at 41 FR 28260, July 9, 1976; 60 FR 54802, Oct. 26, 1995; 63 FR 55791, Oct. 19, 1998; 73 FR 63360, Oct. 24, 2008; 78 FR 12935, Feb. 26, 2013; 89 FR 71807, Sept. 4, 2024]

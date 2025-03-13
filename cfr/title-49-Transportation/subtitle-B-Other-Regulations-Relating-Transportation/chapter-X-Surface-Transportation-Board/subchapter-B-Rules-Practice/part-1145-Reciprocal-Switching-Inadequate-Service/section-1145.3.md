@@ -1,0 +1,13 @@
+##### § 1145.3 Affirmative defenses. #####
+
+An incumbent rail carrier shall be deemed not to fail a performance standard in § 1145.2 if any of the conditions described in this section are met. The Board will also consider, on a case-by-case basis, affirmative defenses that are not specified in this section.
+
+(a) The rail carrier experiences extraordinary circumstances beyond the carrier's control, including but not limited to unforeseen track outages stemming from natural disasters, severe weather events, flooding, accidents, derailments, and washouts. A carrier's intentional reduction or maintenance of its workforce at a level that itself causes workforce shortage, or, in the event of a workforce shortage, failure to use reasonable efforts to increase its workforce, would not, on its own, be considered a defense for failure to meet any performance standard. A carrier's intentional reduction or maintenance of its power or car supply, or failure to use reasonable efforts to maintain its power or car supply, that itself causes a failure of any performance standard would not, on its own, be considered a defense.
+
+(b) The petitioner's traffic increases by 20% or more during the 12-week period in question, as compared to the preceding 12 weeks (for non-seasonal traffic) or the same 12 weeks during the previous year (for seasonal traffic such as agricultural shipments), where the petitioner failed to notify the incumbent rail carrier at least 12 weeks prior to the increase.
+
+(c) There are highly unusual shipments by the shipper during any week of the 12-week period in question. For example, a pattern might be considered highly unusual if a shipper projected traffic of 120 cars in a month and 30 cars per week, but the shipper had a plant outage for three weeks and then requested shipment of 120 cars in a single week.
+
+(d) The incumbent rail carrier's failure to meet the performance standard is due to the dispatching choices of a third party.
+
+(e) The incumbent rail carrier's failure to meet the performance standard was directly caused by the conduct of a third party. This defense will be narrowly construed to avoid undue delay of the proceeding and unnecessary litigation costs. When presenting a defense under this paragraph (e), the incumbent rail carrier must prove that such conduct was outside its reasonable control. The incumbent rail carrier must also prove that it took reasonable steps to prevent and mitigate the impact of the third-party conduct or, if the impact could not be reasonably prevented, that the incumbent carrier took reasonable steps to mitigate the impact of the third-party conduct.

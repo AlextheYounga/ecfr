@@ -1,7 +1,5 @@
 ##### 501.106 OMB approval under the Paperwork Reduction Act. #####
 
-Link to an amendment published at 89 FR 63327, Aug. 5, 2024.
-
 The Paperwork Reduction Act of 1980 (44 U.S.C. 35, *et seq.*) imposes a requirement on Federal agencies to obtain approval from the Office of Management and Budget (OMB) before collecting information from 10 or more members of the public. The information collection and recordkeeping requirements contained in this section have been approved by the OMB. This table includes OMB approved control numbers from GSA (3090 series) and the Federal Acquisition Regulations (FAR) (9000 series) that are applicable to GSA acquisition requirements. The following OMB control numbers apply:
 
 |GSAR reference|                        OMB control No.                         |
@@ -13,7 +11,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 35, *et seq.*) imposes a requirem
 |  514.201-1   |                           3090-0163                            |
 |515.209-70(b) |                           3090-0163                            |
 |   515.408    |                           3090-0235                            |
-|   516.506    |                           3090-0248                            |
+|   516.506    |                      3090-0248, 3090-0306                      |
 |   523.370    |                           3090-0205                            |
 |  532.905-70  |                           3090-0080                            |
 |   538.273    |3090-0163, 3090-0235, 3090-0250, 3090-0262, 3090-0303, 3090-0306|
@@ -23,7 +21,6 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 35, *et seq.*) imposes a requirem
 |552.211-70(b) |                           9000-0058                            |
 |  552.211-77  |                           3090-0246                            |
 |  552.215-73  |                           3090-0163                            |
-|  552.216-70  |                           3090-0235                            |
 |  552.216-72  |                           3090-0248                            |
 |  552.216-73  |                           3090-0248                            |
 |  552.216-75  |                           3090-0306                            |
@@ -40,6 +37,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 35, *et seq.*) imposes a requirem
 |  552.238-80  |                      3090-0235, 3090-0306                      |
 |  552.238-81  |                      3090-0235, 3090-0306                      |
 |  552.238-82  |                           3090-0302                            |
+|  552.238-83  |                      3090-0235, 3090-0306                      |
 |  552.238-84  |                           3090-0303                            |
 |  552.238-85  |                      3090-0235, 3090-0306                      |
 |  552.238-87  |                           3090-0303                            |
@@ -48,6 +46,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 35, *et seq.*) imposes a requirem
 |  552.238-97  |                           3090-0303                            |
 |  552.238-99  |                           3090-0303                            |
 | 552.238-111  |                           3090-0303                            |
+| 552.238-120  |                      3090-0235, 3090-0306                      |
 |  552.239-70  |                           3090-0300                            |
 |  552.242-70  |                           3090-0027                            |
 |  552.246-70  |                           3090-0027                            |
@@ -63,4 +62,4 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 35, *et seq.*) imposes a requirem
 |   GSA-1678   |                           3090-0027                            |
 |   GSA-2419   |                           9000-0102                            |
 
-[86 FR 21664, Apr. 23, 2021, as amended at 86 FR 34978, July 1, 2021; 87 FR 7394, Feb. 9, 2022; 88 FR 53812, Aug. 9, 2023]
+[86 FR 21664, Apr. 23, 2021, as amended at 86 FR 34978, July 1, 2021; 87 FR 7394, Feb. 9, 2022; 88 FR 53812, Aug. 9, 2023; 89 FR 63327, Aug. 5, 2024]

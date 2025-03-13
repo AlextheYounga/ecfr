@@ -310,7 +310,7 @@
 
 (*ii*) Has the right to demand a distribution of or withdraw substantially all of the assets from the trust; or
 
-(*3* As a grantor or settlor who has the right to revoke the trust or otherwise withdraw the assets of the trust; or
+(*3*) As a grantor or settlor who has the right to revoke the trust or otherwise withdraw the assets of the trust; or
 
 (D) Through ownership or control of one or more intermediary entities, or ownership or control of the ownership interests of any such entities, that separately or collectively own or control ownership interests of the reporting company.
 

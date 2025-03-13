@@ -2,7 +2,7 @@
 
 (a) *In general.* Any covered affiliate must adopt must adopt reasonable, written policies and procedures that address administrative, technical, and physical safeguards for the protection of consumer information. These written policies and procedures must be reasonably designed to:
 
-(1) Insure the security and confidentiality of consumer information;
+(1) Ensure the security and confidentiality of consumer information;
 
 (2) Protect against any anticipated threats or hazards to the security or integrity of consumer information; and
 
@@ -23,3 +23,5 @@
 (1) To require a person to maintain or destroy any record pertaining to a consumer that is imposed under Sec. 1.31 or any other provision of law; or
 
 (2) To alter or affect any requirement imposed under any other provision of law to maintain or destroy such a record.
+
+[66 FR 21252, Apr. 27, 2001, as amended at 89 FR 71820, Sept. 4, 2024]

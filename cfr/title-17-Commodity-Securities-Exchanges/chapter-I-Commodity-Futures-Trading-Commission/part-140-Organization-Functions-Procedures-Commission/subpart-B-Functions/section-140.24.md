@@ -8,11 +8,11 @@ Persons entrusted with classified information shall be responsible for providing
 
 (3) All copies of classified documents and any informal material such as memoranda, rough drafts, shorthand notes, carbon copies, carbon paper, typewriter ribbons, recording discs, spools and tapes shall be given the same classification and secure handling as the classified information they contain.
 
-(4) Commission personnel authorized to use classified materials will obtain them from the Executive Director or his delegee on the day required and return them to the Executive Director or his delegee before the close of business on the same day.
+(4) Commission personnel authorized to use classified materials will obtain them from the Executive Director or their designee on the day required and return them to the Executive Director or their designee before the close of business on the same day.
 
 (5) Classified information shall not be revealed in telephone or telecommunications conversations.
 
-(6) Any person who has knowledge of the loss or possible compromise of classified information shall immediately report the circumstances either to the Security Officer or to the Executive Director or his delegee. The Executive Director or his delegee shall initiate a preliminary inquiry to determine the circumstances surrounding an actual or possible compromise, and to determine what corrective measures and administrative, disciplinary, or legal action is necessary.
+(6) Any person who has knowledge of the loss or possible compromise of classified information shall immediately report the circumstances either to the Security Officer or to the Executive Director or their designee in consultation with the General Counsel or their designee. The Executive Director or his delegee shall initiate a preliminary inquiry to determine the circumstances surrounding an actual or possible compromise, and to determine what corrective measures and administrative, disciplinary, or legal action is necessary.
 
 (b) *Reproduction controls.* (1) The number of copies of documents containing classified information must be kept to the minimum required by operational necessity to decrease the risk of compromise and reduce storage costs.
 
@@ -32,4 +32,4 @@ Persons entrusted with classified information shall be responsible for providing
 
 (2) In addition, the Commission remains subject to the provisions of 32 CFR part 2001, *et seq.,* insofar as they are applicable to classified materials held by the Commission.
 
-[48 FR 15464, Apr. 11, 1983, as amended at 61 FR 21955, May 13, 1996]
+[48 FR 15464, Apr. 11, 1983, as amended at 61 FR 21955, May 13, 1996; 89 FR 71813, Sept. 4, 2024]
