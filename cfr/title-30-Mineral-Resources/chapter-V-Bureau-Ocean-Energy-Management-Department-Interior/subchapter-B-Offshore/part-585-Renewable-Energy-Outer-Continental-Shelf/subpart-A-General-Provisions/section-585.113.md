@@ -1,5 +1,7 @@
 ##### § 585.113 Definitions. #####
 
+Link to an amendment published at 88 FR 68462, Oct. 4, 2023.
+
 Terms used in this part have the meanings as defined in this section:
 
 *Affected local government* means with respect to any activities proposed, conducted, or approved under this part or 30 CFR part 285, any locality—
