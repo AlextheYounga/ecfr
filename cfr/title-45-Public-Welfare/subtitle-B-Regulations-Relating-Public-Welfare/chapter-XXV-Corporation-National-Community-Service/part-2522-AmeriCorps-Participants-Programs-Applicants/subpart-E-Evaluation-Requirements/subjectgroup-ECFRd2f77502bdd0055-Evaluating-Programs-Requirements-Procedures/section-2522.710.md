@@ -1,6 +1,6 @@
 ##### § 2522.710 What are my evaluation requirements? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.
+Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 (a) If you are a State commission, you must establish and enforce evaluation requirements for your State formula subgrantees, as you deem appropriate.
 

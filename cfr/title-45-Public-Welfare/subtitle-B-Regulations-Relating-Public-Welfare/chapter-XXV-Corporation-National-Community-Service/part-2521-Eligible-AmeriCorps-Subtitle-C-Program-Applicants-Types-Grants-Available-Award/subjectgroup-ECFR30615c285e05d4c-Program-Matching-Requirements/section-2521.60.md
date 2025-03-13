@@ -1,6 +1,6 @@
 ##### § 2521.60 To what extent must my share of program costs increase over time? #####
 
-Link to an amendment published at 89 FR 46033, May 28, 2024.
+Link to an amendment published at 89 FR 46033, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 Except as provided in paragraph (b) of this section, if your program continues to receive funding after an initial three-year grant period, you must continue to meet the minimum requirements in § 2541.45 of this part. In addition, your required share of program costs, including member support and operating costs, will incrementally increase to a 50 percent overall share by the tenth year and any year thereafter that you receive a grant, without a break in funding of five years or more. A 50 percent overall match means that you will be required to match $1 for every $1 you receive from the Corporation.
 

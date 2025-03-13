@@ -1,12 +1,12 @@
 ##### § 25.114 Applications for space station authorizations. #####
 
-Link to an amendment published at 85 FR 52450, Aug. 25, 2020.Link to an amendment published at 86 FR 49489, Sept. 3, 2021.Link to an amendment published at 87 FR 72403, Nov. 25, 2022.Link to an amendment published at 89 FR 58072, July 17, 2024.Link to an amendment published at 89 FR 65217, Aug. 9, 2024.Link to an amendment published at 89 FR 65223, Aug. 9, 2024.
+Link to an amendment published at 85 FR 52450, Aug. 25, 2020.Link to an amendment published at 89 FR 65217, Aug. 9, 2024.Link to an amendment published at 89 FR 65223, Aug. 9, 2024.
 
 (a)(1) A license application filed pursuant to § 25.110(b)(2) for a GSO space station or NGSO space station or space-station constellation must comprise a comprehensive proposal and must be submitted on FCC Form 312, Main Form and Schedule S, with attached exhibits required by paragraph (d) of this section.
 
 (2) An application for blanket authority for an NGSO constellation of space stations that are not all technically identical must provide the information required by paragraphs (c) and (d) of this section for each type of station in the constellation.
 
-(3) For an application filed pursuant to the two-step procedure in § 25.110(b)(3), the filing pursuant to § 25.110(b)(3)(iii) must be submitted on FCC Form 312, Main Form and Schedule S, with attached exhibits as required by paragraph (d) of this section, and must constitute a comprehensive proposal.
+(3) For an application filed pursuant to the two-step procedure in § 25.110(b)(3), the filing pursuant to § 25.110(b)(3)(iv) must be submitted on FCC Form 312, Main Form and Schedule S, with attached exhibits as required by paragraph (d) of this section, and must constitute a comprehensive proposal.
 
 (4) For an application filed pursuant to the SCS procedure in § 25.125, the filing must be submitted on FCC Form 312, Main Form and Schedule S, with attached exhibits as required by paragraph (d) of this section, and must constitute a comprehensive proposal.
 
@@ -98,7 +98,7 @@ Link to an amendment published at 85 FR 52450, Aug. 25, 2020.Link to an amendmen
 
 (6) Public interest considerations in support of grant;
 
-(7) Applicants for authorizations for space stations in the Fixed-Satellite Service, including applicants proposing feeder links for space stations operating in the 17/24 GHz Broadcasting-Satellite Service, must also include the information specified in § 25.140(a). Applicants for authorizations for space stations in the 17/24 GHz Broadcasting-Satellite Service must also include the information specified in § 25.140(b);
+(7) Applicants for authorizations for space stations in the Fixed-Satellite Service, including applicants proposing feeder links for space stations operating in the 17/24 GHz Broadcasting-Satellite Service, must also include the information specified in § 25.140(a). Applicants for authorizations for space stations in the 17/24 GHz Broadcasting-Satellite Service or applicants seeking authorization for FSS space stations transmitting in the 17.3-17.8 GHz band (space-to-Earth), must also include the information specified in § 25.140(b);
 
 (8) Applications for authorizations in the Mobile-Satellite Service in the 1545-1559/1646.5-1660.5 MHz frequency bands shall also provide all information necessary to comply with the policies and procedures set forth in Rules and Policies Pertaining to the Use of Radio Frequencies in a Land Mobile Satellite Service, 2 FCC Rcd 485 (1987) (Available at address in § 0.445 of this chapter.);
 
@@ -128,23 +128,21 @@ Link to an amendment published at 85 FR 52450, Aug. 25, 2020.Link to an amendmen
 
 (v) For non-U.S.-licensed space stations, the requirement to describe the design and operational strategies to minimize orbital debris risk can be satisfied by demonstrating that debris mitigation plans for the space station(s) for which U.S. market access is requested are subject to direct and effective regulatory oversight by the national licensing authority.
 
-(15) Each applicant for a space station license in the 17/24 GHz broadcasting-satellite service shall include the following information as an attachment to its application:
+(15) Each applicant for a space station license in the 17/24 GHz Broadcasting-Satellite Service or the FSS transmitting in the 17.3-17.8 GHz band, shall include the following information as an attachment to its application:
 
-(i) If the applicant proposes to operate in the 17.3-17.7 GHz frequency band, a demonstration that the proposed space station will comply with the power flux density limits in § 25.208(w) unless the applicant provides a certification under paragraph (d)(15)(ii) of this section.
+(i) If the applicant proposes to operate in the 17.3-17.8 GHz band, a demonstration that the proposed space station will comply with the applicable power flux density limits in § 25.140(a)(3)(iii) or (b)(3) unless the applicant provides a certification under paragraph (d)(15)(ii) of this section.
 
-(ii) In cases where the proposed space station will not comply with the power flux density limits set forth in § 25.208(w) of this part, the applicant will be required to provide a certification that all potentially affected parties acknowledge and do not object to the use of the applicant's higher power flux densities. The affected parties with whom the applicant must coordinate are those GSO 17/24 GHz BSS satellite networks located up to ±6° away for excesses of up to 3 dB above the power flux-density levels specified in § 25.208(w) of this part, and up to ±10° away greater for excesses greater than 3 dB above those levels.
+(ii) In cases where the proposed space station will not comply with the applicable power flux density limits set forth in § 25.140(a)(3)(iii) or (b)(3), the applicant will be required to provide a certification that all potentially affected parties acknowledge and do not object to the use of the applicant's higher power flux densities. The affected parties with whom the applicant must coordinate are those GSO 17/24 GHz BSS satellite networks or FSS satellite networks with space stations transmitting in the 17.3-17.8 GHz band that are located up to ±6° away. Excesses of more than 3 dB above the applicable power flux density levels specified in § 25.140(a)(3)(iii) or (b)(3), must also be coordinated with 17/24 GHz BSS satellite networks located up to ±10° away.
 
-(iii) If the applicant proposes to provide international service in the 17.7-17.8 GHz frequency band, a certification that the proposed space station will comply with the power flux density limits in § 25.208(c).
-
-(iv) Any information required by § 25.264(a)(6), 25.264(b)(4), or 25.264(d).
+(iii) Any information required by § 25.264(a)(6), (b)(4), or (d).
 
 (16) In addition to the requirements of paragraph (d)(15) of this section, each applicant for a license to operate a 17/24 GHz BSS space station that will be used to provide video programming directly to consumers in the United States, that will not meet the requirements of § 25.225 of this part, must include as an attachment to its application a technical analysis demonstrating that providing video programming service to consumers in Alaska and Hawaii that is comparable to the video programming service provided to consumers in the 48 contiguous United States (CONUS) is not feasible as a technical matter or that, while technically feasible, such service would require so many compromises in satellite design and operation as to make it economically unreasonable.
 
 (17) [Reserved]
 
-(18) For space stations in the Direct Broadcast Satellite service or the 17/24 GHz broadcasting-satellite service, maximum orbital eccentricity.
+(18) For space stations in the Direct Broadcast Satellite service, the 17/24 GHz Broadcasting-Satellite Service, or FSS space stations transmitting in the 17.3-17.8 GHz band, maximum orbital eccentricity.
 
-[68 FR 63997, Nov. 12, 2003, as amended at 69 FR 29901, May 26, 2004; 69 FR 47794, Aug. 6, 2004; 69 FR 54587, Sept. 9, 2004; 72 FR 50027, Aug. 29, 2007; 72 FR 60278, Oct. 24, 2007; 76 FR 50431, Aug. 15, 2011; 78 FR 8421, Feb. 6, 2013; 79 FR 8314, Feb. 12, 2014; 81 FR 55326, Aug. 18, 2016; 82 FR 59984, Dec. 18, 2017; 83 FR 34489, July 20, 2018; 85 FR 43733, July 20, 2020; 89 FR 34166, Apr. 30, 2024]Effective Date Notes:1. At 85 FR 52450, Aug. 25, 2020, § 25.114 was amended by revising paragraph (d)(14). This amendment contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget. For the convenience of the user, the revised text is set forth below:
+[68 FR 63997, Nov. 12, 2003, as amended at 69 FR 29901, May 26, 2004; 69 FR 47794, Aug. 6, 2004; 69 FR 54587, Sept. 9, 2004; 72 FR 50027, Aug. 29, 2007; 72 FR 60278, Oct. 24, 2007; 76 FR 50431, Aug. 15, 2011; 78 FR 8421, Feb. 6, 2013; 79 FR 8314, Feb. 12, 2014; 81 FR 55326, Aug. 18, 2016; 82 FR 59984, Dec. 18, 2017; 83 FR 34489, July 20, 2018; 85 FR 43733, July 20, 2020; 89 FR 34166, Apr. 30, 2024; 86 FR 49489, Sept. 3, 2021; 87 FR 72403, Nov. 25, 2022; 89 FR 58072, July 17, 2024]Effective Date Notes:1. At 85 FR 52450, Aug. 25, 2020, § 25.114 was amended by revising paragraph (d)(14). This amendment contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget. For the convenience of the user, the revised text is set forth below:
 
 ##### § 25.114 Applications for space station authorizations. #####
 

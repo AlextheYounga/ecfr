@@ -1,6 +1,6 @@
 ##### § 2520.55 When may my organization collect fees for services provided by AmeriCorps members? #####
 
-Link to an amendment published at 89 FR 46033, May 28, 2024.
+Link to an amendment published at 89 FR 46033, May 28, 2024.Link to a correction published at 89 FR 66614, Aug. 16, 2024.
 
 You may, where appropriate, collect fees for direct services provided by AmeriCorps members if:
 

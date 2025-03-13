@@ -1,6 +1,6 @@
 ##### § 2520.65 What activities are prohibited in AmeriCorps subtitle C programs? #####
 
-Link to an amendment published at 89 FR 46033, May 28, 2024.
+Link to an amendment published at 89 FR 46033, May 28, 2024.Link to a correction published at 89 FR 66614, Aug. 16, 2024.
 
 (a) While charging time to the AmeriCorps program, accumulating service or training hours, or otherwise performing activities supported by the AmeriCorps program or the Corporation, staff and members may not engage in the following activities:
 

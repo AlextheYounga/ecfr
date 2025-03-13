@@ -1,6 +1,6 @@
 ##### § 2522.610 What is the difference in performance measurements requirements for competitive and formula programs? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.
+Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 (a) Except as provided in paragraph (b) of this section, State commissions are responsible for making the final determination of performance measures for State formula programs, while the Corporation makes the final determination for all other programs.
 

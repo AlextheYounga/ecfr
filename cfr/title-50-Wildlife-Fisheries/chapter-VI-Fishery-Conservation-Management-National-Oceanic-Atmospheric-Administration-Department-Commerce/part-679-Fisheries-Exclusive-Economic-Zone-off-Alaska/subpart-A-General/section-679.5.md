@@ -1,6 +1,6 @@
 ##### § 679.5 Recordkeeping and reporting (R&R). #####
 
-Link to an amendment published at 89 FR 60808, July 29, 2024.
+Link to an amendment published at 89 FR 60808, July 29, 2024.Link to an amendment published at 89 FR 66637, Aug. 16, 2024.
 
 (a) *General R&R requirements.* R&R requirements include, but are not limited to, paper and electronic documentation, logbooks, forms, reports, receipts, computer printouts, and requests for inspection described in this section and in § 679.28.
 

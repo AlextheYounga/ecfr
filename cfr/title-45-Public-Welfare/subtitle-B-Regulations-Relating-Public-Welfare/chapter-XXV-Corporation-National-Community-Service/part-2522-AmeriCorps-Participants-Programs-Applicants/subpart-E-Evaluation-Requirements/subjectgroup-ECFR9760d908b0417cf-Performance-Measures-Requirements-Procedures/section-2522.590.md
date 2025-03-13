@@ -1,6 +1,6 @@
 ##### § 2522.590 Who develops my performance measures? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.
+Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 (a) You are responsible for developing your program-specific performance measures through your own internal process.
 

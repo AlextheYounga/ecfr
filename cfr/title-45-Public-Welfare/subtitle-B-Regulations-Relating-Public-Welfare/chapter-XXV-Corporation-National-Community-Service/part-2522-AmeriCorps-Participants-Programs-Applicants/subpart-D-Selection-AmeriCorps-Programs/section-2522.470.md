@@ -1,6 +1,6 @@
 ##### § 2522.470 What other factors or information may the Corporation consider in making final funding decisions? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.
+Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 (a) The Corporation will seek to ensure that our portfolio of AmeriCorps programs is programmatically, demographically, and geographically diverse and includes innovative programs, and projects in rural, high poverty, and economically distressed areas.
 

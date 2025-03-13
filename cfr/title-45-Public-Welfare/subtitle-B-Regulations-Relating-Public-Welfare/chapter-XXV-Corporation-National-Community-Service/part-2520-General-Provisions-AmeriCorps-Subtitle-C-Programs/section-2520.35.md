@@ -1,6 +1,6 @@
 ##### § 2520.35 Must my program recruit or support volunteers? #####
 
-Link to an amendment published at 89 FR 46033, May 28, 2024.
+Link to an amendment published at 89 FR 46033, May 28, 2024.Link to a correction published at 89 FR 66614, Aug. 16, 2024.
 
 (a) Unless the Corporation or the State commission, as appropriate, approves otherwise, some component of your program that is supported through the grant awarded by the Corporation must involve recruiting or supporting volunteers.
 

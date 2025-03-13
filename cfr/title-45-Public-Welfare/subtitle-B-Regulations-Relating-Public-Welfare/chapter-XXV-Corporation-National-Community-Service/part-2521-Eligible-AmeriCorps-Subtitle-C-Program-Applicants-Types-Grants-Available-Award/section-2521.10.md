@@ -1,6 +1,6 @@
 ##### § 2521.10 Who may apply to receive an AmeriCorps subtitle C grant? #####
 
-Link to an amendment published at 89 FR 46033, May 28, 2024.
+Link to an amendment published at 89 FR 46033, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 (a) States (including Territories), subdivisions of States, Indian tribes, public or private nonprofit organizations (including religious organizations and labor organizations), and institutions of higher education are eligible to apply for AmeriCorps subtitle C grants. However, the fifty States, the District of Columbia and Puerto Rico must first receive Corporation authorization for the use of a State Commission or alternative administrative or transitional entity pursuant to part 2550 of this chapter in order to be eligible.
 

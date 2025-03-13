@@ -1,6 +1,6 @@
 ##### § 2522.310 What are the application requirements for AmeriCorps educational awards only? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.
+Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 (a) Eligible applicants may apply for AmeriCorps educational awards only for one of the following eligible service positions: (1) A position for a participant in an AmeriCorps program that:
 

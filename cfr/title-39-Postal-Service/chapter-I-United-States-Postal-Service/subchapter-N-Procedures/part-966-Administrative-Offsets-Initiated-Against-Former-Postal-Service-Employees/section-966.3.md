@@ -18,6 +18,6 @@
 
 (i) *Reconsideration* refers to the review of an alleged debt and/or the proposed offset schedule conducted by the Accounting Service Center at the request of a former employee alleged to be indebted to the Postal Service.
 
-(j) *Recorder* refers to the Recorder, Judicial Officer Department, United States Postal Service, 2101 Wilson Boulevard, Suite 600, Arlington, VA 22201-3078. The recorder's telephone number is (703) 812-1900, and the Judicial Officer's Web site is *http://about.usps.com/who-we-are/judicial/welcome.htm.* The recorder's telephone number is (703) 812-1900, and the Judicial Officer's website is *https://about.usps.com/who/judicial/.*
+(j) *Recorder* refers to the Recorder, Judicial Officer Department, United States Postal Service, 2101 Wilson Boulevard, Suite 600, Arlington, VA 22201-3078. The recorder's telephone number is (703) 812-1900, and the Judicial Officer's website is *https://about.usps.com/who/judicial/.* The fax number is (703) 812-1901.
 
-[77 FR 65104, Oct. 25, 2012, as amended at 89 FR 61022, July 30, 2024]
+[77 FR 65104, Oct. 25, 2012, as amended at 89 FR 61022, July 30, 2024; 89 FR 66599, Aug. 16, 2024]

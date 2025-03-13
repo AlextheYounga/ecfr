@@ -1,6 +1,6 @@
 ##### § 2522.200 What are the eligibility requirements for an AmeriCorps participant? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.
+Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 (a) *Eligibility.* An AmeriCorps participant must—
 

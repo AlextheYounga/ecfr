@@ -1,5 +1,7 @@
 ##### § 679.81 Rockfish Program annual harvester privileges. #####
 
+Link to an amendment published at 89 FR 66637, Aug. 16, 2024.
+
 (a) *Sector and LLP license allocations of rockfish primary species*—(1) *General.* Each calendar year, the Regional Administrator will determine the tonnage of rockfish primary species that will be assigned to participants in a rockfish cooperative. This amount will be assigned to rockfish cooperatives as described in paragraph (b) of this section.
 
 (2) *Calculation.* (i) The amount of rockfish primary species “s” allocated to the Rockfish Program is calculated by deducting the incidental catch allowance the Regional Administrator determines is required on an annual basis in other non-target fisheries from the TAC. The remaining TAC for that rockfish primary species (TACs) is assigned for use by the rockfish entry level longline fishery and rockfish cooperatives.

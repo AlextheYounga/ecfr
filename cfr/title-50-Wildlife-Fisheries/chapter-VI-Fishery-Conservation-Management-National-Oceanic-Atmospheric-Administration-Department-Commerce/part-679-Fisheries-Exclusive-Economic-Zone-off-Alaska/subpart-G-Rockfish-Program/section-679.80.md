@@ -1,5 +1,7 @@
 ##### § 679.80 Allocation and transfer of rockfish QS. #####
 
+Link to an amendment published at 89 FR 66637, Aug. 16, 2024.
+
 Additional regulations that implement specific portions of the Rockfish Program are set out under: § 679.2 Definitions, § 679.4 Permits, § 679.5 Recordkeeping and reporting, § 679.7 Prohibitions, § 679.20 General limitations, § 679.21 Prohibited species bycatch management, § 679.28 Equipment and operational requirements, and § 679.50 Groundfish Observer Program.
 
 (a) *Applicable areas and seasons*—(1) *Applicable areas.* The Rockfish Program applies to Rockfish Program fisheries in the Central GOA Regulatory Area.

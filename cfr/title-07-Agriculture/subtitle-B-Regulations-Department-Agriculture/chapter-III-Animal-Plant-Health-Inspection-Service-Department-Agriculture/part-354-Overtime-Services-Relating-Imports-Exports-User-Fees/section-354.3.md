@@ -1,6 +1,6 @@
 ##### § 354.3 User fees for certain international services. #####
 
-Link to an amendment published at 89 FR 38636, May 7, 2024.
+Link to an amendment published at 89 FR 38636, May 7, 2024.Link to an correction published at 89 FR 66543, Aug. 16, 2024.
 
 (a) *Definitions.* Whenever in this section the following terms are used, unless the context otherwise requires, they shall be construed, respectively, to mean:
 

@@ -1,6 +1,6 @@
 ##### § 2522.210 How are AmeriCorps participants recruited and selected? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.
+Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 (a) *Local recruitment and selection.* In general, AmeriCorps participants will be selected locally by an approved AmeriCorps program, and the selection criteria will vary widely among the different programs. Nevertheless, AmeriCorps programs must select their participants in a fair and non-discriminatory manner which complies with part 2540 of this chapter. In selecting participants, programs must also comply with the recruitment and selection requirements specified in this section.
 

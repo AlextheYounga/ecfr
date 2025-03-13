@@ -52,6 +52,6 @@
 
 (Authority: 38 U.S.C. 3105(c)(2))
 
-(d) *Approval of extension beyond 48 months.* All extensions of a rehabilitation program beyond 48 months of total entitlement under all Department of Veterans Affairs programs requires the approval of the Counseling Psychologist (CP) or Vocational Rehabilitation Counselor (VRC) and concurrence of the Veteran Readiness and Employment (VR&E) Officer. Concurrence of the VR&E officer is not required for an extension due to provision of employment assistance (see § 21.21).
+(d) *Approval of extension beyond 48 months.* All extensions of a rehabilitation program beyond 48 months of total entitlement under all Department of Veterans Affairs programs requires the approval of the Counseling Psychologist (CP) or Vocational Rehabilitation Counselor (VRC) and concurrence of the Veteran Readiness and Employment (VR&E) Officer or designee. Concurrence of the VR&E officer is not required for an extension due to provision of employment assistance (see § 21.21).
 
-(Authority: 38 U.S.C. 3105(b))[49 FR 40814, Oct. 18, 1984, as amended at 54 FR 4283, Jan. 30, 1989; 57 FR 57108, Dec. 3, 1992; 81 FR 26131, May 2, 2016; 87 FR 8742, Feb. 16, 2022]
+(Authority: 38 U.S.C. 3105(b))[49 FR 40814, Oct. 18, 1984, as amended at 54 FR 4283, Jan. 30, 1989; 57 FR 57108, Dec. 3, 1992; 81 FR 26131, May 2, 2016; 87 FR 8742, Feb. 16, 2022; 89 FR 66580, Aug. 16, 2024]

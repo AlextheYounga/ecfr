@@ -1,6 +1,6 @@
 ##### § 2521.30 How will AmeriCorps subtitle C program grants be awarded? #####
 
-Link to an amendment published at 89 FR 46033, May 28, 2024.
+Link to an amendment published at 89 FR 46033, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 In any fiscal year, the Corporation will award AmeriCorps subtitle C program grants as follows:
 

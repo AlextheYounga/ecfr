@@ -1,7 +1,5 @@
 ##### § 25.117 Modification of station license. #####
 
-Link to an amendment published at 87 FR 72404, Nov. 25, 2022.Link to an amendment published at 89 FR 58072, July 17, 2024.
-
 (a) Except as provided for in § 25.118 (Modifications not requiring prior authorization), no modification of a radio station governed by this part which affects the parameters or terms and conditions of the station authorization shall be made except upon application to and grant of such application by the Commission.
 
 (b) Both earth station and space station modification applications must be filed electronically through the International Communications Filing System (ICFS) in accordance with the applicable provisions of part 1, subpart Y, of this chapter.
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 72404, Nov. 25, 2022.Link to an amendmen
 
 (iv) Applications for modifications of space station authorizations to increase the authorized bandwidth will not be considered in cases in which the original space station authorization was granted pursuant to the procedures set forth in § 25.157(e) or § 25.158(c)(4).
 
-(v) Any 17/24 GHz BSS space station operator whose license is conditioned to operate at less than the power level otherwise permitted by § 25.208(c) and/or (w) of this part, and is conditioned to accept interference from a neighboring 17/24 GHz BSS space station, may file a modification application to remove those two conditions in the event that the license for that neighboring space station is cancelled or surrendered. In the event that two or more such modification applications are filed, and those applications are mutually exclusive, the modification applications will be considered on a first-come, first-served basis pursuant to the procedure set forth in § 25.158 of this part.
+(v) Any operator of a space station transmitting in the 17.3-17.8 GHz band, whose license is conditioned to operate at less than the power level otherwise permitted by § 25.140(a)(3)(iii) and/or (b)(3), and is conditioned to accept interference from a neighboring 17/24 GHz BSS space station, may file a modification application to remove those two conditions in the event that the license for that neighboring space station is cancelled or surrendered. In the event that two or more such modification applications are filed, and those applications are mutually exclusive, the modification applications will be considered on a first-come, first-served basis pursuant to the procedure set forth in § 25.158.
 
 (3) In the event that a space station licensee provides notification of a planned license modification pursuant to § 25.118(e), and the Commission finds that the proposed modification does not meet the requirements of § 25.118(e), the Commission will issue a public notice announcing that the proposed license modification will be considered pursuant to the procedure specified in paragraphs (d)(1) and (d)(2) of this section.
 
@@ -54,4 +52,4 @@ Link to an amendment published at 87 FR 72404, Nov. 25, 2022.Link to an amendmen
 
 (j) An application for modification of a space station authorization to provide SCS must comply with § 25.125.
 
-[56 FR 24016, May 28, 1991, as amended at 61 FR 9952, Mar. 12, 1996; 62 FR 5928, Feb. 10, 1997; 68 FR 33649, June 5, 2003; 68 FR 47858, Aug. 12, 2003; 68 FR 51503, Aug. 27, 2003; 68 FR 62248, Nov. 3, 2003; 68 FR 63998, Nov. 12, 2003; 69 FR 47794, Aug. 6, 2004; 70 FR 32253, June 2, 2005; 72 FR 60279, Oct. 24, 2007; 78 FR 8421, Feb. 6, 2013; 81 FR 55328, Aug. 18, 2016; 85 FR 18150, Apr. 1, 2020; 85 FR 43733, July 20, 2020; 88 FR 21440, Apr. 10, 2023; 88 FR 84754, Dec. 6, 2023; 89 FR 34166, Apr. 30, 2024]
+[56 FR 24016, May 28, 1991, as amended at 61 FR 9952, Mar. 12, 1996; 62 FR 5928, Feb. 10, 1997; 68 FR 33649, June 5, 2003; 68 FR 47858, Aug. 12, 2003; 68 FR 51503, Aug. 27, 2003; 68 FR 62248, Nov. 3, 2003; 68 FR 63998, Nov. 12, 2003; 69 FR 47794, Aug. 6, 2004; 70 FR 32253, June 2, 2005; 72 FR 60279, Oct. 24, 2007; 78 FR 8421, Feb. 6, 2013; 81 FR 55328, Aug. 18, 2016; 85 FR 18150, Apr. 1, 2020; 85 FR 43733, July 20, 2020; 88 FR 21440, Apr. 10, 2023; 88 FR 84754, Dec. 6, 2023; 89 FR 34166, Apr. 30, 2024; 87 FR 72404, Nov. 25, 2022; 89 FR 58072, July 17, 2024]

@@ -1,6 +1,6 @@
 ##### § 2522.220 What are the required terms of service for AmeriCorps participants? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.
+Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 (a) *Term of Service.* A term of service may be defined as:
 

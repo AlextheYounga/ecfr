@@ -16,7 +16,7 @@
 
 (v) An S corporation shareholder's pro rata share (as determined under section 1377(a) of the Code) of such tax exempt income for each taxable year (as determined under sections 444 and 1378(b) of the Code) is equal to the S corporation shareholder's pro rata share (as determined under section 1377(a)) of the otherwise applicable credit for each taxable year; and
 
-(vi) Such tax exempt income resulting from such election is treated as received or accrued, including for purposes of sections 705 and 1366, as of the date the applicable credit is determined with respect to the partnership or S corporation. (such as, for investment credit property, the date the property is placed in service).
+(vi) Such tax exempt income resulting from such election is treated as received or accrued, including for purposes of sections 705 and 1366, as of the date the applicable credit is determined with respect to the partnership or S corporation (such as, for investment credit property, the date the property is placed in service).
 
 (2) *Electing partnerships in tiered structures.* If a partnership (upper-tier partnership) is a direct or indirect partner of a partnership that makes an elective payment election (electing partnership) and directly or indirectly receives an allocation of tax exempt income resulting from the elective payment election made by the electing partnership, the upper-tier partnership must determine its partners' distributive shares of such tax exempt income in proportion to the partners' distributive shares of the otherwise applicable credit as provided in paragraph (c)(1)(iv) of this section.
 
@@ -30,4 +30,4 @@
 
 (f) *Applicability date.* This section applies to taxable years ending on or after March 11, 2024. For taxable years ending before March 11, 2024, taxpayers, however, may choose to apply the rules of §§ 1.6417-1 through 1.6417-4 and 1.6417-6, provided the taxpayers apply the rules in their entirety and in a consistent manner.
 
-[TD 9988, 89 FR 17584, Mar. 11, 2024]
+[TD 9988, 89 FR 17584, Mar. 11, 2024; 89 FR 66563, Aug. 16, 2024]

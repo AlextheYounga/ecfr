@@ -1,6 +1,6 @@
 ##### § 2522.630 What must I do if I am not able to meet my performance measures? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.
+Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 If you are not on track to meet your performance measures, you must develop and submit to the Corporation, or the State commission for formula programs, a corrective action plan, consistent with paragraph (a) of this section, or submit a request to the Corporation, or the State commission for formula programs, consistent with paragraph (b) of this section, to amend your requirements under the circumstances described in § 2522.640 of this subpart.
 

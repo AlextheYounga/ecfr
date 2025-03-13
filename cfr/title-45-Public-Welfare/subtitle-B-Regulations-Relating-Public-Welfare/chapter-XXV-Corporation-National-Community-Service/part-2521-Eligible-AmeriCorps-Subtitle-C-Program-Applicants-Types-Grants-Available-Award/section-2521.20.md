@@ -1,6 +1,6 @@
 ##### § 2521.20 What types of AmeriCorps subtitle C program grants are available for award? #####
 
-Link to an amendment published at 89 FR 46033, May 28, 2024.
+Link to an amendment published at 89 FR 46033, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 The Corporation may make the following types of grants to eligible applicants. The requirements of this section will also apply to any State or other applicant receiving assistance under this part that proposes to conduct a grant program using the assistance to support other national or community service programs.
 

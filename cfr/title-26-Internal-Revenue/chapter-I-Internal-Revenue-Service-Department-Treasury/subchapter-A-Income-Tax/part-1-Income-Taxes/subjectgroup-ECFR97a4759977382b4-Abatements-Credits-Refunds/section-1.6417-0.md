@@ -6,7 +6,7 @@ This section lists the table of contents for §§ 1.6417-1 through 1.6417-6.
 
 (a) In general.
 
-(b) Annual Tax Return.
+(b) Annual tax return.
 
 (c) Applicable entity.
 
@@ -102,4 +102,4 @@ This section lists the table of contents for §§ 1.6417-1 through 1.6417-6.
 
 (e) Applicability date.
 
-[TD 9988, 89 FR 17584, Mar. 11, 2024]
+[TD 9988, 89 FR 17584, Mar. 11, 2024; 89 FR 66562, Aug. 16, 2024]

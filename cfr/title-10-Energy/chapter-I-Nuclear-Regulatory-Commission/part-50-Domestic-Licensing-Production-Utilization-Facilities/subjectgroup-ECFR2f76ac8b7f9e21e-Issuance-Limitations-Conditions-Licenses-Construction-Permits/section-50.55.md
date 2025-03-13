@@ -1,7 +1,5 @@
 ##### § 50.55 Conditions of construction permits, early site permits, combined licenses, and manufacturing licenses. #####
 
-Link to an amendment published at 89 FR 57719, July 16, 2024.
-
 Each construction permit for a utilization facility is subject to the following terms and conditions and the applicable requirements of § 50.55a; each construction permit for a production facility is subject to the following terms and conditions with the exception of paragraph (i); each early site permit is subject to the terms and conditions in paragraph (f) of this section; each manufacturing license is subject to the terms and conditions in paragraphs (e), (f), and (i) of this section and the applicable requirements of § 50.55a; and each combined license is subject to the terms and conditions in paragraphs (e), (f), and (i) of this section and the applicable requirements of § 50.55a until the date that the Commission makes the finding under § 52.103(g) of this chapter:
 
 (a) The construction permit shall state the earliest and latest dates for completion of the construction or modification.

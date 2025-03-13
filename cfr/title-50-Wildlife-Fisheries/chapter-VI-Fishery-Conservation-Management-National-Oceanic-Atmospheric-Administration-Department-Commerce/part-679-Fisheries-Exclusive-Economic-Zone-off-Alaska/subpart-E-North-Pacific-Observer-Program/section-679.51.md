@@ -1,6 +1,6 @@
 ##### § 679.51 Observer and Electronic Monitoring System requirements for vessels and plants. #####
 
-Link to an amendment published at 89 FR 60812, July 29, 2024.
+Link to an amendment published at 89 FR 60812, July 29, 2024.Link to an amendment published at 89 FR 66637, Aug. 16, 2024.
 
 (a) *Observer requirements for vessels*—(1) *Groundfish and halibut fishery partial coverage category*—(i) *Vessel classes in partial coverage category.* Unless otherwise specified in paragraph (a)(2) of this section, the following catcher vessels and catcher/processors are in the partial coverage category when fishing for halibut or when directed fishing for groundfish in a federally managed or parallel groundfish fishery, as defined at § 679.2:
 

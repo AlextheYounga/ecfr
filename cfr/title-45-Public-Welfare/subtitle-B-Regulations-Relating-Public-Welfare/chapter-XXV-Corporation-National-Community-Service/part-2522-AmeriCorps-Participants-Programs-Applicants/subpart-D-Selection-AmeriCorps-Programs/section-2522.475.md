@@ -1,6 +1,6 @@
 ##### § 2522.475 To what extent must I use the Corporation's selection criteria and priorities when selecting formula programs or operating sites? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.
+Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 You must ensure that the selection criteria you use include the following criteria:
 

@@ -1,6 +1,6 @@
 ##### § 2522.300 What are the application requirements for AmeriCorps program grants? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.
+Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 All eligible applicants seeking AmeriCorps program grants must—
 

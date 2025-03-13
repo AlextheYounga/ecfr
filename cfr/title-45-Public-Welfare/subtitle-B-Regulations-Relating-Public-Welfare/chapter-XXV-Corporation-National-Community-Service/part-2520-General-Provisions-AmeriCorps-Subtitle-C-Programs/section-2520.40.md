@@ -1,6 +1,6 @@
 ##### § 2520.40 Under what circumstances may AmeriCorps members in my program raise resources? #####
 
-Link to an amendment published at 89 FR 46033, May 28, 2024.
+Link to an amendment published at 89 FR 46033, May 28, 2024.Link to a correction published at 89 FR 66614, Aug. 16, 2024.
 
 (a) AmeriCorps members may raise resources directly in support of your program's service activities.
 

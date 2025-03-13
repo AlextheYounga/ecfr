@@ -1,6 +1,6 @@
 ##### § 2521.45 What are the limitations on the Federal government's share of program costs? #####
 
-Link to an amendment published at 89 FR 46033, May 28, 2024.
+Link to an amendment published at 89 FR 46033, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 The limitations on the Federal government's share are different—in type and amount—for member support costs and program operating costs.
 

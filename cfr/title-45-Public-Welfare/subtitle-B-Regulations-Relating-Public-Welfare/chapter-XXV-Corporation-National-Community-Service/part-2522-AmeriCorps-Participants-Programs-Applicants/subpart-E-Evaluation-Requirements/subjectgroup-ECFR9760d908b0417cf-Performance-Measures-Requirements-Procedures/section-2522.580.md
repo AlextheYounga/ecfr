@@ -1,6 +1,6 @@
 ##### § 2522.580 What performance measures am I required to submit to the Corporation? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.
+Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 (a) When applying for funds, you must submit, at a minimum, the following performance measures:
 

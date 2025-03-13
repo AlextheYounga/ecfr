@@ -1,6 +1,6 @@
 ##### § 2522.240 What financial benefits do AmeriCorps participants serving in approved AmeriCorps positions receive? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.
+Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 (a) *AmeriCorps education awards.* An individual serving in an approved AmeriCorps State and National position may receive an education award from the National Service Trust upon successful completion of each of no more than four terms of service as defined in § 2522.220, consistent with the limitations in § 2526.50.
 

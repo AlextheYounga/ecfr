@@ -1,6 +1,6 @@
 ##### § 2522.550 What basic requirements must I follow in measuring performance under my grant? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.
+Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 All grantees must establish, track, and assess performance measures for their programs. As a grantee, you must ensure that any program under your oversight fulfills performance measure and evaluation requirements. In addition, you must:
 

@@ -1,6 +1,6 @@
 ##### § 2522.110 What types of programs are eligible to compete for AmeriCorps grants? #####
 
-Link to an amendment published at 89 FR 46034, May 28, 2024.
+Link to an amendment published at 89 FR 46034, May 28, 2024.Link to a correction published at 89 FR 66615, Aug. 16, 2024.
 
 Types of programs eligible to compete for AmeriCorps grants include the following: (a) *Specialized skills programs.* (1) A service program that is targeted to address specific educational, public safety, human, or environmental needs and that—
 
