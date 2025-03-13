@@ -1,5 +1,7 @@
 ##### 552.232-5 Payments under Fixed-Price Construction Contracts. #####
 
+Link to an amendment published at 89 FR 55088, July 3, 2024.
+
 As prescribed in 552.111(b), insert the following clause:
 
 Payments Under Fixed-Price Construction Contracts (MAR 2019)

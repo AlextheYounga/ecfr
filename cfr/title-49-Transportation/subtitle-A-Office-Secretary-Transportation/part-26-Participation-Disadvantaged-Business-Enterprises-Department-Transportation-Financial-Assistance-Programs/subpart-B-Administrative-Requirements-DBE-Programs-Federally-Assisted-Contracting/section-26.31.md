@@ -2,7 +2,7 @@
 
 (a) In the directory required under § 26.81(g), you must list all firms eligible to participate as a DBE and/or ACDBE in your program. In the listing for each firm, you must include its business address, business phone number, firm website(s), and the types of work the firm has been certified to perform as a DBE and/or ACDBE.
 
-(b) You must list each type of work a DBE and/or ACDBE is eligible to perform by using the most specific NAICS code available to describe each type of work the firm performs. Pursuant to § 26.81(n)(1) and (3), your directory must allow for NAICS codes to be supplemented with specific descriptions of the type(s) of work the firm performs.
+(b) You must list each type of work a DBE and/or ACDBE is eligible to perform by using the most specific NAICS code available to describe each type of work the firm performs. Pursuant to § 26.73(a), your directory must allow for NAICS codes to be supplemented with specific descriptions of the type(s) of work the firm performs.
 
 (c) Your directory may include additional data fields of other items readily verifiable in State or locally maintained databases, such as State licenses held, Prequalifications, and Bonding capacity.
 
@@ -18,4 +18,4 @@
 
 (e) You must make any changes to your current directory entries by November 5, 2024.
 
-[89 FR 24965, Apr. 9, 2024]
+[89 FR 24965, Apr. 9, 2024; 89 FR 55089, July 3, 2024]

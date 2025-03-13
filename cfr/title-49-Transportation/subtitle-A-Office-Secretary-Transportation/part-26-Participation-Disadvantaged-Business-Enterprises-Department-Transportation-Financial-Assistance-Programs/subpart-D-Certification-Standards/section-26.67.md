@@ -12,7 +12,7 @@
 
 (iii) The owner must email the certifier evidence described in paragraph (a)(3)(ii) of this section no later than 20 days after the written explanation. The certifier must email the owner a decision no later than 30 days after receiving timely submitted evidence.
 
-(iv) If a certifier determines that an individual has not demonstrated group membership, the certifier's decision must specifically reference the evidence in the record that formed the basis for the conclusion and give a detailed explanation of why the evidence submitted was insufficient. It must also inform the individual of the right to appeal, as provided in § 26.89(a), and of the right to reapply at any time under paragraph (e) of this section.
+(iv) If a certifier determines that an individual has not demonstrated group membership, the certifier's decision must specifically reference the evidence in the record that formed the basis for the conclusion and give a detailed explanation of why the evidence submitted was insufficient. It must also inform the individual of the right to appeal, as provided in § 26.89(a), and of the right to reapply at any time under paragraph (d) of this section.
 
 (b) *Rebuttal of social disadvantage.* (1) If a certifier has a reasonable basis to believe that an individual who is a member of a group in paragraph (a)(1) of this section is not, in fact, socially disadvantaged, the certifier must initiate a § 26.87 proceeding, regardless of the firm's DBE status. As is the case in all section § 26.87 proceedings, the certifier must prove ineligibility.
 
@@ -42,4 +42,4 @@
 
 (6) This rule does not prescribe how the owner must satisfy his burden of proving disadvantage. He need not, for example, have filed any formal complaint, or prove discrimination under a particular statute.
 
-Example 1 to paragraph (d):A White male claiming to have experienced employment discrimination must provide evidence that his employment status and/or limited opportunities to earn income result from specific prejudicial acts directed at him personally because of an ODF, and not, *e.g.,* an economic recession that caused widespread unemployment.[89 FR 24970, Apr. 9, 2024]
+Example 1 to paragraph (d):A White male claiming to have experienced employment discrimination must provide evidence that his employment status and/or limited opportunities to earn income result from specific prejudicial acts directed at him personally because of an ODF, and not, *e.g.,* an economic recession that caused widespread unemployment.[89 FR 24970, Apr. 9, 2024; 89 FR 55089, July 3, 2024]

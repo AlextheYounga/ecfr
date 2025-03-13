@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 89 FR 28581, Apr. 19, 2024.Link to an amendment published at 89 FR 33193, Apr. 29, 2024.Link to an amendment published at 89 FR 53004, June 25, 2024.
+Link to an amendment published at 89 FR 33193, Apr. 29, 2024.Link to an amendment published at 89 FR 53004, June 25, 2024.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
@@ -280,27 +280,27 @@ Model Number: TN-32, TN-32A, TN-32B.
 
 *Model Number:* NAC-MPC System.
 
-Certificate Number: 1026.
+*Certificate Number:* 1026.
 
-Initial Certificate Effective Date: February 15, 2001.
+*Initial Certificate Effective Date:* February 15, 2001, superseded by Renewed Initial Certificate on July 3, 2024.
 
-Amendment Number 1 Effective Date: May 14, 2001.
+*Amendment Number 1 Effective Date:* May 14, 2001, superseded by Renewed Amendment Number 1 on July 3, 2024.
 
-Amendment Number 2 Effective Date: January 28, 2002.
+*Amendment Number 2 Effective Date:* January 28, 2002, superseded by Renewed Amendment Number 2 on July 3, 2024.
 
-Amendment Number 3 Effective Date: May 7, 2003.
+*Amendment Number 3 Effective Date:* May 7, 2003, superseded by Renewed Amendment Number 3 on July 3, 2024.
 
-Amendment Number 4 Effective Date: July 3, 2006.
+*Amendment Number 4 Effective Date:* July 3, 2006, superseded by Renewed Amendment Number 4 on July 3, 2024.
 
-SAR Submitted by: BNG Fuel Solutions Corporation.
+*SAR Submitted by:* Westinghouse Electric Company LLC.
 
-SAR Title: Final Safety Analysis Report for the FuelSolutionsTM Spent Fuel Management System.
+*SAR Title:* Final Safety Analysis Report for the FuelSolutionsTM Spent Fuel Management System.
 
-Docket Number: 72-1026.
+*Docket Number:* 72-1026.
 
-Certificate Expiration Date: February 15, 2021.
+*Renewed Certificate Expiration Date:* February 15, 2061.
 
-Model Number: WSNF-220, WSNF-221, and WSNF-223 systems; W-150 storage cask; W-100 transfer cask; and the W-21 and W-74 canisters.
+*Model Number:* WSNF-220, WSNF-221, and WSNF-223 systems; W150 storage cask; W100 transfer cask; and the W21 and W74 canisters.
 
 *Certificate Number:* 1027.
 

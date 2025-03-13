@@ -16,7 +16,7 @@
 
 (e) Your DBE program must provide appropriate means to enforce the requirements of this section. These means must be described in your DBE program and should include appropriate penalties for failure to comply, the terms and conditions of which you set. Your program may also provide that any delay or postponement of payment among the parties may take place only for good cause, with your prior written approval.
 
-(f) Prompt payment and return of retainage requirements in this part also apply to lower-tier subcontractors.
+(f) Prompt payment and return of retainage requirements in this part also apply to all lower-tier subcontractors.
 
 (g) You may also establish, as part of your DBE program, any of the following additional mechanisms to ensure prompt payment:
 
@@ -26,4 +26,4 @@
 
 (3) Other mechanisms, consistent with this part and applicable state and local law, to ensure that DBEs and other contractors are fully and promptly paid.
 
-[68 FR 35553, June 16, 2003, as amended at 89 FR 24965, Apr. 9, 2024]
+[68 FR 35553, June 16, 2003, as amended at 89 FR 24965, Apr. 9, 2024; 89 FR 55089, July 3, 2024]

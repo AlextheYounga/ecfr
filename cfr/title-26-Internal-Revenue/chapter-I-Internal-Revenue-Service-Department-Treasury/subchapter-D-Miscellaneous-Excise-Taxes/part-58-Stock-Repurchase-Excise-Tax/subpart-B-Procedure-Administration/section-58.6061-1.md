@@ -1,0 +1,5 @@
+##### § 58.6061-1 Signing of returns and other documents. #####
+
+(a) *In general.* Any stock repurchase excise tax return (as defined in § 58.6011-1(b)), statement, or other document required to be made with respect to the tax imposed by chapter 37 of the Internal Revenue Code must be signed by the person required to file the return, statement, or other document, or by the persons required or duly authorized to sign in accordance with the regulations, forms, or instructions prescribed with respect to such return, statement, or document. An individual's signature on such a return, statement, or other document is prima facie evidence that the individual is authorized to sign the return, statement, or other document.
+
+(b) *Applicability date.* This section applies to stock repurchase excise tax returns, statements, or other documents that are required to be made with respect to the tax imposed by chapter 37 and required to be filed after June 28, 2024, and during taxable years ending after June 28, 2024.

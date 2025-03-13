@@ -6,7 +6,7 @@
 
 (c) *Application procedure.* To obtain certification by an additional UCP, the DBE must provide:
 
-(1) A cover letter with its application that specifies that the DBE is applying for interstate certification, identifies all UCPs in which the DBE is certified (including the UCP that originally certified it)
+(1) A cover letter that specifies that the DBE is applying for interstate certification, identifies all UCPs in which the DBE is certified (including the UCP that originally certified it)
 
 (2) An electronic image of the UCP directory of the original UCP that shows the DBE certification; and
 
@@ -36,7 +36,7 @@
 
 (5) If the UCP finds the firm ineligible the firm immediately loses certification in all jurisdictions in which it is certified. The NOD must include appeal instructions provided on the Departmental Office of Civil Rights' web page, available at *https://www.transportation.gov/dbeappeal*. The UCP must email a copy of its decision to the other jurisdictions within 3 business days.
 
-(6) The rules of this paragraph (h)(6) do not apply to attempts to decertify based upon a DBE's actions or inactions pertaining to §§ 26.83(j) (Declaration of Eligibility) and 26.87(e)(6) (failure to cooperate).
+(6) The rules of paragraph (h) do not apply to attempts to decertify based upon a DBE's actions or inactions pertaining to §§ 26.83(j) (Declaration of Eligibility) and 26.109(c) (failure to cooperate).
 
 (7) Decertifications under this paragraph (h) must provide due process to DBEs.
 
@@ -46,4 +46,4 @@
 
 (8) The Department's appeal decisions are binding on all UCPs unless stated otherwise.
 
-[89 FR 24975, Apr. 9, 2024]
+[89 FR 24975, Apr. 9, 2024; 89 FR 55090, July 3, 2024]

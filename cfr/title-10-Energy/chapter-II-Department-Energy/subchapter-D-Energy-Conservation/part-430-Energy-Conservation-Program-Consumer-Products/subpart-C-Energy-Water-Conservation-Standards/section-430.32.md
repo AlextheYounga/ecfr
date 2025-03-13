@@ -1,6 +1,6 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 89 FR 18243, Mar. 12, 2024.Link to an amendment published at 89 FR 19126, Mar. 15, 2024.Link to an amendment published at 89 FR 28963, Apr. 19, 2024.Link to an amendment published at 89 FR 31484, Apr. 24, 2024.
+Link to an amendment published at 89 FR 18243, Mar. 12, 2024.Link to an amendment published at 89 FR 19126, Mar. 15, 2024.Link to an amendment published at 89 FR 31484, Apr. 24, 2024.
 
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
@@ -798,27 +798,7 @@ Standard Spectrum means any incandescent reflector lamp that does not meet the d
 
 (2) Not be capable of operating with lamps that total more than 190 watts.
 
-(u) *Compact fluorescent lamps.* (1) Medium Base Compact Fluorescent Lamps. Subject to the sales prohibition in paragraph (dd) of this section, a bare or covered (no reflector) medium base compact fluorescent lamp manufactured on or after January 1, 2006, must meet the following requirements:
-
-|                                                                Factor                                                                |                                                           Requirements                                                            |
-|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-|                                              Labeled Wattage (Watts) & Configuration \*                                              |                                Measured initial lamp efficacy (lumens per watt) must be at least:                                 |
-|                                                              Bare Lamp:                                                              |                                                                                                                                   |
-|                                                        Labeled Wattage \< 15                                                         |                                                               45.0.                                                               |
-|                                                         Labeled Wattage ≥ 15                                                         |                                                               60.0.                                                               |
-|                                                     Covered Lamp (no reflector):                                                     |                                                                                                                                   |
-|                                                        Labeled Wattage \< 15                                                         |                                                               40.0.                                                               |
-|                                                      15 ≤ Labeled Wattage \< 19                                                      |                                                               48.0.                                                               |
-|                                                      19 ≤ Labeled Wattage \< 25                                                      |                                                               50.0.                                                               |
-|                                                         Labeled Wattage ≥ 25                                                         |                                                               55.0.                                                               |
-|                                                   Lumen Maintenance at 1,000 Hours                                                   |                                                              ≥90.0%.                                                              |
-|                                           Lumen Maintenance at 40 Percent of Lifetime \*\*                                           |                                                              ≥80.0%.                                                              |
-|                                                       Rapid Cycle Stress Test                                                        |Each lamp must be cycled once for every 2 hours of lifetime.\*\* At least 5 lamps must meet or exceed the minimum number of cycles.|
-|                                                            Lifetime \*\*                                                             |                                                           ≥6,000 hours.                                                           |
-|\* Use labeled wattage to determine the appropriate efficacy requirements in this table; do not use measured wattage for this purpose.|                                                                                                                                   |
-|                      \*\* Lifetime refers to lifetime of a compact fluorescent lamp as defined in 10 CFR 430.2.                      |                                                                                                                                   |
-
-(2) [Reserved].
+(u) [Reserved]
 
 (v) *Dehumidifiers.* (1) Dehumidifiers manufactured on or after October 1, 2012, shall have an energy factor that meets or exceeds the following values:
 
@@ -896,39 +876,9 @@ Standard Spectrum means any incandescent reflector lamp that does not meet the d
 
 (7) A direct operation, AC-DC external power supply with nameplate output voltage less than 3 volts and nameplate output current greater than or equal to 1,000 milliamps that charges the battery of a product that is fully or primarily motor operated shall not be subject to the standards in paragraph (w)(1)(ii) of this section.
 
-(x) *General service incandescent lamps, intermediate base incandescent lamps and candelabra base incandescent lamps.* (1) Subject to the sales prohibition in paragraph (dd) of this section, the energy conservation standards in this paragraph apply to general service incandescent lamps.
+(x) *Intermediate base incandescent lamps and candelabra base incandescent lamps.* (1) Subject to the sales prohibition in paragraph (dd) of this section, each candelabra base incandescent lamp shall not exceed 60 rated watts.
 
-(i) Intended for a general service or general illumination application (whether incandescent or not);
-
-(ii) Has a medium screw base or any other screw base not defined in ANSI C81.61 (incorporated by reference; see § 430.3); and
-
-(iii) Is capable of being operated at a voltage at least partially within the range of 110 to 130 volts.
-
-(2) Subject to the sales prohibition in paragraph (dd) of this section, general service incandescent lamps manufactured after the effective dates specified in the tables below, except as described in paragraph (x)(3) of this section, must have a color rendering index greater than or equal to 80, a rated wattage no greater than, and a lifetime no less than the values shown in the table below:
-
-|                                             Lumen ranges \*                                             |Maximum  <br/>rated  <br/>wattage|Minimum  <br/>lifetime \*\*  <br/>(hrs)|Effective  <br/>date|
-|---------------------------------------------------------------------------------------------------------|---------------------------------|---------------------------------------|--------------------|
-|                                              (i) 1490-2600                                              |               72                |                 1,000                 |      1/1/2012      |
-|                                             (ii) 1050-1489                                              |               53                |                 1,000                 |      1/1/2013      |
-|                                             (iii) 750-1049                                              |               43                |                 1,000                 |      1/1/2014      |
-|                                              (iv) 310-749                                               |               29                |                 1,000                 |      1/1/2014      |
-|              \* Use measured initial lumen output to determine the applicable lumen range.              |                                 |                                       |                    |
-|\*\* Use lifetime determined in accordance with 10 CFR 429.27 to determine compliance with this standard.|                                 |                                       |                    |
-
-(3) Subject to the sales prohibition in paragraph (dd) of this section, modified spectrum general service incandescent lamps manufactured after the effective dates specified must have a color rendering index greater than or equal to 75, a rated wattage no greater than, and a lifetime no less than, the values shown in the table below:
-
-|                                             Lumen ranges \*                                             |Maximum  <br/>rated  <br/>wattage|Minimum  <br/>lifetime \*\*  <br/>(hrs)|Effective  <br/>date|
-|---------------------------------------------------------------------------------------------------------|---------------------------------|---------------------------------------|--------------------|
-|                                              (i) 1118-1950                                              |               72                |                 1,000                 |      1/1/2012      |
-|                                              (ii) 788-1117                                              |               53                |                 1,000                 |      1/1/2013      |
-|                                              (iii) 563-787                                              |               43                |                 1,000                 |      1/1/2014      |
-|                                              (iv) 232-562                                               |               29                |                 1,000                 |      1/1/2014      |
-|              \* Use measured initial lumen output to determine the applicable lumen range.              |                                 |                                       |                    |
-|\*\* Use lifetime determined in accordance with 10 CFR 429.27 to determine compliance with this standard.|                                 |                                       |                    |
-
-(4) Subject to the sales prohibition in paragraph (dd) of this section, each candelabra base incandescent lamp must not exceed 60 rated watts.
-
-(5) Subject to the sales prohibition in paragraph (dd) of this section, each intermediate base incandescent lamp must not exceed 40 rated watts.
+(2) Subject to the sales prohibition in paragraph (dd) of this section, each intermediate base incandescent lamp shall not exceed 40 rated watts.
 
 (y) *Residential furnace fans.* Residential furnace fans incorporated in the products listed in Table 1 of this paragraph and manufactured on and after July 3, 2019, shall have a fan energy rating (FER) value that meets or is less than the following values:
 
@@ -1023,7 +973,88 @@ Standard Spectrum means any incandescent reflector lamp that does not meet the d
 
 *SACC:* For single-speed portable air conditioners, SACC is seasonally adjusted cooling capacity in Btu/h, as determined in appendix CC of subpart B of this part. For variable-speed portable air conditioners, SACC shall be SACCFull in Btu/h, as determined in appendix CC of subpart B of this part.
 
-(dd) *General service lamp.* Beginning July 25, 2022 the sale of any general service lamp that does not meet a minimum efficacy standard of 45 lumens per watt is prohibited.
+(dd) *General service lamps.* Beginning July 25, 2022, the sale of any general service lamp that does not meet a minimum efficacy standard of 45 lumens per watt is prohibited.
+
+(1) Energy conservation standards for general service lamps:
+
+(i) General service incandescent lamps manufactured after the dates specified in the following tables, except as described in paragraph (dd)(1)(ii) of this section, shall have a color rendering index greater than or equal to 80 and shall have a rated wattage no greater than, and a lifetime no less than the values shown in the table as follows:
+
+|                                                Rated lumen ranges                                                |Minimum  <br/>lifetime \*  <br/>(hrs)|Maximum rate  <br/>wattage|Compliance date|
+|------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------------------------|---------------|
+|                                                  (A) 1490-2600                                                   |                1,000                |            72            |   1/1/2012    |
+|                                                  (B) 1050-1489                                                   |                1,000                |            53            |   1/1/2013    |
+|                                                   (C) 750-1049                                                   |                1,000                |            43            |   1/1/2014    |
+|                                                   (D) 310-749                                                    |                1,000                |            29            |   1/1/2014    |
+|\* Use lifetime determined in accordance with § 429.66 of this chapter to determine compliance with this standard.|                                     |                          |               |
+
+(ii) Modified spectrum general service incandescent lamps manufactured after the dates specified in the following table shall have a color rendering index greater than or equal to 75 and shall have a rated wattage no greater than, and a lifetime no less than the values shown in the table as follows:
+
+|                                                     Rated lumen ranges                                                     |Minimum  <br/>lifetime <sup>1</sup>  <br/>(hrs)|Maximum rate  <br/>wattage|Compliance date|
+|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------------|---------------|
+|                                                       (A) 1118-1950                                                        |                     1,000                     |            72            |   1/1/2012    |
+|                                                        (B) 788-1117                                                        |                     1,000                     |            53            |   1/1/2013    |
+|                                                        (C) 563-787                                                         |                     1,000                     |            43            |   1/1/2014    |
+|                                                        (D) 232-562                                                         |                     1,000                     |            29            |   1/1/2014    |
+|<sup>1</sup> Use lifetime determined in accordance with § 429.66 of this chapter to determine compliance with this standard.|                                               |                          |               |
+
+(iii) A bare or covered (no reflector) medium base compact fluorescent lamp manufactured on or after January 1, 2006, must meet or exceed the following requirements:
+
+|                                                                     Factor                                                                     |                             |                                   Requirements                                    |
+|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----------------------------------------------------------------------------------|
+|                                                           Configuration <sup>1</sup>                                                           |Labeled wattage  <br/>(watts)|Minimum initial  <br/>lamp efficacy  <br/>(lumens per watt)  <br/>must be at least:|
+|                                                                 (A) Bare Lamp:                                                                 |                             |                                                                                   |
+|                                                                                                                                                |  (1) Labeled Wattage \<15   |                                       45.0                                        |
+|                                                                                                                                                |   (2) Labeled Wattage ≥15   |                                       60.0                                        |
+|                                                        (B) Covered Lamp (no reflector):                                                        |                             |                                                                                   |
+|                                                                                                                                                |  (1) Labeled Wattage \<15   |                                       40.0                                        |
+|                                                                                                                                                |(2) 15≤ Labeled Wattage \<19 |                                       48.0                                        |
+|                                                                                                                                                |(3) 19≤ Labeled Wattage \<25 |                                       50.0                                        |
+|                                                                                                                                                |   (4) Labeled Wattage ≥25   |                                       55.0                                        |
+|<sup>1</sup> Use labeled wattage to determine the appropriate efficacy requirements in this table; do not use measured wattage for this purpose.|                             |                                                                                   |
+
+(iv) Each general service lamp manufactured on or after July 25, 2028 must have:
+
+(A) A power factor greater than or equal to 0.7 for integrated LED lamps (as defined in § 430.2) and 0.5 for medium base compact fluorescent lamps (as defined in § 430.2); and
+
+(B) A lamp efficacy greater than or equal to the values shown in the table as follows:
+
+|                                                                                                             Lamp type                                                                                                             |      Length       |Standby mode operation <sup>3</sup>|                                     Efficacy  <br/>(lm/W)                                      |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----------------------------------|------------------------------------------------------------------------------------------------|
+|                                                                                                  (1) Integrated Omnidirectional                                                                                                   |Short (\<45 inches)|     No Standby Mode Operation     | 123/(1.2+e<sup>−</sup><sup>0.005*</sup><sup>(</sup><sup>Lumens-200</sup><sup>))</sup>) + 25.9  |
+|                                                                                                  (2) Integrated Omnidirectional                                                                                                   | Long (≥45 inches) |     No Standby Mode Operation     | 123/(1.2+e<sup>−</sup><sup>0.005*</sup><sup>(</sup><sup>Lumens-200</sup><sup>))</sup>) + 71.7  |
+|                                                                                              (3) <sup>1</sup> Integrated Directional                                                                                              |    All Lengths    |     No Standby Mode Operation     | 73/(0.5+e<sup>−</sup><sup>0.0021*</sup><sup>(</sup><sup>Lumens+1000</sup><sup>))</sup>) − 47.2 |
+|                                                                                          (4) <sup>2</sup> Non-integrated Omnidirectional                                                                                          |Short (\<45 inches)|     No Standby Mode Operation     | 122/(0.55+e<sup>−</sup><sup>0.003*</sup><sup>(</sup><sup>Lumens+250</sup><sup>))</sup>) − 83.4 |
+|                                                                                            (5) <sup>1</sup> Non-integrated Directional                                                                                            |    All Lengths    |     No Standby Mode Operation     |67/(0.45+e<sup>−</sup><sup>0.00176*</sup><sup>(</sup><sup>Lumens+1310</sup><sup>))</sup>) − 53.1|
+|                                                                                                  (6) Integrated Omnidirectional                                                                                                   |Short (\<45 inches)|      Standby Mode Operation       | 123/(1.2+e<sup>−</sup><sup>0.005*</sup><sup>(</sup><sup>Lumens-200</sup><sup>))</sup>) + 17.1  |
+|                                                                                              (7) <sup>1</sup> Integrated Directional                                                                                              |    All Lengths    |      Standby Mode Operation       | 73/(0.5+e<sup>−</sup><sup>0.0021*</sup><sup>(</sup><sup>Lumens+1000</sup><sup>)</sup>) − 50.9  |
+|                                                                                                (8) Non-integrated Omnidirectional                                                                                                 | Long (≥45 inches) |     No Standby Mode Operation     | 123/(1.2+e<sup>−</sup><sup>0.005*</sup><sup>(</sup><sup>Lumens-200</sup><sup>))</sup>) + 93.0  |
+|                                    <sup>1</sup> This lamp type comprises of directional lamps. A directional lamp is a lamp that meets the definition of reflector lamp as defined in § 430.2.                                    |                   |                                   |                                                                                                |
+|<sup>2</sup> This lamp type comprises of, but is not limited to, lamps that are pin base compact fluorescent lamps (“CFLs”) and pin base light-emitting diode (“LED”) lamps designed and marketed as replacements of pin base CFLs.|                   |                                   |                                                                                                |
+|                                                                  <sup>3</sup> Indicates whether or not lamps are capable of operating in standby mode operation.                                                                  |                   |                                   |                                                                                                |
+
+(C) The standards described in paragraph (dd)(1)(iv) of this section do not apply to a general service lamp that:
+
+(*1*) Is a general service organic light-emitting diode (OLED) lamps (as defined in § 430.2);
+
+(*2*) Is a non-integrated lamp that is capable of operating in standby mode and is sold in packages of two lamps or less;
+
+(*3*) Is designed and marketed as a lamp that has at least one setting that allows the user to change the lamp's correlated color temperature (CCT) and has no setting in which the lamp meets the definition of a colored lamp (as defined in § 430.2); and is sold in packages of two lamps or less;
+
+(*4*) Is designed and marketed as a lamp that has at least one setting in which the lamp meets the definition of a colored lamp (as defined in § 430.2) and at least one other setting in which it does not meet the definition of colored lamp (as defined in § 430.2) and is sold in packages of two lamps or less; or
+
+(*5*) Is designed and marketed as a lamp that has one or more component(s) offering a completely different functionality (*e.g.,* a speaker, a camera, an air purifier, etc.) where each component is integrated into the lamp but does not affect the light output of the lamp (*e.g.,* does not turn the light on/off, dim the light, change the color of the light, etc.), is capable of operating in standby mode, and is sold in packages of two lamps or less.
+
+(2) Medium base CFLs (as defined in § 430.2) manufactured on or after the dates specified in the following table shall meet or exceed the following standards:
+
+|                                           Metrics                                           |Requirements for  <br/>MBCFLs manufactured  <br/>on or after January 1, 2006|                                                                                          Requirements for  <br/>MBCFLs manufactured  <br/>on or after July 25, 2028                                                                                          |
+|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                            (i) Lumen Maintenance at 1,000 Hours                             |                                   ≥90.0%                                   |                                                                                                                           ≥90.0%.                                                                                                                            |
+|                (ii) Lumen Maintenance at 40 Percent of Lifetime<sup>1</sup>                 |                                   ≥80.0%                                   |                                                                                                                           ≥80.0%.                                                                                                                            |
+|                                (iii) Rapid Cycle Stress Test                                |     At least 5 lamps must meet or exceed the minimum number of cycles      |                                                                                              At least 5 lamps must meet or exceed the minimum number of cycles.                                                                                              |
+|                                                                                             |    All MBCFLs: Cycle once per every two hours of lifetime <sup>1</sup>     |                       MBCFLs with start time \>100 ms: Cycle once per hour of lifetime <sup>1</sup> or a maximum of 15,000 cycles.  <br/>MBCFLs with a start time of ≤100 ms: Cycle once per every two hours of lifetime.<sup>1</sup>                        |
+|                                 (iv) Lifetime <sup>1</sup>                                  |                                ≥6,000 hours                                |                                                                                                                        ≥10,000 hours.                                                                                                                        |
+|                                       (v) Start time                                        |                               No requirement                               |The time needed for a MBCFL to remain continuously illuminated must be within: {1} one second of application of electrical power for lamp with standby mode power {2} 750 milliseconds of application of electrical power for lamp without standby mode power.|
+|<sup>1</sup> Lifetime refers to lifetime of a compact fluorescent lamp as defined in § 430.2.|                                                                            |                                                                                                                                                                                                                                                              |
 
 (ee) *Air cleaners.* (1) Conventional room air cleaners as defined in § 430.2 with a PM2.5 clean air delivery rate (CADR) between 10 and 600 (both inclusive) cubic feet per minute (cfm) and manufactured on or after December 31, 2023, and before December 31, 2025, shall have an integrated energy factor (IEF) in PM2.5 CADR/W, as determined in § 430.23(hh)(4) that meets or exceeds the following values:
 

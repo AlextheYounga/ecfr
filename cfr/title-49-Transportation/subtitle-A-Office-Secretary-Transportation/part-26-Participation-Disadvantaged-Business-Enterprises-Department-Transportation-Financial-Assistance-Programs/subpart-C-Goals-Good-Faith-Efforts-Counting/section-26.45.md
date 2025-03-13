@@ -2,7 +2,7 @@
 
 (a) *General rule.* (1) Except as provided in paragraph (a)(2) of this section, you must set an overall goal for DBE participation in your DOT-assisted contracts.
 
-(2) If you are an FTA Tier II recipient or FAA recipient who reasonably anticipates awarding (excluding transit vehicle purchases) $670,000 or less in FTA or $250,000 or less in FAA funds in prime contracts in a Federal fiscal year, you are not required to develop overall goals for FTA or FAA respectively for that fiscal year.
+(2) If you are an FTA Tier II recipient who intends to operate a race-neutral DBE program, or if you are an FAA recipient who reasonably anticipates awarding $250,000 or less in FAA prime contract funds in a Federal fiscal year, you are not required to develop overall goals for FTA or FAA, respectively, for that Federal fiscal year.
 
 (b) Your overall goal must be based on demonstrable evidence of the availability of ready, willing and able DBEs relative to all businesses ready, willing and able to participate on your DOT-assisted contracts (hereafter, the “relative availability of DBEs”). The goal must reflect your determination of the level of DBE participation you would expect absent the effects of discrimination. You cannot simply rely on either the 10 percent national goal, your previous overall goal or past DBE participation rates in your program without reference to the relative availability of DBEs in your market.
 
@@ -88,4 +88,4 @@
 
 (h) Your overall goals must provide for participation by all certified DBEs and must not be subdivided into group-specific goals.
 
-[64 FR 5126, Feb. 2, 1999, as amended at 64 FR 34570, June 28, 1999; 65 FR 68951, Nov. 15, 2000; 68 FR 35553, June 16, 2003; 75 FR 5536, Feb. 3, 2010; 76 FR 5097, Jan. 28, 2011; 79 FR 59593, Oct. 2, 2014; 89 FR 24966, Apr. 9, 2024]
+[64 FR 5126, Feb. 2, 1999, as amended at 64 FR 34570, June 28, 1999; 65 FR 68951, Nov. 15, 2000; 68 FR 35553, June 16, 2003; 75 FR 5536, Feb. 3, 2010; 76 FR 5097, Jan. 28, 2011; 79 FR 59593, Oct. 2, 2014; 89 FR 24966, Apr. 9, 2024; 89 FR 55089, July 3, 2024]

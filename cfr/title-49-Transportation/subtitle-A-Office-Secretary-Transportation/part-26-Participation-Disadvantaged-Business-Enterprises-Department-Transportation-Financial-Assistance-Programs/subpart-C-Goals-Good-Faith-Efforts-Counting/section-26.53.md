@@ -90,7 +90,7 @@
 
 (6) In addition to post-award terminations, the provisions of this section apply to pre-award deletions or changes to DBEs or their listed work put forward by offerors in negotiated procurements.
 
-(g) When a DBE subcontractor or any portion of its work is terminated by the prime contractor as provided in paragraph (f) of this section, or if work committed to a DBE is reduced due to overestimations made prior to award, the prime contractor must use good faith efforts to include additional DBE participation to the extent needed to meet the contract goal. The good faith efforts shall be documented by the contractor. If the recipient requests documentation under this provision, the contractor shall submit the documentation within 7 days, which may be extended for an additional 7 days, if necessary, at the request of the contractor, and the recipient shall provide a written determination to the contractor stating whether or not good faith efforts have been demonstrated.
+(g) When a DBE subcontractor or any portion of its work is terminated by the prime contractor as provided in paragraph (f) of this section, or the firm fails to complete its work on the contract for any reason, including when work committed to a DBE is not countable or reduced due to overestimations made prior to award, the prime contractor must use good faith efforts to include additional DBE participation to the extent needed to meet the contract goal. The good faith efforts shall be documented by the contractor. If the recipient requests documentation under this provision, the contractor shall submit the documentation within 7 days, which may be extended for an additional 7 days, if necessary, at the request of the contractor, and the recipient shall provide a written determination to the contractor stating whether or not good faith efforts have been demonstrated.
 
 (h) You must include in each prime contract the contract clause required by § 26.13(b) stating that failure by the contractor to carry out the requirements of this part is a material breach of the contract and may result in the termination of the contract or such other remedies set forth in that section you deem appropriate if the prime contractor fails to comply with the requirements of this section.
 
@@ -98,4 +98,4 @@
 
 (j) You must require the contractor awarded the contract to make available upon request a copy of all DBE subcontracts. The subcontractor shall ensure that all subcontracts or an agreement with DBEs to supply labor or materials require that the subcontract and all lower tier subcontractors be performed in accordance with this part's provisions.
 
-[64 FR 5126, Feb. 2, 1999, as amended at 76 FR 5098, Jan. 28, 2011; 79 FR 59595, Oct. 2, 2014; 89 FR 24967, Apr. 9, 2024]
+[64 FR 5126, Feb. 2, 1999, as amended at 76 FR 5098, Jan. 28, 2011; 79 FR 59595, Oct. 2, 2014; 89 FR 24967, Apr. 9, 2024; 89 FR 55089, July 3, 2024]

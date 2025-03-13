@@ -1,6 +1,6 @@
 ##### § 26.68 Personal net worth. #####
 
-(a) *General.* An owner whose PNW exceeds the regulation's currently applicable PNW limit is not presumed economically disadvantaged.
+(a) *General.* An owner whose PNW exceeds $2,047,000 is not presumed economically disadvantaged. The Department will adjust the PNW cap pursuant to paragraph (d) of this section.
 
 (b) *Required documents.* Each owner on whom the firm relies for certification must submit a DOE and a corroborating personal net worth (PNW) statement, including required attachments. The owner must report PNW on the form, available at *https://www.Transportation.gov/DBEFORMS.* A certifier may require an owner to provide additional information on a case-by-case basis to verify the accuracy and completeness of the PNW statement. The certifier must have a legitimate and demonstrable need for the additional information.
 
@@ -30,12 +30,12 @@ Example 2 to paragraph (c)(6):When the owner co-signs a debt instrument with two
 
 (10) The owner excludes from net worth all assets in qualified retirement accounts but must report those accounts, the value of assets in them, and any significant terms and restrictions concerning the assets' use, to the certifier.
 
-(d) *Regulatory adjustments.* (1) The Department will adjust the PNW cap by May 9, 2024 by multiplying $1,600,000 by the growth in total household net worth since 2019 as described by “Financial Accounts of the United States: Balance Sheet of Households (Supplementary Table B.101.h)” produced by the Board of Governors of the Federal Reserve (*https://www.federalreserve.gov/releases/z1/*), and normalized by the total number of households as collected by the Census in “Families and Living Arrangements” (*https://www.census.gov/topics/families/families-and-households.html*) to account for population growth. The Department will adjust the PNW cap every 3 years on the anniversary of the initial adjustment date described in this section. The Department will post the adjustments on the Departmental Office of Civil Rights' web page, available at *https://www.Transportation.gov/DBEPNW.* Each such adjustment will become the currently applicable PNW limit for purposes of this regulation.
+(d) *Regulatory adjustments.* (1) The Department will adjust the PNW cap by May 9, 2027 by multiplying $1,600,000 by the growth in total household net worth since 2019 as described by “Financial Accounts of the United States: Balance Sheet of Households (Supplementary Table B.101.h)” produced by the Board of Governors of the Federal Reserve (*https://www.federalreserve.gov/releases/z1/*), and normalized by the total number of households as collected by the Census in “Families and Living Arrangements” (*https://www.census.gov/topics/families/families-and-households.html*) to account for population growth. The Department will adjust the PNW cap every 3 years on the anniversary of the adjustment date described in this section. The Department will post the adjustments on the Departmental Office of Civil Rights' web page, available at *https://www.Transportation.gov/*DBEPNW. Each such adjustment will become the currently applicable PNW limit for purposes of this regulation.
 
-(2) The Department will use the following formula to adjust the PNW limit:
+(2) The Department will use formula 1 to this paragraph (d)(2) to adjust the PNW limit:
 
-![](/graphics/er09ap24.001.gif)
+Formula 1 to Paragraph (d)![](/graphics/er03jy24.131.gif)
 
 (e) *Confidentiality.* Notwithstanding any provision of Federal or State law, a certifier must not release an individual's PNW statement nor any documents pertaining to it to any third party without the written consent of the submitter. Provided, that you must transmit this information to DOT in any certification appeal proceeding under § 26.89 or to any other State to which the individual's firm has applied for certification under § 26.85.
 
-[89 FR 24971, Apr. 9, 2024]
+[89 FR 24971, Apr. 9, 2024; 89 FR 55089, July 3, 2024]

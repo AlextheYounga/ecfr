@@ -50,7 +50,7 @@ Example to paragraph (d)(6):DBE Firm X uses two of its own trucks on a contract.
 
 (2)(i) If the materials or supplies are purchased from a DBE regular dealer, count 60 percent of the cost of the materials or supplies (including transportation costs).
 
-(ii) For purposes of this section, a regular dealer is a firm that owns (or leases) and-operates, a store, warehouse, or other establishment in which the materials, supplies, articles or equipment of the general character described by the specifications and required under the contract are bought, kept in sufficient quantities, and regularly sold or leased to the public in the usual course of business.
+(ii) For purposes of this section, a regular dealer is a firm that owns (or leases) and operates, a store, warehouse, or other establishment in which the materials, supplies, articles or equipment of the general character described by the specifications and required under the contract are bought, kept in sufficient quantities, and regularly sold or leased to the public in the usual course of business.
 
 (iii) Items kept and regularly sold by the DBE are of the “general character” when they share the same material characteristics and application as the items specified by the contract.
 
@@ -58,7 +58,7 @@ Example to paragraph (d)(6):DBE Firm X uses two of its own trucks on a contract.
 
 (A) To be a regular dealer, the firm must be an established business that engages, as its principal business and under its own name, in the purchase and sale or lease of the products in question. A DBE supplier performs a CUF as a regular dealer and receives credit for 60 percent of the cost of materials or supplies (including transportation cost) when all, or at least 51 percent of, the items under a purchase order or subcontract are provided from the DBE's inventory, and when necessary, any minor quantities delivered from and by other sources are of the general character as those provided from the DBE's inventory.
 
-(B) A DBE may be a regular dealer in such bulk items as petroleum products, steel, concrete or concrete products, gravel, stone, or asphalt without owning, operating, or maintaining a place of business as provided in paragraph (e)(2)(ii) of this section if the firm both owns and operates distribution equipment used to deliver the products. Any supplementing of regular dealers' own distribution equipment must be by a long-term operating lease and not on an ad hoc or contract-by-contract basis.
+(B) A DBE may be a regular dealer in such bulk items as petroleum products, steel, concrete or concrete products, gravel, stone, or asphalt without owning and operating a place of business as provided in paragraph (e)(2)(ii) of this section if the firm both owns and operates distribution equipment used to deliver the products. Any supplementing of regular dealers' own distribution equipment must be by a long-term operating lease and not on an ad hoc or contract-by-contract basis.
 
 (C) A DBE supplier of items that are not typically stocked due to their unique characteristics (*e.g.,* limited shelf life or items ordered to specification) should be considered in the same manner as a regular dealer of bulk items per paragraph (e)(2)(iv)(B) of this section. If the DBE supplier of these items does not own or lease distribution equipment, as descried above, it is not a regular dealer.
 
@@ -76,4 +76,4 @@ Example to paragraph (d)(6):DBE Firm X uses two of its own trucks on a contract.
 
 (h) Do not count the participation of a DBE subcontractor toward a contractor's final compliance with its DBE obligations on a contract until the contractor has paid the DBE the amount being counted.
 
-[64 FR 5126, Feb. 2, 1999, as amended at 65 FR 68951, Nov. 15, 2000; 68 FR 35554, June 16, 2003; 79 FR 59595, Oct. 2, 2014; 89 FR 24968, Apr. 9, 2024]
+[64 FR 5126, Feb. 2, 1999, as amended at 65 FR 68951, Nov. 15, 2000; 68 FR 35554, June 16, 2003; 79 FR 59595, Oct. 2, 2014; 89 FR 24968, Apr. 9, 2024; 89 FR 55089, July 3, 2024]

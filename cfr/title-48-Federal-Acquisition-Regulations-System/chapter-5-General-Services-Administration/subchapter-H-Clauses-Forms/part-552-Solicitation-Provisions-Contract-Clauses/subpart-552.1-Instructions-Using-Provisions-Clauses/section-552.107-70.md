@@ -1,5 +1,7 @@
 ##### 552.107-70 Solicitation provision and contract clause. #####
 
+Link to an amendment published at 89 FR 55086, July 3, 2024.
+
 GSA has a FAR deviation that allows use of the following provision and clause in lieu of the FAR provision at 52.252-5 and the FAR clause at 52.252-6:
 
 (a) Insert the provision at 552.252-5, Authorized Deviations in Provisions, in solicitations that include any FAR or GSAR provision with an authorized deviation in lieu of the FAR provision at 52.252-5.

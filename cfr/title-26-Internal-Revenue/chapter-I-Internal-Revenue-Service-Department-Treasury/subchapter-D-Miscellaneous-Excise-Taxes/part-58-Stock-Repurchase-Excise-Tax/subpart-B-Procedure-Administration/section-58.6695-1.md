@@ -1,0 +1,5 @@
+##### § 58.6695-1 Other assessable penalties with respect to the preparation of tax returns or claims for refund for other persons. #####
+
+(a) *In general.* A person who is a tax return preparer of any return or claim for refund of tax under chapter 37 of the Internal Revenue Code (Code) may be subject to penalties for failure to furnish a copy to the taxpayer under section 6695(a) of the Code, failure to sign the return under section 6695(b), failure to furnish an identifying number under section 6695(c), failure to retain a copy or list under section 6695(d), failure to file a correct information return under section 6695(e), and endorsement or negotiation of a check under section 6695(f), in the manner stated in § 1.6695-1 of this chapter.
+
+(b) *Applicability date.* This section applies to returns and claims for refund filed after June 28, 2024, and during taxable years ending after June 28, 2024.

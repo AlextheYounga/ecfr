@@ -1,0 +1,9 @@
+##### § 58.6001-1 Notice or regulations requiring records, statements, and special returns. #####
+
+(a) *In general.* Any covered corporation (as defined in section 4501(b) of the Internal Revenue Code (Code)), or any person treated as a covered corporation (as described in section 4501(d)(1)(A) or (d)(2)(A)), that makes a repurchase (as defined in section 4501(c)(1)), or that is treated as making a repurchase under section 4501(c)(2)(A), (d)(1)(B), or (d)(2)(B), must keep such complete and detailed records as are sufficient to establish accurately the amount of repurchases, adjustments, or exceptions required to be shown by the covered corporation or person treated as a covered corporation in any stock repurchase excise tax return (as defined in § 58.6011-1(b)).
+
+(b) *Notice by IRS requiring returns, statements, or the keeping of records.* The Internal Revenue Service (IRS) may require any covered corporation or person treated as a covered corporation, by notice served upon such corporation or person, to make such returns, render such statements, or keep such specific records as will enable the IRS to determine whether or not such corporation or person is liable for tax under chapter 37 of the Code.
+
+(c) *Retention of records.* The records required by this section must be kept at all times available for inspection by the IRS and must be retained for so long as the contents thereof may become material in the administration of any internal revenue law.
+
+(d) *Applicability date.* This section applies to repurchases, adjustments, or exceptions required to be shown in any stock repurchase excise tax return required to be filed after June 28, 2024, and during taxable years ending after June 28, 2024.

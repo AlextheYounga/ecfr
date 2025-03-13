@@ -1,0 +1,5 @@
+##### § 58.6065-1 Verification of returns. #####
+
+(a) *In general.* If either a stock repurchase excise tax return (as defined in § 58.6011-1(b)), statement, or other document made with respect to any tax imposed by chapter 37 of the Internal Revenue Code, or the related form and instructions, requires that such return, statement, or other document contain or be verified by a written declaration that it is made under the penalties of perjury, then it must be so verified by the person or persons required to sign such return, statement, or other document. In addition, any other statement or document submitted under any provision of chapter 37, subtitle F, or regulations under this part with respect to any tax imposed by chapter 37 may be required to contain or be verified by a written declaration that it is made under the penalties of perjury.
+
+(b) *Applicability date.* This section applies to stock repurchase excise tax returns, statements, or other documents that are required to be made with respect to the tax imposed by chapter 37 and required to be filed after June 28, 2024, and during taxable years ending after June 28, 2024.

@@ -22,13 +22,13 @@
 
 (viii) Require potential DBEs to complete and submit an appropriate application form, except as otherwise provided in § 26.85 of this part.
 
-(2) You must use the application form provided in Appendix F to this part without change or revision. However, you may provide in your DBE program, with the written approval of the concerned operating administration, for supplementing the form by requesting specified additional information not inconsistent with this part.
+(2) You must use the application form available at *https://transportation.gov/DBEFORMS* without change or revision. However, you may provide in your DBE program, with the written approval of the concerned operating administration, for supplementing the form by requesting specified additional information not inconsistent with this part.
 
 (3) The certifier must ensure that the SEDO signs the Declaration of Eligibility (DOE) at the end of the Uniform Certification Application (UCA), subscribed to as true under penalty of perjury that all information provided is current, accurate, and complete.
 
 (4) You must review all information on the form prior to making a decision about the eligibility of the firm. You may request clarification of information contained in the application at any time in the application process.
 
-(d) When another recipient, in connection with its consideration of the eligibility of a firm, makes a written request for certification information you have obtained about that firm (e.g., including application materials or the report of a site visit, if you have made one to the firm), you must promptly make the information available to the other recipient.
+(d) When another certifier, in connection with its consideration of the eligibility of a firm, makes a written request for certification information you have obtained about that firm (e.g., including application materials or the report of a site visit, if you have made one to the firm), you must promptly make the information available to the other certifier.
 
 (e) [Reserved]
 
@@ -40,7 +40,7 @@
 
 (2) The certifier may not require a DBE to reapply for certification, renew its certification, undergo a recertification, or impose any functionally equivalent requirement. The certifier may, however, conduct a certification review at any reasonable time and/or at regular intervals of at least two years. The certification review may, at the certifier's discretion, include a new OSR. The certifier may also make an unannounced visit to the DBE's offices and/or job site. The certifier may also rely on another certifier's report of its OSR of the DBE.
 
-(i) If you are a DBE, you must inform the recipient or UCP in writing of any change in circumstances affecting your ability to meet size, disadvantaged status, ownership, or control requirements of this part or any material change in the information provided in your application form.
+(i) If you are a DBE, you must inform the certifier or UCP in writing of any change in circumstances affecting your ability to meet size, disadvantaged status, ownership, or control requirements of this part or any material change in the information provided in your application form.
 
 (1) Changes in management responsibility among members of a limited liability company are covered by this requirement.
 
@@ -52,11 +52,9 @@
 
 (k) The certifier must advise each applicant within 30 days of filing whether the application is complete and suitable for evaluation and, if not, what additional information or action is required.
 
-(l) The certifier must render a final eligibility decision within 90 days of receiving all information required from the applicant under this part. The certifier may extend this time period once, for no more than an additional 30 days, upon written notice to the firm, explaining fully and specifically the reasons for the extension. On a case-by-case basis, the concerned OA may give the certifier one deadline extension if it approves a written request explaining why the certifier needs more time. The certifier's failure to issue a compliant decision by the applicable deadline is a constructive denial of the application, appealable to DOT under § 26.89. In this case, the certifier may be subject to enforcement actions described in §§ 26.103 and 26.105.
+(l)(1) The certifier must render a final eligibility decision within 90 days of receiving all information required from the applicant under this part. The certifier may extend this time period once, for no more than an additional 30 days, upon written notice to the firm, explaining fully and specifically the reasons for the extension. On a case-by-case basis, the concerned OA may give the certifier one deadline extension if it approves a written request explaining why the certifier needs more time. The certifier's failure to issue a compliant decision by the applicable deadline is a constructive denial of the application, appealable to DOT under § 26.89. In this case, the certifier may be subject to enforcement actions described in §§ 26.103 and 26.105.
 
-(1) [Reserved]
-
-(2) The certifier must make an entry in DOCR's Online Portal within 5 days of a denial. The certifier must enter the name of the firm, names(s) of the firm's owner(s), date of decision, and the reason(s) for its decision.
+(2) [Reserved]
 
 (m)(1) A certifier may notify the applicant about ineligibility concerns and allow the firm to rectify deficiencies within the period in paragraph (l) of this section.
 
@@ -70,4 +68,4 @@
 
 (n) Except as otherwise provided in this paragraph (n), if an applicant for DBE certification withdraws its application before the certifier issues a decision, the applicant can resubmit the application at any time. However, the certifier may place the reapplication at the “end of the line,” behind other applications that have been made since the firm's previous application was withdrawn. The certifier may apply the § 26.86(c) waiting period to a firm that has established a pattern of withdrawing applications before its decision.
 
-[64 FR 5126, Feb. 2, 1999, as amended at 68 FR 35555, June 16, 2003; 76 FR 5100, Jan. 28, 2011; 79 FR 59598, Oct. 2, 2014; 89 FR 24974, Apr. 9, 2024]
+[64 FR 5126, Feb. 2, 1999, as amended at 68 FR 35555, June 16, 2003; 76 FR 5100, Jan. 28, 2011; 79 FR 59598, Oct. 2, 2014; 89 FR 24974, Apr. 9, 2024; 89 FR 55090, July 3, 2024]

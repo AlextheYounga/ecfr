@@ -1,4 +1,4 @@
-##### § 26.5 What do the terms used in this part mean? #####
+##### § 26.5 Definitions. #####
 
 *Affiliation* has the same meaning the term has in the Small Business Administration (SBA) regulations, 13 CFR part 121.
 

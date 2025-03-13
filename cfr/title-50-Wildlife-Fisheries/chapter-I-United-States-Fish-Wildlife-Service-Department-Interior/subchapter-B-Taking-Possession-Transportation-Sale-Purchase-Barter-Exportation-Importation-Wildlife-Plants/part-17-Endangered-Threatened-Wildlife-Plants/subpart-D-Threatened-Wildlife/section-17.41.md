@@ -1,5 +1,7 @@
 ##### § 17.41 Species-specific rules—birds. #####
 
+Link to an amendment published at 89 FR 55113, July 3, 2024.
+
 (a) Streaked horned lark (*Eremophila alpestris strigata*).
 
 (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to streaked horned lark. Except as provided under paragraph (a)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:

@@ -1,5 +1,7 @@
 ##### § 13.42 Taking of wildlife in national preserves. #####
 
+Link to an amendment published at 89 FR 55072, July 3, 2024.
+
 (a) Hunting and trapping are allowed in national preserves in accordance with applicable Federal and non-conflicting State law and regulation.
 
 (b) Violating a provision of either Federal or non-conflicting State law or regulation is prohibited.

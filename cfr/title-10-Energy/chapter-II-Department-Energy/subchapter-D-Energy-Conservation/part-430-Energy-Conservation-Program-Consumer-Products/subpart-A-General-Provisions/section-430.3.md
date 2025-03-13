@@ -1,7 +1,5 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 89 FR 28592, Apr. 19, 2024.Link to an amendment published at 89 FR 28963, Apr. 19, 2024.
-
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at the Department of Energy (DOE) and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Office, EE-5B, 1000 Independence Avenue SW, Washington, DC 20585-0121, (202) 586-9127, *Buildings@ee.doe.gov, www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) Air Movement and Control Association International, Inc. (AMCA), 30 West University Drive, Arlington Heights, IL 60004, (847) 394-0150, or by going to *https://www.amca.org/store/item.aspx?ItemId=81.*
@@ -334,8 +332,6 @@ ASTM E97-1987 was withdrawn in 1991. It is reasonably available from standards r
 
 (2) Energy Star Program Requirements for Single Voltage External Ac-Dc and Ac-Ac Power Supplies, Eligibility Criteria (Version 2.0), effective date for EPS Manufacturers November 1, 2008, IBR approved for subpart C, § 430.32.
 
-(3) Test Methodology for Determining the Energy Performance of Battery Charging Systems, approved December 2005, IBR approved for appendix Y to subpart B.
-
 (p) *HDMI*®. High-Definition Multimedia Interface Licensing, LLC, 1140 East Arques Avenue, Suite 100, Sunnyvale, CA 94085, 408-616-1542, or go to *www.hdmi.org.*
 
 (1) HDMI Specification Informational Version 1.0, *High-Definition Multimedia Interface Specification,* published September 4, 2003; IBR approved for § 430.2.
@@ -350,25 +346,7 @@ ASTM E97-1987 was withdrawn in 1991. It is reasonably available from standards r
 
 (3) IEC 60350-2, (“IEC 60350-2”), *Household electric cooking appliances Part 2: Hobs—Methods for measuring performance,* Edition 2.1, 2021-05; IBR approved for appendix I1 to subpart B.
 
-(4) IEC Standard 62040-3 Ed. 2.0, (“IEC 62040-3 Ed. 2.0”), *Uninterruptible power systems (UPS)—Part 3: Method of specifying the performance and test requirements,* Edition 2.0, 2011-03, IBR approved for appendices Y and Y1 to subpart B, as follows:
-
-(i) Section 5, Electrical conditions, performance and declared values, Section 5.2, UPS input specification, Section 5.2.1—Conditions for normal mode of operation;
-
-(ii) Clause 5.2.2.k;
-
-(iii) Section 5.3, UPS output specification, Section 5.3.2, Characteristics to be declared by the manufacturer, Clause 5.3.2.d;
-
-(iv) Clause 5.3.2.e;
-
-(v) Section 5.3.4—Performance classification;
-
-(vi) Section 6.2, Routine test procedure, Section 6.2.2.7—AC input failure;
-
-(vii) Section 6.4, Type test procedure (electrical), Section 6.4.1—Input—a.c. supply compatibility (excluding 6.4.1.3, 6.4.1.4, 6.4.1.5, 6.4.1.6, 6.4.1.7, 6.4.1.8, 6.4.1.9 and 6.4.1.10);
-
-(viii) Annex G—Input mains failure—Test method
-
-(ix) Annex J—UPS Efficiency—Methods of measurement.
+(4) IEC 62040-3:2021 (“IEC 62040-3 Ed. 3.0”) *Uninterruptible power systems (UPS)—Part 3: Method of specifying the performance and test requirements,* Edition 3.0, 2021-04; IBR approved for appendices Y and Y1 to subpart B.
 
 (5) IEC 62301, *Household electrical appliances—Measurement of standby power,* first edition, June 2005; IBR approved for appendices I, I1 to subpart B.
 
@@ -531,5 +509,7 @@ ASTM E97-1987 was withdrawn in 1991. It is reasonably available from standards r
 (2) UL 730 (“UL 730-2016”), Standard for Safety for Oil-Fired Wall Furnaces, Fifth Edition, dated August 29, 2003, including revisions through November 22, 2016; IBR approved for appendix O to subpart B.
 
 (3) UL 896 (“UL 896-2016”), Standard for Safety for Oil-Burning Stoves, Fifth Edition, dated July 29, 1993; including revisions through November 22, 2016, IBR approved for appendix O to subpart B.
+
+(4) UL 1598C (“UL 1598C-2016”), *Standard for Safety for Light-Emitting Diode (LED) Retrofit Luminaire Conversion Kits,* First edition, dated January 16, 2014 (including revisions through November 17, 2016); IBR approved for § 430.2.
 
 [74 FR 12066, Mar. 23, 2009]Editorial Note:For Federal Register citations affecting § 430.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

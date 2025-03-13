@@ -24,7 +24,7 @@
 
 (ii) Mandatory SSNs may state multiple reasons.
 
-(iii) The SSN, regardless of type, must demand that the DBE show cause why it should remain certified and provide the time and date of a virtual show-cause hearing at which the firm may present information and arguments concerning why the certifier should lift the suspension. The SSN must also advise that the DBE may provide written information and arguments lieu of or in addition to attending the hearing.
+(iii) The SSN, regardless of type, must demand that the DBE show cause why it should remain certified and provide the time and date of a virtual show-cause hearing at which the firm may present information and arguments concerning why the certifier should lift the suspension. The SSN must also advise that the DBE may provide written information and arguments in lieu of or in addition to attending the hearing.
 
 (2) *Hearing.* The hearing date must be a business day that is at least 15 but not more than 25 days after the date of the notice. The DBE may respond in writing in lieu of or in addition to attending the hearing; however, it will have waived its right to a hearing if it does not confirm its attendance within 10 days of the notice and will have forfeited its certification if it does not acknowledge the notice within 15 days. The show-cause hearing must be conducted as a video conference on a standard commercial platform that the DBE may readily access at no cost.
 
@@ -40,11 +40,9 @@
 
 (v) The DBE's failure to provide information contesting the suspension does not impair the certifier's ability to prove its case. That is, the uncontested evidence upon which the certifier relies in its notice, if substantial, will constitute a preponderance of the evidence for purposes of the NOD.
 
-(5) [Reserved]
+(5) *Duration.* The DBE remains suspended during the proceedings described in this section but in no case for more than 30 days. If the certifier has not lifted the suspension or provided a rule-compliant NOD by 4:30 p.m. on the 30th day, then it must lift the suspension and amend applicable DBE lists and databases by 12 p.m. the following business day.
 
-(6) *Duration.* The DBE remains suspended during the proceedings described in this section but in no case for more than 30 days. If the certifier has not lifted the suspension or provided a rule-compliant NOD by 4:30 p.m. on the 30th day, then it must lift the suspension and amend applicable DBE lists and databases by 12 p.m. the following business day.
-
-(e) *Recourse*—(1) *Appeal.* The DBE may appeal a final decision under paragraph (c)(5)(iv) of this section, as provided in § 26.89(a), but may *not* appeal the suspension itself, unless paragraph (d)(2) of this section applies.
+(e) *Recourse*—(1) *Appeal.* The DBE may appeal a final decision under paragraph (d)(4)(iv) of this section, as provided in § 26.89(a), but may *not* appeal the suspension itself, unless paragraph (e)(2) of this section applies.
 
 (2) *Enforcement.* (i) The DBE may immediately petition the Department for an order to vacate a certifier's action if:
 
@@ -52,7 +50,7 @@
 
 (B) Cites multiple reasons in an elective SSN contrary to paragraph (d)(1)(i) of this section.
 
-(ii) The DBE may also petition to the Department for an order to compel if the certifier fails to act within the time specified in paragraph (c)(6) of this section.
+(ii) The DBE may also petition to the Department for an order to compel if the certifier fails to act within the time specified in paragraph (d)(5) of this section.
 
 (3) In either case, the DBE must:
 
@@ -68,4 +66,4 @@
 
 (D) The suspension notice(s).
 
-[89 FR 24977, Apr. 9, 2024]
+[89 FR 24977, Apr. 9, 2024; 89 FR 55090, July 3, 2024]

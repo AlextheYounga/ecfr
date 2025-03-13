@@ -1,4 +1,4 @@
-##### § 26.81 What are the requirements for Unified Certification Programs? #####
+##### § 26.81 Unified Certification Programs. #####
 
 (a) You and all other DOT recipients in your state must participate in a Unified Certification Program (UCP).
 
@@ -20,7 +20,7 @@
 
 (c) All certifications by UCPs shall be pre-certifications; i.e., certifications that have been made final before the due date for bids or offers on a contract on which a firm seeks to participate as a DBE.
 
-(d) A UCP is not required to process an application for certification from a firm having its principal place of business outside the state if the firm is not certified by the UCP in the state in which it maintains its principal place of business. The “home state” UCP shall share its information and documents concerning the firm with other UCPs that are considering the firm's application.
+(d) A UCP is not required to process an application for certification from a firm having its principal place of business outside the state if the firm is not certified by the UCP in the state in which it maintains its principal place of business. The Jurisdiction of Original Certification UCP shall share its information and documents concerning the firm with other UCPs that are considering the firm's application.
 
 (e) Subject to DOT approval as provided in this section, recipients in two or more states may form a regional UCP. UCPs may also enter into written reciprocity agreements with other UCPs. Such an agreement shall outline the specific responsibilities of each participant. A UCP may accept the certification of any other UCP or DOT recipient.
 
@@ -30,4 +30,4 @@
 
 (h) Except as otherwise specified in this section, all provisions of this subpart and subpart D of this part pertaining to recipients also apply to UCPs.
 
-[89 FR 24974, Apr. 9, 2024]
+[64 FR 5126, Feb. 2, 1999, as amended at 76 FR 5100, Jan. 28, 2011; 89 FR 24974, Apr. 9, 2024; 89 FR 55089, July 3, 2024]

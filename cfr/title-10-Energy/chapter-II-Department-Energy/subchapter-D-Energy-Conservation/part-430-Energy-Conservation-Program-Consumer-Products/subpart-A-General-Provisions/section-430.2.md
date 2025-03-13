@@ -1,6 +1,6 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 89 FR 28962, Apr. 19, 2024.Link to an amendment published at 89 FR 37942, May 6, 2024.
+Link to an amendment published at 89 FR 37942, May 6, 2024.
 
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows—
 
@@ -518,7 +518,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (4) A colored lamp;
 
-(5) A G shape lamp with a diameter of 5 inches or more as defined in ANSI C79.1-2002 (incorporated by reference; see § 430.3);
+(5) A G shape lamp with a diameter of 5 inches or more as defined in ANSI C78.79-2020 (incorporated by reference; see § 430.3);
 
 (6) An infrared lamp;
 
@@ -542,7 +542,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (16) A traffic signal lamp.
 
-*General service lamp* means a lamp that has an ANSI base; is able to operate at a voltage of 12 volts or 24 volts, at or between 100 to 130 volts, at or between 220 to 240 volts, or of 277 volts for integrated lamps (as defined in this section), or is able to operate at any voltage for non-integrated lamps (as defined in this section); has an initial lumen output of greater than or equal to 310 lumens (or 232 lumens for modified spectrum general service incandescent lamps) and less than or equal to 3,300 lumens; is not a light fixture; is not an LED downlight retrofit kit; and is used in general lighting applications. General service lamps include, but are not limited to, general service incandescent lamps, compact fluorescent lamps, general service light-emitting diode lamps, and general service organic light emitting diode lamps. General service lamps do not include:
+*General service lamp* means a lamp that has an ANSI base; is able to operate at a voltage of 12 volts or 24 volts, at or between 100 to 130 volts, at or between 220 to 240 volts, or of 277 volts for integrated lamps (as set out in this definition), or is able to operate at any voltage for non-integrated lamps (as set out in this definition); has an initial lumen output of greater than or equal to 310 lumens (or 232 lumens for modified spectrum general service incandescent lamps) and less than or equal to 3,300 lumens; is not a light fixture; is not an LED downlight retrofit kit; and is used in general lighting applications. General service lamps include, but are not limited to, general service incandescent lamps, compact fluorescent lamps, general service light-emitting diode lamps, and general service organic light emitting diode lamps. General service lamps do not include:
 
 (1) Appliance lamps;
 
@@ -552,7 +552,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (4) Colored lamps;
 
-(5) G shape lamps with a diameter of 5 inches or more as defined in ANSI C79.1-2002 (incorporated by reference; see § 430.3);
+(5) G shape lamps with a diameter of 5 inches or more as defined in ANSI C78.79-2020 (incorporated by reference; see § 430.3);
 
 (6) General service fluorescent lamps;
 
@@ -572,7 +572,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (14) Mine service lamps;
 
-(15) MR shape lamps that have a first number symbol equal to 16 (diameter equal to 2 inches) as defined in ANSI C79.1-2002 (incorporated by reference; see § 430.3), operate at 12 volts, and have a lumen output greater than or equal to 800;
+(15) MR shape lamps that have a first number symbol equal to 16 (diameter equal to 2 inches) as defined in ANSI C78.79-2020 (incorporated by reference; see § 430.3), operate at 12 volts, and have a lumen output greater than or equal to 800;
 
 (16) Other fluorescent lamps;
 
@@ -580,9 +580,9 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (18) R20 short lamps;
 
-(19) Reflector lamps (as defined in this section) that have a first number symbol less than 16 (diameter less than 2 inches) as defined in ANSI C79.1-2002 (incorporated by reference; see § 430.3) and that do not have E26/E24, E26d, E26/50x39, E26/53x39, E29/28, E29/53x39, E39, E39d, EP39, or EX39 bases;
+(19) Reflector lamps (as set out in this definition) that have a first number symbol less than 16 (diameter less than 2 inches) as defined in ANSI C78.79-2020 (incorporated by reference; see § 430.3) and that do not have E26/E24, E26d, E26/50x39, E26/53x39, E29/28, E29/53x39, E39, E39d, EP39, or EX39 bases;
 
-(20) S shape or G shape lamps that have a first number symbol less than or equal to 12.5 (diameter less than or equal to 1.5625 inches) as defined in ANSI C79.1-2002 (incorporated by reference; see § 430.3);
+(20) S shape or G shape lamps that have a first number symbol less than or equal to 12.5 (diameter less than or equal to 1.5625 inches) as defined in ANSI C78.79-2014 (R2020) (incorporated by reference; see § 430.3);
 
 (21) Sign service lamps;
 
@@ -592,7 +592,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (24) Specialty MR lamps;
 
-(25) T shape lamps that have a first number symbol less than or equal to 8 (diameter less than or equal to 1 inch) as defined in ANSI C79.1-2002 (incorporated by reference; see § 430.3), nominal overall length less than 12 inches, and that are not compact fluorescent lamps (as defined in this section);
+(25) T shape lamps that have a first number symbol less than or equal to 8 (diameter less than or equal to 1 inch) as defined in ANSI C78.79-2020 (incorporated by reference; see § 430.3), nominal overall length less than 12 inches, and that are not compact fluorescent lamps (as set out in this definition);
 
 (26) Traffic signal lamps.
 
@@ -698,7 +698,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Lamps primarily designed to produce radiation in the ultraviolet region of the spectrum* means fluorescent lamps that primarily emit light in the portion of the electromagnetic spectrum where light has a wavelength between 10 and 400 nanometers.
 
-*LED Downlight Retrofit Kit* means a product designed and marketed to install into an existing downlight, replacing the existing light source and related electrical components, typically employing an ANSI standard lamp base, either integrated or connected to the downlight retrofit by wire leads, and is a retrofit kit. LED downlight retrofit kit does not include integrated lamps or non-integrated lamps.
+*LED downlight retrofit kit* means a product designed and marketed to install into an existing downlight, replacing the existing light source and related electrical components, typically employing an ANSI standard lamp base, either integrated or connected to the downlight retrofit by wire leads, and is a retrofit kit classified or certified to UL 1598C-2016 (incorporated by reference; see § 430.3). LED downlight retrofit kit does not include integrated lamps or non-integrated lamps.
 
 *Left-hand thread lamp* means a lamp with direction of threads on the lamp base oriented in the left-hand direction.
 
@@ -870,7 +870,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (3) With respect to incandescent reflector lamps, a represented value of electrical power for a basic model, determined according to 10 CFR 429.55, and derived from the measured initial input power of a lamp tested according to appendix R to subpart B of this part.
 
-*Reflector lamp* means a lamp that has an R, PAR, BPAR, BR, ER, MR, or similar bulb shape as defined in ANSI C78.20-2003 (incorporated by reference; see § 430.3) and ANSI C79.1-2002 (incorporated by reference; see § 430.3) and is used to provide directional light.
+*Reflector lamp* means a lamp that has an R, PAR, BPAR, BR, ER, MR, or similar bulb shape as defined in ANSI C78.79-2020 (incorporated by reference; see § 430.3) and is used to provide directional light.
 
 *Reflectorized or aperture lamp* means a fluorescent lamp that contains an inner reflective coating on the bulb to direct light.
 
@@ -969,7 +969,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (ii) Marketing materials that identify the lamp as being shatter-resistant, shatter-proof, or shatter-protected.
 
-*Showcase lamp* means a lamp that has a T shape as specified in ANSI C78.20-2003 (incorporated by reference; see § 430.3) and ANSI C79.1-2002 (incorporated by reference; see § 430.3), is designed and marketed as a showcase lamp, and has a maximum rated wattage of 75 watts.
+*Showcase lamp* means a lamp that has a T shape as specified in ANSI C78.79-2020 (incorporated by reference; see § 430.3), is designed and marketed as a showcase lamp, and has a maximum rated wattage of 75 watts.
 
 *Showerhead* means a component or set of components distributed in commerce for attachment to a single supply fitting, for spraying water onto a bather, typically from an overhead position, excluding safety shower showerheads.
 
@@ -1021,7 +1021,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (ii) Specifies the specific applications for which the ballast is designed.
 
-*Specialty MR lamp* means a lamp that has an MR shape as defined in ANSI C79.1-2002 (incorporated by reference; see § 430.3), a diameter of less than or equal to 2.25 inches, a lifetime of less than or equal to 300 hours, and that is designed and marketed for a specialty application.
+*Specialty MR lamp* means a lamp that has an MR shape as defined in ANSI C78.79-2020 (incorporated by reference; see § 430.3), a diameter of less than or equal to 2.25 inches, a lifetime of less than or equal to 300 hours, and that is designed and marketed for a specialty application.
 
 *Standby mode* means the condition in which an energy-using product—
 

@@ -54,28 +54,26 @@
 
 (4) The certifier must make an entry in DOCR's Online Portal within 5 days of the action. The certifier must enter the name of the firm, names(s) of the firm's owner(s), date of decision, and the reason(s) for its decision.
 
-(h) *Status of firm during proceeding.* (1) A DBE remains certified until the certifier issues a NOD.
-
-(2) [Reserved]
+(h) *Status of firm during proceeding.* A DBE remains certified until the certifier issues a NOD.
 
 (i) [Reserved]
 
 (j) *Consequences.* Decertification has the following effects on contract and overall goals and DBE participation:
 
-(1) When a prime contractor has made a commitment to use the decertified firm, but a subcontract has not been executed before the certifier issues the NOD, the certified firm does not count toward the contract goal. The recipient must direct the prime contractor to meet the contract goal with an eligible DBE or demonstrate the certifier that it has made good faith efforts to do so.
+(1) When a prime contractor has made a commitment to use a DBE, but a subcontract has not been executed before the certifier issues the NOD as provided for in paragraph (g) of this section, the committed firm does not count toward the contract goal. The recipient must direct the prime contractor to meet the contract goal with an eligible DBE or demonstrate to the recipient that it has made good faith efforts to do so.
 
-(2) When the recipient has made a commitment to using a DBE prime contractor, but a contract has not been executed before a decertification notice provided for in paragraph (g) of this section is issued, the decertified firm does not count toward the recipient's overall DBE goal.
+(2) When the recipient has made a commitment to using a DBE prime contractor, but a contract has not been executed before the certifier issues the NOD, the decertified firm does not count toward the recipient's overall DBE goal.
 
-(3) If a prime contractor has executed a subcontract with the firm before the certifier has notified the firm of its decertification, the prime contractor may continue to use the firm and may continue to receive credit toward the DBE goal for the firm's work. In this case, however, the prime contractor may not extend or add work to the contract after the firm was notified of its decertification without prior written consent from the recipient.
+(3) If a prime contractor has executed a subcontract with a DBE before the certifier issues the NOD, the prime contractor may continue to receive credit toward the contract goal for the firm's work. In this case, however, the prime contractor may not extend or add work to the contract without prior written consent from the recipient.
 
-(4) If a prime contractor has executed a subcontract with the firm before the certifier has notified the firm of its decertification, the prime contractor may continue to use the firm as set forth in paragraph (j)(3) of this section; however, the portion of the decertified firm's continued performance of the contract must not count toward the recipient's overall goal.
+(4) If a prime contractor has executed a subcontract with a DBE before the certifier issues the NOD, the prime contractor may continue to receive credit toward the contract goal as set forth in paragraph (j)(3) of this section; however, the portion of the decertified firm's continued performance of the contract must not count toward the recipient's overall goal.
 
-(5) If the recipient executed a prime contract with a DBE that was later decertified, the portion of the decertified firm's performance of the contract remaining after the certifier issued the notice of its decertification must not count toward an overall goal, but the DBE's performance of the contract may continue to count toward satisfying the contract goal.
+(5) If the recipient executed a prime contract with a DBE that was later decertified, the portion of the decertified firm's performance of the contract remaining after the certifier issued the NOD must not count toward an overall goal, but the DBE's performance of the contract may continue to count toward satisfying any contract goal.
 
 (6) The following exceptions apply to this paragraph (j):
 
-(i) If a certifier decertifies a firm solely because it exceeds the business size standard during the performance of the contract, the recipient may continue to count the portion of the decertified firm's performance of the contract remaining after it issued the notice of its decertification toward the recipient's overall goal as well as toward the contract goals.
+(i) If a certifier decertifies a firm solely because it exceeds the business size standard during the performance of the contract, the recipient may continue to count the portion of the decertified firm's performance of the contract remaining after the certifier issued the NOD toward the recipient's overall goal as well as toward the contract goal.
 
-(ii) If the certifier decertifies the DBE because it was acquired by or merged with a non-DBE, the recipient may not continue to count the portion of the decertified firm's performance on the contract remaining after the certifier decertified it toward either the contract goal or the overall goal, even if a prime contractor has executed a subcontract with the firm or the recipient has executed a prime contract with the DBE that was later decertified. In this case, if eliminating the credit of the decertified firm will affect the prime contractor's ability to meet the contract goal, the recipient must direct the prime contractor to subcontract to an eligible DBE to the extent needed to meet the contract goal or demonstrate to the recipient that it has made good faith efforts to do so.
+(ii) If the certifier decertifies the DBE because it was acquired by or merged with a non-DBE, the recipient may not continue to count the portion of the decertified firm's performance on the contract remaining, after the certifier issued a NOD, toward either the contract goal or the overall goal, even if a prime contractor has executed a subcontract with the firm or the recipient has executed a prime contract with the DBE that was later decertified. In this case, if eliminating the credit of the decertified firm will affect the prime contractor's ability to meet the contract goal, the recipient must direct the prime contractor to subcontract to an eligible DBE to the extent needed to meet the contract goal or demonstrate to the recipient that it has made good faith efforts to do so.
 
-[89 FR 24976, Apr. 9, 2024]
+[89 FR 24976, Apr. 9, 2024; 89 FR 55090, July 3, 2024]
