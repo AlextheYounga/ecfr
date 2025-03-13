@@ -8,24 +8,24 @@
 
 (d) “Substandard” is the quality of seedless raisins that fail to meet the requirements of U.S. grade C.
 
-|                Defects                 |           U.S. Grade A           |       U.S. Grade B       |U.S. Grade C|
-|----------------------------------------|----------------------------------|--------------------------|------------|
-|                                        |  Maximum count (per 96 ounces)   |                          |            |
-|             Pieces of stem             |                1                 |            2             |     4      |
-|                                        |  Maximum count (per 16 ounces)   |                          |            |
-|                Capstems                |                10                |            15            |     20     |
-|                                        |   Maximum (percent by weight)    |                          |            |
-|                Sugared                 |                5                 |            10            |     15     |
-|  Discolored, damaged or moldy raisins  |                4                 |            6             |     9      |
-|Provided these limits are not exceeded: |                                  |                          |            |
-|                Damaged                 |                2                 |            3             |     5      |
-|                 Moldy                  |                2                 |            3             |     4      |
-|                                        |              Total               |                          |            |
-|Substandard development and undeveloped:|                                  |                          |            |
-|             Selected size              |                1                 |1<sup>1</sup>⁄<sub>2</sub>|     2      |
-|               Mixed size               |                1                 |            2             |     3      |
-|               Small size               |                2                 |            3             |     5      |
-|                                        |Appearance or edibility of product|                          |            |
+|                Defects                 |           U.S. Grade A           |U.S. Grade B|U.S. Grade C|
+|----------------------------------------|----------------------------------|------------|------------|
+|                                        |  Maximum count (per 96 ounces)   |            |            |
+|             Pieces of stem             |                1                 |     2      |     4      |
+|                                        |  Maximum count (per 16 ounces)   |            |            |
+|                Capstems                |                10                |     15     |     20     |
+|                                        |   Maximum (percent by weight)    |            |            |
+|                Sugared                 |                5                 |     10     |     15     |
+|  Discolored, damaged or moldy raisins  |                4                 |     6      |     9      |
+|Provided these limits are not exceeded: |                                  |            |            |
+|                Damaged                 |                2                 |     3      |     5      |
+|                 Moldy                  |                2                 |     3      |     4      |
+|                                        |              Total               |            |            |
+|Substandard development and undeveloped:|                                  |            |            |
+|             Selected size              |                1                 |    11/2    |     2      |
+|               Mixed size               |                1                 |     2      |     3      |
+|               Small size               |                2                 |     3      |     5      |
+|                                        |Appearance or edibility of product|            |            |
 
 |Slightly discolored or damaged by fermentation or any other defect not described above|May not be affected|May not be more than slightly affected|May not be materially affected.|
 |--------------------------------------------------------------------------------------|-------------------|--------------------------------------|-------------------------------|

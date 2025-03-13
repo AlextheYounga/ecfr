@@ -1,5 +1,7 @@
 ##### § 1145.1 Definitions. #####
 
+Link to an amendment published at 89 FR 12950, Feb. 21, 2024.
+
 (a) *Program* means the dairy forward pricing program as established by Section 1502 of Public Law No. 110-246.
 
 (b) *Eligible milk* means the quantity of milk equal to the contracting handler's Class II, III and IV utilization of producer milk, in product pounds, during the month, combining all plants of a single handler regulated under the same Federal milk marketing order.

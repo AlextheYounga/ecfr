@@ -1,5 +1,7 @@
 ##### § 1145.2 Program. #####
 
+Link to an amendment published at 89 FR 12950, Feb. 21, 2024.
+
 (a) Any handler defined in 7 CFR 1000.9 may enter into forward contracts with producers or cooperative associations of producers for the handler's eligible volume of milk. Milk under forward contract in compliance with the provisions of this part will be exempt from the minimum payment provisions that would apply to such milk pursuant to 7 CFR 1001.73, 1005.73, 1006.73, 1007.73, 1030.73, 1032.73, 1033.73, 1051.73, 1124.73, 1126.73 and 1131.73 for the period of time covered by the contract.
 
 (b) No forward price contract may be entered into under the program after September 30, 2023, and no forward contract entered into under the program may extend beyond September 30, 2026.
