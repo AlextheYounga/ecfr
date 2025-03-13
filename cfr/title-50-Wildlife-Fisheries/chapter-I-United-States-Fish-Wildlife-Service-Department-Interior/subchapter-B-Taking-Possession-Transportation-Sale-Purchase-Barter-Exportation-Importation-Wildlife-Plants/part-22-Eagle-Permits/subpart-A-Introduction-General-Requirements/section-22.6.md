@@ -1,7 +1,5 @@
 ##### § 22.6 Definitions. #####
 
-Link to an amendment published at 89 FR 9958, Feb. 12, 2024.
-
 In addition to the definitions contained in part 10 of this subchapter, and unless the context otherwise requires, in this part 22:
 
 *Alternate nest* means one of potentially several nests within a nesting territory that is not an in-use nest at the current time. When there is no in-use nest, all nests in the territory are alternate nests.
@@ -14,19 +12,33 @@ In addition to the definitions contained in part 10 of this subchapter, and unle
 
 *Disturb* means to agitate or bother a bald or golden eagle to a degree that causes, or is likely to cause, based on the best scientific information available, (1) injury to an eagle, (2) a decrease in its productivity, by substantially interfering with normal breeding, feeding, or sheltering behavior, or (3) nest abandonment, by substantially interfering with normal breeding, feeding, or sheltering behavior.
 
-*Eagle management unit (EMU)* means a geographically bounded region within which permitted take is regulated to meet the management goal of maintaining stable or increasing breeding populations of bald or golden eagles.
+*Eagle management unit (EMU)* means a geographically bounded region within which permitted take is regulated to meet the management goal of maintaining stable or increasing breeding populations of bald eagles or golden eagles.
 
-*Eagle nest* means any assemblage of materials built, maintained, or used by bald eagles or golden eagles for the purpose of reproduction.
+(1) The Atlantic EMU is Connecticut, Delaware, Florida, Georgia, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, Rhode Island, South Carolina, Vermont, Virginia, and West Virginia.
+
+(2) The Mississippi EMU is Alabama, Arkansas, Illinois, Indiana, Iowa, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, Ohio, Tennessee, and Wisconsin.
+
+(3) The Central EMU is Kansas, Nebraska, New Mexico, North Dakota, Oklahoma, South Dakota, and Texas; portions of Colorado, New Mexico, and Wyoming east of the Continental Divide; and portions of Montana east of Hill, Chouteau, Cascade, Meagher, and Park Counties.
+
+(4) The Pacific EMU is Alaska, Arizona, California, Idaho, Nevada, Oregon, Utah, Washington; portions of Colorado, New Mexico, and Wyoming west of the Continental Divide; and in Montana Hill, Chouteau, Cascade, Meagher, and Park Counties and all counties west of those counties.
+
+(5) An EMU may be further divided between north and south along the 40th Parallel.
+
+*Eagle nest* means any assemblage of materials built, maintained, or used by bald eagles or golden eagles for the purpose of reproduction. An eagle nest remains an eagle nest until it becomes so diminished, or the nest substrate upon which it is built fails, that the nest is no longer usable and is not likely to become usable to eagles, as determined by a Federal, Tribal, or State eagle biologist.
 
 *Export* for the purpose of this part does not include the transportation of any dead bald or golden eagles, or their parts, nests, or dead eggs out of the United States when accompanied with a valid transportation permit.
 
 *Foraging area* means an area where eagles regularly feed during one or more seasons.
 
+*General permit* means a permit that has nationwide or regional standard conditions for a category, or categories, of activities that are substantially similar in nature.
+
 *Import* for the purpose of this part does not include the transportation of any dead bald or golden eagles, or their parts, nests, or dead eggs into the United States when accompanied with a valid transportation permit.
 
 *Important eagle-use area* means an eagle nest, foraging area, or communal roost site that eagles rely on for breeding, sheltering, or feeding, and the landscape features surrounding such nest, foraging area, or roost site that are essential for the continued viability of the site for breeding, feeding, or sheltering eagles.
 
-*In-use nest* means a bald or golden eagle nest characterized by the presence of one or more eggs, dependent young, or adult eagles on the nest in the past 10 days during the breeding season.
+*In-use nest* means a bald eagle or golden eagle nest that contains one or more viable eggs or dependent young, or, for golden eagles only, has had adult eagles on the nest within the past 10 days during the breeding season.
+
+*Incidental take* means take that is foreseeable and results from, but is not the purpose of, an activity.
 
 *Indirect effects* means effects for which a proposed action is a cause, and which may occur later in time and/or be physically manifested beyond the initial impacts of the action, but are still reasonably likely to occur.
 
@@ -50,4 +62,4 @@ In addition to the definitions contained in part 10 of this subchapter, and unle
 
 *Transportation into or out of the United States* for the purpose of this part means that the permitted item or items transported into or out of the United States do not change ownership at any time, they are not transferred from one person to another in the pursuit of gain or profit, and they are transported into or out of the United States for Indian religious purposes, or for scientific or exhibition purposes under the conditions and during the time period specified on a transportation permit for the items.
 
-[39 FR 1183, Jan. 4, 1974, as amended at 48 FR 57300, Dec. 29, 1983; 64 FR 50472, Sept. 17, 1999; 72 FR 31139, June 5, 2007; 74 FR 46876, Sept. 11, 2009; 81 FR 91550, Dec. 16, 2016; Redesignated at 87 FR 884, Jan. 7, 2022]
+[39 FR 1183, Jan. 4, 1974, as amended at 48 FR 57300, Dec. 29, 1983; 64 FR 50472, Sept. 17, 1999; 72 FR 31139, June 5, 2007; 74 FR 46876, Sept. 11, 2009; 81 FR 91550, Dec. 16, 2016; Redesignated at 87 FR 884, Jan. 7, 2022; 89 FR 9958, Feb. 12, 2024]

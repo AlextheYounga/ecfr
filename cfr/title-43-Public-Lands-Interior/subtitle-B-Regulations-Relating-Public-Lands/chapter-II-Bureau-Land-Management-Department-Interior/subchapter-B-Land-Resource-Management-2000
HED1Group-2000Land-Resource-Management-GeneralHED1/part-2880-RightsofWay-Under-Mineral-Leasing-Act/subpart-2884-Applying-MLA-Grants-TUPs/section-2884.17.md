@@ -1,5 +1,7 @@
 ##### § 2884.17 How will BLM process my Processing Category 6 application? #####
 
+Link to an amendment published at 89 FR 25974, Apr. 12, 2024.
+
 (a) For Processing Category 6 applications, you and the BLM must enter into a written agreement that describes how we will process your application. The final agreement consists of a work plan, a financial plan, and a description of any existing agreements you have with other Federal agencies for cost reimbursement associated with such application.
 
 (b) In processing your application, BLM will:

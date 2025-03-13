@@ -1,0 +1,3 @@
+##### § 2806.16 When must I make estimated rent payments to BLM? #####
+
+To expedite the processing of your grant application, BLM may estimate rent payments and collect that amount before it issues the grant. The amount may change once BLM determines the actual rent of the right-of-way. BLM will credit any rental overpayment, and you are liable for any underpayment. This section does not apply to rent payments made under a rent schedule in this part.

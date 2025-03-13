@@ -1,5 +1,7 @@
 ##### § 2806.30 What are the rents for communication site rights-of-way? #####
 
+Link to an amendment published at 89 FR 25964, Apr. 12, 2024.
+
 (a) *Rent schedule.* (1) The BLM uses a rent schedule to calculate the rent for communication site rights-of-way. The schedule is based on nine population strata (the population served), as depicted in the most recent version of the Ranally Metro Area (RMA) Population Ranking, and the type of communication use or uses for which we normally grant communication site rights-of-way. These uses are listed as part of the definition of “communication use rent schedule,” set out at § 2801.5(b). You may obtain a copy of the current schedule from any BLM State, district, or field office or by writing: U.S. Department of the Interior, Bureau of Land Management, 20 M Street SE., Room 2134LM, Washington, DC 20003. We also post the current communication use rent schedule at *http://www.blm.gov*.
 
 (2) We update the schedule annually based on two sources: The U.S. Department of Labor Consumer Price Index for All Urban Consumers, U.S. City Average (CPI-U), as of July of each year (difference in CPI-U from July of one year to July of the following year), and the RMA population rankings.

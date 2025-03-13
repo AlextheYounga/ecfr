@@ -1,5 +1,7 @@
 ##### § 2920.6 Reimbursement of costs. #####
 
+Link to an amendment published at 89 FR 25976, Apr. 12, 2024.
+
 (a) When two or more applications are submitted for a land use authorization, each applicant shall be liable for the identifiable costs of processing his (or her) application. Where the costs of processing two or more applications cannot be readily identified with particular applications, all applicants shall be liable for such costs, to be divided equally among them.
 
 (b) The selected land use applicant shall reimburse the United States for reasonable administrative and other costs incurred by the United States in processing a land use authorization application and in monitoring construction, operation, maintenance and rehabilitation of facilities authorized under this part, including preparation of reports and statements required by the National Environmental Policy Act of 1969 (43 U.S.C. 4321 *et seq.*). The reimbursement of costs shall be in accordance with the provisions of §§ 2804.14 and 2805.16 of this chapter.

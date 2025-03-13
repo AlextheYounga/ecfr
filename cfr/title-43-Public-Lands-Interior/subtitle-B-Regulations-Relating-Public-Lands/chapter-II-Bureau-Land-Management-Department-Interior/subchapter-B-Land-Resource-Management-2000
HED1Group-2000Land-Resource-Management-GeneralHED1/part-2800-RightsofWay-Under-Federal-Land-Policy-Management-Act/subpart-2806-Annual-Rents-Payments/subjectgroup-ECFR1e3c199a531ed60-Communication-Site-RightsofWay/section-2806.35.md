@@ -1,5 +1,7 @@
 ##### § 2806.35 How will BLM calculate rent for private mobile radio service (PMRS), internal microwave, and “other” category uses? #####
 
+Link to an amendment published at 89 FR 25964, Apr. 12, 2024.
+
 If an entity engaged in a PMRS, internal microwave, or “other” use is:
 
 (a) Using space in a facility owned by either a facility owner or facility manager, BLM will consider the entity to be a customer and not include these uses in the rent calculation for the facility; or

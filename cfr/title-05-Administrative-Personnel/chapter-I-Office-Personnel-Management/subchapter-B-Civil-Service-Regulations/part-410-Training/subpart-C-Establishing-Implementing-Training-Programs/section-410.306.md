@@ -1,5 +1,7 @@
 ##### § 410.306 Selecting and assigning employees to training. #####
 
+Link to an amendment published at 89 FR 25775, Apr. 12, 2024.
+
 (a) Each agency shall establish criteria for the fair and equitable selection and assignment of employees to training consistent with merit system principles specified in 5 U.S.C. 2301(b)(1) and (2).
 
 (b) Persons on Intergovernmental Personnel Act mobility assignments may be assigned to training if that training is in the interest of the Government.

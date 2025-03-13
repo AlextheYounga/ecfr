@@ -1,5 +1,7 @@
 ##### § 362.305 Conversion to the competitive service. #####
 
+Link to an amendment published at 89 FR 25774, Apr. 12, 2024.
+
 (a) An agency may noncompetitively convert a Recent Graduate who is a U.S. citizen to a competitive service term or permanent position when the Recent Graduate has:
 
 (1) Successfully completed at least 1-year of continuous service in addition to all the requirements of the Recent Graduates Program;

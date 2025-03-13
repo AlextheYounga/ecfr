@@ -1,5 +1,7 @@
 ##### § 362.107 Conversion to the competitive service. #####
 
+Link to an amendment published at 89 FR 25771, Apr. 12, 2024.
+
 (a) Subject to any limits on conversion imposed by the Director, and in accordance with the provisions of each Pathways Program, an agency may noncompetitively convert an eligible Pathways Participant to a term or permanent competitive service position.
 
 (b) A Pathways Participant who is noncompetitively converted to a competitive service term appointment may be subsequently converted noncompetitively to a permanent competitive service position.

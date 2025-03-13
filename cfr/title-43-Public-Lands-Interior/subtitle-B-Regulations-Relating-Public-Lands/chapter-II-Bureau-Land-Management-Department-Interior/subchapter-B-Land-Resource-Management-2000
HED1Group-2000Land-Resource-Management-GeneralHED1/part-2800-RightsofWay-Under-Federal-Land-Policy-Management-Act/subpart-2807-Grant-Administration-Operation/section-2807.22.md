@@ -1,5 +1,7 @@
 ##### § 2807.22 How do I renew my grant or lease? #####
 
+Link to an amendment published at 89 FR 25965, Apr. 12, 2024.
+
 (a) If your grant or lease specifies the terms and conditions for its renewal, and you choose to renew it, you must request a renewal from the BLM at least 120 calendar days before your grant or lease expires consistent with the renewal terms and conditions specified in your grant or lease. We will renew the grant or lease if you are in compliance with the renewal terms and conditions; the other terms, conditions, and stipulations of the grant or lease; and other applicable laws and regulations.
 
 (b) If your grant or lease does not specify the terms and conditions for its renewal, you may apply to us to renew the grant or lease. You must send us your application at least 120 calendar days before your grant or lease expires. In your application you must show that you are in compliance with the terms, conditions, and stipulations of the grant or lease and other applicable laws and regulations, and explain why a renewal of your grant or lease is necessary. We may approve or deny your application to renew your grant or lease.

@@ -1,5 +1,7 @@
 ##### § 13.28 Permit revocation. #####
 
+Link to an amendment published at 89 FR 26094, Apr. 12, 2024.
+
 (a) *Criteria for revocation.* A permit may be revoked for any of the following reasons:
 
 (1) The permittee willfully violates any Federal or State statute or regulation, or any Indian tribal law or regulation, or any law or regulation of any foreign country, which involves a violation of the conditions of the permit or of the laws or regulations governing the permitted activity; or

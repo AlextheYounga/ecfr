@@ -1,5 +1,7 @@
 ##### § 2804.26 Under what circumstances may BLM deny my application? #####
 
+Link to an amendment published at 89 FR 25962, Apr. 12, 2024.
+
 (a) BLM may deny your application if:
 
 (1) The proposed use is inconsistent with the purpose for which BLM manages the public lands described in your application;

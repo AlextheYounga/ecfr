@@ -1,5 +1,7 @@
 ##### § 2807.20 When must I amend my application, seek an amendment of my grant, or obtain a new grant? #####
 
+Link to an amendment published at 89 FR 25965, Apr. 12, 2024.
+
 (a) You must amend your application or seek an amendment of your grant when there is a proposed substantial deviation in location or use.
 
 (b) The requirements to amend an application or grant are the same as those for a new application, including paying processing and monitoring fees and rent according to §§ 2804.14, 2805.16, and 2806.10 of this part.

@@ -1,5 +1,7 @@
 ##### § 362.104 Agency requirements. #####
 
+Link to an amendment published at 89 FR 25770, Apr. 12, 2024.
+
 (a) *Memorandum of Understanding.* In order to make any appointment under a Pathways authority, a Memorandum of Understanding (Pathways MOU) must be in effect between the head of an agency, or his or her designee, and OPM for the administration and use of Pathways Programs, to be re-executed no less frequently than every 2 years.
 
 (b) The Director may revoke an agency's Pathways MOU when agency use of these Programs is inconsistent with Executive Order 13562, this part, or the Pathways MOU.

@@ -1,5 +1,7 @@
 ##### § 2805.11 What does a grant contain? #####
 
+Link to an amendment published at 89 FR 25962, Apr. 12, 2024.
+
 The grant states what your rights are on the lands subject to the grant and contains information about:
 
 (a) *What lands you can use or occupy.* The lands may or may not correspond to those for which you applied. BLM will limit the grant to those lands which BLM determines:

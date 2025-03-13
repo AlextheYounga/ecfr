@@ -1,5 +1,7 @@
 ##### § 362.108 Program oversight. #####
 
+Link to an amendment published at 89 FR 25771, Apr. 12, 2024.
+
 (a) The Director may establish caps on the number of Pathways Participants who may be appointed or converted in any Pathways Program within a specific agency or throughout the Federal Government.
 
 (b) The Director may establish such caps based on agency or Governmentwide use of the Pathways Programs, input from the Executive agencies, and consideration of the following:

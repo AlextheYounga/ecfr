@@ -1,5 +1,7 @@
 ##### § 300.301 Authority. #####
 
+Link to an amendment published at 89 FR 25769, Apr. 12, 2024.
+
 (a) In accordance with 5 U.S.C. 3341, an agency may detail an employee in the competitive service to a position in either the competitive or excepted service.
 
 (b) In accordance with 5 U.S.C. 3341, an agency may detail an employee in the excepted service to a position in the excepted service and may also detail an excepted service employee serving under Schedule A, Schedule B, or a Veterans Recruitment Appointment, to a position in the competitive service.

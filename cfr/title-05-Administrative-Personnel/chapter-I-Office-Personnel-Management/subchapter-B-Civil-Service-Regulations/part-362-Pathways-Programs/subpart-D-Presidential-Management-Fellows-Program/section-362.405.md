@@ -1,5 +1,7 @@
 ##### § 362.405 Development, evaluation, promotion, and certification. #####
 
+Link to an amendment published at 89 FR 25774, Apr. 12, 2024.
+
 (a) *Individual Development Plans.* An agency must approve, within 45 days, an Individual Development Plan (IDP) for each of its Fellows that sets forth the specific developmental activities that are mutually agreed upon by each Fellow and his or her supervisor. The IDP must be developed in consultation with the Agency PMF Coordinator and/or the mentor assigned to the Fellow under paragraph (b)(3) of this section.
 
 (b) *Required developmental activities.* (1) OPM will provide an orientation program for each class or cohort of Fellows and will provide information on available training opportunities known to it.

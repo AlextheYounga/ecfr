@@ -1,5 +1,7 @@
 ##### § 2804.17 What is a Master Agreement (Processing Category 5) and what information must I provide to BLM when I request one? #####
 
+Link to an amendment published at 89 FR 25960, Apr. 12, 2024.
+
 (a) A Master Agreement (Processing Category 5) is a written agreement covering processing and monitoring fees (*see* § 2805.16 of this part) negotiated between BLM and you that involves multiple BLM grant approvals for projects within a defined geographic area.
 
 (b) Your request for a Master Agreement must:

@@ -1,5 +1,7 @@
 ##### § 362.205 Reduction in force (RIF) and termination. #####
 
+Link to an amendment published at 89 FR 25773, Apr. 12, 2024.
+
 (a) *Reduction in force.* Interns are covered by part 351 of this chapter for purposes of RIF.
 
 (1) *Tenure Groups.* (i) An Intern serving under an appointment for an initial period expected to last more than 1 year is in excepted service Tenure Group II.

@@ -1,5 +1,7 @@
 ##### § 2884.24 What fees do I owe if BLM denies my application or if I withdraw my application? #####
 
+Link to an amendment published at 89 FR 25975, Apr. 12, 2024.
+
 If BLM denies your application, or you withdraw it, you owe the processing fee set forth at § 2884.12(b) of this subpart, unless you have a Processing Category 5 or 6 application. Then, the following conditions apply:
 
 (a) If BLM denies your Processing Category 5 or 6 application, you are liable for all actual costs that the United States incurred in processing it. The money you have not paid is due within 30 calendar days after receiving a bill for the amount due; and

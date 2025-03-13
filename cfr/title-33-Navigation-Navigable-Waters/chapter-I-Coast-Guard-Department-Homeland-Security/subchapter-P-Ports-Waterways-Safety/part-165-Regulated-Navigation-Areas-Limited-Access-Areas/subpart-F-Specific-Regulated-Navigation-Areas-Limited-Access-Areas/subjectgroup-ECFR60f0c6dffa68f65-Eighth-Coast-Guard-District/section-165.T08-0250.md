@@ -16,5 +16,4 @@
 
 (d) *Enforcement Period.* This rule will be subject to enforcement from 5 a.m. on April 4, 2024, through 4 p.m. on April 17, 2024.
 
-[Doc. No. USCG-2024-0250, 89 FR 25142, Apr. 10, 2024]
-[Effective Date Note: By Doc. No. USCG-2024-0250, 89 FR 25142, Apr. 10, 2024, § 165.T08-0250 is effective from 5 a.m. on Apr. 4, 2024, through 4 p.m. on Apr. 17, 2024.]
+[Doc. No. USCG-2024-0250, 89 FR 25142, Apr. 10, 2024]Effective Date Note:By Doc. No. USCG-2024-0250, 89 FR 25142, Apr. 10, 2024, § 165.T08-0250 is effective from 5 a.m. on Apr. 4, 2024, through 4 p.m. on Apr. 17, 2024.

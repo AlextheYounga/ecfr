@@ -1,5 +1,7 @@
 ##### § 2806.43 How does BLM calculate rent for passive reflectors and local exchange networks? #####
 
+Link to an amendment published at 89 FR 25964, Apr. 12, 2024.
+
 (a) BLM calculates rent for passive reflectors and local exchange networks by using the same rent schedules for passive reflectors and local exchange networks as the Forest Service uses for the region in which the facilities are located. You may obtain the pertinent schedules from the Forest Service or from any BLM state or field office in the region in question. For passive reflectors and local exchange networks not covered by a Forest Service regional schedule, we use the provisions in § 2806.70 to determine rent. See Forest Service regulations at 36 CFR chapter II.
 
 (b) For the purposes of this subpart, the term:

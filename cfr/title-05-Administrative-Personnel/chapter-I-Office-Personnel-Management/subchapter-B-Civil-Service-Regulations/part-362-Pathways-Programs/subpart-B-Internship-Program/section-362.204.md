@@ -1,5 +1,7 @@
 ##### § 362.204 Conversion to the competitive service. #####
 
+Link to an amendment published at 89 FR 25772, Apr. 12, 2024.
+
 (a) An agency may noncompetitively convert an Intern who is a U.S. citizen, to a term or permanent appointment in the competitive service.
 
 (b) To be eligible for conversion, the Intern must have:

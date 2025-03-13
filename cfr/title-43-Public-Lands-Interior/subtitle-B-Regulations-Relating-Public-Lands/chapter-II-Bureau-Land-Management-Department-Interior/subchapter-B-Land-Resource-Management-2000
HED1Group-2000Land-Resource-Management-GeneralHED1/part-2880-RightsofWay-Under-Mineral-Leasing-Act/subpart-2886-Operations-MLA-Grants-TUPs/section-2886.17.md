@@ -1,5 +1,7 @@
 ##### § 2886.17 Under what conditions may BLM suspend or terminate my grant or TUP? #####
 
+Link to an amendment published at 89 FR 25975, Apr. 12, 2024.
+
 (a) Subject to § 2886.11, BLM may suspend or terminate your grant if you do not comply with applicable laws and regulations or any terms, conditions, or stipulations of the grant, or if you abandon the right-of-way.
 
 (b) Subject to § 2886.11, BLM may suspend or terminate your TUP if you do not comply with applicable laws and regulations or any terms, conditions, or stipulations of the TUP, or if you abandon the TUP area.

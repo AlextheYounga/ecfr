@@ -1,5 +1,7 @@
 ##### § 2806.34 How will BLM calculate the rent for a grant or lease authorizing a multiple-use communication facility? #####
 
+Link to an amendment published at 89 FR 25964, Apr. 12, 2024.
+
 (a) *Basic rule.* BLM first determines the population strata the communication facility serves according to § 2806.32 of this subpart and then calculates the rent assessed to facility owners and facility managers for a grant or lease for a communication facility that authorizes subleasing with tenants, customers, or both, as follows:
 
 (1) *Using the communication use rent schedule.* BLM will determine the rent of the highest value use in the facility or facilities as the base rent, and add to it 25 percent of the rent from the rent schedule (*see* § 2806.30 of this subpart) for each tenant use in the facility or facilities;

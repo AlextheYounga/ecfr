@@ -1,5 +1,7 @@
 ##### § 2885.17 What happens if I do not pay rents and fees or if I pay the rents or fees late? #####
 
+Link to an amendment published at 89 FR 25975, Apr. 12, 2024.
+
 (a) If BLM does not receive the rent payment within 15 calendar days after the rent was due under § 2885.16 of this subpart, BLM will charge you a late payment fee of $25.00 or 10 percent of the rent you owe, whichever is greater, not to exceed $500 per authorization.
 
 (b) If BLM does not receive your rent payment and late payment fee within 30 calendar days after rent was due, BLM may collect other administrative fees provided by statute.

@@ -1,5 +1,7 @@
 ##### § 2805.16 If I hold a grant, what monitoring fees must I pay? #####
 
+Link to an amendment published at 89 FR 25963, Apr. 12, 2024.
+
 (a) You must pay a fee to the BLM for the reasonable costs the Federal Government incurs in inspecting and monitoring the construction, operation, maintenance, and termination of the project and protection and rehabilitation of the public lands your grant covers. Instead of paying the BLM a fee for the reasonable costs incurred by other Federal agencies in monitoring your grant, you may pay the other Federal agencies directly for such costs. The BLM will annually adjust the Category 1 through 4 monitoring fees in the manner described at § 2804.14(b). The BLM will update Category 5 monitoring fees as specified in the Master Agreement. Category 6 monitoring fees are addressed at § 2805.17(c). The BLM categorizes the monitoring fees based on the estimated number of work hours necessary to monitor your grant. Category 1 through 4 monitoring fees are one-time fees and are not refundable. The monitoring categories and work hours are as follows:
 
 Monitoring Categories

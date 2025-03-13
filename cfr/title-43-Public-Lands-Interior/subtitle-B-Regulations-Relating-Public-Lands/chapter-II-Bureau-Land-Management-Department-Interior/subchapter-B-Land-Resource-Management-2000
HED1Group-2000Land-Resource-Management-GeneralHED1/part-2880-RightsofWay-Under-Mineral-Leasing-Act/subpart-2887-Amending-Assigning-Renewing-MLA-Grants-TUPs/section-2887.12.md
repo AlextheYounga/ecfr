@@ -1,5 +1,7 @@
 ##### § 2887.12 How do I renew my grant? #####
 
+Link to an amendment published at 89 FR 25976, Apr. 12, 2024.
+
 (a) You must apply to BLM to renew the grant at least 120 calendar days before your grant expires. BLM will renew the grant if the pipeline is being operated and maintained in accordance with the grant, these regulations, and the Act. If your grant has expired or terminated, you must apply for a new grant under subpart 2884 of this part.
 
 (b) BLM may modify the terms and conditions of the grant at the time of renewal, and you must pay the processing fees (*see* § 2884.12 of this part) in advance.

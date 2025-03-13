@@ -1,5 +1,7 @@
 ##### § 2805.15 What rights does the United States retain? #####
 
+Link to an amendment published at 89 FR 25962, Apr. 12, 2024.
+
 The United States retains and may exercise any rights the grant does not expressly convey to you. These include BLM's right to:
 
 (a) Access the lands covered by the grant at any time and enter any facility you construct on the right-of-way. BLM will give you reasonable notice before it enters any facility on the right-of-way;

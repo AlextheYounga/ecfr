@@ -1,5 +1,7 @@
 ##### § 2804.21 What other factors will BLM consider in determining processing and monitoring fees? #####
 
+Link to an amendment published at 89 FR 25961, Apr. 12, 2024.
+
 (a) *Other factors.* If you include this information in your application, in arriving at your processing or monitoring fee in any category, the BLM State Director will consider whether:
 
 (1) Payment of actual costs would:

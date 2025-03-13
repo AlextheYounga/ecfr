@@ -1,5 +1,7 @@
 ##### § 17.2 Scope of regulations. #####
 
+Link to an amendment published at 89 FR 26094, Apr. 12, 2024.
+
 (a) The regulations of this part apply only to endangered and threatened wildlife and plants.
 
 (b) By agreement between the Service and the National Marine Fisheries Service, the jurisdiction of the Department of Commerce has been specifically defined to include certain species, while jurisdiction is shared in regard to certain other species. Such species are footnoted in subpart B of this part, and reference is given to special rules of the National Marine Fisheries Service for those species.

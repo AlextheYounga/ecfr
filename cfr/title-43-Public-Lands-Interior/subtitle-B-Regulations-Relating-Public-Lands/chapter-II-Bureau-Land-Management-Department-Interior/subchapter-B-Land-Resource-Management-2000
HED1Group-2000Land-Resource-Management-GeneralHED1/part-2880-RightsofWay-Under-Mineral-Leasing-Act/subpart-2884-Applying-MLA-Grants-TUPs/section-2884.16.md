@@ -1,5 +1,7 @@
 ##### § 2884.16 What provisions do Master Agreements contain and what are their limitations? #####
 
+Link to an amendment published at 89 FR 25974, Apr. 12, 2024.
+
 (a) A Master Agreement:
 
 (1) Specifies that you must comply with all applicable laws and regulations;

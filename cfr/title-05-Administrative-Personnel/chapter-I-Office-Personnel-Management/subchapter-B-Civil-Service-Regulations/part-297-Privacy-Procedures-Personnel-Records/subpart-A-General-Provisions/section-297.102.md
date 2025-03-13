@@ -1,5 +1,7 @@
 ##### § 297.102 Definitions. #####
 
+Link to an amendment published at 89 FR 25750, Apr. 12, 2024.
+
 In this part, the terms *agency, individual, maintain, record, statistical records,* and *systems of records* have the same meanings as defined in the Privacy Act, 5 U.S.C. 552a. In addition:
 
 *Access* means providing a copy of a record to, or allowing review of the original record by, the data subject or the data subject's authorized representative, parent, or legal guardian;

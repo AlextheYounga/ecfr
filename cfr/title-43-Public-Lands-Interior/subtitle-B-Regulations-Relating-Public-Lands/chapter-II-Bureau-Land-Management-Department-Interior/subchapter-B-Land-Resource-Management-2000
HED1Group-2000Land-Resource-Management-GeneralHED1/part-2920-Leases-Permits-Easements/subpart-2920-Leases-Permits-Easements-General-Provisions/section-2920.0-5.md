@@ -1,5 +1,7 @@
 ##### § 2920.0-5 Definitions. #####
 
+Link to an amendment published at 89 FR 25976, Apr. 12, 2024.
+
 As used in this part, the term:
 
 (a) *Authorized officer* means any employee of the Bureau of Land Management to whom has been delegated the authority to perform the duties described in this part.

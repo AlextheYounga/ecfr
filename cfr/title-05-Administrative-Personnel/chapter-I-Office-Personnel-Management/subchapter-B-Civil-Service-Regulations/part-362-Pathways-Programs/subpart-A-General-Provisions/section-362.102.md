@@ -1,5 +1,7 @@
 ##### § 362.102 Definitions. #####
 
+Link to an amendment published at 89 FR 25770, Apr. 12, 2024.
+
 For the purposes of this part:
 
 *Advanced degree* means a professional or graduate degree, e.g., master's, Ph.D., J.D.

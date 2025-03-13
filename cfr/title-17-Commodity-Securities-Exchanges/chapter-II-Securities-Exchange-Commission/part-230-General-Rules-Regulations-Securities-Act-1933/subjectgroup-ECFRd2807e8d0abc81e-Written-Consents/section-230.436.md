@@ -1,6 +1,6 @@
 ##### § 230.436 Consents required in special cases. #####
 
-Link to an amendment published at 89 FR 21919, Mar. 28, 2024.
+Link to an amendment published at 89 FR 21919, Mar. 28, 2024.Link to a delay published at 89 FR 25804, Apr. 12, 2024.
 
 (a) If any portion of the report or opinion of an expert or counsel is quoted or summarized as such in the registration statement or in a prospectus, the written consent of the expert or counsel shall be filed as an exhibit to the registration statement and shall expressly state that the expert or counsel consents to such quotation or summarization.
 

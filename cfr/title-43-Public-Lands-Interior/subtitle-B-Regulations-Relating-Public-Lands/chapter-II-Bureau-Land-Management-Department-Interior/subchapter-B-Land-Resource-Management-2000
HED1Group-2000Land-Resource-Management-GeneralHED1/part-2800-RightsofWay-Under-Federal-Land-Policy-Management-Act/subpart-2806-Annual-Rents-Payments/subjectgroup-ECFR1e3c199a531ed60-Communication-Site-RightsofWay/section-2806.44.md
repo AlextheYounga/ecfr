@@ -1,5 +1,7 @@
 ##### § 2806.44 How will BLM calculate rent for a facility owner's or facility manager's grant or lease which authorizes communication uses? #####
 
+Link to an amendment published at 89 FR 25964, Apr. 12, 2024.
+
 This section applies to a grant or lease that authorizes a mixture of communication uses, some of which are subject to the communication use rent schedule and some of which are not. We will determine rent for these leases under the provisions of this section.
 
 (a) The BLM establishes the rent for each of the uses in the facility that are not covered by the communication use rent schedule using § 2806.70.

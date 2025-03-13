@@ -1,5 +1,7 @@
 ##### § 927.237 Processed pear assessment rate. #####
 
+Link to an amendment published at 89 FR 25778, Apr. 12, 2024.
+
 On and after July 1, 2018, the following base rates of assessment for pears for processing are established for the Processed Pear Committee:
 
 (a) $7.15 per ton for any or all varieties or subvarieties of pears for canning classified as “summer/fall” excluding pears for other methods of processing;

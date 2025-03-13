@@ -1,5 +1,7 @@
 ##### § 2802.10 What lands are available for grants? #####
 
+Link to an amendment published at 89 FR 25959, Apr. 12, 2024.
+
 (a) In its discretion, BLM may grant rights-of-way on any lands under its jurisdiction except when:
 
 (1) A statute, regulation, or public land order specifically excludes rights-of-way;

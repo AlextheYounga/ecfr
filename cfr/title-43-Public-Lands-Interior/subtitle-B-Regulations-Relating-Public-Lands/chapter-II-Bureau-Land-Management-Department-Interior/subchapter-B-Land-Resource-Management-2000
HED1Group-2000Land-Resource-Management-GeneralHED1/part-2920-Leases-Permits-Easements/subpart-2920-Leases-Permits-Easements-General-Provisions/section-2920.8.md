@@ -1,5 +1,7 @@
 ##### § 2920.8 Fees. #####
 
+Link to an amendment published at 89 FR 25977, Apr. 12, 2024.
+
 (a) *Rental.* (1) Holders of a land use authorization shall pay annually or otherwise as determined by the authorized officer, in advance, a rental as determined by the authorized officer. The rental shall be based either upon the fair market value of the rights authorized in the land use authorization or as determined by competitive bidding. In no case shall the rental be less than fair market value.
 
 (2) Rental fees for leases and easements may be adjusted every 5 years or earlier, as determined by the authorized officer, to reflect current fair market value.

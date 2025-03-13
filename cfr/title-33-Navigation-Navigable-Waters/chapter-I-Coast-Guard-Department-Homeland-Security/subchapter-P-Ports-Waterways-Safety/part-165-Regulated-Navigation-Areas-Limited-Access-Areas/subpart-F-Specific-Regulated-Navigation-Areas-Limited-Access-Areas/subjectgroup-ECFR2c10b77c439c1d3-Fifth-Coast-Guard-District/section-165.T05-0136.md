@@ -10,4 +10,4 @@
 
 (d) *Enforcement period.* This zone will be in effect and subject to enforcement during such times as the Lift Boats RAM XII and/or RAM XV is present within the zone, between March 1, 2024, and December 31, 2024.
 
-[Doc. No. USCG-2024ndash;0136, 89 FR 13275, Feb. 22, 2024]
+[Doc. No. USCG-2024ndash;0136, 89 FR 13275, Feb. 22, 2024]Effective Date Note:By USCG-2024-0136, 89 FR 13275, Feb. 22, 2024, § 165.T05-136 was added, effective Mar. 1, 2024, until Dec. 31, 2024.

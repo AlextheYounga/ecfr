@@ -1,5 +1,7 @@
 ##### § 2887.10 When must I amend my application, seek an amendment of my grant or TUP, or obtain a new grant or TUP? #####
 
+Link to an amendment published at 89 FR 25976, Apr. 12, 2024.
+
 (a) You must amend your application or seek an amendment of your grant or TUP when there is a proposed substantial deviation in location or use.
 
 (b) The requirements to amend an application or a grant or TUP are the same as those for a new application, including paying processing and monitoring fees and rent according to §§ 2884.12, 2885.23, 2885.19, and 2886.11 of this part.

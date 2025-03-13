@@ -1,5 +1,7 @@
 ##### § 362.109 Reporting requirements. #####
 
+Link to an amendment published at 89 FR 25771, Apr. 12, 2024.
+
 Agencies must provide information requested by OPM regarding workforce planning strategies that includes:
 
 (a) Information on the entry-level occupations targeted for filling positions under this part in the coming year;

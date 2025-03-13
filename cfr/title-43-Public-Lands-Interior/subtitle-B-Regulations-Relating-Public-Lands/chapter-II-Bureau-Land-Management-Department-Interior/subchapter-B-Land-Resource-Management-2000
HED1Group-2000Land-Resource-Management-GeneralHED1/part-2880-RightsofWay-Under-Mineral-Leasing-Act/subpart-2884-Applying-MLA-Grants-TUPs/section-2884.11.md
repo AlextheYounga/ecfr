@@ -1,5 +1,7 @@
 ##### § 2884.11 What information must I submit in my application? #####
 
+Link to an amendment published at 89 FR 25973, Apr. 12, 2024.
+
 (a) File your application on Form SF-299 or as part of an Application for Permit to Drill or Reenter (BLM Form 3160-3) or Sundry Notice and Report on Wells (BLM Form 3160-5), available from any BLM office. Provide a complete description of the project, including:
 
 (1) The exact diameters of the pipes and locations of the pipelines;

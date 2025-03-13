@@ -1,5 +1,7 @@
 ##### § 2806.31 How will BLM calculate rent for a right-of-way for communication uses in the schedule? #####
 
+Link to an amendment published at 89 FR 25964, Apr. 12, 2024.
+
 (a) *Basic rule.* BLM calculates rents for:
 
 (1) Single-use facilities by applying the rent from the communication use rent schedule (*see* § 2806.30 of this subpart) for the type of use and the population strata served; and

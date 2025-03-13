@@ -1,5 +1,7 @@
 ##### § 2881.5 What acronyms and terms are used in the regulations in this part? #####
 
+Link to an amendment published at 89 FR 25972, Apr. 12, 2024.
+
 (a) *Acronyms.* Unless an acronym is listed in this section, the acronyms listed in part 2800 of this chapter apply to this part. As used in this part:
 
 *MLA* means the Mineral Leasing Act of 1920, as amended (30 U.S.C. 185).

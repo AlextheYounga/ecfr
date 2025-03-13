@@ -1,5 +1,7 @@
 ##### § 2884.21 How will BLM process my application? #####
 
+Link to an amendment published at 89 FR 25974, Apr. 12, 2024.
+
 (a) BLM will notify you in writing when it receives your application and will identify your processing fee described at § 2884.12 of this subpart.
 
 (b) The BLM will not process your application if you have any trespass action pending against you for any activity on BLM-administered lands (see § 2888.11) or have any unpaid debts owed to the Federal Government. The only applications the BLM would process are those to resolve the trespass with a right-of-way as authorized in this part, or a lease or permit under the regulations found at 43 CFR part 2920, but only after outstanding debts are paid. Outstanding debts are those currently unpaid debts owed to the Federal Government after all administrative collection actions have occurred, including any appeal proceedings under applicable Federal regulations and the Administrative Procedure Act.

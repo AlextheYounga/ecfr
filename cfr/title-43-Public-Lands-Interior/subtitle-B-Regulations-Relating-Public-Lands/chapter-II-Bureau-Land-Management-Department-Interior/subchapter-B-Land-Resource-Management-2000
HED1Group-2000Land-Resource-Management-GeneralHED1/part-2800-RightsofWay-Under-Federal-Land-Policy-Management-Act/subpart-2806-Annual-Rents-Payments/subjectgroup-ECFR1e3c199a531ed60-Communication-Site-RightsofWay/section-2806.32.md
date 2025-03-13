@@ -1,5 +1,7 @@
 ##### § 2806.32 How does BLM determine the population strata served? #####
 
+Link to an amendment published at 89 FR 25964, Apr. 12, 2024.
+
 (a) BLM determines the population strata served as follows:
 
 (1) If the site or facility is within a designated RMA, BLM will use the population strata of the RMA;

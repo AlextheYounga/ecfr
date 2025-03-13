@@ -10,4 +10,4 @@
 
 (d) *Enforcement date.* This safety zone is in effect from February 1, 2023 through January 31, 2025. It will be subject to enforcement this entire period unless the COTP determines it is no longer needed, in which case the Coast Guard will inform mariners via Notice to Mariners.
 
-Effective Date Note:By USCG-2017-0914, 83 FR 33844, July 18, 2018, § 165.T08-0914 was added, effective July 18, 2018, through Jan. 31, 2023. At 87 FR 73256, Nov. 29, 2022, the effective date was revised to Feb. 1, 2023, through Jan. 31, 2025, and paragraph (d) was revised.
+[USCG-2017-0914, 83 FR 33844, July 18, 2018, as amended by 87 FR 73256, Nov. 29, 2022]Effective Date Note:By USCG-2017-0914, 83 FR 33844, July 18, 2018, § 165.T08-0914 was added, effective July 18, 2018, through Jan. 31, 2023. At 87 FR 73256, Nov. 29, 2022, the effective date was revised to Feb. 1, 2023, through Jan. 31, 2025, and paragraph (d) was revised.

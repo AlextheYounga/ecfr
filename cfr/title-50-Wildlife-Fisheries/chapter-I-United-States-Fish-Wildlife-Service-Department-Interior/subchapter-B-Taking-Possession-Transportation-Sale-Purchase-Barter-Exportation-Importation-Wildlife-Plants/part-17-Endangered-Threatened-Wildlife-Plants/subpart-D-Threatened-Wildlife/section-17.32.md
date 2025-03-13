@@ -1,6 +1,6 @@
 ##### § 17.32 Permits—general. #####
 
-Link to an amendment published at 89 FR 23939, Apr. 5, 2024.
+Link to an amendment published at 89 FR 23939, Apr. 5, 2024.Link to an amendment published at 89 FR 26098, Apr. 12, 2024.
 
 Upon receipt of a complete application the Director may issue a permit for any activity otherwise prohibited with regard to threatened wildlife. Such permit shall be governed by the provisions of this section unless a special rule applicable to the wildlife, appearing in §§ 17.40 to 17.48, of this part provides otherwise. Permits issued under this section must be for one of the following purposes: Scientific purposes, or the enhancement of propagation or survival, or economic hardship, or zoological exhibition, or educational purposes, or incidental taking, or special purposes consistent with the purposes of the Act. Such permits may authorize a single transaction, a series of transactions, or a number of activities over a specific period of time.
 

@@ -1,5 +1,7 @@
 ##### § 2801.5 What acronyms and terms are used in the regulations in this part? #####
 
+Link to an amendment published at 89 FR 25956, Apr. 12, 2024.
+
 (a) *Acronyms.* As used in this part:
 
 *ALJ* means Administrative Law Judge.

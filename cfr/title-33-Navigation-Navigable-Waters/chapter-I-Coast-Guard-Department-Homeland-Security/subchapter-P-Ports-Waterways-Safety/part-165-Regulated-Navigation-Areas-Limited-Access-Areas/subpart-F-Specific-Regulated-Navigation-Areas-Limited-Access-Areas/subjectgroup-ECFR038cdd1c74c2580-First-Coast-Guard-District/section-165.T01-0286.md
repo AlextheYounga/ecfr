@@ -10,4 +10,4 @@
 
 (d) *Enforcement period.* This section is effective from December 1, 2023, through December 31, 2024, but will only be enforced during periods when heavy lift operations at the new bridge are in progress.
 
-[Doc No. USCG-2023-0286, 88 FR 80139, Nov. 17, 2023]
+[Doc No. USCG-2023-0286, 88 FR 80139, Nov. 17, 2023]Effective Date Note:By USCG-2023-0286, 88 FR 80139, Nov. 17, 2023, § 165.T01-0286 was added, effective Dec. 1, 2023, through Dec. 31, 2024.

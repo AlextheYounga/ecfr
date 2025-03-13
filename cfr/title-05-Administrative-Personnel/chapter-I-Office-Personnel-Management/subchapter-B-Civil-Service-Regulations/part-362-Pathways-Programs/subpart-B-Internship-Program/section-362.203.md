@@ -1,5 +1,7 @@
 ##### § 362.203 Filling positions. #####
 
+Link to an amendment published at 89 FR 25772, Apr. 12, 2024.
+
 (a) *Announcement.* (1) When an agency accepts applications from individuals outside its own workforce, it must provide OPM information concerning opportunities to participate in the agency's Internship Program. For the purposes of this paragraph (a), “agency” means an Executive agency as defined in 5 U.S.C. 105 and the Government Printing Office. An Executive department may treat each of its bureaus or components (first major subdivision that is separately organized and clearly distinguished from other bureaus or components in work function and operation) as a separate agency or as part of one agency, but must do so consistent with its Delegated Examining Agreement. The information must include:
 
 (i) Position title, series and grade;

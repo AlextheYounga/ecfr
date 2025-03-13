@@ -1,5 +1,7 @@
 ##### § 2885.24 If I hold a grant or TUP, what monitoring fees must I pay? #####
 
+Link to an amendment published at 89 FR 25975, Apr. 12, 2024.
+
 (a) *Monitoring fees.* Subject to § 2886.11, you must pay a fee to the BLM for any costs the Federal Government incurs in inspecting and monitoring the construction, operation, maintenance, and termination of the pipeline and protection and rehabilitation of the affected public lands your grant or TUP covers. We update the monitoring fees for Categories 1 through 4 in the schedule each calendar year, based on the previous year's change in the IPD-GDP, as measured second quarter to second quarter. We will round these changes to the nearest dollar. We will update Category 5 monitoring fees as specified in the Master Agreement. We categorize the monitoring fees based on the estimated number of work hours necessary to monitor your grant or TUP. Monitoring fees for Categories 1 through 4 are one-time fees and are not refundable. These monitoring categories and the estimated range of Federal work hours for each category are:
 
 Monitoring Categories

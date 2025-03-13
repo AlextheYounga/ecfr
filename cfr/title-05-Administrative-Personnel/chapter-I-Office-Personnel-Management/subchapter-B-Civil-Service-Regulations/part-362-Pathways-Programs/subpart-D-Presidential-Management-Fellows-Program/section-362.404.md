@@ -1,5 +1,7 @@
 ##### § 362.404 Appointment and extension. #####
 
+Link to an amendment published at 89 FR 25774, Apr. 12, 2024.
+
 (a) *Appointments.* (1) An agency may make 2-year appointments to the PMF Program, pursuant to a Pathways MOU executed with the OPM, under Schedule D of the excepted service in accordance with part 302 of this chapter.
 
 (2) An agency must appoint a PMF using the excepted service appointing authority provided by § 213.3402(c) of this chapter.

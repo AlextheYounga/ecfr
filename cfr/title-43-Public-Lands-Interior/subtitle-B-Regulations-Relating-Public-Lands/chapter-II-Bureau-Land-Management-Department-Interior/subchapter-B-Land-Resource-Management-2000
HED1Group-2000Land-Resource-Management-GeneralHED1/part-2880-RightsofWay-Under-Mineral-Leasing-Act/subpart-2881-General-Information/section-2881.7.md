@@ -1,5 +1,7 @@
 ##### § 2881.7 Scope. #####
 
+Link to an amendment published at 89 FR 25973, Apr. 12, 2024.
+
 (a) *What do these regulations apply to?* The regulations in this part apply to:
 
 (1) Issuing grants and TUPs for pipelines to transport oil or gas, and administering, amending, assigning, renewing, and terminating them;
