@@ -1,7 +1,5 @@
 ##### 13.201 General. #####
 
-Link to an amendment published at 88 FR 69513, Oct. 5, 2023.
-
 (a) Agency heads are encouraged to delegate micro-purchase authority (see 1.603-3).
 
 (b) The Governmentwide commercial purchase card shall be the preferred method to purchase and to pay for micro-purchases (see 2.101).
@@ -31,5 +29,7 @@ Link to an amendment published at 88 FR 69513, Oct. 5, 2023.
 (2) On or after August 13, 2020, agencies are prohibited from entering into a contract, or extending or renewing a contract, with an entity that uses any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system, unless an exception applies or a waiver is granted (see subpart 4.21). This prohibition applies to the use of covered telecommunications equipment or services, regardless of whether that use is in performance of work under a Federal contract.
 
 (k) The prohibition in subpart 4.22 on use of a covered application (“TikTok”) applies to purchases at or below the micro-purchase threshold where the performance of the contract may require the presence or use of a covered application, (*e.g.,* where social media advertising services might be part of the procurement), unless an exception is granted in accordance with Office of Management and Budget Memorandum M-23-13 (see 4.2202).
+
+(l) Do not procure or obtain, or extend or renew a contract to procure or obtain, any covered article, or any products or services produced or provided by a source, including contractor use of covered articles or sources, if prohibited from doing so by an applicable Federal Acquisition Supply Chain Security Act (FASCSA) order issued by the Director of National Intelligence, Secretary of Defense, or Secretary of Homeland Security (see 4.2303).
 
 [62 FR 64917, Dec. 9, 1997]Editorial Note:For Federal Register citations affecting section 13.201, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

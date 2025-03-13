@@ -1,7 +1,5 @@
 ##### § 585.113 Definitions. #####
 
-Link to an amendment published at 88 FR 68462, Oct. 4, 2023.
-
 Terms used in this part have the meanings as defined in this section:
 
 *Affected local government* means with respect to any activities proposed, conducted, or approved under this part or 30 CFR part 285, any locality—
@@ -72,6 +70,8 @@ Terms used in this part have the meanings as defined in this section:
 
 *Operator* means the individual, corporation, or association having control or management of activities on a lease or grant issued under this part. The operator may be a lessee, grant holder, or a contractor designated by the lessee or holder of a grant issued under this part.
 
+*Outer Continental Shelf* (OCS) means all submerged lands lying seaward and outside of the area of lands beneath navigable waters as defined in the Submerged Lands Act (43 U.S.C. 1301) and of which the subsoil and seabed appertain to the United States and are subject to its jurisdiction and control or within the exclusive economic zone of the United States and adjacent to any territory of the United States; and does not include any area conveyed by Congress to a territorial government for administration.
+
 *Outer Continental Shelf (OCS)* means all submerged lands lying seaward and outside of the area of lands beneath navigable waters, as defined in section 2 of the Submerged Lands Act (43 U.S.C. 1301), whose subsoil and seabed appertain to the United States and are subject to its jurisdiction and control.
 
 *Person* means, in addition to a natural person, an association (including partnerships and joint ventures); a Federal agency; a State; a political subdivision of a State; a Native American Tribal government; or a private, public, or municipal corporation.
@@ -94,8 +94,24 @@ Terms used in this part have the meanings as defined in this section:
 
 *Significant archaeological resource* means an archaeological resource that meets the criteria of significance for eligibility for listing in the National Register of Historic Places, as defined in 36 CFR 60.4 or its successor.
 
-*Site assessment activities* mean those initial activities conducted to characterize a site on the OCS, such as resource assessment surveys (*e.g.,* meteorological and oceanographic) or technology testing, involving the installation of bottom-founded facilities.
+*Site assessment activities* mean those initial activities conducted to characterize a site on the OCS, such as resource assessment surveys (e.g., meteorological and oceanographic) or technology testing, involving the installation of bottom-founded facilities.
+
+*State* means:
+
+(1) Each of the several States;
+
+(2) The Commonwealth of Puerto Rico;
+
+(3) Guam;
+
+(4) American Samoa;
+
+(5) The United States Virgin Islands; and
+
+(6) The Commonwealth of the Northern Mariana Islands.
 
 *We, us,* and *our* refer to the Bureau of Ocean Energy Management of the Department of the Interior, or its possessive, depending on the context.
 
 *You* and *your* means an applicant, lessee, the operator, or designated operator, ROW grant holder, or RUE grant holder under this part, or the designated agent of any of these, or the possessive of each, depending on the context. The terms *you* and *your* also include contractors and subcontractors of the entities specified in the preceding sentence.
+
+[88 FR 6430, Jan. 31, 2023, as amended at 88 FR 68462, Dec. 4, 2023]

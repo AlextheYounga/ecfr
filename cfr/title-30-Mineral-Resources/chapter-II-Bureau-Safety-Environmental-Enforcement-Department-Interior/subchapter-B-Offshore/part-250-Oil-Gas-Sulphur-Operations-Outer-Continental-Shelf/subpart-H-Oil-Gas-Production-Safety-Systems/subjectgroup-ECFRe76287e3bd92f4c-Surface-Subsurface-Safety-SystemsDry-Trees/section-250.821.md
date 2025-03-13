@@ -1,6 +1,6 @@
 ##### § 250.821 Emergency action and safety system shutdown—dry trees. #####
 
-(a) If your facility is impacted or will potentially be impacted by an emergency situation (*e.g.,* an impending National Weather Service-named tropical storm or hurricane, ice events, or post-earthquake), you must:
+(a) If your facility is impacted or will potentially be impacted by an emergency situation (e.g., an impending National Weather Service-named tropical storm or hurricane, ice events, or post-earthquake), you must:
 
 (1) Properly install a subsurface safety device on any well that is not yet equipped with a subsurface safety device and that is capable of natural flow, as soon as possible, with due consideration being given to personnel safety.
 

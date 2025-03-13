@@ -1,7 +1,5 @@
 ##### 39.101 Policy. #####
 
-Link to an amendment published at 88 FR 69513, Oct. 5, 2023.
-
 (a)(1) In acquiring information technology, agencies shall identify their requirements pursuant to—
 
 (i) OMB Circular A-130, including consideration of security of resources, protection of privacy, national security and emergency preparedness, accessibility for individuals with disabilities, and energy efficiency;
@@ -28,4 +26,6 @@ Link to an amendment published at 88 FR 69513, Oct. 5, 2023.
 
 (g) See the prohibition in 4.2202 on the presence or use of a covered application (“TikTok”).
 
-[61 FR 41470, Aug. 8, 1996, as amended at 64 FR 32748, June 17, 1999; 64 FR 72446, Dec. 27, 1999; 70 FR 57452, Sept. 30, 2005; 72 FR 73217, Dec. 26, 2007; 73 FR 10968, Feb. 28, 2008; 74 FR 65607, Dec. 10, 2009; 76 FR 31401, May 31, 2011; 79 FR 70344, Nov. 25, 2014; 80 FR 26427, May 7, 2015; 83 FR 28144, June 15, 2018; 84 FR 40221, Aug. 13, 2019; 85 FR 42678, July 14, 2020; 86 FR 44232, Aug. 11, 2021; 88 FR 36434, June 2, 2023]
+(h) Executive agencies are prohibited from procuring or obtaining, or extending or renewing a contract to procure or obtain, any covered article, or any products or services produced or provided by a source, including contractor use of covered articles or sources, if prohibited from doing so by an applicable FASCSA order issued by the Director of National Intelligence, Secretary of Defense, or Secretary of Homeland Security (see 4.2303).
+
+[61 FR 41470, Aug. 8, 1996, as amended at 64 FR 32748, June 17, 1999; 64 FR 72446, Dec. 27, 1999; 70 FR 57452, Sept. 30, 2005; 72 FR 73217, Dec. 26, 2007; 73 FR 10968, Feb. 28, 2008; 74 FR 65607, Dec. 10, 2009; 76 FR 31401, May 31, 2011; 79 FR 70344, Nov. 25, 2014; 80 FR 26427, May 7, 2015; 83 FR 28144, June 15, 2018; 84 FR 40221, Aug. 13, 2019; 85 FR 42678, July 14, 2020; 86 FR 44232, Aug. 11, 2021; 88 FR 36434, June 2, 2023; 88 FR 69513, Oct. 5, 2023]

@@ -1218,7 +1218,7 @@ This paragraph is applicable only to those contracts, other funding authorizatio
 
 Note to paragraph (h)(1):
 
-This paragraph does not control parts, components, accessories, and attachments that are common to aircraft described in paragraph (a) of this category but not identified in paragraph (h)(1), and those identified in paragraph (h)(1). For example, when applying § 120.41(b)(3), a part common to only the F-16 and F-35 is not specially designed for purposes of this paragraph. A part common to only the F-22 and F-35—two aircraft models identified in paragraph (h)(1)—is specially designed for purposes of this paragraph, unless one of the other paragraphs is applicable under § 120.41(b) of this subchapter.
+This paragraph does not control parts, components, accessories, and attachments that are common to aircraft, other than the KF-21 and variants thereof, described in paragraph (a) of this category but not identified in paragraph (h)(1), and those identified in paragraph (h)(1). For example, when applying § 120.41(b)(3), a part common to only the F-16 and F-35 is not specially designed for purposes of this paragraph. A part common to only the F-22 and F-35—two aircraft models identified in paragraph (h)(1)—is specially designed for purposes of this paragraph, unless one of the other paragraphs is applicable under § 120.41(b) of this subchapter. Commodities otherwise described in this paragraph that are utilized in the KF-21 are not released from this paragraph due to use in the KF-21.
 
 (2) Rotorcraft gearboxes with internal pitch line velocities exceeding 20,000 feet per minute and able to operate 30 minutes with loss of lubrication without an emergency or auxiliary lubrication system, and specially designed parts and components therefor;
 
@@ -3246,3 +3246,5 @@ Category XXI—Articles, Technical Data, and Defense Services Not Otherwise Enum
 [58 FR 39287, July 22, 1993]Editorial Notes:1. For Federal Register citations affecting § 121.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 2. At 79 FR 61228, Oct. 10, 2014, § 121.1 was amended by removing the word “enumerated” and adding in its place the word “described” in one place in Note 1 to paragraph (i) of Category VI; however, the amendment could not be incorporated because of inaccurate amendatory instruction.
+
+Effective Date Note:At 88 FR 84074, Dec. 4, 2023, § 121.1 was amended by revising the note to paragraph (h)(1), effective from Dec. 4, 2023, until Dec. 1, 2024.

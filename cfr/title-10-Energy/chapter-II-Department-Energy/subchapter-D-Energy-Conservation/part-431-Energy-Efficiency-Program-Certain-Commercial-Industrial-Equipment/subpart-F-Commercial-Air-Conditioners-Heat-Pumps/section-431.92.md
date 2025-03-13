@@ -1,5 +1,7 @@
 ##### § 431.92 Definitions concerning commercial air conditioners and heat pumps. #####
 
+Link to an amendment published at 88 FR 84228, Dec. 4, 2023.
+
 The following definitions apply for purposes of this subpart, and of subparts J through M of this part. Any words or terms not defined in this section or elsewhere in this part shall be defined as provided in 42 U.S.C. 6311. For definitions that reference the application for which the equipment is marketed, DOE will consider any publicly available document published by the manufacturer (*e.g.,* product literature, catalogs, and packaging labels) to determine marketing intent. For definitions in this section that pertain to computer room air conditioners, italicized terms within a definition indicate terms that are separately defined in this section.
 
 *Basic model* includes:

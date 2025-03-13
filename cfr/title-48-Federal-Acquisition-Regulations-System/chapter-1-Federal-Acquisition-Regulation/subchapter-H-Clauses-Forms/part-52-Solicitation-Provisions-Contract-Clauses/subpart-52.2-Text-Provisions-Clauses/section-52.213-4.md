@@ -1,10 +1,8 @@
 ##### 52.213-4 Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services). #####
 
-Link to an amendment published at 88 FR 69517, Oct. 5, 2023.Link to an amendment published at 88 FR 77225, Nov. 9, 2023.
-
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (NOV 2023)
+Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (DEC 2023)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -12,25 +10,27 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (i) 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (JAN 2017) (section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions)).
 
-(ii) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (NOV 2021) (Section 1634 of Pub. L. 115-91).
+(ii) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab Covered Entities (DEC 2023) (Section 1634 of Pub. L. 115-91).
 
 (iii) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (NOV 2021) (Section 889(a)(1)(A) of Pub. L. 115-232).
 
 (iv) 52.204-27, Prohibition on a ByteDance Covered Application (JUN 2023) (Section 102 of Division R of Pub. L. 117-328), unless the agency grants an exception—see paragraph (b) of 52.204-27.
 
-(v) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
+(v) 52.204-30, Federal Acquisition Supply Chain Security Act Orders—Prohibition. (DEC 2023) (Pub. L. 115-390, title II).
 
-(vi) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
+(vi) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
-(vii) 52.222-26, Equal Opportunity (SEP 2016) (E.O. 11246).
+(vii) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
-(viii) 52.225-13, Restrictions on Certain Foreign Purchases (FEB 2021) (E.O.s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
+(viii) 52.222-26, Equal Opportunity (SEP 2016) (E.O. 11246).
 
-(ix) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (MAR 2023) (31 U.S.C. 3903 and 10 U.S.C. 3801).
+(ix) 52.225-13, Restrictions on Certain Foreign Purchases (FEB 2021) (E.O.s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
 
-(x) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553).
+(x) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (MAR 2023) (31 U.S.C. 3903 and 10 U.S.C. 3801).
 
-(xi) 52.233-4, Applicable Law for Breach of Contract Claim (OCT 2004) (Pub. L. 108-77 and 108-78 (19 U.S.C. 3805 note)).
+(xi) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553).
+
+(xii) 52.233-4, Applicable Law for Breach of Contract Claim (OCT 2004) (Pub. L. 108-77 and 108-78 (19 U.S.C. 3805 note)).
 
 (2) Listed below are additional clauses that apply:
 
@@ -46,7 +46,7 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (vi) 52.233-1, Disputes (MAY 2014).
 
-(vii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (NOV 2023).
+(vii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (DEC 2023).
 
 (viii) 52.253-1, Computer Generated Forms (JAN 1991).
 

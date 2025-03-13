@@ -1,10 +1,6 @@
-##### 52.204-28 Federal Acquisition Supply Chain Security Act Orders—Federal Supply Schedules, Governmentwide Acquisition Contracts, and Multi-Agency Contracts. #####
+##### 4.2301 Definitions. #####
 
-As prescribed in 4.2306(a), insert the following clause:
-
-Federal Acquisition Supply Chain Security Act Orders—Federal Supply Schedules, Governmentwide Acquisition Contracts, and Multi-Agency Contracts (DEC 2023)
-
-(a) *Definitions.* As used in this clause—
+As used in this subpart—
 
 *Covered article,* as defined in 41 U.S.C. 4713(k), means—
 
@@ -23,6 +19,8 @@ Federal Acquisition Supply Chain Security Act Orders—Federal Supply Schedules,
 (2) The Secretary of Defense may issue FASCSA orders applicable to the Department of Defense (DoD) and national security systems other than sensitive compartmented information systems. This type of FASCSA order may be referred to as a DoD FASCSA order.
 
 (3) The Director of National Intelligence (DNI) may issue FASCSA orders applicable to the intelligence community and sensitive compartmented information systems, to the extent not covered by paragraph (2) of this definition. This type of FASCSA order may be referred to as a DNI FASCSA order.
+
+*Federal Acquisition Security Council (FASC)* means the Council established pursuant to 41 U.S.C. 1322(a).
 
 *Intelligence community,* as defined by 50 U.S.C. 3003(4), means the following—
 
@@ -56,14 +54,40 @@ Federal Acquisition Supply Chain Security Act Orders—Federal Supply Schedules,
 
 (2) Is protected at all times by procedures established for information that have been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept classified in the interest of national defense or foreign policy.
 
+*Reasonable inquiry* means an inquiry designed to uncover any information in the entity's possession about the identity of any covered articles, or any products or services produced or provided by a source. This applies when the covered article or the source is subject to an applicable FASCSA order. A reasonable inquiry excludes the need to include an internal or third-party audit.
+
 *Sensitive compartmented information* means classified information concerning or derived from intelligence sources, methods, or analytical processes, which is required to be handled within formal access control systems established by the Director of National Intelligence.
 
 *Sensitive compartmented information system* means a national security system authorized to process or store sensitive compartmented information.
 
 *Source* means a non-Federal supplier, or potential supplier, of products or services, at any tier.
 
-(b) *Notice.* During contract performance, the Contractor shall be required to comply with any of the following that apply: DHS FASCSA orders, DoD FASCSA orders, or DNI FASCSA orders. The applicable FASCSA order(s) will be identified in the request for quotation (see 8.405-2), or in the notice of intent to place an order (see 16.505(b)). FASCSA orders will be identified in paragraph (b)(1) of FAR 52.204-30, Federal Acquisition Supply Chain Security Act Orders—Prohibition, with its Alternate II.
+*Supply chain risk,* as defined in 41 U.S.C. 4713(k), means the risk that any person may sabotage, maliciously introduce unwanted functionality, extract data, or otherwise manipulate the design, integrity, manufacturing, production, distribution, installation, operation, maintenance, disposition, or retirement of covered articles so as to surveil, deny, disrupt, or otherwise manipulate the function, use, or operation of the covered articles or information stored or transmitted on the covered articles.
 
-(c) *Removal.* Upon notification from the contracting officer, during the performance of the contract, the Contractor shall promptly make any necessary changes or modifications to remove any covered article or any product or service produced or provided by a source that is subject to an applicable Governmentwide FASCSA order (see FAR 4.2303(b)).
+*Supply chain risk information* includes, but is not limited to, information that describes or identifies:
 
-(End of clause)[88 FR 69513, Oct. 5, 2023]
+(1) Functionality and features of covered articles, including access to data and information system privileges;
+
+(2) The user environment where a covered article is used or installed;
+
+(3) The ability of a source to produce and deliver covered articles as expected;
+
+(4) Foreign control of, or influence over, a source or covered article (*e.g.,* foreign ownership, personal and professional ties between a source and any foreign entity, legal regime of any foreign country in which a source is headquartered or conducts operations);
+
+(5) Implications to government mission(s) or assets, national security, homeland security, or critical functions associated with use of a covered source or covered article;
+
+(6) Vulnerability of Federal systems, programs, or facilities;
+
+(7) Market alternatives to the covered source;
+
+(8) Potential impact or harm caused by the possible loss, damage, or compromise of a product, material, or service to an organization's operations or mission; and
+
+(9) Likelihood of a potential impact or harm, or the exploitability of a system;
+
+(10) Security, authenticity, and integrity of covered articles and their supply and compilation chain;
+
+(11) Capacity to mitigate risks identified;
+
+(12) Factors that may reflect upon the reliability of other supply chain risk information; and
+
+(13) Any other considerations that would factor into an analysis of the security, integrity, resilience, quality, trustworthiness, or authenticity of covered articles or sources.

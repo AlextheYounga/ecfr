@@ -1,6 +1,6 @@
 ##### § 250.837 Emergency action and safety system shutdown—subsea trees. #####
 
-(a) If your facility is impacted or will potentially be impacted by an emergency situation (*e.g.,* an impending National Weather Service-named tropical storm or hurricane, ice events, or post-earthquake), you must shut-in all subsea wells unless otherwise approved by the District Manager. A shut-in is defined as a closed BSDV, USV, GLSDV, and surface-controlled SSSV.
+(a) If your facility is impacted or will potentially be impacted by an emergency situation (e.g., an impending National Weather Service-named tropical storm or hurricane, ice events, or post-earthquake), you must shut-in all subsea wells unless otherwise approved by the District Manager. A shut-in is defined as a closed BSDV, USV, GLSDV, and surface-controlled SSSV.
 
 (b) When operating a mobile offshore drilling unit (MODU) or other type of workover or intervention vessel in an area with subsea infrastructure, you must:
 

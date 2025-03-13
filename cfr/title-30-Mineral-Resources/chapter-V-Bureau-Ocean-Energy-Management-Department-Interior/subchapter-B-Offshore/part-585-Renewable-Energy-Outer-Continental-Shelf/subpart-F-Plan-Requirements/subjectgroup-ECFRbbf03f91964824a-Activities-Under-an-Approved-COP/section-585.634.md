@@ -16,7 +16,7 @@
 
 (5) Change in the location of your onshore support base from one State to another or to a new base requiring expansion;
 
-(6) Changes in the location of bottom disturbances (anchors, chains, *etc.*) by 500 feet (152 meters) or greater from the approved locations (*e.g.,* if a specific anchor pattern was approved as a mitigation measure to avoid contact with bottom features, any change in the proposed bottom disturbances would likely trigger the need for a revision);
+(6) Changes in the location of bottom disturbances (anchors, chains, *etc.*) by 500 feet (152 meters) or greater from the approved locations (e.g., if a specific anchor pattern was approved as a mitigation measure to avoid contact with bottom features, any change in the proposed bottom disturbances would likely trigger the need for a revision);
 
 (7) Structural failure of one or more facilities; or
 
