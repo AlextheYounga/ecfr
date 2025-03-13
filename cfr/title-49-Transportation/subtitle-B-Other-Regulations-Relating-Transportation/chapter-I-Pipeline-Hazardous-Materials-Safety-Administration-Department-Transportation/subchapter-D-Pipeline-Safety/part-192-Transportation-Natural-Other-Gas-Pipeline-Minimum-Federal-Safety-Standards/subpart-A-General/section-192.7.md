@@ -1,10 +1,8 @@
 ##### § 192.7 What documents are incorporated by reference partly or wholly in this part? #####
 
-Link to an amendment published at 89 FR 33279, Apr. 29, 2024.
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at the Pipeline and Hazardous Materials Safety Administration (PHMSA) and the National Archives and Records Administration (NARA). Contact PHMSA at: Office of Pipeline Safety, Pipeline and Hazardous Materials Safety Administration, 1200 New Jersey Avenue SE, Washington, DC 20590; 202-366-4046; *www.phmsa.dot.gov/pipeline/regs.* For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov.* It is also available from the sources in the following paragraphs of this section.
 
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at the Office of Pipeline Safety, Pipeline and Hazardous Materials Safety Administration, 1200 New Jersey Avenue SE, Washington, DC 20590, 202-366-4046, *https://www.phmsa.dot.gov/pipeline/regs,* and at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fr.inspection@nara.gov,* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.* It is also available from the sources in the following paragraphs of this section.
-
-(b) American Petroleum Institute (API), 200 Massachusetts Ave. NW, Suite 1100, Washington, DC 20001, and phone: 202-682-8000, website: *https://www.api.org/.*
+(b) American Petroleum Institute (API), 200 Massachusetts Avenue NW, Suite 1100, Washington, DC 20001-5571; phone: (202) 682-8000; website: *www.api.org.*
 
 (1) API Recommended Practice 5L1, “Recommended Practice for Railroad Transportation of Line Pipe,” 7th edition, September 2009, (API RP 5L1), IBR approved for § 192.65(a).
 
@@ -18,11 +16,11 @@ Link to an amendment published at 89 FR 33279, Apr. 29, 2024.
 
 (6) API Recommended Practice 1165, “Recommended Practice for Pipeline SCADA Displays,” First edition, January 2007, (API RP 1165), IBR approved for § 192.631(c).
 
-(7) API Specification 5L, “Specification for Line Pipe,” 45th edition, effective July 1, 2013, (API Spec 5L), IBR approved for §§ 192.55(e); 192.112(a), (b), (d), (e); 192.113; and Item I, Appendix B to Part 192.
+(7) API Specification 5L, Line Pipe, 46th edition, April 2018, including Errata 1 (May 2018), (API Spec 5L); IBR approved for §§ 192.55(e); 192.112(a), (b), (c), (d), and (e); 192.113; appendix B to part 192.
 
-(8) ANSI/API Specification 6D, “Specification for Pipeline Valves,”23rd edition, effective October 1, 2008, including Errata 1 (June 2008), Errata2 (/November 2008), Errata 3 (February 2009), Errata 4 (April 2010), Errata 5 (November 2010), Errata 6 (August 2011) Addendum 1 (October 2009), Addendum 2 (August 2011), and Addendum 3 (October 2012), (ANSI/API Spec 6D), IBR approved for § 192.145(a).
+(8) API Specification 6D, Specification for Pipeline and Piping Valves, 24th edition, August 2014, including Errata 1 through 10 (October 2014 through July 2021), Addendum 1 (March 2015), and Addendum 2 (June 2016), (API Spec 6D); IBR approved for § 192.145(a).
 
-(9) API Standard 1104, “Welding of Pipelines and Related Facilities,” 20th edition, October 2005, including errata/addendum (July 2007) and errata 2 (2008), (API Std 1104), IBR approved for §§ 192.225(a); 192.227(a); 192.229(b) and (c); 192.241(c); and Item II, Appendix B.
+(9) API Standard 1104, Welding of Pipelines and Related Facilities, 21st edition, September 2013, including Errata 1 through 5 (April 2014 through September 2018), Addendum 1 (2014), and Addendum 2 (2016), (API Std 1104); IBR approved for §§ 192.225(a); 192.227(a); 192.229(b) and (c); 192.241(c); appendix B to part 192.
 
 (10) API Recommended Practice 1170, “Design and Operation of Solution-mined Salt Caverns Used for Natural Gas Storage,” First edition, July 2015 (API RP 1170), IBR approved for § 192.12.
 
@@ -30,27 +28,29 @@ Link to an amendment published at 89 FR 33279, Apr. 29, 2024.
 
 (12) API STANDARD 1163, “In-Line Inspection Systems Qualification,” Second edition, April 2013, Reaffirmed August 2018, (API STD 1163), IBR approved for § 192.493.
 
-(c) ASME International (ASME), Three Park Avenue, New York, NY 10016, 800-843-2763 (U.S./Canada), *http://www.asme.org/.*
+(c) American Society of Mechanical Engineers (ASME), Three Park Avenue, New York, NY 10016; phone: (800) 843-2763; email: *CustomerCare@asme.org;* website: *www.asme.org/.*
 
 (1) ASME/ANSI B16.1-2005, “Gray Iron Pipe Flanges and Flanged Fittings: (Classes 25, 125, and 250),” August 31, 2006, (ASME/ANSI B16.1), IBR approved for § 192.147(c).
 
-(2) ASME/ANSI B16.5-2003, “Pipe Flanges and Flanged Fittings,” October 2004, (ASME/ANSI B16.5), IBR approved for §§ 192.147(a), 192.279, and 192.607(f).
+(2) ASME/ANSI B16.5-2003, Pipe Flanges and Flanged Fittings, October 2004, (ASME/ANSI B16.5); IBR approved for §§ 192.147(a); 192.607(f).
 
 (3) ASME B16.40-2008, “Manually Operated Thermoplastic Gas Shutoffs and Valves in Gas Distribution Systems,” March 18, 2008, approved by ANSI, (ASME B16.40-2008), IBR approved for Item I, Appendix B to Part 192.
 
 (4) ASME/ANSI B31G-1991 (Reaffirmed 2004), “Manual for Determining the Remaining Strength of Corroded Pipelines,” 2004, (ASME/ANSI B31G), IBR approved for §§ 192.485(c), 192.632(a), 192.712(b), and 192.933(a).
 
-(5) ASME/ANSI B31.8-2007, “Gas Transmission and Distribution Piping Systems,” November 30, 2007, (ASME/ANSI B31.8), IBR approved for §§ 192.112(b) and 192.619(a).
+(5) ASME B31.8-2018, Gas Transmission and Distribution Piping Systems, Issued November 20, 2018, (ASME B31.8); IBR approved for §§ 192.112(b); 192.619(a).
 
-(6) ASME/ANSI B31.8S-2004, “Supplement to B31.8 on Managing System Integrity of Gas Pipelines,” approved January 14, 2005, (ASME/ANSI B31.8S), IBR approved for §§ 192.13(d); 192.714(c) and (d); 192.903 note to *potential impact radius;* 192.907 introductory text and (b); 192.911 introductory text, (i), and (k) through (m); 192.913(a) through (c); 192.917(a) through (e); 192.921(a); 192.923(b); 192.925(b); 192.927(b) and (c); 192.929(b); 192.933(c) and (d); 192.935(a) and (b); 192.937(c); 192.939(a); and 192.945(a).
+(6) ASME/ANSI B31.8S-2004, “Supplement to B31.8 on Managing System Integrity of Gas Pipelines,” approved January 14, 2005, (ASME/ANSI B31.8S-2004), IBR approved for §§ 192.714(d); 192.933(d).
 
-(7) [Reserved]
+(7) ASME B31.8S-2018, Managing System Integrity of Gas Pipelines, Issued November 28, 2018, (ASME B31.8S); IBR approved for §§ 192.13(d); 192.714(c); 192.903 note to Potential impact radius; 192.907 introductory text and (b); 192.911 introductory text, (i), and (k) through (m); 192.913(a) through (c); 192.917(a) through (e); 192.921(a); 192.923(b); 192.925(b); 192.933(c); 192.935(b); 192.937(c); 192.939(a); 192.945(a).
 
-(8) ASME Boiler & Pressure Vessel Code, Section VIII, Division 1 “Rules for Construction of Pressure Vessels,” 2007 edition, July 1, 2007, (ASME BPVC, Section VIII, Division 1), IBR approved for §§ 192.153(a), (b), (d); and 192.165(b).
+(8) ASME B36.10M-2018, Welded and Seamless Wrought Steel Pipe, Issued October 12, 2018, (ASME B36.10M); IBR approved for § 192.279.
 
-(9) ASME Boiler & Pressure Vessel Code, Section VIII, Division 2 “Alternate Rules, Rules for Construction of Pressure Vessels,” 2007 edition, July 1, 2007, (ASME BPVC, Section VIII, Division 2), IBR approved for §§ 192.153(b), (d); and 192.165(b).
+(9) ASME Boiler & Pressure Vessel Code, Section VIII, Division 1 “Rules for Construction of Pressure Vessels,” 2007 edition, July 1, 2007, (ASME BPVC, Section VIII, Division 1), IBR approved for §§ 192.153(a), (b), (d); and 192.165(b).
 
-(10) ASME Boiler & Pressure Vessel Code, Section IX: “Qualification Standard for Welding and Brazing Procedures, Welders, Brazers, and Welding and Brazing Operators,” 2007 edition, July 1, 2007, ASME BPVC, Section IX, IBR approved for §§ 192.225(a); 192.227(a); and Item II, Appendix B to Part 192.
+(10) ASME Boiler & Pressure Vessel Code, Section VIII, Division 2 “Alternate Rules, Rules for Construction of Pressure Vessels,” 2007 edition, July 1, 2007, (ASME BPVC, Section VIII, Division 2), IBR approved for §§ 192.153(b), (d); and 192.165(b).
+
+(11) ASME Boiler & Pressure Vessel Code, Section IX: “Qualification Standard for Welding and Brazing Procedures, Welders, Brazers, and Welding and Brazing Operators,” 2007 edition, July 1, 2007, ASME BPVC, Section IX, IBR approved for §§ 192.225(a); 192.227(a); and Item II, Appendix B to Part 192.
 
 (d) American Society for Nondestructive Testing (ASNT), P.O. Box 28518, 1711 Arlingate Lane, Columbus, OH 43228, phone: 800-222-2768, website: *https://www.asnt.org/.*
 
@@ -58,25 +58,25 @@ Link to an amendment published at 89 FR 33279, Apr. 29, 2024.
 
 (2) [Reserved]
 
-(e) ASTM International (formerly American Society for Testing and Materials), 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428, phone: (610) 832-9585, website: *http://astm.org.*
+(e) ASTM International (ASTM), 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428; phone: (610) 832-9585; email: *service@astm.org;* website: *www.astm.org.*
 
-(1) ASTM A53/A53M-10, “Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless,” approved October 1, 2010, (ASTM A53/A53M), IBR approved for § 192.113; and Item II, Appendix B to Part 192.
+(1) ASTM A53/A53M-20, Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless, approved July 1, 2020, (ASTM A53/A53M); IBR approved for § 192.113; appendix B to part 192.
 
-(2) ASTM A106/A106M-10, “Standard Specification for Seamless Carbon Steel Pipe for High-Temperature Service,” approved October 1, 2010, (ASTM A106/A106M), IBR approved for § 192.113; and Item I, Appendix B to Part 192.
+(2) ASTM A106/A106M-19A, Standard Specification for Seamless Carbon Steel Pipe for High-Temperature Service, approved November 1, 2019, (ASTM A106/A106M); IBR approved for § 192.113; appendix B to part 192.
 
-(3) ASTM A333/A333M-11, “Standard Specification for Seamless and Welded Steel Pipe for Low-Temperature Service,” approved April 1, 2011, (ASTM A333/A333M), IBR approved for § 192.113; and Item I, Appendix B to Part 192.
+(3) ASTM A333/A333M-18, Standard Specification for Seamless and Welded Steel Pipe for Low-Temperature Service and Other Applications with Required Notch Toughness, approved November 1, 2018, (ASTM A333/A333M); IBR approved for § 192.113; appendix B to part 192.
 
 (4) ASTM A372/A372M-10, “Standard Specification for Carbon and Alloy Steel Forgings for Thin-Walled Pressure Vessels,” approved October 1, 2010, (ASTM A372/A372M), IBR approved for § 192.177(b).
 
-(5) ASTM A381-96 (reapproved 2005), “Standard Specification for Metal-Arc Welded Steel Pipe for Use with High-Pressure Transmission Systems,” approved October 1, 2005, (ASTM A381), IBR approved for § 192.113; and Item I, Appendix B to Part 192.
+(5) ASTM A381/A381M-18, Standard Specification for Metal-Arc-Welded Carbon or High-Strength Low-Alloy Steel Pipe for Use with High-Pressure Transmission Systems, approved November 1, 2018, (ASTM A381); IBR approved for § 192.113; appendix B to part 192.
 
 (6) ASTM A578/A578M-96 (reapproved 2001), “Standard Specification for Straight-Beam Ultrasonic Examination of Plain and Clad Steel Plates for Special Applications,” (ASTM A578/A578M), IBR approved for § 192.112(c).
 
-(7) ASTM A671/A671M-10, “Standard Specification for Electric-Fusion-Welded Steel Pipe for Atmospheric and Lower Temperatures,” approved April 1, 2010, (ASTM A671/A671M), IBR approved for § 192.113; and Item I, Appendix B to Part 192.
+(7) ASTM A671/A671M-20, Standard Specification for Electric-Fusion-Welded Steel Pipe for Atmospheric and Lower Temperatures, approved March 1, 2020, (ASTM A671/A671M); IBR approved for § 192.113; appendix B to part 192.
 
 (8) ASTM A672/A672M-09, “Standard Specification for Electric-Fusion-Welded Steel Pipe for High-Pressure Service at Moderate Temperatures,” approved October 1, 2009, (ASTM A672/672M), IBR approved for § 192.113 and Item I, Appendix B to Part 192.
 
-(9) ASTM A691/A691M-09, “Standard Specification for Carbon and Alloy Steel Pipe, Electric-Fusion-Welded for High-Pressure Service at High Temperatures,” approved October 1, 2009, (ASTM A691/A691M), IBR approved for § 192.113 and Item I, Appendix B to Part 192.
+(9) ASTM A691/A691M-19, Standard Specification for Carbon and Alloy Steel Pipe, Electric-Fusion-Welded for High-Pressure Service at High Temperatures, approved November 1, 2019, (ASTM A691/A691M); IBR approved for § 192.113; appendix B to part 192.
 
 (10) ASTM D638-03, “Standard Test Method for Tensile Properties of Plastics,” 2003, (ASTM D638), IBR approved for § 192.283(a) and (b).
 
@@ -108,15 +108,11 @@ Link to an amendment published at 89 FR 33279, Apr. 29, 2024.
 
 (24) ASTM F2945-12a “Standard Specification for Polyamide 11 Gas Pressure Pipe, Tubing, and Fittings,” Nov. 27, 2012, (ASTM F2945-12a), IBR approved for Item I, Appendix B to Part 192.
 
-(f) Gas Technology Institute (GTI), formerly the Gas Research Institute (GRI)), 1700 S. Mount Prospect Road, Des Plaines, IL 60018, phone: 847-768-0500, Web site: *www.gastechnology.org.*
+(f) [Reserved]
 
-(1) GRI 02/0057 (2002) “Internal Corrosion Direct Assessment of Gas Transmission Pipelines Methodology,” (GRI 02/0057), IBR approved for § 192.927(c).
+(g) Manufacturers Standardization Society of the Valve and Fittings Industry, Inc. (MSS), 127 Park St. NE, Vienna, VA 22180; phone: (703) 281-6613; email: *info@msshq.org;* website: *www.mss-hq.org/.*
 
-(2) [Reserved]
-
-(g) Manufacturers Standardization Society of the Valve and Fittings Industry, Inc. (MSS), 127 Park St. NE., Vienna, VA 22180, phone: 703-281-6613, Web site: *http://www.mss-hq.org/.*
-
-(1) MSS SP-44-2010, Standard Practice, “Steel Pipeline Flanges,” 2010 edition, (including Errata (May 20, 2011)), (MSS SP-44), IBR approved for § 192.147(a).
+(1) ANSI/MSS SP-44-2019, Steel Pipeline Flanges, published April 2020, (MSS SP-44); IBR approved for § 192.147(a).
 
 (2) [Reserved]
 
@@ -130,15 +126,15 @@ Link to an amendment published at 89 FR 33279, Apr. 29, 2024.
 
 (4) ANSI/NACE SP0502-2010, Standard Practice, “Pipeline External Corrosion Direct Assessment Methodology,” revised June 24, 2010, (NACE SP0502), IBR approved for §§ 192.319(f); 192.461(h); 192.923(b); 192.925(b); 192.931(d); 192.935(b); and 192.939(a).
 
-(i) National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, Massachusetts 02169, phone: 1 617 984-7275, Web site: *http://www.nfpa.org/.*
+(i) National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02169; phone: (617) 984-7275; website: *www.nfpa.org.*
 
 (1) NFPA-30 (2012), “Flammable and Combustible Liquids Code,” 2012 edition, June 20, 2011, including Errata 30-12-1 (September 27, 2011) and Errata 30-12-2 (November 14, 2011), (NFPA-30), IBR approved for § 192.735(b).
 
-(2) NFPA-58 (2004), “Liquefied Petroleum Gas Code (LP-Gas Code),” (NFPA-58), IBR approved for § 192.11(a), (b), and (c).
+(2) NFPA 58, Liquefied Petroleum Gas Code, 2020 edition, effective August 25, 2019, (NFPA 58); IBR approved for § 192.11.
 
-(3) NFPA-59 (2004), “Utility LP-Gas Plant Code,” (NFPA-59), IBR approved for § 192.11(a), (b); and (c).
+(3) NFPA 59, Utility LP-Gas Plant Code, 2018 edition, effective September 6, 2017, (NFPA 59); IBR approved for § 192.11.
 
-(4) NFPA-70 (2011), “National Electrical Code,” 2011 edition, issued August 5, 2010, (NFPA-70), IBR approved for §§ 192.163(e); and 192.189(c).
+(4) NFPA 70, National Electrical Code (NEC), 2017 edition, effective August 24, 2016, (NFPA 70); IBR approved for §§ 192.163(e); 192.189(c).
 
 (j) Pipeline Research Council International, Inc. (PRCI), c/o Technical Toolboxes, 3801 Kirby Drive, Suite 520, P.O. Box 980550, Houston, TX 77098, phone: 713-630-0505, toll free: 866-866-6766, Web site: *http://www.ttoolboxes.com/.* (Contract number PR-3-805.)
 

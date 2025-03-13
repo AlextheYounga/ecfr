@@ -1,17 +1,23 @@
 ##### § 658.504 Reinstatement of services. #####
 
-Link to an amendment published at 89 FR 34067, Apr. 29, 2024.
+(a) Where the SWA discontinues services to an employer under § 658.502(b) or § 658.503, the employer may submit a written request for reinstatement of services to the SWA or may, within 20 working days of receiving notice of the SWA's final determination, appeal the discontinuation by submitting a written request for a hearing.
 
-(a) Services may be reinstated to an employer after discontinuation under § 658.503(a) and (b), if:
+(b) If the employer submits a written request for reinstatement of services to the SWA:
 
-(1) The State is ordered to do so by a Federal ALJ Judge or Regional Administrator; or
+(1) Within 20 working days of receipt of the employer's request for reinstatement, the SWA must notify the employer of its decision to grant or deny the request. If the SWA denies the request for reinstatement, it must specify the reasons for the denial and notify the employer that it may request a hearing, in accordance with paragraph (c) of this section, within 20 working days.
 
-(2)(i) The employer provides adequate evidence that any policies, procedures or conditions responsible for the previous discontinuation of services have been corrected and that the same or similar circumstances are not likely to occur in the future; and
+(2) The SWA must reinstate services if:
 
-(ii) The employer provides adequate evidence that he/she has responded adequately to any findings of an enforcement agency, SWA, or ETA, including restitution to the complainant and the payment of any fines, which were the basis of the discontinuation of services.
+(i) The employer provides adequate evidence that the policies, procedures, or conditions responsible for the previous discontinuation of services have been corrected and that the same or similar circumstances are not likely to occur in the future; and
 
-(b) The SWA must notify the employer requesting reinstatement within 20 working days whether his/her request has been granted. If the State denies the request for reinstatement, the basis for the denial must be specified and the employer must be notified that he/she may request a hearing within 20 working days.
+(ii) The employer provides adequate evidence that it has responded to all findings of an enforcement agency, SWA, or ETA, including payment of any fines or restitution to remediate the violation, that were the basis of the discontinuation of services, if applicable.
 
-(c) If the employer makes a timely request for a hearing, the SWA must follow the procedures set forth at § 658.417.
+(c) If the employer submits a timely request for a hearing:
 
-(d) The SWA must reinstate services to an employer if ordered to do so by a State hearing official, Regional Administrator, or Federal ALJ as a result of a hearing offered pursuant to paragraph (c) of this section.
+(1) The SWA must follow the procedures set forth in § 658.417; and
+
+(2) The SWA must reinstate services to the employer if ordered to do so by a State hearing official, Regional Administrator, or Federal Administrative Law Judge as a result of a hearing offered pursuant to paragraph (c)(1) of this section.
+
+(d) Within 10 working days of the date of issuance, the SWA must notify the ETA Office of Workforce Investment of any determination to reinstate ES services, or any decision on appeal upholding a SWA's determination to discontinue services.
+
+[89 FR 34067, Apr. 29, 2024]

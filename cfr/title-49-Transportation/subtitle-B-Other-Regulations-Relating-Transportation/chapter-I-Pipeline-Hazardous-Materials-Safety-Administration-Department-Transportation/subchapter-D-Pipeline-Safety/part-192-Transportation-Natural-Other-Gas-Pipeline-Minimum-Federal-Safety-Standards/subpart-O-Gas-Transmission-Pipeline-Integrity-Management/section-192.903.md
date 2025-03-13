@@ -1,7 +1,5 @@
 ##### § 192.903 What definitions apply to this subpart? #####
 
-Link to an amendment published at 89 FR 33282, Apr. 29, 2024.
-
 The following definitions apply to this subpart:
 
 *Assessment* is the use of testing techniques as allowed in this subpart to ascertain the condition of a covered pipeline segment.
@@ -48,8 +46,8 @@ The following definitions apply to this subpart:
 
 Note:
 
-0.69 is the factor for natural gas. This number will vary for other gases depending upon their heat of combustion. An operator transporting gas other than natural gas must use section 3.2 of ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7) to calculate the impact radius formula.
+0.69 is the factor for natural gas. This number will vary for other gases depending upon their heat of combustion. An operator transporting gas other than natural gas must use section 3.2 of ASME B31.8S (incorporated by reference, *see* § 192.7) to calculate the impact radius formula.
 
 *Remediation* is a repair or mitigation activity an operator takes on a covered segment to limit or reduce the probability of an undesired event occurring or the expected consequences from the event.
 
-[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18231, Apr. 6, 2004; Amdt. 192-95, 69 FR 29904, May 26, 2004; Amdt. 192-103, 72 FR 4657, Feb. 1, 2007; Amdt. 192-119, 80 FR 181, Jan. 5, 2015]
+[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18231, Apr. 6, 2004; Amdt. 192-95, 69 FR 29904, May 26, 2004; Amdt. 192-103, 72 FR 4657, Feb. 1, 2007; Amdt. 192-119, 80 FR 181, Jan. 5, 2015; Amdts. 192-135, 195-107, 89 FR 33282, Apr. 29, 2024]

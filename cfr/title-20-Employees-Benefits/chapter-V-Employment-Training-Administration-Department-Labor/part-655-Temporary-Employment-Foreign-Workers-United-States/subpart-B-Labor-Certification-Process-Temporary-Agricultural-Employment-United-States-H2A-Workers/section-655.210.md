@@ -1,7 +1,5 @@
 ##### § 655.210 Contents of herding and range livestock job orders. #####
 
-Link to an amendment published at 89 FR 34065, Apr. 29, 2024.
-
 (a) *Content of job offers.* Unless otherwise specified in §§ 655.200 through 655.235, the employer must satisfy the requirements for job orders established under § 655.121 and for the content of job offers established under part 653, subpart F, of this chapter and § 655.122.
 
 (b) *Job qualifications and requirements.* The job offer must include a statement that the workers are on call for up to 24 hours per day, 7 days per week and that the workers spend the majority (meaning more than 50 percent) of the workdays during the contract period in the herding or production of livestock on the range. Duties may include activities performed off the range only if such duties constitute the production of livestock (which includes work that is closely and directly related to herding and/or the production of livestock). All such duties must be specifically disclosed on the job order. The job offer may also specify that applicants must possess up to 6 months of experience in similar occupations involving the herding or production of livestock on the range and require reference(s) for the employer to verify applicant experience. An employer may specify other appropriate job qualifications and requirements for its job opportunity. Job offers may not impose on U.S. workers any restrictions or obligations that will not be imposed on the employer's H-2A workers engaged in herding or the production of livestock on the range. Any such requirements must be applied equally to both U.S. and foreign workers. Each job qualification and requirement listed in the job offer must be bona fide, and the CO may require the employer to submit documentation to substantiate the appropriateness of any other job qualifications and requirements specified in the job offer.
@@ -26,10 +24,30 @@ Link to an amendment published at 89 FR 34065, Apr. 29, 2024.
 
 (2) The employer must keep daily records indicating whether the site of the employee's work was on the range or off the range. If the employer prorates a worker's wage pursuant to paragraph (g)(2) of this section because of the worker's voluntary absence for personal reasons, it must also keep a record of the reason for the worker's absence.
 
-(g) *Rates of pay.* The employer must pay the worker at least the monthly AEWR, as specified in § 655.211, the agreed-upon collective bargaining wage, or the applicable minimum wage imposed by Federal or State law or judicial action, in effect at the time work is performed, whichever is highest, for every month of the job order period or portion thereof.
+(g) *Rates of pay.* (1) The employer must offer, advertise in its recruitment, and pay a wage that is at least the highest of the following rates in effect at the time work is performed, whichever is highest, for every month of the job order period or portion thereof:
 
-(1) The offered wage shall not be based on commissions, bonuses, or other incentives, unless the employer guarantees a wage that equals or exceeds the monthly AEWR, the agreed-upon collective bargaining wage, or the applicable minimum wage imposed by Federal or State law or judicial action, or any agreed-upon collective bargaining rate, whichever is highest, and must be paid to each worker free and clear without any unauthorized deductions.
+(i) The monthly AEWR, as specified in § 655.211;
 
-(2) The employer may prorate the wage for the initial and final pay periods of the job order period if its pay period does not match the beginning or ending dates of the job order. The employer also may prorate the wage if a worker is voluntarily unavailable to work for personal reasons.
+(ii) The agreed-upon collective bargaining wage;
+
+(iii) The applicable minimum wage imposed by Federal or State law or judicial action; or
+
+(iv) Any other wage rate the employer intends to pay.
+
+(2) The offered wage shall not be based on commissions, bonuses, or other incentives, unless the employer guarantees a wage that equals or exceeds the monthly AEWR, the agreed-upon collective bargaining wage, the applicable minimum wage imposed by Federal or State law or judicial action, any agreed-upon collective bargaining rate, or any other wage rate the employer intends to pay, whichever is highest, and must be paid to each worker free and clear without any unauthorized deductions.
+
+(3) The employer may prorate the wage for the initial and final pay periods of the job order period if its pay period does not match the beginning or ending dates of the job order. The employer also may prorate the wage if a worker is voluntarily unavailable to work for personal reasons.
+
+(4) If applicable, the employer must state in the job order:
+
+(i) That overtime hours may be available;
+
+(ii) The wage rate(s) to be paid for any such overtime hours;
+
+(iii) The circumstances under which the wage rate(s) for overtime hours will be paid, including, but not limited to, after how many hours in a day or workweek the overtime wage rate will be paid, and whether overtime wage rates will vary between-place(s) of employment; and
+
+(iv) Where the overtime pay is required by law, the applicable Federal, State, or local law requiring the overtime pay.
 
 (h) *Frequency of pay.* The employer must state in the job offer the frequency with which the worker will be paid, which must be at least twice monthly. Employers must pay wages when due.
+
+[87 FR 61791, Oct. 12, 2022, as amended at 89 FR 34065, Apr. 29, 2024]

@@ -1,81 +1,77 @@
-##### § 658.502 Notification to employers. #####
+##### § 658.502 Notification to employers of intent to discontinue services. #####
 
-Link to an amendment published at 89 FR 34066, Apr. 29, 2024.
+(a) Except as provided in paragraph (b) of this section, where the SWA determines that there is an applicable basis for discontinuation of services under § 658.501(a)(1) through (8), the SWA must notify the employer in writing that it intends to discontinue the provision of ES services in accordance with this section and must provide the reasons for proposing discontinuation of services.
 
-(a) The SWA must notify the employer in writing that it intends to discontinue the provision of employment services pursuant to this part and parts 652, 653, and 654 of this chapter, and the reason therefore.
+(1) Where the decision is based on § 658.501(a)(1), the SWA must specify the date the order was submitted, the job order involved, and the terms and conditions contrary to employment-related laws and the laws involved. The SWA must notify the employer in writing that all ES services will be terminated unless the employer within 20 working days:
 
-(1) Where the decision is based on submittal and refusal to alter or to withdraw job orders containing specifications contrary to employment-related laws, the SWA must specify the date the order was submitted, the job order involved, the specifications contrary to employment-related laws and the laws involved. The SWA must notify the employer in writing that all employment services will be terminated in 20 working days unless the employer within that time:
+(i) Provides adequate evidence that the terms and conditions are not contrary to employment-related laws;
 
-(i) Provides adequate evidence that the specifications are not contrary to employment-related laws; or
+(ii) Withdraws the terms and conditions and resubmits the job order in compliance with all employment-related laws; or
 
-(ii) Withdraws the specifications and resubmits the job order in compliance with all employment-related laws; or
+(iii) If the job is no longer available, makes assurances that all future job orders submitted will be in compliance with all employment-related laws.
 
-(iii) If the job is no longer available, makes assurances that all future job orders submitted will be in compliance with all employment-related laws; or
+(2) Where the decision is based on § 658.501(a)(2), the SWA must specify the date the order was submitted, the job order involved, the assurances involved, and explain how the employer refused to provide the assurances. The SWA must notify the employer that all ES services will be terminated unless the employer within 20 working days:
 
-(iv) Requests a hearing from the SWA pursuant to § 658.417.
+(i) Resubmits the order with the required assurances; or
 
-(2) Where the decision is based on the employer's submittal of an order and refusal to provide assurances that the job is in compliance with employment-related laws or to withdraw the order, the SWA must specify the date the order was submitted, the job order involved, and the assurances involved. The employer must be notified that all employment services will be terminated within 20 working days unless the employer within that time:
+(ii) If the job is no longer available, makes assurances that all future job orders submitted will contain all assurances required pursuant to the Agricultural Recruitment System for U.S. Workers at part 653, subpart F, of this chapter.
 
-(i) Resubmits the order with the appropriate assurances; or
+(3) Where the decision is based on § 658.501(a)(3), the SWA must specify the terms and conditions the employer misrepresented or the assurances with which the employer did not fully comply, and explain how the employer misrepresented the terms or conditions or failed to comply with assurances on the job order. The SWA must notify the employer that all ES services will be terminated unless the employer within 20 working days:
 
-(ii) If the job is no longer available, make assurances that all future job orders submitted will contain all necessary assurances that the job offered is in compliance with employment-related laws; or
-
-(iii) Requests a hearing from the SWA pursuant to § 658.417.
-
-(3) Where the decision is based on a finding that the employer has misrepresented the terms or conditions of employment specified on job orders or failed to comply fully with assurances made on job orders, the SWA must specify the basis for that determination. The employer must be notified that all employment services will be terminated in 20 working days unless the employer within that time:
-
-(i) Provides adequate evidence that terms and conditions of employment were not misrepresented; or
+(i) Provides adequate evidence that terms and conditions of employment were not misrepresented;
 
 (ii) Provides adequate evidence that there was full compliance with the assurances made on the job orders; or
 
-(iii) Provides resolution of a complaint which is satisfactory to a complainant referred by the ES; and
+(iii) Provides adequate evidence that it has resolved the misrepresentation of terms and conditions of employment or noncompliance with assurances and provides adequate assurance that specifications on future orders will accurately represent the terms and conditions of employment and that there will be full compliance with all job order assurances.
 
-(iv) Provides adequate assurance that specifications on future orders will accurately represent the terms and conditions of employment and that there will be full compliance with all job order assurances; or
+(4) Where the decision is based on § 658.501(a)(4), the SWA must provide evidence of the final determination, including debarment. For final determinations, the SWA must specify the enforcement agency's findings of facts and conclusions of law as to the employment-related law violation(s). For final debarment orders, the SWA must specify the time period for which the employer is debarred from participating in one of the Department's foreign labor certification programs. The SWA must notify the employer that all ES services will be terminated unless the employer within 20 working days:
 
-(v) Requests a hearing from the SWA pursuant to § 658.417.
+(i) Provides adequate evidence that the enforcement agency's determination is not final because, for example, it has been stayed pending appeal, overturned, or reversed; or
 
-(4) Where the decision is based on a final determination by an enforcement agency, the SWA must specify the enforcement agency's findings of facts and conclusions of law. The employer must be notified that all employment services will be terminated in 20 working days unless the employer within that time:
+(ii) Provides adequate evidence that, as applicable:
 
-(i) Provides adequate evidence that the enforcement agency has reversed its ruling and that the employer did not violate employment-related laws; or
+(A) The Department's debarment is no longer in effect; and
 
-(ii) Provides adequate evidence that the appropriate fines have been paid and/or appropriate restitution has been made; and
+(B) The employer has completed all required actions imposed by the enforcement agency as a consequence of the violation, including payment of any fines or restitution to remediate the violation; and
 
 (iii) Provides assurances that any policies, procedures, or conditions responsible for the violation have been corrected and the same or similar violations are not likely to occur in the future.
 
-(5) Where the decision is based on a finding of a violation of ES regulations under § 658.411, the SWA must specify the finding. The employer must be notified that all employment services will be terminated in 20 working days unless the employer within that time:
+(5) Where the decision is based on § 658.501(a)(5), the SWA must specify which ES regulation, as defined in § 651.10, the employer has violated and must provide basic facts to explain the violation. The SWA must notify the employer that all ES services will be terminated unless the employer within 20 working days:
 
 (i) Provides adequate evidence that the employer did not violate ES regulations; or
 
 (ii) Provides adequate evidence that appropriate restitution has been made or remedial action taken; and
 
-(iii) Provides assurances that any policies, procedures, or conditions responsible for the violation have been corrected and the same or similar violations are not likely to occur in the future; or
+(iii) Provides assurances that any policies, procedures, or conditions responsible for the violation have been corrected and the same or similar violations are not likely to occur in the future.
 
-(iv) Requests a hearing from the SWA pursuant to § 658.417.
-
-(6) Where the decision is based on an employer's failure to accept qualified workers referred through the clearance system, the SWA must specify the workers referred and not accepted. The employer must be notified that all employment services will be terminated in 20 working days unless the employer within that time:
+(6) Where the decision is based on § 658.501(a)(6), the SWA must indicate that the employer filed the job order pursuant to part 655, subpart B, of this chapter, and specify the name of each worker the SWA referred and the employer did not accept. The SWA must notify the employer that all ES services will be terminated unless the employer within 20 working days:
 
 (i) Provides adequate evidence that the workers were accepted; or
 
 (ii) Provides adequate evidence that the workers were not available to accept the job; or
 
-(iii) Provides adequate evidence that the workers were not qualified; and
+(iii) Provides adequate evidence that the workers were not qualified; or
 
-(iv) Provides adequate assurances that qualified workers referred in the future will be accepted; or
+(iv) Provides adequate evidence that the workers were referred after the time period described in § 655.135(d) of this chapter elapsed; or
 
-(v) Requests a hearing from the SWA pursuant to § 658.417.
+(v) Provides adequate evidence that:
 
-(7) Where the decision is based on lack of cooperation in the conduct of field checks, the SWA must specify the lack of cooperation. The employer must be notified that all employment services will be terminated in 20 working days unless the employer within that time:
+(A) After refusal, the employer accepted the qualified workers referred; or
 
-(i) Provides adequate evidence that he/she did cooperate; or
+(B) Appropriate restitution has been made or other remedial action taken; and
 
-(ii) Cooperates immediately in the conduct of field checks; and
+(vi) Provides assurances that qualified workers referred in the future will be accepted or, if the time period described in § 655.135(d) of this chapter has lapsed, provides assurances that qualified workers referred on all future criteria clearance orders will be accepted.
 
-(iii) Provides assurances that he/she will cooperate in future field checks in further activity; or
+(7) Where the decision is based on § 658.501(a)(7), the SWA must explain how the employer did not cooperate in the field check. The SWA must notify the employer that all ES services will be terminated unless the employer within 20 working days:
 
-(iv) Requests a hearing from the SWA pursuant to § 658.417.
+(i) Provides adequate evidence that it did cooperate; or
 
-(b) If the employer chooses to respond pursuant to this section by providing documentary evidence or assurances, he/she must at the same time request a hearing if such hearing is desired in the event that the SWA does not accept the documentary evidence or assurances as adequate.
+(ii) Immediately cooperates in the conduct of field checks; and
 
-(c) Where the decision is based on repeated initiation of procedures for discontinuation of services, the employer must be notified that services have been terminated.
+(iii) Provides assurances that it will cooperate in future field checks.
 
-(d) If the employer makes a timely request for a hearing, in accordance with this section, the SWA must follow procedures set forth at § 658.411 and notify the complainant whenever the discontinuation of services is based on a complaint pursuant to § 658.411.
+(8) Where the decision is based on § 658.501(a)(8), the SWA must list and provide basic facts explaining the prior instances where the employer has repeatedly caused initiation of discontinuation proceedings. The SWA must notify the employer that all ES services will be terminated unless the employer within 20 working days provides adequate evidence that the SWA's initiation of discontinuation in prior proceedings was unfounded.
+
+(b) SWA officials must discontinue services immediately in accordance with § 658.503, without providing the notice described in this section, if an employer has met any of the bases for discontinuation of services under § 658.501(a) and, in the judgment of the State Administrator, exhaustion of the administrative procedures set forth in this section would cause substantial harm to workers.
+
+[89 FR 34066, Apr. 29, 2024]

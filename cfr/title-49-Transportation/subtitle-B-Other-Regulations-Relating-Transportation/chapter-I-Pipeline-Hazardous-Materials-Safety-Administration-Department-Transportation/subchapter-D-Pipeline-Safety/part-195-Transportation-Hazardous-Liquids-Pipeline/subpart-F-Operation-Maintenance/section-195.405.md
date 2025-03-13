@@ -1,9 +1,7 @@
 ##### § 195.405 Protection against ignitions and safe access/egress involving floating roofs. #####
 
-Link to an amendment published at 89 FR 33284, Apr. 29, 2024.
-
 (a) After October 2, 2000, protection provided against ignitions arising out of static electricity, lightning, and stray currents during operation and maintenance activities involving aboveground breakout tanks must be in accordance with API RP 2003 (incorporated by reference, *see* § 195.3), unless the operator notes in the procedural manual (§ 195.402(c)) why compliance with all or certain provisions of API RP 2003 is not necessary for the safety of a particular breakout tank.
 
-(b) The hazards associated with access/egress onto floating roofs of in-service aboveground breakout tanks to perform inspection, service, maintenance, or repair activities (other than specified general considerations, specified routine tasks or entering tanks removed from service for cleaning) are addressed in API Pub 2026 (incorporated by reference, *see* § 195.3) . After October 2, 2000, the operator must review and consider the potentially hazardous conditions, safety practices, and procedures in API Pub 2026 for inclusion in the procedure manual (§ 195.402(c)).
+(b) The hazards associated with access/egress onto floating roofs of in-service aboveground breakout tanks to perform inspection, service, maintenance, or repair activities (other than specified general considerations, specified routine tasks or entering tanks removed from service for cleaning) are addressed in API RP 2026 (incorporated by reference, *see* § 195.3) . After October 2, 2000, the operator must review and consider the potentially hazardous conditions, safety practices, and procedures in API RP 2026 for inclusion in the procedure manual (§ 195.402(c)).
 
-[Amdt. 195-99,80 FR 187, Jan. 5, 2015; 80 FR 46848, Aug. 6, 2015]
+[Amdt. 195-99, 80 FR 187, Jan. 5, 2015; 80 FR 46848, Aug. 6, 2015; Amdts. 192-135, 195-107, 89 FR 33284, Apr. 29, 2024]

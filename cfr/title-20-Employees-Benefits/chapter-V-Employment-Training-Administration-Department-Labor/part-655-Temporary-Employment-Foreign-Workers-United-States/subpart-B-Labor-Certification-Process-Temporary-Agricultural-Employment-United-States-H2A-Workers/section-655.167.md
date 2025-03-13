@@ -1,7 +1,5 @@
 ##### § 655.167 Document retention requirements of H-2A employers. #####
 
-Link to an amendment published at 89 FR 34063, Apr. 29, 2024.
-
 (a) *Entities required to retain documents.* All employers must retain documents and records demonstrating compliance with this subpart.
 
 (b) *Period of required retention.* Records and documents must be retained for a period of 3 years from the date of certification of the *Application for Temporary Employment Certification* or from the date of determination if the *Application for Temporary Employment Certification* is denied or withdrawn.
@@ -24,10 +22,20 @@ Link to an amendment published at 89 FR 34063, Apr. 29, 2024.
 
 (5) Records of each worker's earnings as specified in § 655.122(j).
 
-(6) The work contract or a copy of the *Application for Temporary Employment Certification* as defined in 29 CFR 501.10 and specified in § 655.122(q).
+(6) The work contract or a copy of the *Application for Temporary Employment Certification* as defined in § 655.103(b) and specified in § 655.122(q).
 
-(7) If applicable, records of notice to the NPC and DHS of the abandonment of employment or termination for cause of a worker as set forth in § 655.122(n).
+(7) If applicable, records of notice to the NPC and to DHS of the abandonment of employment or termination for cause of a worker as set forth in § 655.122(n).
+
+(8) Written contracts with agents or recruiters as specified in § 655.137(a) and the identities and locations of persons hired by or working for the agent or recruiter and the agents and employees of these agents and recruiters, as specified in § 655.137(b).
+
+(9) The identity, location, and contact information of all persons who are the owners of each employer, as specified in § 655.130(a)(2), and the identity, location, and contact information of all persons and entities who are the operators of the place of employment (if different than the employers) and of all persons who manage or supervise any H-2A worker sponsored under the *Application for Temporary Employment Certification* or any worker in corresponding employment, as specified in § 655.130(a)(3).
+
+(10) If applicable, disciplinary records, including each step of progressive discipline, any evidence the worker presented in their defense, any investigation related to the termination, and any subsequent instruction afforded the worker.
+
+(11) If applicable, records indicating the reason(s) for termination of any worker, including disciplinary records described in § 655.122(n)(4)(ii) and this section, relating to the termination as set forth in § 655.122(n).
+
+(12) If applicable, evidence demonstrating the employer notified the SWA and each worker of an unforeseen minor delay in the start date of need, as specified in § 655.175(b)(2)(i).
 
 (d) *Additional retention requirement for agricultural associations filing an Application for Temporary Employment Certification.* In addition to the documents specified in paragraph (c) of this section, associations must retain documentation substantiating their status as an employer or agent, as specified in § 655.131.
 
-Post-Certification
+[87 FR 61791, Oct. 12, 2022, as amended at 89 FR 34063, Apr. 29, 2024]Post-Certification

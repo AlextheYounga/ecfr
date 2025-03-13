@@ -114,7 +114,15 @@ This section lists the captions contained in the regulations under section 706.
 
 (d) Effective/applicability date.
 
-§ 1.706-2 Certain allocable cash basis items. [Reserved]§ 1.706-2T Temporary regulations; question and answer under the Tax Reform Act of 1984 (temporary).§ 1.706-3 Items attributable to interest in lower tier partnership. [Reserved]§ 1.706-4 Determination of distributive share when a partner's interest varies.
+§ 1.706-2 Certain allocable cash basis items. [Reserved]§ 1.706-2T Temporary regulations; question and answer under the Tax Reform Act of 1984 (temporary).§ 1.706-3 Items attributable to interest in lower-tier partnership.
+
+(a) through (c) [Reserved]
+
+(d) Conservation contributions.
+
+(e) Applicability date.
+
+§ 1.706-4 Determination of distributive share when a partner's interest varies.
 
 (a) General rule.
 
@@ -178,4 +186,4 @@ This section lists the captions contained in the regulations under section 706.
 
 (b) Effective/applicability date.
 
-[T.D. 9728, 80 FR 45877, Aug. 3, 2015; 80 FR 68243, Nov. 4, 2015]
+[T.D. 9728, 80 FR 45877, Aug. 3, 2015; 80 FR 68243, Nov. 4, 2015, as amended by TD 9999, 89 FR 54327, June 28, 2024]

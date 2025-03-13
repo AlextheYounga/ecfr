@@ -1,10 +1,10 @@
 ##### § 655.182 Debarment. #####
 
-Link to an amendment published at 89 FR 34064, Apr. 29, 2024.
+(a) *Debarment of an employer, agent, or attorney.* The OFLC Administrator may debar an employer, agent, or attorney from participating in any action under 8 U.S.C. 1188, this subpart, or 29 CFR part 501 subject to the time limits set forth in paragraph (c) of this section, if the OFLC Administrator finds that the employer, agent, or attorney substantially violated a material term or condition of the temporary agricultural labor certification, with respect to H-2A workers; workers in corresponding employment; or U.S. workers improperly rejected for employment, or improperly laid off or displaced.
 
-(a) *Debarment of an employer, agent, or attorney.* The OFLC Administrator may debar an employer, agent, or attorney, or any successor in interest to that employer, agent, or attorney, from participating in any action under 8 U.S.C. 1188, this subpart, or 29 CFR part 501 subject to the time limits set forth in paragraph (c) of this section, if the OFLC Administrator finds that the employer, agent, or attorney substantially violated a material term or condition of the temporary agricultural labor certification, with respect to H-2A workers; workers in corresponding employment; or U.S. workers improperly rejected for employment, or improperly laid off or displaced.
+(b) *Effect on future applications.* (1) No application for H-2A workers may be filed by or on behalf of a debarred employer, or by an employer represented by a debarred agent or attorney, subject to the term limits set forth in paragraph (c)(2) of this section. If such an application is filed, it will be denied without review.
 
-(b) *Effect on future applications.* No application for H-2A workers may be filed by a debarred employer, or by any successor in interest to a debarred employer, or by an employer represented by a debarred agent or attorney, or by any successor in interest to any debarred agent or attorney, subject to the term limits set forth in paragraph (c) of this section. If such an application is filed, it will be denied without review.
+(2) No application for H-2A workers may be filed by or on behalf of a successor in interest to a debarred employer, agent, or attorney, subject to the term limits set forth in paragraph (c)(2) of this section. If the CO determines that such an application is filed, the CO will issue a NOD pursuant to § 655.141 or deny the application pursuant to § 655.164, as appropriate depending upon the status of the *Application for Temporary Employment Certification,* solely on the basis that the entity is a successor in interest to a debarred employer, agent, or attorney. The employer, agent, or attorney may appeal its status as a successor in interest to the debarred entity, pursuant to the procedures for appeals of CO determinations at § 655.171.
 
 (c) *Statute of limitations and period of debarment.* (1) The OFLC Administrator must issue any Notice of Debarment not later than 2 years after the occurrence of the violation.
 
@@ -28,7 +28,7 @@ Link to an amendment published at 89 FR 34064, Apr. 29, 2024.
 
 (vii) Employing an H-2A worker outside the area of intended employment, in an activity/activities not listed in the job order or outside the validity period of employment of the job order, including any approved extension thereof;
 
-(viii) A violation of the requirements of § 655.135(j) or (k);
+(viii) A violation of the requirements of § 655.135(j), (k), or (o);
 
 (ix) A violation of any of the provisions listed in 29 CFR 501.4(a); or
 
@@ -81,3 +81,5 @@ Link to an amendment published at 89 FR 34064, Apr. 29, 2024.
 (i) *Debarment involving agricultural associations acting as joint employers.* If the OFLC Administrator determines that an agricultural association acting as a joint employer with its employer-members has committed a substantial violation, the debarment determination will apply only to the agricultural association, and will not be applied to any individual employer-member of the agricultural association. However, if the OFLC Administrator determines that the employer-member participated in, had knowledge of, or had reason to know of the violation, the debarment may be invoked against the complicit agricultural association member as well. An agricultural association debarred from the H-2A temporary labor certification program will not be permitted to continue to file as a joint employer with its employer-members during the period of the debarment.
 
 (j) *Debarment involving agricultural associations acting as sole employers.* If the OFLC Administrator determines that an agricultural association acting as a sole employer has committed a substantial violation, the debarment determination will apply only to the agricultural association and any successor in interest to the debarred agricultural association.
+
+[87 FR 61791, Oct. 12, 2022, as amended at 89 FR 34064, Apr. 29, 2024]

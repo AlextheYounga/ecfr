@@ -1,7 +1,5 @@
 ##### § 192.153 Components fabricated by welding. #####
 
-Link to an amendment published at 89 FR 33281, Apr. 29, 2024.
-
 (a) Except for branch connections and assemblies of standard pipe and fittings joined by circumferential welds, the design pressure of each component fabricated by welding, whose strength cannot be determined, must be established in accordance with paragraph UG-101 of the ASME Boiler and Pressure Vessel Code (BPVC) (Section VIII, Division 1) (incorporated by reference, *see* § 192.7).
 
 (b) Each prefabricated unit that uses plate and longitudinal seams must be designed, constructed, and tested in accordance with the ASME BPVC (*Rules for Construction of Pressure Vessels* as defined in either Section VIII, Division 1 or Section VIII, Division 2; incorporated by reference, *see* § 192.7), except for the following:
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 33281, Apr. 29, 2024.
 
 (c) Orange-peel bull plugs and orange-peel swages may not be used on pipelines that are to operate at a hoop stress of 20 percent or more of the SMYS of the pipe.
 
-(d) Except for flat closures designed in accordance with the ASME BPVC (Section VIII, Division 1 or 2), flat closures and fish tails may not be used on pipe that either operates at 100 p.s.i. (689 kPa) gage or more, or is more than 3 inches in (76 millimeters) nominal diameter.
+(d) Except for flat closures designed in accordance with ASME BPVC, Section VIII, Division 1 or Division 2, (both incorporated by reference, *see* § 192.7), flat closures and fish tails may not be used on pipe that either operates at 100 psig (689 kilopascals) or more, or that is more than 3 inches (76 millimeters) in nominal diameter.
 
 (e) The test requirements for a prefabricated unit or pressure vessel, defined for this paragraph as components with a design pressure established in accordance with paragraph (a) or paragraph (b) of this section are as follows.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 89 FR 33281, Apr. 29, 2024.
 
 (ii) The prefabricated unit or pressure vessel must be pressure tested by the operator in accordance with the testing and inspection requirements of this part applicable to newly installed prefabricated units and pressure vessels.
 
-[35 FR 13257, Aug. 19, 1970, as amended by Amdt. 192-1, 35 FR 17660, Nov. 17, 1970; 58 FR 14521, Mar. 18, 1993; Amdt. 192-68, 58 FR 45268, Aug. 27, 1993; Amdt. 192-85, 63 FR 37502, July 13, 1998; Amdt. 192-119, 80 FR 181, Jan. 5, 2015; Amdt. 192-120, 80 FR 12778, Mar. 11, 2015; Amdt. 192-119, 80 FR 46847, Aug. 6, 2015; 86 FR 2239, Jan. 11, 2021]
+[35 FR 13257, Aug. 19, 1970, as amended by Amdt. 192-1, 35 FR 17660, Nov. 17, 1970; 58 FR 14521, Mar. 18, 1993; Amdt. 192-68, 58 FR 45268, Aug. 27, 1993; Amdt. 192-85, 63 FR 37502, July 13, 1998; Amdt. 192-119, 80 FR 181, Jan. 5, 2015; Amdt. 192-120, 80 FR 12778, Mar. 11, 2015; Amdt. 192-119, 80 FR 46847, Aug. 6, 2015; 86 FR 2239, Jan. 11, 2021; Amdts. 192-135, 195-107, 89 FR 33281, Apr. 29, 2024]

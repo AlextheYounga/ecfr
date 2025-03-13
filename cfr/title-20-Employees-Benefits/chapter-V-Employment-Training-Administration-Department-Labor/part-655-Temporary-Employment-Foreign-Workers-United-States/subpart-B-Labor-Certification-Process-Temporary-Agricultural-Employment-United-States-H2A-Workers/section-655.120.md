@@ -1,18 +1,20 @@
 ##### § 655.120 Offered wage rate. #####
 
-Link to an amendment published at 89 FR 34060, Apr. 29, 2024.
+(a) *Employer obligation.* (1) Except for occupations covered by §§ 655.200 through 655.235, to comply with its obligation under § 655.122(l), an employer must offer, advertise in its recruitment, and pay a wage that is at least the highest of:
 
-(a) *Employer obligation.* Except for occupations covered by §§ 655.200 through 655.235, to comply with its obligation under § 655.122(l), an employer must offer, advertise in its recruitment, and pay a wage that is at least the highest of:
+(i) The AEWR;
 
-(1) The AEWR;
+(ii) A prevailing wage rate, whether expressed as a piece rate or other unit of pay, if the OFLC Administrator has approved a prevailing wage survey for the applicable crop activity or agricultural activity and, if applicable, a distinct work task or tasks performed in that activity, meeting the requirements of paragraph (c) of this section;
 
-(2) A prevailing wage rate, if the OFLC Administrator has approved a prevailing wage survey for the applicable crop activity or agricultural activity and, if applicable, a distinct work task or tasks performed in that activity, meeting the requirements of paragraph (c) of this section;
+(iii) The agreed-upon collective bargaining wage;
 
-(3) The agreed-upon collective bargaining wage;
+(iv) The Federal minimum wage;
 
-(4) The Federal minimum wage; or
+(v) The State minimum wage; or
 
-(5) The State minimum wage.
+(vi) Any other wage rate the employer intends to pay.
+
+(2) Where the wage rates set forth in paragraph (a)(1) of this section are expressed in different units of pay (including piece rates or other pay structures), the employer must list the highest applicable wage rate for each unit of pay in its job order and must offer and advertise all of these wage rates in its recruitment. The employer's obligation to pay the highest of these wage rates is set forth at § 655.122(l)(2).
 
 (b) *AEWR determinations.* (1) Except for occupations governed by the procedures in §§ 655.200 through 655.235, the OFLC Administrator will determine the AEWRs as follows:
 
@@ -32,9 +34,9 @@ Link to an amendment published at 89 FR 34060, Apr. 29, 2024.
 
 (iii) The AEWR methodologies described in paragraphs (b)(1)(i) and (ii) of this section shall apply to all job orders submitted, as set forth in § 655.121, on or after March 30, 2023, including job orders filed concurrently with an *Application for Temporary Employment Certification* to the NPC for emergency situations under § 655.134. For purposes of paragraphs (b)(1)(i) and (ii) of this section, the term *State* and *statewide* include the 50 States, the District of Columbia, Guam, Puerto Rico, and the U.S. Virgin Islands.
 
-(2) The OFLC Administrator will publish a notice in the Federal Register, at least once in each calendar year, on a date to be determined by the OFLC Administrator, establishing each AEWR.
+(2) The OFLC Administrator will publish a notice in the Federal Register, at least once in each calendar year, on a date to be determined by the OFLC Administrator, establishing each AEWR. The updated AEWR will be effective as of the date of publication of the notice in the Federal Register.
 
-(3) If an updated AEWR for the occupational classification and geographic area is published in the Federal Register during the work contract, and the updated AEWR is higher than the highest of the previous AEWR, a prevailing wage for the crop activity or agricultural activity and, if applicable, a distinct work task or tasks performed in that activity and geographic area, the agreed-upon collective bargaining wage, the Federal minimum wage, or the State minimum wage, the employer must pay at least the updated AEWR upon the effective date of the updated AEWR published in the Federal Register.
+(3) If an updated AEWR for the occupational classification and geographic area is published in the Federal Register during the work contract, and the updated AEWR is higher than the highest of the previous AEWR; a prevailing wage for the crop activity or agricultural activity and, if applicable, a distinct work task or tasks performed in that activity and geographic area; the agreed-upon collective bargaining wage; the Federal minimum wage; or the State minimum wage, the employer must pay at least the updated AEWR beginning on the date the updated AEWR is published in the Federal Register.
 
 (4) If an updated AEWR for the occupational classification and geographic area is published in the Federal Register during the work contract, and the updated AEWR is lower than the rate guaranteed on the job order, the employer must continue to pay at least the rate guaranteed on the job order.
 
@@ -72,4 +74,4 @@ Link to an amendment published at 89 FR 34060, Apr. 29, 2024.
 
 (2) If the employer disagrees with the wage rate required by the CO, the employer may appeal only after the *Application for Temporary Employment Certification* is denied, and the employer must follow the procedures in § 655.171.
 
-[87 FR 61791, Oct. 12, 2022, as amended at 88 FR 12801, Feb. 28, 2023]
+[87 FR 61791, Oct. 12, 2022, as amended at 88 FR 12801, Feb. 28, 2023; 89 FR 34060, Apr. 29, 2024]

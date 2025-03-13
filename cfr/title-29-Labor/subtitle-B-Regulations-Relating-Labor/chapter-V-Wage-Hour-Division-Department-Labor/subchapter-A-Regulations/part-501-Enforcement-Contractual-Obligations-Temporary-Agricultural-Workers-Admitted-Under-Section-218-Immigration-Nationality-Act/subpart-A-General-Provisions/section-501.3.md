@@ -1,7 +1,5 @@
 ##### § 501.3 Definitions. #####
 
-Link to an amendment published at 89 FR 34067, Apr. 29, 2024.
-
 (a) *Definitions of terms used in this part.* The following defined terms apply to this part:
 
 *Act.* The Immigration and Nationality Act, as amended (INA), 8 U.S.C. 1101 *et seq.*
@@ -74,6 +72,10 @@ Link to an amendment published at 89 FR 34067, Apr. 29, 2024.
 
 (iii) Employers that jointly file a joint employer *Application for Temporary Employment Certification* under 20 CFR 655.131(b) are, at all times, joint employers of all H-2A workers sponsored under the *Application for Temporary Employment Certification* and all workers in corresponding employment.
 
+*Key service provider.* A health-care provider; a community health worker; an education provider; a translator or interpreter; an attorney, legal advocate, or other legal service provider; a government official, including a consular representative; a member of the clergy; an emergency services provider; a law enforcement officer; and any other provider of similar services.
+
+*Labor organization.* Any organization of any kind, or any agency or employee representation committee or plan, in which workers participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work.
+
 *Metropolitan Statistical Area (MSA).* A geographic entity defined by OMB for use by Federal statistical agencies in collecting, tabulating, and publishing Federal statistics. A Metropolitan Statistical Area contains a core urban area of 50,000 or more population, and a Micropolitan Statistical Area contains an urban core of at least 10,000 (but fewer than 50,000) population. Each metropolitan or micropolitan area consists of one or more counties and includes the counties containing the core urban area, as well as any adjacent counties that have a high degree of social and economic integration (as measured by commuting to work) with the urban core.
 
 *National Processing Center (NPC).* The offices within OFLC in which the Cos operate and which are charged with the adjudication of *Applications for Temporary Employment Certification.*
@@ -91,28 +93,6 @@ Link to an amendment published at 89 FR 34067, Apr. 29, 2024.
 *Secretary of Labor (Secretary).* The chief official of the Department, or the Secretary's designee.
 
 *State Workforce Agency (SWA).* State government agency that receives funds pursuant to the Wagner-Peyser Act, 29 U.S.C. 49 *et seq.,* to administer the State's public labor exchange activities.
-
-*Successor in interest.* (i) Where an employer, agent, or attorney has violated 8 U.S.C. 1188, 20 CFR part 655, subpart B, or this part, and has ceased doing business or cannot be located for purposes of enforcement, a successor in interest to that employer, agent, or attorney may be held liable for the duties and obligations of the violating employer, agent, or attorney in certain circumstances. The following factors, as used under Title VII of the Civil Rights Act and the Vietnam Era Veterans' Readjustment Assistance Act, may be considered in determining whether an employer, agent, or attorney is a successor in interest; no one factor is dispositive, but all of the circumstances will be considered as a whole:
-
-(A) Substantial continuity of the same business operations;
-
-(B) Use of the same facilities;
-
-(C) Continuity of the work force;
-
-(D) Similarity of jobs and working conditions;
-
-(E) Similarity of supervisory personnel;
-
-(F) Whether the former management or owner retains a direct or indirect interest in the new enterprise;
-
-(G) Similarity in machinery, equipment, and production methods;
-
-(H) Similarity of products and services; and
-
-(I) The ability of the predecessor to provide relief.
-
-(ii) For purposes of debarment only, the primary consideration will be the personal involvement of the firm's ownership, management, supervisors, and others associated with the firm in the violation(s) at issue.
 
 *Temporary agricultural labor certification.* Certification made by the OFLC Administrator, based on the *Application for Temporary Employment Certification,* job order, and all supporting documentation, with respect to an employer seeking to file an H-2A Petition with DHS to employ one or more foreign nationals as an H-2A worker, pursuant to 8 U.S.C. 1101(a)(15)(H)(ii)(a), 1184(a) and (c), and 1188, and 20 CFR part 655, subpart B.
 
@@ -165,3 +145,15 @@ Link to an amendment published at 89 FR 34067, Apr. 29, 2024.
 (5) *Employment as defined and specified in 20 CFR 655.300 through 655.304.* For the purpose of paragraph (b) of this section, agricultural labor or services includes animal shearing, commercial beekeeping, and custom combining activities as defined and specified in 20 CFR 655.300 through 655.304.
 
 (c) *Definition of a temporary or seasonal nature.* For the purposes of this subpart, employment is of a seasonal nature where it is tied to a certain time of year by an event or pattern, such as a short annual growing cycle or a specific aspect of a longer cycle, and requires labor levels far above those necessary for ongoing operations. Employment is of a temporary nature where the employer's need to fill the position with a temporary worker will, except in extraordinary circumstances, last no longer than 1 year.
+
+(d) *Definition of single employer for purposes of temporary or seasonal need and contractual obligations.* Separate entities will be deemed a single employer (sometimes referred to as an “integrated employer”) for purposes of assessing temporary or seasonal need and for enforcement of contractual obligations if they meet the definition of single employer in this paragraph (e). Under the definition of single employer, a determination of whether separate entities are a single employer is not determined by a single factor, but rather the entire relationship is viewed in its totality. Factors considered in determining whether two or more entities consist of a single employer include:
+
+(1) Common management;
+
+(2) Interrelation between operations;
+
+(3) Centralized control of labor relations; and
+
+(4) Degree of common ownership/financial control.
+
+[87 FR 61822, Oct. 12, 2022, as amended at 89 FR 34067, Apr. 29, 2024]

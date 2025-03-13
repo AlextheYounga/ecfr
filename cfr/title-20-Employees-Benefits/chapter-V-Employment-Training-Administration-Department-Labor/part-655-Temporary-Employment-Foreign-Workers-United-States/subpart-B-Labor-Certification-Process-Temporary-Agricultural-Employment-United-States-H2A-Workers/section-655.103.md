@@ -1,7 +1,5 @@
 ##### § 655.103 Overview of this subpart and definition of terms. #####
 
-Link to an amendment published at 89 FR 34059, Apr. 29, 2024.
-
 (a) *Overview.* In order to bring nonimmigrant workers to the United States to perform agricultural work, an employer must first demonstrate to the Secretary that there are not sufficient U.S. workers able, willing, and qualified to perform the work in the area of intended employment at the time needed and that the employment of foreign workers will not adversely affect the wages and working conditions of workers in the United States similarly employed. This subpart describes a process by which the DOL makes such a determination and certifies its determination to the DHS.
 
 (b) *Definitions.* For the purposes of this subpart:
@@ -81,6 +79,10 @@ Link to an amendment published at 89 FR 34059, Apr. 29, 2024.
 (ii) An agricultural association that files an *Application for Temporary Employment Certification* as a joint employer is, at all times, a joint employer of all the H-2A workers sponsored under the *Application for Temporary Employment Certification* and all workers in corresponding employment. An employer-member of an agricultural association that files an *Application for Temporary Employment Certification* as a joint employer is a joint employer of the H-2A workers sponsored under the joint employer *Application for Temporary Employment Certification* along with the agricultural association during the period that the employer-member employs the H-2A workers sponsored under the *Application for Temporary Employment Certification.*
 
 (iii) Employers that jointly file a joint employer *Application for Temporary Employment Certification* under § 655.131(b) are, at all times, joint employers of all the H-2A workers sponsored under the *Application for Temporary Employment Certification* and all workers in corresponding employment.
+
+*Key service provider.* A health-care provider; a community health worker; an education provider; a translator or interpreter; an attorney, legal advocate, or other legal service provider; a government official, including a consular representative; a member of the clergy; an emergency services provider; a law enforcement officer; and any other provider of similar services.
+
+*Labor organization.* Any organization of any kind, or any agency or employee representation committee or plan, in which workers participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work.
 
 *Master application.* An *Application for Temporary Employment Certification* filed by an association of agricultural producers as a joint employer with its employer-members. A master application must cover the same occupations or comparable agricultural employment; the first date of need for all employer-members listed on the *Application for Temporary Employment Certification* may be separated by no more than 14 calendar days; and may cover multiple areas of intended employment within a single State but no more than two contiguous States.
 
@@ -190,4 +192,14 @@ Link to an amendment published at 89 FR 34059, Apr. 29, 2024.
 
 (d) *Definition of a temporary or seasonal nature.* For the purposes of this subpart, employment is of a seasonal nature where it is tied to a certain time of year by an event or pattern, such as a short annual growing cycle or a specific aspect of a longer cycle, and requires labor levels far above those necessary for ongoing operations. Employment is of a temporary nature where the employer's need to fill the position with a temporary worker will, except in extraordinary circumstances, last no longer than 1 year.
 
-[87 FR 61791, Oct. 12, 2022, as amended at 88 FR 12801, Feb. 28, 2023]
+(e) *Definition of single employer for purposes of temporary or seasonal need and contractual obligations.* Separate entities will be deemed a single employer (sometimes referred to as an “integrated employer”) for purposes of assessing temporary or seasonal need and for enforcement of contractual obligations if they meet the definition of single employer in this paragraph (e). Under the definition of single employer, a determination of whether separate entities are a single employer is not determined by a single factor, but rather the entire relationship is viewed in its totality. Factors considered in determining whether two or more entities consist of a single employer include:
+
+(1) Common management;
+
+(2) Interrelation between operations;
+
+(3) Centralized control of labor relations; and
+
+(4) Degree of common ownership/financial control.
+
+[87 FR 61791, Oct. 12, 2022, as amended at 88 FR 12801, Feb. 28, 2023; 89 FR 34059, Apr. 29, 2024]

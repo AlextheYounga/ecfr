@@ -1,10 +1,10 @@
 ##### § 501.20 Debarment and revocation. #####
 
-Link to an amendment published at 89 FR 34068, Apr. 29, 2024.
+(a) *Debarment of an employer, agent, or attorney.* The WHD Administrator may debar an employer, agent, or attorney from participating in any action under 8 U.S.C. 1188, 20 CFR part 655, subpart B, or this part, subject to the time limits set forth in paragraph (c) of this section, if the WHD Administrator finds that the employer, agent, or attorney substantially violated a material term or condition of the temporary agricultural labor certification, with respect to H-2A workers, workers in corresponding employment, or U.S. workers improperly rejected for employment, or improperly laid off or displaced, by issuing a Notice of Debarment.
 
-(a) *Debarment of an employer, agent, or attorney.* The WHD Administrator may debar an employer, agent, or attorney, or any successor in interest to that employer, agent, or attorney from participating in any action under 8 U.S.C. 1188, 20 CFR part 655, subpart B, or this part, subject to the time limits set forth in paragraph (c) of this section, if the WHD Administrator finds that the employer, agent, or attorney substantially violated a material term or condition of the temporary agricultural labor certification, with respect to H-2A workers, workers in corresponding employment, or U.S. workers improperly rejected for employment, or improperly laid off or displaced, by issuing a Notice of Debarment.
+(b) *Effect on future applications.* (1) No application for H-2A workers may be filed by or on behalf of a debarred employer, or by an employer represented by a debarred agent or attorney, subject to the time limits set forth in paragraph (c)(2) of this section. If such an application is filed, it will be denied without review.
 
-(b) *Effect on future applications.* No application for H-2A workers may be filed by a debarred employer, or any successor in interest to a debarred employer, or by an employer represented by a debarred agent or attorney, or by any successor in interest to any debarred agent or attorney, subject to the time limits set forth in paragraph (c) of this section. If such an application is filed, it will be denied without review.
+(2) No application for H-2A workers may be filed by or on behalf of a successor in interest, as defined in 20 CFR 655.104, to a debarred employer, agent, or attorney, subject to the term limits set forth in paragraph (c)(2) of this section. If the CO determines that such an application is filed, the CO will issue a Notice of Deficiency (NOD) pursuant to 20 CFR 655.141 or deny the application pursuant to 20 CFR 655.164, as appropriate depending upon the status of the *Application for Temporary Employment Certification,* solely on the basis that the entity is a successor in interest to a debarred employer, agent, or attorney. The employer, agent, or attorney may appeal its status as a successor in interest to the debarred entity, pursuant to the procedures for appeals of CO determinations at 20 CFR 655.171.
 
 (c) *Statute of limitations and period of debarment.* (1) The WHD Administrator must issue any Notice of Debarment not later than 2 years after the occurrence of the violation.
 
@@ -28,7 +28,7 @@ Link to an amendment published at 89 FR 34068, Apr. 29, 2024.
 
 (vii) Employing an H-2A worker outside the area of intended employment, or in an activity/activities not listed in the job order or outside the validity period of employment of the job order, including any approved extension thereof;
 
-(viii) A violation of the requirements of 20 CFR 655.135(j) or (k);
+(viii) A violation of the requirements of 20 CFR 655.135(j), (k), or (o);
 
 (ix) A violation of any of the provisions listed in § 501.4(a); or
 
@@ -51,3 +51,7 @@ Link to an amendment published at 89 FR 34068, Apr. 29, 2024.
 (2) Failed to cooperate with a DOL investigation or with a DOL official performing an investigation, inspection, or law enforcement function under 8 U.S.C. 1188, 20 CFR part 655, subpart B, or this part; or
 
 (3) Failed to comply with one or more sanctions or remedies imposed by WHD, or with one or more decisions or orders of the Secretary or a court order secured by the Secretary under 8 U.S.C. 1188, 20 CFR part 655, subpart B, or this part.
+
+(j) *Successors in interest.* When an employer, agent, or attorney is debarred under this section, any successor in interest to the debarred employer, agent, or attorney is also debarred, regardless of whether the successor is named or not named in the notice of debarment issued under paragraph (a) of this section.
+
+[87 FR 61822, Oct. 12, 2022, as amended at 89 FR 34068, Apr. 29, 2024]

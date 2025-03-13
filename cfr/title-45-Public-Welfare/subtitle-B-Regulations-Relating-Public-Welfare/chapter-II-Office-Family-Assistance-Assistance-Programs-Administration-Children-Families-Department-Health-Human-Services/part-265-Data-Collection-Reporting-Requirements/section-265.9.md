@@ -1,5 +1,7 @@
 ##### § 265.9 What information must the State file annually? #####
 
+Link to an amendment published at 89 FR 53877, June 28, 2024.
+
 (a) Each State must file an annual report containing information on the TANF program and the State's MOE program(s) for that year. The report may be filed as:
 
 (1) An addendum to the fourth quarter TANF Data Report; or

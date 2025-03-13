@@ -1,10 +1,14 @@
 ##### § 655.130 Application filing requirements. #####
 
-Link to an amendment published at 89 FR 34062, Apr. 29, 2024.
-
 All employers who desire to hire H-2A foreign agricultural workers must apply for a certification from the Secretary by filing an *Application for Temporary Employment Certification* with the NPC designated by the OFLC Administrator. This section provides the procedures employers must follow when filing.
 
-(a) *What to file.* An employer that desires to apply for temporary agricultural labor certification of one or more nonimmigrant workers must file a completed *Application for Temporary Employment Certification,* all supporting documentation and information required at the time of filing under §§ 655.131 through 655.135, and, unless a specific exemption applies, a copy of Form ETA-790/790A, submitted as set forth in § 655.121(a). The *Application for Temporary Employment Certification* must include a valid FEIN as well as a valid place of business (physical location) in the United States and a means by which it may be contacted for employment.
+(a) *What to file.* (1) An employer that desires to apply for temporary agricultural labor certification of one or more nonimmigrant workers must file a completed *Application for Temporary Employment Certification,* all supporting documentation and information required at the time of filing under §§ 655.131 through 655.137, and, unless a specific exemption applies, a copy of Form ETA-790/790A, submitted as set forth in § 655.121(a).
+
+(2) The *Application for Temporary Employment Certification* must include the employer's legal name, trade name(s), and a valid FEIN as well as a valid place of business (physical location) in the United States and a means by which it may be contacted by prospective U.S. applicants for employment. For each employer of any H-2A worker sponsored under the *Application for Temporary Employment Certification* or any worker in corresponding employment, the *Application for Temporary Employment Certification* must include the identity, location, and contact information of all persons who are the owners of that entity.
+
+(3) For each place of employment identified in the job order, the *Application for Temporary Employment Certification* must include the identity, location, and contact information of all persons and entities, if different than the employer(s), who are the operators of the place of employment, and of all persons who manage or supervise any H-2A worker sponsored under the *Application for Temporary Employment Certification* or any worker in corresponding employment, regardless of whether those managers or supervisors are employed by the employer or another entity.
+
+(4) If the information specified in paragraphs (a)(2) and (3) of this section changes during the work contract period, the employer must update its records to reflect the change. The employer must continue to keep this information up to date until the end of the work contract period, including any extensions. The employer must retain the updated information in accordance with § 655.167(c)(9) and must make this updated information available in the event of a post-certification audit or upon request by the Department. The Department may share the information it receives from employers with any other Federal agency, as appropriate for investigative or enforcement purpose, as set forth in paragraph (f) of this section.
 
 (b) *Timeliness.* A completed *Application for Temporary Employment Certification* must be filed no less than 45 calendar days before the employer's first date of need.
 
@@ -21,3 +25,5 @@ All employers who desire to hire H-2A foreign agricultural workers must apply fo
 (2) An employer may file only one *Application for Temporary Employment Certification* covering the same area of intended employment, period of employment, and occupation or comparable work to be performed.
 
 (f) *Information dissemination.* Information received in the course of processing *Applications for Temporary Employment Certification* or in the course of conducting program integrity measures such as audits may be forwarded from OFLC to WHD or any other Federal agency, as appropriate, for investigative or enforcement purposes.
+
+[87 FR 61791, Oct. 12, 2022, as amended at 89 FR 34062, Apr. 29, 2024]

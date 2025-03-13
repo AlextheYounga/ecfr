@@ -1,5 +1,7 @@
 ##### § 265.1 What does this part cover? #####
 
+Link to an amendment published at 89 FR 53876, June 28, 2024.
+
 (a) This part explains how we will collect the information required by section 411(a) of the Act (data collection and reporting); the information required to implement section 407 of the Act (work participation requirements), as authorized by section 411(a)(1)(A)(xii); the information required to implement section 409 (penalties), section 403 (grants to States), section 405 (administrative provisions), section 411(b) (report to Congress), and section 413 (annual rankings of State TANF programs); and the data necessary to carry out our financial management and oversight responsibilities.
 
 (b) This part describes the information in the quarterly and annual reports that each State must file, as follows:1

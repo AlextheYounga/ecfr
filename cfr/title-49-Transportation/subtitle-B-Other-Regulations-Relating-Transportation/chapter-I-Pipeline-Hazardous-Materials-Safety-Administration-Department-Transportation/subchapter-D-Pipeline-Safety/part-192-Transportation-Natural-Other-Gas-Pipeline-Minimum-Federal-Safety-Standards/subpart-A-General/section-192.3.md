@@ -1,7 +1,5 @@
 ##### § 192.3 Definitions. #####
 
-Link to an amendment published at 89 FR 33279, Apr. 29, 2024.
-
 As used in this part:
 
 *Abandoned* means permanently removed from service.
@@ -65,6 +63,8 @@ As used in this part:
 *Low-pressure distribution system* means a distribution system in which the gas pressure in the main is substantially the same as the pressure provided to the customer.
 
 *Main* means a distribution line that serves as a common source of supply for more than one service line.
+
+*Master Meter System* means a pipeline system for distributing gas within, but not limited to, a definable area (such as a mobile home park, housing project, or apartment complex) where the operator purchases metered gas from an outside source for resale through a gas distribution pipeline system. The gas distribution pipeline system supplies the ultimate consumer who either purchases the gas directly through a meter or by other means, such as by rents.
 
 *Maximum actual operating pressure* means the maximum pressure that occurs during normal operations over a period of 1 year.
 

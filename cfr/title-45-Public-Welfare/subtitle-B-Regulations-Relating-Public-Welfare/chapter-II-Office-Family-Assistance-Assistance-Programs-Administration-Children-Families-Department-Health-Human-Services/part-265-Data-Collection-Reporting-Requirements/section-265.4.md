@@ -1,5 +1,7 @@
 ##### § 265.4 When are quarterly reports due? #####
 
+Link to an amendment published at 89 FR 53877, June 28, 2024.
+
 (a) Each State must file the TANF Data Report and the TANF Financial Report (or, as applicable, the Territorial Financial Report) within 45 days following the end of the quarter or be subject to a penalty.
 
 (b) Each State that claims MOE expenditures for a separate State program(s) must file the SSP-MOE Data Report within 45 days following the end of the quarter or be subject to a penalty.

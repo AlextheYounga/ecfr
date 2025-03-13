@@ -1,7 +1,5 @@
 ##### § 655.132 H-2A labor contractor filing requirements. #####
 
-Link to an amendment published at 89 FR 34062, Apr. 29, 2024.
-
 An H-2A labor contractor (H-2ALC) must meet all of the requirements of the definition of *employer* in § 655.103(b) and comply with all the assurances, guarantees, and other requirements contained in this part, including § 655.135, and in part 653, subpart F, of this chapter. The H-2ALC must include in or with its *Application for Temporary Employment Certification* at the time of filing the following:
 
 (a) The name and location of each fixed-site agricultural business to which the H-2ALC expects to provide H-2A workers, the expected beginning and ending dates when the H-2ALC will be providing the workers to each fixed site, and a description of the crops and activities the workers are expected to perform at such fixed site.
@@ -34,6 +32,8 @@ An H-2A labor contractor (H-2ALC) must meet all of the requirements of the defin
 
 (e) Where the fixed-site agricultural business will provide housing or transportation to the workers, proof that:
 
-(1) All housing used by workers and owned, operated, or secured by the fixed-site agricultural business complies with the applicable standards as set forth in § 655.122(d) and certified by the SWA; and
+(1) All housing used by workers and owned, operated, or secured by the fixed-site agricultural business complies with the applicable standards as set forth in § 655.122(d) and certified by the SWA and that the fixed-site agricultural business has agreed to comply with the requirements at § 655.135(n); and
 
 (2) All transportation between all places of employment and the workers' living quarters that is provided by the fixed-site agricultural business complies with all applicable local, State, or Federal laws and regulations and must provide, at a minimum, the same vehicle safety standards, driver licensure, and vehicle insurance as required under 29 U.S.C. 1841 and 29 CFR 500.104 or 500.105 and 500.120 through 500.128, except where workers' compensation is used to cover such transportation as described in § 655.122(h).
+
+[87 FR 61791, Oct. 12, 2022, as amended at 89 FR 34062, Apr. 29, 2024]

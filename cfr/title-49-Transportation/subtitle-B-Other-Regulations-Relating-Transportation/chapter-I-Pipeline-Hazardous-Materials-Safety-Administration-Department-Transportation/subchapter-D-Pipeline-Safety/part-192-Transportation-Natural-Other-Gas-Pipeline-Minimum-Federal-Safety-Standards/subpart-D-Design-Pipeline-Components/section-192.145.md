@@ -1,8 +1,6 @@
 ##### § 192.145 Valves. #####
 
-Link to an amendment published at 89 FR 33281, Apr. 29, 2024.
-
-(a) Except for cast iron and plastic valves, each valve must meet the minimum requirements of ANSI/API Spec 6D (incorporated by reference, *see* § 192.7), or to a national or international standard that provides an equivalent performance level. A valve may not be used under operating conditions that exceed the applicable pressure-temperature ratings contained in those requirements.
+(a) Except for cast iron and plastic valves, each valve must meet the minimum requirements of API Spec 6D (incorporated by reference, *see* § 192.7), or to a national or international standard that provides an equivalent performance level. A valve may not be used under operating conditions that exceed the applicable pressure-temperature ratings contained in those requirements.
 
 (b) Each cast iron and plastic valve must comply with the following:
 
@@ -28,4 +26,4 @@ Link to an amendment published at 89 FR 33281, Apr. 29, 2024.
 
 (f) Except for excess flow valves, plastic valves installed after January 22, 2019, must meet the minimum requirements of a listed specification. A valve may not be used under operating conditions that exceed the applicable pressure and temperature ratings contained in the listed specification.
 
-[35 FR 13257, Aug. 19, 1970, as amended by Amdt. 192-62, 54 FR 5628, Feb. 6, 1989; Amdt. 192-85, 63 FR 37502, July 13, 1998; Amdt. 192-94, 69 FR 32894, June 14, 2004; Amdt. 192-114, 75 FR 48603, Aug. 11, 2010; Amdt. 192-119, 80 FR 181, Jan. 5, 2015; Amdt. 192-124, 83 FR 58717, Nov. 20, 2018]
+[35 FR 13257, Aug. 19, 1970, as amended by Amdt. 192-62, 54 FR 5628, Feb. 6, 1989; Amdt. 192-85, 63 FR 37502, July 13, 1998; Amdt. 192-94, 69 FR 32894, June 14, 2004; Amdt. 192-114, 75 FR 48603, Aug. 11, 2010; Amdt. 192-119, 80 FR 181, Jan. 5, 2015; Amdt. 192-124, 83 FR 58717, Nov. 20, 2018; Amdts. 192-135, 195-107, 89 FR 33281, Apr. 29, 2024]

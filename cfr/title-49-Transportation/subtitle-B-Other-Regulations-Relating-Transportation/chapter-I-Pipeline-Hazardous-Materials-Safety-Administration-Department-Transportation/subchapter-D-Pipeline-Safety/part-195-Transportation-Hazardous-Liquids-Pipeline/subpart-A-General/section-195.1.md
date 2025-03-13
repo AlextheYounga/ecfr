@@ -1,7 +1,5 @@
 ##### § 195.1 Which pipelines are covered by this Part? #####
 
-Link to an amendment published at 89 FR 33282, Apr. 29, 2024.
-
 (a) *Covered.* Except for the pipelines listed in paragraph (b) of this Section, this Part applies to pipeline facilities and the transportation of hazardous liquids or carbon dioxide associated with those facilities in or affecting interstate or foreign commerce, including pipeline facilities on the Outer Continental Shelf (OCS). Covered pipelines include, but are not limited to:
 
 (1) Any pipeline that transports a highly volatile liquid;
@@ -54,6 +52,6 @@ Link to an amendment published at 89 FR 33282, Apr. 29, 2024.
 
 (ii) The connection of the first branch pipeline in the production field where the pipeline transports carbon dioxide to an injection well or to a header or manifold from which a pipeline branches to an injection well.
 
-(c) *Breakout tanks.* Breakout tanks subject to this Part must comply with requirements that apply specifically to breakout tanks and, to the extent applicable, with requirements that apply to pipeline systems and pipeline facilities. If a conflict exists between a requirement that applies specifically to breakout tanks and a requirement that applies to pipeline systems or pipeline facilities, the requirement that applies specifically to breakout tanks prevails. Anhydrous ammonia breakout tanks need not comply with §§ 195.132(b), 195.205(b), 195.242(c) and (d), 195.264(b) and (e), 195.307, 195.428(c) and (d), and 195.432(b) and (c).
+(c) *Breakout tanks.* Breakout tanks that are subject to this part must comply with requirements that apply specifically to breakout tanks and, to the extent applicable, with requirements that apply to pipeline systems and pipeline facilities. If a conflict exists between a requirement that applies specifically to breakout tanks and a requirement that applies to pipeline systems or pipeline facilities, the requirement that applies specifically to breakout tanks prevails. Anhydrous ammonia breakout tanks need not comply with §§ 195.132(b); 195.205(b); 195.264(b) and (e); 195.307; 195.428(c) through (d); and 195.432(b) and (c).
 
 Editorial Note:For Federal Register citations affecting § 195.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

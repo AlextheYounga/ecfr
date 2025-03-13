@@ -1,8 +1,6 @@
 ##### § 195.58 Report submission requirements. #####
 
-Link to an amendment published at 89 FR 33284, Apr. 29, 2024.
-
-(a) *General.* Except as provided in paragraphs (b) and (e) of this section, an operator must submit each report required by this part electronically to PHMSA at *http://opsweb.phmsa.dot.gov* unless an alternative reporting method is authorized in accordance with paragraph (d) of this section.
+(a) *General.* Except as provided in paragraphs (b) and (e) of this section, an operator must submit each report required by this part electronically to PHMSA at *https://portal.phmsa.dot.gov* unless an alternative reporting method is authorized in accordance with paragraph (d) of this section.
 
 (b) *Exceptions:* An operator is not required to submit a safety-related condition report (§ 195.56) electronically.
 
@@ -12,4 +10,4 @@ Link to an amendment published at 89 FR 33284, Apr. 29, 2024.
 
 (e) *National Pipeline Mapping System (NPMS).* An operator must provide NPMS data to the address identified in the NPMS Operator Standards Manual available at *www.npms.phmsa.dot.gov* or by contacting the PHMSA Geographic Information Systems Manager at (202) 366-4595.
 
-[Amdt. 195-95, 75 FR 72907, Nov. 26, 2010, as amended by ; Amdt. 195-100, 80 FR 12780, Mar. 11, 2015]
+[Amdt. 195-95, 75 FR 72907, Nov. 26, 2010, as amended by Amdt. 195-100, 80 FR 12780, Mar. 11, 2015; Amdts. 192-135, 195-107, 89 FR 33284, Apr. 29, 2024]

@@ -1,7 +1,15 @@
 ##### § 658.503 Discontinuation of services. #####
 
-Link to an amendment published at 89 FR 34067, Apr. 29, 2024.
+(a) Within 20 working days of receipt of the employer's response to the SWA's notification under § 658.502(a), or at least 20 working days after the SWA's notification has been received by the employer if the SWA does not receive a response, the SWA must notify the employer in writing of its final determination. If the SWA determines that the employer did not provide a satisfactory response in accordance with § 658.502(a), the SWA's notification must specify the reasons for its determination and state that the discontinuation of services is effective 20 working days from the date of the notification. The notification must also state that the employer may request reinstatement or appeal the determination by requesting a hearing pursuant to § 658.504, and that a request for a hearing stays the discontinuation pending the outcome of the hearing. If the employer does not request a hearing, the SWA must also notify the ETA Office of Workforce Investment of any final determination to discontinue ES services within 10 working days of the date the determination becomes effective.
 
-(a) If the employer does not provide a satisfactory response in accordance with § 658.502, within 20 working days, or has not requested a hearing, the SWA must immediately terminate services to the employer.
+(b) Where the SWA discontinues services immediately under § 658.502(b), the SWA's written notification must specify the facts supporting the applicable basis for discontinuation under § 658.501(a), the reasons that exhaustion of the administrative procedures would cause substantial harm to workers, and that services are discontinued as of the date of the notification. The notification must also state that the employer may request reinstatement or appeal the determination by requesting a hearing pursuant to § 658.504, and that a request for a hearing relating to immediate discontinuation does not stay the discontinuation pending the outcome of the hearing. Within 10 working days of the date of issuance, the SWA must also notify the ETA Office of Workforce Investment of any determination to immediately discontinue ES services.
 
-(b) If services are discontinued to an employer subject to Federal Contractor Job Listing Requirements, the SWA must notify the ETA regional office immediately.
+(c) If the SWA discontinues services to an employer that is subject to Federal Contractor Job Listing Requirements, the SWA must notify the ETA regional office immediately.
+
+(d) If the SWA discontinues services to an employer based on a complaint filed pursuant to § 658.411, the SWA must notify the complainant of the employer's discontinuation of services.
+
+(e) If the SWA discontinues services to an employer, the employer cannot participate in or receive Wagner-Peyser Act ES Services provided by the ES, including by any SWA, to employers pursuant to parts 652 and 653 of this chapter. From the date of discontinuance, the SWA that issued the determination must remove the employer's active job orders from the clearance system. No SWA may process any future job orders from the employer or provide any other services pursuant to parts 652 and 653 of this chapter to the employer unless services have been reinstated under § 658.504.
+
+(f) SWAs must continue to provide the full range of ES and other appropriate services to workers whose employers experience discontinuation of services under this subpart.
+
+[89 FR 34067, Apr. 29, 2024]

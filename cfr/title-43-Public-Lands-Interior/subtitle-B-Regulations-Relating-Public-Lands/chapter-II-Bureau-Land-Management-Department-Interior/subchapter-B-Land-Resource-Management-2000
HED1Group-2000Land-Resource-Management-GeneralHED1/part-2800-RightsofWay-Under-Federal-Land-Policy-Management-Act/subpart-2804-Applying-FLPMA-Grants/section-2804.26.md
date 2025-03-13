@@ -1,6 +1,6 @@
 ##### § 2804.26 Under what circumstances may BLM deny my application? #####
 
-Link to an amendment published at 89 FR 35679, May 1, 2024.
+Link to an amendment published at 89 FR 35679, May 1, 2024.Link to a correction published at 89 FR 53870, June 28, 2024.
 
 (a) BLM may deny your application if:
 

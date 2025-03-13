@@ -1,5 +1,7 @@
 ##### § 265.2 What definitions apply to this part? #####
 
+Link to an amendment published at 89 FR 53876, June 28, 2024.
+
 (a) Except as provided in paragraph (b) of this section, the general TANF definitions at §§ 260.30 through 260.33 and the definitions of a work-eligible individual and the work activities in § 261.2 of this chapter apply to this part.
 
 (b) For data collection and reporting purposes only, family means:

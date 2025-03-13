@@ -1,6 +1,6 @@
 ##### § 2805.11 What does a grant contain? #####
 
-Link to an amendment published at 89 FR 35679, May 1, 2024.
+Link to an amendment published at 89 FR 35679, May 1, 2024.Link to a correction published at 89 FR 53870, June 28, 2024.
 
 The grant states what your rights are on the lands subject to the grant and contains information about:
 

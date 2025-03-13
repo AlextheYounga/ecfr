@@ -1,3 +1,11 @@
 ##### § 655.137 Disclosure of foreign worker recruitment. #####
 
-Link to an amendment published at 89 FR 34063, Apr. 29, 2024.Processing of Applications for Temporary Employment Certification
+(a) If the employer engages or plans to engage an agent or foreign labor recruiter, directly or indirectly, in international recruitment, the employer, and its attorney or agent, as applicable, must provide copies of all contracts and agreements with any agent and/or recruiter, executed in connection with the job opportunity, as specified in § 655.135(p). These agreements must contain the contractual prohibition against charging fees as set forth in § 655.135(k).
+
+(b) The employer, and its attorney or agent, as applicable, must provide all recruitment-related information required in the *Application for Temporary Employment Certification,* as defined in § 655.103(b), which includes the identity and location of all persons and entities hired by or working for the recruiter or agent, and any of the agents or employees of those persons and entities, to recruit prospective foreign workers for the H-2A job opportunity.
+
+(c) The employer must continue to keep the foreign labor recruiter information referenced in paragraphs (a) and (b) of this section up to date until the end of the work contract period. The employer must retain the updated information in accordance with § 655.167(c)(8) and must make this updated information available in the event of a post-certification audit or upon request by the Department. The Department may share the foreign worker recruitment information it receives from employers with any other Federal agency, as appropriate for investigative or enforcement purpose, as set forth in § 655.130(f).
+
+(d) The Department of Labor will maintain a publicly available list of agents and recruiters (including government registration numbers, if any) who are party to the agreements employers submit, as well as the persons and entities the employer identified as hired by or working for the recruiter and the locations in which they are operating.
+
+[89 FR 34063, Apr. 29, 2024]Processing of Applications for Temporary Employment Certification

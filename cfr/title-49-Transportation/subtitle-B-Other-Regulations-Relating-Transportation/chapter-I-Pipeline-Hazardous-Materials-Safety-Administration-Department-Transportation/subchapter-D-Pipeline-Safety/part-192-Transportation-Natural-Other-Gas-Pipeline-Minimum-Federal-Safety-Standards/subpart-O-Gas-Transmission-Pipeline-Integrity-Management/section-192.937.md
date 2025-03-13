@@ -1,7 +1,5 @@
 ##### § 192.937 What is a continual process of evaluation and assessment to maintain a pipeline's integrity? #####
 
-Link to an amendment published at 89 FR 33282, Apr. 29, 2024.
-
 (a) *General.* After completing the baseline integrity assessment of a covered segment, an operator must continue to assess the line pipe of that segment at the intervals specified in § 192.939 and periodically evaluate the integrity of each covered pipeline segment as provided in paragraph (b) of this section. An operator must reassess a covered segment on which a prior assessment is credited as a baseline under § 192.921(e) by no later than December 17, 2009. An operator must reassess a covered segment on which a baseline assessment is conducted during the baseline period specified in § 192.921(d) by no later than seven years after the baseline assessment of that covered segment unless the evaluation under paragraph (b) of this section indicates earlier reassessment.
 
 (b) *Evaluation.* An operator must conduct a periodic evaluation as frequently as needed to assure the integrity of each covered segment. The periodic evaluation must be based on a data integration and risk assessment of the entire pipeline as specified in § 192.917. For plastic transmission pipelines, the periodic evaluation is based on the threat analysis specified in 192.917(d). For all other transmission pipelines, the evaluation must consider the past and present integrity assessment results, data integration and risk assessment information (§ 192.917), and decisions about remediation (§ 192.933) and additional preventive and mitigative actions (§ 192.935). An operator must use the results from this evaluation to identify the threats specific to each covered segment and the risk represented by these threats.
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 33282, Apr. 29, 2024.
 
 (iii) Analyze and account for uncertainties in reported results (*e.g.,* tool tolerance, detection threshold, probability of detection, probability of identification, sizing accuracy, conservative anomaly interaction criteria, location accuracy, anomaly findings, and unity chart plots or equivalent for determining uncertainties and verifying actual tool performance) in identifying and characterizing anomalies.
 
-(2) *Pressure test conducted in accordance with subpart J of this part.* The use of pressure testing is appropriate for threats such as: Internal corrosion; external corrosion and other environmentally assisted corrosion mechanisms; manufacturing and related defects threats, including defective pipe and pipe seams; stress corrosion cracking; selective seam weld corrosion; dents; and other forms of mechanical damage. An operator must use the test pressures specified in table 3 of section 5 of ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7) to justify an extended reassessment interval in accordance with § 192.939.
+(2) *Pressure test conducted in accordance with subpart J of this part.* The use of pressure testing is appropriate for threats such as: Internal corrosion; external corrosion and other environmentally assisted corrosion mechanisms; manufacturing and related defects threats, including defective pipe and pipe seams; stress corrosion cracking; selective seam weld corrosion; dents; and other forms of mechanical damage. An operator must use the test pressures specified in Table 5.6.1-1 of section 5 of ASME B31.8S (incorporated by reference, *see* § 192.7) to justify an extended reassessment interval in accordance with § 192.939.
 
 (3) *Spike hydrostatic pressure test in accordance with § 192.506.* The use of spike hydrostatic pressure testing is appropriate for time-dependent threats such as: Stress corrosion cracking; selective seam weld corrosion; manufacturing and related defects, including defective pipe and pipe seams; and other forms of defect or damage involving cracks or crack-like defects;
 
@@ -32,4 +30,4 @@ Link to an amendment published at 89 FR 33282, Apr. 29, 2024.
 
 (d) *MAOP reconfirmation assessments.* An integrity assessment conducted in accordance with the requirements of § 192.624(c) may be used as a reassessment under this section.
 
-[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18234, Apr. 6, 2004; Amdt. 192-125, 84 FR 52254, Oct. 1, 2019]
+[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18234, Apr. 6, 2004; Amdt. 192-125, 84 FR 52254, Oct. 1, 2019; Amdts. 192-135, 195-107, 89 FR 33282, Apr. 29, 2024]

@@ -1,12 +1,10 @@
 ##### § 192.714 Transmission lines: Repair criteria for onshore transmission pipelines. #####
 
-Link to an amendment published at 89 FR 33281, Apr. 29, 2024.
-
 (a) *Applicability.* This section applies to onshore transmission pipelines not subject to the repair criteria in subpart O of this part, and which do not operate under an alternative MAOP in accordance with §§ 192.112, 192.328, and 192.620. Pipeline segments that are located in high consequence areas, as defined in § 192.903, must comply with the applicable actions specified by the integrity management requirements in subpart O. Pipeline segments operating under an alternative MAOP in accordance with §§ 192.112, 192.328, and 192.620 must comply with § 192.620(d)(11).
 
 (b) *General.* Each operator must, in repairing its pipeline systems, ensure that the repairs are made in a safe manner and are made to prevent damage to persons, property, and the environment. A pipeline segment's operating pressure must be less than the predicted failure pressure determined in accordance with § 192.712 during repair operations. Repairs performed in accordance with this section must use pipe and material properties that are documented in traceable, verifiable, and complete records. If documented data required for any analysis, including predicted failure pressure for determining MAOP, is not available, an operator must obtain the undocumented data through § 192.607. Until documented material properties are available, the operator must use the conservative assumptions in either § 192.712(e)(2) or, if appropriate following a pressure test, in § 192.712(d)(3).
 
-(c) *Schedule for evaluation and remediation.* An operator must remediate conditions according to a schedule that prioritizes the conditions for evaluation and remediation. Unless paragraph (d) of this section provides a special requirement for remediating certain conditions, an operator must calculate the predicted failure pressure of anomalies or defects and follow the schedule in ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7), section 7, Figure 4. If an operator cannot meet the schedule for any condition, the operator must document the reasons why it cannot meet the schedule and how the changed schedule will not jeopardize public safety. Each condition that meets any of the repair criteria in paragraph (d) of this section in an onshore steel transmission pipeline must be—
+(c) *Schedule for evaluation and remediation.* An operator must remediate conditions according to a schedule that prioritizes the conditions for evaluation and remediation. Unless paragraph (d) of this section provides a special requirement for remediating certain conditions, an operator must calculate the predicted failure pressure of anomalies or defects and follow the schedule in ASME B31.8S (incorporated by reference, *see* § 192.7), . If an operator cannot meet the schedule for any condition, the operator must document the reasons why it cannot meet the schedule and how the changed schedule will not jeopardize public safety. Each condition that meets any of the repair criteria in paragraph (d) of this section in an onshore steel transmission pipeline must be—
 
 (1) Removed by cutting out and replacing a cylindrical piece of pipe that will permanently restore the pipeline's MAOP based on the use of § 192.105 and the design factors for the class location in which it is located; or
 
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 33281, Apr. 29, 2024.
 
 (d) *Remediation of certain conditions.* For onshore transmission pipelines not located in high consequence areas, an operator must remediate a listed condition according to the following criteria:
 
-(1) *Immediate repair conditions.* An operator's evaluation and remediation schedule for immediate repair conditions must follow section 7 of ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7). An operator must repair the following conditions immediately upon discovery:
+(1) *Immediate repair conditions.* An operator's evaluation and remediation schedule for immediate repair conditions must follow section 7 of ASME/ANSI B31.8S-2004 (incorporated by reference, *see* § 192.7). An operator must repair the following conditions immediately upon discovery:
 
 (i) Metal loss anomalies where a calculation of the remaining strength of the pipe at the location of the anomaly shows a predicted failure pressure, determined in accordance with § 192.712(b), of less than or equal to 1.1 times the MAOP.
 
@@ -42,7 +40,7 @@ Link to an amendment published at 89 FR 33281, Apr. 29, 2024.
 
 (iii) A dent located between the 4 o'clock and 8 o'clock positions (lower1/3 of the pipe) that has metal loss, cracking, or a stress riser, unless an engineering analysis performed in accordance with § 192.712(c) demonstrates critical strain levels are not exceeded.
 
-(iv) For metal loss anomalies, a calculation of the remaining strength of the pipe shows a predicted failure pressure, determined in accordance with § 192.712(b) at the location of the anomaly, of less than 1.39 times the MAOP for Class 2 locations, or less than 1.50 times the MAOP for Class 3 and 4 locations. For metal loss anomalies in Class 1 locations with a predicted failure pressure greater than 1.1 times MAOP, an operator must follow the remediation schedule specified in ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7), section 7, Figure 4, as specified in paragraph (c) of this section.
+(iv) For metal loss anomalies, a calculation of the remaining strength of the pipe shows a predicted failure pressure, determined in accordance with § 192.712(b) at the location of the anomaly, of less than 1.39 times the MAOP for Class 2 locations, or less than 1.50 times the MAOP for Class 3 and 4 locations. For metal loss anomalies in Class 1 locations with a predicted failure pressure greater than 1.1 times MAOP, an operator must follow the remediation schedule specified in ASME/ANSI B31.8S-2004 (incorporated by reference, *see* § 192.7), section 7, Figure 4, as specified in paragraph (c) of this section.
 
 (v) Metal loss that is located at a crossing of another pipeline, is in an area with widespread circumferential corrosion, or could affect a girth weld, and that has a predicted failure pressure, determined in accordance with § 192.712(b), less than 1.39 times the MAOP for Class 1 locations or where Class 2 locations contain Class 1 pipe that has been uprated in accordance with § 192.611, or less than 1.50 times the MAOP for all other Class 2 locations and all Class 3 and 4 locations.
 
@@ -84,4 +82,4 @@ Link to an amendment published at 89 FR 33281, Apr. 29, 2024.
 
 (h) *Determining predicted failure pressures and critical strain levels.* An operator must perform all determinations of predicted failure pressures and critical strain levels required by this section in accordance with § 192.712.
 
-[Amdt. 192-132, 87 FR 52711, Aug. 24, 2022, as amended by Amdt. 192-133, 88 FR 24712, Apr. 24, 2023]
+[Amdt. 192-132, 87 FR 52711, Aug. 24, 2022, as amended by Amdt. 192-133, 88 FR 24712, Apr. 24, 2023; Amdts. 192-135, 195-107, 89 FR 33281, Apr. 29, 2024]

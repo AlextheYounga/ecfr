@@ -1,5 +1,7 @@
 ##### § 265.7 How will we determine if the State is meeting the quarterly reporting requirements? #####
 
+Link to an amendment published at 89 FR 53877, June 28, 2024.
+
 (a) Each State's quarterly reports (the TANF Data Report, the TANF Financial Report (or Territorial Financial Report), and the SSP-MOE Data Report) must be complete and accurate and filed by the due date.
 
 (b) For a disaggregated data report, “a complete and accurate report” means that:

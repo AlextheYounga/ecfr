@@ -1,5 +1,7 @@
 ##### § 265.3 What reports must the State file on a quarterly basis? #####
 
+Link to an amendment published at 89 FR 53876, June 28, 2024.
+
 (a) *Quarterly reports.* (1) Each State must collect on a monthly basis, and file on a quarterly basis, the data specified in the TANF Data Report and the TANF Financial Report (or, as applicable, the Territorial Financial Report).
 
 (2) Each State that claims MOE expenditures for a separate State program(s) must collect on a monthly basis, and file on a quarterly basis, the data specified in the SSP-MOE Data Report.

@@ -1,13 +1,11 @@
 ##### § 195.428 Overpressure safety devices and overfill protection systems. #####
 
-Link to an amendment published at 89 FR 33284, Apr. 29, 2024.
-
 (a) Except as provided in paragraph (b) of this section, each operator shall, at intervals not exceeding 15 months, but at least once each calendar year, or in the case of pipelines used to carry highly volatile liquids, at intervals not to exceed 71/2 months, but at least twice each calendar year, inspect and test each pressure limiting device, relief valve, pressure regulator, or other item of pressure control equipment to determine that it is functioning properly, is in good mechanical condition, and is adequate from the standpoint of capacity and reliability of operation for the service in which it is used.
 
 (b) In the case of relief valves on pressure breakout tanks containing highly volatile liquids, each operator shall test each valve at intervals not exceeding 5 years.
 
-(c) Aboveground breakout tanks that are constructed or significantly altered according to API Std 2510 (incorporated by reference, *see* § 195.3) after October 2, 2000, must have an overfill protection system installed according to API Std 2510, section 7.1.2. Other aboveground breakout tanks with 600 gallons (2271 liters) or more of storage capacity that are constructed or significantly altered after October 2, 2000, must have an overfill protection system installed according to API RP 2350 (incorporated by reference, *see* § 195.3). However, an operator need not comply with any part of API RP 2350 for a particular breakout tank if the operator describes in the manual required by § 195.402 why compliance with that part is not necessary for safety of the tank.
+(c) Aboveground breakout tanks that are constructed or significantly altered according to API Std 2510 (incorporated by reference, *see* § 195.3) after October 2, 2000, must have an overfill protection system installed according to API Std 2510, section 7.1.2. Other aboveground breakout tanks with 600 gallons (2271 liters) or more of storage capacity that are constructed or significantly altered after October 2, 2000, must have an overfill protection system installed according to API Std 2350 (incorporated by reference, *see* § 195.3). However, an operator need not comply with any part of API Std 2350 for a particular breakout tank if the operator describes in the manual required by § 195.402 why compliance with that part is not necessary for safety of the tank.
 
 (d) After October 2, 2000, the requirements of paragraphs (a) and (b) of this section for inspection and testing of pressure control equipment apply to the inspection and testing of overfill protection systems.
 
-[Amdt. 195-22, 46 FR 38360, July 27, 1981, as amended by Amdt. 195-24, 47 FR 46852, Oct. 21, 1982; Amdt. 195-66, 64 FR 15936, Apr. 2, 1999, as amended by Amdt. 195-100, 80 FR 12780, Mar. 11, 2015]
+[Amdt. 195-22, 46 FR 38360, July 27, 1981, as amended by Amdt. 195-24, 47 FR 46852, Oct. 21, 1982; Amdt. 195-66, 64 FR 15936, Apr. 2, 1999, as amended by Amdt. 195-100, 80 FR 12780, Mar. 11, 2015; Amdts. 192-135, 195-107, 89 FR 33284, Apr. 29, 2024]

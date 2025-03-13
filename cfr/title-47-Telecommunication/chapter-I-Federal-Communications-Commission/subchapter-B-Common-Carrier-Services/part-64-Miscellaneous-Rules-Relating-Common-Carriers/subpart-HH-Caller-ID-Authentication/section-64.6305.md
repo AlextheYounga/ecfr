@@ -1,7 +1,5 @@
 ##### § 64.6305 Robocall mitigation and certification. #####
 
-Link to an amendment published at 88 FR 43459, July 10, 2023.
-
 (a) *Robocall mitigation program requirements for voice service providers.* (1) Each voice service provider shall implement an appropriate robocall mitigation program.
 
 (2) Any robocall mitigation program implemented pursuant to paragraph (a)(1) of this section shall include reasonable steps to avoid originating illegal robocall traffic and shall include a commitment to respond within 24 hours to all traceback requests from the Commission, law enforcement, and the industry traceback consortium, and to cooperate with such entities in investigating and stopping any illegal robocallers that use its service to originate calls.
@@ -26,9 +24,9 @@ Link to an amendment published at 88 FR 43459, July 10, 2023.
 
 (i) Identification of the type of extension or extensions the voice service provider received under § 64.6304, if the voice service provider is not a foreign voice service provider, and the basis for the extension or extensions, or an explanation of why it is unable to implement STIR/SHAKEN due to a lack of control over the network infrastructure necessary to implement STIR/SHAKEN;
 
-(ii) The specific reasonable steps the voice service provider has taken to avoid originating illegal robocall traffic as part of its robocall mitigation program, including a description of how it complies with its obligation to know its customers pursuant to § 64.1200(n)(3), any procedures in place to know its upstream providers, and the analytics system(s) it uses to identify and block illegal traffic, including whether it uses any third-party analytics vendor(s) and the name(s) of such vendor(s);
+(ii) The specific reasonable steps the voice service provider has taken to avoid originating illegal robocall traffic as part of its robocall mitigation program, including a description of how it complies with its obligation to know its customers pursuant to § 64.1200(n)(4), any procedures in place to know its upstream providers, and the analytics system(s) it uses to identify and block illegal traffic, including whether it uses any third-party analytics vendor(s) and the name(s) of such vendor(s);
 
-(iii) A statement of the voice service provider's commitment to respond fully and in a timely manner to all traceback requests from the Commission, law enforcement, and the industry traceback consortium, and to cooperate with such entities in investigating and stopping any illegal robocallers that use its service to originate calls; and
+(iii) A statement of the voice service provider's commitment to respond within 24 hours to all traceback requests from the Commission, law enforcement, and the industry traceback consortium, and to cooperate with such entities in investigating and stopping any illegal robocallers that use its service to originate calls; and
 
 (iv) State whether, at any time in the prior two years, the filing entity (and/or any entity for which the filing entity shares common ownership, management, directors, or control) has been the subject of a formal Commission, law enforcement, or regulatory agency action or investigation with accompanying findings of actual or suspected wrongdoing due to the filing entity transmitting, encouraging, assisting, or otherwise facilitating illegal robocalls or spoofing, or a deficient Robocall Mitigation Database certification or mitigation program description; and, if so, provide a description of any such action or investigation, including all law enforcement or regulatory agencies involved, the date that any action or investigation was commenced, the current status of the action or investigation, a summary of the findings of wrongdoing made in connection with the action or investigation, and whether any final determinations have been issued.
 
@@ -78,7 +76,7 @@ Link to an amendment published at 88 FR 43459, July 10, 2023.
 
 (i) Identification of the type of extension or extensions the gateway provider received under § 64.6304 and the basis for the extension or extensions, or an explanation of why it is unable to implement STIR/SHAKEN due to a lack of control over the network infrastructure necessary to implement STIR/SHAKEN;
 
-(ii) The specific reasonable steps the gateway provider has taken to avoid carrying or processing illegal robocall traffic as part of its robocall mitigation program, including a description of how it complies with its obligation to know its upstream providers pursuant to § 64.1200(n)(4), the analytics system(s) it uses to identify and block illegal traffic, and whether it uses any third-party analytics vendor(s) and the name(s) of such vendor(s);
+(ii) The specific reasonable steps the gateway provider has taken to avoid carrying or processing illegal robocall traffic as part of its robocall mitigation program, including a description of how it complies with its obligation to know its upstream providers pursuant to § 64.1200(n)(5), the analytics system(s) it uses to identify and block illegal traffic, and whether it uses any third-party analytics vendor(s) and the name(s) of such vendor(s);
 
 (iii) A statement of the gateway provider's commitment to respond fully and within 24 hours to all traceback requests from the Commission, law enforcement, and the industry traceback consortium, and to cooperate with such entities in investigating and stopping any illegal robocallers that use its service to carry or process calls; and
 
@@ -98,19 +96,17 @@ Link to an amendment published at 88 FR 43459, July 10, 2023.
 
 (iii) All business names previously used by the gateway provider;
 
-(iv) Whether the voice service provider is a foreign voice service provider;
+(iv) Whether the gateway provider or any affiliate is also foreign voice service provider;
 
 (v) The name, title, department, business address, telephone number, and email address of one person within the company responsible for addressing robocall mitigation-related issues;
 
-(vi) Whether the voice service provider is:
+(vi) Whether the gateway provider is:
 
-(A) A voice service provider with a STIR/SHAKEN implementation obligation directly serving end users;
+(A) A gateway provider with a STIR/SHAKEN implementation obligation; or
 
-(B) A voice service provider with a STIR/SHAKEN implementation obligation acting as a wholesale provider originating calls on behalf of another provider or providers; or
+(B) A gateway provider without a STIR/SHAKEN implementation obligation; and
 
-(C) A voice service provider without a STIR/SHAKEN implementation obligation; and
-
-(vii) The voice service provider's OCN, if it has one.
+(vii) The gateway provider's OCN, if it has one.
 
 (5) A gateway provider shall update its filings within 10 business days to the information it must provide pursuant to paragraphs (e)(1) through (4) of this section, subject to the conditions set forth in paragraphs (d)(5)(i) and (ii) of this section.
 
@@ -128,7 +124,7 @@ Link to an amendment published at 88 FR 43459, July 10, 2023.
 
 (ii) The specific reasonable steps the non-gateway intermediate provider has taken to avoid carrying or processing illegal robocall traffic as part of its robocall mitigation program, including a description of any procedures in place to know its upstream providers and the analytics system(s) it uses to identify and block illegal traffic, including whether it uses any third-party analytics vendor(s) and the name of such vendor(s);
 
-(iii) A statement of the non-gateway intermediate provider's commitment to respond fully and in a timely manner to all traceback requests from the Commission, law enforcement, and the industry traceback consortium, and to cooperate with such entities in investigating and stopping any illegal robocallers that use its service to carry or process calls; and
+(iii) A statement of the non-gateway intermediate provider's commitment to respond within 24 hours to all traceback requests from the Commission, law enforcement, and the industry traceback consortium, and to cooperate with such entities in investigating and stopping any illegal robocallers that use its service to carry or process calls; and
 
 (iv) State whether, at any time in the prior two years, the filing entity (and/or any entity for which the filing entity shares common ownership, management, directors, or control) has been the subject of a formal Commission, law enforcement, or regulatory agency action or investigation with accompanying findings of actual or suspected wrongdoing due to the filing entity transmitting, encouraging, assisting, or otherwise facilitating illegal robocalls or spoofing, or a deficient Robocall Mitigation Database certification or mitigation program description; and, if so, provide a description of any such action or investigation, including all law enforcement or regulatory agencies involved, the date that any action or investigation was commenced, the current status of the action or investigation, a summary of the findings of wrongdoing made in connection with the action or investigation, and whether any final determinations have been issued.
 

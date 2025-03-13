@@ -1,5 +1,7 @@
 ##### § 265.5 May States use sampling? #####
 
+Link to an amendment published at 89 FR 53877, June 28, 2024.
+
 (a) Each State may report the disaggregated data in the TANF Data Report and the SSP-MOE Data Report on all recipient families or on a sample of families selected through the use of a scientifically acceptable sampling method that we have approved. States may use sampling to generate certain aggregated data elements as identified in the instructions to the reports. States may not use sampling to report expenditure data.
 
 (b) “Scientifically acceptable sampling method” means:

@@ -1,8 +1,6 @@
 ##### § 192.911 What are the elements of an integrity management program? #####
 
-Link to an amendment published at 89 FR 33282, Apr. 29, 2024.
-
-An operator's initial integrity management program begins with a framework (*see* § 192.907) and evolves into a more detailed and comprehensive integrity management program, as information is gained and incorporated into the program. An operator must make continual improvements to its program. The initial program framework and subsequent program must, at minimum, contain the following elements. (When indicated, refer to ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7) for more detailed information on the listed element.)
+An operator's initial integrity management program begins with a framework (*see* § 192.907) and evolves into a more detailed and comprehensive integrity management program, as information is gained and incorporated into the program. An operator must make continual improvements to its program. The initial program framework and subsequent program must, at minimum, contain the following elements. (When indicated, refer to ASME B31.8S (incorporated by reference, *see* § 192.7) for more detailed information on the listed element.)
 
 (a) An identification of all high consequence areas, in accordance with § 192.905.
 
@@ -20,15 +18,15 @@ An operator's initial integrity management program begins with a framework (*see
 
 (h) Provisions meeting the requirements of § 192.935 for adding preventive and mitigative measures to protect the high consequence area.
 
-(i) A performance plan as outlined in ASME/ANSI B31.8S, section 9 that includes performance measures meeting the requirements of § 192.945.
+(i) A performance plan as outlined in ASME B31.8S, section 9 that includes performance measures meeting the requirements of § 192.945.
 
 (j) Record keeping provisions meeting the requirements of § 192.947.
 
 (k) A management of change process as required by § 192.13(d).
 
-(l) A quality assurance process as outlined in ASME/ANSI B31.8S, section 12.
+(l) A quality assurance process as outlined in ASME B31.8S, section 12.
 
-(m) A communication plan that includes the elements of ASME/ANSI B31.8S, section 10, and that includes procedures for addressing safety concerns raised by—
+(m) A communication plan that includes the elements of ASME B31.8, Paragraph 850.9 (incorporated by reference, *see* § 192.7), and that includes procedures for addressing safety concerns raised by—
 
 (1) OPS; and
 
@@ -44,4 +42,4 @@ An operator's initial integrity management program begins with a framework (*see
 
 (p) A process for identification and assessment of newly-identified high consequence areas. (*See* § 192.905 and § 192.921.)
 
-[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18231, Apr. 6, 2004; Amdt. 192-132, 87 FR 52273, Aug. 24, 2022]
+[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18231, Apr. 6, 2004; Amdt. 192-132, 87 FR 52273, Aug. 24, 2022; Amdts. 192-135, 195-107, 89 FR 33282, Apr. 29, 2024]
