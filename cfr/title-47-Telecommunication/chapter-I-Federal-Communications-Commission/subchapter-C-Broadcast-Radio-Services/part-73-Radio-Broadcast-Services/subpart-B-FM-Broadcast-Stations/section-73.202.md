@@ -1,7 +1,5 @@
 ##### § 73.202 Table of Allotments. #####
 
-Link to an amendment published at 88 FR 90127, Dec. 29, 2023.
-
 (a) *General.* The following Table of Allotments contains the channels (other than noncommercial educational Channels 201-220) designated for use in communities in the United States, its territories, and possessions, and not currently assigned to a licensee or permittee or subject to a pending application for construction permit or license. All listed channels are for Class B stations in Zones I and I-A and for Class C stations in Zone II unless otherwise specifically designated. Channels to which licensed, permitted, and “reserved” facilities have been assigned are reflected in the Media Bureau's publicly available Consolidated Data Base System.
 
 (1) Channels designated with an asterisk may be used only by noncommercial educational broadcast stations. The rules governing the use of those channels are contained in part 73, subpart C of this chapter. An entity that would be eligible to operate a noncommercial educational broadcast station can, in conjunction with an initial petition for rulemaking filed pursuant to part 1, subpart C of this chapter, request that a nonreserved FM channel (channels 221 through 300) be allotted as reserved only for noncommercial educational broadcasting by demonstrating the following:
@@ -227,7 +225,6 @@ Table 1 to Paragraph (b)
 |    SOUTH DAKOTA    |                         |
 |      Edgemont      |          289C1          |
 |     TENNESSEE      |                         |
-|                    |                         |
 |     Englewood      |          250A           |
 |       TEXAS        |                         |
 |       Albany       |          255A           |
@@ -330,6 +327,7 @@ Table 1 to Paragraph (b)
 |      Crandon       |          276A           |
 |      Hayward       |          232C2          |
 |       Laona        |          272C3          |
+|  Lac Du Flambeau   |          225A           |
 |    New Holstein    |          258A           |
 |      Tomahawk      |          265C3          |
 |      WYOMING       |                         |
@@ -349,7 +347,7 @@ Table 1 to Paragraph (b)
 |       Rozet        |          256C3          |
 |     Wamsutter      |          285A           |
 |     Wheatland      |       286A, 293A        |
-|  U.S. Territories  |                         |
+| [U.S. Territories] |                         |
 |   AMERICAN SAMOA   |                         |
 |  CENTRAL MARIANAS  |                         |
 |      GARAPAN       |                         |
@@ -359,6 +357,4 @@ Table 1 to Paragraph (b)
 |  Charlotte Amalie  |          237B           |
 |  Charlotte Amalie  |          275A           |
 
-[30 FR 12711, Oct. 6, 1965]Editorial Notes:1. For Federal Register citations affecting § 73.202, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
-
-2. At 77 FR 50053, Aug. 20, 2012, § 73.202(b), the Table of FM Allotments under California, was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[30 FR 12711, Oct. 6, 1965]Editorial Note:For Federal Register citations affecting § 73.202, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

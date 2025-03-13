@@ -1,3 +1,5 @@
 ##### § 27.5 Review. #####
 
+Link to an amendment published at 89 FR 7286, Feb. 2, 2024.
+
 The Complainant or the FBI may request, within 30 calendar days of a final determination or corrective action order by the Director, review by the Deputy Attorney General of that determination or order. The Deputy Attorney General shall set aside or modify the Director's actions, findings, or conclusions found to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law; obtained without procedures required by law, rule, or regulation having been followed; or unsupported by substantial evidence. The Deputy Attorney General has full discretion to review and modify corrective action ordered by the Director, provided, however that if the Deputy Attorney General upholds a finding that there has been a reprisal, then the Deputy Attorney general shall order appropriate corrective action.

@@ -2,7 +2,7 @@
 
 (a) *Loan repayments.* For each year of the applicable service period the individual agrees to serve, the NIH may pay up to $50,000 per year of a participant's repayable debt.
 
-(b) Payments are made directly to a participant's lender(s). If there is more than one outstanding qualified educational loan, the NIH will repay the loans in the following order, unless the NIH determines significant savings would result from paying loans in a different order of priority:
+(b) *Payments are made directly to a participant's lender(s).* If there is more than one outstanding qualified educational loan, the NIH will repay the loans in the following order, unless the NIH determines significant savings would result from paying loans in a different order of priority:
 
 (1) Loans guaranteed by the U.S. Department of Health and Human Services;
 

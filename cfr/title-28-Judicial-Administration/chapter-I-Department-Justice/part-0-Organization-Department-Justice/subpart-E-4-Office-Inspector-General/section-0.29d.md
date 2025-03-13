@@ -1,5 +1,7 @@
 ##### § 0.29d Whistleblower protection for FBI employees. #####
 
+Link to an amendment published at 89 FR 7284, Feb. 2, 2024.
+
 (a) *Protected disclosures by FBI employees.* Disclosures of information by an FBI employee that the employee reasonably believes evidences a violation of any law, rule, or regulation, or mismanagement, gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety are protected disclosures when they are reported as provided in § 27.1 of this chapter. Any office or official (other than the OIG or DOJ-OPR) receiving a protected disclosure shall promptly report such disclosure to the OIG or DOJ-OPR. The OIG or DOJ-OPR may refer such allegations to FBI Inspection Division (FBI-INSD) Internal Investigations Section for investigation unless the Deputy Attorney General determines that such referral shall not be made.
 
 (b) *Allegations of retaliation against FBI employees.* Allegations of retaliation against an employee of the FBI who makes a protected disclosure shall be reported to the OIG, DOJ-OPR, or the Deputy Attorney General.

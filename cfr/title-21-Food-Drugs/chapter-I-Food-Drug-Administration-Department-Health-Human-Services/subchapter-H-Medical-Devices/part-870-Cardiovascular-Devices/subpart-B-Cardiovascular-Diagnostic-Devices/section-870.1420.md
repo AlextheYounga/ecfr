@@ -40,4 +40,4 @@
 
 (v) The expected performance of the device for all intended use populations and environments.
 
-[87 FR 32990, July 1, 2022]
+[87 FR 32990, June 1, 2022]

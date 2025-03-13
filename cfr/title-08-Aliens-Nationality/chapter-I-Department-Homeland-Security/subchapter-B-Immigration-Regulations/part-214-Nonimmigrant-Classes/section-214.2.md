@@ -1,6 +1,6 @@
 ##### § 214.2 Special requirements for admission, extension, and maintenance of status. #####
 
-Link to an amendment published at 89 FR 6397, Jan. 31, 2024.
+Link to an amendment published at 89 FR 6397, Jan. 31, 2024.Link to an amendment published at 89 FR 7491, Feb. 2, 2024.
 
 Table 1 to § 214.2—Section Contents
 
@@ -4073,4 +4073,4 @@ Table 5 to Paragraph (w)—Paragraph Contents
 
 4. At 87 FR 76874, Dec. 15, 2022, § 214.2 was amended by adding row (29) to table 3 to paragraph (h), and by adding paragraphs (h)(6)(xiii) and (h)(29), effective Dec. 15, 2022, through Dec. 15, 2025. At 87 FR 77979, Dec. 21, 2022, paragraph (h)(6)(xiii) was corrected, effective Dec. 21, 2022, through Dec. 15, 2025.
 
-5. At 88 FR 80456, Nov. 17, 2023, § 214.2 was amended by adding rows (30) and (31) to table 3 to paragraph (h), and by adding paragraphs (h)(6)(xiv) and (h)(30) and (31), effective Nov. 17, 2023, through Nov. 17, 2026.
+5. At 88 FR 80456, Nov. 17, 2023, § 214.2 was amended by adding rows (30) and (31) to table 3 to paragraph (h), and by adding paragraphs (h)(6)(xiv) and (h)(31), effective Nov. 17, 2023, through Nov. 17, 2026.

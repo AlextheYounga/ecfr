@@ -1,5 +1,7 @@
 ##### § 202.5 General approval standards. #####
 
+Link to an amendment published at 89 FR 7277, Feb. 2, 2024.
+
 To be approved for participation in the Title I or Title II programs, and to maintain approval, a lender or mortgagee shall meet and continue to meet the general requirements of paragraphs (a) through (n) of this section (except as provided in § 202.10(b)) and the requirements for one of the eligible classes of lenders or mortgagees in §§ 202.6 through 202.10.
 
 (a) *Business form.* (1) The lender or mortgagee shall be a corporation or other chartered institution, a permanent organization having succession, or a partnership. A partnership must meet the requirements of paragraphs (a)(1)(i) through (iv) of this section.

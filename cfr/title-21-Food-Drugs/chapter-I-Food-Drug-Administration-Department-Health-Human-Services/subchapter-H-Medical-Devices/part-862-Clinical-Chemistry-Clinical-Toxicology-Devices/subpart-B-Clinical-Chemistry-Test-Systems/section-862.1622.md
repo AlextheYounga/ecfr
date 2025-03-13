@@ -28,4 +28,4 @@
 
 (v) Information on the analytical performance of the device, including demonstration of reproducibility across multiple sites and multiple reagent lots, or an alternative reproducibility study design determined to be appropriate by FDA.
 
-[88 FR 2599, Jan. 17, 2023]
+[88 FR 2519, Jan. 17, 2023]
