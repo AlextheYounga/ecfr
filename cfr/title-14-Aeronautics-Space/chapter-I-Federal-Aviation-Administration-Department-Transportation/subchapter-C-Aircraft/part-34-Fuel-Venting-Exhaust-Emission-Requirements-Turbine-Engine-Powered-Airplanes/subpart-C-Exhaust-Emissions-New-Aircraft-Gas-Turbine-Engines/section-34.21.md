@@ -1,7 +1,5 @@
 ##### § 34.21 Standards for exhaust emissions. #####
 
-Link to an amendment published at 89 FR 31087, Apr. 24, 2024.
-
 (a) Exhaust emissions of smoke from each new aircraft gas turbine engine of class T8 manufactured on or after February 1, 1974, shall not exceed a smoke number (SN) of 30.
 
 (b) Exhaust emissions of smoke from each new aircraft gas turbine engine of class TF and of rated output of 129 kN (29,000 lb) thrust or greater, manufactured on or after January 1, 1976, shall not exceed
@@ -58,22 +56,34 @@ Oxides of Nitrogen: (32 + 1.6(rPR)) g/kN rO.
 
 Hydrocarbons: 140 (0.92)rPR g/kN rO.
 
-(e) Smoke exhaust emissions from each gas turbine engine of the classes specified below shall not exceed:
+(e) Smoke exhaust emissions from each gas turbine engine shall not exceed:
 
-(1) For Class TF of rated output less than 26.7 kN (6,000 lb) manufactured on or after August 9, 1985:
+(1)(A) For Class TF of rated output less than 26.7 kN (6,000 lbf) manufactured on or after August 9, 1985, and before July 18, 2012:
 
-SN = 83.6(rO) −0.274 (rO is in kN) not to exceed a maximum of SN = 50.
+SN = 83.6(rO)−0.274 (rO is in kN) not to exceed a maximum of SN = 50.
 
-(2) For Classes T3, T8, TSS, and TF of rated output equal to or greater than 26.7 kN (6,000 lb) manufactured on or after January 1, 1984:
+(B) For Classes TF, T3, and T8 of rated output less than 26.7 kN (6,000 lbf) manufactured on or after July 18, 2012, and before January 1, 2023:
 
-SN = 83.6(rO) −0.274 (rO is in kN) not to exceed a maximum of SN = 50.
+SN = 83.6(rO)−0.274 or 50.0, whichever is smaller.
+
+(C) For Classes TF, T3, and T8 of rated output of 26.7 kN (6,000 lbf) or less manufactured on or after January 1, 2023:
+
+SN = 83.6(rO)−0.274 or 50.0, whichever is smaller.
+
+(2) For Classes T3, T8, TSS, and TF of rated output greater than or equal to-26.7 kN (6,000 lbf) manufactured on or after January 1, 1984, and before January 1, 2023:
+
+SN = 83.6(rO)−0.274 (rO is in kN) not to exceed a maximum of SN = 50.
 
 (3) For Class TP of rated output equal to or greater than 1,000 kW manufactured on or after January 1, 1984:
 
-SN = 187(rO) −0.168 (rO is in kW).
+SN = 187(rO)−0.168 (rO is in kW).
+
+(4) For Class TSS manufactured on or after January 1, 2023:
+
+SN = 83.6(rO)−0.274 (rO is in kN) not to exceed a maximum of SN = 50.
 
 (f) The standards set forth in paragraphs (a), (b), (c), (d), and (e) of this section refer to a composite gaseous emission sample representing the operation cycles and exhaust smoke emission emitted during operation of the engine as specified in the applicable sections of subpart G of this part, and measured and calculated in accordance with the procedures set forth in subpart G.
 
 (g) Where a gaseous emission standard is specified by a formula, calculate and round the standard to three significant figures or to the nearest 0.1 g/kN (for standards at or above 100 g/kN). Where a smoke standard is specified by a formula, calculate and round the standard to the nearest 0.1 SN. Engines comply with an applicable standard if the testing results show that the engine type certificate family's characteristic level does not exceed the numerical level of that standard, as described in § 34.60.
 
-[Doc. No. 25613, 55 FR 32861, Aug. 10, 1990; 55 FR 37287, Sept. 10, 1990, as amended by Amdt. 34-3, 64 FR 5559, Feb. 3, 1999; Amdt. 34-4, 74 FR 19127, Apr. 28, 2009; Amdt. 34-5, 77 FR 76851, Dec. 31, 2012]
+[Doc. No. 25613, 55 FR 32861, Aug. 10, 1990; 55 FR 37287, Sept. 10, 1990, as amended by Amdt. 34-3, 64 FR 5559, Feb. 3, 1999; Amdt. 34-4, 74 FR 19127, Apr. 28, 2009; Amdt. 34-5, 77 FR 76851, Dec. 31, 2012; Amdt. No. 34-7, 89 FR 31087, Apr. 24, 2024]

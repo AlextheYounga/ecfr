@@ -1,5 +1,7 @@
 ##### § 80.13 Threshold criteria. #####
 
+Link to an amendment published at 89 FR 45775, May 24, 2024.
+
 (a) To be eligible to receive Federal credit assistance under this part, a project shall meet the following five threshold criteria:
 
 (1) The project shall be consistent with the State transportation plan, if located in a metropolitan area shall be included in that area's metropolitan transportation plan, and shall appear in an approved State transportation improvement program before the DOT and the project sponsor execute a term sheet or credit agreement that results in the obligation of funds;

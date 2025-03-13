@@ -1,5 +1,7 @@
 ##### § 260.17 Credit risk premium analysis. #####
 
+Link to an amendment published at 89 FR 45776, May 24, 2024.
+
 (a) When Federal appropriations are not available to cover the total subsidy cost, the Administrator will determine the Credit Risk Premium necessary for each direct loan or loan guarantee by estimating the credit risk and the potential recovery in the event of a default of each project evaluating the factors described in paragraphs (b) and (c) of this section.
 
 (b) Establishing the credit risk.

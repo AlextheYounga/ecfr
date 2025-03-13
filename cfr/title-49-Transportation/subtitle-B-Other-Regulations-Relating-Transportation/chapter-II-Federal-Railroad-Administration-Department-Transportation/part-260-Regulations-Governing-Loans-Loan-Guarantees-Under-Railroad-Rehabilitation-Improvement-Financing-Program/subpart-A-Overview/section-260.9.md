@@ -1,3 +1,5 @@
 ##### § 260.9 Loan terms. #####
 
+Link to an amendment published at 89 FR 45776, May 24, 2024.
+
 The maximum repayment period for direct loans and guaranteed loans under this part is 25 years from the date of execution. The interest rate on direct loans will be equal to the rate on Treasury securities of a similar term. In general, the financial assistance provided will be required to be repaid prior to the end of the useful life of the project it is used to fund.

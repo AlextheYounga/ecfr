@@ -1,7 +1,5 @@
 ##### § 34.1 Definitions. #####
 
-Link to an amendment published at 89 FR 31085, Apr. 24, 2024.
-
 As used in this part, all terms not defined herein shall have the meaning given them in the Clean Air Act, as amended (42 U.S.C. 7401 et. seq.):
 
 *Act* means the Clean Air Act, as amended (42 U.S.C. 7401 et. seq.).
@@ -16,9 +14,7 @@ As used in this part, all terms not defined herein shall have the meaning given 
 
 *Aircraft gas turbine engine* means a turboprop, turbofan, or turbojet aircraft engine.
 
-*Characteristic level* has the meaning given in Appendix 6 of ICAO Annex 16 as of July 2008. The characteristic level is a calculated emission level for each pollutant based on a statistical assessment of measured emissions from multiple tests.1
-
-1 This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. This document can be obtained from the ICAO, Document Sales Unit, 999 University Street, Montreal, Quebec H3C 5H7, Canada, phone + 1 514-954-8022, or *www.icao.int* or *sales14icao.int.* Copies can be reviewed at the FAA New England Regional Office, 12 New England Executive Park, Burlington, Massachusetts, 781-238-7101, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+*Characteristic level* has the meaning given in Appendix 6 of ICAO Annex 16 as of July 2008 (incorporated by reference, see § 34.4). The characteristic level is a calculated emission level for each pollutant based on a statistical assessment of measured emissions from multiple tests.
 
 *Class TP* means all aircraft turboprop engines.
 
@@ -36,7 +32,7 @@ As used in this part, all terms not defined herein shall have the meaning given 
 
 *Date of manufacture* of an engine is the date the inspection acceptance records reflect that the engine is complete and meets the FAA approved type design.
 
-*Derivative engine for emissions certification purposes* means an engine that has the same or similar emissions characteristics as an engine covered by a U.S. type certificate issued under 14 CFR part 33. These characteristics are specified in § 34.48.
+*Derivative engine for emissions certification purposes* means an engine that is similar in design to an engine that has demonstrated compliance with the applicable exhaust emission standards of this part, as determined by the FAA, and has a U.S. type certificate issued in accordance with part 33 of this chapter.
 
 *Emission measurement system* means all of the equipment necessary to transport the emission sample and measure the level of emissions. This includes the sample system and the instrumentation system.
 
@@ -48,13 +44,13 @@ As used in this part, all terms not defined herein shall have the meaning given 
 
 *Exhaust emissions* means substances emitted into the atmosphere from the exhaust discharge nozzle of an aircraft or aircraft engine.
 
-*Fuel venting emissions* means raw fuel, exclusive of hydrocarbons in the exhaust emissions, discharged from aircraft gas turbine engines during all normal ground and flight operations.
-
 *In-use aircraft gas turbine engine* means an aircraft gas turbine engine which is in service.
 
 *Introduction date* means the date of manufacture of the first individual production engine of a given engine model or engine type certificate family to be certificated. Neither test engines nor engines not placed into service affect this date.
 
 *New aircraft turbine engine* means an aircraft gas turbine engine which has never been in service.
+
+*Non-volatile particulate matter (nvPM)* means emitted particles that remain at the exhaust nozzle exit plane of a gas turbine engine, and that did not volatilize after being heated to a temperature of at least 350 °C.
 
 *Power setting* means the power or thrust output of an engine in terms of kilonewtons thrust for turbojet and turbofan engines or shaft power in terms of kilowatts for turboprop engines.
 
@@ -62,7 +58,9 @@ As used in this part, all terms not defined herein shall have the meaning given 
 
 *Rated pressure ratio (rPR)* means the ratio between the combustor inlet pressure and the engine inlet pressure achieved by an engine operation at rated output, rounded to at least three significant figures.
 
-*Reference day conditions* means the reference ambient conditions to which the gaseous emissions (HC and smoke) are to be corrected. The reference day conditions are as follows: Temperature = 15 °C, specific humidity = 0.00629 kg H2 O/kg of dry air, and pressure = 101325 Pa.
+*Reference day conditions* means the reference ambient conditions to which the measured smoke, nvPM, and gaseous emissions must be corrected. The reference day conditions are as follows:
+
+(1) Temperature = 15 °C,(2) Specific humidity = 0.00634 kg H2O/kg of dry air, and(3) Pressure = 101.325 kPa
 
 *Sample system* means the system which provides for the transportation of the gaseous emission sample from the sample probe to the inlet of the instrumentation system.
 
@@ -80,4 +78,4 @@ As used in this part, all terms not defined herein shall have the meaning given 
 
 *Tier,* as used in this part, is a designation related to the NOX emission standard for the engine as specified in § 34.21 or § 34.23 of this part (e.g., Tier 0).
 
-[Doc. No. 25613, 55 FR 32861, Aug. 10, 1990; 55 FR 37287, Sept. 10, 1990, as amended by Amdt. 34-3, 64 FR 5558, Feb. 3, 1999; Amdt. 34-5, 77 FR 76849, Dec. 31, 2012; Amdt. 34-5A, 78 FR 63016, Oct. 23, 2013]
+[Doc. No. 25613, 55 FR 32861, Aug. 10, 1990; 55 FR 37287, Sept. 10, 1990, as amended by Amdt. 34-3, 64 FR 5558, Feb. 3, 1999; Amdt. 34-5, 77 FR 76849, Dec. 31, 2012; Amdt. 34-5A, 78 FR 63016, Oct. 23, 2013; Amdt. 34-7, 89 FR 31085, Apr. 24, 2024]

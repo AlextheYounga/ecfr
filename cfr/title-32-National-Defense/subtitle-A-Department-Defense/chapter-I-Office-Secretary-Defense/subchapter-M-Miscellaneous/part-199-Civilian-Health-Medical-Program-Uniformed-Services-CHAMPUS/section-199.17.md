@@ -1,5 +1,7 @@
 ##### § 199.17 TRICARE program. #####
 
+Link to an amendment published at 89 FR 45767, May 24, 2024.
+
 (a) *Establishment.* The TRICARE program is established for the purpose of implementing a comprehensive managed health care program for the delivery and financing of health care services in the Military Health System.
 
 (1) *Purpose.* The TRICARE program implements a number of improvements primarily through modernized managed care support contracts that include special arrangements with civilian sector health care providers and better coordination between military medical treatment facilities (MTFs) and these civilian providers to deliver an integrated, health care delivery system that provides beneficiaries with access to high quality healthcare. Implementation of these improvements, to include enhanced access, improved health outcomes, increased efficiencies and elimination of waste, in addition to improving and maintaining operational medical force readiness, includes adoption of special rules and procedures not ordinarily followed under CHAMPUS or MTF requirements. This section establishes those special rules and procedures.
