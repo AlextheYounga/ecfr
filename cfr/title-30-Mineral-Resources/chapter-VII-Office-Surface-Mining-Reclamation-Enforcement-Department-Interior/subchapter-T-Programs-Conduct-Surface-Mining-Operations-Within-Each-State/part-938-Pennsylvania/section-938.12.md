@@ -40,12 +40,6 @@
 
 (d) We are not approving the word “augmented” in the last sentence of subsection 86.151(d) that we found to be less effective on April 8, 1993 (58 FR 18154).
 
-(e) We are not approving the following amendments that Pennsylvania submitted on May 23, 2006:
+(e) We are deferring our decision on the inclusion of *minimal-impact post-mining discharge* in the definition of *post-mining pollutional discharge* until such time as the State submits the definition of minimal-impact post-mining discharge to us as a proposed program amendment.
 
-(1) At 25 Pa. Code 86.17(e), the sentence “This fee shall not be required after (effective date of this rulemaking).”
-
-(2) At 25 Pa. Code 86.283(c), the proposed deletion of the entire subsection.
-
-(f) We are deferring our decision on the inclusion of *minimal-impact post-mining discharge* in the definition of *post-mining pollutional discharge* until such time as the State submits the definition of minimal-impact post-mining discharge to us as a proposed program amendment.
-
-[66 FR 67063, Dec. 27, 2001, as amended at 68 FR 40154, July 7, 2003; 69 FR 71551, 71559, Dec. 9, 2004; 70 FR 25491, May 13, 2005; 71 FR 54595, Sept. 18, 2006; 73 FR 38920, July 8, 2008; 85 FR 71263, Nov. 9, 2020]
+[66 FR 67063, Dec. 27, 2001, as amended at 68 FR 40154, July 7, 2003; 69 FR 71551, 71559, Dec. 9, 2004; 70 FR 25491, May 13, 2005; 71 FR 54595, Sept. 18, 2006; 73 FR 38920, July 8, 2008; 85 FR 71263, Nov. 9, 2020; 89 FR 66991, Aug. 19, 2024]

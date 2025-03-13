@@ -1,7 +1,5 @@
 ##### § 1217.52 Assessments. #####
 
-Link to an amendment published at 89 FR 58252, July 18, 2024.
-
 (a) The Board's programs and expenses shall be paid by assessments on manufacturers for the U.S. market, other income of the Board, and other funds available to the Board.
 
 (b) Subject to the exemptions specified in § 1217.53, each manufacturer for the U.S. market shall pay an assessment to the Board at the rate of $0.41 per thousand board feet of softwood lumber, except that no person shall pay an assessment on the first 15 million board feet of softwood lumber otherwise subject to assessment in a fiscal year. Domestic manufacturers shall pay assessments based on the volume of softwood lumber shipped within the United States and importers shall pay assessments based on the volume of softwood lumber imported to the United States.
@@ -22,9 +20,9 @@ Link to an amendment published at 89 FR 58252, July 18, 2024.
 |---------------------------------------|------------------------------|-------------------------------|
 |              4407.11.00               |            0.1737            |           0.004412            |
 |              4407.12.00               |            0.1737            |           0.004412            |
-|              4407.19.05               |            0.1737            |           0.004412            |
-|              4407.19.06               |            0.1737            |           0.004412            |
-|              4407.19.10               |            0.1737            |           0.004412            |
+|              4407.13.00               |            0.1737            |           0.004412            |
+|              4407.14.00               |            0.1737            |           0.004412            |
+|              4407.19.00               |            0.1737            |           0.004412            |
 |              4409.10.05               |            0.1737            |           0.004412            |
 |              4409.10.10               |            0.1737            |           0.004412            |
 |              4409.10.20               |            0.1737            |           0.004412            |
@@ -43,4 +41,4 @@ Link to an amendment published at 89 FR 58252, July 18, 2024.
 
 (n) If the Board is not in place by the date the first assessments are to be collected, the Secretary shall receive assessments and shall pay such assessments and any interest earned to the Board when it is formed.
 
-[76 FR 46193, Aug. 2, 2011, as amended at 84 FR 50300, Sept. 25, 2019; 86 FR 11390, Feb. 25, 2021]
+[76 FR 46193, Aug. 2, 2011, as amended at 84 FR 50300, Sept. 25, 2019; 86 FR 11390, Feb. 25, 2021; 89 FR 58252, July 18, 2024]

@@ -1,7 +1,5 @@
 ##### § 140.7 Fees. #####
 
-Link to an amendment published at 89 FR 51811, June 20, 2024.
-
 (a)(1) Each reactor licensee shall pay a fee to the Commission based on the following schedule:
 
 (i) For indemnification from $500 million to $400 million inclusive, a fee of $30 per year per thousand kilowatts of thermal capacity authorized in the license;
@@ -20,6 +18,6 @@ Link to an amendment published at 89 FR 51811, June 20, 2024.
 
 (c) Each person licensed to possess and use plutonium in a plutonium processing and fuel fabrication plant shall pay to the Commission a fee of $5,000 per year for indemnification. This fee is for the period beginning with the date on which the applicable indemnity agreement is effective.
 
-(d) Indemnity fee payments, made payable to the U.S. Nuclear Regulatory Commission, are to be made in U.S. funds by check, draft, money order, credit card, or electronic funds transfer such as ACH (Automated Clearing House) using EDI (Electronic Data Interchange). Federal agencies may also make payments by the On-Line Payment and Collections System (OPAC's). Where specific payment instructions are provided on the invoices, payment should be made accordingly, e.g. invoices of $5,000 or more should be paid via ACH through NRC's Lockbox Bank at the address indicated on the invoice. Credit card payments should be made up to the limit established by the credit card bank, in accordance with specific instructions provided with the invoices, to the Lockbox Bank designated for credit card payments.
+(d) Indemnity fee payments are to made payable to the U.S. Nuclear Regulatory Commission. The payments are to be made in U.S. funds using the electronic payment methods accepted at *www.Pay.gov.* Federal agencies may also make payments by Intra-Governmental Payment and Collection (IPAC). Specific instructions for making payments may be obtained by contacting the Office of the Chief Financial Officer at 301-415-7554.
 
-[25 FR 2944, Apr. 7, 1960, as amended at 42 FR 49, Jan. 3, 1977; 63 FR 31851, June 10, 1998]
+[25 FR 2944, Apr. 7, 1960, as amended at 42 FR 49, Jan. 3, 1977; 63 FR 31851, June 10, 1998; 89 FR 51811, June 20, 2024]

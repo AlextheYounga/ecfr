@@ -1,7 +1,5 @@
 ##### § 73.17 Firearms background checks for armed security personnel. #####
 
-Link to an amendment published at 89 FR 51810, June 20, 2024.
-
 (a) *Purpose.* This section presents the requirements for completion of firearms background checks pursuant to Section 161A of the Atomic Energy Act, as amended (AEA) (42 U.S.C. 2201a), for security personnel whose official duties require access to covered weapons at Commission-designated classes of facilities, radioactive material, or other property specified in § 73.15(c). Firearms background checks are intended to verify that such armed security personnel are not prohibited from receiving, possessing, transporting, importing, or using covered weapons under applicable Federal, State, or local law.
 
 (b) *General Requirements.* (1) Licensees that have applied to the NRC under § 73.15 of this part for stand-alone preemption authority or for combined preemption authority and enhanced weapons authority must comply with the provisions of this section. Such licensees must establish a Firearms Background Check Plan. Licensees must establish this plan as part of their overall NRC-approved Training and Qualification plan for security personnel whose official duties require access to covered weapons.
@@ -152,7 +150,7 @@ Link to an amendment published at 89 FR 51810, June 20, 2024.
 
 (l) [Reserved]
 
-(m) *Fees.* (1) Fees for the processing of firearms background checks are due upon application. The fee for the processing of a firearms background check consists of a fingerprint fee and a NICS check fee. Licensees must submit payment with the application for the processing of fingerprints, and payment must be made by corporate check, certified check, cashier's check, money order, or electronic payment, made payable to “U.S. Nuclear Regulatory Commission.” Combined payment for multiple applications is acceptable. Licensees can find fee information for firearms background checks on the NRC's public website at: *https://www.nrc.gov/security/chp.html.*
+(m) *Fees.* (1) Fees for the processing of firearms background checks are due upon application. The fee for the processing of a firearms background check consists of a fingerprint fee and a NICS check fee. Licensees must submit payment with the application for the processing of fingerprints, and payment must be made payable to the U.S. Nuclear Regulatory Commission. The payments are to be made in U.S. funds using the electronic payment methods accepted at *www.Pay.gov.* Licensees can find fee information for firearms background checks on the NRC's public website at *https://www.nrc.gov/security/chp.html.*
 
 (2) The application fee for the processing of fingerprint checks is the sum of the user fee charged by the FBI for each fingerprint card or other fingerprint records submitted by the NRC on behalf of a licensee, and an administrative processing fee assessed by the NRC. The NRC processing fee covers administrative costs associated with NRC handling of licensee fingerprint submissions.
 
@@ -193,3 +191,5 @@ Link to an amendment published at 89 FR 51810, June 20, 2024.
 (ii) Upon verification from the gaining licensee of the individual's name, date of birth, social security number, and sex.
 
 (r) *Withdrawal of orders.* In accordance with the provisions of § 73.15(s), orders issued under Section 161A (42 U.S.C. 2201a) prior to April 13, 2023 are withdrawn. Accordingly, the requirements of those orders are superseded in their entirety by the requirements of §§ 73.15 and 73.17.
+
+[88 FR 15882, Mar. 14, 2023, as amended at 89 FR 51810, June 20, 2024]
