@@ -1,5 +1,7 @@
 ##### § 98.43 Criminal background checks. #####
 
+Link to an amendment published at 89 FR 15414, Mar. 1, 2024.
+
 (a)(1) States, Territories, and Tribes, through coordination of the Lead agency with other State, territorial, and tribal agencies, shall have in effect:
 
 (i) Requirements, policies, and procedures to require and conduct criminal background checks for child care staff members (including prospective child care staff members) of all licensed, regulated, or registered child care providers and all child care providers eligible to deliver services for which assistance is provided under this part as described in paragraph (a)(2) of this section;

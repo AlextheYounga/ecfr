@@ -1,5 +1,7 @@
 ##### § 98.71 Content of report. #####
 
+Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
+
 (a) At a minimum, a State or territorial Lead Agency's quarterly case-level report to the Secretary, as required in § 98.70, shall include the following information on services provided under CCDF grant funds, including Federal Discretionary (which includes any funds transferred from the TANF Block Grant), Mandatory, and Matching Funds; and State Matching and Maintenance-of-Effort (MOE) Funds:
 
 (1) The total monthly family income and family size used for determining eligibility;

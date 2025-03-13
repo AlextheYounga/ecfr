@@ -1,7 +1,5 @@
 ##### § 6.170 Compliance procedures. #####
 
-Link to an amendment published at 89 FR 214, Jan. 2, 2024.
-
 (a) Except as provided in paragraph (b) of this section, this section applies to all allegations of discrimination on the basis of handicap in programs or activities conducted by the Commission.
 
 (b) The Commission will process complaints alleging violations of section 504 with respect to employment according to the procedures established in 29 CFR part 1613 pursuant to section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 791).
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 214, Jan. 2, 2024.
 
 (2) All complete complaints must be filed within 180 days of the alleged act of discrimination. The Commission may extend this time period for good cause.
 
-(3) Complaints filed under this part shall be addressed to the Rehabilitation Act Officer, Federal Election Commission, at the street address identified in the definition of “Commission” in § 1.2.
+(3) Complaints under this part shall be addressed to the Rehabilitation Act Officer and filed pursuant to 11 CFR 100.19(g).
 
 (e) The Commission will notify the Architectural and Transportation Barriers Compliance Board upon receipt of any complaint alleging that a building or facility that is subject to the Architectural Barriers Act of 1968, as amended (42 U.S.C. 4151-4157), or section 502 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 792), are not readily accessible and usable to handicapped persons.
 
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 214, Jan. 2, 2024.
 
 (3) If the Rehabilitation Act Officer receives a complaint over which the Commission does not have jurisdiction, the Commission will promptly notify the complainant and will make reasonable efforts to refer the complaint to the appropriate governmental entity.
 
-(g) Within 180 days of receipt of a complete complaint for which it has jurisdiction, the Commission will notify the complainant of the results of the investigation in a letter containing—
+(g) Within 180 days of receipt of a complete complaint for which it has jurisdiction, the Commission will notify the complainant of the results of the investigation in writing. This notification will contain—
 
 (1) Findings of fact and conclusions of law;
 
@@ -32,9 +30,9 @@ Link to an amendment published at 89 FR 214, Jan. 2, 2024.
 
 (3) A notice of the right to appeal.
 
-(h) Appeals of the findings of fact and conclusions of law or remedies must be filed by the complainant within 90 days of receipt from the Commission of the letter required by § 6.170(g). The Commission may extend this time for good cause.
+(h) Appeals of the findings of fact and conclusions of law or remedies must be filed by the complainant within 90 days of receipt from the Commission of the notification required by § 6.170(g). The Commission may extend this time for good cause.
 
-(i) Timely appeals to the Commission shall be addressed to the Rehabilitation Act Officer, Federal Election Commission, at the street address identified in the definition of “Commission” in § 1.2.
+(i) Timely appeals to the Commission shall be addressed to the Rehabilitation Act Officer and filed pursuant to 11 CFR 100.19(g).
 
 (j) The Commission will notify the complainant of the results of the appeal within 60 days of the receipt of the request. If the Commission determines that it needs additional information from the complainant, it shall have 60 days from the date it receives the additional information to make its determination on the appeal.
 
@@ -42,4 +40,4 @@ Link to an amendment published at 89 FR 214, Jan. 2, 2024.
 
 (l) The Commission may delegate its authority for conducting complaint investigations to other Federal agencies, except that the authority for making the final determination may not be delegated.
 
-[49 FR 33211, Aug. 22, 1984, as amended at 50 FR 50778, Dec. 12, 1985; 82 FR 60853, Dec. 26, 2017]
+[49 FR 33211, Aug. 22, 1984, as amended at 50 FR 50778, Dec. 12, 1985; 82 FR 60853, Dec. 26, 2017; 89 FR 214, Jan. 2, 2024]

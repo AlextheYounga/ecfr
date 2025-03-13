@@ -1,5 +1,7 @@
 ##### § 98.62 Allotments from the Mandatory Fund. #####
 
+Link to an amendment published at 89 FR 15415, Mar. 1, 2024.
+
 (a) Each of the 50 States and the District of Columbia will be allocated from the funds appropriated under section 418(a)(3) of the Social Security Act, less the amounts reserved for technical assistance pursuant to § 98.60(b)(1) and the amount reserved for Tribes pursuant to paragraph (b) of this section, an amount of funds equal to the greater of:
 
 (1) the Federal share of its child care expenditures under subsections (g) and (i) of section 402 of the Social Security Act (as in effect before October 1, 1995) for fiscal year 1994 or 1995 (whichever is greater); or

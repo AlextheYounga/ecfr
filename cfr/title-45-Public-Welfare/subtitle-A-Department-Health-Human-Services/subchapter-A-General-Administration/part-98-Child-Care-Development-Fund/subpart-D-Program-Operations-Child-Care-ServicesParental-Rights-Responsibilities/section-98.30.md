@@ -1,5 +1,7 @@
 ##### § 98.30 Parental choice. #####
 
+Link to an amendment published at 89 FR 15413, Mar. 1, 2024.
+
 (a) The parent or parents of an eligible child who receives or is offered child care services shall be offered a choice:
 
 (1) To enroll the child with an eligible child care provider that has a grant or contract for the provision of such services, if such services are available; or

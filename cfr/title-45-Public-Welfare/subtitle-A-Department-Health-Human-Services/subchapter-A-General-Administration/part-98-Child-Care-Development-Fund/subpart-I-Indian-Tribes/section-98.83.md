@@ -1,5 +1,7 @@
 ##### § 98.83 Requirements for tribal programs. #####
 
+Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
+
 (a) The grantee shall designate an agency, department, or unit to act as the Tribal Lead Agency to administer the CCDF program.
 
 (b) With the exception of Alaska, California, and Oklahoma, programs and activities for the benefit of Indian children shall be carried out on or near an Indian reservation.

@@ -1,7 +1,5 @@
 ##### § 200.6 Administrative record. #####
 
-Link to an amendment published at 89 FR 219, Jan. 2, 2024.
-
 (a) The agency record for the petition process consists of the following:
 
 (1) The petition, including all attachments on which it relies, filed by the petitioner.
@@ -12,10 +10,12 @@ Link to an amendment published at 89 FR 219, Jan. 2, 2024.
 
 (4) All notices published in the Federal Register, including the Notice of Availability and Notice of Disposition. If a Notice of Inquiry or Advance Notice of Proposed Rulemaking was published it will also be included.
 
-(5) The transcripts or audio tapes of any public hearing(s) on the petition.
+(5) The transcripts or audio recordings of any public hearing(s) on the petition.
 
 (6) All correspondence between the Commission and the petitioner, other commentators and state or federal agencies pertaining to Commission consideration of the petition.
 
 (7) The Commission's decision on the petition, including all documents identified or filed by the Commission as part of the record relied on in reaching its final decision.
 
 (b) The administrative record specified in paragraph (a) of this section is the exclusive record for the Commission's decision.
+
+[57 FR 34510, Aug. 5, 1992, as amended at 89 FR 219, Jan. 2, 2024]

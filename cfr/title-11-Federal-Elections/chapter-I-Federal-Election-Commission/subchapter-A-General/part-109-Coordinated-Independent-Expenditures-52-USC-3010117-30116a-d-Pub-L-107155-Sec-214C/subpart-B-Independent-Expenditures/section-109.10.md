@@ -1,7 +1,5 @@
 ##### § 109.10 How do political committees and other persons report independent expenditures? #####
 
-Link to an amendment published at 89 FR 216, Jan. 2, 2024.
-
 (a) Political committees, including political party committees, must report independent expenditures under 11 CFR 104.4.
 
 (b) Every person that is not a political committee and that makes independent expenditures aggregating in excess of $250 with respect to a given election in a calendar year shall file a verified statement or report on FEC Form 5 in accordance with 11 CFR 104.4(e) containing the information required by paragraph (e) of this section. Every person filing a report or statement under this section shall do so in accordance with the quarterly reporting schedule specified in 11 CFR 104.5(a)(1)(i) and (ii) and shall file a report or statement for any quarterly period during which any such independent expenditures that aggregate in excess of $250 are made and in any quarterly reporting period thereafter in which additional independent expenditures are made.
@@ -34,6 +32,6 @@ On August 3, 2018, the United States District Court for the District of Columbia
 
 (i) For reports or statements filed on paper (e.g., by hand-delivery, U.S. Mail, or facsimile machine), the person who made the independent expenditure shall certify, under penalty of perjury, the independence of the expenditure by handwritten signature immediately following the certification required by paragraph (e)(1)(v) of this section.
 
-(ii) For reports or statements filed by electronic mail, the person who made the independent expenditure shall certify, under penalty of perjury, the independence of the expenditure by typing the treasurer's name immediately following the certification required by paragraph (e)(1)(v) of this section.
+(ii) For reports or statements filed by electronic mail, the person who made the independent expenditure shall certify, under penalty of perjury, the independence of the expenditure by electronic signature immediately following the certification required by paragraph (e)(1)(v) of this section.
 
-[68 FR 451, Jan. 3, 2003, as amended at 81 FR 34863, June 1, 2016; 83 FR 66595, Dec. 27, 2018; 87 FR 35864, June 14, 2022]
+[68 FR 451, Jan. 3, 2003, as amended at 81 FR 34863, June 1, 2016; 83 FR 66595, Dec. 27, 2018; 87 FR 35864, June 14, 2022; 89 FR 216, Jan. 2, 2024]

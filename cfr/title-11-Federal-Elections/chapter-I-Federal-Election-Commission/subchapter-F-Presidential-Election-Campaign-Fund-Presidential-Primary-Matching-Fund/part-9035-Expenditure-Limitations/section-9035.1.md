@@ -1,7 +1,5 @@
 ##### § 9035.1 Campaign expenditure limitation; compliance and fundraising exemptions. #####
 
-Link to an amendment published at 89 FR 221, Jan. 2, 2024.
-
 (a) *Spending limit.* (1) No candidate or his or her authorized committee(s) shall knowingly incur expenditures in connection with the candidate's campaign for nomination, which expenditures, in the aggregate, exceed $10,000,000 (as adjusted under 52 U.S.C. 30116(c)), except that the aggregate expenditures by a candidate in any one State shall not exceed the greater of: 16 cents (as adjusted under 52 U.S.C. 30116(c)) multiplied by the voting age population of the State (as certified under 52 U.S.C. 30116(e)); or $200,000 (as adjusted under 52 U.S.C. 30116(c)).
 
 (2) The Commission will calculate the amount of expenditures attributable to the overall expenditure limit or to a particular state using the full amounts originally charged for goods and services rendered to the committee and not the amounts for which such obligations were settled and paid, unless the committee can demonstrate that the lower amount paid reflects a reasonable settlement of a bona fide dispute with the creditor.
@@ -24,8 +22,8 @@ Link to an amendment published at 89 FR 221, Jan. 2, 2024.
 
 (2) A candidate may exclude from the overall expenditure limitation of 11 CFR 9035.1 the amount of exempt fundraising costs specified in 11 CFR 100.152(c).
 
-(3) If any matching funds to which the candidate is entitled are not paid to the candidate, or are paid after the date on which payment is due, the candidate may exclude from the overall expenditure limitation in paragraph (a) of this section the amount of all interest charges that accrued during the shortfall period on all loans obtained by the candidate or authorized committee that are guaranteed or secured with matching funds, provided the candidate submits documentation as to the amount of all interest charges on such loans. The shortfall period begins on the first regularly scheduled payment date on which the candidate does not receive the entire amount of matching funds and ends on the payment date when the candidate receives the previously certified matching funds or the date on which the Commission revises the amount previously certified to eliminate the entitlement to the previously certified matching funds.
+(3) If any matching funds to which the candidate is entitled are not paid to the candidate, or are paid after the date on which payment is due, the candidate may exclude from the overall expenditure limitation in paragraph (a) of this section the amount of all interest charges that accrued during the shortfall period on all loans obtained by the candidate or authorized committee that are guaranteed or secured with matching funds, provided the candidate submits records as to the amount of all interest charges on such loans. The shortfall period begins on the first regularly scheduled payment date on which the candidate does not receive the entire amount of matching funds and ends on the payment date when the candidate receives the previously certified matching funds or the date on which the Commission revises the amount previously certified to eliminate the entitlement to the previously certified matching funds.
 
 (d) *Candidates not receiving matching funds.* The expenditure limitations of 11 CFR 9035.1 shall not apply to a candidate who does not receive matching funds at any time during the matching payment period.
 
-[64 FR 49364, Sept. 13, 1999, as amended at 67 FR 78683, Dec. 26, 2002; 68 FR 47420, Aug. 8, 2003; 79 FR 77851, Dec. 29, 2014]
+[64 FR 49364, Sept. 13, 1999, as amended at 67 FR 78683, Dec. 26, 2002; 68 FR 47420, Aug. 8, 2003; 79 FR 77851, Dec. 29, 2014; 89 FR 221, Jan. 2, 2024]

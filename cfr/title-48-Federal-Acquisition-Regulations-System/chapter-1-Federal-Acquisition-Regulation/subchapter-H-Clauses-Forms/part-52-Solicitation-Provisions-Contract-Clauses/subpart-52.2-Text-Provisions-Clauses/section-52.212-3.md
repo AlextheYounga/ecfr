@@ -118,7 +118,7 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 *Veteran-owned small business concern* means a small business concern—
 
-(1) Not less than 51 percent of which is owned by one or more veterans (as defined at 38 U.S.C. 101(2)) or, in the case of any publicly owned business, not less than 51 percent of which is owned and controlled by one or more veterans; and
+(1) Not less than 51 percent of which is owned and controlled by one or more veterans (as defined at 38 U.S.C. 101(2)) or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
 
 (2) The management and daily business operations of which are controlled by one or more veterans.
 

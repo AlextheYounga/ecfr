@@ -1,5 +1,7 @@
 ##### § 98.2 Definitions. #####
 
+Link to an amendment published at 89 FR 15411, Mar. 1, 2024.
+
 For the purpose of this part and part 99:
 
 *The Act* refers to the Child Care and Development Block Grant Act of 1990, section 5082 of the Omnibus Budget Reconciliation Act of 1990, Pub. L. 101-508, as amended and codified at 42 U.S.C. 9858 *et seq.*

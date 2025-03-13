@@ -1,7 +1,5 @@
 ##### § 9038.2 Repayments. #####
 
-Link to an amendment published at 89 FR 221, Jan. 2, 2024.
-
 (a) *General.* (1) A candidate who has received payments from the matching payment account shall pay the United States Treasury any amounts which the Commission determines to be repayable under this section. In making repayment determinations under this section, the Commission may utilize information obtained from audits and examinations conducted pursuant to 11 CFR 9038.1 and part 9039 or otherwise obtained by the Commission in carrying out its responsibilities under this subchapter.
 
 (2) The Commission will notify the candidate of any repayment determinations made under this section as soon as possible, but not later than 3 years after the close of the matching payment period. The Commission's issuance of the audit report to the candidate under 11 CFR 9038.1(d) will constitute notification for purposes of this section.
@@ -50,7 +48,7 @@ Link to an amendment published at 89 FR 221, Jan. 2, 2024.
 
 (v) If a candidate or a candidate's authorized committee(s) exceeds both the overall expenditure limitation and one or more State expenditure limitations, as set forth at 11 CFR 9035.1(a), the repayment determination under 11 CFR 9038.2(b)(2)(ii)(A) shall be based on only the larger of either the amount exceeding the State expenditure limitation(s) or the amount exceeding the overall expenditure limitation.
 
-(3) *Failure to provide adequate documentation.* The Commission may determine that amount(s) spent by the candidate, the candidate's authorized committee(s), or agents were not documented in accordance with 11 CFR 9033.11. The amount of any repayment sought under this section shall be determined by using the formula set forth in 11 CFR 9038.2(b)(2)(iii).
+(3) *Failure to provide adequate records.* The Commission may determine that amount(s) spent by the candidate, the candidate's authorized committee(s), or agents were not documented in accordance with 11 CFR 9033.11. The amount of any repayment sought under this section shall be determined by using the formula set forth in 11 CFR 9038.2(b)(2)(iii).
 
 (4) The Commission may determine that the candidate's net outstanding campaign obligations, as defined in 11 CFR 9034.5, reflect a surplus. The Commission may determine that the net income derived from an investment or other use of surplus public funds after the candidate's date of ineligibility, less Federal, State and local taxes paid on such income, shall be paid to the Treasury.
 
@@ -84,4 +82,4 @@ Link to an amendment published at 89 FR 221, Jan. 2, 2024.
 
 (h) *Petitions for rehearing; stays pending appeal.* The candidate may file a petition for rehearing of a repayment determination in accordance with 11 CFR 9038.5(a). The candidate may request a stay of a repayment determination in accordance with 11 CFR 9038.5(c) pending the candidate's appeal of that repayment determination.
 
-[56 FR 35945, July 29, 1991, as amended at 60 FR 31886, June 16, 1995; 60 FR 57538, 57539, Nov. 16, 1995; 61 FR 69020, Dec. 31, 1996; 68 FR 47421, Aug. 8, 2003]
+[56 FR 35945, July 29, 1991, as amended at 60 FR 31886, June 16, 1995; 60 FR 57538, 57539, Nov. 16, 1995; 61 FR 69020, Dec. 31, 1996; 68 FR 47421, Aug. 8, 2003; 89 FR 221, Jan. 2, 2024]

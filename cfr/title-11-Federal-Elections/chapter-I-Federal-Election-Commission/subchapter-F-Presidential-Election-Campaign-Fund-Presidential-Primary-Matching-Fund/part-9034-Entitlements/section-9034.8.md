@@ -1,7 +1,5 @@
 ##### § 9034.8 Joint fundraising. #####
 
-Link to an amendment published at 89 FR 221, Jan. 2, 2024.
-
 (a) *General.* Nothing in this section shall supersede 11 CFR part 300, which prohibits any person from soliciting, receiving, directing, transferring, or spending any non-Federal funds, or from transferring Federal funds for Federal election activities.
 
 (1) *Permissible participants.* Presidential primary candidates who receive matching funds under this subchapter may engage in joint fundraising with other candidates, political committees or unregistered committees or organizations.
@@ -40,7 +38,7 @@ Link to an amendment published at 89 FR 221, Jan. 2, 2024.
 
 (iv) Disburse net proceeds to each participant.
 
-(4) *Independent fundraising agent.* The participants or the fundraising representative may hire a commercial fundraising firm or other agent to assist in conducting the joint fundraising activity. In that case, however, the fundraising representative shall still be responsible for ensuring that the recordkeeping, reporting and documentation requirements set forth in this subchapter are met.
+(4) *Independent fundraising agent.* The participants or the fundraising representative may hire a commercial fundraising firm or other agent to assist in conducting the joint fundraising activity. In that case, however, the fundraising representative shall still be responsible for ensuring that the recordkeeping and reporting requirements set forth in this subchapter are met.
 
 (c) *Joint fundraising procedures.* Any joint fundraising activity under this section shall be conducted in accordance with the following requirements:
 
@@ -104,4 +102,4 @@ Link to an amendment published at 89 FR 221, Jan. 2, 2024.
 
 (ii) *Reporting disbursements.* The fundraising representative shall report all disbursements in the reporting period in which they are made. Each participant shall report in a memo Schedule B his or her total allocated share of these disbursements in the same reporting period in which net proceeds are distributed and reported and include the amount on page 4 of Form 3-P, under “Expenditures Subject to Limit.”
 
-[56 FR 35934, July 29, 1991; 56 FR 42380, Aug. 27, 1991, as amended at 67 FR 49132, July 29, 2002; 79 FR 77851, Dec. 29, 2014]
+[56 FR 35934, July 29, 1991; 56 FR 42380, Aug. 27, 1991, as amended at 67 FR 49132, July 29, 2002; 79 FR 77851, Dec. 29, 2014; 89 FR 221, Jan. 2, 2024]

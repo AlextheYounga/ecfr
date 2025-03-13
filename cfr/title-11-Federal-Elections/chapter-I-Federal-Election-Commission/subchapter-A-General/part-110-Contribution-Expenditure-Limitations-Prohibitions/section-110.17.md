@@ -1,7 +1,5 @@
 ##### § 110.17 Price index increase. #####
 
-Link to an amendment published at 89 FR 217, Jan. 2, 2024.
-
 (a) *Price index increases for party committee expenditure limitations and Presidential candidate expenditure limitations.* The limitations on expenditures established by 11 CFR 109.32 and 110.8 shall be increased by the percent difference between the price index, as certified to the Commission by the Secretary of Labor, for the 12 months preceding the beginning of the calendar year and the price index for the base period.
 
 (1) Each expenditure limitation so increased shall be the expenditure limitation in effect for that calendar year.
@@ -18,10 +16,10 @@ Link to an amendment published at 89 FR 217, Jan. 2, 2024.
 
 (d) *Definition of price index.* For purposes of this section, the term *price index* means the average over a calendar year of the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics.
 
-(e) *Publication of price index increases*—(1) *Expenditure and Contribution Limitations.* In every odd-numbered year, the Commission will publish in the Federal Register the amount of the expenditure and contribution limitations in effect and place such information on the Commission's Web site.
+(e) *Publication of price index increases*—(1) *Expenditure and Contribution Limitations.* In every odd-numbered year, the Commission will publish in the Federal Register the amount of the expenditure and contribution limitations in effect and place such information on the Commission's website.
 
-(2) *Lobbyist/registrant and lobbyist/registrant PAC contribution bundling disclosure threshold.* In every calendar year, the Commission will publish in the Federal Register the amount of the lobbyist/registrant and lobbyist/registrant PAC contribution bundling disclosure threshold in effect and place such information on the Commission's Web site.
+(2) *Lobbyist/registrant and lobbyist/registrant PAC contribution bundling disclosure threshold.* In every calendar year, the Commission will publish in the Federal Register the amount of the lobbyist/registrant and lobbyist/registrant PAC contribution bundling disclosure threshold in effect and place such information on the Commission's website.
 
 (f) *Price index increases for lobbyist/registrant and lobbyist/registrant PAC contribution bundling threshold.* The threshold for disclosure of lobbyists/registrants and lobbyist/registrant PACs that bundle contributions shall be indexed for each calendar year in accordance with 11 CFR 104.22(g).
 
-[67 FR 69949, Nov. 19, 2002, as amended at 74 FR 7304, Feb. 17, 2009; 75 FR 32, Jan. 4, 2010; 79 FR 62336, Oct. 17, 2014]
+[67 FR 69949, Nov. 19, 2002, as amended at 74 FR 7304, Feb. 17, 2009; 75 FR 32, Jan. 4, 2010; 79 FR 62336, Oct. 17, 2014; 89 FR 217, Jan. 2, 2024]

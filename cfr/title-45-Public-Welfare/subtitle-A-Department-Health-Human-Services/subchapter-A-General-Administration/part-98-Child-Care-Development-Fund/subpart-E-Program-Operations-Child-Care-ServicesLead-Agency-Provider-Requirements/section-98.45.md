@@ -1,5 +1,7 @@
 ##### § 98.45 Equal access. #####
 
+Link to an amendment published at 89 FR 15414, Mar. 1, 2024.
+
 (a) The Lead Agency shall certify that the payment rates for the provision of child care services under this part are sufficient to ensure equal access, for eligible families in the area served by the Lead Agency, to child care services comparable to those provided to families not eligible to receive CCDF assistance or child care assistance under any other Federal, State, or tribal programs.
 
 (b) The Lead Agency shall provide in the Plan a summary of the data and facts relied on to determine that its payment rates ensure equal access. At a minimum, the summary shall include facts showing:

@@ -1,7 +1,5 @@
 ##### § 104.3 Contents of reports (52 U.S.C. 30104(b), 30114). #####
 
-Link to an amendment published at 89 FR 216, Jan. 2, 2024.Link to a correction published at 89 FR 5421, Jan. 29, 2024.
-
 (a) *Reporting of receipts.* Each report filed under § 104.1 shall disclose the total amount of receipts for the reporting period and for the calendar year (or for the election cycle, in the case of an authorized committee) and shall disclose the information set forth at paragraphs (a)(1) through (a)(4) of this section. The first report filed by a political committee shall also include all amounts received prior to becoming a political committee under § 100.5 of this chapter, even if such amounts were not received during the current reporting period.
 
 (1) *Cash on hand.* The amount of cash on hand at the beginning of the reporting period, including: currency; balance on deposit in banks, savings and loan institutions, and other depository institutions; traveler's checks owned by the committee; certificates of deposit, treasury bills and any other committee investments valued at cost.
@@ -288,7 +286,7 @@ Link to an amendment published at 89 FR 216, Jan. 2, 2024.Link to a correction p
 
 (4) No authorized committee of a candidate shall attribute more than $1,000 in contributions to the same pseudonym for each election and no other political committee shall attribute more than $5,000 in contributions to the same pseudonym in any calendar year.
 
-(5) A committee using pseudonyms shall send a list of such pseudonyms under separate cover directly to the Reports Analysis Division, Federal Election Commission, at the street address identified in the definition of “Commission” in § 1.2 of this chapter, on or before the date on which any report containing such pseudonyms is filed with the Commission. The Commission shall maintain the list, but shall exclude it from the public record. A committee shall not send any list of pseudonyms to any Secretary of State or equivalent state officer.
+(5) A committee using pseudonyms shall send a list of such pseudonyms under separate cover directly to the Reports Analysis Division, Federal Election Commission, on or before the date on which any report containing such pseudonyms is filed with the Commission. The Commission shall maintain the list, but shall exclude it from the public record. A committee shall not send any list of pseudonyms to any Secretary of State or equivalent state officer.
 
 (6) A political committee shall not use pseudonyms for the purpose of circumventing the reporting requirements or the limitations and prohibitions of the Act.
 

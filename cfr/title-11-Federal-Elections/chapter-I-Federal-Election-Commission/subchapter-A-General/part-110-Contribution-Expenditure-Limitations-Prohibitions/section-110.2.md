@@ -1,7 +1,5 @@
 ##### § 110.2 Contributions by multicandidate political committees (52 U.S.C. 30116(a)(2)). #####
 
-Link to an amendment published at 89 FR 217, Jan. 2, 2024.
-
 (a)(1) *Scope.* This section applies to all contributions made by any multicandidate political committee as defined in 11 CFR 100.5(e)(3). See 11 CFR 102.2(a)(3) for multicandidate political committee certification requirements. A political committee becomes a multicandidate committee at the time the political committee meets the requirements of 11 CFR 100.5(e)(3) or becomes affiliated with an existing multicandidate committee, whether or not the political committee has certified its status as a multicandidate committee with the Commission in accordance with 11 CFR 102.2(a)(3).
 
 (2) *Notice to recipients.* Each multicandidate committee that makes a contribution under this section shall notify the recipient in writing of its status as a multicandidate committee.
@@ -26,7 +24,7 @@ If the candidate is not a candidate in the general election, all contributions m
 
 (4) For purposes of this section, a contribution shall be considered to be designated in writing for a particular election if—
 
-(i) The contribution is made by check, money order, or other negotiable instrument which clearly indicates the particular election with respect to which the contribution is made;
+(i) The contribution clearly indicates the particular election with respect to which the contribution is made;
 
 (ii) The contribution is accompanied by a writing, signed by the contributor, which clearly indicates the particular election with respect to which the contribution is made; or
 
@@ -50,7 +48,7 @@ If the candidate is not a candidate in the general election, all contributions m
 
 (iii) A contribution redesignated for another election shall not exceed the limitations on contributions made with respect to that election. A contribution redesignated for a previous election shall be subject to the requirements of 11 CFR 110.2(b)(3) regarding net debts outstanding.
 
-(6) For the purposes of this section, a contribution shall be considered to be made when the contributor relinquishes control over the contribution. A contributor shall be considered to relinquish control over the contribution when it is delivered by the contributor to the candidate, to the political committee, or to an agent of the political committee. A contribution that is mailed to the candidate, or to the political committee or to an agent of the political committee, shall be considered to be made on the date of the postmark. *See* 11 CFR 110.1(l)(4). An in-kind contribution shall be considered to be made on the date that the goods or services are provided by the contributor.
+(6) For the purposes of this section, a contribution shall be considered to be made when the contributor relinquishes control over the contribution. A contributor shall be considered to relinquish control over the contribution when it is delivered by the contributor to the candidate, to the political committee, or to an agent of the political committee. A contribution that is mailed to the candidate, or to the political committee or to an agent of the political committee, shall be considered to be made on the date of the postmark. *See* 11 CFR 110.1(l)(4). A contribution made in an electronic transaction is considered to be made when the contributor authorizes the transaction. An in-kind contribution shall be considered to be made on the date that the goods or services are provided by the contributor.
 
 (c) *Contributions to political party committees.* (1) No multicandidate political committee shall make contributions to the political committees established and maintained by a national political party in any calendar year which, in the aggregate, exceed $15,000.
 
@@ -70,7 +68,7 @@ If the candidate is not a candidate in the general election, all contributions m
 
 (e) *Contributions by political party committees to Senatorial candidates.* (1) Notwithstanding any other provision of the Act, or of these regulations, the Republican and Democratic Senatorial campaign committees, or the national committee of a political party, may make contributions of not more than a combined total of $35,000 to a candidate for nomination or election to the Senate during the calendar year of the election for which he or she is a candidate. Any contribution made by such committee to a Senatorial candidate under this paragraph in a year other than the calendar year in which the election is held shall be considered to be made during the calendar year in which the election is held.
 
-(2) The contribution limitation in paragraph (e)(1) of this section shall be increased by the percent difference in the price index in accordance with 11 CFR 110.17. The increased contribution limitation shall be in effect for the two calendar years starting on January 1 of the year in which the contribution limitation is increased. In every odd-numbered year, the Commission will publish in the Federal Register the amount of the contribution limitation in effect and place such information on the Commission's Web site.
+(2) The contribution limitation in paragraph (e)(1) of this section shall be increased by the percent difference in the price index in accordance with 11 CFR 110.17. The increased contribution limitation shall be in effect for the two calendar years starting on January 1 of the year in which the contribution limitation is increased. In every odd-numbered year, the Commission will publish in the Federal Register the amount of the contribution limitation in effect and place such information on the Commission's website.
 
 (f) *Contributions to candidates for more than one Federal office.* If an individual is a candidate for more than one Federal office, a multicandidate political committee may make contributions which do not exceed $5,000 to the candidate, or his or her authorized political committees for each election for each office, provided that the requirements set forth in 11 CFR 110.1(f)(1), (2), and (3) are satisfied.
 
@@ -116,4 +114,4 @@ If the candidate is not a candidate in the general election, all contributions m
 
 (2) Notwithstanding paragraph (l)(1) of this section, if the candidate, through an authorized committee, reimburses the multicandidate political committee within 30 days of becoming a candidate, the payment shall not be deemed an in-kind contribution for either entity, and the reimbursement shall be an expenditure of the candidate.
 
-[52 FR 772, Jan. 9, 1987, as amended at 52 FR 35534, Sept. 22, 1987; 58 FR 42173, Aug. 6, 1993; 67 FR 69948, Nov. 19, 2002; 68 FR 457, Jan. 3, 2003; 68 FR 47414, Aug. 8, 2003; 68 FR 64516, Nov. 14, 2003; 81 FR 34863, June 1, 2016]
+[52 FR 772, Jan. 9, 1987, as amended at 52 FR 35534, Sept. 22, 1987; 58 FR 42173, Aug. 6, 1993; 67 FR 69948, Nov. 19, 2002; 68 FR 457, Jan. 3, 2003; 68 FR 47414, Aug. 8, 2003; 68 FR 64516, Nov. 14, 2003; 81 FR 34863, June 1, 2016; 89 FR 217, Jan. 2, 2024]

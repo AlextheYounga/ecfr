@@ -1,5 +1,7 @@
 ##### § 98.19 Requests for temporary relief from requirements. #####
 
+Link to an amendment published at 89 FR 15413, Mar. 1, 2024.
+
 (a) *Requests for relief.* The Secretary may temporarily waive one or more of the requirements contained in the Act or this part, with the exception of State Match and Maintenance of Effort requirements for a State, consistent with the conditions described in section 658I(c)(1) of the Act (42 U.S.C. 9858g(c)(1)), provided that the waiver request:
 
 (1) Describes circumstances that prevent the State, Territory, or Tribe from complying with any statutory or regulatory requirements of this part;

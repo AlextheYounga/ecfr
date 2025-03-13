@@ -1,5 +1,7 @@
 ##### § 98.21 Eligibility determination processes. #####
 
+Link to an amendment published at 89 FR 15413, Mar. 1, 2024.
+
 (a) A Lead Agency shall re-determine a child's eligibility for child care services no sooner than 12 months following the initial determination or most recent redetermination, subject to the following:
 
 (1) During the period of time between determinations or redeterminations, if the child met all of the requirements in § 98.20(a) on the date of the most recent eligibility determination or redetermination, the child shall be considered eligible and will receive services at least at the same level, regardless of:

@@ -1,10 +1,8 @@
 ##### § 110.11 Communications; advertising; disclaimers (52 U.S.C. 30120). #####
 
-Link to an amendment published at 89 FR 217, Jan. 2, 2024.
-
 (a) *Scope.* The following communications must include disclaimers, as specified in this section:
 
-(1) All public communications, as defined in 11 CFR 100.26, made by a political committee; electronic mail of more than 500 substantially similar communications when sent by a political committee; and all Internet websites of political committees available to the general public.
+(1) All public communications, as defined in 11 CFR 100.26, made by a political committee; electronic mail of more than 500 substantially similar communications when sent by a political committee; and all websites and internet applications of political committees available to the general public.
 
 (2) All public communications, as defined in 11 CFR 100.26, by any person that expressly advocate the election or defeat of a clearly identified candidate.
 
@@ -18,7 +16,7 @@ Link to an amendment published at 89 FR 217, Jan. 2, 2024.
 
 (2) If the communication, including any solicitation, is authorized by a candidate, an authorized committee of a candidate, or an agent of either of the foregoing, but is paid for by any other person, the disclaimer must clearly state that the communication is paid for by such other person and is authorized by such candidate, authorized committee, or agent; or
 
-(3) If the communication, including any solicitation, is not authorized by a candidate, authorized committee of a candidate, or an agent of either of the foregoing, the disclaimer must clearly state the full name and permanent street address, telephone number, or World Wide Web address of the person who paid for the communication, and that the communication is not authorized by any candidate or candidate's committee.
+(3) If the communication, including any solicitation, is not authorized by a candidate, authorized committee of a candidate, or an agent of either of the foregoing, the disclaimer must clearly state the full name and permanent street address, telephone number, or website address of the person who paid for the communication, and that the communication is not authorized by any candidate or candidate's committee.
 
 (c) *Disclaimer specifications*—(1) *Specifications for all disclaimers.* A disclaimer required by paragraph (a) of this section must be presented in a clear and conspicuous manner, to give the reader, observer, or listener adequate notice of the identity of the person or political committee that paid for and, where required, that authorized the communication. A disclaimer is not clear and conspicuous if it is difficult to read or hear, or if the placement is easily overlooked.
 
@@ -72,7 +70,7 @@ Link to an amendment published at 89 FR 217, Jan. 2, 2024.
 
 (C) The statement must appear with a reasonable degree of color contrast between the background and the disclaimer statement. A disclaimer satisfies the color contrast requirement of this paragraph (c)(4)(iii)(C) if it is printed in black text on a white background or if the degree of color contrast between the background and the text of the disclaimer is no less than the color contrast between the background and the largest type size used in the communication.
 
-(5) *Specific requirements for internet public communications.* (i) For purposes of this section, *internet public communication* means any public communication over the internet that is placed for a fee on another person's website, digital device, application, or advertising platform.
+(5) *Specific requirements for internet public communications.* (i) For purposes of this section, *internet public communication* means any public communication over the internet that is placed or promoted for a fee on another person's website, digital device, application, or advertising platform. A public communication is promoted for a fee where a payment is made to a website, digital device, application, or advertising platform in order to increase the circulation, prominence, or availability of the communication on that website, digital device, application, or advertising platform.
 
 (ii) An internet public communication must include a disclaimer that complies with the requirements of paragraphs (b) and (c)(1) of this section. The disclaimer requirement under this paragraph applies to any person that pays to place an internet public communication, regardless of whether that person originally created, produced, or distributed the communication.
 
@@ -122,4 +120,4 @@ Link to an amendment published at 89 FR 217, Jan. 2, 2024.
 
 (2) For purposed of this section, comparable rate means the rate charged to a national or general rate advertiser, and shall include discount privileges usually and normally available to a national or general rate advertiser.
 
-[67 FR 76975, Dec. 13, 2002, as amended at 71 FR 18613, Apr. 12, 2006; 79 FR 77847, Dec. 29, 2014; 87 FR 77479, Dec. 19, 2022]
+[67 FR 76975, Dec. 13, 2002, as amended at 71 FR 18613, Apr. 12, 2006; 79 FR 77847, Dec. 29, 2014; 87 FR 77479, Dec. 19, 2022; 89 FR 217, Jan. 2, 2024]

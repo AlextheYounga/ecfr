@@ -1,7 +1,5 @@
 ##### § 4.1 Definitions. #####
 
-Link to an amendment published at 89 FR 213, Jan. 2, 2024.
-
 As used in this part:
 
 (a) *Commission* means the Federal Election Commission, established by the Federal Election Campaign Act of 1971, as amended.
@@ -22,7 +20,7 @@ As used in this part:
 
 (i) *Review* means the process of examining a document located in response to a commercial use request to determine whether any portion of the document located is exempt from disclosure. Review also refers to processing any document for disclosure, *i.e.*, doing all that is necessary to excise exempt portions of the document and otherwise prepare the document for release. Review does not include time spent by the Commission resolving general legal or policy issues regarding the application of exemptions.
 
-(j) *Duplication* means the process of making a copy of a document necessary to respond to a FOIA request. Examples of the form such copies can take include, but are not limited to, paper copy, microform, audio-visual materials, or machine readable documentation (e.g., magnetic tape or disk).
+(j) *Duplication* means the process of making a copy of a document necessary to respond to a FOIA request. Examples of the form such copies can take include, but are not limited to, paper copy, audio-visual materials, or digital storage device.
 
 (k) *Commercial use* means a purpose that furthers the commercial, trade, or profit interests of the requestor or the person on whose behalf the request is made. The Commission's determination as to whether documents are being requested for a commercial use will be based on the purpose for which the documents are being requested. Where the Commission has reasonable cause to doubt the use for which the requestor claims to have made the request or where that use is not clear from the request itself, the Commission will seek additional clarification before assigning the request to a specific category.
 
@@ -34,4 +32,4 @@ As used in this part:
 
 (o) *Record* and any other term used in this part in reference to information includes any information that would be a Commission record subject to the requirements of this part when maintained by the Commission in any format, including an electronic format.
 
-[44 FR 33368, June 8, 1979, as amended at 45 FR 31291, May 13, 1980; 52 FR 39212, Oct. 21, 1987; 65 FR 9206, Feb. 24, 2000; 79 FR 77844, Dec. 29, 2014; 81 FR 92439, Dec. 23, 2016]
+[44 FR 33368, June 8, 1979, as amended at 45 FR 31291, May 13, 1980; 52 FR 39212, Oct. 21, 1987; 65 FR 9206, Feb. 24, 2000; 79 FR 77844, Dec. 29, 2014; 81 FR 92439, Dec. 23, 2016; 89 FR 213, Jan. 2, 2024]

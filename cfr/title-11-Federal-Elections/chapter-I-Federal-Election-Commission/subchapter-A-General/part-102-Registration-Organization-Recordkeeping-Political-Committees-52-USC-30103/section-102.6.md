@@ -1,7 +1,5 @@
 ##### § 102.6 Transfers of funds; collecting agents. #####
 
-Link to an amendment published at 89 FR 215, Jan. 2, 2024.
-
 (a) *Transfers of funds; registration and reporting required*—(1) *Who may make transfers under this section.* (i) Transfers of funds may be made without limit on amount between affiliated committees whether or not they are political committees under 11 CFR 100.5.
 
 (ii) Subject to the restrictions set forth at 11 CFR 300.10(a), 300.31 and 300.34(a) and (b), transfers of funds may be made without limit on amount between or among a national party committee, a State party committee and/or any subordinate party committee whether or not they are political committees under 11 CFR 100.5 and whether or not such committees are affiliated.
@@ -32,13 +30,13 @@ Link to an amendment published at 89 FR 215, Jan. 2, 2024.
 
 (c) *Procedures for collecting agents*—(1) *Separate segregated fund responsible for acts of collecting agent.* The separate segregated fund shall be responsible for ensuring that the recordkeeping, reporting and transmittal requirements of this section are met.
 
-(2) *Solicitation for contributions.* A collecting agent may include a solicitation for voluntary contributions to a separate segregated fund in a bill for membership dues or other payments such as conference registration fees or a solicitation for contributions to the collecting agent. The collecting agent may only solicit contributions from those persons permitted to be solicited under 11 CFR part 114. The solicitation for contributions must meet all of the requirements for proper solicitations under 11 CFR 114.5.
+(2) *Solicitation for contributions.* A collecting agent may include a solicitation for voluntary contributions to a separate segregated fund with a bill for membership dues or other payments such as conference registration fees or a solicitation for contributions to the collecting agent. The collecting agent may only solicit contributions from those persons permitted to be solicited under 11 CFR part 114. The solicitation for contributions must meet all of the requirements for proper solicitations under 11 CFR 114.5.
 
 (i) The collecting agent may pay any or all of the costs incurred in soliciting and transmitting contributions to the separate segregated fund.
 
 (ii) If the separate segregated fund pays any solicitation or other administrative expense from its own account, which expense could be paid for as an administrative expense by the collecting agent, the collecting agent may reimburse the separate segregated fund no later than 30 calendar days after the expense was paid by the separate segregated fund.
 
-(3) *Checks combining contributions with other payments.* A contributor may write a check that represents both a contribution and payment of dues or other fees. The check must be drawn on the contributor's personal checking account or on a non-repayable corporate drawing account of the individual contributor. Under a payroll deduction plan, an employer may write a check on behalf of its employees to a union or its agent, which check represents a combined payment of voluntary contributions to the union's separate segregated fund and union dues or other employee deductions.
+(3) *Combining contributions with other payments.* A contributor may write a check or authorize a credit card or electronic payment that represents both a contribution and payment of dues or other fees. The combined payment must be made from the contributor's personal account or on a non-repayable corporate drawing account of the individual contributor. Under a payroll deduction plan, an employer may make a payment on behalf of its employees to a union or its agent that represents a combined payment of voluntary contributions to the union's separate segregated fund and union dues or other employee deductions.
 
 (4) *Transmittal of contributions.* The full amount of each contribution collected by a collecting agent on behalf of a separate segregated fund shall be transmitted to that fund within 10 or 30 days as required by 11 CFR 102.8.
 
@@ -60,4 +58,4 @@ Link to an amendment published at 89 FR 215, Jan. 2, 2024.
 
 (7) *Reporting of funds received through collecting agents.* A separate segregated fund receiving contributions collected by a collecting agent shall report the full amount of each contribution received as a contribution from the original contributor to the extent required by 11 CFR 104.3(a).
 
-[48 FR 26300, June 7, 1983, as amended at 68 FR 451, Jan. 3, 2003; 69 FR 63920, Nov. 3, 2004]
+[48 FR 26300, June 7, 1983, as amended at 68 FR 451, Jan. 3, 2003; 69 FR 63920, Nov. 3, 2004; 89 FR 215, Jan. 2, 2024]

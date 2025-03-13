@@ -1,7 +1,5 @@
 ##### § 356.2 Definitions. #####
 
-Link to an amendment published at 89 FR 6015, Jan. 31, 2024.
-
 For purposes of this part:
 
 (a) *Act* means the Tariff Act of 1930, as amended;
@@ -94,7 +92,7 @@ For purposes of this part:
 
 (dd) *Protective order* means a protective order issued by the Department under 19 CFR 356.10(c) or 356.11(c);
 
-(ee) *Scope determination* or *class or kind of merchandise determination* means a determination by the Department, reviewable under section 516A(a)(2)(B)(vi) of the Act (19 U.S.C. 1516a(a)(2)(B)(vi)), as to whether a particular type of merchandise is within the class or kind of merchandise described in an existing finding of dumping or an antidumping or countervailing duty order covering free trade area country merchandise.
+(ee) *Class or kind of merchandise determination* means a determination by the Department, reviewable under section 516A(a)(2)(B)(vi) of the Act (19 U.S.C. 1516a(a)(2)(B)(vi)), as to whether a particular type of merchandise is within the class or kind of merchandise described in an existing finding of dumping or an antidumping or countervailing duty order covering free trade area country merchandise. This includes Department rulings and determinations issued under §§ 351.225, 351.226, and 351.227.
 
 (ff) *Secretariat* means the Secretariat established pursuant to Article 30.6 of the Agreement and includes the Secretariat sections located in Canada, Mexico, and the United States;
 
@@ -108,4 +106,4 @@ For purposes of this part:
 
 (kk) *United States section of the Secretariat* means, for the purposes of filing, United States Secretary, USMCA Secretariat, room 2061, U.S. Department of Commerce 14th and Constitution Avenue NW, Washington, DC 20230.
 
-[59 FR 229, Jan. 3, 1994, as amended at 86 FR 70048, Dec. 9, 2021]
+[59 FR 229, Jan. 3, 1994, as amended at 86 FR 70048, Dec. 9, 2021; 89 FR 6015, Jan. 31, 2024]

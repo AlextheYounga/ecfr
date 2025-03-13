@@ -1,7 +1,5 @@
 ##### § 102.9 Accounting for contributions and expenditures (52 U.S.C. 30102(c)). #####
 
-Link to an amendment published at 89 FR 215, Jan. 2, 2024.
-
 The treasurer of a political committee or an agent authorized by the treasurer to receive contributions and make expenditures shall fulfill all recordkeeping duties as set forth at 11 CFR 102.9(a) through (f):
 
 (a) An account shall be kept by any reasonable accounting procedure of all contributions received by or on behalf of the political committee.
@@ -12,11 +10,7 @@ The treasurer of a political committee or an agent authorized by the treasurer t
 
 (3) For contributions from a political committee, such account shall include the identification of the political committee and the date of receipt and amount of such contribution.
 
-(4) In addition to the account to be kept under paragraph (a)(1) of this section, for contributions in excess of $50, the treasurer of a political committee or an agent authorized by the treasurer shall maintain:
-
-(i) A full-size photocopy of each check or written instrument; or
-
-(ii) A digital image of each check or written instrument. The political committee or other person shall provide the computer equipment and software needed to retrieve and read the digital images, if necessary, at no cost to the Commission.
+(4) In addition to the account to be kept under paragraph (a)(1) of this section, for contributions in excess of $50, the treasurer of a political committee or an agent authorized by the treasurer shall maintain a record of each contribution received. A record of a contribution by check or written instrument must contain an image of that instrument. A record of the receipt of a contribution must include sufficient information to associate that contribution with its deposit in the political committee's campaign depository, such as, for example, a batch number.
 
 (b)(1) An account shall be kept of all disbursements made by or on behalf of the political committee. Such account shall consist of a record of:
 
@@ -28,15 +22,13 @@ The treasurer of a political committee or an agent authorized by the treasurer t
 
 (iv) For purposes of 11 CFR 102.9(b)(1), *purpose* has the same meaning given the term at 11 CFR 104.3(b)(3)(i)(A).
 
-(2) In addition to the account to be kept under 11 CFR 102.9(b)(1), a receipt or invoice from the payee or a cancelled check to the payee shall be obtained and kept for each disbursement in excess of $200 by or on behalf of, the committee, except that credit card transactions, shall be documented in accordance with 11 CFR 102.9(b)(2)(ii) and disbursements by share draft or check drawn on a credit union account shall be documented in accordance with 11 CFR 102.9(b)(2)(iii).
+(2) In addition to the account to be kept under 11 CFR 102.9(b)(1), a receipt or invoice from the payee or a canceled check or record of electronic transfer to the payee shall be obtained and kept for each disbursement in excess of $200 by or on behalf of, the committee, except that credit card transactions, shall be documented in accordance with 11 CFR 102.9(b)(2)(ii) and disbursements by share draft or check drawn on a credit union account shall be documented in accordance with 11 CFR 102.9(b)(2)(iii).
 
 (i)(A) For purposes of 11 CFR 102.9(b)(2), *payee* means the person who provides the goods or services to the committee or agent thereof in return for payment, except for an advance of $500 or less for travel and subsistence to an individual who will be the recipient of the goods or services.
 
-(B) For any advance of $500 or less to an individual for travel and subsistence, the expense voucher or other expense account documentation and a cancelled check to the recipient of the advance shall be obtained and kept.
+(B) For any advance of $500 or less to an individual for travel and subsistence, the expense voucher or other expense account record and a canceled check or record of electronic transfer to the recipient of the advance shall be obtained and kept.
 
-(ii) For any credit card transaction, documentation shall include a monthly billing statement or customer receipt for each transaction and the cancelled check used to pay the credit card account.
-
-(iii) For purposes of 11 CFR 102.9(b)(2), a carbon copy of a share draft or check drawn on a credit union account may be used as a duplicate record of such draft or check provided that the monthly account statement showing that the share draft or check was paid by the credit union is also retained.
+(ii) For any credit card transaction, a record shall include a monthly billing statement or customer receipt for each transaction and the canceled check or record of electronic transfer used to pay the credit card account.
 
 (c) The treasurer shall preserve all records and accounts required to be kept under 11 CFR 102.9 for 3 years after the report to which such records and accounts relate is filed.
 
@@ -52,6 +44,6 @@ The treasurer of a political committee or an agent authorized by the treasurer t
 
 (3) If a candidate is not a candidate in the general election, any contributions made for the general election shall be refunded to the contributors, redesignated in accordance with 11 CFR 110.1(b)(5) or 110.2(b)(5), or reattributed in accordance with 11 CFR 110.1(k)(3), as appropriate.
 
-(f) The treasurer shall maintain the documentation required by 11 CFR 110.1(l), concerning designations, redesignations, reattributions and the dates of contributions. If the treasurer does not maintain this documentation, 11 CFR 110.1(l)(5) shall apply.
+(f) The treasurer shall maintain the records required by 11 CFR 110.1(l), concerning designations, redesignations, reattributions, and the dates of contributions. If the treasurer does not maintain these records, 11 CFR 110.1(l)(5) shall apply.
 
-[45 FR 15104, Mar. 7, 1980, as amended at 52 FR 773, Jan. 9, 1987; 67 FR 69946, Nov. 19, 2002;79 FR 16663, Mar. 26, 2014]
+[45 FR 15104, Mar. 7, 1980, as amended at 52 FR 773, Jan. 9, 1987; 67 FR 69946, Nov. 19, 2002;79 FR 16663, Mar. 26, 2014; 89 FR 215, Jan. 2, 2024]

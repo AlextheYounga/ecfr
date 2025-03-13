@@ -1,7 +1,5 @@
 ##### § 9003.2 Candidate certifications. #####
 
-Link to an amendment published at 89 FR 219, Jan. 2, 2024.
-
 (a) *Major party candidates.* To be eligible to receive payments under 11 CFR part 9005, each Presidential and Vice Presidential candidate of a major party shall, under penalty of perjury, certify to the Commission:
 
 (1) That the candidate and his or her authorized committee(s) have not incurred and will not incur qualified campaign expenses in excess of the aggregate payments to which they will be entitled under 11 CFR part 9004.
@@ -42,4 +40,6 @@ Link to an amendment published at 89 FR 219, Jan. 2, 2024.
 
 (8) Expenditures made using a credit card for which the candidate is jointly or solely liable will count against the limits of this section to the extent that the full amount due, including any finance charge, is not paid by the committee within 60 days after the closing date of the billing statement on which the charges first appear. For purposes of this section, the “closing date” shall be the date indicated on the billing statement which serves as the cutoff date for determining which charges are included on that billing statement.
 
-(d) *Form.* Major party candidates shall submit the certifications required under 11 CFR 9003.2 in a letter which shall be signed and submitted within 14 days after receiving the party's nomination for election. Minor and new party candidates shall sign and submit such letter within 14 days after such candidates have qualified to appear on the general election ballot in 10 or more States pursuant to 11 CFR 9002.2(a)(2). The Commission, upon written request by a minor or new party candidate made at any time prior to the date of the general election, may extend the deadline for filing such letter, except that the deadline shall be a date prior to the day of the general election.
+(d) *Form.* Major party candidates shall sign and submit the certifications required under 11 CFR 9003.2 within 14 days after receiving the party's nomination for election. Minor and new party candidates shall sign and submit such certification within 14 days after such candidates have qualified to appear on the general election ballot in 10 or more States pursuant to 11 CFR 9002.2(a)(2). The Commission, upon written request by a minor or new party candidate made at any time prior to the date of the general election, may extend the deadline for filing such certification, except that the deadline shall be a date prior to the day of the general election.
+
+[56 FR 35913, July 29, 1991, as amended at 89 FR 219, Jan. 2, 2024]

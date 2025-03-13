@@ -1,7 +1,5 @@
 ##### § 100.29 Electioneering communication (52 U.S.C. 30104(f)(3)). #####
 
-Link to an amendment published at 89 FR 214, Jan. 2, 2024.
-
 (a) *Electioneering communication* means any broadcast, cable, or satellite communication that:
 
 (1) Refers to a clearly identified candidate for Federal office;
@@ -30,11 +28,11 @@ Link to an amendment published at 89 FR 214, Jan. 2, 2024.
 
 (ii) In the State the candidate seeks to represent, in the case of a candidate for Senator.
 
-(6)(i) Information on the number of persons in a Congressional district or State that can receive a communication publicly distributed by a television station, radio station, a cable television system, or satellite system, shall be available on the Federal Communications Commission's Web site, *http://www.fcc.gov.* A link to that site is available on the Federal Election Commission's Web site, *http://www.fec.gov.* If the Federal Communications Commission's Web site indicates that a communication cannot be received by 50,000 or more persons in the specified Congressional district or State, then such information shall be a complete defense against any charge that such communication constitutes an electioneering communication, so long as such information is posted on the Federal Communications Commission's Web site on or before the date the communication is publicly distributed.
+(6)(i) Information on the number of persons in a Congressional district or State that can receive a communication publicly distributed by a television station, radio station, a cable television system, or satellite system, shall be available on the Federal Communications Commission's website, *http://www.fcc.gov.* A link to that site is available on the Federal Election Commission's website, *http://www.fec.gov.* If the Federal Communications Commission's website indicates that a communication cannot be received by 50,000 or more persons in the specified Congressional district or State, then such information shall be a complete defense against any charge that such communication constitutes an electioneering communication, so long as such information is posted on the Federal Communications Commission's website on or before the date the communication is publicly distributed.
 
-(ii) If the Federal Communications Commission's Web site does not indicate whether a communication can be received by 50,000 or more persons in the specified Congressional district or State, it shall be a complete defense against any charge that a communication reached 50,000 or more persons when the maker of a communication:
+(ii) If the Federal Communications Commission's website does not indicate whether a communication can be received by 50,000 or more persons in the specified Congressional district or State, it shall be a complete defense against any charge that a communication reached 50,000 or more persons when the maker of a communication:
 
-(A) Reasonably relies on written documentation obtained from the broadcast station, radio station, cable system, or satellite system that states that the communication cannot be received by 50,000 or more persons in the specified Congressional district (for U.S. House of Representatives candidates) or State (for U.S. Senate candidates or presidential primary candidates);
+(A) Reasonably relies on a writing obtained from the broadcast station, radio station, cable system, or satellite system that states that the communication cannot be received by 50,000 or more persons in the specified Congressional district (for U.S. House of Representatives candidates) or State (for U.S. Senate candidates or presidential primary candidates);
 
 (B) Does not publicly distribute the communication on a broadcast station, radio station, or cable system, located in any Metropolitan Area in the specified Congressional district (for U.S. House of Representatives candidates) or State (for U.S. Senate candidates or presidential primary candidates); or
 
@@ -82,4 +80,4 @@ Link to an amendment published at 89 FR 214, Jan. 2, 2024.
 
 (5) Is paid for by a candidate for State or local office in connection with an election to State or local office, provided that the communication does not promote, support, attack or oppose any Federal candidate. *See* 11 CFR 300.71 for communications paid for by a candidate for State or local office that promotes, supports, attacks or opposes a Federal candidate.
 
-[67 FR 65210, 65217, Oct. 23, 2002, as amended at 70 FR 75717, Dec. 21, 2005; 79 FR 16663, Mar. 26, 2014]
+[67 FR 65210, 65217, Oct. 23, 2002, as amended at 70 FR 75717, Dec. 21, 2005; 79 FR 16663, Mar. 26, 2014; 89 FR 214, Jan. 2, 2024]

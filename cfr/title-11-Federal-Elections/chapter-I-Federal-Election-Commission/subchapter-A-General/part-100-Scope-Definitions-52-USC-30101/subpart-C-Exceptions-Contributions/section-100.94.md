@@ -1,14 +1,12 @@
 ##### § 100.94 Uncompensated Internet activity by individuals that is not a contribution. #####
 
-Link to an amendment published at 89 FR 215, Jan. 2, 2024.
-
 (a) When an individual or a group of individuals, acting independently or in coordination with any candidate, authorized committee, or political party committee, engages in Internet activities for the purpose of influencing a Federal election, neither of the following is a contribution by that individual or group of individuals:
 
 (1) The individual's uncompensated personal services related to such Internet activities;
 
 (2) The individual's use of equipment or services for uncompensated Internet activities, regardless of who owns the equipment and services.
 
-(b) *Internet activities.* For the purposes of this section, the term “Internet activities” includes, but is not limited to: Sending or forwarding electronic messages; providing a hyperlink or other direct access to another person's Web site; blogging; creating, maintaining, or hosting a Web site; paying a nominal fee for the use of another person's Web site; and any other form of communication distributed over the Internet.
+(b) *Internet activities.* For the purposes of this section, the term “Internet activities” includes, but is not limited to: Sending or forwarding electronic messages; providing a hyperlink or other direct access to another person's website; blogging; creating, maintaining, or hosting a Web site; paying a nominal fee for the use of another person's website; and any other form of communication distributed over the Internet.
 
 (c) *Equipment and services.* For the purposes of this section, the term “equipment and services” includes, but is not limited to: Computers, software, Internet domain names, Internet Service Providers (ISP), and any other technology that is used to provide access to or use of the Internet.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 89 FR 215, Jan. 2, 2024.
 
 (3) Any payment for an e-mail address list that is transferred to a political committee.
 
-[71 FR 18613, Apr. 12, 2006, as amended at 81 FR 94240, Dec. 23, 2016]
+[71 FR 18613, Apr. 12, 2006, as amended at 81 FR 94240, Dec. 23, 2016; 89 FR 215, Jan. 2, 2024]

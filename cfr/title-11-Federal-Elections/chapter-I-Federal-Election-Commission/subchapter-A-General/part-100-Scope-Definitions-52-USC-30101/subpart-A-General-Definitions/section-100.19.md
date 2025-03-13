@@ -1,10 +1,8 @@
 ##### § 100.19 File, filed, or filing (52 U.S.C. 30104(a)). #####
 
-Link to an amendment published at 89 FR 214, Jan. 2, 2024.
+With respect to documents required to be filed with the Commission under 11 CFR parts 101, 102, 104, 105, 107, 108, and 109, and any modifications or amendments thereto, the terms *file, filed,* and *filing* mean one of the actions set forth in paragraphs (a) through (f) of this section. With respect to documents to be filed with the Commission under any other provision of 11 CFR, the terms *file, filed,* and *filing* mean one of the actions set forth in paragraph (g) of this section. For purposes of this section, document means any report, statement, notice, designation, request, petition, or other writing to be filed with the Commission.
 
-With respect to documents required to be filed under 11 CFR parts 101, 102, 104, 105, 107, 108, and 109, and any modifications or amendments thereto, the terms *file, filed, and filing* mean one of the actions set forth in paragraphs (a) through (f) of this section. For purposes of this section, document means any report, statement, notice, or designation required by the Act to be filed with the Commission.
-
-(a) *Where to deliver reports.* Except for documents electronically filed under paragraph (c) of this section, a document is timely filed upon delivery to the Federal Election Commission, at the street address identified in the definition of “Commission” in § 1.2, by the close of business on the prescribed filing date.
+(a) *Where to deliver reports.* Except for documents electronically filed under paragraph (c) of this section, a document is timely filed upon delivery to the Federal Election Commission as required by 11 CFR part 105, by the close of business on the prescribed filing date.
 
 (b) *Timely filed.* (1) A document, other than those addressed in paragraphs (c) through (f) of this section, is timely filed if:
 
@@ -38,4 +36,6 @@ With respect to documents required to be filed under 11 CFR parts 101, 102, 104,
 
 (f) *24-hour statements of electioneering communications.* A 24-hour statement of electioneering communications under 11 CFR 104.20 is timely filed when it is received by the Commission by 11:59 p.m. Eastern Standard/Daylight Time on the day following the disclosure date. (*See* 11 CFR 104.20(a)(1) and (b)). In addition to other permissible means of filing, a 24-hour statement of electioneering communications may be filed using a facsimile machine or by electronic mail if the reporting entity is not required to file electronically in accordance with 11 CFR 104.18.
 
-[67 FR 12839, Mar. 20, 2002, as amended at 68 FR 416, Jan. 3, 2003; 68 FR 3995, Jan. 27, 2003; 70 FR 13091, Mar. 18, 2005; 73 FR 79601, Dec. 30, 2008; 82 FR 60853, Dec. 26, 2017; 84 FR 18698, May 2, 2019]
+(g) A document may be filed in person or by mail, including priority mail or express mail, or overnight delivery service, with the Federal Election Commission, or by any alternative means, including electronic, that the Commission may prescribe.
+
+[67 FR 12839, Mar. 20, 2002, as amended at 68 FR 416, Jan. 3, 2003; 68 FR 3995, Jan. 27, 2003; 70 FR 13091, Mar. 18, 2005; 73 FR 79601, Dec. 30, 2008; 82 FR 60853, Dec. 26, 2017; 84 FR 18698, May 2, 2019; 89 FR 214, Jan. 2, 2024]

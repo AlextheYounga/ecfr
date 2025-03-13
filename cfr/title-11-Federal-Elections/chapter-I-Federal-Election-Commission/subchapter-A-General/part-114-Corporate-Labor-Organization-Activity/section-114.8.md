@@ -1,7 +1,5 @@
 ##### § 114.8 Trade associations. #####
 
-Link to an amendment published at 89 FR 218, Jan. 2, 2024.
-
 (a) *Definition.* A trade association is generally a membership organization of persons engaging in a similar or related line of commerce, organized to promote and improve business conditions in that line of commerce and not to engage in a regular business of a kind ordinarily carried on for profit, and no part of the net earnings of which inures to the benefit of any member.
 
 (b) *Prohibition.* Nothing in this section waives the prohibition on contributions by corporations which are members of a trade association.
@@ -14,9 +12,9 @@ Link to an amendment published at 89 FR 218, Jan. 2, 2024.
 
 (d) *Separate and specific approval.* (1) The member corporation must knowingly and specifically approve any solicitation for a trade association, whether the solicitation is done by the trade association, its separate segregated fund, or the corporation or any of its personnel, for contributions to the trade association's separate segregated fund.
 
-(2) A copy of each approved request received by a trade association or its separate segregated fund shall be maintained by the trade association or its fund for three years from the year for which the approval is given.
+(2) A record of each approved request received by a trade association or its separate segregated fund shall be maintained by the trade association or its fund for three years from the year for which the approval is given.
 
-(3) The request for approval may contain a copy of solicitation materials which will be used if approval is granted. Such a mailing must specifically indicate the requirement of approval and the limitation of paragraph (c)(2) of this section, and approval must be granted to the trade association or its separate segregated fund prior to the time any solicitation is made of the stockholders or executive or administrative personnel by the trade association, its separate segregated fund, or by the corporation for contributions to the separate segregated fund of the trade association. (The request for approval may be sent to the representatives of the corporation with whom the trade association normally conducts the association's activities.)
+(3) The request for approval may contain a record of solicitation materials which will be used if approval is granted. Such a solicitation must specifically indicate the requirement of approval and the limitation of paragraph (c)(2) of this section, and approval must be granted to the trade association or its separate segregated fund prior to the time any solicitation is made of the stockholders or executive or administrative personnel by the trade association, its separate segregated fund, or by the corporation for contributions to the separate segregated fund of the trade association. (The request for approval may be sent to the representatives of the corporation with whom the trade association normally conducts the association's activities.)
 
 (4) A separate authorization specifically allowing a trade association to solicit its corporate member's stockholders, and executive or administrative personnel applies through the calendar year for which it is designated. A separate authorization by the corporate member must be designated for each year during which the solicitation is to occur. This authorization may be requested and may also be received prior to the calendar year in which the solicitation is to occur.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 89 FR 218, Jan. 2, 2024.
 
 (2) A trade association may solicit its executive or administrative personnel and their families under the provisions of § 114.5(g); a trade association may solicit its other employees under the provisions of § 114.6.
 
-(52 U.S.C. 30118, 30107(a)(8))[41 FR 35955, Aug. 25, 1976, as amended at 48 FR 48650, Oct. 20, 1983; 48 FR 50508, Nov. 2, 1983; 54 FR 10622, Mar. 15, 1989; 54 FR 27154, June 28, 1989, 54 FR 34114, Aug. 17, 1989; 54 FR 48580, Nov. 24, 1989; 55 FR 2281, Jan. 23, 1990; 70 FR 41944, July 21, 2005]
+(52 U.S.C. 30118, 30107(a)(8))[41 FR 35955, Aug. 25, 1976, as amended at 48 FR 48650, Oct. 20, 1983; 48 FR 50508, Nov. 2, 1983; 54 FR 10622, Mar. 15, 1989; 54 FR 27154, June 28, 1989, 54 FR 34114, Aug. 17, 1989; 54 FR 48580, Nov. 24, 1989; 55 FR 2281, Jan. 23, 1990; 70 FR 41944, July 21, 2005; 89 FR 218, Jan. 2, 2024]

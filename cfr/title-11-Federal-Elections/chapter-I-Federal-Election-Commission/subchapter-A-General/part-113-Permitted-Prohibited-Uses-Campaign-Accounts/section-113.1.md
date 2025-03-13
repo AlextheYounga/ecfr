@@ -1,7 +1,5 @@
 ##### § 113.1 Definitions (52 U.S.C. 30114). #####
 
-Link to an amendment published at 89 FR 13, Jan. 2, 2024.
-
 When used in this part—
 
 (a) *Funds donated. Funds donated* means all funds, including, but not limited to, gifts, loans, advances, credits or deposits of money which are donated for the purpose of supporting the activities of a Federal or State officeholder; but does not mean funds appropriated by Congress, a State legislature, or another similar public appropriating body, or personal funds of the officeholder donated to an account containing only those personal funds.
@@ -40,7 +38,7 @@ When used in this part—
 
 (H) Salary payments to a member of the candidate's family, unless the family member is providing *bona fide* services to the campaign. If a family member provides *bona fide* services to the campaign, any salary payment in excess of the fair market value of the services provided is personal use.
 
-(I) Salary payments by a candidate's principal campaign to a candidate in excess of the lesser of: the minimum salary paid to a Federal officeholder holding the Federal office that the candidate seeks; or the earned income that the candidate received during the year prior to becoming a candidate. Any earned income that a candidate receives from salaries or wages from any other source shall count against the foregoing limit of the minimum salary paid to a Federal officeholder holding the Federal office that the candidate seeks. The candidate must provide income tax records from the relevant years and other evidence of earned income upon the request of the Commission. Salary shall not be paid to a candidate before the filing deadline for access to the primary election ballot for the Federal office that the candidate seeks, as determined by State law, or in those states that do not conduct primaries, on January 1 of each even-numbered year. *See* 11 CFR 100.24(a)(1)(i). If the candidate wins the primary election, his or her principal campaign committee may pay him or her a salary from campaign funds through the date of the general election, up to and including the date of any general election runoff. If the candidate loses the primary, withdraws from the race, or otherwise ceases to be a candidate, no salary payments may be paid beyond the date he or she is no longer a candidate. In odd-numbered years in which a special election for a Federal office occurs, the principal campaign committee of a candidate for that office may pay him or her a salary from campaign funds starting on the date the special election is set and ending on the day of the special election. *See* 11 CFR 100.24(a)(1)(ii). During the time period in which a principal campaign committee may pay a salary to a candidate under this paragraph, such payment must be computed on a pro-rata basis. A Federal officeholder, as defined in paragraph (c) of this section, must not receive salary payments as a candidate from campaign funds.
+(I) [Reserved]
 
 (J) A vacation.
 
@@ -62,7 +60,23 @@ When used in this part—
 
 (5) *Political or officially connected expenses.* The use of campaign funds for an expense that would be a political expense under the rules of the United States House of Representatives or an officially connected expense under the rules of the United States Senate is not personal use to the extent that the expense is an expenditure under subpart D of part 100 or an ordinary and necessary expense incurred in connection with the duties of a holder of Federal office. Any use of funds that would be personal use under paragraph (g)(1) of this section will not be considered an expenditure under subpart D of part 100 or an ordinary and necessary expense incurred in connection with the duties of a holder of Federal office.
 
-(6) *Third party payments.* Notwithstanding that the use of funds for a particular expense would be a personal use under this section, payment of that expense by any person other than the candidate or the campaign committee shall be a contribution under subpart B of part 100 to the candidate unless the payment would have been made irrespective of the candidacy. Examples of payments considered to be irrespective of the candidacy include, but are not limited to, situations where—
+(6) *Candidate compensation.* (i) A Federal officeholder, as defined in paragraph (c) of this section, must not receive compensation as a candidate from campaign funds.
+
+(ii) The use of campaign funds by a candidate's principal campaign committee to pay compensation to the candidate is not personal use, provided that the compensation does not exceed the lesser of: 50% of the minimum annual salary paid to a Member of the United States House of Representatives under 2 U.S.C. 4501, and the average annual income that the candidate earned during the most recent five calendar years in which the candidate earned income prior to becoming a candidate. The committee must calculate compensation, minimum annual salary, and average annual income at the daily rate, rounded to the nearest dollar.
+
+(iii) For the purposes of this paragraph, *compensation* means direct payments to the candidate unless the payments are otherwise permitted by law, such as candidate expense reimbursements and candidate loan repayments under 11 CFR part 116.
+
+(iv) The candidate's principal campaign committee must reduce the maximum amount of candidate compensation permissible under this paragraph (g)(6) by the amount of any earned income the candidate receives from any other source after filing a Statement of Candidacy under 11 CFR 101.1(a).
+
+(v)(A) Compensation shall not accrue or be paid to a candidate before the date the candidate files a Statement of Candidacy with the Commission. *See* 11 CFR 101.1(a).
+
+(B) A candidate's principal campaign committee may pay the candidate compensation from campaign funds up to 20 days after the candidate wins the general election, general election runoff, special election, or special election runoff, or otherwise ceases to be a candidate, such as by losing an election or withdrawing from the race.
+
+(vi) Any principal campaign committee seeking to settle debts for less than the full value may not pay compensation to the candidate or settle or satisfy a debt to a candidate for compensation.
+
+(vii) The candidate must provide evidence of earned income from the relevant years upon the request of the Commission. Any such evidence of earned income must be maintained and preserved for three years after the report disclosing the disbursement is filed, pursuant to 11 CFR 102.9 and 104.14(b).
+
+(7) *Third party payments.* Notwithstanding that the use of funds for a particular expense would be a personal use under this section, payment of that expense by any person other than the candidate or the campaign committee shall be a contribution under subpart B of part 100 to the candidate unless the payment would have been made irrespective of the candidacy. Examples of payments considered to be irrespective of the candidacy include, but are not limited to, situations where—
 
 (i) The payment is a donation to a legal expense trust fund established in accordance with the rules of the United States Senate or the United States House of Representatives;
 
@@ -76,7 +90,7 @@ When used in this part—
 
 (C) The compensation does not exceed the amount of compensation which would be paid to any other similarly qualified person for the same work over the same period of time.
 
-(7) *Members of the candidate's family.* For the purposes of paragraph (g) of this section, the candidate's family includes:
+(8) *Members of the candidate's family.* For the purposes of paragraph (g) of this section, the candidate's family includes:
 
 (i) The spouse of the candidate;
 
@@ -86,6 +100,6 @@ When used in this part—
 
 (iv) A person who shares a residence with the candidate.
 
-(8) *Recordkeeping.* For those uses of campaign funds described in paragraphs (g)(1)(i) and (g)(1)(ii) of this section that involve both personal use and either campaign or office-holder use, a contemporaneous log or other record must be kept to document the dates and expenses related to the personal use of the campaign funds. The log must be updated whenever campaign funds are used for personal expenses, as described in paragraph (g)(1) of this section, rather than for campaign or office-holder expenses. The log or other record must also be maintained and preserved for 3 years after the report disclosing the disbursement is filed, pursuant to 11 CFR 102.9 and 104.14(b).
+(9) *Recordkeeping.* For those uses of campaign funds described in paragraphs (g)(1)(i) and (g)(1)(ii) of this section that involve both personal use and either campaign or office-holder use, a contemporaneous log or other record must be kept to document the dates and expenses related to the personal use of the campaign funds. The log must be updated whenever campaign funds are used for personal expenses, as described in paragraph (g)(1) of this section, rather than for campaign or office-holder expenses. The log or other record must also be maintained and preserved for 3 years after the report disclosing the disbursement is filed, pursuant to 11 CFR 102.9 and 104.14(b).
 
-[45 FR 15124, Mar. 7, 1980, as amended at 56 FR 34126, July 25, 1991; 60 FR 7874, Feb. 9, 1995; 67 FR 38361, June 4, 2002; 67 FR 76978, Dec. 13, 2002; 73 FR 79602, Dec. 30, 2008; 75 FR 32, Jan. 4, 2010; 79 FR 77849, Dec. 29, 2014; 81 FR 34863, June 1, 2016]
+[45 FR 15124, Mar. 7, 1980, as amended at 56 FR 34126, July 25, 1991; 60 FR 7874, Feb. 9, 1995; 67 FR 38361, June 4, 2002; 67 FR 76978, Dec. 13, 2002; 73 FR 79602, Dec. 30, 2008; 75 FR 32, Jan. 4, 2010; 79 FR 77849, Dec. 29, 2014; 81 FR 34863, June 1, 2016; 89 FR 13, Jan. 2, 2024]

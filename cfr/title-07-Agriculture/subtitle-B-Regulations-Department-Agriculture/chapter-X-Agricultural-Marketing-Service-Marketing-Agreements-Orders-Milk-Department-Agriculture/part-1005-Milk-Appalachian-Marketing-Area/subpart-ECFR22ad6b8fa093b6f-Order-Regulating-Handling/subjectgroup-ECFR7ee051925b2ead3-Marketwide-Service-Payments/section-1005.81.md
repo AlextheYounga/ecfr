@@ -1,0 +1,8 @@
+##### § 1005.81 Payments to the transportation credit balancing fund. #####
+
+(a) On or before the 12th day after the end of the month (except as provided in § 1000.90 of this chapter), each handler operating a pool plant and each handler specified in § 1000.9(c) of this chapter shall pay to the market administrator a transportation credit balancing fund assessment determined by multiplying the pounds of Class I producer milk assigned pursuant to § 1005.44 by $0.30 per hundredweight or such lesser amount as the market administrator deems necessary to maintain a balance in the fund equal to the total transportation credits disbursed during the prior June—February period.
+In the event that during any month of the June-February period the fund balance is insufficient to cover the amount of credits that are due, the assessment should be based upon the amount of credits that would had been disbursed had the fund balance been sufficient.
+
+(b) The market administrator shall announce publicly on or before the 23rd day of the month (except as provided in § 1000.90) the assessment pursuant to paragraph (a) of this section for the following month.
+
+[79 FR 25005, May 2, 2014; 79 FR 26591, May 9, 2014; 89 FR 6403, Feb. 1, 2024]

@@ -1,5 +1,7 @@
 ##### § 98.81 Application and Plan procedures. #####
 
+Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
+
 (a) In order to receive CCDF funds, a Tribal Lead Agency shall apply for funds pursuant to § 98.13, except that the requirement at § 98.13(b)(2) does not apply.
 
 (b) Tribal Lead Agencies with large and medium allocations shall submit a CCDF Plan, as described at § 98.16, with the following additions and exceptions:

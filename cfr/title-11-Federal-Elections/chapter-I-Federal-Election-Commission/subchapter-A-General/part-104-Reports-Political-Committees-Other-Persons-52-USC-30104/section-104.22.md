@@ -1,7 +1,5 @@
 ##### § 104.22 Disclosure of bundling by Lobbyist/Registrants and Lobbyist/Registrant PACs (52 U.S.C. 30104(i)). #####
 
-Link to an amendment published at 89 FR 216, Jan. 2, 2024.
-
 (a) *Definitions.* (1) *Reporting Committee. Reporting committee* means:
 
 (i) An authorized committee of a Federal candidate as defined at 11 CFR 100.5(f)(1);
@@ -54,7 +52,7 @@ Link to an amendment published at 89 FR 216, Jan. 2, 2024.
 
 (1) Titles that the reporting committee assigns to persons who have raised a certain amount of contributions;
 
-(2) Tracking identifiers that the reporting committee assigns and that are included on contributions or contributions-related materials (for example, contributor response devices, cover letters, or Internet Web site solicitation pages) for the purpose of maintaining information about the amounts of contributions that a person raises;
+(2) Tracking identifiers that the reporting committee assigns and that are included on contributions or contributions-related materials (for example, contributor response devices, cover letters, or website solicitation pages) for the purpose of maintaining information about the amounts of contributions that a person raises;
 
 (3) Access (including offers or attendance) to events or activities given to the lobbyist/registrant or lobbyist/registrant PAC by the reporting committee as a result of raising a certain amount of contributions; and
 
@@ -74,7 +72,7 @@ Link to an amendment published at 89 FR 216, Jan. 2, 2024.
 
 (iv) The aggregate amount of bundled contributions forwarded by or received and credited to each lobbyist/registrant or lobbyist/registrant PAC by the reporting committee during the covered period.
 
-(2) *Determining whether a person is reasonably known to be a lobbyist/registrant or lobbyist/registrant PAC.* (i) In order to comply with paragraph (b)(1) of this section, a reporting committee must consult, in a manner reasonably calculated to find the name of each person who is a lobbyist/registrant or lobbyist/registrant PAC, the Web sites maintained by the Clerk of the House of Representatives, the Secretary of the Senate, and the Federal Election Commission to determine whether, at the time a contribution was forwarded to, or received by, the reporting committee:
+(2) *Determining whether a person is reasonably known to be a lobbyist/registrant or lobbyist/registrant PAC.* (i) In order to comply with paragraph (b)(1) of this section, a reporting committee must consult, in a manner reasonably calculated to find the name of each person who is a lobbyist/registrant or lobbyist/registrant PAC, the websites maintained by the Clerk of the House of Representatives, the Secretary of the Senate, and the Federal Election Commission to determine whether, at the time a contribution was forwarded to, or received by, the reporting committee:
 
 (A) The person was listed as a current registrant under Section 4(a) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1603(a));
 
@@ -84,7 +82,7 @@ Link to an amendment published at 89 FR 216, Jan. 2, 2024.
 
 (D) The person was listed as a political committee established or controlled by a lobbyist or registrant on a report filed under Sec. 203(a) of the Honest Leadership and Open Government Act of 2007, amending the Lobbying Disclosure Act of 1995 (2 U.S.C. 1604).
 
-(ii) A manner reasonably calculated to find the name of each person who is a lobbyist/registrant or lobbyist/registrant PAC may be demonstrated by the reporting committee producing a computer printout or screen capture from a Web browser indicating that the name of the person sought was not listed in the results of the Web site consultations performed in accordance with paragraph (b)(2)(i) of this section. Such a computer printout or screen capture shall constitute conclusive evidence that the reporting committee has consulted such Web sites and not found the name of the person sought, but shall not be the exclusive means by which the reporting committee may provide evidence that it has consulted such Web sites and not found the name of the person sought.
+(ii) A manner reasonably calculated to find the name of each person who is a lobbyist/registrant or lobbyist/registrant PAC may be demonstrated by the reporting committee producing a computer printout or screen capture from a Web browser indicating that the name of the person sought was not listed in the results of the website consultations performed in accordance with paragraph (b)(2)(i) of this section. Such a computer printout or screen capture shall constitute conclusive evidence that the reporting committee has consulted such websites and not found the name of the person sought, but shall not be the exclusive means by which the reporting committee may provide evidence that it has consulted such websites and not found the name of the person sought.
 
 (iii) A reporting committee shall be subject to the reporting requirement under paragraph (b)(1) of this section if it had actual knowledge that, at the time a contribution was forwarded or received, the person whose name is sought was required to be listed on any registration or report described in paragraph (b)(2)(i) of this section.
 
@@ -110,4 +108,4 @@ Link to an amendment published at 89 FR 216, Jan. 2, 2024.
 
 (4) If any amount after the increases under this paragraph (g) is not a multiple of $100, such amount shall be rounded to the nearest multiple of $100.
 
-[74 FR 7302, Feb. 17, 2009, as amended at 84 FR 18700, May 2, 2019]
+[74 FR 7302, Feb. 17, 2009, as amended at 84 FR 18700, May 2, 2019; 89 FR 216, Jan. 2, 2024]

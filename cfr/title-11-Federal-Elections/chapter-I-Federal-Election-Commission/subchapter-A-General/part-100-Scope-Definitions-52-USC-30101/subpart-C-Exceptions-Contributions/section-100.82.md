@@ -1,7 +1,5 @@
 ##### § 100.82 Bank loans. #####
 
-Link to an amendment published at 89 FR 215, Jan. 2, 2024.
-
 (a) *General provisions.* A loan of money to a political committee or a candidate by a State bank, a federally chartered depository institution (including a national bank) or a depository institution whose deposits and accounts are insured by the Federal Deposit Insurance Corporation or the National Credit Union Administration is not a contribution by the lending institution if such loan is made in accordance with applicable banking laws and regulations and is made in the ordinary course of business. A loan will be deemed to be made in the ordinary course of business if it:
 
 (1) Bears the usual and customary interest rate of the lending institution for the category of loan involved;
@@ -26,7 +24,7 @@ Link to an amendment published at 89 FR 215, Jan. 2, 2024.
 
 (e) *Made on a basis that assures repayment.* A loan, including a line of credit, shall be considered made on a basis that assures repayment if it is obtained using either of the sources of repayment described in paragraphs (e)(1) or (2) of this section, or a combination of paragraphs (e)(1) and (2) of this section:
 
-(1)(i) The lending institution making the loan has perfected a security interest in collateral owned by the candidate or political committee receiving the loan, the fair market value of the collateral is equal to or greater than the loan amount and any senior liens as determined on the date of the loan, and the candidate or political committee provides documentation to show that the lending institution has a perfected security interest in the collateral. Sources of collateral include, but are not limited to, ownership in real estate, personal property, goods, negotiable instruments, certificates of deposit, chattel papers, stocks, accounts receivable and cash on deposit.
+(1)(i) The lending institution making the loan has perfected a security interest in collateral owned by the candidate or political committee receiving the loan, the fair market value of the collateral is equal to or greater than the loan amount and any senior liens as determined on the date of the loan, and the candidate or political committee provides records to show that the lending institution has a perfected security interest in the collateral. Sources of collateral include, but are not limited to, ownership in real estate, personal property, goods, negotiable instruments, certificates of deposit, chattel papers, stocks, accounts receivable and cash on deposit.
 
 (ii) Amounts guaranteed by secondary sources of repayment, such as guarantors and cosigners, shall not exceed the contribution limits of 11 CFR part 110 or contravene the prohibitions of 11 CFR 110.4, 110.20, part 114 and part 115; or
 
@@ -34,7 +32,7 @@ Link to an amendment published at 89 FR 215, Jan. 2, 2024.
 
 (i) The amount of the loan or loans obtained on the basis of such funds does not exceed the amount of pledged funds;
 
-(ii) Loan amounts are based on a reasonable expectation of the receipt of pledged funds. To that end, the candidate or political committee must furnish the lending institution documentation, *i.e.*, cash flow charts or other financial plans, that reasonably establish that such future funds will be available;
+(ii) Loan amounts are based on a reasonable expectation of the receipt of pledged funds. To that end, the candidate or political committee must furnish the lending institution records, *i.e.*, cash flow charts or other financial plans, that reasonably establish that such future funds will be available;
 
 (iii) A separate depository account is established at the lending institution or the lender obtains an assignment from the candidate or political committee to access funds in a committee account at another depository institution that meets the requirements of 11 CFR 103.2, and the committee has notified the other institution of this assignment;
 
@@ -46,4 +44,4 @@ Link to an amendment published at 89 FR 215, Jan. 2, 2024.
 
 (f) This section shall not apply to loans described in 11 CFR 100.83.
 
-[67 FR 50585, Aug. 5, 2002, as amended at 67 FR 78680, Dec. 26, 2002; 79 FR 16663, Mar. 26, 2014]
+[67 FR 50585, Aug. 5, 2002, as amended at 67 FR 78680, Dec. 26, 2002; 79 FR 16663, Mar. 26, 2014; 89 FR 215, Jan. 2, 2024]

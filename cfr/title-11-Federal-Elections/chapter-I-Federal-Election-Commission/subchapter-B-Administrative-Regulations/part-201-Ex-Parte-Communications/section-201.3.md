@@ -1,14 +1,12 @@
 ##### § 201.3 Public funding, audits and litigation: Ex parte contacts prohibited. #####
 
-Link to an amendment published at 89 FR 219, Jan. 2, 2024.
-
 (a) In order to avoid the possibility of prejudice, real or apparent, to the public interest in Commission decisionmaking during the public funding process, in audits undertaken by the Commission, and in any litigation to which the Commission is a party, no person outside the agency shall make or cause to be made to any Commissioner or any member of any Commissioner's staff any ex parte communication regarding any candidate or committee's eligibility for or entitlement to public funding; any audit; or any pending or prospective Commission decision regarding litigation, including whether to initiate, settle, appeal, or seek certiorari, or any other decision concerning a litigation matter; nor shall any Commissioner or member of any Commissioner's staff entertain any such ex parte communications.
 
 (b) The requirements of this section apply:
 
-(1) In the case of public funding, from the time a primary election candidate submits to the Commission the letter required by 11 CFR 9033.1(a), Presidential and Vice Presidential candidates submit to the Commission the letter required by 11 CFR 9003.1, or a committee seeking convention funding registers with the Commission as required by 11 CFR 9008.12(a)(1) or 9008.12(b)(1), until the start of the audit process.
+(1) In the case of public funding, from the time a primary election candidate submits to the Commission the agreement required by 11 CFR 9033.1(a), Presidential and Vice Presidential candidates submit to the Commission the agreement required by 11 CFR 9003.1, or a committee seeking convention funding registers with the Commission as required by 11 CFR 9008.12(a)(1) or 9008.12(b)(1), until the start of the audit process.
 
-(2)(i) In the case of an audit undertaken pursuant to 26 U.S.C. 9007 (a) and (b), 9008 (g) and (h), or 9038 (a) and (b), from the date of the Commission's letter to a presidential campaign committee, a convention committee, or a host committee asking that it make a pre-inventory check of its records, prior to the commencement of audit fieldwork by the Commission, through the end of the audit process; and
+(2)(i) In the case of an audit undertaken pursuant to 26 U.S.C. 9007 (a) and (b), 9008 (g) and (h), or 9038 (a) and (b), from the date of the Commission's notification to a presidential campaign committee, a convention committee, or a host committee asking that it make a pre-inventory check of its records, prior to the commencement of audit fieldwork by the Commission, through the end of the audit process; and
 
 (ii) In the case of an audit undertaken pursuant to 52 U.S.C. 30111(b), from the date the Commission's staff circulates a document for Commission approval containing a proposed referral to undertake an audit, until the Commission publicly issues the final audit report.
 
@@ -16,4 +14,4 @@ Link to an amendment published at 89 FR 219, Jan. 2, 2024.
 
 (2) A Commissioner or member of a Commissioner's staff who receives a written ex parte communication concerning any Commission action or potential action concerning any candidate or committee's eligibility for or entitlement to public funding, or any audit, or any prospective Commission decision or action concerning any pending litigation case, during the period described in paragraph (b) of this section shall, as soon after the communication as is reasonably possible but no later than three business days after the communication, unless special circumstances make this impracticable; or prior to the next Commission discussion of the matter, whichever is earlier, deliver a copy of the communication to the Designated Agency Ethics Official for placement in the file of the audit or litigation case.
 
-[58 FR 59645, Nov. 10, 1993, as amended at 79 FR 77850, Dec. 29, 2014]
+[58 FR 59645, Nov. 10, 1993, as amended at 79 FR 77850, Dec. 29, 2014; 89 FR 219, Jan. 2, 2024]

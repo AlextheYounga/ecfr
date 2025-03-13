@@ -1,5 +1,7 @@
 ##### § 98.65 Audits and financial reporting. #####
 
+Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
+
 (a) Each Lead Agency shall have an audit conducted after the close of each program period in accordance with 45 CFR part 75, subpart F, and the Single Audit Act Amendments of 1996.
 
 (b) Lead Agencies are responsible for ensuring that subgrantees are audited in accordance with appropriate audit requirements.

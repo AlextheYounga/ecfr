@@ -1,7 +1,5 @@
 ##### § 9036.5 Resubmissions. #####
 
-Link to an amendment published at 89 FR 221, Jan. 2, 2024.
-
 (a) *Alternative resubmission methods.* Upon receipt of the Commission's notice of the results of the submission review pursuant to 11 CFR 9036.4(b), or of an inquiry pursuant to 11 CFR 9039.3 that results in a downward adjustment to the amount of certified matching funds, a candidate may choose to:
 
 (1) Resubmit the entire submission; or
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 221, Jan. 2, 2024.
 
 (c) *Format for resubmissions.* All resubmissions filed by the candidate shall be made in accordance with the Federal Election Commission's Guideline for Presentation in Good Order. In making a presentation of resubmitted contributions, the candidate shall follow the format requirements as specified in 11 CFR 9036.2(b)(1), except that:
 
-(1) The candidate need not provide photocopies of written instruments, supporting documentation and bank documentation unless it is necessary to supplement the original documentation.
+(1) The candidate need not provide photocopies of written instruments, supporting records and bank records unless it is necessary to supplement the original records.
 
 (2) Each resubmitted contribution shall be referenced to the submission in which it was first presented.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 89 FR 221, Jan. 2, 2024.
 
 (f) *Final determinations.* The Commission will consider any written legal or factual materials timely submitted by the candidate in making its final determination. A final determination by the Commission that a contribution is not matchable will be accompanied by a written statement of reasons for the Commission's action. This statement will explain the reasons underlying the Commission's determination and will summarize the results of any investigation upon which the determination is based.
 
-[56 FR 34134, July 25, 1991 and 56 FR 35941, July 29, 1991; 60 FR 31885, June 16, 1995]
+[56 FR 34134, July 25, 1991 and 56 FR 35941, July 29, 1991; 60 FR 31885, June 16, 1995; 89 FR 221, Jan. 2, 2024]

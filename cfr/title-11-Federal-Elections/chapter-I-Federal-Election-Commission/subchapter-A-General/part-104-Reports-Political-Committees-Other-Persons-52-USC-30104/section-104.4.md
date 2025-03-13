@@ -1,7 +1,5 @@
 ##### § 104.4 Independent expenditures by political committees (52 U.S.C. 30104(b), (d), and (g)). #####
 
-Link to an amendment published at 89 FR 216, Jan. 2, 2024.
-
 (a) *Regularly scheduled reporting.* Every political committee that makes independent expenditures must report all such independent expenditures on Schedule E in accordance with 11 CFR 104.3(b)(3)(vii). Every person that is not a political committee must report independent expenditures in accordance with paragraphs (e) and (f) of this section and 11 CFR 109.10.
 
 (b) *Reports of independent expenditures made at any time up to and including the 20th day before an election*—(1) *Independent expenditures aggregating less than $10,000 in a calendar year.* For each election in which a political committee makes independent expenditures, the political committee shall aggregate its independent expenditures made in each calendar year to determine its reporting obligation. When a committee makes independent expenditures aggregating less than $10,000 for an election in any calendar year, up to and including the 20th day before an election, the committee must report those independent expenditures on Schedule E of the applicable FEC Form, at the time of its regular reports in accordance with 11 CFR 104.3, 104.5, and 104.9.
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 216, Jan. 2, 2024.
 
 (1) For reports filed on paper (e.g., by hand-delivery, U.S. Mail or facsimile machine), the treasurer of the political committee that made the independent expenditure must certify, under penalty of perjury, the independence of the expenditure by handwritten signature immediately following the certification required by 11 CFR 104.3(b)(3)(vii).
 
-(2) For reports filed by electronic mail, the treasurer of the political committee that made the independent expenditure shall certify, under penalty of perjury, the independence of the expenditure by typing the treasurer's name immediately following the certification required by 11 CFR 104.3(b)(3)(vii).
+(2) For reports filed by electronic mail, the treasurer of the political committee that made the independent expenditure shall certify, under penalty of perjury, the independence of the expenditure by electronic signature immediately following the certification required by 11 CFR 104.3(b)(3)(vii).
 
 (e) *Where to file.* Reports of independent expenditures under this section and 11 CFR 109.10(b) shall be filed as follows:
 
@@ -28,4 +26,4 @@ Link to an amendment published at 89 FR 216, Jan. 2, 2024.
 
 (2) For purposes of determining whether 24-hour or 48-hour reports must be filed in accordance with paragraphs (b) and (c) of this section and 11 CFR 109.10(c) and (d), if the independent expenditure is made in support of or opposition to a candidate in a presidential primary election and is publicly distributed or otherwise publicly disseminated in six or more states but does not refer to any particular state, the date of the election is the date of the next upcoming presidential primary election among the presidential primary elections to be held in the states in which the independent expenditure is publicly distributed or disseminated.
 
-[68 FR 417, Jan. 3, 2003, as amended at 81 FR 34863, June 1, 2016; 83 FR 66595, Dec. 27, 2018; 84 FR 18699, May 2, 2019]
+[68 FR 417, Jan. 3, 2003, as amended at 81 FR 34863, June 1, 2016; 83 FR 66595, Dec. 27, 2018; 84 FR 18699, May 2, 2019; 89 FR 216, Jan. 2, 2024]

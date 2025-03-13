@@ -1,7 +1,5 @@
 ##### § 300.2 Definitions. #####
 
-Link to an amendment published at 89 FR 219, Jan. 2, 2024.
-
 (a) *501(c) organization that makes expenditures or disbursements in connection with a Federal election.* A 501(c) organization *that makes expenditures or disbursements in connection with a Federal election* as that term is used in 11 CFR 300.11, 300.37, 300.50, and 300.51 includes an organization that, within the current election cycle, plans to:
 
 (1) Make expenditures or disbursements in connection with an election for Federal office including for Federal election activity; or
@@ -92,7 +90,7 @@ Link to an amendment published at 89 FR 219, Jan. 2, 2024.
 
 (ii) A communication that provides instructions on how or where to send contributions or donations, including providing a phone number specifically dedicated to facilitating the making of contributions or donations. However, a communication does not, in and of itself, satisfy the definition of “to solicit” merely because it includes a mailing address or phone number that is not specifically dedicated to facilitating the making of contributions or donations.
 
-(iii) A communication that identifies a Web address where the Web page displayed is specifically dedicated to facilitating the making of a contribution or donation, or automatically redirects the Internet user to such a page, or exclusively displays a link to such a page. However, a communication does not, in and of itself, satisfy the definition of “to solicit” merely because it includes the address of a Web page that is not specifically dedicated to facilitating the making of a contribution or donation.
+(iii) A communication that identifies a website address where the Web page displayed is specifically dedicated to facilitating the making of a contribution or donation, or automatically redirects the Internet user to such a page, or exclusively displays a link to such a page. However, a communication does not, in and of itself, satisfy the definition of “to solicit” merely because it includes the address of a web page that is not specifically dedicated to facilitating the making of a contribution or donation.
 
 (2) The following statements constitute solicitations:
 
@@ -148,4 +146,4 @@ Link to an amendment published at 89 FR 219, Jan. 2, 2024.
 
 (o) *Individual holding Federal office. Individual holding Federal office* means an individual elected to or serving in the office of President or Vice President of the United States; or a Senator or a Representative in, or Delegate or Resident Commissioner to, the Congress of the United States.
 
-[67 FR 49120, July 29, 2002, as amended at 67 FR 78682, Dec. 26, 2002; 71 FR 13933, Mar. 20, 2006]
+[67 FR 49120, July 29, 2002, as amended at 67 FR 78682, Dec. 26, 2002; 71 FR 13933, Mar. 20, 2006; 89 FR 219, Jan. 2, 2024]

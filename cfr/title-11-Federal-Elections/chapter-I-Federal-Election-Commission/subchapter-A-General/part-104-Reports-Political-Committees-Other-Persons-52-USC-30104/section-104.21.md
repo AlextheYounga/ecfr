@@ -1,7 +1,5 @@
 ##### § 104.21 Reporting by inaugural committees. #####
 
-Link to an amendment published at 89 FR 216, Jan. 2, 2024.
-
 (a) *Definitions*—(1) *Inaugural committee.* Inaugural committee means the committee appointed by the President-elect to be in charge of the Presidential inaugural ceremony and functions and activities connected with the inaugural ceremony.
 
 (2) *Donation.* For purposes of this section, donation has the same meaning as in 11 CFR 300.2(e).
@@ -26,7 +24,7 @@ Link to an amendment published at 89 FR 216, Jan. 2, 2024.
 
 (B) Any supplement must be filed no later than the 90th day following the filing date of an original report, or if a supplement has already been filed, the filing date of the most recent supplement.
 
-(3) *Where to file.* All letters, reports, and any supplements thereto, as required under this section, shall be filed with the Federal Election Commission at the street address identified in the definition of “Commission” in § 1.2.
+(3) *Where to file.* All letters, reports, and any supplements thereto, as required under this section, shall be filed with the Federal Election Commission.
 
 (4) *How to file.* An inaugural committee must file its letter, report, and any supplements thereto, in original form; however, an inaugural committee may choose to file its reports in an electronic format that meets the requirements of 11 CFR 104.18.
 
@@ -70,4 +68,4 @@ Link to an amendment published at 89 FR 216, Jan. 2, 2024.
 
 (d) *Recordkeeping.* All inaugural committees must maintain records in accordance with 11 CFR 104.14.
 
-[69 FR 59779, Oct. 6, 2004, as amended at 82 FR 60853, Dec. 26, 2017]
+[69 FR 59779, Oct. 6, 2004, as amended at 82 FR 60853, Dec. 26, 2017; 89 FR 216, Jan. 2, 2024]

@@ -1,7 +1,5 @@
 ##### § 9036.4 Commission review of submissions. #####
 
-Link to an amendment published at 89 FR 221, Jan. 2, 2024.
-
 (a) *Non-acceptance of submission for review of matchability.* (1) The Commission will make an initial review of each submission made under 11 CFR part 9036 to determine if it substantially meets the format requirements of 11 CFR 9036.1(b) and 9036.2(b) and the Federal Election Commission's Guideline for Presentation in Good Order. If the Commission determines that a submission does not substantially meet these requirements, it will not review the matchability of the contributions contained therein.
 
 (2) For submissions made in the year before the Presidential election year (other than submissions made on the last submission date in that year), and submissions made after the candidate's date of ineligibility, the Commission will stop reviewing the submission once the projected dollar value of nonmatchable contributions exceeds 15% of the amount requested, as provided in 11 CFR 9036.2 (c) or (d), as applicable.
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 221, Jan. 2, 2024.
 
 (3) The amount of contributions that have been determined to be matchable and that the Commission will certify to the Secretary for payment; and
 
-(4) A statement that the candidate may supply the Commission with additional documentation or other information in the resubmission of any rejected contribution under 11 CFR 9036.5 in order to show that a rejected contribution is matchable under 11 CFR 9034.2.
+(4) A statement that the candidate may supply the Commission with additional records or other information in the resubmission of any rejected contribution under 11 CFR 9036.5 in order to show that a rejected contribution is matchable under 11 CFR 9034.2.
 
 (c) *Adjustment of amount to be certified by Commission.* (1) The candidate shall notify the Commission as soon as possible if the candidate or the candidate's authorized committee(s) has knowledge that a contribution submitted for matching does not qualify under 11 CFR 9034.2 as a matchable contribution, such as a check returned to the committee for insufficient funds or a contribution that has been refunded, so that the Commission may properly adjust the amount to be certified for payment.
 
@@ -24,4 +22,4 @@ Link to an amendment published at 89 FR 221, Jan. 2, 2024.
 
 (d) *Commission audit of submissions.* The Commission may determine, for the reasons stated in 11 CFR part 9039, that an audit and examination of contributions submitted for matching payment is warranted. The audit and examination shall be conducted in accordance with the procedures of 11 CFR part 9039.
 
-[56 FR 34133, July 25, 1991]
+[56 FR 34133, July 25, 1991, as amended at 89 FR 221, Jan. 2, 2024]

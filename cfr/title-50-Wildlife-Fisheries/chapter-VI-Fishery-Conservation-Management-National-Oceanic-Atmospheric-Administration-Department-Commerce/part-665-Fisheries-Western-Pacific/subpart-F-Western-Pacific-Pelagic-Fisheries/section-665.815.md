@@ -1,5 +1,7 @@
 ##### § 665.815 Pelagic longline seabird mitigation measures. #####
 
+Link to an amendment published at 89 FR 15064, Mar. 1, 2024.
+
 (a) *Seabird mitigation techniques.* When deep-setting or shallow-setting north of 23° N. lat. or shallow-setting south of 23° N. lat., owners and operators of vessels registered for use under a Hawaii longline limited access permit, must either side-set according to paragraph (a)(1) of this section, or fish in accordance with paragraph (a)(2) of this section.
 
 (1) Side-setting. Owners and operators of vessels opting to side-set under this section must fish according to the following specifications:

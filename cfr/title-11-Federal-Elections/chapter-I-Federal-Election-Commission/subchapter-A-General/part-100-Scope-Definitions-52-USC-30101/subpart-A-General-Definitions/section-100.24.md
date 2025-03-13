@@ -1,7 +1,5 @@
 ##### § 100.24 Federal election activity (52 U.S.C. 30101(20)). #####
 
-Link to an amendment published at 89 FR 214, Jan. 2, 2024.
-
 (a) As used in this section, and in part 300 of this chapter,
 
 (1) *In connection with an election in which a candidate for Federal office appears on the ballot* means:
@@ -98,12 +96,12 @@ Link to an amendment published at 89 FR 214, Jan. 2, 2024.
 
 (7) *De minimis* costs associated with the following:
 
-(i) On the Web site of a party committee or an association of State or local candidates, posting a hyperlink to a state or local election board's web page containing information on voting or registering to vote;
+(i) On the website or internet application of a party committee or an association of State or local candidates, posting a hyperlink to a state or local election board's website or internet application containing information on voting or registering to vote;
 
-(ii) On the Web site of a party committee or an association of State or local candidates, enabling visitors to download a voter registration form or absentee ballot application;
+(ii) On the website or internet application of a party committee or an association of State or local candidates, enabling visitors to download a voter registration form or absentee ballot application;
 
-(iii) On the Web site of a party committee or an association of State or local candidates, posting information about voting dates and/or polling locations and hours of operation; or
+(iii) On the website or internet application of a party committee or an association of State or local candidates, posting information about voting dates and/or polling locations and hours of operation; or
 
 (iv) Placing voter registration forms or absentee ballot applications obtained from the board of elections at the office of a party committee or an association of State or local candidates.
 
-[67 FR 49110, July 29, 2002, as amended at 71 FR 8932, Feb. 22, 2006; 71 FR 14360, Mar. 22, 2006; 75 FR 55267, Sept. 10, 2010]
+[67 FR 49110, July 29, 2002, as amended at 71 FR 8932, Feb. 22, 2006; 71 FR 14360, Mar. 22, 2006; 75 FR 55267, Sept. 10, 2010; 89 FR 214, Jan. 2, 2024]

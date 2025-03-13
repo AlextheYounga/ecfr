@@ -1,8 +1,8 @@
 ##### § 103.3 Deposit of receipts and disbursements (52 U.S.C. 30102(h)(1)). #####
 
-Link to an amendment published at 89 FR 215, Jan. 2, 2024.
+(a)(1) All receipts by a political committee shall be deposited in account(s) established pursuant to 11 CFR 103.2, except that any contribution may be, within 10 days of the treasurer's receipt, returned to the contributor without being deposited. The treasurer of the committee shall be responsible for making such deposits. All deposits shall be made within 10 days of the treasurer's receipt. Contributions deposited in a merchant account of a payment processor described in 11 CFR 102.8(d) in the ordinary course of that payment processor's business are not receipts by the committee, but are, instead, contributions to be forwarded by that payment processor under 11 CFR 102.8.
 
-(a) All receipts by a political committee shall be deposited in account(s) established pursuant to 11 CFR 103.2, except that any contribution may be, within 10 days of the treasurer's receipt, returned to the contributor without being deposited. The treasurer of the committee shall be responsible for making such deposits. All deposits shall be made within 10 days of the treasurer's receipt. A committee shall make all disbursements by check or similar drafts drawn on an account at its designated campaign depository, except for expenditures of $100 or less made from a petty cash fund maintained pursuant to 11 CFR 102.11. Funds may be transferred from the depository for investment purposes, but shall be returned to the depository before such funds are used to make expenditures.
+(2) A committee shall make all disbursements by check or similar draft, including electronic transfer, from an account at its designated campaign depository, except for expenditures of $100 or less made from a petty cash fund maintained pursuant to 11 CFR 102.11. Funds may be transferred from the depository for investment purposes, but shall be returned to the depository before such funds are used to make expenditures.
 
 (b) The treasurer shall be responsible for examining all contributions received for evidence of illegality and for ascertaining whether contributions received, when aggregated with other contributions from the same contributor, exceed the contribution limitations of 11 CFR 110.1 or 110.2.
 
@@ -16,4 +16,4 @@ Link to an amendment published at 89 FR 215, Jan. 2, 2024.
 
 (5) If a contribution which appears to be illegal under 11 CFR 103.3(b) (1) or (3) is deposited in a campaign depository, the treasurer shall make and retain a written record noting the basis for the appearance of illegality. A statement noting that the legality of the contribution is in question shall be included in the report noting the receipt of the contribution. If a contribution is refunded to the contributor because it cannot be determined to be legal, the treasurer shall note the refund on the report covering the reporting period in which the refund is made.
 
-[52 FR 774, Jan. 9, 1987]
+[52 FR 774, Jan. 9, 1987, as amended at 89 FR 215, Jan. 2, 2024]

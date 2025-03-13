@@ -1,10 +1,8 @@
 ##### § 4.7 Requests for records. #####
 
-Link to an amendment published at 89 FR 213, Jan. 2, 2024.
-
 (a) [Reserved]
 
-(b)(1) Requests for copies of records pursuant to the Freedom of Information Act shall be addressed to Chief FOIA Officer, Federal Election Commission, at the street address identified in the definition of “Commission” in § 1.2. The request shall reasonably describe the records sought with sufficient specificity with respect to names, dates, and subject matter, to permit the records to be located. A requester will be promptly advised if the records cannot be located on the basis of the description given and that further identifying information must be provided before the request can be satisfied.
+(b)(1) Requests for copies of records pursuant to the Freedom of Information Act shall be addressed to the Chief FOIA Officer and filed pursuant to 11 CFR 100.19(g). The request shall reasonably describe the records sought with sufficient specificity with respect to names, dates, and subject matter, to permit the records to be located. A requester will be promptly advised if the records cannot be located on the basis of the description given and that further identifying information must be provided before the request can be satisfied.
 
 (2) Requests for Commission records and copies thereof shall specify the preferred form or format (including electronic formats) of the response. The Commission shall accommodate requesters as to form or format if the record is readily available in that form or format. When requesters do not specify the form or format of the response, the Commission shall respond in the form or format in which the document is most accessible to the Commission.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 89 FR 213, Jan. 2, 2024.
 
 (i) The date of receipt of a request under this part shall be the date on which the FOIA Officer actually receives the request.
 
-[44 FR 33368, June 8, 1979, as amended at 45 FR 31292, May 13, 1980; 50 FR 50778, Dec. 12, 1985; 52 FR 39213, Oct. 21, 1987; 65 FR 9206, Feb. 24, 2000; 75 FR 31, Jan. 4, 2010; 82 FR 60853, Dec. 26, 2017]
+[44 FR 33368, June 8, 1979, as amended at 45 FR 31292, May 13, 1980; 50 FR 50778, Dec. 12, 1985; 52 FR 39213, Oct. 21, 1987; 65 FR 9206, Feb. 24, 2000; 75 FR 31, Jan. 4, 2010; 82 FR 60853, Dec. 26, 2017; 89 FR 213, Jan. 2, 2024]

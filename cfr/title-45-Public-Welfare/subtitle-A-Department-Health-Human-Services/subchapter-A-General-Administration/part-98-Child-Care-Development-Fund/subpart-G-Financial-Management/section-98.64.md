@@ -1,5 +1,7 @@
 ##### § 98.64 Reallotment and redistribution of funds. #####
 
+Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
+
 (a) According to the provisions of this section State and Tribal Discretionary Funds are subject to reallotment, and State Matching Funds are subject to redistribution. State funds are reallotted or redistributed only to States as defined for the original allocation. Tribal funds are reallotted only to Tribes. Funds granted to the Territories are not subject to reallotment. Any funds granted to the Territories that are returned after they have been allotted will revert to the Federal government.
 
 (b) Any portion of a State's Discretionary Fund allotment that is not required to carry out its Plan, in the period for which the allotment is made available, shall be reallotted to other States in proportion to the original allotments. For purposes of this paragraph the term “State” means the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico. The other Territories and the Tribes may not receive reallotted State Discretionary Funds.

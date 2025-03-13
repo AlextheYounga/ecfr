@@ -1,5 +1,7 @@
 ##### § 98.50 Child care services. #####
 
+Link to an amendment published at 89 FR 15415, Mar. 1, 2024.
+
 (a) Direct child care services shall be provided:
 
 (1) To eligible children, as described in § 98.20;

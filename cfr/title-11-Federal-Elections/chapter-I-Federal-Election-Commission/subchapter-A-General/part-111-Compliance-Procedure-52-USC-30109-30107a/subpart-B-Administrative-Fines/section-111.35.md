@@ -1,7 +1,5 @@
 ##### § 111.35 If the respondent decides to challenge the alleged violation or proposed civil money penalty, what should the respondent do? #####
 
-Link to an amendment published at 89 FR 218, Jan. 2, 2024.
-
 (a) To challenge a reason to believe finding or proposed civil money penalty, the respondent must submit a written response to the Commission within forty (40) days of the Commission's reason to believe finding.
 
 (b) The respondent's written response must assert at least one of the following grounds for challenging the reason to believe finding or proposed civil money penalty:
@@ -38,6 +36,6 @@ Link to an amendment published at 89 FR 218, Jan. 2, 2024.
 
 (6) A committee's failure to use filing software properly.
 
-(e) Respondent's written response must detail the factual basis supporting its challenge and include supporting documentation.
+(e) Respondent's written response must detail the factual basis supporting its challenge and include supporting records.
 
-[72 FR 14667, Mar. 29, 2007]
+[72 FR 14667, Mar. 29, 2007, as amended at 89 FR 218, Jan. 2, 2024]

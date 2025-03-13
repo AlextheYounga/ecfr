@@ -1,5 +1,7 @@
 ##### § 98.16 Plan provisions. #####
 
+Link to an amendment published at 89 FR 15412, Mar. 1, 2024.
+
 A CCDF Plan shall contain the following:
 
 (a) Specification of the Lead Agency whose duties and responsibilities are delineated in § 98.10;

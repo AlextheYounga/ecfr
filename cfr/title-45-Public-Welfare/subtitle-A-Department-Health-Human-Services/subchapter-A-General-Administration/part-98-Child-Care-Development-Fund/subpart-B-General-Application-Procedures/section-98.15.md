@@ -1,5 +1,7 @@
 ##### § 98.15 Assurances and certifications. #####
 
+Link to an amendment published at 89 FR 15412, Mar. 1, 2024.
+
 (a) The Lead Agency shall include the following assurances in its CCDF Plan:
 
 (1) Upon approval, it will have in effect a program that complies with the provisions of the CCDF Plan, and that is administered in accordance with the Child Care and Development Block Grant Act of 1990, as amended, section 418 of the Social Security Act, and all other applicable Federal laws and regulations;

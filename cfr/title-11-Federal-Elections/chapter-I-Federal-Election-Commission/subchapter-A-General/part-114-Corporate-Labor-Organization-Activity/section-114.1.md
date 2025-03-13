@@ -1,7 +1,5 @@
 ##### § 114.1 Definitions. #####
 
-Link to an amendment published at 89 FR 218, Jan. 2, 2024.
-
 (a) For purposes of part 114—
 
 (1) The terms *contribution* and *expenditure* shall include any direct or indirect payment, distribution, loan, advance, deposit, or gift of money, or any services, or anything of value (except a loan of money by a State bank, a federally chartered depository institution (including a national bank) or a depository institution whose deposits and accounts are insured by the Federal Deposit Insurance Corporation or the National Credit Union Administration, if such loan is made in accordance with 11 CFR 100.82(a) through (d)) to any candidate, political party or committee, organization, or any other person in connection with any election to any of the offices referred to in 11 CFR 114.2 (a) or (b) as applicable.
@@ -86,7 +84,7 @@ Link to an amendment published at 89 FR 218, Jan. 2, 2024.
 
 (f) *Method of facilitating the making of contributions* means the manner in which the contributions are received or collected such as, but not limited to, payroll deduction or checkoff systems, other periodic payment plans, or return envelopes enclosed in a solicitation request.
 
-(g) *Method of soliciting voluntary contributions* means the manner in which the solicitation is undertaken including, but not limited to, mailings, oral requests for contributions, and hand distribution of pamphlets.
+(g) *Method of soliciting voluntary contributions* means the manner in which the solicitation is undertaken including, but not limited to, mailings, emails, oral requests for contributions, and hand distribution of pamphlets.
 
 (h) *Stockholder* means a person who has a vested beneficial interest in stock, has the power to direct how that stock shall be voted, if it is voting stock, and has the right to receive dividends.
 
@@ -94,4 +92,4 @@ Link to an amendment published at 89 FR 218, Jan. 2, 2024.
 
 (j) *Restricted class.* A corporation's restricted class is its stockholders and executive or administrative personnel, and their families, and the executive and administrative personnel of its subsidiaries, branches, divisions, and departments and their families. A labor organization's restricted class is its members and executive or administrative personnel, and their families. For communications under 11 CFR 114.3, the restricted class of an incorporated membership organization, incorporated trade association, incorporated cooperative or corporation without capital stock is its members and executive or administrative personnel, and their families. (The solicitable class of a membership organization, cooperative, corporation without capital stock or trade association, as described in 11 CFR 114.7 and 114.8, may include some persons who are not considered part of the organization's restricted class, and may exclude some persons who are in the restricted class.)
 
-(52 U.S.C. 30101(8)(B)(iii), 30102(c)(3), 30107(a)(8), 30111(a)(8), 30118)[41 FR 35955, Aug. 25, 1976, as amended at 44 FR 63045, Nov. 1, 1979; 45 FR 15125, Mar. 7, 1980; 45 FR 21210, Apr. 1, 1980; 48 FR 50508, Nov. 2, 1983; 57 FR 1640, Jan. 15, 1992; 58 FR 45775, Aug. 30, 1993; 59 FR 33615, June 29, 1994; 60 FR 64273, Dec. 14, 1995; 64 FR 41273, July 30, 1999; 67 FR 49120, July 29, 2002; 67 FR 78681, Dec. 26, 2002; 79 FR 77849, Dec. 29, 2014; 80 FR 62817, Oct. 21, 2014]
+(52 U.S.C. 30101(8)(B)(iii), 30102(c)(3), 30107(a)(8), 30111(a)(8), 30118)[41 FR 35955, Aug. 25, 1976, as amended at 44 FR 63045, Nov. 1, 1979; 45 FR 15125, Mar. 7, 1980; 45 FR 21210, Apr. 1, 1980; 48 FR 50508, Nov. 2, 1983; 57 FR 1640, Jan. 15, 1992; 58 FR 45775, Aug. 30, 1993; 59 FR 33615, June 29, 1994; 60 FR 64273, Dec. 14, 1995; 64 FR 41273, July 30, 1999; 67 FR 49120, July 29, 2002; 67 FR 78681, Dec. 26, 2002; 79 FR 77849, Dec. 29, 2014; 80 FR 62817, Oct. 21, 2014; 89 FR 218, Jan. 2, 2024]

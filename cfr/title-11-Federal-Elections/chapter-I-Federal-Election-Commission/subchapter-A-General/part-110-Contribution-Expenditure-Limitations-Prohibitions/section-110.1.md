@@ -1,7 +1,5 @@
 ##### § 110.1 Contributions by persons other than multicandidate political committees (52 U.S.C. 30116(a)(1)). #####
 
-Link to an amendment published at 89 FR 216, Jan. 2, 2024.
-
 (a) *Scope.* This section applies to all contributions made by any person as defined in 11 CFR 100.10, except multicandidate political committees as defined in 11 CFR 100.5(e)(3) or entities and individuals prohibited from making contributions under 11 CFR 110.20 and 11 CFR parts 114 and 115.
 
 (b) *Contributions to candidates; designations; and redesignations.* (1) No person shall make contributions to any candidate, his or her authorized political committees or agents with respect to any election for Federal office that, in the aggregate, exceed $2,000.
@@ -20,7 +18,7 @@ Link to an amendment published at 89 FR 216, Jan. 2, 2024.
 
 (3)(i) A contribution designated in writing for a particular election, but made after that election, shall be made only to the extent that the contribution does not exceed net debts outstanding from such election. To the extent that such contribution exceeds net debts outstanding, the candidate or the candidate's authorized political committee shall return or deposit the contribution within ten days from the date of the treasurer's receipt of the contribution as provided by 11 CFR 103.3(a), and if deposited, then within sixty days from the date of the treasurer's receipt the treasurer shall take the following action, as appropriate:
 
-(A) Refund the contribution using a committee check or draft; or
+(A) Refund the contribution using a committee check or similar draft, including electronic transfer; or
 
 (B) Obtain a written redesignation by the contributor for another election in accordance with 11 CFR 110.1(b)(5); or
 
@@ -46,7 +44,7 @@ If the candidate is not a candidate in the general election, all contributions m
 
 (4) For purposes of this section, a contribution shall be considered to be designated in writing for a particular election if—
 
-(i) The contribution is made by check, money order, or other negotiable instrument which clearly indicates the particular election with respect to which the contribution is made;
+(i) The contribution clearly indicates the particular election with respect to which the contribution is made;
 
 (ii) The contribution is accompanied by a writing, signed by the contributor, which clearly indicates the particular election with respect to which the contribution is made; or
 
@@ -80,7 +78,7 @@ If the candidate is not a candidate in the general election, all contributions m
 
 (*5*) The treasurer of the recipient authorized political committee notifies the contributor of the amount of the contribution that was redesignated and that the contributor may request a refund of the contribution; and
 
-(*6*) Within sixty days from the date of the treasurer's receipt of the contribution, the treasurer shall provide notification required in paragraph (b)(5)(ii)(B)(5) of this section to the contributor by any written method including electronic mail.
+(*6*) Within sixty days from the date of the treasurer's receipt of the contribution, the treasurer shall provide notification required in paragraph (b)(5)(ii)(B)(5) of this section to the contributor by any written method.
 
 (C) Notwithstanding paragraph (b)(5)(ii)(A) of this section or any other provision of this section, the treasurer of the recipient authorized political committee may treat all or part of the amount of the contribution that exceeds the contribution limits in paragraph (b)(1) of this section as made with respect to the primary election, provided that:
 
@@ -96,11 +94,11 @@ If the candidate is not a candidate in the general election, all contributions m
 
 (*6*) The treasurer of the recipient authorized political committee notifies the contributor of how the contribution was redesignated and that the contributor may request a refund of the contribution; and
 
-(*7*) Within sixty days from the date of the treasurer's receipt of the contribution, the treasurer shall provide notification required in paragraph (b)(5)(ii)(C)(6) of this section to the contributor by any written method, including electronic mail.
+(*7*) Within sixty days from the date of the treasurer's receipt of the contribution, the treasurer shall provide notification required in paragraph (b)(5)(ii)(C)(6) of this section to the contributor by any written method.
 
 (iii) A contribution redesignated for another election shall not exceed the limitations on contributions made with respect to that election. A contribution redesignated for a previous election shall be subject to the requirements of 11 CFR 110.1(b)(3) regarding net debts outstanding.
 
-(6) For the purposes of this section, a contribution shall be considered to be made when the contributor relinquishes control over the contribution. A contributor shall be considered to relinquish control over the contribution when it is delivered by the contributor to the candidate, to the political committee, or to an agent of the political committee. A contribution that is mailed to the candidate, or to the political committee or to an agent of the political committee, shall be considered to be made on the date of the postmark. *See* 11 CFR 110.1(l)(4). An in-kind contribution shall be considered to be made on the date that the goods or services are provided by the contributor.
+(6) For the purposes of this section, a contribution shall be considered to be made when the contributor relinquishes control over the contribution. A contributor shall be considered to relinquish control over the contribution when it is delivered by the contributor to the candidate, to the political committee, or to an agent of the political committee. A contribution that is mailed to the candidate, or to the political committee or to an agent of the political committee, shall be considered to be made on the date of the postmark. *See* 11 CFR 110.1(l)(4) A contribution made in an electronic transaction is considered to be made when the contributor authorizes the transaction. An in-kind contribution shall be considered to be made on the date that the goods or services are provided by the contributor.
 
 (c) *Contributions to political party committees.* (1) No person shall make contributions to the political committees established and maintained by a national political party in any calendar year that in the aggregate exceed $25,000.
 
@@ -108,7 +106,7 @@ If the candidate is not a candidate in the general election, all contributions m
 
 (ii) The increased contribution limitation shall be in effect for the two calendar years starting on January 1 of the year in which the contribution limitation is increased.
 
-(iii) In every odd-numbered year, the Commission will publish in the Federal Register the amount of the contribution limitation in effect and place such information on the Commission's Web site.
+(iii) In every odd-numbered year, the Commission will publish in the Federal Register the amount of the contribution limitation in effect and place such information on the Commission's website.
 
 (2) For purposes of this section, *political committees established and maintained by a national political party* means—
 
@@ -174,7 +172,7 @@ A contribution by a partnership shall not exceed the limitations on contribution
 
 (4) A primary election which is not held because a candidate was nominated by a caucus or convention with authority to nominate is not a separate election for the purposes of the limitations on contributions of this section.
 
-(k) *Joint contributions and reattributions.* (1) Any contribution made by more than one person, except for a contribution made by a partnership, shall include the signature of each contributor on the check, money order, or other negotiable instrument or in a separate writing.
+(k) *Joint contributions and reattributions.* (1) Any contribution made by more than one person, except for a contribution made by a partnership, shall be indicated by the signature of each contributor in writing.
 
 (2) If a contribution made by more than one person does not indicate the amount to be attributed to each contributor, the contribution shall be attributed equally to each contributor.
 
@@ -190,27 +188,27 @@ A contribution by a partnership shall not exceed the limitations on contribution
 
 (*2*) The treasurer of the recipient political committee shall notify each contributor of how the contribution was attributed and that the contributor may request the refund of the excessive portion of the contribution if it is not intended to be a joint contribution.
 
-(*3*) Within sixty days from the date of the treasurer's receipt of the contribution, the treasurer shall provide such notification to each contributor by any written method, including electronic mail.
+(*3*) Within sixty days from the date of the treasurer's receipt of the contribution, the treasurer shall provide such notification to each contributor by any written method.
 
-(l) *Supporting evidence.* (1) If a political committee receives a contribution designated in writing for a particular election, the treasurer shall retain a copy of the written designation, as required by 11 CFR 110.1(b)(4) or 110.2(b)(4), as appropriate. If the written designation is made on a check or other written instrument, the treasurer shall retain a full-size photocopy of the check or written instrument.
+(l) *Supporting evidence.* (1) If a political committee receives a contribution designated in writing for a particular election, the treasurer shall retain a record of the written designation, as required by 11 CFR 110.1(b)(4) or 110.2(b)(4), as appropriate. If the written designation is made on a check or other written instrument, the treasurer shall retain a record that contains a complete image of that instrument.
 
 (2) If a political committee receives a written redesignation of a contribution for a different election, the treasurer shall retain the written redesignation provided by the contributor, as required by 11 CFR 110.1(b)(5) or 110.2(b)(5), as appropriate.
 
 (3) If a political committee receives a written reattribution of a contribution to a different contributor, the treasurer shall retain the written reattribution signed by each contributor, as required by 11 CFR 110.1(k).
 
-(4)(i) If a political committee chooses to rely on a postmark as evidence of the date on which a contribution was made, the treasurer shall retain the envelope or a copy of the envelope containing the postmark and other identifying information; and
+(4)(i) If a political committee chooses to rely on a postmark as evidence of the date on which a contribution was made, the treasurer shall retain the envelope or a record of the envelope containing the postmark and other identifying information; and
 
-(ii) If a political committee chooses to rely on the redesignation presumption in 11 CFR 110.1(b)(5)(ii)(B) or (C) or the reattribution presumption in 11 CFR 110.1(k)(3)(ii)(B), the treasurer shall retain a full-size photocopy of the check or written instrument, of any signed writings that accompanied the contribution, and of the notices sent to the contributors as required by 11 CFR 110.1(b)(5)(ii)(B) and (k)(3)(ii)(B).
+(ii) If a political committee chooses to rely on the redesignation presumption in 11 CFR 110.1(b)(5)(ii)(B) or (C) or the reattribution presumption in 11 CFR 110.1(k)(3)(ii)(B), the treasurer shall retain a record that contains a complete image of the check or written instrument, of any signed writings that accompanied the contribution, and of the notices sent to the contributors as required by 11 CFR 110.1(b)(5)(ii)(B) and (k)(3)(ii)(B).
 
 (5) If a political committee does not retain the written records concerning designation required under 11 CFR 110.1(l)(1), the contribution shall not be considered designated in writing for a particular election, and the provisions of 11 CFR 110.1(b)(2)(ii) or 11 CFR 110.2(b)(2)(ii) shall apply. If a political committee does not retain the written records concerning redesignation or reattribution required under 11 CFR 110.1(l)(2), (3), (4)(ii) or (6), including the contributor notices, the redesignation or reattribution shall not be effective, and the original designation or attribution shall control.
 
-(6) For each written redesignation or written reattribution of a contribution described in paragraph (b)(5) or paragraph (k)(3) of this section, the political committee shall retain documentation demonstrating when the written redesignation or written reattribution was received. Such documentation shall consist of:
+(6) For each written redesignation or written reattribution of a contribution described in paragraph (b)(5) or paragraph (k)(3) of this section, the political committee shall retain a record demonstrating when the written redesignation or written reattribution was received. Such a record shall consist of:
 
-(i) A copy of the envelope bearing the postmark and the contributor's name, or return address or other identifying code; or
+(i) A record of the envelope bearing the postmark and the contributor's name, or return address or other identifying code; or
 
-(ii) A copy of the written redesignation or written reattribution with a date stamp indicating the date of the committee's receipt; or
+(ii) A record of the written redesignation or written reattribution with a date stamp indicating the date of the committee's receipt; or
 
-(iii) A copy of the written redesignation or written reattribution dated by the contributor.
+(iii) A record of the written redesignation or written reattribution dated by the contributor.
 
 (m) *Contributions to delegates and delegate committees.* (1) Contributions to delegates for the purpose of furthering their selection under 11 CFR 110.14 are not subject to the limitations of this section.
 

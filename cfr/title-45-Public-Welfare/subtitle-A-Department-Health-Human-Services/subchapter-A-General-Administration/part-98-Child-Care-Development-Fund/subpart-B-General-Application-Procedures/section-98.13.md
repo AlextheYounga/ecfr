@@ -1,5 +1,7 @@
 ##### § 98.13 Applying for Funds. #####
 
+Link to an amendment published at 89 FR 15412, Mar. 1, 2024.
+
 The Lead Agency of a State or Territory shall apply for Child Care and Development funds by providing the following:
 
 (a) The amount of funds requested at such time and in such manner as prescribed by the Secretary.

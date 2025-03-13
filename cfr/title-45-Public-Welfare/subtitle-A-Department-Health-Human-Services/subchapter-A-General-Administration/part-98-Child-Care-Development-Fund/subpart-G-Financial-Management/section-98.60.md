@@ -1,5 +1,7 @@
 ##### § 98.60 Availability of funds. #####
 
+Link to an amendment published at 89 FR 15415, Mar. 1, 2024.
+
 (a) The CCDF is available, subject to the availability of appropriations, in accordance with the apportionment of funds from the Office of Management and Budget as follows:
 
 (1) Discretionary Funds are available to States, Territories, and Tribes,

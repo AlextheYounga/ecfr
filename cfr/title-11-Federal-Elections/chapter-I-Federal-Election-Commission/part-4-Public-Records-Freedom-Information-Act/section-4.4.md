@@ -1,7 +1,5 @@
 ##### § 4.4 Availability of records. #####
 
-Link to an amendment published at 89 FR 213, Jan. 2, 2024.
-
 (a) In accordance with 5 U.S.C. 552(a)(2), the Commission shall make the following materials available for public inspection and copying:
 
 (1) Statements of policy and interpretation which have been adopted by the Commission;
@@ -24,6 +22,6 @@ Link to an amendment published at 89 FR 213, Jan. 2, 2024.
 
 (f) All records created in the process of implementing provisions of 5 U.S.C. 552 will be maintained by the Commission in accordance with the authority granted by General Records Schedule 14, approved by the National Archives and Records Service of the General Services Administration.
 
-(g) The Commission encourages the public to explore the information available on the Commission's World Wide Web site, located at *http://www.fec.gov.* The site includes a Commission publication, *Availability of FEC Information,* which provides a detailed listing of the types of documents available from the FEC, including those available under FOIA, and directions on how to locate and obtain them.
+(g) The Commission encourages the public to explore the information available on the Commission's website, located at *http://www.fec.gov.* The site includes a Commission publication, *Availability of FEC Information,* which provides a detailed listing of the types of documents available from the FEC, including those available under FOIA, and directions on how to locate and obtain them.
 
-[44 FR 33368, June 8, 1979, as amended at 45 FR 31291, May 13, 1980; 65 FR 9206, Feb. 24, 2000; 79 FR 77844, Dec. 29, 2014]
+[44 FR 33368, June 8, 1979, as amended at 45 FR 31291, May 13, 1980; 65 FR 9206, Feb. 24, 2000; 79 FR 77844, Dec. 29, 2014; 89 FR 213, Jan. 2, 2024]

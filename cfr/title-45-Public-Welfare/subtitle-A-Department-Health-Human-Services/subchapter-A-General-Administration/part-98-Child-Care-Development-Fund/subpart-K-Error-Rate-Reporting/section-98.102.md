@@ -1,5 +1,7 @@
 ##### § 98.102 Content of Error Rate Reports. #####
 
+Link to an amendment published at 89 FR 15417, Mar. 1, 2024.
+
 (a) *Baseline Submission Report*—At a minimum, States, the District of Columbia and Puerto Rico shall submit an initial error rate report to the Department, as required in § 98.100, which includes the following information on errors and resulting improper payments occurring in the administration of CCDF grant funds, including Federal Discretionary Funds (which includes any funds transferred from the TANF Block Grant), Mandatory and Matching Funds and State Matching and Maintenance-of-Effort (MOE Funds):
 
 (1) Percentage of cases with an error (regardless of whether such error resulted in an over or under payment), expressed as the total number of cases in the sample with an error compared to the total number of cases in the sample;

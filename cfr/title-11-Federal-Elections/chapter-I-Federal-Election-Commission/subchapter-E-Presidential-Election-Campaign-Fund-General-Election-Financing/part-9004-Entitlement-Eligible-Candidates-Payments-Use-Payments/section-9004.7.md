@@ -1,7 +1,5 @@
 ##### § 9004.7 Allocation of travel expenditures. #####
 
-Link to an amendment published at 89 FR 219, Jan. 2, 2024.
-
 (a) Notwithstanding the provisions of 11 CFR 106.3, expenditures for travel relating to a Presidential or Vice Presidential candidate's campaign by any individual, including a candidate, shall, pursuant to the provisions of paragraph (b) of this section, be qualified campaign expenses and be reported by the candidate's authorized committee(s) as expenditures.
 
 (b)(1) For a trip which is entirely campaign-related, the total cost of the trip shall be a qualified campaign expense and a reportable expenditure.
@@ -18,9 +16,9 @@ Link to an amendment published at 89 FR 219, Jan. 2, 2024.
 
 (iii) If any individual, including a candidate, uses a government conveyance, other than an aircraft, for campaign-related travel, the candidate's authorized committee shall pay the appropriate government entity an amount equal to the amount required under 11 CFR 100.93(d).
 
-(iv) If any individual, including a candidate, uses accommodations, including lodging and meeting rooms, during campaign-related travel, and the accommodations are paid for by a government entity, the candidate's authorized committee shall pay the appropriate government entity an amount equal to the usual and normal charge for the accommodations, and shall maintain documentation supporting the amount paid.
+(iv) If any individual, including a candidate, uses accommodations, including lodging and meeting rooms, during campaign-related travel, and the accommodations are paid for by a government entity, the candidate's authorized committee shall pay the appropriate government entity an amount equal to the usual and normal charge for the accommodations, and shall maintain records supporting the amount paid.
 
-(v) For travel by aircraft, the committee shall maintain documentation as required by 11 CFR 100.93(j)(1) in addition to any other documentation required in this section. For travel by other conveyances, the committee shall maintain documentation of the commercial rental rate as required by 11 CFR 100.93(j)(3) in addition to any other documentation required in this section.
+(v) For travel by aircraft, the committee shall maintain records as required by 11 CFR 100.93(j)(1) in addition to any other records required in this section. For travel by other conveyances, the committee shall maintain records of the commercial rental rate as required by 11 CFR 100.93(j)(3) in addition to any other records required in this section.
 
 (6) Travel expenses of a candidate's spouse and family when accompanying the candidate on campaign-related travel may be treated as qualified campaign expenses and reportable expenditures. If the spouse or family members conduct campaign-related activities, their travel expenses shall be qualified campaign expenses and reportable expenditures.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 89 FR 219, Jan. 2, 2024.
 
 (8) Non-commercial travel, as defined in 11 CFR 100.93(a)(3)(v), on aircraft, and travel on other means of transportation not operated for commercial passenger service, is governed by 11 CFR 100.93.
 
-[60 FR 31876, June 16, 1995, as amended at 68 FR 69595, Dec. 15, 2003; 74 FR 63967, Dec. 7, 2009]
+[60 FR 31876, June 16, 1995, as amended at 68 FR 69595, Dec. 15, 2003; 74 FR 63967, Dec. 7, 2009; 89 FR 219, Jan. 2, 2024]

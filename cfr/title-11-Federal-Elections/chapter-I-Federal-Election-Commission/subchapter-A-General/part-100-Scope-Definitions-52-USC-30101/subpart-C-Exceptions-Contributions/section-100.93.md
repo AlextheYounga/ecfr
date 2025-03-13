@@ -1,7 +1,5 @@
 ##### § 100.93 Travel by aircraft or other means of transportation. #####
 
-Link to an amendment published at 89 FR 215, Jan. 2, 2024.
-
 (a) *Scope and definitions.* (1) This section applies to all campaign travelers who use non-commercial travel.
 
 (2) Campaign travelers who use commercial travel, such as a commercial airline flight, charter flight, taxi, or an automobile provided by a rental company, are governed by 11 CFR 100.52(a) and (d), not this section.
@@ -90,7 +88,7 @@ Link to an amendment published at 89 FR 215, Jan. 2, 2024.
 
 (2) When reporting a disbursement for travel services in accordance with this section, a political committee on whose behalf the travel is conducted must report the actual dates of travel for which the disbursement is made in the “purpose of disbursement” field.
 
-(j) *Recordkeeping.* (1) For travel on non-commercial aircraft conducted under paragraphs (c)(1), (c)(3)(iii), (e)(1), or (g) of this section, the political committee on whose behalf the travel is conducted shall maintain documentation of:
+(j) *Recordkeeping.* (1) For travel on non-commercial aircraft conducted under paragraphs (c)(1), (c)(3)(iii), (e)(1), or (g) of this section, the political committee on whose behalf the travel is conducted shall maintain a record of:
 
 (i) The service provider and the size, model, make and tail number (or other unique identifier for military aircraft) of the aircraft used;
 
@@ -102,7 +100,7 @@ Link to an amendment published at 89 FR 215, Jan. 2, 2024.
 
 (iv) Where the travel is aboard an aircraft owned in part by the candidate or an immediate family member of the candidate, the ownership or lease agreement specifying the amount of use of the aircraft corresponding to the candidate's or an immediate family member's ownership interest in the aircraft, as required by paragraph (g)(1)(i) and (ii) and (g)(3) of this section, and the certification required by paragraph (g)(3) of this section.
 
-(2) For travel on non-commercial aircraft conducted under paragraph (c)(3)(i), (c)(3)(ii), or (e)(2)(i) of this section, the political committee on whose behalf the travel is conducted shall maintain documentation of:
+(2) For travel on non-commercial aircraft conducted under paragraph (c)(3)(i), (c)(3)(ii), or (e)(2)(i) of this section, the political committee on whose behalf the travel is conducted shall maintain a record of:
 
 (i) The service provider and the size, model, make and tail number (or other unique identifier for military aircraft) of the aircraft used;
 
@@ -110,7 +108,7 @@ Link to an amendment published at 89 FR 215, Jan. 2, 2024.
 
 (iii) The lowest unrestricted non-discounted airfare available in accordance with paragraphs (c)(3), (e)(2)(i), and (f) of this section, including the airline offering that fare, flight number, travel service, if any, providing that fare, and the dates on which the rates are based.
 
-(3) For travel by other conveyances, the political committee on whose behalf the travel is conducted shall maintain documentation of:
+(3) For travel by other conveyances, the political committee on whose behalf the travel is conducted shall maintain a record of:
 
 (i) The service provider and the size, model and make of the conveyance used;
 
@@ -118,4 +116,4 @@ Link to an amendment published at 89 FR 215, Jan. 2, 2024.
 
 (iii) The commercial fare or rental charge available in accordance with paragraphs (d) and (f) of this section for a comparable commercial conveyance of sufficient size to accommodate all campaign travelers including members of the news media traveling with a candidate, and security personnel, if applicable.
 
-[74 FR 63964, Dec. 7, 2009]
+[74 FR 63964, Dec. 7, 2009, as amended at 89 FR 215, Jan. 2, 2024]

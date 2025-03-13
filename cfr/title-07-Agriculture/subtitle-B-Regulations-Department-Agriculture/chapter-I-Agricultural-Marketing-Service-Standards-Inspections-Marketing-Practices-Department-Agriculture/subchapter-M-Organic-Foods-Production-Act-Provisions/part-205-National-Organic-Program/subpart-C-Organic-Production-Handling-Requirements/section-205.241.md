@@ -10,7 +10,7 @@
 
 (4) Exit areas—poultry houses must have at least 1 linear foot of exit area for every 360 birds, measured across the base of the exit, but no less than one linear foot of exit area for flocks with fewer than 360 birds. Exit areas must be appropriately distributed and sized to ensure that all birds have ready access to the outdoors;
 
-(i) If exit areas are not provided at a ratio of at least 1 linear foot per 360 birds, a certifier may approve practices that provide less than 1 linear feet per 360 birds only if an operation describes its practices (in the organic system plan) and demonstrates that ready access to the outdoors is provided for all birds;
+(i) If exit areas are not provided at a ratio of at least 1 linear foot per 360 birds, a certifier may approve practices that provide less than 1 linear foot per 360 birds only if an operation describes its practices (in the organic system plan) and demonstrates that ready access to the outdoors is provided for all birds;
 
 (ii) Producers subject to requirements in 21 CFR part 118—Production, Storage, and Transportation of Shell Eggs, must take steps to prevent stray poultry, wild birds, cats, and other animals from entering poultry houses.
 
@@ -76,7 +76,7 @@
 
 (7) For nest box training, provided that birds shall not be confined any longer than required to establish the proper behavior. Confinement for nest box training must not exceed five weeks over the life of the bird.
 
-(8) For 4-H, National FFA Organization, and other youth projects, provided that temporary confinement for no more than one week prior to a fair or other demonstration, through the event, and up to 24 hours after the birds have arrived home at the conclusion of the event. During temporary confinement, birds must be under continuous organic management, including organic feed, for the duration of confinement. Notwithstanding the requirements in paragraph (d)(6) of this section, facilities where 4-H, National FFA Organization, and other youth events are held are not required to be certified organic for the participating birds to be sold as organic, provided all other organic management practices are followed.
+(8) For 4-H, National FFA Organization, and other youth projects, for no more than one week prior to a fair or other demonstration, through the event, and up to 24 hours after the birds have arrived home at the conclusion of the event. During temporary confinement, birds must be under continuous organic management, including organic feed, for the duration of confinement. Notwithstanding the requirements in paragraph (d)(6) of this section, facilities where 4-H, National FFA Organization, and other youth events are held are not required to be certified organic for the participating birds to be sold as organic, provided all other organic management practices are followed.
 
 (e) *Manure management.* The producer of an organic poultry operation must manage manure in a manner that does not contribute to contamination of crops, soil, or water by plant nutrients, heavy metals, or pathogenic organisms. The producer must also optimize recycling of nutrients and must manage outdoor access areas in a manner that does not put soil or water quality at risk.
 

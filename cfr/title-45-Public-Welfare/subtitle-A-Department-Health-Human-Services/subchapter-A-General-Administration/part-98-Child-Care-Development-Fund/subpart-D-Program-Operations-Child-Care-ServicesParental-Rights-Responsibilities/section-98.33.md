@@ -1,5 +1,7 @@
 ##### § 98.33 Consumer and provider education. #####
 
+Link to an amendment published at 89 FR 15414, Mar. 1, 2024.
+
 The Lead Agency shall:
 
 (a) Certify that it will collect and disseminate consumer education information to parents of eligible children, the general public, and providers through a consumer-friendly and easily accessible Web site that ensures the widest possible access to services for families who speak languages other than English and persons with disabilities, including:

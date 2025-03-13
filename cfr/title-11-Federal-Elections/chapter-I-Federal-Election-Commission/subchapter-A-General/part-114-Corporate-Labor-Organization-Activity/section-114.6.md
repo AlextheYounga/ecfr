@@ -1,7 +1,5 @@
 ##### § 114.6 Twice yearly solicitations. #####
 
-Link to an amendment published at 89 FR 218, Jan. 2, 2024.
-
 (a) A corporation and/or its separate segregated fund may make a total of two written solicitations for contributions to its separate segregated fund per calendar year of its employees other than stockholders, executive or administrative personnel, and their families. Employees as used in this section does not include former or retired employees who are not stockholders. Nothing in this paragraph shall limit the number of solicitations a corporation may make of its stockholders and executive or administrative personnel under § 114.5(g).
 
 (b) A labor organization and/or its separate segregated fund may make a total of two written solicitations per calendar year of employees who are not members of the labor organization, executive or administrative personnel, or stockholders (and their families) of a corporation in which the labor organization represents members working for the corporation. Nothing in this paragraph shall limit the number of solicitations a labor organization may make of its members under § 114.5(g).
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 218, Jan. 2, 2024.
 
 (ii) Provide the fund with the identification of any person who makes a single contribution of more than $50 and the identification of any person who makes multiple contributions aggregating more than $200. The custodian must provide this information within a reasonable time prior to the reporting date of the fund under part 104;
 
-(iii) Periodically forward all funds in the separate account, by check drawn on that account, to the separate segregated fund; and
+(iii) Periodically forward all funds in the separate account, by check or similar draft, including electronic transfer, to the separate segregated fund; and
 
 (iv) Treat all funds which appear to be illegal in accordance with the provisions of § 103.3(b).
 
@@ -56,4 +54,4 @@ Link to an amendment published at 89 FR 218, Jan. 2, 2024.
 
 (5) If there are several labor organizations representing members employed at a single corporation, its subsidiaries, branches, divisions, or affiliates, the labor organizations, either singularly or jointly, may not make a combined total of more than two written solicitations per calendar year. A written solicitation may contain a request for contributions to each separate fund established by the various labor organizations making the combined mailing.
 
-(52 U.S.C. 30101(8)(B)(iii), 30102(c)(3), 30111(a)(8))[41 FR 35955, Aug. 25, 1976, as amended at 45 FR 15125, Mar. 7, 1980; 61 FR 3550, Feb. 1, 1996; 84 FR 18700, May 2, 2019]
+(52 U.S.C. 30101(8)(B)(iii), 30102(c)(3), 30111(a)(8))[41 FR 35955, Aug. 25, 1976, as amended at 45 FR 15125, Mar. 7, 1980; 61 FR 3550, Feb. 1, 1996; 84 FR 18700, May 2, 2019; 89 FR 218, Jan. 2, 2024]

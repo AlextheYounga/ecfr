@@ -1,5 +1,7 @@
 ##### § 98.84 Construction and renovation of child care facilities. #####
 
+Link to an amendment published at 89 FR 15417, Mar. 1, 2024.
+
 (a) Upon requesting and receiving approval from the Secretary, Tribal Lead Agencies may use amounts provided under §§ 98.61(c) and 98.62(b) to make payments for construction or major renovation of child care facilities (including paying the cost of amortizing the principal and paying interest on loans).
 
 (b) To be approved by the Secretary, a request shall be made in accordance with uniform procedures established by program instruction and, in addition, shall demonstrate that:

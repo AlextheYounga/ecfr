@@ -1,7 +1,5 @@
 ##### § 104.14 Formal requirements regarding reports and statements. #####
 
-Link to an amendment published at 89 FR 216, Jan. 2, 2024.
-
 (a) Each individual having the responsibility to file a designation, report or statement required under this subchapter shall sign the original designation, report or statement except that:
 
 (1) Reports or statements of independent expenditures filed by facsimile machine or electronic mail under 11 CFR 104.4(b) or 11 CFR 109.10 must be verified in accordance with those sections; and
@@ -24,12 +22,12 @@ Link to an amendment published at 89 FR 216, Jan. 2, 2024.
 
 (iii) Statements of account for all accounts used to secure any loan for the period the loan is outstanding such as brokerage accounts or credit card accounts, and statements on any line of credit account that was used for the purpose of influencing the candidate's election for Federal office;
 
-(iv) For brokerage loans or other loans secured by financial assets, documentation to establish the source of the funds in the account at the time of the loan; and
+(iv) For brokerage loans or other loans secured by financial assets, records to establish the source of the funds in the account at the time of the loan; and
 
-(v) Documentation for all payments made on the loan by any person.
+(v) Records of all payments made on the loan by any person.
 
 (c) Acknowledgements by the Commission of the receipt of Statements of Organization, reports or other statements filed under 11 CFR parts 101, 102, and 104 are intended solely to inform the person filing the report of its receipt and neither the acknowledgement nor the acceptance of a report or statement shall constitute express or implied approval, or in any manner indicate that the contents of any report or statement fulfill the filing or other requirements of the Act or of these regulations.
 
 (d) Each treasurer of a political committee, and any other person required to file any report or statement under these regulations and under the Act, shall be personally responsible for the timely and complete filing of the report or statement and for the accuracy of any information or statement contained in it.
 
-[45 FR 15108, Mar. 7, 1980, as amended at 61 FR 3549, Feb. 1, 1996; 67 FR 12840, Mar. 20, 2002; 67 FR 38361, June 4, 2002; 79 FR 16663, Mar. 26, 2014; 84 FR 18700, May 2, 2019]
+[45 FR 15108, Mar. 7, 1980, as amended at 61 FR 3549, Feb. 1, 1996; 67 FR 12840, Mar. 20, 2002; 67 FR 38361, June 4, 2002; 79 FR 16663, Mar. 26, 2014; 84 FR 18700, May 2, 2019; 89 FR 216, Jan. 2, 2024]

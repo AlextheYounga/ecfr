@@ -1,7 +1,5 @@
 ##### § 5.4 Availability of records. #####
 
-Link to an amendment published at 89 FR 213, Jan. 2, 2024.
-
 (a) In accordance with 52 U.S.C. 30111(a), the Commission shall make the following material available for public inspection and copying through the Commission's Public Disclosure and Media Relations Division:
 
 (1) Reports of receipts and expenditures, designations of campaign depositories, statements of organization, candidate designations of campaign committees and the indices compiled from the filings therein.
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 213, Jan. 2, 2024.
 
 (4) Opinions of Commissioners rendered in enforcement cases and General Counsel's Reports and non-exempt 52 U.S.C. 30109 investigatory materials shall be placed on the public record of the Agency no later than 30 days from the date on which all respondents are notified that the Commission has voted to close such an enforcement file.
 
-(5) Letter requests for guidance and responses thereto.
+(5) Requests for guidance and responses thereto.
 
 (6) The minutes of Commission meetings.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 89 FR 213, Jan. 2, 2024.
 
 (d) Release of records under this section is subject to the provisions of 5 U.S.C. 552a.
 
-[45 FR 31293, May 13, 1980, as amended at 65 FR 9207, Feb. 24, 2000; 79 FR 77844, Dec. 29, 2014; 81 FR 94240, Dec. 23, 2016]
+[45 FR 31293, May 13, 1980, as amended at 65 FR 9207, Feb. 24, 2000; 79 FR 77844, Dec. 29, 2014; 81 FR 94240, Dec. 23, 2016; 89 FR 213, Jan. 2, 2024]

@@ -1,7 +1,5 @@
 ##### § 356.9 Persons authorized to receive proprietary information. #####
 
-Link to an amendment published at 89 FR 6016, Jan. 31, 2024.Link to an amendment published at 89 FR 11729, Feb. 15, 2024.
-
 Persons described in paragraphs (a), (d), (e), (f) and (g) of this section shall, and persons described in paragraphs (b) and (c) of this section may, be authorized by the Department to receive access to proprietary information if they comply with this subpart and such other conditions imposed upon them by the Department:
 
 (a) The members of, and appropriate staff of, a binational panel or extraordinary challenge committee;
@@ -20,4 +18,6 @@ Persons described in paragraphs (a), (d), (e), (f) and (g) of this section shall
 
 (f) Such officials of the Government of a FTA country as an authorized agency of the FTA country informs the Department require access to proprietary information for the purpose of evaluating whether the FTA country should seek an extraordinary challenge committee review of a panel determination; and
 
-(g) Every court reporter, interpreter and translator employed in a panel or extraordinary challenge committee review.
+(g) Every court reporter, interpreter, and translator employed in a panel or extraordinary challenge committee review, as well as individuals employed to provide audiovisual services at hearings, meetings, or other events as needed.
+
+[59 FR 229, Jan. 3, 1994, as amended at 89 FR 6016, Jan. 31, 2024; 89 FR 11729, Feb. 15, 2024]

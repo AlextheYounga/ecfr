@@ -1,7 +1,5 @@
 ##### § 9003.3 Allowable contributions; General election legal and accounting compliance fund. #####
 
-Link to an amendment published at 89 FR 219, Jan. 2, 2024.
-
 (a) *Legal and accounting compliance fund—major party candidates*—(1) *Sources.* (i) A major party candidate, or an individual who is seeking the nomination of a major party, may accept contributions to a legal and accounting compliance fund if such contributions are received and disbursed in accordance with this section. A general election legal and accounting compliance fund (“GELAC”) may be established by such individual prior to being nominated or selected as the candidate of a political party for the office of President or Vice President of the United States. Before April 1 of the calendar year in which a Presidential general election is held, contributions may only be deposited in the GELAC if they are made for the primary and exceed the contributor's contribution limits for the primary and are lawfully redesignated for the GELAC pursuant to 11 CFR 110.1.
 
 (A) All solicitations for contributions to the GELAC shall clearly state that Federal law prohibits private contributions from being used for the candidate's election and that contributions will be used solely for legal and accounting services to ensure compliance with Federal law, and shall clearly state how contribution checks should be made payable. Contributions shall not be solicited for the GELAC before April 1 of the calendar year in which a Presidential general election is held. If the candidate does not become the nominee, all contributions accepted for the GELAC, including redesignated contributions, shall be refunded within sixty (60) days after the candidate's date of ineligibility.
@@ -36,7 +34,7 @@ Link to an amendment published at 89 FR 219, Jan. 2, 2024.
 
 (vi) For purposes of this section, a contribution shall be considered to be designated in writing for the GELAC if—
 
-(A) The contribution is made by check, money order, or other negotiable instrument which clearly indicates that it is made with respect to the GELAC; or
+(A) The contribution clearly indicates that it is made with respect to the GELAC; or
 
 (B) The contribution is accompanied by a writing, signed by the contributor, which clearly indicates that it is made with respect to the GELAC.
 
@@ -120,4 +118,4 @@ Link to an amendment published at 89 FR 219, Jan. 2, 2024.
 
 (7) The Commission's Financial Control and Compliance Manual for General Election Candidates Receiving Public Funding contains some accepted alternative allocation methods for determining the amount of salaries and overhead expenditures that may be considered exempt compliance costs or exempt fundraising costs.
 
-[60 FR 31872, June 16, 1995, as amended at 60 FR 57537, Nov. 16, 1995; 64 FR 49362, Sept. 13, 1999; 67 FR 78682, Dec. 26, 2002; 68 FR 47414, Aug. 8, 2003; 79 FR 77850, Dec. 29, 2014]
+[60 FR 31872, June 16, 1995, as amended at 60 FR 57537, Nov. 16, 1995; 64 FR 49362, Sept. 13, 1999; 67 FR 78682, Dec. 26, 2002; 68 FR 47414, Aug. 8, 2003; 79 FR 77850, Dec. 29, 2014; 89 FR 219, Jan. 2, 2024]
