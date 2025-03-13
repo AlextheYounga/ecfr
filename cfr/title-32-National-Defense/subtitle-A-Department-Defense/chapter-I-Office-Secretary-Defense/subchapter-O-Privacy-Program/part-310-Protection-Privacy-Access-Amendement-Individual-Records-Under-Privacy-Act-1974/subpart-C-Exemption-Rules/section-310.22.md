@@ -1,5 +1,7 @@
 ##### § 310.22 Defense Security Service (DSS) exemptions. #####
 
+Link to an amendment published at 89 FR 5095, Jan. 26, 2024.
+
 (a) *General.* The Director of the Defense Security Service establishes the following exemptions of records systems (or portions thereof) from the provisions of these rules, and other indicated portions of Public Law 93-579, in this section. They may be exercised only by the Director, Defense Security Service and the Chief of the Office of FOI and Privacy. Exemptions will be exercised only when necessary for a specific, significant and legitimate reason connected with the purpose of a records system, and not simply because they are authorized by statute. Personal records releasable under the provisions of 5 U.S.C. 552 will not be withheld from subject individuals based on these exemptions.
 
 (b) All systems of records maintained by DSS shall be exempt from the requirements of 5 U.S.C. 552a(d) pursuant to 5 U.S.C. 552a(k)(1) to the extent that the system contains any information properly classified under Executive Order 12958 and which is required by the Executive Order to be withheld in the interest of national defense of foreign policy. This exemption, which may be applicable to parts of all systems of records, is necessary because certain record systems not otherwise specifically designated for exemptions herein may contain items of information that have been properly classified.

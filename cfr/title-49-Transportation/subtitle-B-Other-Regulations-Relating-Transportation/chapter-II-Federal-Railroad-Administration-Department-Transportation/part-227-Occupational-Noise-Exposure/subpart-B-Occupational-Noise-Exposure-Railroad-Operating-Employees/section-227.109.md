@@ -1,5 +1,7 @@
 ##### § 227.109 Audiometric testing program. #####
 
+Link to an amendment published at 89 FR 5132, Jan. 26, 2024.
+
 (a) Each railroad shall establish and maintain an audiometric testing program as set forth in this section and include employees who are required to be included in a hearing conservation program pursuant to § 227.107.
 
 (b) *Cost.* The audiometric tests shall be provided at no cost to employees.

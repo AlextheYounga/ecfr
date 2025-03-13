@@ -1,5 +1,7 @@
 ##### § 227.103 Noise monitoring program. #####
 
+Link to an amendment published at 89 FR 5132, Jan. 26, 2024.
+
 (a) *Schedule.* A railroad shall develop and implement a noise monitoring program to determine whether any employee covered by the scope of this subpart may be exposed to noise that may equal or exceed an 8-hour TWA of 85 dB(A), in accordance with the following schedule:
 
 (1) Class 1, passenger, and commuter railroads no later than February 26, 2008.

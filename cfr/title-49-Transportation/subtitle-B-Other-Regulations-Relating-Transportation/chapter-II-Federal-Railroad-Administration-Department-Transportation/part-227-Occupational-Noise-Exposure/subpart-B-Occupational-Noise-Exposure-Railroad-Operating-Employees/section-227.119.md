@@ -1,5 +1,7 @@
 ##### § 227.119 Training program. #####
 
+Link to an amendment published at 89 FR 5132, Jan. 26, 2024.
+
 (a) The railroad shall institute an occupational noise and hearing conservation training program for all employees included in the hearing conservation program.
 
 (1) The railroad shall offer the training program to each employee included in the hearing conservation program at least once each calendar year. The interval between the date offered to any employee for the training in a calendar year and the date offered in the subsequent calendar year shall be no more than 450 days and no less than 280 days.

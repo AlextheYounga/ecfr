@@ -1,5 +1,7 @@
 ##### § 227.3 Application. #####
 
+Link to an amendment published at 89 FR 5131, Jan. 26, 2024.
+
 (a) Except as provided in paragraph (b) of this section, this part applies to all railroads and contractors to railroads.
 
 (b) This part does not apply to—

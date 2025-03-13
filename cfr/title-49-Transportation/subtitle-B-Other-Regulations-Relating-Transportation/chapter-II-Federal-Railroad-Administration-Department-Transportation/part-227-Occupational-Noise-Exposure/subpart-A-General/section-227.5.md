@@ -1,5 +1,7 @@
 ##### § 227.5 Definitions. #####
 
+Link to an amendment published at 89 FR 5131, Jan. 26, 2024.
+
 As used in this part—
 
 *Action level* means an eight-hour time-weighted-average sound level (TWA) of 85 dB(A), or, equivalently, a dose of 50 percent, integrating all sound levels from 80 dB(A) to 140 dB(A).

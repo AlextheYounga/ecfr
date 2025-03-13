@@ -68,4 +68,4 @@ Note 1 to paragraph (f)(4):
 
 For purposes of this paragraph, the provisions in paragraphs (f)(3)(i) through (f)(3)(iii) that refer to petitions for declaratory ruling under § 1.5000(a)(1) shall be read as referring to petitions for declaratory ruling under § 1.5000(a)(2).
 
-[81 FR 86601, Dec. 1, 2016,, as amended at 88 FR 21435, Apr. 10, 2023]
+[81 FR 86601, Dec. 1, 2016, as amended at 88 FR 21435, Apr. 10, 2023]

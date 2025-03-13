@@ -32,4 +32,4 @@
 
 (g) The designated entity is required to update any change in a relationship that gave rise to a reportable eligibility event.
 
-[71 FR 26253, May 4, 2006, as amended at 71 FR 34278, June 14, 2006; 79 FR 48530, Aug. 15, 2014; 80 FR 56816, Sept. 18, 2015]Effective Date Note:At 80 FR 56816, Sept. 18, 2015, § 1.2114 (a)(1) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[71 FR 26253, May 4, 2006, as amended at 71 FR 34278, June 14, 2006; 79 FR 48530, Aug. 15, 2014; 80 FR 56816, Sept. 18, 2015]Effective Date Note:At 80 FR 56816, Sept. 18, 2015, § 1.2114(a)(1) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

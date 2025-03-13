@@ -1,3 +1,5 @@
-##### § 905.43 xxx #####
+##### § 905.43 Contributions. #####
 
-Link to an amendment published at 88 FR 89279, Dec. 27, 2023.
+The Committee may accept voluntary contributions. Such contributions shall be free from any encumbrances by the donor and the Committee shall retain complete control of their use.
+
+[88 FR 89279, Dec. 27, 2023]
