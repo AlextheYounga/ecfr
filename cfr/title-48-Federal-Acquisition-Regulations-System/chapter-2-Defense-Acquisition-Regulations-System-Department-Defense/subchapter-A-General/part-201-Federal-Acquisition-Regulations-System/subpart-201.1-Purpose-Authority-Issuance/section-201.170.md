@@ -1,10 +1,10 @@
 ##### 201.170 Peer reviews. #####
 
-(a) *DPC peer reviews.* (1) The Office of the Principal Director, Defense Pricing and Contracting (DPC), using the procedures at PGI 201.170, will organize teams of reviewers and facilitate peer reviews for solicitations and contracts as follows:
+(a) *Defense Pricing, Contracting, and Acquisition Policy peer reviews.* (1) The Office of the Principal Director, Defense Pricing, Contracting, and Acquisition Policy (DPCAP), using the procedures at PGI 201.170, will organize teams of reviewers and facilitate peer reviews for solicitations and contracts as follows:
 
-(i) DPC will conduct the preaward peer reviews for competitive procurements prior to the three phases of the acquisition (see PGI 201.170-2(a)) for all procurements with an estimated value of $1 billion or more under major defense acquisition programs for which the Under Secretary of Defense for Acquisition and Sustainment (USD(A&S)) is the milestone decision authority or USD(A&S) designates as requiring a peer review regardless of value. DoD components may request DPC-led peer reviews for acquisitions valued below the $1 billion threshold. DPC will conduct these reviews upon approval by the Director, Defense Pricing and Contracting (Contract Policy).
+(i) DPCAP will conduct the preaward peer reviews for competitive procurements prior to the three phases of the acquisition (see PGI 201.170-2(a)) for all procurements with an estimated value of $1 billion or more under major defense acquisition programs for which the Under Secretary of Defense for Acquisition and Sustainment (USD(A&S)) is the milestone decision authority or USD(A&S) designates as requiring a peer review regardless of value. DoD components may request DPCAP-led peer reviews for acquisitions valued below the $1 billion threshold. DPCAP will conduct these reviews upon approval by the Director, DPCAP (Contract Policy).
 
-(ii) DPC will conduct the preaward peer reviews for noncompetitive procurements prior to the two phases of the acquisition (see PGI 201.170-2(b)) for contract actions, *e.g.,* new contracts, modifications to existing contracts, requests for equitable adjustment, claims valued at $1 billion or more, or for any other contract action USD(A&S) designates as requiring a peer review regardless of value. DoD components may request DPC-led peer reviews for contract actions valued below the $1 billion threshold. DPC will conduct these reviews upon approval by the Director, Defense Pricing and Contracting (Price, Cost and Finance).
+(ii) DPCAP will conduct the preaward peer reviews for noncompetitive procurements prior to the two phases of the acquisition (see PGI 201.170-2(b)) for contract actions, *e.g.,* new contracts, modifications to existing contracts, requests for equitable adjustment, claims valued at $1 billion or more, or for any other contract action USD(A&S) designates as requiring a peer review regardless of value. DoD components may request DPCAP-led peer reviews for contract actions valued below the $1 billion threshold. DPCAP will conduct these reviews upon approval by the Director, DPCAP (Price, Cost and Finance).
 
 (iii) Use the following criteria to identify actions that are subject to peer review (see also FAR 1.108(c), Dollar thresholds):
 
@@ -18,11 +18,11 @@
 
 (*2*) The contractor proposed amount.
 
-(2) To facilitate planning for peer reviews, the military departments and defense agencies shall provide a rolling annual forecast of acquisitions that will be subject to DPC peer reviews at the end of each quarter (*i.e.,* March 31; June 30; September 30; December 31).
+(2) To facilitate planning for peer reviews, the military departments and defense agencies shall provide a rolling annual forecast of acquisitions that will be subject to DPCAP peer reviews at the end of each quarter (*i.e.,* March 31; June 30; September 30; December 31).
 
-(i) Military departments and defense agencies shall submit quarterly forecasts for competitive peer reviews to the Director, Defense Pricing and Contracting (Contract Policy), at *osd.pentagon.ousd-a-s.mbx.dpc-cp@mail.mil.*
+(i) Military departments and defense agencies shall submit quarterly forecasts for competitive peer reviews to the Director, DPCAP (Contract Policy), at *osd.pentagon.ousd-a-s.mbx.dpc-cp@mail.mil.*
 
-(ii) Military departments and defense agencies shall submit quarterly forecasts for noncompetitive peer reviews to the Director, Defense Pricing and Contracting (Price, Cost and Finance), at *osd.pentagon.ousd-a-s.mbx.dpc-pcf@mail.mil.*
+(ii) Military departments and defense agencies shall submit quarterly forecasts for noncompetitive peer reviews to the Director, DPCAP (Price, Cost and Finance), at *osd.pentagon.ousd-a-s.mbx.dpc-pcf@mail.mil.*
 
 (b) *Component peer reviews.* The military departments and defense agencies shall establish procedures for—
 
@@ -30,4 +30,4 @@
 
 (2) Preaward peer reviews of noncompetitive procurements not subject to paragraph (a)(1)(ii) of this section.
 
-[86 FR 67877, Nov. 30, 2021]
+[86 FR 67877, Nov. 30, 2021, as amended at 89 FR 60830, July 29, 2024]

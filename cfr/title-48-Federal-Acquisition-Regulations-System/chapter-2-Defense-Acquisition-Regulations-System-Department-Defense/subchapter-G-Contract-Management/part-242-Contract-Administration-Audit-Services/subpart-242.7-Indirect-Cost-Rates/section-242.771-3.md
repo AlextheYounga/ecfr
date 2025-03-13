@@ -4,7 +4,7 @@
 
 (b) The Defense Contract Audit Agency (DCAA) shall—
 
-(1) For the DoD-wide B&P program, submit an annual report to the Principal Director, Defense Pricing and Contracting, Office of the Under Secretary of Defense for Acquisition and Sustainment, in connection with 10 U.S.C. 3763(c); the Defense Contract Management Agency or the military department responsible for performing contract administration functions is responsible for providing DCAA with statistical information, as necessary; and
+(1) For the DoD-wide B&P program, submit an annual report to the Principal Director, Defense Pricing, Contracting, and Acquisition Policy, Office of the Under Secretary of Defense for Acquisition and Sustainment, in connection with 10 U.S.C. 3763(c); the Defense Contract Management Agency or the military department responsible for performing contract administration functions is responsible for providing DCAA with statistical information, as necessary; and
 
 (2) For IR&D costs and B&P costs incurred under any DoD contract in the previous Government fiscal year, submit an annual report to the congressional defense committees as required by 10 U.S.C. 3847.
 
@@ -16,4 +16,4 @@
 
 (2) By providing OUSD(R&E) contact information: *osd.pentagon.ousd-re.mbx.communications@mail.mil.*
 
-[88 FR 6600, Jan. 31, 2023]
+[88 FR 6600, Jan. 31, 2023, as amended at 89 FR 60832, July 29, 2024]

@@ -1,7 +1,5 @@
 ##### § 1003.9 Office of the Chief Immigration Judge. #####
 
-Link to an amendment published at 89 FR 46792, May 29, 2024.
-
 (a) *Organization.* Within the Executive Office for Immigration Review, there shall be an Office of the Chief Immigration Judge (OCIJ), consisting of the Chief Immigration Judge, the immigration judges, and such other staff as the Director deems necessary. The Attorney General shall appoint the Chief Immigration Judge. The Director may designate immigration judges to serve as Deputy and Assistant Chief Immigration Judges as may be necessary to assist the Chief Immigration Judge in the management of the OCIJ.
 
 (b) *Powers of the Chief Immigration Judge.* Subject to the supervision of the Director, the Chief Immigration Judge shall be responsible for the supervision, direction, and scheduling of the immigration judges in the conduct of the hearings and duties assigned to them. The Chief Immigration Judge shall have the authority to:
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 46792, May 29, 2024.
 
 (4) Evaluate the performance of the Immigration Courts and other OCIJ activities by making appropriate reports and inspections, and take corrective action where needed;
 
-(5) Adjudicate cases as an immigration judge; and
+(5) Adjudicate cases as an immigration judge, including the authorities described in § 1003.10(b); and
 
 (6) Exercise such other authorities as the Director may provide.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 89 FR 46792, May 29, 2024.
 
 (d) *Immigration Court.* The term Immigration Court shall refer to the local sites of the OCIJ where proceedings are held before immigration judges and where the records of those proceedings are created and maintained.
 
-[72 FR 53677, Sept. 20, 2007]
+[72 FR 53677, Sept. 20, 2007, as amended at 89 FR 46792, May 29, 2024]

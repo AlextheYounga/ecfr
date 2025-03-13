@@ -1,7 +1,5 @@
 ##### § 380.13 Compliance with the Endangered Species Act. #####
 
-Link to an amendment published at 89 FR 46734, May 29, 2024.
-
 (a) *Definitions.* For purposes of this section:
 
 (1) *Listed species* and *critical habitat* have the same meaning as provided in 50 CFR 402.02.
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 46734, May 29, 2024.
 
 (b) *Procedures for informal consultation*—(1) *Designation of non-Federal representative.* The project sponsor is designated as the Commission's non-Federal representative for purposes of informal consultations with the U.S. Fish and Wildlife Service (FWS) and the National Marine Fisheries Service (NMFS) under the Endangered Species Act of 1973, as amended (ESA).
 
-(2) *Consultation requirement.* (i) Prior to the filing of the environmental report specified in § 380.12, the project sponsor must contact the appropriate regional or field office of the FWS or the NMFS, or both if appropriate, to initiate informal consultations, unless it is proceeding pursuant to a blanket clearance issued by the FWS and/or NMFS which is less than 1 year old and the clearance does not specify more frequent consultation.
+(2) *Consultation requirement.* (i) Prior to the filing of the environmental report specified in § 380.12 or § 380.16, as applicable, the project sponsor must contact the appropriate regional or field office of the FWS or the NMFS, or both if appropriate, to initiate informal consultations, unless it is proceeding pursuant to a blanket clearance issued by the FWS and/or NMFS which is less than 1 year old and the clearance does not specify more frequent consultation.
 
 (ii) If a blanket clearance is more than 1 year old or less than 1 year old and specifies more frequent consultations, or if the project sponsor is not proceeding pursuant to a blanket clearance, the project sponsor must request a list of federally listed or proposed species and designated or proposed critical habitat that may be present in the project area, or provide the consulted agency with such a list for its concurrence.
 
@@ -70,4 +68,4 @@ Link to an amendment published at 89 FR 46734, May 29, 2024.
 
 (4) The consulted agency will provide the Commission with a Biological Opinion on the proposed project, as specified in 50 CFR 402.14(e), within 45 days of the completion of formal consultation.
 
-[Order 603, 64 FR 26617, May 14, 1999, as amended by Order 699, 72 FR 45328, Aug. 14, 2007]
+[Order 603, 64 FR 26617, May 14, 1999, as amended by Order 699, 72 FR 45328, Aug. 14, 2007; Order 1977, 89 FR 46734, May 29, 2024]

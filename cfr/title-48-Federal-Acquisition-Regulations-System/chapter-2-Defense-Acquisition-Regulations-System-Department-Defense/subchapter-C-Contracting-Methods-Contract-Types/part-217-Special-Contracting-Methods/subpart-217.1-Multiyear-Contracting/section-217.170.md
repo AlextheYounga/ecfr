@@ -24,7 +24,7 @@
 
 (ii) Made by the Secretary of Defense, in writing, to the congressional defense committees (see section 8008(b) of Pub. L. 105-56).
 
-(4) Agencies must establish reporting procedures to meet the congressional notification requirements of paragraph (d)(1) of this section. The head of the agency must submit a copy of each notice to the Principal Director, Defense Pricing and Contracting (DPC), Office of the Under Secretary of Defense (Acquisition and Sustainment) (OUSD(A&S)), and to the Deputy Under Secretary of Defense (Comptroller) (Program/Budget) (OUSD(C)(P/B)).
+(4) Agencies must establish reporting procedures to meet the congressional notification requirements of paragraph (d)(1) of this section. The head of the agency must submit a copy of each notice to the Principal Director, Defense Pricing, Contracting, and Acquisition Policy (DPCAP), Office of the Under Secretary of Defense (Acquisition and Sustainment) (OUSD(A&S)), and to the Deputy Under Secretary of Defense (Comptroller) (Program/Budget) (OUSD(C)(P/B)).
 
 (5) If the budget for a contract that contains a cancellation ceiling in excess of $150 million does not include proposed funding for the costs of contract cancellation up to the cancellation ceiling established in the contract—
 
@@ -38,4 +38,4 @@
 
 (ii) The head of the agency shall provide copies of the notification to the Office of Management and Budget at least 14 days before contract award.
 
-[66 FR 63337, Dec. 6, 2001, as amended at 68 FR 7439, Feb. 14, 2003; 70 FR 24324, May 9, 2005; 71 FR 75892, Dec. 19, 2006; 75 FR 9115, Mar. 1, 2010; 75 FR 54526, Sept. 8, 2010; 75 FR 45073, Aug. 2, 2010; 76 FR 58152, Sept. 20, 2011; 80 FR 29982, May 26, 2015; 80 FR 36904, June 26, 2015; 81 FR 28731, May 10, 2016; 85 FR 61504, Sept. 29, 2020; 87 FR 76992, Dec. 16, 2022]
+[66 FR 63337, Dec. 6, 2001, as amended at 68 FR 7439, Feb. 14, 2003; 70 FR 24324, May 9, 2005; 71 FR 75892, Dec. 19, 2006; 75 FR 9115, Mar. 1, 2010; 75 FR 54526, Sept. 8, 2010; 75 FR 45073, Aug. 2, 2010; 76 FR 58152, Sept. 20, 2011; 80 FR 29982, May 26, 2015; 80 FR 36904, June 26, 2015; 81 FR 28731, May 10, 2016; 85 FR 61504, Sept. 29, 2020; 87 FR 76992, Dec. 16, 2022; 89 FR 60831, July 29, 2024]

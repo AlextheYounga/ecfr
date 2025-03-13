@@ -1,6 +1,6 @@
 ##### 201.402 Policy. #####
 
-(1) The Principal Director, Defense Pricing and Contracting (DPC), Office of the Under Secretary of Defense (Acquisition and Sustainment) (OUSD(A&S)DPC), is the approval authority within DoD for any individual or class deviation from—
+(1) The Principal Director, Defense Pricing, Contracting, and Acquisition Policy, Office of the Under Secretary of Defense (Acquisition and Sustainment) (OUSD(A&S)DPCAP), is the approval authority within DoD for any individual or class deviation from—
 
 (i) FAR 3.104, Procurement Integrity, or DFARS 203.104, Procurement Integrity;
 
@@ -14,7 +14,7 @@
 
 (vi) FAR part 32, Contract Financing (except subparts 32.7 and 32.8 and the payment clauses prescribed by subpart 32.1), or DFARS part 232, Contract Financing (except subparts 232.7 and 232.8).
 
-(2) Submit requests for deviation approval through department/agency channels to the approval authority in paragraph (1) of this section, 201.403, or 201.404, as appropriate. Submit deviations that require OUSD(A&S)DPC approval through the Director of the DAR Council via email at *osd.pentagon.ousd-a-s.mbx.dfars@mail.mil.* At a minimum, each request must—
+(2) Submit requests for deviation approval through department/agency channels to the approval authority in paragraph (1) of this section, 201.403, or 201.404, as appropriate. Submit deviations that require OUSD(A&S)DPCAP approval through the Director of the DAR Council via email at *osd.pentagon.ousd-a-s.mbx.dfars@mail.mil.* At a minimum, each request must—
 
 (i) Identify the department/agency, and component if applicable, requesting the deviation;
 
@@ -34,4 +34,4 @@
 
 (ix) Give detailed rationale for the request. State what problem or situation will be avoided, corrected, or improved if request is approved.
 
-[56 FR 36284, July 31, 1991, as amended at 60 FR 61591, Nov. 30, 1995; 61 FR 50451, Sept. 26, 1996; 64 FR 8727, Feb. 23, 1999; 65 FR 6552, Feb. 10, 2000; 68 FR 7439, Feb. 14, 2003; 88 FR 73235, Oct. 25, 2023]
+[56 FR 36284, July 31, 1991, as amended at 60 FR 61591, Nov. 30, 1995; 61 FR 50451, Sept. 26, 1996; 64 FR 8727, Feb. 23, 1999; 65 FR 6552, Feb. 10, 2000; 68 FR 7439, Feb. 14, 2003; 88 FR 73235, Oct. 25, 2023; 89 FR 60830, July 29, 2024]

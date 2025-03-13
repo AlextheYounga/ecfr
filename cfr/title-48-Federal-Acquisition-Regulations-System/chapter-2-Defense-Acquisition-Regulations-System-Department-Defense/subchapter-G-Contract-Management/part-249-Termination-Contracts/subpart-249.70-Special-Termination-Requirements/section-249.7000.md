@@ -2,7 +2,7 @@
 
 (a) Terminate contracts with the Canadian Commercial Corporation in accordance with—
 
-(1) The Letter of Agreement (LOA) between the Department of Defence Production (Canada) and the U.S. DoD, “Canadian Agreement” (for a copy of the LOA or for questions on its currency, contact the Office of the Principal Director, Defense Pricing and Contracting (Contract Policy), at *osd.pentagon.ousd-a-s.mbx.asda-dp-c-contractpolicy@mail.mil;*
+(1) The Letter of Agreement (LOA) between the Department of Defence Production (Canada) and the U.S. DoD, “Canadian Agreement” (for a copy of the LOA or for questions on its currency, contact the Office of the Principal Director, Defense Pricing, Contracting, and Acquisition Policy (Contract Policy), at *osd.pentagon.ousd-a-s.mbx.asda-dp-c-contractpolicy@mail.mil;*
 
 (2) Policies in the Canadian Agreement and part 249; and
 
@@ -36,4 +36,4 @@
 
 (g) The U.S. agency administering the contract with the Canadian Commercial Corporation shall provide any services required by the Canadian Commercial Corporation, including disposal of inventory, for settlement of any subcontracts placed in the United States. Settlement of such U.S. subcontracts will be in accordance with this regulation.
 
-[56 FR 36471, July 31, 1991, as amended at 65 FR 39706, June 27, 2000; 68 FR 7440, Feb. 14, 2003; 71 FR 27645, May 12, 2006; 72 FR 30278, May 31, 2007; 76 FR 3537, Jan. 20, 2011; 79 FR 56279, Sept. 19, 2014; 88 FR 73238, Oct. 25, 2023]
+[56 FR 36471, July 31, 1991, as amended at 65 FR 39706, June 27, 2000; 68 FR 7440, Feb. 14, 2003; 71 FR 27645, May 12, 2006; 72 FR 30278, May 31, 2007; 76 FR 3537, Jan. 20, 2011; 79 FR 56279, Sept. 19, 2014; 88 FR 73238, Oct. 25, 2023; 89 FR 60832, July 29, 2024]

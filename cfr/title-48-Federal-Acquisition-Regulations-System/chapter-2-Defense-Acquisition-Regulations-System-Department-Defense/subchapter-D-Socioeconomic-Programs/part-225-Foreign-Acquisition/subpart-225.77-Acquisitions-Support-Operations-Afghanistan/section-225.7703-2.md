@@ -24,7 +24,7 @@ Before use of a procedure specified in 225.7703-1(a), a written determination mu
 
 (i) The head of the contacting activity is authorized to make a determination that applies to an individual acquisition with a value of less than $100 million.
 
-(ii) The Principal Director, Defense Pricing and Contracting, and the following officials, without power of redelegation, are authrized to make a determination that applies to an individual acquisition with a value of $100 million or more or to a class of acquisitions:
+(ii) The Principal Director, Defense Pricing, Contracting, and Acquisition Policy, and the following officials, without power of redelegation, are authorized to make a determination that applies to an individual acquisition with a value of $100 million or more or to a class of acquisitions:
 
 (A) Defense Logistics Agency Component Acquisition Executive.
 
@@ -44,4 +44,4 @@ Before use of a procedure specified in 225.7703-1(a), a written determination mu
 
 (c) See PGI 225.7703-2(c) for formats for use in preparation of the determinations required by this subsection.
 
-[73 FR 53153, Sept. 15, 2008, as amended at 75 FR 18039, Apr. 8, 2010; 75 FR 45074, Aug. 2, 2010; 78 FR 59858, Sept. 30, 2013; 80 FR 36905, June 26, 2015; 85 FR 61504, Sept. 29, 2020]
+[73 FR 53153, Sept. 15, 2008, as amended at 75 FR 18039, Apr. 8, 2010; 75 FR 45074, Aug. 2, 2010; 78 FR 59858, Sept. 30, 2013; 80 FR 36905, June 26, 2015; 85 FR 61504, Sept. 29, 2020; 89 FR 60831, July 29, 2024]

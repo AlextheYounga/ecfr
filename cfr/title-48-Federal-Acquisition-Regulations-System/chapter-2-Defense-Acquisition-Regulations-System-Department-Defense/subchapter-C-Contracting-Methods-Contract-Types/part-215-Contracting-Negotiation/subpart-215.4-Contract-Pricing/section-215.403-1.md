@@ -30,7 +30,7 @@
 
 (*3*) There are demonstrated benefits to granting the waiver. Follow the procedures at PGI 215.403-1(c)(4)(A) for determining when an exceptional case waiver is appropriate, for approval of such waivers, for partial waivers, and for waivers applicable to unpriced supplies or services.
 
-(B) By November 30th of each year, departments and agencies shall provide a report to the Office of the Principal Director, Defense Pricing and Contracting, (Price, Cost and Finance), of all waivers granted under FAR 15.403-1(b)(4), during the previous fiscal year, for any contract, subcontract, or modification expected to have a value of $20 million or more. See PGI 215.403-1(c)(4)(B) for the format and guidance for the report.
+(B) By November 30th of each year, departments and agencies shall provide a report to the Office of the Principal Director, Defense Pricing, Contracting, and Acquisition Policy, (Price, Cost and Finance), of all waivers granted under FAR 15.403-1(b)(4), during the previous fiscal year, for any contract, subcontract, or modification expected to have a value of $20 million or more. See PGI 215.403-1(c)(4)(B) for the format and guidance for the report.
 
 (C) DoD has waived the requirement for submission of certified cost or pricing data for the Canadian Commercial Corporation and its subcontractors (but see 215.408(3) and 225.870-4(c)).
 
@@ -40,4 +40,4 @@
 
 (*2*) Certified cost or pricing data from subcontractors that are not nonprofit organizations when the subcontractor's proposal exceeds the certified cost or pricing data threshold at FAR 15.403-4(a)(1).
 
-[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69493, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 76 FR 58137, Sept. 20, 2011; 77 FR 39139, June 29, 2012; 77 FR 43472, July 24, 2012; 77 FR 52253, Aug. 29, 2012; 77 FR 76937, 76939, Dec. 31, 2012; 78 FR 13543, Feb. 28, 2013; 78 FR 65216, Oct. 31, 2013; 80 FR 36904, June 26, 2015; 83 FR 4444, Jan. 31, 2018; 83 FR 30828, June 29, 2018; 85 FR 34532, June 5, 2020; 85 FR 61504, Sept. 29, 2020; 87 FR 76992, Dec. 16, 2022; 88 FR 6583, Jan. 31, 2023; 88 FR 73236, Oct. 25, 2023; 89 FR 46808, May 30, 2024]
+[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69493, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 76 FR 58137, Sept. 20, 2011; 77 FR 39139, June 29, 2012; 77 FR 43472, July 24, 2012; 77 FR 52253, Aug. 29, 2012; 77 FR 76937, 76939, Dec. 31, 2012; 78 FR 13543, Feb. 28, 2013; 78 FR 65216, Oct. 31, 2013; 80 FR 36904, June 26, 2015; 83 FR 4444, Jan. 31, 2018; 83 FR 30828, June 29, 2018; 85 FR 34532, June 5, 2020; 85 FR 61504, Sept. 29, 2020; 87 FR 76992, Dec. 16, 2022; 88 FR 6583, Jan. 31, 2023; 88 FR 73236, Oct. 25, 2023; 89 FR 46808, May 30, 2024; 89 FR 60831, July 29, 2024]

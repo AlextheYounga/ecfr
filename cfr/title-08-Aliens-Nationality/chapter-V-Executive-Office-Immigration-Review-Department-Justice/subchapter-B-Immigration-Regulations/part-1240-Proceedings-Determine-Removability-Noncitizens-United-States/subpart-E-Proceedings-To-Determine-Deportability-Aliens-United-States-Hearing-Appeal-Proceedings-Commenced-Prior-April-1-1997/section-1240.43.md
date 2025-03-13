@@ -1,0 +1,3 @@
+##### § 1240.43 Incompetent respondents. #####
+
+When it is impracticable for the respondent to be present at the hearing because of mental incompetency, the guardian, near relative, or friend who was served with a copy of the order to show cause shall be permitted to appear on behalf of the respondent. If such a person cannot reasonably be found or fails or refuses to appear, the custodian of the respondent shall be requested to appear on behalf of the respondent.

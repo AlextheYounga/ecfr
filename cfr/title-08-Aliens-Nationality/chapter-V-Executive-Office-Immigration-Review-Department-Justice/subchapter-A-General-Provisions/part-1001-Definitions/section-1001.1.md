@@ -1,7 +1,5 @@
 ##### § 1001.1 Definitions. #####
 
-Link to an amendment published at 89 FR 46787, May 29, 2024.
-
 As used in this chapter:
 
 (a) The terms defined in section 101 of the Immigration and Nationality Act (66 Stat. 163) shall have the meanings ascribed to them in that section and as supplemented, explained, and further defined in this chapter.
@@ -61,5 +59,9 @@ As used in this chapter:
 (ee) The term *service* means physically presenting, mailing, or electronically providing a document to the appropriate party or parties; except that an Order to Show Cause or Notice of Deportation Hearing shall be served in person to the alien, or by certified mail to the alien or the alien's attorney, and a Notice to Appear shall be served to the alien in person, or if personal service is not practicable, shall be served by regular mail to the alien or the alien's attorney of record.
 
 (ff) The term *practitioner* means an attorney as defined in paragraph (f) of this section who does not represent the Federal Government, or a representative as defined in paragraph (j) of this section.
+
+(gg) The term *noncitizen* means “alien,” as defined in section 101(a)(3) of the Act.
+
+(hh) The term *unaccompanied child* means “unaccompanied alien child,” as defined in 6 U.S.C. 279(g)(2).
 
 [23 FR 9115, Nov. 26, 1958]Editorial Note:For Federal Register citations affecting § 1001.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

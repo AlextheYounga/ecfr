@@ -1,3 +1,3 @@
 ##### § 318.7 Enforcement. #####
 
-A violation of this part shall be treated as an unfair or deceptive act or practice in violation of a regulation under § 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)) regarding unfair or deceptive acts or practices.
+Any violation of this part shall be treated as a violation of a rule promulgated under section 18 of the Federal Trade Commission Act, 15 U.S.C. 57a, regarding unfair or deceptive acts or practices, and thus subject to civil penalties (as adjusted for inflation pursuant to § 1.98 of this chapter), and the Commission will enforce this part in the same manner, by the same means, and with the same jurisdiction, powers, and duties as are available to it pursuant to the Federal Trade Commission Act, 15 U.S.C. 41 *et seq.*

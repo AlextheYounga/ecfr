@@ -1,0 +1,5 @@
+##### § 1240.15 Appeals. #####
+
+Pursuant to 8 CFR part 1003, an appeal shall lie from a decision of an immigration judge to the Board of Immigration Appeals, except that no appeal shall lie from an order of removal entered in absentia. The procedures regarding the filing of a Form EOIR 26, Notice of Appeal, fees, and briefs are set forth in §§ 1003.3, 1003.31, and 1003.38 of this chapter. An appeal shall be filed within 30 calendar days after the mailing of a written decision, the stating of an oral decision, or the service of a summary decision. The filing date is defined as the date of receipt of the Notice of Appeal by the Board of Immigration Appeals. The reasons for the appeal shall be stated in the Notice of Appeal in accordance with the provisions of § 1003.3(b) of this chapter. Failure to do so may constitute a ground for dismissal of the appeal by the Board pursuant to § 1003.1(d)(2) of this chapter.
+
+[62 FR 10367, Mar. 6, 1997, as amended at 66 FR 6446, Jan. 22, 2001]

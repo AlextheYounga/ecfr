@@ -4,7 +4,7 @@
 
 (1) The Center for Innovation for Care and Payment will be responsible for working across VA to carry out pilot programs to develop innovative approaches to testing payment and service delivery models to reduce expenditures while preserving or enhancing the quality of care furnished by VA.
 
-(2) The Center for Innovation for Care and Payment will not operate within any specific administration but will operate in VA's corporate portfolio to ensure the limited number of concurrent pilot programs under this section are not redundant of or conflicted by ongoing innovation efforts within any specific administration.
+(2) The Center for Innovation for Care and Payment will operate within the Veterans Health Administration, which will ensure that the limited number of concurrent pilots under this section are not redundant of or conflicting with ongoing innovation efforts within any specific administration.
 
 (b) *Definitions.* The following definitions apply to this section.
 
@@ -40,7 +40,7 @@
 
 (f) *Notice of eligibility.* VA will take reasonable actions to provide direct notice to veterans eligible to participate in a pilot program operated under this section and will provide general notice to other individuals eligible to participate in a pilot program. VA will announce its methods of providing notice to veterans, the public, and other individuals eligible to participate through the document it publishes in the Federal Register for each proposed and approved pilot program.
 
-(g) *Evaluation and reporting.* VA will evaluate each pilot program operated under this section and report its findings. Evaluations may be based on quantitative data, qualitative data, or both. Whenever appropriate, evaluations will include a survey of participants or beneficiaries to determine their satisfaction with the pilot program. VA will make the evaluation results available to the public on the VA Innovation Center website on the schedule identified in VA's proposal for the pilot program.
+(g) *Evaluation and reporting.* VA will evaluate each pilot program operated under this section and report its findings. Evaluations may be based on quantitative data, qualitative data, or both. Whenever appropriate, evaluations will include a survey of participants or beneficiaries to determine their satisfaction with the pilot program. VA will make the evaluation results available to the public on a VA website on the schedule identified in VA's proposal for the pilot program.
 
 (h) *Expansion of pilot programs.* VA may expand a pilot program consistent with this paragraph (h).
 
@@ -54,4 +54,4 @@
 
 (j) *Termination of pilot programs.* If VA determines that a pilot program is not producing quality enhancement or quality preservation, or is not resulting in the reduction of expenditures, and that it is not possible or advisable to modify the pilot program either through submission of a new waiver request under paragraph (e) of this section or through modification under paragraph (i) of this section, VA will terminate the pilot program within 30 days of submitting an interim report to Congress that states such determination. VA will also publish a document in the Federal Register regarding the pilot program's termination.
 
-[84 FR 57329, Oct. 25, 2019]
+[84 FR 57329, Oct. 25, 2019, as amended at 89 FR 60827, July 29, 2024]

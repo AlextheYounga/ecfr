@@ -1,0 +1,3 @@
+##### § 1240.69 Reliance on information compiled by other sources. #####
+
+In determining whether an applicant is eligible for suspension of deportation or special rule cancellation of removal, the asylum officer may rely on material described in § 1208.12 of this chapter. Nothing in this subpart shall be construed to entitle the applicant to conduct discovery directed toward records, officers, agents, or employees of the Service, the Department of Justice, or the Department of State.

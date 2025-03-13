@@ -1,7 +1,5 @@
 ##### § 380.2 Definitions and terminology. #####
 
-Link to an amendment published at 89 FR 46734, May 29, 2024.
-
 For purposes of this part—
 
 (a) *Categorical exclusion* means a category of actions described in § 380.4, which do not individually or cumulatively have a significant effect on the human environment and which the Commission has found to have no such effect and for which, therefore, neither an environmental assessment nor an environmental impact statement is required. The Commission may decide to prepare environmental assessments for the reasons stated in § 380.4(b).
@@ -20,6 +18,10 @@ For purposes of this part—
 
 (e) *Environmental impact statement* (EIS) means a detailed written statement as required by section 102(2)(C) of NEPA. DEIS means a draft EIS and FEIS means a final EIS.
 
-(f) *Environmental report* or ER means that part of an application submitted to the Commission by an applicant for authorization of a proposed action which includes information concerning the environment, the applicant's analysis of the environmental impact of the action, or alternatives to the action required by this or other applicable statutes or regulations.
+(f) *Environmental justice community* means any community that has been historically marginalized and overburdened by pollution. Environmental justice communities include, but may not be limited to, minority populations, low-income populations, or indigenous peoples.
 
-(g) *Finding of no significant impact* (FONSI) means a document by the Commission briefly presenting the reason why an action, not otherwise excluded by § 380.4, will not have a significant effect on the human environment and for which an environmental impact statement therefore will not be prepared. It must include the environmental assessment or a summary of it and must note other environmental documents related to it. If the assessment is included, the FONSI need not repeat any of the discussion in the assessment but may incorporate it by reference.
+(g) *Environmental report* or ER means that part of an application submitted to the Commission by an applicant for authorization of a proposed action which includes information concerning the environment, the applicant's analysis of the environmental impact of the action, or alternatives to the action required by this or other applicable statutes or regulations.
+
+(h) *Finding of no significant impact* (FONSI) means a document by the Commission briefly presenting the reason why an action, not otherwise excluded by § 380.4, will not have a significant effect on the human environment and for which an environmental impact statement therefore will not be prepared. It must include the environmental assessment or a summary of it and must note other environmental documents related to it. If the assessment is included, the FONSI need not repeat any of the discussion in the assessment but may incorporate it by reference.
+
+[Order 486, 52 FR 47910, Dec. 17, 1987, as amended by Order 1977, 89 FR 46734, May 29, 2024]

@@ -12,8 +12,8 @@ III. DISCUSSION: Include a complete, convincing explanation of why the change is
 
 IV. COLLATERALS: Address the need for public comment (FAR 1.301(b) and subpart 1.5), the Paperwork Reduction Act, and the Regulatory Flexibility Act (FAR 1.301(c)).
 
-V. DEVIATIONS: If a recommended revision of DFARS is a FAR deviation, identify the deviation and include under separate TAB a justification for the deviation that addresses the requirements of 201.402(2). The justification should be in the form of a memorandum for the Principal Director, Defense Pricing and Contracting, Office of the Under Secretary of Defense (Acquisition and Sustainment).
+V. DEVIATIONS: If a recommended revision of DFARS is a FAR deviation, identify the deviation and include under separate TAB a justification for the deviation that addresses the requirements of 201.402(2). The justification should be in the form of a memorandum for the Principal Director, Defense Pricing, Contracting, and Acquisition Policy, Office of the Under Secretary of Defense (Acquisition and Sustainment).
 
 (ii) The public may offer proposed revisions of FAR or DFARS by submission of a memorandum, in the format (including all of the information) prescribed in paragraph (d)(i) of this subsection, to the Director of the DAR Council.
 
-[56 FR 36284, July 31, 1991, as amended at 60 FR 61591, Nov. 30, 1995; 61 FR 50451, Sept. 26, 1996; 63 FR 11528, Mar. 9, 1998; 65 FR 6552, Feb. 10, 2000; 68 FR 7439, Feb. 14, 2003; 73 FR 70906, Nov. 24, 2008; 77 FR 76937, Dec. 31, 2012; 78 FR 13543, Feb. 28, 2013; 88 FR 73234, Oct. 25, 2023]
+[56 FR 36284, July 31, 1991, as amended at 60 FR 61591, Nov. 30, 1995; 61 FR 50451, Sept. 26, 1996; 63 FR 11528, Mar. 9, 1998; 65 FR 6552, Feb. 10, 2000; 68 FR 7439, Feb. 14, 2003; 73 FR 70906, Nov. 24, 2008; 77 FR 76937, Dec. 31, 2012; 78 FR 13543, Feb. 28, 2013; 88 FR 73234, Oct. 25, 2023; 89 FR 60830, July 29, 2024]

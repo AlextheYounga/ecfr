@@ -1,0 +1,7 @@
+##### § 1240.68 Failure to appear at an interview before an asylum officer or failure to follow requirements for fingerprinting. #####
+
+(a) Failure to appear for a scheduled interview without prior authorization may result in dismissal of the application or waiver of the right to an adjudication by an asylum officer. A written request to reschedule will be granted if it is an initial request and is received by the Asylum Office at least 2 days before the scheduled interview date. All other requests to reschedule the interview, including those submitted after the interview date, will be granted only if the applicant has a reasonable excuse for not appearing, and the excuse was received by the Asylum Office in writing within a reasonable time after the scheduled interview date.
+
+(b) Failure to comply with fingerprint processing requirements without reasonable excuse may result in dismissal of the application or waiver of the right to an adjudication by an asylum officer.
+
+(c) Failure to appear shall be excused if the notice of the interview or fingerprint appointment was not mailed to the applicant's current address and such address had been provided to the Office of International Affairs by the applicant prior to the date of mailing in accordance with section 265 of the Act and Service regulations, unless the asylum officer determines that the applicant received reasonable notice of the interview or fingerprinting appointment.

@@ -1,8 +1,6 @@
 ##### § 50.7 Applications: exhibits. #####
 
-Link to an amendment published at 89 FR 46732, May 29, 2024.
-
-Each exhibit must contain a title page showing the applicant's name, title of the exhibit, the proper letter designation of the exhibit, and, if 10 or more pages, a table of contents, citing by page, section number or subdivision, the component elements or matters contained in the exhibit.
+Each exhibit must contain a title page showing the applicant's name, the title of the exhibit, and the proper letter designation of the exhibit. If an exhibit is 10 or more pages in length, it must include a table of contents citing (by page, section number, or subdivision) the component elements or matters contained in the exhibit.
 
 (a) *Exhibit A—Articles of incorporation and bylaws.* If the applicant is not an individual, a conformed copy of its articles of incorporation and bylaws, or other similar documents.
 
@@ -20,7 +18,7 @@ Each exhibit must contain a title page showing the applicant's name, title of th
 
 (1) A detailed project description including:
 
-(i) Name and destination of the project;
+(i) Name, point of receipt, and point of delivery of the project;
 
 (ii) Design voltage rating (kV);
 
@@ -30,13 +28,13 @@ Each exhibit must contain a title page showing the applicant's name, title of th
 
 (v) Line design features for minimizing television and/or radio interference cause by operation of the proposed facilities; and
 
-(vi) Line design features that minimize audible noise during fog/rain caused by operation of the proposed facilities, including comparing expected audible noise levels to the applicable Federal, State, and local requirements.
+(vi) Line design features that minimize audible corona noise during fog/rain caused by operation of the proposed facilities.
 
 (2) A conductor, structures, and substations description including:
 
 (i) Conductor size and type;
 
-(ii) Type of structures;
+(ii) Type of structures, including overhead and underground structures;
 
 (iii) Height of typical structures;
 
@@ -44,7 +42,7 @@ Each exhibit must contain a title page showing the applicant's name, title of th
 
 (v) Dimensional drawings of the typical structures to be used in the project; and
 
-(vi) A list of the names of all new (and existing if applicable) substations or switching stations that will be associated with the proposed new transmission line.
+(vi) A list of the names of all new (and existing, if applicable) substations or switching stations that will be associated with the proposed transmission line.
 
 (3) The location of the site and right-of-way including:
 
@@ -52,7 +50,7 @@ Each exhibit must contain a title page showing the applicant's name, title of th
 
 (ii) Miles of circuit;
 
-(iii) Width of the right-of-way;
+(iii) Width of the right-of-way; and
 
 (iv) A brief description of the area traversed by the proposed transmission line, including a description of the general land uses in the area and the type of terrain crossed by the proposed line;
 
@@ -62,9 +60,9 @@ Each exhibit must contain a title page showing the applicant's name, title of th
 
 (ii) The operating voltage and frequency; and
 
-(iii) Conductor size, type and number of conductors per phase.
+(iii) Conductor size, conductor type, and number of conductors per phase.
 
-(5) If the proposed interconnection is an overhead line, the following additional information also must be provided:
+(5) If the proposed project includes an overhead transmission line, the following additional information also must be provided:
 
 (i) The wind and ice loading design parameters;
 
@@ -76,11 +74,11 @@ Each exhibit must contain a title page showing the applicant's name, title of th
 
 (v) The designed line-to-ground and conductor-side clearances.
 
-(6) If an underground or underwater interconnection is proposed, the following additional information also must be provided:
+(6) If an underground or underwater transmission line is proposed, the following additional information also must be provided:
 
 (i) Burial depth;
 
-(ii) Type of cable and a description of any required supporting equipment, such as insulation medium pressurizing or forced cooling;
+(ii) Type of cable and a description of any required supporting equipment, such as pressurizing plants;
 
 (iii) Cathodic protection scheme; and
 
@@ -88,38 +86,36 @@ Each exhibit must contain a title page showing the applicant's name, title of th
 
 (7) Technical diagrams that provide clarification of any of the above items should be included.
 
-(8) Any other data or information not previously identified that has been identified as a minimum requirement for the siting of a transmission line in the State in which the facility will be located.
+(8) Any other data or information identified as a minimum requirement for the siting of a transmission line in the State in which the facility will be located.
 
 (h) *Exhibit H—System analysis data.* An analysis evaluating the impact the proposed facilities will have on the existing electric transmission system performance, including:
 
-(1) An analysis of the existing and expected congestion on the electric transmission system.
+(1) An analysis of the existing and expected capacity constraints and congestion on the electric transmission system.
 
-(2) Power flow cases used to analyze the proposed and future transmission system under anticipated load growth, operating conditions, variations in power import and export levels, and additional transmission facilities required for system reliability. The cases must:
+(2) Steady-state, short-circuit, and dynamic power flow cases, as applicable, used to analyze the existing transmission system, proposed project, and future transmission system under anticipated load growth, operating conditions, variations in power import and export levels, generation additions and retirements, and additional transmission facilities required for system reliability. The cases must:
 
 (i) Provide all files to model normal, single contingency, multiple contingency, and special protective systems, including the special protective systems' automatic switching or load shedding system; and
 
-(ii) State the assumptions, criteria, and guidelines upon which they are based and take into consideration transmission facility loading; first contingency incremental transfer capability (FCITC); normal incremental transfer capability (NITC); system protection; and system stability.
+(ii) State the assumptions, criteria, and guidelines upon which the models are based and take into consideration transmission facility loading, planned and forecasted forced outage rate for generation and transmission, generation dispatch scenarios, system protection, and system stability.
 
-(3) A stability analysis including study assumptions, criteria, and guidelines used in the analysis, including load shedding allowables.
+(3) A concise analysis of how the proposed project will:
 
-(4) A short circuit analysis for all power flow cases.
+(i) Improve system reliability over the long and short term;
 
-(5) A concise analysis to include:
+(ii) Impact long-term regional transmission expansion plans;
 
-(i) An explanation of how the proposed project will improve system reliability over the long and short term;
+(iii) Impact congestion on the system where the proposed project will be located and, as relevant, the neighboring systems; and
 
-(ii) An analysis of how the proposed project will impact long term regional transmission expansion plans;
+(iv) Incorporate any advanced technology design features, if applicable.
 
-(iii) An analysis of how the proposed project will impact congestion on the applicant's entire system; and
-
-(iv) A description of proposed high technology design features.
-
-(6) Detailed single-line diagrams, including existing system facilities identified by name and circuit number, that show system transmission elements, in relation to the project and other principal interconnected system elements, as well as power flow and loss data that represent system operating conditions.
+(4) Single-line diagrams, including existing system facilities identified by name and circuit number, that show system transmission elements, in relation to the project and other principal interconnected system elements, as well as power flow and loss data that represent system operating conditions.
 
 (i) *Exhibit I—Project Cost and Financing.* (1) A statement of estimated costs of any new construction or modification.
 
-(2) The estimated capital cost and estimated annual operations and maintenance expense of each proposed environmental measure.
+(2) The estimated capital cost and estimated annual operations and maintenance expense of each proposed mitigation measure.
 
 (3) A statement and evaluation of the consequences of denial of the transmission line permit application.
 
-(j) *Exhibit J—Construction, operation, and management.* A concise statement providing arrangements for supervision, management, engineering, accounting, legal, or other similar service to be rendered in connection with the construction or operation of the project, if not to be performed by employees of the applicant, including reference to any existing or contemplated agreements, together with a statement showing any affiliation between the applicant and any parties to the agreements or arrangements.
+(j) *Exhibit J—Construction, operation, and management.* A concise statement providing arrangements for supervision, management, engineering, accounting, legal, or other similar services to be rendered in connection with the construction, operation, and maintenance of the project, if not to be performed by employees of the applicant, including reference to any existing or contemplated agreements, together with a statement showing any affiliation between the applicant and any parties to the agreements or arrangements.
+
+[71 FR 69465, Dec. 1, 2006, as amended at 89 FR 46732, May 29, 2024]

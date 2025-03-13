@@ -334,24 +334,26 @@
 
 (ii) This definition includes, but is not limited to, the following substances: (A)-(B) [Reserved]
 
-|                                                                                 (31)ndash;(49) [Reserved]                                                                                 |    |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| (50) 2-(2-(4-butoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)-N,N-diethylethan-1-amine, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other name: Butonitazene) |9751|
-|                                                                                      (51) [Reserved]                                                                                      |    |
-| (52) N,N-diethyl-2-(2-(4-fluorobenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-amine, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other name: Flunitazene)  |9756|
-|   (53) N,N-diethyl-2-(2-(4-methoxybenzyl)-1H-benzimidazol-1-yl)ethan-1-amine, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other name: Metodesnitazene)   |9764|
-|                                                                                   (54)-(56) [Reserved]                                                                                    |    |
-|              (57) 4-(2-chlorophenyl)-2-ethyl-9-methyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine, its salts, isomers, and salts of isomers (Other name: etizolam)               |2780|
-|              (58) 8-chloro-6-(2-fluorophenyl)-1-methyl-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepine, its salts, isomers, and salts of isomers (Other name: flualprazolam)              |2785|
-|                (59) 6-(2-chlorophenyl)-1-methyl-8-nitro-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepine, its salts, isomers, and salts of isomers (Other name: clonazolam)                |2786|
-|              (60) 8-bromo-6-(2-fluorophenyl)-1-methyl-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepine, its salts, isomers, and salts of isomers (Other name: flubromazolam)               |2788|
-|                  (61) 7-chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H-benzo[e][1,4]diazepin-2-one, its salts, isomers, and salts of isomers (Other name: diclazepam)                  |2789|
-|      (62) Methyl 3,3-dimethyl-2-(1-(pent-4-en-1-yl)-1H-indazole-3-carboxamido)butanoate, its optical and geometric isomers, salts and salts of isomers (Other name: MDMB-4en-PINACA)      |7090|
-|(63) Methyl 2-[[1-(4-fluorobutyl)indole-3-carbonyl]amino]-3,3-dimethyl-butanoate, its optical and geometric isomers, salts and salts of isomers (Other names: 4F-MDMB-BUTICA; 4F-MDMB-BICA)|7091|
-|  (64) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(pent-4-en-1-yl)-1H-indazole-3-carboxamide, its optical and geometric isomers, salts and salts of isomers (Other name: ADB-4en-PINACA)   |7092|
-|           (65) 5-Pentyl-2-(2-phenylpropan-2-yl)pyrido[4,3-b]indol-1-one, its optical and geometric isomers, salts and salts of isomers (Other names: CUMYL-PEGACLONE; SGT-151)            |7093|
-| (66) Ethyl 2-[[1-(5-fluoropentyl)indole-3-carbonyl]amino]-3,3-dimethyl-butanoate, its optical and geometric isomers, salts and salts of isomers (Other names: 5F-EDMB-PICA; 5F-EDMB-2201) |7094|
-|           (67) Methyl 2-(1-(4-fluorobenzyl)-1H-indole-3-carboxamido)-3-methyl butanoate, its optical and geometric isomers, salts and salts of isomers (Other name: MMB-FUBICA)           |7095|
+|                                                                                            (31)ndash;(49) [Reserved]                                                                                             |    |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
+|            (50) 2-(2-(4-butoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)-N,N-diethylethan-1-amine, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other name: Butonitazene)             |9751|
+|                                                                                                 (51) [Reserved]                                                                                                  |    |
+|             (52) N,N-diethyl-2-(2-(4-fluorobenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-amine, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other name: Flunitazene)             |9756|
+|              (53) N,N-diethyl-2-(2-(4-methoxybenzyl)-1H-benzimidazol-1-yl)ethan-1-amine, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other name: Metodesnitazene)               |9764|
+|                                                                                               (54)-(56) [Reserved]                                                                                               |    |
+|                          (57) 4-(2-chlorophenyl)-2-ethyl-9-methyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine, its salts, isomers, and salts of isomers (Other name: etizolam)                          |2780|
+|                         (58) 8-chloro-6-(2-fluorophenyl)-1-methyl-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepine, its salts, isomers, and salts of isomers (Other name: flualprazolam)                          |2785|
+|                           (59) 6-(2-chlorophenyl)-1-methyl-8-nitro-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepine, its salts, isomers, and salts of isomers (Other name: clonazolam)                            |2786|
+|                          (60) 8-bromo-6-(2-fluorophenyl)-1-methyl-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepine, its salts, isomers, and salts of isomers (Other name: flubromazolam)                          |2788|
+|                             (61) 7-chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H-benzo[e][1,4]diazepin-2-one, its salts, isomers, and salts of isomers (Other name: diclazepam)                              |2789|
+|                 (62) Methyl 3,3-dimethyl-2-(1-(pent-4-en-1-yl)-1H-indazole-3-carboxamido)butanoate, its optical and geometric isomers, salts and salts of isomers (Other name: MDMB-4en-PINACA)                  |7090|
+|           (63) Methyl 2-[[1-(4-fluorobutyl)indole-3-carbonyl]amino]-3,3-dimethyl-butanoate, its optical and geometric isomers, salts and salts of isomers (Other names: 4F-MDMB-BUTICA; 4F-MDMB-BICA)            |7091|
+|              (64) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(pent-4-en-1-yl)-1H-indazole-3-carboxamide, its optical and geometric isomers, salts and salts of isomers (Other name: ADB-4en-PINACA)              |7092|
+|                       (65) 5-Pentyl-2-(2-phenylpropan-2-yl)pyrido[4,3-b]indol-1-one, its optical and geometric isomers, salts and salts of isomers (Other names: CUMYL-PEGACLONE; SGT-151)                       |7093|
+|            (66) Ethyl 2-[[1-(5-fluoropentyl)indole-3-carbonyl]amino]-3,3-dimethyl-butanoate, its optical and geometric isomers, salts and salts of isomers (Other names: 5F-EDMB-PICA; 5F-EDMB-2201)             |7094|
+|                      (67) Methyl 2-(1-(4-fluorobenzyl)-1H-indole-3-carboxamido)-3-methyl butanoate, its optical and geometric isomers, salts and salts of isomers (Other name: MMB-FUBICA)                       |7095|
+|      (68) N-ethyl-2-(2-(4-isopropoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-amine, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other name: N-desethyl isotonitazene)       |9760|
+|(69) 2-(4-ethoxybenzyl)-5-nitro-1-(2-(piperidin-1-yl)ethyl)-1H-benzimidazole, its isomers, esters, ethers, salts, and salts of isomers, esters and ethers (Other names: N-piperidinyl etonitazene; etonitazepipne)|9761|
 
 [39 FR 22141, June 20, 1974]Editorial Notes:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
@@ -381,3 +383,5 @@ Effective Date Notes:
 |(59) 2-Methyl AP-237 (1-(2-methyl-4-(3-phenylprop-2-en-1-yl)piperazin-1-yl)butan-1-one)|9664|
 |                                                                                       |    |
 |                     \*<br/>\*<br/>\*<br/>\*<br/>\*<br/>\*<br/>\*                      |    |
+
+6. At 89 FR 60822, July 29, 2024, § 1308.11 was amended by adding paragraphs (h)(68) and (h)(69), effective July 29, 2024 through July 29, 2026.

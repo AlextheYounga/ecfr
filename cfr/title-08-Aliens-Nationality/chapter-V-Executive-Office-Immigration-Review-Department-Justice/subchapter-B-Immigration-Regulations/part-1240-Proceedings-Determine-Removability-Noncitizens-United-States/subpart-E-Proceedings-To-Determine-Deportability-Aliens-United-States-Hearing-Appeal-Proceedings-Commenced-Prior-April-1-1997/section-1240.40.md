@@ -1,0 +1,3 @@
+##### § 1240.40 Proceedings commenced prior to April 1, 1997. #####
+
+Subpart E of 8 CFR part 1240 applies only to deportation proceedings commenced prior to April 1, 1997. A deportation proceeding is commenced by the filing of Form I-221 (Order to Show Cause) with the Immigration Court, and an alien is considered to be in deportation proceedings only upon such filing, except in the case of an alien admitted to the United States under the provisions of section 217 of the Act. All references to the Act contained in this subpart pertain to the Act as in effect prior to April 1, 1997.

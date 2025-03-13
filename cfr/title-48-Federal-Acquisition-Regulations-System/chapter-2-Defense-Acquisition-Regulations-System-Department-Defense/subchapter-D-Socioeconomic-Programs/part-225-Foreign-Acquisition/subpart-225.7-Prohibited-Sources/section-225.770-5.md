@@ -10,7 +10,7 @@
 
 (3) The Component Acquisition Executive of the Defense Logistics Agency.
 
-(c)(1) The official granting a waiver shall submit a report to the congressional defense committees, with a copy to the Principal Director, Defense Pricing and Contracting (see PGI 225.770-5), not less than 15 days before issuing the waiver.
+(c)(1) The official granting a waiver shall submit a report to the congressional defense committees, with a copy to the Principal Director, Defense Pricing, Contracting, and Acquisition Policy (see PGI 225.770-5), not less than 15 days before issuing the waiver.
 
 (2) In the report, the official shall—
 
@@ -18,4 +18,4 @@
 
 (ii) Include recommendations as to what actions may be taken to develop alternative sourcing capabilities in the future.
 
-[71 FR 53046, Sept. 8, 2006, as amended at 77 FR 30366, May 22, 2012; 83 FR 66072, Dec. 21, 2018; 88 FR 73236, Oct. 25, 2023]
+[71 FR 53046, Sept. 8, 2006, as amended at 77 FR 30366, May 22, 2012; 83 FR 66072, Dec. 21, 2018; 88 FR 73236, Oct. 25, 2023; 89 FR 60831, July 29, 2024]

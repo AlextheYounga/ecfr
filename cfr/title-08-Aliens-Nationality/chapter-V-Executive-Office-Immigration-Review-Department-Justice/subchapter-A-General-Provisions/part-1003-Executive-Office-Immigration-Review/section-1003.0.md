@@ -1,7 +1,5 @@
 ##### § 1003.0 Executive Office for Immigration Review. #####
 
-Link to an amendment published at 89 FR 46787, May 29, 2024.
-
 (a) *Organization.* Within the Department of Justice, there shall be an Executive Office for Immigration Review (EOIR), headed by a Director who is appointed by the Attorney General. The Director shall be assisted by a Deputy Director and the heads of EOIR's other components, who shall report to the Director and Deputy Director. EOIR shall include the Board of Immigration Appeals, the Office of the Chief Immigration Judge, the Office of the Chief Administrative Hearing Officer, the Office of Policy, the Office of the General Counsel, and such other components and staff as the Attorney General or the Director may provide.
 
 (b) *Powers of the Director*—(1) *In general.* The Director shall manage EOIR and its employees and shall be responsible for the direction and supervision of each EOIR component in the execution of its respective duties pursuant to the Act and the provisions of this chapter. Unless otherwise provided by the Attorney General, the Director shall report to the Deputy Attorney General and the Attorney General. The Director shall have the authority to:
@@ -26,7 +24,7 @@ Link to an amendment published at 89 FR 46787, May 29, 2024.
 
 (2) *Delegations.* (i) Except as provided in paragraph (b)(2)(ii) of this section, the Director may delegate the authority given to him by this part or otherwise by the Attorney General to the Deputy Director, the Chairman of the Board of Immigration Appeals, the Chief Immigration Judge, the Chief Administrative Hearing Officer, the Assistant Director for Policy, the General Counsel, or any other EOIR employee.
 
-(ii) The Director may not delegate the authority assigned to the Director in §§ 1003.1(e)(8)(ii) and 1292.18 and may not delegate any other authority to adjudicate cases arising under the Act or regulations unless expressly authorized to do so.
+(ii) The Director may not delegate the authority assigned to the Director in § 1292.18 of this chapter and may not delegate any other authority to adjudicate cases arising under the Act or regulations of this chapter unless expressly authorized to do so.
 
 (c) *Limit on the authority of the Director.* Except as provided by statute, regulation, or delegation of authority from the Attorney General, or when acting as a designee of the Attorney General, the Director shall have no authority to adjudicate cases arising under the Act or regulations or to direct the result of an adjudication assigned to the Board, an immigration judge, the Chief Administrative Hearing Officer, or an Administrative Law Judge. When acting under authority described in this paragraph (c), the Director shall exercise independent judgment and discretion in considering and determining the cases and may take any action consistent with the Director's authority as is appropriate and necessary for the disposition of the case. Nothing in this part, however, shall be construed to limit the authority of the Director under paragraph (a) or (b) of this section.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 89 FR 46787, May 29, 2024.
 
 (2) The Director of EOIR may, by explicit written determination and to the extent permitted by law, authorize the appointment of an alien to an EOIR position when necessary to accomplish the work of EOIR.
 
-[72 FR 53676, Sept. 20, 2007, as amended at 81 FR 92361, Dec. 19, 2016; 84 FR 44541, Aug. 26, 2019; 85 FR 69482, Nov. 3, 2020]
+[72 FR 53676, Sept. 20, 2007, as amended at 81 FR 92361, Dec. 19, 2016; 84 FR 44541, Aug. 26, 2019; 85 FR 69482, Nov. 3, 2020; 89 FR 46787, May 29, 2024]

@@ -78,10 +78,10 @@
 
 (iii) Include details regarding the negotiated contract terms and conditions; and
 
-(iv) Be submitted to OUSD(A&S)(DPC) for transmission to Congress via the Secretary of Defense and the President.
+(iv) Be submitted to OUSD(A&S)(DPCAP) for transmission to Congress via the Secretary of Defense and the President.
 
 (i) The Secretary of Defense may instruct the head of the agency proposing a multiyear contract to include in that contract negotiated priced options for varying the quantities of end items to be procured over the life of the contract (10 U.S.C. 3501(j)).
 
 (j) Any requests for increased funding or reprogramming for procurement of a major system under a multiyear contract shall be accompanied by an explanation of how the request for increased funding affects the determinations made by the Secretary of Defense under 217.172(h)(2) (10 U.S.C. 3501(m)).
 
-[76 FR 58153, Sept. 20, 2011, as amended at 80 FR 29982, May 26, 2015; 80 FR 36904, June 26, 2015; 81 FR 28731, May 10, 2016; 85 FR 61504, Sept. 29, 2020; 87 FR 76993, Dec. 16, 2022]
+[76 FR 58153, Sept. 20, 2011, as amended at 80 FR 29982, May 26, 2015; 80 FR 36904, June 26, 2015; 81 FR 28731, May 10, 2016; 85 FR 61504, Sept. 29, 2020; 87 FR 76993, Dec. 16, 2022; 89 FR 60831, July 29, 2024]

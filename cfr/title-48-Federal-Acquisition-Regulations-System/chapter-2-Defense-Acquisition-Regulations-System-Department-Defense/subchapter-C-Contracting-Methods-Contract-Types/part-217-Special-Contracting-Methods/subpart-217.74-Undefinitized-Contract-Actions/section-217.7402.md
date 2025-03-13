@@ -8,6 +8,6 @@
 
 (3) Congressionally mandated long-lead procurement contracts.
 
-(b) If the contracting officer determines that it is impracticable to adhere to the procedures of this subpart for a particular contract action that falls within one of the categories in paragraph (a) of this section, the contracting officer shall provide prior notice, through agency channels, electronically via email to the Principal Director, Defense Pricing and Contracting (Contract Policy), at *osd.pentagon.ousd-a-s.mbx.dpc-cp@mail.mil.*
+(b) If the contracting officer determines that it is impracticable to adhere to the procedures of this subpart for a particular contract action that falls within one of the categories in paragraph (a) of this section, the contracting officer shall provide prior notice, through agency channels, electronically via email to the Principal Director, Defense Pricing, Contracting, and Acquisition Policy (Contract Policy), at *osd.pentagon.ousd-a-s.mbx.dpc-cp@mail.mil.*
 
-[75 FR 48277, Aug. 10, 2010, as amended at 80 FR 72607, Nov. 20, 2015; 84 FR 39206, Aug. 9, 2019; 84 FR 48510, Sept. 13, 2019]
+[75 FR 48277, Aug. 10, 2010, as amended at 80 FR 72607, Nov. 20, 2015; 84 FR 39206, Aug. 9, 2019; 84 FR 48510, Sept. 13, 2019; 89 FR 60831, July 29, 2024]
