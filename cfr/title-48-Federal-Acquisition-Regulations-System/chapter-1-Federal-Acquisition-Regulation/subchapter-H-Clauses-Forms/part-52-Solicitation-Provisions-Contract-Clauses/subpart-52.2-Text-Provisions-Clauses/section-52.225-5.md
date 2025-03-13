@@ -2,7 +2,7 @@
 
 As prescribed in 25.1101(c)(1), insert the following clause:
 
-Trade Agreements (DEC 2022)
+Trade Agreements (NOV 2023)
 
 (a) *Definitions.* As used in this clause.
 
@@ -40,7 +40,7 @@ Trade Agreements (DEC 2022)
 
 *Designated country* means any of the following countries:
 
-(1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan (known in the World Trade Organization as “the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu (Chinese Taipei)”), Ukraine, or United Kingdom);
+(1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, North Macedonia, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan (known in the World Trade Organization as “the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu (Chinese Taipei)”), Ukraine, or United Kingdom);
 
 (2) A Free Trade Agreement (FTA) country (Australia, Bahrain, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore);
 

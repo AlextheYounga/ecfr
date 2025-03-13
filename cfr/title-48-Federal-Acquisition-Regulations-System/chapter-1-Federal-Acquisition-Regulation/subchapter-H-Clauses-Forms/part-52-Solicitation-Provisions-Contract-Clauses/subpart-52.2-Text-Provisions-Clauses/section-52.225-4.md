@@ -2,15 +2,15 @@
 
 As prescribed in 25.1101(b)(2)(i), insert the following provision:
 
-Buy American—Free Trade Agreements—Israeli Trade Act Certificate (OCT 2022)
+Buy American—Free Trade Agreements—Israeli Trade Act Certificate (NOV 2023)
 
 (a)(1) The Offeror certifies that each end product, except those listed in paragraph (b) or (c)(1) of this provision, is a domestic end product and that each domestic end product listed in paragraph (c)(2) of this provision contains a critical component.
 
-(2) The terms “Bahrainian, Moroccan, Omani, Panamanian, or Peruvian end product,” “commercially available off-the-shelf (COTS) item,” “critical component,” “domestic end product,” “end product,” “foreign end product,” “Free Trade Agreement country,” “Free Trade Agreement country end product,” “Israeli end product,” and “United States” are defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act.”
+(2) The terms “Bahraini, Moroccan, Omani, Panamanian, or Peruvian end product,” “commercially available off-the-shelf (COTS) item,” “critical component,” “domestic end product,” “end product,” “foreign end product,” “Free Trade Agreement country,” “Free Trade Agreement country end product,” “Israeli end product,” and “United States” are defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act.”
 
-(b) The Offeror certifies that the following supplies are Free Trade Agreement country end products (other than Bahrainian, Moroccan, Omani, Panamanian, or Peruvian end products) or Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act”:
+(b) The Offeror certifies that the following supplies are Free Trade Agreement country end products (other than Bahraini, Moroccan, Omani, Panamanian, or Peruvian end products) or Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act”:
 
-Free Trade Agreement Country End Products (Other than Bahrainian, Moroccan, Omani, Panamanian, or Peruvian End Products) or Israeli End Products:
+Free Trade Agreement Country End Products (Other than Bahraini, Moroccan, Omani, Panamanian, or Peruvian End Products) or Israeli End Products:
 
 |Line item No.|Country of origin|
 |-------------|-----------------|
@@ -57,11 +57,11 @@ Line Item No. \_\_\_\_\_\_
 
 [List as necessary]
 
-*Alternate III* (FEB 2021). As prescribed in 25.1101(b)(2)(iii), substitute the following paragraph (b) for paragraph (b) of the basic provision:
+*Alternate III* (NOV 2023). As prescribed in 25.1101(b)(2)(iii), substitute the following paragraph (b) for paragraph (b) of the basic provision:
 
-(b) The Offeror certifies that the following supplies are Free Trade Agreement country end products (other than Bahrainian, Korean, Moroccan, Omani, Panamanian, or Peruvian end products) or Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act”:
+(b) The Offeror certifies that the following supplies are Free Trade Agreement country end products (other than Bahraini, Korean, Moroccan, Omani, Panamanian, or Peruvian end products) or Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act”:
 
-Free Trade Agreement Country End Products (Other than Bahrainian, Korean, Moroccan, Omani, Panamanian, or Peruvian End Products) or Israeli End Products:
+Free Trade Agreement Country End Products (Other than Bahraini, Korean, Moroccan, Omani, Panamanian, or Peruvian End Products) or Israeli End Products:
 
 |Line item No.|Country of origin|
 |-------------|-----------------|
@@ -69,4 +69,4 @@ Free Trade Agreement Country End Products (Other than Bahrainian, Korean, Morocc
 |             |                 |
 |             |                 |
 
-[List as necessary][64 FR 72435, Dec. 27, 1999; 65 FR 4633, Jan. 31, 2000]Editorial Note:For Federal Register citations affecting § 52.225-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[List as necessary][64 FR 72435, Dec. 27, 1999; 65 FR 4633, Jan. 31, 2000]Editorial Note:For Federal Register citations affecting § 52.225-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

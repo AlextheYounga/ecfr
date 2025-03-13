@@ -34,16 +34,16 @@ Notice of Required Use of American Iron, Steel, and Manufactured Goods—Buy Ame
 
 (b) *Requests for determination of inapplicability.* An offeror requesting a determination regarding the inapplicability of section 1605 of the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5) (Recovery Act) or the Buy American statute shall submit the request with its offer, including the information and applicable supporting data required by paragraphs (c) and (d) of FAR clause 52.225-23.
 
-*Alternate II* (MAR 2009). As prescribed in 25.1102(e), add the definition of “Bahrainian, Mexican, or Omani construction material” to paragraph (a) and substitute the following paragraph (d) for paragraph (d) of the basic provision:
+*Alternate II* (NOV 2023). As prescribed in 25.1102(e), add the definition of “Bahraini, Mexican, or Omani construction material” to paragraph (a) and substitute the following paragraph (d) for paragraph (d) of the basic provision:
 
-(d) *Alternate offers.* (1) When an offer includes foreign construction material, except foreign construction material from a Recovery Act designated country other than Bahrain, Mexico, or Oman that is not listed by the Government in this solicitation in paragraph (b)(3) of FAR clause 52.225-23, the offeror also may submit an alternate offer based on use of equivalent domestic or Recovery Act designated country construction material other than Bahrainian, Mexican, or Omani construction material.
+(d) *Alternate offers.* (1) When an offer includes foreign construction material, except foreign construction material from a Recovery Act designated country other than Bahrain, Mexico, or Oman that is not listed by the Government in this solicitation in paragraph (b)(3) of FAR clause 52.225-23, the offeror also may submit an alternate offer based on use of equivalent domestic or Recovery Act designated country construction material other than Bahraini, Mexican, or Omani construction material.
 
 (2) If an alternate offer is submitted, the offeror shall submit a separate Standard Form 1442 for the alternate offer and a separate cost comparison table prepared in accordance with paragraphs (c) and (d) of FAR clause 52.225-23 for the offer that is based on the use of any foreign construction material for which the Government has not yet determined an exception applies.
 
-(3) If the Government determines that a particular exception requested in accordance with paragraph (c) of FAR clause 52.225-23 does not apply, the Government will evaluate only those offers based on use of the equivalent domestic or Recovery Act designated country construction material other than Bahrainian, Mexican, or Omani construction material. An offer based on use of the foreign construction material for which an exception was requested—
+(3) If the Government determines that a particular exception requested in accordance with paragraph (c) of FAR clause 52.225-23 does not apply, the Government will evaluate only those offers based on use of the equivalent domestic or Recovery Act designated country construction material other than Bahraini, Mexican, or Omani construction material. An offer based on use of the foreign construction material for which an exception was requested—
 
 (i) Will be rejected as nonresponsive if this acquisition is conducted by sealed bidding; or
 
 (ii) May be accepted if revised during negotiations.
 
-[74 FR 14628, Mar. 31, 2009, as amended at 75 FR 53169, Aug. 30, 2010; 79 FR 24222, Apr. 29, 2014; 86 FR 6194, Jan. 19, 2021]
+[74 FR 14628, Mar. 31, 2009, as amended at 75 FR 53169, Aug. 30, 2010; 79 FR 24222, Apr. 29, 2014; 86 FR 6194, Jan. 19, 2021; 88 FR 78215, Nov. 14, 2023]

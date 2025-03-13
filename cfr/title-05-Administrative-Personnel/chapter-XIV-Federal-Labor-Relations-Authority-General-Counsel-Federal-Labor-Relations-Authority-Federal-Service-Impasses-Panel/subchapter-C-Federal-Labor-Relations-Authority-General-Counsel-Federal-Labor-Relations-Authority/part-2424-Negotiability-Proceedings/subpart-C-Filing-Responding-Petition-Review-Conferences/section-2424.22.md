@@ -22,4 +22,6 @@
 
 (4) Any request for a hearing before the Authority and the reasons supporting such request, with the understanding that the Authority rarely grants such requests.
 
-[88 FR 62456, Sept. 12, 2023; 88 FR 69873, Oct. 10, 2023]
+(d) *Service.* The petition for review, including all attachments, must be served in accord with § 2424.2(g).
+
+[88 FR 62456, Sept. 12, 2023; 88 FR 69873, Oct. 10, 2023, as amended at 88 FR 77883, Nov. 14, 2023]

@@ -1,5 +1,7 @@
 ##### § 67.163 Renewal of endorsement. #####
 
+Link to an amendment published at 88 FR 77901, Nov. 14, 2023.
+
 (a) *Requirement for renewal of endorsement.* Endorsements on Certificates of Documentation are valid for 1 year, except for Recreational Endorsements on Certificates of Documentation, which are valid for 5 years. However, a Certificate of Documentation with a Recreational Endorsement and a Commercial Endorsement will only be valid for 1 year. Prior to the expiration of an endorsement, the owner of a vessel, which is not exempt from the requirement for documentation under paragraph (c) of § 67.9, must apply for renewal of the endorsement(s) by complying with paragraph (b) of this section. The owner of a vessel exempt from the requirement for documentation under paragraph (c) of § 67.9 must either:
 
 (1) Apply for renewal of the endorsement by complying with paragraph (b) of this section; or

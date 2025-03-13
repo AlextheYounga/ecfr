@@ -24,7 +24,7 @@
 
 (ii) If the offeror conducts activities for which sanctions may be imposed under section 5 of the Iran Sanctions Act or engages in any transaction that exceeds the threshold at 25.703-2(a)(2) with Iran's Revolutionary Guard Corps or any of its officials, agents, or affiliates, the property and interests in property of which are blocked pursuant to the International Emergency Economic Powers Act, provide rationale why it is essential to the national security interests of the United States for the President to waive the prohibition on contracting with this offeror, as required by section 6(b)(5) of the Iran Sanctions Act.
 
-(6) Documentation regarding the offeror's past performance and integrity (see the Contractor Performance Assessment Reporting System (CPARS)and the Federal Awardee Performance Information and Integrity System at *https://www.cpars.gov”* and any other relevant information).
+(6) Documentation regarding the offeror's past performance and integrity (see the Contractor Performance Assessment Reporting System (CPARS) and the Federal Awardee Performance Information and Integrity System at *https://www.cpars.gov”* and any other relevant information).
 
 (7) Information regarding the offeror's relationship or connection with other firms that—
 

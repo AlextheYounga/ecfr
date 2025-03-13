@@ -1,5 +1,7 @@
 ##### § 67.317 Requirement to renew endorsements on the Certificate of Documentation. #####
 
+Link to an amendment published at 88 FR 77902, Nov. 14, 2023.
+
 (a) Except as provided in paragraph (b) of this section and except for recreational endorsements, which must be renewed every 5 years, the owner of a documented vessel must annually renew each endorsement upon the current Certificate of Documentation for that vessel in accordance with § 67.163.
 
 (b) The requirement of paragraph (a) of this section does not apply to Certificates of Documentation placed on deposit in accordance with § 67.165.

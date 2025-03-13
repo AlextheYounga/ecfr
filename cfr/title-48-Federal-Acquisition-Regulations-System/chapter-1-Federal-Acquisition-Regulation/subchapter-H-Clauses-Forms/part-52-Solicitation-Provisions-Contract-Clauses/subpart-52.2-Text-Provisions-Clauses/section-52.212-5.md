@@ -98,7 +98,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (29) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
-\_\_ (30) 52.222-19, Child Labor—Cooperation with Authorities and Remedies (DEC 2022) (E.O. 13126).
+\_\_ (30) 52.222-19, Child Labor—Cooperation with Authorities and Remedies (NOV 2023) (E.O. 13126).
 
 \_\_ (31) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
@@ -160,17 +160,17 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (ii) Alternate I (OCT 2022) of 52.225-1.
 
-\_\_ (51)(i) 52.225-3, Buy American—Free Trade Agreements—Israeli Trade Act (DEC 2022) (19 U.S.C. 3301 note, 19 U.S.C. 2112 note, 19 U.S.C. 3805 note, 19 U.S.C. 4001 note, 19 U.S.C. chapter 29 (sections 4501-4732), Public Law 103-182, 108-77, 108-78, 108-286, 108-302, 109-53, 109-169, 109-283, 110-138, 112-41, 112-42, and 112-43.
+\_\_ (51)(i) 52.225-3, Buy American—Free Trade Agreements—Israeli Trade Act (NOV 2023) (19 U.S.C. 3301 note, 19 U.S.C. 2112 note, 19 U.S.C. 3805 note, 19 U.S.C. 4001 note, 19 U.S.C. chapter 29 (sections 4501-4732), Public Law 103-182, 108-77, 108-78, 108-286, 108-302, 109-53, 109-169, 109-283, 110-138, 112-41, 112-42, and 112-43.
 
 \_\_ (ii) Alternate I [Reserved].
 
 \_\_ (iii) Alternate II (DEC 2022) of 52.225-3.
 
-\_\_ (iv) Alternate III (JAN 2021) of 52.225-3.
+\_\_ (iv) Alternate III (NOV 2023) of 52.225-3.
 
 \_\_ (v) Alternate IV (OCT 2022) of 52.225-3.
 
-\_\_ (52) 52.225-5, Trade Agreements (DEC 2022) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note).
+\_\_ (52) 52.225-5, Trade Agreements (NOV 2023) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note).
 
 \_\_ (53) 52.225-13, Restrictions on Certain Foreign Purchases (FEB 2021) (E.O.'s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
 

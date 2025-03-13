@@ -2,7 +2,7 @@
 
 As prescribed in 25.1102(c), insert the following clause:
 
-Buy American—Construction Materials Under Trade Agreements (DEC 2022)
+Buy American—Construction Materials Under Trade Agreements (NOV 2023)
 
 (a) *Definitions.* As used in this clause—
 
@@ -38,7 +38,7 @@ Buy American—Construction Materials Under Trade Agreements (DEC 2022)
 
 *Designated country* means any of the following countries:
 
-(1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);
+(1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, North Macedonia, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);
 
 (2) A Free Trade Agreement (FTA) country (Australia, Bahrain, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore);
 
@@ -150,36 +150,31 @@ Buy American—Construction Materials Under Trade Agreements (DEC 2022)
 
 (d) *Data.* To permit evaluation of requests under paragraph (c) of this clause based on unreasonable cost, the Contractor shall include the following information and any applicable supporting data based on the survey of suppliers:
 
-Foreign and Domestic Construction Materials Price Comparison
-
-|Construction material description|Unit of  <br/>measure|Quantity|Price  <br/>(dollars) \*|
-|---------------------------------|---------------------|--------|------------------------|
-|             Item 1:             |                     |        |                        |
-| Foreign construction material.  |                     |        |                        |
-| Domestic construction material. |                     |        |                        |
-|             Item 2:             |                     |        |                        |
-| Foreign construction material.  |                     |        |                        |
-| Domestic construction material. |                     |        |                        |
-
-[\* Include all delivery costs to the construction site and any applicable duty (whether or not a duty-free entry certificate is issued)].
-
-[List name, address, telephone number, and contact for suppliers surveyed. Attach copy of response; if oral, attach summary.]
-
-[Include other applicable supporting information.]
+|                                                    Construction material description                                                     |Unit of  <br/>measure|Quantity|Price  <br/>(dollars) \*|
+|------------------------------------------------------------------------------------------------------------------------------------------|---------------------|--------|------------------------|
+|                                                                 Item 1:                                                                  |                     |        |                        |
+|                                                      Foreign construction material.                                                      |                     |        |                        |
+|                                                     Domestic construction material.                                                      |                     |        |                        |
+|                                                                 Item 2:                                                                  |                     |        |                        |
+|                                                      Foreign construction material.                                                      |                     |        |                        |
+|                                                     Domestic construction material.                                                      |                     |        |                        |
+|[\* Include all delivery costs to the construction site and any applicable duty (whether or not a duty-free entry certificate is issued)].|                     |        |                        |
+|      [List name, address, telephone number, and contact for suppliers surveyed. Attach copy of response; if oral, attach summary.]       |                     |        |                        |
+|                                            [Include other applicable supporting information.]                                            |                     |        |                        |
 
 (End of clause)
 
-*Alternate I* (DEC 2022). As prescribed in 25.1102(c)(3), add the following definition of “Bahrainian, Mexican, or Omani construction material” to paragraph (a) of the basic clause, and substitute the following paragraphs (b)(1) and (b)(2) for paragraphs (b)(1) and (b)(2) of the basic clause:
+*Alternate I* (NOV 2023). As prescribed in 25.1102(c)(3), add the following definition of “Bahraini, Mexican, or Omani construction material” to paragraph (a) of the basic clause, and substitute the following paragraphs (b)(1) and (b)(2) for paragraphs (b)(1) and (b)(2) of the basic clause:
 
-*Bahrainian, Mexican, or Omani construction material* means a construction material that—
+*Bahraini, Mexican, or Omani construction material* means a construction material that—
 
 (1) Is wholly the growth, product, or manufacture of Bahrain, Mexico, or Oman; or
 
 (2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in Bahrain, Mexico, or Oman into a new and different construction material distinct from the materials from which it was transformed.
 
-(b) *Construction materials.* (1) This clause implements 41 U.S.C. chapter 83, Buy American, by providing a preference for domestic construction material. In accordance with 41 U.S.C. 1907, the domestic content test of the Buy American statute is waived for construction material that is a COTS item, except that for construction material that consists wholly or predominantly of iron or steel or a combination of both, the domestic content test is applied only to the iron and steel content of the construction material, excluding COTS fasteners. (See 12.505(a)(2)). In addition, the Contracting Officer has determined that the WTO GPA and all the Free Trade Agreements except the Bahrain FTA, United States-Mexico-Canada Agreement, and the Oman FTA apply to this acquisition. Therefore, the Buy American statute restrictions are waived for designated country construction materials other than Bahrainian, Mexican, or Omani construction materials.
+(b) *Construction materials.* (1) This clause implements 41 U.S.C. chapter 83, Buy American, by providing a preference for domestic construction material. In accordance with 41 U.S.C. 1907, the domestic content test of the Buy American statute is waived for construction material that is a COTS item, except that for construction material that consists wholly or predominantly of iron or steel or a combination of both, the domestic content test is applied only to the iron and steel content of the construction material, excluding COTS fasteners. (See 12.505(a)(2)). In addition, the Contracting Officer has determined that the WTO GPA and all the Free Trade Agreements except the Bahrain FTA, United States-Mexico-Canada Agreement, and the Oman FTA apply to this acquisition. Therefore, the Buy American statute restrictions are waived for designated country construction materials other than Bahraini, Mexican, or Omani construction materials.
 
-(2) The Contractor shall use only domestic or designated country construction material other than Bahrainian, Mexican, or Omani construction material in performing this contract, except as provided in paragraphs (b)(3) and (b)(4) of this clause.
+(2) The Contractor shall use only domestic or designated country construction material other than Bahraini, Mexican, or Omani construction material in performing this contract, except as provided in paragraphs (b)(3) and (b)(4) of this clause.
 
 *Alternate II* (OCT 2022). As prescribed in 25.1102(c)(4) substitute the following sentence for the first sentence of paragraph (1)(ii)(A) of the definition of *domestic construction material* in paragraph (a):
 
