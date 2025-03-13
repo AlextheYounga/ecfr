@@ -1,5 +1,7 @@
 ##### § 1026.2 Definitions and rules of construction. #####
 
+Link to an amendment published at 89 FR 64577, Aug. 7, 2024.
+
 (a) *Definitions.* For purposes of this part, the following definitions apply:
 
 (1) *Act* means the Truth in Lending Act (15 U.S.C. 1601 *et seq.*).

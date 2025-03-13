@@ -1,5 +1,7 @@
 ##### § 1026.42 Valuation independence. #####
 
+Link to an amendment published at 89 FR 64577, Aug. 7, 2024.
+
 (a) *Scope.* This section applies to any consumer credit transaction secured by the consumer's principal dwelling.
 
 (b) *Definitions.* For purposes of this section:

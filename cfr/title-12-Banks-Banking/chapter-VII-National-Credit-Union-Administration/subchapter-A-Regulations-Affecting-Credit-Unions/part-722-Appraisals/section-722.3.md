@@ -1,5 +1,7 @@
 ##### § 722.3 Appraisals and written estimates of market value requirements for real estate-related financial transactions. #####
 
+Link to an amendment published at 89 FR 64575, Aug. 7, 2024.
+
 (a) *Real estate-related financial transactions not requiring an appraisal under this part.* Provided the transaction is not a “higher-priced mortgage loan” under 12 CFR 1026.35, which must meet separate appraisal requirements under section 129H of the Truth in Lending Act, 15 U.S.C. 1639h, an appraisal is not required for a real estate-related financial transaction in which:
 
 (1) The transaction involves an existing extension of credit at the lending credit union, provided that:

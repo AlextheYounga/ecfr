@@ -1,5 +1,7 @@
 ##### § 722.5 Appraiser independence. #####
 
+Link to an amendment published at 89 FR 64575, Aug. 7, 2024.
+
 (a) *Staff appraiser.* If an appraisal is prepared by a staff appraiser, that appraiser must be independent of the lending, investment, and collection functions and not involved, except as an appraiser, in the federally related transaction, and have no direct or indirect interest, financial or otherwise, in the property. If the only qualified persons available to perform an appraisal are involved in the lending, investment, or collection functions of the credit union, the credit union shall take appropriate steps to ensure that the appraisers exercise independent judgment. Such steps include, but are not limited to, prohibiting an individual from performing an appraisal in connection with federally related transactions in which the appraiser is otherwise involved.
 
 (b) *Fee appraisers.* (1) If an appraisal is prepared by a fee appraiser, the appraiser shall be engaged directly by the credit union or its agent and have no direct or indirect interest, financial or otherwise, in the property or the transaction.

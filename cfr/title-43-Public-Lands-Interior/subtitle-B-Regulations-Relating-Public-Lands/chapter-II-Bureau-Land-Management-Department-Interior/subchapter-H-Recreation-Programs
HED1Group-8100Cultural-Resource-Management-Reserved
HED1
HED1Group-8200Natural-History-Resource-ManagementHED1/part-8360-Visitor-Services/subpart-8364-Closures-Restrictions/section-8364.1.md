@@ -1,5 +1,7 @@
 ##### § 8364.1 Closure and restriction orders. #####
 
+Link to an amendment published at 89 FR 64397, Aug. 7, 2024.
+
 (a) To protect persons, property, and public lands and resources, the authorized officer may issue an order to close or restrict use of designated public lands.
 
 (b) Each order shall:

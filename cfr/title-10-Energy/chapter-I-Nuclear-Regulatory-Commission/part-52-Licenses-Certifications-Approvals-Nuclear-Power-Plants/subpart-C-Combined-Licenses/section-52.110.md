@@ -1,6 +1,6 @@
 ##### § 52.110 Termination of license. #####
 
-Link to an amendment published at 89 FR 57721, July 16, 2024.
+Link to an amendment published at 89 FR 57721, July 16, 2024.Link to an amendment published at 89 FR 64353, Aug. 7, 2024.
 
 (a)(1) When a licensee has determined to permanently cease operations the licensee shall, within 30 days, submit a written certification to the NRC, consistent with the requirements of § 52.3(b)(8);
 

@@ -1,5 +1,7 @@
 ##### § 308.158 Hearings. #####
 
+Link to an amendment published at 89 FR 64366, Aug. 7, 2024.
+
 (a) *Hearing dates.* The Administrative Officer shall order a hearing to be commenced within 60 days after receipt of a request for hearing on an application filed under § 308.157. Upon the request of the applicant or FDIC enforcement counsel, the presiding officer or the Administrative Officer may order a later hearing date.
 
 (b) *Burden of proof.* The burden of going forward with a *prima facie* case shall be upon the FDIC. The ultimate burden of proof shall be upon the person proposing to become or continue as an IAP with respect to an IDI; to own or control directly or indirectly an IDI; or to participate directly or indirectly in any manner in the conduct of the affairs of an IDI.

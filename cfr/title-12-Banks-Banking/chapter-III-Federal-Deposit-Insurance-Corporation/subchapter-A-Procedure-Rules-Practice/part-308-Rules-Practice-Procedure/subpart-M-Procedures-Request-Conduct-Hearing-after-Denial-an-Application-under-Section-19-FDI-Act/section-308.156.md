@@ -1,3 +1,5 @@
 ##### § 308.156 Scope. #####
 
+Link to an amendment published at 89 FR 64366, Aug. 7, 2024.
+
 The rules and procedures set forth in this subpart shall apply to an application filed under section 19 of the FDI Act, 12 U.S.C. 1829 (section 19), and 12 CFR part 303, subpart L, by an insured depository institution (IDI) or an individual, which individual has been convicted of any criminal offense involving dishonesty, a breach of trust, or money laundering, or who has agreed to enter into a pretrial diversion or similar program in connection with the prosecution of such offense, to seek the prior written consent of the FDIC for the individual to become or continue as an institution-affiliated party (IAP) with respect to an IDI; to own or control directly or indirectly an IDI; or to participate directly or indirectly in any manner in the conduct of the affairs of an IDI; and shall apply only after such application has been denied under part 12 CFR part 303, subpart L.
