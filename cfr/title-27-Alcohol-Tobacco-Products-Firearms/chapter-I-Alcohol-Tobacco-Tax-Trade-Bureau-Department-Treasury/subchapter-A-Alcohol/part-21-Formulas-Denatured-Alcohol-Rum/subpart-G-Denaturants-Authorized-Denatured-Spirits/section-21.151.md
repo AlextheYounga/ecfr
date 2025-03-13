@@ -1,5 +1,7 @@
 ##### § 21.151 List of denaturants authorized for denatured spirits. #####
 
+Link to an amendment published at 89 FR 87941, Nov. 6, 2024.
+
 Following is an alphabetical listing of denaturants authorized for use in denatured spirits:
 
 |                     Acetaldehyde                      |             S.D.A. 29.             |

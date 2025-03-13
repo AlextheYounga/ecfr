@@ -1,5 +1,7 @@
 ##### § 9.256 Lewis-Clark Valley. #####
 
+Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “Lewis-Clark Valley”. For purposes of part 4 of this chapter, “Lewis-Clark Valley” is a term of viticultural significance.
 
 (b) *Approved maps.* The three United States Geographical Survey (USGS) 1:100,000 (metric) scale topographic maps used to determine the boundary of the Lewis-Clark Valley viticultural area are titled:

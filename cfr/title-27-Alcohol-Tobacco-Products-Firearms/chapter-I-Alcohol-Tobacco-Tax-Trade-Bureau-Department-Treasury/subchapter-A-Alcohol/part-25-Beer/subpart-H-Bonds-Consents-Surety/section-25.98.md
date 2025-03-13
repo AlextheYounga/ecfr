@@ -1,5 +1,7 @@
 ##### § 25.98 Surety or security. #####
 
+Link to an amendment published at 89 FR 87943, Nov. 6, 2024.
+
 (a) *Bond coverage.* Bonds required by this part will be given with corporate surety or collateral security.
 
 (b) *Corporate surety.* Surety bonds may be given only with surety companies holding certificates of authority from the Secretary as acceptable sureties on Federal bonds, subject to the limitations set forth in the current revision of Treasury Department Circular 570, Companies Holding Certificates of Authority as Acceptable Sureties on Federal Bonds and as Acceptable Reinsuring Companies.

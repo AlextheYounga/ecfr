@@ -1,5 +1,7 @@
 ##### § 24.302 Effervescent wine record. #####
 
+Link to an amendment published at 89 FR 87941, Nov. 6, 2024.
+
 A proprietor who produces or receives effervescent wine in bond shall maintain records showing the transaction date and details of production, receipt, storage, removal, and any loss incurred. Records will be maintained for each specific process used (bulk or bottle fermented, injection of carbon dioxide) and by the specific kind of wine, *e.g.,* grape, apple, pear, cherry, hard cider. The record will contain the following:
 
 (a) The volume of still wine or still hard cider filled into bottles or pressurized tanks prior to secondary fermentation or prior to the addition of carbon dioxide;

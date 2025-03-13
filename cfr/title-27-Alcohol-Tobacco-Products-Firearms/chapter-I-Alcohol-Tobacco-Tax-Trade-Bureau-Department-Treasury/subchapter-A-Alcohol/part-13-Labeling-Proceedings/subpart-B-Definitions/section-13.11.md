@@ -1,5 +1,7 @@
 ##### § 13.11 Meaning of terms. #####
 
+Link to an amendment published at 89 FR 87937, Nov. 6, 2024.
+
 Where used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meaning ascribed in this subpart. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “include” and “including” do not exclude things not enumerated that are in the same general class.
 
 *Act.* The Federal Alcohol Administration Act.

@@ -1,5 +1,7 @@
 ##### § 70.186 Legal effect of certificate of sale of personal property and deed of real property. #####
 
+Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
+
 (a) *Certificate of sale of property other than real property.* In all cases of sale pursuant to 26 U.S.C. 6335 of property (other than real property), the certificate of such sale.
 
 (1) *As evidence.* Shall be prima facie evidence of the right of the officer to make such sale, and conclusive evidence of the regularity of the officer's proceedings in making the sale; and

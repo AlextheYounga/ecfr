@@ -1,5 +1,7 @@
 ##### § 70.601 Meaning of terms. #####
 
+Link to an amendment published at 89 FR 87952, Nov. 6, 2024.
+
 When used in this subpart, terms are defined as follows in this section. Words in the plural shall include the singular, and vice versa, and words indicating the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not named which are in the same general class or are otherwise within the scope of the term defined.
 
 *Alcoholic liquors or liquors.* Distilled spirits, wines, and beer lost, made unmarketable, or condemned, as provided in this subpart.

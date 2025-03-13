@@ -1,5 +1,7 @@
 ##### § 46.72 Meaning of terms. #####
 
+Link to an amendment published at 89 FR 87950, Nov. 6, 2024.
+
 When used in this subpart, the following terms shall have the meanings given in this section, unless the context clearly indicates otherwise. Words in the plural form shall include the singular, and vice versa, and words indicating the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude things not listed which are in the same general class.
 
 *Act.* The Excise Tax Technical Changes Act of 1958 (Pub. L. 85-859, 72 Stat. 1275), enacted September 2, 1958.

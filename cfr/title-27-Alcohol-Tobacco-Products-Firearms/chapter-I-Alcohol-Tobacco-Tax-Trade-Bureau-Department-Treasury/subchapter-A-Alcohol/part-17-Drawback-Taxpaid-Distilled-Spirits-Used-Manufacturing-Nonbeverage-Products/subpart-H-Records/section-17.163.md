@@ -1,5 +1,7 @@
 ##### § 17.163 Evidence of taxpayment of distilled spirits. #####
 
+Link to an amendment published at 89 FR 87937, Nov. 6, 2024.
+
 (a) *Shipments from distilled spirits plants.* For each shipment of taxpaid spirits from the bonded premises of a distilled spirits plant, the manufacturer shall obtain the record of shipment prepared by the supplier under § 19.626 of this chapter. This record shall be retained with the commercial invoice (if the latter is a separate document) as evidence of taxpayment of the spirits. The record shall show the effective tax rate(s) (if other than the rate prescribed by 26 U.S.C. 5001) applicable to the shipment.
 
 (b) *Purchases from wholesale and retail liquor dealers.* Manufacturers shall obtain commercial invoices or other documentation pertaining to purchases of distilled spirits from wholesale and retail liquor dealers (including such dealership operations when conducted in conjunction with a distilled spirits plant). For spirits other than alcohol, grain spirits, neutral spirits, distilled gin, or straight whisky (as defined in the standards of identity prescribed by § 5.22 of this chapter), the manufacturer of nonbeverage products shall obtain evidence, from the producer or bottler of the spirits, as to the effective tax rate paid thereon.

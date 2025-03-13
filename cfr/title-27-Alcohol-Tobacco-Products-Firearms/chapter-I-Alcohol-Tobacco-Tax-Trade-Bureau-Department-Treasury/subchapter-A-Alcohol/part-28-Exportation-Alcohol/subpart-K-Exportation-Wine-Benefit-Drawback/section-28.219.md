@@ -1,5 +1,7 @@
 ##### § 28.219 Return of wine withdrawn for export with benefit of drawback. #####
 
+Link to an amendment published at 89 FR 87945, Nov. 6, 2024.
+
 When notice is filed by an exporter as provided in § 28.220, wine on which the tax has been paid or determined, and which was withdrawn especially for export with benefit of drawback as provided in § 28.211, but which wine has not been laden for export, laden for use, or deposited in a foreign-trade zone, may for good cause be returned under the applicable provisions of this part and 27 CFR part 24:
 
 (a) To a taxpaid storeroom at a bonded wine celler; or

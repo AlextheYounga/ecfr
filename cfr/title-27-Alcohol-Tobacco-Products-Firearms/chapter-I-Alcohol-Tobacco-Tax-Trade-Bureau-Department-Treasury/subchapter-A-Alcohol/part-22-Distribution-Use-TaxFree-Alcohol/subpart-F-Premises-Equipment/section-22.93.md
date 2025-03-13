@@ -1,5 +1,7 @@
 ##### § 22.93 Equipment for recovery and restoration of tax-free alcohol. #####
 
+Link to an amendment published at 89 FR 87941, Nov. 6, 2024.
+
 (a) *Location.* All equipment used to recover and restore tax-free alcohol for reuse shall be located on the permit premises.
 
 (b) *Construction.* (1) Distilling apparatus, pipelines and other equipment used for recovery and restoration of tax-free alchohol shall be constructed and secured in such a manner as to prevent unauthorized access and so arranged as to be readily inspected.

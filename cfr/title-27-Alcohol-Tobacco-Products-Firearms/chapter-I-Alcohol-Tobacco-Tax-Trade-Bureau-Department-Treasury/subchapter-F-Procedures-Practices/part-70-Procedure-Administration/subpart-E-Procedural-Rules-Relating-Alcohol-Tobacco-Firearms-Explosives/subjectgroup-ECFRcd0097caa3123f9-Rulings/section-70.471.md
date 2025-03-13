@@ -1,5 +1,7 @@
 ##### § 70.471 Rulings. #####
 
+Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
+
 (a) *Requests for rulings.* Any person who is in doubt as to any matter arising in connection with the following may request a ruling thereon by addressing a letter to the appropriate TTB officer:
 
 (1) Operations or transactions in the alcohol tax area (26 U.S.C. chapter 51), the Federal Alcohol Administration Act (27 U.S.C. chapter 8, including the Alcohol Beverage Labeling Act of 1988), or the Webb-Kenyon Act (27 U.S.C. 122);

@@ -1,5 +1,7 @@
 ##### § 70.164 Surrender of property subject to levy in the case of life insurance and endowment contracts. #####
 
+Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
+
 (a) *In general.* This section provides special rules relating to the surrender of property subject to levy in the case of life insurance and endowment contracts. The provisions of § 70.163 of this part which relate generally to the surrender of property subject to levy apply, to the extent not inconsistent with the special rules set forth in this section, to a levy in the case of life insurance and endowment contracts.
 
 (b) *Effect of service of notice of levy*—(1) *In general.* A notice of levy served by an appropriate TTB officer on an insuring organization with respect to a life insurance or endowment contract issued by the organization shall constitute:

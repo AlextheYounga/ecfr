@@ -1,5 +1,7 @@
 ##### § 18.24 Data for application. #####
 
+Link to an amendment published at 89 FR 87937, Nov. 6, 2024.
+
 Applications on Form 27-G (5520.3) will include the following:
 
 (a) Serial number;

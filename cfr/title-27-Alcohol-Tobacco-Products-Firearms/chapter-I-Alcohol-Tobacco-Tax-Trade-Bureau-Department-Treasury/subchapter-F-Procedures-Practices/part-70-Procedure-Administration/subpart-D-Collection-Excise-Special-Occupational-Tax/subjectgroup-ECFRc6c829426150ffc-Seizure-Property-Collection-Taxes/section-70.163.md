@@ -1,5 +1,7 @@
 ##### § 70.163 Surrender of property subject to levy. #####
 
+Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
+
 (a) *Requirement*—(1) *In general.* Except as otherwise provided in 26 U.S.C. 6332, relating to levy in the case of banks or life insurance and endowment contracts, any person in possession of (or obligated with respect to) property or rights to property subject to levy and upon which a levy has been made shall, upon demand of the officer who made the levy, surrender the property or rights (or discharge the obligation) to the officer who made the levy, except that part of the property or rights (or obligation) which, at the time of the demand, is actually or constructively under the jurisdiction of a court because of an attachment or execution under any judicial process.
 
 (2) *Property held by banks.* (i) Any bank shall surrender any deposits (including interest thereon) in such bank only after 21 days after service of levy.

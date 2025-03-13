@@ -1,5 +1,7 @@
 ##### § 4.39 Prohibited practices. #####
 
+Link to an amendment published at 89 FR 87935, Nov. 6, 2024.
+
 (a) *Statements on labels.* Containers of wine, or any label on such containers, or any individual covering, carton, or other wrapper of such container, or any written, printed, graphic, or other matter accompanying such container to the consumer shall not contain:
 
 (1) Any statement that is false or untrue in any particular, or that, irrespective of falsity, directly, or by ambiguity, omission, or inference, or by the addition of irrelevant, scientific or technical matter, tends to create a misleading impression.

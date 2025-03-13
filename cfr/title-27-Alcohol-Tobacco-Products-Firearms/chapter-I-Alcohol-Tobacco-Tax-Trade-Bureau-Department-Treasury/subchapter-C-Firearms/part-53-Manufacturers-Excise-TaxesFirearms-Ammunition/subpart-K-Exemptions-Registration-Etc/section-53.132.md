@@ -1,5 +1,7 @@
 ##### § 53.132 Tax-free sale of articles to be used for, or resold for, further manufacture. #####
 
+Link to an amendment published at 89 FR 87950, Nov. 6, 2024.
+
 (a) *Further manufacture*—(1) *In general.* Under prescribed conditions, an article subject to tax under Chapter 32 of the Code may be sold tax free by the manufacturer, pursuant to section 4221(a)(1) of the Code, for use by the purchaser in further manufacture, or for resale by the purchaser to a second purchaser for use by the second purchaser in further manufacture. See section 4221(d) (6) of the Code and paragraph (b) of this section for the circumstances under which an article is considered to have been sold for use in further manufacture. See section 6416(b)(3) of the Code and § 53.180 for the circumstances under which credit or refund is available when tax-paid articles are used in further manufacture.
 
 (2) *Proof of resale for use in further manufacture.* See section 4221(b)(1) of the Code and paragraph (c) of this section for provisions under which the exemption provided in section 4221(a)(1) of the Code shall cease to apply in the case of an article sold by the manufacturer to a purchaser for resale to a second purchaser for use in further manufacture unless the manufacturer receives timely proof of resale for further manufacture.

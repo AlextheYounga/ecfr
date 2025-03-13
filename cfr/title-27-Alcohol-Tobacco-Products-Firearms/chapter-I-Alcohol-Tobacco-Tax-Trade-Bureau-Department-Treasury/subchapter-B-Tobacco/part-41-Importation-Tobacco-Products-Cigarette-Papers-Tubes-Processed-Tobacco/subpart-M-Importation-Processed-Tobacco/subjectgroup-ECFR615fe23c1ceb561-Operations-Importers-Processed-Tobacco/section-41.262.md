@@ -1,5 +1,7 @@
 ##### § 41.262 Reports. #####
 
+Link to an amendment published at 89 FR 87947, Nov. 6, 2024.
+
 (a) *General.* Every importer of processed tobacco must prepare a monthly report on TTB F 5220.6 in accordance with the instructions for the form. The report must be prepared at the times specified in this section and must be prepared whether or not any operations or transactions occurred during the period covered by the report. The importer must retain a copy of each report in accordance with the provisions of this subpart. The importer need not include in the reports under this part information regarding processed tobacco that is in customs custody.
 
 (b) *First report(s).* The first monthly report must be submitted by the 15th day of the month following the month in which the permit is issued. If the importer is operating as an importer of processed tobacco under the transitional rule in accordance with § 41.233, the importer must submit the first report by the 15th day of the month following the month in which TTB provides written acknowledgement of the receipt of the application filed under § 41.232.

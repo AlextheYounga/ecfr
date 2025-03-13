@@ -1,3 +1,3 @@
 ##### 430.201-5 Waiver. #####
 
-The Senior Procurement Executive (SPE), without the authority to further redelegate, is authorized to request the Cost Accounting Standards Board to waive the application of the Cost Accounting Standards (CAS). Contracting officers shall prepare waiver requests in accordance with 48 CFR chapter 99 (Appendix B, FAR loose-leaf edition), subsection 9903.201-5, and submit them to the SPE through the head of the contracting activity (HCA).
+The SPE, without the authority to further redelegate, is authorized to request the Cost Accounting Standards Board to waive the application of the Cost Accounting Standards (CAS) in accordance with FAR 30.201-5.

@@ -1,5 +1,7 @@
 ##### § 24.241 Decolorizing juice or wine. #####
 
+Link to an amendment published at 89 FR 87941, Nov. 6, 2024.
+
 (a) *Conditions and limitations.* If the proprietor wishes to use activated carbon or other decolorizing material to remove color from juice or wine, the following conditions and limitations will be met:
 
 (1) The wine will retain a vinous character after being treated with activated carbon or other decolorizing material;

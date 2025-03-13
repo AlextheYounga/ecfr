@@ -1,5 +1,7 @@
 ##### § 6.21 Application. #####
 
+Link to an amendment published at 89 FR 87935, Nov. 6, 2024.
+
 Except as provided in subpart D, it is unlawful for any industry member to induce, directly or indirectly, any retailer to purchase any products from the industry member to the exclusion, in whole or in part, of such products sold or offered for sale by other persons in interstate or foreign commerce by any of the following means:
 
 (a) By acquiring or holding (after the expiration of any license held at the time the FAA Act was enacted) any interest in any license with respect to the premises of the retailer;

@@ -1,5 +1,7 @@
 ##### § 44.205 To contiguous foreign countries. #####
 
+Link to an amendment published at 89 FR 87949, Nov. 6, 2024.
+
 (a) Where tobacco products, or cigarette papers or tubes are removed from a factory or an export warehouse for export to a contiguous foreign country, the manufacturer or export warehouse proprietor making the shipment shall—
 
 (1) Furnish to the district director of Customs at the port of exit two copies of the notice of removal, Form 5200.14, together with the related shipper's export declaration, Commerce Form 7525-V (if required); and,

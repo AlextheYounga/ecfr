@@ -1,5 +1,7 @@
 ##### § 24.137 Alternate use of the wine premises for customs purposes. #####
 
+Link to an amendment published at 89 FR 87941, Nov. 6, 2024.
+
 (a) *General.* The wine premises may be alternated as a Customs Bonded Warehouse under applicable customs laws and regulations, for the purpose of measuring, gauging, and bottling or packing wine. The use of the portion of the wine premises alternated as a Customs Bonded Warehouse is subject to the approval of the district director of customs and the appropriate TTB officer. When it is necessary to convey wine in customs custody across bonded wine premises, the proprietor shall comply with the provisions of § 24.92.
 
 (b) *Qualifying documents.* Where the proprietor desires to alternate a portion of wine premises for customs use, the following qualifying documents will be filed:

@@ -1,5 +1,7 @@
 ##### § 25.142 Bottles. #####
 
+Link to an amendment published at 89 FR 87943, Nov. 6, 2024.
+
 (a) *Label requirements.* Each bottle of beer shall show by label or otherwise the name or trade name of the brewer, the net contents of the bottle, the nature of the product such as beer, ale, porter, stout, etc., and the place of production (city and, when necessary for identification, State). No statement as to payment of internal revenue taxes may be shown.
 
 (b) *Breweries of same ownership.* (1) If two or more breweries are owned or operated by the same person, firm, or corporation (as defined in § 25.181), the place of production:

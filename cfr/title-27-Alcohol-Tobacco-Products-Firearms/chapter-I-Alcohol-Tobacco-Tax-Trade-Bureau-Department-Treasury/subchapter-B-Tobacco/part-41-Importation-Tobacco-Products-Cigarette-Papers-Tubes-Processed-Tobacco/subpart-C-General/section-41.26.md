@@ -1,5 +1,7 @@
 ##### § 41.26 Alternate methods or procedures. #####
 
+Link to an amendment published at 89 FR 87947, Nov. 6, 2024.
+
 An importer, on specific approval by the appropriate TTB officer as provided in this section, may use an alternate method or procedure in lieu of a method or procedure specifically prescribed in this part. The appropriate TTB officer may approve an alternate method or procedure, subject to stated conditions, when he finds that—
 
 (a) Good cause has been shown for the use of the alternate method or procedure,

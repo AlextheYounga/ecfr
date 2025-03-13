@@ -1,5 +1,7 @@
 ##### § 70.143 Definitions. #####
 
+Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
+
 (a) *Security interest*—(1) *In general.* The term *security interest* means any interest in property acquired by contract for the purpose of securing payment or performance of an obligation or indemnifying against loss or liability. A security interest exists ay any time:
 
 (i) If, at such time, the property is in existence and the interest has become protected under local law against a subsequent judgment lien (as provided in paragraph (a)(2) of this section) arising out of an unsecured obligation; and

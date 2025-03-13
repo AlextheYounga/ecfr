@@ -1,5 +1,7 @@
 ##### § 19.1 Definitions. #####
 
+Link to an amendment published at 89 FR 87940, Nov. 6, 2024.
+
 As used in this part, the following terms shall have the meanings indicated unless either the context in which they are used requires a different meaning, or a different definition is prescribed for a particular subpart, section, or portion of this part:
 
 *Accurate mass flow meter.* A mass flow meter for making volume determinations of bulk distilled spirits. A mass flow meter used for tax determination of bulk spirits must be certified by the manufacturer of the meter or other qualified person as accurate within a tolerance of plus or minus 0.1 percent. A mass flow meter used for all other required volume determinations of bulk spirits must be certified by the manufacturer of the meter or other qualified person as accurate within a tolerance of plus or minus 0.5 percent.

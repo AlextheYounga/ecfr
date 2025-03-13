@@ -1,5 +1,7 @@
 ##### § 41.111 Verification of bond and agreement to pay tax. #####
 
+Link to an amendment published at 89 FR 87947, Nov. 6, 2024.
+
 (a) *Verification of bond.* Prior to shipment of tobacco products or cigarette papers or tubes to the United States, the manufacturer must verify:
 
 (1) That there is no default in payment of tax chargeable against the manufacturer's bond on TTB F 2986 (5210.12); and

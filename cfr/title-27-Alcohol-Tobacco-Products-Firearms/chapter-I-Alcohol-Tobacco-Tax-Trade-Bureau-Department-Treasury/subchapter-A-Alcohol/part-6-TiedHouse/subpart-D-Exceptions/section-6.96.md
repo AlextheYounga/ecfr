@@ -1,5 +1,7 @@
 ##### § 6.96 Consumer promotions. #####
 
+Link to an amendment published at 89 FR 87935, Nov. 6, 2024.
+
 (a) *Coupons.* The act by an industry member of furnishing to consumers coupons which are redeemable at a retail establishment does not constitute a means to induce within the meaning of section 105(b)(3) of the Act, provided the following conditions are met:
 
 (1) All retailers within the market where the coupon offer is made may redeem such coupons; and

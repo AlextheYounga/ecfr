@@ -1,5 +1,7 @@
 ##### § 9.132 Rogue Valley. #####
 
+Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “Rouge Valley.”
 
 (b) *Approved map.* The appropriate map for determining the boundaries of the Rogue Valley viticultural area is one U.S.G.S. map titled “Medford,” scale 1:250,000 (1955, revised 1976).

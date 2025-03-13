@@ -1,5 +1,7 @@
 ##### § 40.22 Determination of sale price of large cigars. #####
 
+Link to an amendment published at 89 FR 87947, Nov. 6, 2024.
+
 (a) *General rule.* The tax imposed on large cigars is computed based on the sale price (the price for which the large cigars are sold by the manufacturer). In addition to money, goods or services exchanged for cigars may be considered as part of the sale price.
 
 (b) *Special cases*—(1) *In general.* If there is any question concerning the applicable sale price for tax purposes, the appropriate TTB officer will determine such price, applying rules similar to the constructive sale price rules in 26 U.S.C. 4216(b) and the implementing regulations in 26 CFR 48.4216(b)-1 through 48.4216(b)-4. These constructive sale price rules apply to cigars sold by a manufacturer at retail, sold on consignment, or sold (otherwise than through an arm's length transaction) at less than the fair market price. Sales of cigars between affiliated corporations may be analyzed under the constructive sale price rules. The appropriate TTB officer may make this analysis on his or her own initiative or upon the written request of a manufacturer. If TTB decides it is necessary, we will publish constructive sale price determinations in the TTB Bulletin in accordance with § 70.701(d) of this chapter.

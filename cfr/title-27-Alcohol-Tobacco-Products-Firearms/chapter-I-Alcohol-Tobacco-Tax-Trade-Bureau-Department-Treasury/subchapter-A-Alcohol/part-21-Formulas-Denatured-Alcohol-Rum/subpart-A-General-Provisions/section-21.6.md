@@ -1,5 +1,7 @@
 ##### § 21.6 Incorporations by reference. #####
 
+Link to an amendment published at 89 FR 87940, Nov. 6, 2024.
+
 (a) “The United States Pharmacopoeia (Twentieth Revision, Official from July, 1980) and the National Formulary (Fifteenth Edition, Official from July 1, 1980)” published together as “The USP and NF Compendia,” are incorporated by reference in this part. This incorporation by reference was approved by the Director of the Federal Register. The publication is available from the United States Pharmacopoeia Convention, Inc., 12601 Twinbrook Parkway, Rockville, Maryland 20852, or may be inspected at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (b) Material from Parts 23, 25, and 29 of the 1980 Annual Book of ASTM Standards is incorporated by reference in this part. This incorporation by reference was approved by the Director of the Federal Register. These publications are available from the American Society for Testing and Materials, 1916 Race Street, Philadelphia, Pennsylvania 19103, or may be inspected at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*

@@ -1,5 +1,7 @@
 ##### § 19.693 Operating requirements for alternating proprietorships. #####
 
+Link to an amendment published at 89 FR 87939, Nov. 6, 2024.
+
 (a) *Alternation journal.* Once the applications submitted under § 19.692 have been approved by the appropriate TTB officer, the alcohol fuel plant, or parts of the alcohol fuel plant, may be alternated. The outgoing and incoming proprietor must make entries in an alternation journal when the alcohol fuel plant, or parts of it, are alternated. The outgoing and incoming proprietor must enter the following information in the alternation journal:
 
 (1) Name or trade name of the proprietor;

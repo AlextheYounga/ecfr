@@ -1,5 +1,7 @@
 ##### § 24.10 Meaning of terms. #####
 
+Link to an amendment published at 89 FR 87942, Nov. 6, 2024.
+
 When used in this part and in the forms prescribed under this part, terms will have the meanings ascribed in this section. Words in the plural form also include the singular, and *vice versa,* and words indicating the masculine gender also include the feminine. The terms “includes” and “including” do not exclude items not enumerated which are in the same general class. The definitions in this section do not supersede or affect the requirements of part 4 of this chapter, relative to the labeling of wine under the provisions of the Federal Alcohol Administration Act (49 Stat. 981; 27 U.S.C. 205).
 
 *Administrator.* The Administrator, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury, Washington, DC.

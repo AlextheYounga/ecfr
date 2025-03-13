@@ -1,5 +1,7 @@
 ##### § 53.133 Tax-free sale of articles for export, or for resale by the purchaser to a second purchaser for export. #####
 
+Link to an amendment published at 89 FR 87950, Nov. 6, 2024.
+
 (a) *In general.* (1) An article subject to tax under chapter 32 of the Code may be sold tax free by the manufacturer, pursuant to section 4221(a)(2) of the Code and this section, for export, or for resale by the purchaser to a second purchaser for export. See § 53.11 for the meaning of the term “exportation”. An article may be sold tax free by the manufacturer under the provisions of this section only if the person to whom the manufacturer sells the article intends either to export the article or to resell it to a person who intends to export it. An article may not be sold tax free under the provisions of this section by a manufacturer to a purchaser for resale to a second purchaser which does not intend to export the article itself but plans to resell it to a third purchaser for export. See section 6416(b)(2)(A) of the Code and § 53.177 for the circumstances under which credit or refund of tax is available where tax-paid articles are exported from the United States.
 
 (2) If an article, otherwise taxable under chapter 32 of the Code:

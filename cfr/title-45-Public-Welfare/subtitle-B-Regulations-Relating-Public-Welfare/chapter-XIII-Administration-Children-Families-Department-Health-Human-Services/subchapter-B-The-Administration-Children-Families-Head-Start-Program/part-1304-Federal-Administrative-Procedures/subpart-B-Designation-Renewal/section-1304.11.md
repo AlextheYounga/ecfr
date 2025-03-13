@@ -28,7 +28,7 @@ A Head Start agency will be required to compete for its next five years of fundi
 
 (ii) For the Classroom Organization domain, the competitive threshold is 5;
 
-(iii) For the Instructional Support domain, the competitive threshold is 2.3 through July 31, 2025, and 2.5 on and after August 1, 2025.
+(iii) For the Instructional Support domain, the competitive threshold is 2.3 through July 31, 2027, and 2.5 on and after August 1, 2027.
 
 (2) If an agency is determined to have an average score across all classrooms observed below the quality threshold on any of the three CLASS: Pre-K domains, the Office of Head Start will support the program to strengthen its coordinated approach to training and professional development as required in § 1302.92(b) and (c), to help promote improvement in teaching practices and teacher-child interactions. The quality threshold for each domain is as follows:
 
@@ -50,4 +50,4 @@ A Head Start agency will be required to compete for its next five years of fundi
 
 (2) Has a total of two or more audit findings of material weakness or questioned costs associated with its Head Start funds in audit reports submitted to the Federal Audit Clearinghouse (in accordance with section 647 of the Act) for a financial period within the current project period.
 
-[85 FR 53207, Aug. 28, 2020, as amended at 89 FR 67817, Aug. 21, 2024]
+[85 FR 53207, Aug. 28, 2020, as amended at 89 FR 67817, Aug. 21, 2024; 89 FR 87981, Nov. 6, 2024]

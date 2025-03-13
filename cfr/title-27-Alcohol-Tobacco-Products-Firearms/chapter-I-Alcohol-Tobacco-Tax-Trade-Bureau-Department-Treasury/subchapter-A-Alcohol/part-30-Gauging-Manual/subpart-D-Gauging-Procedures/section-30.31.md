@@ -1,5 +1,7 @@
 ##### § 30.31 Determination of proof. #####
 
+Link to an amendment published at 89 FR 87946, Nov. 6, 2024.
+
 (a) *General.* The proof of spirits shall be determined to the nearest tenth degree which shall be the proof used in determining the proof gallons.
 
 (b) *Solids content not more than 600 milligrams.* Except as otherwise authorized by the appropriate TTB officer, the proof of spirits containing not more than 600 milligrams of solids per 100 milliliters of spirits shall be determined by the use of a hydrometer and thermometer in accordance with the provisions of § 30.23 except that if such spirits contain solids in excess of 400 milligrams but not in excess of 600 milligrams per 100 milliliters at gauge proof, there shall be added to the proof so determined the obscuration determined as prescribed in § 30.32.

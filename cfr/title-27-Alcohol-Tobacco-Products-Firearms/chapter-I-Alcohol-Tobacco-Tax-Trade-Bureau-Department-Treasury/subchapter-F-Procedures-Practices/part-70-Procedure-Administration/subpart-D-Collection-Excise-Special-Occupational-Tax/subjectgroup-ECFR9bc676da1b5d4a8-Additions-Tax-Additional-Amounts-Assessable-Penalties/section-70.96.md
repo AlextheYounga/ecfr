@@ -1,5 +1,7 @@
 ##### § 70.96 Failure to file tax return or to pay tax. #####
 
+Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
+
 (a) *Addition to the tax*—(1) *Failure to file tax return.* In the case of failure to file a return required under authority of:
 
 (i) Title 26 U.S.C. 61, relating to returns and records;

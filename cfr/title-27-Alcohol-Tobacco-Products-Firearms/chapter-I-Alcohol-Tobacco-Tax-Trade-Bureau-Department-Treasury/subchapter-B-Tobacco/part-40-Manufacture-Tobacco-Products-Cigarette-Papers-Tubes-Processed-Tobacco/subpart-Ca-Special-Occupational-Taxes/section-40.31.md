@@ -1,5 +1,7 @@
 ##### § 40.31 Liability for special tax. #####
 
+Link to an amendment published at 89 FR 87947, Nov. 6, 2024.
+
 (a) *Manufacturer of tobacco products.* Every manufacturer of tobacco products shall pay a special (occupational) tax at a rate specified by § 40.32 of the part. The tax shall be paid on or before the date of commencing the business of manufacturing tobacco products, and thereafter every year on or before July 1. On commencing business, the tax shall be computed from the first day of the month in which liability is incurred, through the following June 30. Thereafter, the tax shall be computed for the entire year (July 1 through June 30).
 
 (b) [Reserved]

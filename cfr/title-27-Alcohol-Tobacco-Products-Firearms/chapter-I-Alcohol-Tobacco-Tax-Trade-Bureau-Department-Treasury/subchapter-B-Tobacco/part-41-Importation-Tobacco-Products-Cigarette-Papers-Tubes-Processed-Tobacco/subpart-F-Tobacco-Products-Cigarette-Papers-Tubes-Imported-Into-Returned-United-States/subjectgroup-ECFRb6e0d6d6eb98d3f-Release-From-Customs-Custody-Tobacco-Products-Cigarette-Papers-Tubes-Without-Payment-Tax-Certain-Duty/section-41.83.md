@@ -1,5 +1,7 @@
 ##### § 41.83 Penalties and forfeiture for products labeled or shipped for export. #####
 
+Link to an amendment published at 89 FR 87947, Nov. 6, 2024.
+
 Except for the return of exported products that are specifically authorized under § 41.82(b) and (c):
 
 (a) Every person who sells, relands, or receives within the jurisdiction of the United States any tobacco products or cigarette papers or tubes which have been labeled or shipped for exportation under parts 44 and 270 of this chapter;

@@ -1,5 +1,7 @@
 ##### § 41.173 Return to nontaxpaid status, action by appropriate TTB officer. #####
 
+Link to an amendment published at 89 FR 87947, Nov. 6, 2024.
+
 Upon receipt of a schedule of tobacco products and cigarette papers and tubes which have been imported or brought into the United States and which are withdrawn from the market by a taxpayer who desires to return such articles to a nontaxpaid status, the appropriate TTB to officer may verify the schedule and supervise disposition of the articles (and destruction of the stamps, if any) or the appropriate TTB officer may authorize the receiving manufacturer to verify the schedule and disposition of the articles (and destruction of the stamps, if any) covered therein, without supervision, by so stating on the original and one copy of the schedule returned to the manufacturer. Where the receipt in a factory of tobacco products and cigarette papers and tubes has been verified, such articles shall be treated by the receiving manufacturer as nontaxpaid and shall be covered by the manufacturer's bond.
 
 (72 Stat. 1419, as amended; 26 U.S.C. 5705)[T.D. 6871, 31 FR 47, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28087, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986. Redesignated and amended by T.D. TTB-16, 69 FR 52424, 52425, Aug. 26, 2004]

@@ -1,5 +1,7 @@
 ##### § 72.24 Corporate surety bonds. #####
 
+Link to an amendment published at 89 FR 87953, Nov. 6, 2024.
+
 (a) Corporate surety bonds may be given only with surety companies holding certificates of authority from the Secretary of the Treasury as acceptable sureties on Federal bonds, subject to the limitations prescribed by Treasury Department Circular No. 570 (Companies Holding Certificates of Authority as Acceptable Sureties on Federal Bonds and as Acceptable Reinsuring Companies), and subject to such amendments as may be issued from time to time.
 
 (b) Treasury Department Circular No. 570 is published in the Federal Register yearly as of the first workday of July. As they occur, interim revisions of the circular are published in the Federal Register. Copies may be obtained from the Audit Staff, Bureau of Government Financial Operations, Department of the Treasury, Washington, DC 20226.

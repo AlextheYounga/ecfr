@@ -1,5 +1,7 @@
 ##### § 26.201 Products exempt from tax. #####
 
+Link to an amendment published at 89 FR 87943, Nov. 6, 2024.
+
 (a) *General.* Industrial spirits, denatured spirits, and products made with denatured spirits in the Virgin Islands may be brought into the United States without incurring tax liability imposed by 26 U.S.C. 5001 or 7652.
 
 (b) *Industrial spirits.* A distiller of industrial spirits who qualifies under regulations issued by the Governor of the Virgin Islands may ship industrial spirits to a tax-free alcohol user in the United States who holds a permit under part 22 of this chapter. Shipments shall be made in accordance with the requirements of subpart O of this part.

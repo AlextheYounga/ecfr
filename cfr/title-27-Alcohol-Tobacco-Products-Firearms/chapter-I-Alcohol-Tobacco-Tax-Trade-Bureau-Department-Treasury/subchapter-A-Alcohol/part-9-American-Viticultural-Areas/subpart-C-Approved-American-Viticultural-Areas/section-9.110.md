@@ -1,5 +1,7 @@
 ##### § 9.110 San Benito. #####
 
+Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “San Benito.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundaries of San Benito viticultural area are six U.S.G.S. maps. They are titled:

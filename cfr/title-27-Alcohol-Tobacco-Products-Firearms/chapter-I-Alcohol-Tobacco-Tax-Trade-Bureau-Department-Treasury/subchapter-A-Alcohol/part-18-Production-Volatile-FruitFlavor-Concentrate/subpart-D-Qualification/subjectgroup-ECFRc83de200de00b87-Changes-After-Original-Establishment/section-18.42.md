@@ -1,5 +1,7 @@
 ##### § 18.42 Record of alternation. #####
 
+Link to an amendment published at 89 FR 87937, Nov. 6, 2024.
+
 After approval of the qualifying documents for the alternation of premises, the proprietor must execute a record each time that the premises are alternated. The record will contain the following information:
 
 (a) Identification assigned by TTB, including the plant or registry number, of the volatile fruit-flavor concentrate plant and the distilled spirits plant or bonded wine cellar;

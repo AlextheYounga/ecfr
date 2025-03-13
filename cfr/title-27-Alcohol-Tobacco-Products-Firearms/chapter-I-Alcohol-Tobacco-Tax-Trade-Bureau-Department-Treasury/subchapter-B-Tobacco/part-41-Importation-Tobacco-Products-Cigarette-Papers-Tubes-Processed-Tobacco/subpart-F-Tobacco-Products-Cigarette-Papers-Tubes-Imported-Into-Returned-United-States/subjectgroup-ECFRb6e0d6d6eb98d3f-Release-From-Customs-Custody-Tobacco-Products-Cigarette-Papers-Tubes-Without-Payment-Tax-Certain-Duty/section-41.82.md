@@ -1,5 +1,7 @@
 ##### § 41.82 Restrictions on tobacco products labeled for export. #####
 
+Link to an amendment published at 89 FR 87947, Nov. 6, 2024.
+
 (a) The provisions of this section apply to tobacco products and cigarette papers and tubes manufactured in the United States and labeled for exportation under parts 44 and 270 of this chapter.
 
 (b) Articles described in paragraph (a) of this section may be transferred to or removed from the premises of a manufacturer or an export warehouse proprietor only if such articles are being transferred or removed without tax as provided in this part.

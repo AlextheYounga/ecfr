@@ -1,5 +1,7 @@
 ##### § 18.54 Transfer of concentrate. #####
 
+Link to an amendment published at 89 FR 87937, Nov. 6, 2024.
+
 (a) *Concentrate unfit for beverage use.* Concentrate (including high-proof concentrate and concentrate treated as provided in paragraph (c) of this section) unfit for beverage use may be transferred for any purpose authorized by law.
 
 (b) *Concentrate fit for beverage use.* Concentrate fit for beverage use may be transferred only to a bonded wine cellar. If such concentrate is rendered unfit for beverage use, it may be transferred as provided in paragraph (a) of this section.

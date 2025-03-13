@@ -1,5 +1,7 @@
 ##### § 18.40 Qualification to alternate volatile fruit-flavor concentrate plant and bonded wine cellar. #####
 
+Link to an amendment published at 89 FR 87939, Nov. 6, 2024.
+
 A proprietor of a volatile fruit-flavor concentrate plant operating a contiguous bonded wine cellar may alternate the use of each premise by extension and curtailment by filing with the appropriate TTB officer the following information:
 
 (a) TTB Form 27-G (5520.3) and TTB Form 5120.25 to cover the proposed alternation of premises;

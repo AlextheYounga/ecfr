@@ -1,5 +1,7 @@
 ##### § 18.25 Organizational documents. #####
 
+Link to an amendment published at 89 FR 87937, Nov. 6, 2024.Link to an amendment published at 89 FR 87938, Nov. 6, 2024.
+
 The supporting information required by paragraph (d) of § 18.24 includes, as applicable:
 
 (a) Extracts from the articles of incorporation or from the minutes of meetings of the board of directors, authorizing the incumbents of certain offices, or other persons, to sign for the corporation;

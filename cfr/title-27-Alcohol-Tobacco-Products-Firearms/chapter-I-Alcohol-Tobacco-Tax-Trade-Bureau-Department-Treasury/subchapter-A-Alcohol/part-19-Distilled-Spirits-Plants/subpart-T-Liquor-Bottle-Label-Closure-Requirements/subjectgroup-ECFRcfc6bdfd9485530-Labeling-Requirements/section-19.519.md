@@ -1,5 +1,7 @@
 ##### § 19.519 Labels for export spirits. #####
 
+Link to an amendment published at 89 FR 87939, Nov. 6, 2024.
+
 (a) *Required information.* If a proprietor bottles spirits for export, the bottles must have a securely affixed label showing:
 
 (1) The kind (class and type) of spirits;

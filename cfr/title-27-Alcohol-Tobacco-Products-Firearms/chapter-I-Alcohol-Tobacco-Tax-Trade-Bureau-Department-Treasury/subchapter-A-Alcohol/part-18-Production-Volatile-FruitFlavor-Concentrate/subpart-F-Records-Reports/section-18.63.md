@@ -1,5 +1,7 @@
 ##### § 18.63 Record of transfer to a bonded wine cellar. #####
 
+Link to an amendment published at 89 FR 87937, Nov. 6, 2024.
+
 A proprietor transferring concentrate, juice, or fruit mash to a bonded wine cellar shall prepare a record of transfer as required by § 18.62 and enter the following additional information:
 
 (a) Registry number of the bonded wine cellar;

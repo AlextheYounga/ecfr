@@ -1,5 +1,7 @@
 ##### § 25.242 Markings. #####
 
+Link to an amendment published at 89 FR 87943, Nov. 6, 2024.
+
 (a) *Designation.* When bottled or packaged, cereal beverage may be designated “Cereal Beverage,” “Malt Beverage,” “Near Beer,” or other distinctive name. If designated “Near Beer,” those words will be printed identically in the same size or style of type, in the same color of ink, and on the same background.
 
 (b) *Barrels and kegs.* A brewer may remove cereal beverage in barrels and kegs if the sides are durably painted at each end with a white stripe not less than 4 inches in width and the heads are painted in a solid color, with conspicuous lettering in a contrasting color reading “Nontaxable under section 5051 I.R.C.” The brewer shall also legibly mark the brewer's name or trade name and the address on the container.

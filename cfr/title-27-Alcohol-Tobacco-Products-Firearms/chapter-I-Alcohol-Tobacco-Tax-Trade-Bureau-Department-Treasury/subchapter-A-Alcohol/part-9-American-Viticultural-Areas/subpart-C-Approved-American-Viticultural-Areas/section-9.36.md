@@ -1,5 +1,7 @@
 ##### § 9.36 McDowell Valley. #####
 
+Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “McDowell Valley.”
 
 (b) *Approved maps.* The appropriate map for determining the boundaries of the McDowell Valley viticultural area is a USGS map. That map is titled: “Hopland Quadrangle California” 7.5 minute series.

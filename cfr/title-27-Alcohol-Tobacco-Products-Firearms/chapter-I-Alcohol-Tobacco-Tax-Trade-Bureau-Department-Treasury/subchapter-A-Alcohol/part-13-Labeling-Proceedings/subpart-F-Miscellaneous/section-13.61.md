@@ -1,5 +1,7 @@
 ##### § 13.61 Publicity of information. #####
 
+Link to an amendment published at 89 FR 87937, Nov. 6, 2024.
+
 (a) *Pending and denied applications*—(1) *General.* Pending and denied applications for certificates of label approval, certificates of exemption from label approval, or distinctive liquor bottle approvals are treated as proprietary information, unless the applicant or certificate holder provides written authorization to release such information.
 
 (2) *Labels that make organic claims.* TTB will disclose applications for approval of labels that make organic claims to the appropriate office of the United States Department of Agriculture to assure such labels comply with National Organic Program rules.

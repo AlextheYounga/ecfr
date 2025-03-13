@@ -1,5 +1,7 @@
 ##### § 24.310 Taxpaid removals from bond record. #####
 
+Link to an amendment published at 89 FR 87942, Nov. 6, 2024.
+
 A proprietor removing wine from bond for consumption or sale on determination of tax shall maintain a record of wine removed at the time of removal either to taxpaid wine premises, taxpaid wine bottling house premises, or for direct shipment. The record will show the date of removal, the name and address of the person to whom shipped, and the volume, kind (class and type), and alcohol content of the wine. However, on any individual sale of less than 80 liters, the name and address of the purchaser need not be recorded. The proprietor who removes taxpaid bulk wine to another wine premises shall prepare the shipping record and follow the procedures prescribed by § 24.281. The volume of wine removed taxpaid will be summarized daily by tax class in wine gallons to the nearest tenth gallon.
 
 (Sec. 201, Pub. L. 85-859, 72 Stat. 1381, as amended (26 U.S.C. 5367))(Approved by the Office of Management and Budget under control number 1512-0298)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31083, July 9, 1991]

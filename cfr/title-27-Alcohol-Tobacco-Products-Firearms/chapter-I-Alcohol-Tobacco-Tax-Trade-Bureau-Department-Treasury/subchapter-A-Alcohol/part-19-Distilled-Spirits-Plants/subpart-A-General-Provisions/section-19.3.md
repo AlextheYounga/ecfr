@@ -1,5 +1,7 @@
 ##### § 19.3 Related regulations. #####
 
+Link to an amendment published at 89 FR 87939, Nov. 6, 2024.
+
 Other regulations relating to distilled spirits and distilled spirits plants are listed below:
 
 27 CFR part 1—Basic Permit Requirements Under the Federal Alcohol Administration Act, Nonindustrial Use of Distilled Spirits and Wine, Bulk Sales and Bottling of Distilled Spirits.27 CFR part 4—Labeling and Advertising of Wine.27 CFR part 5—Labeling and Advertising of Distilled Spirits.27 CFR part 16—Alcoholic Beverage Health Warning Statement.27 CFR part 17—Drawback on Taxpaid Distilled Spirits Used in Manufacturing Nonbeverage Products.27 CFR part 20—Distribution and Use of Denatured Alcohol and Rum.27 CFR part 21—Formulas for Denatured Alcohol and Rum.27 CFR part 22—Distribution and Use of Tax-Free Alcohol.27 CFR part 24—Wine.27 CFR part 25—Beer.27 CFR part 26—Liquors and Articles from Puerto Rico and the Virgin Islands.27 CFR part 27—Importation of Distilled Spirits, Wines, and Beer.27 CFR part 28—Exportation of Alcohol.27 CFR part 29—Stills and Miscellaneous Regulations.27 CFR part 30—Gauging Manual.27 CFR part 31—Alcohol Beverage Dealers.27 CFR part 71—Rules of Practice in Permit Proceedings.31 CFR part 225—Acceptance of Bonds Secured by Government Obligations in Lieu of Bonds with Sureties.

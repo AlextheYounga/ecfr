@@ -1,5 +1,7 @@
 ##### § 70.245 Computation of exempt amount and payment of amounts not exempt from levy to the appropriate TTB officer. #####
 
+Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
+
 (a) *General.* Unless advised by the appropriate TTB officer that no part of the money due to the taxpayer is exempt from levy, the employer or other person levied upon will compute the exempt amount, using the formula in § 70.243 of this part and the taxpayer's statement of exemptions and filing status described in paragraph (b) of this section.
 
 (b) *Statement of exemptions and filing status.* Unless the taxpayer submits a statement of exemptions and filing status to the employer or other person levied upon, the exempt amount will be applied as if the taxpayer were a married individual filing a separate return with only 1 personal exemption. A statement of exemptions and filing status shall be made by either:

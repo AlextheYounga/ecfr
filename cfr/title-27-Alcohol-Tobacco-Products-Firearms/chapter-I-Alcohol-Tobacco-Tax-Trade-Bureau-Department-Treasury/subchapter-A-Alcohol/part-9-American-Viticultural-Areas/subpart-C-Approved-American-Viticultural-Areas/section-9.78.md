@@ -1,5 +1,7 @@
 ##### § 9.78 Ohio River Valley. #####
 
+Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “Ohio River Valley.”
 
 (b) *Approved maps.* The approved maps for determining the boundary of the Ohio River Valley viticultural area are 12 U.S.G.S. topographic maps in the scale 1:250,000, as follows:

@@ -2,10 +2,10 @@
 
 *Acquisition official* means an individual who has been delegated authority to manage or to exercise acquisition functions and responsibilities.
 
-*Agency head* or *Head of the Agency* means the Secretary of Agriculture, Deputy Secretary, or the Assistant Secretary for Administration.
+*Agency head* or *head of the agency* means the Secretary of Agriculture (Secretary), Deputy Secretary, or the Assistant Secretary for Administration (ASA).
 
-*Head of the contracting activity* (HCA) means the official who has overall responsibility for managing the contracting activity (*i.e.,* Chief, Forest Service; Administrator, Agricultural Research Service; etc.), or the individual designated by such an official to carry out the functions of the HCA.
+*Head of the Contracting Activity (HCA)* means the official with overall responsibility of one or more USDA contracting activities.
 
-*Senior Procurement Executive* (SPE) means the agency official appointed as such by the head of the agency pursuant to Executive Order 12931. The Director, Office of Procurement and Property Management, has been designated as the USDA SPE.
+*Mission Area senior contracting official* means the official designated by the Senior Procurement Executive or Head of the Contracting Activity with specific responsibilities within an individual Mission Area's contracting activity.
 
-[61 FR 53646, Oct. 15, 1996, as amended at 63 FR 26994, May 15, 1998]
+*Senior Procurement Executive (SPE)* means the agency official appointed as such by the Head of the Agency pursuant to Executive Order 12931. The Director, Office of Contracting and Procurement, has been designated as the USDA SPE.

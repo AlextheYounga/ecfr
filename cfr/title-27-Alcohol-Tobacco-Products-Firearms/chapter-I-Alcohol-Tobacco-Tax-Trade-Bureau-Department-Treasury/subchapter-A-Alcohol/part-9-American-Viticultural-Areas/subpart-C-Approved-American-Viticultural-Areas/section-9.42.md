@@ -1,5 +1,7 @@
 ##### § 9.42 Cole Ranch. #####
 
+Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “Cole Ranch.”
 
 (b) *Approved map.* The approved map for the Cole Ranch viticultural area is the U.S.G.S. map entitled “Elledge Peak Quadrangle California—Mendocino County,” 7.5 minute series (topographic), 1958.

@@ -1,5 +1,7 @@
 ##### § 19.513 Distinctive liquor bottles. #####
 
+Link to an amendment published at 89 FR 87939, Nov. 6, 2024.
+
 (a) *Application.* A proprietor must submit form TTB F 5100.31, Application for and Certification/Exemption of Label/Bottle Approval, to the appropriate TTB officer in order to obtain approval to use domestic liquor bottles of distinctive shapes or designs. The proprietor must certify as to the total capacity of a representative sample bottle before closure (expressed in milliliters) on each copy of the form. In addition, the proprietor must affix a readily legible photograph (showing both front and back of the bottle) to the front of each copy of TTB F 5100.31 along with the label(s) to be used on the bottle. The proprietor must submit to TTB an actual bottle or accurate model only when specifically requested to do so.
 
 (b) *Approval.* The appropriate TTB officer will approve a distinctive liquor bottle on a properly completed TTB F 5100.31 if the bottle is found to:

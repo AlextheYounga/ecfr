@@ -1,5 +1,7 @@
 ##### § 29.45 Meaning of terms. #####
 
+Link to an amendment published at 89 FR 87946, Nov. 6, 2024.
+
 When used in this subpart and in the forms prescribed under this subpart, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meaning ascribed in this section. Words in the plural form shall include the singular, and vice versa, and words in the masculine shall include the feminine. The terms “includes” and “including” do not exclude things not enumerated which are in the same general class.
 
 *Administrator.* The Administrator, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury, Washington, DC.

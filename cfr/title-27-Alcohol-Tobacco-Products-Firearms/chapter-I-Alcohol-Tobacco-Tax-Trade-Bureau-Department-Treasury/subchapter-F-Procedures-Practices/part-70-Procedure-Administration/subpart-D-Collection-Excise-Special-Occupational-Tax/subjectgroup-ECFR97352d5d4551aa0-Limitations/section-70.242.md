@@ -1,5 +1,7 @@
 ##### § 70.242 Wages, salary and other income. #####
 
+Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
+
 (a) *In general.* Under 26 U.S.C. 6334(a)(9) and (d) certain amounts payable to or received by a taxpayer as wages, salary or other income are exempt from levy. This section described the income of a taxpayer that is eligible for the exemption from levy (paragraph (b) of this section) and how exempt amounts are to be paid to the taxpayer (paragraph (c) of this section). Section 70.243 of this part describes the sum which will be exempt from levy for each of the taxpayer's payroll periods. Payroll periods are described in § 70.244 of this part. Amounts exempt from levy are determined in part by the number of persons claimed by the taxpayer as dependents. Section 70.245 of this part describes the manner in which the taxpayer is to claim any dependent exemptions and the manner in which the employer is to compute the exempt amount and pay the balance to the appropriate TTB officer.
 
 (b) *Eligible taxpayer income.* Only wages, salary or other income payable to the taxpayer after the levy is made on the payor may be exempt from levy under 26 U.S.C. 6334 (a)(9). No amount of wages, salary or other income which is paid to the taxpayer before levy is made on the payor will be so exempt from levy.

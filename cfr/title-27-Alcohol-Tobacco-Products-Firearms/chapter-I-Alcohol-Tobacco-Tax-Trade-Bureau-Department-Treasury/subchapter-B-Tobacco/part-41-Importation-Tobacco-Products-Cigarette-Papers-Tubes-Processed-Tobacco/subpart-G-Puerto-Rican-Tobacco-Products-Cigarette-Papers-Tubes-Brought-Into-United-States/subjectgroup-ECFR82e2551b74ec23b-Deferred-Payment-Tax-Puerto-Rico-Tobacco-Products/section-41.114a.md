@@ -1,6 +1,6 @@
 ##### § 41.114a Qualification for extended deferral. #####
 
-Note:
+Link to an amendment published at 89 FR 87947, Nov. 6, 2024.Note:
 
 This section applies only to removals made before January 1, 1983.
 

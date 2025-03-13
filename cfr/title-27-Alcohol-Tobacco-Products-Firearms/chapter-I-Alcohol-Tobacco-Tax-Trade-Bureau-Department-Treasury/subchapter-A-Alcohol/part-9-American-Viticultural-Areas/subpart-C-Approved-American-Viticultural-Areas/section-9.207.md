@@ -1,5 +1,7 @@
 ##### § 9.207 Outer Coastal Plain. #####
 
+Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “Outer Coastal Plain”. For purposes of part 4 of this chapter, “Outer Coastal Plain” is a term of viticultural significance.
 
 (b) *Approved maps.* The appropriate maps for determining the boundary of the Outer Coastal Plain viticultural area are 10 United States Geological Survey topographic maps. They are titled:

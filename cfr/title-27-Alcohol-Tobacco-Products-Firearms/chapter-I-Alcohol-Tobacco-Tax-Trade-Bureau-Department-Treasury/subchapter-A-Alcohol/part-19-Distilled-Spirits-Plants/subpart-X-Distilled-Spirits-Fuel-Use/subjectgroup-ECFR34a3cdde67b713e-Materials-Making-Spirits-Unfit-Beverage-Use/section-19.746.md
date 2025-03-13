@@ -1,5 +1,7 @@
 ##### § 19.746 Authorized materials. #####
 
+Link to an amendment published at 89 FR 87939, Nov. 6, 2024.
+
 (a) *General.* The appropriate TTB officer determines what materials make spirits unfit for beverage use but do not impair the quality of the spirits for fuel use. Spirits treated with materials authorized under this section will be considered rendered unfit for beverage use and eligible for withdrawal as fuel alcohol.
 
 (b) *Authorized materials.* Subject to the specifications in paragraph (c) of this section, proprietors are authorized to render spirits unfit for beverage use by adding to each 100 gallons of spirits any of following materials in the quantities specified:

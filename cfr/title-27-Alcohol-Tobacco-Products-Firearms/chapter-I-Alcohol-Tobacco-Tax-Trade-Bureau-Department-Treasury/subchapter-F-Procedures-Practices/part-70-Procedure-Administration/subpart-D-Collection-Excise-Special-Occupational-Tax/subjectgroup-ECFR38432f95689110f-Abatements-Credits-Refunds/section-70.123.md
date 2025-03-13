@@ -1,5 +1,7 @@
 ##### § 70.123 Claims for credit or refund. #####
 
+Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
+
 (a) *Requirement that claim be filed.* (1) Credits or refunds of overpayments may not be allowed or made after the expiration of the statutory period of limitation properly applicable unless, before the expiration of such period, a claim therefor has been filed by the taxpayer. Furthermore, under section 7422 of the Internal Revenue Code, a civil action for refund may not be instituted unless a claim has been filed within the properly applicable period of limitation.
 
 (2) All claims relating to provisions of 26 U.S.C. enforced and administered by the Bureau, together with appropriate supporting evidence, shall be filed with the appropriate TTB officer. As to interest in the case of credits or refunds, see section 6611 of the Internal Revenue Code. See section 7502 for provisions treating timely mailing as timely filing and section 7503 for time for filing claim when the last day falls on a Saturday, Sunday, or legal holiday.

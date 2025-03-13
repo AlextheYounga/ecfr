@@ -1,5 +1,7 @@
 ##### § 27.204 Distinctive liquor bottles. #####
 
+Link to an amendment published at 89 FR 87944, Nov. 6, 2024.
+
 (a) *Application.* Liquor bottles of distinctive shape or design, including bottles of less than 200 ml. capacity, may be imported by an importer (filled bottles) or a bottler (empty bottles). For filled bottles, the importer shall submit TTB Form 5100.31 for approval prior to importation of such bottles into the United States. For empty bottles, the bottler shall obtain approval from the appropriate TTB officer on TTB Form 5100.31 prior to using the bottles. The importer or bottler, as applicable, shall certify as to the total capacity of a representative sample bottle before closure (expressed in milliliters) on each copy of the form. In addition, the applicant shall affix a readily legible photograph (both front and back of the bottle to the front of each copy of TTB Form 5100.31, along with the label(s) to be used on the bottle. The applicant shall not submit an actual bottle or an authentic model unless specifically requested to do so.
 
 (b) *Approval.* (1) Properly submitted TTB Forms 5100.31 to import distinctive liquor bottles (filled), or, properly submitted TTB Forms 5100.31 to use distinctive liquor bottles (empty) which have been imported, shall be approved provided such bottles are found by the appropriate TTB officer to—

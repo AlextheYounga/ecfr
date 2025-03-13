@@ -1,5 +1,7 @@
 ##### § 29.55 Registry of stills and distilling apparatus. #####
 
+Link to an amendment published at 89 FR 87946, Nov. 6, 2024.
+
 (a) *General.* Every person having possession, custody, or control of any still or distilling apparatus set up shall, immediately on its being set up, register the still or distilling apparatus, except that a still or distilling apparatus not used or intended for use in the distillation, redistillation, or recovery of distilled spirits is not required to be registered. Registration may be accomplished by describing the still or distilling apparatus on the registration or permit application prescribed in this chapter for qualification under 26 U.S.C. chapter 51 or, if qualification is not required under 26 U.S.C. chapter 51, on a letter application, and filing the application with the appropriate TTB officer. Approval of the application by the appropriate TTB officer will constitute registration of the still or distilling apparatus.
 
 (b) *When still is set up.* A still will be regarded as set up and subject to registry when it is in position over a furnace, or connected with a boiler so that heat may be applied, irrespective of whether a condenser is in position. This rule is intended merely as an illustration and should not be construed as covering all types of stills or condensers requiring registration.

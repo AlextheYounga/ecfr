@@ -1,5 +1,7 @@
 ##### § 26.108 Application for permit, TTB Form 5100.51 and/or 5100.21. #####
 
+Link to an amendment published at 89 FR 87943, Nov. 6, 2024.
+
 (a) *Distilled spirits.* Where distilled spirits of Puerto Rican manufacture are to be used in the manufacture of the articles to be shipped to the United States, the manufacturer shall make application on Form 5110.51, in accordance with the applicable provisions of § 26.78.
 
 (b) *Wine and/or beer.* Where wine and/or beer of Puerto Rican manufacture is to be used in the manufacture of the articles to be shipped to the United States, the manufacturer shall make application on TTB Form 5100.21, in accordance with the applicable provisions of §§ 26.93 and/or 26.102. Wine and beer may be included in the same application.

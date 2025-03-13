@@ -1,5 +1,7 @@
 ##### § 53.179 Supporting evidence required in case of manufacturers tax involving exportations, uses, sales, or resales. #####
 
+Link to an amendment published at 89 FR 87950, Nov. 6, 2024.
+
 (a) *Evidence to be submitted by claimant.* No claim for credit or refund of an overpayment, within the meaning of section 6416(b)(2) of the Code and § 53.178, of tax under chapter 32 of the Code shall be allowed unless the person who paid the tax submits with the claim the evidence required by § 53.172(b)(2) and a statement, supported by sufficient available evidence:
 
 (1) Showing the amount claimed in respect of each category of exportations, uses, sales, or resales on which the claim is based and which give rise to a right of credit or refund under section 6416(b)(2) of the Code and § 53.177,

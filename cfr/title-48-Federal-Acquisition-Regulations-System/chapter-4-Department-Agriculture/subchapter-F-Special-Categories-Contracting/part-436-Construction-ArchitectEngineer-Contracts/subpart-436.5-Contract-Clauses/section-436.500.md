@@ -1,3 +1,3 @@
 ##### 436.500 Scope of subpart. #####
 
-This subpart prescribes clauses for insertion in USDA solicitations and contracts for construction and for dismantling, demolition, or removal of improvements or structures. The contracting officer shall use the clauses as prescribed, in contracts that exceed the simplified acquisition threshold. The contracting officer may use the clauses if the contract amount is expected to be within the simplified acquisition threshold.
+This subpart prescribes clauses for insertion in USDA solicitations and contracts for construction and for dismantling, demolition, or removal of improvements or structures. The contracting officer shall use the clauses as prescribed in contracts that exceed the simplified acquisition threshold. The contracting officer may use the clauses if the contract amount is expected to be at or below the simplified acquisition threshold.

@@ -1,5 +1,7 @@
 ##### § 71.49a Applications for operating permits and industrial use permits. #####
 
+Link to an amendment published at 89 FR 87952, Nov. 6, 2024.
+
 If, on examination of an application for an operating permit or an industrial use permit, the appropriate TTB officer has reason to believe:
 
 (a) In case of an application to withdraw and use distilled spirits free of tax, the applicant is not authorized by law or regulations issued pursuant thereto to withdraw or use such distilled spirits; or

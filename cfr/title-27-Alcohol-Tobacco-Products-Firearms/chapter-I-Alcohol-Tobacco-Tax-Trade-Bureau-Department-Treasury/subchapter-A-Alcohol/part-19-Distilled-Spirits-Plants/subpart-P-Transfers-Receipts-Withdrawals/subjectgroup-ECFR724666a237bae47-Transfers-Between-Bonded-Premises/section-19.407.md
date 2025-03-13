@@ -1,5 +1,7 @@
 ##### § 19.407 Consignee premises. #####
 
+Link to an amendment published at 89 FR 87939, Nov. 6, 2024.
+
 (a) *General.* A proprietor who receives spirits, denatured spirits, or wines by transfer in bond is the “consignee” of the shipment for purposes of this part. Upon arrival of an in-bond shipment at the consignee's premises or at the destination point specified in the carrier's transportation documents, the consignee must:
 
 (1) Examine each conveyance to determine whether the securing devices, if any, are intact upon arrival. If the securing devices are not intact, the consignee must immediately notify the appropriate TTB officer before removal of any spirits from the conveyance;

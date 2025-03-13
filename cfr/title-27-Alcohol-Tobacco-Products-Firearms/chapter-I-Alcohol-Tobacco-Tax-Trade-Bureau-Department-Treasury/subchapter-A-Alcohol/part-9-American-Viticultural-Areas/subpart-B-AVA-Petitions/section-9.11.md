@@ -1,5 +1,7 @@
 ##### § 9.11 Submission of AVA petitions. #####
 
+Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+
 (a) *Procedure for petitioner.* Any person may submit an AVA petition to TTB to establish a grape-growing region as a new AVA, to change the boundary of an existing AVA, or to change the name of an existing AVA. The petitioner is responsible for including with the petition all of the information specified in § 9.12. The person submitting the petition is also responsible for providing timely and complete responses to TTB requests for additional information to support the petition.
 
 (b) *How and where to submit an AVA petition.* The AVA petition may be sent to TTB using the U.S. Postal Service or a private delivery service. A petition sent through the U.S. Postal Service should be addressed to: Regulations and Rulings Division, Alcohol and Tobacco Tax and Trade Bureau, 1310 G Street, NW., Washington, DC 20220. A petition sent via a private delivery service should be directed to: Regulations and Rulings Division, Alcohol and Tobacco Tax and Trade Bureau, Suite 200E, 1310 G Street, NW., Washington, DC 20005.

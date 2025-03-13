@@ -1,5 +1,7 @@
 ##### § 18.14 Emergency variations from requirements. #####
 
+Link to an amendment published at 89 FR 87937, Nov. 6, 2024.
+
 (a) *General.* The appropriate TTB officer may approve emergency variations from requirements specified in this part, where the appropriate TTB officer finds that an emergency exists, the proposed variations are necessary, and the proposed variations:
 
 (1) Will afford the security and protection to the revenue intended by the prescribed specifications;

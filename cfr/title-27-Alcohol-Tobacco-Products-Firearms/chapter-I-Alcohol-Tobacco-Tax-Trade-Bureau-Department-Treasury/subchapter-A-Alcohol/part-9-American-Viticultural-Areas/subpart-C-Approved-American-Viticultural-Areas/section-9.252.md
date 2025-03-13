@@ -1,5 +1,7 @@
 ##### § 9.252 Eagle Foothills. #####
 
+Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “Eagle Foothills”. For purposes of part 4 of this chapter, “Eagle Foothills” is a term of viticultural significance.
 
 (b) *Approved maps.* The 6 United States Geological Survey (USGS) 1:24,000 scale topographic maps used to determine the boundary of the Eagle Foothills viticultural area are titled:

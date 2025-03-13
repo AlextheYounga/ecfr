@@ -1,5 +1,7 @@
 ##### § 9.66 Russian River Valley. #####
 
+Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “Russian River Valley.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundaries of the Russian River Valley viticultural area are 11 United States Geological Survey 1:24,000 Scale topographic maps. They are titled:

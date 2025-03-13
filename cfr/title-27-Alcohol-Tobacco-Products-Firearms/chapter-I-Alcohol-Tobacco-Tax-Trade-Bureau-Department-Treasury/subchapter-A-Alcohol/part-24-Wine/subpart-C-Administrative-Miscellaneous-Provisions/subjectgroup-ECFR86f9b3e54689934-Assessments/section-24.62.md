@@ -1,5 +1,7 @@
 ##### § 24.62 Notice. #####
 
+Link to an amendment published at 89 FR 87941, Nov. 6, 2024.
+
 If an investigation or an examination of records discloses that liability for the tax on wine or distilled spirits, or special (occupational) tax has been incurred by the proprietor, the appropriate TTB officer will notify the proprietor by letter of the basis and the amount of the proposed assessment in order to afford the proprietor an opportunity to submit a protest, with supporting evidence, within 45 days, or to request a conference with regard to the tax liability. However, if collection of the tax liability may be jeopardized by a delay, the appropriate TTB officer may take immediate jeopardy assessment action pursuant to 26 U.S.C. 6861.
 
 (Sec. 201, Pub. L. 85-859, 72 Stat. 1323, as amended, 1381, as amended (26 U.S.C. 5008, 5370, 6862))(Approved by the Office of Management and Budget under control number 1512-0492)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-409, 64 FR 13683, Mar. 22, 1999]

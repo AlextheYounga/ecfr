@@ -1,5 +1,7 @@
 ##### § 4.33 Brand names. #####
 
+Link to an amendment published at 89 FR 87935, Nov. 6, 2024.
+
 (a) *General.* The product shall bear a brand name, except that if not sold under a brand name, then the name of the person required to appear on the brand label shall be deemed a brand name for the purpose of this part.
 
 (b) *Misleading brand names.* No label shall contain any brand name, which, standing alone, or in association with other printed or graphic matter creates any impression or inference as to the age, origin, identity, or other characteristics of the product unless the appropriate TTB officer finds that such brand name, either when qualified by the word “brand” or when not so qualified, conveys no erroneous impressions as to the age, origin, identity, or other characteristics of the product.

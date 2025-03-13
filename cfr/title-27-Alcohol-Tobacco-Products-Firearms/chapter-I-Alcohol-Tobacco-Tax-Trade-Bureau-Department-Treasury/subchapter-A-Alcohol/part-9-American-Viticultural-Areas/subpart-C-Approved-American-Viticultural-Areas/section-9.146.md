@@ -1,5 +1,7 @@
 ##### § 9.146 Lake Wisconsin. #####
 
+Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “Lake Wisconsin.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundary of the “Lake Wisconsin” viticultural area are two U.S.G.S. 7.5 minute series topographical maps of the 1:24,000 scale. They are titled:

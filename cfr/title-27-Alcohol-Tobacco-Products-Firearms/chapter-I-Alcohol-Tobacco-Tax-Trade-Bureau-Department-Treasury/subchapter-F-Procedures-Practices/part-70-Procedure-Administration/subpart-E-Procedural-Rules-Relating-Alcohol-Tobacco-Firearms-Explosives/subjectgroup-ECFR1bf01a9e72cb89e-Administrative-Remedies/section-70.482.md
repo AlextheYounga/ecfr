@@ -1,5 +1,7 @@
 ##### § 70.482 Offers in compromise of liabilities (other than forfeiture) under 26 U.S.C. #####
 
+Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
+
 (a) *In general.* The appropriate TTB officer may compromise any civil or criminal liability arising under the provisions of 26 U.S.C. enforced and administered by TTB prior to reference of a case involving such liability to the Department of Justice for prosecution or defense. (For compromise of forfeiture liability, see § 70.484 of this part.) Any such liability may be compromised only upon one or both of the following two grounds:
 
 (1) Doubt as to liability; or

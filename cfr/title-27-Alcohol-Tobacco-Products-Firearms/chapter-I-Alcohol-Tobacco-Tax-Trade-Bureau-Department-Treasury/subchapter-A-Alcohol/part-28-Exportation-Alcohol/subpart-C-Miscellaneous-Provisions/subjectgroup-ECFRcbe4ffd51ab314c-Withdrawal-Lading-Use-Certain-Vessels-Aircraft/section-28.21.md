@@ -1,5 +1,7 @@
 ##### § 28.21 General. #####
 
+Link to an amendment published at 89 FR 87945, Nov. 6, 2024.
+
 Liquors may be withdrawn without payment of tax for lading, and liquors on which the tax has been paid or determined may be laden with benefit of drawback of tax, subject to this part, for use on vessels and aircraft as follows:
 
 (a) Vessels or aircraft operated by the United States;

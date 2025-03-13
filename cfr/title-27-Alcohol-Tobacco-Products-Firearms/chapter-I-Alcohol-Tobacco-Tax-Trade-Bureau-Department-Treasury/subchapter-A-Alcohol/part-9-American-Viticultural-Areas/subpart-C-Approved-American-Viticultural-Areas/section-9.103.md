@@ -1,5 +1,7 @@
 ##### § 9.103 Mimbres Valley. #####
 
+Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “Mimbres Valley.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundaries of the Mimbres Valley viticultural area are 28 U.S.G.S. quadrangle maps (26-7.5 minute series and 2-15 minute series). They are entitled:

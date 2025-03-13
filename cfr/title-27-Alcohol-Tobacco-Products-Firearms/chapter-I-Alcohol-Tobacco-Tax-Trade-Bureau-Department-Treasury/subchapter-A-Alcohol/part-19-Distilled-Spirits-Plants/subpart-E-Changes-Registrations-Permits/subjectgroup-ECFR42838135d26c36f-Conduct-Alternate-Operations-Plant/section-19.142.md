@@ -1,5 +1,7 @@
 ##### § 19.142 Alternate use of premises and equipment for customs purposes. #####
 
+Link to an amendment published at 89 FR 87939, Nov. 6, 2024.
+
 (a) *General.* The proprietor may extend or curtail the distilled spirits plant premises or a part of those premises for temporary use by Customs and Border Protection officers for customs purposes. If the proprietor wishes to alternate the use of the premises for customs purposes, that use must be approved by the port director of customs and must be conducted in accordance with applicable customs laws and regulations.
 
 (b) *Qualification.* Before alternating the plant premises for customs purposes, the proprietor must file and receive approval of the necessary registration, application and bonds as required by this part. The proprietor's application for registration must include the following:

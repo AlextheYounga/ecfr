@@ -1,5 +1,7 @@
 ##### § 41.50 Exemptions. #####
 
+Link to an amendment published at 89 FR 87947, Nov. 6, 2024.
+
 The Harmonized Tariff Schedule of the United States (19 U.S.C. 1202) and Customs Regulations, 19 CFR, chapter I, provide for certain exemptions from internal revenue taxes with respect to tobacco products and cigarette papers and tubes imported into the United States. These exemptions include, but are not limited to, certain importations in passengers' baggage, for use of crew members, and by foreign officials. Persons importing tobacco products and cigarette papers and tubes as described in this section are not required to obtain a permit.
 
 [T.D. 6871, 31 FR 41, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28084, Aug. 5, 1986; T.D. ATF-243, 52 FR 43194, Dec. 1, 1986; T.D. ATF-284, 54 FR 12190, Mar. 24, 1989; T.D. ATF-422, 64 FR 71949, Dec. 22, 1999; 78 FR 38569, June 27, 2013]

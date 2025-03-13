@@ -1,5 +1,7 @@
 ##### § 46.92 Meaning of terms. #####
 
+Link to an amendment published at 89 FR 87950, Nov. 6, 2024.
+
 As used in this subpart, the following terms shall have the meanings indicated unless either the context in which they are used requires a different meaning, or a different definition is prescribed for a particular section or portion of this subpart:
 
 *Appropriate TTB officer.* An officer or employee of the Alcohol and Tobacco Tax and Trade Bureau (TTB) authorized to perform any functions relating to the administration or enforcement of this part by TTB Order 1135.46, Delegation of the Administrator's Authorities in 27 CFR Part 46, Miscellaneous Regulations Relating to Tobacco Products and Cigarette Papers and Tubes.

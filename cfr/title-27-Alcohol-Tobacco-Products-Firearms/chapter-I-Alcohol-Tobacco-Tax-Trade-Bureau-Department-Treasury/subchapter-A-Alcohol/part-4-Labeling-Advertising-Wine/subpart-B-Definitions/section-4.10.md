@@ -1,5 +1,7 @@
 ##### § 4.10 Meaning of terms. #####
 
+Link to an amendment published at 89 FR 87935, Nov. 6, 2024.
+
 As used in this part, unless the context otherwise requires, terms shall have the meaning ascribed in this part.
 
 *Act.* The Federal Alcohol Administration Act.

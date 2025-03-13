@@ -1,5 +1,7 @@
 ##### § 19.517 Statements required on labels under an exemption from label approval. #####
 
+Link to an amendment published at 89 FR 87939, Nov. 6, 2024.
+
 If a proprietor bottles spirits for domestic use under a certificate of exemption from label approval on form TTB F 5100.31, the following information must appear on the label used on the bottle, in the manner indicated:
 
 (a) *Brand name.* The brand name on the label must conform to the requirements of § 5.34 of this chapter;

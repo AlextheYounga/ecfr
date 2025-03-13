@@ -1,5 +1,7 @@
 ##### § 9.98 Monterey. #####
 
+Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “Monterey.”
 
 (b) *Approved maps.* The approved maps for determining the boundary of the Monterey viticultural area are 36 U.S.G.S. quadrangle maps in the 7.5 minute series, as follows:

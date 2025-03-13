@@ -1,6 +1,6 @@
 ##### 401.402 Policy. #####
 
-Requests for authority to deviate from the provisions of the FAR or the AGAR shall be submitted in writing as far in advance as the exigencies of the situation will permit. Each request for deviation shall contain the following:
+Requests for authority to deviate from the provisions of the FAR or the AGAR shall be submitted in writing as far in advance of the situation as time will permit. Each request for deviation shall contain the following:
 
 (a) A statement of the deviation desired, including identification of the specific paragraph number(s) of the FAR and AGAR;
 

@@ -1,5 +1,7 @@
 ##### § 41.21 Forms prescribed. #####
 
+Link to an amendment published at 89 FR 87947, Nov. 6, 2024.
+
 (a) The Administrator is authorized to prescribe all forms required by this part. All of the information called for in each form shall be furnished as indicated by the headings on the form and the instructions on or pertaining to the form. In addition, information called for in each form shall be furnished as required by this part. When a return, form, claim, or other document called for under this part is required by this part, or by the document itself, to be executed under penalties of perjury, it shall be executed under penalties of perjury.
 
 (b) Forms prescribed by this part are available for printing through the TTB Web site (*http://www.ttb.gov*) or by mailing a request to the Alcohol and Tobacco Tax and Trade Bureau, National Revenue Center, 550 Main Street, Room 1516, Cincinnati, OH 45202.

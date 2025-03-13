@@ -1,5 +1,7 @@
 ##### § 9.109 Northern Neck George Washington Birthplace. #####
 
+Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “Northern Neck George Washington Birthplace.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundaries of the Northern Neck George Washington Birthplace viticultural area are 2 U.S.G.S. 1:250,000 scale maps. They are entitled:

@@ -1,5 +1,7 @@
 ##### § 70.33 Authority of enforcement officers of the Bureau. #####
 
+Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
+
 Appropriate TTB officers may perform the following functions:
 
 (a) Carry firearms;

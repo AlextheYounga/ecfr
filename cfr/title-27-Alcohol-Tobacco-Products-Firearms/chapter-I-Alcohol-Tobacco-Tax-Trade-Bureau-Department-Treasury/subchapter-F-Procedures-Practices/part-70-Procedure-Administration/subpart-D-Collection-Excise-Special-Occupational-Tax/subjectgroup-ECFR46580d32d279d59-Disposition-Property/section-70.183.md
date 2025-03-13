@@ -1,5 +1,7 @@
 ##### § 70.183 Administration and disposition of real estate acquired by the United States. #####
 
+Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
+
 (a) *Persons charged with.* The appropriate TTB officer shall have charge of all real estate which has been or shall be assigned, set off, or otherwise conveyed by purchase or otherwise to the United States in payment of debts or penalties arising under provisions of 26 U.S.C. enforced and administered by the Bureau or which has been or shall be vested in the United States by mortgage, or other security for payment of such debts, or which has been redeemed by the United States, or which has been or shall be acquired by the United States for payment of or as security for debts arising under provisions of 26 U.S.C. enforced and administered by the Bureau, and of all trusts created for the use of the United States in payment of such debts due the United States.
 
 (b) *Sale.* The appropriate TTB officer may sell any real estate owned or held by the United States as aforesaid, subject to the following rules:

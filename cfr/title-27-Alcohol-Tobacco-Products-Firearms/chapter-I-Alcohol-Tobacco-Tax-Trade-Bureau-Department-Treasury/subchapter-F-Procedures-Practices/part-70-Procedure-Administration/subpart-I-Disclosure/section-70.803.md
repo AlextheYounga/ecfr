@@ -1,5 +1,7 @@
 ##### § 70.803 Requests or demands for disclosure in testimony and in related matters. #####
 
+Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
+
 (a) *Authority.* The provisions of this section are prescribed under the authority of 5 U.S.C. 301; section 2 of Reorganization Plan No. 26 of 1950 (64 Stat. 1280); 12 U.S.C. 3412; 18 U.S.C. 1905; section 2(g) of the Federal Alcohol Administration Act (27 U.S.C. 202(c)); and sections 5274, 6103, 7213, 7803 and 7805 of the Internal Revenue Code of 1954 (26 U.S.C. 5274, 6103, 7213, 7803 and 7805).
 
 (b) *Definitions.* The following definitions apply whenever the defined terms appear in this section.

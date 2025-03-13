@@ -1,5 +1,7 @@
 ##### § 19.699 General bond requirements. #####
 
+Link to an amendment published at 89 FR 87940, Nov. 6, 2024.
+
 (a) *Operations bond.* Any person who plans to establish a large plant, a medium plant, or a small plant without production operations must provide an operations bond on form TTB F 5110.56, Distilled Spirits Bond, in duplicate, with the original permit application. If a proprietor fails to pay any liability covered by the bond, TTB may seek payment from the proprietor, from the surety on the bond, or from both the proprietor and the surety. Additional provisions applicable to bonds for alcohol fuel plants are found in subpart F of this part in §§ 19.155 through 19.157 and §§ 19.167 through 19.173.
 
 (b) *Corporate surety.* A company that issues bonds is called a “corporate surety.” Proprietors must obtain the surety bonds required by this subpart from a corporate surety approved by the Secretary of the Treasury. The Department of the Treasury publishes a list of approved corporate surety companies in Treasury Department Circular 570, Companies Holding Certificates of Authority as Acceptable Sureties on Federal Bonds and as Acceptable Reinsuring Companies. Treasury Department Circular 570 is published in the Federal Register annually on the first business day in July, and supplemental changes are published periodically thereafter. The most recent circular and any supplemental changes to it may be viewed on the Bureau of the Fiscal Service Web site at *https://www.fiscal.treasury.gov/fsreports/ref/suretyBnd/c570.htm*.

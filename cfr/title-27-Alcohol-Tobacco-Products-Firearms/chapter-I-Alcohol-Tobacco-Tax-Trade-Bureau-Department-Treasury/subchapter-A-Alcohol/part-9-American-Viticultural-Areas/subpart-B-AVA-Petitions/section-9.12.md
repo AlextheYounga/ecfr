@@ -1,5 +1,7 @@
 ##### § 9.12 AVA petition requirements. #####
 
+Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+
 (a) *Establishment of an AVA in general.* A petition for the establishment of a new AVA must include all of the evidentiary materials and other information specified in this section. The petition must contain sufficient information, data, and evidence such that no independent verification or research is required by TTB.
 
 (1) *Name evidence.* The name identified for the proposed AVA must be currently and directly associated with an area in which viticulture exists. All of the area within the proposed AVA boundary must be nationally or locally known by the name specified in the petition, although the use of that name may extend beyond the proposed AVA boundary. The name evidence must conform to the following rules:

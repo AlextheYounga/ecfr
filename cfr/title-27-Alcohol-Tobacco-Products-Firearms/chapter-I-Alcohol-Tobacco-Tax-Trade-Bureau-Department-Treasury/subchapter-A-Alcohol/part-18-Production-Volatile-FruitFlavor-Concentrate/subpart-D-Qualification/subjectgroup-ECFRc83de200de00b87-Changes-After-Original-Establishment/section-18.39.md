@@ -1,5 +1,7 @@
 ##### § 18.39 Qualification to alternate a volatile fruit-flavor concentrate plant and a distilled spirits plant. #####
 
+Link to an amendment published at 89 FR 87939, Nov. 6, 2024.
+
 A proprietor of a volatile fruit-flavor concentrate plant operating a contiguous distilled spirits plant may alternate the use of such premises between the two functions through extension and curtailment by filing with the appropriate TTB officer the following information:
 
 (a) TTB Form 27-G (5520.3) and TTB Form 5110.41 to cover the proposed alternation of premises;

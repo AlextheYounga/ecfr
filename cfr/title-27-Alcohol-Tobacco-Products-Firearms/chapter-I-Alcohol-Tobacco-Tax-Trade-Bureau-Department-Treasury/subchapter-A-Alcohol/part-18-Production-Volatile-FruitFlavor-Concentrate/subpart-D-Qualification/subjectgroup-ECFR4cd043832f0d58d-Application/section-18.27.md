@@ -1,5 +1,7 @@
 ##### § 18.27 Additional requirements. #####
 
+Link to an amendment published at 89 FR 87937, Nov. 6, 2024.
+
 (a) The appropriate TTB officer, to protect the revenue, may require:
 
 (1) Additional information in support of an application for registration;

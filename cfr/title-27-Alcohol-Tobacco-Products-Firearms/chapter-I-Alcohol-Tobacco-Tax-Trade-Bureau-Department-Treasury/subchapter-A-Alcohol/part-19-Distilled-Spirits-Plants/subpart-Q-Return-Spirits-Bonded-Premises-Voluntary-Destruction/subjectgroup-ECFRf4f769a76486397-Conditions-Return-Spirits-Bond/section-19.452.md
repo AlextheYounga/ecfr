@@ -1,5 +1,7 @@
 ##### § 19.452 Return of taxpaid spirits to bonded premises for destruction, denaturation, redistillation, reconditioning, or rebottling. #####
 
+Link to an amendment published at 89 FR 87939, Nov. 6, 2024.
+
 (a) *Allowable returns.* A proprietor may return spirits to bonded premises if the spirits were taxpaid or tax determined by him, by another distilled spirits plant proprietor, or by an importer upon importation through U.S. Customs and Border Protection. However, consistent with section 5215(a) of the IRC the proprietor may return such spirits to bond only for one of the following reasons:
 
 (1) Destruction, in accordance with § 19.459;

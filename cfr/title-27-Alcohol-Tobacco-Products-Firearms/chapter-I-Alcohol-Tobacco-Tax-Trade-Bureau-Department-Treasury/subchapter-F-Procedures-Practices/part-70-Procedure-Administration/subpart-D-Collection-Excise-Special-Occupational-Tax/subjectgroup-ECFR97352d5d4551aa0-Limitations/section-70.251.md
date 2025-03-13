@@ -1,5 +1,7 @@
 ##### § 70.251 Periods of limitation on suits by taxpayers. #####
 
+Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
+
 (a) No suit or proceeding under section 7422(a) of the Internal Revenue Code for the recovery of any internal revenue tax, penalty, or other sum shall be begun until whichever of the following first occurs:
 
 (1) The expiration of 6 months from the date of the filing of the claim for credit or refund, or

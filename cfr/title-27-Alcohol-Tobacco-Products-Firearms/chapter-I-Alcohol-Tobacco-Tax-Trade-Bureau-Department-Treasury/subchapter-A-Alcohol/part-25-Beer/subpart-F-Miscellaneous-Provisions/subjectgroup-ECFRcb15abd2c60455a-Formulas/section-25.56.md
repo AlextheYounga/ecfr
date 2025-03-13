@@ -1,5 +1,7 @@
 ##### § 25.56 Filing of formulas. #####
 
+Link to an amendment published at 89 FR 87943, Nov. 6, 2024.
+
 (a) *What are the general requirements for filing a formula?* (1) You must file your formula in writing. Your formula must identify each brewery where the formula applies by including each brewery name, address, and registry number.
 
 (2) You must serially number each formula, commencing with “1” and continuing in numerical sequence.

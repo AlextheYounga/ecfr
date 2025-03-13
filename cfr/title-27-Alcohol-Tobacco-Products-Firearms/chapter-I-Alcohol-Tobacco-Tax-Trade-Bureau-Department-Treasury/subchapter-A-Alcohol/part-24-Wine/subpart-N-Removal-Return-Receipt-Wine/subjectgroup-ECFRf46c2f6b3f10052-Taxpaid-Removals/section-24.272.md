@@ -1,5 +1,7 @@
 ##### § 24.272 Payment of tax by electronic fund transfer. #####
 
+Link to an amendment published at 89 FR 87942, Nov. 6, 2024.
+
 (a) *General.* (1) During a calendar year any proprietor who is liable for a gross amount of wine excise tax equal to or exceeding $5 million combining tax liabilities incurred under this part and parts 26 and 27 of this chapter, shall during the succeeding calendar year use a financial institution in making payment by electronic fund transfer (EFT) of wine taxes for that year. A proprietor who is required by this section to make remittance by EFT may not effect payment of wine taxes by cash, check, or money order as described in § 24.271.
 
 (2) For the purposes of this section, the dollar amount of tax liability is defined as the gross tax liability on all taxable withdrawals and importations (including wines brought into the United States from Puerto Rico or the Virgin Islands) during the calendar year, without regard to any drawback, credit, or refund, for all premises from which the activities are conducted by the proprietor.

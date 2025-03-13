@@ -1,5 +1,7 @@
 ##### § 45.23 Authority of appropriate TTB officers to enter premises. #####
 
+Link to an amendment published at 89 FR 87949, Nov. 6, 2024.
+
 Any appropriate TTB officer may enter in the daytime any premises where tobacco products, or cigarette papers or tubes removed under this part are kept, so far as it may be necessary for the purpose of examining such articles. When such premises are open at night, any appropriate TTB officer may enter them, while so open, in the performance of his official duties. The owner of such premises, or person having the superintendence of the same, who refuses to admit any appropriate TTB officer or permit him to examine the articles removed under this part shall be liable to the penalties prescribed by law for the offense.
 
 (68A Stat. 872, 903; 26 U.S.C. 7342, 7606)[T.D. 6871, 31 FR 57, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28090, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-472, 67 FR 8880, Feb. 27, 2002]

@@ -1,5 +1,7 @@
 ##### § 45.22 Emergency variations from requirements. #####
 
+Link to an amendment published at 89 FR 87949, Nov. 6, 2024.
+
 The appropriate TTB officer may approve methods of operation other than as specified in this part, where he finds that an emergency exists and the proposed variations from the specified requirements are necessary, and the proposed variations:
 
 (a) Will afford the security and protection to the revenue intended by the prescribed specifications.

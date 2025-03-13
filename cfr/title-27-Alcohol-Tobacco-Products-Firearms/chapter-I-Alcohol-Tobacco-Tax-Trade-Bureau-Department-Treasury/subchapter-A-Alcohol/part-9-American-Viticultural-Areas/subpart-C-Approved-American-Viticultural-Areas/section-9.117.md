@@ -1,5 +1,7 @@
 ##### § 9.117 Stags Leap District. #####
 
+Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “Stags Leap District.”
 
 (b) *Approved map.* The appropriate map for determining the boundaries of the Stags Leap District viticultural area is one U.S.G.S. topographic map in the 7.5 minute series, scaled 1:24000, titled “Yountville, Calif.,” 1951 (photorevised 1968).

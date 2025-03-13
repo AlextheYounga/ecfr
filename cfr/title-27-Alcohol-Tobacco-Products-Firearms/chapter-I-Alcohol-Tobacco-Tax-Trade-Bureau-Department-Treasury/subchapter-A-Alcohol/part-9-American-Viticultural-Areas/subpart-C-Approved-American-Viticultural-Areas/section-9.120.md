@@ -1,5 +1,7 @@
 ##### § 9.120 Sierra Foothills. #####
 
+Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “Sierra Foothills.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundary of the Sierra Foothills viticultural area are four U.S.G.S. topographical maps of the 1:250,000 scale:

@@ -1,3 +1,3 @@
 ##### 415.604 Agency points of contact. #####
 
-HCAs are responsible for establishing procedures to ensure compliance with the requirements of FAR 15.604.
+Each Mission Area senior contracting official is responsible for establishing points of contact for the control of unsolicited proposals. An unsolicited proposal must be formally submitted to the Agency by way of the point of contact.

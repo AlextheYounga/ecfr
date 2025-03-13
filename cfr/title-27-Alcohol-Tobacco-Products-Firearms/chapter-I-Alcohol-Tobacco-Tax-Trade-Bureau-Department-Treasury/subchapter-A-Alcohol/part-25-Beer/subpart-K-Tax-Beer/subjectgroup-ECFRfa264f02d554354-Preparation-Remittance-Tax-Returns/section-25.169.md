@@ -1,5 +1,7 @@
 ##### § 25.169 Application for employer identification number. #####
 
+Link to an amendment published at 89 FR 87943, Nov. 6, 2024.
+
 (a) *Form SS-4.* The taxpayer must obtain an employer identification number (EIN) by filing an application with the Internal Revenue Service (IRS) on IRS Form SS-4. Form SS-4 is available from the local IRS Service Center, from the IRS District Director, the IRS Web site at *http://www.irs.gov* or from TTB's National Revenue Center. The taxpayer may file this form with IRS by mail, telephone, or fax by following the instructions on the form.
 
 (b) *Time limit.* If the taxpayer has not already received, or applied for, an EIN at the time that the first return on TTB Form 5000.24, Excise Tax Return, is filed, the taxpayer must apply for an EIN not later than seven days from the date of filing the Form 5000.24.

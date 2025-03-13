@@ -1,5 +1,7 @@
 ##### § 25.251 Authorized removals. #####
 
+Link to an amendment published at 89 FR 87943, Nov. 6, 2024.
+
 (a) *Brewer's yeast.* A brewer may remove brewer's yeast, in liquid or solid form containing not less than 10 percent solids (as determined by the methods of analysis of the American Society of Brewing Chemists), from the brewery in barrels, tank trucks, in other suitable containers, or by pipeline.
 
 (b) *Containers.* Containers will bear a label giving the name and location of the brewery and including the words “Brewer's Yeast.”

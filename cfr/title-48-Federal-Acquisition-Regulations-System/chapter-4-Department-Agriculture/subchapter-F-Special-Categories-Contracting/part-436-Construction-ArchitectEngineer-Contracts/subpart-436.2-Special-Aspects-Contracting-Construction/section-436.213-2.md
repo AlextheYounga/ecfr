@@ -1,5 +1,3 @@
 ##### 436.213-2 Presolicitation notices. #####
 
-The authority to waive a presolicitation notice is restricted to the HCA.
-
-[63 FR 26995, May 15, 1998]
+The authority to waive a presolicitation notice on any construction requirement when the proposed contract is expected to exceed the simplified acquisition threshold is restricted to the HCA.

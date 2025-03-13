@@ -1,5 +1,7 @@
 ##### § 21.3 Stocks of discontinued formulas. #####
 
+Link to an amendment published at 89 FR 87940, Nov. 6, 2024.
+
 Denaturers, or specially denatured spirits dealers or users, having on hand stocks of denaturants or formulas of specially denatured spirits no longer authorized by this part may—
 
 (a) Continue to supply or use those stocks in accordance with existing permits until the stocks are exhausted;

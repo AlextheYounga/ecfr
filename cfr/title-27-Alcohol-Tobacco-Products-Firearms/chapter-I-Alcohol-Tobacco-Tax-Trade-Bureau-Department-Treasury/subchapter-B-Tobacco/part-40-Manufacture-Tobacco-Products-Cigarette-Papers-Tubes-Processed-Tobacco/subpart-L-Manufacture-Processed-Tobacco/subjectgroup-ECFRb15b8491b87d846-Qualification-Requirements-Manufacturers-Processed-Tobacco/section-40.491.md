@@ -1,5 +1,7 @@
 ##### § 40.491 Persons required to qualify. #####
 
+Link to an amendment published at 89 FR 87947, Nov. 6, 2024.
+
 (a) *General.* Except as otherwise provided in paragraph (b) of this section, every person who engages in the processing of tobacco must first qualify for and receive a permit as a manufacturer of processed tobacco in accordance with the provisions of this subpart.
 
 (b) *Exceptions.* (1) A person who engages in the processing of tobacco solely for his own personal use or consumption and not for sale or transfer to another person is not engaged in the manufacture of processed tobacco for purposes of this part and, accordingly, is not required to qualify as a manufacturer of processed tobacco.

@@ -1,5 +1,7 @@
 ##### § 70.431 Imposition of taxes; regulations. #####
 
+Link to an amendment published at 89 FR 87952, Nov. 6, 2024.
+
 (a) *Taxes.* Subchapter A of chapter 52 of the IRC imposes taxes on tobacco products, and cigarette papers and tubes manufactured in or imported into the United States. Occupational taxes are imposed by manufacturers of tobacco products, manufacturers of cigarette papers and tubes, and export warehouse proprietors. Subchapter D of chapter 78 of the Internal Revenue Code imposes a tax (equal to the internal revenue tax imposed in the United States upon the like articles of merchandise of domestic manufacture) on tobacco products, and cigarette papers and tubes of Puerto Rican and Virgin Islands manufacture brought into the United States and withdrawn for consumption or sale.
 
 (b) *Regulations.* The procedural requirements with respect to matters relating to tobacco products, cigarette papers and tubes, and processed tobacco are contained in the regulations listed below:

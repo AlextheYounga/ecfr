@@ -1,5 +1,7 @@
 ##### § 70.232 Protection for commercial transactions financing agreements. #####
 
+Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
+
 (a) *In general.* Even though a notice of a lien imposed by 26 U.S.C. 6321 is filed in accordance with § 70.148 of this part, the lien is not valid with respect to a security interest which:
 
 (1) Comes into existence after the tax lien filing.

@@ -1,5 +1,7 @@
 ##### § 71.115 Appeal on petition to the Administrator. #####
 
+Link to an amendment published at 89 FR 87952, Nov. 6, 2024.
+
 An appeal to the Administrator is required prior to application to the Federal courts for review. An appeal may be taken by the applicant or respondent or by the appropriate TTB officer. Such appeal shall be taken by filing a petition for review on appeal with the Administrator within 15 days of the service of the order disapproving an application for a permit or the initial decision suspending, revoking or annulling a permit. The petition must set forth facts tending to show action of an arbitrary nature, or action without reasonable warrant in fact, or action contrary to law and regulations. A copy of the petition shall be filed with the appropriate TTB officer or served on the respondent or applicant as the case may be. In the event of such appeal, the appropriate TTB officer shall immediately certify and forward the complete original record, by certified mail, to the Administrator, for his consideration and review.
 
 [T.D. ATF-244, 51 FR 45764, Dec. 22, 1986, as amended by T.D. ATF-374, 61 FR 29957, June 13, 1996]

@@ -1,5 +1,7 @@
 ##### § 25.55 Formulas for fermented products. #####
 
+Link to an amendment published at 89 FR 87943, Nov. 6, 2024.
+
 (a) *For what fermented products must a formula be filed?* You must file a formula for approval by TTB if you intend to produce:
 
 (1) Any fermented product that will be treated by any processing, filtration, or other method of manufacture that is not generally recognized as a traditional process in the production of a fermented beverage designated as “beer,” “ale,” “porter,” “stout,” “lager,” or “malt liquor.” For purposes of this paragraph:

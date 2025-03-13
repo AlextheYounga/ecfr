@@ -1,3 +1,3 @@
 ##### 414.407-3 Other mistakes disclosed before award. #####
 
-The authority to make the determinations under FAR 14.407-3(a), (b), and (d) is delegated, without power of redelegation, to the head of the contracting activity. The authority to make the determination under FAR 14.407-3(c) is delegated to the contracting officer. Each determination pursuant to FAR 14.407-3 shall have the concurrence of the Office of the General Counsel (OGC).
+The authority to make the determinations under FAR 14.407-3(a), (b), and (d) is delegated, without power of redelegation, to the HCA. The authority to make the determination under FAR 14.407-3(c) is delegated to the contracting officer. Each determination pursuant to FAR 14.407- 3 shall have the concurrence of the Office of the General Counsel (OGC).

@@ -1,5 +1,7 @@
 ##### § 18.51 Processing material. #####
 
+Link to an amendment published at 89 FR 87937, Nov. 6, 2024.
+
 (a) *General.* A proprietor may produce processing material or receive processing material produced elsewhere. Fermented processing material may not be used in the manufacture of concentrate. Processing material may be used if it contains no more alcohol than is reasonably unavoidable, and must be used when produced, or as soon thereafter as practicable.
 
 (b) *Record of processing material.* A proprietor shall maintain a record, by kind and quantity, of processing material used.

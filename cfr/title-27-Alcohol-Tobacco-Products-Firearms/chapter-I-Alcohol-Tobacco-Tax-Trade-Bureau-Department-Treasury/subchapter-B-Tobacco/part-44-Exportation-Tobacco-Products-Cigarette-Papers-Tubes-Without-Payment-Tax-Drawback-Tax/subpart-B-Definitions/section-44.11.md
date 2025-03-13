@@ -1,5 +1,7 @@
 ##### § 44.11 Meaning of terms. #####
 
+Link to an amendment published at 89 FR 87948, Nov. 6, 2024.
+
 When used in this part and in forms prescribed under this part, the following terms shall have the meanings given in this section, unless the context clearly indicates otherwise. Words in the plural form shall include the singular, and vice versa, and words indicating the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude things not listed which are in the same general class.
 
 *Administrator.* The Administrator, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury, Washington, DC.

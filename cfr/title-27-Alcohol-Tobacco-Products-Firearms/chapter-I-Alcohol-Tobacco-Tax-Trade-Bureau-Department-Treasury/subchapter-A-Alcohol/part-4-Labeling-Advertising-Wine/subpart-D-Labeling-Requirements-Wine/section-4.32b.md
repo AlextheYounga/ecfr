@@ -1,5 +1,7 @@
 ##### § 4.32b Petitions for exemption from major food allergen labeling. #####
 
+Link to an amendment published at 89 FR 87935, Nov. 6, 2024.
+
 (a) *Submission of petition.* Any person may petition the appropriate TTB officer to exempt a particular product or class of products from the labeling requirements of § 4.32a. The burden is on the petitioner to provide scientific evidence (including the analytical method used to produce the evidence) that demonstrates that the finished product or class of products, as derived by the method specified in the petition, either:
 
 (1) Does not cause an allergic response that poses a risk to human health; or

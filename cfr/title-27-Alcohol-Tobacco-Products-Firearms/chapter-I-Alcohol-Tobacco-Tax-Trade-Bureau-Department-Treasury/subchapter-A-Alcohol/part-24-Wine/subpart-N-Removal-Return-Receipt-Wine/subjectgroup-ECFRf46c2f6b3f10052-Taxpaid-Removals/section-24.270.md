@@ -1,5 +1,7 @@
 ##### § 24.270 Determination of tax. #####
 
+Link to an amendment published at 89 FR 87942, Nov. 6, 2024.
+
 (a) *General.* The tax on wine is determined at the time of removal from a bonded wine premises for consumption or sale. Section 5041 of 26 U.S.C., imposes an excise tax, at the rates prescribed, on all wine (including imitation, substandard, or artificial wine, and compounds sold as wine, which contain 24 percent or less of alcohol by volume) produced in or imported into the United States. Wine containing more than 24 percent of alcohol by volume is classified as distilled spirits and taxed accordingly. A wine product containing less than one-half of one percent alcohol by volume is not taxable as wine when removed from the bonded wine premises.
 
 (b) *Tax determined and paid on the volume of wine.* The tax is determined and paid on the volume of wine:

@@ -1,5 +1,7 @@
 ##### § 25.211 Beer returned to brewery. #####
 
+Link to an amendment published at 89 FR 87943, Nov. 6, 2024.
+
 (a) *General.* Beer, produced in the United States, on which the brewer has paid or determined the tax may be returned to any brewery of the brewer. Upon return of the beer to the brewery, the brewer shall determine the actual quantity of beer received, expressed in barrels. For cases or bottles, the label may be used to determine the quantity. When kegs or cases containing less than the original contents are received, the brewer shall determine the actual quantity of beer by weight or by other accurate means. The brewer shall determine the balling and alcohol content of returned keg beer unless the keg is equipped with tamper-proof fittings. The quantity of beer returned may be established by weighing individual packages and subtracting package weight, or by weighing accumulated beer and subtracting tare weight of dumpsters, pallets, packages and the like.
 
 (b) *Disposition of returned beer.* The brewer may dispose of beer returned under this subpart in any manner prescribed for beer which has never left the brewery. If returned beer is again removed for consumption or sale, tax will be determined and paid without respect to the tax which was determined or paid at the time of prior removal of the beer.

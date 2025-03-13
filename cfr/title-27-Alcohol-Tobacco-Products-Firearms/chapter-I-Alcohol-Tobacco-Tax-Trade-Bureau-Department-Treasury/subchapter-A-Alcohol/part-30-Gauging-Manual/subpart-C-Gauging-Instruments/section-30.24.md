@@ -1,5 +1,7 @@
 ##### § 30.24 Specific gravity hydrometers. #####
 
+Link to an amendment published at 89 FR 87946, Nov. 6, 2024.
+
 (a) The specific gravity hydrometers furnished by proprietors to appropriate TTB officers shall conform to the standard specifications of the American Society for Testing and Materials (ASTM) for such instruments. Such specific gravity hydrometers shall be of a precision grade, standardization temperature 60 °/60 °F., and provided in the following ranges and subdivisions:
 
 |     Range      |Subdivision|

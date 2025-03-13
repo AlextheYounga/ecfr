@@ -1,5 +1,7 @@
 ##### § 24.250 Application for use of new treating material or process. #####
 
+Link to an amendment published at 89 FR 87942, Nov. 6, 2024.
+
 (a) *General.* If the proprietor desires to use a material or process which is not specifically authorized in §§ 24.246, 24.247, 24.248, or elsewhere in this part, an application shall be filed with the appropriate TTB officer to show that the proposed material or process is a cellar treatment consistent with good commercial practice.
 
 (b) *Data required.* The application must include documentary evidence from the U.S. Food and Drug Administration that the material is consistent with the food additive requirements under the Federal Food, Drug, and Cosmetic Act for its intended purpose in the amounts proposed for the particular treatment contemplated.

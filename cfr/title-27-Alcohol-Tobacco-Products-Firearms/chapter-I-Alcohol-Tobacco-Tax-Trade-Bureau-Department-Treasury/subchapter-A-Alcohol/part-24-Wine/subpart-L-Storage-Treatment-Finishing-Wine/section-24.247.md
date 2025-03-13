@@ -1,5 +1,7 @@
 ##### § 24.247 Materials authorized for the treatment of distilling material. #####
 
+Link to an amendment published at 89 FR 87942, Nov. 6, 2024.
+
 The materials listed in this section as well as the materials listed in § 24.246 are approved as being acceptable in good commercial practice for use by proprietors in the treatment of distilling material within the limitations specified in this section. If, however, the U.S. Food and Drug Administration (FDA) informs TTB that a specified use or limitation of any material listed in this section is inconsistent with the food additive requirements under the Federal Food, Drug, and Cosmetic Act, the appropriate TTB officer may cancel or amend the approval for use of the material in the treatment of distilling material.
 
 |                         Materials                         |                                                                                                                   Use                                                                                                                   |                                                                                                                   Reference or limitation                                                                                                                   |

@@ -4,8 +4,8 @@
 
 (b) The SPE is also responsible for review and issuance of unpublished, Department-wide internal guidance under the AGAR System.
 
-(c) HCA's are responsible for establishment and implementation of formal procedures for oversight and control of unpublished internal guidance issued within the contracting activity to implement FAR or AGAR requirements. These procedures shall be subject to the review and approval by the SPE.
+(c) The Mission Area senior contracting official is responsible for establishment and implementation of formal procedures for oversight and control of unpublished internal guidance issued within the contracting activity to implement FAR or AGAR requirements. These procedures shall be subject to the review and approval by the SPE.
 
-(d) The SPE is responsible for evaluating coverage under the AGAR System to determine applicability to other agencies and for recommending coverage to the FAR Secretariat for inclusion in the FAR.
+(d) The SPE is responsible for evaluating coverage under the AGAR system to determine applicability to other agencies and for recommending coverage to the FAR Secretariat for inclusion in the FAR.
 
-(e) Recommendations for revision of existing FAR coverage or new FAR coverage shall be submitted by the HCA to the SPE for further action.
+(e) Recommendations for revision of existing FAR coverage or new FAR coverage shall be submitted by the Mission Area senior contracting official to the SPE for further action.
