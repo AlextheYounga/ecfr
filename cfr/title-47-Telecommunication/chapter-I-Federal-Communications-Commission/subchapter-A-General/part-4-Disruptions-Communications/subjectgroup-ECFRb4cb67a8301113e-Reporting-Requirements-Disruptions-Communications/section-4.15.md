@@ -28,4 +28,4 @@
 
 (c) *Confidentiality.* Reports filed under this part will be presumed to be confidential. Public access to reports filed under this part may be sought only pursuant to the procedures set forth in 47 CFR 0.461. Notice of any requests for inspection of outage reports will be provided pursuant to 47 CFR 0.461(d)(3).
 
-[81 FR 52363, Aug. 8, 2016, as amended at 85 FR 15740, Mar. 19, 2020; 86 FR 22361, Apr. 28, 2021]Effective Date Note:At 81 FR 52363, Aug. 8, 2016, § 4.15 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 52363, Aug. 8, 2016, as amended at 85 FR 15740, Mar. 19, 2020; 86 FR 22361, Apr. 28, 2021]

@@ -1,5 +1,7 @@
 ##### § 2634.703 Misuse of public reports. #####
 
+Link to an amendment published at 89 FR 1440, Jan. 10, 2024.
+
 (a) The Attorney General may bring a civil action against any person who obtains or uses a report filed under this part for any purpose prohibited by section 105(c)(1) of the Act, as incorporated in § 2634.603(f). The court in which the action is brought may assess against the person a civil monetary penalty in any amount, not to exceed the amounts set forth in Table 1 to this section, as provided by section 105(c)(2) of the Act and as adjusted in accordance with the inflation adjustment procedures prescribed in the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended.
 
 Table 1 to § 2634.703

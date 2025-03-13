@@ -1,5 +1,7 @@
 ##### § 73.3580 Local public notice of filing of broadcast applications. #####
 
+Link to an amendment published at 89 FR 1477, Jan. 10, 2024.
+
 (a) *Definitions.* The following definitions shall apply to this section:
 
 (1) *Acceptance public notice.* A Commission public notice announcing that an application has been accepted for filing.

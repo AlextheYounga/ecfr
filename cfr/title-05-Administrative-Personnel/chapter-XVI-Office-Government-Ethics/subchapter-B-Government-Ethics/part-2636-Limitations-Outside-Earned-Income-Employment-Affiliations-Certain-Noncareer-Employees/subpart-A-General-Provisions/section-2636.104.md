@@ -1,5 +1,7 @@
 ##### § 2636.104 Civil, disciplinary and other action. #####
 
+Link to an amendment published at 89 FR 1441, Jan. 10, 2024.
+
 (a) *Civil action.* Except when the employee engages in conduct in good faith reliance upon an advisory opinion issued under § 2636.103, an employee who engages in any conduct in violation of the prohibitions, limitations, and restrictions contained in this part may be subject to civil action under section 504(a) of the Ethics in Government Act, as amended, and a civil monetary penalty of not more than the amounts set in Table 1 to this section, as adjusted in accordance with the inflation adjustment procedures prescribed in the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended, or the amount of the compensation the individual received for the prohibited conduct, whichever is greater.
 
 Table 1 to § 2636.104

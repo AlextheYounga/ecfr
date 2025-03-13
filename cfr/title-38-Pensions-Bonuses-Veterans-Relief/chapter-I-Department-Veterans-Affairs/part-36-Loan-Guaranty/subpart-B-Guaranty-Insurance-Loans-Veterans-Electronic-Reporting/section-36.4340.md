@@ -68,35 +68,25 @@
 
 (1) *Table of residual incomes by region (for loan amounts of $79,999 and below):*
 
-Table of Residual Incomes by Region
-
-[For loan amounts of $79,999 and below]
-
-|Family size<sup>1</sup>|Northeast|Midwest|South|West |
-|-----------------------|---------|-------|-----|-----|
-|           1           |   390   |  382  | 382 | 425 |
-|           2           |   654   |  641  | 641 | 713 |
-|           3           |   788   |  772  | 772 | 859 |
-|           4           |   888   |  868  | 868 | 967 |
-|           5           |   921   |  902  | 902 |1,004|
-
-<sup>1</sup> For families with more than five members, add $75 for each additional member up to a family of seven. “Family” includes all members of the household.
+|                                                                     Family size <sup>1</sup>                                                                     |Northeast|Midwest|South|West |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|-------|-----|-----|
+|                                                                                1                                                                                 |   390   |  382  | 382 | 425 |
+|                                                                                2                                                                                 |   654   |  641  | 641 | 713 |
+|                                                                                3                                                                                 |   788   |  772  | 772 | 859 |
+|                                                                                4                                                                                 |   888   |  868  | 868 | 967 |
+|                                                                                5                                                                                 |   921   |  902  | 902 |1,004|
+|<sup>1</sup> For families with more than five members, add $75 for each additional member up to a family of seven. “Family” includes all members of the household.|         |       |     |     |
 
 (2) *Table of residual incomes by region (for loan amounts of $80,000 and above):*
 
-Table of Residual Incomes by Region
-
-[For loan amounts of $80,000 and above]
-
-|Family size<sup>1</sup>|Northeast|Midwest|South|West |
-|-----------------------|---------|-------|-----|-----|
-|           1           |   450   |  441  | 441 | 491 |
-|           2           |   755   |  738  | 738 | 823 |
-|           3           |   909   |  889  | 889 | 990 |
-|           4           |  1,025  | 1,003 |1,003|1,117|
-|           5           |  1,062  | 1,039 |1,039|1,158|
-
-<sup>1</sup> For families with more than five members, add $80 for each additional member up to a family of seven. “Family” includes all members of the household.
+|                                                                     Family size <sup>1</sup>                                                                     |Northeast|Midwest|South|West |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|-------|-----|-----|
+|                                                                                1                                                                                 |   450   |  441  | 441 | 491 |
+|                                                                                2                                                                                 |   755   |  738  | 738 | 823 |
+|                                                                                3                                                                                 |   909   |  889  | 889 | 990 |
+|                                                                                4                                                                                 |  1,025  | 1,003 |1,003|1,117|
+|                                                                                5                                                                                 |  1,062  | 1,039 |1,039|1,158|
+|<sup>1</sup> For families with more than five members, add $80 for each additional member up to a family of seven. “Family” includes all members of the household.|         |       |     |     |
 
 (3) *Geographic regions for residual income guidelines:* Northeast—Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island and Vermont; Midwest—Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota and Wisconsin; South—Alabama, Arkansas, Delaware, District of Columbia, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, Puerto Rico, South Carolina, Tennessee, Texas, Virginia, West Virginia; West—Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington and Wyoming.
 
@@ -222,7 +212,7 @@ Table of Residual Incomes by Region
 
 (1) *Definitions.* The definitions contained in part 42 of this chapter and the following definitions are applicable in this section.
 
-(i) *Another appropriate amount.* In determining the appropriate amount of a lender's civil penalty in cases where the Secretary has not sustained a loss or where two times the amount of the Secretary's loss on the loan involved does not exceed $27,018, the Secretary shall consider:
+(i) *Another appropriate amount.* In determining the appropriate amount of a lender's civil penalty in cases where the Secretary has not sustained a loss or where two times the amount of the Secretary's loss on the loan involved does not exceed $27,894, the Secretary shall consider:
 
 (A) The materiality and importance of the false certification to the determination to issue the guaranty or to approve the assumption;
 
@@ -242,7 +232,7 @@ The undersigned lender certifies that the (loan) (assumption) application, all v
 
 (ii) The certification shall be executed by an officer of the lender authorized to execute documents and act on behalf of the lender.
 
-(3) *Penalty.* Any lender who knowingly and willfully makes a false certification required pursuant to § 36.4340(k)(2) shall be liable to the United States Government for a civil penalty equal to two times the amount of the Secretary's loss on the loan involved or to another appropriate amount, not to exceed $27,018, whichever is greater.
+(3) *Penalty.* Any lender who knowingly and willfully makes a false certification required pursuant to § 36.4340(k)(2) shall be liable to the United States Government for a civil penalty equal to two times the amount of the Secretary's loss on the loan involved or to another appropriate amount, not to exceed $27,894, whichever is greater.
 
 (l) *Assessment of liability.* (1) Upon an assessment confirmed by the Under Secretary for Benefits, in consultation with the Investigating Official, that a certification, as required in this section, is false, a report of findings of the Under Secretary for Benefits shall be submitted to the Reviewing Official setting forth:
 
@@ -268,4 +258,4 @@ The undersigned lender certifies that the (loan) (assumption) application, all v
 
 (n) *Additional remedies.* Any assessment under this section may be in addition to other remedies available to VA, such as debarment and suspension pursuant to 38 U.S.C. 3704 and 2 CFR parts 180 and 801 or loss of automatic processing authority pursuant to 38 U.S.C. 3702, or other actions by the Government under any other law including but not limited to title 18 U.S.C. and 31 U.S.C. 3732.
 
-(The Office of Management and Budget has approved the information collection requirements of this section under control number 2900-0521)(Authority: 28 U.S.C. 2461; 38 U.S.C. 3710)[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 79 FR 26628, May 9, 2014; 80 FR 34319, June 16, 2015; 81 FR 40525, June 22, 2016; 83 FR 8946, Mar. 2, 2018; 84 FR 537, Jan. 31, 2019; 85 FR 7232, Feb. 7, 2020; 86 FR 7813, Feb. 2, 2021; 87 FR 3226, Jan. 21, 2022; 88 FR 986, Jan. 6, 2023; 88 FR 2538, Jan. 17, 2023]
+(The Office of Management and Budget has approved the information collection requirements of this section under control number 2900-0521)(Authority: 28 U.S.C. 2461; 38 U.S.C. 3710)[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 79 FR 26628, May 9, 2014; 80 FR 34319, June 16, 2015; 81 FR 40525, June 22, 2016; 83 FR 8946, Mar. 2, 2018; 84 FR 537, Jan. 31, 2019; 85 FR 7232, Feb. 7, 2020; 86 FR 7813, Feb. 2, 2021; 87 FR 3226, Jan. 21, 2022; 88 FR 986, Jan. 6, 2023; 88 FR 2538, Jan. 17, 2023; 89 FR 1460, Jan. 10, 2024]
