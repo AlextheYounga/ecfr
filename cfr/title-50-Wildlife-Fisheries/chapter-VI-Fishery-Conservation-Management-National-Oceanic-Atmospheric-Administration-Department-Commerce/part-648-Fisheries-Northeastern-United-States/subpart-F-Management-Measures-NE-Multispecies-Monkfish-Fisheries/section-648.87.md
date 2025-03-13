@@ -10,7 +10,7 @@
 
 (b) *General requirements applicable to all approved Sectors.* (1) All sectors approved under the provisions of paragraph (a) of this section must submit the documents specified in paragraphs (a)(1) and (b)(2) and (3) of this section, comply with the conditions and restrictions of this paragraph (b)(1), and comply with the groundfish sector monitoring program in § 648.11(l).
 
-(i) *TAC allocation*—(A) *Allocated stocks.* Each sector shall be allocated a TAC in the form of an ACE for each NE multispecies stock, with the exception of Atlantic halibut, ocean pout, windowpane flounder (both the GOM/GB and the SNE/MA stocks), and Atlantic wolffish based upon the cumulative PSCs of vessels/permits participating in each sector during a particular fishing year, as described in paragraph (b)(1)(i)(E) of this section.
+(i) *TAC allocation*—(A) *Allocated stocks.* Each sector shall be allocated a TAC in the form of an ACE for each NE multispecies stock, with the exception of Atlantic halibut, ocean pout, windowpane flounder (both the northern and southern stocks), and Atlantic wolffish based upon the cumulative PSCs of vessels/permits participating in each sector during a particular fishing year, as described in paragraph (b)(1)(i)(E) of this section.
 
 (B) *Eastern GB stocks*—(*1*) *Allocation.* Each sector allocated ACE for stocks managed under the terms of the U.S./Canada Resource Sharing Understanding in the Eastern U.S./Canada Area, as specified in § 648.85(a), shall be allocated a specific portion of the ACE for such stocks that can only be harvested from the Eastern U.S./Canada Area, as specified in § 648.85(a)(1). The ACE specified for the Eastern U.S./Canada Area portions of these stocks shall be proportional to the sector's allocation of the overall ACL available to all vessels issued a limited access NE multispecies permit for these stocks pursuant to § 648.90(a)(4). For example, if a sector is allocated 10 percent of the GB cod ACL available to all vessels issued a limited access NE multispecies permit, that sector would also be allocated and may harvest 10 percent of that ACE from the Eastern U.S./Canada Area. In this example, if the overall GB cod ACL available to all vessels issued a limited access NE multispecies permit is 1,000 mt, of which 100 mt is specified to the Eastern U.S./Canada Area, the sector would be allocated 100 mt of GB cod, of which no more than 10 mt could be harvested from the Eastern U.S./Canada Area and no more than 90 mt could be harvested from the rest of the GB cod stock area.
 
@@ -48,127 +48,96 @@
 
 (A) *CC/GOM Yellowtail Flounder Stock Area.* The CC/GOM Yellowtail Flounder Stock Area, for the purposes of identifying stock areas for trip limits specified in § 648.86, and for determining areas applicable to sector allocations of CC/GOM yellowtail flounder ACE pursuant to paragraph (b) of this section, is defined as the area bounded on the north and west by the coastline of the United States, on the east by the U.S./Canadian maritime boundary, and on the south by rhumb lines connecting the following points in the order stated:
 
-CC/GOM Yellowtail Flounder Stock Area
-
-|Point| N. Latitude  | W. Longitude |
-|-----|--------------|--------------|
-|  1  |(<sup>1</sup>)|   70° 00′    |
-|  2  |(<sup>2</sup>)|   70° 00′    |
-|  3  |   41° 20′    |(<sup>3</sup>)|
-|  4  |   41° 20′    |   69° 50′    |
-|  5  |   41° 10′    |   69° 50′    |
-|  6  |   41° 10′    |   69° 30′    |
-|  7  |   41° 00′    |   69° 30′    |
-|  8  |   41° 00′    |   68° 50′    |
-|  9  |   42° 20′    |   68° 50′    |
-| 10  |   42° 20′    |(<sup>4</sup>)|
-
-<sup>1</sup> Intersection of south-facing coastline of Cape Cod, MA, and 70° 00′ W. long.
-
-<sup>2</sup> Intersection of north-facing coastline of Nantucket, MA, and 70° 00′ W. long.
-
-<sup>3</sup> Intersection of east-facing coastline of Nantucket, MA, and 41° 20′ N. lat.
-
-<sup>4</sup> U.S./Canada maritime boundary.
+|                                          Point                                           | N. Latitude  | W. Longitude |
+|------------------------------------------------------------------------------------------|--------------|--------------|
+|                                            1                                             |(<sup>1</sup>)|   70° 00′    |
+|                                            2                                             |(<sup>2</sup>)|   70° 00′    |
+|                                            3                                             |   41° 20′    |(<sup>3</sup>)|
+|                                            4                                             |   41° 20′    |   69° 50′    |
+|                                            5                                             |   41° 10′    |   69° 50′    |
+|                                            6                                             |   41° 10′    |   69° 30′    |
+|                                            7                                             |   41° 00′    |   69° 30′    |
+|                                            8                                             |   41° 00′    |   68° 50′    |
+|                                            9                                             |   42° 20′    |   68° 50′    |
+|                                            10                                            |   42° 20′    |(<sup>4</sup>)|
+|<sup>1</sup> Intersection of south-facing coastline of Cape Cod, MA, and 70° 00′ W. long. |              |              |
+|<sup>2</sup> Intersection of north-facing coastline of Nantucket, MA, and 70° 00′ W. long.|              |              |
+| <sup>3</sup> Intersection of east-facing coastline of Nantucket, MA, and 41° 20′ N. lat. |              |              |
+|                       <sup>4</sup> U.S./Canada maritime boundary.                        |              |              |
 
 (B) *SNE/MA Yellowtail Flounder Stock Area.* The SNE/MA Yellowtail Flounder Stock Area, for the purposes of identifying stock areas for trip limits specified in § 648.86, and for determining areas applicable to sector allocations of SNE/MA yellowtail flounder ACE pursuant to paragraph (b) of this section, is the area bounded by rhumb lines connecting the following points in the order stated:
 
-SNE/MA Yellowtail Flounder Stock Area
-
-|Point| N. Latitude  | W. Longitude |
-|-----|--------------|--------------|
-|  1  |   35° 00′    |(<sup>1</sup>)|
-|  2  |   35° 00′    |(<sup>2</sup>)|
-|  3  |   39° 00′    |(<sup>2</sup>)|
-|  4  |   39° 00′    |   69° 00′    |
-|  5  |   39° 50′    |   69° 00′    |
-|  7  |   39° 50′    |   68° 50′    |
-|  8  |   41° 00′    |   68° 50′    |
-|  9  |   41° 00′    |   69° 30′    |
-| 10  |   41° 10′    |   69° 30′    |
-| 11  |   41° 10′    |   69° 50′    |
-| 12  |   41° 20′    |   69° 50′    |
-| 13  |   41° 20′    |(<sup>3</sup>)|
-| 14  |(<sup>4</sup>)|   70° 00′    |
-| 15  |(<sup>5</sup>)|   70° 00′    |
-
-<sup>1</sup> Intersection of east-facing coastline of Outer Banks, NC, and 35° 00′ N. lat.
-
-<sup>2</sup> U.S./Canada maritime boundary.
-
-<sup>3</sup> Intersection of east-facing coastline of Nantucket, MA, and 41° 20′ N. lat.
-
-<sup>4</sup> Intersection of north-facing coastline of Nantucket, MA, and 70° 00′ W. long.
-
-<sup>5</sup> Intersection of south-facing coastline of Cape Cod, MA, and 70° 00′ W. long.
+|                                          Point                                           | N. Latitude  | W. Longitude |
+|------------------------------------------------------------------------------------------|--------------|--------------|
+|                                            1                                             |   35° 00′    |(<sup>1</sup>)|
+|                                            2                                             |   35° 00′    |(<sup>2</sup>)|
+|                                            3                                             |   39° 00′    |(<sup>2</sup>)|
+|                                            4                                             |   39° 00′    |   69° 00′    |
+|                                            5                                             |   39° 50′    |   69° 00′    |
+|                                            7                                             |   39° 50′    |   68° 50′    |
+|                                            8                                             |   41° 00′    |   68° 50′    |
+|                                            9                                             |   41° 00′    |   69° 30′    |
+|                                            10                                            |   41° 10′    |   69° 30′    |
+|                                            11                                            |   41° 10′    |   69° 50′    |
+|                                            12                                            |   41° 20′    |   69° 50′    |
+|                                            13                                            |   41° 20′    |(<sup>3</sup>)|
+|                                            14                                            |(<sup>4</sup>)|   70° 00′    |
+|                                            15                                            |(<sup>5</sup>)|   70° 00′    |
+|<sup>1</sup> Intersection of east-facing coastline of Outer Banks, NC, and 35° 00′ N. lat.|              |              |
+|                       <sup>2</sup> U.S./Canada maritime boundary.                        |              |              |
+| <sup>3</sup> Intersection of east-facing coastline of Nantucket, MA, and 41° 20′ N. lat. |              |              |
+|<sup>4</sup> Intersection of north-facing coastline of Nantucket, MA, and 70° 00′ W. long.|              |              |
+|<sup>5</sup> Intersection of south-facing coastline of Cape Cod, MA, and 70° 00′ W. long. |              |              |
 
 (C) *GOM Haddock Stock Area.* The GOM Haddock Stock Area, for the purposes of identifying stock areas for trip limits specified in § 648.86 and for determining areas applicable to sector allocations of GOM haddock ACE pursuant to paragraph (b) of this section, is defined as the area bounded on the north and west by the coastline of the United States, on the east by the U.S./Canadian maritime boundary, and on the south by straight lines connecting the following points in the order stated:
 
-GOM Haddock Stock Area
-
-|Point| N. Latitude  | W. Longitude |
-|-----|--------------|--------------|
-|  1  |(<sup>1</sup>)|   70° 00′    |
-|  2  |   42° 20′    |   70° 00′    |
-|  3  |   42° 20′    |   67° 40′    |
-|  4  |(<sup>2</sup>)|   67° 40′    |
-|  5  |(<sup>3</sup>)|   67° 40′    |
-|  6  |   43° 50′    |   67° 40′    |
-|  7  |   43° 50′    |(<sup>4</sup>)|
-|  8  |(<sup>4</sup>)|   67° 00′    |
-|  9  |(<sup>5</sup>)|   67° 00′    |
-
-<sup>1</sup> Intersection of the north-facing coastline of Cape Cod, MA, and 70° 00′ W. long.
-
-<sup>2</sup> U.S./Canada maritime boundary southern intersection with 67° 40′ W. long.).
-
-<sup>3</sup> U.S./Canada maritime boundary northern intersection with 67° 40′ W. long.).
-
-<sup>4</sup> U.S./Canada maritime boundary.
-
-<sup>5</sup> Intersection of the south-facing ME coastline and 67° 00′ W. long.
+|                                            Point                                            | N. Latitude  | W. Longitude |
+|---------------------------------------------------------------------------------------------|--------------|--------------|
+|                                              1                                              |(<sup>1</sup>)|   70° 00′    |
+|                                              2                                              |   42° 20′    |   70° 00′    |
+|                                              3                                              |   42° 20′    |   67° 40′    |
+|                                              4                                              |(<sup>2</sup>)|   67° 40′    |
+|                                              5                                              |(<sup>3</sup>)|   67° 40′    |
+|                                              6                                              |   43° 50′    |   67° 40′    |
+|                                              7                                              |   43° 50′    |(<sup>4</sup>)|
+|                                              8                                              |(<sup>4</sup>)|   67° 00′    |
+|                                              9                                              |(<sup>5</sup>)|   67° 00′    |
+|<sup>1</sup> Intersection of the north-facing coastline of Cape Cod, MA, and 70° 00′ W. long.|              |              |
+|  <sup>2</sup> U.S./Canada maritime boundary southern intersection with 67° 40′ W. long.).   |              |              |
+|  <sup>3</sup> U.S./Canada maritime boundary northern intersection with 67° 40′ W. long.).   |              |              |
+|                         <sup>4</sup> U.S./Canada maritime boundary.                         |              |              |
+|       <sup>5</sup> Intersection of the south-facing ME coastline and 67° 00′ W. long.       |              |              |
 
 (D) *GB Haddock Stock Area.* The GB Haddock Stock Area, for the purposes of identifying stock areas for trip limits specified in § 648.86 and for determining areas applicable to sector allocations of GB haddock ACE pursuant to paragraph (b) of this section, is defined as the area bounded on the west by the coastline of the United States, on the south by a line running from the east-facing coastline of North Carolina at 35° N. lat. until its intersection with the EEZ, on the east by the U.S./Canadian maritime boundary, and bounded on the north by straight lines connecting the following points in the order stated:
 
-GB Haddock Stock Area
-
-|Point| N. Latitude  | W. Longitude |
-|-----|--------------|--------------|
-|  1  |(<sup>1</sup>)|   70° 00′    |
-|  2  |   42° 20′    |   70° 00′    |
-|  3  |   42° 20′    |(<sup>2</sup>)|
-
-<sup>1</sup> Intersection of the north-facing coastline of Cape Cod, MA, and 70° 00′ W. long.
-
-<sup>2</sup> U.S./Canada maritime boundary.
+|                                            Point                                            | N. Latitude  | W. Longitude |
+|---------------------------------------------------------------------------------------------|--------------|--------------|
+|                                              1                                              |(<sup>1</sup>)|   70° 00′    |
+|                                              2                                              |   42° 20′    |   70° 00′    |
+|                                              3                                              |   42° 20′    |(<sup>2</sup>)|
+|<sup>1</sup> Intersection of the north-facing coastline of Cape Cod, MA, and 70° 00′ W. long.|              |              |
+|                         <sup>2</sup> U.S./Canada maritime boundary.                         |              |              |
 
 (E) *Redfish Stock Area.* The Redfish Stock Area, for the purposes of identifying stock areas for trip limits specified in § 648.86 and for determining areas applicable to sector allocations of redfish ACE pursuant to paragraph (b) of this section, is defined as the area bounded on the north and west by the coastline of the United States, on the east by the U.S./Canadian maritime boundary, and bounded on the south by a rhumb line running from the east-facing coastline of North Carolina at 35° N. lat. until its intersection with the EEZ.
 
 (F) *GOM Winter Flounder Stock Area.* The GOM Winter Flounder Stock Area, for the purposes of identifying stock areas for trip limits specified in § 648.86 and for determining areas applicable to sector allocations of GOM winter flounder ACE pursuant to paragraph (b) of this section, is the area bounded by straight lines connecting the following points in the order stated:
 
-GOM Winter Flounder Stock Area
-
-|Point| N. Latitude  |W. Longitude|
-|-----|--------------|------------|
-|  1  |(<sup>1</sup>)|   70°00′   |
-|  2  |    42°20′    |   70°00′   |
-|  3  |    42°20′    |   67°40′   |
-|  4  |(<sup>2</sup>)|   67°40′   |
-|  5  |(<sup>3</sup>)|   67°40′   |
-|  6  |    43°50′    |   67°40′   |
-|  7  |    43°50′    |<sup>4</sup>|
-|  8  |(<sup>4</sup>)|   67°00′   |
-|  9  |(<sup>5</sup>)|   67°00′   |
-
-(<sup>1</sup>) Intersection of the north-facing coastline of Cape Cod, MA, and 70°00′ W. long.
-
-(<sup>2</sup>) U.S./Canada maritime boundary (southern intersection with 67°40′ N. lat.)
-
-(<sup>3</sup>) U.S./Canada maritime boundary (northern intersection with 67°40′ N. lat.)
-
-(<sup>4</sup>) U.S./Canada maritime boundary.
-
-(<sup>5</sup>) Intersection of the south-facing ME coastline and 67°00′ W. long.
+|                                            Point                                             | N. Latitude  |W. Longitude|
+|----------------------------------------------------------------------------------------------|--------------|------------|
+|                                              1                                               |(<sup>1</sup>)|   70°00′   |
+|                                              2                                               |    42°20′    |   70°00′   |
+|                                              3                                               |    42°20′    |   67°40′   |
+|                                              4                                               |(<sup>2</sup>)|   67°40′   |
+|                                              5                                               |(<sup>3</sup>)|   67°40′   |
+|                                              6                                               |    43°50′    |   67°40′   |
+|                                              7                                               |    43°50′    |<sup>4</sup>|
+|                                              8                                               |(<sup>4</sup>)|   67°00′   |
+|                                              9                                               |(<sup>5</sup>)|   67°00′   |
+|(<sup>1</sup>) Intersection of the north-facing coastline of Cape Cod, MA, and 70°00′ W. long.|              |            |
+|   (<sup>2</sup>) U.S./Canada maritime boundary (southern intersection with 67°40′ N. lat.)   |              |            |
+|   (<sup>3</sup>) U.S./Canada maritime boundary (northern intersection with 67°40′ N. lat.)   |              |            |
+|                        (<sup>4</sup>) U.S./Canada maritime boundary.                         |              |            |
+|       (<sup>5</sup>) Intersection of the south-facing ME coastline and 67°00′ W. long.       |              |            |
 
 (iii) *Sector AMs.* At the end of the fishing year, NMFS shall evaluate sector catch using VTR, VMS, IVR, and any other available information to determine whether a sector has exceeded any of its ACE allocations based upon the cumulative catch by participating permits/vessels, as identified in the final operations plan approved by the Regional Administrator pursuant to paragraph (c) of this section, and each sector's share of any overage of the overall ACL for any stock caused by excessive catch by other sub-components of the fishery pursuant to § 648.90(a)(5), if necessary. Should an ACE allocated to a sector be exceeded in a given fishing year, the sector's ACE shall be reduced by the overage on a pound-for-pound basis during the following fishing year, and the sector, each vessel, vessel operator and/or vessel owner participating in the sector may be charged, as a result of said overages, jointly and severally for civil penalties and permit sanctions pursuant to 15 CFR part 904. If an ACE allocated to a sector is not exceeded in a given fishing year pursuant to this paragraph (b)(1)(iii), the sector's ACE allocation shall not be reduced for the following fishing year as a result of an overage of an ACE by non-compliant sectors or an overage of sub-ACLs allocated to common pool vessels, but may be reduced if the excessive catch of a particular stock by other sub-components of the fishery causes the overall ACL of a particular stock to be exceeded pursuant to § 648.90(a)(5). If declining stock conditions result in a need to reduce fishing mortality, and all sectors and common pool vessels have operated within their ACE or sub-ACL limits, a sector's percentage share shall not be changed, but the amount this share represents may be reduced due to reduced overall ACL for a particular stock. If stock conditions improve, and certain sectors stay within their ACE while other sectors or the common pool exceed their respective ACEs or sub-ACLs, the sectors that stay within their ACEs shall receive a temporary increase in ACE equal to the amount that other sectors or the common pool exceeded their ACE or sub-ACL, divided among such sectors proportional to each sector's share of the ACL available to vessels issued a limited access NE multispecies permit.
 
@@ -250,21 +219,8 @@ GOM Winter Flounder Stock Area
 
 (2) If a sector is approved, the Regional Administrator shall issue a letter of authorization to each vessel operator and/or vessel owner participating in the sector. The letter of authorization shall authorize participation in the sector operations and may exempt participating vessels from any Federal fishing regulation implementing the NE multispecies FMP, except those specified in paragraphs (c)(2)(i) and (ii) of this section, in order to allow vessels to fish in accordance with an approved operations plan, provided such exemptions are consistent with the goals and objectives of the FMP. The letter of authorization may also include requirements and conditions deemed necessary to ensure effective administration of, and compliance with, the operations plan and the sector allocation. Solicitation of public comment on, and NMFS final determination on such exemptions shall be consistent with paragraphs (c)(1) and (2) of this section.
 
-(i) *Regulations that may not be exempted for sector participants.* The Regional Administrator may not exempt participants in a sector from the following Federal fishing regulations: Specific times and areas within the NE multispecies year-round closure areas; permitting restrictions (*e.g.,* vessel upgrades, etc.); gear restrictions designed to minimize habitat impacts (*e.g.,* roller gear restrictions, etc.); reporting requirements; and AMs specified in § 648.90(a)(5)(i)(D). For the purposes of this paragraph (c)(2)(i), the DAS reporting requirements specified in § 648.82, the SAP-specific reporting requirements specified in § 648.85, VMS requirements for Handgear A category permitted vessels as specified in § 648.10, and the reporting requirements associated with a dockside monitoring program are not considered reporting requirements, and the Regional Administrator may exempt sector participants from these requirements as part of the approval of yearly operations plans. For the purpose of this paragraph (c)(2)(i), the Regional Administrator may not grant sector participants exemptions from the NE multispecies year-round closures areas defined as Habitat Management Areas as defined in § 648.370; Closed Area I North and Closed Area II, as defined in § 648.81(c)(3) and (4), respectively, during the period February 16 through April 30; and the Western GOM Closure Area, as defined at § 648.81(a)(4), where it overlaps with GOM Cod Protection Closures I through III, as defined in § 648.81(d)(4). This list may be modified through a framework adjustment, as specified in § 648.90.
-
-(A) *Fippennies Ledge Area.* The Fippennies Ledge Area is bounded by the following coordinates, connected by straight lines in the order listed:
-
-Fippennies Ledge Area
-
-|Point|N. latitude|W. longitude|
-|-----|-----------|------------|
-|  1  | 42°50.0′  |  69°17.0′  |
-|  2  | 42°44.0′  |  69°14.0′  |
-|  3  | 42°44.0′  |  69°18.0′  |
-|  4  | 42°50.0′  |  69°21.0′  |
-|  1  | 42°50.0′  |  69°17.0′  |
-
-(B) [Reserved]
+(i) *Regulations that may not be exempted for sector participants.* The Regional Administrator may not exempt participants in a sector from the following Federal fishing regulations: Specific times and areas within the NE multispecies year-round closure areas; permitting restrictions (*e.g.,* vessel upgrades, etc.); gear restrictions designed to minimize habitat impacts (*e.g.,* roller gear restrictions, etc.); reporting requirements; and AMs specified in § 648.90(a)(5)(i)(D) through (H).
+For the purposes of this paragraph (c)(2)(i), the DAS reporting requirements specified in § 648.82, the SAP-specific reporting requirements specified in § 648.85, VMS requirements for Handgear A category permitted vessels as specified in § 648.10, and the reporting requirements associated with a dockside monitoring program are not considered reporting requirements, and the Regional Administrator may exempt sector participants from these requirements as part of the approval of yearly operations plans. For the purpose of this paragraph (c)(2)(i), the Regional Administrator may not grant sector participants exemptions from the NE multispecies year-round closures areas defined as Habitat Management Areas as defined in § 648.370; Closed Area I North and Closed Area II, as defined in § 648.81(c)(3) and (4), respectively, during the period February 16 through April 30; and the Western GOM Closure Area, as defined at § 648.81(a)(4), where it overlaps with GOM Cod Protection Closures I through III, as defined in § 648.81(d)(4). This list may be modified through a framework adjustment, as specified in § 648.90.
 
 (ii) *Universal sector exemptions.* All sector vessels are exempt from the following Federal fishing regulations under this part:
 

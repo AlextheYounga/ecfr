@@ -140,7 +140,7 @@
 
 (vii) Evidence of holding adequate insurance to cover injury, liability, and accidental death for any observers, monitors (at-sea or dockside/roving monitors), or electronic monitoring provider staff who provide electronic monitoring services onboard vessels, whether contracted or directly employed by the service provider, during their period of employment (including during training).
 
-(A) A monitoring service provider must hold Workers' Compensation and Maritime Employer's Liability for observers, monitors, vessel owners, and their operations. The minimum combined coverage required is $5 million.
+(A) A monitoring service provider must hold insurance specified at § 600.748(b) and (c) of this chapter.
 
 (B) An electronic monitoring service provider must hold Worker's Compensation and commercial general liability coverage for electronic monitoring provider staff. The minimum combined coverage required is $1 million.
 
@@ -654,4 +654,4 @@
 
 (iv) If catch is slipped by a vessel issued a limited access Atlantic mackerel permit for any reason not described in paragraph (n)(3)(i) of this section, the vessel operator must immediately terminate the trip and return to port. No fishing activity may occur during the return to port.
 
-[85 FR 7431, Feb. 7, 2020, as amended at 85 FR 26882, May 6, 2020; 85 FR 43152, July 15, 2020; 85 FR 47112, Aug. 4, 2020; 86 FR 1823, Jan. 11, 2021; 87 FR 18283, Mar. 30, 2022; 87 FR 54909, Sept. 8, 2022; 87 FR 75877, Dec. 9, 2022; 87 FR 75877, Dec. 9, 2022]
+[85 FR 7431, Feb. 7, 2020, as amended at 85 FR 26882, May 6, 2020; 85 FR 43152, July 15, 2020; 85 FR 47112, Aug. 4, 2020; 86 FR 1823, Jan. 11, 2021; 87 FR 18283, Mar. 30, 2022; 87 FR 54909, Sept. 8, 2022; 87 FR 75877, Dec. 9, 2022; 87 FR 75877, Dec. 9, 2022; 88 FR 56542, Aug. 18, 2023]

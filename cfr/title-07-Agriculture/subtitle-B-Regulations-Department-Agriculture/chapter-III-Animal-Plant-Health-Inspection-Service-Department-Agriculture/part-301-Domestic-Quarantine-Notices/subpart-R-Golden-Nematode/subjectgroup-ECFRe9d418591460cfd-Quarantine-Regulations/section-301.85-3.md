@@ -2,6 +2,8 @@
 
 (a) Any regulated articles except soil samples for processing, testing, or analysis may be moved interstate from any quarantined State under the following conditions:1
 
+1 Requirements under all other applicable Federal domestic plant quarantines must also be met.
+
 (1) With certificate or permit issued and attached in accordance with §§ 301.85-4 and 301.85-7 if moved:
 
 (i) From any generally infested area or any suppressive area into or through any point outside of the regulated areas; or

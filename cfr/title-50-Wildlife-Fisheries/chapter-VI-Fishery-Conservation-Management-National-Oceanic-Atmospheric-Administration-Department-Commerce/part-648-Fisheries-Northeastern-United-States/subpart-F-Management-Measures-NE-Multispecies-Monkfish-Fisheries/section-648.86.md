@@ -16,63 +16,48 @@ Except as provided in §§ 648.11(l) and 648.17, or elsewhere in this part, the 
 
 (*2*) *Herring GOM Haddock Accountability Measure Area.* The Herring GOM Haddock AM Area is defined by the straight lines connecting the following points in the order stated (copies of a map depicting the area are available from the Regional Administrator upon request):
 
-Herring GOM Haddock Accountability Measure Area
-
-|Point| N. latitude  | W. longitude |
-|-----|--------------|--------------|
-|HGA1 |(<sup>1</sup>)|    69°20′    |
-| HGA |    43°40′    |    69°20′    |
-|HGA3 |    43°40′    |    69°00′    |
-|HGA4 |    43°20′    |    69°00′    |
-|HGA5 |    43°20′    |(<sup>2</sup>)|
-|HGA6 |    42°20′    |(<sup>3</sup>)|
-|HGA7 |    42°20′    |    70°00′    |
-|HGA8 |(<sup>4</sup>)|    70°00′    |
-
-<sup>1</sup> The intersection of the Maine coastline and 69°20′ W. long.
-
-<sup>2</sup> The intersection of the U.S./Canada maritime boundary and 43°20′ N. lat.
-
-<sup>3</sup> The intersection of the U.S./Canada maritime boundary and 42°20′ N. lat.
-
-<sup>4</sup> The intersection of the north-facing shoreline of Cape Cod, MA, and 70°00′ W. long.
+|                                             Point                                              | N. latitude  | W. longitude |
+|------------------------------------------------------------------------------------------------|--------------|--------------|
+|                                              HGA1                                              |(<sup>1</sup>)|    69°20′    |
+|                                              HGA                                               |    43°40′    |    69°20′    |
+|                                              HGA3                                              |    43°40′    |    69°00′    |
+|                                              HGA4                                              |    43°20′    |    69°00′    |
+|                                              HGA5                                              |    43°20′    |(<sup>2</sup>)|
+|                                              HGA6                                              |    42°20′    |(<sup>3</sup>)|
+|                                              HGA7                                              |    42°20′    |    70°00′    |
+|                                              HGA8                                              |(<sup>4</sup>)|    70°00′    |
+|            <sup>1</sup> The intersection of the Maine coastline and 69°20′ W. long.            |              |              |
+|     <sup>2</sup> The intersection of the U.S./Canada maritime boundary and 43°20′ N. lat.      |              |              |
+|     <sup>3</sup> The intersection of the U.S./Canada maritime boundary and 42°20′ N. lat.      |              |              |
+|<sup>4</sup> The intersection of the north-facing shoreline of Cape Cod, MA, and 70°00′ W. long.|              |              |
 
 (*3*) *The Herring GB Haddock Accountability Measure Area.* The Herring GB Haddock AM Area is defined by the straight lines connecting the following points in the order stated (copies of a map depicting the area are available from the Regional Administrator upon request):
 
-Herring GB Haddock Accountability Measure Area
-
-|Point| N. Latitude  | W. Longitude |
-|-----|--------------|--------------|
-|  1  |   42° 20′    |   70° 00′    |
-|  2  |   42° 20′    |(<sup>1</sup>)|
-|  3  |   40° 30′    |(<sup>1</sup>)|
-|  4  |   40° 30′    |   66° 40′    |
-|  5  |   39° 50′    |   66° 40′    |
-|  6  |   39° 50′    |   68° 50′    |
-|  7  |(<sup>2</sup>)|   68° 50′    |
-|  8  |   41° 00′    |(<sup>3</sup>)|
-|  9  |   41° 00′    |   69° 30′    |
-| 10  |   41° 10′    |   69° 30′    |
-| 11  |   41° 10′    |   69° 50′    |
-| 12  |   41° 20′    |   69° 50′    |
-| 13  |   41° 20′    |(<sup>4</sup>)|
-| 14  |(<sup>5</sup>)|   70° 00′    |
-| 15  |(<sup>6</sup>)|   70° 00′    |
-| 16  |(<sup>7</sup>)|   70° 00′    |
-
-<sup>1</sup> The intersection of the U.S./Canada maritime boundary.
-
-<sup>2</sup> The intersection of the boundary of Closed Area I and 68° 50′ W. long.
-
-<sup>3</sup> The intersection of the boundary of Closed Area I and 41° 00′ N. lat.
-
-<sup>4</sup> The intersection of the east-facing shoreline of Nantucket, MA, and 41° 20′ N. lat.
-
-<sup>5</sup> The intersection of the north-facing shoreline of Nantucket, MA, and 70° 00′ W. long.
-
-<sup>6</sup> The intersection of the south-facing shoreline of Cape Cod, MA, and 70° 00′ W. long.
-
-<sup>7</sup> The intersection of the north-facing shoreline of Cape Cod, MA, and 70° 00′ W. long.
+|                                              Point                                               | N. Latitude  | W. Longitude |
+|--------------------------------------------------------------------------------------------------|--------------|--------------|
+|                                                1                                                 |   42° 20′    |   70° 00′    |
+|                                                2                                                 |   42° 20′    |(<sup>1</sup>)|
+|                                                3                                                 |   40° 30′    |(<sup>1</sup>)|
+|                                                4                                                 |   40° 30′    |   66° 40′    |
+|                                                5                                                 |   39° 50′    |   66° 40′    |
+|                                                6                                                 |   39° 50′    |   68° 50′    |
+|                                                7                                                 |(<sup>2</sup>)|   68° 50′    |
+|                                                8                                                 |   41° 00′    |(<sup>3</sup>)|
+|                                                9                                                 |   41° 00′    |   69° 30′    |
+|                                                10                                                |   41° 10′    |   69° 30′    |
+|                                                11                                                |   41° 10′    |   69° 50′    |
+|                                                12                                                |   41° 20′    |   69° 50′    |
+|                                                13                                                |   41° 20′    |(<sup>4</sup>)|
+|                                                14                                                |(<sup>5</sup>)|   70° 00′    |
+|                                                15                                                |(<sup>6</sup>)|   70° 00′    |
+|                                                16                                                |(<sup>7</sup>)|   70° 00′    |
+|               <sup>1</sup> The intersection of the U.S./Canada maritime boundary.                |              |              |
+|       <sup>2</sup> The intersection of the boundary of Closed Area I and 68° 50′ W. long.        |              |              |
+|        <sup>3</sup> The intersection of the boundary of Closed Area I and 41° 00′ N. lat.        |              |              |
+| <sup>4</sup> The intersection of the east-facing shoreline of Nantucket, MA, and 41° 20′ N. lat. |              |              |
+|<sup>5</sup> The intersection of the north-facing shoreline of Nantucket, MA, and 70° 00′ W. long.|              |              |
+|<sup>6</sup> The intersection of the south-facing shoreline of Cape Cod, MA, and 70° 00′ W. long. |              |              |
+|<sup>7</sup> The intersection of the north-facing shoreline of Cape Cod, MA, and 70° 00′ W. long. |              |              |
 
 (*4*) The haddock incidental catch caps specified are for the NE multispecies fishing year (May 1-April 30), which differs from the herring fishing year (January 1-December 31). If the haddock incidental catch allowance is attained by the herring midwater trawl fishery for the GOM or GB, as specified in § 648.90(a)(4)(iii)(D), the 2,000-lb (907.2-kg) limit on herring possession in the applicable AM Area, as described in paragraph (a)(3)(ii)(A)(*2*) or (*3*) of this section, shall be in effect until the end of the NE multispecies fishing year. For example, the 2011 haddock incidental catch cap is specified for the period May 1, 2011-April 30, 2012, and the 2012 haddock catch cap would be specified for the period May 1, 2012-April 30, 2013. If the catch of haddock by herring midwater trawl vessels reached the 2011 incidental catch cap at any time prior to the end of the NE multispecies fishing year (April 30, 2012), the 2,000-lb (907.2-kg) limit on possession of herring in the applicable AM Area would extend through April 30, 2012. Beginning May 1, 2012, the 2012 catch cap would go into effect.
 
@@ -90,7 +75,7 @@ Herring GB Haddock Accountability Measure Area
 
 (ii) A common pool vessel exempt from the GOM cod landing limit pursuant to paragraph (b)(4)(i) of this section may not fish north of the line specified in paragraph (b)(4) of this section for the duration of the trip, but may transit the GOM Regulated Mesh Area, provided that its gear is stowed and not available for immediate use as defined in § 648.2. A vessel fishing north and south of the line on the same trip is subject to the most restrictive applicable cod trip limit.
 
-(c) *Atlantic halibut.* A vessel issued a NE multispecies permit under § 648.4(a)(1) may land or possess on board no more than one Atlantic halibut per trip, provided the vessel complies with other applicable provisions of this part, unless otherwise specified in § 648.90(a)(5)(i)(D)(*2*).
+(c) *Atlantic halibut.* A vessel issued a NE multispecies permit under § 648.4(a)(1) may land or possess on board no more than one Atlantic halibut per trip, provided the vessel complies with other applicable provisions of this part, unless otherwise specified in § 648.90(a)(5)(i)(F).
 
 (d) *Small-mesh multispecies.* (1) Vessels issued a valid Federal NE multispecies permit specified under § 648.4(a)(1) are subject to the following possession limits for small-mesh multispecies, which are based on the mesh size used by, or on board vessels fishing for, in possession of, or landing small-mesh multispecies.
 

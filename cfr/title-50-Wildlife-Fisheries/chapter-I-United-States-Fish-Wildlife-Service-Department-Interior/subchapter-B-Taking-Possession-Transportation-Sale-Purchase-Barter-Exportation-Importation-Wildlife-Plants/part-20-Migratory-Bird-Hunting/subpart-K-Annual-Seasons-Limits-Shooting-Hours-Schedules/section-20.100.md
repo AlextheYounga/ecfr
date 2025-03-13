@@ -4,4 +4,6 @@
 
 (b) The development of these schedules involves annual data gathering programs to determine migratory game bird population status and trends, evaluations of habitat conditions, harvest information, and other factors having a bearing on the anticipated size of the fall flights of these birds. The proposed hunting schedules are announced early in the spring, and following consideration of additional information as it becomes available, as well as public comment, they are modified and published as supplemental proposals. These are also open to public comment. Public hearings are held for the purpose of providing additional opportunity for public participation in the rulemaking process.
 
-[44 FR 7147, Feb. 6, 1979]
+(c) Migratory Game Bird Seasons in the Atlantic Flyway: In the Atlantic Flyway States of Connecticut, Delaware, Maine, Maryland, Massachusetts, New Jersey, North Carolina, and Pennsylvania, if Sunday hunting of migratory birds is prohibited statewide by State law or regulation, all Sundays are closed to the take of all migratory game birds.
+
+[44 FR 7147, Feb. 6, 1979, as amended at 88 FR 56491, Aug. 18, 2023]
