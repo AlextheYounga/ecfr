@@ -1,5 +1,7 @@
 ##### § 406.21 Individual enrollment. #####
 
+Link to an amendment published at 88 FR 65269, Sept. 21, 2023.
+
 (a) *Basic provision.* An individual who meets the requirements of § 406.20(b) or (c), except as provided in § 406.26(b)(2), may enroll for premium hospital insurance only during his or her—
 
 (1) Initial enrollment period as set forth in paragraph (b) of this section;

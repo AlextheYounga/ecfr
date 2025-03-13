@@ -1,5 +1,7 @@
 ##### § 435.909 Automatic entitlement to Medicaid following a determination of eligibility under other programs. #####
 
+Link to an amendment published at 88 FR 65270, Sept. 21, 2023.
+
 The agency must not require a separate application for Medicaid from an individual, if—
 
 (a) [Reserved]

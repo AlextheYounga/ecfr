@@ -1,5 +1,7 @@
 ##### § 917.17 State regulatory program amendments not approved. #####
 
+Link to an amendment published at 88 FR 65129, Sept. 21, 2023.
+
 (a) The amendment to Kentucky's regulations at 405 KAR 16:060 Section 8(4)(c); 18:060 Section 12(4)(c) and 18:210 Section 3(5)(c) which were originally submitted by Kentucky on July 30, 1997 and later amended are disapproved.
 
 (b) The amendment at Kentucky Revised Statute 350.060(22) submitted by Kentucky on May 26, 1982, and the legal opinion (insofar as it relates to this amendment) and Reclamation Advisory Memorandum No. 33 submitted by Kentucky on October 28, 1983, are hereby disapproved effective September 17, 1985.

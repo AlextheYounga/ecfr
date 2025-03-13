@@ -1842,7 +1842,123 @@ Note:
 
 Map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.159.gif)Family Boraginaceae: *Varronia rupicola*
+![](/graphics/ec01jn91.159.gif)Family Boraginaceae: *Phacelia argentea* (sand dune phacelia)
+
+(1) Critical habitat units are depicted for Coos and Curry Counties, Oregon, and Del Norte County, California, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the sand dune phacelia consist of the following components:
+
+(i) Sandy coastal dune habitat above the high tide line that provides a high light environment, room for growth, and adequate moisture.
+
+(ii) A sufficiently abundant pollinator community (which may include leafcutter bees and bumble bees) for pollination and reproduction.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on September 21, 2023.
+
+(4) Data layers defining map units were created using Geographic Information Systems (GIS) feature classes from known extant populations. Critical habitat units were defined by applying the minimum convex polygon approach in GIS, thereby creating a single polygon from occupied habitat patches within each population consisting of 25 or more individuals. Several units have two polygons each to include individuals that are separated from the main populations by unsuitable or unoccupied habitat. In a few cases, the unit boundaries were modified to align with the coastal boundary based on current National Agriculture Imagery Program natural color imagery. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/office/oregon-fish-and-wildlife,* at *https://www.regulations.gov* at Docket No. FWS-R1-ES-2021-0070, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map for *Phacelia argentea* follows:
+
+Figure 1 to *Phacelia argentea* (sand dune phacelia) paragraph (5)![](/graphics/er22au23.003.gif)
+
+(6) Unit 1: North Bandon 1, Coos County, Oregon.
+
+(i) Unit 1 consists of 0.6 acres (ac) (0.2 hectares (ha)) in Coos County, Oregon, and is composed of land in private ownership.
+
+(ii) Map of Units 1 and 2 follows:
+
+Figure 2 to *Phacelia argentea* (sand dune phacelia) paragraph (6)(ii)![](/graphics/er22au23.004.gif)
+
+(7) Unit 2: North Bandon 2, Coos County, Oregon.
+
+(i) Unit 2 consists of 61.3 ac (24.8 ha) in Coos County, Oregon, and is composed of land in State (6.9 ac (2.8 ha)) and private (54.4 ac (22 ha)) ownership.
+
+(ii) Map of Unit 2 is provided at paragraph (6)(ii) of this entry.
+
+(8) Unit 3: Lost Lake, Coos County, Oregon.
+
+(i) Unit 3 consists of 3.7 ac (1.5 ha) in Coos County, Oregon, and is composed of land in State (0.1 ac (0.04 ha)), Federal (0.8 ac (0.3 ha)), and private (2.8 ac (1.1 ha)) ownership.
+
+(ii) Map of Unit 3 follows:
+
+Figure 3 to *Phacelia argentea* (sand dune phacelia) paragraph (8)(ii)![](/graphics/er22au23.005.gif)
+
+(9) Unit 4: Floras Lake, Curry County, Oregon.
+
+(i) Unit 4 consists of 5.8 ac (2.3 ha) in Curry County, Oregon, and is composed of land in Federal ownership.
+
+(ii) Map of Unit 4 follows:
+
+Figure 4 to *Phacelia argentea* (sand dune phacelia) paragraph (9)(ii)![](/graphics/er22au23.006.gif)
+
+(10) Unit 5: Cape Blanco, Curry County, Oregon.
+
+(i) Unit 5 consists of 2 ac (0.8 ha) in Curry County, Oregon, and is composed of land in State ownership.
+
+(ii) Map of Unit 5 follows:
+
+Figure 5 to *Phacelia argentea* (sand dune phacelia) paragraph (10)(ii)![](/graphics/er22au23.007.gif)
+
+(11) Unit 6: Paradise Point, Curry County, Oregon.
+
+(i) Unit 6 consists of 3.7 ac (1.5 ha) in Curry County, Oregon, and is composed of land in private ownership.
+
+(ii) Map of Unit 6 follows:
+
+Figure 6 to *Phacelia argentea* (sand dune phacelia) paragraph (11)(ii)![](/graphics/er22au23.008.gif)
+
+(12) Unit 7: Pistol River North, Curry County, Oregon.
+
+(i) Unit 7 consists of 3.2 ac (1.3 ha) in Curry County, Oregon, and is composed of land in State ownership.
+
+(ii) Map of Unit 7 follows:
+
+Figure 7 to *Phacelia argentea* (sand dune phacelia) paragraph (12)(ii)![](/graphics/er22au23.009.gif)
+
+(13) Unit 8: Pistol River South, Curry County, Oregon.
+
+(i) Unit 8 consists of 0.7 ac (0.3 ha) in Curry County, Oregon, and is composed of land in State ownership.
+
+(ii) Map of Unit 8 follows:
+
+Figure 8 to *Phacelia argentea* (sand dune phacelia) paragraph (13)(ii)![](/graphics/er22au23.010.gif)
+
+(14) Unit 9: Lone Ranch, Curry County, Oregon.
+
+(i) Unit 9 consists of 6.5 ac (2.6 ha) in Curry County, Oregon, and is composed of land in State ownership.
+
+(ii) Map of Unit 9 follows:
+
+Figure 9 to *Phacelia argentea* (sand dune phacelia) paragraph (14)(ii)![](/graphics/er22au23.011.gif)
+
+(15) Unit 10: Pacific Shores, Del Norte County, California.
+
+(i) Unit 10 consists of 21 ac (8.5 ha) in Del Norte County, California, and is composed of land in State (13.2 ac (5.3 ha)) and private (7.8 ac (3.2 ha)) ownership.
+
+(ii) Map of Units 10 and 11 follows:
+
+Figure 10 to *Phacelia argentea* (sand dune phacelia) paragraph (15)(ii)![](/graphics/er22au23.012.gif)
+
+(16) Unit 11: Tolowa Dunes, Del Norte County, California.
+
+(i) Unit 11 consists of 69.6 ac (28.2 ha) in Del Norte County, California, and is composed of land in State ownership.
+
+(ii) Map of Unit 11 is provided at paragraph (15)(ii) of this entry.
+
+(17) Unit 12: Point Saint George, Del Norte County, California.
+
+(i) Unit 12 consists of 1.1 ac (0.4 ha) in Del Norte County, California, and is composed of land in county (1 ac (0.4 ha)) and private (0.1 ac (0.04 ha)) ownership.
+
+(ii) Map of Unit 12 follows:
+
+Figure 11 to *Phacelia argentea* (sand dune phacelia) paragraph (17)(ii)![](/graphics/er22au23.013.gif)
+
+(18) Unit 13: Pebble Beach, Del Norte County, California.
+
+(i) Unit 13 consists of 1.6 ac (0.6 ha) in Del Norte County, California, and is under county ownership.
+
+(ii) Map of Unit 13 follows:
+
+Figure 12 to *Phacelia argentea* (sand dune phacelia) paragraph (18)(ii)![](/graphics/er22au23.014.gif)Family Boraginaceae: *Varronia rupicola*
 
 (1) Critical habitat units are depicted for the municipalities of Guánica, Yauco, Guayanilla, Peñuelas, Ponce, and Vieques, Commonwealth of Puerto Rico, on the maps in this entry.
 

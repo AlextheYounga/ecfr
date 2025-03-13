@@ -1,5 +1,7 @@
 ##### § 435.952 Use of information and requests of additional information from individuals. #####
 
+Link to an amendment published at 88 FR 65270, Sept. 21, 2023.
+
 (a) The agency must promptly evaluate information received or obtained by it in accordance with regulations under § 435.940 through § 435.960 of this subpart to determine whether such information may affect the eligibility of an individual or the benefits to which he or she is entitled.
 
 (b) If information provided by or on behalf of an individual (on the application or renewal form or otherwise) is reasonably compatible with information obtained by the agency in accordance with § 435.948, § 435.949 or § 435.956 of this subpart, the agency must determine or renew eligibility based on such information.

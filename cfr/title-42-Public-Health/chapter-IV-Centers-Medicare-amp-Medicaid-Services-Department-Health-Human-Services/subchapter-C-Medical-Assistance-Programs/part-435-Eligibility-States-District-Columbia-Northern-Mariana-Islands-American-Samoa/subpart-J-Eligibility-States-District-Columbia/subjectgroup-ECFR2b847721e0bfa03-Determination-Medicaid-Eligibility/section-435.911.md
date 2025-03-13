@@ -1,5 +1,7 @@
 ##### § 435.911 Determination of eligibility. #####
 
+Link to an amendment published at 88 FR 65270, Sept. 21, 2023.
+
 (a) *Statutory basis.* This section implements sections 1902(a)(4), (a)(8), (a)(10)(A), (a)(19), and (e)(14) and section 1943 of the Act.
 
 (b)(1) Except as provided in paragraph (b)(2) of this section, applicable modified adjusted gross income standard means 133 percent of the Federal poverty level or, if higher -

@@ -1,7 +1,5 @@
 ##### § 17.73 Special rules—flowering plants. #####
 
-Link to an amendment published at 88 FR 57209, Aug. 22, 2023.
-
 (a) *Graptopetalum bartramii* (Bartram's stonecrop)—(1) *Prohibitions.* The following prohibitions apply to *Graptopetalum bartramii,* except as provided under paragraph (a)(2) of this section:
 
 (i) *Import or export.* It is unlawful to import or to export any *Graptopetalum bartramii.* Any shipment in transit through the United States is an importation and an exportation, whether or not it has entered the country for customs purposes.
@@ -158,4 +156,26 @@ Link to an amendment published at 88 FR 57209, Aug. 22, 2023.
 
 (iii) You may engage in any act prohibited under paragraph (h)(1) of this section with seeds of cultivated specimens, provided that a statement that the seeds are of “cultivated origin” accompanies the seeds or their container.
 
-[86 FR 48568, Aug. 31, 2021, as amended at 87 FR 18738, Mar. 31, 2022; 87 FR 40114, July 6, 2022; 87 FR 66607, Nov. 4, 2022; 87 FR 74012, Dec. 2, 2022; 88 FR 21866, Apr. 11, 2023; 88 FR 25238, Apr. 25, 2023; 88 FR 30057, May 10, 2023]
+(i) [Reserved]
+
+(j) *Phacelia argentea* (sand dune phacelia)—(1) *Prohibitions.* The following prohibitions that apply to endangered plants also apply to the sand dune phacelia. Except as provided under paragraph (j)(2) of this section, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.61(b) for endangered plants.
+
+(ii) Remove and reduce to possession the species from areas under Federal jurisdiction, as set forth at § 17.61(c)(1) for endangered plants.
+
+(iii) Maliciously damage or destroy the species on any areas under Federal jurisdiction, or remove, cut, dig up, or damage or destroy the species on any other area in knowing violation of any law or regulation of any State or in the course of any violation of a State criminal trespass law, as set forth at section 9(a)(2)(B) of the Act.
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.61(d) for endangered plants.
+
+(v) Sale or offer for sale, as set forth at § 17.61(e) for endangered plants.
+
+(2) *Exceptions from prohibitions.* In regard to *Phacelia argentea,* you may:
+
+(i) Conduct activities, including activities prohibited under paragraph (j)(1) of this section, if they are authorized by a permit issued in accordance with the provisions set forth at § 17.72.
+
+(ii) Remove and reduce to possession from areas under Federal jurisdiction, as set forth at § 17.71(b).
+
+(iii) Remove, cut, dig up, damage or destroy on areas not under Federal jurisdiction by any qualified employee or agent of the Service or State conservation agency which is a party to a cooperative agreement with the Service in accordance with section 6(c) of the Act, who is designated by that agency for such purposes, when acting in the course of official duties.
+
+[86 FR 48568, Aug. 31, 2021, as amended at 87 FR 18738, Mar. 31, 2022; 87 FR 40114, July 6, 2022; 87 FR 66607, Nov. 4, 2022; 87 FR 74012, Dec. 2, 2022; 88 FR 21866, Apr. 11, 2023; 88 FR 25238, Apr. 25, 2023; 88 FR 30057, May 10, 2023; 88 FR 57209, Aug. 22, 2023]
