@@ -1,5 +1,7 @@
 ##### § 127.300 How is a concern certified as an WOSB or EDWOSB? #####
 
+Link to an amendment published at 89 FR 96093, Dec. 4, 2024.
+
 (a) *WOSB certification.* (1) A concern may apply to SBA for WOSB certification. There is no cost to apply to SBA for certification. SBA will consider the information provided by the concern in order to determine whether the concern qualifies. SBA, in its discretion, may rely solely upon the information submitted to establish eligibility, may request additional information, or may verify the information before making a determination. SBA may draw an adverse inference and deny the certification where the concern fails to cooperate with SBA or submit information requested by SBA.
 
 (2) A concern may submit evidence to SBA that it is a women-owned and controlled small business that is certified by the U.S. Department of Veterans Affairs Center for Verification and Evaluation as a Service-Disabled Veteran Owned Business or Veteran-Owned Business.

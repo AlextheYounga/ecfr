@@ -1,5 +1,7 @@
 ##### § 127.504 What requirements must an EDWOSB or WOSB meet to be eligible for an EDWOSB or WOSB requirement? #####
 
+Link to an amendment published at 89 FR 96094, Dec. 4, 2024.
+
 (a) *General.* In order for a concern to submit an offer on a specific EDWOSB or WOSB set-aside requirement, the concern must qualify as a small business concern under the size standard corresponding to the NAICS code assigned to the contract, and either be a certified EDWOSB or WOSB pursuant to § 127.300, or represent that it has submitted a complete application for WOSB or EDWOSB certification to SBA or a third-party certifier and has not received a negative determination regarding that application from SBA or the third party certifier.
 
 (1) If a concern becomes the apparent successful offeror while its application for WOSB or EDWOSB certification is pending, either at SBA or a third-party certifier, the contracting officer for the particular contract must immediately inform SBA's D/GC. SBA will then prioritize the concern's WOSB or EDWOSB application and make a determination regarding the firm's status as a WOSB or EDWOSB within 15 calendar days from the date that SBA received the contracting officer's notification. Where the application is pending with a third-party certifier, SBA will immediately contact the third-party certifier to require the third-party certifier to complete its determination within 15 calendar days.

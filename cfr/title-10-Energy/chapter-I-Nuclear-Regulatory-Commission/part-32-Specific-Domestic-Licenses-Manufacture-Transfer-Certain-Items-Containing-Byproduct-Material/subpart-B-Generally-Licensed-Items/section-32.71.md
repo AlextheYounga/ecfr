@@ -28,7 +28,7 @@ An application for a specific license to manufacturer or distribute byproduct ma
 
 (2) Displaying the radiation caution symbol described in § 20.1901(a) of this chapter and the words, “Caution, Radioactive Material”, and “Not for Internal or External Use in Humans or Animals.”
 
-(d) The following statement, or a substantially similar statement which contains the information called for in the following statement, appears on a label affixed to each prepackaged unit or appears in a leaflet or brochure which accompanies the package: 1
+(d) The following statement, or a substantially similar statement which contains the information called for in the following statement, appears on a label affixed to each prepackaged unit or appears in a leaflet or brochure which accompanies the package:1
 
 1 Labels authorized by the regulations in effect on September 26, 1979, may be used until one year from September 27, 1979.
 

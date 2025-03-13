@@ -8,11 +8,11 @@
 
 (b) Each licensee shall—
 
-(1) Monitor the external surfaces of a labeled 3a package for radioactive contamination unless the package contains only radioactive material in the form of a gas or in special form as defined in 10 CFR 71.4;
+(1) Monitor the external surfaces of a labeled3a package for radioactive contamination unless the package contains only radioactive material in the form of a gas or in special form as defined in 10 CFR 71.4;
 
 3a Labeled with a Radioactive White I, Yellow II, or Yellow III label as specified in U.S. Department of Transportation regulations, 49 CFR 172.403 and 172.436-440.
 
-(2) Monitor the external surfaces of a labeled 3a package for radiation levels unless the package contains quantities of radioactive material that are less than or equal to the Type A quantity, as defined in § 71.4 and appendix A to part 71 of this chapter; and
+(2) Monitor the external surfaces of a labeled3a package for radiation levels unless the package contains quantities of radioactive material that are less than or equal to the Type A quantity, as defined in § 71.4 and appendix A to part 71 of this chapter; and
 
 (3) Monitor all packages known to contain radioactive material for radioactive contamination and radiation levels if there is evidence of degradation of package integrity, such as packages that are crushed, wet, or damaged.
 

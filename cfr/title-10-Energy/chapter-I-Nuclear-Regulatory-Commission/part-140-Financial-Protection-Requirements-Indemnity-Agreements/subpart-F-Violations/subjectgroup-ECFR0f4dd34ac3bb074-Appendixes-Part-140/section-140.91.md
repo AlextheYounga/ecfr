@@ -2,7 +2,7 @@
 
 While the text of the policy which follows is exemplary of a contract acceptable to the Commission as evidence of the financial protection required of the licensee by section 170 of the Atomic Energy Act of 1954, as amended, variations on this text submitted by the licensee also will be considered by the Commission in determining whether the licensee meets the financial protection requirements of the Act. The full text of the policy is published solely for the purpose of completeness. Publication of this text should not be construed as a Commission endorsement of any particular provision pertaining solely to the business relationship between the insurers and the insureds or to any other matter not within the Commission's statutory jurisdiction under the Atomic Energy Act.
 
-Nuclear Energy Liability Policy (Facility Form)
+Nuclear Energy Liability Policy(Facility Form)
 
 The undersigned members of \_\_\_\_\_\_\_\_\_\_, hereinafter called the “companies,” each for itself, severally and not jointly, and in the respective proportions hereinafter set forth, agree with the insured, named in the declarations made a part hereof, in consideration of the premium and in reliance upon the statements in the declarations and subject to the limit of liability, exclusions, conditions and other terms of this policy;
 
@@ -226,7 +226,7 @@ In Witness Whereof, each of the subscribing companies has caused this policy to 
 
 For the subscribing companies.
 
-By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Subscribing Companies Proportion of 100%Nuclear Energy Liability Policy No.\_\_\_\_\_\_\_\_ (Facility Form) Declarations
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Subscribing Companies Proportion of 100%Nuclear Energy Liability Policy No.\_\_\_\_\_\_\_\_ (Facility Form)Declarations
 
 Item 1. Named Insured \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
@@ -236,7 +236,7 @@ Item 2. Policy Period: Beginning at 12:01 a.m. on the \_\_\_\_\_\_\_\_\_\_ day o
 
 Item 3. Description of the Facility:
 
-Location Type
+LocationType
 
 The Operator of the facility is \_\_\_\_\_\_\_\_.
 
@@ -248,7 +248,7 @@ Item 6. These declarations and the schedules forming a part hereof give a comple
 
 Date of Issue \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
 
-Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Authorized representative) Nuclear Energy Liability Policy(Facility Form)Amendment of Transportation Coverage (Indemnified Nuclear Facility)
+Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Authorized representative)Nuclear Energy Liability Policy(Facility Form)Amendment of Transportation Coverage (Indemnified Nuclear Facility)
 
 It is agreed that the definition of *insured shipment* in Insuring Agreement III is amended to read: *insured shipment* means a shipment of source material, special nuclear material, spent fuel or waste, herein called *material,* (1) to the facility from any location except an indemnified nuclear facility, but only if the transportation of the material is not by predetermination to be interrupted by removal of the material from a transporting conveyance for any purpose other than the continuation of its transportation, or (2) from the facility to any other location, but only until the material is removed from a transporting conveyance for any purpose other than the continuation of its transportation.
 
@@ -258,7 +258,7 @@ Issued to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Date of Is
 
 For the subscribing companies.
 
-By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Endorsement No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_. Optional Amendatory Endorsement(Facility Form)
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Endorsement No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_.Optional Amendatory Endorsement(Facility Form)
 
 It is agreed that:
 
@@ -296,7 +296,7 @@ IV. The second paragraph of Condition 12 *Other Insurance* is amended to read:
 
 *If the insured has other valid and collectible insurance (other than such concurrent insurance or any other nuclear energy liability insurance issued by \_\_\_\_\_\_\_\_ or to any person or organization) applicable to loss or expense covered by this policy the insurance afforded by this policy shall be excess insurance over such other insurance; provided, with respect to any person who is not employed at and in connection with the facility, such insurance as is afforded by this policy for bodily injury to an employee of the insured arising out of and in the course of his employment shall be primary insurance under such other insurance.*
 
-Nuclear Energy Liability Policy (Facility Form) Restoration of Limit of Liability Endorsement
+Nuclear Energy Liability Policy(Facility Form)Restoration of Limit of Liability Endorsement
 
 It is agreed that:
 
@@ -320,7 +320,7 @@ Date of Issue \_\_\_\_\_\_\_\_\_\_\_\_.
 
 For the subscribing companies
 
-By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Endorsement No. \_\_\_\_\_\_. Nuclear Energy Liability Policy (Facility Form) Amendatory Endorsement
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Endorsement No. \_\_\_\_\_\_.Nuclear Energy Liability Policy(Facility Form)Amendatory Endorsement
 
 This policy does not apply to bodily injury or property damage with respect to which the insured is entitled to indemnity from the United States Nuclear Regulatory Commission under the provisions of Indemnity Agreement No. \_\_\_\_\_\_ between the United States Nuclear Regulatory Commission and \_\_\_\_\_\_\_\_\_\_, dated \_\_\_\_\_\_\_\_\_\_, as now in effect or as hereafter amended.
 
@@ -332,7 +332,7 @@ Date of issue \_\_\_\_\_\_\_\_\_\_.
 
 For the subscribing companies \_\_\_\_\_\_\_\_
 
-By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Endorsement No. \_\_\_\_\_\_. Nuclear Energy Liability Policy(Facility Form) Waiver of Defenses Endorsement(Extraordinary Nuclear Occurrence)
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Endorsement No. \_\_\_\_\_\_.Nuclear Energy Liability Policy(Facility Form)Waiver of Defenses Endorsement(Extraordinary Nuclear Occurrence)
 
 The named insured, acting for himself and every other insured under the policy, and the members of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ agree as follows:
 
@@ -386,11 +386,11 @@ Such waivers shall not preclude a defense based upon the failure of the claimant
 
 *Claimant* means the person or organization actually sustaining the bodily injury or property damage and also includes his assignees, legal representatives and other persons or organizations entitled to bring an action for damages on account of such injury or damage.
 
-Nuclear Energy Liability Policy(Facility Form) Amendatory Endorsement(Application of Policy)
+Nuclear Energy Liability Policy(Facility Form)Amendatory Endorsement(Application of Policy)
 
 It is agreed that insuring agreement IV of the policy, captioned *Application of Policy* is amended to read as follows: Application of Policy. This policy applies only to bodily injury or property damage: (1) Which is caused during the policy period by the nuclear energy hazard, and (2) which is discovered and for which written claim is made against the insured, not later than 10 years after the end of the policy period.
 
-Nuclear Energy Liability Policy (Facility Form) Waiver of Defense Endorsement (Extraordinary Nuclear Occurrence)The named insured, acting for himself and every other insured under the policy, and the members of agree as follows:
+Nuclear Energy Liability Policy(Facility Form)Waiver of Defense Endorsement(Extraordinary Nuclear Occurrence)The named insured, acting for himself and every other insured under the policy, and the members ofagree as follows:
 
 1. With respect to any extraordinary nuclear occurrence to which the policy applies as proof of financial protection and which
 
@@ -458,13 +458,13 @@ Endorsement No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 For the subscribing companies:
 
- By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
 
- General Manager
+General Manager
 
- Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-Supplementary Endorsement Waiver of Defenses Reactor Construction at the Facility
+Supplementary Endorsement Waiver of DefensesReactor Construction at the Facility
 
 It is agreed that in construing the application of paragraph 2.(b) of the Waiver of Defenses Endorsement (NE-33a) with respect to an extraordinary nuclear occurrence occurring at the facility, a claimant who is employed at the facility in connection with the construction of a nuclear reactor with respect to which no operating license has been issued by the Nuclear Regulatory Commission shall not be considered as employed in connection with the activity where the extraordinary nuclear occurrence takes place if:
 
@@ -486,13 +486,13 @@ Endorsement No \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 For the subscribing companies:
 
- By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
 
- General Manager
+General Manager
 
- Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-Nuclear Energy Liability Policy (Facility Form) Amendment of Definition of *Nuclear Energy Hazard* (Indemnified Nuclear Facility)
+Nuclear Energy Liability Policy(Facility Form)Amendment of Definition of *Nuclear Energy Hazard* (Indemnified Nuclear Facility)
 
 It is agreed that: 1. Solely with respect to an *insured shipment* to which the policy applies as proof of financial protection required by the Nuclear Regulatory Commission, subdivision (2) of the definition of *nuclear energy hazard* is amended to read:
 
@@ -518,13 +518,13 @@ Endorsement No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 For the subscribing companies:
 
- By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
 
- General Manager
+General Manager
 
- Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-Nuclear Energy Liability Policy (Facility Form) Amendment of Definitions of *Nuclear Energy Hazard* and *Insured Shipment* (Indemnified Nuclear Facility)
+Nuclear Energy Liability Policy(Facility Form)Amendment of Definitions of *Nuclear Energy Hazard* and *Insured Shipment* (Indemnified Nuclear Facility)
 
 It is agreed that: I. In Insuring Agreement III, *DEFINITIONS*
 
@@ -556,9 +556,9 @@ Endorsement No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 For the subscribing companies:
 
- By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
 
- General Manager.
+General Manager.
 
 Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
@@ -650,7 +650,7 @@ Date of Issue \_\_\_\_\_\_\_\_.
 
 By \_\_\_\_\_\_\_\_ General Manager.
 
-Endorsement No.NE-51 (1/1/81)Amendment of Coverage Endorsement for Workers Claims (Facility Form)NE-64(1/1/88)Preamble
+Endorsement No.NE-51 (1/1/81)Amendment of Coverage Endorsement for Workers Claims(Facility Form)NE-64(1/1/88)Preamble
 
 1. The insurance and rating plan presently used by Nuclear Energy Liability Insurance Association (*NELIA*) and Mutual Atomic Energy Liability Underwriters (*MAELU*) do not make a distinction between workers claims arising from catastrophic events and those arising from lesser events;
 
@@ -902,7 +902,7 @@ This policy does not apply:
 
 (6) To bodily injury to a new worker arising in whole or in part out of an extraordinary nuclear occurrence.
 
-VI—Policy Period; Discovery Period; Application of Policy A. Policy Period
+VI—Policy Period; Discovery Period; Application of PolicyA. Policy Period
 
 The policy period of this policy begins at 12:01 a.m. on January 1, 1988 and ends at the close of December 31, 1992, Eastern Standard Time, or when all Certificates issued to form a part hereof have been cancelled, whichever first occurs.
 
@@ -920,7 +920,7 @@ A. This insurance is primary insurance under any insurance afforded by a Master 
 
 B. If an insured has other valid and collectible insurance, except under a MAELU Policy, for loss or expense covered by this policy, this shall be excess insurance over such other insurance. If the insured has insurance under a MAELU Policy, whether the insurance is collectible or not, the companies shall then be liable under this policy only for such proportion of loss or expense as the amount stated as the Policy Aggregate Limit in Section VIII of this policy bears to the sum of such amount and the corresponding amount stated in the MAELU Policy.
 
-VIII—Amount of Insurance Available A. Policy Aggregate Limit
+VIII—Amount of Insurance AvailableA. Policy Aggregate Limit
 
 1. The Policy Aggregate Limit is $124 million. This limit is not cumulative from year to year. The limit applies to all new worker's claims that qualify for coverage under this policy (herein called *qualified claims*).
 
@@ -1186,11 +1186,11 @@ Each member of NELIA subscribing the Master Worker Policy for any calendar year,
 
 Accepted and agreed by the first Named Insured in behalf of itself and every other Named Insured stated in the Declarations of the Certificate of which this endorsement forms a part.
 
-(First Named Insured—Type or PrintDateBy (Signature of Authorized Officer)(Type of Print Named and Title of Officer)Effective Date of this Endorsement 12:01 a.m. Standard TimeTo form a part of Policy No Issued to Date of Issue
+(First Named Insured—Type or PrintDateBy(Signature of Authorized Officer)(Type of Print Named and Title of Officer)Effective Date of this Endorsement12:01 a.m. Standard TimeTo form a part of Policy NoIssued toDate of Issue
 
 For the subscribing companies:
 
-By General Manager
+ByGeneral Manager
 
 Endorsement No:
 
@@ -1206,15 +1206,15 @@ $
 
 Explanation of Use of this Endorsement: This endorsement will be used in the first year of the Master Worker Policy. It states the Advance Premium and the estimated Reserve Premium for the year for the Certificate to which the endorsement is attached.
 
-Effective Date of this Endorsement12:01 a.m. Standard TimeTo form a part of Policy No Issued to Date of Issue
+Effective Date of this Endorsement12:01 a.m. Standard TimeTo form a part of Policy NoIssued toDate of Issue
 
 For the subscribing companies:
 
-By General Manager
+ByGeneral Manager
 
 Endorsement No:
 
-Countersigned by NUCLEAR ENERGY LIABILITY INSURANCE ASSOCIATIONNuclear Energy Liability InsuranceAdvance Premium and Standard Premium Endorsement, NE-W-3 (1/1/88)Calendar Year \_\_\_\_\_\_\_\_
+Countersigned byNUCLEAR ENERGY LIABILITY INSURANCE ASSOCIATIONNuclear Energy Liability InsuranceAdvance Premium and Standard Premium Endorsement, NE-W-3 (1/1/88)Calendar Year \_\_\_\_\_\_\_\_
 
 It is agreed that Items 1 and 2 of Endorsement No. are amended to read:
 
@@ -1222,7 +1222,7 @@ It is agreed that Items 1 and 2 of Endorsement No. are amended to read:
 
 It is agreed that the Advance Premium due the companies for the period designated above is:
 
-$ 2. Standard Premium and Reserve Premium
+$2. Standard Premium and Reserve Premium
 
 In the absence of a change in the advance premium indicated above, it is agreed that, subject to the provisions of the Industry Retrospective Rating Plan, the Standard Premium is said Advance Premium and the estimated Reserve Premium element of the Standard Premium is:
 
@@ -1230,15 +1230,15 @@ $
 
 *Explanation of Use of this Endorsement:* This endorsement will be used for calendar years of the Master Worker Policy after the 1988 calendar year. It states the Advance Premium and the estimated Reserve Premium for the year for the Certificate to which the endorsement is attached.
 
-Effective Date of this Endorsement 12:01 a.m. Standard TimeTo form a part of Policy No Issued to Date of Issue
+Effective Date of this Endorsement12:01 a.m. Standard TimeTo form a part of Policy NoIssued toDate of Issue
 
 For the subscribing companies:
 
-By General ManagerEndorsement No. Countersigned by NUCLEAR ENERGY LIABILITY INSURANCE ASSOCIATIONNuclear Energy Liability InsuranceRetrospective Reserve Premium Charge Endorsement, NE-W-dash;5 (1/1/88)1. Industry Reserve Premium Charge
+ByGeneral ManagerEndorsement No.Countersigned byNUCLEAR ENERGY LIABILITY INSURANCE ASSOCIATIONNuclear Energy Liability InsuranceRetrospective Reserve Premium Charge Endorsement, NE-W-dash;5 (1/1/88)1. Industry Reserve Premium Charge
 
 In accordance with Section 4 of the Industry Retrospective Rating Plant Premium Endorsement attached to each Certificate to this policy, the companies have reviewed the status of the reserve for refunds, found that there is a negative balance in the reserve for refunds and have determined that an industry reserve premium charge, as indicated below, is appropriate:
 
-$ 2. Retrospective Adjustment Ratio
+$2. Retrospective Adjustment Ratio
 
 The portion of the industry reserve premium charge payable by the Named Insureds under this Certificate is determined by multiplying such charge by this Certificate's retrospective adjustment ratio, which is:
 
@@ -1250,8 +1250,8 @@ $
 
 *Explanation of Use of this Endorsement:* This endorsement will be issued by the companies under the Master Worker Policy after an industry reserve premium charge has been determined because there is a negative balance in the reserve for refunds. It states the reserve premium charge applicable to the Certificate to which the endorsement is attached.
 
-Effective Date of this Endorsement 12:01 a.m. Standard TimeTo form a part of Policy No. Issued to Date of Issue
+Effective Date of this Endorsement12:01 a.m. Standard TimeTo form a part of Policy No.Issued toDate of Issue
 
 For the subscribing companies
 
-By General ManagerEndorsement No. Countersigned by [25 FR 2948, Apr. 7, 1960]Editorial Note:For Federal Register citations affecting § 140.91, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+ByGeneral ManagerEndorsement No.Countersigned by [25 FR 2948, Apr. 7, 1960]Editorial Note:For Federal Register citations affecting § 140.91, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

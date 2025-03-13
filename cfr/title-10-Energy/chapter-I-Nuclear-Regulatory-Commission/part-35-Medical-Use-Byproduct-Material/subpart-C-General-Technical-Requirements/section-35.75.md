@@ -1,6 +1,6 @@
 ##### § 35.75 Release of individuals containing unsealed byproduct material or implants containing byproduct material. #####
 
-(a) A licensee may authorize the release from its control of any individual who has been administered unsealed byproduct material or implants containing byproduct material if the total effective dose equivalent to any other individual from exposure to the released individual is not likely to exceed 5 mSv (0.5 rem). 1
+(a) A licensee may authorize the release from its control of any individual who has been administered unsealed byproduct material or implants containing byproduct material if the total effective dose equivalent to any other individual from exposure to the released individual is not likely to exceed 5 mSv (0.5 rem).1
 
 1 The current revision of NUREG-1556, Vol. 9, “Consolidated Guidance About Materials Licenses: Program-Specific Guidance About Medical Licenses” describes methods for calculating doses to other individuals and contains tables of activities not likely to cause doses exceeding 5 mSv (0.5 rem).
 

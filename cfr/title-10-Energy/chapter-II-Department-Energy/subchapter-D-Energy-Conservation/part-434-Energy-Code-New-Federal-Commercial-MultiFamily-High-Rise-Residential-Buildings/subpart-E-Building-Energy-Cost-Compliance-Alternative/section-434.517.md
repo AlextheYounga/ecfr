@@ -68,7 +68,7 @@
 |                 Heating System                 |                                        Hot water (Note 12) or electric resistance (Note 8)                                        |Hot water (Note 12) or electric resistance (Note 8)|                                   Electric or natural draft fossil fuel boiler (Note 8).                                    |
 |                    Remarks                     |Dry bulb economizer per Section 7.4.3. Minimum VAV setting per Section 7.4.4.3. Supply air reset by zone of greatest cooling demand|                   No economizer                   |Tower fans and boiler cycled to maintain circulating water temperature between 60 and design tower leaving water temperature.|
 
-Numbered Notes for Table 517.4.1 HVAC System Descriptions for Prototype and Reference Buildings
+Numbered Notes for Table 517.4.1HVAC System Descriptions for Prototype and Reference Buildings
 
 Notes:
 

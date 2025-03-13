@@ -12,7 +12,7 @@
 
 (iii) An example of the marking stamp is as follows:
 
-Derived from  (Source/Date) Reason: Declassify On:  (Date/Event/Exemption) Classifier:  (Name/Title/Number)
+Derived from (Source/Date)Reason:Declassify On: (Date/Event/Exemption)Classifier: (Name/Title/Number)
 
 (2) For Restricted Data documents:
 
@@ -32,11 +32,11 @@ Derived from  (Source/Date) Reason: Declassify On:  (Date/Event/Exemption) Class
 
 (2) *Limitation on reproduction or dissemination.* If the originator or classifier determines that reproduction or further dissemination of a document should be restricted, the following additional wording may be placed on the face of the document:
 
-Reproduction or Further Dissemination Requires Approval of If any portion of this additional marking does not apply, it should be crossed out.
+Reproduction or Further Dissemination Requires Approval ofIf any portion of this additional marking does not apply, it should be crossed out.
 
 (f) *Portion markings.* In addition to the information required on the face of the document, each classified document is required, by marking or other means, to indicate clearly which portions are classified (e.g., paragraphs or pages) and which portions are not classified. The symbols (S) for Secret, (C) for Confidential, (U) for Unclassified, or (RD) for Restricted Data may be used immediately preceding or following the text to which it applies, except that the designation must follow titles or subjects. (Portion marking of paragraphs is not required for documents containing Restricted Data.) If this type of portion marking is not practicable, the document must contain a description sufficient to identify the classified information and the unclassified information.
 
-Example Pages 1-3 Secret Pages 4-19 Unclassified Pages 20-26 Secret Pages 27-32 Confidential
+ExamplePages 1-3 SecretPages 4-19 UnclassifiedPages 20-26 SecretPages 27-32 Confidential
 
 (g) *Transmittal document.* If a document transmitting classified information contains no classified information or the classification level of the transmittal document is not as high as the highest classification level of its enclosures, then the document must be marked at the top and bottom with a classification at least as high as its highest classified enclosure. The classification may be higher if the enclosures, when combined, warrant a higher classification than any individual enclosure. When the contents of the transmittal document warrants a lower classification than the highest classified enclosure(s) or combination of enclosures or requires no classification, a stamp or marking such as the following must also be used on the transmittal document:
 

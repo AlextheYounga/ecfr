@@ -1,5 +1,7 @@
 ##### § 883.302 Definitions. #####
 
+Link to an amendment published at 89 FR 96098, Dec. 4, 2024.
+
 The terms *Fair Market Rent (FMR), HUD,* and *Public Housing Agency (PHA)* are defined in 24 CFR part 5.
 
 *ACC (Annual Contributions Contract).* The contract between the State Agency and HUD under which HUD commits to provide the Agency with the funds needed to make housing assistance payments to the Owner and to pay the Agency for administrative fees in cases where it is eligible for them.

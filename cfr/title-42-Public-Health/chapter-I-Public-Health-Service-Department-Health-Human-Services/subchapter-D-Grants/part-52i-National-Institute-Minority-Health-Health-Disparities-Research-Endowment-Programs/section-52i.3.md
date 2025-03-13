@@ -1,5 +1,7 @@
 ##### § 52i.3 Who is eligible to apply? #####
 
+Link to an amendment published at 89 FR 96123, Dec. 4, 2024.
+
 (a) To be eligible for a grant under section 464z-3(h) of the Act an applicant:
 
 (1) Must be a Center of Excellence under section 736 (42 U.S.C. 293) or section 464z-4 (42 U.S.C. 285t-1) of the Act, and

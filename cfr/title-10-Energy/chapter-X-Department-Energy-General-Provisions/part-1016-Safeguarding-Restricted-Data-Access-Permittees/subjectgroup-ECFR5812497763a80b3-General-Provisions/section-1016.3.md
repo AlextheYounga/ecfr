@@ -16,7 +16,7 @@
 
 (d) *Classified matter.* Anything in physical form (including, but not limited to documents and material) that contains or reveals classified information.
 
-(e) *Combination lock.* A built-in combination lock on a security container which is of tempered steel alloy hard plate, at least 1/4″ in thickness and Rockwell hardness of C-63 to C-65, of sufficient size and so located as to sufficiently impede access to the locking mechanism by drilling of the lock or container.
+(e) *Combination lock.* A built-in combination lock on a security container which is of tempered steel alloy hard plate, at least1/4″ in thickness and Rockwell hardness of C-63 to C-65, of sufficient size and so located as to sufficiently impede access to the locking mechanism by drilling of the lock or container.
 
 (f) *DOE.* The United States Department of Energy or its duly authorized representatives.
 

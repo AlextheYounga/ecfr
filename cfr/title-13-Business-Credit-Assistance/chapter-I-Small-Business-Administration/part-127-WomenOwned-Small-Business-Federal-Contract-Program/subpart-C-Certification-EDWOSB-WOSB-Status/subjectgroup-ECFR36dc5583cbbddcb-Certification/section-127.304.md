@@ -1,5 +1,7 @@
 ##### § 127.304 How is an application for certification processed? #####
 
+Link to an amendment published at 89 FR 96093, Dec. 4, 2024.
+
 (a) The SBA's Director of Government Contracting (D/GC) or designee is authorized to approve or decline applications for certification. SBA must receive all required information and supporting documents before it will begin processing a concern's application. SBA will not process incomplete applications. SBA will advise each applicant within 15 calendar days after the receipt of an application whether the application is complete and suitable for evaluation and, if not, what additional information or clarification is required to complete the application. SBA will make its determination within ninety (90) calendar days after receipt of a complete package, whenever practicable.
 
 (b) SBA may request additional information or clarification of information contained in an application or document submission at any time.

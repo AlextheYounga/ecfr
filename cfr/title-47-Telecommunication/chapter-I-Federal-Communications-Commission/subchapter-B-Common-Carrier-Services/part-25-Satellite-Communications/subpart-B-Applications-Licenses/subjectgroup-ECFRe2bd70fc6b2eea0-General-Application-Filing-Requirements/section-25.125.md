@@ -1,6 +1,6 @@
 ##### § 25.125 Applications for supplemental coverage from space (SCS). #####
 
-Link to an amendment published at 89 FR 34167, Apr. 30, 2024.
+Link to an amendment published at 89 FR 34167, Apr. 30, 2024.Link to an amendment published at 89 FR 96124, Dec. 4, 2024.
 
 (a) *SCS entry criteria.* This section applies only to applicants seeking to provide SCS. An applicant for SCS space station authorization must hold either an existing NGSO or GSO license or grant of U.S. market access under this part, or must be seeking a NGSO or GSO license or grant of U.S. market access under this part, and must have a lease arrangement(s) or agreement pursuant to § 1.9047 of this chapter with one or more terrestrial wireless licensee(s) that hold, collectively or individually, all co-channel licenses throughout a GIA in a band identified in § 2.106(d)(33)(i) of this chapter. Applicants for SCS space stations must comply with the requirements set forth in paragraph (b) of this section.
 

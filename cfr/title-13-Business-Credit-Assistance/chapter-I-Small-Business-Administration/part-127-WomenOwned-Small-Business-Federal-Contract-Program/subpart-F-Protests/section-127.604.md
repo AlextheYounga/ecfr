@@ -1,5 +1,7 @@
 ##### § 127.604 How will SBA process an EDWOSB or WOSB status protest? #####
 
+Link to an amendment published at 89 FR 96094, Dec. 4, 2024.
+
 (a) *Notice of receipt of protest.* Upon receipt of the protest, SBA will notify the contracting officer and the protestor of the date SBA received the protest and whether SBA will process the protest or dismiss it under paragraph (b) of this section. The contracting officer may award the contract after receipt of a protest if the contracting officer determines in writing that an award must be made to protect the public interest. Notwithstanding such a determination, the provisions of paragraph (f) of this section apply to the procurement in question.
 
 (b) *Dismissal of protest.* If SBA determines that the protest is premature, untimely, nonspecific, or is based on nonprotestable allegations, SBA will dismiss the protest and will send the contracting officer and the protestor a notice of dismissal, citing the reason(s) for the dismissal. Notwithstanding SBA's dismissal of the protest, SBA may, in its sole discretion, consider the protest allegations in determining whether to conduct an examination of the protested concern pursuant to subpart D of this part or submit a protest itself.

@@ -18,4 +18,4 @@
 
 (2) This test is not required if the calculated terminal free-fall velocity of the package is less than 129 m/sec (422 ft/sec), or if a velocity not less than either 129 m/sec (422 ft/sec) or the calculated terminal free-fall velocity of the package is used in the sequential test of paragraph (a)(1) of this section.
 
-(c) *Individual deep submersion test.* An undamaged package must be physically submerged and physically subjected to an external water pressure of at least 4 MPa (600 lbs/in 2).
+(c) *Individual deep submersion test.* An undamaged package must be physically submerged and physically subjected to an external water pressure of at least 4 MPa (600 lbs/in2).

@@ -1,6 +1,7 @@
 ##### § 851.5 Enforcement. #####
 
-(a) A contractor that is indemnified under section 170d. of the AEA (or any subcontractor or supplier thereto) and that violates (or whose employee violates) any requirement of this part shall be subject to a civil penalty of up to $118,790 for each such violation. If any violation under this subsection is a continuing violation, each day of the violation shall constitute a separate violation for the purpose of computing the civil penalty.
+(a) A contractor that is indemnified under section 170d. of the AEA (or any subcontractor or supplier thereto) and that violates (or whose employee violates) any requirement of this part shall be subject to a civil penalty of up to $118,790 for each such violation.
+If any violation under this subsection is a continuing violation, each day of the violation shall constitute a separate violation for the purpose of computing the civil penalty.
 
 (b) A contractor that violates any requirement of this part may be subject to a reduction in fees or other payments under a contract with DOE, pursuant to the contract's *Conditional Payment of Fee* clause, or other contract clause providing for such reductions.
 

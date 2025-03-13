@@ -104,7 +104,7 @@ Article VII
 
 The term of this agreement shall commence as of the date and time specified in Item 6 of the Attachment and shall terminate at the time of expiration of that license specified in Item 3 of the Attachment, which is the last to expire; provided that, except as may otherwise be provided in applicable regulations or orders of the Commission, the term of this agreement shall not terminate until all the radioactive material has been removed from the location and transportation of the radioactive material from the location has ended as defined in paragraph 4(b), Article I. Termination of the term of this agreement shall not affect any obligation of the licensee or the Commission under this agreement with respect to any nuclear incident occurring during the term of this agreement.
 
-United States Nuclear Regulatory Commission attachment
+United States Nuclear Regulatory Commissionattachment
 
 Indemnity Agreement No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -126,7 +126,7 @@ Item 6—The indemnity agreement designated above, of which this Attachment is a
 
 For the U.S. Nuclear Regulatory Commission.
 
- For  By
+ For By
 
 Dated at Bethesda, MD, the \_\_\_\_\_\_\_\_
 

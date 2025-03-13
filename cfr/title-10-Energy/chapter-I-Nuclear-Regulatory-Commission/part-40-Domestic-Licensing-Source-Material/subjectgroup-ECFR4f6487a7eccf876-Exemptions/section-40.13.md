@@ -16,7 +16,7 @@
 
 (iii) Glassware containing not more than 2 percent by weight source material or, for glassware manufactured before August 27, 2013, 10 percent by weight source material; but not including commercially manufactured glass brick, pane glass, ceramic tile, or other glass or ceramic used in construction;
 
-(iv) Glass enamel or glass enamel frit containing not more than 10 percent by weight source material imported or ordered for importation into the United States, or initially distributed by manufacturers in the United States, before July 25, 1983. 1
+(iv) Glass enamel or glass enamel frit containing not more than 10 percent by weight source material imported or ordered for importation into the United States, or initially distributed by manufacturers in the United States, before July 25, 1983.1
 
 1 On July 25, 1983, the exemption of glass enamel or glass enamel frit was suspended. The exemption was eliminated on September 11, 1984.
 
@@ -26,11 +26,11 @@
 
 (5) Uranium contained in counterweights installed in aircraft, rockets, projectiles, and missiles, or stored or handled in connection with installation or removal of such counterweights: *Provided,* That:
 
-(i) Each counterweight has been impressed with the following legend clearly legible through any plating or other covering: “Depleted Uranium”; 2
+(i) Each counterweight has been impressed with the following legend clearly legible through any plating or other covering: “Depleted Uranium”;2
 
 2 The requirements specified in paragraphs (c)(5)(i) and (ii) of this section need not be met by counterweights manufactured prior to Dec. 31, 1969, provided that such counterweights were manufactured under a specific license issued by the Atomic Energy Commission and were impressed with the legend required by § 40.13(c)(5)(ii) in effect on June 30, 1969.
 
-(ii) Each counterweight is durably and legibly labeled or marked with the identification of the manufacturer, and the statement: “Unauthorized Alterations Prohibited”; 2 and
+(ii) Each counterweight is durably and legibly labeled or marked with the identification of the manufacturer, and the statement: “Unauthorized Alterations Prohibited”;2 and
 
 (iii) The exemption contained in this paragraph shall not be deemed to authorize the chemical, physical, or metallurgical treatment or processing of any such counterweights other than repair or restoration of any plating or other covering.
 

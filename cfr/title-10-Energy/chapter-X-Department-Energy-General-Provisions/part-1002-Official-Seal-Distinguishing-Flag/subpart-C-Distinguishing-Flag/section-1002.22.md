@@ -4,7 +4,7 @@
 
 (1) In the offices of the Secretarial officers, Chairman of the Federal Energy Regulatory Commission, and heads of field locations designated below:
 
-Power Administrations. Regional Offices. Operations Offices. Certain Field Offices and other locations as designated by the Director of Administration.
+Power Administrations.Regional Offices.Operations Offices.Certain Field Offices and other locations as designated by the Director of Administration.
 
 (2) At official DOE ceremonies.
 

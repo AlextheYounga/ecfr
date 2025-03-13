@@ -8,7 +8,7 @@ x = B times P
 
 (2) In the formula:
 
-x = Amount of financial protection in dollars. B = Base amount of financial protection. P = Population factor.
+x = Amount of financial protection in dollars.B = Base amount of financial protection.P = Population factor.
 
 (3) The base amount of financial protection is equal to $185 times the maximum power level, expressed in thermal kilowatts, as authorized by the applicable license.
 

@@ -12,7 +12,7 @@
 
 101.2 The provisions of this part do not apply to:
 
-101.2.1 Buildings, or portions thereof separated from the remainder of the building, that have a peak energy usage for space conditioning, service water heating, and lighting of less than 3.5 Btu/(h•ft 2 of gross floor area.
+101.2.1 Buildings, or portions thereof separated from the remainder of the building, that have a peak energy usage for space conditioning, service water heating, and lighting of less than 3.5 Btu/(h•ft2 of gross floor area.
 
 101.2.2 Buildings of less than 100 square feet of gross floor area.
 

@@ -6,7 +6,7 @@
 
 (2) Procedures and standards for NRC approval of packaging and shipping procedures for fissile material and for a quantity of other licensed material in excess of a Type A quantity.
 
-(b) The packaging and transport of licensed material are also subject to other parts of this chapter (e.g., 10 CFR parts 20, 21, 30, 40, 70, and 73) and to the regulations of other agencies (e.g., the U.S. Department of Transportation (DOT) and the U.S. Postal Service) 1 having jurisdiction over means of transport. The requirements of this part are in addition to, and not in substitution for, other requirements.
+(b) The packaging and transport of licensed material are also subject to other parts of this chapter (e.g., 10 CFR parts 20, 21, 30, 40, 70, and 73) and to the regulations of other agencies (e.g., the U.S. Department of Transportation (DOT) and the U.S. Postal Service)1 having jurisdiction over means of transport. The requirements of this part are in addition to, and not in substitution for, other requirements.
 
 1 Postal Service manual (Domestic Mail Manual), Section 124, which is incorporated by reference at 39 CFR 111.1.
 

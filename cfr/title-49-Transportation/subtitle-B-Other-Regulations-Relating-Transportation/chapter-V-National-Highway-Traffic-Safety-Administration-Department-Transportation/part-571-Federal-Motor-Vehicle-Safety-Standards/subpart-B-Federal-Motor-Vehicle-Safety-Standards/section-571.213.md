@@ -588,7 +588,7 @@ S5.8.1.1 *Upgraded attached registration form.* For child restraint systems manu
 
 (4) Manufacturers may provide instructions to register the child restraint system electronically. If an electronic registration form is used or referenced, it must meet the requirements of S5.8.2 of this section.
 
-(5) Manufacturers may optionally provide statements to the owner explaining that the registration card is not a warranty card, and that the information collected from the owner will not be used for marketing purposes
+(5) Manufacturers may optionally provide statements to the owner explaining that the registration card is not a warranty card, and that the information collected from the owner will not be used for marketing purposes.
 
 S5.8.2 *Electronic registration form.* (a) Each electronic registration form provided for child restraint systems manufactured before June 30, 2025, shall:
 
@@ -610,7 +610,7 @@ S5.8.2 *Electronic registration form.* (a) Each electronic registration form pro
 
 (c) The electronic registration form shall be accessed directly by the web address that the manufacturer printed on the attached registration form. The form must appear on screen when the consumer has inputted the web address provided by the manufacturer, without any further keystrokes on the keyboard or clicks of the mouse.
 
-S5.8.2.1 *Upgraded electronic registration form.* (a) Each electronic registration form provided for child restraint systems manufactured on or after December 5, 2024, shall:
+S5.8.2.1 *Upgraded electronic registration form.* (a) Each electronic registration form provided for child restraint systems manufactured on or after June 30, 2025, shall:
 
 (1) Contain statements at the top of the form:
 
@@ -914,6 +914,4 @@ S10.2.3 *Hybrid III 6-year-old in belt-positioning seats, Hybrid III weighted 6-
 
 (2) Rotate each dummy arm downwards in the plane parallel to the dummy's midsagittal plane until the arm contacts a surface of the child restraint system or the standard seat assembly, in the case of an add-on system, or the specific vehicle shell or specific vehicle, in the case of a built-in system, as appropriate. Position the arms, if necessary, so that the arm placement does not inhibit torso or head movement in tests conducted under S6.
 
-![](/graphics/er18jn03.012.gif)![](/graphics/er05mr99.001.gif)![](/graphics/er31au99.012.gif)![](/graphics/er31au99.013.gif)![](/graphics/ec01au91.100.gif)![](/graphics/ec01au91.101.gif)![](/graphics/er18jn03.013.gif)![](/graphics/ec01au91.102.gif)![](/graphics/ec01au91.103.gif)![](/graphics/ec01au91.104.gif)![](/graphics/ec01au91.105.gif)![](/graphics/ec01au91.106.gif)![](/graphics/ec01au91.107.gif)![](/graphics/er09se05.000.gif)![](/graphics/er05de23.005.gif)Figure 9a-2 to § 571.213![](/graphics/er09se05.001.gif)![](/graphics/er05de23.006.gif)Figure 9b-2 to § 571.213![](/graphics/er27no96.014.gif)![](/graphics/er05mr99.004.gif)![](/graphics/er09mr04.023.gif)![](/graphics/er27fe12.001.gif)![](/graphics/er27fe12.002.gif)[44 FR 72147, Dec. 13, 1979]Editorial Notes:1. For Federal Register citations affecting § 571.213, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
-
-2. At 89 FR 81844, Oct. 9, 2024, § 571.213 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.
+![](/graphics/er18jn03.012.gif)![](/graphics/er05mr99.001.gif)![](/graphics/er31au99.012.gif)![](/graphics/er31au99.013.gif)![](/graphics/ec01au91.100.gif)![](/graphics/ec01au91.101.gif)![](/graphics/er18jn03.013.gif)![](/graphics/ec01au91.102.gif)![](/graphics/ec01au91.103.gif)![](/graphics/ec01au91.104.gif)![](/graphics/ec01au91.105.gif)![](/graphics/ec01au91.106.gif)![](/graphics/ec01au91.107.gif)![](/graphics/er09se05.000.gif)![](/graphics/er05de23.005.gif)Figure 9a-2 to § 571.213![](/graphics/er09se05.001.gif)![](/graphics/er05de23.006.gif)Figure 9b-2 to § 571.213![](/graphics/er27no96.014.gif)![](/graphics/er05mr99.004.gif)![](/graphics/er09mr04.023.gif)![](/graphics/er27fe12.001.gif)![](/graphics/er27fe12.002.gif)[44 FR 72147, Dec. 13, 1979]Editorial Note:For Federal Register citations affecting § 571.213, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

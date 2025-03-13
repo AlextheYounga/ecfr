@@ -160,11 +160,11 @@ The following provisions are applicable to each licensee operating a facility de
 
 4. If the Commission determines that the licensee is financially able to reimburse the Commission for a deferred premium payment made in its behalf, and the licensee, after notice of such determination by the Commission fails to make such reimbursement within 120 days, the Commission will take appropriate steps to suspend the license for 30 days. The Commission may take any further action as necessary if reimbursement is not made within the 30-day suspension period including, but not limited to, termination of the operating license or combined license.
 
-United States Nuclear Regulatory CommissionIndemnity Agreement No. \_\_\_\_\_\_AttachmentItem 1—Licensee Address Item 2—Amount of financial protection Item 3—License number or numbers Item 4—Location Item 5—The Indemnity Agreement designated above, of which this Attachment is a part, is effective as of \_\_\_\_\_\_M., on the \_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
+United States Nuclear Regulatory CommissionIndemnity Agreement No. \_\_\_\_\_\_AttachmentItem 1—LicenseeAddressItem 2—Amount of financial protectionItem 3—License number or numbersItem 4—LocationItem 5—The Indemnity Agreement designated above, of which this Attachment is a part, is effective as of \_\_\_\_\_\_M., on the \_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
 
 For the United States Nuclear Regulatory Commission.
 
-By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_For the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Name of licensee) By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_For the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Name of licensee)By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Dated at Bethesda, MD, the \_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
 

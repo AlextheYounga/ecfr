@@ -6,4 +6,5 @@
 
 (c) Shall permit verification thereof by the International Atomic Energy Agency (IAEA) and take other action as necessary to implement the US/IAEA Safeguards Agreement, as described in Part 75 of this chapter.
 
-[73 FR 78606, Dec. 23, 2008, as amended at 85 FR 65663, Oct. 16, 2020] ]
+[73 FR 78606, Dec. 23, 2008, as amended at 85 FR 65663, Oct. 16, 2020]
+]

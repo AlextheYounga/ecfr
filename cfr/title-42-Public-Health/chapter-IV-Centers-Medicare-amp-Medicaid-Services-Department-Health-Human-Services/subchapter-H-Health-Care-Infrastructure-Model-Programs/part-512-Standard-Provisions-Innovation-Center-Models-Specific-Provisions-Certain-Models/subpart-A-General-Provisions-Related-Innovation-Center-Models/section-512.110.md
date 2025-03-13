@@ -1,5 +1,7 @@
 ##### § 512.110 Definitions. #####
 
+Link to an amendment published at 89 FR 96444, Dec. 4, 2024.
+
 For purposes of this part, the following terms are defined as follows unless otherwise stated:
 
 *Beneficiary* means an individual who is enrolled in Medicare FFS.

@@ -1,5 +1,7 @@
 ##### § 127.303 What must a concern submit for certification? #####
 
+Link to an amendment published at 89 FR 96093, Dec. 4, 2024.
+
 (a)(1) *SBA certification.* (i) To be certified by SBA as a WOSB or EDWOSB, a concern must provide documents and information demonstrating that it meets the requirements set forth in part 127, subpart B. SBA maintains a list of the minimum required documents that can be found at *https://certify.sba.gov* or any successor system. A concern may submit additional documents and information to support its eligibility. The required documents must be provided to SBA during the application process electronically. This may include, but is not limited to, corporate records, business and personal financial records, including copies of signed Federal personal and business tax returns, and individual and business bank statements.
 
 (ii) A concern that is certified by the 8(a) BD Program and is owned and controlled by one or more women may use documentation of its most recent annual review, or documentation of its 8(a) acceptance if it has not yet had an annual review, in support of its application for certification.

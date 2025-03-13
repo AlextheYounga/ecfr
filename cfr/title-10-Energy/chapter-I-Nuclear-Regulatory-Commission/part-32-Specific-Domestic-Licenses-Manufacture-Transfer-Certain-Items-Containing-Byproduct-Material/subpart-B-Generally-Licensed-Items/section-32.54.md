@@ -1,6 +1,6 @@
 ##### § 32.54 Same: Labeling of devices. #####
 
-(a) A person licensed under § 32.53 to manufacture, assemble, or initially transfer devices containing tritium or promethium-147 for distribution to persons generally licensed under § 31.7 of this chapter shall, except as provided in paragraph (b) of this section, affix to each device a label containing the radiation symbol prescribed by § 20.1901 of this chapter, such other information as may be required by the Commission including disposal instructions when appropriate, and the following or a substantially similar statement which contains the information called for in the following statement: 1
+(a) A person licensed under § 32.53 to manufacture, assemble, or initially transfer devices containing tritium or promethium-147 for distribution to persons generally licensed under § 31.7 of this chapter shall, except as provided in paragraph (b) of this section, affix to each device a label containing the radiation symbol prescribed by § 20.1901 of this chapter, such other information as may be required by the Commission including disposal instructions when appropriate, and the following or a substantially similar statement which contains the information called for in the following statement:1
 
 1 Devices licensed under § 32.53 prior to January 19, 1975 may bear labels authorized by the regulations in effect on January 1, 1975.
 

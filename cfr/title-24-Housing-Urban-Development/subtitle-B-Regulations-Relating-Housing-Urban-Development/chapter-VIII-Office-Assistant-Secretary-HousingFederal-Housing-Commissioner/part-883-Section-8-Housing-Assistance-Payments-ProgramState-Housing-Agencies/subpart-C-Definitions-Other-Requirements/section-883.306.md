@@ -1,5 +1,7 @@
 ##### § 883.306 Limitation on distributions. #####
 
+Link to an amendment published at 89 FR 96098, Dec. 4, 2024.
+
 (a) Non-profit owners are not entitled to distributions of project funds.
 
 (b) For the life of the Contract, project funds may only be distributed to profit-motivated owners at the end of each fiscal year of project operation following the effective date of the Contract and after all project expenses have been paid, or funds have been set aside for payment, and all reserve requirements have been met. The first year's distribution may not be made until the HFA certification of project costs, (See § 883.411), where applicable, has been submitted to HUD. The HFA must certify that distributions will not exceed the following maximum returns:

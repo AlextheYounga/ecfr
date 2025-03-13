@@ -1,5 +1,7 @@
 ##### § 52i.13 Other HHS policies and regulations that apply. #####
 
+Link to an amendment published at 89 FR 96123, Dec. 4, 2024.
+
 Several other regulations and policies apply to grants under this part. These include, but are not limited to:
 
 (a) 2 CFR part 376—HHS Nonprocurement debarment and suspension.
