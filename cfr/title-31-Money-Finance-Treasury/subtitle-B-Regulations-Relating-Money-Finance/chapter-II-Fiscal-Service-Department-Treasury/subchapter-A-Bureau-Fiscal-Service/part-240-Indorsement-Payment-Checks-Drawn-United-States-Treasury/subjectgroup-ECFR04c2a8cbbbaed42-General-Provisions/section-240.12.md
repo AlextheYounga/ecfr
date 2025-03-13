@@ -1,5 +1,7 @@
 ##### § 240.12 Processing of checks. #####
 
+Link to an amendment published at 88 FR 74889, Nov. 1, 2023.
+
 (a) *Federal Reserve Banks.* (1) Federal Reserve Banks must cash checks for Government disbursing officials when such checks are drawn by the disbursing officials to their own order, except that payment of such checks must be refused if:
 
 (i) A check bears a material defect or alteration;

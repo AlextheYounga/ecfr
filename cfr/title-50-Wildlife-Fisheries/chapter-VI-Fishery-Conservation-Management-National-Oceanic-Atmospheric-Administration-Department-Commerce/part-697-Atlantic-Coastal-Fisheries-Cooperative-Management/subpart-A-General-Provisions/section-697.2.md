@@ -1,7 +1,5 @@
 ##### § 697.2 Definitions. #####
 
-Link to an amendment published at 88 FR 67676, Oct. 2, 2023.
-
 (a) In addition to the definitions in the Magnuson-Stevens Act and in §§ 600.10 and 648.2 of this chapter, for the purposes of this part, the following terms have the following meanings:
 
 *American lobster* or lobster means *Homarus americanus.*
@@ -110,13 +108,11 @@ Link to an amendment published at 88 FR 67676, Oct. 2, 2023.
 
 *Point Judith Light* means the aid to navigation light located at Point Judith, RI, and defined as follows: Located at 41°21.7′ N. lat., 71°28.9′ W. long.; is 65 ft (19.8 m) above the water; and is shown from an octagonal tower 51 ft (15.5 m) high.
 
-*Qualifying year* means any calendar year during the period from March 25, 1991, through September 1, 1999, excluding the time periods in calendar years 1991 and 1999 that are outside the qualification period (*i.e.*, January 1, 1991 through March 24, 1991, and September 2, 1999, through December 31, 1999), and refers to the specific year selected by the applicant for the purposes of qualifying for access to the lobster trap fishery in Areas 3, 4 and/or 5 under the requirements set forth in 697.4(a)(7)(vi-x).
-
 *Recreational fishing* means fishing that is not intended to, nor results in the barter, trade, or sale of fish.
 
 *Recreational fishing vessel* means any vessel from which no fishing other than recreational fishing is conducted. Charter and head boats and commercial dive vessels are not considered recreational fishing vessels.
 
-*Regional Administrator*, means Regional Administrator, Northeast Region, NMFS, or Regional Administrator, Southeast Region, NMFS, whichever has the applicable jurisdiction, or a respective designee.
+*Regional Administrator,* means Regional Administrator, Greater Atlantic Region, NMFS, or Regional Administrator, Southeast Region, NMFS, whichever has the applicable jurisdiction, or a respective designee.
 
 *Retain* means to fail to return any species specified under § 697.7 of this chapter to the sea immediately after the hook has been removed or after the species has otherwise been released from the capture gear.
 
@@ -142,4 +138,4 @@ Link to an amendment published at 88 FR 67676, Oct. 2, 2023.
 
 (b) [Reserved]
 
-[64 FR 68248, Dec. 6, 1999, as amended at 66 FR 8911, Feb. 5, 2001; 66 FR 14501, Mar. 13, 2001; 68 FR 14925, Mar. 27, 2003; 68 FR 56790, Oct. 2, 2003; 71 FR 13037, Mar. 14, 2006; 73 FR 58061, Oct. 6, 2008; 74 FR 37549, July 29, 2009; 80 FR 2033, Jan. 15, 2015; 84 FR 4737, Feb. 19, 2019; 84 FR 61579, Nov. 13, 2019]
+[64 FR 68248, Dec. 6, 1999, as amended at 66 FR 8911, Feb. 5, 2001; 66 FR 14501, Mar. 13, 2001; 68 FR 14925, Mar. 27, 2003; 68 FR 56790, Oct. 2, 2003; 71 FR 13037, Mar. 14, 2006; 73 FR 58061, Oct. 6, 2008; 74 FR 37549, July 29, 2009; 80 FR 2033, Jan. 15, 2015; 84 FR 4737, Feb. 19, 2019; 84 FR 61579, Nov. 13, 2019; 88 FR 67676, Oct. 2, 2023]

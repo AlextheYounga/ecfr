@@ -1,5 +1,7 @@
 ##### § 240.6 Provisional credit; first examination; declination; final payment. #####
 
+Link to an amendment published at 88 FR 74889, Nov. 1, 2023.
+
 (a) Any credit issued by a Federal Reserve Bank to a financial institution shall be a provisional credit until Treasury completes first examination of the check, or as provided in paragraph (d) of this section.
 
 (b) Treasury shall have the right as a drawee to complete first examination of checks presented for payment, to reconcile checks, and, when appropriate, to make a declination on any check.

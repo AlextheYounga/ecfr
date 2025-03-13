@@ -1,7 +1,11 @@
 ##### § 981.450 Exempt dispositions. #####
 
-Link to an amendment published at 88 FR 67627, Oct. 2, 2023.
+As provided in § 981.50, any handler disposing of almonds for crushing into oil, or for animal feed, may have the kernel weight of these almonds excluded from their program obligations, so long as:
 
-As provided in § 981.50 any handler disposing of almonds for crushing into oil, or for poultry or animal feed, may have the kernel weight of these almonds excluded from his receipts, and exempt from program obligations so long as the handler qualifies as, or delivers such almonds to, a crusher, a feeder, or dealer in nut waste; the crusher, feeder, or dealer are acceptable to the Board; each delivery is made directly to the crusher, feeder, or dealer, by June 30 of the crop year; and each delivery is certified to the Board by the handler on ABC Form 8.
+(a) The handler qualifies as, or delivers such almonds to, a Board-approved accepted user;
 
-[42 FR 19322, Apr. 13, 1977]
+(b) Each delivery is made directly to the accepted user by June 30 of each crop year; and
+
+(c) Each delivery is certified to the Board by the handler on ABC Form 8.
+
+[88 FR 67627, Oct. 2, 2023]

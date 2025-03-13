@@ -1,5 +1,7 @@
 ##### § 240.4 Presentment guarantees. #####
 
+Link to an amendment published at 88 FR 74889, Nov. 1, 2023.
+
 The guarantors of a check presented to the Treasury for payment are deemed to guarantee to the Treasury all of the following:
 
 (a) *Indorsements.* That all prior indorsements are genuine, whether or not an express guarantee is placed on the check. When the first indorsement has been made by one other than the payee personally, the presenting bank and the indorsers are deemed to guarantee to the Treasury, in addition to other guarantees, that the person who so indorsed had unqualified capacity and authority to indorse the check on behalf of the payee.

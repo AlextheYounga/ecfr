@@ -1,5 +1,7 @@
 ##### § 240.2 Definitions. #####
 
+Link to an amendment published at 88 FR 74888, Nov. 1, 2023.
+
 (a) *Administrative offset* or *offset,* for purposes of this section, has the same meaning as defined in 31 U.S.C. 3701(a)(1) and 31 CFR part 285.
 
 (b) *Agency* means any agency, department, instrumentality, office, commission, board, service, or other establishment of the United States authorized to issue Treasury checks or for which checks drawn on the United States Treasury are issued.

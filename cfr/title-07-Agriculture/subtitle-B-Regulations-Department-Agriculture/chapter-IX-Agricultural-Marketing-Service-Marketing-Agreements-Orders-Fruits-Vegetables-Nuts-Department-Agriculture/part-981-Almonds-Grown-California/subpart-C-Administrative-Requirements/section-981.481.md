@@ -1,9 +1,7 @@
 ##### § 981.481 Interest and late payment charges. #####
 
-Link to an amendment published at 88 FR 67627, Oct. 2, 2023.
+(a) Pursuant to § 981.81(e), the Board shall impose an interest charge on any handler whose assessment payment has not been received in the Board's office within 30 days of the invoice date shown on the handler's statement, unless an envelope containing the payment has been legibly postmarked by the U.S. Postal Service or some other verifiable delivery tracking system as having been remitted within 30 days of the invoice date. The interest charge shall be a rate of one and a half percent per month and shall be applied to the unpaid assessment balance for the number of days all or any part of the unpaid balance is delinquent beyond the 30-day payment period.
 
-(a) Pursuant to § 981.481, the Board shall impose an interest charge on any handler whose assessment payment has not been received in the Board's office, or the envelope containing the payment legibly postmarked by the U.S. Postal Service, within 30 days of the invoice date shown on the handler's statement. The interest charge shall be a rate of one and one half percent per month and shall be applied to the unpaid assessment balance for the number of days all or any part of the unpaid balance is delinquent beyond the 30 day payment period.
+(b) In addition to the interest charge specified in paragraph (a) of this section, the Board shall impose a late payment charge on any handler whose payment has not been received in the Board's office within 60 days of the invoice date, unless an envelope containing the payment has been legibly postmarked by the U.S. Postal Service or some other verifiable delivery tracking system as having been remitted within 60 days of the invoice date. The late payment charge shall be 10 percent of the unpaid balance.
 
-(b) In addition to the interest charge specified in paragraph (a) of this section, the Board shall impose a late payment charge on any handler whose payment has not been received in the Board's office, or the envelope containing the payment legibly postmarked by the U.S. Postal Service, within 60 days of the invoice date. The late payment charge shall be 10 percent of the unpaid balance.
-
-[61 FR 64603, Dec. 6, 1996]
+[88 FR 67267, Oct. 2, 2023]

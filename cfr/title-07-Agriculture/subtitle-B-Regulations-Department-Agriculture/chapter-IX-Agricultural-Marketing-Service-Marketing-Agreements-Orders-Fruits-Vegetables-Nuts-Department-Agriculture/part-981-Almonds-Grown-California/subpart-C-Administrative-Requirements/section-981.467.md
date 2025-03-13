@@ -1,8 +1,5 @@
 ##### § 981.467 Disposition in reserve outlets by handlers. #####
 
-Link to an amendment published at 88
-FR 67627, Oct. 2, 2023.
-
 (a) *Agents of Board.* Beginning with August 1 of any crop year, a handler may become an agent of the Board pursuant to § 981.67 for the purpose of disposing of reserve almonds of such crop year, in the authorized outlets. The agency shall be established upon a handler executing a reserve agreement (ABC Form 12) ABC, applicable to diversion, containing terms and conditions specified by the Board.
 
 (b) *Reserve credit.* Credit in satisfaction of a reserve obligation shall not exceed the accrued reserve obligation derived by applying the reserve percentage to the quanity of almonds received by a handler for his own account during the crop year. Disposition by an agent of the Board in eligible reserve outlets within a crop year in excess of his reserve obligation shall be held to be a disposition of salable almonds. Whenever such disposition has been inspected and certified, if required, and has complied with the terms, conditions, and documentation applicable to disposition of reserve almonds as determined by the Board, the disposition may be credited against any reserve obligation subsequently incurred by the handler during that crop year, or the disposition may be credited pursuant to § 981.455(b) against the reserve obligation of another handler.
@@ -21,4 +18,4 @@ FR 67627, Oct. 2, 2023.
 
 (d) For the 1990-91 crop year only, the reserve disposition obligation date is extended until September 1, 1992, and the date for submitting documentation verifying reserve dispositions is extended to December 1, 1992.
 
-[42 FR 19322, Apr. 13, 1977, as amended at 56 FR 10508, Mar. 13, 1991; 56 FR 51150, Oct. 10, 1991; 57 FR 27353, June 19, 1992; 61 FR 32922, June 26, 1996]
+[42 FR 19322, Apr. 13, 1977, as amended at 56 FR 10508, Mar. 13, 1991; 56 FR 51150, Oct. 10, 1991; 57 FR 27353, June 19, 1992; 61 FR 32922, June 26, 1996]At 88 FR 67627, Oct. 2, 2023, §§981.467 was stayed indefinitely.
