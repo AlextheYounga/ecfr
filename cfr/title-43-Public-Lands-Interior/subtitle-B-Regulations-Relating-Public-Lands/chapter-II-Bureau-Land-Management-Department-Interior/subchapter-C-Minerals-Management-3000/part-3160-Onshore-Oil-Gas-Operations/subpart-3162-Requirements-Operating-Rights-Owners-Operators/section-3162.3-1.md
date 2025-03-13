@@ -1,22 +1,22 @@
 ##### § 3162.3-1 Drilling applications and plans. #####
 
-Link to an amendment published at 89 FR 25426, Apr. 10, 2024.
-
 (a) Each well shall be drilled in conformity with an acceptable well-spacing program at a surveyed well location approved or prescribed by the authorized officer after appropriate environmental and technical reviews (see § 3162.5-1 of this title). An acceptable well-spacing program may be either (1) one which conforms with a spacing order or field rule issued by a State Commission or Board and accepted by the authorized officer, or (2) one which is located on a lease committed to a communitized or unitized tract at a location approved by the authorized officer, or (3) any other program established by the authorized officer.
 
 (b) Any well drilled on restricted Indian land shall be subject to the location restrictions specified in the lease and/or Title 25 of the CFR.
 
 (c) The operator shall submit to the authorized officer for approval an Application for Permit to Drill for each well. No drilling operations, nor surface disturbance preliminary thereto, may be commenced prior to the authorized officer's approval of the permit.
 
-(d) The Application for Permit to Drill process shall be initiated at least 30 days before commencement of operations is desired. Prior to approval, the application shall be administratively and technically complete. A complete application consists of Form 3160-3 and the following attachments:
+(d) The Application for Permit to Drill process must be initiated at least 30 days before commencement of operations is desired. Prior to approval, the application must be administratively and technically complete. A complete application consists of Form 3160-3 and the following attachments:
 
 (1) A drilling plan, which may already be on file, containing information required by paragraph (e) of this section and appropriate orders and notices.
 
 (2) A surface use plan of operations containing information required by paragraph (f) of this section and appropriate orders and notices.
 
-(3) Evidence of bond coverage as required by the Department of the Interior regulations, and
+(3) Evidence of bond coverage as required by the Department of the Interior regulations.
 
-(4) Such other information as may be required by applicable orders and notices.
+(4) For an oil well, a Waste Minimization Plan (WMP), as required by paragraph (j) or a self-certification statement, as required by paragraph (k) (These requirements do not apply to gas wells); and
+
+(5) Such other information as may be required by applicable orders and notices.
 
 (e) Each drilling plan shall contain the information specified in applicable notices or orders, including a description of the drilling program, the surface and projected completion zone location, pertinent geologic data, expected hazards, and proposed mitigation measures to address such hazards. A drilling plan may be submitted for a single well or for several wells proposed to be drilled to the same zone within a field or area of geological and environmental similarity. A drilling plan may be modified from time to time as circumstances may warrant, with the approval of the authorized officer.
 
@@ -36,4 +36,24 @@ The surface use plan of operations for National Forest System lands shall be app
 
 (i) Approval of the Application for Permit to Drill does not warrant or certify that the applicant holds legal or equitable title to the subject lease(s) which would entitle the applicant to conduct drilling operations.
 
-[47 FR 47765, Oct. 27, 1982. Redesignated and amended at 48 FR 36583, Aug. 12, 1983, further amended at 52 FR 5391, Feb. 20, 1987; 53 FR 17363, May 16, 1988; 53 FR 22846, June 17, 1988; 53 FR 31958, Aug. 22, 1988; 81 FR 83078, Nov. 18, 2016; 82 FR 58072, Dec. 8, 2017; 83 FR 49211, Sept. 28, 2018]
+(j) An Application for Permit to Drill for an oil well with a WMP must include the following information in the WMP:
+
+(1) The anticipated initial oil production rate from the oil well and the anticipated production decline over the first 3 years of production;
+
+(2) The anticipated initial oil-well gas production rate from the oil well and the anticipated production decline over the first 3 years of production;
+
+(3) Certification that the operator has a valid, executed gas sales contract to sell to a purchaser 100 percent of the produced oil-well gas, less gas anticipated for use on-lease pursuant to 43 CFR subpart 3178.
+
+(4) Any other information demonstrating the operator's plans to avoid the waste of gas production from any source, including, as appropriate, from pneumatic equipment, storage tanks, and leaks.
+
+(k) A self-certification is a written statement that the operator will be able to capture, as defined in 43 CFR 3179.10, 100 percent of the oil-well gas that the oil well produces. An approved Application for Permit to Drill with a self-certification statement is not subject to 43 CFR 3179.70(a), and all flared gas is an avoidable loss with a royalty obligation, except for emergencies as identified in 43 CFR 3179.83. A self-certification statement applies and is enforceable from the date of first production until the well is plugged and abandoned.
+
+(l) The BLM may take one of the following actions based on the operator's WMP or self-certification:
+
+(1) Approve an administratively and technically complete oil-well application with a WMP subject to conditions for flared gas, as described in 43 CFR 3179.70(a);
+
+(2) Approve an administratively and technically complete oil-well application with a self-certification for oil-well gas capture subject to conditions for flared gas, as described in this paragraph;
+
+(3) Defer action on an oil-well application with a WMP or self-certification statement that is not administratively and technically complete in the interest of preventing waste until such time as the operator is able to amend the application to comply with the requirements in paragraph (j) of this section or this paragraph, as applicable. If the applicant does not address deficiencies in the WMP or the self-certification to comply with the applicable requirements within 2 years of submission of the application, the BLM will disapprove the application.
+
+[47 FR 47765, Oct. 27, 1982. Redesignated and amended at 48 FR 36583, Aug. 12, 1983, further amended at 52 FR 5391, Feb. 20, 1987; 53 FR 17363, May 16, 1988; 53 FR 22846, June 17, 1988; 53 FR 31958, Aug. 22, 1988; 81 FR 83078, Nov. 18, 2016; 82 FR 58072, Dec. 8, 2017; 83 FR 49211, Sept. 28, 2018; 89 FR 25426, Apr. 10, 2024]
