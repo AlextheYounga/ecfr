@@ -1,10 +1,8 @@
 ##### § 78.95 General operation requirements. #####
 
-Link to an amendment published at 89 FR 62663, Aug. 1, 2024.
-
 (a) *Eligibility documentation.* Prior to providing suicide prevention services, grantees must verify, document, and classify each participant's eligibility for suicide prevention services, and determine and document each participant's degree of risk of suicide using tools identified in the suicide prevention services grant agreement. Documentation must be maintained consistent with § 78.150.
 
-(b) *Required screening prior to services ending.* Prior to services ending, grantees must provide or coordinate the provision of a mental health screening using the screening tool described in § 78.50(a) to all participants they serve, when possible.
+(b) *Required screening prior to services ending.* Prior to services ending, grantees must provide or coordinate the provision of a mental health screening using the screening tool described in § 78.50(a) to all eligible individuals they serve, when possible.
 
 (c) *Suicide prevention services documentation.* For each participant who receives suicide prevention services from the grantee, the grantee must document the suicide prevention services provided or coordinated, how such services are provided or coordinated, the duration of the services provided or coordinated, and any goals for the provision or coordination of such services. Such documentation must be maintained consistent with § 78.150.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 89 FR 62663, Aug. 1, 2024.
 
 (k) *Administration of suicide prevention services grants.* Grantees must ensure that suicide prevention services grants are administered in accordance with the requirements of this part, the suicide prevention services grant agreement, and other applicable Federal, State, and local laws and regulations, including Federal civil rights laws. Grantees are responsible for ensuring that any community partners carry out activities in compliance with this part.
 
-(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-TBD)
+(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0904)[87 FR 13835, Mar. 10, 2022, as amended at 89 FR 62663, Aug. 1, 2024]

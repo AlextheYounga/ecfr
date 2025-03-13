@@ -1,7 +1,5 @@
 ##### § 126.18 Exemptions regarding intra-company, intra-organization, and intra-governmental transfers to employees who are dual nationals or third-country nationals. #####
 
-Link to an amendment published at 89 FR 67291, Aug. 20, 2024.
-
 (a) Subject to the requirements of paragraphs (b) and (c) of this section and notwithstanding any other provisions of this part, and where the exemption provided in paragraph (d) of this section cannot be implemented because of applicable domestic laws, no approval is needed from the Directorate of Defense Trade Controls (DDTC) for the transfer of unclassified defense articles, which includes technical data, to or within a foreign business entity, foreign governmental entity, or international organization that is an authorized end-user or consignee (including approved sub-licensees) for those defense articles, including the transfer to dual nationals or third-country nationals who are bona fide regular employees, directly employed by the foreign consignee or end-user. The transfer of defense articles pursuant to this section must take place completely within the physical territory of the country where the end-user is located, where the governmental entity or international organization conducts official business, or where the consignee operates, and be within the scope of an approved export license, other export authorization, or license exemption.
 
 (b) The provisions of § 127.1(b) of this subchapter are applicable to any transfer under this section. As a condition of transferring to foreign person employees described in paragraph (a) of this section any defense article under this provision, any foreign business entity, foreign governmental entity, or international organization, as a “foreign person” within the meaning of § 120.63 of this subchapter, that receives a defense article, must have effective procedures to prevent diversion to destinations, entities, or for purposes other than those authorized by the applicable export license or other authorization (e.g., written approval or exemption) in order to comply with the applicable provisions of the Arms Export Control Act and the ITAR.
@@ -24,4 +22,18 @@ Link to an amendment published at 89 FR 67291, Aug. 20, 2024.
 
 (5) Not the recipient of any permanent transfer of hardware.
 
-[76 FR 28177, May 16, 2011, as amended at 81 FR 35617, June 3, 2016; 81 FR 62008, Sept. 8, 2016; 81 FR 66807, Sept. 29, 2016; 87 FR 16425, Mar. 23, 2022]
+(e) Notwithstanding any other provisions of this subchapter, no license is required for the retransfer or reexport of classified defense articles to citizens of Australia or the United Kingdom, provided such individuals:
+
+(1) Are dual nationals of another country;
+
+(2) Are authorized users or regular employees of an authorized user of the exemption in § 126.7;
+
+(3) Hold a security clearance approved by Australia, the United Kingdom, or the United States that is equivalent to the classification level of SECRET or above in the United States; and
+
+(4) Are either:
+
+(i) Within the physical territory of Australia, the United Kingdom, or the United States; or
+
+(ii) A member of the armed forces of Australia, the United Kingdom, or the United States acting in their official capacity.
+
+[76 FR 28177, May 16, 2011, as amended at 81 FR 35617, June 3, 2016; 81 FR 62008, Sept. 8, 2016; 81 FR 66807, Sept. 29, 2016; 87 FR 16425, Mar. 23, 2022; 89 FR 67291, Aug. 20, 2024]

@@ -1,0 +1,3 @@
+##### § 102-76.110 Where pedestrian facilities subject to the standard in § 102-76.105(a) are altered, must an alteration to a pedestrian facility be connected by a compliant pedestrian access route to an existing pedestrian circulation path? #####
+
+Yes, pedestrian facilities in public rights-of-way subject to the standard in § 102-76.105(a) that are altered must always be connected by a compliant pedestrian access route to an existing pedestrian circulation path.

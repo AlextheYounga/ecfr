@@ -1,5 +1,7 @@
 ##### § 550.194 How must I protect archaeological resources? #####
 
+Link to an amendment published at 89 FR 71182, Sept. 3, 2024.
+
 (a) If the Regional Director has reason to believe that an archaeological resource may exist in the lease area, the Regional Director will require in writing that your EP, DOCD, or DPP be accompanied by an archaeological report. If the archaeological report suggests that an archaeological resource may be present, you must either:
 
 (1) Locate the site of any operation so as not to adversely affect the area where the archaeological resource may be; or

@@ -1,7 +1,5 @@
 ##### § 124.8 Clauses required both in manufacturing license agreements and technical assistance agreements. #####
 
-Link to an amendment published at 89 FR 67290, Aug. 20, 2024.Link to an amendment published at 89 FR 68778, Aug. 28, 2024.
-
 (a) The following statements must be included both in manufacturing license agreements and in technical assistance agreements:
 
 (1) “This agreement shall not enter into force, and shall not be amended or extended, without the prior written approval of the Department of State of the U.S. Government.”
@@ -12,10 +10,10 @@ Link to an amendment published at 89 FR 67290, Aug. 20, 2024.Link to an amendmen
 
 (4) “No liability will be incurred by or attributed to the U.S. Government in connection with any possible infringement of privately owned patent or proprietary rights, either domestic or foreign, by reason of the U.S. Government's approval of this agreement.”
 
-(5) The technical data or defense service exported from the United States in furtherance of this agreement and any defense article which may be produced or manufactured from such technical data or defense service may not be transferred to a foreign person except pursuant to § 126.18, as specifically authorized in this agreement, or where prior written approval of the Department of State has been obtained.
+(5) “The technical data or defense service exported from the United States in furtherance of this agreement and any defense article which may be produced or manufactured from such technical data or defense service may not be transferred to a foreign person except pursuant to 22 CFR 126.7 or 126.18, as specifically authorized in this agreement, or where prior written approval of the Department of State has been obtained.”
 
 (6) “All provisions in this agreement which refer to the United States Government and the Department of State will remain binding on the parties after the termination of the agreement.”
 
 (b) [Reserved]
 
-[58 FR 39305, July 22, 1993, as amended at 76 FR 28177, May 16, 2011; 81 FR 35616, June 3, 2016; 81 FR 54736, Aug. 17, 2016]
+[58 FR 39305, July 22, 1993, as amended at 76 FR 28177, May 16, 2011; 81 FR 35616, June 3, 2016; 81 FR 54736, Aug. 17, 2016; 89 FR 67290, Aug. 20, 2024; 89 FR 68778, Aug. 28, 2024]

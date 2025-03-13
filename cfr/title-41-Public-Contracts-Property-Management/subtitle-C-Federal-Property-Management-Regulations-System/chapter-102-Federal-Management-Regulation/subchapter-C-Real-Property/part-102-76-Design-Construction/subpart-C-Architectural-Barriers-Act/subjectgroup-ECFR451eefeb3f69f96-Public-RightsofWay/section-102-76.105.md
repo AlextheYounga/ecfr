@@ -1,0 +1,7 @@
+##### § 102-76.105 What standard must public rights-of-way subject to the Architectural Barriers Act and covered under § 102-76.65(a) meet? #####
+
+(a) GSA adopts the appendix to 36 CFR part 1190 without additions or modification as the accessibility standard for pedestrian facilities in the public right-of-way. Pedestrian facilities in the public right-of-way subject to the Architectural Barriers Act (other than facilities in paragraphs (b) and (c) of this section) must meet the accessibility standard for pedestrian facilities in the public right-of-way so that pedestrian facilities located in the public right-of-way are readily accessible to and usable by pedestrians with disabilities. Compliance with this accessibility standard is mandatory; provided, however, that this standard does not address existing pedestrian facilities in the public right-of-way under the Architectural Barriers Act unless the pedestrian facilities are altered at the discretion of a covered entity.
+
+(b) Residential public rights-of-way subject to the Architectural Barriers Act must meet the standards prescribed by the Department of Housing and Urban Development.
+
+(c) Department of Defense and United States Postal Service public rights-of-way subject to the Architectural Barriers Act must meet the standards prescribed by those agencies.

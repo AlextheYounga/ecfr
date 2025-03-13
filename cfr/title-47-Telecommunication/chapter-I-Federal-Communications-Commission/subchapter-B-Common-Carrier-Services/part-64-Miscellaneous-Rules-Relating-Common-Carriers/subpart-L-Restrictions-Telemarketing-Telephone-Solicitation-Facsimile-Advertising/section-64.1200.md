@@ -1,6 +1,6 @@
 ##### § 64.1200 Delivery restrictions. #####
 
-Link to an amendment published at 89 FR 5105, Jan. 26, 2024.Link to an amendment published at 89 FR 15062, Mar. 1, 2024.Link to an amendment published at 89 FR 15762, Mar. 5, 2024.Link to a correction published at 89 FR 17762, Mar. 12, 2024.
+Link to an amendment published at 89 FR 5105, Jan. 26, 2024.Link to an amendment published at 89 FR 15762, Mar. 5, 2024.Link to a correction published at 89 FR 17762, Mar. 12, 2024.
 
 (a) No person or entity may:
 
@@ -408,7 +408,7 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 
 (4) Valid North American Numbering Plan numbers that are allocated to a provider by the North American Numbering Plan Administrator, but are unused, so long as the provider blocking the message is the allocatee of the number and confirms that the number is unused or has obtained verification from the allocatee that the number is unused at the time of blocking.
 
-(q) Paragraph (p) of this section may contain an information-collection and/or recordkeeping requirement. Compliance with paragraph (p) will not be required until this paragraph (q) is removed or contains a compliance date, which will not occur until after the Office of Management and Budget completes review of such requirements pursuant to the Paperwork Reduction Act or until after the Consumer and Governmental Affairs Bureau determines that such review is not required.
+(q) [Reserved]
 
 (r) A mobile wireless provider must provide a point of contact or ensure its aggregator partners or blocking contractors that block text messages on its network provide a point of contact to resolve complaints about erroneous blocking from message senders that can document that their messages have been blocked. Such point of contact may be the same point of contact for voice call blocking error complaints.
 

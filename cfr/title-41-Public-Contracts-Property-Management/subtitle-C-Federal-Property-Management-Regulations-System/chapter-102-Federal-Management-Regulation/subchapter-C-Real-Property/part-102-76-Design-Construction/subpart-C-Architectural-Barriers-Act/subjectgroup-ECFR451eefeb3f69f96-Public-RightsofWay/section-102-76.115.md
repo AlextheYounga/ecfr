@@ -1,0 +1,3 @@
+##### § 102-76.115 Who has the authority to waive or modify the standards in § 102-76.105(a)? #####
+
+The Administrator of General Services has the authority to waive or modify the accessibility standards for buildings and facilities covered by the Architectural Barriers Act (ABA) in § 102-76.105(a) on a case-by-case basis if an agency head or a GSA department head submits a request for waiver or modification and the Administrator determines that the waiver or modification is clearly necessary. The Administrator of General Services must consult with the Access Board to ensure that the waiver or modification is based on findings of fact and not inconsistent with the ABA.
