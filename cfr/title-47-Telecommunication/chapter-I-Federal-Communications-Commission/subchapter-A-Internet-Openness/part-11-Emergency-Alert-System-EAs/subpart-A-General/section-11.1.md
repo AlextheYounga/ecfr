@@ -1,0 +1,5 @@
+##### § 11.1 Purpose. #####
+
+This part contains rules and regulations providing for an Emergency Alert System (EAS). The EAS provides the President with the capability to provide immediate communications and information to the general public at the National, State and Local Area levels during periods of national emergency. The rules in this part describe the required technical standards and operational procedures of the EAS for analog AM, FM, and TV broadcast stations, digital broadcast stations, analog cable systems, digital cable systems, wireline video systems, wireless cable systems, Direct Broadcast Satellite (DBS) services, Satellite Digital Audio Radio Service (SDARS), and other participating entities. The EAS may be used to provide the heads of State and local government, or their designated representatives, with a means of emergency communication with the public in their State or Local Area.
+
+[72 FR 62132, Nov. 2, 2007]

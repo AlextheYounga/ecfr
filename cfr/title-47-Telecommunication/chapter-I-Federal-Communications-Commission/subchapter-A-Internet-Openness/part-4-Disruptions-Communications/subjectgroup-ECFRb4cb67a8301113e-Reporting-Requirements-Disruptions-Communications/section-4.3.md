@@ -1,0 +1,23 @@
+##### § 4.3 Communications providers covered by the requirements of this part. #####
+
+(a) *Cable communications providers* are cable service providers that also provide circuit-switched telephony. Also included are affiliated and non-affiliated entities that maintain or provide communications networks or services used by the provider in offering telephony.
+
+(b) *Communications provider* is an entity that provides for a fee to one or more unaffiliated entities, by radio, wire, cable, satellite, and/or lightguide: two-way voice and/or data communications, paging service, and/or SS7 communications.
+
+(c) *IXC or LEC tandem facilities* refer to tandem switches (or their equivalents) and interoffice facilities used in the provision of interexchange or local exchange communications.
+
+(d) *Satellite communications providers* use space stations as a means of providing the public with communications, such as telephony and paging. Also included are affiliated and non-affiliated entities that maintain or provide communications networks or services used by the provider in offering such communications. “Satellite operators” refer to entities that operate space stations but do not necessarily provide communications services directly to end users.
+
+(e) *Signaling System 7 (SS7)* is a signaling system used to control telecommunications networks. It is frequently used to “set up,” process, control, and terminate circuit-switched telecommunications, including but not limited to domestic and international telephone calls (irrespective of whether the call is wholly or in part wireless, wireline, local, long distance, or is carried over cable or satellite infrastructure), SMS text messaging services, 8XX number type services, local number portability, VoIP signaling gateway services, 555 number type services, and most paging services. For purposes of this rule part, SS7 refers to both the SS7 protocol and the packet networks through which signaling information is transported and switched or routed. It includes future modifications to the existing SS7 architecture that will provide the functional equivalency of the SS7 services and network elements that exist as of August 4, 2004. SS7 communications providers are subject to the provisions of this part 4 regardless of whether or not they provide service directly to end users. Also subject to part 4 of the Commission's rules are affiliated and non-affiliated entities that maintain or provide communications networks or services used by the SS7 provider in offering SS7 communications.
+
+(f) *Wireless service providers* include Commercial Mobile Radio Service communications providers that use cellular architecture and CMRS paging providers. *See* § 20.3 of this chapter for the definition of Commercial Mobile Radio Service. Also included are affiliated and non-affiliated entities that maintain or provide communications networks or services used by the provider in offering such communications.
+
+(g) *Wireline communications providers* offer terrestrial communications through direct connectivity, predominantly by wire, coaxial cable, or optical fiber, between the serving central office (as defined in the appendix to part 36 of this chapter) and end user location(s). Also included are affiliated and non-affiliated entities that maintain or provide communications networks or services used by the provider in offering such communications.
+
+(h) *Interconnected Voice over Internet Protocol (VoIP) providers* are providers of interconnected VoIP service. *See* § 9.3 of this chapter for the definition of interconnected VoIP service. Such providers may be facilities-based or non-facilities-based. Also included are affiliated and non-affiliated entities that maintain or provide communications networks or services used by the provider in offering such communications.
+
+(i) Excluded from the requirements of this part 4 are those equipment manufacturers or vendors that do not maintain or provide communications networks or services used by communications providers in offering communications.
+
+(j) *Covered 988 service providers* are providers that provide the 988 Suicide & Crisis Lifeline with capabilities such as the ability to receive, process, or forward calls. “Covered 988 service provider” shall not include any entity that constitutes a crisis center that participates in the 988 Lifeline, or any entity that offers the capability to originate 988 calls where another service provider delivers those calls to the appropriate crisis center.
+
+[69 FR 70338, Dec. 3, 2004, as amended at 77 FR 25097, Apr. 27, 2012; 83 FR 7401, Feb. 21, 2018; 89 FR 2513, Jan. 16, 2024]

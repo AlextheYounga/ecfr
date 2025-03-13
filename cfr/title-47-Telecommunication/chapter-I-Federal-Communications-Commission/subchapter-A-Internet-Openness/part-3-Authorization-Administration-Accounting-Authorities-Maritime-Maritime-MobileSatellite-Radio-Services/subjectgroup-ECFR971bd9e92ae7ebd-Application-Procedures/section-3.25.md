@@ -1,0 +1,3 @@
+##### § 3.25 Number of copies. #####
+
+One original and one copy of FCC Form 44, “Application For Certification As An Accounting Authority” will be required. Only applications mailed to the Commission on official, Commission approved application forms will be considered. Applications should be mailed at least 90 days prior to planned commencement of settlement activities to allow time for the Commission to review the application and to allow for the informal public comment period.

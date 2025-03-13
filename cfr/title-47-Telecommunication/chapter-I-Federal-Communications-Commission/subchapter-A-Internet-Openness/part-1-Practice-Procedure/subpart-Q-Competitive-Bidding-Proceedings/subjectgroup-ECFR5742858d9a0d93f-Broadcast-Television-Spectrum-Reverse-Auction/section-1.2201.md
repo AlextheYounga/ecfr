@@ -1,0 +1,3 @@
+##### § 1.2201 Purpose. #####
+
+The provisions of §§ 1.2200 through 1.2209 implement section 6403 of the Spectrum Act, which requires the Commission to conduct a reverse auction to determine the amount of compensation that each broadcast television licensee would accept in return for voluntarily relinquishing some or all of its broadcast television spectrum usage rights in order to make spectrum available for assignment through a system of competitive bidding under subparagraph (G) of section 309(j)(8) of the Communications Act of 1934, as added by section 6402 of the Spectrum Act.

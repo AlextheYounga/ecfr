@@ -1,0 +1,7 @@
+##### § 1.9045 Requirements for spectrum leasing arrangements entered into by licensees participating in the installment payment program. #####
+
+(a) If a licensee that holds a license subject to the Commission's installment payment program (*see* § 1.2110 of subpart Q of this part and related service-specific rules) enters into a spectrum leasing arrangement pursuant to the rules in this subpart, the licensee remains fully and solely responsible for the outstanding debt amount owed to the Commission. Nothing in a spectrum leasing arrangement, or arising from a spectrum lessee's bankruptcy or receivership, can modify the licensee's sole responsibility for its obligation to repay its entire debt obligation under the installment payment program pursuant to applicable Commission rules and regulations and the associated note(s) and security agreement(s).
+
+(b) If a licensee holds a license subject to the installment payment program rules (*see* § 1.2110 and related service-specific rules), the licensee and any spectrum lessee must execute the Commission-approved financing documents. No licensee or potential spectrum lessee may file a spectrum leasing notification or application without having first executed such Commission-approved financing documentation. In addition, they must certify in the spectrum leasing notification or application that they have both executed such documentation.
+
+[68 FR 66277, Nov. 25, 2003, as amended at 69 FR 77558, Dec. 27, 2004]

@@ -1,0 +1,15 @@
+##### § 1.1161 Conditional license grants and delegated authorizations. #####
+
+(a) Grant of any application or an instrument of authorization or other filing for which an annual or multiple year regulatory fee is required to accompany the application or filing will be conditioned upon final payment of the current or delinquent regulatory fees. Current annual and multiple year regulatory fees must be paid electronically as described in § 1.1112(e). For all other fees, (*e.g., application fees, delinquent regulatory fees*) final payment shall mean receipt by the U.S. Treasury of funds cleared by the financial institution on which the check, cashier's check, or money order is drawn. Electronic payments are considered timely when a wire transfer was received by the Commission's bank no later than 6:00 p.m. on the due date; confirmation to pay.gov that a credit card payment was successful no later than 11:59 p.m. (EST) on the due date; or confirmation an ACH was credited no later than 11:59 p.m. (EST) on the due date.
+
+(b) In those instances where the Commission has granted a request for deferred payment of a regulatory fee, further processing of the application or filing or the grant of authority shall be conditioned upon final payment of the regulatory fee and any required penalties for late payment prescribed by the deferral decision. Failure to comply with the terms of the deferral decision shall result in the automatic dismissal of the submission or rescission of the Commission authorization. Further, the Commission shall:
+
+(1) Notify the grantee that the authorization has been rescinded. Upon such notification, the grantee will immediately cease operations initiated pursuant to the authorization; and
+
+(2) Treat as late filed any application resubmitted after the original deadline for filing the application.
+
+(c)(1) Where an applicant is found to be delinquent in the payment of regulatory fees, the Commission will make a written request for the fee, together with any penalties that may be rendered under this subpart. Such request shall inform the regulatee that failure to pay may result in the Commission withholding action on any application or request filed by the applicant. The staff shall also inform the regulatee of the procedures for seeking Commission review of the staff's determination.
+
+(2) If, after final determination that the fee is due or that the applicant is delinquent in the payment of fees and payment is not made in a timely manner, the staff will withhold action on the application or filing until payment or other satisfactory arrangement is made. If payment or satisfactory arrangement is not made within 30 days, the application will be dismissed.
+
+[60 FR 34032, June 29, 1995, as amended at 69 FR 27848, May 17, 2004; 80 FR 66816, Oct. 30, 2015]

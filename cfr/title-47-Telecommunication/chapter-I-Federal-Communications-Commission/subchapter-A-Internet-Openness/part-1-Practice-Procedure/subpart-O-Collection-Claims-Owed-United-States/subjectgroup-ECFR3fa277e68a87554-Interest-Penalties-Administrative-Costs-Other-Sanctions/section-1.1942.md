@@ -1,0 +1,3 @@
+##### § 1.1942 Other sanctions. #####
+
+The remedies and sanctions available to the Commission in this subpart are not exclusive. The Commission may impose other sanctions, where permitted by law, for any inexcusable, prolonged, or repeated failure of a debtor to pay such a claim. In such cases, the Commission will provide notice, as required by law, to the debtor prior to imposition of any such sanction.

@@ -1,12 +1,10 @@
 ##### § 401.110 Fees. #####
 
-Link to an amendment published at 89 FR 51828, June 20, 2024.
-
 (a) Unless waived in accordance with the provisions of § 401.111, the following fees shall be imposed for production of any record pursuant to this part.
 
 (1) *Administrative fees.* (i) Charges for administrative fees include staff time associated with:
 
-(A) Processing FOIA requests;
+(A) Processing requests for records;
 
 (B) Locating and reviewing files;
 
@@ -48,6 +46,6 @@ Link to an amendment published at 89 FR 51828, June 20, 2024.
 
 (b) No charge shall be made for the time spent in resolving legal or policy issues or in examining records for the purpose of deleting nondisclosable portions thereof.
 
-(c) Payment shall be made by check or money order payable to “Delaware River Basin Commission” and shall be sent to the FOIA Officer.
+(c) Payment shall be made by check or money order payable to “Delaware River Basin Commission” and shall be sent to the Records Access Officer.
 
-[40 FR 14056, Mar. 28, 1975; 40 FR 17987, Apr. 24, 1975. Redesignated at 52 FR 37602, Oct. 8, 1987, as amended at 67 FR 56753, Sept. 5, 2002]
+[40 FR 14056, Mar. 28, 1975; 40 FR 17987, Apr. 24, 1975. Redesignated at 52 FR 37602, Oct. 8, 1987, as amended at 67 FR 56753, Sept. 5, 2002; 89 FR 51828, June 20, 2024]

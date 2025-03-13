@@ -102,6 +102,4 @@
 
 (f) Initial programmed hours applicable to pilots as specified in paragraphs (d) and (e) of this section must include 2 additional hours to meet the requirements in paragraphs (a)(2)(xi) and (xii) of this section.
 
-(2) Beginning March 12, 2019, initial programmed hours applicable to pilots as specified in paragraphs (d) and (e) of this section must include 2 additional hours.
-
 [Doc. No. FAA-2010-0100, 78 FR 42377, July 15, 2013, as amended by Amdt. 121-366, 78 FR 67839, Nov. 12, 2013; Amdt. 121-382, 85 FR 10922, Feb. 25, 2020; Docket No. FAA-2019-0360; Amdt. No. 121-392, 89 FR 51427, June 18, 2024; Amdt. No. 121-392A, 89 FR 57730, July 16, 2024]

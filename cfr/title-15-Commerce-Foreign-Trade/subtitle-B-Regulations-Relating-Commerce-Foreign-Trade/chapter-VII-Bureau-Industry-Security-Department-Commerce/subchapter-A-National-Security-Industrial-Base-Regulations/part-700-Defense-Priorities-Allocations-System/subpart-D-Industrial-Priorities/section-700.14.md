@@ -1,5 +1,7 @@
 ##### § 700.14 Preferential scheduling. #####
 
+Link to an amendment published at 89 FR 58972, July 22, 2024.
+
 (a) A person must schedule operations, including the acquisition of all needed production items, in a timely manner to satisfy the delivery requirements of each rated order. Modifying production or delivery schedules is necessary only when required delivery dates for rated orders cannot otherwise be met.
 
 (b) DO rated orders must be given production preference over unrated orders, if necessary to meet required delivery dates, even if this requires the diversion of items being processed or ready for delivery against unrated orders. Similarly, DX rated orders must be given preference over DO rated orders and unrated orders.

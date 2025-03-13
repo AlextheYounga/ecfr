@@ -1,0 +1,15 @@
+##### § 1.1118 Penalty for late or insufficient payments. #####
+
+(a) Filings subject to fees and accompanied by defective fee submissions will be dismissed under § 1.1111 (d) of this subpart where the defect is discovered by the Commission's staff within 30 calendar days from the receipt of the application or filing by the Commission.
+
+(1) A defective fee may be corrected by resubmitting the application or other filing, together with the entire correct fee.
+
+(2) For purposes of determining whether the filing is timely, the date of resubmission with the correct fee will be considered the date of filing. However, in cases where the fee payment fails due to error of the applicant's bank, as evidenced by an affidavit of an officer of the bank, the date of the original submission will be considered the date of filing.
+
+(b) Applications or filings accompanied by insufficient fees or no fees, or where such applications or filings are made by persons or organizations that are delinquent in fees owed to the Commission, that are inadvertently forwarded to Commission staff for substantive review will be billed for the amount due if the discrepancy is not discovered until after 30 calendar days from the receipt of the application or filing by the Commission. Applications or filings that are accompanied by insufficient fees or no fees will have a penalty charge equaling 25 percent of the amount due added to each bill. Any Commission action taken prior to timely payment of these charges is contingent and subject to rescission.
+
+(c) Applicants to whom a deferral of payment is granted under the terms of this subsection will be billed for the amount due plus a charge equalling 25 percent of the amount due. Any Commission actions taken prior to timely payment of these charges are contingent and subject to rescission.
+
+(d) Failure to submit fees, following notice to the applicant of failure to submit the required fee, is subject to collection of the fee, including interest thereon, any associated penalties, and the full cost of collection to the Federal government pursuant to the provisions of the Debt Collection Improvement Act of 1996 (DCIA), Public Law 104-134, 110 Stat. 1321, 1358 (Apr. 26, 1996), codified at 31 U.S.C. 3711 *et seq. See* 47 CFR 1.1901 through 1.1952. The debt collection processes described above may proceed concurrently with any other sanction in this paragraph.
+
+[52 FR 5289, Feb. 20, 1987, as amended at 53 FR 40889, Oct. 19, 1988; 55 FR 19172, May 8, 1990. Redesignated and amended at 59 FR 30998, June 16, 1994. Redesignated at 60 FR 5326, Jan. 27, 1995, as amended at 67 FR 67337, Nov. 5, 2002; 69 FR 41177, July 7, 2004; 69 FR 27847, May 17, 2004; 69 FR 41177, July 7, 2004. Redesignated and amended at 74 FR 3445, Jan. 21, 2009]Editorial Note:At 69 FR 57230, Sept. 24, 2004, § 1.1116(a) introductory text was corrected by changing the reference to “§ 1.1109(b)” to read “§ 1.1109(d)”; however, the amendment could not be incorporated because that reference does not exist in the paragraph.

@@ -1,0 +1,3 @@
+##### § 1.370 Purpose. #####
+
+Hearings under this subpart B that the Commission or one of its Bureaus, acting on delegated authority, determines shall be conducted and resolved on a written record are subject to §§ 1.371 through 1.377. If an order designating a matter for hearing does not specify whether those rules apply to a hearing proceeding, and if the proceeding is not subject to 5 U.S.C. 554, the presiding officer may, in their discretion, conduct and resolve all or part of the hearing proceeding on a written record in accordance with §§ 1.371 through 1.377.

@@ -1,0 +1,3 @@
+##### § 15.213 Cable locating equipment. #####
+
+An intentional radiator used as cable locating equipment, as defined in § 15.3(d), may be operated on any frequency within the band 9-490 kHz, subject to the following limits: Within the frequency band 9 kHz, up to, but not including, 45 kHz, the peak output power from the cable locating equipment shall not exceed 10 watts; and, within the frequency band 45 kHz to 490 kHz, the peak output power from the cable locating equipment shall not exceed one watt. If provisions are made for connection of the cable locating equipment to the AC power lines, the conducted limits in § 15.207 also apply to this equipment.

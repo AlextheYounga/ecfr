@@ -1,0 +1,3 @@
+##### § 1.1704 Station files. #####
+
+Applications, notifications, correspondence, electronic filings and other material, and copies of authorizations, comprising technical, legal, and administrative data relating to each system in the Multichannel Video and Cable Television Services (MVCTS) and the Cable Television Relay Service (CARS) are maintained by the Commission in COALS and the Public Reference Room. These files constitute the official records for these stations and supersede any other records, database or lists from the Commission or other sources.

@@ -1,0 +1,3 @@
+##### § 5.702 Licensing requirement—necessary showing. #####
+
+Each application must include a narrative statement describing in detail how its experiment could lead to the development of innovative devices and/or services on frequencies above 95 GHz and describe, as applicable, its plans for marketing such devices. This statement must sufficiently explain the proposed new technology/potential new service and incorporate an interference analysis that explains how the proposed experiment would not cause harmful interference to other services. The statement should include technical details, including the requested frequency band(s), maximum power, emission designators, area(s) of operation, and type(s) of device(s) to be used.

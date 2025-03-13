@@ -1,0 +1,3 @@
+##### § 1.1801 Purpose. #####
+
+The purpose of this part is to effectuate section 119 of the Rehabilitation, Comprehensive Services, and Developmental Disabilities Amendments of 1978, which amended section 504 of the Rehabilitation Act of 1973 (section 504) to prohibit discrimination on the basis of disability in programs or activities conducted by Executive agencies or the United States Postal Service.

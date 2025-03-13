@@ -1,5 +1,7 @@
 ##### § 700.52 Examples of assistance. #####
 
+Link to an amendment published at 89 FR 58974, July 22, 2024.
+
 (a) While special priorities assistance may be provided for any reason in support of this regulation, it is usually provided in situations where:
 
 (1) A person is experiencing difficulty in obtaining delivery against a rated order by the required delivery date; or

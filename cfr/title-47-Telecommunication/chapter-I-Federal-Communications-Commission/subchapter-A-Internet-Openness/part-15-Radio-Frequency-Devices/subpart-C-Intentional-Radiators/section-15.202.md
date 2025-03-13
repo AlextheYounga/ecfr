@@ -1,0 +1,5 @@
+##### § 15.202 Certified operating frequency range. #####
+
+Client devices that operate in a master/client network may be certified if they have the capability of operating outside permissible part 15 frequency bands, provided they operate on only permissible part 15 frequencies under the control of the master device with which they communicate. Master devices marketed within the United States must be limited to operation on permissible part 15 frequencies. Client devices that can also act as master devices must meet the requirements of a master device. For the purposes of this section, a master device is defined as a device operating in a mode in which it has the capability to transmit without receiving an enabling signal. In this mode it is able to select a channel and initiate a network by sending enabling signals to other devices. A network always has at least one device operating in master mode. A client device is defined as a device operating in a mode in which the transmissions of the device are under control of the master. A device in client mode is not able to initiate a network.
+
+[70 FR 23040, May 4, 2005]

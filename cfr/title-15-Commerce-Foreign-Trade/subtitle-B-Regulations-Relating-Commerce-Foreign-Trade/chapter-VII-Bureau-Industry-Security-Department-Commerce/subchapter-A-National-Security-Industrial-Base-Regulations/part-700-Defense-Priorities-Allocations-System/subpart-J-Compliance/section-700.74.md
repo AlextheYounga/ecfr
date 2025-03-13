@@ -1,5 +1,7 @@
 ##### § 700.74 Violations, penalties, and remedies. #####
 
+Link to an amendment published at 89 FR 58976, July 22, 2024.
+
 (a) Willful violation of the provisions of Title I or Sections 705 or 707 of the Defense Production Act, the priorities provisions of the Selective Service Act and related statutes or this part is a crime and upon conviction, a person may be punished by fine or imprisonment, or both. The maximum penalty provided by the Defense Production Act is a $10,000 fine, or one year in prison, or both. The maximum penalty provided by the Selective Service Act is a $50,000 fine, or three years in prison, or both.
 
 (b) The government may also seek an injunction from a court of appropriate jurisdiction to prohibit the continuance of any violation of, or to enforce compliance with, the Defense Production Act, this part, or an official action.

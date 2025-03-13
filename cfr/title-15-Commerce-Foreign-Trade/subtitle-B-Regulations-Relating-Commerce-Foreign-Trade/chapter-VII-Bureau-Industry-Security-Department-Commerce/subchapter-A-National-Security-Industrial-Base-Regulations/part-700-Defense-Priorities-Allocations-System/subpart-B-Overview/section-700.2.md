@@ -1,5 +1,7 @@
 ##### § 700.2 Introduction. #####
 
+Link to an amendment published at 89 FR 58970, July 22, 2024.
+
 (a) Certain national defense and energy programs (including military, emergency preparedness, homeland security, and critical infrastructure protection and restoration activities) are approved for priorities and allocations support. A complete list of currently approved programs is provided at schedule I to this part.
 
 (b) The Department of Commerce administers the DPAS and may exercise priorities and allocations authority to ensure the timely delivery of industrial items to meet approved program requirements.

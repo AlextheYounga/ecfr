@@ -1,5 +1,7 @@
 ##### § 700.34 Elements of an allocation order. #####
 
+Link to an amendment published at 89 FR 58973, July 22, 2024.
+
 Allocation orders may be issued directly to the affected persons or by constructive notice to the parties through publication in the Federal Register. This section describes the elements that each order must include.
 
 (a) *Elements to be included in all allocation orders.* (1) A detailed description of the required allocation action(s), including its relationship to previously or subsequently received DX rated orders, DO rated orders and unrated orders.

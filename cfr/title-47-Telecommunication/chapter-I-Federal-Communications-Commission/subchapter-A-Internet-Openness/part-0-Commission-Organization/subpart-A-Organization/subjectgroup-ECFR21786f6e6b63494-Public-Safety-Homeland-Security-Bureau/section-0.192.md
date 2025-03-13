@@ -1,0 +1,7 @@
+##### § 0.192 Emergency Response Interoperability Center. #####
+
+(a) The Emergency Response Interoperability Center acts under the general direction of the Chief of the Public Safety and Homeland Security Bureau to develop, recommend, and administer policy goals, objectives, rules, regulations, programs, and plans for the Commission in matters pertaining to the implementation of national interoperability standards and the development of technical and operational requirements and procedures for the 700 MHz public safety broadband wireless network and other public safety communications systems. These requirements and procedures may involve such issues as interoperability, roaming, priority access, gateway functions and interfaces, interconnectivity of public safety broadband networks, authentication and encryption, and requirements for common public safety broadband applications.
+
+(b) To the extent permitted by applicable law, the Chief of the Public Safety and Homeland Security Bureau shall have delegated authority to establish one or more advisory bodies, consistent with the Federal Advisory Committee Act or other applicable law, to advise the Emergency Response Interoperability Center in the performance of its responsibilities. Such advisory bodies may include representatives from relevant Federal public safety and homeland security entities, representatives from state and local public safety entities, industry representatives, and service providers.
+
+[75 FR 28207, May 20, 2010]

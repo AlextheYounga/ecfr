@@ -1,0 +1,13 @@
+##### § 1.743 Who may sign applications. #####
+
+(a) Except as provided in paragraph (b) of this section, applications, amendments thereto, and related statements of fact required by the Commission must be signed by the applicant, if the applicant is an individual; by one of the partners, if the applicant is a partnership; by an officer or duly authorized employee, if the applicant is a corporation; or by a member who is an officer, if the applicant is an unincorporated association. Applications, amendments, and related statements of fact filed on behalf of eligible government entities such as states and territories of the United States, their political subdivisions, the District of Columbia, and units of local government, including incorporated municipalities, must be signed by a duly elected or appointed official who is authorized to do so under the laws of the applicable jurisdiction.
+
+(b) Applications, amendments thereto, and related statements of fact required by the Commission may be signed by the applicant's attorney in case of the applicant's physical disability or of his absence from the United States. The attorney shall in that event separately set forth the reason why the application is not signed by the applicant. In addition, if any matter is stated on the basis of the attorney's belief only (rather than his knowledge), he shall separately set forth his reasons for believing that such statements are true.
+
+(c) Only the original of applications, amendments, or related statements of fact need be signed; copies may be conformed.
+
+(d) Applications, amendments, and related statements of fact need not be signed under oath. Willful false statements made therein, however, are punishable by fine and imprisonment, U.S. Code, Title 18, section 1001, and by appropriate administrative sanctions, including revocation of station license pursuant to section 312(a)(1) of the Communications Act of 1934, as amended.
+
+(e) “Signed,” as used in this section, means an original hand-written signature, except that by public notice in the Federal Register the Wireline Competition Bureau may allow signature by any symbol executed or adopted by the applicant with the intent that such symbol be a signature, including symbols formed by computer-generated electronic impulses.
+
+[28 FR 12450, Nov. 22, 1963, as amended at 53 FR 17193, May 16, 1988; 59 FR 59503, Nov. 17, 1994; 67 FR 13223, Mar. 21, 2002]

@@ -1,5 +1,7 @@
 ##### § 700.63 Letters of understanding. #####
 
+Link to an amendment published at 89 FR 58976, July 22, 2024.
+
 (a) A letter of understanding is an official action which may be issued in resolving special priorities assistance cases to reflect an agreement reached by all parties (the Department of Commerce, the Delegate Agency, the supplier, and the customer).
 
 (b) A letter of understanding is not used to alter scheduling between rated orders, to authorize the use of priority ratings, to impose restrictions under this regulation, or to take other official actions. Rather, letters of understanding are used to confirm production or shipping schedules which do not require modifications to other rated orders.

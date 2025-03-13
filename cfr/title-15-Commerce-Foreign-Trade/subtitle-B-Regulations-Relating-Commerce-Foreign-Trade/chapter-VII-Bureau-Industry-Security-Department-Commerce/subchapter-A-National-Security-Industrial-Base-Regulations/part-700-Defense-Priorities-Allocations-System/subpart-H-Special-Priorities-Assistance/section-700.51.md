@@ -1,5 +1,7 @@
 ##### § 700.51 Requests for priority rating authority. #####
 
+Link to an amendment published at 89 FR 58973, July 22, 2024.
+
 (a) If a rated order is likely to be delayed because a person is unable to obtain items not normally rated under this part, the person may request the authority to use a priority rating in ordering the needed items. Examples of items for which priority ratings can be authorized include:
 
 (1) Production or construction equipment;

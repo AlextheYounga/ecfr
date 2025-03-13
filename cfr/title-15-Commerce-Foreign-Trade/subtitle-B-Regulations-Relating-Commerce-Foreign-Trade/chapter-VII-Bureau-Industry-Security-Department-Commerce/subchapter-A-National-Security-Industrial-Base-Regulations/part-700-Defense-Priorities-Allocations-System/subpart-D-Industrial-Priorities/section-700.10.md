@@ -1,5 +1,7 @@
 ##### § 700.10 Authority. #####
 
+Link to an amendment published at 89 FR 58971, July 22, 2024.
+
 (a) *Delegations to the Department of Commerce.* The priorities and allocations authorities of the President under Title I of the Defense Production Act with respect to industrial resources have been delegated to the Secretary of Commerce under Executive Order 13603 of March 16, 2012 (3 CFR, 2012 Comp., p. 225). The priorities authorities of the President under the Selective Service Act and related statutes with respect to industrial resources have also been delegated to the Secretary of Commerce under Executive Order 12742 of January 8, 1991 (3 CFR, 1991 Comp. 309).
 
 (b) *Delegations by the Department of Commerce.* The Department of Commerce has authorized the Delegate Agencies to assign priority ratings to orders for industrial resources needed for use in approved programs.

@@ -1,0 +1,3 @@
+##### § 5.125 Authorized points of communication. #####
+
+Generally, stations in the Experimental Radio Service may communicate only with other stations licensed in the Experimental Radio Service. Nevertheless, upon a satisfactory showing that the proposed communications are essential to the conduct of the research project, authority may be granted to communicate with stations in other services and U.S. Government stations.

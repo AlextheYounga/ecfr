@@ -1,0 +1,3 @@
+##### § 1.340 Attendance of witness; disobedience. #####
+
+The attendance of witnesses and the production of documentary evidence may be required from any place in the United States at any designated place of hearing. In case of disobedience to a subpena, the Commission or any party to a proceeding before the Commission may invoke the aid of any court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence.

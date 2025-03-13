@@ -1,0 +1,7 @@
+##### § 10.11 WEA implementation timeline. #####
+
+(a) Notwithstanding anything in this part to the contrary, a participating CMS provider shall begin an 18 month period of development, testing and deployment of the WEA in a manner consistent with the rules in this part no later than 10 months from the date that the Federal Alert Aggregator and Alert Gateway makes the Government Interface Design specifications available.
+
+(b) If a Participating CMS Provider's network infrastructure would generate and display WEA headers with the text “Presidential Alert” to subscribers upon receipt of a National Alert, or include the text “Presidential Alert” in a mobile device's settings menus, then by July 31, 2022, that Participating CMS Provider's network infrastructure shall either generate and display WEA headers and menus with the text “National Alert,” or no longer display those headers and menu text to the subscriber. Network infrastructure that is technically incapable of meeting this requirement, such as situations in which legacy devices or networks cannot be updated to support header display changes, are exempt from this requirement.
+
+[78 FR 16807, Mar. 19, 2013, as amended at 86 FR 46790, Aug. 20, 2021; 87 FR 34213, June 6, 2022]

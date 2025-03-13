@@ -1,0 +1,3 @@
+##### § 15.507 Marketing of UWB equipment. #####
+
+In some cases, the operation of UWB devices is limited to specific parties, e.g., law enforcement, fire and rescue organizations operating under the auspices of a state or local government. The marketing of UWB devices must be directed solely to parties eligible to operate the equipment. The responsible party, as defined in § 2.909 of this chapter, is responsible for ensuring that the equipment is marketed only to eligible parties. Marketing of the equipment in any other manner may be considered grounds for revocation of the grant of certification issued for the equipment.

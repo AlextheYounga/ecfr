@@ -1,0 +1,3 @@
+##### § 0.468 Interest. #####
+
+Interest shall be charged those requesters who fail to pay the fees charged. The agency will begin assessing interest charges on the amount billed starting on the 31st day following the day on which the billing was sent. The date on which the payment is received by the agency will determine whether and how much interest is due. The interest shall be set at the rate prescribed in 31 U.S.C. 3717.

@@ -1,0 +1,5 @@
+##### § 2.924 Marketing of electrically identical equipment having multiple trade names and models or type numbers under the same FCC Identifier. #####
+
+The grantee of an equipment authorization may market devices having different model/type numbers or trade names without additional authorization, provided that such devices are electrically identical and the equipment bears an FCC Identifier validated by a grant of certification. A device will be considered to be electrically identical if no changes are made to the authorized device, or if the changes made to the device would be treated as class I permissive changes within the scope of § 2.1043(b)(1). Changes to the model number or trade name by anyone other than the grantee, or under the authorization of the grantee, shall be performed following the procedures in § 2.933.
+
+[80 FR 33441, June 12, 2015]

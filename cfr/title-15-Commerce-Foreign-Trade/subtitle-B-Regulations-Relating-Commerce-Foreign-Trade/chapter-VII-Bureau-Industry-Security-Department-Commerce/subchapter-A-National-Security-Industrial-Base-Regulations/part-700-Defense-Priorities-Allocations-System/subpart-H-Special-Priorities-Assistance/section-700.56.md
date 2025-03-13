@@ -1,5 +1,7 @@
 ##### § 700.56 Military assistance programs with Canada. #####
 
+Link to an amendment published at 89 FR 58974, July 22, 2024.
+
 (a) To promote military assistance to Canada, this section provides for authorizing priority ratings to persons in Canada to obtain items in the United States in support of approved programs. Although priority ratings have no legal authority outside of the United States, this section also provides information on how persons in the United States may obtain informal assistance in Canada in support of approved programs.
 
 (b) The joint United States-Canadian military arrangements for the defense of North America and the integrated nature of the United States and Canadian defense industries require close coordination and the establishment of a means to provide mutual assistance to the defense industries located in both countries.

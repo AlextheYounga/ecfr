@@ -196,7 +196,33 @@
 
 (4) *Special relief.* In an exceptional case, the Copyright Office may waive the online filing requirement set forth in paragraph (k)(2) of this section or may grant special relief from the deposit requirement under § 202.20(d), subject to such conditions as the Associate Register of Copyrights and Director of the Office of Registration Policy and Practice may impose on the applicant.
 
-(l)-(n) [Reserved]
+(l) [Reserved]
+
+(m) *Group registration of updates to a news website.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that a group of updates to a news website may be registered with one application, the required deposit, and the filing fee required by § 201.3 of this chapter, with each update being registered as a collective work, if the following conditions are met:
+
+(1) *Definitions.* For the purposes of this paragraph (m):
+
+(i) *News website* means a website that is designed to be a primary source of written information on current events, either local, national, or international in scope, that contains a broad range of news on all subjects and activities and is not limited to any specific subject matter.
+
+(ii) *Website* means a web page or set of interconnected web pages that are accessed using a uniform resource locator (“URL”) organized under a particular domain name.
+
+(2) *Requirements for collective works.* Each update to the website must be a collective work, and the claim must be limited to the collective work.
+
+(3) *Author and claimant.* Each collective work in the group must be a work made for hire, and the author and claimant for each collective work must be the same person or organization.
+
+(4) *Updates must be from one news website; time period covered.* Each collective work in the group must be published on the same news website under the same URL, and they must be published within the same calendar month. The applicant must identify the earliest and latest date that the collective works were published.
+
+(5) *Application.* The applicant must complete and submit the online application designated for a group of updates to a news website. The application may be submitted by any of the parties listed in § 202.3(c)(1).
+
+(6) *Deposit.* (i) For each collective work within the group, the applicant must submit identifying material from the news website. For these purposes “*identifying material*” shall mean separate Portable Document Format (PDF) files that each contain a complete copy of the home page of the website. In case a complete copy is technically unfeasible due to the size or continuous nature of the home page, the applicant may submit the first 25 pages of the home page that demonstrates updates from the previous deposit copy. Each PDF must show how the home page appeared at a specific point during each day of the calendar month when new updates were published on the website.
+
+(ii) The identifying material must demonstrate that the home page contains sufficient selection, coordination, and arrangement authorship to be registered as a collective work. If the home page does not demonstrate sufficient compilation authorship, the deposit should include as many additional pages as necessary to demonstrate that the updates to the news website can be registered as a collective work.
+
+(iii) The identifying material must be submitted through the electronic registration system, and all of the identifying material that was published on a particular date must be contained in the same electronic file. The files must be submitted in PDF format, they must be assembled in an orderly form, and each file must be uploaded to the electronic registration system as an individual electronic file (*i.e.,* not .zip files). The file size for each uploaded file must not exceed 500 megabytes, but files may be compressed to comply with this requirement.
+
+(7) *Special relief.* In an exceptional case, the Copyright Office may waive the online filing requirement set forth in paragraph (m)(5) of this section or may grant special relief from the deposit requirement under § 202.20(d) of this chapter, subject to such conditions as the Associate Register of Copyrights and Director of the Office of Registration Policy and Practice may impose on the applicant.
+
+(n) [Reserved]
 
 (o) *Secure test items.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that a group of test items may be registered in Class TX with one application, one filing fee, and identifying material, if the conditions set forth in § 202.13(c) and (d) have been met.
 
@@ -204,6 +230,6 @@
 
 (q) *Cancellation.* If the Copyright Office issues a registration for a group of related works and subsequently determines that the requirements for that group option have not been met, and if the claimant fails to cure the deficiency after being notified by the Office, the registration may be cancelled in accordance with § 201.7 of this chapter.
 
-(r) *The scope of a group registration.* When the Office issues a group registration under paragraph (d), (e), or (f) of this section, the registration covers each issue in the group and each issue is registered as a separate work or a separate collective work (as the case may be). When the Office issues a group registration under paragraph (c), (g), (h), (i), (j), (k), or (o) of this section, the registration covers each work in the group and each work is registered as a separate work. For purposes of registration, the group as a whole is not considered a compilation, a collective work, or a derivative work under section 101, 103(b), or 504(c)(1) of title 17 of the United States Code.
+(r) *The scope of a group registration.* When the Office issues a group registration under paragraph (d), (e), or (f) of this section, the registration covers each issue in the group and each issue is registered as a separate work or a separate collective work (as the case may be). When the Office issues a group registration under paragraphs (c), (g), (h), (i), (j), (k), or (o) of this section, the registration covers each work in the group and each work is registered as a separate work. When the Office issues a group registration under paragraph (m) of this section, the registration covers each update in the group, and each update is registered as a separate collective work. For purposes of registration, the group as a whole is not considered a compilation, a collective work, or a derivative work under section 101, 103(b), or 504(c)(1) of title 17 of the United States Code.
 
-[82 FR 29413, June 29, 2017, as amended at 82 FR 52228, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 61549, Nov. 30, 2018; 84 FR 3699, Feb. 13, 2019; 84 FR 3698, Feb. 13, 2019; 84 FR 60918, 60919, Nov. 12, 2019; 85 FR 31982, May 28, 2020; 85 FR 37346, June 22, 2020; 86 FR 10825, Feb. 23, 2021]
+[82 FR 29413, June 29, 2017, as amended at 82 FR 52228, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 61549, Nov. 30, 2018; 84 FR 3699, Feb. 13, 2019; 84 FR 3698, Feb. 13, 2019; 84 FR 60918, 60919, Nov. 12, 2019; 85 FR 31982, May 28, 2020; 85 FR 37346, June 22, 2020; 86 FR 10825, Feb. 23, 2021; 89 FR 58999, July 22, 2024]

@@ -1,5 +1,7 @@
 ##### § 700.16 Changes or cancellations of priority ratings and rated orders. #####
 
+Link to an amendment published at 89 FR 58972, July 22, 2024.
+
 (a) The priority rating on a rated order may be changed or cancelled by:
 
 (1) An official action of the Department of Commerce; or

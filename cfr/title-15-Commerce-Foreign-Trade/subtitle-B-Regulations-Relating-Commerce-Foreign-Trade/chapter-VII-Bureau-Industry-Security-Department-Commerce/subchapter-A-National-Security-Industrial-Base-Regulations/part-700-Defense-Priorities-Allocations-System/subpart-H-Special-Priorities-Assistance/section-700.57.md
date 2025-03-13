@@ -1,5 +1,7 @@
 ##### § 700.57 Military assistance programs with other nations and international organizations. #####
 
+Link to an amendment published at 89 FR 58975, July 22, 2024.
+
 (a) *Scope.* To promote military assistance to foreign nations and international organizations (for example, the North Atlantic Treaty Organization or the United Nations), this section provides for authorizing priority ratings to persons in foreign nations or international organizations to obtain items in the United States in support of approved programs. Although priority ratings have no legal authority outside of the United States, this section also provides information on how persons in the United States may obtain informal assistance in Australia, Finland, Italy, The Netherlands, Spain, Sweden, and the United Kingdom in support of approved programs.
 
 (b) *Foreign nations and international organizations.* (1) Any person in a foreign nation other than Canada, or any person in an international organization, requiring assistance in obtaining items in the United States or priority rating authority for items to be purchased in the United States, should submit a request for such assistance or priority rating authority to: the Department of Defense DPAS Lead in the Office of the Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy, 3330 Defense Pentagon, Room 3B854, Washington, DC 20301; Telephone: (703) 697-0051; Fax: (703) 695-4885; Email: *MIBP@osd.mil,* Web site: *http://www.acq.osd.mil/mibp.*

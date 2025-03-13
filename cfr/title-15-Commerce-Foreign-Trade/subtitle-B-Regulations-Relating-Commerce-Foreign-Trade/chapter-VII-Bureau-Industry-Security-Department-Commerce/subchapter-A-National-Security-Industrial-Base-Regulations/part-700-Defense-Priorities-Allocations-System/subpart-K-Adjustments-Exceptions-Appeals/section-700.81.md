@@ -1,5 +1,7 @@
 ##### § 700.81 Appeals. #####
 
+Link to an amendment published at 89 FR 58976, July 22, 2024.
+
 (a) Any person who has had a request for adjustment or exception denied by the Office of Strategic Industries and Economic Security under § 700.80, may appeal to the Assistant Secretary for Export Administration, Department of Commerce, who shall review and reconsider the denial. Such appeals should be submitted to the Office of the Assistant Secretary for Export Administration, Bureau of Industry and Security, Department of Commerce, Room 3886, Washington, DC 20230, Ref: DPAS Appeals.
 
 (b) Appeals of denied requests for exceptions from or adjustments to compliance with the provisions of this part or an official action must be received by the Assistant Secretary for Export Administration no later than 45 days after receipt of a written notice of denial from the Office of Strategic Industries and Economic Security. After this 45-day period, an appeal may be accepted at the discretion of the Assistant Secretary for Export Administration.

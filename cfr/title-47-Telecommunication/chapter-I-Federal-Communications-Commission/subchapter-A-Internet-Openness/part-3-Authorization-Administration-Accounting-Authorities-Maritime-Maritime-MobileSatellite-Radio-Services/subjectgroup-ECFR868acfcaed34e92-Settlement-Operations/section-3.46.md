@@ -1,0 +1,3 @@
+##### § 3.46 Use of gold francs. #####
+
+An accounting authority must accept accounts presented to it from foreign administrations in gold francs. These gold francs must be converted on the date of receipt of the bill to the applicable Special Drawing Right (SDR) rate (as published by the International Monetary Fund) on that date utilizing the linking coefficient of 3.061 gold francs = 1 SDR. An equivalent amount in U.S. dollars must be paid to the foreign administration. Upon written concurrence by the FCC, an accounting authority may make separate agreements, in writing, with foreign administrations or their agents for alternative settlement methods, in accordance with ITU-T Recommendation D.195.

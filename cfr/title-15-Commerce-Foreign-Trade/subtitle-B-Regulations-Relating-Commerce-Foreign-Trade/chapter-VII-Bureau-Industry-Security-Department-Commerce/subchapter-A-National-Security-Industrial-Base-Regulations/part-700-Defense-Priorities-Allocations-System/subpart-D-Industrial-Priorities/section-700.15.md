@@ -1,5 +1,7 @@
 ##### § 700.15 Extension of priority ratings. #####
 
+Link to an amendment published at 89 FR 58972, July 22, 2024.
+
 (a) A person must use rated orders with suppliers to obtain items needed to fill a rated order. The person must use the priority rating indicated on the customer's rated order, except as otherwise provided in this part or as directed by the Department of Commerce.
 
 Example:If a person is in receipt of a DO-A3 rated order for a navigation system and needs to purchase semiconductors for its manufacture, that person must use a DO-A3 rated order to obtain the needed semiconductors.

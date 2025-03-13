@@ -1,0 +1,3 @@
+##### § 0.501 General. #####
+
+Executive Order 12356 requires that information relating to national security be protected against unauthorized disclosure as long as required by national security considerations. The Order also provides that all information classified under Executive Order 12356 or predecessor orders be subject to a review for declassification upon receipt of a request made by a United States citizen or permanent resident alien, a Federal agency, or a state or local government.

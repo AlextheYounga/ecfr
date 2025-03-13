@@ -1,0 +1,3 @@
+##### § 9.26 Advisory committee participation. #####
+
+Notwithstanding any other provision of law, any State or taxing jurisdiction identified by the Commission in the report required under section 6(f)(2) of the Wireless Communications and Public Safety Act of 1999, as amended (47 U.S.C. 615a-1(f)(2)), as engaging in diversion of 911 fees or charges shall be ineligible to participate or send a representative to serve on any advisory committee established by the Commission.

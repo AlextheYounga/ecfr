@@ -1,0 +1,19 @@
+##### § 1.92 Revocation and/or cease and desist proceedings; after waiver of hearing. #####
+
+(a) After the issuance of an order to show cause, pursuant to § 1.91, designating a matter for hearing, the occurrence of any one of the following events or circumstances will constitute a waiver of such hearing and the proceeding thereafter will be conducted in accordance with the provisions of this section.
+
+(1) The respondent fails to file a timely written appearance as prescribed in § 1.91(c) indicating that the respondent will present evidence on the matters specified in the order and, if required by the order, that the respondent will appear before the presiding officer.
+
+(2) The respondent, having filed a timely written appearance as prescribed in § 1.91(c), fails in fact to present evidence on the matters specified in the order or appear before the presiding officer in person or by counsel at the time and place duly scheduled.
+
+(3) The respondent files with the Commission, within the time specified for a written appearance in § 1.91(c), a written statement expressly waiving his or her rights to a hearing.
+
+(b) When a hearing is waived under the provisions of paragraph (a) (1) or (3) of this section, a written statement signed by the respondent denying or seeking to mitigate or justify the circumstances or conduct complained of in the order to show cause may be submitted within the time specified in § 1.91(c). The Commission in its discretion may accept a late statement. However, a statement tendered after the specified time has expired will not be accepted unless accompanied by a petition stating with particularity the facts and reasons relied on to justify such late filing. Such petitions for acceptance of a late statement will be granted only if the Commission determines that the facts and reasons stated therein constitute good cause for failure to file on time.
+
+(c) Whenever a hearing is waived by the occurrence of any of the events or circumstances listed in paragraph (a) of this section, the presiding officer shall, at the earliest practicable date, issue an order reciting the events or circumstances constituting a waiver of hearing and terminating the hearing proceeding. A presiding officer other than the Commission also shall certify the case to the Commission. Such order shall be served upon the respondent.
+
+(d) After a hearing proceeding has been terminated pursuant to paragraph (c) of this section, the Commission will act upon the matters specified in the order to show cause in the regular course of business. The Commission will determine on the basis of all the information available to it from any source, including such further proceedings as may be warranted, if a revocation order and/or a cease and desist order should issue, and if so, will issue such order. Otherwise, the Commission will issue an order dismissing the proceeding. All orders specified in this paragraph will include a statement of the findings of the Commission and the grounds and reasons therefor, will specify the effective date thereof, and will be served upon the respondent.
+
+(e) Corrections or promise to correct the conditions or matters complained of in a show cause order shall not preclude the issuance of a cease and desist order. Corrections or promises to correct the conditions or matters complained of, and the past record of the licensee, may, however, be considered in determining whether a revocation and/or a cease and desist order should be issued.
+
+(Sec. 312, 48 Stat. 1086, as amended; 47 U.S.C. 312)[28 FR 12415, Nov. 22, 1963, as amended at 29 FR 6443, May 16, 1964; 37 FR 19372, Sept. 20, 1972; 85 FR 63173, Oct. 6, 2020]

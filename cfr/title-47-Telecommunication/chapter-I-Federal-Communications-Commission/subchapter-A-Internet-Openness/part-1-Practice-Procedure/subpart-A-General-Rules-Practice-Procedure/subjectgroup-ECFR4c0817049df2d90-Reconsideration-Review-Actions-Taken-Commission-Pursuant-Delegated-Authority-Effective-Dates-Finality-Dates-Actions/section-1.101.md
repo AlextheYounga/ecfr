@@ -1,0 +1,5 @@
+##### § 1.101 General provisions. #####
+
+Under section 5(c) of the Communications Act of 1934, as amended, the Commission is authorized, by rule or order, to delegate certain of its functions to a panel of commissioners, an individual commissioner, an employee board, or an individual employee. Section 0.201(a) of this chapter describes in general terms the basic categories of delegations which are made by the Commission. Subpart B of part 0 of this chapter sets forth all delegations which have been made by rule. Sections 1.102 through 1.117 set forth procedural rules governing reconsideration and review of actions taken pursuant to authority delegated under section 5(c) of the Communications Act, and reconsideration of actions taken by the Commission. As used in §§ 1.102 through 1.117, the term designated authority means any person, panel, or board which has been authorized by rule or order to exercise authority under section 5(c) of the Communications Act.
+
+[76 FR 70908, Nov. 16, 2011]

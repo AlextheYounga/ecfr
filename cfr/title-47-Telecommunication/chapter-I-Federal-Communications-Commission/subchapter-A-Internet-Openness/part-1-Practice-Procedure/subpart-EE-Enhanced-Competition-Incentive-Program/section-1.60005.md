@@ -1,0 +1,15 @@
+##### § 1.60005 Program benefits. #####
+
+(a) *Program benefits.* The following benefits for license(s) included in an ECIP Qualifying Transaction filed pursuant to § 1.60002, shall be conferred upon consummation of a Commission approved assignment application, grant of a *de facto* transfer lease application, or acceptance of a spectrum manager lease application, as specified:
+
+(1) *License term extension.* All parties to a partition and/or disaggregation Qualifying Transaction; the lessor entering into a spectrum lease arrangement Qualifying Transaction; and the assignee in a full license assignment Qualifying Transaction, shall receive a five-year license term extension on the license(s) subject to the application.
+
+(2) *Construction extension.* All parties to a partition and/or disaggregation Qualifying Transaction; the lessor entering into a spectrum lease arrangement Qualifying Transaction; and the assignee in a full license assignment Qualifying Transaction, shall receive a one-year construction extension of both the interim and final performance requirement deadline, where applicable, on the license(s) subject to the application. Where the Commission has previously extended a performance requirement deadline on the license(s) and that deadline has not passed, the one year extension conferred through ECIP is in addition to the prior extension, provided the extension that was previously granted, whether by rule or through waiver, is transferrable, and the assignee separately justifies such relief if required.
+
+(3) *Substitution of alternative construction requirement.* The assignee in a qualifying partition, combination partition disaggregation transaction, or full license assignment filed under the rural focused-transaction prong in § 1.60004, shall be subject to the alternative construction requirement set forth in § 1.60006 in lieu of any applicable service-based performance requirement for the license(s) resulting from an ECIP transaction. Where the Commission has previously modified the assignor's substantive service-based performance requirement through conditions granted by waiver and such requirements have not been met, the assignee will receive the substituted alternative construction requirement benefit if the assignee separately requests, and is granted, a waiver.
+
+(b) *Limitation on duplicative benefits.* (1) A license included in a Commission approved Qualifying Transaction in the ECIP shall be eligible for program benefits a single time per license for the license term and all subsequent renewal terms.
+
+(2) A license, including a license resulting from a partition and/or disaggregation, previously included in a Qualifying Transaction approved by the Commission in the ECIP, shall be ineligible to receive benefits in any subsequent ECIP transaction, regardless of whether the current licensee was the beneficiary in the original or a subsequent Qualifying Transaction.
+
+[87 FR 57417, Sept. 20, 2022]

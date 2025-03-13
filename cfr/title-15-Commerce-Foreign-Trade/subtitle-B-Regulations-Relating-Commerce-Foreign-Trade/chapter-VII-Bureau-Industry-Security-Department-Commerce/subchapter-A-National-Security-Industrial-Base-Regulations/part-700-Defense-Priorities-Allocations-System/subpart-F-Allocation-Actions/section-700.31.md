@@ -1,5 +1,7 @@
 ##### § 700.31 General procedures. #####
 
+Link to an amendment published at 89 FR 58972, July 22, 2024.
+
 Before the Department of Commerce uses its allocations authority to address a supply problem within its resource jurisdiction, it will develop a plan that includes:
 
 (a) A copy of the written determination made in accordance with section 202 of Executive Order 13603, that the program or programs that would be supported by the allocation action are necessary or appropriate to promote the national defense;

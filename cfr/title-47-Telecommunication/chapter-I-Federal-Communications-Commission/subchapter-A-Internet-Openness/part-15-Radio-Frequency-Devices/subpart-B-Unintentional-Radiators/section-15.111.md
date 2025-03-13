@@ -1,0 +1,5 @@
+##### § 15.111 Antenna power conduction limits for receivers. #####
+
+(a) In addition to the radiated emission limits, receivers that operate (tune) in the frequency range 30 to 960 MHz and CB receivers that provide terminals for the connection of an external receiving antenna may be tested to demonstrate compliance with the provisions of § 15.109 with the antenna terminals shielded and terminated with a resistive termination equal to the impedance specified for the antenna, provided these receivers also comply with the following: With the receiver antenna terminal connected to a resistive termination equal to the impedance specified or employed for the antenna, the power at the antenna terminal at any frequency within the range of measurements specified in § 15.33 shall not exceed 2.0 nanowatts.
+
+(b) CB receivers and receivers that operate (tune) in the frequency range 30 to 960 MHz that are provided only with a permanently attached antenna shall comply with the radiated emission limitations in this part, as measured with the antenna attached.

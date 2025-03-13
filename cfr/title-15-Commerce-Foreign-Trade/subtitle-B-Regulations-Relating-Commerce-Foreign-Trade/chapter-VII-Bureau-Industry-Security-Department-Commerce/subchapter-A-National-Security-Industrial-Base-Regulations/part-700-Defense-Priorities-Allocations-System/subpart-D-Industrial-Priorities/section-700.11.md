@@ -1,5 +1,7 @@
 ##### § 700.11 Priority ratings. #####
 
+Link to an amendment published at 89 FR 58971, July 22, 2024.
+
 (a) *Levels of priority.* (1) There are two levels of priority established by this regulation, identified by the rating symbols “DO” and “DX”.
 
 (2) All DO rated orders have equal priority with each other and take preference over unrated orders. All DX rated orders have equal priority with each other and take preference over DO rated orders and unrated orders. (For resolution of conflicts among rated orders of equal priority, see § 700.14(c).)

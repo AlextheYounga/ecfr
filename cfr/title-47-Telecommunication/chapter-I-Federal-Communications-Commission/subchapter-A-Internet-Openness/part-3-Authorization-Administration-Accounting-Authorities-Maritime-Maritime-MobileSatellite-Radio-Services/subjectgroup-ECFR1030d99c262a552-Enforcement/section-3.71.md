@@ -1,0 +1,3 @@
+##### § 3.71 Warnings. #####
+
+The Commission may issue written warnings or forfeitures to accounting authorities which are found not to be operating in accordance with established rules and regulations. Warnings will generally be issued for violations which do not seriously or immediately affect settlement functions or international relations. Continued or unresolved violations may lead to further enforcement action by the Commission, including any or all legally available sanctions, including but not limited to, forfeitures (Communications Act of 1934, Sec. 503), suspension or cancellation of the accounting authority certification.

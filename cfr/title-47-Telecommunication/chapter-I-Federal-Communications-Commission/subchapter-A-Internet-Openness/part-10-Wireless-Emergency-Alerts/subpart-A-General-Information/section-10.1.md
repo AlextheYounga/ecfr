@@ -1,0 +1,3 @@
+##### § 10.1 Basis. #####
+
+The rules in this part are issued pursuant to the authority contained in the Warning, Alert, and Response Network Act, Title VI of the Security and Accountability for Every Port Act of 2006, Public Law 109-347, Titles I through III of the Communications Act of 1934, as amended, and Executive Order 13407 of June 26, 2006, Public Alert and Warning System, 71 FR 36975, June 26, 2006.

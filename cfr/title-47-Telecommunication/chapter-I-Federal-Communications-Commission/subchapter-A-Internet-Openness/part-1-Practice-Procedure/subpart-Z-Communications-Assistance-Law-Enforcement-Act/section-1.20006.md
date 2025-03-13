@@ -1,0 +1,7 @@
+##### § 1.20006 Assistance capability requirements. #####
+
+(a) Telecommunications carriers shall provide to a Law Enforcement Agency the assistance capability requirements of CALEA regarding wire and electronic communications and call-identifying information, see 47 U.S.C. 1002. A carrier may satisfy these requirements by complying with publicly available technical requirements or standards adopted by an industry association or standard-setting organization, such as J-STD-025 (current version), or by the Commission.
+
+(b) Telecommunications carriers shall consult, as necessary, in a timely fashion with manufacturers of its telecommunications transmission and switching equipment and its providers of telecommunications support services for the purpose of ensuring that current and planned equipment, facilities, and services comply with the assistance capability requirements of 47 U.S.C. 1002.
+
+(c) A manufacturer of telecommunications transmission or switching equipment and a provider of telecommunications support service shall, on a reasonably timely basis and at a reasonable charge, make available to the telecommunications carriers using its equipment, facilities, or services such features or modifications as are necessary to permit such carriers to comply with the assistance capability requirements of 47 U.S.C. 1002.

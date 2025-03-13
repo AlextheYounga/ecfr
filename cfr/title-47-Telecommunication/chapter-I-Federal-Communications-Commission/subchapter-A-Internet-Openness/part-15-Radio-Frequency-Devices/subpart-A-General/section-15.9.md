@@ -1,0 +1,3 @@
+##### § 15.9 Prohibition against eavesdropping. #####
+
+Except for the operations of law enforcement officers conducted under lawful authority, no person shall use, either directly or indirectly, a device operated pursuant to the provisions of this part for the purpose of overhearing or recording the private conversations of others unless such use is authorized by all of the parties engaging in the conversation.

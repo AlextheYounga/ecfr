@@ -1,0 +1,9 @@
+##### § 15.15 General technical requirements. #####
+
+(a) An intentional or unintentional radiator shall be constructed in accordance with good engineering design and manufacturing practice. Emanations from the device shall be suppressed as much as practicable, but in no case shall the emanations exceed the levels specified in these rules.
+
+(b) Except as follows, an intentional or unintentional radiator must be constructed such that the adjustments of any control that is readily accessible by or intended to be accessible to the user will not cause operation of the device in violation of the regulations. Access BPL equipment shall comply with the applicable standards at the control adjustment that is employed. The measurement report used in support of an application for Certification and the user instructions for Access BPL equipment shall clearly specify the user-or installer-control settings that are required for conformance with these regulations.
+
+(c) Parties responsible for equipment compliance should note that the limits specified in this part will not prevent harmful interference under all circumstances. Since the operators of part 15 devices are required to cease operation should harmful interference occur to authorized users of the radio frequency spectrum, the parties responsible for equipment compliance are encouraged to employ the minimum field strength necessary for communications, to provide greater attenuation of unwanted emissions than required by these regulations, and to advise the user as to how to resolve harmful interference problems (for example, see § 15.105(b)).
+
+[54 FR 17714, Apr. 25, 1989, as amended at 70 FR 1373, Jan. 7, 2005]

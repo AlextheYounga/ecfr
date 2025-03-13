@@ -1,0 +1,3 @@
+##### § 2.921 Hearing on application. #####
+
+Whenever it is determined that an application for equipment authorization presents substantial factual questions relating to the qualifications of the applicant or the equipment (or the effects of the use thereof), the Commission may designate the application for hearing. A hearing on an application for an equipment authorization shall be conducted in the same manner as a hearing on a radio station application as set out in subpart B of part 1 of this chapter.

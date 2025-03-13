@@ -1,5 +1,7 @@
 ##### § 700.54 Instances where assistance will not be provided. #####
 
+Link to an amendment published at 89 FR 58974, July 22, 2024.
+
 Special priorities assistance is provided at the discretion of the Delegate Agencies and the Department of Commerce when it is determined that such assistance is warranted to meet the objectives of this regulation. Examples where assistance may not be provided include situations when a person is attempting to:
 
 (a) Secure a price advantage;

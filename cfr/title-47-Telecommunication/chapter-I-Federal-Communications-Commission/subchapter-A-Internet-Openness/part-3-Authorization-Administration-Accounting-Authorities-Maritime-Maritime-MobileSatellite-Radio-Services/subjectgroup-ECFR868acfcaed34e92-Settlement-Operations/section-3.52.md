@@ -1,0 +1,5 @@
+##### § 3.52 Complaint/inquiry resolution procedures. #####
+
+(a) Accounting authorities must maintain procedures for resolving complaints and/or inquiries from its contractual customers (vessels for which it performs settlements), the FCC, the ITU, and foreign administrations or their agents. These procedures must be available to the Commission upon request.
+
+(b) If a foreign administration requests assistance in collection of accounts from ships licensed by the FCC, the appropriate accounting authority will provide all information requested by the Commission in a timely manner to enable the Commission to determine the cause of the complaint and to resolve the issue. If accounts are in dispute, the Commission will determine the amount due the foreign administration, accounting authority or ROA, and may direct the accounting authority to pay the accounts to the foreign administration. If the accounting authority does not pay the disputed accounts within a reasonable timeframe, the Commission may take action to levy a forfeiture, cancel the AAIC privilege and/or to revoke any operating authority or licenses held by that accounting authority. (See also § 3.72).

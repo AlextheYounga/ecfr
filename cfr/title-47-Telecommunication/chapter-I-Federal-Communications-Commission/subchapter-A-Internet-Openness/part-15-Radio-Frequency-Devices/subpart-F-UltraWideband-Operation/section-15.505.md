@@ -1,0 +1,5 @@
+##### § 15.505 Cross reference. #####
+
+(a) Except where specifically stated otherwise within this subpart, the provisions of subparts A and B and of §§ 15.201 through 15.204 and 15.207 of subpart C of this part apply to unlicensed UWB intentional radiators. The provisions of § 15.35(c) and 15.205 do not apply to devices operated under this subpart. The provisions of Footnote US 246 to the Table of Frequency Allocations contained in § 2.106 of this chapter does not apply to devices operated under this subpart.
+
+(b) The requirements of this subpart apply only to the radio transmitter, *i.e.*, the intentional radiator, contained in the UWB device. Other aspects of the operation of a UWB device may be subject to requirements contained elsewhere in this chapter. In particular, a UWB device that contains digital circuitry not directly associated with the operation of the transmitter also is subject to the requirements for unintentional radiators in subpart B of this part. Similarly, an associated receiver that operates (tunes) within the frequency range 30 MHz to 960 MHz is subject to the requirements in subpart B of this part.

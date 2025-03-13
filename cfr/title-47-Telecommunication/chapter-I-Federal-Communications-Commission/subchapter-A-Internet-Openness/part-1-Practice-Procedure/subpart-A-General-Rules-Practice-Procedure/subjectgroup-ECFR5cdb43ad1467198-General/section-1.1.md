@@ -1,0 +1,5 @@
+##### § 1.1 Proceedings before the Commission. #####
+
+The Commission may on its own motion or petition of any interested party hold such proceedings as it may deem necessary from time to time in connection with the investigation of any matter which it has power to investigate under the law, or for the purpose of obtaining information necessary or helpful in the determination of its policies, the carrying out of its duties or the formulation or amendment of its rules and regulations. For such purposes it may subpena witnesses and require the production of evidence. Procedures to be followed by the Commission shall, unless specifically prescribed in this part, be such as in the opinion of the Commission will best serve the purposes of such proceedings.
+
+(Sec. 403, 48 Stat. 1094; 47 U.S.C. 403)

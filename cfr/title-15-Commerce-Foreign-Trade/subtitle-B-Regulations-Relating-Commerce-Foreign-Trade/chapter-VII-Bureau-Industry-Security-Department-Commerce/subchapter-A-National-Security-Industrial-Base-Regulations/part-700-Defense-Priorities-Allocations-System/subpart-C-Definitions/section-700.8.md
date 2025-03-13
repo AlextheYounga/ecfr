@@ -1,5 +1,7 @@
 ##### § 700.8 Definitions. #####
 
+Link to an amendment published at 89 FR 58970, July 22, 2024.
+
 The definitions in this section apply throughout this part:
 
 *Allocation.* The control of the distribution of materials, services or facilities for a purpose deemed necessary or appropriate to promote the national defense.

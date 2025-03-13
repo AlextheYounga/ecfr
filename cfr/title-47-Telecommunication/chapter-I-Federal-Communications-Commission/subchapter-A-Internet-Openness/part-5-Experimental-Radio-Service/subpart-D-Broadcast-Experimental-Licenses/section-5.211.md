@@ -1,0 +1,3 @@
+##### § 5.211 Frequency monitors and measurements. #####
+
+The licensee of a broadcast experimental radio station shall provide the necessary means for determining that the frequency of the station is within the allowed tolerance. The date and time of each frequency check, the frequency as measured, and a description or identification of the method employed shall be entered in the station log. Sufficient observations shall be made to insure that the assigned carrier frequency is maintained within the prescribed tolerance.

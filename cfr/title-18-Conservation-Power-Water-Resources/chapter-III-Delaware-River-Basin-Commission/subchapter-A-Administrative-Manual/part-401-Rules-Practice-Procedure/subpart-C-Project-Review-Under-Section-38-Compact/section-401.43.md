@@ -1,7 +1,5 @@
 ##### § 401.43 Regulatory program fees. #####
 
-Link to an amendment published at 89 FR 51826, June 20, 2024.
-
 (a) *Purpose.* The purpose of this section is to provide an adequate, stable and reliable stream of revenue to cover the cost of the Commission's regulatory program activities, an important means by which the Commission coordinates management of the shared water resources of the Basin. Activities to be covered by the fees include the review of applications for projects that are subject to review under the Delaware River Basin Compact and implementing regulations; and ongoing activities associated with such projects, including but not limited to, effluent and ambient monitoring, data analysis, hydrodynamic and water quality modeling, and coordination with state and federal agencies.
 
 (b) *Types of fees.* The following types of fees are established by this section:
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 51826, June 20, 2024.
 
 (i) *Project requiring a DRBC-issued docket or permit.* Any project that, in accordance with the Delaware River Basin Compact and DRBC regulations, requires a Commission-issued docket or permit, whether it be a new or existing project for which the Commission has not yet issued an approval or a project for which the renewal of a previous Commission approval is required.
 
-(ii) *Project requiring inclusion in the comprehensive plan.* Any project that in accordance with section 11 or section 13.1 of the *Delaware River Basin Compact* and DRBC regulations must be added to the Comprehensive Plan (also, “Plan”). In addition to any new project required to be included in the Plan, such projects include existing projects that in accordance with section 13.1 of the *Compact* are required to be included in the Plan and which were not previously added to the Plan. Any existing project that is changed substantially from the project as described in the Plan shall be deemed to be a new and different project for purposes of this section.
+(ii) *Project requiring inclusion in the comprehensive plan.* Any project that in accordance with section 11 or section 13.1 of the Delaware River Basin Compact and DRBC regulations must be added to the Comprehensive Plan (also, “Plan”). In addition to any new project required to be included in the Plan, such projects include existing projects that in accordance with section 13.1 of the Compact are required to be included in the Plan and which were not previously added to the Plan. Any existing project that is materially changed from the project as described in the Plan shall be deemed to be a new and different project for purposes of this section.
 
 (iii) *Exemptions.* The application fee shall not apply to:
 
@@ -34,11 +32,11 @@ Link to an amendment published at 89 FR 51826, June 20, 2024.
 
 (4) *Additional fees*—(i) *Emergency approval.* A request for an emergency certificate under § 401.40 to waive or amend a docket condition shall be subject to a minimum fee in accordance with paragraph (e) of this section. An alternative review fee also may be charged in accordance with paragraph (b)(3) of this section.
 
-(ii) *Late filed renewal application.* Any renewal application submitted fewer than 120 calendar days in advance of the expiration date or after such other date specified in the docket or permit or letter of the Executive Director for filing a renewal application shall be subject to a late filed renewal application charge in excess of the otherwise applicable fee.
+(ii) *Late filed renewal application.* Any renewal application submitted fewer than 180 calendar days in advance of the expiration date or after such other date specified in the docket or permit or letter of the Executive Director for filing a renewal application shall be subject to a late filed renewal application charge in excess of the otherwise applicable fee.
 
-(iii) *Modification of a DRBC approval.* Following Commission action on a project, each project revision or modification that the Executive Director deems substantial shall require an additional application fee calculated in accordance with paragraph (e) of this section and subject to an alternative review fee in accordance with paragraph (b)(3) of this section.
+(iii) *Modification of a DRBC approval.* Following Commission action on a project, any material change to the project as approved shall require an additional application and accompanying fee. Such fee shall be calculated in accordance with paragraph (e) of this section and may be subject to an alternative review fee in accordance with paragraph (b)(3) of this section.
 
-(iv) *Name change.* Each project with a docket or permit issued by the DRBC or by a Signatory Party Agency pursuant to the One Permit Program rule (§ 401.42) will be charged an administrative fee as set forth in paragraph (e) of this section.
+(iv) *Name change or change of ownership.* Each project with a docket or permit issued by the DRBC will be charged an administrative fee as set forth in paragraph (e) of this section if it undergoes a change in name or a “change in ownership” as that term is defined at § 420.31(e)(2) of this subchapter.
 
 (v) *Change of ownership.* Each project that undergoes a “change in ownership” as that term is defined at 18 CFR 420.31(e)(2) will be charged an administrative fee as set forth in paragraph (e) of this section.
 
@@ -76,8 +74,7 @@ Link to an amendment published at 89 FR 51826, June 20, 2024.
 |                          Emergency Approval Under 18 CFR 401.40                           |                                          $5,000                                           |Alternative Review Fee.|
 |                               Late Filed Renewal Surcharge                                |                                          $2,000                                           |                       |
 |                              Modification of a DRBC Approval                              |At Executive Director's discretion, Docket Application Fee for the appropriate project type|Alternative Review Fee.|
-|                                        Name change                                        |                                    <sup>1</sup> $1,278                                    |                       |
-|                                    Change of Ownership                                    |                                    <sup>1</sup> $1,917                                    |                       |
+|                            Name Change or Change of Ownership                             |                                    $1,917 <sup>1</sup>                                    |                       |
 |<sup>1</sup> Subject to annual adjustment in accordance with paragraph (c) of this section.|                                                                                           |                       |
 
-[81 FR 95861, Dec. 29, 2016, as amended at 82 FR 7647, Jan. 23, 2017; 82 FR 26989, June 13, 2017; 86 FR 20630, Apr. 21, 2021; 87 FR 31417, May 24, 2022; 88 FR 34747, May 31, 2023; 89 FR 46322, May 29, 2024]
+[81 FR 95861, Dec. 29, 2016, as amended at 82 FR 7647, Jan. 23, 2017; 82 FR 26989, June 13, 2017; 86 FR 20630, Apr. 21, 2021; 87 FR 31417, May 24, 2022; 88 FR 34747, May 31, 2023; 89 FR 46322, May 29, 2024; 89 FR 51826, June 20, 2024]

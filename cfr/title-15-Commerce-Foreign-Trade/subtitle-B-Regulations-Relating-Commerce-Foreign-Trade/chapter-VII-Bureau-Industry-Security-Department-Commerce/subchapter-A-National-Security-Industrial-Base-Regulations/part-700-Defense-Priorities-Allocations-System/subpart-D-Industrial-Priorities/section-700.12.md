@@ -1,5 +1,7 @@
 ##### § 700.12 Elements of a rated order. #####
 
+Link to an amendment published at 89 FR 58971, July 22, 2024.
+
 (a) *Elements required for all rated orders.* (1) The appropriate priority rating and program identification symbol (e.g., DO-A1, DX-A4, DO-N1).
 
 (2) A required delivery date or dates. The words “immediately” or “as soon as possible” do not constitute a delivery date. When a “requirements contract,” “basic ordering agreement,” “prime vendor contract,” or similar procurement document bearing a priority rating contains no specific delivery date or dates, but provides for the furnishing of items from time-to-time or within a stated period against specific purchase orders, such as “calls,” “requisitions,” and “delivery orders,” the purchase orders supporting such contracts or agreements must specify a required delivery date or dates and are to be considered as rated as of the date of their receipt by the supplier and not as of the date of the original procurement document.

@@ -1,5 +1,7 @@
 ##### § 700.17 Use of rated orders. #####
 
+Link to an amendment published at 89 FR 58972, July 22, 2024.
+
 (a) A person must use rated orders to obtain:
 
 (1) Items which will be physically incorporated into other items to fill rated orders, including that portion of such items normally consumed, or converted into scrap or by-products, in the course of processing;

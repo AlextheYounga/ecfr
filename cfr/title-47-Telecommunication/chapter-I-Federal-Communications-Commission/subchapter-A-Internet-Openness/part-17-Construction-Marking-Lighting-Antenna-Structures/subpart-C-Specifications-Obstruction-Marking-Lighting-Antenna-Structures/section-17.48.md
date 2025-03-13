@@ -1,0 +1,9 @@
+##### § 17.48 Notification of extinguishment or improper functioning of lights. #####
+
+The owner of any antenna structure which is registered with the Commission and has been assigned lighting specifications referenced in this part:
+
+(a) Shall report immediately to the FAA, by means acceptable to the FAA, any observed or otherwise known extinguishment or improper functioning of any top steady burning light or any flashing obstruction light, regardless of its position on the antenna structure, not corrected within 30 minutes. If the lights cannot be repaired within the FAA's Notices to Airmen (NOTAM) period, the owner shall notify the FAA to extend the outage date and report a return-to-service date. The owner shall repeat this process until the lights are repaired. Such reports shall set forth the condition of the light or lights, the circumstances which caused the failure, the probable date for restoration of service, the FCC Antenna Structure Registration Number, the height of the structure (AGL and AMSL if known) and the name, title, address, and telephone number of the person making the report. Further notification to the FAA by means acceptable to the FAA shall be given immediately upon resumption of normal operation of the light or lights.
+
+(b) An extinguishment or improper functioning of a steady burning side intermediate light or lights, shall be corrected as soon as practicable, but notification to the FAA of such extinguishment or improper functioning is not required.
+
+[32 FR 11273, Aug. 3, 1967, as amended at 39 FR 26157, July 17, 1974; 40 FR 30267, July 18, 1975; 61 FR 4364, Feb. 6, 1996; 79 FR 56986, Sept. 24, 2014]

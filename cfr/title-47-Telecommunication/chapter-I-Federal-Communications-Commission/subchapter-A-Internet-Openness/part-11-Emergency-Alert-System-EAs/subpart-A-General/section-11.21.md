@@ -1,0 +1,39 @@
+##### § 11.21 State and Local Area plans and FCC Mapbook. #####
+
+EAS plans contain guidelines which must be followed by EAS Participants' personnel, emergency officials, and National Weather Service (NWS) personnel to activate the EAS. The plans include the EAS header codes and messages that will be transmitted by key EAS sources (NP, LP, SP and SR). State and local plans contain unique methods of EAS message distribution such as the use of the Radio Broadcast Data System (RBDS). The plans also include information on actions taken by EAS Participants, in coordination with state and local governments, to ensure timely access to EAS alert content by non-English speaking populations. The plans must be reviewed and approved by the Chief, Public Safety and Homeland Security Bureau (Bureau), prior to implementation to ensure that they are consistent with national plans, FCC regulations, and EAS operation. The plans are administered by State Emergency Communications Committees (SECC). The Commission encourages the chief executive of each State to establish an SECC if their State does not have an SECC, and if the State has an SECC, to review the composition and governance of the SECC. The Bureau will review and approve plans, including annual updated plans, within 60 days of receipt, provided that no defects are found requiring the plan to be returned to the SECC for correction and resubmission. If a plan submitted for approval is found defective, the SECC will be notified of the required corrections, and the corrected plan may be resubmitted for approval, thus starting the 60-day review and approval period anew. The approval dates of State EAS Plans will be listed on the Commission's website.
+
+(a) State EAS Plans contain guidelines that must be followed by EAS Participants' personnel, emergency officials, and National Weather Service (NWS) personnel to activate the EAS. The Plans include information on actions taken by EAS Participants, in coordination with state and local governments, to ensure timely access to EAS alert content by non-English speaking populations. State EAS Plans must be updated on an annual basis. State EAS Plans must include the following elements:
+
+(1) A list of the EAS header codes and messages that will be transmitted by key EAS sources (NP, LP, SP, and SR);
+
+(2) Procedures for state emergency management officials, the National Weather Service, and EAS Participant personnel to transmit emergency information to the public during an emergency via the EAS, including the extent to which the state's dissemination strategy for state and local emergency alerts differs from its strategy for the National Emergency Message;
+
+(3) Procedures for state and local activations of the EAS, including a list of all authorized entities participating in the State or Local Area EAS;
+
+(4) A monitoring assignment matrix, in computer readable form, clearly showing monitoring assignments and the specific primary and backup path for the National Emergency Message (EAN) from the NPWS to all key EAS sources (using the uniform designations specified in § 11.18) and to each station in the plan, organized by operational areas within the state. If a state's emergency alert system is capable of initiating EAS messages formatted in the Common Alerting Protocol (CAP), its EAS State Plan must include specific and detailed information describing how such messages will be aggregated and distributed to EAS Participants within the state, including the monitoring requirements associated with distributing such messages;
+
+(5) State procedures for conducting special EAS tests and Required Monthly Tests (RMTs);
+
+(6) A list of satellite-based communications resources that are used as alternate monitoring assignments and present a reliable source of EAS messages; and
+
+(7) The SECC governance structure utilized by the state in order to organize state and local resources to ensure the efficient and effective delivery of a National Emergency Message, including the duties of the SECC, the membership selection process utilized by the SECC, and the administrative structure of the SECC.
+
+(8) Certification by the SECC Chairperson or Vice-Chairperson that the SECC met (in person, via teleconference, or via other methods of conducting virtual meetings) at least once in the twelve months prior to submitting the annual updated plan to review and update the plan.
+
+(b) The Local Area plan contains procedures for local officials or the NWS to transmit emergency information to the public during a local emergency using the EAS. Local plans may be a part of the State plan. A Local Area is a geographical area of contiguous communities or counties that may include more than one state.
+
+(c) The FCC Mapbook is based on the consolidation of the monitoring assignment matrices required in each State EAS Plan with the identifying data contained in the ETRS. The Mapbook organizes all EAS Participants according to their State, EAS Local Area, and EAS designation. EAS Participant monitoring assignments and EAS operations must be implemented in a manner consistent with guidelines established in a State EAS Plan submitted to the Commission in order for the Mapbook to accurately reflect actual alert distribution.
+
+(d) EAS Participants are required to provide the following information to their respective State Emergency Communications Committees (SECC) within one year from the publication in the Federal Register of a notice announcing the approval by the Office of Management and Budget of the modified information collection requirements under the Paperwork Reduction Act of 1995 and an effective date of the rule amendment:
+
+(1) A description of any actions taken by the EAS Participant (acting individually, in conjunction with other EAS Participants in the geographic area, and/or in consultation with state and local emergency authorities), to make EAS alert content available in languages other than English to its non-English speaking audience(s),
+
+(2) A description of any future actions planned by the EAS Participant, in consultation with state and local emergency authorities, to provide EAS alert content available in languages other than English to its non-English speaking audience(s), along with an explanation for the Participant's decision to plan or not plan such actions, and
+
+(3) Any other relevant information that the EAS Participant may wish to provide, including state-specific demographics on languages other than English spoken within the state, and identification of resources used or necessary to originate current or proposed multilingual EAS alert content.
+
+(e) Within six months of the expiration of the one-year period referred to in subsection (d) of this section, SECCs shall, as determined by the Commission's Public Safety and Homeland Security Bureau, provide a summary of such information as an amendment to or as otherwise included as part of the State EAS Plan filed by the SECC pursuant to this section 11.21.
+
+(f) EAS Participants shall, within 60 days of any material change to the information they have reported pursuant to paragraphs (d)(1) and (2) of this section, submit letters describing such change to both their respective SECCs and the Chief, Public Safety and Homeland Security Bureau. SECCs shall incorporate the information in such letters as amendments to the State EAS Plans on file with the Bureau under this section 11.21.
+
+[72 FR 62134, Nov. 2, 2007, as amended at 77 FR 16700, Mar. 22, 2012; 80 FR 37174, June 30, 2015; 81 FR 27351, May 6, 2016; 83 FR 37759, Aug. 2, 2018; 86 FR 46791, Aug. 20, 2021; 87 FR 34215, June 6, 2022; 87 FR 67823, Nov. 10, 2022]

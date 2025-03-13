@@ -1,0 +1,3 @@
+##### § 2.404 Resumption of operation after distress. #####
+
+No station having been notified to cease operation shall resume operation on frequency or frequencies which may cause interference until notified by the station issuing the original notice that the station involved will not interfere with distress traffic as it is then being routed or until the receipt of a general notice that the need for handling distress traffic no longer exists.

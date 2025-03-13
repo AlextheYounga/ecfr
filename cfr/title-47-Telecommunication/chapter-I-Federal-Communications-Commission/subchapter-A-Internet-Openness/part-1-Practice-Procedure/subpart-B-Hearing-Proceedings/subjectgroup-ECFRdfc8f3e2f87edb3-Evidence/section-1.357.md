@@ -1,0 +1,3 @@
+##### § 1.357 Mechanical reproductions as evidence. #####
+
+Unless offered for the sole purpose of attempting to prove or demonstrate sound effect, mechanical or physical reproductions of sound waves shall not be admitted in evidence. Any party desiring to offer any matter alleged to be contained therein or thereupon shall have such matter typewritten on paper of the size prescribed by § 1.49, and the same shall be identified and offered in duplicate in the same manner as other exhibits.

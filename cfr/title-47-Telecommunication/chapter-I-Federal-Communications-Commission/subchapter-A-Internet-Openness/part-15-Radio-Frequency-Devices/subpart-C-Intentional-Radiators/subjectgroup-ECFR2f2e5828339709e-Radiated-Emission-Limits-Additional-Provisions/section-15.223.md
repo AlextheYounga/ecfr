@@ -1,0 +1,5 @@
+##### § 15.223 Operation in the band 1.705-10 MHz. #####
+
+(a) The field strength of any emission within the band 1.705-10.0 MHz shall not exceed 100 microvolts/meter at a distance of 30 meters. However, if the bandwidth of the emission is less than 10% of the center frequency, the field strength shall not exceed 15 microvolts/meter or (the bandwidth of the device in kHz) divided by (the center frequency of the device in MHz) microvolts/meter at a distance of 30 meters, whichever is the higher level. For the purposes of this section, bandwidth is determined at the points 6 dB down from the modulated carrier. The emission limits in this paragraph are based on measurement instrumentation employing an average detector. The provisions in § 15.35(b) for limiting peak emissions apply.
+
+(b) The field strength of emissions outside of the band 1.705-10.0 MHz shall not exceed the general radiated emission limits in § 15.209.

@@ -1,0 +1,9 @@
+##### § 1.903 Authorization required. #####
+
+(a) *General rule.* Stations in the Wireless Radio Services must be used and operated only in accordance with the rules applicable to their particular service as set forth in this title and with a valid authorization granted by the Commission under the provisions of this part, except as specified in paragraph (b) of this section.
+
+(b) *Restrictions.* The holding of an authorization does not create any rights beyond the terms, conditions and period specified in the authorization. Authorizations may be granted upon proper application, provided that the Commission finds that the applicant is qualified in regard to citizenship, character, financial, technical and other criteria, and that the public interest, convenience and necessity will be served. *See* §§ 301, 308, and 309, 310 of this chapter.
+
+(c) *Subscribers.* Authority for subscribers to operate mobile or fixed stations in the Wireless Radio Services, except for certain stations in the Rural Radiotelephone Service, is included in the authorization held by the licensee providing service to them. Subscribers are not required to apply for, and the Commission does not accept, applications from subscribers for individual mobile or fixed station authorizations in the Wireless Radio Services. Individual authorizations are required to operate rural subscriber stations in the Rural Radiotelephone Service, except as provided in § 22.703 of this chapter. Individual authorizations are required for end users of certain Specialized Mobile Radio Systems as provided in § 90.655 of this chapter. In addition, certain ships and aircraft are required to be individually licensed under parts 80 and 87 of this chapter. See §§ 80.13, 87.18 of this chapter.
+
+[63 FR 68921, Dec. 14, 1998, as amended at 70 FR 19305, Apr. 13, 2005]

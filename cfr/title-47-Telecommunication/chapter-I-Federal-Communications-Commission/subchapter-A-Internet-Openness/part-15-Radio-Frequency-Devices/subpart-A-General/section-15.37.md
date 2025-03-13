@@ -1,0 +1,57 @@
+##### § 15.37 Transition provisions for compliance with this part. #####
+
+(a) The manufacture or importation of scanning receivers, and frequency converters designed or marketed for use with scanning receivers, that do not comply with the provisions of § 15.121 shall cease on or before October 25, 1999. Effective July 26, 1999, the Commission will not grant equipment authorization for receivers that do not comply with the provisions of § 15.121. This paragraph does not prohibit the sale or use of authorized receivers manufactured in the United States, or imported into the United States, prior to October 25, 1999.
+
+(b) Effective October 16, 2002, an equipment approval may no longer be obtained for medical telemetry equipment operating under the provisions of § 15.241 or § 15.242. The requirements for obtaining an approval for medical telemetry equipment after this date are found in subpart H of part 95 of this chapter.
+
+(c) All radio frequency devices that are authorized on or after July 12, 2004 under the certification, or Supplier's Declaration of Conformity procedures (or the prior verification or declaration of conformity procedures, as applicable) shall comply with the conducted limits specified in § 15.107 or § 15.207 as appropriate. All radio frequency devices that are manufactured or imported on or after July 11, 2005 shall comply with the conducted limits specified in § 15.107 or § 15.207, as appropriate. Equipment authorized, imported or manufactured prior to these dates shall comply with the conducted limits specified in § 15.107 or § 15.207, as appropriate, or with the conducted limits that were in effect immediately prior to September 9, 2002.
+
+(d) Radar detectors manufactured or imported after August 28, 2002 and marketed after September 27, 2002 shall comply with the regulations specified in this part. Radar detectors manufactured or imported prior to January 27, 2003 may be labeled with the information required by § 2.925 of this chapter and § 15.19(a) on the individual equipment carton rather than on the device, and are exempt from complying with the requirements of § 15.21.
+
+(e) U-NII equipment operating in the 5.25-5.35 GHz band for which applications for certification are filed on or after July 20, 2006 shall comply with the DFS and TPC requirements specified in § 15.407. U-NII equipment operating in the 5.25-5.35 GHz band that are imported or marketed on or after July 20, 2007 shall comply with the DFS and TPC requirements in § 15.407.
+
+(f) All Access BPL devices that are manufactured, imported, marketed or installed on or after July 7, 2006, shall comply with the requirements specified in subpart G of this part, including certification of the equipment.
+
+(g) The manufacture or importation of auditory assistance devices that operate in the 72.0-73.0 MHz, 74.6-74.8 MHz, and 75.2-76.0 MHz bands that do not comply with the requirements of § 15.237(c) shall cease on or before July 11, 2016. Effective January 12, 2015, equipment approval will not be granted for auditory assistance devices that operate in the 72.0-73.0 MHz, 74.6-74.8 MHz, and 75.2-76.0 MHz bands that do not comply with the requirements of § 15.237(c). These rules do not prohibit the sale or use of authorized auditory assistance devices that operate in the 72.0-73.0 MHz, 74.6-74.8 MHz, and 75.2-76.0 MHz bands manufactured in the United States, or imported into the United States, prior to July 11, 2016.
+
+(h) Effective June 2, 2015 devices using digital modulation techniques in the 5725-5850 MHz bands will no longer be certified under the provisions of § 15.247. The technical requirements for obtaining certification after this date for digitally modulated devices and the digitally modulated portion of hybrid devices are found in subpart E of this part. The provisions for the frequency hopping spread spectrum portion of hybrid devices will remain in § 15.247. Effective June 2, 2016 systems using digital modulation techniques in the 5725-5850 MHz band certified under the provisions of § 15.247 may no longer be imported or marketed within the United States.
+
+(i) As of December 26, 2017, wireless microphones for which an application for certification is filed must comply with the requirements of § 15.236. Manufacturing and marketing of wireless microphones that would not comply with the rules for operation in § 15.236 must cease no later than September 24, 2018. Only wireless microphones certified for operation under this part may be operated under this part as of July 13, 2020.
+
+(j) White space devices which are approved by Telecommunication Certification Bodies beginning [six months after the effective date of the rules] shall comply with the database re-check requirements in § 15.711(h) of this part. White space devices that are in operation, imported or marketed beginning [six months after the effective date of the rules] shall also comply with these requirements.
+
+(k) *Disclosure requirements for unlicensed wireless microphones capable of operating in the 600 MHz service band.* Any person who manufactures, sells, leases, or offers for sale or lease, unlicensed wireless microphones that are capable of operating in the 600 MHz service band, as defined in this part, on or after July 13, 2017, is subject to the following disclosure requirements:
+
+(1) Such persons must display the consumer disclosure text, as specified by the Consumer and Governmental Affairs Bureau, at the point of sale or lease of each such unlicensed wireless microphone. The text must be displayed in a clear, conspicuous, and readily legible manner. One way to fulfill the requirement in this section is to display the consumer disclosure text in a prominent manner on the product box by using a label (either printed onto the box or otherwise affixed to the box), a sticker, or other means. Another way to fulfill this requirement is to display the text immediately adjacent to each unlicensed wireless microphone offered for sale or lease and clearly associated with the model to which it pertains.
+
+(2) If such persons offer such unlicensed wireless microphones via direct mail, catalog, or electronic means, they shall prominently display the consumer disclosure text in close proximity to the images and descriptions of each such unlicensed wireless microphone. The text should be in a size large enough to be clear, conspicuous, and readily legible, consistent with the dimensions of the advertisement or description.
+
+(3) If such persons have Web sites pertaining to these unlicensed wireless microphones, the consumer disclosure text must be displayed there in a clear, conspicuous, and readily legible manner (even in the event such persons do not sell unlicensed wireless microphones directly to the public).
+
+(4) The consumer disclosure text described in paragraph (k)(1) of this section is set forth in Figure 1 to this paragraph.
+
+![](/graphics/er12mr18.004.gif)
+
+(l) The certification of wideband vehicular radars designed to operate in the 23.12-29 GHz band under § 15.252 and ultra-wideband vehicular radars designed to operate in the 22-29 GHz band under § 15.515 shall not be permitted on or after September 20, 2018.
+
+(m) The manufacture, importation, marketing, sale, and installation of wideband or ultra-wideband vehicular radars that are designed to operate in the 23.12-29 GHz band under § 15.252 and/or in the 22-29 GHz band under § 15.515 shall not be permitted after January 1, 2022. Notwithstanding the foregoing, sale and installation of such radars is permitted, for the life of the vehicle, when the following conditions have been met:
+
+(1) The sale and installation is for the exclusive purpose of repairing or replacing defective, damaged, or potentially malfunctioning radars that are designed to operate in the 23.12-29 GHz band under § 15.252 and/or in the 22-29 GHz band under § 15.515;
+
+(2) The equipment being repaired or replaced has been installed in the vehicle on or before January 1, 2022; and
+
+(3) It is not possible to replace the vehicular radar equipment designed to operate in the 23.12-29 GHz and/or 22-29 GHz bands with vehicular radar equipment designed to operate in the 76-81 GHz band.
+
+(n) Wideband or ultra-wideband vehicular radars operating in the 23.12-29 GHz band under § 15.252 and/or in the 22-29 GHz band under § 15.515 that are already installed or in use may continue to operate in accordance with their previously obtained certification. Class II permissive changes for such equipment shall not be permitted after January 1, 2022.
+
+(o) Applicable July 13, 2017, the certification, manufacture, importation, marketing, sale, and installation of field disturbance sensors that are designed to operate in the 16.2-17.7 GHz and 46.7-46.9 GHz bands shall not be permitted. Field disturbance sensors already installed or in use in the 16.2-17.7 GHz band may continue to operate in accordance with their previously obtained certification. Class II permissive changes shall not be permitted for such equipment.
+
+(p) Effective October 20, 2017, the certification under this part of vehicular radars and fixed radar systems used in airport air operations areas that are designed to operate in the 76-77 GHz band shall not be permitted. Vehicular radars and fixed radar systems used in airport air operations areas operating in the 76-77 GHz band that are already installed or in use may continue to operate in accordance with their previously obtained certification. Any future certification, or any change of already issued certification and operations of such equipment, shall be under part 95, subpart M, of this chapter.
+
+(q) All fixed white space devices which are approved by Telecommunication Certification Bodies on or after February 19, 2020 or that are marketed on or after February 19, 2021 shall comply with the requirements of § 15.711(c). Fixed white space devices which are approved or marketed before the dates in the preceding sentence shall comply with either the requirements of § 15.711(c) or the requirements of § 15.711(c) as in effect prior to August 19, 2019 (see 47 CFR part 15 as revised October 1, 2018).
+
+(r) Field disturbance sensor/radar devices being marketed or operating in the frequency band 57-64 GHz approved by Telecommunication Certification Bodies as being in compliance with previously adopted rules or waivers thereof on or before [six months after the effective date of the rules] may continue to be marketed and operate in accordance with their certifications. All other field disturbance sensor/radar devices shall comply with the requirements in § 15.255.
+
+(s) Prior to October 30, 2025, measurements for intentional radiators subject to § 15.31(a)(3) must be made using the procedures in ANSI C63.10-2013 or ANSI C63.10-2020 (incorporated by reference, see § 15.38). On or after October 30, 2025, measurements for intentional radiators subject to § 15.31(a)(3) must be made using the procedures in ANSI C63.10-2020 (incorporated by reference, see § 15.38).
+
+[77 FR 4913, Feb. 1, 2012, as amended at 78 FR 34927, June 11, 2013; 79 FR 24578, May 1, 2014; 80 FR 71728, Nov. 17, 2015; 80 FR 73068, Nov. 23, 2015; 82 FR 41559, Sept. 1, 2017; 82 FR 43870, Sept. 20, 2017; 82 FR 50832, Nov. 2, 2017; 83 FR 10640, 10642, Mar. 12, 2018; 84 FR 34796, July 19, 2019; 87 FR 18992, Apr. 1, 2022, 88 FR 47394, July 24, 2023; 88 FR 67115, Sept. 29, 2023]

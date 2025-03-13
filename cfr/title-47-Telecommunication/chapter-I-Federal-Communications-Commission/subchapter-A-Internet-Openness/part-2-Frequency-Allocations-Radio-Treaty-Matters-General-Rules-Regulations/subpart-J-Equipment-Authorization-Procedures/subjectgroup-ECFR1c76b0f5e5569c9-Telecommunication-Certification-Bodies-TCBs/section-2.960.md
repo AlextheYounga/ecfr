@@ -1,0 +1,13 @@
+##### § 2.960 Recognition of Telecommunication Certification Bodies (TCBs). #####
+
+(a) The Commission may recognize Telecommunication Certification Bodies (TCBs) which have been designated according to requirements of paragraph (b) or (c) of this section to issue grants of certification as required under this part. Certification of equipment by a TCB shall be based on an application with all the information specified in this part. The TCB shall review the application to determine compliance with the Commission's requirements and shall issue a grant of equipment certification in accordance with § 2.911.
+
+(b) In the United States, TCBs shall be accredited and designated by the National Institute of Standards and Technology (NIST) under its National Voluntary Conformity Assessment Evaluation (NVCASE) program, or other recognized programs based on ISO/IEC 17065 (incorporated by reference, see § 2.910) to comply with the Commission's qualification criteria for TCBs. NIST may, in accordance with its procedures, allow other appropriately qualified accrediting bodies to accredit TCBs. TCBs shall comply with the requirements in § 2.962 of this part.
+
+(c) In accordance with the terms of an effective bilateral or multilateral mutual recognition agreement or arrangement (MRA) to which the United States is a party, bodies outside the United States shall be permitted to authorize equipment in lieu of the Commission. A body in an MRA partner economy may authorize equipment to U.S. requirements only if that economy permits bodies in the United States to authorize equipment to its requirements. The authority designating these telecommunication certification bodies shall meet the following criteria.
+
+(1) The organization accrediting the prospective telecommunication certification body shall be capable of meeting the requirements and conditions of ISO/IEC 17011 (incorporated by reference, see § 2.910).
+
+(2) The organization assessing the telecommunication certification body shall appoint a team of qualified experts to perform the assessment covering all of the elements within the scope of accreditation. For assessment of telecommunications equipment, the areas of expertise to be used during the assessment shall include, but not be limited to, electromagnetic compatibility and telecommunications equipment (wired and wireless).
+
+[64 FR 4995, Feb. 2, 1999, as amended at 80 FR 33444, June 12, 2015]

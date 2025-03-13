@@ -1,7 +1,5 @@
 ##### § 20.3 Definitions. #####
 
-Link to an amendment published at 89 FR 45555, May 22, 2024.
-
 *Automatic Roaming.* With automatic roaming, under a pre-existing contractual agreement between a subscriber's home carrier and a host carrier, a roaming subscriber is able to originate or terminate a call in the host carrier's service area without taking any special actions.
 
 *CIS Operator.* An operator of a CIS at a correctional facility, whether a CIS solutions provider, or a DCFO or responsible party that deploys its own CIS at a correctional facility.
@@ -16,17 +14,17 @@ Link to an amendment published at 89 FR 45555, May 22, 2024.
 
 *Commercial mobile radio service.* A mobile service that is:
 
-(a)(1) provided for profit, *i.e.*, with the intent of receiving compensation or monetary gain;
+(1)(i) Provided for profit, *i.e.,* with the intent of receiving compensation or monetary gain;
 
-(2) An interconnected service; and
+(ii) An interconnected service; and
 
-(3) Available to the public, or to such classes of eligible users as to be effectively available to a substantial portion of the public; or
+(iii) Available to the public, or to such classes of eligible users as to be effectively available to a substantial portion of the public; or
 
-(b) The functional equivalent of such a mobile service described in paragraph (a) of this definition.
+(2) The functional equivalent of such a mobile service described in paragraph (1) of this definition, including a mobile broadband internet access service as defined in § 8.1 of this chapter.
 
-(c) A variety of factors may be evaluated to make a determination whether the mobile service in question is the functional equivalent of a commercial mobile radio service, including: Consumer demand for the service to determine whether the service is closely substitutable for a commercial mobile radio service; whether changes in price for the service under examination, or for the comparable commercial mobile radio service, would prompt customers to change from one service to the other; and market research information identifying the targeted market for the service under review.
+(3) A variety of factors may be evaluated to make a determination whether the mobile service in question is the functional equivalent of a commercial mobile radio service, including: Consumer demand for the service to determine whether the service is closely substitutable for a commercial mobile radio service; whether changes in price for the service under examination, or for the comparable commercial mobile radio service, would prompt customers to change from one service to the other; and market research information identifying the targeted market for the service under review.
 
-(d) Unlicensed radio frequency devices under part 15 of this chapter are excluded from this definition of Commercial mobile radio service.
+(4) Unlicensed radio frequency devices under part 15 of this chapter are excluded from this definition of *commercial mobile radio service.*
 
 *Consumer Signal Booster.* A bi-directional signal booster that is marketed and sold for use without modification.
 
@@ -48,11 +46,11 @@ Link to an amendment published at 89 FR 45555, May 22, 2024.
 
 *Interconnection or Interconnected.* Direct or indirect connection through automatic or manual means (by wire, microwave, or other technologies such as store and forward) to permit the transmission or reception of messages or signals to or from points in the public switched network.
 
-*Interconnected Service.* A service:
+*Interconnected service.* A service:
 
-(a) That is interconnected with the public switched network, or interconnected with the public switched network through an interconnected service provider, that gives subscribers the capability to communicate to or receive communication from all other users on the public switched network; or
+(1) That is interconnected with the public switched network, or interconnected with the public switched network through an interconnected service provider, that gives subscribers the capability to communicate to or receive communication from other users on the public switched network; or
 
-(b) For which a request for such interconnection is pending pursuant to section 332(c)(1)(B) of the Communications Act, 47 U.S.C. 332(c)(1)(B). A mobile service offers interconnected service even if the service allows subscribers to access the public switched network only during specified hours of the day, or if the service provides general access to points on the public switched network but also restricts access in certain limited ways. Interconnected service does not include any interface between a licensee's facilities and the public switched network exclusively for a licensee's internal control purposes.
+(2) For which a request for such interconnection is pending pursuant to section 332(c)(1)(B) of the Communications Act, 47 U.S.C. 332(c)(1)(B). A mobile service offers interconnected service even if the service allows subscribers to access the public switched network only during specified hours of the day, or if the service provides general access to points on the public switched network but also restricts access in certain limited ways. Interconnected service does not include any interface between a licensee's facilities and the public switched network exclusively for a licensee's internal control purposes.
 
 *Managed Access System.* A Managed Access System (MAS) is a Contraband Interdiction System whose operations require:
 
@@ -86,7 +84,7 @@ Link to an amendment published at 89 FR 45555, May 22, 2024.
 
 *Provider-Specific Consumer Signal Boosters.* Provider-Specific Consumer Signal Boosters may only operate on the frequencies and in the market areas of the specified licensee(s). Provider-Specific Consumer Signal Boosters may only be certificated and operated with the consent of the licensee(s) whose frequencies are being amplified by the device.
 
-*Public Switched Network.* Any common carrier switched network, whether by wire or radio, including local exchange carriers, interexchange carriers, and mobile service providers, that uses the North American Numbering Plan in connection with the provision of switched services.
+*Public switched network.* The network that includes any common carrier switched network, whether by wire or radio, including local exchange carriers, interexchange carriers, and mobile service providers, that uses the North American Numbering Plan, or public IP addresses, in connection with the provision of switched services.
 
 *Signal booster.* A device that automatically receives, amplifies, and retransmits on a bi- or unidirectional basis, the signals received from base, fixed, mobile, or portable stations, with no change in frequency or authorized bandwidth.
 

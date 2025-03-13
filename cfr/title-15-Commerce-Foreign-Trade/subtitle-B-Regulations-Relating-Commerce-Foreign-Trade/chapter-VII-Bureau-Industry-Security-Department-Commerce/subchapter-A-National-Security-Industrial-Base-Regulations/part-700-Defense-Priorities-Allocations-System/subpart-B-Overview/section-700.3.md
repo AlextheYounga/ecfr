@@ -1,5 +1,7 @@
 ##### § 700.3 Priority ratings and rated orders. #####
 
+Link to an amendment published at 89 FR 58970, July 22, 2024.
+
 (a) Rated orders are identified by a priority rating and a program identification symbol. Rated orders take precedence over all unrated orders as necessary to meet required delivery dates. Among rated orders, DX rated orders take precedence over DO rated orders. Program identification symbols indicate which approved program is attributed to the rated order.
 
 (b) Persons receiving rated orders must give them preferential treatment as required by this part.

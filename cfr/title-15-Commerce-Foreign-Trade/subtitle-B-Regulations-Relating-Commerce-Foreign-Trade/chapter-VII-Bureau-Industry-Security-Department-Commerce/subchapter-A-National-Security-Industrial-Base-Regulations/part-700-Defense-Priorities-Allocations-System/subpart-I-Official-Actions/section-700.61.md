@@ -1,5 +1,7 @@
 ##### § 700.61 Rating authorizations. #####
 
+Link to an amendment published at 89 FR 58975, July 22, 2024.
+
 (a) A rating authorization is an official action granting specific priority rating authority that:
 
 (1) Permits a person to place a priority rating on an order for an item not normally ratable under this regulation; or

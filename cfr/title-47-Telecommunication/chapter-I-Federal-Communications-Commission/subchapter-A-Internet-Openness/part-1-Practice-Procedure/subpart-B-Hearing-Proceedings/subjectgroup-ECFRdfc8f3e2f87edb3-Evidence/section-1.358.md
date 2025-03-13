@@ -1,0 +1,3 @@
+##### § 1.358 Tariffs as evidence. #####
+
+In case any matter contained in a tariff schedule on file with the Commission is offered in evidence, such tariff schedule need not be produced or marked for identification, but the matter so offered shall be specified with particularity (tariff and page number) in such manner as to be readily identified, and may be received in evidence by reference subject to check with the original tariff schedules on file.

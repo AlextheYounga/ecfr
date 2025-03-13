@@ -1,5 +1,7 @@
 ##### § 700.80 Adjustments or exceptions. #####
 
+Link to an amendment published at 89 FR 58976, July 22, 2024.
+
 (a) A person may submit a request to the Office of Strategic Industries and Economic Security, U.S. Department of Commerce, for an adjustment or exception on the ground that:
 
 (1) A provision of this part or an official action results in an undue or exceptional hardship on that person not suffered generally by others in similar situations and circumstances; or

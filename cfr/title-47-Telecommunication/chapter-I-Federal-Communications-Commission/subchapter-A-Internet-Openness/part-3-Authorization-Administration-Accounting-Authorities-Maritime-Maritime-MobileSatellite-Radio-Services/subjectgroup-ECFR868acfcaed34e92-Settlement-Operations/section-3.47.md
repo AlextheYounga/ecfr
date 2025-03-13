@@ -1,0 +1,3 @@
+##### § 3.47 Use of SDRs. #####
+
+An accounting authority must accept accounts presented to it from foreign administrations in Special Drawing Rights (SDRs). These SDRs must be converted to dollars on the date of receipt by the accounting authority and an equivalent amount in US dollars must be paid to the foreign administration. The conversion rate will be the applicable rate published by the International Monetary Fund (IMF) for the date of receipt of the account from the foreign administration. Upon written concurrence by the FCC, any accounting authority may make separate agreements, in writing, with foreign administrations or their agents for alternative settlement methods, provided account is taken of ITU-T Recommendation D.195.

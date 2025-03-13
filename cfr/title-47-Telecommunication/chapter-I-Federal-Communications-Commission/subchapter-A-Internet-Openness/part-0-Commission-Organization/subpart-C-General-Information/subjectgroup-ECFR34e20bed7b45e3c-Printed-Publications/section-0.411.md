@@ -1,0 +1,11 @@
+##### § 0.411 General reference materials. #####
+
+The following reference materials are available in many libraries and may be purchased from the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402:
+
+(a) *Statutory materials.* Laws pertaining to communications are contained in Title 47 of the United States Code. Laws enacted since the printing of the last supplement to the Code are printed individually as slip laws, and these are compiled chronologically in the United States Statutes at Large. The Acts of Congress from 1910-62 pertaining to radio have been compiled in a single volume, Radio Laws of the United States (1962 ed.). See §§ 0.405 and 0.414.
+
+(b) *Regulatory materials*—(1) *The Code of Federal Regulations.* The rules and regulations of the Commission are contained in chapter I of title 47 of the Code of Federal Regulations. Chapter I is divided into the following four subchapters, which may be purchased separately: Subchapter A—General; Subchapter B—Common Carrier Services; Subchapter C—Broadcast Radio Services; and Subchapter D—Private Radio Services. Most persons will find that they need subchapter A, containing the general rules, and one of the other volumes, depending upon their area of interest. These four volumes are revised annually to reflect changes in the rules. See §§ 0.406, 0.412, and 0.415. The Code of Federal Regulations is fully indexed and contains numerous finding aids. See 1 CFR appendix C.
+
+(2) *The Federal Register.* As rules are adopted, amended, or repealed, the changes are published in the Federal Register, which is published daily except on legal holidays. Notices of proposed rule making, other rule making documents, statements of general policy, interpretations of general applicability, and other Commission documents having general applicability and legal effect are also published in the Federal Register. Summaries of the full Notices of proposed rule making and other rule making decisions adopted by the Commission constitute rulemaking documents for purposes of Federal Register publication. The Federal Register is fully indexed and contains numerous findings aids.
+
+[32 FR 10571, July 19, 1967, as amended at 44 FR 39180, July 5, 1979; 51 FR 7444, Mar. 4, 1986]

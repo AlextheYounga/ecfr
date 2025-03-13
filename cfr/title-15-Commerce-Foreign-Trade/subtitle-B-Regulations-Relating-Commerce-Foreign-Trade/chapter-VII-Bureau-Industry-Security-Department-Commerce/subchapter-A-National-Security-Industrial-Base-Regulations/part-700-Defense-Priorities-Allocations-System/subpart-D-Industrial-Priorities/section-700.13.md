@@ -1,5 +1,7 @@
 ##### § 700.13 Acceptance and rejection of rated orders. #####
 
+Link to an amendment published at 89 FR 58972, July 22, 2024.
+
 (a) *Mandatory acceptance.* (1) Except as otherwise specified in this section, a person shall accept every rated order received and must fill such orders regardless of any other rated or unrated orders that have been accepted.
 
 (2) A person shall not discriminate against rated orders in any manner such as by charging higher prices or by imposing different terms and conditions than for comparable unrated orders.

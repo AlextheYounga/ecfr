@@ -1,0 +1,7 @@
+##### § 1.1200 Introduction. #####
+
+(a) *Purpose.* To ensure the fairness and integrity of its decision-making, the Commission has prescribed rules to regulate *ex parte* presentations in Commission proceedings. These rules specify “exempt” proceedings, in which *ex parte* presentations may be made freely (§ 1.1204(b)), “permit-but-disclose” proceedings, in which *ex parte* presentations to Commission decision-making personnel are permissible but subject to certain disclosure requirements (§ 1.1206), and “restricted” proceedings in which *ex parte* presentations to and from Commission decision-making personnel are generally prohibited (§ 1.1208). In all proceedings, a certain period (”the Sunshine Agenda period”) is designated in which all presentations to Commission decision-making personnel are prohibited (§ 1.1203). The limitations on *ex parte* presentations described in this section are subject to certain general exceptions set forth in § 1.1204(a). Where the public interest so requires in a particular proceeding, the Commission and its staff retain the discretion to modify the applicable *ex parte* rules by order, letter, or public notice. Joint Boards may modify the *ex parte* rules in proceedings before them.
+
+(b) Inquiries concerning the propriety of *ex parte* presentations should be directed to the Office of General Counsel.
+
+[62 FR 15853, Apr. 3, 1997]

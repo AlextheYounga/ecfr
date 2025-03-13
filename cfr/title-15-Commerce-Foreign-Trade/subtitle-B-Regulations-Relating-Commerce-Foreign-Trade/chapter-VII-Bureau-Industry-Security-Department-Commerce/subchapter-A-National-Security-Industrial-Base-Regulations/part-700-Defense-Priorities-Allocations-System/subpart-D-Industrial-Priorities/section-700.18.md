@@ -1,5 +1,7 @@
 ##### § 700.18 Limitations on placing rated orders. #####
 
+Link to an amendment published at 89 FR 58972, July 22, 2024.
+
 (a) *General limitations.* (1) A person may not place a rated order pursuant to this part unless the person is in receipt of a rated order, has been explicitly authorized to do so by the Department of Commerce or a Delegate Agency or is otherwise permitted to do so by this part.
 
 (2) Rated orders may not be used to obtain:

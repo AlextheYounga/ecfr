@@ -1,0 +1,17 @@
+##### § 1.323 Interrogatories to parties. #####
+
+(a) *Interrogatories.* Any party may serve upon any other party written interrogatories to be answered in writing by the party served or, if the party served is a public or private corporation, partnership, association, or similar entity, by any officer or agent, who shall furnish such information as is available to the party. Copies of the interrogatories, answers, and all related pleadings shall be filed with the Commission and served on the presiding officer and all other parties to the hearing proceeding.
+
+(1) Except as otherwise provided in a protective order, the number of interrogatories or sets of interrogatories is not limited.
+
+(2) Except as provided in such an order, interrogatories may be served after a deposition has been taken, and a deposition may be sought after interrogatories have been answered.
+
+(b) *Answers and objections.* Each interrogatory shall be answered separately and fully in writing under oath or affirmation, unless it is objected to, in which event the reasons for objection shall be stated in lieu of an answer. The answers shall be signed by the person making them, and the objections by the attorney making them. The party upon whom the interrogatories were served shall serve a copy of the answers and objections upon all parties to the proceeding within 14 days after service of the interrogatories, or within such shorter or longer period as the presiding officer may allow. Answers may be used in the same manner as depositions of a party (see § 1.321(d)).
+
+(c) *Motion to compel an answer.* Any party to the proceeding may, within 7 days, move for an order with respect to any objection or other failure to answer an interrogatory. For purposes of this paragraph, an evasive or incomplete answer is a failure to answer; and if the motion is based on the assertion that the answer is evasive or incomplete, it shall contain a statement as to the scope and detail of an answer which would be considered responsive and complete. The party upon whom the interrogatories were served may file a response within 7 days after the motion is filed, to which he may append an answer or an amended answer. Additional pleadings should not be submitted and will not be considered.
+
+(d) *Action by the presiding officer.* If the presiding officer determines that an objection is not justified, he shall order that the answer be served. If an interrogatory has not been answered, the presiding officer may rule that the right to object has been waived and may order that an answer be served. If an answer does not comply fully with the requirements of this section, the presiding officer may order that an amended answer be served, may specify the scope and detail of the matters to be covered by the amended answer, and may specify any appropriate procedural consequences (including adverse findings of fact and dismissal with prejudice) which will follow from the failure to make a full and responsive answer. If a full and responsive answer is not made, the presiding officer may issue an order invoking any of the procedural consequences specified in the order to compel an answer.
+
+(e) *Appeal.* As order to compel an answer is not subject to appeal.
+
+[33 FR 10572, July 25, 1968, as amended at 35 FR 17334, Nov. 11, 1970; 85 FR 63181, Oct. 6, 2020]

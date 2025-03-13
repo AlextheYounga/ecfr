@@ -1,5 +1,7 @@
 ##### § 700.71 Audits and investigations. #####
 
+Link to an amendment published at 89 FR 58976, July 22, 2024.
+
 (a) Audits and investigations are official actions involving the examination of books, records, documents, other writings and information to ensure that the provisions of the Defense Production Act, the Selective Service Act and related statutes, and this part have been properly followed. An audit or investigation may also include interviews and a systems evaluation to detect problems or failures in the implementation of this part.
 
 (b) When undertaking an audit, investigation, or other inquiry, the Department of Commerce shall:

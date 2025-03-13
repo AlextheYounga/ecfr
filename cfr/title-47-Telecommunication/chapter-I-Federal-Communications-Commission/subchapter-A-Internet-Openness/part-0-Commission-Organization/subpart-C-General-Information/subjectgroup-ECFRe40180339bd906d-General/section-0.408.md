@@ -1,0 +1,5 @@
+##### § 0.408 OMB Control Numbers and expiration dates assigned pursuant to the Paperwork Reduction Act of 1995. #####
+
+OMB control numbers and expiration dates for the Commission information collection requirements assigned by the Office of Management and Budget (“OMB”) pursuant to the Paperwork Reduction Act of 1995, Public Law 104-13 can be found at *https://www.reginfo.gov/public/do/PRAMain.* The Commission intends that this posting comply with the requirement that agencies “display” current OMB control numbers and expiration dates assigned by the Director, OMB, for each approved information collection requirement. Notwithstanding any other provisions of law, no person shall be subject to any penalty for failing to comply with a collection of information subject to the Paperwork Reduction Act (PRA) that does not display a currently valid OMB control number. Questions concerning the OMB control numbers and expiration dates should be directed to the Secretary, Office of the Secretary, Office of Managing Director, Federal Communications Commission, Washington, DC 20554 by sending an email to *PRA@fcc.gov.*
+
+[88 FR 21431, Apr. 10, 2023]

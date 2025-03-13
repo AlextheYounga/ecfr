@@ -1,0 +1,3 @@
+##### § 2.108 Policy regarding the use of the fixed-satellite allocations in the 3.6-3.7, 4.5-4.8, and 5.85-5.925 GHz bands. #####
+
+The use of the fixed-satellite allocations in the United States in the above bands will be governed by footnote US245. Use of the fixed-satellite service allocations in these bands is for the international fixed-satellite service, that is, for international inter-continental communications. Case-by-case electromagnetic compatibility analysis is required with all users of the bands. It is anticipated that one earth station on each coast can be successfully coordinated. Specific locations of these earth stations depend upon service requirements and case-by-case EMC analyses that demonstrate compatible operations.

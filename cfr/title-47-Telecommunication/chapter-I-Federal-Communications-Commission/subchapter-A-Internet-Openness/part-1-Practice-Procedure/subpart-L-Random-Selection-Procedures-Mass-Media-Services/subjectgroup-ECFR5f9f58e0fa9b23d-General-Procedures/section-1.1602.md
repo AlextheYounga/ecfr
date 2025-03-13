@@ -1,0 +1,3 @@
+##### § 1.1602 Designation for random selection. #####
+
+Applications in the services specified in § 1.1601 shall be tendered, accepted or dismissed, filed, publicly noted and subject to random selection and hearing in accordance with any relevant rules. Competing applications for an initial license or construction permit shall be designated for random selection and hearing in accordance with the procedures set forth in §§ 1.1603 through 1.1623 and § 73.3572 of this chapter.
