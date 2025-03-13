@@ -1,18 +1,16 @@
 ##### § 2.305 Service of documents, methods, proof. #####
 
-Link to an amendment published at 89 FR 67833, Aug. 22, 2024.
-
 (a) *Service of documents by the Commission.* Except for subpoenas, the Commission shall serve all orders, decisions, notices, and other documents to all participants, by the same delivery method those participants use to file and accept service.
 
 (b) *Who may be served.* Any document required to be served upon a participant shall be served upon that person or upon the representative designated by the participant or by law to receive service of documents. When a participant has appeared by attorney, service shall be made upon the attorney of record.
 
-(c) *Method of service accompanying a filing.* Service must be made electronically to the E-Filing system. Upon an order from the Commission or presiding officer permitting alternative filing methods under § 2.302(g)(4), service may be made by personal delivery, courier, expedited delivery service, or by first-class, express, certified or registered mail. As to each participant that cannot serve electronically, the Commission or presiding officer shall require service by the most expeditious means permitted under this paragraph that are available to the participant, unless the Commission or presiding officer finds that this requirement would impose undue burden or expense on the participant.
+(c) *Method of service accompanying a filing.* Service must be made electronically to the E-Filing system. In accordance with § 2.302(g)(2) or (3) or upon an order from the Commission or presiding officer permitting alternative filing methods under § 2.302(g)(4), service may be made by personal delivery, courier, expedited delivery service, or by first-class, express, certified or registered mail. As to each participant that cannot serve electronically, the Commission or presiding officer shall require service by the most expeditious means permitted under this paragraph that are available to the participant, unless the Commission or presiding officer finds that this requirement would impose undue burden or expense on the participant.
 
 (1) Unless otherwise provided in this section, a participant will serve documents on the other participants by the same method by which those participants filed.
 
-(2) A participant granted an exemption under § 2.302(g)(2) will serve the presiding officer and the participants in the proceeding that filed electronically by physically delivering or mailing optical storage media containing the electronic document.
+(2) A participant granted an exemption under § 2.302(h)(1) will serve the presiding officer and the participants in the proceeding that filed electronically by email or by physically delivering or mailing portable storage media containing the electronic document.
 
-(3) A participant granted an exemption under § 2.302(g)(3) will serve the presiding officer and the other participants in the proceeding by physically delivering or mailing a paper copy.
+(3) A participant granted an exemption under § 2.302(h)(2) will serve the presiding officer and the other participants in the proceeding by physically delivering or mailing a paper copy.
 
 (4) Each document served (as may be required by law, rule, or order of the presiding officer) upon a participant to the proceeding must be accompanied by a signed certificate of service.
 
@@ -26,7 +24,7 @@ Link to an amendment published at 89 FR 67833, Aug. 22, 2024.
 
 (e) *Service on the Secretary.* (1) All motions, briefs, pleadings, and other documents must be served on the Secretary of the Commission by the same or equivalent method, such as by electronic transmission or first-class mail, that they are served upon the presiding officer, so that the Secretary will receive the filing at approximately the same time that it is received by the presiding officer to which the filing is directed.
 
-(2) When pleadings are personally delivered to a presiding officer conducting proceedings outside the Washington, DC area, service on the Secretary may be accomplished electronically to the E-Filing system, as well as by courier, express mail, or expedited delivery service.
+(2) When pleadings are personally delivered to a presiding officer conducting proceedings outside the Washington, DC area, service on the Secretary may be accomplished electronically to the E-Filing system, as well as by other service methods permitted by NRC regulations.
 
 (3) Service of demonstrative evidence (e.g., maps and other physical exhibits) on the Secretary of the Commission may be made by first-class mail in all cases, unless the presiding officer directs otherwise or the participant desires to serve by a faster method. All pre-filed testimony and exhibits shall be served on the Secretary of the Commission by the same or equivalent method that it is served upon the presiding officer to the proceedings, i.e., electronically to the E-Filing system, personal delivery or courier, express mail, or expedited delivery service.
 
@@ -34,9 +32,11 @@ Link to an amendment published at 89 FR 67833, Aug. 22, 2024.
 
 (i) Internet: The E-Filing system at *https://www.nrc.gov/site-help/e-submittals.html*
 
-(ii) First-class mail: Office of the Secretary, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, Attention: Rulemakings and Adjudications Staff; and
+(ii) First-class mail: Office of the Secretary, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, Attention: Rulemakings and Adjudications Staff;
 
-(iii) Courier, express mail, and expedited delivery services: Office of the Secretary, Sixteenth Floor, One White Flint North, 11555 Rockville Pike, Rockville, Maryland 20852, Attention: Rulemakings and Adjudications Staff.
+(iii) Courier, express mail, and expedited delivery services: Office of the Secretary, Sixteenth Floor, One White Flint North, 11555 Rockville Pike, Rockville, Maryland 20852, Attention: Rulemakings and Adjudications Staff; and
+
+(iv) Email: *Hearing.Docket@nrc.gov.*
 
 (f) *When service is complete.* Service upon a participant is complete:
 
@@ -56,4 +56,4 @@ Link to an amendment published at 89 FR 67833, Aug. 22, 2024.
 
 (2) If the NRC staff decides not to participate as a party in a proceeding, it shall, in its notification to the presiding officer and participants of its determination not to participate, designate a person and address for service of documents.
 
-[72 FR 49150, Aug. 28, 2007, as amended at 77 FR 46590, Aug. 3, 2012; 81 FR 86909, Dec. 2, 2016; 85 FR 65661, Oct. 16, 2020]
+[72 FR 49150, Aug. 28, 2007, as amended at 77 FR 46590, Aug. 3, 2012; 81 FR 86909, Dec. 2, 2016; 85 FR 65661, Oct. 16, 2020; 89 FR 67833, Aug. 22, 2024]

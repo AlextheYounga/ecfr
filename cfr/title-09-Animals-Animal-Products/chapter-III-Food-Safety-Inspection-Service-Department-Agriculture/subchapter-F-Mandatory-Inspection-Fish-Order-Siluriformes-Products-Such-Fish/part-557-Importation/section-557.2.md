@@ -2,7 +2,6 @@
 
 (a) The requirements in 9 CFR 327.2(a)(1), (a)(2)(i), (a)(2)(ii)(C)-(I), (a)(2)(iii)-(iv), and (a)(3), for determining the acceptability of foreign meat inspection systems for the importation of meat and meat food products into the United States, apply in determining the acceptability of foreign fish inspection systems for the importation of fish and fish products into the United States. In determining the acceptability of these systems, the Agency will evaluate the manner in which they take into account the conditions under which fish are raised and transported to a processing establishment.
 
-(b) The countries eligible to export specific process categories of fish and fish products are listed at *http://www.fsis.usda.gov/importlibrary.* Such products must be covered by foreign inspection certificates of the country of origin as required by § 557.4. Products from such countries are eligible under the regulations in this subchapter for entry into the United States after inspection and marking as required by the applicable provisions of this part.
-.
+(b) The countries eligible to export specific process categories of fish and fish products are listed at *http://www.fsis.usda.gov/importlibrary.* Such products must be covered by foreign inspection certificates of the country of origin as required by § 557.4. Products from such countries are eligible under the regulations in this subchapter for entry into the United States after inspection and marking as required by the applicable provisions of this part. .
 
 [80 FR 75616, Dec. 2, 2015, as amended at 84 FR 59681, 59685, 59689, Nov. 5, 2019; 84 FR 65269, Nov. 27, 2019]

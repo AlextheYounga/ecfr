@@ -6,7 +6,7 @@ Pasteurella Multocida Bacterin shall be prepared from a culture of *Pasteurella 
 
 (b) *Safety test.* Bulk or final container samples of completed product from each serial shall be tested for safety as provided in § 113.33(b). The subcutaneous route is to be used.
 
-(c) *Potency test.* Bulk or final container samples of completed product from each serial shall be tested for potency using the mouse test provided in this paragraph. A mouse dose shall be1/20 of the least dose recommended on the label for other animals which shall not be less than 2 ml.
+(c) *Potency test.* Bulk or final container samples of completed product from each serial shall be tested for potency using the mouse test provided in this paragraph. A mouse dose shall be 1/20 of the least dose recommended on the label for other animals which shall not be less than 2 ml.
 
 (1) The ability of the bacterin being tested (Unknown) to protect mice shall be compared with a Standard Reference Bacterin (Standard) which is either supplied by or acceptable to Animal and Plant Health Inspection Service.
 

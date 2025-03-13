@@ -28,15 +28,15 @@ Primary enclosures for dogs and cats must meet the following minimum requirement
 
 (xi) Provide sufficient space to allow each dog and cat to turn about freely, to stand, sit, and lie in a comfortable, normal position, and to walk in a normal manner; and
 
-(xii) If the suspended floor of a primary enclosure is constructed of metal strands, the strands must either be greater than1/8 of an inch in diameter (9 gauge) or coated with a material such as plastic or fiberglass. The suspended floor of any primary enclosure must be strong enough so that the floor does not sag or bend between the structural supports.
+(xii) If the suspended floor of a primary enclosure is constructed of metal strands, the strands must either be greater than 1/8 of an inch in diameter (9 gauge) or coated with a material such as plastic or fiberglass. The suspended floor of any primary enclosure must be strong enough so that the floor does not sag or bend between the structural supports.
 
 (b) *Additional requirements for cats*—(1) *Space.* Each cat, including weaned kittens, that is housed in any primary enclosure must be provided minimum vertical space and floor space as follows:
 
 (i) Each primary enclosure housing cats must be at least 24 in. high (60.96 cm);
 
-(ii) Cats up to and including 8.8 lbs (4 kg) must be provided with at least 3.0 ft2 (0.28 m2);
+(ii) Cats up to and including 8.8 lbs (4 kg) must be provided with at least 3.0 ft 2 (0.28 m 2);
 
-(iii) Cats over 8.8 lbs (4 kg) must be provided with at least 4.0 ft2 (0.37 m2);
+(iii) Cats over 8.8 lbs (4 kg) must be provided with at least 4.0 ft 2 (0.37 m 2);
 
 (iv) Each queen with nursing kittens must be provided with an additional amount of floor space, based on her breed and behavioral characteristics, and in accordance with generally accepted husbandry practices. If the additional amount of floor space for each nursing kitten is equivalent to less than 5 percent of the minimum requirement for the queen, such housing must be approved by the attending veterinarian in the case of a research facility, and, in the case of dealers and exhibitors, such housing must be approved by the Administrator; and
 

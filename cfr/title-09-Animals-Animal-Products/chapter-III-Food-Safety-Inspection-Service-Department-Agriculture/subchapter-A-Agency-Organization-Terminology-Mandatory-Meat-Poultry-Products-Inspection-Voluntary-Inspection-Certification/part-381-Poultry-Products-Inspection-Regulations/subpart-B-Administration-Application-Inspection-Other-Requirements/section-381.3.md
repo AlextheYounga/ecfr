@@ -44,7 +44,7 @@
 
 (2)(i) The frequency of Federal inspection and other conditions and methods of inspection coverage in any establishment in which the frequency of Federal inspection is reduced shall be based on:
 
-(A) The evaluation of the characteristics of such establishment described in paragraph (d)(2) of this section,1
+(A) The evaluation of the characteristics of such establishment described in paragraph (d)(2) of this section, 1
 
 1 These evaluations will be based upon guidelines developed by FSIS and the complexity categorization in FSIS Directive 1030.2 (Documentation of Processing and Combination Assignments, 4/22/85). The guidelines and Directive will be available for public inspection and copying in the Policy Office, Room 3168, South Agriculture Building, 14th Street and Independence Avenue, SW., Washington, DC.
 

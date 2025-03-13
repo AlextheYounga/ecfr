@@ -8,7 +8,7 @@
 
 (d) The scalding vat water through which hog carcasses affected with anthrax have passed shall be immediately drained into the sewer and all parts of the scalding vat shall be cleaned and disinfected as provided in paragraph (e) of this section.
 
-(e)(1) That portion of the slaughtering department, including the bleeding area, scalding vat, gambrelling bench, floors, walls, posts, platforms, saws, cleavers, knives, and hooks, as well as employees' boots and aprons, contaminated through contact with anthrax-infected material, shall, except as provided in paragraph (e)(2) of this section be cleaned immediately and disinfected with one of the following disinfectants or other disinfectant1 approved specifically for this purpose by the Administrator:
+(e)(1) That portion of the slaughtering department, including the bleeding area, scalding vat, gambrelling bench, floors, walls, posts, platforms, saws, cleavers, knives, and hooks, as well as employees' boots and aprons, contaminated through contact with anthrax-infected material, shall, except as provided in paragraph (e)(2) of this section be cleaned immediately and disinfected with one of the following disinfectants or other disinfectant 1 approved specifically for this purpose by the Administrator:
 
 1 A list of disinfectants approved for this purpose is available upon request to the Scientific Services, Meat and Poultry Inspection, Food Safety and Inspection Service, U.S. Department of Agriculture, Washington, DC 20250.
 

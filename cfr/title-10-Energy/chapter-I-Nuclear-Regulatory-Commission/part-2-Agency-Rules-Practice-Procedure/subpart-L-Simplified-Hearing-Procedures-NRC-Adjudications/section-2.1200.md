@@ -1,7 +1,5 @@
-##### § 2.1200 Scope of subpart L. #####
+##### § 2.1200 Scope of this subpart. #####
 
-Link to an amendment published at 89 FR 67834, Aug. 22, 2024.
+The provisions of this subpart, together with subpart C of this part, govern all adjudicatory proceedings conducted for the grant, renewal, licensee-initiated amendment, or termination of licenses or permits subject to parts 30, 32 through 36, 39, 40, 50, 52, 54, 55, 61, 70, and 72 of this chapter, except as determined through the application of § 2.310(b) through (h).
 
-The provisions of this subpart, together with subpart C of this part, govern all adjudicatory proceedings conducted under the authority of the Atomic Energy Act of 1954, as amended, the Energy Reorganization Act, and 10 CFR part 2, except for proceedings on the licensing of the construction and operation of a uranium enrichment facility, proceedings on an initial application for construction authorization for a high-level radioactive waste geologic repository at a geologic repository operations area noticed under §§ 2.101(e)(8) or 2.105(a)(5), proceedings on an initial application for a license to receive and possess high-level radioactive waste at a geologic repository operations area, proceedings on enforcement matters unless all parties otherwise agree and request the application of Subpart L procedures, and proceedings for the direct or indirect transfer of control of an NRC license when the transfer requires prior approval of the NRC under the Commission's regulations, governing statutes, or pursuant to a license condition.
-
-[69 FR 2267, Jan. 14, 2004, as amended at 82 FR 52825, Nov. 15, 2017]
+[89 FR 67834, Aug. 22, 2024]

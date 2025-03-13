@@ -78,7 +78,7 @@
 
 (B) Quantitative information comparing the level of sodium per labeled serving size with that of the reference product it replaces is declared adjacent to the most prominent claim or to the nutrition information.
 
-(e) Except as provided in paragraphs (b) through (d) of this section, the terms “light” or “lite” may not be used to refer to a product that is not reduced in fat by 50 percent, or, if applicable, in calories by1/3 or, when properly qualified, in sodium by 50 percent unless:
+(e) Except as provided in paragraphs (b) through (d) of this section, the terms “light” or “lite” may not be used to refer to a product that is not reduced in fat by 50 percent, or, if applicable, in calories by 1/3 or, when properly qualified, in sodium by 50 percent unless:
 
 (1) It describes some physical or organoleptic attribute of the product such as texture or color and the information (e.g., “light in color” or “light in texture”) so stated, clearly conveys the nature of the product; and
 

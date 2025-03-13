@@ -86,7 +86,7 @@ Participating flocks, and the eggs and poults produced from them, which have met
 
 (4) Environmental samples shall be taken by an Authorized Agent, in accordance with part 147 of this subchapter, from each flock at 12-20 weeks of age and examined bacteriologically at an authorized laboratory for Salmonella.
 
-(5) Owners of flocks found infected with a paratyphoid Salmonella may vaccinate these flocks with an autogenous bacterin with a potentiating agent.5
+(5) Owners of flocks found infected with a paratyphoid Salmonella may vaccinate these flocks with an autogenous bacterin with a potentiating agent. 5
 
 5 Preparation and use of this type of vaccine may be regulated by state statutes.
 

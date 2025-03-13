@@ -10,7 +10,7 @@
 
 (4) *Integrity of seals.* The casings were taken out of the container at the processing establishment only after an official of the national government of the region where the processing establishment is located determined that the seals were intact and free of any evidence of tampering and had so stated on the certificate referred to in paragraph (a)(3) of this section.
 
-(5) *The processing establishment.* The casings were processed at a single processing establishment1 in a region listed under § 94.8(a) of this subchapter. The processing establishment does not receive or process any live swine and uses only pork and pork products that originate in a region not listed under § 94.8(a) of this subchapter and that are shipped to the processing establishment in accordance with paragraphs (a)(2) through (a)(4) of this section.
+(5) *The processing establishment.* The casings were processed at a single processing establishment 1 in a region listed under § 94.8(a) of this subchapter. The processing establishment does not receive or process any live swine and uses only pork and pork products that originate in a region not listed under § 94.8(a) of this subchapter and that are shipped to the processing establishment in accordance with paragraphs (a)(2) through (a)(4) of this section.
 
 1 As a condition of entry into the United States, pork or pork products must also meet all of the requirements of the Federal Meat Inspection Act (21 U.S.C. 601 *et seq.*) and regulations under the Act (9 CFR, chapter III, part 327), including requirements that the pork or pork products be prepared only in approved establishments.
 

@@ -1,12 +1,12 @@
 ##### § 72.13 Permitted dips and procedures. #####
 
-(a) *Dipping requirements; facilities; handling.* The dipping of cattle for interstate movement shall be done only with a permitted dip and at places where proper equipment is provided for dipping and for handling the cattle in a manner to prevent exposure to infection after the final dipping. Cattle which are to be dipped shall be given an opportunity to drink sufficient water to quench their thirst prior to dipping, be carefully handled, and not dipped while they are in a heated or exhausted condition. Dipped cattle shall not be loaded for shipment until dry.4
+(a) *Dipping requirements; facilities; handling.* The dipping of cattle for interstate movement shall be done only with a permitted dip and at places where proper equipment is provided for dipping and for handling the cattle in a manner to prevent exposure to infection after the final dipping. Cattle which are to be dipped shall be given an opportunity to drink sufficient water to quench their thirst prior to dipping, be carefully handled, and not dipped while they are in a heated or exhausted condition. Dipped cattle shall not be loaded for shipment until dry. 4
 
 4 Care is required when treating animals and in maintaining the required concentration of chemicals in dipping baths. Detailed information concerning the use of, criteria for, and names of proprietary brands of permitted dips—as well the use of compressed air, vat management techniques, and other information—is available from the Animal and Plant Health Inspection Service, Veterinary Services, National Animal Health Programs, 4700 River Road Unit 43, Riverdale, MD 20737-1231.
 
 (b) *Permitted dips.* The dips at present permitted by the U.S. Department of Agriculture in official dipping for interstate movement are:
 
-(1) Approved proprietary brands of coumaphos (Co-Ral ®), 25 percent wettable powder or flowable form labeled for use as a 0.25 percent dip and used at a concentration of 0.125 to 0.250.4
+(1) Approved proprietary brands of coumaphos (Co-Ral ®), 25 percent wettable powder or flowable form labeled for use as a 0.25 percent dip and used at a concentration of 0.125 to 0.250. 4
 
 (2) [Reserved]
 

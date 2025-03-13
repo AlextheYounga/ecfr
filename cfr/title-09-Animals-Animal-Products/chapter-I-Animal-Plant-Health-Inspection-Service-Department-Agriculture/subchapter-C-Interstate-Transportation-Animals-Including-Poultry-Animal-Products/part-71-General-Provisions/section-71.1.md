@@ -1,7 +1,5 @@
 ##### § 71.1 Definitions. #####
 
-Link to an amendment published at 89 FR 39562, May 9, 2024.
-
 As used in this part, the following terms shall have the meanings set forth in this section.
 
 *Accredited veterinarian.* A veterinarian who is approved by the Administrator, in accordance with part 161 of this chapter, to perform official animal health work of the Animal and Plant Health Inspection Service specified in subchapters A, B, C, and D of this chapter and to perform work required by cooperative State-Federal disease control and eradication programs.
@@ -66,7 +64,7 @@ As used in this part, the following terms shall have the meanings set forth in t
 
 *Official brand inspection certificate.* A certificate issued by an official brand inspection agency in any State in which such certificates are required for movement of livestock.
 
-*Official eartag.* An identification tag approved by APHIS that bears an official identification number for individual animals. Beginning March 11, 2014, all official eartags manufactured must bear an official eartag shield. Beginning March 11, 2015, all official eartags applied to animals must bear an official eartag shield. The design, size, shape, color, and other characteristics of the official eartag will depend on the needs of the users, subject to the approval of the Administrator. The official eartag must be tamper-resistant and have a high retention rate in the animal.
+*Official eartag.* An identification tag approved by APHIS that bears an official identification number for individual animals. The design, size, shape, color, and other characteristics of the official eartag will depend on the needs of the users, subject to the approval of the Administrator. The official eartag must be tamper-resistant and have a high retention rate in the animal.
 
 *Official eartag shield.* The shield-shaped graphic of the U.S. Route Shield with “U.S.” or the State postal abbreviation or Tribal alpha code imprinted within the shield.
 

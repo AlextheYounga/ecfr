@@ -1,6 +1,6 @@
 ##### § 166.15 State status. #####
 
-(a) The Animal and Plant Health Inspection Service (APHIS) will maintain on its website2 the following lists of States:
+(a) The Animal and Plant Health Inspection Service (APHIS) will maintain on its website 2 the following lists of States:
 
 (1) States that prohibit the feeding of garbage to swine;
 
@@ -10,7 +10,7 @@
 
 (4) States that issue licenses under cooperative agreements with APHIS, but do not have primary responsibility under the Act.
 
-(b) For information concerning the feeding of garbage to swine, the public may contact the APHIS Area Veterinarian in Charge, the State animal health official, or Veterinary Services, 4700 River Road, Unit 37, Riverdale, MD 20737-1231.2
+(b) For information concerning the feeding of garbage to swine, the public may contact the APHIS Area Veterinarian in Charge, the State animal health official, or Veterinary Services, 4700 River Road, Unit 37, Riverdale, MD 20737-1231. 2
 
 2*https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/swine-disease-information.*
 

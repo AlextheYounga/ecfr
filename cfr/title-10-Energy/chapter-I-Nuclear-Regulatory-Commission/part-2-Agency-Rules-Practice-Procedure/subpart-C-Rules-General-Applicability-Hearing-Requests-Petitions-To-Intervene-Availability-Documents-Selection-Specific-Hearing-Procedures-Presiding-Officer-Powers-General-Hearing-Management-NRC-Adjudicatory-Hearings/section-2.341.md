@@ -1,14 +1,12 @@
 ##### § 2.341 Review of decisions and actions of a presiding officer. #####
 
-Link to an amendment published at 89 FR 67834, Aug. 22, 2024.
-
 (a)(1) Review of decisions and actions of a presiding officer are treated under this section; provided, however, that no party may request further Commission review of a Commission determination to allow a period of interim operation under § 52.103(c) of this chapter. This section does not apply to appeals under § 2.311 or to appeals in the high-level waste proceeding, which are governed by § 2.1015.
 
 (2) Within 120 days after the date of a decision or action by a presiding officer, or within 120 days after a petition for review of the decision or action has been served under paragraph (b) of this section, whichever is greater, the Commission may review the decision or action on its own motion, unless the Commission, in its discretion, extends the time for its review.
 
 (b)(1) Within 25 days after service of a full or partial initial decision by a presiding officer, and within 25 days after service of any other decision or action by a presiding officer with respect to which a petition for review is authorized by this part, a party may file a petition for review with the Commission on the grounds specified in paragraph (b)(4) of this section. Unless otherwise authorized by law, a party to an NRC proceeding must file a petition for Commission review before seeking judicial review of an agency action.
 
-(2) A petition for review under this paragraph may not be longer than twenty-five (25) pages, and must contain the following:
+(2) A petition for review under this paragraph may not be longer thanthirty (30) pages, and must contain the following:
 
 (i) A concise summary of the decision or action of which review is sought;
 
@@ -54,4 +52,4 @@ Link to an amendment published at 89 FR 67834, Aug. 22, 2024.
 
 (ii) Affects the basic structure of the proceeding in a pervasive or unusual manner.
 
-[69 FR 2236, Jan. 14, 2004, as amended at 72 FR 49476, Aug. 28, 2007; 77 FR 46596, Aug. 3, 2012]
+[69 FR 2236, Jan. 14, 2004, as amended at 72 FR 49476, Aug. 28, 2007; 77 FR 46596, Aug. 3, 2012; 89 FR 67834, Aug. 22, 2024]

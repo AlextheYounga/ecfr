@@ -6,4 +6,4 @@
 
 (c) After distribution of a portion of a master list, there can be supplementary distribution of a portion showing only changes from the previous one. However, if this is done, cumulative supplements must be distributed often enough that readers can find all the information given to them for any one crop year in no more than three distributions.
 
-(Approved by the Office of Management and Budget under control number 0580-0016)[51 FR 29451, Aug. 18, 1986, as amended at 61 FR 54728, Oct. 22, 1996; 71 FR 56343, Sept. 27, 2006]
+(Approved by the Office of Management and Budget under control number 0580-0016) [51 FR 29451, Aug. 18, 1986, as amended at 61 FR 54728, Oct. 22, 1996; 71 FR 56343, Sept. 27, 2006]

@@ -1,10 +1,8 @@
 ##### § 78.1 Definitions. #####
 
-Link to an amendment published at 89 FR 39563, May 9, 2024.
-
 The following terms are defined in this section:
 
-Accredited veterinarianAdministratorAnimalsAnimal and Plant Health Inspection ServiceAnimal identification numberAPHIS representativeApproved brucella vaccineApproved individual herd planApproved intermediate handling facilityArea“B” brandedBoarBrucellosisBrucellosis exposedBrucellosis negativeBrucellosis reactorBrucellosis ring testBrucellosis suspectCertificateCertified brucellosis-free herdClass A State or areaClass B State or areaClass C State or areaClass Free State or areaComplete herd test (CHT)Confirmatory testDairy cattleDesignated epidemiologistDirectlyEpidemiologistEpidemiologyFarm of originFeral swineFinished fed cattleHerdHerd blood testHerd known to be affectedHerd not known to be affectedHerd of origin of swineInterstateMarket cattle identification test cattleMarket swine test (MST) reactorMarket swine test swineMonitored-negative feral swine populationMovedMoved (movement) in interstate commerceOfficial adult vaccinateOfficial brand inspection certificateOfficial brand recording agencyOfficial calfhood vaccinateOfficial eartagOfficial sealOfficial swine tattooOfficial testOfficial vaccinateOfficial vaccination eartagOriginateParturientPermitPermit for entryPersonPostparturientPurebred registry associationQualified herdQuarantined areaQuarantined feedlotQuarantined pastureRecognized slaughtering establishment“S” branded“S” brand permitSowSpecifically approved stockyardStateState animal health officialState representativeSuccessfully closed caseSwine brucellosisTest-eligible cattle and bisonUnited StatesUnited States Department of Agriculture backtagValidated brucellosis-free herdValidated brucellosis-free StateVeterinarian in ChargeWhole herd vaccinationAs used in this part, the following terms shall have the meanings set forth in this section.
+Accredited veterinarian AdministratorAnimals Animal and Plant Health Inspection ServiceAnimal identification numberAPHIS representativeApproved brucella vaccine Approved individual herd plan Approved intermediate handling facility Area “B” branded Boar Brucellosis Brucellosis exposed Brucellosis negative Brucellosis reactor Brucellosis ring testBrucellosis suspect Certificate Certified brucellosis-free herd Class A State or area Class B State or area Class C State or area Class Free State or area Complete herd test (CHT) Confirmatory test Dairy cattle Designated epidemiologist Directly Epidemiologist Epidemiology Farm of origin Feral swine Finished fed cattle Herd Herd blood test Herd known to be affected Herd not known to be affected Herd of origin of swine Interstate Market cattle identification test cattle Market swine test (MST) reactor Market swine test swine Monitored-negative feral swine populationMoved Moved (movement) in interstate commerce Official adult vaccinate Official brand inspection certificate Official brand recording agency Official calfhood vaccinate Official eartag Official seal Official swine tattooOfficial test Official vaccinate Official vaccination eartag Originate Parturient Permit Permit for entry Person Postparturient Purebred registry associationQualified herd Quarantined area Quarantined feedlot Quarantined pasture Recognized slaughtering establishment “S” branded “S” brand permit Sow Specifically approved stockyard State State animal health official State representative Successfully closed case Swine brucellosis Test-eligible cattle and bison United StatesUnited States Department of Agriculture backtagValidated brucellosis-free herd Validated brucellosis-free State Veterinarian in Charge Whole herd vaccinationAs used in this part, the following terms shall have the meanings set forth in this section.
 
 *Accredited veterinarian.* A veterinarian approved by the Administrator in accordance with the provisions of part 161 of this title to perform functions specified in parts 1, 2, 3, and 11 of subchapter A, and subchapters B, C, and D of this chapter, and to perform functions required by cooperative State-Federal disease control and eradication programs.
 
@@ -226,7 +224,7 @@ Accredited veterinarianAdministratorAnimalsAnimal and Plant Health Inspection Se
 
 *Confirmatory test.* A follow-up test to verify any official test results. Confirmatory tests include the standard tube test, the Rivanol test, the complement fixation test (CF), the fluorescence polarization assay (FP assay), the particle concentration fluorescence immunoassay (PCFIA), the semen plasma test, and the standard plate test.
 
-*Dairy cattle.* All cattle, regardless of age or sex or current use, that are of a breed(s) used to produce milk or other dairy products for human consumption, including, but not limited to, Ayrshire, Brown Swiss, Holstein, Jersey, Guernsey, Milking Shorthorn, and Red and Whites.
+*Dairy cattle.* All cattle, regardless of age or sex or current use, that are of a breed(s) or offspring of a breed used to produce milk or other dairy products for human consumption, including, but not limited to, Ayrshire, Brown Swiss, Holstein, Jersey, Guernsey, Milking Shorthorn, and Red and Whites.
 
 *Designated epidemiologist.* An epidemiologist selected by the State animal health official and the Veterinarian in Charge to perform the functions required. The regional epidemiologist and the APHIS brucellosis staff must concur in the selection and appointment of the designated epidemiologist.
 
@@ -262,21 +260,35 @@ Accredited veterinarianAdministratorAnimalsAnimal and Plant Health Inspection Se
 
 *Interstate certificate of veterinary inspection (ICVI).* An official document issued by a Federal, State, Tribal, or accredited veterinarian certifying the inspection of animals in preparation for interstate movement.
 
-(1) The ICVI must show the species of animals covered by the ICVI; the number of animals covered by the ICVI; the purpose for which the animals are to be moved; the address at which the animals were loaded for interstate movement; the address to which the animals are destined; and the names of the consignor and the consignee and their addresses if different from the address at which the animals were loaded or the address to which the animals are destined. Additionally, unless the species-specific requirements for ICVIs provide an exception, the ICVI must list the official identification number of each animal, except as provided in paragraph (2) of this definition, or group of animals moved that is required to be officially identified, or, if an alternative form of identification has been agreed upon by the sending and receiving States, the ICVI must include a record of that identification. If animals moving under a GIN also have individual official identification, only the GIN must be listed on the ICVI. An ICVI may not be issued for any animal that is not officially identified if official identification is required. If the animals are not required by the regulations to be officially identified, the ICVI must state the exemption that applies (e.g., the cattle and bison do not belong to one of the classes of cattle and bison to which the official identification requirements of 9 CFR part 86 apply). If the animals are required to be officially identified but the identification number does not have to be recorded on the ICVI, the ICVI must state that all animals to be moved under the ICVI are officially identified.
+(1) The ICVI must show:
 
-(2) As an alternative to typing or writing individual animal identification on an ICVI, if agreed to by the receiving State or Tribe, another document may be used to provide this information, but only under the following conditions:
+(i) The species of animals covered by the ICVI;
 
-(i) The document must be a State form or APHIS form that requires individual identification of animals or a printout of official identification numbers generated by computer or other means;
+(ii) The number of animals covered by the ICVI;
 
-(ii) A legible copy of the document must be stapled to the original and each copy of the ICVI;
+(iii) The purpose for which the animals are to be moved;
 
-(iii) Each copy of the document must identify each animal to be moved with the ICVI, but any information pertaining to other animals, and any unused space on the document for recording animal identification, must be crossed out in ink; and
+(iv) The address at which the animals were loaded for interstate movement;
 
-(iv) The following information must be written in ink in the identification column on the original and each copy of the ICVI and must be circled or boxed, also in ink, so that no additional information can be added:
+(v) The address to which the animals are destined; and
+
+(vi) The names of the consignor and the consignee and their addresses if different from the address at which the animals were loaded or the address to which the animals are destined.
+
+(vii) Additionally, unless the species-specific requirements for ICVIs provide an exception, the ICVI must list the official identification number of each animal, except as provided in paragraph (2) of this definition, or group of animals moved that is required to be officially identified, or, if an alternative form of identification has been agreed upon by the sending and receiving States, the ICVI must include a record of that identification. If animals moving under a GIN also have individual official identification, only the GIN must be listed on the ICVI. An ICVI may not be issued for any animal that is not officially identified, if official identification is required. If the animals are not required by the regulations to be officially identified, the ICVI must state the exemption that applies (*e.g.,* the cattle and bison do not belong to one of the classes of cattle and bison to which the official identification requirements of this part apply). If the animals are required to be officially identified but the identification number does not have to be recorded on the ICVI, the ICVI must state that all animals to be moved under the ICVI are officially identified.
+
+(2) As an alternative to recording individual animal identification on an ICVI, if agreed to by the receiving State or Tribe, another document may be attached to provide this information, but only under the following conditions:
+
+(i) The document must be a Tribal or State form or APHIS form that requires individual identification of animals, or a printout of official identification numbers generated by computer or other means;
+
+(ii) A legible copy of the document must be attached to the original and each copy of the ICVI;
+
+(iii) Each copy of the document must identify each animal to be moved with the ICVI. The document must not contain any information pertaining to other animals; and
+
+(iv) The following information must be included in the identification column on the original and each copy of the ICVI:
 
 (A) The name of the document; and
 
-(B) Either the unique serial number on the document or, if the document is not imprinted with a serial number, both the name of the person who prepared the document and the date the document was signed.
+(B) Either the unique serial number on the document or both the name of the person who prepared the document and the date the document was signed.
 
 *Location-based number system.* The location-based number system combines a State or Tribal issued location identification (LID) number or a premises identification number (PIN) with a producer's unique livestock production numbering system to provide a nationally unique and herd-unique identification number for an animal.
 
@@ -310,7 +322,7 @@ Accredited veterinarianAdministratorAnimalsAnimal and Plant Health Inspection Se
 
 (b) Permanently identified by a tattoo and by an official vaccination eartag in the right ear. However, if already identified with an official eartag prior to vaccination, an additional tag is not required. The tattoo must include the U.S. Registered Shield and “V,” preceded by the quarter of the year and followed by the last digit of the year of vaccination. Individual animal registered breed association registration brands or individual animal registered breed association registration tattoos may be substituted for official eartags.
 
-*Official eartag.* An identification tag approved by APHIS that bears an official identification number for individual animals. Beginning March 11, 2014, all official eartags manufactured must bear an official eartag shield. Beginning March 11, 2015, all official eartags applied to animals must bear an official eartag shield. The design, size, shape, color, and other characteristics of the official eartag will depend on the needs of the users, subject to the approval of the Administrator. The official eartag must be tamper-resistant and have a high retention rate in the animal.
+*Official eartag.* An identification tag approved by APHIS that bears an official identification number for individual animals. The design, size, shape, color, and other characteristics of the official eartag will depend on the needs of the users, subject to the approval of the Administrator. The official eartag must be tamper-resistant and have a high retention rate in the animal.
 
 *Official eartag shield.* The shield-shaped graphic of the U.S. Route Shield with “U.S.” or the State postal abbreviation or Tribal alpha code imprinted within the shield.
 

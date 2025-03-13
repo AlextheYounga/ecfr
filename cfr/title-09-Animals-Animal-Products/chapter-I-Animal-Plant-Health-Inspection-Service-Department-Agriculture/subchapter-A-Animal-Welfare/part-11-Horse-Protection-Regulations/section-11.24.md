@@ -1,6 +1,6 @@
 ##### § 11.24 Reporting by management. #####
 
-(a) Within 5 days following the conclusion of any horse show, horse exhibition, or horse sale or auction, containing Tennessee Walking Horses or racking horses, the managements of such show, exhibition, sale or auction shall submit to the Regional Director1 for the State in which the show, exhibition, sale or auction was held, the information required by § 11.22(a)(1) through (6) for each horse excused or disqualified by management or its representatives from being shown, exhibited, sold or auctioned, and the reasons for such action. If no horses are excused or disqualified, the management shall submit a report so stating.
+(a) Within 5 days following the conclusion of any horse show, horse exhibition, or horse sale or auction, containing Tennessee Walking Horses or racking horses, the managements of such show, exhibition, sale or auction shall submit to the Regional Director 1 for the State in which the show, exhibition, sale or auction was held, the information required by § 11.22(a)(1) through (6) for each horse excused or disqualified by management or its representatives from being shown, exhibited, sold or auctioned, and the reasons for such action. If no horses are excused or disqualified, the management shall submit a report so stating.
 
 1 See footnote 1 to § 11.1.
 

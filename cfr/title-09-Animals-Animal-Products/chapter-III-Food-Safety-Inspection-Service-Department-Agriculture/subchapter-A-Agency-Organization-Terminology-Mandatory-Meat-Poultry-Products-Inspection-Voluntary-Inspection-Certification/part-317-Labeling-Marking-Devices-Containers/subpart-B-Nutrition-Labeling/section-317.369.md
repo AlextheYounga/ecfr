@@ -42,7 +42,7 @@ Attached hereto, in quadruplicate, or on a computer disc copy, and constituting 
 
 (iv) A detailed analysis of the potential effect of the use of the proposed claim on food consumption, and any corresponding changes in nutrient intake. The analysis shall specifically address the intake of nutrients that have beneficial and negative consequences in the total diet. If the claim is intended for a specific group within the population, the analysis shall specifically address the dietary practices of such group, and shall include data sufficient to demonstrate that the dietary analysis is representative of such group.
 
- Yours very truly, Applicant By (Indicate authority)
+ Yours very truly, Applicant  By  (Indicate authority)
 
 (2) Upon receipt of the labeling application and supporting documentation, the applicant shall be notified, in writing, of the date on which the labeling application was received. Such notice shall inform the applicant that the labeling application is undergoing Agency review and that the applicant shall subsequently be notified of the Agency's decision to consider for further review or deny the labeling application.
 
@@ -76,7 +76,7 @@ Attached hereto, in quadruplicate, or on a computer disc copy, and constituting 
 
 (ii) A detailed explanation supported by any necessary data of why use of the proposed term is requested, including whether the existing defined term is inadequate for the purpose of effectively characterizing the level of a nutrient. This explanation shall also state what nutritional benefit to the public will derive from use of the claim as proposed, and why such benefit is not available through the use of existing terms defined by regulation. If the claim is intended for a specific group within the population, the analysis shall specifically address nutritional needs of such group, scientific data sufficient for such purpose, and data and information to the extent necessary to demonstrate that consumers can be expected to understand the meaning of the term under the proposed conditions of use.
 
- Yours very truly, Applicant By (Indicate authority)
+ Yours very truly,  Applicant  By  (Indicate authority)
 
 (2) Upon receipt of the labeling application and supporting documentation, the applicant shall be notified, in writing, of the date on which the labeling application was received. Such notice shall inform the applicant that the labeling application is undergoing Agency review and that the applicant shall subsequently be notified of the Agency's decision to consider for further review or deny the labeling application.
 

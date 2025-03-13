@@ -18,7 +18,7 @@
 
 (7) *Veterinary medical officer.* An inspector of the Program that has obtained a Doctor of Veterinary Medicine degree which is recognized by the Program.
 
-(c) *Selection of carcasses for testing.* The inspector shall perform a swab bioassay test1 on:
+(c) *Selection of carcasses for testing.* The inspector shall perform a swab bioassay test 1 on:
 
 1 The procedures for performing the swab bioassay test are set forth in one of two self-instructional guides: “Performing the CAST” or “Fast Antimicrobial Screen Test.” These guides are available for review in the office of the FSIS Docket Clerk, Room 4352 South, Food Safety and Inspection Service, U.S. Department of Agriculture, Washington, DC 20250.
 

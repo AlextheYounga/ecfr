@@ -48,7 +48,7 @@
 
 (ii) For cooked meat that is further processed in accordance with paragraph (b)(6) of this section, the certificate must include the following statement, in addition to the certification required under paragraph (b)(9)(i) of this section: “No more than two tubes were randomly selected per batch per cooker for cutting an indicator piece or obtaining a piece containing a TID. The indicator piece or piece containing a TID represents a shipment of (describe form of processed product—e.g., diced cubes of a particular size). A piece containing a TID or a piece 3.8 cm (1.5 in) or larger in each dimension was cut from the cold spot of the tube, and was sealed and marked with the following cooking date, cooker, and batch: \_\_\_\_\_\_\_\_\_\_ and the following date of selection of the tube\_\_\_\_\_\_\_\_\_\_. The total number of indicator pieces or pieces containing TID's enclosed in a sealed box is\_\_\_\_\_\_\_\_\_\_.”
 
-(10) The meat is inspected by an FSIS inspector at a port of arrival in a defrost facility approved by the Administrator2 and the meat is found to be thoroughly cooked.
+(10) The meat is inspected by an FSIS inspector at a port of arrival in a defrost facility approved by the Administrator 2 and the meat is found to be thoroughly cooked.
 
 2 The names and addresses of approved defrost facilities and conditions for approval may be obtained from the Administrator, Animal and Plant Health Inspection Service, United States Department of Agriculture, Washington, DC 20250.
 
@@ -58,7 +58,7 @@
 
 (B) The defrost facility is located at a port of arrival; and
 
-(C) The defrost facility is approved by the Food Safety and Inspection Service, United States Department of Agriculture.3
+(C) The defrost facility is approved by the Food Safety and Inspection Service, United States Department of Agriculture. 3
 
 3 Conditions for the approval of any defrost facility by the Food Safety and Inspection Service, United States Department of Agriculture, may be obtained from the Import Inspection Division, International Programs, Food Safety and Inspection Service, United States Department of Agriculture, Washington, DC 20250.
 

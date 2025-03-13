@@ -1,12 +1,10 @@
 ##### § 86.1 Definitions. #####
 
-Link to an amendment published at 89 FR 39564, May 9, 2024.
-
 *Animal identification number (AIN).* A numbering system for the official identification of individual animals in the United States that provides a nationally unique identification number for each animal. The AIN consists of 15 digits, with the first 3 being the country code (840 for the United States or a unique country code for any U.S. territory that has such a code and elects to use it in place of the 840 code). The alpha characters USA or the numeric code assigned to the manufacturer of the identification device by the International Committee on Animal Recording may be used as an alternative to the 840 or other prefix representing a U.S. territory; however, only the AIN beginning with the 840 or other prefix representing a U.S. territory will be recognized as official for use on AIN tags applied to animals on or after March 11, 2015. The AIN beginning with the 840 prefix may not be applied to animals known to have been born outside the United States.
 
 *Approved livestock facility.* A stockyard, livestock market, buying station, concentration point, or any other premises under State or Federal veterinary inspection where livestock are assembled and that has been approved under § 71.20 of this chapter.
 
-*Approved tagging site.* A premises, authorized by APHIS, State, or Tribal animal health officials, where livestock may be officially identified on behalf of their owner or the person in possession, care, or control of the animals when they are brought to the premises.
+*Approved tagging site.* A premises, authorized by APHIS, State, or Tribal animal health officials, where livestock without official identification may be transferred to have official identification applied on behalf of their owner or the person in possession, care, or control of the animals when they are brought to the premises.
 
 *Commuter herd.* A herd of cattle or bison moved interstate during the course of normal livestock management operations and without change of ownership directly between two premises, as provided in a commuter herd agreement.
 
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 39564, May 9, 2024.
 
 *Covered livestock.* Cattle and bison, horses and other equine species, poultry, sheep and goats, swine, and captive cervids.
 
-*Dairy cattle.* All cattle, regardless of age or sex or current use, that are of a breed(s) used to produce milk or other dairy products for human consumption, including, but not limited to, Ayrshire, Brown Swiss, Holstein, Jersey, Guernsey, Milking Shorthorn, and Red and Whites.
+*Dairy cattle.* All cattle, regardless of age or sex or current use, that are of a breed(s) or offspring of a breed used to produce milk or other dairy products for human consumption, including, but not limited to, Ayrshire, Brown Swiss, Holstein, Jersey, Guernsey, Milking Shorthorn, and Red and Whites.
 
 *Directly.* Moved in a means of conveyance, without stopping to unload while en route, except for stops of less than 24 hours to feed, water, or rest the animals being moved, and with no commingling of animals at such stops.
 
@@ -24,23 +22,37 @@ Link to an amendment published at 89 FR 39564, May 9, 2024.
 
 *Group/lot identification number (GIN).* The identification number used to uniquely identify a “unit of animals” of the same species that is managed together as one group throughout the preharvest production chain. When a GIN is used, it is recorded on documents accompanying the animals moving interstate; it is not necessary to have the GIN attached to each animal.
 
-*Interstate certificate of veterinary inspection (ICVI).* An official document issued by a Federal, State, Tribal, or accredited veterinarian certifying the inspection of animals in preparation for interstate movement.
+*Interstate certificate of veterinary inspection (ICVI).* An official document issued by a Federal, State, or Tribal government, or an accredited veterinarian, certifying the inspection of animals in preparation for interstate movement.
 
-(a) The ICVI must show the species of animals covered by the ICVI; the number of animals covered by the ICVI; the purpose for which the animals are to be moved; the address at which the animals were loaded for interstate movement; the address to which the animals are destined; and the names of the consignor and the consignee and their addresses if different from the address at which the animals were loaded or the address to which the animals are destined. Additionally, unless the species-specific requirements for ICVIs provide an exception, the ICVI must list the official identification number of each animal, except as provided in paragraph (b) of this definition, or group of animals moved that is required to be officially identified, or, if an alternative form of identification has been agreed upon by the sending and receiving States, the ICVI must include a record of that identification. If animals moving under a GIN also have individual official identification, only the GIN must be listed on the ICVI. An ICVI may not be issued for any animal that is not officially identified if official identification is required. If the animals are not required by the regulations to be officially identified, the ICVI must state the exemption that applies (e.g., the cattle and bison do not belong to one of the classes of cattle and bison to which the official identification requirements of this part apply). If the animals are required to be officially identified but the identification number does not have to be recorded on the ICVI, the ICVI must state that all animals to be moved under the ICVI are officially identified.
+(1) The ICVI must show:
 
-(b) As an alternative to typing or writing individual animal identification on an ICVI, if agreed to by the receiving State or Tribe, another document may be used to provide this information, but only under the following conditions:
+(i) The species of animals covered by the ICVI;
 
-(1) The document must be a State form or APHIS form that requires individual identification of animals or a printout of official identification numbers generated by computer or other means;
+(ii) The number of animals covered by the ICVI;
 
-(2) A legible copy of the document must be stapled to the original and each copy of the ICVI;
+(iii) The purpose for which the animals are to be moved;
 
-(3) Each copy of the document must identify each animal to be moved with the ICVI, but any information pertaining to other animals, and any unused space on the document for recording animal identification, must be crossed out in ink; and
+(iv) The address at which the animals were loaded for interstate movement;
 
-(4) The following information must be written in ink in the identification column on the original and each copy of the ICVI and must be circled or boxed, also in ink, so that no additional information can be added:
+(v) The address to which the animals are destined; and
 
-(i) The name of the document; and
+(vi) The names of the consignor and the consignee and their addresses if different from the address at which the animals were loaded or the address to which the animals are destined.
 
-(ii) Either the unique serial number on the document or, if the document is not imprinted with a serial number, both the name of the person who prepared the document and the date the document was signed.
+(vii) Additionally, unless the species-specific requirements for ICVIs provide an exception, the ICVI must list the official identification number of each animal, except as provided in paragraph (2) of this definition, or group of animals moved that is required to be officially identified, or, if an alternative form of identification has been agreed upon by the sending and receiving States, the ICVI must include a record of that identification. If animals moving under a GIN also have individual official identification, only the GIN must be listed on the ICVI. An ICVI may not be issued for any animal that is not officially identified if official identification is required. If the animals are not required by the regulations to be officially identified, the ICVI must state the exemption that applies (*e.g.,* the cattle and bison do not belong to one of the classes of cattle and bison to which the official identification requirements of this part apply). If the animals are required to be officially identified but the identification number does not have to be recorded on the ICVI, the ICVI must state that all animals to be moved under the ICVI are officially identified.
+
+(2) As an alternative to recording individual animal identification on an ICVI, if agreed to by the receiving State or Tribe, another document may be attached to provide this information, but only under the following conditions:
+
+(i) The document must be a State form or APHIS form that requires individual identification of animals, or a printout of official identification numbers generated by computer or other means;
+
+(ii) A legible copy of the document must be attached to the original and each copy of the ICVI;
+
+(iii) Each copy of the document must identify each animal to be moved with the ICVI. The document must not contain any information pertaining to other animals; and
+
+(iv) The following information must be included in the identification column on the original and each copy of the ICVI:
+
+(A) The name of the document; and
+
+(B) Either the unique serial number on the document or both the name of the person who prepared the document and the date the document was signed.
 
 *Interstate movement.* From one State into or through any other State.
 
@@ -54,7 +66,9 @@ Link to an amendment published at 89 FR 39564, May 9, 2024.
 
 *National Uniform Eartagging System (NUES).* A numbering system for the official identification of individual animals in the United States that provides a nationally unique identification number for each animal.
 
-*Official eartag.* An identification tag approved by APHIS that bears an official identification number for individual animals. Beginning March 11, 2014, all official eartags manufactured must bear an official eartag shield. Beginning March 11, 2015, all official eartags applied to animals must bear an official eartag shield. The design, size, shape, color, and other characteristics of the official eartag will depend on the needs of the users, subject to the approval of the Administrator. The official eartag must be tamper-resistant and have a high retention rate in the animal.
+*Official Animal Identification Device Standards (OAIDS).* A document providing further information regarding the official identification device recordkeeping requirements of this part, and technical descriptions, specifications, and details under which APHIS would approve identification devices for official use. Updates or modifications to the Standards document will be announced to the public by means of a notice published in the Federal Register.
+
+*Official eartag.* An identification tag approved by APHIS that bears an official identification number for individual animals. The design, size, shape, color, and other characteristics of the official eartag will depend on the needs of the users, subject to the approval of the Administrator. The official eartag must be tamper-resistant and have a high retention rate in the animal.
 
 *Official eartag shield.* The shield-shaped graphic of the U.S. Route Shield with “U.S.” or the State postal abbreviation or Tribal alpha code imprinted within the shield.
 
@@ -85,3 +99,5 @@ Link to an amendment published at 89 FR 39564, May 9, 2024.
 (21 U.S.C. 451 *et seq.*), or State meat or poultry inspection acts that is approved in accordance with 9 CFR 71.21.
 
 *United States Department of Agriculture (USDA) approved backtag.* A backtag issued by APHIS that provides a temporary unique identification for each animal.
+
+(Approved by the Office of Management and Budget under control number 0579-0327)[78 FR 2071, Jan. 9, 2013, as amended at 89 FR 39564, May 9, 2024]

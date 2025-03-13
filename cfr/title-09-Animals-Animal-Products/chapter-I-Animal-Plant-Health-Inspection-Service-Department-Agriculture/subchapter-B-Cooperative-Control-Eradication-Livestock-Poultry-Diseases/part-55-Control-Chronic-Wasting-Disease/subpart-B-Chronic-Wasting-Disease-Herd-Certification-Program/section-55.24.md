@@ -18,7 +18,7 @@
 
 (2) [Reserved]
 
-(d) *Herd status of animals added to herds.* A herd may add animals from herds with the same or a higher herd status in the CWD Herd Certification Program with no negative impact on the certification status of the receiving herd.5 If animals are acquired from a herd with a lower herd status, the receiving herd reverts to the program status of the sending herd. If a herd participating in the CWD Herd Certification Program acquires animals from a nonparticipating herd, the receiving herd reverts to First Year status with a new enrollment date of the date of acquisition of the animal.
+(d) *Herd status of animals added to herds.* A herd may add animals from herds with the same or a higher herd status in the CWD Herd Certification Program with no negative impact on the certification status of the receiving herd. 5 If animals are acquired from a herd with a lower herd status, the receiving herd reverts to the program status of the sending herd. If a herd participating in the CWD Herd Certification Program acquires animals from a nonparticipating herd, the receiving herd reverts to First Year status with a new enrollment date of the date of acquisition of the animal.
 
 5 Note that in addition to this requirement, § 81.3 of this chapter restricts the interstate movement of farmed and captive deer, elk, and moose based on their status in the CWD Herd Certification Program.
 

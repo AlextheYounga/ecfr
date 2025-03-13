@@ -32,4 +32,4 @@ Each of the following States has been designated, under paragraph 301(c) of the 
 |Virgin Islands of the U.S|                  Nov. 27, 1971.                   |
 |       Washington        |                   June 1, 1973.                   |
 
-[35 FR 19667, Dec. 29, 1970]Editorial Note:For Federal Register citations affecting § 331.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[35 FR 19667, Dec. 29, 1970] Editorial Note:For Federal Register citations affecting § 331.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

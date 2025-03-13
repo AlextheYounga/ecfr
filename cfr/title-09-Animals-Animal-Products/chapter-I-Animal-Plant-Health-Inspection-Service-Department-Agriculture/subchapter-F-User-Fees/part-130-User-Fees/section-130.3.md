@@ -44,7 +44,7 @@
 
 (2) If the importer requests additional services, then APHIS will calculate the user fees for those services at the hourly rate user fee found online at *www.aphis.usda.gov/business-services/vs-fees* for each employee required to perform the service.
 
-(f) *User fees for endorsing export certificates.* (1) User fees for the endorsement of export health certificates that require the verification of tests or vaccinations are found online at *www.aphis.usda.gov/business-services/vs-fees.* APHIS will calculate the user fees to apply to each export health certificate endorsed1 for animals and birds based on the number of animals or birds covered by the certificate and the number of tests or vaccinations required. However, there will be a maximum user fee of 12 times the hourly rate user fee.
+(f) *User fees for endorsing export certificates.* (1) User fees for the endorsement of export health certificates that require the verification of tests or vaccinations are found online at *www.aphis.usda.gov/business-services/vs-fees.* APHIS will calculate the user fees to apply to each export health certificate endorsed 1 for animals and birds based on the number of animals or birds covered by the certificate and the number of tests or vaccinations required. However, there will be a maximum user fee of 12 times the hourly rate user fee.
 
 1 An export health certificate may need to be endorsed for an animal being exported from the United States if the country to which the animal is being shipped requires one. APHIS endorses export heath certificates as a service.
 

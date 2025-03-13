@@ -22,7 +22,7 @@
 
 (1) If there is a difference in performance characteristics that materially limits the use of the product, the product may still be considered a substitute if the label includes a disclaimer adjacent to the most prominent claim as defined in paragraph (j)(2)(iii) of this section, informing the consumer of such difference (e.g., “not recommended for frying”).
 
-(2) This disclaimer shall be in easily legible print or type and in a size no less than that required by § 317.2(h) for the net quantity of contents statement, except where the size of the claim is less than two times the required size of the net quantity of contents statement, in which case the disclaimer statement shall be no less than one-half the size of the claim but no smaller than1/16-inch minimum height, except as permitted by § 317.400(d)(2).
+(2) This disclaimer shall be in easily legible print or type and in a size no less than that required by § 317.2(h) for the net quantity of contents statement, except where the size of the claim is less than two times the required size of the net quantity of contents statement, in which case the disclaimer statement shall be no less than one-half the size of the claim but no smaller than 1/16-inch minimum height, except as permitted by § 317.400(d)(2).
 
 (e)(1) Because the use of a “free” or “low” claim before the name of a product implies that the product differs from other products of the same type by virtue of its having a lower amount of the nutrient, only products that have been specially processed, altered, formulated, or reformulated so as to lower the amount of the nutrient in the product, remove the nutrient from the product, or not include the nutrient in the product, may bear such a claim (e.g., “low sodium beef noodle soup”).
 
@@ -30,7 +30,7 @@
 
 (f) A nutrient content claim shall be in type size and style no larger than two times that of the statement of identity and shall not be unduly prominent in type style compared to the statement of identity.
 
-(g) Labeling information required in §§ 317.313, 317.354, 317.356, 317.360, 317.361, 317.362, and 317.380, whose type size is not otherwise specified, is required to be in letters and/or numbers no less than1/16 inch in height, except as permitted by § 317.400(d)(2).
+(g) Labeling information required in §§ 317.313, 317.354, 317.356, 317.360, 317.361, 317.362, and 317.380, whose type size is not otherwise specified, is required to be in letters and/or numbers no less than 1/16 inch in height, except as permitted by § 317.400(d)(2).
 
 (h) [Reserved]
 
@@ -38,7 +38,7 @@
 
 (1) The use of the statement on the product implicitly characterizes the level of the nutrient in the product and is consistent with a definition for a claim, as provided in subpart B of this part, for the nutrient that the label addresses. Such a claim might be, “less than 10 g of fat per serving;”
 
-(2) The use of the statement on the product implicitly characterizes the level of the nutrient in the product and is not consistent with such a definition, but the label carries a disclaimer adjacent to the statement that the product is not “low” in or a “good source” of the nutrient, such as “only 200 milligrams (mg) sodium per serving, not a low sodium product.” The disclaimer must be in easily legible print or type and in a size no less than required by § 317.2(h) for the net quantity of contents, except where the size of the claim is less than two times the required size of the net quantity of contents statement, in which case the disclaimer statement shall be no less than one-half the size of the claim but no smaller than1/16-inch minimum height, except as permitted by § 317.400(d)(2);
+(2) The use of the statement on the product implicitly characterizes the level of the nutrient in the product and is not consistent with such a definition, but the label carries a disclaimer adjacent to the statement that the product is not “low” in or a “good source” of the nutrient, such as “only 200 milligrams (mg) sodium per serving, not a low sodium product.” The disclaimer must be in easily legible print or type and in a size no less than required by § 317.2(h) for the net quantity of contents, except where the size of the claim is less than two times the required size of the net quantity of contents statement, in which case the disclaimer statement shall be no less than one-half the size of the claim but no smaller than 1/16-inch minimum height, except as permitted by § 317.400(d)(2);
 
 (3) The statement does not in any way implicitly characterize the level of the nutrient in the product and it is not false or misleading in any respect (e.g., “100 calories” or “5 grams of fat”), in which case no disclaimer is required.
 
@@ -60,7 +60,7 @@
 
 (i) The label or labeling must state the identity of the reference product and the percent (or fraction) of the amount of the nutrient in the reference product by which the nutrient has been modified, (e.g., “50 percent less fat than ‘reference product’ ” or “1/3 fewer calories than ‘reference product’ ”); and
 
-(ii) This information shall be immediately adjacent to the most prominent claim in easily legible boldface print or type, in distinct contrast to other printed or graphic matter, that is no less than that required by § 317.2(h) for net quantity of contents, except where the size of the claim is less than two times the required size of the net quantity of contents statement, in which case the referral statement shall be no less than one-half the size of the claim, but no smaller than1/16-inch minimum height, except as permitted by § 317.400(d)(2).
+(ii) This information shall be immediately adjacent to the most prominent claim in easily legible boldface print or type, in distinct contrast to other printed or graphic matter, that is no less than that required by § 317.2(h) for net quantity of contents, except where the size of the claim is less than two times the required size of the net quantity of contents statement, in which case the referral statement shall be no less than one-half the size of the claim, but no smaller than 1/16-inch minimum height, except as permitted by § 317.400(d)(2).
 
 (iii) The determination of which use of the claim is in the most prominent location on the label or labeling will be made based on the following factors, considered in order:
 
@@ -128,7 +128,7 @@
 
 (p)(1) Unless otherwise specified, the reference amount customarily consumed set forth in § 317.312(b) through (e) shall be used in determining whether a product meets the criteria for a nutrient content claim. If the serving size declared on the product label differs from the reference amount customarily consumed, and the amount of the nutrient contained in the labeled serving does not meet the maximum or minimum amount criterion in the definition for the descriptor for that nutrient, the claim shall be followed by the criteria for the claim as required by § 317.312(f) (e.g., “very low sodium, 35 mg or less per 55 grams”).
 
-(2) The criteria for the claim shall be immediately adjacent to the most prominent claim in easily legible print or type and in a size that is no less than that required by § 317.2(h) for net quantity of contents, except where the size of the claim is less than two times the required size of the net quantity of contents statement, in which case the criteria statement shall be no less than one-half the size of the claim but no smaller than1/16-inch minimum height, except as permitted by § 317.400(d)(2).
+(2) The criteria for the claim shall be immediately adjacent to the most prominent claim in easily legible print or type and in a size that is no less than that required by § 317.2(h) for net quantity of contents, except where the size of the claim is less than two times the required size of the net quantity of contents statement, in which case the criteria statement shall be no less than one-half the size of the claim but no smaller than 1/16-inch minimum height, except as permitted by § 317.400(d)(2).
 
 (q) The following exemptions apply:
 

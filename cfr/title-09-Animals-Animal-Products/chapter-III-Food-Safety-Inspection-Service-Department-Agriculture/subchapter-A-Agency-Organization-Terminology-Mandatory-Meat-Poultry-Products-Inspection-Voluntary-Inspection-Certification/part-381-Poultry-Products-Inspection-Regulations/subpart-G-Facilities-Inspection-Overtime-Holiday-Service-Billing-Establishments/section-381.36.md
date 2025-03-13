@@ -14,7 +14,7 @@
 
 (iii) Selectors or “kickouts” shall be installed in establishments with two inspection stations on a line so each inspector will receive birds on 12-inch centers with no intervening birds to impede inspection. The selector must move the bird to the edge of the trough for the inspector and establishment helper. The selectors must be smooth, steady, and consistent in moving the birds parallel and through the inspection station. Birds shall be selected and released smoothly to avoid swinging when entering the inspection station.
 
-(iv) Each inspector's station shall have a platform that is slip-resistant and can be safely accessed by the inspector. The platform shall be designed so that it can be easily and rapidly adjusted for a minimum of 14 inches vertically while standing on the platform. The platform shall be a minimum length of 4 feet and have a minimum width of 2 feet; the platform shall be designed with a 42-inch high rail on the back side and with1/2-inch foot bumpers on both sides and front to allow safe working conditions. The platform must have a safe lift mechanism and be large enough for the inspector to sit on a stool and to change stations during breaks or station rotation.
+(iv) Each inspector's station shall have a platform that is slip-resistant and can be safely accessed by the inspector. The platform shall be designed so that it can be easily and rapidly adjusted for a minimum of 14 inches vertically while standing on the platform. The platform shall be a minimum length of 4 feet and have a minimum width of 2 feet; the platform shall be designed with a 42-inch high rail on the back side and with 1/2-inch foot bumpers on both sides and front to allow safe working conditions. The platform must have a safe lift mechanism and be large enough for the inspector to sit on a stool and to change stations during breaks or station rotation.
 
 (v) Conveyor line stop/start switches shall be located within easy reach of each inspector.
 
@@ -54,7 +54,7 @@
 
 (iii) Selectors or “kickouts” shall be installed so the three inspection stations will receive birds on 18-inch centers with no intervening birds to impede inspection. The selector must move the bird to the end of the trough for the presenter, inspector, and establishment helper. The selectors must be smooth, steady, and consistent in moving the birds parallel and through the inspection station. Birds shall be selected and released smoothly to avoid splashing the mirror (paragraph (d)(1)(vii) of this section) and swinging when entering the inspection station. Guide bars shall not extend in front of the inspection station mirror to avoid obstructing the inspector's view.
 
-(iv) Each inspector's station shall have an easily and rapidly adjustable platform, with a minimum of 14 inches of vertical adjustment, which covers the entire length of the station (4 feet) and has a minimum width of 2 feet. The platform shall be designed with a 42-inch high rail on the back side and with1/2-inch foot bumpers on both sides and front to allow safe working conditions.
+(iv) Each inspector's station shall have an easily and rapidly adjustable platform, with a minimum of 14 inches of vertical adjustment, which covers the entire length of the station (4 feet) and has a minimum width of 2 feet. The platform shall be designed with a 42-inch high rail on the back side and with 1/2-inch foot bumpers on both sides and front to allow safe working conditions.
 
 (v) Conveyor line stop/start switches shall be located within easy reach of each inspector.
 
@@ -62,7 +62,7 @@
 
 (vii) A distortion-free mirror, at least 3 feet wide and 2 feet high, shall be mounted at each inspection station so that it can be adjusted between 5 and 15 inches behind the shackles, tilt up and down, tilt from side to side, and be raised and lowered. The mirror shall be positioned in relation to the inspection platform so that the inspector can position himself/herself opposite it 8 to 12 inches from the downstream edge. The mirror must be maintained abrasion free.
 
-(viii) A minimum of 200-footcandles of shadow-free lighting with minimum color rendering index value of 851 where the birds are inspected to facilitate inspection. A light shall also be positioned above and slightly in front of the mirror to facilitate the illumination of the bird and mirror surfaces.
+(viii) A minimum of 200-footcandles of shadow-free lighting with minimum color rendering index value of 85 1 where the birds are inspected to facilitate inspection. A light shall also be positioned above and slightly in front of the mirror to facilitate the illumination of the bird and mirror surfaces.
 
 1 This requirement may be met by deluxe cool white type of fluorescent lighting.
 
@@ -80,7 +80,7 @@
 
 (iii) A table, at least 3 feet wide and 2 feet deep, shall be provided for reinspecting the sample birds.
 
-(iv) A minimum of 200-footcandles of shows free lighting with a minimum color rendering index of 851 on the table surface.
+(iv) A minimum of 200-footcandles of shows free lighting with a minimum color rendering index of 85 1 on the table surface.
 
 (v) A separate clip board holder shall be provided for holding the recording sheets.
 
@@ -96,13 +96,13 @@
 
 (ii) Floor space shall consist of 8 feet along the conveyor line; at least 4 feet for the inspector, and at least 4 feet for the establishment helper.
 
-(iii) The inspector's station shall have an easily and rapidly adjustable platform with a minimum width of 2 feet which covers the entire length of the station (4 feet). The platform must adjust vertically a minimum of 14 inches, and must have a 42-inch rail on the back side and1/2-inch foot bumpers on the sides and the front to allow safe working conditions.
+(iii) The inspector's station shall have an easily and rapidly adjustable platform with a minimum width of 2 feet which covers the entire length of the station (4 feet). The platform must adjust vertically a minimum of 14 inches, and must have a 42-inch rail on the back side and 1/2-inch foot bumpers on the sides and the front to allow safe working conditions.
 
 (iv) Conveyor line stop/start switches shall be located within easy reach of each inspector.
 
 (v) A trough or other facilities shall extend beneath the conveyor at all places where processing operations are conducted from the point where the carcass is opened to the point where the trimming has been performed. The trough must be wide enough to prevent trimmings, drippage, and debris from accumulation on the floor or platforms. The clearance between suspended carcasses and the trough must be sufficient to prevent contamination of carcasses by splash.
 
-(vi) A minimum of 200 foot-candles of shadow-free lighting with a minimum color rendering index value of 851 where the birds are inspected to facilitate inspection is required. The minimum lighting requirement for inspection stations in § 381.52(b) shall not apply.
+(vi) A minimum of 200 foot-candles of shadow-free lighting with a minimum color rendering index value of 85 1 where the birds are inspected to facilitate inspection is required. The minimum lighting requirement for inspection stations in § 381.52(b) shall not apply.
 
 1 This requirement may be met by deluxe cool white fluorescent lighting.
 
@@ -120,7 +120,7 @@
 
 (iii) A table at least 3 feet wide and 2 feet deep designed to be readily cleanable and drainable shall be provided for reinspecting the sampled birds.
 
-(iv) A minimum of 200 foot-candles of shadow-free lighting with a minimum color rendering index of 851 at the table surface is required.
+(iv) A minimum of 200 foot-candles of shadow-free lighting with a minimum color rendering index of 85 1 at the table surface is required.
 
 (v) A clipboard holder shall be provided for holding the recording sheets.
 
@@ -136,7 +136,7 @@
 
 (ii) The conveyor line must be level for the entire length of the online carcass inspection station. The vertical distance from the bottom of the shackles to the top of the platform (paragraph (f)(1)(iii) of this section) must not be less than 60 inches.
 
-(iii) Each online carcass inspection station must have a platform that is slip-resistant and can be safely accessed by the inspector. The platform must be designed so that it can be easily and rapidly adjusted for a minimum of 14 inches vertically while standing on the platform. The platform must be a minimum length of 4 feet and have a minimum width of 2 feet. The platform must be designed with a 42-inch high rail on the back side and with1/2-inch foot bumpers on both sides and front to allow safe working conditions. The platform must have a safe lift mechanism and be large enough for the inspector to sit on a stool and to change stations during breaks or station rotation.
+(iii) Each online carcass inspection station must have a platform that is slip-resistant and can be safely accessed by the inspector. The platform must be designed so that it can be easily and rapidly adjusted for a minimum of 14 inches vertically while standing on the platform. The platform must be a minimum length of 4 feet and have a minimum width of 2 feet. The platform must be designed with a 42-inch high rail on the back side and with 1/2-inch foot bumpers on both sides and front to allow safe working conditions. The platform must have a safe lift mechanism and be large enough for the inspector to sit on a stool and to change stations during breaks or station rotation.
 
 (iv) Conveyor line stop/start switches must be located within easy reach of the online carcass inspector.
 

@@ -1,7 +1,5 @@
 ##### § 2.4 Definitions. #####
 
-Link to an amendment published at 89 FR 67832, Aug. 22, 2024.
-
 As used in this part,
 
 *ACRS* means the Advisory Committee on Reactor Safeguards established by the Act.
@@ -40,13 +38,11 @@ As used in this part,
 
 *Department* means the Department of Energy established by the Department of Energy Organization Act (Pub. L. 95-91, 91 Stat. 565 42 U.S.C. 7101 *et seq.*) to the extent that the Department, or its duly authorized representatives, exercises functions formerly vested in the U.S. Atomic Energy Commission, its Chairman, members, officers and components and transferred to the U.S. Energy Research and Development Administration and to the Administrator thereof pursuant to sections 104 (b), (c) and (d) of the Energy Reorganization Act of 1974 (Pub. L. 93-438, 88 Stat. 1233 at 1237, 42 U.S.C. 5814) and retransferred to the Secretary of Energy pursuant to section 301(a) of the Department of Energy Organization Act (Pub. L. 95-91, 91 Stat. 565 at 577-578, 42 U.S.C. 7151).
 
-*Digital ID certificate* means a file stored on a participant's computer that contains the participant's name, e-mail address, and participant's digital signature, proves the participant's identity when filing documents and serving participants electronically through the E-Filing system, and contains public keys, which allow for the encryption and decryption of documents so that the documents can be securely transferred over the Internet.
-
 *Electric utility* means any entity that generates or distributes electricity and which recovers the costs of this electricity, either directly or indirectly through rates established by the entity itself or by a separate regulatory authority. Investor-owned utilities including generation or distribution subsidiaries, public utility districts, municipalities, rural electric cooperatives, and State and Federal agencies, including associations of any of the foregoing, are included within the meaning of “electric utility.”
 
 *Electronic acknowledgment* means a communication transmitted electronically from the E-Filing system to the submitter confirming receipt of electronic filing and service.
 
-*Electronic Hearing Docket* means the publicly available Web site which houses a visual presentation of the docket and a link to its files.
+*Electronic Hearing Docket* means the publicly available NRC information system that receives, stores, and provides online access via the NRC website to all publicly filed documents in NRC adjudications and to non-publicly filed documents for authorized participants pursuant to a protective order and that is available for use during a hearing to the extent circumstances, including the availability of internet access, permit.
 
 *E-Filing System* means an electronic system that receives, stores, and distributes documents filed in proceedings for which an electronic hearing docket has been established.
 
@@ -55,6 +51,8 @@ As used in this part,
 *Facility* means a production facility or a utilization facility as defined in § 50.2 of this chapter.
 
 *Guidance for Electronic Submissions to the NRC* means the document issued by the Commission that sets forth the transmission methods and formatting standards for filing and service under E-Filing. The document can be obtained by visiting the NRC's Web site at *http://www.nrc.gov.*
+
+*Identification and authentication* means the use of the NRC's electronic credentialing program to validate a participant's identity.
 
 *Investigative or litigating function* means—
 
@@ -74,8 +72,6 @@ As used in this part,
 
 (3) Members of advisory boards, committees, and panels of the NRC; members of boards designated by the Commission to preside at adjudicatory proceedings; and officers or employees of Government agencies, including military personnel, assigned to duty at the NRC.
 
-*NRC Public Document Room* means the facility at One White Flint North, 11555 Rockville Pike (first floor), Rockville, Maryland, where certain public records of the NRC that were made available for public inspection in paper or microfiche prior to the implementation of the NRC Agencywide Documents Access and Management System, commonly referred to as ADAMS, will remain available for public inspection. It is also the place where NRC makes computer terminals available to access the Publicly Available Records System (PARS) component of ADAMS on the NRC Web site, *http://www.nrc.gov,* and where copies of publicly available documents can be viewed or ordered for a fee as set forth in § 9.35 of this chapter. The facility is staffed with reference librarians to assist the public in identifying and locating documents and in using the NRC Web site and ADAMS. The NRC Public Document Room is open from 7:45 am to 4:15 pm, Monday through Friday, except on Federal holidays. Reference service and access to documents may also be requested by telephone (301-415-4737 or 800-397-4209) between 8:30 am and 4:15 pm, or by e-mail (*PDR@nrc.gov*), facsimile (301-415-3548), or letter (NRC Public Document Room, One White Flint North, 11555 Rockville Pike (first floor), Rockville, Maryland 20852-2738).
-
 *NRC records and documents* means any book, paper, map, photograph, brochure, punch card, magnetic tape, paper tape, sound recording, pamphlet, slide, motion picture, or other documentary material regardless of form or characteristics, made by, in the possession of, or under the control of the NRC pursuant to Federal law or in connection with the transaction of public business as evidence of NRC organization, functions, policies, decisions, procedures, operations, programs or other activities. “NRC records and documents” do not include objects or articles such as structures, furniture, tangible exhibits or models, or vehicles and equipment.
 
 NRC Web site, *http://www.nrc.gov,* is the Internet uniform resource locator name for the Internet address of the Web site where NRC will ordinarily make available its public records for inspection.
@@ -86,11 +82,13 @@ NRC Web site, *http://www.nrc.gov,* is the Internet uniform resource locator nam
 
 *Person* means (1) any individual, corporation, partnership, firm, association, trust, estate, public or private institution, group, government agency other than the Commission or the Department, except that the Department shall be considered a person with respect to those facilities of the Department specified in section 202 of the Energy Reorganization Act of 1974 (88 Stat. 1244), any State or any political subdivision of, or any political entity within a State, any foreign government or nation or any political subdivision of any such government or nation, or other entity; and (2) any legal successor, representative, agent, or agency of the foregoing.
 
+*Portable storage media* means a physical piece of hardware that can be added to and removed from a computing device or network for the purpose of transferring or storing electronic files. Examples include, but are not limited to, optical storage media such as CDs and DVDs as well as non-optical media such as solid-state drives and flash drives.
+
 *Potential party* means any person who has requested, or who may intend to request, a hearing or petition to intervene in a hearing under 10 CFR part 2, other than hearings conducted under Subparts J and M of 10 CFR part 2.
 
 *Presiding officer* means the Commission, an administrative law judge, an administrative judge, an Atomic Safety and Licensing Board, or other person designated in accordance with the provisions of this part, presiding over the conduct of a hearing conducted under the provisions of this part.
 
-*Public Document Room* means the place at One White Flint North, 11555 Rockville Pike (first floor), Rockville, Maryland 20852-2738, at which public records of the Commission will ordinarily be made available for inspection.
+*Public Document Room* means the facility at the NRC at which agency public records will ordinarily be made available for inspection.
 
 *Safeguards Information* means information not classified as National Security Information or Restricted Data which specifically identifies a licensee's or applicant's detailed control and accounting procedures for the physical protection of special nuclear material in quantities determined by the Commission through order or regulation to be significant to the public health and safety or the common defense and security; detailed security measures (including security plans, procedures, and equipment) for the physical protection of source, byproduct, or special nuclear material in quantities determined by the Commission through order or regulation to be significant to the public health and safety or the common defense and security; security measures for the physical protection and location of certain plant equipment vital to the safety of production or utilization facilities; and any other information within the scope of Section 147 of the Atomic Energy Act of 1954, as amended, the unauthorized disclosure of which, as determined by the Commission through order or regulation, could reasonably be expected to have a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of sabotage or theft or diversion of source, byproduct, or special nuclear material.
 

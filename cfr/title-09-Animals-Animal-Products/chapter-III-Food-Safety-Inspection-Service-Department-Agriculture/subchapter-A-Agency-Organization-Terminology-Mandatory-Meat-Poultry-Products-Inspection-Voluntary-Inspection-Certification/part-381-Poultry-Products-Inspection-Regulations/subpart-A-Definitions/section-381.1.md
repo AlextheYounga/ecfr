@@ -100,7 +100,7 @@
 
 (*b*) Its label bears the name of the food specified in the definition and standard, and insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food.
 
-(viii) If it purports to be or is represented as a food for which a standard or standards of fill of container have been prescribed by regulations of the Secretary,2 and falls below the standard of fill of container applicable thereto, unless its label bears, in such manner and form as such regulations specify, a statement that it falls below such standard;
+(viii) If it purports to be or is represented as a food for which a standard or standards of fill of container have been prescribed by regulations of the Secretary, 2 and falls below the standard of fill of container applicable thereto, unless its label bears, in such manner and form as such regulations specify, a statement that it falls below such standard;
 
 2 No such standards are currently in effect. However, § 381.129 prohibits the use of false or misleading containers.
 

@@ -102,7 +102,7 @@ F. Include any additional pertinent information.
 
 (d) Outline of Production for *vaccines, bacterins, antigens,* and *toxoids* shall be written according to the following:
 
-Outline Guide for Vaccines, Bacterins, Antigens, and ToxoidsLicense No. Name of Product Date
+Outline Guide for Vaccines, Bacterins, Antigens, and Toxoids License No. Name of Product Date
 
 I. *Composition, etc., of the product.* A. Micro-organisms used. Give the isolation and passage history.
 
@@ -192,7 +192,7 @@ D. Use, dosage, and route of administration for each animal species for which th
 
 (e) Outlines of Production for allergenic extracts shall be written according to the following:
 
-Outline Guide for Allergenic ExtractsLicense No. Name of Product Date
+Outline Guide for Allergenic Extracts License No. Name of Product Date
 
 I. *Composition of the product.* A. Source and type of raw material.
 

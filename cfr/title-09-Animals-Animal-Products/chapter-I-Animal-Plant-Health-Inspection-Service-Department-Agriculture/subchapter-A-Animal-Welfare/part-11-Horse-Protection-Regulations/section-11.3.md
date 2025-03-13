@@ -2,7 +2,7 @@
 
 The scar rule applies to all horses born on or after October 1, 1975. Horses subject to this rule that do not meet the following scar rule criteria shall be considered to be “sore” and are subject to all prohibitions of section 5 of the Act. The scar rule criteria are as follows:
 
-(a) The anterior and anterior-lateral surfaces of the fore pasterns (extensor surface) must be free of bilateral granulomas,5 other bilateral pathological evidence of inflammation, and, other bilateral evidence of abuse indicative of soring including, but not limited to, excessive loss of hair.
+(a) The anterior and anterior-lateral surfaces of the fore pasterns (extensor surface) must be free of bilateral granulomas, 5 other bilateral pathological evidence of inflammation, and, other bilateral evidence of abuse indicative of soring including, but not limited to, excessive loss of hair.
 
 3 4 [Reserved]
 

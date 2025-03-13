@@ -6,7 +6,7 @@
 
 (c) Genetic elements, recombinant and/or synthetic nucleic acids, and recombinant and/or synthetic organisms:
 
-(1) Nucleic acids that can produce infectious forms of any of the overlap select agent viruses listed in paragraph (b) of this section.6
+(1) Nucleic acids that can produce infectious forms of any of the overlap select agent viruses listed in paragraph (b) of this section. 6
 
 6 The importation and interstate movement of overlap select agents or toxins listed in paragraphs (c)(1) through (c)(3) of this section may be subject to the permit requirements under part 122 of this subchapter.
 

@@ -1,12 +1,10 @@
 ##### § 86.4 Official identification. #####
 
-Link to an amendment published at 89 FR 39565, May 9, 2024.
-
-(a) *Official identification devices and methods.* The Administrator has approved the following official identification devices or methods for the species listed. The Administrator may authorize the use of additional devices or methods for a specific species if he or she determines that such additional devices or methods will provide for adequate traceability.
+(a) *Official identification devices and methods.* The Administrator has approved the following official identification devices or methods for the species listed. The Administrator may authorize the use of additional devices or methods for a specific species if he or she determines that such additional devices or methods will provide for adequate traceability. Additional guidance on official identification devices, methods, and the approval process is found in the Official Animal Identification Device Standards (OAIDS) document.
 
 (1) *Cattle and bison.* Cattle and bison that are required to be officially identified for interstate movement under this part must be identified by means of:
 
-(i) An official eartag; or
+(i) For an official eartag, beginning November 5, 2024, all official eartags sold for or applied to cattle and bison must be readable both visually and electronically (EID);
 
 (ii) Brands registered with a recognized brand inspection authority and accompanied by an official brand inspection certificate, when agreed to by the shipping and receiving State or Tribal animal health authorities; or
 
@@ -16,15 +14,15 @@ Link to an amendment published at 89 FR 39565, May 9, 2024.
 
 (2) *Horses and other equine species.* Horses and other equine species that are required to be officially identified for interstate movement under this part must be identified by one of the following methods:
 
-(i) A description sufficient to identify the individual equine including, but not limited to, name, age, breed, color, gender, distinctive markings, and unique and permanent forms of identification when present (e.g., brands, tattoos, scars, cowlicks, blemishes or biometric measurements). When the identity of the equine is in question at the receiving destination, the State or Tribal animal health official in the State or Tribe of destination or APHIS representative may determine if the description provided is sufficient; or
+(i) A description sufficient to identify the individual equid including, but not limited to, name, age, breed, color, gender, distinctive markings, and unique and permanent forms of identification when present (e.g., brands, tattoos, scars, cowlicks, blemishes or biometric measurements). When the identity of the equid is in question at the receiving destination, the State or Tribal animal health official in the State or Tribe of destination or APHIS representative may determine if the description provided is sufficient; or
 
 (ii) Electronic identification that complies with ISO 11784/11785; or
 
-(iii) Non-ISO electronic identification injected to the equine on or before March 11, 2014; or
+(iii) Non-ISO electronic identification injected into the equid on or before March 11, 2014; or
 
-(iv) Digital photographs sufficient to identify the individual equine; or
+(iv) Digital photographs sufficient to identify the individual equid; or
 
-(v) For equines being commercially transported to slaughter, a device or method authorized by 88 of this chapter.
+(v) For equids being commercially transported to slaughter, a device or method authorized by 88 of this chapter.
 
 (3) *Poultry.* Poultry that are required to be officially identified for interstate movement under this part must be identified by one of the following methods:
 
@@ -56,11 +54,13 @@ Link to an amendment published at 89 FR 39565, May 9, 2024.
 
 (C) If a determination to hold the cattle or bison for more than 3 days is made after the animals arrive at the slaughter establishment, the animals must be officially identified in accordance with § 86.4(d)(4)(ii).
 
+(D) Cattle and bison leaving a slaughter establishment may only be moved to another recognized slaughter establishment or approved feedlot and can only be sold/re-sold as slaughter cattle, and they must be accompanied by an owner-shipper statement in accordance with § 86.5(c)(1). Information listed on the document must include the name and address of the slaughter establishment from which the animals left, the official identification numbers, as defined in § 86.1, correlated with the USDA backtag number (if available), the name of the destination slaughter establishment, or approved feedlot (as defined in § 77.5 of this subchapter) to which the animals are being shipped.
+
 (iii) Beginning on March 11, 2013, all cattle and bison listed below are subject to the official identification requirements of this section:
 
 (A) All sexually intact cattle and bison 18 months of age or over;
 
-(B) All female dairy cattle of any age and all dairy males born after March 11, 2013;
+(B) All dairy cattle;
 
 (C) Cattle and bison of any age used for rodeo or recreational events; and
 
@@ -70,7 +70,7 @@ Link to an amendment published at 89 FR 39565, May 9, 2024.
 
 (3) *Swine.* Swine moving interstate must be officially identified in accordance with § 71.19 of this chapter.
 
-(4) *Horses and other equines.* Horses and other equines moving interstate moved interstate must be officially identified prior to the interstate movement, using an official identification device or method listed in paragraph (a)(2) of this section unless:
+(4) *Horses and other equids.* Horses and other equids moving interstate must be officially identified prior to the interstate movement, using an official identification device or method listed in paragraph (a)(2) of this section unless:
 
 (i) They are used as the mode of transportation (horseback, horse and buggy) for travel to another location and then return direct to the original location.
 
@@ -96,9 +96,7 @@ Link to an amendment published at 89 FR 39565, May 9, 2024.
 
 (2) In specific cases when the need to maintain the identity of an animal is intensified (e.g., such as for export shipments, quarantined herds, field trials, experiments, or disease surveys), a State or Tribal animal health official or an area veterinarian in charge may approve the application of an additional official eartag to an animal that already has one or more. The person applying the additional official eartag must record the following information about the event and maintain the record for 5 years: The date the additional official eartag is added; the reason for the additional official eartag device; and the official identification numbers of both the new official eartag and the one(s) already attached to the animal.
 
-(3) An eartag with an animal identification number (AIN) beginning with the 840 prefix (either radio frequency identification or visual-only tag) may be applied to an animal that is already officially identified with one or more National Uniform Eartagging System tags and/or an official vaccination eartag used for brucellosis. The person applying the AIN eartag must record the date the AIN tag is added and the official identification numbers of both official eartags and must maintain those records for 5 years.
-
-(4) A brucellosis vaccination eartag with a National Uniform Eartagging System number may be applied in accordance with part 78 of this chapter to an animal that is already officially identified with one or more official eartags under this part. The person applying the vaccination eartag must record the date the tag is added and the official identification numbers of both the existing official eartag(s) and the vaccination eartag and must maintain those records for 5 years.
+(3) A visually and electronically readable eartag may be applied to an animal that is already officially identified with one or more non-EID official eartags and/or a non-EID official vaccination eartag used for brucellosis. The person applying the new visually and electronically readable eartag must record the date the eartag is applied to the animal and the official identification numbers of both official eartags and must maintain those records for 5 years.
 
 (d) *Removal or loss of official identification devices.* (1) Official identification devices are intended to provide permanent identification of livestock and to ensure the ability to find the source of animal disease outbreaks. Removal of these devices, including devices applied to imported animals in their countries of origin and recognized by the Administrator as official, is prohibited except at the time of slaughter, at any other location upon the death of the animal, or as otherwise approved by the State or Tribal animal health official or an area veterinarian in charge when a device needs to be replaced.
 
@@ -118,9 +116,9 @@ Link to an amendment published at 89 FR 39565, May 9, 2024.
 
 (ii) Infection at the site where the device is attached, necessitating application of a device at another location (e.g., a slightly different location of an eartag in the ear);
 
-(iii) Malfunction of the electronic component of a radio frequency identification (RFID) device; or
+(iii) Malfunction of the electronic component of an electronically readable (EID) device; or
 
-(iv) Incompatibility or inoperability of the electronic component of an RFID device with the management system or unacceptable functionality of the management system due to use of an RFID device.
+(iv) Incompatibility or inoperability of the electronic component of an EID device with the management system or unacceptable functionality of the management system due to use of an EID device.
 
 (2) Any time an official identification device is replaced, as authorized by the State or Tribal animal health official or area veterinarian in charge, the person replacing the device must record the following information about the event and maintain the record for 5 years:
 
@@ -130,7 +128,7 @@ Link to an amendment published at 89 FR 39565, May 9, 2024.
 
 (iii) The official identification number (to the extent possible) on the device removed;
 
-(iv) The type of device removed (e.g., metal eartag, RFID eartag);
+(iv) The type of device removed (e.g., metal eartag, RFID or other EID eartag);
 
 (v) The reason for the removal of the device;
 
@@ -139,3 +137,5 @@ Link to an amendment published at 89 FR 39565, May 9, 2024.
 (vii) The type of replacement device applied.
 
 (f) *Sale or transfer of official identification devices.* Official identification devices are not to be sold or otherwise transferred from the premises to which they were originally issued to another premises without authorization by the Administrator or a State or Tribal animal health official.
+
+(Approved by the Office of Management and Budget under control number 0579-0327)[78 FR 2071, Jan. 9, 2013, as amended at 89 FR 39565, May 9, 2024]
