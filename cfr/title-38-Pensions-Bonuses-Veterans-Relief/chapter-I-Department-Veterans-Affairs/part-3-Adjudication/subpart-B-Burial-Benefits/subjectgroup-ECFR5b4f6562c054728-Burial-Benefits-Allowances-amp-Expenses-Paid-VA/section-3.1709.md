@@ -1,5 +1,7 @@
 ##### § 3.1709 Transportation expenses for burial in a national cemetery. #####
 
+Link to an amendment published at 89 FR 78254, Sept. 25, 2024.
+
 (a) *General.* VA will reimburse the costs of transportation, subject to paragraph (d) of this section, of a veteran's remains for burial in a national cemetery for a veteran described in paragraph (b) of this section.
 
 (b) *Eligibility.* VA will reimburse for the expense incurred, subject to paragraph (d) of this section, to transport a veteran's remains for burial in a national cemetery if:

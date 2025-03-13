@@ -1,7 +1,5 @@
 ##### § 765.205 Subordination of liens. #####
 
-Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
-
 (a) *Borrower application requirements.* The borrower must submit the following, unless it already exists in the Agency's file and is still current as determined by the Agency:
 
 (1) Completed Agency application for subordination form;
@@ -16,7 +14,9 @@ Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
 
 (6) Verification of all debts.
 
-(b) *Subordination of real estate security.* For loans secured by real estate, the Agency will approve a request for subordination subject to the following conditions:
+(b) *Incomplete applications.* Incomplete applications will be processed in accordance with 7 CFR 764.52.
+
+(c) *Subordination of real estate security.* For loans secured by real estate, the Agency will approve a request for subordination subject to the following conditions:
 
 (1) If a lender requires that the Agency subordinate its lien position on the borrower's existing property in order for the borrower to acquire new property and the request meets the requirements in paragraph (b)(3) of this section, the request may be approved. The Agency will obtain a valid mortgage and the required lien position on the new property. The Agency will require title clearance and loan closing for the property in accordance with § 764.402 of this chapter.
 
@@ -58,7 +58,7 @@ Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
 
 (4) The Agency will approve a request for subordination of real estate to a lessee if the conditions in paragraphs (b)(3)(viii) through (xvi) of this section are met.
 
-(c) *Chattel security.* The requirements for chattel subordinations are as follows:
+(d) *Chattel security.* The requirements for chattel subordinations are as follows:
 
 (1) For loans secured by chattel, the subordination must meet the conditions contained in paragraphs (b)(3)(i) through (xiii) of this section.
 
@@ -70,6 +70,6 @@ Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
 
 (iii) The subordination meets the conditions under paragraphs (b)(1) through (12) of this section.
 
-(d) *Appraisals.* An appraisal of the property that secures the FLP loan will be required when the Agency determines it necessary to protect its interest. Appraisals will be obtained in accordance with § 761.7 of this chapter.
+(e) *Appraisals.* An appraisal of the property that secures the FLP loan will be required when the Agency determines it necessary to protect its interest. Appraisals will be obtained in accordance with § 761.7 of this chapter.
 
-[72 FR 63309, Nov. 8, 2007, as amended at 75 FR 54016, Sept. 3, 2010; 78 FR 65530, Nov. 1, 2013; 81 FR 51284, Aug. 3, 2016]
+[72 FR 63309, Nov. 8, 2007, as amended at 75 FR 54016, Sept. 3, 2010; 78 FR 65530, Nov. 1, 2013; 81 FR 51284, Aug. 3, 2016; 89 FR 65042, Aug. 8, 2024]

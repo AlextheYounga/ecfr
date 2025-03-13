@@ -1,7 +1,5 @@
 ##### § 766.104 Borrower eligibility requirements. #####
 
-Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
-
 (a) A borrower must meet the following eligibility requirements to be considered for primary loan servicing:
 
 (1) The delinquency or financial distress is the result of reduced repayment ability due to one of the following circumstances beyond the borrower's control:
@@ -12,9 +10,11 @@ Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
 
 (iii) Widespread economic conditions such as low commodity prices;
 
-(iv) Damage or destruction of property essential to the farming operation; or
+(iv) Damage or destruction of property essential to the farming operation;
 
-(v) Loss of, or reduction in, the borrower or spouse's essential non-farm income.
+(v) Loss of, or reduction in, the borrower or spouse's essential non-farm income; or
+
+(vi) Catastrophic medical expenses for the care of a family member of the borrower or entity member, in the case of an entity borrower.
 
 (2) The borrower does not have non-essential assets for which the net recovery value is sufficient to resolve the financial distress or pay the delinquent portion of the loan.
 
@@ -31,3 +31,5 @@ Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
 (1) Be delinquent due to circumstances beyond their control;
 
 (2) Have acted in good faith.
+
+[72 FR 63316, Nov. 8, 2007, as amended at 89 FR 65044, Aug. 8, 2024]

@@ -1,5 +1,7 @@
 ##### § 3.1706 Burial allowance for a veteran who died while hospitalized by VA. #####
 
+Link to an amendment published at 89 FR 78254, Sept. 25, 2024.
+
 (a) *General rule.* VA will pay up to the maximum burial allowance specified in 38 U.S.C. 2303(a) for the burial and funeral expenses of a veteran described in paragraph (b) of this section.
 
 (b) *Eligibility.* A burial allowance is payable under this section for a veteran whose death was not service-connected and who died while hospitalized by VA. For purposes of this allowance, a veteran was hospitalized by VA if the veteran:

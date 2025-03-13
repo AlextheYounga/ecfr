@@ -1,7 +1,5 @@
 ##### § 766.101 Initial Agency notification to borrower of loan servicing programs. #####
 
-Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
-
 (a) *Borrowers notified.* The Agency will provide servicing information under this section to borrowers who:
 
 (1) Have a current farm operating plan that demonstrates the borrower is financially distressed;
@@ -42,4 +40,6 @@ Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
 
 (3) In non-monetary default with or without monetary default must submit a complete application within 60 days from receipt of FSA-2514.
 
-[72 FR 63316, Nov. 8, 2007, as amended at 85 FR 36693, June 17, 2020]
+(e) *SED extension authority.* In extraordinary circumstances, after the application period described in paragraphs (d)(2) and (3) of this section has expired, the SED may extend the application deadline when requested by the borrower in writing.
+
+[72 FR 63316, Nov. 8, 2007, as amended at 85 FR 36693, June 17, 2020; 89 FR 65048, Aug. 8, 2024]

@@ -1,8 +1,6 @@
-##### § 761.105 Year-end analysis. #####
+##### § 761.105 Analysis. #####
 
-Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
-
-(a) The Agency conducts a year-end analysis at its discretion or if the borrower:
+(a) The Agency conducts an analysis at its discretion or if the borrower:
 
 (1) Is being considered for a new direct loan or subordination;
 
@@ -12,10 +10,6 @@ Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
 
 (4) Is receiving a limited resource interest rate on any loan, in which case the review will be completed at least every 2 years.
 
-(b) To the extent practicable, the year-end analysis will be completed within 60 days after the end of the business year or farm budget planning period and must include:
+(b) The analysis must include a review of the previous production cycle's actual income, expense, and production performance, as well as a farm operating plan for the new operating cycle.
 
-(1) An analysis comparing actual income, expenses, and production to projected income, expenses, and production for the preceding production cycle; and
-
-(2) An updated farm operating plan.
-
-[72 FR 63285, Nov. 8, 2007, as amended at 75 FR 54013, Sept. 3, 2010; 86 FR 43391, Aug. 9, 2021]
+[72 FR 63285, Nov. 8, 2007, as amended at 75 FR 54013, Sept. 3, 2010; 86 FR 43391, Aug. 9, 2021; 89 FR 65038, Aug. 8, 2024]

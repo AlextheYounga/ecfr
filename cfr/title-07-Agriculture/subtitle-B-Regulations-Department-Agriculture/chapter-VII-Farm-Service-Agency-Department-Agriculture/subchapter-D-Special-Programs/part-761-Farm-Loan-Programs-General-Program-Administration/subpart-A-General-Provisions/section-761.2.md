@@ -1,8 +1,6 @@
 ##### § 761.2 Abbreviations and definitions. #####
 
-Link to an amendment published at 89 FR 65035, Aug. 8, 2024.
-
-The following abbreviations and definitions are applicable to the Farm Loan Programs addressed in parts 761 through 767 and 769 unless otherwise noted.
+The following abbreviations and definitions are applicable to the Farm Loan Programs addressed in parts 761 through 769 unless otherwise noted.
 
 (a) *Abbreviations.*
 
@@ -11,6 +9,8 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 *CL* Conservation Loan.
 
 *CLP* Certified Lender Program.
+
+*DBSA* Distressed Borrower Set-Aside.
 
 *DSA* Disaster Set-Aside.
 
@@ -78,15 +78,15 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Administrative appraisal review* is a review of an appraisal to determine if the appraisal:
 
-(1) Meets applicable Agency requirements; and
+(i) Meets applicable Agency requirements; and
 
-(2) Is accurate outside the requirements of standard 3 of USPAP.
+(ii) Is accurate outside the requirements of standard 3 of USPAP.
 
 *Agency* is the FSA.
 
 *Agreement for the use of proceeds* is an agreement between the borrower and the Agency for each production cycle that reflects the proceeds from the sale of normal income security that will be used to pay scheduled FLP loan installments, including any past due installments, during the production cycle covered by the agreement.
 
-*Agricultural commodity* means livestock, grains, cotton, oilseeds, dry beans, tobacco, peanuts, sugar beets, sugar cane, fruit, vegetable, forage, nursery crops, nuts, aquacultural species, and the products resulting from: livestock, tree farming, and other plant or animal production as determined by the Agency.
+*Agricultural commodity* means livestock, grains, cotton, oilseeds, dry beans, tobacco, peanuts, sugar beets, sugar cane, fruit, vegetable, forage, ornamental plants, nursery crops, nuts, aquacultural species, and the products resulting from: livestock, tree farming, and other plant or animal production as determined by the Agency.
 
 *Allonge* is an attachment or an addendum to a promissory note.
 
@@ -116,27 +116,27 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Beginning farmer* is an individual or entity who:
 
-(1) Meets the loan eligibility requirements for a direct or guaranteed CL, FO, or OL, as applicable;
+(i) Meets the loan eligibility requirements for a direct or guaranteed CL, FO, or OL, as applicable;
 
-(2) Has not operated a farm for more than 10 years. This requirement applies to all members of an entity;
+(ii) Has not operated a farm for more than 10 years. This requirement applies to all members of an entity;
 
-(3) Will materially and substantially participate in the operation of the farm:
+(iii) Will materially and substantially participate in the operation of the farm:
 
-(i) In the case of a loan made to an individual, individually or with the family members, material and substantial participation requires that the individual provide substantial day-to-day labor and management of the farm, consistent with the practices in the county or State where the farm is located.
+(A) In the case of a loan made to an individual, individually or with the family members, material and substantial participation requires that the individual provide substantial day-to-day labor and management of the farm, consistent with the practices in the county or State where the farm is located; or
 
-(ii) In the case of a loan made to an entity, all members must materially and substantially participate in the operation of the farm. Material and substantial participation requires that the member provide some amount of the management, or labor and management necessary for day-to-day activities, such that if the individual did not provide these inputs, operation of the farm would be seriously impaired;
+(B) In the case of a loan made to an entity, all members must materially and substantially participate in the operation of the farm. Material and substantial participation requires that the member provide some amount of the management, or labor and management necessary for day-to-day activities, such that if the individual did not provide these inputs, operation of the farm would be seriously impaired;
 
-(4) Agrees to participate in any loan assessment and borrower training required by Agency regulations;
+(iv) Agrees to participate in any loan assessment and borrower training required by Agency regulations;
 
-(5) Except for an OL applicant, does not own real farm property or who, directly or through interests in family farm entities owns real farm property, the aggregate acreage of which does not exceed 30 percent of the average farm acreage of the farms in the county where the property is located. If the farm is located in more than one county, the average farm acreage of the county where the applicant's residence is located will be used in the calculation. If the applicant's residence is not located on the farm or if the applicant is an entity, the average farm acreage of the county where the major portion of the farm is located will be used. The average county farm acreage will be determined from the most recent Census of Agriculture;
+(v) Except for an OL applicant, does not own real farm property or who, directly or through interests in family farm entities owns real farm property, the aggregate acreage of which does not exceed 30 percent of the average farm acreage of the farms in the county where the property is located. If the farm is located in more than one county, the average farm acreage of the county where the applicant's residence is located will be used in the calculation. If the applicant's residence is not located on the farm or if the applicant is an entity, the average farm acreage of the county where the major portion of the farm is located will be used. The average county farm acreage will be determined from the most recent Census of Agriculture;
 
-(6) Demonstrates that the available resources of the applicant and spouse (if any) are not sufficient to enable the applicant to enter or continue farming on a viable scale; and
+(vi) Demonstrates that the available resources of the applicant and spouse (if any) are not sufficient to enable the applicant to enter or continue farming on a viable scale; and
 
-(7) In the case of an entity:
+(vii) In the case of an entity:
 
-(i) All the members are related by blood or marriage; and
+(A) All the members are related by blood or marriage; and
 
-(ii) All the members are beginning farmers.
+(B) All the members are beginning farmers.
 
 *Borrower (or debtor)* is an individual or entity that has an outstanding obligation to the Agency or to a lender under any direct or guaranteed FLP loan, without regard to whether the loan has been accelerated. The term “borrower” includes all parties liable for such obligation, including collection-only borrowers, except for debtors whose total loans and accounts have been voluntarily or involuntarily foreclosed, sold, or conveyed, or who have been discharged of all such obligations owed to the Agency or guaranteed lender.
 
@@ -153,6 +153,8 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 *Closing agent* is the attorney or title insurance company selected by the applicant and approved by the Agency to provide closing services for the proposed loan or servicing action. Unless a title insurance company provides loan closing services, the term “title company” does not include “title insurance company.”
 
 *Coastal barrier* is an area of land identified as part of the national Coastal Barrier Resources System under the Coastal Barrier Resources Act of 1980.
+
+*Commercially foraged* means the harvesting of naturally occurring plants, or plantlike material, including fungi, that develop with limited management of the resource.
 
 *Compromise* is the settlement of an FLP debt or claim by a lump-sum payment of less than the total amount owed in satisfaction of the debt or claim.
 
@@ -194,9 +196,11 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Current market value buyout* is the termination of a borrower's loan obligations to the Agency in exchange for payment of the current appraised value of the borrower's security property and non-essential assets, less any prior liens.
 
-*Debt forgiveness* means the reduction or termination of a debt under the Act in a manner that results in a loss to the Agency, through:
+*Debt forgiveness* means the reduction or termination of a debt under the Act in a manner that results in a loss to the Agency:
 
-(i)(A) Writing down or writing off a debt pursuant to 7 U.S.C. 2001;
+(i) Debt forgiveness includes:
+
+(A) Writing down or writing off a debt pursuant to 7 U.S.C. 2001;
 
 (B) Cancellation of remaining amounts owed after compromising, adjusting, reducing, or charging off a debt or claim pursuant to 7 U.S.C. 1981;
 
@@ -210,7 +214,7 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 (A) Debt reduction through a conservation contract;
 
-(B) Any writedown provided as part of the resolution of a discrimination complaint against the Agency;
+(B) Any write-down provided as part of the resolution of a discrimination complaint against the Agency;
 
 (C) Prior debt forgiveness that has been repaid in its entirety;
 
@@ -222,7 +226,7 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Debt service margin* is the difference between all of the borrower's expected expenditures in a planning period (including farm operating expenses, capital expenses, essential family living expenses, and debt payments) and the borrower's projected funds available to pay all expenses and payments.
 
-*Debt writedown* is the reduction of the borrower's debt to that amount the Agency determines to be collectible based on an analysis of the security value and the borrower's ability to pay.
+*Debt write-down* means the reduction of the borrower's debt to that amount the Agency determines to be collectible based on an analysis of the security value and the borrower's ability to pay.
 
 *Default* is the failure of a borrower to observe any agreement with the Agency, or the lender in the case of a guaranteed loan, as contained in promissory notes, security instruments, and similar or related instruments.
 
@@ -240,6 +244,8 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Disaster yield* is the per-acre yield of an agricultural commodity for the operation during the production cycle when the disaster occurred.
 
+*Distressed borrower set-aside* means the deferral of payment of an annual loan installment to the Agency to the end of the loan term in accordance with part 766, subpart J, of this chapter.
+
 *Down payment loan* is a type of FO loan made to beginning farmers and socially disadvantaged farmers to finance a portion of a real estate purchase under part 764, subpart E of this chapter.
 
 *Economic Emergency loan* is a loan that was made or guaranteed to an eligible applicant to allow for continuation of the operation during an economic emergency which was caused by a lack of agricultural credit or an unfavorable relationship between production costs and prices received for agricultural commodities. EE loans are not currently funded; however, such outstanding loans are serviced by the Agency or the lender in the case of a guaranteed EE loan.
@@ -252,61 +258,61 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Entity member* means all individuals and all embedded entities, as well as the individual members of the embedded entities, having an ownership interest in the assets of the entity.
 
-*Equitable relief* means waiving a requirement for Direct Farm Ownership, Direct Farm Operating, or Direct Emergency loans when the borrower is not in compliance with loan program requirements, but acted in good faith and relied on a material action, advice, or non-action from an Agency official to the detriment of the borrower's operation.
+*Equitable relief* means relief provided in accordance with part 7 CFR 768.1.
 
-*Essential family living and farm operating expenses:*
+*Essential family living and farm operating expenses* means those expenses that:
 
-(1) Are those that are basic, crucial or indispensable.
+(i) Are those that are basic, crucial, or indispensable;
 
-(2) Are determined by the Agency based on the following considerations:
+(ii) Are determined by the Agency based on the following considerations:
 
-(i) The specific borrower's operation;
+(A) The specific borrower's operation;
 
-(ii) What is typical for that type of operation in the area; and
+(B) What is typical for that type of operation in the area; and
 
-(iii) What is an efficient method of production considering the borrower's resources.
+(C) What is an efficient method of production considering the borrower's resources; and
 
-(3) Include, but are not limited to, essential: Household operating expenses; food, including lunches; clothing and personal care; health and medical expenses, including medical insurance; house repair and sanitation; school and religious expenses; transportation; hired labor; machinery repair; farm building and fence repair; interest on loans and credit or purchase agreement; rent on equipment, land, and buildings; feed for animals; seed, fertilizer, pesticides, herbicides, spray materials and other necessary farm supplies; livestock expenses, including medical supplies, artificial insemination, and veterinarian bills; machinery hire; fuel and oil; taxes; water charges; personal, property and crop insurance; auto and truck expenses; and utility payments.
+(iii) Include, but are not limited to, essential: Household operating expenses; food, including lunches; clothing and personal care; health and medical expenses, including medical insurance; house repair and sanitation; school and religious expenses; transportation; hired labor; machinery repair; farm building and fence repair; interest on loans and credit or purchase agreement; rent on equipment, land, and buildings; feed for animals; seed, fertilizer, pesticides, herbicides, spray materials and other necessary farm supplies; livestock expenses, including medical supplies, artificial insemination, and veterinarian bills; machinery hire; fuel and oil; taxes; water charges; personal, property and crop insurance; auto and truck expenses; and utility payments.
 
 *Established farmer* means a farmer who operates the farm (in the case of an entity, its members as a group) who meets all of the following conditions:
 
-(1) Actively participated in the operation and the management, including, but not limited to, exercising control over, making decisions regarding, and establishing the direction of, the farming operation at the time of the disaster;
+(i) Actively participated in the operation and the management, including, but not limited to, exercising control over, making decisions regarding, and establishing the direction of, the farming operation at the time of the disaster;
 
-(2) Spends a substantial portion of time in carrying out the farming operation;
+(ii) Spends a substantial portion of time in carrying out the farming operation;
 
-(3) Planted the crop, or purchased or produced the livestock on the farming operation;
+(iii) Planted the crop, or purchased or produced the livestock on the farming operation;
 
-(4) In the case of an entity, is primarily engaged in farming and has over 50 percent of its gross income from all sources from its farming operation based on the operation's projected cash flow for the next crop year or the next 12-month period, as mutually determined;
+(iv) In the case of an entity, is primarily engaged in farming and has over 50 percent of its gross income from all sources from its farming operation based on the operation's projected cash flow for the next crop year or the next 12-month period, as mutually determined;
 
-(5) Is not an integrated livestock, poultry, or fish processor who operates primarily and directly as a commercial business through contracts or business arrangements with farmers, except a grower under contract with an integrator or processor may be considered an established farmer, provided the farming operation is not managed by an outside full-time manager or management service and Agency loans will be based on the applicant's share of the agricultural production as specified in the contract; and
+(v) Is not an integrated livestock, poultry, or fish processor who operates primarily and directly as a commercial business through contracts or business arrangements with farmers, except a grower under contract with an integrator or processor may be considered an established farmer, provided the farming operation is not managed by an outside full-time manager or management service and Agency loans will be based on the applicant's share of the agricultural production as specified in the contract; and
 
-(6) Does not employ a full time farm manager.
+(vi) Does not employ a full time farm manager.
 
 *EZ Guarantee* means a type of OL or FO of $100,000 or less made using a simplified loan application. As part of the simplified application process, EZ Guarantees are processed using a streamlined underwriting method to determine financial feasibility.
 
 *False information* is information provided by an applicant, borrower or other source to the Agency that the applicant or borrower knows to be incorrect.
 
-*Family farm* is a business operation that:
+*Family farm* means a business operation that:
 
-(1) Produces agricultural commodities for sale in sufficient quantities so that it is recognized as a farm rather than a rural residence;
+(i) Produces agricultural commodities, including agricultural commodities commercially foraged on Indian land for the purposes of OLs, for sale in sufficient quantities so that it is recognized as a farm rather than a rural residence or non-eligible enterprise;
 
-(2) Has both physical labor and management provided as follows:
+(ii) Has both physical labor and management provided as follows:
 
-(i) The majority of day-to-day, operational decisions, and all strategic management decisions are made by:
+(A) The majority of day-to-day, operational decisions, and all strategic management decisions are made by:
 
-(A) The borrower, with input and assistance allowed from persons who are either related to the borrower by blood or marriage, or are a relative, for an individual borrower; or
+(*1*) The borrower, with input and assistance allowed from persons who are either related by blood or marriage to an individual borrower; or
 
-(B) The members responsible for operating the farm, in the case of an entity.
+(*2*) The members responsible for operating the farm, in the case of an entity; and
 
-(ii) A substantial amount of labor to operate the farm is provided by:
+(B) A substantial amount of labor to operate the farm is provided by:
 
-(A) The borrower, with input and assistance allowed from persons who are either related to the borrower by blood or marriage, or are a relative, for an individual borrower; or
+(*1*) The borrower, with input and assistance allowed from persons who are either related by blood or marriage to an individual borrower; or
 
-(B) The members responsible for operating the farm, in the case of an entity.
+(*2*) The members responsible for operating the farm, in the case of an entity;
 
-(3) May use full-time hired labor in amounts only to supplement family labor.
+(iii) May use full-time hired labor in amounts only to supplement family labor; and
 
-(4) May use reasonable amounts of temporary labor for seasonal peak workload periods or intermittently for labor intensive activities.
+(iv) May use reasonable amounts of temporary labor for seasonal peak workload periods or intermittently for labor intensive activities.
 
 *Family living expenses* are the costs of providing for the needs of family members and those for whom the borrower has a financial obligation, such as alimony, child support, and care expenses of an elderly parent.
 
@@ -320,23 +326,23 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Farm Loan Programs* are Agency programs to make, guarantee, and service loans to family farmers authorized under the Act or Agency regulations.
 
-*Farm Ownership loan* is a loan made to eligible applicants to purchase, enlarge, or make capital improvements to family farms, or to promote soil and water conservation and protection. It also includes the Downpayment loan.
+*Farm Ownership loan* is a loan made to eligible applicants to purchase, enlarge, or make capital improvements to family farms, or to promote soil and water conservation and protection. It also includes the Down Payment loan.
 
 *Farm Program payments* are benefits received from FSA for any commodity, disaster, or cost share program.
 
-*Feasible plan* is when an applicant or borrower's cash flow budget or farm operating plan indicates that there is sufficient cash inflow to pay all cash outflow. If a loan approval or servicing action exceeds one production cycle and the planned cash flow budget or farm operating plan is atypical due to cash or inventory on hand, new enterprises, carryover debt, atypical planned purchases, important operating changes, or other reasons, a cash flow budget or farm operating plan must be prepared that reflects a typical cycle. If the request is for only one cycle, a feasible plan for only one production cycle is required for approval.
+*Feasible plan* means when an applicant or borrower's cash flow budget or farm operating plan indicates that there is sufficient cash inflow to pay all cash outflow. If a loan approval or servicing action exceeds one production cycle and the planned cash flow budget or farm operating plan is atypical due to an interest-only or otherwise unequal installment, cash or inventory on hand, new enterprises, carryover debt, atypical planned purchases, important operating changes, or other reasons, a cash flow budget or farm operating plan must be prepared that reflects a typical cycle. If the request is for only one cycle, a feasible plan for only that production cycle is required for approval.
 
 *Financially distressed borrower* is a borrower unable to develop a feasible plan for the current or next production cycle.
 
 *Financially viable operation,* for the purposes of considering a waiver of OL term limits under § 764.252 of this chapter, is a farming operation that, with Agency assistance, is projected to improve its financial condition over a period of time to the point that the operator can obtain commercial credit without further Agency assistance. Such an operation must generate sufficient income to:
 
-(1) Meet annual operating expenses and debt payments as they become due;
+(i) Meet annual operating expenses and debt payments as they become due;
 
-(2) Meet essential family living expenses to the extent they are not met by dependable non-farm income;
+(ii) Meet essential family living expenses to the extent they are not met by dependable non-farm income;
 
-(3) Provide for replacement of capital items; and
+(iii) Provide for replacement of capital items; and
 
-(4) Provide for long-term financial growth.
+(iv) Provide for long-term financial growth.
 
 *Fixture* is an item of personal property attached to real estate in such a way that it cannot be removed without defacing or dismantling the structure, or damaging the item itself.
 
@@ -348,7 +354,7 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Forest Stewardship Management Plan* means a property-specific, long-term, multi-resource plan that addresses private landowner objectives while recommending a set and schedule of management practices designed to achieve a desired future forest condition developed and approved through the USDA Forest Service or its agent.
 
-*Good faith* is when an applicant or borrower provides current, complete, and truthful information when applying for assistance and in all past dealings with the Agency, and adheres to all written agreements with the Agency including, but not limited to, loan agreement, security instruments, farm operating plans, and agreements for use of proceeds. The Agency considers a borrower to act in good faith, however, if the borrower's inability to adhere to all agreements is due to circumstances beyond the borrower's control. In addition, the Agency will consider fraud, waste, or conversion actions, when substantiated by a legal opinion from OGC, when determining if an applicant or borrower has acted in good faith.
+*Good faith* means when an applicant or borrower provides current, complete, and truthful information when applying for assistance and in all past dealings with the Agency and adheres to all written agreements with the Agency including loan agreements, security instruments, farm operating plans, and agreements for use of proceeds. If the borrower's inability to adhere to all agreements is due to circumstances beyond the borrower's control, the Agency will consider the borrower to have acted in good faith. In addition, the Agency may also consider fraud, waste, or conversion actions when determining if an applicant or borrower has acted in good faith. Such determinations of fraud, waste, or conversion that are substantiated by a legal opinion from OGC constitute an independent basis for determinations of not having acted in good faith.
 
 *Graduation* means the payment in full of all direct FLP loans, except for CLs, made for operating, real estate, or both purposes by refinancing with other credit sources either with or without an Agency guarantee.
 
@@ -380,7 +386,17 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Inaccurate information* is incorrect information provided by an applicant, borrower, lender, or other source without the intent of fraudulently obtaining benefits.
 
+*Indian land,* for the purposes of the definition of “family farm” in this section, means land, or an interest therein, that is:
+
+(i) Owned by an Indian Tribe;
+
+(ii) Owned by an Indian Tribe and is subject to restrictions against alienation or encumbrance by the United States; or
+
+(iii) Held in trust by the United States for an Indian Tribe.
+
 *Indian reservation* is all land located within the limits of any Indian reservation under the jurisdiction of the United States, notwithstanding the issuance of any patent, and including rights-of-way running through the reservation; trust or restricted land located within the boundaries of a former reservation of a Federally recognized Indian Tribe in the State of Oklahoma; or all Indian allotments the Indian titles to which have not been extinguished if such allotments are subject to the jurisdiction of a Federally recognized Indian Tribe.
+
+*Indian Tribe* means any Indian Tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or regional corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601-1629h), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 *In-house expenses* are expenses associated with credit management and loan servicing by the lender and the lender's contractor. In-house expenses include, but are not limited to, employee salaries, staff lawyers, travel, supplies, and overhead.
 
@@ -406,9 +422,9 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Limited resource interest rate* is an interest rate normally below the Agency's regular interest rate, which is available to applicants unable to develop a feasible plan at regular rates and are requesting:
 
-(1) FO or OL loan assistance under part 764 of this title; or
+(i) FO or OL loan assistance under part 764 of this title; or
 
-(2) Primary loan servicing on an FO, OL, or SW loan under part 766 of this title.
+(ii) Primary loan servicing on an FO, OL, or SW loan under part 766 of this title.
 
 *Line of Credit Agreement* is a contract between the borrower and the lender that contains certain lender and borrower conditions, limitations, and responsibilities for credit extension and acceptance where loan principal balance may fluctuate throughout the term of the contract.
 
@@ -454,25 +470,25 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Non-capitalized interest* is accrued interest on a loan that was not reclassified as principal at the time of restructuring. Between October 10, 1988, and November 27, 1990, the Agency did not capitalize interest that was less than 90 days past due when restructuring a direct loan.
 
-*Non-eligible enterprise* is a business that meets the criteria in any one of the following categories:
+*Non-eligible enterprise* means a business that meets the criteria in any one of the following categories:
 
-(1) Produces exotic animals, birds, or aquatic organisms or their products which may be agricultural in nature, but are not normally associated with agricultural production, e.g., there is no established or stable market for them or production is speculative in nature.
+(i) Produces exotic animals, birds, or aquatic organisms or their products that may be agricultural in nature, but are not primarily associated with agricultural production, for example, there is no established or stable market for them, or production is speculative in nature;
 
-(2) Produces non-farm animals, birds, or aquatic organisms ordinarily used for pets, companionship, or pleasure and not typically associated with human consumption, fiber, or draft use.
+(ii) Produces animals, birds, or aquatic organisms ordinarily used for pets, companionship, sport, or pleasure and not primarily associated with human consumption, fiber, or draft use;
 
-(3) Markets non-farm goods or provides services which might be agriculturally related, but are not produced by the farming operation.
+(iii) Primarily markets goods or provides services which might be agriculturally related, but are not produced by the farming operation; or
 
-(4) Processes or markets farm products when the majority of the commodities processed or marketed are not produced by the farming operation.
+(iv) Processes or markets farm products when the majority of the commodities processed or marketed are not produced by the farming operation.
 
-*Non-essential assets* are assets in which the borrower has an ownership interest, that:
+*Non-essential assets* mean assets in which the borrower has an ownership interest, that:
 
-(1) Do not contribute to:
+(i) Do not contribute to:
 
-(i) Income to pay essential family living expenses, or
+(A) Income to pay essential family living expenses, or
 
-(ii) The farming operation; and
+(B) The farming operation; and
 
-(2) Are not exempt from judgment creditors or in a bankruptcy action.
+(ii) Are not exempt from judgment creditors or in a bankruptcy action.
 
 *Non-monetary default* means a situation where a borrower is not in compliance with the covenants or requirements of the loan documents, program requirements, or loan.
 
@@ -480,25 +496,25 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Normal income security* is all security not considered basic security, including crops, livestock, poultry products, other property covered by Agency liens that is sold in conjunction with the operation of a farm or other business, and FSA Farm Program payments.
 
-*Normal production yield* as used in 7 CFR part 764 for EM loans, is:
+*Normal production yield* means, as used in 7 CFR part 764 for EMs:
 
-(1) The per acre actual production history of the crops produced by the farming operation used to determine Federal crop insurance payments or payment under the Noninsured Crop Disaster Assistance Program for the production year during which the disaster occurred;
+(i) The per acre actual production history of the crops produced by the farming operation used to determine Federal crop insurance payments or payment under the Noninsured Crop Disaster Assistance Program for the production year during which the disaster occurred;
 
-(2) The applicant's own production records, or the records of production on which FSA Farm Program payments are made contained in the applicant's Farm Program file, if available, for the previous 3 years, when the actual production history in paragraph (1) of this definition is not available;
+(ii) The applicant's own production records, or the records of production on which FSA Farm Program payments are made contained in the applicant's Farm Program file, if available, for the previous 3 years, when the actual production history in paragraph (i) of this definition is not available;
 
-(3) The county average production yield, when the production records outlined in paragraphs (1) and (2) of this definition are not available.
+(iii) The county average production yield, when the production records outlined in paragraphs (i) and (ii) of this definition are not available.
 
 *Operating loan* is a loan made to an eligible applicant to assist with the financial costs of operating a farm. The term also includes a Youth loan.
 
 *Operator* is the individual or entity that provides the labor, management, and capital to operate the farm. The operator can be either an owner-operator or tenant-operator. Under applicable State law, an entity may have to receive authorization from the State in which the farm is located to be the owner and/or operator of the farm. Operating-only entities may be considered owner-operators when the individuals who own the farm real estate own at least 50 percent of the family farm operation.
 
-*Participated in the business operations of a farm* requires that an applicant has:
+*Participated in the business operations of a farm* means that an individual has:
 
-(1) Been the owner, manager or operator of a farming operation for the year's complete production cycle as evidenced by tax returns, FSA farm records or similar documentation;
+(i) Been the manager or operator of a farming operation for the year's complete production cycle as evidenced by tax returns, FSA farm records or similar documentation;
 
-(2) Been employed as a farm manager or farm management consultant for the year's complete production cycle; or
+(ii) Been employed as a farm manager or farm management consultant for the year's complete production cycle; or
 
-(3) Participated in the operation of a farm by virtue of being raised on a farm or having worked on a farm (which can include a farm-related apprenticeship, internship, or similar educational program with applied work experience) with significant responsibility for the day-to-day decisions for the year's complete production cycle, which may include selection of seed varieties, weed control programs, input suppliers, or livestock feeding programs or decisions to replace or repair equipment.
+(iii) Participated in the operation of a farm by virtue of being raised on a farm or having worked on a farm (which can include a farm-related apprenticeship, internship, or similar educational program with applied work experience) with significant responsibility for the day-to-day decisions for the year's complete production cycle, which may include selection of seed varieties, weed control programs, input suppliers, livestock feeding programs, or decisions to replace or repair equipment.
 
 *Partnership* is any entity consisting of two or more individuals who have agreed to operate a farm as one business unit. The entity must be recognized as a partnership by the laws of the State in which the partnership will operate a farm. It also must be authorized to own both real and personal property and to incur debt in its own name.
 
@@ -512,17 +528,17 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Presidentially-designated emergency* is a major disaster or emergency designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 *et seq.*).
 
-*Primary loan servicing programs* include:
+*Primary loan servicing programs* means:
 
-(1) Loan consolidation and rescheduling, or reamortization;
+(i) Loan consolidation and rescheduling, or reamortization;
 
-(2) Interest rate reduction, including use of the limited resource rate program;
+(ii) Interest rate reduction, including use of the limited resource rate program;
 
-(3) Deferral;
+(iii) Deferral;
 
-(4) Write-down of the principal or accumulated interest; or
+(iv) Write-down of the principal or accumulated interest; or
 
-(5) Any combination of paragraphs (1) through (4) of this definition.
+(v) Any combination of paragraphs (i) through (iv) of this definition.
 
 *Production cycle* is the time it takes to produce an agricultural commodity from the beginning of the production process until it is normally disposed of or sold.
 
@@ -550,13 +566,15 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Related by blood or marriage* is being connected to one another as husband, wife, parent, child, brother, sister, uncle, aunt, or grandparent.
 
-*Relative* is the spouse and anyone having one of the following relationships to an applicant or borrower: parent, son, daughter, sibling, stepparent, stepson, stepdaughter, stepbrother, stepsister, half brother, half sister, uncle, aunt, nephew, niece, cousin, grandparent, grandson, granddaughter, or the spouses of the foregoing.
+*Related by blood or marriage* is being connected to one another as husband, wife, parent, child, brother, sister, uncle, aunt, grandparent, son, daughter, sibling, stepparent, stepson, stepdaughter, stepbrother, stepsister, half-brother, half-sister, son-in-law, daughter-in-law, father-in-law, mother-in-law, nephew, niece, cousin, grandson, granddaughter, or the spouses of any of those individuals. “Related by blood or marriage” is used for consistency with a requirement in the CONACT. It has the same meaning as the word “relative” for the Farm Loan Programs regulations in this Chapter.
+
+*Relative* means the spouse and anyone having one of the following relationships to an applicant or borrower: parent, son, daughter, sibling, stepparent, stepson, stepdaughter, stepbrother, stepsister, half-brother, half-sister, son-in-law, daughter-in-law, father-in-law, mother-in-law, uncle, aunt, nephew, niece, cousin, grandparent, grandson, granddaughter, or the spouses of any of those individuals. Relative has the same meaning as the term “related by blood or marriage” for the Farm Loan Programs regulations in this Chapter.
 
 *Repossessed property* is security property in the Agency's custody.
 
 *Rescheduling* is the rewriting of the rates or terms, or both, of a loan made for operating purposes.
 
-*Restructuring* is changing the terms of a debt through rescheduling, reamortization, deferral, writedown, or a combination thereof.
+*Restructuring* is changing the terms of a debt through rescheduling, reamortization, deferral, write-down, or a combination thereof.
 
 *Revolved funds* means the cash portion of an HPRP revolving loan fund that is not composed of HPRP loan funds, including funds that are repayments of HPRP loans and including fees and interest collected on such loans.
 
@@ -568,7 +586,7 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Security value* is the market value of real estate or chattel property (less the value of any prior liens) used as security for an Agency loan.
 
-*Shared Appreciation Agreement* is an agreement between the Agency, or a lender in the case of a guaranteed loan, and a borrower on the appropriate Agency form that requires the borrower who has received a writedown on a direct or guaranteed loan to repay the Agency or the lender some or all of the writedown received, based on a percentage of any increase in the value of the real estate securing an SAA at a future date.
+*Shared Appreciation Agreement* is an agreement between the Agency, or a lender in the case of a guaranteed loan, and a borrower on the appropriate Agency form that requires the borrower who has received a write-down on a direct or guaranteed loan to repay the Agency or the lender some or all of the write-down received, based on a percentage of any increase in the value of the real estate securing an SAA at a future date.
 
 *Socially disadvantaged applicant or farmer* is an individual or entity who is a member of a socially disadvantaged group. For an entity, the majority interest must be held by socially disadvantaged individuals. For married couples, the socially disadvantaged individual must have at least 50 percent ownership in the farm business and make most of the management decisions, contribute a significant amount of labor, and generally be recognized as the operator of the farm.
 
@@ -624,4 +642,4 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Youth loan* is an operating type loan made to an eligible rural youth applicant to finance a modest income-producing agricultural project.
 
-[72 FR 63285, Nov. 8, 2007; 72 FR 74153, Dec. 31, 2007, as amended at 73 FR 74344, Dec. 8, 2008; 75 FR 54012, Sept. 3, 2010; 76 FR 75430, Dec. 2, 2011; 77 FR 15938, May 18, 2012; 78 FR 3834, Jan. 16, 2013; 78 FR 14005, Mar. 4, 2013; 78 FR 65529, Nov. 1, 2013; 79 FR 60743, Oct. 8, 2014; 79 FR 78693, Dec. 31, 2014; 80 FR 74970, Dec. 1, 2015; 81 FR 3292, Jan. 21, 2016; 81 FR 72690, Oct. 21, 2016; 85 FR 36691, June 17, 2020; 86 FR 43390, Aug. 9, 2021; 87 FR 13123, Mar. 9, 2022]
+[72 FR 63285, Nov. 8, 2007; 72 FR 74153, Dec. 31, 2007, as amended at 73 FR 74344, Dec. 8, 2008; 75 FR 54012, Sept. 3, 2010; 76 FR 75430, Dec. 2, 2011; 77 FR 15938, May 18, 2012; 78 FR 3834, Jan. 16, 2013; 78 FR 14005, Mar. 4, 2013; 78 FR 65529, Nov. 1, 2013; 79 FR 60743, Oct. 8, 2014; 79 FR 78693, Dec. 31, 2014; 80 FR 74970, Dec. 1, 2015; 81 FR 3292, Jan. 21, 2016; 81 FR 72690, Oct. 21, 2016; 85 FR 36691, June 17, 2020; 86 FR 43390, Aug. 9, 2021; 87 FR 13123, Mar. 9, 2022; 89 FR 65035, Aug. 8, 2024]

@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 89 FR 57069, July 12, 2024.Link to an amendment published at 89 FR 72303, Sept. 5, 2024.Link to an amendment published at 89 FR 72308, Sept. 5, 2024.
+Link to an amendment published at 89 FR 72303, Sept. 5, 2024.Link to an amendment published at 89 FR 72308, Sept. 5, 2024.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
@@ -423,7 +423,7 @@ Model Number: NUHOMS® HD-32PTH.
 
 *Amendment Number 6 Effective Date:* March 22, 2023.
 
-*Amendment Number 7* [Reserved]
+*Amendment Number 7 Effective Date:* September 25, 2024.
 
 *Amendment Number 8 Effective Date:* October 11, 2022.
 
@@ -435,7 +435,7 @@ Model Number: NUHOMS® HD-32PTH.
 
 *Certificate Expiration Date:* June 12, 2031.
 
-*Model Number:* HI-STORM FW MPC-37, MPC-89.
+*Model Number:* HI-STORM FW MPC-32ML, MPC-37, MPC-37P, MPC-44, and MPC-89.
 
 Certificate Number: 1040.
 

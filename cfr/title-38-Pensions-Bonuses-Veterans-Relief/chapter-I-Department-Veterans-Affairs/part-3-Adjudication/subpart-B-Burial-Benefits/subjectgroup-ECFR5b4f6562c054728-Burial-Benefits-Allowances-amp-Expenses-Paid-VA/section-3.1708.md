@@ -1,5 +1,7 @@
 ##### § 3.1708 Burial of a veteran whose remains are unclaimed. #####
 
+Link to an amendment published at 89 FR 78254, Sept. 25, 2024.
+
 (a) *General.* VA will pay the maximum burial allowance specified in 38 U.S.C. 2302 for the burial and funeral expenses of a veteran described in paragraph (b) of this section, unless VA has evidence on the date it receives notice of the veteran's death that the expenses incurred were less than that amount.
 
 (b) *Eligibility.* A burial allowance is payable under this section for a veteran if the Secretary determines that:

@@ -1,5 +1,7 @@
 ##### § 3.1707 Plot or interment allowances for burial in a State veterans cemetery or other cemetery. #####
 
+Link to an amendment published at 89 FR 78254, Sept. 25, 2024.
+
 (a) *General eligibility.* For a veteran who was eligible for burial in a national cemetery under 38 U.S.C. 2402, but was not buried in a national cemetery or other cemetery under the jurisdiction of the U.S., VA will pay the allowances described below, provided all criteria are met.
 
 (b) *Plot or interment allowance for burial in a State veterans cemetery.* VA will pay the plot or interment allowance in the amount specified in 38 U.S.C. 2303(b)(1) (without regard to whether any other burial benefits were provided for that veteran) to a State, or an agency or political subdivision of a State, that provided a burial plot or interment for the veteran without charge if the State, or agency or political subdivision of the State:

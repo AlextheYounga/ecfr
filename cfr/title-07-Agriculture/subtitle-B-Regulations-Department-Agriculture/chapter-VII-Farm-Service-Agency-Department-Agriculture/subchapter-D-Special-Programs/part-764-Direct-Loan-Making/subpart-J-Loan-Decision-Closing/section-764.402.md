@@ -1,7 +1,5 @@
 ##### § 764.402 Loan closing. #####
 
-Link to an amendment published at 89 FR 65041, Aug. 8, 2024.
-
 (a) *Signature requirements.* Signatures on loan documents are required as follows:
 
 (1) For individual applicants, only the applicant is required to sign the promissory note.
@@ -50,7 +48,7 @@ Link to an amendment published at 89 FR 65041, Aug. 8, 2024.
 
 (vi) Not represent both the buyer and seller in the transaction;
 
-(vii) Not be related as a family member or business associate with the applicant; and
+(vii) Not be a relative or business associate with the applicant; and
 
 (viii) Act promptly to provide required services.
 
@@ -60,4 +58,4 @@ Link to an amendment published at 89 FR 65041, Aug. 8, 2024.
 
 (3) The Agency or closing agent will be responsible for disbursing loan funds. The electronic funds transfer process, followed by Treasury checks, are the Agency's preferred methods of loan funds disbursement. The Agency will use these processes on behalf of borrowers to disburse loan proceeds directly to creditors being refinanced with loan funds or to sellers of chattel property that is being acquired with loan funds. A supervised bank account will be used according to subpart B of part 761 of this chapter when these processes are not practicable.
 
-[72 FR 63298, Nov. 8, 2007. Redesignated at 75 FR 54015, Sept. 3, 2010, as amended at 77 FR 15939, Mar. 19, 2012; 79 FR 60745, Oct. 8, 2014; 87 FR 13124, Mar. 9, 2022]
+[72 FR 63298, Nov. 8, 2007. Redesignated at 75 FR 54015, Sept. 3, 2010, as amended at 77 FR 15939, Mar. 19, 2012; 79 FR 60745, Oct. 8, 2014; 87 FR 13124, Mar. 9, 2022; 89 FR 65041, Aug. 8, 2024]

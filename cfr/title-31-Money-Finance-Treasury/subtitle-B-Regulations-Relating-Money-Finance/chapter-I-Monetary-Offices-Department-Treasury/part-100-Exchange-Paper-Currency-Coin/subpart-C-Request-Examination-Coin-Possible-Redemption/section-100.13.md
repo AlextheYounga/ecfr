@@ -1,5 +1,7 @@
 ##### § 100.13 Notices. #####
 
+Link to an amendment published at 89 FR 78245, Sept. 25, 2024.
+
 (a) Additional information and procedures about the United States Mint's redemption of bent or partial coins can be found on the United States Mint's website.
 
 (b) Criminal penalties connected with the defacement or mutilation of U.S. coins are provided in 18 U.S.C. 331.

@@ -1,7 +1,5 @@
 ##### § 770.10 Servicing. #####
 
-Link to an amendment published at 89 FR 65063, Aug. 8, 2024.
-
 (a) *Reamortization*—(1) *Eligibility.* The Agency may consider reamortization of a loan provided:
 
 (i) The borrower submits a completed Agency application form; and
@@ -66,7 +64,7 @@ Link to an amendment published at 89 FR 65063, Aug. 8, 2024.
 
 (4) *Rental value write-down.* The Agency may reduce the unpaid principal and interest on any loan, so the annual loan payment for the remaining term of each loan equals the average of annual rental value of the land purchased by each such loan for the immediately preceding 5-year period provided:
 
-(i) The loan was made more than 5 years prior to the rental value writedown;
+(i) The loan was made more than 5 years prior to the rental value write-down;
 
 (ii) The description of the land purchased with the loan funds and the rental values used to calculate the 5 year average annual rental value of the land have been certified by the Department of the Interior;
 
@@ -84,4 +82,4 @@ Link to an amendment published at 89 FR 65063, Aug. 8, 2024.
 
 (3) The loan adequately secured by a general assignment of tribal income.
 
-[66 FR 1567, Jan. 9, 2001; 66 FR 47877, Sept. 14, 2001, as amended at 70 FR 7167, Feb. 11, 2005; 72 FR 51990, Sept. 12, 2007]
+[66 FR 1567, Jan. 9, 2001; 66 FR 47877, Sept. 14, 2001, as amended at 70 FR 7167, Feb. 11, 2005; 72 FR 51990, Sept. 12, 2007; 89 FR 65063, Aug. 8, 2024]

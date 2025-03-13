@@ -9,3 +9,7 @@
 (1) Conduct a thorough review of applications to relicense existing electric power generating projects and facilities, and applications to amend existing licenses to determine if the proposal is in accord with the comprehensive plan.
 
 (2) Require that the proposed siting and location in the basin of any type of electric generating facility or any facility located outside the basin having an effect on the waters of the basin, shall be planned in direct consultation with the Commission to enable advance consideration of the possible effects of such installation on the water resources of the basin.
+
+(d) Project sponsors proposing new or significantly modified power generation plants in the basin shall submit to the Commission for review an evaluation of their projected water use and consider all available and feasible technologies, including dry cooling, that could lower the consumptive use of water at the plant. For the purposes of this evaluation, a significantly modified power plant is one that is changing its fuel source or substantially increasing its consumptive use of water.
+
+[38 FR 4662, Feb. 20, 1973, as amended at 89 FR 78234, Sept. 25, 2024]

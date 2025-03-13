@@ -1,7 +1,5 @@
 ##### § 764.352 Eligibility requirements. #####
 
-Link to an amendment published at 89 FR 65041, Aug. 8, 2024.
-
 The applicant:
 
 (a) Must comply with the general eligibility requirements established at § 764.101.
@@ -36,7 +34,7 @@ The applicant:
 
 (4) Notwithstanding the applicant's submission of the required written declinations of credit, the Agency may contact other commercial lending institutions within reasonable proximity of the applicant and make an independent determination of the applicant's ability to obtain credit elsewhere.
 
-(f) And all entity members in the case of an entity, must not have received debt forgiveness from the Agency on more than one occasion on or before April 4, 1996, or any time after April 4, 1996. A write down associated with a restructuring action under Section 353 of the Act is not considered debt forgiveness for EM Loan purposes.
+(f) And all entity members in the case of an entity, must not have received debt forgiveness from the Agency on more than one occasion on or before April 4, 1996, or any time after April 4, 1996. A write-down associated with a restructuring action under Section 353 of the Act is not considered debt forgiveness for EM Loan purposes.
 
 (g) Must submit an application to be received by the Agency no later than 8 months after the date the disaster is declared or designated in the county of the applicant's operation.
 
@@ -56,4 +54,4 @@ The applicant:
 
 (l) Whose primary enterprise is to breed, raise, and sell horses may be eligible under this part.
 
-[72 FR 63298, Nov. 8, 2007, as amended at 76 FR 75434, Dec. 2, 2011; 87 FR 13124, Mar. 9, 2022]
+[72 FR 63298, Nov. 8, 2007, as amended at 76 FR 75434, Dec. 2, 2011; 87 FR 13124, Mar. 9, 2022; 89 FR 65041, Aug. 8, 2024]

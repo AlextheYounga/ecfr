@@ -1,5 +1,7 @@
 ##### § 3.1700 Types of VA burial benefits. #####
 
+Link to an amendment published at 89 FR 78253, Sept. 25, 2024.
+
 (a) *Burial benefits.* VA provides the following types of burial benefits, which are discussed in §§ 3.1700 through 3.1712:
 
 (1) Burial allowance based on service-connected death;

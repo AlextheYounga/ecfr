@@ -1,7 +1,5 @@
 ##### § 765.303 Use of proceeds from chattel security. #####
 
-Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
-
 (a) *General.* (1) Proceeds from the sale of basic security and normal income security must be remitted to lienholders in order of lien priority.
 
 (2) Proceeds remitted to the Agency may be used as follows:
@@ -24,6 +22,8 @@ Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
 
 (1) Proceeds from the sale of basic security may not be used for any family living and farm operating expenses.
 
-(2) Security may be exchanged for chattel property better suited to the borrower's needs if the Agency will acquire a lien on the new property at least equal in value to the lien held on the property exchanged.
+(2) Security may be exchanged for chattel property better suited to the borrower's farming needs if the Agency will acquire a lien on the new property at least equal in value to the lien held on the property exchanged.
 
-(3) Proceeds may be used to purchase chattel property better suited to the borrower's needs if the Agency will acquire a lien on the purchased property. The value of the purchased property, together with any proceeds applied to the FLP loan, must at least equal the value of the Agency lien on the old security.
+(3) Proceeds may be used to purchase chattel property better suited to the borrower's farming needs if the Agency will acquire a lien on the purchased property. The value of the purchased property, together with any proceeds applied to the FLP loan, must at least equal the value of the Agency lien on the old security.
+
+[72 FR 63309, Nov. 8, 2007, as amended at 89 FR 65042, Aug. 8, 2024]

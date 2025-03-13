@@ -1,6 +1,4 @@
-##### § 769.164 Post award requirements. #####
-
-Link to an amendment published at 89 FR 65063, Aug. 8, 2024.
+##### § 769.164 Postaward requirements. #####
 
 (a) *Applicability.* Whenever this subpart imposes a requirement on loan funds from the HPRP revolving loan fund, the requirement will apply to all loans made by an intermediary to an ultimate recipient from the intermediary's HPRP revolving loan fund for as long as any portion of the intermediary's HPRP loan remains unpaid.
 
@@ -30,15 +28,15 @@ Link to an amendment published at 89 FR 65063, Aug. 8, 2024.
 
 (7) The portion of the HPRP revolving loan fund consisting of HPRP loan funds may only be used for making loans in accordance with § 769.154. The portion of the HPRP revolving loan fund that consists of revolved funds may be used for debt service reserve, approved administrative costs, or for making additional loans;
 
-(8) A reasonable amount of revolved funds must be maintained as a reserve for bad debts. The total amount should not exceed maximum expected losses, considering the credit quality of the intermediary's portfolio of loans. The amount of reserved funds proposed by the intermediary requires written concurrence from the Agency. Unless the intermediary provides loss and delinquency records that, in the opinion of the Agency, justifies different amounts, a reserve for bad debts of 6 percent of outstanding loans must be accumulated over 5 years and then maintained; and
+(8) A reasonable amount of revolved funds must be maintained as a reserve for bad debts. The total amount should not exceed maximum expected losses, considering the credit quality of the intermediary's portfolio of loans. The amount of reserved funds proposed by the intermediary requires written concurrence from the Agency. Unless the intermediary provides loss and delinquency records that, in the opinion of the Agency, justifies different amounts, a reserve for bad debts of 6 percent of outstanding loans must be accumulated over 5 years and then maintained;
 
-(9) Any funds in the HPRP revolving loan fund from any source that is not needed for debt service reserve, approved administrative costs, or reasonable reserves must be available for additional loans to ultimate recipients.
+(9) Any funds in the HPRP revolving loan fund from any source that is not needed for debt service reserve, approved administrative costs, or reasonable reserves must be available for additional loans to ultimate recipients:
 
-(i) Funds may not be used for any investments in securities or certificates of deposit of over 30-day duration without the Agency's concurrence.
+(i) Funds may not be used for any investments in securities or certificates of deposit of over 30-day duration without the Agency's concurrence; and
 
-(ii) The intermediary must make one or more loans to ultimate recipients within 6 months of any disbursement it receives from the Agency. If funds have been unused to make loans to ultimate recipients for 6 months or more, those funds will be returned to the agency unless the Agency provides a written exception based on evidence satisfactory to the Agency that every effort is being made by the intermediary to utilize the HPRP funding in conformance with HPRP objectives;
+(ii) Any funds that have not been used within 6 months to make loans to an ultimate recipient must be returned to the Agency unless the Agency provides a written exception based on evidence satisfactory to the Agency that funds will be used within an additional 6 months;
 
-(10) All reserves and other cash in the HPRP revolving loan fund that are not immediately needed for loans to ultimate recipients or other authorized uses must be deposited in accounts in banks or other financial institutions. Such accounts must be fully covered by Federal deposit insurance or fully collateralized with other securities in accordance with normal banking practices and all applicable State laws. Any interest earned on the account remains a part of the HPRP revolving loan fund; and
+(10) All reserves and other cash in the HPRP revolving loan fund must be deposited in accounts in banks or other financial institutions. Such accounts must be fully covered by Federal deposit insurance or the HPRP revolving loan fund must be protected by alternative measures approved by the Agency. The account must be interest-bearing, if feasible, and any interest earned on the account remains a part of the HPRP revolving loan fund; and
 
 (11) If an intermediary receives more than one HPRP loan, it does not need to establish and maintain a separate HPRP revolving loan fund for each loan; it may combine them and maintain only one HPRP revolving loan fund.
 
@@ -57,3 +55,5 @@ Link to an amendment published at 89 FR 65063, Aug. 8, 2024.
 (g) *Annual monitoring reports.* Each intermediary will be monitored by the Agency through annual monitoring reports submitted by the intermediary. Annual monitoring reports must include a description of the use of loan funds, information regarding the acreage, the number of heirs both before and after loan was made, audit findings, disbursement transactions, and any other information required by the Agency, as necessary.
 
 (h) *Unused loan funds.* If any part of the HPRP loan has not been used in accordance with the intermediary's relending plan within 3 years from the date of the HPRP loan agreement, the Agency may cancel the approval of any funds not delivered to the intermediary. The Agency may also direct the intermediary to return any funds delivered to the intermediary that have not been used by that intermediary in accordance with the intermediary's relending plan. The Agency may, at its sole discretion, allow the intermediary additional time to use the HPRP loan funds.
+
+[86 FR 43393, Aug. 9, 2021, as amended at 89 FR 65063, Aug. 8, 2024]

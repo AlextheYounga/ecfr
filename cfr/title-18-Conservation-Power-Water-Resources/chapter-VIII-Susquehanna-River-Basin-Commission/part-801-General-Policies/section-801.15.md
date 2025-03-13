@@ -1,0 +1,27 @@
+##### § 801.15 Commission Procurement Procedures; Protests. #####
+
+(a) *Procedures.* The Commission shall maintain a policy entitled “SRBC Procurement Procedures” that outlines the details and procedures related to the purchasing and procurement of goods and services by the Commission. Any revisions to this policy shall be consistent with section 15.9 of the Compact and undertaken in accordance with appropriate public notice and comment consistent with the requirements of § 808.1.
+
+(b) *Right to protest.* A bidder or offeror, a prospective bidder or offeror or a prospective contractor that is aggrieved in connection with the solicitation or award of a contract, may protest to the Commission in writing.
+
+(c) *Filing of protest.* A protestant shall file the protest on a form and in a manner prescribed by the Commission. A protest shall be filed within ten calendar days after the aggrieved protestant knew or should have known of the facts giving rise to the protest, except that in no event may a protest be filed later than ten calendar days after the date the contract was awarded. The failure to file a timely protest shall be deemed as a waiver of the right to protest by any bidder or offeror, prospective bidder or offeror or a prospective contractor. Untimely filed protests shall be disregarded by the Commission. The Executive Director or his/her designee shall be the presiding officer to hear the bid protest. The awardee of the contract, if any, will be informed by the Commission of any bid protest that may affect the contract and the awardee may intervene as a party in any protest filed.
+
+(d) *Contents of protest.* A protest shall state all the grounds upon which the protestant asserts the solicitation or award of the contract was improper. The protestant may submit with the protest any documents or information it deems relevant to the protest.
+
+(e) *Response and reply.* Within 15 calendar days of receipt of a protest, the purchasing officer may submit to the presiding officer and the protestant a response to the protest, including any documents or information deemed relevant to the protest. The protestant may file a reply to the response within ten calendar days of the response.
+
+(f) *Evaluation of protest.* The presiding officer shall review the protest and any response or reply and may request and review such additional documents or information as they deem relevant to render a decision and may, at their sole discretion, conduct a hearing consistent with § 808.3 of this chapter. All parties will be provided with a reasonable opportunity to review and address any additional documents or information deemed relevant by the presiding officer to render a decision. Additional documents and information deemed relevant by the presiding officer will be included in the record.
+
+(g) *Findings and report.* Upon completing an evaluation of the protest, the presiding officer shall prepare a report of their findings and recommendations based on the record. The report shall be served by electronic mail or certified mail upon each party to the proceeding. Any party may file objections to the report. Such objections to the report shall be filed with the Commission and served on all parties within 20 calendar days after service of the report. A brief shall be filed together with the objections. Any replies to the objections and briefs will be filed and served on all parties within ten calendar days of service of the objections. Prior to its decision on such objections, the Commission may, in its sole discretion, grant a request for oral argument.
+
+(h) *Action by the Commission.* The Commission will review the findings and recommendations of the presiding officer and the objections and render a determination. The Commission's determination will be in writing and will be served by electronic or certified mail upon each party to the proceeding.
+
+(i) *Appeal.* Any final action by the Commission may be appealed to the appropriate United States District Court within 90 days as set forth in section 3.10(6) and Federal reservation (o) of the Compact.
+
+(j) *Record of determination.* The Commission's record of determination for review by the court shall consist of the solicitation; the contract, if any; the administrative record of the protest before the presiding officer; the report of the presiding officer, along with any objections and replies filed; transcripts and exhibits, if any; and the final determination of the Board of Commissioners.
+
+(k) *Stay of procurement during pendency of protest.* In the event a protest is filed timely under this section, the purchasing officer shall not proceed further with the solicitation or with the award of the contract unless and until the Executive Director makes a written determination that the protest is clearly without merit, or that award of the contract without delay is necessary to protect substantial interests of the Commission, or until the Commission enters a final determination under paragraph (h) of this section.
+
+(l) *Exclusive procedure.* This section shall be the exclusive procedure for protesting a solicitation or award of a contract by a bidder or offeror, a prospective bidder or offeror or a prospective contractor that is aggrieved in connection with the solicitation or award of a contract by the Commission.
+
+[89 FR 78234, Sept. 25, 2024]

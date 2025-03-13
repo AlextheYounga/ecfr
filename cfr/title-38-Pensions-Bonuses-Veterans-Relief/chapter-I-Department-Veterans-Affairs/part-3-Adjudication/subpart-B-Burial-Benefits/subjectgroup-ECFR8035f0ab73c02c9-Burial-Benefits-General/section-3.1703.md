@@ -1,5 +1,7 @@
 ##### § 3.1703 Claims for burial benefits. #####
 
+Link to an amendment published at 89 FR 78254, Sept. 25, 2024.
+
 (a) *When claims must be filed*—(1) *General rule.* Except as provided in paragraph (a)(2) of this section, VA must receive a claim for the non-service-connected burial allowance no later than 2 years after the burial of the veteran. There are no other time limitations to file claims for burial benefits under subpart B of this part.
 
 (2) *Correction of character of discharge.* If the non-service-connected burial allowance was not payable at the time of the veteran's death or burial because of the character of the veteran's discharge from service, VA may pay the allowance if a competent authority corrects the deceased veteran's discharge to reflect a discharge under conditions other than dishonorable. Claims for the non-service-connected burial allowance must be filed no later than 2 years after the date that the discharge was corrected.

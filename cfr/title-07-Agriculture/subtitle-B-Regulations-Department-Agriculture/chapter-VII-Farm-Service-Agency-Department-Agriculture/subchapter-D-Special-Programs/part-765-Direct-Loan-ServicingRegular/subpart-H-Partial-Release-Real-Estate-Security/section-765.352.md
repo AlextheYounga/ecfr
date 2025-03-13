@@ -1,7 +1,5 @@
 ##### § 765.352 Use of proceeds. #####
 
-Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
-
 (a) Proceeds from transactions affecting the real estate security may only be used as follows:
 
 (1) Applied on liens in order of priority;
@@ -30,4 +28,24 @@ Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
 
 (v) Construction and development will be completed in accordance with § 761.10 of this chapter.
 
+(4) To pay capital gains taxes on real estate transactions when the following conditions are met:
+
+(i) The borrower is unable to obtain commercial credit at reasonable rates and terms to pay the capital gains taxes;
+
+(ii) The Agency approves the amount to be retained to pay capital gains taxes;
+
+(iii) The remaining Agency debt is fully secured;
+
+(iv) All other lienholders will:
+
+(A) Be fully satisfied from the sale, or
+
+(B) Consent to the use of proceeds to be used to pay capital gains taxes;
+
+(v) At the borrower's expense, funds will be held in escrow, or deposited in a supervised bank account in accordance with subpart B of part 761 of this chapter; and
+
+(vi) Funds that are not used within 18 months towards the capital gains taxes will be remitted to the Agency.
+
 (b) After acceleration, the Agency may approve transactions only when all the proceeds will be applied to the liens against the security in the order of their priority, after deducting customary costs appropriate to the transaction. Such approval will not cancel or delay liquidation, unless all loan defaults are otherwise cured.
+
+[72 FR 63309, Nov. 8, 2007, as amended at 89 FR 65043, Aug. 8, 2024]

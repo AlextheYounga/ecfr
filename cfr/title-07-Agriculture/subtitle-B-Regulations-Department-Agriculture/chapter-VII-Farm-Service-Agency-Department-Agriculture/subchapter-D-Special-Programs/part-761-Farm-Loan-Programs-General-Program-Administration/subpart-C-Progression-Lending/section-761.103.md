@@ -1,14 +1,12 @@
 ##### § 761.103 Farm assessment. #####
 
-Link to an amendment published at 89 FR 65037, Aug. 8, 2024.
-
 (a) The Agency, in collaboration with the applicant, will assess the farming operation to:
 
 (1) Determine the applicant's financial condition, organizational structure, and management strengths and weaknesses;
 
 (2) Identify and prioritize training and progression lending needs; and
 
-(3) Develop a progressive lending plan to assist the borrower in achieving financial viability and transitioning to private commercial credit or other sources of credit in the shortest time practicable, except for CL.
+(3) Develop a progression lending plan to assist the borrower in achieving financial viability and transitioning to private commercial credit or other sources of credit at reasonable rates and terms, except for CL.
 
 (b) Except for ML, the initial assessment must evaluate, at a minimum, the:
 
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 65037, Aug. 8, 2024.
 
 (2) Type of farming operation;
 
-(3) Goals for the operation;
+(3) The short- and long-term goals of the operation, including goals to reasonably increase working capital reserves and savings, including reasonable savings for retirement and education, to support operational stability and growth, and goals for progression towards graduation to commercial credit or eventual self-financing;
 
 (4) Adequacy of real estate, including facilities, to conduct the farming operation;
 
@@ -38,9 +36,9 @@ Link to an amendment published at 89 FR 65037, Aug. 8, 2024.
 
 (2) Amount of assistance necessary to cover expenses to carry out the proposed farm operating plan, including building an adequate equity base;
 
-(3) The goals of the operation;
+(3) The short- and long-term goals of the operation, including goals to reasonably increase working capital reserves and savings, including reasonable savings for retirement and education, to support operational stability and growth, and goals for progression towards graduation to commercial credit or eventual self-financing;
 
-(4) The financial viability of the entire operation, including a marketing plan, and available production history, as applicable;
+(4) The short- and long-term financial viability of the farming operation, including a marketing plan, and available production history, as applicable;
 
 (5) Progression lending plan; and
 
@@ -52,4 +50,4 @@ Link to an amendment published at 89 FR 65037, Aug. 8, 2024.
 
 (f) If a CL borrower becomes financially distressed, delinquent, or receives any servicing options available under part 766 of this chapter, all elements of the assessment in paragraph (b) of this section must be addressed.
 
-[72 FR 63285, Nov. 8, 2007, as amended at 75 FR 54012, Sept. 3, 2010; 76 FR 5057, Jan. 28, 2011; 78 FR 3835, Jan. 17, 2013; 78 FR 65529, Nov. 1, 2013; 86 FR 43391, Aug. 9, 2021; 87 FR 13123, Mar. 9, 2022]
+[72 FR 63285, Nov. 8, 2007, as amended at 75 FR 54012, Sept. 3, 2010; 76 FR 5057, Jan. 28, 2011; 78 FR 3835, Jan. 17, 2013; 78 FR 65529, Nov. 1, 2013; 86 FR 43391, Aug. 9, 2021; 87 FR 13123, Mar. 9, 2022; 89 FR 63037, Aug. 8, 2024]

@@ -1,7 +1,5 @@
 ##### § 766.107 Consolidation and rescheduling. #####
 
-Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
-
 (a) *Loans eligible for consolidation.* The Agency may consolidate OL loans if:
 
 (1) The borrower meets the loan servicing eligibility requirements in § 766.104;
@@ -20,7 +18,7 @@ Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
 
 (8) The Agency has not serviced the loans for unauthorized assistance under subpart F of this part; and
 
-(9) The loan is not currently deferred, as described in § 766.109, or set-aside, as described in subpart B of this part. The Agency may consolidate loans upon cancellation of the deferral or DSA.
+(9) The loan is not currently deferred, as described in § 766.109, or set-aside, as described in subpart B or J of this part. The Agency may consolidate loans upon cancellation of the deferral, DBSA, or DSA.
 
 (b) *Loans eligible for rescheduling.* The Agency may reschedule loans made for chattel purposes, including OL, CL, SW, RL, EE, or EM if:
 
@@ -34,7 +32,7 @@ Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
 
 (5) The borrower is in compliance with the Highly Erodible Land and Wetland Conservation requirements of 7 CFR part 12, if applicable; and
 
-(6) The loan is not currently deferred, as described in § 766.109, or set-aside, as described in subpart B of this part. The Agency may reschedule loans upon cancellation of the deferral or DSA.
+(6) The loan is not currently deferred, as described in § 766.109, or set-aside, as described in subpart B or J of this part. The Agency may reschedule loans upon cancellation of the deferral, DBSA, or DSA.
 
 (c) *Consolidated and rescheduled loan terms.* (1) The Agency determines the repayment schedule for consolidated and rescheduled loans according to the borrower's repayment ability.
 
@@ -76,4 +74,4 @@ Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
 
 (f) *Installments.* If there are no deferred installments, the first installment payment under the consolidation and rescheduling will be at least equal to the interest amount which will accrue on the new principal between the date the promissory note is executed and the next installment due date.
 
-[72 FR 63316, Nov. 8, 2007, as amended at 75 FR 54016, Sept. 3, 2010; 87 FR 13124, Mar. 9, 2022]
+[72 FR 63316, Nov. 8, 2007, as amended at 75 FR 54016, Sept. 3, 2010; 87 FR 13124, Mar. 9, 2022; 89 FR 65044, Aug. 8, 2024]

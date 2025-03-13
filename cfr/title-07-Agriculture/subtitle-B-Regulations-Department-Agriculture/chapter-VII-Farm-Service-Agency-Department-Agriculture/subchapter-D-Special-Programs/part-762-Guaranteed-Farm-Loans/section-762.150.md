@@ -1,7 +1,5 @@
 ##### § 762.150 Interest assistance program. #####
 
-Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
-
 (a) *Requests for interest assistance.* In addition to the loan application items required by § 762.110, to apply for interest assistance the lender's cash flow budget for the guaranteed applicant must reflect the need for interest assistance and the ability to cash flow with the subsidy. Interest assistance is available only on new guaranteed Operating Loans (OL).
 
 (b) *Eligibility requirements.* The lender must document that the following conditions have been met for the applicant to be eligible for interest assistance:
@@ -62,7 +60,7 @@ Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
 
 (7) Lenders may not charge or cause a borrower with an interest assistance agreement to be charged a fee for preparation and submission of the items required for an annual interest assistance claim.
 
-(j) *Transfer, consolidation, and writedown.* Loans covered by interest assistance agreements cannot be consolidated. Such loans can be transferred only when the transferee was liable for the debt on the effective date of the interest assistance agreement. Loans covered by interest assistance can be transferred to an entity if the entity is eligible in accordance with §§ 762.120 and 762.150(b) and at least one entity member was liable for the debt on the effective date of the interest assistance agreement. Interest assistance will be discontinued as of the date of any writedown on a loan covered by an interest assistance agreement.
+(j) *Transfer, consolidation, and write-down.* Loans covered by interest assistance agreements cannot be consolidated. Such loans can be transferred only when the transferee was liable for the debt on the effective date of the interest assistance agreement. Loans covered by interest assistance can be transferred to an entity if the entity is eligible in accordance with §§ 762.120 and 762.150(b) and at least one entity member was liable for the debt on the effective date of the interest assistance agreement. Interest assistance will be discontinued as of the date of any write-down on a loan covered by an interest assistance agreement.
 
 (k) *Rescheduling and deferral.* When a borrower defaults on a loan with interest assistance or the loan otherwise requires rescheduling or deferral, the interest assistance agreement will remain in effect for that loan at its existing terms. The lender may reschedule the loan in accordance with § 762.145. For Interest Assistance Agreements dated June 8, 2007 or later increases in the restructured loan amount above the amount originally obligated do not require additional funding; however, interest assistance is not available on that portion of the loan as interest assistance is limited to the original loan amount.
 
@@ -82,4 +80,4 @@ Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
 
 (q) *Exception Authority.* The Deputy Administrator for Farm Loan Programs has the authority to grant an exception to any requirement involving interest assistance if it is in the best interest of the Government and is not inconsistent with other applicable law.
 
-[72 FR 17358, Apr. 9, 2007, as amended at 78 FR 14005, Mar. 4, 2013; 78 FR 65530, Nov. 1, 2013]
+[72 FR 17358, Apr. 9, 2007, as amended at 78 FR 14005, Mar. 4, 2013; 78 FR 65530, Nov. 1, 2013; 89 FR 65038, Aug. 8, 2024]

@@ -1,5 +1,7 @@
 ##### § 3.1705 Burial allowance based on non-service-connected death. #####
 
+Link to an amendment published at 89 FR 78254, Sept. 25, 2024.
+
 (a) *General rule.* VA will pay the maximum burial allowance specified in 38 U.S.C. 2302 for the burial and funeral expenses of a veteran described in paragraph (b) of this section, unless VA has evidence on the date it receives notice of the veteran's death that the expenses incurred were less than that amount. Payment of the non-service-connected burial allowance is subject to other applicable regulations in subpart B of this part.
 
 (b) *Eligibility.* A burial allowance is payable under this section for a veteran who, on the date of death:

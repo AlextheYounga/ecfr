@@ -1,5 +1,7 @@
 ##### § 3.1702 Persons who may receive burial benefits; priority of payments. #####
 
+Link to an amendment published at 89 FR 78254, Sept. 25, 2024.
+
 (a) *Automatic payments to surviving spouses of eligible deceased veterans.* (1) On or after July 7, 2014, VA may automatically pay a burial benefit to an eligible veteran's surviving spouse, whether or not previously established as a dependent spouse on the deceased veteran's compensation or pension award, when VA knows of or is informed of the existence of the surviving spouse, can establish the surviving spouse's relationship under § 3.204 (when applicable), and is able to determine burial benefits eligibility based on evidence of record at the time VA updates its computer system to reflect the veteran's date of death.
 
 (2) VA may grant additional burial benefits, including the plot or interment allowance, reimbursement for transportation, and the service-connected burial allowance under § 3.1704, to the surviving spouse or any other eligible person in accordance with paragraph (b) of this section and based on a claim described in § 3.1703.

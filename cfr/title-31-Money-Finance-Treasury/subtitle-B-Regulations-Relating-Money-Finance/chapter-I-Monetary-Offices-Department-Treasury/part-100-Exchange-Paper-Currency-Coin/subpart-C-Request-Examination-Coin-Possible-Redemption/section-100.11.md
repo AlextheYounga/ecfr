@@ -1,5 +1,7 @@
 ##### § 100.11 Request for examination of bent or partial coin for possible redemption. #####
 
+Link to an amendment published at 89 FR 78244, Sept. 25, 2024.
+
 (a) *General.* Lawfully held bent or partial coins of the United States may be submitted to the United States Mint for examination in accordance with the provisions in this subpart. Any submission under this subpart shall be deemed an acceptance of all provisions of this subpart.
 
 (b) *Definitions.* (1) Bent coins are U.S. coins which are bent or deformed so as to preclude normal machine counting but which are readily and clearly identifiable as to genuineness and denomination.

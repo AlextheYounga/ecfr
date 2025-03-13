@@ -1,7 +1,5 @@
 ##### § 761.104 Developing the farm operating plan. #####
 
-Link to an amendment published at 89 FR 65037, Aug. 8, 2024.
-
 (a) An applicant or borrower must submit a farm operating plan to the Agency, upon request, for loan making or servicing purposes.
 
 (b) An applicant or borrower may request Agency assistance in developing the farm operating plan.
@@ -34,8 +32,10 @@ Link to an amendment published at 89 FR 65037, Aug. 8, 2024.
 
 (e) For MLs, when projected yields and unit prices cannot be determined as specified in paragraphs (c) and (d) of this section because the data is not available or practicable, other documentation from other reliable sources may be used to assist in developing the applicant's farm operating plan.
 
-(f) Except as provided in paragraph (g) of this section, the applicant or borrower must sign the final farm operating plan prior to approval of any loan or servicing action.
+(f) Development of farm operating plans and determination of appropriate repayment terms must include consideration of a reasonable amount of cash flow margin to increase working capital reserves and savings, including reasonable savings for retirement and education, to support operational stability and growth.
 
-(g) If the Agency believes the applicant or borrower's farm operating plan is inaccurate, or the information upon which it is based cannot be verified, the Agency will discuss and try to resolve the concerns with the applicant or borrower. If an agreement cannot be reached, the Agency will make loan approval and servicing determinations based on the Agency's revised farm operating plan.
+(g) Except as provided in paragraph (h) of this section, the applicant or borrower must sign the final farm operating plan prior to approval of any loan or servicing action.
 
-[72 FR 63285, Nov. 8, 2007, as amended at 78 FR 3835, Jan. 17, 2013; 86 FR 43391, Aug. 9, 2021]
+(h) If the Agency believes the applicant or borrower's farm operating plan is inaccurate, or the information upon which it is based cannot be verified, the Agency will discuss and try to resolve the concerns with the applicant or borrower. If an agreement cannot be reached, the Agency will make loan approval and servicing determinations based on the Agency's revised farm operating plan.
+
+[72 FR 63285, Nov. 8, 2007, as amended at 78 FR 3835, Jan. 17, 2013; 86 FR 43391, Aug. 9, 2021; 89 FR 65037, Aug. 8, 2024]

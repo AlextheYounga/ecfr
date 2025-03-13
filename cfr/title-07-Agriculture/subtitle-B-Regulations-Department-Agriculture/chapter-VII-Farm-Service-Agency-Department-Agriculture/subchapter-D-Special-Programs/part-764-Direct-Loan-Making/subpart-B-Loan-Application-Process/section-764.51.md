@@ -1,7 +1,5 @@
 ##### § 764.51 Loan application. #####
 
-Link to an amendment published at 89 FR 65039, Aug. 8, 2024.
-
 (a) A loan application must be submitted in the name of the actual operator of the farm. Two or more applicants applying jointly will be considered an entity applicant. The Agency will consider tax filing status and other business dealings as indicators of the operator of the farm.
 
 (b) A complete loan application, except as provided in paragraphs (c) through (f) of this section, will include:
@@ -26,7 +24,7 @@ Link to an amendment published at 89 FR 65039, Aug. 8, 2024.
 
 (5) The last 3 years of farm production records, unless the applicant has been farming less than 3 years;
 
-(6) Except for CL, documentation that the applicant and each member of an entity applicant cannot obtain sufficient credit elsewhere on reasonable rates and terms, including a loan guaranteed by the Agency;
+(6) Except for CL, documentation that the applicant and each member of an entity applicant cannot obtain sufficient credit elsewhere on reasonable rates and terms, including a loan guaranteed by the Agency. The authorized Agency official will evaluate and document whether or not rates and terms of available credit in the applicant's region will result in a reasonable amount of cash flow margin to increase working capital reserves and savings, including reasonable savings for retirement and education, to support operational stability and growth;
 
 (7) Documentation of compliance with the Agency's environmental regulations contained in part 799 of this chapter;
 
@@ -34,7 +32,7 @@ Link to an amendment published at 89 FR 65039, Aug. 8, 2024.
 
 (9) A current financial statement and the operation's farm operating plan, including the projected cash flow budget reflecting production, income, expenses, and loan repayment plan;
 
-(10) A legal description of the farm property owned or to be acquired and, if applicable, any leases, contracts, options, and other agreements with regard to the property;
+(10) A legal description of the farm property owned or to be acquired and, upon Agency request, any leases, contracts, options, and other agreements related to the operation;
 
 (11) Payment to the Agency for ordering a credit report on the applicant;
 
@@ -116,4 +114,4 @@ Link to an amendment published at 89 FR 65039, Aug. 8, 2024.
 
 (g) The applicant need not submit any information under this section that already exists in the applicant's Agency file and is still current.
 
-[72 FR 63298, Nov. 8, 2007, as amended at 75 FR 54015, Sept. 3, 2010; 76 FR 75434, Dec. 2, 2011; 77 FR 15938, Mar. 19, 2012; 78 FR 3835, Jan. 17, 2013; 79 FR 60744, Oct. 8, 2014; 81 FR 3292, Jan. 21, 2016; 81 FR 51284, Aug. 3, 2016]
+[72 FR 63298, Nov. 8, 2007, as amended at 75 FR 54015, Sept. 3, 2010; 76 FR 75434, Dec. 2, 2011; 77 FR 15938, Mar. 19, 2012; 78 FR 3835, Jan. 17, 2013; 79 FR 60744, Oct. 8, 2014; 81 FR 3292, Jan. 21, 2016; 81 FR 51284, Aug. 3, 2016; 89 FR 65039, Aug. 8, 2024]

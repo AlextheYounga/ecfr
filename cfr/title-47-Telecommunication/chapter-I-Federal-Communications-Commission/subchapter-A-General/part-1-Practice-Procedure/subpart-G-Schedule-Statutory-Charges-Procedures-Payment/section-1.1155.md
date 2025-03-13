@@ -2,7 +2,7 @@
 
 |                                                                             |Fee amount|
 |-----------------------------------------------------------------------------|----------|
-|                      1. Cable Television Relay Service                      |  $1,720  |
-|2. Cable TV System, Including IPTV (per subscriber), and DBS (per subscriber)|   1.23   |
+|                      1. Cable Television Relay Service                      |  $1,825  |
+|2. Cable TV System, Including IPTV (per subscriber), and DBS (per subscriber)|   1.27   |
 
-[88 FR 63744, Sept. 15, 2023]
+[89 FR 78510, Sept. 25, 2024]

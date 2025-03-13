@@ -1,7 +1,5 @@
 ##### § 762.124 Interest rates, terms, charges, and fees. #####
 
-Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
-
 (a) *Interest rates.* (1) The interest rate on a guaranteed loan or line of credit may be fixed or variable as agreed upon between the borrower and the lender. The lender may charge different rates on the guaranteed and the non-guaranteed portions of the note. The guaranteed portion may be fixed while the unguaranteed portion may be variable, or vice versa. If both portions are variable, different bases may be used.
 
 (2) If a variable rate is used, it must be tied to an index or rate specifically agreed to between the lender and borrower in the loan instruments and the rate adjustments must be in accordance with normal practices of the lender for unguaranteed loans. Upon request, the lender must provide the Agency with copies of its written rate adjustment practices.
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
 
 (e) *Balloon installments under loan note guarantee.* Balloon payment terms are permitted on FO, OL, or CL subject to the following:
 
-(1) Extended repayment schedules may include equal, unequal, or balloon installments if needed on any guaranteed loan to establish a new enterprise, develop a farm, or recover from a disaster or an economical reversal.
+(1) Extended repayment schedules may include equal, unequal, or balloon installments if needed by a borrower on any guaranteed loan to establish a new enterprise, develop a farm, recover from a disaster or an economical reversal, or reasonably increase cash flow margin to increase working capital reserves and savings, including reasonable savings for retirement and education.
 
 (2) Loans with balloon installments must have adequate collateral at the time the balloon installment comes due. Crops, livestock other than breeding livestock, or livestock products produced are not sufficient collateral for securing such a loan.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
 
 (3) Lenders may not charge a loan origination and servicing fee greater than 1 percent of the loan amount for the life of the loan when a guaranteed loan is made in conjunction with a down payment FO under part 764 of this chapter.
 
-[64 FR 7378, Feb. 12, 1999, as amended at 72 FR 17358, Apr. 9, 2007; 72 FR 63297, Nov. 8, 2007; 73 FR 74345, Dec. 8, 2008; 75 FR 54014, Sept. 3, 2010; 77 FR 15938, Mar. 19, 2012; 78 FR 14005, Mar. 4, 2013; 87 FR 13123, Mar. 9, 2022]
+[64 FR 7378, Feb. 12, 1999, as amended at 72 FR 17358, Apr. 9, 2007; 72 FR 63297, Nov. 8, 2007; 73 FR 74345, Dec. 8, 2008; 75 FR 54014, Sept. 3, 2010; 77 FR 15938, Mar. 19, 2012; 78 FR 14005, Mar. 4, 2013; 87 FR 13123, Mar. 9, 2022; 89 FR 65038, Aug. 8, 2024]

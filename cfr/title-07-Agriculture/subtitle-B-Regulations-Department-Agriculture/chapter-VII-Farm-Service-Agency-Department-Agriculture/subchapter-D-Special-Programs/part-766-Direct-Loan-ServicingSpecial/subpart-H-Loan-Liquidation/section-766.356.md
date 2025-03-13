@@ -1,7 +1,5 @@
 ##### § 766.356 Acceleration of loans to American Indian borrowers. #####
 
-Link to an amendment published at 89 FR 65045, Aug. 8, 2024.
-
 (a) *General.* (1) The Agency accelerates loans to American Indian borrowers whose real estate is located on an Indian reservation in accordance with this section, unless State law imposes separate restrictions on accelerations.
 
 (2) The Agency accelerates all of the borrower's loans at the same time, regardless of whether each individual loan is delinquent or not.
@@ -28,7 +26,7 @@ Link to an amendment published at 89 FR 65045, Aug. 8, 2024.
 
 (A) The Tribe must execute the promissory note and loan documents within 90 calendar days of receipt from the Agency;
 
-(B) Such loan may not be considered for debt writedown under 7 CFR part 770.
+(B) Such loan may not be considered for debt write-down under 7 CFR part 770.
 
 (iv) The Tribe's failure to respond to the request for assignment of the loan or to finalize the assignment transaction within the time provided, shall be treated as the Tribe's denial of the request.
 
@@ -69,3 +67,5 @@ Link to an amendment published at 89 FR 65045, Aug. 8, 2024.
 (2) The borrower does not voluntarily convey the property to the Agency;
 
 (3) Neither the Tribe nor the Secretary of the Interior accepts assignment of the borrower's loan.
+
+[72 FR 63316, Nov. 8, 2007, as amended at 89 FR 65045, Aug. 8, 2024]

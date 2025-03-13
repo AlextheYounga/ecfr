@@ -1,7 +1,5 @@
 ##### § 766.1 Introduction. #####
 
-Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
-
 (a) This part describes the Agency's servicing policies for direct loan borrowers who:
 
 (1) Are financially distressed;
@@ -18,10 +16,12 @@ Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
 
 (1) Youth loans:
 
-(i) May not receive Disaster Set-Aside under subpart B of this part;
+(i) May not receive DSA under subpart B of this part or DBSA under subpart J of this part;
 
 (ii) Will only be considered for rescheduling according to § 766.107 and deferral according to § 766.109.
 
 (2) The Agency does not service Non-program loans under this part except where noted.
 
 (c) The Agency requires the borrower to make every reasonable attempt to make payments and comply with loan agreements before the Agency considers special servicing.
+
+[72 FR 63316, Nov. 8, 2007, as amended at 89 FR 65043, Aug. 8, 2024]

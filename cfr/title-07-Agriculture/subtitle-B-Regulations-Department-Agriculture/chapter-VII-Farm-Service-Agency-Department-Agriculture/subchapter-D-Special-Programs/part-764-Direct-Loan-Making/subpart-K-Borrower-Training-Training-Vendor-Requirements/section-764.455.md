@@ -1,5 +1,5 @@
 ##### § 764.455 Potential training vendors. #####
 
-Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
+The Agency will contract for training services with State or private providers of financial management training services.
 
-The Agency will contract for training services with State or private providers of production and financial management training services.
+[72 FR 63298, Nov. 8, 2007, as amended at 89 FR 65041, Aug. 8, 2024]

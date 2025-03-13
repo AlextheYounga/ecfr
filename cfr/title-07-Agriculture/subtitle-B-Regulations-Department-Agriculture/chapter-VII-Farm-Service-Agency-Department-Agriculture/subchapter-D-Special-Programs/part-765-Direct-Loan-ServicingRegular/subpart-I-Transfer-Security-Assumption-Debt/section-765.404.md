@@ -1,7 +1,5 @@
 ##### § 765.404 Transfer of security to and assumption of debt by ineligible applicants. #####
 
-Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
-
 (a) *General.* (1) The Agency will allow the transfer of real estate and chattel security property to applicants who are ineligible for the type of loan being assumed only on Non-program loan rates and terms.
 
 (2) The Agency will reclassify the assumed loan as a Non-program loan.
@@ -18,10 +16,14 @@ Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
 
 (c) *Assumption amount.* The transferee must assume the total outstanding FLP debt or if the value of the property is less than the entire amount of debt, an amount equal to the market value of the security less any prior liens. The total outstanding FLP debt will include any unpaid deferred interest that accrued on the loan to the extent that the debt does not exceed the security's market value.
 
-(d) *Downpayment.* Non-program transferees must make a downpayment to the Agency of not less than 10 percent of the lesser of the market value or unpaid debt.
+(d) *Down payment.* Non-program transferees must make a down payment to the Agency of not less than 10 percent of the lesser of the market value or unpaid debt.
 
 (e) *Interest rate.* The interest rate will be the Non-program interest rate in effect at the time of loan approval.
 
 (f) *Loan terms.* (1) For a Non-program loan secured by real estate, the Agency schedules repayment in 25 years or less, based on the applicant's repayment ability.
 
 (2) For a Non-program loan secured by chattel property only, the Agency schedules repayment in 5 years or less, based on the applicant's repayment ability.
+
+(g) *Security.* All security must be transferred to the transferee with possession taken in accordance with the requirements of part 764 of this chapter for the type of loan being assumed.
+
+[72 FR 63309, Nov. 8, 2007, as amended at 89 FR 65043, Aug. 8, 2024]

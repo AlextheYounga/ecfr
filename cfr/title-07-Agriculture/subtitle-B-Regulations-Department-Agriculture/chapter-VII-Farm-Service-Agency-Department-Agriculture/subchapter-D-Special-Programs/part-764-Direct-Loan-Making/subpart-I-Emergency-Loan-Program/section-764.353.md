@@ -1,7 +1,5 @@
 ##### § 764.353 Limitations. #####
 
-Link to an amendment published at 89 FR 65041, Aug. 8, 2024.
-
 (a) EM loans must comply with the general limitations established at § 764.102.
 
 (b) EM loans may not exceed the lesser of:
@@ -20,7 +18,7 @@ Link to an amendment published at 89 FR 65041, Aug. 8, 2024.
 
 (3) Multiply the volume of the production loss by the market price for such crop as determined by the Agency to determine the dollar value for the production loss; and
 
-(4) Subtract any other disaster related compensation or insurance indemnities received or to be received by the applicant for the production loss.
+(4) Subtract any related compensation or insurance indemnities received or to be received by the applicant for the loss.
 
 (d) For a physical loss loan, the applicant's total eligible physical losses will be calculated as follows:
 
@@ -58,4 +56,4 @@ Link to an amendment published at 89 FR 65041, Aug. 8, 2024.
 
 (g) Losses associated with horses used for racing, showing, recreation, or pleasure or loss of income derived from racing, showing, recreation, boarding, or pleasure are not considered qualified losses under this section.
 
-[72 FR 63298, Nov. 8, 2007, as amended at 76 FR 75434, Dec. 2, 2011]
+[72 FR 63298, Nov. 8, 2007, as amended at 76 FR 75434, Dec. 2, 2011; 89 FR 65041, Aug. 8, 2024]

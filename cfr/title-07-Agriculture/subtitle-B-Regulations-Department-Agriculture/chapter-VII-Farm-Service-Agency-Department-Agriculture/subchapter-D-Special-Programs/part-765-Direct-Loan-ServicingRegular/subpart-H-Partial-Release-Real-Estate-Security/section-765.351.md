@@ -1,7 +1,5 @@
 ##### § 765.351 Requirements to obtain Agency consent. #####
 
-Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
-
 The borrower must obtain prior consent from the Agency for any transactions affecting the real estate security, including, but not limited to, sale or exchange of security, a right-of-way across security, and a partial release. The Agency may consent to such transactions provided the conditions in this section are met.
 
 (a) *General.* The following conditions apply to all transactions affecting real estate:
@@ -10,7 +8,7 @@ The borrower must obtain prior consent from the Agency for any transactions affe
 
 (2) The transaction will not jeopardize the borrower's ability to repay the FLP loan, or is necessary to place the borrower's farming operation on a sound basis;
 
-(3) Except for releases in paragraph (f) of this section, the amount received by the borrower for the security being disposed of, or the rights being granted, is not less than the market value and will be remitted to the lienholders in the order of lien priority;
+(3) Except for releases in paragraph (f) of this section, the amount paid for the security being disposed of, or the rights being granted, is not less than the market value and will be remitted to the lienholders in the order of lien priority;
 
 (4) The transaction must not interfere with the borrower's farming operation;
 
@@ -58,26 +56,22 @@ The borrower must obtain prior consent from the Agency for any transactions affe
 
 (3) The borrower may transfer crop allotments to another farm owned or controlled by the borrower. Such transfer will be treated as a lease under § 765.252.
 
-(f) *Release without compensation.* Real estate security may be released by FSA without compensation when the requirements of paragraph (a) of this section, except paragraph (a)(3) of this section, are met, and:
+(f) *Release without compensation.* Real estate security may be released by FSA without compensation upon written request from the borrower when the requirements of paragraph (a) of this section, except paragraph (a)(3) of this section, are met, and all the following criteria are satisfied:
 
-(1) The borrower has not received primary loan servicing or Disaster Set-Aside within the last 3 years;
+(1) The borrower is current on all loan accounts with FSA and has not received PLS, DBSA, or DSA on any loan within the last 36 months;
 
-(2) The security is:
-
-(i) To be retained by the borrower and used as collateral for other credit, including partial graduation as specified in § 765.101; or
-
-(ii) No more than 10 acres, or the minimum size that meets all State and local requirements for a division into a separate legal lot, whichever is greater, and is transferred without compensation to a person who is related to the borrower by blood or marriage.
+(2) The borrower has paid in full direct term loan installments that include principal reduction in each of the last 3 calendar years;
 
 (3) The property released will not interfere with access to or operation of the remaining farm;
 
 (4) Essential buildings and facilities will not be released if they reduce the utility or marketability of the remaining property;
 
-(5) Any issues arising due to legal descriptions, surveys, environmental concerns, utilities are the borrower's responsibility and no costs or fees will be paid by FSA;
+(5) Any issues arising due to legal descriptions, surveys, environmental concerns, utilities are the borrower's responsibility, and no costs or fees will be paid by FSA;
 
-(6) The security margin on each FLP direct loan will be above 150 percent after the release. The value of the retained security will normally be based on appraisals obtained as specified in § 761.7 of this chapter; however, well documented recent sales of similar properties can be used if the Agency determines the criteria have been met and a sound decision can be made without current appraisals;
+(6) After the release, the security margin on each Agency direct loan will be 125 percent (or more, if it is not practicable to separate the property, if necessary to ensure the loan is fully secured for the life of the loan, or if the borrower requests only a portion of Agency security to be released). The value of the retained and released security will normally be based on appraisals obtained as specified in § 761.7 of this chapter; however, well-documented recent sales of similar properties can be used if the Agency determines a supportable decision can be made without current appraisals;
 
-(7) The release is approved by the FSA State Executive Director; and
+(7) Any asset requested for release must serve only as security for term loan(s) that have been outstanding for at least the prior 36 months and cannot serve as adequate security for another existing Agency direct loan; and
 
 (8) Except for CL, the borrower is unable to fully graduate as specified in § 765.101.
 
-[72 FR 63309, Nov. 8, 2007, as amended at 75 FR 54016, Sept. 3, 2010; 78 FR 65531, Nov. 1, 2013; 81 FR 51284, Aug. 3, 2016; 86 FR 43392, Aug. 9, 2021]
+[72 FR 63309, Nov. 8, 2007, as amended at 75 FR 54016, Sept. 3, 2010; 78 FR 65531, Nov. 1, 2013; 81 FR 51284, Aug. 3, 2016; 86 FR 43392, Aug. 9, 2021; 89 FR 65043, Aug. 8, 2024]

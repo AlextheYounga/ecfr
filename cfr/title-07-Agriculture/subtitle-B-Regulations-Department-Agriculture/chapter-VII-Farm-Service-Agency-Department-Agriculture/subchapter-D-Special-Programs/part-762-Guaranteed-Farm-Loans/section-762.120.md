@@ -1,7 +1,5 @@
 ##### § 762.120 Applicant eligibility. #####
 
-Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
-
 Unless otherwise provided, applicants must meet all of the following requirements to be eligible for a guaranteed OL, FO, or CL.
 
 (a) *Agency loss.* (1) Except as provided in paragraph (a)(2) of this section, the applicant, and anyone who will execute the promissory note, has not caused the Agency a loss by receiving debt forgiveness on all or a portion of any direct or guaranteed loan made under the authority of the Act by debt write-down or write-off; compromise, adjustment, reduction, or charge-off under the provisions of section 331 of the Act; discharge in bankruptcy; or through payment of a guaranteed loss claim on:
@@ -17,6 +15,8 @@ Unless otherwise provided, applicants must meet all of the following requirement
 (ii) Is current on payments under a confirmed reorganization plan under chapter 11, 12, or 13 of title 11 of the United States Code; or
 
 (iii) Received debt forgiveness on not more than one occasion after April 4, 1996, resulting directly and primarily from a Presidentially-designated emergency for a county or contiguous county in which the applicant operates. Only applicants who were current on all existing direct and guaranteed FSA loans prior to the beginning date of the incidence period for a Presidentially-designated emergency and received debt forgiveness on that debt within three years after the designation of such emergency meet this exception.
+
+(3) If the debt forgiveness is resolved by repayment of the Agency's loss, the Agency may still consider the debt forgiveness in determining the applicant's creditworthiness.
 
 (b) *Delinquent Federal debt.* The applicant, and anyone who will execute the promissory note, is not delinquent on any Federal debt, other than a debt under the Internal Revenue Code of 1986. (Any debt under the Internal Revenue Code of 1986 may be considered by the lender in determining cash flow and creditworthiness.)
 
@@ -108,4 +108,4 @@ Unless otherwise provided, applicants must meet all of the following requirement
 
 (o) *Disqualification.* The applicant, and all entity members in the case of an entity, must not be ineligible due to disqualification resulting from a Federal Crop Insurance violation, according to 7 CFR part 718.
 
-[64 FR 7378, Feb. 12, 1999, as amended at 68 FR 62223, Nov. 3, 2003; 69 FR 5262, Feb. 4, 2004; 72 FR 63297, Nov. 8, 2007; 75 FR 54013, Sept. 3, 2010; 78 FR 65529, Nov. 1, 2013; 79 FR 60743, Oct. 8, 2014; 86 FR 43391, Aug. 9, 2021; 87 FR 13123, Mar. 9, 2022]
+[64 FR 7378, Feb. 12, 1999, as amended at 68 FR 62223, Nov. 3, 2003; 69 FR 5262, Feb. 4, 2004; 72 FR 63297, Nov. 8, 2007; 75 FR 54013, Sept. 3, 2010; 78 FR 65529, Nov. 1, 2013; 79 FR 60743, Oct. 8, 2014; 86 FR 43391, Aug. 9, 2021; 87 FR 13123, Mar. 9, 2022; 89 FR 65038, Aug. 8, 2024]

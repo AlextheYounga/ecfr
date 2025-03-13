@@ -1,7 +1,5 @@
 ##### § 762.147 Servicing shared appreciation agreements. #####
 
-Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
-
 (a) *Lender responsibilities.* The lender is responsible for:
 
 (1) Monitoring the borrower's compliance with the shared appreciation agreement;
@@ -26,13 +24,13 @@ Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
 
 (2) Calculating recapture.
 
-(i) The amount of recapture will be based on the difference between the value of the security at the time recapture is triggered and the value of the security at the time of writedown, as shown on the shared appreciation agreement.
+(i) The amount of recapture will be based on the difference between the value of the security at the time recapture is triggered and the value of the security at the time of write-down, as shown on the shared appreciation agreement.
 
 (ii) Security values will be determined through appraisals obtained by the lender and meeting the requirements of § 762.127.
 
 (iii) All appraisal fees will be paid by the lender.
 
-(iv) The amount of recapture will not exceed the amount of writedown shown on the shared appreciation agreement.
+(iv) The amount of recapture will not exceed the amount of write-down shown on the shared appreciation agreement.
 
 (v) If recapture is triggered within 4 years of the date of the shared appreciation agreement, the lender shall recapture 75 percent of any positive appreciation in the market value of the property securing the loan or line of credit agreement.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
 
 (4) Paying the Agency. Any shared appreciation recaptured by the lender will be shared on a pro-rata basis between the lender and the Agency.
 
-[64 FR 7378, Feb. 12, 1999, as amended at 75 FR 54014, Sept. 3, 2010]
+[64 FR 7378, Feb. 12, 1999, as amended at 75 FR 54014, Sept. 3, 2010; 89 FR 63058, Aug. 8, 2024]

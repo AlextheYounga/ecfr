@@ -30,4 +30,6 @@
 
 (8) Require that the planning of projects affecting the water resources of the basin by Federal, State, local agencies and private organizations be undertaken in coordination with the Commission and in accordance with the Compact.
 
-(9) Require that periodic reports of projects affecting water resources within the basin and listings of discharge permits granted, and similar activities undertaken by offices or agencies of the signatory parties, be submitted to the Commission.
+(9) Coordinate and cooperate with the appropriate agencies of a member jurisdiction on implementing actions to address resiliency in the face of changing climatic conditions and to support the aims of environmental justice.
+
+[38 FR 4662, Feb. 20, 1973, as amended at 89 FR 78234, Sept. 25, 2024]

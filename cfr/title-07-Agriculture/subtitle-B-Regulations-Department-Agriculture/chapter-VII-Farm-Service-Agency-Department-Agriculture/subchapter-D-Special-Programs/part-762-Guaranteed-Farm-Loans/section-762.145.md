@@ -1,7 +1,5 @@
 ##### § 762.145 Restructuring guaranteed loans. #####
 
-Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
-
 (a) *General.* (1) To restructure guaranteed loans standard eligible lenders must:
 
 (i) Obtain prior written approval of the Agency for all restructuring actions; and,
@@ -12,11 +10,11 @@ Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
 
 (3) To restructure guaranteed loans CLP lenders must:
 
-(i) Obtain prior written approval of the Agency only for debt write down under this section.
+(i) Obtain prior written approval of the Agency only for debt write- down under this section.
 
-(ii) Submit all calculations required in paragraph (e) of this section for debt writedown.
+(ii) Submit all calculations required in paragraph (e) of this section for debt write-down.
 
-(iii) For restructuring other than write down, provide FSA with a certification that each requirement of this section has been met, a narrative outlining the circumstances surrounding the need for restructuring, and copies of any applicable calculations.
+(iii) For restructuring other than write-down, provide FSA with a certification that each requirement of this section has been met, a narrative outlining the circumstances surrounding the need for restructuring, and copies of any applicable calculations.
 
 (4) PLP lenders will restructure loans in accordance with their lender's agreement.
 
@@ -42,7 +40,7 @@ Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
 
 (3) A final loss claim may be reduced, adjusted, or rejected as a result of negligent servicing after the concurrence with a restructuring action under this section.
 
-(4) Loans secured by real estate and/or equipment can be restructured using a balloon payment, equal installments, or unequal installments. Under no circumstances may livestock or crops alone be used as security for a loan to be rescheduled using a balloon payment. If a balloon payment is used, the projected value of the real estate and/or equipment security must indicate that the loan will be fully secured when the balloon payment becomes due. The projected value will be derived from a current appraisal adjusted for depreciation of depreciable property, such as buildings and other improvements, that occurs until the balloon payment is due. For equipment security, a current appraisal is required. The lender is required to project the security value of the equipment at the time the balloon payment is due based on the remaining life of the equipment, or the depreciation schedule on the borrower's Federal income tax return. Loans restructured with a balloon payment that are secured by real estate will have a minimum term of 5 years, and other loans will have a minimum term of 3 years before the scheduled balloon payment. If statutory limits on terms of loans prevent the minimum terms, balloon payments may not be used. If the loan is rescheduled with unequal installments, a feasible plan, as defined in § 762.2(b), must be projected for when installments are scheduled to increase.
+(4) Loans can be restructured using a balloon payment, equal installments, or unequal installments. Under no circumstances may crops or livestock, other than breeding livestock, be the only security for a loan to be rescheduled using a balloon payment. If a balloon payment is used, the projected value of the security must indicate that the loan will be fully secured when the balloon payment becomes due. The projected value will be derived from a current appraisal adjusted for depreciation of depreciable property, such as buildings and other improvements, that occurs until the balloon payment is due. For other security, a current appraisal is required. The lender is required to project the security value at the time the balloon payment is due based on the remaining life of the security, or the depreciation schedule on the borrower's Federal income tax return. Loans restructured with a balloon payment that are secured by real estate will have a minimum term of 5 years, and other loans will have a minimum term of 3 years before the scheduled balloon payment. If statutory limits on terms of loans prevent the minimum terms, balloon payments may not be used. If the loan is rescheduled with unequal installments, a feasible plan, as defined in § 762.2(b), must be projected for when installments are scheduled to increase.
 
 (5) If a borrower is current on a loan, but will be unable to make a payment, a restructuring proposal may be submitted prior to the payment coming due.
 
@@ -58,7 +56,7 @@ Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
 
 (v) Approved capitalized interest will be treated as part of the principal and interest that accrues thereon, in the event that a loss should occur.
 
-(7) The lender's security position will not be adversely affected because of the restructuring. New security instruments may be taken if needed, but a loan does not have to be fully secured in order to be restructured, unless it is restructured with a balloon payment. When a loan is restructured using a balloon payment the lender must take a lien on all assets and project the loan to be fully secured at the time the balloon payment becomes due, in accordance with paragraph (b)(4) of this section.
+(7) The lender's security position will not be adversely affected because of the restructuring. New security instruments may be taken if needed, but a loan does not have to be fully secured in order to be restructured, unless it is restructured with a balloon payment. When a loan is restructured using a balloon payment the lender must project the loan to be fully secured at the time the balloon payment becomes due, in accordance with paragraph (b)(4) of this section.
 
 (8) Any holder agrees to any changes in the original loan terms. If the holder does not agree, the lender must repurchase the loan from the holder for any loan restructuring to occur.
 
@@ -90,11 +88,11 @@ Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
 
 (4) There must be a reasonable prospect that the borrower will be able to resume full payments at the end of the deferral period.
 
-(e) *Debt writedown.* The following conditions apply to debt writedown:
+(e) *Debt write-down.* The following conditions apply to debt write-down:
 
-(1) A lender may only write down a delinquent guaranteed loan or line of credit in an amount sufficient to permit the borrower to develop a feasible plan as defined in § 762.102(b).
+(1) A lender may only writedown a delinquent guaranteed loan or line of credit in an amount sufficient to permit the borrower to develop a feasible plan as defined in § 762.102(b).
 
-(2) The lender will request other creditors to negotiate their debts before a writedown is considered.
+(2) The lender will request other creditors to negotiate their debts before a write-down is considered.
 
 (3) The borrower cannot develop a feasible plan after consideration is given to rescheduling and deferral under this section.
 
@@ -104,13 +102,13 @@ Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
 
 (6) No further advances may be made on a line of credit that is written down.
 
-(7) Loans may not be written down with interest assistance. If a borrower's loan presently on interest assistance requires a writedown, the writedown will be considered without interest assistance.
+(7) Loans may not be written down with interest assistance. If a borrower's loan presently on interest assistance requires a write-down, the write-down will be considered without interest assistance.
 
-(8) The writedown is based on writing down the shorter-term loans first.
+(8) The write-down is based on writing down the shorter-term loans first.
 
-(9) When a lender requests approval of a writedown for a borrower with multiple loans, the security for all of the loans will be cross-collateralized and continue to serve as security for the loan that is written down. If a borrower has multiple loans and one loan is written off entirely through debt writedown, the security for that loan will not be released and will remain as security for the other written down debt. Additional security instruments will be taken if required to cross-collateralize security and maintain lien priority.
+(9) When a lender requests approval of a write-down for a borrower with multiple loans, the security for all of the loans will be cross-collateralized and continue to serve as security for the loan that is written down. If a borrower has multiple loans and one loan is written off entirely through debt write-down, the security for that loan will not be released and will remain as security for the other written down debt. Additional security instruments will be taken if required to cross-collateralize security and maintain lien priority.
 
-(10) The writedown will be evidenced by an allonge or amendment to the existing note or line of credit reflecting the writedown.
+(10) The write-down will be evidenced by an allonge or amendment to the existing note or line of credit reflecting the write-down.
 
 (11) The borrower executes an Agency shared appreciation agreement for loans which are written down and secured by real estate.
 
@@ -124,16 +122,16 @@ Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
 
 (i) A current appraisal of all security in accordance with § 762.127.
 
-(ii) A completed report of loss on the appropriate Agency form for the proposed writedown loss claim.
+(ii) A completed report of loss on the appropriate Agency form for the proposed write-down loss claim.
 
-(iii) Detailed writedown calculations as follows:
+(iii) Detailed write-down calculations as follows:
 
 (A) Calculate the present value.
 
 (B) Determine the net recovery value.
 
-(C) If the net recovery value exceeds the present value, writedown is unavailable; liquidation becomes the next servicing consideration. If the present value equals or exceeds the net recovery value, the debt may be written down to the present value.
+(C) If the net recovery value exceeds the present value, write-down is unavailable; liquidation becomes the next servicing consideration. If the present value equals or exceeds the net recovery value, the debt may be written down to the present value.
 
 (iv) The lender will make any adjustment in the calculations as requested by the Agency.
 
-[64 FR 7378, Feb. 12, 1999; 64 FR 38298, July 16, 1999, as amended at 66 FR 7567, Jan. 24, 2001; 69 FR 44579, July 27, 2004; 70 FR 56107, Sept. 26, 2005; 72 FR 17358, Apr. 9, 2007; 75 FR 54014, Sept. 1, 2010; 77 FR 15938, Mar. 19, 2012; 78 FR 65530, Nov. 1, 2013; 86 FR 43391, Aug. 9, 2021]
+[64 FR 7378, Feb. 12, 1999; 64 FR 38298, July 16, 1999, as amended at 66 FR 7567, Jan. 24, 2001; 69 FR 44579, July 27, 2004; 70 FR 56107, Sept. 26, 2005; 72 FR 17358, Apr. 9, 2007; 75 FR 54014, Sept. 1, 2010; 77 FR 15938, Mar. 19, 2012; 78 FR 65530, Nov. 1, 2013; 86 FR 43391, Aug. 9, 2021; 89 FR 65038, Aug. 8, 2024]

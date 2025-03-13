@@ -1,7 +1,5 @@
 ##### § 766.105 Agency consideration of servicing requests. #####
 
-Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
-
 (a) *Order in which Agency considers servicing options.* The Agency will consider loan servicing options and combinations of options to maximize loan repayment and minimize losses to the Agency. The Agency will consider loan servicing options in the following order for each eligible borrower who requests servicing:
 
 (1) Conservation Contract, if requested;
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
 
 (3) Deferral;
 
-(4) Writedown; and
+(4) Write-down; and
 
 (5) Current market value buyout.
 
@@ -24,8 +22,10 @@ Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
 
 (1) All Agency security, non-essential assets, and real property unencumbered by the Agency that does not meet the criteria established in § 766.112(b), when:
 
-(i) A writedown is required to develop a feasible plan;
+(i) A write-down is required to develop a feasible plan;
 
 (ii) The borrower will be offered current market value buyout.
 
 (2) The borrower's non-essential assets when their net recovery value may be adequate to bring the delinquent loans current.
+
+[72 FR 63316, Nov. 8, 2007, as amended at 89 FR 65044, Aug. 8, 2024]

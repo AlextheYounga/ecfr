@@ -1,7 +1,5 @@
 ##### § 764.251 Operating loan uses. #####
 
-Link to an amendment published at 89 FR 65040, Aug. 8, 2024.
-
 (a) Except as provided in paragraph (b), OL and ML used for OL purposes loan funds may only be used for:
 
 (1) Costs associated with reorganizing a farm to improve its profitability;
@@ -28,8 +26,8 @@ Link to an amendment published at 89 FR 65040, Aug. 8, 2024.
 
 (ii) The debts to be refinanced are owed to a creditor other than the USDA;
 
-(11) Costs for minor real estate repairs or improvements, provided the loan can be repaid within 7 years.
+(11) Costs for minor real estate repairs or improvements, provided the loan is made primarily for agricultural purposes and can be repaid within 7 years. In the case of leased property, the applicant must have a lease to ensure use of the improvement over its useful life or to ensure that the applicant receives compensation for any remaining economic life upon termination of the lease.
 
 (b) [Reserved]
 
-[72 FR 63298, Nov. 8, 2007, as amended at 78 FR 3835, Jan. 17, 2013; 81 FR 3293, Jan. 21, 2016]
+[72 FR 63298, Nov. 8, 2007, as amended at 78 FR 3835, Jan. 17, 2013; 81 FR 3293, Jan. 21, 2016; 89 FR 65040, Aug. 8, 2024]

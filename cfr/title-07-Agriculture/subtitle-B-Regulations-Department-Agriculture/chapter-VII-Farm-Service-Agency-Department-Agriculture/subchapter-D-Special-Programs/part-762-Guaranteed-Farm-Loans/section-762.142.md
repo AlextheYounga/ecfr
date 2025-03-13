@@ -1,7 +1,5 @@
 ##### § 762.142 Servicing related to collateral. #####
 
-Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
-
 (a) *General.* The lender's responsibilities regarding servicing collateral include, but are not limited to, the following:
 
 (1) Obtain income and insurance assignments when required.
@@ -58,7 +56,7 @@ Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
 
 (ii) When the lender requesting the guarantee needs the subordination of the Agency's lien position to maintain its lien position when servicing or restructuring;
 
-(iii) When the lender requesting the guarantee is refinancing the debt of another lender and the Agency's position on real estate security will not be adversely affected; or
+(iii) When the lender requesting the guarantee is refinancing debt and the Agency's position on real estate security will not be adversely affected; or
 
 (iv) To permit a line of credit to be advanced for annual operating expenses.
 
@@ -72,30 +70,28 @@ Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
 
 (i) The lender may subordinate its security interest in crops, feeder livestock, livestock offspring, or livestock products when no funds have been advanced from the guaranteed loan for their production, so a lender can make a loan for annual production expenses; or
 
-(ii) The lender may, with written Agency approval, subordinate its interest in basic security in cases where the subordination is required to allow another lender to refinance an existing prior lien, no additional debt is being incurred, and the lender's security position will not be adversely affected by the subordination.
+(ii) The lender may, with written Agency approval, subordinate its interest in basic security in cases where the subordination is required to refinance an existing prior lien, no additional debt is being incurred, and the lender's security position will not be adversely affected by the subordination.
 
 (iii) The Agency's national office may provide an exception to the subordination prohibition if such action is in the Agency's best interest. However, in no case can the loan made under the subordination include tax exempt financing.
 
 (d) *Transfer and assumption.* Transfers and assumptions are subject to the following conditions:
 
-(1) For standard eligible and CLP lenders, the servicing action must be approved by the Agency in writing.
+(1) The servicing action must be approved by the Agency in writing.
 
-(2) For standard eligible and CLP lenders, the transferee must apply for a loan in accordance with § 762.110, including a current appraisal, unless the lien position of the guaranteed loan will not change, and any other information requested by the Agency to evaluate the transfer and assumption.
+(2) The transferee must apply for a loan in accordance with § 762.110, and provide any other information requested by the Agency to evaluate the transfer and assumption request. A current appraisal is required unless the lien position of the guaranteed loan will not change.
 
-(3) PLP lenders may process transfers and assumptions in accordance with their agreement with the Agency.
+(3) Any required security appraisals must meet the requirements of § 762.127.
 
-(4) Any required security appraisals must meet the requirements of § 762.127.
+(4) The Agency will review, approve or reject the request in accordance with the time frames in § 762.130.
 
-(5) The Agency will review, approve or reject the request in accordance with the time frames in § 762.130.
+(5) The transferee must meet the eligibility requirements and loan limitations for the loan being transferred, including all requirements relating to loan rates and terms, loan security, feasibility, and environmental and other laws applicable to an applicant under this part, except for a current appraisal when permitted in paragraph (d)(2) of this section.
 
-(6) The transferee must meet the eligibility requirements and loan limitations for the loan being transferred, all requirements relating to loan rates and terms, loan security, feasibility, and environmental and other laws applicable to a applicant under this part.
+(6) The lender will use its own assumption agreements or conveyance instruments, providing they are legally sufficient to obligate the transferee for the total outstanding debt. The lender will provide the Agency copies of any agreements executed to carry out the servicing action.
 
-(7) The lender will use its own assumption agreements or conveyance instruments, providing they are legally sufficient to obligate the transferee for the total outstanding debt. The lender will provide the Agency copies of any agreements executed to carry out the servicing action.
+(7) The Agency approves the transfer and assumption by executing a modification of the guarantee to designate the party that assumed the guaranteed debt, the amount of debt at the time of the assumption, including interest that is being capitalized, and any new loan terms, if applicable.
 
-(8) The Agency approves the transfer and assumption by executing a modification of the guarantee to designate the party that assumed the guaranteed debt, the amount of debt at the time of the assumption, including interest that is being capitalized, and any new loan terms, if applicable.
+(8) The lender must give any holder notice of the transfer. If the rate and terms are changed, written concurrence from the holder is required.
 
-(9) The lender must give any holder notice of the transfer. If the rate and terms are changed, written concurrence from the holder is required.
+(9) The Agency will agree to releasing the transferor or any guarantor from liability only if the requirements of § 762.146(c) are met.
 
-(10) The Agency will agree to releasing the transferor or any guarantor from liability only if the requirements of § 762.146(c) are met.
-
-[64 FR 7378, Feb. 12, 1999, as amended at 66 FR 7567, Jan. 24, 2001; 69 FR 44579, July 27, 2004]
+[64 FR 7378, Feb. 12, 1999, as amended at 66 FR 7567, Jan. 24, 2001; 69 FR 44579, July 27, 2004; 89 FR 65038, Aug. 8, 2024]

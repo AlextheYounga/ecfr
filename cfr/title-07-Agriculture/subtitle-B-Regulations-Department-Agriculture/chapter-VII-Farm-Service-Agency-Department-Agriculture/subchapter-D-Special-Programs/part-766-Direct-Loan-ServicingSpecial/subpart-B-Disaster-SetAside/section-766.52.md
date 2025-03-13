@@ -1,7 +1,5 @@
 ##### § 766.52 Eligibility. #####
 
-Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
-
 (a) *Borrower eligibility.* The borrower must meet all of the following requirements to be eligible for a DSA:
 
 (1) The borrower must have operated the farm in a county designated or declared a disaster area or a contiguous county at the time of the disaster. Farmers who have rented out their land base for cash are not operating the farm.
@@ -32,10 +30,12 @@ Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
 
 (2) All of the borrower's program and non-program loans must be current after the Agency completes a DSA of the scheduled installment.
 
-(3) All FLP loans must be current or less than 90 days past due at the time the application for DSA is complete.
+(3) All FLP loans must be current or less than 150 days past due at the time the application for DSA is complete.
 
 (4) The Agency has not accelerated or applied any special servicing action under this part to the loan since the natural disaster occurred.
 
 (5) For any loan that will receive a DSA, the remaining term of the loan must equal or exceed 2 years from the due date of the installment set-aside.
 
-(6) The loan must not have a DSA in place.
+(6) The loan must not have a DBSA or DSA in place.
+
+[72 FR 63316, Nov. 8, 2007, as amended at 89 FR 65043, Aug. 8, 2024]

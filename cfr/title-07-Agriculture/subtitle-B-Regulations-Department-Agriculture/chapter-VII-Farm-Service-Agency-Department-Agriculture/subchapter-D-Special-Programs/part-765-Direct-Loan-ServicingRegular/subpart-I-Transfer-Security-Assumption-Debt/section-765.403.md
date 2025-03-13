@@ -1,7 +1,5 @@
 ##### § 765.403 Transfer of security to and assumption of debt by eligible applicants. #####
 
-Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
-
 (a) *Transfer of real estate and chattel security.* The Agency may approve transfers of security with assumption of FLP debt, other than EM loans for physical or production losses, by transferees eligible for the type of loan being assumed if:
 
 (1) The transferee meets all loan and security requirements in part 764 of this chapter for the type of loan being assumed; and
@@ -19,3 +17,9 @@ Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
 (2) The market value of the security, less prior liens and authorized costs, if the outstanding loan balance exceeds the market value of the property.
 
 (e) *Rates and terms.* The interest rate and loan term will be determined according to rates and terms established in part 764 of this chapter for the type of loan being assumed.
+
+(f) *Application requirements.* Transferees must submit a complete application in accordance with 7 CFR 764.51.
+
+(g) *Security.* All security must be transferred to the transferee with possession taken in accordance with the requirements of part 764 of this chapter for the type of loan being assumed.
+
+[72 FR 63309, Nov. 8, 2007, as amended at 89 FR 65043, Aug. 8, 2024]

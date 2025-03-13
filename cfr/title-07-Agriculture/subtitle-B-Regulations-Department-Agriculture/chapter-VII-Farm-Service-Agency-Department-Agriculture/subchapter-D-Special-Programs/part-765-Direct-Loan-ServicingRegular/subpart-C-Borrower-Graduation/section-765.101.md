@@ -1,7 +1,5 @@
 ##### § 765.101 Borrower graduation requirements. #####
 
-Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
-
 (a) In accordance with the promissory note and security instruments, the borrower must graduate to another source of credit if the Agency determines that:
 
 (1) The borrower has the ability to obtain credit from other sources; and
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
 
 (3) A loan made for chattel and real estate purposes will be categorized according to how the majority of the loan's funds are expended.
 
-(c) The borrower must submit all information that the Agency requests in conjunction with the review of the borrower's financial condition.
+(c) The borrower must submit all information that the Agency requests in conjunction with the review of the borrower's financial condition, including Federal income tax returns.
 
 (d) The Agency may provide a borrower's prospectus to lenders in an attempt to identify sources of non-Agency credit and assess the lenders' interest in refinancing the borrower's loan. The Agency will notify the borrower when the borrower's prospectus is provided to one or more lenders.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
 
 (g) CLs are not subject to graduation requirements under this part.
 
-[72 FR 63309, Nov. 8, 2007, as amended at 75 FR 54016, Sept. 3, 2010]
+[72 FR 63309, Nov. 8, 2007, as amended at 75 FR 54016, Sept. 3, 2010; 89 FR 65042, Aug. 8, 2024]

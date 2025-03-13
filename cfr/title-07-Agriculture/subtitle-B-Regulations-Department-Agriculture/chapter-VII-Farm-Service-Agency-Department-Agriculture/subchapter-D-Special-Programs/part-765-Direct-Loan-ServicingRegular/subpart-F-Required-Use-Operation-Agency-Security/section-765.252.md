@@ -1,18 +1,16 @@
 ##### § 765.252 Lease of security. #####
 
-Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
-
 (a) *Real estate surface leases.* The borrower must request prior approval to lease the surface of real estate security. The Agency will approve requests provided the following conditions are met:
 
 (1) The lease will not adversely affect the Agency's security interest;
 
 (2) The term of consecutive leases for agricultural purposes does not exceed 3 years, or 5 years if the borrower and the lessee are related by blood or marriage. The term of surface leases for farm property no longer in use, such as old barns, or for nonfarm purposes, such as wind turbines, communication towers, or similar installations can be for any term;
 
-(3) The lease does not contain an option to purchase; and
+(3) The lease does not contain an option to purchase;
 
-(4) The lease does not hinder the future operation or success of the farm, or, if the borrower has ceased to operate the farm, the requirements specified in § 765.253 are met. Leases for nonfarm enterprises, such as solar farms, which take significant acreage of the operation out of agriculture production are not authorized. Non-productive land may be considered for this type of lease; and.
+(4) The lease does not hinder the future operation or success of the farm, or, if the borrower has ceased to operate the farm, the requirements specified in § 765.253 are met. Leases for nonfarm enterprises, such as solar farms, which take significant acreage of the Agency's security out of agriculture production are not authorized. Non-productive land may be considered for this type of lease; and
 
-(5) The lease and any contracts or agreements in connection with the lease must be reviewed and approved by the Government.
+(5) The lease and any contracts or agreements in connection with the lease must be reviewed and approved by the Agency.
 
 (b) *Mineral leases.* The borrower must request Agency consent to lease any mineral rights used as security for FLP loans.
 
@@ -28,7 +26,19 @@ Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
 
 (4) The term of the mineral lease is not limited.
 
-(c) *Lease of chattel security.* Lease of chattel security is not authorized.
+(c) *Lease of chattel security.* The borrower must request prior approval to lease chattel security. The Agency will approve requests provided the following conditions are met:
+
+(1) The term of lease does not exceed 12 months and does not automatically renew;
+
+(2) The lease does not contain an option to purchase;
+
+(3) The lease does not hinder the future operation or success of the farm, or, if the borrower has ceased to operate the farm, the requirements specified in § 765.253 are met;
+
+(4) The lease must be in the best interest of the Agency as determined by the authorized Agency official;
+
+(5) Leased security must be accessible and readily identifiable at all times. Leased livestock must be branded, tagged, or be otherwise specifically identifiable; and
+
+(6) The lease and any contracts or agreements in connection with the lease must be reviewed and approved by the Agency.
 
 (d) *Lease proceeds.* Lease proceeds are considered normal income security and may be used in accordance with § 765.303.
 
@@ -36,4 +46,4 @@ Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
 
 (2) The borrower must assign all rental proceeds from an allotment lease to the Agency.
 
-[72 FR 63309, Nov. 8, 2007, as amended at 78 FR 65531, Nov. 1, 2013; 79 FR 78694, Dec. 31, 2014; 81 FR 51284, Aug. 3, 2016; 86 FR 43392, Aug. 9, 2021]
+[72 FR 63309, Nov. 8, 2007, as amended at 78 FR 65531, Nov. 1, 2013; 79 FR 78694, Dec. 31, 2014; 81 FR 51284, Aug. 3, 2016; 86 FR 43392, Aug. 9, 2021; 89 FR 65042, Aug. 8, 2024]

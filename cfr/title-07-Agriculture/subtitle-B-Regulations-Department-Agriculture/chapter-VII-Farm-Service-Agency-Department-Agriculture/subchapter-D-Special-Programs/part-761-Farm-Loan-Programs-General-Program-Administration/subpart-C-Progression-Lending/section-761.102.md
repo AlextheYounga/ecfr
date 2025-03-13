@@ -1,7 +1,5 @@
 ##### § 761.102 Borrower recordkeeping and reporting. #####
 
-Link to an amendment published at 89 FR 65037, Aug. 8, 2024.
-
 (a) A borrower must maintain accurate records sufficient to make informed management decisions and to allow the Agency to render loan making and servicing decisions in accordance with Agency regulations. These records must include the following:
 
 (1) Production (e.g., total and per unit for livestock and crops);
@@ -28,7 +26,7 @@ Link to an amendment published at 89 FR 65037, Aug. 8, 2024.
 
 (b) A borrower also must agree in writing to:
 
-(1) Cooperate with the Agency and comply with all progression lending plans, farm assessments, farm operating plans, year-end analyses, and all other loan-related requirements and documents;
+(1) Cooperate with the Agency and comply with all progression lending plans, farm assessments, farm operating plans, and all other loan-related requirements and documents;
 
 (2) Submit financial information and an updated farm operating plan when requested by the Agency;
 
@@ -36,4 +34,4 @@ Link to an amendment published at 89 FR 65037, Aug. 8, 2024.
 
 (c) If the borrower fails to comply with these requirements, unless due to reasons outside the borrower's control, the non-compliance may adversely impact future requests for assistance.
 
-[72 FR 63285, Nov. 8, 2007, as amended at 87 FR 13123, Mar. 9, 2022]
+[72 FR 63285, Nov. 8, 2007, as amended at 87 FR 13123, Mar. 9, 2022; 89 FR 65037, Aug. 8, 2024]

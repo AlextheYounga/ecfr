@@ -1,5 +1,7 @@
 ##### § 3.1711 Effect of contributions by government, public, or private organizations. #####
 
+Link to an amendment published at 89 FR 78255, Sept. 25, 2024.
+
 (a) *Contributions by government or employer.* With respect to claims for a plot or interment allowance under § 3.1707, if VA has evidence that the U.S., a State, any agency or political subdivision of the U.S. or of a State, or the employer of the deceased veteran has paid or contributed payment to the veteran's plot or interment expenses, VA will pay the claimant up to the lesser of:
 
 (1) The allowable statutory amount; or

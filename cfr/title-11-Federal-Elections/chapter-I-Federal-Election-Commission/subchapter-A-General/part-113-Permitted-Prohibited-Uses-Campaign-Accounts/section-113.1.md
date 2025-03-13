@@ -1,5 +1,7 @@
 ##### § 113.1 Definitions (52 U.S.C. 30114). #####
 
+Link to an amendment published at 89 FR 78206, Sept. 25, 2024.
+
 When used in this part—
 
 (a) *Funds donated. Funds donated* means all funds, including, but not limited to, gifts, loans, advances, credits or deposits of money which are donated for the purpose of supporting the activities of a Federal or State officeholder; but does not mean funds appropriated by Congress, a State legislature, or another similar public appropriating body, or personal funds of the officeholder donated to an account containing only those personal funds.
