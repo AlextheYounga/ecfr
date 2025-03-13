@@ -1,5 +1,7 @@
 ##### § 18.15 Changes after approval or certification. #####
 
+Link to an amendment published at 89 FR 99104, Dec. 10, 2024.
+
 If an applicant desires to change any feature of approved equipment or a certified component, he shall first obtain MSHA's concurrence pursuant to the following procedure:
 
 (a)(1) Application shall be made as for an original approval or letter of certification requesting that the existing approval or certification be extended to cover the proposed changes and shall be accompanied by drawings, specifications, and related information, showing the changes in detail.

@@ -1,4 +1,4 @@
-##### § 60.18 Review of site characterization activities.2 #####
+##### § 60.18 Review of site characterization activities. 2 #####
 
 2 In addition to the review of site characterization activities specified in this section, the Commission contemplates an ongoing review of other information on site investigation and site characterization, in order to allow early identification of potential licensing issues for timely resolution. This activity will include, for example, a review of the environmental assessments prepared by DOE at the time of site nomination, and review of issues related to long lead time exploratory shaft planning and procurement actions by DOE prior to issuance of site characterization plans.
 

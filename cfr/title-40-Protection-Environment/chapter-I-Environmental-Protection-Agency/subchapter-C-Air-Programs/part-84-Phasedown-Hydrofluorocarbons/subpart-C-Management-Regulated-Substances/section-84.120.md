@@ -1,0 +1,3 @@
+##### § 84.120 Relationship to other laws. #####
+
+Section (k) of the AIM Act states that sections 113, 114, 304, and 307 of the Clean Air Act (42 U.S.C. 7413, 7414, 7604, 7607) shall apply to this section and any rule, rulemaking, or regulation promulgated by the Administrator pursuant to this section as though this section were expressly included in title VI of that Act (42 U.S.C. 7671 *et seq.*). Violation of this part is subject to Federal enforcement and the penalties laid out in section 113 of the Clean Air Act.

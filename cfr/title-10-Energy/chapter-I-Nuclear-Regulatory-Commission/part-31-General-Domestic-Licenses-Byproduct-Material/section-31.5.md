@@ -1,4 +1,4 @@
-##### § 31.5 Certain detecting, measuring, gauging, or controlling devices and certain devices for producing light or an ionized atmosphere.2 #####
+##### § 31.5 Certain detecting, measuring, gauging, or controlling devices and certain devices for producing light or an ionized atmosphere. 2 #####
 
 2 Persons possessing byproduct material in devices under a general license in § 31.5 before January 15, 1975, may continue to possess, use, or transfer that material in accordance with the labeling requirements of § 31.5 in effect on January 14, 1975.
 

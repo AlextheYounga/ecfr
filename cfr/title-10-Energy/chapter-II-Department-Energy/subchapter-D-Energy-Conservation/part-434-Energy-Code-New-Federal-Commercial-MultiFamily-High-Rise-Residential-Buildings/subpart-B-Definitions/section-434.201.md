@@ -174,7 +174,7 @@ For the purposes of this part, the following terms, phrases, and words shall be 
 
 *Service water heating:* the supply of hot water for purposes other than comfort heating and process requirements.
 
-*Shading coefficient (SC):* the ratio of solar heat gain through fenestration under a specific set of conditions, with or without integral shading devices, to that occurring through unshaded1/8-in-thick clear double-strength glass under the same conditions.
+*Shading coefficient (SC):* the ratio of solar heat gain through fenestration under a specific set of conditions, with or without integral shading devices, to that occurring through unshaded 1/8-in-thick clear double-strength glass under the same conditions.
 
 *Shell Building:* a building for which the envelope is designed, constructed, or both prior to knowing the occupancy type. (See also “speculative building”)
 
@@ -236,7 +236,7 @@ For the purposes of this part, the following terms, phrases, and words shall be 
 
 *Walls*: those portions of the building envelope enclosing conditioned space, including all opaque surfaces, fenestration, and doors, which are vertical or tilted at an angle of 60\* from horizontal or greater. (See also “roof”)
 
-*Wall heat capacity*: the sum of the products of the mass of each individual material in the wall per unit area of wall surface times its individual specific heat, expressed in Btu/(ft2·°F). (See” thermal mass”)
+*Wall heat capacity*: the sum of the products of the mass of each individual material in the wall per unit area of wall surface times its individual specific heat, expressed in Btu/(ft 2·°F). (See” thermal mass”)
 
 *Window to wall ratio (WWR)*: the ratio of the wall fenestration area to the gross exterior wall area.
 

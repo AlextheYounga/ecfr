@@ -512,4 +512,4 @@ ASTM E97-1987 was withdrawn in 1991. It is reasonably available from standards r
 
 (4) UL 1598C (“UL 1598C-2016”), *Standard for Safety for Light-Emitting Diode (LED) Retrofit Luminaire Conversion Kits,* First edition, dated January 16, 2014 (including revisions through November 17, 2016); IBR approved for § 430.2.
 
-[74 FR 12066, Mar. 23, 2009]Editorial Note:For Federal Register citations affecting § 430.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[74 FR 12066, Mar. 23, 2009] Editorial Note:For Federal Register citations affecting § 430.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

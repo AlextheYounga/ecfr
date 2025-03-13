@@ -4,6 +4,6 @@ For the purposes of this part, activity is expressed in the special unit of curi
 
 (a) One becquerel = 1 disintegration per second (s−1).
 
-(b) One curie = 3.7 × 1010 disintegrations per second = 3.7 × 1010 becquerels = 2.22 × 1012 disintegrations per minute.
+(b) One curie = 3.7 × 10 10 disintegrations per second = 3.7 × 10 10 becquerels = 2.22 × 10 12 disintegrations per minute.
 
 [56 FR 23391, May 21, 1991; 56 FR 61352, Dec. 3, 1991]

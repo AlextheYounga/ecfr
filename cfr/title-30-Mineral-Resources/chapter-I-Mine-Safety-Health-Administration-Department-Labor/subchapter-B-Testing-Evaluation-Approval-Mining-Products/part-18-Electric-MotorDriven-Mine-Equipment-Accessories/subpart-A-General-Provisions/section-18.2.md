@@ -1,5 +1,7 @@
 ##### § 18.2 Definitions. #####
 
+Link to an amendment published at 89 FR 99104, Dec. 10, 2024.
+
 As used in this part—
 
 *Acceptance* means written notification by MSHA that a hose has met the applicable requirements of this part and will be listed by MSHA as acceptable flame-resistant auxiliary equipment.

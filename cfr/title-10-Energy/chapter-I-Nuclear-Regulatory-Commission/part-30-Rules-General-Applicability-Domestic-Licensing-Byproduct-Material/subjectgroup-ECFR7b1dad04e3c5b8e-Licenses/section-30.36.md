@@ -72,8 +72,7 @@
 
 (4) Whether a significant reduction in radiation exposure to workers can be achieved by allowing short-lived radionuclides to decay; and
 
-(5) Other site-specific factors which the Commission may consider appropriate on a case-by-case basis, such as the regulatory requirements of other government agencies, lawsuits, groundwater treatment activities, monitored natural groundwater
-restoration, actions that could result in more environmental harm than deferred cleanup, and other factors beyond the control of the licensee.
+(5) Other site-specific factors which the Commission may consider appropriate on a case-by-case basis, such as the regulatory requirements of other government agencies, lawsuits, groundwater treatment activities, monitored natural groundwater restoration, actions that could result in more environmental harm than deferred cleanup, and other factors beyond the control of the licensee.
 
 (j) As the final step in decommissioning, the licensee shall—
 

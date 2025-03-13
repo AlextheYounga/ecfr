@@ -1,5 +1,7 @@
 ##### § 122.1 Registration requirements. #####
 
+Link to an amendment published at 89 FR 99084, Dec. 10, 2024.
+
 (a) Any person who engages in the United States in the business of manufacturing or exporting or temporarily importing defense articles, or furnishing defense services, is required to register with the Directorate of Defense Trade Controls under § 122.2. For the purpose of this subchapter, engaging in such a business requires only one occasion of manufacturing or exporting or temporarily importing a defense article or furnishing a defense service. A manufacturer who does not engage in exporting must nevertheless register. (*See* part 129 of this subchapter for requirements for registration of persons who engage in brokering activities.)
 
 (b) *Exemptions.* The registration requirements of paragraph (a) of this section do not apply to:

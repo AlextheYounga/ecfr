@@ -12,7 +12,7 @@
 
 (1) Shall not possess at any one time, at any one location of storage or use, more than 0.185 megabecquerel (5 microcuries) of americium-241 or 0.185 megabecquerel (5 microcuries) of radium-226 in such sources;
 
-(2) Shall not receive, possess, use, or transfer a source unless the source, or the storage container, bears a label which includes the following statement or a substantially similar statement which contains the information called for in the following statement:1
+(2) Shall not receive, possess, use, or transfer a source unless the source, or the storage container, bears a label which includes the following statement or a substantially similar statement which contains the information called for in the following statement: 1
 
 1 Sources generally licensed under this section before January 19, 1975, may bear labels authorized by the regulations in effect on January 1, 1975. Sources containing radium-226 generally licensed under this section and manufactured before November 30, 2007 shall be labeled in accordance with the applicable State regulations at the time of manufacture or import.
 

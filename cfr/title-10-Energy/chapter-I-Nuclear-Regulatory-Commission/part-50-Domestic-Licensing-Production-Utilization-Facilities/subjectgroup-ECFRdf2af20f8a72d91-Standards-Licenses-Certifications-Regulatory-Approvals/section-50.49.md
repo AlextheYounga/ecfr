@@ -4,7 +4,7 @@
 
 (b) Electric equipment important to safety covered by this section is:
 
-(1) Safety-related electric equipment.3
+(1) Safety-related electric equipment. 3
 
 3 Safety-related electric equipment is referred to as “Class 1E” equipment in IEEE 323-1974. Copies of this standard may be obtained from the Institute of Electrical and Electronics Engineers, Inc., 345 East 47th Street, New York, NY 10017.
 
@@ -20,7 +20,7 @@
 
 (2) Nonsafety-related electric equipment whose failure under postulated environmental conditions could prevent satisfactory accomplishment of safety functions specified in subparagraphs (b)(1)(i)(A) through (C) of this section by the safety-related equipment.
 
-(3) Certain post-accident monitoring equipment.4
+(3) Certain post-accident monitoring equipment. 4
 
 4 Specific guidance concerning the types of variables to be monitored is provided in Revision 2 of Regulatory Guide 1.97, “Instrumentation for Light-Water-Cooled Nuclear Power Plants to Assess Plant and Environs Conditions During and Following an Accident.” Copies of the Regulatory Guide may be purchased through the U.S. Government Publishing Office by calling 202-512-1800 or by writing to the U.S. Government Publishing Office, P.O. Box 37082, Washington, DC 20013-7082.
 

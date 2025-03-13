@@ -1,6 +1,6 @@
 ##### § 20.2106 Records of individual monitoring results. #####
 
-(a) *Recordkeeping requirement.* Each licensee shall maintain records of doses received by all individuals for whom monitoring was required pursuant to § 20.1502, and records of doses received during planned special exposures, accidents, and emergency conditions. These records5 must include, when applicable—
+(a) *Recordkeeping requirement.* Each licensee shall maintain records of doses received by all individuals for whom monitoring was required pursuant to § 20.1502, and records of doses received during planned special exposures, accidents, and emergency conditions. These records 5 must include, when applicable—
 
 5 Assessments of dose equivalent and records made using units in effect before the licensee's adoption of this part need not be changed.
 

@@ -2,7 +2,7 @@
 
 (a) Before license termination, licensees shall forward the following records to the appropriate NRC Regional Office:
 
-(1) Records of disposal of licensed material made under 10 CFR 20.2002 (including burials authorized before January 28, 19811), 20.2003, 20.2004, 20.2005;
+(1) Records of disposal of licensed material made under 10 CFR 20.2002 (including burials authorized before January 28, 1981 1), 20.2003, 20.2004, 20.2005;
 
 1 A previous § 20.304 permitted burial of small quantities of licensed materials in soil before January 28, 1981, without specific Commission authorization. *See* § 20.304 contained in the 10 CFR, parts 0 to 199, edition revised as of January 1, 1981.
 
@@ -12,7 +12,7 @@
 
 (b) If licensed activities are transferred or assigned in accordance with § 70.32(a)(3), the licensee shall transfer the following records to the new licensee and the new licensee will be responsible for maintaining these records until the license is terminated:
 
-(1) Records of disposal of licensed material made under 10 CFR 20.2002 (including burials authorized before January 28, 19811), 20.2003, 20.2004, 20.2005;
+(1) Records of disposal of licensed material made under 10 CFR 20.2002 (including burials authorized before January 28, 1981 1), 20.2003, 20.2004, 20.2005;
 
 (2) Records required by 10 CFR 20.2103(b)(4); and
 

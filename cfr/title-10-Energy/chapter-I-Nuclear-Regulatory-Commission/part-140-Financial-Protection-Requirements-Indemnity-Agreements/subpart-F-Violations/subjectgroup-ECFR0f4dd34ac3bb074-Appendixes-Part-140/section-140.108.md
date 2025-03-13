@@ -104,7 +104,7 @@ Article VII
 
 The term of this agreement shall commence as of the date and time specified in Item 5 of the Attachment and shall terminate at the time of expiration of that license specified in Item 3 of the Attachment, which is the last to expire; provided that, except as may otherwise be provided in applicable regulations or orders of the Commission, the term of this agreement shall not terminate until all the radioactive material has been removed from the location and transportation of the radioactive material from the location has ended as defined in paragraph 4(b), Article I. Termination of the term of this agreement shall not affect any obligation of the licensee or the Commission under this agreement with respect to any nuclear incident occurring during the term of this agreement.
 
-United States Nuclear Regulatory Commissionattachment
+United States Nuclear Regulatory Commission attachment
 
 Indemnity Agreement No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -122,4 +122,4 @@ Item 5—The indemnity agreement designated above, of which this Attachment is a
 
 Dated at Bethesda, MD, the \_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_ 19\_\_\_\_.
 
-For the U.S. Nuclear Regulatory Commission. For By[42 FR 53, Jan. 3, 1977, as amended at 42 FR 20142, Apr. 18, 1977; 42 FR 23501, May 9, 1977; 44 FR 20633, Apr. 6, 1979; 44 FR 24045, Apr. 24, 1979; 45 FR 37410, June 3, 1980; 49 FR 11152, Mar. 26, 1984; 54 FR 24161, June 6, 1989]
+For the U.S. Nuclear Regulatory Commission.  For  By[42 FR 53, Jan. 3, 1977, as amended at 42 FR 20142, Apr. 18, 1977; 42 FR 23501, May 9, 1977; 44 FR 20633, Apr. 6, 1979; 44 FR 24045, Apr. 24, 1979; 45 FR 37410, June 3, 1980; 49 FR 11152, Mar. 26, 1984; 54 FR 24161, June 6, 1989]

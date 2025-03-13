@@ -1,5 +1,7 @@
 ##### § 18.6 Applications. #####
 
+Link to an amendment published at 89 FR 99104, Dec. 10, 2024.
+
 (a)(1) Investigation leading to approval, certification, extension thereof, or acceptance of hose will be undertaken by MSHA only pursuant to a written application. The application shall be accompanied by all necessary drawings, specifications, descriptions, and related materials, as set out in this part. Fees calculated in accordance with part 5 of this title shall be submitted in accordance with § 5.40.
 
 (2) Where the applicant for approval has used an independent testing laboratory under part 6 of this chapter to perform, in whole or in part, the necessary testing and evaluation for approval under this part, the applicant must provide to MSHA as part of the approval application:

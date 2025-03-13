@@ -1,0 +1,3 @@
+##### § 84.100 Purpose. #####
+
+The purpose of the regulations in this subpart is to implement subsection (h) of 42 U.S.C. 7675, including with respect to establishing requirements to control practices, processes, or activities regarding the servicing, repair, disposal, or installation of equipment, for purposes of maximizing reclaiming, minimizing the release of regulated substances from equipment, and ensuring the safety of technicians and consumers.

@@ -8,6 +8,6 @@
 
 (1) A decay heat load in excess of 5 kW; or
 
-(2) A maximum normal operating pressure in excess of 103 kPa (15 lbf/in2) gauge.
+(2) A maximum normal operating pressure in excess of 103 kPa (15 lbf/in 2) gauge.
 
 [69 FR 3796, Jan. 26, 2004]

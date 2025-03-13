@@ -10,8 +10,7 @@
 
 (e) The collector shall complete the Federal CCF(s) and shall certify proper completion of the collection.
 
-(f) The specimens and Federal CCFs must be packaged for transfer to the HHS-certified laboratory or to the licensee testing facility.
-If the specimens are not immediately prepared for transfer, they must be appropriately safeguarded during temporary storage.
+(f) The specimens and Federal CCFs must be packaged for transfer to the HHS-certified laboratory or to the licensee testing facility. If the specimens are not immediately prepared for transfer, they must be appropriately safeguarded during temporary storage.
 
 (g) While any part of the chain of custody procedures is being performed, the specimens and custody documents must be under the control of the involved collector, except as provided in § 26.109(b)(1)(ii) for the Federal CCF. The collector may not leave the collection site during the interval between presentation of the specimen by the donor and securing of the specimens with identifying labels bearing the donor's specimen identification numbers and seals initialed by the donor. If the involved collector momentarily leaves his or her workstation, the sealed specimens and Federal CCFs must be secured or taken with him or her. If the collector is leaving for an extended period of time, the specimens must be packaged for transfer to the HHS-certified laboratory or the licensee testing facility and secured before the collector leaves the collection site.
 

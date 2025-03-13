@@ -1,5 +1,7 @@
 ##### § 310.2 Definitions. #####
 
+Link to an amendment published at 89 FR 99075, Dec. 10, 2024.
+
 (a) *Acquirer* means a business organization, financial institution, or an agent of a business organization or financial institution that has authority from an organization that operates or licenses a credit card system to authorize merchants to accept, transmit, or process payment by credit card through the credit card system for money, goods or services, or anything else of value.
 
 (b) *Attorney General* means the chief legal officer of a state.

@@ -8,7 +8,7 @@ Policy Period: Beginning on the first day of August, 1977, and continuing to the
 
 Limits of Liability: The amount of retrospective premium actually received by the companies plus the amount of the companies' contingent liability, if any, pursuant to Conditions 2, 3, and 4.
 
-Date of IssueAuthorized Representative
+Date of Issue Authorized Representative
 
 In consideration of the payment of the annual premium, in reliance upon the statements in the *certificates* and subject to the limits of liability, conditions and other terms of this Master Policy, the undersigned members of Nuclear Energy Liability Insurance Association (hereinafter called the *companies*), each for itself, severally and not jointly, and in the respective proportions herein set forth, and the *insureds* named in the *certificates,* agree as follows:
 
@@ -230,7 +230,7 @@ In witness whereof each of the subscribing companies has caused this Master Poli
 
 For the Subscribing Companies of NUCLEAR ENERGY LIABILITY INSURANCE ASSOCIATION
 
-By:Burt C. Proom,President.Nuclear Energy Liability Insurance AssociationCertificate No.Forming Part of Master Policy No.certificate of insurance declarations and bond for payment of retrospective premiumsCertificate of Insurance
+By:Burt C. Proom,President.Nuclear Energy Liability Insurance AssociationCertificate No. Forming Part of Master Policy No. certificate of insurance declarations and bond for payment of retrospective premiumsCertificate of Insurance
 
 This is to certify that the persons and organizations designated in Item 1 of the Declarations are named insureds under the Master Policy—Nuclear Energy Liability Insurance (Secondary Financial Protection), herein called the *Master Policy,* issued by Nuclear Energy Liability Insurance Association.
 

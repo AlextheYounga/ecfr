@@ -40,7 +40,7 @@ Except as provided in § 35.57, the licensee shall require an authorized user of
 
 (*1*) Oral administration of less than or equal to 1.22 gigabecquerels (33 millicuries) of sodium iodide I-131, for which a written directive is required;
 
-(*2*) Oral administration of greater than 1.22 gigabecquerels (33 millicuries) of sodium iodide I-131;2
+(*2*) Oral administration of greater than 1.22 gigabecquerels (33 millicuries) of sodium iodide I-131; 2
 
 2 Experience with at least three cases in Category (G)(2) also satisfies the requirement in Category (G)(1).
 
