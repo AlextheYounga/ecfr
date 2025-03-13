@@ -1,5 +1,7 @@
 ##### § 3010.101 Definitions. #####
 
+Link to an amendment published at 89 FR 67294, Aug. 20, 2024.
+
 (a) *Act* means title 39 of the United States Code, as amended.
 
 (b) *Commission* or *Commissioner* means, respectively, the Postal Regulatory Commission established by the Act or a member thereof. The Commission is located at 901 New York Avenue NW, Suite 200, Washington, DC 20268-0001. The Commission's regular business hours are from 8 a.m. to 4:30 p.m. Eastern Time, except for Saturdays, Sundays, and Federal holidays.

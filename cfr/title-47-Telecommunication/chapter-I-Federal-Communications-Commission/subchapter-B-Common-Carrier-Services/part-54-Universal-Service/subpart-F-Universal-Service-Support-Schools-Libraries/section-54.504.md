@@ -1,5 +1,7 @@
 ##### § 54.504 Requests for services. #####
 
+Link to an amendment published at 89 FR 67324, Aug. 20, 2024.
+
 (a) *Filing of the FCC Form 471.* An eligible school, library, or consortium that includes an eligible school or library seeking to receive discounts for eligible services under this subpart shall, upon entering into a signed contract or other legally binding agreement for eligible services, submit a completed FCC Form 471 to the Administrator.
 
 (1) The FCC Form 471 shall be signed by the person authorized to order eligible services for the eligible school, library, or consortium and shall include that person's certification under oath that:

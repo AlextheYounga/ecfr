@@ -1,5 +1,7 @@
 ##### § 3010.102 Commission dockets. #####
 
+Link to an amendment published at 89 FR 67294, Aug. 20, 2024.
+
 (a) The Commission may initiate a proceeding by issuing a notice or order that establishes a docket in which a proceeding is to be conducted.
 
 (b) When permitted by statute or regulation, any person may seek the initiation of a proceeding by filing a request with the Commission that complies with the rules governing the type of proceeding being requested.

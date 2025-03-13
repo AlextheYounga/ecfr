@@ -1,5 +1,7 @@
 ##### § 54.507 Cap. #####
 
+Link to an amendment published at 89 FR 67324, Aug. 20, 2024.
+
 (a) *Amount of the annual cap.* The aggregate annual cap on federal universal service support for schools and libraries shall be $3.9 billion per funding year, of which $1 billion per funding year will be available for category two services, as described in § 54.502(a)(2), unless demand for category one services is higher than available funding.
 
 (1) *Inflation increase.* In funding year 2016 and subsequent funding years, the $3.9 billion funding cap on federal universal service support for schools and libraries shall be automatically increased annually to take into account increases in the rate of inflation as calculated in paragraph (a)(2) of this section.

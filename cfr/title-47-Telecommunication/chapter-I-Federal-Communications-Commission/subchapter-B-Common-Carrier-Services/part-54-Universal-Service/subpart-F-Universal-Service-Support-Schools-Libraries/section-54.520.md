@@ -1,5 +1,7 @@
 ##### § 54.520 Children's Internet Protection Act certifications required from recipients of discounts under the federal universal service support mechanism for schools and libraries. #####
 
+Link to an amendment published at 89 FR 67325, Aug. 20, 2024.
+
 (a) *Definitions.*
 
 (1) *School.* For the purposes of the certification requirements of this rule, school means school, school board, school district, local education agency or other authority responsible for administration of a school.

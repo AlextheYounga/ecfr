@@ -1,5 +1,7 @@
 ##### § 3010.152 Notices initiating dockets for consideration of negotiated service agreements. #####
 
+Link to an amendment published at 89 FR 67294, Aug. 20, 2024.
+
 (a) The Secretary shall issue a notice to initiate a docket for each Postal Service request which proposes the addition or removal of a negotiated service agreement from the market dominant or the competitive product list, or the modification of an existing product currently appearing on the market dominant or the competitive product list. Multiple requests may be combined into a single notice.
 
 (b) The document shall specify:

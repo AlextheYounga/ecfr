@@ -1,5 +1,7 @@
 ##### § 124.8 Clauses required both in manufacturing license agreements and technical assistance agreements. #####
 
+Link to an amendment published at 89 FR 67290, Aug. 20, 2024.
+
 (a) The following statements must be included both in manufacturing license agreements and in technical assistance agreements:
 
 (1) “This agreement shall not enter into force, and shall not be amended or extended, without the prior written approval of the Department of State of the U.S. Government.”

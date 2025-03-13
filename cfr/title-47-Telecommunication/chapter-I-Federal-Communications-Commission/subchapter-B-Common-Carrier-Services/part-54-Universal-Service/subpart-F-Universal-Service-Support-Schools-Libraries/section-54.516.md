@@ -1,5 +1,7 @@
 ##### § 54.516 Auditing and inspections. #####
 
+Link to an amendment published at 89 FR 67325, Aug. 20, 2024.
+
 (a) *Recordkeeping requirements*—(1) *Schools, libraries, and consortia.* Schools, libraries, and any consortium that includes schools or libraries shall retain all documents related to the application for, receipt, and delivery of supported services for at least 10 years after the latter of the last day of the applicable funding year or the service delivery deadline for the funding request. Any other document that demonstrates compliance with the statutory or regulatory requirements for the schools and libraries mechanism shall be retained as well. Schools, libraries, and consortia shall maintain asset and inventory records of equipment purchased as components of supported category two services sufficient to verify the actual location of such equipment for a period of 10 years after purchase.
 
 (2) *Service providers.* Service providers shall retain documents related to the delivery of supported services for at least 10 years after the latter of the last day of the applicable funding year or the service delivery deadline for the funding request. Any other document that demonstrates compliance with the statutory or regulatory requirements for the schools and libraries mechanism shall be retained as well.

@@ -1,5 +1,7 @@
 ##### § 3010.200 Applicability. #####
 
+Link to an amendment published at 89 FR 67294, Aug. 20, 2024.
+
 (a) Except as otherwise provided in this section, the Commission shall conduct proceedings in conformance with the notice and comment procedures of this subpart whenever:
 
 (1) The Commission is considering the issuance, amendment, or repeal of any Commission rule or regulation;
