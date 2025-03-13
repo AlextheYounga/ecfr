@@ -1,8 +1,6 @@
 ##### § 457.142 Northern potato crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 93468, Nov. 27, 2024.
-
-The Northern Potato Crop Insurance Provisions for the 2025 and succeeding crop years in counties with a contract change date of June 30, September 30, and November 30, and for the 2026 and succeeding crop years in counties with a contract change date of April 30, are as follows:
+The Northern Potato Crop Insurance Provisions for the 2025 and succeeding crop years in counties with a contract change date of November 30, and for the 2026 and succeeding crop years in counties with a contract change date of April 30, June 30, and September 30, are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationNorthern Potato Crop Provisions
 
@@ -218,7 +216,7 @@ You also have a 100 percent share in 100 unharvested acres of potatoes in the sa
 
 (1) The potatoes have freeze damage or tuber rot that is evident at, or prior to, the end of the insurance period; and
 
-(2) A grade inspection is completed no later than 21 days after the end of the insurance period (if the Northern Potato Storage Coverage Endorsement is applicable, samples must be obtained within 60 days after the end of insurance period and quality (grade) determinations must be completed within 21 days of sampling; and
+(2) A grade inspection is completed no later than 21 days after the end of insurance period (if the Northern Potato Storage Coverage Endorsement is applicable, samples must be obtained within 60 days after the end of insurance period and quality (grade) determinations must be completed within 21 days of sampling; and
 
 (3) Prior to any grade inspection, you must notify us of the intended use of the potatoes so the appropriate United States standards will be applied (We may request previous sales records to verify your claimed intended use or base the intended use on the type of potato grown if such potatoes are not usually grown for the intended use you reported).
 
@@ -266,4 +264,4 @@ You also have a 100 percent share in 100 unharvested acres of potatoes in the sa
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[62 FR 65331, Dec. 12, 1997, as amended at 72 FR 61282, Oct. 30, 2007; 81 FR 84400, Nov. 23, 2016; 89 FR 53842, June 27, 2024]
+[62 FR 65331, Dec. 12, 1997, as amended at 72 FR 61282, Oct. 30, 2007; 81 FR 84400, Nov. 23, 2016; 89 FR 53842, June 27, 2024; 89 FR 93468, Nov. 27, 2024]

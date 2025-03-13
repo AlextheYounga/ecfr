@@ -1,6 +1,6 @@
 ##### § 500.108 SMS. #####
 
-An SMS is a systematic process with the goal of reducing the number and severity of traffic crashes by ensuring that all opportunities to improve highway safety are identified, considered, implemented as appropriate, and evaluated in all phases of highway planning, design, construction, maintenance, and operation and by providing information for selecting and implementing effective highway safety strategies and projects. The development of the SMS may be based on the guidance in “Safety Management Systems: Good Practices for Development and Implementation.”3 An effective SMS should include, at a minimum:
+An SMS is a systematic process with the goal of reducing the number and severity of traffic crashes by ensuring that all opportunities to improve highway safety are identified, considered, implemented as appropriate, and evaluated in all phases of highway planning, design, construction, maintenance, and operation and by providing information for selecting and implementing effective highway safety strategies and projects. The development of the SMS may be based on the guidance in “Safety Management Systems: Good Practices for Development and Implementation.” 3 An effective SMS should include, at a minimum:
 
 3*Safety Management Systems: Good Practices for Development and Implementation,* FHWA and NHTSA, May 1996. Available for inspection and copying as prescribed in 49 CFR part 7, appendix D.
 

@@ -6,7 +6,7 @@
 
 (3) Findings, conclusions, and recommendations shall be explicitly stated and, when necessary, supported by documentary evidence.
 
-(4) The compliance review report shall contain at least the following information.1 (Action R-20)
+(4) The compliance review report shall contain at least the following information. 1 (Action R-20)
 
 1 The Federal Highway Administration will accept completed Form FHWA-86 for the purpose. The form is available at the offices listed in 49 CFR part 7, appendix D.
 

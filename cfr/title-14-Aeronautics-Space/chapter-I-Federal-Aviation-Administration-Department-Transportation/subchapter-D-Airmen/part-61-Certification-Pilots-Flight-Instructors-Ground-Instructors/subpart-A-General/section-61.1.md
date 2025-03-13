@@ -1,6 +1,6 @@
 ##### § 61.1 Applicability and definitions. #####
 
-Link to an amendment published at 89 FR 80339, Oct. 2, 2024.Link to an amendment published at 89 FR 92483, Nov. 21, 2024.
+Link to an amendment published at 89 FR 92483, Nov. 21, 2024.
 
 (a) Except as provided in part 107 of this chapter, this part prescribes:
 
@@ -104,6 +104,8 @@ Link to an amendment published at 89 FR 80339, Oct. 2, 2024.Link to an amendment
 
 *Night vision goggle operation* means the portion of a flight that occurs during the time period from 1 hour after sunset to 1 hour before sunrise where the pilot maintains visual surface reference using night vision goggles in an aircraft that is approved for such an operation.
 
+*Passenger* means any person on board an aircraft other than a crewmember, FAA personnel, manufacturer personnel required for type certification, or a person receiving or providing flight training, checking, or testing as authorized by this part.
+
 *Pilot time* means that time in which a person—
 
 (i) Serves as a required pilot flight crewmember;
@@ -134,4 +136,4 @@ Link to an amendment published at 89 FR 80339, Oct. 2, 2024.Link to an amendment
 
 (iii) In a flight simulator or flight training device from an authorized instructor.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40893, July 30, 1997 as amended by Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-124, 74 FR 42546, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-130, 78 FR 42372, July 15, 2013; Amdt. 61-137, 81 FR 42208, June 28, 2016; Amdt. 61-142, 83 FR 30276, June 27, 2018]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40893, July 30, 1997 as amended by Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-124, 74 FR 42546, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-130, 78 FR 42372, July 15, 2013; Amdt. 61-137, 81 FR 42208, June 28, 2016; Amdt. 61-142, 83 FR 30276, June 27, 2018; Doc. No. FAA-2023-1351; Amdt. No. 61-156, 89 FR 80339, Oct. 2, 2024]

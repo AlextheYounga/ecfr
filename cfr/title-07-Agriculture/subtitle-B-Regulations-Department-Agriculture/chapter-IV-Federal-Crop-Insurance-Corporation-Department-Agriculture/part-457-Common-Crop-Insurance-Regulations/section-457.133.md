@@ -1,8 +1,6 @@
 ##### § 457.133 Prune crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 93467, Nov. 27, 2024.
-
-The Prune Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
+The Prune Crop Insurance Provisions for the 2026 and succeeding crop years are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationPrune Crop Provisions
 
@@ -20,9 +18,9 @@ In return for your payment of premium and administrative fee for the coverage, t
 
 *Standard prunes.* Any natural condition prunes:
 
-(a) That grade “C,” “U.S. Standard,” or better in accordance with the United States Standards for Grades of Dried Prunes; or
+(1) That grade “C,” “U.S. Standard,” or better in accordance with the United States Standards for Grades of Dried Prunes; or
 
-(b) That meet or exceed the grade standards in effect for the crop year if a Marketing Order for California Prunes has been established for the area in which the insured crop is grown.
+(2) That meet or exceed the grade standards in effect for the crop year if a Marketing Order for California Prunes has been established for the area in which the insured crop is grown.
 
 *Ton.* Two thousand (2,000) pounds avoirdupois.
 
@@ -262,4 +260,4 @@ In addition to the information in the first example, you have an additional 50.0
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 58630, Oct. 30, 1997, as amended at 62 FR 65172, Dec. 10, 1997; 65 FR 47839, Aug. 4, 2000; 77 FR 59048, Sept. 26, 2012; 87 FR 38894, June 30, 2022; 89 FR 53840, June 27, 2024]
+[62 FR 58630, Oct. 30, 1997, as amended at 62 FR 65172, Dec. 10, 1997; 65 FR 47839, Aug. 4, 2000; 77 FR 59048, Sept. 26, 2012; 87 FR 38894, June 30, 2022; 89 FR 53840, June 27, 2024; 89 FR 93467, Nov. 27, 2024]

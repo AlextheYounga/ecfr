@@ -144,7 +144,17 @@
 
 (iii) Authorization to initiate employment changes pursuant to 8 CFR 214.2(h)(31) and paragraph (b)(34)(i) of this section begins at 12 a.m. on January 25, 2024, and ends at the end of January 24, 2025.
 
-(35)-(36) [Reserved]
+(35)(i) Pursuant to 8 CFR 214.2(h)(32) and notwithstanding 8 CFR 214.2(h)(2)(i)(D), an alien is authorized to be employed no earlier than the start date of employment indicated in the H-2B petition and no earlier than January 25, 2025, by a new employer that has filed an H-2B petition naming the alien as a beneficiary and requesting an extension of stay for the alien, for a period not to exceed 60 days beginning on:
+
+(A) The later of the “Received Date” on Form I-797 (Notice of Action) acknowledging receipt of the petition, or the start date of employment indicated on the new H-2B petition, for petitions filed on or after January 25, 2025; or
+
+(B) The later of January 25, 2025, or the start date of employment indicated on the new H-2B petition, for petitions that are pending as of January 25, 2025.
+
+(ii) If USCIS adjudicates the new petition prior to the expiration of the 60-day period in paragraph (b)(35)(i) of this section and denies the new petition for extension of stay, or if the petitioner withdraws the new petition before the expiration of the 60-day period, the employment authorization under this paragraph (b)(35) will automatically terminate upon 15 days after the date of the denial decision or the date on which the new petition is withdrawn. Nothing in this section is intended to alter the availability of employment authorization related to professional H-2B athletes who are traded between organizations pursuant to paragraph (b)(9) of this section and 8 CFR 214.2(h)(6)(vii).
+
+(iii) Authorization to initiate employment changes pursuant to 8 CFR 214.2(h)(32) and paragraph (b)(35)(i) of this section begins at 12 a.m. on January 25, 2025, and ends at the end of January 24, 2026.
+
+(36) [Reserved]
 
 (37) An alien paroled into the United States as an entrepreneur pursuant to 8 CFR 212.19 for the period of authorized parole. An entrepreneur who has timely filed a non-frivolous application requesting re-parole with respect to the same start-up entity in accordance with 8 CFR 212.19 prior to the expiration of his or her parole, but whose authorized parole period expires during the pendency of such application, is authorized to continue employment with the same start-up entity for a period not to exceed 240 days beginning on the date of expiration of parole. Such authorization shall be subject to any conditions and limitations on such expired parole. If DHS adjudicates the application prior to the expiration of this 240-day period and denies the application for re-parole, the employment authorization under this paragraph shall automatically terminate upon notification to the alien of the denial decision.
 
@@ -253,3 +263,5 @@
 3. At 87 FR 76876, Dec. 15, 2022, § 274a.12 was amended by adding paragraph (b)(33), effective Dec. 15, 2022, through Dec. 15, 2025.
 
 4. At 88 FR 80458, Nov. 17, 2023, § 274a.12 was amended by adding paragraph (b)(34), effective Nov. 17, 2023, through Nov. 17, 2026.
+
+5. At 89 FR 95683, Dec. 2, 2024, § 274a.12 was amended by adding paragraph (b)(35), effective Dec. 2, 2024, through Dec. 2, 2027.

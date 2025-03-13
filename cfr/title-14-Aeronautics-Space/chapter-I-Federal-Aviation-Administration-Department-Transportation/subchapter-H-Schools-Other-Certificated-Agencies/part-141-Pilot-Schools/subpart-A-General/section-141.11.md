@@ -1,7 +1,5 @@
 ##### § 141.11 Pilot school ratings. #####
 
-Link to an amendment published at 89 FR 80054, Oct. 1, 2024.
-
 (a) The ratings listed in paragraph (b) of this section may be issued to an applicant for:
 
 (1) A pilot school certificate, provided the applicant meets the requirements of § 141.5 of this part; or
@@ -50,6 +48,10 @@ Link to an amendment published at 89 FR 80054, Oct. 1, 2024.
 
 (viii) Airline transport pilot certification training program.
 
+(ix) Flight instructor enhanced qualification training program.
+
 (3) *Pilot ground school course.* (Appendix L).
 
-[Doc. No. 25910, 62 FR 16347, Apr. 4, 1997, as amended by Amdt. 141-17, 78 FR 42379, July 15, 2013; Amdt. 141-17A, 78 FR 53026, Aug. 28, 2013]
+(4) *Combined Private Pilot Certification and Instrument Rating Course.* (Appendix M).
+
+[Doc. No. 25910, 62 FR 16347, Apr. 4, 1997, as amended by Amdt. 141-17, 78 FR 42379, July 15, 2013; Amdt. 141-17A, 78 FR 53026, Aug. 28, 2013; Doc. No. FAA-2023-0825; Amdt. No. 141-25, 89 FR 80054, Oct. 1, 2024]

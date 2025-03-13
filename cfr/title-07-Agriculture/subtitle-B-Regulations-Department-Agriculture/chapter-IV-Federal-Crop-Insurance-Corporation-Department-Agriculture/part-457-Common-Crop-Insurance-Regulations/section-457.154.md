@@ -1,10 +1,12 @@
 ##### § 457.154 Processing sweet corn crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 93469, Nov. 27, 2024.
+The Processing Sweet Corn Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
-The Processing Sweet Corn Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
+FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationProcessing Sweet Corn Crop Provisions
 
-FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Processing Sweet Corn Crop Provisions1. Definitions
+In return for your payment of premium and administrative fee for the coverage, these Processing Sweet Corn Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
+
+1. Definitions
 
 *Base contract price.* The price stipulated on the processor contract without regard to discounts or incentives that may apply.
 
@@ -48,9 +50,9 @@ FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsure
 
 (ii) In accordance with section 12, all production from any basic unit in excess of the amount under contract will be included as production to count if such production is applied to any other basic unit for which the contracted amount has not been fulfilled; and
 
-(2) Provisions in the Basic Provisions that allow optional units by section, section equivalent, or FSA farm number and by irrigated and non-irrigated practices are not applicable.
+(2) Section 34(c) of the Basic Provisions that allows optional units is not applicable.
 
-(b) For any processor contract that stipulates the number of acres to be planted, the provisions contained in section 34 of the Basic Provisions will apply.
+(b) For processor contracts that stipulate the number of acres to be planted, optional units as provided in section 34(c) of the Basic Provisions will apply.
 
 3. Insurance Guarantees, Coverage Levels, and Prices
 
@@ -176,7 +178,7 @@ In addition to section 14 of the Basic Provisions, you must give us notice:
 
 (b) Within 3 days after the date harvest should have started on any acreage that will not be harvested unless we have previously released the acreage. You must also provide acceptable documentation of the reason the acreage was bypassed. Failure to provide such documentation will result in our determination that the acreage was bypassed due to an uninsured cause of loss. If the crop will not be harvested and you wish to destroy the crop, you must leave representative samples of the unharvested crop for our inspection. The samples must be at least 10 feet wide and extend the entire length of each field in each unit. The samples must not be destroyed until the earlier of our inspection or 15 days after notice is given to us; and
 
-(c) At least 15 days prior to the beginning of harvest if you intend to claim an indemnity on any unit, or immediately if damage is discovered during the 15 day period or during harvest, so that we may inspect any damaged production. If you fail to notify us and such failure results in our inability to inspect the damaged production, we will consider all such production to be undamaged and include it as production to count. You are not required to delay harvest.
+(c) At least 15 days prior to the beginning of harvest if you intend to claim an indemnity on any unit, or immediately if damage is discovered during the 15-day period or during harvest, so that we may inspect any damaged production. If you fail to notify us and such failure results in our inability to inspect the damaged production, we will consider all such production to be undamaged and include it as production to count. You are not required to delay harvest.
 
 12. Settlement of Claim
 
@@ -278,4 +280,4 @@ A late planting period is not applicable to processing sweet corn unless allowed
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional levels of coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[62 FR 65342, Dec. 12, 1997, as amended at 76 FR 4804, Jan. 27, 2011; 78 FR 55173, Sept. 10, 2013; 81 FR 84400, Nov. 23, 2016; 87 FR 72363, Nov. 25, 2022]
+[62 FR 65342, Dec. 12, 1997, as amended at 76 FR 4804, Jan. 27, 2011; 78 FR 55173, Sept. 10, 2013; 81 FR 84400, Nov. 23, 2016; 87 FR 72363, Nov. 25, 2022; 89 FR 93469, Nov. 27, 2024]

@@ -1,12 +1,8 @@
-##### § 522.2470 Tiletamine and zolazepam for injection. #####
+##### § 522.2470 Tiletamine and zolazepam. #####
 
 (a) *Specifications.* The drug is a sterile powder. Each milliliter of constituted solution contains tiletamine hydrochloride equivalent to 50 milligrams (mg) of tiletamine base and zolazepam hydrochloride equivalent to 50 mg of zolazepam base.
 
-(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter.
-
-(1) Nos. 017033 and 054771 for use as in paragraph (c) of this section.
-
-(2) No. 051311 for use as in paragraphs (c)(1)(i)(A), (c)(1)(ii)(A), (c)(1)(iii), and (c)(2) of this section.
+(b) *Sponsors.* See Nos. 017033, 051311, and 054771 in § 510.600(c) of this chapter.
 
 (c) *Conditions of use*—(1) *Dogs*—(i) *Amount.* Expressed as milligrams of the drug combination:
 
@@ -26,4 +22,4 @@
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[79 FR 16197, Mar. 25, 2014, as amended at 83 FR 14587, Apr. 5, 2018; 86 FR 17064, Apr. 1, 2021; 87 FR 10969, Feb. 28, 2022; 88 FR 16548, Mar. 20, 2023]
+[79 FR 16197, Mar. 25, 2014, as amended at 83 FR 14587, Apr. 5, 2018; 86 FR 17064, Apr. 1, 2021; 87 FR 10969, Feb. 28, 2022; 88 FR 16548, Mar. 20, 2023; 89 FR 95103, Dec. 2, 2024]

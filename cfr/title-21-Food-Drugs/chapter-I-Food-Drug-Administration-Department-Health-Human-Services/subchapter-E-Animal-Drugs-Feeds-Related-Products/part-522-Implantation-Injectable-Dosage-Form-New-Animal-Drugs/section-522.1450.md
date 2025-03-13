@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each milliliter (mL) of solution contains 10 milligrams (mg) moxidectin.
 
-(b) *Sponsors.* See Nos. 055529 and 058198 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 055529, 058198, and 061133 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.426 of this chapter.
 
@@ -14,4 +14,4 @@
 
 (3) *Limitations.* Cattle must not be slaughtered for human consumption within 21 days of treatment. This drug product is not approved for use in female dairy cattle 20 months of age or older, including dry dairy cows. Use in these cattle may cause drug residues in milk and/or in calves born to these cows. A withdrawal period has not been established for preruminating calves. Do not use in calves to be processed for veal.
 
-[70 FR 36337, June 23, 2005, as amended at 71 FR 7414, Feb. 13, 2006; 76 FR 48714, Aug. 9, 2011; 82 FR 21690, May 10, 2017; 86 FR 14820, Mar. 19, 2021; 88 FR 27699, May 3, 2023]
+[70 FR 36337, June 23, 2005, as amended at 71 FR 7414, Feb. 13, 2006; 76 FR 48714, Aug. 9, 2011; 82 FR 21690, May 10, 2017; 86 FR 14820, Mar. 19, 2021; 88 FR 27699, May 3, 2023; 89 FR 95103, Dec. 2, 2024]

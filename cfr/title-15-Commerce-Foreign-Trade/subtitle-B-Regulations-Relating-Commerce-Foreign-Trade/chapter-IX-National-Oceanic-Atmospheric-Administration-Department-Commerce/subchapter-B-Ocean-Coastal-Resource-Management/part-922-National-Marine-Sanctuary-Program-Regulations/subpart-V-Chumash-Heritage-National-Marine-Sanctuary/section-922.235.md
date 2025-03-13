@@ -1,0 +1,7 @@
+##### § 922.235 Memoranda of Agreement with partner agencies. #####
+
+(a) *Introduced species aquaculture projects.* (1) NOAA would describe in a Memorandum of Agreement (MOA) with the State of California how NOAA will coordinate review of any proposed introduction of non-invasive introduced species from a proposed commercial shellfish aquaculture activity in State waters when considering an authorization under § 922.232(e).
+
+(2) The MOA would specify how the process of § 922.36 in subpart D will be administered within State waters within the sanctuary in coordination with State permit and lease programs as administered by the California Fish and Game Commission, the Department of Fish and Wildlife and the California Coastal Commission.
+
+(b) *Sunken military craft.* Sunken military craft are administered by the respective Secretary concerned pursuant to the Sunken Military Craft Act. The Director will enter into a MOA regarding collaboration with other Federal agencies charged with implementing the Sunken Military Craft Act that may address aspects of managing and protecting sunken military craft. The Director will request approval from the Secretary concerned for any terms and conditions of ONMS authorizations that may involve sunken military craft.

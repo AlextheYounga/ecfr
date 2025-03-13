@@ -70,4 +70,4 @@
 
 (3) All utility cost records and accounts relating to the project are subject to audit by representatives of the State and Federal Government for a period of 3 years from the date final payment has been received by the utility.
 
-(Information collection requirements in paragraph (i) were approved by the Office of Management and Budget under control number 2125-0159)[50 FR 20345, May 15, 1985, as amended at 60 FR 34850, July 5, 1995; 65 FR 70311, Nov. 22, 2000]
+(Information collection requirements in paragraph (i) were approved by the Office of Management and Budget under control number 2125-0159) [50 FR 20345, May 15, 1985, as amended at 60 FR 34850, July 5, 1995; 65 FR 70311, Nov. 22, 2000]

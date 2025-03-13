@@ -16,7 +16,7 @@
 
 (7) The data are required as part of a federally mandated program of the U.S. DOT.
 
-(b) The TMS for highway traffic data should be based on the concepts described in the American Association of State Highway and Transportation Officials (AASHTO) “AASHTO Guidelines for Traffic Data Programs”4 and the FHWA “Traffic Monitoring Guide (TMG),”5 and shall be consistent with the FHWA “Highway Performance Monitoring System Field Manual.”6
+(b) The TMS for highway traffic data should be based on the concepts described in the American Association of State Highway and Transportation Officials (AASHTO) “AASHTO Guidelines for Traffic Data Programs” 4 and the FHWA “Traffic Monitoring Guide (TMG),” 5 and shall be consistent with the FHWA “Highway Performance Monitoring System Field Manual.” 6
 
 4 AASHTO Guidelines for Traffic Data Programs, 1992, ISBN 1-56051-054-4, can be purchased from the American Association of State Highway and Transportation Officials, 444 N. Capitol Street, NW., Suite 249, Washington, D.C. 20001. Available for inspection as prescribed in 49 CFR part 7, appendix D.
 

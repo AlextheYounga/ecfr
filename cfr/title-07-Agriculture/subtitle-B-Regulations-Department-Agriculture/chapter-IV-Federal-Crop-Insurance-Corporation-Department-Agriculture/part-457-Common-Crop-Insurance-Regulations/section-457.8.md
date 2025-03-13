@@ -1,7 +1,5 @@
 ##### § 457.8 The application and policy. #####
 
-Link to an amendment published at 89 FR 93467, Nov. 27, 2024.
-
 (a) Application for insurance on a form prescribed by the Corporation, or approved by the Corporation, must be made by any person who wishes to participate in the program, to cover such person's share in the insured crop as landlord, owner-operator, crop ownership interest, or tenant. No other person's interest in the crop may be insured under an application unless that person's interest is clearly shown on the application and unless that other person's interest is insured in accordance with the procedures of the Corporation. The application must be submitted to the Corporation or the reinsured company through the crop insurance agent and must be submitted on or before the applicable sales closing date on file.
 
 (b) FCIC or the reinsured company may reject or discontinue the acceptance of applications in any county or of any individual application upon FCIC's determination that the insurance risk is excessive.
@@ -790,7 +788,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (ii) You must notify us of changes in your production method by the acreage reporting date. If you fail to notify us, in addition to the reduction of your approved yield described herein, you will be considered to have misreported information and you will be subject to the consequences in section 6(g). For example, for a non-irrigated APH database, your yield is based upon acreage of the crop that is watered once prior to planting, and the crop is not watered prior to planting for the current crop year. Your approved APH yield will be reduced to an amount consistent with the actual production history of your other non-irrigated APH database where the crop has not been watered prior to planting or limited to the non-irrigated transitional yield for the APH database if other such APH databases do not exist.
 
-(i) Unless you meet the double cropping requirements contained in section 17(f)(4), if you elect to plant a second crop on acreage where the first insured crop was prevented from being planted, you will receive a yield equal to 60 percent of the approved yield for the first insured crop to calculate your average yield for subsequent crop years not applicable to crops if the APH is not the basis for the insurance guarantee). If the unit contains both prevented planting and planted acreage of the same crop, the yield for such acreage will be determined by:
+(i) Unless you meet the double cropping requirements contained in section 17(f)(4), if you elect to plant a second crop on acreage where the first insured crop was prevented from being planted, you will receive a yield equal to 60 percent of the approved yield for the first insured crop to calculate your average yield for subsequent crop years (not applicable) to crops if the APH is not the basis for the insurance guarantee). If the unit contains both prevented planting and planted acreage of the same crop, the yield for such acreage will be determined by:
 
 (1) Multiplying the number of insured prevented planting acres by 60 percent of the approved yield for the first insured crop;
 

@@ -1,6 +1,6 @@
 ##### § 1.1 General definitions. #####
 
-Link to an amendment published at 89 FR 80338, Oct. 2, 2024.Link to an amendment published at 89 FR 92483, Nov. 21, 2024.
+Link to an amendment published at 89 FR 92483, Nov. 21, 2024.
 
 As used in Subchapters A through K of this chapter, unless the context requires otherwise:
 
@@ -416,7 +416,7 @@ Whether that commerce moves wholly by aircraft of partly by aircraft and partly 
 
 (i) For the sole purpose of determining public aircraft status, *commercial purposes* means the transportation of persons or property for compensation or hire, but does not include the operation of an aircraft by the armed forces for reimbursement when that reimbursement is required by any Federal statute, regulation, or directive, in effect on November 1, 1999, or by one government on behalf of another government under a cost reimbursement agreement if the government on whose behalf the operation is conducted certifies to the Administrator of the Federal Aviation Administration that the operation is necessary to respond to a significant and imminent threat to life or property (including natural resources) and that no service by a private operator is reasonably available to meet the threat.
 
-(ii) For the sole purpose of determining public aircraft status, *governmental function* means an activity undertaken by a government, such as national defense, intelligence missions, firefighting, search and rescue, law enforcement (including transport of prisoners, detainees, and illegal aliens), aeronautical research, or biological or geological resource management.
+(ii) For the sole purpose of determining public aircraft status, *governmental function* means an activity undertaken by a government, such as national defense, intelligence missions, firefighting, search and rescue, law enforcement (including transport of prisoners, detainees, and illegal aliens), aeronautical research, biological or geological resource management (including data collection on civil aviation systems undergoing research, development, test, or evaluation at a test range (as such term is defined in 49 U.S.C. 44801)), infrastructure inspections, or any other activity undertaken by a governmental entity that the Administrator determines is inherently governmental.
 
 (iii) For the sole purpose of determining public aircraft status, *qualified non-crewmember* means an individual, other than a member of the crew, aboard an aircraft operated by the armed forces or an intelligence agency of the United States Government, or whose presence is required to perform, or is associated with the performance of, a governmental function.
 

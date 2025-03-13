@@ -1,8 +1,8 @@
 ##### § 61.57 Recent flight experience: Pilot in command. #####
 
-Link to an amendment published at 89 FR 80339, Oct. 2, 2024.Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
+Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
 
-(a) *General experience.* (1) Except as provided in paragraph (e) of this section, no person may act as a pilot in command of an aircraft carrying passengers or of an aircraft certificated for more than one pilot flight crewmember unless that person has made at least three takeoffs and three landings within the preceding 90 days, and—
+(a) *General experience.* (1) Except as provided in paragraph (e) of this section, no person may act as a pilot in command of an aircraft carrying persons or of an aircraft certificated for more than one pilot flight crewmember unless that person has made at least three takeoffs and three landings within the preceding 90 days, and—
 
 (i) The person acted as the sole manipulator of the flight controls; and
 
@@ -16,7 +16,7 @@ Link to an amendment published at 89 FR 80339, Oct. 2, 2024.Link to an amendment
 
 (ii) Used in accordance with an approved course conducted by a training center certificated under part 142 of this chapter.
 
-(b) *Night takeoff and landing experience.* (1) Except as provided in paragraph (e) of this section, no person may act as pilot in command of an aircraft carrying passengers during the period beginning 1 hour after sunset and ending 1 hour before sunrise, unless within the preceding 90 days that person has made at least three takeoffs and three landings to a full stop during the period beginning 1 hour after sunset and ending 1 hour before sunrise, and—
+(b) *Night takeoff and landing experience.* (1) Except as provided in paragraph (e) of this section, no person may act as pilot in command of an aircraft carrying persons during the period beginning 1 hour after sunset and ending 1 hour before sunrise, unless within the preceding 90 days that person has made at least three takeoffs and three landings to a full stop during the period beginning 1 hour after sunset and ending 1 hour before sunrise, and—
 
 (i) That person acted as sole manipulator of the flight controls; and
 
@@ -103,6 +103,16 @@ Link to an amendment published at 89 FR 80339, Oct. 2, 2024.Link to an amendment
 (C) Within the preceding 90 days prior to the operation of that airplane that is type certificated for more than one pilot crewmember, the pilot must have accomplished and logged at least 15 hours of flight time in the type of airplane that the pilot seeks to operate under this alternative; and
 
 (D) Within the preceding 12 months prior to the month of the flight, the pilot must have completed a training program that is approved under part 142 of this chapter. The approved training program must have required and the pilot must have performed, at least 6 takeoffs and 6 landings to a full stop as the sole manipulator of the controls in a full flight simulator that is representative of a turbine-powered airplane that requires more than one pilot crewmember. The full flight simulator's visual system must have been adjusted to represent the period beginning 1 hour after sunset and ending 1 hour before sunrise.
+
+(5) Paragraphs (a) and (b) of this section do not apply to a person receiving flight training from an authorized instructor, provided:
+
+(i) The flight training is limited to the purpose of meeting the requirements of paragraphs (a) and (b) of this section;
+
+(ii) Notwithstanding the provisions of paragraphs (a) and (b) of this section, the person receiving flight training meets all other requirements to act as pilot in command of the aircraft; and
+
+(iii) The authorized instructor and the person receiving flight training are the sole occupants of the aircraft.
+
+(6) Paragraphs (a) and (b) of this section do not apply to the examiner or the applicant during a practical test required by this part.
 
 (f) *Night vision goggle operating experience.* (1) A person may act as pilot in command in a night vision goggle operation with passengers on board only if, within 2 calendar months preceding the month of the flight, that person performs and logs the following tasks as the sole manipulator of the controls on a flight during a night vision goggle operation—
 

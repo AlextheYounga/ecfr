@@ -1,8 +1,6 @@
 ##### § 457.147 Central and Southern potato crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 93469, Nov. 27, 2024.
-
-The Central and Southern Potato Crop Insurance Provisions for the 2025 and succeeding crop years in counties with a contract change date of June 30, September 30, and November 30, and for the 2026 and succeeding crop years in counties with a contract change date of April 30, are as follows:
+The Central and Southern Potato Crop Insurance Provisions for the 2025 and succeeding crop years in counties with a contract change date of November 30, and for the 2026 and succeeding crop years in counties with a contract change date of April 30, June 30, and September 30, are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationCentral and Southern Potato Crop Provisions
 
@@ -175,27 +173,23 @@ For example: You have a 100 percent share in 100 harvested acres of potatoes in 
 
 (4) 10,000 hundredweight × $4.00 price election = $40,000.00 value of production to count;
 
-(5) $60,000.00 − $40,000.00 = $20,000.00 loss; and
+(6) $60,000.00−$40,000.00 = $20,000.00 loss; and
 
-(6) $20,000.00 × 100 percent = $20,000.00 indemnity payment.
+(7) $20,000.00 × 100 percent = $20,000.00 indemnity payment.
 
-You also have a 100 percent share in 100 unharvested acres of potatoes in the same unit, with a guarantee of 150 hundredweight per acre and a price election of $3.60 per hundredweight. (The price election for unharvested acreage is 90.0 percent of your elected price election ($4.00 × 0.90 = $3.60.)) This unharvested acreage was appraised at 35 hundredweight per acre for a total of 3500 hundredweight as production to count. Your total indemnity for the harvested and unharvested acreage would be calculated as follows:
+You also have a 100 percent share in 100 unharvested acres of potatoes in the same unit, with a guarantee of 150 hundredweight per acre and a price election of $3.60 per hundredweight. (The price election for unharvested acreage is 90.0 percent of your elected price election ($4.00 × 0.90 = $3.60.)) This unharvested acreage was appraised at 35 hundredweight per acre for a total of 3,500 hundredweight as production to count. Your total indemnity for the harvested and unharvested acreage would be calculated as follows:
 
-(1) 100 acres × 150 hundredweight = 15,000 hundredweight guarantee for the harvested acreage, and
+(1) 100 acres × 150 hundredweight = 15,000 hundredweight guarantee for the harvested acreage, and 100 acres × 150 hundredweight = 15,000 hundredweight guarantee for the unharvested acreage;
 
-100 acres × 150 hundredweight = 15,000 hundredweight guarantee for the unharvested acreage;
-
-(2) 15,000 hundredweight guarantee × $4.00 price election = $60,000.00 value of guarantee for the harvested acreage, and
-
-15,000 hundredweight guarantee × $3.60 price election = $54,000.00 value of guarantee for the unharvested acreage;
+(2) 15,000 hundredweight guarantee × $4.00 price election = $60,000.00 value of guarantee for the harvested acreage, and 15,000 hundredweight guarantee × $3.60 price election = $54,000.00 value of guarantee for the unharvested acreage;
 
 (3) $60,000.00 + $54,000.00 = $114,000.00 total value of guarantee;
 
-(4) 10,000 hundredweight × $4.00 price election = $40,000.00 value of production to count for the harvested acreage, and 3500 hundredweight × $3.60 = $12,600.00 value of production to count for the unharvested acreage;
+(4) 10,000 hundredweight × $4.00 price election = $40,000.00 value of production to count for the harvested acreage, and 3,500 hundredweight × $3.60 = $12,600.00 value of production to count for the unharvested acreage;
 
 (5) $40,000.00 + $12,600.00 = $52,600.00 total value of production to count;
 
-(6) $114,000.00 − $52,600.00 = $61,400.00 loss; and
+(6) $114,000.00−$52,600.00 = $61,400.00 loss; and
 
 (7) $61,400.00 loss × 100 percent = $61,400.00 indemnity payment.
 
@@ -267,4 +261,4 @@ You also have a 100 percent share in 100 unharvested acres of potatoes in the sa
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[62 FR 65333, Dec. 12, 1997, as amended at 72 FR 61287, Oct. 30, 2007; 81 FR 84400, Nov. 23, 2016; 89 FR 53843, June 27, 2024]
+[62 FR 65333, Dec. 12, 1997, as amended at 72 FR 61287, Oct. 30, 2007; 81 FR 84400, Nov. 23, 2016; 89 FR 53843, June 27, 2024; 89 FR 93469, Nov. 27, 2024]

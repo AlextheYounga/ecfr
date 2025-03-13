@@ -1,6 +1,6 @@
 ##### § 407.9 Area risk protection insurance policy. #####
 
-Link to an amendment published at 89 FR 93467, Nov. 27, 2024.[FCIC policies]Department of AgricultureFederal Crop Insurance CorporationArea Risk Protection Insurance Policy[Reinsured policies](Appropriate title for insurance provider)(This is a continuous policy. Refer to Section 2.)[FCIC policies]
+[FCIC policies]Department of AgricultureFederal Crop Insurance CorporationArea Risk Protection Insurance Policy[Reinsured policies](Appropriate title for insurance provider)(This is a continuous policy. Refer to Section 2.)[FCIC policies]
 
 Area Risk Protection Insurance (ARPI) provides protection against widespread loss of revenue or widespread loss of yield in a county. Individual farm revenues and yields are not considered under ARPI and it is possible that your individual farm may experience reduced revenue or reduced yield and you do not receive an indemnity under ARPI.
 
@@ -572,7 +572,7 @@ The insurable acreage is all the acreage planted to the insured crop in the coun
 
 (2) The protection factor will be reduced to 65 percent.
 
-(3) Cumulative native sod acreage that is 5 acres or less in the county is not subject to the reduced premium subsidy in section 5(c)(1) or the reduced protection factor stated in section 5(c).
+(3) Cumulative native sod acreage that is 5 acres or less in the county is not subject to the reduced premium subsidy in section 5(c)(1) or the reduced protection factor stated in section 5(c)(2).
 
 (d) We will not insure any acreage (and any uninsured acreage and production from uninsured acreage will not be included for the purposes of establishing the final county yield):
 
@@ -692,7 +692,7 @@ The insurable acreage is all the acreage planted to the insured crop in the coun
 
 (1) Multiply your policy protection from section 6(f) by the applicable premium rate and any premium adjustment percentages that may apply;
 
-(2) Multiply the result of paragraph (1) by the applicable subsidy factor (this is the amount of premium FCIC will pay);
+(2) Multiply the result of paragraph (1) by the applicable subsidy factor (this is the amount of premium FCIC will pay); and
 
 (3) Subtract the result of paragraph (2) from the result of paragraph (1) to calculate the amount of premium you will pay.
 
@@ -1394,4 +1394,4 @@ Step 1: Calculate the Dollar Amount of Insurance per AcreFormula: Expected count
 
 (3) Avoid an obligation or requirement under any Federal or State law.
 
-[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019; 85 FR 38754, June 29, 2020; 85 FR 76425, Nov. 30, 2020; 86 FR 34610, June 30, 2021; 86 FR 42681, Aug. 5, 2021; 86 FR 67836, Nov. 30, 2021; 87 FR 38890, June 30, 2022; 88 FR 42019, June 29, 2023; 88 FR 71732, Oct. 18, 2023; 89 FR 53829, June 27, 2024]
+[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019; 85 FR 38754, June 29, 2020; 85 FR 76425, Nov. 30, 2020; 86 FR 34610, June 30, 2021; 86 FR 42681, Aug. 5, 2021; 86 FR 67836, Nov. 30, 2021; 87 FR 38890, June 30, 2022; 88 FR 42019, June 29, 2023; 88 FR 71732, Oct. 18, 2023; 89 FR 53829, June 27, 2024; 89 FR 93467, Nov. 27, 2024]

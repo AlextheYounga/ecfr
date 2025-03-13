@@ -12,7 +12,7 @@
 
 (3) No. 051311 for use of product described in paragraph (a)(2) of this section as in paragraph (d)(1) of this section.
 
-(4) No. 086097 for use of product described in paragraph (a)(2) as in paragraph (d) of this section.
+(4) No. 013744 for use of product described in paragraph (a)(2) as in paragraph (d) of this section.
 
 (c) [Reserved]
 
@@ -32,4 +32,4 @@
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[68 FR 54804, Sept. 19, 2003, as amended at 76 FR 78815, Dec. 20, 2011; 84 FR 12493, Apr. 2, 2019; 86 FR 17063, Apr. 1, 2021; 88 FR 16547, Mar. 20, 2023; 88 FR 27698, May 3, 2023]
+[68 FR 54804, Sept. 19, 2003, as amended at 76 FR 78815, Dec. 20, 2011; 84 FR 12493, Apr. 2, 2019; 86 FR 17063, Apr. 1, 2021; 88 FR 16547, Mar. 20, 2023; 88 FR 27698, May 3, 2023; 89 FR 95103, Dec. 2, 2024]

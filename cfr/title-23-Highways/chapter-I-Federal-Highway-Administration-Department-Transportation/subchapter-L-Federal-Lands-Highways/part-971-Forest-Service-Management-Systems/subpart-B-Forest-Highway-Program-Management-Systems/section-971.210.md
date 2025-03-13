@@ -4,7 +4,7 @@ In addition to the requirements provided in § 971.204, the BMS must meet the fo
 
 (a) The tri-party partnership shall have a BMS for the FH bridges funded under the FLHP and required to be inventoried and inspected under 23 CFR 650, subpart C, National Bridge Inspection Standards (NBIS).
 
-(b) The BMS may be based on the concepts described in the AASHTO's “Guidelines for Bridge Management Systems.”2
+(b) The BMS may be based on the concepts described in the AASHTO's “Guidelines for Bridge Management Systems.” 2
 
 2 “Guidelines for Bridge Management Systems,” AASHTO, 1993, is available for inspection as prescribed at 49 CFR part 7. It is also available from the American Association of State Highway and Transportation Officials (AASHTO), Publication Order Dept., P.O. Box 96716, Washington, DC 20090-6716 or online at *http://www.transportation.org/publications/bookstore.nsf.*
 

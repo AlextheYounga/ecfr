@@ -1,6 +1,6 @@
 ##### § 61.51 Pilot logbooks. #####
 
-Link to an amendment published at 89 FR 80050, Oct. 1, 2024.Link to an amendment published at 89 FR 80339, Oct. 2, 2024.Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
+Link to an amendment published at 89 FR 80050, Oct. 1, 2024.Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
 (a) *Training time and aeronautical experience.* Each person must document and record the following time in a manner acceptable to the Administrator:
 
@@ -110,9 +110,15 @@ Link to an amendment published at 89 FR 80050, Oct. 1, 2024.Link to an amendment
 
 (1) Is qualified in accordance with the second-in-command requirements of § 61.55, and occupies a crewmember station in an aircraft that requires more than one pilot by the aircraft's type certificate;
 
-(2) Holds the appropriate category, class, and instrument rating (if an instrument rating is required for the flight) for the aircraft being flown, and more than one pilot is required under the type certification of the aircraft or the regulations under which the flight is being conducted; or
+(2) Holds the appropriate category, class, and instrument rating (if a class or instrument rating is required for the flight) for the aircraft being flown, and more than one pilot is required under the type certification of the aircraft or the regulations under which the flight is being conducted;
 
-(3) Serves as second in command in operations conducted in accordance with § 135.99(c) of this chapter when a second pilot is not required under the type certification of the aircraft or the regulations under which the flight is being conducted, provided the requirements in § 61.159(c) are satisfied.
+(3) Serves as second-in-command in operations conducted in accordance with § 135.99(c) of this chapter when a second pilot is not required under the type certification of the aircraft or the regulations under which the flight is being conducted, provided the requirements in § 61.159(c) are satisfied; or
+
+(4) Is designated by a government entity as second-in-command when operating in accordance with paragraph (j)(4) of this section, provided the aircraft used is a large aircraft or turbo-jet powered airplane or holds or originally held a type certificate that requires a second pilot provided that:
+
+(i) Second-in-command time logged under this paragraph (f)(4) may not be used to meet the aeronautical experience requirements for the private or commercial pilot certificates or an instrument rating; and
+
+(ii) An applicant for an airline transport pilot certificate who logs second in command time under this paragraph (f)(4) in an aircraft that is not type certificated for two pilots issued an airline transport pilot certificate with the limitation “Holder does not meet the pilot in command aeronautical experience requirements of ICAO,” as prescribed under Article 39 of the Convention on International Civil Aviation if the applicant does not meet the ICAO requirements contained in Annex 1 “Personnel Licensing” to the Convention on International Civil Aviation. An applicant is entitled to an airline transport pilot certificate without the ICAO limitation specified under this paragraph (f)(4)(ii) when the applicant presents satisfactory evidence of having met the ICAO requirements and otherwise meets the aeronautical experience requirements of § 61.159 or § 61.161, as applicable.
 
 (g) *Logging instrument time.* (1) A person may log instrument time only for that flight time when the person operates the aircraft solely by reference to instruments under actual or simulated instrument flight conditions.
 
@@ -134,7 +140,7 @@ Link to an amendment published at 89 FR 80050, Oct. 1, 2024.Link to an amendment
 
 (i) Be endorsed in a legible manner by the authorized instructor; and
 
-(ii) Include a description of the training given, the length of the training lesson, and the authorized instructor's signature, certificate number, and certificate expiration date.
+(ii) Include a description of the training given, the length of the training lesson, and the authorized instructor's signature, certificate number, and certificate expiration date or recent experience end date, consistent with the requirements of § 61.197.
 
 (i) *Presentation of required documents.* (1) Persons must present their pilot certificate, medical certificate, logbook, or any other record required by this part for inspection upon a reasonable request by—
 
@@ -174,7 +180,7 @@ Link to an amendment published at 89 FR 80050, Oct. 1, 2024.Link to an amendment
 
 (3) A military aircraft under the direct operational control of the U.S. Armed Forces; or
 
-(4) A public aircraft under the direct operational control of a Federal, State, county, or municipal law enforcement agency, if the flight time was acquired by the pilot while engaged on an official law enforcement flight for a Federal, State, County, or Municipal law enforcement agency.
+(4) An aircraft used to conduct a public aircraft operation under 49 U.S.C. 40102(a)(41) and 40125.
 
 (k) *Logging night vision goggle time.* (1) A person may log night vision goggle time only for the time the person uses night vision goggles as the primary visual reference of the surface and operates:
 
@@ -190,4 +196,4 @@ Link to an amendment published at 89 FR 80050, Oct. 1, 2024.Link to an amendment
 
 (3) To log night vision goggle time to meet the recent night vision goggle experience requirements under § 61.57(f), a person must log the information required under § 61.51(b).
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40897, July 30, 1997; Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-110, 69 FR 44865, July 27, 2004; Amdt. 61-124, 74 FR 42549, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-142, 83 FR 30277, June 27, 2018]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40897, July 30, 1997; Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-110, 69 FR 44865, July 27, 2004; Amdt. 61-124, 74 FR 42549, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-142, 83 FR 30277, June 27, 2018; Doc. No. FAA-2023-0825; Amdt. No. 61-155, 89 FR 80050, Oct. 1, 2024; Doc. No. FAA-2023-1351; Amdt. No. 61-156, 89 FR 80339, Oct. 2, 2024]

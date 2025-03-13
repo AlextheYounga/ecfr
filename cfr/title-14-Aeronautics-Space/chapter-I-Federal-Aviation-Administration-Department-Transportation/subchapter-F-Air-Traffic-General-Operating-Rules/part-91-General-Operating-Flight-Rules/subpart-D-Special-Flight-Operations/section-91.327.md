@@ -1,12 +1,10 @@
 ##### § 91.327 Aircraft having a special airworthiness certificate in the light-sport category: Operating limitations. #####
 
-Link to an amendment published at 89 FR 80342, Oct. 2, 2024.
-
 (a) No person may operate an aircraft that has a special airworthiness certificate in the light-sport category for compensation or hire except—
 
 (1) To tow a glider or an unpowered ultralight vehicle in accordance with § 91.309 of this chapter; or
 
-(2) To conduct flight training.
+(2) To conduct flight training, checking, and testing.
 
 (b) No person may operate an aircraft that has a special airworthiness certificate in the light-sport category unless—
 
@@ -40,4 +38,4 @@ Link to an amendment published at 89 FR 80342, Oct. 2, 2024.
 
 (f) The FAA may prescribe additional limitations that it considers necessary.
 
-[Doc. No. FAA-2001-11133, 69 FR 44881, July 27, 2004]
+[Doc. No. FAA-2001-11133, 69 FR 44881, July 27, 2004, as amended by Doc. No. FAA-2023-1351; Amdt. No. 91-378, 89 FR 80342, Oct. 2, 2024]

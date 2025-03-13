@@ -44,7 +44,13 @@ This section lists the major paragraphs that appear in §§ 1.752-1 through 1.75
 
 § 1.752-2 Partner's share of recourse liabilities.
 
-(a) In general.
+(a) Partner's share of recourse liabilities.
+
+(1) In general.
+
+(2) Overlapping economic risk of loss.
+
+(3) Direct economic risk of loss.
 
 (b) Obligation to make a payment.
 
@@ -126,6 +132,12 @@ This section lists the major paragraphs that appear in §§ 1.752-1 through 1.75
 
 (i) Treatment of recourse liabilities in tiered partnerships.
 
+(1) In general.
+
+(2) Coordination with overlapping economic risk of loss.
+
+(3) Example.
+
 (j) Anti-abuse rules.
 
 (1) In general.
@@ -170,25 +182,25 @@ This section lists the major paragraphs that appear in §§ 1.752-1 through 1.75
 
 (1) In general.
 
-(2) Person related to more than one partner.
+(2) Related partner exception.
+
+(3) Person related to more than one partner.
+
+(4) Special rule where entity structured to avoid related person status.
 
 (i) In general.
 
-(ii) Natural persons.
+(ii) Ownership interest.
 
-(iii) Related partner exception.
-
-(iv) Special rule where entity structured to avoid related person status.
-
-(A) In general.
-
-(B) Ownership interest.
-
-(C) Example.
+(5) Examples.
 
 (c) Limitation.
 
 (d) Time of determination.
+
+(e) Ordering rule.
+
+(f) Example.
 
 § 1.752-5 Effective dates and transition rules.
 
@@ -364,4 +376,4 @@ This section lists the major paragraphs that appear in §§ 1.752-1 through 1.75
 
 (iv) Time for making election.
 
-[T.D. 8380, 56 FR 66350, Dec. 23, 1991, as amended by T.D. 9207, 70 FR 30342, May 26, 2005; T.D. 9877, 84 FR 54022, Oct. 9, 2019]
+[T.D. 8380, 56 FR 66350, Dec. 23, 1991, as amended by T.D. 9207, 70 FR 30342, May 26, 2005; T.D. 9877, 84 FR 54022, Oct. 9, 2019; TD 10014, 89 FR 95113, Dec. 2, 2024]

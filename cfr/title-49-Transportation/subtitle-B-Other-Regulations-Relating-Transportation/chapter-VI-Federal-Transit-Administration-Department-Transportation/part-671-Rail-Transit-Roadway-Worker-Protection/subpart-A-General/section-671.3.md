@@ -1,0 +1,5 @@
+##### § 671.3 Policy. #####
+
+(a) This part establishes minimum safety standards for rail transit Roadway Worker Protection (RWP) to ensure the safe operation of public transportation systems and to prevent safety events, fatalities, and injuries to transit workers who may access the roadway in the performance of work. Each RTA and SSOA may prescribe additional or more stringent operating rules, safety rules, and other special instructions that are consistent with this part.
+
+(b) The Federal Transit Administration (FTA) has adopted the principles and methods of Safety Management Systems (SMS) as the basis for enhancing the safety of public transportation in the United States. Activities conducted to carry out these RWP safety standards must be integrated into the RTA's SMS, including the Safety Risk Management (SRM) process, specified in § 673.25 of this chapter, and the Safety Assurance process, specified in § 673.27 of this chapter.

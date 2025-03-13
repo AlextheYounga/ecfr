@@ -1,14 +1,12 @@
 ##### § 922.36 National Marine Sanctuary authorizations. #####
 
-Link to an amendment published at 89 FR 83594, Oct. 16, 2024.
-
-(a) *Authority to issue authorizations.* The Director may authorize a person to conduct an activity otherwise prohibited by subparts L through P, subpart R, or subpart U of this part, if such activity is specifically allowed by any valid Federal, State, or local lease, permit, license, approval, or other authorization (hereafter called “agency approval”) issued after the effective date of sanctuary designation or expansion, provided the applicant complies with the provisions of this section. Such an authorization by ONMS is hereafter referred to as an “ONMS authorization.”
+(a) *Authority to issue authorizations.* The Director may authorize a person to conduct an activity otherwise prohibited by subparts L through P, or subparts R through V, of this part, if such activity is specifically allowed by any valid Federal, State, or local lease, permit, license, approval, or other authorization (hereafter called “agency approval”) issued after the effective date of sanctuary designation or expansion, provided the applicant complies with the provisions of this section. Such an authorization by the Office of National Marine Sanctuaries (ONMS) is hereafter referred to as an “ONMS authorization.”
 
 (b) *Authorization notification to the Director*—(1) *Notification requirement.* An applicant must notify the Director in writing of the request for an ONMS authorization of an agency approval. The Director may treat an amendment or extension of such an agency approval as constituting a new agency approval for purposes of this section.
 
 (i) Notification must occur within fifteen days after the date the applicant files of filing of the application for the agency approval.
 
-(ii) Notification must be sent to the Director, Office of National Marine Sanctuaries, to the attention of the relevant Sanctuary Superintendent(s) at the address specified in subparts L through P, subpart R, or subpart U, as appropriate.
+(ii) Notification must be sent to the Director, Office of National Marine Sanctuaries, to the attention of the relevant Sanctuary Superintendent(s) at the address specified in subparts L through P, subpart R, subpart U, or subpart V of this part.
 
 (iii) A copy of the application for the agency approval must accompany the notification.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 89 FR 83594, Oct. 16, 2024.
 
 (f) *Time limits.* Any time limit prescribed in or established under this section may be extended by the Director for good cause.
 
-[88 FR 958, Jan. 6, 2023, as amended at 89 FR 48287, June 6, 2024]
+[88 FR 958, Jan. 6, 2023, as amended at 89 FR 48287, June 6, 2024; 89 FR 83594, Oct. 16, 2024]

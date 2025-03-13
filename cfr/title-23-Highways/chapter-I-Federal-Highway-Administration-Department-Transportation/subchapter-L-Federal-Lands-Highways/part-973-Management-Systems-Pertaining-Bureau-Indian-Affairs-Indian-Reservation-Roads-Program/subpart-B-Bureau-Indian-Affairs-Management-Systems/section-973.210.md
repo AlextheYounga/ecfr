@@ -6,7 +6,7 @@ In addition to the requirements provided in § 973.204, the BMS must meet the fo
 
 (b) Where a tribe collects data for the tribe's BMS, the tribe shall provide the data to the BIA to be used in the nationwide BMS.
 
-(c) The nationwide and tribal BMSs may be based on the concepts described in the AASHTO's “Guidelines for Bridge Management Systems.”2
+(c) The nationwide and tribal BMSs may be based on the concepts described in the AASHTO's “Guidelines for Bridge Management Systems.” 2
 
 2 “Guidelines for Bridge Management Systems,” AASHTO, 1993, is available for inspection as prescribed at 49 CFR part 7. It is also available from the American Association of State Highway and Transportation Officials (AASHTO), Publication Order Dept., P.O. Box 96716, Washington, DC 20090-6716 or online at *http://www.transportation.org/publications/bookstore.nsf.*
 

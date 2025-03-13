@@ -1,8 +1,6 @@
 ##### § 61.413 What are the privileges of my flight instructor certificate with a sport pilot rating? #####
 
-Link to an amendment published at 89 FR 80340, Oct. 2, 2024.
-
-(a) If you hold a flight instructor certificate with a sport pilot rating, you are authorized, within the limits of your certificate and rating, to provide training and endorsements that are required for, and relate to—
+(a) If you hold a flight instructor certificate with a sport pilot rating, you are authorized, within the limits of your certificate and rating, to conduct ground training, flight training, certain checking events, and to issue endorsements related to:
 
 (1) A student pilot seeking a sport pilot certificate;
 
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 80340, Oct. 2, 2024.
 
 (5) Sport pilot privileges;
 
-(6) A flight review or operating privilege for a sport pilot;
+(6) A flight review or operating privilege for a sport pilot, or training to maintain or improve the skills of a sport pilot;
 
 (7) A practical test for a sport pilot certificate, a private pilot certificate with a powered parachute or weight-shift-control aircraft rating or a flight instructor certificate with a sport pilot rating;
 
@@ -30,4 +28,6 @@ Link to an amendment published at 89 FR 80340, Oct. 2, 2024.
 
 (3) Verify that an applicant for a student pilot certificate meets the eligibility requirements in § 61.83.
 
-[Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1307, Jan. 12, 2016, as amended by Docket FAA-2015-0150, Amdt. 61-137, 81 FR 42208, June 28, 2016]
+(c) The privileges authorized in this section do not permit a person who holds a flight instructor certificate with a sport pilot rating to conduct operations that would otherwise require an air carrier or operating certificate or specific authorization from the Administrator.
+
+[Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1307, Jan. 12, 2016, as amended by Docket FAA-2015-0150, Amdt. 61-137, 81 FR 42208, June 28, 2016; Docket No. FAA-2023-1351; Amdt. No. 61-156, 89 FR 80340, Oct. 2, 2024]

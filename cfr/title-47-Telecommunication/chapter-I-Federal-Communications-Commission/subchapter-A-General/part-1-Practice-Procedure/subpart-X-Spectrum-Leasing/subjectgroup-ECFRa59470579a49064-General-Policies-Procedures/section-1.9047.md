@@ -1,6 +1,6 @@
 ##### § 1.9047 Special provisions relating to spectrum leasing arrangements involving terrestrial spectrum rights for supplemental coverage from space. #####
 
-Link to an amendment published at 89 FR 34159, Apr. 30, 2024.
+Link to an amendment published at 89 FR 34159, Apr. 30, 2024.Link to an update of the above amendment published at 89 FR 95136, Dec. 2, 2024.
 
 (a) *Supplemental coverage from space.* For purposes of this section, *supplemental coverage from space (SCS)* has the same meaning as in § 25.103 of this chapter.
 

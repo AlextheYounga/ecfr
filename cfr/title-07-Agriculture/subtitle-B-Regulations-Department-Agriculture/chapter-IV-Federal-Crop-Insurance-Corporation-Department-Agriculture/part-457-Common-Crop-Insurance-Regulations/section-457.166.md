@@ -1,8 +1,6 @@
 ##### § 457.166 Blueberry crop insurance provisions. #####
 
-Link to an amendment published at 89 FR 93469, Nov. 27, 2024.
-
-The Blueberry Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
+The Blueberry Crop Insurance Provisions for the 2026 and succeeding crop years are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationBlueberry Crop Provisions
 
@@ -22,9 +20,9 @@ In return for your payment of premium and administrative fee for the coverage, t
 
 *Prune.* A cultural practice performed to increase blueberry production as follows:
 
-(a) For lowbush blueberries, a process by which the acreage is either burned or mowed; and
+(1) For lowbush blueberries, a process by which the acreage is either burned or mowed; and
 
-(b) For all other blueberries, a process by which parts of the bush are cut off or the bush is cut back.
+(2) For all other blueberries, a process by which parts of the bush are cut off or the bush is cut back.
 
 2. Unit Division
 
@@ -256,4 +254,4 @@ You have 100 percent share in 25 acres of highbush blueberries with a production
 
 The late and prevented planting provisions in the Basic Provisions are not applicable.
 
-[69 FR 52155, Aug. 25, 2004, as amended at 87 FR 38898, June 30, 2022; 89 FR 53845, June 27, 2024]
+[69 FR 52155, Aug. 25, 2004, as amended at 87 FR 38898, June 30, 2022; 89 FR 53845, June 27, 2024; 89 FR 93469, Nov. 27, 2024]

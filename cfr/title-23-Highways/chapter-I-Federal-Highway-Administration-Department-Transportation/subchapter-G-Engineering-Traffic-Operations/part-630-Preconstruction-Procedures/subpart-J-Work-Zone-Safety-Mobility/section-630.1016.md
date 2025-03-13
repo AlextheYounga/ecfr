@@ -1,3 +1,3 @@
 ##### § 630.1016 Compliance date. #####
 
-States shall comply with all the provisions of this rule no later than October 12, 2007. For projects that are in the later stages of development at or about the compliance date, and if it is determined that the delivery of those projects would be significantly impacted as a result of this rule's provisions, States may request variances for those projects from the FHWA, on a project-by-project basis.
+States shall comply with all the provisions of this rule no later than December 31, 2026. The next work zone programmatic review will be due December 31, 2030. For projects that are in the later stages of development at or about the compliance date, and if it is determined that the delivery of those projects would be significantly impacted as a result of this rule's provisions, States may request variances for those projects from FHWA on a project-by-project basis.

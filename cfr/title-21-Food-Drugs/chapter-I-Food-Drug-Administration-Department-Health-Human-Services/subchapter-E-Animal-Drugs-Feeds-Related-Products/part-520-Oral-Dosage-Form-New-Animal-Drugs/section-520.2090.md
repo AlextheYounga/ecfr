@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each chewable tablet contains:
 
-(1) 3.0 mg sarolaner, 0.06 mg moxidectin, and 12.5 milligrams (mg) pyrantel (as pamoate salt);
+(1) 3.0 milligrams (mg) sarolaner, 0.06 mg moxidectin, and 12.5 mg pyrantel (as pamoate salt);
 
 (2) 6.0 mg sarolaner, 0.12 mg moxidectin, and 25.0 mg pyrantel (as pamoate salt);
 
@@ -22,4 +22,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[85 FR 45307, July 28, 2020, as amended at 86 FR 57997, Oct. 20, 2021; 87 FR 17945, Mar. 29, 2022]
+[85 FR 45307, July 28, 2020, as amended at 86 FR 57997, Oct. 20, 2021; 87 FR 17945, Mar. 29, 2022; 89 FR 95103, Dec. 2, 2024]

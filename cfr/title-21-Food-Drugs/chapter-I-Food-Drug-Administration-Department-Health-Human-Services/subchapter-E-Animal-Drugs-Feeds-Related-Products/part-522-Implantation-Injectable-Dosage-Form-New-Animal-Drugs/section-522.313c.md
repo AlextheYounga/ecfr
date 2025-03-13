@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each milliliter of aqueous solution constituted from ceftiofur sodium powder contains 50 milligrams (mg) ceftiofur equivalents.
 
-(b) *Sponsors.* See Nos. 054771 and 068330 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 017033 and 054771 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.113 of this chapter.
 
@@ -46,4 +46,4 @@
 
 (ii) *Indications for use.* For treatment of canine urinary tract infections associated with *E. coli* and *Proteus mirabilis.*
 
-[53 FR 5369, Feb. 24, 1988, as amended at 55 FR 13768, Apr. 12, 1990; 56 FR 12119, Mar. 22, 1991; 57 FR 41862, Sept. 14, 1992; 59 FR 41666, Aug. 15, 1994; 59 FR 54518, Nov. 1, 1994; 60 FR 51719, Oct. 3, 1995; 61 FR 35130, July 5, 1996; 61 FR 66583, Dec. 18, 1996; 66 FR 21283, Apr. 30, 2001; 66 FR 32540, June 15, 2001; 69 FR 47362, Aug. 5, 2004. Redesignated and amended at 71 FR 39544, July 13, 2006; 74 FR 34236, July 15, 2009; 77 FR 29218, May 17, 2012; 79 FR 16185, Mar. 25, 2014; 79 FR 21127, Apr. 15, 2014; 82 FR 12169, Mar. 1, 2017]
+[53 FR 5369, Feb. 24, 1988, as amended at 55 FR 13768, Apr. 12, 1990; 56 FR 12119, Mar. 22, 1991; 57 FR 41862, Sept. 14, 1992; 59 FR 41666, Aug. 15, 1994; 59 FR 54518, Nov. 1, 1994; 60 FR 51719, Oct. 3, 1995; 61 FR 35130, July 5, 1996; 61 FR 66583, Dec. 18, 1996; 66 FR 21283, Apr. 30, 2001; 66 FR 32540, June 15, 2001; 69 FR 47362, Aug. 5, 2004. Redesignated and amended at 71 FR 39544, July 13, 2006; 74 FR 34236, July 15, 2009; 77 FR 29218, May 17, 2012; 79 FR 16185, Mar. 25, 2014; 79 FR 21127, Apr. 15, 2014; 82 FR 12169, Mar. 1, 2017; 89 FR 95103, Dec. 2, 2024]

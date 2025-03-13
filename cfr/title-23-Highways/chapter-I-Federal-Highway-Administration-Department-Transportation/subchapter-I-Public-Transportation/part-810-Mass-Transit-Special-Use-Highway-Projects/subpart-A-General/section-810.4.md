@@ -10,7 +10,7 @@
 
 (3) High occupancy vehicle—a bus or other motorized passenger vehicle such as a carpool or vanpool vehicle used for ridesharing purposes and occupied by a specified minimum number of persons.
 
-(4) Highway traffic control devices—traffic control devices as defined by the currently approved “Manual on Uniform Traffic Control Devices for Streets and Highways.”1
+(4) Highway traffic control devices—traffic control devices as defined by the currently approved “Manual on Uniform Traffic Control Devices for Streets and Highways.” 1
 
 1 The MUTCD is incorporated by reference at 23 CFR part 655, subpart F.
 

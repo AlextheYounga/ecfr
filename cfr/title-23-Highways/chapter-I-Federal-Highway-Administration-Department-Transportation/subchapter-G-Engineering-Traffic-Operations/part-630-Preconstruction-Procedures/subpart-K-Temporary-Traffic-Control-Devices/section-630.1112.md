@@ -1,0 +1,3 @@
+##### § 630.1112 Compliance date. #####
+
+States shall update their policy no later than December 31, 2025, and implement the policy no later than December 31, 2026. For projects that are in the later stages of development at or about the compliance date, and if it is determined that the delivery of those projects would be significantly impacted as a result of this rule's provisions, States may request variances for those projects from FHWA on a project-by-project basis.

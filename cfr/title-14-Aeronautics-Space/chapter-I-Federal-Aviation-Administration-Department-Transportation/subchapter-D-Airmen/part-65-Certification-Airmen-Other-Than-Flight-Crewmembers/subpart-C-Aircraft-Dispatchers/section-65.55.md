@@ -1,7 +1,5 @@
 ##### § 65.55 Knowledge requirements. #####
 
-Link to an amendment published at 89 FR 80053, Oct. 1, 2024.
-
 (a) A person who applies for an aircraft dispatcher certificate must pass a knowledge test on the following aeronautical knowledge areas:
 
 (1) Applicable Federal Aviation Regulations of this chapter that relate to airline transport pilot privileges, limitations, and flight operations;
@@ -30,4 +28,8 @@ Link to an amendment published at 89 FR 80053, Oct. 1, 2024.
 
 (13) Crew resource management, including crew communication and coordination.
 
-(b) The applicant must present documentary evidence satisfactory to the administrator of having passed an aircraft dispatcher knowledge test within the preceding 24 calendar months.
+(b) Except as provided in paragraph (c) of this section, the applicant must present documentary evidence satisfactory to the Administrator of having passed an aircraft dispatcher knowledge test within the preceding 24 calendar months.
+
+(c) An applicant is eligible to take a practical test for an aircraft dispatcher certificate under this part with an expired written test report in accordance with § 61.40 of this chapter.
+
+[Docket No. FAA-2023-0825; Amdt. No. 65-65, 89 FR 80053, Oct. 1, 2024]

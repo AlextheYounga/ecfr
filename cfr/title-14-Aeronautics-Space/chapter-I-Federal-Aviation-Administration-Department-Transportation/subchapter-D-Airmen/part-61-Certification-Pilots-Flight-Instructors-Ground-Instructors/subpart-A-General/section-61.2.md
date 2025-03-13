@@ -1,7 +1,5 @@
 ##### § 61.2 Exercise of Privilege. #####
 
-Link to an amendment published at 89 FR 80049, Oct. 1, 2024.
-
 (a) *Validity.* No person may:
 
 (1) Exercise privileges of a certificate, rating, endorsement, or authorization issued under this part if the certificate, rating or authorization is surrendered, suspended, revoked or expired.
@@ -18,8 +16,8 @@ Link to an amendment published at 89 FR 80049, Oct. 1, 2024.
 
 (b) *Currency.* No person may:
 
-(1) Exercise privileges of an airman certificate, rating, endorsement, or authorization issued under this part unless that person meets the appropriate airman and medical recency requirements of this part, specific to the operation or activity.
+(1) Exercise privileges of an airman certificate, rating, endorsement, or authorization issued under this part unless that person meets the appropriate airman recent experience and medical requirements of this part, specific to the operation or activity.
 
-(2) Exercise privileges of a foreign pilot license within the United States to conduct an operation described in § 61.3(b), unless that person meets the appropriate airman and medical recency requirements of the country that issued the license, specific to the operation.
+(2) Exercise privileges of a foreign pilot license within the United States to conduct an operation described in § 61.3(b), unless that person meets the appropriate airman recent experience and medical requirements of the country that issued the license, specific to the operation.
 
-[Doc. No. FAA-2006-26661, 74 FR 42546, Aug. 21, 2009]
+[Doc. No. FAA-2006-26661, 74 FR 42546, Aug. 21, 2009, as amended by Doc. No. FAA-2023-0825; Amdt. No. 61-155, 89 FR 80049, Oct. 1, 2024]

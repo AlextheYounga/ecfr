@@ -1,7 +1,5 @@
 ##### § 922.4 Boundaries. #####
 
-Link to an amendment published at 89 FR 83594, Oct. 16, 2024.
+Subpart F and subsequent subparts of this part set forth the boundaries for all national marine sanctuaries.
 
-The boundaries for each of the sixteen National Marine Sanctuaries covered by this part are described in subparts F through U, respectively.
-
-[89 FR 48286, June 6, 2024]
+[89 FR 83594, Oct. 16, 2024]
