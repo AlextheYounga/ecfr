@@ -44,4 +44,4 @@ The following persons may be transported, directly or indirectly, between the Un
 
 (5) An individual, including a foreign national, who is traveling on official business of the U.S. government, a foreign government, or an intergovernmental organization of which the United States is a member or in which the United States holds observer status—including an employee, contractor, or grantee of such government or intergovernmental organization and any individual traveling on a diplomatic passport, as well as any close relative, as defined in § 515.339, accompanying the traveler—may be transported between the United States and Cuba.
 
-[80 FR 2299, Jan. 16, 2015, as amended at 80 FR 56923, Sept. 21, 2015; 81 FR 4586, Jan. 27, 2016; 81 FR 71377, Oct. 17, 2016; 82 FR 52003, Nov. 9, 2017; 84 FR 25993, June 5, 2019; 85 FR 60072, Sept. 24, 2020; 85 FR 67989, Oct. 27, 2020; 87 FR 35091, June 8, 2022]
+[80 FR 2299, Jan. 16, 2015, as amended at 80 FR 56923, Sept. 21, 2015; 81 FR 4586, Jan. 27, 2016; 81 FR 71377, Oct. 17, 2016; 82 FR 52003, Nov. 9, 2017; 84 FR 25993, June 5, 2019; 85 FR 60072, Sept. 24, 2020; 85 FR 67989, Oct. 27, 2020; 87 FR 35091, June 9, 2022]

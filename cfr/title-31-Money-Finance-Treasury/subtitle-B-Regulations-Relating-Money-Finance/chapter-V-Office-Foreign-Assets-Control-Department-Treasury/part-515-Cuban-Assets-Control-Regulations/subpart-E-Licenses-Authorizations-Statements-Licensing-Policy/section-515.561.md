@@ -10,4 +10,4 @@ Each person relying on the general authorization in this paragraph must retain s
 
 (c) An entire group does not qualify for the general license in paragraph (a) of this section merely because some members of the group qualify individually.
 
-[80 FR 2295, Jan. 16, 2015, as amended at 80 FR 56922, Sept. 21, 2015; 82 FR 52000, Nov. 9, 2017; 85 FR 60071, Sept. 24, 2020; 87 FR 35089, June 8, 2022]
+[80 FR 2295, Jan. 16, 2015, as amended at 80 FR 56922, Sept. 21, 2015; 82 FR 52000, Nov. 9, 2017; 85 FR 60071, Sept. 24, 2020; 87 FR 35089, June 9, 2022]

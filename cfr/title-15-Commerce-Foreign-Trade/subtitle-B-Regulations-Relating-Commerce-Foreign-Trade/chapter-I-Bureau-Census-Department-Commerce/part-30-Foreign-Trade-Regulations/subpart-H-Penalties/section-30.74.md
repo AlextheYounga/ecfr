@@ -1,7 +1,5 @@
 ##### § 30.74 Voluntary self-disclosure. #####
 
-Link to an amendment published at 88 FR 54237, Aug. 10, 2023.
-
 (a) *General policy.* The Census Bureau strongly encourages disclosure of any violation or suspected violation of the FTR. Voluntary self-disclosure is a mitigating factor in determining what administrative sanctions, if any, will be sought. The Secretary of Commerce has delegated all enforcement authority under 13 U.S.C. Chapter 9, to the BIS and the DHS.
 
 (b) *Limitations.* (1) The provisions of this section apply only when information is provided to the Census Bureau for its review in determining whether to seek administrative action for violations of the FTR.
@@ -38,7 +36,7 @@ Link to an amendment published at 88 FR 54237, Aug. 10, 2023.
 
 (4) *Electronic export information.* Report all data required under the FTR that was not reported. Report corrections for all data reported incorrectly. All reporting of unreported data or corrections to previously reported data shall be made through the AES.
 
-(5) *Where to make voluntary self-disclosures.* With the exception of voluntary disclosures of manifest violations under paragraph (c) of this section, the information constituting a Voluntary Self-Disclosure or any other correspondence pertaining to a Voluntary Self-Disclosure may be submitted to: Chief, International Trade Management Division, U.S. Census Bureau, 4600 Silver Hill Road, Washington, DC 20233. Additional instructions are found at *www.census.gov/trade.*
+(5) *Where to make voluntary self-disclosures.* The information constituting a Voluntary Self-Disclosure or any other correspondence pertaining to a Voluntary Self-Disclosure may be submitted to the U.S. Census Bureau, Branch Chief, Trade Regulations Branch by methods permitted by the Census Bureau. See *www.census.gov/trade* for more details.
 
 (d) *Action by the Census Bureau.* After the Census Bureau has been provided with the required narrative, it will promptly notify CBP, ICE, and the OEE of the voluntary disclosure, acknowledge the disclosure by letter, provide the person making the disclosure with a point of contact, and take whatever additional action, including further investigation, it deems appropriate. As quickly as the facts and circumstances of a given case permit, the Census Bureau may take any of the following actions:
 
@@ -48,4 +46,4 @@ Link to an amendment published at 88 FR 54237, Aug. 10, 2023.
 
 (3) Refer the matter, if necessary, to the OEE for the appropriate action.
 
-[73 FR 31555, June 2, 2008, as amended at 78 FR 16382, Mar. 14, 2013; 82 FR 18392, Apr. 19, 2017]
+[73 FR 31555, June 2, 2008, as amended at 78 FR 16382, Mar. 14, 2013; 82 FR 18392, Apr. 19, 2017; 88 FR 54237, Aug. 10, 2023]

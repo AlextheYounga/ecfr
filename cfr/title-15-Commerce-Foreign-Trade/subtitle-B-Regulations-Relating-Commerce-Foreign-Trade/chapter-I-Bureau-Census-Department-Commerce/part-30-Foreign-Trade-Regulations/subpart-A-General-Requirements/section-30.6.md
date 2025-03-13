@@ -1,7 +1,5 @@
 ##### § 30.6 Electronic Export Information data elements. #####
 
-Link to an amendment published at 88 FR 54236, Aug. 10, 2023.
-
 The information specified in this section is required for EEI transmitted to the AES. The data elements identified as “mandatory” shall be reported for each transaction. The data elements identified as “conditional” shall be reported if they are required for or apply to the specific shipment. The data elements identified as “optional” may be reported at the discretion of the USPPI or the authorized agent. Additional data elements may be required to be reported in the AES in accordance with other federal agencies' regulations. Refer to the other agencies' regulations for reporting requirements.
 
 (a) Mandatory data elements are as follows:
@@ -12,7 +10,7 @@ The information specified in this section is required for EEI transmitted to the
 
 (ii) *Address of the USPPI.* In all EEI filings, the USPPI shall report the address or location (no post office box number) from which the goods actually begin the journey to the port of export even if the USPPI does not own/lease the facility. For example, the EEI covering goods laden aboard a truck at a warehouse in Georgia for transport to Florida for loading onto a vessel for export to a foreign country shall show the address of the warehouse in Georgia. For shipments with multiple origins, report the address from which the commodity with the greatest value begins its export journey. If such information is not known, report the address in the state where the commodities are consolidated for export.
 
-(iii) *USPPI identification number.* Report the EIN or DUNS number of the USPPI. If the USPPI has only one EIN, report that EIN. If the USPPI has more than one EIN, report the EIN that the USPPI uses to report employee wages and withholdings, not an EIN used to report only company earnings or receipts. Use of another company's EIN is prohibited. The appropriate Party ID Type code shall be reported to the AES. If a foreign entity is in the United States at the time goods are purchased or obtained for export, the foreign entity is the USPPI. In such situations, when the foreign entity does not have an EIN, the authorized agent shall report a border crossing number, passport number, or any number assigned by CBP on behalf of the foreign entity.
+(iii) *USPPI identification number.* Report the Employer Identification Number (EIN) of the USPPI. If the USPPI has only one EIN, report that EIN. If the USPPI has more than one EIN, report the EIN that the USPPI uses to report employee wages and withholdings, and not the EIN used to report only company earnings or receipts. Use of another company's EIN is prohibited. If a USPPI reports a DUNS, the EIN is also required to be reported. If a foreign entity is in the United States at the time goods are purchased or obtained for export, the foreign entity is the USPPI. In such situations, when the foreign entity does not have an EIN, the authorized agent shall report a border crossing number, passport number, or any number assigned by CBP on behalf of the foreign entity.
 
 (iv) *USPPI contact information.* The person who has the most knowledge regarding the specific shipment or related export controls.
 
@@ -132,7 +130,7 @@ The information specified in this section is required for EEI transmitted to the
 
 (2) *Intermediate consignee.* The name and address of the intermediate consignee (if any) shall be reported. The intermediate consignee acts in a foreign country as an agent for the principal party in interest or the ultimate consignee for the purpose of effecting delivery of the export shipment to the ultimate consignee. The intermediate consignee is the person named as such on the export license or authorized to act as such under the applicable general license and in conformity with the EAR.
 
-(3) *FTZ identifier.* If goods are removed from a FTZ and not entered for consumption, report the FTZ identifier. This is the unique 7-digit alphanumeric identifier assigned by the Foreign Trade Zone Board that identifies the FTZ, subzone or site from which goods are withdrawn for export.
+(3) *FTZ identifier.* If goods are removed from a FTZ and not entered for consumption, report the FTZ identifier. This is the unique 9-digit alphanumeric identifier assigned by the Foreign Trade Zone Board that identifies the FTZ, subzone or site from which goods are withdrawn for export.
 
 (4) *Foreign port of unlading.* The foreign port of unlading is the foreign port in the country where the goods are removed from the exporting carrier. The foreign port does not have to be located in the country of destination. For exports by sea to foreign countries, not including Puerto Rico, the foreign port of unlading is the code in terms of Schedule K, *Classification of Foreign Ports by Geographic Trade Area and Country.* For exports by sea or air between the United States and Puerto Rico, the foreign port of unlading is the code in terms of Schedule D, *Classification of CBP Districts and Ports.* The foreign port of unlading is not required for exports by other modes of transportation, including rail, truck, mail, fixed (pipeline), or air (unless between the U.S. and Puerto Rico).
 
@@ -168,7 +166,9 @@ The information specified in this section is required for EEI transmitted to the
 
 (16) *Department of State requirements.* (i) *Directorate of Defense Trade Controls (DDTC) registration number.* The number assigned by the DDTC to persons who are required to register per part 122 of the ITAR (22 CFR parts 120 through 130), and have an authorization (license or exemption) from DDTC to export the article.
 
-(ii) *DDTC Significant Military Equipment (SME) indicator.* A term used to designate articles on the USML (22 CFR part 121) for which special export controls are warranted because of their capacity for substantial military utility or capability. See § 120.7 of the ITAR 22 CFR parts 120 through 130 for a definition of SME and § 121.1 for items designated as SME articles.
+(ii) *DDTC Significant Military Equipment (SME) indicator.* A term used to designate articles on the USML (22 CFR part 121) for which special export controls are warranted because of their capacity for substantial military utility or capability. See sections 120.36 and 120.10(c) of the ITAR (22 CFR parts 120 through 130) for a definition of SME and for items designated as SME articles, respectively.
+
+(iii) *DDTC eligible party certification indicator.* Certification by the U.S. exporter that the exporter is an eligible party to participate in defense trade. See 22 CFR 120.16(c). This certification is required only when an exemption is claimed.
 
 (iii) *DDTC eligible party certification indicator.* Certification by the U.S. exporter that the exporter is an eligible party to participate in defense trade. See 22 CFR 120.1(c). This certification is required only when an exemption is claimed.
 
@@ -182,6 +182,8 @@ The information specified in this section is required for EEI transmitted to the
 
 (viii) *DDTC export license line number.* The line number of the State Department export license that corresponds to the article being exported.
 
+(ix) *DDTC Category XXI Determination Number.* The unique number issued by DDTC to a member of the regulated community (usually the original equipment manufacturer) in conjunction with a notification that a specific commodity is described in USML Category XXI. This number is required only when citing USML Category XXI as an export classification and is used to confirm that an authoritative USML Category XXI determination is being referenced to do so.
+
 (17) *Kimberley Process Certificate (KPC) number.* The unique identifying number on the KPC issued by the United States Kimberley Process Authority that must accompany all export shipments of rough diamonds. Rough diamonds are classified under 6-digit HS subheadings 7102.10, 7102.21, and 7102.31. Enter the KPC number in the license number field excluding the 2-digit ISO country code for the United States.
 
 (c) *Optional data elements:*
@@ -192,4 +194,4 @@ The information specified in this section is required for EEI transmitted to the
 
 (3) *Original ITN.* The ITN associated with a previously filed shipment that is replaced or divided and for which additional shipment(s) must be filed. The original ITN field can be used in certain scenarios, such as, but not limited to, shipments sold en route or cargo split by the carrier where the succeeding parts of the shipment are not exported within the timeframes specified in § 30.28.
 
-[73 FR 31555, June 2, 2008, as amended at 74 FR 38916, Aug. 5, 2009; 78 FR 16376, Mar. 14, 2013; 82 FR 18390, Apr. 19, 2017; 82 FR 43843, Sept. 20, 2017]
+[73 FR 31555, June 2, 2008, as amended at 74 FR 38916, Aug. 5, 2009; 78 FR 16376, Mar. 14, 2013; 82 FR 18390, Apr. 19, 2017; 82 FR 43843, Sept. 20, 2017; 88 FR 54236, Aug. 10, 2023]

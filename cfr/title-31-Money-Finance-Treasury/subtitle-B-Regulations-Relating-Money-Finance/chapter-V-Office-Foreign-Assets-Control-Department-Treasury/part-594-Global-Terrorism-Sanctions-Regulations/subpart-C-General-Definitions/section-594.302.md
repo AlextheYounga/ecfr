@@ -1,4 +1,4 @@
-##### § 594.302 Effective date #####
+##### § 594.302 Effective date. #####
 
 The term *effective date* refers to the effective date of the applicable prohibitions and directives contained in this part as follows:
 

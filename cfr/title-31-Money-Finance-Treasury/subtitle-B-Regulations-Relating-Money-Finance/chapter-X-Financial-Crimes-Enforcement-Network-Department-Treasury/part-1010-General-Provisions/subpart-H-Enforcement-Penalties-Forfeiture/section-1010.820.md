@@ -16,4 +16,4 @@
 
 (h) For penalties that are assessed after August 1, 2016, see § 1010.821 for rules relating to the maximum amount of the penalty.
 
-[75 FR 65812, Oct. 26, 2010, as amended at 81 FR 42505, June 30, 2016; 86 FR 72845, Dec. 27, 2021]
+[75 FR 65812, Oct. 26, 2010, as amended at 81 FR 42505, June 30, 2016; 86 FR 72845, Dec. 23, 2021]

@@ -78,6 +78,6 @@ Except as provided in paragraph (b)(6) of this section, each person relying on t
 
 (e) Transactions related to activities that are primarily tourist-oriented are not authorized pursuant to this section.
 
-(f) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to educational activities that do not qualify for the general licenses under paragraph (a) or (b)of this section.
+(f) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to educational activities that do not qualify for the general licenses under paragraph (a) or (b) of this section.
 
 [82 FR 52000, Nov. 9, 2017, as amended at 84 FR 25992, June 5, 2019; 85 FR 60071, Sept. 24, 2020; 87 FR 35089, June 9, 2022]

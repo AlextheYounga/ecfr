@@ -1,7 +1,5 @@
 ##### § 30.37 Miscellaneous exemptions. #####
 
-Link to an amendment published at 88 FR 54236, Aug. 10, 2023.
-
 Except as noted in § 30.2(a)(1)(iv), filing EEI is not required for the following kinds of shipments. However, the Census Bureau has the authority to periodically require the reporting of shipments that are normally exempt from filing.
 
 (a) Exports of commodities where the value of the commodities shipped from one USPPI to one consignee on a single exporting conveyance, classified under an individual Schedule B number or HTSUSA commodity classification code is $2,500 or less. This exemption applies to individual Schedule B numbers or HTSUSA commodity classification codes regardless of the total shipment value. In instances where a shipment contains a mixture of individual Schedule B numbers or HTSUSA commodity classification codes valued at $2,500 or less and individual Schedule B numbers or HTSUSA commodity classification codes valued over $2,500, only those Schedule B numbers or HTSUSA commodity classification codes valued over $2,500 are required to be reported. If the filer reports multiple items of the same Schedule B number or HTSUSA commodity classification code, this exemption only applies if the total value of exports for the Schedule B number or HTSUSA commodity classification code is $2,500 or less. Items of domestic and foreign origin under the same commodity classification number must be reported separately and EEI filing is required when either is over $2,500. For the reporting of household goods see § 30.38. Note: this exemption does not apply to the export of vehicles. The export information for vehicles must be filed in AES regardless of value or country of destination.
@@ -56,7 +54,7 @@ Except as noted in § 30.2(a)(1)(iv), filing EEI is not required for the followi
 
 (t) Documents used in international transactions, documents moving out of the United States to facilitate international transactions including airline tickets, internal revenue stamps, liquor stamps, and advertising literature. Exports of such documents in fulfillment of a contract for their production, however, are not exempt and must be reported at the transaction value for their production.
 
-(u) Exports of technical data and defense service exemptions as cited in 22 CFR 123.22(b)(3)(iii) of the ITAR.
+(u) [Reserved]
 
 (v) Vessels, locomotives, aircraft, rail cars, trucks, other vehicles, trailers, pallets, cargo vans, lift vans, or similar shipping containers not considered “shipped” in terms of the regulations in this part, when they are moving, either loaded or empty, without transfer of ownership or title, in their capacity as carriers of goods or as instruments of such carriers.
 
@@ -78,4 +76,4 @@ Except as noted in § 30.2(a)(1)(iv), filing EEI is not required for the followi
 
 (6) Tools of trade that will be used by a person traveling to a Country Group E:1 or E:2 destination, that will be returned to the United States within one year and that are lawfully being exported to a Country Group E:1 or E:2 destination under License Exception BAG (15 CFR 740.14) or License Exception TMP (15 CFR 740.9(a)).
 
-[73 FR 31555, June 2, 2008, as amended at 78 FR 16380, Mar. 14, 2013; 79 FR 54589, Sept. 12, 2014; 82 FR 18392, Apr. 19, 2017]
+[73 FR 31555, June 2, 2008, as amended at 78 FR 16380, Mar. 14, 2013; 79 FR 54589, Sept. 12, 2014; 82 FR 18392, Apr. 19, 2017; 88 FR 54326, Aug. 10, 2023]

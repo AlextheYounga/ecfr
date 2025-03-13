@@ -8,7 +8,7 @@ The terms *blocked account* and *blocked property* shall mean:
 
 (b) With respect to which payments, transfers, exportations, withdrawals, or other dealings may not be made or effected except pursuant to an authorization or license from the Office of Foreign Assets Control expressly authorizing such action.
 
-Note to § 576.301:
+Note 1 to § 576.301:
 
 *See* § 576.412 concerning the blocked status of property and interests in property of an entity that is directly or indirectly owned, whether individually or in the aggregate, 50 percent or more by one or more persons whose property and interests in property are blocked pursuant to § 576.201(a).
 

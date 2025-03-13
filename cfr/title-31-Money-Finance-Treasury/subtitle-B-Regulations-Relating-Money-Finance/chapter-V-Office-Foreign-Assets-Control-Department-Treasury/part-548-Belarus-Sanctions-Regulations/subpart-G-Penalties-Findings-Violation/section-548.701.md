@@ -15,3 +15,5 @@
 (c) Pursuant to 18 U.S.C. 1001, whoever, in any matter within the jurisdiction of the executive, legislative, or judicial branch of the government of the United States, knowingly and willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact; or makes any materially false, fictitious, or fraudulent statement or representation; or makes or uses any false writing or document knowing the same to contain any materially false, fictitious, or fraudulent statement or entry shall be fined under title 18, United States Code, imprisoned, or both.
 
 (d) Violations of this part may also be subject to other applicable laws.
+
+[88 FR 18039, Mar. 27, 2023, as amended at 88 FR 2232, Jan. 13, 2023]

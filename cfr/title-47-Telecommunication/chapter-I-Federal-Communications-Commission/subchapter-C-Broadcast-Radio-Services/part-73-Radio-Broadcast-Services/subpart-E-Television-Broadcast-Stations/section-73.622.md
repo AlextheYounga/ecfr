@@ -428,12 +428,12 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |    Terre Haute     |                    10, 18, 35                     |   |
 |     Vincennes      |                       \*31                        |   |
 |        Iowa        |                                                   |   |
-|        Ames        |                    5, 23, \*34                    |   |
+|        Ames        |                    5, \*21, 23                    |   |
 |     Burlington     |                        21                         |   |
 |    Cedar Rapids    |                  22, 27, 29, 32                   |   |
 |   Council Bluffs   |                       \*33                        |   |
 |     Davenport      |                   17, 30, \*34                    |   |
-|     Des Moines     |                8, \*11, 13, 16, 19                |   |
+|     Des Moines     |                8, 13, 16, 19, \*34                |   |
 |      Dubuque       |                        14                         |   |
 |     Fort Dodge     |                       \*25                        |   |
 |     Iowa City      |                     \*12, 25                      |   |

@@ -1,7 +1,5 @@
 ##### § 30.2 General requirements for filing Electronic Export Information (EEI). #####
 
-Link to an amendment published at 88 FR 54236, Aug. 10, 2023.
-
 (a) *Filing requirements.* (1) The EEI shall be filed through the AES by the United States Principal Party In Interest (USPPI), the USPPI's authorized agent, or the authorized U.S. agent of the Foreign Principal Party In Interest (FPPI) for all exports of physical goods, including shipments moving pursuant to orders received over the Internet. The Automated Export System (AES) is the electronic system for collecting Shipper's Export Declaration (SED) (or any successor document) information from persons exporting goods from the United States, Puerto Rico, Foreign Trade Zones (FTZs) located in the United States or Puerto Rico, the U.S. Virgin Islands, between Puerto Rico and the United States, and to the U.S. Virgin Islands from the United States or Puerto Rico. Exceptions, exclusions, and exemptions to this requirement are provided for in paragraph (d) of this section and Subpart D of this part. References to the AES also shall apply to AES*Direct* unless otherwise specified. For purposes of the regulations in this part, the SED information shall be referred to as EEI. Filing through the AES shall be done in accordance with the definitions, specifications, and requirements of the regulations in this part for all export shipments, except as specifically excluded in § 30.2(d) or exempted in Subpart D of this part, when shipped as follows:
 
 (i) To foreign countries or areas, including free (foreign trade) zones located therein (see § 30.36 for exemptions for shipments from the United States to Canada) from any of the following:
@@ -80,7 +78,7 @@ For the filing requirement for exports destined for a country in Country Group E
 
 (2) Except Puerto Rico and the U.S. Virgin Islands, goods shipped from the U.S. territories and goods shipped between the United States and these territories do not require EEI filing. However, goods transiting U.S. territories to foreign destinations require EEI filing.
 
-(3) Electronic transmissions and intangible transfers. (See Subpart B of this part for export control requirements for these types of transactions.)
+(3) Electronic transmissions and intangible transfers.
 
 (4) Goods shipped to Guantanamo Bay Naval Base in Cuba from the United States, Puerto Rico, or the U.S. Virgin Islands and from Guantanamo Bay Naval Base to the United States, Puerto Rico, or the U.S. Virgin Islands. (See § 30.39 for filing requirements for shipments exported to the U.S. Armed Services.)
 
@@ -88,4 +86,4 @@ For the filing requirement for exports destined for a country in Country Group E
 
 (e) *Penalties.* Failure of the USPPI, the authorized agent of either the USPPI or the FPPI, the exporting carrier, or any other person subject thereto to comply with any of the requirements of the regulations in this part renders such persons subject to the penalties provided for in Subpart H of this part.
 
-[73 FR 31555, June 2, 2008, as amended at 78 FR 16375, Mar. 14, 2013; 82 FR 18389, Apr. 19, 2017]
+[73 FR 31555, June 2, 2008, as amended at 78 FR 16375, Mar. 14, 2013; 82 FR 18389, Apr. 19, 2017; 88 FR 54326, Aug. 10, 2023]

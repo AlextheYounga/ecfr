@@ -6,4 +6,4 @@
 
 (c) IEEPA provides for a maximum civil penalty not to exceed the greater of $356,579 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
 
-[83 FR 30541, June 29, 2018, as amended at 84 FR 27718, June 14, 201; 85 FR 19888, Apr. 9, 2020; 86 FR 14538, Mar. 17, 2021; 87 FR 7372, Feb. 9, 2022; 88 FR 2234, Jan. 13, 2023]
+[83 FR 30541, June 29, 2018, as amended at 84 FR 27718, June 14, 201; 85 FR 19888, Apr. 9, 2020; 86 FR 14538, Mar. 17, 2021; 87 FR 7373, Feb. 9, 2022; 88 FR 2234, Jan. 13, 2023]

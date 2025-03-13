@@ -1,5 +1,7 @@
 ##### § 419.32 Calculation of prospective payment rates for hospital outpatient services. #####
 
+Link to an amendment published at 88 FR 77193, Nov. 8, 2023.
+
 (a) *Conversion factor for 1999.* CMS calculates a conversion factor in such a manner that payment for hospital outpatient services furnished in 1999 would have equaled the base expenditure target calculated in § 419.30, taking into account APC group weights and estimated service frequencies and reduced by the amounts that would be payable in 1999 as outlier payments under § 419.43(d) and transitional pass-through payments under § 419.43(e).
 
 (b) *Conversion factor for calendar year 2000 and subsequent years.* (1) Subject to paragraph (b)(2) of this section, the conversion factor for a calendar year is equal to the conversion factor calculated for the previous year adjusted as follows:
