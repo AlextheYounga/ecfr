@@ -1,5 +1,7 @@
 ##### § 1011.7 Delegations of authority by the Board to specific offices of the Board. #####
 
+Link to an amendment published at 89 FR 4578, Jan. 24, 2024.
+
 (a) *Office of Proceedings.* (1) The Director of the Office of Proceedings is delegated the authority to determine (in consultation with involved Offices) whether to waive filing fees set forth at 49 CFR 1002.2(f).
 
 (2) In addition to the authority delegated at 49 CFR 1011.6(c)(3), (d), (g), and (h), the Director of the Office of Proceedings shall have authority initially to determine the following:

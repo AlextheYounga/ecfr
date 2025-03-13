@@ -446,4 +446,4 @@
 
 (h) *Applicability date.* The provisions of this section are applicable with respect to plan years or in the individual market policy years beginning on or after January 1, 2022, except that the provisions regarding IDR entity certification at paragraphs (a) and (e) of this section are applicable beginning on October 7, 2021; and paragraphs (c)(4)(ii) through (iv) of this section regarding payment determinations, paragraph (c)(4)(vi)(B) of this section regarding written decisions, and paragraph (f)(1)(v)(F) of this section regarding reporting of information relating to the Federal IDR process are applicable with respect to items or services provided or furnished on or after October 25, 2022, for plan years or in the individual market policy years beginning on or after January 1, 2022.
 
-[86 FR 56124, Oct. 7, 2021, as amended at 87 FR 52652, Aug. 26, 2022; 88 FR 88525, Dec. 21, 2023]
+[86 FR 56124, Oct. 7, 2021, as amended at 87 FR 52652, Aug. 26, 2022; 88 FR 88525, Dec. 21, 2023; 89 FR 4548, Jan. 24, 2024]

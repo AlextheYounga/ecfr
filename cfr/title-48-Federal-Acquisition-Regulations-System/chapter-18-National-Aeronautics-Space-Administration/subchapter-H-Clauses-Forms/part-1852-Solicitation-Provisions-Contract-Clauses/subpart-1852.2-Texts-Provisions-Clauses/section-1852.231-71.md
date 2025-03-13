@@ -1,5 +1,7 @@
 ##### 1852.231-71 Determination of compensation reasonableness. #####
 
+Link to an amendment published at 89 FR 4564, Jan. 24, 2024.
+
 As prescribed at 1831.205-671, insert the following provision.
 
 Determination of Compensation Reasonableness (APR 2015)

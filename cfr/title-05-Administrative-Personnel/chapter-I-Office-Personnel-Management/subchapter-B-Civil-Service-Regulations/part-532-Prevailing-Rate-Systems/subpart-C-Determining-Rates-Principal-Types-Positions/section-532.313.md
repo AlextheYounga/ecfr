@@ -1,5 +1,7 @@
 ##### § 532.313 Private sector industries. #####
 
+Link to an amendment published at 89 FR 4541, Jan. 24, 2024.
+
 (a) For appropriated fund surveys, the lead agency must use the private sector industries in the following North American Industry Classification System (NAICS) codes when it makes its wage schedule determinations for each specialized Federal industry:
 
 |                    2017 NAICS codes                    |                                            2017 NAICS industry titles                                             |

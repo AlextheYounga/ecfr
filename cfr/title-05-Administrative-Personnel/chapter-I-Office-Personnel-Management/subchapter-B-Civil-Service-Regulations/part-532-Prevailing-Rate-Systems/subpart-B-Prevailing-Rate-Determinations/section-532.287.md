@@ -1,5 +1,7 @@
 ##### § 532.287 Special wage schedules for nonappropriated fund automotive mechanics. #####
 
+Link to an amendment published at 89 FR 4541, Jan. 24, 2024.
+
 (a) The Department of Defense (DOD) will establish a flat rate pay system for nonappropriated fund (NAF) automotive mechanics. This flat rate pay system will take into account local prevailing rates, the mechanic's skill level, and the standard number of hours required to complete a particular job.
 
 (b) DOD will issue special wage schedules for NAF automotive mechanics who are covered by the flat rate pay system. These special schedules will provide rates of pay for nonsupervisory, leader, and supervisory employees. These special schedule positions will be identified by pay plan codes XW (nonsupervisory), XY (leader), and XZ (supervisory), grades 8-10, and will use the Federal Wage System occupational code 5823.

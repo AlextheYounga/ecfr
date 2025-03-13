@@ -1,5 +1,7 @@
 ##### § 117.207 Housatonic River. #####
 
+Link to an amendment published at 89 FR 4549, Jan. 24, 2024.
+
 (a) The draw of the US 1 Bridge, mile 3.5, at Stratford, shall open on signal; except that, from 7 a.m. to 9 a.m., Monday through Friday, and 4 p.m. to 5:45 p.m. daily, the draw need not open for the passage of vessels. From December 1 through March 31, from 8 p.m. to 4 a.m., the draw shall open on signal if at least six-hours notice is given by calling the number posted at the bridge.
 
 (b) The draw of the Metro-North (Devon) bridge, mile 3.9 at Stratford, shall operate as follows:

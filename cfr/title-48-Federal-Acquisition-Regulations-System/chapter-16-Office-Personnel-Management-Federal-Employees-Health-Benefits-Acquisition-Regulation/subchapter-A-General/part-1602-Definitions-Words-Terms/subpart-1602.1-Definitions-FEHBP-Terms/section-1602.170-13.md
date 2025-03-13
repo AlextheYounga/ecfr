@@ -1,4 +1,4 @@
-##### § 1602.170-13 Similarly sized subscriber groups. #####
+##### 1602.170-13 Similarly sized subscriber groups. #####
 
 (a) A *Similarly sized subscriber group* (SSSG) is a non-FEHB employer group that:
 

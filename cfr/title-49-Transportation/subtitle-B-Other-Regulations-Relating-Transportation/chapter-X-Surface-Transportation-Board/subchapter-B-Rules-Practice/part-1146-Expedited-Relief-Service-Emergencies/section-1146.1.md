@@ -1,5 +1,7 @@
 ##### § 1146.1 Prescription of alternative rail service. #####
 
+Link to an amendment published at 89 FR 4578, Jan. 24, 2024.
+
 (a) *General.* Alternative rail service will be prescribed under 49 U.S.C. 11123(a) if the Board determines that, over an identified period of time, there has been a substantial, measurable deterioration or other demonstrated inadequacy in rail service provided by the incumbent carrier.
 
 (b)(1) *Petition for Relief.* Affected shippers or railroads may seek the relief described in paragraph (a) of this section by filing an appropriate petition containing:

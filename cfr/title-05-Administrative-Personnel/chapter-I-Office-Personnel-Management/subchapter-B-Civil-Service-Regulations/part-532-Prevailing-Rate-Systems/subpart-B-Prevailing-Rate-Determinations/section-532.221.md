@@ -1,5 +1,7 @@
 ##### § 532.221 Industries included in regular nonappropriated fund surveys. #####
 
+Link to an amendment published at 89 FR 4540, Jan. 24, 2024.
+
 (a) The lead agency must include the following North American Industry Classification System (NAICS) codes in all regular nonappropriated fund wage surveys:
 
 |2017 NAICS codes|                             2017 NAICS industry titles                             |

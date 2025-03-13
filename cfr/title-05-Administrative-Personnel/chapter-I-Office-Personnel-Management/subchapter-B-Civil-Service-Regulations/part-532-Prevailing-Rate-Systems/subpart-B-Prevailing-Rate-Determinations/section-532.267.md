@@ -1,5 +1,7 @@
 ##### § 532.267 Special wage schedules for aircraft, electronic, and optical instrument overhaul and repair positions in Puerto Rico. #####
 
+Link to an amendment published at 89 FR 4540, Jan. 24, 2024.
+
 (a) The Department of Defense shall conduct special industry surveys and establish special wage schedules for wage employees in Puerto Rico whose primary duties involve the performance of work related to aircraft, electronic equipment, and optical instrument overhaul and repair.
 
 (b) Except as provided in this section, regular appropriated fund wage survey and wage-setting procedures are applicable.

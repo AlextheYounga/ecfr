@@ -1,5 +1,7 @@
 ##### § 1115.3 Board actions other than initial decisions. #####
 
+Link to an amendment published at 89 FR 4578, Jan. 24, 2024.
+
 (a) A discretionary appeal of an entire Board action is permitted. Such an appeal should be designated a “petition for reconsideration.”
 
 (b) The petition will be granted only upon a showing of one or more of the following points:
