@@ -1,5 +1,7 @@
 ##### § 401.250 Suspension and revocation of Certificates of Registration. #####
 
+Link to an amendment published at 89 FR 76350, Sept. 17, 2024.
+
 (a) Certificate of Registration issued pursuant to the provisions of this part may be suspended or revoked upon a determination on the record, after opportunity for a hearing in accordance with the Administrative Procedure Act, as amended (5 U.S.C. 551 through 559), that the pilot (holder) has violated any provision of this chapter or is no longer eligible for registration.
 
 (b) When a Certificate of Registration which is about to expire is suspended, the renewal of such certificate may be withheld until the expiration of the period of suspension.

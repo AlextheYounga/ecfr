@@ -8,7 +8,7 @@ Note 1 to paragraph (a):
 
 Note 2 to paragraph (a):
 
-Sections 501.806 and 501.807 of this chapter describe the procedures to be followed by persons seeking, respectively, the unblocking of funds that they believe were blocked due to mistaken identity, and administrative reconsideration of their status as persons whose property and interests in property are blocked pursuant to paragraph (a) of this section.
+Subpart E of part 501 of this chapter describes the procedures to be followed for the release of property and interests in property blocked pursuant to this section, including funds blocked due to mistaken identity or typographical or similar errors, and for administrative reconsideration of one's status as a person whose property and interests in property are blocked pursuant to this paragraph (a).
 
 (b) The prohibitions in paragraph (a) of this section include prohibitions on the following transactions:
 
@@ -20,4 +20,4 @@ Sections 501.806 and 501.807 of this chapter describe the procedures to be follo
 
 (d) The prohibitions in paragraph (a) of this section apply except to the extent provided by regulations, orders, directives, or licenses that may be issued pursuant to this part, and notwithstanding any contract entered into or any license or permit granted prior to the effective date.
 
-[86 FR 26667, May 17, 2021]
+[86 FR 26667, May 17, 2021, as amended at 89 FR 75968, Sept. 17, 2024]

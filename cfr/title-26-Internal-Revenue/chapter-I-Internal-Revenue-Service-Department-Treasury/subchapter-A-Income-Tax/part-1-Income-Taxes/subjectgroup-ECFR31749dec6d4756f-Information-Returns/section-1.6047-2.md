@@ -1,8 +1,6 @@
 ##### § 1.6047-2 Information relating to qualifying longevity annuity contracts. #####
 
-Link to an amendment published at 89 FR 58906, July 19, 2024.
-
-(a) *Requirement and form of report*—(1) *In general.* Any person issuing any contract that is intended to be a qualifying longevity annuity contract (QLAC), defined in A-17 of § 1.401(a)(9)-6, shall make the report required by this section. This requirement applies only to contracts purchased or held under any plan, annuity, or account described in section 401(a), 403(a), 403(b), or 408 (other than a Roth IRA) or eligible governmental plan under section 457(b).
+(a) *Requirement and form of report*—(1) *In general.* Any person issuing any contract that is intended to be a qualifying longevity annuity contract (QLAC), defined in § 1.401(a)(9)-6(q), shall make the report required by this section. This requirement applies only to contracts purchased or held under any plan, annuity, or account described in section 401(a), 403(a), 403(b), or 408 (other than a Roth IRA) or eligible governmental plan under section 457(b).
 
 (2) *Annual report.* The issuer shall make annual calendar-year reports on the applicable form prescribed by the Commissioner for this purpose concerning the status of the contract. The report shall identify that the contract is intended to be a QLAC and shall contain the following information—
 
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 58906, July 19, 2024.
 
 (viii) Such other information as the Commissioner may require.
 
-(b) *Manner and time for filing*—(1) *Timing.* The report required by paragraph (a)(2) of this section shall be filed in accordance with the forms and instructions prescribed by the Commissioner. Such a report must be filed for each calendar year beginning with the year in which premiums for a contract are first paid and ending with the earlier of the year in which the individual in whose name the contract has been purchased attains age 85 (as adjusted pursuant to A-17(d)(2)(ii) of § 1.401(a)(9)-6) or dies.
+(b) *Manner and time for filing*—(1) *Timing.* The report required by paragraph (a)(2) of this section shall be filed in accordance with the forms and instructions prescribed by the Commissioner. Such a report must be filed for each calendar year beginning with the year in which premiums for a contract are first paid and ending with the earlier of the year in which the individual in whose name the contract has been purchased attains age 85 (as adjusted pursuant to § 1.401(a)(9)-6(q)(4)(ii)(B)) or dies.
 
 (2) *Surviving spouse.* If the individual dies and the sole beneficiary under the contract is the individual's spouse (in which case the spouse's annuity would not be required to commence until the individual would have commenced benefits under the contract had the individual survived), the report must continue to be filed for each calendar year until the calendar year in which the distributions to the spouse commence or in which the spouse dies, if earlier.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 89 FR 58906, July 19, 2024.
 
 (e) *Effective/applicability date.* This section applies to contracts purchased on or after July 2, 2014.
 
-[T.D. 9673, 79 FR 37643, July 2, 2014]
+[T.D. 9673, 79 FR 37643, July 2, 2014, as amended by T.D. 10001, 89 FR 58906, July 19, 2024]

@@ -1,5 +1,7 @@
 ##### § 401.630 Appearance, testimony, and cross-examination. #####
 
+Link to an amendment published at 89 FR 76353, Sept. 17, 2024.
+
 (a) The U.S. Registered Pilot may appear in person or by counsel and may testify at the hearing, call witnesses in his own behalf, and cross-examine witnesses appearing in behalf of the Director.
 
 (1) In any case in which the U.S. Registered Pilot, after being duly served with the notice of the time and place of the hearing, fails to appear at the time and place specified for the hearing, a notation to that effect shall be made in the record and the hearing may then be conducted “in absentia.”

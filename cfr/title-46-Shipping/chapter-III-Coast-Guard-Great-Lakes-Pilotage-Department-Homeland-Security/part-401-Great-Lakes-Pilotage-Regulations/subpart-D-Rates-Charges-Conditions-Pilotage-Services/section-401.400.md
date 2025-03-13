@@ -1,5 +1,7 @@
 ##### § 401.400 Calculation of pilotage units and determination of weighting factor. #####
 
+Link to an amendment published at 89 FR 76351, Sept. 17, 2024.
+
 The equivalent pilotage unit number and appropriate weighting factor for each ship shall be computed by utilizing the following formula and table:
 
 (a) Pilotage unit computation:

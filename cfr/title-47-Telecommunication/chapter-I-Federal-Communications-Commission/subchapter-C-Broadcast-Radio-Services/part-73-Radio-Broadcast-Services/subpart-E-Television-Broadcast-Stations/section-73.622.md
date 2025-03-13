@@ -1,6 +1,6 @@
 ##### § 73.622 Digital television table of allotments. #####
 
-Link to an amendment published at 89 FR 72739, Sept. 6, 2024.
+Link to an amendment published at 89 FR 72739, Sept. 6, 2024.Link to an amendment published at 89 FR 75976, Sept. 17, 2024.
 
 (a) *General.* The following table of TV allotments contains the television channel allotments designated for the listed communities in the United States, its Territories, and possessions. Requests for addition of new TV allotments, or requests to change the channels allotted to a community, must be made in a petition for rule making to amend the Table of TV Allotments. A request to amend the Table of TV Allotments to add an allotment or change the channel of an allotment in the Table will be evaluated for technical acceptability using engineering criteria set forth in §§ 73.617, 73.618, and 73.620. A request to amend the TV table to add a new allotment will be evaluated for technical acceptability using the geographic spacing criteria set forth in § 73.622(k) and the engineering criteria set forth in §§ 73.614, 73.617, 73.618, and 73.620(a) and (d). TV allotments designated with an asterisk are assigned for use by non-commercial educational broadcast stations only. Rules governing noncommercial educational TV stations are contained in § 73.621.
 

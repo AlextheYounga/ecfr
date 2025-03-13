@@ -1,5 +1,7 @@
 ##### § 401.200 Application for registration. #####
 
+Link to an amendment published at 89 FR 76347, Sept. 17, 2024.
+
 (a) An application for registration as a U.S. Registered Pilot shall be made on Form CG-4509, which shall be submitted with two full-face photographs, 11/2 inches by 2 inches, signed on the face. These forms may be obtained from the Director.
 
 (b) [Reserved]

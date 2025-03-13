@@ -1,5 +1,7 @@
 ##### § 402.220 Registration of pilots. #####
 
+Link to an amendment published at 89 FR 76354, Sept. 17, 2024.
+
 (a) Each applicant pilot must complete the number of round trips specified in this section prior to registration as a U.S. registered pilot. The round trips must be made in company with a registered pilot, on oceangoing vessels of 4,000 gross tons or over, and must be within one year of the date of application.
 
 (1) If the applicant pilot holds a master's license or endorsement, a minimum of five round trips are required over the waters for which registration is desired.

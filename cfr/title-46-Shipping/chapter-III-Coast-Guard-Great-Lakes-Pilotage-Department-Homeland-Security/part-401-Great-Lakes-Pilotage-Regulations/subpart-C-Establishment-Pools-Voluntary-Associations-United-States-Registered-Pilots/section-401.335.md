@@ -1,5 +1,7 @@
 ##### § 401.335 Suspension or revocation of a Certificate of Authorization. #####
 
+Link to an amendment published at 89 FR 76351, Sept. 17, 2024.
+
 (a) The Director may issue an order to suspend or revoke a Certificate of Authorization if—
 
 (1) The holder of a Certificate of Authorization does not continue to meet the requirements under § 401.320; or

@@ -1,5 +1,7 @@
 ##### § 401.431 Disputed charges. #####
 
+Link to an amendment published at 89 FR 76352, Sept. 17, 2024.
+
 (a) Any rate or charge applied against any vessel, owner, or master thereof by a registered pilot which the owner or master disputes as a charge prohibited by § 401.430, may be appealed to the Director for an advisory opinion as to whether such rate or charge is a prohibited charge.
 
 (b) The appeal shall be in writing and set forth the amounts and description of the rates and charges disputed. The appeal must be supported by evidence that a reasonable attempt has been made to resolve the matter between the parties and that a bona fide controversy exists.

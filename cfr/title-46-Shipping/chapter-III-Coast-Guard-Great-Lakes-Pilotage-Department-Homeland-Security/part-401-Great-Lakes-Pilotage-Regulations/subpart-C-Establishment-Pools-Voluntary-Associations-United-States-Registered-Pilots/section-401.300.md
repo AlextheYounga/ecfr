@@ -1,5 +1,7 @@
 ##### § 401.300 Authorization for establishment of pools. #####
 
+Link to an amendment published at 89 FR 76350, Sept. 17, 2024.
+
 (a) Voluntary associations of U.S. registered pilots will be authorized to establish a pool or pools in the following areas of the U.S. waters of the Great Lakes designated by the President in Proclamation No. 3385 of December 22, 1960, as amended by Proclamation No. 3855 of June 10, 1968, or in such other areas as the Director may deem necessary to assure adequate and efficient pilotage services for the U.S. waters of the Great Lakes:
 
 (1) *District No. 1.* All United States waters of the St. Lawrence River between the international boundary at St. Regis and a line at the head of the river running (at approximately 127° True) between Carruthers Point Light and South Side Light extended to the New York shore.

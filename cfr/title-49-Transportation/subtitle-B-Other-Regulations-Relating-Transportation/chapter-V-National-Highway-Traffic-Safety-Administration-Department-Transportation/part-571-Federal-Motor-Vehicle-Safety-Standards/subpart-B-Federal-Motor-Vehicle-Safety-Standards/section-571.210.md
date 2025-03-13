@@ -1,5 +1,7 @@
 ##### § 571.210 Standard No. 210; Seat belt assembly anchorages. #####
 
+Link to an amendment published at 89 FR 76271, Sept. 17, 2024.
+
 S1. *Purpose and scope.* This standard establishes requirements for seat belt assembly anchorages to insure their proper location for effective occupant restraint and to reduce the likelihood of their failure.
 
 S2. *Application.* This standard applies to passenger cars, multipurpose passenger vehicles, trucks, buses, and school buses.
@@ -8,7 +10,7 @@ S3. *Definitions.*
 
 *School bus torso belt adjusted height* means the vertical height above the seating reference point (SgRP) of the horizontal plane containing a segment of the torso belt centerline located 25 mm to 75 mm forward of the torso belt height adjuster device, when the torso belt retractor is locked and the torso belt is pulled away from the seat back by applying a 20 N horizontal force in the forward direction through the webbing at a location 100 mm or more forward of the adjustment device as shown in Figure 5.
 
-*School bus torso belt anchor point* means the midpoint of the torso belt width where the torso belt first contacts the uppermost torso belt anchorage.*Seat belt anchorage* means any component, other than the webbing or straps, involved in transferring seat belt loads to the vehicle structure, including, but not limited to, the attachment hardware, seat frames, seat pedestals, the vehicle structure itself, and any part of the vehicle whose failure causes separation of the belt from the vehicle structure.
+*School bus torso belt anchor point* means the midpoint of the torso belt width where the torso belt first contacts the uppermost torso belt anchorage. *Seat belt anchorage* means any component, other than the webbing or straps, involved in transferring seat belt loads to the vehicle structure, including, but not limited to, the attachment hardware, seat frames, seat pedestals, the vehicle structure itself, and any part of the vehicle whose failure causes separation of the belt from the vehicle structure.
 
 *Small occupant seating position* is as defined in 49 CFR 571.222.
 

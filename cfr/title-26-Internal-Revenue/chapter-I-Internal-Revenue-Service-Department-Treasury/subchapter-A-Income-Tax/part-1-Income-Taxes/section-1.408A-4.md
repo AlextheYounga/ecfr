@@ -1,7 +1,5 @@
 ##### § 1.408A-4 Converting amounts to Roth IRAs. #####
 
-Link to an amendment published at 89 FR 58906, July 19, 2024.
-
 This section sets forth the following questions and answers that provide rules applicable to Roth IRA conversions:
 
 Q-1. Can an individual convert an amount in his or her traditional IRA to a Roth IRA?
@@ -104,14 +102,14 @@ A-14. (a) *In general*—(1) *Distribution of Fair Market Value Upon Conversion.
 
 (ii) *Use of reserves where no comparable contract available.* If with respect to an annuity, there is no comparable contract available in order to make the comparison described in paragraph (b)(2)(i) of this paragraph A-14, the fair market value may be established through an approximation that is based on the interpolated terminal reserve at the date of the conversion, plus the proportionate part of the gross premium last paid before the date of the conversion which covers the period extending beyond that date.
 
-(3) *Accumulation method.* As an alternative to the gift tax method described in paragraph (b)(2) of this paragraph A-14, this paragraph (b)(3) provides a method that may be used for an annuity contract which has not been annuitized. The fair market value of such an annuity contract is permitted to be determined using the methodology provided in § 1.401(a)(9)-6, A-12, with the following modifications:
+(3) *Accumulation method.* As an alternative to the gift tax method described in paragraph (b)(2) of this paragraph A-14, this paragraph (b)(3) provides a method that may be used for an annuity contract which has not been annuitized. The fair market value of such an annuity contract is permitted to be determined using the methodology provided in § 1.401(a)(9)-6(m)(2), with the following modifications:
 
 (i) All front-end loads and other non-recurring charges assessed in the twelve months immediately preceding the conversion must be added to the account value.
 
 (ii) Future distributions are not to be assumed in the determination of the actuarial present value of additional benefits.
 
-(iii) The exclusions provided under § 1.401(a)(9)-6, A-12(c)(1) and (c)(2), are not to be taken into account.
+(iii) The exclusions provided under § 1.401(a)(9)-6(m)(3), are not to be taken into account.
 
 (c) *Effective/applicability date.* The provisions of this paragraph A-14 are applicable to any conversion in which an annuity contract is distributed or treated as distributed from a traditional IRA on or after August 19, 2005. However, for annuity contracts distributed or treated as distributed from a traditional IRA on or before December 31, 2008, taxpayers may instead apply the valuation methods in § 1.408A-4T (as it appeared in the April 1, 2008, edition of 26 CFR part 1) and Revenue Procedure 2006-13 (2006-1 CB 315) (See § 601.601(d)(2)(ii)(*b*)).
 
-[T.D. 8816, 64 FR 5603, Feb. 4, 1999, as amended by T.D. 9220, 70 FR 48871, Aug. 22, 2005; T.D. 9418, 73 FR 43862, July 29, 2008]
+[T.D. 8816, 64 FR 5603, Feb. 4, 1999, as amended by T.D. 9220, 70 FR 48871, Aug. 22, 2005; T.D. 9418, 73 FR 43862, July 29, 2008; T.D. 10001, 89 FR 58906, July 19, 2024]

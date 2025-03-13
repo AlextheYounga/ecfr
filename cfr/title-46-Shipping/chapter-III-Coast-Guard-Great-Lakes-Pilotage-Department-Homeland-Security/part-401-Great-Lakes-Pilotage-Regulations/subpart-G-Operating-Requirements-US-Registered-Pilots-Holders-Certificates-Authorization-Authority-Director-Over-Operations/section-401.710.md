@@ -1,5 +1,7 @@
 ##### § 401.710 Operating requirements for holders of Certificates of Authorization. #####
 
+Link to an amendment published at 89 FR 76353, Sept. 17, 2024.
+
 Each holder of a Certificate of Authorization shall—
 
 (a) Comply with the terms of any agreement for services by registered pilots on the Great Lakes between an appropriate agency of Canada and the Secretary, his designated agent, or the Director;

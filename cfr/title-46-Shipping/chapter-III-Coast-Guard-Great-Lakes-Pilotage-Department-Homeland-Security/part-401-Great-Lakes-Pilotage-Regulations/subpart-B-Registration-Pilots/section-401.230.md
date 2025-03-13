@@ -1,5 +1,7 @@
 ##### § 401.230 Certificates of Registration. #####
 
+Link to an amendment published at 89 FR 76349, Sept. 17, 2024.
+
 (a) A Certificate of Registration shall describe the part or parts of the Great Lakes within which the pilot is authorized to perform pilotage services and such description shall not be inconsistent with the terms of the pilotage authorization in his or her master's, mate's, or pilot's endorsement issued under the authority of Title 52 of the Revised Statutes.
 
 (b) A Certificate of Registration shall not authorize the holder to board any vessel, or to serve as a pilot of any vessel, without the permission of the owner or master. A Certificate of Registration shall be in the possession of a pilot at all times when he or she is in the service of a vessel, and shall be displayed upon demand of the owner or master, any United States Coast Guard officer or inspector, or a representative of the Director.

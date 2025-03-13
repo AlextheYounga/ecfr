@@ -20,10 +20,14 @@ The names of persons determined to fall within paragraph (a) or (b) of this defi
 
 Note 2 to § 598.314:
 
-The Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901-1908), in Section 806 (21 U.S.C. 1905), authorizes the blocking of property and interests in property of a person during the pendency of an investigation. The names of persons whose property and interests in property are blocked pending investigation pursuant to this part also are published in the Federal Register and incorporated into the SDN List with the identifier “[BPI-SDNTK].”
+The Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1901-1908), in Section 806 (21 U.S.C. 1905), authorizes the blocking of property and interests in property of a person during the pendency of an investigation. Except as described in note 3 to this section, the names of persons whose property and interests in property are blocked pending investigation pursuant to this part are published in the Federal Register and incorporated into the SDN List with the identifier “[BPI-SDNTK].”
 
 Note 3 to § 598.314:
 
-Sections 501.806 and 501.807 of this chapter describe the procedures to be followed by persons seeking, respectively, the unblocking of funds that they believe were blocked due to mistaken identity, or administrative reconsideration of their status as persons whose property and interests in property are blocked pursuant to this part.
+In certain cases, OFAC may issue an order to: identify as blocked specific property or interests in property of a specially designated narcotics trafficker; block specific property or interests in property of a person pending investigation; or block or impose other prohibitions with respect to specific property or interests in property less than full blocking sanctions. Notice of such orders will be provided: by publication in the Federal Register; in writing to persons OFAC may assess to have an interest in the property; or by issuing an order or directive in writing to financial institutions or other transaction intermediaries, and requiring the recipient of the order or directive to promptly disclose it to affected persons with whom the recipient maintains direct commercial relationships. Inquiries regarding any such order should be directed to OFAC's Compliance Division at 202-622-2490 or *https://ofac.treasury.gov/contact-ofac.*
 
-[86 FR 26668, May 17, 2021]
+Note 4 to § 598.314:
+
+Subpart E of part 501 of this chapter describes the procedures to be followed for the unblocking of property and interests in property blocked pursuant to this section, including funds blocked due to mistaken identity or typographical or similar errors, and for administrative reconsideration of one's status as a person whose property and interests in property are blocked pursuant to this part.
+
+[86 FR 26668, May 17, 2021, as amended at 89 FR 75968, Sept. 17, 2024]

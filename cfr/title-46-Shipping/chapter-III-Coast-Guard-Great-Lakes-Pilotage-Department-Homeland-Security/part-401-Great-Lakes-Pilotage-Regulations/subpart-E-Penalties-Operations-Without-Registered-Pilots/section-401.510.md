@@ -1,5 +1,7 @@
 ##### § 401.510 Operation without Registered Pilots. #####
 
+Link to an amendment published at 89 FR 76352, Sept. 17, 2024.
+
 (a) A vessel may be navigated in the U.S. waters of the Great Lakes without a United States or Canadian Registered Pilot when the vessel or its cargo is in distress or jeopardy.
 
 (b) A vessel may be navigated in the U.S. waters of the Great Lakes without a United States or Canadian Registered Pilot when the Director, with the concurrence of the Commander, 9th Coast Guard District, notifies the master that a United States or Canadian Registered Pilot is not available.

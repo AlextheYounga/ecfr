@@ -155,7 +155,7 @@
 
 (xi) Section 6047(d) (relating to reports by employers, plan administrators, etc., on Form 1099-R); or
 
-(xii) Section 6035 (relating to basis information with respect to property acquired from decedents, generally Form 8971, *Information Regarding Beneficiaries Acquiring Property From a Decedent,* and the Schedule(s) A required to be filed along with it).
+(xii) Section 6035 (relating to basis information with respect to property acquired from a decedent, generally Form 8971, *Information Regarding Beneficiaries Acquiring Property from a Decedent*), whether an initial or supplemental information return.
 
 (3) *Returns.* The returns subject to this section are the returns required by—
 
@@ -221,6 +221,8 @@
 
 (i) *Adjustment for inflation.* Each of the dollar amounts under paragraphs (a), (b), (f) (other than paragraph (f)(2)), and (g) of this section and section 6721(a), (b), (d) (other than section 6721(d)(2)(A)), and (e) will be adjusted for inflation pursuant to section 6721(f).
 
-(j) *Applicability date.* This section applies with respect to information returns required to be filed on or after January 1, 2024. *See* 26 CFR 301.6721-1, as revised April 1, 2023, for rules applicable prior to January 1, 2024. Paragraph (h)(3)(iii) of this section applies to returns required to be filed on or after January 1, 2026.
+(j) *Applicability dates*—(1) *In general.* Except as provided in paragraph (j)(2) of this section, this section applies with respect to information returns required to be filed on or after January 1, 2024. *See* 26 CFR 301.6721-1, as revised April 1, 2023, for rules applicable prior to January 1, 2024.
 
-[T.D. 8386, 56 FR 67182, Dec. 30, 1991, as amended by T.D. 8843, 64 FR 61504, Nov. 12, 1999; T.D. 9200, 70 FR 28742, May 18, 2005; T.D. 9496, 75 FR 49836, Aug. 16, 2010; T.D. 9504, 75 FR 64103, Oct. 18, 2010; T.D. 9660, 79 FR 13231, Mar. 10, 2014; T.D. 9972, 88 FR 11777, Feb. 23, 2023; T.D. 9984, 88 FR 87701, Dec. 19, 2023; T.D. 10000, 89 FR 56583, July 9, 2024]
+(2) *Exception.* Paragraph (h)(2)(xii) of this section applies with respect to information returns required to be filed after September 17, 2024.
+
+[T.D. 8386, 56 FR 67182, Dec. 30, 1991, as amended by T.D. 8843, 64 FR 61504, Nov. 12, 1999; T.D. 9200, 70 FR 28742, May 18, 2005; T.D. 9496, 75 FR 49836, Aug. 16, 2010; T.D. 9504, 75 FR 64103, Oct. 18, 2010; T.D. 9660, 79 FR 13231, Mar. 10, 2014; T.D. 9972, 88 FR 11777, Feb. 23, 2023; T.D. 9984, 88 FR 87701, Dec. 19, 2023; T.D. 10000, 89 FR 56583, July 9, 2024; T.D. 9991, 89 FR 76386, Sept. 17, 2024]

@@ -1,5 +1,7 @@
 ##### § 401.451 Pilot rest periods. #####
 
+Link to an amendment published at 89 FR 76352, Sept. 17, 2024.
+
 (a) Except as provided in paragraph (b) of this section:
 
 (1) Each Registered Pilot upon completing an assignment at a change point designated in § 401.450, and

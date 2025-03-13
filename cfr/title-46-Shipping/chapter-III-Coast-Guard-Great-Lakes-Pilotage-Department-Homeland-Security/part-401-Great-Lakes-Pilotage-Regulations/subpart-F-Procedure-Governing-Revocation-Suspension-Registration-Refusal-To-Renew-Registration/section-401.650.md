@@ -1,5 +1,7 @@
 ##### § 401.650 Review of Administrative Law Judge's initial decision. #####
 
+Link to an amendment published at 89 FR 76353, Sept. 17, 2024.
+
 (a) The Commandant may, on his own motion, or on the basis of a petition filed by the U.S. Registered Pilot in the proceedings or the Commandant, review any initial decision of the Administrative Law Judge by entering a written order stating that he elects to review the action of the Administrative Law Judge. Copies of all orders for review, replies, and decisions shall be served on all parties.
 
 (b) A petition for review shall be in writing and shall state the grounds upon which the petition relies. A petition for review shall be limited to the record before the Administrative Law Judge. Five (5) copies of such a petition for review, together with proof of service on all parties, shall be filed with the Commandant (CL) within fifteen (15) days after the date of service of the initial decision of the Administrative Law Judge. Parties may file replies, in writing, to a petition for review, with proof of service on other parties in the same manner and number of copies as is provided for filing of a petition for review and within ten (10) days after the date the petition for review is timely filed. A reply shall be limited to the record before the Administrative Law Judge and the petition for review.

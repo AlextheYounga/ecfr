@@ -1,5 +1,7 @@
 ##### § 401.110 Definitions. #####
 
+Link to an amendment published at 89 FR 76346, Sept. 17, 2024.
+
 (a) As used in this chapter:
 
 (1) *Act* means the Great Lakes Pilotage Act of 1960, as amended (Pub. L. 86-555, 74 Stat. 259-262; 46 U.S.C. 216 through 216i).

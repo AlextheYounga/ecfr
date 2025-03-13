@@ -1,7 +1,5 @@
 ##### § 1.401(k)-2 ADP test. #####
 
-Link to an amendment published at 89 FR 58906, July 19, 2024.
-
 (a) *Actual deferral percentage (ADP) test*—(1) *In general*—(i) *ADP test formula.* A cash or deferred arrangement satisfies the ADP test for a plan year only if—
 
 (A) The ADP for the eligible HCEs for the plan year is not more than the ADP for the eligible NHCEs for the applicable year multiplied by 1.25; or
@@ -253,7 +251,7 @@ Example 9.(i)(A) Employer N maintains Plan X, a profit sharing plan that contain
 
 (v) *Distribution.* Within 12 months after the close of the plan year in which the excess contribution arose, the plan must distribute to each HCE the excess contributions apportioned to such HCE under paragraph (b)(2)(iii) of this section and the allocable income. Except as otherwise provided in this paragraph (b)(2)(v) and paragraph (b)(4)(i) of this section, a distribution of excess contributions must be in addition to any other distributions made during the year and must be designated as a corrective distribution by the employer. In the event of a complete termination of the plan during the plan year in which an excess contribution arose, the corrective distribution must be made as soon as administratively feasible after the date of termination of the plan, but in no event later than 12 months after the date of termination. If the entire account balance of an HCE is distributed prior to when the plan makes a distribution of excess contributions in accordance with this paragraph (b)(2), the distribution is deemed to have been a corrective distribution of excess contributions (and income) to the extent that a corrective distribution would otherwise have been required.
 
-(vi) *Tax treatment of corrective distributions*—(A) *Corrective distributions for plan years beginning on or after January 1, 2008.* Except as provided in this paragraph (b)(2)(vi), for plan years beginning on or after January 1, 2008, a corrective distribution of excess contributions (and allocable income) is includible in the employee's gross income for the employee's taxable year in which distributed. In addition, the corrective distribution is not subject to the early distribution tax of section 72(t). See paragraph (b)(5) of this section for additional rules relating to the employer excise tax on amounts distributed more than 21/2 months (6 months in the case of certain plans that include an eligible automatic contribution arrangement within the meaning of section 414(w)) after the end of the plan year. See also § 1.402(c)-2, A-4 for restrictions on rolling over distributions that are excess contributions.
+(vi) *Tax treatment of corrective distributions*—(A) *Corrective distributions for plan years beginning on or after January 1, 2008.* Except as provided in this paragraph (b)(2)(vi), for plan years beginning on or after January 1, 2008, a corrective distribution of excess contributions (and allocable income) is includible in the employee's gross income for the employee's taxable year in which distributed. In addition, the corrective distribution is not subject to the early distribution tax of section 72(t). See paragraph (b)(5) of this section for additional rules relating to the employer excise tax on amounts distributed more than 21/2 months (6 months in the case of certain plans that include an eligible automatic contribution arrangement within the meaning of section 414(w)) after the end of the plan year. See also § 1.402(c)-2(c)(3) for restrictions on rolling over distributions that are excess contributions.
 
 (B) *Corrective distributions for plan years beginning before January 1, 2008.* The tax treatment of corrective distributions for plan years beginning before January 1, 2008, is determined under § 1.401(k)-2(b)(2)(vi) (as it appeared in the April 1, 2007, edition of 26 CFR Part 1).
 
@@ -263,7 +261,7 @@ Example 9.(i)(A) Employer N maintains Plan X, a profit sharing plan that contain
 
 (B) *Treatment of corrective distributions as elective contributions.* Excess contributions are treated as employer contributions for purposes of sections 404 and 415 even if distributed from the plan.
 
-(C) *No reduction of required minimum distribution.* A distribution of excess contributions (and income) is not treated as a distribution for purposes of determining whether the plan satisfies the minimum distribution requirements of section 401(a)(9). *See* § 1.401(a)(9)-5, A-9(b).
+(C) *No reduction of required minimum distribution.* A distribution of excess contributions (and income) is not treated as a distribution for purposes of determining whether the plan satisfies the minimum distribution requirements of section 401(a)(9). *See* §§ 1.401(a)(9)-5(g)(2)(ii) and 1.402(c)-2(c)(3).
 
 (D) *Partial distributions.* Any distribution of less than the entire amount of excess contributions (and allocable income) with respect to any HCE is treated as a pro rata distribution of excess contributions and allocable income.
 
@@ -409,4 +407,4 @@ Example 5.(i) The facts are the same as in *Example 4,* except that the provisio
 
 (iii) The establishment of Plan R is a plan coverage change that affects Plan R. Because the 50 hourly employees were not eligible employees under any qualified cash or deferred arrangement of Employer C for the prior plan year, they do not comprise a prior year subgroup. Accordingly, Plan R still has only one prior year subgroup. Therefore, for purposes of the 2006 testing year under Plan R, the ADP for NHCEs for the prior year is the weighted average of the ADPs for the prior year subgroups, or 2%, the same as that of Plan Q.
 
-[T.D. 9169, 69 FR 78154, Dec. 29, 2004, as amended by T.D. 9237, 71 FR 10, Jan. 3, 2006; T.D. 9447, 74 FR 8207, Feb. 24, 2009]
+[T.D. 9169, 69 FR 78154, Dec. 29, 2004, as amended by T.D. 9237, 71 FR 10, Jan. 3, 2006; T.D. 9447, 74 FR 8207, Feb. 24, 2009; T.D. 10001, 89 FR 58906, July 19, 2024]

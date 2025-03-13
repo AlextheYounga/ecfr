@@ -1,5 +1,7 @@
 ##### § 401.320 Requirements and qualifications for authorization to establish pools. #####
 
+Link to an amendment published at 89 FR 76350, Sept. 17, 2024.
+
 No voluntary association shall be authorized to establish a pool unless:
 
 (a) The Director determines that a pool is necessary for the efficient dispatching of vessels and the providing of pilotage services in the area concerned.

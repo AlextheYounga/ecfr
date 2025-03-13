@@ -1,5 +1,7 @@
 ##### § 1800.3 Applicability. #####
 
+Link to an amendment published at 89 FR 75948, Sept. 17, 2024.
+
 (a) This part establishes policies and procedures for grants and cooperative agreements awarded by NASA to non-Federal entities, for-profit organization, foreign organizations, and foreign public entities as allowed by 2 CFR 200.101. For supplemental guidance, NASA has adopted section numbers that correspond to those in the OMB guidance in 2 CFR part 200.
 
 (1) Non-Federal entities must follow the policies and procedures appearing in subparts A through F of 2 CFR part 200 and as supplemented by this part.

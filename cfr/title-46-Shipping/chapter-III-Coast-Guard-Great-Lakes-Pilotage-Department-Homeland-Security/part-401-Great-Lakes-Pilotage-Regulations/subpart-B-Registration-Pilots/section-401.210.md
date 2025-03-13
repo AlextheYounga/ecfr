@@ -1,5 +1,7 @@
 ##### § 401.210 Requirements and qualifications for registration. #####
 
+Link to an amendment published at 89 FR 76347, Sept. 17, 2024.
+
 (a) No person shall be registered as a United States Registered Pilot unless:
 
 (1) The individual holds a license or MMC endorsed as a master, mate, or pilot, issued under the authority of the provisions of Title 52 of the Revised Statutes, and has acquired at least twenty-four months service as a licensed or credentialed officer or comparable experience on vessels or integrated tugs and tows, of 4,000 gross tons, or over, operating on the Great Lakes or oceans. Those applicants qualifying with ocean service must have obtained at least six months of service as a licensed or credentialed officer or comparable experience on the Great Lakes. Those applicants qualifying with comparable experience must have served a minimum of twelve months as a deck officer under the authority of their license or MMC.

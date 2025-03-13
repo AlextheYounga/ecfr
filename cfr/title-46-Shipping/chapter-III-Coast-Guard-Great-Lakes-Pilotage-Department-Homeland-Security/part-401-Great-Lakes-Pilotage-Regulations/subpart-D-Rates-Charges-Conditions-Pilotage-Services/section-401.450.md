@@ -1,5 +1,7 @@
 ##### § 401.450 Pilot change points. #####
 
+Link to an amendment published at 89 FR 76352, Sept. 17, 2024.
+
 A Registered Pilot's assignment is completed when the vessel to which he is assigned completes its arrival at or, in the case of a through trip, passes any of the following places:
 
 (a) Snell Lock;

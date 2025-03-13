@@ -16,11 +16,15 @@ The names of persons listed in or designated pursuant to Executive Order 13382, 
 
 Note 2 to paragraph (a) of § 544.201:
 
-The International Emergency Economic Powers Act (50 U.S.C. 1701-1706), in Section 203 (50 U.S.C. 1702), authorizes the blocking of property and interests in property of a person during the pendency of an investigation. The names of persons whose property and interests in property are blocked pending investigation pursuant to paragraph (a) of this section also are published in the Federal Register and incorporated into the SDN List with the identifier “[BPI-NPWMD].”
+The International Emergency Economic Powers Act (50 U.S.C. 1701-1706), in Section 203 (50 U.S.C. 1702), authorizes the blocking of property and interests in property of a person during the pendency of an investigation. Except as described in note 3 to this paragraph (a), the names of persons whose property and interests in property are blocked pending investigation pursuant to paragraph (a) of this section are published in the Federal Register and incorporated into the SDN List with the identifier “[BPI-NPWMD].”
 
-Note 3 to paragraph (a) of § 544.201:
+Note 3 to paragraph (a):
 
-Sections 501.806 and 501.807 of this chapter describe the procedures to be followed by persons seeking, respectively, the unblocking of funds that they believe were blocked due to mistaken identity, or administrative reconsideration of their status as persons whose property and interests in property are blocked pursuant to paragraph (a) of this section.
+In certain cases, OFAC may issue an order to: identify as blocked specific property or interests in property of a person designated or otherwise blocked pursuant to this section; block specific property or interests in property of a person pending investigation; or block or impose other prohibitions with respect to specific property or interests in property less than full blocking sanctions. Notice of such orders will be provided: by publication in the Federal Register; in writing to persons OFAC may assess to have an interest in the property; or by issuing an order or directive in writing to financial institutions or other transaction intermediaries, and requiring the recipient of the order or directive to promptly disclose it to affected persons with whom the recipient maintains direct commercial relationships. Inquiries regarding any such order should be directed to OFAC's Compliance Division at 202-622-2490 or *https://ofac.treasury.gov/contact-ofac.*
+
+Note 4 to paragraph (a):
+
+Subpart E of part 501 of this chapter describes the procedures to be followed for the release of property and interests in property blocked pursuant to this section, including funds blocked due to mistaken identity or typographical or similar errors, and for administrative reconsideration of one's status as a person whose property and interests in property are blocked pursuant to this paragraph (a).
 
 (b) The prohibitions in paragraph (a) of this section include, but are not limited to, prohibitions on the following transactions when engaged in by a United States person or within the United States:
 
@@ -30,4 +34,4 @@ Sections 501.806 and 501.807 of this chapter describe the procedures to be follo
 
 (c) Unless otherwise authorized by this part or by a specific license expressly referring to this section, any dealing in any security (or evidence thereof) held within the possession or control of a U.S. person and either registered or inscribed in the name of, or known to be held for the benefit of, or issued by, any person whose property and interests in property are blocked pursuant to paragraph (a) of this section is prohibited. This prohibition includes but is not limited to the transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of, or the endorsement or guaranty of signatures on, any such security on or after the effective date. This prohibition applies irrespective of the fact that at any time (whether prior to, on, or subsequent to the effective date) the registered or inscribed owner of any such security may have or might appear to have assigned, transferred, or otherwise disposed of the security.
 
-[74 FR 16773, Apr. 13, 2009, as amended at 76 FR 38537, June 30, 2011; 85 FR 61824, Oct. 1, 2020]
+[74 FR 16773, Apr. 13, 2009, as amended at 76 FR 38537, June 30, 2011; 85 FR 61824, Oct. 1, 2020; 89 FR 75959, Sept. 17, 2024]

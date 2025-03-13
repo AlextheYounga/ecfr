@@ -1,0 +1,11 @@
+##### § 1.6662-9 Inconsistent estate basis reporting. #####
+
+(a) *In general.* Section 6662(a) and (b)(8) impose an accuracy-related penalty on the portion of any underpayment of tax required to be shown on an income tax return that is attributable to an inconsistent estate basis.
+
+(b) *Inconsistent estate basis*—(1) *In general.* There is an *inconsistent estate basis* in property under section 6662(k) to the extent that a taxpayer claims a basis that was determined by using an initial basis as defined in § 1.1014-10(a)(2) that exceeds the property's final value as determined under § 1.1014-10(b)(1). The property to which this section applies is the property described in § 1.1014-10(c)(1).
+
+(2) *Example.* The following example illustrates the provisions of paragraph (b)(1) of this section. In year 1, taxpayer (T), a citizen of the United States, inherited a house, property described in § 1.1014-10(c)(1) and not described in § 1.1014-10(c)(2). The final value and thus initial basis of the house as determined under § 1.1014-10(b) was $300,000. In year 5, T spent $85,000 on an addition to the house, which is added to T's initial basis in the house under section 1016(a). In year 11, T sold the house to an unrelated third party for $650,000. On T's return, T claims an initial basis of $400,000 and the $85,000 spent on the addition to the house, for a total claimed basis of $485,000. T's claimed initial basis exceeds the allowable basis by $100,000. Because this amount is due to T claiming an initial basis as defined in § 1.1014-10(a)(2) that exceeds the property's final value as determined under § 1.1014-10(b), T is liable for the 20% accuracy-related penalty for the portion of any underpayment that is attributable to the reporting of an inconsistent basis.
+
+(c) *Applicability date.* This section applies to property described in § 1.1014-10(c)(1) that is reported on an estate tax return required under section 6018 that is filed after September 17, 2024.
+
+[T.D. 9991, 89 FR 76386, Sept. 17, 2024]

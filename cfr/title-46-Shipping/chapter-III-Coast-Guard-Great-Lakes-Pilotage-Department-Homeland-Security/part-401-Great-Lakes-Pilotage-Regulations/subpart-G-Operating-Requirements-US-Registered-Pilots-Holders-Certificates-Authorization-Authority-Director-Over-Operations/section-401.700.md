@@ -1,5 +1,7 @@
 ##### § 401.700 Operating requirements for U.S. registered pilots. #####
 
+Link to an amendment published at 89 FR 76353, Sept. 17, 2024.
+
 Each U.S. registered pilot shall—
 
 (a) Provide pilotage service when dispatched by his pool; and

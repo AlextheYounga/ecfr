@@ -209,7 +209,7 @@
 
 (xxxiv) Section 6056 (relating to information returns reporting on offers of health insurance coverage by applicable large employer members);
 
-(xxxv) Section 6035, other than a statement described in section 6724(d)(1)(D), (relating to basis information with respect to property acquired from decedents, generally Schedule A of Form 8971, *Information Regarding Beneficiaries Acquiring Property From a Decedent*);
+(xxxv) Section 6035 (relating to basis information with respect to property acquired from a decedent, generally Schedule A of Form 8971, *Information Regarding Beneficiaries Acquiring Property from a Decedent*), other than an information return described in section 6724(d)(1)(D), whether an initial or supplemental payee statement;
 
 (xxxvi) Section 6050Y(a)(2), 6050Y(b)(2), or 6050Y(c)(2) (relating to certain life insurance contract transactions);
 
@@ -223,6 +223,8 @@
 
 (f) *Adjustment for inflation.* Each of the dollar amounts under paragraphs (a), (b), and (c) of this section and paragraphs (a), (b), (d)(1), and (e) of section 6722 will be adjusted for inflation pursuant to section 6722(f).
 
-(g) *Applicability date.* This section applies with respect to payee statements required to be furnished on or after January 1, 2024. *See* 26 CFR 301.6722-1, as revised April 1, 2023, for rules applicable prior to January 1, 2024. Paragraph (e)(2)(viii) of this section applies to payee statements required to be furnished on or after January 1, 2026.
+(g) *Applicability dates*—(1) *In general.* Except as provided in paragraph (g)(2) of this section, this section applies with respect to payee statements required to be furnished on or after January 1, 2024. *See* 26 CFR 301.6722-1, as revised April 1, 2023, for rules applicable prior to January 1, 2024.
 
-[T.D. 8386, 56 FR 67182, Dec. 30, 1991, as amended by T.D. 9394, 73 FR 23086, Apr. 29, 2008; T.D. 9496, 75 FR 49836, Aug. 16, 2010; T.D. 9504, 75 FR 64104, Oct. 18, 2010; T.D. 9660, 79 FR 13231, Mar. 10, 2014; T.D. 9984, 88 FR 87705, Dec. 19, 2023; T.D. 10000, 89 FR 56583, July 9, 2024]
+(2) *Exception.* Paragraph (e)(2)(xxxv) of this section applies with respect to payee statements required to be furnished after September 17, 2024.
+
+[T.D. 8386, 56 FR 67182, Dec. 30, 1991, as amended by T.D. 9394, 73 FR 23086, Apr. 29, 2008; T.D. 9496, 75 FR 49836, Aug. 16, 2010; T.D. 9504, 75 FR 64104, Oct. 18, 2010; T.D. 9660, 79 FR 13231, Mar. 10, 2014; T.D. 9984, 88 FR 87705, Dec. 19, 2023; T.D. 10000, 89 FR 56583, July 9, 2024, T.D. 9991, 89 FR 76386, Sept. 17, 2024]

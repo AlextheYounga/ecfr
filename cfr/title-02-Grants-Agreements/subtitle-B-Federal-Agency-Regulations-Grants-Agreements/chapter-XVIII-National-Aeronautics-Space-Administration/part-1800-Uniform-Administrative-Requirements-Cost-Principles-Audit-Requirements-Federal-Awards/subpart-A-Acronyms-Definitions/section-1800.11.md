@@ -1,5 +1,7 @@
 ##### § 1800.11 Definitions. #####
 
+Link to an amendment published at 89 FR 75948, Sept. 17, 2024.
+
 The following definitions are a supplement to the definitions set forth at 2 CFR 200.1.
 
 *Administrative Grant Officer* means a Federal employee delegated responsibility for award administration; e.g., a NASA Grant Officer who has retained award administration responsibilities, or an Office of Naval Research (ONR) Grant Officer delegated award administration by a NASA Grant Officer.

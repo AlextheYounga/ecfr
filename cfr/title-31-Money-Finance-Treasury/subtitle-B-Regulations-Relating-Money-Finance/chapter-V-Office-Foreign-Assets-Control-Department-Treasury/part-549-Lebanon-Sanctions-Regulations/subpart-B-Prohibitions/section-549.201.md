@@ -16,11 +16,15 @@ The names of persons designated pursuant to Executive Order 13441, whose propert
 
 Note 2 to paragraph (a) of § 549.201:
 
-The International Emergency Economic Powers Act (50 U.S.C. 1701-1706), in Section 203 (50 U.S.C. 1702), authorizes the blocking of property and interests in property of a person during the pendency of an investigation. The names of persons whose property and interests in property are blocked pending investigation pursuant to paragraph (a) of this section also are published in the Federal Register and incorporated into the SDN List with the identifier “[BPI-LEBANON].”
+The International Emergency Economic Powers Act (50 U.S.C. 1701-1706), in Section 203 (50 U.S.C. 1702), authorizes the blocking of property and interests in property of a person during the pendency of an investigation. Except as described in note 3 to this paragraph (a), the names of persons whose property and interests in property are blocked pending investigation pursuant to paragraph (a) of this section are published in the Federal Register and incorporated into the SDN List with the identifier “[BPI-LEBANON].”
 
-Note 3 to paragraph (a) of § 549.201:
+Note 3 to paragraph (a):
 
-Sections 501.806 and 501.807 of this chapter describe the procedures to be followed by persons seeking, respectively, the unblocking of funds that they believe were blocked due to mistaken identity, or administrative reconsideration of their status as persons whose property and interests in property are blocked pursuant to paragraph (a) of this section.
+In certain cases, OFAC may issue an order to: identify as blocked specific property or interests in property of a person designated or otherwise blocked pursuant to this section; block specific property or interests in property of a person pending investigation; or block or impose other prohibitions with respect to specific property or interests in property less than full blocking sanctions. Notice of such orders will be provided: by publication in the Federal Register; in writing to persons OFAC may assess to have an interest in the property; or by issuing an order or directive in writing to financial institutions or other transaction intermediaries, and requiring the recipient of the order or directive to promptly disclose it to affected persons with whom the recipient maintains direct commercial relationships. Inquiries regarding any such order should be directed to OFAC's Compliance Division at 202-622-2490 or *https://ofac.treasury.gov/contact-ofac.*
+
+Note 4 to paragraph (a):
+
+Subpart E of part 501 of this chapter describes the procedures to be followed for the release of property and interests in property blocked pursuant to this section, including funds blocked due to mistaken identity or typographical or similar errors, and for administrative reconsideration of one's status as a person whose property and interests in property are blocked pursuant to this paragraph (a).
 
 (b) The prohibitions in paragraph (a) of this section include, but are not limited to, prohibitions on the following transactions:
 
@@ -32,4 +36,4 @@ Sections 501.806 and 501.807 of this chapter describe the procedures to be follo
 
 (d) The prohibitions in paragraph (a) of this section apply except to the extent transactions are authorized by regulations, orders, directives, rulings, instructions, licenses, or otherwise, and notwithstanding any contracts entered into or any license or permit granted prior to the effective date.
 
-[75 FR 44909, July 30, 2010, as amended at 76 FR 38538, June 30, 2011]
+[75 FR 44909, July 30, 2010, as amended at 76 FR 38538, June 30, 2011; 89 FR 75960, Sept. 17, 2024]

@@ -24,8 +24,6 @@ For purposes of the regulations in this part:
 
 *Informant* means a person:
 
-*Informant* means a person:
-
 (1) Who is a patient or employee of a part 2 program or who becomes a patient or employee of a part 2 program at the request of a law enforcement agency or official; and
 
 (2) Who at the request of a law enforcement agency or official observes one or more patients or employees of the part 2 program for the purpose of reporting the information obtained to the law enforcement agency or official.

@@ -1,7 +1,5 @@
 ##### § 1.402A-1 Designated Roth Accounts. #####
 
-Link to an amendment published at 89 FR 58906, July 19, 2024.
-
 Q-1. What is a designated Roth account?
 
 A-1. A designated Roth account is a separate account under a qualified cash or deferred arrangement under a section 401(a) plan, or under a section 403(b) plan, to which designated Roth contributions are permitted to be made in lieu of elective contributions and that satisfies the requirements of § 1.401(k)-1(f) (in the case of a section 401(a) plan) or § 1.403(b)-3(c) (in the case of a section 403(b) plan).
@@ -84,7 +82,7 @@ A-10. (a) If a distribution of employer securities from a designated Roth accoun
 
 (b) In the case of a qualified distribution of employer securities from a designated Roth account, the distributee's basis in the distributed securities for purposes of subsequent disposition is their fair market value at the time of distribution.
 
-Q-11. Can an amount described in A-4 of § 1.402(c)-2 with respect to a designated Roth account be a qualified distribution?
+Q-11. Can an amount described in § 1.402(c)-2(c)(3) with respect to a designated Roth account be a qualified distribution?
 
 A-11. No. An amount described in A-4 of § 1.402(c)-2 with respect to a designated Roth account cannot be a qualified distribution. Such an amount is taxable under the rules of §§ 1.72-16(b), 1.72(p)-1, A-11 through A-13, 1.402(g)-1(e)(8), 1.401(k)-2(b)(2)(vi), 1.401(m)-2(b)(2)(vi), or 1.404(k)-1T. Thus, for example, loans that are treated as deemed distributions pursuant to section 72(p), or dividends paid on employer securities as described in section 404(k) are not qualified distributions even if the deemed distributions occur or the dividends are paid after the employee attains age 591/2 and the 5-taxable-year period of participation defined in A-4 of this section has been satisfied. However, if a dividend is reinvested in accordance with section 404(k)(2)(A)(iii)(II), the amount of such a dividend is not precluded from being a qualified distribution if later distributed. Further, an amount is not precluded from being a qualified distribution merely because it is described in section 402(c)(4) as an amount not eligible for rollover. Thus, a hardship distribution is not precluded from being a qualified distribution.
 
@@ -102,10 +100,10 @@ A-13. (a) Yes. Any transaction or accounting methodology involving an employee's
 
 Q-14. How is an annuity contract that is distributed from a designated Roth account treated for purposes of section 402A?
 
-A-14. A qualified plan distributed annuity contract within the meaning of § 1.402(c)-2, A-10(a) that is distributed from a designated Roth account is not treated as a distribution for purposes of section 402 or 402A. Instead, the amounts paid under the annuity contract are treated as distributions for purposes of sections 402 and 402A. Thus, the period after the annuity contract is distributed and before a payment from the annuity contract is made is included in determining whether the five-year period of participation is satisfied. Further, for purposes of determining if a distribution is a qualified distribution, the determination of whether a distribution is made on or after the date the employee attains age 591/2, made to a beneficiary or the estate of the employee on or after the employee's death, or attributable to the employee's being disabled within the meaning of section 72(m)(7) is made based on the facts at the time the distribution is made from the annuity contract. Thus for example, if an employee first makes a designated Roth contribution to a designated Roth account in 2006 at age 56, receives a distributed annuity contract within the meaning of § 1.402(c)-2, A-10(a) in 2007 purchased only with assets from the designated Roth account, and then receives a distribution from the contract in 2011 at age 60, the distribution is a qualified distribution.
+A-14. A qualified plan distributed annuity contract within the meaning of § 1.402(c)-2(h) that is distributed from a designated Roth account is not treated as a distribution for purposes of section 402 or 402A. Instead, the amounts paid under the annuity contract are treated as distributions for purposes of sections 402 and 402A. Thus, the period after the annuity contract is distributed and before a payment from the annuity contract is made is included in determining whether the five-year period of participation is satisfied. Further, for purposes of determining if a distribution is a qualified distribution, the determination of whether a distribution is made on or after the date the employee attains age 591/2, made to a beneficiary or the estate of the employee on or after the employee's death, or attributable to the employee's being disabled within the meaning of section 72(m)(7) is made based on the facts at the time the distribution is made from the annuity contract. Thus for example, if an employee first makes a designated Roth contribution to a designated Roth account in 2006 at age 56, receives a distributed annuity contract within the meaning of § 1.402(c)-2, A-10(a) in 2007 purchased only with assets from the designated Roth account, and then receives a distribution from the contract in 2011 at age 60, the distribution is a qualified distribution.
 
 Q-15. When are section 402A and this § 1.402A-1 applicable?
 
 A-15. Section 402A is applicable for taxable years beginning on or after January 1, 2006. Except as otherwise provided in A-5 and A-13 of this section, the rules of this § 1.402A-1 apply for taxable years beginning on or after January 1, 2007.
 
-[T.D. 9324, 72 FR 21111, Apr. 30, 2007; 72 FR 30974, June 5, 2007, as amended by T.D. 9340, 72 FR 41140, July 26, 2007; T.D. 9769, 81 FR 31166, May 18, 2016]
+[T.D. 9324, 72 FR 21111, Apr. 30, 2007; 72 FR 30974, June 5, 2007, as amended by T.D. 9340, 72 FR 41140, July 26, 2007; T.D. 9769, 81 FR 31166, May 18, 2016; T.D. 10001, 89 FR 58906, July 19, 2024]

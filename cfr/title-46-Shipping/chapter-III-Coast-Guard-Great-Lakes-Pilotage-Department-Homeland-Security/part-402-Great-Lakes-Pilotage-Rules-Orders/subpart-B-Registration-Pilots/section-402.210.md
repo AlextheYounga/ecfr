@@ -1,5 +1,7 @@
 ##### § 402.210 Requirements and qualifications for registration. #####
 
+Link to an amendment published at 89 FR 76354, Sept. 17, 2024.
+
 (a) Pursuant to § 401.210(a)(4), each applicant for an original registration at the time of application and each Registered Pilot annually is required to pass a physical examination given by a licensed medical doctor and reported on the form furnished by the Director. The examination report shall describe the applicant's or Registered Pilot's visual acuity, color sense, physical condition, and competency to perform the duties of a U.S. Registered Pilot.
 
 (b) Any disease, physical or mental defect, or impairment to hearing or visual acuity, such as epilepsy, insanity, senility, acute venereal disease, neurosyphilis, hemiplegia, paralysis or missing arm, leg, or eye, muteness or pronounced speech impairment, acute kidney or gastro-enteritis disease, extreme obesity, addiction of alcohol or narcotics, acute varicosity of the legs, cardiovascular disease or other disorder which would impair the applicant's ability to be available for service when required and to withstand the rigors of boarding vessels, climbing ladders or great heights, standing for long periods of time, and performing his duties under prolonged periods of nervous strain are causes for determination of physical incompetency.

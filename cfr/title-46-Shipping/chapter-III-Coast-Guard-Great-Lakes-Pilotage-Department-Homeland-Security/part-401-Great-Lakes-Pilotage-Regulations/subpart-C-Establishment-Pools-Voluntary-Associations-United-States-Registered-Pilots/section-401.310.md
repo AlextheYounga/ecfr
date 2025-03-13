@@ -1,5 +1,7 @@
 ##### § 401.310 Application for establishment of pools. #####
 
+Link to an amendment published at 89 FR 76350, Sept. 17, 2024.
+
 An application by a voluntary association for authorization to establish a pool shall be filed on the form to be obtained from the Director. The form shall require, among other things, furnishing of the following information:
 
 (a) The name and address of the association.

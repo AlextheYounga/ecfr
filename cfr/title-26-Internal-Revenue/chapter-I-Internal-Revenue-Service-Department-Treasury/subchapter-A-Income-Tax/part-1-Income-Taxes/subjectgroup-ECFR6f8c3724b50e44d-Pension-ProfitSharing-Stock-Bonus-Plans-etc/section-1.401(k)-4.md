@@ -1,7 +1,5 @@
 ##### § 1.401(k)-4 SIMPLE 401(k) plan requirements. #####
 
-Link to an amendment published at 89 FR 58906, July 19, 2024.
-
 (a) *General rule.* A cash or deferred arrangement satisfies the SIMPLE 401(k) plan provision of section 401(k)(11) for a plan year if the arrangement satisfies the requirements of paragraphs (b) through (i) of this section for that year. A plan that contains a cash or deferred arrangement that satisfies this section is referred to as a SIMPLE 401(k) plan. Pursuant to section 401(k)(11), a SIMPLE 401(k) plan is treated as satisfying the ADP test of section 401(k)(3)(A)(ii) for that year.
 
 (b) *Eligible employer*—(1) *General rule.* A SIMPLE 401(k) plan must be established by an eligible employer. Eligible employer for purposes of this section means, with respect to any plan year, an employer that had no more than 100 employees who each received at least $5,000 of SIMPLE compensation, as defined in paragraph (e)(5) of this section, from the employer for the prior calendar year.
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 58906, July 19, 2024.
 
 (3) *Employee notices.* The employer must notify each eligible employee within a reasonable time prior to each 60-day election period, or on the day the election period starts, that he or she can make a cash or deferred election, or modify a prior election, if applicable, during that period. The notice must state whether the eligible employer will make the matching contributions described in paragraph (e)(3) of this section or the nonelective contributions described in paragraph (e)(4) of this section.
 
-(e) *Contributions*—(1) *General rule.* A SIMPLE 401(k) plan satisfies the contribution requirements of this paragraph (e) for a plan year only if no contributions may be made to the SIMPLE 401(k) plan during such year, other than contributions described in this paragraph (e) and rollover contributions described in § 1.402(c)-2, Q&A-1(a).
+(e) *Contributions*—(1) *General rule.* A SIMPLE 401(k) plan satisfies the contribution requirements of this paragraph (e) for a plan year only if no contributions may be made to the SIMPLE 401(k) plan during such year, other than contributions described in this paragraph (e) and rollover contributions described in § 1.402(c)-2(a).
 
 (2) *Elective contributions.* Subject to the limitations on annual additions under section 415, each eligible employee must be permitted to make an election to have up to $10,000 of elective contributions made on the employee's behalf under the SIMPLE 401(k) plan for a plan year. The $10,000 limit is increased beginning in 2006 in the same manner as the $160,000 amount is adjusted under section 415(d), except that pursuant to section 408(p)(2)(E)(ii) the base period shall be the calendar quarter beginning July 1, 2004 and any increase which is not a multiple of $500 is rounded to the next lower multiple of $500.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 89 FR 58906, July 19, 2024.
 
 (h) *Other rules.* A SIMPLE 401(k) plan is not treated as a top-heavy plan under section 416. See section 416(g)(4)(G).
 
-[T.D. 9169, 69 FR 78154, Dec. 29, 2004]
+[T.D. 9169, 69 FR 78154, Dec. 29, 2004, as amended by T.D. 10001, 89 FR 10001, July 19, 2024]

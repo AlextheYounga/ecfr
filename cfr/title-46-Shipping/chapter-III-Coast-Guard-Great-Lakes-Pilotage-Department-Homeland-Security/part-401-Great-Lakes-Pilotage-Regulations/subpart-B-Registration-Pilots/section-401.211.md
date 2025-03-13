@@ -1,5 +1,7 @@
 ##### § 401.211 Requirements for training of Applicant Pilots. #####
 
+Link to an amendment published at 89 FR 76348, Sept. 17, 2024.
+
 (a) The Director shall determine the number of Applicant Pilots required to be in training by each Association authorized to form a pool in order to assure an adequate number of Registered Pilots. No Applicant Pilot shall be selected for training unless:
 
 (1) The individual meets the requirements and qualifications set forth in paragraphs (a) (1) through (4), (6), (7), and (9) of § 401.210.

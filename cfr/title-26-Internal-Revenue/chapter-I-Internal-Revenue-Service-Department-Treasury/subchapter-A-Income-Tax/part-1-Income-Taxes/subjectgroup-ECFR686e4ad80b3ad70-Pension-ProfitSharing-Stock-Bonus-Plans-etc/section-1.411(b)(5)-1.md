@@ -1,7 +1,5 @@
 ##### § 1.411(b)(5)-1 Reduction in rate of benefit accrual under a defined benefit plan. #####
 
-Link to an amendment published at 89 FR 58906, July 19, 2024.
-
 (a) *In general*—(1) *Organization of regulation.* This section sets forth certain rules for determining whether a reduction occurs in the rate of benefit accrual under a defined benefit plan because of the attainment of any age for purposes of section 411(b)(1)(H)(i). Paragraph (b) of this section describes safe harbors for certain plan designs (including statutory hybrid plans) that are deemed to satisfy the age discrimination rules under section 411(b)(1)(H). Paragraph (c) of this section describes rules relating to statutory hybrid plan conversion amendments. Paragraph (d) of this section describes rules restricting interest credits (or equivalent amounts) under a statutory hybrid plan to a market rate of return. Paragraph (e) of this section contains additional rules related to market rates of return. Paragraph (f) of this section contains effective/applicability dates.
 
 (2) *Definitions.* The definitions of accumulated benefit, lump sum-based benefit formula, statutory hybrid benefit formula, statutory hybrid plan, and variable annuity benefit formula in § 1.411(a)(13)-1(d) apply for purposes of this section.
@@ -279,7 +277,7 @@ Example 8.(i) *Facts involving establishment of opening hypothetical account bal
 |The yield on 7-year or shorter Treasury Constant Maturities |25 basis points. |
 |The yield on 30-year or shorter Treasury Constant Maturities| 0 basis points. |
 
-(iii) *Eligible cost-of-living indices.* An interest crediting rate is deemed to be not in excess of the interest rate described in paragraph (d)(3) of this section if the rate is adjusted no less frequently than annually and is equal to the rate of increase with respect to an eligible cost-of-living index described in § 1.401(a)(9)-6, A-14(b), except that, for purposes of this paragraph (d)(4)(iii), the eligible cost-of-living index described in § 1.401(a)(9)-6, A-14(b)(2) is increased by 300 basis points.
+(iii) *Eligible cost-of-living indices.* An interest crediting rate is deemed to be not in excess of the interest rate described in paragraph (d)(3) of this section if the rate is adjusted no less frequently than annually and is equal to the rate of increase with respect to an eligible cost-of-living index described in § 1.401(a)(9)-6(o)(2), except that, for purposes of this paragraph (d)(4)(iii), the eligible cost-of-living index described in § 1.401(a)(9)-6(o)(2)(ii) is increased by 300 basis points.
 
 (iv) *Short and mid-term investment grade corporate bonds.* An interest crediting rate equal to the first segment rate is deemed to be not in excess of the interest rate described in paragraph (d)(3) of this section. Similarly, an interest crediting rate equal to the second segment rate is deemed to be not in excess of the interest rate described in paragraph (d)(3) of this section. For this purpose, the first and second segment rates mean the first and second segment rates described in section 417(e)(3)(D) or 430(h)(2)(C), determined with or without regard to section 430(h)(2)(C)(iv) and with or without regard to the transition rules of section 417(e)(3)(D)(ii) or 430(h)(2)(G).
 
@@ -595,4 +593,4 @@ Example 11.(i) *Facts.* A plan was amended in 2014 to change its interest credit
 
 (iii) *Reliance before regulatory effective date.* For the periods after the statutory effective date set forth in paragraph (f)(1) of this section and before the regulatory effective date set forth in paragraph (f)(2)(i) of this section, the safe harbor and other relief of section 411(b)(5) apply and the market rate of return and other requirements of section 411(b)(5) must be satisfied. During these periods, a plan is permitted to rely on the provisions of this section for purposes of applying the relief and satisfying the requirements of section 411(b)(5).
 
-[T.D. 9505, 75 FR 64137, Oct. 19, 2010, as amended by T.D. 9505, Dec. 28, 2010; T.D. 9693, 79 FR 56460, Sept. 19, 2014; T.D. 9743, 80 FR 70684, Nov. 16, 2015]
+[T.D. 9505, 75 FR 64137, Oct. 19, 2010, as amended by T.D. 9505, Dec. 28, 2010; T.D. 9693, 79 FR 56460, Sept. 19, 2014; T.D. 9743, 80 FR 70684, Nov. 16, 2015; T.D. 10001, 89 FR 58906, July 19, 2024]

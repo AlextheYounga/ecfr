@@ -1,5 +1,7 @@
 ##### § 401.260 Reports. #####
 
+Link to an amendment published at 89 FR 76350, Sept. 17, 2024.
+
 (a) A marine accident which occurs while a U.S. Registered Pilot is in the service of a vessel in U.S. or Canadian waters of the Great Lakes shall be reported by the Registered Pilot to the Director as soon as possible, but not later than 15 days after the accident. The report shall name and describe the vessel or vessels involved, and shall describe the accident, including type of accident, location, time, prevailing weather, damage to the vessel or vessels or property, and injury to persons or lives lost. This report does not relieve the pilot of responsibility for submitting any report required by other government agencies of the United States or Canada.
 
 (b) Every U.S. Registered Pilot shall file with the Director any change of his or her mailing address within 15 days after the change.

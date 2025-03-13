@@ -1,7 +1,5 @@
 ##### § 1.408A-6 Distributions. #####
 
-Link to an amendment published at 89 FR 58906, July 19, 2024.
-
 This section sets forth the following questions and answers that provide rules regarding distributions from Roth IRAs:
 
 Q-1. How are distributions from Roth IRAs taxed?
@@ -106,7 +104,7 @@ A-14. (a) No minimum distributions are required to be made from a Roth IRA under
 
 (c) Distributions to a beneficiary that are not qualified distributions will be includible in the beneficiary's gross income according to the rules in A-4 of this section.
 
-(d) The special rules in A-3 of § 1.401(a)(9)-5 and A-12 of § 1.408-8 for a qualifying longevity annuity contract (QLAC), defined in A-17 of § 1.401(a)(9)-6, do not apply to a Roth IRA.
+(d) The special rules in § 1.401(a)(9)-5(b)(4) and § 1.408-8(h) for a qualifying longevity annuity contract (QLAC), defined in § 1.401(a)(9)-6(q), do not apply to a Roth IRA.
 
 Q-15. Does section 401(a)(9) apply separately to Roth IRAs and individual retirement plans that are not Roth IRAs?
 
@@ -128,4 +126,4 @@ Q-19. What are the Federal income tax consequences of a Roth IRA owner transferr
 
 A-19. A Roth IRA owner's transfer of his or her Roth IRA to another individual by gift constitutes an assignment of the owner's rights under the Roth IRA. At the time of the gift, the assets of the Roth IRA are deemed to be distributed to the owner and, accordingly, are treated as no longer held in a Roth IRA. In the case of any such gift of a Roth IRA made prior to October 1, 1998, if the entire interest in the Roth IRA is reconveyed to the Roth IRA owner prior to January 1, 1999, the Internal Revenue Service will treat the gift and reconveyance as never having occurred for estate tax, gift tax, and generation-skipping tax purposes and for purposes of this A-19.
 
-[T.D. 8816, 64 FR 5607, Feb. 4, 1999, as amended by T.D. 9673, 79 FR 37643, July 2, 2014]
+[T.D. 8816, 64 FR 5607, Feb. 4, 1999, as amended by T.D. 9673, 79 FR 37643, July 2, 2014; T.D. 10001, 89 FR 58906, July 19, 2024]
