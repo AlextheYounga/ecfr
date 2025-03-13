@@ -1,8 +1,6 @@
 ##### § 11.19 Disciplinary jurisdiction; grounds for discipline and for transfer to disability inactive status. #####
 
-Link to an amendment published at 88 FR 45087, July 14, 2023.
-
-(a) *Disciplinary jurisdiction.* All practitioners engaged in practice before the Office; all practitioners administratively suspended under § 11.11; all practitioners registered or recognized to practice before the Office in patent matters; all practitioners resigned, inactivated, or in emeritus status under § 11.11; all practitioners authorized under § 41.5(a) or 42.10(c) of this chapter; and all practitioners transferred to disability inactive status or publicly disciplined by a duly constituted authority are subject to the disciplinary jurisdiction of the Office and subject to being transferred to disability inactive status. A non-practitioner is also subject to the disciplinary authority of the Office if the person engages in or offers to engage in practice before the Office without proper authority.
+(a) *Disciplinary jurisdiction.* All practitioners engaged in practice before the Office, all practitioners administratively suspended under § 11.11, all practitioners registered or recognized to practice before the Office in patent matters, all practitioners resigned or inactivated under § 11.11, all practitioners authorized under § 41.5(a) or § 42.10(c) of this chapter, and all practitioners transferred to disability inactive status or publicly disciplined by a duly constituted authority are subject to the disciplinary jurisdiction of the Office and to being transferred to disability inactive status. A non-practitioner is also subject to the disciplinary authority of the Office if the person engages in or offers to engage in practice before the Office without proper authority.
 
 (b) *Grounds for discipline; Grounds for transfer to disability inactive status.* The following, whether done individually by a practitioner or in concert with any other person or persons and whether or not done in the course of providing legal services to a client, or in a matter pending before the Office, constitute grounds for discipline or grounds for transfer to disability inactive status.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 88 FR 45087, July 14, 2023.
 
 (e) The OED Director has the discretion to choose any of the independent grounds of discipline under paragraph (b) of this section and to pursue any of the procedures set forth in this subpart in every disciplinary proceeding.
 
-[73 FR 47689, Aug. 14, 2008, as amended at 78 FR 20200, Apr. 3, 2013; 86 FR 28457, May 26, 2021]
+[73 FR 47689, Aug. 14, 2008, as amended at 78 FR 20200, Apr. 3, 2013; 86 FR 28457, May 26, 2021; 88 FR 45087, July 14, 2023]

@@ -1,20 +1,20 @@
 ##### § 11.52 Written discovery. #####
 
-Link to an amendment published at 88 FR 45088, July 14, 2023.
+(a) After an answer is filed under § 11.36, a party may file a motion under § 11.43 seeking authorization to propound written discovery of relevant evidence, including:
 
-(a) After an answer is filed under § 11.36, a party may seek written discovery of only relevant evidence. The party seeking written discovery shall file a motion under § 11.43 explaining in detail, for each request made, how the discovery sought is reasonable and relevant to an issue actually raised in the complaint or the answer. The motion shall include a copy of the proposed written discovery requests. Any response shall include specific objections to each request, if any. Any objection not raised in the response will be deemed to have been waived.
+(1) A reasonable number of requests for admission, including requests for admission as to the genuineness of documents;
 
-(b) If the hearing officer concludes that the proposed written discovery is reasonable and relevant, the hearing officer, under such conditions as he or she deems appropriate, may order an opposing party, within 30 days, or longer if so ordered by the hearing officer, to:
+(2) A reasonable number of interrogatories;
 
-(1) Answer a reasonable number of requests for admission, including requests for admission as to the genuineness of documents;
+(3) A reasonable number of documents to be produced for inspection and copying; and
 
-(2) Answer a reasonable number of interrogatories;
+(4) A reasonable number of things other than documents to be produced for inspection.
 
-(3) Produce for inspection and copying a reasonable number of documents; and
+(b) The motion shall include a copy of the proposed written discovery requests and explain in detail, for each request made, how the discovery sought is reasonable and relevant to an issue actually raised in the complaint or the answer. Any response shall include specific objections to each request, if any. Any objection not raised in the response will be deemed to have been waived.
 
-(4) Produce for inspection a reasonable number of things other than documents.
+(c) The hearing officer may authorize any discovery requests the hearing officer deems to be reasonable and relevant. Unless the hearing officer orders otherwise, within 5 days of the hearing officer authorizing any discovery requests, the moving party shall serve a copy of the authorized discovery requests to the opposing party and, within 30 days of such service, the opposing party shall serve responses to the authorized discovery requests.
 
-(c) Discovery shall not be authorized under paragraph (a) of this section of any matter that:
+(d) Discovery shall not be authorized under paragraph (c) of this section of any matter that:
 
 (1) Will be used by another party solely for impeachment;
 
@@ -28,7 +28,7 @@ Link to an amendment published at 88 FR 45088, July 14, 2023.
 
 (6) Relates to mental impressions, conclusions, opinions, or legal theories of any attorney or other representative of a party.
 
-(d) The hearing officer may deny discovery requested under paragraph (a) of this section if the discovery sought:
+(e) The hearing officer may deny discovery requested under paragraph (a) of this section if the discovery sought:
 
 (1) Will unduly delay the disciplinary proceeding;
 
@@ -42,9 +42,9 @@ Link to an amendment published at 88 FR 45088, July 14, 2023.
 
 (iii) To the party seeking the discovery through another source.
 
-(e) A request for admission will be deemed admitted if the party to whom the request is directed fails to respond or object to the request within the time allowed.
+(f) A request for admission will be deemed admitted if the party to whom the request is directed fails to respond or object to the request within the time allowed.
 
-(f) The hearing officer may require parties to file and serve, prior to any hearing, a pre-hearing statement that contains:
+(g) The hearing officer may require parties to file and serve, prior to any hearing, a pre-hearing statement that contains:
 
 (1) A list (together with a copy) of all proposed exhibits to be used in connection with a party's case-in-chief;
 
@@ -62,4 +62,4 @@ Link to an amendment published at 88 FR 45088, July 14, 2023.
 
 (4) Copies of memoranda reflecting the respondent's own statements to administrative representatives.
 
-[86 FR 28462, May 26, 2021]
+[86 FR 28462, May 26, 2021, as amended at 88 FR 45088, July 14, 2023]

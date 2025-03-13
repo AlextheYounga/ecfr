@@ -1,7 +1,5 @@
 ##### § 1.907 Definitions. #####
 
-Link to an amendment published at 88 FR 44736, July 13, 2023.
-
 *Antenna structure.* The term antenna structure includes the radiating and receiving elements, its supporting structures, towers, and all appurtenances mounted thereon.
 
 *Application.* A request on a standard form for a station license as defined in § 3(b) of the Communications Act, signed in accordance with § 1.917 of this part, or a similar request to amend a pending application or to modify or renew an authorization. The term also encompasses requests to assign rights granted by the authorization or to transfer control of entities holding authorizations.
@@ -42,7 +40,7 @@ Link to an amendment published at 88 FR 44736, July 13, 2023.
 
 *Radio station.* A separate transmitter or a group of transmitters under simultaneous common control, including the accessory equipment required for carrying on a radio communications service.
 
-*Receipt date.* The date an electronic or paper application is received at the appropriate location at the Commission or U.S. Bank. Amendments to pending applications may result in the assignment of a new receipt date in accordance with § 1.927 of this part.
+*Receipt date.* The date an electronic application is received at the appropriate location at the Commission.
 
 *Spectrum leasing arrangement.* An arrangement between a licensed entity and a third-party entity in which the licensee leases certain of its spectrum usage rights to a spectrum lessee, as set forth in subpart X of this part (47 CFR 1.9001 *et seq.*). Spectrum leasing arrangement is defined in § 1.9003.
 
@@ -54,4 +52,4 @@ Link to an amendment published at 88 FR 44736, July 13, 2023.
 
 *Wireless Telecommunications Services.* Wireless Radio Services, whether fixed or mobile, that meet the definition of “telecommunications service” as defined by 47 U.S.C. 153, as amended, and are therefore subject to regulation on a common carrier basis.
 
-[63 FR 68921, Dec. 14, 1998, as amended at 73 FR 9018, Feb. 19, 2008; 78 FR 41321, July 10, 2013; 80 FR 36218, June 23, 2015; 81 FR 79930, Nov. 14, 2016; 82 FR 41544, Sept. 1, 2017; 83 FR 7401, Feb. 21, 2018; 83 FR 63095, Dec. 7, 2018; 84 FR 57363, Oct. 25, 2019; 85 FR 22861, Apr. 23, 2020; 85 FR 41929, July 13, 2020; 85 FR 43129, July 16, 2020; 86 FR 17942, Apr. 7, 2021]
+[63 FR 68921, Dec. 14, 1998, as amended at 73 FR 9018, Feb. 19, 2008; 78 FR 41321, July 10, 2013; 80 FR 36218, June 23, 2015; 81 FR 79930, Nov. 14, 2016; 82 FR 41544, Sept. 1, 2017; 83 FR 7401, Feb. 21, 2018; 83 FR 63095, Dec. 7, 2018; 84 FR 57363, Oct. 25, 2019; 85 FR 22861, Apr. 23, 2020; 85 FR 41929, July 13, 2020; 85 FR 43129, July 16, 2020; 86 FR 17942, Apr. 7, 2021; 88 FR 44736, July 13, 2023]

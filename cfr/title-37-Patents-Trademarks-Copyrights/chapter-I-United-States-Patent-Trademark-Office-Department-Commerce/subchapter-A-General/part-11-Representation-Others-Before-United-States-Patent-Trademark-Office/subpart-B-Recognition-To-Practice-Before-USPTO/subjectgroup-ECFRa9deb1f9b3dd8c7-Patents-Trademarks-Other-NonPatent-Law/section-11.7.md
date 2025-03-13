@@ -1,7 +1,5 @@
 ##### § 11.7 Requirements for registration. #####
 
-Link to an amendment published at 88 FR 45086, July 14, 2023.
-
 (a) No individual will be registered to practice before the Office unless he or she has:
 
 (1) Applied to the USPTO Director in writing by completing an application for registration form supplied by the OED Director and furnishing all requested information and material; and
@@ -180,6 +178,6 @@ Link to an amendment published at 88 FR 45086, July 14, 2023.
 
 (k) *Reapplication for registration.* An individual who has been refused registration for lack of good moral character or reputation may reapply for registration two years after the date of the decision, unless a shorter period is otherwise ordered by the USPTO Director. An individual, who has been notified that he or she is under investigation for good moral character and reputation may elect to withdraw his or her application for registration, and may reapply for registration two years after the date of withdrawal. Upon reapplication for registration, the individual shall pay the fees required by § 1.21(a)(1)(ii) and (a)(10) of this subchapter, and has the burden of showing to the satisfaction of the OED Director his or her possession of good moral character and reputation as prescribed in paragraph (b) of this section. Upon reapplication for registration, the individual also shall complete successfully the examination prescribed in paragraph (b) of this section, even though the individual has previously passed a registration examination.
 
-(l) *Transfer of status from agent to attorney.* An agent registered under § 11.6(b) may request registration as an attorney under § 11.6(a). The agent shall demonstrate his or her good standing as an attorney and pay the fee required by § 1.21(a)(2)(iii) of this chapter.
+(l) *Transfer of status from agent to attorney.* An agent registered under § 11.6(b) may request registration as an attorney under § 11.6(a). The agent shall demonstrate their good standing as an attorney.
 
-[69 FR 35452, June 24, 2004, as amended at 86 FR 28453, May 26, 2021]
+[69 FR 35452, June 24, 2004, as amended at 86 FR 28453, May 26, 2021; 88 FR 45086, July 14, 2023]

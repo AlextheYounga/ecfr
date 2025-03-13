@@ -1,0 +1,3 @@
+##### § 2525.44 How will AmeriCorps notify the Eligible Individual or Designated Recipient of its decision on the extension request? #####
+
+AmeriCorps will notify the Eligible Individual or Designated Recipient in writing if the request for an extension has been granted or denied. The notification will advise the requester of the process for appealing the denial if the requester has a good-faith basis to believe their request was erroneously denied.

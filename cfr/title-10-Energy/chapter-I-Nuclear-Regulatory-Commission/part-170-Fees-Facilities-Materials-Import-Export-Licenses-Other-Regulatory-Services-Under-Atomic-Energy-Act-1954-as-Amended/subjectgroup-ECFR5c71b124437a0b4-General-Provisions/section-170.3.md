@@ -1,7 +1,5 @@
 ##### § 170.3 Definitions. #####
 
-Link to an amendment published at 88 FR 39140, June 15, 2023.
-
 As used in this part:
 
 *Act* means the Atomic Energy Act of 1954 (68 Stat. 919) including any amendments thereto;
@@ -92,7 +90,7 @@ As used in this part:
 
 *Sealed source* means any byproduct material that is encased in a capsule designed to prevent leakage or escape of the byproduct material.
 
-*Small modular reactor (SMR)* for the purposes of calculating fees, means the class of light-water power reactors having a licensed thermal power rating less than or equal to 1,000 MWt per module. This rating is based on the thermal power equivalent of a light-water SMR with an electrical power generating capacity of 300 MWe or less per module.
+*Small modular reactor (SMR)* for the purposes of calculating fees, means the class of power reactors having a licensed thermal power rating less than or equal to 1,000 MWt per module. This rating is based on the thermal power equivalent of an SMR with an electrical power generating capacity of 300 MWe or less per module.
 
 *Small modular reactor site (SMR site)* is the geographically bounded location of one or more SMRs and a basis on which SMR fees are calculated.
 

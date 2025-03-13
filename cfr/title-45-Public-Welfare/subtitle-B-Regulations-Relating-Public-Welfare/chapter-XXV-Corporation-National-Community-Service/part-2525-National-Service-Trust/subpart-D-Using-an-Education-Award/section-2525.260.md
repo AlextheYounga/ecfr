@@ -1,0 +1,3 @@
+##### § 2525.260 Who may use the education award to pay expenses incurred in enrolling in a G.I. Bill-approved program? #####
+
+To use the education award to pay expenses incurred in enrolling in a G.I. Bill-approved program, an Eligible Individual must have received an education award for successfully completing a term in an approved national service position, in which they enrolled on or after October 1, 2009.

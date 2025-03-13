@@ -1,6 +1,6 @@
 ##### § 285.114 Paperwork Reduction Act statements—information collection. #####
 
-(a) The Office of Management and Budget (OMB) has approved the information collection requirements in this part under 44 U.S.C. 3501, *et seq.,* and assigned OMB Control Number xxxx-xxxx (expiration MONTH xx, xxxx). The table in paragraph (e) of this section lists the subparts in the rule requiring the information and its title, summarizes the reasons for collecting the information, and summarizes how BSEE uses the information.
+(a) The Office of Management and Budget (OMB) has approved the information collection requirements in 30 CFR part 285 under 43 U.S.C. 1331 *et seq.* and assigned OMB Control Number 1014-0034. The table in paragraph (e) of this section lists the subparts in the rule requiring the information and its title, summarizes the reasons for collecting the information, and summarizes how BSEE uses the information.
 
 (b) Respondents are primarily renewable energy applicants, lessees, ROW grant holders, RUE grant holders, Alternate Use RUE grant holders, and operators. The requirement to respond to the information collection in this part is mandated under subsection 8(p) of the OCS Lands Act. Some responses are also required to obtain or retain a benefit, or may be voluntary.
 
@@ -19,3 +19,5 @@
 |(5) Subpart H—Environmental and Safety Management, Inspections, and Facility Assessments for Activities Conducted Under SAPs, COPs, and GAPs|                                                     To ensure that lease and grant operations are conducted in a manner that is safe and protects the environment. To ensure compliance with other Federal laws, these regulations, the lease or grant, and approved plans.                                                      |
 |                                                       (6) Subpart I—Decommissioning                                                        |                        To determine that decommissioning activities comply with regulatory requirements and approvals. To ensure that site clearance and platform or pipeline removal are properly performed to protect marine life and the environment and do not conflict with other users of the OCS.                         |
 |             (7) Subpart J—Rights of Use and Easement for Energy- and Marine- Related Activities Using Existing OCS Facilities              |To enable BSEE to review information regarding the design, installation, and operation of RUEs on the OCS, to ensure that RUE operations are safe and protect the human, marine, and coastal environment. To ensure compliance with other Federal laws, these regulations, the RUE grant, and where applicable, the approved plan.|
+
+[88 FR 6413, Jan. 31, 2023; 88 FR 54880, Aug. 14, 2023]

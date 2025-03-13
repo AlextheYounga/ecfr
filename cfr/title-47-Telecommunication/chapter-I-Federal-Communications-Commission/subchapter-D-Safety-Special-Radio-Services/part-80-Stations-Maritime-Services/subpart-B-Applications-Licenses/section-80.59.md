@@ -1,7 +1,5 @@
 ##### § 80.59 Compulsory ship inspections. #####
 
-Link to an amendment published at 88 FR 44736, July 13, 2023.
-
 (a) Inspection of ships subject to the Communications Act or the Safety Convention.
 
 (1) The FCC will not normally conduct the required inspections of ships subject to the inspection requirements of the Communications Act or the Safety Convention.
@@ -88,7 +86,7 @@ Nothing in this section prohibits Commission inspectors from inspecting ships. T
 
 (J) Any other equipment.
 
-(2) Feeable applications for exemption must be filed with U.S. Bank, P.O. Box 979097, St. Louis, MO 63197-9000 at the address set forth in § 1.1102 of this chapter. Emergency requests must be filed with the Federal Communications Commission, Office of the Secretary, located at the address of the FCC's main office indicated in 47 CFR 0.401(a).
+(2) Feeable applications for exemption must be filed electronically using the Commission's Universal Licensing System. Emergency requests must be filed with the Federal Communications Commission, Office of the Secretary, located at the address of the FCC's main office indicated in 47 CFR 0.401(a).
 
 Note:
 

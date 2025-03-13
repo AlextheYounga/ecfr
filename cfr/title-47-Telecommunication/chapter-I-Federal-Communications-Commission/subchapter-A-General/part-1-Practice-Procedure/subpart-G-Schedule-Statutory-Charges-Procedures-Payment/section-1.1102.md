@@ -1,14 +1,10 @@
 ##### § 1.1102 Schedule of charges for applications and other filings in the wireless telecommunications services. #####
 
-Link to an amendment published at 88 FR 44736, July 13, 2023.
-
 Some of the wireless application fees below have a regulatory fee component that must be paid at the time of a new or a renewal of a wireless application. Please refer to the Wireless Filing Guide for payment type codes at *https://www.fcc.gov/licensing-databases/fees/application-processing-fees.*
 
-(a) In tables to this section, the amounts appearing in the column labeled “Fee Amount” are for application fees only. Certain services, as indicated in the table below, also have associated regulatory fees that must be paid at the same time the application fee is paid. For more information on the associated regulatory fees, please refer to the most recent Wireless Telecommunications Bureau Fee Filing Guide for the corresponding regulatory fee amount located at *https://www.fcc.gov/licensing-databases/fees/application-processing-fees*. For additional guidance, please refer to § 1.1152 of this chapter. Application fee payments can be made electronically using the Commission's Universal Licensing System (ULS). Remit manual filings and/or payments for these services to: Federal Communications Commission, Wireless Bureau Applications, P.O. Box 979097, St. Louis, MO 63197-9000.
+(a) In tables to this section, the amounts appearing in the column labeled “Fee Amount” are for application fees only. Certain services, as indicated in the table below, also have associated regulatory fees that must be paid at the same time the application fee is paid. For more information on the associated regulatory fees, please refer to the most recent Wireless Telecommunications Bureau Fee Filing Guide for the corresponding regulatory fee amount located at *https://www.fcc.gov/licensing-databases/fees/application-processing-fees*. For additional guidance, please refer to § 1.1152 of this chapter. Application fee payments can be made electronically using the Commission's Universal Licensing System (ULS). Manual filings and/or payments for these services are no longer accepted.
 
 (b) Site-based licensed services are services for which an applicant's initial application for authorization generally provides the exact technical parameters of its planned operations (such as transmitter location, area of operation, desired frequency(s)/band(s), power levels). Site-based licensed services include land mobile systems (one or more base stations communicating with mobile devices, or mobile-only systems), point-to-point systems (two stations using a spectrum band to form a data communications path), point-to-multipoint systems (one or more base stations that communicate with fixed remote units), as well as radiolocation and radionavigation systems. Examples of these licenses include, but are not limited to, the Industrial/Business Pool, Trunked licenses and Microwave Industrial/Business Pool licenses.
-
-Table 1 to Paragraph (b)
 
 |                                                                    Site-based license applications                                                                    |                                                                New fee                                                                |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
@@ -26,8 +22,6 @@ Table 1 to Paragraph (b)
 
 (c) Personal licenses authorize shared use of certain spectrum bands or provide a required permit for operation of certain radio equipment. In either case, personal licenses focus only on eligibility and do not require technical review. Examples of these licenses include, but are not limited to, Amateur Radio Service licenses (used for recreational, noncommercial radio services), Ship licenses (used to operate all manner of ships), Aircraft licenses (used to operate all manner of aircraft), Commercial Radio Operator licenses (permits for ship and aircraft station operators, where required), General Mobile Radio Service (GMRS) licenses (used for short-distance, two-way voice communications using hand-held radios, as well as for short data messaging applications), Vanity, and Restricted Operator licenses.
 
-Table 2 to Paragraph (c)
-
 |        Personal license application        |                                                                New fee                                                                |
 |--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 |         New license, modification          |                                                                 $35.                                                                  |
@@ -38,8 +32,6 @@ Table 2 to Paragraph (c)
 |Marine (Ship), Aviation (Aircraft), and GMRS|Please refer to the Wireless Telecommunications Bureau Fee Filing Guide for Information on the payment of an associated regulatory fee.|
 
 (d) Geographic-based licenses authorize an applicant to construct anywhere within a particular geographic area's boundary (subject to certain technical requirements, including interference protection) and generally do not require applicants to submit additional applications for prior Commission approval of specific transmitter locations. Examples of these licenses include, but are not limited to, the 220-222 MHz Service licenses, Upper Microwave Flexible Use Service licenses, 600 MHz Band Service licenses, and 700 MHz Lower Band Service licenses.
-
-Table 3 to Paragraph (d)
 
 |                                             Geographic-based license applications                                             |                                                                New fee                                                                |
 |-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
@@ -57,4 +49,4 @@ Table 3 to Paragraph (d)
 |                                    Designated Entity Licensee Reportable Eligibility Event                                    |                                                                 $50.                                                                  |
 |                                         Maritime, Microwave, Land Mobile, 218-219 MHz                                         |Please refer to the Wireless Telecommunications Bureau Fee Filing Guide for information on the payment of an associated regulatory fee.|
 
-[86 FR 15062, Mar. 19, 2021, as amended at 88 FR 6170, Jan. 31, 2023]
+[86 FR 15062, Mar. 19, 2021, as amended at 88 FR 6170, Jan. 31, 2023; 88 FR 44736, July 13, 2023]

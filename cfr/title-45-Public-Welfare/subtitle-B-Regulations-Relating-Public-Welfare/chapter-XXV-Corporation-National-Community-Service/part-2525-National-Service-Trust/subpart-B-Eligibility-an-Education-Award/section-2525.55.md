@@ -1,0 +1,3 @@
+##### § 2525.55 What is the impact of the aggregate value of education awards received on an individual's ability to serve in additional terms of service? #####
+
+The aggregate value of education awards received does not limit an individual's ability to serve in additional terms of service, but does impact the amount of the education award the individual may receive pursuant to § 2525.100(d) upon successful completion of any additional term of service.

@@ -1,7 +1,5 @@
 ##### § 11.22 Disciplinary investigations. #####
 
-Link to an amendment published at 88 FR 45087, July 14, 2023.
-
 (a) The OED Director is authorized to investigate possible grounds for discipline. An investigation may be initiated when the OED Director receives a grievance, information or evidence from any source suggesting possible grounds for discipline. Neither unwillingness nor neglect by a grievant to prosecute a charge, nor settlement, compromise, or restitution with the grievant, shall in itself justify abatement of an investigation.
 
 (b) Any person possessing information or evidence concerning possible grounds for discipline of a practitioner may report the information or evidence to the OED Director. The OED Director may request that the report be presented in the form of an affidavit or declaration.
@@ -32,9 +30,11 @@ Link to an amendment published at 88 FR 45087, July 14, 2023.
 
 (2) Issuing a warning to the practitioner;
 
-(3) Instituting formal charges upon the approval of the Committee on Discipline; or
+(3) Instituting formal charges upon the approval of the Committee on Discipline;
 
-(4) Entering into a settlement agreement with the practitioner and submitting the same for approval of the USPTO Director.
+(4) Entering into a settlement agreement with the practitioner and submitting the same for the approval of the USPTO Director; or
+
+(5) Entering into a diversion agreement with the practitioner.
 
 (i) *Closing investigation.* The OED Director shall terminate an investigation and decline to refer a matter to the Committee on Discipline if the OED Director determines that:
 
@@ -46,4 +46,4 @@ Link to an amendment published at 88 FR 45087, July 14, 2023.
 
 (4) The available evidence is insufficient to conclude that there is probable cause to believe that grounds exist for discipline.
 
-[73 FR 47689, Aug. 14, 2008, as amended at 77 FR 45251, July 31, 2012; 78 FR 20200, Apr. 3, 2013; 86 FR 28458, May 26, 2021]
+[73 FR 47689, Aug. 14, 2008, as amended at 77 FR 45251, July 31, 2012; 78 FR 20200, Apr. 3, 2013; 86 FR 28458, May 26, 2021; 88 FR 45087, July 14, 2023]

@@ -1,7 +1,5 @@
 ##### § 11.55 Appeal to the USPTO Director. #####
 
-Link to an amendment published at 88 FR 45088, July 14, 2023.
-
 (a) Within 14 days after the date of the initial decision of the hearing officer under §§ 11.25 or 11.54, either party may appeal to the USPTO Director by filing a notice of appeal. The notice shall be filed with the General Counsel for the USPTO Director at the address set forth in § 1.1(a)(3)(iv) of this chapter and served on the opposing party. If both parties file notices of appeal, the first to file is deemed the appellant for purposes of this rule. If both file on the same day, the respondent is deemed the appellant.
 
 (b) Any notice of cross-appeal shall be filed within 14 days after the date of service of the notice of appeal.
@@ -26,10 +24,12 @@ Link to an amendment published at 88 FR 45088, July 14, 2023.
 
 (l) The USPTO Director will decide the appeal on the record made before the hearing officer.
 
-(m) Unless the USPTO Director permits, no further briefs or motions shall be filed. The USPTO Director may extend the time for filing a brief upon the granting of a motion accompanied by a supporting affidavit setting forth good cause warranting the extension.
+(m) Unless the USPTO Director permits, no further briefs or motions shall be filed.
 
 (n) The USPTO Director may order reopening of a disciplinary proceeding in accordance with the principles that govern the granting of new trials. Any request to reopen a disciplinary proceeding on the basis of newly discovered evidence must demonstrate that the newly discovered evidence could not have been discovered any earlier by due diligence.
 
 (o) Motions shall be served on the opposing party and filed with the USPTO Director. Each motion shall be accompanied by a written memorandum setting forth a concise statement of the facts and supporting reasons, along with a citation of the authorities upon which the movant relies. Unless extended by the USPTO Director for good cause, within 21 days of the date of service of the motion, an opposing party shall serve and file a response to the motion, and the moving party may file a reply within 14 days after service of the opposing party's responsive memorandum. All memoranda shall comply with Rules 32(a)(4)-(6) of the Federal Rules of Appellate Procedure unless otherwise ordered by the USPTO Director. Every motion must include a statement that the moving party or attorney for the moving party has conferred with the opposing party or attorney for the opposing party in a good faith effort to resolve the issues raised by the motion and whether the motion is opposed. If, prior to a decision on the motion, the parties resolve issues raised by a motion presented to the USPTO Director, the parties shall promptly notify the USPTO Director.
 
-[86 FR 28463, May 26, 2021]
+(p) The USPTO Director may extend the time for filing a brief upon the granting of a motion setting forth good cause warranting the extension.
+
+[86 FR 28463, May 26, 2021, as amended at 88 FR 45088, July 14, 2023]

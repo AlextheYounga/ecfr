@@ -1,7 +1,5 @@
 ##### § 11.504 Professional independence of a practitioner. #####
 
-Link to an amendment published at 88 FR 45088, July 14, 2023.
-
 (a) A practitioner or law firm shall not share legal fees with a non-practitioner, except that:
 
 (1) An agreement by a practitioner with the practitioner's firm, partner, or associate may provide for the payment of money, over a reasonable period of time after the practitioner's death, to the practitioner's estate or to one or more specified persons;
@@ -23,3 +21,7 @@ Link to an amendment published at 88 FR 45088, July 14, 2023.
 (2) A non-practitioner is a corporate director or officer thereof or occupies the position of similar responsibility in any form of association other than a corporation; or
 
 (3) A non-practitioner has the right to direct or control the professional judgment of a practitioner.
+
+(e) The prohibitions of paragraph (a), (b), or (d)(1) or (2) of this section shall not apply to an arrangement that fully complies with the laws, rules, and regulations of the attorney licensing authority of the State(s) that affirmatively regulate(s) such arrangement.
+
+[78 FR 20201, Apr. 3, 2013, as amended at 88 FR 45088, July 14, 2023]

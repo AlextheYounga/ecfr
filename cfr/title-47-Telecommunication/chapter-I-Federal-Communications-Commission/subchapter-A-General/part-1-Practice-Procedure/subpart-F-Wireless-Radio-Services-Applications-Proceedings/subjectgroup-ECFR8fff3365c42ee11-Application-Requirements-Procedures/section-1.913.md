@@ -1,6 +1,4 @@
-##### § 1.913 Application and notification forms; electronic and manual filing. #####
-
-Link to an amendment published at 88 FR 44736, July 13, 2023.
+##### § 1.913 Application and notification forms; electronic filing. #####
 
 (a) *Application and notification forms.* Applicants, licensees, and spectrum lessees (see § 1.9003) shall use the following forms and associated schedules for all applications and notifications:
 
@@ -32,6 +30,6 @@ Link to an amendment published at 88 FR 44736, July 13, 2023.
 
 (g) *Section 337 Requests.* Applications to provide public safety services submitted pursuant to 47 U.S.C. 337 must be filed on the same form and in the same manner as other applications for the requested frequency(ies), except that applicants must select the service code reflective of the type of service the applicant intends to provide.
 
-[63 FR 68922, Dec. 14, 1998, as amended at 66 FR 55, Jan. 2, 2001; 67 FR 34851, May 16, 2002; 68 FR 42995, July 21, 2003; 68 FR 66276, Nov. 25, 2003; 69 FR 77549, Dec. 27, 2004; 71 FR 26251, May 4, 2006; 78 FR 23152, Apr. 18, 2013; 78 FR 25160, Apr. 29, 2013; 85 FR 85529, Dec. 29, 2020]Effective Date Notes:1. At 69 FR 77549, Dec. 27, 2004, § 1.913(a)(5) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[63 FR 68922, Dec. 14, 1998, as amended at 66 FR 55, Jan. 2, 2001; 67 FR 34851, May 16, 2002; 68 FR 42995, July 21, 2003; 68 FR 66276, Nov. 25, 2003; 69 FR 77549, Dec. 27, 2004; 71 FR 26251, May 4, 2006; 78 FR 23152, Apr. 18, 2013; 78 FR 25160, Apr. 29, 2013; 85 FR 85529, Dec. 29, 2020; 88 FR 44736, July 13, 2023]Effective Date Notes:1. At 69 FR 77549, Dec. 27, 2004, § 1.913(a)(5) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
 2. At 78 FR 23152, Apr. 18, 2013, § 1.913(d)(1)(vi) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

@@ -4,7 +4,7 @@
 
 (1) If NP Column 1 of the Country Chart (supplement no. 1 to part 738 of the EAR) is indicated in the appropriate ECCN, a license is required to all destinations, except those Nuclear Suppliers Group (NSG) member countries that are listed under Country Group A:4 in supplement no. 1 to part 740 of the EAR.
 
-(2) If NP Column 2 of the Country Chart (supplement no. 1 to part 738 of the EAR) is indicated in the applicable ECCN, a license is required to Country Group D:2 (see supplement no. 1 to part 740 of the EAR).
+(2) If NP Column 2 of the Country Chart (supplement no. 1 to part 738 of the EAR) is indicated in the applicable ECCN, a license is required when the item is destined to a Country Group D:2 (see supplement no. 1 to part 740 of the EAR) country, China (the People's Republic of), or Macau.
 
 (3) Other nuclear-related license requirements are described in §§ 744.2 and 744.5 of the EAR.
 
@@ -54,4 +54,4 @@
 
 (d) *Nuclear Suppliers Group.* Most items on the Nuclear Referral List that require a license under NP Column No. 1 on the Country Chart (see supplement no. 1 to part 738 of the EAR) are contained in the Annex to the “Guidelines for Transfers of Nuclear-Related Dual-Use Equipment, Material, and Related Technology” (the Annex), as published by the International Atomic Energy Agency in INFCIRC/254/Revision 1/Part 2. The adherents to INFCIRC/254/Revision 1/Part 2, which includes the Nuclear Suppliers Guidelines, have agreed to establish export licensing procedures for the transfer of items identified in the Annex. Items that are listed as requiring a license under NP Column No. 2 on the Country Chart (see supplement no. 1 to part 738 of the EAR) are not included in the Annex and are controlled only by the United States.
 
-[61 FR 12786, Mar. 25, 1996, as amended at 70 FR 51252, Aug. 30, 2005; 72 FR 33656, June 19, 2007; 76 FR 4231, Jan. 25, 2011; 79 FR 46324, Aug. 7, 2014; 81 FR 94967, Dec. 27, 2016; 85 FR 10277, Feb. 24, 2020; 87 FR 12238, Mar. 3, 2022; 87 FR 13058, Mar. 8, 2022]
+[61 FR 12786, Mar. 25, 1996, as amended at 70 FR 51252, Aug. 30, 2005; 72 FR 33656, June 19, 2007; 76 FR 4231, Jan. 25, 2011; 79 FR 46324, Aug. 7, 2014; 81 FR 94967, Dec. 27, 2016; 85 FR 10277, Feb. 24, 2020; 87 FR 12238, Mar. 3, 2022; 87 FR 13058, Mar. 8, 2022; 88 FR 54877, Aug. 14, 2023]

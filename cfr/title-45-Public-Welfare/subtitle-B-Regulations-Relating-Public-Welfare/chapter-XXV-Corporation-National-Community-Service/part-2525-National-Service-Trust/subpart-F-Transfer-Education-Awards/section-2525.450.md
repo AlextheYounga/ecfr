@@ -1,0 +1,5 @@
+##### § 2525.450 Is there a limit on the amount of transferred education awards a Designated Recipient may receive? #####
+
+(a) If the sum of the value of the requested transfer plus the aggregate value of education awards a Designated Recipient has previously earned or received, through the Designated Recipient's own service term or having previously been transferred an education award, would exceed the aggregate value of two full-time education awards, as determined pursuant to § 2525.50(b), the Designated Recipient will be deemed to have rejected that portion of the education award that would result in the excess.
+
+(b) If a Designated Recipient has already received the aggregate value of two full-time education awards, they may not receive a transferred education award, and the Designated Recipient will be deemed to have rejected the education award in full.

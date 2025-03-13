@@ -1,12 +1,10 @@
 ##### § 171.5 Definitions. #####
 
-Link to an amendment published at 88 FR 39145, June 15, 2023.
-
 *Budget* means the funds appropriated by Congress for the NRC for each fiscal year, and if that appropriation is not passed on or before September 1 for that fiscal year, the funds most recently appropriated by Congress for the most recent fiscal year.
 
 *Budget authority* means the authority, in the form of an appropriation, provided by law and becoming available during the year, to enter into obligations that will result in immediate or future outlays involving Federal Government funds. The appropriation is an authorization by an Act of Congress that permits the NRC to incur obligations and to make payments out of the Treasury for specified purposes. Fees assessed pursuant to Public Law 115-439 are based on the NRC's budget authority.
 
-*Bundled unit* means the cumulative licensed thermal power rating of a number of SMR reactors on the same site that, for 10 CFR part 171 purposes only, is considered a single fee unit. The maximum capacity of a bundled unit is 4,500 MWt. A single SMR reactor can be part of two bundled units if it completes the capacity of one unit and begins the capacity of an additional unit. For a given site, the use of the bundled unit concept is independent of the number of SMR plants, the number of SMR licenses issued, or the sequencing of the SMR licenses that have been issued. The first bundled unit on a site is assessed a minimum fee for capacity less than or equal to 250 MWt, plus a variable fee for capacity greater than 250 MWt and less than or equal to 2,000 MWt. Bundled units with capacities greater than 2,000 MWt and less than or equal to 4,500 MWt are assessed a maximum fee that is equivalent to the annual fee paid by the current reactor fleet. The maximum fee replaces the minimum and variable fee for the first bundled unit. Each additional increment of 4,500 MWt of SMR capacity on the same site constitutes an additional bundled unit. No minimum fee is assessed to additional bundled units. For any additional bundled unit, a variable fee applies to capacities less than or equal to 2,000 MWt and the maximum fee applies to capacities greater than 2,000 MWt and less than or equal to 4,500 MWT. For additional bundled units, the maximum fee replaces the variable fee.
+*Bundled unit* means multiple SMRs on a single site that are considered a single unit for the purpose of assessing an annual fee. A bundled unit is assessed an annual fee based on the cumulative licensed thermal power rating of all licensed SMRs on the same site. The maximum capacity of a bundled unit is a cumulative licensed thermal power rating of 4,500 MWt. A single SMR can be part of two bundled units if it completes the capacity of one unit and begins the capacity of an additional unit. For a given site, the use of the bundled unit concept is independent of the number of SMR plants, the number of SMR licenses issued, or the sequencing of the SMR licenses that have been issued. Bundled units with capacities greater than 2,000 MWt and less than or equal to 4,500 MWt are assessed a maximum fee that is equivalent to the annual fee paid by the current reactor fleet. Above 4,500 MWt establishes an additional bundled unit.
 
 *Byproduct material* means—
 
@@ -44,7 +42,7 @@ Link to an amendment published at 88 FR 39145, June 15, 2023.
 
 *Maximum fee* is the highest fee paid by a single bundled unit. It is applied to all bundled units on an SMR site with a licensed thermal power rating greater than 2,000 MWt and less than or equal to 4,500 MWt and is equal to the flat annual fee paid by existing fleet power reactors.
 
-*Minimum fee* means one annual fee component paid by the first bundled unit on a site with a cumulative licensed thermal power rating of 2,000 MWt or less. For the first bundled unit on a site with a licensed thermal power rating of 250 MWt or less, it is the only annual fee that a licensee pays.
+*Minimum fee* means the lowest annual fee assessed for an SMR or a bundled unit in a thermal power rating fee assessment tier.
 
 *Non-power production or utilization facility* means a production or utilization facility licensed under 10 CFR 50.21(a) or (c), or 10 CFR 50.22, as applicable, that is not a nuclear power reactor or production facility as defined under paragraphs (1) and (2) of the definition of “production facility” in 10 CFR 50.2.
 
@@ -68,7 +66,7 @@ Link to an amendment published at 88 FR 39145, June 15, 2023.
 
 *Research reactor* means a nuclear reactor licensed by the Commission under the authority of subsection 104c of the Act and pursuant to the provisions of § 50.21(c) of this chapter for operation at a thermal power level of 10 megawatts or less, and which is not a testing facility as defined in this section.
 
-*Small modular reactor (SMR)* for the purposes of calculating fees, means the class of light-water power reactors having a licensed thermal power rating less than or equal to 1,000 MWt per module. This rating is based on the thermal power equivalent of a light-water SMR with an electrical power generating capacity of 300 MWe or less per module.
+*Small modular reactor (SMR)* for the purposes of calculating fees means the class of power reactors having a licensed thermal power rating less than or equal to 1,000 MWt per module. This rating is based on the thermal power equivalent of an SMR with an electrical power generating capacity of 300 MWe or less per module.
 
 *Small modular reactor site (SMR site)* is the geographically bounded location of one or more SMRs and a basis on which SMR fees are calculated.
 
@@ -104,8 +102,8 @@ Source material does not include special nuclear material.
 
 (iii) An experimental facility in the core in excess of 16 square inches in cross-section.
 
-*Variable fee* means the annual fee component paid by the first bundled unit on a site with a licensed thermal power rating greater than 250 MWt and less than or equal to 2,000 MWt; or the annual fee component paid by additional bundled units on a site that have a licensed thermal power rating of less than or equal to 2,000 MWt. The variable fee is the product of the bundled unit thermal power capacity (in the applicable range) and the variable rate.
+*Variable fee* means an annual fee component that is added to the minimum fee. The variable fee is designed to gradually increase as licensed thermal power capacity is added within the bundled unit fee assessment tier. The variable fee is calculated as the product of the incremental increase in the thermal power rating multiplied by the variable rate.
 
-*Variable rate* means a per-MWt fee factor applied to all bundled units on site with a licensed thermal power rating less than or equal to 2,000 MWt. For the first bundled unit on a site with a licensed thermal power rating greater than 250 MWt and less than or equal to 2,000 MWt, the variable rate is based on the difference between the maximum fee and the minimum fee, divided by 1,750 MWt (the variable fee licensed thermal rating range). For additional bundled units with a licensed thermal power rating less than or equal to 2,000 MWt, the variable rate is based on the maximum fee divided by 2,000 MWt.
+*Variable rate* means the factor used to calculate the variable fee component of the annual fee. To determine the total annual fee, the incremental increase in the licensed thermal power rating within the fee assessment tier is multiplied by the variable rate resulting in a variable fee that is added to the minimum fee. There is a different factor for each SMR or bundled unit fee assessment tier. Each factor represents the difference between the lower licensed thermal power rating within each tier and the actual thermal power rating for the unit or site.
 
-[51 FR 33230, Sept. 18, 1986, as amended at 53 FR 52652, Dec. 29, 1988; 56 FR 31505, July 10, 1991; 57 FR 32714, July 23, 1992; 58 FR 38695, July 20, 1993; 65 FR 36964, June 12, 2000; 66 FR 32474, June 14, 2001; 67 FR 42634, June 24, 2002; 71 FR 30752, May 30, 2006; 72 FR 35936, Oct. 1, 2007; 81 FR 32627, May 24, 2016; 81 FR 45964, July 15, 2016; 83 FR 29652, June 25, 2018; 86 FR 32177, June 16, 2021]
+[51 FR 33230, Sept. 18, 1986, as amended at 53 FR 52652, Dec. 29, 1988; 56 FR 31505, July 10, 1991; 57 FR 32714, July 23, 1992; 58 FR 38695, July 20, 1993; 65 FR 36964, June 12, 2000; 66 FR 32474, June 14, 2001; 67 FR 42634, June 24, 2002; 71 FR 30752, May 30, 2006; 72 FR 35936, Oct. 1, 2007; 81 FR 32627, May 24, 2016; 81 FR 45964, July 15, 2016; 83 FR 29652, June 25, 2018; 86 FR 32177, June 16, 2021; 88 FR 39145, June 15, 2023]
