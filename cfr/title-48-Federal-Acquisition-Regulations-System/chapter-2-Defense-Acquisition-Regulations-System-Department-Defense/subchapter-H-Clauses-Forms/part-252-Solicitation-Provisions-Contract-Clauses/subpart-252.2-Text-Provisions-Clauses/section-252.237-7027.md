@@ -2,7 +2,7 @@
 
 As prescribed in 237.7804, use the following clause:
 
-Transfer and Adoption of Military Animals (Feb 2024)
+Transfer and Adoption of Military Animals (FEB 2024)
 
 (a) *Definition.* As used in this clause—
 

@@ -2,7 +2,7 @@
 
 *Basic.* As prescribed in 225.1101(10)(i) and (10)(i)(A), use the following clause:
 
-Buy American—Free Trade Agreements—Balance of Payments Program—Basic (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program—Basic (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -116,7 +116,7 @@ AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkEgyptEstoniaFinlandFranceGerma
 
 *Alternate I.* As prescribed in 225.1101(10)(i) and (10)(i)(B), use the following clause, which uses a different paragraph (c) than the basic clause:
 
-Buy American—Free Trade Agreements—Balance of Payments Program—Alternate I (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program—Alternate I (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -230,7 +230,7 @@ AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkEgyptEstoniaFinlandFranceGerma
 
 *Alternate II.* As prescribed in 225.1101(10)(i) and (10)(i)(C), use the following clause, which adds South Caucasus/Central and South Asian (SC/CASA) state and South Caucasus/Central and South Asian (SC/CASA) state end product to paragraph (a), and uses a different paragraph (c) than the basic clause:
 
-Buy American—Free Trade Agreements—Balance of Payments Program—Alternate II (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program—Alternate II (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -352,7 +352,7 @@ AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkEgyptEstoniaFinlandFranceGerma
 
 *Alternate III.* As prescribed in 225.1101(10)(i) and (10)(i)(D), use the following clause, which adds *South Caucasus/Central and South Asian (SC/CASA) state* and *South Caucasus/Central and South Asian (SC/CASA) state end product* to paragraph (a) and uses a different paragraph (c) than the basic clause:
 
-Buy American—Free Trade Agreements—Balance Of Payments Program—Alternate III (Feb 2024)
+Buy American—Free Trade Agreements—Balance Of Payments Program—Alternate III (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -474,7 +474,7 @@ AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkEgyptEstoniaFinlandFranceGerma
 
 *Alternate IV.* As prescribed in 225.1101(10)(i) and (10)(i)(E), use the following clause, which adds *Korean end product* to paragraph (a), and uses a different paragraph (c) than the basic clause:
 
-Buy American—Free Trade Agreements—Balance of Payments Program—Alternate IV (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program—Alternate IV (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -594,7 +594,7 @@ AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkEgyptEstoniaFinlandFranceGerma
 
 *Alternate V.* As prescribed in 225.1101(10)(i) and (10)(i)(F), use the following clause, which adds *Korean end product, South Caucasus/Central and South Asian (SC/CASA) state,* and *South Caucasus/Central and South Asian (SC/CASA) state end product* to paragraph (a), and uses a different paragraph (c) than the basic clause:
 
-Buy American—Free Trade Agreements—Balance of Payments Program—Alternate V (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program—Alternate V (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -722,7 +722,7 @@ AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkEgyptEstoniaFinlandFranceGerma
 
 *Alternate VI.* As prescribed in 225.1101(10)(i) and (10)(i)(G), use the following clause, which includes, in the definitions of “domestic end product” at paragraph (1)(ii)(A) and “qualifying country end product” at paragraph (2)(i), the domestic content threshold that will apply to the entire contract period of performance:
 
-Buy American—Free Trade Agreements—Balance of Payments Program—Alternate VI (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program—Alternate VI (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -836,7 +836,7 @@ AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkEgyptEstoniaFinlandFranceGerma
 
 *Alternate VII.* As prescribed in 225.1101(10)(i) and (10)(i)(H), use the following clause, which includes, in the definitions of “domestic end product” at paragraph (1)(ii)(A) and “qualifying country end product” at paragraph (2)(i), the domestic content threshold that will apply to the entire contract period of performance and uses a different paragraph (c) than the basic clause:
 
-Buy American—Free Trade Agreements—Balance of Payments Program—Alternate VII (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program—Alternate VII (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -950,7 +950,7 @@ AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkEgyptEstoniaFinlandFranceGerma
 
 *Alternate VIII.* As prescribed in 225.1101(10)(i) and (10)(i)(I), use the following clause, which includes, in the definitions of “domestic end product” at paragraph (1)(ii)(A) and “qualifying country end product” at paragraph (2)(i), the domestic content threshold that will apply to the entire contract period of performance; adds “South Caucasus/Central and South Asian (SC/CASA) state” and “South Caucasus/Central and South Asian (SC/CASA) state end product” to paragraph (a); and uses a different paragraph (c) than the basic clause:
 
-Buy American—Free Trade Agreements—Balance of Payments Program—Alternate VIII (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program—Alternate VIII (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -1072,7 +1072,7 @@ AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkEgyptEstoniaFinlandFranceGerma
 
 *Alternate IX.* As prescribed in 225.1101(10)(i) and (10)(i)(J), use the following clause, which includes in the definitions of “domestic end product” at paragraph (1)(ii)(A) and “qualifying country end product” at paragraph (2)(i) the domestic content threshold that will apply to the entire contract period of performance; adds “South Caucasus/Central and South Asian (SC/CASA) state” and “South Caucasus/Central and South Asian (SC/CASA) state end product” to paragraph (a); and uses a different paragraph (c) than the basic clause:
 
-Buy American—Free Trade Agreements—Balance of Payments Program—Alternate IX (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program—Alternate IX (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -1194,7 +1194,7 @@ AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkEgyptEstoniaFinlandFranceGerma
 
 *Alternate X.* As prescribed in 225.1101(10)(i) and (10)(i)(K), use the following clause, which includes, in the definitions of “domestic end product” at paragraph (1)(ii)(A) and “qualifying country end product” at paragraph (2)(i), the domestic content threshold that will apply to the entire contract period of performance; adds “Korean end product” to paragraph (a); and uses a different paragraph (c) than the basic clause:
 
-Buy American—Free Trade Agreements—Balance of Payments Program—Alternate X (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program—Alternate X (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -1314,7 +1314,7 @@ AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkEgyptEstoniaFinlandFranceGerma
 
 *Alternate XI.* As prescribed in 225.1101(10)(i) and (10)(i)(L), use the following clause, which includes, in the definitions of “domestic end product” at paragraph (1)(ii)(A) and “qualifying country end product” at paragraph (2)(i), the domestic content threshold that will apply to the entire contract period of performance; adds “Korean end product,” “South Caucasus/Central and South Asian (SC/CASA) state,” and “South Caucasus/Central and South Asian (SC/CASA) state end product” to paragraph (a); and uses a different paragraph (c) than the basic clause:
 
-Buy American—Free Trade Agreements—Balance of Payments Program—Alternate XI (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program—Alternate XI (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 

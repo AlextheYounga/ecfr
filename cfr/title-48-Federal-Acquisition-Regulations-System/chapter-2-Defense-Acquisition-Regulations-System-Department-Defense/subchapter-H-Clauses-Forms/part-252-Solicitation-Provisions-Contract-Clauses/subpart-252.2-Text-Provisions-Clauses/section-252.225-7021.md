@@ -2,7 +2,7 @@
 
                                                                                                                                                                                                                                 *Basic.* As prescribed in 225.1101(6) and (6)(i), use the following clause:
 
-                                                                                                                                                                                                                                Trade Agreements—Basic (Feb 2024)
+                                                                                                                                                                                                                                Trade Agreements—Basic (FEB 2024)
 
                                                                                                                                                                                                                                 (a) *Definitions.* As used in this clause—
 
@@ -124,7 +124,7 @@
 
                                                                                                                 *Alternate II.* As prescribed in 225.1101(6) and (6)(ii), use the following clause, which (i) adds *South Caucasus/Central and South Asian (SC/CASA) state* and *South Caucasus/Central and South Asian (SC/CASA) state end product* to paragraph (a); (ii) uses a different paragraph (c) than the basic clause; (iii) adds a new paragraph (d); and (iv) includes paragraphs (e) and (f) which are the same paragraphs (d) and (e) of the basic clause:
 
-                                                                                                                Trade Agreements—Alternate II (Feb 2024)
+                                                                                                                Trade Agreements—Alternate II (FEB 2024)
 
                                                                                                                 (a) *Definitions. As used in this clause—Caribbean Basin country end product*—
 
@@ -252,7 +252,7 @@
 
 *Alternate III.* As prescribed in 225.1101(6) and (6)(iii), use the following clause, which includes, in the definition of “qualifying country end product” at paragraph (2)(i), the domestic content threshold that will apply to the entire contract period of performance.
 
-Trade Agreements—Alternate III (Feb 2024)
+Trade Agreements—Alternate III (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -374,7 +374,7 @@ AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkEgyptEstoniaFinlandFranceGerma
 
 *Alternate IV.* As prescribed in 225.1101(6) and (6)(iv), use the following clause, which (i) includes, in the definition of “qualifying country end product” at paragraph (2)(i), the domestic content threshold that will apply to the entire contract period of performance; (ii) adds “South Caucasus/Central and South Asian (SC/CASA) state” and “South Caucasus/Central and South Asian (SC/CASA) state end product” to paragraph (a); (iii) uses a different paragraph (c) than the basic clause; (iv) adds a new paragraph (d); and (v) includes paragraphs (e) and (f) which are the same paragraphs (d) and (e) of the basic clause:
 
-Trade Agreements—Alternate IV (Feb 2024)
+Trade Agreements—Alternate IV (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 

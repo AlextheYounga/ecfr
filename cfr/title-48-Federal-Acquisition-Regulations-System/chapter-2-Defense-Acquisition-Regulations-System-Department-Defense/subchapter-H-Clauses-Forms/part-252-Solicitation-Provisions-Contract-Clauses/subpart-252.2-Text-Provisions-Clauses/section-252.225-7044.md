@@ -2,7 +2,7 @@
 
 *Basic.* As prescribed in 225.7503(a) and (a)(1), use the following clause:
 
-Balance of Payments Program—Construction Material—Alternate I (Feb 2024)
+Balance of Payments Program—Construction Material—Basic (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -10,7 +10,7 @@ Balance of Payments Program—Construction Material—Alternate I (Feb 2024)
 
 (1) Means any item of supply (including construction material) that is—
 
-(i) A commercial product (as defined in paragraph (1) of the definition of “commercial product” in section 2.101 of the Federal Acquisition Regulation (FAR));
+(i) A commercial product (as defined in paragraph (1) of the definition of “commercial product” in section 2.101 of the Federal Acquisition Regulation (FAR);
 
 (ii) Sold in substantial quantities in the commercial marketplace; and
 
@@ -64,7 +64,7 @@ Balance of Payments Program—Construction Material—Alternate I (Feb 2024)
 
 *Alternate I.* As prescribed in 225.7503(a) and (a)(2), use the following clause, which adds definitions for *South Caucasus/Central and South Asian (SC/CASA) state* and *SC/CASA state construction material* to paragraph (a), and uses “domestic construction material or SC/CASA state construction material” instead of “domestic construction material” in the second sentence of paragraph (b):
 
-Balance of Payments Program—Construction Material—Basic (Feb 2024)
+Balance of Payments Program—Construction Material—Alternate I (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -72,7 +72,7 @@ Balance of Payments Program—Construction Material—Basic (Feb 2024)
 
 (1) Means any item of supply (including construction material) that is—
 
-(i) A commercial product (as defined in paragraph (1) of the definition of *commercial product* in section 2.101 of the Federal Acquisition Regulation (FAR));
+(i) A commercial product (as defined in paragraph (1) of the definition of *commercial product* in section 2.101 of the Federal Acquisition Regulation (FAR);
 
 (ii) Sold in substantial quantities in the commercial marketplace; and
 
@@ -130,11 +130,11 @@ Balance of Payments Program—Construction Material—Basic (Feb 2024)
 
 (3) The construction material or components listed by the Government as follows:
 
-[*Contracting Officer to list applicable excepted materials or indicate “none”*].
+[*Contracting Officer to list applicable excepted materials or indicate “none”*]..(End of clause)
 
 *Alternate II.* As prescribed in 225.7503(a) and (a)(3), use the following clause, which includes, in the definition of “domestic construction material” at paragraph (1)(ii)(A), the domestic content threshold that will apply to the entire contract period of performance:
 
-Balance of Payments Program—Construction Material—Alternate II (Feb 2024)
+Balance of Payments Program—Construction Material—Alternate II (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -198,7 +198,7 @@ Commercially available off-the-shelf (COTS) item—
 
 *Alternate III.* As prescribed in 225.7503(a) and (a)(4), use the following clause, which includes, in the definition of “domestic construction material” at paragraph (1)(ii)(A), the domestic content threshold that will apply to the entire period of performance; adds definitions for “South Caucasus/Central and South Asian (SC/CASA) state” and “SC/CASA state construction material” to paragraph (a); and uses “domestic construction material or SC/CASA state construction material” instead of “domestic construction material” in the second sentence of paragraph (b):
 
-Balance of Payments Program—Construction Material—Alternate III (Feb 2024)
+Balance of Payments Program—Construction Material—Alternate III (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 

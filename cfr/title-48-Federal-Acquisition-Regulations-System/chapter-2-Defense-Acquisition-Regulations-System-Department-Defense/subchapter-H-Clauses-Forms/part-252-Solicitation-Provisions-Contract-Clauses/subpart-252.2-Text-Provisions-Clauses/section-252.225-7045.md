@@ -4,7 +4,7 @@ Link to an amendment published at 88 FR 73242, Oct. 25, 2023.
 
 *Basic.* As prescribed in 225.7503(b) and (b)(1), use the following clause:
 
-Balance of Payments Program—Construction Material Under Trade Agreements—Basic (Feb 2024)
+Balance of Payments Program—Construction Material Under Trade Agreements—Basic (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -106,7 +106,7 @@ Balance of Payments Program—Construction Material Under Trade Agreements—Bas
 
 *Alternate I.* As prescribed in 225.7503(b) and (b)(2), use the following clause, which adds *Bahraini or Mexican construction material* to paragraph (a), and uses a different paragraph (b) and (c) than the basic clause:
 
-Balance of Payments Program—Construction Material Under Trade Agreements—Alternate I (Feb 2024)
+Balance of Payments Program—Construction Material Under Trade Agreements—Alternate I (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -212,7 +212,7 @@ Balance of Payments Program—Construction Material Under Trade Agreements—Alt
 
 *Alternate II.* As prescribed in 225.7503(b) and (b)(3), use the following clause, which adds *South Caucasus/Central and South Asian (SC/CASA) state* and *SC/CASA state construction material* to paragraph (a), uses a different paragraph (b) and introductory text for paragraph (c) than the basic clause, and adds paragraph (d):
 
-Balance of Payments Program—Construction Material Under Trade Agreements—Alternate II (Feb 2024)
+Balance of Payments Program—Construction Material Under Trade Agreements—Alternate II (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -324,7 +324,7 @@ Balance of Payments Program—Construction Material Under Trade Agreements—Alt
 
 *Alternate III.* As prescribed in 225.7503(b) and (b)(4), use the following clause, which adds *South Caucasus/Central and South Asian (SC/CASA) state* and *SC/CASA state construction material* to paragraph (a), uses a different paragraph (b) and introductory text for paragraph (c) than the basic clause, and adds paragraph (d):
 
-Balance of Payments Program—Construction Material Under Trade Agreements—Alternate III (Feb 2024)
+Balance of Payments Program—Construction Material Under Trade Agreements—Alternate III (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -434,7 +434,7 @@ Balance of Payments Program—Construction Material Under Trade Agreements—Alt
 
 *Alternate IV.* As prescribed in 225.7503(b) and (b)(5), use the following clause, which includes, in the definition of “domestic construction material” at paragraph (1)(ii)(A), the domestic content threshold that will apply to the entire contract period of performance:
 
-Balance of Payments Program—Construction Material Under Trade Agreements—Alternate IV (Feb 2024)
+Balance of Payments Program—Construction Material Under Trade Agreements—Alternate IV (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -536,7 +536,7 @@ Balance of Payments Program—Construction Material Under Trade Agreements—Alt
 
 *Alternate V.* As prescribed in 225.7503(b) and (b)(6), use the following clause, which includes, in the definition of “domestic construction material” at paragraph (1)(ii)(A), the domestic content threshold that will apply to the entire contract period of performance; adds “Bahraini or Mexican construction material” to paragraph (a); and uses different paragraphs (b) and (c) than the basic clause:
 
-Balance of Payments Program—Construction Material Under Trade Agreements—Alternate V (Feb 2024)
+Balance of Payments Program—Construction Material Under Trade Agreements—Alternate V (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -644,7 +644,7 @@ Balance of Payments Program—Construction Material Under Trade Agreements—Alt
 
 *Alternate VI.* As prescribed in 225.7503(b) and (b)(7), use the following clause, which includes, in the definition of “domestic construction material” at paragraph (1)(ii)(A), the domestic content threshold that will apply to the entire contract period of performance; adds “South Caucasus/Central and South Asian (SC/CASA) state” and “SC/CASA state construction material” to paragraph (a); uses a different paragraph (b) and introductory text for paragraph (c) than the basic clause; and adds paragraph (d):
 
-Balance of Payments Program—Construction Material Under Trade Agreements—Alternate VI (Feb 2024)
+Balance of Payments Program—Construction Material Under Trade Agreements—Alternate VI (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -756,7 +756,7 @@ Balance of Payments Program—Construction Material Under Trade Agreements—Alt
 
 *Alternate VII.* As prescribed in 225.7503(b) and (b)(8), use the following clause, which includes, in the definition of “domestic construction material” at paragraph (1)(ii)(A), the domestic content threshold that will apply to the entire contract period of performance; adds “South Caucasus/Central and South Asian (SC/CASA state)” and “SC/CASA state construction material” to paragraph (a); uses a different paragraph (b) and introductory text for paragraph (c) than the basic clause; and adds paragraph (d):
 
-Balance of Payments Program—Construction Material Under Trade Agreements—Alternate VII (Feb 2024)
+Balance of Payments Program—Construction Material Under Trade Agreements—Alternate VII (FEB 2024)
 
 (a) *Definitions.* As used in this clause—
 

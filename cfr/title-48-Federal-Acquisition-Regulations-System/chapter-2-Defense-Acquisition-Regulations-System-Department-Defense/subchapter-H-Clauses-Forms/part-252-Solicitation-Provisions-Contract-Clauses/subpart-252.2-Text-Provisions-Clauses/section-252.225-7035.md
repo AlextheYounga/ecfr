@@ -2,7 +2,7 @@
 
 *Basic.* As prescribed in 225.1101(9) and (9)(i), use the following provision:
 
-Buy American—Free Trade Agreements—Balance of Payments Program Certificate—Basic (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program Certificate—Basic (FEB 2024)
 
 (a) *Definitions.* “Bahraini end product,” “commercially available off-the-shelf (COTS) item,” “component,” “critical component,” “critical item,” “domestic end product,” “Free Trade Agreement country,” “Free Trade Agreement country end product,” “foreign end product,” “Moroccan end product,” “Panamanian end product,” “Peruvian end product,” “qualifying country end product,” and “United States,” as used in this provision, have the meanings given in the “252.225-7036, Buy American”—Free Trade Agreements—Balance of Payments Program—Basic clause of this solicitation.
 
@@ -48,7 +48,7 @@ Line Item Number:*[List as necessary]*(End of provision)
 
 *Alternate I.* As prescribed in 225.1101(9) and (9)(ii), use the following provision, which does not use the phrases “Bahraini end product,” “Free Trade Agreement country,” “Free Trade Agreement country end product,” “Moroccan end product,” “Panamanian end product,” and “Peruvian end products” in paragraph (a); does not use “Free Trade Agreement country end products other than Bahraini end products, Moroccan end products, Panamanian end products, or Peruvian end products” in paragraphs (b)(2) and (c)(2)(ii); does not use “Australian or” in paragraph (c)(2)(i); and includes “that are mined, produced, or manufactured in the United States” in paragraph (c)(2)(ii):
 
-Buy American—Free Trade Agreements—Balance of Payments Program Certificate—Alternate I (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program Certificate—Alternate I (FEB 2024)
 
 (a) *Definitions. Commercially available off-the-shelf (COTS) item,**component, critical component, critical item, domestic end product,**foreign end product, qualifying country end product,* and *United States,* as used in this provision, have the meanings given in the 252.225-7036, Buy American—Free Trade Agreements—Balance of Payments Program—Alternate I clause of this solicitation.
 
@@ -89,7 +89,7 @@ Line Item Number:*[List as necessary]*(End of provision)
 
 *Alternate II.* As prescribed in 225.1101(9) and (9)(iii), use the following provision, which adds *South Caucasus/Central and South Asian (SC/CASA) state* and *South Caucasus/Central and South Asian (SC/CASA) state end product* to paragraph (a), and uses different paragraphs (b)(2) and (c)(2)(i) than the basic provision:
 
-Buy American—Free Trade Agreements—Balance of Payments Program Certificate—Alternate II (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program Certificate—Alternate II (FEB 2024)
 
 (a) *Definitions. Bahraini end product, commercially available off-the-shelf (COTS) item,**component, critical component, critical item, domestic end product,**Free Trade Agreement country, Free Trade Agreement country end product,**foreign end product, Moroccan end product,**Panamanian end product, Peruvian end product,**qualifying country end product, South Caucasus/Central and South Asian (SC/CASA) state,**South Caucasus/Central and South Asian (SC/CASA) state end product,* and *United States,* as used in this provision, have the meanings given in the 252.225-7036, Buy American—Free Trade Agreements—Balance of Payments Program—Alternate II clause of this solicitation.
 
@@ -135,7 +135,7 @@ Line Item Number:*[List as necessary]*(End of provision)
 
 *Alternate III.* As prescribed in 225.1101(9) and (9)(iv), use the following provision, which uses different paragraphs (a), (b)(2), (c)(2)(i), and (c)(2)(ii) than the basic provision:
 
-Buy American—Free Trade Agreements—Balance of Payments Program Certificate—Alternate III (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program Certificate—Alternate III (FEB 2024)
 
 (a) *Definitions. Commercially available off-the-shelf (COTS) item,**domestic end product, foreign end product,**qualifying country end product, South Caucasus/Central and South Asian (SC/CASA) state end product,* and *United States,* as used in this provision have the meanings given in the 252.225-7036, Buy American—Free Trade Agreements—Balance of Payments Program—Alternate III clause of this solicitation.
 
@@ -181,7 +181,7 @@ Line Item Number:*[List as necessary]*(End of provision)
 
 *Alternate IV.* As prescribed in 225.1101(9) and (9)(v), use the following provision, which adds *Korean end product* to paragraph (a); and uses “Free Trade Agreement country end products other than Bahraini end products, Korean end products, Moroccan end products, Panamanian end products, or Peruvian end products” in paragraphs (b)(2) and (c)(2)(ii), rather than “Free Trade Agreement country end products other than Bahraini end products, Moroccan end products, Panamanian end products, or Peruvian end products” in paragraphs (b)(2) and (c)(2)(ii) of the basic provision:
 
-Buy American—Free Trade Agreements—Balance of Payments Program Certificate—Alternate IV (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program Certificate—Alternate IV (FEB 2024)
 
 (a) *Definitions. Bahraini end product, commercially available off-the-shelf (COTS) item,**component, domestic end product,**Free Trade Agreement country, Free Trade Agreement country end product,**foreign end product, Korean end product,**Moroccan end product, Panamanian end product,**Peruvian end product, qualifying country end product,* and *United States,* as used in this provision, have the meanings given in the Buy American—Free Trade Agreements—Balance of Payments Program—Alternate IV clause of this solicitation.
 
@@ -227,7 +227,7 @@ Line Item Number:*[List as necessary]*
 
 *Alternate V.* As prescribed in 225.1101(9) and (9)(vi), use the following provision, which uses different paragraphs (a), (b)(2), (c)(2)(i), and (c)(2)(ii) than the basic provision:
 
-Buy American—Free Trade Agreements—Balance of Payments Program Certificate—Alternate V (Feb 2024)
+Buy American—Free Trade Agreements—Balance of Payments Program Certificate—Alternate V (FEB 2024)
 
 (a) *Definitions. Bahraini end product, commercially available off-the-shelf (COTS) item,**component, critical component, critical item, domestic end product,* “*Free Trade Agreement country, Free Trade Agreement country end product,**foreign end product, Korean end product,**Moroccan end product, Panamanian end product,**Peruvian end product, qualifying country end product,**South Caucasus/Central and South Asian (SC/CASA) state end product,* and *United States,* as used in this provision, have the meanings given in the 252.225-7036, Buy American—Free Trade Agreements—Balance of Payments Program—Alternate V clause of this solicitation.
 

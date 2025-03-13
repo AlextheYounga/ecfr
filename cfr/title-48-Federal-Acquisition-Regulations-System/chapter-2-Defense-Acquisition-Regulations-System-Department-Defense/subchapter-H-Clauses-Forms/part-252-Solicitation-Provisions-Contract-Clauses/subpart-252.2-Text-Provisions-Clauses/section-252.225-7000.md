@@ -44,7 +44,7 @@ Domestic end products containing a critical component or a critical item: Line I
 
 *Alternate I.* As prescribed in 225.1101(1) and (1)(ii), use the following provision, which adds *South Caucasus/Central and South Asian (SC/CASA) state* and *South Caucasus/Central and South Asian (SC/CASA) state end product* in paragraph (a), and replaces “qualifying country end products” in paragraphs (b)(2) and (c)(2) with “qualifying country end products or SC/CASA state end products”:
 
-Buy American—Balance of Payments Program Certificate—Alternate I (Feb 2024)
+Buy American—Balance of Payments Program Certificate—Alternate I (FEB 2024)
 
 (a) *Definitions. Commercially available off-the-shelf (COTS) item, component, critical component, critical item, domestic end product, foreign end product, qualifying country, qualifying country end product, South Caucasus/Central and South Asian (SC/CASA) state, South Caucasus/Central and South Asian (SC/CASA) state end product,* and *United States,* as used in this provision, have the meanings given in the 252.225-7001, Buy American and Balance of Payments Program—Alternate I clause of this solicitation.
 
