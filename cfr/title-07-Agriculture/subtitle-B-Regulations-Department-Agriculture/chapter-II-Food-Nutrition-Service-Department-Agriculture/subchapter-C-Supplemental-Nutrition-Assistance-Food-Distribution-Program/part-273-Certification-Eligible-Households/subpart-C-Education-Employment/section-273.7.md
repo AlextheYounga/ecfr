@@ -1,7 +1,5 @@
 ##### § 273.7 Work provisions. #####
 
-Link to an amendment published at 89 FR 90568, Nov. 18, 2024.Link to a correction published at 89 FR 96517, Dec. 5, 2024.
-
 (a) *Work requirements.* (1) As a condition of eligibility for SNAP benefits, each household member not exempt under paragraph (b)(1) of this section must comply with the following SNAP work requirements:
 
 (i) Register for work or be registered by the State agency at the time of application and every 12 months after initial registration. The member required to register need not complete the registration form.
@@ -112,7 +110,7 @@ Link to an amendment published at 89 FR 90568, Nov. 18, 2024.Link to a correctio
 
 (D) Measures developed to assess the skills acquisition of E&T program participants that reflect the goals of the specific components including the percentage and number of participants who are meeting program requirements or are gaining skills likely to lead to employment; and
 
-(E) Other indicators approved by FNS in the E&T State plan; and
+(E) Other indicators approved by FNS in the E&T State Plan; and
 
 (xix) Any State agency that will be requesting Federal funds that may become available for reallocation in accordance with paragraph (d)(1)(iii)(A), (B), or (D) of this section should include this request in the E&T State plan for the year the State agency would plan to use the reallocated funds. The request must include a separate budget and narrative explaining how the State agency intends to use the reallocated funds. FNS will review all State agency requests for reallocated funds and notify State agencies of the approval of any reallocated funds in accordance with regulations at (d)(1)(iii)(E) of this section. FNS' approval or denial of requests for reallocated funds will occur separately from the approval or denial of the rest of the E&T State plan.
 
@@ -162,37 +160,71 @@ Link to an amendment published at 89 FR 90568, Nov. 18, 2024.Link to a correctio
 
 (15) If a State agency fails to efficiently and effectively administer its E&T program, the provisions of § 276.1(a)(4) of this chapter will apply.
 
-(16) FNS may require a State agency to make modifications to its SNAP E&T plan to improve outcomes if FNS determines that the E&T outcomes are inadequate.
+(16) FNS will assess the effectiveness of E&T programs in preparing E&T participants for employment, including obtaining of necessary skills and increasing the number of E&T participants who obtain and retain employment upon completion of participation in E&T. FNS will also assess that program activities are appropriate to meet the needs of individuals referred by the State agency to an E&T program. FNS may use all available information, including but not limited to, E&T State Plans, E&T Program Activity Reports, Annual Reports, and Management Evaluations. Based on this information, FNS will assess an E&T program's effectiveness across various categories including, but not limited to, intentional program design, integrated eligibility, deliberate program operations and meaningful outcomes.
 
-(17) The State agency shall submit an annual E&T report by January 1 each year that contains the following information for the Federal fiscal year ending the preceding September 30.
+(i) FNS may require a State agency to make modifications to its SNAP E&T plan to improve outcomes if FNS determines that the E&T outcomes are inadequate. FNS will consider these modifications in determining whether to approve a State's E&T plan.
 
-(i) The number and percentage of E&T participants and former participants who are in unsubsidized employment during the second quarter after completion of participation in E&T.
+(ii) [Reserved]
 
-(ii) The number and percentage of E&T participants and former participants who are in unsubsidized employment during the fourth quarter after completion of participation in E&T.
+(17) The State agency shall submit an annual E&T report by April 15 each year that contains the following:
 
-(iii) Median average quarterly earnings of the E&T participants and former participants who are in unsubsidized employment during the second quarter after completion of participation in E&T.
+(i) Employment and Earnings Reporting Measures: State agencies shall report four consecutive quarters of data from the two previous Federal fiscal years ending the preceding September 30 for the following measures:
 
-(iv) The total number and percentage of participants that completed an educational, training work experience or an on-the-job training component.
+(A) The number and percentage of E&T participants and former participants who are in unsubsidized employment during the second quarter after completion of participation in E&T.
 
-(v) The number and percentage of E&T participants who:
+(B) Median quarterly earnings of the E&T participants and former participants who are in unsubsidized employment during the second quarter after completion of participation in E&T.
 
-(A) Are voluntary vs. mandatory participants;
+(C) The number and percentage of E&T participants and former participants who are in unsubsidized employment during the fourth quarter after completion of participation in E&T.
 
-(B) Have received a high school degree (or GED) prior to being provided with E&T services;
+(ii) Educational Reporting Measures: State agencies shall report data for the Federal fiscal year ending the preceding September 30 for the following measures:
 
-(C) Are ABAWDs;
+(A) *Attainment of a credential or certificate.* The number and percentage of E&T participants enrolled in an education or training program, excluding those in on-the-job training, customized training or transitional jobs, who attain a recognized postsecondary credential, certificate or a secondary school diploma, or its recognized equivalent, during participation in or upon completion of participation in E&T.
 
-(D) Speak English as a second language;
+(B) *Measurable skill gains.* The number and percentage of E&T participants who, during the preceding Federal fiscal year, are in an education or training program that leads to a recognized postsecondary credential or employment and who are achieving measurable skill gains, defined as documented academic, technical, occupational, or other forms of progress, towards such a credential or employment.
 
-(E) Are male vs. female; and
+(iii) State agencies shall report the employment and earnings measures specified in paragraphs (c)(17)(i)(A) through (C) and educational measures specified in paragraphs (c)(17)(ii)(A) and (B) for each of following participant characteristics:
 
-(F) Are within each of the following age ranges: 16-17, 18-35, 36-49, 50-59, 60 or older.
+(A) By Race and/or Ethnicity;
 
-(vi) Of the number and percentage of E&T participants reported in paragraphs (c)(17)(i) through (iv) of this section, a disaggregation of the number and percentage of those participants and former participants by the characteristics listed in paragraphs (c)(17)(v)(A), (B), and (C) of this section.
+(B) Voluntary E&T Participants;
 
-(vii) Reports for the measures identified in a State's E&T plan related to components that are designed to serve at least 100 participants a year; and
+(C) Mandatory E&T Participants;
 
-(viii) States that have committed to offering all at-risk ABAWDs participation in a qualifying activity and have received an additional allocation of funds as specified in paragraph (d)(3) of this section shall include:
+(D) Mandatory E&T Participants deemed ineligible due to failure to comply with mandatory E&T;
+
+(E) E&T participants who obtained high school diploma or equivalency prior to referral to E&T services; and
+
+(F) ABAWDs.
+
+(iv) State agencies that serve mandatory E&T participants shall report for the Federal fiscal year ending the preceding September 30 the following:
+
+(A) the unduplicated number of SNAP participants who were required to participate in E&T;
+
+(B) of those required to participate the unduplicated number and percentage referred to E&T; and
+
+(C) the unduplicated number and percentage of SNAP participants that were determined ineligible for failure to comply with E&T requirements.
+
+(v) The number and percentage of E&T participants for the Federal fiscal year ending the preceding September 30 who:
+
+(A) Are voluntary E&T participants;
+
+(B) Are mandatory E&T participants;
+
+(C) E&T participants who obtained high school diploma or equivalency prior to referral to E&T services;
+
+(D) Are ABAWDs;
+
+(E) Are English language learners;
+
+(F) By Gender identity;
+
+(G) Are within each of the following age ranges: 16-17, 18-35, 36-49, 50-59, 60 or older; and
+
+(H) By Race and/or Ethnicity
+
+(vi) Reports for the measures identified in a State's E&T plan related to components that are designed to serve at least 100 participants a year; and
+
+(vii) States that have committed to offering all at-risk ABAWDs participation in a qualifying activity and have received an additional allocation of funds as specified in paragraph (d)(3) of this section shall include:
 
 (A) The monthly average number of individuals in the State who meet the conditions in paragraph (d)(3)(i) of this section;
 
@@ -202,9 +234,7 @@ Link to an amendment published at 89 FR 90568, Nov. 18, 2024.Link to a correctio
 
 (D) A description of the types of employment and training programs the State agency offered to at risk ABAWDs and the availability of those programs throughout the State.
 
-(ix) States may be required to submit the annual report in a standardized format based upon guidance issued by FNS.
-
-(x) State agencies certifying workforce partnerships for operation in their State in accordance with paragraph (n) of this section may report relevant data to demonstrate the number of program participants served by the workforce partnership, and of those how many were mandatory E&T participants.
+(viii) States may be required to submit the annual report in a standardized format based upon guidance issued by FNS.
 
 (18)(i) The State agency must ensure E&T providers are informed of their authority and responsibility to determine if an individual is ill-suited for a particular E&T component. Such determinations shall be referred to as provider determinations. For purposes of this paragraph, an E&T provider is the provider of an E&T component. The E&T provider must notify the State agency of a provider determination within 10 days of the date the determination is made and inform the State agency of the reason for the provider determination. The E&T provider may also provide input on the most appropriate next step, as outlined in paragraph (c)(18)(i)(B) of this section, for the individual with a provider determination. If the State agency is unable to obtain the reason for the provider determination from the E&T provider, the State agency must continue to act on the provider determination in accordance with this section. If an E&T provider finds an individual is ill-suited for one component, but the E&T provider determines the individual may be suitable for another component offered by the E&T provider, at State agency option, the E&T provider may switch the individual to the other component and inform the State agency of the new component without the need for the State agency to act further on the provider determination. The E&T provider has the authority to determine if an individual is ill-suited for the E&T component from the time an individual is referred to an E&T component until completion of the component. When a State agency receives notification that an individual has received a provider determination, and the individual is not exempt from the work requirement as specified in paragraph (b) of this section, the State agency must:
 
@@ -822,4 +852,4 @@ Link to an amendment published at 89 FR 90568, Nov. 18, 2024.Link to a correctio
 
 (iv) Providing sufficient information, on request by the State agency, for the State agency to verify that a participant is fulfilling the applicable work requirements in paragraph (a) of this section or 7 CFR 273.24.
 
-[67 FR 41603, June 19, 2002, as amended at 71 FR 33382, June 9, 2006; 81 FR 15622, Mar. 24, 2016; 81 FR 66497, Sept. 28, 2016; 82 FR 2038, Jan. 6, 2017; 84 FR 15094, Apr. 15, 2019; 86 FR 398, Jan. 5, 2021; 89 FR 102362, Dec. 17, 2024]
+[67 FR 41603, June 19, 2002, as amended at 71 FR 33382, June 9, 2006; 81 FR 15622, Mar. 24, 2016; 81 FR 66497, Sept. 28, 2016; 82 FR 2038, Jan. 6, 2017; 84 FR 15094, Apr. 15, 2019; 86 FR 398, Jan. 5, 2021; 89 FR 102362, Dec. 17, 2024; 89 FR 90568, Nov. 18, 2024; 89 FR 96517, Dec. 5, 2024]

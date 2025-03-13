@@ -1,5 +1,7 @@
 ##### § 2700.56 Discovery; general. #####
 
+Link to an amendment published at 90 FR 5623, Jan. 17, 2025.
+
 (a) *Discovery methods.* Parties may obtain discovery by one or more of the following methods: Depositions upon oral examination or written questions; written interrogatories; or requests for admissions, for production of documents or objects or for permission to enter upon property for inspecting, copying, photographing, and gathering information.
 
 (b) *Scope of discovery.* Parties may obtain discovery of any relevant, non-privileged matter that is admissible evidence or appears likely to lead to the discovery of admissible evidence.

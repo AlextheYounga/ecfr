@@ -12,8 +12,8 @@
 
 (1) Determine the acceptability of the contractor's MMAS and approve or disapprove the system; and
 
-(2) Pursue correction of any deficiencies.
+(2) Pursue correction of any weaknesses or deficiencies.
 
 (c) In evaluating the acceptability of the contractor's MMAS, the contracting officer, in consultation with the auditor and functional specialist, if appropriate, shall determine whether the contractor's MMAS complies with the system criteria for an acceptable MMAS as prescribed in the clause at 252.242-7004, Material Management and Accounting System.
 
-[76 FR 28869, May 18, 2011, as amended at 81 FR 36473, June 7, 2016]
+[76 FR 28869, May 18, 2011, as amended at 81 FR 36473, June 7, 2016; 90 FR 5729, Jan. 17, 2025]

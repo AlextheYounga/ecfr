@@ -1,5 +1,7 @@
 ##### § 182.43 Eligible goods subject to USMCA drawback. #####
 
+Link to an amendment published at 90 FR 6484, Jan. 17, 2025.
+
 Except as otherwise provided in this subpart, drawback is authorized for an imported good that is entered for consumption and is:
 
 (a) Subsequently exported to Canada or Mexico (*see* 19 U.S.C. 1313(j)(1));

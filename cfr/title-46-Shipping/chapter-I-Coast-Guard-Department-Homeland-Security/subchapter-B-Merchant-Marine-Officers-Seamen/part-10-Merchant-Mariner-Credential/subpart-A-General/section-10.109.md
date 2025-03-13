@@ -1,102 +1,100 @@
 ##### § 10.109 Classification of endorsements. #####
 
-Link to an amendment published at 89 FR 93059, Nov. 25, 2024.
-
 (a) *National officer endorsements.* The following national officer endorsements are established in part 11 of this subchapter. The endorsements indicate that an individual holding a valid MMC with this endorsement is qualified to serve in that capacity and the endorsement has been issued under the requirements contained in part 11 of this subchapter:
 
 (1) Master.
 
-(2) Chief mate.
+(2) Chief Mate.
 
-(3) Second mate.
+(3) Second Mate.
 
-(4) Third mate.
+(4) Third Mate.
 
 (5) Mate.
 
-(6) Master of towing vessels.
+(6) Master of Towing Vessels.
 
-(7) Master of towing vessels, limited.
+(7) Master of Towing Vessels-Limited.
 
-(8) Mate (pilot) of towing vessels.
+(8) Mate (Pilot) of Towing Vessels.
 
-(9) Apprentice mate (Steersman).
+(9) Apprentice Mate of Towing Vessels.
 
-(10) Apprentice mate (Steersman), limited.
+(10) Apprentice Mate of Towing Vessels-Limited.
 
-(11) Assistance towing.
+(11) Assistance Towing.
 
-(12) Offshore installation manager (OIM).
+(12) Offshore Installation Manager (OIM).
 
-(13) Barge supervisor (BS).
+(13) Barge Supervisor (BS).
 
-(14) Ballast control operator (BCO).
+(14) Ballast Control Operator (BCO).
 
-(15) Operator of uninspected passenger vessels (OUPV).
+(15) Operator of Uninspected Passenger Vessels (OUPV).
 
-(16) Master of uninspected fishing industry vessels.
+(16) Master of Uninspected Fishing Industry Vessels.
 
-(17) Mate of uninspected fishing industry vessels.
+(17) Mate of Uninspected Fishing Industry Vessels.
 
-(18) Master (OSV).
+(18) Master-OSV.
 
-(19) Chief mate (OSV).
+(19) Chief Mate-OSV.
 
-(20) Mate (OSV).
+(20) Mate-OSV.
 
-(21) Chief engineer.
+(21) Chief Engineer.
 
-(22) Chief engineer (limited).
+(22) Chief Engineer-Limited.
 
-(23) First assistant engineer.
+(23) First Assistant Engineer.
 
-(24) Second assistant engineer.
+(24) Second Assistant Engineer.
 
-(25) Third assistant engineer.
+(25) Third Assistant Engineer.
 
-(26) Assistant engineer (limited).
+(26) Assistant Engineer-Limited.
 
-(27) Designated duty engineer (DDE).
+(27) Designated Duty Engineer (DDE).
 
-(28) Chief engineer (OSV).
+(28) Chief Engineer-OSV.
 
-(29) Assistant engineer (OSV).
+(29) Assistant Engineer-OSV.
 
-(30) Chief engineer MODU.
+(30) Chief Engineer-MODU.
 
-(31) Assistant engineer MODU.
+(31) Assistant Engineer-MODU.
 
-(32) Chief engineer uninspected fishing industry vessels.
+(32) Chief Engineer Uninspected Fishing Industry Vessels.
 
-(33) Assistant engineer uninspected fishing industry vessels.
+(33) Assistant Engineer Uninspected Fishing Industry Vessels.
 
-(34) Radio officer.
+(34) Radio Officer.
 
-(35) First-class pilot.
+(35) First-Class Pilot.
 
-(36) Chief purser.
+(36) Chief Purser.
 
 (37) Purser.
 
-(38) Senior assistant purser.
+(38) Senior Assistant Purser.
 
-(39) Junior assistant purser.
+(39) Junior Assistant Purser.
 
-(40) Medical doctor.
+(40) Medical Doctor.
 
-(41) Professional nurse.
+(41) Professional Nurse.
 
-(42) Marine physician assistant.
+(42) Marine Physician Assistant.
 
-(43) Hospital corpsman.
+(43) Medical Technician.
 
-(44) High-speed craft type rating.
+(44) High-Speed Craft Type Rating (HSC).
 
-(45) Radar observer.
+(45) Radar Observer.
 
 (b) *National rating endorsements.* The following national rating endorsements are established in part 12 of this subchapter. The endorsements indicate that an individual holding a valid MMC with this endorsement is qualified to serve in that capacity and the endorsement has been issued under the requirements contained in part 12 of this subchapter:
 
-(1) Able seaman:
+(1) Able Seafarer:
 
 (i) Unlimited;
 
@@ -104,118 +102,118 @@ Link to an amendment published at 89 FR 93059, Nov. 25, 2024.
 
 (iii) Special;
 
-(iv) Special (OSV);
+(iv) Offshore Supply Vessel (OSV);
 
 (v) Sail; and
 
-(vi) Fishing industry.
+(vi) Fishing Industry.
 
-(2) Ordinary seaman.
+(2) Ordinary Seafarer.
 
-(3) Qualified member of the engine department (QMED), including the following specialty endorsements:
+(3) Qualified Member of the Engine Department (QMED), including the following specialty endorsements:
 
 (i) Oiler;
 
-(ii) Fireman/Watertender;
+(ii) Boiler Technician;
 
-(iii) Junior engineer;
+(iii) Junior Engineer;
 
-(iv) Pumpman/Machinist; and
+(iv) Pump Technician/Machinist; and
 
-(v) Electrician/Refrigerating engineer.
+(v) Electrician/Refrigerating Engineer.
 
-(4) Lifeboatman.
+(4) Lifeboat Operator.
 
-(5) Lifeboatman-Limited.
+(5) Lifeboat Operator-Limited.
 
 (6) Wiper.
 
-(7) Steward's department.
+(7) Steward's Department.
 
-(8) Steward's department (F.H.).
+(8) Steward's Department Food Handler (F.H.).
 
-(9) Cadet (deck or engine).
+(9) Cadet (Deck or Engine).
 
-(10) Student observer.
+(10) Student Observer.
 
-(11) Apprentice engineer.
+(11) Apprentice Engineer.
 
-(12) Apprentice mate.
+(12) Apprentice Mate.
 
-(c) The following ratings are established in part 13 of this subchapter. The national endorsements indicate that an individual holding a valid MMC with this endorsement is qualified to serve in that capacity and the endorsement has been issued under the requirements contained in part 13 of this subchapter:
+(c) *Tank Vessel Endorsements.* The following ratings are established in part 13 of this subchapter. The national endorsements indicate that an individual holding a valid MMC with this endorsement is qualified to serve in that capacity and the endorsement has been issued under the requirements contained in part 13 of this subchapter:
 
-(1) Tankerman-PIC.
+(1) Tank Vessel-PIC.
 
-(2) Tankerman-PIC (Barge).
+(2) Tank Barge-PIC.
 
-(3) Restricted Tankerman-PIC.
+(3) Restricted Tank Vessel-PIC.
 
-(4) Restricted Tankerman-PIC (Barge).
+(4) Restricted Tank Barge-PIC.
 
-(5) Tankerman assistant.
+(5) Tank Vessel-Assistant.
 
-(6) Tankerman engineer.
+(6) Tank Vessel-Engineer.
 
-(d) *STCW endorsements.* The following STCW endorsements are issued according to the STCW Convention, the STCW Code, and parts 11, 12, and 13 of this subchapter. The endorsements indicate that an individual holding a valid MMC with this endorsement is qualified to serve in that capacity and the endorsement has been issued under the requirements contained in parts 11, 12 or 13 of this subchapter as well as the STCW Convention and STCW Code (incorporated by reference, see § 10.103 of this subpart):
+(d) *STCW endorsements.* The following STCW endorsements are issued according to the STCW Convention, the STCW Code, and parts 11, 12, and 13 of this subchapter. The endorsements indicate that an individual holding a valid MMC with this endorsement is qualified to serve in that capacity and the endorsement has been issued under the requirements contained in parts 11, 12 or 13 of this subchapter as well as the STCW Convention and STCW Code (incorporated by reference, see § 10.103):
 
 (1) Master.
 
-(2) Chief mate.
+(2) Chief Mate.
 
-(3) Officer in charge of a navigational watch (OICNW).
+(3) Officer in Charge of a Navigational Watch (OICNW).
 
-(4) Chief engineer officer.
+(4) Chief Engineer Officer.
 
-(5) Second engineer officer.
+(5) Second Engineer Officer.
 
-(6) Officer in charge of an engineering watch in a manned engineroom or designated duty engineer in a periodically unmanned engineroom (OICEW).
+(6) Officer In Charge of an Engineering Watch in a manned engineroom or Designated Duty Engineer in a periodically unmanned engineroom (OICEW).
 
-(7) Electro-technical officer (ETO).
+(7) Electro-technical Officer (ETO).
 
-(8) Rating forming part of a navigational watch (RFPNW).
+(8) Rating Forming Part of a Navigational Watch (RFPNW).
 
-(9) Able seafarer-deck.
+(9) Able Seafarer-Deck.
 
-(10) Rating forming part of an engineering watch in a manned engineroom or designated to perform duties in a periodically unmanned engineroom (RFPEW).
+(10) Rating Forming Part of an Engineering Watch in a manned engineroom or designated to perform duties in a periodically unmanned engineroom (RFPEW).
 
-(11) Able seafarer-engine.
+(11) Able Seafarer-Engine.
 
-(12) Electro-technical rating.
+(12) Electro-technical Rating (ETR).
 
-(13) Basic training (BT).
+(13) Basic Training (BT).
 
-(14) Advanced firefighting.
+(14) Advanced Firefighting.
 
-(15) Proficiency in survival craft and rescue boats other than fast rescue boats (PSC).
+(15) Proficiency in Survival Craft and Rescue Boats other than Fast Rescue Boats (PSC).
 
-(16) Proficiency in survival craft and rescue boats other than fast rescue boats—limited (PSC—limited).
+(16) Proficiency in Survival Craft and Rescue Boats other than Fast Rescue Boats-Limited (PSC-Limited).
 
-(17) Proficiency in fast rescue boats.
+(17) Proficiency in Fast Rescue Boats.
 
-(18) Person in charge of medical care.
+(18) Person in Charge of Medical Care.
 
-(19) Medical first-aid provider.
+(19) Medical First-aid Provider.
 
-(20) GMDSS at-sea maintainer.
+(20) GMDSS At-sea Maintainer.
 
-(21) GMDSS operator.
+(21) GMDSS Operator.
 
-(22) Advanced oil tanker cargo operation.
+(22) Advanced Oil Tanker Cargo Operation.
 
-(23) Advanced chemical tanker cargo operation.
+(23) Advanced Chemical Tanker Cargo Operation.
 
-(24) Advanced liquefied gas tanker cargo operation.
+(24) Advanced Liquefied Gas Tanker Cargo Operation.
 
-(25) Basic oil and chemical tanker cargo operation.
+(25) Basic Oil and Chemical Tanker Cargo Operation.
 
-(26) Basic liquefied gas tanker cargo operation.
+(26) Basic Liquefied Gas Tanker Cargo Operation.
 
-(27) Vessel Security Officer.
+(27) Vessel Security Officer (VSO).
 
-(28) Vessel personnel with designated security duties.
+(28) Vessel Personnel with Designated Security Duties.
 
-(29) Security awareness.
+(29) Security Awareness.
 
-(30) High-speed craft (HSC) type rating certificate.
+(30) High-Speed Craft Type Rating (HSC).
 
-[USCG-2004-17914, 78 FR 77887, Dec. 24, 2013]
+[USCG-2021-0097, 89 FR 93059, Nov. 25, 2024]

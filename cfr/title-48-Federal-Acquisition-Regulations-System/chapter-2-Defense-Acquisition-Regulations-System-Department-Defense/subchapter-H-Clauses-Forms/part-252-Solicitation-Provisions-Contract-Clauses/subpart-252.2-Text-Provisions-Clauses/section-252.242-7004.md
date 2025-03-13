@@ -2,23 +2,27 @@
 
 As prescribed in 242.7204, use the following clause:
 
-Material Management and Accounting System (MAY 2011)
+Material Management and Accounting System (Jan 2025)
 
 (a) *Definitions.* As used in this clause—
 
-(1) *Material management and accounting system (MMAS)* means the Contractor's system or systems for planning, controlling, and accounting for the acquisition, use, issuing, and disposition of material. Material management and accounting systems may be manual or automated. They may be stand-alone systems or they may be integrated with planning, engineering, estimating, purchasing, inventory, accounting, or other systems.
+*Acceptable material management and accounting system* means a material management and accounting system that generally complies with the system criteria in paragraph (d) of this clause.
 
-(2) *Valid time-phased requirements* means material that is—
+*Contractor* means a business unit as defined in Federal Acquisition Regulation (FAR) 2.101.
 
-(i) Needed to fulfill the production plan, including reasonable quantities for scrap, shrinkage, yield, *etc.;* and
+*Material management and accounting system (MMAS)* means the Contractor's system or systems for planning, controlling, and accounting for the acquisition, use, issuing, and disposition of material. Material management and accounting systems may be manual or automated. They may be stand-alone systems, or they may be integrated with planning, engineering, estimating, purchasing, inventory, accounting, or other systems.
 
-(ii) Charged/billed to contracts or other cost objectives in a manner consistent with the need to fulfill the production plan.
+*Material weakness* means a deficiency or combination of deficiencies in the internal control over information in contractor business systems, such that there is a reasonable possibility that a material misstatement of such information will not be prevented, or detected and corrected, on a timely basis. A reasonable possibility exists when the likelihood of an event occurring is—
 
-(3) *Contractor* means a business unit as defined in section 31.001 of the Federal Acquisition Regulation (FAR).
+(1) Probable; or
 
-(4) *Acceptable material management and accounting system* means a MMAS that generally complies with the system criteria in paragraph (d) of this clause.
+(2) More than remote but less than likely (section 806 of Pub. L. 116-283).
 
-(5) *Significant deficiency* means a shortcoming in the system that materially affects the ability of officials of the Department of Defense to rely upon information produced by the system that is needed for management purposes.
+*Valid time-phased requirements* means material that is—
+
+(1) Needed to fulfill the production plan, including reasonable quantities for scrap, shrinkage, yield, etc.; and
+
+(2) Charged or billed to contracts or other cost objectives in a manner consistent with the need to fulfill the production plan.
 
 (b) *General.* The Contractor shall—
 
@@ -98,20 +102,20 @@ Material Management and Accounting System (MAY 2011)
 
 (10) Be subjected to periodic internal reviews to ensure compliance with established policies and procedures.
 
-(e) *Significant deficiencies.* (1) The Contracting Officer will provide an initial determination to the Contractor, in writing, of any significant deficiencies. The initial determination will describe the deficiency in sufficient detail to allow the Contractor to understand the deficiency.
+(e) *Material weaknesses.* (1) The Contracting Officer will provide an initial determination to the Contractor, in writing, of any material weaknesses. The initial determination will describe the underlying deficiencies in sufficient detail to allow the Contractor to understand the weaknesses or deficiencies.
 
-(2) The Contractor shall respond within 30 days to a written initial determination from the Contracting Officer that identifies significant deficiencies in the Contractor's MMAS. If the Contractor disagrees with the initial determination, the Contractor shall state, in writing, its rationale for disagreeing.
+(2) The Contractor shall respond within 30 days to a written initial determination from the Contracting Officer that identifies material weaknesses in the Contractor's MMAS. If the Contractor disagrees with the initial determination, the Contractor shall state, in writing, its rationale for disagreeing.
 
 (3) The Contracting Officer will evaluate the Contractor's response and notify the Contractor, in writing, of the Contracting Officer's final determination concerning—
 
-(i) Remaining significant deficiencies;
+(i) Remaining material weaknesses;
 
 (ii) The adequacy of any proposed or completed corrective action; and
 
-(iii) System disapproval if the Contracting Officer determines that one or more significant deficiencies remain.
+(iii) System disapproval if the Contracting Officer determines that one or more material weaknesses remain.
 
-(f) If the Contractor receives the Contracting Officer's final determination of significant deficiencies, the Contractor shall, within 45 days of receipt of the final determination, either correct the significant deficiencies or submit an acceptable corrective action plan showing milestones and actions to eliminate the significant deficiencies.
+(f) If the Contractor receives the Contracting Officer's final determination of material weaknesses, the Contractor shall, within 45 days of receipt of the final determination, either correct the material weaknesses or submit an acceptable corrective action plan showing milestones and actions to eliminate the material weaknesses.
 
 (g) *Withholding payments.* If the Contracting Officer makes a final determination to disapprove the Contractor's MMAS, and the contract includes the clause at 252.242-7005, Contractor Business Systems, the Contracting Officer will withhold payments in accordance with that clause.
 
-(End of clause)[76 FR 28874, May 18, 2011]
+(End of clause)[76 FR 28874, May 18, 2011, as amended at 90 FR 5732, Jan. 17, 2025]

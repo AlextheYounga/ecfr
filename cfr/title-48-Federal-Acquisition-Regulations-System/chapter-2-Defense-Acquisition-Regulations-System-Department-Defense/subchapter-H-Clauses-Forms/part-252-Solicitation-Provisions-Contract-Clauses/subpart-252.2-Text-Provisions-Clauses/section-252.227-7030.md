@@ -1,8 +1,6 @@
 ##### 252.227-7030 Technical data—withholding of payment. #####
 
-Link to an amendment published at 89 FR 103365, Dec. 18, 2024.
-
-As prescribed at 227.7103-6(e)(2) or 227.7104(e)(4), use the following clause:
+As prescribed at 227.7103-6(e)(2) or 227.7104-4(b)(6), use the following clause:
 
 Technical Data—Withholding of Payment (MAR 2000)
 
@@ -10,4 +8,4 @@ Technical Data—Withholding of Payment (MAR 2000)
 
 (b) The withholding of any amount or subsequent payment to the Contractor shall not be construed as a waiver of any rights accruing to the Government under this contract.
 
-(End of clause)[56 FR 36479, July 31, 1991, as amended at 60 FR 33505, June 28, 1995; 62 FR 34132, June 24, 1997; 65 FR 14398, Mar. 16, 2000]
+(End of clause)[56 FR 36479, July 31, 1991, as amended at 60 FR 33505, June 28, 1995; 62 FR 34132, June 24, 1997; 65 FR 14398, Mar. 16, 2000; 89 FR 103365, Dec. 18, 2024]

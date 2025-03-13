@@ -122,6 +122,16 @@
 
 (p) Payments for losses resulting from costs associated with treating livestock feed transported above normal to prevent the spread of invasive pests, as specified in § 1416.103(d)(6), will be calculated based on a national payment rate, as determined in § 1416.109, multiplied by the producer's actual cost for controlling invasive pests in livestock feed transported above normal.
 
-(q) Payments calculated in this section are subject to the adjustments and limits provided for in this part.
+(q) For the purpose of payments under paragraph (n) of this section, losses resulting from the additional cost of transporting livestock feed to eligible livestock are limited to the additional cost of transportation of feed to satisfy the feed needs of the eligible livestock identified on the application during the program year in which the eligible drought or other eligible loss condition occurred. Therefore, FSA will:
 
-[79 FR 21097, Apr. 14, 2014, as amended at 85 FR 10965, Feb, 26, 2020; 87 FR 19786, Apr. 6, 2022]
+(1) Convert the number of eligible livestock identified on the application to an animal unit basis;
+
+(2) Multiply the animal units determined in paragraph (q)(1) of this section by 24 pounds of corn or corn equivalent or 39 pounds of hay or forage;
+
+(3) Multiply the result of paragraph (q)(2) of this section by the number of calendar days in the time period from the beginning date of the eligible drought or other eligible loss condition until the end of the program year; and
+
+(4) Limit the truckloads used in the calculation to the total pounds calculated in paragraph (q)(3) of this section. Any loads hauled in excess of that amount during the program year are not eligible for assistance.
+
+(r) Payments calculated in this section are subject to the adjustments and limits provided for in this part.
+
+[79 FR 21097, Apr. 14, 2014, as amended at 85 FR 10965, Feb, 26, 2020; 87 FR 19786, Apr. 6, 2022; 90 FR 5496, Jan. 17, 2025]

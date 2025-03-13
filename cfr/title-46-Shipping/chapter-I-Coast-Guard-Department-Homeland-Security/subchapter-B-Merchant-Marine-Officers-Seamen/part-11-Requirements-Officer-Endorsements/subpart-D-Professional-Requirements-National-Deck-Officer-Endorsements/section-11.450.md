@@ -1,11 +1,13 @@
-##### § 11.450 Tonnage limitations and qualifying requirements for endorsements as master or mate of Great Lakes and inland vessels of less than 200 GRT. #####
+##### § 11.450 Tonnage limitations and qualifying requirements for endorsements as Master or Mate of Great Lakes and inland vessels of less than 200 GRT. #####
 
-Link to an amendment published at 89 FR 93083, Nov. 25, 2024.Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
+Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
 
-(a) Except as noted in paragraph (d) of this section, all endorsements issued for master or mate of vessels of less than 200 GRT are issued in 50 GRT increments based on the applicant's qualifying experience in accordance with the provisions of § 11.422 of this subpart.
+(a) Except as noted in paragraph (d) of this section, all endorsements issued for Master or Mate of vessels of less than 200 GRT are issued in 50 GRT increments based on the applicant's qualifying experience in accordance with the provisions of § 11.422.
 
-(b) Service gained in the engineroom on vessels of less than 200 GRT may be creditable for up to 25 percent of the deck service requirements for mate.
+(b) Service gained in the engineroom on vessels of less than 200 GRT may be creditable for up to 25 percent of the deck service requirements for Mate.
 
-(c) When the service is obtained on vessels upon which personnel with licenses or endorsements are not required, the Coast Guard must be satisfied that the nature of this required service (i.e., size of vessel, route, equipment, etc.) is a reasonable equivalent to the duties performed on vessels which are required to engage individuals with endorsements.
+(c) When the service is obtained on vessels upon which personnel with Licenses or endorsements are not required, the Coast Guard must be satisfied that the nature of this required service (*i.e.,* size of vessel, route, equipment, etc.) is a reasonable equivalent to the duties performed on vessels which are required to engage individuals with endorsements.
 
-(d) If more than 75 percent of the qualifying experience is obtained on vessels of 5 GRT or less, the license will automatically be limited to vessels of less than 25 GRT.
+(d) If more than 75 percent of the qualifying experience is obtained on vessels of 5 GRT or less, the License will automatically be limited to vessels of less than 25 GRT.
+
+[USCG-2021-0097, 89 FR 93083, Nov. 25, 2024]

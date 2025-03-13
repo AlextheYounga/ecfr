@@ -1,6 +1,6 @@
 ##### § 10.404 Substitution of training for required service, use of training-record books (TRBs), and use of towing officer assessment records (TOARs). #####
 
-Link to an amendment published at 89 FR 93068, Nov. 25, 2024.Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
+Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 
 (a) *Substitution of training for required service.* (1) Satisfactory completion of an approved training course may be substituted for a portion of the required service on deck or in the engine department for national deck or engineer endorsements. Satisfactory completion of an approved training program which includes sea service may be substituted for a portion of or all of the required service on deck or in the engine department, except as limited by law for ratings. The list of all currently approved courses and programs, including the equivalent service and applicable endorsements, is maintained by the NMC.
 
@@ -18,28 +18,30 @@ Link to an amendment published at 89 FR 93068, Nov. 25, 2024.Link to an amendmen
 
 (iii) The method for demonstrating competence to be used in determining that the tasks or skills have been performed properly, with reference to the standards of competence set forth in the tables of competence in the appropriate sections in part A of the STCW Code (incorporated by reference, see § 10.103 of this part).
 
-(iv) A place for a qualified instructor to indicate by his or her initials that the applicant has received training in the proper performance of the task or skill.
+(iv) A place for a Qualified Instructor to indicate by their initials that the applicant has received training in the proper performance of the task or skill.
 
-(v) A place for a qualified assessor (QA) to indicate by his or her initials that the applicant has successfully completed a practical demonstration and has proved competent in the task or skill under the criteria, when assessment of competence is to be documented in the record books.
+(v) A place for a Qualified Assessor (QA) to indicate by their initials that the applicant has successfully completed a practical demonstration and has proved competent in the task or skill under the criteria, when assessment of competence is to be documented in the record books.
 
-(vi) The printed name of each qualified instructor, including any MMC endorsements held, and the instructor's signature.
+(vi) The printed name of each Qualified Instructor, including any MMC endorsements held, and the instructor's signature.
 
-(vii) The printed name of each qualified assessor, when any assessment of competence is recorded, including any MMC endorsement, license, or document held by the assessor, and the assessor's signature confirming that his or her initials certify that he or she has witnessed the practical demonstration of a particular task or skill by the applicant.
+(vii) The printed name of each Qualified Assessor, when any assessment of competence is recorded, including any MMC endorsement, License, or document held by the assessor, and the assessor's signature confirming that their initials certify that they have witnessed the practical demonstration of a particular task or skill by the applicant.
 
 (2) The TRB referred to in paragraph (b) of this section may be maintained electronically, provided the electronic record meets Coast Guard-accepted standards for accuracy, integrity, and availability.
 
 (3) The Coast Guard may accept other forms of documentation as meeting the requirements to maintain the training-record book.
 
-(c) *Use of towing officer assessment records (TOARs).* Each applicant for an endorsement as master or mate (pilot) of towing vessels, and each master or mate of self-propelled vessels of 200 GRT or more, seeking an endorsement for towing vessels, must complete a TOAR approved by the Coast Guard that contains at least the following:
+(c) *Use of towing officer assessment records (TOARs).* Each applicant for an endorsement as Master or Mate (Pilot) of Towing Vessels, and each Master or Mate of self-propelled vessels of 200 GRT or more, seeking an endorsement for towing vessels, must complete a TOAR approved by the Coast Guard that contains at least the following:
 
-(1) Identification of the applicant, including his or her full name, and reference number.
+(1) Identification of the applicant, including their full name, and reference number;
 
-(2) Objectives of the training and assessment.
+(2) Objectives of the training and assessment;
 
-(3) Tasks to perform or skills to demonstrate.
+(3) Tasks to perform or skills to demonstrate;
 
-(4) Criteria to use in determining that the tasks or skills have been performed properly.
+(4) Criteria to use in determining that the tasks or skills have been performed properly;
 
-(5) A means for a designated examiner (DE) to attest that the applicant has successfully completed a practical demonstration and has proved proficient in the task or skill under the criteria.
+(5) A means for a Designated Examiner (DE) to attest that the applicant has successfully completed a practical demonstration and has proved proficient in the task or skill under the criteria; and
 
-(6) Identification of each DE by his or her full name and reference number, job title, ship name and official number, and serial number of the MMC, license, or document held, and printed name and signature confirming that his or her initials certify that he or she has witnessed the practical demonstration of a particular task or skill by the applicant.
+(6) Identification of each DE by their full name and reference number, job title, ship name and official number, and serial number of the MMC, License, or document held, and printed name and signature confirming that their initials certify that they have witnessed the practical demonstration of a particular task or skill by the applicant.
+
+[USCG-2004-17914, 78 FR 77903, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93068, Nov. 25, 2024]

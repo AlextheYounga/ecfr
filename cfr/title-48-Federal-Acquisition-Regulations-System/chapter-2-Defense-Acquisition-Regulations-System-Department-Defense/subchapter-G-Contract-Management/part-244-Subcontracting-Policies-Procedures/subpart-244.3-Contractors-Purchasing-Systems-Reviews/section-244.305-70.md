@@ -1,6 +1,6 @@
 ##### 244.305-70 Policy. #####
 
-Use this subsection instead of FAR 44.305-2(c) and 44.305-3(b).
+Use this section instead of FAR 44.305-2(c) and 44.305-3(b).
 
 (a) The cognizant contracting officer, in consultation with the purchasing system analyst or auditor, shall—
 
@@ -10,47 +10,47 @@ Use this subsection instead of FAR 44.305-2(c) and 44.305-3(b).
 
 (b) In evaluating the acceptability of the contractor's purchasing system, the contracting officer, in consultation with the purchasing system analyst or auditor, shall determine whether the contractor's purchasing system complies with the system criteria for an acceptable purchasing system as prescribed in the clause at 252.244-7001, Contractor Purchasing System Administration.
 
-(c) *Disposition of findings*—(1) *Reporting of findings.* The purchasing system analyst or auditor shall document findings and recommendations in a report to the contracting officer. If the auditor or purchasing system analyst identifies any significant purchasing system deficiencies, the report shall describe the deficiencies in sufficient detail to allow the contracting officer to understand the deficiencies.
+(c) *Disposition of findings*—(1) *Reporting of findings.* The purchasing system analyst or auditor shall document findings and recommendations in a report to the contracting officer. If the auditor or purchasing system analyst identifies any material weaknesses, the report shall describe the underlying deficiencies in sufficient detail to allow the contracting officer to understand the weaknesses or deficiencies.
 
-(2) *Initial determination.* (i) The contracting officer shall review all findings and recommendations and, if there are no significant deficiencies, shall promptly notify the contractor that the contractor's purchasing system is acceptable and approved; or
+(2) *Initial determination.* (i) The contracting officer shall review all findings and recommendations and, if there are no material weaknesses, shall promptly notify the contractor that the contractor's purchasing system is acceptable and approved; or
 
-(ii) If the contracting officer finds that there are one or more significant deficiencies (as defined in the clause at 252.244-7001, Contractor Purchasing System Administration) due to the contractor's failure to meet one or more of the purchasing system criteria in the clause at 252.244-7001, the contracting officer shall—
+(ii) If the contracting officer finds that there are one or more material weaknesses due to the contractor's failure to meet one or more of the purchasing system criteria in the clause at 252.244-7001, the contracting officer shall—
 
-(A) Promptly make an initial written determination on any significant deficiencies and notify the contractor, in writing, providing a description of each significant deficiency in sufficient detail to allow the contractor to understand the deficiency;
+(A) Promptly make an initial written determination on any material weaknesses and notify the contractor, in writing, providing a description of each material weakness in sufficient detail to allow the contractor to understand the weakness (see PGI 244.305-70(c)(2));
 
 (B) Request the contractor to respond, in writing, to the initial determination within 30 days; and
 
-(C) Evaluate the contractor's response to the initial determination in consultation with the auditor or purchasing system analyst, and make a final determination.
+(C) Evaluate the contractor's response to the initial determination in consultation with the auditor or purchasing system analyst and make a final determination.
 
 (3) *Final determination.* (i) The contracting officer shall make a final determination and notify the contractor, in writing, that—
 
-(A) The contractor's purchasing system is acceptable and approved, and no significant deficiencies remain, or
+(A) The contractor's purchasing system is acceptable and approved, and no material weaknesses remain; or
 
-(B) Significant deficiencies remain. The notice shall identify any remaining significant deficiencies, and indicate the adequacy of any proposed or completed corrective action. The contracting officer shall—
+(B) Material weaknesses remain. The notice shall identify any remaining material weaknesses and indicate the adequacy of any proposed or completed corrective action. The contracting officer shall—
 
-(*1*) Request that the contractor, within 45 days of receipt of the final determination, either correct the deficiencies or submit an acceptable corrective action plan showing milestones and actions to eliminate the deficiencies;
+(*1*) Request that the contractor, within 45 days of receipt of the final determination, either correct the weaknesses or submit an acceptable corrective action plan showing milestones and actions to eliminate the weaknesses;
 
-(*2*) Disapprove the system in accordance with the clause at 252.244-7001, Contractor Purchasing System Administration; and
+(*2*) Disapprove the system in accordance with the clause at 252.244-7001; and
 
 (*3*) Withhold payments in accordance with the clause at 252.242-7005, Contractor Business Systems, if the clause is included in the contract.
 
-(ii) Follow the procedures relating to monitoring a contractor's corrective action and the correction of significant deficiencies in PGI 244.305-70.
+(ii) Follow the procedures relating to monitoring a contractor's corrective action and the correction of material weaknesses in PGI 244.305-70(c)(3).
 
-(d) *System approval.* The contracting officer shall promptly approve a previously disapproved purchasing system and notify the contractor when the contracting officer determines that there are no remaining significant deficiencies.
+(d) *System approval.* The contracting officer shall promptly approve a previously disapproved purchasing system and notify the contractor when the contracting officer determines that there are no remaining material weaknesses.
 
 (e) *Contracting officer notifications.* The cognizant contracting officer shall promptly distribute copies of a determination to approve a system, disapprove a system and withhold payments, or approve a previously disapproved system and release withheld payments to the auditor; payment office; affected contracting officers at the buying activities; and cognizant contracting officers in contract administration activities.
 
-(f) *Mitigating the risk of purchasing system deficiencies on specific proposals.*
+(f) *Mitigating the risk of deficiencies on specific proposals.*
 
-(1) Source selection evaluation teams shall discuss identified purchasing system deficiencies and their impact in all reports on contractor proposals until the deficiencies are resolved.
+(1) Source selection evaluation teams shall discuss identified deficiencies and their impact in all reports on contractor proposals until the deficiencies are resolved.
 
 (2) The contracting officer responsible for negotiation of a proposal generated by a purchasing system with an identified deficiency shall evaluate whether the deficiency impacts the negotiations. If it does not, the contracting officer should proceed with negotiations. If it does, the contracting officer should consider other alternatives, *e.g.*—
 
-(i) Allowing the contractor additional time to correct the purchasing system deficiency and submit a corrected proposal;
+(i) Allowing the contractor additional time to correct the deficiency and submit a corrected proposal;
 
 (ii) Considering another type of contract, *e.g.,* a fixed-price incentive (firm target) contract instead of firm-fixed-price;
 
-(iii) Using additional cost analysis techniques to determine the reasonableness of the cost elements affected by the purchasing system's deficiency;
+(iii) Using additional cost analysis techniques to determine the reasonableness of the cost elements affected by the deficiency;
 
 (iv) Segregating the questionable areas as a cost-reimbursable line item;
 
@@ -58,7 +58,7 @@ Use this subsection instead of FAR 44.305-2(c) and 44.305-3(b).
 
 (vi) Including a contract (reopener) clause that provides for adjustment of the contract amount after award.
 
-(3) The contracting officer who incorporates a reopener clause into the contract is responsible for negotiating price adjustments required by the clause. Any reopener clause necessitated by a purchasing system deficiency should—
+(3) The contracting officer who incorporates a reopener clause into the contract is responsible for negotiating price adjustments required by the clause. Any reopener clause necessitated by a deficiency should—
 
 (i) Clearly identify the amounts and items that are in question at the time of negotiation;
 
@@ -68,4 +68,4 @@ Use this subsection instead of FAR 44.305-2(c) and 44.305-3(b).
 
 (iv) Provide that failure of the Government and the contractor to agree to the price adjustment shall be a dispute under the Disputes clause.
 
-[76 FR 28871, May 18, 2011, as amended at 77 FR 11366, Feb. 24, 2012]
+[76 FR 28871, May 18, 2011, as amended at 77 FR 11366, Feb. 24, 2012; 90 FR 5730, Jan. 17, 2025]

@@ -14,4 +14,4 @@
 
 (g) *Customhouse brokers.* Customhouse brokers, licensed by the Commissioner of Customs according to 19 CFR part 111, may represent a party for whom they have acted as a customhouse broker before the Bureau with respect to matters relating to the importation or exportation of merchandise under customs or intenal revenue laws.
 
-(Approved by the Office of Management and Budget under control number 1512-0418)(18 U.S.C. 203, 205; 5 U.S.C. 552(a) (80 Stat. 383, as amended))[42 FR 33026, June 29, 1977, as amended at 49 FR 14944, Apr. 16, 1984]
+(Approved by the Office of Management and Budget under control number 1512-0418) (18 U.S.C. 203, 205; 5 U.S.C. 552(a) (80 Stat. 383, as amended))[42 FR 33026, June 29, 1977, as amended at 49 FR 14944, Apr. 16, 1984]

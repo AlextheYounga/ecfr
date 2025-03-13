@@ -1,5 +1,7 @@
 ##### § 10.223 Articles eligible for preferential treatment. #####
 
+Link to an amendment published at 90 FR 6480, Jan. 17, 2025.
+
 (a) *General.* The preferential treatment referred to in § 10.221 applies to the following textile and apparel articles that are imported directly into the customs territory of the United States from a CBTPA beneficiary country:
 
 (1) Apparel articles sewn or otherwise assembled in one or more CBTPA beneficiary countries from fabrics wholly formed and cut, or from components knit-to-shape, in the United States, from yarns wholly formed in the United States (including fabrics not formed from yarns, if those fabrics are classifiable under heading 5602 or 5603 of the HTSUS and are wholly formed and cut in the United States) that are entered under subheading 9802.00.80 of the HTSUS, and provided that any other processing involving the article conforms to the rules set forth in paragraph (b) of this section;

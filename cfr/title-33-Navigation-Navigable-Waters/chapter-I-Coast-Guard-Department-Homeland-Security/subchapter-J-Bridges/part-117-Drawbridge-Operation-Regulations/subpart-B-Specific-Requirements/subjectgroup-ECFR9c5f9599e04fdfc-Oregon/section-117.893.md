@@ -1,5 +1,7 @@
 ##### § 117.893 Umpqua River. #####
 
+Link to an amendment published at 90 FR 5634, Jan. 17, 2025.
+
 (a) The draw of the US 101 Bridge, mile 11.1, at Reedsport, Oregon, shall open on signal if at least two hours notice is given.
 
 (b) The draw of the Central Oregon and Pacific railroad bridge, mile 11.5 at Reedsport, shall be maintained in the fully open position, except for the crossing of trains or other railroad equipment or for maintenance. During foggy weather when the draw is closed and the channel is not clear for the passage of vessels, a fog horn with an audible range of one-half mile from the draw shall be sounded. Two clear signals of approximately six seconds duration each, repeated at intervals of 60 seconds from completion of the second signal to commencement of the next signal, shall be sounded and repeated from commencement of closure to full opening of the draw. When the draw is again in the open position, the fog horn shall be stopped, indicating that the channel is clear for the passage of vessels.

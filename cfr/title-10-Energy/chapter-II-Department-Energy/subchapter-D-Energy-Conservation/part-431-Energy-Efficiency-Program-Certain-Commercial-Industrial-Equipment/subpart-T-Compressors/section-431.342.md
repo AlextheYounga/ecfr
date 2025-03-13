@@ -1,5 +1,7 @@
 ##### § 431.342 Definitions concerning compressors. #####
 
+Link to an amendment published at 90 FR 5555, Jan. 17, 2025.
+
 The following definitions are applicable to this subpart, including appendix A. In cases where there is a conflict, the language of the definitions adopted in this section take precedence over any descriptions or definitions found in any other source, including in ISO Standard 1217:2009(E), “Displacement compressors—Acceptance tests,” as amended through Amendment 1:2016(E), “Calculation of isentropic efficiency and relationship with specific energy” (incorporated by reference, see § 431.343). In cases where definitions reference design intent, DOE will consider all relevant information, including marketing materials, labels and certifications, and equipment design, to determine design intent.
 
 *Actual volume flow rate* means the volume flow rate of air, compressed and delivered at the standard discharge point, referred to conditions of total temperature, total pressure and composition prevailing at the standard inlet point, and as determined in accordance with the test procedures prescribed in § 431.344.

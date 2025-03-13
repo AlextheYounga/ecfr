@@ -1,5 +1,7 @@
 ##### § 174.15 Consolidation of protests filed by different parties. #####
 
+Link to an amendment published at 90 FR 6482, Jan. 17, 2025.
+
 (a) *General.* Subject to paragraph (b) of this section, separate protests relating to one category of merchandise covered by an entry shall be considered as a single protest whether filed as a single protest or filed as separate protests relating to the same category by one or more parties in interest or an authorized agent.
 
 (b) *NAFTA transactions.* The following rules shall apply to a consolidation of multiple protests concerning a determination of origin under subpart G of part 181 of this chapter if one of the protests is filed by or on behalf of an exporter or producer described in § 174.12(a)(5) of this part:

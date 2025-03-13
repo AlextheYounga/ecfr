@@ -1,5 +1,7 @@
 ##### § 2700.8 Computation of time. #####
 
+Link to an amendment published at 90 FR 5619, Jan. 17, 2025.
+
 Unless otherwise provided for in the Act, these rules, or by order, the due date for a pleading or other deadline for party or Commission action (hereinafter “due date”) is determined sequentially as follows:
 
 (a) Except to the extent otherwise provided herein (see, e.g., §§ 2700.24 and 2700.45), when the period of time prescribed for action is less than 11 days, Saturdays, Sundays, and federal holidays shall be excluded in determining the due date.

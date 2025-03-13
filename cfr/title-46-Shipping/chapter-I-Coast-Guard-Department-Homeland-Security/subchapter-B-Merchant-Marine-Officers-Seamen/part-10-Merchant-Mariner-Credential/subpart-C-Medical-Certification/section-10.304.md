@@ -1,10 +1,8 @@
 ##### § 10.304 General medical exam. #####
 
-Link to an amendment published at 89 FR 93067, Nov. 25, 2024.
-
 (a) The general medical exam must be documented and of such scope to ensure that there are no conditions that pose significant risk of sudden incapacitation or debilitating complication. This exam must also document any condition requiring medication that impairs cognitive ability, judgment, or reaction time. The Coast Guard will provide guidance on the conduct of general medical exams. Examiners should be familiar with the content and recommended medical evaluation data compiled in the medical guidelines.
 
-(b) Food handlers are not required to submit to a general medical exam, but must obtain a statement from a licensed physician, physician assistant, or nurse practitioner attesting that they are free of communicable diseases that pose a direct threat to the health or safety of other individuals in the workplace.
+(b) Food Handlers are not required to submit to a general medical exam, but must obtain a statement from a licensed physician, physician assistant, or nurse practitioner attesting that they are free of communicable diseases that pose a direct threat to the health or safety of other individuals in the workplace.
 
 (c) *Demonstration of physical ability.* (1) A demonstration of physical ability is required only if—
 
@@ -35,3 +33,5 @@ Link to an amendment published at 89 FR 93067, Nov. 25, 2024.
 (3) Guidance on demonstration of physical ability is contained in the relevant Coast Guard guidance for the conduct of general medical exams.
 
 (d) *Reports of medical and physical exams, demonstrations, and tests.* These reports must be submitted within 12 months from the date signed by the licensed medical professional. When submitted with a complete application package, these reports remain valid for 12 months from the date the Coast Guard accepts a complete application.
+
+[USCG-2004-17914, 78 FR 77900, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93067, Nov. 25, 2024]

@@ -1,13 +1,15 @@
-##### § 402.45 Availability of records. #####
+##### § 402.45 Requests handled outside of the FOIA process. #####
 
-(a) *What records are available.* 5 U.S.C. 552, also known as the FOIA, permits any person to see, and get a copy of, any Federal agency's records unless the material is exempt from mandatory disclosure as described in § 402.70 of this part.
+When records outlined in paragraphs (a) through (d) of this section are requested from OPD, OPD will respond to the requester and provide information for requesting the records sought:
 
-(b) *FOIA.* Under the FOIA, we are also required to make available to the public the instructional manuals issued to our employees, general statements of policy, and other materials which are used in processing claims and which are not published in the Federal Register, and an index of these manuals and materials.
+(a) To the extent a request asks for records that are currently publicly available, either from SSA or from another part of the Federal Government. See § 402.155.
 
-(c) *Record citation as precedent.* We will not use or cite any record described in paragraph (b) of this section as a precedent for an action against a person unless we have indexed the record and published it or made it available, or unless the person has timely notice of the record.
+(b) If the records sought are distributed by SSA as part of its regular program activity, for example, public information leaflets distributed by SSA. See §§ 402.155 through 402.165.
 
-(d) *Electronic Reading Room.* We will prepare an index of records which have become or are likely to become the subject of subsequent requests. The index, and, to the extent practicable, the records will be made available on the Internet or by other computer telecommunications means.
+(c) If the records sought are earnings records covered by § 422.125 of this chapter.
 
-(e) *Federal employees.* We will not disclose information when the information sought is lists of telephone numbers and/or duty stations of one or more Federal employees if the disclosure, as determined at the discretion of the official responsible for custody of the information, would place employee(s) at risk of injury or other harm. Also, we will not disclose the requested information if the information is protected from mandatory disclosure under an exemption of the Freedom of Information Act.
+(d) If a request does not meet the requirements of a FOIA request as defined in § 402.30. We will send written correspondence to the requester:
 
-[62 FR 4154, Jan. 29, 1997, as amended at 63 FR 35132, June 29, 1998; 72 FR 69617, Dec. 10, 2007]
+(1) Providing instructions for how to submit a proper FOIA request; or
+
+(2) Asking for additional information to make the request a proper FOIA request.

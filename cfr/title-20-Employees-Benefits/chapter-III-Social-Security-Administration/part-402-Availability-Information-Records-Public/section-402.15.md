@@ -1,7 +1,15 @@
-##### § 402.15 Relationship between the FOIA and the Privacy Act of 1974. #####
+##### § 402.15 SSA's FOIA policy. #####
 
-(a) *Coverage.* The FOIA and the rules in this part apply to all SSA records. The Privacy Act, 5 U.S.C. 552a, applies to records that are about individuals, but only if the records are in a system of records. “Individuals” and “system of records” are defined in the Privacy Act and in 20 CFR 401.25.
+(a) *Presumption of openness.* SSA will withhold information only if we reasonably foresee that disclosure would harm an interest protected by a FOIA exemption or if disclosure is prohibited by law.
 
-(b) *Requesting your own records.* If you are an individual and request records, then to the extent you are requesting your own records in a system of records, we will handle your request under the Privacy Act. If there is any record that we need not release to you under those provisions, we will also consider your request under the FOIA and this rule, and we will release the record to you if the FOIA requires it.
+(b) *Authority to release and withhold records.* As described in § 402.50, the agency's FOIA Officer, or the FOIA Officer's designee, has the authority to:
 
-(c) *Requesting another individual's record.* Whether or not you are an individual, if you request records that are about an individual (other than yourself) and that are in a system of records, we will handle your request under the FOIA and the rules in this part. However, if our disclosure in response to your request would be permitted by the Privacy Act's disclosure provision, (5 U.S.C. 552a(b)), for reasons other than the requirements of the FOIA, and if we decide to make the disclosure, then we will not handle your request under the FOIA and the rules in this part. For example, when we make routine use disclosures pursuant to requests, we do not handle them under the FOIA and the rules in this part. (“Routine use” is defined in the Privacy Act and in 20 CFR 401.25.) If we handle your request under the FOIA and the rules in this part and the FOIA does not require releasing the record to you, then the Privacy Act may prohibit the release and remove our discretion to release.
+(1) Release or withhold records in response to initial requests;
+
+(2) Grant or deny expedited processing; and
+
+(3) Reduce or waive fees.
+
+(c) *Records publicly available.* We make available for public inspection in an electronic format records that are final and have been requested and released three or more times and other specified records described in § 402.155. We do not make available for public inspection records that are not static, such as the Open Access Death Master File.
+
+(d) *Required record production.* The FOIA does not require an agency to give opinions, conduct research, answer questions, or create records.

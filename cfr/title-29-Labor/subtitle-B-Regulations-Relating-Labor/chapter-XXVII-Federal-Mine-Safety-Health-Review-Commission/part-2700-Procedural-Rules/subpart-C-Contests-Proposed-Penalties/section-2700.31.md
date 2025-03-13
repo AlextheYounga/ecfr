@@ -1,5 +1,7 @@
 ##### § 2700.31 Penalty settlement. #####
 
+Link to an amendment published at 90 FR 5621, Jan. 17, 2025.
+
 (a) *General.* A proposed penalty that has been contested before the Commission may be settled only with the approval of the Commission upon motion. In all penalty proceedings, except for discrimination proceedings arising under section 105(c) of the Mine Act, 30 U.S.C. 815(c), a settlement motion must be accompanied by a proposed order approving settlement. In discrimination proceedings, a party shall file a motion to approve settlement that includes the factual support described in paragraph (b)(1) of this section, and that shall be filed and served in accordance with the provisions of 29 CFR 2700.5 and 2700.7, respectively. In discrimination proceedings, a party need not file a proposed order.
 
 (b) *Content of motion*—(1) *Factual support.* A motion to approve a penalty settlement shall include for each violation the amount of the penalty proposed by the Secretary, the amount of the penalty agreed to in settlement, and facts in support of the penalty agreed to by the parties. Rather than setting forth such information in detail, the motion may incorporate by reference the information which has been included in the accompanying proposed order as required by paragraph (c)(1) of this section.

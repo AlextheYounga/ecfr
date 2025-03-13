@@ -1,10 +1,8 @@
 ##### 52.222-19 Child Labor—Cooperation with Authorities and Remedies. #####
 
-Link to an amendment published at 90 FR 517, Jan. 3, 2025.
-
 As prescribed in 22.1505(b), insert the following clause:
 
-Child Labor—Cooperation With Authorities and Remedies (FEB 2024)
+Child Labor—Cooperation With Authorities and Remedies (JAN 2025)
 
 (a) *Applicability.* This clause does not apply to the extent that the Contractor is supplying end products mined, produced, or manufactured in—
 
@@ -28,8 +26,8 @@ Child Labor—Cooperation With Authorities and Remedies (FEB 2024)
 
 (d) *Remedies.* (1) The Contracting Officer may terminate the contract.
 
-(2) The suspending official may suspend the Contractor in accordance with procedures in FAR Subpart 9.4.
+(2) The suspending and debarring official may suspend the Contractor in accordance with procedures in FAR subpart 9.4.
 
-(3) The debarring official may debar the Contractor for a period not to exceed 3 years in accordance with the procedures in FAR Subpart 9.4.
+(3) The suspending and debarring official may debar the Contractor for a period not to exceed 3 years in accordance with the procedures in FAR subpart 9.4.
 
 (End of clause)[66 FR 5349, Jan. 18, 2001]Editorial Note:For Federal Register citations affecting section 52.222-19, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

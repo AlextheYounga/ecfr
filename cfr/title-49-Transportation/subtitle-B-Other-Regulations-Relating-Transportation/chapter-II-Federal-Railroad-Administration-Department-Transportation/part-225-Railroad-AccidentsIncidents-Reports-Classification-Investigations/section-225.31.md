@@ -52,4 +52,4 @@
 
 (6) *Whistleblower protections.* Nothing in this paragraph may be construed to reduce in any way the protections afforded to individuals who exercise the conduct protected by 49 CFR 225.33, *Internal Control Plans,* and 49 United States Code (U.S.C.) § 20109, *Federal Railroad Safety Act, Whistleblower Protections.*
 
-[39 FR 43224, Dec. 11, 1974, as amended at 61 FR 30971, June 18, 1996; 89 FR 79776, Oct. 1, 2024]
+[39 FR 43224, Dec. 11, 1974, as amended at 61 FR 30971, June 18, 1996; 89 FR 79776, Oct. 1, 2024]Editorial Note:At 90 FR 5742, Jan. 17, 2025, § 225.31 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

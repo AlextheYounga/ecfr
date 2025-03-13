@@ -1,3 +1,3 @@
-##### § 402.110 Exemptions eight and nine for withholding records: Records on financial institutions; records on wells. #####
+##### § 402.110 U.S. District Court action. #####
 
-Exemption eight permits us to withhold records about regulation or supervision of financial institutions. Exemption nine permits the withholding of geological and geophysical information and data, including maps, concerning wells.
+If the Executive Director for OPD or the Executive Director for OPD's designee, upon review, affirms the denial of the FOIA Officer's determination of items specified in § 402.50(a), requesters may ask a U.S. District Court to review that denial. See 5 U.S.C. 552(a)(4)(B).

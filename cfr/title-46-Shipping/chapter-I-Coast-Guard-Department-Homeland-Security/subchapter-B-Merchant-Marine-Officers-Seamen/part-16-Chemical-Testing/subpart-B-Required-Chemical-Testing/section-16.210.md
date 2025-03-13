@@ -1,8 +1,8 @@
 ##### § 16.210 Pre-employment testing requirements. #####
 
-(a) No marine employer shall engage or employ any individual to serve as a crewmember unless the individual passes a chemical test for dangerous drugs for that employer.
+(a) No marine employer may engage or employ any individual to serve as a crewmember unless the individual passes a chemical test for dangerous drugs for that employer.
 
-(b) An employer may waive a pre-employment test required for a job applicant by paragraph (a) of this section if the individual provides satisfactory evidence that he or she has:
+(b) An employer may waive a pre-employment test required for a job applicant by paragraph (a) of this section if the individual provides satisfactory evidence that they have:
 
 (1) Passed a chemical test for dangerous drugs, required by this part, within the previous six months with no subsequent positive drug tests during the remainder of the six-month period; or
 

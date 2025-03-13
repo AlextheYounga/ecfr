@@ -1,24 +1,24 @@
-##### § 12.401 General requirements for able seaman (A/B) endorsements. #####
+##### § 12.401 General requirements for Able Seafarer endorsements. #####
 
-Link to an amendment published at 89 FR 93099, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
+Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
-(a) *General.* An A/B is any person below officer and above ordinary seaman who holds a merchant mariner credential (MMC) or merchant mariner document (MMD) endorsed as A/B by the Coast Guard.
+(a) *General.* An Able Seafarer is any person below officer and above Ordinary Seafarer who holds a Merchant Mariner Credential (MMC) endorsed as Able Seafarer by the Coast Guard.
 
-(b) *Categories.* The following categories of able seaman endorsements are established:
+(b) *Categories.* The following categories of Able Seafarer endorsements are established:
 
-(1) Able seaman—unlimited.
+(1) Able Seafarer-Unlimited.
 
-(2) Able seaman—limited.
+(2) Able Seafarer-Limited.
 
-(3) Able seaman—special.
+(3) Able Seafarer-Special.
 
-(4) Able seaman—offshore supply vessels.
+(4) Able Seafarer-OSV.
 
-(5) Able seaman-sail.
+(5) Able Seafarer-Sail.
 
-(6) Able seaman-fishing industry.
+(6) Able Seafarer-Fishing Industry.
 
-(c) *Requirements for certification.* To qualify for an endorsement as able seaman, an applicant must—
+(c) *Requirements for certification.* To qualify for an endorsement as Able Seafarer, an applicant must—
 
 (1) Be at least 18 years of age;
 
@@ -28,18 +28,20 @@ Link to an amendment published at 89 FR 93099, Nov. 25, 2024.Link to an amendmen
 
 (4) Meet the sea service or training requirements set forth in this part;
 
-(5) Pass an examination for able seaman;
+(5) Pass an examination for Able Seafarer;
 
-(6) Qualify for an endorsement as lifeboatman or lifeboatman-limited; and
+(6) Qualify for an endorsement as Lifeboat Operator or Lifeboat Operator-Limited; and
 
-(7) Speak and understand the English language as would be required in performing the general duties of able seaman and during an emergency aboard ship.
+(7) Speak and understand the English language as would be required in performing the general duties of Able Seafarer and during an emergency aboard ship.
 
-(d) *Additional requirements.* (1) The holder of an MMC or MMD endorsed for the rating of A/B may serve in any rating in the deck department without obtaining an additional endorsement, provided—
+(d) *Additional requirements.* (1) The holder of an MMC or MMD endorsed for the rating of Able Seafarer may serve in any rating in the deck department without obtaining an additional endorsement, provided—
 
-(i) That the holder possesses the appropriate A/B endorsement for the service of the vessel; and
+(i) That the holder possesses the appropriate Able Seafarer endorsement for the service of the vessel; and
 
-(ii) That the holder possesses the appropriate STCW endorsement when serving as an able seafarer-deck or Ratings forming part of the navigational watch on a seagoing ship.
+(ii) That the holder possesses the appropriate STCW endorsement when serving as an Able Seafarer-Deck or Ratings Forming Part of the Navigational Watch (RFPNW) on a seagoing ship.
 
-(2) After March 24, 2014, any MMC endorsed as A/B will also be endorsed as lifeboatman or lifeboatman-limited, as appropriate.
+(2) Any MMC endorsed as Able Seafarer will also be endorsed as Lifeboat Operator or Lifeboat Operator-Limited, as appropriate.
 
-(3) The A/B endorsement will clearly describe the type of rating that it represents (see paragraph (a) of this section).
+(3) The Able Seafarer endorsement will clearly describe the type of rating that it represents (see paragraph (a) of this section).
+
+[USCG-2004-17914, 78 FR 77975, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93099, Nov. 25, 2024]

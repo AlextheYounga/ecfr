@@ -1,10 +1,8 @@
 ##### 52.219-9 Small Business Subcontracting Plan. #####
 
-Link to an amendment published at 90 FR 526, Jan. 3, 2025.
-
 As prescribed in 19.708(b), insert the following clause:
 
-Small Business Subcontracting Plan (SEP 2023)
+Small Business Subcontracting Plan (JAN 2025)
 
 (a) This clause does not apply to small business concerns.
 
@@ -36,9 +34,9 @@ Small Business Subcontracting Plan (SEP 2023)
 
 (c)(1) The Offeror, upon request by the Contracting Officer, shall submit and negotiate a subcontracting plan, where applicable, that separately addresses subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. If the Offeror is submitting an individual subcontracting plan, the plan must separately address subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns, with a separate part for the basic contract and separate parts for each option (if any). The subcontracting plan shall be included in and made a part of the resultant contract. The subcontracting plan shall be negotiated within the time specified by the Contracting Officer. Failure to submit and negotiate the subcontracting plan shall make the Offeror ineligible for award of a contract.
 
-(2)(i) The Contractor may accept a subcontractor's written representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business if the subcontractor represents that the size and socioeconomic status representations with its offer are current, accurate, and complete as of the date of the offer for the subcontract.
+(2)(i) Unless the Contractor has reason to question the representations, it may accept a subcontractor's written representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business if the subcontractor represents that the size and socioeconomic status representations with its offer are current, accurate, and complete as of the date of the offer for the subcontract.
 
-(ii) The Contractor may accept a subcontractor's representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business in the System for Award Management (SAM) if—
+(ii) Unless the Contractor has reason to question the representations, it may accept a subcontractor's representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business in the System for Award Management (SAM) if—
 
 (A) The subcontractor is registered in SAM; and
 
@@ -50,7 +48,7 @@ Small Business Subcontracting Plan (SEP 2023)
 
 (d) The Offeror's subcontracting plan shall include the following:
 
-(1) Separate goals, expressed in terms of total dollars subcontracted, and as a percentage of total planned subcontracting dollars, for the use of small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns as subcontractors. For individual subcontracting plans, and if required by the Contracting Officer, goals shall also be expressed in terms of percentage of total contract dollars, in addition to the goals expressed as a percentage of total subcontract dollars. The Offeror shall include all subcontracts that contribute to contract performance, and may include a proportionate share of products and services that are normally allocated as indirect costs. In accordance with 43 U.S.C. 1626—
+(1) Separate goals, expressed in terms of total dollars subcontracted, and as a percentage of total planned subcontracting dollars, for the use of small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns as subcontractors. For individual subcontracting plans, and if required by the Contracting Officer, goals shall also be expressed in terms of percentage of total contract dollars, in addition to the goals expressed as a percentage of total subcontract dollars. The Offeror shall include all subcontracts that contribute to contract performance, and may include a proportionate share of products and services that are normally allocated as indirect costs. In accordance with 15 U.S.C. 657r(a), an Offeror that is a mentor with an SBA-approved mentor-protégé agreement (see 13 CFR 125.9) that provides a subcontract to its protégé may apply the costs incurred for training it provides to its protégé toward its subcontracting plan goals, provided that protégé is a covered territory business or that protégé has its principal office located in the Commonwealth of Puerto Rico. In accordance with 43 U.S.C. 1626—
 
 (i) Subcontracts awarded to an ANC or Indian tribe shall be counted towards the subcontracting goals for small business and small disadvantaged business concerns, regardless of the size or Small Business Administration certification status of the ANC or Indian tribe; and
 
@@ -116,13 +114,13 @@ Small Business Subcontracting Plan (SEP 2023)
 
 (8) A description of the efforts the Offeror will make to assure that small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns have an equitable opportunity to compete for subcontracts.
 
-(9) Assurances that the Offeror will include the clause of this contract entitled “Utilization of Small Business Concerns” in all subcontracts that offer further subcontracting opportunities, and that the Offeror will require all subcontractors (except small business concerns) that receive subcontracts in excess of the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, with further subcontracting possibilities to adopt a subcontracting plan that complies with the requirements of this clause.
+(9) Assurances that the Offeror will include the clause of this contract entitled “Utilization of Small Business Concerns” in all subcontracts that offer further subcontracting opportunities, and that the Offeror will require all subcontractors (except small business concerns, including entities that are treated as small business concerns by statute for certain purposes (*e.g.,* ANCs, see 13 CFR 125.3(b)(2))) that receive subcontracts in excess of the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, with further subcontracting possibilities to adopt a subcontracting plan that complies with the requirements of this clause.
 
 (10) Assurances that the Offeror will—
 
 (i) Cooperate in any studies or surveys as may be required;
 
-(ii) Submit periodic reports so that the Government can determine the extent of compliance by the Offeror with the subcontracting plan;
+(ii) Submit periodic reports so that the Government can determine the extent of compliance by the Contractor with the subcontracting plan;
 
 (iii) After November 30, 2017, include subcontracting data for each order when reporting subcontracting achievements for indefinite-delivery, indefinite-quantity contracts with individual subcontracting plans where the contract is intended for use by multiple agencies;
 
@@ -184,7 +182,7 @@ Small Business Subcontracting Plan (SEP 2023)
 
 (14) Assurances that the Contractor will not prohibit a subcontractor from discussing with the Contracting Officer any material matter pertaining to payment to or utilization of a subcontractor.
 
-(15) Assurances that the offeror will pay its small business subcontractors on time and in accordance with the terms and conditions of the underlying subcontract, and notify the contracting officer when the prime contractor makes either a reduced or an untimely payment to a small business subcontractor (see 52.242-5).
+(15) Assurances that the Contractor will pay its small business subcontractors on time and in accordance with the terms and conditions of the underlying subcontract, and notify the contracting officer when the prime contractor makes either a reduced or an untimely payment to a small business subcontractor (see 52.242-5).
 
 (e) In order to effectively implement this plan to the extent consistent with efficient contract performance, the Contractor shall perform the following functions:
 
@@ -272,13 +270,13 @@ Small Business Subcontracting Plan (SEP 2023)
 
 (c)(1) Proposals submitted in response to this solicitation shall include a subcontracting plan that separately addresses subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. If the Offeror is submitting an individual subcontracting plan, the plan must separately address subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns, with a separate part for the basic contract and separate parts for each option (if any). The plan shall be included in and made a part of the resultant contract. The subcontracting plan shall be negotiated within the time specified by the Contracting Officer. Failure to submit and negotiate a subcontracting plan shall make the Offeror ineligible for award of a contract.
 
-*Alternate III* (JUN 2020). As prescribed in 19.708(b)(1)(iii), substitute the following paragraphs (d)(10) and (l) for paragraphs (d)(10) and (l) in the basic clause:
+*Alternate III* (JAN 2025). As prescribed in 19.708(b)(1)(iii), substitute the following paragraphs (d)(10) and (l) for paragraphs (d)(10) and (l) in the basic clause:
 
 (d)(10) Assurances that the Offeror will—
 
 (i) Cooperate in any studies or surveys as may be required;
 
-(ii) Submit periodic reports so that the Government can determine the extent of compliance by the Offeror with the subcontracting plan;
+(ii) Submit periodic reports so that the Government can determine the extent of compliance by the Contractor with the subcontracting plan;
 
 (iii) Submit Standard Form (SF) 294 Subcontracting Report for Individual Contract in accordance with paragraph (l) of this clause. Submit the Summary Subcontract Report (SSR), in accordance with paragraph (l) of this clause using the Electronic Subcontracting Reporting System (eSRS) at *http://www.esrs.gov.* The reports shall provide information on subcontract awards to small business concerns (including ANCs and Indian tribes that are not small businesses), veteran-owned small business concerns, service-disabled veteran-owned small business concerns, HUBZone small business concerns, small disadvantaged business concerns (including ANCs and Indian tribes that have not been certified by the Small Business Administration as small disadvantaged businesses), women-owned small business concerns, and for NASA only, Historically Black Colleges and Universities and Minority Institutions. Reporting shall be in accordance with this clause, or as provided in agency regulations; and
 
@@ -320,13 +318,13 @@ Small Business Subcontracting Plan (SEP 2023)
 
 (D) The authority to acknowledge or reject SSRs for commercial plans resides with the Contracting Officer who approved the commercial plan.
 
-*Alternate IV* (SEP 2023). As prescribed in 19.708(b)(1)(iv), substitute the following paragraphs (c) and (d) for paragraphs (c) and (d) of the basic clause:
+*Alternate IV* (JAN 2025). As prescribed in 19.708(b)(1)(iv), substitute the following paragraphs (c) and (d) for paragraphs (c) and (d) of the basic clause:
 
 (c)(1) The Contractor, upon request by the Contracting Officer, shall submit and negotiate a subcontracting plan, where applicable, that separately addresses subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. If the Contractor is submitting an individual subcontracting plan, the plan shall separately address subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns, with a separate part for the basic contract and separate parts for each option (if any). The subcontracting plan shall be incorporated into the contract. The subcontracting plan shall be negotiated within the time specified by the Contracting Officer. The subcontracting plan does not apply retroactively.
 
-(2)(i) The prime Contractor may accept a subcontractor's written representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business if the subcontractor represents that the size and socioeconomic status representations with its offer are current, accurate, and complete as of the date of the offer for the subcontract.
+(2)(i) Unless the Contractor has reason to question the representations, it may accept a subcontractor's written representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business if the subcontractor represents that the size and socioeconomic status representations with its offer are current, accurate, and complete as of the date of the offer for the subcontract.
 
-(ii) The Contractor may accept a subcontractor's representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business in the System for Award Management (SAM) if—
+(ii) Unless the Contractor has reason to question the representations, it may accept a subcontractor's representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business in the System for Award Management (SAM) if—
 
 (A) The subcontractor is registered in SAM; and
 
@@ -338,7 +336,7 @@ Small Business Subcontracting Plan (SEP 2023)
 
 (d) The Contractor's subcontracting plan shall include the following:
 
-(1) Separate goals, expressed in terms of total dollars subcontracted and as a percentage of total planned subcontracting dollars, for the use of small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns as subcontractors. For individual subcontracting plans, and if required by the Contracting Officer, goals shall also be expressed in terms of percentage of total contract dollars, in addition to the goals expressed as a percentage of total subcontract dollars. The Contractor shall include all subcontracts that contribute to contract performance, and may include a proportionate share of products and services that are normally allocated as indirect costs. In accordance with 43 U.S.C. 1626—
+(1) Separate goals, expressed in terms of total dollars subcontracted and as a percentage of total planned subcontracting dollars, for the use of small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns as subcontractors. For individual subcontracting plans, and if required by the Contracting Officer, goals shall also be expressed in terms of percentage of total contract dollars, in addition to the goals expressed as a percentage of total subcontract dollars. The Contractor shall include all subcontracts that contribute to contract performance, and may include a proportionate share of products and services that are normally allocated as indirect costs. In accordance with 15 U.S.C. 657r(a), a Contractor that is a mentor with an SBA-approved mentor-protégé agreement (see 13 CFR 125.9) that provides a subcontract to its protégé may apply the costs incurred for training it provides to its protégé toward its subcontracting plan goals, provided that protégé is a covered territory business or that protégé has its principal office located in the Commonwealth of Puerto Rico. In accordance with 43 U.S.C. 1626—
 
 (i) Subcontracts awarded to an ANC or Indian tribe shall be counted towards the subcontracting goals for small business and small disadvantaged business concerns, regardless of the size or Small Business Administration certification status of the ANC or Indian tribe; and
 
@@ -404,7 +402,7 @@ Small Business Subcontracting Plan (SEP 2023)
 
 (8) A description of the efforts the Contractor will make to assure that small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns have an equitable opportunity to compete for subcontracts.
 
-(9) Assurances that the Contractor will include the clause of this contract entitled “Utilization of Small Business Concerns” in all subcontracts that offer further subcontracting opportunities, and that the Contractor will require all subcontractors (except small business concerns) that receive subcontracts in excess of the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, with further subcontracting possibilities to adopt a subcontracting plan that complies with the requirements of this clause.
+(9) Assurances that the Contractor will include the clause of this contract entitled “Utilization of Small Business Concerns” in all subcontracts that offer further subcontracting opportunities, and that the Contractor will require all subcontractors (except small business concerns, including entities that are treated as small business concerns by statute for certain purposes (*e.g.,* ANCs, see 13 CFR 125.3(b)(2))) that receive subcontracts in excess of the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, with further subcontracting possibilities to adopt a subcontracting plan that complies with the requirements of this clause.
 
 (10) Assurances that the Contractor will—
 
@@ -472,6 +470,6 @@ Small Business Subcontracting Plan (SEP 2023)
 
 (14) Assurances that the Contractor will not prohibit a subcontractor from discussing with the contracting officer any material matter pertaining to the payment to or utilization of a subcontractor.
 
-(15) Assurances that the offeror will pay its small business subcontractors on time and in accordance with the terms and conditions of the underlying subcontract, and notify the contracting officer when the prime contractor makes either a reduced or an untimely payment to a small business subcontractor (see 52.242-5).
+(15) Assurances that the Contractor will pay its small business subcontractors on time and in accordance with the terms and conditions of the underlying subcontract, and notify the contracting officer when the prime contractor makes either a reduced or an untimely payment to a small business subcontractor (see 52.242-5).
 
 [48 FR 42478, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 52.219-9, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

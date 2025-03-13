@@ -40,11 +40,11 @@ Note 2 to paragraph (a):
 
 Note 3 to paragraph (a):
 
-The authorization in this paragraph extends to adjunct faculty and part-time staff of U.S. academic institutions. A student enrolled in a U.S. academic institution is authorized pursuant to paragraph (a)(1) of this section to participate in the academic activities in Cuba described above through any sponsoring U.S. academic institution.
+ The authorization in this paragraph extends to adjunct faculty and part-time staff of U.S. academic institutions. A student enrolled in a U.S. academic institution is authorized pursuant to paragraph (a)(1) of this section to participate in the academic activities in Cuba described above through any sponsoring U.S. academic institution.
 
 Note 4 to paragraph (a):
 
-The export or reexport to Cuba of items subject to the Export Administration Regulations (15 CFR parts 730 through 774) may require separate authorization from the Department of Commerce.
+ The export or reexport to Cuba of items subject to the Export Administration Regulations (15 CFR parts 730 through 774) may require separate authorization from the Department of Commerce.
 
 Note 5 to paragraph (a):
 
@@ -66,11 +66,11 @@ Note 5 to paragraph (a):
 
 Example 1 to paragraph (b): An organization wishes to sponsor and organize educational exchanges not involving academic study pursuant to a degree program for individuals to learn side-by-side with Cuban individuals in areas such as environmental protection or the arts. The travelers will have a full-time schedule of educational exchange activities that will result in meaningful interaction between the travelers and individuals in Cuba. The organization's activities qualify for the general license.Example 2 to paragraph (b): An individual plans to travel to Cuba to participate in discussions with Cuban artists on community projects, exchanges with the founders of a youth arts program, and extended dialogue with local city planners and architects to learn about historical restoration projects in Old Havana. The individual traveler will have a full-time schedule of such educational exchange activities that result in meaningful interaction between the traveler and individuals in Cuba. The individual's activities do not qualify for the general license for people-to-people travel because the individual is not traveling under the auspices of an organization that is a person subject to U.S. jurisdiction and that sponsors such exchanges to promote people-to-people contact. The individual's travel may qualify for the general license in § 515.574 (Support for the Cuban People) provided the individual meets all of its requirements.Note 6 to paragraph (b):
 
-An organization that sponsors and organizes trips to Cuba in which travelers engage in individually selected and/or self-directed activities would not qualify for the general license. Authorized trips are expected to be led by the organization and to have a full-time schedule of activities in which the travelers will participate.
+ An organization that sponsors and organizes trips to Cuba in which travelers engage in individually selected and/or self-directed activities would not qualify for the general license. Authorized trips are expected to be led by the organization and to have a full-time schedule of activities in which the travelers will participate.
 
 Note 7 to paragraphs (a) and (b):
 
-Except as provided in paragraph (b)(6) of this section, each person relying on the general authorizations in these paragraphs, including entities sponsoring travel pursuant to the authorization in paragraph (b) of this section, must retain specific records related to the authorized travel transactions. *See* §§ 501.601 and 501.602 of this chapter for applicable recordkeeping and reporting requirements.
+ Except as provided in paragraph (b)(6) of this section, each person relying on the general authorizations in these paragraphs, including entities sponsoring travel pursuant to the authorization in paragraph (b) of this section, must retain specific records related to the authorized travel transactions. *See* §§ 501.601 and 501.602 of this chapter for applicable recordkeeping and reporting requirements.
 
 (c) *Certain direct financial transactions restricted.* Nothing in paragraph (a) or (b) of this section authorizes a direct financial transaction prohibited by § 515.209.
 

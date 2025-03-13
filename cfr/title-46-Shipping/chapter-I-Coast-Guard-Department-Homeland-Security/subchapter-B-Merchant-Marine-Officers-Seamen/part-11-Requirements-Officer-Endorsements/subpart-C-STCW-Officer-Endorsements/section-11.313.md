@@ -1,8 +1,6 @@
-##### § 11.313 Requirements to qualify for an STCW endorsement as chief mate of vessels of 500 GT or more and less than 3,000 GT (management level). #####
+##### § 11.313 Requirements to qualify for an STCW endorsement as Chief Mate of vessels of 500 GT or more and less than 3,000 GT (management level). #####
 
-Link to an amendment published at 89 FR 93072, Nov. 25, 2024.
-
-(a) To qualify for an STCW endorsement as chief mate, an applicant must—
+(a) To qualify for an STCW endorsement as Chief Mate, an applicant must—
 
 (1) Provide evidence of 12 months of service as OICNW on vessels operating in oceans, near-coastal waters, and/or Great Lakes. Service on inland waters, bays, or sounds that are navigable waters of the United States may be substituted for up to 50 percent of the total required service. Experience gained in the engine department on vessels may be creditable for up to 1 month of the service requirements;
 
@@ -28,7 +26,7 @@ Link to an amendment published at 89 FR 93072, Nov. 25, 2024.
 
 (ix) GMDSS, if serving on a vessel with this equipment.
 
-(b) For a renewal of an STCW endorsement as chief mate of vessels of 500 GT or more and less than 3,000 GT to be valid on or after January 1, 2017, each candidate must provide evidence of successful completion of approved training in the following:
+(b) For a renewal of an STCW endorsement as Chief Mate of vessels of 500 GT or more and less than 3,000 GT to be valid on or after January 1, 2017, each candidate must provide evidence of successful completion of approved training in the following:
 
 (1) Leadership and managerial skills.
 
@@ -38,13 +36,13 @@ Link to an amendment published at 89 FR 93072, Nov. 25, 2024.
 
 (d) Seafarers with one of the following national officer endorsements are eligible to apply for this endorsement upon completion of the requirements in the following table:
 
-|                                                   Entry path from national endorsements                                                    |Sea service under authority of the endorsement <sup>1</sup>|Competence—STCW Table A-II/2 <sup>2</sup>|Training required by this  <br/>section <sup>3</sup>|
-|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------|----------------------------------------------------|
-|                                                               Chief mate OSV                                                               |                           None                            |                   Yes                   |                        Yes.                        |
-|                                              Master oceans or near-coastal, less than 500 GRT                                              |                         6 months                          |                   Yes                   |                        Yes.                        |
-|                                                Master towing vessel oceans or near-coastal                                                 |                         6 months                          |                   Yes                   |                        Yes.                        |
-|<sup>1</sup> This column provides the minimum additional service required of the seafarer in order to meet the requirements of this section.|                                                           |                                         |                                                    |
-|                       <sup>2</sup> Complete any items in paragraph (a)(2) of this section not previously satisfied.                        |                                                           |                                         |                                                    |
-|                       <sup>3</sup> Complete any items in paragraph (a)(3) of this section not previously satisfied.                        |                                                           |                                         |                                                    |
+|                                                   Entry path from national endorsements                                                    |Sea service under authority  <br/>of the endorsement <sup>1</sup>|Competence—STCW Table A-II/2 <sup>2</sup>|Training required by this  <br/>section <sup>3</sup>|
+|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------|----------------------------------------------------|
+|                                                               Chief Mate OSV                                                               |                              None                               |                   Yes                   |                        Yes.                        |
+|                                              Master oceans or near-coastal, less than 500 GRT                                              |                            6 months                             |                   Yes                   |                        Yes.                        |
+|                                              Master of Towing Vessels oceans or near-coastal                                               |                            6 months                             |                   Yes                   |                        Yes.                        |
+|<sup>1</sup> This column provides the minimum additional service required of the seafarer in order to meet the requirements of this section.|                                                                 |                                         |                                                    |
+|                       <sup>2</sup> Complete any items in paragraph (a)(2) of this section not previously satisfied.                        |                                                                 |                                         |                                                    |
+|                       <sup>3</sup> Complete any items in paragraph (a)(3) of this section not previously satisfied.                        |                                                                 |                                         |                                                    |
 
-[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58276, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019]
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58276, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019; USCG-2021-0097, 89 FR 93072, Nov. 25, 2024]

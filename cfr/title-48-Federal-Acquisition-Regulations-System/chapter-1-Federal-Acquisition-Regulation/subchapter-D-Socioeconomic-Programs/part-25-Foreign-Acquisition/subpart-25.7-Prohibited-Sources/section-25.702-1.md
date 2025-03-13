@@ -1,7 +1,5 @@
 ##### 25.702-1 Definitions. #####
 
-Link to an amendment published at 90 FR 516, Jan. 3, 2025.
-
 As used in this section—
 
 *Appropriate Congressional committees* means—

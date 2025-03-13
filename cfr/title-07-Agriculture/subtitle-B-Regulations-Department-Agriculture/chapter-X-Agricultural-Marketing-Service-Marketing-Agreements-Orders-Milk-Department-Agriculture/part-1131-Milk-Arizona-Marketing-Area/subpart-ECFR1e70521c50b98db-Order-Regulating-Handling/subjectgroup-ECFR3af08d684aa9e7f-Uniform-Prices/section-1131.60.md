@@ -1,5 +1,7 @@
 ##### § 1131.60 Handler's value of milk. #####
 
+Link to an amendment published at 90 FR 6652, Jan. 17, 2025.
+
 For the purpose of computing a handler's obligation for producer milk, the market administrator shall determine for each month the value of milk of each handler with respect to each of the handler's pool plants and of each handler described in § 1000.9(c) with respect to milk that was not received at a pool plant by adding the amounts computed in paragraphs (a) through (e) of this section and subtracting from that total amount the value computed in paragraph (f) of this section. Receipts of nonfluid milk products that are distributed as labeled reconstituted milk for which payments are made to the producer-settlement fund of another Federal order under § 1000.76(a)(4) or (d) shall be excluded from pricing under this section.
 
 (a) Multiply the pounds of skim milk and butterfat in producer milk that were classified in each class pursuant to § 1000.44(c) by the applicable skim milk and butterfat prices, and add the resulting amounts;

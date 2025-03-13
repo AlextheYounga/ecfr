@@ -30,4 +30,4 @@
 |<sup>1</sup> For a new liferaft or inflatable buoyant apparatus, the first annual servicing may be deferred to two years from the date of first packing if so indicated on the servicing sticker.|        |                                      |                |
 |                                                         <sup>2</sup> Water activated batteries must be replaced whenever they are used.                                                         |        |                                      |                |
 
-[CGD 88-079, 56 FR 40393, Aug. 14, 1991; 56 FR 49822, Oct. 1, 1991, as amended at USCG-2001-11118, 67 FR 58540, Sept. 17, 2002; USCG-2004-18884, 69 FR 58344, Sept. 30, 2004]
+[CGD 88-079, 56 FR 40393, Aug. 14, 1991; 56 FR 49822, Oct. 1, 1991, as amended by USCG-2001-11118, 67 FR 58540, Sept. 17, 2002; USCG-2004-18884, 69 FR 58344, Sept. 30, 2004]

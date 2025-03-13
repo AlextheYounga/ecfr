@@ -4,7 +4,7 @@
 
 (2) *Accepting bids at the high yield, discount rate, or discount margin.* Generally, the total amount of bids at the highest accepted yield, discount rate, or discount margin exceeds the offering amount remaining after we accept the noncompetitive bids and the competitive bids at the lower yields, discount rates, or discount margins. In order to keep the total amount of awards as close as possible to the announced offering amount, we award a percentage of the bids at the highest accepted yield, discount rate, or discount margin. We derive the percentage by dividing the remaining par amount needed to fill the offering amount by the par amount of the bids at the high yield, discount rate, or discount margin and rounding up to the next hundredth of a whole percentage point, for example, 17.13%.
 
-(b) *Determining the interest rate for new non-indexed and inflation-protected note and bond issues.* If a Treasury non-indexed or inflation-protected note or bond auction results in a yield lower than 0.125 percent, the interest rate will be set at1/8 of one percent, and successful bidders' award prices will be calculated accordingly. (*See* appendix B to this part for formulas.)
+(b) *Determining the interest rate for new non-indexed and inflation-protected note and bond issues.* If a Treasury non-indexed or inflation-protected note or bond auction results in a yield lower than 0.125 percent, the interest rate will be set at 1/8 of one percent, and successful bidders' award prices will be calculated accordingly. (*See* appendix B to this part for formulas.)
 
 (1) *Single-price auctions.* The interest rate we establish produces the price closest to, but not above, par when evaluated at the yield of awards to successful competitive bidders.
 

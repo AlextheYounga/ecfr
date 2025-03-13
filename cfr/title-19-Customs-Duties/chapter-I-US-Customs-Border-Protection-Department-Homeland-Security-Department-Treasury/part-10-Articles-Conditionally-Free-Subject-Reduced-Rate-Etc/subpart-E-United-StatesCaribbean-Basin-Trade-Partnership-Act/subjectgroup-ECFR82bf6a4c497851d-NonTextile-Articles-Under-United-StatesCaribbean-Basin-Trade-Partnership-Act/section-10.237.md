@@ -1,5 +1,7 @@
 ##### § 10.237 Verification and justification of claim for preferential tariff treatment. #####
 
+Link to an amendment published at 90 FR 6480, Jan. 17, 2025.
+
 (a) *Verification by Customs.* A claim for preferential tariff treatment made under § 10.235, including any statements or other information contained on a Certificate of Origin submitted to Customs under § 10.236, will be subject to whatever verification the Center director deems necessary. In the event that the Center director for any reason is prevented from verifying the claim, the Center director may deny the claim for preferential tariff treatment. A verification of a claim for preferential tariff treatment may involve, but need not be limited to, a review of:
 
 (1) All records required to be made, kept, and made available to Customs by the importer or any other person under part 163 of this chapter;

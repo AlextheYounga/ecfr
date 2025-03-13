@@ -1,21 +1,19 @@
-##### § 402.40 Publications for sale. #####
+##### § 402.40 Requests for deceased individual's records. #####
 
-The following publications containing information pertaining to the program, organization, functions, and procedures of the Social Security Administration may be purchased from the Superintendent of Documents, Government Printing Office, Washington, DC 20402:
+(a) The agency will disclose the records concerning a deceased individual when we have acceptable proof of death unless Federal law or regulations prohibits the disclosure.
 
-(a) Title 20, parts 400-499 of the Code of Federal Regulations.
+(b) Proof of death includes:
 
-(b) Federal Register issues.
+(1) A copy of a public record of death of the number holder;
 
-(c) Compilation of the Social Security Laws.
+(2) A statement of death by the funeral home director;
 
-(d) Social Security Rulings.
+(3) A statement of death by the attending physician or the superintendent, physician, or intern of the institution where the person died;
 
-(e) Social Security Handbook. The information in the Handbook is not of precedent or interpretative force.
+(4) A copy of the coroner's report of death or the verdict of the coroner's jury;
 
-(f) Social Security Bulletin.
+(5) An obituary that we determine has sufficient identifying information; or
 
-(g) Social Security Acquiescence Rulings.
+(6) Other certified record of death that we determine within our discretion is acceptable.
 
-(h) SSA Publications on CD-ROM.
-
-[62 FR 4154, Jan. 29, 1997, as amended at 63 FR 35132, June 29, 1998]
+(c) If upon review of the provided proof of death, we cannot determine that the individual is deceased or we have questions about the authenticity of the proof, then the proof is not acceptable. When we do not have acceptable proof of death, we will treat the request in accordance with § 402.20(b), requests for information about a living person.

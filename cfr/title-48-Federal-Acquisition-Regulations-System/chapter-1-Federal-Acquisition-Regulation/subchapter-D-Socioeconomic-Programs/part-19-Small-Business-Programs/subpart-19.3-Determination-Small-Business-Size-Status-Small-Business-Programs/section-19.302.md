@@ -1,7 +1,5 @@
 ##### 19.302 Protesting a small business representation or rerepresentation. #####
 
-Link to an amendment published at 90 FR 522, Jan. 3, 2025.
-
 (a)(1) The SBA regulations on small business size and size protests are found at 13 CFR part 121.
 
 (2) An offeror, the contracting officer, SBA, or another interested party may protest the small business representation of an offeror in a specific offer for a contract. However, for competitive 8(a) contracts, the filing of a protest is limited to an offeror, the contracting officer, or SBA. See 13 CFR 121.1001(a).
@@ -80,6 +78,6 @@ Link to an amendment published at 90 FR 522, Jan. 3, 2025.
 
 (i) SBA will dismiss untimely protests. A protest that is not timely, even though received before award, shall be forwarded to the SBA Government Contracting Area Office (see paragraph (c)(1) of this section), with a notation on it that the protest is not timely. A protest received by a contracting officer after award of a contract shall be forwarded to the SBA Government Contracting Area Office with a notation that award has been made.
 
-(j) When a concern is found to be other than small under a protest concerning a size status rerepresentation made in accordance with the clause at 52.219-28, Post-Award Small Business Program Rerepresentation, a contracting officer may permit contract performance to continue, issue orders, or exercise option(s), because the contract remains a valid contract.
+(j) When a concern is found to be other than small under a protest concerning a size status rerepresentation made in accordance with the clause at 52.219-28, Postaward Small Business Program Rerepresentation, a contracting officer may permit contract performance to continue, issue orders, or exercise option(s), because the contract remains a valid contract.
 
-[48 FR 42240, Sept. 19, 1983, as amended at 50 FR 1743, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 51 FR 2664, Jan. 17, 1986; 60 FR 42656, Aug. 16, 1995; 61 FR 69289, Dec. 31, 1996; 62 FR 44820, Aug. 22, 1997; 62 FR 51270, Sept. 30, 1997; 63 FR 9053, 9055, Feb. 23, 1998; 63 FR 35722, June 30, 1998; 64 FR 32743, June 17, 1999; 67 FR 13054, Mar. 20, 2002; 72 FR 36855, July 5, 2007; 79 FR 43582, July 25, 2014; 81 FR 83099, Nov. 18, 2016; 85 FR 11760, Feb. 27, 2020; 89 FR 61336, July 30, 2024]
+[48 FR 42240, Sept. 19, 1983, as amended at 50 FR 1743, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 51 FR 2664, Jan. 17, 1986; 60 FR 42656, Aug. 16, 1995; 61 FR 69289, Dec. 31, 1996; 62 FR 44820, Aug. 22, 1997; 62 FR 51270, Sept. 30, 1997; 63 FR 9053, 9055, Feb. 23, 1998; 63 FR 35722, June 30, 1998; 64 FR 32743, June 17, 1999; 67 FR 13054, Mar. 20, 2002; 72 FR 36855, July 5, 2007; 79 FR 43582, July 25, 2014; 81 FR 83099, Nov. 18, 2016; 85 FR 11760, Feb. 27, 2020; 89 FR 61336, July 30, 2024; 90 FR 522, Jan. 3, 2025]

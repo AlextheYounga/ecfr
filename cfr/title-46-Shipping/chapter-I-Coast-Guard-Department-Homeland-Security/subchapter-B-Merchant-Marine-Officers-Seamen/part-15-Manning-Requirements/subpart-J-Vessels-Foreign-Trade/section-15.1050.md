@@ -6,6 +6,6 @@
 
 (2) The waters of the Northeast Cape Fear River from its confluence with the Cape Fear River at Point Peter to Latitude 34°17′ N.
 
-(b) This subpart does not apply to any vessel on the waters specified in paragraph (a) of this section if the laws of the State of North Carolina require a State-licensed pilot on the vessel.
+(b) This subpart does not apply to any vessel on the waters specified in paragraph (a) of this section if the laws of the State of North Carolina require a State-licensed Pilot on the vessel.
 
 [CGD 97-073, 63 FR 57255, Oct. 27, 1998]

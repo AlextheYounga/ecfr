@@ -1,5 +1,7 @@
 ##### § 182.1 General definitions. #####
 
+Link to an amendment published at 90 FR 6483, Jan. 17, 2025.
+
 The definitions applicable to rules of origin are contained in Appendix A. This section sets forth the general definitions used throughout this part. As used in this part, the following terms will have the meanings indicated unless either the context in which they are used requires a different meaning or a different definition is prescribed for a particular section of this part:
 
 *Canada,* when used in a geographical rather than governmental context, means the “Territory” of Canada as defined in Appendix A to this part;

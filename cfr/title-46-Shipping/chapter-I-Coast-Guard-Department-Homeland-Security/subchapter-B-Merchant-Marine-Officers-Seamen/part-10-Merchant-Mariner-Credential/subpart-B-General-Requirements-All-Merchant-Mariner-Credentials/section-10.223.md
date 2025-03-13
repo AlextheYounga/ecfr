@@ -1,6 +1,6 @@
 ##### § 10.223 Modification or removal of limitations or scope. #####
 
-Link to an amendment published at 89 FR 93060, Nov. 25, 2024.Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
+Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 
 (a) If the Coast Guard is satisfied by the documentary evidence submitted that an applicant is entitled by experience, training, and knowledge to an endorsement or increase in the scope of any MMC held, any limitations that were previously placed upon the MMC by the Coast Guard may be changed or removed. Such an increase in scope may include a change in horsepower or tonnage limitations, or geographic route restrictions.
 
@@ -18,14 +18,14 @@ Link to an amendment published at 89 FR 93060, Nov. 25, 2024.Link to an amendmen
 
 (ii) The mandatory requirements for rating endorsements are contained in part 12 of this subchapter.
 
-(iii) The mandatory requirements for tankerman rating endorsements are contained in part 13 of this subchapter.
+(iii) The mandatory requirements for tank vessel endorsements are contained in part 13 of this subchapter.
 
 (iv) The mandatory requirements for STCW endorsements are contained in parts 11, 12, and 13 of this subchapter.
 
 (4) The appropriate fee as set forth in § 10.219 of this part; and
 
-(5) Any uncanceled MMD, MMC, license, STCW endorsement, or COR held by the applicant. If one or more of these credentials are still valid at the time of application, a photocopy, front and back of all pages, and all attachments, will satisfy this requirement. If the applicant submits a photocopy, upon the issuance of the new MMC, the applicant must surrender the old, original credential to the Coast Guard. If requested in writing at the time of submission, the old MMD, MMC, license, COR, or STCW endorsement may be returned to the applicant after cancellation.
+(5) Any uncanceled MMD, MMC, License, STCW endorsement, or COR held by the applicant. If one or more of these credentials are still valid at the time of application, a photocopy, front and back of all pages, and all attachments, will satisfy this requirement. If the applicant submits a photocopy, upon the issuance of the new MMC, the applicant must surrender the old, original credential to the Coast Guard. If requested in writing at the time of submission, the old MMD, MMC, License, COR, or STCW endorsement may be returned to the applicant after cancellation.
 
 (d) No limitation on any endorsement may be changed before the applicant has made up any deficiency in the experience prescribed for the endorsement or endorsement desired and passed any necessary examination.
 
-[USCG-2006-24371, 74 FR 11216, Mar. 16, 2009, as amended by USCG-2004-17914, 78 FR 77892, Dec. 24, 2013]
+[USCG-2006-24371, 74 FR 11216, Mar. 16, 2009, as amended by USCG-2004-17914, 78 FR 77892, Dec. 24, 2013; USCG-2021-0097, 89 FR 93060, Nov. 25, 2024]

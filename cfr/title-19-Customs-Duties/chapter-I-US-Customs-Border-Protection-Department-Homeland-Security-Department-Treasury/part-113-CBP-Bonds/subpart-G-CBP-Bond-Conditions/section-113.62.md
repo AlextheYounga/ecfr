@@ -1,5 +1,7 @@
 ##### § 113.62 Basic importation and entry bond conditions. #####
 
+Link to an amendment published at 90 FR 6481, Jan. 17, 2025.
+
 A bond for basic importation and entry must contain the conditions listed in this section and may be either a single transaction or a continuous bond.
 
 Basic Importation and Entry Bond Conditions

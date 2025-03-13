@@ -1,17 +1,25 @@
-##### § 402.105 Exemption seven for withholding records: Law enforcement. #####
+##### § 402.105 Appeals of the FOIA Officer's determination. #####
 
-We are not required to disclose information or records that the government has compiled for law enforcement purposes. The records may apply to actual or potential violations of either criminal or civil laws or regulations. We can withhold these records only to the extent that releasing them would cause harm in at least one of the following situations:
+(a) *Appeal requirements.* If a requester disagrees with the FOIA Officer's determination in response to items specified in § 402.50(a), the requester may appeal the decision. The appeal must meet the following requirements:
 
-(a) *Enforcement proceedings.* We may withhold information whose release could reasonably be expected to interfere with prospective or ongoing law enforcement proceedings. Investigations of fraud and mismanagement, employee misconduct, and civil rights violations may fall into this category. In certain cases—such as when a fraud investigation is likely—we may refuse to confirm or deny the existence of records that relate to the violations in order not to disclose that an investigation is in progress, or may be conducted.
+(1) Be submitted in writing via the avenues identified in § 402.35(a);
 
-(b) *Fair trial or impartial adjudication.* We may withhold records whose release would deprive a person of a fair trial or an impartial adjudication because of prejudicial publicity.
+(2) Be received, or in the case of electronic submissions, transmitted within 90 calendar days from the date of the determination the requester is appealing; and
 
-(c) *Personal privacy.* We are careful not to disclose information that could reasonably be expected to constitute an unwarranted invasion of personal privacy. When a name surfaces in an investigation, that person is likely to be vulnerable to innuendo, rumor, harassment, and retaliation.
+(3) Explain what the requester is appealing and include additional information to support the appeal. The appeal should clearly identify the agency determination that is being appealed and the assigned request's tracking number. To facilitate handling when submitted via mail or fax, the requester should mark the appeal letter, or subject line of the electronic transmission, “Freedom of Information Act Appeal.”
 
-(d) *Confidential sources and information.* We may withhold records whose release could reasonably be expected to disclose the identity of a confidential source of information. A confidential source may be an individual; a State, local, or foreign government agency; or any private organization. The exemption applies whether the source provides information under an express promise of confidentiality or under circumstances from which such an assurance could be reasonably inferred. Also, where the record, or information in it, has been compiled by a law enforcement authority conducting a criminal investigation, or by an agency conducting a lawful national security investigation, the exemption also protects all information supplied by a confidential source. Also protected from mandatory disclosure is any information which, if disclosed, could reasonably be expected to jeopardize the system of confidentiality that assures a flow of information from sources to investigatory agencies.
+(b) *Acknowledgement.* If we receive an appeal that will take longer than 10 working days to process, we will provide an acknowledgment. The acknowledgement is provided via email or, when the requester does not provide an email address, via U.S. postal mail. The acknowledgement email or letter restates the FOIA appeal and provides the requester with the appeal's tracking number.
 
-(e) *Techniques and procedures.* We may withhold records reflecting special techniques or procedures of investigation or prosecution, not otherwise generally known to the public. In some cases, it is not possible to describe even in general terms those techniques without disclosing the very material to be withheld. We may also withhold records whose release would disclose guidelines for law enforcement investigations or prosecutions if this disclosure could reasonably be expected to create a risk that someone could circumvent requirements of law or of regulation.
+(c) *Processing timeframe.* FOIA appeals are categorized as either simple or complex, based on the designation of the initial request.
 
-(f) *Life and physical safety.* We may withhold records whose disclosure could reasonably be expected to endanger the life or physical safety of any individual. This protection extends to threats and harassment as well as to physical violence.
+(1) *Simple.* Generally, we make a determination about release of the requested record(s) within 20-working days.
 
-[62 FR 4154, Jan. 29, 1997. Redesignated at 63 FR 35132, June 29, 1998]
+(2) *Complex.* Appeals of complex requests cannot be completed within 20-working days. During OPD's processing of the appeal, OPD will need to consult with appropriate SSA component(s), including legal counsel; therefore, we generally require more than 20-working days to issue a final decision on the appeal.
+
+(d) *Final decision.* The Chief FOIA Officer delegated to the Executive Director for OPD the authority to make decisions on appeals of the FOIA Officer's determinations.
+
+(1) The final decision is provided in writing to the requester via email or, in the absence of the requester's email address, via U.S. postal mail.
+
+(2) The final decision letter will explain the basis of the decision (for example, the reasons why an exemption applies).
+
+(e) *Disagreement with final decision.* If a requester disagrees with the final decision issued by the Executive Director for OPD, they may seek assistance from OGIS, as described in § 402.100. Requesters may also ask a U.S. District Court to review our final decision. See 5 U.S.C. 552(a)(4)(B).

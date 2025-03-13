@@ -1,5 +1,5 @@
 ##### § 35.20-5 Draft of tankships—T/OC. #####
 
-Link to an amendment published at 89 FR 93138, Nov. 25, 2024.
+The Master of every tankship must, whenever leaving port, enter the maximum draft of the vessel in the logbook.
 
-The master of every tankship shall, whenever leaving port, enter the maximum draft of his vessel in the logbook.
+[USCG-2021-0097, 89 FR 93138, Nov. 25, 2024]

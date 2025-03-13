@@ -1,12 +1,6 @@
 ##### § 120.842 ALP Express Loans. #####
 
-Link to an amendment published at 89 FR 102701, Dec. 18, 2024.
-
-(a) *Definition.* For the purposes of this section, an *ALP Express Loan:*
-
-(1) Means a 504 loan in an amount that is not more than $500,000; and
-
-(2) Does not include a loan made to a borrower that is in an industry that has a high rate of default, as annually determined by SBA. SBA will publish an annual list of the industries with a high rate of default in a notice in the Federal Register.
+(a) *Definition.* For the purposes of this section, an ALP Express Loan means a 504 loan in an amount that is not more than $500,000 and which is underwritten, approved, closed and serviced using the authorities set forth in this section.
 
 (b) *Requirements for the underwriting, approving, closing, and servicing of ALP Express Loans*—(1) *General.* When underwriting, approving, closing, and servicing 504 loans under this section, the ALP CDC must comply with Loan Program Requirements and conduct such activities in accordance with prudent and commercially reasonable lending standards.
 
@@ -24,6 +18,4 @@ Link to an amendment published at 89 FR 102701, Dec. 18, 2024.
 
 (c) *Prohibition against making a 504 loan previously submitted to the SBA.* An ALP CDC may not process a 504 loan application under paragraph (b)(3) of this section from an applicant whose application was previously submitted to SBA and was withdrawn by the CDC or was declined or otherwise not approved by SBA.
 
-(d) *Applicability.* The authority to make ALP Express Loans is available for applications submitted to the ALP CDC on or after June 27, 2022 and approved through September 30, 2023.
-
-[87 FR 37982, June 27, 2022, as amended at 88 FR 21900, Apr. 12, 2023]
+[87 FR 37982, June 27, 2022, as amended at 88 FR 21900, Apr. 12, 2023; 89 FR 102701, Dec. 18, 2024]

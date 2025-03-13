@@ -1,25 +1,9 @@
-##### § 402.55 Materials available at district offices and branch offices. #####
+##### § 402.55 Referrals and consultations. #####
 
-(a) *Materials available for inspection.* The following are available or will be made available for inspection at the district offices and branch offices:
+(a) *Consultation and referral.* When reviewing records located by SSA in response to a request, SSA will determine whether another agency of the Federal Government is better able to determine whether the record is exempt from disclosure under the FOIA. As to any such record, SSA will proceed in one of the following ways:
 
-(1) Compilation of the Social Security Laws.
+(1) *Referral of FOIA records in whole or in part to an outside agency.* We will notify the requester in writing when we opt to refer records in whole or in part to another agency for direct response from that agency, including the name(s) or the agency(s) to which the record was referred and that agency's FOIA contact information, unless notification would cause harm to an interest protected under the FOIA. In such instances, in order to avoid harm to an interest protected by an applicable exemption, we coordinate to seek the view of the originating agency.
 
-(2) Social Security Administration regulations under the retirement, survivors, disability, and supplemental security income programs, *i.e.*, 20 CFR parts 401, 402, 404, 416, and 422; and the Social Security Administration's regulations under part B of title IV (Black Lung Benefits) of the Federal Coal Mine Health and Safety Act of 1969, 20 CFR part 410.
+(2) *Agency consultation.* If a request is for records that were created by, or provided to us by, another agency that is not subject to the FOIA, we may consult with that agency, as described in paragraph (b) of this section.
 
-(3) Social Security Rulings.
-
-(4) Social Security Handbook.
-
-(5) Social Security Acquiescence Rulings.
-
-(b) *Materials available for inspection and copying.* The following materials are available or will be made available for inspection and copying at the district offices and branch offices (fees may be applicable per §§ 402.155 through 402.185):
-
-(1) SSA Program Operations Manual System.
-
-(2) SSA Organization Manual.
-
-(3) Handbook for State Social Security Administrators.
-
-(4) Indexes to the materials listed in paragraph (a) of this section and in this paragraph (b) and an index to the Hearings, Appeals and Litigation Law (HALLEX) manual.
-
-(5) Index of Administrative Staff Manuals and Instructions.
+(b) *Consultation with another agency or entity.* If a request is for records that originated with SSA but contain information of interest to another agency or entity, we may consult with the other agency or entity prior to issuing our release determination to the requester.

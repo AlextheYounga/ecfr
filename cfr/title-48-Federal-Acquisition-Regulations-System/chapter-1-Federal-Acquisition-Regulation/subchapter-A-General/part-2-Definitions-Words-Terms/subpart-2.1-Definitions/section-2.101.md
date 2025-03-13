@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 90 FR 511, Jan. 3, 2025.Link to an amendment published at 90 FR 525, Jan. 3, 2025.
-
 A word or a term, defined in this section, has the same meaning throughout this chapter (the Federal Acquisition Regulation (FAR)) unless the context in which the word or term is used clearly requires a different meaning or another FAR part, subpart, or section provides a different definition for the particular part or portion of the part. If a word or term that is defined in this section is defined differently in another part, subpart, or section of this chapter, the definition in this section includes a cross-reference to the other definitions and that part, subpart, or section applies to the word or term when used in that part, subpart, or section.
 
 *Acquisition* means the acquiring by contract with appropriated funds of supplies or services (including construction) by and for the use of the Federal Government through purchase or lease, whether the supplies or services are already in existence or must be created, developed, demonstrated, and evaluated. Acquisition begins at the point when agency needs are established and includes the description of requirements to satisfy agency needs, solicitation and selection of sources, award of contracts, contract financing, contract performance, contract administration, and those technical and management functions directly related to the process of fulfilling agency needs by contract.
@@ -230,7 +228,7 @@ A word or a term, defined in this section, has the same meaning throughout this 
 
 *Contracting officer's representative (COR)* means an individual, including a contracting officer's technical representative (COTR), designated and authorized in writing by the contracting officer to perform specific technical or administrative functions.
 
-*Conviction* means a judgment or conviction of a criminal offense by any court of competent jurisdiction, whether entered upon a verdict or a plea, and includes a conviction entered upon a plea of *nolo contendere.* For use in subpart 26.5, see the definition at 26.503.
+*Conviction* means a judgment or conviction of a criminal offense by any court of competent jurisdiction, whether entered upon a verdict or a plea, and includes a conviction entered upon a plea of nolo contendere. For use in subpart 9.4, see the definition at 9.403. For use in subpart 26.5, see the definition at 26.503.
 
 *Cost or pricing data* (10 U.S.C. 3701(1) and 41 U.S.C. chapter 35) means all facts that, as of the date of price agreement, or, if applicable, an earlier date agreed upon between the parties that is as close as practicable to the date of agreement on price, prudent buyers and sellers would reasonably expect to affect price negotiations significantly. Cost or pricing data are factual, not judgmental; and are verifiable. While they do not indicate the accuracy of the prospective contractor's judgment about estimated future costs or projections, they do include the data forming the basis for that judgment. Cost or pricing data are more than historical accounting data; they are all the facts that can be reasonably expected to contribute to the soundness of estimates of future costs and to the validity of determinations of costs already incurred. They also include, but are not limited to, such factors as—
 
@@ -260,6 +258,8 @@ A word or a term, defined in this section, has the same meaning throughout this 
 
 *Cost sharing* means an explicit arrangement under which the contractor bears some of the burden of reasonable, allocable, and allowable contract cost.
 
+*Covered territory business,* as defined at 15 U.S.C. 632(ff) and 13 CFR 125.1, means a small business concern that has its principal office located in the United States Virgin Islands, American Samoa, Guam, or the Commonwealth of the Northern Mariana Islands.
+
 *Customs territory of the United States* means the 50 States, the District of Columbia, and Puerto Rico.
 
 *Data other than certified cost or pricing data* means pricing data, cost data, and judgmental information necessary for the contracting officer to determine a fair and reasonable price or to determine cost realism. Such data may include the identical types of data as certified cost or pricing data, consistent with Table 15-2 of 15.408, but without the certification. The data may also include, for example, sales data and any information reasonably required to explain the offeror's estimating process, including, but not limited to—
@@ -270,7 +270,7 @@ A word or a term, defined in this section, has the same meaning throughout this 
 
 *Day* means, unless otherwise specified, a calendar day.
 
-*Debarment* means action taken by a debarring official under 9.406 to exclude a contractor from Government contracting and Government-approved subcontracting for a reasonable, specified period; a contractor that is excluded is “debarred.”
+*Debarment* means action taken by a suspending and debarring official under 9.406 to exclude a contractor from Government contracting and Government-approved subcontracting for a reasonable, specified period; a contractor that is “debarred” is excluded
 
 *Delivery order* means an order for supplies placed against an established contract or with Government sources.
 
@@ -894,7 +894,13 @@ A word or a term, defined in this section, has the same meaning throughout this 
 
 *Surplus property* means excess personal property not required by any Federal agency as determined by the Administrator of the General Services Administration (GSA). (See 41 CFR 102-36.40).
 
-*Suspension* means action taken by a suspending official under 9.407 to disqualify a contractor temporarily from Government contracting and Government-approved subcontracting; a contractor that is disqualified is “suspended.”
+*Suspending and debarring official* means—
+
+(1) An agency head; or
+
+(2) A designee authorized by the agency head to impose a suspension and/or a debarment.
+
+*Suspension* means action taken by a suspending and debarring official under 9.407 to disqualify a contractor temporarily from Government contracting and Government-approved subcontracting; a contractor that is “ “suspended” is disqualified.”
 
 *Sustainable acquisition* means acquiring products and services in order to create and maintain conditions—
 

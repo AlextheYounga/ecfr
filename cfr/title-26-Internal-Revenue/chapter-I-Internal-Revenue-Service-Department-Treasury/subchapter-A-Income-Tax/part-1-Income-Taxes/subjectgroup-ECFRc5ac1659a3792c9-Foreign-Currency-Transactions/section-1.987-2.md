@@ -136,7 +136,7 @@
 
 (B) *Analysis*—(*1*) Under paragraph (c)(2)(ii)(C) of this section, if an asset that is attributable to a section 987 QBU is sold or exchanged for an asset that is not attributable to the section 987 QBU immediately after the sale or exchange, the sold or exchanged asset is treated as transferred from the section 987 QBU to its owner in a disregarded transaction immediately before the sale or exchange and subsequently sold or exchanged by the owner. The sale of DE1 is treated as a sale of the assets of Business A in exchange for cash that is not reflected on the books and records of the Business A section 987 QBU. Therefore, the assets of Business A are treated as transferred from the Business A section 987 QBU to X, and X is treated as selling the assets to FC.
 
-(*2*) The deemed transfer of all of Business A's assets to X results in a termination of the Business A section 987 QBU under § 1.987-8(b)(2) (substantially all assets transferred). Under § 1.987-5(c)(3) and § 1.987-8(e), a termination of a section 987 QBU is treated as a remittance of all the gross assets of the section 987 QBU to the owner on the date of the termination. Therefore, the owner's remittance proportion is one, and X recognizes all of its net unrecognized section 987 gain with respect to Business A, or $20,000.
+(*2*) The deemed transfer of all of Business A's assets to X results in a termination of the Business A section 987 QBU under § 1.987-8(b)(2) (substantially all assets transferred). Under § 1.987-5(c)(4) and § 1.987-8(e), a termination of a section 987 QBU is treated as a remittance of all the gross assets of the section 987 QBU to the owner on the date of the termination. Therefore, the owner's remittance proportion is one, and X recognizes all of its net unrecognized section 987 gain with respect to Business A, or $20,000.
 
 (*3*) Because a current rate election was in effect, all of the assets of Business A are marked items. Therefore, under § 1.987-5(f)(2), X's basis in the assets transferred from Business A is determined by translating Business A's functional currency basis in the assets into X's functional currency at the spot rate applicable to the date of the transfer, €1 = $1.2. Consequently, immediately before the sale of the interests in DE1, X's functional currency basis in Business A's assets (which Business A held with a basis of €100,000) is $120,000. X recognizes $30,000 of gain under section 1001(a) on the sale of DE1.
 
@@ -146,4 +146,4 @@
 
 (e) *Cross-reference. See also* § 1.1502-13(j)(9) regarding the treatment of intercompany transactions involving section 987 QBUs owned by a member of a consolidated group.
 
-[T.D. 10016, 89 FR 100165, Dec. 11, 2024]
+[T.D. 10016, 89 FR 100165, Dec. 11, 2024; 90 FR 5607, Jan. 17, 2025]

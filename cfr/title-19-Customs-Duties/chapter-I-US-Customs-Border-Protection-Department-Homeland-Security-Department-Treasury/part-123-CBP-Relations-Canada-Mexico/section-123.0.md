@@ -1,5 +1,7 @@
 ##### § 123.0 Scope. #####
 
+Link to an amendment published at 90 FR 6481, Jan. 17, 2025.
+
 This part contains special regulations pertaining to Customs procedures at the Canadian and Mexican borders. Included are provisions governing report of arrival, manifesting, unlading and lading, instruments of international traffic, shipments in transit through Canada or Mexico or through the United States, commercial traveler's samples transiting the United States or Canada, baggage arriving from Canada or Mexico including baggage transiting the United States or Canada or Mexico, and electronic information for rail and truck cargo in advance of arrival. Aircraft arriving from or departing for Canada or Mexico are governed by the provisions of part 122 of this chapter. The arrival of all vessels from, and clearance of all vessels departing for, Canada or Mexico are governed by the provisions of part 4 of this chapter. Fees for services provided in connection with the arrival of aircraft, vessels, vehicles and other conveyances from Canada or Mexico are set forth in § 24.22 of this chapter. Regulations pertaining to the treatment of goods from Canada or Mexico under the North American Free Trade Agreement are contained in part 181 of this chapter. The requirements for the United States Postal Service to transmit advance electronic information for inbound international mail shipments are set forth in § 145.74 of this chapter.
 
 [CBP Dec. 21-04, 86 FR 14277, Mar. 15, 2021]

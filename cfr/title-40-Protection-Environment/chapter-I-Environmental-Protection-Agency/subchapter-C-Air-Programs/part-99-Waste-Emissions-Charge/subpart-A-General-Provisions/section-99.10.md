@@ -1,0 +1,9 @@
+##### § 99.10 What fees apply to delinquent payments? #####
+
+(a) *Delinquency.* WEC obligated party accounts are delinquent if the accounts remain unpaid after the due date specified in the invoice or other notice of the WEC amount owed.
+
+(b) *Interest fee.* In accordance with 31 U.S.C. 3717(a), delinquent WEC obligated party accounts shall be charged a minimum annual rate of interest equal to the average investment rate for Treasury tax and loan accounts (Current Value of Funds Rate or CVFR) most recently published and in effect by the Secretary of the Treasury.
+
+(c) *Non-payment penalty.* In accordance with 31 U.S.C. 3717(e), WEC obligated party invoiced debts that are more than 90 days past due shall be charged an additional penalty of 6 percent per year assessed on any part of the invoiced debt that is past due for more than 90 days.
+
+(d) *Penalty for non-submittal.* In accordance with 42 U.S.C. 7413(d)(1), a WEC obligated party that fails to submit an annual WEC filing by the date specified in § 99.5 may be charged an administrative penalty. The penalty assessment shall be a daily assessment per day that the WEC filing is not submitted, assessed up to the value specified in Table 1 of 40 CFR 19.4, as amended. The assessment of penalty shall begin on the date that the WEC filing was considered past due per § 99.5 and continue until such time that the WEC filing is submitted by the WEC obligated party's designated representative. (For example: A WEC filing for reporting year 2025 submitted on September 4, 2026, may be subject to an assessment of four (4) days of administrative penalty for non-submittal.)

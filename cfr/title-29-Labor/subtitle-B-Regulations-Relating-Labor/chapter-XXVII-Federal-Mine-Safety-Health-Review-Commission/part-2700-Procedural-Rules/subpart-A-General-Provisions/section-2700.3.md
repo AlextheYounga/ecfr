@@ -1,5 +1,7 @@
 ##### § 2700.3 Who may practice. #####
 
+Link to an amendment published at 90 FR 5617, Jan. 17, 2025.
+
 (a) *Attorneys.* Attorneys admitted to practice before the highest court of any State, Territory, District, Commonwealth or possession of the United States are permitted to practice before the Commission.
 
 (b) *Other persons.* A person who is not authorized to practice before the Commission as an attorney under paragraph (a) of this section may practice before the Commission as a representative of a party if he is:

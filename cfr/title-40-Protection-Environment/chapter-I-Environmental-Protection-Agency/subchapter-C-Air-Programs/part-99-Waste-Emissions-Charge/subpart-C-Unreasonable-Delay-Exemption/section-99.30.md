@@ -1,0 +1,11 @@
+##### § 99.30 Which facilities qualify for the exemption for emissions caused by an unreasonable delay in environmental permitting of gathering or transmission infrastructure? #####
+
+(a) The WEC applicable facility must be in the offshore petroleum and natural gas production or onshore petroleum and natural gas production industry segment, as those industry segment terms are defined in § 98.230 of this chapter.
+
+(b) The total facility applicable emissions for the WEC applicable facility as calculated in accordance with § 99.21(a) must exceed 0 mt.
+
+(c) The WEC obligated party seeking to exempt a portion of its facility applicable emissions from a WEC applicable facility must not have contributed to the delay. All requests for information regarding the environmental permit application received by the WEC obligated party must not have exceeded the response time requested by, or agreed to by, the permitting agency or exceeded 30 days if no specific response time is requested. The WEC obligated party seeking eligibility for the exemption must not be a plaintiff in a lawsuit regarding the environmental permit application.
+
+(d) The WEC applicable facility must have reported eligible methane emissions pursuant to § 98.236 of this chapter in the reporting year that occurred as a result of a delay in environmental permitting of gathering or transmission infrastructure necessary for offtake of increased volume as a result of methane emissions mitigation implementation. These eligible methane emissions must have been in compliance with all applicable local, State, and Federal regulations. For purposes of this section, eligible methane emissions for exemption consist of the emissions from the increased volume of gas used as an onsite fuel source, used for another useful purpose that an otherwise purchased fuel or raw material would have served, reinjection into a well, or flared, if that gas would have been routed to a gas gathering flow line or collection system to a sales line if not for the delay in environmental permitting.
+
+(e) Thirty-six (36) months must have passed since submission of the technically complete environmental permit application, as documented by the appropriate permitting authority, to construct gathering or transmission infrastructure without approval or denial of the environmental permit application.

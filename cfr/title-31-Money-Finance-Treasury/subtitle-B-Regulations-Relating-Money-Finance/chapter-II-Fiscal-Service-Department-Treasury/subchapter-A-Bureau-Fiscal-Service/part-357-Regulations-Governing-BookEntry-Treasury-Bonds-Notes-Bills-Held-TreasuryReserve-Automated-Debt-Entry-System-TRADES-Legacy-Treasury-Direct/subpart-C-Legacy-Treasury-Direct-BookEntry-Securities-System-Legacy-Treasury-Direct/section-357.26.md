@@ -10,4 +10,4 @@
 
 (e) *Deposit account.* The deposit account to which payments are directed should preferably be established in a form identical to the registration of the securities account, particularly where the securities are registered jointly or with right of survivorship, to assure that the rights of ownership and of survivorship can be more easily identified and preserved. Neither the United States nor any Federal Reserve Bank shall be liable for any loss sustained because the interests of the holder(s) of a deposit account to which payments are made are not the same as the interests of the owner(s) of the security.
 
-(Approved by the Office of Management and Budget under control number 1535-0068)[51 FR 18265, May 16, 1986, as amended at 57 FR 38774, Aug. 27, 1992; 61 FR 6113, Feb. 16, 1996; 64 FR 40487, July 26, 1999]
+(Approved by the Office of Management and Budget under control number 1535-0068) [51 FR 18265, May 16, 1986, as amended at 57 FR 38774, Aug. 27, 1992; 61 FR 6113, Feb. 16, 1996; 64 FR 40487, July 26, 1999]

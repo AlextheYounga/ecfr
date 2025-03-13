@@ -1,8 +1,8 @@
 ##### § 10.232 Sea service. #####
 
-Link to an amendment published at 89 FR 93062, Nov. 25, 2024.Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
+Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 
-(a) *Documenting sea service.* (1) Sea service may be documented in various forms such as certificates of discharge, pilotage service and billing forms, and service letters or other official documents from marine companies signed by the owner, operator, master, or chief engineer of the vessel. The Coast Guard must be satisfied as to the authenticity and acceptability of all evidence of experience or training presented.
+(a) *Documenting sea service.* (1) Sea service may be documented in various forms such as certificates of discharge, pilotage service and billing forms, and service letters or other official documents from marine companies signed by the owner, operator, Master, or Chief Engineer of the vessel. The Coast Guard must be satisfied as to the authenticity and acceptability of all evidence of experience or training presented.
 
 (2) Documentary evidence produced by the applicant, unless in the form of a Certificate of Discharge conforming to § 14.307 of this subchapter, must contain all of the following information:
 
@@ -12,13 +12,13 @@ Link to an amendment published at 89 FR 93062, Nov. 25, 2024.Link to an amendmen
 
 (iii) Propulsion power and mode of propulsion of the vessel.
 
-(iv) The amount and nature (e.g. chief mate, assistant engineer, etc.) of the applicant's experience.
+(iv) The amount and nature (*e.g.,* Chief mate, Assistant Engineer, etc.) of the applicant's experience.
 
 (v) Applicable dates of service for each vessel, and the ports or terminals if applicable.
 
 (vi) The routes upon which the experience was acquired.
 
-(vii) For those seeking to renew a radar observer endorsement, whether the vessel is equipped with radar and if the mariner served in a position that routinely uses radar for navigation and collision avoidance purposes.
+(vii) For those seeking to renew a Radar Observer endorsement, whether the vessel is equipped with radar and if the mariner served in a position that routinely uses radar for navigation and collision avoidance purposes.
 
 (viii) For those seeking service credit on towing vessels in accordance with § 11.211(e) of this subchapter, the aggregate tonnage of the tug and barges during the mariner's service.
 
@@ -34,7 +34,7 @@ Link to an amendment published at 89 FR 93062, Nov. 25, 2024.Link to an amendmen
 
 (5) If the required sea service is associated with watchkeeping functions and the performance of duties, as required in §§ 11.323, 11.329, and 11.333, the service must be documented as having been carried out under the direct supervision of the appropriate person. If the required sea service is associated with the performance of duties, as required in §§ 11.470, 11.472, and 11.474, the service must be documented as having been carried out under the supervision of the appropriate person.
 
-(6) An applicant who has been acting as a pilot may submit a letter from a pilot's association attesting to the applicant's sea service. For those pilots seeking to renew a radar observer endorsement, the association's letter should indicate that the vessels piloted were equipped with radar, and that radar was used by the pilot for navigation and collision avoidance purposes. Pilots not part of an association may submit other relevant records indicating service, such as billing forms. For a raise-of-grade, pilots must comply with the requirements of paragraph (a)(2) of this section.
+(6) An applicant who has been acting as a Pilot may submit a letter from a pilot's association attesting to the applicant's sea service. For those Pilots seeking to renew a Radar Observer endorsement, the association's letter should indicate that the vessels piloted were equipped with radar, and that radar was used by the Pilot for navigation and collision avoidance purposes. Pilots not part of an association may submit other relevant records indicating service, such as billing forms. For a raise-of-grade, Pilots must comply with the requirements of paragraph (a)(2) of this section.
 
 (b) Service toward an oceans, near-coastal, or STCW endorsement will be credited as follows:
 
@@ -46,7 +46,7 @@ Link to an amendment published at 89 FR 93062, Nov. 25, 2024.Link to an amendmen
 
 (c) Service toward a near-coastal or a Great Lakes endorsement will be credited on a day-for-day basis and in accordance with the individual requirements for the specific credential.
 
-(d) *Sea service as a member of the Armed Forces of the United States and civilian service on vessels owned by the United States as required experience.* (1) Sea service as a member of the Armed Forces of the United States will be accepted as required experience for an original, raise of grade, renewal, or increase in scope of all endorsements. In most cases, military sea service will have been performed upon ocean waters; however, inland service, as may be the case on smaller vessels, will be credited in the same manner as conventional evaluations. The applicant must submit an official transcript of sea service or history of assignments as verification of the service claimed when the application is submitted. A DD-214 is not acceptable evidence of sea service. The applicant must also provide the Coast Guard with other necessary information as to tonnage, routes, propulsion power, percentage of time underway, and assigned duties upon the vessels on which he or she served. Such service will be evaluated by the Coast Guard for a determination of its equivalence to sea service acquired on merchant vessels and the appropriate grade, class, and limit of endorsement for which the applicant is eligible. Normally, 60 percent of the total time onboard is considered equivalent underway service; however, the periods of operation of each vessel may be evaluated separately. In order to be eligible for a master's or chief engineer's unlimited endorsement, the applicant must have acquired military service in the capacity of commanding officer or engineer officer, respectively.
+(d) *Sea service as a member of the Armed Forces of the United States and civilian service on vessels owned by the United States as required experience.* (1) Sea service as a member of the Armed Forces of the United States will be accepted as required experience for an original, raise of grade, renewal, or increase in scope of all endorsements. In most cases, military sea service will have been performed upon ocean waters; however, inland service, as may be the case on smaller vessels, will be credited in the same manner as conventional evaluations. The applicant must submit an official transcript of sea service or history of assignments as verification of the service claimed when the application is submitted. A DD-214 is not acceptable evidence of sea service. The applicant must also provide the Coast Guard with other necessary information as to tonnage, routes, propulsion power, percentage of time underway, and assigned duties upon the vessels on which he or she served. Such service will be evaluated by the Coast Guard for a determination of its equivalence to sea service acquired on merchant vessels and the appropriate grade, class, and limit of endorsement for which the applicant is eligible. Normally, 60 percent of the total time onboard is considered equivalent underway service; however, the periods of operation of each vessel may be evaluated separately. In order to be eligible for a Master or Chief Engineer unlimited endorsement, the applicant must have acquired military service in the capacity of commanding officer or engineer officer, respectively.
 
 (2) Applicants for management-level, operational-level or support-level STCW endorsements must demonstrate competence in accordance with part 11, subpart C; part 12, subpart F; and part 13, subpart F of this subchapter.
 
@@ -56,7 +56,7 @@ Link to an amendment published at 89 FR 93062, Nov. 25, 2024.Link to an amendmen
 
 (5) Sea service obtained on submarines is creditable, as if it were surface vessel service, for deck and engineer officer and qualified ratings endorsements under the provision of paragraph (a) of this section. For application for deck officer and qualified ratings endorsements, submarine service may be creditable if at least 25 percent of all service submitted for the endorsement was obtained on surface vessels (e.g. if 4 years' total service were submitted for an original officer endorsement, at least 1 year must have been obtained on surface craft in order for the submarine service to be eligible for evaluation).
 
-(6) Service gained in a civilian capacity as commanding officer, master, mate, engineer, or pilot, etc., of any vessel owned and operated by the United States, in any service in which a license or officer endorsement as master, mate, engineer, or pilot was not required at the time of such service, will be evaluated by the Coast Guard for a determination of equivalence.
+(6) Service gained in a civilian capacity as commanding officer, Master, Mate, engineer, or Pilot, etc., of any vessel owned and operated by the United States, in any service in which a License or officer endorsement as Master, Mate, engineer, or Pilot was not required at the time of such service, will be evaluated by the Coast Guard for a determination of equivalence.
 
 (e) *Sea service on vessels that do not get underway.* This requirement applies to service obtained on vessels mandated by the Certificate of Inspection (COI) which are in operation but do not get underway or occasionally get underway for short voyages. Service while the vessel is not underway must be credited as follows:
 
@@ -74,7 +74,7 @@ Link to an amendment published at 89 FR 93062, Nov. 25, 2024.Link to an amendmen
 
 (3) An applicant who has obtained qualifying experience on foreign vessels must submit satisfactory documentary evidence of such service (including any necessary official translation to the English language) in accordance with paragraph (a)(1) and (a)(2) of this section.
 
-(g) *Closely related service.* The Coast Guard may accept evidence of employment in a position closely related to the operation, construction, or repair of vessels (either deck or engineer as appropriate) as meeting the sea service requirements for renewal under § 10.227(e)(1)(iv). Service as port engineer, port captain, shipyard superintendent, qualified instructor, or similar related service may be creditable for service for raise of grade of an engineer or deck officer endorsement; however, it may not be used for obtaining an original management-level endorsement. The service is creditable as follows:
+(g) *Closely related service.* The Coast Guard may accept evidence of employment in a position closely related to the operation, construction, or repair of vessels (either deck or engineer as appropriate) as meeting the sea service requirements for renewal under § 10.227(e)(1)(iv). Service as port engineer, port captain, shipyard superintendent, Qualified Instructor, or similar related service may be creditable for service for raise of grade of an engineer or deck officer endorsement; however, it may not be used for obtaining an original management-level endorsement. The service is creditable as follows:
 
 (1) Port engineer, port captain or shipyard superintendent experience is creditable on a 3-for-1 basis for a raise of grade (e.g., 12 months of experience equals 4 months of creditable service). For a raise-of-grade, this credit is limited to 6 months of service.
 
@@ -92,4 +92,4 @@ Link to an amendment published at 89 FR 93062, Nov. 25, 2024.Link to an amendmen
 
 (i) *Tonnage equivalency.* For the purpose of parts 10, 11 and 12, 200 GRT will be considered equivalent to 500 GT, and 1,600 GRT will be considered equivalent to 3,000 GT.
 
-[USCG-2004-17914, 78 FR 77894, Dec. 24, 2013, as amended by USCG-2018-0100, 84 FR 26591, June 7, 2019; USCG-2018-0874, 84 FR 30881, June 28, 2019]
+[USCG-2004-17914, 78 FR 77894, Dec. 24, 2013, as amended by USCG-2018-0100, 84 FR 26591, June 7, 2019; USCG-2018-0874, 84 FR 30881, June 28, 2019; USCG-2021-0097, 89 FR 93062, Nov. 25, 2024]

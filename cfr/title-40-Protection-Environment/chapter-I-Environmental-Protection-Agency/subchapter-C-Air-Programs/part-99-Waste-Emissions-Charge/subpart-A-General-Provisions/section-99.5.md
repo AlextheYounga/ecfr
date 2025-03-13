@@ -1,0 +1,3 @@
+##### § 99.5 When must I file and remit the applicable WEC obligation? #####
+
+Each WEC obligated party must submit their WEC filing including the information specified in § 99.7, which contains payment of the applicable WEC obligation no later than August 31 of the year following the reporting year. All filing revisions must be received according to the schedule in § 99.7(e) to be considered for revisions to WEC obligations. If the submission date falls on a weekend or a Federal holiday, the submission date shall be extended to the next business day.

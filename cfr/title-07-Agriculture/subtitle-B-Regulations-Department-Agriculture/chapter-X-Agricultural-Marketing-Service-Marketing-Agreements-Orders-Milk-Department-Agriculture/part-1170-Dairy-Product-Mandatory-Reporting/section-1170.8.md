@@ -1,5 +1,7 @@
 ##### § 1170.8 Price reporting specifications. #####
 
+Link to an amendment published at 90 FR 6652, Jan. 17, 2025.
+
 The following are the reporting specifications for each dairy product:
 
 (a) Specifications for Cheddar Cheese Prices:

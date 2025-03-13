@@ -1,5 +1,7 @@
 ##### § 10.212 Definitions. #####
 
+Link to an amendment published at 90 FR 6480, Jan. 17, 2025.
+
 When used in §§ 10.211 through 10.217, the following terms have the meanings indicated:
 
 (a) *Apparel articles.* “Apparel articles” means goods classifiable in Chapters 61 and 62 and headings 6501, 6502, 6504 and subheadings 6406.90.15 and 6505.00.02-6505.00.90, of the HTSUS;

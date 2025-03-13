@@ -1,7 +1,5 @@
 ##### § 240.17ad-22 Standards for clearing agencies. #####
 
-Link to an amendment published at 89 FR 91058, Nov. 18, 2024.
-
 (a) *Definitions.* For purposes of this section:
 
 *Affiliated counterparty* means any counterparty which meets the following criteria:
@@ -232,11 +230,29 @@ Link to an amendment published at 89 FR 91058, Nov. 18, 2024.
 
 (i) Considers, and produces margin levels commensurate with, the risks and particular attributes of each relevant product, portfolio, and market, and, if the covered clearing agency provides central counterparty services for U.S. Treasury securities, calculates, collects, and holds margin amounts from a direct participant for its proprietary positions in Treasury securities separately and independently from margin calculated and collected from that direct participant in connection with U.S. Treasury securities transactions by an indirect participant that relies on the services provided by the direct participant to access the covered clearing agency's payment, clearing, or settlement facilities;
 
-(ii) Marks participant positions to market and collects margin, including variation margin or equivalent charges if relevant, at least daily and includes the authority and operational capacity to make intraday margin calls in defined circumstances;
+(ii)(A) Marks participant positions to market and collects margin (including variation margin or equivalent charges if relevant) at least daily;
+
+(B) Monitors intraday exposures on an ongoing basis;
+
+(C) Includes the authority and operational capacity to make intraday margin calls, as frequently as circumstances warrant, including the following circumstances:
+
+(*1*) When risk thresholds specified by the covered clearing agency are breached; or
+
+(*2*) When the products cleared or markets served display elevated volatility; and
+
+(D) Documents when the covered clearing agency determines not to make an intraday call pursuant to its written policies and procedures required under paragraph (e)(6)(ii)(C) of this section;
 
 (iii) Calculates margin sufficient to cover its potential future exposure to participants in the interval between the last margin collection and the close out of positions following a participant default;
 
-(iv) Uses reliable sources of timely price data and uses procedures and sound valuation models for addressing circumstances in which pricing data are not readily available or reliable;
+(iv)(A) Uses reliable sources of timely price data and other substantive inputs;
+
+(B) Uses procedures (and, with respect to price data, sound valuation models) for addressing circumstances in which price data or other substantive inputs are not readily available or reliable, to ensure that the covered clearing agency can continue to meet its obligations under this section; and
+
+(C) Such procedures under paragraph (e)(6)(iv)(B) of this section must include either:
+
+(*1*) The use of price data or substantive inputs from an alternate source; or
+
+(*2*) If it does not use an alternate source, the use of a risk-based margin system that does not rely on substantive inputs that are unavailable or unreliable;
 
 (v) Uses an appropriate method for measuring credit exposure that accounts for relevant product risk factors and portfolio effects across products;
 
@@ -388,4 +404,4 @@ Link to an amendment published at 89 FR 91058, Nov. 18, 2024.
 
 (f) For purposes of enforcing the Payment, Clearing, and Settlement Supervision Act of 2010 (12 U.S.C. 5461 *et seq.*), a designated clearing agency for which the Commission acts as supervisory agency shall be subject to, and the Commission shall have the authority under, the provisions of paragraphs (b) through (n) of Section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818) in the same manner and to the same extent as if such designated clearing agency were an insured depository institution and the Commission were the appropriate Federal banking agency for such insured depository institution.
 
-[77 FR 66285, Nov. 2, 2012, as amended at 81 FR 70901, Oct. 13, 2016; 85 FR 28867, May 14, 2020; Redesignated and amended at 89 FR 2829, Jan. 16, 2024]
+[77 FR 66285, Nov. 2, 2012, as amended at 81 FR 70901, Oct. 13, 2016; 85 FR 28867, May 14, 2020; Redesignated and amended at 89 FR 2829, Jan. 16, 2024; 89 FR 91058, Nov, 18, 2024]

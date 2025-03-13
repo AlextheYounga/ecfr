@@ -6,7 +6,7 @@
 
 (2) Coordination with the District Government (Subpart B);
 
-(3) Split Benefits (Subpart C);1
+(3) Split Benefits (Subpart C); 1
 
 1 The effective date for section 29.102(a)(3) and Subpart C, originally scheduled for March 31, 2001, has been postponed indefinitely.
 

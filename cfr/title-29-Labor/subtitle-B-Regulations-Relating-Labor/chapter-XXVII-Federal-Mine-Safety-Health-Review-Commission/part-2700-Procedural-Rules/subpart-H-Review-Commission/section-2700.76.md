@@ -1,5 +1,7 @@
 ##### § 2700.76 Interlocutory review. #####
 
+Link to an amendment published at 90 FR 5626, Jan. 17, 2025.
+
 (a) *Procedure.* Interlocutory review by the Commission shall not be a matter of right but of the sound discretion of the Commission. Procedures governing petitions for review of temporary reinstatement orders are found at § 2700.45(f).
 
 (1) Review cannot be granted unless:

@@ -1,9 +1,6 @@
 ##### § 547.701 Penalties. #####
 
-(a) Section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705)
-(IEEPA) is applicable to violations of the provisions of any license, ruling, regulation,
-order, directive, or instruction issued by or pursuant to the direction or authorization of
-the Secretary of the Treasury pursuant to this part or otherwise under IEEPA.
+(a) Section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) (IEEPA) is applicable to violations of the provisions of any license, ruling, regulation, order, directive, or instruction issued by or pursuant to the direction or authorization of the Secretary of the Treasury pursuant to this part or otherwise under IEEPA.
 
 (1) A civil penalty not to exceed the amount set forth in section 206 of IEEPA may be imposed on any person who violates, attempts to violate, conspires to violate, or causes a violation of any license, order, regulation, or prohibition issued under IEEPA.
 

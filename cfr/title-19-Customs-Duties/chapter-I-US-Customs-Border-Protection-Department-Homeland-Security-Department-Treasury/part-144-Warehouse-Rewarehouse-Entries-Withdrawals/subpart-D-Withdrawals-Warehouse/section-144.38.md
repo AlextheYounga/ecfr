@@ -1,5 +1,7 @@
 ##### § 144.38 Withdrawal for consumption. #####
 
+Link to an amendment published at 90 FR 6482, Jan. 17, 2025.
+
 (a) *Form.* Withdrawals for consumption of merchandise in bonded warehouses shall be filed on Customs Form 7501, or its electronic equivalent, in triplicate, and shall contain all of the statistical information as provided in § 141.61(e) of this chapter.
 
 (b) *Withdrawal for exportation to Canada or Mexico.* A withdrawal for exportation to Canada or Mexico or for entry into a duty-deferral program in Canada or Mexico is considered a withdrawal for consumption pursuant to § 181.53 of this chapter.

@@ -1,5 +1,7 @@
 ##### § 174.13 Contents of protest. #####
 
+Link to an amendment published at 90 FR 6482, Jan. 17, 2025.
+
 (a) *Contents, in general.* A protest shall contain the following information:
 
 (1) The name and address of the protestant, *i.e.*, the importer of record or consignee, and the name and address of his agent or attorney if signed by one of these;

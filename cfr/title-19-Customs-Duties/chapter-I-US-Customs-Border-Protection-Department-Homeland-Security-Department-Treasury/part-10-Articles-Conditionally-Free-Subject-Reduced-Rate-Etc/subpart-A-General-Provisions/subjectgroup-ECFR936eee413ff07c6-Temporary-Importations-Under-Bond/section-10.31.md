@@ -1,5 +1,7 @@
 ##### § 10.31 Entry; bond. #####
 
+Link to an amendment published at 90 FR 6479, Jan. 17, 2025.
+
 (a)(1) Entry of articles brought into the United States temporarily and claimed to be exempt from duty under Chapter 98, Subchapter XIII, Harmonized Tariff Schedule of the United States (HTSUS), unless covered by an A.T.A. carnet or a TECRO/AIT carnet as provided in part 114 of this chapter, shall be made on Customs Form 3461 or 7533, supported by the documentation required by § 142.3 of this chapter. However, when § 10.36 or § 10.36a is applicable, or the aggregate value of the article is not over $250, the form prescribed for the informal entry of importations by mail, in baggage, or by other means, may be used. When entry is made on Customs Form 3461 or 7533, an entry summary, Customs Form 7501, shall be filed within 10 days after time of entry, in accordance with subpart B, part 142 of this chapter.
 
 (2) If Customs Form 7501, or its electronic equivalent, is filed at time of entry, it shall serve as both the entry and entry summary, and Customs Form 3461, or its electronic equivalent, or 7533 shall not be required. Customs Form 7501, or its electronic equivalent, shall be in original only, except for entries under subheading 9813.00.05, HTSUS, which require a duplicate copy for statistical purposes. When articles are entered under an A.T.A. carnet or a TECRO/AIT carnet, the importation voucher of the carnet shall serve as the entry.

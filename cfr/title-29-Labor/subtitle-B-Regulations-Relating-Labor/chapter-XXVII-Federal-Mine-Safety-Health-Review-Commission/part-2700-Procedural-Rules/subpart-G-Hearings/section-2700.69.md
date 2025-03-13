@@ -1,5 +1,7 @@
 ##### § 2700.69 Decision of the Judge. #####
 
+Link to an amendment published at 90 FR 5625, Jan. 17, 2025.
+
 (a) *Form and content of the Judge's decision.* The Judge shall make a decision that constitutes his final disposition of the proceedings. The decision shall be in writing and shall include all findings of fact and conclusions of law, and the reasons or bases for them, on all the material issues of fact, law or discretion presented by the record, and an order. If a decision is announced orally from the bench, it shall be reduced to writing after the filing of the transcript. An order by a Judge approving a settlement proposal is a decision of the Judge.
 
 (b) *Termination of the Judge's jurisdiction.* Except to the extent otherwise provided herein, the jurisdiction of the Judge terminates when his decision has been issued.

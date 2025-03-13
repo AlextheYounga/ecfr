@@ -1,5 +1,5 @@
 ##### § 47.19 Registry. #####
 
-Each application, request, notification, or other communication sent to the FAA under this part must be delivered to the Registry by a means acceptable to the Administrator.
+Each application, submission, request, notification, or other communication sent to the Administrator under this part must be delivered to the Registry by a means and in a form acceptable to the Administrator, to include electronic or digital forms and means compatible with systems of the Registry.
 
-[Amdt. 47-27, 70 FR 245, Jan. 3, 2005, as amended by Amdt. No. 47-34, 87 FR 75711, Dec. 9, 2022; 88 FR 2813, Jan. 18, 2023]
+[Docket No. FAA-2024-2764, Amdt. Nos. 47-35 and 49-12, 90 FR 5576, Jan. 17, 2025 ]

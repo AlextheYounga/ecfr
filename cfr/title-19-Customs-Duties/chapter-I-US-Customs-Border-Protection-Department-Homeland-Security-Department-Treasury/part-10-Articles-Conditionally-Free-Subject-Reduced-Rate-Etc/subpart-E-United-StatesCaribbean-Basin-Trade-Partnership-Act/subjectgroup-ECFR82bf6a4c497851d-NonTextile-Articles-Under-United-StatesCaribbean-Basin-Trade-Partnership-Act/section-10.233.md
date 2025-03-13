@@ -1,5 +1,7 @@
 ##### § 10.233 Articles eligible for preferential tariff treatment. #####
 
+Link to an amendment published at 90 FR 6480, Jan. 17, 2025.
+
 (a) *General.* The preferential tariff treatment referred to in § 10.231 applies to any of the following articles, provided that the article in question is a CBTPA originating good, is imported directly into the customs territory of the United States from a CBTPA beneficiary country, and is not accorded duty-free treatment under U.S. Note 2(b), Subchapter II, Chapter 98, HTSUS (see § 10.26):
 
 (1) Footwear not designated on August 5, 1983, as eligible articles for the purpose of the Generalized System of Preferences under Title V, Trade Act of 1974, as amended (19 U.S.C. 2461 through 2467);

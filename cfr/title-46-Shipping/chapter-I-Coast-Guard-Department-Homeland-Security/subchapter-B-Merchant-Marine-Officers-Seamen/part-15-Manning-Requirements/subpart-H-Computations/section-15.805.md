@@ -2,7 +2,7 @@
 
 Link to an amendment published at 89 FR 102338, Dec. 17, 2024.
 
-(a) There must be an individual holding an appropriate license as or a valid MMC with endorsement as master in command of each of the following vessels:
+(a) There must be an individual holding an appropriate License as or a valid MMC with endorsement as Master in command of each of the following vessels:
 
 (1) Every self-propelled, seagoing documented vessel of 200 GRT and over.
 
@@ -12,17 +12,17 @@ Link to an amendment published at 89 FR 102338, Dec. 17, 2024.
 
 (4) Every inspected small passenger vessel; and
 
-(5) Every towing vessel of at least 8 meters (26 feet) or more in length must be in command of a master of towing vessels, or a mariner holding a license or MMC endorsed as master of inspected, self-propelled vessels greater than 200 GRT holding either—
+(5) Every towing vessel of at least 8 meters (26 feet) or more in length must be in command of a Master of Towing Vessels, or a mariner holding a License or MMC endorsed as Master of inspected, self-propelled vessels greater than 200 GRT holding either—
 
 (i) A completed Towing Officer's Assessment Record (TOAR), bearing the signature of a Designated Examiner and stating that the Examiner found the candidate proficient; or
 
-(ii) A license or MMC endorsed for master of towing vessels.
+(ii) A License or MMC endorsed for Master of Towing Vessels.
 
 (6) Every uninspected passenger vessel of at least 100 GRT.
 
 (7) Every uninspected passenger vessel engaged on an international voyage.
 
-(b) On vessels subject to STCW, the individual meeting the requirement of this section must also hold an STCW endorsement as master with the appropriate tonnage for the vessel which he or she is operating, except as noted in § 15.105(g) of this part for vessels on domestic near-coastal voyages.
+(b) On vessels subject to STCW, the individual meeting the requirement of this section must also hold an STCW endorsement as Master with the appropriate tonnage for the vessel which he or she is operating, except as noted in § 15.105(g) for vessels on domestic near-coastal voyages.
 
 (c) Every vessel documented under the laws of the United States, other than a vessel with only a recreational endorsement, must be under the command of a U.S. citizen.
 

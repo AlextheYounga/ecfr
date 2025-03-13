@@ -1,5 +1,7 @@
 ##### § 182.45 Goods eligible for full drawback. #####
 
+Link to an amendment published at 90 FR 6484, Jan. 17, 2025.
+
 (a) *Goods originating in Canada or Mexico.* A Canadian or Mexican originating good that is dutiable and is imported into the United States is eligible for drawback without regard to the limitation on drawback set forth in § 182.44 if that good is originating under the rules of origin set out in General Note 11, HTSUS, and Appendix A of this part, and is:
 
 (1) Subsequently exported to Canada or Mexico;

@@ -1,10 +1,8 @@
 ##### 52.219-8 Utilization of Small Business Concerns. #####
 
-Link to an amendment published at 90 FR 525, Jan. 3, 2025.
-
 As prescribed in 19.708(a), insert the following clause:
 
-Utilization of Small Business Concerns (FEB 2024)
+Utilization of Small Business Concerns (JAN 2025)
 
 (a) *Definitions.* As used in this contract—
 
@@ -64,9 +62,9 @@ Utilization of Small Business Concerns (FEB 2024)
 
 (d) The Contractor hereby agrees to carry out this policy in the awarding of subcontracts to the fullest extent consistent with efficient contract performance. The Contractor further agrees to cooperate in any studies or surveys as may be conducted by the United States Small Business Administration or the awarding agency of the United States as may be necessary to determine the extent of the Contractor's compliance with this clause.
 
-(e)(1) The Contractor may accept a subcontractor's written representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business if the subcontractor represents that the size and socioeconomic status representations with its offer are current, accurate, and complete as of the date of the offer for the subcontract.
+(e)(1) Unless the Contractor has reason to question the representation, it may accept a subcontractor's written representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business if the subcontractor represents that the size and socioeconomic status representations with its offer are current, accurate, and complete as of the date of the offer for the subcontract.
 
-(2) The Contractor may accept a subcontractor's representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business in the System for Award Management (SAM) if—
+(2) Unless the Contractor has reason to question the representation, it may accept a subcontractor's representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, or a women-owned small business in the System for Award Management (SAM) if—
 
 (i) The subcontractor is registered in SAM; and
 

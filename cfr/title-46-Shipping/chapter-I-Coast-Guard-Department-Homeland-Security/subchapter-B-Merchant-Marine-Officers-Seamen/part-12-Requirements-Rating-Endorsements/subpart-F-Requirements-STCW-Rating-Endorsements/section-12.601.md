@@ -1,38 +1,36 @@
 ##### § 12.601 General requirements for STCW rating endorsements. #####
 
-Link to an amendment published at 89 FR 93102, Nov. 25, 2024.
-
 (a) *General.* An applicant for any STCW endorsement must hold the appropriate national endorsement, unless otherwise specified. The Coast Guard will issue an STCW endorsement to qualified applicants for any of the following ratings or qualifications:
 
-(1) Able seafarer-deck.
+(1) Able Seafarer-Deck.
 
-(2) Ratings forming part of a navigational watch (RFPNW).
+(2) Ratings Forming Part of a Navigational Watch (RFPNW).
 
-(3) Able seafarer-engine.
+(3) Able Seafarer-Engine.
 
-(4) Ratings forming part of a watch in a manned engineroom or designated to perform duties in a periodically unmanned engineroom (RFPEW).
+(4) Ratings Forming Part of an Engineering Watch in a manned engineroom or designated to perform duties in a periodically unmanned engineroom (RFPEW).
 
-(5) Electro-technical rating on vessels powered by main propulsion machinery of 750 kW/1,000 HP or more.
+(5) Electro-technical Rating on vessels powered by main propulsion machinery of 750 kW/1,000 HP or more.
 
-(6) Proficiency in survival craft and rescue boats, other than fast rescue boats (PSC).
+(6) Proficiency in Survival Craft and Rescue Boats, other than Fast Rescue Boats (PSC).
 
-(7) Proficiency in survival craft and rescue boats, other than lifeboats and fast rescue boats (PSC-limited).
+(7) Proficiency in Survival Craft and Rescue Boats, other than lifeboats and Fast Rescue Boats (PSC-Limited).
 
-(8) Proficiency in fast rescue boats.
+(8) Proficiency in Fast Rescue Boats.
 
-(9) Medical first-aid provider.
+(9) Medical First-aid Provider.
 
-(10) Person in charge of medical care.
+(10) Person in Charge of Medical Care.
 
-(11) GMDSS at-sea maintainer.
+(11) GMDSS At-sea Maintainer.
 
-(12) Vessel personnel with designated security duties.
+(12) Vessel Personnel with Designated Security Duties.
 
-(13) Security awareness.
+(13) Security Awareness.
 
 (b) *Standard of competence.* (1) The Coast Guard will accept one or more methods listed in the STCW Code to demonstrate meeting the standard of competence in this subpart. See Column 3, “Methods for demonstrating competence,” of the Tables of Competence in the STCW Code (incorporated by reference, see § 12.103 of this part). The Coast Guard will accept the following as evidence of meeting the standard of competence under each of these methods:
 
-(i) *In-service experience:* Documentation of successful completion of assessments, approved or accepted by the Coast Guard, and signed by a qualified assessor, deck or engineering, as appropriate.
+(i) *In-service experience:* Documentation of successful completion of assessments, approved or accepted by the Coast Guard, and signed by a Qualified Assessor, deck or engineering, as appropriate.
 
 (ii) *Training ship experience:* Documentation of successful completion of an approved training program involving formal training and assessment onboard a training ship.
 
@@ -70,4 +68,4 @@ Link to an amendment published at 89 FR 93102, Nov. 25, 2024.
 
 (3) The Coast Guard will publish assessment guidelines that should be used to document assessments that demonstrate meeting the standard of competence, as required by paragraph (b)(1) of this section. Organizations may develop alternative assessment documentation for demonstrations of competence; however, such documentation must be approved by the Coast Guard prior to its use and submittal with an application.
 
-[USCG-2004-17914, 78 FR 77975, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58279, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019]
+[USCG-2004-17914, 78 FR 77975, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58279, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019; USCG-2021-0097, 89 FR 93102, Nov. 25, 2024]

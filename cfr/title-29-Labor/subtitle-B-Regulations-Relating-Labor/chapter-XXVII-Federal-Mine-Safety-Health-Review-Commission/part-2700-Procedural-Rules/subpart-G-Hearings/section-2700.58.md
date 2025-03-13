@@ -1,5 +1,7 @@
 ##### § 2700.58 Interrogatories, requests for admissions and requests for production of documents. #####
 
+Link to an amendment published at 90 FR 5623, Jan. 17, 2025.
+
 (a) *Interrogatories.* Any party, without leave of the Judge, may serve written interrogatories upon another party. A party served with interrogatories shall answer each interrogatory separately and fully in writing under oath within 25 days of service unless the proponent of the interrogatories agrees to a longer time. The Judge may order a shorter or longer time period for responding. A party objecting to an interrogatory shall state the basis for the objection in its answer.
 
 (b) *Requests for admissions.* Any party, without leave of the Judge, may serve on another party a written request for admissions. A party served with a request for admissions shall respond to each request separately and fully in writing within 25 days of service, unless the party making the request agrees to a longer time. The Judge may order a shorter or longer time period for responding. A party objecting to a request for admissions shall state the basis for the objection in its response. Any matter admitted under this rule is conclusively established for the purpose of the pending proceeding unless the Judge, on motion, permits withdrawal or amendment of the admission.

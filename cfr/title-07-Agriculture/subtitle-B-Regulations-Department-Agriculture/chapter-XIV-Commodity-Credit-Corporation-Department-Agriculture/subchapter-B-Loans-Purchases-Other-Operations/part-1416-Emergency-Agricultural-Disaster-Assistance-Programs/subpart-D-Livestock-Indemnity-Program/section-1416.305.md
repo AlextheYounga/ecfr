@@ -4,11 +4,11 @@
 
 (b) A livestock owner or contract grower that suffered livestock losses must:
 
-(1) Provide a notice of loss, by livestock unit, to FSA by the later of 30 calendar days of when the loss of livestock is first apparent to the livestock owner or contract grower or December 3, 2018.
+(1) Provide a notice of loss, by livestock unit, to FSA by March 1 after the end of the calendar year in which the eligible loss occurred.
 
 (2) Submit the notice of loss required in this section to the FSA county office responsible for servicing the physical location county where the loss occurred.
 
-(c) In addition to the notice of loss required in paragraph (b) of this section, a participant must also submit a completed application for payment, by livestock unit for losses apparent in 2019 and subsequent years, by no later than 60 calendar days after the end of the calendar year in which the eligible loss condition occurred.
+(c) In addition to the notice of loss required in paragraph (b) of this section, a participant must also submit a completed application for payment, by livestock unit for losses apparent in 2024 and subsequent years, by no later than March 1 after the end of the calendar year in which the eligible loss condition occurred.
 
 (d) A participant must provide other supporting documents required for determining eligibility as an applicant at the time the participant submits the completed application for payment. Supporting documents must include:
 
@@ -82,7 +82,7 @@
 
 (i) Unweaned livestock operations may provide proof of death by using the LBIH.
 
-(1) Livestock inventory reports by livestock unit must be provided to the FSA local county office by 60 calendar days after the end of the calendar year of the eligible adverse weather event. The STC may approve a waiver of the reporting deadline if a participant has not previously received benefits under this method.
+(1) Livestock inventory reports by livestock unit must be provided to the FSA local county office by March 1 after the end of the calendar year of the eligible adverse weather event. The STC may approve a waiver of the reporting deadline if a participant has not previously received benefits under this method.
 
 (i) Livestock inventory reports must provide an accurate account of livestock beginning inventory for the livestock type or kind and must be supported by written records such as but not limited to: Docking records, sales receipts, shearing records, shipping records, bank records, veterinarian records, IRS records, or other records approved by COC. For purposes of determining beginning livestock inventory, livestock inventory reports may require adjustment by COC, not to exceed normal mortality, for when loss occurs at different points during the growing season (for example, inventories from docking may need little to no adjustment, but sales records at the end of the growing season may require an adjustment to account for a full years of normal mortality).
 
@@ -112,4 +112,4 @@
 
 (j) When an eligible owner claims eligible livestock were injured by an eligible loss condition and were sold for a reduced price, the owner must provide verifiable evidence of the gross sale price of the livestock. The injured livestock must be sold through an independent third party (sale barn, slaughter facility, or rendering facility). Only verifiable proof of sale with price is acceptable. The gross sale price of the livestock is the amount received for the injured livestock before any reductions, such as sale yard fees. The owner must provide verifiable evidence of livestock sold at a reduced price. Documents that may satisfy this requirement include but are not limited to, any or a combination of the following: Sales receipt from a livestock auction, sale barn, or other similar livestock sales facility; bona-fide commercial sales receipts; private insurance documents; and processing plant receipts.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49470, Oct. 2, 2018; 85 FR 10967, Feb. 26, 2020; 88 FR 1891, Jan. 11, 2023]
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49470, Oct. 2, 2018; 85 FR 10967, Feb. 26, 2020; 88 FR 1891, Jan. 11, 2023; 90 FR 5497, Jan. 17, 2025]

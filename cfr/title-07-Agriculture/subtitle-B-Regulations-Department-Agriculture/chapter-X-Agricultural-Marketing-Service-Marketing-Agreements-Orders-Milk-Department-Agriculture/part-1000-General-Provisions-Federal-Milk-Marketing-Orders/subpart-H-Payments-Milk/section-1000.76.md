@@ -1,5 +1,7 @@
 ##### § 1000.76 Payments by a handler operating a partially regulated distributing plant. #####
 
+Link to an amendment published at 90 FR 6649, Jan. 17, 2025.
+
 On or before the 25th day after the end of the month (except as provided in § 1000.90), the operator of a partially regulated distributing plant, other than a plant that is subject to marketwide pooling of producer returns under a State government's milk classification and pricing program, shall pay to the market administrator for the producer-settlement fund the amount computed pursuant to paragraph (a) of this section or, if the handler submits the information specified in §§ \_\_\_\_.30(b) and \_\_\_\_.31(b) of the order, the handler may elect to pay the amount computed pursuant to paragraph (b) of this section. A partially regulated distributing plant that is subject to marketwide pooling of producer returns under a State government's milk classification and pricing program shall pay the amount computed pursuant to paragraph (c) of this section.
 
 (a) The payment under this paragraph shall be an amount resulting from the following computations:

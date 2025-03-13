@@ -1,8 +1,8 @@
 ##### 9.403 Definitions. #####
 
-Link to an amendment published at 90 FR 511, Jan. 3, 2025.
-
 As used in this subpart—
+
+*Administrative agreement* means an agreement between an agency suspending and debarring official and the contractor used to resolve a suspension or debarment proceeding, or a potential suspension or debarment proceeding.
 
 *Affiliates.* (1) Business concerns, organizations, or individuals are affiliates of each other if, directly or indirectly—
 
@@ -14,7 +14,7 @@ As used in this subpart—
 
 *Agency* means any executive department, military department or defense agency, or other agency or independent establishment of the executive branch.
 
-*Civil judgment* means a judgment or finding of a civil offense by any court of competent jurisdiction.
+*Civil judgment* means the disposition of a civil action by any court of competent jurisdiction, whether by verdict, decision, settlement, stipulation, other disposition that creates a civil liability for the complained of wrongful acts, or a final determination of liability under the Program Fraud Civil Remedies Act of 1986 (31 U.S.C. 3801-3812).
 
 *Contractor* means any individual or other legal entity that—
 
@@ -22,23 +22,19 @@ As used in this subpart—
 
 (2) Conducts business, or reasonably may be expected to conduct business, with the Government as an agent or representative of another contractor.
 
-*Debarring official* means—
+*Conviction* means—
 
-(1) An agency head; or
+(1) A judgment or any other determination of guilt of a criminal offense by any court of competent jurisdiction, whether entered upon a verdict or plea, including a plea of nolo contendere; or
 
-(2) A designee authorized by the agency head to impose debarment.
+(2) Any other resolution that is the functional equivalent of a judgment establishing a criminal offense by a court of competent jurisdiction, including probation before judgment and deferred prosecution. A disposition without the participation of the court is the functional equivalent of a judgment only if it includes an admission of guilt.
 
 *Indictment* means indictment for a criminal offense. An information or other filing by competent authority charging a criminal offense is given the same effect as an indictment.
 
 *Legal proceedings* means any civil judicial proceeding to which the Government is a party or any criminal proceeding. The term includes appeals from such proceedings.
 
-*Nonprocurement Common Rule* means the procedures used by Federal Executive Agencies to suspend, debar, or exclude individuals or entities from participation in nonprocurement transactions under Executive Order 12549. Examples of nonprocurement transactions are grants, cooperative agreements, scholarships, fellowships, contracts of assistance, loans, loan guarantees, subsidies, insurance, payments for specified use, and donation agreements.
+*Nonprocurement Common Rule* means the procedures used by Federal Executive Agencies to suspend, debar, or exclude individuals or entities from participation in nonprocurement transactions under Executive Order 12549. Examples of nonprocurement transactions are grants, cooperative agreements, scholarships, fellowships, contracts of assistance, loans, loan guarantees, subsidies, insurance, payments for specified use, and donation agreements. See 2 CFR part 180 and agency enacting regulations in 2 CFR subtitle B.
 
-*Suspending official* means—
-
-(1) An agency head; or
-
-(2) A designee authorized by the agency head to impose suspension.
+*Pre-notice letter* means a written correspondence issued to a contractor in a suspension or debarment matter, which does not immediately result in an exclusion or ineligibility. The letter is issued at the discretion of the suspending and debarring official. The letter is not a mandatory step in the suspension or debarment process.
 
 *Unfair trade practices* means the commission of any of the following acts by a contractor:
 
@@ -48,4 +44,6 @@ As used in this subpart—
 
 (3) A knowingly false statement regarding a material element of a certification concerning the foreign content of an item of supply, as determined by the Secretary of the Department or the head of the agency to which such certificate was furnished.
 
-[48 FR 42142, Sept. 19, 1983, as amended at 54 FR 19814, May 8, 1989; 56 FR 15149, Apr. 15, 1991; 59 FR 11372, Mar. 10, 1994; 60 FR 33065, June 26, 1995; 66 FR 2128, Jan. 10, 2001; 84 FR 19845, May 6, 2019]
+*Voluntary exclusion* means a contractor's written agreement to be excluded for a period under the terms of a settlement between the contractor and the suspending and debarring official of one or more agencies. A voluntary exclusion must have Governmentwide effect.
+
+[48 FR 42142, Sept. 19, 1983, as amended at 54 FR 19814, May 8, 1989; 56 FR 15149, Apr. 15, 1991; 59 FR 11372, Mar. 10, 1994; 60 FR 33065, June 26, 1995; 66 FR 2128, Jan. 10, 2001; 84 FR 19845, May 6, 2019; 90 FR 511, Jan. 3, 2025]

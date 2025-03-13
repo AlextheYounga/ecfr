@@ -1,5 +1,7 @@
 ##### § 182.50 Liquidation and payment of drawback claims. #####
 
+Link to an amendment published at 90 FR 6486, Jan. 17, 2025.
+
 (a) *General.* When the drawback claim has been fully completed by the filing of all required documents, and exportation of the articles has been established and the amount of duties paid to Canada or Mexico has been established, the entry will be liquidated to determine the proper amount of drawback due either in accordance with the limitation on drawback set forth in § 182.44 of this subpart or in accordance with the regular drawback calculation. The liquidation procedures of subpart H of part 190 of this chapter, as appropriate, will control for purposes of this subpart.
 
 (b) [Reserved]

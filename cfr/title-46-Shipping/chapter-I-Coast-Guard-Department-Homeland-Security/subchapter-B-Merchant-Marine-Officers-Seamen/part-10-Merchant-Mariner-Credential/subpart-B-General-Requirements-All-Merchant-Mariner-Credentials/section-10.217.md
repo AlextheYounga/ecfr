@@ -1,4 +1,4 @@
-##### § 10.217 Merchant mariner credential application and examination locations. #####
+##### § 10.217 Merchant Mariner Credential application and examination locations. #####
 
 Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 

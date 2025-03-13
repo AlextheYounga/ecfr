@@ -1,6 +1,6 @@
 ##### § 47.47 Cancellation of Certificate for export purpose. #####
 
-(a) The holder of a Certificate of Aircraft Registration, AC Form 8050-3, or the holder of an irrevocable deregistration and export request authorization recognized under the Cape Town Treaty and filed with the FAA, who wishes to cancel the Certificate of Aircraft Registration for the purpose of export must submit to the Registry—
+(a) The holder of a Certificate of Aircraft Registration or the holder of an irrevocable deregistration and export request authorization recognized under the Cape Town Treaty and filed with the FAA who wishes to cancel the Certificate of Aircraft Registration for the purpose of export must submit to the Registry—
 
 (1) A written request for cancellation of the Certificate of Aircraft Registration describing the aircraft by make, model, and serial number, and stating the U.S. registration number and the country to which the aircraft will be exported;
 
@@ -14,4 +14,4 @@
 
 (c) The Registry notifies the country to which the aircraft is to be exported of the cancellation.
 
-[Amdt. 47-27, 70 FR 245, Jan. 3, 2005, as amended by Amdt. 47-29, 75 FR 41982, July 20, 2010]
+[Amdt. 47-27, 70 FR 245, Jan. 3, 2005, as amended by Amdt. 47-29, 75 FR 41982, July 20, 2010; Docket No. FAA-2024-2765, Amdt. No. 47-36, 90 FR 5572, Jan. 17, 2025]

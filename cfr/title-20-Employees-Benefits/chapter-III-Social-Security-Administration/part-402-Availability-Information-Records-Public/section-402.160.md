@@ -1,11 +1,19 @@
-##### § 402.160 Fees to be charged—general provisions. #####
+##### § 402.160 Where records are published. #####
 
-(a) We may charge search fees even if the records we find are exempt from disclosure, or even if we do not find any records at all.
+(a) *Methods of publication.* Materials we are required to publish pursuant to the provisions of 5 U.S.C. 552(a)(1) and (a)(2), we publish in one of the following ways:
 
-(b) If we are not charging you for the first two hours of search time, under paragraph (c) of § 402.155, and those two hours are spent on a computer search, then the two free hours are the first two hours of the time needed to access the information in the computer.
+(1) By publication in the Federal Register of Social Security Administration regulations, and by their subsequent inclusion in the Code of Federal Regulations;
 
-(c) If we are not charging you for the first 100 pages of duplication, under paragraph (b) or (c) of § 402.155, then those 100 pages are the first 100 pages of photocopies of standard size pages, or the first 100 pages of computer printout.
+(2) By publication in the Federal Register of appropriate general notices;
 
-(d) We will charge interest on unpaid bills beginning on the 31st day following the day the bill was sent.
+(3) By other forms of publication, when incorporated by reference in the Code of Federal Regulations with the approval of the Director of the Federal Register;
 
-[62 FR 4154, Jan. 29, 1997, as amended at 63 FR 35134, June 29, 1998]
+(4) By publication in the “Social Security Rulings” of indexes of precedential social security orders and opinions issued in the adjudication of claims, statements of policy and interpretations that have been adopted but have not been published in the Federal Register*;* and
+
+(5) By posting in the FOIA library.
+
+(b) *Publication of rulings.* Although not required pursuant to 5 U.S.C. 552(a)(1) and (a)(2), we publish the following rulings in the Federal Register and by other forms of publication:
+
+(1) We publish Social Security Rulings in the Federal Register under the authority of the Commissioner of Social Security. They are binding on all components of SSA. These rulings represent precedent final opinions and orders and statements of policy and interpretations that we have adopted.
+
+(2) We publish Social Security Acquiescence Rulings in the Federal Register under the authority of the Commissioner of Social Security. They are binding on all components of SSA, except with respect to claims subject to the relitigation procedures established in 20 CFR 404.985(c) and 416.1485(c). For a description of Social Security Acquiescence Rulings, see 20 CFR 404.985(b) and 416.1485(b).

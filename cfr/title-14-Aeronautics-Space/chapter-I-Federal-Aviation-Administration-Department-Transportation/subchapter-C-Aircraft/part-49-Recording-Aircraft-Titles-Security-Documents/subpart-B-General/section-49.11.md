@@ -1,5 +1,5 @@
 ##### § 49.11 FAA Aircraft Registry. #####
 
-To be eligible for recording, a conveyance must be delivered to the Registry by a means acceptable to the Administrator.
+To be eligible for recording, a conveyance must be delivered to the Registry by a means and in a form acceptable to the Administrator, to include electronic or digital forms and means compatible with systems of the Registry.
 
-[Amdt. 49-10, 70 FR 246, Jan. 3, 2005, as amended by Amdt. No. 49-11, 87 FR 75711, Dec. 9, 2022]
+[Docket No. FAA-2024-2764, Amdt. Nos. 47-35 and 49-12, 90 FR 5576, Jan. 17, 2025]

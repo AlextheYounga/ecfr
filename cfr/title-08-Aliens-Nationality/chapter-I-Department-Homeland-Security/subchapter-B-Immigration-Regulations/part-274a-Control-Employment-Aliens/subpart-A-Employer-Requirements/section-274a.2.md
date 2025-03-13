@@ -106,13 +106,13 @@
 
 (D) The following are acceptable documents to establish both identity and employment authorization in the Commonwealth of the Northern Mariana Islands only, for a two-year period starting from the transition program effective date (as defined in 8 CFR 1.1), in addition to those documents listed in paragraph (b)(1)(v)(A) of this section:
 
-(*1*) In the case of an alien with employment authorization in the Commonwealth of the Northern Mariana Islands incident to status for a period of up to two years following the transition program effective date that is unrestricted or otherwise authorizes a change of employer:
+(1) In the case of an alien with employment authorization in the Commonwealth of the Northern Mariana Islands incident to status for a period of up to two years following the transition program effective date that is unrestricted or otherwise authorizes a change of employer:
 
-(*i*) The unexpired foreign passport and an Alien Entry Permit with red band issued to the alien by the Office of the Attorney General, Division of Immigration of the Commonwealth of the Northern Mariana Islands before the transition program effective date, as long as the period of employment authorization has not yet expired, or
+(i) The unexpired foreign passport and an Alien Entry Permit with red band issued to the alien by the Office of the Attorney General, Division of Immigration of the Commonwealth of the Northern Mariana Islands before the transition program effective date, as long as the period of employment authorization has not yet expired, or
 
-(*ii*) An unexpired foreign passport and temporary work authorization letter issued by the Department of Labor of the Commonwealth of the Northern Mariana Islands before the transition program effective date, and containing the name and photograph of the individual, as long as the period of employment authorization has not yet expired and the proposed employment is not in conflict with any restrictions or limitations identified on the Temporary Work Authorization letter;
+(ii) An unexpired foreign passport and temporary work authorization letter issued by the Department of Labor of the Commonwealth of the Northern Mariana Islands before the transition program effective date, and containing the name and photograph of the individual, as long as the period of employment authorization has not yet expired and the proposed employment is not in conflict with any restrictions or limitations identified on the Temporary Work Authorization letter;
 
-(*iii*) An unexpired foreign passport and a permanent resident card issued by the Commonwealth of the Northern Mariana Islands.
+(iii) An unexpired foreign passport and a permanent resident card issued by the Commonwealth of the Northern Mariana Islands.
 
 (*2*) [Reserved]
 

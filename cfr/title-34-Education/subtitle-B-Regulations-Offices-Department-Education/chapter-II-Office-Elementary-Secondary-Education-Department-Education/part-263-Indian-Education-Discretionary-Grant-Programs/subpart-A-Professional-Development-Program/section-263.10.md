@@ -1,5 +1,7 @@
 ##### § 263.10 What are the requirements for payback deferral? #####
 
+Link to an amendment published at 90 FR 5637, Jan. 17, 2025.
+
 (a) *Education deferral.* If a participant completes or exits the Professional Development program, but plans to continue his or her education as a full-time student without interruption, in a program leading to a degree at an accredited institution of higher education, the Secretary may defer the payback requirement until the participant has completed his or her educational program.
 
 (1) A request for a deferral must be submitted to the Secretary within 30 days of completing or exiting the Professional Development program and must provide the following information—

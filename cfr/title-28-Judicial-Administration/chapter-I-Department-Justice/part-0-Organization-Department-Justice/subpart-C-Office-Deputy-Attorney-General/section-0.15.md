@@ -42,15 +42,7 @@
 
 (e) The officials to whom the Deputy Attorney General delegates authority under paragraph (c) of this section and any of the officials who may be otherwise authorized by the Deputy Attorney General to perform any other attorney personnel duties may redelegate those authorities and duties.
 
-(f) The Deputy Attorney General is authorized, and may delegate authority to the Director of the Asylum Policy and Review Unit within the Office of Legal Policy, to:
-
-(1) Compile and disseminate to Immigration and Naturalization Service (INS) officers information concerning the persecution of persons in countries on account of race, religion, nationality, membership in a particular social group, or political opinion.
-
-(2) Review cases decided by the Board of Immigration Appeals pursuant to 8 CFR 3.1(h)(1)(i);
-
-(3) Review INS asylum decisions in cases which the Deputy Attorney General directs INS to refer to him.
-
-(4) Assist INS in conducting training concerning asylum and assist in resolving questions of policy that may arise.
+(f) [Reserved]
 
 (g) The Deputy Attorney General is authorized to exercise the authority vested in the Attorney General under section 528(a), Public Law 101-509, to accept from federal departments and agencies the services of attorneys and non-law enforcement personnel to assist the Department of Justice in the investigation and prosecution of fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation, and to supervise such personnel in the conduct of such investigations and prosecutions.
 

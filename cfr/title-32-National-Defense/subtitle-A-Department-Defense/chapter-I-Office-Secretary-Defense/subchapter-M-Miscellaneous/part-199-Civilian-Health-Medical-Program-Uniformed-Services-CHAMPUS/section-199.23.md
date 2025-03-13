@@ -28,7 +28,7 @@
 
 (C) Is under 23 years of age, is enrolled in a full-time course of study in an institution of higher education and is in fact dependent on the member for more than one-half of the child's support.
 
-(10) *Drafts.* Paper food instruments, similar to vouchers, issued in the WIC Overseas offices to program participants. Participants may redeem their drafts at participating commissaries and NEXMARTs for the types and quantities of foods specified on the face of the draft.
+(10) *Drafts.* Food instruments, similar to a voucher (whether paper, card or other approved access device or method), issued in the WIC Overseas offices to program participants. Participants may redeem their drafts at participating commissaries and NEXMARTs for the types and quantities of foods specified on the face of the draft.
 
 (11) *Economic unit.* All individuals contributing to or subsidizing the income of a household, whether they physically reside in that household or not.
 
@@ -218,4 +218,4 @@
 
 (2) Information and personnel security requirements shall be consistent with applicable laws and regulations.
 
-[69 FR 15678, Mar. 26, 2004]
+[69 FR 15678, Mar. 26, 2004, as amended at 90 FR 5632, Jan. 17, 2025]

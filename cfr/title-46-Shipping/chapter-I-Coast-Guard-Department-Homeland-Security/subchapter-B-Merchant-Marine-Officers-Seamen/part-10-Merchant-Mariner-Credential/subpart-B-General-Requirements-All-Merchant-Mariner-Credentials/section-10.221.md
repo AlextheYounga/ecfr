@@ -1,8 +1,6 @@
 ##### § 10.221 Citizenship. #####
 
-Link to an amendment published at 89 FR 93060, Nov. 25, 2024.
-
-(a)(1) *MMCs with officer Endorsements.* Only individuals with valid U.S. citizenship may apply for officer endorsements, except individuals applying for endorsements as operators of uninspected passenger vessels authorizing service on undocumented vessels in accordance with § 11.201(d) of this subchapter.
+(a)(1) *MMCs with officer Endorsements.* Only individuals with valid U.S. citizenship may apply for officer endorsements, except individuals applying for endorsements as Operator of Uninspected Passenger Vessels (OUPV) authorizing service on undocumented vessels in accordance with § 11.201(d) of this subchapter.
 
 (2) *All other MMCs.* All other applicants, except as noted in § 12.809 of this subchapter, must be either:
 
@@ -26,7 +24,7 @@ Link to an amendment published at 89 FR 93060, Nov. 25, 2024.
 
 (iv) Certificate of Naturalization issued by U.S. Citizenship and Immigration Services or the Immigration and Naturalization Service; or
 
-(v) Merchant mariner's document issued by the Coast Guard after February 3, 2003, that shows that the holder is a citizen of the United States.
+(v) Merchant Mariner's Document issued by the Coast Guard after February 3, 2003, that shows that the holder is a citizen of the United States.
 
 (2) If the individual is applying for a rating endorsement and they hold one of the documents listed in paragraph (c)(1)(i) through (v) of this section, these documents are also acceptable as evidence of citizenship. If the individual does not hold any one of those documents listed in paragraph (c)(1)(i) through (v), the individual must provide an original unexpired foreign passport and an original of any one of the following documents:
 
@@ -40,4 +38,4 @@ Link to an amendment published at 89 FR 93060, Nov. 25, 2024.
 
 (4) If the individual is applying for an MMC endorsed only as OUPV of an undocumented vessel, the individual must provide an original of any one of the documents enumerated in paragraphs (c)(1)(i) through (v) or (c)(2)(i) or (ii) of this section, or proof of acceptable alien status as provided in 49 CFR 1572.105.
 
-[USCG-2006-24371, 74 FR 11216, Mar. 16, 2009, as amended by USCG-2004-17914, 78 FR 77892, Dec. 24, 2013; USCG-2018-0874, 84 FR 30881, June 28, 2019]
+[USCG-2006-24371, 74 FR 11216, Mar. 16, 2009, as amended by USCG-2004-17914, 78 FR 77892, Dec. 24, 2013; USCG-2018-0874, 84 FR 30881, June 28, 2019; USCG-2021-0097, 89 FR 93054, 93060, Nov. 25, 2024]

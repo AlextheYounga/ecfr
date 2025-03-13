@@ -42,7 +42,7 @@
 
 (ii) The following form fees may be waived based on the conditions described in paragraphs (a)(3)(ii)(A) through (F) of this section:
 
-(A) Petition for a CNMI-Only Nonimmigrant Transitional Worker (Form I-129CW) for a E-2 CNMI investor. Waiver of the fee for Form I-129CW does not waive the requirement for a E-2 CNMI investor to pay any fees in § 106.2(c) that may apply.
+(A) Petition for a CNMI-Only Nonimmigrant Transitional Worker (Form I-129CW) for a CW-1, CNMI-only transitional worker. Waiver of the fee for Form I-129CW does not waive the requirement for an employer petitioning for a CW-1, CNMI-only transitional worker to pay any fees in § 106.2(c) that may apply.
 
 (B) An Application to Extend/Change Nonimmigrant Status (Form I-539), only in the case of a noncitizen applying for CW-2 nonimmigrant status;
 
@@ -208,4 +208,4 @@
 
 (c) *Director's waiver or exemption exception.* The Director of USCIS may authorize the waiver of or exemption from, in whole or in part, a form fee required by § 106.2 that is not otherwise waivable or exempt under this section, if the Director determines that such action is in the public interest and consistent with the applicable law. This discretionary authority may be delegated only to the USCIS Deputy Director.
 
-[89 FR 6386, Jan. 31, 2024, as amended at 89 FR 20104, Mar. 21, 2024]
+[89 FR 6386, Jan. 31, 2024, as amended at 89 FR 20104, Mar. 21, 2024; 90 FR 5519, Jan. 17, 2025]

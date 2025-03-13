@@ -1,5 +1,7 @@
 ##### § 2700.78 Reconsideration. #####
 
+Link to an amendment published at 90 FR 5626, Jan. 17, 2025.
+
 (a) A petition for reconsideration must be filed with the Commission within 10 days after a decision or order of the Commission. Any response must be filed with the Commission within 10 days of service of the petition.
 
 (b) Unless the Commission orders otherwise, the filing of a petition for reconsideration shall not stay the effect of a decision or order of the Commission.

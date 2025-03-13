@@ -1,5 +1,7 @@
 ##### § 2700.4 Parties, intervenors, and amici curiae. #####
 
+Link to an amendment published at 90 FR 5617, Jan. 17, 2025.
+
 (a) *Party status.* A person, including the Secretary or an operator, who is named as a party or who is permitted to intervene, is a party. In a proceeding instituted by the Secretary under section 105(c)(2) of the Act, 30 U.S.C. 815(c)(2), the complainant on whose behalf the Secretary has filed the complaint is a party and may present additional evidence on his own behalf. A miner, applicant for employment, or representative of a miner who has filed a complaint with the Commission under section 105(c)(3) or 111 of the Act, 30 U.S.C. 815(c)(3) and 821, and an affected miner or his representative who has become a party in accordance with paragraph (b) of this section, are parties.
 
 (b) *Intervention*—(1) *Intervention by affected miners and their representatives.* Before a case has been assigned to a Judge, affected miners or their representatives shall be permitted to intervene upon filing a written notice of intervention with the Executive Director, Federal Mine Safety and Health Review Commission, 1331 Pennsylvania Avenue NW., Suite 520N, Washington, DC 20004-1710. If the case has been assigned to a Judge, the notice of intervention shall be filed with the Judge. The Commission or the Judge shall mail forthwith a copy of the notice to all parties. After the start of the hearing, affected miners or their representatives may intervene upon just terms and for good cause shown.

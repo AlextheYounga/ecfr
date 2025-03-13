@@ -1,8 +1,8 @@
-##### § 10.405 Qualification as qualified assessor (QA) and designated examiner (DE). #####
+##### § 10.405 Qualification as Qualified Assessor and Designated Examiner. #####
 
-Link to an amendment published at 89 FR 93068, Nov. 25, 2024.Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
+Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 
-(a) To become a QA, an applicant must have documentary evidence to establish—
+(a) To become a Qualified Assessor (QA), an applicant must have documentary evidence to establish—
 
 (1) Experience, training, or instruction in assessment techniques;
 
@@ -21,3 +21,5 @@ Link to an amendment published at 89 FR 93068, Nov. 25, 2024.Link to an amendmen
 (c) Documentary evidence may be in the form of performance evaluations, which include an evaluation of effectiveness in on-the-job organization and delivery of training, or a certificate of successful completion from an “assessor training” course.
 
 (d) In order to renew his or her qualifications, each QA and DE must have either experience, training, or evidence of instruction in effective assessment within the past 5 years.
+
+[USCG-2004-17914, 78 FR 77903, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93068, Nov. 25, 2024]

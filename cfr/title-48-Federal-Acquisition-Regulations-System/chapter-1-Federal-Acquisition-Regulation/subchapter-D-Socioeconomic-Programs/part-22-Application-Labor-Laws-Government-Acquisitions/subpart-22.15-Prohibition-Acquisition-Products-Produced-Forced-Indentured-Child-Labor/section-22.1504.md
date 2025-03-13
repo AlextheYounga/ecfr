@@ -1,7 +1,5 @@
 ##### 22.1504 Violations and remedies. #####
 
-Link to an amendment published at 90 FR 516, Jan. 3, 2025.
-
 (a) *Violations.* The Government may impose remedies set forth in paragraph (b) of this section for the following violations (note that the violations in paragraphs (a)(3) and (a)(4) of this section go beyond violations of the requirements relating to certification of end products) (see 22.1503):
 
 (1) The contractor has submitted a false certification regarding knowledge of the use of forced or indentured child labor.
@@ -14,6 +12,8 @@ Link to an amendment published at 90 FR 516, Jan. 3, 2025.
 
 (b) *Remedies.* (1) The contracting officer may terminate the contract.
 
-(2) The suspending official may suspend the contractor in accordance with the procedures in subpart 9.4.
+(2) The suspending and debarring official may suspend the contractor in accordance with the procedures in subpart 9.4.
 
-(3) The debarring official may debar the contractor for a period not to exceed 3 years in accordance with the procedures in subpart 9.4.
+(3) The suspending and debarring official may debar the contractor for a period not to exceed 3 years in accordance with the procedures in subpart 9.4.
+
+[66 FR 5347, Jan. 18, 2001, as amended at 90 FR 516, Jan. 3, 2025]

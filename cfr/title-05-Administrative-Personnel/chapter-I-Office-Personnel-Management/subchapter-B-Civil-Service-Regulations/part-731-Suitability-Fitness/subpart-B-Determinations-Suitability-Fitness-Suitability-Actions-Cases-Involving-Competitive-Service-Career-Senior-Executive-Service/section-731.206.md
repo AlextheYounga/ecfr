@@ -1,0 +1,3 @@
+##### § 731.206 Reporting requirements for investigations and suitability and fitness determinations. #####
+
+An agency must report to the Central Verification System or its successor the level or nature, result, and completion date of each background investigation, reinvestigation, or enrollment in Continuous Vetting; each agency decision based on such investigation, reinvestigation, or Continuous Vetting; and any personnel action taken based on such investigation or reinvestigation, as required in supplemental guidance.

@@ -1,7 +1,5 @@
 ##### 52.213-4 Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services). #####
 
-Link to an amendment published at 90 FR 517, Jan. 3, 2025.Link to an amendment published at 90 FR 525, Jan. 3, 2025.
-
 As prescribed in 13.302-5(d), insert the following clause:
 
 Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (JAN 2025)
@@ -48,7 +46,7 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (vi) 52.233-1, Disputes (MAY 2014).
 
-(vii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (NOV 2024).
+(vii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (JAN 2025).
 
 (viii) 52.253-1, Computer Generated Forms (JAN 1991).
 
@@ -60,7 +58,7 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (ii) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (JUN 2020) (Pub. L. 109-282) (31 U.S.C. 6101 note) (Applies to contracts valued at or above the threshold specified in FAR 4.1403(a) on the date of award of this contract).
 
-(iii) 52.222-19, Child Labor—Cooperation with Authorities and Remedies (FEB 2024) (E.O. 13126) (Applies to contracts for supplies exceeding the micro-purchase threshold, as defined in 2.101 on the date of award of this contract).
+(iii) 52.222-19, Child Labor—Cooperation with Authorities and Remedies (JAN 2025) (E.O. 13126) (Applies to contracts for supplies exceeding the micro-purchase threshold, as defined in FAR 2.101 on the date of award of this contract).
 
 (iv) 52.222-20, Contracts for Materials, Supplies, Articles, and Equipment (JUN 2020) (41 U.S.C. chapter 65) (Applies to supply contracts over the threshold specified in FAR 22.602 on the date of award of this contract, in the United States, Puerto Rico, or the U.S. Virgin Islands).
 
@@ -118,7 +116,7 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (i) 52.204-21, Basic Safeguarding of Covered Contractor Information Systems (NOV 2021) (Applies to contracts when the contractor or a subcontractor at any tier may have Federal contract information residing in or transiting through its information system.)
 
-(ii) 52.209-6, Protecting the Government's Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment (NOV 2021) (Applies to contracts over the threshold specified in FAR 9.405-2(b) on the date of award of this contract).
+(ii) 52.209-6, Protecting the Government's Interest When Subcontracting with Contractors Debarred, Suspended, Proposed for Debarment, or Voluntarily Excluded (JAN 2025) (Applies to contracts over the threshold specified in FAR 9.405-2(b) on the date of award of this contract).
 
 (iii) 52.211-17, Delivery of Excess Quantities (SEP 1989) (Applies to fixed-price supplies).
 

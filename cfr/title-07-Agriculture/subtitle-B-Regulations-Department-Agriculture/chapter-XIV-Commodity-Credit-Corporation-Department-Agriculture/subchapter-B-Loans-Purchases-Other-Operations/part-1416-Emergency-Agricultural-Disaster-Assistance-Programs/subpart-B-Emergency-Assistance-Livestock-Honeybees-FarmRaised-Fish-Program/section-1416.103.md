@@ -24,7 +24,15 @@
 
 (iii) That the producer is not normally required to transport water to the livestock.
 
-(6) A loss resulting from the additional cost incurred on or after January 1, 2021, to transport eligible livestock to feed or livestock feed to eligible livestock for additional mileage above normal, due to eligible adverse weather, an eligible loss condition, or eligible drought, as determined by the Deputy Administrator, including costs associated with treating livestock feed to prevent the spread of invasive pests. The cost of the feed is not eligible for payment. Negligence, mismanagement, or wrongdoing by the producer is not considered an eligible loss condition for livestock or feed transportation costs. To be eligible for a loss under this paragraph, the livestock must be livestock that would normally have been on eligible grazing lands physically located in the county where the eligible adverse weather, eligible loss condition, or eligible drought, as determined by the Deputy Administrator, occurred.
+(6) A loss resulting from the additional cost incurred on or after January 1, 2021, to transport eligible livestock to feed or livestock feed to eligible livestock for additional mileage above normal, due to eligible adverse weather, an eligible loss condition, or eligible drought, as determined by the Deputy Administrator, including costs associated with treating livestock feed to prevent the spread of invasive pests. The cost of the feed is not eligible for payment. Negligence, mismanagement, or wrongdoing by the producer is not considered an eligible loss condition for livestock or feed transportation costs. To be eligible for a loss under this paragraph (d)(6), the livestock must be livestock that would normally have been on eligible grazing lands physically located in the county where the eligible adverse weather, eligible loss condition, or eligible drought, as determined by the Deputy Administrator, occurred. The eligible loss from the additional cost to transport livestock feed is limited to the cost to transport feed to meet the feed needs of eligible livestock for the program year in which the eligible adverse weather, eligible loss condition, or eligible drought occurred. The cost to transport livestock feed is not an eligible loss if the feed is purchased or obtained:
+
+(i) In excess of the amount needed for the program year in which eligible adverse weather, eligible loss condition, or eligible drought occurred, as determined according to § 1416.110(q);
+
+(ii) To sell to another producer;
+
+(iii) For another producer's livestock; or
+
+(iv) For ineligible livestock.
 
 (e) For a grazing loss to be considered eligible, the grazing loss must have been incurred:
 
@@ -58,4 +66,4 @@
 
 (j) For milk losses due to H5N1 to be considered eligible, the producer must have had reduced milk production as a result of removal of adult dairy cows from daily milking due to H5N1 infection. Such infection must be confirmed for the herd by at least one positive H5N1 test for a dairy cow within that herd. The date of the eligible loss condition for milk losses due to H5N1 is the positive H5N1 test collection date.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49465, Oct. 2, 2018; 85 FR 10964, Feb. 26, 2020; 87 FR 19785, Apr. 6, 2022; 88 FR 1891, Jan. 11, 2023; 89 FR 54334, July 1, 2024]
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49465, Oct. 2, 2018; 85 FR 10964, Feb. 26, 2020; 87 FR 19785, Apr. 6, 2022; 88 FR 1891, Jan. 11, 2023; 89 FR 54334, July 1, 2024; 90 FR 5496, Jan. 17, 2025]

@@ -1,7 +1,5 @@
 ##### 3.104-7 Violations or possible violations. #####
 
-Link to an amendment published at 90 FR 511, Jan. 3, 2025.
-
 (a) A contracting officer who receives or obtains information of a violation or possible violation of 41 U.S.C. 2102, 2103, or 2104 (see 3.104-3) must determine if the reported violation or possible violation has any impact on the pending award or selection of the contractor.
 
 (1) If the contracting officer concludes that there is no impact on the procurement, the contracting officer must forward the information concerning the violation or possible violation and documentation supporting a determination that there is no impact on the procurement to an individual designated in accordance with agency procedures.
@@ -52,7 +50,7 @@ Link to an amendment published at 90 FR 511, Jan. 3, 2025.
 
 (iii) Take any other appropriate actions in the best interests of the Government.
 
-(3) Refer the matter to the agency suspending or debarring official.
+(3) Refer the matter to the agency suspending and debarring official.
 
 (e) The HCA should recommend or direct an administrative or contractual remedy commensurate with the severity and effect of the violation.
 
@@ -60,4 +58,4 @@ Link to an amendment published at 90 FR 511, Jan. 3, 2025.
 
 (g) The HCA may delegate his or her authority under this subsection to an individual at least one organizational level above the contracting officer and of General Officer, Flag, Senior Executive Service, or equivalent rank.
 
-[67 FR 13059, Mar. 20, 2002, as amended at 79 FR 24196, Apr. 29, 2014]
+[67 FR 13059, Mar. 20, 2002, as amended at 79 FR 24196, Apr. 29, 2014; 90 FR 511, Jan. 3, 2025]

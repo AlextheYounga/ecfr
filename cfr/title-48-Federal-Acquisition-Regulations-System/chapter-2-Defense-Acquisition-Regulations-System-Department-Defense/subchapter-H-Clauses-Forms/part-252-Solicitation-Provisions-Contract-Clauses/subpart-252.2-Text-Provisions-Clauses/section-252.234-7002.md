@@ -2,7 +2,7 @@
 
 As prescribed in 234.203(2), use the following clause:
 
-Earned Value Management System (MAY 2011)
+Earned Value Management System (Jan 2025)
 
 (a) *Definitions.* As used in this clause—
 
@@ -10,7 +10,11 @@ Earned Value Management System (MAY 2011)
 
 *Earned value management system* means an earned value management system that complies with the earned value management system guidelines in the ANSI/EIA-748.
 
-*Significant deficiency* means a shortcoming in the system that materially affects the ability of officials of the Department of Defense to rely upon information produced by the system that is needed for management purposes.
+*Material weakness* means a deficiency or combination of deficiencies in the internal control over information in contractor business systems, such that there is a reasonable possibility that a material misstatement of such information will not be prevented, or detected and corrected, on a timely basis. A reasonable possibility exists when the likelihood of an event occurring is—
+
+(1) Probable; or
+
+(2) More than remote but less than likely (section 806 of Pub. L. 116-283).
 
 (b) *System criteria.* In the performance of this contract, the Contractor shall use—
 
@@ -38,25 +42,25 @@ During such reviews, the Government and the Contractor will jointly assess the C
 
 (h) When indicated by contract performance, the Contractor shall submit a request for approval to initiate an over-target baseline or over-target schedule to the Contracting Officer. The request shall include a top-level projection of cost and/or schedule growth, a determination of whether or not performance variances will be retained, and a schedule of implementation for the rebaselining. The Government will acknowledge receipt of the request in a timely manner (generally within 30 calendar days).
 
-(i) *Significant deficiencies.* (1) The Contracting Officer will provide an initial determination to the Contractor, in writing, on any significant deficiencies. The initial determination will describe the deficiency in sufficient detail to allow the Contractor to understand the deficiency.
+(i) *Material weaknesses.* (1) The Contracting Officer will provide an initial determination to the Contractor, in writing, of any material weaknesses. The initial determination will describe the underlying deficiency in sufficient detail to allow the Contractor to understand the weakness or deficiency.
 
-(2) The Contractor shall respond within 30 days to a written initial determination from the Contracting Officer that identifies significant deficiencies in the Contractor's EVMS. If the Contractor disagrees with the initial determination, the Contractor shall state, in writing, its rationale for disagreeing.
+(2) The Contractor shall respond within 30 days to a written initial determination from the Contracting Officer that identifies material weaknesses in the Contractor's EVMS. If the Contractor disagrees with the initial determination, the Contractor shall state, in writing, its rationale for disagreeing.
 
 (3) The Contracting Officer will evaluate the Contractor's response and notify the Contractor, in writing, of the Contracting Officer's final determination concerning—
 
-(i) Remaining significant deficiencies;
+(i) Remaining material weaknesses;
 
 (ii) The adequacy of any proposed or completed corrective action;
 
 (iii) System noncompliance, when the Contractor's existing EVMS fails to comply with the earned value management system guidelines in the ANSI/EIA-748; and
 
-(iv) System disapproval, if initial EVMS validation is not successfully completed within the timeframe approved by the Contracting Officer, or if the Contracting Officer determines that the Contractor's earned value management system contains one or more significant deficiencies in high-risk guidelines in ANSI/EIA-748 standards (guidelines 1, 3, 6, 7, 8, 9, 10, 12, 16, 21, 23, 26, 27, 28, 30, or 32). When the Contracting Officer determines that the existing earned value management system contains one or more significant deficiencies in one or more of the remaining 16 guidelines in ANSI/EIA-748 standards, the contracting officer will use discretion to disapprove the system based on input received from functional specialists and the auditor.
+(iv) System disapproval, if initial EVMS validation is not successfully completed within the timeframe approved by the Contracting Officer, or if the Contracting Officer determines that the Contractor's earned value management system contains one or more material weaknesses in high-risk guidelines in ANSI/EIA-748 standards (guidelines 1, 3, 6, 7, 8, 9, 10, 12, 16, 21, 23, 26, 27, 28, 30, or 32). When the Contracting Officer determines that the existing earned value management system contains one or more material weaknesses in one or more of the remaining 16 guidelines in ANSI/EIA-748 standards, the Contracting Officer will use discretion to disapprove the system based on input received from functional specialists and the auditor.
 
-(4) If the Contractor receives the Contracting Officer's final determination of significant deficiencies, the Contractor shall, within 45 days of receipt of the final determination, either correct the significant deficiencies or submit an acceptable corrective action plan showing milestones and actions to eliminate the significant deficiencies.
+(4) If the Contractor receives the Contracting Officer's final determination of material weaknesses, the Contractor shall, within 45 days of receipt of the final determination, either correct the material weaknesses or submit an acceptable corrective action plan showing milestones and actions to eliminate the material weaknesses.
 
 (j) *Withholding payments.* If the Contracting Officer makes a final determination to disapprove the Contractor's EVMS, and the contract includes the clause at 252.242-7005, Contractor Business Systems, the Contracting Officer will withhold payments in accordance with that clause.
 
-(k) With the exception of paragraphs (i) and (j) of this clause, the Contractor shall require its subcontractors to comply with EVMS requirements as follows:
+(k) *Subcontracts.* With the exception of paragraphs (i) and (j) of this clause, the Contractor shall require its subcontractors to comply with EVMS requirements as follows:
 
 (1) For subcontracts valued at $50 million or more, the following subcontractors shall comply with the requirements of this clause:
 
@@ -66,4 +70,4 @@ During such reviews, the Government and the Contractor will jointly assess the C
 
 *[Contracting Officer to insert names of subcontractors (or subcontracted effort if subcontractors have not been selected) designated for application of the EVMS requirements of this clause.]*
 
-(End of clause)[76 FR 28873, May 18, 2011]
+(End of clause)[76 FR 28873, May 18, 2011, as amended at 90 FR 5732, Jan. 17, 2025]

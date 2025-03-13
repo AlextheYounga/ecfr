@@ -1,5 +1,7 @@
 ##### § 1000.50 Class prices, component prices, and advanced pricing factors. #####
 
+Link to an amendment published at 90 FR 6603, Jan. 17, 2025.Link to an amendment published at 90 FR 6604, Jan. 17, 2025.
+
 Class prices per hundredweight of milk containing 3.5 percent butterfat, component prices, and advanced pricing factors shall be as follows. The prices and pricing factors described in paragraphs (a), (b), (c), (e), (f), and (q) of this section shall be based on a weighted average of the most recent 2 weekly prices announced by the National Agricultural Statistical Service (NASS) before the 24th day of the month. These prices shall be announced on or before the 23rd day of the month and shall apply to milk received during the following month. The prices described in paragraphs (g) through (p) of this section shall be based on a weighted average for the preceding month of weekly prices announced by NASS on or before the 5th day of the month and shall apply to milk received during the preceding month. The price described in paragraph (d) of this section shall be derived from the Class II skim milk price announced on or before the 23rd day of the month preceding the month to which it applies and the butterfat price announced on or before the 5th day of the month following the month to which it applies.
 
 (a) *Class I price.* The Class I price per hundredweight, rounded to the nearest cent, shall be 0.965 times the Class I skim milk price plus 3.5 times the Class I butterfat price.

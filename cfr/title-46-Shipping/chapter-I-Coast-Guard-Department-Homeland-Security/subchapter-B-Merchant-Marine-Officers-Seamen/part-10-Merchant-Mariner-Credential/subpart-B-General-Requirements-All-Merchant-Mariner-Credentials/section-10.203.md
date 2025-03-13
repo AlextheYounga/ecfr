@@ -1,4 +1,4 @@
-##### § 10.203 Requirement to hold a TWIC and a merchant mariner credential. #####
+##### § 10.203 Requirement to hold a TWIC and a Merchant Mariner Credential. #####
 
 Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 

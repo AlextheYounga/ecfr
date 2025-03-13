@@ -1,5 +1,7 @@
 ##### § 141.68 Time of entry. #####
 
+Link to an amendment published at 90 FR 6482, Jan. 17, 2025.
+
 (a) *When entry documentation is filed without entry summary.* When the entry documentation is filed in proper form without an entry summary, the “time of entry” will be:
 
 (1) The time the appropriate CBP officer authorizes the release of the merchandise or any part of the merchandise covered by the entry documentation, or

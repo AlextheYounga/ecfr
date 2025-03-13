@@ -1,5 +1,7 @@
 ##### § 10.224 Certificate of Origin. #####
 
+Link to an amendment published at 90 FR 6480, Jan. 17, 2025.
+
 (a) *General.* A Certificate of Origin must be employed to certify that a textile or apparel article being exported from a CBTPA beneficiary country to the United States qualifies for the preferential treatment referred to in § 10.221. The Certificate of Origin must be prepared by the exporter in the CBTPA beneficiary country in the form specified in paragraph (b) of this section. Where the CBTPA beneficiary country exporter is not the producer of the article, that exporter may complete and sign a Certificate of Origin on the basis of:
 
 (1) Its reasonable reliance on the producer's written representation that the article qualifies for preferential treatment; or

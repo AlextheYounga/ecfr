@@ -1,7 +1,5 @@
 ##### 33.102 General. #####
 
-Link to an amendment published at 90 FR 516, Jan. 3, 2025.
-
 (a) Without regard to the protest venue, contracting officers shall consider all protests and seek legal advice, whether protests are submitted before or after award and whether filed directly with the agency, the Government Accountability Office (GAO), or the U.S. Court of Federal Claims. (*See* 19.302 for protests of small business status, 19.305 for protests of disadvantaged business status, 19.306 for protests of HUBZone small business status, and 19.307 for protests of service-disabled veteran-owned small business status, and 19.308 for protests of the status of an economically disadvantaged women-owned small business concern or of a women-owned small business concern eligible under the Women-Owned Small Business Program.)
 
 (b) If, in connection with a protest, the head of an agency determines that a solicitation, proposed award, or award does not comply with the requirements of law or regulation, the head of the agency may—
@@ -16,7 +14,7 @@ Link to an amendment published at 90 FR 516, Jan. 3, 2025.
 
 (ii) The contracting officer shall review the amount of the debt, degree of the awardee's fault, and costs of collection, to determine whether a demand for reimbursement ought to be made. If it is in the best interests of the Government to seek reimbursement, the contracting officer shall notify the contractor in writing of the nature and amount of the debt, and the intention to collect by offset if necessary. Prior to issuing a final decision, the contracting officer shall afford the contractor an opportunity to inspect and copy agency records pertaining to the debt to the extent permitted by statute and regulation, and to request review of the matter by the head of the contracting activity.
 
-(iii) When appropriate, the contracting officer shall also refer the matter to the agency debarment official for consideration under Subpart 9.4.
+(iii) When appropriate, the contracting officer shall also refer the matter to the agency suspending and debarring official for consideration under subpart 9.4.
 
 (c) In accordance with 31 U.S.C. 1558, with respect to any protest filed with the GAO, if the funds available to the agency for a contract at the time a protest is filed in connection with a solicitation for, proposed award of, or award of such a contract would otherwise expire, such funds shall remain available for obligation for 100 days after the date on which the final ruling is made on the protest. A ruling is considered final on the date on which the time allowed for filing an appeal or request for reconsideration has expired, or the date on which a decision is rendered on such appeal or request, whichever is later.
 

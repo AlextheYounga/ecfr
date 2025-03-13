@@ -1,10 +1,8 @@
 ##### 52.222-54 Employment Eligibility Verification. #####
 
-Link to an amendment published at 90 FR 517, Jan. 3, 2025.
-
 As prescribed in 22.1803, insert the following clause:
 
-Employment Eligibility Verification (MAY 2022)
+Employment Eligibility Verification (JAN 2025)
 
 (a) *Definitions.* As used in this clause—
 
@@ -58,9 +56,9 @@ Employment Eligibility Verification (MAY 2022)
 
 (5) The Contractor shall comply, for the period of performance of this contract, with the requirements of the E-Verify program MOU.
 
-(i) The Department of Homeland Security (DHS) or the Social Security Administration (SSA) may terminate the Contractor's MOU and deny access to the E-Verify system in accordance with the terms of the MOU. In such case, the Contractor will be referred to a suspension or debarment official.
+(i) The Department of Homeland Security (DHS) or the Social Security Administration (SSA) may terminate the Contractor's MOU and deny access to the E-Verify system in accordance with the terms of the MOU. In such case, the Contractor will be referred to a suspending and debarring official.
 
-(ii) During the period between termination of the MOU and a decision by the suspension or debarment official whether to suspend or debar, the Contractor is excused from its obligations under paragraph (b) of this clause. If the suspension or debarment official determines not to suspend or debar the Contractor, then the Contractor must reenroll in E-Verify.
+(ii) During the period between termination of the MOU and a decision by the suspending and debarring official whether to suspend or debar, the Contractor is excused from its obligations under paragraph (b) of this clause. If the Contractor is not suspended, debarred, or subject to a voluntary exclusion, then the Contractor must reenroll in E-Verify.
 
 (c) *Web site.* Information on registration for and use of the E-Verify program can be obtained via the Internet at the Department of Homeland Security Web site: *https://www.e-Verify.gov*
 
@@ -82,4 +80,4 @@ Employment Eligibility Verification (MAY 2022)
 
 (3) Includes work performed in the United States.
 
-(End of clause)[73 FR 67704, Nov. 14, 2008, as amended at 73 FR 72242, Nov. 26, 2008; 77 FR 44066, July 26, 2012; 78 FR 46795, Aug. 1, 2013; 80 FR 38300, July 2, 2015; 86 FR 61035, Nov. 4, 2021; 87 FR 24844, Apr. 26, 2022]
+(End of clause)[73 FR 67704, Nov. 14, 2008, as amended at 73 FR 72242, Nov. 26, 2008; 77 FR 44066, July 26, 2012; 78 FR 46795, Aug. 1, 2013; 80 FR 38300, July 2, 2015; 86 FR 61035, Nov. 4, 2021; 87 FR 24844, Apr. 26, 2022; 90 FR 517, Jan. 3, 2025]

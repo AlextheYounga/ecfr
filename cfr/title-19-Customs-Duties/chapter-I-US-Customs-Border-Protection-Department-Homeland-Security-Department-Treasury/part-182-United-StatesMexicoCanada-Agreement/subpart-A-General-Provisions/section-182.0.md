@@ -1,3 +1,5 @@
 ##### § 182.0 Scope. #####
 
+Link to an amendment published at 90 FR 6483, Jan. 17, 2025.
+
 This part implements the duty preference and related customs provisions applicable to imported and exported goods under the Agreement Between the United States of America, the United Mexican States, and Canada (USMCA), signed on December 10, 2019, and entered into force on July 1, 2020, and under the United States-Mexico-Canada Agreement Implementation Act (134 Stat. 11) (the Act). For goods entered for consumption, or withdrawn from warehouse for consumption, prior to July 1, 2020, please see the NAFTA provisions in part 181 of this chapter. Except as otherwise specified in this part, the procedures and other requirements set forth in this part are in addition to the CBP procedures and requirements of general application contained elsewhere in this chapter.

@@ -1,6 +1,6 @@
 ##### § 16.205 Implementation of chemical testing programs. #####
 
-(a) When a vessel owned in the United States is operating in waters that are not subject to the jurisdiction of the United States, the testing requirements of §§ 16.210 and 16.230 do not apply to a citizen of a foreign country engaged or employed as pilot in accordance with the laws or customs of that foreign country.
+(a) When a vessel owned in the United States is operating in waters that are not subject to the jurisdiction of the United States, the testing requirements of §§ 16.210 and 16.230 do not apply to a citizen of a foreign country engaged or employed as Pilot in accordance with the laws or customs of that foreign country.
 
 (b) Upon written request of an employer, Commandant (CG-INV) will review the employer's chemical testing program to determine compliance with the provisions of this part.
 

@@ -1,8 +1,6 @@
-##### § 12.609 Requirements to qualify for an STCW endorsement as rating forming part of an engineering watch (RFPEW). #####
+##### § 12.609 Requirements to qualify for an STCW endorsement as Rating Forming Part of an Engineering Watch. #####
 
-Link to an amendment published at 89 FR 93104, Nov. 25, 2024.
-
-(a) To qualify for an STCW endorsement as an RFPEW in a manned engine room or to qualify to be designated to perform duties in a periodically unmanned engine room, an applicant must—
+(a) To qualify for an STCW endorsement as Ratings Forming Part of an Engineering Watch (RFPEW) in a manned engineroom or to qualify to be designated to perform duties in a periodically unmanned engineroom, an applicant must—
 
 (1) Be not less than 16 years of age;
 
@@ -28,3 +26,5 @@ Link to an amendment published at 89 FR 93104, Nov. 25, 2024.
 (d) *Limitations.* (1) STCW RFPEW endorsements issued in accordance with this section will be restricted to specific propulsion modes for steam, motor, or gas turbine-propelled vessels, as appropriate.
 
 (2) STCW RFPEW endorsements issued in accordance with this section for motor or gas turbine-propelled vessels may be endorsed as limited to serve on vessels without auxiliary boilers, waste-heat boilers, or distilling plants. An applicant may qualify for removal of any of these limitations by demonstrating the appropriate competencies.
+
+[USCG-2004-17914, 78 FR 77975, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93104, Nov. 25, 2024]

@@ -1,8 +1,8 @@
-##### 252.215-7002 Cost estimating system requirements. #####
+##### 252.215-7002 Cost Estimating System Requirements. #####
 
 As prescribed in 215.408(1), use the following clause:
 
-Cost Estimating System Requirements (DEC 2012)
+Cost Estimating System Requirements (Jan 2025)
 
 (a) *Definitions.*
 
@@ -28,7 +28,11 @@ Cost Estimating System Requirements (DEC 2012)
 
 (5) Budgeting, planning, estimating methods, techniques, accumulation of historical costs, and other analyses used to generate cost estimates.
 
-*Significant deficiency* means a shortcoming in the system that materially affects the ability of officials of the Department of Defense to rely upon data and information produced by the system that is needed for management purposes.
+*Material weakness* means a deficiency or combination of deficiencies in the internal control over information in contractor business systems, such that there is a reasonable possibility that a material misstatement of such information will not be prevented, or detected and corrected, on a timely basis. A reasonable possibility exists when the likelihood of an event occurring is—
+
+(1) Probable; or
+
+(2) More than remote but less than likely (section 806 of Pub. L. 116-283).
 
 (b) *General.* The Contractor shall establish, maintain, and comply with an acceptable estimating system.
 
@@ -92,20 +96,20 @@ Cost Estimating System Requirements (DEC 2012)
 
 (xvii) Have an adequate system description, including policies, procedures, and estimating and budgeting practices, that comply with the Federal Acquisition Regulation and Defense Federal Acquisition Regulation Supplement.
 
-(e) *Significant deficiencies.* (1) The Contracting Officer will provide an initial determination to the Contractor, in writing, of any significant deficiencies. The initial determination will describe the deficiency in sufficient detail to allow the Contractor to understand the deficiency.
+(e) *Material weaknesses.* (1) The Contracting Officer will provide an initial determination to the Contractor, in writing, of any material weaknesses. The initial determination will describe the underlying deficiency in sufficient detail to allow the Contractor to understand the weakness or deficiency.
 
-(2) The Contractor shall respond within 30 days to a written initial determination from the Contracting Officer that identifies significant deficiencies in the Contractor's estimating system. If the Contractor disagrees with the initial determination, the Contractor shall state, in writing, its rationale for disagreeing.
+(2) The Contractor shall respond within 30 days to a written initial determination from the Contracting Officer that identifies material weaknesses in the Contractor's estimating system. If the Contractor disagrees with the initial determination, the Contractor shall state, in writing, its rationale for disagreeing.
 
 (3) The Contracting Officer will evaluate the Contractor's response and notify the Contractor, in writing, of the Contracting Officer's final determination concerning—
 
-(i) Remaining significant deficiencies;
+(i) Remaining material weaknesses;
 
 (ii) The adequacy of any proposed or completed corrective action; and
 
-(iii) System disapproval, if the Contracting Officer determines that one or more significant deficiencies remain.
+(iii) System disapproval, if the Contracting Officer determines that one or more material weaknesses remain.
 
-(f) If the Contractor receives the Contracting Officer's final determination of significant deficiencies, the Contractor shall, within 45 days of receipt of the final determination, either correct the significant deficiencies or submit an acceptable corrective action plan showing milestones and actions to eliminate the significant deficiencies.
+(f) If the Contractor receives the Contracting Officer's final determination of material weaknesses, the Contractor shall, within 45 days of receipt of the final determination, either correct the material weaknesses or submit an acceptable corrective action plan showing milestones and actions to eliminate the material weaknesses.
 
 (g) *Withholding payments.* If the Contracting Officer makes a final determination to disapprove the Contractor's estimating system, and the contract includes the clause at 252.242-7005, Contractor Business Systems, the Contracting Officer will withhold payments in accordance with that clause.
 
-(End of clause)[76 FR 28873, May 18, 2011, as amended at 77 FR 11366, Feb. 24, 2012; 77 FR 11775, Feb. 28, 2012; 77 FR 76941, Dec. 31, 2012; 83 FR 30825, June 29, 2018]
+(End of clause)[76 FR 28873, May 18, 2011, as amended at 77 FR 11366, Feb. 24, 2012; 77 FR 11775, Feb. 28, 2012; 77 FR 76941, Dec. 31, 2012; 83 FR 30825, June 29, 2018; 90 FR 5731, Jan. 17, 2025]

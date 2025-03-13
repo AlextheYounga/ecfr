@@ -1,7 +1,5 @@
 ##### § 37.3 Definitions. #####
 
-Link to an amendment published at 89 FR 102808, Dec. 18, 2024.
-
 As used in this part:
 
 *Accessible* means, with respect to vehicles and facilities, complying with the accessibility requirements of parts 37 and 38 of this title.
@@ -11,6 +9,8 @@ As used in this part:
 *Administrator* means Administrator of the Federal Transit Administration, or his or her designee.
 
 *Alteration* means a change to an existing facility, including, but not limited to, remodeling, renovation, rehabilitation, reconstruction, historic restoration, changes or rearrangement in structural parts or elements, and changes or rearrangement in the plan configuration of walls and full-height partitions. Normal maintenance, reroofing, painting or wallpapering, asbestos removal, or changes to mechanical or electrical systems are not alterations unless they affect the usability of the building or facility.
+
+*Alteration of a transit stop* means a change to or an addition of a transit stop, or a part thereof, in an existing, developed public right-of-way that affects or could affect pedestrian access, circulation, or usability. Alterations include, but are not limited to, the reconstruction of an existing transit stop, the addition of a new transit shelter, the addition of a new bench, fare vending machine, or transit sign that identifies a stop or route, reconfiguring the interface of a transit stop with the street or sidewalk network such as adding floating bus stops, adding a prepared surface for boarding and alighting, and rearrangement of transit stop elements, such as benches or fare vending machines. Normal maintenance such as painting transit shelters, replacing damaged transit shelter windows or screens, repairing a fare vending machine, replacing damaged sign posts, repairing existing curb, or repairing damaged benches or trash cans, are not alterations unless they affect the usability of the transit stop. Permanent closure of a transit stop due to service changes is also not an alteration of a transit stop.
 
 *Automated guideway transit system* or *AGT* means a fixed-guideway transit system which operates with automated (driverless) individual vehicles or multi-car trains. Service may be on a fixed schedule or in response to a passenger-activated call button.
 
@@ -110,9 +110,11 @@ As used in this part:
 
 (3) The National Railroad Passenger Corporation (Amtrak) and any commuter authority.
 
-*Purchase or lease,* with respect to vehicles, means the time at which an entity is legally obligated to obtain the vehicles, such as the time of contract execution.
+*Public right-of-way* means public land acquired for or dedicated to transportation purposes, or other land where there is a legally established right for use by the public for transportation purposes.
 
 *Public school transportation* means transportation by schoolbus vehicles of schoolchildren, personnel, and equipment to and from a public elementary or secondary school and school-related activities.
+
+*Purchase or lease,* with respect to vehicles, means the time at which an entity is legally obligated to obtain the vehicles, such as the time of contract execution.
 
 *Rapid rail* means a subway-type transit vehicle railway operated on exclusive private rights of way with high level platform stations. Rapid rail also may operate on elevated or at grade level track separated from other traffic.
 
@@ -132,6 +134,8 @@ As used in this part:
 
 *Station* means, with respect to intercity and commuter rail transportation, the portion of a property located appurtenant to a right of way on which intercity or commuter rail transportation is operated, where such portion is used by the general public and is related to the provision of such transportation, including passenger platforms, designated waiting areas, restrooms, and, where a public entity providing rail transportation owns the property, concession areas, to the extent that such public entity exercises control over the selection, design, construction, or alteration of the property, but this term does not include flag stops (*i.e.*, stations which are not regularly scheduled stops but at which trains will stop to board or detrain passengers only on signal or advance notice).
 
+*Transit stop* means an area that is designated for passengers to board or alight from buses, rail cars, and other transportation vehicles that operate on a fixed route or scheduled route, including bus stops and boarding platforms. This definition does not include intercity rail except where a stop is located in the public right-of-way.
+
 *Used vehicle* means a vehicle with prior use.
 
 *Vanpool* means a voluntary commuter ridesharing arrangement, using vans with a seating capacity greater than 7 persons (including the driver) or buses, which provides transportation to a group of individuals traveling directly from their homes to their regular places of work within the same geographical area, and in which the commuter/driver does not receive compensation beyond reimbursement for his or her costs of providing the service.
@@ -140,4 +144,4 @@ As used in this part:
 
 *Wheelchair* means a mobility aid belonging to any class of three- or more-wheeled devices, usable indoors, designed or modified for and used by individuals with mobility impairments, whether operated manually or powered.
 
-[56 FR 45621, Sept. 6, 1991, as amended at 58 FR 63101, Nov. 30, 1993; 61 FR 25415, May 21, 1996; 63 FR 51690, Sept. 28, 1998; 76 FR 57935, Sept. 19, 2011; 79 FR 21405, Apr. 16, 2014; 80 FR 13260, Mar. 13, 2015]
+[56 FR 45621, Sept. 6, 1991, as amended at 58 FR 63101, Nov. 30, 1993; 61 FR 25415, May 21, 1996; 63 FR 51690, Sept. 28, 1998; 76 FR 57935, Sept. 19, 2011; 79 FR 21405, Apr. 16, 2014; 80 FR 13260, Mar. 13, 2015; 89 FR 102808, Dec. 18, 2024]

@@ -1,5 +1,7 @@
 ##### § 182.75 Determinations of origin. #####
 
+Link to an amendment published at 90 FR 6489, Jan. 17, 2025.
+
 (a) *Contents.* For verifications initiated under this part, CBP will issue a determination of origin that sets forth:
 
 (1) A description of the good that was the subject of the verification;

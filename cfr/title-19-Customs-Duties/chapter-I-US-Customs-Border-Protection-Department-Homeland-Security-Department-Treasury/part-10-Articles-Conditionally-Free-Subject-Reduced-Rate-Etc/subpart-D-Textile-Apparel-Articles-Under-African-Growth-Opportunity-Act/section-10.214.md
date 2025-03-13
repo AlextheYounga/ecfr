@@ -1,5 +1,7 @@
 ##### § 10.214 Certificate of Origin. #####
 
+Link to an amendment published at 90 FR 6480, Jan. 17, 2025.
+
 (a) *General.* A Certificate of Origin must be employed to certify that a textile or apparel article being exported from a beneficiary country to the United States qualifies for the preferential treatment referred to in § 10.211. The Certificate of Origin must be prepared in the beneficiary country by the exporter or producer or by the exporter's or producer's authorized agent having knowledge of the facts in the form specified in paragraph (b) of this section. If the person preparing the Certificate of Origin is not the producer of the article, the person may complete and sign a Certificate of Origin on the basis of:
 
 (1) The person's reasonable reliance on the producer's written representation that the article qualifies for preferential treatment; or

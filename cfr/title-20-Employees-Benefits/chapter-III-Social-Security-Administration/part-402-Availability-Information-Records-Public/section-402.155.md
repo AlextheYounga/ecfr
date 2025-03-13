@@ -1,9 +1,31 @@
-##### § 402.155 Fees to be charged—categories of requests. #####
+##### § 402.155 Records available for public inspection. #####
 
-Paragraphs (a) through (c) of this section state, for each category of request, the type of fees that we will generally charge. However, for each of these categories, the fees may be limited, waived, or reduced for the reasons given below or for other reasons.
+(a) Under the FOIA, SSA is required to make available for public inspection in an electronic format:
 
-(a) *Commercial use request.* If your request is for a commercial use, we will charge you the costs of search, review, and duplication.
+(1) Final opinions made in the adjudication of cases;
 
-(b) *Educational and scientific institutions and news media.* If you are an educational institution or a non-commercial scientific institution, operated primarily for scholarly or scientific research, or a representative of the news media, and your request is not for a commercial use, we will charge you only for the duplication of documents. Also, we will not charge you the copying costs for the first 100 pages of duplication.
+(2) An agency's statements and interpretations of policy that have been adopted but are not published in the Federal Register;
 
-(c) *Other requesters.* If your request is not the kind described by paragraph (a) or (b) of this section, then we will charge you only for the search and the duplication. Also, we will not charge you for the first two hours of search time or for the copying costs of the first 100 pages of duplication.
+(3) Administrative staff manuals and instructions that affect the public; and
+
+(4) Copies of records, regardless of form or format, that an agency determines will likely become the subject of subsequent requests, as well as records that have been requested and released three or more times, unless said materials are published and copies are offered to sale.
+
+(b) SSA will not use or cite instructional manuals issued to our employees, general statements of policy, and other materials which are used in processing claims as a precedent for an action against a person unless we have indexed the record and published it or made it available, or unless the person has timely notice of the record.
+
+(c) Records that SSA makes available for public inspection in an electronic format may be accessed through *www.ssa.gov* free of charge. Such records include:
+
+(1) Compilation of Social Security Laws and Regulations;
+
+(2) SSA regulations under the retirement, survivors, disability, and supplemental security income programs, *i.e.,* 20 CFR parts 401, 402, 404, 416, and 422;
+
+(3) Social Security Handbook;
+
+(4) Social Security Rulings and Acquiescence Rulings;
+
+(5) SSA's Public Programs Operations Manual System;
+
+(6) SSA's Organizational Structure;
+
+(7) State and Local Coverage Handbook for State Social Security Administrators; and
+
+(8) SSA's Public Hearings, Appeals, and Litigation Law Manual.

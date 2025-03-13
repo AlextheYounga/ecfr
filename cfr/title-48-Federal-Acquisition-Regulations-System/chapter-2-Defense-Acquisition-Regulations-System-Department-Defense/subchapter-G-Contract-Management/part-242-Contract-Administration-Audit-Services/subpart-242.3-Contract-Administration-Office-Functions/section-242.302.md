@@ -1,6 +1,6 @@
 ##### 242.302 Contract administration functions. #####
 
-(a) (7) See 242.7502 for ACO responsibilities with regard to receipt of an audit report identifying significant accounting system or related internal control deficiencies.
+(a) (7) See 242.7502 for ACO responsibilities with regard to receipt of an audit report identifying significant accounting system or related internal control weaknesses or deficiencies.
 
 (9) For additional contract administration functions related to IR&D projects and B&P projects performed by major contractors, see 242.771-3(a).
 
@@ -36,4 +36,4 @@
 
 (B) After settlement of the questioned direct costs, the CAO shall provide the procuring contracting office the results of the settlement. The procuring contracting office shall make any adjustments resulting from the settlement on affected contracts and report such adjustments to the CAO.
 
-[71 FR 44928, Aug. 8, 2006, as amended at 76 FR 36884, June 23, 2011; 76 FR 71830, Nov. 18, 2011; 77 FR 11365, Feb. 24, 2012; 77 FR 23632, Apr. 20, 2012; 78 FR 13544, Feb. 28, 2013; 79 FR 30471, May 28, 2014; 80 FR 36903, June 26, 2015; 81 FR 50648, Aug. 2, 2016; 88 FR 6600, Jan. 31, 2023; 88 FR 17352, 17355, Mar. 22, 2023]
+[71 FR 44928, Aug. 8, 2006, as amended at 76 FR 36884, June 23, 2011; 76 FR 71830, Nov. 18, 2011; 77 FR 11365, Feb. 24, 2012; 77 FR 23632, Apr. 20, 2012; 78 FR 13544, Feb. 28, 2013; 79 FR 30471, May 28, 2014; 80 FR 36903, June 26, 2015; 81 FR 50648, Aug. 2, 2016; 88 FR 6600, Jan. 31, 2023; 88 FR 17352, 17355, Mar. 22, 2023; 90 FR 5728, Jan. 17, 2025]

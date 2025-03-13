@@ -1,10 +1,10 @@
 ##### § 11.301 Requirements for STCW officer endorsements. #####
 
-Link to an amendment published at 89 FR 93070, Nov. 25, 2024.Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
+Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 
 (a) *Standard of competence.* (1) The Coast Guard will accept one or more methods listed in the STCW Code to demonstrate meeting the standard of competence in this subpart. See Column 3—Methods for demonstrating competence—of the Tables of Competence in the STCW Code (incorporated by reference, see § 11.102 of this part). The Coast Guard will accept the following as evidence of meeting the standard of competence under each of these methods:
 
-(i) In-service experience: Documentation of successful completion of assessments, approved or accepted by the Coast Guard, and signed by a qualified assessor (QA)—deck or engineering—as appropriate.
+(i) In-service experience: Documentation of successful completion of assessments, approved or accepted by the Coast Guard, and signed by a Qualified Assessor (QA)—deck or engineering—as appropriate.
 
 (ii) Training ship experience: Documentation of successful completion of an approved training program involving formal training and assessment onboard a training ship.
 
@@ -62,7 +62,7 @@ Link to an amendment published at 89 FR 93070, Nov. 25, 2024.Link to an amendmen
 
 (3) Satisfactory completion of the STCW operational-level training as required in this part.
 
-(d) *Management-level endorsement.* Applicants holding national officer endorsements as master, chief mate, chief engineer, or first assistant engineer, and who seek to add an STCW endorsement at the management level, must provide evidence of meeting the STCW requirements found in this subpart, including—
+(d) *Management-level endorsement.* Applicants holding national officer endorsements as Master, Chief Mate, Chief Engineer, or First Assistant Engineer, and who seek to add an STCW endorsement at the management level, must provide evidence of meeting the STCW requirements found in this subpart, including—
 
 (1) Meeting the service requirements for the management-level STCW endorsement;
 
@@ -76,9 +76,9 @@ Link to an amendment published at 89 FR 93070, Nov. 25, 2024.Link to an amendmen
 
 (g) Notwithstanding § 11.901 of this part, each mariner found qualified to hold any of the following national officer endorsements will also be entitled to hold an STCW endorsement corresponding to the service or other limitations of the license or officer endorsements on the MMC. The vessels concerned are not subject to further obligation under STCW because of their special operating conditions as small vessels engaged in domestic, near-coastal voyages.
 
-(1) Masters, mates, or engineers endorsed for service on small passenger vessels that are subject to subchapter T or K of this chapter and that operate beyond the boundary line.
+(1) Masters, Mates, or engineers endorsed for service on small passenger vessels that are subject to subchapter T or K of this chapter and that operate beyond the boundary line.
 
-(2) Masters, mates, or engineers endorsed for service on seagoing vessels of less than 200 GRT, other than passenger vessels subject to subchapter H of this chapter.
+(2) Masters, Mates, or engineers endorsed for service on seagoing vessels of less than 200 GRT, other than passenger vessels subject to subchapter H of this chapter.
 
 (h) Mariners serving on, and owners or operators of any of the following vessels, do not need to hold an STCW endorsement, because they are exempt from application of STCW:
 
@@ -92,4 +92,4 @@ Link to an amendment published at 89 FR 93070, Nov. 25, 2024.Link to an amendmen
 
 (i) Mariners serving on, and owners or operators of uninspected passenger vessels as defined in 46 U.S.C. 2101(42)(B), do not need to hold an STCW endorsement. The vessels concerned are not subject to further obligation under STCW because of their special operating conditions as small vessels engaged in domestic, near-coastal voyages.
 
-[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58276, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019]
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58276, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019; USCG-2021-0097, 89 FR 93070, Nov. 25, 2024]

@@ -1,5 +1,7 @@
 ##### § 2700.20 Notice of contest of a citation or order issued under section 104 of the Act. #####
 
+Link to an amendment published at 90 FR 5620, Jan. 17, 2025.
+
 (a) *Who may contest.* (1) An operator may contest:
 
 (i) A citation or an order issued under section 104 of the Act, 30 U.S.C. 814;

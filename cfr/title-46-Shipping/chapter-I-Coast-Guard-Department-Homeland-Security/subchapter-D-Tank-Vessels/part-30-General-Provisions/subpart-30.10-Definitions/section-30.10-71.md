@@ -1,19 +1,17 @@
-##### § 30.10-71 Tankerman—TB/ALL. #####
-
-Link to an amendment published at 89 FR 93136, Nov. 25, 2024.
+##### § 30.10-71 Tank vessel endorsements—TB/ALL. #####
 
 The following ratings are established in part 13 of this chapter. The terms for the ratings identify persons holding valid endorsements for service in the ratings issued under that part:
 
-(a) Tankerman-PIC.
+(a) Tank Vessel-PIC.
 
-(b) Tankerman-PIC (Barge).
+(b) Tank Barge-PIC.
 
-(c) Restricted Tankerman-PIC.
+(c) Restricted Tank Vessel-PIC.
 
-(d) Restricted Tankerman-PIC (Barge).
+(d) Restricted Tank Barge-PIC.
 
-(e) Tankerman-Assistant.
+(e) Tank Vessel-Assistant.
 
-(f) Tankerman-Engineer.
+(f) Tank Vessel-Engineer.
 
-[CGD 79-116, 60 FR 17155, Apr. 4, 1995, as amended by USCG-2006-24371, 74 FR 11264, Mar. 16, 2009]
+[USCG-2021-0097, 89 FR 93136, Nov. 25, 2024]

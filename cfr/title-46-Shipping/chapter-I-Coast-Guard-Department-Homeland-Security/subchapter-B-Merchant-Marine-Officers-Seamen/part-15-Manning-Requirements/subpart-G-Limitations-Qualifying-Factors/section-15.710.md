@@ -1,6 +1,6 @@
 ##### § 15.710 Working hours. #####
 
-In addition to prescribing watch requirements, 46 U.S.C. 8104 sets limitations on the working hours of credentialed officers and crew members, prescribes certain rest periods, and prohibits unnecessary work on Sundays and certain holidays when the vessel is in a safe harbor. It is the responsibility of the master or person in charge to ensure that these limitations are met. However, under 46 U.S.C. 8104(f), the master or other credentialed officer can require any part of the crew to work when, in his or her judgment, they are needed for:
+In addition to prescribing watch requirements, 46 U.S.C. 8104 sets limitations on the working hours of credentialed officers and crew members, prescribes certain rest periods, and prohibits unnecessary work on Sundays and certain holidays when the vessel is in a safe harbor. It is the responsibility of the Master or Person in Charge to ensure that these limitations are met. However, under 46 U.S.C. 8104(f), the Master or other credentialed officer can require any part of the crew to work when, in their judgment, they are needed for:
 
 (a) Maneuvering, shifting berth, mooring, unmooring;
 

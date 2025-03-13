@@ -74,19 +74,25 @@
 
 (4) At CSR 38-2-6.5.h, we are not approving its deletion because the deletion of CSR 38-2-6.5.h would make CSR 199-1-3.6.g and 3.11 less effective than the Federal blasting requirements.
 
-(k) We are not approving the following provisions of the proposed West Virginia program amendments dated May 2, 2018:
+(k) We are not approving the following portions of provisions of the proposed program amendment that West Virginia submitted on May 15, 2017:
+
+(1) We are deferring our decision on the deletion of provisions from W.Va. Code 22-3-11(g)(2) regarding the development of a long-range planning process for the selection and prioritization of sites to be reclaimed. We defer our decision until we make a determination on West Virginia's related amendment docketed as WV-128-FOR, which relates to the complete and accurate listing of all outstanding reclamation obligations (including water treatment) on active permits in the State.
+
+(2) [Reserved]
+
+(l) We are not approving the following provisions of the proposed West Virginia program amendments dated May 2, 2018:
 
 (1) At W.Va. Code 22-3-9, revisions substituting notice by newspaper with notice in a form and manner determined by the Secretary which may be electronic.
 
 (2) At W.Va. Code 22-3-20, revisions substituting notice by newspaper with notice in a form and manner determined by the Secretary which may be electronic.
 
-(3) At CSR 38-2-2.37, the removal of the definition “completion of reclamation”
+(3) At CSR 38-2-2.37, the removal of the definition “completion of reclamation”.
 
 (4) At CSR 38-2-12.2.d., the elimination to the existing prohibition on bond release for any site specific bonding (*i.e.,* open-acre bonding) until all coal extraction is completed and the disturbed area is completely backfilled and regraded.
 
 (5) At CSR 38-2-12.2.e., to restructure and revise existing approved language in this section and move it to CSR 38-2-12.2.a.4.
 
-(6) At CSR 38-2-12.2.f., to move, unchanged, this existing language to CSR 38-2-12.2.d
+(6) At CSR 38-2-12.2.f., to move, unchanged, this existing language to CSR 38-2-12.2.d.
 
 (7) At CSR 38-2-12.2.g., to move, unchanged, this existing language to CSR 38-2-12.2.f.
 
@@ -96,4 +102,4 @@
 
 (10) At CSR 38-2-12.5., to delete subsection 12.5 of the West Virginia regulations, which directs WVDEP's collection, analysis and reporting on sites where bond has been forfeited including, in particular, data relating to the water quality of water being discharged from forfeited sites.
 
-[48 FR 52053, Nov. 16, 1983, as amended at 50 FR 28323, 28342, July 11, 1985; 55 FR 21337, May 23, 1990; 61 FR 6535, Feb. 21, 1996; 65 FR 26135, May 5, 2000; 65 FR 50430, Aug. 18, 2000; 65 FR 80328, Dec. 21, 2000; 68 FR 40167, July 7, 2003; 68 FR 68738, Dec. 10, 2003; 70 FR 6590, Feb. 8, 2005; 71 FR 10790, Mar. 2, 2006; 85 FR 27156, May 7, 2020; 89 FR 2138, Jan. 12, 2024; 89 FR 19273, Mar. 18, 2024]Editorial Note:At 89 FR 68781, Aug. 28, 2024, § 948.12 was corrected. However, the correction could not be incorporated due to an error in the amendatory instruction.
+[48 FR 52053, Nov. 16, 1983, as amended at 50 FR 28323, 28342, July 11, 1985; 55 FR 21337, May 23, 1990; 61 FR 6535, Feb. 21, 1996; 65 FR 26135, May 5, 2000; 65 FR 50430, Aug. 18, 2000; 65 FR 80328, Dec. 21, 2000; 68 FR 40167, July 7, 2003; 68 FR 68738, Dec. 10, 2003; 70 FR 6590, Feb. 8, 2005; 71 FR 10790, Mar. 2, 2006; 85 FR 27156, May 7, 2020; 89 FR 2138, Jan. 12, 2024; 89 FR 19273, Mar. 18, 2024; 90 FR 5628, Jan. 17, 2025]

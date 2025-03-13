@@ -1,5 +1,7 @@
 ##### § 160.202 Definitions. #####
 
+Link to an amendment published at 90 FR 6453, Jan. 17, 2025.
+
 Terms in this subpart that are not defined in this section or in § 160.3 have the same meaning as those terms in 46 U.S.C. 2101. As used in this subpart—
 
 *Agent* means any person, partnership, firm, company or corporation engaged by the owner or charterer of a vessel to act in their behalf in matters concerning the vessel.

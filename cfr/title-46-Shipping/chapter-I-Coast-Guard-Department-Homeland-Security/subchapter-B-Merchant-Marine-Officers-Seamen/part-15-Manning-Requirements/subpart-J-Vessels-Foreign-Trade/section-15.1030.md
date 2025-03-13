@@ -20,8 +20,6 @@ The following U.S. navigable waters located within the States of New York and Ne
 
 (i) New York Harbor, Upper and Lower Bay.
 
-Note to § 15.1030:
-
-“Intra-port transit” as used in this section includes the movement of a foreign-trade vessel inbound from sea from the point where a State-licensed pilot ceases providing pilotage to another point within the identified areas (*i.e.*, a dock or anchorage). Likewise, intra-port transit also includes the movement of a foreign-trade vessel outbound to sea from a point within the identified areas (*i.e.*, a dock or anchorage) to the point where a State licensed pilot begins providing pilotage.
+**Note to § 15.1030:** “Intra-port transit” as used in this section includes the movement of a foreign-trade vessel inbound from sea from the point where a State-licensed Pilot ceases providing pilotage to another point within the identified areas (*i.e.,* a dock or anchorage). Likewise, intra-port transit also includes the movement of a foreign-trade vessel outbound to sea from a point within the identified areas (*i.e.,* a dock or anchorage) to the point where a State-licensed Pilot begins providing pilotage.
 
 [CGD 92-061, 60 FR 24796, May 10, 1995, as amended by USCG-2004-18884, 69 FR 58344, Sept. 30, 2004]

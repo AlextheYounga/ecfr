@@ -1,6 +1,6 @@
 ##### § 90.7 Definitions. #####
 
-Link to an amendment published at 89 FR 100850, Dec. 13, 2024.Link to an amendment published at 89 FR 100851, Dec. 13, 2024.
+Link to an amendment published at 89 FR 100850, Dec. 13, 2024.Link to an amendment published at 89 FR 100851, Dec. 13, 2024.Link to correction published at 90 FR 5725, Jan. 17, 2025.
 
 *220 MHz service.* The radio service for the licensing of frequencies in the 220-222 MHz band.
 

@@ -1,6 +1,6 @@
 ##### § 47.15 Registration number. #####
 
-(a) *Number required.* An applicant for aircraft registration must place a U.S. registration number (registration mark) on the Aircraft Registration Application, AC Form 8050-1, and on any evidence submitted with the application. There is no charge for the assignment of numbers provided in this paragraph. This paragraph does not apply to an aircraft manufacturer who applies for a group of U.S. registration numbers under paragraph (c) of this section; a person who applies for a special registration number under paragraphs (d) through (f) of this section; or a holder of a Dealer's Aircraft Registration Certificate, AC Form 8050-6, who applies for a temporary registration number under § 47.16.
+(a) *Number required.* An applicant for aircraft registration must place a U.S. registration number (registration mark) on the Aircraft Registration Application, AC Form 8050-1, and on any evidence submitted with the application. There is no charge for the assignment of numbers provided in this paragraph. This paragraph does not apply to an aircraft manufacturer who applies for a group of U.S. registration numbers under paragraph (c) of this section; a person who applies for a special registration number under paragraphs (d) through (f) of this section; or a holder of a Dealer's Aircraft Registration Certificate who applies for a temporary registration number under § 47.16.
 
 (1) *Aircraft not previously registered anywhere.* The applicant must obtain the U.S. registration number from the Registry by request in writing describing the aircraft by make, type, model, and serial number (or, if it is amateur-built, as provided in § 47.33(b)) and stating that the aircraft has not previously been registered anywhere. If the aircraft was brought into the United States from a foreign country, the applicant must submit evidence that the aircraft has never been registered in a foreign country.
 
@@ -22,7 +22,7 @@
 
 (e) [Reserved]
 
-(f) The Registry authorizes a special registration number change on the Assignment of Special Registration Numbers, AC Form 8050-64. The authorization expires one year from the date the Registry issues an Assignment of Special Registration Numbers unless the special registration number is permanently placed on the aircraft. Within five days after the special registration number is placed on the aircraft, the owner must complete and sign the Assignment of Special Registration Numbers, state the date the number was placed on the aircraft, and return the original form to the Registry. The duplicate of the Assignment of Special Registration Numbers and the present Certificate of Aircraft Registration, AC Form 8050-3, must be carried in the aircraft as temporary authority to operate it. This temporary authority is valid until the date the owner receives the revised Certificate of Aircraft Registration showing the new registration number, but in no case is it valid for more than 120 days from the date the number is placed on the aircraft.
+(f) The Registry authorizes a special registration number change on the Assignment of Special Registration Numbers, AC Form 8050-64. The authorization expires one year from the date the Registry issues an Assignment of Special Registration Numbers unless the special registration number is permanently placed on the aircraft. Within five days after the special registration number is placed on the aircraft, the owner must complete and sign the Assignment of Special Registration Numbers, state the date the number was placed on the aircraft, and return the original form to the Registry. The duplicate of the Assignment of Special Registration Numbers and the present Certificate of Aircraft Registration must be carried in the aircraft as temporary authority to operate it. This temporary authority is valid until the date the owner receives the revised Certificate of Aircraft Registration showing the new registration number, but in no case is it valid for more than 120 days from the date the number is placed on the aircraft.
 
 (g) [Reserved]
 
@@ -32,7 +32,7 @@
 
 (1) Following the expiration date shown on the Certificate of Aircraft Registration for any aircraft whose registration has not been renewed under § 47.40(c);
 
-(2) Following the expiration date shown on the Dealer's Aircraft Registration Certificate, AC Form 8050-6, for any aircraft registered under Subpart C of this part, when the certificate has not been renewed, and the owner has not applied for registration in accordance with § 47.31; or
+(2) Following the expiration date shown on the Dealer's Aircraft Registration Certificate, for any aircraft registered under Subpart C of this part, when the certificate has not been renewed, and the owner has not applied for registration in accordance with § 47.31; or
 
 (3) When ownership has transferred—
 
@@ -44,4 +44,4 @@
 
 (j) At the time an assignment of registration number is cancelled, the number may be reserved for one year in the name of the last owner of record if a request has been submitted with the fee required by § 47.17. If the request for reservation and fee are not submitted prior to cancellation, the registration number is unavailable for assignment for a period of five years.
 
-[Doc. No. 7190, 31 FR 4495, Mar. 17, 1966, as amended by Amdt. 47-1, 31 FR 13314, Oct. 14, 1966; Amdt. 47-5, 32 FR 13505, Sept. 27, 1967; Amdt. 47-7, 34 FR 2480, Feb. 21, 1969; Amdt. 47-13, 36 FR 16187, Aug. 20, 1971; Amdt. 47-15, 37 FR 21528, Oct. 12, 1972; Amdt. 47-16, 37 FR 25487, Dec. 1, 1972; Amdt. 47-17, 39 FR 1353, Jan. 8, 1974; Amdt. 47-22, 47 FR 12153, Mar. 22, 1982; Amdt. 47-29, 75 FR 41980, July 20, 2010; Amdt. No. 47-33, 87 FR 71217, Nov. 22, 2022]
+[Doc. No. 7190, 31 FR 4495, Mar. 17, 1966, as amended by Amdt. 47-1, 31 FR 13314, Oct. 14, 1966; Amdt. 47-5, 32 FR 13505, Sept. 27, 1967; Amdt. 47-7, 34 FR 2480, Feb. 21, 1969; Amdt. 47-13, 36 FR 16187, Aug. 20, 1971; Amdt. 47-15, 37 FR 21528, Oct. 12, 1972; Amdt. 47-16, 37 FR 25487, Dec. 1, 1972; Amdt. 47-17, 39 FR 1353, Jan. 8, 1974; Amdt. 47-22, 47 FR 12153, Mar. 22, 1982; Amdt. 47-29, 75 FR 41980, July 20, 2010; Amdt. No. 47-33, 87 FR 71217, Nov. 22, 2022; Docket No. FAA-2024-2765, Amdt. No. 47-36, 90 FR 5571, Jan. 17, 2025]

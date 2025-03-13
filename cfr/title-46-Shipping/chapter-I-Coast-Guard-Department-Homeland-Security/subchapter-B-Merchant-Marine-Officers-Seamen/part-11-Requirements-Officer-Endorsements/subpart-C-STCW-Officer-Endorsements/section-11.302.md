@@ -1,8 +1,6 @@
-##### § 11.302 Basic training. #####
+##### § 11.302 Basic Training. #####
 
-Link to an amendment published at 89 FR 93070, Nov. 25, 2024.
-
-(a) Applicants seeking an STCW officer endorsement must provide evidence of meeting the standard of competence for basic training (BT) as follows:
+(a) Applicants seeking an STCW officer endorsement must provide evidence of meeting the standard of competence for Basic Training (BT) as follows:
 
 (1) Personal survival techniques as set out in Table A-VI/1-1 of the STCW Code (incorporated by reference, see § 11.102 of this part).
 
@@ -71,3 +69,5 @@ Link to an amendment published at 89 FR 93070, Nov. 25, 2024.
 (vii) Extinguishing oil fire with fog applicator and spray nozzles, dry chemical powder, or foam applicators.
 
 (e) Applicants who cannot meet the requirement for 1 year of sea service within the last 5 years, as described in paragraph (c) of this section, will be required to meet the requirements of paragraph (a) of this section or complete approved or accepted refresher training.
+
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93070, Nov. 25, 2024]

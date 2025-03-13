@@ -1,5 +1,7 @@
 ##### § 182.47 Completion of claim for drawback. #####
 
+Link to an amendment published at 90 FR 6484, Jan. 17, 2025.
+
 (a) *General.* A claim for drawback will be granted, upon the submission of appropriate documentation to substantiate compliance with the drawback laws and regulations of the United States, evidence of exportation to Canada or Mexico, and satisfactory evidence of the payment of duties to Canada or Mexico. Unless otherwise provided in this subpart, the documentation, filing procedures, time and place requirements and other applicable procedures required to determine whether a good qualifies for drawback must be in accordance with the provisions of part 190 of this chapter, as appropriate; however, a drawback claim subject to the provisions of this subpart must be filed separately from any part 190 drawback claim (that is, a claim that involves goods exported to countries other than Canada or Mexico). Claims inappropriately filed or otherwise not completed within the periods specified in § 182.46 will be considered abandoned.
 
 (b) *Complete drawback claim*—(1) *General.* A complete drawback claim under this subpart must consist of the filing of the appropriate completed drawback entry, evidence of exportation (a copy of the Canadian or Mexican customs entry showing the amount of duty paid to Canada or Mexico) and its supporting documents, and a certification from the Canadian or Mexican importer as to the amount of duties paid. Each drawback entry filed under this subpart must be filed using the indicator “USMCA Drawback”.

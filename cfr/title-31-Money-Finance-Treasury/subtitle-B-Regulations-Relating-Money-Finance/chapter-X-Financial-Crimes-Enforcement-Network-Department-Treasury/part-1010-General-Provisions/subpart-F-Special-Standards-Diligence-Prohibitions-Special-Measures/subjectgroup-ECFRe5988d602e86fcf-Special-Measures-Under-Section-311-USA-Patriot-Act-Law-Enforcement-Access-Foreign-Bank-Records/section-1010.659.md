@@ -10,8 +10,7 @@
 
 (4) *Correspondent account* has the same meaning as provided in § 1010.605(c)(1)(i).
 
-(5) *Covered financial institution* has the same meaning as provided in §
-1010.605(e)(1).
+(5) *Covered financial institution* has the same meaning as provided in § 1010.605(e)(1).
 
 (6) *Subsidiary* means a company of which more than 50 percent of the voting stock or analogous equity interest is owned by another company.
 

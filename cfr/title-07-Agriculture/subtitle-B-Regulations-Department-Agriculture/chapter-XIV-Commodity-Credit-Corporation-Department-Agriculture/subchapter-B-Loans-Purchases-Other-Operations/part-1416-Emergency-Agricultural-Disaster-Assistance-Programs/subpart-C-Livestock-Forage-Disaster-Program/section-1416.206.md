@@ -1,6 +1,6 @@
 ##### § 1416.206 Application for payment. #####
 
-(a) To apply for LFP, the participant that suffered eligible grazing losses for the 2019 and subsequent program years must submit a completed application and required supporting documentation, including some supporting documentation such as an acreage report that may have been required at an earlier date, to the administrative FSA county office no later than 30 calendar days after the end of the calendar year in which the grazing loss occurred.
+(a) To apply for LFP, the participant that suffered eligible grazing losses for the 2019 and subsequent program years must submit a completed application and required supporting documentation, including some supporting documentation such as an acreage report that may have been required at an earlier date, to the administrative FSA county office no later than March 1 after the end of the calendar year in which the grazing loss occurred.
 
 (b) A participant must also provide a copy of the grower contract, if a contract grower, and other supporting documents required for determining eligibility as an applicant at the time the participant submits the completed application for payment. Supporting documents must include:
 
@@ -30,4 +30,4 @@
 
 (d) Data furnished by the participant will be used to determine eligibility for program benefits. Furnishing the data is voluntary; however, without all required data, program benefits will not be approved or provided.
 
-[79 FR 21097, Apr. 14, 2014. Redesignated and amended at 83 FR 49467, Oct. 2, 2018; 85 FR 10966, Feb. 26, 2020]
+[79 FR 21097, Apr. 14, 2014. Redesignated and amended at 83 FR 49467, Oct. 2, 2018; 85 FR 10966, Feb. 26, 2020; 90 FR 5497, Jan. 17, 2025]

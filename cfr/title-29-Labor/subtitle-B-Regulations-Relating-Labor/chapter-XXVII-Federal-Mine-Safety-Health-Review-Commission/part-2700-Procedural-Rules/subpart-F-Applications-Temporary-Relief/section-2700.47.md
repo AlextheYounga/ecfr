@@ -1,5 +1,7 @@
 ##### § 2700.47 Contents of application. #####
 
+Link to an amendment published at 90 FR 5623, Jan. 17, 2025.
+
 (a) An application for temporary relief shall contain:
 
 (1) A showing of substantial likelihood that the findings and decision of the Judge or the Commission will be favorable to the applicant;

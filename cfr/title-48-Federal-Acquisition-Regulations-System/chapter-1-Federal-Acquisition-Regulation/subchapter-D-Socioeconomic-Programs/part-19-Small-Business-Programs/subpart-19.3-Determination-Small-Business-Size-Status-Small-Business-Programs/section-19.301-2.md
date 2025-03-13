@@ -1,18 +1,16 @@
-##### 19.301-2 Rerepresentation by a contractor that represented itself as a small business concern. #####
-
-Link to an amendment published at 90 FR 522, Jan. 3, 2025.
+##### 19.301-2 Rerepresentation by a contractor that represented its status as a small business concern. #####
 
 (a) *Definition.* As used in this subsection—
 
 *Long-term contract* means a contract of more than five years in duration, including options. However, the term does not include contracts that exceed five years in duration because the period of performance has been extended for a cumulative period not to exceed six months under the clause at 52.217-8, Option to Extend Services, or other appropriate authority.
 
-(b) A contractor that represented itself as any of the small business concerns identified in 19.000(a)(3) before contract award is required to rerepresent its size and socioeconomic status—
+(b) *Requirements.* A contractor that represented its status as any of the small business concerns identified at 19.000(a)(3) before contract award is required to rerepresent its size and socioeconomic status in accordance with the clause at 52.219-28, Postaward Small Business Program Rerepresentation—
 
 (1) For the NAICS code(s) in the contract—
 
-(i) Within 30 days after execution of a novation agreement or within 30 days after modification of the contract to include the clause at 52.219-28, Post-Award Small Business Program Rerepresentation, if the novation agreement was executed prior to inclusion of this clause in the contract;
+(i) Within 30 days after execution of a novation agreement or within 30 days after modification of the contract to include the clause at 52.219-28, Postaward Small Business Program Rerepresentation, if the novation agreement was executed prior to inclusion of this clause in the contract;
 
-(ii) Within 30 days after a merger or acquisition (whether the contractor acquires or is acquired by another company) of the contractor that does not require novation or within 30 days after modification of the contract to include the clause at 52.219-28, Post-Award Small Business Program Rerepresentation, if the merger or acquisition occurred prior to inclusion of this clause in the contract;
+(ii) Within 30 days after a merger or acquisition (whether the contractor acquires or is acquired by another company) of the contractor that does not require novation or within 30 days after modification of the contract to include the clause at 52.219-28, Postaward Small Business Program Rerepresentation, if the merger or acquisition occurred prior to inclusion of this clause in the contract;
 
 (iii) For long-term contracts—
 
@@ -20,16 +18,24 @@ Link to an amendment published at 90 FR 522, Jan. 3, 2025.
 
 (B) Within 60 to 120 days prior to the date specified in the contract for exercising any option thereafter; or
 
-(2) For the NAICS code assigned to an order under a multiple-award contract, if the contracting officer requires contractors to rerepresent their size and socioeconomic status for that order.
+(2) For the NAICS code assigned to an order (except for an order issued under a Federal Supply Schedule contract)—
 
-(c) A contractor is required to rerepresent its size status in accordance with the size standard in effect at the time of its rerepresentation that corresponds to the NAICS code that was initially assigned to the contract. For multiple-award contracts where there is more than one NAICS code assigned, the contractor is required to rerepresent its size status for each NAICS code assigned to the contract.
+(i) Set aside exclusively for a small business concern identified at 19.000(a)(3) that is issued under an unrestricted multiple-award contract, unless the order is issued under the reserved portion of an unrestricted multiple-award contract (*e.g.,* an order set aside for a woman-owned small business concern under a multiple-award contract that was not set-aside, unless the order is issued under the reserved portion of the multiple-award contract);
 
-(d)(1) *Contract rerepresentation.* After a contractor rerepresents for a contract that it no longer qualifies as a small business concern identified in 19.000(a)(3) in accordance with 52.219-28, the agency may no longer include the value of options exercised, modifications issued, orders issued, or purchases made under BPAs on that contract in its small business prime contracting goal achievements. When a contractor's rerepresentation for a contract qualifies it as a different small business concern identified in 19.000(a)(3) than what it represented for award, the agency may include the value of options exercised, modifications issued, orders issued, or purchases made under BPAs on that contract in its small business prime contracting goal achievements, consistent with the rerepresentation. Agencies should issue a modification to the contract capturing the rerepresentation and report it to FPDS within 30 days after notification of the rerepresentation.
+(ii) Issued under a multiple-award contract set aside for small businesses that is further set aside for a specific socioeconomic category that differs from the underlying multiple-award contract (*e.g.,* an order set aside for a HUBZone small business concern under a multiple-award contract that is set-aside for small businesses); or
 
-(2) *Rerepresentation for a task or delivery order.* (i) When a contractor rerepresents for an order that it no longer qualifies as a small business concern identified in 19.000(a)(3), the agency cannot include the value of the order in its small business prime contracting goal achievements. When a contractor's rerepresentation for an order qualifies it as a different small business concern identified in 19.000(a)(3) than what it represented for contract award, the agency can include the value of the order in its small business prime contracting goal achievement, consistent with the rerepresentation.
+(iii) Issued under the part of the multiple-award contract that is set aside for small businesses that is further set aside for a specific socioeconomic category that differs from the underlying set-aside part of the multiple-award contract (*e.g.,* an order set aside for a part of the multiple-award contract that is partially set-aside for small businesses); or
 
-(ii) A rerepresentation for an order does not change the size or socioeconomic status representation for the contract.
+(3) For the NAICS code assigned to an order under a multiple-award contract, if the contracting officer requires contractors to rerepresent their size and socioeconomic status for that order.
 
-(e) A change in size status does not change the terms and conditions of the contract. However, the contracting officer may require a subcontracting plan for a contract containing 52.219-9, Small Business Subcontracting Plan, if a prime contractor's size status changes from small to other than small as a result of a size rerepresentation (see 19.705-2(b)(3)).
+(c) *NAICS code size standard.* A contractor is required to rerepresent its size status in accordance with the size standard in effect at the time of its rerepresentation that corresponds to the NAICS code that was initially assigned to the contract. For multiple-award contracts where there is more than one NAICS code assigned, the contractor is required to rerepresent its size status for each NAICS code assigned to the contract.
 
-[72 FR 36855, July 5, 2007, as amended at 74 FR 11825, Mar. 19, 2009; 81 FR 45843, July 14, 2016; 85 FR 11759, Feb. 27, 2020]
+(d) *Procedures*(1) *Contract rerepresentation.* After a contractor rerepresents for a contract that it no longer qualifies as a small business concern identified in 19.000(a)(3) in accordance with 52.219-28, the agency may no longer include the value of options exercised, modifications issued, orders issued, or purchases made under BPAs on that contract in its small business prime contracting goal achievements. When a contractor's rerepresentation for a contract qualifies it as a different small business concern identified in 19.000(a)(3) than what it represented for award, the agency may include the value of options exercised, modifications issued, orders issued, or purchases made under BPAs on that contract in its small business prime contracting goal achievements, consistent with the rerepresentation. Agencies should issue a modification to the contract capturing the rerepresentation and report it to FPDS within 30 days after notification of the rerepresentation.
+
+(2) *Rerepresentation for a task or delivery order.* (i) When an order is issued under an unrestricted multiple-award contract and the contractor's rerepresentations no longer qualifies it as a small business concern identified at 19.000(a)(3), the agency can no longer include the value of the order in its small business prime contracting goal achievements. When a contractor's rerepresentation for an order qualifies it as a different small business concern identified at 19.000(a)(3) than what it represented for contract award, the agency can include the value of the order in its small business prime contracting goal achievement, consistent with the rerepresentation.
+
+(ii) A rerepresentation for an order issued under an unrestricted multiple-award contract does not change the size or socioeconomic status representation for the contract.
+
+(e) *Size status change.* A change in size status does not change the terms and conditions of the contract. However, the contracting officer may require a subcontracting plan for a contract containing 52.219-9, Small Business Subcontracting Plan, if a prime contractor's size status changes from small to other than small as a result of a size rerepresentation (see 19.705-2(b)(3)).
+
+[72 FR 36855, July 5, 2007, as amended at 74 FR 11825, Mar. 19, 2009; 81 FR 45843, July 14, 2016; 85 FR 11759, Feb. 27, 2020; 90 FR 522, Jan. 3, 2025]

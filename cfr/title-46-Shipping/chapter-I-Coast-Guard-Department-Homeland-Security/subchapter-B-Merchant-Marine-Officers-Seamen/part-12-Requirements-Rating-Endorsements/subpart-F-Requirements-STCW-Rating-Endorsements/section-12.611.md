@@ -1,14 +1,12 @@
-##### § 12.611 Requirements to qualify for an STCW endorsement as electro-technical rating (ETR) on vessels powered by main propulsion machinery of 750 kW/1,000 HP or more. #####
+##### § 12.611 Requirements to qualify for an STCW endorsement as Electro-technical Rating on vessels powered by main propulsion machinery of 750 kW/1,000 HP or more. #####
 
-Link to an amendment published at 89 FR 93104, Nov. 25, 2024.
-
-(a) To qualify for an STCW endorsement as an electro-technical rating, an applicant must—
+(a) To qualify for an STCW endorsement as an Electro-technical Rating (ETR), an applicant must—
 
 (1) Be not less than 18 years of age;
 
 (2) Provide evidence of—
 
-(i) Twelve months of seagoing service, that includes training and experience associated with engine room watchkeeping functions and involves the performance of duties carried out under the supervision of an engineer officer, electro-technical officer, or a qualified STCW engine rating;
+(i) Twelve months of seagoing service, that includes training and experience associated with engine room watchkeeping functions and involves the performance of duties carried out under the supervision of an engineer officer, Electro-technical Officer, or a qualified STCW engine rating;
 
 (ii) Proof of successful completion of a Coast Guard-approved or -accepted program, which includes not less than 6 months of approved seagoing service; or
 
@@ -22,13 +20,15 @@ Link to an amendment published at 89 FR 93104, Nov. 25, 2024.
 
 (ii) High-voltage power systems.
 
-(b) An applicant who holds an STCW endorsement as able seafarer-engine and a national rating endorsement as electrician, electrician/refrigerating engineer, or junior engineer will be issued the ETR endorsement upon completion of the requirements in Section A-III/7 of the STCW Code and evidence of completion of the training required in paragraph (a)(4) of this section.
+(b) An applicant who holds an STCW endorsement as Able Seafarer-Engine and a national rating endorsement as Electrician, Electrician/Refrigerating Engineer, or Junior Engineer will be issued the ETR endorsement upon completion of the requirements in Section A-III/7 of the STCW Code and evidence of completion of the training required in paragraph (a)(4) of this section.
 
 (c) Seafarers with the following national rating endorsement will be eligible for this endorsement upon completion of the requirements designated in this section:
 
-|                                                   Entry path from national endorsements                                                    |Sea service under authority of the endorsement <sup>1</sup>|Competence—STCW Table A-III/7 <sup>2</sup>|
+|                                                Entry path from national  <br/>endorsements                                                 |Sea service under authority of the endorsement <sup>1</sup>|Competence—STCW Table A-III/7 <sup>2</sup>|
 |--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------|
-|                                                     Electrician/refrigerating engineer                                                     |                           None                            |                    Y                     |
-|                                                              Junior engineer                                                               |                           None                            |                    Y                     |
+|                                                     Electrician/Refrigerating Engineer                                                     |                           None                            |                    Y                     |
+|                                                              Junior Engineer                                                               |                           None                            |                    Y                     |
 |<sup>1</sup> This column provides the minimum additional service required of the seafarer in order to meet the requirements of this section.|                                                           |                                          |
 |                       <sup>2</sup> Complete any items in paragraph (a)(3) of this section not previously satisfied.                        |                                                           |                                          |
+
+[USCG-2004-17914, 78 FR 77975, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93104, Nov. 25, 2024]

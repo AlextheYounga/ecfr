@@ -1,0 +1,7 @@
+##### § 99.50 What facilities qualify for the exemption of emissions from permanently shut-in and plugged wells? #####
+
+(a) The total facility applicable emissions for the WEC applicable facility containing permanently shut-in and plugged wells must exceed 0 mt as calculated in accordance with § 99.21(a).
+
+(b) This exemption is applicable to WEC applicable facilities in the onshore petroleum and natural gas production, offshore petroleum and natural gas production, or underground natural gas storage industry segments, as those industry segment terms are defined in § 98.230 of this chapter, that permanently shut-in and plug one or more wells during the reporting year.
+
+(c) For the purposes of applying this exemption, a permanently shut-in and plugged well is one that has been permanently sealed, following all applicable local, State, or Federal regulations in the jurisdiction where the well is located, to prevent any potential future leakage of oil, gas, or formation water into shallow sources of potable water, onto the surface, or into the atmosphere. Site reclamation following placement of a metal plate or cap is not required to be completed for the well to be considered permanently shut-in and plugged for the purposes of this part.

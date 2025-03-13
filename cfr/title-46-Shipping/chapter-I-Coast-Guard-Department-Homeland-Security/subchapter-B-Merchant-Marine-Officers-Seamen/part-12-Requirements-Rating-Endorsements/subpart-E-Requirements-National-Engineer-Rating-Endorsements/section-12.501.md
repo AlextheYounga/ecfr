@@ -1,26 +1,26 @@
-##### § 12.501 General requirements for a qualified member of the engine department (QMED). #####
+##### § 12.501 General requirements for a Qualified Member of the Engine Department. #####
 
-Link to an amendment published at 89 FR 93101, Nov. 25, 2024.Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
+Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
-(a) *General.* A qualified member of the engine department is any person below officer and above the rating of coal passer or wiper, who holds an MMC or MMD endorsed as QMED by the Coast Guard.
+(a) *General.* A Qualified Member of the Engine Department (QMED) is any person below officer and above the rating of Coal Passer or Wiper, who holds an MMC or MMD endorsed as QMED by the Coast Guard.
 
 (b) *Categories.* (1) Each QMED rating must be endorsed separately, unless the applicant qualifies for all QMED ratings, in which case the endorsement will read “QMED—any rating.” The ratings are—
 
-(i) Fireman/Watertender;
+(i) Boiler Technician/Watertender;
 
 (ii) Oiler;
 
-(iii) Junior engineer;
+(iii) Junior Engineer;
 
-(iv) Electrician/Refrigerating engineer; and
+(iv) Electrician/Refrigerating Engineer; and
 
-(v) Pumpman/Machinist.
+(v) Pump Technician/Machinist.
 
-(2) The Coast Guard will no longer issue original endorsements for deck engineer, deck/engine mechanic, or engineman, or individual endorsements for refrigerating engineer, machinist, electrician, and pumpman. However, a mariner who holds any of these endorsements may continue to renew them as long as he or she is otherwise qualified.
+(2) The Coast Guard will no longer issue original endorsements for Deck Engineer, Deck/Engine Mechanic, or Engineman, or individual endorsements for Refrigerating Engineer, Machinist, Electrician, and Pump Technician. However, a mariner who holds any of these endorsements may continue to renew them as long as they are otherwise qualified.
 
-(3) If the holder of an endorsement as pumpman only or machinist only seeks the combined endorsement of pumpman/machinist, the mariner must pass the examination described in Table 1 to § 12.505(c) of this subpart.
+(3) If the holder of an endorsement as Pump Technician only or Machinist only seeks the combined endorsement of Pump Technician/Machinist, the mariner must pass the examination described in table 1 to § 12.505(c).
 
-(4) If the holder of an endorsement as electrician only or refrigerating engineer only seeks the combined endorsement of electrician/refrigerating engineer, the mariner must pass the examination described in Table 1 to § 12.505(c) of this subpart.
+(4) If the holder of an endorsement as Electrician only or Refrigerating Engineer only seeks the combined endorsement of Electrician/Refrigerating Engineer, the mariner must pass the examination described in table 1 to § 12.505(c).
 
 (c) *Requirements for certification.* To qualify for any endorsement as QMED, an applicant must—
 
@@ -35,3 +35,5 @@ Link to an amendment published at 89 FR 93101, Nov. 25, 2024.Link to an amendmen
 (5) Pass an examination as QMED; and
 
 (6) Speak and understand the English language as would be required in performing the general duties of QMED and during an emergency aboard ship.
+
+[USCG-2004-17914, 78 FR 77975, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93101, Nov. 25, 2024]

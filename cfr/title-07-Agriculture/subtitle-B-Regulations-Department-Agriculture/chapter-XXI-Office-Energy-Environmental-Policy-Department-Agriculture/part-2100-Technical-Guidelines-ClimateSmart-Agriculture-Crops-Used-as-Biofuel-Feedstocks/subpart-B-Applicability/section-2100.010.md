@@ -1,0 +1,3 @@
+##### § 2100.010 Entities in the biofuel supply chain. #####
+
+The supply chain for feedstock crops used in biofuel production begins at a farm and ends at a biofuel refiner. Any entity within this supply chain that produces, processes, or takes ownership of reduced-CI crop or reduced-CI processed product must meet all applicable standards of this part. These entities include farms, first points of aggregation, intermediary entities, and biofuel refiners. If a biofuel refiner sources directly from a farm, the biofuel refiner is the first point of aggregation.

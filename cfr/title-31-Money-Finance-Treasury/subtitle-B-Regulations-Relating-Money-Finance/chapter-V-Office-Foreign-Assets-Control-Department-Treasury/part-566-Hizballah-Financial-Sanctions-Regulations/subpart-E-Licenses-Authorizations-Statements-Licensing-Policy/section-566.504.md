@@ -1,7 +1,6 @@
 ##### § 566.504 Transactions related to closing a correspondent or payable-through account. #####
 
-(a) During the 10-day period beginning on the effective date of the prohibition in
-§ 566.201(c) on the opening or maintaining of a correspondent account or a payable-through account for a foreign financial institution listed on the List of Foreign Financial Institutions Subject to Correspondent Account or Payable-Through Account Sanctions (CAPTA List), U.S. financial institutions that maintain correspondent accounts or payable-through accounts for the foreign financial institution are authorized to:
+(a) During the 10-day period beginning on the effective date of the prohibition in § 566.201(c) on the opening or maintaining of a correspondent account or a payable-through account for a foreign financial institution listed on the List of Foreign Financial Institutions Subject to Correspondent Account or Payable-Through Account Sanctions (CAPTA List), U.S. financial institutions that maintain correspondent accounts or payable-through accounts for the foreign financial institution are authorized to:
 
 (1) Process only those transactions through the account, or permit the foreign financial institution to execute only those transactions through the account, that are for the purpose of, and necessary for, closing the account; and
 

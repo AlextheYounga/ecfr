@@ -1,5 +1,7 @@
 ##### § 182.42 Duties and fees not subject to drawback. #####
 
+Link to an amendment published at 90 FR 6484, Jan. 17, 2025.
+
 The following duties or fees which may be applicable to a good entered for consumption or withdrawn from warehouse for consumption in the Customs territory of the United States are not subject to drawback under this subpart:
 
 (a) Antidumping and countervailing duties;

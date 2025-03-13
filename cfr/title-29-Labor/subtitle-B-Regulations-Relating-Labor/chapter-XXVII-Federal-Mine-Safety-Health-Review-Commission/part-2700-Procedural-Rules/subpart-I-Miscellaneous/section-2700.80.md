@@ -1,5 +1,7 @@
 ##### § 2700.80 Standards of conduct; disciplinary proceedings. #####
 
+Link to an amendment published at 90 FR 5626, Jan. 17, 2025.
+
 (a) *Standards of conduct.* Individuals practicing before the Commission or before Commission Judges shall conform to the standards of ethical conduct required of practitioners in the courts of the United States.
 
 (b) *Grounds.* Disciplinary proceedings may be instituted against anyone who is practicing or has practiced before the Commission on grounds that such person has engaged in unethical or unprofessional conduct; has failed to comply with these rules or an order of the Commission or its Judges; has been disbarred or suspended by a court or administrative agency; or has been disciplined by a Judge under paragraph (e) of this section.

@@ -1,14 +1,12 @@
 ##### 19.703 Eligibility requirements for participating in the program. #####
 
-Link to an amendment published at 90 FR 525, Jan. 3, 2025.
-
 (a) Except as provided in paragraph (c) of this section, to be eligible as a subcontractor under the program, a concern must represent itself as a small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business concern.
 
 (1) To represent itself as a small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business concern, a concern must meet the appropriate definition (see 2.101 and 19.001). For subcontracting purposes, a concern is small if it does not exceed the size standard for the NAICS code that the prime contractor determines best describes the product or service being acquired by the subcontract.
 
-(2)(i) The prime contractor may accept a subcontractor's written representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, or a women-owned small business, if the subcontractor represents that the size and socioeconomic status representation with its offer are current, accurate, and complete as of the date of the offer for the subcontracts; or
+(2)(i) Unless the prime contractor has reason to question the representation, it may accept a subcontractor's written representations of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, or a women-owned small business, if the subcontractor represents that the size and socioeconomic status representation with its offer are current, accurate, and complete as of the date of the offer for the subcontracts; or
 
-(ii) The prime contractor may accept a subcontractor's representation of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, or a women-owned small business in the System for Award Management (SAM) if—
+(ii) Unless the prime contractor has reason to question the representation, it may accept a subcontractor's representation of its size and socioeconomic status as a small business, small disadvantaged business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, or a women-owned small business in the System for Award Management (SAM) if—
 
 (A) The subcontractor is registered in SAM; and
 

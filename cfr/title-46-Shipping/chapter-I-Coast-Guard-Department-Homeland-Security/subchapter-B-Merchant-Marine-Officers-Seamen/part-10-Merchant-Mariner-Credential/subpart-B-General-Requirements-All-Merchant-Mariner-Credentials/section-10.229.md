@@ -1,4 +1,4 @@
-##### § 10.229 Replacement of lost merchant mariner credentials. #####
+##### § 10.229 Replacement of lost Merchant Mariner Credentials. #####
 
 (a) Upon request and without examination, a mariner may be issued a duplicate credential and medical certificate after submitting an application with an affidavit describing the circumstances of the loss. The Coast Guard will only issue the duplicate credential, MMC and/or medical certificate, after confirming the validity of the mariner's credentials and the validity of the mariner's TWIC.
 

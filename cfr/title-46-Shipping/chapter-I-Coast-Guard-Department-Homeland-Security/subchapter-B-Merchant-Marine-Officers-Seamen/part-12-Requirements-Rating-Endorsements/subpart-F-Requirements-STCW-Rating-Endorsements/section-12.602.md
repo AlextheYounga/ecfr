@@ -1,8 +1,6 @@
-##### § 12.602 Basic training. #####
+##### § 12.602 Basic Training. #####
 
-Link to an amendment published at 89 FR 93103, Nov. 25, 2024.
-
-(a) Applicants seeking an STCW rating endorsement must provide evidence, with their application, of meeting the standard of competence for basic training as described below:
+(a) Applicants seeking an STCW rating endorsement must provide evidence, with their application, of meeting the standard of competence for Basic Training (BT) as described below:
 
 (1) Personal survival techniques, as set out in Table A-VI/1-1 of the STCW Code (incorporated by reference, see § 12.103 of this part).
 
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 93103, Nov. 25, 2024.
 
 (4) Personal safety and social responsibilities, as set out in Table A-VI/1-4 of the STCW Code.
 
-(b) Every 5 years, seafarers qualified in accordance with § 12.601 (a) of this subpart must provide evidence of maintaining the standard of competence for basic training (BT).
+(b) Every 5 years, seafarers qualified in accordance with § 12.601(a) must provide evidence of maintaining the standard of competence for Basic Training (BT).
 
 (c) The Coast Guard will accept onboard training and experience, through evidence of 1 year of sea service within the last 5 years for the following areas:
 
@@ -71,3 +69,5 @@ Link to an amendment published at 89 FR 93103, Nov. 25, 2024.
 (vii) Extinguishing oil fire with fog applicator and spray nozzles, dry chemical powder, or foam applicators.
 
 (e) Applicants who cannot meet the requirement for 1 year of sea service within the last 5 years, as described in paragraph (c) of this section, will be required to meet the requirements of paragraph (a) of this section or complete approved or accepted refresher training.
+
+[USCG-2004-17914, 78 FR 77975, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93103, Nov. 25, 2024]

@@ -1,5 +1,7 @@
 ##### § 2700.82 Ex parte communications. #####
 
+Link to an amendment published at 90 FR 5627, Jan. 17, 2025.
+
 (a) For purposes of this section, the following definitions shall apply:
 
 (1) *Ex parte communication* means an oral or written communication not on the public record concerning any matter or proceeding with respect to which reasonable prior notice to all parties has not been given. A status or informational request does not constitute an ex parte communication.

@@ -1,16 +1,20 @@
-##### 252.244-7001 Contractor purchasing system administration. #####
+##### 252.244-7001 Contractor Purchasing System Administration. #####
 
 *Basic.* As prescribed in 244.305-71 and 244.305-71(a), use the following clause:
 
-Contractor Purchasing System Administration—Basic (MAY 2014)
+Contractor Purchasing System Administration—Basic (Jan 2025)
 
 (a) *Definitions.* As used in this clause—
 
 *Acceptable purchasing system* means a purchasing system that complies with the system criteria in paragraph (c) of this clause.
 
-*Purchasing system* means the Contractor's system or systems for purchasing and subcontracting, including make-or-buy decisions, the selection of vendors, analysis of quoted prices, negotiation of prices with vendors, placing and administering of orders, and expediting delivery of materials.
+*Material weakness* means a deficiency or combination of deficiencies in the internal control over information in contractor business systems, such that there is a reasonable possibility that a material misstatement of such information will not be prevented, or detected and corrected, on a timely basis. A reasonable possibility exists when the likelihood of an event occurring is—
 
-*Significant deficiency* means a shortcoming in the system that materially affects the ability of officials of the Department of Defense to rely upon information produced by the system that is needed for management purposes.
+(1) Probable; or
+
+(2) More than remote but less than likely (section 806 of Pub. L. 116-283).
+
+*Purchasing system* means the Contractor's system or systems for purchasing and subcontracting, including make-or-buy decisions, the selection of vendors, analysis of quoted prices, negotiation of prices with vendors, placing and administering of orders, and expediting delivery of materials.
 
 (b) *General.* The Contractor shall establish and maintain an acceptable purchasing system. Failure to maintain an acceptable purchasing system, as defined in this clause, may result in disapproval of the system by the Contracting Officer and/or withholding of payments.
 
@@ -68,25 +72,25 @@ Contractor Purchasing System Administration—Basic (MAY 2014)
 
 (ii) Any subcontractor changes the amount of lower-tier subcontractor effort after award such that it exceeds 70 percent of the total cost of the work to be performed under its subcontract. The notification shall identify the revised cost of the subcontract effort and shall include verification that the subcontractor will provide added value as related to the work to be performed by the lower-tier subcontractor(s).
 
-(d) *Significant deficiencies.* (1) The Contracting Officer will provide notification of initial determination to the Contractor, in writing, of any significant deficiencies. The initial determination will describe the deficiency in sufficient detail to allow the Contractor to understand the deficiency.
+(d) *Material weaknesses.* (1) The Contracting Officer will provide notification of initial determination to the Contractor, in writing, of any material weaknesses. The initial determination will describe the underlying deficiency in sufficient detail to allow the Contractor to understand the weakness or deficiency.
 
-(2) The Contractor shall respond within 30 days to a written initial determination from the Contracting Officer that identifies significant deficiencies in the Contractor's purchasing system. If the Contractor disagrees with the initial determination, the Contractor shall state, in writing, its rationale for disagreeing.
+(2) The Contractor shall respond within 30 days to a written initial determination from the Contracting Officer that identifies material weaknesses in the Contractor's purchasing system. If the Contractor disagrees with the initial determination, the Contractor shall state, in writing, its rationale for disagreeing.
 
 (3) The Contracting Officer will evaluate the Contractor's response and notify the Contractor, in writing, of the Contracting Officer's final determination concerning—
 
-(i) Remaining significant deficiencies;
+(i) Remaining material weaknesses;
 
 (ii) The adequacy of any proposed or completed corrective action; and
 
-(iii) System disapproval, if the Contracting Officer determines that one or more significant deficiencies remain.
+(iii) System disapproval, if the Contracting Officer determines that one or more material weaknesses remain.
 
-(e) If the Contractor receives the Contracting Officer's final determination of significant deficiencies, the Contractor shall, within 45 days of receipt of the final determination, either correct the significant deficiencies or submit an acceptable corrective action plan showing milestones and actions to eliminate the deficiencies.
+(e) If the Contractor receives the Contracting Officer's final determination of material weaknesses, the Contractor shall, within 45 days of receipt of the final determination, either correct the material weaknesses or submit an acceptable corrective action plan showing milestones and actions to eliminate the weaknesses.
 
 (f) *Withholding payments.* If the Contracting Officer makes a final determination to disapprove the Contractor's purchasing system, and the contract includes the clause at 252.242-7005, Contractor Business Systems, the Contracting Officer will withhold payments in accordance with that clause.
 
 *Alternate I.* As prescribed in 244.305-71 and 244.305-71(b), use the following clause, which amends paragraph (c) of the basic clause by deleting paragraphs (c)(1) through (c)(18) and (c)(22) through (c)(24), and revising and renumbering paragraphs (c)(19) through (c)(21) of the basic clause:
 
-Contractor Purchasing System Administration—Alternate I (MAY 2014)
+Contractor Purchasing System Administration—Alternate I (Jan 2025)
 
 The following paragraphs (a) through (f) of this clause do not apply unless the Contractor is subject to the Cost Accounting Standards under 41 U.S.C. chapter 15, as implemented in regulations found at 48 CFR 9903.201-1.
 
@@ -94,9 +98,13 @@ The following paragraphs (a) through (f) of this clause do not apply unless the 
 
 *Acceptable purchasing system* means a purchasing system that complies with the system criteria in paragraph (c) of this clause.
 
-*Purchasing system* means the Contractor's system or systems for purchasing and subcontracting, including make-or-buy decisions, the selection of vendors, analysis of quoted prices, negotiation of prices with vendors, placing and administering of orders, and expediting delivery of materials.
+*Material weakness* means a deficiency or combination of deficiencies in the internal control over information in contractor business systems, such that there is a reasonable possibility that a material misstatement of such information will not be prevented, or detected and corrected, on a timely basis. A reasonable possibility exists when the likelihood of an event occurring is—
 
-*Significant deficiency* means a shortcoming in the system that materially affects the ability of officials of the Department of Defense to rely upon information produced by the system that is needed for management purposes.
+(1) Probable; or
+
+(2) More than remote but less than likely (section 806 of Pub. L. 116-283).
+
+*Purchasing system* means the Contractor's system or systems for purchasing and subcontracting, including make-or-buy decisions, the selection of vendors, analysis of quoted prices, negotiation of prices with vendors, placing and administering of orders, and expediting delivery of materials.
 
 (b) *Acceptable purchasing system.* The Contractor shall establish and maintain an acceptable purchasing system. Failure to maintain an acceptable purchasing system, as defined in this clause, may result in disapproval of the system by the Contracting Officer and/or withholding of payments.
 
@@ -108,20 +116,20 @@ The following paragraphs (a) through (f) of this clause do not apply unless the 
 
 (3) Establish and maintain selection processes to ensure the most responsive and responsible sources for furnishing required quality parts and materials and to promote competitive sourcing among dependable suppliers so that purchases are from sources that meet contractor quality requirements, including the requirements of 252.246-7007, Contractor Counterfeit Electronic Part Detection and Avoidance System.
 
-(d) *Significant deficiencies.* (1) The Contracting Officer will provide notification of initial determination to the Contractor, in writing, of any significant deficiencies. The initial determination will describe the deficiency in sufficient detail to allow the Contractor to understand the deficiency.
+(d) *Material weaknesses.* (1) The Contracting Officer will provide notification of initial determination to the Contractor, in writing, of any material weaknesses. The initial determination will describe the underlying deficiency in sufficient detail to allow the Contractor to understand the weaknesses or deficiency.
 
-(2) The Contractor shall respond within 30 days to a written initial determination from the Contracting Officer that identifies significant deficiencies in the Contractor's purchasing system. If the Contractor disagrees with the initial determination, the Contractor shall state, in writing, its rationale for disagreeing.
+(2) The Contractor shall respond within 30 days to a written initial determination from the Contracting Officer that identifies material weaknesses in the Contractor's purchasing system. If the Contractor disagrees with the initial determination, the Contractor shall state, in writing, its rationale for disagreeing.
 
 (3) The Contracting Officer will evaluate the Contractor's response and notify the Contractor, in writing, of the Contracting Officer's final determination concerning—
 
-(i) Remaining significant deficiencies;
+(i) Remaining material weaknesses;
 
 (ii) The adequacy of any proposed or completed corrective action; and
 
-(iii) System disapproval, if the Contracting Officer determines that one or more significant deficiencies remain.
+(iii) System disapproval, if the Contracting Officer determines that one or more material weaknesses remain.
 
-(e) If the Contractor receives the Contracting Officer's final determination of significant deficiencies, the Contractor shall, within 45 days of receipt of the final determination, either correct the significant deficiencies or submit an acceptable corrective action plan showing milestones and actions to eliminate the deficiencies.
+(e) If the Contractor receives the Contracting Officer's final determination of material weaknesses, the Contractor shall, within 45 days of receipt of the final determination, either correct the material weaknesses or submit an acceptable corrective action plan showing milestones and actions to eliminate the weaknesses.
 
 (f) *Withholding payments.* If the Contracting Officer makes a final determination to disapprove the Contractor's purchasing system, and the contract includes the clause at 252.242-7005, Contractor Business Systems, the Contracting Officer will withhold payments in accordance with that clause.
 
-(End of clause)[76 FR 28877, May 18, 2011, as amended at 77 FR 35882, June 15, 2012; 79 FR 26107, May 6, 2014; 80 FR 36900, June 26, 2015]
+(End of clause)[76 FR 28877, May 18, 2011, as amended at 77 FR 35882, June 15, 2012; 79 FR 26107, May 6, 2014; 80 FR 36900, June 26, 2015; 90 FR 5734, Jan. 17, 2025]

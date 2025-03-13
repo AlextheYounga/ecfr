@@ -1,7 +1,5 @@
 ##### § 271.2 Definitions. #####
 
-Link to an amendment published at 89 FR 90568, Nov. 18, 2024.
-
 *Access device* means any card, plate, code, account number, or other means of access that can be used alone, or in conjunction with another access device, to obtain payments, allotments, benefits, money, goods, or other things of value, or that can be used to initiate a transfer of funds under the Food and Nutrition Act of 2008, as amended.
 
 *Active case* means a household which was certified prior to, or during, the sample month and issued SNAP benefits for the sample month.
@@ -31,6 +29,8 @@ Link to an amendment published at 89 FR 90568, Nov. 18, 2024.
 *Budget month* in a Monthly Reporting and Retrospective Budgeting system means the fiscal or calendar month from which the State agency uses income and other circumstances of the household to calculate the household's SNAP allotment to be provided for the corresponding issuance month.
 
 *Communal dining facility* means a public or nonprofit private establishment, approved by FNS, which prepares and serves meals for elderly persons, or for supplemental security income (SSI) recipients, and their spouses, a public or private nonprofit establishment (eating or otherwise) that feeds elderly persons or SSI recipients, and their spouses, and federally subsidized housing for the elderly at which meals are prepared for and served to the residents. It also includes private establishments that contract with an appropriate State or local agency to offer meals at concessional prices to elderly persons or SSI recipients, and their spouses.
+
+*Completion of participation in E&T* means that an E&T participant has not received any E&T services for at least 90 days and no future services are planned.
 
 *Coupon* means any coupon, stamp, type of certificate, authorization card, cash or check issued in lieu of a coupon, or access device, including an electronic benefit transfer card or personal identification number issued pursuant to the provisions of the Food and Nutrition Act of 2008, as amended, for the purchase of eligible food.
 
@@ -94,7 +94,7 @@ Link to an amendment published at 89 FR 90568, Nov. 18, 2024.
 
 *Employment and Training (E&T) mandatory participant* a supplemental nutrition assistance program applicant or participant who is required to work register under 7 U.S.C. 2015(d)(1) or (2) and who the State determines should not be exempted from participation in an employment and training program and is required to participate in E&T.
 
-*Employment and Training (E&T) participant* means an individual who meets the definition of a mandatory or voluntary E&T participant.
+*Employment and Training (E&T) participant* means an individual who meets the definition of a mandatory or voluntary participant who is referred to E&T and begins at least one part of an E&T program, including orientation, assessment, case management services or a component.
 
 *Employment and Training (E&T) program* means a program operated by each State agency consisting of case management and one or more E&T components.
 
@@ -123,6 +123,8 @@ Link to an amendment published at 89 FR 90568, Nov. 18, 2024.
 *FNS* means the Food and Nutrition Service of the U.S. Department of Agriculture.
 
 *Food and Nutrition Act of 2008* means the Food and Nutrition Act of 2008 (Pub. L. 95-113), including any subsequent amendments thereto.
+
+*Former E&T participant* means an individual who is no longer participating in E&T services because the individual is no longer receiving SNAP benefits.
 
 *General assistance (GA)* means cash or another form of assistance, excluding in-kind assistance, financed by State or local funds as part of a program which provides assistance to cover living expenses or other basic needs intended to promote the health or well-being of recipients.
 

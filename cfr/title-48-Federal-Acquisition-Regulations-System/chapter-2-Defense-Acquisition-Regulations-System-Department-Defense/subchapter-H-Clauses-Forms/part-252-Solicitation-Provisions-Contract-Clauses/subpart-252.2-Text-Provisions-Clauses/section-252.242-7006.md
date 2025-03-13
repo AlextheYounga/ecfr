@@ -1,24 +1,28 @@
-##### 252.242-7006 Accounting system administration. #####
+##### 252.242-7006 Accounting System Administration. #####
 
 As prescribed in 242.7503, use the following clause:
 
-Accounting System Administration (FEB 2012)
+Accounting System Administration (Jan 2025)
 
 (a) *Definitions.* As used in this clause—
 
-(1) *Acceptable accounting system* means a system that complies with the system criteria in paragraph (c) of this clause to provide reasonable assurance that—
+*Acceptable accounting system* means a system that complies with the system criteria in paragraph (c) of this clause to provide reasonable assurance that—
 
-(i) Applicable laws and regulations are complied with;
+(1) Applicable laws and regulations are complied with;
 
-(ii) The accounting system and cost data are reliable;
+(2) The accounting system and cost data are reliable;
 
-(iii) Risk of misallocations and mischarges are minimized; and
+(3) Risk of misallocations and mischarges are minimized; and
 
-(iv) Contract allocations and charges are consistent with billing procedures.
+(4) Contract allocations and charges are consistent with billing procedures.
 
-(2) *Accounting system* means the Contractor's system or systems for accounting methods, procedures, and controls established to gather, record, classify, analyze, summarize, interpret, and present accurate and timely financial data for reporting in compliance with applicable laws, regulations, and management decisions, and may include subsystems for specific areas such as indirect and other direct costs, compensation, billing, labor, and general information technology.
+*Accounting system* means the Contractor's system or systems for accounting methods, procedures, and controls established to gather, record, classify, analyze, summarize, interpret, and present accurate and timely financial data for reporting in compliance with applicable laws, regulations, and management decisions, and may include subsystems for specific areas such as indirect and other direct costs, compensation, billing, labor, and general information technology.
 
-(3) *Significant deficiency* means a shortcoming in the system that materially affects the ability of officials of the Department of Defense to rely upon information produced by the system that is needed for management purposes.
+*Material weakness* means a deficiency or combination of deficiencies in the internal control over information in contractor business systems, such that there is a reasonable possibility that a material misstatement of such information will not be prevented, or detected and corrected, on a timely basis. A reasonable possibility exists when the likelihood of an event occurring is—
+
+(1) Probable; or
+
+(2) More than remote but less than likely (section 806 of Pub. L. 116-283).
 
 (b) *General.* The Contractor shall establish and maintain an acceptable accounting system. Failure to maintain an acceptable accounting system, as defined in this clause, shall result in the withholding of payments if the contract includes the clause at 252.242-7005, Contractor Business Systems, and also may result in disapproval of the system.
 
@@ -64,20 +68,20 @@ Accounting System Administration (FEB 2012)
 
 (18) Accounting practices in accordance with standards promulgated by the Cost Accounting Standards Board, if applicable, otherwise, Generally Accepted Accounting Principles.
 
-(d) *Significant deficiencies.* (1) The Contracting Officer will provide an initial determination to the Contractor, in writing, on any significant deficiencies. The initial determination will describe the deficiency in sufficient detail to allow the Contractor to understand the deficiency.
+(d) *Material weaknesses.* (1) The Contracting Officer will provide an initial determination to the Contractor, in writing, of any material weaknesses. The initial determination will describe the underlying deficiency in sufficient detail to allow the Contractor to understand the weakness or deficiency.
 
-(2) The Contractor shall respond within 30 days to a written initial determination from the Contracting Officer that identifies significant deficiencies in the Contractor's accounting system. If the Contractor disagrees with the initial determination, the Contractor shall state, in writing, its rationale for disagreeing.
+(2) The Contractor shall respond within 30 days to a written initial determination from the Contracting Officer that identifies material weaknesses in the Contractor's accounting system. If the Contractor disagrees with the initial determination, the Contractor shall state, in writing, its rationale for disagreeing.
 
 (3) The Contracting Officer will evaluate the Contractor's response and notify the Contractor, in writing, of the Contracting Officer's final determination concerning—
 
-(i) Remaining significant deficiencies;
+(i) Remaining material weaknesses;
 
 (ii) The adequacy of any proposed or completed corrective action; and
 
-(iii) System disapproval, if the Contracting Officer determines that one or more significant deficiencies remain.
+(iii) System disapproval, if the Contracting Officer determines that one or more material weaknesses remain.
 
-(e) If the Contractor receives the Contracting Officer's final determination of significant deficiencies, the Contractor shall, within 45 days of receipt of the final determination, either correct the significant deficiencies or submit an acceptable corrective action plan showing milestones and actions to eliminate the significant deficiencies.
+(e) If the Contractor receives the Contracting Officer's final determination of material weaknesses, the Contractor shall, within 45 days of receipt of the final determination, either correct the material weaknesses or submit an acceptable corrective action plan showing milestones and actions to eliminate the material weaknesses.
 
 (f) *Withholding payments.* If the Contracting Officer makes a final determination to disapprove the Contractor's accounting system, and the contract includes the clause at 252.242-7005, Contractor Business Systems, the Contracting Officer will withhold payments in accordance with that clause.
 
-(End of clause)[76 FR 28877, May 18, 2011, as amended at 77 FR 11366, Feb. 24, 2012]
+(End of clause)[76 FR 28877, May 18, 2011, as amended at 77 FR 11366, Feb. 24, 2012; 90 FR 5734, Jan. 17, 2025]

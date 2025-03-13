@@ -1,8 +1,6 @@
 ##### 252.227-7028 Technical data or computer software previously delivered to the government. #####
 
-Link to an amendment published at 89 FR 103365, Dec. 18, 2024.
-
-As prescribed in 227.7103-6(d), 227.7104(f)(2), or 227.7203-6(e), use the following provision:
+As prescribed in 227.7103-6(d), 227.7104-4(b)(5), or 227.7203-6(e), use the following provision:
 
 Technical Data or Computer Software Previously Delivered to the Government (JUN 1995)
 
@@ -14,4 +12,4 @@ The Offeror shall attach to its offer an identification of all documents or othe
 
 (c) Any limitations on the Government's rights to use or disclose the data or software, including, when applicable, identification of the earliest date the limitations expire.
 
-(End of provision)[60 FR 33505, June 28, 1995]
+(End of provision)[60 FR 33505, June 28, 1995, as amended at 89 FR 103365, Dec. 18, 2024]

@@ -1,7 +1,5 @@
 ##### § 271.8 Information collection/recordkeeping—OMB assigned control numbers. #####
 
-Link to an amendment published at 89 FR 90568, Nov. 18, 2024.
-
 |7 CFR section where requirements are described|Current OMB control No.|
 |----------------------------------------------|-----------------------|
 |                   272.1(f)                   |       0584-0010       |
@@ -28,6 +26,7 @@ Link to an amendment published at 89 FR 90568, Nov. 18, 2024.
 |              273.7(a), (d), (e)              |       0584-0339       |
 |                   273.7(c)                   |       0584-0083       |
 |                                              |       0584-0339       |
+|                 273.7(c)(17)                 |       0584-0614       |
 |                273.8(b), (e )                |       0584-0064       |
 |                   273.9(d)                   |       0584-0496       |
 |                 273.9(d) (c)                 |       0584-0064       |
@@ -98,4 +97,4 @@ Link to an amendment published at 89 FR 90568, Nov. 18, 2024.
 |                   280.9(b)                   |       0584-0037       |
 |                  280.10(a)                   |       0584-0336       |
 
-[82 FR 2034, Jan. 6, 2017]
+[82 FR 2034, Jan. 6, 2017, as amended at 89 FR 90568, Nov. 18, 2024]

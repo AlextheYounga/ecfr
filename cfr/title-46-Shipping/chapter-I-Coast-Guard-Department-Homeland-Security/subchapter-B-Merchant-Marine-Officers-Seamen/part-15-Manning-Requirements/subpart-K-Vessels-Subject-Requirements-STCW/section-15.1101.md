@@ -14,14 +14,14 @@
 
 (v) Pilot vessels engaged on pilotage duty.
 
-(2) The following small vessels engaged exclusively on domestic, near coastal voyages are not subject to any obligation for the purposes of the STCW Convention:
+(2) The following small vessels engaged exclusively on domestic, near-coastal voyages are not subject to any obligation for the purposes of the STCW Convention:
 
-(i) Small passenger vessels subject to subchapter T or K of 46 CFR chapter I.
+(i) Small passenger vessels subject to subchapter T or K of this chapter.
 
-(ii) Vessels of less than 200 GRT (other than passenger vessels subject to subchapter H of 46 CFR chapter I).
+(ii) Vessels of less than 200 GRT (other than passenger vessels subject to subchapter H of this chapter).
 
 (iii) Uninspected passenger vessels as defined in 46 U.S.C. 2101(42)(B).
 
-(b) Masters, mates, and engineers serving on vessels identified in paragraphs (a)(2)(i) and (a)(2)(ii) of this section may be issued, without additional proof of qualification, an appropriate STCW endorsement when the Coast Guard determines that such a document is necessary to enable the vessel to engage on a single international voyage of a non-routine nature. The STCW endorsement will be expressly limited to service on the vessel or the class of vessels and will not establish qualification for any other purpose.
+(b) Masters, Mates, and engineers serving on vessels identified in paragraphs (a)(2)(i) and (ii) of this section may be issued, without additional proof of qualification, an appropriate STCW endorsement when the Coast Guard determines that such a document is necessary to enable the vessel to engage on a single international voyage of a non-routine nature. The STCW endorsement will be expressly limited to service on the vessel or the class of vessels and will not establish qualification for any other purpose.
 
 [USCG-2004-17914, 78 FR 78010, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30883, June 28, 2019]

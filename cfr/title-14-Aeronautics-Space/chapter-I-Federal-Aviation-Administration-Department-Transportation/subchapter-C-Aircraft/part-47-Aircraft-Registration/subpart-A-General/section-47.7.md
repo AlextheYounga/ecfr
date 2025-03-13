@@ -18,10 +18,10 @@
 
 (3) If persons who are neither U.S. citizens nor resident aliens have the power to direct or remove a trustee, either directly or indirectly through the control of another person, the trust instrument must provide that those persons together may not have more than 25 percent of the aggregate power to direct or remove a trustee. Nothing in this paragraph prevents those persons from having more than 25 percent of the beneficial interest in the trust.
 
-(d) *Partnerships.* A partnership may apply for a Certificate of Aircraft Registration, AC Form 8050-3, under 49 U.S.C. 44102 only if each partner, whether a general or limited partner, is an individual who is a citizen of the United States. Nothing in this section makes ineligible for registration an aircraft which is not owned as a partnership asset but is co-owned by—
+(d) *Partnerships.* A partnership may apply for a Certificate of Aircraft Registration under 49 U.S.C. 44102 only if each partner, whether a general or limited partner, is an individual who is a citizen of the United States. Nothing in this section makes ineligible for registration an aircraft that is not owned as a partnership asset but is co-owned by—
 
 (1) Resident aliens; or
 
 (2) One or more resident aliens and one or more U.S. citizens.
 
-[Amdt. 47-20, 44 FR 61939, Oct. 29, 1979, as amended by Amdt. 47-27, 70 FR 244, Jan. 3, 2005; Amdt. 47-29, 75 FR 41980, July 20, 2010; Doc. No. FAA-2015-7396; Amdt. 47-30, 80 FR 78645, Dec. 16, 2015]
+[Amdt. 47-20, 44 FR 61939, Oct. 29, 1979, as amended by Amdt. 47-27, 70 FR 244, Jan. 3, 2005; Amdt. 47-29, 75 FR 41980, July 20, 2010; Doc. No. FAA-2015-7396; Amdt. 47-30, 80 FR 78645, Dec. 16, 2015; Docket No. FAA-2024-2765, Amdt. No. 47-36, 90 FR 5571, Jan. 17, 2025]

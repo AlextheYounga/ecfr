@@ -1,5 +1,7 @@
 ##### § 263.3 What definitions apply to the Professional Development program? #####
 
+Link to an amendment published at 90 FR 5636, Jan. 17, 2025.
+
 The following definitions apply to the Professional Development program:
 
 *BIE-funded school* means a Bureau of Indian Education school, a contract or grant school, or a school for which assistance is provided under the Tribally Controlled Schools Act of 1988.

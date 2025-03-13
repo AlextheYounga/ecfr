@@ -1,7 +1,5 @@
 ##### § 120.802 Definitions. #####
 
-Link to an amendment published at 89 FR 102701, Dec. 18, 2024.
-
 The following terms have the same meaning wherever they are used in this subpart. Defined terms are capitalized wherever they appear.
 
 *Area of Operations* is the geographic area where SBA has approved a CDC's request to provide 504 program services to small businesses on a permanent basis. The minimum Area of Operations is the State in which the CDC is incorporated.
@@ -10,7 +8,7 @@ The following terms have the same meaning wherever they are used in this subpart
 
 *Certificate* is a document issued by SBA or its agent representing ownership of all or part of a Debenture Pool.
 
-*Debenture* is an obligation issued by a CDC and guaranteed 100 percent by SBA, the proceeds of which are used to fund a 504 loan.
+*Debenture* is an obligation issued by a CDC and guaranteed 100 percent by SBA, the proceeds of which are used to fund a 504 loan. SBA, in its discretion, may authorize either paper or electronic Debentures.
 
 *Debenture Pool* is an aggregation of Debentures.
 
@@ -38,4 +36,4 @@ The following terms have the same meaning wherever they are used in this subpart
 
 *Underwriter* is an entity approved by SBA to form Debenture Pools and arrange for the sale of Certificates.
 
-[61 FR 3235, Jan. 31, 1996, as amended at 64 FR 2118, Jan. 13, 1999; 65 FR 42632, July 11, 2000; 68 FR 57980, Oct. 7, 2003]
+[61 FR 3235, Jan. 31, 1996, as amended at 64 FR 2118, Jan. 13, 1999; 65 FR 42632, July 11, 2000; 68 FR 57980, Oct. 7, 2003; 89 FR 102701, Dec. 18, 2024]

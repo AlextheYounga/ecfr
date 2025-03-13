@@ -1,5 +1,7 @@
 ##### § 2700.55 Powers of Judges. #####
 
+Link to an amendment published at 90 FR 5623, Jan. 17, 2025.
+
 Subject to these rules, a Judge is empowered to:
 
 (a) Administer oaths and affirmations;

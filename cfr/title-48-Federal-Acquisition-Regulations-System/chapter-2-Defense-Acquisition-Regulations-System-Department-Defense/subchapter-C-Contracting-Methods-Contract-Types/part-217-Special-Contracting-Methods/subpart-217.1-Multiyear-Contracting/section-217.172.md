@@ -22,7 +22,7 @@
 
 (f)(1) The head of the agency must not enter into or extend a multiyear contract that exceeds $750 million (when entered into or extended) until the Secretary of Defense identifies the contract and any extension in a report submitted to the congressional defense committees (10 U.S.C. 3501(l)(5)).
 
-(2) In addition, for contracts equal to or greater than $750 million, the head of the contracting activity must determine that the conditions required by paragraph (h)(2)(i) through (vii) of this section will be met by such contract, in accordance with the Secretary's certification and determination required by paragraph (h)(2) of this section .
+(2) In addition, for contracts equal to or greater than $750 million, the head of the contracting activity must determine that the conditions required by paragraphs (h)(2)(i) through (vii) of this section will be met by such contract, in accordance with the Secretary's certification and determination required by paragraph (h)(2) of this section.
 
 (g) The head of the agency may enter into a multiyear contract for—
 
@@ -84,4 +84,4 @@
 
 (j) Any requests for increased funding or reprogramming for procurement of a major system under a multiyear contract shall be accompanied by an explanation of how the request for increased funding affects the determinations made by the Secretary of Defense under 217.172(h)(2) (10 U.S.C. 3501(m)).
 
-[76 FR 58153, Sept. 20, 2011, as amended at 80 FR 29982, May 26, 2015; 80 FR 36904, June 26, 2015; 81 FR 28731, May 10, 2016; 85 FR 61504, Sept. 29, 2020; 87 FR 76993, Dec. 16, 2022; 89 FR 60831, July 29, 2024]
+[76 FR 58153, Sept. 20, 2011, as amended at 80 FR 29982, May 26, 2015; 80 FR 36904, June 26, 2015; 81 FR 28731, May 10, 2016; 85 FR 61504, Sept. 29, 2020; 87 FR 76993, Dec. 16, 2022; 89 FR 60831, July 29, 2024; 90 FR 5736, Jan. 17, 2025]

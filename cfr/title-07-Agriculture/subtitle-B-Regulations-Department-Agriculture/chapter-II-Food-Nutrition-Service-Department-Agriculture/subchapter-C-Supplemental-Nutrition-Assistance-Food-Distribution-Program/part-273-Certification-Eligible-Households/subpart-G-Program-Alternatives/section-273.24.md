@@ -1,7 +1,5 @@
 ##### § 273.24 Time limit for able-bodied adults. #####
 
-Link to an amendment published at 89 FR 90569, Nov. 18, 2024.
-
 (a) *Definitions.* For purposes of the SNAP time limit, the terms below have the following meanings:
 
 (1) *Fulfilling the work requirement* means:
@@ -35,6 +33,12 @@ Link to an amendment published at 89 FR 90569, Nov. 18, 2024.
 (iv) A program of employment and training for veterans operated by the Department of Labor or the Department of Veterans Affairs. For the purpose of this paragraph, any employment and training program of the Department of Labor or Veterans Affairs that serves veterans shall be an approved work program; or
 
 (v) A workforce partnership under § 273.7(n)
+
+(4) *Workfare program* means:
+
+(i) A program under § 273.7(m); or
+
+(ii) A comparable program established by a State or political subdivision of a State.
 
 (b) *General Rule.* Individuals are not eligible to participate in SNAP as a member of any household if the individual received SNAP benefits for more than three countable months during any three-year period, except that individuals may be eligible for up to three additional countable months in accordance with paragraph (e) of this section.
 
@@ -192,4 +196,4 @@ Link to an amendment published at 89 FR 90569, Nov. 18, 2024.
 
 (l) *Verification of exceptions.* If the State agency determines an individual's exception status under paragraph (c) of this section is questionable, the State agency must first attempt to verify exception status using information available to the State agency, such as information from other public assistance programs through data sharing, before requiring individuals provide documentary evidence or other sources of verification.
 
-[Amdt. 379, 64 FR 48257, Sept. 3, 1999, as amended at 66 FR 4469, Jan. 17, 2001; 67 FR 41618, June 19, 2002; 71 FR 33384, June 9, 2006; 84 FR 66811, Dec. 5, 2019; 84 FR 66811, Dec. 5, 2020; 86 FR 410, Jan. 5, 2021; 86 FR 34605, June 30, 2021; 89 FR 102362, Dec. 17, 2024]
+[Amdt. 379, 64 FR 48257, Sept. 3, 1999, as amended at 66 FR 4469, Jan. 17, 2001; 67 FR 41618, June 19, 2002; 71 FR 33384, June 9, 2006; 84 FR 66811, Dec. 5, 2019; 84 FR 66811, Dec. 5, 2020; 86 FR 410, Jan. 5, 2021; 86 FR 34605, June 30, 2021; 89 FR 102362, Dec. 17, 2024; 89 FR 90569, Nov. 18, 2024]

@@ -1,5 +1,7 @@
 ##### § 163.1 Definitions. #####
 
+Link to an amendment published at 90 FR 6482, Jan. 17, 2025.
+
 When used in this part, the following terms shall have the meaning indicated:
 
 (a) *Records*—(1) *In general.* The term “records” means any information made or normally kept in the ordinary course of business that pertains to any activity listed in paragraph (a)(2) of this section. The term includes any information required for the entry of merchandise (the (a)(1)(A) list) and other information pertaining to, or from which is derived, any information element set forth in a collection of information required by the Tariff Act of 1930, as amended, in connection with any activity listed in paragraph (a)(2) of this section. The term includes, but is not limited to, the following: Statements; declarations; documents; electronically generated or machine readable data; electronically stored or transmitted information or data; books; papers; correspondence; accounts; financial accounting data; technical data; computer programs necessary to retrieve information in a usable form; and entry records (contained in the (a)(1)(A) list).

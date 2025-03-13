@@ -1,10 +1,8 @@
-##### 52.219-28 Post-Award Small Business Program Rerepresentation. #####
-
-Link to an amendment published at 90 FR 522, Jan. 3, 2025.
+##### 52.219-28 Postaward Small Business Program Rerepresentation. #####
 
 As prescribed in 19.309(c)(1), insert the following clause:
 
-Post-Award Small Business Program Rerepresentation (FEB 2024)
+Postaward Small Business Program Rerepresentation (JAN 2025)
 
 (a) *Definitions.* As used in this clause—
 
@@ -28,7 +26,15 @@ Post-Award Small Business Program Rerepresentation (FEB 2024)
 
 (ii) Within 60 to 120 days prior to the date specified in the contract for exercising any option thereafter.
 
-(c) If the Contractor represented that it was any of the small business concerns identified in 19.000(a)(3) prior to award of this contract, the Contractor shall rerepresent its size and socioeconomic status according to paragraph (f) of this clause or, if applicable, paragraph (h) of this clause, when the Contracting Officer explicitly requires it for an order issued under a multiple-award contract.
+(c) If the Contractor represented its status as any of the small business concerns identified at 19.000(a)(3) prior to award of this contract, the Contractor shall rerepresent its size and socioeconomic status according to paragraph (f) of this clause or, if applicable, paragraph (h) of this clause, for the NAICS code assigned to an order (except that paragraphs (c)(1) through (3) of this clause do not apply to an order issued under a Federal Supply Schedule contract at subpart 8.4)—
+
+(1) Set aside exclusively for a small business concern identified at 19.000(a)(3) that is issued under an unrestricted multiple-award contract, unless the order is issued under the reserved portion of an unrestricted multiple-award contract (*e.g.,* an order set aside for a woman-owned small business under a multiple-award contract that is not set-aside, unless the order is issued under the reserved portion of the multiple-award contract);
+
+(2) Issued under a multiple-award contract set aside for small businesses that is further set aside for a specific socioeconomic category that differs from the underlying multiple-award contract (*e.g.,* an order set aside for a HUBZone small business concern under a multiple-award contract that is set aside for small businesses);
+
+(3) Issued under the part of the multiple-award contract that is set aside for small businesses that is further set aside for a specific socioeconomic category that differs from the underlying set-aside part of the multiple-award contract (*e.g.,* an order set aside for a WOSB concern under the part of the multiple-award contract that is partially set aside for small businesses); and
+
+(4) When the Contracting Officer explicitly requires it for an order issued under a multiple-award contract, including for an order issued under a Federal Supply Schedule contract (see 8.405-5(b) and 19.301-2(b)(2)).
 
 (d) The Contractor shall rerepresent its size status in accordance with the size standard in effect at the time of this rerepresentation that corresponds to the North American Industry Classification System (NAICS) code(s) assigned to this contract. The small business size standard corresponding to this NAICS code(s) can be found at *https://www.sba.gov/document/support--table-size-standards*.
 
@@ -40,7 +46,7 @@ Post-Award Small Business Program Rerepresentation (FEB 2024)
 
 (3) Was an 8(a), HUBZone, service-disabled veteran-owned, economically disadvantaged women-owned, or women-owned small business set-aside or sole-source award regardless of dollar value.
 
-(f) Except as provided in paragraph (h) of this clause, the Contractor shall make the representation(s) required by paragraph (b) and (c) of this clause by validating or updating all its representations in the Representations and Certifications section of the System for Award Management (SAM) and its other data in SAM, as necessary, to ensure that they reflect the Contractor's current status. The Contractor shall notify the contracting office in writing within the timeframes specified in paragraph (b) of this clause, or with its offer for an order (see paragraph (c) of this clause), that the data have been validated or updated, and provide the date of the validation or update.
+(f) Except as provided in paragraph (h) of this clause, the Contractor shall make the representation(s) required by paragraphs (b) and (c) of this clause by validating or updating all its representations in the Representations and Certifications section of the System for Award Management (SAM) and its other data in SAM, as necessary, to ensure that they reflect the Contractor's current status. The Contractor shall notify the contracting officer in writing within the timeframes specified in paragraph (b) of this clause, or with its offer for an order (see paragraph (c) of this clause), that the data have been validated or updated, and provide the date of the validation or update.
 
 (g) If the Contractor represented that it was other than a small business concern prior to award of this contract, the Contractor may, but is not required to, take the actions required by paragraphs (f) or (h) of this clause.
 
@@ -84,4 +90,4 @@ Post-Award Small Business Program Rerepresentation (FEB 2024)
 
 [Contracting Officer to insert NAICS codes.]
 
-[72 FR 36856, July 5, 2007, as amended at 74 FR 11825, Mar. 19, 2009; 74 FR 14493, Mar. 31, 2009; 76 FR 18314, Apr. 1, 2011; 77 FR 23371, Apr. 18, 2012; 78 FR 37683, June 21, 2013; 79 FR 61754, Oct. 14, 2014; 85 FR 11771, Feb. 27, 2020; 85 FR 27101, May 6, 2020; 85 FR 67617, Oct. 23, 2020; 86 FR 44246, Aug. 11, 2021; 87 FR 58227, 58243, Sept. 23, 2022; 88 FR 9739, Feb. 14, 2023; 88 FR 53753, Aug. 8, 2023; 89 FR 13961, Feb. 23, 2024]
+[72 FR 36856, July 5, 2007, as amended at 74 FR 11825, Mar. 19, 2009; 74 FR 14493, Mar. 31, 2009; 76 FR 18314, Apr. 1, 2011; 77 FR 23371, Apr. 18, 2012; 78 FR 37683, June 21, 2013; 79 FR 61754, Oct. 14, 2014; 85 FR 11771, Feb. 27, 2020; 85 FR 27101, May 6, 2020; 85 FR 67617, Oct. 23, 2020; 86 FR 44246, Aug. 11, 2021; 87 FR 58227, 58243, Sept. 23, 2022; 88 FR 9739, Feb. 14, 2023; 88 FR 53753, Aug. 8, 2023; 89 FR 13961, Feb. 23, 2024; 90 FR 522, Jan. 3, 2025]

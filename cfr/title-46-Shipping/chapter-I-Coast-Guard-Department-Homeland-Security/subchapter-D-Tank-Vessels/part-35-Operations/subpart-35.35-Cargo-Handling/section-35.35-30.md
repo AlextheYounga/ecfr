@@ -1,14 +1,12 @@
 ##### § 35.35-30 “Declaration of Inspection” for tank vessels—TB/ALL. #####
 
-Link to an amendment published at 89 FR 93140, Nov. 25, 2024.
-
-(a) After an inspection under § 35.35-20, but before a transfer of cargo, fuel oil, or bunkers may commence as described in this section and 33 CFR 156.120 and 156.150, the person in charge of the transfer shall prepare, in duplicate, a Declaration of Inspection. The original must be kept aboard the vessel, and the duplicate provided to the terminal supervisor or that person's representative. The supervisor or the representative may, upon demand, inspect the vessel to determine whether its condition is as stated on the Declaration of Inspection.
+(a) After an inspection under § 35.35-20, but before a transfer of cargo, fuel oil, or bunkers may commence as described in this section and 33 CFR 156.120 and 156.150, the Person in Charge of the transfer shall prepare, in duplicate, a Declaration of Inspection. The original must be kept aboard the vessel, and the duplicate provided to the terminal supervisor or that person's representative. The supervisor or the representative may, upon demand, inspect the vessel to determine whether its condition is as stated on the Declaration of Inspection.
 
 (b) The Declaration of Inspection may be in any form, but must contain at least:
 
 Declaration of Inspection Before Transfer of Liquid Cargo in Bulk DateVesselPort ofProduct[s] being transferred—(Classification[s] and Kind[s])
 
-I, \_\_\_\_\_\_\_\_\_\_, the person in charge of the transfer of liquid cargo in bulk about to begin, do certify that I have personally inspected this vessel with reference to the following requirements set forth in 46 CFR 35.35-20, and that opposite each of the applicable items listed below I have indicated whether the vessel complies with all pertinent regulations.
+I, \_\_\_\_\_\_\_\_\_\_, the Person in Charge of the transfer of liquid cargo in bulk about to begin, do certify that I have personally inspected this vessel with reference to the following requirements set forth in 46 CFR 35.35-20, and that opposite each of the applicable items listed below I have indicated whether the vessel complies with all pertinent regulations.
 
 (1) Are warnings displayed as required?
 
@@ -58,4 +56,4 @@ I, \_\_\_\_\_\_\_\_\_\_, the person in charge of the transfer of liquid cargo in
 
 (ii) At or below 8 percent by volume, at the start of cargo transfer, for vapor of crude oil, gasoline blends, or benzene.
 
-[CGD 80-009, 48 FR 36459, Aug. 11, 1983, as amended by CGD 88-102, 55 FR 25446, June 21, 1990; CGD 79-116, 60 FR 17156, Apr. 4, 1995; CGD 79-116, 62 FR 25135, May 8, 1997; USCG-1999-5150, 78 FR 42642, July 16, 2013]
+[CGD 80-009, 48 FR 36459, Aug. 11, 1983, as amended by CGD 88-102, 55 FR 25446, June 21, 1990; CGD 79-116, 60 FR 17156, Apr. 4, 1995; CGD 79-116, 62 FR 25135, May 8, 1997; USCG-1999-5150, 78 FR 42642, July 16, 2013; USCG-2021-0097, 89 FR 93140, Nov. 25, 2024]

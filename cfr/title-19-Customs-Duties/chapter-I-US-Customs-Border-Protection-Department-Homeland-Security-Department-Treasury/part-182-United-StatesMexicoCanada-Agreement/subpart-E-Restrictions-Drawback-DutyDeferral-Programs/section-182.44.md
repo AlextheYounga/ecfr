@@ -1,5 +1,7 @@
 ##### § 182.44 Calculation of drawback. #####
 
+Link to an amendment published at 90 FR 6484, Jan. 17, 2025.
+
 (a) *General.* Except in the case of goods specified in § 182.45, drawback of the duties previously paid upon importation of a good into the United States may be granted by the United States, upon presentation of a USMCA drawback claim under this subpart, on the lower amount of:
 
 (1) The total duties paid or owed on the good in the United States; or

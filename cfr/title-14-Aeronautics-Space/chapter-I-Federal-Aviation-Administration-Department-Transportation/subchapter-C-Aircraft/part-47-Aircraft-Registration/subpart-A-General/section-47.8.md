@@ -16,8 +16,8 @@
 
 (b) Each voting trust agreement submitted under paragraph (a)(1) of this section must provide for the succession of a voting trustee in the event of death, disability, resignation, termination of citizenship, or any other event leading to the replacement of any voting trustee. Upon succession, the replacement voting trustee shall immediately submit to the Registry the affidavit required by paragraph (a)(2) of this section.
 
-(c) If the voting trust terminates or is modified, and the result is less than 75 percent control of the voting interest in the corporation by citizens of the United States, a loss of citizenship of the holder of the Certificate of Aircraft Registration, AC Form 8050-3 occurs, and § 47.41(a)(3) of this part applies.
+(c) If the voting trust terminates or is modified, and the result is less than 75 percent control of the voting interest in the corporation by citizens of the United States, a loss of citizenship of the holder of the Certificate of Aircraft Registration occurs, and § 47.41(a)(3) of this part applies.
 
 (d) A voting trust agreement may not empower a trustee to act through a proxy.
 
-[Amdt. 47-20, 44 FR 61939, Oct. 29, 1979, as amended by Amdt. 47-27, 70 FR 245, Jan. 3, 2005; Amdt. 47-29, 75 FR 41980, July 20, 2010]
+[Amdt. 47-20, 44 FR 61939, Oct. 29, 1979, as amended by Amdt. 47-27, 70 FR 245, Jan. 3, 2005; Amdt. 47-29, 75 FR 41980, July 20, 2010; Docket No. FAA-2024-2765, Amdt. No. 47-36, 90 FR 5571, Jan. 17, 2025]

@@ -1,7 +1,5 @@
 ##### § 12.805 Employer requirements. #####
 
-Link to an amendment published at 89 FR 93106, Nov. 25, 2024.
-
 (a) The employer must submit the following to the Coast Guard, as a part of the applicant's MMC application, on behalf of the applicant:
 
 (1) A signed report that contains all material disciplinary actions related to the applicant, such as, but not limited to, violence or assault, theft, drug and alcohol policy violations, and sexual harassment, along with an explanation of the criteria used by the employer to determine the materiality of those actions.
@@ -16,11 +14,11 @@ Link to an amendment published at 89 FR 93106, Nov. 25, 2024.
 
 (3) An employer-conducted background check, which must be conducted to the satisfaction of the Coast Guard for an MMC to be issued to the applicant.
 
-(b) If an MMC is issued to the applicant, the report and information required in paragraph (a)(2) of this section must be securely kept by the employer on the U.S. flag large passenger vessel on which the applicant is employed. The report and information must remain on the last U.S. flag large passenger vessel on which the applicant was employed until such time as the MMC is returned to the Coast Guard in accordance with paragraph (d) of this section.
+(b) If an MMC is issued to the applicant, the report and information required in paragraph (a)(2) of this section must be securely kept by the employer on the U.S.-flagged large passenger vessel on which the applicant is employed. The report and information must remain on the last U.S.-flagged large passenger vessel on which the applicant was employed until such time as the MMC is returned to the Coast Guard in accordance with paragraph (d) of this section.
 
-(c) If an MMC or a transportation worker identification credential (TWIC) is issued to the applicant, each MMC and TWIC must be securely kept by the employer on the U.S. flag large passenger vessel on which the applicant is employed. The employer must maintain a detailed record of the seaman's total service on all authorized U.S. flag large passenger vessels, and must make that information available to the Coast Guard upon request, to demonstrate that the limitations of § 12.811(c) of this subpart have not been exceeded.
+(c) If an MMC or a Transportation Worker Identification Credential (TWIC) is issued to the applicant, each MMC and TWIC must be securely kept by the employer on the U.S.-flagged large passenger vessel on which the applicant is employed. The employer must maintain a detailed record of the seafarer's total service on all authorized U.S.-flagged large passenger vessels, and must make that information available to the Coast Guard upon request, to demonstrate that the limitations of § 12.811(c) have not been exceeded.
 
-(d) In the event that the seaman's MMC and/or TWIC expires, the seaman's visa status terminates, the seaman serves onboard the U.S. flag large passenger vessel(s) for 36 months in the aggregate as a nonimmigrant crewman, the employer terminates employment of the seaman, or, if the seaman otherwise ceases working with the employer, the employer must return the MMC to the Coast Guard and/or the TWIC to the Transportation Security Administration (TSA) within 10 days of the event.
+(d) In the event that the seafarer's MMC and/or TWIC expires, the seafarer's visa status terminates, the seafarer serves onboard the U.S.-flagged large passenger vessel(s) for 36 months in the aggregate as a nonimmigrant crewmember, the employer terminates employment of the seafarer, or if the seafarer otherwise ceases working with the employer, the employer must return the MMC to the Coast Guard and/or the TWIC to the Transportation Security Administration (TSA) within 10 days of the event.
 
 (e) In addition to the initial material disciplinary actions report and the initial employer-conducted background check specified in paragraph (a) of this section, the employer must—
 
@@ -37,3 +35,5 @@ Link to an amendment published at 89 FR 93106, Nov. 25, 2024.
 (ii) Be submitted to the Coast Guard on or before the anniversary of the issuance date of the MMC.
 
 (f) The employer is subject to the civil penalty provisions specified in 46 U.S.C. 8103(f) for any violation of this section.
+
+[USCG-2004-17914, 78 FR 77975, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93106, Nov. 25, 2024]

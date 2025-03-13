@@ -2,7 +2,7 @@
 
 (a) Each person signing an Aircraft Registration Application, AC Form 8050-1, or a document submitted as supporting evidence under this part, must sign in ink or by other means acceptable to the FAA. If signed in ink, the Aircraft Registration Application must also have the typed or legibly printed name of each signer in the signature block.
 
-(b) When one or more persons doing business under a trade name submits an Aircraft Registration Application, a document submitted as supporting evidence under this part, or a request for cancellation of a Certificate of Aircraft Registration, AC Form 8050-3, the application, document, or request must be signed by, or on behalf of, each person who shares title to the aircraft.
+(b) When one or more persons doing business under a trade name submits an Aircraft Registration Application, a document submitted as supporting evidence under this part, or a request for cancellation of a Certificate of Aircraft Registration, the application, document, or request must be signed by, or on behalf of, each person who shares title to the aircraft.
 
 (c) When an agent submits an Aircraft Registration Application, a document submitted as supporting evidence under this part, or a request for cancellation of a Certificate of Aircraft Registration, on behalf of the owner, that agent must—
 
@@ -46,4 +46,4 @@
 
 (ii) The grantor (a corporate officer or other person in a managerial position therein, where the grantor is a corporation) certifies in writing that the authority to sign shown by the power of attorney or other evidence is still in effect.
 
-[Doc. No. 7190, 31 FR 4495, Mar. 17, 1966, as amended by Amdt. 47-2, 31 FR 15349, Dec. 8, 1966; Amdt. 47-3, 32 FR 6554, Apr. 28, 1967; Amdt. 47-12, 36 FR 8661, May 11, 1971; Amdt. 47-27, 70 FR 245, Jan. 3, 2005; Amdt. 47-29, 75 FR 41980, July 20, 2010]
+[Doc. No. 7190, 31 FR 4495, Mar. 17, 1966, as amended by Amdt. 47-2, 31 FR 15349, Dec. 8, 1966; Amdt. 47-3, 32 FR 6554, Apr. 28, 1967; Amdt. 47-12, 36 FR 8661, May 11, 1971; Amdt. 47-27, 70 FR 245, Jan. 3, 2005; Amdt. 47-29, 75 FR 41980, July 20, 2010; Docket No. FAA-2024-2765, Amdt. No. 47-36, 90 FR 5571, Jan. 17, 2025]

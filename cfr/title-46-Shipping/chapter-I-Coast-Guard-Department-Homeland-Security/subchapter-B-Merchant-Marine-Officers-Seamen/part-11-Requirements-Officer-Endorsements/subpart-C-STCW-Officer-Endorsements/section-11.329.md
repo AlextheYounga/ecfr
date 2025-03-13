@@ -1,28 +1,26 @@
-##### § 11.329 Requirements to qualify for an STCW endorsement as Officer in Charge of an Engineering Watch (OICEW) in a manned engineroom or designated duty engineer in a periodically unmanned engineroom on vessels powered by main propulsion machinery of 750 kW/1,000 HP propulsion power or more (operational level). #####
+##### § 11.329 Requirements to qualify for an STCW endorsement as Officer in Charge of an Engineering Watch in a manned engineroom or Designated Duty Engineer in a periodically unmanned engineroom on vessels powered by main propulsion machinery of 750 kW/1,000 HP propulsion power or more (operational level). #####
 
-Link to an amendment published at 89 FR 93076, Nov. 25, 2024.
-
-(a) To qualify for an STCW endorsement as OICEW, an applicant must—
+(a) To qualify for an STCW endorsement as Officer in Charge of an Engineering Watch (OICEW), an applicant must—
 
 (1) Provide evidence of seagoing service as follows:
 
 (i) Thirty-six months of seagoing service in the engine department; or
 
-(ii) Successful completion of an approved training program, which includes a combination of workshop skill training and seagoing service of not less than 12 months, and that meets the requirements of Section A-III/1 of the STCW Code (incorporated by reference, see § 11.102 of this part);
+(ii) Successful completion of an approved training program, which includes a combination of workshop skill training and seagoing service of not less than 12 months, and that meets the requirements of Section A-III/1 of the STCW Code (incorporated by reference, see § 11.102);
 
-(2) Provide evidence of having performed during the required seagoing service, engine room watchkeeping duties, under the supervision of an officer holding the STCW endorsement as chief engineer officer or as a qualified engineer officer, for a period of not less than 6 months;
+(2) Provide evidence of having performed during the required seagoing service, engineroom watchkeeping duties, under the supervision of an officer holding the STCW endorsement as Chief Engineer Officer or as a qualified engineer officer, for a period of not less than 6 months;
 
 (3) Provide evidence of meeting the standard of competence specified in Section A-III/1 of the STCW Code; and
 
 (4) Provide evidence of having satisfactorily completed approved training in the following subject areas:
 
-(i) Medical first-aid provider.
+(i) Medical First-aid Provider.
 
-(ii) Basic and advanced firefighting in accordance with § 11.303 of this subpart.
+(ii) Basic and Advanced Firefighting in accordance with § 11.303.
 
-(iii) Proficiency in survival craft and rescue boats other than fast rescue boats.
+(iii) Proficiency in Survival Craft and Rescue Boats other than Fast Rescue Boats.
 
-(iv) Engineroom resource management (ERM).
+(iv) Engineroom Resource Management (ERM).
 
 (v) Engineering terminology and shipboard operations.
 
@@ -48,17 +46,17 @@ Link to an amendment published at 89 FR 93076, Nov. 25, 2024.
 
 |                                              Entry path from national endorsements                                               |Sea service \*|Competence—  <br/>STCW Table A-  <br/>III/1 \*\*|Training  <br/>required by  <br/>this  <br/>section \*\*\*|
 |----------------------------------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------|----------------------------------------------------------|
-|                                             Second assistant engineer any horsepower                                             |     None     |                      Yes                       |                           Yes                            |
-|                                             Third assistant engineer any horsepower                                              |     None     |                      Yes                       |                           Yes                            |
-|                                                   Assistant engineer (limited)                                                   |     None     |                      Yes                       |                           Yes                            |
-|                                    Designated duty engineer, (unlimited) (less than 500 GRT)                                     |     None     |                      Yes                       |                           Yes                            |
-|                                                    Assistant engineer (MODU)                                                     |     None     |                      Yes                       |                           Yes                            |
-|                                                     Assistant engineer (OSV)                                                     |     None     |                      Yes                       |                           Yes                            |
-|                                     Designated duty engineer, 3,000 kW/4,000 HP <sup>1</sup>                                     |  12 months   |                      Yes                       |                           Yes                            |
-|                                      Designated duty engineer, 750 kW/1,000 HP <sup>1</sup>                                      |  24 months   |                      Yes                       |                           Yes                            |
+|                                             Second Assistant Engineer any horsepower                                             |     None     |                      Yes                       |                           Yes.                           |
+|                                             Third Assistant Engineer any horsepower                                              |     None     |                      Yes                       |                           Yes.                           |
+|                                                    Assistant Engineer-Limited                                                    |     None     |                      Yes                       |                           Yes.                           |
+|                                      Designated Duty Engineer-Unlimited, less than 500 GRT                                       |     None     |                      Yes                       |                           Yes.                           |
+|                                                     Assistant Engineer-MODU                                                      |     None     |                      Yes                       |                           Yes.                           |
+|                                                      Assistant Engineer-OSV                                                      |     None     |                      Yes                       |                           Yes.                           |
+|                                     Designated Duty Engineer, 3,000 kW/4,000 HP <sup>1</sup>                                     |  12 months   |                      Yes                       |                           Yes.                           |
+|                                      Designated Duty Engineer, 750 kW/1,000 HP <sup>1</sup>                                      |  24 months   |                      Yes                       |                           Yes.                           |
 |\* This column provides the minimum additional service required of the seafarer in order to meet the requirements of this section.|              |                                                |                                                          |
 |                      \*\* Complete any items in paragraph (a)(3) of this section not previously satisfied.                       |              |                                                |                                                          |
 |                     \*\*\* Complete any items in paragraph (a)(4) of this section not previously satisfied.                      |              |                                                |                                                          |
 |                          <sup>1</sup> STCW certificate should be limited to vessels less than 500 GRT.                           |              |                                                |                                                          |
 
-[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58276, Sept. 29, 2014; USCG-2015-0867, 80 FR 62469, Oct. 16, 2015]Editorial Note:At 79 FR 58276, Sept. 29, 2014, § 11.329 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58276, Sept. 29, 2014; USCG-2015-0867, 80 FR 62469, Oct. 16, 2015; USCG-2021-0097, 89 FR 93076, Nov. 25, 2024]

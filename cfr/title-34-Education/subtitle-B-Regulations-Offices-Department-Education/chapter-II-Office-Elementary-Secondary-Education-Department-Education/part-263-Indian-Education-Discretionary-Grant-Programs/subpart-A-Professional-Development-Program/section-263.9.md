@@ -1,5 +1,7 @@
 ##### § 263.9 What are the payback requirements? #####
 
+Link to an amendment published at 90 FR 5637, Jan. 17, 2025.
+
 (a) *General.* All participants must—
 
 (1) Either perform work-related payback or provide cash reimbursement to the Department for the training received. It is the preference of the Department for participants to complete a work-related payback;

@@ -1,3 +1,13 @@
-##### § 402.50 Availability of administrative staff manuals. #####
+##### § 402.50 FOIA Officer's authority. #####
 
-All administrative staff manuals of the Social Security Administration and instructions to staff personnel which contain policies, procedures, or interpretations that affect the public are available for inspection and copying. A complete listing of such materials is published in the Index of Administrative Staff Manuals and Instructions. These manuals are generally not printed in a sufficient quantity to permit sale or other general distribution to the public. Selected material is maintained at district offices and field offices and may be inspected there. See §§ 402.55 and 402.60 for a listing of this material.
+(a) *Release determination.* Only the Deputy Executive Director for OPD or their designee is authorized to make determinations about:
+
+(1) Release or withholding of records;
+
+(2) Expedited processing;
+
+(3) Charging or waiver of fees; and
+
+(4) Other matters relating to processing a request for records under this part.
+
+(b) *Determination provided in writing.* The FOIA Officer's determination is provided in writing to the requester via emailed communication or, in the absence of the requester's email address, via U.S. postal mail. If the requester disagrees with the FOIA Officer's determination in response to items identified in paragraph (a) of this section, the requester may appeal the determination to the Executive Director for OPD, as described in § 402.105.

@@ -1,7 +1,5 @@
 ##### 22.1802 Policy. #####
 
-Link to an amendment published at 90 FR 516, Jan. 3, 2025.
-
 (a) Statutes and Executive orders require employers to abide by the immigration laws of the United States and to employ in the United States only individuals who are eligible to work in the United States. The E-Verify program provides an Internet-based means of verifying employment eligibility of workers employed in the United States, but is not a substitute for any other employment eligibility verification requirements.
 
 (b) Contracting officers shall include in solicitations and contracts, as prescribed at 22.1803, requirements that Federal contractors must—
@@ -32,6 +30,6 @@ Link to an amendment published at 90 FR 516, Jan. 3, 2025.
 
 (d) In exceptional cases, the head of the contracting activity may waive the E-Verify requirement for a contract or subcontract or a class of contracts or subcontracts, either temporarily or for the period of performance. This waiver authority may not be delegated.
 
-(e) DHS and the Social Security Administration (SSA) may terminate a contractor's MOU and deny access to the E-Verify system in accordance with the terms of the MOU. If DHS or SSA terminates a contractor's MOU, the terminating agency must refer the contractor to a suspension or debarment official for possible suspension or debarment action. During the period between termination of the MOU and a decision by the suspension or debarment official whether to suspend or debar, the contractor is excused from its obligations under paragraph (b) of the clause at 52.222-54. If the contractor is suspended or debarred as a result of the MOU termination, the contractor is not eligible to participate in E-Verify during the period of its suspension or debarment. If the suspension or debarment official determines not to suspend or debar the contractor, then the contractor must reenroll in E-Verify.
+(e) DHS and the Social Security Administration (SSA) may terminate a contractor's memorandum of understanding (MOU) and deny access to the E-Verify system in accordance with the terms of the MOU. If DHS or SSA terminates a contractor's MOU, the terminating agency must refer the contractor to a suspending and debarring official for possible suspension or debarment action. During the period between termination of the MOU and a decision by the suspending and debarring official whether to suspend or debar, the contractor is excused from its obligations under paragraph (b) of the clause at 52.222-54. If the contractor is suspended, debarred, or subject to a voluntary exclusion as a result of the MOU termination, the contractor is not eligible to participate in E-Verify during the period of its suspension, debarment, or voluntary exclusion. If the contractor is not suspended, debarred, or subject to a voluntary exclusion, then the contractor must reenroll in E-Verify.
 
-[73 FR 67703, Nov. 14, 2008, as amended at 77 FR 44066, July 26, 2012; 86 FR 61028, Nov. 4, 2021]
+[73 FR 67703, Nov. 14, 2008, as amended at 77 FR 44066, July 26, 2012; 86 FR 61028, Nov. 4, 2021; 90 FR 516, Jan. 3, 2025]

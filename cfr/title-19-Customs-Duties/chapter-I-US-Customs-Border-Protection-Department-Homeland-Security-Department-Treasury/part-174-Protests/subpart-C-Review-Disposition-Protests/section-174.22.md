@@ -1,5 +1,7 @@
 ##### § 174.22 Accelerated disposition of protest. #####
 
+Link to an amendment published at 90 FR 6483, Jan. 17, 2025.
+
 (a) *Request for accelerated disposition.* Accelerated disposition of a protest filed in accordance with section 514, Tariff Act of 1930, as amended (19 U.S.C. 1514) may be obtained at any time after 90 days from the filing of such protest for entries made before December 18, 2004, or at any time concurrent with or following the filing of the protest for entries made on or after December 18, 2004, by filing by registered or certified mail a written request for accelerated disposition with the port director, Center director, or other CBP officer with whom the protest was filed.
 
 (b) *Contents of request.* A request for accelerated disposition of protest shall contain the following information:

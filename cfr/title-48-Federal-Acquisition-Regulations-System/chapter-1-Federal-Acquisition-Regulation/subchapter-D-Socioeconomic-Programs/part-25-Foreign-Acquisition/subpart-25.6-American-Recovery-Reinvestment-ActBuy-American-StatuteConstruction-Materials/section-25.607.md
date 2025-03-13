@@ -1,7 +1,5 @@
 ##### 25.607 Noncompliance. #####
 
-Link to an amendment published at 90 FR 516, Jan. 3, 2025.
-
 The contracting officer must—
 
 (a) Review allegations of violations of section 1605 of the Recovery Act or Buy American statute;
@@ -16,6 +14,6 @@ The contracting officer must—
 
 (3) If removal and replacement of foreign construction material incorporated in a building or work would be impracticable, cause undue delay, or otherwise be detrimental to the interests of the Government, the contracting officer may determine in writing that the foreign construction material need not be removed and replaced. A determination to retain foreign construction material does not constitute a determination that an exception to section 1605 of the Recovery Act or the Buy American statute applies, and this should be stated in the determination. Further, a determination to retain foreign construction material does not affect the Government's right to suspend or debar a contractor, subcontractor, or supplier for violation of section 1605 of the Recovery Act or the Buy American statute, or to exercise other contractual rights and remedies, such as reducing the contract price or terminating the contract for default.
 
-(4) If the noncompliance is sufficiently serious, consider exercising appropriate contractual remedies, such as terminating the contract for default. Also consider preparing and forwarding a report to the agency suspending or debarring official in accordance with subpart 9.4. If the noncompliance appears to be fraudulent, refer the matter to other appropriate agency officials, such as the agency's inspector general or the officer responsible for criminal investigation.
+(4) If the noncompliance is sufficiently serious, consider exercising appropriate contractual remedies, such as terminating the contract for default. Also consider preparing and forwarding a report to the agency suspending and debarring official in accordance with subpart 9.4. If the noncompliance appears to be fraudulent, refer the matter to other appropriate agency officials, such as the agency's inspector general or the officer responsible for criminal investigation.
 
-[74 FR 14626, Mar. 31, 2009, as amended at 75 FR 53167, Aug. 30, 2010; 79 FR 24209, Apr. 29, 2014]
+[74 FR 14626, Mar. 31, 2009, as amended at 75 FR 53167, Aug. 30, 2010; 79 FR 24209, Apr. 29, 2014; 90 FR 516, Jan. 3, 2025]

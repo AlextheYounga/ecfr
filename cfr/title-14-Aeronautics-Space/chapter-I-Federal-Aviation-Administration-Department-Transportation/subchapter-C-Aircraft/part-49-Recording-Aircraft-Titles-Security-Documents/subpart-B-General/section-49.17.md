@@ -22,7 +22,7 @@
 
 (2) The name of a cosigner may not appear in the security agreement as a debtor or owner. If a person other than the registered owner signs the security agreement, that person must show the capacity in which that person signs, such as “cosigner” or “guarantor”.
 
-(3) An assignment of an interest in a security agreement must be signed by the assignor and, unless it is attached to and is a part of the original agreement, must describe the agreement in sufficient detail to identify it, including its date, the names of the parties, the date of FAA recording, and the recorded conveyance number.
+(3) An assignment of an interest in a security agreement must be signed by the assignor and, unless it is attached to and is a part of the originating agreement, must describe the agreement in sufficient detail to identify it, including its date, the names of the parties, the date of FAA recording, and the recorded conveyance number.
 
 (4) An amendment of, or a supplement to, a conveyance executed for security purposes that has been recorded by the FAA must meet the requirements for recording the original conveyance and must describe the original conveyance in sufficient detail to identify it, including its date, the names of the parties, the date of FAA recording, and the recorded conveyance number.
 
@@ -30,4 +30,4 @@
 
 (6) A contract of conditional sale, as defined in 49 U.S.C. 40102(a)(18), must be signed by all parties to the contract.
 
-[Doc. No. 1996, 29 FR 6486, May 19, 1964, as amended by Amdt. 49-1, 31 FR 4499, Mar. 17, 1966; Amdt. 49-9, 53 FR 1915, Jan. 25, 1988; Amdt. 49-10, 70 FR 246, Jan. 3, 2005]
+[Doc. No. 1996, 29 FR 6486, May 19, 1964, as amended by Amdt. 49-1, 31 FR 4499, Mar. 17, 1966; Amdt. 49-9, 53 FR 1915, Jan. 25, 1988; Amdt. 49-10, 70 FR 246, Jan. 3, 2005; Docket No. FAA-2024-2764, Amdt. Nos. 47-35 and 49-12, 90 FR 5577, Jan. 17, 2025]

@@ -1,7 +1,5 @@
 ##### § 208.33 Lawful pathways condition on asylum eligibility. #####
 
-Link to an amendment published at 89 FR 103414, Dec. 18, 2024.
-
 Notwithstanding any contrary section of this part, including §§ 208.2, 208.13, and 208.30—
 
 (a) *Condition on eligibility*—(1) *Applicability.* A rebuttable presumption of ineligibility for asylum applies to an alien who enters the United States from Mexico at the southwest land border or adjacent coastal borders without documents sufficient for lawful admission as described in section 212(a)(7) of the Act and whose entry was:
@@ -40,11 +38,11 @@ Notwithstanding any contrary section of this part, including §§ 208.2, 208.13,
 
 (ii) If the alien is not covered by the presumption in paragraph (a)(1) of this section or has rebutted the presumption in accordance with paragraph (a)(3) of this section, the asylum officer shall follow the procedures in § 208.30.
 
-(2) *Additional procedures.* (i) In cases in which the asylum officer enters a negative credible fear determination under paragraph (b)(1)(i) of this section, the asylum officer will assess whether the alien has established a reasonable possibility of persecution (meaning a reasonable possibility of being persecuted because of their race, religion, nationality, membership in a particular social group, or political opinion) or torture, with respect to the identified country or countries of removal identified pursuant to section 241(b) of the Act.
+(2) *Additional procedures.* (i) In cases in which the asylum officer enters a negative credible fear determination under paragraph (b)(1)(i) of this section, the asylum officer will assess whether the alien has established a reasonable possibility of persecution (meaning a reasonable possibility of being persecuted because of their race, religion, nationality, membership in a particular social group, or political opinion) or torture, with respect to the identified country or countries of removal identified pursuant to section 241(b) of the Act. As part of this reasonable possibility determination, if there is evidence that the alien is subject to one or more of the mandatory bars to being granted withholding of removal under the Act contained in section 241(b)(3)(B) of the Act, the asylum officer may consider the applicability of such bar(s).
 
-(ii) In cases described in paragraph (b)(2)(i) of this section, if the alien establishes a reasonable possibility of persecution or torture with respect to the identified country or countries of removal, the Department will issue a Form I-862, Notice to Appear.
+(ii) In cases described in paragraph (b)(2)(i) of this section, if the alien establishes a reasonable possibility of persecution with respect to the identified country or countries of removal and, to the extent bars are considered, that there is a reasonable possibility that no mandatory bar applies, the Department will issue a Form I-862, Notice to Appear. If the alien establishes a reasonable possibility of torture with respect to the identified country or countries of removal, the Department will issue a Form I-862, Notice to Appear.
 
-(iii) In cases described in paragraph (b)(2)(i) of this section, if an alien fails to establish a reasonable possibility of persecution or torture with respect to the identified country or countries of removal, the asylum officer will provide the alien with a written notice of decision and inquire whether the alien wishes to have an immigration judge review the negative credible fear determinations.
+(iii) In cases described in paragraph (b)(2)(i) of this section, if an alien fails to establish a reasonable possibility of persecution with respect to the identified country or countries of removal or, to the extent bars are considered, fails to establish that there is a reasonable possibility that no mandatory bar applies, and fails to establish a reasonable possibility of torture with respect to the identified country or countries of removal, the asylum officer will provide the alien with a written notice of decision and inquire whether the alien wishes to have an immigration judge review the negative credible fear determination.
 
 (iv) The alien must indicate whether he or she desires such review on a Record of Negative Fear Finding and Request for Review by Immigration Judge.
 
@@ -62,4 +60,4 @@ Notwithstanding any contrary section of this part, including §§ 208.2, 208.13,
 
 (d) *Severability.* The Department intends that any provision of this section held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, should be construed so as to continue to give the maximum effect to the provision permitted by law, unless such holding is that the provision is wholly invalid and unenforceable, in which event the provision should be severed from the remainder of this section and the holding should not affect the remainder of this section or the application of the provision to persons not similarly situated or to dissimilar circumstances.
 
-[88 FR 31449, May 16, 2023, as amended at 89 FR 81284, Oct. 7, 2024]
+[88 FR 31449, May 16, 2023, as amended at 89 FR 81284, Oct. 7, 2024; 89 FR 103414, Dec. 18, 2024]

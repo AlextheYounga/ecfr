@@ -12,7 +12,7 @@
 
 (3) *Definition of a section 987 QBU*—(i) *In general.* For purposes of section 987, a *section 987 QBU* is an eligible QBU that has a functional currency different from its owner. A section 987 QBU will continue to be treated as a section 987 QBU of the owner until a sale or other termination of the section 987 QBU as described in § 1.987-8(b) and (c). *See* § 1.985-1 for rules determining the functional currency of an eligible QBU.
 
-(ii) *Section 987 QBU grouping election*—(A) *In general.* Solely for purposes of section 987, an owner may elect to treat all section 987 QBUs with the same functional currency as a single section 987 QBU except to the extent provided in paragraph (b)(2)(ii)(B) of this section. However, a QBU described in § 1.987-7(c)(1) may not be treated as part of the same QBU as a section 987 QBU that is not described in § 1.987-7(c)(1).
+(ii) *Section 987 QBU grouping election*—(A) *In general.* Solely for purposes of section 987, an owner may elect to treat all section 987 QBUs with the same functional currency as a single section 987 QBU except to the extent provided in paragraph (b)(3)(ii)(B) of this section. However, a QBU described in § 1.987-7(c)(1) may not be treated as part of the same QBU as a section 987 QBU that is not described in § 1.987-7(c)(1).
 
 (B) [Reserved]
 
@@ -372,4 +372,4 @@
 
 *Yearly average exchange rate. Yearly average exchange rate* has the meaning provided in paragraph (c)(2) of this section.
 
-[T.D. 10016, 89 FR 100165, Dec. 11, 2024]
+[T.D. 10016, 89 FR 100165, Dec. 11, 2024; 90 FR 5607, Jan. 17, 2025]

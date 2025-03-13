@@ -1,5 +1,7 @@
 ##### § 1000.43 General classification rules. #####
 
+Link to an amendment published at 90 FR 6603, Jan. 17, 2025.
+
 In determining the classification of producer milk pursuant to § 1000.44, the following rules shall apply:
 
 (a) Each month the market administrator shall correct for mathematical and other obvious errors all reports filed pursuant to § \_\_.30 of each Federal milk order and shall compute separately for each pool plant, for each handler described in § 1000.9(c) and § 1135.11 of this chapter, the pounds of skim milk and butterfat, respectively, in each class in accordance with §§ 1000.40 and 1000.42, and paragraph (b) of this section.

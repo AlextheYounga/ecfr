@@ -1,5 +1,7 @@
 ##### § 2700.45 Temporary reinstatement proceedings. #####
 
+Link to an amendment published at 90 FR 5622, Jan. 17, 2025.
+
 (a) *Service of pleadings.* A copy of each document filed with the Commission in a temporary reinstatement proceeding shall be served on all parties by a method of service as expeditious as that used for filing, except that if service by electronic transmission (email) is impossible, the filing party must serve in person, by third party commercial carrier, or by facsimile transmission, resulting in same-day delivery.
 
 (b) *Contents of application.* An application for temporary reinstatement shall state the Secretary's finding that the miner's discrimination complaint was not frivolously brought and shall be accompanied by an affidavit setting forth the Secretary's reasons supporting his finding. The application also shall include a copy of the miner's complaint to the Secretary, and proof of notice to and service on the person against whom relief is sought by the most expeditious method of notice and delivery reasonably available.

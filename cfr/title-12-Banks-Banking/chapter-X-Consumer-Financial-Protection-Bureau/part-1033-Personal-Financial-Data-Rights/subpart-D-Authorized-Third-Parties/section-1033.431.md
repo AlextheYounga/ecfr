@@ -1,0 +1,11 @@
+##### § 1033.431 Use of data aggregator. #####
+
+(a) *Responsibility for authorization procedures when the third party will use a data aggregator.* A data aggregator is permitted to perform the authorization procedures described in § 1033.401 on behalf of the third party seeking authorization under § 1033.401 to access covered data. However, the third party seeking authorization remains responsible for compliance with the authorization procedures described in § 1033.401, and the data aggregator must comply with paragraph (c) of this section.
+
+(b) *Disclosure of the name of the data aggregator.* The authorization disclosure must include the name of any data aggregator that will assist the third party seeking authorization under § 1033.401 with accessing covered data and a brief description of the services the data aggregator will provide.
+
+(c) *Data aggregator certification.* When the third party seeking authorization under § 1033.401 will use a data aggregator to assist with accessing covered data on behalf of a consumer, the data aggregator must certify to the consumer that it agrees to the conditions on accessing the consumer's data in § 1033.421(a) through (f) and the condition in § 1033.421(i) upon receipt of the notice described in § 1033.421(h)(2) before accessing the consumer's data. For this requirement to be satisfied:
+
+(1) The third party seeking authorization under § 1033.401 must include the data aggregator's certification in the authorization disclosure described in § 1033.411; or
+
+(2) The data aggregator must provide its certification to the consumer, electronically or in writing, separate from the authorization disclosure. The certification must be in the same language as the authorization disclosure and must be clear, conspicuous, and segregated from other material. The name of any data aggregator in the certification must be readily understandable to the consumer. If, after the consumer has completed the authorization procedures, the authorized third party retains a data aggregator to assist with accessing covered data on behalf of the consumer, this data aggregator must provide its certification in accordance with this paragraph (c)(2).

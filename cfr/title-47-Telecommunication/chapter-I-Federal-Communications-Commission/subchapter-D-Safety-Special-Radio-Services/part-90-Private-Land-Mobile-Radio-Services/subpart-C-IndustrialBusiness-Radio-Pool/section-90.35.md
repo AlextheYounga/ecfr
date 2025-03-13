@@ -1,6 +1,6 @@
 ##### § 90.35 Industrial/Business Pool. #####
 
-Link to an amendment published at 89 FR 100851, Dec. 13, 2024.
+Link to an amendment published at 89 FR 100851, Dec. 13, 2024.Link to correction published at 90 FR 5725, Jan. 17, 2025.
 
 (a) *Eligibility.* Persons primarily engaged in any of the following activities are eligible to hold authorizations in the Industrial/Business Pool to provide commercial mobile radio service as defined in part 20 of this chapter or to operate stations for transmission of communications necessary to such activities of the licensee:
 

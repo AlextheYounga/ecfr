@@ -1,6 +1,6 @@
 ##### § 16.1 Scope. #####
 
-Link to an amendment published at 89 FR 51766, June 18, 2024.Link to an amendment published at 89 FR 77023, Sept. 20, 2024.Link to a correction published at 89 FR 83781, Oct. 18, 2024.
+Link to an amendment published at 89 FR 51766, June 18, 2024.Link to a correction published at 89 FR 83781, Oct. 18, 2024.
 
 The procedures in this part apply when:
 

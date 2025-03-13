@@ -1,10 +1,10 @@
 ##### § 339.3 Exchanges with privilege of deferring reporting of interest for Federal income tax purposes. #####
 
-(a) *Tax-deferred exchanges.* Pursuant to the provisions of section 1037(a) of the Internal Revenue Code of 1954, the Secretary of the Treasury hereby grants to owners who have not been reporting the interest on their securities on an accrual basis for Federal income tax purposes the privilege of exchanging such securities for Series H bonds and of continuing to defer reporting of the interest on the securities exchanged (except interest referred to in paragraph (b)(5) of this section) for Federal income tax purposes to the taxable year in which the Series H bonds received in exchange are disposed of, are redeemed, or have reached final maturity, whichever is earlier.2
+(a) *Tax-deferred exchanges.* Pursuant to the provisions of section 1037(a) of the Internal Revenue Code of 1954, the Secretary of the Treasury hereby grants to owners who have not been reporting the interest on their securities on an accrual basis for Federal income tax purposes the privilege of exchanging such securities for Series H bonds and of continuing to defer reporting of the interest on the securities exchanged (except interest referred to in paragraph (b)(5) of this section) for Federal income tax purposes to the taxable year in which the Series H bonds received in exchange are disposed of, are redeemed, or have reached final maturity, whichever is earlier. 2
 
 2 The interest paid semiannually by check on all Series H bonds, whether issued in exchange under this or any other section, or otherwise, is subject to the Federal income tax for the taxable year in which it is received.
 
-(b) *Rules governing the exchange.* (1) Exchange subscription Form PD 3253, completed and executed in accordance with the instructions thereon, the securities, any cash difference (see paragraph (b)(3) of this section), and any supporting evidence which may be required under the governing regulations3 may be presented or forwarded to any authorized agency.4
+(b) *Rules governing the exchange.* (1) Exchange subscription Form PD 3253, completed and executed in accordance with the instructions thereon, the securities, any cash difference (see paragraph (b)(3) of this section), and any supporting evidence which may be required under the governing regulations 3 may be presented or forwarded to any authorized agency. 4
 
 3 For example, a beneficiary named on Series E bonds would have to submit proof of the death of the registered owner in order to exchange such bonds for Series H bonds.
 
@@ -16,11 +16,11 @@
 
 (i) Receive $4,000 in Series H bonds and the amount of the difference, $253.33, or
 
-(ii) Pay the difference, $246.67, necessary to obtain $4,500 in Series H bonds.5
+(ii) Pay the difference, $246.67, necessary to obtain $4,500 in Series H bonds. 5
 
 5 If a paying agent accepts a subscription solely for the purpose of forwarding it, or if the owner forwards it direct, to a Federal Reserve Bank or Branch or to the Bureau of the Fiscal Service, the remittance for the difference, by check or other form of exchange (which will be accepted subject to collection), must be drawn to the order of the Federal Reserve Bank or the United States Treasury, as the case may be. The remittance must accompany the subscription and the securities to be exchanged.
 
-(4) Any amount paid to the owner as a cash adjustment (as in paragraph (3)(i) of this section) must be treated as income for Federal income tax purposes for the year in which it is received up to an amount not in excess of the total interest on the securities exchanged.6
+(4) Any amount paid to the owner as a cash adjustment (as in paragraph (3)(i) of this section) must be treated as income for Federal income tax purposes for the year in which it is received up to an amount not in excess of the total interest on the securities exchanged. 6
 
 6 The amount, if any, paid to the owner in excess of the interest is a repayment on account of the purchase price of the securities exchanged, not income.
 

@@ -1,5 +1,7 @@
 ##### § 2700.10 Motions. #####
 
+Link to an amendment published at 90 FR 5620, Jan. 17, 2025.
+
 (a) An application for an order shall be by motion which, unless made during a hearing or a conference, shall be made in writing and shall set forth the relief or order sought.
 
 (b) Written motions shall be set forth in a document separate from other pleadings.

@@ -1,5 +1,7 @@
 ##### § 174.12 Filing of protests. #####
 
+Link to an amendment published at 90 FR 6482, Jan. 17, 2025.
+
 (a) *By whom filed.* Protests may be filed by:
 
 (1) The importer or consignee shown on the entry papers, or their sureties;

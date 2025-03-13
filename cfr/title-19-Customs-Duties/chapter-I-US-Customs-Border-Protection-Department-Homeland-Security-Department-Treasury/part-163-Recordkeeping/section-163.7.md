@@ -1,5 +1,7 @@
 ##### § 163.7 Summons. #####
 
+Link to an amendment published at 90 FR 6482, Jan. 17, 2025.
+
 (a) *Who may be served.* During the course of any investigation, audit or other inquiry initiated for the reasons set forth in § 163.6(c), the Commissioner of Customs or his designee, but no designee of the Commissioner below the rank of port director, Center director, field director of regulatory audit or special agent in charge, may issue a summons requiring a person within a reasonable period of time to appear before the appropriate Customs officer and to produce records or give relevant testimony under oath or both. Such a summons may be issued to any person who:
 
 (1) Imported, or knowingly caused to be imported, merchandise into the customs territory of the United States;

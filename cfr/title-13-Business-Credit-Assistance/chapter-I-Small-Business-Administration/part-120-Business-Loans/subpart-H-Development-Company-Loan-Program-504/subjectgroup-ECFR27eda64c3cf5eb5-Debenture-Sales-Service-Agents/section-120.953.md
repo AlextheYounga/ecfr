@@ -1,14 +1,12 @@
 ##### § 120.953 Trustee. #####
 
-Link to an amendment published at 89 FR 102701, Dec. 18, 2024.
-
 SBA must appoint a Trustee to:
 
 (a) Issue Certificates;
 
 (b) Transfer the Certificates upon resale in the secondary market;
 
-(c) Maintain physical possession of the Debentures for SBA and the Certificate holders;
+(c) Hold in trust paper Debentures composing a Debenture Pool for the benefit of SBA and the Certificate holders;
 
 (d) Establish and maintain a central registry of:
 
@@ -23,3 +21,5 @@ SBA must appoint a Trustee to:
 (f) Make regularly scheduled and prepayment payments to Investors; and
 
 (g) Assure before any resale of a Debenture or Certificate is recorded in the registry that the seller has provided the purchaser a written disclosure statement approved by SBA.
+
+[61 FR 3235, Jan. 31, 1996, as amended at 89 FR 102701, Dec. 18, 2024]

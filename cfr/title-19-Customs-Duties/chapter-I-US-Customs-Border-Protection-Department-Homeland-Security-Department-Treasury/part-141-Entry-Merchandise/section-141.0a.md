@@ -1,5 +1,7 @@
 ##### § 141.0a Definitions. #####
 
+Link to an amendment published at 90 FR 6482, Jan. 17, 2025.
+
 Unless the context requires otherwise or a different definition is prescribed, the following terms will have the meanings indicated when used in connection with the entry of merchandise:
 
 (a) *Entry.* “Entry” means that documentation or data required by § 142.3 of this chapter to be filed with the appropriate CBP officer or submitted electronically to the Automated Commercial Environment (ACE) or any other CBP-authorized electronic data interchange system to secure the release of imported merchandise from CBP custody, or the act of filing that documentation. “Entry” also means that documentation or data required by § 181.53 of this chapter to be filed with CBP to withdraw merchandise from a duty-deferral program in the United States for exportation to Canada or Mexico or for entry into a duty-deferral program in Canada or Mexico.

@@ -1,7 +1,5 @@
 ##### § 563.5 Definitions. #####
 
-Link to an amendment published at 89 FR 102832, Dec. 18, 2024.
-
 (a) *Motor vehicle safety standard definitions.* Unless otherwise indicated, all terms that are used in this part and are defined in the Motor Vehicle Safety Standards, part 571 of this subchapter, are used as defined therein.
 
 (b) *Other definitions.*
@@ -42,6 +40,8 @@ Link to an amendment published at 89 FR 102832, Dec. 18, 2024.
 
 *Lateral acceleration* means the component of the vector acceleration of a point in the vehicle in the y-direction. The lateral acceleration is positive from left to right, from the perspective of the driver when seated in the vehicle facing the direction of forward vehicle travel.
 
+*Limited-line manufacturer* means a manufacturer that sells three or fewer carlines, as that term is defined in 49 CFR 583.4, in the United States during a production year.
+
 *Longitudinal acceleration* means the component of the vector acceleration of a point in the vehicle in the x-direction. The longitudinal acceleration is positive in the direction of forward vehicle travel.
 
 *Maximum delta-V, lateral* means the maximum value of the cumulative change in velocity, as recorded by the EDR, of the vehicle along the lateral axis, starting from crash time zero and ending at 0.3 seconds.
@@ -73,6 +73,8 @@ Link to an amendment published at 89 FR 102832, Dec. 18, 2024.
 *Side air bag* means any inflatable occupant restraint device that is mounted to the seat or side structure of the vehicle interior, and that is designed to deploy in a side impact crash to help mitigate occupant injury and/or ejection.
 
 *Side curtain/tube air bag* means any inflatable occupant restraint device that is mounted to the side structure of the vehicle interior, and that is designed to deploy in a side impact crash or rollover and to help mitigate occupant injury and/or ejection.
+
+*Small-volume manufacturer* means an original vehicle manufacturer that produces or assembles fewer than 5,000 vehicles annually for sale in the United States.
 
 *Speed, vehicle indicated* means the vehicle speed indicated by a manufacturer-designated subsystem designed to indicate the vehicle's ground travel speed during vehicle operation.
 
@@ -122,4 +124,4 @@ Link to an amendment published at 89 FR 102832, Dec. 18, 2024.
 
 *Z-direction* means in the direction of the vehicle's Z-axis, which is perpendicular to the X- and Y-axes. The Z-direction is positive in a downward direction.
 
-[73 FR 2180, Jan. 14, 2008, as amended at 76 FR 47486, Aug. 5, 2011]
+[73 FR 2180, Jan. 14, 2008, as amended at 76 FR 47486, Aug. 5, 2011; 89 FR 102832, Dec. 18, 2024]

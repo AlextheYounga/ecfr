@@ -1,7 +1,5 @@
 ##### § 214.1 Requirements for admission, extension, and maintenance of status. #####
 
-Link to an amendment published at 89 FR 103195, Dec. 18, 2024.
-
 (a) *General*—(1) *Nonimmigrant classes.* For the purpose of administering the nonimmigrant provisions of the Act, the following administrative subclassifications of nonimmigrant classifications as defined in section 101(a)(15) of the Act are established:
 
 (i) Section 101(a)(15)(B) is divided into (B)(i) for visitors for business and (B)(ii) for visitors for pleasure;
@@ -150,7 +148,7 @@ The classification designation V-1 is for the spouse of a lawful permanent resid
 
 (iv) Presents, or is the accompanying spouse or child of an alien who presents, an Arrival-Departure Record, Form I-94, issued to the alien in connection with the previous admission or stay. The principal alien must also present a Certification Letter issued by the Department of State's Program Administrator.
 
-(c) *Extensions of stay*—(1) *Extension of stay for certain employment-based nonimmigrant workers.* A petitioner seeking the services of an E-1, E-2, E-3, H-1B, H-1B1, H-2A, H-2B, H-3, L-1, O-1, O-2, P-1, P-2, P-3, Q-1, R-1, or TN nonimmigrant beyond the period previously granted, must apply for an extension of stay on the form designated by USCIS, with the fee prescribed in 8 CFR 106.2, with the initial evidence specified in § 214.2, and in accordance with the form instructions. Dependents holding derivative status may be included in the petition if it is for only one worker and the form version specifically provides for their inclusion. In all other cases dependents of the worker should file on Form I-539.
+(c) *Extensions of stay*—(1) *Extension or amendment of stay for certain employment-based nonimmigrant workers.* An applicant or petitioner seeking the services of an E-1, E-2, E-3, H-1B, H-1B1, H-2A, H-2B, H-3, L-1, O-1, O-2, P-1, P-2, P-3, P-1S, P-2S, P-3S, Q-1, R-1, or TN nonimmigrant beyond the period previously granted, or seeking to amend the terms and conditions of the nonimmigrant's stay without a request for additional time, must file for an extension of stay or amendment of stay, on Form I-129, with the fee prescribed in 8 CFR 106.2, with the initial evidence specified in § 214.2, and in accordance with the form instructions. Dependents holding derivative status may be included in the petition if it is for only one worker and the form version specifically provides for their inclusion. In all other cases, dependents of the worker should file extensions of stay using Form I-539.
 
 (2) *Filing on Form I-539.* Any other nonimmigrant alien, except an alien in F or J status who has been granted duration of status, who seeks to extend his or her stay beyond the currently authorized period of admission, must apply for an extension of stay on Form I-539 with the fee required in 8 CFR 106.2 together with any initial evidence specified in the applicable provisions of § 214.2, and on the application form. More than one person may be included in an application where the co-applicants are all members of a single family group and either all hold the same nonimmigrant status or one holds a nonimmigrant status and the other co-applicants are his or her spouse and/or children who hold derivative nonimmigrant status based on his or her status. Extensions granted to members of a family group must be for the same period of time. The shortest period granted to any member of the family shall be granted to all members of the family. In order to be eligible for an extension of stay, nonimmigrant aliens in K-3/K-4 status must do so in accordance with § 214.2(k)(10).
 
@@ -172,17 +170,23 @@ The classification designation V-1 is for the spouse of a lawful permanent resid
 
 (viii) Any nonimmigrant admitted pursuant to the Guam-CNMI Visa Waiver Program, or its sub-program, the CNMI Economic Vitality & Security Travel Authorization Program (EVS-TAP), as provided in section 212(l) of the Act.
 
-(4) *Timely filing and maintenance of status.* An extension of stay may not be approved for an applicant who failed to maintain the previously accorded status or where such status expired before the application or petition was filed, except that failure to file before the period of previously authorized status expired may be excused in the discretion of the Service and without separate application, with any extension granted from the date the previously authorized stay expired, where it is demonstrated at the time of filing that:
+(4) *Timely filing and maintenance of status.* (i) An extension or amendment of stay may not be approved for an applicant or beneficiary who failed to maintain the previously accorded status or where such status expired before the application or petition was filed, except that USCIS may excuse the late filing in its discretion where it is demonstrated at the time of filing that:
 
-(i) The delay was due to extraordinary circumstances beyond the control of the applicant or petitioner, and the Service finds the delay commensurate with the circumstances;
+(A) The delay was due to extraordinary circumstances beyond the control of the applicant or petitioner, and USCIS finds the delay commensurate with the circumstances;
 
-(ii) The alien has not otherwise violated his or her nonimmigrant status;
+(B) The applicant or beneficiary has not otherwise violated their nonimmigrant status;
 
-(iii) The alien remains a bona fide nonimmigrant; and
+(C) The applicant or beneficiary remains a bona fide nonimmigrant; and
 
-(iv) The alien is not the subject of deportation proceedings under section 242 of the Act (prior to April 1, 1997) or removal proceedings under section 240 of the Act.
+(D) The applicant or beneficiary is not the subject of deportation proceedings under section 242 of the Act (prior to April 1, 1997) or removal proceedings under section 240 of the Act.
 
-(5) *Decision on application for extension or change of status.* Where an applicant or petitioner demonstrates eligibility for a requested extension, it may be granted at the discretion of USCIS. The denial of an application for extension of stay may not be appealed.
+(ii) If USCIS excuses the late filing of an extension of stay or amendment of stay request, it will do so without requiring the filing of a separate application or petition and will grant the extension of stay from the date the previously authorized stay expired, or the amendment of stay from the date the petition was filed.
+
+(5) *Deference to prior USCIS determinations of eligibility.* When adjudicating a request filed on Form I-129 involving the same parties and the same underlying facts, USCIS gives deference to its prior determination of the petitioner's, applicant's, or beneficiary's eligibility. However, USCIS need not give deference to a prior approval if: there was a material error involved with a prior approval; there has been a material change in circumstances or eligibility requirements; or there is new, material information that adversely impacts the petitioner's, applicant's, or beneficiary's eligibility.
+
+(6) *Evidence of maintenance of status.* When requesting an extension or amendment of stay on Form I-129, an applicant or petitioner must submit supporting evidence to establish that the applicant or beneficiary maintained the previously accorded nonimmigrant status before the extension or amendment request was filed. Evidence of such maintenance of status may include, but is not limited to: copies of paystubs, W-2 forms, quarterly wage reports, tax returns, contracts, and work orders.
+
+(7) *Decision on extension or amendment of stay request.* Where an applicant or petitioner demonstrates eligibility for a requested extension or amendment of stay, USCIS may grant the extension or amendment in its discretion. The denial of an extension or amendment of stay request may not be appealed.
 
 (d) *Termination of status.* Within the period of initial admission or extension of stay, the nonimmigrant status of an alien shall be terminated by the revocation of a waiver authorized on his or her behalf under section 212(d) (3) or (4) of the Act; by the introduction of a private bill to confer permanent resident status on such alien; or, pursuant to notification in the Federal Register, on the basis of national security, diplomatic, or public safety reasons.
 

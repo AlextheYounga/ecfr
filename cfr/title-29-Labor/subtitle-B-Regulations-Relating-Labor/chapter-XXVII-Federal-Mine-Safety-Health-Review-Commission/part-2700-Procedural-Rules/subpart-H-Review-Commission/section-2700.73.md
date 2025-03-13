@@ -1,5 +1,7 @@
 ##### § 2700.73 Procedure for intervention. #####
 
+Link to an amendment published at 90 FR 5626, Jan. 17, 2025.
+
 After the Commission has directed a case for review, a person may move to intervene. A motion to intervene shall be filed within 30 days after the Commission's direction for review unless the Commission, for good cause shown, allows a later filing. Intervention before the Commission shall not be a matter of right but of the sound discretion of the Commission. The movant shall set forth:
 
 (a) A legally protectible interest directly relating to the property or events that are the subject of the case on review;

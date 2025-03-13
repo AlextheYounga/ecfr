@@ -1,3 +1,3 @@
-##### § 402.25 Referral of requests outside of SSA. #####
+##### § 402.25 Who can file a FOIA request? #####
 
-If you request records that were created by, or provided to us by, another Federal agency, and if that agency asserts control over the records, we may refer the records and your request to that agency. We may likewise refer requests for classified records to the agency that classified them. In these cases, the other agency will process and respond to your request, to the extent it concerns those records, under that agency's regulation, and you need not make a separate request to that agency. We will notify you when we refer your request to another agency.
+Any person may submit a FOIA request to SSA. Under the FOIA, “any person” includes requests from individuals, corporations, State and local agencies, as well as foreign entities. Requests from Federal agencies and Federal or State courts are not covered by the FOIA.

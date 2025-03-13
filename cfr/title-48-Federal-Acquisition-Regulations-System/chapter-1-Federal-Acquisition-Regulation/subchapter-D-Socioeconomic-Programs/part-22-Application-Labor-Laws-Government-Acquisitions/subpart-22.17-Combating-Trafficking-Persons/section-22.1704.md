@@ -1,7 +1,5 @@
 ##### 22.1704 Violations and remedies. #####
 
-Link to an amendment published at 90 FR 516, Jan. 3, 2025.
-
 (a) *Violations.* It is a violation of the Trafficking Victims Protection Act of 2000, as amended, (22 U.S.C. chapter 78), E.O. 13627, or the policies of this subpart if—
 
 (1) The contractor, contractor employee, subcontractor, subcontractor employee, or agent engages in severe forms of trafficking in persons during the period of performance of the contract;
@@ -20,7 +18,7 @@ Link to an amendment published at 90 FR 516, Jan. 3, 2025.
 
 (c) *Receipt of agency Inspector General report.* (1) The head of an executive agency shall ensure that the contracting officer is provided a copy of the agency Inspector General report of an investigation of a violation of the trafficking in persons prohibitions in 22.1703(a) and 52.222-50(b).
 
-(2)(i) Upon receipt of a report from the agency Inspector General that provides support for the allegations, the head of the executive agency, in accordance with agency procedures, shall delegate to an authorized agency official, such as the agency suspending or debarring official, the responsibility to—
+(2)(i) Upon receipt of a report from the agency Inspector General that provides support for the allegations, the head of the executive agency, in accordance with agency procedures, shall delegate to an authorized agency official, such as the agency suspending and debarring, the responsibility to—
 
 (A) Expeditiously conduct an administrative proceeding, allowing the contractor the opportunity to respond to the report;
 
@@ -40,4 +38,4 @@ Link to an amendment published at 90 FR 516, Jan. 3, 2025.
 
 (ii) *Aggravating factors.* The contractor failed to abate an alleged violation or enforce the requirements of a compliance plan, when directed by a contracting officer to do so.
 
-[80 FR 4987, Jan. 29, 2015]
+[80 FR 4987, Jan. 29, 2015; 90 FR 516, Jan. 3, 2025]

@@ -1,7 +1,5 @@
 ##### 16.505 Ordering. #####
 
-Link to an amendment published at 90 FR 522, Jan. 3, 2025.
-
 (a) *General.* (1) In general, the contracting officer does not synopsize orders under indefinite-delivery contracts; except see 16.505(a)(4) and (11), and 16.505(b)(2)(ii)(D).
 
 (2) Individual orders shall clearly describe all services to be performed or supplies to be delivered so the full cost or price for the performance of the work can be established when the order is placed. Orders shall be within the scope, issued within the period of performance, and be within the maximum value of the contract.
@@ -250,7 +248,7 @@ Link to an amendment published at 90 FR 522, Jan. 3, 2025.
 
 (8) *Task-order and delivery-order ombudsman.* The head of the agency shall designate a task-order and delivery-order ombudsman. The ombudsman must review complaints from contractors and ensure they are afforded a fair opportunity to be considered, consistent with the procedures in the contract. The ombudsman must be a senior agency official who is independent of the contracting officer and may be the agency's advocate for competition.
 
-(9) *Small business.* The contracting officer should rely on the small business representations at the contract level (but see section 19.301-2(b)(2) for order rerepresentations).
+(9) *Small business.* The contracting officer should rely on the small business representations at the contract level (but see 19.301-2(b)(3) for order rerepresentations).
 
 (c) *Limitation on ordering period for task-order contracts for advisory and assistance services.* (1) Except as provided for in paragraphs (c)(2) and (3) of this section, the ordering period of a task-order contract for advisory and assistance services, including all options or modifications, normally may not exceed 5 years.
 

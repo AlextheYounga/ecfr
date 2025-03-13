@@ -1,7 +1,5 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 90 FR 517, Jan. 3, 2025.Link to an amendment published at 90 FR 522, Jan. 3, 2025.Link to an amendment published at 90 FR 525, Jan. 3, 2025.
-
 As prescribed in 12.301(b)(4), insert the following clause:
 
 Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services (JAN 2025)
@@ -48,7 +46,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_(ii) Alternate I (DEC 2023) of 52.204-30.
 
-\_\_(12) 52.209-6, Protecting the Government's Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment. (NOV 2021) (31 U.S.C. 6101 note).
+\_\_(12) 52.209-6, Protecting the Government's Interest When Subcontracting With Contractors Debarred, Suspended, Proposed for Debarment, or Voluntarily Excluded. (JAN 2025) (31 U.S.C. 6101 note).
 
 \_\_(13) 52.209-9, Updates of Publicly Available Information Regarding Responsibility Matters (OCT 2018) (41 U.S.C. 2313).
 
@@ -68,9 +66,9 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_(ii) Alternate I (MAR 2020) of 52.219-7.
 
-\_\_(20) 52.219-8, Utilization of Small Business Concerns (FEB 2024) (15 U.S.C. 637(d)(2) and (3)).
+\_\_(20) 52.219-8, Utilization of Small Business Concerns (JAN 2025) (15 U.S.C. 637(d)(2) and (3)).
 
-\_\_(21)(i) 52.219-9, Small Business Subcontracting Plan (SEP 2023) (15 U.S.C. 637(d)(4)).
+\_\_(21)(i) 52.219-9, Small Business Subcontracting Plan (JAN 2025) (15 U.S.C. 637(d)(4)).
 
 \_\_(ii) Alternate I (NOV 2016) of 52.219-9.
 
@@ -78,7 +76,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_(iv) Alternate III (JUN 2020) of 52.219-9.
 
-\_\_(v) Alternate IV (SEP 2023) of 52.219-9.
+\_\_(v) Alternate IV (JAN 2025) of 52.219-9.
 
 \_\_(22)(i) 52.219-13, Notice of Set-Aside of Orders (MAR 2020) (15 U.S.C. 644(r)).
 
@@ -90,7 +88,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_(25) 52.219-27, Notice of Set-Aside for, or Sole-Source Award to, Service-Disabled Veteran-Owned Small Business (SDVOSB) Concerns Eligible Under the SDVOSB Program (FEB 2024) (15 U.S.C. 657f).
 
-\_\_(26)(i) 52.219-28, Post-Award Small Business Program Rerepresentation (FEB 2024) (15 U.S.C. 632(a)(2)).
+\_\_(26)(i) 52.219-28, Postaward Small Business Program Rerepresentation (JAN 2025) (15 U.S.C. 632(a)(2)).
 
 \_\_(ii) Alternate I (MAR 2020) of 52.219-28.
 
@@ -104,7 +102,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_(31) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
-\_\_(32) 52.222-19, Child Labor—Cooperation with Authorities and Remedies (FEB 2024) (E.O. 13126).
+\_\_(32) 52.222-19, Child Labor—Cooperation with Authorities and Remedies (JAN 2025) (E.O. 13126).
 
 \_\_(33) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
@@ -128,7 +126,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_(ii) Alternate I (MAR 2015) of 52.222-50 (22 U.S.C. chapter 78 and E.O. 13627).
 
-\_\_(40) 52.222-54, Employment Eligibility Verification (MAY 2022). (E. O. 12989). (Not applicable to the acquisition of commercially available off-the-shelf items or certain other types of commercial products or commercial services as prescribed in FAR 22.1803.)
+\_\_(40) 52.222-54, Employment Eligibility Verification (JAN 2025) (Executive Order 12989). (Not applicable to the acquisition of commercially available off-the-shelf items or certain other types of commercial products or commercial services as prescribed in FAR 22.1803.)
 
 \_\_(41)(i) 52.223-9, Estimate of Percentage of Recovered Material Content for EPA-Designated Items (MAY 2008) (42 U.S.C. 6962(c)(3)(A)(ii)). (Not applicable to the acquisition of commercially available off-the-shelf items.)
 
@@ -246,7 +244,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (B) Alternate I (DEC 2023) of 52.204-30.
 
-(viii) 52.219-8, Utilization of Small Business Concerns (FEB 2024) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(viii) 52.219-8, Utilization of Small Business Concerns (JAN 2025) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
 (ix) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
@@ -270,7 +268,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (xviii) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services—Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-(xix) 52.222-54, Employment Eligibility Verification (MAY 2022) (E. O. 12989).
+(xix) 52.222-54, Employment Eligibility Verification (JAN 2025) (E.O. 12989).
 
 (xx) 52.222-55, Minimum Wages for Contractor Workers Under Executive Order 14026 (JAN 2022).
 
@@ -296,7 +294,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 *Alternate I* (JULY 2014). As prescribed in 12.301(b)(4)(i), delete paragraph (d) from the basic clause, redesignate paragraph (e) as paragraph (d), and revise the reference to “paragraphs (a), (b), (c), or (d) of this clause” in the redesignated paragraph (d) to read “paragraphs (a), (b), and (c) of this clause”.
 
-*Alternate II* (NOV 2024). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
+*Alternate II* (JAN 2025). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
 
 (d)(1) The Comptroller General of the United States, an appropriate Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.), or an authorized representative of either of the foregoing officials shall have access to and right to—
 
@@ -326,7 +324,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (*2*) Alternate I (DEC 2023) of 52.204-30.
 
-(H) 52.219-8, Utilization of Small Business Concerns (FEB 2024) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(H) 52.219-8, Utilization of Small Business Concerns (JAN 2025) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
 (I) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
@@ -348,7 +346,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (Q) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services—Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-(R) 52.222-54, Employment Eligibility Verification (MAY 2022) (Executive Order 12989).
+(R) 52.222-54, Employment Eligibility Verification (JAN 2025) (Executive Order 12989).
 
 (S) 52.222-55, Minimum Wages for Contractor Workers Under Executive Order 14026 (JAN 2022).
 

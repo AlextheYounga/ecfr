@@ -1,8 +1,6 @@
 ##### § 11.1105 General requirements for officer endorsements. #####
 
-Link to an amendment published at 89 FR 93099, Nov. 25, 2024.
-
-(a) To serve on a passenger vessel on international voyages, masters, deck officers, chief engineers and engineer officers, must—
+(a) To serve on a passenger vessel on international voyages, Masters, deck officers, Chief Engineers, and engineer officers, must—
 
 (1) Meet the appropriate requirements of the STCW Regulation V/2 and of section A-V/2 of the STCW Code (incorporated by reference, see § 11.102 of this part) as follows:
 
@@ -10,9 +8,9 @@ Link to an amendment published at 89 FR 93099, Nov. 25, 2024.
 
 (ii) Personnel providing direct service to passengers in passenger spaces onboard passenger ships must have completed the safety training specified in section A-V/2 of the STCW Code.
 
-(iii) Masters, chief engineer officers, chief mates, second engineer officers, and any person designated on muster lists of having responsibility for the safety of passengers in emergency situations onboard passenger ships must have completed approved training in crisis management and human behavior as specified in section A-V/2 of the STCW Code.
+(iii) Masters, Chief Engineer Officers, Chief Mates, Second Engineer Officers, and any person designated on muster lists of having responsibility for the safety of passengers in emergency situations onboard passenger ships must have completed approved training in crisis management and human behavior as specified in section A-V/2 of the STCW Code.
 
-(iv) Masters, chief engineer officers, chief mates, second engineer officers, and every person assigned immediate responsibility for embarking and disembarking passengers, loading, discharging or securing cargo, or closing hull openings onboard Ro-Ro passenger ships must have completed approved training in passenger safety, cargo safety, and hull integrity as specified in section A-V/2 of the STCW Code; and
+(iv) Masters, Chief Engineer Officers, Chief Mates, Second Engineer Officers, and every person assigned immediate responsibility for embarking and disembarking passengers, loading, discharging or securing cargo, or closing hull openings onboard Ro-Ro passenger ships must have completed approved training in passenger safety, cargo safety, and hull integrity as specified in section A-V/2 of the STCW Code; and
 
 (2) Hold documentary evidence as proof of meeting these requirements through approved or accepted training.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 89 FR 93099, Nov. 25, 2024.
 
 (d) Personnel serving onboard small passenger vessels engaged in domestic, near-coastal voyages, as defined in § 10.107 of this subchapter, are not subject to any obligation for the purpose of this STCW requirement.
 
-[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30882, June 28, 2019]
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30882, June 28, 2019; USCG-2021-0097, 89 FR 93099, Nov. 25, 2024]

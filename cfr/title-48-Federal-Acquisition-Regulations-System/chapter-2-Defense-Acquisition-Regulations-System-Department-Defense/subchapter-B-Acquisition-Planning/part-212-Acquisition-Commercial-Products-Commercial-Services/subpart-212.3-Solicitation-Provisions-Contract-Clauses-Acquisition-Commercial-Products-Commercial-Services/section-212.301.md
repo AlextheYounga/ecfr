@@ -1,7 +1,5 @@
 ##### 212.301 Solicitation provisions and contract clauses for the acquisition of commercial products and commercial services. #####
 
-Link to an amendment published at 89 FR 78991, Sept. 26, 2024.Link to an amendment published at 89 FR 103342, Dec. 18, 2024.
-
 (c) Include an evaluation factor regarding supply chain risk (see subpart 239.73) when acquiring information technology, whether as a service or as a supply, that is a covered system, is a part of a covered system, or is in support of a covered system, as defined in 239.7301.
 
 (f) The following additional provisions and clauses apply to DoD solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services. If the offeror has completed any of the following provisions listed in this paragraph electronically as part of its annual representations and certifications at *https://www.sam.gov,* the contracting officer shall consider this information instead of requiring the offeror to complete these provisions for a particular solicitation. The contracting officer shall not use other FAR or DFARS provisions and clauses unless required by the FAR or DFARS or consistent with customary commercial practices (section 874(b)(1)(A), Pub. L. 114-328).
@@ -220,25 +218,17 @@ Link to an amendment published at 89 FR 78991, Sept. 26, 2024.Link to an amendme
 
 (B) Use the provision at 252.226-7002, Representation for Demonstration Project for Contractors Employing Persons with Disabilities, as prescribed in 226.7203, to comply with section 853 of the National Defense Authorization Act for Fiscal Year 2004 (Pub. L. 108-136).
 
-(xii) *Part 227—Patents, Data, and Copyrights.* (A) Use the clause at 252.227-7013, Rights in Technical Data-Other Than Commercial Products and Commercial Services, as prescribed in 227.7103-6(a). Use the clause with its Alternate I as prescribed in 227.7103-6(b)(1). Use the clause with its Alternate II as prescribed in 227.7103-6(b)(2), to comply with 10 U.S.C. 8687 and 17 U.S.C. 1301, *et seq.*
+(xii) *Part 227—Patents, Data, and Copyrights.* (A) Use the clause at 252.227-7013, Rights in Technical Data—Other Than Commercial Products and Commercial Services, as prescribed in 227.7102-4(b) and 227.7103-6(a). Use the clause with its Alternate I as prescribed in 227.7103-6(b)(1). Use the clause with its Alternate II as prescribed in 227.7103-6(b)(2), to comply with 10 U.S.C. 8687 and 17 U.S.C. 1301, *et seq.*
 
-(B) Use the clause at 252.227-7015, Technical Data-Commercial Products and Commercial Services, as prescribed in 227.7102-4(a)(1), to comply with 10 U.S.C. 3772(a). Use the clause with its Alternate I as prescribed in 227.7102-4(a)(2), to comply with 10 U.S.C. 8687 and 17 U.S.C. 1301, *et seq.*
+(B) Use the clause at 252.227-7015, Technical Data—Commercial Products and Commercial Services, as prescribed in 227.7102-4(a)(1), to comply with 10 U.S.C. 3772(a). Use the clause with its Alternate I as prescribed in 227.7102-4(a)(2), to comply with 10 U.S.C. 8687 and 17 U.S.C. 1301, *et seq.*
 
-(C) Use the clause at 252.227-7037, Validation of Restrictive Markings on Technical Data, as prescribed in 227.7102-4(c), to comply with 10 U.S.C. 3781-3786.
+(C) Use the clause at 252.227-7018, Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research Program and Small Business Technology Transfer Program, as prescribed in 227.7104-4(a)(1).
 
-(xiii) *Part 229—Taxes.* Use the clause at 252.229-7014, Full Exemption from Two-Percent Excise Tax on Certain Foreign Procurements, as prescribed at 229.402-70, to comply with 26 U.S.C. 5000C.
+(D) Use the clause at 252.227-7037, Validation of Restrictive Markings on Technical Data, as prescribed in 227.7102-4(c).
 
-(xiv) *Part 232—Contract Financing.* (A) Use the clause at 252.232-7003, Electronic Submission of Payment Requests and Receiving Reports, as prescribed in 232.7004, to comply with 10 U.S.C. 4601.
+(E) Use the provision at 252.227-7040, Additional Preaward Requirements for Small Business Technology Transfer Program, as prescribed in 227.7104-4(c)(1).
 
-(B) Use the clause at 252.232-7006, Wide Area WorkFlow Payment Instructions, as prescribed in 232.7004(b).
-
-(C) Use the clause at 252.232-7009, Mandatory Payment by Governmentwide Commercial Purchase Card, as prescribed in 232.1110.
-
-(D) Use the clause at 252.232-7010, Levies on Contract Payments, as prescribed in 232.7102, to comply with 26 U.S.C. 6331(h).
-
-(E) Use the clause at 252.232-7011, Payments in Support of Emergencies and Contingency Operations, as prescribed in 232.908.
-
-(F) Use the provision at 252.232-7014, Notification of Payment in Local Currency (Afghanistan), as prescribed in 232.7202.
+(F) Use the clause at 252.227-7041, Additional Postaward Requirements for Small Business Technology Transfer Program, as prescribed in 227.7104-4(c)(2).
 
 (xv) *Part 237—Service Contracting.* (A) Use the clause at 252.237-7010, Prohibition on Interrogation of Detainees by Contractor Personnel, as prescribed in 237.173-5, to comply with section 1038 of the National Defense Authorization Act for Fiscal Year 2010 (Pub. L. 111-84).
 
@@ -294,4 +284,4 @@ Link to an amendment published at 89 FR 78991, Sept. 26, 2024.Link to an amendme
 
 (C) Use the clause at 252.270-7002, Pilot Program to Incentivize Contracting with Employee-Owned Businesses, as prescribed at 270.105(c), to comply with section 874 of the NDAA for FY 2022 (Pub. L. 117-81; 10 U.S.C. 3204 note) and section 872 of the NDAA for FY 2024 (Pub. L. 118-31; 10 U.S.C. 3204 note).
 
-[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019; 84 FR 48508, 48510, Sept. 13, 2019; 84 FR 58332, Oct. 31, 2019; 84 FR 72237, 72559, Dec. 31, 2019; 85 FR 19697, Apr. 8, 2020; 85 FR 61501, 61520, Sept. 29, 2020; 85 FR 74612, Nov. 23, 2020; 85 FR 61520, Sept. 29, 2020; 86 FR 3836, Jan. 15, 2021; 86 FR 27277, May 20, 2021; 86 FR 36236, July 9, 2021; 86 FR 48338, Aug. 30, 2021; 87 FR 15810, Mar. 18, 2022; 87 FR 52347, Aug. 25, 2022; 87 FR 65501, 65512, 65514, 65517, Oct. 28, 2022; 87 FR 76983, 76986, 76991, Dec. 16, 2022; 88 FR 6582, Jan. 31, 2023; 88 FR 12863, Mar. 1, 2023; 88 FR 17339, Mar. 22, 2023; 88 FR 25512, Apr. 27, 2023; 88 FR 37797, June 9, 2023; 88 FR 46902, 46905, July 20, 2023; 88 FR 67606, 67609, Sept. 29, 2023; 88 FR 80464, Nov. 17, 2023; 88 FR 88537, Dec. 22, 2023; 89 FR 11747, Feb. 15, 2024; 89 FR 20870, Mar. 26, 2024; 89 FR 46813, May 30, 2024; 89 FR 66284, Aug. 15, 2024; 89 FR 78991, 78998, Sept. 26, 2024; 89 FR 82186, Oct. 10, 2024; 89 FR 90235, Nov. 15, 2024]
+[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019; 84 FR 48508, 48510, Sept. 13, 2019; 84 FR 58332, Oct. 31, 2019; 84 FR 72237, 72559, Dec. 31, 2019; 85 FR 19697, Apr. 8, 2020; 85 FR 61501, 61520, Sept. 29, 2020; 85 FR 74612, Nov. 23, 2020; 85 FR 61520, Sept. 29, 2020; 86 FR 3836, Jan. 15, 2021; 86 FR 27277, May 20, 2021; 86 FR 36236, July 9, 2021; 86 FR 48338, Aug. 30, 2021; 87 FR 15810, Mar. 18, 2022; 87 FR 52347, Aug. 25, 2022; 87 FR 65501, 65512, 65514, 65517, Oct. 28, 2022; 87 FR 76983, 76986, 76991, Dec. 16, 2022; 88 FR 6582, Jan. 31, 2023; 88 FR 12863, Mar. 1, 2023; 88 FR 17339, Mar. 22, 2023; 88 FR 25512, Apr. 27, 2023; 88 FR 37797, June 9, 2023; 88 FR 46902, 46905, July 20, 2023; 88 FR 67606, 67609, Sept. 29, 2023; 88 FR 80464, Nov. 17, 2023; 88 FR 88537, Dec. 22, 2023; 89 FR 11747, Feb. 15, 2024; 89 FR 20870, Mar. 26, 2024; 89 FR 46813, May 30, 2024; 89 FR 66284, Aug. 15, 2024; 89 FR 78991, 78998, Sept. 26, 2024; 89 FR 82186, Oct. 10, 2024; 89 FR 90235, Nov. 15, 2024; 89 FR 103342, Dec. 18, 2024]

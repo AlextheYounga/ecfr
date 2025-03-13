@@ -1,5 +1,7 @@
 ##### § 2700.81 Recusal and disqualification. #####
 
+Link to an amendment published at 90 FR 5627, Jan. 17, 2025.
+
 (a) *Recusal.* A Commissioner or a Judge may recuse himself from a proceeding whenever he deems such action appropriate.
 
 (b) *Request to withdraw.* A party may request a Commissioner or a Judge to withdraw on grounds of personal bias or other disqualification. A party shall make such a request by promptly filing an affidavit setting forth in detail the matters alleged to constitute personal bias or other grounds for disqualification.

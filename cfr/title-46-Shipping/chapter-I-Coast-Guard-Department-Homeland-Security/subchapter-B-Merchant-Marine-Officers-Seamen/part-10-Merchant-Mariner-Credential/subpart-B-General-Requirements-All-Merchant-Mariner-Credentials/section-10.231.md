@@ -1,6 +1,6 @@
 ##### § 10.231 Requirements for raises of grade or new endorsements. #####
 
-Link to an amendment published at 89 FR 93062, Nov. 25, 2024.Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
+Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 
 (a) This section applies to applicants who already hold a valid credential and want to make either of the following transactions:
 
@@ -22,7 +22,7 @@ Link to an amendment published at 89 FR 93062, Nov. 25, 2024.Link to an amendmen
 
 (ii) The mandatory requirements for rating endorsements as contained in part 12 of this subchapter.
 
-(iii) The mandatory requirements for tankerman rating endorsements are contained in part 13 of this subchapter.
+(iii) The mandatory requirements for tank vessel endorsements are contained in part 13 of this subchapter.
 
 (iv) The mandatory requirements for STCW endorsements as contained in parts 11, 12, and 13 of this subchapter.
 
@@ -34,7 +34,7 @@ Link to an amendment published at 89 FR 93062, Nov. 25, 2024.Link to an amendmen
 
 (i) Any officer endorsement.
 
-(ii) The first endorsement as able seaman, lifeboatman, lifeboatman-limited, qualified member of the engine department, or tankerman.
+(ii) The first endorsement as National Able Seafarer, Lifeboat Operator, Lifeboat Operator-Limited, Qualified Member of the Engine Department (QMED), or a tank vessel endorsement.
 
 (7) Where sea service is required, documentary evidence in accordance with § 10.232 of this part.
 
@@ -46,7 +46,7 @@ Link to an amendment published at 89 FR 93062, Nov. 25, 2024.Link to an amendmen
 
 (1) Sea service acquired before the issuance of an officer endorsement is generally not accepted as any part of the service required for a raise of grade of that endorsement. However, service acquired before issuance of an officer endorsement will be accepted for certain crossovers, endorsements, or increases in scope of an MMC, as appropriate. In the limited tonnage categories for deck officers, total accumulated service is a necessary criterion for most raises of grade; therefore, service acquired before the issuance of such officer endorsements will be accepted.
 
-(2) An applicant remains eligible for a raise of grade while on probation as a result of action under part 5 of this chapter. A raise of grade issued to a person on probation will be subject to the same probationary conditions imposed against his or her other credentials. The offense for which he or she was placed on probation will be considered on the merits of the case in determining fitness to hold the endorsement applied for. No applicant will be examined for a raise of grade during any period when a suspension without probation or a revocation imposed under part 5 of this chapter is effective against his or her credential or while an appeal from these actions is pending.
+(2) An applicant remains eligible for a raise of grade while on probation as a result of action under part 5 of this chapter. A raise of grade issued to a person on probation will be subject to the same probationary conditions imposed against their other credentials. The offense for which they were placed on probation will be considered on the merits of the case in determining fitness to hold the endorsement applied for. No applicant will be examined for a raise of grade during any period when a suspension without probation or a revocation imposed under part 5 of this chapter is effective against their credential or while an appeal from these actions is pending.
 
 (3) *Professional examination.* (i) When the Coast Guard finds an applicant's experience and training for raise of grade is satisfactory, and the applicant is eligible in all other respects, the Coast Guard will authorize a professional examination.
 
@@ -54,4 +54,4 @@ Link to an amendment published at 89 FR 93062, Nov. 25, 2024.Link to an amendmen
 
 (iii) The general instructions for administration of examinations and the lists of subjects for all endorsements are found in part 11, subpart I; part 12, subpart E; and part 13, subpart A of this subchapter.
 
-[USCG-2004-17914, 78 FR 77894, Dec. 24, 2013]
+[USCG-2004-17914, 78 FR 77894, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93062, Nov. 25, 2024]

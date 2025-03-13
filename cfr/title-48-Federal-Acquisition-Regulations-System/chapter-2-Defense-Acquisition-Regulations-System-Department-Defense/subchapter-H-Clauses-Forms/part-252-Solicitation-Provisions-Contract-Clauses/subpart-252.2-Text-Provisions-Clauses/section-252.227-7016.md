@@ -1,16 +1,24 @@
 ##### 252.227-7016 Rights in Bid or Proposal Information. #####
 
-Link to an amendment published at 89 FR 103356, Dec. 18, 2024.
+As prescribed in 227.7103-6(e)(1), 227.7104-4(b)(1), or 227.7203-6(b), use the following clause:
 
-As prescribed in 227.7103-6(e)(1), 227.7104(e)(1), or 227.7203-6(b), use the following clause:
-
-Rights In Bid or Proposal Information (JAN 2023)
+Rights In Bid or Proposal Information (JAN 2025)
 
 (a) *Definitions.*
 
-(1) For contracts that require the delivery of technical data, the terms “technical data” and “computer software” are defined in the Rights in Technical Data—Other Than Commercial Products and Commercial Services clause of this contract or, if this is a contract awarded under the Small Business Innovation Research Program, the Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research (SBIR) Program clause of this contract.
+(a) *Definitions.* As used in this clause—
 
-(2) For contracts that do not require the delivery of technical data, the term “computer software” is defined in the Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation clause of this contract or, if this is a contract awarded under the Small Business Innovation Research Program, the Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research (SBIR) Program clause of this contract.
+*Computer software* is defined in—
+
+(1) The 252.227-7014, Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation, clause of this contract; or
+
+(2) If this is a contract awarded under the Small Business Innovation Research Program or Small Business Technology Transfer Program, the 252.227-7018, Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research Program and Small Business Technology Transfer Program, clause of this contract.
+
+*Technical data* is defined in—
+
+(1) The 252.227-7013, Rights in Technical Data—Other Than Commercial Products and Commercial Services, clause of this contract; or
+
+(2) If this is a contract awarded under the Small Business Innovation Research Program or Small Business Technology Transfer Program, the 252.227-7018, Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research Program and Small Business Technology Transfer Program, clause of this contract.
 
 (b) *Government rights to contract award.* By submission of its offer, the Offeror agrees that the Government—
 
@@ -22,7 +30,7 @@ Rights In Bid or Proposal Information (JAN 2023)
 
 (1) Except as provided in paragraphs (c)(2), (d), and (e) of this clause, the Government shall have the rights to use, modify, reproduce, release, perform, display, or disclose information contained in the Contractor's bid or proposal within the Government. The Government shall not release, perform, display, or disclose such information outside the Government without the Contractor's written permission.
 
-(2) The Government's right to use, modify, reproduce, release, perform, display, or disclose information that is technical data or computer software required to be delivered under this contract are determined by the Rights in Technical Data—Other Than Commercial Products and Commercial Services, Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation, or Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research (SBIR) Program clause(s) of this contract.
+(2) The Government's right to use, modify, reproduce, release, perform, display, or disclose information that is technical data or computer software required to be delivered under this contract are determined by the Defense Federal Acquisition Regulation Supplement (DFARS) 252.227-7013, Rights in Technical Data—Other Than Commercial Products and Commercial Services; DFARS 252.227-7014, Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation; or DFARS 252.227-7018, Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research Program and Small Business Technology Transfer Program, clause of this contract.
 
 (d) *Government-furnished information.* The Government's rights with respect to technical data or computer software contained in the Contractor's bid or proposal that were provided to the Contractor by the Government are subject only to restrictions on use, modification, reproduction, release, performance, display, or disclosure, if any, imposed by the developer or licensor of such data or software.
 
@@ -30,4 +38,4 @@ Rights In Bid or Proposal Information (JAN 2023)
 
 (f) *Flowdown.* Contractor shall include this clause in all subcontracts or similar contractual instruments and require its subcontractors or suppliers to do so without alteration, except to identify the parties.
 
-(End of clause)[60 FR 33498, June 28, 1995, as amended at 76 FR 3538, Jan. 20, 2011; 88 FR 6594, Jan. 31, 2023]
+(End of clause)[60 FR 33498, June 28, 1995, as amended at 76 FR 3538, Jan. 20, 2011; 88 FR 6594, Jan. 31, 2023; 89 FR 103356, Dec. 18, 2024]

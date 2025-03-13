@@ -1,5 +1,7 @@
 ##### § 2700.60 Subpoenas. #####
 
+Link to an amendment published at 90 FR 5624, Jan. 17, 2025.
+
 (a) *Compulsory attendance of witnesses and production of documents.* The Commission and its Judges are authorized to issue subpoenas, on their own motion or on the oral or written application of a party, requiring the attendance of witnesses and the production of documents or physical evidence. A subpoena may be served by any person who is at least 18 years of age. A subpoena may also be served by registered or certified mail, return receipt requested, but, in such case, any risk of delivery is on the serving party. A copy of the subpoena bearing a certificate of service shall be filed with the Commission or the Judge.
 
 (b) *Fees payable to witnesses.* Subpoenaed witnesses shall be paid the same fees and mileage as are paid in the district courts of the United States. The witness fees and mileage shall be paid by the party at whose request the witness appears, or by the Commission if a witness is subpoenaed on the motion of the Commission or a Judge. This paragraph does not apply to Government employees who are called as witnesses by the Government.

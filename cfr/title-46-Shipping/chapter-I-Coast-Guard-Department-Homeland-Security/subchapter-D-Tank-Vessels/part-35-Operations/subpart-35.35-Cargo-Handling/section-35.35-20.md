@@ -1,8 +1,6 @@
 ##### § 35.35-20 Inspection before transfer of cargo—TB/ALL. #####
 
-Link to an amendment published at 89 FR 93140, Nov. 25, 2024.
-
-Before the transfer of liquid cargo in bulk, the person in charge of the transfer shall inspect the vessel to ensure the following:
+Before the transfer of liquid cargo in bulk, the Person in Charge of the transfer must inspect the vessel to ensure the following:
 
 (a) Warnings are displayed as required.
 
@@ -52,4 +50,4 @@ Before the transfer of liquid cargo in bulk, the person in charge of the transfe
 
 (ii) At or below 8 percent by volume, at the start of cargo transfer, for vapor of crude oil, gasoline blends, or benzene.
 
-[CGFR 65-50, 30 FR 16704, Dec. 30, 1965, as amended by CGD 80-009, 48 FR 36459, Aug. 11, 1983; CGD 88-102, 55 FR 25446, June 21, 1990; CGD 79-116, 60 FR 17156, Apr. 4, 1995; USCG-1999-5150, 78 FR 42642, July 16, 2013]
+[CGFR 65-50, 30 FR 16704, Dec. 30, 1965, as amended by CGD 80-009, 48 FR 36459, Aug. 11, 1983; CGD 88-102, 55 FR 25446, June 21, 1990; CGD 79-116, 60 FR 17156, Apr. 4, 1995; USCG-1999-5150, 78 FR 42642, July 16, 2013; USCG-2021-0097, 89 FR 93140, Nov. 25, 2024]

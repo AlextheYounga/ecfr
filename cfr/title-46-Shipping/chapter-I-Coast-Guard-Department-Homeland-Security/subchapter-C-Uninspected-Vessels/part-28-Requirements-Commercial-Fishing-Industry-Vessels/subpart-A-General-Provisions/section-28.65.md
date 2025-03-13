@@ -28,4 +28,4 @@
 
 (c) A Coast Guard Boarding Officer may direct the individual in charge of a fish processing vessel that is missing a Load Line Certificate, or that does not comply with the provisions of the Load Line Certificate issued by the American Bureau of Shipping or a similarly qualified organization, to return the vessel to a mooring and to remain there until the vessel obtains such a certificate.
 
-[CGD 96-046, 61 FR 57273, Nov. 5, 1996, as amended at CGD 96-046, 62 FR 46676, Sept. 4, 1997; USCG-2004-18884, 69 FR 58344, Sept. 30, 2004]
+[CGD 96-046, 61 FR 57273, Nov. 5, 1996, as amended by CGD 96-046, 62 FR 46676, Sept. 4, 1997; USCG-2004-18884, 69 FR 58344, Sept. 30, 2004]
