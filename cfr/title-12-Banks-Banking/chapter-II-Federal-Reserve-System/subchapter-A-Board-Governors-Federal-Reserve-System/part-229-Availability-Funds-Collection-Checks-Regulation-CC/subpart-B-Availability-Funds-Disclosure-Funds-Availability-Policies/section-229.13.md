@@ -1,12 +1,14 @@
 ##### § 229.13 Exceptions. #####
 
+Link to an amendment published at 89 FR 43739, May 20, 2024.
+
 (a) *New accounts.* For purposes of this paragraph, checks subject to § 229.10(c)(1)(v) include traveler's checks.
 
 (1) A deposit in a new account—
 
 (i) Is subject to the requirements of § 229.10 (a) and (b) to make funds from deposits by cash and electronic payments available for withdrawal on the business day following the banking day of deposit or receipt;
 
-(ii) Is subject to the requirements of § 229.10(c)(1) (i) through (v) and § 229.10(c)(2) only with respect to the first $5,525 of funds deposited on any one banking day; but the amount of the deposit in excess of $5,525 shall be available for withdrawal not later than the ninth business day following the banking day on which funds are deposited; and
+(ii) Is subject to the requirements of § 229.10(c)(1)(i) through (v) and § 229.10(c)(2) only with respect to the first $5,525 of funds deposited on any one banking day; but the amount of the deposit in excess of $5,525 shall be available for withdrawal not later than the ninth business day following the banking day on which funds are deposited; and
 
 (iii) Is not subject to the availability requirements of §§ 229.10(c)(1)(vi) and (vii) and 229.12.
 

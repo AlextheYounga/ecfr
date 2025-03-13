@@ -1,0 +1,13 @@
+##### § 102-3.80 How are charter amendments accomplished? #####
+
+The agency head is responsible for amending the charter of an advisory committee. Amending any existing advisory committee charter does not constitute renewal of the advisory committee under § 102-3.60. The procedures for making changes and filing amended charters will depend upon the authority basis for the advisory committee, as stated in paragraphs (a) through (c) of this section:
+
+(a) *Non-discretionary advisory committees.* The agency head must ensure that any changes made to current charters are consistent with the relevant authority. When Congress by law, or the President by Presidential directive (*e.g.,* E.O.), changes the authorizing language that has been the basis for establishing an advisory committee, the agency head or the chairperson of an independent Presidential advisory committee must amend those sections of the current charter affected by the new statute or Presidential directive (*e.g.,* E.O.); file the amended charter as specified in § 102-3.70; and notify the public as specified in paragraph (c) of this section.
+
+(b) *Discretionary advisory committees.* The charter of a discretionary advisory committee must be amended when an agency head determines that provisions of a filed charter are inaccurate, specific provisions have changed or become obsolete with the passing of time, or advisory committees need to be merged. Amendments could also include changing the name of the advisory committee, advisory committee authority, number of members, estimated number or frequency of meetings, objectives and scope, duties, and estimated costs. The agency must amend the charter language as necessary and the agency must:
+
+(1) First consult with the Secretariat and explain the purpose of the changes and why they are necessary. The Secretariat will notify the agency when the consultation process is complete.
+
+(2) Upon receiving notice from the Secretariat that the consultation is complete, file the amended charter as specified in § 102-3.70, and notify the public as specified in paragraph (c) of this section.
+
+(c) *Public notification of charter amendments.* Agencies must post an announcement and a copy of the charter amendment on the advisory committee website. If an advisory committee website is not available, the agency must publish a notice of amendment in the Federal Register.Federal Register notice publishing and website posting of charter amendments may be performed concurrently with the filing of the charter. The publishing requirement in the Federal Register does not apply to a non-discretionary advisory committee if the amendment was the result of a legislative change or Presidential directive.

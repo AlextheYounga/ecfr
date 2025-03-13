@@ -1,6 +1,6 @@
 ##### § 202.1 Prescription-drug advertisements. #####
 
-Link to an amendment published at 88 FR 80983, Nov. 21, 2023.
+*Prescription drug* as used in this section means any drug defined in section 503(b)(1) of the Federal Food, Drug, and Cosmetic Act or § 201.105 of this chapter, applicable to drugs intended for use by humans and to veterinary drugs, respectively.
 
 (a)(1) The ingredient information required by section 502(n) of the Federal Food, Drug, and Cosmetic Act shall appear together, without any intervening written, printed, or graphic matter, except the proprietary names of ingredients, which may be included with the listing of established names.
 
@@ -24,7 +24,29 @@ Link to an amendment published at 88 FR 80983, Nov. 21, 2023.
 
 (e) True statement of information in brief summary relating to side effects, contraindications, and effectiveness:
 
-(1) *When required.* All advertisements for any prescription drug (“prescription drug” as used in this section means drugs defined in section 503(b)(1) of the act and § 201.105, applicable to drugs for use by man and veterinary drugs, respectively), except advertisements described in paragraph (e)(2) of this section, shall present a true statement of information in brief summary relating to side effects, contraindications (when used in this section “side effects, contraindications” include side effects, warnings, precautions, and contraindications and include any such information under such headings as cautions, special considerations, important notes, etc.) and effectiveness. Advertisements broadcast through media such as radio, television, or telephone communications systems shall include information relating to the major side effects and contraindications of the advertised drugs in the audio or audio and visual parts of the presentation and unless adequate provision is made for dissemination of the approved or permitted package labeling in connection with the broadcast presentation shall contain a brief summary of all necessary information related to side effects and contraindications.
+(1) *When required.* All advertisements for any prescription drug, except advertisements described in paragraph (e)(2) of this section, must present a true statement of information in brief summary relating to side effects, contraindications (when used in this section, “side effects, contraindications” include side effects, warnings, precautions, and contraindications and include any such information under such headings as cautions, special considerations, important notes, etc.), and effectiveness.
+
+(i) *Broadcast advertisements.* Advertisements broadcast through media such as radio, television, or telephone communications systems must:
+
+(A) Include information relating to the major side effects and contraindications (“major statement”) of the advertised drugs in the audio or audio and visual parts of the presentation, unless required by paragraph (e)(1)(ii)(C) of this section to present the major statement using audio and text; and
+
+(B) Contain a brief summary of all necessary information related to side effects and contraindications, unless adequate provision is made for dissemination of the approved or permitted product labeling in connection with the broadcast presentation.
+
+(ii) *Human drug advertisements in television or radio format*—*Clear, conspicuous, and neutral manner.* For advertisements for prescription drugs intended for use by humans presented directly to consumers in television or radio format, the major statement must be presented in a clear, conspicuous, and neutral manner. The major statement is presented in a clear, conspicuous, and neutral manner if the following are met:
+
+(A) It is presented in consumer-friendly language and terminology that is readily understandable.
+
+(B) Its audio information, in terms of the volume, articulation, and pacing used, is at least as understandable as the audio information presented in the rest of the advertisement.
+
+(C) In advertisements in television format, it is presented concurrently using both audio and text (dual modality). To achieve dual modality:
+
+(*1*) Either the text displays the verbatim key terms or phrases from the corresponding audio, or the text displays the verbatim complete transcript of the corresponding audio; and
+
+(*2*) The text is displayed for a sufficient duration to allow it to be read easily. For purposes of the standard in this paragraph (e)(1)(ii)(C)(*2*), the duration is considered sufficient if the text display begins at the same time and ends at approximately the same time as the corresponding audio.
+
+(D) In advertisements in television format, for the text portion of the major statement, the size and style of font, the contrast with the background, and the placement on the screen allow the information to be read easily.
+
+(E) During the presentation of the major statement, the advertisement does not include audio or visual elements, alone or in combination, that are likely to interfere with comprehension of the major statement.
 
 (2) *Exempt advertisements.* The following advertisements are exempt from the requirements of paragraph (e)(1) of this section under the conditions specified:
 
@@ -174,7 +196,7 @@ If the Commissioner finds that the program presented is not being followed, he w
 
 (2) Brochures, booklets, mailing pieces, detailing pieces, file cards, bulletins, calendars, price lists, catalogs, house organs, letters, motion picture films, film strips, lantern slides, sound recordings, exhibits, literature, and reprints and similar pieces of printed, audio, or visual matter descriptive of a drug and references published (for example, the “Physicians Desk Reference”) for use by medical practitioners, pharmacists, or nurses, containing drug information supplied by the manufacturer, packer, or distributor of the drug and which are disseminated by or on behalf of its manufacturer, packer, or distributor are hereby determined to be labeling as defined in section 201(m) of the act.
 
-[40 FR 14016, Mar. 27, 1975, as amended at 40 FR 58799, Dec. 18, 1975; 41 FR 48266, Nov. 2, 1976; 42 FR 15674, Mar. 22, 1977; 60 FR 38480, July 27, 1995; 72 FR 69119, Dec. 6, 2007]Effective Date Note:At 44 FR 37467, June 26, 1979, § 202.1(e)(6) (ii) and (vii) were revised. At 44 FR 74817, Dec. 18, 1979, paragraphs (e)(6) (ii) and (vii) were stayed indefinitely. At 64 FR 400, Jan. 5, 1999, these paragraphs were amended. For the convenience of the user, paragraphs (e)(6) (ii) and (vii), published at 44 FR 37467, are set forth below:
+[40 FR 14016, Mar. 27, 1975, as amended at 40 FR 58799, Dec. 18, 1975; 41 FR 48266, Nov. 2, 1976; 42 FR 15674, Mar. 22, 1977; 60 FR 38480, July 27, 1995; 72 FR 69119, Dec. 6, 2007; 88 FR 80983, Nov. 21, 2023]Effective Date Note:At 44 FR 37467, June 26, 1979, § 202.1(e)(6) (ii) and (vii) were revised. At 44 FR 74817, Dec. 18, 1979, paragraphs (e)(6) (ii) and (vii) were stayed indefinitely. At 64 FR 400, Jan. 5, 1999, these paragraphs were amended. For the convenience of the user, paragraphs (e)(6) (ii) and (vii), published at 44 FR 37467, are set forth below:
 
 ##### § 202.1 Prescription-drug advertisements. #####
 

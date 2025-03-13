@@ -1,0 +1,3 @@
+##### § 102-3.45 What does this subpart cover and how does it apply? #####
+
+Requirements for establishing and terminating advisory committees vary depending on the establishing entity and the source of authority for the advisory committee. This subpart covers the procedures associated with the establishment, renewal, reestablishment, merger, and termination of advisory committees. These procedures include, but are not limited to, consulting with the Secretariat, preparing and filing an advisory committee charter, publishing notice in the Federal Register, and amending an advisory committee charter.

@@ -1,6 +1,6 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 89 FR 37942, May 6, 2024.
+Link to an amendment published at 89 FR 37942, May 6, 2024.Link to an amendment published at 89 FR 44035, May 20, 2024.
 
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
@@ -292,14 +292,12 @@ Link to an amendment published at 89 FR 37942, May 6, 2024.
 
 (2) *Verification of full-load actual volume flow rate.* The measured full-load actual volume flow rate will be measured, pursuant to the test requirements of appendix A to subpart T of part 431 of this chapter, at the full-load operating pressure determined in paragraph (p)(1) of this section. The certified full-load actual volume flow rate will be considered valid only if the measurement(s) (either the measured full-load actual volume flow rate for a single unit sample or the mean of the measured values for a multiple unit sample) are within the percentage of the certified full-load actual volume flow rate specified in Table 1 of this section:
 
-Table 1 of § 429.134—Allowable Percentage Deviation From the Certified Full-Load Actual Volume Flow Rate
-
-|Manufacturer certified full-load actual volume flow rate  <br/>(m<sup>3</sup>/s) × 10−3|Allowable  <br/>percent of the certified  <br/>full-load  <br/>actual volume  <br/>flow rate  <br/>(%)|
-|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-|                                    0 \< and ≤ 8.3                                     |                                                  ±7                                                  |
-|                                    8.3 \< and ≤ 25                                    |                                                  ±6                                                  |
-|                                    25 \< and ≤ 250                                    |                                                  ±5                                                  |
-|                                        \> 250                                         |                                                  ±4                                                  |
+|Manufacturer certified full-load actual volume flow rate  <br/>(m<sup>3</sup>/s) × 10<sup>−3</sup>|Allowable  <br/>percent of the certified  <br/>full-load  <br/>actual volume  <br/>flow rate  <br/>(%)|
+|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+|                                          0 \< and ≤ 8.3                                          |                                                  ±7                                                  |
+|                                         8.3 \< and ≤ 25                                          |                                                  ±6                                                  |
+|                                         25 \< and ≤ 250                                          |                                                  ±5                                                  |
+|                                              \> 250                                              |                                                  ±4                                                  |
 
 (i) If the certified value of full-load actual volume flow rate is found to be valid, the full-load actual volume flow rate certified by the manufacturer will be used as the basis for determination of the applicable standard.
 

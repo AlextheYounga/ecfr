@@ -1,5 +1,7 @@
 ##### § 229.12 Availability schedule. #####
 
+Link to an amendment published at 89 FR 43739, May 20, 2024.
+
 (a) *Effective date.* The availability schedule contained in this section is effective September 1, 1990.
 
 (b) *Local checks and certain other checks.* Except as provided in paragraphs (d), (e), and (f) of this section, a depository bank shall make funds deposited in an account by a check available for withdrawal not later than the second business day following the banking day on which funds are deposited, in the case of—

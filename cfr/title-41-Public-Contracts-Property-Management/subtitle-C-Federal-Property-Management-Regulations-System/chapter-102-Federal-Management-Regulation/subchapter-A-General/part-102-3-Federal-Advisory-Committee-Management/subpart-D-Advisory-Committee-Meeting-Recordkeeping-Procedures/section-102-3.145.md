@@ -1,3 +1,3 @@
 ##### § 102-3.145 What policies apply to subcommittee meetings? #####
 
-If a subcommittee makes recommendations directly to a Federal officer or agency, or if its recommendations will be adopted by the parent advisory committee without further deliberations by the parent advisory committee, then the subcommittee's meetings must be conducted in accordance with all openness requirements of this subpart.
+If a subcommittee provides advice or recommendations directly to a Federal officer or agency, or if its advice or recommendations will be adopted by the parent advisory committee without further deliberations by the parent advisory committee, then the subcommittee's meetings must be conducted in accordance with the requirements of this subpart.

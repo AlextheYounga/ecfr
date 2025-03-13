@@ -1,7 +1,15 @@
 ##### § 478.57 Discontinuance of business. #####
 
-Link to an amendment published at 89 FR 29092, Apr. 19, 2024.
+(a) Where a firearm or ammunition business is either discontinued or succeeded by a new owner, the owner of the business discontinued or succeeded shall within 30 days thereof furnish to the Chief, Federal Firearms Licensing Center notification of the discontinuance or succession. (See also § 478.127.)
 
-Where a firearm or ammunition business is either discontinued or succeeded by a new owner, the owner of the business discontinued or succeeded shall within 30 days thereof furnish to the Chief, Federal Firearms Licensing Center notification of the discontinuance or succession. (See also § 478.127.)
+(b) Upon termination of a license (*i.e.,* license revocation, denial of license renewal, license expiration, or surrender of license), the former licensee shall within 30 days, or such additional period approved by the Director for good cause, either:
 
-[33 FR 18555, Dec. 14, 1968. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 44 FR 55842, Sept. 28, 1979; T.D. ATF-290, 54 FR 53055, Dec. 27, 1989; T.D. ATF-363, 60 FR 17453, Apr. 6, 1995; T.D. ATF-383, 61 FR 39321, July 29, 1996; ATF 2014R-42, 84 FR 12094, Apr. 1, 2019]
+(1) Liquidate the former licensee inventory by selling or otherwise disposing of the firearms to a licensed importer, licensed manufacturer, or licensed dealer for sale, auction, or pawn redemption in accordance with this part; or
+
+(2) Transfer the former licensee inventory to a responsible person of the former licensee to whom the receipt, possession, sale, or other disposition is not prohibited by law. Any such transfer, however, does not negate the fact that the firearms were repetitively purchased, and were purchased with the predominant intent to earn a profit by repetitive purchase and resale.
+
+(c) Transfers of former licensee inventory to a licensee or responsible person in accordance with paragraph (b)(1) or (2) of this section shall be appropriately recorded as dispositions, in accordance with § 478.122(b), § 478.123(b), or § 478.125(e), prior to delivering the records after discontinuing business consistent with § 478.127. Except for liquidation of former licensee inventory to a licensee within 30 days (or approved period) in accordance with paragraph (b)(1) of this section, or occasional sale of a firearm from such inventory thereafter to a licensee, a former licensee (or responsible person of such licensee) who resells any such inventory, including former licensee inventory transferred in accordance with paragraph (b)(2) of this section, is subject to the presumptions in § 478.13 (definition of “engaged in the business as a dealer in firearms other than a gunsmith or pawnbroker”) that apply to a person who repetitively purchased those firearms for the purpose of resale.
+
+(d) The former licensee shall not continue to engage in the business of importing, manufacturing, or dealing in firearms by importing or manufacturing additional firearms for purposes of sale or distribution, or purchasing additional firearms for resale (*i.e.,* “restocking”).
+
+[33 FR 18555, Dec. 14, 1968. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 44 FR 55842, Sept. 28, 1979; T.D. ATF-290, 54 FR 53055, Dec. 27, 1989; T.D. ATF-363, 60 FR 17453, Apr. 6, 1995; T.D. ATF-383, 61 FR 39321, July 29, 1996; ATF 2014R-42, 84 FR 12094, Apr. 1, 2019; ATF 2022R-17, 89 FR 29092, Apr. 19, 2024]

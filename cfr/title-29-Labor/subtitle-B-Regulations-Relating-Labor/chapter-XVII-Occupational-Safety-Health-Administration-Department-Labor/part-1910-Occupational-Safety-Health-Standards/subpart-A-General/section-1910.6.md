@@ -1,5 +1,7 @@
 ##### § 1910.6 Incorporation by reference. #####
 
+Link to an amendment published at 89 FR 44354, May 20, 2024.
+
 (a)(1) The standards of agencies of the U.S. Government, and organizations which are not agencies of the U.S. Government which are incorporated by reference in this part, have the same force and effect as other standards in this part. Only the mandatory provisions (i.e., provisions containing the word “shall” or other mandatory language) of standards incorporated by reference are adopted as standards under the Occupational Safety and Health Act.
 
 (2) Any changes in the standards incorporated by reference in this part and an official historic file of such changes are available for inspection in the Docket Office at the national office of the Occupational Safety and Health Administration, U.S. Department of Labor, Washington, DC 20210; telephone: 202-693-2350 (TTY number: 877-889-5627).

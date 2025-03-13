@@ -1,31 +1,17 @@
 ##### § 102-3.30 What policies govern the use of advisory committees? #####
 
-The policies to be followed by Federal departments and agencies in establishing and operating advisory committees consistent with the Act are as follows:
+These are the policies to be followed by Federal departments and agencies in establishing and operating advisory committees consistent with the Act:
 
-(a) *Determination of need in the public interest.* A discretionary advisory committee may be established only when it is essential to the conduct of agency business and when the information to be obtained is not already available through another advisory committee or source within the Federal Government. Reasons for deciding that an advisory committee is needed may include whether:
+(a) *Determination of need in the public interest.* A discretionary advisory committee may be established only when it is essential to the conduct of agency business and when the information to be obtained is not already available through another advisory committee or source within the Federal Government.
 
-(1) Advisory committee deliberations will result in the creation or elimination of (or change in) regulations, policies, or guidelines affecting agency business;
+(b) *Termination.* Advisory committees terminate pursuant to § 102-3.55.
 
-(2) The advisory committee will make recommendations resulting in significant improvements in service or reductions in cost; or
+(c) *Fairly balanced membership.* An advisory committee must be fairly balanced in its membership in terms of the points of view represented and the functions to be performed (as explained further in § 102-3.60).
 
-(3) The advisory committee's recommendations will provide an important additional perspective or viewpoint affecting agency operations.
+(d) *Open meetings.* Advisory committee meetings must be open to the public except when a meeting is closed or partially closed in accordance with the exemptions set forth in the Government in the Sunshine Act, 5 U.S.C. 552b(c).
 
-(b) *Termination.* An advisory committee must be terminated when:
+(1) *Compliance with the Rehabilitation Act of 1973, as amended.* With the support of the sponsoring Federal department or agency, the advisory committee must provide reasonable modifications for individuals with disabilities when the modifications are necessary to avoid discrimination on the basis of disability, unless the public entity can demonstrate that making the modifications would fundamentally alter the nature of the program or activity. The advisory committee must also take appropriate steps to ensure that communications with individuals with disabilities are as effective as communications with others, including by furnishing appropriate auxiliary aids and services where necessary to afford qualified individuals with disabilities an equal opportunity to participate in, and enjoy the benefits of, the advisory committee. Examples of auxiliary aids and services include qualified interpreters and information in alternate formats, such as braille or large print. In order to be effective, auxiliary aids and services must be provided in accessible formats, in a timely manner, and in such a way as to protect the privacy and independence of the individual with a disability. An advisory committee may not charge for the provision of auxiliary aids and services. An advisory committee is not required to provide an aid or service if it can demonstrate that providing that aid or service would result in a fundamental alteration in the nature of a program or activity or in undue financial and administrative burdens. Advisory committees should consider how to ensure that advisory committee members and members of the public are made aware that qualified individuals with disabilities are entitled to effective communication, including appropriate auxiliary aids and services. Advisory committees should also consider how to ensure that advisory committee members and members of the public are made aware of the option to request reasonable modifications in advance of meetings and should identify a point of contact to receive and respond to requests for reasonable modifications.
 
-(1) The stated objectives of the committee have been accomplished;
-
-(2) The subject matter or work of the committee has become obsolete by the passing of time or the assumption of the committee's functions by another entity;
-
-(3) The agency determines that the cost of operation is excessive in relation to the benefits accruing to the Federal Government;
-
-(4) In the case of a discretionary advisory committee, upon the expiration of a period not to exceed two years, unless renewed;
-
-(5) In the case of a non-discretionary advisory committee required by Presidential directive, upon the expiration of a period not to exceed two years, unless renewed by authority of the President; or
-
-(6) In the case of a non-discretionary advisory committee required by statute, upon the expiration of the time explicitly specified in the statute, or implied by operation of the statute.
-
-(c) *Balanced membership.* An advisory committee must be fairly balanced in its membership in terms of the points of view represented and the functions to be performed.
-
-(d) *Open meetings.* Advisory committee meetings must be open to the public except where a closed or partially-closed meeting has been determined proper and consistent with the exemption(s) of the Government in the Sunshine Act, 5 U.S.C. 552b(c), as the basis for closure.
+(2) *Ensuring language access and provision of language assistance services.* With the support of the sponsoring Federal department or agency, the advisory committee must ensure equal participation by individuals with limited English proficiency. This may include conducting outreach and providing notifications in the language(s) used by the affected communities and potential or actual advisory committee members, as well as providing language assistance services, including electronic and printed written translated documents and oral interpretation services free of charge and in a timely manner, when such services are necessary to provide meaningful access to a limited English proficient individual, consistent with title VI of the Civil Rights Act of 1964, 42 U.S.C. 2000d *et seq.,* and E.O. 13166, Improving Access to Services for Persons With Limited English Proficiency, 3 CFR, 2000 Comp., p. 289.
 
 (e) *Advisory functions only.* The function of advisory committees is advisory only, unless specifically provided by statute or Presidential directive.

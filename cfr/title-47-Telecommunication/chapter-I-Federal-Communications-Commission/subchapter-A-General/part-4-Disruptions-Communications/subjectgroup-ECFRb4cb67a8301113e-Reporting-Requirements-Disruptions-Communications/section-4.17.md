@@ -1,7 +1,5 @@
 ##### § 4.17 Mandatory Disaster Response Initiative. #####
 
-Link to an amendment published at 89 FR 20869, Mar. 26, 2024.
-
 (a) Facilities-based mobile wireless providers are required to perform, or have established, the following procedures when:
 
 (1) Any entity authorized to declare Emergency Support Function 2 (ESF-2) activates ESF-2 for a given emergency or disaster;
@@ -30,12 +28,6 @@ Link to an amendment published at 89 FR 20869, Mar. 26, 2024.
 
 (d) Providers subject to the requirements of paragraph (a) of this section are required retain RuDs for a period of at least one year after their expiration and supply copies of such agreements to the Commission promptly upon Commission request.
 
-(e)(1) This section may contain information collection and/or recordkeeping requirements. Compliance with this section will not be required until this paragraph (e) is removed or contains compliance dates, which will not occur until the later of:
+(e) Compliance with the provisions of this section is required beginning May 1, 2024.
 
-(i) 30 days after the Office of Management and Budget completes review of such requirements pursuant to the Paperwork Reduction Act or the Public Safety and Homeland Security Bureau determines that such review is not required; or
-
-(ii) June 30, 2023 for facilities-based mobile wireless service providers with 1,500 or fewer employees and March 30, 2023 for all other facilities-based mobile wireless service providers, except that compliance with paragraph (a)(3)(ii) of this section will not be required until 30 days after the compliance date for the other provisions of this section.
-
-(2) The Commission directs the Public Safety and Homeland Security Bureau to announce the compliance dates for this section by subsequent Public Notice and notification in the Federal Register and to cause this section to be revised accordingly.
-
-[87 FR 59339, Sept. 30, 2022]
+[87 FR 59339, Sept. 30, 2022, as amended at 89 FR 20869, Mar. 26, 2024]

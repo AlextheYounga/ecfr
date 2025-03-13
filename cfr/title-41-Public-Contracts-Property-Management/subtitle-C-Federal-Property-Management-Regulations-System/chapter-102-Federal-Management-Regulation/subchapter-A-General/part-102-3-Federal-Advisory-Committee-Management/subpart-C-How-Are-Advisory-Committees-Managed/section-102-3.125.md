@@ -1,9 +1,11 @@
-##### § 102-3.125 How should agencies consider the roles of advisory committee members and staff? #####
+##### § 102-3.125 What is required to be included in an agency's administrative guidelines to implement an advisory committee? #####
 
-FACA does not assign any specific responsibilities to members of advisory committees and staff, although both perform critical roles in achieving the goals and objectives assigned to advisory committees. Agency heads, Committee Management Officers (CMOs), and Designated Federal Officers (DFOs) should consider the distinctions between these roles and how they relate to each other in the development of agency guidelines implementing the Act and this Federal Advisory Committee Management part. In general, these guidelines should reflect:
+An agency's administrative guidelines provide the details that advisory committee staff need to implement FACA requirements during the creation, operation, and termination of their advisory committees.
 
-(a) *Clear operating procedures.* Clear operating procedures should provide for the conduct of advisory committee meetings and other activities, and specify the relationship among the advisory committee members, the DFO, and advisory committee or agency staff;
+(a) *Advisory committee bylaws.* Advisory committee bylaws should be developed by the agency, with advisory committee input and buy-in. Agency guidelines should specify the content of bylaws and ensure that they provide clear operating procedures for advisory committee meetings, other committee activities, and the relationship between committee members, the DFO, and agency staff.
 
-(b) *Agency operating policies.* In addition to compliance with the Act, advisory committee members and staff may be required to adhere to additional agency operating policies; and
+(b) *Advisory committee costs.* Agency guidelines must:
 
-(c) *Other applicable statutes.* Other agency-specific statutes and regulations may affect the agency's advisory committees directly or indirectly. Agencies should ensure that advisory committee members and staff understand these requirements.
+(1) Provide instructions on how to identify, calculate, and fully document advisory committee costs; and
+
+(2) Ensure agency committee cost records match the data reported to Congress and the public through the FACA database.

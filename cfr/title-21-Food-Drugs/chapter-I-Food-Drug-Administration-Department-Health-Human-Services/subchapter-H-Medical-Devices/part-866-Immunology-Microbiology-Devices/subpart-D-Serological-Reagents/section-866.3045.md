@@ -1,4 +1,4 @@
-##### § 866.3045 In vitro diagnostic device for *Bacillus* spp. detection. #####
+##### § 866.3045 In vitro diagnostic device for Bacillus spp. detection. #####
 
 (a) *Identification.* An in vitro diagnostic device for *Bacillus* species (spp.) detection is a prescription device used to detect and differentiate among *Bacillus* spp. and presumptively identify *B. anthracis* and other *Bacillus* spp. from cultured isolates or clinical specimens as an aid in the diagnosis of anthrax and other diseases caused by *Bacillus* spp. This device may consist of *Bacillus* spp. antisera conjugated with a fluorescent dye (immunofluorescent reagents) used to presumptively identify bacillus-like organisms in clinical specimens; bacteriophage used for differentiating *B. anthracis* from other *Bacillus* spp. based on susceptibility to lysis by the phage; or antigens used to identify antibodies to *B. anthracis* (anti-toxin and anti-capsular) in serum. Bacillus infections include anthrax (cutaneous, inhalational, or gastrointestinal) caused by *B. anthracis,* and gastrointestinal disease and non-gastrointestinal infections caused by *B.**cereus.*
 

@@ -1,0 +1,3 @@
+##### § 4.113 Coexisting abdominal conditions. #####
+
+There are diseases of the digestive system, particularly within the abdomen, which, while differing in the site of pathology, produce a common disability picture characterized in the main by varying degrees of abdominal distress or pain, anemia and disturbances in nutrition. Consequently, certain coexisting diseases in this area, as indicated in the instruction under the title “Diseases of the Digestive System,” do not lend themselves to distinct and separate disability evaluations without violating the fundamental principle relating to pyramiding as outlined in § 4.14.

@@ -1,5 +1,7 @@
 ##### § 229.11 Adjustment of dollar amounts. #####
 
+Link to an amendment published at 89 FR 43738, May 20, 2024.
+
 (a) *Dollar amounts indexed.* The dollar amounts specified in §§ 229.10(c)(1)(vii), 229.12(d), 229.13(a), 229.13(b), 229.13(d), and 229.21(a) shall be adjusted effective on July 1, 2020, on July 1, 2025, and on July 1 of every fifth year after 2025, in accordance with the procedure set forth in paragraph (b) of this section using the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W), as published by the Bureau of Labor Statistics.
 
 (b) *Indexing procedure*—(1) *Inflation measurement periods.* For dollar amount adjustments that are effective on July 1, 2020, the inflation measurement period begins in July 2011 and ends in July 2018. For dollar amount adjustments that are effective on July 1, 2025, the inflation measurement period begins in July 2018 and ends in July 2023. For dollar amount adjustments that are effective on July 1 of every fifth year after 2025, the inflation measurement period begins in July of every fifth year after 2018 and ends in July of every fifth year after 2023. Following each inflation measurement period, the dollar amount adjustments will be published in the Federal Register.

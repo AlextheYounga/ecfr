@@ -1,5 +1,7 @@
 ##### § 229.10 Next-day availability. #####
 
+Link to an amendment published at 89 FR 43738, May 20, 2024.
+
 (a) *Cash deposits.* (1) A bank shall make funds deposited in an account by cash available for withdrawal not later than the business day after the banking day on which the cash is deposited, if the deposit is made in person to an employee of the depositary bank.
 
 (2) A bank shall make funds deposited in an account by cash available for withdrawal not later than the second business day after the banking day on which the cash is deposited, if the deposit is not made in person to an employee of the depositary bank.

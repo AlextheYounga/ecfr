@@ -1,6 +1,6 @@
 ##### § 478.11 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 29089, Apr. 19, 2024.Link to an amendment published at 89 FR 28630, Apr. 19, 2024.
+Link to an amendment published at 89 FR 28630, Apr. 19, 2024.
 
 When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this subpart. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not enumerated which are in the same general class or are otherwise within the scope thereof.
 
@@ -80,7 +80,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Customs officer.* Any officer of U.S. Customs and Border Protection, any commissioned, warrant, or petty officer of the Coast Guard, or any agent or other person authorized by law to perform the duties of a customs officer.
 
-*Dealer.* Any person engaged in the business of selling firearms at wholesale or retail; any person engaged in the business of repairing firearms or of making or fitting special barrels, stocks, or trigger mechanisms to firearms; or any person who is a pawnbroker. The term shall include any person who engages in such business or occupation on a part-time basis.
+*Dealer.* Any person engaged in the business of selling firearms at wholesale or retail; any person engaged in the business of repairing firearms or of making or fitting special barrels, stocks, or trigger mechanisms to firearms; or any person who is a pawnbroker. The term shall include any person who engages in such business or occupation on a part-time basis. The term shall include such activities wherever, or through whatever medium, they are conducted, such as at a gun show or event, flea market, auction house, or gun range or club; at one's home; by mail order; over the internet (*e.g.,* online broker or auction); through the use of other electronic means (*e.g.,* text messaging service, social media raffle, or website); or at any other domestic or international public or private marketplace or premises.
 
 *Destructive device.* (a) Any explosive, incendiary, or poison gas (1) bomb, (2) grenade, (3) rocket having a propellant charge of more than 4 ounces, (4) missile having an explosive or incendiary charge of more than one-quarter ounce, (5) mine, or (6) device similar to any of the devices described in the preceding paragraphs of this definition; (b) any type of weapon (other than a shotgun or a shotgun shell which the Director finds is generally recognized as particularly suitable for sporting purposes) by whatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and (c) any combination of parts either designed or intended for use in converting any device into any destructive device described in paragraph (a) or (b) of this section and from which a destructive device may be readily assembled. The term shall not include any device which is neither designed nor redesigned for use as a weapon; any device, although originally designed for use as a weapon, which is redesigned for use as a signalling, pyrotechnic, line throwing, safety, or similar device; surplus ordnance sold, loaned, or given by the Secretary of the Army pursuant to the provisions of section 4684(2), 4685, or 4686 of title 10, United States Code; or any other device which the Director finds is not likely to be used as a weapon, is an antique, or is a rifle which the owner intends to use solely for sporting, recreational, or cultural purposes.
 
@@ -92,17 +92,25 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Division.* A Bureau of Alcohol, Tobacco, Firearms, and Explosives Division.
 
-*Engaged in the business*—(a) *Manufacturer of firearms.* A person who devotes time, attention, and labor to manufacturing firearms as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the firearms manufactured;
+*Engaged in the business*—(1) *Manufacturer of firearms.* A person who devotes time, attention, and labor to manufacturing firearms as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the firearms manufactured;
 
-(b) *Manufacturer of ammunition.* A person who devotes time, attention, and labor to manufacturing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition manufactured;
+(2) *Manufacturer of ammunition.* A person who devotes time, attention, and labor to manufacturing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition manufactured;
 
-(c) *Dealer in firearms other than a gunsmith or a pawnbroker.* A person who devotes time, attention, and labor to dealing in firearms as a regular course of trade or business with the principal objective of livelihood and profit through the repetitive purchase and resale of firearms, but such a term shall not include a person who makes occasional sales, exchanges, or purchases of firearms for the enhancement of a personal collection or for a hobby, or who sells all or part of his personal collection of firearms;
+(3) *Dealer in firearms other than a gunsmith or a pawnbroker.* The term “engaged in the business as a dealer in firearms other than a gunsmith or a pawnbroker” shall have the same meaning as in § 478.13.
 
-(d) *Gunsmith.* A person who, as a service performed on existing firearms not for sale or distribution, devotes time, attention, and labor to repairing or customizing firearms, making or fitting special barrels, stocks, or trigger mechanisms to firearms, or placing marks of identification on privately made firearms in accordance with this part, as a regular course of trade or business with the principal objective of livelihood and profit, but such term shall not include a person who occasionally repairs or customizes firearms (including identification), or occasionally makes or fits special barrels, stocks, or trigger mechanisms to firearms. In the case of firearms for purposes of sale or distribution, such term shall include a person who performs repairs (*e.g.,* by replacing worn or broken parts) on complete weapons, or places marks of identification on privately made firearms, but shall not include a person who manufactures firearms (*i.e.,* frames or receivers or complete weapons) by completion, assembly, or applying coatings, or otherwise making them suitable for use, requiring a license as a manufacturer;
+(4) *Gunsmith.* A person who, as a service performed on existing firearms not for sale or distribution, devotes time, attention, and labor to repairing or customizing firearms, making or fitting special barrels, stocks, or trigger mechanisms to firearms, or placing marks of identification on privately made firearms in accordance with this part, as a regular course of trade or business with the principal objective of livelihood and profit, but such term shall not include a person who occasionally repairs or customizes firearms (including identification), or occasionally makes or fits special barrels, stocks, or trigger mechanisms to firearms. In the case of firearms for purposes of sale or distribution, such term shall include a person who performs repairs (*e.g.,* by replacing worn or broken parts) on complete weapons, or places marks of identification on privately made firearms, but shall not include a person who manufactures firearms (*i.e.,* frames or receivers or complete weapons) by completion, assembly, or applying coatings, or otherwise making them suitable for use, requiring a license as a manufacturer;
 
-(e) *Importer of firearms.* A person who devotes time, attention, and labor to importing firearms as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the firearms imported; and,
+(5) *Importer of firearms.* A person who devotes time, attention, and labor to importing firearms as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the firearms imported; and,
 
-(f) *Importer of ammunition.* A person who devotes time, attention, and labor to importing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition imported.
+(6) *Importer of ammunition.* A person who devotes time, attention, and labor to importing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition imported.
+
+(7) *Related definitions.* For purposes of this definition—
+
+(i) The term “purchase” (and derivative terms thereof) means the act of obtaining a firearm in an agreed exchange for something of value;
+
+(ii) The term “sale” (and derivative terms thereof) means the act of disposing of a firearm in an agreed exchange for something of value, and the term “resale” means selling a firearm, including a stolen firearm, after it was previously sold by the original manufacturer or any other person; and
+
+(iii) The term “something of value” includes money, credit, personal property (*e.g.,* another firearm or ammunition), a service, a controlled substance, or any other medium of exchange or valuable consideration, legal or illegal.
 
 *Executed under penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to the return form, or other document or, where no form of declaration is prescribed, with the declaration:
 
@@ -113,6 +121,8 @@ When used in this part and in forms prescribed under this part, where not otherw
 *Firearm.* Any weapon, including a starter gun, which will or is designed to or may readily be converted to expel a projectile by the action of an explosive; the frame or receiver of any such weapon; any firearm muffler or firearm silencer; or any destructive device; but the term shall not include an antique firearm. In the case of a licensed collector, the term shall mean only curios and relics. The term shall include a weapon parts kit that is designed to or may readily be completed, assembled, restored, or otherwise converted to expel a projectile by the action of an explosive. The term shall not include a weapon, including a weapon parts kit, in which the frame or receiver of such weapon is destroyed as described in the definition “frame or receiver”.
 
 *Firearm muffler or firearm silencer.* Any device for silencing, muffling, or diminishing the report of a portable firearm, including any combination of parts, designed or redesigned, and intended for use in assembling or fabricating a firearm silencer or firearm muffler, and any part intended only for use in such assembly or fabrication.
+
+*Former licensee inventory.* Firearms that were in the business inventory of a licensee at the time the license was terminated. Such firearms differ from a personal collection and other personal firearms in that they were purchased repetitively before the license was terminated as part of a licensee's business inventory with the predominant intent to earn a profit.
 
 *Frame or receiver.* The term “frame or receiver” shall have the same meaning as in § 478.12.
 
@@ -192,21 +202,25 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Person.* Any individual, corporation, company, association, firm, partnership, society, or joint stock company.
 
+*Personal collection (or personal collection of firearms, or personal firearms collection)*—(1) *General definition.* Personal firearms that a person accumulates for study, comparison, exhibition (*e.g.,* collecting curios or relics, or collecting unique firearms to exhibit at gun club events), or for a hobby (*e.g.,* noncommercial, recreational activities for personal enjoyment, such as hunting, skeet, target, or competition shooting, historical re-enactment, or noncommercial firearms safety instruction). The term shall not include any firearm purchased for the purpose of resale with the predominant intent to earn a profit (*e.g.,* primarily for a commercial purpose or financial gain, as distinguished from personal firearms a person accumulates for study, comparison, exhibition, or for a hobby, but which the person may also intend to increase in value). In addition, the term shall not include firearms accumulated primarily for personal protection: *Provided,* that nothing in this definition shall be construed as precluding a person from lawfully acquiring firearms for self-protection or other lawful personal use.
+
+(2) *Personal collection of licensee.* In the case of a firearm imported, manufactured, or otherwise acquired by a licensed manufacturer, licensed importer, or licensed dealer, the term shall include only a firearm described in paragraph (1) of this definition that was—
+
+(i) Acquired or transferred without the intent to willfully evade the restrictions placed upon licensees under 18 U.S.C. chapter 44;
+
+(ii) Recorded by the licensee as an acquisition in the licensee's acquisition and disposition record in accordance with § 478.122(a), § 478.123(a), or § 478.125(e) (unless acquired prior to licensure and not intended for sale);
+
+(iii) Recorded as a disposition from the licensee's business inventory to the licensee's personal collection or otherwise as a personal firearm in accordance with § 478.122(a), § 478.123(a), or § 478.125(e) (unless acquired prior to licensure and not intended for sale);
+
+(iv) Maintained in such personal collection or otherwise as a personal firearm (whether on or off the business premises) for at least one year from the date the firearm was so transferred, in accordance with 18 U.S.C. 923(c) and 27 CFR 478.125a; and
+
+(v) Stored separately from, and not commingled with the business inventory. When stored or displayed on the business premises, the personal collection and other personal firearms shall be appropriately identified as “not for sale” (*e.g.,* by attaching a tag).
+
 *Pistol.* A weapon originally designed, made, and intended to fire a projectile (bullet) from one or more barrels when held in one hand, and having (a) a chamber(s) as an integral part(s) of, or permanently aligned with, the bore(s); and (b) a short stock designed to be gripped by one hand and at an angle to and extending below the line of the bore(s).
 
-*Principal objective of livelihood and profit.* The intent underlying the sale or disposition of firearms is predominantly one of obtaining livelihood and pecuniary gain, as opposed to other intents such as improving or liquidating a personal firearms collection: *Provided,* That proof of profit shall not be required as to a person who engages in the regular and repetitive purchase and disposition of firearms for criminal purposes or terrorism. For purposes of this part, the term “terrorism” means activity, directed against United States persons, which—
+*Predominantly earn a profit.* The term “predominantly earn a profit” shall have the same meaning as in § 478.13.
 
-(a) Is committed by an individual who is not a national or permanent resident alien of the United States;
-
-(b) Involves violent acts or acts dangerous to human life which would be a criminal violation if committed within the jurisdiction of the United States; and
-
-(c) Is intended—
-
-(1) To intimidate or coerce a civilian population;
-
-(2) To influence the policy of a government by intimidation or coercion; or
-
-(3) To affect the conduct of a government by assassination or kidnapping.
+*Principal objective of livelihood and profit.* The intent underlying the sale or disposition of firearms is predominantly one of obtaining livelihood and pecuniary gain, as opposed to other intents such as improving or liquidating a personal firearms collection: *Provided,* That proof of profit shall not be required as to a person who engages in the regular and repetitive purchase and disposition of firearms for criminal purposes or terrorism.
 
 *Privately made firearm (PMF).* A firearm, including a frame or receiver, completed, assembled, or otherwise produced by a person other than a licensed manufacturer, and without a serial number placed by a licensed manufacturer at the time the firearm was produced. The term shall not include a firearm identified and registered in the National Firearms Registration and Transfer Record pursuant to chapter 53, title 26, United States Code, or any firearm manufactured or made before October 22, 1968 (unless remanufactured or remade after that date).
 
@@ -237,6 +251,8 @@ When used in this part and in forms prescribed under this part, where not otherw
 (2) Before an officer designated by the Attorney General when the United States is in a state of war pursuant to 8 U.S.C. 1481(a)(6).
 
 (b) The term shall not include any renunciation of citizenship that has been reversed as a result of administrative or judicial appeal.
+
+*Responsible person.* Any individual possessing, directly or indirectly, the power to direct or cause the direction of the management and policies of a sole proprietorship, corporation, company, partnership, or association, insofar as they pertain to firearms.
 
 *Revolver.* A projectile weapon, of the pistol type, having a breechloading chambered cylinder so arranged that the cocking of the hammer or movement of the trigger rotates it and brings the next cartridge in line with the barrel for firing.
 
@@ -335,6 +351,20 @@ When used in this part and in forms prescribed under this part, where not otherw
 *State of residence.* The State in which an individual resides. An individual resides in a State if he or she is present in a State with the intention of making a home in that State. If an individual is on active duty as a member of the Armed Forces, the individual's State of residence is the State in which his or her permanent duty station is located, as stated in 18 U.S.C. 921(b). The following are examples that illustrate this definition:
 
 Example 1.A maintains a home in State X. A travels to State Y on a hunting, fishing, business, or other type of trip. A does not become a resident of State Y by reason of such trip.Example 2.A maintains a home in State X and a home in State Y. A resides in State X except for weekends or the summer months of the year and in State Y for the weekends or the summer months of the year. During the time that A actually resides in State X, A is a resident of State X, and during the time that A actually resides in State Y, A is a resident of State Y.Example 3.A, an alien, travels to the United States on a three-week vacation to State X. A does not have a state of residence in State X because A does not have the intention of making a home in State X while on vacation. This is true regardless of the length of the vacation.Example 4.A, an alien, travels to the United States to work for three years in State X. A rents a home in State X, moves his personal possessions into the home, and his family resides with him in the home. A intends to reside in State X during the 3-year period of his employment. A is a resident of State X.
+
+*Terrorism.* For purposes of the definitions “predominantly earn a profit” and “principal objective of livelihood and profit,” the term “terrorism” means activity, directed against United States persons, which—
+
+(1) Is committed by an individual who is not a national or permanent resident alien of the United States;
+
+(2) Involves violent acts or acts dangerous to human life which would be a criminal violation if committed within the jurisdiction of the United States; and
+
+(3) Is intended—
+
+(i) To intimidate or coerce a civilian population;
+
+(ii) To influence the policy of a government by intimidation or coercion; or
+
+(iii) To affect the conduct of a government by assassination or kidnapping.
 
 *Unlawful user of or addicted to any controlled substance.* A person who uses a controlled substance and has lost the power of self-control with reference to the use of controlled substance; and any person who is a current user of a controlled substance in a manner other than as prescribed by a licensed physician. Such use is not limited to the use of drugs on a particular day, or within a matter of days or weeks before, but rather that the unlawful use has occurred recently enough to indicate that the individual is actively engaged in such conduct. A person may be an unlawful current user of a controlled substance even though the substance is not being used at the precise time the person seeks to acquire a firearm or receives or possesses a firearm. An inference of current use may be drawn from evidence of a recent use or possession of a controlled substance or a pattern of use or possession that reasonably covers the present time, e.g., a conviction for use or possession of a controlled substance within the past year; multiple arrests for such offenses within the past 5 years if the most recent arrest occurred within the past year; or persons found through a drug test to use a controlled substance unlawfully, provided that the test was administered within the past year. For a current or former member of the Armed Forces, an inference of current use may be drawn from recent disciplinary or other administrative action based on confirmed drug use, e.g., court-martial conviction, nonjudicial punishment, or an administrative discharge based on drug use or drug rehabilitation failure.
 
