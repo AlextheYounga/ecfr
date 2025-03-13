@@ -1,5 +1,7 @@
 ##### § 457.167 Pecan revenue crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 53846, June 27, 2024.
+
 The Pecan Revenue Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
 FCIC policies:United States Department of AgricultureFederal Crop Insurance CorporationReinsured policies: (Appropriate title for insurance provider)Both FCIC and reinsured policies: Pecan Revenue Crop Insurance Provisions1. Definitions

@@ -1,5 +1,7 @@
 ##### § 457.140 Dry pea crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 53841, June 27, 2024.
+
 The Dry Pea Crop Insurance Provisions for the 2022 and succeeding crop years are as follows:
 
 FCIC policies:

@@ -1,5 +1,7 @@
 ##### § 457.101 Small grains crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 53834, June 27, 2024.
+
 The Small Grains Crop Insurance Provisions for the 2023 and succeeding crop years for crops with a contract change date on or after November 30, 2022, and for the 2024 and succeeding crop years with a contract change date prior to November 30, 2022, are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationSmall Grains Crop Provisions1. Definitions

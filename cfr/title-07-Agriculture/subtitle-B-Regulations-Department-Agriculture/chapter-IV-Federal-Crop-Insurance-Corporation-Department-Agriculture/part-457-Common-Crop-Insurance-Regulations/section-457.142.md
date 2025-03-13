@@ -1,5 +1,7 @@
 ##### § 457.142 Northern potato crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 53842, June 27, 2024.
+
 The Northern Potato Crop Insurance Provisions for the 2017 and succeeding crop years are as follows:
 
 FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Northern Potato Crop Provisions

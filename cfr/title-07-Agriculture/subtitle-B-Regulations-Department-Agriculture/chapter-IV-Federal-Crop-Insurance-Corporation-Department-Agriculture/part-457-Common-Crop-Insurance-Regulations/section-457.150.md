@@ -1,5 +1,7 @@
 ##### § 457.150 Dry bean crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 53843, June 27, 2024.
+
 The Dry Bean Crop Insurance Provisions for the 2022 and succeeding crop years are as follows:
 
 FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured PoliciesDry Bean Crop Provisions

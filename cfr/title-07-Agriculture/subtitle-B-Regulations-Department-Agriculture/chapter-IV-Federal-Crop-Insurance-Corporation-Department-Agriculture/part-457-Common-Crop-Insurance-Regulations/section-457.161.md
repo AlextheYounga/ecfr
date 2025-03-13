@@ -1,5 +1,7 @@
 ##### § 457.161 Canola and rapeseed crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 53844, June 27, 2024.
+
 The Canola and Rapeseed Crop Insurance Provisions for the 2021 and succeeding crop years are as follows:
 
 FCIC policies:Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Canola and Rapeseed Crop Provisions1. Definitions

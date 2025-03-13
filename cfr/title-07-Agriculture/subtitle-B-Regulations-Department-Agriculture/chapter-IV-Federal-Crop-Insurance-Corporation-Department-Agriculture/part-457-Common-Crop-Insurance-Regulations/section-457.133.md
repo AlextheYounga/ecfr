@@ -1,5 +1,7 @@
 ##### § 457.133 Prune crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 53840, June 27, 2024.
+
 The Prune Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
 FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Prune Crop Provisions1. Definitions

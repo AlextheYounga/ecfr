@@ -1,5 +1,7 @@
 ##### § 457.121 Arizona-California citrus crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 53837, June 27, 2024.
+
 The Arizona-California citrus crop insurance provisions for the 2025 and succeeding crop years are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationArizona-California Citrus Crop Provisions1. Definitions

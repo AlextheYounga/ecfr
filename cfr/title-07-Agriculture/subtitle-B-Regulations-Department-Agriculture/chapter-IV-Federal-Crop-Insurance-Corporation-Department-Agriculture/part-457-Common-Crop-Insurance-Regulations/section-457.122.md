@@ -1,5 +1,7 @@
 ##### § 457.122 Walnut crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 53838, June 27, 2024.
+
 The Walnut Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
 FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)

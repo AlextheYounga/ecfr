@@ -1,5 +1,7 @@
 ##### § 457.123 Almond crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 53839, June 27, 2024.
+
 The Almond Crop Insurance Provisions for the 2008 and succeeding crop years are as follows:
 
 FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured PoliciesAlmond Crop Provisions

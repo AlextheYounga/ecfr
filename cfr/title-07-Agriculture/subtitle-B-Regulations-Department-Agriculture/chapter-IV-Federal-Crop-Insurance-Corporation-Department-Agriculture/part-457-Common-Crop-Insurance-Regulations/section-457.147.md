@@ -1,5 +1,7 @@
 ##### § 457.147 Central and Southern potato crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 53843, June 27, 2024.
+
 The Central and Southern Potato Crop Insurance Provisions for the 2017 and succeeding crop years in counties with a contract change date of November 30, and for the 2018 and succeeding crop years in counties with a contract change date of June 30 and September 30, are as follows:
 
 FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Central and Southern Potato Crop Provisions

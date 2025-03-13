@@ -1,5 +1,7 @@
 ##### § 457.8 The application and policy. #####
 
+Link to an amendment published at 89 FR 53830, June 27, 2024.
+
 (a) Application for insurance on a form prescribed by the Corporation, or approved by the Corporation, must be made by any person who wishes to participate in the program, to cover such person's share in the insured crop as landlord, owner-operator, crop ownership interest, or tenant. No other person's interest in the crop may be insured under an application unless that person's interest is clearly shown on the application and unless that other person's interest is insured in accordance with the procedures of the Corporation. The application must be submitted to the Corporation or the reinsured company through the crop insurance agent and must be submitted on or before the applicable sales closing date on file.
 
 (b) FCIC or the reinsured company may reject or discontinue the acceptance of applications in any county or of any individual application upon FCIC's determination that the insurance risk is excessive.

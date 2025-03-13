@@ -1,6 +1,6 @@
 ##### § 680.42 Limitations on use of QS, PQS, IFQ, and IPQ. #####
 
-Link to an amendment published at 89 FR 47877, June 4, 2024.
+Link to an amendment published at 89 FR 47877, June 4, 2024.Link to a correction published at 89 FR 53532, June 27, 2024.
 
 (a) *QS and IFQ use caps*—(1) *General.* Separate and distinct QS and IFQ use caps apply to all QS and IFQ categories pertaining to a given crab QS fishery with the following provisions:
 

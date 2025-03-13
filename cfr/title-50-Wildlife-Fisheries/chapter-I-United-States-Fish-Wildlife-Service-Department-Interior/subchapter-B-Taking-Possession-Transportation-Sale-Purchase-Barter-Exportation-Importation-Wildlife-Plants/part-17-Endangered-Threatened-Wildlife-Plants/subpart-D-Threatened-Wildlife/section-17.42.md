@@ -1,5 +1,7 @@
 ##### § 17.42 Species-specific rules—reptiles. #####
 
+Link to an amendment published at 89 FR 53528, June 27, 2024.
+
 (a) American alligator (*Alligator mississippiensis*)—(1) *Definitions.* For purposes of this paragraph (a) the following definitions apply:
 
 (i) *American alligator* means any specimen of the species *Alligator mississippiensis*, whether alive or dead, including any skin, part, product, egg, or offspring thereof held in captivity or from the wild.

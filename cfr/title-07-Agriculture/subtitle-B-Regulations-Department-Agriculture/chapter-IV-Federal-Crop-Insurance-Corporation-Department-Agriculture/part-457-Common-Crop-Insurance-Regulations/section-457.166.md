@@ -1,5 +1,7 @@
 ##### § 457.166 Blueberry crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 53845, June 27, 2024.
+
 The Blueberry Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
 FCIC policies:United States Department of AgricultureFederal Crop Insurance CorporationReinsured policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Blueberry Crop Insurance Provisions1. Definitions

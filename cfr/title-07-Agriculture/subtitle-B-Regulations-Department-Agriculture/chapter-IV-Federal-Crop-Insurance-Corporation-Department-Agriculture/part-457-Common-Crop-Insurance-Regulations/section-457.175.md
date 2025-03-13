@@ -1,5 +1,7 @@
 ##### § 457.175 California avocado crop insurance provisions. #####
 
+Link to an amendment published at 89 FR 53847, June 27, 2024.
+
 The California avocado crop provisions for the 2025 and succeeding crop years are as follows:
 
 FCIC policies:
