@@ -50,4 +50,4 @@ Pursuant to Section 14 of the FTZ Act (19 U.S.C. 81n), a grantee shall afford to
 
 (h) *Identification of person undertaking function(s) on behalf of grantee.* The Board, the Commerce Department's Assistant Secretary for Enforcement and Compliance, or the Executive Secretary, may require a zone grantee to identify any person undertaking a zone-related function(s) on behalf of the grantee.
 
-[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8530, Feb. 8, 2024]Effective Date Note:At 77 FR 12139, Feb. 28, 2012, § 400.43 was added. Paragraph (f) of this section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8530, Feb. 8, 2024]

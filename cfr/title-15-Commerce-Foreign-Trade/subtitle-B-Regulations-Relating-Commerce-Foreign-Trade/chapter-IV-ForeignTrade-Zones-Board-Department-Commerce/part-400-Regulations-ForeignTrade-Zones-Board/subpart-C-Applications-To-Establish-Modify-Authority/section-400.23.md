@@ -31,5 +31,3 @@ In addition to any applicable requirements set forth in § 400.21, an applicatio
 (11) Economic impact of the operation on the area; and
 
 (d) Any additional information requested by the Board or the Executive Secretary in order to conduct the review.
-
-Effective Date Note:At 77 FR 12139, Feb. 28, 2012, § 400.23 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

@@ -100,4 +100,4 @@
 
 (i) *Submission of completed application.* The applicant shall submit the complete application, including all attachments, via email or by the method prescribed by the Executive Secretary pursuant to § 400.4(m).
 
-[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8528, Feb. 8, 2024]Effective Date Note:At 77 FR 12139, Feb. 28, 2012, § 400.21 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8528, Feb. 8, 2024]
