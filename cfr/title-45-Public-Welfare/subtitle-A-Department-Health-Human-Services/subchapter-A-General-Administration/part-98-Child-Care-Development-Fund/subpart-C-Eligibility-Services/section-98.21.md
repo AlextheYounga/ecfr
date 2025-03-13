@@ -1,7 +1,5 @@
 ##### § 98.21 Eligibility determination processes. #####
 
-Link to an amendment published at 89 FR 15413, Mar. 1, 2024.
-
 (a) A Lead Agency shall re-determine a child's eligibility for child care services no sooner than 12 months following the initial determination or most recent redetermination, subject to the following:
 
 (1) During the period of time between determinations or redeterminations, if the child met all of the requirements in § 98.20(a) on the date of the most recent eligibility determination or redetermination, the child shall be considered eligible and will receive services at least at the same level, regardless of:
@@ -28,7 +26,7 @@ Link to an amendment published at 89 FR 15413, Mar. 1, 2024.
 
 (ii) At the end of the minimum three-month period of continued assistance, if the parent is engaged in a qualifying work, education, or training activity with income below 85% of SMI, assistance cannot be terminated and the child must continue receiving assistance until the next scheduled re-determination, or at Lead Agency option, for an additional minimum 12—month eligibility period.
 
-(iii) If a Lead Agency chooses to initially qualify a family for CCDF assistance based a parent's status of seeking employment or engaging in job search, the Lead Agency has the option to end assistance after a minimum of three months if the parent has still not found employment, although assistance must continue if the parent becomes employed during the job search period.
+(iii) If a Lead Agency chooses to initially qualify a family for CCDF assistance based on a parent's status of seeking employment or engaging in job search, the Lead Agency has the option to end assistance after a minimum of three months if the parent has still not found employment, although assistance must continue if the parent becomes employed during the job search period.
 
 (3) Lead Agencies cannot increase family co-payment amounts, established in accordance with § 98.45(k), within the minimum 12-month eligibility period except as described in paragraph (b)(3) of this section.
 
@@ -66,9 +64,37 @@ Link to an amendment published at 89 FR 15413, Mar. 1, 2024.
 
 (c) The Lead Agency shall establish processes for initial determination and redetermination of eligibility that take into account irregular fluctuation in earnings, including policies that ensure temporary increases in income, including temporary increases that result in monthly income exceeding 85 percent of SMI (calculated on a monthly basis), do not affect eligibility or family co-payments.
 
-(d) The Lead Agency shall establish procedures and policies to ensure parents, especially parents receiving assistance through the Temporary Assistance for Needy Families (TANF) program, are not required to unduly disrupt their education, training, or employment in order to complete the eligibility redetermination process.
+(d) The Lead Agency shall establish policies and processes to incorporate additional eligible children in the family size (*e.g.,* siblings or foster siblings), including ensuring a minimum of 12 months of eligibility between eligibility determination and redetermination as described in paragraph (a) of this section for children previously determined eligible and for new children who are determined eligible, without placing undue reporting burden on families.
 
-(e) The Lead Agency shall specify in the Plan any requirements for parents to notify the Lead Agency of changes in circumstances during the minimum 12-month eligibility period, and describe efforts to ensure such requirements do not place an undue burden on eligible families that could impact continued eligibility between redeterminations.
+(e) At a Lead Agency's option, a child may be considered presumptively eligible for up to three months and begin to receive child care subsidy prior to full documentation and eligibility determination:
+
+(1) The Lead Agency may issue presumptive eligibility prior to full documentation of a child's eligibility if the Lead Agency first obtains a less burdensome minimum verification requirement from the family.
+
+(2) If, after full documentation is provided, a child is determined to be ineligible, the Lead Agency shall ensure that a child care provider is paid and shall not recover funds paid or owed to a child care provider for services provided as a result of the presumptive eligibility determination except in cases of fraud or intentional program violation by the provider.
+
+(3) Any CCDF payment made on behalf of a presumptively eligible child prior to the final eligibility determination shall not be considered an error or improper payment under subpart K of this part and will not be subject to disallowance so long as the payment was not for a service period longer than the period of presumptive eligibility.
+
+(4) If a child is determined to be eligible, the period of presumptive eligibility will apply to the minimum of 12 months of eligibility prior to re-determination described in paragraph (a) of this section.
+
+(5) The Secretary may deny the use of federal funds for direct services under presumptive eligibility for Lead Agencies under a corrective action plan for error rate reporting pursuant to § 98.102(c).
+
+(f) The Lead Agency shall establish procedures and policies to ensure parents, especially parents receiving assistance through the Temporary Assistance for Needy Families (TANF) program are not required to unduly disrupt their education, training, or employment in order to complete the eligibility determination or re-determination process, including the use of online applications and other measures, to the extent practicable.
+
+(g) At the Lead Agency's option, enrollment in other benefit programs or documents or verification used for other benefit programs may be used to verify eligibility as appropriate according to § 98.68(c) for CCDF, such as:
+
+(1) Benefit programs with income eligibility requirements aligned with the income eligibility at § 98.20(a)(2)(i) may be used to verify a family's income eligibility; and
+
+(2) Benefit programs with other eligibility requirements aligned with § 98.20(a)(3) may verify:
+
+(i) A family's work or attendance at a job training or educational program;
+
+(ii) A family's status as receiving, or need to receive, protective services; or
+
+(iii) Other information needed for eligibility.
+
+(h) The Lead Agency shall establish procedures and policies to ensure parents, especially parents receiving assistance through the Temporary Assistance for Needy Families (TANF) program, are not required to unduly disrupt their education, training, or employment in order to complete the eligibility redetermination process.
+
+(i) The Lead Agency shall specify in the Plan any requirements for parents to notify the Lead Agency of changes in circumstances during the minimum 12-month eligibility period, and describe efforts to ensure such requirements do not place an undue burden on eligible families that could impact continued eligibility between redeterminations.
 
 (1) The Lead Agency must require families to report a change at any point during the minimum 12-month period, limited to:
 
@@ -92,8 +118,8 @@ Link to an amendment published at 89 FR 15413, Mar. 1, 2024.
 
 (ii) Lead Agencies are prohibited from acting on information that would reduce the family's subsidy unless the information provided indicates the family's income exceeds 85 percent of SMI for a family of the same size, taking into account irregular income fluctuations, or, at the option of the Lead Agency, the family has experienced a non-temporary change in the work, training, or educational status.
 
-(f) Lead Agencies must take into consideration children's development and learning and promote continuity of care when authorizing child care services.
+(j) Lead Agencies must take into consideration children's development and learning and promote continuity of care when authorizing child care services.
 
-(g) Lead Agencies are not required to limit authorized child care services strictly based on the work, training, or educational schedule of the parent(s) or the number of hours the parent(s) spend in work, training, or educational activities.
+(k) Lead Agencies are not required to limit authorized child care services strictly based on the work, training, or educational schedule of the parent(s) or the number of hours the parent(s) spend in work, training, or educational activities.
 
-[81 FR 67579, Sept. 30, 2016]
+[81 FR 67579, Sept. 30, 2016, as amended at 89 FR 15413, Mar. 1, 2024]

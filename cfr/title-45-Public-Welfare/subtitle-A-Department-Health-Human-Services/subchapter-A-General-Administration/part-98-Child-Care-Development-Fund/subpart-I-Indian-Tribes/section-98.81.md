@@ -1,7 +1,5 @@
 ##### § 98.81 Application and Plan procedures. #####
 
-Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
-
 (a) In order to receive CCDF funds, a Tribal Lead Agency shall apply for funds pursuant to § 98.13, except that the requirement at § 98.13(b)(2) does not apply.
 
 (b) Tribal Lead Agencies with large and medium allocations shall submit a CCDF Plan, as described at § 98.16, with the following additions and exceptions:
@@ -46,11 +44,17 @@ Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
 
 (vi) A description at § 98.16(i)(4) of how the Lead Agency will meet the needs of certain families specified at § 98.50(e);
 
-(vii) The description of the market rate survey or alternative methodology at § 98.16(r);
+(vii) The description of the sliding fee scale at § 98.16(k);
 
-(viii) The description relating to Matching Funds at § 98.16(w); and
+(viii) The description of the market rate survey or alternative methodology at § 98.16(r);
 
-(ix) The description of how the Lead Agency prioritizes increasing access to high-quality child care in areas with high concentration of poverty at § 98.16(y).
+(ix) The description relating to Matching Funds at § 98.16(w);
+
+(x) The description of how the Lead Agency uses grants or contracts for supply building at § 98.16(z);
+
+(xi) The description of how the Lead Agency prioritizes increasing access to high-quality child care in areas with high concentration of poverty at § 98.16(aa); and
+
+(xii) The description of provider payment practices at § 98.16(ee).
 
 (7) In its initial Plan, an Indian Tribe shall describe its current service delivery capability pursuant to § 98.80(b)(2).
 
@@ -72,4 +76,4 @@ Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
 
 (c) Tribal Lead Agencies with small allocations shall submit an abbreviated CCDF Plan, as described by the Secretary.
 
-[63 FR 39981, July 24, 1998, as amended at 81 FR 67593, Sept. 30, 2016]
+[63 FR 39981, July 24, 1998, as amended at 81 FR 67593, Sept. 30, 2016; 89 FR 15416, Mar. 1, 2024]

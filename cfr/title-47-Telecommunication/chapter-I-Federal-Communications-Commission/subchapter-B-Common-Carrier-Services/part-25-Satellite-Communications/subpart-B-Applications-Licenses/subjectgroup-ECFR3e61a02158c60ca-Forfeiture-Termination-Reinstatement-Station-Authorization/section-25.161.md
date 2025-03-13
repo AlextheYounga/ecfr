@@ -1,5 +1,7 @@
 ##### § 25.161 Automatic termination of station authorization. #####
 
+Link to an amendment published at 89 FR 34167, Apr. 30, 2024.
+
 A station authorization shall be automatically terminated in whole or in part without further notice to the licensee upon:
 
 (a)(1) The failure to meet an applicable milestone specified in § 25.164(a) or (b), if no authorized space station is functional in orbit;

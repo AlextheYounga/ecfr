@@ -1,5 +1,7 @@
 ##### § 740.3 Shipments of limited value (LVS). #####
 
+Link to an amendment published at 89 FR 34702, Apr. 30, 2024.
+
 (a) *Scope.* License Exception LVS authorizes the export and reexport in a single shipment of eligible commodities as identified by “LVS - $(value limit)” on the CCL.
 
 (b) *Eligible destinations.* This License Exception is available for all destinations in Country Group B (see supplement no. 1 to part 740), provided that the net value of the commodities included in the same order and controlled under the same ECCN entry on the CCL does not exceed the amount specified in the LVS paragraph for that entry.

@@ -1,7 +1,5 @@
 ##### § 98.15 Assurances and certifications. #####
 
-Link to an amendment published at 89 FR 15412, Mar. 1, 2024.
-
 (a) The Lead Agency shall include the following assurances in its CCDF Plan:
 
 (1) Upon approval, it will have in effect a program that complies with the provisions of the CCDF Plan, and that is administered in accordance with the Child Care and Development Block Grant Act of 1990, as amended, section 418 of the Social Security Act, and all other applicable Federal laws and regulations;
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 15412, Mar. 1, 2024.
 
 (7) Training and professional development requirements comply with § 98.44 and are applicable to caregivers, teaching staff, and directors working for child care providers of services for which assistance is provided under the CCDF.
 
-(8) To the extent practicable, enrollment and eligibility policies support the fixed costs of providing child care services by delinking provider payment rates from an eligible child's occasional absences in accordance with § 98.45(l).
+(8) To the extent practicable, enrollment and eligibility policies support the fixed costs of providing child care services by delinking provider payment rates from an eligible child's occasional absences in accordance with § 98.45(m);
 
 (9) The State will maintain or implement early learning and developmental guidelines that are developmentally appropriate for all children from birth to kindergarten entry, describing what such children should know and be able to do, and covering the essential domains of early childhood development (cognition, including language arts and mathematics; social, emotional and physical development; and approaches toward learning) for use statewide by child care providers and caregivers. Such guidelines shall—
 
@@ -68,8 +66,8 @@ Link to an amendment published at 89 FR 15412, Mar. 1, 2024.
 
 (11) Payment rates for the provision of child care services, in accordance with § 98.45, are sufficient to ensure equal access for eligible children to comparable child care services in the State or sub-State area that are provided to children whose parents are not eligible to receive assistance under this program or under any other Federal or State child care assistance programs;
 
-(12) Payment practices of child care providers of services for which assistance is provided under the CCDF reflect generally-accepted payment practices of child care providers that serve children who do not receive CCDF assistance, pursuant to § 98.45(l); and
+(12) Payment practices of child care providers of services for which assistance is provided under the CCDF reflect generally accepted payment practices of child care providers that serve children who do not receive CCDF assistance, pursuant to § 98.45(m); and
 
 (13) There are in effect policies to govern the use and disclosure of confidential and personally identifiable information about children and families receiving CCDF assistance and child care providers receiving CCDF funds.
 
-[63 FR 39981, July 24, 1998, as amended at 81 FR 67575, Sept. 30, 2016]
+[63 FR 39981, July 24, 1998, as amended at 81 FR 67575, Sept. 30, 2016; 89 FR 15412, Mar. 1, 2024]

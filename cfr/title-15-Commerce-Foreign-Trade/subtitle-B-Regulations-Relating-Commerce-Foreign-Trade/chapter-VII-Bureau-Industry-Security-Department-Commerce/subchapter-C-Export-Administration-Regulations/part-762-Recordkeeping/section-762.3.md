@@ -1,5 +1,7 @@
 ##### § 762.3 Records exempt from recordkeeping requirements. #####
 
+Link to an amendment published at 89 FR 34710, Apr. 30, 2024.
+
 (a) The following types of records have been determined to be exempt from the recordkeeping requirement procedures:
 
 (1) Export information page;

@@ -1,5 +1,7 @@
 ##### § 115.13 Eligibility of Principal. #####
 
+Link to an amendment published at 89 FR 34101, Apr. 30, 2024.
+
 (a) *General eligibility.* In order to be eligible for a bond guaranteed by SBA, the Principal must comply with the following requirements:
 
 (1) *Size.* Together with its Affiliates, it must qualify as a small business under part 121 of this title.

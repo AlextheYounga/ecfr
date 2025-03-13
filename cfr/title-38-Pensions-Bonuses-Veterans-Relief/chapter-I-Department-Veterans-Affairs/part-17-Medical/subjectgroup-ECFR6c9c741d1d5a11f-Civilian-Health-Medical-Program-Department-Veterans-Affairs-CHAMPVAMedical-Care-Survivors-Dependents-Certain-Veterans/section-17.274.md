@@ -1,5 +1,7 @@
 ##### § 17.274 Cost sharing. #####
 
+Link to an amendment published at 89 FR 34137, Apr. 30, 2024.
+
 (a) *Cost sharing generally.* CHAMPVA is a cost sharing program in which the cost of covered services is shared with the CHAMPVA beneficiary. CHAMPVA pays the CHAMPVA determined allowable amount less the CHAMPVA deductible, if applicable, and less the CHAMPVA beneficiary cost-share.
 
 (1) CHAMPVA beneficiary cost-share requirements do not apply to the following:

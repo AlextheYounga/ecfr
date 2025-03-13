@@ -1,5 +1,7 @@
 ##### § 742.17 Exports of firearms to OAS member countries. #####
 
+Link to an amendment published at 89 FR 34705, Apr. 30, 2024.
+
 (a) *License requirements.* BIS maintains a licensing system for the export of firearms and related items to all OAS member countries. This action is based on the Organization of American States (OAS) Model Regulations for the Control of the International Movement of Firearms, their Parts and Components and Munitions (OAS Model Regulations) which were developed to assist OAS member countries to implement the Inter-American Convention Against the Illicit Manufacturing of and Trafficking in Firearms, Ammunition, Explosives, and Other Related Materials (Firearms Convention).2 Items subject to these controls are identified by “FC Column 1” in the “License Requirements” section of their Export Control Classification Number (ECCN) on the Commerce Control List (CCL). If “FC Column 1” of the Commerce Country Chart (supplement no. 1 to part 738 of the EAR) is indicated for a particular country, a license is required for export to that destination. Licenses will generally be issued on a Firearms Convention (FC) Import Certificate or equivalent official document, satisfactory to BIS, issued by the government of the importing OAS member country.
 
 2 Status of Convention as of April 13, 1999 had not entered into force.

@@ -1,7 +1,5 @@
 ##### § 98.16 Plan provisions. #####
 
-Link to an amendment published at 89 FR 15412, Mar. 1, 2024.
-
 A CCDF Plan shall contain the following:
 
 (a) Specification of the Lead Agency whose duties and responsibilities are delineated in § 98.10;
@@ -46,13 +44,19 @@ A CCDF Plan shall contain the following:
 
 (3) Processes that take into account irregular fluctuation in earnings, pursuant to § 98.21(c);
 
-(4) Procedures and policies to ensure that parents are not required to unduly disrupt their education, training, or employment to complete eligibility redetermination, pursuant to § 98.21(d);
+(4) Processes to incorporate additional eligible children in the family size in accordance with § 98.21(d);
 
-(5) Limiting any requirements to report changes in circumstances in accordance with § 98.21(e);
+(5) Procedures and policies for presumptive eligibility in accordance with § 98.21(e), including procedures for tracking the number of presumptively eligible children;
 
-(6) Policies that take into account children's development and learning when authorizing child care services pursuant to § 98.21(f); and
+(6) Procedures and policies to ensure that parents are not required to unduly disrupt their education, training, or employment to complete initial eligibility determination or re-determination, pursuant to § 98.21(f);
 
-(7) Other policies and practices such as timely eligibility determination and processing of applications;
+(7) Processes for using eligibility for other programs to verify eligibility for CCDF in accordance with § 98.21(g);
+
+(8) Limiting any requirements to report changes in circumstances in accordance with § 98.21(h);
+
+(9) Policies that take into account children's development and learning when authorizing child care services pursuant to § 98.21(i); and,
+
+(10) Other policies and practices such as timely eligibility determination and processing of applications;
 
 (i) For child care services pursuant to § 98.50:
 
@@ -68,7 +72,7 @@ A CCDF Plan shall contain the following:
 
 (j) A description of the activities to provide comprehensive consumer and provider education, including the posting of monitoring and inspection reports, pursuant to § 98.33, to increase parental choice, and to improve the quality of child care, pursuant to § 98.53;
 
-(k) A description of the sliding fee scale(s) (including any factors other than income and family size used in establishing the fee scale(s)) that provide(s) for cost-sharing by the families that receive child care services for which assistance is provided under the CCDF and how co-payments are affordable for families, pursuant to § 98.45(k). This shall include a description of the criteria established by the Lead Agency, if any, for waiving contributions for families;
+(k) A description of the sliding fee scale(s) (including any factors other than income and family size used in establishing the fee scale(s)) that provide(s) for cost-sharing by the families that receive child care services for which assistance is provided under the CCDF and how co-payments are affordable for families, pursuant to § 98.45(l). This shall include a description of the criteria established by the Lead Agency, if any, for waiving contributions for families;
 
 (l) A description of the health and safety requirements, applicable to all providers of child care services for which assistance is provided under the CCDF, in effect pursuant to § 98.41, and any exemptions to those requirements for relative providers made in accordance with § 98.42(c);
 
@@ -134,4 +138,5 @@ A CCDF Plan shall contain the following:
 
 (ii) Such other information as specified by the Secretary.
 
-[81 FR 67576, Sept. 30, 2016]
+[81 FR 67576, Sept. 30, 2016, as amended at 89 FR 15412, Mar. 1, 2024]EDITORIAL NOTE:At 89 FR 15412, Mar. 1, 2024,
+§ 98.16 was amended in part by redesignating paragraphs (x) through (ii) as paragraphs (bb) through (11), adding new paragraphs (x) through (aa), and revising newly redesignated paragraphs (ee) and (ff) ; however, the amendment could not be incorporated due to an error that misidentified the redesignated paragraphs..

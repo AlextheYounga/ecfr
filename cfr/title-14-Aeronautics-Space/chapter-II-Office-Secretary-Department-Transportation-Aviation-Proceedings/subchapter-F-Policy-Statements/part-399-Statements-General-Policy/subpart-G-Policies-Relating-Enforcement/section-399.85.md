@@ -1,5 +1,7 @@
 ##### § 399.85 Notice of baggage fees and other fees. #####
 
+Link to an amendment published at 89 FR 34675, Apr. 30, 2024.
+
 (a) If a U. S. or foreign air carrier has a website accessible for ticket purchases by the general public in the U.S., the carrier must promptly and prominently disclose any increase in its fee for carry-on or first and second checked bags and any change in the first and second checked bags or carry-on allowance for a passenger on the homepage of that website (e.g., provide a link that says “changed bag rules” or similarly descriptive language and takes the consumer from the homepage directly to a pop-up or a place on another webpage that details the change in baggage allowance or fees and the effective dates of such changes). Such notice must remain on the homepage for at least three months after the change becomes effective.
 
 (b) If a U.S. carrier, a foreign air carrier, an agent of either, or a ticket agent has a website accessible for ticket purchases by the general public in the U.S., the carrier or agent must clearly and prominently disclose on the first screen in which the agent or carrier offers a fare quotation for a specific itinerary selected by a consumer that additional airline fees for baggage may apply and where consumers can see these baggage fees. An agent may refer consumers to the airline websites where specific baggage fee information may be obtained or to its own site if it displays airlines' baggage fees.

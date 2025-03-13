@@ -1,10 +1,8 @@
 ##### § 98.43 Criminal background checks. #####
 
-Link to an amendment published at 89 FR 15414, Mar. 1, 2024.
-
 (a)(1) States, Territories, and Tribes, through coordination of the Lead agency with other State, territorial, and tribal agencies, shall have in effect:
 
-(i) Requirements, policies, and procedures to require and conduct criminal background checks for child care staff members (including prospective child care staff members) of all licensed, regulated, or registered child care providers and all child care providers eligible to deliver services for which assistance is provided under this part as described in paragraph (a)(2) of this section;
+(i) Requirements, policies, and procedures to require and conduct background checks, and make a determination of eligibility for child care staff members (including prospective child care staff members) of all licensed, regulated, or registered child care providers and all child care providers eligible to deliver services for which assistance is provided under this part as described in paragraph (a)(2) of this section;
 
 (ii) Licensing, regulation, and registration requirements, as applicable, that prohibit the employment of child care staff members as described in paragraph (c) of this section; and
 
@@ -44,7 +42,7 @@ Link to an amendment published at 89 FR 15414, Mar. 1, 2024.
 
 (iii) State-based child abuse and neglect registry and database.
 
-(c)(1) A child care staff member shall be ineligible for employment by child care providers of services for which assistance is made available in accordance with this part, if such individual:
+(c)(1) The State, Territory, or Tribe in coordination with the Lead Agency shall find a child care staff member ineligible for employment for services for which assistance is made available in accordance with this part, if such individual:
 
 (i) Refuses to consent to the criminal background check described in paragraph (b) of this section;
 
@@ -72,7 +70,7 @@ Link to an amendment published at 89 FR 15414, Mar. 1, 2024.
 
 (I) Subject to paragraph (e)(4) of this section, a drug-related offense committed during the preceding 5 years; or
 
-(v) Has been convicted of a violent misdemeanor committed as an adult against a child, including the following crimes: Child abuse, child endangerment, sexual assault, or of a misdemeanor involving child pornography.
+(v) Has been convicted of a violent misdemeanor committed as an adult against a child, including the following crimes: child abuse, child endangerment, and sexual assault, or of any misdemeanor involving child pornography.
 
 (2) A child care provider described in paragraph (a)(2)(i) of this section shall be ineligible for assistance provided in accordance with this subchapter if the provider employs a staff member who is ineligible for employment under paragraph (c)(1) of this section.
 
@@ -86,7 +84,7 @@ Link to an amendment published at 89 FR 15414, Mar. 1, 2024.
 
 (3) A child care provider shall not be required to submit a request under paragraph (d)(2) of this section for a child care staff member if:
 
-(i) The staff member received a background check described in paragraph (b) of this section:
+(i) The staff member received qualifying results from a background check described in paragraph (b) of this section;
 
 (A) Within 5 years before the latest date on which such a submission may be made; and
 
@@ -96,7 +94,7 @@ Link to an amendment published at 89 FR 15414, Mar. 1, 2024.
 
 (iii) The staff member is employed by a child care provider within the State, or has been separated from employment from a child care provider within the State for a period of not more than 180 consecutive days.
 
-(4) A prospective staff member may begin work for a child care provider described in paragraph (a)(2)(i) of this section after completing either the check described at paragraph (b)(1) or (b)(3)(i) of this section in the State where the prospective staff member resides. Pending completion of all background check components in paragraph (b) of this section, the staff member must be supervised at all times by an individual who received a qualifying result on a background check described in paragraph (b) of this section within the past five years.
+(4) A prospective staff member may begin work for a child care provider described in paragraph (a)(2)(i) of this section after receiving qualifying results for either the check described at paragraph (b)(1) or (b)(3)(i) of this section in the State where the prospective staff member resides. Pending completion of all background check components in paragraph (b) of this section, the staff member must be supervised at all times by an individual who received a qualifying result on a background check described in paragraph (b) of this section within the past five years.
 
 (e) *Background check results.* (1) The State, Territory, or Tribe shall carry out the request of a child care provider for a criminal background check as expeditiously as possible, but not to exceed 45 days after the date on which the provider submitted the request, and shall provide the results of the criminal background check to such provider and to the current or prospective staff member.
 
@@ -132,4 +130,4 @@ Link to an amendment published at 89 FR 15414, Mar. 1, 2024.
 
 (2) Nothing in this section shall be construed to alter or otherwise affect the rights and remedies provided for child care staff members or prospective staff members residing in a State that disqualifies individuals as child care staff members for crimes not specifically provided for under this section.
 
-[81 FR 67584, Sept. 30, 2016]
+[81 FR 67584, Sept. 30, 2016, as amended at 89 FR 15414, Mar. 1, 2024]

@@ -1,5 +1,7 @@
 ##### § 679.25 Inseason adjustments. #####
 
+Link to an amendment published at 89 FR 34758, Apr. 30, 2024.
+
 (a) *General*—(1) *Types of adjustments.* Inseason adjustments for directed fishing for groundfish or fishing for IFQ or CDQ halibut issued by NMFS under this section include:
 
 (i) Closure, extension, or opening of a season in all or part of a management area.

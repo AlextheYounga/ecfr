@@ -1,7 +1,5 @@
 ##### § 98.13 Applying for Funds. #####
 
-Link to an amendment published at 89 FR 15412, Mar. 1, 2024.
-
 The Lead Agency of a State or Territory shall apply for Child Care and Development funds by providing the following:
 
 (a) The amount of funds requested at such time and in such manner as prescribed by the Secretary.
@@ -14,7 +12,7 @@ The Lead Agency of a State or Territory shall apply for Child Care and Developme
 
 (3) An assurance that the Lead Agency provides a drug-free workplace pursuant to 45 CFR 76.600, or a statement that such an assurance has already been submitted for all HHS grants;
 
-(4) A certification that no principals have been debarred pursuant to 45 CFR 76.500;
+(4) A certification that no principals have been debarred pursuant to 2 CFR 180.300;
 
 (5) Assurances that the Lead Agency will comply with the applicable provisions regarding nondiscrimination at 45 CFR part 80 (implementing title VI of the Civil Rights Act of 1964, as amended), 45 CFR part 84 (implementing section 504 of the Rehabilitation Act of 1973, as amended), 45 CFR part 86 (implementing title IX of the Education Amendments of 1972, as amended) and 45 CFR part 91 (implementing the Age Discrimination Act of 1975, as amended), and;
 
@@ -23,3 +21,5 @@ The Lead Agency of a State or Territory shall apply for Child Care and Developme
 (c) The Child Care and Development Fund Plan, at times and in such manner as required in § 98.17; and
 
 (d) Such other information as specified by the Secretary.
+
+[63 FR 39981, July 24, 1998, as amended at 89 FR 15412, Mar. 1, 2024]

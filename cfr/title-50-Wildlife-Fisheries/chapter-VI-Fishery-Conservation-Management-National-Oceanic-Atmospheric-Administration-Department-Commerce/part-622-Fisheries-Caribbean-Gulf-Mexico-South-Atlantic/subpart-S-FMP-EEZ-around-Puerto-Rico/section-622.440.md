@@ -1,5 +1,7 @@
 ##### § 622.440 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
+Link to an amendment published at 89 FR 34169, Apr. 30, 2024.
+
 (a) *Reef fish.* For those fishing commercially, the applicable ACL is the commercial ACL. For those fishing recreationally, the applicable ACL is the recreational ACL. When landings for one sector are not available for comparison to that sector's ACL, the ACL for the sector with available landings is the ACL for the stock or stock complex.
 
 (1) *Commercial ACLs.* The commercial ACLs are as follows and given in round weight.

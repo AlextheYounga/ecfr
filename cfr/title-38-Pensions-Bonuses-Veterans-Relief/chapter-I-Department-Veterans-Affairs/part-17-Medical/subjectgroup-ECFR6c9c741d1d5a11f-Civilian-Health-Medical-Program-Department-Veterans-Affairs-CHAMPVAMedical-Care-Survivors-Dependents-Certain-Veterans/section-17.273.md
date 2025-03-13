@@ -1,5 +1,7 @@
 ##### § 17.273 Preauthorization. #####
 
+Link to an amendment published at 89 FR 34137, Apr. 30, 2024.
+
 Preauthorization or advance approval is required for any of the following, except when the benefit is covered by the CHAMPVA beneficiary's other health insurance (OHI):
 
 (a) Non-emergent inpatient mental health and substance abuse care including admission of emotionally disturbed children and adolescents to residential treatment centers.

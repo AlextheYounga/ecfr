@@ -1,5 +1,7 @@
 ##### § 750.7 Issuance of licenses. #####
 
+Link to an amendment published at 89 FR 34708, Apr. 30, 2024.
+
 (a) *Scope.* (1) Unless limited by a condition set out in a license, the export, reexport, or transfer (in-country) authorized by a license is for the item(s), end-use(s), and parties described in the license application and any letters of explanation. The applicant must inform the other parties identified on the license, such as the ultimate consignees and end users, of the license's scope and of the specific conditions applicable to them.
 
 (2) BIS grants licenses in reliance on representations the applicant made or submitted in connection with the license application, letters of explanation, and other documents submitted. Any license obtained in which a false or misleading representation was made, or a material fact was falsified or concealed on the license application, letters of explanation, or any document submitted in connection with the license application, shall be deemed void as of the date of issuance. See § 750.8(a) of the EAR, which provides that all licenses are subject to revocation, in whole or in part, without notice. See part 764 of the EAR for other sanctions that may result in the event a violation occurs.

@@ -1,24 +1,24 @@
 ##### § 98.50 Child care services. #####
 
-Link to an amendment published at 89 FR 15415, Mar. 1, 2024.
-
 (a) Direct child care services shall be provided:
 
 (1) To eligible children, as described in § 98.20;
 
 (2) Using a sliding fee scale, as described in § 98.45(k);
 
-(3) Using funding methods provided for in § 98.30; and
+(3) Using funding methods provided for in § 98.30 including grants or contracts for slots for children in underserved geographic areas, for infants and toddlers, and children with disabilities. Grants solely to improve the quality of child care services like those in (b) of this section would not satisfy the requirements at § 98.30(b); and
 
 (4) Based on the priorities in § 98.46.
 
 (b) Of the aggregate amount of funds expended by a State or Territory (*i.e.,* Discretionary, Mandatory, and Federal and State share of Matching funds):
 
-(1) No less than seven percent in fiscal years 2016 and 2017, eight percent in fiscal years 2018 and 2019, and nine percent in fiscal year 2020 and each succeeding fiscal year shall be used for activities designed to improve the quality of child care services and increase parental options for, and access to, high-quality child care as described at § 98.53; and
+(1) No less than nine percent shall be used for activities designed to improve the quality of child care services and increase parental options for, and access to, high-quality child care as described at § 98.53; and
 
-(2) No less than three percent in fiscal year 2017 and each succeeding fiscal year shall be used to carry out activities at § 98.53(a)(4) as such activities relate to the quality of care for infants and toddlers.
+(2) No less than three percent shall be used to carry out activities at § 98.53(a)(4) as such activities relate to the quality of care for infants and toddlers.
 
 (3) Nothing in this section shall preclude the State or Territory from reserving a larger percentage of funds to carry out activities described in paragraphs (b)(1) and (2) of this section.
+
+(4) Amounts reserved pursuant to this subsection may not be used to satisfy requirements at § 98.30(b).
 
 (c) Funds expended from each fiscal year's allotment on quality activities pursuant to paragraph (b) of this section:
 
@@ -30,7 +30,7 @@ Link to an amendment published at 89 FR 15415, Mar. 1, 2024.
 
 (d) Of the aggregate amount of funds expended (*i.e.,* Discretionary, Mandatory, and Federal and State share of Matching Funds), no more than five percent may be used for administrative activities as described at § 98.54.
 
-(e) Not less than 70 percent of the Mandatory and Federal and State share of Matching Funds shall be used to meet the child care needs of families who:
+(e) Not less than 70 percent of the State and Territory Mandatory and Federal and State share of State Matching Funds shall be used to meet the child care needs of families who:
 
 (1) Are receiving assistance under a State program under Part A of title IV of the Social Security Act;
 
@@ -48,4 +48,4 @@ Link to an amendment published at 89 FR 15415, Mar. 1, 2024.
 
 (h) Pursuant to § 98.16(i)(4), the Plan shall specify how the State will meet the child care needs of families described in paragraph (e) of this section.
 
-[81 FR 67587, Sept. 30, 2016]
+[81 FR 67587, Sept. 30, 2016, as amended at 89 FR 15415, Mar. 1, 2024]

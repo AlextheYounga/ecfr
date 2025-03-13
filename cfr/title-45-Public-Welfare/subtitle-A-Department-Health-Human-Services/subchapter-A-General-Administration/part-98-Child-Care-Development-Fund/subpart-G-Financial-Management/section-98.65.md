@@ -1,7 +1,5 @@
 ##### § 98.65 Audits and financial reporting. #####
 
-Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
-
 (a) Each Lead Agency shall have an audit conducted after the close of each program period in accordance with 45 CFR part 75, subpart F, and the Single Audit Act Amendments of 1996.
 
 (b) Lead Agencies are responsible for ensuring that subgrantees are audited in accordance with appropriate audit requirements.
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
 
 (2) Quality activities, including any sub-categories of quality activities as required by ACF;
 
-(3) Direct services;
+(3) Direct services for both grant or contracted slots and certificates;
 
 (4) Non-direct services, including:
 
@@ -36,4 +34,4 @@ Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
 
 (i) Tribal Lead Agencies shall submit financial reports annually in a manner specified by ACF.
 
-[63 FR 39981, July 24, 1998, as amended at 81 FR 67591, Sept. 30, 2016]
+[63 FR 39981, July 24, 1998, as amended at 81 FR 67591, Sept. 30, 2016; 89 FR 15416, Mar. 1, 2024]

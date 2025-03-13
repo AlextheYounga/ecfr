@@ -1,5 +1,7 @@
 ##### § 120.110 What businesses are ineligible for SBA business loans? #####
 
+Link to an amendment published at 89 FR 34101, Apr. 30, 2024.
+
 The following types of businesses are ineligible:
 
 (a) Non-profit businesses (for-profit subsidiaries are eligible);

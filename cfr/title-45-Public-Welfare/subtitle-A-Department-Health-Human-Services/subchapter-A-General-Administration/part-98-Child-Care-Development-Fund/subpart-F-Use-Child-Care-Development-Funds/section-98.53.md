@@ -1,7 +1,5 @@
 ##### § 98.53 Activities to improve the quality of child care. #####
 
-Link to an amendment published at 89 FR 15415, Mar. 1, 2024.
-
 (a) The Lead Agency must expend funds from each fiscal year's allotment on quality activities pursuant to §§ 98.50(b) and 98.83(g) in accordance with an assessment of need by the Lead Agency. Such funds must be used to carry out at least one of the following quality activities to improve the quality of child care services for all children, regardless of CCDF receipt, in accordance with paragraph (d) of this section:
 
 (1) Supporting the training, professional development, and postsecondary education of the child care workforce as part of a progression of professional development through activities such as those included at § 98.44, in addition to:
@@ -72,15 +70,23 @@ Link to an amendment published at 89 FR 15415, Mar. 1, 2024.
 
 (10) Carrying out other activities, including implementing consumer education provisions at § 98.33, determined by the Lead Agency to improve the quality of child care services provided, and for which measurement of outcomes relating to improvement of provider preparedness, child safety, child well-being, or entry to kindergarten is possible.
 
-(b) Pursuant to § 98.16(j), the Lead Agency shall describe in its Plan the activities it will fund under this section.
+(b) Lead Agencies are strongly encouraged to engage families and providers with direct experience in the child care subsidy system to improve the quality of child care and child care subsidy policy. Lead Agencies may expend quality funds to support such engagement including:
 
-(c) Non-Federal expenditures required by § 98.55(c) (*i.e.,* the maintenance-of effort amount) are not subject to the requirement at paragraph (a) of this section.
+(1) Planning and implementing an engagement strategy to solicit and implement feedback from families, child care providers, and staff who have direct experience with the child care subsidy program and/or quality improvement activities;
 
-(d) Activities to improve the quality of child care services are not restricted to activities affecting children meeting eligibility requirements under § 98.20 or to child care providers of services for which assistance is provided under this part.
+(2) Compensating participating parents, child care providers, and child care staff for their time and for expenses incurred as a result of their participation (*i.e.* transportation, child care); and
 
-(e) Unless expressly authorized by law, targeted funds for quality improvement and other set asides that may be included in appropriations law may not be used towards meeting the quality expenditure minimum requirement at § 98.50(b).
+(3) Hiring parents, child care providers, or child care staff to serve as subject matter experts in the development or refinement of subsidy policy and quality initiatives.
 
-(f) States shall annually prepare and submit reports, including a quality progress report and expenditure report, to the Secretary, which must be made publicly available and shall include:
+(c) Pursuant to § 98.16(j), the Lead Agency shall describe in its Plan the activities it will fund under this section.
+
+(d) Non-Federal expenditures required by § 98.55(c) (*i.e.,* the maintenance-of effort amount) are not subject to the requirement at paragraph (a) of this section.
+
+(e) Activities to improve the quality of child care services are not restricted to activities affecting children meeting eligibility requirements under § 98.20 or to child care providers of services for which assistance is provided under this part.
+
+(f) Unless expressly authorized by law, targeted funds for quality improvement and other set asides that may be included in appropriations law may not be used towards meeting the quality expenditure minimum requirement at § 98.50(b).
+
+(g) States shall annually prepare and submit reports, including a quality progress report and expenditure report, to the Secretary, which must be made publicly available and shall include:
 
 (1) An assurance that the State was in compliance with requirements at § 98.50(b) in the preceding fiscal year and information about the amount of funds reserved for that purpose;
 
@@ -92,4 +98,4 @@ Link to an amendment published at 89 FR 15415, Mar. 1, 2024.
 
 (5) A description of how the Lead Agency responded to complaints submitted through the national hotline and Web site, required in section 658L(b) of the CCDBG Act (42 U.S.C. 9858j(b)).
 
-[81 FR 67588, Sept. 30, 2016]
+[81 FR 67588, Sept. 30, 2016, as amended at 89 FR 15415, Mar. 1, 2024]

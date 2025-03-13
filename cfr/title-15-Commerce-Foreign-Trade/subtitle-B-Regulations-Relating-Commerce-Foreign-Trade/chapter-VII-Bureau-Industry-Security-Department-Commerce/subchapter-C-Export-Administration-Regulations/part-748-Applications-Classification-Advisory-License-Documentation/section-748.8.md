@@ -1,5 +1,7 @@
 ##### § 748.8 Unique application and submission requirements. #####
 
+Link to an amendment published at 89 FR 34706, Apr. 30, 2024.
+
 In addition to the instructions contained in supplement no. 1 to this part 748, you must also ensure that the additional requirements for certain items or types of transactions described in this section are addressed in your license application. See supplement no. 2 to this part 748 if your application involves:
 
 (a) Chemicals, medicinals, and pharmaceuticals.

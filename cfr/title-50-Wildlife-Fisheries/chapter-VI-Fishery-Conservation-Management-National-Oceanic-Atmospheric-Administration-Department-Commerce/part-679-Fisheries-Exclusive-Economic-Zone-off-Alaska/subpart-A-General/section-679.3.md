@@ -1,5 +1,7 @@
 ##### § 679.3 Relation to other laws. #####
 
+Link to an amendment published at 89 FR 34758, Apr. 30, 2024.
+
 (a) *Foreign fishing for groundfish.* Regulations governing U.S. nationals fishing in the Russian fisheries are set forth in part 300 of chapter III of this title.
 
 (b) *Domestic fishing for groundfish.* (1) The conservation and management of groundfish in waters of the territorial sea and internal waters of the State of Alaska are governed by the Alaska Administrative Code at 5 AAC Chapter 28 and by the Alaska Statutes at Title 16.

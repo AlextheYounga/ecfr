@@ -1,7 +1,5 @@
 ##### § 98.71 Content of report. #####
 
-Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
-
 (a) At a minimum, a State or territorial Lead Agency's quarterly case-level report to the Secretary, as required in § 98.70, shall include the following information on services provided under CCDF grant funds, including Federal Discretionary (which includes any funds transferred from the TANF Block Grant), Mandatory, and Matching Funds; and State Matching and Maintenance-of-Effort (MOE) Funds:
 
 (1) The total monthly family income and family size used for determining eligibility;
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
 
 (10) The total monthly child care copayment by the family;
 
-(11) If applicable, any amount charged by the provider to the family more than the required copayment in instances where the provider's price exceeds the subsidy payment;
+(11) [Reserved]
 
 (12) The total expected dollar amount per month to be received by the provider for each child;
 
@@ -58,10 +56,18 @@ Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
 
 (4) The total number (without duplication) of children and families served under CCDF;
 
-(5) The number of child fatalities by type of care; and
+(5) For Lead Agencies implementing presumptive eligibility in accordance with § 98.21(e):
 
-(6) Any additional information that the Secretary shall require.
+(i) The number of presumptively eligible children ultimately determined fully eligible;
+
+(ii) The number of presumptively eligible children for whom the family does not complete the documentation for full eligibility verification; and,
+
+(iii) The number of presumptively eligible children who are determined not to be eligible after full verification;
+
+(6) The number of child fatalities by type of care; and
+
+(7) Any additional information that the Secretary shall require.
 
 (c) A Tribal Lead Agency's annual report as required in § 98.70(c), shall include such information as the Secretary shall require.
 
-[81 FR 67592, Sept. 30, 2016]
+[81 FR 67592, Sept. 30, 2016, as amended at 89 FR 15416, Mar. 1, 2024]

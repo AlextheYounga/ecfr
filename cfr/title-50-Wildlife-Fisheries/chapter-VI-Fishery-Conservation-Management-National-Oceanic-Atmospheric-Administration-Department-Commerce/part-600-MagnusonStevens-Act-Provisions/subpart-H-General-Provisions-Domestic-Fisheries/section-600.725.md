@@ -1,5 +1,7 @@
 ##### § 600.725 General prohibitions. #####
 
+Link to an amendment published at 89 FR 34757, Apr. 30, 2024.
+
 It is unlawful for any person to do any of the following:
 
 (a) Possess, have custody or control of, ship, transport, offer for sale, sell, purchase, land, import, export or re-export, any fish or parts thereof taken or retained in violation of the Magnuson-Stevens Act or any other statute administered by NOAA or any regulation or permit issued thereunder, or import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce any fish taken, possessed, transported, or sold in violation of any foreign law or regulation, or any treaty or in contravention of a binding conservation measure adopted by an international agreement or organization to which the United States is a party.

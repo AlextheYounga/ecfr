@@ -1,7 +1,5 @@
 ##### § 98.2 Definitions. #####
 
-Link to an amendment published at 89 FR 15411, Mar. 1, 2024.
-
 For the purpose of this part and part 99:
 
 *The Act* refers to the Child Care and Development Block Grant Act of 1990, section 5082 of the Omnibus Budget Reconciliation Act of 1990, Pub. L. 101-508, as amended and codified at 42 U.S.C. 9858 *et seq.*
@@ -74,7 +72,11 @@ For the purpose of this part and part 99:
 
 *Liquidation period* means the applicable time period during which a fiscal year's grant shall be liquidated pursuant to the requirements at § 98.60.;
 
-*Major renovation* means: (1) structural changes to the foundation, roof, floor, exterior or load-bearing walls of a facility, or the extension of a facility to increase its floor area; or (2) extensive alteration of a facility such as to significantly change its function and purpose, even if such renovation does not include any structural change;
+*Major renovation* means any renovation that has a cost equal to or exceeding $350,000 in CCDF funds for child care centers and $50,000 in CCDF funds for family child care homes, which amount shall be adjusted annually for inflation and published on the Office of Child Care website. If renovation costs exceed these thresholds and do not include:
+
+(1) Structural changes to the foundation, roof, floor, exterior or load-bearing walls of a facility, or the extension of a facility to increase its floor area; or
+
+(2) Extensive alteration of a facility such as to significantly change its function and purpose for direct child care services, even if such renovation does not include any structural change; and improve the health, safety, and/or quality of child care, then it shall not be considered major renovation;
 
 *Mandatory funds* means the general entitlement child care funds described at section 418(a)(1) of the Social Security Act;
 
@@ -108,14 +110,18 @@ For the purpose of this part and part 99:
 
 *Sliding fee scale* means a system of cost-sharing by a family based on income and size of the family, in accordance with § 98.45(k);
 
-*State* means any of the States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and includes Tribes unless otherwise specified;
+*State* means any of the States and the District of Columbia, and includes Territories and Tribes unless otherwise specified;
 
 *Teacher* means a lead teacher, teacher, teacher assistant, or teacher aide who is employed by a child care provider for compensation on a regular basis, or a family child care provider, and whose responsibilities and activities are to organize, guide, and implement activities in a group or individual basis, or to assist a teacher or lead teacher in such activities, to further the cognitive, social, emotional, and physical development of children from birth to kindergarten entry and children in school-age child care;
 
-*Tribal mandatory funds* means the child care funds set aside at section 418(a)(4) of the Social Security Act. The funds consist of between one and two percent of the aggregate Mandatory and Matching child care funds reserved by the Secretary in each fiscal year for payments to Indian Tribes and tribal organizations;
+*Territory* means the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Marianas Islands;
+
+*Territory mandatory funds* means the child care funds set aside at section 418(a)(3)(C) of the Social Security Act (42 U.S.C. 618(a)(3)(C)) for payments to the Territories;
+
+*Tribal mandatory funds* means the child care funds set aside at section 418(a)(3)(B) of the Social Security Act (42 U.S.C. 618(a)(3)(B)) for payments to Indian Tribes and tribal organizations;
 
 *Tribal organization* means the recognized governing body of any Indian Tribe, or any legally established organization of Indians, including a consortium, which is controlled, sanctioned, or chartered by such governing body or which is democratically elected by the adult members of the Indian community to be served by such organization and which includes the maximum participation of Indians in all phases of its activities: Provided, that in any case where a contract is let or grant is made to an organization to perform services benefiting more than one Indian Tribe, the approval of each such Indian Tribe shall be a prerequisite to the letting or making of such contract or grant; and
 
 *Types of providers* means the different classes of providers under each category of care. For the purposes of the CCDF, types of providers include non-profit providers, for-profit providers, sectarian providers and relatives who provide care.
 
-[63 FR 39981, July 24, 1998, as amended at 81 FR 67573, Sept. 30, 2016]
+[63 FR 39981, July 24, 1998, as amended at 81 FR 67573, Sept. 30, 2016; 89 FR 15411, Mar. 1, 2024]

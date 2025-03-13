@@ -1,5 +1,7 @@
 ##### § 734.7 Published. #####
 
+Link to an amendment published at 89 FR 34698, Apr. 30, 2024.
+
 (a) Except as set forth in paragraphs (b) and (c) of this section, unclassified “technology” or “software” is “published,” and is thus not “technology” or “software” subject to the EAR, when it has been made available to the public without restrictions upon its further dissemination such as through any of the following:
 
 (1) Subscriptions available without restriction to any individual who desires to obtain or purchase the published information;

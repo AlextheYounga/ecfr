@@ -1,7 +1,5 @@
 ##### § 98.83 Requirements for tribal programs. #####
 
-Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
-
 (a) The grantee shall designate an agency, department, or unit to act as the Tribal Lead Agency to administer the CCDF program.
 
 (b) With the exception of Alaska, California, and Oklahoma, programs and activities for the benefit of Indian children shall be carried out on or near an Indian reservation.
@@ -18,25 +16,33 @@ Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
 
 (d)(1) Tribal Lead Agencies shall not be subject to:
 
-(i) The requirement to produce a consumer education Web site at § 98.33(a). Tribal Lead Agencies still must collect and disseminate the provider-specific consumer education information described at § 98.33(a) through (d), but may do so using methods other than a Web site;
+(i) The requirements to use grants or contracts to build supply for certain populations at § 98.30(b);
 
-(ii) The requirement to have licensing applicable to child care services at § 98.40;
+(ii) The requirement to produce a consumer education website at § 98.33(a). Tribal Lead Agencies still must collect and disseminate the provider-specific consumer education information described at § 98.33(a) through (d), but may do so using methods other than a website;
 
-(iii) The requirement for a training and professional development framework at § 98.44(a);
+(iii) The requirement to have licensing applicable to child care services at § 98.40;
 
-(iv) The market rate survey or alternative methodology described at § 98.45(b)(2) and the related requirements at § 98.45(c), (d), (e), and (f);
+(iv) The requirement for a training and professional development framework at § 98.44(a);
 
-(v) The requirement that Lead Agencies shall give priority for services to children of families with very low family income at § 98.46(a)(1);
+(v) The market rate survey or alternative methodology described at § 98.45(b)(2) and the related requirements at § 98.45(c), (d), (e), and (f);
 
-(vi) The requirement that Lead Agencies shall prioritize increasing access to high-quality child care in areas with significant concentrations of poverty and unemployment at § 98.46(b);
+(vi) The requirement for a sliding fee scale at § 98.45(l);
 
-(vii) The requirements about Mandatory and Matching Funds at § 98.50(e);
+(vii) The requirement to have provider payment practices that reflect generally accepted payment practices at § 98.45(m);
 
-(viii) The requirement to complete the quality progress report at § 98.53(f);
+(viii) The requirement that Lead Agencies shall give priority for services to children of families with very low family income at § 98.46(a)(1);
 
-(ix) The requirement that Lead Agencies shall expend no more than five percent from each year's allotment on administrative costs at § 98.54(a); and
+(ix) The requirement that Lead Agencies shall prioritize increasing access to high-quality child care in areas with significant concentrations of poverty and unemployment at § 98.46(b);
 
-(x) The Matching Fund requirements at §§ 98.55 and 98.63.
+(x) The requirements to use grants or contracts at § 98.50(a)(3);
+
+(xi) The requirements about Mandatory and Matching Funds at § 98.50(e);
+
+(xii) The requirement to complete the quality progress report at § 98.53(f);
+
+(xiii) The requirement that Lead Agencies shall expend no more than five percent from each year's allotment on administrative costs at § 98.54(a); and
+
+(xiv) The Matching fund requirements at §§ 98.55 and 98.63.
 
 (2) Tribal Lead Agencies with large, medium, and small allocations shall be subject to the provision at § 98.42(b)(2) to require inspections of child care providers and facilities, unless a Tribal Lead Agency describes an alternative monitoring approach in its Plan and provides adequate justification for the approach.
 
@@ -68,11 +74,11 @@ Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
 
 (11) Any other requirement established by the Secretary.
 
-(g) Of the aggregated amount of funds expanded (*i.e.,* Discretionary and Mandatory Funds),
+(g) Of the aggregate amount of funds expended (*i.e.,* Discretionary and Mandatory Funds):
 
-(1) For Tribal Lead Agencies with large, medium and small allocations, no less than four percent in fiscal years 2017, seven percent in fiscal years 2018 and 2019, eight percent in fiscal years 2020 and 2021, and nine percent in fiscal years 2022 and each succeeding fiscal year shall be used for activities designed to improve the quality of child care services and increase parental options for, and access to high-quality child care as described at § 98.53; and
+(1) For Tribal Lead Agencies with large, medium, and small allocations, no less than nine percent shall be used for activities designed to improve the quality of child care services and increase parental options for, and access to, high-quality child care as described at § 98.53; and
 
-(2) For Tribal Lead Agencies with large and medium allocations no less than three percent in fiscal year 2019 and each succeeding fiscal year shall be used to carry out activities at § 98.53(a)(4) as such activities relate to the quality of care for infants and toddler.
+(2) For Tribal Lead Agencies with large and medium allocations, no less than three percent shall be used to carry out activities at § 98.53(a)(4) as such activities relate to the quality of care for infants and toddlers.
 
 (3) Nothing in this section shall preclude the Tribal Lead Agencies from reserving a larger percentage of funds to carry out activities described in paragraph (g)(1) and (2) of this section.
 
@@ -84,4 +90,4 @@ Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
 
 (2) Federal obligation of funds for planning costs, pursuant to paragraph (i)(1) of this section is subject to the actual availability of the appropriation.
 
-[81 FR 67593, Sept. 30, 2016, as amended at 82 FR 3186, Jan. 11, 2017]
+[81 FR 67593, Sept. 30, 2016, as amended at 82 FR 3186, Jan. 11, 2017; 89 FR 15416, Mar. 1, 2024]

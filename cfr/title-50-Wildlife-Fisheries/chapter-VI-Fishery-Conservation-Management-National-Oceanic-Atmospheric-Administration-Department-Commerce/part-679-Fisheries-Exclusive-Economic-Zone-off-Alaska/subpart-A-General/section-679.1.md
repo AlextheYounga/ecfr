@@ -1,5 +1,7 @@
 ##### § 679.1 Purpose and scope. #####
 
+Link to an amendment published at 89 FR 34757, Apr. 30, 2024.
+
 Regulations in this part were developed by the Council under the Magnuson-Stevens Fishery Conservation and Management Act, 16 U.S.C. 1801 *et seq.* (Magnuson-Stevens Act) and the Northern Pacific Halibut Act of 1982 (Halibut Act). Along with part 600 of this chapter, these regulations implement the following:
 
 (a) *Fishery Management Plan for Groundfish of the Gulf of Alaska.* (1) Regulations in this part govern commercial fishing for groundfish in the GOA by vessels of the United States (see subparts A, B, D, and E of this part).

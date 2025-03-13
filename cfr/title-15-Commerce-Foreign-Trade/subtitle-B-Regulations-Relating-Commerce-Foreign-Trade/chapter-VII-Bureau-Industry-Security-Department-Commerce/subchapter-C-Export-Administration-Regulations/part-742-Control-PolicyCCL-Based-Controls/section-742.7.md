@@ -1,5 +1,7 @@
 ##### § 742.7 Crime control and detection. #####
 
+Link to an amendment published at 89 FR 34705, Apr. 30, 2024.
+
 (a) *License requirements.* In support of U.S. foreign policy to promote the observance of human rights throughout the world, a license is required to export and reexport crime control and detection equipment, related technology and software as follows:
 
 (1) Crime control and detection instruments and equipment and related “technology” and “software” identified in the appropriate ECCNs on the CCL under CC Column 1 in the Country Chart column of the “License Requirements” section. A license is required to countries listed in CC Column 1 (Supplement No. 1 to part 738 of the EAR). Items affected by this requirement are identified on the CCL under the following ECCNs: 0A502, 0A504, 0A505.b, 0A977, 0A978, 0A979, 0D977, 0E502, 0E505 (“technology” for “development” or for “production” of buckshot shotgun shells controlled under ECCN 0A505.b), 0E977, 1A984, 1A985, 3A980, 3A981, 3D980, 3E980, 4A003 (for fingerprint computers only), 4A980, 4D001 (for fingerprint computers only), 4D980, 4E001 (for fingerprint computers only), 4E980, 6A002 (for police-model infrared viewers only), 6E001 (for police-model infrared viewers only), 6E002 (for police-model infrared viewers only), and 9A980.

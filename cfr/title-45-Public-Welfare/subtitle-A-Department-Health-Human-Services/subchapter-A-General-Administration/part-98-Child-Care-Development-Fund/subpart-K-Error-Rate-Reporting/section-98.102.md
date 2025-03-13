@@ -1,7 +1,5 @@
 ##### § 98.102 Content of Error Rate Reports. #####
 
-Link to an amendment published at 89 FR 15417, Mar. 1, 2024.
-
 (a) *Baseline Submission Report*—At a minimum, States, the District of Columbia and Puerto Rico shall submit an initial error rate report to the Department, as required in § 98.100, which includes the following information on errors and resulting improper payments occurring in the administration of CCDF grant funds, including Federal Discretionary Funds (which includes any funds transferred from the TANF Block Grant), Mandatory and Matching Funds and State Matching and Maintenance-of-Effort (MOE Funds):
 
 (1) Percentage of cases with an error (regardless of whether such error resulted in an over or under payment), expressed as the total number of cases in the sample with an error compared to the total number of cases in the sample;
@@ -44,14 +42,18 @@ Link to an amendment published at 89 FR 15417, Mar. 1, 2024.
 
 (i) Identification of a senior accountable official;
 
-(ii) Milestones that clearly identify actions to be taken to reduce improper payments and the individual responsible for completing each action;
+(ii) Root causes of error as identified on the Lead Agency's most recent ACF-404 and other root causes identified;
 
-(iii) A timeline for completing each action within 1 year of the Assistant Secretary's approval of the plan, and for reducing the improper payment rate below the threshold established by the Secretary; and
+(iii) Detailed descriptions of actions to reduce improper payments and the name and/or title of the individual responsible for ensuring actions are completed;
 
-(iv) Targets for future improper payment rates.
+(iv) Milestones to indicate progress towards action completion and error reduction goals;
 
-(3) Subsequent progress reports must be submitted as requested by the Assistant Secretary.
+(v) A timeline for completing each action of the plan within 1 year, and for reducing the improper payment rate below the threshold established by the Secretary; and
 
-(4) Failure to carry out actions described in the approved corrective action plan will be grounds for a penalty or sanction under § 98.92.
+(vi) Targets for future improper payment rates.
 
-[72 FR 50898, Sept. 5, 2007, as amended at 81 FR 67595, Sept. 30, 2016]
+(3) Subsequent progress reports including updated corrective action plans must be submitted as requested by the Assistant Secretary until the Lead Agency's improper payment rate no longer exceeds the threshold.
+
+(4) Failure to carry out actions as described in the approved corrective action plan or to fulfill requirements in this paragraph (c) will be grounds for a penalty or sanction under § 98.92.
+
+[72 FR 50898, Sept. 5, 2007, as amended at 81 FR 67595, Sept. 30, 2016; 89 FR 15417, Mar. 1, 2024]

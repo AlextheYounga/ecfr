@@ -1,5 +1,7 @@
 ##### § 1355.34 Criteria for determining substantial conformity. #####
 
+Link to an amendment published at 89 FR 34861, Apr. 30, 2024.
+
 (a) *Criteria to be satisfied.* ACF will determine a title IV-E agency's substantial conformity with title IV-B and title IV-E plan requirements based on the following:
 
 (1) Its ability to meet national standards, set by the Secretary, for the statewide/Tribal service area data indicators associated with specific outcomes for children and families;

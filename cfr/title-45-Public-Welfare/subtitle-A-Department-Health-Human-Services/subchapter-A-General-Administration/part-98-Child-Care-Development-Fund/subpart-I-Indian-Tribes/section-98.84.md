@@ -1,7 +1,5 @@
 ##### § 98.84 Construction and renovation of child care facilities. #####
 
-Link to an amendment published at 89 FR 15417, Mar. 1, 2024.
-
 (a) Upon requesting and receiving approval from the Secretary, Tribal Lead Agencies may use amounts provided under §§ 98.61(c) and 98.62(b) to make payments for construction or major renovation of child care facilities (including paying the cost of amortizing the principal and paying interest on loans).
 
 (b) To be approved by the Secretary, a request shall be made in accordance with uniform procedures established by program instruction and, in addition, shall demonstrate that:
@@ -50,7 +48,7 @@ Link to an amendment published at 89 FR 15417, Mar. 1, 2024.
 
 (v) Modular units.
 
-(e) In lieu of obligation and liquidation requirements at § 98.60(e), Tribal Lead Agencies shall liquidate CCDF funds used for construction or major renovation by the end of the second fiscal year following the fiscal year for which the grant is awarded.
+(e) In lieu of obligation and liquidation requirements at § 98.60(e), Tribal Lead Agencies shall obligate CCDF funds used for construction or major renovation by the end of the second fiscal year following the fiscal year for which the grant is awarded. Tribal construction and major renovation funds must be liquidated at the end of the second succeeding fiscal year following this obligation deadline. Any Tribal construction and major renovation funds that remain unliquidated by the end of this period will revert to the Federal government.
 
 (f) Tribal Lead Agencies may expend funds, without requesting approval pursuant to paragraph (a) of this section, for minor renovation.
 
@@ -64,4 +62,4 @@ Link to an amendment published at 89 FR 15417, Mar. 1, 2024.
 
 (3) initial equipment for the facility. Equipment means items which are tangible, nonexpendable personal property having a useful life of more than five years.
 
-[63 FR 39981, July 24, 1998, as amended at 81 FR 3020, Jan. 20, 2016; 81 FR 67594, Sept. 30, 2016]
+[63 FR 39981, July 24, 1998, as amended at 81 FR 3020, Jan. 20, 2016; 81 FR 67594, Sept. 30, 2016; 89 FR 15417, Mar. 1, 2024]

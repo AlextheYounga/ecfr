@@ -1,14 +1,14 @@
 ##### § 98.60 Availability of funds. #####
 
-Link to an amendment published at 89 FR 15415, Mar. 1, 2024.
-
 (a) The CCDF is available, subject to the availability of appropriations, in accordance with the apportionment of funds from the Office of Management and Budget as follows:
 
-(1) Discretionary Funds are available to States, Territories, and Tribes,
+(1) Discretionary Funds are available to States, Territories, and Tribes;
 
-(2) Mandatory and Matching Funds are available to States;
+(2) State Mandatory and Matching Funds are available to States;
 
-(3) Tribal Mandatory Funds are available to Tribes.
+(3) Territory Mandatory Funds are available to Territories; and
+
+(4) Tribal Mandatory Funds are available to Tribes.
 
 (b) Subject to the availability of appropriations, in accordance with relevant statutory provisions and the apportionment of funds from the Office of Management and Budget, the Secretary:
 
@@ -26,15 +26,17 @@ Link to an amendment published at 89 FR 15415, Mar. 1, 2024.
 
 (ii) Mandatory Funds for States that do not request Matching Funds are available until expended.
 
-(3) Both the Federal and non-Federal share of the Matching Fund shall be obligated in the fiscal year in which the funds are granted and liquidated no later than the end of the succeeding fiscal year.
+(3) Mandatory Funds for Territories shall be obligated in the fiscal year in which funds are granted and liquidated no later than the end of the succeeding fiscal year.
 
-(4) Except for paragraph (d)(5) of this section, determination of whether funds have been obligated and liquidated will be based on:
+(4) Both the Federal and non-Federal share of the Matching Fund shall be obligated in the fiscal year in which the funds are granted and liquidated no later than the end of the succeeding fiscal year.
+
+(5) Except for paragraph (d)(5) of this section, determination of whether funds have been obligated and liquidated will be based on:
 
 (i) State or local law; or,
 
 (ii) If there is no applicable State or local law, the regulation at 45 CFR 75.2, Expenditures and Obligations.
 
-(5) Obligations may include subgrants or contracts that require the payment of funds to a third party (e.g., subgrantee or contractor). However, the following are not considered third party subgrantees or contractors:
+(6) Obligations may include subgrants or contracts that require the payment of funds to a third party (e.g., subgrantee or contractor). However, the following are not considered third party subgrantees or contractors:
 
 (i) A local office of the Lead Agency;
 
@@ -42,15 +44,15 @@ Link to an amendment published at 89 FR 15415, Mar. 1, 2024.
 
 (iii) A local office of another entity at the same level of government as the Lead Agency.
 
-(6) In instances where the Lead Agency issues child care certificates, funds for child care services provided through a child care certificate will be considered obligated when a child care certificate is issued to a family in writing that indicates:
+(7) In instances where the Lead Agency issues child care certificates, funds for child care services provided through a child care certificate will be considered obligated when a child care certificate is issued to a family in writing that indicates:
 
 (i) The amount of funds that will be paid to a child care provider or family, and
 
 (ii) The specific length of time covered by the certificate, which is limited to the date established for redetermination of the family's eligibility, but shall be no later than the end of the liquidation period.
 
-(7) In instances where third party agencies issue child care certificates, the obligation of funds occurs upon entering into agreement through a subgrant or contract with such agency, rather than when the third party issues certificates to a family.
+(8) In instances where third party agencies issue child care certificates, the obligation of funds occurs upon entering into agreement through a subgrant or contract with such agency, rather than when the third party issues certificates to a family.
 
-(8) Any funds not obligated during the obligation period specified in paragraph (d) of this section will revert to the Federal government. Any funds not liquidated by the end of the applicable liquidation period specified in paragraph (d) of this section will also revert to the Federal government.
+(9) Any funds not obligated during the obligation period specified in paragraph (d) of this section will revert to the Federal government. Any funds not liquidated by the end of the applicable liquidation period specified in paragraph (d) of this section will also revert to the Federal government.
 
 (e) The following obligation and liquidation provisions apply to Tribal Discretionary and Tribal Mandatory Funds:
 
@@ -70,4 +72,4 @@ Link to an amendment published at 89 FR 15415, Mar. 1, 2024.
 
 (i) Lead Agencies shall recover child care payments that are the result of fraud. These payments shall be recovered from the party responsible for committing the fraud.
 
-[63 FR 39981, July 24, 1998, as amended at 81 FR 3020, Jan. 20, 2016; 81 FR 67591, Sept. 30, 2016]
+[63 FR 39981, July 24, 1998, as amended at 81 FR 3020, Jan. 20, 2016; 81 FR 67591, Sept. 30, 2016; 89 FR 15415, Mar. 1, 2024]

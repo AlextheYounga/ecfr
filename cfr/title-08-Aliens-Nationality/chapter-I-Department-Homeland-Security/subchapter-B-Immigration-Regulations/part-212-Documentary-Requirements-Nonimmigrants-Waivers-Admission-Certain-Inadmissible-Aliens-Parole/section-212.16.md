@@ -1,5 +1,7 @@
 ##### § 212.16 Applications for exercise of discretion relating to T nonimmigrant status. #####
 
+Link to an amendment published at 89 FR 34930, Apr. 30, 2024.
+
 (a) *Requesting the waiver.* An alien requesting a waiver of inadmissibility under section 212(d)(3)(B) or (d)(13) of the Act must submit a waiver form as designated by USCIS in accordance with 8 CFR 103.2.
 
 (b) *Treatment of waiver request.* USCIS, in its discretion, may grant a waiver request based on section 212(d)(13) of the Act of the applicable ground(s) of inadmissibility, except USCIS may not waive a ground of inadmissibility based on sections 212(a)(3), (a)(10)(C), or (a)(10)(E) of the Act. An applicant for T nonimmigrant status is not subject to the ground of inadmissibility based on section 212(a)(4) of the Act (public charge) and is not required to file a waiver form for the public charge ground. Waiver requests are subject to a determination of national interest and connection to victimization as follows.

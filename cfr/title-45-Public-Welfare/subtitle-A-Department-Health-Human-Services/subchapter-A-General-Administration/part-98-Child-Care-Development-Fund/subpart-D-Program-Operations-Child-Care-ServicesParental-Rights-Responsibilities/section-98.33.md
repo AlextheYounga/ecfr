@@ -1,7 +1,5 @@
 ##### § 98.33 Consumer and provider education. #####
 
-Link to an amendment published at 89 FR 15414, Mar. 1, 2024.
-
 The Lead Agency shall:
 
 (a) Certify that it will collect and disseminate consumer education information to parents of eligible children, the general public, and providers through a consumer-friendly and easily accessible Web site that ensures the widest possible access to services for families who speak languages other than English and persons with disabilities, including:
@@ -24,17 +22,29 @@ The Lead Agency shall:
 
 (i) Information on the date of such inspection;
 
-(ii) Information on corrective action taken by the State and child care provider, where applicable;
+(ii) Areas of compliance and non-compliance;
 
-(iii) Any health and safety violations, including any fatalities and serious injuries occurring at the provider, prominently displayed on the report or summary; and
+(iii) Information on corrective action taken by the State and child care provider, where applicable;
 
-(iv) A minimum of 3 years of results where available.
+(iv) Any health and safety violations, including any fatalities and serious injuries occurring at the provider, prominently displayed on the report or summary; and
 
-(5) Aggregate number of deaths and serious injuries (for each provider category and licensing status) and instances of substantiated child abuse that occurred in child care settings each year, for eligible providers.
+(v) A minimum of 3 years of results where available.
+
+(5) Aggregate data for each year for eligible providers including:
+
+(i) Number of deaths (for each provider category and licensing status);
+
+(ii) Number of serious injuries (for each provider category and licensing status);
+
+(iii) Instances of substantiated child abuse that occurred in child care settings; and,
+
+(iv) Total number of children in care (for each provider category and licensing status).
 
 (6) Referrals to local child care resource and referral organizations.
 
 (7) Directions on how parents can contact the Lead Agency or its designee and other programs to help them understand information included on the Web site.
+
+(8) The sliding fee scale for parent co-payments pursuant to § 98.45(l), including the co-payment amount a family may expect to pay and policies for waiving co-payments.
 
 (b) Certify that it will collect and disseminate, through resource and referral organizations or other means as determined by the State, including, but not limited to, through the Web site described in paragraph (a) of this section, to parents of eligible children and the general public, and where applicable providers, information about:
 
@@ -92,4 +102,4 @@ The Lead Agency shall:
 
 (g) Include in the triennial Plan the definitions or criteria the TANF agency uses in implementing the exception to the work requirement specified in paragraph (f) of this section.
 
-[81 FR 67581, Sept. 30, 2016]
+[81 FR 67581, Sept. 30, 2016, as amended at 89 FR 15414, Mar. 1, 2024]

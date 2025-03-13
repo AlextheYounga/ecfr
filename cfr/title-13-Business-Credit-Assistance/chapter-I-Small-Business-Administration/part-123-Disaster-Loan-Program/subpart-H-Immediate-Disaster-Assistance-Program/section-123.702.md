@@ -1,5 +1,7 @@
 ##### § 123.702 What are the eligibility requirements for an IDAP loan? #####
 
+Link to an amendment published at 89 FR 34102, Apr. 30, 2024.
+
 (a) *Eligible IDAP applicants.* To be eligible for an IDAP loan, an applicant business must meet all of the requirements set forth below. The applicant business must:
 
 (1) Be located within a Declared Disaster Area;

@@ -1,5 +1,7 @@
 ##### § 123.101 When am I not eligible for a home disaster loan? #####
 
+Link to an amendment published at 89 FR 34102, Apr. 30, 2024.
+
 You are not eligible for a home disaster loan if:
 
 (a) You have been convicted, during the past year, of a felony during and in connection with a riot or civil disorder or other declared disaster;

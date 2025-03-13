@@ -1,5 +1,7 @@
 ##### § 743.6 Prior notifications to Congress of exports of certain semiautomatic firearms. #####
 
+Link to an amendment published at 89 FR 34706, Apr. 30, 2024.
+
 (a) *General requirement.* Applications to export semiautomatic firearms controlled by ECCN 0A501.a will be notified to Congress as provided in this section before licenses for such items are issued, except as specified in paragraphs (a)(1) to (2) of this section.
 
 (1) Exports of semiautomatic firearms controlled by ECCN 0A501.a to personnel and agencies of the U.S. Government under License Exception GOV (§ 740.11(b) of the EAR) do not require such notification.

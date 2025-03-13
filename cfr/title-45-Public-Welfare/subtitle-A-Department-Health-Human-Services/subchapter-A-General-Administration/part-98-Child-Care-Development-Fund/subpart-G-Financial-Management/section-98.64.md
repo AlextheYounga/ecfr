@@ -1,8 +1,6 @@
 ##### § 98.64 Reallotment and redistribution of funds. #####
 
-Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
-
-(a) According to the provisions of this section State and Tribal Discretionary Funds are subject to reallotment, and State Matching Funds are subject to redistribution. State funds are reallotted or redistributed only to States as defined for the original allocation. Tribal funds are reallotted only to Tribes. Funds granted to the Territories are not subject to reallotment. Any funds granted to the Territories that are returned after they have been allotted will revert to the Federal government.
+(a) According to the provisions of this section State and Tribal Discretionary Funds are subject to reallotment, and State Matching Funds and Territory Mandatory Funds are subject to redistribution. State funds are reallotted or redistributed only to States as defined for the original allocation. Tribal funds are reallotted only to Tribes. Mandatory Funds granted to Territories are redistributed only to Territories. Discretionary Funds granted to the Territories are not subject to reallotment. Any Discretionary funds granted to the Territories that are returned after they have been allotted will revert to the Federal Government.
 
 (b) Any portion of a State's Discretionary Fund allotment that is not required to carry out its Plan, in the period for which the allotment is made available, shall be reallotted to other States in proportion to the original allotments. For purposes of this paragraph the term “State” means the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico. The other Territories and the Tribes may not receive reallotted State Discretionary Funds.
 
@@ -56,4 +54,14 @@ Link to an amendment published at 89 FR 15416, Mar. 1, 2024.
 
 (4) Tribes receiving reallotted funds shall obligate and expend these funds in accordance with § 98.60. The reallotment of funds does not extend the obligation period or the program period for expenditure of such funds.
 
-[63 FR 39981, July 24, 1998, as amended at 81 FR 67591, Sept. 30, 2016]
+(e)(1) Any portion of the Mandatory Funds that are not obligated in the period for which the grant is made shall be redistributed. Territory Mandatory Funds, if any, will be redistributed on the request of, and only to, those other Territories that have obligated their entire Territory Mandatory Fund allocation in full for the period for which the grant was first made.
+
+(2) The amount of Mandatory Funds granted to a Territory that will be made available for redistribution will be based on the Territory's financial report to ACF for the Child Care and Development Fund (ACF-696) and is subject to the monetary limits at paragraph (b)(2) of this section.
+
+(3) A Territory eligible to receive redistributed Mandatory Funds shall also use the ACF-696 to request its share of the redistributed funds, if any.
+
+(4) A Territory's share of redistributed Mandatory Funds is based on the same ratio as § 98.62(d).
+
+(5) Redistributed funds are considered part of the grant for the fiscal year in which the redistribution occurs.
+
+[63 FR 39981, July 24, 1998, as amended at 81 FR 67591, Sept. 30, 2016; 89 FR 15416, Mar. 1, 2024]

@@ -1,6 +1,4 @@
-##### § 98.19 Requests for temporary relief from requirements. #####
-
-Link to an amendment published at 89 FR 15413, Mar. 1, 2024.
+##### § 98.19 Requests for temporary waivers. #####
 
 (a) *Requests for relief.* The Secretary may temporarily waive one or more of the requirements contained in the Act or this part, with the exception of State Match and Maintenance of Effort requirements for a State, consistent with the conditions described in section 658I(c)(1) of the Act (42 U.S.C. 9858g(c)(1)), provided that the waiver request:
 
@@ -14,11 +12,11 @@ Link to an amendment published at 89 FR 15413, Mar. 1, 2024.
 
 (b) *Types.* Types of waivers include:
 
-(1) *Transitional and legislative waivers.* Lead Agencies may apply for temporary waivers meeting the requirements described in paragraph (a) of this section that would provide transitional relief from conflicting or duplicative requirements preventing implementation, or an extended period of time in order for a State, territorial, or tribal legislature to enact legislation to implement the provisions of this subchapter. Such waivers are:
+(1) *Transitional and legislative waivers.* Lead Agencies may apply for temporary waivers meeting the requirements described in paragraph (a) of this section that would provide transitional relief from conflicting or duplicative requirements preventing implementation, or an extended period of time in order for a State, territorial or tribal legislature to enact legislation to implement the provisions of this subchapter. Such waivers are:
 
-(i) Limited to a one-year initial period;
+(i) Limited to a two-year period;
 
-(ii) May be extended, in accordance with paragraph (f) of this section, for at most one additional year from the date of approval of the extension,
+(ii) May not be extended, notwithstanding paragraph (f) of this section;
 
 (iii) Are designed to provide States, Territories and Tribes at most one full legislative session to enact legislation to implement the provisions of the Act or this part, and;
 
@@ -46,7 +44,7 @@ Link to an amendment published at 89 FR 15413, Mar. 1, 2024.
 
 (e) *Termination.* The Secretary shall terminate approval of a request for a waiver authorized under the Act or this section if the Secretary determines, after notice and opportunity for a hearing based on the rules of procedure in part 99 of this chapter, that the performance of a State, Territory or Tribe granted relief under this section has been inadequate, or if such relief is no longer necessary to achieve its original purposes.
 
-(f) *Renewal.* The Secretary may approve or disapprove a request from a State, Territory or Tribe for renewal of an existing waiver under the Act or this section for a period no longer than one year. A State, Territory or Tribe seeking to renew their waiver approval must inform the Secretary of this intent no later than 30 days prior to the expiration date of the waiver. The State, Territory or Tribe shall re-certify in its extension request the provisions in paragraph (a) of this section, and shall also explain the need for additional time of relief from such sanction(s) or provisions.
+(f) *Renewal.* Where permitted, the Secretary may approve or disapprove a request from a State, Territory or Tribe for renewal of an existing waiver under the Act or this section for a period no longer than one year. A State, Territory or Tribe seeking to renew their waiver approval must inform the Secretary of this intent no later than 30 days prior to the expiration date of the waiver. The State, Territory or Tribe shall re-certify in its extension request the provisions in paragraph (a) of this section, and shall also explain the need for additional time of relief from such sanction(s) or provisions.
 
 (g) *Restrictions.* The Secretary may not:
 
@@ -56,4 +54,4 @@ Link to an amendment published at 89 FR 15413, Mar. 1, 2024.
 
 (3) Require or impose any new or additional requirements in exchange for receipt of a waiver if such requirements are not specified in the Act.
 
-[81 FR 67578, Sept. 30, 2016]
+[81 FR 67578, Sept. 30, 2016, as amended at 89 FR 15413, Mar. 1, 2024]

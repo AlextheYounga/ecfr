@@ -1,5 +1,7 @@
 ##### § 758.11 Export clearance requirements for firearms and related items. #####
 
+Link to an amendment published at 89 FR 34710, Apr. 30, 2024.
+
 (a) *Scope.* The export clearance requirements of this section apply to all exports of commodities controlled under ECCNs 0A501.a or .b, shotguns with a barrel length less than 18 inches controlled under ECCN 0A502, or ammunition controlled under ECCN 0A505 except for .c, regardless of value or destination, including exports to Australia, Canada, and the United Kingdom, that are authorized under License Exception BAG, as set forth in § 740.14 of the EAR.
 
 (b) *Required form.* Prior to making any export described in paragraph (a) of this section, the exporter is required to submit a properly completed Department of Homeland Security, CBP Form 4457, (Certificate of Registration for Personal Effects Taken Abroad) (OMB Control Number 1651-0010), to the U.S. Customs and Border Protection (CBP), pursuant to 19 CFR 148.1, and as required by this section.

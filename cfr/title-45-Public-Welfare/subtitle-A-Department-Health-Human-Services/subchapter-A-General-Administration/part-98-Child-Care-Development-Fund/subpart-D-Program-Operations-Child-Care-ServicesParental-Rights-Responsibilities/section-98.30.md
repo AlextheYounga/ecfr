@@ -1,14 +1,14 @@
 ##### § 98.30 Parental choice. #####
 
-Link to an amendment published at 89 FR 15413, Mar. 1, 2024.
-
 (a) The parent or parents of an eligible child who receives or is offered child care services shall be offered a choice:
 
 (1) To enroll the child with an eligible child care provider that has a grant or contract for the provision of such services, if such services are available; or
 
 (2) To receive a child care certificate as defined in § 98.2. Such choice shall be offered any time that child care services are made available to a parent.
 
-(b) When a parent elects to enroll the child with a provider that has a grant or contract for the provision of child care services, the child will be enrolled with the provider selected by the parent to the maximum extent practicable.
+(b)(1) Lead Agencies shall increase parent choice by providing some portion of the delivery of direct services via grants or contracts, including at a minimum for children in underserved geographic areas, infants and toddlers, and children with disabilities.
+
+(2) When a parent elects to enroll the child with a provider that has a grant or contract for the provision of child care services, the child will be enrolled with the provider selected by the parent to the maximum extent practicable.
 
 (c) In cases in which a parent elects to use a child care certificate, such certificate:
 
@@ -52,4 +52,4 @@ Link to an amendment published at 89 FR 15413, Mar. 1, 2024.
 
 (h) Parental choice provisions shall not be construed as prohibiting a Lead Agency from providing parents with information and incentives that encourage the selection of high-quality child care.
 
-[63 FR 39981, July 24, 1998, as amended at 81 FR 67580, Sept. 30, 2016]
+[63 FR 39981, July 24, 1998, as amended at 81 FR 67580, Sept. 30, 2016; 89 FR 15413, Mar. 1, 2024]

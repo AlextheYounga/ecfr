@@ -1,5 +1,7 @@
 ##### § 622.480 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
+Link to an amendment published at 89 FR 34169, Apr. 30, 2024.
+
 (a) *Reef fish.* (1) The ACLs are as follows and given in round weight.
 
 Table 1 to § 622.480(a)(1)

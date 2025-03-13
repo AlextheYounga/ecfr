@@ -1,5 +1,7 @@
 ##### § 1461.3 Requirements for flame mitigation devices on portable fuel containers. #####
 
+Link to an amendment published at 89 FR 34106, Apr. 30, 2024.
+
 Each portable fuel container manufactured for sale in the United States shall conform to one of the following applicable requirements.
 
 (a) *Containers sold pre-filled.* Portable fuel containers sold pre-filled with a flammable liquid to the consumer must comply with the requirements of ASTM F3429/F3429M-23 (incorporated by reference, see § 1461.4).
