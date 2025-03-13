@@ -1,6 +1,6 @@
 ##### § 20.19 Hearing loss compatible wireless handsets. #####
 
-Link to an amendment published at 89 FR 89866, Nov. 13, 2024.Link to an amendment published at 89 FR 89868, Nov. 13, 2024.
+Link to an amendment published at 89 FR 89866, Nov. 13, 2024.Link to an amendment published at 89 FR 89868, Nov. 13, 2024.Link to an amendment published at 89 FR 105473, Dec. 27, 2024.
 
 (a) *Definitions.* For purposes of this section:
 
@@ -64,9 +64,9 @@ Link to an amendment published at 89 FR 89866, Nov. 13, 2024.Link to an amendmen
 
 (iv) All such new handset models must come out-of-the-box with their hearing aid compatibility related acoustic and volume control functions turned on by default. Such handset models may also have secondary settings to turn on the handset model's telecoil or Bluetooth coupling functions, depending on the secondary capability included in a particular handset model. All such handset models must have settings for acoustic, telecoil, or Bluetooth coupling (depending on the coupling functionality included) and volume control functionality that are clearly labeled and allow consumers to easily find these settings and to turn these functions on or off as they desire.
 
-(3) *Bluetooth coupling requirements.* (i) Between December 14, 2026, and December 12, 2028, the Bluetooth coupling requirement may be met using either proprietary or non-proprietary Bluetooth coupling technology.
+(3) *Bluetooth coupling requirements.* (i) Between December 14, 2026, and December 13, 2028, the Bluetooth coupling requirement may be met using either proprietary or non-proprietary Bluetooth coupling technology.
 
-(ii) Beginning on December 12, 2028, the Bluetooth coupling requirement may only be met using Bluetooth coupling technology that:
+(ii) Beginning on December 13, 2028, the Bluetooth coupling requirement may only be met using Bluetooth coupling technology that:
 
 (A) Utilizes a global, low power wireless technology standard for high quality audio voice streaming;
 
@@ -78,7 +78,7 @@ Link to an amendment published at 89 FR 89866, Nov. 13, 2024.Link to an amendmen
 
 (E) Uses a design that meets broad, generic hearing aid requirements that addresses needed features when coupling to handset models for all forms of voice calls and associated handset model use.
 
-(4) *Handset models operating over multiple frequency bands or air interfaces.* (i) Between December 12, 2024, and December 14, 2026, a handset model is hearing aid-compatible if it meets the requirements of paragraph (b)(1) of this section for all frequency bands that are specified in the 2019 ANSI standard and all air interfaces over which it operates on those frequency bands, and the handset model has been certified as compliant with the test requirements for the 2019 ANSI standard pursuant to § 2.1033(d) of this chapter.
+(4) *Handset models operating over multiple frequency bands or air interfaces.* (i) Between December 13, 2024, and December 14, 2026, a handset model is hearing aid-compatible if it meets the requirements of paragraph (b)(1) of this section for all frequency bands that are specified in the 2019 ANSI standard and all air interfaces over which it operates on those frequency bands, and the handset model has been certified as compliant with the test requirements for the 2019 ANSI standard pursuant to § 2.1033(d) of this chapter.
 
 (ii) Beginning on December 14, 2026, a handset model is hearing aid-compatible if it meets the requirements of paragraph (b)(2) of this section for all frequency bands that are specified in the 2019 ANSI standard and all air interfaces over which it operates on those frequency bands, and:
 
@@ -120,9 +120,9 @@ Link to an amendment published at 89 FR 89866, Nov. 13, 2024.Link to an amendmen
 
 (4) *Nationwide service providers—Number of hearing aid-compatible handset models offered after June 14, 2027.* All handset models that nationwide service providers offer and add to their handset model portfolios must meet the same requirements that handset manufacturer handset models must meet as set forth in paragraph (c)(2) of this section.
 
-(5) *Non-nationwide service providers—Number of hearing aid-compatible handsets models offered prior to June 12, 2028.* At least eight-five (85) percent of those handset models (rounded down to the nearest whole number) must be hearing aid-compatible as defined under paragraph (b)(1) of this section.
+(5) *Non-nationwide service providers—Number of hearing aid-compatible handsets models offered prior to June 13, 2028.* At least eight-five (85) percent of those handset models (rounded down to the nearest whole number) must be hearing aid-compatible as defined under paragraph (b)(1) of this section.
 
-(6) *Non-nationwide service providers—Number of hearing aid-compatible handset models offered after June 12, 2028.* All handset models that non-nationwide service providers offer and add to their handset model portfolios must meet the same requirements that handset manufacturer handset models must meet as set forth in paragraph (c)(2) of this section.
+(6) *Non-nationwide service providers—Number of hearing aid-compatible handset models offered after June 13, 2028.* All handset models that non-nationwide service providers offer and add to their handset model portfolios must meet the same requirements that handset manufacturer handset models must meet as set forth in paragraph (c)(2) of this section.
 
 (7) *Availability and in-store testing of hearing aid-compatible handset models.* All handset manufacturers and service providers must make their best efforts to make available all hearing aid-compatible handset models that they offer for sale or use to consumers to test, in each retail store owned or operated by the handset manufacturer or service provider. If a handset model is not available in-store for testing, handset manufacturers and service providers must make their best efforts to make the handset model available to the consumer for testing within 48 hours by shipping the handset model either to the store or to the consumer's home. Further, handset manufacturers and service providers must make their best efforts to ensure that all of the hearing aid-compatible handset models that they offer for sale or use will be in the hands of consumers within 48 hours of the consumer ordering the hearing aid-compatible handset model.
 
@@ -136,7 +136,7 @@ Link to an amendment published at 89 FR 89866, Nov. 13, 2024.Link to an amendmen
 
 (3) Manufacturers that offer four or five handset models in an air interface must offer at least two handset models that are hearing aid-compatible under paragraph (b) of this section in that air interface. Tier I carriers who offer four handset models in an air interface must offer at least two handsets that are hearing aid-compatible under paragraph (b) of this section in that air interface and Tier I carriers who offer five handset models in an air interface must offer at least three handsets that are hearing aid-compatible under paragraph (b) of this section in that air interface. Service providers, other than Tier I carriers, who offer four handset models in an air interface must offer at least two handset models that are hearing aid-compatible under paragraph (b) of this section in that air interface and service providers, other than Tier I carriers, who offer five handset models in an air interface must offer at least three handsets that are hearing aid-compatible under paragraph (b) of this section in that air interface.
 
-(4) Beginning December 14, 2026, handset manufacturers may no longer claim *de minimis* status under the terms of this section. Beginning June 14, 2027, nationwide service providers may no longer claim *de minimis* status under the terms of this section. Beginning June 12, 2028, non-nationwide service providers may no longer claim *de minimis* status under the terms of this section.
+(4) Beginning December 14, 2026, handset manufacturers may no longer claim *de minimis* status under the terms of this section. Beginning June 14, 2027, nationwide service providers may no longer claim *de minimis* status under the terms of this section. Beginning June 13, 2028, non-nationwide service providers may no longer claim *de minimis* status under the terms of this section.
 
 (f) *Labeling and disclosure requirements for hearing aid-compatible handsets*—(1) *Package label.* For all handset models certified to be hearing aid-compatible, manufacturers and service providers shall ensure that the handset's package label states that the handset is hearing aid-compatible and the handset's actual conversational gain with and without a hearing aid if certified using a technical standard with volume control requirements. The actual conversational gain displayed for use with a hearing aid shall be the lowest rating assigned to the handset for any covered air interface or frequency band.
 
@@ -252,4 +252,4 @@ The company represents and warrants, and I certify by this declaration under pen
 
 (ii) [Reserved]
 
-[73 FR 25587, May 7, 2008, as amended at 75 FR 54522, Sept. 8, 2010; 77 FR 41928, July 17, 2012; 81 FR 183, Jan. 5, 2016; 81 FR 60633, Sept. 2, 2016; 83 FR 8631, Feb. 28, 2018; 83 FR 63105, Dec. 7, 2018; 84 FR 37592, Aug. 1, 2019; 86 FR 23625, 23627, May 4, 2021; 88 FR 21439, Apr. 10, 2023; 89 FR 89864, Nov. 13, 2024]
+[73 FR 25587, May 7, 2008, as amended at 75 FR 54522, Sept. 8, 2010; 77 FR 41928, July 17, 2012; 81 FR 183, Jan. 5, 2016; 81 FR 60633, Sept. 2, 2016; 83 FR 8631, Feb. 28, 2018; 83 FR 63105, Dec. 7, 2018; 84 FR 37592, Aug. 1, 2019; 86 FR 23625, 23627, May 4, 2021; 88 FR 21439, Apr. 10, 2023; 89 FR 89864, Nov. 13, 2024; 89 FR 105473, Dec. 27, 2024]

@@ -26,9 +26,9 @@ Equation 1 to Paragraph (b)(2)LFY = LFY-1\*(1+AFFY)Where LFY is the CA-assisted 
 
 (1) *Initial rate.* For the period from November 1, 2024, through June 30, 2025, the Supplemental Compensation Rate for CA-assisted IP CTS shall be $0.21 per minute. This rate shall be paid, in addition to the compensation defined in paragraph (b) of this section, for all compensable minutes of CA-assisted service provided by a Certified Provider for which the communications assistant producing captions was paid an hourly wage of at least $17.20 (the Minimum Hourly Wage).
 
-(2) *Succeeding years.* (i) For each succeeding TRS Fund Year through June 30, 2027, the per-minute Supplemental Compensation Rate for CA-assisted IP CTS shall be determined in accordance with the following equation:
+(2) *Succeeding years.* (i) For each succeeding TRS Fund Year through June 30, 2029, the per-minute Supplemental Compensation Rate for CA-assisted IP CTS shall be determined in accordance with the following equation:
 
-Equation 2 to Paragraph (c)(2)(i)LFY = LFY-1\*(1+AFFY)Where LFY is the CA-assisted Compensation Level for the new Fund Year, LFY-1 is the CA-assisted Compensation Level for the previous Fund Year, and AFFY is the Adjustment Factor for the new Fund Year, as defined by paragraph (b)(3) of this section.
+Equation 2 to Paragraph (c)(2)(i)LFY = LFY-1 \* (1 + AFFY)Where LFY is the CA-assisted Compensation Level for the new Fund Year, LFY-1 is the CA-assisted Compensation Level for the previous Fund Year, and AFFY is the Adjustment Factor for the new Fund Year, as defined by paragraph (b)(3) of this section.
 
 (ii) The rate in paragraph (c)(2)(i) of this section shall be paid, in addition to the compensation defined in paragraph (b) of this section, for all compensable minutes of CA-assisted service provided by a Certified Provider for which the communications assistant producing captions was paid a Minimum Hourly Wage of at least the amount determined by the following equation:
 
@@ -46,4 +46,4 @@ Equation 3 to Paragraph (c)(2)(ii)WFY = WFY-1\*(1+AFFY)Where WFY is the Minimum 
 
 (4) If unrecovered, would cause a provider's current allowable-expenses-plus-allowed-operating margin to exceed its revenues.
 
-[89 FR 71859, Sept. 4, 2024]
+[89 FR 71859, Sept. 4, 2024, as amended at 89 FR 105474, Dec. 27, 2024]

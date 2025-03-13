@@ -72,4 +72,4 @@ Instruction.
 
 (f) Every investment adviser not a majority-owned subsidiary of a registered investment company shall maintain such accounts, books and other documents as are required to be maintained by registered investment advisers by rule adopted under section 204 of the Investment Advisers Act of 1940, to the extent such records are necessary or appropriate to record such person's transactions with such registered investment company.
 
-(Sec. 31, 54 Stat. 838; 15 U.S.C. 80a-30)[27 FR 11993, Dec. 5, 1962, as amended at 61 FR 13983, Mar. 28, 1996; 62 FR 64986, Dec. 9, 1997; 79 FR 47968, Aug. 14, 2014; 80 FR 58155, Sept. 25, 2015; 89 FR 47789, June 3, 2024]
+(Sec. 31, 54 Stat. 838; 15 U.S.C. 80a-30) [27 FR 11993, Dec. 5, 1962, as amended at 61 FR 13983, Mar. 28, 1996; 62 FR 64986, Dec. 9, 1997; 79 FR 47968, Aug. 14, 2014; 80 FR 58155, Sept. 25, 2015; 89 FR 47789, June 3, 2024]

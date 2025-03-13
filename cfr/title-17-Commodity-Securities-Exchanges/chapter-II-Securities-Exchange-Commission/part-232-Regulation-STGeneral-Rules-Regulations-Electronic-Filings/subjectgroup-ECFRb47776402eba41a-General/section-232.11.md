@@ -1,5 +1,7 @@
 ##### § 232.11 Definition of terms used in this part. #####
 
+Link to an amendment published at 89 FR 106222, Dec. 27, 2024.
+
 Unless otherwise specifically provided, the terms used in Regulation S-T (part 232 of this chapter) have the same meanings as in the federal securities laws and the rules, regulations and forms promulgated thereunder. In addition, the following definitions of terms apply specifically to electronic format documents and shall apply wherever they appear in laws, rules, regulations and forms governing such documents, unless the context otherwise specifies:
 
 *Animated graphics.* The term *animated graphics* means text or images that do not remain static but that may move when viewed in a browser.

@@ -1,6 +1,6 @@
 ##### § 1208.16 Withholding of removal under section 241(b)(3)(B) of the Act and withholding of removal under the Convention Against Torture. #####
 
-Link to an amendment published at 85 FR 84197, Dec. 23, 2020.This amendment was delayed until Mar. 22, 2021, at 86 FR 6847, Jan. 25, 2021.This amendment was further delayed until Dec. 31, 2021, at 86 FR 15069, Mar. 22, 2021.This amendment was further delayed until Dec. 31, 2022, at 86 FR 73615, Dec. 28, 2021.This amendment was further delayed until Dec. 31, 2024, at 87 FR 79789, Dec. 28, 2022.
+Link to an amendment published at 85 FR 84197, Dec. 23, 2020.This amendment was delayed until Mar. 22, 2021, at 86 FR 6847, Jan. 25, 2021.This amendment was further delayed until Dec. 31, 2021, at 86 FR 15069, Mar. 22, 2021.This amendment was further delayed until Dec. 31, 2022, at 86 FR 73615, Dec. 28, 2021.This amendment was further delayed until Dec. 31, 2024, at 87 FR 79789, Dec. 28, 2022.This amendment was further delayed until Dec. 31, 2025, at 89 FR 105386, Dec. 27, 2024.
 
 (a) *Consideration of application for withholding of removal.* Consideration of eligibility for statutory withholding of removal and protection under the Convention Against Torture by a DHS officer is as provided at 8 CFR 208.16. In exclusion, deportation, or removal proceedings, an immigration judge may adjudicate both an asylum claim and a request for withholding of removal whether or not asylum is granted.
 

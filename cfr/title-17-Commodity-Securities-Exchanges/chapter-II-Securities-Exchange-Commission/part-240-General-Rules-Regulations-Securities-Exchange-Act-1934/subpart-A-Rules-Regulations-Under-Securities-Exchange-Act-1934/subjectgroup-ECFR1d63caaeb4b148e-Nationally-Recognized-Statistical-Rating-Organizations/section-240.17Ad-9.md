@@ -46,4 +46,4 @@ As used in this section and §§ 240.17Ad-10, 240.17Ad-11, 240.17Ad-12 and 240.1
 
 (l) A *file* includes automated and manual records.
 
-(Secs. 2, 17(a), 17A(d) and 23(a) thereof, 15 U.S.C. 78b, 78q(a), 78q-1(d) and 78w(a))[48 FR 28246, June 21, 1983]
+(Secs. 2, 17(a), 17A(d) and 23(a) thereof, 15 U.S.C. 78b, 78q(a), 78q-1(d) and 78w(a)) [48 FR 28246, June 21, 1983]

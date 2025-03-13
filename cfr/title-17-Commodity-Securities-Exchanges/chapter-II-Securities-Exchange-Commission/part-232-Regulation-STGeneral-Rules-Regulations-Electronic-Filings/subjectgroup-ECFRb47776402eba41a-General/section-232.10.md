@@ -1,5 +1,7 @@
 ##### § 232.10 Application of part 232. #####
 
+Link to an amendment published at 89 FR 106222, Dec. 27, 2024.
+
 (a) This part, in conjunction with the EDGAR Filer Manual and the electronic filing provisions of applicable rules, regulations and forms, shall govern the electronic submission of documents filed or otherwise submitted to the Commission and shall be controlling for an electronic format document in the manner and respects provided in this part.
 
 (b) Each registrant, third party filer, or agent must, before filing on EDGAR:

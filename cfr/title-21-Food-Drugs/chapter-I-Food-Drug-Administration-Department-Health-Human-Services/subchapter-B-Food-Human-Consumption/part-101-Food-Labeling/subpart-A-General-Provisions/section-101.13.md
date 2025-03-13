@@ -1,5 +1,7 @@
 ##### § 101.13 Nutrient content claims—general principles. #####
 
+Link to an amendment published at 89 FR 106162, Dec. 27, 2024.
+
 (a) This section and the regulations in subpart D of this part apply to foods that are intended for human consumption and that are offered for sale, including conventional foods and dietary supplements.
 
 (b) A claim that expressly or implicitly characterizes the level of a nutrient of the type required to be in nutrition labeling under § 101.9 or under § 101.36 (that is, a nutrient content claim) may not be made on the label or in labeling of foods unless the claim is made in accordance with this regulation and with the applicable regulations in subpart D of this part or in part 105 or part 107 of this chapter.

@@ -1,4 +1,4 @@
-##### § 135.340 Initial and transition training and checking: Flight instructors (aircraft), flight instructors (simulator). #####
+##### § 135.340 Initial and transition training and checking: Flight instructors. #####
 
 Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
 
@@ -56,4 +56,4 @@ Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
 
 (2) Training in the operation of flight simulators, flight training devices, or both, to ensure competence to conduct the flight instruction required by this part.
 
-[Doc. No. 28471, 61 FR 30745, June 17, 1996; 61 FR 34927, July 3, 1996; 62 FR 3739, Jan. 24, 1997, as amended by Docket No. FAA-2019-0360; Amdt. No. 135-145, 89 FR 51432, June 18, 2024]
+[Doc. No. 28471, 61 FR 30745, June 17, 1996; 61 FR 34927, July 3, 1996; 62 FR 3739, Jan. 24, 1997, as amended by Docket No. FAA-2019-0360; Amdt. No. 135-145, 89 FR 51432, June 18, 2024; Docket No. FAA-2019-0360; Amdt. No. 135-145A, 89 FR 105448, Dec. 27, 2024]

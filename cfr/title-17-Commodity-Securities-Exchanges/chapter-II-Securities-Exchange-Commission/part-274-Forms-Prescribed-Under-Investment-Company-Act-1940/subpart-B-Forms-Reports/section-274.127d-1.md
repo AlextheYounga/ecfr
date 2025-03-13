@@ -2,4 +2,4 @@
 
 This form shall be completed and filed with the Commission as a report required by § 270.27d-1 of this chapter by each depositor or principal underwriter, within 15 days after the close of each quarter during the first 2 years after the effective date of § 270.27d-1 of this chapter, and thereafter this form shall be filed annually on or before January 31 of the following calendar year. Each investment company for which a segregated trust account is established shall be listed on the cover page. Two copies of the form, plus an additional copy for each registered investment company covered, shall be filed and the filing shall be signed by an authorized representative of the depositor or underwriter.
 
-[36 FR 24056, Dec. 18, 1971]Editorial Note:For Federal Register citations affecting Form N-27D-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[36 FR 24056, Dec. 18, 1971] Editorial Note:For Federal Register citations affecting Form N-27D-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

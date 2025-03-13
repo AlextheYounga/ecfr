@@ -96,7 +96,7 @@ Theoretical Pricing Charges
 
 (*3*) In the case of portfolio types involving index options and related instruments offset by a qualified stock basket, there will be a minimum charge of 5 percent of the market value of the qualified stock basket for high-capitalization diversified and narrow-based indexes;
 
-(*4*) In the case of portfolio types involving index options and related instruments offset by a qualified stock basket, there will be a minimum charge of 71/2 percent of the market value of the qualified stock basket for non-high-capitalization diversified indexes; and
+(*4*) In the case of portfolio types involving index options and related instruments offset by a qualified stock basket, there will be a minimum charge of 7 1/2 percent of the market value of the qualified stock basket for non-high-capitalization diversified indexes; and
 
 (*5*) In the case of portfolio types involving security futures and equity options on the same underlying instrument and positions in that underlying instrument, there will be a minimum charge of 25 percent times the multiplier for each security future and equity option.
 

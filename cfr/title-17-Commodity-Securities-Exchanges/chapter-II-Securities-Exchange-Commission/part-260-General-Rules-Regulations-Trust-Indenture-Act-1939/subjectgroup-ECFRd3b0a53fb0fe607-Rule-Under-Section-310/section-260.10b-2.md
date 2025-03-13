@@ -8,4 +8,4 @@ If an application filed with the Commission pursuant to clause (ii) of section 3
 
 (c) All liens securing the securities will be released or all steps necessary to effect the release at the maturity or redemption date will be taken.
 
-The application shall be deemed to have been granted unless, within 7 days after it is filed, the Commission orders a hearing thereon.[6 FR 808, Feb. 7, 1941]
+The application shall be deemed to have been granted unless, within 7 days after it is filed, the Commission orders a hearing thereon. [6 FR 808, Feb. 7, 1941]

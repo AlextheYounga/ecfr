@@ -14,7 +14,7 @@
 
 (C) Is a statement in which the person making such statement has a duty to include such material fact; or
 
-(iv) Is for payment for the provision of property or services which the person has not provided as claimed, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $13,946 for each such claim.
+(iv) Is for payment for the provision of property or services which the person has not provided as claimed, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $14,308 for each such claim.
 
 (2) Each voucher, invoice, claim form, or other individual request or demand for property, services, or money constitutes a separate claim.
 
@@ -32,7 +32,7 @@
 
 (B) Is false, fictitious, or fraudulent because it omits a material fact that the person making the statement has a duty to include in such statement, and
 
-(ii) Contains or is accompanied by an express certification or affirmation of the truthfulness and accuracy of the contents of the statement, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $13,946 for each such statement.
+(ii) Contains or is accompanied by an express certification or affirmation of the truthfulness and accuracy of the contents of the statement, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $14,308 for each such statement.
 
 (2) Each written representation, certification, or affirmation constitutes a separate statement.
 
@@ -48,4 +48,4 @@
 
 (f) In any case in which it is determined that more than one person is liable for making a claim under this section on which the Government has made payment (including transferred property or provided services), an assessment may be imposed against any such person or jointly and severally against any combination of such persons.
 
-[53 FR 44385, Nov. 3, 1988, as amended at 62 FR 46184, Sept. 2, 1997; 74 FR 66033, Dec. 14, 2009; 79 FR 20, Jan. 2, 2014; 81 FR 41795, June 28, 2016; 81 FR 96353, Dec. 30, 2016; 83 FR 1293, Jan. 11, 2018; 83 FR 66084, Dec. 26, 2018; 85 FR 831, Jan. 8, 2020; 86 FR 2957, Jan. 14, 2021; 87 FR 1065, Jan. 10, 2022; 88 FR 2194, Jan. 13, 2023; 89 FR 1029, Jan. 9, 2024]
+[53 FR 44385, Nov. 3, 1988, as amended at 62 FR 46184, Sept. 2, 1997; 74 FR 66033, Dec. 14, 2009; 79 FR 20, Jan. 2, 2014; 81 FR 41795, June 28, 2016; 81 FR 96353, Dec. 30, 2016; 83 FR 1293, Jan. 11, 2018; 83 FR 66084, Dec. 26, 2018; 85 FR 831, Jan. 8, 2020; 86 FR 2957, Jan. 14, 2021; 87 FR 1065, Jan. 10, 2022; 88 FR 2194, Jan. 13, 2023; 89 FR 1029, Jan. 9, 2024; 89 FR 105407, Dec. 27, 2024]

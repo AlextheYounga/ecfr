@@ -22,7 +22,7 @@
 
 (2) Receive information on and refer to the Director of Human Resources, any conflict of interests or appearance of conflict of interests in Statements of Employment and Financial Interests submitted by employees to whom they are required to give advice and guidance.
 
-(d) *Confidentiality of communications.* Communications between the Counselor and Regional Deputy Counselors and an employee shall be confidential, except as deemed necessary by the Commission or the Counselor to carry out the purposes of this subpart and of the laws of the United States.18
+(d) *Confidentiality of communications.* Communications between the Counselor and Regional Deputy Counselors and an employee shall be confidential, except as deemed necessary by the Commission or the Counselor to carry out the purposes of this subpart and of the laws of the United States. 18
 
 18 No attorney-client privilege, however, attaches to such communications since the Counselors are counsel to the Commission, not to the employee. Thus, any evidence of criminal law violations divulged by an employee to the Counselor must be reported by the latter to the Commission, which may refer the matter to the Criminal Division of the Department of Justice and the United States Attorney in whose venue the violations lie.
 

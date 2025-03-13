@@ -8,21 +8,21 @@
 
 (c) *Information to be included in the reports*—(1) *Annual report information.* The annual report must include the following:
 
-(A) Description of the “technology”;
+(i) Description of the “technology”;
 
-(B) All parties, including name and address, involved in the collaboration; and
+(ii) All parties, including name and address, involved in the collaboration; and
 
-(C) End item of the “technology,” including a description and ECCN of the end item (if known).
+(iii) End item of the “technology,” including a description and ECCN of the end item (if known).
 
 (2) *Termination report information.* The termination report must include the following:
 
-(A) Name of foreign person;
+(i) Name of foreign person;
 
-(B) Name of host company;
+(ii) Name of host company;
 
-(C) If they are leaving the United States to go to a destination specified in Country Group D:1 or D:5 (if known); and
+(iii) If they are leaving the United States to go to a destination specified in Country Group D:1 or D:5 (if known); and
 
-(D) If they are leaving to change employers within the United States.
+(iv) If they are leaving to change employers within the United States.
 
 (d) *Annual reporting requirement.* (1) You must submit the first report on November 5, 2024 subject to the provisions of this section. The report must be labeled with the exporting company's name and address at the top of each page and must include all the information specified in paragraph (c) of this section. The annual report shall cover collaboration occurring during the time between September 6, 2024 and October 28, 2024. Thereafter, reports are due according to the provisions of paragraph (d)(2) of this section.
 
@@ -32,4 +32,4 @@
 
 (f) *Contacts.* General information concerning the GAAFET General License report is available from the Office of National Security Controls, Tel. (202) 482-0092, or Email: *EAR.Reports@bis.doc.gov.*
 
-[89 FR 72939, Sept. 6, 2024]
+[89 FR 72939, Sept. 6, 2024, as amended at 89 FR 105449, Dec. 27, 2024]

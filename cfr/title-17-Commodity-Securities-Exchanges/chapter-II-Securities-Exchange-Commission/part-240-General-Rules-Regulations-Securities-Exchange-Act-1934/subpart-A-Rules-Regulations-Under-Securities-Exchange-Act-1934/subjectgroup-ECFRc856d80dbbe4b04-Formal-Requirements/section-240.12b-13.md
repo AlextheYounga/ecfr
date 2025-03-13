@@ -2,4 +2,4 @@
 
 The statement or report shall contain the numbers and captions of all items of the appropriate form, but the text of the items may be omitted provided the answers thereto are so prepared as to indicate to the reader the coverage of the items without the necessity of his referring to the text of the items or instructions thereto. However, where any item requires information to be given in tabular form, it shall be given in substantially the tabular form specified in the item. All instructions, whether appearing under the items of the form or elsewhere therein, are to be omitted. Unless expressly provided otherwise, if any item is inapplicable or the answer thereto is in the negative, an appropriate statement to that effect shall be made.
 
-(Secs. 4, 16, 19, 24, 48 Stat. 77, 896, 85, as amended, 901; 15 U.S.C. 77d, 78p, 77s, 78x)[30 FR 2023, Feb. 13, 1965]
+(Secs. 4, 16, 19, 24, 48 Stat. 77, 896, 85, as amended, 901; 15 U.S.C. 77d, 78p, 77s, 78x) [30 FR 2023, Feb. 13, 1965]

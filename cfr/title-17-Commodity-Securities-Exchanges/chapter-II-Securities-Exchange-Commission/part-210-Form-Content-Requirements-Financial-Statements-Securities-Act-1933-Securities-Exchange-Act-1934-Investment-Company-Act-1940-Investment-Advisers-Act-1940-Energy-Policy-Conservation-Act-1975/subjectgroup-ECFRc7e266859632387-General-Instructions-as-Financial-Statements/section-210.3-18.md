@@ -14,7 +14,6 @@
 
 (c) If the most current balance sheet or statement of assets and liabilities in a filing is as of a date 245 days or more prior to the date the filing is expected to become effective, the financial statements shall be updated with a balance sheet or statement of assets and liabilities as of an interim date within 245 days. In addition, the statements of operations, cash flows, and changes in net assets shall be provided for the interim period between the end of the most recent fiscal year for which a balance sheet or statement of assets and liabilities is presented and the date of the most recent interim balance sheet or statement of assets and liabilities filed.
 
-(d) Interim financial statements provided in accordance with these requirements may be unaudited but shall be presented in the same detail as required by §§ 210.6-01 through 210.6-11
-. When unaudited financial statements are presented in a registration statement, they shall include the statement required by § 210.3-03(d).
+(d) Interim financial statements provided in accordance with these requirements may be unaudited but shall be presented in the same detail as required by §§ 210.6-01 through 210.6-11 . When unaudited financial statements are presented in a registration statement, they shall include the statement required by § 210.3-03(d).
 
 [46 FR 36125, July 14, 1981; 46 FR 46795, Sept. 22, 1981, as amended at 47 FR 29837, July 9, 1982; 47 FR 56838, Dec. 21, 1982; 57 FR 45292, Oct. 1, 1992; 76 FR 71875, Nov. 21, 2011; 85 FR 54064, Aug. 31, 2020]

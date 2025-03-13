@@ -296,7 +296,7 @@ For a discussion of additional factors that may be relevant in evaluating certai
 
 (*3*) For the maintenance of records of the determination of deviation and the board's review thereof.
 
-(B) *Prompt consideration of deviation.* In the event such deviation from the money market fund's amortized cost price per share exceeds1/2 of 1 percent, the board of directors shall promptly consider what action, if any, should be initiated by the board of directors.
+(B) *Prompt consideration of deviation.* In the event such deviation from the money market fund's amortized cost price per share exceeds 1/2 of 1 percent, the board of directors shall promptly consider what action, if any, should be initiated by the board of directors.
 
 (C) *Material dilution or unfair results.* Where the board of directors believes the extent of any deviation from the money market fund's amortized cost price per share may result in material dilution or other unfair results to investors or existing shareholders, it shall cause the fund to take such action as it deems appropriate to eliminate or reduce to the extent reasonably practicable such dilution or unfair results.
 

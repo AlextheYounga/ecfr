@@ -64,11 +64,11 @@ Item 4. Statement of Ownership From a Nominating Shareholder or Each Member of a
 
 As of [date of this statement], [name of nominating shareholder or member of the nominating shareholder group] held at least [number of securities owned continuously for at least three years] of the [registrant's] [class of securities], and has held at least this amount of such securities continuously for [at least three years]. [Name of clearing agency participant] is a participant in [name of clearing agency] whose nominee name is [nominee name].
 
-[name of clearing agency participant]
+ [name of clearing agency participant]
 
-By: [name and title of representative]
+ By: [name and title of representative]
 
-Date:
+ Date:
 
 If the securities are held through a broker or bank (*e.g.* in an omnibus account) that is not a participant in a clearing agency acting as a securities depository, the nominating shareholder or member of the nominating shareholder group must (a) obtain and submit a written statement or statements (the “initial broker statement”) from the broker or bank with which the nominating shareholder or member of the nominating shareholder group maintains an account that provides the information about securities ownership set forth above and (b) obtain and submit a separate written statement from the clearing agency participant through which the securities of the nominating shareholder or member of the nominating shareholder group are held, that (i) identifies the broker or bank for whom the clearing agency participant holds the securities, and (ii) states that the account of such broker or bank has held, as of the date of the separate written statement, at least the number of securities specified in the initial broker statement, and (iii) states that this account has held at least that amount of securities continuously for at least three years.
 

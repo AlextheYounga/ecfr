@@ -2,7 +2,7 @@
 
 The Green Pea Crop Insurance Provisions for the 2025 and succeeding crop years are as follows:
 
-FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationGreen Pea Crop Provisions
+United States Department of AgricultureFederal Crop Insurance CorporationGreen Pea Crop Provisions
 
 In return for your payment of premium and administrative fee for the coverage, these Green Pea Crop Provisions will be attached to and made part of the Common Crop Insurance Policy, Basic Provisions (Basic Provisions) subject to the terms and conditions in your policy.
 
@@ -303,4 +303,4 @@ A late planting period is not applicable to green peas unless allowed by the Spe
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional levels of coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[62 FR 61903, Nov. 20, 1997, as amended at 62 FR 65173, Dec. 10, 1997; 76 FR 4804, Jan. 27, 2011; 81 FR 84399, Nov. 23, 2016; 89 FR 93467, Nov. 27, 2024]
+[62 FR 61903, Nov. 20, 1997, as amended at 62 FR 65173, Dec. 10, 1997; 76 FR 4804, Jan. 27, 2011; 81 FR 84399, Nov. 23, 2016; 89 FR 93467, Nov. 27, 2024; 89 FR 105381, Dec. 27, 2024]

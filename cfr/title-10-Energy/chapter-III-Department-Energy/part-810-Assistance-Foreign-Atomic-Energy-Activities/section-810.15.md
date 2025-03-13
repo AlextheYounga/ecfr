@@ -8,7 +8,7 @@
 
 (b) In accordance with Title 18 of the United States Code, section 1001, whoever knowingly and willfully falsifies, conceals, or covers up a material fact or makes or uses false, fictitious or fraudulent statements or representations shall be fined under that title or imprisoned up to five or eight years depending on the crime, or both.
 
-(c) In accordance with section 234 of the AEA, any person who violates any provision of section 57 b. of the AEA, as implemented under this part, shall be subject to a civil penalty, not to exceed $124,732 per violation, such amount to be adjusted annually for inflation pursuant to the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015. If any violation is a continuing one, each day from the point at which the violating activity began to the point at which the violating activity was suspended shall constitute a separate violation for the purpose of computing the applicable civil penalty. The mere act of suspending an activity does not constitute admission that the activity was a violation and does not waive the rights and processes outlined in paragraphs (c)(4) through (14) of this section or otherwise impact the right of the person to appeal any civil penalty that may be imposed.
+(c) In accordance with section 234 of the AEA, any person who violates any provision of section 57 b. of the AEA, as implemented under this part, shall be subject to a civil penalty, not to exceed $127,973 per violation, such amount to be adjusted annually for inflation pursuant to the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015. If any violation is a continuing one, each day from the point at which the violating activity began to the point at which the violating activity was suspended shall constitute a separate violation for the purpose of computing the applicable civil penalty. The mere act of suspending an activity does not constitute admission that the activity was a violation and does not waive the rights and processes outlined in paragraphs (c)(4) through (14) of this section or otherwise impact the right of the person to appeal any civil penalty that may be imposed.
 
 (1) In order to begin a proceeding to impose a civil penalty under this paragraph (c), the Deputy Administrator for Defense Nuclear Nonproliferation or his/her designee, shall notify the person by a written notice of violation sent by registered or certified mail to the last known address of such person, of:
 
@@ -114,4 +114,4 @@
 
 (16) The Under Secretary for Nuclear Security or his/her designee may publish redacted versions of notices of violation and final decisions.
 
-[80 FR 9375, Feb. 23, 2015, as amended at 88 FR 1979, Jan. 12, 2023; 89 FR 1028, Jan. 9, 2024]
+[80 FR 9375, Feb. 23, 2015, as amended at 88 FR 1979, Jan. 12, 2023; 89 FR 1028, Jan. 9, 2024; 89 FR 105406, Dec. 27, 2024]

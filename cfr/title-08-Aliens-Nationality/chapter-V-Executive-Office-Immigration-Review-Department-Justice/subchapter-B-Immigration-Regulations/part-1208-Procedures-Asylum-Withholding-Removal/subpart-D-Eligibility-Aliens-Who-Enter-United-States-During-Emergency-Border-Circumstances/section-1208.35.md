@@ -10,7 +10,7 @@ Notwithstanding any contrary section of this chapter, including §§ 1003.42, 12
 
 (B) Faced an imminent and extreme threat to life or safety, such as an imminent threat of rape, kidnapping, torture, or murder; or
 
-(C) Satisfied the definition of “victim of a severe form of trafficking in persons” provided in § 214.11 of this title.
+(C) Satisfied the definition of “victim of a severe form of trafficking in persons” provided in § 214.201 of this title.
 
 (ii) A noncitizen who demonstrates by a preponderance of the evidence any of the circumstances in paragraph (a)(2)(i) of this section shall necessarily establish exceptionally compelling circumstances.
 
@@ -42,4 +42,4 @@ Notwithstanding any contrary section of this chapter, including §§ 1003.42, 12
 
 (e) *Severability.* The Department intends that in the event that any provision of this section or the Presidential Proclamation of June 3, 2024, as defined in 8 CFR 1208.13(h) is held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, the provisions of this section should be construed so as to continue to give the maximum effect to those provisions permitted by law, unless such holding is that a provision is wholly invalid and unenforceable, in which event the provision should be severed from the remainder of this section and the holding should not affect the remainder of this section or the application of the provision to persons not similarly situated or to dissimilar circumstances.
 
-[89 FR 48771, June 7, 2024, as amended at 89 FR 81285, Oct. 7, 2024]Editorial Note:At 89 FR 81285, Oct. 7, 2024, § 1208.35 was amended by removing the reference to “§ 214.11(a)” in paragraph (a)(2)(i)(C) and adding in its place “214.201”. However, the amendment could not be incorporated due to an error in the amendatory instruction.
+[89 FR 48771, June 7, 2024, as amended at 89 FR 81285, Oct. 7, 2024; 89 FR 105403, Dec. 27, 2024]

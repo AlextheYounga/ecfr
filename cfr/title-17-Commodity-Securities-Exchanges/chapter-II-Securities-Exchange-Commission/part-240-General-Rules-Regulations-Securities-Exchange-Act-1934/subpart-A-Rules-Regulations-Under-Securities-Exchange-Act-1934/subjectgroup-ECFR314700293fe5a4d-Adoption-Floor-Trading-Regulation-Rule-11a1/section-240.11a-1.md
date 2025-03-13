@@ -22,7 +22,7 @@
 
 (d) Any national securities exchange may apply for an exemption from the provisions of this rule in compliance with the provisions of section 11(c) of the Act.
 
-(Sec. 11, 48 Stat. 891; 15 U.S.C. 78k)[29 FR 7381, June 6, 1964, as amended at 62 FR 544, Jan. 3, 1997]Note 1:
+(Sec. 11, 48 Stat. 891; 15 U.S.C. 78k) [29 FR 7381, June 6, 1964, as amended at 62 FR 544, Jan. 3, 1997] Note 1:
 
 The Commission finding that the floor trading plan of the New York Stock Exchange filed on May 25, 1964 is designed to eliminate floor trading activities not beneficial to the market hereby declares such plan effective August 3, 1964 subject to suspension or termination on sixty days written notice from the Commission, 29 FR 7381, June 6, 1964.
 

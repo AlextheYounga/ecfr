@@ -1,5 +1,7 @@
 ##### 501.106 OMB approval under the Paperwork Reduction Act. #####
 
+Link to an amendment published at 89 FR 105476, Dec. 27, 2024.
+
 The Paperwork Reduction Act of 1980 (44 U.S.C. 35, *et seq.*) imposes a requirement on Federal agencies to obtain approval from the Office of Management and Budget (OMB) before collecting information from 10 or more members of the public. The information collection and recordkeeping requirements contained in this section have been approved by the OMB. This table includes OMB approved control numbers from GSA (3090 series) and the Federal Acquisition Regulations (FAR) (9000 series) that are applicable to GSA acquisition requirements. The following OMB control numbers apply:
 
 |GSAR reference|                        OMB control No.                         |

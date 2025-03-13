@@ -1,6 +1,6 @@
 ##### § 11.317 Requirements to qualify for an STCW endorsement as master of vessels of less than 500 GT limited to near-coastal waters (management level). #####
 
-Link to an amendment published at 89 FR 93073, Nov. 25, 2024.
+Link to an amendment published at 89 FR 93073, Nov. 25, 2024.Link to a correction published at 89 FR 105473, Dec. 27, 2024.
 
 (a) To qualify for an STCW endorsement as master, an applicant must—
 

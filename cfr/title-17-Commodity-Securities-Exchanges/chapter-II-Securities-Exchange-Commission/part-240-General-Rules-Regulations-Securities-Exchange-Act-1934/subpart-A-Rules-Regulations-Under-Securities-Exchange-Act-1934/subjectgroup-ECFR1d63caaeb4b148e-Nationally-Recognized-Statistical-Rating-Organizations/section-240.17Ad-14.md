@@ -8,4 +8,4 @@
 
 (d) *Exemptions.* The Commission may exempt from the provisions of this rule, either unconditionally or on specified terms and conditions, any registered transfer agent, tender or exchange offer, or class of tender or exchange offers, if the Commission determines that an exemption is consistent with the public interest, the protection of investors, the prompt and accurate clearance and settlement of securities transactions, the maintenance of fair and orderly markets, or the removal of impediments to a national clearance and settlement system.
 
-(Secs. 2, 11A(a)(1)(B), 14(d)(4), 15(c)(3), 15(c)(6), 17A(a), 17A(d)(1), and 23(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78b, 78k-1(a)(1)(B), 78n(d)(4), 78o(c)(3), 78o(c)(6), 78q-1(a), 78q-1(d)(1) and 78w(a)))[49 FR 3071, Jan. 25, 1984]
+(Secs. 2, 11A(a)(1)(B), 14(d)(4), 15(c)(3), 15(c)(6), 17A(a), 17A(d)(1), and 23(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78b, 78k-1(a)(1)(B), 78n(d)(4), 78o(c)(3), 78o(c)(6), 78q-1(a), 78q-1(d)(1) and 78w(a))) [49 FR 3071, Jan. 25, 1984]

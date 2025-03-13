@@ -38,4 +38,4 @@
 
 (vi) The sponsor shall deposit units of existing series in the new series without a sales charge.
 
-(Secs. 6(c) and 38(a) (15 U.S.C. 80a-6(c) and 15 U.S.C. 80a-37(a)))[44 FR 29646, May 22, 1979; 44 FR 40064, July 9, 1979]
+(Secs. 6(c) and 38(a) (15 U.S.C. 80a-6(c) and 15 U.S.C. 80a-37(a))) [44 FR 29646, May 22, 1979; 44 FR 40064, July 9, 1979]

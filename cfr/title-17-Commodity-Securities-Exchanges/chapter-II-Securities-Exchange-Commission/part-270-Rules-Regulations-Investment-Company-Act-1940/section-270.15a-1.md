@@ -4,8 +4,8 @@ An investment adviser of a registered investment company shall be exempt from th
 
 (a) Such investment adviser is not an affiliated person of such company (except as investment adviser) nor of any principal underwriter for such company.
 
-(b) His compensation as investment adviser of such company in any fiscal year of the company during which any such contract is in effect either (1) is not more than $100 or (2) is not more than $2,500 and not more than1/40 of 1 percent of the value of the company's net assets averaged over the year or taken as of a definite date or dates within the year.
+(b) His compensation as investment adviser of such company in any fiscal year of the company during which any such contract is in effect either (1) is not more than $100 or (2) is not more than $2,500 and not more than 1/40 of 1 percent of the value of the company's net assets averaged over the year or taken as of a definite date or dates within the year.
 
-(c) The aggregate compensation of all investment advisers of such company exempted pursuant to this section in any fiscal year of the company either (1) is not more than $200 or (2) is not more than1/20 of 1 percent of the value of the company's net assets averaged over the year or taken as of a definite date or dates within the year.
+(c) The aggregate compensation of all investment advisers of such company exempted pursuant to this section in any fiscal year of the company either (1) is not more than $200 or (2) is not more than 1/20 of 1 percent of the value of the company's net assets averaged over the year or taken as of a definite date or dates within the year.
 
 [Rule N-15A-1, 6 FR 2275, Jan. 8, 1944]

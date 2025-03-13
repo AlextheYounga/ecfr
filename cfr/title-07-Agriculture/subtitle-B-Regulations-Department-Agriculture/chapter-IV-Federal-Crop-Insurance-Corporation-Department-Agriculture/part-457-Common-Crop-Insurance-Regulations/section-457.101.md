@@ -347,6 +347,14 @@ If you elected revenue protection:
 
 (i) For buckwheat, and for barley, flax, oats, rye, or wheat under yield protection, not less than the production guarantee (per acre), and for barley, flax, oats, rye, or wheat under revenue protection, not less than the amount of production that when multiplied by the harvest price equals the revenue protection guarantee (per acre) for acreage:
 
+(A) Which is abandoned;
+
+(B) Put to another use without our consent;
+
+(C) Damaged solely by uninsured causes; or
+
+(D) For which you fail to provide records of production that are acceptable to us;
+
 (ii) Production lost due to uninsured causes;
 
 (iii) Unharvested production (mature unharvested production may be adjusted for quality deficiencies and excess moisture in accordance with section 11(d));
@@ -427,4 +435,4 @@ A late planting period is applicable to small grains, except to any barley or wh
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents. In counties for which the Special Provisions designate a spring type, your prevented planting production guarantee will be based on your approved yield for spring-planted acreage of the insured crop.
 
-[59 FR 9391, Feb. 28, 1994, as amended at 60 FR 62723, Dec. 7, 1995; 62 FR 65164, Dec. 10, 1997; 67 FR 43526, June 28, 2002; 68 FR 34268, June 9, 2003; 75 FR 15875, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016; 86 FR 33849, June 25, 2021; 86 FR 38537, July 22, 2021; 87 FR 72362, Nov. 25, 2022; 89 FR 53834, June 27, 2024; 89 FR 93467, Nov. 27, 2024]Editorial Note:At 86 FR 33489, June 25, 2021, § 457.101, in section 7 of the clause, paragraphs (c)(2)(v) introductory text, and (c)(2)(v)(A), (B), (D), and (E) were revised. However, due to an inaccurate amendatory instruction, the amendments could not be incorporated.
+[59 FR 9391, Feb. 28, 1994, as amended at 60 FR 62723, Dec. 7, 1995; 62 FR 65164, Dec. 10, 1997; 67 FR 43526, June 28, 2002; 68 FR 34268, June 9, 2003; 75 FR 15875, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016; 86 FR 33849, June 25, 2021; 86 FR 38537, July 22, 2021; 87 FR 72362, Nov. 25, 2022; 89 FR 53834, June 27, 2024; 89 FR 93467, Nov. 27, 2024; 89 FR 105381, Dec. 27, 2024]Editorial Note:At 86 FR 33489, June 25, 2021, § 457.101, in section 7 of the clause, paragraphs (c)(2)(v) introductory text, and (c)(2)(v)(A), (B), (D), and (E) were revised. However, due to an inaccurate amendatory instruction, the amendments could not be incorporated.

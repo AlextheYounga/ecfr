@@ -1,4 +1,4 @@
-##### § 249b.100 Form TA-1,1 uniform form for registration as a transfer agent pursuant to section 17A of the Securities Exchange Act of 1934. #####
+##### § 249b.100 Form TA-1, 1 uniform form for registration as a transfer agent pursuant to section 17A of the Securities Exchange Act of 1934. #####
 
 1 Copies of the form may be obtained from the Publications Section, Securities and Exchange Commission, 100 F Street, NE., Washington, DC 20549 and from each of the Commission's regional offices.
 

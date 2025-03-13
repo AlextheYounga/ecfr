@@ -24,4 +24,4 @@
 
 (5) A general partner or managing agent of a broker or dealer shall be deemed to be a nonresident if he resides in any place not subject to the jurisdiction of the United States.
 
-(Sec. 319, 53 Stat. 1173, secs. 38, 211, 54 Stat. 641, 855; 15 U.S.C. 77sss, 80a-37, 80b-11)[18 FR 2578, May 2, 1953, as amended at 23 FR 9691, Dec. 16, 1958; 29 FR 16982, Dec. 11, 1964. Redesignated at 30 FR 11851, Sept. 16, 1965]
+(Sec. 319, 53 Stat. 1173, secs. 38, 211, 54 Stat. 641, 855; 15 U.S.C. 77sss, 80a-37, 80b-11) [18 FR 2578, May 2, 1953, as amended at 23 FR 9691, Dec. 16, 1958; 29 FR 16982, Dec. 11, 1964. Redesignated at 30 FR 11851, Sept. 16, 1965]

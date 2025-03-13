@@ -4,4 +4,4 @@
 
 (b) Upon request, a registered clearing agency shall furnish a securities position listing promptly to each issuer whose securities are held in the name of the clearing agency or its nominee. A registered clearing agency may charge issuers requesting securities position listings a fee designed to recover the reasonable costs of providing the securities position listing to the issuer.
 
-(Secs. 2, 17A, and 23(a) (15 U.S.C. 78b, 78q-1, and 78w(a)))[44 FR 76777, Dec. 28, 1979]
+(Secs. 2, 17A, and 23(a) (15 U.S.C. 78b, 78q-1, and 78w(a))) [44 FR 76777, Dec. 28, 1979]

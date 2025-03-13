@@ -26,7 +26,7 @@
 |<sup>2</sup>Id. See Standard & Poor's Trade and Securities Statistics Security and Price Index Record—1970 Edition, p. 133 for explanation of quarterly dividend yield.|                                                |                                        |    |
 |                                              <sup>3</sup> Quarterly percentages have been founded to two decimal places.                                              |                                                |                                        |    |
 
-Change in index value for 1971: 102.09 − 92.15 = 9.94.Accumulated value of dividends for 1971:![](/graphics/ec14no91.094.gif)
+Change in index value for 1971: 102.09 − 92.15 = 9.94. Accumulated value of dividends for 1971:![](/graphics/ec14no91.094.gif)
 
 Aggregate value of dividends paid, assuming quarterly reinvestment and computed consistently with the index:
 
@@ -66,7 +66,7 @@ April-June = 1.0078
 
 July-September = 1.0079
 
-October-November = 1.00534
+October-November = 1.0053 4
 
 4 The rate for October and November would be two-thirds of the yield for the quarter ended Sept. 30 (i.e. .667 × .79 = 5269) since the yield for the quarter ended Dec. 31 would not be available as of Nov. 30.
 
@@ -94,7 +94,7 @@ Investment record of the Standard & Poor's 500 Stock Composite Index for the 12 
 |<sup>3</sup> Source: The Exchange, New York Stock Exchange magazine, May, Aug., Nov. 1971 and Feb. 1972 editions. Upon request the Statistics Division of the Research Department of the NYSE will make this figure available within 10 days of the end of each quarter.|                            |                                                                                                               |                                                                                                              |                                                      |
 |                                                                                                            <sup>4</sup> The ratio of column 4 to column 3.                                                                                                             |                            |                                                                                                               |                                                                                                              |                                                      |
 
-Change in NYSE Composite Index value for 1971: 56.43 − 50.23 = 6.20.Accumulated Value of Dividends of NYSE Composite Index for 1971:![](/graphics/ec14no91.097.gif)
+Change in NYSE Composite Index value for 1971: 56.43 − 50.23 = 6.20.Accumulated Value of Dividends of NYSE Composite Index for 1971: ![](/graphics/ec14no91.097.gif)
 
 Aggregate value of dividends paid on NYSE Composite Index assuming quarterly reinvestment:
 
@@ -131,7 +131,7 @@ April-June = 1.0070
 
 July-September = 1.0071
 
-October-November = 1.00474
+October-November = 1.0047 4
 
 4 The rate for October and November would be two thirds of the yield for the quarter ended September 30 (i.e. .667 × .71 = 4736), since the yield for the quarter ended December 31 would not be available as of November 30.
 
@@ -145,4 +145,4 @@ Aggregate value of dividends paid computed consistently with the index:
 
 Investment record of the NYSE Composite Index for the 12 months ended November 30, 1971:
 
-![](/graphics/ec14no91.099.gif)(Secs. 205, 211, 54 Stat. 852, 74 Stat. 887, 15 U.S.C. 80b-205, 80b-211; sec. 25, 84 Stat. 1432, 1433, Pub. L. 91-547)[37 FR 17468, Aug. 29, 1972]
+![](/graphics/ec14no91.099.gif)(Secs. 205, 211, 54 Stat. 852, 74 Stat. 887, 15 U.S.C. 80b-205, 80b-211; sec. 25, 84 Stat. 1432, 1433, Pub. L. 91-547) [37 FR 17468, Aug. 29, 1972]

@@ -6,4 +6,4 @@
 
 (2) The selection of such accountant shall be submitted for ratification or rejection to variable annuity contract owners at their first meeting after the effective date of the registration statement under the Securities Act of 1933, as amended (15 U.S.C. 77a *et seq.*), relating to contracts participating in such account: *Provided,* That such meeting shall take place within 1 year after such effective date, unless the time for the holding of such meeting shall be extended by the Commission upon written request showing good cause therefor.
 
-(Sec. 6, 54 Stat. 800; 15 U.S.C. 80a-6)[34 FR 12696, Aug. 5, 1969]
+(Sec. 6, 54 Stat. 800; 15 U.S.C. 80a-6) [34 FR 12696, Aug. 5, 1969]
