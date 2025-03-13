@@ -1,5 +1,7 @@
 ##### § 3030.123 Supporting technical documentation. #####
 
+Link to an amendment published at 90 FR 10690, Feb. 26, 2025.
+
 (a) Supporting technical documentation shall include the items specified in paragraphs (b) through (k) of this section, as applicable to the specific rate adjustment filing. This information must be supported by workpapers in which all calculations are shown and all relevant values (*e.g.,* rates, CPI-U values, billing determinants) are identified with citations to original sources. The information must be submitted in machine-readable, electronic format. Spreadsheet cells must be linked to underlying data sources or calculations (not hard-coded), as appropriate.
 
 (b) The maximum rate adjustment authority, by class, as summarized by § 3030.127 and calculated separately for each of subparts C through H of this part, as appropriate.

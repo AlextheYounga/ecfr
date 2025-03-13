@@ -1,5 +1,7 @@
 ##### § 3030.101 Definitions. #####
 
+Link to an amendment published at 90 FR 10690, Feb. 26, 2025.
+
 (a) The definitions in paragraphs (b) through (l) of this section apply to this part.
 
 (b) *Annual limitation* means the annual limitation on the percentage change in rates equal to the change in the Consumer Price Index for all Urban Consumers (CPI-U) unadjusted for seasonal variation over the most recently available 12-month period preceding the date the Postal Service files a request to review its notice of rate adjustment, as determined by the Commission.

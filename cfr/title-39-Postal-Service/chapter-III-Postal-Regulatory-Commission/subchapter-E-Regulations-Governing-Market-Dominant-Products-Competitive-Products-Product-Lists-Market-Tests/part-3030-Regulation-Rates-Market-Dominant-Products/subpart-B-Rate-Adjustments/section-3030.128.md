@@ -1,5 +1,7 @@
 ##### § 3030.128 Calculation of percentage change in rates. #####
 
+Link to an amendment published at 90 FR 10690, Feb. 26, 2025.
+
 (a) For the purpose of calculating the percentage change in rates, the current rate is the rate in effect at the time of the rate adjustment filing under § 3030.121 with the following exceptions:
 
 (1) A seasonal or temporary rate shall be identified and treated as a rate cell separate and distinct from the corresponding non-seasonal or permanent rate. When used with respect to a seasonal or temporary rate, the current rate is the most recent rate in effect for the rate cell, regardless of whether the seasonal or temporary rate is available at the time of the rate adjustment filing.
