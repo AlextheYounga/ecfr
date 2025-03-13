@@ -1,0 +1,3 @@
+##### § 102-83.80 What is equitable development? #####
+
+Equitable development is a positive development approach that employs processes, policies, and programs that aim to meet the needs of all communities and community members, with a particular focus on underserved communities and populations. When seeking Federal locations, agencies should, to the extent consistent with applicable law, consider the needs of communities, including those communities that are underserved, through policies and actions that reduce disparities while fostering communities that are healthy and vibrant.

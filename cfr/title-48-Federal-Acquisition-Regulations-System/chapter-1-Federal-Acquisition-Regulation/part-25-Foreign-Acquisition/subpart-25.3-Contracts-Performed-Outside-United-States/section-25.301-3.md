@@ -1,0 +1,3 @@
+##### 25.301-3 Weapons. #####
+
+The contracting officer shall follow agency procedures and the weapons policy established by the combatant commander or the chief of mission when authorizing contractor personnel to carry weapons (see paragraph (i) of the clause at 52.225-19, Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission outside the United States).

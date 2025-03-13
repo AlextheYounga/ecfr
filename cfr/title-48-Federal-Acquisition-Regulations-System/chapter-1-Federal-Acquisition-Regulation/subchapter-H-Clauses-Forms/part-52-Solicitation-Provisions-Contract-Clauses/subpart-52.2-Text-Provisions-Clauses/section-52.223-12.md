@@ -1,16 +1,14 @@
 ##### 52.223-12 Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners. #####
 
-Link to an amendment published at 89 FR 30249, Apr. 22, 2024.
+As prescribed in 23.109(d)(2), insert the following clause:
 
-As prescribed in 23.804(a)(2) , insert the following clause:
-
-Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners (JUN 2016)
+Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners (MAY 2024)
 
 (a) *Definitions.* As used in this clause—
 
 *Global warming potential* means how much a given mass of a chemical contributes to global warming over a given time period compared to the same mass of carbon dioxide. Carbon dioxide's global warming potential is defined as 1.0.
 
-*High global warming potential hydrofluorocarbons* means any hydrofluorocarbons in a particular end use for which EPA's Significant New Alternatives Policy (SNAP) program has identified other acceptable alternatives that have lower global warming potential. The SNAP list of alternatives is found at 40 CFR part 82, subpart G, with supplemental tables of alternatives available at (*http://www.epa.gov/snap/*).
+*High global warming potential hydrofluorocarbons* means any hydrofluorocarbons in a particular end use for which EPA's Significant New Alternatives Policy (SNAP) program has identified other acceptable alternatives that have lower global warming potential. The SNAP list of alternatives is found at 40 CFR part 82, subpart G, with supplemental tables of alternatives available at (*https://www.epa.gov/snap/*).
 
 *Hydrofluorocarbons* means compounds that contain only hydrogen, fluorine, and carbon.
 
@@ -24,24 +22,8 @@ Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Con
 
 (3) Implementing recovery, recycling, and responsible disposal programs that avoid release or emissions during equipment service and as the equipment reaches the end of its useful life; and
 
-(4) Using reclaimed hydrofluorocarbons, where feasible.
+(4) Using reclaimed hydrofluorocarbons to service and repair refrigeration and air conditioning equipment, where feasible.
 
-(d) For equipment and appliances that normally each contain 50 or more pounds of hydrofluorocarbons or refrigerant blends containing hydrofluorocarbons, that will be maintained, serviced, repaired, or disposed under this contract, the Contractor shall—
+(d) The Contractor shall refer to EPA's SNAP program to identify alternatives. The SNAP list of alternatives is found at 40 CFR part 82, subpart G, with supplemental tables available at *https://www.epa.gov/snap/.*
 
-(1) Track on an annual basis, between October 1 and September 30, the amount in pounds of hydrofluorocarbons or refrigerant blends containing hydrofluorocarbons added or taken out of equipment or appliances under this contract by—
-
-(i) Type of hydrofluorocarbon (*e.g.,* HFC-134a, HFC-125, R-410A, R-404A, *etc.*);
-
-(ii) Contract number;
-
-(iii) Equipment/appliance; and
-
-(2) Report that information to the Contracting Officer for FY16 and to *www.sam.gov,* for FY17 and after—
-
-(i) No later than November 30 of each year during contract performance; and
-
-(ii) At the end of contract performance.
-
-(e) The Contractor shall refer to EPA's SNAP program to identify alternatives. The SNAP list of alternatives is found at 40 CFR part 82, subpart G, with supplemental tables available at *http://www.epa.gov/snap/.*
-
-(End of clause)[48 FR 42478, Sept. 18, 1983, as amended at 81 FR 30437, May 16, 2016; 81 FR 83097, Nov. 18, 2016]
+(End of clause)[48 FR 42478, Sept. 18, 1983, as amended at 81 FR 30437, May 16, 2016; 81 FR 83097, Nov. 18, 2016; 89 FR 30249, Apr. 22, 2024]

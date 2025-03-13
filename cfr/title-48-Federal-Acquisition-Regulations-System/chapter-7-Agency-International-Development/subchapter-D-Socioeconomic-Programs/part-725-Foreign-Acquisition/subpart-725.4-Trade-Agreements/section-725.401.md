@@ -1,0 +1,5 @@
+##### 725.401 Exceptions. #####
+
+FAR subpart 25.4 establishes procedures for purchases of supplies under the Trade Agreements Act of 1979 (including the World Trade Organization's Government Procurement Agreement) and the USMCA (United States-Mexico-Canada Agreement, as approved by Congress in the United States-Mexico-Canada Agreement Implementation Act (Government Procurement Agreement applicable only to United States and Mexico) (Pub. L. 116-113) (19 U.S.C. chapter 29 (sections 4501-4732)). Consistent with these agreements, USAID operating expense-funded administrative procurements for supplies for use in the United States are subject to the procedures in FAR part 25, unless otherwise excepted in FAR subpart 25.4. USAID program-funded contracts for the purpose of providing foreign assistance are not subject to the procedures set forth in FAR subpart 25.4
+
+[89 FR 4206, Jan. 23, 2024]

@@ -1,7 +1,5 @@
 ##### 19.507 Solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 89 FR 30254, Apr. 22, 2024.
-
 (a)-(b) [Reserved]
 
 (c) The contracting officer shall insert the clause at 52.219-6, Notice of Total Small Business Set-Aside, in solicitations and contracts involving total small business set-asides. This includes multiple-award contracts when orders may be set aside for any of the small business concerns identified in 19.000(a)(3), as described in 8.405-5 and 16.505(b)(2)(i)(F). Use the clause at 52.219-6 with its Alternate I when including FPI in the competition in accordance with 19.502-7.
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 30254, Apr. 22, 2024.
 
 (2) The contracting officer shall insert the clause at 52.219-32 Orders Issued Directly Under Small Business Reserves, in solicitations and the resulting multiple-award contracts that have reserves.
 
-(h)(1) The contracting officer shall insert the clause at 52.219-33, Nonmanufacturer Rule, in solicitations and contracts (including multiple-award contracts when orders may be set aside for small business concerns as described in 8.405-5 and 16.505(b)(2)(i)(F), and when orders may be issued directly to a small business concern as described in 19.504(c)(1)(ii)), when—
+(h)(1) The contracting officer shall insert the clause at 52.219-33, Nonmanufacturer Rule, in solicitations and contracts, including multiple-award contracts, when orders may be set aside for small business concerns as described in 8.405-5 and 16.505(b)(2)(i)(F), and when orders may be issued directly to a small business concern as described in 19.504(c)(1)(ii)), when—
 
 (i) the item being acquired has been assigned a manufacturing or supply NAICS code, and—
 
@@ -36,4 +34,4 @@ Link to an amendment published at 89 FR 30254, Apr. 22, 2024.
 
 (2) The contracting officer shall not insert the clause at 52.219-33 when the Small Business Administration has waived the nonmanufacturer rule (see 19.505(c)(4)).
 
-[48 FR 42240, June 9, 1987. Redesignated and amended at 85 FR 11764, Feb. 27, 2020; 85 FR 27090, May 6, 2020; 86 FR 44243, Aug. 11, 2021]
+[48 FR 42240, June 9, 1987. Redesignated and amended at 85 FR 11764, Feb. 27, 2020; 85 FR 27090, May 6, 2020; 86 FR 44243, Aug. 11, 2021; 89 FR 30254, Apr. 22, 2024]

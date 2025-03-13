@@ -1,7 +1,5 @@
 ##### 752.228-70 Medical Evacuation (MEDEVAC) Services. #####
 
-Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
-
 As prescribed in 728.307-70, for use in all contracts requiring performance overseas:
 
 Medical Evacuation (MEDEVAC) Services (JUL 2007)
@@ -14,4 +12,4 @@ Medical Evacuation (MEDEVAC) Services (JUL 2007)
 
 (c) Contractor must insert a clause similar to this clause in all subcontracts that require performance by contractor employees overseas.
 
-[59 FR 33447, June 29, 1994, as amended at 72 FR 19669, Apr. 19, 2007; 79 FR 74988, 74999, Dec. 16, 2014]
+(End of clause)[59 FR 33447, June 29, 1994, as amended at 72 FR 19669, Apr. 19, 2007; 79 FR 74988, 74999, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024]

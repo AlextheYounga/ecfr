@@ -1,8 +1,6 @@
 ##### 52.223-3 Hazardous Material Identification and Material Safety Data. #####
 
-Link to an amendment published at 89 FR 30248, Apr. 22, 2024.
-
-As prescribed in 23.303, insert the following clause:
+As prescribed in 23.304(a)(1), insert the following clause:
 
 Hazardous Material Identification and Material Safety Data (FEB 2021)
 
@@ -42,7 +40,7 @@ Hazardous Material Identification and Material Safety Data (FEB 2021)
 
 (End of clause)
 
-*Alternate I* (JUL 1995). If the contract is awarded by an agency other than the Department of Defense, add the following paragraph (i) to the basic clause:
+*Alternate I* (JUL 1995). As prescribed in 23.304(a)(2), add the following paragraph (i) to the basic clause:
 
 (i) Except as provided in paragraph (i)(2) the Contractor shall prepare and submit a sufficient number of Material Safety Data Sheets (MSDS's), meeting the requirements of 29 CFR 1910.1200(g) and the latest version of Federal Standard No. 313, for all hazardous materials identified in paragraph (b) of this clause.
 
@@ -50,4 +48,4 @@ Hazardous Material Identification and Material Safety Data (FEB 2021)
 
 (2) For items shipped to consignees identified by mailing address as agency depots, distribution centers or customer supply centers, the Contractor shall provide one copy of the MSDS's in or on each shipping container. If affixed to the outside of each container, the MSDS must be placed in a weather resistant envelope.
 
-[56 FR 55375, Oct. 25, 1991, as amended at 60 FR 34740, July 3, 1995; 62 FR 238, Jan. 2, 1997; 86 FR 3688, Jan. 14, 2021]
+[56 FR 55375, Oct. 25, 1991, as amended at 60 FR 34740, July 3, 1995; 62 FR 238, Jan. 2, 1997; 86 FR 3688, Jan. 14, 2021; 89 FR 30248, Apr. 22, 2024]

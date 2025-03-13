@@ -1,0 +1,3 @@
+##### § 102-83.45 What is a Core-Based Statistical Area? #####
+
+A Core-Based Statistical Area (CBSA) is a geographic area established by the Office of Management and Budget (OMB). Current CBSAs are listed in OMB Bulletin No. 20-01, “Revised Delineations of Metropolitan Statistical Areas, Micropolitan Statistical Areas, and Combined Statistical Areas, and Guidance on Uses of the Delineations of These Areas,” dated March 6, 2020, or succeeding OMB Bulletin. In this part, the CBSA designation is used to distinguish between urban and rural areas, which have different directives associated with them.

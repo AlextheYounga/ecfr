@@ -1,7 +1,5 @@
 ##### 7.105 Contents of written acquisition plans. #####
 
-Link to an amendment published at 89 FR 30237, Apr. 22, 2024.
-
 In order to facilitate attainment of the acquisition objectives, the plan must identify those milestones at which decisions should be made (*see* paragraph (b)(21) of this section). The plan must address all the technical, business, management, and other significant considerations that will control the acquisition. The specific content of plans will vary, depending on the nature, circumstances, and stage of the acquisition. In preparing the plan, the planner must follow the applicable instructions in paragraphs (a) and (b) of this section, together with the agency's implementing procedures. Acquisition plans for service contracts or orders must describe the strategies for implementing performance-based acquisition methods or must provide rationale for not using those methods (see subpart 37.6).
 
 (a) *Acquisition background and objectives*—(1) *Statement of need.* Introduce the plan by a brief statement of need. Summarize the technical and contractual history of the acquisition. Discuss feasible acquisition alternatives, the impact of prior acquisitions on those alternatives, and any related in-house effort.
@@ -112,7 +110,15 @@ In order to facilitate attainment of the acquisition objectives, the plan must i
 
 (16) *Government-furnished information.* Discuss any Government information, such as manuals, drawings, and test data, to be provided to prospective offerors and contractors. Indicate which information that requires additional controls to monitor access and distribution (e.g., technical specifications, maps, building designs, schedules, etc.), as determined by the agency, is to be posted via the enhanced controls of the Governmentwide point of entry (GPE) at*https://www.sam.gov* (see 5.102(a)).
 
-(17) *Environmental and energy conservation objectives.* Discuss all applicable environmental and energy conservation objectives associated with the acquisition (see part 23), the applicability of an environmental assessment or environmental impact statement (see 40 CFR part 1502), the proposed resolution of environmental issues, and any environmentally-related requirements to be included in solicitations and contracts (see 11.002 and 11.303).
+(17) *Environmental and energy conservation objectives.* Discuss—
+
+(i) All applicable environmental and energy conservation objectives associated with the acquisition (see part 23);
+
+(ii) The applicability of an environmental assessment or environmental impact statement (see 40 CFR part 1502);
+
+(iii) The proposed resolution of environmental issues; and
+
+(iv) Any sustainable acquisition requirements to be included in the solicitation and contract (see 11.002 and part 23).
 
 (18) *Security considerations.* (i) For acquisitions dealing with classified matters, discuss how adequate security will be established, maintained, and monitored (see subpart 4.4).
 

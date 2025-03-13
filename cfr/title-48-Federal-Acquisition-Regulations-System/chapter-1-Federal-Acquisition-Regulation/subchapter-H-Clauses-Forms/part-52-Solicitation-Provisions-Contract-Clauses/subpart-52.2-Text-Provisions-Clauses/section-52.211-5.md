@@ -1,8 +1,6 @@
 ##### 52.211-5 Material Requirements. #####
 
-Link to an amendment published at 89 FR 30246, Apr. 22, 2024.
-
-As prescribed in 11.304, insert the following clause:
+As prescribed in 11.302, insert the following clause:
 
 Material Requirements (AUG 2000)
 
@@ -30,4 +28,4 @@ Material Requirements (AUG 2000)
 
 (e) Used, reconditioned, or remanufactured supplies, or unused former Government surplus property, may be used in contract performance if the Contractor has proposed the use of such supplies, and the Contracting Officer has authorized their use.
 
-(End of clause)[62 FR 44812, Aug. 22, 1997, as amended at 65 FR 36021, June 6, 2000]
+(End of clause)[62 FR 44812, Aug. 22, 1997, as amended at 65 FR 36021, June 6, 2000; 89 FR 30246, Apr. 22, 2024]

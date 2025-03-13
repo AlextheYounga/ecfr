@@ -1,8 +1,6 @@
 ##### 28.203-1 Acceptability of individual sureties. #####
 
-Link to an amendment published at 89 FR 30254, Apr. 22, 2024.
-
-(a) An individual surety is acceptable for all types of bonds except position schedule bonds. Assets pledged by an individual surety shall meet the eligibility requirements of Treasury's Bureau of the Fiscal Service. Per 31 U.S.C. 9310, individual sureties must pledge eligible obligations, which Treasury refers to as acceptable collateral or eligible collateral. A list of acceptable assets, entitled “Acceptable Collateral for 31 CFR part 225,” may be accessed by going to *https://www.treasurydirect.gov/instit/statreg/collateral/collateral.htm* and clicking on “Acceptable Collateral for 31 CFR part 225”.
+(a) An individual surety is acceptable for all types of bonds except position schedule bonds. Assets pledged by an individual surety shall meet the eligibility requirements of Treasury's Bureau of the Fiscal Service. Per 31 U.S.C. 9310, individual sureties must pledge eligible obligations, which Treasury refers to as acceptable collateral or eligible collateral. A list of acceptable assets, entitled “Acceptable Collateral for 31 CFR part 225,” may be accessed by going to *https://www.treasurydirect.gov/files/laws-and-regulations/collateral-programs/2018-final-225-list-of-acceptable-collateral.pdf”* and clicking on “Acceptable Collateral for 31 CFR part 225”.
 
 (b)(1) An individual surety shall execute the bond (e.g., bid bond (SF 24), performance bond (SF 25), payment bond (SF 25A)).
 
@@ -22,4 +20,4 @@ Link to an amendment published at 89 FR 30254, Apr. 22, 2024.
 
 (g) Evidence of possible criminal or fraudulent activities by an individual surety shall be referred to the appropriate agency official in accordance with agency procedures.
 
-[86 FR 3685, Jan. 14, 2021]
+[86 FR 3685, Jan. 14, 2021, as amended at 89 FR 30254, Apr. 22, 2024]

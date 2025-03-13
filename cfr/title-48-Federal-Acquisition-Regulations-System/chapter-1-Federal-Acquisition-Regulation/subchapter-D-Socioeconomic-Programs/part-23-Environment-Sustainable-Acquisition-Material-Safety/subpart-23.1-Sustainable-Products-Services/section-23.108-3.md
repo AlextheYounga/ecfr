@@ -1,0 +1,5 @@
+##### 23.108-3 Products and services that are subject to EPA Recommendations of Specifications, Standards, and Ecolabels. #####
+
+(a) *Program.* The EPA Environmentally Preferable Purchasing (EPP) Program helps Federal agencies identify and procure environmentally preferable products and services to meet zero emissions and other sustainable procurement goals by providing Recommendations of Specifications, Standards, and Ecolabels. The EPP recommendations give preference to multi-attribute or life-cycle based standards and ecolabels that address key environmental and human health impact areas and where product conformance is determined by a competent third-party certification body.
+
+(b) *Resource.* For additional information on EPA Recommendations of Specifications, Standards, and Ecolabels, see *https://www.epa.gov/greenerproducts/recommendations-specifications-standards-and-ecolabels-federal-purchasing.*

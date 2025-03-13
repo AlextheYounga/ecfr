@@ -1,7 +1,5 @@
 ##### 42.302 Contract administration functions. #####
 
-Link to an amendment published at 89 FR 30245, Apr. 22, 2024.
-
 (a) The contracting officer normally delegates the following contract administration functions to a CAO. The contracting officer may retain any of these functions, except those in paragraphs (a)(5), (a)(9), (a)(11), and (a)(12) of this section, unless the cognizant Federal agency (see 2.101) has designated the contracting officer to perform these functions.
 
 (1) Review the contractor's compensation structure.
@@ -152,7 +150,7 @@ Link to an amendment published at 89 FR 30245, Apr. 22, 2024.
 
 (65) Accomplish administrative closeout procedures (see 4.804-5).
 
-(66) Determine that the contractor has a drug-free workplace program and drug free awareness program (see subpart 23.5).
+(66) Determine that the contractor has a drug-free workplace program and drug free awareness program (see subpart 26.5).
 
 (67) Support the program, product, and project offices regarding program reviews, program status, program performance and actual or anticipated program problems.
 
@@ -160,9 +158,9 @@ Link to an amendment published at 89 FR 30245, Apr. 22, 2024.
 
 (i) Requesting environmental technical assistance, if needed;
 
-(ii) Monitoring contractor compliance with specifications or other contractual requirements requiring the delivery or use of environmentally preferable products, energy-efficient products, products containing recovered materials, and biobased products. This must occur as part of the quality assurance procedures set forth in Part 46; and
+(ii) Monitoring contractor compliance with specifications or other contractual requirements requiring the delivery, use, or furnishing of sustainable products and services (as defined in 2.101) in accordance with the clause at 52.223-23. This must occur as part of the quality assurance procedures set forth in part 46; and
 
-(iii) As required in the contract, ensuring that the contractor complies with the reporting requirements relating to recovered material content utilized in contract performance (see subpart 23.4).
+(iii) As required in the contract, ensuring that the contractor complies with the reporting requirements relating to recovered material content (see 52.223-9) and biobased products (see 52.223-2) utilized in contract performance.
 
 (69) Administer commercial financing provisions and monitor contractor security to ensure its continued adequacy to cover outstanding payments, when on-site review is required.
 

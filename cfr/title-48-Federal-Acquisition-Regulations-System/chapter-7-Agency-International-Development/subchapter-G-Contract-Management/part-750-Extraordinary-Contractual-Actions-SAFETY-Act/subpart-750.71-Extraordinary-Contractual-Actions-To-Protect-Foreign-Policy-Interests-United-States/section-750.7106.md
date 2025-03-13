@@ -1,0 +1,1 @@
+##### 750.7106 Standards for deciding cases. #####

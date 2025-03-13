@@ -1,7 +1,5 @@
 ##### 4.1202 Solicitation provision and contract clause. #####
 
-Link to an amendment published at 89 FR 30236, Apr. 22, 2024.
-
 (a) Insert the provision at 52.204-8, Annual Representations and Certifications, in solicitations, except for solicitations for commercial products or commercial services issued under part 12. The contracting officer shall check the applicable provisions at 52.204-8(c)(2). Use the provision with its Alternate I in solicitations issued after October 1, 2025, that will result in a multiple-award contract with more than one North American Industry Classification System code assigned (see 19.102(b)). When the provision at 52.204-7, System for Award Management, is included in the solicitation, do not separately include the following representations and certifications:
 
 (1) 52.203-2, Certificate of Independent Price Determination.
@@ -52,25 +50,23 @@ Link to an amendment published at 89 FR 30236, Apr. 22, 2024.
 
 (24) 52.223-4, Recovered Material Certification.
 
-(25) 52.223-9, Estimate of Percentage of Recovered Material Content for EPA-Designated Items (Alternate I only).
+(25) 52.223-22, Public Disclosure of Greenhouse Gas Emissions and Reduction Goals—Representation.
 
-(26) 52.223-22, Public Disclosure of Greenhouse Gas Emissions and Reduction Goals—Representation.
+(26) 52.225-2, Buy American Certificate.
 
-(27) 52.225-2, Buy American Certificate.
+(27) 52.225-4, Buy American—Free Trade Agreements—Israeli Trade Act Certificate (Basic, Alternates II and III).
 
-(28) 52.225-4, Buy American—Free Trade Agreements—Israeli Trade Act Certificate (Basic, Alternates II and III).
+(28) 52.225-6, Trade Agreements Certificate.
 
-(29) 52.225-6, Trade Agreements Certificate.
+(29) 52.225-20, Prohibition on Conducting Restricted Business Operations in Sudan—Certification.
 
-(30) 52.225-20, Prohibition on Conducting Restricted Business Operations in Sudan—Certification.
+(30) 52.225-25, Prohibition on Contracting with Entities Engaging in Certain Activities or Transactions Relating to Iran—Representation and Certifications.
 
-(31) 52.225-25, Prohibition on Contracting with Entities Engaging in Certain Activities or Transactions Relating to Iran—Representation and Certifications.
+(31) 52.226-2, Historically Black College or University and Minority Institution Representation.
 
-(32) 52.226-2, Historically Black College or University and Minority Institution Representation.
+(32) 52.227-6, Royalty Information (Basic & Alternate I).
 
-(33) 52.227-6, Royalty Information (Basic & Alternate I).
-
-(34) 52.227-15, Representation of Limited Rights Data and Restricted Computer Software.
+(33) 52.227-15, Representation of Limited Rights Data and Restricted Computer Software.
 
 (b) The contracting officer shall insert the clause at 52.204-19, Incorporation by Reference of Representations and Certifications, in solicitations and contracts.
 

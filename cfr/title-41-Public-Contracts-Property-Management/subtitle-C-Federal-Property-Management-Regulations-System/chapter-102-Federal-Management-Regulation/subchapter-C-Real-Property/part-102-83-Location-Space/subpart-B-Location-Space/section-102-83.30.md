@@ -1,0 +1,5 @@
+##### § 102-83.30 What basic location of space policy governs a Federal agency? #####
+
+(a) All Federal agencies when planning for location decisions under the authorities of the Administrator, including those using delegated real property authority, are required to apply the applicable laws, regulations, and E.O.s outlined in this part to their activities. This applies to agencies using the space and to agencies acquiring a leasehold interest or a new site to accommodate a space requirement.
+
+(b) Federal agencies intending to use space under this part are responsible for identifying the geographic area within which to locate their activities (*i.e.,* the delineated area) to support their mission and program requirements. Agencies must define delineated areas that support the applicable laws, regulations, and E.O.s outlined in this part. In addition to these responsibilities, agencies conducting a space acquisition have certain additional specific responsibilities as outlined in this part.

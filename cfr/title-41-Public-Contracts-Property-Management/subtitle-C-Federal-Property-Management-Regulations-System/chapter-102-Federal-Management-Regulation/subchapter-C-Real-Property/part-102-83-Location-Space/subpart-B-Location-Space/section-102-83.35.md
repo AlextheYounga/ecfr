@@ -1,0 +1,3 @@
+##### § 102-83.35 Is there a general hierarchy of consideration that agencies must follow in their utilization of space? #####
+
+Yes. In accordance with part 79, Assignment and Utilization of Space, Federal agencies must follow the hierarchy of consideration, giving first priority to Government-owned and Government-leased buildings. When no existing Government-owned or Government-leased space meets the space need, Federal agencies must follow the hierarchy of geographic consideration in § 102-83.95 when obtaining new space as identified in this subpart.

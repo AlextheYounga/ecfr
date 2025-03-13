@@ -1,18 +1,18 @@
 ##### 702.170-1 Definitions. #####
 
-Link to an amendment published at 89 FR 4204, Jan. 23, 2024.
-
 A word or term, defined in this section, has the same meaning throughout the AIDAR.
 
 *Administrator* means the Administrator or Deputy Administrator of the U.S. Agency for International Development.
+
+*Assistant Administrator* means the principal officer and advisor in a USAID Bureau who administers programs within delegated authorities and in accordance with policies and standards established by the Administrator. The position title Assistant Administrator also includes the position Assistant to the Administrator.
 
 *Automated Directives System* (ADS) sets forth the Agency's policies and essential procedures, as well as supplementary informational references. It contains six functional series, valid USAID Handbook chapters, a resource library, and a glossary. References to “ADS” throughout 48 CFR chapter 7 are references to the Automated Directives System. The entire ADS is accessible to the general public at the following USAID Internet address: *http://www.usaid.gov/policy/ads/.*
 
 *Contracting activities* also referred to as “procuring activities” within USAID are:
 
-(1) *The USAID/Washington activities.* The contracting activities located in Washington, DC are: The Bureau for Management, Office of Acquisition and Assistance (M/OAA); the Bureau for Democracy, Conflict and Humanitarian Assistance, Office of Foreign Disaster Assistance (DCHA/OFDA); and the Bureau for Economic Growth, Education and Environment, Office of Education (E3/ED). Subject to the limitations in 701.601 of this chapter, the latter two contracting activities are responsible for procurements related to programs and activities for their areas. M/OAA is responsible for procurements that do not fall within the responsibility of other contracting activities, or that are otherwise assigned to it.
+(1) *The USAID/Washington activities.* The contracting activities located in Washington, DC are: The Bureau for Management, Office of Acquisition and Assistance (M/OAA) and the Bureau for Humanitarian Assistance (BHA). Subject to the limitations in 701.601, BHA is responsible for procurements related to programs and activities for its area. M/OAA is responsible for procurements that do not fall within the responsibility of other contracting activities, or that are otherwise assigned to it.
 
-(2) *The overseas field contracting activities.* Each USAID Mission or post overseas is a contracting activity responsible for procurements related to its programs and activities, subject to the limitations in 701.601 of this chapter.
+(2) *The overseas field contracting activities.* Each USAID Mission or post overseas is a contracting activity responsible for procurements related to its programs and activities, subject to the limitations in 701.601.
 
 *Cooperating country* means a foreign country in which there is a program or activity administered by USAID.
 
@@ -26,27 +26,23 @@ A word or term, defined in this section, has the same meaning throughout the AID
 
 *Head of agency* means, for USAID, the Administrator, the Deputy Administrator, and in accordance with the responsibilities and limitations set forth in (48 CFR) AIDAR 701.601(a)(1), the M/OAA Director.
 
-*Head of the contracting activity:*
+*Head of the contracting activity,* as used in this chapter:
 
-(1) The heads of USAID contracting activities are listed below. The limits of their contracting authority are set forth in 701.601 of this chapter.
+(1) The heads of USAID contracting activities are listed in this paragraph (1). The limits of their contracting authority are set forth in 701.601.
 
-(i) USAID/Washington Heads of Contracting Activities:
+(i) *USAID/Washington heads of contracting activities.* (A) Director, Bureau for Management, Office of Acquisition and Assistance; and
 
-(A) Director, Bureau for Management, Office of Acquisition and Assistance;
+(B) Assistant to the Administrator, Bureau for Humanitarian Assistance (BHA).
 
-(B) Director, the Bureau for Democracy, Conflict and Humanitarian Assistance, Office of Foreign Disaster Assistance (DCHA/OFDA); and
+(ii) *Overseas heads of contracting activities.* Each Mission Director or principal USAID officer at post (for example, USAID Representative, USAID Affairs Officer, and similar designations).
 
-(C) Director, Bureau for Economic Growth, Education and Environment, Office of Education (E3/ED).
-
-(ii) Overseas Heads of Contracting Activities: Each Mission Director or principal USAID officer at post (*e.g.* USAID Representative, USAID Affairs Officer, etc.).
-
-(2) Individuals serving in the positions listed in paragraphs (1)(i) and (ii) of this definition in an “Acting” capacity may exercise the authority delegated to that position.
+(2) Individuals serving in the positions listed in paragraph (1) of this definition in a designated “Acting” capacity may exercise the authority delegated to that position.
 
 *Mission* means the USAID mission or the principal USAID office or representative (including an embassy designated to so act) in a foreign country in which there is a program or activity administered by USAID.
 
 *Overseas* means outside the United States, its possessions, and Puerto Rico.
 
-*Procurement Executive* is synonymous with “Senior Procurement Executive” as defined in FAR 2.101 and means the USAID official who is responsible for the management direction of USAID's assistance and acquisition (“A&A”) system, as so delegated and more fully described in USAID's internal delegations found in the ADS.
+*Procurement Executive* is synonymous with “Senior Procurement Executive” as defined in FAR 2.101 and means the USAID official who is responsible for the management direction of USAID's assistance and acquisition (“A&A” system, as so delegated and more fully described in USAID's internal delegations found in the ADS.
 
 *Procuring activity* means “contracting activity”, as defined in this subpart.
 
@@ -56,4 +52,4 @@ A word or term, defined in this section, has the same meaning throughout the AID
 
 *U.S. national (USN)* means an individual who is a U.S. citizen or a non-U.S. citizen lawfully admitted for permanent residence in the United States.
 
-[79 FR 74991, Dec. 16, 2014]
+[79 FR 74991, Dec. 16, 2014, as amended at 89 FR 4204, Jan. 23, 2024]

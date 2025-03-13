@@ -1,7 +1,5 @@
 ##### 752.202-1 Definitions. #####
 
-Link to an amendment published at 89 FR 4208, Jan. 23, 2024.
-
 (a) As prescribed in 702.270 and in (48 CFR) FAR Subpart 2.2, USAID contracts use the Definitions clause in (48 CFR) FAR 52.202-1 and its Alternate I, as appropriate, and the following additional definitions.
 
 (b) *Alternate 70.* For use in all USAID contracts. Use in addition to the clause in FAR 52.202-1.
@@ -12,7 +10,7 @@ USAID Definitions Clause—General Supplement for Use in All USAID Contracts (JA
 
 (b) *Administrator* shall mean the Administrator or the Deputy Administrator of USAID.
 
-(c) When this contract is with an educational institution *Campus Coordinator* shall mean the representative of the Contractor at the Contractor's home institution, who shall be responsible for coordinating the activities carried out under the contract.
+(c) [Reserved]
 
 (d) When this contract is with an educational institution *Campus Personnel* shall mean representatives of the Contractor performing services under the contract at the Contractor's home institution and shall include the Campus Coordinator.
 
@@ -72,4 +70,4 @@ USAID Definitions Clause—Supplement for USAID Contracts Involving Performance 
 
 (g) *Third Country National (TCN) employee* means an individual who meets the citizenship requirements of the TCN definition in (48 CFR) AIDAR 702.170 and is hired while residing outside the United States for work in a Cooperating Country.
 
-[49 FR 13259, Apr. 3, 1984, as amended at 52 FR 4145, Feb. 10, 1987; 52 FR 38098, Oct. 14, 1987; 55 FR 6802, Feb. 27, 1990; 64 FR 42042, Aug. 3, 1999; 79 FR 74988, 74997, Dec. 16, 2014]
+[49 FR 13259, Apr. 3, 1984, as amended at 52 FR 4145, Feb. 10, 1987; 52 FR 38098, Oct. 14, 1987; 55 FR 6802, Feb. 27, 1990; 64 FR 42042, Aug. 3, 1999; 79 FR 74988, 74997, Dec. 16, 2014; 89 FR 4208, Jan. 23, 2024]

@@ -1,10 +1,8 @@
 ##### 52.212-3 Offeror Representations and Certifications—Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 89 FR 30254, Apr. 22, 2024.
-
 As prescribed in 12.301(b)(2), insert the following provision:
 
-Offeror Representations and Certifications—Commercial Products and Commercial Services (FEB 2024)
+Offeror Representations and Certifications—Commercial Products and Commercial Services (MAY 2024)
 
 The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through *https://www.sam.gov.* If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (v) of this provision.
 
@@ -158,7 +156,7 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 (4) *SDVOSB concern joint venture eligible under the SDVOSB Program.* The offeror represents that it *□* is, *□* is not an SDVOSB joint venture eligible under the SDVOSB Program that complies with the requirements of 13 CFR 128.402. [*Complete only if the offeror represented itself as an SDVOSB concern in paragraph (c)(3) of this provision.*] [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:*\_\_.]
 
-(5) *Small disadvantaged business concern. [Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.]* The offeror represents that it □ is, □ is not a small disadvantaged business concern as defined in 13 CFR 124.1002.
+(5) *Small disadvantaged business concern. [Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.]* The offeror represents that it □ is, □ is not a small disadvantaged business concern as defined in 13 CFR 124.1001.
 
 (6) *Women-owned small business concern. [Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.]* The offeror represents that it □ is, □ is not a women-owned small business concern.
 
@@ -268,9 +266,8 @@ Line Item No. \_\_\_\_\_\_
 
 Israeli End Products:
 
-|            |   |   |
-|------------|---|---|
 |Line Item No|   |   |
+|------------|---|---|
 |            |   |   |
 |            |   |   |
 |            |   |   |

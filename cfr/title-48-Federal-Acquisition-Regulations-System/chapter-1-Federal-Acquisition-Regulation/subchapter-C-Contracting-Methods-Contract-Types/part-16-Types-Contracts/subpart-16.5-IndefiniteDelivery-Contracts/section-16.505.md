@@ -1,7 +1,5 @@
 ##### 16.505 Ordering. #####
 
-Link to an amendment published at 89 FR 30254, Apr. 22, 2024.
-
 (a) *General.* (1) In general, the contracting officer does not synopsize orders under indefinite-delivery contracts; except see 16.505(a)(4) and (11), and 16.505(b)(2)(ii)(D).
 
 (2) Individual orders shall clearly describe all services to be performed or supplies to be delivered so the full cost or price for the performance of the work can be established when the order is placed. Orders shall be within the scope, issued within the period of performance, and be within the maximum value of the contract.
@@ -56,7 +54,7 @@ Link to an amendment published at 89 FR 30254, Apr. 22, 2024.
 
 (ii) May not be used to circumvent conditions and limitations imposed on the use of funds (*e.g.,* 31 U.S.C. 1501(a)(1)); and
 
-(iii) Shall comply with all FAR requirements for a consolidated or bundled contract when the order meets the definition at 2.101(b) of “consolidation” or “bundling”.
+(iii) Shall comply with all FAR requirements for a consolidated or bundled contract when the order meets the definition at 2.101 of “consolidation” or “bundling”.
 
 (9) In accordance with section 1427(b) of Public Law 108-136 (40 U.S.C. 1103 note), orders placed under multi-agency contracts for services that substantially or to a dominant extent specify performance of architect-engineer services, as defined in 2.101, shall—
 

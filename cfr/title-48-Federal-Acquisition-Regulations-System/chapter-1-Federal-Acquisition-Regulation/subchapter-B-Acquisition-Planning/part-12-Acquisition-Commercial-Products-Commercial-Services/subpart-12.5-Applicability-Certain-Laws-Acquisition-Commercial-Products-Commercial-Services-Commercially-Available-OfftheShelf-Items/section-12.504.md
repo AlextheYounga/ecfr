@@ -1,7 +1,5 @@
 ##### 12.504 Applicability of certain laws to subcontracts for the acquisition of commercial products and commercial services. #####
 
-Link to an amendment published at 89 FR 30237, Apr. 22, 2024.
-
 (a) The following laws are not applicable to subcontracts at any tier for the acquisition of commercial products or commercial services at any tier:
 
 (1) 10 U.S.C. 2631, Transportation of Supplies by Sea (except for the types of subcontracts listed at 47.504(d)).
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 30237, Apr. 22, 2024.
 
 (9) 41 U.S.C. 2302, Rights in Technical Data (see subpart 27.4).
 
-(10) 41 U.S.C. chapter 81, Drug-Free Workplace (see subpart 23.5).
+(10) 41 U.S.C. chapter 81, Drug-Free Workplace (see subpart 26.5).
 
 (11) 46 U.S.C. Appx 1241(b), Transportation in American Vessels of Government Personnel and Certain Cargo (see Subpart 47.5) (except for the types of subcontracts listed at 47.504(d)).
 
@@ -40,4 +38,4 @@ Link to an amendment published at 89 FR 30237, Apr. 22, 2024.
 
 (3) 41 U.S.C. chapter 15, Cost Accounting Standards (48 CFR chapter 99) (see 12.214).
 
-[60 FR 48241, Sept. 18, 1996, as amended at 61 FR 67418, Dec. 20, 1996; 62 FR 232, 236, Jan. 2, 1997; 62 FR 51270, Sept. 30, 1997; 64 FR 72416, 72418, Dec. 27, 1999; 65 FR 46069, July 26, 2000; 68 FR 13203, Mar. 18, 2003; 70 FR 57454, Sept. 30, 2005; 72 FR 46330, Aug. 17, 2007; 73 FR 54008, Sept. 17, 2008; 74 FR 14648, Mar. 31, 2009; 75 FR 53142, Aug. 30, 2010; 79 FR 24200, Apr. 29, 2014; 85 FR 27090, May 6, 2020; 86 FR 61024, Nov. 4, 2021; 87 FR 73897, Dec. 1, 2022]
+[60 FR 48241, Sept. 18, 1996, as amended at 61 FR 67418, Dec. 20, 1996; 62 FR 232, 236, Jan. 2, 1997; 62 FR 51270, Sept. 30, 1997; 64 FR 72416, 72418, Dec. 27, 1999; 65 FR 46069, July 26, 2000; 68 FR 13203, Mar. 18, 2003; 70 FR 57454, Sept. 30, 2005; 72 FR 46330, Aug. 17, 2007; 73 FR 54008, Sept. 17, 2008; 74 FR 14648, Mar. 31, 2009; 75 FR 53142, Aug. 30, 2010; 79 FR 24200, Apr. 29, 2014; 85 FR 27090, May 6, 2020; 86 FR 61024, Nov. 4, 2021; 87 FR 73897, Dec. 1, 2022; 89 FR 30237, Apr. 22, 2024]

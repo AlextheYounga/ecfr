@@ -1,7 +1,5 @@
 ##### 752.204-72 Access to USAID Facilities and USAID's Information Systems. #####
 
-Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
-
 As prescribed in AIDAR 704.1303, insert the following clause in Section I of solicitations and contracts:
 
 Access to USAID Facilities and USAID's Information Systems (May 2024)
@@ -32,4 +30,4 @@ Access to USAID Facilities and USAID's Information Systems (May 2024)
 
 (h) The Contractor must insert this clause, including this paragraph (h), in any subcontracts that require the subcontractor or a subcontractor employee to have routine physical access to USAID facilities or logical access to USAID's information systems. The Contractor is responsible for providing the Contracting Officer's Representative with the information required under paragraphs (c)(1) and (d)(1) of this clause for any applicable subcontractor or subcontractor employee.
 
-(End of clause)[89 FR 19758, Mar. 20, 2024]
+(End of clause)[89 FR 19758, Mar. 20, 2024; 89 FR 4209, Jan. 23, 2024]

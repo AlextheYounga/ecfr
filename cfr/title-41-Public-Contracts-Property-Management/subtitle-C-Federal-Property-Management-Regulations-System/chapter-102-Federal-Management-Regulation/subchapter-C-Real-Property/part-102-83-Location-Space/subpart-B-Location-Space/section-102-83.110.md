@@ -1,0 +1,3 @@
+##### § 102-83.110 Does GSA provide assistance to Federal agencies by consulting and engaging with local officials to establish recommended delineated areas? #####
+
+Yes. GSA may, at its discretion, assist agencies by consulting and engaging with local officials to establish recommended delineated areas for use in Federal location decisions. These GSA-recommended delineated areas may be proactively developed independent of a specific space requirement. These recommended delineated areas will take into consideration the factors discussed in this part. The final delineated area used in the space acquisition may differ from these recommended areas, depending on the agency mission requirements, CICA and other factors relevant to a specific space action.

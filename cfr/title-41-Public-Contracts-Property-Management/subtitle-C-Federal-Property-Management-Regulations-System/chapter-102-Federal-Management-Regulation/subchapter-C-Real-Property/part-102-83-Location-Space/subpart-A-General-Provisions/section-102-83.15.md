@@ -1,3 +1,3 @@
-##### § 102-83.15 Is there a general hierarchy of consideration that agencies must follow in their utilization of space? #####
+##### § 102-83.15 Which Federal agencies must comply with these provisions? #####
 
-Yes, Federal agencies must follow the hierarchy of consideration identified in § 102-79.55 of this chapter.
+All Federal agencies operating under or subject to the real property authorities of the Administrator, including those using delegated real property authority, must comply with these provisions. Refer to 41 CFR 102-71.20 for the definition of Federal agency. Federal agencies using independent authority must still comply with statutory requirements and E.O.s (consistent with such authority), but this part does not apply to these agencies. Agencies with independent authority may use these provisions at agency discretion.

@@ -1,7 +1,5 @@
 ##### 752.232-70 Letter of credit advance payment. #####
 
-Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
-
 As required by 732.406-73, insert the following clause in contracts being paid by Letter of Credit.
 
 Letter of Credit Advance Payment (MAR 2015)
@@ -28,4 +26,4 @@ Contractors must also submit the forms specified above electronically to *loc@us
 
 (e) Revocation of the LOC is at the discretion of M/CFO/CMP after consultation with the contracting officer. Notification to the contractor of revocation must be in writing and must specify the reasons for such action. The contractor may appeal any such revocation to the contracting officer, in accordance with the Disputes clause of this contract. Pending final decision, payments under the contract will be in accordance with paragraph (d) of this clause.
 
-[79 FR 74999, Dec. 16, 2014]
+(End of clause)[79 FR 74999, Dec. 16, 2014, as amended at 89 FR 4209, Jan. 23, 2024]

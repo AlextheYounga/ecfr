@@ -1,10 +1,8 @@
 ##### 52.213-4 Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services). #####
 
-Link to an amendment published at 89 FR 30247, Apr. 22, 2024.
-
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (FEB 2024)
+Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (MAY 2024)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -68,7 +66,7 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (vi) 52.222-36, Equal Employment for Workers with Disabilities (JUN 2020) (29 U.S.C. 793) (Applies to contracts over the threshold specified in FAR 22.1408(a) on the date of award of this contract, unless the work is to be performed outside the United States by employees recruited outside the United States). (For purposes of this clause, “United States” includes the 50 States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, and Wake Island.)
 
-(vii) 52.222-37, Employment Reports on Veterans (JUN 2020)(38 U.S.C. 4212) (Applies to contracts valued at or above the threshold specified in FAR 22.1303(a) on the date of award of this contract).
+(vii) 52.222-37, Employment Reports on Veterans (JUN 2020) (38 U.S.C. 4212) (Applies to contracts valued at or above the threshold specified in FAR 22.1303(a) on the date of award of this contract).
 
 (viii) 52.222-41, Service Contract Labor Standards (AUG 2018) (41 U.S.C. chapter 67) (Applies to service contracts over $2,500 that are subject to the Service Contract Labor Standards statute and will be performed in the United States, District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, Johnston Island, Wake Island, or the outer Continental Shelf).
 
@@ -80,25 +78,17 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (xi) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2022) (E.O. 13706) (Applies when 52.222-6 or 52.222-41 are in the contract and performance in whole or in part is in the United States (the 50 States and the District of Columbia.))
 
-(xii) 52.223-5, Pollution Prevention and Right-to-Know Information (MAY 2011) (E.O. 13423) (Applies to services performed on Federal facilities).
+(xii) 52.223-5, Pollution Prevention and Right-to-Know Information (MAY 2024) (42 U.S.C. 11001-11050 and 13101-13109) (Applies to services performed on Federal facilities).
 
-(xiii) 52.223-11, Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons (JUN 2016) (E.O. 13693)(applies to contracts for products as prescribed at FAR 23.804(a)(1)).
+(xiii) 52.223-11, Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons (MAY 2024) (42 U.S.C. 7671, *et seq.*) (Applies to contracts for products as prescribed at FAR 23.109(d)(1)).
 
-(xiv) 52.223-12, Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners (JUN 2016) (E.O. 13693) (Applies to maintenance, service, repair, or disposal of refrigeration equipment and air conditioners).
+(xiv) 52.223-12, Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners (MAY 2024) (42 U.S.C. 7671, *et seq.*) (Applies to maintenance, service, repair, or disposal of refrigeration equipment and air conditioners).
 
-(xv) 52.223-15, Energy Efficiency in Energy-Consuming Products (MAY 2020) (42 U.S.C. 8259b) (Unless exempt pursuant to 23.204, applies to contracts when energy-consuming products listed in the ENERGY STAR® Program or Federal Energy Management Program (FEMP) will be—
+(xv) 52.223-20, Aerosols (MAY 2024) (42 U.S.C. 7671, *et seq.*) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons as a propellant or as a solvent; or contracts for maintenance or repair of electronic or mechanical devices).
 
-(A) Delivered;
+(xvi) 52.223-21, Foams (MAY 2024) (42 U.S.C. 7671, *et seq.*) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons or refrigerant blends containing hydrofluorocarbons as a foam blowing agent; or contracts for construction of buildings or facilities.
 
-(B) Acquired by the Contractor for use in performing services at a Federally-controlled facility;
-
-(C) Furnished by the Contractor for use by the Government; or
-
-(D) Specified in the design of a building or work, or incorporated during its construction, renovation, or maintenance).
-
-(xvi) 52.223-20, Aerosols (JUN 2016) (E.O. 13693) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons as a propellant or as a solvent; or contracts for maintenance or repair of electronic or mechanical devices).
-
-(xvii) 52.223-21, Foams (JUN 2016) (E.O. 13693) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons or refrigerant blends containing hydrofluorocarbons as a foam blowing agent; or contracts for construction of buildings or facilities.
+(xvii) 52.223-23, Sustainable Products and Services (MAY 2024) (E.O. 14057, 7 U.S.C. 8102, 42 U.S.C. 6962, 42 U.S.C. 8259b, and 42 U.S.C. 7671l) (Applies to contracts when the agency identifies in the statement of work, or elsewhere in the contract, the sustainable products and services that apply to the acquisition).
 
 (xviii)(A) 52.225-1, Buy American—Supplies (OCT 2022) (41 U.S.C. chapter 67) (Applies to contracts for supplies, and to contracts for services involving the furnishing of supplies, for use in the United States or its outlying areas, if the value of the supply contract or supply portion of a service contract exceeds the micro-purchase threshold, as defined in 2.101 on the date of award of this contract, and the acquisition—
 
@@ -106,9 +96,9 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (*2*) Cannot be set aside for small business concerns (see 19.502-2), and does not exceed $50,000).
 
-(B) *Alternate I* (OCT 2022) (Applies if the Contracting Officer has filled in the domestic content threshold below, which will apply to the entire contract period of performance. Substitute the following sentence for the first sentence of paragraph (1)(ii)(A) of the definition of *domestic end product* in paragraph (a) of 52.225-1:
+(B) Alternate I (OCT 2022) (Applies if the Contracting Officer has filled in the domestic content threshold below, which will apply to the entire contract period of performance. Substitute the following sentence for the first sentence of paragraph (1)(ii)(A) of the definition of *domestic end product* in paragraph (a) of 52.225-1:
 
-(A) The cost of its components mined, produced, or manufactured in the United States exceeds \_\_\_\_ percent of the cost of all its components. [*Contracting officer to insert the percentage per instructions at 13.302-5(d)(4).*])
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds \_\_ percent of the cost of all its components. [*Contracting officer to insert the percentage per instructions at 13.302-5(d)(4).*])
 
 (xix) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (JUN 2020) (42 U.S.C. 1792) (Applies to contracts greater than the threshold specified in FAR 26.404 on the date of award of this contract, that provide for the provision, the service, or the sale of food in the United States).
 

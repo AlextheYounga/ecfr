@@ -1,7 +1,5 @@
 ##### 18.202 Defense or recovery from certain events. #####
 
-Link to an amendment published at 89 FR 30238, Apr. 22, 2024.
-
 (a) *Micro-purchase threshold.* The threshold increases when the head of the agency determines the supplies or services are to be used to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to facilitate provision of international disaster assistance; or to support response to an emergency or major disaster. (See 2.101.)
 
 (b) *Simplified acquisition threshold.* The threshold increases when the head of the agency determines the supplies or services are to be used to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to facilitate provision of international disaster assistance; or to support response to an emergency or major disaster. (See 2.101.)
@@ -10,4 +8,6 @@ Link to an amendment published at 89 FR 30238, Apr. 22, 2024.
 
 (d) *Simplified procedures for certain commercial products and commercial services.* The threshold limits authorized for use of this authority may be increased when it is determined the acquisition is to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to facilitate provision of international disaster assistance; or to support response to an emergency or major disaster. (See 13.500(c).)
 
-[84 FR 19837, May 6, 2019, as amended at 86 FR 61027, Nov. 4, 2021]
+(e) *Sustainable products and services.* Contracting officers are encouraged, but not required, to procure sustainable products and services if the head of the agency determines the supplies or services are to be used to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to facilitate provision of international disaster assistance; or to support response to an emergency or major disaster (see 23.106(c)).
+
+[84 FR 19837, May 6, 2019, as amended at 86 FR 61027, Nov. 4, 2021; 89 FR 30238, Apr. 22, 2024]

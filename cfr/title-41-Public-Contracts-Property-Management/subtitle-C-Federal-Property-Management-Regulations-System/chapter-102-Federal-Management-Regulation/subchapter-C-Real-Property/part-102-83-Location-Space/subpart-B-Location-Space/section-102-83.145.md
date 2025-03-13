@@ -1,0 +1,3 @@
+##### § 102-83.145 Do these regulations apply in GSA's National Capital Region? #####
+
+The presence of the Federal Government in the National Capital Region is such that the distribution of Federal facilities has been, and will continue to be, a major influence on the character and extent of development in the National Capital Region. In view of the special nature of the National Capital Region and the preponderance of Federal space contained therein, these regulations will be applied in the National Capital Region in conjunction with regional plans and will guide the development of strategic plans for the housing of Federal agencies within the National Capital Region.

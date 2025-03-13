@@ -1,0 +1,3 @@
+##### 23.100 Scope of subpart. #####
+
+This subpart provides policies and procedures for procuring sustainable products and services. This subpart applies to all contract actions, including those using part 12 procedures for the acquisition of commercial products, including commercially available off-the-shelf (COTS) items, and commercial services and acquisitions valued at or below the micro-purchase threshold.

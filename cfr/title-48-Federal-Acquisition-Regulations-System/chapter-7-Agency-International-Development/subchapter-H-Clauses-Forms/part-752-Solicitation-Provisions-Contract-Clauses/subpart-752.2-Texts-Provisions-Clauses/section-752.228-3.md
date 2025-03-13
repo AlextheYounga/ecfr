@@ -1,7 +1,5 @@
 ##### 752.228-3 Worker's compensation insurance (Defense Base Act). #####
 
-Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
-
 As prescribed in 728.309, the following supplemental coverage must be added to the clause specified in (48 CFR) FAR 52.228-3 by the USAID contracting officer.
 
 Worker's Compensation Insurance (Defense Base Act) (DEC 1991)
@@ -14,4 +12,4 @@ In addition to the requirements specified in (48 CFR) FAR 52.228-3, the contract
 
 (c) The Contractor further agrees to insert in all subcontracts hereunder to which the DBA is applicable, a clause similar to this clause, including this sentence, imposing on all subcontractors a like requirement to provide overseas workmen's compensation insurance coverage and obtain DBA coverage under the USAID requirements contract.
 
-[53 FR 50631, Dec. 16, 1988, as amended at 54 FR 16122, Apr. 21, 1989; 56 FR 67226, Dec. 30, 1991; 79 FR 74988, 74999, Dec. 16, 2014]
+(End of clause)[53 FR 50631, Dec. 16, 1988, as amended at 54 FR 16122, Apr. 21, 1989; 56 FR 67226, Dec. 30, 1991; 79 FR 74988, 74999, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024]

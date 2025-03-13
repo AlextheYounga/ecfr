@@ -1,7 +1,5 @@
 ##### 7.103 Agency-head responsibilities. #####
 
-Link to an amendment published at 89 FR 30237, Apr. 22, 2024.
-
 The agency head or a designee shall prescribe procedures for the following:
 
 (a) Promoting and providing for full and open competition (see part 6) or, when full and open competition is not required in accordance with part 6, for obtaining competition to the maximum extent practicable, with due regard to the nature of the supplies and services to be acquired (10 U.S.C. 3206(a)(1) and 41 U.S.C. 3306(a)(1)).
@@ -40,13 +38,11 @@ The agency head or a designee shall prescribe procedures for the following:
 
 (p) Ensuring that agency planners—
 
-(1) Specify needs for printing and writing paper consistent with the 30 percent postconsumer fiber minimum content standards specified in section 2(d)(ii) of Executive Order 13423 of January 24, 2007, Strengthening Federal Environmental, Energy, and Transportation Management, and section 2(e)(iv) of Executive Order 13514 of October 5, 2009 (see 11.303);
+(1) Comply with the policy in 11.002(d) regarding procurement of sustainable products and services (as defined in 2.101) in accordance with subpart 23.1;
 
-(2) Comply with the policy in 11.002(d) regarding procurement of biobased products, products containing recovered materials, environmentally preferable products and services (including Electronic Product Environmental Assessment Tool (EPEAT®)-registered electronic products, nontoxic or low-toxic alternatives), ENERGY STAR® and Federal Energy Management Program-designated products, renewable energy, water-efficient products, non-ozone-depleting products, and products and services that minimize or eliminate, when feasible, the use, release, or emission of high global warming potential hydrofluorocarbons, such as by using reclaimed instead of virgin hydrofluorocarbons;
+(2) Comply with the Guiding Principles for Sustainable Federal Buildings and Associated Instructions (Guiding Principles), for the design, construction, renovation, repair, or deconstruction of Federal buildings (see 36.104). The Guiding Principles can be accessed at *https://www.sustainability.gov/pdfs/guiding\_principles\_for\_sustainable\_federal\_buildings.pdf;* and
 
-(3) Comply with the Guiding Principles for Federal Leadership in High-Performance and Sustainable Buildings (Guiding Principles), for the design, construction, renovation, repair, or deconstruction of Federal buildings. The Guiding Principles can be accessed at *https://www.epa.gov/greeningepa/guiding-principles-federal-leadership-high-performance-and-sustainable-buildings*; and
-
-(4) Require contractor compliance with Federal environmental requirements, when the contractor is operating Government-owned facilities or vehicles, to the same extent as the agency would be required to comply if the agency operated the facilities or vehicles.
+(3) Require contractor compliance with Federal environmental requirements, when the contractor is operating Government-owned facilities or vehicles, to the same extent as the agency would be required to comply if the agency operated the facilities or vehicles.
 
 (q) Ensuring that acquisition planners specify needs and develop plans, drawings, work statements, specifications, or other product or service requirements (*e.g.,* help desks, call centers, training services, and automated self-service technical support) descriptions that address information and communication technology (ICT) accessibility standards (see 36 CFR 1194.1) in proposed acquisitions and that these standards are included in requirements planning (see subpart 39.2).
 

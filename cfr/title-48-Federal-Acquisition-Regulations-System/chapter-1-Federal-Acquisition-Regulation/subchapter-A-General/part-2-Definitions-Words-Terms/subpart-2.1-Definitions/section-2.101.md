@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 89 FR 30236, Apr. 22, 2024.
-
 A word or a term, defined in this section, has the same meaning throughout this chapter (the Federal Acquisition Regulation (FAR)) unless the context in which the word or term is used clearly requires a different meaning or another FAR part, subpart, or section provides a different definition for the particular part or portion of the part. If a word or term that is defined in this section is defined differently in another part, subpart, or section of this chapter, the definition in this section includes a cross-reference to the other definitions and that part, subpart, or section applies to the word or term when used in that part, subpart, or section.
 
 *Acquisition* means the acquiring by contract with appropriated funds of supplies or services (including construction) by and for the use of the Federal Government through purchase or lease, whether the supplies or services are already in existence or must be created, developed, demonstrated, and evaluated. Acquisition begins at the point when agency needs are established and includes the description of requirements to satisfy agency needs, solicitation and selection of sources, award of contracts, contract financing, contract performance, contract administration, and those technical and management functions directly related to the process of fulfilling agency needs by contract.
@@ -48,7 +46,7 @@ A word or a term, defined in this section, has the same meaning throughout this 
 
 *Bid sample* means a product sample required to be submitted by an offeror to show characteristics of the offered products that cannot adequately be described by specifications, purchase descriptions, or the solicitation (e.g., balance, facility of use, or pattern).
 
-*Biobased product* means a product determined by the U.S. Department of Agriculture to be a commercial product or industrial product (other than food or feed) that is composed, in whole or in significant part, of biological products, including renewable domestic agricultural materials and forestry materials.
+*Biobased product* means a product determined by the U.S. Department of Agriculture to be a commercial product or industrial product (other than food or feed) that is composed, in whole or in significant part, of biological products, including renewable domestic agricultural materials and forestry materials, or that is an intermediate ingredient or feedstock. The term includes, with respect to forestry materials, forest products that meet biobased content requirements, notwithstanding the market share the product holds, the age of the product, or whether the market for the product is new or emerging. (7 U.S.C. 8101) (7 CFR 3201.2).
 
 *Broad agency announcement* means a general announcement of an agency's research interest including criteria for selecting proposals and soliciting the participation of all offerors capable of satisfying the Government's needs (see 6.102(d)(2)).
 
@@ -322,7 +320,7 @@ A word or a term, defined in this section, has the same meaning throughout this 
 
 (2) No more than one watt of electricity in their standby power consuming mode or meet recommended low standby levels as designated by the Department of Energy Federal Energy Management Program.
 
-*Energy-savings performance contract* means a contract that requires the contractor to—
+*Energy savings performance contract,* pursuant to 42 U.S.C. 8287 and 10 CFR 436.31, means a contract that requires the contractor to—
 
 (1) Perform services for the design, acquisition, financing, installation, testing, operation, and where appropriate, maintenance and repair, of an identified energy conservation measure or series of measures at one or more locations;
 
@@ -330,7 +328,7 @@ A word or a term, defined in this section, has the same meaning throughout this 
 
 (3) Guarantee future energy and cost savings to the Government.
 
-*Environmentally preferable* means products or services that have a lesser or reduced effect on human health and the environment when compared with competing products or services that serve the same purpose. This comparison may consider raw materials acquisition, production, manufacturing, packaging, distribution, reuse, operation, maintenance, or disposal of the product or service.
+*Environmentally preferable* means, in the case of a product or service, having a lesser or reduced effect on human health and the environment when compared with competing products or services that serve the same purpose. This comparison may consider raw materials acquisition, production, manufacturing, packaging, distribution, reuse, operation, maintenance, or disposal of the product or service. (Section 314 of Pub. L. 107-314, 10 U.S.C. chapter 223 note)
 
 *Excess personal property* means any personal property under the control of a Federal agency that the agency head determines is not required for its needs or for the discharge of its responsibilities.
 
@@ -388,8 +386,6 @@ A word or a term, defined in this section, has the same meaning throughout this 
 
 *General and administrative (G&A) expense* means any management, financial, and other expense which is incurred by or allocated to a business unit and which is for the general management and administration of the business unit as a whole. G&A expense does not include those management expenses whose beneficial or causal relationship to cost objectives can be more directly measured by a base other than a cost input base representing the total activity of a business unit during a cost accounting period.
 
-*Global warming potential* means how much a given mass of a chemical contributes to global warming over a given time period compared to the same mass of carbon dioxide. Carbon dioxide's global warming potential is defined as 1.0.
-
 *Governmentwide acquisition contract (GWAC)* means a task-order or delivery-order contract for information technology established by one agency for Governmentwide use that is operated—
 
 (1) By an executive agent designated by the Office of Management and Budget pursuant to 40 U.S.C. 11302(e); or
@@ -401,8 +397,6 @@ A word or a term, defined in this section, has the same meaning throughout this 
 *Head of the agency* (see “agency head”).
 
 *Head of the contracting activity* means the official who has overall responsibility for managing the contracting activity.
-
-*High global warming potential hydrofluorocarbons* means any hydrofluorocarbons in a particular end use for which EPA's Significant New Alternatives Policy (SNAP) program has identified other acceptable alternatives that have lower global warming potential. The SNAP list of alternatives is found at 40 CFR part 82, subpart G, with supplemental tables of alternatives available at *http://www.epa.gov/snap/*).
 
 *Historically black college or university* means an institution determined by the Secretary of Education to meet the requirements of 34 CFR 608.2.
 
@@ -421,8 +415,6 @@ A word or a term, defined in this section, has the same meaning throughout this 
 *HUBZone small business concern* means a small business concern that meets the requirements described in 13 CFR 126.200, is certified by the Small Business Administration (SBA) and designated by SBA as a HUBZone small business concern in the Dynamic Small Business Search (DSBS) (13 CFR 126.103). SBA's designation also appears in SAM.
 
 *Humanitarian or peacekeeping operation* means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing (10 U.S.C. 3015(2) and 41 U.S.C. 153(2)).
-
-*Hydrofluorocarbons* means compounds that contain only hydrogen, fluorine, and carbon.
 
 *In writing, writing,* or *written* means any worded or numbered expression that can be read, reproduced, and later communicated, and includes electronically transmitted and stored information.
 
@@ -724,7 +716,7 @@ A word or a term, defined in this section, has the same meaning throughout this 
 
 *Receiving report* means written evidence that indicates Government acceptance of supplies delivered or services performed (see subpart 46.6). Receiving reports must meet the requirements of 32.905(c).
 
-*Recovered material* means waste materials and by-products recovered or diverted from solid waste, but the term does not include those materials and by-products generated from, and commonly reused within, an original manufacturing process. For use in subpart 11.3 for paper and paper products, see the definition at 11.301.
+*Recovered material* means waste materials and by-products recovered or diverted from solid waste, but the term does not include those materials and by-products generated from, and commonly reused within, an original manufacturing process. (42 U.S.C. 6903)
 
 *Registered in the System for Award Management (SAM)* means that—
 
@@ -735,14 +727,6 @@ A word or a term, defined in this section, has the same meaning throughout this 
 (3) The Government has validated all mandatory data fields, to include validation of the Taxpayer Identification Number (TIN) with the Internal Revenue Service (IRS). The contractor will be required to provide consent for TIN validation to the Government as a part of the SAM registration process; and
 
 (4) The Government has marked the record “Active”.
-
-*Renewable energy* means energy produced by solar, wind, geothermal, biomass, landfill gas, ocean (including tidal, wave, current, and thermal), municipal solid waste, or new hydroelectric generation capacity achieved from increased efficiency or additions of new capacity at an existing hydroelectric project (Energy Policy Act of 2005, 42 U.S.C. 15852).
-
-*Renewable energy technology* means—
-
-(1) Technologies that use renewable energy to provide light, heat, cooling, or mechanical or electrical energy for use in facilities or other activities; or
-
-(2) The use of integrated whole-building designs that rely upon renewable energy resources, including passive solar design.
 
 *Requesting agency* means the agency that has the requirement for an interagency acquisition.
 
@@ -914,11 +898,27 @@ A word or a term, defined in this section, has the same meaning throughout this 
 
 *Suspension* means action taken by a suspending official under 9.407 to disqualify a contractor temporarily from Government contracting and Government-approved subcontracting; a contractor that is disqualified is “suspended.”
 
-*Sustainable acquisition* means acquiring goods and services in order to create and maintain conditions—
+*Sustainable acquisition* means acquiring products and services in order to create and maintain conditions—
 
 (1) Under which humans and nature can exist in productive harmony; and
 
 (2) That permit fulfilling the social, economic, and other requirements of present and future generations.
+
+*Sustainable products and services* means products and services that are subject to and meet the following applicable statutory mandates and directives for purchasing:
+
+(1) *Statutory purchasing programs.* (i) Products containing recovered material designated by the U.S. Environmental Protection Agency (EPA) under the Comprehensive Procurement Guidelines (42 U.S.C. 6962) (40 CFR part 247) (*https://www.epa.gov/smm/comprehensive-procurement-guideline-cpg-program#products*).
+
+(ii) Energy- and water-efficient products that are ENERGY STAR® certified or Federal Energy Management Program (FEMP)-designated products (42 U.S.C. 8259b) (10 CFR part 436, subpart C) (*https://www.energy.gov/eere/femp/search-energy-efficient-products* and *https://www.energystar.gov/products?s=mega*).
+
+(iii) Biobased products meeting the content requirement of the U.S. Department of Agriculture under the BioPreferred® program (7 U.S.C. 8102) (7 CFR part 3201) (*https://www.biopreferred.gov*).
+
+(iv) Acceptable chemicals, products, and manufacturing processes listed under EPA's Significant New Alternatives Policy (SNAP) program, which ensures a safe and smooth transition away from substances that contribute to the depletion of stratospheric ozone (42 U.S.C. 7671l) (40 CFR part 82, subpart G) (*https://www.epa.gov/snap*).
+
+(2) *Required EPA purchasing programs.* (i) WaterSense® labeled (water efficient) products and services (*https://www.epa.gov/watersense/watersense-products*).
+
+(ii) Safer Choice-certified products (products that contain safer chemical ingredients) (*https://www.epa.gov/saferchoice/products*).
+
+(iii) Products and services that meet EPA Recommendations of Specifications, Standards, and Ecolabels in effect as of October 2023 (*https://www.epa.gov/greenerproducts/recommendations-specifications-standards-and-ecolabels-federal-purchasing*).
 
 *System for Award Management (SAM)* means the primary Government repository for prospective Federal awardee and Federal awardee information and the centralized Government system for certain contracting, grants, and other assistance-related processes. It includes—
 
@@ -978,7 +978,7 @@ A word or a term, defined in this section, has the same meaning throughout this 
 
 (8) For use in subpart 22.19, see the definition at 22.1901.
 
-(9) For use in part 23, see definition at 23.001.
+(9) For use in subpart 23.1, see definition at 23.101.
 
 (10) For use in part 25, see the definition at 25.003.
 
@@ -1025,8 +1025,6 @@ A word or a term, defined in this section, has the same meaning throughout this 
 *Warranty* means a promise or affirmation given by a contractor to the Government regarding the nature, usefulness, or condition of the supplies or performance of services furnished under the contract.
 
 *Waste reduction* means preventing or decreasing the amount of waste being generated through waste prevention, recycling, or purchasing recycled and environmentally preferable products.
-
-*Water consumption intensity* means water consumption per square foot of building space.
 
 *Women-owned small business concern* means—
 

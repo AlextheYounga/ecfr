@@ -1,7 +1,5 @@
 ##### 8.405-3 Blanket purchase agreements (BPAs). #####
 
-Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
-
 (a) *Establishment.* (1) Ordering activities may establish BPAs under any schedule contract to fill repetitive needs for supplies or services. Ordering activities shall establish the BPA with the schedule contractor(s) that can provide the supply or service that represents the best value.
 
 (2) In addition to price (*see* 8.404(d) and 8.405-4), when determining best value, the ordering activity may consider, among other factors, the following:
@@ -90,7 +88,7 @@ Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
 
 (A) Shall provide an RFQ that includes a description of the supplies to be delivered or the services to be performed and the basis upon which the selection will be made.
 
-(B)(*1*) Shall post the RFQ on e-Buy to afford all schedule contractors offering the required supplies or services under the appropriate multiple award schedule(s) an opportunity to submit a quote; or
+(B)(*1*) Shall post the RFQ on eBuy to afford all schedule contractors offering the required supplies or services under the appropriate multiple award schedule(s) an opportunity to submit a quote; or
 
 (*2*) Shall provide the RFQ to as many schedule contractors as practicable, consistent with market research appropriate to the circumstances, to reasonably ensure that quotes will be received from at least three contractors that can fulfill the requirements. When fewer than three quotes are received from schedule contractors that can fulfill the requirements, the contracting officer shall prepare a written determination explaining that no additional contractors capable of fulfilling the requirements could be identified despite reasonable efforts to do so. The determination must clearly explain efforts made to obtain quotes from at least three schedule contractors.
 
@@ -104,13 +102,13 @@ Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
 
 (ii) *Type-of-order preference.* The ordering activity shall specify the order type (*i.e.,* firm-fixed price, time-and-materials, or labor-hour) for the services identified in the statement of work. The contracting officer should establish firm-fixed priced orders to the maximum extent practicable. For time-and-materials and labor-hour orders, the contracting officer shall follow the procedures at 8.404(h).
 
-(iii) *Request for Quotation procedures.* The ordering activity must provide a RFQ, which includes the statement of work and evaluation criteria (*e.g.,* experience and past performance), to schedule contractors that offer services that will meet the agency's needs. The RFQ may be posted to GSA's electronic RFQ system, e-Buy (*see* 8.402(d)).
+(iii) *Request for Quotation procedures.* The ordering activity must provide a RFQ, which includes the statement of work and evaluation criteria (*e.g.,* experience and past performance), to schedule contractors that offer services that will meet the agency's needs. The RFQ may be posted to GSA's electronic RFQ system, eBuy (*see* 8.402(d)).
 
 (iv) *If the estimated value of the BPA does not exceed the simplified acquisition threshold.* The ordering activity shall provide the RFQ (including the statement of work and evaluation criteria) to at least three schedule contractors that offer services that will meet the agency's needs.
 
 (v) *If estimated value of the BPA exceeds the simplified acquisition threshold.* The ordering activity contracting officer—
 
-(A) Shall post the RFQ on e-Buy to afford all schedule contractors offering the required supplies or services under the appropriate multiple-award schedule an opportunity to submit a quote; or
+(A) Shall post the RFQ on eBuy to afford all schedule contractors offering the required supplies or services under the appropriate multiple-award schedule an opportunity to submit a quote; or
 
 (B) Shall provide the RFQ, which includes the statement of work and evaluation criteria, to as many schedule contractors as practicable, consistent with market research appropriate to the circumstances, to reasonably ensure that quotes will be received from at least three contractors that can fulfill the requirements. When fewer than three quotes are received from schedule contractors that can fulfill the requirements, the contracting officer shall document the file. The contracting officer shall prepare a written determination explaining that no additional contractors capable of fulfilling the requirements could be identified despite reasonable efforts to do so. The determination must clearly explain efforts made to obtain quotes from at least three schedule contractors.
 
@@ -162,4 +160,4 @@ Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
 
 (2) The determination shall be included in the BPA file documentation.
 
-[76 FR 14553, Mar. 16, 2011, as amended 77 FR 197, Jan. 3, 2012; 77 FR 12929, Mar. 2, 2012; 80 FR 38296, July 2, 2015; 85 FR 62488, Oct. 2, 2020]
+[76 FR 14553, Mar. 16, 2011, as amended 77 FR 197, Jan. 3, 2012; 77 FR 12929, Mar. 2, 2012; 80 FR 38296, July 2, 2015; 85 FR 62488, Oct. 2, 2020; 89 FR 30253, Apr. 22, 2024]

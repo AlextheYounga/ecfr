@@ -1,7 +1,5 @@
 ##### 752.219-8 Utilization of small business concerns and small disadvantaged business concerns. #####
 
-Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
-
 As prescribed in (48 CFR) AIDAR 719.708, insert the following clause in solicitations and contracts that contain the clause at 52.219-8, Utilization of Small Business Concerns:
 
 Utilization of Small Business Concerns and Small Disadvantaged Business Concerns (MAR 2015)
@@ -14,4 +12,4 @@ In addition to the FAR clause at 52.219-8, Utilization of Small Business Concern
 
 (3) Address where invitations or specifications may be obtained.
 
-[79 FR 74998, Dec. 16, 2014]
+(End of clause)[79 FR 74998, Dec. 16, 2014, as amended at 89 FR 4209, Jan. 23, 2024]

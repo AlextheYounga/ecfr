@@ -1,8 +1,6 @@
-##### 52.223-7 Notice of radioactive materials. #####
+##### 52.223-7 Notice of Radioactive Materials. #####
 
-Link to an amendment published at 89 FR 30248, Apr. 22, 2024.
-
-As prescribed in 23.602, insert the following clause:
+As prescribed in 23.304(b), insert the following clause:
 
 Notice of Radioactive Materials (JAN 1997)
 
@@ -22,4 +20,4 @@ Notice of Radioactive Materials (JAN 1997)
 
 (d) This clause, including this paragraph (d), shall be inserted in all subcontracts for radioactive materials meeting the criteria in paragraph (a) of this clause.
 
-(End of clause)[56 FR 55375, Oct. 25, 1991, as amended at 62 FR 239, Jan. 2, 1997]
+(End of clause)[56 FR 55375, Oct. 25, 1991, as amended at 62 FR 239, Jan. 2, 1997; 89 FR 30248, Apr. 22, 2024]

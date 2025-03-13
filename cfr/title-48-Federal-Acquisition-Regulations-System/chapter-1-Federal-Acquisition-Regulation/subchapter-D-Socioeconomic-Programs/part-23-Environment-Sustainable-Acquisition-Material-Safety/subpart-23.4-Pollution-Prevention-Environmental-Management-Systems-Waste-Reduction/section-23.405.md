@@ -1,0 +1,3 @@
+##### 23.405 Waste reduction program. #####
+
+To support pollution prevention and agency efforts to minimize waste in accordance with E.O. 14057, contracts for contractor operation of Government-owned or -leased facilities or for support services at Government-owned or -operated facilities shall require the contractor to promote cost-effective waste reduction in all operations and facilities covered by the contract.

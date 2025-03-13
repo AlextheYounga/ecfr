@@ -1,7 +1,5 @@
 ##### 9.406-1 General. #####
 
-Link to an amendment published at 89 FR 30237, Apr. 22, 2024.
-
 (a) It is the debarring official's responsibility to determine whether debarment is in the Government's interest. The debarring official may, in the public interest, debar a contractor for any of the causes in 9.406-2, using the procedures in 9.406-3. The existence of a cause for debarment, however, does not necessarily require that the contractor be debarred; the seriousness of the contractor's acts or omissions and any remedial measures or mitigating factors should be considered in making any debarment decision. Before arriving at any debarment decision, the debarring official should consider factors such as the following:
 
 (1) Whether the contractor had effective standards of conduct and internal control systems in place at the time of the activity which constitutes cause for debarment or had adopted such procedures prior to any Government investigation of the activity cited as a cause for debarment.
@@ -32,10 +30,10 @@ The existence or nonexistence of any mitigating factors or remedial measures suc
 
 (2) Given written notice of the proposed debarment and an opportunity to respond (see 9.406-3(c)).
 
-(c) A contractor's debarment, or proposed debarment, shall be effective throughout the executive branch of the Government, unless the agency head or a designee (except see 23.506(e)) states in writing the compelling reasons justifying continued business dealings between that agency and the contractor.
+(c) A contractor's debarment, or proposed debarment, shall be effective throughout the executive branch of the Government, unless the agency head or a designee (except see 26.505(e)) states in writing the compelling reasons justifying continued business dealings between that agency and the contractor.
 
 (d)(1) When the debarring official has authority to debar contractors from both acquisition contracts pursuant to this regulation and contracts for the purchase of Federal personal property pursuant to the Federal Property Management Regulations (FPMR) 101-45.6, that official shall consider simultaneously debarring the contractor from the award of acquisition contracts and from the purchase of Federal personal property.
 
 (2) When debarring a contractor from the award of acquisition contracts and from the purchase of Federal personal property, the debarment notice shall so indicate and the appropriate FAR and FPMR citations shall be included.
 
-[48 FR 42142, Sept. 19, 1983, as amended at 52 FR 6121, Feb. 27, 1987; 54 FR 19815, May 8, 1989; 55 FR 21707, May 25, 1990; 55 FR 30465, July 26, 1990; 56 FR 67129, Dec. 27, 1991; 59 FR 67033, Dec. 28, 1994; 84 FR 19845, May 6, 2019]
+[48 FR 42142, Sept. 19, 1983, as amended at 52 FR 6121, Feb. 27, 1987; 54 FR 19815, May 8, 1989; 55 FR 21707, May 25, 1990; 55 FR 30465, July 26, 1990; 56 FR 67129, Dec. 27, 1991; 59 FR 67033, Dec. 28, 1994; 84 FR 19845, May 6, 2019; 89 FR 30237, Apr. 22, 2024]

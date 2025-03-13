@@ -1,5 +1,7 @@
 ##### § 20.3 Definitions. #####
 
+Link to an amendment published at 89 FR 45555, May 22, 2024.
+
 *Automatic Roaming.* With automatic roaming, under a pre-existing contractual agreement between a subscriber's home carrier and a host carrier, a roaming subscriber is able to originate or terminate a call in the host carrier's service area without taking any special actions.
 
 *CIS Operator.* An operator of a CIS at a correctional facility, whether a CIS solutions provider, or a DCFO or responsible party that deploys its own CIS at a correctional facility.

@@ -1,12 +1,10 @@
 ##### 8.405-2 Ordering procedures for services requiring a statement of work. #####
 
-Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
-
 (a) *General.* Ordering activities shall use the procedures in this subsection when ordering services priced at hourly rates as established by the schedule contracts. The applicable services will be identified in the Federal Supply Schedule publications and the contractor's pricelists. For establishing BPAs and for orders under BPAs *see* 8.405-3.
 
 (b) *Statements of Work (SOWs).* All Statements of Work shall include a description of work to be performed; location of work; period of performance; deliverable schedule; applicable performance standards; and any special requirements (*e.g.*, security clearances, travel, special knowledge). To the maximum extent practicable, agency requirements shall be performance-based statements (see subpart 37.6).
 
-(c) *Request for Quotation procedures.* The ordering activity must provide the Request for Quotation (RFQ), which includes the statement of work and evaluation criteria (*e.g.*, experience and past performance), to schedule contractors that offer services that will meet the agency's needs. The RFQ may be posted to GSA's electronic RFQ system, e-Buy (see 8.402(d)).
+(c) *Request for Quotation procedures.* The ordering activity must provide the request for quotation (RFQ), which includes the statement of work and evaluation criteria (*e.g.*, experience and past performance), to schedule contractors that offer services that will meet the agency's needs. The RFQ may be posted to GSA's electronic RFQ system, eBuy (see 8.402(d)).
 
 (1) *Orders at, or below, the micro-purchase threshold.* Ordering activities may place orders at, or below, the micro-purchase threshold with any Federal Supply Schedule contractor that can meet the agency's needs. The ordering activity should attempt to distribute orders among contractors.
 
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
 
 (iii) The ordering activity contracting officer shall—
 
-(A) Post the RFQ on e-Buy to afford all schedule contractors offering the required services under the appropriate multiple-award schedule(s) an opportunity to submit a quote; or
+(A) Post the RFQ on eBuy to afford all schedule contractors offering the required services under the appropriate multiple-award schedule(s) an opportunity to submit a quote; or
 
 (B) Provide the RFQ to as many schedule contractors as practicable, consistent with market research appropriate to the circumstances, to reasonably ensure that quotes will be received from at least three contractors that can fulfill the requirements. When fewer than three quotes are received from schedule contractors that can fulfill the requirements, the contracting officer shall prepare a written determination to explain that no additional contractors capable of fulfilling the requirements could be identified despite reasonable efforts to do so. The determination must clearly explain efforts made to obtain quotes from at least three schedule contractors.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
 
 (8) When an order exceeds the simplified acquisition threshold, evidence of compliance with the ordering procedures at 8.405-2(c).
 
-[69 FR 34234, June 18, 2004, as amended at 70 FR 43579, July 27, 2005; 76 FR 14553, Mar. 16, 2011; 77 FR 197, Jan. 3, 2012]
+[69 FR 34234, June 18, 2004, as amended at 70 FR 43579, July 27, 2005; 76 FR 14553, Mar. 16, 2011; 77 FR 197, Jan. 3, 2012; 89 FR 30253, Apr. 22, 2024]

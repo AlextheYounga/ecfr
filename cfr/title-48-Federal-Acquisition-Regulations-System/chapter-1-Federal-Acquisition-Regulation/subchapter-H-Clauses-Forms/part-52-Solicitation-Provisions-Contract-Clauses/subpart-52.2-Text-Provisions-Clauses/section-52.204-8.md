@@ -1,10 +1,8 @@
 ##### 52.204-8 Annual Representations and Certifications. #####
 
-Link to an amendment published at 89 FR 30245, Apr. 22, 2024.
-
 As prescribed in 4.1202(a), insert the following provision:
 
-Annual Representations and Certifications (FEB 2024)
+Annual Representations and Certifications (MAY 2024)
 
 (a)(1) The North American Industry Classification System (NAICS) code for this acquisition is \_\_\_\_\_\_\_ [*insert NAICS code*].
 
@@ -78,11 +76,11 @@ Annual Representations and Certifications (FEB 2024)
 
 (xvi) 52.222-38, Compliance with Veterans' Employment Reporting Requirements. This provision applies to solicitations when it is anticipated the contract award will exceed the simplified acquisition threshold and the contract is not for acquisition of commercial products or commercial services.
 
-(xvii) 52.223-1, Biobased Product Certification. This provision applies to solicitations that require the delivery or specify the use of USDA-designated items; or include the clause at 52.223-2, Affirmative Procurement of Biobased Products Under Service and Construction Contracts.
+(xvii) 52.223-1, Biobased Product Certification. This provision applies to solicitations that require the delivery or specify the use of biobased products in USDA-designated product categories; or include the clause at 52.223-2, Reporting of Biobased Products Under Service and Construction Contracts.
 
 (xviii) 52.223-4, Recovered Material Certification. This provision applies to solicitations that are for, or specify the use of, EPA-designated items.
 
-(xix) 52.223-22, Public Disclosure of Greenhouse Gas Emissions and Reduction Goals—Representation. This provision applies to solicitations that include the clause at 52.204-7.)
+(xix) 52.223-22, Public Disclosure of Greenhouse Gas Emissions and Reduction Goals—Representation. This provision applies to solicitations that include the clause at 52.204-7.
 
 (xx) 52.225-2, Buy American Certificate. This provision applies to solicitations containing the clause at 52.225-1.
 
@@ -116,15 +114,13 @@ Annual Representations and Certifications (FEB 2024)
 
 \_\_ (v) 52.222-52, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services—Certification.
 
-\_\_ (vi) 52.223-9, with its Alternate I, Estimate of Percentage of Recovered Material Content for EPA-Designated Products (Alternate I only).
-
-\_\_ (vii) 52.227-6, Royalty Information.
+\_\_ (vi) 52.227-6, Royalty Information.
 
 \_\_ (A) Basic.
 
 \_\_ (B) Alternate I.
 
-\_\_ (viii) 52.227-15, Representation of Limited Rights Data and Restricted Computer Software.
+\_\_ (vii) 52.227-15, Representation of Limited Rights Data and Restricted Computer Software.
 
 (d) The Offeror has completed the annual representations and certifications electronically in SAM accessed through *https://www.sam.gov.* After reviewing the SAM information, the Offeror verifies by submission of the offer that the representations and certifications currently posted electronically that apply to this solicitation as indicated in paragraph (c) of this provision have been entered or updated within the last 12 months, are current, accurate, complete, and applicable to this solicitation (including the business size standard applicable to the NAICS code referenced for this solicitation), as of the date of this offer and are incorporated in this offer by reference (see FAR 4.1201); except for the changes identified below [*offeror to insert changes, identifying change by clause number, title, date*]. These amended representation(s) and/or certification(s) are also incorporated in this offer and are current, accurate, and complete as of the date of this offer.
 

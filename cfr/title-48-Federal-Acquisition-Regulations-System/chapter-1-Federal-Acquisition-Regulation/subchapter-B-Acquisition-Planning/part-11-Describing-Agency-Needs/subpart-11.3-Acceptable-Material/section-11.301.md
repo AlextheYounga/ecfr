@@ -1,23 +1,13 @@
-##### 11.301 Definitions. #####
+##### 11.301 Policy. #####
 
-Link to an amendment published at 89 FR 30237, Apr. 22, 2024.
+(a) Agencies must not require virgin material or supplies composed of or manufactured using virgin material unless compelled by law or regulation or unless virgin material is vital for safety or meeting performance requirements of the contract.
 
-As used in this subpart—
+(b)(1) When acquiring products other than commercial products as defined in 2.101, agencies must require offerors to identify used, reconditioned, or remanufactured supplies; or unused former Government surplus property proposed for use under the contract. These supplies or property may not be used in contract performance unless authorized by the contracting officer.
 
-*Postconsumer material* means a material or finished product that has served its intended use and has been discarded for disposal or recovery, having completed its life as a consumer item. Postconsumer material is a part of the broader category of “recovered material.” For paper and paper products, postconsumer material means “postconsumer fiber” defined by the U.S. Environmental Protection Agency (EPA) as—
+(2) When acquiring commercial products, the contracting officer must consider the customary practices in the industry for the product being acquired. The contracting officer may require offerors to provide information on used, reconditioned, or remanufactured supplies, or unused former Government surplus property proposed for use under the contract. The request for the information must be included in the solicitation, and to the maximum extent practicable must be limited to information or standards consistent with normal commercial practices.
 
-(1) Paper, paperboard, and fibrous materials from retail stores, office buildings, homes, and so forth, after they have passed through their end-usage as a consumer item, including: used corrugated boxes; old newspapers; old magazines; mixed waste paper; tabulating cards; and used cordage; or
+(c)(1) When the contracting officer needs additional information to determine whether supplies meet minimum recovered material or biobased standards stated in the solicitation, the contracting officer may require offerors to submit additional information on the recycled or biobased content or related standards. The request for the information must be included in the solicitation. When acquiring commercial products, limit the information to the maximum extent practicable to that available under normal commercial practices.
 
-(2) All paper, paperboard, and fibrous materials that enter and are collected from municipal solid waste; but not
+(2) For biobased products, agencies may not require, as a condition of purchase of such products, the vendor or manufacturer to provide more data than would typically be provided by other business entities offering products for sale to the agency, other than data confirming the biobased content of a product (see 7 CFR 3201.8).
 
-(3) Fiber derived from printers' over-runs, converters' scrap, and over-issue publications.
-
-*Recovered material* for paper and paper products, is defined by EPA in its Comprehensive Procurement Guideline as “recovered fiber” and means the following materials:
-
-(1) Postconsumer fiber.
-
-(2) Manufacturing wastes such as—
-
-(i) Dry paper and paperboard waste generated after completion of the papermaking process (that is, those manufacturing operations up to and including the cutting and trimming of the paper machine reel into smaller rolls or rough sheets) including: envelope cuttings, bindery trimmings, and other paper and paperboard waste resulting from printing, cutting, forming, and other converting operations; bag, box, and carton manufacturing wastes; and butt rolls, mill wrappers, and rejected unused stock; and
-
-(ii) Repulped finished paper and paperboard from obsolete inventories of paper and paperboard manufacturers, merchants, wholesalers, dealers, printers, converters, or others.
+[65 FR 36018, June 6, 2000, as amended at 72 FR 63043, Nov. 7, 2007; 77 FR 23367, Apr. 18, 2012; 86 FR 61021, Nov. 4, 2021. Redesignated at 89 FR 30237, Apr. 22, 2024]

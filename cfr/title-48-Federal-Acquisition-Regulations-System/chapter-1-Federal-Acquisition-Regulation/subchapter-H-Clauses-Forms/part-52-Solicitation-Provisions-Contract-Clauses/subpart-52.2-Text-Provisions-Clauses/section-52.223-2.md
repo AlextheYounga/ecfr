@@ -1,37 +1,25 @@
-##### 52.223-2 Affirmative Procurement of Biobased Products Under Service and Construction Contracts. #####
+##### 52.223-2 Reporting of Biobased Products Under Service and Construction Contracts. #####
 
-Link to an amendment published at 89 FR 30248, Apr. 22, 2024.
+As prescribed in 23.109(c)(2), insert the following clause:
 
-As prescribed in 23.406(b), insert the following clause:
+Reporting of Biobased Products Under Service and Construction Contracts (MAY 2024)
 
-Affirmative Procurement of Biobased Products Under Service and Construction Contracts (SEP 2013)
+(a) *Definitions.* As used in this clause—
 
-(a) In the performance of this contract, the contractor shall make maximum use of biobased products that are United States Department of Agriculture (USDA)-designated items unless—
+*Biobased product* means a product determined by the U.S. Department of Agriculture (USDA) to be a commercial product or industrial product (other than food or feed) that is composed, in whole or in significant part, of biological products, including renewable domestic agricultural materials and forestry materials, or that is an intermediate ingredient or feedstock. The term includes, with respect to forestry materials, forest products that meet biobased content requirements, notwithstanding the market share the product holds, the age of the product, or whether the market for the product is new or emerging. (7 U.S.C. 8101) (7 CFR 3201.2).
 
-(1) The product cannot be acquired—
+*USDA-designated product category* means a generic grouping of products that are or can be made with biobased materials—
 
-(i) Competitively within a time frame providing for compliance with the contract performance schedule;
+(1) That are listed by USDA in a procurement guideline (7 CFR part 3201, subpart B); and
 
-(ii) Meeting contract performance requirements; or
+(2) For which USDA has provided purchasing recommendations (available at *https://www.biopreferred.gov*).
 
-(iii) At a reasonable price.
+(b) The Contractor shall report to *https://www.sam.gov,* with a copy to the Contracting Officer, on the product types and dollar value of any biobased products in USDA-designated product categories purchased by the Contractor during the previous Government fiscal year, between October 1 and September 30; and
 
-(2) The product is to be used in an application covered by a USDA categorical exemption (see 7 CFR 3201.3(e)). For example, all USDA-designated items are exempt from the preferred procurement requirement for the following:
+(c) Submit this report no later than—
 
-(i) Spacecraft system and launch support equipment.
+(1) October 31 of each year during contract performance; and
 
-(ii) Military equipment, *i.e.*, a product or system designed or procured for combat or combat-related missions.
+(2) At the end of contract performance.
 
-(b) Information about this requirement and these products is available at *http://www.biopreferred.gov.*
-
-(c) In the performance of this contract, the Contractor shall—
-
-(1) Report to *http://www.sam.gov,* with a copy to the Contracting Officer, on the product types and dollar value of any USDA-designated biobased products purchased by the Contractor during the previous Government fiscal year, between October 1 and September 30; and
-
-(2) Submit this report no later than—
-
-(i) October 31 of each year during contract performance; and
-
-(ii) At the end of contract performance.
-
-[72 FR 63045, Nov. 7, 2007, as amended at 77 FR 23367, Apr. 18, 2012; 77 FR 44066, July 26, 2012; 78 FR 46795, Aug. 1, 2013]
+[89 FR 30248, Apr. 22, 2024]

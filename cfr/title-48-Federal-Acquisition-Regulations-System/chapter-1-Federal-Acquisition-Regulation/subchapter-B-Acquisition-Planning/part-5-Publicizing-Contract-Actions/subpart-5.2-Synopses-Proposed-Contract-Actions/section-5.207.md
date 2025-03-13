@@ -1,7 +1,5 @@
 ##### 5.207 Preparation and transmittal of synopses. #####
 
-Link to an amendment published at 89 FR 30236, Apr. 22, 2024.
-
 (a) *Content.* Each synopsis transmitted to the GPE must address the following data elements, as applicable:
 
 (1) Action Code.
@@ -64,7 +62,7 @@ Link to an amendment published at 89 FR 30236, Apr. 22, 2024.
 
 (10) Duration of the contract period.
 
-(11) Sustainable acquisition requirements (or a description of high-performance sustainable building practices required, if for design, construction, renovation, repair, or deconstruction) (see parts 23 or 36).
+(11) Sustainable acquisition requirements, such as a description of high-performance sustainable building practices required, if for design, construction, renovation, repair, or deconstruction (see part 23 and 36.104).
 
 (12) For a proposed contract action in an amount estimated to be greater than $25,000 but not greater than the simplified acquisition threshold, enter—
 
@@ -98,4 +96,4 @@ Link to an amendment published at 89 FR 30236, Apr. 22, 2024.
 
 (f) *Notice of solicitation cancellation.* Contracting officers may publish notices of solicitation cancellations (or indefinite suspensions) of proposed contract actions in the GPE.
 
-[68 FR 56678, Oct. 1, 2003, as amended at 69 FR 25276, May 5, 2004; 71 FR 220, Jan. 3, 2006; 71 FR 20298, Apr. 19, 2006; 72 FR 63086, Nov. 7, 2007; 73 FR 10961, Feb. 28, 2008; 74 FR 14626, Mar. 31, 2009; 74 FR 40460, Aug. 11, 2009; 75 FR 53165, Aug. 30, 2010; 76 FR 31398, May 31, 2011; 79 FR 24197, Apr. 29, 2014; 80 FR 38308, July 2, 2015; 82 FR 4713, Jan. 13, 2017; 83 FR 42572, Aug. 22, 2018; 84 FR 19841, May 6, 2019; 86 FR 71325, Dec. 15, 2021]
+[68 FR 56678, Oct. 1, 2003, as amended at 69 FR 25276, May 5, 2004; 71 FR 220, Jan. 3, 2006; 71 FR 20298, Apr. 19, 2006; 72 FR 63086, Nov. 7, 2007; 73 FR 10961, Feb. 28, 2008; 74 FR 14626, Mar. 31, 2009; 74 FR 40460, Aug. 11, 2009; 75 FR 53165, Aug. 30, 2010; 76 FR 31398, May 31, 2011; 79 FR 24197, Apr. 29, 2014; 80 FR 38308, July 2, 2015; 82 FR 4713, Jan. 13, 2017; 83 FR 42572, Aug. 22, 2018; 84 FR 19841, May 6, 2019; 86 FR 71325, Dec. 15, 2021; 89 FR 30236, Apr. 22, 2024]

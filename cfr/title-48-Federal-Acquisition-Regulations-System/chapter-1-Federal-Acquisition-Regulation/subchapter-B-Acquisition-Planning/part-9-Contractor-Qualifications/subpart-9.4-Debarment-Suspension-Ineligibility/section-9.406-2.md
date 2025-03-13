@@ -1,7 +1,5 @@
 ##### 9.406-2 Causes for debarment. #####
 
-Link to an amendment published at 89 FR 30237, Apr. 22, 2024.
-
 The debarring official may debar—
 
 (a) A contractor for a conviction of or civil judgment for—
@@ -32,9 +30,9 @@ The debarring official may debar—
 
 (ii) Violations of 41 U.S.C. chapter 81, Drug-Free Workplace, as indicated by—
 
-(A) Failure to comply with the requirements of the clause at 52.223-6, Drug-Free Workplace; or
+(A) Failure to comply with the requirements of the clause at 52.226-7, Drug-Free Workplace; or
 
-(B) Such a number of contractor employees convicted of violations of criminal drug statutes occurring in the workplace as to indicate that the contractor has failed to make a good faith effort to provide a drug-free workplace (see 23.504).
+(B) Such a number of contractor employees convicted of violations of criminal drug statutes occurring in the workplace as to indicate that the contractor has failed to make a good faith effort to provide a drug-free workplace (see 26.504).
 
 (iii) Intentionally affixing a label bearing a “Made in America” inscription (or any inscription having the same meaning) to a product sold in or shipped to the United States or its outlying areas, when the product was not made in the United States or its outlying areas (see Section 202 of the Defense Production Act (Public Law 102-558)).
 
@@ -70,4 +68,4 @@ The debarring official may debar—
 
 (c) A contractor or subcontractor based on any other cause of so serious or compelling a nature that it affects the present responsibility of the contractor or subcontractor.
 
-[48 FR 42142, Sept. 19, 1983, as amended at 54 FR 4968, Jan. 31, 1989; 54 FR 19815, May 8, 1989; 55 FR 21707, May 25, 1990; 59 FR 11372, Mar. 10, 1994; 61 FR 2633, Jan. 26, 1996; 61 FR 41473, Aug. 8, 1996; 61 FR 69291, Dec. 31, 1996; 68 FR 28080, May 22, 2003; 69 FR 34230, June 18, 2004; 73 FR 21798, Apr. 22, 2008; 73 FR 67091, Nov. 12, 2008; 79 FR 24199, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 84 FR 19845, May 6, 2019; 85 FR 40067, July 2, 2020; 86 FR 3679, Jan. 14, 2021]
+[48 FR 42142, Sept. 19, 1983, as amended at 54 FR 4968, Jan. 31, 1989; 54 FR 19815, May 8, 1989; 55 FR 21707, May 25, 1990; 59 FR 11372, Mar. 10, 1994; 61 FR 2633, Jan. 26, 1996; 61 FR 41473, Aug. 8, 1996; 61 FR 69291, Dec. 31, 1996; 68 FR 28080, May 22, 2003; 69 FR 34230, June 18, 2004; 73 FR 21798, Apr. 22, 2008; 73 FR 67091, Nov. 12, 2008; 79 FR 24199, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 84 FR 19845, May 6, 2019; 85 FR 40067, July 2, 2020; 86 FR 3679, Jan. 14, 2021; 89 FR 30237, Apr. 22, 2024]

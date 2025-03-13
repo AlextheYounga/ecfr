@@ -1,18 +1,14 @@
 ##### 719.271-6 Small business screening procedure. #####
 
-Link to an amendment published at 89 FR 4206, Jan. 23, 2024.
-
 (a) *General.* All USAID/Washington proposed contract actions in excess of the simplified acquisition threshold shall be screened by OSDBU, with the exception of:
 
 (1) Class set-asides and those unilaterally set-aside by contracting officers (719.271-3(f));
 
 (2) Those where the contracting officer certifies in writing that the public exigency will not permit the delay incident to screening (719.271-7(b));
 
-(3) “Institution building” contracts (contracts for development of a counterpart capability in the host country) with educational or nonprofit institutions; or collaborative assistance contracts pursuant to (48 CFR) AIDAR 715.370-2.
+(3) “Institution building” contracts (contracts for development of a counterpart capability in the host country) with educational or nonprofit institutions; or collaborative assistance contracts pursuant to (48 CFR) AIDAR 715.370-2; and
 
-(4) Those involving the payment of tuition and fees for participant training at academic institutions; and
-
-(5) Personal services contract requirements (see 719.270).
+(4) [Reserved]
 
 (b) *Preparation of Form USAID 1410-14 (the Small Business/Minority Business Enterprise Procurement Review Form).* (1) The contracting officer shall prepare the subject form in an original and 3 copies and forward the original and 2 copies to OSDBU within one working day of receipt by the contracting activity of a procurement requisition.
 
@@ -36,4 +32,4 @@ Link to an amendment published at 89 FR 4206, Jan. 23, 2024.
 
 (3) The head of the contracting activity shall render a decision on the appeal (complete Block 15) within three working days after receipt of same and return the original to OSDBU and the duplicate to the contracting officer.
 
-[49 FR 13243, Apr. 3, 1984, as amended at 52 FR 21058, June 4, 1987; 61 FR 39092, July 26, 1996; 62 FR 40468, July 29, 1997; 64 FR 42042, Aug. 3, 1999; 79 FR 74988, 74993, Dec. 16, 2014]
+[49 FR 13243, Apr. 3, 1984, as amended at 52 FR 21058, June 4, 1987; 61 FR 39092, July 26, 1996; 62 FR 40468, July 29, 1997; 64 FR 42042, Aug. 3, 1999; 79 FR 74988, 74993, Dec. 16, 2014; 89 FR 4206, Jan. 23, 2024]

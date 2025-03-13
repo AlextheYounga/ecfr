@@ -1,7 +1,5 @@
 ##### 8.405-6 Limiting sources. #####
 
-Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
-
 Orders placed or BPAs established under Federal Supply Schedules are exempt from the requirements in part 6. However, an ordering activity must justify its action when restricting consideration in accordance with paragraph (a) or (b) of this section—
 
 (a) *Orders or BPAs exceeding the micro-purchase threshold based on a limited sources justification*—(1) *Circumstances justifying limiting the source.* (i) For a proposed order or BPA with an estimated value exceeding the micro-purchase threshold not placed or established in accordance with the procedures in 8.405-1, 8.405-2, or 8.405-3, the only circumstances that may justify the action are—
@@ -42,7 +40,7 @@ Orders placed or BPAs established under Federal Supply Schedules are exempt from
 
 (iii) The documentation or justification must be completed and approved at the time the requirement for a brand-name item is determined. In addition, the justification for a brand-name item is required at the order level when a justification for the brand-name item was not completed for the BPA or does not adequately cover the requirements in the order.
 
-(3) *Posting.* (i) The ordering activity shall post the following information along with the Request for Quotation (RFQ) to e-Buy (*http://www.ebuy.gsa.gov*):
+(3) *Posting.* (i) The ordering activity shall post the following information along with the Request for Quotation (RFQ) to eBuy (*https://www.ebuy.gsa.gov*):
 
 (A) For proposed orders or BPAs with an estimated value exceeding $25,000, but not exceeding the simplified acquisition threshold, the documentation required by paragraph (b)(2)(i) of this section.
 
@@ -54,7 +52,7 @@ Orders placed or BPAs established under Federal Supply Schedules are exempt from
 
 (A) Disclosure would compromise the national security (*e.g.,* would result in disclosure of classified information) or create other security risks. The fact that access to classified matter may be necessary to submit a proposal or perform the contract does not, in itself, justify use of this exception;
 
-(B) The nature of the file (*e.g.,* size, format) does not make it cost-effective or practicable for contracting officers to provide access through e-Buy; or
+(B) The nature of the file (*e.g.,* size, format) does not make it cost-effective or practicable for contracting officers to provide access through eBuy; or
 
 (C) The agency's senior procurement executive makes a written determination that access through e-Buy is not in the Government's interest.
 
@@ -104,4 +102,4 @@ Orders placed or BPAs established under Federal Supply Schedules are exempt from
 
 (4) For a proposed order or BPA with an estimated value exceeding $75 million (or, for DoD, NASA, and the Coast Guard, over $100 million), the justification must be approved by the senior procurement executive of the agency placing the order. This authority is not delegable, except in the case of the Under Secretary of Defense for Acquisition and Sustainment, acting as the senior procurement executive for the Department of Defense.
 
-[76 FR 14555, Mar. 16, 2011, as amended at 77 FR 193, Jan. 3, 2012; 79 FR 24199, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 83 FR 42572, Aug. 22, 2018; 84 FR 19844, May 6, 2019; 85 FR 62488, Oct. 2, 2020; 86 FR 71325, Dec. 15, 2021]
+[76 FR 14555, Mar. 16, 2011, as amended at 77 FR 193, Jan. 3, 2012; 79 FR 24199, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 83 FR 42572, Aug. 22, 2018; 84 FR 19844, May 6, 2019; 85 FR 62488, Oct. 2, 2020; 86 FR 71325, Dec. 15, 2021; 89 FR 30253, Apr. 22, 2024]

@@ -1,7 +1,5 @@
 ##### 8.405-1 Ordering procedures for supplies, and services not requiring a statement of work. #####
 
-Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
-
 (a) Ordering activities shall use the procedures of this subsection when ordering supplies and services that are listed in the schedules contracts at a fixed price for the performance of a specific task, where a statement of work is not required (*e.g.*, installation, maintenance, and repair). For establishing BPAs and for orders under BPAs *see* 8.405-3.
 
 (b) *Orders at or below the micro-purchase threshold.* Ordering activities may place orders at, or below, the micro-purchase threshold with any Federal Supply Schedule contractor that can meet the agency's needs. Although not required to solicit from a specific number of schedule contractors, ordering activities should attempt to distribute orders among contractors.
@@ -18,13 +16,13 @@ Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
 
 (3) The ordering activity contracting officer shall—
 
-(i) Post the RFQ on e-Buy to afford all schedule contractors offering the required supplies or services under the appropriate multiple award schedule(s) an opportunity to submit a quote; or
+(i) Post the RFQ on eBuy to afford all schedule contractors offering the required supplies or services under the appropriate multiple award schedule(s) an opportunity to submit a quote; or
 
 (ii) Provide the RFQ to as many schedule contractors as practicable, consistent with market research appropriate to the circumstances, to reasonably ensure that quotes will be received from at least three contractors that can fulfill the requirements. When fewer than three quotes are received from schedule contractors that can fulfill the requirement, the contracting officer shall prepare a written determination explaining that no additional contractors capable of fulfilling the requirement could be identified despite reasonable efforts to do so. The determination must clearly explain efforts made to obtain quotes from at least three schedule contractors.
 
 (4) The ordering activity contracting officer shall ensure that all quotes received are fairly considered and award is made in accordance with the basis for selection in the RFQ.
 
-(e) When an order contains brand-name specifications, the contracting officer shall post the RFQ on e-Buy along with the justification or documentation, as required by 8.405-6. An RFQ is required when a purchase description specifies a brand-name.
+(e) When an order contains brand-name specifications, the contracting officer shall post the RFQ on eBuy along with the justification or documentation, as required by 8.405-6. An RFQ is required when a purchase description specifies a brand-name.
 
 (f) In addition to price (*see* 8.404(d) and 8.405-4), when determining best value, the ordering activity may consider, among other factors, the following:
 
@@ -56,4 +54,4 @@ Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
 
 (5) The basis for the award decision.
 
-[69 FR 34234, June 18, 2004, as amended at 70 FR 43578, July 27, 2005; 71 FR 57359, Sept. 28, 2006; 76 FR 14552, Mar. 16, 2011; 77 FR 193, Jan. 3, 2012]
+[69 FR 34234, June 18, 2004, as amended at 70 FR 43578, July 27, 2005; 71 FR 57359, Sept. 28, 2006; 76 FR 14552, Mar. 16, 2011; 77 FR 193, Jan. 3, 2012; 89 FR 30253, Apr. 22, 2024]

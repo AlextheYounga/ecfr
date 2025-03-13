@@ -1,0 +1,3 @@
+##### § 102-83.50 How is a CBSA defined? #####
+
+A CBSA is defined by OMB using U.S. Census data as an area that has at its core an urban center and includes the adjacent areas that are socioeconomically tied to the urban center by commuting patterns pursuant to the *Standards for Delineating Metropolitan and Micropolitan Statistical Areas,* as updated periodically and published in the Federal Register, pursuant to 31 U.S.C. 1104(d) and 44 U.S.C. 3504.

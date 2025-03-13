@@ -1,7 +1,5 @@
 ##### 752.7008 Use of Government facilities or personnel. #####
 
-Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
-
 The following clause is for use in all USAID non-commercial contracts.
 
 Use of Government Facilities or Personnel (APR 1984)
@@ -12,4 +10,4 @@ Use of Government Facilities or Personnel (APR 1984)
 
 (c) If the parties fail to agree on an adjustment made pursuant to this clause, it shall be considered a dispute, and shall be dealt with under the terms of the clause of this contract entitled “Disputes”.
 
-[49 FR 13259, Apr. 3, 1984, as amended at 62 FR 40470, July 29, 1997; 79 FR 74988, Dec. 16, 2014]
+(End of clause)[49 FR 13259, Apr. 3, 1984, as amended at 62 FR 40470, July 29, 1997; 79 FR 74988, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024]

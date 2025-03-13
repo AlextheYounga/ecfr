@@ -1,10 +1,8 @@
 ##### 52.223-5 Pollution Prevention and Right-to-Know Information. #####
 
-Link to an amendment published at 89 FR 30248, Apr. 22, 2024.
+As prescribed in 23.406(a), insert the following clause:
 
-As prescribed in 23.1005, insert the following clause:
-
-Pollution Prevention and Right-to-Know Information (MAY 2011)
+Pollution Prevention and Right-to-Know Information (MAY 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -24,16 +22,4 @@ Pollution Prevention and Right-to-Know Information (MAY 2011)
 
 (5) The toxic chemical release inventory of section 313 of EPCRA, which includes the reduction and recycling information required by section 6607 of PPA.
 
-(6) The toxic chemical and hazardous substance release and use reduction goals of section 2(e) of Executive Order 13423 and of Executive Order 13514.
-
-(End of clause)
-
-*Alternate I* (MAY 2011). As prescribed in 23.1005(b), add the following paragraph (c)(7) to the basic clause:
-
-(c)(7) The environmental management system as described in section 3(b) of E.O. 13423 and 2(j) of E.O. 13514.
-
-*Alternate II* (MAY 2011). As prescribed in 23.1005(c), add the following paragraph (c)(7) to the basic clause. If *Alternate I* is also prescribed, renumber paragraph (c)(7) as paragraph (c)(8).
-
-(c)(7) The facility compliance audits as described in section 3(c) of E.O. 13423.
-
-[68 FR 43870, July 24, 2003, as amended at 76 FR 31402, May 31, 2011]
+(End of clause)[68 FR 43870, July 24, 2003, as amended at 76 FR 31402, May 31, 2011; 89 FR 30248, Apr. 22, 2024]

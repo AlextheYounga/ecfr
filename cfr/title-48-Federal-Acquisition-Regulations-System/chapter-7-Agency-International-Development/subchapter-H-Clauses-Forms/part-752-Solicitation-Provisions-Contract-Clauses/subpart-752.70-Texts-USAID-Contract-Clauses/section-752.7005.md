@@ -1,6 +1,6 @@
 ##### 752.7005 Submission requirements for development experience documents. #####
 
-Link to an amendment published at 89 FR 4209, Jan. 23, 2024.Link to an amendment published at 89 FR 37964, May 6, 2024.
+Link to an amendment published at 89 FR 37964, May 6, 2024.
 
 The following clause must be inserted in all USAID professional/technical contracts in which development experience documents are likely to be produced.
 
@@ -34,4 +34,4 @@ Submission Requirements for Development Experience Documents (SEP 2013)
 
 (2) Essential bibliographic information. Descriptive information is required for all contractor products submitted. The title page of all reports and information products must include the contract number(s), contractor name(s), name of the USAID contracting officer's representative, the publication or issuance date of the document, document title, (if non-English, provide an English translation of the title), author name(s), and development objective or activity title (if non-English, provide a translation) and associated number, and language of the document (if non-English). In addition, all hard copy materials submitted in accordance with this clause must have, attached as a separate cover sheet, the name, organization, address, telephone number, fax number, and internet address of the submitting party.
 
-[79 FR 75001, Dec. 16, 2014; 80 FR 12935, Mar. 12, 2015]
+(End of clause)[79 FR 75001, Dec. 16, 2014; 80 FR 12935, Mar. 12, 2015, as amended at 89 FR 4209, Jan. 23, 2024]

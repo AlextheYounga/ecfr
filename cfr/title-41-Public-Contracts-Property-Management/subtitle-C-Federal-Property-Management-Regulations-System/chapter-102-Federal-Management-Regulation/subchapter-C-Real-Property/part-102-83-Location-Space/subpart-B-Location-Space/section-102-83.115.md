@@ -1,0 +1,3 @@
+##### § 102-83.115 Are Federal agencies required to consider whether the CBA or other areas recommended by local officials will provide for adequate competition when acquiring leased space? #####
+
+Yes. In accordance with CICA, Federal agencies must consider whether restricting the delineated area for obtaining leased space to CBAs or other areas recommended by local officials will provide for adequate competition when acquiring space. If a Federal agency determines that the delineated area must be expanded beyond the preferred areas to provide adequate competition, the agency may expand the delineated area in consultation and engagement with local officials. Federal agencies must continue to include the preferred area in such expanded areas.

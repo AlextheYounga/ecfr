@@ -1,7 +1,5 @@
 ##### 752.7012 Protection of the individual as a research subject. #####
 
-Link to an amendment published at 89 FR 4209, Jan. 23, 2024.
-
 This clause is for use in any USAID contract which involves research using human subjects.
 
 Protection of the Individual as a Research Subject (AUG 1995)
@@ -12,4 +10,4 @@ Protection of the Individual as a Research Subject (AUG 1995)
 
 (c) Since the welfare of the research subject is a matter of concern to USAID as well as to the contractor, USAID staff, consultants and advisory groups may independently review and inspect research, and research processes and procedures involving human subjects, and based on such findings, the CHSO may prohibit research which presents unacceptable hazards or otherwise fails to comply with USAID procedures. Informed consent documents must include the stipulation that the subject's records may be subject to such review.
 
-[61 FR 39095, July 26, 1996]
+(End of clause)[61 FR 39095, July 26, 1996, as amended at 89 FR 4209, Jan. 23, 2024]

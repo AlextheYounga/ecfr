@@ -1,0 +1,3 @@
+##### § 102-83.05 What does this part cover? #####
+
+This part covers GSA's considerations when making location decisions for Federal agencies in both Federally owned and leased space and the considerations of those Federal agencies operating under or subject to the real property authorities of the Administrator of General Services (Administrator), including those using delegated real property authority, when making their own location decisions. It directs practices that foster the policies and programs of the Federal Government and improve the management, efficiency, and effectiveness of Government activities.
