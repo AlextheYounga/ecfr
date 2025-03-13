@@ -90,8 +90,6 @@ In addition to the definitions set forth in sec. 3 of the Workforce Innovation a
 
 *Migrant farmworker* means a seasonal farmworker (as defined in this section) who travels to the job site so that the farmworker is not reasonably able to return to their permanent residence within the same day.
 
-*Migrant food processing worker* see *Migrant Farmworker.*
-
 *MSFW* means a migrant farmworker or a seasonal farmworker.
 
 *Occupational Information Network (O\*NET)* means the online reference database which contains detailed descriptions of U.S. occupations, distinguishing characteristics, classification codes, and information on tasks, knowledge, skills, abilities, and work activities as well as information on interests, work styles, and work values.
@@ -152,8 +150,6 @@ In addition to the definitions set forth in sec. 3 of the Workforce Innovation a
 
 *Secretary* means the Secretary of the U.S. Department of Labor or the Secretary's designee.
 
-*Significant MSFW one-stop centers* are those designated by the Department and include those ES offices where MSFWs account for 10 percent or more of annual participants or reportable individuals in ES and those local ES offices that the OWI Administrator determines must be included due to special circumstances such as an estimated large number of MSFWs in the service area. In no event may the number of significant MSFW one-stop centers be less than 100 centers on a nationwide basis.
-
 *Significant MSFW States* are those States designated by the Department and must include the 20 States with the highest estimated number of MSFWs.
 
 *Significant MSFW States* are those States designated annually by the Department and must include the 20 States with the highest number of MSFW participants.
@@ -175,8 +171,6 @@ In addition to the definitions set forth in sec. 3 of the Workforce Innovation a
 *State agency* or *State Workforce Agency (SWA)* means the State ES agency designated under sec. 4 of the Wagner-Peyser Act.
 
 *State hearing official* means a State official designated to preside at State administrative hearings convened to resolve complaints involving ES regulations pursuant to subpart E of part 658 of this chapter.
-
-*State Workforce Agency (SWA) official* means an individual employed by the State Workforce Agency or any of its subdivisions.
 
 *State Workforce Development Board* or *State WDB* means the entity within a State appointed by the Governor under sec. 101 of WIOA.
 

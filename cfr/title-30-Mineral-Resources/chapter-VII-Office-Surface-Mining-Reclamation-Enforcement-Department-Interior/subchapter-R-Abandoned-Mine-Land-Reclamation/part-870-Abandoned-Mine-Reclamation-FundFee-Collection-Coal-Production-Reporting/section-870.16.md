@@ -1,5 +1,7 @@
 ##### § 870.16 Acceptable payment methods. #####
 
+Link to an amendment published at 89 FR 8073, Feb. 6, 2024.
+
 (a) If you owe total quarterly reclamation fees of $25,000 or more for one or more mines, you must:
 
 (1) Use an electronic fund transfer mechanism approved by the U.S. Department of the Treasury;
