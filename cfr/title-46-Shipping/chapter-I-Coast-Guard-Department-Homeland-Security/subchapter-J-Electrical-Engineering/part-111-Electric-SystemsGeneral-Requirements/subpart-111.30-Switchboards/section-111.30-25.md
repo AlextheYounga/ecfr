@@ -64,7 +64,7 @@
 
 (3) One of the voltmeters under paragraph (b)(5) of this section connected to show the voltage of each phase of the shore power connection.
 
-(g) The equipment under paragraphs (b)(1) and (2) and (f)(1) of this section, except the equipment under paragraphs (b)(1), (b)(2), and (f)(1), must be on the ship's service switchboard or on a central control console that:
+(g) The equipment under paragraphs (b)(1) and (2) and (f)(1) of this section, except the equipment under paragraphs (b)(1) and (2) and (f)(1) of this section, must be on the ship's service switchboard or on a central control console that:
 
 (1) Is in the same control area as the main ship's service switchboard or can remotely control the ship's service generator circuit breaker;
 

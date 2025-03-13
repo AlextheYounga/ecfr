@@ -1,13 +1,1 @@
-##### § 984.49 Volume regulation. #####
-
-Link to an amendment published at 88 FR 56748, Aug. 21, 2023.
-
-(a) *Free, reserve, and export percentages.* Whenever the Secretary finds, on the basis of the Board's recommendation or other information, that limiting the quantity of walnuts that may be handled in domestic markets for merchantable free walnuts during a marketing year will tend to effectuate the declared policy of the act, he shall establish a free percentage to prescribe the portion of such walnuts which may be handled as free walnuts, and a reserve percentage to prescribe the portion that must be withheld as reserve walnuts. Whenever the Board recommends an export percentage pursuant to § 984.48(a)(7), the Secretary shall establish a percentage if he finds it would tend to effectuate the declared policy of the act.
-
-(b) *Revision of percentages.* (1) On or before February 15 of the marketing year, the Board may recommend that the free percentage be increased and the reserve percentage be decreased. On the basis of the Board's recommendation or other information the Secretary may establish such revisions. If the reserve percentage is reduced when an export percentage is in effect, an increase shall be made in the export percentage so that the quantity previously authorized for export will not be reduced. If the revised reserve quantity is less than the quantity previously authorized for export the export percentage shall be 100 percent. Upon revision, all reserve obligations that are theretofore accrued on merchantable walnuts certified during such year on the basis of the previously effective percentages shall be adjusted accordingly.
-
-(2) Any time prior to July 1, the Board may recommend an increase in the export percentage, if it finds that there is an insufficient volume of reserve walnuts available for export and additional demand exists, which would not adversely affect the disposition of the oncoming crop. On the basis of the Board's recommendation or other information, the Secretary may establish such revision.
-
-[41 FR 31543, July 29, 1976]Effective Date Notes:1. At 60 FR 40064, Aug. 7, 1995, in § 989.49, in paragraph (b)(1), the words “On or before February 15 of the marketing year,” were suspended.
-
-2. At 85 FR 27108, May 7, 2020, § 984.49 was stayed indefinitely.
+##### § 984.49 [Reserved] #####

@@ -14,4 +14,4 @@
 
 (g) Each electrical subsystem in a weather location must be watertight or in a watertight enclosure and must meet Type 4 or 4X of NEMA 250 or IP 56 of IEC 60529:2013 (both incorporated by reference; see § 110.10-1 of this subchapter) requirements.
 
-[CGD 94-108, 61 FR 28290, June 4, 1996, as amended at 62 FR 23910, May 1, 1997; USCG-2003-16630, 73 FR 65202, Oct. 31, 2008; USCG-2020-0075, 88 FR 25285, Apr. 26, 2023]
+[CGD 94-108, 61 FR 28290, June 4, 1996, as amended at 62 FR 23910, May 1, 1997; USCG-2003-16630, 73 FR 65202, Oct. 31, 2008; USCG-2020-0075, 88 FR 16369, Mar. 16, 2023; 88 FR 25285, Apr. 26, 2023]

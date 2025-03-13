@@ -1,6 +1,6 @@
 ##### § 111.106-5 Cable and wiring. #####
 
-(a) Cable and wiring in hazardous locations must meet the cable construction and testing provisions of IEEE 1580; ANSI/UL 1309; MIL-DTL-24640C; MIL-DTL-24643C; or 60092-350:2014and IEC 60092-353:2016 (incorporated by reference, see § 110.10-1), including the respective flammability tests contained therein, and must be of a copper-stranded type.
+(a) Cable and wiring in hazardous locations must meet the cable construction and testing provisions of IEEE 1580; ANSI/UL 1309; MIL-DTL-24640C; MIL-DTL-24643C; or 60092-350:2014 and IEC 60092-353:2016 (incorporated by reference, see § 110.10-1), including the respective flammability tests contained therein, and must be of a copper-stranded type.
 
 (b) Type MC cables, when used, must meet the requirements in § 111.60-23 of this part.
 

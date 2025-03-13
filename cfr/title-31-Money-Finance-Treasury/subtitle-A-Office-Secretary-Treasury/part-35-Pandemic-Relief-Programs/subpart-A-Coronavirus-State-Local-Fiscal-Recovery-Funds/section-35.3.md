@@ -18,9 +18,13 @@
 
 *COVID-19* means the Coronavirus Disease 2019.
 
-*COVID-19 public health emergency* means the period beginning on January 27, 2020 and lasting until the termination of the national emergency concerning the COVID-19 outbreak declared pursuant to the National Emergencies Act (50 U.S.C. 1601 *et seq.*).
+*COVID-19 public health emergency* means the period beginning on January 27, 2020, and lasting until the termination of the national emergency concerning the COVID-19 outbreak declared pursuant to the National Emergencies Act (50 U.S.C. 1601 *et seq.*).
+
+*Delivery sequence* means the order in which disaster relief agencies and organizations provide assistance pursuant to 44 CFR 206.191.
 
 *Deposit* means an extraordinary payment of an accrued, unfunded liability. The term deposit does not refer to routine contributions made by an employer to pension funds as part of the employer's obligations related to payroll, such as either a pension contribution consisting of a normal cost component related to current employees or a component addressing the amortization of unfunded liabilities calculated by reference to the employer's payroll costs.
+
+*Disaster loss* means a loss suffered as a result of a major disaster or emergency declared under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170).
 
 *Eligible employer* means an employer of an eligible worker who performs essential work.
 
@@ -29,6 +33,8 @@
 (1) With respect to a recipient that is a metropolitan city, nonentitlement unit of local government, or county, workers in any additional non-public sectors as each chief executive officer of such recipient may designate as critical to protect the health and well-being of the residents of their metropolitan city, nonentitlement unit of local government, or county; or
 
 (2) With respect to a State, territory, or Tribal government, workers in any additional non-public sectors as each Governor of a State or territory, or each Tribal government, may designate as critical to protect the health and well-being of the residents of their State, territory, or Tribal government.
+
+*Emergency relief* means assistance that is needed to save lives and to protect property and public health and safety, or to lessen or avert the threat of catastrophe.
 
 *Essential work* means work that:
 
@@ -43,6 +49,8 @@
 *Funds* means, with respect to a recipient, amounts provided to the recipient pursuant to a payment made under section 602(b) or 603(b) of the Social Security Act or transferred to the recipient pursuant to section 603(c)(4) of the Social Security Act.
 
 *General revenue* means money that is received from tax revenue, current charges, and miscellaneous general revenue, excluding refunds and other correcting transactions and proceeds from issuance of debt or the sale of investments, agency or private trust transactions, and intergovernmental transfers from the Federal Government, including transfers made pursuant to section 9901 of the American Rescue Plan Act. General revenue also includes revenue from liquor stores that are owned and operated by state and local governments. General revenue does not include revenues from utilities, except recipients may choose to include revenue from utilities that are part of their own government as general revenue provided the recipient does so consistently over the remainder of the period of performance. Revenue from Tribal business enterprises must be included in general revenue.
+
+*Infrastructure Investment and Jobs Act* means the Infrastructure Investment and Jobs Act, Public Law 117-58, 135 Stat. 429 (Nov. 15, 2021).
 
 *Intergovernmental transfers* means money received from other governments, including grants and shared taxes.
 
@@ -62,6 +70,8 @@
 
 *Metropolitan city* has the meaning given that term in section 102(a)(4) of the Housing and Community Development Act of 1974 (42 U.S.C. 5302(a)(4)) and includes cities that relinquish or defer their status as a metropolitan city for purposes of receiving allocations under section 106 of such Act (42 U.S.C. 5306) for fiscal year 2021.
 
+*Natural disaster* means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, or fire, in each case attributable to natural causes, that causes or may cause substantial damage, injury, or imminent threat to civilian property or persons. “Natural disaster” may also include another type of natural catastrophe, attributable to natural causes, that causes or may cause substantial damage, injury, or imminent threat to civilian property or persons.
+
 *Net reduction in total spending* is measured as the State or territory's total spending for a given reporting year excluding its spending of funds, subtracted from its total spending for its fiscal year ending in 2019, adjusted for inflation using the Bureau of Economic Analysis's Implicit Price Deflator for the gross domestic product of the United States for that reporting year.
 
 *Nonentitlement unit of local government* means a “city,” as that term is defined in section 102(a)(5) of the Housing and Community Development Act of 1974 (42 U.S.C. 5302(a)(5)), that is not a metropolitan city.
@@ -70,9 +80,11 @@
 
 *Obligation* means an order placed for property and services and entering into contracts, subawards, and similar transactions that require payment.
 
+*Operating expenses* means costs necessary to operate and manage a public transportation system, including driver salaries, fuel, and items having a useful life of less than one year. Operating expenses do not include preventive maintenance activities.
+
 *Pension fund* means a defined benefit plan and does not include a defined contribution plan.
 
-*Period of performance* means the time period described in § 35.5 during which a recipient may obligate and expend funds in accordance with sections 602(c)(1) and 603(c)(1) of the Social Security Act and this subpart.
+*Period of performance* means the time period described in § 35.5 during which a recipient may obligate and expend funds in accordance with sections 602(c)(1), 602(c)(5)(E), 603(c)(1), and 603(c)(6)(D) of the Social Security Act and this subpart.
 
 *Premium pay* means an amount of up to $13 per hour that is paid to an eligible worker, in addition to wages or remuneration the eligible worker otherwise receives, for all work performed by the eligible worker during the COVID-19 public health emergency. Such amount may not exceed $25,000 in total over the period of performance with respect to any single eligible worker. Premium pay may be awarded to non-hourly and part-time eligible workers performing essential work. Premium pay will be considered to be in addition to wages or remuneration the eligible worker otherwise receives if, as measured on an hourly rate, the premium pay is:
 
@@ -96,11 +108,69 @@
 
 (2) Is a small business concern as defined in section 3 of the Small Business Act (15 U.S.C. 632).
 
+*Surface Transportation project* means any of the following:
+
+(1) A project eligible under 23 U.S.C. 117;
+
+(2) A project eligible under 23 U.S.C. 119;
+
+(3) A project eligible under 23 U.S.C. 124, as added by the Infrastructure Investment and Jobs Act;
+
+(4) A project eligible under 23 U.S.C. 133;
+
+(5) An activity to carry out 23 U.S.C. 134;
+
+(6) A project eligible under 23 U.S.C. 148;
+
+(7) A project eligible under 23 U.S.C. 149;
+
+(8) A project eligible under 23 U.S.C. 151(f), as added by the Infrastructure Investment and Jobs Act;
+
+(9) A project eligible under 23 U.S.C. 165;
+
+(10) A project eligible under 23 U.S.C. 167;
+
+(11) A project eligible under 23 U.S.C. 173, as added by the Infrastructure Investment and Jobs Act;
+
+(12) A project eligible under 23 U.S.C. 175, as added by the Infrastructure Investment and Jobs Act;
+
+(13) A project eligible under 23 U.S.C. 176, as added by the Infrastructure Investment and Jobs Act;
+
+(14) A project eligible under 23 U.S.C. 202;
+
+(15) A project eligible under 23 U.S.C. 203;
+
+(16) A project eligible under 23 U.S.C. 204;
+
+(17) A project eligible under the program for national infrastructure investments commonly known as the “Rebuilding American Infrastructure with Sustainability and Equity” grant program;
+
+(18) A project eligible for credit assistance under the Transportation Infrastructure Finance and Innovation Act program under 23 U.S.C. chapter 6;
+
+(19) A project that furthers the completion of a designated route of the Appalachian Development Highway System under 40 U.S.C. 14501;
+
+(20) A project eligible under 49 U.S.C. 5307;
+
+(21) A project eligible under 49 U.S.C. 5309;
+
+(22) A project eligible under 49 U.S.C. 5311;
+
+(23) A project eligible under 49 U.S.C. 5337;
+
+(24) A project eligible under 49 U.S.C. 5339;
+
+(25) A project eligible under 49 U.S.C. 6703, as added by the Infrastructure Investment and Jobs Act;
+
+(26) A project eligible under the bridge replacement, rehabilitation, preservation, protection, and construction program under paragraph (1) under the heading 'HIGHWAY INFRASTRUCTURE PROGRAM' under the heading 'FEDERAL HIGHWAY ADMINISTRATION' under the heading 'DEPARTMENT OF TRANSPORTATION' under title VIII of division J of the Infrastructure Investment and Jobs Act; and
+
+(27) A project eligible under 49 U.S.C. 6701 for the purpose set forth in § 35.6(h)(1)(i)(C).
+
 *Tax revenue* means revenue received from a compulsory contribution that is exacted by a government for public purposes excluding refunds and corrections and, for purposes of § 35.8, intergovernmental transfers. Tax revenue does not include payments for a special privilege granted or service rendered, employee or employer assessments and contributions to finance retirement and social insurance trust systems, or special assessments to pay for capital improvements.
 
 *Territory* means the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, or American Samoa.
 
 *Title I eligible schools* means schools eligible to receive services under section 1113 of Title I, Part A of the Elementary and Secondary Education Act of 1965, as amended (20 U.S.C. 6313), including schools served under section 1113(b)(1)(C) of that Act.
+
+*Title I project* means an activity eligible under section 105(a) of the Housing and Community Development Act of 1974 (42 U.S.C. 5305(a)).
 
 *Tribal enterprise* means a business concern:
 

@@ -1,15 +1,21 @@
-##### § 984.50 Grade, quality and size regulations. #####
+##### § 984.50 Grade, quality, and size regulations. #####
 
-Link to an amendment published at 88 FR 56748, Aug. 21, 2023.
+(a) The Board may recommend, subject to the approval of the Secretary, regulations that:
 
-(a) *Minimum standard for inshell walnuts.* Except as provided in § 984.64, no handler shall handle inshell walnuts unless such walnuts are equal to or better than the requirements of U.S. No. 2 grade and baby size as defined in the then effective United States Standards for Walnuts (Juglans regia) in the Shell. This minimum standard may be modified by the Secretary on the basis of a Board recommendation or other information.
+(1) Establish handling requirements for particular grades, sizes, or qualities, or any combination thereof, of any or all varieties or classifications of walnuts during any period;
 
-(b) *Minimum standard for shelled walnuts.* Except as provided in § 984.64, no handler shall handle shelled walnuts unless such walnuts are equal to or better than the requirements of the U.S. Commercial grade as defined in the then effective United States Standards for Shelled Walnuts (Juglans regia) and the minimum size shall be pieces not more than 5 percent of which will pass through a round opening6/64 inch in diameter. This minimum standard may be modified by the Secretary on the basis of a Board recommendation or other information.
+(2) Establish different handling requirements and tolerance limits for particular grades, sizes, or qualities, or any combination thereof, for different market destinations;
 
-(c) *Effective period.* The minimum standards established pursuant to paragraphs (a) and (b) of this section and the provisions of this part relating to the administration thereof, shall continue in effect irrespective of whether the season average price for walnuts is above the parity level specified in section 2(1) of the Act.
+(3) Establish different handling requirements for the processing of shelled walnuts and the handling thereof; and
 
-(d) *Additional grade, size or other quality regulation.* The Board may recommend to the Secretary additional grade, size or other quality regulations, and may also recommend different regulations for different market destinations. If the Secretary finds on the basis of such recommendation or other information that such additional regulations would tend to effectuate the declared policy of the Act, he or she shall establish such regulations.
+(4) Establish inspection and certification requirements for the purposes of this paragraph (a) and paragraph (b) of this section.
 
-(e) *Minimum requirements for reserve.* The Board, with the approval of the Secretary, may specify the minimum kernel content and related requirements for any lot of walnuts acceptable for disposition for credit against a reserve obligation: *Provided,* That reserve walnuts exported must meet the requirements of paragraph (a) of this section if inshell, or paragraph (b) of this section if shelled.
+(b) During any period, regulations issued under this section are in effect, no handler shall handle or process walnuts into manufactured items or products unless they meet the applicable requirements under this section as evidenced by certification acceptable to the Board.
 
-[27 FR 9094, Sept. 13, 1962, as amended at 39 FR 35330, Oct. 1, 1974; 41 FR 31543, July 29, 1976; 73 FR 11339, Mar. 3, 2008]Effective Date Note:At 85 FR 27108, May 7, 2020, in § 984.50, paragraphs (e) was stayed indefinitely.
+(c) Regulations issued under this section may be amended, modified, suspended, or terminated whenever it is determined:
+
+(1) That such action is warranted upon recommendation of the Board and approval by the Secretary, or other available information; or
+
+(2) That regulations issued under this section no longer tend to effectuate the declared policy of the Act.
+
+[88 FR 56748, Aug. 21, 2023]

@@ -6,4 +6,4 @@
 
 (c) *Units of general local government.* Each State or Territory that receives a payment from the Secretary pursuant to section 603(b)(3)(B)(ii) of the Social Security Act, in the case of an amount to be paid to a county that is not a unit of general local government, shall distribute the amount of the payment to units of general local government within such county in accordance with the requirements set forth in section 603(b)(3)(B)(ii) of the Social Security Act and without offsetting any debt owed by such units of general local government against such payments.
 
-(d) *Additional conditions.* A State or Territory may not place additional conditions or requirements on distributions to nonentitlement units of local government or units of general local government beyond those required by section 603 of the Social Security Act or this subpart.
+(d) *Additional conditions.* A State or Territory may not place additional conditions or requirements on distributions to nonentitlement units of local government or units of general local government beyond those required by section 603 of the Social Security Act or this subpart A.

@@ -16,7 +16,7 @@ A Navigation and Vessel Inspection Circular on the Subject of “Coast Guard Rev
 
 (4) Type and capacity of storage batteries;
 
-(5) Rating of circuit breakers and switches, interrupting capacity of overcurrent devices , and rating or setting of overcurrent devices;
+(5) Rating of circuit breakers and switches, interrupting capacity of overcurrent devices, and rating or setting of overcurrent devices;
 
 (6) Computations of short circuit currents in accordance with subpart 111.51 of part 111 of this subchapter; and
 
