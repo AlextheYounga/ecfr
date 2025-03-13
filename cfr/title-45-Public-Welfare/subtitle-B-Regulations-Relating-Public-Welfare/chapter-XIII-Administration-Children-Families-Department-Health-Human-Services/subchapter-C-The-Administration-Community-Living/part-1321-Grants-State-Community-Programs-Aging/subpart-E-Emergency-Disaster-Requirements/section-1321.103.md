@@ -1,0 +1,3 @@
+##### § 1321.103 Title III and Title VI coordination for emergency and disaster preparedness. #####
+
+State agencies, area agencies, and Title VI programs should coordinate in emergency and disaster preparedness planning, response, and recovery. State agencies and area agencies that have Title VI programs in operation within their jurisdictions must have policies and procedures, developed in communication with the relevant Title VI program director(s) as set forth in § 1322.13(c), in place for how they will communicate and coordinate with Title VI programs regarding emergency and disaster preparedness planning, response, and recovery.

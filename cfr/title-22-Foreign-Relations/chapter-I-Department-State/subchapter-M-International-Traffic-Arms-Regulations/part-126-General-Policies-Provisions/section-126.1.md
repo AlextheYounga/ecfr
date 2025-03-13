@@ -31,12 +31,9 @@ Table 1 to Paragraph (d)(1)
 
 (2) For defense articles and defense services, a policy of denial applies as specified in the associated paragraphs in the following table:
 
-Table 2 to Paragraph (d)(2)
-
 |          Country           |  Country specific paragraph location  |
 |----------------------------|---------------------------------------|
 |        Afghanistan         |See also paragraph (g) of this section.|
-|          Cambodia          |See also paragraph (o) of this section.|
 |  Central African Republic  |See also paragraph (u) of this section.|
 |           Cyprus           |See also paragraph (r) of this section.|
 |Democratic Republic of Congo|See also paragraph (i) of this section.|
@@ -46,6 +43,7 @@ Table 2 to Paragraph (d)(2)
 |            Iraq            |See also paragraph (f) of this section.|
 |          Lebanon           |See also paragraph (t) of this section.|
 |           Libya            |See also paragraph (k) of this section.|
+|         Nicaragua          |See also paragraph (p) of this section.|
 |           Russia           |See also paragraph (l) of this section.|
 |          Somalia           |See also paragraph (m) of this section.|
 |        South Sudan         |See also paragraph (w) of this section.|
@@ -150,7 +148,9 @@ Note to paragraph (e):
 
 (o) *Cambodia.* It is the policy of the United States to deny licenses or other approvals for exports and imports of defense articles and defense services destined for or originating in Cambodia, except that a license or other approval may be issued, on a case-by-case basis, for defense articles and defense services in furtherance of conventional weapons destruction or humanitarian mine action activities.
 
-(p)-(q) [Reserved]
+(p) *Nicaragua.* It is the policy of the United States to deny licenses or other approvals for exports and imports of defense articles or defense services, destined for or originating in Nicaragua, except that a license or other approval may be issued, on a case-by-case basis, for non-lethal military equipment intended solely for humanitarian assistance, to include natural disaster relief.
+
+(q) [Reserved]
 
 (r) *Cyprus.* It is the policy of the United States to deny licenses or other approvals for exports or imports of defense articles and defense services destined for or originating in Cyprus, except that:
 

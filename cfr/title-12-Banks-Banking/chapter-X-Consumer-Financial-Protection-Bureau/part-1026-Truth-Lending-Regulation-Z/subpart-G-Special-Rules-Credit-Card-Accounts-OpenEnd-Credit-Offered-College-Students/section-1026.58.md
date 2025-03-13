@@ -1,5 +1,7 @@
 ##### § 1026.58 Internet posting of credit card agreements. #####
 
+Link to an amendment published at 89 FR 19202, Mar. 15, 2024.
+
 (a) *Applicability.* The requirements of this section apply to any card issuer that issues credit cards under a credit card account under an open-end (not home-secured) consumer credit plan.
 
 (b) *Definitions*—(1) *Agreement.* For purposes of this section, “agreement” or “credit card agreement” means the written document or documents evidencing the terms of the legal obligation, or the prospective legal obligation, between a card issuer and a consumer for a credit card account under an open-end (not home-secured) consumer credit plan. “Agreement” or “credit card agreement” also includes the pricing information, as defined in § 1026.58(b)(7).

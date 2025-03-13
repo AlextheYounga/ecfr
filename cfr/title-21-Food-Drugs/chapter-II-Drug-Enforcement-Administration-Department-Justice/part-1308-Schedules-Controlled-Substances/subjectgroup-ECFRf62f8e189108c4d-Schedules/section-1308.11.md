@@ -1,5 +1,7 @@
 ##### § 1308.11 Schedule I. #####
 
+Link to an amendment published at 89 FR 18795, Mar. 15, 2024.
+
 (a) Schedule I shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it.
 
 (b) *Opiates.* Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters and ethers, whenever the existence of such isomers, esters, ethers and salts is possible within the specific chemical designation (for purposes of 3-methylthiofentanyl only, the term isomer includes the optical and geometric isomers):
@@ -366,3 +368,17 @@ Effective Date Notes:
 3. At 88 FR 48118, July 26, 2023, § 1308.11 was amended by adding paragraphs (h)(57) through (h)(61), effective July 26, 2023 through July 26, 2025.
 
 4. At 88 FR 86045, Dec. 12, 2023, § 1308.11 was amended by adding pargaraphs (h)(62) through (h)(65), effective Dec. 12, 2023 through Dec. 12, 2025.
+
+5. At 89 18795, Mar. 15, 2024, § 1308.11 was amended by redesignating paragraphs (b)(59) through (b)(103) as paragraphs (b)(60) through (104) and adding a new (b)(59), effective Apr. 15, 2024. For the convenience of the user, the added text is set forth as follows:
+
+##### § 1308.11 Schedule I. #####
+
+(b) \* \* \*
+
+|                                                                                       |    |
+|---------------------------------------------------------------------------------------|----|
+|                                                                                       |    |
+|                     \*<br/>\*<br/>\*<br/>\*<br/>\*<br/>\*<br/>\*                      |    |
+|(59) 2-Methyl AP-237 (1-(2-methyl-4-(3-phenylprop-2-en-1-yl)piperazin-1-yl)butan-1-one)|9664|
+|                                                                                       |    |
+|                     \*<br/>\*<br/>\*<br/>\*<br/>\*<br/>\*<br/>\*                      |    |

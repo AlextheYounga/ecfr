@@ -1,5 +1,7 @@
 ##### § 9.75 Central Coast. #####
 
+Link to an amendment published at 89 FR 18800, Mar. 15, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “Central Coast.”
 
 (b) *Approved maps.* The approved maps for determining the boundary of the Central Coast viticultural area are the following 43 United States Geological Survey topographic maps:

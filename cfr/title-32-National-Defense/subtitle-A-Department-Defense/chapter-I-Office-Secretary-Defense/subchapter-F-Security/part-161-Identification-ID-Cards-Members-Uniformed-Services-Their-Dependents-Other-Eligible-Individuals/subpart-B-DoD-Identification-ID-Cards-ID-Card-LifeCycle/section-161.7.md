@@ -1,7 +1,5 @@
 ##### § 161.7 ID card life-cycle procedures. #####
 
-Link to an amendment published at 89 FR 11179, Feb. 14, 2024.Link to an amendment published at 89 FR 11180, Feb. 14, 2024.
-
 (a) *Sponsorship and eligibility.* In accordance with this part, sponsorship shall incorporate the processes for confirming eligibility for an ID card. The sponsor is the person affiliated with the DoD or other Federal agency who takes responsibility for verifying and authorizing the applicant's need for an ID card. Applicants for a CAC shall be sponsored by a DoD Government official or employee.
 
 (1) The population categories and specific ID cards for which applicants are eligible are listed in Appendix 1 of this section. The majority of these populations are eligible to be sponsored for an ID card based on either their employment status with the DoD or their authorization to receive DoD benefits and entitlements. Examples of these population categories include, but are not limited to: Uniformed services personnel; DoD civilian employees; military retirees; certain DoD beneficiaries; and the eligible dependents for these categories.
@@ -25,9 +23,9 @@ Link to an amendment published at 89 FR 11179, Feb. 14, 2024.Link to an amendmen
 (2) The population categories that are not registered via an authorized data source feed will be registered in DEERS via the RAPIDS using the DD Form 1172-2 or via the TASS (formerly known as CVS, as described in § 161.8 of this subpart.
 
 (c) *Background Investigation.* In accordance with this subpart and DoDI 5200.46, “DoD Investigative and Adjudicative Guidance for Issuing the Common Access Card (CAC)” (available at: *http://www.dtic.mil/whs/ directives/corres/pdf/ 520046p.pdf*), a background investigation is required for those individuals eligible for a CAC. A background investigation is not currently required for those eligible for other forms of DoD ID cards. The use of the CAC, as the DoD Federal personal identity verification (PIV) card, is governed and supported by additional policies when compared to non-CAC ID cards.
-Sponsored CAC applicants shall not be issued a CAC without the required background investigation stipulated in DoDI 5200.46 and FIPS Publication 201-2.
+Sponsored CAC applicants shall not be issued a CAC without the required background investigation stipulated in DoDI 5200.46 and FIPS Publication 201-3.
 
-(1) A background investigation shall be initiated by the sponsoring organization before a CAC can be issued. The mechanisms required to verify completion of background investigation activities for DoD, military, and civilian CAC populations are managed within the DoD human resources and personnel security communities and are linked to the CAC issuance process. An automated means is not currently in place to confirm the vetting for populations other than DoD military and civilian personnel such as CAC-eligible contractors and non-DoD Federal civilian affiliates. When data is not available within the CAC issuance infrastructure on the background investigation status for an applicant, the sponsor shall be responsible for confirming that the required background investigation procedures comply with the DoD Instruction 5200.46 and FIPS Publication 201-2 before a CAC is authorized for issuance.
+(1) A background investigation shall be initiated by the sponsoring organization before a CAC can be issued. The mechanisms required to verify completion of background investigation activities for DoD, military, and civilian CAC populations are managed within the DoD human resources and personnel security communities and are linked to the CAC issuance process. An automated means is not currently in place to confirm the vetting for populations other than DoD military and civilian personnel such as CAC-eligible contractors and non-DoD Federal civilian affiliates. When data is not available within the CAC issuance infrastructure on the background investigation status for an applicant, the sponsor shall be responsible for confirming that the required background investigation procedures comply with the DoD Instruction 5200.46 and FIPS Publication 201-3 before a CAC is authorized for issuance.
 
 (2) Issuance of a CAC requires, at a minimum, the completion of the Federal Bureau of Investigation (FBI) fingerprint check with favorable results and successful submission of a NACI (or investigation approved in Federal Investigative Standards) to the Office of Personnel Management (OPM). Completed background investigations for CAC issuance shall be adjudicated in accordance with DoD Instruction 5200.46 and Office of Personnel Management Memorandum, “Final Credentialing Standards for Issuing Personal Identity Verification Cards under HSPD-12” (available at *http://www.opm.gov/investigate/resources/final\_credentialing\_standards.pdf*).
 
@@ -39,11 +37,11 @@ Sponsored CAC applicants shall not be issued a CAC without the required backgrou
 
 (d) *Identity and eligibility verification.* In accordance with this part, identity and eligibility verification shall be completed at a RAPIDS workstation. VOs shall inspect identity and eligibility documentation and RAPIDS shall authenticate individuals to ensure that ID cards are provided only to those sponsored and who have a current affiliation with the DoD. RAPIDS shall also capture uniquely identifying characteristics that bind an individual to the information maintained in DEERS and to the ID card issued by RAPIDS. These characteristics may include, but are not limited to, digital photographs and fingerprints.
 
-(1) *Identity documents.* Applicants for initial ID card issuance shall submit two identity documents in original form as proof of identity. A VO at a RAPIDS workstation shall inspect and verify the documents presented by the applicant before ID card issuance. The identity documents must come from the list of acceptable primary and secondary documents included in the FIPS Publication 201-2 PIV Identity Proofing and Registration Requirements, or, for non-U.S. persons, other sources as outlined within paragraph (d)(1)(ii) of this section. Copies of the identity documentation may be accepted so long as they are certified documents. In accordance with FIPS Publication 201-2 PIV Identity Proofing and Registration Requirements, the identity documents shall be neither expired nor cancelled. The primary identity document shall be a State or Federal Government-issued picture ID. The identity documents shall be inspected for authenticity and scanned and stored in the DEERS in accordance with the DMDC, “Real-time Automated Personnel Identification System (RAPIDS) User Guide” upon issuance of an ID card. The requirement for the primary identity document to have a photo cannot be waived for initial ID card issuance, consistent with applicable statutory requirements. Identity documentation requirements for renewal or re-issuance are provided in paragraph (e)(3) of this section. When it has been determined that a CAC applicant has purposely misrepresented or not provided the applicant's true identity, the case shall be referred by the relevant RAPIDS Service Project office (SPO) to the sponsoring DoD or other Uniformed Service Component organization. The DoD or other Uniformed Service Component organization concerned shall initiate an investigation or provide appeals procedures as appropriate. Exceptions to the identity documentation requirements for initial ID card issuance are provided in paragraphs (d)(1)(i) and (ii) of this section:
+(1) *Identity documents.* Applicants for initial ID card issuance shall submit two identity documents in original form as proof of identity. A VO at a RAPIDS workstation shall inspect and verify the documents presented by the applicant before ID card issuance. The identity documents must come from the list of acceptable primary and secondary documents included in the FIPS Publication 201-3 PIV Identity Proofing and Registration Requirements, or, for non-U.S. persons, other sources as outlined within paragraph (d)(1)(ii) of this section. Copies of the identity documentation may be accepted so long as they are certified documents. In accordance with FIPS Publication 201-3 PIV Identity Proofing and Registration Requirements, the identity documents shall be neither expired nor cancelled. The primary identity document shall be a State or Federal Government-issued picture ID. The identity documents shall be inspected for authenticity and scanned and stored in the DEERS in accordance with the DMDC, “Real-time Automated Personnel Identification System (RAPIDS) User Guide” upon issuance of an ID card. The requirement for the primary identity document to have a photo cannot be waived for initial ID card issuance, consistent with applicable statutory requirements. Identity documentation requirements for renewal or re-issuance are provided in paragraph (e)(3) of this section. When it has been determined that a CAC applicant has purposely misrepresented or not provided the applicant's true identity, the case shall be referred by the relevant RAPIDS Service Project office (SPO) to the sponsoring DoD or other Uniformed Service Component organization. The DoD or other Uniformed Service Component organization concerned shall initiate an investigation or provide appeals procedures as appropriate. Exceptions to the identity documentation requirements for initial ID card issuance are provided in paragraphs (d)(1)(i) and (ii) of this section:
 
 (i) *Children.* Children under the age of 18 applying for a dependent ID card are only required to provide documentation for the initial verification of eligibility or proof of relationship to the sponsor described in paragraph (d)(2) of this section.
 
-(ii) *Documentation for non-U.S. persons.* At foreign locations, eligible non-U.S. persons may not possess identity documentation from the FIPS Publication 201-2 PIV Identity Proofing and Registration Requirements required for ID card issuance. These individuals shall still provide personal ID as required by the intent of this paragraph (d)(1). Non-U.S. persons within the continental United States (CONUS) shall present a valid (unexpired) foreign passport as the primary form of identity source documentation. DoD organizations based outside the CONUS should work with the local consular affairs office to determine guidelines for the appropriate identity documentation for eligible non-U.S. persons in accordance with agreements with host nations. It is recommended that a foreign passport be used as the primary form of identity source documentation for these individuals. The requirement for the primary identity document to have a photo cannot be waived. Additional documentation used to verify identity must be original or certified true copies. All documentation not in English must have a certified English translation.
+(ii) *Documentation for non-U.S. persons.* At foreign locations, eligible non-U.S. persons may not possess identity documentation from the FIPS Publication 201-3 PIV Identity Proofing and Registration Requirements required for ID card issuance. These individuals shall still provide personal ID as required by the intent of this paragraph (d)(1). Non-U.S. persons within the United States and U.S. territories and possessions shall present a valid (unexpired) foreign passport as the primary form of identity source documentation. DoD organizations based outside the United States and U.S. territories and possessions should work with the local consular affairs office to determine guidelines for the appropriate identity documentation for eligible non-U.S. persons in accordance with agreements with host nations. It is recommended that a foreign passport be used as the primary form of identity source documentation for these individuals. The requirement for the primary identity document to have a photo cannot be waived. A foreign government issued ID with photograph may be used as a secondary document for ID card issuance. Additional documentation used to verify identity must be original or certified true copies. All documentation not in English must have a certified English translation.
 
 (2) *Eligibility documents.* ID card applicants may be required to provide documentation as initial verification of eligibility for benefits or proof of relationship to the sponsor. The eligibility documents shall be inspected for authenticity by the VO and scanned and stored in DEERS in accordance with the procedures in DMDC, “Real-time Automated Personnel Identification System (RAPIDS) User Guide.” Specifications and the types of documents and how they are utilized to verify eligibility for a member or dependent based on their status (e.g., Retired, Reservist, spouse, former spouse, child) shall be established by the uniformed services subject to the guidelines in this subpart. All documentation used to verify eligibility must be original or certified true copies. All documentation not in English must have a certified English translation. Eligibility documentation is not required when DEERS can verify eligibility via an authoritative source or process.
 
@@ -87,11 +85,11 @@ Sponsored CAC applicants shall not be issued a CAC without the required backgrou
 
 (ii) *Non-CAC ID cards.* (A) DD Form 1173, “United States Uniformed Services ID and Privilege Card” issued to dependents of DoD civilian employees, contractors, and other eligible personnel assigned overseas or deploying in support of contingency operations shall have an expiration date coinciding with their deployment period end date.
 
-(B) An indefinite DD Form 1173 will be issued to a dependent of retired Service members who are either 75 years of age or permanently incapacitated in accordance with 10 U.S.C. 1060b.
+(B) An indefinite DD Form 1173 will be issued to the dependents of retired Service members who are either 65 years of age or permanently incapacitated in accordance with 10 U.S.C. 1060b.
 
 (C) All other non-CAC ID cards shall be given expiration dates in accordance with the guidance listed on *www.cac.mil*.
 
-(3) *Renewal and reissuance.* Consistent with applicable law, the applicant for ID renewal or reissuance shall be required to surrender the current DoD ID card that is up for renewal or reissuance except as indicated for lost and stolen ID cards in paragraph (e)(3)(iii) of this section. To authenticate renewal or reissuance applicants, the VO shall visually compare the applicant against the facial image stored in DEERS. For applicants who have fingerprint biometrics stored in DEERS, live fingerprint biometrics samples shall be checked against the applicant's DEERS record. If the biometric check confirms the identity of the renewal or reissuance applicant then no additional documentation is required to verify identity other than the ID card that is being renewed or reissued (documentation may still be required to verify or re-verify eligibility as described in paragraph (d)(2) of this section). As a general practice for renewal or re-issuance, two fresh fingerprint biometric captures may be stored for applicable personnel through the initial procedures in paragraph (d)(4)(ii) of this section to support DMDC's biometric update schedule.
+(3) *Renewal and reissuance.* Consistent with applicable law, the applicant for ID renewal or reissuance shall be required to surrender the current DoD ID card that is up for renewal or reissuance except as indicated for lost and stolen ID cards in paragraph (e)(3)(iii) of this section. An expired DoD ID card is an acceptable secondary form of ID for non-CAC ID card renewal or reissuance if identity document verification is required. To authenticate renewal or reissuance applicants, the VO shall visually compare the applicant against the facial image stored in DEERS. For applicants who have fingerprint biometrics stored in DEERS, live fingerprint biometrics samples shall be checked against the applicant's DEERS record. If the biometric check confirms the identity of the renewal or reissuance applicant then no additional documentation is required to verify identity other than the ID card that is being renewed or reissued (documentation may still be required to verify or re-verify eligibility as described in paragraph (d)(2) of this section). As a general practice for renewal or re-issuance, two fresh fingerprint biometric captures may be stored for applicable personnel through the initial procedures in paragraph (d)(4)(ii) of this section to support DMDC's biometric update schedule. If biometric information cannot be verified, the requirements for initial issuance shall apply or a temporary card may be issued in accordance with paragraph (e)(4) of this subpart.
 
 (i) An ID card holder may apply for a renewal starting 90 days prior to the expiration of a valid ID. The SPO can provide exceptions to this requirement.
 
@@ -125,7 +123,7 @@ Sponsored CAC applicants shall not be issued a CAC without the required backgrou
 
 (1) CACs shall be retrieved as part of the normal organizational or command-level check-out processes. The active status of the CAC shall also be terminated in special circumstances (e.g., absent without leave, unauthorized absence, missing in action) in accordance with organization or command-level security policies.
 
-(2) The DoD sponsor or sponsoring organization is ultimately responsible for retrieving CACs from their personnel who are no longer supporting their organization or activity. CAC retrieval will be documented and treated as personally identifiable information, in accordance with DoD Regulation 5200.1-R, and 32 CFR part 310 and receipted to a RAPIDS site for disposition in a timely manner.
+(2) The DoD sponsor or sponsoring organization is ultimately responsible for retrieving CACs from their personnel who are no longer supporting their organization or activity with the exception of transferring DoD civilian employees. Civilian employees transferring from one DoD Component to another as civilian employees (*e.g.,* Army civilian to Air Force civilian) will be permitted to retain their CAC during their transition for up to 30 days in accordance with the DoD CIO and USD(P&R) joint memorandum, “Common Access Card Retention for Department of Defense Civilian Employees when Transferring Between Department of Defense Components.” CAC retrieval will be documented and treated as personally identifiable information, in accordance with DoD Regulation 5200.1-R, and 32 CFR part 310 and receipted to a RAPIDS site for disposition in a timely manner.
 
 (3) Upon loss, destruction, or revocation of the CAC, the certificates thereon are revoked and placed on the certificate revocation list in accordance with Assistant Secretary of Defense for Networks and Information Integration Certificate Policy, “X.509 Certificate Policy for the United States Department of Defense” (available at *http://jitc.fhu.disa.mil/pki/documents/dod\_x509\_certificate\_policy\_v9\_0\_9\_february\_2005.pdf*). All other situations that pertain to the disposition of the certificates are handled in accordance with Assistant Secretary of Defense for Networks and Information Integration Certificate Policy, “X.509 Certificate Policy for the United States Department of Defense” as implemented.
 
@@ -169,7 +167,7 @@ Appendix 1 to § 161.7—ID Card Descriptions and Population Eligibility Categor
 
 (*2*) IPA employees.
 
-(*3*) Non-DoD Federal employees that are working in support of DoD but do not possess a Federal PIV card that is accepted by the sponsoring DoD Component. DoD Components shall obtain DHRA approval prior to sponsorship.
+(*3*) Non-DoD Government Agency Civilian Personnel that are working in support of DoD but do not possess a Federal PIV card that is accepted by the sponsoring DoD Component.
 
 (B) DoD contractors.
 
@@ -187,21 +185,19 @@ Appendix 1 to § 161.7—ID Card Descriptions and Population Eligibility Categor
 
 (2) *Eligibility.* Specific population categories are entitled to benefits and privileges, in accordance with subpart C of this part, and shall be eligible for this CAC, to include:
 
-(i) DoD and uniformed services civilian employees (both appropriated and non-appropriated) when required to reside in a household on a military installation within the CONUS, Hawaii, Alaska, Puerto Rico, and Guam.
+(i) DoD and uniformed services civilian employees when stationed or employed and residing in foreign countries for a period of at least 365 days.
 
-(ii) DoD and uniformed services civilian employees when stationed or employed and residing in foreign countries for a period of at least 365 days.
+(ii) DoD contractors when stationed or employed and residing in foreign countries for a period of at least 365 days.
 
-(iii) DoD contractors when stationed or employed and residing in foreign countries for a period of at least 365 days.
+(iii) DoD Presidential appointees who have been appointed with the advice and consent of the Senate.
 
-(iv) DoD Presidential appointees who have been appointed with the advice and consent of the Senate.
+(iv) Civilian employees of the Army and Air Force Exchange System, Navy Exchange System, and Marine Corps Exchange System and NAF activity employees of the Coast Guard Exchange Service.
 
-(v) Civilian employees of the Army and Air Force Exchange System, Navy Exchange System, and Marine Corps Exchange System and NAF activity employees of the Coast Guard Exchange Service.
+(v) Uniformed and non-uniformed full-time paid personnel of the Red Cross assigned to duty with the uniformed services within the United States and U.S. territories and possessions, when required to reside in a household on a military installation.
 
-(vi) Uniformed and non-uniformed full-time paid personnel of the Red Cross assigned to duty with the uniformed services within the CONUS, Hawaii, Alaska, Puerto Rico, and Guam, when required to reside in a household on a military installation.
+(vi) Uniformed and non-uniformed, full-time, paid personnel of the Red Cross assigned to duty with the uniformed services in foreign countries.
 
-(vii) Uniformed and non-uniformed, full-time, paid personnel of the Red Cross assigned to duty with the uniformed services in foreign countries.
-
-(viii) Foreign military who meet the eligibility requirement of paragraph (a)(2) of § 161.7 and are in one of the categories in paragraphs (d)(2)(viii)(A) through (C) of this appendix. Those foreign military not meeting the eligibility requirements for CAC as described in paragraph (a)(2) of § 161.7 shall be issued a DD Form 2765 as described in paragraph (l) of this appendix.
+(vii) Foreign military who meet the eligibility requirement of paragraph (a)(2) of § 161.7 and are in one of the categories in paragraphs (d)(2)(viii)(A) through (C) of this appendix. Those foreign military not meeting the eligibility requirements for CAC as described in paragraph (a)(2) of § 161.7 shall be issued a DD Form 2765 as described in paragraph (l) of this appendix.
 
 (A) Active duty officers and enlisted personnel of North Atlantic Treaty Organization (NATO) and Partnership For Peace (PFP) countries serving in the United States under the sponsorship or invitation of the DoD or a Military Department.
 
@@ -273,25 +269,25 @@ Appendix 1 to § 161.7—ID Card Descriptions and Population Eligibility Categor
 
 (ii) Former members.
 
-(iii) Members eligible for transitional health care (THC). These individuals shall be eligible for DD Form 2765 (with a “TA” overstamp) showing expiration date for each benefit, as shown on the reverse of the card.
+(iii) Members eligible for transitional health care (THC). These individuals shall be eligible for DD Form 2765 showing expiration date for each benefit, as shown on the reverse of the card.
 
 (iv) MOH recipients.
 
 (v) DAV (rated 100 percent disabled by the Department of Veterans Affairs).
 
-(vi) Former spouse (that qualify as a DoD beneficiary).
+(vi) DoD beneficiaries (eligible former spouses, widows, widowers, and abused dependents)
 
 (vii) Civilian personnel in the categories listed in paragraphs (l)(2)(vii)(A) through (D) of this appendix:
 
 (A) Other U.S. Government agency civilian employees when stationed or employed and residing in foreign countries for a period of at least 365 days.
 
-(B) Area executives, center directors, and assistant directors of the United Service Organization, when serving in foreign countries.
+(B) Full-time paid personnel of the United Service Organization, when serving in foreign countries.
 
 (C) United Seaman's Service (USS) personnel in foreign countries.
 
 (D) Military Sealift Command (MSC) civil service marine personnel deployed to foreign countries on MSC-owned and -operated vessels.
 
-(m) *DoD Civilian Retiree Card*—(1) *Description.* This ID shall only be used to establish DoD civilian retiree identity and affiliation with the DoD.
+(m) *DoD Civilian Retiree Card*—(1) *Description.* This ID shall only be used to establish DoD civilian retiree identity and previous affiliation with the DoD.
 
 (2) *Eligibility.* Appropriated and NAF civilians that have retired from any DoD Service component or agency are eligible for the DoD Civilian Retiree Card. These civilians must have their retired status verified in DEERS before an ID card can be issued.
 
@@ -303,13 +299,11 @@ Appendix 2 to § 161.7—Topology Specifications
 
 (a) *Topology.* Graphical representations of all CACs are maintained at *www.cac.mil.*
 
-(b) *CAC stripe color coding.* The CAC shall be color-coded as indicated in the Table to reflect the status of the holder of the card.
+(b) *CAC stripe color coding.* The CAC shall be color-coded as indicated in the Table to reflect the status of the holder of the card. If a person meets more than one condition as shown in the Table, priority will be given to the blue stripe to denote a non-U.S. citizen unless the card serves as a Geneva Conventions card.
 
 (1) If a person meets more than one condition as shown in the Table, priority will be given to the blue stripe to denote a non-U.S. citizen unless the card serves as a Geneva Conventions card.
 
-(2) FIPS Publication 201-2 reserves the color red to distinguish emergency first responder officials. Until the DoD implementation of Homeland Security Presidential Directive 12 is complete, the color red will also be used to denote non-U.S. personnel in the same manner as the blue stripe in the Table (i.e., some cards with red stripes may continue to exist in circulation until the 3-year life cycle is complete).
-
-Table—CAC Stripe Color Coding
+(2) FIPS Publication 201-3 reserves the color red to distinguish emergency first responder officials. Until the DoD implementation of Homeland Security Presidential Directive 12 is complete, the color red will also be used to denote non-U.S. personnel in the same manner as the blue stripe in the Table (i.e., some cards with red stripes may continue to exist in circulation until the 3-year life cycle is complete).
 
 |No stripe|          U.S. military and DoD civilian personnel or any personnel eligible for a Geneva Conventions card          |
 |---------|--------------------------------------------------------------------------------------------------------------------|
@@ -318,7 +312,7 @@ Table—CAC Stripe Color Coding
 
 (c) *CAC printed statements*—(1) Eligible individuals who are permanently assigned in foreign countries for at least 365 days (it should be noted that local nationals are in their home country, not a foreign country) will have the word “OVERSEAS” printed within the authorized patronage area of the CAC.
 
-(2) The authorized patronage area for eligible individuals permanently assigned within CONUS will be blank. Travel orders authorize access for these individuals while en route to the deployment site.
+(2) The authorized patronage area for eligible individuals permanently assigned within the United States and U.S. territories and possessions will be blank. Travel orders authorize access for these individuals while en route to the deployment site.
 
 (3) During a conflict, combat, or contingency operation, civilian employees with a U.S. DoD or Uniformed Services Geneva Conventions ID Card for Civilians Accompanying the Uniformed Services will be granted all commissary; exchange; MWR; and medical privileges available at the site of the deployment, regardless of the statements on the ID card. Contractor employees possessing this ID card shall receive the benefit of those commissary, exchange, MWR, and medical privileges that are accorded to such persons by international agreements in force between the United States and the host country concerned and their letter of authorization.
 
@@ -328,4 +322,4 @@ Table—CAC Stripe Color Coding
 
 (e) *Organ donor indicators.* An organ donor indicator is an optional data element on the ID card and will only appear if the card applicant opts for this feature at the time of card issuance.
 
-[79 FR 709, Jan. 6, 2014, as amended at 81 FR 74878, Oct. 27, 2016]
+[79 FR 709, Jan. 6, 2014, as amended at 81 FR 74878, Oct. 27, 2016; 89 FR 11179-11180, Feb. 14, 2024]

@@ -1,5 +1,7 @@
 ##### § 234.3 Standards for payment systems. #####
 
+Link to an amendment published at 89 FR 18766, Mar. 15, 2024.
+
 (a) A designated financial market utility must implement rules, procedures, or operations designed to ensure that it meets or exceeds the following risk-management standards with respect to its payment, clearing, and settlement activities.
 
 (1) *Legal basis.* The designated financial market utility has a well-founded, clear, transparent, and enforceable legal basis for each material aspect of its activities in all relevant jurisdictions.

@@ -1,7 +1,17 @@
-##### § 1321.15 Duration, format and effective date of the State plan. #####
+##### § 1321.15 Interstate planning and service area. #####
 
-(a) A State may use its own judgment as to the format to use for the plan, how to collect information for the plan, and whether the plan will remain in effect for two, three or four years.
+(a) An interstate planning and service area is an agreement between the State agencies that have responsibility for administering the programs within the interstate area, in which the agreement increases the allotment of the State agency or agencies with lead responsibility and decreases the allotment of the State agency or agencies without the lead responsibility. The Governor of any State in which a planning and service area crosses State boundaries, or in which an interstate Indian reservation is located, may apply to the Assistant Secretary for Aging to request redesignation as an interstate planning and service area comprising the entire metropolitan area or Indian reservation. If the Assistant Secretary for Aging approves such an application, the Assistant Secretary for Aging shall adjust the State agency allotments of the areas within the planning and service area in which the interstate planning and service area is established to reflect the number of older individuals within the area who will be served by an interstate planning and service area not within the State.
 
-(b) An approved State plan or amendment, as indentified in § 1321.17, becomes effective on the date designated by the Commissioner.
+(b) Before requesting permission of the Assistant Secretary for Aging to designate an interstate planning and service area, the Governor of each State shall execute a written agreement that specifies the State agency proposed to have lead responsibility for administering the programs within the interstate planning and service area and lists the conditions, agreed upon by each State agency, governing the administration of the interstate planning and service area.
 
-(c) A State agency may not make expenditures under a new plan or amendment requiring approval, as identified in § 1321.17 and § 1321.19, until it is approved.
+(c) The lead State agency shall request permission of the Assistant Secretary for Aging to designate an interstate planning and service area by submitting the request, together with a copy of the agreement as part of its State plan or as an amendment to its State plan.
+
+(d) Prior to the Assistant Secretary for Aging's approval for State agencies to designate an interstate planning and service area, the Assistant Secretary for Aging shall determine that all applicable requirements and procedures in §§ 1321.27 and 1321.29 are met.
+
+(e) If the request is approved, the Assistant Secretary for Aging, based on the agreement between the State agencies, will increase the allocation(s) of the State agency or agencies with lead responsibility for administering the programs within the interstate area and will reduce the allocation(s) of the State agency or agencies without lead responsibility by one of these methods:
+
+(1) Reallocation of funds in proportion to the number of individuals age 60 and over for funding provided under Title III, parts B, C, and D and in proportion to the number of individuals age 70 and over for funding provided under Title III, part E for that portion of the interstate planning and service area located in the State without lead responsibility; or
+
+(2) Reallocation of funds based on the intrastate funding formula of the State agency or agencies without lead responsibility.
+
+(f) Each State agency that is a party to an interstate planning and service area agreement shall review and confirm their agreement as a part of their State plan on aging as set forth in § 1321.27.

@@ -1,7 +1,5 @@
 ##### § 161.3 Definitions. #####
 
-Link to an amendment published at 89 FR 11179, Feb. 14, 2024.
-
 Unless otherwise noted, these terms and their definitions are for the purpose of this part.
 
 *20/20/20, 20/20/15, or 10/20/10.* See definition of “former spouse.”
@@ -116,11 +114,7 @@ Unless otherwise noted, these terms and their definitions are for the purpose of
 
 *Financial dependency determination.* Service-level process used to determine whether the financial dependency of a dependent on a sponsor meets the requirement for benefits eligibility.
 
-*Foreign affiliate.* A foreign national, including foreign civilian, foreign contractor, or foreign uniformed services personnel, who is sponsored by their government in accordance with DoD Directive 5230.20, “Visits and Assignments of Foreign Nationals” (available at *http://www.dtic.mil/whs/directives/corres/pdf/523020p.pdf*) through an official visit, assignment, temporary duty, school, training, policy board, or other defined agreement to work or reside on a DoD facility, or require access to DoD networks on-site or remotely.
-
-*Foreign affiliate.* A foreign national, including foreign civilian, foreign contractor, or foreign uniformed services personnel, who is sponsored by their government in accordance with DoD Directive 5230.20, “Visits and Assignments of Foreign Nationals” (available at *http://www.dtic.mil/whs/directives/corres/pdf/523020p.pdf*) through an official visit, assignment, temporary duty, school, training, policy board, or other defined agreement to work or reside on a DoD facility, or require access to DoD networks on-site or remotely.
-
-*Foreign national civilians and contractors.* A category of personnel that are CAC-eligible if sponsored by their government as part of an official visit or assigned to work on a DoD facility and/or require access to DoD networks both on site or remotely (remote access must be on an exception only basis for this category).
+*Foreign affiliate.* A foreign national, including foreign civilian, foreign contractor, or foreign uniformed services personnel, who is sponsored by their government in accordance with DoD Directive 5230.20, “Visits and Assignments of Foreign Nationals” (available at *http://www.dtic.mil/whs/directives/corres/pdf/523020p.pdf*) through an assignment, temporary duty, school, training, policy board, or other defined agreement to work or reside on a DoD facility, or require access to DoD networks on-site or remotely.
 
 *Former member.* An individual who is eligible to receive retired pay, at age 60, for non-regular service pursuant to 10 U.S.C. chapter 1223 but who has been discharged and who maintains no military affiliation. These former members, at age 60, and their eligible dependents are entitled to medical care, commissary, exchange, and MWR privileges. Under age 60, they and their eligible dependents are entitled to commissary, exchange, and MWR privileges only.
 
@@ -270,4 +264,4 @@ Unless otherwise noted, these terms and their definitions are for the purpose of
 
 *Widower.* The male spouse of a deceased member of the uniformed Services.
 
-[79 FR 709, Jan. 6, 2014, as amended at 81 FR 74875, Oct. 27, 2016]
+[79 FR 709, Jan. 6, 2014, as amended at 81 FR 74875, Oct. 27, 2016; 89 FR 11179, Feb. 14, 2024]

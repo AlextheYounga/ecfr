@@ -1,5 +1,7 @@
 ##### § 535.9 Enforcement approach. #####
 
+Link to an amendment published at 89 FR 18831, Mar. 15, 2024.
+
 (a) *Compliance.* (1) Each year NHTSA will assess compliance with fuel consumption standards as specified in § 535.10.
 
 (i) NHTSA may conduct audits or verification testing prior to first sale throughout a given model year or after the model year in order to validate data received from manufacturers and will discuss any potential issues with EPA and the manufacturer. Audits may periodically be performed to confirm manufacturers credit balances or other credit transactions.

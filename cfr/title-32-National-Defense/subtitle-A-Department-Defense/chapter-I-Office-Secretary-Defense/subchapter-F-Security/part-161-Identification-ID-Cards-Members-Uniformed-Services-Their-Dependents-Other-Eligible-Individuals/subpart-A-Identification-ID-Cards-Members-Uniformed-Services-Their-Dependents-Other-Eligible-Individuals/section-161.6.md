@@ -1,14 +1,12 @@
 ##### § 161.6 Procedures. #####
 
-Link to an amendment published at 89 FR 11179, Feb. 14, 2024.
-
-(a) The DoD ID card life cycle shall be supported by an infrastructure that is predicated on a systems-based model for credentialing as described in FIPS Publication 201-2. Paragraphs (a)(1) through (7) of this section represent the baseline requirements for the life cycle of all DoD ID cards. The specific procedures and sequence of order for these items will vary based on the applicant's employment status or affiliation with the DoD and the type of ID card issued. Detailed procedures of the ID card life cycle for each category of applicant and type of ID card shall be provided by the responsible agency.
+(a) The DoD ID card life cycle shall be supported by an infrastructure that is predicated on a systems-based model for credentialing as described in FIPS Publication 201-3. Paragraphs (a)(1) through (7) of this section represent the baseline requirements for the life cycle of all DoD ID cards. The specific procedures and sequence of order for these items will vary based on the applicant's employment status or affiliation with the DoD and the type of ID card issued. Detailed procedures of the ID card life cycle for each category of applicant and type of ID card shall be provided by the responsible agency.
 
 (1) *Sponsorship and eligibility.* Sponsorship shall incorporate the processes for confirming eligibility for an ID card. The sponsor is the person affiliated with the DoD or other Federal agency who takes responsibility for verifying and authorizing the applicant's need for an ID card. Applicants for a CAC must be sponsored by a DoD government official or employee.
 
 (2) *Registration and enrollment.* Sponsorship and enrollment information on the ID card applicant shall be registered in DEERS prior to card issuance.
 
-(3) *Background investigation.* Background investigation is required for those individuals eligible for a CAC. A background investigation is not currently required for those eligible for other forms of DoD ID cards. Sponsored CAC applicants shall not be issued a CAC without a favorably adjudicated background investigation stipulated in FIPS Publication 201-2. Applicants that have been denied a CAC based on an unfavorable adjudication of the background investigation may submit an appeal in accordance with FIPS Publication 201-2 and Office of Personnel Management Memorandum, “Final Credentialing Standards for Issuing Personal Identity Verification Cards under HSPD-12.”
+(3) *Background investigation.* Background investigation is required for those individuals eligible for a CAC. A background investigation is not currently required for those eligible for other forms of DoD ID cards. Sponsored CAC applicants shall not be issued a CAC without a favorably adjudicated background investigation stipulated in FIPS Publication 201-3. Applicants that have been denied a CAC based on an unfavorable adjudication of the background investigation may submit an appeal in accordance with FIPS Publication 201-3 and Office of Personnel Management Memorandum, “Final Credentialing Standards for Issuing Personal Identity Verification Cards under HSPD-12.”
 
 (4) *Identity and eligibility verification.* Identity and eligibility verification shall be completed at a RAPIDS workstation. Verifying officials (VOs) shall inspect identity and eligibility documentation and RAPIDS shall authenticate individuals to ensure that ID cards are provided only to those sponsored and with a current affiliation with the DoD. RAPIDS shall also capture uniquely identifying characteristics that bind an individual to the information maintained on that individual in DEERS and to the ID card issued by RAPIDS. These characteristics may include, but are not limited to, digital photographs and fingerprints.
 
@@ -36,7 +34,7 @@ Link to an amendment published at 89 FR 11179, Feb. 14, 2024.
 
 (8) An ID card shall be in the personal custody of the individual to whom it was issued at all times. If required by military authority, it shall be surrendered for ID or investigation.
 
-(c) *CAC migration to Federal PIV requirements.* The DoD is migrating the CAC to meet the Federal requirements for credentialing contained within Homeland Security Presidential Directive 12 and FIPS Publication 201-2. Migration will take place over multiple years as the card issuance hardware, software, and supporting systems and processes are upgraded. Successful migration will require coordination and collaboration within and among all CAC communities (e.g., personnel security, operational security, industrial security, information security, physical security, and information technology). The organizations listed in this section will support the migration in conjunction with the responsibilities listed in § 161.5:
+(c) *CAC migration to Federal PIV requirements.* The DoD is migrating the CAC to meet the Federal requirements for credentialing contained within Homeland Security Presidential Directive 12 and FIPS Publication 201-3. Migration will take place over multiple years as the card issuance hardware, software, and supporting systems and processes are upgraded. Successful migration will require coordination and collaboration within and among all CAC communities (e.g., personnel security, operational security, industrial security, information security, physical security, and information technology). The organizations listed in this section will support the migration in conjunction with the responsibilities listed in § 161.5:
 
 (1) The Director, DMDC shall:
 
@@ -44,11 +42,11 @@ Link to an amendment published at 89 FR 11179, Feb. 14, 2024.
 
 (ii) In coordination with the Office of the Under Secretary of Defense for Policy, establish an electronic process for securing CAC eligibility information on foreign government military, employee, or contract support personnel whose visit status and background investigation has been confirmed, documented, and processed in accordance with DoD Directive 5230.20, “Visits and Assignments of Foreign Nationals” (available at *http://www.dtic.mil/whs/directives/corres/pdf/523020p.pdf*).
 
-(iii) In accordance with FIPS Publication 201-2, electronically capture and store source documents in the identity-proofing process at the accession points for eligible ID card holders.
+(iii) In accordance with FIPS Publication 201-3, electronically capture and store source documents in the identity-proofing process at the accession points for eligible ID card holders.
 
-(iv) Implement modifications to the CAC applets and interfaces, add contactless capability to the CAC platform and implement modifications to the CAC topology to support compliance with FIPS Publication 201-2.
+(iv) Implement modifications to the CAC applets and interfaces, add contactless capability to the CAC platform and implement modifications to the CAC topology to support compliance with FIPS Publication 201-3.
 
-(v) Establish and implement procedures for capturing biometrics required to support CAC issuance, which includes fingerprints and facial images specified in FIPS Publication 201-2 and National Institute of Standards and Technology Special Publication 800-76-1, “Biometric Data Specification for Personal Identity Verification” (available at *http://csrc.nist.gov/publications/nistpubs/800-76-1/SP800-76-1\_012407.pdf*).
+(v) Establish and implement procedures for capturing biometrics required to support CAC issuance, which includes fingerprints and facial images specified in FIPS Publication 201-3 and National Institute of Standards and Technology Special Publication 800-76-1, “Biometric Data Specification for Personal Identity Verification” (available at *http://csrc.nist.gov/publications/nistpubs/800-76-1/SP800-76-1\_012407.pdf*).
 
 (vi) In coordination with the Executive Manager for DoD Biometrics and the Office of the USD(AT&L), implement the capability to obtain two segmented images (primary and secondary) fingerprint minutiae from the full 10-print fingerprints captured as part of the initial background investigation process for CAC issuance.
 
@@ -64,6 +62,6 @@ Link to an amendment published at 89 FR 11179, Feb. 14, 2024.
 
 (i) Monitor the CAC and identity management related activities outlined within this Instruction in accordance with DoD Instruction 1000.25 (available at *http://www.dtic.mil/whs/directives/corres/pdf/100025p.pdf*).
 
-(ii) Maintain a configuration management process for the CAC and its related components to monitor DoD compliance with FIPS Publication 201-2.
+(ii) Maintain a configuration management process for the CAC and its related components to monitor DoD compliance with FIPS Publication 201-3.
 
-[79 FR 709, Jan. 6, 2014, as amended at 81 FR 74878, Oct. 27, 2016]
+[79 FR 709, Jan. 6, 2014, as amended at 81 FR 74878, Oct. 27, 2016; 89 FR 11179, Feb. 14, 2024]

@@ -1,5 +1,7 @@
 ##### § 535.10 How do manufacturers comply with fuel consumption standards? #####
 
+Link to an amendment published at 89 FR 18831, Mar. 15, 2024.
+
 (a) *Pre-certification process.* (1) Regulated manufacturers determine eligibility to use exemptions or exclusions in accordance with § 535.3.
 
 (2) Manufacturers may seek preliminary approvals as specified in 40 CFR 1036.210 and 40 CFR 1037.210 from EPA and NHTSA, if needed. Manufacturers may request to schedule pre-certification meetings with EPA and NHTSA prior to submitting approval requests for certificates of conformity to address any joint compliance issues and gain informal feedback from the agencies.

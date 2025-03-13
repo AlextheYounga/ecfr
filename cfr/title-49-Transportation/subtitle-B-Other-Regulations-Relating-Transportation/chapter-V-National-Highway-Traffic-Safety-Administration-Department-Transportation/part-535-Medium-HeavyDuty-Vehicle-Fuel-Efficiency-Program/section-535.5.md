@@ -1,5 +1,7 @@
 ##### § 535.5 Standards. #####
 
+Link to an amendment published at 89 FR 18825, Mar. 15, 2024.
+
 (a) *Heavy-duty pickup trucks and vans.* Each manufacturer's fleet of heavy-duty pickup trucks and vans shall comply with the fuel consumption standards in this paragraph (a) expressed in gallons per 100 miles. Each vehicle must be manufactured to comply for its full useful life. For the Phase 1 program, if the manufacturer's fleet includes conventional vehicles (gasoline, diesel and alternative fueled vehicles) and advanced technology vehicles (hybrids with powertrain designs that include energy storage systems, vehicles with waste heat recovery, electric vehicles and fuel cell vehicles), it may divide its fleet into two separate fleets each with its own separate fleet average fuel consumption standard which the manufacturer must comply with the requirements of this paragraph (a). For Phase 2, manufacturers may calculate their fleet average fuel consumption standard for a conventional fleet and multiple advanced technology vehicle fleets. Advanced technology vehicle fleets should be separated into plug-in hybrid electric vehicles, electric vehicles and fuel cell vehicles. NHTSA standards correspond to the same requirements for EPA as specified in 40 CFR 86.1819-14.
 
 (1) *Mandatory standards.* For model years 2016 and later, each manufacturer must comply with the fleet average standard derived from the unique subconfiguration target standards (or groups of subconfigurations approved by EPA in accordance with 40 CFR 86.1819) of the model types that make up the manufacturer's fleet in a given model year. Each subconfiguration has a unique attribute-based target standard, defined by each group of vehicles having the same payload, towing capacity and whether the vehicles are equipped with a 2-wheel or 4-wheel drive configuration. Phase 1 target standards apply for model years 2016 through 2020. Phase 2 target standards apply for model year 2021 and afterwards.
@@ -250,13 +252,13 @@ Table 10—Phase 2 Custom Chassis Fuel Consumption Standards
 
 (B) The vehicle must meet one of the following criteria:
 
-*(1)* Have an axle that has a gross axle weight rating (GAWR) at or above 29,000 pounds.
+(*1*) Have an axle that has a gross axle weight rating (GAWR) at or above 29,000 pounds.
 
-*(2)* Have a speed attainable in 2.0 miles of not more than 33 mi/hr.
+(*2*) Have a speed attainable in 2.0 miles of not more than 33 mi/hr.
 
-*(3)* Have a speed attainable in 2.0 miles of not more than 45 mi/hr, an unloaded vehicle weight that is not less than 95 percent of its gross vehicle weight rating, and no capacity to carry occupants other than the driver and operating crew.
+(*3*) Have a speed attainable in 2.0 miles of not more than 45 mi/hr, an unloaded vehicle weight that is not less than 95 percent of its gross vehicle weight rating, and no capacity to carry occupants other than the driver and operating crew.
 
-*(4)* Have a maximum speed at or below 54 mi/hr. A manufacturer may consider the vehicle to be appropriately speed-limited if engine speed at 54 mi/hr is at or above 95 percent of the engine's maximum test speed in the highest available gear. A manufacturer may alternatively limit vehicle speed by programming the engine or vehicle's electronic control module in a way that is tamper-resistant.
+(*4*) Have a maximum speed at or below 54 mi/hr. A manufacturer may consider the vehicle to be appropriately speed-limited if engine speed at 54 mi/hr is at or above 95 percent of the engine's maximum test speed in the highest available gear. A manufacturer may alternatively limit vehicle speed by programming the engine or vehicle's electronic control module in a way that is tamper-resistant.
 
 (ii) *Tractors.* The provisions of this section may apply for tractors only if each tractor qualifies as a vocational tractor under paragraph (c)(9) of this section or is granted approval for the exemption as specified in paragraph (b)(9)(iii) of this section.
 

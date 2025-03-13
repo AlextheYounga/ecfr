@@ -1,0 +1,7 @@
+##### § 1322.17 Purpose of services—person- and family-centered, trauma-informed. #####
+
+(a) Services must be provided to older Native Americans and family caregivers in a manner that is person-centered, trauma-informed, and culturally sensitive. Services should be consistent with culturally appropriate holistic traditional care and responsive to their interests, physical and mental health, social and cultural needs, available supports, and desire to live where and with whom they choose. Person-centered services may include community-centered and family-centered approaches consistent with the traditions, practices, beliefs, and cultural norms and expectations of the Tribal organization or Hawaiian Native grantee.
+
+(b) Services should, as appropriate, be consistent with culturally appropriate holistic traditional care and provide older Native Americans and family caregivers with the opportunity to develop a person-centered plan that is led by the individual or, if applicable, by the individual and the individual's authorized representative. Services should be incorporated into existing person-centered plans, as appropriate.
+
+(c) Tribal organizations and Hawaiian Native grantees should provide training to staff and volunteers on culturally appropriate holistic traditional care and person-centered and trauma-informed service provision.

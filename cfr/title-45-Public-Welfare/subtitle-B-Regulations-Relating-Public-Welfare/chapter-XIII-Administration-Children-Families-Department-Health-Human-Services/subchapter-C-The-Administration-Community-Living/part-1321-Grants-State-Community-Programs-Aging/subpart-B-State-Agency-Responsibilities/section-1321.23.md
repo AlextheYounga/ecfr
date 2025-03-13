@@ -1,5 +1,5 @@
-##### § 1321.23 Notification of State plan or State plan amendment approval. #####
+##### § 1321.23 Appeal to the Departmental Appeals Board on area agency on aging withdrawal of designation. #####
 
-(a) The Commissioner approves a State plan or State plan amendment by notifying the Governor or the Governor's designee in writing.
+(a) This section sets forth hearing procedures afforded to affected parties if the State agency initiates an action or proceeding to withdraw designation of an area agency on aging.
 
-(b) When the Commissioner proposes to disapprove a State plan or amendment, the Commissioner notifies the Governor in writing, giving the reasons for the proposed disapproval, and informs the State agency that it has 60 days to request a hearing on the proposed disapproval following the procedures specified in subpart E of this part.
+(b) Any area agency on aging that has appealed a State agency's decision to withdraw area agency on aging designation, and that has been provided a hearing and a written decision, may appeal the decision to the Departmental Appeals Board in writing following receipt of the State agency's written decision, in accordance with the procedures set forth in 45 CFR part 16. The applicant must, at the time of filing an appeal with the DAB, mail a copy of the appeal to the State agency and include a certificate of service with its initial filing. The DAB may refer an appeal to its Alternative Dispute Resolution Division for mediation prior to making a decision.

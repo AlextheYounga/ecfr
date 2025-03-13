@@ -1,9 +1,11 @@
-##### § 1321.29 Designation of planning and service areas. #####
+##### § 1321.29 Public participation. #####
 
-(a) Any unit of general purpose local government, region within a State recognized for area wide planning, metropolitan area, or Indian reservation may make application to the State agency to be designated as a planning and service area, in accordance with State agency procedures.
+The State agency shall:
 
-(b) A State agency shall approve or disapprove any application submitted under paragraph (a) of this section.
+(a) Have mechanisms and varied methods to obtain the views of older individuals, family caregivers, service providers, and the public on a periodic basis, with a focus on those in greatest economic need and greatest social need;
 
-(c) Any applicant under paragraph (a) of this section whose application for designation as a planning and service area is denied by a State agency may appeal the denial to the State agency, under procedures specified by the State agency.
+(b) Consider those views in developing and administering the State plan and policies and procedures regarding services provided under the plan;
 
-(d) If the State denies an applicant for designation as a planning and service area under paragraph (a) of this section, the State shall provide a hearing on the denial of the application, if requested by the applicant, as well as issue a written decision.
+(c) Establish and comply with a reasonable minimum time period (at least 30 calendar days) for public review and comment on new State plans as set forth in § 1321.27 and State plan amendments requiring approval of the Assistant Secretary for Aging as set forth in § 1321.31(a). State agencies may request a waiver of the minimum time period from the Assistant Secretary for Aging during an emergency or when a time sensitive action is otherwise necessary;
+
+(d) Ensure the documents noted in paragraph (c) of this section and final State plans and amendments are available to the public for review, as well as available in alternative formats and other languages if requested.

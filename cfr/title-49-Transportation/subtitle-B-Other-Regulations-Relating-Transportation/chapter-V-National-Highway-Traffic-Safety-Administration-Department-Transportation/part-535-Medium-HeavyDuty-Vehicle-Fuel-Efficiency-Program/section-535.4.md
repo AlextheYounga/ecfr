@@ -1,5 +1,7 @@
 ##### § 535.4 Definitions. #####
 
+Link to an amendment published at 89 FR 18819, Mar. 15, 2024.
+
 The terms manufacture and manufacturer are used as defined in section 501 of the Act and the terms commercial medium-duty and heavy-duty on highway vehicle, fuel and work truck are used as defined in 49 U.S.C. 32901. See 49 CFR 523.2 for general definitions related to NHTSA's fuel efficiency programs.
 
 *Act* means the Motor Vehicle Information and Cost Savings Act, as amended by Pub. L. 94-163 and 96-425.

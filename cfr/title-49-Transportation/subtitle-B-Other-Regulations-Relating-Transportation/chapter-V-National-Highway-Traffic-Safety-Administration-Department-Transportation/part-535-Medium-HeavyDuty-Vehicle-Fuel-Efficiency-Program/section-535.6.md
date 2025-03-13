@@ -1,5 +1,7 @@
 ##### § 535.6 Measurement and calculation procedures. #####
 
+Link to an amendment published at 89 FR 18828, Mar. 15, 2024.
+
 This part describes the measurement and calculation procedures manufacturers use to determine annual fuel consumption performance results. Manufacturers use the fuel consumption results determined in this part for calculating credit balances specified in § 535.7 and then determine whether they comply with standards as specified in § 535.10. Manufacturers must use EPA emissions test results for deriving NHTSA's fuel consumption performance rates. Consequently, manufacturers conducting testing for certification or annual demonstration testing and providing CO2 emissions data to EPA must also provide equivalent fuel consumption results to NHTSA for all values. NHTSA and EPA reserve the right to verify separately or in coordination the results of any testing and measurement established by manufacturers in complying with the provisions of this program and as specified in 40 CFR 1037.301 and § 535.9. Any carry over data from the Phase 1 program may be carried into the Phase 2 only with approval from EPA and by using good engineering judgment considering differences in testing protocols between test procedures.
 
 (a) *Heavy-duty pickup trucks and vans.* This section describes the method for determining the fuel consumption performance rates for test groups and for fleets of complete heavy-duty pickup trucks and vans each model year. The NHTSA heavy-duty pickup truck and van fuel consumption performance rates correspond to the same requirements for EPA as specified in 40 CFR 86.1819-14.
@@ -86,9 +88,9 @@ This part describes the measurement and calculation procedures manufacturers use
 
 (E) Additional GEM inputs may apply as follows:
 
-*(1)* Enter 1.7 and 0.9, respectively, for school buses and coach buses that have at least seven available forward gears.
+(*1*) Enter 1.7 and 0.9, respectively, for school buses and coach buses that have at least seven available forward gears.
 
-*(2)* If the agencies approve an off-cycle technology under § 535.7(f) and 40 CFR 1037.610 in the form of an improvement factor, enter the improvement factor expressed as a percentage reduction in CO2 emissions. (Note: In the case of approved off-cycle technologies whose benefit is quantified as a g/ton-mile credit, apply the credit to the GEM result, not as a GEM input value.)
+(*2*) If the agencies approve an off-cycle technology under § 535.7(f) and 40 CFR 1037.610 in the form of an improvement factor, enter the improvement factor expressed as a percentage reduction in CO2 emissions. (Note: In the case of approved off-cycle technologies whose benefit is quantified as a g/ton-mile credit, apply the credit to the GEM result, not as a GEM input value.)
 
 (vi) *Vehicles with hybrid power take-off (PTO).* For vocational vehicles, determine the delta PTO emission result of the manufacturer's engine and hybrid power take-off system as described in 40 CFR 1037.540.
 

@@ -1,19 +1,5 @@
-##### § 1321.41 Single State planning and service area. #####
+##### § 1321.41 When a disapproval decision is effective. #####
 
-(a) The Commissioner will approve the application of a State which was, on or before October 1, 1980, a single planning and service area, to continue as a single planning and service area if the State agency demonstrates that:
+(a) The Assistant Secretary for Aging shall specify the effective date for reduction and withholding of the State agency's grant upon a disapproval decision from the Departmental Appeals Board. This effective date may not be earlier than the date of the Departmental Appeals Board's decision or later than the first day of the next calendar quarter.
 
-(1) The State is not already divided for purposes of planning and administering human services; or
-
-(2) The State is so small or rural that the purposes of this part would be impeded if the State were divided into planning and services areas; and
-
-(3) The State agency has the capacity to carry out the responsibilities of an area agency, as specified in the Act.
-
-(b) Prior to the Commissioner's approval for a State to continue as a single planning and service area, all the requirements and procedures in § 1321.29 shall be met.
-
-(c) If the Commissioner approves a State's application under paragraph (a) this section:
-
-(1) The Commissioner notifies the State agency to develop a single State planning and service area plan which meets the requirements of section 306 and 307 of the Act.
-
-(2) A State agency shall meet all the State and area agency function requirements specified in the Act.
-
-(d) If the Commissioner denies the application because a State fails to meet the criteria or requirements set forth in paragraphs (a) or (b) of this section, the Commissioner notifies the State that it shall follow procedures in section 305(A)(1)(E) of the Act to divide the State into planning and service areas.
+(b) A disapproval decision issued by the DAB represents the final determination of the Assistant Secretary for Aging and shall remain in effect unless reversed or stayed on judicial appeal, or until the agency or the plan is changed to meet all Federal requirements, except that the Assistant Secretary for Aging may modify or set aside the decision before the record of the proceedings under this subpart is filed in court.

@@ -1,5 +1,7 @@
 ##### § 535.3 Applicability. #####
 
+Link to an amendment published at 89 FR 18819, Mar. 15, 2024.
+
 (a) This part applies to manufacturers that produce complete and incomplete heavy-duty vehicles as defined in 49 CFR part 523, and to the manufacturers of all heavy-duty engines manufactured for use in the applicable vehicles for each given model year.
 
 (b) This part also applies to alterers, final stage manufacturers, and intermediate manufacturers producing vehicles and engines or assembling motor vehicles or motor vehicle equipment under special conditions. Manufacturers comply with this part by following the special conditions in 40 CFR 1037.620, 1037.621, and 1037.622 in which EPA allows manufacturer to:

@@ -1,7 +1,5 @@
 ##### § 161.5 Responsibilities. #####
 
-Link to an amendment published at 89 FR 11179, Feb. 14, 2024.Link to a correction published at 89 FR 18543, Mar. 14, 2024.
-
 (a) The USD(P&R) shall:
 
 (1) Oversee implementation of the procedures within this part.
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 11179, Feb. 14, 2024.Link to a correctio
 
 (6) Develop and field the required RAPIDS infrastructure and all elements of field support to issue ID cards including but not limited to software distribution, hardware procurement and installation, on-site and depot-level hardware maintenance, on-site and Web-based user training and central telephone center support, and telecommunications engineering and network control center assistance.
 
-(7) In coordination with the Under Secretary of Defense for Intelligence (USD(I)), the Under Secretary of Defense for Acquisition, Technology, and Logistics (USD(AT&L)), and the DoD Chief Information Officer (DoD CIO) establish policy and oversight for CAC life-cycle compliance with FIPS Publication 201-2.
+(7) In coordination with the Under Secretary of Defense for Intelligence (USD(I)), the Under Secretary of Defense for Acquisition, Technology, and Logistics (USD(AT&L)), and the DoD Chief Information Officer (DoD CIO) establish policy and oversight for CAC life-cycle compliance with FIPS Publication 201-3.
 
 (8) Establish procedures that will uniquely identify personnel with specific associations with the Department of Defense and maintain the integrity of the unique personnel identifier in coordination with the DoD Components in accordance with DoD Directive 8320.03, “Unique Identification (UID) Standards for a Net-Centric Department of Defense” (available at *http://www.dtic.mil/whs/directives/corres/pdf/832003p.pdf*).
 
@@ -84,7 +82,7 @@ Link to an amendment published at 89 FR 11179, Feb. 14, 2024.Link to a correctio
 
 (7) Protect cardstock and consumables in accordance with the guidelines and standards issued and maintained by DMDC.
 
-(8) In accordance with FIPS Publication 201-2, provide electromagnetic opaque sleeves or other comparable technologies to protect against any unauthorized contactless access to the cardholder unique identification number stored on the CAC.
+(8) In accordance with FIPS Publication 201-3, provide electromagnetic opaque sleeves or other comparable technologies to protect against any unauthorized contactless access to the cardholder unique identification number stored on the CAC.
 
 (9) Manage the distribution and locations of CAC personal identification number (PIN) reset workstations.
 
@@ -106,4 +104,4 @@ Link to an amendment published at 89 FR 11179, Feb. 14, 2024.Link to a correctio
 
 (4) Ensure that the policies and procedures in this subpart are implemented to protect the privacy of individuals in the collection, use, maintenance, and dissemination of personally identifiable information, in accordance with 32 CFR part 310.
 
-[79 FR 709, Jan. 6, 2014, as amended at 81 FR 74878, Oct. 27, 2016]
+[79 FR 709, Jan. 6, 2014, as amended at 81 FR 74878, Oct. 27, 2016; 89 FR 11179, Feb. 14, 2024; 89 FR 18543, Mar. 14, 2024]

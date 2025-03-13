@@ -1,7 +1,11 @@
-##### § 1321.11 State agency policies. #####
+##### § 1321.11 Advocacy responsibilities. #####
 
-(a) The State agency on aging shall develop policies governing all aspects of programs operated under this part, including the ombudsman program whether operated directly by the State agency or under contract. These policies shall be developed in consultation with other appropriate parties in the State. The State agency is responsible for enforcement of these policies.
+(a) The State agency shall:
 
-(b) The policies developed by the State agency shall address the manner in which the State agency will monitor the performance of all programs and activities initiated under this part for quality and effectiveness. The State Long-Term Care Ombudsman shall be responsible for monitoring the files, records and other information maintained by the Ombudsman program. Such monitoring may be conducted by a designee of the Ombudsman. Neither the Ombudsman nor a designee shall disclose identifying information of any complainant or long-term care facility resident to individuals outside of the Ombudsman program, except as otherwise specifically provided in § 1324.11(e)(3) of this chapter.
+(1) Review, monitor, evaluate, and comment on Federal, State, and local plans, budgets, regulations, programs, laws, levies, hearings, policies, and actions which affect or may affect older individuals or family caregivers, and recommend any changes in these which the State agency considers to be aligned with the interests identified in the Act;
 
-[53 FR 33766, Aug. 31, 1988, as amended at 80 FR 7758, Feb. 11, 2015; 81 FR 35645, June 3, 2016]
+(2) Provide technical assistance and training to agencies, organizations, associations, or individuals representing older individuals and family caregivers; and
+
+(3) Review and comment on applications to State and Federal agencies for assistance relating to meeting the needs of older individuals and family caregivers.
+
+(b) No requirement in this section shall be deemed to supersede a prohibition contained in a Federal appropriation on the use of Federal funds to lobby.

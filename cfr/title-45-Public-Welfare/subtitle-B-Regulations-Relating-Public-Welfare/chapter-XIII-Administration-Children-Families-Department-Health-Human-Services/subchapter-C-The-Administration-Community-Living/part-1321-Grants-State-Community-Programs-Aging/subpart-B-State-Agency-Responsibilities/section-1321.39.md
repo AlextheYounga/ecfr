@@ -1,0 +1,3 @@
+##### § 1321.39 Appeal to the Departmental Appeals Board regarding State plan on aging. #####
+
+If the Assistant Secretary for Aging intends to disapprove a State plan or State plan amendment, the Assistant Secretary for Aging shall first afford the State agency notice and an opportunity for a hearing. Administrative reviews of State plan disapprovals, as provided for in sections 307(c) and 307(d) of the Act (42 U.S.C. 3027(c)-(d)) are performed by the Department Appeals Board in accordance with the procedures set forth in 45 CFR part 16. The DAB may refer an appeal to its Alternative Dispute Resolution Division for mediation prior to making a decision.

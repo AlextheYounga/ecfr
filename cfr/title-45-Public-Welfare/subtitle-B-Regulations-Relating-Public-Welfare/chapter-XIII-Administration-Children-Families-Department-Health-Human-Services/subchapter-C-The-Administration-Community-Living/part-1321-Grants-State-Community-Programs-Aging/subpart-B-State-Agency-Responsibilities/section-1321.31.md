@@ -1,37 +1,29 @@
-##### § 1321.31 Appeal to Commissioner. #####
+##### § 1321.31 Amendments to the State plan. #####
 
-This section sets forth the procedures the Commissioner follows for providing hearings to applicants for designation as a planning and service area, under § 1321.29(a), whose application is denied by the State agency.
+(a) Subject to prior approval by the Assistant Secretary for Aging, a State agency shall amend the State plan whenever necessary to reflect:
 
-(a) Any applicant for designation as a planning and service area under § 1321.29(a) whose application is denied, and who has been provided a hearing and a written decision by the State agency, may appeal the denial to the Commissioner in writing within 30 days following receipt of a State's hearing decision.
+(1) New or revised statutes or regulations as determined by the Assistant Secretary for Aging;
 
-(b) The Commissioner, or the Commissioner's designee, holds a hearing, and issues a written decision, within 60 days following receipt of an applicant's written request to appeal the State agency hearing decision to deny the applicant's request under § 1321.29(a).
+(2) An addition, deletion, or change to a State agency's goal, assurance, or information requirement statement;
 
-(c) When the Commissioner receives an appeal, the Commissioner requests the State Agency to submit:
+(3) A change in the State agency's intrastate funding formula or funds distribution plan for Title III funds, as set forth in § 1321.49 or § 1321.51;
 
-(1) A copy of the applicant's application for designation as a planning and service area;
+(4) A request to waive State plan requirements as set forth in section 316 of the Act (42 U.S.C. 3030c-3), or as required by guidance as set forth by the Assistant Secretary for Aging; or
 
-(2) A copy of the written decision of the State; and
+(5) Other changes as required by guidance as set forth by the Assistant Secretary for Aging.
 
-(3) Any other relevant information the Commissioner may require.
+(b) A State agency shall amend the State plan and notify the Assistant Secretary for Aging of an amendment not requiring prior approval whenever necessary and within 30 days of the action(s) listed in paragraphs (b)(1) through (6) of this section:
 
-(d) The procedures for the appeal consist of:
+(1) A significant change in a State law, organization, policy, or State agency operation;
 
-(1) Prior written notice to the applicant and the State agency of the date, time and location of the hearing;
+(2) A change in the name or organizational placement of the State agency;
 
-(2) The required attendance of the head of the State agency or designated representatives;
+(3) Distribution of State plan administration funds for demonstration projects;
 
-(3) An opportunity for the applicant to be represented by counsel or other representative; and
+(4) A change in planning and service area designation, as set forth in § 1321.13;
 
-(4) An opportunity for the applicant to be heard in person and to present documentary evidence.
+(5) A change in area agency on aging designation, as set forth in § 1321.19; or
 
-(e) The Commissioner may:
+(6) Exercising of major disaster declaration flexibilities, as set forth in § 1321.101.
 
-(1) Deny the appeal and uphold the decision of a State agency;
-
-(2) Uphold the appeal and require a State agency to designate the applicant as a planning and service area; or
-
-(3) Take other appropriate action, including negotiating between the parties or remanding the appeal to the State agency after initial findings.
-
-(f) The Commissioner will uphold the decision of the State agency if it followed the procedures specified in § 1321.29, and the hearing decision is not manifestly inconsistent with the purpose of this part.
-
-(g) The Commissioner's decision to uphold the decision of a State agency does not extend beyond the period of the approved State plan.
+(c) Information required by this section shall be submitted according to guidelines prescribed by the Assistant Secretary for Aging.

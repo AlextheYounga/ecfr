@@ -1,5 +1,7 @@
 ##### § 234.2 Definitions. #####
 
+Link to an amendment published at 89 FR 18765, Mar. 15, 2024.
+
 (a) *Backtest* means the *ex post* comparison of realized outcomes with margin model forecasts to analyze and monitor model performance and overall margin coverage.
 
 (b) *Central counterparty* means an entity that interposes itself between counterparties to contracts traded in one or more financial markets, becoming the buyer to every seller and the seller to every buyer.

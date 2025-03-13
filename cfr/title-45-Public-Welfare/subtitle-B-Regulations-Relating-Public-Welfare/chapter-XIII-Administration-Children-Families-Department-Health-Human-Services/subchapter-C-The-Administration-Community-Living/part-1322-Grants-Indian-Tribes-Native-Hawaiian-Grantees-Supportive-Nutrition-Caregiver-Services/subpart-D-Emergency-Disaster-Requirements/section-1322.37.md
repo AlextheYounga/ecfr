@@ -1,0 +1,3 @@
+##### § 1322.37 Title VI and Title III coordination for emergency and disaster preparedness. #####
+
+A Tribal organization or Hawaiian Native grantee under Title VI of the Act and State and area agencies funded under Title III of the Act should coordinate in emergency and disaster preparedness planning, response, and recovery. A Tribal organization or Hawaiian Native grantee must have policies and procedures in place for how they will communicate and coordinate with State agencies and area agencies regarding emergency and disaster preparedness planning, response, and recovery.

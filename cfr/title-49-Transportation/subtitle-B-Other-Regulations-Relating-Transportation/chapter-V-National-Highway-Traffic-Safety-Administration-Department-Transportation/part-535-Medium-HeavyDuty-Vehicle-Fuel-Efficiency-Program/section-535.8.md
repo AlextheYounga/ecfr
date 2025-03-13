@@ -1,5 +1,7 @@
 ##### § 535.8 Reporting and recordkeeping requirements. #####
 
+Link to an amendment published at 89 FR 18831, Mar. 15, 2024.
+
 (a) *General requirements.* Manufacturers producing heavy-duty vehicles and engines applicable to fuel consumption standards in § 535.5, for each given model year, must submit the required information as specified in paragraphs (b) through (h) of this section.
 
 (1) The information required by this part must be submitted by the deadlines specified in this section and must be based upon all the information and data available to the manufacturer 30 days before submitting information.

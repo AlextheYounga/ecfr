@@ -1,0 +1,7 @@
+##### § 1321.5 Mission of the State agency. #####
+
+(a) The Act intends that the State agency shall be a leader on all aging issues on behalf of all older individuals and family caregivers in the State. The State agency shall proactively carry out a wide range of functions, including advocacy, planning, coordination, inter-agency collaboration, information sharing, training, monitoring, and evaluation. The State agency shall lead the development or enhancement of comprehensive and coordinated community-based systems in, or serving, communities throughout the State. These systems shall be designed to assist older individuals and family caregivers in leading independent, meaningful, and dignified lives in their own homes and communities.
+
+(b) In States with multiple planning and service areas, the State agency shall designate area agencies on aging to assist in carrying out the mission described above for the State agency at the sub-State level. The State agency shall designate as area agencies on aging only those non-State agencies having the capacity and making the commitment to fully carry out the mission described for area agencies in § 1321.55.
+
+(c) The State agency shall assure that the resources made available to area agencies on aging under the Act are used to carry out the mission described for area agencies in § 1321.55.

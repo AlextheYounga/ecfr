@@ -1,5 +1,7 @@
-##### § 1321.73 Grant related income under Title III-C. #####
+##### § 1321.73 Policies and procedures. #####
 
-States and sub-grantees must require that their subgrantees' grant related income be used in either the matching or cost sharing alternative in 75.307(e)(3) or the additive alternative in § 75.307(e)(2) or a combination of the two. The deductive alternative described in § 75.307(e)(1) is not permitted.
+(a) The area agency on aging and/or service provider shall ensure the development and implementation of policies and procedures in accordance with State agency policies and procedures, including those required as set forth in § 1321.9. The State agency may allow for policies and procedures to be developed by the subrecipient(s), except as set forth at §§ 1321.9(a) and 1321.9(c)(2)(xi) and where otherwise specified.
 
-[53 FR 33766, Aug. 31, 1988, as amended at 81 FR 3022, Jan. 20, 2016]
+(b) The area agency on aging and/or service provider will provide the State agency in a timely manner with statistical and other information which the State agency requires to meet its planning, coordination, evaluation, and reporting requirements established by the State agency under § 1321.9.
+
+(c) The State agency and/or area agencies on aging must develop an independent qualitative and quantitative monitoring process ensuring the quality and effectiveness of services regarding meeting participant needs and preferences, the goals described within the State and/or area plan, and State and local requirements, as well as conflicts of interest policies and procedures. Quality monitoring and measurement results are encouraged to be made available to the public in plain language format designed to support and provide information and choice among persons and families receiving services.
