@@ -1,6 +1,6 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 90 FR 1282, Jan. 7, 2025.
+Link to an amendment published at 90 FR 1282, Jan. 7, 2025.Link to a delay published at 90 FR 9001, Feb. 5, 2025.
 
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows—
 

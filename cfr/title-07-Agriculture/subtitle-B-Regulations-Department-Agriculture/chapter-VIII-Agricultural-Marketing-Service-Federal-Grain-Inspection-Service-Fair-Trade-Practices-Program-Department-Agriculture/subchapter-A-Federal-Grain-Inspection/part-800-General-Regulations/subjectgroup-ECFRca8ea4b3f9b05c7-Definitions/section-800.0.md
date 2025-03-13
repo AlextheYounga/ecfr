@@ -1,7 +1,5 @@
 ##### § 800.0 Meaning of terms. #####
 
-Link to an amendment published at 90 FR 533, Jan. 6, 2025.
-
 (a) *Construction.* Words used in the singular form shall be considered to imply the plural and vice versa, as appropriate. When a section; e.g., § 800.2, is cited, it refers to the indicated section in these regulations.
 
 (b) *Definitions.* For the purpose of these regulations, unless the context requires otherwise, the following terms shall have the meanings given for them below. The terms defined in the Act have been incorporated herein for easy reference.
@@ -106,7 +104,7 @@ Link to an amendment published at 90 FR 533, Jan. 6, 2025.
 
 *High quality specialty grain.* Grain sold under contract terms that specify all factors exceed the grade limits for U.S. No. 1 grain, except for the factor test weight, or specify “organic” as defined by 7 CFR part 205.
 
-*Holiday.* The legal public holidays specified in paragraph (a) of section 6103, Title 5, of the United States Code (5 U.S.C. 6103(a)) and any other day declared to be a holiday by Federal statute or Executive Order. Under section 610 and Executive Order No. 10357, as amended, if the specified legal public holiday falls on a Saturday, the preceding Friday shall be considered to be the holiday, or if the specified legal public holiday falls on a Sunday, the following Monday shall be considered to be the holiday.
+*Holiday.* The legal public holidays specified in paragraph (a) of section 6103, Title 5, of the United States Code (5 U.S.C. 6103(a)) and any other day declared to be a holiday by Federal statute or Executive Order. Under section 6103 and Executive Order 10358, as amended, if the specified legal public holiday falls on a Saturday, the preceding Friday shall be considered to be the holiday, or if the specified legal public holiday falls on a Sunday, the following Monday shall be considered to be the holiday.
 
 *“IN” movement.* A movement of grain into an elevator, or into or through a city, town, port, or other location without a loss of identity.
 
@@ -236,4 +234,4 @@ Link to an amendment published at 90 FR 533, Jan. 6, 2025.
 
 *Warehouseman's sampler.* An elevator employee licensed by the Service to obtain samples of grain for a warehouseman's sample-lot inspection service. Warehouseman's samplers are not considered official personnel, but they are licensed under authority of section 11 of the Act.
 
-[45 FR 15810, Mar. 11, 1980, as amended at 49 FR 36068, Sept. 14, 1984; 49 FR 37055, Sept. 21, 1984; 49 FR 49586, Dec. 21, 1984; 52 FR 6495, Mar. 4, 1987; 55 FR 24041, June 13, 1990; 57 FR 3273, Jan. 29, 1992; 60 FR 5835, Jan. 31, 1995; 70 FR 21923, Apr. 28, 2005; 70 FR 73558, Dec. 13, 2005; 75 FR 41695, July 19, 2010; 76 FR 45399, July 29, 2011; 78 FR 43755, July 22, 2013; 81 FR 49859, July 29, 2016]
+[45 FR 15810, Mar. 11, 1980, as amended at 49 FR 36068, Sept. 14, 1984; 49 FR 37055, Sept. 21, 1984; 49 FR 49586, Dec. 21, 1984; 52 FR 6495, Mar. 4, 1987; 55 FR 24041, June 13, 1990; 57 FR 3273, Jan. 29, 1992; 60 FR 5835, Jan. 31, 1995; 70 FR 21923, Apr. 28, 2005; 70 FR 73558, Dec. 13, 2005; 75 FR 41695, July 19, 2010; 76 FR 45399, July 29, 2011; 78 FR 43755, July 22, 2013; 81 FR 49859, July 29, 2016; 90 FR 533, Jan. 6, 2025]
