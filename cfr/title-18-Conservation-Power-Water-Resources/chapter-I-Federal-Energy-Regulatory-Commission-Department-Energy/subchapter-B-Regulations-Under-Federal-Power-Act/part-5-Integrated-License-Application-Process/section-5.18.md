@@ -36,7 +36,7 @@
 
 (ii) This application is executed in the:
 
-State ofCounty ofBy:(Name)(Address)being duly sworn, depose(s) and say(s) that the contents of this application are true to the best of (his or her) knowledge or belief. The undersigned Applicant(s) has (have) signed the application this \_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2\_\_\_\_\_\_.(Applicant(s))By:
+State of County of By:(Name)(Address) being duly sworn, depose(s) and say(s) that the contents of this application are true to the best of (his or her) knowledge or belief. The undersigned Applicant(s) has (have) signed the application this \_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2\_\_\_\_\_\_.(Applicant(s))By:
 
 Subscribed and sworn to before me, a [Notary Public, or title of other official authorized by the state to notarize documents, as appropriate] this \_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2\_\_\_\_\_\_.
 

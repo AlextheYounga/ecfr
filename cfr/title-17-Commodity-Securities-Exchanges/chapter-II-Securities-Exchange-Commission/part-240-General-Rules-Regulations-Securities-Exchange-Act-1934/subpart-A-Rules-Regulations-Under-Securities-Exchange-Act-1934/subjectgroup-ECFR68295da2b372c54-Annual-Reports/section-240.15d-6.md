@@ -2,4 +2,4 @@
 
 If the duty of an issuer to file reports pursuant to section 15(d) of the Act as to any fiscal year is suspended as provided in section 15(d) of the Act, such issuer shall, within 30 days after the beginning of the first fiscal year, file a notice on Form 15 informing the Commission of such suspension unless Form 15 has already been filed pursuant to Rule 12h-3. If the suspension resulted from the issuer's merger into, or consolidation with, another issuer or issuers, the notice shall be filed by the successor issuer.
 
-(Secs. 12(g)(4), 12(h), 13(a), 15(d), 23(a), 48 Stat. 892, 894, 895, 901; sec. 203(a), 49 Stat. 704; secs. 3, 8, 49 Stat. 1377, 1379; secs. 3, 4, 6, 78 Stat. 565-568, 569, 570-574; sec. 18, 89 Stat. 155; sec. 204, 91 Stat. 1500; 15 U.S.C. 78*l*(g)(4), 78*l*(h), 78m(a), 78o(d), 78w(a)) [49 FR 12690, Mar. 30, 1984]
+(Secs. 12(g)(4), 12(h), 13(a), 15(d), 23(a), 48 Stat. 892, 894, 895, 901; sec. 203(a), 49 Stat. 704; secs. 3, 8, 49 Stat. 1377, 1379; secs. 3, 4, 6, 78 Stat. 565-568, 569, 570-574; sec. 18, 89 Stat. 155; sec. 204, 91 Stat. 1500; 15 U.S.C. 78*l*(g)(4), 78*l*(h), 78m(a), 78o(d), 78w(a))[49 FR 12690, Mar. 30, 1984]

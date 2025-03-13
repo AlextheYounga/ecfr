@@ -1,7 +1,5 @@
 ##### § 54.308 Broadband public interest obligations for recipients of high-cost support. #####
 
-Link to an amendment published at 89 FR 107227, Dec. 31, 2024.
-
 (a) Rate-of-return carrier recipients of high-cost support are required to offer broadband service, at speeds described below, with latency suitable for real-time applications, including Voice over Internet Protocol, and usage capacity that is reasonably comparable to comparable offerings in urban areas, at rates that are reasonably comparable to rates for comparable offerings in urban areas. For purposes of determining reasonable comparability of rates, recipients are presumed to meet this requirement if they offer rates at or below the applicable benchmark to be announced annually by public notice issued by the Wireline Competition Bureau.
 
 (1) Carriers that have elected to receive Connect America Fund-Alternative Connect America Cost Model (CAF-ACAM) support pursuant to § 54.311, other than Enhanced A-CAM support, are required to offer broadband service at actual speeds of at least 10 Mbps downstream/1 Mbps upstream to a defined number of locations as specified by public notice, with a minimum usage allowance of 150 GB per month, subject to the requirement that usage allowances remain consistent with mean usage in the United States over the course of the term. In addition, such carriers must offer other speeds to subsets of locations, as specified in paragraphs (a)(1)(i) through (v) of this section:
@@ -66,7 +64,7 @@ Link to an amendment published at 89 FR 107227, Dec. 31, 2024.
 
 (b) Rate-of-return carrier recipients of high-cost support are required upon reasonable request to bid on category one telecommunications and Internet access services in response to a posted FCC Form 470 seeking broadband service that meets the connectivity targets for the schools and libraries universal service support program for eligible schools and libraries (as described in § 54.501) within that carrier's service area. Such bids must be at rates reasonably comparable to rates charged to eligible schools and libraries in urban areas for comparable offerings.
 
-(c) Alaskan rate-of-return carriers receiving support from the Alaska Plan pursuant to § 54.306 are exempt from paragraph (a) of this section and are instead required to offer voice and broadband service with latency suitable for real-time applications, including Voice over Internet Protocol, and usage capacity that is reasonably comparable to comparable offerings in urban areas, at rates that are reasonably comparable to rates for comparable offerings in urban areas, subject to any limitations in access to backhaul as described in § w(g). Alaska Plan recipients' specific broadband deployment and speed obligations shall be governed by the terms of their approved performance plans as described in § 54.306(b). Alaska Plan recipients must also comply with paragraph (b) of this section.
+(c) *Alaska Plan recipients.* Alaskan rate-of-return carriers receiving support from the Alaska Plan pursuant to § 54.306 are exempt from paragraph (a) of this section and are instead required to offer voice and broadband service with latency suitable for real-time applications, including Voice over internet Protocol, and usage capacity that is reasonably comparable to comparable offerings in urban areas, at rates that are reasonably comparable to rates for comparable offerings in urban areas, subject to any limitations in access to backhaul as described in § 54.313(g). Alaska Plan recipients' specific broadband deployment and speed obligations shall be governed by the terms of their approved performance plans as described in § 54.306(b). Alaska Plan recipients must also comply with paragraph (b) of this section.
 
 (d) Mobile carriers that are receiving support from the Alaska Plan pursuant to § 54.317(e) shall certify in their annual compliance filings that their rates are reasonably comparable to rates for comparable offerings in urban areas. The mobile carrier must also demonstrate compliance at the end of the five-year milestone and 10-year milestone and may do this by showing that its required stand-alone voice plan, and one service plan that offers broadband data services, if it offers such plans, are:
 
@@ -74,7 +72,23 @@ Link to an amendment published at 89 FR 107227, Dec. 31, 2024.
 
 (2) Offered for the same or a lower rate than the matching plan in the CMA for Anchorage.
 
-(e) *Enhanced A-CAM Cybersecurity and Supply Chain Risk Management Requirements.* (1) An Enhanced A-CAM carrier shall implement operational cybersecurity and supply chain risk management plans meeting the requirements of this section by January 1, 2024.
+(e) *Minimum provision of service.* Mobile providers receiving support from the Alaska Connect Fund must provide service at the same minimum service levels as required under the Alaska Plan and may not provide less coverage or provide service using a less advanced technology than the provider committed to under the Alaska Plan.
+
+(1) This includes continuing to provide voice service, maintaining at least the level of data service the mobile provider offered to its previous coverage area as of the end of the Alaska Plan, and improving service consistent with the mobile provider's approved performance plan through the end of Alaska Connect Fund.
+
+(2) The Wireless Telecommunications Bureau in coordination with the Office of Economics and Analytics have authority to compare Broadband Data Collection availability data as of December 31, 2026, with subsequent Broadband Data Collection availability data to ensure that mobile voice and mobile broadband service levels and coverage are maintained or improved in all previously served areas.
+
+(f) *Reasonably comparable services and rates.* A mobile provider that is receiving support from the Alaska Connect Fund pursuant to § 54.318 shall certify in its annual compliance filings that its rates are reasonably comparable to rates for comparable offerings in the Cellular Market Area (CMA) for Anchorage, Alaska. An Alaska Connect Fund mobile provider must also demonstrate compliance in duplicate-support areas by December 31, 2029, and in single support areas by December 31, 2029, December 31, 2031, and December 31, 2034, by showing that it publishes, on its publicly accessible website at least one mobile broadband plan and at least one stand-alone voice plan that meets the following requirements:
+
+(1) Is substantially similar to a service plan offered by at least one different mobile provider in the CMA for Anchorage, Alaska, and
+
+(2) Is offered for the same or a lower rate than the matching plan in the CMA for Anchorage.
+
+(3) This demonstration must include usage allowances for the comparable plans in Anchorage.
+
+(4) The Wireless Telecommunications Bureau may employ alternative benchmarks or dates appropriate for specific competitive Eligible Telecommunications Carriers in assessing carrier offerings. Participants in the Alaska Connect Fund may not cite their own plans in Anchorage as evidence of meeting the reasonably comparable rate condition.
+
+(g) *Enhanced A-CAM Cybersecurity and Supply Chain Risk Management Requirements.* (1) An Enhanced A-CAM carrier shall implement operational cybersecurity and supply chain risk management plans meeting the requirements of this section by January 1, 2024.
 
 (2) An Enhanced A-CAM carrier shall certify that it has implemented plans required under paragraph (e)(1) of this section and submit the plans to the Administrator by January 2, 2024 or within 30 days of approval under the Paperwork Reduction Act, whichever is *later.*
 
@@ -106,4 +120,36 @@ Link to an amendment published at 89 FR 107227, Dec. 31, 2024.
 
 (vii) Any large-scale technological changes, including the adoption of new systems or technologies, migrating to a new information technology infrastructure, or significantly changing the information technology architecture.
 
-[80 FR 4477, Jan. 27, 2015, as amended at 80 FR 5987, Feb. 4, 2015; 81 FR 24339, Apr. 25, 2016; 81 FR 69712, Oct. 7, 2016; 82 FR 14339, Mar. 20, 2017; 84 FR 4730, Feb. 19, 2019; 88 FR 55934, Aug. 17, 2023]
+(h) *Alaska Connect Fund mobile provider cybersecurity and supply chain risk management requirements.* (1) An Alaska Connect Fund mobile support recipient must implement operational cybersecurity and supply chain risk management plans meeting the requirements of this section as a condition of receiving Alaska Connect Fund support. All mobile provider recipients must implement their cybersecurity and supply chain risk management plans by December 31, 2029.
+
+(2) An Alaska Connect Fund mobile support recipient must certify that it has implemented the plans required under paragraph (h)(1) of this section and must submit the plans to the Administrator by December 31, 2029, or within 30 days of approval under the Paperwork Reduction Act, whichever is later.
+
+(3) An Alaska Connect Fund mobile support recipient that fails to comply with any Alaska Connect Fund cybersecurity or supply chain risk management requirement is subject to the following non-compliance measures:
+
+(i) The Wireless Telecommunications Bureau shall direct the Administrator to withhold 25 percent of the Alaska Connect Fund support recipient's monthly support for failure to comply with paragraphs (h)(1) and (2) of this section until the support recipient comes into compliance.
+
+(ii) At any time during the support term, if an Alaska Connect Fund mobile support recipient does not have in place operational cybersecurity and supply chain risk management plans meeting the requirements of this section, the Wireless Telecommunications Bureau shall direct the Administrator to withhold 25 percent of the support recipient's monthly support.
+
+(iii) Once the Alaska Connect Fund mobile support recipient comes into compliance, the Administrator shall stop withholding support, and the support recipient will receive all of the support that had been withheld pursuant to this section.
+
+(4) An Alaska Connect Fund mobile support recipient's cybersecurity risk management plan must reflect at least the National Institute of Standards and Technology (NIST) Framework for Improving Critical Infrastructure Cybersecurity v.1.1 (2018) (NIST Framework) or any successor version of the NIST Framework, that may be adopted by the Wireline Competition Bureau, the Wireless Telecommunications Bureau, and the Public Safety and Homeland Security Bureau after notice and comment, and must reflect established cybersecurity best practices that address each of the Core Functions described in the NIST Framework, such as the standards and controls set forth in the Cybersecurity & Infrastructure Security Agency (CISA) Cybersecurity Cross-sector Performance Goals and Objectives or the Center for internet Security Critical Security Controls.
+
+(5) An Alaska Connect Fund mobile support recipient's supply chain risk management plan must reflect the key practices discussed in NISTIR 8276, Key Practices in Cyber Supply Chain Risk Management: Observations from Industry, and related supply chain risk management guidance from NIST 800-161.
+
+(6) If an Alaska Connect Fund mobile support recipient makes a substantive modification to a plan under this section, the provider must file an updated plan with the Administrator within 30 days of making the modification. A modification to a plan under this section is substantive if at least one of the following conditions apply:
+
+(i) There is a change in the plan's scope, including any addition, removal, or significant alteration to the types of risks covered by the plan (*e.g.,* expanding a plan to cover new areas, such as supply chain risks to Internet of Things devices or cloud security, could be a substantive change);
+
+(ii) There is a change in the plan's risk mitigation strategies (*e.g.,* implementing a new encryption protocol or deploying a different firewall architecture);
+
+(iii) There is a shift in organizational structure (*e.g.,* creating a new information technology department or hiring a Chief Information Security Officer);
+
+(iv) There is a shift in the threat landscape prompting the organization to recognize that emergence of new threats or vulnerabilities that were not previously accounted for in the plan;
+
+(v) Updates are made to comply with new cybersecurity regulations, standards, or laws;
+
+(vi) Significant changes are made in the supply chain, including offboarding major suppliers or vendors, or shifts in procurement strategies that may impact the security of the supply chain; or
+
+(vii) A large-scale technological change is made, including the adoption of new systems or technologies, migrating to a new information technology infrastructure, or significantly changing the information technology architecture.
+
+[80 FR 4477, Jan. 27, 2015, as amended at 80 FR 5987, Feb. 4, 2015; 81 FR 24339, Apr. 25, 2016; 81 FR 69712, Oct. 7, 2016; 82 FR 14339, Mar. 20, 2017; 84 FR 4730, Feb. 19, 2019; 88 FR 55934, Aug. 17, 2023; 89 FR 107227, Dec. 31, 2024]

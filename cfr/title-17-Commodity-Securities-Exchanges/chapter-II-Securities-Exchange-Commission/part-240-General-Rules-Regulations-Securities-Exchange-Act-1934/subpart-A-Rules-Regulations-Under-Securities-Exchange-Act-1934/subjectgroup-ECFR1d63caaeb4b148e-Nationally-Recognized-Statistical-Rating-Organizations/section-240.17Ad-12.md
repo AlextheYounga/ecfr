@@ -8,4 +8,4 @@
 
 (b) For purposes of this section, the term *securities* shall have the same meaning as the term *securities certificate* as defined in § 240.17f-1(a)(6).
 
-(Secs. 2, 17(a), 17A(d) and 23(a) thereof, 15 U.S.C. 78b, 78q(a), 78q-1(d) and 78w(a)) [48 FR 28248, June 21, 1983, as amended at 68 FR 74401, Dec. 23, 2003]
+(Secs. 2, 17(a), 17A(d) and 23(a) thereof, 15 U.S.C. 78b, 78q(a), 78q-1(d) and 78w(a))[48 FR 28248, June 21, 1983, as amended at 68 FR 74401, Dec. 23, 2003]

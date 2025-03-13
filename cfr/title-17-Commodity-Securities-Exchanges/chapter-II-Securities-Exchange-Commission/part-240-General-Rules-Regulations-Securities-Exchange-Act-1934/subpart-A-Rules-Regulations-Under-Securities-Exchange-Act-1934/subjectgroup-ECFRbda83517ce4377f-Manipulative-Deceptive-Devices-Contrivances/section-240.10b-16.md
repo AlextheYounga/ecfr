@@ -8,4 +8,4 @@
 
 (b) It shall be unlawful for any broker or dealer to make any changes in the terms and conditions under which credit charges will be made (as described in the initial statement made under paragraph (a) of this section), unless the customer shall have been given not less than thirty (30) days written notice of such changes, except that no such prior notice shall be necessary where such changes are required by law: *Provided, however,* That if any change for which prior notice would otherwise be required under this paragraph results in a lower interest charge to the customer than would have been imposed before the change, notice of such change may be given within a reasonable time after the effective date of the change.
 
-(15 U.S.C. 78j) [34 FR 19718, Dec. 16, 1969]
+(15 U.S.C. 78j)[34 FR 19718, Dec. 16, 1969]

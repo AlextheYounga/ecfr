@@ -6,7 +6,7 @@
 
 (2) The term *act* means Title I of the Securities Exchange Act of 1934.
 
-(3) The term *section* refers to a section of the Securities Exchange Act of 1934. 1
+(3) The term *section* refers to a section of the Securities Exchange Act of 1934.1
 
 1 The provisions of paragraph (a)(3) of 17 CFR 240.0-1 relate to the terminology of rules and regulations as published by the Securities and Exchange Commission and are inapplicable to the terminology appearing in the Code of Federal Regulations.
 

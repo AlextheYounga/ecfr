@@ -52,7 +52,7 @@
 
 Note to paragraph (b)(1)(ii)introductory text:
 
- If an investment could be viewed as either a highly liquid investment or a moderately liquid investment, because the period to convert the investment to cash depends on the calendar or business day convention used, a fund should classify the investment as a highly liquid investment. For a discussion of considerations that may be relevant in classifying the liquidity of the fund's portfolio investments, see Investment Company Act Release No. IC-32315 (Oct. 13, 2016).
+If an investment could be viewed as either a highly liquid investment or a moderately liquid investment, because the period to convert the investment to cash depends on the calendar or business day convention used, a fund should classify the investment as a highly liquid investment. For a discussion of considerations that may be relevant in classifying the liquidity of the fund's portfolio investments, see Investment Company Act Release No. IC-32315 (Oct. 13, 2016).
 
 (A) The fund may generally classify and review its portfolio investments (including the fund's derivatives transactions) according to their asset class, provided, however, that the fund must separately classify and review any investment within an asset class if the fund or its adviser has information about any market, trading, or investment-specific considerations that are reasonably expected to significantly affect the liquidity characteristics of that investment as compared to the fund's other portfolio holdings within that asset class.
 

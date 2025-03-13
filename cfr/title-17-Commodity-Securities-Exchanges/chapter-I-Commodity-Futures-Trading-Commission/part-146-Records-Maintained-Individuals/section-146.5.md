@@ -10,7 +10,8 @@
 
 (e) Requests for copies of documents may be directed to the FOIA compliance staffr to the member of the Commission's staff through whom arrangements for access were made.
 
-(f) Fees for copies of records shall be charged as set forth in the schedule of fees contained in appendix A to this part. Copies of the schedule may be obtained upon request from the FOIA compliance staff in the Office of the General Counsel at the Commission's Washington, DC headquarters and clearly marked “Privacy Act request”. . Payment should be made by check or money order payable to the Commodity Futures Trading Commission. Advance payment of all or part of the fee may be required at the discretion of the Commission, but generally this will not be required for requests where the anticipated fee is less than $25.
+(f) Fees for copies of records shall be charged as set forth in the schedule of fees contained in appendix A to this part. Copies of the schedule may be obtained upon request from the FOIA compliance staff in the Office of the General Counsel at the Commission's Washington, DC headquarters and clearly marked “Privacy Act request”.
+. Payment should be made by check or money order payable to the Commodity Futures Trading Commission. Advance payment of all or part of the fee may be required at the discretion of the Commission, but generally this will not be required for requests where the anticipated fee is less than $25.
 
 (g) Nothing in this section or in § 146.3 shall:
 

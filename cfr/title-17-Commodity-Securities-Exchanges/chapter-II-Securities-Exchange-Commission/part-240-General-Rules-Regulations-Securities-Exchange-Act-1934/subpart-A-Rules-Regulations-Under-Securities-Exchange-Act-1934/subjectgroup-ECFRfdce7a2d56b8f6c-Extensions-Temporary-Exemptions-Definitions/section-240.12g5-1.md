@@ -50,4 +50,4 @@
 
 (3) If the issuer knows or has reason to know that the form of holding securities of record is used primarily to circumvent the provisions of section 12(g) or 15(d) of the Act, the beneficial owners of such securities shall be deemed to be the record owners thereof.
 
-(Sec. 3, 48 Stat. 882, as amended, sec. 3, 78 Stat. 566; 15 U.S.C. 78c, 78*l*) [30 FR 484, Jan. 14, 1965, as amended at 80 FR 21922, Apr. 20, 2015; 81 FR 28706, May 10, 2016; 86 FR 3601, Jan. 14, 2021]
+(Sec. 3, 48 Stat. 882, as amended, sec. 3, 78 Stat. 566; 15 U.S.C. 78c, 78*l*)[30 FR 484, Jan. 14, 1965, as amended at 80 FR 21922, Apr. 20, 2015; 81 FR 28706, May 10, 2016; 86 FR 3601, Jan. 14, 2021]

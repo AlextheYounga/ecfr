@@ -1,10 +1,8 @@
 ##### § 38.715 Definitions. #####
 
-Link to an amendment published at 89 FR 107002, Dec. 31, 2024.
+For purposes of this part and any Notice of Funding Opportunity (NOFO) issued pursuant to this part:
 
-For purposes of this part and any Notice of Funding Availability (NOFA) issued pursuant to this part:
-
-(a) *Applicant* means an eligible entity that submits a VLGP grant application that is announced in a NOFA.
+(a) *Applicant* means an eligible entity that submits a VLGP grant application that is announced in a NOFO.
 
 (b) *Community engagement* means strategic interaction with identified groups of people, whether they are connected by geographic location, special interest, or affiliation, to identify and address issues related to the legacy of Veterans.
 
@@ -14,7 +12,7 @@ For purposes of this part and any Notice of Funding Availability (NOFA) issued p
 
 (2) A local educational agency;
 
-(3) A non-profit entity that the Secretary determines has a demonstrated history of community engagement that pertains to the projects described in the relevant NOFA;
+(3) A non-profit entity that the Secretary determines has a demonstrated history of community engagement that pertains to the projects described in the relevant NOFO;
 
 (4) An educational institution; or
 
@@ -32,8 +30,8 @@ For purposes of this part and any Notice of Funding Availability (NOFA) issued p
 
 (i) *Educational materials* means a framework of digital instructional materials relevant to the grade level of K-12 students involved (*e.g.,* lesson plans) that can be used for outreach and other purposes.
 
-(j) *Grantee* means an eligible recipient that is awarded a VLGP grant under this part.
+(j) *Recipient* means an eligible recipient (or entity) that is awarded a VLGP grant under this part. It does not include a subrecipient or individual that is a beneficiary of the award.
 
-(k) *Notice of Funding Availability (NOFA)* means a Notice of Funding Availability published in the OMB-designated government-wide website in accordance with § 38.725 and 2 CFR 200.203 regulations.
+(k) *Notice of Funding Opportunity (NOFO)* means a formal announcement of the availability of a Federal funding opportunity published in the OMB-designated government-wide website *Grants.gov* (*http://www.grants.gov*) in accordance with § 38.725 and 2 CFR 200.1 and 200.204.
 
-(Authority: 38 U.S.C. 501(d), 2400 note and 2 CFR 200.203)
+(Authority: 38 U.S.C. 501(d), 2400 note, 2 CFR 200.1 and 200.204)[86 FR 59037, Oct. 26, 2021, as amended at 89 FR 107002, Dec. 31, 2024]

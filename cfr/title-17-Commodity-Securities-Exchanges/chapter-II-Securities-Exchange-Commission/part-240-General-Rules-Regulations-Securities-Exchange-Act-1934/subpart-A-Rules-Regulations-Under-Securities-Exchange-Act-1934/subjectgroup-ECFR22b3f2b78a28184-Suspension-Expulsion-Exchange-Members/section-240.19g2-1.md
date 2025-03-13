@@ -20,4 +20,4 @@
 
 (iii) Any presumption may be rebutted on an appropriate showing.
 
-(Secs. 3, 6, 19, 23, 48 Stat. 882, 885, 898, as amended (15 U.S.C. 78c, 78f, 78s, 78w); sec. 15A, 52 Stat. 1070, as amended (15 U.S.C. 78*o-*3)) [41 FR 51808, Nov. 24, 1976]
+(Secs. 3, 6, 19, 23, 48 Stat. 882, 885, 898, as amended (15 U.S.C. 78c, 78f, 78s, 78w); sec. 15A, 52 Stat. 1070, as amended (15 U.S.C. 78*o-*3))[41 FR 51808, Nov. 24, 1976]

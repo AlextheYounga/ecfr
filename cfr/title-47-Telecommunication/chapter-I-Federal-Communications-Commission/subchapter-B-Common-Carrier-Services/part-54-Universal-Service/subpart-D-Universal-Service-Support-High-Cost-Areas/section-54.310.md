@@ -1,7 +1,5 @@
 ##### § 54.310 Connect America Fund for Price Cap Territories—Phase II. #####
 
-Link to an amendment published at 89 FR 107228, Dec. 31, 2024.
-
 (a) *Geographic areas eligible for support.* Connect America Phase II support may be made available for census blocks or other areas identified as eligible by public notice, including locations identified by the forward-looking cost model as extremely high-cost. The number of supported locations will be identified for each area eligible for support will be identified by public notice.
 
 (b) *Term of support.* Connect America Phase II model-based support shall be provided to price cap carriers that elect to make a state-level commitment for six years. Connect America Phase II support awarded through a competitive bidding process shall be provided for ten years.
@@ -34,4 +32,6 @@ Link to an amendment published at 89 FR 107228, Dec. 31, 2024.
 
 (2) In areas where the eligible telecommunications carrier declines to receive an optional seventh year of model-based support pursuant to paragraph (g) of this section, it shall cease receiving model-based support for these areas on December 31, 2020.
 
-[79 FR 11335, Feb. 28, 2014, as amended at 79 FR 39188, July 9, 2014; 80 FR 4477, Jan. 27, 2015; 81 FR 44449, July 7, 2016; 85 FR 13797, Mar. 10, 2020; 89 FR 25160, Apr. 10, 2024]
+(i) *Alaska Connect Fund Transition support.* Beginning January 1, 2025 and ending December 31, 2028, any price cap carrier serving Alaska that elected to receive Connect America Phase II frozen support amounts in lieu of model-based support, and is authorized to receive support as of December 31, 2024, shall be authorized to receive an amount of monthly support during the ACF Transition equal to the amount of monthly support authorized as of December 1, 2024, multiplied by 1.30.
+
+[79 FR 11335, Feb. 28, 2014, as amended at 79 FR 39188, July 9, 2014; 80 FR 4477, Jan. 27, 2015; 81 FR 44449, July 7, 2016; 85 FR 13797, Mar. 10, 2020; 89 FR 25160, Apr. 10, 2024; 89 FR 107228, Dec. 31, 2024]

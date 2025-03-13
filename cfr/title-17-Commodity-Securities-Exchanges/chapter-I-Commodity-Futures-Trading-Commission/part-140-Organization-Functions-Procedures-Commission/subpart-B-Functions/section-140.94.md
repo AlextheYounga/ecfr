@@ -12,7 +12,8 @@
 
 (5) All functions reserved to the Commission in § 5.14 of this chapter.
 
-(b) The Director of the Market Participants Division may submit any matter which has been delegated to him or her under paragraph (a) of this section to the Commission for its consideration.
+(b) The Director of the Market Participants Division
+may submit any matter which has been delegated to him or her under paragraph (a) of this section to the Commission for its consideration.
 
 (c) The Commission hereby delegates, until such time as the Commission orders otherwise, the following functions to the Director of the Division of Clearing and Risk and to such members of the Commission's staff actingunder their direction as they may designate:
 

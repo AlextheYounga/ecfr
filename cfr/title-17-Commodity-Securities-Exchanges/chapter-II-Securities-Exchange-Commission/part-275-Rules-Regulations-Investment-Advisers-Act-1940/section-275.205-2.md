@@ -14,4 +14,4 @@
 
 (2) The fulcrum fee is computed on the basis of the asset value averaged over the most recent subperiod or subperiods of the rolling period.
 
-(Secs. 205, 106A, 211; 54 Stat. 852, 855; 84 Stat. 1433, 15 U.S.C. 80b-5, 80b-6a, 80b-11) [37 FR 24896, Nov. 22, 1972]
+(Secs. 205, 106A, 211; 54 Stat. 852, 855; 84 Stat. 1433, 15 U.S.C. 80b-5, 80b-6a, 80b-11)[37 FR 24896, Nov. 22, 1972]

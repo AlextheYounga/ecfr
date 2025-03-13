@@ -2,4 +2,4 @@
 
 This form shall be used by persons that are large traders required to furnish identifying information to the Commission pursuant to Section 13(h)(1) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(h)(1)] and § 240.13h-1(b) of this chapter.
 
-[76 FR 47004, Aug. 3, 2011] Editorial Note:For Federal Register citations affecting Form 13H, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[76 FR 47004, Aug. 3, 2011]Editorial Note:For Federal Register citations affecting Form 13H, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -44,4 +44,4 @@ United States of America Before the Federal Energy Regulatory Commission[Name of
 
 (2) If any protest is filed within the time allowed for protest and interventions and is subsequently withdrawn under paragraph (g) of this section, the certificate holder is authorized to conduct the activity under its blanket certificate, effective upon the day after the withdrawal of all protests, unless the certificate holder withdraws its application in accordance with § 385.216 of this chapter prior to that date.
 
-[Order 234, 47 FR 24266, June 4, 1982]Editorial Note:For Federal Register citations affecting § 157.205, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Order 234, 47 FR 24266, June 4, 1982] Editorial Note:For Federal Register citations affecting § 157.205, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

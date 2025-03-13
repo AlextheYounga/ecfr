@@ -1,8 +1,8 @@
 ##### § 54.316 Broadband deployment reporting and certification requirements for high-cost recipients. #####
 
-Link to an amendment published at 88 FR 55937, Aug. 17, 2023.Link to an amendment published at 89 FR 25161, Apr. 10, 2024.Link to an amendment published at 89 FR 107229, Dec. 31, 2024.
+Link to an amendment published at 88 FR 55937, Aug. 17, 2023.Link to an amendment published at 89 FR 25161, Apr. 10, 2024.
 
-(a) *Broadband deployment reporting.* Rate-of Return ETCs, ETCs that elect to receive Connect America Phase II model-based support, and ETCs awarded support to serve fixed locations through a competitive bidding process shall have the following broadband reporting obligations:
+(a) *Broadband deployment reporting.* Rate-of Return ETCs, ETCs that elect to receive Connect America Phase II model-based support, competitive ETCs receiving mobile support from the Alaska Connect Fund, and ETCs awarded support to serve fixed locations through a competitive bidding process shall have the following broadband reporting obligations:
 
 (1) Recipients of high-cost support with defined broadband deployment obligations pursuant to § 54.308(a), 54.308(c), or § 54.310(c) shall provide to the Administrator on a recurring basis information regarding the locations to which the eligible telecommunications carrier is offering broadband service in satisfaction of its public interest obligations, as defined in either § 54.308 or § 54.309.
 
@@ -19,6 +19,10 @@ Link to an amendment published at 88 FR 55937, Aug. 17, 2023.Link to an amendmen
 (7) Recipients subject to the requirements of § 54.1506 shall report the number of locations for Puerto Rico and the U.S. Virgin Islands and locational information, including geocodes, where they are offering service at the requisite speeds. Recipients shall also report the technologies they use to serve those locations.
 
 (8) Recipients subject to the requirements of § 54.802(c) shall report the number of locations for each state and locational information, including geocodes, where they are offering service at the requisite speeds. Recipients of Rural Digital Opportunity Fund support shall also report the technology they use to serve those locations.
+
+(9) [Reserved]
+
+(10) Mobile providers subject to the requirements of § 54.318 shall submit backhaul and middle mile maps covering eligible areas. At the end of any calendar year for which backhaul and middle-mile facilities were deployed, these recipients shall also submit updated maps showing backhaul and middle-mile facilities that are or will be used to support their services in eligible areas. Where the recipient leases links, the recipient must provide the name of the middle-mile provider(s) that the recipient leases links from per area.
 
 (b) *Broadband deployment certifications.* Rate-of Return ETCs, ETCs that elect to receive Connect America Phase II model-based support, and ETCs awarded support through a competitive bidding process shall have the following broadband deployment certification obligations:
 
@@ -50,7 +54,7 @@ Link to an amendment published at 88 FR 55937, Aug. 17, 2023.Link to an amendmen
 
 (c) *Filing deadlines.* In order for a recipient of high-cost support to continue to receive support for the following calendar year, or retain its eligible telecommunications carrier designations, it must submit the annual reporting information as set forth below.
 
-(1) Price cap carriers that accepted Phase II model-based support, rate-of-return carriers, and recipients of Rural Digital Opportunity Fund support must submit the annual reporting information required by March 1 as described in paragraphs (a) and (b) of this section. Eligible telecommunications carriers that file their reports after the March 1 deadline shall receive a reduction in support pursuant to the following schedule:
+(1) Price cap carriers that accepted Phase II model-based support, rate-of-return carriers, ETCs receiving Alaska Connect Fund mobile support, and recipients of Rural Digital Opportunity Fund support must submit the annual reporting information required by March 1 as described in paragraphs (a) and (b) of this section. Eligible telecommunications carriers that file their reports after the March 1 deadline shall receive a reduction in support pursuant to the following schedule:
 
 (i) An eligible telecommunications carrier that files after the March 1 deadline, but by March 8, will have its support reduced in an amount equivalent to seven days in support;
 
@@ -66,4 +70,4 @@ Link to an amendment published at 88 FR 55937, Aug. 17, 2023.Link to an amendmen
 
 (iii) *Grace period.* An eligible telecommunications carrier that submits the annual reporting information required by this section within three days of the deadline will not receive a reduction in support if the eligible telecommunications carrier and its holding company, operating companies, and affiliates as reported pursuant to § 54.313(a)(8) in their report due July 1 of the prior year have not missed the deadline in any prior year.
 
-[81 FR 24341, Apr. 25, 2016, as amended at 81 FR 44451, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 14340, Mar. 20, 2017; 84 FR 4732, Feb. 19, 2019; 84 FR 59964, Nov. 7, 2019, 85 FR 13798, Mar. 10, 2020; 87 FR 13948, Mar. 11, 2022; 88 FR 55937, Aug. 17, 2023] Effective Date Note:At 88 FR 55937, Aug. 17, 2023, § 54.316 was amended by adding paragraph (a)(9) and (b)(8) However, these paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 24341, Apr. 25, 2016, as amended at 81 FR 44451, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 14340, Mar. 20, 2017; 84 FR 4732, Feb. 19, 2019; 84 FR 59964, Nov. 7, 2019, 85 FR 13798, Mar. 10, 2020; 87 FR 13948, Mar. 11, 2022; 88 FR 55937, Aug. 17, 2023; 89 FR 107229, Dec. 31, 2024] Effective Date Note:At 88 FR 55937, Aug. 17, 2023, § 54.316 was amended by adding paragraph (a)(9) and (b)(8) However, these paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

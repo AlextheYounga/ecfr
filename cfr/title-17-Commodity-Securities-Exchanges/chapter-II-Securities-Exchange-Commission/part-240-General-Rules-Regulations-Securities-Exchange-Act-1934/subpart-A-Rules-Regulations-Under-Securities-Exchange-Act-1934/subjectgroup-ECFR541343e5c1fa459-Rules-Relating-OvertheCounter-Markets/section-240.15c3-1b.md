@@ -131,4 +131,4 @@ Net Capital
 
 (B) A broker or dealer may reduce the deduction under paragraph (b)(2)(ii)(A) by an amount equal to any reduction recognized for a comparable long or short position in the reference asset or interest rate under § 240.15c3-1 or 17 CFR 1.17.
 
-(Secs. 15(c)(3), 17(a) and 23(a), 15 U.S.C. 78o(c)(3), 78q(a), and 78w(a)) [44 FR 34886, June 15, 1979, as amended at 46 FR 37041, July 17, 1981; 49 FR 31848, Aug. 9, 1984; 84 FR 44044, Aug. 22, 2019]
+(Secs. 15(c)(3), 17(a) and 23(a), 15 U.S.C. 78o(c)(3), 78q(a), and 78w(a))[44 FR 34886, June 15, 1979, as amended at 46 FR 37041, July 17, 1981; 49 FR 31848, Aug. 9, 1984; 84 FR 44044, Aug. 22, 2019]

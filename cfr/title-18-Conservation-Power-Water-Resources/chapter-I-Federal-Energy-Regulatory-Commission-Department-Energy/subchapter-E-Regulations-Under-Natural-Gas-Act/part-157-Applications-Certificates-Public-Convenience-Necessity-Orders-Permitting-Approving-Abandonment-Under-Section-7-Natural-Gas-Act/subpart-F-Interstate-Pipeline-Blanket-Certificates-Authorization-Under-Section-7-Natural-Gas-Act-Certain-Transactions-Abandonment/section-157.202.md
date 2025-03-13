@@ -66,4 +66,4 @@
 
 (13) *Emergency* means a sudden unanticipated loss of gas supply or capacity that requires an immediate restoration of interrupted service for protection of life or health or for maintenance of physical property.
 
-[Order 234, 47 FR 24266, June 4, 1982]Editorial Note:For Federal Register citations affecting § 157.202, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Order 234, 47 FR 24266, June 4, 1982] Editorial Note:For Federal Register citations affecting § 157.202, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

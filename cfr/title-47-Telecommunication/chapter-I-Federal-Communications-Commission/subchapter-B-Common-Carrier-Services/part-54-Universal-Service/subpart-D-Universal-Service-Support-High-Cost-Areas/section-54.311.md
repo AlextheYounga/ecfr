@@ -1,7 +1,5 @@
 ##### § 54.311 Connect America Fund Alternative-Connect America Cost Model Support. #####
 
-Link to an amendment published at 89 FR 107228, Dec. 31, 2024.
-
 (a) *Voluntary election of model-based support.* A rate-of-return carrier (as that term is defined in § 54.5) receiving support pursuant to subparts K or M of this part shall have the opportunity to voluntarily elect, on a state-level basis, to receive Connect America Fund-Alternative Connect America Cost Model (CAF-ACAM) support as calculated by the Alternative-Connect America Cost Model (A-CAM) adopted by the Commission in lieu of support calculated pursuant to subparts K or M of this part, subject to the conditions specific to each A-CAM offer as determined by the Commission. Any rate-of-return carrier not electing support pursuant to this section shall continue to receive support calculated pursuant to those mechanisms as specified in Commission rules for high-cost support.
 
 (1) For the purposes of this section, “A-CAM I” refers to carriers initially authorized to receive CAF-ACAM support as of January 24, 2017, including any carriers that later elected revised offers, except for carriers described in paragraph (a)(2) of this section. For such carriers, the first program year of CAF-ACAM is 2017.
@@ -80,4 +78,6 @@ Link to an amendment published at 89 FR 107228, Dec. 31, 2024.
 
 (2) The carrier's base year support for purposes of the calculation of transition payments is the amount of high-cost loop support and Connect America Fund—Broadband Loop Support disbursed to the carrier for 2022 without regard to prior period adjustments related to years other than 2022, as determined by the Administrator as of July 31, 2023 and publicly announced prior to the election period for the voluntary path to the model.
 
-81 FR 24340, Apr. 25, 2016, as amended at 82 FR 14339, Mar. 20, 2017; 84 FR 4731, Feb. 19, 2019; 88 FR 55935, Aug. 17, 2023]
+(g) *Alaska Connect Fund Transition support.* Beginning January 1, 2025, and ending December 31, 2028, an A-CAM carrier that serves the State of Alaska that has made an election of support pursuant to paragraph (a) of this section and is authorized to receive support as of December 31, 2024, shall be authorized to receive an amount of monthly support during the ACF Transition equal to the amount of monthly support authorized as of December 1, 2024, multiplied by 1.30.
+
+81 FR 24340, Apr. 25, 2016, as amended at 82 FR 14339, Mar. 20, 2017; 84 FR 4731, Feb. 19, 2019; 88 FR 55935, Aug. 17, 2023; 89 FR 107228, Dec. 31, 2024]

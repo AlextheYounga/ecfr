@@ -1,6 +1,6 @@
 ##### § 230.406 Confidential treatment of information filed with the Commission. #####
 
-Link to an amendment published at 89 FR 21919, Mar. 28, 2024.Link to a delay published at 89 FR 25804, Apr. 12, 2024.
+Link to an amendment published at 89 FR 21919, Mar. 28, 2024.This amendment was delayed indefinitely at 89 FR 25804, Apr. 12, 2024.
 
 Confidential treatment of supplemental information or other information not required to be filed under the Act should be requested under 17 CFR 200.83 and not under this rule. All confidential treatment requests shall be submitted in paper format only, whether or not the filer is an electronic filer. *See* Rule 101(c)(1)(i) of Regulation S-T (§ 232.101(c)(1)(i) of this chapter).
 

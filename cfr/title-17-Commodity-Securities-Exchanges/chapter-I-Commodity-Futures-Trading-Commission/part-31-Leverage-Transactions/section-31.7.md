@@ -10,4 +10,4 @@
 
 (c) The requirements of §§ 1.12(c), 1.12(d), 1.12(e) and 1.12(g) of this chapter shall apply to registered leverage transaction merchants and to persons who have applied for registration as leverage transaction merchants, as if in those paragraphs the term “leverage transaction merchant or applicant therefor” were substituted for the phrase “applicant or registrant.”
 
-(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982)) [49 FR 5530, Feb. 13, 1984, as amended at 50 FR 28, Jan. 2, 1985; 54 FR 41079, Oct. 5, 1989]
+(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982))[49 FR 5530, Feb. 13, 1984, as amended at 50 FR 28, Jan. 2, 1985; 54 FR 41079, Oct. 5, 1989]

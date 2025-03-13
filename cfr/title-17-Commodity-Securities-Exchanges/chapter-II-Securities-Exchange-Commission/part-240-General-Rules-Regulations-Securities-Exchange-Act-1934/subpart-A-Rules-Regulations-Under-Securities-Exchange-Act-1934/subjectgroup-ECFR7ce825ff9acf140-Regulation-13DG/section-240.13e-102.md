@@ -1,6 +1,6 @@
 ##### § 240.13e-102 Schedule 13E-4F. Tender offer statement pursuant to section 13(e) (1) of the Securities Exchange Act of 1934 and § 240.13e-4 thereunder. #####
 
-Securities and Exchange Commission Washington, DC 20549 Schedule 13E-4F Issuer Tender Offer Statement Pursuant to Section 13(e)(1) of the Securities Exchange Act of 1934 [Amendment No. \_\_\_\_]
+Securities and Exchange CommissionWashington, DC 20549Schedule 13E-4FIssuer Tender Offer Statement Pursuant to Section 13(e)(1) of the Securities Exchange Act of 1934[Amendment No. \_\_\_\_]
 
 (Exact name of Issuer as specified in its charter)
 
@@ -18,7 +18,7 @@ Securities and Exchange Commission Washington, DC 20549 Schedule 13E-4F Issuer T
 
 (Date tender offer first published, sent or given to securityholders)
 
-General Instructions I. Eligibility Requirements for Use of Schedule 13E-4F
+General InstructionsI. Eligibility Requirements for Use of Schedule 13E-4F
 
 A. Schedule 13E-4F may be used by any foreign private issuer if: (1) The issuer is incorporated or organized under the laws of Canada or any Canadian province or territory; (2) the issuer is making a cash tender or exchange offer for the issuer's own securities; and (3) less than 40 percent of the class of such issuer's securities outstanding that is the subject of the tender offer is held by U.S. holders. The calculation of securities held by U.S. holders shall be made as of the end of the issuer's last quarter or, if such quarter terminated within 60 days of the filing date, as of the end of the issuer's preceding quarter.
 
@@ -66,7 +66,7 @@ B. Any cash tender or exchange offer made pursuant to this Schedule is not exemp
 
 C. The issuer's attention is directed to Regulation M (§§ 242.100 through 242.105 of this chapter), in the case of an issuer exchange offer, and to Rule 14e-5 under the Exchange Act (§ 240.14e-5), in the case of an issuer cash tender offer or issuer exchange offer. [*See* Exchange Act Release No. 29355 (June 21, 1991) containing an exemption from Rule 10b-13, the predecessor to Rule 14e-5.]
 
-Part I—Information Required To Be Sent to Shareholders Item 1. Home Jurisdiction Documents
+Part I—Information Required To Be Sent to ShareholdersItem 1. Home Jurisdiction Documents
 
 (a) This Schedule shall be accompanied by the entire disclosure document or documents required to be delivered to holders of securities to be acquired by the issuer in the proposed transaction pursuant to the laws, regulations or policies of the Canadian jurisdiction in which the issuer is incorporated or organized, and any other Canadian federal, provincial and/or territorial law, regulation or policy relating to the terms and conditions of the offer. The Schedule need not include any documents incorporated by reference into such disclosure document(s) and not distributed to offerees pursuant to any such law, regulation or policy.
 
@@ -239,7 +239,7 @@ For the Schedule TO filed on 1/22/20X7, the filer can satisfy the submission ide
 
 In this example, the filer could not satisfy the submission identification requirement solely by citing to the Form S-4 (333-123478) filed on 1/15/20X7 because even though the offset claimed and available from that filing was $45,000, the contemporaneous fee payment made with that filing ($15,000) was less than the offset being claimed. As a result, the filer must also identify a prior submission or submissions with an aggregate of contemporaneous fee payment(s) of $30,000 as the original source(s) to which the rest of the claimed offset can be traced.
 
-Part III—Undertakings and Consent to Service of Process 1. Undertakings
+Part III—Undertakings and Consent to Service of Process1. Undertakings
 
 The Schedule shall set forth the following undertakings of the issuer:
 

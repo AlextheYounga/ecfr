@@ -12,4 +12,4 @@
 
 (iii) Abandonment of the sales service authorized in paragraph (b)(2)(i) of this section is authorized pursuant to section 7(b) of the Natural Gas Act upon the expiration of the contractual term or upon termination of each individual sales arrangement.
 
-(Sec. 1(c), 68 Stat. 36; 15 U.S.C. 717(c))[Order 306, 30 FR 12729, Oct. 6, 1965, as amended by Order 543, 57 FR 32894, July 24, 1992]
+(Sec. 1(c), 68 Stat. 36; 15 U.S.C. 717(c)) [Order 306, 30 FR 12729, Oct. 6, 1965, as amended by Order 543, 57 FR 32894, July 24, 1992]

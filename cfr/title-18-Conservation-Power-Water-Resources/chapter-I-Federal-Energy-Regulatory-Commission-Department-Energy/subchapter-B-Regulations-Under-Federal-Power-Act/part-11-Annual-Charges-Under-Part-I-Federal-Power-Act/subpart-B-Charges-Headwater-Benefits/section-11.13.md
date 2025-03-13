@@ -12,7 +12,7 @@
 
 (b) *Energy generated at the headwater project.* (1) Except as provided in paragraphs (b)(2) and (b)(3) of this section, the portion of the total annual energy generation at the headwater project that is to be attributed to the joint-use power cost is derived by multiplying the total annual generation at the headwater project and the ratio of the project investment cost assigned to the joint-use power cost to the sum of the investment cost assigned to both the specific power cost and the joint-use power cost of the headwater project, as follows:
 
-![](/graphics/ec14no91.112.gif)In which:Ej = annual energy generated at the headwater project to be attributed to the joint-use power cost,E = total annual generation at the headwater project,Cj = project investment costs assigned to the joint-use power cost, andCs = project investment costs assigned to specific power costs.
+![](/graphics/ec14no91.112.gif)In which: Ej = annual energy generated at the headwater project to be attributed to the joint-use power cost, E = total annual generation at the headwater project, Cj = project investment costs assigned to the joint-use power cost, and Cs = project investment costs assigned to specific power costs.
 
 (2) If the headwater project contains a pumped storage facility, calculation of the portion of the total annual energy generation at the headwater project that is attributable to the joint-use power cost will be determined on a case-by-case basis.
 

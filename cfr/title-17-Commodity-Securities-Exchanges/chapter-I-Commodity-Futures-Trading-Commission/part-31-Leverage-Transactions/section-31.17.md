@@ -8,4 +8,4 @@
 
 (d) Each leverage transaction merchant shall establish and maintain a record of the bid and ask prices of each leverage contract on each leverage commodity that the leverage transaction merchant offers to sell or sells, or offers to purchase or purchases. The record shall include the times these prices were in effect to the nearest ten seconds.
 
-(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982)) [49 FR 5540, Feb. 13, 1984, as amended at 50 FR 34, Jan. 2, 1985]
+(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982))[49 FR 5540, Feb. 13, 1984, as amended at 50 FR 34, Jan. 2, 1985]

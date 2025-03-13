@@ -28,4 +28,4 @@
 
 (2) Regardless of whether the commodity pool operator or commodity trading advisor is exempt from registration under the Act.
 
-(Approved by the Office of Management and Budget under control number 3038-0005) [46 FR 26013, May 8, 1981, as amended at 46 FR 63035, Dec. 30, 1981; 60 FR 38192, July 25, 1995; 72 FR 8109, Feb. 23, 2007]
+(Approved by the Office of Management and Budget under control number 3038-0005)[46 FR 26013, May 8, 1981, as amended at 46 FR 63035, Dec. 30, 1981; 60 FR 38192, July 25, 1995; 72 FR 8109, Feb. 23, 2007]

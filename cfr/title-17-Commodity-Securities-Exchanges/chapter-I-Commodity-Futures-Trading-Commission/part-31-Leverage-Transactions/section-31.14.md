@@ -44,4 +44,4 @@
 
 (6) The unrealized profit or loss on each open leverage contract marked to the market on the basis of the leverage transaction merchant's bid price for a long leverage contract and ask price for a short leverage contract.
 
-(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982)) [50 FR 32, Jan. 2, 1985; 50 FR 2283, Jan. 16, 1985, as amended at 67 FR 62352, Oct. 7, 2002; 78 FR 22419, Apr. 16, 2013; 89 FR 71811, Sept. 4, 2024]
+(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982))[50 FR 32, Jan. 2, 1985; 50 FR 2283, Jan. 16, 1985, as amended at 67 FR 62352, Oct. 7, 2002; 78 FR 22419, Apr. 16, 2013; 89 FR 71811, Sept. 4, 2024]

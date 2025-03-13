@@ -2,4 +2,4 @@
 
 It shall be unlawful for any director or officer of an issuer of an equity security which is registered pursuant to section 12 of the Act to effect any foreign or domestic arbitrage transaction in any equity security of such issuer, whether registered or not, unless he shall include such transaction in the statements required by section 16(a) and shall account to such issuer for the profits arising from such transaction, as provided in section 16(b). The provision of section 16(c) shall not apply to such arbitrage transactions. The provisions of section 16 shall not apply to any bona fide foreign or domestic arbitrage transaction insofar as it is effected by any person other than such director or officer of the issuer of such security.
 
-(Secs. 4, 12, 13, 15, 16, 19, 24, 48 Stat. 77, 892, 894, 895, 896, 85, as amended, 901; 15 U.S.C. 77d, 78*l,* 78m, 78*o,* 78p, 77s, 78x) [30 FR 2025, Feb. 13, 1965]
+(Secs. 4, 12, 13, 15, 16, 19, 24, 48 Stat. 77, 892, 894, 895, 896, 85, as amended, 901; 15 U.S.C. 77d, 78*l,* 78m, 78*o,* 78p, 77s, 78x)[30 FR 2025, Feb. 13, 1965]

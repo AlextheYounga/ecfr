@@ -4,4 +4,4 @@
 
 (b) Requests for copies of transcripts, transcriptions of electronic recordings or sets of minutes as described in paragraph (a) of this section shall be made either in person, by telephone, or by mail addressed to the Office of the Secretariat at the Commission's Washington, DC headquarters.
 
-(7 U.S.C. 4a(j) and 16a as amended by Pub. L. 97-444, 96 Stat. 2294 (1983) and 5 U.S.C. 552, 552a, and 552b) [42 FR 13704, Mar. 11, 1977, as amended at 45 FR 26955, Apr. 22, 1980; 48 FR 46012, Oct. 11, 1983; 49 FR 12684, Mar. 30, 1984; 60 FR 49336, Sept. 25, 1995; 89 FR 71819, Sept. 4, 2024]
+(7 U.S.C. 4a(j) and 16a as amended by Pub. L. 97-444, 96 Stat. 2294 (1983) and 5 U.S.C. 552, 552a, and 552b)[42 FR 13704, Mar. 11, 1977, as amended at 45 FR 26955, Apr. 22, 1980; 48 FR 46012, Oct. 11, 1983; 49 FR 12684, Mar. 30, 1984; 60 FR 49336, Sept. 25, 1995; 89 FR 71819, Sept. 4, 2024]

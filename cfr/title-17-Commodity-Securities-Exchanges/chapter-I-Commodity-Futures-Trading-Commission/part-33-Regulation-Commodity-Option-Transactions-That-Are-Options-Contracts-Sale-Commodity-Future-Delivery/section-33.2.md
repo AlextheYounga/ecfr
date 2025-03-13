@@ -8,4 +8,4 @@
 
 (b) The provisions of this part apply to commodity option transactions that are options on contracts of sale of a commodity for future delivery except for commodity option transactions that are options on contracts of sale of a commodity for future delivery conducted or executed on or subject to the rules of a foreign board of trade.
 
-(Approved by the Office of Management and Budget under control number 3038-0007) [46 FR 54529, Nov. 3, 1981, as amended at 46 FR 63036, Dec. 30, 1981; 47 FR 57016, Dec. 22, 1982; 59 FR 5526, Feb. 7, 1994; 77 FR 25343, Apr. 27, 2012]
+(Approved by the Office of Management and Budget under control number 3038-0007)[46 FR 54529, Nov. 3, 1981, as amended at 46 FR 63036, Dec. 30, 1981; 47 FR 57016, Dec. 22, 1982; 59 FR 5526, Feb. 7, 1994; 77 FR 25343, Apr. 27, 2012]

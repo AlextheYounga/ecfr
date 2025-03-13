@@ -46,4 +46,4 @@ The Commission has determined that once an appeal goes to the Commission, it is 
 
 (f) *Effect of failure to file an appeal.* Timely appeal to the Commission for review of an initial decision is mandatory as a prerequisite to seeking judicial review of a final decision entered pursuant to these Rules of Practice.
 
-(7 U.S.C. Secs. 4a, 12a; 5 U.S.C. Sec. 10) [41 FR 2511, Jan. 16, 1976, as amended at 41 FR 18071, Apr. 30, 1976; 41 FR 19932, May 14, 1976; 47 FR 5999, Feb. 10, 1982; 60 FR 54802, Oct. 26, 1995; 61 FR 21954, May 13, 1996; 63 FR 55794, Oct. 19, 1998; 63 FR 68829, Dec. 14, 1998; 64 FR 30903, June 9, 1999; 78 FR 12935, Feb. 26, 2013]
+(7 U.S.C. Secs. 4a, 12a; 5 U.S.C. Sec. 10)[41 FR 2511, Jan. 16, 1976, as amended at 41 FR 18071, Apr. 30, 1976; 41 FR 19932, May 14, 1976; 47 FR 5999, Feb. 10, 1982; 60 FR 54802, Oct. 26, 1995; 61 FR 21954, May 13, 1996; 63 FR 55794, Oct. 19, 1998; 63 FR 68829, Dec. 14, 1998; 64 FR 30903, June 9, 1999; 78 FR 12935, Feb. 26, 2013]

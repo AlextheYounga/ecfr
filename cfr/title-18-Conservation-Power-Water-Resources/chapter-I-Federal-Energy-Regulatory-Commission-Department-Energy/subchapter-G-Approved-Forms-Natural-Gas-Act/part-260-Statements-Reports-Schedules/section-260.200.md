@@ -46,7 +46,7 @@ Statement I
 
 Statement I furnishing the following statistical information relative to gas plant:
 
-Production Plantmanufactured gas
+Production Plant manufactured gas
 
 Show separately for each producing plant the name and location of plant, date of original construction, type of plant (whether coal gas, coke ovens, water gas, etc.), rated 24-hour capacity in Mcf of each unit and of the total plant, and date of installation of each unit installed after original construction. Show also the original cost according to the System of Accounts for each plant, by accounts 304 to 319, inclusive.
 

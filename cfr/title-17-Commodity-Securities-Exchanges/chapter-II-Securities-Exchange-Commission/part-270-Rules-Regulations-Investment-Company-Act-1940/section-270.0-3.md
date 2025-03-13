@@ -32,4 +32,4 @@ The facing sheet shall contain in addition any other information required on the
 
 (d) Each amendment shall have a signature sheet containing the form of signature required in the statement or report it amends.
 
-(Secs. 8, 30, 54 Stat. 803, 74 Stat. 201; 15 U.S.C. 80a-8, 80a-29) [Rule N-3, 6 FR 3966, Aug. 8, 1941, as amended at 33 FR 3217, Feb. 21, 1968]
+(Secs. 8, 30, 54 Stat. 803, 74 Stat. 201; 15 U.S.C. 80a-8, 80a-29)[Rule N-3, 6 FR 3966, Aug. 8, 1941, as amended at 33 FR 3217, Feb. 21, 1968]

@@ -274,7 +274,8 @@ b. Has not filed a registration statement or Form 8-K as required by Items 2.01 
 
 (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;
 
-(c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
+(c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls
+and procedures, as of the end of the period covered by this report based on such evaluation; and
 
 (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and
 
@@ -300,11 +301,11 @@ Date:[Signature][Title]
 
 4. [I am responsible for reviewing the activities performed by the servicer(s) and based on my knowledge and the compliance review(s) conducted in preparing the servicer compliance statement(s) required in this report under Item 1123 of Regulation AB, and except as disclosed in the Exchange Act periodic reports, the servicer(s) [has/have] fulfilled [its/their] obligations under the servicing agreement(s) in all material respects; and]
 
-[Based on my knowledge and the servicer compliance statement(s) required in this report under Item 1123 of Regulation AB, and except as disclosed in the Exchange Act periodic reports, the servicer(s) [has/have] fulfilled [its/their] obligations under the servicing agreement(s) in all material respects; and] 2
+[Based on my knowledge and the servicer compliance statement(s) required in this report under Item 1123 of Regulation AB, and except as disclosed in the Exchange Act periodic reports, the servicer(s) [has/have] fulfilled [its/their] obligations under the servicing agreement(s) in all material respects; and]2
 
-5. All of the reports on assessment of compliance with servicing criteria for asset-backed securities and their related attestation reports on assessment of compliance with servicing criteria for asset-backed securities required to be included in this report in accordance with Item 1122 of Regulation AB and Exchange Act Rules 13a-18 and 15d-18 have been included as an exhibit to this report, except as otherwise disclosed in this report. Any material instances of noncompliance described in such reports have been disclosed in this report on Form 10-K. 3
+5. All of the reports on assessment of compliance with servicing criteria for asset-backed securities and their related attestation reports on assessment of compliance with servicing criteria for asset-backed securities required to be included in this report in accordance with Item 1122 of Regulation AB and Exchange Act Rules 13a-18 and 15d-18 have been included as an exhibit to this report, except as otherwise disclosed in this report. Any material instances of noncompliance described in such reports have been disclosed in this report on Form 10-K.3
 
-[In giving the certifications above, I have reasonably relied on information provided to me by the following unaffiliated parties [name of servicer, sub-servicer, co-servicer, depositor or trustee].] 4
+[In giving the certifications above, I have reasonably relied on information provided to me by the following unaffiliated parties [name of servicer, sub-servicer, co-servicer, depositor or trustee].]4
 
 Date:[Signature][Title]
 

@@ -108,4 +108,4 @@ For the purposes of this part:
 
 (x) *Leverage transaction* means the purchase or sale of any leverage contract, the repurchase or resale of any leverage contract, the delivery of the leverage commodity, or the liquidation or rescission of any such leverage contract by or to the leverage transaction merchant.
 
-(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982)) [49 FR 5527, Feb. 13, 1984, as amended at 49 FR 25428, June 21, 1984; 50 FR 26, Jan. 2, 1985; 50 FR 36414, Sept. 6, 1985; 54 FR 41078, Oct. 5, 1989]
+(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982))[49 FR 5527, Feb. 13, 1984, as amended at 49 FR 25428, June 21, 1984; 50 FR 26, Jan. 2, 1985; 50 FR 36414, Sept. 6, 1985; 54 FR 41078, Oct. 5, 1989]

@@ -10,4 +10,4 @@
 
 (b) Loans made pursuant to this section shall be valued at the original principal amount of the loan less all payments made thereon which have been applied to the reduction of such principal amount.
 
-(Secs. 28(b), 38, 54 Stat. 832, 841; 15 U.S.C. 80a-28(b), 80a-38) [Rule N-28B-1, 11 FR 6483, June 13, 1946]
+(Secs. 28(b), 38, 54 Stat. 832, 841; 15 U.S.C. 80a-28(b), 80a-38)[Rule N-28B-1, 11 FR 6483, June 13, 1946]

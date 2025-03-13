@@ -6,4 +6,4 @@
 
 (c) Suspension of trading shall not terminate the registration of any security.
 
-(Sec. 12, 48 Stat. 892, as amended; 15 U.S.C. 78*l*) [28 FR 1506, Feb. 16, 1963]
+(Sec. 12, 48 Stat. 892, as amended; 15 U.S.C. 78*l*)[28 FR 1506, Feb. 16, 1963]

@@ -20,4 +20,4 @@ The monthly statement must also contain the following bold-faced legend in at le
 
 (c) With respect to any leverage account controlled by any person other than the leverage customer for whom the account is carried, except such leverage customer's spouse, parent or child, a copy of the statements required by paragraphs (a) and (b) of this section shall be sent to the controller of the account as well as to the leverage customer for whom such account is carried.
 
-(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982)) [49 FR 5539, Feb. 13, 1984, as amended at 50 FR 33, Jan. 2, 1985; 50 FR 2283, Jan. 16, 1985]
+(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982))[49 FR 5539, Feb. 13, 1984, as amended at 50 FR 33, Jan. 2, 1985; 50 FR 2283, Jan. 16, 1985]

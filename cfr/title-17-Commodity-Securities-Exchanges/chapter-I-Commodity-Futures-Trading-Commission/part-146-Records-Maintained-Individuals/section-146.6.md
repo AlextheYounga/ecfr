@@ -48,4 +48,4 @@
 
 (e) Whenever an amendment or correction of a record or a notation of dispute concerning the accuracy of records is made by the Commission in accordance with §§ 146.8 and 146.9 of these rules, the Commission will inform any person or other agency to whom the record was previously disclosed, if an accounting of the disclosure was made pursuant to the requirements of paragraph (c) of this section.
 
-(Secs. 2(a)(11), 8 and 8a of the Commodity Exchange Act, 7 U.S.C. 4a(j), 12 and 12a, as amended by Pub. L. 97-444) [41 FR 3212, Jan. 21, 1976, as amended at 41 FR 28261, July 9, 1976; 48 FR 22136, May 17, 1983; 49 FR 4465, Feb. 7, 1984; 60 FR 49335, Sept. 25, 1995; 89 FR 71818, Sept. 4, 2024]
+(Secs. 2(a)(11), 8 and 8a of the Commodity Exchange Act, 7 U.S.C. 4a(j), 12 and 12a, as amended by Pub. L. 97-444)[41 FR 3212, Jan. 21, 1976, as amended at 41 FR 28261, July 9, 1976; 48 FR 22136, May 17, 1983; 49 FR 4465, Feb. 7, 1984; 60 FR 49335, Sept. 25, 1995; 89 FR 71818, Sept. 4, 2024]

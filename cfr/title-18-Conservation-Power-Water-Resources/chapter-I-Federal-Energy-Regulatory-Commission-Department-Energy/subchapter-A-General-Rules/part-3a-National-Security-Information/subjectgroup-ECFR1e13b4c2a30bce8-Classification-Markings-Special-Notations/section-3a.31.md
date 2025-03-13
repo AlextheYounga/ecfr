@@ -24,7 +24,7 @@
 
 (1) If the covering document is classified on its own, but has enclosures or attachments of a higher classification, or is a component (i.e., an endorsement or comment) or a file in which other components bear a higher classification:
 
-Regarded(appropriate classification)When separated from(identify higher classified components)
+Regarded (appropriate classification) When separated from (identify higher classified components)
 
 (2) If unclassified when separated from its classified enclosures or attachments:
 
@@ -48,7 +48,7 @@ Special Handling Required Not Releasable to Foreign Nationals
 
 (4) The person or unit taking the action.
 
-When classification changes are made, the classification markings themselves will be changed or canceled, and each copy or item of the material will be marked with the citation of authority. The notation below will be used for this purpose:Classification(changed)(canceled)ToEffective on(date)Under authority of(authorizing official or office)By(person or office taking action)
+When classification changes are made, the classification markings themselves will be changed or canceled, and each copy or item of the material will be marked with the citation of authority. The notation below will be used for this purpose: Classification (changed) (canceled) To Effective on (date) Under authority of (authorizing official or office) By (person or office taking action)
 
 (h) In addition to the foregoing marking requirements, warning notices shall be displayed prominently on classified documents or materials as prescribed below. When display of these warning notices on the documents or other materials is not feasible, the warnings shall be included in the written notification of the assigned classification.
 

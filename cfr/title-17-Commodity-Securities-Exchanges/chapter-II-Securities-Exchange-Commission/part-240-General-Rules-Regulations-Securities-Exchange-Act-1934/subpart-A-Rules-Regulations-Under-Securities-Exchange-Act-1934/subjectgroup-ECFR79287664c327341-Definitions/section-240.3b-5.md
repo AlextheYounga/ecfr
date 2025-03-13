@@ -6,4 +6,4 @@
 
 (c) This rule shall apply to transactions of the character described in paragraph (a) of this section only with respect to bonds, notes, debentures or other evidences of indebtedness sold after December 31, 1968.
 
-(Sec. 3, 48 Stat. 882; 15 U.S.C. 78c, 77s) [33 FR 12648, Sept. 6, 1968, as amended at 35 FR 6000, Apr. 11, 1970]
+(Sec. 3, 48 Stat. 882; 15 U.S.C. 78c, 77s)[33 FR 12648, Sept. 6, 1968, as amended at 35 FR 6000, Apr. 11, 1970]

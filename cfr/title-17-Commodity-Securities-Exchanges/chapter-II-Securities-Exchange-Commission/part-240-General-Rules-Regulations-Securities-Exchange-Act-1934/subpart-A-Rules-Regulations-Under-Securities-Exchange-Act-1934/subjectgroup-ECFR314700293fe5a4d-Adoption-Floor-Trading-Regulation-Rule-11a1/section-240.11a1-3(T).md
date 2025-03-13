@@ -2,4 +2,4 @@
 
 A bona fide hedge transaction effected on a national securities exchange by a member for its own account or an account of an associated person thereof and involving a long or short position in a security entitling the holder to acquire or sell an equity security, and a long or short position in one or more other securities entitling the holder to acquire or sell such equity security, shall be deemed to be of a kind which is consistent with the purposes of section 11(a)(1) of the Act, the protection of investors, and the maintenance of fair and orderly markets.
 
-(Secs. 2, 3, 6, 11, 11A, and 23, 89 Stat. 97, 104, 110, 111, 156 (15 U.S.C. 78b, 78c, 78f, 78k, 78k-1, 78w); secs. 2, 3, 11, 23, 48 Stat. 881, 882, 885, 891, 901, as amended) [44 FR 6093, Jan. 31, 1979]
+(Secs. 2, 3, 6, 11, 11A, and 23, 89 Stat. 97, 104, 110, 111, 156 (15 U.S.C. 78b, 78c, 78f, 78k, 78k-1, 78w); secs. 2, 3, 11, 23, 48 Stat. 881, 882, 885, 891, 901, as amended)[44 FR 6093, Jan. 31, 1979]

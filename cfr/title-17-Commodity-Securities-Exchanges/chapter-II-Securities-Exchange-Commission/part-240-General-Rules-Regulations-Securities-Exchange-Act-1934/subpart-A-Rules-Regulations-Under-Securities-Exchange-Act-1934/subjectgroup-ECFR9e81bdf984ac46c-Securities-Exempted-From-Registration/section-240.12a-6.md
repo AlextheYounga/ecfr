@@ -14,4 +14,4 @@
 
 (3) Such underlying security is (i) duly listed and registered on another national securities exchange at the time the option is issued; or (ii) duly quoted on the National Association of Securities Dealers Automated Quotation System (“NASDAQ”) at the time the option is issued.
 
-(Secs. 3(a)(12); 48 Stat. 882, 84 Stat. 718, 1435, 1499 (15 U.S.C. 78(c))) [38 FR 11449, May 8, 1973, as amended at 50 FR 20203, May 15, 1985]
+(Secs. 3(a)(12); 48 Stat. 882, 84 Stat. 718, 1435, 1499 (15 U.S.C. 78(c)))[38 FR 11449, May 8, 1973, as amended at 50 FR 20203, May 15, 1985]

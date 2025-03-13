@@ -1,7 +1,5 @@
 ##### § 54.320 Compliance and recordkeeping for the high-cost program. #####
 
-Link to an amendment published at 89 FR 107233, Dec. 31, 2024.
-
 (a) Eligible telecommunications carriers authorized to receive universal service high-cost support are subject to random compliance audits and other investigations to ensure compliance with program rules and orders.
 
 (b) All eligible telecommunications carriers shall retain all records required to demonstrate to auditors that the support received was consistent with the universal service high-cost program rules. This documentation must be maintained for at least ten years from the receipt of funding. All such documents shall be made available upon request to the Commission and any of its Bureaus or Offices, the Administrator, and their respective auditors.
@@ -30,4 +28,6 @@ Link to an amendment published at 89 FR 107233, Dec. 31, 2024.
 
 (3) *Compliance reviews.* If subsequent to the eligible telecommunications carrier's support term, USAC determines in the course of a compliance review that the eligible telecommunications carrier does not have sufficient evidence to demonstrate that it is offering service to all of the locations required by the final milestone or, in the case of Alaska Plan participants, did not provide service consistent with the carrier's approved performance plan, USAC shall recover a percentage of support from the eligible telecommunications carrier as specified in paragraph (d)(2) of this section.
 
-[76 FR 73876, Nov. 29, 2011, as amended at 80 FR 4478, Jan. 27, 2015; 81 FR 69714, Oct. 7, 2016; 84 FR 67235, Dec. 9, 2019]
+(e) Each hex-9 in the Alaska Connect Fund mobile provider's performance plan shall be considered a “location” for purposes of paragraph (d) of this section.
+
+[76 FR 73876, Nov. 29, 2011, as amended at 80 FR 4478, Jan. 27, 2015; 81 FR 69714, Oct. 7, 2016; 84 FR 67235, Dec. 9, 2019; 89 FR 107233, Dec. 31, 2024]

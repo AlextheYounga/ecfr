@@ -10,4 +10,4 @@
 
 (d) Any reference in this section to a security registered pursuant to section 12(g) of the Act shall include, and any reference to a security not so registered shall exclude, any security as to which a registration statement pursuant to such section is at the time required to be effective.
 
-(Sec. 3, 78 Stat. 565, 15 U.S.C. 78*l*) [30 FR 482, Jan. 14, 1965]
+(Sec. 3, 78 Stat. 565, 15 U.S.C. 78*l*)[30 FR 482, Jan. 14, 1965]

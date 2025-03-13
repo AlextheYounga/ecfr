@@ -6,7 +6,7 @@
 
 (c) The scope of this section shall not be limited by any specific definitions of the term “manipulative, deceptive, or other fraudulent device or contrivance” contained in other rules adopted pursuant to section 15(c)(1) of the act.
 
-(Sec. 2, 52 Stat. 1075; 15 U.S.C. 78*o*) Cross Reference:
+(Sec. 2, 52 Stat. 1075; 15 U.S.C. 78*o*)Cross Reference:
 
 For regulation prohibiting employment of manipulative and deceptive devices as such term is used in section 15 of the Act, by any broker or dealer, see § 240.10b-3.
 

@@ -8,4 +8,4 @@
 
 (b) This rule shall not apply to any offer or sale of securities as to which the seller has a firm commitment from underwriters or others (subject only to customary conditions precedent, including “market outs”) for the purchase of all the securities being offered.
 
-(Sec. 10, 48 Stat. 891, as amended; 15 U.S.C. 78j) [27 FR 9943, Oct. 10, 1962]
+(Sec. 10, 48 Stat. 891, as amended; 15 U.S.C. 78j)[27 FR 9943, Oct. 10, 1962]

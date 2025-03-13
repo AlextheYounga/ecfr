@@ -6,7 +6,8 @@
 
 (A) The covered investment fund:
 
-(*1*) Has been subject to the reporting requirements of section 30 of the Investment Company Act of 1940 (the “Investment Company Act”) (15 U.S.C. 80a-29) for a period of at least 12 calendar months and has filed in a timely manner all of the reports required, as applicable, to be filed for the immediately preceding 12 calendar months on Forms N-CSR (§§ 249.331 and 274.128 of this chapter), N-PORT (§ 274.150 of this chapter), N-MFP (§ 274.201 of this chapter), and N-CEN (§§ 249.330 and 274.101 of this chapter) pursuant to section 30 of the Investment Company Act; or
+(*1*) Has been subject to the reporting requirements of section 30 of the Investment Company Act of 1940 (the “Investment Company Act”) (15 U.S.C. 80a-29) for a period of at least 12 calendar months and has filed in a timely manner all of the reports required, as applicable, to be filed for the immediately preceding 12 calendar months on Forms N-CSR (§§ 249.331 and 274.128 of this chapter),
+N-PORT (§ 274.150 of this chapter), N-MFP (§ 274.201 of this chapter), and N-CEN (§§ 249.330 and 274.101 of this chapter) pursuant to section 30 of the Investment Company Act; or
 
 (*2*) If the covered investment fund is not a registered investment company under the Investment Company Act, has been subject to the reporting requirements of section 13 or section 15(d) of the Securities Exchange Act of 1934 (the “Exchange Act”) (15 U.S.C. 78m or 78o(d)) for a period of at least 12 calendar months and has filed in a timely manner all of the reports required to be filed for the immediately preceding 12 calendar months on Forms 10-K (§ 249.310 of this chapter) and 10-Q (§ 249.308a of this chapter), or 20-F (§ 249.220f of this chapter) pursuant to section 13 or section 15(d) of the Exchange Act; and
 

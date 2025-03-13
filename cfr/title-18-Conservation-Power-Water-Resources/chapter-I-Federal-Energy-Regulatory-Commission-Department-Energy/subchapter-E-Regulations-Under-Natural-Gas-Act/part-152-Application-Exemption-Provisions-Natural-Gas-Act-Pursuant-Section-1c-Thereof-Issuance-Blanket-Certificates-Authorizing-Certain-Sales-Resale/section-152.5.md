@@ -2,4 +2,4 @@
 
 Nothing in this part shall be construed to relieve any person exempted from the provisions of the Natural Gas Act by section 1(c) thereof from compliance with valid State regulatory requirements. If an exemption from the provisions of the Natural Gas Act is effective pursuant to section 1(c), the exempted person shall be responsible for calling to the attention of the State Commission by which it is regulated and of the Federal Energy Regulatory Commission any future operations in which it may engage which may make the exemption inapplicable to it. The exempted person shall also be responsible for calling to the attention of the Federal Energy Regulatory Commission any changes, amendment, or judicial or administrative interpretation of the State law pursuant to which it is regulated, which may make the exemption inapplicable to it.
 
-(Sec. 1(c), 68 Stat. 36; 15 U.S.C. 717(c))[Order 306, 30 FR 12729, Oct. 6, 1965, as amended by Order 737, 75 FR 43404, July 26, 2010]
+(Sec. 1(c), 68 Stat. 36; 15 U.S.C. 717(c)) [Order 306, 30 FR 12729, Oct. 6, 1965, as amended by Order 737, 75 FR 43404, July 26, 2010]

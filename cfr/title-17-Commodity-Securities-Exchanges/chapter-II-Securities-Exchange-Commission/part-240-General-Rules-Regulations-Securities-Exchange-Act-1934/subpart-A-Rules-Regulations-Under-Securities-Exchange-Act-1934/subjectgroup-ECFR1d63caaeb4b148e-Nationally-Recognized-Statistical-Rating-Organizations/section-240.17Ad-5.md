@@ -32,4 +32,4 @@
 
 (2) When any person makes a written inquiry or request which would qualify under paragraph (e) of this section except that it fails to provide sufficient detail as specified in paragraph (e)(3)(iii) of this section, a registered transfer agent must respond to the inquiry within the time periods specified in paragraph (e)(1) of this section. A registered transfer agent may respond to such an inquiry in accordance with paragraph (e)(1) of this section as though sufficient detail had been provided, or may return it to the inquirer, requesting the additional necessary details.
 
-(Secs. 2, 17, 17A and 23(a) (15 U.S.C. 78b, 78q, 78q-1 and 78w(a))) [42 FR 32413, June 24, 1977, as amended at 51 FR 5707, Feb. 18, 1986]
+(Secs. 2, 17, 17A and 23(a) (15 U.S.C. 78b, 78q, 78q-1 and 78w(a)))[42 FR 32413, June 24, 1977, as amended at 51 FR 5707, Feb. 18, 1986]

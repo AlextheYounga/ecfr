@@ -32,4 +32,4 @@
 
 (f) A registered investment company may make one additional distribution of long-term capital gains, as defined in the Code, with respect to any one taxable year of the company, which distribution is made, in whole or in part, for the purpose of not incurring any tax under section 4982 of the Code. Such additional distribution may be made prior or subsequent to any distribution otherwise permitted by paragraph (a) of this section.
 
-(Secs. 6(c), 19(b) (15 U.S.C. 80a-19(b), and sec. 38(a))) [36 FR 22901, Dec. 2, 1971, as amended at 44 FR 29647, May 22, 1979; 44 FR 40064, July 9, 1979; 52 FR 42428, Nov. 5, 1987]
+(Secs. 6(c), 19(b) (15 U.S.C. 80a-19(b), and sec. 38(a)))[36 FR 22901, Dec. 2, 1971, as amended at 44 FR 29647, May 22, 1979; 44 FR 40064, July 9, 1979; 52 FR 42428, Nov. 5, 1987]

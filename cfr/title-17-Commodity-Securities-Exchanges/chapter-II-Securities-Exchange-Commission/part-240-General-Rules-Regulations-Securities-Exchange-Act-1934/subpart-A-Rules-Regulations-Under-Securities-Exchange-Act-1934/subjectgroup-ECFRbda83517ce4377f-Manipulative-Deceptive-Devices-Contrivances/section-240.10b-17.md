@@ -46,4 +46,4 @@
 
 (c) The provisions of this rule shall not apply, however, to redeemable securities issued by open-end investment companies and unit investment trusts registered with the Commission under the Investment Company Act of 1940.
 
-(Secs. 10(b), 23(a), 48 Stat. 891, as amended, 49 Stat. 1379, 15 U.S.C. 78j) [36 FR 11514, June 15, 1971, as amended at 37 FR 4330, Mar. 2, 1972]
+(Secs. 10(b), 23(a), 48 Stat. 891, as amended, 49 Stat. 1379, 15 U.S.C. 78j)[36 FR 11514, June 15, 1971, as amended at 37 FR 4330, Mar. 2, 1972]

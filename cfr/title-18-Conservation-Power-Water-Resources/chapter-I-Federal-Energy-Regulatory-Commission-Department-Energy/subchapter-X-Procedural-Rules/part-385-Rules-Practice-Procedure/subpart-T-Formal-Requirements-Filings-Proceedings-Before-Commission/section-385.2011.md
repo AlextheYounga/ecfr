@@ -54,4 +54,4 @@
 
 (4) *Decision on petition.* The Commission or its designee will review a petition for waiver and notify the applicant of its grant or denial. Once the petition is decided, the natural gas company, electric utility, licensee or other entity will have 30 days from the date of notification of the decision to submit any information, in the manner specified by the Commission in the decision on the waiver petition, that was required to be filed while the petition was pending.
 
-[53 FR 15032, Apr. 27, 1988]Editorial Note:For Federal Register citations affecting § 385.2011, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[53 FR 15032, Apr. 27, 1988] Editorial Note:For Federal Register citations affecting § 385.2011, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

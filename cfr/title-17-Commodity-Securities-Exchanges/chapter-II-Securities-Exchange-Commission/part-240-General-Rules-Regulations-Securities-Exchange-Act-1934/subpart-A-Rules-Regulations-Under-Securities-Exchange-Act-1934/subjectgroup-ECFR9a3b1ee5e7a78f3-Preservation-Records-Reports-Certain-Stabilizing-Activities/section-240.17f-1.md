@@ -136,4 +136,4 @@
 
 (g) *Recordkeeping.* Every reporting institution shall maintain and preserve in an easily accessible place for three years copies of all Forms X-17F-1A filed pursuant to this section, all agreements between reporting institutions regarding registration or other aspects of this section, and all confirmations or other information received from the Commission or its designee as a result of inquiry.
 
-(Secs. 2, 17, and 23, 15 U.S.C. 78b, 78q, 78w) [44 FR 31503, May 31, 1979; 45 FR 14022, Mar. 3, 1980, as amended at 53 FR 37289, Sept. 26, 1988; 53 FR 40721, Oct. 18, 1988; 68 FR 74400, Dec. 23, 2003]
+(Secs. 2, 17, and 23, 15 U.S.C. 78b, 78q, 78w)[44 FR 31503, May 31, 1979; 45 FR 14022, Mar. 3, 1980, as amended at 53 FR 37289, Sept. 26, 1988; 53 FR 40721, Oct. 18, 1988; 68 FR 74400, Dec. 23, 2003]
