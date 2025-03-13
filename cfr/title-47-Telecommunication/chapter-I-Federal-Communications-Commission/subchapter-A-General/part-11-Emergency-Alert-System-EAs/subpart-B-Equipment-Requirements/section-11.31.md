@@ -1,5 +1,7 @@
 ##### § 11.31 EAS protocol. #####
 
+Link to an amendment published at 89 FR 72737, Sept. 6, 2024.
+
 (a) The EAS uses a four part message for an emergency activation of the EAS. The four parts are: Preamble and EAS Header Codes; audio Attention Signal; message; and, Preamble and EAS End Of Message (EOM) Codes.
 
 (1) The Preamble and EAS Codes must use Audio Frequency Shift Keying at a rate of 520.83 bits per second to transmit the codes. Mark frequency is 2083.3 Hz and space frequency is 1562.5 Hz. Mark and space time must be 1.92 milliseconds. Characters are ASCII seven bit characters as defined in ANSI X3.4-1977 ending with an eighth null bit (either 0 or 1) to constitute a full eight-bit byte.

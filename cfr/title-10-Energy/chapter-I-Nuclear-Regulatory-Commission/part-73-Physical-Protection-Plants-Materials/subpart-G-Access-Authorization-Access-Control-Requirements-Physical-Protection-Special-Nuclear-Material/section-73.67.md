@@ -150,7 +150,9 @@
 
 (ii) Make arrangements to be notified immediately of the arrival of the shipment at its destination, or of any such shipment that is lost or unaccounted for after the estimated time of arrival at its destination, and
 
-(iii) Conduct immediately a trace investigation of any shipment that is lost or unaccounted for after the estimated arrival time and notify the NRC Headquarters Operations Center by telephone at the numbers specified in appendix A to this part within 1 hour after the discovery of the loss of the shipment and within 1 hour after recovery of or accounting for such lost shipment in accordance with the provisions of § 73.71 of this part.
+(iii)(A) Immediately conduct a trace investigation of any shipment that is lost or unaccounted for after the estimated arrival time; and
+
+(B) Notify the NRC Operations Center after the discovery of the loss of the shipment and after recovery of or accounting for such lost shipment, in accordance with the provisions of §§ 73.1200 and 73.1205 of this part.
 
 (4) Each licensee who exports special nuclear material of low strategic significance shall comply with the appropriate requirements specified in paragraphs (c) and (g) (1) and (3) of this section. The licensee shall retain each record required by these sections for three years after the close of period for which the licensee possesses the special nuclear material under each license that authorizes the licensee to export this material. Copies of superseded material must be retained for three years after each change.
 
