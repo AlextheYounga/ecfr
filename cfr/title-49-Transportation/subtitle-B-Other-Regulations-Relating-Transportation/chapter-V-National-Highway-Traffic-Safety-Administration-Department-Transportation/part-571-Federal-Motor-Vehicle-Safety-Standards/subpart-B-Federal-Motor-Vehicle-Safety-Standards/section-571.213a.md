@@ -70,8 +70,6 @@ S5.1.5 *Belt buckle release.* Any buckle in a child restraint system belt assemb
 
 S5.1.6  *Installation.* Each add-on child restraint system shall be capable of meeting the requirements of this standard when installed solely by each of the means indicated in the following table:
 
-Table 1 to S5.1.6
-
 |Type of add-on child restraint system|                    Means of installation                     |                                                              |                                                                                                  |   |
 |-------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---|
 |  Type II seat belt  <br/>assembly   |Type II seat belt  <br/>assembly plus a  <br/>tether if needed|Lower anchorages of the child restraint  <br/>anchorage system|Lower anchorages of the child restraint  <br/>anchorage system  <br/>plus a tether  <br/>if needed|   |
@@ -174,4 +172,4 @@ S9.3 *3-year-old side impact dummy (Q3s) (49 CFR part 572, subpart W) in rear-fa
 
 (d) After the steps specified in paragraph (c) of this section, rotate each dummy arm downwards in the plane parallel to the dummy's midsagittal plane until the limb is positioned at a 25-degree angle with respect to the thorax.
 
-![](/graphics/er30jn22.018.gif)![](/graphics/er30jn22.019.gif)![](/graphics/er30jn22.020.gif)![](/graphics/er30jn22.021.gif)![](/graphics/er30jn22.022.gif)![](/graphics/er30jn22.023.gif)![](/graphics/er30jn22.024.gif)![](/graphics/er30jn22.025.gif)![](/graphics/er30jn22.026.gif){87 FR 39310, June 30, 2022]
+![](/graphics/er30jn22.018.gif)![](/graphics/er30jn22.019.gif)![](/graphics/er30jn22.020.gif)![](/graphics/er30jn22.021.gif)![](/graphics/er30jn22.022.gif)![](/graphics/er30jn22.023.gif)![](/graphics/er30jn22.024.gif)![](/graphics/er30jn22.025.gif)![](/graphics/er30jn22.026.gif)[87 FR 39310, June 30, 2022]

@@ -1,5 +1,7 @@
 ##### § 286.9 Responses to requests. #####
 
+Link to an amendment published at 88 FR 84238, Dec. 5, 2023.
+
 (a) *In general.* DoD FOIA RSCs will, to the extent practicable, communicate with requesters having access to the Internet using electronic means, such as email or web portal.
 
 (b) *Acknowledgments of requests.* DoD Components will acknowledge requests in writing and assign individualized tracking numbers. DoD Components will include these tracking numbers and any tracking numbers used by FOIA requesters in all correspondence.

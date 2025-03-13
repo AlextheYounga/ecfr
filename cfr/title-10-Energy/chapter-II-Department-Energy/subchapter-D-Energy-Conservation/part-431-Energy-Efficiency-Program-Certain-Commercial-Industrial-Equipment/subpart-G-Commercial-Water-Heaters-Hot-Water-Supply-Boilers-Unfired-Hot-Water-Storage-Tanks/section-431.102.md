@@ -1,7 +1,5 @@
 ##### § 431.102 Definitions concerning commercial water heaters, hot water supply boilers, unfired hot water storage tanks, and commercial heat pump water heaters. #####
 
-Link to an amendment published at 88 FR 69821, Oct. 6, 2023.
-
 The following definitions apply for purposes of this subpart G, and of subparts J through M of this part. Any words or terms not defined in this section or elsewhere in this part shall be defined as provided in section 340 of the Act, 42 U.S.C. 6311.
 
 *Air-source commercial heat pump water heater* means a commercial heat pump water heater that utilizes indoor or outdoor air as the heat source.
@@ -68,7 +66,7 @@ The following definitions apply for purposes of this subpart G, and of subparts 
 
 (2) For gas-fired and oil-fired commercial water heating equipment, the average hourly energy required to maintain the stored water temperature expressed in British thermal units per hour (Btu/h) based on a 70 °F temperature differential between stored water and ambient room temperature and determined in accordance with appendix A or C to subpart G of part 431 (as applicable), denoted by the term “SL.”
 
-*Storage-type instantaneous water heater* means an instantaneous water heater that includes a storage tank with a storage volume greater than or equal to 10 gallons.
+*Storage-type instantaneous water heater* means an instantaneous water heater that includes a storage tank with a rated storage volume greater than or equal to 10 gallons.
 
 *Storage water heater* means a water heater that uses gas, oil, or electricity to heat and store water within the appliance at a thermostatically-controlled temperature for delivery on demand, including:
 
@@ -84,4 +82,4 @@ The following definitions apply for purposes of this subpart G, and of subparts 
 
 *Unfired hot water storage tank* means a tank used to store water that is heated externally, and that is industrial equipment.
 
-[69 FR 61983, Oct. 21, 2004, as amended at 76 FR 12503, Mar. 7, 2011; 78 FR 79599, Dec. 31, 2013; 79 FR 40586, July 11, 2014; 81 FR 79321, Nov. 10, 2016; 88 FR 40494, June 21, 2023]
+[69 FR 61983, Oct. 21, 2004, as amended at 76 FR 12503, Mar. 7, 2011; 78 FR 79599, Dec. 31, 2013; 79 FR 40586, July 11, 2014; 81 FR 79321, Nov. 10, 2016; 88 FR 40494, June 21, 2023; 88 FR 69821, Oct. 6, 2023]

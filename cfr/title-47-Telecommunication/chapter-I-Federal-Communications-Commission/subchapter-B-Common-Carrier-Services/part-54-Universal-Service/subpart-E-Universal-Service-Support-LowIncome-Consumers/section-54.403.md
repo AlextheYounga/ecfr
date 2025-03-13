@@ -1,5 +1,7 @@
 ##### § 54.403 Lifeline support amount. #####
 
+Link to an amendment published at 88 FR 84446, Dec. 5, 2023.
+
 (a) The federal Lifeline support amount for all eligible telecommunications carriers shall equal:
 
 (1) *Basic support amount.* Federal Lifeline support in the amount of $9.25 per month will be made available to an eligible telecommunications carrier providing Lifeline service to a qualifying low-income consumer, except as provided in paragraph (a)(2) of this section, if that carrier certifies to the Administrator that it will pass through the full amount of support to the qualifying low-income consumer and that it has received any non-federal regulatory approvals necessary to implement the rate reduction.

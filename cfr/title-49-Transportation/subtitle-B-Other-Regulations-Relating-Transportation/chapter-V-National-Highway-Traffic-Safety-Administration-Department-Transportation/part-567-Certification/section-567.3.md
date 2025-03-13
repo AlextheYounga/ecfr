@@ -30,4 +30,4 @@ All terms that are defined in the Act and the rules and standards issued under i
 
 *Replica motor vehicle* means a motor vehicle meeting the definition of replica motor vehicle in 49 CFR part 586.
 
-[70 FR 7430, Feb. 14, 2005, as amended at 87 FR 13232, Mar. 9, 2022
+[70 FR 7430, Feb. 14, 2005, as amended at 87 FR 13232, Mar. 9, 2022]

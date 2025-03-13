@@ -1,8 +1,6 @@
 ##### § 431.105 Materials incorporated by reference. #####
 
-Link to an amendment published at 88 FR 69821, Oct. 6, 2023.
-
-(a) *General.* DOE incorporates by reference the following test procedures into subpart G of part 431. The materials listed have been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Any subsequent amendment to the listed materials by the standard-setting organization will not affect the DOE regulations unless and until such regulations are amended by DOE. Materials are incorporated as they exist on the date of the approval, and a notice of any change in the materials will be published in the Federal Register. All approved materials are available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Also, this material is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 6th Floor, 950 L'Enfant Plaza, SW., Washington, DC 20024, (202) 586-2945, or go to: *http://www1.eere.energy.gov/buildings/appliance\_standards* The referenced test procedure standards are listed below by relevant standard-setting organization, along with information on how to obtain copies from those sources.
+(a) Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the DOE must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at DOE and at the National Archives and Records Administration (NARA). Contact DOE at: the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 1000 Independence Avenue SW, EE-5B, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, www.energy.gov/eere/buildings/building-technologies-office.* For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email: *fr.inspection@nara.gov.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) *ASHRAE.* American Society of Heating, Refrigerating and Air-Conditioning Engineers, 1791 Tullie Circle NE. Atlanta, GA 30329, (800) 527-4723, or go to *https://www.ashrae.org.*
 
@@ -46,4 +44,4 @@ Link to an amendment published at 88 FR 69821, Oct. 6, 2023.
 
 (2) [Reserved]
 
-[77 FR 28996, May 16, 2012, as amended at 81 FR 79322, Nov. 10, 2016]
+[77 FR 28996, May 16, 2012, as amended at 81 FR 79322, Nov. 10, 2016; 88 FR 69821, Oct. 6, 2023]

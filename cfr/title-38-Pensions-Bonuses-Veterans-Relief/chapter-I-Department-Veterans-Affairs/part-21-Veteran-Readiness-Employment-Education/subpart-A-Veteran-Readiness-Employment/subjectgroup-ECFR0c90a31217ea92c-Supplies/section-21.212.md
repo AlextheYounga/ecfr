@@ -2,7 +2,7 @@
 
 (a) *Furnishing necessary supplies during a period of rehabilitation services.* A veteran will be furnished supplies that are necessary for a program of rehabilitation services. For example, a veteran training in a school will be furnished the supplies needed to pursue the school course. If additional supplies are subsequently needed to secure employment, they will be furnished during the period of employment services as provided in § 21.214(d).
 
-(b) *Determining supplies needed during a period of rehabilitation.* Subject to the provisions of §§ 21.210 through 21.222, VA will authorize only those supplies which are required:
+(b) *Determining supplies needed during a period of rehabilitation.* Subject to the provisions of §§ 21.210 through 21.220, VA will authorize only those supplies which are required:
 
 (1) To be used by similarly circumstanced non-disabled persons in the same training or employment situation;
 
@@ -24,4 +24,4 @@
 
 (f) *Responsibility for authorization of supplies.* The case manager is responsible for the authorization of supplies, subject to requirements for prior approval contained in § 21.258 and other instructions governing payment of program charges.
 
-(Authority: 38 U.S.C. 3106(e))
+(Authority: 38 U.S.C. 3106(e))[49 FR 40814, Oct. 18, 1984, as amended at 88 FR 84240, Dec. 5, 2023]

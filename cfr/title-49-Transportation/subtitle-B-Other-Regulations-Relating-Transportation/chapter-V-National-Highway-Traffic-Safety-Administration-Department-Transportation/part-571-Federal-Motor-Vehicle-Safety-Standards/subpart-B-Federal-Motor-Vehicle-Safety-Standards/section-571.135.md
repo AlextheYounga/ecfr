@@ -290,8 +290,6 @@ S6.5.6. *Initial brake temperature (IBT).* If the lower limit of the specified I
 
 S7. *Road test procedures and performance requirements.* Each vehicle shall meet all the applicable requirements of this section, when tested according to the conditions and procedures set forth below and in S6, in the sequence specified in Table 1:
 
-Table 1—Road Test Sequence
-
 |        Testing order        |Section No.|
 |-----------------------------|-----------|
 |   Vehicle loaded to GVWR:   |           |
@@ -472,11 +470,11 @@ S7.4.4. *Data reduction.* (a) The data from each brake application under S7.4.3 
 
 (f) Calculate the braking ratio of the vehicle as a function of the front brake line pressure using the following equation:
 
-![](/graphics/ec01au91.071.gif)where z = braking ratio at a given front line pressure;T1, T2 = Braking forces at the front and rear axles, respectively, corresponding to the same front brake line pressure, andP = total vehicle weight.
+![](/graphics/ec01au91.071.gif)Where:z = braking ratio at a given front line pressure;T1, T2 = Braking forces at the front and rear axles, respectively, corresponding to the same front brake line pressure, andP = total vehicle weight.
 
 (g) Calculate the adhesion utilized at each axle as a function of braking ratio using the following equations:
 
-![](/graphics/er02fe95.014.gif)where fi = adhesion utilized by axle iTi = braking force at axle i (from (e))Pi = static weight on axle ii = 1 for the front axle, or 2 for the rear axlez = braking ratio (from (f))h = height of center of gravity of the vehicleP = total vehicle weightE = wheelbase
+![](/graphics/er02fe95.014.gif)Where:fi = adhesion utilized by axle iTi = braking force at axle i (from (e))Pi = static weight on axle ii = 1 for the front axle, or 2 for the rear axlez = braking ratio (from (f))h = height of center of gravity of the vehicleP = total vehicle weightE = wheelbase
 
 (h) Plot f1 and f2 obtained in (g) as a function of z, for both GVWR and LLVW load conditions. These are the adhesion utilization curves for the vehicle, which are compared to the performance requirements in S7.4.5. shown graphically in Figure 2:
 
@@ -828,7 +826,7 @@ S7.14.3. *Test conditions and procedures.* (a) IBT: Temperature achieved at comp
 
 S7.14.4. *Performance requirements.* (a) For the first hot stop, the stopping distance must be less than or equal to a calculated distance which is based on 60 percent of the deceleration actually achieved on the shortest GVWR cold effectiveness stop. The following equations shall be used in calculating the performance requirement:
 
-![](/graphics/er02fe95.015.gif)where dc = the average deceleration actually achieved during the shortest cold effectiveness stop at GVWR (m/s2),Sc = actual stopping distance measured on the shortest cold effectiveness stop at GVWR (m), andV = cold effectiveness test speed (km/h).
+![](/graphics/er02fe95.015.gif)Where:dc = the average deceleration actually achieved during the shortest cold effectiveness stop at GVWR (m/s2),Sc = actual stopping distance measured on the shortest cold effectiveness stop at GVWR (m), andV = cold effectiveness test speed (km/h).
 
 (b) In addition to the requirement in S7.14.4(a), the stopping distance for at least one of the two hot stops must be S ≤89 m (292 ft) from a test speed of 100 km/h (62.1 mph) or, for reduced test speed, S ≤0.10V + 0.0079V2. The results of the second stop may not be used to meet the requirements of S7.14.4(a).
 
@@ -910,4 +908,4 @@ S7.17. *Final Inspection.* Inspect:
 
 (d) The brake system indicators, for compliance with operation in various key positions, lens color, labeling, and location, in accordance with S5.5.
 
-[60 FR 6434, Feb. 2, 1995, as amended at 60 FR 37847, July 24, 1995; 60 FR 44548, Aug. 28, 1995; 62 FR 46917, Sept. 5, 1997; 62 FR 51070, Sept. 30, 1997; 65 FR 6332, Feb. 9, 2000; 70 FR 37713, June 30, 2005; 77 FR 760, Jan. 6, 2012; 86 FR 1300, Jan. 8, 2020; 87 FR 34810, June 8, 2022]
+[60 FR 6434, Feb. 2, 1995, as amended at 60 FR 37847, July 24, 1995; 60 FR 44548, Aug. 28, 1995; 62 FR 46917, Sept. 5, 1997; 62 FR 51070, Sept. 30, 1997; 65 FR 6332, Feb. 9, 2000; 70 FR 37713, June 30, 2005; 77 FR 760, Jan. 6, 2012; 86 FR 1300, Jan. 8, 2021; 87 FR 34810, June 8, 2022]

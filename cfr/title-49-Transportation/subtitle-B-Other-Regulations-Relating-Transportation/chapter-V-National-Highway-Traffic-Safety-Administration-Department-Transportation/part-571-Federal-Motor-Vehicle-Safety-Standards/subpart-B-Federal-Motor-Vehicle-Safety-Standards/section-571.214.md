@@ -316,9 +316,7 @@ S9.2.1 *Dynamic performance requirements using the Part 572 Subpart U (ES-2re 50
 
 (a) The HIC shall not exceed 1000 when calculated in accordance with the following formula:
 
-![](/graphics/er11se07.005.gif)
-
-Where the term *a* is the resultant head acceleration at the center of gravity of the dummy head expressed as a multiple of g (the acceleration of gravity), and t1 and t2 are any two points in time during the impact which are separated by not more than a 36 millisecond time interval and where t1 is less than t2.
+![](/graphics/er11se07.005.gif)Where the term *a* is the resultant head acceleration at the center of gravity of the dummy head expressed as a multiple of g (the acceleration of gravity), and t1 and t2 are any two points in time during the impact which are separated by not more than a 36 millisecond time interval and where t1 is less than t2.
 
 (b) Thorax. The deflection of any of the upper, middle, and lower ribs, shall not exceed 44 mm (1.73 inches).
 
@@ -332,9 +330,7 @@ S9.2.2 *Dynamic performance requirements using the Part 572 Subpart V SID-IIs (5
 
 (a) The HIC shall not exceed 1000 when calculated in accordance with the following formula:
 
-![](/graphics/er11se07.006.gif)
-
-Where the term *a* is the resultant head acceleration at the center of gravity of the dummy head expressed as a multiple of g (the acceleration of gravity), and t1 and t2 are any two points in time during the impact which are separated by not more than a 36 millisecond time interval and where t1 is less than t2.
+![](/graphics/er11se07.006.gif)Where the term *a* is the resultant head acceleration at the center of gravity of the dummy head expressed as a multiple of g (the acceleration of gravity), and t1 and t2 are any two points in time during the impact which are separated by not more than a 36 millisecond time interval and where t1 is less than t2.
 
 (b) Resultant lower spine acceleration must not exceed 82 g.
 
@@ -810,4 +806,4 @@ S13.4 *Calculation of complying vehicles.*
 
 (e) For the purposes of calculating average annual production of vehicles for each manufacturer and the number of vehicles manufactured by each manufacturer, each vehicle that is excluded from having to meet the applicable requirement is not counted.
 
-[72 FR 51957, Sept. 11, 2007, as amended at 73 FR 32483, June 9, 2008; 75 FR 12139, Mar. 15, 2010; 77 FR 767, Jan. 6, 2012; 76 FR 52884, Aug. 24, 2011; 77 FR 70914, Nov. 28, 2012; 87 FR 39310, June 30, 2022; 87 FR 18597, Mar. 30, 2022]
+[72 FR 51957, Sept. 11, 2007, as amended at 73 FR 32483, June 9, 2008; 75 FR 12139, Mar. 15, 2010; 77 FR 767, Jan. 6, 2012; 76 FR 52884, Aug. 24, 2011; 77 FR 70914, Nov. 28, 2012; 85 FR 85535, Dec. 29, 2020; 87 FR 39310, June 30, 2022; 87 FR 18597, Mar. 30, 2022]

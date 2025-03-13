@@ -1,5 +1,7 @@
 ##### § 54.405 Carrier obligation to offer Lifeline. #####
 
+Link to an amendment published at 88 FR 84446, Dec. 5, 2023.
+
 All eligible telecommunications carriers must:
 
 (a) Make available Lifeline service, as defined in § 54.401, to qualifying low-income consumers.

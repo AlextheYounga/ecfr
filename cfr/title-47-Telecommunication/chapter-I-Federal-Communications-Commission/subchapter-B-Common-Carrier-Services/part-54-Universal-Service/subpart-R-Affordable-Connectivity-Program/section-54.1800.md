@@ -1,5 +1,7 @@
 ##### § 54.1800 Definitions. #####
 
+Link to an amendment published at 88 FR 84447, Dec. 5, 2023.
+
 (a) *Administrator.* The term “Administrator” means the Universal Service Administrative Company.
 
 (b) *Affordable connectivity benefit.* The term “affordable connectivity benefit” means a monthly discount for an eligible household, applied to the actual amount charged to such household, in an amount equal to such amount charged, but not more than $30, or, if an internet service offering is provided to an eligible household on Tribal land, not more than $75.

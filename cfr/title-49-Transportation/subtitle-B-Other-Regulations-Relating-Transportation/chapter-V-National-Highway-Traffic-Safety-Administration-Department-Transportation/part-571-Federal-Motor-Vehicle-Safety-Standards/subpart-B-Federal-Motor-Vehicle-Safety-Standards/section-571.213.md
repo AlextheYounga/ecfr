@@ -1,5 +1,7 @@
 ##### § 571.213 Standard No. 213; Child restraint systems. #####
 
+Link to an amendment published at 88 FR 84587, Dec. 5, 2023.
+
 S1. *Scope.* This standard specifies requirements for child restraint systems used in motor vehicles and aircraft.
 
 S2. *Purpose.* The purpose of this standard is to reduce the number of children killed or injured in motor vehicle crashes and in aircraft.

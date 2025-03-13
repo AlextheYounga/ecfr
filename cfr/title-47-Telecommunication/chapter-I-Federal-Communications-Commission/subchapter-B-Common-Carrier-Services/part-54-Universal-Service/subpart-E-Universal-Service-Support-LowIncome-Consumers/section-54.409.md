@@ -1,5 +1,7 @@
 ##### § 54.409 Consumer qualification for Lifeline. #####
 
+Link to an amendment published at 88 FR 84447, Dec. 5, 2023.
+
 (a) To constitute a qualifying low-income consumer:
 
 (1) A consumer's household income as defined in § 54.400(f) must be at or below 135% of the Federal Poverty Guidelines for a household of that size; or

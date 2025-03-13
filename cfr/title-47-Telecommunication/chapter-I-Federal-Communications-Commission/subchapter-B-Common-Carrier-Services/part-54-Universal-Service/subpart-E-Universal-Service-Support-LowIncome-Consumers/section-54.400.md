@@ -1,5 +1,7 @@
 ##### 54.400 Terms and definitions. #####
 
+Link to an amendment published at 88 FR 84446, Dec. 5, 2023.
+
 As used in this subpart, the following terms shall be defined as follows:
 
 (a) *Qualifying low-income consumer.* A “qualifying low-income consumer” is a consumer who meets the qualifications for Lifeline, as specified in § 54.409.

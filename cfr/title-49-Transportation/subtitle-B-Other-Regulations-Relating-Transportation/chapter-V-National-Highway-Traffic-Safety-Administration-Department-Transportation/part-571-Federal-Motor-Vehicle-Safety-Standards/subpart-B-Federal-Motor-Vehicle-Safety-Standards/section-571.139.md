@@ -362,14 +362,14 @@ S6.5.1 *Tire strength for passenger car tires.* Each tire shall comply with the 
 *S6.6 Tubeless tire bead unseating resistance.* Each tire shall comply with the requirements of S5.2 of § 571.109. For light truck tires, the maximum permissible inflation pressure to be used for the bead unseating test is as follows:
 
 |Load Range C|260 kPa.|
-|:-----------|:-------|
+|------------|--------|
 |Load Range D|340 kPa.|
 |Load Range E|410 kPa.|
 
 For light truck tires with a nominal cross section greater than 295 mm (11.5 inches), the maximum permissible inflation pressure to be used for the bead unseating test is as follows:
 
 |Load Range C|190 kPa.|
-|:-----------|:-------|
+|------------|--------|
 |Load Range D|260 kPa.|
 |Load Range E|340 kPa.|
 
@@ -381,4 +381,4 @@ S7.2 *Tires manufactured on or after September 1, 2006 and before September 1, 2
 
 S7.3 *Tires manufactured on or after September 1, 2007.* Each tire must comply with S4, S5.5, S5.5.1, S5.5.2, S5.5.3, S5.5.4, S5.5.5, and S5.5.6 of this standard.
 
-[67 FR 69627, Nov. 18, 2002, as amended at 68 FR 38150, June 26, 2003; 69 FR 31319, June 3, 2004; 71 FR 886, Jan. 6, 2006; 72 FR 49211, Aug. 28, 2007; 73 FR 72358, Nov. 28, 2008; 77 FR 760, Jan. 6, 2012; 87 FR 34810, June 8, 2022]
+[67 FR 69627, Nov. 18, 2002, as amended at 68 FR 38150, June 26, 2003; 69 FR 31319, June 3, 2004; 71 FR 886, Jan. 6, 2006; 72 FR 49211, Aug. 28, 2007; 73 FR 72358, Nov. 28, 2008; 77 FR 760, Jan. 6, 2012; 86 FR 48545, Aug. 31, 2021; 87 FR 34810, June 8, 2022]
