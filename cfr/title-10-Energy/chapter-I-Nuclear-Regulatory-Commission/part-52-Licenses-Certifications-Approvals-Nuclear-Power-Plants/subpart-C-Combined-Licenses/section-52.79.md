@@ -1,7 +1,5 @@
 ##### § 52.79 Contents of applications; technical information in final safety analysis report. #####
 
-Link to an amendment published at 88 FR 80078, Nov. 16, 2023.
-
 (a) The application must contain a final safety analysis report that describes the facility, presents the design bases and the limits on its operation, and presents a safety analysis of the structures, systems, and components of the facility as a whole. The final safety analysis report shall include the following information, at a level of information sufficient to enable the Commission to reach a final conclusion on all safety matters that must be resolved by the Commission before issuance of a combined license:
 
 (1)(i) The boundaries of the site;
@@ -80,7 +78,7 @@ Link to an amendment published at 88 FR 80078, Nov. 16, 2023.
 
 (20) Proposed technical resolutions of those Unresolved Safety Issues and medium- and high-priority generic safety issues which are identified in the version of NUREG-0933 current on the date up to 6 months before the docket date of the application and which are technically relevant to the design;
 
-(21) Emergency plans complying with the requirements of § 50.47 of this chapter, and 10 CFR part 50, appendix E;
+(21) Emergency plans complying with the requirements of § 50.47 of this chapter, and appendix E to part 50 of this chapter, or for a small modular reactor or a non-light-water reactor license applicant, emergency plans complying with either the requirements in § 50.160 of this chapter, or the requirements in appendix E to part 50 of this chapter and § 50.47(b) of this chapter;
 
 (22)(i) All emergency plan certifications that have been obtained from the State and local governmental agencies with emergency planning responsibilities must state that:
 
@@ -192,4 +190,4 @@ Link to an amendment published at 88 FR 80078, Nov. 16, 2023.
 
 (f) Each applicant for a combined license under this subpart shall protect Safeguards Information against unauthorized disclosure in accordance with the requirements in §§ 73.21 and 73.22 of this chapter, as applicable.
 
-[72 FR 49517, Aug. 28, 2007, as amended at 73 FR 63571, Oct. 24, 2008; 74 FR 13970, Mar. 27, 2009; 74 FR 28147, June 12, 2009; 76 FR 72600, Nov. 23, 2011; 78 FR 34249, June 7, 2013; 84 FR 63568, Nov. 18, 2019]
+[72 FR 49517, Aug. 28, 2007, as amended at 73 FR 63571, Oct. 24, 2008; 74 FR 13970, Mar. 27, 2009; 74 FR 28147, June 12, 2009; 76 FR 72600, Nov. 23, 2011; 78 FR 34249, June 7, 2013; 84 FR 63568, Nov. 18, 2019; 88 FR 80078, Nov. 16, 2023]

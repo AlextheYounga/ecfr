@@ -1932,13 +1932,7 @@ Table 3 to Paragraph (h)—Paragraph Contents
 
 (20) *Retaliatory action claims.* If credible documentary evidence is provided in support of a petition seeking an extension of H-1B stay in or change of status to another classification indicating that the beneficiary faced retaliatory action from his or her employer based on a report regarding a violation of that employer's labor condition application obligations under section 212(n)(2)(C)(iv) of the Act, USCIS may consider a loss or failure to maintain H-1B status by the beneficiary related to such violation as due to, and commensurate with, “extraordinary circumstances” as defined by § 214.1(c)(4) and 8 CFR 248.1(b).
 
-(21) [Reserved]
-
-(22) *Change of employers during COVID-19 National Emergency (December 18, 2020 through June 16, 2021).* (i) If an H-2A nonimmigrant who is physically present in the United States seeks to change employers during the COVID-19 National Emergency, the prospective new H-2A employer may file an H-2A petition on Form I-129, accompanied by a valid temporary agricultural labor certification, requesting an extension of the alien's stay in the United States. To be approved under this paragraph (h)(22), an H-2A petition must be received on or after December 18, 2020 but no later than June 16, 2021. If the new petition is approved, the extension of stay may be granted for the validity of the approved petition for a period not to exceed the validity period of the temporary agricultural labor certification. Notwithstanding paragraph (h)(2)(i)(D) of this section and 8 CFR 274a.12(b)(21), an alien in valid H-2A nonimmigrant status on December 18, 2020, or lawfully obtaining such status thereafter pursuant to this paragraph (h)(22), is authorized to begin employment with the new petitioner after the petition described in this paragraph (h)(22) is received by USCIS, but no earlier than the start date of employment, indicated in the H-2A petition. The H-2A worker is authorized to commence employment with the petitioner before the petition is approved and subject to the requirements of 8 CFR 274a.12(b)(28) for a period of up to 45 days beginning on the Received Date on Form I-797 (Notice of Action) or, if the start date of employment occurs after the I-797 Received Date, 45 days beginning on the start date of employment indicated in the H-2A petition. If USCIS adjudicates the petition prior to the expiration of this 45-day period and denies the petition for extension of stay, or if the petition is withdrawn by the petitioner before the expiration of the 45-day period, the employment authorization associated with the filing of that petition under 8 CFR 274a.12(b)(28) will automatically terminate 15 days after the date of the denial decision or the date on which the petition is withdrawn.
-
-(ii) Authorization to initiate employment changes pursuant to this paragraph (h)(22) begins at 12 a.m. on December 18, 2020, and ends at the end of June 16, 2021.
-
-(23) [Reserved]
+(21)-(23) [Reserved]
 
 (24) *Severability.* (i)-(ii) [Reserved]
 
@@ -4069,14 +4063,12 @@ Table 5 to Paragraph (w)—Paragraph Contents
 
 (29) *Notice to DOL.* USCIS will provide notice to DOL of CW-1 petition revocations.
 
-(Title VI of the Health Professions Educational Assistance Act of 1976 (Pub. L. 94-484; 90 Stat. 2303); secs. 103 and 214, Immigration and Nationality Act (8 U.S.C. 1103 and 1184))[38 FR 35425, Dec. 28, 1973]Editorial Note:For Federal Register citations affecting § 214.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:1. At 85 FR 82298, Dec. 18, 2020, § 214.2 was amended by adding paragraph (h)(22), effective Dec. 18, 2020, through Dec. 18, 2023.
+(Title VI of the Health Professions Educational Assistance Act of 1976 (Pub. L. 94-484; 90 Stat. 2303); secs. 103 and 214, Immigration and Nationality Act (8 U.S.C. 1103 and 1184))[38 FR 35425, Dec. 28, 1973]Editorial Note:For Federal Register citations affecting § 214.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:1. At 86 FR 28230, May 25, 2021, § 214.2 was amended by adding paragraph (h)(6)(x), reserved paragraph (h)(25), and paragraph (h)(26), effective May 25, 2021, through May 28, 2024.
 
-2. At 86 FR 28230, May 25, 2021, § 214.2 was amended by adding paragraph (h)(6)(x), reserved paragraph (h)(25), and paragraph (h)(26), effective May 25, 2021, through May 28, 2024.
+2. At 87 FR 4758, Jan. 28, 2022, § 214.2 was amended by adding paragraphs (h)(6)(xi) and (h)(27), effective Jan. 28, 2022, through Jan. 28, 2025.
 
-3. At 87 FR 4758, Jan. 28, 2022, § 214.2 was amended by adding paragraphs (h)(6)(xi) and (h)(27), effective Jan. 28, 2022, through Jan. 28, 2025.
+3. At 87 FR 30375, May 18, 2022, § 214.2 was amended by adding paragraphs (h)(6)(xii) and (h)(28), effective May 18, 2022, through May 18, 2025.
 
-4. At 87 FR 30375, May 18, 2022, § 214.2 was amended by adding paragraphs (h)(6)(xii) and (h)(28), effective May 18, 2022, through May 18, 2025.
+4. At 87 FR 76874, Dec. 15, 2022, § 214.2 was amended by adding row (29) to table 3 to paragraph (h), and by adding paragraphs (h)(6)(xiii) and (h)(29), effective Dec. 15, 2022, through Dec. 15, 2025. At 87 FR 77979, Dec. 21, 2022, paragraph (h)(6)(xiii) was corrected, effective Dec. 21, 2022, through Dec. 15, 2025.
 
-5. At 87 FR 76874, Dec. 15, 2022, § 214.2 was amended by adding row (29) to table 3 to paragraph (h), and by adding paragraphs (h)(6)(xiii) and (h)(29), effective Dec. 15, 2022, through Dec. 15, 2025. At 87 FR 77979, Dec. 21, 2022, paragraph (h)(6)(xiii) was corrected, effective Dec. 21, 2022, through Dec. 15, 2025.
-
-6. At 88 FR 80456, Nov. 17, 2023, § 214.2 was amended by adding rows (30) and (31) to table 3 to paragraph (h), and by adding paragraphs (h)(6)(xiv) and (h)(30) and (31), effective Nov. 17, 2023, through Nov. 17, 2026.
+5. At 88 FR 80456, Nov. 17, 2023, § 214.2 was amended by adding rows (30) and (31) to table 3 to paragraph (h), and by adding paragraphs (h)(6)(xiv) and (h)(30) and (31), effective Nov. 17, 2023, through Nov. 17, 2026.

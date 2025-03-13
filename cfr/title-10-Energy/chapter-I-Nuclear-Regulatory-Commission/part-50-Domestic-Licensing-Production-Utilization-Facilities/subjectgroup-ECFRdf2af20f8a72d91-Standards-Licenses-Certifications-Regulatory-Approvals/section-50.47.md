@@ -1,18 +1,16 @@
 ##### § 50.47 Emergency plans. #####
 
-Link to an amendment published at 88 FR 80075, Nov. 16, 2023.
-
 (a)(1)(i) Except as provided in paragraph (d) of this section, no initial operating license for a nuclear power reactor will be issued unless a finding is made by the NRC that there is reasonable assurance that adequate protective measures can and will be taken in the event of a radiological emergency. No finding under this section is necessary for issuance of a renewed nuclear power reactor operating license.
 
 (ii) No initial combined license under part 52 of this chapter will be issued unless a finding is made by the NRC that there is reasonable assurance that adequate protective measures can and will be taken in the event of a radiological emergency. No finding under this section is necessary for issuance of a renewed combined license.
 
 (iii) If an application for an early site permit under subpart A of part 52 of this chapter includes complete and integrated emergency plans under 10 CFR 52.17(b)(2)(ii), no early site permit will be issued unless a finding is made by the NRC that the emergency plans provide reasonable assurance that adequate protective measures can and will be taken in the event of a radiological emergency.
 
-(iv) If an application for an early site permit proposes major features of the emergency plans under 10 CFR 52.17(b)(2)(i), no early site permit will be issued unless a finding is made by the NRC that the major features are acceptable in accordance with the applicable standards of 10 CFR 50.47 and 10 CFR part 50, appendix E, within the scope of emergency preparedness matters addressed in the major features.
+(iv) If an application for an early site permit proposes major features of the emergency plans under 10 CFR 52.17(b)(2)(i), no early site permit will be issued unless a finding is made by the NRC that the major features are acceptable in accordance with the applicable standards of either this section and appendix E to this part, or the applicable requirements of § 50.160, within the scope of emergency preparedness matters addressed in the major features.
 
 (2) The NRC will base its finding on a review of the Federal Emergency Management Agency (FEMA) findings and determinations as to whether State and local emergency plans are adequate and whether there is reasonable assurance that they can be implemented, and on the NRC assessment as to whether the applicant's onsite emergency plans are adequate and whether there is reasonable assurance that they can be implemented. A FEMA finding will primarily be based on a review of the plans. Any other information already available to FEMA may be considered in assessing whether there is reasonable assurance that the plans can be implemented. In any NRC licensing proceeding, a FEMA finding will constitute a rebuttable presumption on questions of adequacy and implementation capability.
 
-(b) The onsite and, except as provided in paragraph (d) of this section, offsite emergency response plans for nuclear power reactors must meet the following standards:
+(b) The onsite and, except as provided in paragraphs (d) and (f) of this section, offsite emergency response plans for nuclear power reactors must meet the following standards:
 
 (1) Primary responsibilities for emergency response by the nuclear facility licensee and by State and local organizations within the Emergency Planning Zones have been assigned, the emergency responsibilities of the various supporting organizations have been specifically established, and each principal response organization has staff to respond and to augment its initial response on a continuous basis.
 
@@ -46,9 +44,9 @@ Link to an amendment published at 88 FR 80075, Nov. 16, 2023.
 
 (16) Responsibilities for plan development and review and for distribution of emergency plans are established, and planners are properly trained.
 
-(c)(1) Failure to meet the applicable standards set forth in paragraph (b) of this section may result in the Commission declining to issue an operating license; however, the applicant will have an opportunity to demonstrate to the satisfaction of the Commission that deficiencies in the plans are not significant for the plant in question, that adequate interim compensating actions have been or will be taken promptly, or that there are other compelling reasons to permit plant operations. Where an applicant for an operating license asserts that its inability to demonstrate compliance with the requirements of paragraph (b) of this section results wholly or substantially from the decision of state and/or local governments not to participate further in emergency planning, an operating license may be issued if the applicant demonstrates to the Commission's satisfaction that:
+(c)(1) Failure to meet the applicable standards set forth in either § 50.160 or paragraph (b) of this section may result in the Commission declining to issue an operating license; however, the applicant will have an opportunity to demonstrate to the satisfaction of the Commission that deficiencies in the plans are not significant for the plant in question, that adequate interim compensating actions have been or will be taken promptly, or that there are other compelling reasons to permit plant operations. Where an applicant for an operating license asserts that its inability to demonstrate compliance with the requirements in either § 50.160 or paragraph (b) of this section results wholly or substantially from the decision of State and/or local governments not to participate further in emergency planning, an operating license may be issued if the applicant demonstrates to the Commission's satisfaction that:
 
-(i) The applicant's inability to comply with the requirements of paragraph (b) of this section is wholly or substantially the result of the non-participation of state and/or local governments.
+(i) The applicant's inability to comply with the requirements in either § 50.160 or paragraph (b) of this section is wholly or substantially the result of the non-participation of State and/or local governments.
 
 (ii) The applicant has made a sustained, good faith effort to secure and retain the participation of the pertinent state and/or local governmental authorities, including the furnishing of copies of its emergency plan.
 
@@ -78,6 +76,8 @@ In making its determination on the adequacy of a utility plan, the NRC will reco
 
 (7) Radiological emergency response training has been made available to those offsite who may be called to assist in an emergency onsite.
 
-(e) Notwithstanding the requirements of paragraph (b) of this section and the provisions of § 52.103 of this chapter, a holder of a combined license under part 52 of this chapter may not load fuel or operate except as provided in accordance with appendix E to part 50 and § 50.54(gg).
+(e) Notwithstanding the requirements of paragraph (b) of this section and the provisions of § 52.103 of this chapter, a holder of a combined license under part 52 of this chapter that is complying with the requirements of paragraph (b) of this section and appendix E to this part may not load fuel or operate except as provided in accordance with appendix E to this part and § 50.54(gg), and a holder of a combined license under part 52 of this chapter that is complying with the requirements of § 50.160 may not load fuel or operate except as provided in accordance with § 50.160(c)(2) and § 50.54(gg).
 
-[45 FR 55409, Aug. 8, 1980, as amended at 47 FR 30235, July 13, 1982; 47 FR 40537, Sept. 15, 1982; 49 FR 27736, July 6, 1984; 50 FR 19324, May 8, 1985; 52 FR 42085, Nov. 3, 1987; 53 FR 36959, Sept. 23, 1988; 56 FR 64976, Dec. 13, 1991; 61 FR 30132, June 14, 1996; 66 FR 5440, Jan. 19, 2001; 72 FR 49495, Aug. 28, 2007; 76 FR 72595, Nov. 23, 2011; 78 FR 34248, June 7, 2013]
+(f) Paragraphs (a)(2), (b), and (c)(2) of this section do not apply to offsite radiological emergency response plans if the onsite emergency plan is not required to meet paragraph (b) of this section or if the plume exposure pathway EPZ does not extend beyond the site boundary.
+
+[45 FR 55409, Aug. 8, 1980, as amended at 47 FR 30235, July 13, 1982; 47 FR 40537, Sept. 15, 1982; 49 FR 27736, July 6, 1984; 50 FR 19324, May 8, 1985; 52 FR 42085, Nov. 3, 1987; 53 FR 36959, Sept. 23, 1988; 56 FR 64976, Dec. 13, 1991; 61 FR 30132, June 14, 1996; 66 FR 5440, Jan. 19, 2001; 72 FR 49495, Aug. 28, 2007; 76 FR 72595, Nov. 23, 2011; 78 FR 34248, June 7, 2013; 88 FR 80075, Nov. 16, 2023]

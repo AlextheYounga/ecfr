@@ -1,7 +1,5 @@
 ##### § 50.10 License required; limited work authorization. #####
 
-Link to an amendment published at 88 FR 80074, Nov. 16, 2023.
-
 (a) *Definitions.* As used in this section, *construction* means the activities in paragraph (a)(1) of this section, and does not mean the activities in paragraph (a)(2) of this section.
 
 (1) Activities constituting construction are the driving of piles, subsurface preparation, placement of backfill, concrete, or permanent retaining walls within an excavation, installation of foundations, or in-place assembly, erection, fabrication, or testing, which are for:
@@ -18,7 +16,7 @@ Link to an amendment published at 88 FR 80074, Nov. 16, 2023.
 
 (vi) SSCs necessary to comply with 10 CFR 50.48 and criterion 3 of 10 CFR part 50, appendix A; and
 
-(vii) Onsite emergency facilities, that is, technical support and operations support centers, necessary to comply with 10 CFR 50.47 and 10 CFR part 50, appendix E.
+(vii) Onsite emergency facilities necessary to comply with either § 50.160 or § 50.47 and appendix E to this part, as applicable.
 
 (2) Construction does not include:
 
@@ -74,4 +72,4 @@ Link to an amendment published at 88 FR 80074, Nov. 16, 2023.
 
 (g) *Implementation of redress plan.* If construction is terminated by the holder, the underlying application is withdrawn by the applicant or denied by the NRC, or the limited work authorization is revoked by the NRC, then the holder must begin implementation of the redress plan in a reasonable time. The holder must also complete the redress of the site no later than 18 months after termination of construction, revocation of the limited work authorization, or upon effectiveness of the Commission's final decision denying the associated construction permit application or the underlying combined license application, as applicable.
 
-[72 FR 57441, Oct. 9, 2007; 84 FR 65644, Nov. 29, 2019]
+[72 FR 57441, Oct. 9, 2007; 84 FR 65644, Nov. 29, 2019; 88 FR 80074, Nov. 16, 2023]

@@ -1,7 +1,5 @@
 ##### § 50.34 Contents of applications; technical information. #####
 
-Link to an amendment published at 88 FR 80074, Nov. 16, 2023.
-
 (a) *Preliminary safety analysis report.* Each application for a construction permit shall include a preliminary safety analysis report. The minimum information5 to be included shall consist of the following:
 
 5 The applicant may provide information required by this paragraph in the form of a discussion, with specific references, of similarities to and differences from, facilities of similar design for which applications have previously been filed with the Commission.
@@ -56,7 +54,11 @@ Link to an amendment published at 88 FR 80074, Nov. 16, 2023.
 
 (9) The technical qualifications of the applicant to engage in the proposed activities in accordance with the regulations in this chapter.
 
-(10) A discussion of the applicant's preliminary plans for coping with emergencies. Appendix E sets forth items which shall be included in these plans.
+(10) A discussion of the applicant's preliminary plans for coping with emergencies based on:
+
+(i) Except as provided in paragraph (a)(10)(ii) of this section, the requirements in appendix E to this part.
+
+(ii) For a small modular reactor, a non-light-water reactor, or non-power production or utilization facility construction permit applicant, the requirements in either § 50.160 or appendix E to this part.
 
 (11) On or after February 5, 1979, applicants who apply for construction permits for nuclear power plants to be built on multiunit sites shall identify potential hazards to the structures, systems and components important to safety of operating nuclear facilities from construction activities. A discussion shall also be included of any managerial and administrative controls that will be used during construction to assure the safety of the operating unit.
 
@@ -90,7 +92,11 @@ Link to an amendment published at 88 FR 80074, Nov. 16, 2023.
 
 (iv) Plans for conduct of normal operations, including maintenance, surveillance, and periodic testing of structures, systems, and components.
 
-(v) Plans for coping with emergencies, which shall include the items specified in appendix E.
+(v) Plans for coping with emergencies based on:
+
+(A) Except as provided in paragraph (b)(6)(v)(B) of this section, the requirements in appendix E to this part.
+
+(B) For a small modular reactor, a non-light-water reactor, or a non-power production or utilization facility operating license applicant, the requirements in either § 50.160 or appendix E to this part.
 
 (vi) Proposed technical specifications prepared in accordance with the requirements of § 50.36.
 

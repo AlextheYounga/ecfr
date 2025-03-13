@@ -1,7 +1,5 @@
 ##### § 72.32 Emergency Plan. #####
 
-Link to an amendment published at 88 FR 80078, Nov. 16, 2023.
-
 (a) Each application for an ISFSI that is licensed under this part which is: Not located on the site of a nuclear power reactor, or not located within the exclusion area as defined in 10 CFR part 100 of a nuclear power reactor, or located on the site of a nuclear power reactor which does not have an operating license, or located on the site of a nuclear power reactor that is not authorized to operate must be accompanied by an Emergency Plan that includes the following information:
 
 (1) *Facility description.* A brief description of the licensee's facility and area near the site.
@@ -94,8 +92,8 @@ Link to an amendment published at 88 FR 80078, Nov. 16, 2023.
 
 (1) located on the site, or
 
-(2) located within the exclusion area as defined in 10 CFR part 100, of a nuclear power reactor licensed for operation by the Commission, the emergency plan required by 10 CFR 50.47 shall be deemed to satisfy the requirements of this section.
+(2) Located within the exclusion area as defined in 10 CFR part 100, of a nuclear power reactor licensed for operation by the Commission, the emergency plan that meets either the requirements in § 50.160 of this chapter, or the requirements in appendix E to part 50 of this chapter and § 50.47(b) of this chapter shall be deemed to satisfy the requirements of this section.
 
 (d) A licensee with a license issued under this part may take reasonable action that departs from a license condition or a technical specification (contained in a license issued under this part) in an emergency when this action is immediately needed to protect the public health and safety and no action consistent with license conditions and technical specifications that can provide adequate or equivalent protection is immediately apparent.
 
-[60 FR 32441, June 22, 1995, as amended at 85 FR 65663, Oct. 16, 2020]
+[60 FR 32441, June 22, 1995, as amended at 85 FR 65663, Oct. 16, 2020; 88 FR 80078, Nov. 16, 2023]

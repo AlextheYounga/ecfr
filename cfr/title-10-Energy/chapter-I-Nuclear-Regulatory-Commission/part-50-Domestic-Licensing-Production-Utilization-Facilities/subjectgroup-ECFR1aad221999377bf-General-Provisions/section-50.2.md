@@ -1,7 +1,5 @@
 ##### § 50.2 Definitions. #####
 
-Link to an amendment published at 88 FR 80074, Nov. 16, 2023.
-
 As used in this part,
 
 *Act* means the Atomic Energy Act of 1954 (68 Stat. 919) including any amendments thereto.
@@ -136,6 +134,10 @@ As used in this part,
 
 *Non-impacted areas* mean the areas with no reasonable potential for residual radioactivity in excess of natural background or fallout levels.
 
+*Non-light-water reactor* means a nuclear power reactor using a coolant other than light water.
+
+*Non-power production or utilization facility* means a production or utilization facility, licensed under § 50.21(a) or (c), or § 50.22, as applicable, that is not a nuclear power reactor or a production facility as defined under paragraphs (1) and (2) of the definition of *Production facility* in this section.
+
 *Non-power reactor* means a research or test reactor licensed under §§ 50.21(c) or 50.22 of this part for research and development.
 
 *Notification* means the telephonic communication to the NRC Operations Center or written transmittal of information to the NRC Document Control Desk.
@@ -193,6 +195,8 @@ For nuclear power reactors of the direct cycle boiling water type, the reactor c
 (2) The capability to shut down the reactor and maintain it in a safe shutdown condition; or
 
 (3) The capability to prevent or mitigate the consequences of accidents which could result in potential offsite exposures comparable to the applicable guideline exposures set forth in § 50.34(a)(1) or § 100.11 of this chapter, as applicable.
+
+*Small modular reactor* means a power reactor, which may be of modular design as defined in § 52.1 of this chapter, licensed under § 50.21 or § 50.22 to produce heat energy up to 1,000 megawatts thermal per module.
 
 *Source material* means source material as defined in subsection 11z. of the Act and in the regulations contained in part 40 of this chapter.
 

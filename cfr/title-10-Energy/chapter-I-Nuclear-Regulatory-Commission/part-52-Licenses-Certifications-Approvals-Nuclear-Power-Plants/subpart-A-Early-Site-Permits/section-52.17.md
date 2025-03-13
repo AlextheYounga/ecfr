@@ -1,7 +1,5 @@
 ##### § 52.17 Contents of applications; technical information. #####
 
-Link to an amendment published at 88 FR 80078, Nov. 16, 2023.
-
 (a) For applications submitted before September 27, 2007, the rule provisions in effect at the date of docketing apply unless otherwise requested by the applicant in writing. The application must contain:
 
 (1) A site safety analysis report. The site safety analysis report shall include the following:
@@ -44,9 +42,9 @@ Link to an amendment published at 88 FR 80078, Nov. 16, 2023.
 
 (2) The site safety analysis report may also:
 
-(i) Propose major features of the emergency plans, in accordance with the pertinent standards of § 50.47 of this chapter and the requirements of appendix E to part 50 of this chapter, such as the exact size and configuration of the emergency planning zones, for review and approval by the NRC, in consultation with the Federal Emergency Management Agency (FEMA) in the absence of complete and integrated emergency plans; or
+(i) Propose major features of the emergency plans, in accordance with either the requirements in § 50.160 of this chapter, or the requirements in appendix E to part 50 of this chapter and § 50.47(b) of this chapter, as applicable, such as the exact size and configuration of the emergency planning zones, for review and approval by the NRC, in consultation with the Federal Emergency Management Agency (FEMA), as applicable, in the absence of complete and integrated emergency plans; or
 
-(ii) Propose complete and integrated emergency plans for review and approval by the NRC, in consultation with FEMA, in accordance with the applicable standards of § 50.47 of this chapter and the requirements of appendix E to part 50 of this chapter. To the extent approval of emergency plans is sought, the application must contain the information required by § 50.33(g) and (j) of this chapter.
+(ii) Propose complete and integrated emergency plans for review and approval by the NRC, in consultation with FEMA, as applicable in accordance with either the requirements in § 50.160 of this chapter, or the requirements in appendix E to part 50 of this chapter and § 50.47(b) of this chapter. To the extent approval of emergency plans is sought, the application must contain the information required by § 50.33(g) and (j) of this chapter.
 
 (3) Emergency plans submitted under paragraph (b)(2)(ii) of this section must include the proposed inspections, tests, and analyses that the holder of a combined license referencing the early site permit shall perform, and the acceptance criteria that are necessary and sufficient to provide reasonable assurance that, if the inspections, tests, and analyses are performed and the acceptance criteria met, the facility has been constructed and will be operated in conformity with the emergency plans, the provisions of the Act, and the Commission's rules and regulations. Major features of an emergency plan submitted under paragraph (b)(2)(i) of this section may include proposed inspections, tests, analyses, and acceptance criteria.
 
@@ -62,4 +60,4 @@ Link to an amendment published at 88 FR 80078, Nov. 16, 2023.
 
 (d) Each applicant for an early site permit under this part shall protect Safeguards Information against unauthorized disclosure in accordance with the requirements in §§ 73.21 and 73.22 of this chapter, as applicable.
 
-[72 FR 49517, Aug. 28, 2007, as amended at 72 FR 57447, Oct. 9, 2007; 73 FR 63571, Oct. 24, 2008; 78 FR 34249, June 7, 2013; 78 FR 75450, Dec. 12, 2013; 87 FR 68031, Nov. 14, 2022]
+[72 FR 49517, Aug. 28, 2007, as amended at 72 FR 57447, Oct. 9, 2007; 73 FR 63571, Oct. 24, 2008; 78 FR 34249, June 7, 2013; 78 FR 75450, Dec. 12, 2013; 87 FR 68031, Nov. 14, 2022; 88 FR 80078, Nov. 16, 2023]

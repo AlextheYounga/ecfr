@@ -26,7 +26,7 @@ Link to an amendment published at 88 FR 80077, Nov. 16, 2023.
 
 *Major feature of the emergency plans* means an aspect of those plans necessary to:
 
-(i) Address in whole or part one or more of the 16 standards in 10 CFR 50.47(b); or
+(i) Address in whole or part either one or more of the 16 standards in 10 CFR 50.47(b) or the requirements of 10 CFR 50.160(b), as applicable; or
 
 (ii) Describe the emergency planning zones as required in 10 CFR 50.33(g).
 
@@ -48,4 +48,4 @@ Link to an amendment published at 88 FR 80077, Nov. 16, 2023.
 
 (b) All other terms in this part have the meaning set out in 10 CFR 50.2, or Section 11 of the Atomic Energy Act, as applicable.
 
-[72 FR 49517, Aug. 28, 2007, as amended at 72 FR 57446, Oct. 9, 2007; 79 FR 66604, Nov. 10, 2014; 84 FR 65645, Nov. 29, 2019; 84 FR 68781, Dec. 17, 2019]
+[72 FR 49517, Aug. 28, 2007, as amended at 72 FR 57446, Oct. 9, 2007; 79 FR 66604, Nov. 10, 2014; 84 FR 65645, Nov. 29, 2019; 84 FR 68781, Dec. 17, 2019; 88 FR 80077, Nov. 16, 2023]

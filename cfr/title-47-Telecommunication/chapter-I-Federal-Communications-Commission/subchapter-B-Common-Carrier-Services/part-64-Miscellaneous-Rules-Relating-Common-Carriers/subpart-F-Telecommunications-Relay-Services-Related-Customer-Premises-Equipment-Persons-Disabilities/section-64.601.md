@@ -1,7 +1,5 @@
 ##### § 64.601 Definitions and provisions of general applicability. #####
 
-Link to an amendment published at 88 FR 72006, Oct. 19, 2023.
-
 (a) For purposes of this subpart, the term affiliate is defined in 47 CFR 52.12(a)(1)(i), and the terms majority and debt are defined in 47 CFR 52.12(a)(1)(ii).
 
 (1) *711.* The abbreviated dialing code for accessing relay services anywhere in the United States.
@@ -128,14 +126,16 @@ Link to an amendment published at 88 FR 72006, Oct. 19, 2023.
 
 (51) *Video relay service (VRS).* A telecommunications relay service that allows people with hearing or speech disabilities who use sign language to communicate with voice telephone users through video equipment. The video link allows the CA to view and interpret the party's signed conversation and relay the conversation back and forth with a voice caller.
 
-(52) *Visual privacy screen.* A screen or any other feature that is designed to prevent one party or both parties on the video leg of a VRS call from viewing the other party during a call.
+(52) *Video-text service.* A specialized form of VRS that allows people who are deafblind who use sign language and text to communicate through a video link. The video link allows the communications assistant to view and interpret a party's sign language communication and the text functionality allows the communications assistant to send text to peripheral devices employed in connection with equipment, including software, to translate, enhance, or otherwise transform advanced communications services into a form accessible to people who are deafblind. The communications assistant relays the conversation using sign language, voice, and text between the participants of the call.
 
-(53) *Voice carry over (VCO).* A form of TRS where the person with the hearing disability is able to speak directly to the other end user. The CA types the response back to the person with the hearing disability. The CA does not voice the conversation. Two-line VCO is a VCO service that allows TRS users to use one telephone line for voicing and the other for receiving TTY messages. A VCO-to-TTY TRS call allows a relay conversation to take place between a VCO user and a TTY user. VCO-to-VCO allows a relay conversation to take place between two VCO users.
+(53) *Visual privacy screen.* A screen or any other feature that is designed to prevent one party or both parties on the video leg of a VRS call from viewing the other party during a call.
 
-(54) *VRS access technology.* Any equipment, software, or other technology issued, leased, or provided by an internet-based TRS provider that can be used to make and receive a VRS call.
+(54) *Voice carry over (VCO).* A form of TRS where the person with the hearing disability is able to speak directly to the other end user. The CA types the response back to the person with the hearing disability. The CA does not voice the conversation. Two-line VCO is a VCO service that allows TRS users to use one telephone line for voicing and the other for receiving TTY messages. A VCO-to-TTY TRS call allows a relay conversation to take place between a VCO user and a TTY user. VCO-to-VCO allows a relay conversation to take place between two VCO users.
 
-(55) *VRS Access Technology Reference Platform.* A software product procured by or on behalf of the Commission that provides VRS functionality, including the ability to make and receive VRS and point-to-point calls, dial-around functionality, and the ability to update user registration location, and against which providers may test their own VRS access technology and platforms for compliance with the Commission's interoperability and portability rules.
+(55) *VRS access technology.* Any equipment, software, or other technology issued, leased, or provided by an internet-based TRS provider that can be used to make and receive a VRS call.
+
+(56) *VRS Access Technology Reference Platform.* A software product procured by or on behalf of the Commission that provides VRS functionality, including the ability to make and receive VRS and point-to-point calls, dial-around functionality, and the ability to update user registration location, and against which providers may test their own VRS access technology and platforms for compliance with the Commission's interoperability and portability rules.
 
 (b) For purposes of this subpart, all regulations and requirements applicable to common carriers shall also be applicable to providers of interconnected VoIP service.
 
-[68 FR 50976, Aug. 25, 2003, as amended at 69 FR 53351, Sept. 1, 2004; 72 FR 43559, Aug. 6, 2007; 73 FR 41294, July 18, 2008; 76 FR 24400, May 2, 2011; 76 FR 65969, Oct. 25, 2011; 78 FR 40605, July 5, 2013; 82 FR 7707, Jan. 23, 2017; 82 FR 17761, Apr. 13, 2017; 82 FR 39682, Aug. 22, 2017; 84 FR 8461, Mar. 8, 2019; 84 FR 26369, June 6, 2019; 84 FR 66779, Dec. 5, 2019; 85 FR 1127, Jan. 9, 2020; 85 FR 9390, Feb. 19, 2020; 85 FR 27312, May 8, 2020; 87 FR 75513, Dec. 9, 2022]
+[68 FR 50976, Aug. 25, 2003, as amended at 69 FR 53351, Sept. 1, 2004; 72 FR 43559, Aug. 6, 2007; 73 FR 41294, July 18, 2008; 76 FR 24400, May 2, 2011; 76 FR 65969, Oct. 25, 2011; 78 FR 40605, July 5, 2013; 82 FR 7707, Jan. 23, 2017; 82 FR 17761, Apr. 13, 2017; 82 FR 39682, Aug. 22, 2017; 84 FR 8461, Mar. 8, 2019; 84 FR 26369, June 6, 2019; 84 FR 66779, Dec. 5, 2019; 85 FR 1127, Jan. 9, 2020; 85 FR 9390, Feb. 19, 2020; 85 FR 27312, May 8, 2020; 87 FR 75513, Dec. 9, 2022; 88 FR 72006, Oct. 19, 2023]

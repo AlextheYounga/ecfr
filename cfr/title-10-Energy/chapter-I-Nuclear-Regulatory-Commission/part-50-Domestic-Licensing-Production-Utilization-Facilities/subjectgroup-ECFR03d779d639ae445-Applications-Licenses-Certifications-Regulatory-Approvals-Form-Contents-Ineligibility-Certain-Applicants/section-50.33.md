@@ -1,7 +1,5 @@
 ##### § 50.33 Contents of applications; general information. #####
 
-Link to an amendment published at 88 FR 80074, Nov. 16, 2023.
-
 Each application shall state:
 
 (a) Name of applicant;
@@ -44,11 +42,27 @@ Each application shall state:
 
 (5) The Commission may request an established entity or newly-formed entity to submit additional or more detailed information respecting its financial arrangements and status of funds if the Commission considers this information appropriate. This may include information regarding a licensee's ability to continue the conduct of the activities authorized by the license and to decommission the facility.
 
-(g) If the application is for an operating license or combined license for a nuclear power reactor, or if the application is for an early site permit and contains plans for coping with emergencies under § 52.17(b)(2)(ii) of this chapter, the applicant shall submit radiological emergency response plans of State and local governmental entities in the United States that are wholly or partially within the plume exposure pathway emergency planning zone (EPZ),4 as well as the plans of State governments wholly or partially within the ingestion pathway EPZ.5 If the application is for an early site permit that, under 10 CFR 52.17(b)(2)(i), proposes major features of the emergency plans describing the EPZs, then the descriptions of the EPZs must meet the requirements of this paragraph. Generally, the plume exposure pathway EPZ for nuclear power reactors shall consist of an area about 10 miles (16 km) in radius and the ingestion pathway EPZ shall consist of an area about 50 miles (80 km) in radius. The exact size and configuration of the EPZs surrounding a particular nuclear power reactor shall be determined in relation to the local emergency response needs and capabilities as they are affected by such conditions as demography, topography, land characteristics, access routes, and jurisdictional boundaries. The size of the EPZs also may be determined on a case-by-case basis for gas-cooled reactors and for reactors with an authorized power level less than 250 MW thermal. The plans for the ingestion pathway shall focus on such actions as are appropriate to protect the food ingestion pathway.
+(g)(1) Except as provided in paragraph (g)(2) of this section, if the application is for an operating license or combined license for a nuclear power reactor, or if the application is for an early site permit and contains plans for coping with emergencies under § 52.17(b)(2)(ii) of this chapter, the applicant shall submit the radiological emergency response plans of State and local governmental entities in the United States that are wholly or partially within the plume exposure pathway emergency planning zone (EPZ),4 as well as the plans of State governments wholly or partially within the ingestion pathway EPZ.5 If the application is for an early site permit that, under 10 CFR 52.17(b)(2)(i), proposes major features of the emergency plans describing the EPZs, then the descriptions of the EPZs must meet the requirements of this paragraph. Generally, the plume exposure pathway EPZ for nuclear power reactors shall consist of an area about 10 miles (16 km) in radius and the ingestion pathway EPZ shall consist of an area about 50 miles (80 km) in radius. The exact size and configuration of the EPZs surrounding a particular nuclear power reactor shall be determined in relation to the local emergency response needs and capabilities as they are affected by such conditions as demography, topography, land characteristics, access routes, and jurisdictional boundaries. The size of the EPZs also may be determined on a case-by-case basis for gas-cooled reactors and for reactors with an authorized power level less than 250 MW thermal. The plans for the ingestion pathway shall focus on such actions as are appropriate to protect the food ingestion pathway.
 
-4 Emergency planning zones (EPZs) are discussed in NUREG-0396, EPA 520/1-78-016, “Planning Basis for the Development of State and Local Government Radiological Emergency Response Plans in Support of Light-Water Nuclear Power Plants,” December 1978.
+4 Emergency planning zones (EPZs) are discussed in NUREG-0396, EPA 520/1-78-016, “Planning Basis for the Development of State and Local Government Radiological Emergency Response Plans in Support of Light Water Nuclear Power Plants,” December 1978.
 
 5 If the State and local emergency response plans have been previously provided to the NRC for inclusion in the facility docket, the applicant need only provide the appropriate reference to meet this requirement.
+
+(2) Small modular reactor, non-light-water reactor, or non-power production or utilization facility applicants complying with § 50.160 who apply for a construction permit or an operating license under this part, or small modular reactor or non-light-water reactor applicants complying with § 50.160 who apply for a combined license or an early site permit under part 52 of this chapter, must submit as part of the application the analysis used to determine whether the criteria in § 50.33(g)(2)(i)(A) and (B) are met and, if they are met, the size of the plume exposure pathway EPZ.
+
+(i) The plume exposure pathway EPZ is the area within which:
+
+(A) Public dose, as defined in § 20.1003 of this chapter, is projected to exceed 10 mSv (1 rem) total effective dose equivalent over 96 hours from the release of radioactive materials from the facility considering accident likelihood and source term, timing of the accident sequence, and meteorology; and
+
+(B) Pre-determined, prompt protective measures are necessary.
+
+(ii) If the application is for an operating license or combined license or if the application is for an early site permit and contains plans for coping with emergencies under § 52.17(b)(2)(ii) of this chapter, and if the plume exposure pathway EPZ extends beyond the site boundary:
+
+(A) The applicant shall submit radiological emergency response plans of State, local, and participating Tribal governmental entities in the United States that are wholly or partially within the plume exposure pathway EPZ.
+
+(B) The exact configuration of the plume exposure pathway EPZ surrounding the facility shall be determined in relation to the local emergency response needs and capabilities as they are affected by such conditions as demography, topography, land characteristics, access routes, and jurisdictional boundaries.
+
+(iii) If the application is for an early site permit that, under § 52.17(b)(2)(i) of this chapter, proposes major features of the emergency plans and describes the EPZ, and if the EPZ extends beyond the site boundary, then the exact configuration of the plume exposure pathway EPZ surrounding the facility shall be determined in relation to the local emergency response needs and capabilities as they are affected by such conditions as demography, topography, land characteristics, access routes, and jurisdictional boundaries.
 
 (h) If the applicant, other than an applicant for a combined license, proposes to construct or alter a production or utilization facility, the application shall state the earliest and latest dates for completion of the construction or alteration.
 
@@ -60,4 +74,4 @@ Each application shall state:
 
 (2) On or before July 26, 1990, each holder of an operating license for a production or utilization facility in effect on July 27, 1990, shall submit information in the form of a report as described in § 50.75 of this part, indicating how reasonable assurance will be provided that funds will be available to decommission the facility.
 
-[21 FR 355, Jan. 19, 1956, as amended at 35 FR 19660, Dec. 29, 1970; 38 FR 3956, Feb. 9, 1973; 45 FR 55408, Aug. 19, 1980; 49 FR 35752, Sept. 12, 1984; 53 FR 24049, June 27, 1988; 69 FR 4448, Jan. 30, 2004; 72 FR 49490, Aug. 28, 2007]
+[21 FR 355, Jan. 19, 1956, as amended at 35 FR 19660, Dec. 29, 1970; 38 FR 3956, Feb. 9, 1973; 45 FR 55408, Aug. 19, 1980; 49 FR 35752, Sept. 12, 1984; 53 FR 24049, June 27, 1988; 69 FR 4448, Jan. 30, 2004; 72 FR 49490, Aug. 28, 2007; 88 FR 80074, Nov. 16, 2023]

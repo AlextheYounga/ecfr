@@ -1,10 +1,8 @@
 ##### § 91.215 ATC transponder and altitude reporting equipment and use. #####
 
-Link to an amendment published at 88 FR 71476, Oct. 17, 2023.
-
 (a) *All airspace: U.S.-registered civil aircraft.* For operations not conducted under part 121 or 135 of this chapter, ATC transponder equipment installed must meet the performance and environmental requirements of any class of TSO-C74b (Mode A) or any class of TSO-C74c (Mode A with altitude reporting capability) as appropriate, or the appropriate class of TSO-C112 (Mode S).
 
-(b) *All airspace.* Unless otherwise authorized or directed by ATC, and except as provided in paragraph (e)(1) of this section, no person may operate an aircraft in the airspace described in paragraphs (b)(1) through (5) of this section, unless that aircraft is equipped with an operable coded radar beacon transponder having either Mode 3/A 4096 code capability, replying to Mode 3/A interrogations with the code specified by ATC, or a Mode S capability, replying to Mode 3/A interrogations with the code specified by ATC and intermode and Mode S interrogations in accordance with the applicable provisions specified in TSO C-112, and that aircraft is equipped with automatic pressure altitude reporting equipment having a Mode C capability that automatically replies to Mode C interrogations by transmitting pressure altitude information in 100-foot increments. The requirements of this paragraph (b) apply to—
+(b) *All airspace.* Unless otherwise authorized or directed by ATC, and except as provided in paragraph (e)(1) of this section, no person may operate an aircraft in the airspace described in paragraphs (b)(1) through (5) of this section, unless that aircraft is equipped with an operable coded radar beacon transponder having either Mode A 4096 code capability, replying to Mode A interrogations with the code specified by ATC, or a Mode S capability, replying to Mode A interrogations with the code specified by ATC and Mode S interrogations in accordance with the applicable provisions specified in TSO-C112, and that aircraft is equipped with automatic pressure altitude reporting equipment having a Mode C capability that automatically replies to Mode C interrogations by transmitting pressure altitude information in 100-foot increments. The requirements of this paragraph (b) apply to—
 
 (1) *All aircraft.* In Class A, Class B, and Class C airspace areas;
 
@@ -42,4 +40,4 @@ Link to an amendment published at 88 FR 71476, Oct. 17, 2023.
 
 (ii) The use of a transponder is otherwise authorized by the Administrator.
 
-(Approved by the Office of Management and Budget under control number 2120-0005)[Doc. No. 18334, 54 FR 34304, Aug. 18, 1989, as amended by Amdt. 91-221, 56 FR 469, Jan. 4, 1991; Amdt. 91-227, 56 FR 65660, Dec. 17, 1991; Amdt. 91-227, 7 FR 328, Jan. 3, 1992; Amdt. 91-229, 57 FR 34618, Aug. 5, 1992; Amdt. 91-267, 66 FR 21066, Apr. 27, 2001; Amdt. 91-355, 84 FR 34287, July 18, 2019; Amdt. No. 91-361, 86 FR 4512, Jan. 15, 2021]
+(Approved by the Office of Management and Budget under control number 2120-0005)[Doc. No. 18334, 54 FR 34304, Aug. 18, 1989, as amended by Amdt. 91-221, 56 FR 469, Jan. 4, 1991; Amdt. 91-227, 56 FR 65660, Dec. 17, 1991; Amdt. 91-227, 7 FR 328, Jan. 3, 1992; Amdt. 91-229, 57 FR 34618, Aug. 5, 1992; Amdt. 91-267, 66 FR 21066, Apr. 27, 2001; Amdt. 91-355, 84 FR 34287, July 18, 2019; Amdt. No. 91-361, 86 FR 4512, Jan. 15, 2021; Docket No. FAA-2023-1836; Amdt. No. 91-371, 88 FR 71476, Oct. 17, 2023]
