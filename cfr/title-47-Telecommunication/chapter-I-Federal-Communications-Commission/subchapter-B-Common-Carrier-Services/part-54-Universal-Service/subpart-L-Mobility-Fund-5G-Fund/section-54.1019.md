@@ -1,27 +1,31 @@
 ##### § 54.1019 Interim service and final service milestone reports. #####
 
-Link to an amendment published at 89 FR 101399, Dec. 13, 2024.
+(1) Certifications to representative data submitted in the Broadband Data Collection demonstrating mobile transmissions to and from the network that establish compliance with the 5G Fund coverage, speed, and latency requirements;
 
-(a) A recipient authorized to receive 5G Fund support shall submit a report to the Administrator on or before March 1 after the third, fourth, fifth, and sixth service milestone deadlines established in § 54.1015(b) demonstrating that it has deployed service meeting the 5G Fund performance requirements specified in § 54.1015(c), which shall include the following:
+(2) On-the-ground test data or infrastructure data to substantiate 5G broadband coverage data;
 
-(1) Certifications to representative data submitted in the Digital Opportunity Data Collection or as part of FCC Form 477, as applicable, demonstrating mobile transmissions to and from the network that establish compliance with the 5G Fund coverage, speed, and latency requirements;
+(i) On-the-ground test data must:
 
-(2) On-the-ground measurement tests to substantiate 5G broadband coverage data:
+(A) Be collected within each selected hexagon in a sample of hexagons at the resolution 9 level selected by Commission staff;
 
-(i) With at least three tests conducted per square kilometer, measured by overlaying a uniform grid of one square kilometer (1 km by 1 km) on the recipient's submitted in-vehicle 5G coverage maps within the area for which 5G Fund support was awarded;
+(B) Be conducted pursuant to the testing parameters and metrics for valid on-the-ground tests described in § 1.7006(c)(1)(i) and (ii) of this chapter;
 
-(ii) For a subset of drive-testable grid cells, such that the minimum percentage of drive-testable grid cells tested equals the minimum percentage of coverage required for each service buildout milestone (*i.e.,* interim milestones of 40 percent, 60 percent, and 80 percent, and the final milestone of 85 percent), with previously reported testing being cumulative; and
+(C) Show that at least 90% of the support recipient's speed test measurements demonstrate that it has deployed service meeting the 5G Fund performance requirements specified in § 54.1015(c) in the area(s) for which the support recipient is authorized to receive 5G Fund support;
 
-(iii) Where a drive-testable grid cell is any grid cell that has more than the *de minimis* amount of total roads specified in a public notice, based upon the most recent roadway data from the U.S. Census Bureau available for this purpose, considering roads classified in the primary road (S1100), secondary road (S1200), local road (S1400), and service drive (S1640) categories.
+(D) Include at least two tests within each of the selected hexagons where the time of the tests are at least four hours apart, irrespective of date, unless the support recipient has, and submits with its speed tests, actual cell loading data for the cell(s) covering the sampled hexagon showing that the median loading, measured in 15-minute intervals, did not exceed the modeled loading factor for the one-week period prior to the submission, in which case the support recipient must submit two speed tests for each hexagon and the two tests need not be recorded four hours apart;
 
-(3) Detailed cell-site and sector infrastructure information; and
+(E) Be conducted in an in-vehicle mobile environment with the antenna located inside the vehicle.
 
-(4) Additional information as required by the Commission in a public notice.
+(ii) Infrastructure data must include the information described in § 1.7006(c)(2)(i) of this chapter for all cell sites and antennas within the area(s) for which the support recipient is authorized to receive 5G Fund support;
 
-(b) All data submitted and certified to in compliance with a recipient's public interest obligations in the milestone report shall be in compliance with standards set forth in the applicable public notice and shall be certified by a professional engineer.
+(3) Additional information as required by Commission staff.
 
-(c) Each service milestone report shall be submitted solely via the Administrator's online portal.
+(b) All data submitted and certified to in compliance with a recipient's public interest obligations in the milestone report must be certified by an engineer with the same qualifications as required for submitting the Broadband Data Collection biannual filings described in § 1.7004 of this chapter.
 
-(d) All data submitted in and certified to in any service milestone report shall be subject to verification by the Administrator for compliance with the 5G Fund performance requirements specified in § 54.1015(c).
+(c) Each service milestone report must be submitted via the Commission's Broadband Data Collection portal.
 
-Effective Date Note:At 85 FR 75822, Nov. 25, 2020, § 54.1019 was revised, however, paragraphs (a)(1) through (a)(4) have a delayed effective date.
+(d) All data submitted in and certified to in any service milestone report shall be subject to verification by the Administrator and Commission staff for compliance with the 5G Fund performance requirements specified in § 54.1015(c).
+
+(e) Compliance with paragraphs (a)(1) through (3) and (b) of this section will not be required until after the completion of such review by the Office of Management and Budget as the Office of Economics and Analytics and Wireline Competition Bureau deem necessary. The Commission will publish a document in the Federal Register announcing that compliance date and revising or removing this paragraph (e).
+
+[76 FR 73877, Nov. 29, 2011, as amended at 89 FR 101399, Dec. 13, 2024] Effective Date Note:At 85 FR 75822, Nov. 25, 2020, § 54.1019 was revised, however, paragraphs (a)(1) through (a)(4) have a delayed effective date.

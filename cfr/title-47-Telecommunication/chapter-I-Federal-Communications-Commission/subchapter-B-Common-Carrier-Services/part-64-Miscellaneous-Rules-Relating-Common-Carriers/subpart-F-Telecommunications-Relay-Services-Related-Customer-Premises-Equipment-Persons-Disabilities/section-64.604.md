@@ -1,7 +1,5 @@
 ##### § 64.604 Mandatory minimum standards. #####
 
-Link to an amendment published at 89 FR 100896, Dec. 13, 2024.
-
 (a) *Operational standards*—(1) *Communications assistant (CA).* (i) TRS providers are responsible for requiring that all CAs be sufficiently trained to effectively meet the specialized communications needs of individuals with hearing and speech disabilities.
 
 (ii) CAs must have competent skills in typing, grammar, spelling, interpretation of typewritten ASL, and familiarity with hearing and speech disability cultures, languages and etiquette. CAs must possess clear and articulate voice communications.
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 100896, Dec. 13, 2024.
 
 (viii) STS providers shall offer STS users the option to have their voices muted so that the other party to the call will hear only the CA and will not hear the STS user's voice.
 
-(2) *Confidentiality and conversation content.* (i) Except as authorized by section 705 of the Communications Act, 47 U.S.C. 605, CAs are prohibited from disclosing the content of any relayed conversation regardless of content, and with a limited exception for STS CAs, from keeping records of the content of any conversation beyond the duration of a call, even if to do so would be inconsistent with state or local law. STS CAs may retain information from a particular call in order to facilitate the completion of consecutive calls, at the request of the user. The caller may request the STS CA to retain such information, or the CA may ask the caller if he wants the CA to repeat the same information during subsequent calls. The CA may retain the information only for as long as it takes to complete the subsequent calls.
+(2) *Confidentiality and conversation content.*(i) Except as authorized by section 705 of the Communications Act, 47 U.S.C. 605, TRS providers and CAs are prohibited from disclosing the content of any relayed conversation (and any non-relayed content communicated in a video conference) regardless of content, and with a limited exception for STS CAs, from keeping records of the content of any conversation (and any non-relayed content communicated in a video conference) beyond the duration of a call, even if to do so would be inconsistent with state or local law. STS CAs may retain information from a particular call in order to facilitate the completion of consecutive calls, at the request of the user. The caller may request the STS CA to retain such information, or the CA may ask the caller if he wants the CA to repeat the same information during subsequent calls. The CA may retain the information only for as long as it takes to complete the subsequent calls.
 
 (ii) CAs are prohibited from intentionally altering a relayed conversation and, to the extent that it is not inconsistent with federal, state or local law regarding use of telephone company facilities for illegal purposes, must relay all conversation verbatim unless the relay user specifically requests summarization, or if the user requests interpretation of an ASL call. An STS CA may facilitate the call of an STS user with a speech disability so long as the CA does not interfere with the independence of the user, the user maintains control of the conversation, and the user does not object. Appropriate measures must be taken by relay providers to ensure that confidentiality of VRS users is maintained.
 
@@ -188,7 +186,7 @@ Link to an amendment published at 89 FR 100896, Dec. 13, 2024.
 
 (*i*) Employ an automated record keeping system to capture such data required pursuant to paragraph (c)(5)(iii)(D)(*2*) of this section for each TRS call for which minutes are submitted to the fund administrator for compensation; and
 
-(*ii*) Submit such data electronically, in a standardized format. For purposes of this subparagraph, an automated record keeping system is a system that captures data in a computerized and electronic format that does not allow human intervention during the call session for either conversation or session time.
+(*ii*) Submit such data electronically, in a standardized format. For purposes of this subparagraph, an automated record keeping system is a system that captures data in a computerized and electronic format that does not allow human intervention during the call session for either conversation or session time; provided that, this subparagraph (c)(5)(iii)(D)(4) does not prohibit the submission of a CDR in which the end of conversation or session time is automatically determined by a CA's exit from a video conference prior to its termination, in accordance with the Commission's applicable rules.
 
 (*5*) *Certification.* The chief executive officer (CEO), chief financial officer (CFO), or other senior executive of a TRS provider with first hand knowledge of the accuracy and completeness of the information provided, when submitting a request for compensation from the TRS Fund must, with each such request, certify as follows:
 
@@ -204,9 +202,11 @@ I swear under penalty of perjury that:
 
 (*8*) [Reserved]
 
+(*9*) A VRS provider's call data shall identify each video conference in which integrated VRS is provided. For such video conferences, in lieu of the information specified in paragraphs (c)(5)(iii)(D)(1)(v) and (vi) of this section, a VRS provider may submit information, as specified in instructions issued by the administrator, that identifies the VRS user requesting service and the video conference session in which service was provided.
+
 (E) *Payments to TRS providers.* (*1*) TRS Fund payments shall be distributed to TRS providers based on formulas approved or modified by the Commission. The administrator shall file schedules of payment formulas with the Commission. Such formulas shall be designed to compensate TRS providers for reasonable costs of providing interstate TRS, and shall be subject to Commission approval. Such formulas shall be based on total monthly interstate TRS minutes of use. The formulas should appropriately compensate interstate providers for the provision of TRS, whether intrastate or interstate.
 
-(*2*) TRS minutes of use for purposes of interstate cost recovery under the TRS Fund are defined as the minutes of use for completed interstate TRS calls placed through the TRS center beginning after call set-up and concluding after the last message call unit.
+(*2*) TRS minutes of use for purposes of cost recovery from the TRS Fund are defined as the minutes of use for completed interstate or internet-based TRS calls placed through the TRS center beginning after call set-up and concluding after the last message call unit, except that for the provision of integrated VRS in a video conference, a VRS provider's TRS minutes of use are defined in paragraph (e) of this section.
 
 (*3*) In addition to the data required under paragraph (c)(5)(iii)(C) of this section, all TRS providers, including providers who are not interexchange carriers, local exchange carriers, or certified state relay providers, must submit reports of interstate TRS minutes of use to the administrator in order to receive payments.
 
@@ -358,13 +358,13 @@ I swear under penalty of perjury that:
 
 (iv) An IP CTS provider may complete and request compensation for IP CTS calls to or from unregistered users at a temporary, public IP CTS device set up in an emergency shelter. The IP CTS provider shall notify the TRS Fund administrator of the dates of activation and termination for such device.
 
-(14) *TRS calls requiring the use of multiple CAs.* The following types of calls that require multiple CAs for their handling are compensable from the TRS Fund:
+(14) TRS calls requiring the use of multiple CAs. TRS Fund compensation may be paid for more than one CA (or automated equivalent of a CA, when authorized) to handle the following types of calls:
 
-(i) VCO-to-VCO calls between multiple captioned telephone relay service users, multiple IP CTS users, or captioned telephone relay service users and IP CTS users;
+(i) VCO-to-VCO calls between multiple captioned telephone relay service users, multiple IP CTS users, or captioned telephone relay service users and IP CTS users; and
 
-(ii) Calls between captioned telephone relay service or IP CTS users and TTY service users; and
+(ii) Calls between users of different types of relay services for which more than one CA is warranted.
 
-(iii) Calls between captioned telephone relay service or IP CTS users and VRS users.
+(15) Exclusivity Agreements. A TRS provider may not enter into an agreement with an IVCS provider if such agreement would give the TRS provider exclusive access among TRS providers to the IVCS provider's facilities or such agreement would give the IVCS provider exclusive access among IVCS providers to the TRS provider's service via a video connection.
 
 (d) *Additional provisions applicable to VRS*—(1) *Eligibility for reimbursement from the TRS Fund.* (i) Only an eligible VRS provider, as defined in paragraph (c)(5)(iii)(F) of this section, may hold itself out to the general public as providing VRS.
 
@@ -398,7 +398,17 @@ I swear under penalty of perjury that:
 
 (4) *Remote training session calls.* VRS calls to a remote training session or a comparable activity will not be compensable from the TRS Fund when the provider submitting minutes for such a call has been involved, in any manner, with such a training session. Such prohibited involvement includes training programs or comparable activities in which the provider or any affiliate or related party thereto, including but not limited to its subcontractors, partners, employees or sponsoring organizations or entities, has any role in arranging, scheduling, sponsoring, hosting, conducting or promoting such programs or activities.
 
-(5) *Visual privacy screens/idle calls.* A VRS CA may not enable a visual privacy screen or similar feature during a VRS call. A VRS CA must disconnect a VRS call if the caller or the called party to a VRS call enables a privacy screen or similar feature for more than five minutes or is otherwise unresponsive or unengaged for more than five minutes, unless the call is a 9-1-1 emergency call or the caller or called party is legitimately placed on hold and is present and waiting for active communications to commence. Prior to disconnecting the call, the CA must announce to both parties the intent to terminate the call and may reverse the decision to disconnect if one of the parties indicates continued engagement with the call.
+(5) Visual privacy screens/idle calls.
+
+(i) Except as provided in this paragraph (d)(5), a VRS CA shall not enable a visual privacy screen or similar feature during a VRS call and must disconnect a VRS call if the caller or the called party enables a privacy screen or similar feature for more than five minutes or is otherwise unresponsive or unengaged for more than five minutes, unless the call is a 9-1-1 emergency call or the caller or called party is legitimately placed on hold and is present and waiting for active communications to commence. Prior to disconnecting the call, the CA must announce to both parties the intent to terminate the call and may reverse the decision to disconnect if one of the parties indicates continued engagement with the call.
+
+(ii) A VRS CA providing integrated VRS in a multi-party video conference:
+
+(A) may temporarily turn off the CA's video camera when engaged in team interpreting, if the other CA is actively providing ASL interpretation;
+
+(B) may stay connected to the video conference if the VRS user who requested service has turned off the user's camera, as long as that user stays connected to the video conference; and,
+
+(C) if five minutes elapse in which no party is responsive or engaged in conversation, shall announce that VRS will be terminated and the CA shall disconnect from the video conference.
 
 (6) *International calls.* VRS calls that originate from an international IP address will not be compensated, with the exception of calls made by a U.S. resident who has pre-registered with his or her default provider prior to leaving the country, during specified periods of time while on travel and from specified regions of travel, for which there is an accurate means of verifying the identity and location of such callers. For purposes of this section, an international IP address is defined as one that indicates that the individual initiating the call is located outside the United States.
 
@@ -456,6 +466,28 @@ I swear under penalty of perjury that:
 
 (iii) Subject any particular person, class of persons, or locality to any undue or unreasonable prejudice or disadvantage.
 
-(e) *Other standards.* The applicable requirements of § 9.14 of this chapter and §§ 64.611, 64.615, 64.621, 64.631, 64.632, 64.5105, 64.5107, 64.5108, 64.5109, and 64.5110 are to be considered mandatory minimum standards.
+(e) *Provision of integrated VRS in video conferences.* (1) A VRS provider may provide integrated VRS in a video conference upon request by a registered VRS user (or by a person authorized by a registered enterprise VRS user).
+
+(2) A VRS provider providing integrated VRS in a video conference shall:
+
+(i) Collect from the party requesting service sufficient information to confirm the requesting party's registration for VRS;
+
+(ii) Require CAs, when joining a video conference, to self-identify as a CA and provide the name of the VRS provider (*e.g.,* by editing their display name); and
+
+(iii) Treat each video conference as a single call for compensation purposes, except as specifically authorized by the Commission.
+
+(3) For the purpose of TRS Fund compensation for the provision of integrated VRS in a video conference, a VRS provider's TRS minutes of use begin when a CA enters the video conference, provided that the CA identifies the requesting VRS user within five minutes of entering the video conference. If, within that time, the CA cannot identify the requesting VRS user, or it is evident that VRS is not needed, then the call must be identified as non-compensable.
+
+(4) For the purpose of TRS Fund compensation for the provision of integrated VRS in a video conference, a VRS provider's TRS minutes of use end when the earliest of the following events occurs:
+
+(i) The CA disconnects from the video conference;
+
+(ii) All non-signing participants disconnect from the video conference;
+
+(iii) All signing participants disconnect from the video conference; or
+
+(iv) The registered VRS user who initially requested service disconnects from the video conference and five minutes elapse without a further request for service by a registered VRS user participant.
+
+(f) *Other standards.* The applicable requirements of § 9.14 of this chapter and §§ 64.611, 64.615, 64.621, 64.631, 64.632, 64.644, 64.5105, 64.5107, 64.5108, 64.5109, and 64.5110 are to be considered mandatory minimum standards.
 
 [65 FR 38436, June 21, 2000]Editorial Note:For Federal Register citations affecting § 64.604, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

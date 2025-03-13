@@ -194,7 +194,7 @@ A lease shall be entered into between the PHA and each tenant of a dwelling unit
 
 (3) *Lease termination notice.* (i) The PHA must give written notice of lease termination of:
 
-(A) 14 days in the case of failure to pay rent;
+(A) At least 30 days in the case of failure to pay rent;
 
 (B) A reasonable period of time considering the seriousness of the situation (but not to exceed 30 days):
 
@@ -206,7 +206,13 @@ A lease shall be entered into between the PHA and each tenant of a dwelling unit
 
 (C) 30 days in any other case, except that if a State or local law allows a shorter notice period, such shorter period shall apply.
 
-(ii) The notice of lease termination to the tenant shall state specific grounds for termination, and shall inform the tenant of the tenant's right to make such reply as the tenant may wish. The notice shall also inform the tenant of the right (pursuant to § 966.4(m)) to examine PHA documents directly relevant to the termination or eviction. When the PHA is required to afford the tenant the opportunity for a grievance hearing, the notice shall also inform the tenant of the tenant's right to request a hearing in accordance with the PHA's grievance procedure.
+(ii) The notice of lease termination to the tenant shall state specific grounds for termination, and shall inform the tenant of the tenant's right to make such reply as the tenant may wish. The notice shall also inform the tenant of the right (pursuant to paragraph (m) of this section) to examine PHA documents directly relevant to the termination or eviction. When the PHA is required to afford the tenant the opportunity for a grievance hearing, the notice shall also inform the tenant of the tenant's right to request a hearing in accordance with the PHA's grievance procedure. All notices of lease termination required by paragraph (1)(3)(i)(A) of this section due to a tenant's failure to pay rent must also include the following:
+
+(A) Instructions on how the tenant can cure the nonpayment of rent violation, including an itemized amount separated by month of alleged rent owed by the tenant, any other arrearages allowed by HUD and included in the lease separated by month, and the date by which the tenant must pay the amount of rent owed before an eviction for nonpayment of rent can be filed;
+
+(B) Information on how the tenant can recertify their income pursuant to 24 CFR 960.257(b), request a hardship exemption pursuant to 24 CFR 5.630(b), or request to switch from flat rent to income-based rent pursuant to 24 CFR 960.253(g); and
+
+(C) In the event of a Presidential declaration of a national emergency, such information as required by the Secretary.
 
 (iii) A notice to vacate which is required by State or local law may be combined with, or run concurrently with, a notice of lease termination under paragraph (l)(3)(i) of this section.
 
@@ -270,4 +276,8 @@ A lease shall be entered into between the PHA and each tenant of a dwelling unit
 
 (p) *Signature clause.* The lease shall provide a signature clause attesting that the lease has been executed by the parties.
 
-[56 FR 51576, Oct. 11, 1991, as amended at 61 FR 13273, Mar. 26, 1996; 65 FR 16730, Mar. 29, 2000; 66 FR 28802, May 24, 2001; 66 FR 32875, June 18, 2001; 66 FR 33134, June 20, 2001; 69 FR 68791, Nov. 26, 2004; 75 FR 66262, Oct. 27, 2010; 81 FR 12374, Mar. 8, 2016; 81 FR 80815, Nov. 16, 2016; 81 FR 87444, Dec. 5, 2016; 88 FR 9675, Feb. 14, 2023]
+(q) *Notification for nonpayment of rent.* The lease shall contain a provision or addendum that tenants will receive notification at least 30 days before an eviction for nonpayment of rent is filed.
+
+(r) *Time of service.* The PHA must not provide tenants with a termination notice prior to the day after the rent is due according to the lease. The PHA must not proceed with filing an eviction if the tenant pays the alleged amount of rent owed within the 30-day notification period.
+
+[56 FR 51576, Oct. 11, 1991, as amended at 61 FR 13273, Mar. 26, 1996; 65 FR 16730, Mar. 29, 2000; 66 FR 28802, May 24, 2001; 66 FR 32875, June 18, 2001; 66 FR 33134, June 20, 2001; 69 FR 68791, Nov. 26, 2004; 75 FR 66262, Oct. 27, 2010; 81 FR 12374, Mar. 8, 2016; 81 FR 80815, Nov. 16, 2016; 81 FR 87444, Dec. 5, 2016; 88 FR 9675, Feb. 14, 2023; 89 FR 101303, Dec. 13, 2024]

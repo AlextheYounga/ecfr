@@ -1,7 +1,5 @@
 ##### § 216.45 General Authorization for Level B harassment for scientific research. #####
 
-Link to an amendment published at 89 FR 100402, Dec. 12, 2024.
-
 (a) *General Authorization.* (1) Persons are authorized under section 104(c)(3)(C) of the MMPA to take marine mammals in the wild by Level B harassment, as defined in § 216.3, for purposes of bona fide scientific research *Provided,* That:
 
 (i) They submit a letter of intent in accordance with the requirements of paragraph (b) of this section, receive confirmation that the General Authorization applies in accordance with paragraph (c) of this section, and comply with the terms and conditions of paragraph (d) of this section; or
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 100402, Dec. 12, 2024.
 
 (iii) The geographic location(s) in which the research is to be conducted, e.g., geographic name or lat./long.;
 
-(iv) The period(s) of time over which the research will be conducted (up to five years), including the field season(s) for the research, if applicable;
+(iv) The period of time over which the research project or program will be conducted (*i.e.,* the requested period of the LOC), including the field season(s) for the research, if applicable;
 
 (v) The purpose of the research, including a description of how the proposed research qualifies as bona fide research as defined in § 216.3; and
 
@@ -60,7 +58,7 @@ In accordance with section 104(c)(3)(C) of the Marine Mammal Protection Act of 1
 
 (iv) Any incidental scientific, educational, or commercial uses of photographs, videotape, and film obtained as a result of or incidental to the research and if so, names of all photographers.
 
-(3) Authorization to conduct research under the General Authorization is for the period(s) of time identified in the letter of intent or for a period of 5 years from the date of the letter of confirmation issued under paragraph (c) of this section, whichever is less, unless extended by the Director or modified, suspended, or revoked in accordance with paragraph (e) of this section;
+(3) Authorization to conduct research under the General Authorization is for the period(s) of time identified in the letter of confirmation issued under paragraph (c) of this section, unless limited or extended by the Director, or modified, suspended, or revoked in accordance with paragraph (e) of this section;
 
 (4) Activities conducted under the General Authorization may only be conducted under the on-site supervision of the principal investigator or co-investigator(s) named in the letter of intent. All personnel involved in the conduct of activities under the General Authorization must perform a function directly supportive of and necessary for the research being conducted, or be one of a reasonable number of support personnel included for the purpose of training or as back-up personnel;
 
@@ -96,4 +94,4 @@ In accordance with section 104(c)(3)(C) of the Marine Mammal Protection Act of 1
 
 (2) Any suspension, revocation, or modification is subject to the requirements of 15 CFR part 904.
 
-[59 FR 50376, Oct. 3, 1994]
+[59 FR 50376, Oct. 3, 1994, as amended at 89 FR 100402, Dec. 12, 2024]

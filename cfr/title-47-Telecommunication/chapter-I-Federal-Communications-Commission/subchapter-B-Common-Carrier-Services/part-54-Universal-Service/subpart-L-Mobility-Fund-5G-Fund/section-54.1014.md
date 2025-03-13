@@ -1,7 +1,5 @@
 ##### § 54.1014 Application process. #####
 
-Link to an amendment published at 89 FR 101399, Dec. 13, 2024.
-
 (a) *Application to participate in competitive bidding for 5G Fund support.* In addition to providing the information specified in § 1.21001(b) of this chapter and any other information required by the Commission, an applicant to participate in competitive bidding for 5G Fund support shall:
 
 (1) Certify that the applicant is financially and technically capable of meeting the public interest obligations and performance requirements in § 54.1015 in each area for which it seeks support;
@@ -34,7 +32,9 @@ Link to an amendment published at 89 FR 101399, Dec. 13, 2024.
 
 (5) Certify that it will be subject to a forfeiture pursuant to § 1.21004 in the event of an auction default; and
 
-(6) Certify that the party submitting the application is authorized to do so on behalf of the applicant.
+(6) Certify, under penalty of perjury, that it has read the public notice adopting procedures for the 5G Fund Phase I auction, and that it has familiarized itself with those procedures and any requirements, terms, and conditions associated with receipt of 5G Fund support; and
+
+(7) Certify that the party submitting the application is authorized to do so on behalf of the applicant.
 
 (b) *Application by winning bidders for 5G Fund support*—(1) *Deadline.* Unless otherwise provided by public notice, winning bidders for 5G Fund support shall file an application for 5G Fund support no later than ten (10) business days after the public notice identifying them as winning bidders.
 
@@ -74,4 +74,6 @@ Link to an amendment published at 89 FR 101399, Dec. 13, 2024.
 
 (vi) After receipt of all necessary information, a public notice will identify each winning bidder that is authorized to receive 5G Fund support.
 
-Effective Date Note:At 85 FR 75822, Nov. 25, 2020, § 54.1014 was revised, however, paragraphs (a) and (b)(2) have a delayed effective date.
+(c) Compliance with paragraphs (a) and (b)(2) of this section will not be required until after the completion of such review by the Office of Management and Budget as the Office of Economics and Analytics and Wireline Competition Bureau deem necessary. The Commission will publish a document in the Federal Register announcing that compliance date and revising or removing this paragraph (c).
+
+[76 FR 73877, Nov. 29, 2011, as amended at 89 FR 101399, Dec. 13, 2024] Effective Date Note:At 85 FR 75822, Nov. 25, 2020, § 54.1014 was revised, however, paragraphs (a) and (b)(2) have a delayed effective date.

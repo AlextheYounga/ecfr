@@ -74,4 +74,4 @@ This section lists the captions contained in §§ 1.45V-1, 1.45V-2, and 1.45V-4 
 
 (d) Applicability date.
 
-[TD 10023; 90 FR 2309, Jan. 10, 2025]
+[T.D. 10023; 90 FR 2309, Jan. 10, 2025]

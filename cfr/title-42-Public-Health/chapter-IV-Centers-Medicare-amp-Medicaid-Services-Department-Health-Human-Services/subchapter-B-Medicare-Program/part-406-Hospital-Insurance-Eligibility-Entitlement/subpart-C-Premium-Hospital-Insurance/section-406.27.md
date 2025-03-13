@@ -24,7 +24,7 @@
 
 (d) *SEP for formerly incarcerated individuals.* An SEP exists for Medicare eligible individuals who are no longer incarcerated on or after January 1, 2023.
 
-(1) *SEP parameters and duration before January 1, 2025*—(i) *Eligibility.* An individual is eligible for this SEP if they are released from the custody of penal authorities between January 1, 2023, and December 31, 2024, as described in § 411.4(b) of this subchapter. The individual must demonstrate that they are eligible for Medicare and failed to enroll or reenroll in Medicare premium Part A due to being in custody of penal authorities and there is a record of release either through discharge documents or data available to SSA.
+(1) *SEP parameters and duration before January 1, 2025*—(i) *Eligibility.* An individual is eligible for this SEP if they are released from the custody of penal authorities between January 1, 2023, and December 31, 2024, as described in § 411.4(b) of this subchapter. The individual must demonstrate that they are eligible for Medicare and failed to enroll or reenroll in Medicare premium Part A due to being in the custody of penal authorities and there is a record of release either through discharge documents or data available to SSA.
 
 (ii) *SEP duration.* The SEP starts the day of the individual's release from the custody of penal authorities and ends the last day of the 12th month after the month in which the individual is released from the custody of penal authorities.
 
@@ -70,4 +70,4 @@
 
 (3) *Entitlement.* Entitlement begins the first day of the month following the month of enrollment, so long as the date is on or after January 1, 2023.
 
-[87 FR 66504, Nov. 3, 2022, as amended at 89 FR 94586, Nov. 27, 2024]
+[87 FR 66504, Nov. 3, 2022, as amended at 89 FR 94586, Nov. 27, 2024; 90 FR 2635, Jan. 13, 2025]

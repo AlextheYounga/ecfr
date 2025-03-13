@@ -1,7 +1,5 @@
 ##### § 30.2 Definitions. #####
 
-Link to an amendment published at 89 FR 100868, Dec. 13, 2024.
-
 The following definitions apply to this part:
 
 *Authorized bandwidth.* The maximum width of the band of frequencies permitted to be used by a station. This is normally considered to be the necessary or occupied bandwidth, whichever is greater. (See § 2.202 of this chapter).
@@ -11,6 +9,8 @@ The following definitions apply to this part:
 *Fixed satellite earth station.* An earth station intended to be used at a specified fixed point.
 
 *Local Area Operations.* Operations confined to physical facility boundaries, such as a factory.
+
+*Maximum Conducted Output Power.* The total transmit power delivered to all antennas and antenna *elements* averaged across all symbols in the signaling alphabet when the transmitter is operating at its maximum power control level. Power must be summed across all antennas and antenna elements. The average must not include any time intervals during which the transmitter is off or is transmitting at a reduced power level. If multiple modes of operation are possible (*e.g.,* alternative modulation methods), the *maximum conducted output power* is the highest total transmit power occurring in any mode.
 
 *Point-to-Multipoint Hub Station.* A fixed point-to-multipoint radio station that provides one-way or two-way communication with fixed Point-to-Multipoint Service User Stations.
 
@@ -29,3 +29,5 @@ The following definitions apply to this part:
 *Transportable station.* Transmitting equipment that is not intended to be used while in motion, but rather at stationary locations.
 
 *Universal Licensing System.* The Universal Licensing System (ULS) is the consolidated database, application filing system, and processing system for all Wireless Radio Services. ULS supports electronic filing of all applications and related documents by applicants and licensees in the Wireless Radio Services, and provides public access to licensing information.
+
+[81 FR 79937, Nov. 14, 2016, as amended at 89 FR 100868, Dec. 13, 2024]

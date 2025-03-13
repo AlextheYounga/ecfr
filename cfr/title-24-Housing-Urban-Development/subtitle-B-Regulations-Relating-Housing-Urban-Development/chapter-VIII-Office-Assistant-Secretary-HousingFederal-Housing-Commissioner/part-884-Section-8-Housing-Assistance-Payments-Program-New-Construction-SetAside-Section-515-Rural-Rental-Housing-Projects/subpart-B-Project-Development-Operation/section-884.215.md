@@ -1,8 +1,6 @@
 ##### § 884.215 Lease requirements. #####
 
-Link to an amendment published at 89 FR 101303, Dec. 13, 2024.
-
-The Lease shall contain all required provisions specified in paragraph (b) of this section and none of the prohibited provisions listed in paragraph (c) of this section.
+The Lease shall contain all required provisions specified in paragraph (b) of this section and none of the prohibited provisions listed in paragraph (c) of this section. In addition to the provisions specified in paragraph (b), the lease shall also contain a provision or addendum that tenants will receive notification at least 30 days before an eviction for nonpayment of rent is filed.
 
 (a) *Term of lease.* The term of the Lease shall be for not less than one year. The Lease may (or, in the case of a Lease for a term of more than one year, shall) contain a provision permitting termination upon 30 days advance written notice by either party.
 
@@ -39,3 +37,5 @@ Lessor By Date Lessee Date
 (7) *Waiver of right to appeal judicial error in legal proceedings.* Authorization to the landlord's lawyer to waive the tenant's right to appeal on the ground of judicial error in any suit or the tenant's right to file a suit in equity to prevent the execution of a judgment.
 
 (8) *Tenant chargeable with costs of legal actions regardless of outcome.* Agreement by the tenant to pay attorney's fees or other legal costs whenever the landlord decides to take action against the tenant even though the court finds in favor of the tenant. (Omission of such clause does not mean that the tenant as a party to a lawsuit may not be obligated to pay attorney's fee or other costs if he loses the suit.)
+
+[45 FR 6909, Jan. 30, 1980, as amended at 89 FR 101303, Dec. 13, 2024]

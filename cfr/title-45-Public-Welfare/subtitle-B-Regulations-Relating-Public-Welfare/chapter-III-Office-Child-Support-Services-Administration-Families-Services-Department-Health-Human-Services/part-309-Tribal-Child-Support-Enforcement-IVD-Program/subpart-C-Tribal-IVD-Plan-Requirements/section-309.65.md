@@ -1,7 +1,5 @@
 ##### § 309.65 What must a Tribe or Tribal organization include in a Tribal IV-D plan in order to demonstrate capacity to operate a Tribal IV-D program? #####
 
-Link to an amendment published at 89 FR 100809, Dec. 13, 2024.
-
 (a) A Tribe or Tribal organization demonstrates capacity to operate a Tribal IV-D program meeting the objectives of title IV-D of the Act and these regulations by submission of a Tribal IV-D plan which contains the required elements listed in paragraphs (a)(1) through (14) of this section:
 
 (1) A description of the population subject to the jurisdiction of the Tribal court or administrative agency for child support purposes as specified under § 309.70;
@@ -32,8 +30,12 @@ Link to an amendment published at 89 FR 100809, Dec. 13, 2024.
 
 (14) Tribally-determined performance targets for paternity establishment, support order establishment, amount of current support to be collected, amount of past due support to be collected, and any other performance measures a Tribe or Tribal organization may want to submit.
 
-(b) If a Tribe or Tribal organization currently is unable to satisfy any or all of the requirements specified in paragraph (a) of this section:
+(b) The Tribal plan may provide for employment and training services for eligible noncustodial parents in accordance with § 309.121. If the Tribe or Tribal organization chooses this option, the Tribal plan must include a description of the employment and training services and the eligibility criteria. In addition, to ensure the Tribal IV-D agency is providing well-coordinated and non-duplicative employment and training services, the Tribal plan must explain how the Tribal IV-D agency has consulted with, and taken into consideration services provided by, federally-funded employment and training programs administered by the Tribe. Tribes or Tribal organizations electing the option must comply with future reporting requirements prescribed by the Office of Child Support Services.
+
+(c) If a Tribe or Tribal organization currently is unable to satisfy any or all of the requirements specified in paragraph (a) of this section:
 
 (1) It may demonstrate capacity to operate a Tribal IV-D program meeting the objectives of title IV-D of the Act and these regulations by submission of an application for start-up funding as required by § 309.16(a) of this part.
 
 (2) The Secretary may cease start-up funding to a Tribe or Tribal organization if that Tribe or Tribal organization fails to satisfy one or more provisions or milestones described in its program development plan within the timeframe specified in such plan.
+
+[69 FR 16672, Mar. 30, 2004, as amended at 89 FR 100809, Dec. 13, 2024]

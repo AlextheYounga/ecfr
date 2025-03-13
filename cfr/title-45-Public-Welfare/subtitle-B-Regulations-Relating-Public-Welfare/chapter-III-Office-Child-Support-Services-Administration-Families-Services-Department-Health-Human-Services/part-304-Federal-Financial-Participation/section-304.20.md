@@ -1,6 +1,6 @@
 ##### § 304.20 Availability and rate of Federal financial participation. #####
 
-Link to an amendment published at 89 FR 80072, Oct. 2, 2024.Link to an amendment published at 89 FR 100809, Dec. 13, 2024.Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+Link to an amendment published at 89 FR 80072, Oct. 2, 2024.Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
 
 (a) Federal financial participation at the applicable matching rate is available for:
 
@@ -92,9 +92,11 @@ Link to an amendment published at 89 FR 80072, Oct. 2, 2024.Link to an amendment
 
 (v) Bus fare or other minor transportation expenses to enable custodial or noncustodial parties to participate in child support proceedings and related activities;
 
-(vi) Services to increase *pro se* access to adjudicative and alternative dispute resolution processes in IV-D cases related to providing child support services; and
+(vi) Services to increase *pro se* access to adjudicative and alternative dispute resolution processes in IV-D cases related to providing child support services;
 
-(vii) Investigation and prosecution of fraud related to child and spousal support.
+(vii) Employment and training services activities in accordance with §§ 302.76 and 303.6(c)(5) of this chapter; and
+
+(viii) Investigation and prosecution of fraud related to child and spousal support.
 
 (4) The collection and distribution of support payments including:
 

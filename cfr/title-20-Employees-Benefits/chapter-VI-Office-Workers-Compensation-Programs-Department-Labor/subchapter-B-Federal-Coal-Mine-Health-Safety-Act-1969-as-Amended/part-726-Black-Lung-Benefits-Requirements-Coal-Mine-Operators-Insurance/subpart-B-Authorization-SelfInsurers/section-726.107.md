@@ -1,3 +1,13 @@
-##### § 726.107 Deposits of negotiable securities with Federal Reserve banks or the Treasurer of the United States; authority to sell such securities; interest thereon. #####
+##### § 726.107 How negotiable securities are handled. #####
 
-Deposits of securities provided for by the regulations in this part shall be made with any Federal Reserve bank or any branch of a Federal Reserve bank designated by the Office, or the Treasurer of the United States, and shall be held subject to the order of the Office with power in the Office, in its discretion in the event of default by the said self-insurer, to collect the interest as it may become due, to sell the securities or any of them as may be required to discharge the obligations of the self-insurer under the Act and to apply the proceeds to the payment of any benefits or medical expenses for which the self-insurer may be liable. The Office may, however, whenever it deems it unnecessary to resort to such securities for the payment of benefits, authorize the self-insurer to collect interest on the securities deposited by him.
+(a) Deposits of securities provided for by the regulations in this part must be made with any Federal Reserve bank or any branch of a Federal Reserve bank designated by OWCP, or the Treasurer of the United States, and must be held in the name of the Department of Labor.
+
+(b) If the self-insurer defaults on its obligations under the Act, OWCP has the power, in its discretion, to:
+
+(1) Collect the interest as it may become due;
+
+(2) Sell any or all of the securities; and
+
+(3) Apply the collected interest or proceeds from the sale of securities to the payment of any benefits for which the self-insurer may be liable.
+
+(c) If a self-insurer with deposits of securities has neither defaulted nor appealed from a determination made by OWCP under § 726.104, OWCP may allow the self-insurer to collect interest on the security deposit.

@@ -1,12 +1,10 @@
 ##### § 216.35 Permit restrictions. #####
 
-Link to an amendment published at 89 FR 100402, Dec. 12, 2024.
-
 The following restrictions shall apply to all permits issued under this subpart:
 
 (a) The taking, importation, export, or other permitted activity involving marine mammals and marine mammal parts shall comply with the regulations of this subpart.
 
-(b) The maximum period of any special exception permit issued, or any major amendment granted, is five years from the effective date of the permit or major amendment. In accordance with the provisions of § 216.39, the period of a permit may be extended by a minor amendment up to 12 months beyond that established in the original permit.
+(b) Special exception permits expire on the date specified in the permit, unless limited or extended in duration by the Director in accordance with §§ 216.36 and 216.39.
 
 (c) Except as provided for in § 216.41(c)(1)(v), marine mammals or marine mammal parts imported under the authority of a permit must be taken or imported in a humane manner, and in compliance with the Acts and any applicable foreign law. Importation of marine mammals and marine mammal parts is subject to the provisions of 50 CFR part 14.
 
@@ -24,4 +22,4 @@ The following restrictions shall apply to all permits issued under this subpart:
 
 (j) The permit holder or designated agent shall possess a copy of the permit when engaged in a permitted activity, when the marine mammal is in transit incidental to such activity, and whenever marine mammals or marine mammal parts are in the possession of the permit holder or agent. A copy of the permit shall be affixed to any container, package, enclosure, or other means of containment, in which the marine mammals or marine mammal parts are placed for purposes of transit, supervision, or care. For marine mammals held captive and marine mammal parts in storage, a copy of the permit shall be kept on file in the holding or storage facility.
 
-[61 FR 21936, May 10, 1996]
+[61 FR 21936, May 10, 1996, as amended at 89 FR 100402, Dec. 12, 2024]

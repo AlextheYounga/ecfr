@@ -1,3 +1,5 @@
-##### § 726.109 Increase or reduction in the amount of security. #####
+##### § 726.109 Increase in the amount of security. #####
 
-Whenever in the opinion of the Office the amount of security given by the self-insurer is insufficient to afford adequate security for the payment of benefits and medical expenses under the Act, the self-insurer shall, upon demand by the Office, file such additional security as the Office may require. The Office may reduce the amount of security at any time on its own initiative, or upon the application of a self-insurer, when it believes the facts warrant a reduction. A self-insurer seeking a reduction shall furnish such information as the Office may request relative to his current affairs, the nature and hazard of the work of his employees, the amount of the payroll of his employees engaged in coal mine employment within the purview of the Act, his financial condition, and such other evidence as may be deemed material, including a record of benefit payments he has made.
+(a) OWCP may, at its discretion, increase the amount of security a self-insurer is required to post whenever it determines that the amount of security on deposit is insufficient to secure 100 percent of the self-insurer's liability for payment of benefits and medical expenses under the Act. OWCP will provide a written explanation for the increase.
+
+(b) OWCP will not require an operator to post greater than 100 percent of its estimated liabilities, based on the information prompting the increase in security.

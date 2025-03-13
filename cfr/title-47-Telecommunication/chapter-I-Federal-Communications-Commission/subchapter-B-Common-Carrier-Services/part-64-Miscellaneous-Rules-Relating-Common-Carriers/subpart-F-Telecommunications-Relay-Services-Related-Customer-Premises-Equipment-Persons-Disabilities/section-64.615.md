@@ -1,12 +1,8 @@
 ##### § 64.615 TRS User Registration Database and administrator. #####
 
-Link to an amendment published at 89 FR 100897, Dec. 13, 2024.
-
 (a) *TRS User Registration Database.*
 
-(1) *VRS users call validation.* VRS providers shall validate the eligibility of the party on the video side of each call by querying the TRS User Registration Database or the TRS Numbering Directory, as directed by the Commission, the TRS Fund administrator, or the TRS Numbering Administrator, on a per-call basis. Emergency 911 calls are excepted from the requirement in this paragraph (a)(1).
-
-(i) Validation shall occur during the call setup process, prior to the placement of the call.
+\>(i) Validation shall occur during the call setup process, prior to the placement of the call, except that validation of the provision of integrated VRS in a video conference shall occur prior to the connection of a VRS CA to the video conference.
 
 (ii) If the eligibility of at least one party to the call is not validated using the TRS User Registration Database, the call shall not be completed, and the VRS provider shall either terminate the call or, if appropriate, offer to register the user if they are able to demonstrate eligibility.
 
@@ -52,4 +48,4 @@ Link to an amendment published at 89 FR 100897, Dec. 13, 2024.
 
 (2) *Compensation.* The TRS Fund, as defined by § 64.604(a)(5)(iii) of this subpart, may be used to compensate the administrator of the TRS User Registration Database for the reasonable costs of administration pursuant to the terms of its contract.
 
-[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017; 84 FR 8463, Mar. 8, 2019; 84 FR 26372, June 6, 2019; 85 FR 26858, May 6, 2020; 87 FR 57648, Sept. 21, 2022]
+[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017; 84 FR 8463, Mar. 8, 2019; 84 FR 26372, June 6, 2019; 85 FR 26858, May 6, 2020; 87 FR 57648, Sept. 21, 2022;89 FR 100897, Dec. 13, 2024]

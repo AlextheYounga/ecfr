@@ -1,7 +1,5 @@
 ##### § 14.21 Performance Objectives. #####
 
-Link to an amendment published at 89 FR 100896, Dec. 13, 2024.
-
 (a) *Generally.* Manufacturers and service providers shall ensure that equipment and services covered by this part are accessible, usable, and compatible as those terms are defined in paragraphs (b) through (d) of this section.
 
 (b) *Accessible.* The term accessible shall mean that:
@@ -36,7 +34,11 @@ Link to an amendment published at 89 FR 100896, Dec. 13, 2024.
 
 (iii) *Access to moving text.* Provide moving text in at least one static presentation mode at the option of the user.
 
-(iv) *Availability of auditory information.* Provide auditory information through at least one mode in visual form and, where appropriate, in tactile form.
+(iv) *Availability of auditory information.* Provide auditory information through at least one mode in visual form and, where appropriate, in tactile form. For interoperable video conferencing services, beginning January 12, 2027, provide at least one mode with captions that accurately and synchronously display the spoken communications in a video conference, and enable users to connect with third-party captioning services so that captions provided by such services appear on the requesting user's video conference screen. In this paragraph (b)(2)(iv):
+
+(A) *Accurately* means that captioning matches the spoken words of a conversation, in the order spoken, verbatim, without summarizing or paraphrasing, sufficiently to enable a user to understand what is being said.
+
+(B) *Synchronously* means that, to the greatest extent possible, the captions begin to appear at the time that the corresponding speech or sounds begin and end approximately when the speech or sounds end, are delivered fast enough to keep up with the speed of those words and sounds, and remain displayed long enough to be read by the user.
 
 (v) *Availability of auditory information for people who are hard of hearing.* Provide audio or acoustic information, including any auditory feedback tones that are important for the use of the product, through at least one mode in enhanced auditory fashion (*i.e.,* increased amplification, increased signal-to-noise ratio, or combination).
 
@@ -49,6 +51,16 @@ Link to an amendment published at 89 FR 100896, Dec. 13, 2024.
 (ix) *Hearing aid coupling.* Where a product delivers output by an audio transducer which is normally held up to the ear, provide a means for effective wireless coupling to hearing aids.
 
 (3) *Real-Time Text.* Wireless interconnected VoIP services subject to this part and text-capable end user devices used with such services that do not themselves provide TTY functionality, may provide TTY connectability and signal compatibility pursuant to paragraphs (b)(3) and (4) of this section, or support real-time text communications, in accordance with 47 CFR part 67.
+
+(4) *Interoperable Video Conferencing Service.* In addition to the other requirements of this section, beginning January 12, 2027, interoperable video conferencing services and covered equipment and software used with such services shall:
+
+(i) Enable the use of sign language interpretation provided by third parties, including the transmission of user requests for sign language interpretation to providers of video relay service and other entities and the provision of sufficient video quality to support sign language communication.
+
+(ii) Provide user interface control functions that permit users to activate and adjust the display of captions, speakers, and signers and other features for which user control is necessary for accessibility. In this paragraph (ii):
+
+(A) *Adjust the display of captions* means that a video conference participant can alter the size, font, and on-screen location of captions and adjust the color and opacity of both the captions and the caption background.
+
+(B) *Adjust the display of speakers and signers* means that video conference participants can minimize or hide extraneous windows, expand the windows of their choice, or relocate particular windows; and edit their own display names before or after joining a video conference.
 
 (c) *Usable.* The term usable shall mean that individuals with disabilities have access to the full functionality and documentation for the product, including instructions, product information (including accessible feature information), documentation and technical support functionally equivalent to that provided to individuals without disabilities.
 
@@ -64,4 +76,4 @@ Link to an amendment published at 89 FR 100896, Dec. 13, 2024.
 
 (5) *TTY Support Exemption.* Interconnected and non-interconnected VoIP services subject to this part that are provided over wireless IP facilities and equipment are not required to provide TTY connectability and TTY signal compatibility if such services and equipment support real-time text, in accordance with 47 CFR part 67.
 
-[76 FR 82389, Dec. 30, 2011, as amended at 82 FR 7707, Jan. 23, 2017]
+[76 FR 82389, Dec. 30, 2011, as amended at 82 FR 7707, Jan. 23, 2017; 89 FR 100896, Dec. 13, 2024]

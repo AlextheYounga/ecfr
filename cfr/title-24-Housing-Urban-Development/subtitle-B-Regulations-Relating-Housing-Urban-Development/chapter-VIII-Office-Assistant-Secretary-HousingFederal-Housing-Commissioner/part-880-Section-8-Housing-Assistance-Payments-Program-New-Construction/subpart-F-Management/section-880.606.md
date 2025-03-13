@@ -1,10 +1,10 @@
 ##### § 880.606 Lease requirements. #####
 
-Link to an amendment published at 89 FR 101303, Dec. 13, 2024.
-
 (a) *Term of Lease.* The term of the lease will be for not less than one year. The lease may, or in the case of a lease for a term of more than one year must, contain a provision permitting termination on 30 days advance written notice by the family.
 
-(b) *Form*—(1) *Part 880 and 24 CFR part 881 projects.* For this part 880 and 24 CFR part 881 projects, the form of lease must contain all required provisions, and none of the prohibited provisions specified in the developer's packet, and must conform to the form of lease included in the approved final proposal.
+(b) *Notification for nonpayment of rent.* The lease must also contain a provision or addendum that tenants will receive notification at least 30 days before a formal judicial eviction is filed.
+
+(c) *Form*—(1) *Part 880 and 24 CFR part 881 projects.* For this part 880 and 24 CFR part 881 projects, the form of lease must contain all required provisions, and none of the prohibited provisions specified in the developer's packet, and must conform to the form of lease included in the approved final proposal.
 
 (2) *24 CFR part 883 projects.* For 24 CFR part 883 projects, the form of lease must contain all required provisions, and none of the prohibited provisions specified below.
 
@@ -46,4 +46,4 @@ g. *Waiver of Right to Appeal Court Decision.* Authorization to the landlord's l
 
 h. *Tenant Chargeable with Cost of Legal Actions Regardless of Outcome of Lawsuit.* Agreement by the tenant to pay lawyer's fees or other legal costs whenever the landlord decides to sue the tenant whether or not the tenant wins. (Omission of such a clause does not mean that the tenant, as a party to a lawsuit, may not have to pay lawyer's fees or other costs if the court so orders.)
 
-[End of clauses][44 FR 59410, Oct. 15, 1979, as amended at 61 FR 13590, Mar. 27, 1996]
+[End of clauses][44 FR 59410, Oct. 15, 1979, as amended at 61 FR 13590, Mar. 27, 1996; 89 FR 101303, Dec. 13, 2024]

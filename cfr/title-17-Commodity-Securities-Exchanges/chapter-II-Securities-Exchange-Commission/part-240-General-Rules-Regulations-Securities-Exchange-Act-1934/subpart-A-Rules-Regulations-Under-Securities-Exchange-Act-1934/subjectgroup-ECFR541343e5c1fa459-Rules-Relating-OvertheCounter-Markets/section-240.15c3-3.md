@@ -1,5 +1,7 @@
 ##### § 240.15c3-3 Customer protection—reserves and custody of securities. #####
 
+Link to an amendment published at 90 FR 2837, Jan. 13, 2025.
+
 Except where otherwise noted, § 240.15c3-3 applies to a broker or dealer registered under section 15(b) of the Act (15 U.S.C. 78o(b)), including a broker or dealer also registered as a security-based swap dealer or major security-based swap participant under section 15F(b) of the Act (15 U.S.C. 78o-10(b)). A security-based swap dealer or major security-based swap participant registered under section 15F(b) of the Act that is not also registered as a broker or dealer under section 15(b) of the Act is subject to the requirements under § 240.18a-4.
 
 (a) *Definitions.* For the purpose of this section:

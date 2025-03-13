@@ -1,6 +1,6 @@
 ##### § 304.23 Expenditures for which Federal financial participation is not available. #####
 
-Link to an amendment published at 89 FR 100809, Dec. 13, 2024.Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
+Link to an amendment published at 89 FR 107019, Dec. 31, 2024.
 
 Federal financial participation at the applicable matching rate is not available for:
 
@@ -24,4 +24,6 @@ Federal financial participation at the applicable matching rate is not available
 
 (j) The costs of *guardians ad litem* in IV-D actions.
 
-[81 FR 93567, Dec. 20, 2016]
+(k) Any expenditures under § 303.6(c)(5) of this chapter for subsidized employment or payment of cash, checks, reimbursements, or any other form of payment that can be legally converted to currency provided to the noncustodial parent.
+
+[81 FR 93567, Dec. 20, 2016, as amended at 89 FR 100809, Dec. 13, 2024]

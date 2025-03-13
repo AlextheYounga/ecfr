@@ -1,12 +1,14 @@
 ##### § 1926.95 Criteria for personal protective equipment. #####
 
-Link to an amendment published at 89 FR 100346, Dec. 12, 2024.
-
 (a) *Application.* Protective equipment, including personal protective equipment for eyes, face, head, and extremities, protective clothing, respiratory devices, and protective shields and barriers, shall be provided, used, and maintained in a sanitary and reliable condition wherever it is necessary by reason of hazards of processes or environment, chemical hazards, radiological hazards, or mechanical irritants encountered in a manner capable of causing injury or impairment in the function of any part of the body through absorption, inhalation or physical contact.
 
 (b) *Employee-owned equipment.* Where employees provide their own protective equipment, the employer shall be responsible to assure its adequacy, including proper maintenance, and sanitation of such equipment.
 
-(c) *Design.* All personal protective equipment shall be of safe design and construction for the work to be performed.
+(c) *Design and selection.* Employers must ensure that all personal protective equipment:
+
+(1) Is of safe design and construction for the work to be performed; and
+
+(2) Is selected to ensure that it properly fits each affected employee.
 
 (d) *Payment for protective equipment.* (1) Except as provided by paragraphs (d)(2) through (d)(6) of this section, the protective equipment, including personal protective equipment (PPE), used to comply with this part, shall be provided by the employer at no cost to employees.
 
@@ -30,4 +32,4 @@ Note to § 1926.95(d):
 
 When the provisions of another OSHA standard specify whether or not the employer must pay for specific equipment, the payment provisions of that standard shall prevail.
 
-[58 FR 35152, June 30, 1993, as amended at 72 FR 64429, Nov. 15, 2007]
+[58 FR 35152, June 30, 1993, as amended at 72 FR 64429, Nov. 15, 2007; 89 FR 100346, Dec. 12, 2024]

@@ -1,3 +1,5 @@
-##### § 302.76 xxx #####
+##### § 302.76 Employment and training services. #####
 
-Link to an amendment published at 89 FR 100808, Dec. 13, 2024.
+The State plan may provide for employment and training services for eligible noncustodial parents in accordance with § 303.6(c)(5) of this chapter. If the State chooses this option, the State plan must include a description of the employment and training services and the eligibility criteria. In addition, to ensure the IV-D agency is providing well-coordinated and non-duplicative employment and training services, the State plan must explain how the IV-D agency has consulted with, and taken into consideration the services provided by, the State agencies administering the following programs: the Temporary Assistance for Needy Families program (45 CFR part 261), the Supplemental Nutrition Assistance Program Employment and Training program (7 CFR 273.7 and 273.24), the Adult, Dislocated Worker, and Youth programs under title I of the Workforce Innovation and Opportunity Act (20 CFR parts 675 through 688), the Adult Education and Family Literacy Act program (34 CFR part 463), the Employment Service program (20 CFR part 652), and the Vocational Rehabilitation program (34 CFR part 361). States electing the option must comply with future reporting requirements prescribed by the Office.
+
+[89 FR 100808, Dec. 13, 2024]

@@ -24,10 +24,10 @@ If the CAH offers obstetrical services, the services must be well organized and 
 
 (2) The CAH must provide relevant new staff with initial training.
 
-(3) The governing body must identify and document which staff must complete initial training and subsequent biannual training on the topics identified at paragraph (c)(1) of this section.
+(3) The governing body must identify and document which staff must complete initial training and subsequent biennial training on the topics identified at paragraph (c)(1) of this section.
 
 (4) The CAH must document in the staff personnel records that the training was successfully completed.
 
 (5) The CAH must be able to demonstrate staff knowledge on the topics identified at paragraph (c)(1) of this section.
 
-[89 FR 94593, Nov. 27, 2024]
+[89 FR 94593, Nov. 27, 2024; 90 FR 2636, Jan. 13, 2025]

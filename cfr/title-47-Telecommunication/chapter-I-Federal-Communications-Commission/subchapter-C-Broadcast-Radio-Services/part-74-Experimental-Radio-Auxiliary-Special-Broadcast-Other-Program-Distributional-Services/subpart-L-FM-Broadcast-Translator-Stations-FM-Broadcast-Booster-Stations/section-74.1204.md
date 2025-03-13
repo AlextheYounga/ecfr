@@ -1,6 +1,6 @@
 ##### § 74.1204 Protection of FM broadcast, FM Translator and LP100 stations. #####
 
-Link to an amendment published at 89 FR 100877, Dec. 13, 2024.This amendment was delayed indefinitely at 89 FR 100877, Dec. 13, 2024.
+This amendment was delayed indefinitely at 89 FR 100877, Dec. 13, 2024.
 
 (a) An application for an FM translator station will not be accepted for filing if the proposed operation would involve overlap of predicted field contours with any other authorized commercial or noncommercial educational FM broadcast stations, FM translators, and Class D (secondary) noncommercial educational FM stations; or if it would result in new or increased overlap with an LP100 station, as set forth:
 
@@ -35,9 +35,7 @@ Link to an amendment published at 89 FR 100877, Dec. 13, 2024.This amendment was
 |     Co-channel     |                    0.1 mV/m (40 dBu)                    |            1 mV/m (60 dBu)            |
 |      200 kHz       |                    0.5 mV/m (54 dBu)                    |            1 mV/m (60 dBu)            |
 
-Note to paragraph (a)(4):
-
-LP100 stations, to the purposes of determining overlap pursuant to this paragraph, LPFM applications and permits that have not yet been licensed must be considered as operating with the maximum permitted facilities. All LPFM TIS stations must be protected on the basis of a nondirectional antenna.
+(5) For the purposes of determining overlap pursuant to this paragraph, LP100 stations, LPFM applications, and LPFM permits that have not yet been licensed must be considered as operating with the maximum permitted facilities. All LPFM TIS stations must be protected on the basis of a nondirectional antenna.
 
 (b) The following standards must be used to compute the distances to the pertinent contours:
 
@@ -79,8 +77,8 @@ LP100 stations, to the purposes of determining overlap pursuant to this paragrap
 
 (h) An application for an FM translator station will not be accepted for filing if it specifies a location within 320 kilometers (approximately 199 miles) of either the Canadian or Mexican borders and it does not comply with § 74.1235(d) of this part.
 
-(i) FM booster stations shall be subject to the requirement that the signal of any first adjacent channel station must exceed the signal of the booster station by 6 dB at all points within the protected contour of any first adjacent channel station, except that in the case of FM stations on adjacent channels at spacings that do not meet the minimum distance separations specified in § 73.207 of this chapter, the signal of any first adjacent channel station must exceed the signal of the booster by 6 dB at any point within the predicted interference free contour of the adjacent channel station.
+(i) FM broadcast booster stations shall be subject to the requirement that the signal of any first adjacent channel station must exceed the signal of the booster station by 6 dB at all points within the protected contour of any first adjacent channel station, except that in the case of FM stations on adjacent channels at spacings that do not meet the minimum distance separations specified in § 73.207 of this chapter, the signal of any first adjacent channel station must exceed the signal of the booster by 6 dB at any point within the predicted interference free contour of the adjacent channel station.
 
 (j) FM translator stations authorized prior to June 1, 1991 with facilities that do not comply with the predicted interference protection provisions of this section, may continue to operate, provided that operation is in conformance with § 74.1203 regarding actual interference. Applications for major changes in FM translator stations must specify facilities that comply with provisions of this section.
 
-[55 FR 50694, Dec. 10, 1990, as amended at 56 FR 56170, Nov. 1, 1991; 58 FR 42025, Aug. 6, 1993; 65 FR 7649, Feb. 15, 2000; 65 FR 67304, Nov. 9, 2000; 65 FR 79780, Dec. 20, 2000; 84 FR 27741, June 14, 2019; 86 FR 13664, Mar. 10, 2021]
+[55 FR 50694, Dec. 10, 1990, as amended at 56 FR 56170, Nov. 1, 1991; 58 FR 42025, Aug. 6, 1993; 65 FR 7649, Feb. 15, 2000; 65 FR 67304, Nov. 9, 2000; 65 FR 79780, Dec. 20, 2000; 84 FR 27741, June 14, 2019; 86 FR 13664, Mar. 10, 2021; 89 FR 100877, Dec. 13, 2024]

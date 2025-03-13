@@ -1,6 +1,6 @@
 ##### § 309.145 What costs are allowable for Tribal IV-D programs carried out under § 309.65(a) of this part? #####
 
-Link to an amendment published at 89 FR 80072, Oct. 2, 2024.Link to an amendment published at 89 FR 100809, Dec. 13, 2024.Link to an amendment published at 89 FR 107021, Dec. 31, 2024.
+Link to an amendment published at 89 FR 80072, Oct. 2, 2024.Link to an amendment published at 89 FR 107021, Dec. 31, 2024.
 
 Federal funds are available for costs of operating a Tribal IV-D program under an approved Tribal IV-D application carried out under § 309.65(a) of this part, provided that such costs are determined by the Secretary to be reasonable, necessary, and allocable to the program. Allowable activities and costs include:
 
@@ -48,9 +48,11 @@ Federal funds are available for costs of operating a Tribal IV-D program under a
 
 (2) Determination of the amount of the support obligation (including determination of income and allowable non-cash support under Tribal IV-D guidelines, if appropriate);
 
-(3) Enforcement of a support obligation, including those activities associated with collections and the enforcement of court orders, administrative orders, warrants, income withholding, criminal proceedings, and prosecution of fraud related to child support; and
+(3) Enforcement of a support obligation, including those activities associated with collections and the enforcement of court orders, administrative orders, warrants, income withholding, criminal proceedings, and prosecution of fraud related to child support;
 
-(4) Investigation and prosecution of fraud related to child and spousal support cases receiving services under the IV-D plan.
+(4) Investigation and prosecution of fraud related to child and spousal support cases receiving services under the IV-D plan; and
+
+(5) Employment and training services activities in accordance with §§ 309.65(b) and 309.121.
 
 (d) Collection and disbursement of support payments, including:
 
@@ -98,4 +100,4 @@ Federal funds are available for costs of operating a Tribal IV-D program under a
 
 (2) A cost is allocable if the goods or services involved are assignable to the grant according to the relative benefit received. Any cost that is allocable to one Federal award may not be charged to other Federal awards to overcome funding deficiencies, or for any other reason.
 
-[69 FR 16672, Mar. 30, 2004, as amended at 75 FR 8520, Feb. 25, 2010; 81 FR 3021, Jan. 20, 2016; 81 FR 93569, Dec. 20, 2016]
+[69 FR 16672, Mar. 30, 2004, as amended at 75 FR 8520, Feb. 25, 2010; 81 FR 3021, Jan. 20, 2016; 81 FR 93569, Dec. 20, 2016; 89 FR 100809, Dec. 13, 2024]

@@ -1,7 +1,5 @@
 ##### § 886.327 Lease requirements. #####
 
-Link to an amendment published at 89 FR 101303, Dec. 13, 2024.
-
 (a) *Term of lease.* (1) The term of a lease, including a new lease or a lease amendment, executed by the owner and the family must be for at least one year, or the remaining term of the contract if the remaining term of the contract is less than one year.
 
 (2) During the first year of the lease term, the owner may not terminate the tenancy for “other good cause” under 24 CFR 247.3(a)(3), unless the termination is based on family malfeasance or nonfeasance. For example, during the first year of the lease term, the owner may not terminate the tenancy for “other good cause” based on the failure of the family to accept the offer of a new lease.
@@ -26,4 +24,6 @@ Link to an amendment published at 89 FR 101303, Dec. 13, 2024.
 
 (8) *Family chargeable with legal costs regardless of outcome.* Agreement by the family to pay lawyer's fees or other legal costs of the owner, even if the family wins in a court proceeding by the owner against the family. (However, the family may have to pay these fees and costs if the family loses.)
 
-[53 FR 3369, Feb. 5, 1988]
+(c) *Notification for nonpayment of rent.* The lease must contain a provision or addendum that tenants will receive notification at least 30 days before a formal judicial eviction is filed.
+
+[53 FR 3369, Feb. 5, 1988, as amended at 89 FR 101303, Dec. 13, 2024]

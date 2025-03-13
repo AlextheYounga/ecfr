@@ -1,7 +1,5 @@
 ##### § 74.1231 Purpose and permissible service. #####
 
-Link to an amendment published at 89 FR 100877, Dec. 13, 2024.
-
 (a) FM translators provide a means whereby the signals of AM or FM broadcast stations may be retransmitted to areas in which direct reception of such AM or FM broadcast stations is unsatisfactory due to distance or intervening terrain barriers, and a means for AM Class D stations to continue operating at night.
 
 (b) An FM translator may be used for the purpose of retransmitting the signals of a primary AM or FM radio broadcast station or another translator station the signal of which is received directly through space, converted, and suitably amplified, and originating programming to the extent authorized in paragraphs (f), (g), and (h) of this section. However, an FM translator providing fill-in service may use any terrestrial facilities to receive the signal that is being rebroadcast. An FM booster station or a noncommercial educational FM translator station that is operating on a reserved channel (Channels 201-220) and is owned and operated by the licensee of the primary noncommercial educational station it rebroadcasts may use alternative signal delivery means, including, but not limited to, satellite and terrestrial microwave facilities. Provided, however, that an applicant for a noncommercial educational translator operating on a reserved channel (Channel 201-220) and owned and operated by the licensee of the primary noncommercial educational AM or FM station it rebroadcasts complies with either paragraph (b)(1) or (b)(2) of this section:
@@ -22,10 +20,6 @@ Link to an amendment published at 89 FR 100877, Dec. 13, 2024.
 
 (ii) An alternative frequency can be used at a different site and can provide signal coverage to the same area encompassed by the applicant's proposed 1 mV/m contour.
 
-Note:
-
-For paragraphs 74.1231(b) and 74.1231(i) of this section, auxiliary intercity relay station frequencies may be used to deliver signals to FM translator and booster stations on a secondary basis only. Such use shall not interfere with or otherwise preclude use of these frequencies for transmitting aural programming between the studio and transmitter location of a broadcast station, or between broadcast stations, as provided in paragraphs 74.531 (a) and (b) of this part. Prior to filing an application for an auxiliary intercity relay microwave frequency, the applicant shall notify the local frequency coordination committee, or, in the absence of a local frequency coordination committee, any licensees assigned the use of the proposed operating frequency in the intended location or area of operation.
-
 (c) The transmissions of each FM translator or booster station shall be intended only for direct reception by the general public. An FM translator or booster shall not be operated solely for the purpose of relaying signals to one or more fixed received points for retransmission, distribution, or further relaying in order to establish a point-to-point FM radio relay system.
 
 (d) The technical characteristics of the retransmitted signals shall not be deliberately altered so as to hinder reception on conventional FM broadcast receivers.
@@ -42,4 +36,8 @@ For paragraphs 74.1231(b) and 74.1231(i) of this section, auxiliary intercity re
 
 (j) In the case of an FM broadcast station authorized with facilities in excess of those specified by § 73.211 of this chapter, an FM booster station will only be authorized within the protected contour of the class of station being rebroadcast as predicted on the basis of the maximum powers and heights set forth in that section for the applicable class of FM broadcast station concerned.
 
-[35 FR 15388, Oct. 2, 1970, as amended at 45 FR 37842, June 5, 1980; 52 FR 31406, Aug. 20, 1987; 53 FR 14803, Apr. 26, 1988; 54 FR 35342, Aug. 25, 1989; 55 FR 50695, Dec. 10, 1990; 57 FR 41111, Sept. 9, 1992; 58 FR 42026, Aug. 6, 1993; 63 FR 33879, June 22, 1998; 74 FR 45130, Sept. 1, 2009; 89 FR 26793, Apr. 16, 2024]
+(k) In the case of a superpowered FM broadcast station, authorized with facilities in excess of those specified by § 73.211 of this chapter, an FM booster station will only be authorized within the protected contour of the class of station being rebroadcast as predicted based on the maximum facilities set forth in § 73.211 for the applicable class of FM broadcast station being rebroadcast.
+
+(l) An FM broadcast booster station, as defined in § 74.1201(f)(1) or (2), must suspend operations at any time its primary station is not operating. If a full-service FM broadcast station suspends operations, in addition to giving the notification specified in § 73.1740(a)(4) of this chapter, each FM broadcast booster station and program originating FM booster station must also file a notification under § 73.1740(a)(4) that it has suspended operations.
+
+[35 FR 15388, Oct. 2, 1970, as amended at 45 FR 37842, June 5, 1980; 52 FR 31406, Aug. 20, 1987; 53 FR 14803, Apr. 26, 1988; 54 FR 35342, Aug. 25, 1989; 55 FR 50695, Dec. 10, 1990; 57 FR 41111, Sept. 9, 1992; 58 FR 42026, Aug. 6, 1993; 63 FR 33879, June 22, 1998; 74 FR 45130, Sept. 1, 2009; 89 FR 26793, Apr. 16, 2024; 89 FR 100877, Dec. 13, 2024]

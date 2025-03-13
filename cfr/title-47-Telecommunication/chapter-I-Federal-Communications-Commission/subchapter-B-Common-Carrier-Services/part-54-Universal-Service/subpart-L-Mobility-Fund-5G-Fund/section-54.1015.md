@@ -1,7 +1,5 @@
 ##### § 54.1015 Public interest obligations and performance requirements for 5G Fund support recipients. #####
 
-Link to an amendment published at 89 FR 101399, Dec. 13, 2024.
-
 (a) *General.* A 5G Fund support recipient shall deploy voice and data services that meet at least the 5G-NR (New Radio) technology standards developed by the 3rd Generation Partnership Project with Release 15, or any successor release that may be adopted by the Office of Economics and Analytics and the Wireline Competition Bureau after notice and comment.
 
 (b) *Interim and final service milestones and deadlines.* A 5G Fund support recipient shall deploy 5G service as specified in paragraph (a) of this section as follows:
@@ -18,7 +16,7 @@ Link to an amendment published at 89 FR 101399, Dec. 13, 2024.
 
 (c) *Performance requirements.* A recipient authorized to receive 5G Fund support shall meet the following minimum baseline performance requirements for data speeds, data latency, and data allowances in areas where it receives support:
 
-(1) Median of 35 Mbps download and 3 Mbps upload, and with at least 90 percent of measurements recording data transmission rates of not less than 7 Mbps download and 1 Mbps upload; and
+(1) 35 Mbps download and 3 Mbps upload in an in-vehicle environment, with at least 90 percent of measurements recording these data transmission speeds; and
 
 (2) Transmission latency of 100 milliseconds or less round trip for successfully transmitted measurements (*i.e.,* ignoring lost or timed-out packets), with at least 90 percent of measurements recording latency of 100 milliseconds or less round trip.
 
@@ -35,3 +33,5 @@ Link to an amendment published at 89 FR 101399, Dec. 13, 2024.
 (2) If the recipient does not offer service in urban areas, it may demonstrate that it offers reasonably comparable rates by identifying a carrier that does offer service in urban areas and the specific rate plans to which its rural plans are reasonably comparable, along with submission of corroborating evidence that its rates are reasonably comparable, such as marketing materials from the identified carrier.
 
 (g) *Liability for failure to comply with performance requirements and public interest obligations.* A support recipient that fails to comply with the performance requirements set forth in paragraph (c) of this section is subject to the non-compliance measures set forth in § 54.1020. A support recipient that fails to comply with the public interest obligations or any other terms and conditions associated with receiving 5G Fund support may be subject to action, including the Commission's existing enforcement procedures and penalties, reductions in support amounts, revocation of eligible telecommunications carrier designation, and suspension or debarment pursuant to § 54.8.
+
+[76 FR 73877, Nov. 29, 2011, as amended at 89 FR 101399, Dec. 13, 2024]
