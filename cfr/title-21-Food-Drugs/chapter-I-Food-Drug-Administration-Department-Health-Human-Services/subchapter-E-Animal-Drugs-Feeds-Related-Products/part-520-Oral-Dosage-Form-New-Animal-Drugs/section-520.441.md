@@ -72,13 +72,13 @@
 
 (iii) *Swine*—(A) *Amount.* 10 milligrams per pound body weight daily in divided doses.
 
-(B) *Indications for use.* Control and treatment of bacterial enteritis (scours) caused by *E.**coli* and *Salmonella* spp. and bacterial pneumonia associated with *Pasteurella* spp., *Actinobacillus pleuropneumoniae* (*Haemophilus* spp.), and *Klebsiella* spp.
+(B) *Indications for use.* Control and treatment of bacterial enteritis (scours) caused by *E.**coli* and *Salmonella* spp. And bacterial pneumonia associated with *Pasteurella* spp., *Actinobacillus pleuropneumoniae* (*Haemophilus* spp.), and *Klebsiella* spp.
 
 (C) *Limitations.* Prepare fresh solution daily as the sole source of chlortetracycline. Do not use for more than 5 days. For Nos. 066104, 069043, 069254, and 076475: Do not slaughter animals for food within 5 days of treatment. For No. 069254: Do not slaughter animals for food within 24 hours of treatment. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
 (iv) *Calves, beef cattle, and nonlactating dairy cattle*—(A) *Amount.* 10 milligrams per pound daily in divided doses.
 
-(B) *Indications for use.* Control and treatment of bacterial enteritis (scours) caused by *E.**coli* and *Salmonella* spp. and bacterial pneumonia (shipping fever complex) associated with *Pasteurella* spp., *A. pleuropneumoniae* (*Haemophilus* spp.), and *Klebsiella* spp.
+(B) *Indications for use.* Control and treatment of bacterial enteritis (scours) caused by *E.**coli* and *Salmonella* spp. And bacterial pneumonia (shipping fever complex) associated with *Pasteurella* spp., *A. pleuropneumoniae* (*Haemophilus* spp.), and *Klebsiella* spp.
 
 (C) *Limitations.* Prepare fresh solution daily; use as a drench; as sole source of chlortetracycline; do not use for more than 5 days; do not slaughter animals for food within 24 hours of treatment; do not use in lactating cattle; do not administer this product with milk or milk replacers; administer 1 hour before or 2 hours after feeding milk or milk replacers; a withdrawal period has not been established in preruminating calves; do not use in calves to be processed for veal. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
@@ -116,13 +116,13 @@
 
 (iii) *Swine*—(A) *Amount.* 10 mg/lb body weight daily, for 3 to 5 days.
 
-(B) *Indications for use.* Control and treatment of bacterial enteritis (scours) caused by *E. coli* and *Salmonella* spp., and bacterial pneumonia associated with *Pasteurella* spp., *A. pleuropneumoniae*, and *Klebsiella* spp. susceptible to chlortetracycline.
+(B) *Indications for use.* Control and treatment of bacterial enteritis (scours) caused by *E. coli* and *Salmonella* spp., and bacterial pneumonia associated with *Pasteurella* spp., *A. pleuropneumoniae*, and *Klebsiella* spp. Susceptible to chlortetracycline.
 
 (C) *Limitations.* Prepare fresh solution daily; use as the sole source of chlortetracycline; do not use for more than 5 days; do not administer to swine within 24 hours of slaughter. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
 (iv) *Calves, beef cattle, and nonlactating dairy cattle*—(A) *Amount.* 10 mg/lb body weight daily in divided doses, for 3 to 5 days.
 
-(B) *Indications for use.* Control and treatment of bacterial enteritis (scours) caused by *Escherichia coli* and *Salmonella* spp., and bacterial pneumonia associated with *Pasteurella* spp., *Histophilus* spp., and *Klebsiella* spp. susceptible to chlortetracycline.
+(B) *Indications for use.* Control and treatment of bacterial enteritis (scours) caused by *Escherichia coli* and *Salmonella* spp., and bacterial pneumonia associated with *Pasteurella* spp., *Histophilus* spp., and *Klebsiella* spp. Susceptible to chlortetracycline.
 
 (C) *Limitations.* Prepare fresh solution daily; use as a drench; use as the sole source of chlortetracycline; do not use for more than 5 days; do not administer to cattle within 24 hours of slaughter; do not use in lactating dairy cattle; do not administer this product with milk or milk replacers; administer 1 hour before or 2 hours after feeding milk or milk replacers; a withdrawal period has not been established in preruminating calves; do not use in calves to be processed for veal. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 

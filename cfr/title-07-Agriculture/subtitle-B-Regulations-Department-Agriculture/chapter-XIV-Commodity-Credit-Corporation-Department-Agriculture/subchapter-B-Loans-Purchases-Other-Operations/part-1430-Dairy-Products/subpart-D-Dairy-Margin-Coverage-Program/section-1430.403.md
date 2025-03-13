@@ -18,6 +18,6 @@
 
 (e) The Deputy Administrator or designee will determine additional dairy operations that operate in a manner that are separate and distinct from each other according to paragraph (d) of this section and which may, as determined by the Deputy Administrator, be considered an operation even though they may not meet the conditions otherwise imposed in this definition. Also, the Deputy Administrator may require operations to be combined and considered one operation when there is close interest by family or otherwise between two operations, to avoid schemes or devices, or otherwise. Likewise, the Deputy Administrator may consider other factors as are deemed appropriate to adjust what is considered a dairy operation to conform with the DMC Program requirements in an equitable manner, including taking into account a dairy's status under MPP-Dairy and the Milk Income Loss Contract Program formerly operated under this part.
 
-(f) Dairy operation eligibility for supplemental production history requires the dairy operation to be enrolled in DMC for the applicable calendar year. Dairy operations with less than 5 million pounds of DMC production history are eligible for supplemental production history.
+(f) Dairy operation eligibility for adjusted based production history requires the dairy operation to be enrolled in DMC for the applicable calendar year. Dairy operations with less than 5 million pounds of DMC production history are eligible for adjusted based production history.
 
-[84 FR 28176, June 18, 2019, as amended at 86 FR 70707, Dec. 13, 2021]
+[84 FR 28176, June 18, 2019, as amended at 86 FR 70707, Dec. 13, 2021; 89 FR 14375, Feb. 27, 2024]

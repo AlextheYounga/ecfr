@@ -50,6 +50,18 @@
 
 (d) *To whom must the disclosures be provided.* All disclosures must be provided to the Medicaid agency.
 
-(e) *Consequences for failure to provide required disclosures.* Federal financial participation (FFP) is not available in payments made to a disclosing entity that fails to disclose ownership or control information as required by this section.
+(e) *Nursing facilities.* (1) In addition to all other applicable reporting requirements in this subpart, a nursing facility (as defined in section 1919(a) of the Act) must disclose upon initial enrollment and revalidation the following information:
 
-[76 FR 5967, Feb. 2, 2011]
+(i) Each member of the governing body of the facility, including the name, title, and period of service for each such member.
+
+(ii) Each person or entity who is an officer, director, member, partner, trustee, or managing employee (as defined in § 455.101) of the facility, including the name, title, and period of service of each such person or entity.
+
+(iii) Each person or entity who is an additional disclosable party of the facility (as defined in § 455.101).
+
+(iv) The organizational structure (as defined in § 455.101) of each additional disclosable party of the facility and a description of the relationship of each such additional disclosable party to the facility and to one another.
+
+(2) The State need not require the facility to disclose the same information described in this paragraph (e) more than once on the same enrollment application submission.
+
+(f) *Consequences for failure to provide required disclosures.* Federal financial participation (FFP) is not available in payments made to a disclosing entity that fails to disclose ownership or control information as required by this section.
+
+[76 FR 5967, Feb. 2, 2011, as amended at 88 FR 80169, Nov. 17, 2023]

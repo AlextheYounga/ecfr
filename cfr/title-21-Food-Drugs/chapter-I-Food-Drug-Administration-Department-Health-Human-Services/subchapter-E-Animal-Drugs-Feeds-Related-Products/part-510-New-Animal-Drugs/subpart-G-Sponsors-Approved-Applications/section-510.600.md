@@ -11,7 +11,7 @@
 |                                                                                 Firm name and address                                                                                  |Drug labeler code|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
 |                                                       A & G Pharmaceuticals, Inc., 1030 West Commodore Blvd., Jackson, NJ 08527                                                        |     057699      |
-|                                                        Accord Healthcare, Inc., 1009 Slater Rd., suite 210-B, Durham, NC 27703                                                         |     016729      |
+|                                                             Accord Healthcare, Inc., 126 E Lincoln Ave., Rahway, NJ 07065                                                              |     016729      |
 |                                                         ADM Animal Nutrition, Inc., 1000 North 30th St., Quincy, IL 62305-3115                                                         |     012286      |
 |                                                              Agri Laboratories, Ltd., P.O. Box 3103, St. Joseph, MO 64503                                                              |     057561      |
 |                                                                 Agri-Tech, Inc., 4722 Broadway, Kansas City, MO 64112                                                                  |     017762      |
@@ -117,7 +117,7 @@
 |     015331      |                                                              Pharmaq AS, Skogmo Industriomrade, N-7863 Overhalla, Norway.                                                               |
 |     015914      |                                                       Modern Veterinary Therapeutics, LLC, 14343 SW 119th Ave., Miami, FL 33186.                                                        |
 |     016592      |                                                        Huvepharma EOOD, 5th Floor, 3A Nikolay Haytov Str., 1113 Sofia, Bulgaria.                                                        |
-|     016729      |                                                        Accord Healthcare, Inc., 1009 Slater Rd., suite 210-B, Durham, NC 27703.                                                         |
+|     016729      |                                                             Accord Healthcare, Inc., 126 E Lincoln Ave., Rahway, NJ 07065.                                                              |
 |     017030      |                                                           Vetoquinol USA, Inc., 4250 N. Sylvania Ave., Fort Worth, TX 76137.                                                            |
 |     017033      |                                                 Dechra Veterinary Products LLC, 7015 College Blvd., Suite 525, Overland Park, KS 66211.                                                 |
 |     017135      |                                                            Farnam Companies, Inc., 301 West Osborn, Phoenix, AZ 85013-3928.                                                             |

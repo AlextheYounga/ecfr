@@ -1,5 +1,7 @@
 ##### § 5.22 Responsibility for responding to requests for access to records. #####
 
+Link to an amendment published at 89 FR 14371, Feb. 27, 2024.
+
 (a) *In general.* Except as stated in paragraphs (c), (d), and (e) of this section, the component that first receives a request for access to a record, and has possession of that record, is the component responsible for responding to the request. In determining which records are responsive to a request, a component ordinarily will include only those records in its possession as of the date the component begins its search for them. If any other date is used, the component will inform the requester of that date.
 
 (b) *Authority to grant or deny requests.* The head of a component, or the component head's designee, is authorized to grant or deny any request for access or amendment to a record of that component.

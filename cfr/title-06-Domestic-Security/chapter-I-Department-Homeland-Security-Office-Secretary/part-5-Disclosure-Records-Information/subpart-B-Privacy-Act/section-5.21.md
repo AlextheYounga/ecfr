@@ -1,5 +1,7 @@
 ##### § 5.21 Requests for access to records. #####
 
+Link to an amendment published at 89 FR 14371, Feb. 27, 2024.
+
 (a) *How made and addressed.* (1) DHS has a decentralized system for responding to Privacy Act and JRA requests, with each component designating an office to process records from that component.
 
 (2) An individual may make a request for access to a Department of Homeland Security record about that individual covered by a DHS or Component system of records notice (SORN) by writing directly to the Department component that maintains the record at the address listed in appendix A to this part or via the internet at *http://www.dhs.gov/dhs-foia-request-submission-form.* A description of all DHS-wide and component SORNs may be found here: *https://www.dhs.gov/system-records-notices-sorns.*

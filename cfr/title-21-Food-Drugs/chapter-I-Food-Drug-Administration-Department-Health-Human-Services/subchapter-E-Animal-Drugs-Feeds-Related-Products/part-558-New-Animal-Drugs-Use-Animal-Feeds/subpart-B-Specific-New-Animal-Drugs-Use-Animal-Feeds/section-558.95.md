@@ -2,11 +2,7 @@
 
 (a) *Specifications.* Type A medicated articles containing 2, 4, or 10 grams bambermycins per pound.
 
-(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter as follows:
-
-(1) No. 016592: 2, 4, and 10 grams per pound for use as in paragraphs (e)(1) through (4) of this section.
-
-(2) No. 012286: 2 grams for use as in paragraph (e)(2) of this section and 0.4 and 2 grams per pound for use as in paragraph (e)(3) of this section.
+(b) *Sponsor.* See No. 016592 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.75 of this chapter.
 
@@ -23,17 +19,17 @@
 
 (2) *Turkeys.* Use in medicated feed as follows:
 
-|Bambermycins in grams/ton|                              Indications for use                              |            Limitations             |    Sponsor    |
-|-------------------------|-------------------------------------------------------------------------------|------------------------------------|---------------|
-|       (i) 1 to 2        |                 Growing turkeys: For improved feed efficiency                 |Feed continuously as the sole ration|012286, 016592.|
-|         (ii) 2          |Growing turkeys: For increased rate of weight gain and improved feed efficiency|Feed continuously as the sole ration|012286, 016592.|
+|Bambermycins in grams/ton|                              Indications for use                              |            Limitations             |Sponsor|
+|-------------------------|-------------------------------------------------------------------------------|------------------------------------|-------|
+|       (i) 1 to 2        |                 Growing turkeys: For improved feed efficiency                 |Feed continuously as the sole ration|016592 |
+|         (ii) 2          |Growing turkeys: For increased rate of weight gain and improved feed efficiency|Feed continuously as the sole ration|016592 |
 
 (3) *Swine.* Use in medicated feed as follows:
 
-|Bambermycins in grams/ton|                                  Indications for use                                  |            Limitations             |    Sponsor    |
-|-------------------------|---------------------------------------------------------------------------------------|------------------------------------|---------------|
-|          (i) 2          |Growing-finishing swine: For increased rate of weight gain and improved feed efficiency|Feed continuously as the sole ration|012286, 016592.|
-|       (ii) 2 to 4       |                 Growing-finishing swine: For increased rate of weight                 |Feed continuously as the sole ration|012286, 016592.|
+|Bambermycins in grams/ton|                                  Indications for use                                  |            Limitations             |Sponsor|
+|-------------------------|---------------------------------------------------------------------------------------|------------------------------------|-------|
+|          (i) 2          |Growing-finishing swine: For increased rate of weight gain and improved feed efficiency|Feed continuously as the sole ration|016592 |
+|       (ii) 2 to 4       |                 Growing-finishing swine: For improved feed efficiency                 |Feed continuously as the sole ration|016592 |
 
 (4) *Cattle.*
 
@@ -46,24 +42,23 @@
 
 (*a*) *Specifications.*
 
-|                       Ingredient                       |International Feed No.|Percent|
-|--------------------------------------------------------|----------------------|-------|
-|Deflorinated phosphate (20.5% calcium, 18.5% phosphorus)|       6-01-080       | 42.50 |
-|                 Sodium chloride (salt)                 |       6-04-152       | 20.10 |
-|            Calcium carbonate (38% calcium)             |       6-01-069       | 15.24 |
-|        Corn distillers dried grains w/solubles         |       5-28-236       | 9.57  |
-|                    Magnesium oxide                     |       6-02-756       | 5.15  |
-|          Vitamin and trace mineral premix \*           |      .........       | 3.72  |
-|                      Mineral oil                       |      .........       | 1.00  |
-|            Yeast (primary dehydrated yeast)            |       7-05-533       | 0.75  |
-|         Bambermycins Type A article (10 g/lb)          |      .........       | 0.60  |
-|                       Iron oxide                       |       6-02-431       | 0.50  |
-|                Magnesium sulfate (67%)                 |       6-02-758       | 0.32  |
-|             Selenium premix (270 mg/lb) \*             |      .........       | 0.21  |
-|                     Copper sulfate                     |       6-01-720       | 0.18  |
-|               Potassium sulfate (0.33%)                |       6-06-098       | 0.16  |
-
-\*Content of vitamin/trace mineral premix may be varied. However, they should be comparable to those used for other free-choice feeds. Formulation modifications require FDA approval prior to marketing. Selenium must comply with 21 CFR 573.920. Ethylenediamine dihydroiodide (EDDI) should comply with FDA Compliance Policy Guides Sec. 651.100 (CPG 7125.18).
+|                                                                                                                                                                             Ingredient                                                                                                                                                                             |International Feed No.|Percent|
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|-------|
+|                                                                                                                                                      Deflorinated phosphate (20.5% calcium, 18.5% phosphorus)                                                                                                                                                      |       6-01-080       | 42.50 |
+|                                                                                                                                                                       Sodium chloride (salt)                                                                                                                                                                       |       6-04-152       | 20.10 |
+|                                                                                                                                                                  Calcium carbonate (38% calcium)                                                                                                                                                                   |       6-01-069       | 15.24 |
+|                                                                                                                                                              Corn distillers dried grains w/solubles                                                                                                                                                               |       5-28-236       | 9.57  |
+|                                                                                                                                                                          Magnesium oxide                                                                                                                                                                           |       6-02-756       | 5.15  |
+|                                                                                                                                                                Vitamin and trace mineral premix \*                                                                                                                                                                 |      .........       | 3.72  |
+|                                                                                                                                                                            Mineral oil                                                                                                                                                                             |      .........       | 1.00  |
+|                                                                                                                                                                  Yeast (primary dehydrated yeast)                                                                                                                                                                  |       7-05-533       | 0.75  |
+|                                                                                                                                                               Bambermycins Type A article (10 g/lb)                                                                                                                                                                |      .........       | 0.60  |
+|                                                                                                                                                                             Iron oxide                                                                                                                                                                             |       6-02-431       | 0.50  |
+|                                                                                                                                                                      Magnesium sulfate (67%)                                                                                                                                                                       |       6-02-758       | 0.32  |
+|                                                                                                                                                                   Selenium premix (270 mg/lb) \*                                                                                                                                                                   |      .........       | 0.21  |
+|                                                                                                                                                                           Copper sulfate                                                                                                                                                                           |       6-01-720       | 0.18  |
+|                                                                                                                                                                     Potassium sulfate (0.33%)                                                                                                                                                                      |       6-06-098       | 0.16  |
+|\*Content of vitamin/trace mineral premix may be varied. However, they should be comparable to those used for other free-choice feeds. Formulation modifications require FDA approval prior to marketing. Selenium must comply with 21 CFR 573.920. Ethylenediamine dihydroiodide (EDDI) should comply with FDA Compliance Policy Guides Sec. 651.100 (CPG 7125.18).|                      |       |
 
 (*b*) *Amount per ton.* 120 grams.
 
@@ -83,23 +78,22 @@
 
 (A) *Specifications.*
 
-|                       Ingredient                       |International Feed No.|Percent|
-|--------------------------------------------------------|----------------------|-------|
-|Deflorinated phosphate (20.5% calcium, 18.5% phosphorus)|       6-01-080       | 42.50 |
-|                 Sodium chloride (salt)                 |       6-04-152       | 20.10 |
-|            Calcium carbonate (38% calcium)             |       6-01-069       | 15.45 |
-|        Corn distillers dried grains w/solubles         |       5-28-236       | 9.57  |
-|                    Magnesium oxide                     |       6-02-756       | 5.15  |
-|          Vitamin and trace mineral premix \*           |                      | 3.72  |
-|                      Mineral oil                       |                      | 1.00  |
-|            Yeast (primary dehydrated yeast)            |       7-05-533       | 0.75  |
-|         Bambermycins Type A article (10 g/lb)          |                      | 0.60  |
-|                       Iron oxide                       |       6-02-431       | 0.50  |
-|                Magnesium sulfate (67%)                 |       6-02-758       | 0.32  |
-|                     Copper sulfate                     |       6-01-720       | 0.18  |
-|               Potassium sulfate (0.33%)                |       6-06-098       | 0.16  |
-
-\* Content of vitamin/trace mineral premix may be varied. However, they should be comparable to those used for other free-choice feeds. Formulation modifications require FDA approval prior to marketing. Ethylenediamine dihydroiodide (EDDI) should comply with FDA Compliance Policy Guides Sec. 651.100 (CPG 7125.18).
+|                                                                                                                                                        Ingredient                                                                                                                                                         |International Feed No.|Percent|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|-------|
+|                                                                                                                                 Deflorinated phosphate (20.5% calcium, 18.5% phosphorus)                                                                                                                                  |       6-01-080       | 42.50 |
+|                                                                                                                                                  Sodium chloride (salt)                                                                                                                                                   |       6-04-152       | 20.10 |
+|                                                                                                                                              Calcium carbonate (38% calcium)                                                                                                                                              |       6-01-069       | 15.45 |
+|                                                                                                                                          Corn distillers dried grains w/solubles                                                                                                                                          |       5-28-236       | 9.57  |
+|                                                                                                                                                      Magnesium oxide                                                                                                                                                      |       6-02-756       | 5.15  |
+|                                                                                                                                            Vitamin and trace mineral premix \*                                                                                                                                            |                      | 3.72  |
+|                                                                                                                                                        Mineral oil                                                                                                                                                        |                      | 1.00  |
+|                                                                                                                                             Yeast (primary dehydrated yeast)                                                                                                                                              |       7-05-533       | 0.75  |
+|                                                                                                                                           Bambermycins Type A article (10 g/lb)                                                                                                                                           |                      | 0.60  |
+|                                                                                                                                                        Iron oxide                                                                                                                                                         |       6-02-431       | 0.50  |
+|                                                                                                                                                  Magnesium sulfate (67%)                                                                                                                                                  |       6-02-758       | 0.32  |
+|                                                                                                                                                      Copper sulfate                                                                                                                                                       |       6-01-720       | 0.18  |
+|                                                                                                                                                 Potassium sulfate (0.33%)                                                                                                                                                 |       6-06-098       | 0.16  |
+|\* Content of vitamin/trace mineral premix may be varied. However, they should be comparable to those used for other free-choice feeds. Formulation modifications require FDA approval prior to marketing. Ethylenediamine dihydroiodide (EDDI) should comply with FDA Compliance Policy Guides Sec. 651.100 (CPG 7125.18).|                      |       |
 
 (B) *Amount per ton.* 120 grams.
 

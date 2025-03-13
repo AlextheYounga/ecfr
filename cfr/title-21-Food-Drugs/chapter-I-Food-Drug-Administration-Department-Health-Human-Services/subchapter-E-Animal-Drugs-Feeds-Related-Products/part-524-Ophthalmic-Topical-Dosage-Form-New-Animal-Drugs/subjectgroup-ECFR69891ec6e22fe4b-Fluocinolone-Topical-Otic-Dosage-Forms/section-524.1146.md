@@ -8,9 +8,9 @@
 
 (b) *Sponsors.* See sponsor numbers in § 510.600(c) of this chapter as follows:
 
-(1) Nos. 017030, 051072, 055529, 058198, and 061651 for use of product described in paragraph (a)(1) of this section as in paragraph (d)(1) of this section.
+(1) Nos. 017030, 051072, 051311, 055529, and 058198 for use of product described in paragraph (a)(1) of this section as in paragraph (d)(1) of this section.
 
-(2) Nos. 017030, 051072, 055529, 058198, and 061651 for use of product described in paragraph (a)(2) of this section as in paragraph (d)(2) of this section.
+(2) Nos. 017030, 051072, 051311, 055529, and 058198 for use of product described in paragraph (a)(2) of this section as in paragraph (d)(2) of this section.
 
 (3) Nos. 051072, 055529, 058198, and 061651 for use of product described in paragraph (a)(2) of this section as in paragraph (d)(3) of this section.
 
@@ -30,4 +30,4 @@
 
 (ii) *Indications for use.* For the prevention of heartworm disease caused by *Dirofilaria immitis*; kills adult fleas (*Ctenocephalides felis*) and is indicated for the treatment of flea infestations on ferrets.
 
-[72 FR 10597, Mar. 9, 2007, as amended at 78 FR 73698, Dec. 9, 2013; 85 FR 18120, Apr. 1, 2020; 86 FR 13185, Mar. 8, 2021; 86 FR 14821, Mar. 19, 2021; 87 FR 17946, Mar. 29, 2022; 87 FR 58963, Sept. 29, 2022; 88 FR 27700, May 3, 2023]
+[72 FR 10597, Mar. 9, 2007, as amended at 78 FR 73698, Dec. 9, 2013; 85 FR 18120, Apr. 1, 2020; 86 FR 13185, Mar. 8, 2021; 86 FR 14821, Mar. 19, 2021; 87 FR 17946, Mar. 29, 2022; 87 FR 58963, Sept. 29, 2022; 88 FR 27700, May 3, 2023; 89 FR 14410, Feb. 27, 2024]

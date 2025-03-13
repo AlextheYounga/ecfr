@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each milliliter contains 60 or 120 milligrams (mg) of selamectin.
 
-(b) *Sponsors.* See Nos. 051072, 054771, 055529, 061133, and 061651 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 051072, 051311, 054771, 055529, and 061133 in § 510.600(c) of this chapter.
 
 (c) *Conditions of use*—(1) *Amount.* Administer topically 2.7 mg of selamectin per pound (6 mg per kilogram) of body weight.
 
@@ -10,4 +10,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[64 FR 37401, July 12, 1999, as amended at 64 FR 48707, Sept. 8, 1999; 65 FR 45282, July 21, 2000; 74 FR 19878, Apr. 30, 2009; 79 FR 10972, Feb. 27, 2014; 86 FR 17064, Apr. 1, 2021; 87 FR 58963, Sept. 29, 2022]
+[64 FR 37401, July 12, 1999, as amended at 64 FR 48707, Sept. 8, 1999; 65 FR 45282, July 21, 2000; 74 FR 19878, Apr. 30, 2009; 79 FR 10972, Feb. 27, 2014; 86 FR 17064, Apr. 1, 2021; 87 FR 58963, Sept. 29, 2022; 89 FR 14410, Feb. 27, 2024]
