@@ -1,0 +1,3 @@
+##### § 60.2985 What if my State plan is not approvable? #####
+
+If you do not submit an approvable State plan (or a negative declaration letter) by December 17, 2007, EPA will develop a Federal plan according to § 60.27 to implement the emission guidelines contained in this subpart. Owners and operators of incineration units not covered by an approved State plan must comply with the Federal plan. The Federal plan is an interim action and applies to units until a State plan covering those units is approved and becomes effective.

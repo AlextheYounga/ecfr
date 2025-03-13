@@ -1,7 +1,5 @@
 ##### § 165.15 Initiation of investigations. #####
 
-Link to an amendment published at 89 FR 19259, Mar. 18, 2024.
-
 (a) *Time for determination.* CBP will make a determination as to whether to initiate an investigation on or before the 15th business day after the date on which a properly filed allegation is received under § 165.12(a) or a request for an investigation is received from a Federal agency under § 165.14.
 
 (b) *Criteria for initiation.* CBP will initiate an investigation under subpart C of this part if the following criteria are satisfied:
@@ -18,8 +16,10 @@ Link to an amendment published at 89 FR 19259, Mar. 18, 2024.
 
 (d) *Notification of the investigation.* If CBP determines that it will not initiate an investigation, it will notify the interested party who filed the allegation within five business days of that determination. Otherwise, the parties to the investigation will be notified consistent with the following time limits:
 
-(1) *In general.* CBP will issue notification of its decision to initiate an investigation to all parties to the investigation no later than 95 calendar days after the decision has been made, and the actual date of initiation will be specified therein. However, notification to all parties to the investigation will occur no later than five business days after interim measures are taken pursuant to § 165.24.
+(1) *In general.* CBP will issue a notice of its decision to initiate an investigation to all parties to the investigation no later than five business days after day 90 of the investigation, and the actual date of initiation of the investigation will be specified therein. In cases where interim measures are taken pursuant to § 165.24, notice to all parties to the investigation will occur no later than five business days after day 90 of the investigation.
 
 (2) *Consolidated allegations.* If multiple allegations are consolidated, any interested party who filed an allegation after initiation of an investigation will be notified by CBP of the date of the decision to initiate an investigation when that party receives notice of consolidation under § 165.13(c).
 
-(e) *Record of the investigation.* If an investigation is initiated pursuant to subpart B of this part, then the information considered by CBP prior to initiation will be part of the administrative record pursuant to § 165.21.
+(e) *Record of the investigation.* If an investigation is initiated pursuant to subpart B of this part, then the information considered by CBP prior to initiation will be part of the administrative record pursuant to § 165.21. Any documents submitted prior to the issuance of a notice of CBP's decision to initiate an investigation will be served by CBP on the parties to the investigation, regardless of who submitted those documents.
+
+[81 FR 56482, Aug. 22, 2016, as amended at 89 FR 19259, Mar. 18, 2024]

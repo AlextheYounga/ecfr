@@ -1,0 +1,5 @@
+##### § 165.44 Additional information. #####
+
+CBP may request additional written information from the parties to the investigation at any time during the review process. The parties who provide the requested additional information must provide a public version to the other parties to the investigation via an email message or through any other method approved or designated by CBP. The submission of additional information requested by CBP must comply with requirements for release of information in § 165.4. CBP may apply an adverse inference as stated in § 165.6 if the additional information requested under this section is not provided. CBP will only accept written submissions of additional information in response to a request by CBP. No meetings or any other methods of unsolicited submission of additional information are permitted during the administrative review.
+
+[89 FR 19261, Mar. 18, 2024]

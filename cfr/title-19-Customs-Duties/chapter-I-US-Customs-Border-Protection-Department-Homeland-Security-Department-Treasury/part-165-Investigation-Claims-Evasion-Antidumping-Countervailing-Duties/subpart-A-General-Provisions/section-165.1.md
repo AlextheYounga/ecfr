@@ -1,14 +1,14 @@
 ##### § 165.1 Definitions. #####
 
-Link to an amendment published at 89 FR 19258, Mar. 18, 2024.
-
 As used in this part, the following terms will have the meanings indicated unless either the context in which they are used requires a different meaning or a different definition is prescribed for a particular section of this part:
 
-*Allegation.* The term “allegation” refers to a filing with CBP under § 165.11 by an interested party that alleges an act of evasion by an importer of AD/CVD orders.
+*Allegation.* The term “allegation” refers to a filing with CBP under § 165.11 by an interested party that alleges an act of evasion of AD/CVD orders by an importer.
 
 *AD.* The term “AD” refers to antidumping duty, consistent with section 736, Tariff Act of 1930, as amended (19 U.S.C. 1673e).
 
 *AD/CVD.* The term “AD/CVD” refers to antidumping/countervailing duty, as these terms are defined in this section.
+
+*Business day.* The term “business day” means a weekday (Monday through Friday), excluding national holidays as specified in § 101.6(a) of this chapter.
 
 *Covered merchandise.* The term “covered merchandise” means merchandise that is subject to a CVD order issued under section 706, Tariff Act of 1930, as amended (19 U.S.C. 1671e), and/or an AD order issued under section 736, Tariff Act of 1930, as amended (19 U.S.C. 1673e).
 
@@ -16,7 +16,7 @@ As used in this part, the following terms will have the meanings indicated unles
 
 *Enter* or *entry.* The terms “enter” and “entry” refer to the entry for consumption, or withdrawal from warehouse for consumption, of merchandise in the customs territory of the United States, *see* § 101.1 of this chapter, or to the filing with CBP of the necessary documentation to withdraw merchandise from a duty-deferral program in the United States for exportation to Canada or Mexico or for entry into a duty-deferral program in Canada or Mexico, *see* §§ 141.0a(f) and 181.53 of this chapter.
 
-*Evade* or *evasion.* The terms “evade” and “evasion” refer to the entry of covered merchandise into the customs territory of the United States for consumption by means of any document or electronically transmitted data or information, written or oral statement, or act that is material and false, or any omission that is material, and that results in any cash deposit or other security or any amount of applicable antidumping or countervailing duties being reduced or not being applied with respect to the covered merchandise.
+*Evade* or *Evasion.* The terms “evade” and “evasion” refer to the entry of covered merchandise into the customs territory of the United States for consumption by means of any document or electronically transmitted data or information, written or oral statement, or act that is material and false, or any omission that is material, and that results in any cash deposit or other security or any amount of applicable antidumping or countervailing duties being reduced or not being applied with respect to the covered merchandise. Examples of evasion include, but are not limited to, the transshipment, misclassification, and/or undervaluation of covered merchandise.
 
 *Interested party.* The term “interested party” in this part refers only to the following:
 
@@ -38,6 +38,6 @@ As used in this part, the following terms will have the meanings indicated unles
 
 *Regulations and Rulings.* The term “Regulations and Rulings” means the Executive Director, Regulations and Rulings, Office of Trade, or his or her designee.
 
-*TRLED.* The term “TRLED” refers to the Trade Remedy Law Enforcement Directorate, Office of Trade, that conducts the investigation of alleged evasion under this part, and that was established as required by section 411 of the EAPA.
+*TRLED.* The term “TRLED” refers to the Trade Remedy Law Enforcement Directorate, Office of Trade, that conducts the investigation of alleged evasion under this part, and that was established as required by section 411 of the Trade Facilitation and Trade Enforcement Act of 2015 (TFTEA).
 
-[81 FR 56482, Aug. 22, 2016, as amended at 81 FR 62004, Sept. 8, 2016]
+[81 FR 56482, Aug. 22, 2016, as amended at 81 FR 62004, Sept. 8, 2016; 89 FR 19258, Mar. 18, 2024]

@@ -1,7 +1,5 @@
 ##### § 3560.306 Reserve account. #####
 
-Link to an amendment published at 89 FR 19228, Mar. 18, 2024.
-
 (a) *Purpose.* To meet the major capital expense needs of a housing project, borrowers must establish and maintain a reserve account, unless escrowed by the Agency.
 
 (b) *Financial management of the reserve account.* Unless otherwise approved by the Agency, borrower management of the reserve account is subject to the requirements of 7 CFR part 1902, subpart A, regarding supervised bank accounts.
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 19228, Mar. 18, 2024.
 
 (d) *Transfer of surplus general operating account funds.* (1) The general operating account will be deemed to contain surplus funds when the balance at the end of the housing project's fiscal year, after all payables and priorities, exceeds 20 percent of the operating and maintenance expenses. If the borrower is escrowing taxes and insurance premiums, include the amount that should be escrowed by year end and subtract such tax and insurance premiums from operating and maintenance expenses used to calculate 20 percent of the operating and maintenance expenses.
 
-(2) If a housing project's general operating account has surplus funds at the end of the housing project's fiscal year as defined in paragraph (d)(1) of this section, the Agency will require the borrower to use the surplus funds to address capital needs, make a deposit in the housing project's reserve account, reduce the debt service on the borrower's loan, or reduce rents in the following year. At the end of the borrower's fiscal year, if the borrower is required to transfer surplus funds from the general operating account to the reserve account, the transfer does not change the future required contributions to the reserve account.
+(2) If a housing project's general operating account has surplus funds at the end of the housing project's fiscal year per paragraph (d)(1) of this section, the borrower will be required to use such surplus for one of the following (not in priority order): use the surplus funds to address capital needs, make a deposit in the reserve account or reduce the debt service on the borrower's loans, including Agency-approved third-party debt. The prior written consent of the Agency must be obtained before surplus funds may be used to pay debt service on third-party debt. At the end of the borrower's fiscal year, if the borrower is required to transfer surplus funds from the general operating account to the reserve account, the transfer does not change the future required contributions to the reserve account.
 
 (e) *Account requirements.* Borrowers must establish and maintain the reserve account according to § 3560.65, § 3560.302(c)(5), and the following requirements:
 
@@ -74,4 +72,4 @@ Link to an amendment published at 89 FR 19228, Mar. 18, 2024.
 
 (l) *Procurement.* The requirements of § 3560.102(g), (j), and (k), and all other Agency requirements relating to procurement, bidding, identity-of-interest, cost-reasonableness, and construction management apply to any work or services paid out of reserve funds. Structural repairs and other significant work on major building systems such as heating or air conditioning must be done in accordance with the requirements of 7 CFR part 1924, subpart A.
 
-[69 FR 69106, Nov. 26, 2004, as amended at 80 FR 34532, June 17, 2015; 87 FR 11285, Mar. 1, 2022]
+[69 FR 69106, Nov. 26, 2004, as amended at 80 FR 34532, June 17, 2015; 87 FR 11285, Mar. 1, 2022; 89 FR 19228, Mar. 18, 2024]

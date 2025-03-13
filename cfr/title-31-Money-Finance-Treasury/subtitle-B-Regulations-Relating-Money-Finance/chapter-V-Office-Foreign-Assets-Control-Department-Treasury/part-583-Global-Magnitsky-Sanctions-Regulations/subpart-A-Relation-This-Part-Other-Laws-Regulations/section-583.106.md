@@ -1,0 +1,3 @@
+##### § 583.106 Delegation of certain authorities of the Secretary of the Treasury. #####
+
+Any action that the Secretary of the Treasury is authorized to take pursuant to E.O. 13818, any further Executive orders relating to the national emergency declared therein, or Presidential Memorandum of December 7, 2023: Delegation of Certain Functions and Authorities Under the Uyghur Human Rights Policy Act of 2020 and Public Law 117-78, may be taken by the Director of OFAC or by any other person to whom the Secretary of the Treasury has delegated authority to so act.

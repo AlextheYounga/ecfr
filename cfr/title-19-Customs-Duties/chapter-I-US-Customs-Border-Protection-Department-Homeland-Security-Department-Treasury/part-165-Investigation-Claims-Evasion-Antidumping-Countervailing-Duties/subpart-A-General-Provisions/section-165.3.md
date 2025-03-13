@@ -1,7 +1,5 @@
 ##### § 165.3 Power of attorney. #####
 
-Link to an amendment published at 89 FR 19258, Mar. 18, 2024.
-
 (a) *When required.* Any submission made under this part other than by a principal or its employees may be filed by a person acting as agent or attorney in fact for the principal; a power of attorney must specifically authorize such person to make, sign, and file the submission or grant unlimited authority to such person.
 
 (b) *Exception.* No power of attorney is required for an attorney at law to act as agent or attorney for the principal. The signing of a submission as agent or attorney for the principal by the attorney at law will be considered a declaration by the attorney that the attorney is currently an active member in good standing of the highest court of a state, possession, territory, commonwealth, or the District of Columbia, and has been authorized to sign and file the submission for the principal.
@@ -15,3 +13,7 @@ Link to an amendment published at 89 FR 19258, Mar. 18, 2024.
 (d) *Revocation.* Any power of attorney will be subject to revocation at any time by written notice given to and received by CBP, Office of Trade.
 
 (e) *Proof.* CBP will require proof of execution of a power of attorney, where applicable, the first time that an agent makes a submission on behalf of any interested party during an investigation or administrative review of a determination as to evasion. CBP may require proof of authority to execute a power of attorney pursuant to paragraph (c) of this section, at any point during the proceedings described in this part.
+
+(f) *Return of submission.* If a party has not provided proof of execution of a power of attorney to CBP within five business days of an agent's first submission on behalf of an interested party pursuant to paragraph (e) of this section, or proof of authority to execute a power of attorney, if requested by CBP, pursuant to paragraph (c) of this section, CBP will reject the submission and will not consider or place such submission on the administrative record.
+
+[81 FR 56482, Aug. 22, 2016, as amended at 89 FR 19258, Mar. 18, 2024]
