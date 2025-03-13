@@ -1,7 +1,5 @@
 ##### § 120.882 Eligible Project costs for 504 loans. #####
 
-Link to an amendment published at 88 FR 70585, Oct. 12, 2023.
-
 Eligible Project costs which may be paid with the proceeds of 504 loans are:
 
 (a) Costs directly attributable to the Project including expenditures incurred by the Borrower (with its own funds or from a loan) to acquire land used in the Project, or for any other expense directly attributable to the Project, prior to applying to SBA for the 504 loan;
@@ -40,11 +38,11 @@ Eligible Project costs which may be paid with the proceeds of 504 loans are:
 
 (3) A loan that is subject to a guarantee by a Federal agency or department may be refinanced under the following conditions and requirements:
 
-(i) An existing 504 loan may be refinanced if both the Third Party Loan and the 504 Loan are being refinanced or the Third Party Loan has been paid in full.
+(i) An existing 504 loan may be refinanced if both the Third Party Loan and the 504 Loan are being refinanced or the Third Party Loan has been paid in full. If the 504 Loan being refinanced received approval through another CDC, the CDC working on the current refinancing must provide advance notice to the other CDC in writing (by email or letter).
 
-(ii) An existing 7(a) loan may be refinanced if the CDC verifies in writing that the present lender is either unwilling or unable to modify the current payment schedule. In the case of same institution debt, if the Third Party Lender or the CDC affiliate as authorized under § 120.820 is the 7(a) lender, the loan will be eligible for 504 refinancing only if the lender is unable to modify the terms of the existing loan because a secondary market investor will not agree to modified terms.
+(ii) An existing 7(a) loan may be refinanced if the CDC notifies the 7(a) lender in advance in writing (by email or letter).
 
-(iii) The refinancing will provide a substantial benefit to the borrower. For purposes of this paragraph (g)(3)(iii), “substantial benefit” means that the portion of the new installment amount attributable to the debt being refinanced must be at least 10 percent less than the existing installment amount(s). Prepayment penalties, financing fees, and other financing costs must be added to the amount being refinanced in calculating the percentage reduction in the new installment payment, but the portion of the new installment amount attributable to Eligible Business Expenses (as described in paragraph (g)(6)(ii) of this section) is not included in this calculation. Exceptions to the 10 percent reduction requirement may be approved by the Director, Office of Financial Assistance (D/FA) or designee for good cause. PCLP CDCs may not use their delegated authority to approve a loan requiring the exception in this paragraph (g)(3)(iii).
+(iii) The refinancing will provide a substantial benefit to the borrower. For purposes of this paragraph (g)(3)(iii), “substantial benefit” means that the portion of the new installment amount attributable to the debt being refinanced must be at least 10 percent less than the existing installment amount(s). Prepayment penalties (including subsidy recoupment fees), financing fees, and other financing costs must be added to the amount being refinanced in calculating the percentage reduction in the new installment payment, but the portion of the new installment amount attributable to Eligible Business Expenses (as described in paragraph (g)(6)(ii) of this section) is not included in this calculation. Exceptions to the 10 percent reduction requirement may be approved by the Director, Office of Financial Assistance (D/FA) or designee for good cause. PCLP CDCs may not use their delegated authority to approve a loan requiring the exception in this paragraph (g)(3)(iii).
 
 (4) In addition to the annual guarantee fee assessed under § 120.971(d)(2), Borrower must pay SBA a supplemental annual guarantee fee to cover the additional cost attributable to the refinancing in an amount established by SBA each fiscal year.
 
@@ -76,7 +74,7 @@ Eligible Project costs which may be paid with the proceeds of 504 loans are:
 
 (14) The Third Party Lender must certify that it would not refinance the qualified debt except for the assistance provided under this paragraph (g);
 
-(15) Notwithstanding § 120.860, a debt may be refinanced under this paragraph (g) if it does not meet the job creation or other economic development objectives set forth in § 120.861 or § 120.862. In such case, the 504 loan may not exceed the product obtained by multiplying the number of employees of the Borrower by $75,000. The number of employees of the Borrower is equal to the sum of:
+(15) Notwithstanding § 120.860, a debt may be refinanced under this paragraph (g) if it does not meet the job creation or other economic development objectives set forth in § 120.861 or § 120.862. In such case, the 504 loan may not exceed the product obtained by multiplying the number of employees of the Borrower by $90,000. The number of employees of the Borrower is equal to the sum of:
 
 (i) The number of full-time employees of the Borrower on the date of the application; and
 
@@ -86,7 +84,7 @@ Eligible Project costs which may be paid with the proceeds of 504 loans are:
 
 (B) The quotient obtained by dividing the average number of hours each part-time employee of the Borrower works each week by 40.
 
-*Example to paragraph (g)(15):* 30 full-time employees and 35 part-time employees working 20 hours per week is calculated as follows: 30 + (35 × (20/40)) = 47.5. The maximum amount of the 504 loan would be 47.5 multiplied by $75,000, or $3,562,500.
+*Example 1 to paragraph (g)(15):* 30 full-time employees and 35 part-time employees working 20 hours per week is calculated as follows: 30 + (35 × (20/40)) = 47.5. The maximum amount of the 504 loan would be 47.5 multiplied by $90,000, or $4,275,000.
 
 (16) For the purposes of this paragraph (g), the terms below are defined as follows:
 
@@ -100,7 +98,7 @@ Eligible Project costs which may be paid with the proceeds of 504 loans are:
 
 (A) That was incurred not less than 6 months before the date of the application for refinancing available under this paragraph (g).
 
-(B) Substantially all (85% or more) of which was for an Eligible Fixed Asset. If the Eligible Fixed Asset was originally financed through a commercial loan that would have satisfied the “substantially all” standard (the “original loan”) and that was subsequently refinanced one or more times, with the current commercial loan being the most recent refinancing, the current commercial loan will be deemed to satisfy this paragraph (B). If the original loan was for the construction of a new building, or the acquisition, renovation, or reconstruction of an existing building, and such loan would not have satisfied the leasing policies set forth in 120.131 and 120.870(b), the current commercial loan will be deemed to satisfy these policies, provided that Borrower demonstrates compliance with 120.131(b) for existing buildings as of the date of application.
+(B) Substantially all (75% or more) of which was for an Eligible Fixed Asset. If the Eligible Fixed Asset was originally financed through a commercial loan that would have satisfied the “substantially all” standard (the “original loan”) and that was subsequently refinanced one or more times, with the current commercial loan being the most recent refinancing, the current commercial loan will be deemed to satisfy this paragraph (B). If the original loan was for the construction of a new building, or the acquisition, renovation, or reconstruction of an existing building, and such loan would not have satisfied the leasing policies set forth in §§ 120.131 and 120.870(b), the current commercial loan will be deemed to satisfy these policies, provided that Borrower demonstrates compliance with § 120.131(b) for existing buildings as of the date of application.
 
 (C) That was for the benefit of the small business concern;
 
@@ -112,4 +110,4 @@ Eligible Project costs which may be paid with the proceeds of 504 loans are:
 
 *Same institution debt* means any debt of the CDC or the Third Party Lender, or an affiliate of either, that is providing funds for the refinancing.
 
-[61 FR 3235, Jan. 31, 1996, as amended at 68 FR 57987, Oct. 7, 2003; 74 FR 29591, June 23, 2009; 76 FR 9218, Feb. 17, 2011; 76 FR 63155, Oct. 12, 2011; 79 FR 15650, Mar. 21, 2014; 81 FR 33125, May 25, 2016; 83 FR 19920, May 7, 2018; 86 FR 40779, July 29, 2021]
+[61 FR 3235, Jan. 31, 1996, as amended at 68 FR 57987, Oct. 7, 2003; 74 FR 29591, June 23, 2009; 76 FR 9218, Feb. 17, 2011; 76 FR 63155, Oct. 12, 2011; 79 FR 15650, Mar. 21, 2014; 81 FR 33125, May 25, 2016; 83 FR 19920, May 7, 2018; 86 FR 40779, July 29, 2021; 88 FR 70585, Oct. 12, 2023]

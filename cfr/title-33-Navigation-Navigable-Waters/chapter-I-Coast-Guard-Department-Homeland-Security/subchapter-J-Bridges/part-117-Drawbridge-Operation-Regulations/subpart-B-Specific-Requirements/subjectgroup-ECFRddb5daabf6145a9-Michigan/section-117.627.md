@@ -1,19 +1,17 @@
 ##### § 117.627 Cheboygan River. #####
 
-Link to an amendment published at 88 FR 70592, Oct. 12, 2023.
-
 The draw of the US 23 highway bridge, mile 0.9 at Cheboygan shall operate as follows:
 
-(a) From April 1 through May 15 and from September 16 through December 14, the draw shall open on signal.
+(a) From May 1 through November 31—
 
-(b) From May 16 through September 15—
+(1) Between the hours of 7 a.m. and 11 p.m., the draw need only open from three minutes before to three minutes after the quarter-hour and three-quarter hour.
 
-(1) Between the hours of 6 p.m. and 6 a.m., seven days a week, the draw shall open on signal.
+(2) Between the hours of 11 p.m. and 7 a.m., no drawtender is required to be at the bridge and the bridge need not open unless a request to open the draw is given at least 2-hours in advance of a vessels intended time of passage through the draw.
 
-(2) Between the hours of 6 a.m. and 6 p.m., seven days a week, the draw need open only from three minutes before to three minutes after the quarter-hour and three-quarter hour.
+(b) From December 1 through April 31, no drawtender is required to be at the bridge and the bridge need not open unless a request to open the draw is given at least 12-hours in advance of a vessels intended time of passage through the draw.
 
-(c) From December 15 through March 31, no bridgetender is required to be at the bridge and the draw need not open unless a request to open the draw is given at least 12-hours in advance of a vessels intended time of passage through the draw.
+(c) At all times, the draw shall open as soon as possible for the passage of vessels if carrying public safety or public utility vehicles and persons to or from the island.
 
-(d) At all times, the draw shall open as soon as possible for the passage of public vessels of the United States, State or local vessels used for public safety, commercial vessels, and vessels in distress.
+(d) The owner of the bridge shall provide and keep in good legible condition two board gauges painted white with black figures not less than six inches high to indicate the vertical clearance under the closed draw at all water levels. The gauges shall be placed on the bridge so that they are plainly visible to operators of vessels approaching the bridge either up or downstream.
 
-[CGD09-91-03, 56 FR 37474, Aug. 7, 1991, as amended by CGD09-01-008, 66 FR 32749, June 18, 2001]
+[USCG-2023-0113, 88 FR 70592, Oct. 12, 2023]

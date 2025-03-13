@@ -1,7 +1,5 @@
 ##### § 275.204-2 Books and records to be maintained by investment advisers. #####
 
-Link to an amendment published at 88 FR 63386, Sept. 14, 2023.
-
 (a) Every investment adviser registered or required to be registered under section 203 of the Act (15 U.S.C. 80b-3) shall make and keep true, accurate and current the following books and records relating to its investment advisory business;
 
 (1) A journal or journals, including cash receipts and disbursements, records, and any other records of original entry forming the basis of entries in any ledger.
@@ -28,7 +26,9 @@ Link to an amendment published at 88 FR 63386, Sept. 14, 2023.
 
 (A) That the investment adviser shall not be required to keep any unsolicited market letters and other similar communications of general public distribution not prepared by or for the investment adviser; and
 
-(B) That if the investment adviser sends any notice, circular, or other advertisement (as defined in § 275.206(4)-1(e)(1) of this chapter) offering any report, analysis, publication or other investment advisory service to more than ten persons, the investment adviser shall not be required to keep a record of the names and addresses of the persons to whom it was sent; except that if such notice, circular, or advertisement is distributed to persons named on any list, the investment adviser shall retain with the copy of such notice, circular, or advertisement a memorandum describing the list and the source thereof.
+(B) That if the investment adviser sends any notice, circular, or other advertisement (as defined in § 275.206(4)-1(e)(1) of this chapter) offering any report, analysis, publication or other investment advisory service to more than ten persons, the investment adviser shall not be required to keep a record of the names and addresses of the persons to whom it was sent; except that if such notice, circular, or advertisement is distributed to persons named on any list, the investment adviser shall retain with the copy of such notice, circular, or advertisement a memorandum describing the list and the source thereof; and
+
+(v) Any notice required pursuant to § 275.211(h)(2)-3 as well as a record of each addressee and the corresponding date(s) sent.
 
 (8) A list or other record of all accounts in which the investment adviser is vested with any discretionary power with respect to the funds, securities or transactions of any client.
 
@@ -107,6 +107,22 @@ Link to an amendment published at 88 FR 63386, Sept. 14, 2023.
 (iv) For purposes of this section, the terms “contribution,” “covered associate,” “covered investment pool,” “government entity,” “official,” “payment,” “regulated person,” and “solicit” have the same meanings as set forth in § 275.206(4)-5.
 
 (19) A record of who the “intended audience” is pursuant to § 275.206(4)-1(d)(6) and(e)(10)(ii)(B) of this chapter.
+
+(20)(i) A copy of any quarterly statement distributed pursuant to § 275.211(h)(1)-2, along with a record of each addressee and the corresponding date(s) sent; and
+
+(ii) All records evidencing the calculation method for all expenses, payments, allocations, rebates, offsets, waivers, and performance listed on any statement delivered pursuant to § 275.211(h)(1)-2.
+
+(21) For each private fund client:
+
+(i) A copy of any audited financial statements prepared and *distributed* pursuant to § 275.206(4)-10, along with a record of each addressee and the corresponding date(s) sent; or
+
+(ii) A record documenting steps taken by the adviser to cause a private fund client that the adviser does not control, is not controlled by, and with which it is not under common control to undergo a financial statement audit pursuant to § 275.206(4)-10.
+
+(22) Documentation substantiating the adviser's determination that a private fund client is a *liquid fund* or an *illiquid fund* pursuant to § 275.211(h)(1)-2.
+
+(23) A copy of any *fairness opinion* or *valuation opinion* and material business relationship summary *distributed* pursuant to § 275.211(h)(2)-2, along with a record of each addressee and the corresponding date(s) sent.
+
+(24) A copy of any notification, consent or other document *distributed* or received pursuant to § 275.211(h)(2)-1, along with a record of each addressee and the corresponding date(s) sent for each such document distributed by the adviser.
 
 (b) If an investment adviser subject to paragraph (a) of this section has custody or possession of securities or funds of any client, the records required to be made and kept under paragraph (a) of this section shall include:
 

@@ -1,7 +1,5 @@
 ##### § 54.503 Competitive bidding requirements. #####
 
-Link to an amendment published at 88 FR 55410, Aug. 15, 2023.
-
 (a) All entities participating in the schools and libraries universal service support program must conduct a fair and open competitive bidding process, consistent with all requirements set forth in this subpart.
 
 Note to paragraph (a):
@@ -36,7 +34,7 @@ The following is an illustrative list of activities or behaviors that would not 
 
 (A) The schools meet the statutory definition of “elementary school” or “secondary school” as defined in § 54.500 of these rules, do not operate as for-profit businesses, and do not have endowments exceeding $50 million.
 
-(B) The libraries or library consortia eligible for assistance from a State library administrative agency under the Library Services and Technology Act of 1996 do not operate as for-profit businesses and have budgets that are completely separate from any school (including, but not limited to, elementary and secondary schools, colleges, and universities).
+(B) The libraries or library consortia eligible for assistance from a State library administrative agency under the Library Services and Technology Act of 1996 do not operate as for-profit businesses and, except for the limited case of Tribal colleges or universities, have budgets that are completely separate from any school (including, but not limited to, elementary and secondary schools, colleges, and universities).
 
 (C) Support under this support mechanism is conditional upon the school(s) and library(ies) securing access to all of the resources, including computers, training, software, maintenance, internal connections, and electrical connections necessary to use the services purchased effectively.
 

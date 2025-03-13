@@ -1,3 +1,9 @@
-##### § 275.206(4)-10 xxx #####
+##### § 275.206(4)-10 Private fund adviser audits. #####
 
-Link to an amendment published at 88 FR 63386, Sept. 14, 2023.
+(a) As a means reasonably designed to prevent such acts, practices, and courses of business as are fraudulent, deceptive, or manipulative, an investment adviser that is registered or required to be registered under section 203 of the Investment Advisers Act of 1940 shall cause each private fund that it advises (other than a *securitized asset fund*), directly or indirectly, to undergo a financial statement audit (as defined in § 210.1-02(d) of this chapter (rule 1-02(d) of Regulation S-X)) that meets the requirements of § 275.206(4)-2(b)(4)(i) through (b)(4)(iii) and shall cause audited financial statements to be delivered in accordance with § 275.206(4)-2(c), if the private fund does not otherwise undergo such an audit;
+
+(b) For a private fund (other than a *securitized asset fund*) that the adviser does not *control* and is neither *controlled* by nor under common *control* with, the adviser is prohibited from providing investment advice, directly or indirectly, to the private fund if the adviser fails to take all reasonable steps to cause the private fund to undergo a financial statement audit that meets the requirements of § 275.206(4)-2(b)(4) and to cause audited financial statements to be delivered in accordance with § 275.206(4)-2(c), if the private fund does not otherwise undergo such an audit; and
+
+(c) For purposes of this section, defined terms shall have the meanings set forth in § 275.206(4)-2(d), except for the term *securitized asset fund,* which shall have the meaning set forth in § 275.211(h)(1)-1.
+
+[88 FR 63386, Sept. 14, 2023]

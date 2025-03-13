@@ -1,5 +1,7 @@
 ##### § 314.4 Elements. #####
 
+Link to an amendment published at 88 FR 77508, Nov. 13, 2023.
+
 In order to develop, implement, and maintain your information security program, you shall:
 
 (a) Designate a qualified individual responsible for overseeing and implementing your information security program and enforcing your information security program (for purposes of this part, “Qualified Individual”). The Qualified Individual may be employed by you, an affiliate, or a service provider. To the extent the requirement in this paragraph (a) is met using a service provider or an affiliate, you shall:

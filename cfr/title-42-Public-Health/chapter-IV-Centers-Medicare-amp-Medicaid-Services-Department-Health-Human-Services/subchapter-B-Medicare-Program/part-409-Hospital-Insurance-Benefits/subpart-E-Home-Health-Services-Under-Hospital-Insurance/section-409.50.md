@@ -1,5 +1,7 @@
 ##### § 409.50 Coinsurance for durable medical equipment (DME) and applicable disposable devices furnished as a home health service. #####
 
+Link to an amendment published at 88 FR 77874, Nov. 13, 2023.
+
 The coinsurance liability of the beneficiary or other person for the following home health services is:
 
 (a) DME—20 percent of the customary (insofar as reasonable) charge.

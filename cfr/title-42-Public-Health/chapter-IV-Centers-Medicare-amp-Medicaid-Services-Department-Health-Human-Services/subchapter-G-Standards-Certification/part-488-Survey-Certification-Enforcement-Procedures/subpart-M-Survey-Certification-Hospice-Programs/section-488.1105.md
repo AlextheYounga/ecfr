@@ -1,5 +1,7 @@
 ##### § 488.1105 Definitions. #####
 
+Link to an amendment published at 88 FR 77879, Nov. 13, 2023.
+
 As used in this subpart—
 
 *Abbreviated standard survey* means a focused survey other than a standard survey that gathers information on hospice program's compliance with specific standards or conditions of participation. An abbreviated standard survey may be based on complaints received or other indicators of specific concern.

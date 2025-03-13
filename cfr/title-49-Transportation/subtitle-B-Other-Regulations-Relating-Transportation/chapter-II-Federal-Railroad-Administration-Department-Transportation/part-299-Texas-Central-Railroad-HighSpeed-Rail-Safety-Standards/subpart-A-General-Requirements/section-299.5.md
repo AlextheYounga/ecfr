@@ -1,7 +1,5 @@
 ##### § 299.5 Definitions. #####
 
-Link to an amendment published at 88 FR 70764, Oct. 12, 2023.
-
 As used in this part—
 
 *Absolute block* means a block of track circuits in which no trainset is permitted to enter while occupied by another trainset.
@@ -72,6 +70,8 @@ As used in this part—
 
 *Event recorder* means a device, designed to resist tampering, that monitors and records data, as detailed in §§ 299.439 and 236.1005(d) of this chapter, over the most recent 48 hours of operation of the trainset.
 
+*Event recorder memory module* means that portion of an event recorder used to retain the recorded data as described in §§ 299.439(c) and 299.449(a) through (c).
+
 *Expansion joint* means a piece of special trackwork designed to absorb heat-induced expansion and contraction of the rails.
 
 *General control center* means the location where the general control center staff work.
@@ -85,6 +85,10 @@ As used in this part—
 *Glazing, side-facing* means any glazing located where a line perpendicular to the exterior surface of the panel makes an angle of more than 50 degrees with the longitudinal center line of the rail vehicle in which the panel is installed.
 
 *High voltage* means an electrical potential of more than 150 volts.
+
+*Image recording device* means a device that records images, as described in § 299.449.
+
+*Image recording system* means a system of electronic devices capable of recording images as described in § 299.449, and any components that convert those images into electronic data transmitted to, and stored on, a certified crashworthy memory module as described in appendix A to this part.
 
 *In passenger service/in revenue service* means a trainset that is carrying, or available to carry, passengers. Passengers need not have paid a fare in order for the trainset to be considered in passenger or in revenue service.
 
@@ -213,3 +217,5 @@ As used in this part—
 *Yard* means a system of tracks within defined limits and outside of the territory controlled by signals, which can be used for the making up of non-passenger trains or the storing of maintenance-of-way equipment.
 
 *Yield strength* means the ability of a structural member to resist a change in length caused by an applied load. Exceeding the yield strength will cause permanent deformation of the member.
+
+[85 FR 69731, Nov. 3, 2020, as amended at 88 FR 70764, Oct. 12, 2023]

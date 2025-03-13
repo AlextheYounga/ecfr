@@ -1,5 +1,7 @@
 ##### § 410.38 Durable medical equipment, prosthetics, orthotics and supplies (DMEPOS): Scope and conditions. #####
 
+Link to an amendment published at 88 FR 77875, Nov. 13, 2023.
+
 (a) *General scope.* Medicare Part B pays for durable medical equipment, including ventilators, oxygen equipment, hospital beds, and wheelchairs, if the equipment is used in the patient's home or in an institution that is used as a home.
 
 (b) *Institutions that may not qualify as the patient's home.* An institution that is used as a home may not be a hospital or a CAH or a SNF as defined in sections 1861(e)(1), 1861(mm)(1) and 1819(a)(1) of the Act, respectively.

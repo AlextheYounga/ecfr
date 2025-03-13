@@ -1,5 +1,7 @@
 ##### § 424.550 Prohibitions on the sale or transfer of billing privileges. #####
 
+Link to an amendment published at 88 FR 77878, Nov. 13, 2023.
+
 (a) *General rule.* A provider or supplier is prohibited from selling its Medicare billing number or privileges to any individual or entity, or allowing another individual or entity to use its Medicare billing number.
 
 (b) *Change of ownership.* In the case of a provider undergoing a change of ownership in accordance with part 489, subpart A of this chapter, the current owner and the prospective new owner must complete and submit enrollment applications before completion of the change of ownership. If the current owner fails to complete and submit an enrollment application to report the change, the current owner may be sanctioned or penalized, even after the date of ownership change, in accordance with §§ 424.520, 424.540, and 489.53 of this chapter. If the prospective new owner fails to submit a new enrollment application containing information concerning the new owner within 30 days of the change of ownership, CMS may deactivate the Medicare billing number. If an incomplete enrollment application is submitted, CMS may also deactivate the Medicare billing number based upon material omissions on the submitted enrollment application, or based on preliminary information received or determined by CMS that makes CMS question whether the new owner is ultimately granted a final transference of the provider agreement.

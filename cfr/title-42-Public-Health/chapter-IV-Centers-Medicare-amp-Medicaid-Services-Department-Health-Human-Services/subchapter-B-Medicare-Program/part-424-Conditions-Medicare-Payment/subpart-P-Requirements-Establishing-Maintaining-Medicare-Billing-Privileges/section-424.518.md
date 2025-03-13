@@ -1,5 +1,7 @@
 ##### § 424.518 Screening levels for Medicare providers and suppliers. #####
 
+Link to an amendment published at 88 FR 77877, Nov. 13, 2023.
+
 A Medicare contractor is required to screen all initial applications, revalidation applications, change of ownership applications pursuant to 42 CFR 489.18, applications to add a new practice location, and applications to report any new owner (regardless of ownership percentage) pursuant to a change of information or other enrollment transaction under title 42, based on a CMS assessment of risk and assignment to a level of “limited,” “moderate,” or “high.”
 
 (a) *Limited categorical risk*—(1) *Limited categorical risk: Provider and supplier categories.* CMS has designated the following providers and suppliers as “limited” categorical risk:

@@ -1,5 +1,7 @@
 ##### § 414.408 Payment rules. #####
 
+Link to an amendment published at 88 FR 77875, Nov. 13, 2023.
+
 (a) *Payment basis.* (1) The payment basis for an item furnished under a competitive bidding program is 80 percent of the single payment amount calculated for the item under § 414.416 for the CBA in which the beneficiary maintains a permanent residence.
 
 (2) If an item that is included in a competitive bidding program is furnished to a beneficiary who does not maintain a permanent residence in a CBA, the payment basis for the item is 80 percent of the lesser of the actual charge for the item, or the applicable fee schedule amount for the item, as determined under subpart C or subpart D.

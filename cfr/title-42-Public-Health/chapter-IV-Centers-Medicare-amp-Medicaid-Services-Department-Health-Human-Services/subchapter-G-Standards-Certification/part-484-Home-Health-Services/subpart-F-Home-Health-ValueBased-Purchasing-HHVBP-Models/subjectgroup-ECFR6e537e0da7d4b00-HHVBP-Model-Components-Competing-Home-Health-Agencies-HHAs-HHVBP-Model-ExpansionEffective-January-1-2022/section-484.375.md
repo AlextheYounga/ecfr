@@ -1,5 +1,7 @@
 ##### § 484.375 Appeals process for the Expanded Home Health Value-Based Purchasing (HHVBP) Model. #####
 
+Link to an amendment published at 88 FR 77879, Nov. 13, 2023.
+
 (a) *Requests for recalculation*—(1) *Matters for recalculation.* Subject to the limitations on judicial and administrative review under section 1115A of the Act, a HHA may submit a request for recalculation under this section if it wishes to dispute the calculation of the following:
 
 (i) Interim performance scores.

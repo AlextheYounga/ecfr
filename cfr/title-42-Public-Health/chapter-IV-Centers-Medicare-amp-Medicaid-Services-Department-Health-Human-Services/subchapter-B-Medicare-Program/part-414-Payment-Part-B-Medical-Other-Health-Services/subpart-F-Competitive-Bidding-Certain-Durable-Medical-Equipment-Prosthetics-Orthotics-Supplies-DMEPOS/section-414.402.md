@@ -1,5 +1,7 @@
 ##### § 414.402 Definitions. #####
 
+Link to an amendment published at 88 FR 77875, Nov. 13, 2023.
+
 For purposes of this subpart, the following definitions apply:
 
 *Affected party* means a contract supplier that has been notified that their DMEPOS CBP contract will be terminated for a breach of contract.

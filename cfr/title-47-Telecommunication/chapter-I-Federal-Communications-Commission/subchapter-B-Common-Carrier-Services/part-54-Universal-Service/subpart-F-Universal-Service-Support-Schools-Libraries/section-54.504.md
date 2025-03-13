@@ -1,14 +1,12 @@
 ##### § 54.504 Requests for services. #####
 
-Link to an amendment published at 88 FR 55410, Aug. 15, 2023.
-
 (a) *Filing of the FCC Form 471.* An eligible school, library, or consortium that includes an eligible school or library seeking to receive discounts for eligible services under this subpart shall, upon entering into a signed contract or other legally binding agreement for eligible services, submit a completed FCC Form 471 to the Administrator.
 
 (1) The FCC Form 471 shall be signed by the person authorized to order eligible services for the eligible school, library, or consortium and shall include that person's certification under oath that:
 
 (i) The schools meet the statutory definition of “elementary school” or “secondary school” as defined in § 54.500 of this subpart, do not operate as for-profit businesses, and do not have endowments exceeding $50 million.
 
-(ii) The libraries or library consortia eligible for assistance from a State library administrative agency under the Library Services and Technology Act of 1996 do not operate as for-profit businesses and whose budgets are completely separate from any school (including, but not limited to, elementary and secondary schools, colleges, and universities).
+(ii) The libraries or library consortia eligible for assistance from a State library administrative agency under the Library Services and Technology Act of 1996 do not operate as for-profit businesses and, except for the limited case of Tribal college or universities, their budgets are completely separate from any school (including, but not limited to, elementary and secondary schools, colleges, and universities).
 
 (iii) The entities listed on the FCC Form 471 application have secured access to all of the resources, including computers, training, software, maintenance, internal connections, and electrical connections, necessary to make effective use of the services purchased. The entities listed on the FCC Form 471 will pay the discounted charges for eligible services from funds to which access has been secured in the current funding year or, for entities that will make installment payments, they will ensure that they are able to make all required installment payments. The billed entity will pay the non-discount portion of the cost of the goods and services to the service provider(s).
 
@@ -72,4 +70,4 @@ Link to an amendment published at 88 FR 55410, Aug. 15, 2023.
 
 (5) The service provider listed on the FCC Form 473 certifies that the bills or invoices issued by this service provider to the billed entity are for equipment and services eligible for universal service support by the Administrator, and exclude any charges previously invoiced to the Administrator by the service provider.
 
-[79 FR 49199, Aug. 19, 2014, as amended at 79 FR 68634, Nov. 18, 2014; 80 FR 5989, Feb. 4, 2015]
+[79 FR 49199, Aug. 19, 2014, as amended at 79 FR 68634, Nov. 18, 2014; 80 FR 5989, Feb. 4, 2015; 88 FR 55410, Aug. 15, 2023]

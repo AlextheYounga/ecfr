@@ -1,5 +1,7 @@
 ##### § 314.2 Definitions. #####
 
+Link to an amendment published at 88 FR 77508, Nov. 13, 2023.
+
 (a) *Authorized user* means any employee, contractor, agent, customer, or other person that is authorized to access any of your information systems or data.
 
 (b)(1) *Consumer* means an individual who obtains or has obtained a financial product or service from you that is to be used primarily for personal, family, or household purposes, or that individual's legal representative.

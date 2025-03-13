@@ -1,7 +1,5 @@
 ##### § 217.9 Program of operational tests and inspections; recordkeeping. #####
 
-Link to an amendment published at 88 FR 70760, Oct. 12, 2023.
-
 (a) *Requirement to conduct operational tests and inspections.* Each railroad to which this part applies shall periodically conduct operational tests and inspections to determine the extent of compliance with its code of operating rules, timetables, and timetable special instructions, specifically including tests and inspections sufficient to verify compliance with the requirements of subpart F of part 218 of this chapter, in accordance with a written program as required by paragraph (c) of this section.
 
 (b) *Railroad and railroad testing officer responsibilities.* The requirements of this paragraph (b) are applicable beginning January 1, 2009.
@@ -17,6 +15,16 @@ Link to an amendment published at 88 FR 70760, Oct. 12, 2023.
 (iv) Conduct operational tests and inspections in accordance with the railroad's program of operational tests and inspections.
 
 (2) Written records documenting qualification of each railroad testing officer shall be retained at the railroad's system headquarters and at the division headquarters for each division where the officer is assigned and shall be made available to representatives of the FRA for inspection and copying during normal business hours.
+
+(3) A passenger railroad that utilizes inward-facing locomotive image or in-cab audio recordings to conduct operational tests and inspections shall adopt and comply with a procedure in its operational tests and inspections program that ensures employees are randomly subject to such operational tests and inspections involving image or audio recordings. The procedure adopted by a passenger railroad must:
+
+(i) Establish objective, neutral criteria to ensure every employee subject to such operational tests and inspections is selected randomly for such operational tests and inspections within a specified time frame;
+
+(ii) Not permit subjective factors to play a role in selection, *i.e.,* no employee may be selected based on the exercise of a railroad's discretion; and
+
+(iii) Require that any operational test or inspection using locomotive image or audio recordings be performed within 72 hours of the completion of the employee's tour of duty that is the subject of the operational test. Any operational test performed more than 72 hours after the completion of the tour of duty that is the subject of the test is a violation of this section. The 72-hour limitation does not apply to investigations of railroad accidents/incidents or to violations of Federal railroad safety laws, regulations, or orders, or any criminal laws.
+
+(4) FRA may review a passenger railroad's procedure implementing paragraph (b)(3) of this section, and, for cause stated, may disapprove such procedure under paragraph (h) of this section.
 
 (c) *Written program of operational tests and inspections.* Every railroad shall have a written program of operational tests and inspections in effect. New railroads shall have such a program within 30 days of commencing rail operations. The program shall—
 
@@ -80,4 +88,4 @@ Link to an amendment published at 88 FR 70760, Oct. 12, 2023.
 
 (2) A failure to submit the program with the necessary revisions to the Associate Administrator for Safety in accordance with this paragraph will be considered a failure to implement a program under this part.
 
-[73 FR 8496, Feb. 13, 2008, as amended at 73 FR 33902, June 16, 2008]
+[73 FR 8496, Feb. 13, 2008, as amended at 73 FR 33902, June 16, 2008; 88 FR 70760, Oct. 12, 2023]

@@ -1,0 +1,7 @@
+##### § 705.1 Scope, compliance, and enforcement. #####
+
+(a) This part specifies reporting and recordkeeping procedures for manufacturers (including importers) of per- and polyfluoroalkyl substances (hereafter referred to as PFAS) under section 8(a)(7) of the Toxic Substances Control Act (TSCA).
+
+(b) TSCA section 15(3) makes it unlawful for any person to fail or refuse to submit information required under this part. In addition, TSCA section 15(3) makes it unlawful for any person to fail to keep, and permit access to, records required by this part. TSCA section 16 provides that any person who violates a provision of TSCA section 15 is liable to the United States for a civil penalty and may be criminally prosecuted. Pursuant to TSCA section 17, the Federal Government may seek judicial relief to compel submission of TSCA section 8(a) information and to otherwise restrain any violation of TSCA section 15. TSCA section 11 allows for inspections to assure compliance, and the Environmental Protection Agency's (EPA) Administrator may by subpoena require the attendance and testimony of witnesses and the production of reports, papers, documents, answers to questions, and other information that the Administrator deems necessary.
+
+(c) Each person who reports under this part must maintain records that document information reported under this part and, in accordance with TSCA, permit access to, and the copying of, such records by EPA officials.

@@ -1,5 +1,7 @@
 ##### § 410.2 Definitions. #####
 
+Link to an amendment published at 88 FR 77874, Nov. 13, 2023.
+
 As used in this part—
 
 *Community mental health center (CMHC)* means an entity that—

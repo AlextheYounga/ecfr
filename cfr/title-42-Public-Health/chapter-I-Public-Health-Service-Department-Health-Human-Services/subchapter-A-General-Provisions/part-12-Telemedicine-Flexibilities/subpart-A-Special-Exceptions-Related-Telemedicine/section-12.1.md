@@ -1,8 +1,6 @@
-##### § 12.1 Temporary Extension of Certain COVID-19 Telemedicine Flexibilities for Prescription of Controlled Medications. #####
+##### § 12.1 Temporary extension of certain COVID-19 telemedicine flexibilities for prescription of controlled medications. #####
 
-Link to an amendment published at 88 FR 69883, Oct. 10, 2023.
-
-(a) This section is in effect until the end of the day November 11, 2024. The authorization granted in paragraph (c) of this section expires at the end of November 11, 2023.
+(a) This section is in effect until the end of the day December 31, 2024. The authorization granted in paragraph (c) of this section expires at the end of December 31, 2024.
 
 (b) For purposes of this section, a practitioner and a patient have a telemedicine relationship established via COVID-19 telemedicine prescribing flexibilities if:
 
@@ -14,7 +12,7 @@ Link to an amendment published at 88 FR 69883, Oct. 10, 2023.
 
 (ii) Pursuant to paragraph (c) of this section.
 
-(c) During the period May 12, 2023 through November 11, 2023, a DEA-registered practitioner is authorized to prescribe schedule II-V controlled substances via telemedicine, as defined in 21 CFR 1300.04(i), to a patient without having conducted an in-person medical evaluation of the patient if all of the conditions listed in paragraph (e) of this section are met.
+(c) During the period May 12, 2023, through December 31, 2024, a Drug Enforcement Administration (DEA)-registered practitioner is authorized to prescribe schedule II-V controlled substances via telemedicine, as defined in 21 CFR 1300.04(i), to a patient without having conducted an in-person medical evaluation of the patient if all of the conditions listed in paragraph (e) of this section are met.
 
 (d) During the period November 12, 2023 through November 11, 2024, a DEA-registered practitioner is authorized to prescribe schedule II-V controlled substances via telemedicine, as defined in 21 CFR 1300.04(i), to a patient with whom the practitioner has a telemedicine relationship established via COVID-19 telemedicine prescribing flexibilities without having conducted an in-person medical evaluation of a patient if all of the conditions listed in paragraph (e) of this section are met.
 
@@ -31,3 +29,5 @@ Link to an amendment published at 88 FR 69883, Oct. 10, 2023.
 (ii) Exempt from obtaining a registration to dispense controlled substances under 21 U.S.C. 822(d); and
 
 (4) The prescription is consistent with all other requirements of 21 CFR part 1306.
+
+[88 FR 30042, May 10, 2023, as amended at 88 FR 69883, Oct. 10, 2023]

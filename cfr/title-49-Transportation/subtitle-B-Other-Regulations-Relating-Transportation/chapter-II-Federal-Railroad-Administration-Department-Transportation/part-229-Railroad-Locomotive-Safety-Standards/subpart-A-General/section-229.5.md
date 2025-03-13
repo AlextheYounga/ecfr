@@ -1,7 +1,5 @@
 ##### § 229.5 Definitions. #####
 
-Link to an amendment published at 88 FR 70761, Oct. 12, 2023.
-
 As used in this part—
 
 *AAR* means the Association of American Railroads.
@@ -74,7 +72,7 @@ As used in this part—
 
 *Electronic air brake* means a brake system controlled by a computer which provides the means for control of the locomotive brakes or train brakes or both.
 
-*Event recorder* means a device, designed to resist tampering, that monitors and records data, as detailed in § 229.135(b), over the most recent 48 hours of operation of the electrical system of the locomotive on which the device is installed. However, a device, designed to resist tampering, that monitors and records the specified data only when the locomotive is in motion meets this definition if the device was installed prior to November 5, 1993 and if it records the specified data for the last eight hours the locomotive was in motion.
+*Event recorder memory module* means that portion of an event recorder used to retain the recorded data as described in §§ 229.135(b) and 229.136(a) through (c).
 
 *Event recorder memory module* means that portion of the event recorder used to retain the recorded data as detailed in § 229.135(b).
 
@@ -85,6 +83,8 @@ As used in this part—
 *Fuel tank, internal* means a fuel containment vessel that does not extend outside the car body structure of a locomotive.
 
 *High voltage* means an electrical potential of more than 150 volts.
+
+*Image recording system* means a system of cameras or other electronic devices that record images as described in § 229.136, and any components that convert those images into electronic data transmitted to, and stored on, a memory module.
 
 *Initial terminal* means a location where a train is originally assembled.
 
@@ -150,6 +150,8 @@ As used in this part—
 
 (2) High speed ground transportation systems that connect metropolitan areas, without regard to whether they use new technologies not associated with traditional railroads. Such term does not include rapid transit operations within an urban area that are not connected to the general railroad system of transportation.
 
+*Recording device* means a device that records images or audible sounds, as described in § 229.136.
+
 *Remanufacture* means the act of constructing a remanufactured locomotive.
 
 *Remanufactured locomotive* means a locomotive rebuilt or refurbished from a previously used or refurbished underframe (“deck”), containing fewer than 25% previously used components (measured by dollar value of the components). For calculation purposes, the percentage of previously used components is determined with equivalent value of new parts and is calculated using dollar values from the same year as the new parts used to remanufacture the locomotive.
@@ -206,4 +208,4 @@ As used in this part—
 
 *Wide-nose locomotive* means a locomotive with a short hood that spans the full width of the locomotive.
 
-[70 FR 37938, June 30, 2005, as amended at 71 FR 36911, June 28, 2006; 71 FR 47666, Aug. 17, 2006; 71 FR 61857, Oct. 19, 2006; 71 FR 63136, Oct. 27, 2006; 72 FR 59223, Oct. 19, 2007; 77 FR 21342, Apr. 9, 2012; 83 FR 59217, Nov. 21, 2018]
+[70 FR 37938, June 30, 2005, as amended at 71 FR 36911, June 28, 2006; 71 FR 47666, Aug. 17, 2006; 71 FR 61857, Oct. 19, 2006; 71 FR 63136, Oct. 27, 2006; 72 FR 59223, Oct. 19, 2007; 77 FR 21342, Apr. 9, 2012; 83 FR 59217, Nov. 21, 2018; 88 FR 70761, Oct. 12, 2023]

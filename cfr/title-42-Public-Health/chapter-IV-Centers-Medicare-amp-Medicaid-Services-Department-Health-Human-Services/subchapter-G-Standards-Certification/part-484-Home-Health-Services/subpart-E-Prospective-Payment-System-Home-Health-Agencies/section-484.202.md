@@ -1,5 +1,7 @@
 ##### § 484.202 Definitions. #####
 
+Link to an amendment published at 88 FR 77878, Nov. 13, 2023.
+
 As used in this subpart—
 
 *Case-mix index* means a scale that measures the relative difference in resource intensity among different groups in the clinical model.
