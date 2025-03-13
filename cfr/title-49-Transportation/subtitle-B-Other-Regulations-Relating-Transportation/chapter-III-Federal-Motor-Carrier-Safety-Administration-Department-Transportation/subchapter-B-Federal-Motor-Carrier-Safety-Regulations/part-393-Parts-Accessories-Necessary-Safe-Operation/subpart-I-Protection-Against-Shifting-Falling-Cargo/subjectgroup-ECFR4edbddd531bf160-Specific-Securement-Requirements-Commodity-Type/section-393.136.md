@@ -1,4 +1,4 @@
-##### § 393.136 What are the rules for securing large boulders? #####
+##### § 393.136 Specific securement requirements for large boulders. #####
 
 (a) *Applicability.* (1) The rules in this section are applicable to the transportation of any large piece of natural, irregularly shaped rock weighing in excess of 5,000 kg (11,000 lb.) or with a volume in excess of 2 cubic-meters on an open vehicle, or in a vehicle whose sides are not designed and rated to contain such cargo.
 

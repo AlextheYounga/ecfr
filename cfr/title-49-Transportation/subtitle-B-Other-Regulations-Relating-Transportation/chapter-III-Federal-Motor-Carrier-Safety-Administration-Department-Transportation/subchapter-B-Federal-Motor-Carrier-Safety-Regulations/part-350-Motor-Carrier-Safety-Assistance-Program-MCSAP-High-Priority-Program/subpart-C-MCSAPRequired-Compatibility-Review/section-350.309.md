@@ -1,4 +1,4 @@
-##### § 350.309 What are the consequences if a State has provisions that are not compatible? #####
+##### § 350.309 Compatibility review: Consequences of incompatible provisions. #####
 
 (a) *General.* To remain eligible for MCSAP funding, a State may not have in effect or enforce any State law, regulation, standard, or order on CMV safety that the Administrator finds is not compatible (as defined in § 350.105).
 

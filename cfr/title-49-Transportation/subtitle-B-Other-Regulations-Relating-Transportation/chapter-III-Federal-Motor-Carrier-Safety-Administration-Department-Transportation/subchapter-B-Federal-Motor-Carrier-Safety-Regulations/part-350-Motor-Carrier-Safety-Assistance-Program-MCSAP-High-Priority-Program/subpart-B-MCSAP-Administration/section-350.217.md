@@ -1,4 +1,4 @@
-##### § 350.217 How are MCSAP funds allocated? #####
+##### § 350.217 MCSAP administration: Allocation of funds. #####
 
 (a) *General.* Subject to the availability of funding, FMCSA must allocate MCSAP funds to grantees with approved CVSPs in accordance with this section.
 

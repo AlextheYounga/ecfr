@@ -1,7 +1,5 @@
 ##### § 413.3 Who must obtain a license or permit. #####
 
-Link to an amendment published at 89 FR 76726, Sept. 19, 2024.
-
 (a) A person must obtain a license in accordance with this section, unless eligible for an experimental permit under paragraph (f) of this section.
 
 (b) A person must obtain a license to—
@@ -36,6 +34,6 @@ Link to an amendment published at 89 FR 76726, Sept. 19, 2024.
 
 (2) The territory of any foreign nation if there is an agreement in force between the United States and that foreign nation providing that the United States has jurisdiction over the reentry or the operation of the reentry site.
 
-(f) A person, individual, or foreign entity otherwise requiring a license under this section may instead obtain an experimental permit to launch or reenter a reusable suborbital rocket under part 437 of this chapter.
+(f) A person, individual, or foreign entity otherwise requiring a license under this section may instead obtain an experimental permit to launch or reenter a reusable suborbital vehicle under part 437 of this chapter.
 
-[Doc. No. FAA-2006-24197, 72 FR 17017, Apr. 6, 2007]
+[Doc. No. FAA-2006-24197, 72 FR 17017, Apr. 6, 2007, as amended by Doc. No. FAA-2023-1656, Amdt. No. 413-13, 89 FR 76726, Sept. 19, 2024]

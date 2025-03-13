@@ -1,4 +1,4 @@
-##### § 350.411 How long are High Priority Program funds available to a recipient? #####
+##### § 350.411 High Priority Program: Availability of funds. #####
 
 (a) *Motor carrier safety activities.* High Priority Program funds related to motor carrier safety activities under § 350.403(a) through (g), and (i) through (k) obligated to a recipient are available for the rest of the fiscal year in which the funds are obligated and the next 2 full fiscal years.
 

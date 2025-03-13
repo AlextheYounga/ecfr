@@ -1,8 +1,6 @@
 ##### § 437.85 Allowable design changes; modification of an experimental permit. #####
 
-Link to an amendment published at 89 FR 76728, Sept. 19, 2024.
-
-(a) The FAA will identify in the experimental permit the type of changes that the permittee may make to the reusable suborbital rocket design without invalidating the permit.
+(a) The FAA will identify in the experimental permit the type of changes that the permittee may make to the reusable suborbital vehicle design without invalidating the permit.
 
 (b) Except for design changes made under paragraph (a) of this section, a permittee must ask the FAA to modify the experimental permit if—
 
@@ -15,3 +13,5 @@ Link to an amendment published at 89 FR 76728, Sept. 19, 2024.
 (d) When a permittee proposes a modification, the FAA reviews the determinations made on the experimental permit to decide whether they remain valid.
 
 (e) When the FAA approves a modification, it issues the permittee either a written approval or a permit order modifying the permit if a stated term or condition of the permit is changed, added, or deleted. An approval has the full force and effect of a permit order and is part of the permit record.
+
+[Doc. No. FAA-2006-24197, Amdt. No. 437-0, 72 FR 17019, Apr. 6, 2007, as amended by Doc. No. FAA-2023-1656, Amdt. No. 437-4, 89 FR 76727, Sept. 19, 2024]

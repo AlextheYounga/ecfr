@@ -1,7 +1,5 @@
 ##### § 450.45 Safety review and approval. #####
 
-Link to an amendment published at 89 FR 76729, Sept. 19, 2024.
-
 (a) *General.* The FAA issues a safety approval to an applicant if it determines that an applicant can conduct launch or reentry without jeopardizing public health and safety and safety of property. A license applicant must satisfy the application requirements in this section and subpart C of this part.
 
 (b) *Services or property provided by a Federal launch or reentry site.* The FAA will accept any safety-related launch or reentry service or property provided by a Federal launch or reentry site or other Federal entity by contract, as long as the FAA determines that the launch or reentry services or property provided satisfy this part.
@@ -48,11 +46,11 @@ Link to an amendment published at 89 FR 76729, Sept. 19, 2024.
 
 (D) Location of all major vehicle control systems, propulsion systems, pressure vessels, and any other hardware that contains potential hazardous energy or hazardous material; and
 
-(E) For an unguided suborbital launch vehicle, the location of the rocket's center of pressure in relation to its center of gravity for the entire flight profile.
+(E) For an unguided suborbital launch vehicle, the location of the vehicle's center of pressure in relation to its center of gravity for the entire flight profile.
 
 (4) *Mission schedule.* An applicant must submit a generic launch or reentry processing schedule that identifies any readiness activities, such as reviews and rehearsals, and each safety-critical pre-flight operation to be conducted. The mission schedule must also identify day of flight activities.
 
-(5) *Human space flight.* For a proposed launch or reentry with a human being on board a vehicle, an applicant must demonstrate compliance with §§ 460.5, 460.7, 460.11, 460.13, 460.15, 460.17, 460.51, and 460.53 of this chapter.
+(5) *Human space flight.* For a proposed launch or reentry with a space flight participant, crew, or government astronaut on board a vehicle, an applicant must demonstrate compliance with §§ 460.5, 460.7, 460.11, 460.13, 460.15, 460.17, 460.51, 460.53, 460.59, 460.61, and 460.67 of this chapter.
 
 (6) *Radionuclides.* The FAA will evaluate the launch or reentry of any radionuclide on a case-by-case basis, and issue an approval if the FAA finds that the launch or reentry is consistent with public health and safety, safety of property, and national security and foreign policy interests of the United States. For any radionuclide on a launch or reentry vehicle, an applicant must—
 
@@ -67,3 +65,5 @@ Link to an amendment published at 89 FR 76729, Sept. 19, 2024.
 (i) Any information incorporated by reference in the license application; and
 
 (ii) Additional products that allow the FAA to conduct an independent safety analysis.
+
+[Docket No. FAA-2019-0229, Amdt. 450-2, 85 FR 79719, Dec. 10, 2020; 85 FR 79739, Dec. 10, 2020, as amended by Doc. No. FAA-2023-1656, Amdt. No. 450-3, 89 FR 76729, Sept. 19, 2024]

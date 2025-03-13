@@ -50,4 +50,4 @@
 
 (5) Operation of the rotorcraft at a total weight greater than the maximum certificated weight established under paragraph (a) of this section is limited by appropriate operating limitations under § 27.865(a) and (d) of this part.
 
-(Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c) of the Dept. of Transportation Act (49 U.S.C. 1655(c))) [Doc. No. 5074, 29 FR 15695, Nov. 29, 1964, as amended by Amdt. 27-11, 41 FR 55468, Dec. 20, 1976; Amdt. 25-42, 43 FR 2324, Jan. 16, 1978; Amdt. 27-36, 64 FR 43019, Aug. 6, 1999; Amdt. 27-44, 73 FR 10998, Feb. 29, 2008; 73 FR 33876, June 16, 2008]
+(Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c) of the Dept. of Transportation Act (49 U.S.C. 1655(c)))[Doc. No. 5074, 29 FR 15695, Nov. 29, 1964, as amended by Amdt. 27-11, 41 FR 55468, Dec. 20, 1976; Amdt. 25-42, 43 FR 2324, Jan. 16, 1978; Amdt. 27-36, 64 FR 43019, Aug. 6, 1999; Amdt. 27-44, 73 FR 10998, Feb. 29, 2008; 73 FR 33876, June 16, 2008]

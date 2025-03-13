@@ -1,0 +1,15 @@
+##### § 49.5 Procedures. #####
+
+(a) *Application.* (1) A covered employee or covered dependent may apply for a HAVANA Act payment if the covered individual has sustained a qualifying injury to the brain on or after January 1, 2016. To apply for the benefit, the applicant must submit the DD Form 3220, “Eligibility Questionnaire for HAVANA Act Payments,” claim form to the appropriate email address set forth in paragraph (a)(2) of this section. The claim form must be completed by a person eligible to file a claim, or by that person's legal guardian, a family member, or another individual authorized to act on behalf of the requestor and must be signed by a currently certified physician as listed in § 49.3(a).
+
+(2) The claim form and any additional documentation must be emailed to the following address: *dodhra.mc-alex.dcpas.mbx.dod-havana-act@mail.mil.*
+
+(3) The applicant must furnish additional documentation upon request provided that the applicant has access to such additional documentation.
+
+(4) Copies of the claim form, as well as the regulations and other information, may be obtained on the Defense Civilian Personnel Advisory Service website, *https://www.dcpas.osd.mil/havana-act-benefits-program*.
+
+(b) *Other incident.* The Department will determine whether a covered employee or covered dependent has a qualifying injury to the brain as set forth in § 49.2(f)(2), and whether the incident causing the injury was in connection with war, insurgency, hostile act, or terrorist activity. The Department will, as appropriate or necessary, designate “other incidents” under 22 U.S.C. 2680b(j) for employees and dependents who were not, at the time of the incident, under the security responsibility of the Secretary of State or when operational control of overseas security responsibility for such employees or dependents was delegated to the Secretary of Defense. The Department will, as appropriate or necessary, make a recommendation to the Secretary of State that the incident should be deemed an “other incident designated by the Secretary of State” for purposes of 22 U.S.C. 2680b(i)(1)(D) (cross-referencing subparagraph 2680b(e)(4)) for incidents affecting employees or dependents who were, at the time of the incident, under the security responsibility of the Secretary of State.
+
+(c) *Decisions.* For covered employees and covered dependents, the Director, Defense Civilian Personnel Advisory Service, in their discretion may approve payments pursuant to 22 U.S.C. 2680b(i).
+
+(d) *Appeals.* In the event of a decision to deny an application for payment under the HAVANA Act, the Department will notify the applicant in writing. Applicants may direct an appeal via the DoD HAVANA Act mailbox, *dodhra.mc-alex.dcpas.mbx.dod-havana-act@mail.mil,* to the Deputy Assistant Secretary of Defense for Civilian Personnel Policy, within 60 days of the date of the notification of the denial. However, decisions concerning the amount paid are not subject to appeal. The Department will notify the applicant in writing of the decision on appeal.

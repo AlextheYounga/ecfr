@@ -1,22 +1,30 @@
 ##### § 15.38 Incorporation by reference. #####
 
-Link to an amendment published at 89 FR 83798, Oct. 18, 2024.
+Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Federal Communications Commission (FCC) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at the FCC and at the National Archives and Records Administration (NARA). Contact FCC at the address indicated in 47 CFR 0.401(a); phone: (202) 418-0270. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations* or email *fr.inspection@nara.gov.* The material may be obtained from the following sources:
 
-Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Federal Communications Commission (FCC) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at the FCC and at the National Archives and Records Administration (NARA). Contact the FCC at the address indicated in 47 CFR 0.401(a), phone: (202) 418-0270. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov.* The material may be obtained from the following source(s):
+(a) The IBR material may be obtained from the sources in the following paragraphs of this section or from one or more private resellers listed in this paragraph (a).
 
-(a) American National Standards Institute (ANSI), 25 West 43rd Street, 4th Floor, New York, NY 10036; phone: (212) 642-4980; email *info@ansi.org;* website: *https://webstore.ansi.org/.*
+(1) Accuris Standards Store, 321 Inverness Drive, South Englewood, CO 80112; phone: (800) 332-6077; website: *https://accuristech.com.*
+
+(2) American National Standards Institute (ANSI), see paragraph (b) of this section.
+
+(3) GlobalSpec, 257 Fuller Road, Suite NFE 1100, Albany, NY 12203-3621; phone: (800) 261-2052; website: *https://standards.globalspec.com.*
+
+(4) Nimonik Document Center, 401 Roland Way, Suite 224, Oakland, CA 94624; phone (650) 591-7600; email: *info@document-center.com;* website: *www.document-center.com.*
+
+(b) American National Standards Institute (ANSI), 25 West 43rd Street, 4th Floor, New York, NY 10036; phone: (212) 642-4980; email *info@ansi.org;* website: *https://webstore.ansi.org/.*
 
 (1) ANSI C63.17-2013, *American National Standard for Methods of Measurement of the Electromagnetic and Operational Compatibility of Unlicensed Personal Communications Services (UPCS) Devices,* approved August 12, 2013; IBR approved for § 15.31.
 
 (2) Third Edition of the International Special Committee on Radio Interference (CISPR), Pub. 22, *Information Technology Equipment-Radio Disturbance Characteristics-Limits and Methods of Measurement,* 1997; IBR approved for § 15.09.
 
-(b) Cable Television Laboratories, Inc., 858 Coal Creek Circle, Louisville, Colorado 80027; phone: (303) 661-9100; website: *www.cablelabs.com/.*
+(c) Cable Television Laboratories, Inc., 858 Coal Creek Circle, Louisville, Colorado 80027; phone: (303) 661-9100; website: *www.cablelabs.com/.*
 
 (1) M-UDCP-PICS-I04-080225, *Uni-Directional Cable Product Supporting M-Card: Multiple Profiles; Conformance Checklist: PICS,* February 25, 2008; IBR approved for § 15.123(c).
 
 (2) TP-ATP-M-UDCP-I05-20080304, *Uni-Directional Digital Cable Products Supporting M-Card; M-UDCP Device Acceptance Test Plan,* March 4, 2008; IBR approved for § 15.123(c).
 
-(c) Consumer Technology Association (formerly Consumer Electronics Association), 1919 S. Eads St., Arlington, VA 22202; phone: (703) 907-7634; email: *CTA@CTA.tech*; website: *www.cta.tech/*.
+(d) Consumer Technology Association (formerly Consumer Electronics Association), 1919 S. Eads St., Arlington, VA 22202; phone: (703) 907-7634; email: *CTA@CTA.tech*; website: *www.cta.tech/*.
 
 (1) CEA-542-B, *CEA Standard: Cable Television Channel Identification Plan,* July 2003; IBR approved for § 15.118.
 
@@ -30,13 +38,13 @@ Certain material is incorporated by reference into this part with the approval o
 
 (6) Uni-Dir-ATP-I02-040225, *Uni-Directional Receiving Device, Acceptance Test Plan,* February 25, 2004; IBR approved for § 15.123(c).
 
-(d) European Telecommunications Standards Institute, 650 Route des Lucioles, F-06921 Sophia Antipolis Cedex, France; website: *www.etsi.org/.*
+(e) European Telecommunications Standards Institute (ETSI), 650 Route des Lucioles, F-06921 Sophia Antipolis Cedex, France; phone: +33 4 92 94 42 00; email: *webstore@etsi.org;* website: *www.etsi.org/.*
 
-(1) ETSI EN 300 422-1 V1.4.2 (2011-08), *Electromagnetic compatibility and Radio spectrum Matters (ERM); Wireless microphones in the 25 MHz to 3 GHz frequency range; Part 1: Technical characteristics and methods of measurement,* Copyright 2011; IBR approved for § 15.236(g).
+(1) ETSI EN 300 422-1 V2.2.1 (2021-11), Wireless Microphones; Audio PMSE up to 3 GHz; Part 1: Audio PMSE Equipment up to 3 GHz; Harmonised Standard for access to radio spectrum, published November 2021; IBR approved for § 15.236(g). (Available at: *www.etsi.org/deliver/etsi\_en/300400\_300499/30042201/02.02.01\_60/en\_30042201v020201p.pdf.*)
 
 (2) [Reserved]
 
-(e) Institute of Electrical and Electronic Engineers (IEEE), 3916 Ranchero Drive, Ann Arbor, MI 48108; phone: (800) 678-4333; email: *stds-info@ieee.org;* website: *www.ieee.org/.*
+(f) Institute of Electrical and Electronic Engineers (IEEE), 3916 Ranchero Drive, Ann Arbor, MI 48108; phone: (800) 678-4333; email: *stds-info@ieee.org;* website: *www.ieee.org/.*
 
 (1) ANSI C63.4-2014: *American National Standard for Methods of Measurement of Radio-Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz,* ANSI approved June 13, 2014; IBR approved for § 15.35(a).
 
@@ -46,7 +54,7 @@ Certain material is incorporated by reference into this part with the approval o
 
 (4) ANSI C63.10-2020, *American National Standard of Procedures for Compliance Testing of Unlicensed Wireless Devices,* ANSI-approved September 10, 2020; IBR approved for §§ 15.31(a); 15.37(s).
 
-(f) Society of Cable Telecommunications Engineers (SCTE), 140 Philips Rd., Exton, PA 19341; phone: (610) 363-6888; email: *info@scte.org;* website: *www.scte.org.*
+(g) Society of Cable Telecommunications Engineers (SCTE), 140 Philips Rd., Exton, PA 19341; phone: (610) 363-6888; email: *info@scte.org;* website: *www.scte.org.*
 
 (1) SCTE 28 2003 (formerly DVS 295): “Host-POD Interface Standard,” 2003; IBR approved for § 15.123.
 
@@ -58,12 +66,4 @@ Certain material is incorporated by reference into this part with the approval o
 
 (5) ANSI/SCTE 65 2002 (formerly DVS 234): “Service Information Delivered Out-of-Band for Digital Cable Television,” 2002; IBR approved for § 15.123.
 
-Note 1 to § 15.38:
-
-The standards listed in paragraphs (c) and (f) of this section are available from Accuris (formerly Global Engineering), 15 Inverness Way East, Englewood, CO 80112; phone: (800) 854-7179; website: *https://global.ihs.com.*
-
-Note 2 to § 15.38:
-
-The standards listed in paragraphs (e) and (f) of this section are available from ANSI (see paragraph (a) of this section for contact information).
-
-[88 FR 67115, Sept. 29, 2023]
+[88 FR 67115, Sept. 29, 2023, as amended at 89 FR 83798, Oct. 18, 2024]

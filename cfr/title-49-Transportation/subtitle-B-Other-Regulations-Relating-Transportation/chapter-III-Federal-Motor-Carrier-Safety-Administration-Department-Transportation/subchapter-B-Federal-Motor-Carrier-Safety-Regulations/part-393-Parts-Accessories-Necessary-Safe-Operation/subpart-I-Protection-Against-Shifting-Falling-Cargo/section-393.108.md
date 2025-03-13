@@ -1,4 +1,4 @@
-##### § 393.108 How is the working load limit of a tiedown, or the load restraining value of a friction mat, determined? #####
+##### § 393.108 Determining the working load limit of a tiedown or the load restraining value of a friction mat. #####
 
 (a) The working load limit (WLL) of a tiedown, associated connector or attachment mechanism is the lowest working load limit of any of its components (including tensioner), or the working load limit of the anchor points to which it is attached, whichever is less.
 

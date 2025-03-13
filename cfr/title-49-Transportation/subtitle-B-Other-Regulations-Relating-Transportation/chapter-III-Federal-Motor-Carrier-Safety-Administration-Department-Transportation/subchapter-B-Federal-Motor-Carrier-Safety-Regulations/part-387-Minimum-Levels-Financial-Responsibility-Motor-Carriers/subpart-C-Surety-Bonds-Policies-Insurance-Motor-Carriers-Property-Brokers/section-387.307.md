@@ -76,4 +76,4 @@ This section is effective January 16, 2025.
 
 (2) If FMCSA initiates a suspension action pursuant to paragraph (g)(1) of this section it shall provide written notice to the surety company or financial institution, provide 30 calendar days (extended to the next business day if the final day of the period falls on a weekend or Federal holiday) for the surety company or financial institution to provide evidence contesting such proposed suspension, and then render a final decision in writing.
 
-[88 FR 78672, Nov. 16, 2023]Effective Date Note:At 88 FR 78656, Nov. 16, 2023, § 387.309 was stayed, effective Jan. 16, 2024, until Jan. 16, 2025.
+[88 FR 78672, Nov. 16, 2023]Effective Date Note:At 88 FR 78656, Nov. 16, 2023, § 387.307 was stayed, effective Jan. 16, 2024, until Jan. 16, 2025.Editorial Note:At 89 FR 90622, Nov. 18, 2024, § 387.307 was amended; however, the amendment could not be incorporated because the section was stayed.

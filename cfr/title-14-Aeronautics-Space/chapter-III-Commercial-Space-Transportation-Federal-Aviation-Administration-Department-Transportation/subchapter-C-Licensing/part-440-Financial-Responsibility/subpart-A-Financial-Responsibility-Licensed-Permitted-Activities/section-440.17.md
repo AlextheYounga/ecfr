@@ -1,7 +1,5 @@
 ##### § 440.17 Reciprocal waiver of claims requirements. #####
 
-Link to an amendment published at 89 FR 76728, Sept. 19, 2024.
-
 (a) As a condition of each license or permit, the licensee or permittee must comply with the reciprocal waiver of claims requirements of this section.
 
 (b) The licensee or permittee and each of its contractors and subcontractors, each customer, and each customer's contractors and subcontractors, must enter into a reciprocal waiver of claims agreement under which each party waives and releases claims against all the other parties to the waiver and against any other customer, and agrees to assume financial responsibility for property damage it sustains and for bodily injury or property damage sustained by its own employees, and to hold harmless and indemnify each other from bodily injury or property damage sustained by its employees, resulting from a licensed or permitted activity, regardless of fault.
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 76728, Sept. 19, 2024.
 
 (3) Any part 440 customer must extend the reciprocal waiver of claims requirements to each of its contractors and subcontractors involved in launch or reentry services, and each of its customers.
 
-(c) For each licensed or permitted activity in which the United States, or its contractors and subcontractors, is involved or where property insurance is required under § 440.9(d), the Federal Aviation Administration of the Department of Transportation, the licensee or permittee, and each first-tier customer must enter into a reciprocal waiver of claims agreement. The reciprocal waiver of claims must be in the form set forth in appendix B of this part for a licensed activity, in appendix C of this part for a permitted activity, or in a form that otherwise provides all the same obligations and benefits. The reciprocal waiver of claims must provide that:
+(c) For each licensed or permitted activity in which the United States, or its contractors and subcontractors, is involved or where property insurance is required under § 440.9(d), the Federal Aviation Administration of the Department of Transportation, the licensee or permittee, and each first-tier customer must enter into a reciprocal waiver of claims agreement. The reciprocal waiver of claims must be in a form acceptable to the Administrator, such as those contained in advisory circular AC 440.17-1, and must provide that:
 
 (1) Each party to the reciprocal waiver of claims, including the United States but only to the extent provided in legislation:
 
@@ -46,7 +44,7 @@ Link to an amendment published at 89 FR 76728, Sept. 19, 2024.
 
 (iii) The Federal Aviation Administration of the Department of Transportation on behalf of the United States, but only to the extent provided in legislation, must hold harmless and indemnify the licensee or permittee, each first-tier customer, any part 440 customer, and their respective directors, officers, servants, agents, subsidiaries, employees and assignees, or any of them, from and against liability, loss or damage arising out of claims that contractors and subcontractors of the United States may have for property damage sustained by them and for bodily injury or property damage sustained by their employees, resulting from licensed or permitted activities and arising out of the indemnifying party's failure to implement properly the waiver requirement to the extent that claims they would otherwise have for such damage or injury exceed the amount of insurance or demonstration of financial responsibility required under § 440.9(c) and (e).
 
-(d) For each licensed or permitted activity in which the United States or its contractors and subcontractors are involved, the Federal Aviation Administration of the Department of Transportation and each space flight participant must enter into or have in place a reciprocal waiver of claims agreement. The reciprocal waiver of claims must be in the form set forth in appendix E of this part, or in a form that otherwise provides all the same obligations and benefits.
+(d) For each licensed or permitted activity in which the United States or its contractors and subcontractors are involved, the Federal Aviation Administration of the Department of Transportation and each space flight participant must enter into or have in place a reciprocal waiver of claims agreement. The reciprocal waiver of claims must be in a form acceptable to the Administrator, such as those contained in advisory circular AC 440.17-1.
 
 (1) The reciprocal waiver of claims must provide that each space flight participant:
 
@@ -70,7 +68,7 @@ Link to an amendment published at 89 FR 76728, Sept. 19, 2024.
 
 (v) Extend the requirements of the waiver and release of claims, and the assumption of responsibility to its contractors and subcontractors by requiring them to waive and release all claims they may have against the space flight participant, and to agree to be responsible, for any property damage they sustain, resulting from permitted activities, regardless of fault.
 
-(e) For each licensed or permitted activity in which the United States or its contractors and subcontractors is involved, the Federal Aviation Administration of the Department of Transportation and each crew member must enter into or have in place a reciprocal waiver of claims agreement. The reciprocal waiver of claims must be in the form set forth in appendix D of this part, or in a form that otherwise provides all the same obligations and benefits.
+(e) For each licensed or permitted activity in which the United States or its contractors and subcontractors is involved, the Federal Aviation Administration of the Department of Transportation and each crew member must enter into or have in place a reciprocal waiver of claims agreement. The reciprocal waiver of claims must in a form acceptable to the Administrator, such as those contained in advisory circular AC 440.17-1.
 
 (1) The reciprocal waiver of claims must provide that each crew member:
 
@@ -94,6 +92,8 @@ Link to an amendment published at 89 FR 76728, Sept. 19, 2024.
 
 (v) Extend the requirements of the waiver and release of claims, and the assumption of responsibility to its contractors and subcontractors by requiring them to waive and release all claims they may have against the crew member and to agree to be responsible, for any property damage they sustain, resulting from permitted activities, regardless of fault.
 
-(f) Any waiver, release, assumption of responsibility or agreement to hold harmless and indemnify pursuant to this section does not apply to claims for bodily injury or property damage resulting from willful misconduct of any of the parties to the reciprocal waiver of claims, the contractors and subcontractors of any of the parties to the reciprocal waiver of claims, and in the case of licensee or permittee and customers and the contractors and subcontractors of each of them, the directors, officers, agents and employees of any of the foregoing, and in the case of the United States, its agents.
+(f) The licensee or permittee and each space flight participant must enter into a reciprocal waiver of claims agreement under which each party waives and releases claims against the other party to the waiver, and agrees to assume financial responsibility for property damage it sustains and for bodily injury or property damage, and to hold harmless and indemnify each other from bodily injury or property damage, resulting from a licensed or permitted activity, regardless of fault. This paragraph (f) shall cease to be effective as of September 30, 2025, unless public law modifies the limitation in section 50914 of Title 51 of the U.S. Code.
 
-[Doc. No. FAA-2005-23449, 71 FR 75632, Dec. 15, 2006, as amended by Amdt. 440-2, 76 FR 8630, Feb. 15, 2011; Doc. No. FAA-2014-1012, Amdt. 440-4, 81 FR 55122, Aug. 18, 2016]
+(g) Any waiver, release, assumption of responsibility or agreement to hold harmless and indemnify pursuant to this section does not apply to claims for bodily injury or property damage resulting from willful misconduct of any of the parties to the reciprocal waiver of claims, the contractors and subcontractors of any of the parties to the reciprocal waiver of claims, and in the case of licensee or permittee and customers and the contractors and subcontractors of each of them, the directors, officers, agents and employees of any of the foregoing, and in the case of the United States, its agents.
+
+[Doc. No. FAA-2005-23449, 71 FR 75632, Dec. 15, 2006, as amended by Amdt. 440-2, 76 FR 8630, Feb. 15, 2011; Doc. No. FAA-2014-1012, Amdt. 440-4, 81 FR 55122, Aug. 18, 2016; Doc. No. FAA-2023-1656, Amdt. 440-7, 89 FR 76728, Sept. 19, 2024]

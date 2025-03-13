@@ -1,4 +1,4 @@
-##### § 393.134 What are the rules for securing roll-on/roll-off or hook lift containers? #####
+##### § 393.134 Specific securement requirements for roll-on/roll-off and hook lift containers. #####
 
 (a) *Applicability.* The rules in this section apply to the transportation of roll-on/roll-off or hook lift containers.
 

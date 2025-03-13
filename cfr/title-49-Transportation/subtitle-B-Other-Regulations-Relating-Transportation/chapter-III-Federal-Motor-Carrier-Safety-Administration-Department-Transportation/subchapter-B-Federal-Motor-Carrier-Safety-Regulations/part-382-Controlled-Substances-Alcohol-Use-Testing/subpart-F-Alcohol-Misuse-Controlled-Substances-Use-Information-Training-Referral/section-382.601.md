@@ -16,9 +16,9 @@
 
 (4) Specific information concerning driver conduct that is prohibited by this part;
 
-(5) The circumstances under which a driver will be tested for alcohol and/or controlled substances under this part, including post-accident testing under § 382.303(d);
+(5) The circumstances under which a driver will be tested for alcohol and/or controlled substances under this part, including post-accident testing under § 382.303;
 
-(6) The procedures that will be used to test for the presence of alcohol and controlled substances, protect the driver and the integrity of the testing processes, safeguard the validity of the test results, and ensure that those results are attributed to the correct driver, including post-accident information, procedures and instructions required by § 382.303(d);
+(6) The procedures that will be used to test for the presence of alcohol and controlled substances, protect the driver and the integrity of the testing processes, safeguard the validity of the test results, and ensure that those results are attributed to the correct driver, including post-accident information, procedures and instructions required by § 382.303;
 
 (7) The requirement that a driver submit to alcohol and controlled substances tests administered in accordance with this part;
 
@@ -58,4 +58,4 @@
 
 (d) *Certificate of receipt.* Each employer shall ensure that each driver is required to sign a statement certifying that he or she has received a copy of these materials described in this section. Each employer shall maintain the signed certificate and may provide a copy of the certificate to the driver.
 
-[66 FR 43103, Aug. 17, 2001, as amended at 78 FR 58479, Sept. 24, 2013; 81 FR 87725, Dec. 5, 2016; 83 FR 16226, Apr. 16, 2018]
+[66 FR 43103, Aug. 17, 2001, as amended at 78 FR 58479, Sept. 24, 2013; 81 FR 87725, Dec. 5, 2016; 83 FR 16226, Apr. 16, 2018; 89 FR 90619, Nov. 18, 2024]

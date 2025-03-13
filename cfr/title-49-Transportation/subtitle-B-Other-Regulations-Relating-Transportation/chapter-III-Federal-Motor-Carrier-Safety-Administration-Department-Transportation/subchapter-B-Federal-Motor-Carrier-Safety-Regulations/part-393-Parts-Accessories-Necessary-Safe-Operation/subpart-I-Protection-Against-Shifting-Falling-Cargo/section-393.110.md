@@ -1,4 +1,4 @@
-##### § 393.110 What else do I have to do to determine the minimum number of tiedowns? #####
+##### § 393.110 Additional requirements for determining the minimum number of tiedowns. #####
 
 (a) When tiedowns are used as part of a cargo securement system, the minimum number of tiedowns required to secure an article or group of articles against movement depends on the length of the article(s) being secured, and the requirements of paragraphs (b) and (c) of this section. These requirements are in addition to the rules under § 393.106.
 

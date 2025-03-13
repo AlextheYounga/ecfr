@@ -1,4 +1,4 @@
-##### § 350.227 What activities are eligible for reimbursement under MCSAP? #####
+##### § 350.227 MCSAP administration: Activities eligible for reimbursement. #####
 
 (a) *General.* The primary activities eligible for reimbursement under MCSAP are:
 

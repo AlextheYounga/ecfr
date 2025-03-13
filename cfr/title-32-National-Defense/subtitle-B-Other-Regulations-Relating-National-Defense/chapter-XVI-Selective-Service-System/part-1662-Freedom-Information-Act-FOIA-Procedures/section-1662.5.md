@@ -1,3 +1,3 @@
-##### § 1662.5 Inspection, copying, and obtaining copies. #####
+##### § 1662.5 Who can file a FOIA request? #####
 
-When a request for information has been approved in accord with § 1662.4, the person making the request may make an appointment to inspect or copy the materials requested during regular business hours by writing or telephoning the records manager at the address listed in § 1662.2. Such materials may be copied manually without charge, and reasonable facilities will be made available for that purpose. Also, copies of individual pages of such materials will be made available as specified in § 1662.6; however, the right is reserved to limit to a reasonable quantity the copies of such materials which may be made available in this manner.
+Any member of the public may submit a FOIA request to SSS. Under the FOIA, “member of the public” includes requests from individuals, corporations, state, and local agencies, as well as foreign entities. Requests from Federal agencies and Federal or state courts are not covered by the FOIA.

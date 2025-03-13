@@ -32,9 +32,9 @@ This section prescribes the performance requirements for localizer equipment com
 
 (i) The localizer must provide signals sufficient to allow satisfactory operation of a typical aircraft installation within the localizer and glide path coverage sectors. The localizer coverage sector must extend from the center of the localizer antenna system to distances of 18 nautical miles minimum within ±10 degrees from the front course line, and 10 nautical miles minimum between ±10 degrees and ±35 degrees from the front course line. The ISMLS localizer signals must be receivable at the distances specified up from a surface extending outward from the localizer antenna and within a sector in the elevation plane from 0.300 to 1.750 of the established glide path angle (θ).
 
-(j) Except as provided in paragraph (k) of this section, in all parts of the coverage volume specified in paragraph (i) of this section, the peak field strength may not be less than −87 dBW/m 2, and must permit satisfactory operational usage of ISMLS localizer facilities.
+(j) Except as provided in paragraph (k) of this section, in all parts of the coverage volume specified in paragraph (i) of this section, the peak field strength may not be less than −87 dBW/m2, and must permit satisfactory operational usage of ISMLS localizer facilities.
 
-(k) The minimum peak field strength on the ISMLS glide path and within the localizer course sector from a distance of 10 nautical miles to a height of 100 feet (30 meters) above the horizontal plane containing the threshold, may not be less than + 87 dBW/m 2.
+(k) The minimum peak field strength on the ISMLS glide path and within the localizer course sector from a distance of 10 nautical miles to a height of 100 feet (30 meters) above the horizontal plane containing the threshold, may not be less than + 87 dBW/m2.
 
 (l) Above 16 degrees, the ISMLS localizer signals must be reduced to as low a value as practicable.
 

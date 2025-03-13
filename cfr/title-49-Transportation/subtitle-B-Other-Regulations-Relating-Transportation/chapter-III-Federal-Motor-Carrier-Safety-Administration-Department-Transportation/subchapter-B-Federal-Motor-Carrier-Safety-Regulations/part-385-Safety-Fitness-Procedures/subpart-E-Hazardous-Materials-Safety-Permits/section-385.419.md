@@ -1,4 +1,4 @@
-##### § 385.419 How long is a safety permit effective? #####
+##### § 385.419 Effective period of safety permit. #####
 
 Unless suspended or revoked, a safety permit (other than a temporary safety permit) is effective for two years, except that:
 
@@ -6,4 +6,4 @@ Unless suspended or revoked, a safety permit (other than a temporary safety perm
 
 (b) An existing safety permit will remain in effect pending FMCSA's processing of an application for renewal if a motor carrier submits the required application (Form MCSA-1) in accordance with the schedule set forth in part 390, subpart E, of this subchapter.
 
-[80 FR 63708, Oct. 21, 2015]Effective Date Note:At 82 FR 5305, Jan. 17, 2017, § 385.419 was suspended, effective Jan. 14, 2017.
+[80 FR 63708, Oct. 21, 2015]Effective Date Note:At 82 FR 5305, Jan. 17, 2017, § 385.419 was suspended, effective Jan. 14, 2017. At 89 FR 90621, Nov. 18, 2024, the suspension was lifted and the section heading was revised. In that same document, § 385.419 was again suspended indefinitely, effective Nov. 18, 2024.

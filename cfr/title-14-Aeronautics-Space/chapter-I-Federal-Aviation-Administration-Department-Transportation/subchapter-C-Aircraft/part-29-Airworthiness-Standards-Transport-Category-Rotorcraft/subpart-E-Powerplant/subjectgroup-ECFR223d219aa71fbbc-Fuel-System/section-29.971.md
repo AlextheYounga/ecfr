@@ -4,7 +4,7 @@
 
 (1) 0.10 per cent of the tank capacity; or
 
-(2) 1/16 gallon.
+(2)1/16 gallon.
 
 (b) The capacity prescribed in paragraph (a) of this section must be effective with the rotorcraft in any normal attitude, and must be located so that the sump contents cannot escape through the tank outlet opening.
 

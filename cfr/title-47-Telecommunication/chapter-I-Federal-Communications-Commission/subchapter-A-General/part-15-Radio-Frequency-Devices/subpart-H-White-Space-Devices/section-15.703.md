@@ -1,7 +1,5 @@
 ##### § 15.703 Definitions. #####
 
-Link to an amendment published at 89 FR 83799, Oct. 18, 2024.
-
 *600 MHz duplex gap.* An 11 megahertz guard band at 652-663 MHz that separates part 27 600 MHz service uplink and downlink frequencies.
 
 *600 MHz guard band.* Designated frequency band at 614-617 MHz that prevents interference between licensed services in the 600 MHz service band and channel 37.
@@ -44,6 +42,6 @@ Link to an amendment published at 89 FR 83799, Oct. 18, 2024.
 
 *Television bands.* The broadcast television frequency bands at 54-72 MHz (TV channels 2-4), 76-88 MHz (TV channels 5-6), 174-216 MHz (TV channels 7-13) and 470-608 MHz (channels 14-36).
 
-*White space database.* A database system approved by the Commission that maintains records on authorized services and provides lists of available channels to white space devices and unlicensed wireless microphone users.
+*White space database.* A database system approved by the Commission that maintains records on authorized services and provides lists of available channels to white space devices.
 
-[80 FR 73070, Nov. 23, 2015, as amended at 84 FR 34796, July 19, 2019; 86 FR 2290, Jan. 12, 2021]
+[80 FR 73070, Nov. 23, 2015, as amended at 84 FR 34796, July 19, 2019; 86 FR 2290, Jan. 12, 2021; 89 FR 83799, Oct. 18, 2024]

@@ -1,4 +1,4 @@
-##### § 393.104 What standards must cargo securement devices and systems meet in order to satisfy the requirements of this subpart? #####
+##### § 393.104 Standards for cargo securement devices and systems. #####
 
 (a) *General.* All devices and systems used to secure cargo to or within a vehicle must be capable of meeting the requirements of § 393.102.
 

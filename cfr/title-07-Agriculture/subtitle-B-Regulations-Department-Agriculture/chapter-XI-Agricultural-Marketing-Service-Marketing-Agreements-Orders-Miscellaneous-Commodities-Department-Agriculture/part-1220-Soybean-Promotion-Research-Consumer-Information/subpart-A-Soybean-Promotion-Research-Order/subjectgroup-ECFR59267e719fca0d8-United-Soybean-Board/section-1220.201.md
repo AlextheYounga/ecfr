@@ -1,5 +1,7 @@
 ##### § 1220.201 Membership of board. #####
 
+Link to an amendment published at 89 FR 90571, Nov. 18, 2024.
+
 (a) For the purpose of nominating and appointing producers to the Board, the United States shall be divided into 31 geographic units and the number of Board members from each unit, subject to paragraphs (d) and (e) of this section shall be as follows:
 
 |                                                                      State/unit                                                                       |Number of  <br/>members|

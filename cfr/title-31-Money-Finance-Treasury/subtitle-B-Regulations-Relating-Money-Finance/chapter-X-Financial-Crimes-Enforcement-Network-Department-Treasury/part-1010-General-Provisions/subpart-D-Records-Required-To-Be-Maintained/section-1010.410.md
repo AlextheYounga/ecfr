@@ -26,7 +26,7 @@ Each financial institution shall retain either the original or a copy or reprodu
 
 (E) The identity of the recipient's financial institution;
 
-(F) As many of the following items as are received with the transmittal order:1
+(F) As many of the following items as are received with the transmittal order: 1
 
 1 For transmittals of funds effected through the Federal Reserve's Fedwire funds transfer system by a domestic broker or dealers in securities, only one of the items is required to be retained, if received with the transmittal order, until such time as the bank that sends the order to the Federal Reserve Bank completes its conversion to the expanded Fedwire message format.
 
@@ -98,7 +98,7 @@ Each financial institution shall retain either the original or a copy or reprodu
 
 (v) The identity of the recipient's financial institution;
 
-(vi) As many of the following items as are received with the transmittal order:2
+(vi) As many of the following items as are received with the transmittal order: 2
 
 2 For transmittals of funds effected through the Federal Reserve's Fedwire funds transfer system by a financial institution, only one of the items is required to be included in the transmittal order, if received with the sender's transmittal order, until such time as the bank that sends the order to the Federal Reserve Bank completes its conversion to the expanded Fedwire message format.
 
@@ -122,7 +122,7 @@ Each financial institution shall retain either the original or a copy or reprodu
 
 (v) The identity of the recipient's financial institution;
 
-(vi) As many of the following items as are received with the transmittal order:3
+(vi) As many of the following items as are received with the transmittal order: 3
 
 3 For transmittals of funds effected through the Federal Reserve's Fedwire funds transfer system by a financial institution, only one of the items is required to be included in the transmittal order, if received with the sender's transmittal order, until such time as the bank that sends the order to the Federal Reserve Bank completes its conversion to the expanded Fedwire message format.
 

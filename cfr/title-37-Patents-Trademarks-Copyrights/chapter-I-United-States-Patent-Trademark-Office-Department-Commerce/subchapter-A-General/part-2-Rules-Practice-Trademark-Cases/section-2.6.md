@@ -1,6 +1,6 @@
 ##### § 2.6 Trademark fees. #####
 
-Link to an amendment published at 87 FR 62034, Oct. 13, 2022.Link to a delay of the above amendment published at 88 FR 62463, Sept. 12, 2023.
+Link to an amendment published at 87 FR 62034, Oct. 13, 2022.Link to a delay of the above amendment published at 88 FR 62463, Sept. 12, 2023.Link to an amendment published at 89 FR 91089, Nov. 18, 2024.
 
 (a) Trademark process fees.
 

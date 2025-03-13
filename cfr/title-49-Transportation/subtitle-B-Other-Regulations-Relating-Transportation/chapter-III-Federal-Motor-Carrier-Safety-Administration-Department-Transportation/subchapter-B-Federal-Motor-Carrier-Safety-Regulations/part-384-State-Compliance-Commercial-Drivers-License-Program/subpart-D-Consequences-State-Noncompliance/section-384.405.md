@@ -1,6 +1,6 @@
 ##### § 384.405 Decertification of State CDL program. #####
 
-(a) *Prohibition on CLP or CDL transactions.* The Administrator may prohibit a State found to be in substantial noncompliance from performing any of the following CLP or CDL transactions:
+(a) *Prohibition on CLP or CDL transactions.* The Administrator shall prohibit a State found to be in substantial noncompliance from performing any of the following CLP or CDL transactions:
 
 (1) Initial issuance.
 
@@ -34,4 +34,4 @@
 
 (h) *Validity of previously issued CLPs or CDLs.* A CLP or CDL issued by a State prior to the date the State is prohibited from issuing CLPs or CDLs in accordance with provisions of paragraph (a) of this section, will remain valid until its stated expiration date.
 
-[76 FR 26896, May 9, 2011, as amended at 78 FR 17882, Mar. 25, 2013]
+[76 FR 26896, May 9, 2011, as amended at 78 FR 17882, Mar. 25, 2013; 89 FR 90620, Nov. 18, 2024]

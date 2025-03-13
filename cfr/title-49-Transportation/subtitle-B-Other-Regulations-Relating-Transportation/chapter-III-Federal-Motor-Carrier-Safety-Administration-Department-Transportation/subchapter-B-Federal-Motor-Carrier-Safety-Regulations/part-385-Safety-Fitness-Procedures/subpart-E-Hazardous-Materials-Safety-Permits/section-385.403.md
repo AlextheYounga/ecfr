@@ -1,4 +1,4 @@
-##### § 385.403 Who must hold a safety permit? #####
+##### § 385.403 Prohibited transportation without safety permit. #####
 
 A motor carrier may not transport in interstate or intrastate commerce any of the following hazardous materials, in the quantity indicated for each, unless the motor carrier holds a safety permit:
 

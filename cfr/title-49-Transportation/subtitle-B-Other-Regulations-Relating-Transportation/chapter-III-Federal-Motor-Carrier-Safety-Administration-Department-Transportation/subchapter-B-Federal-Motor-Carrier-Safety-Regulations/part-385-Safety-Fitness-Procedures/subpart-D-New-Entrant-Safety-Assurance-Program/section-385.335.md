@@ -1,3 +1,3 @@
-##### § 385.335 If the FMCSA conducts a compliance review on a new entrant, will the new entrant also be subject to a safety audit? #####
+##### § 385.335 Compliance review in lieu of safety audit. #####
 
 If the FMCSA conducts a compliance review on a new entrant that has not previously been subject to a safety audit and issues a safety fitness determination, the new entrant will not have to undergo a safety audit under this subpart. However, the new entrant will continue to be subject to the 18-month safety-monitoring period prior to removal of the new entrant designation.

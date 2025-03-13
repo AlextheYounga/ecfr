@@ -6,4 +6,4 @@
 
 (c) *Issue date not coincidental with maturity date.* If the date on which a security matures or is called does not coincide with the issue date of the security being purchased through reinvestment, the Department may, at its option, hold the redemption proceeds in the same form of registration as the maturing or called security, but no interest shall accrue or be paid on such funds.
 
-(Approved by the Office of Management and Budget under control number 1535-0068)[51 FR 18265, May 16, 1986, as amended at 62 FR 18694, Apr. 16, 1997]
+(Approved by the Office of Management and Budget under control number 1535-0068) [51 FR 18265, May 16, 1986, as amended at 62 FR 18694, Apr. 16, 1997]

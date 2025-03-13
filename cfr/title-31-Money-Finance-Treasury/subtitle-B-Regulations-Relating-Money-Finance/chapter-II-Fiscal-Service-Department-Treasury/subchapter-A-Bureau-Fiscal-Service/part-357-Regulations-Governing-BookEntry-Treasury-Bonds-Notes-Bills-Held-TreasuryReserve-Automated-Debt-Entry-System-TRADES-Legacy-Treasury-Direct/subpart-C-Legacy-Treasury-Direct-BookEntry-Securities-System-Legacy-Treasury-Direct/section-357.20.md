@@ -32,7 +32,7 @@
 
 (4) Upon the determination on December 31 that an owner has not received a statement of account for that current calendar year.
 
-The statement shall contain information regarding the account as of the date of such statement. The price associated with each security in the securities portfolio will also appear on the statement.1 The statement may be sent to the correspondence address designated in the account master record, or may be sent by electronic means. When the statement is issued as a result of a change in ownership of a security, statements will be sent, where appropriate, to both the former and current owners. Other information regarding the account may be obtained in accordance with § 357.24.
+The statement shall contain information regarding the account as of the date of such statement. The price associated with each security in the securities portfolio will also appear on the statement. 1 The statement may be sent to the correspondence address designated in the account master record, or may be sent by electronic means. When the statement is issued as a result of a change in ownership of a security, statements will be sent, where appropriate, to both the former and current owners. Other information regarding the account may be obtained in accordance with § 357.24.
 
 1 IRS regulations require reporting of income information on a security.
 
@@ -60,4 +60,4 @@ The statement shall contain information regarding the account as of the date of 
 
 (h) *Closing an account.* If a Legacy Treasury Direct account has no holdings, we reserve the right to close the account.
 
-(Approved by the Office of Management and Budget under control number 1535-0068)[51 FR 18265, May 16, 1986, as amended at 60 FR 4377, Jan. 23, 1995; 62 FR 18004, Apr. 11, 1997; 62 FR 32033, June 12, 1997; 76 FR 18063, Apr. 1, 2011]
+(Approved by the Office of Management and Budget under control number 1535-0068) [51 FR 18265, May 16, 1986, as amended at 60 FR 4377, Jan. 23, 1995; 62 FR 18004, Apr. 11, 1997; 62 FR 32033, June 12, 1997; 76 FR 18063, Apr. 1, 2011]

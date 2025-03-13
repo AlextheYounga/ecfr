@@ -1,4 +1,4 @@
-##### § 385.415 What operational requirements apply to the transportation of a hazardous material for which a permit is required? #####
+##### § 385.415 Operational requirements for the transportation of a hazardous material for which a permit is required. #####
 
 (a) *Information that must be carried in the vehicle.* During transportation, the following must be maintained in each commercial motor vehicle that transports a hazardous material listed in § 385.403 and must be made available to an authorized official of a Federal, State, or local government agency upon request.
 

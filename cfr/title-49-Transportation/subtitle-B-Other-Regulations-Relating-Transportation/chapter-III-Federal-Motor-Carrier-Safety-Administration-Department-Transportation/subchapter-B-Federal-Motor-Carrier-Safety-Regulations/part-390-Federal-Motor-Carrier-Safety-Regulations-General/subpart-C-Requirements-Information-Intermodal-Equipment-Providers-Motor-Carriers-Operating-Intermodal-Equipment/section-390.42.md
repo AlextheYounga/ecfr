@@ -1,4 +1,4 @@
-##### § 390.42 What are the responsibilities of drivers and motor carriers operating intermodal equipment? #####
+##### § 390.42 Drivers and motor carriers operating intermodal equipment. #####
 
 (a) Before operating intermodal equipment over the road, the driver accepting the equipment must inspect the equipment components listed in § 392.7(b) of this subchapter and be satisfied they are in good working order.
 

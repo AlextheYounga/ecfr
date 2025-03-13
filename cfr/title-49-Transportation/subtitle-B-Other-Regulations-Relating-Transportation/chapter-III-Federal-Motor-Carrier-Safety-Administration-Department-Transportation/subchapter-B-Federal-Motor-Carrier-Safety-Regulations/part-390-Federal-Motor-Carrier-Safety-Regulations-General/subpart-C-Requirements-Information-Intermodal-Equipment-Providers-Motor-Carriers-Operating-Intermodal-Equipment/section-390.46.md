@@ -1,4 +1,4 @@
-##### § 390.46 Are State and local laws and regulations on the inspection, repair, and maintenance of intermodal equipment preempted by the Federal Motor Carrier Safety Regulations? #####
+##### § 390.46 Preemption of State and local laws and regulations on the inspection, repair, and maintenance of intermodal equipment. #####
 
 (a) *General.* As provided by 49 U.S.C. 31151(d), a law, regulation, order, or other requirement of a State, a political subdivision of a State, or a tribal organization relating to the inspection, repair, and maintenance of intermodal equipment is preempted if such law, regulation, order, or other requirement exceeds or is inconsistent with a requirement imposed by the Federal Motor Carrier Safety Regulations.
 

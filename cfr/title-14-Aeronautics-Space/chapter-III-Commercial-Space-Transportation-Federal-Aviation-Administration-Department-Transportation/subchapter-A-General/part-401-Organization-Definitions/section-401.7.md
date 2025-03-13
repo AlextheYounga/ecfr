@@ -1,7 +1,5 @@
 ##### § 401.7 Definitions. #####
 
-Link to an amendment published at 89 FR 76726, Sept. 19, 2024.
-
 For the purposes of this chapter unless otherwise excepted, the following definitions apply:
 
 *Act* means 51 U.S.C Subtitle V, Programs Targeting Commercial Opportunities, chapter 509—Commercial Space Launch Activities, 51 U.S.C. 50901-50923.
@@ -64,6 +62,18 @@ For the purposes of this chapter unless otherwise excepted, the following defini
 
 *Flight safety system* means a system used to implement flight abort. A flight safety system includes any flight safety system located on board a launch or reentry vehicle; any ground based command control system; any support system, including telemetry subsystems and tracking subsystems, necessary to support a flight abort decision; and the functions of any personnel who operate the flight safety system hardware or software.
 
+*Government astronaut* means an individual who—
+
+(1) Is designated by the National Aeronautics and Space Administration under Title 51, United States Code, Section 20113(n);
+
+(2) Is carried within a launch vehicle or reentry vehicle in the course of their employment, which may include performance of activities directly relating to the launch, reentry, or other operation of the launch vehicle or reentry vehicle; and
+
+(3) Is either—
+
+(i) An employee of the United States Government, including the uniformed services, engaged in the performance of a Federal function under authority of law or an Executive act; or
+
+(ii) An international partner astronaut.
+
 *Hazard control* means a preventative measure or mitigation put in place for systems or operations to reduce the severity of a hazard or the likelihood of the hazard occurring.
 
 *Hazardous debris* means any object or substance capable of causing a casualty or loss of functionality to a critical asset. Hazardous debris includes inert debris and explosive debris such as an intact vehicle, vehicle fragments, any detached vehicle component whether intact or in fragments, payload, and any planned jettison bodies.
@@ -71,6 +81,10 @@ For the purposes of this chapter unless otherwise excepted, the following defini
 *Hazardous materials* means hazardous materials as defined in 49 CFR 172.101.
 
 *Instantaneous impact point* means a predicted impact point, following thrust termination of a vehicle.
+
+*International partner astronaut* means an individual designated under Article 11 of the International Space Station Intergovernmental Agreement, by a partner to that agreement other than the United States, as qualified to serve as an International Space Station crew member.
+
+*International Space Station Intergovernmental Agreement* means the Agreement Concerning Cooperation on the International Space Station, signed in Washington, DC, on January 29, 1998 (TIAS 12927).
 
 *Key flight safety event* means a flight activity that has an increased likelihood of causing a failure compared with other portions of flight.
 
@@ -180,7 +194,7 @@ For the purposes of this chapter unless otherwise excepted, the following defini
 
 *Software function* means a collection of computer code that implements a requirement or performs an action. This includes firmware and operating systems.
 
-*Space flight participant* means an individual, who is not crew, carried aboard a launch vehicle or reentry vehicle.
+*Space flight participant* means an individual, who is not crew or a government astronaut, carried on board a launch vehicle or reentry vehicle.
 
 *State and United States* means, when used in a geographical sense, the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the United States Virgin Islands, Guam, and any other commonwealth, territory, or possession of the United States.
 
@@ -220,4 +234,4 @@ For the purposes of this chapter unless otherwise excepted, the following defini
 
 *Window closure* means a period of time when launch or reentry is not permitted in order to avoid a collision with an object in orbit. A window closure may occur within a launch or reentry window, may delay the start of a window, or terminate a window early.
 
-[Doc. No. FAA-2019-0229, Amdt. 401-9, 85 FR 79707, Dec. 10, 2020]
+[Doc. No. FAA-2019-0229, Amdt. 401-9, 85 FR 79707, Dec. 10, 2020; Doc. No. FAA-2023-1656, Amdt. No. 401-10, 89 FR 76726, Sept. 19, 2024]

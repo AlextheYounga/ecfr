@@ -1,4 +1,4 @@
-##### § 385.329T May a new entrant that has had its USDOT new entrant registration revoked and its operations placed out of service reapply? #####
+##### § 385.329T Re-application. #####
 
 (a) A new entrant whose USDOT new entrant registration has been revoked, and whose operations have been placed out of service by FMCSA, may reapply for new entrant registration no sooner than 30 days after the date of revocation.
 

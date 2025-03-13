@@ -1,4 +1,4 @@
-##### § 393.130 What are the rules for securing heavy vehicles, equipment and machinery? #####
+##### § 393.130 Specific securement requirements for heavy vehicles, equipment, and machinery. #####
 
 (a) *Applicability.* The rules in this section apply to the transportation of heavy vehicles, equipment and machinery which operate on wheels or tracks, such as front end loaders, bulldozers, tractors, and power shovels and which individually weigh 4,536 kg (10,000 lb.) or more. Vehicles, equipment and machinery which is lighter than 4,536 kg (10,000 lb.) may also be secured in accordance with the provisions of this section, with § 393.128, or in accordance with the provisions of §§ 393.100 through 393.114.
 

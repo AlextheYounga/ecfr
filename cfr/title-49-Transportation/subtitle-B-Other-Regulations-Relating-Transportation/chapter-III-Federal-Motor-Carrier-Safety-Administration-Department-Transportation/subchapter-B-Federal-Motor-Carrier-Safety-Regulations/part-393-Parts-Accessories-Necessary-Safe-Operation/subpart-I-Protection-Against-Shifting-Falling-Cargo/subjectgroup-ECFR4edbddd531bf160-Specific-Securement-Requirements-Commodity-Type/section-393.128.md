@@ -1,4 +1,4 @@
-##### § 393.128 What are the rules for securing automobiles, light trucks and vans? #####
+##### § 393.128 Specific securement requirements for automobiles, light trucks, and vans. #####
 
 (a) *Applicability.* The rules in this section apply to the transportation of automobiles, light trucks, and vans which individually weigh 4,536 kg. (10,000 lb) or less. Vehicles which individually are heavier than 4,536 kg (10,000 lb) must be secured in accordance with the provisions of § 393.130 of this part.
 

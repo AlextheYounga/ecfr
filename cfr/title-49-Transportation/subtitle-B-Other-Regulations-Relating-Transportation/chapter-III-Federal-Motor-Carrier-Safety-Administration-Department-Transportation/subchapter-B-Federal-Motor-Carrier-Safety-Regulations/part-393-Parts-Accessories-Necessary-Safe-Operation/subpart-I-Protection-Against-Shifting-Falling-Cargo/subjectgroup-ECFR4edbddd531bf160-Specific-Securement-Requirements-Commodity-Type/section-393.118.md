@@ -1,4 +1,4 @@
-##### § 393.118 What are the rules for securing dressed lumber or similar building products? #####
+##### § 393.118 Specific securement requirements for dressed lumber and similar building products. #####
 
 (a) *Applicability.* The rules in this section apply to the transportation of bundles of dressed lumber, packaged lumber, building products such as plywood, gypsum board or other materials of similar shape. Lumber or building products which are not bundled or packaged must be treated as loose items and transported in accordance with §§ 393.100 through 393.114 of this subpart. For the purpose of this section, “bundle” refers to packages of lumber, building materials or similar products which are unitized for securement as a single article of cargo.
 

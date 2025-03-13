@@ -1,4 +1,4 @@
-##### § 350.225 What MOE must a State maintain to qualify for MCSAP funds? #####
+##### § 350.225 MCSAP administration: Maintenance of effort to qualify for funds. #####
 
 (a) *General.* Subject to paragraph (e) of this section, a State must maintain an MOE each fiscal year for CMV safety programs eligible for funding under this part at a level at least equal to:
 

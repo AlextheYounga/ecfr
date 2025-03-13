@@ -1,4 +1,4 @@
-##### § 350.209 How and when does a State apply for MCSAP funds using a CVSP? #####
+##### § 350.209 MCSAP administration: Application for funds using a CVSP. #####
 
 (a) *MCSAP application submission format.* (1) The CVSP is a 3-year plan.
 

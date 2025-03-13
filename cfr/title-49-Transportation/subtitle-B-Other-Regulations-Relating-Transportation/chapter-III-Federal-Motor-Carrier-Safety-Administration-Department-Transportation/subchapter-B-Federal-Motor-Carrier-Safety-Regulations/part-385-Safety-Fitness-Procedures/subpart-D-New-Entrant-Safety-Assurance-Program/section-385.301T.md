@@ -1,4 +1,4 @@
-##### § 385.301T What is a motor carrier required to do before beginning interstate operations? #####
+##### § 385.301T Requirements before beginning interstate operations. #####
 
 (a) Before a motor carrier of property or passengers begins interstate operations, it must register with the FMCSA and receive a USDOT number. In addition, for-hire motor carriers must obtain operating authority from FMCSA following the registration procedures described in 49 CFR part 365, unless providing transportation exempt from 49 CFR part 365 registration requirements.
 

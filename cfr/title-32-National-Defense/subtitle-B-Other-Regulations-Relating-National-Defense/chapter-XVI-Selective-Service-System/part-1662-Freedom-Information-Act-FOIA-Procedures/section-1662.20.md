@@ -1,0 +1,3 @@
+##### § 1662.20 The FOIA Exemption 3: Records exempted by other statutes. #####
+
+The FOIA exempts from disclosure records if another statute specifically allows or requires the agency to withhold them. The Chief FOIA Officer may use another statute to justify withholding only if it prohibits disclosure; it sets forth criteria to guide the Chief FOIA Officer's decision on releasing; or identifies types of material to be withheld.

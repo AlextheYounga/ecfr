@@ -1,7 +1,5 @@
 ##### § 15.715 White space database administrator. #####
 
-Link to an amendment published at 89 FR 83799, Oct. 18, 2024.
-
 The Commission will designate one or more entities to administer the white space database(s). The Commission may, at its discretion, permit the functions of a white space database, such as a data repository, registration, and query services, to be divided among multiple entities; however, it will designate specific entities to be a database administrator responsible for coordination of the overall functioning of a database and providing services to white space devices. Each database administrator designated by the Commission shall:
 
 (a) Maintain a database that contains the information described in § 15.713.
@@ -36,6 +34,4 @@ The Commission will designate one or more entities to administer the white space
 
 (p) Establish procedures to allow health care facilities to register the locations of facilities where they operate WMTS networks on channel 37.
 
-(q) Establish procedures to allow unlicensed wireless microphone users in the 600 MHz band to register with the database and to provide lists of channels available for wireless microphones at a given location.
-
-[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4975, Jan. 29, 2016; 86 FR 2296, Jan. 12, 2021; 87 FR 18993, Apr. 1, 2022]
+[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4975, Jan. 29, 2016; 86 FR 2296, Jan. 12, 2021; 87 FR 18993, Apr. 1, 2022; 89 FR 83799, Oct. 18, 2024]

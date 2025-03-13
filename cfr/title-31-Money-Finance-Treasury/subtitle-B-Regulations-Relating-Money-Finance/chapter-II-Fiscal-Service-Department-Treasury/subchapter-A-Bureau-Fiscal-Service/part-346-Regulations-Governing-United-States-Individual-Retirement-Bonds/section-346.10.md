@@ -4,4 +4,4 @@
 
 (b) *Error in issue—change of name.* Reissue of an Individual Retirement Bond will be made where an error in issue has occurred, as well as in cases where the owner's name has been changed by marriage, divorce, annulment, order of court, or in any other legal manner upon an appropriate request. Information as to the procedure to be followed in securing such reissue may be obtained from a Federal Reserve Bank or the Bureau of the Fiscal Service, Division of Transactions and Rulings, Parkersburg, WV 26101.
 
-(26 U.S.C. 220 and 31 U.S.C. 757)[40 FR 4240, Jan. 28, 1975, as amended at 42 FR 37520, July 21, 1977]
+(26 U.S.C. 220 and 31 U.S.C. 757) [40 FR 4240, Jan. 28, 1975, as amended at 42 FR 37520, July 21, 1977]

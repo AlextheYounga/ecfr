@@ -1,4 +1,4 @@
-##### § 350.303 How does a State ensure compatibility? #####
+##### § 350.303 Compatibility review: State responsibilities. #####
 
 (a) *General.* The Lead State Agency is responsible for reviewing and analyzing State laws, regulations, standards, and orders on CMV safety to ensure compatibility (as defined in § 350.105 of this part).
 

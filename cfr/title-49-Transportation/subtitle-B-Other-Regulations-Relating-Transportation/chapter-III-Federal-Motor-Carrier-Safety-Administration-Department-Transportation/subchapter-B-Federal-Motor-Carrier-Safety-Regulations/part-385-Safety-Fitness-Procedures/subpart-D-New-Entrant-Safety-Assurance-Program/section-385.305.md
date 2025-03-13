@@ -1,4 +1,4 @@
-##### § 385.305 What happens after the FMCSA receives a request for new entrant registration? #####
+##### § 385.305 Completing the registration process. #####
 
 (a) The applicant for new entrant registration will be directed to the FMCSA Internet website (*https://www.fmcsa.dot.gov*) to secure and/or complete the application package online.
 
@@ -12,4 +12,4 @@
 
 (d) *Additional requirements for certain for-hire motor carriers.* For-hire motor carriers, unless providing transportation exempt from the commercial registration requirements in 49 U.S.C. chapter 139, must obtain operating authority as prescribed under § 390.201(b) and part 365 of this chapter before operating in interstate commerce.
 
-[67 FR 31983, May 13, 2002, as amended by 80 FR 63707, Oct. 21, 2015]Effective Date Note:At 82 FR 5304, Jan. 17, 2017, § 385.305 was suspended, effective Jan. 14, 2017. At 88 FR 80182, Nov. 17, 2023, the suspension was lifted, § 385.305 was amended, and the section was again suspended indefinitely.
+[67 FR 31983, May 13, 2002, as amended by 80 FR 63707, Oct. 21, 2015; 88 FR 80182, Nov. 17, 2023]Effective Date Note:At 82 FR 5304, Jan. 17, 2017, § 385.305 was suspended, effective Jan. 14, 2017. At 88 FR 80182, Nov. 17, 2023, the suspension was lifted, § 385.305 was amended, and the section was again suspended indefinitely. At 89 FR 90620, Nov. 18, 2024, the suspension was lifted and the section heading was revised. In that same document, § 385.305 was again suspended indefinitely, effective Nov. 18, 2024.

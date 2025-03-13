@@ -1,6 +1,6 @@
 ##### § 401.5 Definitions. #####
 
-Link to an amendment published at 85 FR 79707, Dec. 10, 2020.Link to an amendment published at 89 FR 76725, Sept. 19, 2024.
+Link to an amendment published at 85 FR 79707, Dec. 10, 2020.
 
 For the purposes of parts 415, 417, 431, 435, 440, and 460 of this chapter, the following definitions apply:
 
@@ -28,13 +28,29 @@ For the purposes of parts 415, 417, 431, 435, 440, and 460 of this chapter, the 
 
 *Flight safety system* means a system designed to limit or restrict the hazards to public health and safety and the safety of property presented by a launch vehicle or reentry vehicle while in flight by initiating and accomplishing a controlled ending to vehicle flight. A flight safety system may be destructive resulting in intentional break up of a vehicle or nondestructive, such as engine thrust termination enabling vehicle landing or safe abort capability.
 
+*Government astronaut* means an individual who—
+
+(1) Is designated by the National Aeronautics and Space Administration under Title 51, United States Code, Section 20113(n);
+
+(2) Is carried within a launch vehicle or reentry vehicle in the course of their employment, which may include performance of activities directly relating to the launch, reentry, or other operation of the launch vehicle or reentry vehicle; and
+
+(3) Is either—
+
+(i) An employee of the United States Government, including the uniformed services, engaged in the performance of a Federal function under authority of law or an Executive act; or
+
+(ii) An international partner astronaut.
+
 *Hazardous materials* means hazardous materials as defined in 49 CFR 172.101.
 
-*Human space flight incident* means an unplanned event that poses a high risk of causing a serious or fatal injury to a space flight participant or crew.
+*Human space flight incident* means an unplanned event that poses a high risk of causing a serious or fatal injury to a space flight participant, crew, or government astronaut.
 
 *Instantaneous impact point* means an impact point, following thrust termination of a launch vehicle, calculated in the absence of atmospheric drag effects.
 
-*Launch* means to place or try to place a launch vehicle or reentry vehicle and any payload from Earth in a suborbital trajectory, in Earth orbit in outer space, or otherwise in outer space, and includes preparing a launch vehicle for flight at a launch site in the United States. Launch includes the flight of a launch vehicle and includes pre- and post-flight ground operations as follows:
+*International partner astronaut* means an individual designated under Article 11 of the International Space Station Intergovernmental Agreement, by a partner to that agreement other than the United States, as qualified to serve as an International Space Station crew member.
+
+*International Space Station Intergovernmental Agreement* means the Agreement Concerning Cooperation on the International Space Station, signed in Washington, DC, on January 29, 1998 (TIAS 12927).
+
+*Launch* means to place or try to place a launch vehicle or reentry vehicle and any payload, space flight participant, crew, or government astronaut from Earth in a suborbital trajectory, in Earth orbit in outer space, or otherwise in outer space, and includes preparing a launch vehicle for flight at a launch site in the United States. Launch includes the flight of a launch vehicle and includes pre- and post-flight ground operations as follows:
 
 (1) *Beginning of launch.* (i) Under a license, launch begins with the arrival of a launch vehicle or payload at a U.S. launch site.
 
@@ -54,19 +70,19 @@ For the purposes of parts 415, 417, 431, 435, 440, and 460 of this chapter, the 
 
 (iii) For a suborbital ELV or RLV launch, launch ends after reaching apogee if the flight includes a reentry, or otherwise after vehicle landing or impact on Earth, and after activities necessary to return the vehicle to a safe condition on the ground.
 
-*Launch accident* means
+*Launch accident* means—
 
 (1) An event that causes a fatality or serious injury (as defined in 49 CFR 830.2) to any person who is not associated with the flight;
 
 (2) An event that causes damage estimated to exceed $25,000 to property not associated with the flight that is not located at the launch site or designated recovery area;
 
-(3) An unplanned event occurring during the flight of a launch vehicle resulting in the impact of a launch vehicle, its payload or any component thereof:
+(3) An unplanned event occurring during the flight of a launch vehicle resulting in the impact of a launch vehicle, its payload, or any component thereof:
 
 (i) For an expendable launch vehicle, outside designated impact limit lines; and
 
 (ii) For a reusable launch vehicle, outside a designated landing site.
 
-(4) For a launch that takes place with a person on board, a fatality or serious injury to a space flight participant or crew member.
+(4) For a launch that takes place with a person on board, a fatality or serious injury to a space flight participant, crew, or government astronaut.
 
 *Launch incident* means an unplanned event during the flight of a launch vehicle, other than a launch accident, involving a malfunction of a flight safety system or safety-critical system, or a failure of the licensee's or permittee's safety organization, design, or operations.
 
@@ -106,9 +122,9 @@ For the purposes of parts 415, 417, 431, 435, 440, and 460 of this chapter, the 
 
 *Public safety* means, for a particular licensed launch, the safety of people and property that are not involved in supporting the launch and includes those people and property that may be located within the boundary of a launch site, such as visitors, individuals providing goods or services not related to launch processing or flight, and any other launch operator and its personnel.
 
-*Reenter; reentry* means to return or attempt to return, purposefully, a reentry vehicle and its payload, if any, from Earth orbit or from outer space to Earth. The term “reenter; reentry” includes activities conducted in Earth orbit or outer space to determine reentry readiness and that are critical to ensuring public health and safety and the safety of property during reentry flight. The term “reenter; reentry” also includes activities conducted on the ground after vehicle landing on Earth to ensure the reentry vehicle does not pose a threat to public health and safety or the safety of property.
+*Reenter; reentry* means to return or attempt to return, purposefully, a reentry vehicle and its payload, space flight participant, crew, or government astronaut, if any, from Earth orbit or from outer space to Earth. The term “reenter; reentry” includes activities conducted in Earth orbit or outer space to determine reentry readiness and that are critical to ensuring public health and safety and the safety of property during reentry flight. The term “reenter; reentry” also includes activities conducted on the ground after vehicle landing on Earth to ensure the reentry vehicle does not pose a threat to public health and safety or the safety of property.
 
-*Reentry accident* means
+*Reentry accident* means—
 
 (1) Any unplanned event occurring during the reentry of a reentry vehicle resulting in the impact of the reentry vehicle, its payload, or any component thereof, outside a designated reentry site;
 
@@ -116,7 +132,7 @@ For the purposes of parts 415, 417, 431, 435, 440, and 460 of this chapter, the 
 
 (3) An event that causes damage estimated to exceed $25,000 to property not associated with the reentry and not located within a designated reentry site; and
 
-(4) For a reentry that takes place with a person on board, a fatality or serious injury to a space flight participant or crew member.
+(4) For a reentry that takes place with a person on board, a fatality or serious injury to a space flight participant, crew, or government astronaut.
 
 *Reentry incident* means any unplanned event occurring during the reentry of a reentry vehicle, other than a reentry accident, involving a malfunction of a reentry safety-critical system or failure of the licensee's or permittee's safety organization, procedures, or operations.
 
@@ -140,7 +156,7 @@ For the purposes of parts 415, 417, 431, 435, 440, and 460 of this chapter, the 
 
 *Sigma* means a single standard deviation from a fixed value, such as a mean.
 
-*Space flight participant* means an individual, who is not crew, carried aboard a launch vehicle or reentry vehicle.
+*Space flight participant* means an individual, who is not crew or a government astronaut, carried on board a launch vehicle or reentry vehicle.
 
 *State and United States* means, when used in a geographical sense, the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the United States Virgin Islands, Guam, and any other commonwealth, territory, or possession of the United States; and
 
@@ -164,4 +180,5 @@ For the purposes of parts 415, 417, 431, 435, 440, and 460 of this chapter, the 
 
 *Verification* means an evaluation to determine that safety measures derived from a system safety process are effective and have been properly implemented. Verification provides measurable evidence that a safety measure reduces risk to acceptable levels.
 
-[Doc. No. FAA-1999-5535, 65 FR 56656, Sept. 19, 2000, as amended by Amdt. 401-2, 65 FR 62861, Oct. 19, 2000; Amdt. 401-4, 71 FR 50530, Aug. 25, 2006; 71 FR 75631, Dec. 15, 2006; Amdt. 401-5, 72 FR 17016, Apr. 6, 2007; Amdt. 401-6, 73 FR 73782, Dec. 4, 2008; Amdt. 401-7, 77 FR 20532, Apr. 5, 2012; 80 FR 30151, May 27, 2015; Amdt. 401-8, 80 FR 31834, June 4, 2015; Doc. No. FAA-2019-0229, Amdt. 401-9, 85 FR 79707, Dec. 10, 2020]
+[Doc. No. FAA-1999-5535, 65 FR 56656, Sept. 19, 2000, as amended by Amdt. 401-2, 65 FR 62861, Oct. 19, 2000; Amdt. 401-4, 71 FR 50530, Aug. 25, 2006; 71 FR 75631, Dec. 15, 2006; Amdt. 401-5, 72 FR 17016, Apr. 6, 2007; Amdt. 401-6, 73 FR 73782, Dec. 4, 2008; Amdt. 401-7, 77 FR 20532, Apr. 5, 2012; 80 FR 30151, May 27, 2015; Amdt. 401-8, 80 FR 31834, June 4, 2015; Doc. No. FAA-2019-0229, Amdt. 401-9, 85 FR 79707, Dec. 10, 2020; Doc. No. FAA-2023-1656, Amdt. No.
+401-10, 89 FR 76725, Sept. 19, 2024]

@@ -1,3 +1,3 @@
-##### § 350.219 How are MCSAP funds awarded under a continuing resolution or an extension of FMCSA's authorization? #####
+##### § 350.219 MCSAP administration: Award of funds under a continuing resolution or an extension of FMCSA's authorization. #####
 
 In the event of a continuing resolution or an extension of FMCSA's authorization, subject to the availability of funding, FMCSA may first issue grants to States that have the lowest percent of undelivered obligations of the previous Federal fiscal year's funding, or as otherwise determined by the Administrator.

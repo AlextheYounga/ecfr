@@ -1,4 +1,4 @@
-##### § 393.122 What are the rules for securing paper rolls? #####
+##### § 393.122 Specific securement requirements for paper rolls. #####
 
 (a) *Applicability.* The rules in this section apply to shipments of paper rolls which, individually or together, weigh 2268 kg (5000 lb) or more. Shipments of paper rolls that weigh less than 2268 kg (5000 lb), and paper rolls that are unitized on a pallet, may either be secured in accordance with the rules in this section or the requirements of §§ 393.100 through 393.114.
 

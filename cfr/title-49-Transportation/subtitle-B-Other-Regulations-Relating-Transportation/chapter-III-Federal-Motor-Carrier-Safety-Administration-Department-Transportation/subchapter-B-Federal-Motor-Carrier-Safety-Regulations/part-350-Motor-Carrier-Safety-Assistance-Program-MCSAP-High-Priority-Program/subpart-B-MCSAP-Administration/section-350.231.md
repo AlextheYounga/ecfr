@@ -1,4 +1,4 @@
-##### § 350.231 What are the consequences for failure to meet MCSAP conditions? #####
+##### § 350.231 MCSAP administration: Consequences for failure to meet conditions. #####
 
 (a) *General.* (1) If a State is not performing according to an approved CVSP or not adequately meeting the conditions set forth in § 350.207, the Administrator may issue a written notice of proposed determination of nonconformity to the chief executive of the State or the official designated in the CVSP.
 

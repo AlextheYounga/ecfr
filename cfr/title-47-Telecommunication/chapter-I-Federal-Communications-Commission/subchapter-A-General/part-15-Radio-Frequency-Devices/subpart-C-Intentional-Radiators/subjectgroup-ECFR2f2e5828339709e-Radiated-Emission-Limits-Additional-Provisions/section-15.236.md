@@ -1,75 +1,62 @@
-##### § 15.236 Operation of wireless microphones in the bands 54-72 MHz, 76-88 MHz, 174-216 MHz, 470-608 MHz and 614-698 MHz. #####
-
-Link to an amendment published at 89 FR 83798, Oct. 18, 2024.
+##### § 15.236 Operation of wireless microphones in the bands 54-72 MHz, 76-88 MHz, 174-216 MHz, 470-608 MHz, 614-616 MHz and 657-663 MHz. #####
 
 (a) *Definitions.* The following definitions apply in this section.
 
-(1) *Wireless Microphone.* An intentional radiator that converts sound into electrical audio signals that are transmitted using radio signals to a receiver which converts the radio signals back into audio signals that are sent through a sound recording or amplifying system. Wireless microphones may be used for cue and control communications and synchronization of TV camera signals as defined in § 74.801 of this chapter. Wireless microphones do not include auditory assistance devices as defined in § 15.3(a) of this part.
+*600 MHz duplex gap.* An 11 megahertz guard band at 652-663 MHz that separates part 27 600 MHz service uplink and downlink frequencies.
 
-(2) *600 MHz duplex gap.* An 11 megahertz guard band at 652-663 MHz that separates part 27 600 MHz service uplink and downlink frequencies.
+*600 MHz guard band.* Designated frequency band at 614-617 MHz that prevents interference between licensed services in the 600 MHz service band and channel 37.
 
-(3) *600 MHz guard band.* Designated frequency band at 614-617 MHz that prevents interference between licensed services in the 600 MHz service band and channel 37.
+*Wireless Microphone.* An intentional radiator that converts sound into electrical audio signals that are transmitted using radio signals to a receiver which converts the radio signals back into audio signals that are sent through a sound recording or amplifying system. Wireless microphones may be used for cue and control communications and synchronization of TV camera signals as defined in § 74.801 of this chapter. Wireless microphones do not include auditory assistance devices as defined in § 15.3(a) of this part.
 
-(4) *600 MHz service band.* Frequencies in the 617-652 MHz and 663-698 MHz bands that are reallocated and reassigned for 600 MHz band services under part 27.
+*Wireless Multichannel Audio Systems.* Wireless audio transmission systems using broadband digital transmission techniques for microphone and in-ear monitor system applications and other multichannel audio use.
 
-Note to paragraphs (a)(2), (3) and (4):
+(b) *Permissible operations.* Operation under this section is limited to wireless microphones and wireless multichannel audio systems as defined in this section.
 
-The specific frequencies will be determined in light of further proceedings pursuant to GN Docket No. 12-268 and the rules will be updated accordingly pursuant to a future public notice.
-
-(5) *Spectrum Act.* Title VI of the Middle Class Tax Relief and Job Creation Act of 2012 (Pub. L. 112-96).
-
-(b) Operation under this section is limited to wireless microphones as defined in this section.
-
-(c) Operation is permitted in the following frequency bands.
+(c) *Frequency bands.* Operation of wireless microphones is permitted in all of the following frequency bands. Wireless multichannel audio systems may operate only in the bands listed in paragraphs (c)(1) and (2) of this section.
 
 (1) Channels allocated and assigned for the broadcast television service.
 
-(2) Frequencies in the 600 MHz service band on which a 600 MHz service licensee has not commenced operations, as defined in § 27.4 of this chapter. Operation on these frequencies must cease no later than the end of the post-auction transition period, as defined in § 27.4 of this chapter. Operation must cease immediately if harmful interference occurs to a 600 MHz service licensee.
+(2) The 657-663 MHz segment of the 600 MHz duplex gap.
 
-(3) The 657-663 MHz segment of the 600 MHz duplex gap.
+(3) The 614-616 MHz segment of the 600 MHz guard band.
 
-(4) [Reserved]
+(d) *Power limits.* The maximum radiated power shall not exceed the following values:
 
-(5) The 614-616 MHz segment of the 600 MHz guard band.
+(1) In the bands allocated and assigned for broadcast television:
 
-(6) Prior to operation in the frequencies identified in paragraphs (c)(2) through (5) of this section, wireless microphone users shall rely on the white space databases in part 15, Subpart H to determine that their intended operating frequencies are available for unlicensed wireless microphone operation at the location where they will be used. Wireless microphone users must register with and check a white space database to determine available channels prior to beginning operation at a given location. A user must re-check the database for available channels if it moves to another location.
+(i) Wireless microphones: 50 mW EIRP.
 
-(d) The maximum radiated power shall not exceed the following values:
+(ii) Wireless multichannel audio systems with a bandwidth up to 1 MHz: 50 mW EIRP.
 
-(1) In the bands allocated and assigned for broadcast television and in the 600 MHz service band: 50 mW EIRP
+(iii) Wireless multichannel audio systems with a bandwidth greater than 1 MHz: 100 mW EIRP.
 
 (2) In the 600 MHz guard band and the 600 MHz duplex gap: 20 mW EIRP.
 
-(e) Operation is limited to locations separated from licensed services by the following distances.
-
-(1) Four kilometers outside the following protected service contours of co-channel TV stations.
+(e) *Operating locations.* Operation is limited to locations at least four kilometers outside the following protected service contours of co-channel TV stations:
 
 |                         Type of station                          | Protected contour |                 |        |
 |------------------------------------------------------------------|-------------------|-----------------|--------|
 |                             Channel                              |Contour  <br/>(dBu)|Propagation curve|        |
-|         Analog: Class A TV, LPTV, translator and booster         |   Low VHF (2-6)   |       47        |F(50,50)|
-|                                                                  |  High VHF (7-13)  |       56        |F(50,50)|
-|                                                                  |    UHF (14-51)    |       64        |F(50,50)|
 |Digital: Full service TV, Class A TV, LPTV, translator and booster|   Low VHF (2-6)   |       28        |F(50,90)|
 |                                                                  |  High VHF (7-13)  |       36        |F(50,90)|
-|                                                                  |    UHF (14-51)    |       41        |F(50,90)|
+|                                                                  |    UHF (14-36)    |       41        |F(50,90)|
 
-(2) The following distances outside of the area where a 600 MHz service licensee has commenced operations, as defined in § 27.4 of this chapter.
+(f) *Operating frequency and bandwidth*—(1) *Wireless microphones.* The operating frequency within a permissible band of operation defined in paragraph (c) of this section must comply with the following requirements.
 
-| Type of station |Separation distance in kilometers|   |
-|-----------------|---------------------------------|---|
-|Co-  <br/>channel|     Adjacent  <br/>channel      |   |
-|      Base       |                7                |0.2|
-|     Mobile      |               35                |31 |
+(i) The frequency selection shall be offset from the upper or lower band limits by 25 kHz or an integral multiple thereof.
 
-(f) The operating frequency within a permissible band of operation as defined in paragraph (c) must comply with the following requirements.
+(ii) One or more adjacent 25 kHz segments within the assignable frequencies may be combined to form a channel whose maximum bandwidth shall not exceed 200 kHz. The operating bandwidth shall not exceed 200 kHz.
 
-(1) The frequency selection shall be offset from the upper or lower band limits by 25 kHz or an integral multiple thereof.
+(iii) The frequency tolerance of the carrier signal shall be maintained within ±0.005% of the operating frequency over a temperature variation of −20 degrees to +50 degrees C at normal supply voltage, and for a variation in the primary supply voltage from 85% to 115% of the rated supply voltage at a temperature of 20 degrees C. Battery operated equipment shall be tested using a new battery.
 
-(2) One or more adjacent 25 kHz segments within the assignable frequencies may be combined to form a channel whose maximum bandwidth shall not exceed 200 kHz. The operating bandwidth shall not exceed 200 kHz.
+(2) *Wireless multichannel audio systems.* A wireless multichannel audio system may have an operating bandwidth not exceeding 6 megahertz and must have a mode of operation in which it is capable of operating with at least three audio channels per megahertz. For wireless multichannel audio systems operating in the TV bands (channels 2-36), the 6 megahertz (or less) channel must fall entirely within a single TV channel.
 
-(3) The frequency tolerance of the carrier signal shall be maintained within ±0.005% of the operating frequency over a temperature variation of −20 degrees to +50 degrees C at normal supply voltage, and for a variation in the primary supply voltage from 85% to 115% of the rated supply voltage at a temperature of 20 degrees C. Battery operated equipment shall be tested using a new battery.
+(g) *Emission masks*—(1) *Analog systems.* Emissions within the band from 2.5 × B below to 2.5 × B above the carrier frequency, where B is the channel bandwidth, shall comply with the emission mask in Figure 1 of section 4.2.4.2.2 of ETSI EN 300 422-1 V2.2.1 (2021-11) (incorporated by reference, see § 15.38).
 
-(g) Emissions within the band from one megahertz below to one megahertz above the carrier frequency shall comply with the emission mask in § 8.3 of ETSI EN 300 422-1 V1.4.2 (2011-08), *Electromagnetic compatibility and Radio spectrum Matters (ERM); Wireless microphones in the 25 MHz to 3 GHz frequency range; Part 1: Technical characteristics and methods of measurement*. Emissions outside of this band shall comply with the limits specified in section 8.4 of ETSI EN 300 422-1 V1.4.2 (2011-08).
+(2) *Digital systems.* Emissions within the band from 2.5 × B below to 2.5 × B above the carrier frequency, where B is the channel bandwidth, shall comply with the emission mask in Figure 2 of section 4.2.4.2.2 of ETSI EN 300 422-1 V2.2.1 (2021-11) (incorporated by reference, see § 15.38).
 
-[80 FR 73069, Nov. 23, 2015, as amended at 81 FR 4974, Jan. 29, 2016; 82 FR 41559, Sept. 1, 2017]
+(3) *Wireless Multichannel Audio Systems.* Emissions within the band from 2.5 × B below to 2.5 × B above the carrier frequency, where B is the channel bandwidth, shall comply with the emission mask in Figure 3 of section 4.2.4.2.2 of ETSI EN 300 422-1 V2.2.1 (2021-11), (incorporated by reference, see § 15.38).
+
+(4) *Spurious emission limits.* Emissions outside of the emission masks listed in paragraphs (g)(1) through (g)(3) shall comply with the limits specified in section 4.2.4.1.2 of ETSI EN 300 422-1 V2.2.1 (2021-11), (incorporated by reference, see § 15.38).
+
+[89 FR 83798, Oct. 18, 2024]

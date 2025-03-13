@@ -1,4 +1,4 @@
-##### § 350.201 What is MCSAP? #####
+##### § 350.201 MCSAP administration: Goal and purpose. #####
 
 (a) *General.* MCSAP is a Federal formula grant program that provides financial assistance to States to reduce the number and severity of crashes, and resulting injuries and fatalities, involving CMVs and to promote the safe transportation of passengers and hazardous materials. The goal of MCSAP is to reduce CMV-involved crashes, fatalities, and injuries through consistent, uniform, and effective CMV safety programs that include driver or vehicle inspections, traffic enforcement, carrier investigations, new entrant safety audits, border enforcement, safety data improvements, and Performance and Registration Information Systems Management (PRISM).
 

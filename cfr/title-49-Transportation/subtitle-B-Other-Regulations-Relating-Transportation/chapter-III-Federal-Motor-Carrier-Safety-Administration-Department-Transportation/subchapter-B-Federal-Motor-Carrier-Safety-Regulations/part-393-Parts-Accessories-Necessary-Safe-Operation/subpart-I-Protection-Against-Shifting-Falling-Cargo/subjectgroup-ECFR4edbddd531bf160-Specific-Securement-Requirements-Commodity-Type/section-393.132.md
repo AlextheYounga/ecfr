@@ -1,4 +1,4 @@
-##### § 393.132 What are the rules for securing flattened or crushed vehicles? #####
+##### § 393.132 Specific securement requirements for flattened or crushed vehicles. #####
 
 (a) *Applicability.* The rules in this section apply to the transportation of vehicles such as automobiles, light trucks, and vans that have been flattened or crushed.
 

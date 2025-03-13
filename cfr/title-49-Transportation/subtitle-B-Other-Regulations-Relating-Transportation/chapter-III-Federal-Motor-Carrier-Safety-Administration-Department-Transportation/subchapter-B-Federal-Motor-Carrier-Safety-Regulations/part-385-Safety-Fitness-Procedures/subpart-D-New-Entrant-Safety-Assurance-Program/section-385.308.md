@@ -1,4 +1,4 @@
-##### § 385.308 What may cause an expedited action? #####
+##### § 385.308 Expedited safety audits and compliance reviews of new entrants. #####
 
 (a) A new entrant that commits any of the following actions, identified through roadside inspections or by any other means, may be subjected to an expedited safety audit or a compliance review or may be required to submit a written response demonstrating corrective action:
 

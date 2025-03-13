@@ -14,4 +14,4 @@ A Dealer's Aircraft Registration Certificate, AC Form 8050-6 is valid only in co
 
 (2) Necessary for, or incident to, sale of the aircraft.
 
-However, a prospective buyer may operate an aircraft for demonstration purposes only while he is under the direct supervision of the holder of the Dealer's Aircraft Registration Certificate or his agent. [Doc. No. 7190, 31 FR 4495, Mar. 17, 1966; 31 FR 5483, Apr. 7, 1966, as amended by Amdt. 47-4, 32 FR 12556, Aug. 30, 1967; Amdt. 47-29, 75 FR 41983, July 20, 2010]
+However, a prospective buyer may operate an aircraft for demonstration purposes only while he is under the direct supervision of the holder of the Dealer's Aircraft Registration Certificate or his agent.[Doc. No. 7190, 31 FR 4495, Mar. 17, 1966; 31 FR 5483, Apr. 7, 1966, as amended by Amdt. 47-4, 32 FR 12556, Aug. 30, 1967; Amdt. 47-29, 75 FR 41983, July 20, 2010]

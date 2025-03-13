@@ -1,4 +1,4 @@
-##### § 393.114 What are the requirements for front end structures used as part of a cargo securement system? #####
+##### § 393.114 Requirements for front end structures used as part of a cargo securement system. #####
 
 (a) *Applicability.* The rules in this section are applicable to commercial motor vehicles transporting articles of cargo that are in contact with the front end structure of the vehicle. The front end structure on these cargo-carrying vehicles must meet the performance requirements of this section.
 

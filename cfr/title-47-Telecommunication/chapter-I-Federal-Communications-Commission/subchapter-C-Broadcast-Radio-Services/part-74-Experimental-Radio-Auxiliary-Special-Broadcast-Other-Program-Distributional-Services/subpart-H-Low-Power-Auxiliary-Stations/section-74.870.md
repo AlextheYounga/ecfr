@@ -1,14 +1,12 @@
 ##### § 74.870 Wireless video assist devices. #####
 
-Link to an amendment published at 89 FR 83800, Oct. 18, 2024.
-
 Television broadcast auxiliary licensees and motion picture and television producers, as defined in § 74.801 may operate wireless video assist devices on a non-interference basis on VHF and UHF television channels to assist with production activities.
 
 (a) The use of wireless video assist devices must comply with all provisions of this subpart, except as indicated in paragraphs (b) through (i) of this section.
 
 (b) Wireless video assist devices may only be used for scheduled productions. They may not be used to produce live events and may not be used for electronic news gathering purposes.
 
-(c) Wireless video assist devices may operate with a bandwidth not to exceed 6 MHz on frequencies in the bands 180-210 MHz (TV channels 8-12) and 470-698 MHz (TV channels 14-51) subject to the following restrictions:
+(c) Wireless video assist devices may operate with a bandwidth not to exceed 6 MHz on frequencies in the bands 180-210 MHz (TV channels 8-12) and 470-608 MHz (TV channels 14-36) subject to the following restrictions:
 
 (1) The bandwidth may only occupy a single TV channel.
 
@@ -121,4 +119,4 @@ All coordinates are referenced to the North American Datum of 1983.
 
 (i) *Operations in 600 MHz band assigned to wireless licensees under part 27 of this chapter.* A wireless video assist device that operates on frequencies in the 600 MHz band assigned to wireless licensees under part 27of this chapter must cease operations on those frequencies no later than the end of the post-auction transition period as defined in § 27.4 of this chapter. During the post-auction transition period, wireless video assist devices will operate on a secondary basis to licensees of part 27 of this chapter, *i.e.,* they must not cause to and must accept harmful interference from these licensees.
 
-[68 FR 12772, Mar. 17, 2003, as amended at 68 FR 69331, Dec. 12, 2003; 79 FR 48545, Aug. 15, 2014]
+[68 FR 12772, Mar. 17, 2003, as amended at 68 FR 69331, Dec. 12, 2003; 79 FR 48545, Aug. 15, 2014; 89 FR 83800, Oct. 18, 2024]

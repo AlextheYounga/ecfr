@@ -4,7 +4,7 @@ The comprehensive medical examination required to conduct operations under § 61
 
 (a) A section, for the individual to complete that contains—
 
-(1) Boxes 3 through 13 and boxes 16 through 19 of the FAA Form 8500-8 (3-99); and
+(1) Boxes 3 through 13 and boxes 16 through 19 of the FAA Form 8500-8 (3-99), or any successor form; and
 
 (2) A signature line for the individual to affirm that—
 
@@ -71,3 +71,5 @@ The comprehensive medical examination required to conduct operations under § 61
 (4) To sign the checklist, stating: “I certify that I discussed all items on this checklist with the individual during my examination, discussed any medications the individual is taking that could interfere with his or her ability to safely operate an aircraft or motor vehicle, and performed an examination that included all of the items on this checklist. I certify that I am not aware of any medical condition that, as presently treated, could interfere with the individual's ability to safely operate an aircraft.”; and
 
 (5) To provide the date the comprehensive medical examination was completed, and the physician's full name, address, telephone number, and State medical license number.
+
+[Docket FAA-2016-9157, Amdt. 68-1, 82 FR 3165, Jan. 11, 2017, as amended by Docket No. FAA-2024-2580; Amdt. No. 68-3, 89 FR 90577, Nov. 18, 2024]

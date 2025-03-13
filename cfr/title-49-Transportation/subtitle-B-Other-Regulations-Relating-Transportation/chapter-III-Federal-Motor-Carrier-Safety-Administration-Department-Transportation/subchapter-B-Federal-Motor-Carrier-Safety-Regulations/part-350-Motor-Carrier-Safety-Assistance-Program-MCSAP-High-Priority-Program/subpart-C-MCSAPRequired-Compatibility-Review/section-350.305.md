@@ -1,4 +1,6 @@
-##### § 350.305 What specific variances from the FMCSRs are allowed for State laws and regulations applicable to intrastate commerce and are not subject to Federal jurisdiction? #####
+##### § 350.305 Compatibility review: Allowable variances from the FMCSRs. #####
+
+The following variances are allowed for State laws and regulations applicable to intrastate commerce and are not subject to Federal jurisdiction:
 
 (a) *General.* (1) Except as otherwise provided in this section, a State may exempt a CMV from all or part of its laws or regulations applicable to intrastate commerce, if the gross vehicle weight rating, gross combination weight rating, gross vehicle weight, or gross combination weight does not equal or exceed 11,801 kilograms (26,001 pounds).
 
@@ -22,7 +24,7 @@
 
 (2) Driving prohibitions for drivers who have been on duty 70 hours in 7 consecutive days or 80 hours in 8 consecutive days; or
 
-(3) Extending the 100-air mile radius under § 395.1(e)(1)(i) of this subchapter to a 150-air mile radius.
+(3) A 150-air mile radius or the air mile radius under § 395.1(e)(1)(i) of this subchapter, whichever is greater.
 
 (e) *Age of CMV driver.* All intrastate CMV drivers must be at least 18 years of age.
 
@@ -45,3 +47,5 @@
 (2) Does not apply to interstate commerce; and
 
 (3) Is not likely to have an adverse impact on safety.
+
+[85 FR 37796, June 24, 2020, as amended at 89 FR 90618, Nov. 18, 2024]

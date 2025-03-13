@@ -1,7 +1,5 @@
 ##### § 74.861 Technical requirements. #####
 
-Link to an amendment published at 89 FR 83800, Oct. 18, 2024.
-
 (a) Except as specified in paragraph (e) of this section, transmitter power is the power at the transmitter output terminals and delivered to the antenna, antenna transmission line, or any other impedance-matched, radio frequency load. For the purpose of this subpart, the transmitter power is the carrier power.
 
 (b) Each authorization for a new low power auxiliary station shall require the use of certificated equipment. Such equipment shall be operated in accordance with the emission specifications included in the certification grant and as prescribed in paragraphs (c) through (e) of this section.
@@ -16,13 +14,15 @@ Link to an amendment published at 89 FR 83800, Oct. 18, 2024.
 
 (3) For the 26.1-26.480 MHz, 161.625-161.775 MHz, 450-451 MHz, and 455-456 MHz bands, the occupied bandwidth shall not be greater than that necessary for satisfactory transmission and, in any event, an emission appearing on any discrete frequency outside the authorized band shall be attenuated, at least, 43+10 log10 (mean output power, in watts) dB below the mean output power of the transmitting unit. The requirements of this paragraph shall also apply to the applications for certification of equipment for the 944-952 MHz band until January 13, 2018.
 
-(4)(i) For the 653-657 MHz, 941.5-944 MHz, 944-952 MHz, 952.850-956.250 MHz, 956.45-959.85 MHz, 1435-1525 MHz, 6875-6900 MHz and 7100-7125 MHz bands, analog emissions within the band from one megahertz below to one megahertz above the carrier frequency shall comply with the emission mask in section 8.3.1.2 of the European Telecommunications Institute Standard ETSI EN 300 422-1 v1.4.2 (2011-08), Electromagnetic compatibility and Radio spectrum Matters (ERM); Wireless microphones in the 25 MHz to 3 GHz frequency range; Part 1: Technical characteristics and methods of measurement. Beyond one megahertz below and above the carrier frequency, emissions shall comply with the limits specified in section 8.4 of ETSI EN 300 422-1 v1.4.2 (2011-08).
+(4) The following emission limits apply in the 941.5-944 MHz, 944-952 MHz, 952.850-956.250 MHz, 956.45-959.85 MHz, 1435-1525 MHz, 6875-6900 MHz and 7100-7125 MHz bands.
 
-(ii) For the 653-657 MHz, 941.5-944 MHz, 944-952 MHz, 952.850-956.250 MHz, 956.45-959.85 MHz, and 1435-1525 MHz bands, digital emissions within the band from one megahertz below to one megahertz above the carrier frequency shall comply with the emission mask in section 8.3.2.2 (Figure 4) of the European Telecommunications Institute Standard ETSI EN 300 422-1 v1.4.2 (2011-08), Electromagnetic compatibility and Radio spectrum Matters (ERM); Wireless microphones in the 25 MHz to 3 GHz frequency range; part 1: Technical characteristics and methods of measurement. Beyond one megahertz below and above the carrier frequency, emissions shall comply with the limits specified in section 8.4 of ETSI EN 300 422-1 v1.4.2 (2011-08).
+(i) *Analog systems.* Emissions within the band from 2.5 × B below to 2.5 × B above the carrier frequency, where B is the channel bandwidth, shall comply with the emission mask in Figure 1 of section 4.2.4.2.2 of ETSI EN 300 422-1 V2.2.1 (2021-11) (incorporated by reference, see § 74.35).
 
-(iii) In the 6875-6900 MHz and 7100-7125 MHz bands, digital emissions within the band from one megahertz below to one megahertz above the carrier frequency shall comply with the emission mask in section 8.3.2.2 (Figure 5) of the European Telecommunications Institute Standard ETSI EN 300 422-1 v1.4.2 (2011-08), Electromagnetic compatibility and Radio spectrum Matters (ERM); Wireless microphones in the 25 MHz to 3 GHz frequency range; part 1: Technical characteristics and methods of measurement. Beyond one megahertz below and above the carrier frequency, emissions shall comply with the limits specified in section 8.4 of ETSI EN 300 422-1 v1.4.2 (2011-08).
+(ii) *Digital systems.* Emissions within the band from 2.5 × B below to 2.5 × B above the carrier frequency, where B is the channel bandwidth, shall comply with the emission mask in Figure 2 of section 4.2.4.2.2 of ETSI EN 300 422-1 V2.2.1 (2021-11) (incorporated by reference, see § 74.35).
 
-(iv) For the 944-952 MHz band, the requirements of this paragraph (d)(4) shall not apply to the applications for certification of equipment for that band until nine months after release of the Commission's Channel Reassignment Public Notice, as defined in section 73.3700(a)(2) of this chapter.
+(iii) *Wireless Multichannel Audio Systems.* Emissions within the band from 2.5 × B below to 2.5 × B above the carrier frequency, where B is the channel bandwidth, shall comply with the emission mask in Figure 3 of section 4.2.4.2.2 of ETSI EN 300 422-1 V2.2.1 (2021-11) (incorporated by reference, see § 74.35). A wireless multichannel audio system must have an operating bandwidth B not exceeding 20 megahertz and must have a mode of operation in which it is capable of transmitting at least three audio channels per megahertz.
+
+(iv) *Spurious emission limits.* Emissions outside of the emission masks specified in paragraphs (d)(4)(i) through (iii) of this section shall comply with the limits specified in section 4.2.4.1.2 of ETSI EN 300 422-1 V2.2.1 (2021-11) (incorporated by reference, see § 74.35).
 
 (e) For low power auxiliary stations operating in the 600 MHz duplex gap and the bands allocated for TV broadcasting, the following technical requirements apply:
 
@@ -30,9 +30,9 @@ Link to an amendment published at 89 FR 83800, Oct. 18, 2024.
 
 (i) 54-72, 76-88, and 174-216 MHz bands: 50 mW EIRP
 
-(ii) 470-608 and 614-698: 250 mW conducted power
+(ii) 470-608 MHz band: 250 mW conducted power
 
-(iii) 600 MHz duplex gap: 20 mW EIRP
+(iii) 653-657 MHz band: 20 mW EIRP
 
 (2) Transmitters may be either crystal controlled or frequency synthesized.
 
@@ -40,7 +40,7 @@ Link to an amendment published at 89 FR 83800, Oct. 18, 2024.
 
 (4) The frequency tolerance of the transmitter shall be 0.005 percent.
 
-(5) The operating bandwidth shall not exceed 200 kHz.
+(5) The operating bandwidth shall not exceed 200 kilohertz, except that a wireless multichannel audio system must have an operating bandwidth not exceeding 6 megahertz in the TV bands or 4 megahertz in the 653-657 MHz band and must have a mode of operation in which it is capable of transmitting at least three audio channels per megahertz. For wireless multichannel audio systems operating in the TV bands, the 6 megahertz (or less) channel must fall entirely within a single TV channel (2-36) that is available for Part 74 LPAS use under § 74.802(b). The provisions of § 74.802(c) regarding frequency of operation within TV channels do not apply to wireless multichannel audio systems.
 
 (6) The mean power of emissions shall be attenuated below the mean output power of the transmitter in accordance with the following schedule:
 
@@ -50,7 +50,13 @@ Link to an amendment published at 89 FR 83800, Oct. 18, 2024.
 
 (iii) On any frequency removed from the operating frequency by more than 250 percent of the authorized bandwidth: at least 43 + 10log10 (mean output power in watts) dB.
 
-(7) Analog emissions within the band from one megahertz below to one megahertz above the carrier frequency shall comply with the emission mask in section 8.3.1.2 of the European Telecommunications Institute Standard ETSI EN 300 422-1 v1.4.2 (2011-08), Electromagnetic compatibility and Radio spectrum Matters (ERM); Wireless microphones in the 25 MHz to 3 GHz frequency range; part 1: Technical characteristics and methods of measurement. Digital emissions within the band from one megahertz below to one megahertz above the carrier frequency shall comply with the emission mask in section 8.3.2.2 (Figure 4) of the European Telecommunications Institute Standard ETSI EN 300 422-1 v1.4.2 (2011-08), Electromagnetic compatibility and Radio spectrum Matters (ERM); Wireless microphones in the 25 MHz to 3 GHz frequency range; part 1: Technical characteristics and methods of measurement. Beyond one megahertz below and above the carrier frequency, emissions shall comply with the limits specified in section 8.4 of ETSI EN 300 422-1 v1.4.2 (2011-08). The requirements of this paragraph (e)(7) shall not apply to applications for certification of equipment in these bands until nine months after release of the Commission's Channel Reassignment Public Notice, as defined in § 73.3700(a)(2) of this chapter.
+(7)(i) *Analog systems.* Emissions within the band from 2.5 × B below to 2.5 × B above the carrier frequency, where B is the channel bandwidth, shall comply with the emission mask in Figure 1 of section 4.2.4.2.2 of ETSI EN 300 422-1 V2.2.1 (2021-11) (incorporated by reference, see § 74.35).
+
+(ii) *Digital systems.* Emissions within the band from 2.5 × B below to 2.5 × B above the carrier frequency, where B is the channel bandwidth, shall comply with the emission mask in Figure 2 of section 4.2.4.2.2 of ETSI EN 300 422-1 V2.2.1 (2021-11) (incorporated by reference, see § 74.35).
+
+(iii) *Wireless Multichannel Audio Systems.* Emissions within the band from 2.5 × B below to 2.5 × B above the carrier frequency, where B is the channel bandwidth, shall comply with the emission mask in Figure 3 of section 4.2.4.2.2 of ETSI EN 300 422-1 V2.2.1 (2021-11), (incorporated by reference, see § 74.35).
+
+(iv) *Spurious emission limits.* Emissions outside of the emission masks listed in paragraphs (e)(7)(i) through (e)(7)(iii) shall comply with the limits specified in section 4.2.4.1.2 of ETSI EN 300 422-1 V2.2.1 (2021-11) (incorporated by reference, see § 74.35).
 
 (f) Unusual transmitting antennas or antenna elevations shall not be used to deliberately extend the range of low power auxiliary stations beyond the limited areas defined in § 74.831.
 
@@ -58,14 +64,4 @@ Link to an amendment published at 89 FR 83800, Oct. 18, 2024.
 
 (h) In the event a station's emissions outside its authorized frequency band causes harmful interference, the Commission may, at its discretion, require the licensee to take such further steps as may be necessary to eliminate the interference.
 
-(i) *Incorporation by reference.* The material listed in this paragraph (i) is incorporated by reference in this section with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the FCC must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at the FCC and the National Archives and Records Administration (NARA). Contact the FCC through the Federal Communications Commission's Reference Information Center, phone: (202) 418-0270. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov.* The material may be obtained from the following source in this paragraph (i):
-
-(1) European Telecommunications Standards Institute, 650 Route des Lucioles, 06921 Sophia Antipolis Cedex, France. A copy of the standard is also available at *http://www.etsi.org/deliver/etsi\_en/300400\_300499/30042201/01.03.02\_60/en\_30042201v010302p.pdf*.
-
-(i) ETSI EN 300 422-1 V1.4.2 (2011-08): “*Electromagnetic compatibility and Radio spectrum Matters (ERM); Wireless microphones in the 25 MHz to 3 GHz frequency range; Part 1: Technical characteristics and methods of measurement,*” Copyright 2011, IBR approved for section 15.236(g).
-
-(ii) [Reserved]
-
-(2) [Reserved].
-
-[43 FR 13576, Mar. 31, 1978, as amended at 52 FR 2535, Jan. 23, 1987; 63 FR 36605, July 7, 1998; 75 FR 3639, Jan. 22, 2010; 80 FR 71730, Nov. 17, 2015; 80 FR 73085, Nov. 23, 2015; 82 FR 41561, Sept. 1, 2017; 85 FR 64409, Oct. 13, 2020; 88 FR 21448, Apr. 10, 2023]
+[43 FR 13576, Mar. 31, 1978, as amended at 52 FR 2535, Jan. 23, 1987; 63 FR 36605, July 7, 1998; 75 FR 3639, Jan. 22, 2010; 80 FR 71730, Nov. 17, 2015; 80 FR 73085, Nov. 23, 2015; 82 FR 41561, Sept. 1, 2017; 85 FR 64409, Oct. 13, 2020; 88 FR 21448, Apr. 10, 2023; 89 FR 83800, Oct. 18, 2024]

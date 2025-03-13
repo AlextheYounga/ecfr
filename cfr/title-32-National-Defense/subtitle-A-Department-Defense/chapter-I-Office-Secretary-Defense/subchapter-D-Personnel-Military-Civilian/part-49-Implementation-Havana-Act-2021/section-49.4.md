@@ -1,0 +1,3 @@
+##### § 49.4 Consultation with the Department of State. #####
+
+When a covered employee or covered dependent seeks payment for an incident that occurred overseas under Secretary of State security responsibility, the Department will coordinate with the Department of State as appropriate in evaluating whether the incident is an “other incident” for purposes of establishing a qualifying injury or should be so designated.

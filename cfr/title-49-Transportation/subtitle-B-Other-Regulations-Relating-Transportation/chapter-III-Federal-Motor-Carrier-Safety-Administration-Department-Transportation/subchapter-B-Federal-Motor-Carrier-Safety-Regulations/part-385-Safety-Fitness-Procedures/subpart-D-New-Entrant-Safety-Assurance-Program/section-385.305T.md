@@ -1,4 +1,4 @@
-##### § 385.305T What happens after the FMCSA receives a request for new entrant registration? #####
+##### § 385.305T Completing the registration process. #####
 
 (a) The requester for new entrant registration will be directed to the FMCSA Internet website (*www.fmcsa.dot.gov*) to secure and/or complete the application package online.
 

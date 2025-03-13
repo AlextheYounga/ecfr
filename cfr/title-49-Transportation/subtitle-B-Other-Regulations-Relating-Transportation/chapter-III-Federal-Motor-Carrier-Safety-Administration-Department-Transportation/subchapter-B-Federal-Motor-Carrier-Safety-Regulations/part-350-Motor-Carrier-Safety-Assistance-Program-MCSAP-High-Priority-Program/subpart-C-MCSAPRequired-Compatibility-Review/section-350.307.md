@@ -1,4 +1,4 @@
-##### § 350.307 How may a State obtain a new exemption for State laws or regulations for a specific industry involved in intrastate commerce? #####
+##### § 350.307 Compatibility review: Procedures for obtaining a new exemption. #####
 
 FMCSA will only consider a State's request to exempt a specific industry from all or part of a State's laws or regulations applicable to intrastate commerce if the State submits adequate documentation containing information allowing FMCSA to evaluate:
 

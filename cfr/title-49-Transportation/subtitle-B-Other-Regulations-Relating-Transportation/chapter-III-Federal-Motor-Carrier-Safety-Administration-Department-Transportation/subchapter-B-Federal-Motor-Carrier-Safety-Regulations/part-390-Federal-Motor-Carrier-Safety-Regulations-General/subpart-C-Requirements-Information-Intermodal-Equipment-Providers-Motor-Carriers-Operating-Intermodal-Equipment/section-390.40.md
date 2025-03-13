@@ -1,4 +1,4 @@
-##### § 390.40 What responsibilities do intermodal equipment providers have under the Federal Motor Carrier Safety Regulations (49 CFR parts 350-399)? #####
+##### § 390.40 Intermodal equipment providers. #####
 
 An intermodal equipment provider must—
 
@@ -22,4 +22,4 @@ An intermodal equipment provider must—
 
 (j) Refrain from placing intermodal equipment in service on the public highways if that equipment has been found to pose an imminent hazard, as defined in § 386.72(b)(3) of this chapter.
 
-[73 FR 76822, Dec. 17, 2008, as amended at 74 FR 68708, Dec. 29, 2009; 78 FR 58483, Sept. 24, 2013; 79 FR 59457, Oct. 2, 2014; 80 FR 63712, Oct. 21, 2015]Effective Date Note:At 82 FR 5318, Jan. 17, 2017, § 390.40 was suspended, effective Jan. 14, 2017.
+[73 FR 76822, Dec. 17, 2008, as amended at 74 FR 68708, Dec. 29, 2009; 78 FR 58483, Sept. 24, 2013; 79 FR 59457, Oct. 2, 2014; 80 FR 63712, Oct. 21, 2015]Effective Date Note:At 82 FR 5318, Jan. 17, 2017, § 390.40 was suspended, effective Jan. 14, 2017. At 89 FR 90622, Nov. 18, 2024, the suspension was lifted and the section heading was revised. In that same document, § 390.40 was again suspended indefinitely, effective Nov. 18, 2024.

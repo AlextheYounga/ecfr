@@ -1,6 +1,6 @@
-##### § 385.409T When may a temporary safety permit be issued to a motor carrier? #####
+##### § 385.409T Temporary safety permit. #####
 
-(a) *Temporary safety permit.* If a motor carrier does not meet the criteria in § 385.407(a), FMCSA may issue it a temporary safety permit. To obtain a temporary safety permit a motor carrier must certify on Form MCS-150B that it is operating in full compliance with the HMRs; with the FMCSRs, and/or comparable State regulations, whichever is applicable; and with the minimum financial responsibility requirements in part 387 of this chapter or in State regulations, whichever is applicable.
+(a) If a motor carrier does not meet the criteria in § 385.407(a), FMCSA may issue it a temporary safety permit. To obtain a temporary safety permit a motor carrier must certify on Form MCS-150B that it is operating in full compliance with the HMRs; with the FMCSRs, and/or comparable State regulations, whichever is applicable; and with the minimum financial responsibility requirements in part 387 of this chapter or in State regulations, whichever is applicable.
 
 (b) FMCSA will not issue a temporary safety permit to a motor carrier that:
 
@@ -18,4 +18,4 @@
 
 (d) If a motor carrier has not received a safety rating within the 180-day time period, FMCSA will extend the effective date of the temporary safety permit for an additional 60 days, provided the motor carrier demonstrates that it is continuing to operate in full compliance with the FMCSRs and HMRs.
 
-[82 FR 5305, Jan. 17, 2017]
+[82 FR 5305, Jan. 17, 2017, as amended at 89 FR 90621, Nov. 18, 2024]

@@ -30,13 +30,13 @@
 
 (2) The pilot in command finds, on reaching the authorized MDA or DA/DH, that the actual weather conditions are at or above the minimums prescribed for the procedure being used.
 
-(e) The MDA or DA/DH and visibility landing minimums prescribed in part 97 of this chapter or in the operator's operations specifications are increased by 100 feet and 1/2 mile respectively, but not to exceed the ceiling and visibility minimums for that airport when used as an alternate airport, for each pilot in command of a turbine-powered airplane who has not served at least 100 hours as pilot in command in that type of airplane.
+(e) The MDA or DA/DH and visibility landing minimums prescribed in part 97 of this chapter or in the operator's operations specifications are increased by 100 feet and1/2 mile respectively, but not to exceed the ceiling and visibility minimums for that airport when used as an alternate airport, for each pilot in command of a turbine-powered airplane who has not served at least 100 hours as pilot in command in that type of airplane.
 
 (f) Each pilot making an IFR takeoff or approach and landing at a military or foreign airport shall comply with applicable instrument approach procedures and weather minimums prescribed by the authority having jurisdiction over that airport. In addition, unless authorized by the certificate holder's operations specifications, no pilot may, at that airport—
 
 (1) Take off under IFR when the visibility is less than 1 mile; or
 
-(2) Make an instrument approach when the visibility is less than 1/2 mile.
+(2) Make an instrument approach when the visibility is less than1/2 mile.
 
 (g) If takeoff minimums are specified in part 97 of this chapter for the take- off airport, no pilot may take off an aircraft under IFR when the weather conditions reported by the facility described in paragraph (a)(1) of this section are less than the takeoff minimums specified for the takeoff airport in part 97 or in the certificate holder's operations specifications.
 

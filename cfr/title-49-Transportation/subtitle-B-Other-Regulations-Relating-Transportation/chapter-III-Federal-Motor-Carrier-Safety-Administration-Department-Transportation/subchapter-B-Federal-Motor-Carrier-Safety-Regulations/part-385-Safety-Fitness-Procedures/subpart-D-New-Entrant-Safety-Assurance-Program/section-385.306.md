@@ -1,4 +1,4 @@
-##### § 385.306 What are the consequences of furnishing misleading information or making a false statement in connection with the registration process? #####
+##### § 385.306 Consequences of furnishing misleading information or making a false statement. #####
 
 A carrier that furnishes false or misleading information, or conceals material information in connection with the registration process, is subject to the following actions:
 

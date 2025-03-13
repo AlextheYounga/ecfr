@@ -1,5 +1,7 @@
 ##### § 240.17ad-22 Standards for clearing agencies. #####
 
+Link to an amendment published at 89 FR 91058, Nov. 18, 2024.
+
 (a) *Definitions.* For purposes of this section:
 
 *Affiliated counterparty* means any counterparty which meets the following criteria:

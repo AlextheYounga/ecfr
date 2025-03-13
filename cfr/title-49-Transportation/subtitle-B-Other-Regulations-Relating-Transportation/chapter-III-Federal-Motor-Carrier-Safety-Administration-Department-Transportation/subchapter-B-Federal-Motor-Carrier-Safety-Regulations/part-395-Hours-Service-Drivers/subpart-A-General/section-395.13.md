@@ -4,7 +4,7 @@
 
 (b) *Out of service criteria.* (1) No driver shall drive after being on duty in excess of the maximum periods permitted by this part.
 
-(2) No driver required to maintain a record of duty status under § 395.8 or § 395.15 of this part shall fail to have a record of duty status current on the day of examination and for the prior seven consecutive days.
+(2) No driver required to maintain a record of duty status under § 395.8 shall fail to have a record of duty status current on the day of examination and for the prior seven consecutive days.
 
 (3) *Exception.* A driver failing only to have possession of a record of duty status current on the day of examination and the prior day, but has completed records of duty status up to that time (previous 6 days), will be given the opportunity to make the duty status record current.
 
@@ -24,4 +24,4 @@
 
 (4) Section 395.13 does not alter the hazardous materials requirements prescribed in § 397.5 pertaining to attendance and surveillance of commercial motor vehicles.
 
-[44 FR 34963, June 18, 1979, as amended at 47 FR 53392, Nov. 26, 1982; 51 FR 12622, Apr. 14, 1986; 53 FR 18058, May 19, 1988; 53 FR 38670, Sept. 30, 1988; 53 FR 47544, Nov. 23, 1988; 60 FR 38748, July 28, 1995; 66 FR 49874, Oct. 1, 2001; 68 FR 22516, Apr. 28, 2003; 70 FR 50073, Aug. 25, 2005; 75 FR 17245, Apr. 5, 2010; 77 FR 28451, May 14, 2012; 83 FR 22878, May 17, 2018; 86 FR 57076, Oct. 14, 2021; 88 FR 80192, Nov. 17, 2023]
+[44 FR 34963, June 18, 1979, as amended at 47 FR 53392, Nov. 26, 1982; 51 FR 12622, Apr. 14, 1986; 53 FR 18058, May 19, 1988; 53 FR 38670, Sept. 30, 1988; 53 FR 47544, Nov. 23, 1988; 60 FR 38748, July 28, 1995; 66 FR 49874, Oct. 1, 2001; 68 FR 22516, Apr. 28, 2003; 70 FR 50073, Aug. 25, 2005; 75 FR 17245, Apr. 5, 2010; 77 FR 28451, May 14, 2012; 83 FR 22878, May 17, 2018; 86 FR 57076, Oct. 14, 2021; 88 FR 80192, Nov. 17, 2023; 89 FR 90624, Nov. 18, 2024]

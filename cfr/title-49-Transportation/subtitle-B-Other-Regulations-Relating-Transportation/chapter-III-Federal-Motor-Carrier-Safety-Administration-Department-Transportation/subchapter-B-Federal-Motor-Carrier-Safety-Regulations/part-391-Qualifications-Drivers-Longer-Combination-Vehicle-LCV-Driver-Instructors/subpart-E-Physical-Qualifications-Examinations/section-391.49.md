@@ -80,7 +80,7 @@
 
 (A) An assessment of the functional capabilities of the driver as they relate to the ability of the driver to perform normal tasks associated with operating a commercial motor vehicle; and
 
-(B) A statement by the examiner that the applicant is capable of demonstrating precision prehension (*e.g.,* manipulating knobs and switches) and power grasp prehension (*e.g.,* holding and maneuvering the steering wheel) with each upper limb separately. This requirement does not apply to an individual who was granted a waiver, absent a prosthetic device, prior to the publication of this amendment.
+(B) A statement by the examiner that the applicant is capable of demonstrating precision prehension (*e.g.,* grasping and manipulating knobs and switches using the fingers/thumb) and power grasp prehension (*e.g.,* grasping, holding, and maneuvering the steering wheel using a hand) with each hand separately. Prior to applying for an SPE certificate, an applicant with loss of a hand or arm must be fitted and proficient with a proper prosthesis that enables the applicant to demonstrate precision prehension and power grasp prehension with each hand separately. This requirement does not apply to an individual who was granted a waiver, absent a prosthetic device, prior to January 6, 1986, the effective date of the requirement.
 
 (ii) The medical evaluation summary for a driver applicant disqualified under § 391.41(b)(2) shall include:
 
@@ -88,7 +88,7 @@
 
 (B) An assessment and medical opinion of whether the condition will likely remain medically stable over the lifetime of the driver applicant; and
 
-(C) A statement by the examiner that the applicant is capable of demonstrating precision prehension (*e.g.,* manipulating knobs and switches) and power grasp prehension (*e.g.,* holding and maneuvering the steering wheel) with each upper limb separately. This requirement does not apply to an individual who was granted an SPE certificate, absent an orthotic device, prior to the publication of this amendment.
+(C) A statement by the examiner that the applicant is capable of demonstrating precision prehension (*e.g.,* grasping and manipulating knobs and switches using the fingers/thumb) and power grasp prehension (*e.g.,* grasping, holding, and maneuvering the steering wheel using a hand) with each hand separately. Prior to applying for an SPE certificate, an applicant with upper limb impairment must be fitted and proficient with a proper prosthesis or orthotic device, if the applicant is not capable of demonstrating precision prehension and power grasp prehension with each hand separately without a prosthesis or orthotic device. This requirement does not apply to an individual who was granted a waiver, absent an orthotic device, prior to January 6, 1986, the effective date of the requirement.
 
 (4) A description of the driver applicant's prosthetic or orthotic device worn, if any;
 
@@ -180,4 +180,4 @@ Please read the *NOTICE* paragraph above.Name:Signature:Title:Date:
 
 (l) Falsifying information in the letter of application, the renewal application, or falsifying information required by this section by either the applicant or motor carrier is prohibited.
 
-[65 FR 25287, May 1, 2000, as amended at 65 FR 59380, Oct. 5, 2000; 67 FR 61824, Oct. 2, 2002; 78 FR 58483, Sept. 24, 2013; 86 FR 57075, Oct. 14, 2021]
+[65 FR 25287, May 1, 2000, as amended at 65 FR 59380, Oct. 5, 2000; 67 FR 61824, Oct. 2, 2002; 78 FR 58483, Sept. 24, 2013; 86 FR 57075, Oct. 14, 2021; 89 FR 90623, Nov. 18, 2024]

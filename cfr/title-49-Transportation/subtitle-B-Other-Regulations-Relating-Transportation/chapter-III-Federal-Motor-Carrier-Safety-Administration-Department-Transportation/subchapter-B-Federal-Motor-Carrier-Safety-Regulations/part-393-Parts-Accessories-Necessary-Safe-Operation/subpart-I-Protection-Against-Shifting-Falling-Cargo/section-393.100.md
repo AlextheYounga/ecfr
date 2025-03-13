@@ -1,4 +1,4 @@
-##### § 393.100 Which types of commercial motor vehicles are subject to the cargo securement standards of this subpart, and what general requirements apply? #####
+##### § 393.100 Applicability and general requirements of cargo securement standards. #####
 
 (a) *Applicability.* The rules in this subpart are applicable to trucks, truck tractors, semitrailers, full trailers, and pole trailers.
 

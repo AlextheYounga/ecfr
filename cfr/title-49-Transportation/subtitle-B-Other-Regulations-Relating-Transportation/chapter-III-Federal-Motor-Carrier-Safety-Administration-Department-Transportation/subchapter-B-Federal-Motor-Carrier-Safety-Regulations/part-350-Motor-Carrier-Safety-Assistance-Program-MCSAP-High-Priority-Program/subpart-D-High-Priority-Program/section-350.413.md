@@ -1,4 +1,4 @@
-##### § 350.413 What are the Federal and recipient shares of costs incurred under the High Priority Program? #####
+##### § 350.413 High Priority Program: Federal and recipient shares of costs. #####
 
 (a) *Federal share.* FMCSA will reimburse at least 85 percent of the eligible costs incurred under the High Priority Program.
 

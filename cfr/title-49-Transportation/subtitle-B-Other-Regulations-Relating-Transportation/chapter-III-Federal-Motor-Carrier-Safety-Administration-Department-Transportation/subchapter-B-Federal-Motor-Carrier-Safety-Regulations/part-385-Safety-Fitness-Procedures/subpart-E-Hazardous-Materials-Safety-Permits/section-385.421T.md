@@ -1,4 +1,4 @@
-##### § 385.421T Under what circumstances will a safety permit be subject to revocation or suspension by FMCSA? #####
+##### § 385.421T Revocation or suspension of safety permit. #####
 
 (a) *Grounds.* A safety permit will be subject to revocation or suspension by FMCSA for the following reasons:
 

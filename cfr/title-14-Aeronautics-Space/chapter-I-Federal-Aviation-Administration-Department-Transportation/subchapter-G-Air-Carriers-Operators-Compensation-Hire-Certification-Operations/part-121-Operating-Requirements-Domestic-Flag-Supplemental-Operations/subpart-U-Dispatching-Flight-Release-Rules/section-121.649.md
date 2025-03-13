@@ -6,7 +6,7 @@
 
 (2) For night operations—1,000-foot ceiling and two-mile visibility.
 
-(b) Where a local surface restriction to visibility exists (e.g., smoke, dust, blowing snow or sand) the visibility for day and night operations may be reduced to 1/2 mile, if all turns after takeoff and prior to landing, and all flight beyond one mile from the airport boundary can be accomplished above or outside the area of local surface visibility restriction.
+(b) Where a local surface restriction to visibility exists (e.g., smoke, dust, blowing snow or sand) the visibility for day and night operations may be reduced to1/2 mile, if all turns after takeoff and prior to landing, and all flight beyond one mile from the airport boundary can be accomplished above or outside the area of local surface visibility restriction.
 
 (c) The weather minimums in this section do not apply to the VFR operation of fixed-wing aircraft at any of the locations where the special weather minimums of § 91.157 of this chapter are not applicable (See part 91, appendix D, section 3 of this chapter). The basic VFR weather minimums of § 91.155 of this chapter apply at those locations.
 

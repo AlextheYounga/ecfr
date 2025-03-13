@@ -1,4 +1,4 @@
-##### § 385.319 What happens after completion of the safety audit? #####
+##### § 385.319 Safety audit: Completion. #####
 
 (a) Upon completion of the safety audit, the auditor will review the findings with the new entrant.
 

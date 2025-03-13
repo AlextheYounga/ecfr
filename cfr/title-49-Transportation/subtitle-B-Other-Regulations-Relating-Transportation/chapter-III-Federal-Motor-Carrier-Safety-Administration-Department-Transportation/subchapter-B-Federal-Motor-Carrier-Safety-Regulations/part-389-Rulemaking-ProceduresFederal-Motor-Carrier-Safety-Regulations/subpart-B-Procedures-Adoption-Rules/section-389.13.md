@@ -16,6 +16,6 @@
 
 (2) Proceed with a negotiated rulemaking.
 
-(c) Paragraph (b) of this section does not apply to a proposed rule if the Administrator, for good cause, finds (and incorporates the finding and a brief statement of reasons for such finding in the proposed or final rule) that an advance notice of proposed rulemaking is impracticable, unnecessary, or contrary to the public interest. A proposed rule subject to paragraph (b) of this section should also be evaluated to determine the applicability of 49 CFR 5.17.
+(c) Paragraph (b) of this section does not apply to a proposed rule if the Administrator, for good cause, finds (and incorporates the finding and a brief statement of reasons for such finding in the proposed or final rule) that an advance notice of proposed rulemaking is impracticable, unnecessary, or contrary to the public interest.
 
-[85 FR 86848, Dec. 31, 2020, as amended at 86 FR 17296, Apr. 2, 2021]
+[85 FR 86848, Dec. 31, 2020, as amended at 86 FR 17296, Apr. 2, 2021; 89 FR 90622, Nov. 18, 2024]

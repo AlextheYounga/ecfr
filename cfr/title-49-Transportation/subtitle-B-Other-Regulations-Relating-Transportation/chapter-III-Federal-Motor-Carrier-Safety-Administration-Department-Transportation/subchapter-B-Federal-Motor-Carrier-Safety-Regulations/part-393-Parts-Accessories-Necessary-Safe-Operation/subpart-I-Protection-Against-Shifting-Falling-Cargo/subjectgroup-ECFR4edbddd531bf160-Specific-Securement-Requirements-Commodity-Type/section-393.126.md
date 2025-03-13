@@ -1,4 +1,4 @@
-##### § 393.126 What are the rules for securing intermodal containers? #####
+##### § 393.126 Specific securement requirements for intermodal containers. #####
 
 (a) *Applicability.* The rules in this section apply to the transportation of intermodal containers. Cargo contained within an intermodal container must be secured in accordance with the provisions of §§ 393.100 through 393.114 or, if applicable, the commodity specific rules of this part.
 

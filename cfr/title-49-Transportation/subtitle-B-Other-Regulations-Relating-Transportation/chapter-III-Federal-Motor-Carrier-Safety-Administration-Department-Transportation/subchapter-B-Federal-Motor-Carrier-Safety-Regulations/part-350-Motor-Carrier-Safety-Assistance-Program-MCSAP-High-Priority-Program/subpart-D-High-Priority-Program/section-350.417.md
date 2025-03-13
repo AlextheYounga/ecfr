@@ -1,4 +1,4 @@
-##### § 350.417 What specific costs are eligible for reimbursement under the High Priority Program? #####
+##### § 350.417 High Priority Program: Costs eligible for reimbursement. #####
 
 (a) *Costs eligible for reimbursement.* All costs relating to activities eligible for reimbursement must be necessary, reasonable, allocable, and allowable under this subpart and 2 CFR parts 200 and 1201. The eligibility of specific costs for reimbursement is addressed in the NOFO and is subject to review and approval by FMCSA.
 

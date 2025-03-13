@@ -28,4 +28,4 @@ In addition:
 
 (2) The limit torque must be equally and rationally distributed to the rotor blades.
 
-(Secs. 604, 605, 72 Stat. 778, 49 U.S.C. 1424, 1425) [Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-4, 33 FR 14106, Sept. 18, 1968; Amdt. 29-40, 61 FR 21907, May 10, 1996]
+(Secs. 604, 605, 72 Stat. 778, 49 U.S.C. 1424, 1425)[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-4, 33 FR 14106, Sept. 18, 1968; Amdt. 29-40, 61 FR 21907, May 10, 1996]

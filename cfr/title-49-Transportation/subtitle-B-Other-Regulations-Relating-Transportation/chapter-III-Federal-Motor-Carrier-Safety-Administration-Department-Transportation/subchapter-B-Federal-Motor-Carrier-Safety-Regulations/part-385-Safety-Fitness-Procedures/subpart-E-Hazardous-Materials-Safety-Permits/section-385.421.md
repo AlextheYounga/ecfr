@@ -1,4 +1,4 @@
-##### § 385.421 Under what circumstances will a safety permit be subject to revocation or suspension by FMCSA? #####
+##### § 385.421 Revocation or suspension of safety permit. #####
 
 (a) *Grounds.* A safety permit will be subject to revocation or suspension by FMCSA for the following reasons:
 
@@ -34,4 +34,4 @@
 
 (4) A motor carrier whose safety permit has been revoked will not be issued a replacement safety permit or temporary safety permit for 365 days from the time of revocation.
 
-[69 FR 39367, June 30, 2004, as amended at 78 FR 58481, Sept. 24, 2013; 80 FR 63708, Oct. 21, 2015]Effective Date Note:At 82 FR 5305, Jan. 17, 2017, § 385.421 was suspended, effective Jan. 14, 2017.
+[69 FR 39367, June 30, 2004, as amended at 78 FR 58481, Sept. 24, 2013; 80 FR 63708, Oct. 21, 2015]Effective Date Note:At 82 FR 5305, Jan. 17, 2017, § 385.421 was suspended, effective Jan. 14, 2017. At 89 FR 90621, Nov. 18, 2024, the suspension was lifted and the section heading was amended. In that same document, § 385.421 was again suspended indefinitely, effective Nov. 18, 2024.

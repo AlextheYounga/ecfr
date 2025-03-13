@@ -36,4 +36,4 @@
 
 (2) *Aviation white*—
 
-*x* is not less than 0.300 and not greater than 0.540; *y* is not less than *x*−0.040 or *y*o−0.010, whichever is the smaller; and *y* is not greater than *x* + 0.020 nor 0.636−0.0400 *x*; Where *y*o is the *y* coordinate of the Planckian radiator for the value of *x* considered.[Doc. No. 1437, 29 FR 8258, July 1, 1964, as amended by Amdt. 31-1, 29 FR 14563, Oct. 24, 1964; Amdt. 31-4, 45 FR 60179, Sept. 11, 1980]
+*x* is not less than 0.300 and not greater than 0.540;*y* is not less than *x*−0.040 or *y*o−0.010, whichever is the smaller; and*y* is not greater than *x* + 0.020 nor 0.636−0.0400 *x*;Where *y*o is the *y* coordinate of the Planckian radiator for the value of *x* considered.[Doc. No. 1437, 29 FR 8258, July 1, 1964, as amended by Amdt. 31-1, 29 FR 14563, Oct. 24, 1964; Amdt. 31-4, 45 FR 60179, Sept. 11, 1980]

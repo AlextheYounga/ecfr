@@ -8,11 +8,7 @@
 
 (i) If the Tribe's median income is below a certain level established by the Secretary, then, at the Tribe's option, any Indian child in the Tribe's service area shall be considered eligible to receive CCDF funds, regardless of the family's income, work, or training status, provided that provision for services still goes to those with the highest need.
 
-(ii) If the Tribe's median income is above the level established by the Secretary, then a tribal program must determine eligibility for services pursuant to § 98.20(a)(2). A tribal program, as specified in its Plan, may use either:
-
-(A) 85 percent of the State median income for a family of the same size; or
-
-(B) 85 percent of the median income for a family of the same size residing in the area served by the Tribal Lead Agency.
+(ii) The basis for determining family eligibility may be determined by the Tribe notwithstanding family income or assets as described in § 98.20(a)(2).
 
 (2) For purposes of determining eligibility, the following terms shall also be defined:
 
@@ -76,4 +72,4 @@
 
 (c) Tribal Lead Agencies with small allocations shall submit an abbreviated CCDF Plan, as described by the Secretary.
 
-[63 FR 39981, July 24, 1998, as amended at 81 FR 67593, Sept. 30, 2016; 89 FR 15416, Mar. 1, 2024]
+[63 FR 39981, July 24, 1998, as amended at 81 FR 67593, Sept. 30, 2016; 89 FR 15416, Mar. 1, 2024; 89 FR 90608, Nov. 18, 2024]

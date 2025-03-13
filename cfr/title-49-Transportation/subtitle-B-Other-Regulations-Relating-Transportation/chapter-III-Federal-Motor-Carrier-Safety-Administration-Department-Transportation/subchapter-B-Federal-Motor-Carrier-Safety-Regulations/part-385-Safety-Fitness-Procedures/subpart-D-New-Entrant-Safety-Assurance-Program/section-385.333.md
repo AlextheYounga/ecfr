@@ -1,4 +1,4 @@
-##### § 385.333 What happens at the end of the 18-month safety monitoring period? #####
+##### § 385.333 Conclusion of 18-month safety monitoring period. #####
 
 (a) If a safety audit has been performed within the 18-month period, and the new entrant is not currently subject to an order placing its operations out-of-service under § 385.325(b) or under a notice ordering it to take specified actions to remedy its safety management controls under § 385.319(c), the FMCSA will remove the new entrant designation and notify the new entrant in writing that its registration has become permanent. Thereafter, the FMCSA will evaluate the motor carrier on the same basis as any other carrier.
 

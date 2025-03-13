@@ -1,4 +1,4 @@
-##### § 391.62 Limited exemptions for intra-city zone drivers. #####
+##### § 391.62 Limited exemptions for intracity zone drivers. #####
 
 The provisions of §§ 391.11(b)(1) and 391.41(b)(1) through (b)(11) do not apply to a person who:
 

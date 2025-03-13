@@ -1,6 +1,6 @@
 ##### § 382.107 Definitions. #####
 
-Words or phrases used in this part are defined in §§ 386.2 and 390.5 of this subchapter, and § 40.3 of this title, except as provided in this section—
+Words or phrases used in this part are defined in §§ 386.2 and 390.5T of this subchapter, and § 40.3 of this title, except as provided in this section—
 
 *Actual knowledge* for the purpose of subpart B of this part, means actual knowledge by an employer that a driver has used alcohol or controlled substances based on the employer's direct observation of the employee, information provided by the driver's previous employer(s), a traffic citation for driving a CMV while under the influence of alcohol or controlled substances or an employee's admission of alcohol or controlled substance use, except as provided in § 382.121. Direct observation as used in this definition means observation of alcohol or controlled substances use and does not include observation of employee behavior or physical characteristics sufficient to warrant reasonable suspicion testing under § 382.307. As used in this section, “traffic citation” means a ticket, complaint, or other document charging driving a CMV while under the influence of alcohol or controlled substances.
 
@@ -18,7 +18,7 @@ Words or phrases used in this part are defined in §§ 386.2 and 390.5 of this s
 
 *Commercial Driver's License Drug and Alcohol Clearinghouse (Clearinghouse)* means the FMCSA database that subpart G of this part requires employers and service agents to report information to and to query regarding drivers who are subject to the DOT controlled substance and alcohol testing regulations.
 
-*Commercial motor vehicle* means a motor vehicle or combination of motor vehicles used in commerce to transport passengers or property if the vehicle
+*Commercial motor vehicle (CMV)* means a motor vehicle or combination of motor vehicles used in commerce to transport passengers or property if the vehicle
 
 (1) Has a gross combination weight rating or gross combination weight of 11,794 kilograms or more (26,001 pounds or more), whichever is greater, inclusive of a towed unit(s) with a gross vehicle weight rating or gross vehicle weight of more than 4,536 kilograms (10,000 pounds), whichever is greater; or
 
@@ -110,4 +110,4 @@ Words or phrases used in this part are defined in §§ 386.2 and 390.5 of this s
 
 *Violation rate for random alcohol testing* means the number of 0.04 and above random alcohol confirmation test results conducted under this part plus the number of refusals of random alcohol tests required by this part, divided by the total number of random alcohol screening tests (including refusals) conducted under this part.
 
-[66 FR 43103, Aug. 17, 2001, as amended at 68 FR 75458, Dec. 31, 2003; 77 FR 59825, Oct. 1, 2012; 81 FR 87724, Dec. 5, 2016; 83 FR 48726, Sept. 27, 2018; 84 FR 51432, Sept. 30, 2019; 86 FR 57069, Oct. 14, 2021; 88 FR 27653, May 2, 2023; 88 FR 80180, Nov. 17, 2023]
+[66 FR 43103, Aug. 17, 2001, as amended at 68 FR 75458, Dec. 31, 2003; 77 FR 59825, Oct. 1, 2012; 81 FR 87724, Dec. 5, 2016; 83 FR 48726, Sept. 27, 2018; 84 FR 51432, Sept. 30, 2019; 86 FR 57069, Oct. 14, 2021; 88 FR 27653, May 2, 2023; 88 FR 80180, Nov. 17, 2023; 89 FR 90619, Nov. 18, 2024]

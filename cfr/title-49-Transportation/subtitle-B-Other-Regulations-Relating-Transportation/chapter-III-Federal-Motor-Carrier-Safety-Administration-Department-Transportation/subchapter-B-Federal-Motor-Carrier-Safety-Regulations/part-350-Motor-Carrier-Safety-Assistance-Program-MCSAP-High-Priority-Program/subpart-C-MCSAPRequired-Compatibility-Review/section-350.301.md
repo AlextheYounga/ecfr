@@ -1,4 +1,4 @@
-##### § 350.301 What is the purpose of this subpart? #####
+##### § 350.301 Compatibility review: Purpose. #####
 
 The purpose of this subpart is to assist States receiving MCSAP funds to address compatibility (as defined in § 350.105), including the availability of variances or exemptions allowed under § 350.305 or § 350.307, to:
 

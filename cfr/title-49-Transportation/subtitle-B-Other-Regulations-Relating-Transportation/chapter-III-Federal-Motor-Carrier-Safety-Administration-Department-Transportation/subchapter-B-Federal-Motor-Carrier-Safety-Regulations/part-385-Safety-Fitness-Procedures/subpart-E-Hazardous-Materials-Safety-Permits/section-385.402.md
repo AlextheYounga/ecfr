@@ -1,4 +1,4 @@
-##### § 385.402 What definitions are used in this subpart? #####
+##### § 385.402 Hazardous materials safety permits: Definitions. #####
 
 (a) The definitions in parts 390 and 385 of this chapter apply to this subpart, except where otherwise specifically noted.
 

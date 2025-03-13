@@ -12,6 +12,6 @@
 
 (3) A carrier electing to adopt an accounting year of 13 4-week periods shall file with the FMCSA a statement showing the day on which its accounting year will close. A subsequent change in the accounting period may not be made except by authority of the FMCSA.
 
-(c) The annual report shall be filed on or before March 31 of the year following the year to which it relates. The annual report shall be filed with the Federal Motor Carrier Safety Administration at the address in § 369.6. Copies of Form MP-1 may be obtained from the FMCSA.
+(c) *Where to file report.* The annual report shall be filed on or before March 31 of the year following the year to which it relates. The annual report shall be filed with the Federal Motor Carrier Safety Administration at the address in § 369.6. Blank copies of the report form are available at the Federal Motor Carrier Safety Administration website *https://www.fmcsa.dot.gov/registration/form-mp-1-annual-report-form-and-worksheet-class-i-motor-carriers-passengers.*
 
-[78 FR 76245, Dec. 17, 2013]
+[78 FR 76245, Dec. 17, 2013, as amended at 89 FR 90618, Nov. 18, 2024]

@@ -26,7 +26,7 @@
 
 (12) Brief account of any arrangement by which applicant will have available financial sources and facilities of other companies or individuals;
 
-(13) The charter operator's surety bond and, where applicable, a copy of the depository, escrow or trust agreement with a bank as provided in § 372.24. 2
+(13) The charter operator's surety bond and, where applicable, a copy of the depository, escrow or trust agreement with a bank as provided in § 372.24.2
 
 2 The surety bond and, where applicable, a copy of the depository escrow, or trust agreement with the bank should not be filed with the Department until the applicant is notified by the Department to do so.
 

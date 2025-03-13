@@ -1,3 +1,3 @@
-##### § 350.415 What types of activities and projects are eligible for reimbursement under the High Priority Program? #####
+##### § 350.415 High Priority Program: Activities and projects eligible for reimbursement. #####
 
 Activities that fulfill the objectives in § 350.403 are eligible for reimbursement under the High Priority Program.

@@ -104,7 +104,7 @@ As used in this part, the following words and terms are construed to mean:
 
 *License plate lamp.* A lamp used to illuminate the license plate on the rear of a motor vehicle.
 
-*Longwood.* All logs that are not shortwood, i.e., are over 4.9 m (16 feet) long. Such logs are usually described as long logs or treelength.
+*Longwood.* All logs, including utility poles, that are not shortwood, *i.e.,* are over 4.9 m (16 feet) long. Such logs are usually described as long logs or treelength.
 
 *Low chassis vehicle.* (1) A trailer or semitrailer manufactured on or after January 26, 1998, having a chassis which extends behind the rearmost point of the rearmost tires and which has a lower rear surface that meets the guard width, height, and rear surface requirements of § 571.224 in effect on the date of manufacture, or a subsequent edition.
 
@@ -202,4 +202,4 @@ As used in this part, the following words and terms are construed to mean:
 
 *Working load limit (WLL).* The maximum load that may be applied to a component of a cargo securement system during normal service, usually assigned by the manufacturer of the component.
 
-[53 FR 49384, Dec. 7, 1988, as amended at 63 FR 8339, Feb. 18, 1998; 63 FR 24465, May 4, 1998; 64 FR 47707, Sept. 1, 1999; 67 FR 61224, Sept. 27, 2002; 68 FR 56208, Sept. 30, 2003; 70 FR 48026, Aug. 15, 2005; 71 FR 35832, June 22, 2006; 72 FR 9870, Mar. 6, 2007; 81 FR 47731, July 22, 2016; 81 FR 65574, Sept. 23, 2016; 86 FR 62111, Nov. 9, 2021; 87 FR 12604, Mar. 7, 2022]
+[53 FR 49384, Dec. 7, 1988, as amended at 63 FR 8339, Feb. 18, 1998; 63 FR 24465, May 4, 1998; 64 FR 47707, Sept. 1, 1999; 67 FR 61224, Sept. 27, 2002; 68 FR 56208, Sept. 30, 2003; 70 FR 48026, Aug. 15, 2005; 71 FR 35832, June 22, 2006; 72 FR 9870, Mar. 6, 2007; 81 FR 47731, July 22, 2016; 81 FR 65574, Sept. 23, 2016; 86 FR 62111, Nov. 9, 2021; 87 FR 12604, Mar. 7, 2022; 89 FR 90623, Nov. 18, 2024]

@@ -1,4 +1,4 @@
-##### § 385.203 What are the requirements to obtain and maintain certification to perform a safety audit or investigation, including review? #####
+##### § 385.203 Certification requirements for performing a safety audit or investigation. #####
 
 (a) On and after August 27, 2021, an individual who is not qualified under § 385.201(a) may not perform a safety audit or investigation, including review, unless the individual has been certified by FMCSA or a State or local agency applying the FMCSA standards after successfully completing classroom training and examinations on the FMCSRs and HMRs as described in detail on the FMCSA website (*www.fmcsa.dot.gov/certification*). These individuals must also comply with the maintenance of certification/qualification requirements of paragraph (b) of this section.
 

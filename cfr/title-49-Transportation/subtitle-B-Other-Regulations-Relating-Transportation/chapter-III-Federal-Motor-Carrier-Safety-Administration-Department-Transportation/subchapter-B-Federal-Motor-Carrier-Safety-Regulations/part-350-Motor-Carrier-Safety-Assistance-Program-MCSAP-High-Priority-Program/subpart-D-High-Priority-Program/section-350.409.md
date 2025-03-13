@@ -1,4 +1,4 @@
-##### § 350.409 What response will an applicant receive under the High Priority Program? #####
+##### § 350.409 High Priority Program: Responses to applications. #####
 
 (a) *Approval.* If FMCSA awards a grant or cooperative agreement, the applicant will receive a grant agreement to execute.
 

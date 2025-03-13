@@ -24,7 +24,7 @@ Transactions incident to the organization of professional meetings or conference
 
 Note 3 to paragraph (a):
 
-Each person relying on the general authorization in this paragraph must retain specific records related to the authorized travel transactions. See §§ 501.601 and 501.602 of this chapter for applicable recordkeeping and reporting requirements.
+ Each person relying on the general authorization in this paragraph must retain specific records related to the authorized travel transactions. See §§ 501.601 and 501.602 of this chapter for applicable recordkeeping and reporting requirements.
 
 (b) An entire group does not qualify for the general license in paragraph (a) of this section of this section merely because some members of the group qualify individually.
 

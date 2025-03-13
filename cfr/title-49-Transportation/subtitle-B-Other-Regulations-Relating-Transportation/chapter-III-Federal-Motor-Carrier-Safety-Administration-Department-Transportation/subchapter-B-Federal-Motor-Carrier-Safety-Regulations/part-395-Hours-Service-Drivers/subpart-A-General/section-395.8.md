@@ -1,12 +1,10 @@
 ##### § 395.8 Driver's record of duty status. #####
 
-(a)(1) Except for a private motor carrier of passengers (nonbusiness), as defined in § 390.5 of this subchapter, a motor carrier subject to the requirements of this part must require each driver used by the motor carrier to record the driver's duty status for each 24-hour period using the method prescribed in paragraphs (a)(1)(i) through (iv) of this section, as applicable.
+(a)(1) Except for a private motor carrier of passengers (nonbusiness), as defined in § 390.5 of this subchapter, a motor carrier subject to the requirements of this part must require each driver used by the motor carrier to record the driver's duty status for each 24-hour period using the method prescribed in paragraphs (a)(1)(i) through (iii) of this section, as applicable.
 
-(i) Subject to paragraphs (a)(1)(ii) and (iii) of this section, a motor carrier operating commercial motor vehicles must install and require each of its drivers to use an ELD to record the driver's duty status in accordance with subpart B of this part no later than December 18, 2017.
+(i) Subject to paragraph (a)(1)(ii) of this section, a motor carrier operating commercial motor vehicles must install and require each of its drivers to use an ELD to record the driver's duty status in accordance with subpart B of this part no later than December 18, 2017.
 
-(ii) A motor carrier that installs and requires a driver to use an automatic on-board recording device in accordance with § 395.15 before December 18, 2017 may continue to use the compliant automatic on-board recording device no later than December 16, 2019.
-
-(iii)(A) A motor carrier may require a driver to record the driver's duty status manually in accordance with this section, rather than require the use of an ELD, if the driver is operating a commercial motor vehicle:
+(ii)(A) A motor carrier may require a driver to record the driver's duty status manually in accordance with this section, rather than require the use of an ELD, if the driver is operating a commercial motor vehicle:
 
 (*1*) In a manner requiring completion of a record of duty status on not more than 8 days within any 30-day period;
 
@@ -18,13 +16,11 @@
 
 (B) The record of duty status must be recorded in duplicate for each 24-hour period for which recording is required. The duty status shall be recorded on a specified grid, as shown in paragraph (g) of this section. The grid and the requirements of paragraph (d) of this section may be combined with any company form.
 
-(iv) Subject to paragraphs (a)(1)(i) through (iii) of this section, until December 18, 2017, a motor carrier operating commercial motor vehicles shall require each of its drivers to record the driver's record of duty status:
+(iii) Subject to paragraphs (a)(1)(i) and (ii) of this section, until December 18, 2017, a motor carrier operating commercial motor vehicles shall require each of its drivers to record the driver's record of duty status:
 
-(A) Using an ELD that meets the requirements of subpart B of this part;
+(A) Using an ELD that meets the requirements of subpart B of this part; or
 
-(B) Using an automatic on-board recording device that meets the requirements of § 395.15; or
-
-(C) Manually, recorded on a specified grid as shown in paragraph (g) of this section. The grid and the requirements of paragraph (d) of this section may be combined with any company form. The record of duty status must be recorded in duplicate for each 24-hour period for which recording is required.
+(B) Manually, recorded on a specified grid as shown in paragraph (g) of this section. The grid and the requirements of paragraph (d) of this section may be combined with any company form. The record of duty status must be recorded in duplicate for each 24-hour period for which recording is required.
 
 (2) A driver operating a commercial motor vehicle must:
 
@@ -74,9 +70,9 @@ If a change of duty status occurs at a location other than a city, town, or vill
 
 (e)(1) No driver or motor carrier may make a false report in connection with a duty status.
 
-(2) No driver or motor carrier may disable, deactivate, disengage, jam, or otherwise block or degrade a signal transmission or reception, or reengineer, reprogram, or otherwise tamper with an automatic on-board recording device or ELD so that the device does not accurately record and retain required data.
+(2) No driver or motor carrier may disable, deactivate, disengage, jam, or otherwise block or degrade a signal transmission or reception, or reengineer, reprogram, or otherwise tamper with an ELD so that the device does not accurately record and retain required data.
 
-(3) No driver or motor carrier may permit or require another person to disable, deactivate, disengage, jam, or otherwise block or degrade a signal transmission or reception, or reengineer, reprogram, or otherwise tamper with an automatic on-board recording device or ELD so that the device does not accurately record and retain required data.
+(3) No driver or motor carrier may permit or require another person to disable, deactivate, disengage, jam, or otherwise block or degrade a signal transmission or reception, or reengineer, reprogram, or otherwise tamper with an ELD so that the device does not accurately record and retain required data.
 
 (f) The driver's activities shall be recorded in accordance with the following provisions:
 

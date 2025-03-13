@@ -98,4 +98,4 @@ VCON is defined as the maximum authorized speed for any nacelle angle in VTOL/Co
 
 *VTOL mode RPM* means highest range of RPM that occur for takeoff, approach, hover, and conversion conditions.
 
-[Doc. No. 13243, Amdt. 36-4, 40 FR 1034, Jan. 6, 1975] Editorial Note:For Federal Register citations affecting § 36.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Doc. No. 13243, Amdt. 36-4, 40 FR 1034, Jan. 6, 1975]Editorial Note:For Federal Register citations affecting § 36.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

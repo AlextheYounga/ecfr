@@ -20,6 +20,6 @@
 
 (3) Provides an estimate of the total number of drivers and CMVs that would be operated under the terms and conditions of the waiver; and
 
-(4) Explains how you would ensure that you could achieve a level of safety that is equivalent to, or greater than, the level of safety that would be obtained by complying with the regulation.
+(4) Explains how you would ensure that you could likely achieve a level of safety that is equivalent to, or greater than, the level of safety that would be obtained in the absence of the waiver.
 
-[72 FR 67608, Dec. 8, 1998, as amended at 72 FR 55699, Oct. 1, 2007]
+[72 FR 67608, Dec. 8, 1998, as amended at 72 FR 55699, Oct. 1, 2007; 89 FR 90619, Nov. 18, 2024]

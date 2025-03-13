@@ -1,4 +1,4 @@
-##### § 385.405T How does a motor carrier apply for a safety permit? #####
+##### § 385.405T Application for safety permit. #####
 
 (a) *Application form(s).* (1) To apply for a new safety permit or renewal of the safety permit, a motor carrier must complete and submit Form MCS-150B, Combined Motor Carrier Identification Report and HM Permit Application.
 

@@ -1,4 +1,4 @@
-##### § 393.120 What are the rules for securing metal coils? #####
+##### § 393.120 Specific securement requirements for metal coils. #####
 
 (a) *Applicability.* The rules in this section apply to the transportation of one or more metal coils which, individually or grouped together, weigh 2268 kg (5000 pounds) or more. Shipments of metal coils that weigh less than 2268 kg (5000 pounds) may be secured in accordance with the provisions of §§ 393.100 through 393.114.
 

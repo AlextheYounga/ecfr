@@ -1,4 +1,4 @@
-##### § 393.102 What are the minimum performance criteria for cargo securement devices and systems? #####
+##### § 393.102 Minimum performance criteria for cargo securement devices and systems. #####
 
 (a) *Performance criteria*—(1) *Breaking strength.* Tiedown assemblies (including chains, wire rope, steel strapping, synthetic webbing, and cordage) and other attachment or fastening devices used to secure articles of cargo to, or in, commercial motor vehicles must be designed, installed, and maintained to ensure that the maximum forces acting on the devices or systems do not exceed the manufacturer's breaking strength rating under the following conditions, applied separately:
 

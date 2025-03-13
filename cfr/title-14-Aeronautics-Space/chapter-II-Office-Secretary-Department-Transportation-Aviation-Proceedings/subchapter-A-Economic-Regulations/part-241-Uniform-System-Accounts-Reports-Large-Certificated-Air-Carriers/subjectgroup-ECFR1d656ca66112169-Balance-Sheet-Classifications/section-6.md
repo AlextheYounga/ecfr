@@ -2,7 +2,7 @@
 
 Source: ER-980, 42 FR 29, Jan. 3, 1977, unless otherwise noted.
 
-Current Assets 1010 Cash.
+Current Assets1010 Cash.
 
 (a) Record here all general and working funds available on demand as of the date of the balance sheet which are not formally restricted or earmarked for specific objectives. Funds deposited for special purposes which are to be satisfied within one year shall be included in account 1100 Short-term Investments and funds restricted as to general availability, which are not offset by current liabilities, shall be included in account 1550 Special Funds.
 
@@ -80,7 +80,7 @@ Record here prepayments of obligations which if not paid in advance would requir
 
 Record here current assets not provided for in balance sheet accounts 1010 to 1410, inclusive.
 
-Investments and Special Funds 1510 Investments in Associated Companies.
+Investments and Special Funds1510 Investments in Associated Companies.
 
 (a) Record here net investments in associated companies.
 
@@ -246,7 +246,7 @@ Record here the total cost to the air carrier of property on operating-type leas
 
 Record here accruals for depreciation of property on operating-type leases to others and property held for lease.
 
-[Amdt. 241-58, 54 FR 5594, Feb. 6, 1989] Other Assets 1820 Long-Term Prepayments.
+[Amdt. 241-58, 54 FR 5594, Feb. 6, 1989]Other Assets1820 Long-Term Prepayments.
 
 Record here prepayments of obligations applicable to periods extending beyond one year such as payments on leased property and equipment and other payments and advances for rents, rights, or other privileges.
 
@@ -280,7 +280,7 @@ Record here prepayments of obligations applicable to periods extending beyond on
 
 (h) Balances in this account relating to property acquisition adjustments shall be amortized by charges to profit and loss account 89.9 Other Miscellaneous Nonoperating Debits unless otherwise directed or approved by the BTS.
 
-[ER-1401, 50 FR 242, Jan. 3, 1985, as amended at 60 FR 66723, Dec. 26, 1995]Current Liabilities 2000 Current Maturities of Long-term Debt.
+[ER-1401, 50 FR 242, Jan. 3, 1985, as amended at 60 FR 66723, Dec. 26, 1995]Current Liabilities2000 Current Maturities of Long-term Debt.
 
 Record here the face value or principal amount of debt securities issued or assumed by the air carrier which is payable within 12 months of the balance sheet date unless such debt is to refinance, or where payment is to be made from assets of a type not properly classifiable as current.
 
@@ -342,7 +342,7 @@ Record here in separate subdivisions for each class and series of capital stock,
 
 Record here current and accrued liabilities, including amounts payable collected as an agent, not provided for in accounts 2110 to 2160, inclusive.
 
-Non-current Liabilities 2210 Long-Term Debt.
+Non-current Liabilities2210 Long-Term Debt.
 
 (a) Record here the face value of principal amount of debt securities issued or assumed by the air carrier and held by other than associated companies, which has not been retired or cancelled and is not payable within 12 months of the balance sheet date.
 
@@ -364,7 +364,7 @@ Record here the total noncurrent liability applicable to property obtained under
 
 Record here noncurrent liabilities not provided for in balance sheet accounts 2210 to 2280, inclusive, such as the liability for installments received on capital stock from company personnel who are not bound by legally enforceable subscription contracts, accruals for personnel dismissal liability, and accruals of other demonstrable miscellaneous noncurrent liabilities.
 
-[ER-1401, 50 FR 242, Jan. 3, 1985]Deferred Credits 2340 Deferred Income Taxes.
+[ER-1401, 50 FR 242, Jan. 3, 1985]Deferred Credits2340 Deferred Income Taxes.
 
 Record here credits and debits representing the net tax effect of material timing differences originating and reversing in the current accounting period, giving appropriate recognition to the portion of investment tax credits which would have been allowed if taxes were based on pretax accounting income by a reduction of the deferred tax provision.
 
@@ -376,7 +376,7 @@ Record here investment tax credits utilized as reduction of tax liabilities, whe
 
 Record here credits, not provided for elsewhere, the proper final disposition of which cannot be effected until additional information has been received.
 
-Stockholders' Equity 2820 Preferred Stock.
+Stockholders' Equity2820 Preferred Stock.
 
 Record here in separate subdivisions for each class and series, the par or stated value of preferred capital stock issued or in the case of no-par stock without stated value, the full consideration received.
 

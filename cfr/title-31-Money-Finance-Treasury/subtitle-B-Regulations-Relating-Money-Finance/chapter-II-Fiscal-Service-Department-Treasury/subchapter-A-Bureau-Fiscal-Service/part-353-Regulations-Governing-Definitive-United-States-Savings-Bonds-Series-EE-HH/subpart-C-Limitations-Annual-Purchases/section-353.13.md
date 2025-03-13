@@ -24,4 +24,4 @@
 
 (e) *Vacation plans.* Savings bonds may be purchased under certain vacation plans. Questions concerning the eligibility of these plans to purchase bonds in excess of the general limitation should be addressed to the Bureau of the Fiscal Service, Parkersburg, WV 26101.
 
-(31 U.S.C. 3105 and 3121)[44 FR 76441, Dec. 26, 1979, as amended at 48 FR 55458, Dec. 13, 1983; 59 FR 10541, Mar. 4, 1994; 63 FR 64551, Nov. 20, 1998]
+(31 U.S.C. 3105 and 3121) [44 FR 76441, Dec. 26, 1979, as amended at 48 FR 55458, Dec. 13, 1983; 59 FR 10541, Mar. 4, 1994; 63 FR 64551, Nov. 20, 1998]

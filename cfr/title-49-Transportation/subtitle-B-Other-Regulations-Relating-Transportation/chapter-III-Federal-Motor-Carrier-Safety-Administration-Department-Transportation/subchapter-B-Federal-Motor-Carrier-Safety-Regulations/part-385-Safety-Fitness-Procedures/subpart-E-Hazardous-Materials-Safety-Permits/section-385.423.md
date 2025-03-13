@@ -1,4 +1,4 @@
-##### § 385.423 Does a motor carrier have a right to an administrative review of a denial, suspension, or revocation of a safety permit? #####
+##### § 385.423 Administrative review of a denial, suspension, or revocation of a safety permit. #####
 
 A motor carrier has a right to an administrative review pursuant to the following procedures and conditions:
 

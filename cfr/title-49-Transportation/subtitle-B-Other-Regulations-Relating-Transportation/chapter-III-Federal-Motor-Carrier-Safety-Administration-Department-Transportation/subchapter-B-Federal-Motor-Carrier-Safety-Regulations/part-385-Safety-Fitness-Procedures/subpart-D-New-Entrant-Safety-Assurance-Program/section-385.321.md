@@ -1,4 +1,4 @@
-##### § 385.321 What failures of safety management practices disclosed by the safety audit will result in a notice to a new entrant that its USDOT new entrant registration will be revoked? #####
+##### § 385.321 Safety audit: Failure. #####
 
 (a) *General.* The failures of safety management practices consist of a lack of basic safety management controls as described in Appendix A of this part or failure to comply with one or more of the regulations set forth in paragraph (b) of this section and will result in a notice to a new entrant that its USDOT new entrant registration will be revoked.
 

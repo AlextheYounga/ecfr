@@ -1,4 +1,4 @@
-##### § 385.325 What happens after a new entrant has been notified under § 385.319(c) to take corrective action to remedy its safety management practices? #####
+##### § 385.325 Safety audit: Outcomes of a corrective action notice. #####
 
 (a) If the new entrant provides evidence of corrective action acceptable to the FMCSA within the time period provided in § 385.319(c), including any extension of that period authorized under § 385.323, the FMCSA will provide written notification to the new entrant that its DOT new entrant registration will not be revoked and it may continue operations.
 

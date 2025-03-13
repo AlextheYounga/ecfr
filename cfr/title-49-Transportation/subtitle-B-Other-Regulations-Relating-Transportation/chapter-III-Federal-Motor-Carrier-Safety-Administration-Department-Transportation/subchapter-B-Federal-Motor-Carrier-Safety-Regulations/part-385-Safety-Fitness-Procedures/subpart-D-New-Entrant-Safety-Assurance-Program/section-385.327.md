@@ -1,4 +1,4 @@
-##### § 385.327 May a new entrant request an administrative review of a determination of a failed safety audit? #####
+##### § 385.327 Safety audit: Administrative review. #####
 
 (a) If a new entrant receives a notice under § 385.319(c) that its new entrant registration will be revoked, it may request FMCSA to conduct an administrative review if it believes FMCSA has committed an error in determining that its basic safety management controls are inadequate. The request must:
 

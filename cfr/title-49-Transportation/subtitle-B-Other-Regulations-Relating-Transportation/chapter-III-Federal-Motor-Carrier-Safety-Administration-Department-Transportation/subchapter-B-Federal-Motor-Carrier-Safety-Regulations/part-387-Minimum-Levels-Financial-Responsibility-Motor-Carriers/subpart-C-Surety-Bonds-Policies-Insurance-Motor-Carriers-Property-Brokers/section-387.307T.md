@@ -34,4 +34,4 @@ This section will remain in effect until January 16, 2025.
 
 (3) *Filing and copies.* Broker surety bonds and trust fund agreements must be filed with the FMCSA in duplicate.
 
-[53 FR 10396, Mar. 31, 1988, as amended at 75 FR 72998, Nov. 29, 2010; 78 FR 58482, Sept. 24, 2013; 78 FR 60233, Oct. 1, 2013; 84 FR 51434, Sept. 30, 2019. Redesignated and amended at 88 FR 78672, 78674, Nov. 16, 2023]Effective Date Note:At 88 FR 78656 and 78672 Nov. 16, 2023, § 387.309T was redesignated from § 387.309, and made effective Jan. 16, 2024, until Jan. 16, 2025.
+[53 FR 10396, Mar. 31, 1988, as amended at 75 FR 72998, Nov. 29, 2010; 78 FR 58482, Sept. 24, 2013; 78 FR 60233, Oct. 1, 2013; 84 FR 51434, Sept. 30, 2019. Redesignated and amended at 88 FR 78672, 78674, Nov. 16, 2023]Effective Date Note:At 88 FR 78656 and 78672 Nov. 16, 2023, § 387.307T was redesignated from § 387.307, and made effective Jan. 16, 2024, until Jan. 16, 2025.

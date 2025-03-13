@@ -10,7 +10,7 @@
 
 (b) An employer who employs himself/herself as a driver must comply with both the requirements in this part that apply to employers and the requirements in this part that apply to drivers. An employer who employs only himself/herself as a driver shall implement a random alcohol and controlled substances testing program of two or more covered employees in the random testing selection pool.
 
-(c) The exceptions contained in § 390.3(f) of this subchapter do not apply to this part. The employers and drivers identified in § 390.3(f) of this subchapter must comply with the requirements of this part, unless otherwise specifically provided in paragraph (d) of this section.
+(c) The exceptions contained in § 390.3T(f) of this subchapter do not apply to this part. The employers and drivers identified in § 390.3T(f) of this subchapter must comply with the requirements of this part, unless otherwise specifically provided in paragraph (d) of this section.
 
 (d) *Exceptions.* This part shall not apply to employers and their drivers:
 
@@ -26,7 +26,7 @@
 
 (B) Used to transport either agricultural products, farm machinery, farm supplies, or both to or from a farm;
 
-(C) Not used in the operations of a for-hire motor carrier, except for an exempt motor carrier as defined in § 390.5 of this subchapter; and
+(C) Not used in the operations of a for-hire motor carrier, except for an exempt motor carrier as defined in § 390.5T of this subchapter; and
 
 (D) Used within 241 kilometers (150 miles) of the farmer's farm.
 
@@ -34,4 +34,4 @@
 
 (4) Who operate “covered farm vehicles,” as defined in 49 CFR 390.5.
 
-[66 FR 43103, Aug. 17, 2001, as amended at 78 FR 16194, Mar. 14, 2013; 81 FR 68346, Oct. 4, 2016; 81 FR 71016, Oct. 14, 2016; 81 FR 87724, Dec. 5, 2016; 86 FR 35639, July 7, 2021]
+[66 FR 43103, Aug. 17, 2001, as amended at 78 FR 16194, Mar. 14, 2013; 81 FR 68346, Oct. 4, 2016; 81 FR 71016, Oct. 14, 2016; 81 FR 87724, Dec. 5, 2016; 86 FR 35639, July 7, 2021; 89 FR 90619, Nov. 18, 2024]

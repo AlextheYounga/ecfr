@@ -28,4 +28,4 @@
 
 (e) *Combination of replacement time and failsafe evaluations.* A component may be evaluated under a combination of paragraphs (c) and (d) of this section. For such component it must be shown that the probability of catastrophic failure is extremely remote with an approved combination of replacement time, inspection intervals, and related procedures furnished under section A27.4 of appendix A.
 
-(Secs. 313(a), 601, 603, 604, and 605, 72 Stat. 752, 775, and 778, (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425; sec. 6(c), 49 U.S.C. 1655(c))) [Amdt. 27-3, 33 FR 14106, Sept. 18, 1968, as amended by Amdt. 27-12, 42 FR 15044, Mar. 17, 1977; Amdt. 27-18, 45 FR 60177, Sept. 11, 1980; Amdt. 27-26, 55 FR 8000, Mar. 6, 1990]
+(Secs. 313(a), 601, 603, 604, and 605, 72 Stat. 752, 775, and 778, (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425; sec. 6(c), 49 U.S.C. 1655(c)))[Amdt. 27-3, 33 FR 14106, Sept. 18, 1968, as amended by Amdt. 27-12, 42 FR 15044, Mar. 17, 1977; Amdt. 27-18, 45 FR 60177, Sept. 11, 1980; Amdt. 27-26, 55 FR 8000, Mar. 6, 1990]

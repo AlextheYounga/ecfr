@@ -22,10 +22,10 @@
 
 (4) Assesses the safety impacts the exemption may have;
 
-(5) Explains how you would ensure that you could achieve a level of safety that is equivalent to, or greater than, the level of safety that would be obtained by complying with the regulation; and
+(5) Explains how you would ensure that you could likely achieve a level of safety that is equivalent to, or greater than, the level of safety that would be achieved absent such exemption; and
 
 (6) Describes the impacts (e.g., inability to test innovative safety management control systems, etc.) you could experience if the exemption is not granted by the FMCSA.
 
 (d) Your application must include a copy of all research reports, technical papers, and other publications and documents you reference.
 
-[63 FR 67608, Dec. 8, 1998, as amended at 72 FR 55700, Oct. 1, 2007; 69 FR 29404, May 21, 2004, 78 FR 58479, Sept. 24, 2013]
+[63 FR 67608, Dec. 8, 1998, as amended at 72 FR 55700, Oct. 1, 2007; 69 FR 29404, May 21, 2004, 78 FR 58479, Sept. 24, 2013; 89 FR 90619, Nov. 18, 2024]

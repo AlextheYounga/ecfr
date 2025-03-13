@@ -1,4 +1,4 @@
-##### § 385.323 May FMCSA extend the period under § 385.319(c) for a new entrant to take corrective action to remedy its safety management practices? #####
+##### § 385.323 Safety audit: Extensions for corrective action. #####
 
 (a) FMCSA may extend the 60-day period in § 385.319(c)(1) for up to an additional 60 days provided FMCSA determines the new entrant is making a good faith effort to remedy its safety management practices.
 

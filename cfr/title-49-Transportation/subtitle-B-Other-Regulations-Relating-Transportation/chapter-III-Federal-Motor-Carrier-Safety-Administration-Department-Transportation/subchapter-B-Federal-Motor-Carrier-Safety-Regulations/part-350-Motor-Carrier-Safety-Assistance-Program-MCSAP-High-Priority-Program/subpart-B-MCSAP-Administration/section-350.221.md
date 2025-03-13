@@ -1,4 +1,4 @@
-##### § 350.221 How long are MCSAP funds available to a State? #####
+##### § 350.221 MCSAP administration: Availability of funds. #####
 
 MCSAP funds obligated to a State will remain available for the Federal fiscal year that the funds are obligated and the next 2 full Federal fiscal years.
 

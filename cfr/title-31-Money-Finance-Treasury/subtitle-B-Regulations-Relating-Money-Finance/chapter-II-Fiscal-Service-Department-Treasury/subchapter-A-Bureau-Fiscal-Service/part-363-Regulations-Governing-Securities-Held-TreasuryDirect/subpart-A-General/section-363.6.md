@@ -42,7 +42,7 @@
 
 *Federal Reserve Bank (Reserve Bank)* means a Federal Reserve Bank or Branch.
 
-*Final maturity of a savings bond* means the date beyond which an unredeemed savings bond no longer earns interest.1
+*Final maturity of a savings bond* means the date beyond which an unredeemed savings bond no longer earns interest. 1
 
 1 Series EE and Series I savings bonds currently have an original maturity period of 20 years and an extended maturity period of 10 years beyond original maturity during which the bonds continue to earn interest.
 

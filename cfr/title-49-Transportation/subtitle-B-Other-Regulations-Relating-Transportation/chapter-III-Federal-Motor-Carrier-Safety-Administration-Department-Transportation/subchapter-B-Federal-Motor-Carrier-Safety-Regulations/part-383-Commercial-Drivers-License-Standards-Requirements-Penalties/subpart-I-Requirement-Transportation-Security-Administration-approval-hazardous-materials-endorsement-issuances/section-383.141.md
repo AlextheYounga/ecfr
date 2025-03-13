@@ -2,7 +2,7 @@
 
 (a) *Applicability.* This section applies to State agencies responsible for issuing hazardous materials endorsements for a CDL, and applicants for such endorsements.
 
-(b) *Prohibition.* A state may not issue, renew, upgrade, or transfer a hazardous material endorsement for a CDL to any individual authorizing that individual to operate a commercial motor vehicle transporting a hazardous material in commerce unless—
+(b) *Prohibition.* A State may not issue, renew, upgrade, or transfer a hazardous material endorsement for a CDL to any individual authorizing that individual to operate a commercial motor vehicle transporting a hazardous material in commerce unless—
 
 (1) The Transportation Security Administration has determined that the individual does not pose a security risk warranting denial of the endorsement; or
 
@@ -12,4 +12,4 @@
 
 (d) *Hazardous materials endorsement renewal cycle.* Each State must require that hazardous materials endorsements be renewed every 5 years or less so that individuals are subject to a Transportation Security Administration security screening requirement referenced in paragraph (b) of this section at least every 5 years.
 
-[68 FR 24850, May 5, 2003, as amended at 68 FR 63033, Nov. 7, 2003; 69 FR 51393, Aug. 19, 2004; 70 FR 22271, Apr. 29, 2005; 77 FR 59825, Oct. 1, 2012; 84 FR 52034, Oct. 1, 2019]
+[68 FR 24850, May 5, 2003, as amended at 68 FR 63033, Nov. 7, 2003; 69 FR 51393, Aug. 19, 2004; 70 FR 22271, Apr. 29, 2005; 77 FR 59825, Oct. 1, 2012; 84 FR 52034, Oct. 1, 2019; 89 FR 90620, Nov. 18, 2024]

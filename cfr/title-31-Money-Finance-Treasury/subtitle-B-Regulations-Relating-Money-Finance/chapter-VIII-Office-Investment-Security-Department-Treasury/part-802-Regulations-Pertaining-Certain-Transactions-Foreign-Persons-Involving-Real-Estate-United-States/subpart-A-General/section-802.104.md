@@ -1,6 +1,6 @@
 ##### § 802.104 Applicability rule. #####
 
-Link to an amendment published at 89 FR 88133, Nov. 7, 2024.
+Link to an amendment published at 89 FR 88133, Nov. 7, 2024.Link to a correction published at 89 FR 90592, Nov. 18, 2024.
 
 (a) Except as provided in paragraph (b) of this section and otherwise in this part, the regulations in this part apply from February 13, 2020.
 

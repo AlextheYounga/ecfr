@@ -1,4 +1,4 @@
-##### § 390.40T What responsibilities do intermodal equipment providers have under the Federal Motor Carrier Safety Regulations (49 CFR parts 350 through 399)? #####
+##### § 390.40T Intermodal equipment providers. #####
 
 An intermodal equipment provider must—
 

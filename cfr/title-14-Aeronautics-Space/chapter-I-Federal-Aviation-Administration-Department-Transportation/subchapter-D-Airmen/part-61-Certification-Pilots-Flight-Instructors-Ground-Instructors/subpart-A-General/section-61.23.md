@@ -26,7 +26,7 @@
 
 (iii) When taking a practical test in an aircraft for a recreational pilot, private pilot, commercial pilot, or airline transport pilot certificate, or for a flight instructor certificate, except when operating under the conditions and limitations set forth in § 61.113(i); or
 
-(iv) When performing the duties as an Examiner in an aircraft when administering a practical test or proficiency check for an airman certificate, rating, or authorization.
+(iv) When performing the duties as an Examiner in an aircraft when administering a practical test or proficiency check for an airman certificate, rating, or authorization, except when meeting the requirements to operate under the conditions and limitations set forth in § 61.113(i).
 
 (b) *Operations not requiring a medical certificate.* A person is not required to hold a medical certificate—
 
@@ -76,9 +76,11 @@
 
 (iv) Serving as an Examiner and administering a practical test for the issuance of a sport pilot certificate in a light-sport aircraft other than a glider or balloon;
 
-(v) Exercising the privileges of a student, recreational or private pilot certificate if the flight is conducted under the conditions and limitations set forth in § 61.113(i); or
+(v) Exercising the privileges of a student, recreational or private pilot certificate if the flight is conducted under the conditions and limitations set forth in § 61.113(i);
 
-(vi) Exercising the privileges of a flight instructor certificate and acting as the pilot in command or as a required flight crewmember if the flight is conducted under the conditions and limitations set forth in § 61.113(i).
+(vi) Exercising the privileges of a flight instructor certificate and acting as the pilot in command or as a required flight crewmember if the flight is conducted under the conditions and limitations set forth in § 61.113(i); or
+
+(vii) Serving as an Examiner and administering a practical test or proficiency check for an airman certificate, rating, or authorization if the flight is conducted under the conditions and limitations set forth in § 61.113(i).
 
 (2) A person using a U.S. driver's license to meet the requirements of paragraph (c) while exercising sport pilot privileges must—
 
@@ -100,7 +102,7 @@
 
 (C) Complete the medical education course set forth in § 68.3 of this chapter during the 24 calendar months before acting as pilot in command or serving as a required flightcrew member in an operation conducted under § 61.113(i) and retain a certification of course completion in accordance with § 68.3(b)(1) of this chapter;
 
-(D) Receive a comprehensive medical examination from a State-licensed physician during the 48 months before acting as pilot in command or serving as a required flightcrew member of an operation conducted under § 61.113(i) and that medical examination is conducted in accordance with the requirements in part 68 of this chapter; and
+(D) Receive a comprehensive medical examination from a State-licensed physician during the 48 calendar months before acting as pilot in command or serving as a required flightcrew member of an operation conducted under § 61.113(i) and that medical examination is conducted in accordance with the requirements in part 68 of this chapter; and
 
 (E) If the individual has been diagnosed with any medical condition that may impact the ability of the individual to fly, be under the care and treatment of a State-licensed physician when acting as pilot in command or serving as a required flightcrew member of an operation conducted under § 61.113(i).
 
@@ -131,4 +133,4 @@
 |(3) A third-class medical certificate |                                   (i) Under age 40                                   |             a recreational pilot certificate, a private pilot certificate, a flight instructor certificate (when acting as pilot in command or a required pilot flight crewmember in operations other than glider or balloon), a student pilot certificate, or a sport pilot certificate (when not using a U.S. driver's license as medical qualification)             |  60th month after the month of the date of examination shown on the medical certificate.   |
 |                                      |                                 (ii) Age 40 or older                                 |             a recreational pilot certificate, a private pilot certificate, a flight instructor certificate (when acting as pilot in command or a required pilot flight crewmember in operations other than glider or balloon), a student pilot certificate, or a sport pilot certificate (when not using a U.S. driver's license as medical qualification)             |  24th month after the month of the date of examination shown on the medical certificate.   |
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40895, July 30, 1997; Amdt. 61-110, 69 FR 44864, July 27, 2004, as amended by Amdt. 61-121, 73 FR 43064, July 24, 2008; Amdt. 61-121, 73 FR 48125, Aug. 18, 2008; Amdt. 61-123, 74 FR 34234, July 15, 2009; Amdt. 61-124, 74 FR 42547, Aug. 21, 2009; Amdt. 61-129, 76 FR 78143, Dec. 16, 2011; Amdt. 61-129A, 77 FR 61721, Oct. 11, 2012; Amdt. 61-130, 78 FR 42372, July 15, 2013; Docket FAA-2016-9157, Amdt. 61-140, 82 FR 3164, Jan. 11, 2017; Docket No. FAA-2021-1040, Amdt. Nos. 61-152, 87 FR 71236, Nov. 22, 2022; Docket No. FAA-2021-1040; Amdt. Nos. 61-152, 87 FR 71237, Nov. 22, 2022]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40895, July 30, 1997; Amdt. 61-110, 69 FR 44864, July 27, 2004, as amended by Amdt. 61-121, 73 FR 43064, July 24, 2008; Amdt. 61-121, 73 FR 48125, Aug. 18, 2008; Amdt. 61-123, 74 FR 34234, July 15, 2009; Amdt. 61-124, 74 FR 42547, Aug. 21, 2009; Amdt. 61-129, 76 FR 78143, Dec. 16, 2011; Amdt. 61-129A, 77 FR 61721, Oct. 11, 2012; Amdt. 61-130, 78 FR 42372, July 15, 2013; Docket FAA-2016-9157, Amdt. 61-140, 82 FR 3164, Jan. 11, 2017; Docket No. FAA-2021-1040, Amdt. Nos. 61-152, 87 FR 71236, Nov. 22, 2022; Docket No. FAA-2021-1040; Amdt. Nos. 61-152, 87 FR 71237, Nov. 22, 2022; Docket No. FAA-2024-2580; Amdt. No. 61-158, 89 FR 90577, Nov. 18, 2024]

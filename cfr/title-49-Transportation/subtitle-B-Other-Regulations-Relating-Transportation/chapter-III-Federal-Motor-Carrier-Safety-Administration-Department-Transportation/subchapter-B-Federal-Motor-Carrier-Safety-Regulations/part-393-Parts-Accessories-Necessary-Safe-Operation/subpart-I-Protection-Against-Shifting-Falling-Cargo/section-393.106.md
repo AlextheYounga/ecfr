@@ -1,4 +1,4 @@
-##### § 393.106 What are the general requirements for securing articles of cargo? #####
+##### § 393.106 General requirements for securing articles of cargo. #####
 
 (a) *Applicability.* The rules in this section are applicable to the transportation of all types of articles of cargo, except commodities in bulk that lack structure or fixed shape (*e.g.*, liquids, gases, grain, liquid concrete, sand, gravel, aggregates) and are transported in a tank, hopper, box, or similar device that forms part of the structure of a commercial motor vehicle. The rules in this section apply to the cargo types covered by the commodity-specific rules of § 393.116 through § 393.136. The commodity-specific rules take precedence over the general requirements of this section when additional requirements are given for a commodity listed in those sections.
 

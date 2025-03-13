@@ -1,4 +1,4 @@
-##### § 385.407 What conditions must a motor carrier satisfy for FMCSA to issue a safety permit? #####
+##### § 385.407 Requirements for a safety permit. #####
 
 (a) *Motor carrier safety performance.* (1) The motor carrier must have a “Satisfactory” safety rating assigned by either FMCSA, pursuant to the Safety Fitness Procedures of this part, or the State in which the motor carrier has its principal place of business, if the State has adopted and implemented safety fitness procedures that are equivalent to the procedures in subpart A of this part; and
 
@@ -6,9 +6,11 @@
 
 (i) Does not certify that it has a satisfactory security program as required in § 385.407(b);
 
-(ii) Has a crash rate in the top 30 percent of the national average as indicated in the FMCSA Motor Carrier Management Information System (MCMIS); or
+(ii) Has a crash rate in the top 30 percent of the national average as indicated in the FMCSA Motor Carrier Management Information System (MCMIS);
 
-(iii) Has a driver, vehicle, hazardous materials, or total out-of-service rate in the top 30 percent of the national average as indicated in the MCMIS.
+(iii) Has a driver, vehicle, hazardous materials, or total out-of-service rate in the top 30 percent of the national average as indicated in the MCMIS; or
+
+(iv) Does not have the minimum financial responsibility required by § 387.9 of this chapter or an applicable State requirement.
 
 (b) *Satisfactory security program.* The motor carrier must certify that it has a satisfactory security program, including:
 
@@ -20,4 +22,4 @@
 
 (c) *Registration with the Pipeline and Hazardous Materials Safety Administration (PHMSA).* The motor carrier must be registered with the PHMSA in accordance with part 107, subpart G of this title.
 
-[69 FR 39367, June 30, 2004, as amended at 75 FR 17241, Apr. 5, 2010; 77 FR 28450, May 14, 2012; 78 FR 58481, Sept. 24, 2013]
+[69 FR 39367, June 30, 2004, as amended at 75 FR 17241, Apr. 5, 2010; 77 FR 28450, May 14, 2012; 78 FR 58481, Sept. 24, 2013; 89 FR 90621, Nov. 18, 2024]

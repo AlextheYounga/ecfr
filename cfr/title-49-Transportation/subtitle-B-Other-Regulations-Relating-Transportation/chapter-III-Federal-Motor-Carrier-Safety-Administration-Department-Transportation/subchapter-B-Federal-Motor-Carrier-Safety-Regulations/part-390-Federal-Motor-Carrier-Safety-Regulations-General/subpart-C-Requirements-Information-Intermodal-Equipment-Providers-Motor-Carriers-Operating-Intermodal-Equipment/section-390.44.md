@@ -1,4 +1,4 @@
-##### § 390.44 What are the procedures to correct the safety record of a motor carrier or an intermodal equipment provider? #####
+##### § 390.44 Correcting the safety record of a motor carrier or an intermodal equipment provider. #####
 
 (a) *An intermodal equipment provider or its agent* may electronically file questions or concerns at *http://dataqs.fmcsa.dot.gov* about Federal and State data that reference the provider. This includes safety violations alleging that the components, parts, or accessories of intermodal chassis or trailers listed in § 392.7(b) of this chapter were not in good working order when inspected at roadside. An intermodal equipment provider should not be held responsible for such violations because a motor carrier indicated pursuant to § 392.7(b) that these components, parts, or accessories had no safety defects at the time of the pre-trip inspection.
 

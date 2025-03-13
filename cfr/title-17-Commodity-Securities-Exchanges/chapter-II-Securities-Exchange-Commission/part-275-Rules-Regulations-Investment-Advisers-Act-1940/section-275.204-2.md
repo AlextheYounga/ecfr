@@ -226,7 +226,7 @@ and
 
 (ii) Such non-resident investment adviser furnishes to the Commission, at his own expense 14 days after written demand therefor forwarded to him by registered mail at his last address of record filed with the Commission and signed by the Secretary of the Commission or such person as the Commission may authorize to act in its behalf, true, correct, complete and current copies of any or all books and records which such investment adviser is required to make, keep current or preserve pursuant to any provision of any rule or regulation of the Commission adopted under the Act, or any part of such books and records which may be specified in said written demand. Such copies shall be furnished to the Commission at its principal office in Washington, DC, or at any Regional Office of the Commission which may be specified in said written demand.
 
-(4) For purposes of this rule the term *non-resident investment adviser* shall have the meaning set out in § 275.0-2(d)(3) under the Act.
+(4) For purposes of this paragraph (j) the term *non-resident investment adviser* shall have the same meaning set out in § 275.0-2(b)(2).
 
 (k) Every investment adviser that registers under section 203 of the Act (15 U.S.C. 80b-3) after July 8, 1997 shall be required to preserve in accordance with this section the books and records the investment adviser had been required to maintain by the State in which the investment adviser had its principal office and place of business prior to registering with the Commission.
 

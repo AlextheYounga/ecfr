@@ -1,4 +1,4 @@
-##### § 385.419T How long is a safety permit effective? #####
+##### § 385.419T Effective period of safety permit. #####
 
 Unless suspended or revoked, a safety permit (other than a temporary safety permit) is effective for two years, except that:
 

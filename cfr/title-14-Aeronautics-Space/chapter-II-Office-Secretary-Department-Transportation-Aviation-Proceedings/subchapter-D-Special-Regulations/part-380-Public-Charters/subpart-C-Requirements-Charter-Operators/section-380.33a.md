@@ -4,7 +4,7 @@
 
 (b) Operator's option plan contracts shall state, in addition to the information required by § 380.32, that the selection of the actual dates or cities, as applicable, is at the charter operator's option and will not entitle the participant to a refund, and that the operator will notify the participant of the actual dates or cities at least 10 days before the earliest of any alternative dates for the outbound flight.
 
-(c) Contract forms for all operator's option plan contracts shall be labeled “OPERATOR'S OPTION PLAN” in bold-faced capital letters at least 1/4 inch high. The statement required by paragraph (b) of this section and the statement of alternative dates (§ 380.32(c)) or alternative cities (§ 380.32(d)), as applicable, shall be printed so as to contrast with the rest of the contract, as set forth in § 380.31(f).
+(c) Contract forms for all operator's option plan contracts shall be labeled “OPERATOR'S OPTION PLAN” in bold-faced capital letters at least1/4 inch high. The statement required by paragraph (b) of this section and the statement of alternative dates (§ 380.32(c)) or alternative cities (§ 380.32(d)), as applicable, shall be printed so as to contrast with the rest of the contract, as set forth in § 380.31(f).
 
 (d) Any solicitation material that states a price per passenger for an operator's option plan contract shall clearly and conspicuously—
 

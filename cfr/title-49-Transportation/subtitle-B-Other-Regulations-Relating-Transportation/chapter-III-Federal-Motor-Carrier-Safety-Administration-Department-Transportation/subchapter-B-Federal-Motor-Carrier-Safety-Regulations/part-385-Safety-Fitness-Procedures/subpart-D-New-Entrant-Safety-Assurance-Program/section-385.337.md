@@ -1,4 +1,4 @@
-##### § 385.337 What happens if a new entrant refuses to permit a safety audit to be performed on its operations? #####
+##### § 385.337 New entrant refusal to permit safety audit. #####
 
 (a) If a new entrant refuses to permit a safety audit to be performed on its operations, FMCSA will provide the carrier with written notice that its registration will be revoked and its operations placed out of service unless the new entrant agrees in writing, within 10 days from the service date of the notice, to permit the safety audit to be performed. The refusal to permit a safety audit to be performed may subject the new entrant to the penalty provisions of 49 U.S.C. 521(b)(2)(A), as adjusted for inflation by 49 CFR part 386, appendix B.
 

@@ -1,4 +1,4 @@
-##### § 393.124 What are the rules for securing concrete pipe? #####
+##### § 393.124 Specific securement requirements for concrete pipe. #####
 
 (a) *Applicability.* (1) The rules in this section apply to the transportation of concrete pipe on flatbed trailers and vehicles, and lowboy trailers.
 

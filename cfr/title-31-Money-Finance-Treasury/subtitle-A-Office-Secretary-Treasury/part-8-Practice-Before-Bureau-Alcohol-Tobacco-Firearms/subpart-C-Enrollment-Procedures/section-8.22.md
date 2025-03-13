@@ -10,4 +10,4 @@
 
 (e) *Additional information.* The Director, as a condition to consideration for enrollment, may require the applicant to file additional information as necessary to determine if the applicant is qualified. The Director shall, upon written request, afford an applicant the opportunity to be heard with respect to his or her application for enrollment.
 
-(Approved by the Office of Management and Budget under control number 1512-0418)(Sec. 501, Pub. L. 82-137, 65 Stat. 290 (31 U.S.C. 483a); 5 U.S.C. 552(a) (80 Stat. 383, as amended))[42 FR 33026, June 29, 1977; 42 FR 36455, July 15, 1977, as amended at 49 FR 14944, Apr. 16, 1984]
+(Approved by the Office of Management and Budget under control number 1512-0418) (Sec. 501, Pub. L. 82-137, 65 Stat. 290 (31 U.S.C. 483a); 5 U.S.C. 552(a) (80 Stat. 383, as amended))[42 FR 33026, June 29, 1977; 42 FR 36455, July 15, 1977, as amended at 49 FR 14944, Apr. 16, 1984]

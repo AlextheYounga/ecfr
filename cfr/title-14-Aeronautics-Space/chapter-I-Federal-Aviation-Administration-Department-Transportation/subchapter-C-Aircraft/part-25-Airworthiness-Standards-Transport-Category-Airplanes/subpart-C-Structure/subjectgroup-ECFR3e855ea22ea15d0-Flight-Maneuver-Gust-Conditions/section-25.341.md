@@ -42,7 +42,7 @@
 
 Uσ = Uσref FgWhere—Uσref is the reference turbulence intensity that varies linearly with altitude from 90 fps (TAS) at sea level to 79 fps (TAS) at 24,000 feet and is then constant at 79 fps (TAS) up to the altitude of 60,000 feet.Fg is the flight profile alleviation factor defined in paragraph (a)(6) of this section;
 
-(ii) At speed VD: Uσ is equal to 1/2 the values obtained under paragraph (b)(3)(i) of this section.
+(ii) At speed VD: Uσ is equal to1/2 the values obtained under paragraph (b)(3)(i) of this section.
 
 (iii) At speeds between VC and VD: Uσ is equal to a value obtained by linear interpolation.
 

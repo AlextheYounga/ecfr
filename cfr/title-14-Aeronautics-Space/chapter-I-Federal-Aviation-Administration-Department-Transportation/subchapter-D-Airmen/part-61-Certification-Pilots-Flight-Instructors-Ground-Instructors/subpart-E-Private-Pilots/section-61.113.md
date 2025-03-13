@@ -32,7 +32,7 @@
 
 (i) A private pilot may act as pilot in command or serve as a required flightcrew member of an aircraft without holding a medical certificate issued under part 67 of this chapter provided the pilot holds a valid U.S. driver's license, meets the requirements of § 61.23(c)(3), and complies with this section and all of the following conditions and limitations:
 
-(1) The aircraft is authorized to carry not more than 6 occupants, has a maximum takeoff weight of not more than 6,000 pounds, and is operated with no more than five passengers on board; and
+(1) The aircraft is authorized to carry not more than 7 occupants, has a maximum takeoff weight of not more than 12,500 pounds, is operated with no more than 6 passengers on board, and is not a transport category rotorcraft certified to airworthiness standards under part 29 of this chapter; and
 
 (2) The flight, including each portion of the flight, is not carried out—
 
@@ -48,4 +48,4 @@
 
 (ii) The certificate of course completion required under § 61.23(c)(3).
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-110, 69 FR 44869, July 27, 2004; Amdt. 61-115, 72 FR 6910, Feb. 13, 2007; Amdt. 61-125, 75 FR 5220, Feb. 1, 2010; Docket FAA-2016-9157, Amdt. 61-140, 82 FR 3165, Jan. 11, 2017; Docket No. FAA-2021-1040, Amdt. Nos. 61-152, 87 FR 71237, Nov. 22, 2022]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-110, 69 FR 44869, July 27, 2004; Amdt. 61-115, 72 FR 6910, Feb. 13, 2007; Amdt. 61-125, 75 FR 5220, Feb. 1, 2010; Docket FAA-2016-9157, Amdt. 61-140, 82 FR 3165, Jan. 11, 2017; Docket No. FAA-2021-1040, Amdt. Nos. 61-152, 87 FR 71237, Nov. 22, 2022; Docket No. FAA-2024-2580; Amdt. No. 61-158, 89 FR 90577, Nov. 18, 2024]

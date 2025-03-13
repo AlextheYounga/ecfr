@@ -1,4 +1,4 @@
-##### § 350.207 What conditions must a State meet to qualify for MCSAP funds? #####
+##### § 350.207 MCSAP administration: Conditions to qualify for funds. #####
 
 (a) *General.* To qualify for MCSAP funds, a State must:
 

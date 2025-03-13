@@ -46,6 +46,6 @@ Link to an amendment published at 89 FR 80340, Oct. 2, 2024.
 
 (i) The Administrator may prescribe additional limitations that the Administrator considers necessary, including limitations on the persons that may be carried in the aircraft.
 
-(j) No person may operate an aircraft that has an experimental certificate under § 61.113(i) of this chapter unless the aircraft is carrying not more than 6 occupants.
+(j) No person may operate an aircraft that has an experimental certificate under § 61.113(i) of this chapter unless the aircraft is carrying not more than 7 occupants.
 
-(Approved by the Office of Management and Budget under control number 2120-0005)[Doc. No. 18334, 54 FR 34308, Aug. 18, 1989, as amended by Amdt. 91-282, 69 FR 44881, July 27, 2004; Docket FAA-2016-9157, Amdt. 91-347, 82 FR 3167, Jan. 11, 2017]
+(Approved by the Office of Management and Budget under control number 2120-0005)[Doc. No. 18334, 54 FR 34308, Aug. 18, 1989, as amended by Amdt. 91-282, 69 FR 44881, July 27, 2004; Docket FAA-2016-9157, Amdt. 91-347, 82 FR 3167, Jan. 11, 2017; Docket No. FAA-2024-2580; Amdt. No. 91-380, 89 FR 90578, Nov. 18, 2024]

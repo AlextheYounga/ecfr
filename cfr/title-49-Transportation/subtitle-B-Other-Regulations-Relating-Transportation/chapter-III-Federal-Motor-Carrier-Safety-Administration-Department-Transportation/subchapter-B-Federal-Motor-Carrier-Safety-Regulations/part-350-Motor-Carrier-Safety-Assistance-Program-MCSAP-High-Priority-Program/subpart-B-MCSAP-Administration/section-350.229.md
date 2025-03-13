@@ -1,4 +1,4 @@
-##### § 350.229 What specific costs are eligible for reimbursement under MCSAP? #####
+##### § 350.229 MCSAP administration: Specific costs eligible for reimbursement. #####
 
 (a) *General.* FMCSA must establish criteria for activities eligible for reimbursement and make those criteria available to the States in the MCSAP application announcement before the MCSAP application period.
 

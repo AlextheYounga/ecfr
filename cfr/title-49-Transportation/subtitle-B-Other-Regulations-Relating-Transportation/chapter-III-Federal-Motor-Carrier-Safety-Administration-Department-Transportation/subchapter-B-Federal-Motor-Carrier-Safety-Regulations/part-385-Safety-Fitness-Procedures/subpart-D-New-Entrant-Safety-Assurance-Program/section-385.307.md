@@ -1,4 +1,4 @@
-##### § 385.307 What happens after a motor carrier begins operations as a new entrant? #####
+##### § 385.307 New entrant safety monitoring procedures. #####
 
 After a new entrant satisfies all applicable pre-operational requirements, it will be subject to the new entrant safety monitoring procedures for a period of 18 months. During this 18-month period:
 

@@ -1,0 +1,5 @@
+##### § 74.16 Temporary extension of station licenses. #####
+
+Where there is pending before the Commission any application, investigation, or proceeding which, after hearing, might lead to or make necessary the modification of, revocation of, or the refusal to renew an existing auxiliary broadcast station license or a television broadcast translator station license, the Commission in its discretion, may grant a temporary extension of such license: *Provided, however,* That no such temporary extension shall be construed as a finding by the Commission that the operation of any radio station thereunder will serve public interest, convenience, and necessity beyond the express terms of such temporary extension of license: *And provided further,* That such temporary extension of license will in no wise affect or limit the action of the Commission with respect to any pending application or proceeding.
+
+[78 FR 25175, Apr. 29, 2013]
