@@ -66,7 +66,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-(i) We only allow fishing from1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(i) We only allow fishing from 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
 
 (ii) We prohibit trapping fish for use as bait.
 
@@ -84,7 +84,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) Hunters must retrieve all species harvested on the refuge.
 
-(iv) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
+(iv) We prohibit night hunting from 1/2 hour after legal sunset until 1/2 hour before legal sunrise the following day.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer and black bear on designated areas of the refuge subject to the following conditions:
 
@@ -142,7 +142,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-(i) We allow fishing from1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(i) We allow fishing from 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
 
 (ii) We prohibit lead tackle.
 
@@ -176,7 +176,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2) *Upland game hunting.* We allow hunting of fox, raccoon, woodchuck, squirrel, porcupine, skunk, snowshoe hare, ring-necked pheasant, and ruffed grouse on designated areas of the refuge subject to the following conditions:
 
-(i) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
+(i) We prohibit night hunting from 1/2 hour after legal sunset until 1/2 hour before legal sunrise the following day.
 
 (ii) We allow the use of dogs consistent with State regulations.
 

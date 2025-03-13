@@ -56,7 +56,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2) *Upland game hunting.* We allow hunting of fox, raccoon, woodchuck, squirrel, porcupine, skunk, snowshoe hare, ring-necked pheasant, and ruffed grouse on designated areas of the refuge subject to the following conditions:
 
-(i) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
+(i) We prohibit night hunting from 1/2 hour after legal sunset until 1/2 hour before legal sunrise the following day.
 
 (ii) We allow the use of dogs consistent with State regulations.
 

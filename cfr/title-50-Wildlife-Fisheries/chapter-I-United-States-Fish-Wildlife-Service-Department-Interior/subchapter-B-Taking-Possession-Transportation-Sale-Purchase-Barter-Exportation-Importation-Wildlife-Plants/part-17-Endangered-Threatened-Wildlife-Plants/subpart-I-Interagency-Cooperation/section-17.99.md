@@ -2742,8 +2742,7 @@
 
 (ccclxxi) Kauai 20-*Chamaesyce remyi* var. *kauaiensis*-h
 
-(A) This is a unit of the Lowland Wet ecosystem and consists of 65 ac (26 ha). This unit is also critical habitat for Kauai 20-*Chamaesyce remyi* var. *remyi*-m, Kauai 20-*Charpentiera densiflora*-e, Kauai 20-*Cyanea eleeleensis*-c, Kauai 20-*Cyanea kolekoleensis*-c, Kauai 20-*Cyanea kuhihewa*-c, Kauai 20-*Cyrtandra oenobarba*-h, Kauai 20-*Dubautia imbricata* ssp. *imbricata*-c, Kauai 20-*Labordia helleri*-h, Kauai 20-*Melicope paniculata*-c, Kauai 20-*Melicope puberula*-e, Kauai 20-*Phyllostegia renovans*-e, Kauai 20—*Melicope rostrata*—m, Kauai 20-*Stenogyne kealiae*-e, Kauai 20-*Tetraplasandra bisattenuata*-e, and Kauai 20-*Tetraplasandra flynnii*-f, (see paragraphs (a)(1)(ccclxxii), (a)(1)(ccclxxiii), (a)(1)(ccclxxiv), (a)(1)(ccclxxv), (a)(1)(ccclxxvi), (a)(1)(ccclxxvii), (a)(1)(ccclxxviii), (a)(1)(ccclxxix), (a)(1)(ccclxxx), (a)(1)(ccclxxxi), (a)(1)(ccclxxxii), (a)(1)(ccclxxxiii), (a)(1)(ccclxxxiv), (a)(1)(ccclxxxv), and (a)(1)(ccclxxxvi), respectively, of this section).
-:
+(A) This is a unit of the Lowland Wet ecosystem and consists of 65 ac (26 ha). This unit is also critical habitat for Kauai 20-*Chamaesyce remyi* var. *remyi*-m, Kauai 20-*Charpentiera densiflora*-e, Kauai 20-*Cyanea eleeleensis*-c, Kauai 20-*Cyanea kolekoleensis*-c, Kauai 20-*Cyanea kuhihewa*-c, Kauai 20-*Cyrtandra oenobarba*-h, Kauai 20-*Dubautia imbricata* ssp. *imbricata*-c, Kauai 20-*Labordia helleri*-h, Kauai 20-*Melicope paniculata*-c, Kauai 20-*Melicope puberula*-e, Kauai 20-*Phyllostegia renovans*-e, Kauai 20—*Melicope rostrata*—m, Kauai 20-*Stenogyne kealiae*-e, Kauai 20-*Tetraplasandra bisattenuata*-e, and Kauai 20-*Tetraplasandra flynnii*-f, (see paragraphs (a)(1)(ccclxxii), (a)(1)(ccclxxiii), (a)(1)(ccclxxiv), (a)(1)(ccclxxv), (a)(1)(ccclxxvi), (a)(1)(ccclxxvii), (a)(1)(ccclxxviii), (a)(1)(ccclxxix), (a)(1)(ccclxxx), (a)(1)(ccclxxxi), (a)(1)(ccclxxxii), (a)(1)(ccclxxxiii), (a)(1)(ccclxxxiv), (a)(1)(ccclxxxv), and (a)(1)(ccclxxxvi), respectively, of this section). :
 
 (B) *Note:* The reference to “Kauai 20—*Platydesma rostrata*—m” on the map is equivalent to “Kauai 20—*Melicope rostrata*—m”. Map 217c follows:
 
@@ -7579,7 +7578,7 @@ Molokai—Lowland Mesic—Unit 1, identified in the legal descriptions in paragr
 
 (vi) Understory: *Carex, Dicranopteris, Diplazium, Elaphoglossum, Peperomia.*
 
-Family GrammitidaceaeAdenophorus periens (PALAI LAAU)
+Family Grammitidaceae Adenophorus periens (PALAI LAAU)
 
 Molokai—Montane Wet—Unit 1, Molokai--Montane Wet--Unit 2, and Molokai--Montane Wet--Unit 3, identified in the legal descriptions in paragraph (c) of this section, constitute critical habitat for *Adenophorus periens* on Molokai. In units Molokai--Montane Wet--Unit 1, Molokai--Montane Wet--Unit 2, and Molokai--Montane Wet--Unit 3, the physical and biological features of critical habitat are:
 
@@ -9600,8 +9599,7 @@ Maui—Lowland Wet—Unit 2, Maui—Lowland Wet—Unit 3, Maui—Lowland Wet—U
 
 (F) Understory: Ferns, *Carex, Peperomia.*
 
-(iv) In units Maui—Wet Cliff—Unit 6, Maui—Wet Cliff—Unit
-7, and Maui—Wet Cliff—Unit 8, the physical and biological features of critical habitat are:
+(iv) In units Maui—Wet Cliff—Unit 6, Maui—Wet Cliff—Unit 7, and Maui—Wet Cliff—Unit 8, the physical and biological features of critical habitat are:
 
 (A) Elevation: Unrestricted.
 
@@ -16946,7 +16944,7 @@ Oahu—Lowland Wet—Unit 6, Oahu—Lowland Wet—Unit 7, Oahu—Lowland Wet—U
 
 (F) Understory: *Bryophytes, Ferns, Coprosma, Dubautia, Kadua, Peperomia.*
 
-FAMILY RUTACEAE*Melicope christophersenii* (ALANI)
+FAMILY RUTACEAE *Melicope christophersenii* (ALANI)
 
 Oahu—Montane Wet—Unit 1, Oahu—Wet Cliff—Unit 1, Oahu—Wet Cliff—Unit 2, Oahu—Wet Cliff—Unit 3, Oahu—Wet Cliff—Unit 4, and Oahu—Wet Cliff—Unit 5, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Melicope christophersenii* on Oahu.
 

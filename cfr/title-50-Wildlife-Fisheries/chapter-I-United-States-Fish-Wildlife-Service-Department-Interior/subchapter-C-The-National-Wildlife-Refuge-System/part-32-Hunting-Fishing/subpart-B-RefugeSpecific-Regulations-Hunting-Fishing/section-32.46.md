@@ -24,7 +24,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
-(i) We allow personally attended hook and line fishing and archery fishing (rough fish only) from1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(i) We allow personally attended hook and line fishing and archery fishing (rough fish only) from 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
 
 (ii) We prohibit the use of trotlines, float lines, bank lines, or setlines.
 
@@ -52,7 +52,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) Coyotes and all furbearers or their parts, if left in the field, must be left at least 50 yards away from any road, trail, or building. Otherwise, hunters must remove them from the refuge.
 
-(iv) Shooting hours are from1/2 hour before legal sunrise until1/2 hour after legal sunset.
+(iv) Shooting hours are from 1/2 hour before legal sunrise until 1/2 hour after legal sunset.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer, mule deer, and pronghorn antelope on designated areas of the refuge subject to the following condition: The conditions set forth at paragraphs (b)(1)(i), (iii), and (iv) of this section apply.
 
@@ -82,7 +82,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) You may only possess nontoxic shot when hunting turkey (see § 32.2(k)).
 
-(iv) Shooting hours for coyote, prairie dog, porcupine, woodchuck, and State-defined furbearers are1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(iv) Shooting hours for coyote, prairie dog, porcupine, woodchuck, and State-defined furbearers are 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
 
 (3) *Big game hunting.* We allow hunting of deer, elk, and pronghorn antelope on designated areas of the refuge subject to the following conditions:
 
@@ -116,7 +116,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) You may only possess nontoxic shot when hunting turkey (see § 32.2(k)).
 
-(iii) Shooting hours for coyote, prairie dog, porcupine, woodchuck, and State-defined furbearers are1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(iii) Shooting hours for coyote, prairie dog, porcupine, woodchuck, and State-defined furbearers are 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
 
 (3) *Big game hunting.* We allow hunting of deer, elk, and pronghorn antelope on designated areas of the refuge subject to the following conditions:
 
@@ -172,7 +172,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (g)(1)(i) through (iv) of this section apply.
 
-(ii) We allow coyote and State-defined furbearer hunting from September 1 to March 31. Shooting hours are1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(ii) We allow coyote and State-defined furbearer hunting from September 1 to March 31. Shooting hours are 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
 
 (iii) We prohibit the use of dogs to hunt coyotes.
 

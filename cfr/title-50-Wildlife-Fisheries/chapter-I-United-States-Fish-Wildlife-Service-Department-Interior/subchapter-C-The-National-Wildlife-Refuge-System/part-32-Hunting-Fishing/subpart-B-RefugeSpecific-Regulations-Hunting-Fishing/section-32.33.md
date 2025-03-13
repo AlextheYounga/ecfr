@@ -132,7 +132,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) The condition set forth at paragraph (c)(1)(iii) of this section applies.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54110, Aug. 31, 2020; 87 FR 57129, Sept. 16, 2022]Effective Date Note:At 87 FR 57129, Sept. 16, 2022, § 32.33 was further amended by adding paragraph (c)(1)(iii), effective Sept. 1, 2026. For the convenience of the user, the revised text is set forth as follows:
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54110, Aug. 31, 2020; 87 FR 57129, Sept. 16, 2022] Effective Date Note:At 87 FR 57129, Sept. 16, 2022, § 32.33 was further amended by adding paragraph (c)(1)(iii), effective Sept. 1, 2026. For the convenience of the user, the revised text is set forth as follows:
 
 ##### § 32.33 Indiana. #####
 

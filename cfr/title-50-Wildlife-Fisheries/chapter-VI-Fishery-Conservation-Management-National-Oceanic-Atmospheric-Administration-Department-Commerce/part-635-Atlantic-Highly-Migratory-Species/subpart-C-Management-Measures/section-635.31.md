@@ -40,4 +40,4 @@
 
 (2) Atlantic swordfish dealers may first receive a swordfish harvested from the Atlantic Ocean only from an owner or operator of a fishing vessel that has a valid commercial permit for swordfish issued under this part, and only if the dealer has submitted reports to NMFS according to reporting requirements of § 635.5(b)(1)(ii). Atlantic swordfish dealers may first receive a swordfish from a vessel that has pelagic longline gear onboard only if the Atlantic Tunas Longline category has not been closed, as specified in § 635.28(a)(3).
 
-[64 FR 29135, May 28, 1999]Editorial Note:For Federal Register citations affecting § 635.31, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[64 FR 29135, May 28, 1999] Editorial Note:For Federal Register citations affecting § 635.31, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

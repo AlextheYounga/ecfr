@@ -30,4 +30,4 @@ The invoice, packing list, bill of lading, or equivalent document must be secure
 
 (3) Fish or shellfish that are landed by, and offloaded from, a fishing vessel (whether or not the catch has been carried by the fishing vessel interstate), as long as the fish or shellfish remain at the place where first offloaded.
 
-(Approved by the Office of Management and Budget under control number 1018-0022)[52 FR 45341, Nov. 27, 1987, as amended at 61 FR 31871, June 21, 1996]
+(Approved by the Office of Management and Budget under control number 1018-0022) [52 FR 45341, Nov. 27, 1987, as amended at 61 FR 31871, June 21, 1996]

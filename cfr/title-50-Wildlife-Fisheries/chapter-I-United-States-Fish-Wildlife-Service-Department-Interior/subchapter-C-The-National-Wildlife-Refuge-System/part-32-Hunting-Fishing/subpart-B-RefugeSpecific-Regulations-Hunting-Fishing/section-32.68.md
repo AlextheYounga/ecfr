@@ -76,8 +76,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow fishing in designated areas from legal sunrise to legal sunset each day.
 
-(e) *Leopold Wetland Management District*—
-(1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district, except that we prohibit hunting on the Blue Wing Waterfowl Production Area (WPA) in Ozaukee County and on the Wilcox WPA in Waushara County, subject to the following conditions:
+(e) *Leopold Wetland Management District*— (1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district, except that we prohibit hunting on the Blue Wing Waterfowl Production Area (WPA) in Ozaukee County and on the Wilcox WPA in Waushara County, subject to the following conditions:
 
 (i) We allow the use of hunting dogs, provided the dog is under the immediate control of the hunter at all times.
 
@@ -229,8 +228,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) *Upper Mississippi River National Wildlife and Fish Refuge.* Refer to § 32.42(r) for regulations.
 
-(j) *Whittlesey Creek National Wildlife Refuge*—
-(1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:
+(j) *Whittlesey Creek National Wildlife Refuge*— (1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:
 
 (i) You must remove all boats, decoys, game cameras, blinds, blind materials, stands, platforms, and other personal equipment brought onto the refuge at the end of each day's hunt (see § 27.93 of this chapter). We prohibit hunting from any stand left up overnight.
 

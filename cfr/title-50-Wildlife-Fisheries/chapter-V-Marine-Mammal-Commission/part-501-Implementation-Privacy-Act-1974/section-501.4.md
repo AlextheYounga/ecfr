@@ -6,4 +6,4 @@ City of \_\_\_\_\_\_ County of \_\_\_\_\_\_\_: ss (Name of individual) who affix
 
 My Commission expires \_\_\_\_\_\_\_\_\_\_\_\_.
 
-The certificate shall not be required, however, for written requests pertaining to non-sensitive information or to information which would be required to be made available under the Freedom of Information Act. The Privacy Officer shall determine the adequacy of any proof of identity offered by an individual.[41 FR 5, Jan. 2, 1976]
+The certificate shall not be required, however, for written requests pertaining to non-sensitive information or to information which would be required to be made available under the Freedom of Information Act. The Privacy Officer shall determine the adequacy of any proof of identity offered by an individual. [41 FR 5, Jan. 2, 1976]

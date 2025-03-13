@@ -1,7 +1,6 @@
 ##### § 21.48 Permit exceptions for captive-bred migratory waterfowl other than mallard ducks. #####
 
-You may acquire captive-bred and properly marked migratory waterfowl (family Anatidae) of all species other than mallard ducks (*Anas platyrhynchos*), alive or dead, or their eggs, and possess and transport such birds or eggs and any progeny or eggs for your use without a permit, subject to the following conditions and restrictions.
-Additional restrictions on the acquisition and transfer of muscovy ducks (*Cairina moschata*) are in paragraph (g) of this section.
+You may acquire captive-bred and properly marked migratory waterfowl (family Anatidae) of all species other than mallard ducks (*Anas platyrhynchos*), alive or dead, or their eggs, and possess and transport such birds or eggs and any progeny or eggs for your use without a permit, subject to the following conditions and restrictions. Additional restrictions on the acquisition and transfer of muscovy ducks (*Cairina moschata*) are in paragraph (g) of this section.
 
 (a) You may acquire live waterfowl or their eggs only from a holder of a valid waterfowl sale and disposal permit in the United States. You also may lawfully acquire them outside of the United States with appropriate permits (*see* § 21.67 of subpart C of this part).
 

@@ -20,7 +20,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (b) *Columbia National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on designated areas of the refuge subject to the following conditions:
 
-(i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
+(i) We prohibit discharge of any firearm within 1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
 (ii) We only allow portable blinds and temporary blinds constructed of nonliving natural materials. Hunters must remove all decoys and other equipment at the end of each day's hunt (see § 27.93 of this chapter).
 
@@ -46,7 +46,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (c) *Conboy Lake National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on designated areas of the refuge subject to the following conditions:
 
-(i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
+(i) We prohibit discharge of any firearm within 1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
 (ii) Hunters must remove all decoys and other equipment at the end of each day's hunt (see § 27.93 of this chapter).
 
@@ -58,7 +58,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (e) *Hanford Reach National Monument/Saddle Mountain National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the monument/refuge subject to the following conditions:
 
-(i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
+(i) We prohibit discharge of any firearm within 1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
 (ii) Hunters must remove all decoys and other equipment at the end of each day's hunt (see § 27.93 of this chapter).
 
@@ -142,7 +142,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (h) *McNary National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
 
-(i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
+(i) We prohibit discharge of any firearm within 1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
 (ii) Hunters must remove all decoys and other equipment at the end of each day's hunt (see § 27.93 of this chapter).
 
@@ -212,7 +212,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (k) *Toppenish National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
 
-(i) We prohibit discharge of any firearm within1/4 mile (396 meters (m)) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
+(i) We prohibit discharge of any firearm within 1/4 mile (396 meters (m)) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
 (ii) We allow only portable blinds and temporary blinds constructed of nonliving natural materials. Hunters must remove all decoys and other equipment at the end of each day's hunt (see § 27.93 of this chapter).
 
@@ -278,7 +278,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (m) *Umatilla National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
 
-(i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
+(i) We prohibit discharge of any firearm within 1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
 (ii) Hunters must remove all decoys and other equipment at the end of each day's hunt (see § 27.93 of this chapter).
 

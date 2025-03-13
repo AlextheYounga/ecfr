@@ -18,7 +18,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We allow the use of dogs when hunting upland game, except that we prohibit the use of dogs when hunting coyotes and furbearers.
 
-(ii) Shooting hours for upland game species are1/2 hour before legal sunrise until legal sunset.
+(ii) Shooting hours for upland game species are 1/2 hour before legal sunrise until legal sunset.
 
 (iii) We prohibit the harvest of beaver and otter.
 
@@ -54,7 +54,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow the use of dogs when hunting upland game, except that we prohibit the use of dogs when hunting coyotes and furbearers.
 
-(iii) Shooting hours for upland game species are1/2 hour before legal sunrise until legal sunset.
+(iii) Shooting hours for upland game species are 1/2 hour before legal sunrise until legal sunset.
 
 (iv) We prohibit the harvest of beaver and otter.
 
@@ -102,7 +102,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We allow the use of dogs when hunting upland game, except that we prohibit the use of dogs when hunting coyotes and furbearers.
 
-(ii) Shooting hours for upland game species are1/2 hour before legal sunrise until legal sunset.
+(ii) Shooting hours for upland game species are 1/2 hour before legal sunrise until legal sunset.
 
 (iii) We prohibit the harvest of beaver and otter.
 
@@ -174,7 +174,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit fishing from water control structures and bridges.
 
-(v) We restrict fishing in the designated “Kid's Pond,” approximately1/4 mile (.4 kilometers) west-southwest of headquarters, to youth age 14 and younger, and to a parent and/or guardian age 18 or older accompanying a youth.
+(v) We restrict fishing in the designated “Kid's Pond,” approximately 1/4 mile (.4 kilometers) west-southwest of headquarters, to youth age 14 and younger, and to a parent and/or guardian age 18 or older accompanying a youth.
 
 (vi) The creel limit for the Kid's Pond is one fish per day.
 

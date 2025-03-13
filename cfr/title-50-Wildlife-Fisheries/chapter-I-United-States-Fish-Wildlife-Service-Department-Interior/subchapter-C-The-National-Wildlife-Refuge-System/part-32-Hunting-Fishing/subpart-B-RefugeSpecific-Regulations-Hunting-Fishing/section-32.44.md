@@ -80,7 +80,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We allow the use of dogs for waterfowl hunting, provided the dogs are under the immediate control of the hunter at all times.
 
-(ii) We allow waterfowl hunting from1/2 hour before legal sunrise until 1 p.m.
+(ii) We allow waterfowl hunting from 1/2 hour before legal sunrise until 1 p.m.
 
 (iii) You must remove boats, decoys, blinds, and blind materials brought onto the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
@@ -126,9 +126,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
-(i) Except as provided under paragraph (f)(4)(ii) of this section, we allow fishing from March 1 through September 30, from1/2 hour before legal sunrise until1/2 hour after legal sunset, on all refuge waters.
+(i) Except as provided under paragraph (f)(4)(ii) of this section, we allow fishing from March 1 through September 30, from 1/2 hour before legal sunrise until 1/2 hour after legal sunset, on all refuge waters.
 
-(ii) We allow fishing year-round from1/2 hour before legal sunrise to1/2 hour after legal sunset on Red Mill Pond, Mingo River (south of Ditch 6 Road), Stanley Creed, May Pond, Fox Pond, and Ditches 1, 2, 3, 6, 10, and 11.
+(ii) We allow fishing year-round from 1/2 hour before legal sunrise to 1/2 hour after legal sunset on Red Mill Pond, Mingo River (south of Ditch 6 Road), Stanley Creed, May Pond, Fox Pond, and Ditches 1, 2, 3, 6, 10, and 11.
 
 (iii) We allow the use of electric trolling motors outside the Mingo Wilderness.
 
@@ -138,7 +138,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) Anglers must attend trammel and gill nets at all times and plainly label them with the angler's conservation identification (ID) number.
 
-(vii) We only allow the use of trotlines, throwlines, limb lines, bank lines, and jug lines from1/2 hour before legal sunrise until1/2 hour after legal sunset. Anglers must mark each line with their conservation ID number.
+(vii) We only allow the use of trotlines, throwlines, limb lines, bank lines, and jug lines from 1/2 hour before legal sunrise until 1/2 hour after legal sunset. Anglers must mark each line with their conservation ID number.
 
 (viii) We allow the take of common snapping turtle and soft-shelled turtle using only pole and line. We require all anglers to immediately release all alligator snapping turtles.
 

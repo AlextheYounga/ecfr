@@ -6,7 +6,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions.
 
-(ii) We allow hunting for duck, goose, coot, and merganser from1/2 hour before legal sunrise to 12 p.m. (noon). We allow hunters to access the refuge no more than 2 hours before legal sunrise.
+(ii) We allow hunting for duck, goose, coot, and merganser from 1/2 hour before legal sunrise to 12 p.m. (noon). We allow hunters to access the refuge no more than 2 hours before legal sunrise.
 
 (iii) We close mourning dove, woodcock, and snipe seasons during all youth and muzzleloader hunts, and during the first 4 weeks of firearms deer seasons.
 
@@ -68,7 +68,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-(i) We allow fishing on the refuge pools and reservoirs from March 16 through November 14, from1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(i) We allow fishing on the refuge pools and reservoirs from March 16 through November 14, from 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
 
 (ii) We prohibit trotlines, limblines, jugs, and slat baskets in refuge pools and impoundments and on Elk Reservoir and South Cross Creeks Reservoir.
 
@@ -80,7 +80,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions.
 
-(ii) We allow hunting for duck, goose, coot, and merganser from1/2 hour before legal sunrise until 12 p.m. (noon). We allow hunters to access the refuge no earlier than 2 hours before legal sunrise.
+(ii) We allow hunting for duck, goose, coot, and merganser from 1/2 hour before legal sunrise until 12 p.m. (noon). We allow hunters to access the refuge no earlier than 2 hours before legal sunrise.
 
 (iii) We close mourning dove, woodcock, and snipe seasons during all quota gun and youth deer gun hunts.
 
@@ -140,7 +140,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions.
 
-(ii) We allow hunting for duck, goose, coot, and merganser from1/2 hour before legal sunrise to 12 p.m. (noon). We allow hunters to access the refuge no earlier than 2 hours before legal sunrise.
+(ii) We allow hunting for duck, goose, coot, and merganser from 1/2 hour before legal sunrise to 12 p.m. (noon). We allow hunters to access the refuge no earlier than 2 hours before legal sunrise.
 
 (iii) We close mourning dove, woodcock, and snipe seasons all youth and muzzleloader hunts, and during the first 4 weeks of firearms deer seasons.
 
@@ -234,7 +234,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We allow fishing in Swamp Creek, Sulphur Well Bay, and Bennetts Creek from March 16 through November 14. We open the remainder of the refuge portion of Kentucky Lake to fishing year-round. We allow bank fishing year-round along Refuge Lane from the New Johnsonville Pump Station.
 
-(ii) We allow fishing on interior refuge impoundments from1/2 hour before legal sunrise to1/2 hour after legal sunset from March 16 to November 14.
+(ii) We allow fishing on interior refuge impoundments from 1/2 hour before legal sunrise to 1/2 hour after legal sunset from March 16 to November 14.
 
 (iii) We prohibit taking frog, turtle, and crawfish on the refuge (see § 27.21 of this chapter).
 

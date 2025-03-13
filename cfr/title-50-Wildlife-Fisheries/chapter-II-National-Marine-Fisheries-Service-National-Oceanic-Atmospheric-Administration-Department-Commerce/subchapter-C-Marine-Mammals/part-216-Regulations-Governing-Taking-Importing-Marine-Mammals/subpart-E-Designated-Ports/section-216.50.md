@@ -4,11 +4,11 @@
 
 (b) For the information of importers, designated ports of entry for the United States are:
 
-New York, N.Y.Miami, Fla.Chicago, Ill.San Francisco, Calif.Los Angeles, Calif.New Orleans, La.Seattle, Wash.Honolulu, Hi.
+New York, N.Y. Miami, Fla. Chicago, Ill. San Francisco, Calif. Los Angeles, Calif. New Orleans, La. Seattle, Wash. Honolulu, Hi.
 
 (c) Additionally, marine mammals or marine mammal products which are entered into Alaska, Hawaii, Puerto Rico, Guam, American Samoa or the Virgin Islands and which are not to be forwarded or transhipped within the United States may be imported through the following ports:
 
-Alaska—Juneau, Anchorage, FairbanksHawaii—HonoluluPuerto Rico—San JuanGuam—Honolulu, Hi.American Samoa—Honolulu, Hi.Virgin Islands—San Juan, P.R.
+Alaska—Juneau, Anchorage, Fairbanks Hawaii—Honolulu Puerto Rico—San Juan Guam—Honolulu, Hi. American Samoa—Honolulu, Hi. Virgin Islands—San Juan, P.R.
 
 (d) Importers are advised to see 50 CFR part 14 for importation requirements and information.
 

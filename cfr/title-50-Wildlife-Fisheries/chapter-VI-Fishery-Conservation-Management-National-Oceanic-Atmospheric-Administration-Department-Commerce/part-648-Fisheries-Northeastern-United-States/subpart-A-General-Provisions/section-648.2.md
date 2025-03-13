@@ -240,7 +240,7 @@ Bay scallop—*Aequipecten irradians.*Blood arc clam—*Anadara ovalis.*Blood wo
 
 *Liner* means a piece of mesh or any other material rigged inside or outside the main or outer net or dredge that restricts the mesh or ring size or otherwise reduces escapement.
 
-*Link,* with respect to the sea scallop fishery, means the material, usually made of a3/8-inch (10-mm) or7/16-inch (11-mm) diameter metal rod, that joins two adjacent rings within the ring bag of a dredge.
+*Link,* with respect to the sea scallop fishery, means the material, usually made of a 3/8-inch (10-mm) or 7/16-inch (11-mm) diameter metal rod, that joins two adjacent rings within the ring bag of a dredge.
 
 *Little tunny* means *Euthynnus alleteratus.*
 
@@ -594,7 +594,7 @@ Yellowtail flounder—*Pleuronectes ferruginea.*
 
 *Roundfish gillnets* means gillnets that are constructed with floats on the float line and that have no tie-down twine between the float line and the lead line.
 
-*Runaround gillnet or encircling gillnet* means a rectangular net placed upright in the water column in a circular fashion with an opening equal to or less than1/4 the length of the net or with an opening greater than1/4 the length of the net, if the opening is obstructed in any fashion.
+*Runaround gillnet or encircling gillnet* means a rectangular net placed upright in the water column in a circular fashion with an opening equal to or less than 1/4 the length of the net or with an opening greater than 1/4 the length of the net, if the opening is obstructed in any fashion.
 
 *Scallop dredge vessel* means any fishing vessel, other than a combination vessel, that uses or is equipped to use scallop dredge gear.
 

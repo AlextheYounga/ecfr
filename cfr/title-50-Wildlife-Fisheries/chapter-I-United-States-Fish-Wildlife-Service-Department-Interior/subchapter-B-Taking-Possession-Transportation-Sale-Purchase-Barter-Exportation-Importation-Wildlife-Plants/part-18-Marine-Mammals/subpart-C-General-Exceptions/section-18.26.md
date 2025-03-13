@@ -1,6 +1,6 @@
 ##### § 18.26 Collection of certain dead marine mammal parts. #####
 
-(a) Any bones, teeth or ivory of any dead marine mammal may be collected from a beach or from land within1/4 of a mile of the ocean. The term “ocean” includes bays and estuaries.
+(a) Any bones, teeth or ivory of any dead marine mammal may be collected from a beach or from land within 1/4 of a mile of the ocean. The term “ocean” includes bays and estuaries.
 
 (b) Marine mammal parts so collected may be retained if registered within 30 days with an agent of the National Marine Fisheries Service, or an agent of the U.S. Fish and Wildlife Service.
 

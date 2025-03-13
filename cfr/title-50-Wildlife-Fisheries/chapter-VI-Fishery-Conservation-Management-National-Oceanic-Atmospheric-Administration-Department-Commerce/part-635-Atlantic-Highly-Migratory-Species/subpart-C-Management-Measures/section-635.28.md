@@ -86,4 +86,4 @@
 
 (d) *Northern albacore tuna.* When the annual fishery quota specified in § 635.27(e) is reached, or is projected to be reached, NMFS will file a closure action with the Office of the Federal Register for publication. When the fishery for Northern albacore tuna is closed, Northern albacore tuna may not be retained. If the Atlantic Tunas Longline category quota is closed as specified in paragraph (a)(3) of this section, vessels that have pelagic longline gear on board cannot possess or land any Northern albacore tuna.
 
-[64 FR 29135, May 28, 1999]Editorial Note:For Federal Register citations affecting § 635.28, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[64 FR 29135, May 28, 1999] Editorial Note:For Federal Register citations affecting § 635.28, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

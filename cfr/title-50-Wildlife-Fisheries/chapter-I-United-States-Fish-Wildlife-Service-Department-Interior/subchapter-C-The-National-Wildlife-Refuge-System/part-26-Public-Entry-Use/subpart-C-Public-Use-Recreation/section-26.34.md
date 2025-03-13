@@ -24,7 +24,7 @@ The following refuge units, listed in alphabetical order by State and unit name,
 
 (ii) We designate all refuge waters as wakeless speed zones (as governed by State law) as indicated by signs or regulatory buoys.
 
-(iii) The nonmotorized watercraft launch and Central Arizona Project (CAP) peninsula are day-use only areas and are open from1/2 hour before legal sunrise to1/2 hour after legal sunset. We allow fishing and the launching of watercraft at these and other areas 24 hours a day.
+(iii) The nonmotorized watercraft launch and Central Arizona Project (CAP) peninsula are day-use only areas and are open from 1/2 hour before legal sunrise to 1/2 hour after legal sunset. We allow fishing and the launching of watercraft at these and other areas 24 hours a day.
 
 (iv) We prohibit the possession or consumption of open containers of alcohol or the possession of glass beverage containers in improved areas, including the nonmotorized watercraft launch and the CAP peninsula.
 
@@ -50,7 +50,7 @@ The following refuge units, listed in alphabetical order by State and unit name,
 
 (A) We prohibit entry of all motorized watercraft in all three bays of the Mesquite Bay areas as indicated by signs or regulatory buoys.
 
-(B) Improved areas are day-use only and are open from1/2 hour before legal sunrise to1/2 hour after legal sunset. We allow fishing and launching watercraft at these and other areas 24 hours a day.
+(B) Improved areas are day-use only and are open from 1/2 hour before legal sunrise to 1/2 hour after legal sunset. We allow fishing and launching watercraft at these and other areas 24 hours a day.
 
 (C) We prohibit the possession of open containers of alcohol or the possession of glass beverage containers in improved areas.
 
@@ -226,7 +226,7 @@ The following refuge units, listed in alphabetical order by State and unit name,
 
 (j) [Reserved]
 
-(k) *Idaho*—(1) *Deer Flat National Wildlife Refuge.* (i) From April 15 through September 30, we allow motorized and nonmotorized boats from1/2 hour before legal sunrise to1/2 hour after legal sunset throughout the Lake Lowell Unit.
+(k) *Idaho*—(1) *Deer Flat National Wildlife Refuge.* (i) From April 15 through September 30, we allow motorized and nonmotorized boats from 1/2 hour before legal sunrise to 1/2 hour after legal sunset throughout the Lake Lowell Unit.
 
 (ii) [Reserved]
 
@@ -316,9 +316,9 @@ The following refuge units, listed in alphabetical order by State and unit name,
 
 (3) *Big Branch Marsh National Wildlife Refuge.* (i) We prohibit air-thrust boats, aircraft, mud boats, and air-cooled propulsion engines on the refuge.
 
-(ii) We open the refuge to public entry from1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(ii) We open the refuge to public entry from 1/2 hour before legal sunrise to 1/2 hour after legal sunset.
 
-(4) *Black Bayou National Wildlife Refuge.* (i) You may enter the refuge1/2 hour before legal sunrise, and you must exit no later than1/2 hour after legal sunset.
+(4) *Black Bayou National Wildlife Refuge.* (i) You may enter the refuge 1/2 hour before legal sunrise, and you must exit no later than 1/2 hour after legal sunset.
 
 (ii) You may only launch boats at the concrete ramp adjacent to the visitor center. We prohibit launching boats with motors greater than 50 horsepower.
 
@@ -764,7 +764,7 @@ The following refuge units, listed in alphabetical order by State and unit name,
 
 (ii) We prohibit overnight parking.
 
-(6) *Upper Klamath National Wildlife Refuge.* (i) Motorized boats must not exceed 10 miles per hour in any stream, creek, or canal, and on that portion of Pelican Bay west of a line beginning at designated points on the north shore of Pelican Bay1/4 mile (402 meters) east of Crystal Creek and extending due south to the opposite shore of the lake.
+(6) *Upper Klamath National Wildlife Refuge.* (i) Motorized boats must not exceed 10 miles per hour in any stream, creek, or canal, and on that portion of Pelican Bay west of a line beginning at designated points on the north shore of Pelican Bay 1/4 mile (402 meters) east of Crystal Creek and extending due south to the opposite shore of the lake.
 
 (ii) [Reserved]
 
@@ -1034,4 +1034,4 @@ The following refuge units, listed in alphabetical order by State and unit name,
 
 (xx) *Information collection requirements.* The information collection requirements contained in this section have been approved by the Office of Management and Budget (OMB) under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1018-0140. The information is being collected to provide the refuge managers the information needed to decide whether or not to allow the requested use. A response is required in order to obtain a benefit. The Service may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number. Direct comments regarding the burden estimate or any other aspect of these information collection requirements to the Service's Information Collection Clearance Officer at the address provided at 50 CFR 2.1(b).
 
-[84 FR 47660, Sept. 10, 2019]Editorial Note:For Federal Register citations to regulations affecting temporary and special regulations on national wildlife refuges, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[84 FR 47660, Sept. 10, 2019] Editorial Note:For Federal Register citations to regulations affecting temporary and special regulations on national wildlife refuges, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

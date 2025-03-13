@@ -64,15 +64,15 @@ Regulations pertaining to vessel and gear markings are set forth in this section
 
 (i) *Kodiak Test Area.*
 
-57°37′ N. lat., 152°02′ W. long.57°37′ N. lat., 151°25′ W. long.57°23′ N. lat., 151°25′ W. long.57°23′ N. lat., 152°02′ W. long.57°37′ N. lat., 152°02′ W. long.
+57°37′ N. lat., 152°02′ W. long. 57°37′ N. lat., 151°25′ W. long. 57°23′ N. lat., 151°25′ W. long. 57°23′ N. lat., 152°02′ W. long. 57°37′ N. lat., 152°02′ W. long.
 
 (ii) *Sand Point Test Area.*
 
-54°50′ N. lat., 161°00′ W. long.54°50′ N. lat., 160°30′ W. long.54°35′ N. lat., 160°30′ W. long.54°35′ N. lat., 161°00′ W. long.54°50′ N. lat., 161°00′ W. long.
+54°50′ N. lat., 161°00′ W. long. 54°50′ N. lat., 160°30′ W. long. 54°35′ N. lat., 160°30′ W. long. 54°35′ N. lat., 161°00′ W. long. 54°50′ N. lat., 161°00′ W. long.
 
 (iii) *Bering Sea Test Area.*
 
-55°00′ N. lat., 167°00′ W. long.55°00′ N. lat., 166°00′ W. long.54°40′ N. lat., 166°00′ W. long.54°40′ N. lat., 167°00′ W. long.55°00′ N. lat., 167°00′ W. long.
+55°00′ N. lat., 167°00′ W. long. 55°00′ N. lat., 166°00′ W. long. 54°40′ N. lat., 166°00′ W. long. 54°40′ N. lat., 167°00′ W. long. 55°00′ N. lat., 167°00′ W. long.
 
 (e) *Seabird avoidance program for vessels fishing with hook-and-line gear*—(1) *Applicability.* The operator of a vessel that is longer than 26 ft (7.9 m) LOA fishing with hook-and-line gear must comply with the seabird avoidance requirements as specified in paragraphs (e)(2) and (e)(3) of this section while fishing for any of the following species:
 
@@ -166,7 +166,7 @@ Regulations pertaining to vessel and gear markings are set forth in this section
 
 (*6*) Have individual streamers that hang attached to the mainline to 9.8 in (0.25 m) above the waterline in the absence of wind.
 
-(*7*) Have streamers constructed of material that is brightly colored, UV-protected plastic tubing or3/8 inch polyester line or material of an equivalent density.
+(*7*) Have streamers constructed of material that is brightly colored, UV-protected plastic tubing or 3/8 inch polyester line or material of an equivalent density.
 
 (iv) *Snap gear streamer standard:* (A) For vessels using snap gear, a single streamer line must:
 

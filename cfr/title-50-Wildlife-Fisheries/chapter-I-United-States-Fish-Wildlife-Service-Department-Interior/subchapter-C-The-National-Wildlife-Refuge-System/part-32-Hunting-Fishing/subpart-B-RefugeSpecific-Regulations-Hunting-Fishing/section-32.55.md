@@ -6,7 +6,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) You must possess and carry a signed refuge hunt brochure.
 
-(ii) We allow waterfowl hunting on Fridays, Saturdays, Sundays, and Mondays, from1/2 hour before legal sunrise until 1 p.m.
+(ii) We allow waterfowl hunting on Fridays, Saturdays, Sundays, and Mondays, from 1/2 hour before legal sunrise until 1 p.m.
 
 (iii) You may only use portable blinds or blinds constructed of natural dead vegetation. You must remove blinds, decoys, stands, and all personal equipment at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
@@ -44,7 +44,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) You may only use portable blinds. You must remove blinds, decoys, and all personal equipment from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
-(ii) You may hunt from1/2 hour before legal sunrise until 12 p.m. (noon) each day.
+(ii) You may hunt from 1/2 hour before legal sunrise until 12 p.m. (noon) each day.
 
 (iii) You must possess and carry a signed refuge hunt brochure while hunting.
 
@@ -116,7 +116,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (e) *Salt Plains National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, American coot, sandhill crane, mourning dove, white-winged dove, Eurasian collared dove, and rock dove on designated areas of the refuge subject to the following conditions:
 
-(i) We allow hunting from1/2 hour before legal sunrise until 12 p.m. (noon).
+(i) We allow hunting from 1/2 hour before legal sunrise until 12 p.m. (noon).
 
 (ii) We open public hunting areas to all access 2 hours prior to legal shooting time, and close those areas at 12 p.m. (noon).
 
@@ -286,7 +286,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit waterfowl hunting during the refuge controlled elk and deer hunts.
 
-(iii) We allow waterfowl hunting from1/2 hour before legal sunrise until 1 p.m.
+(iii) We allow waterfowl hunting from 1/2 hour before legal sunrise until 1 p.m.
 
 (iv) We allow the use of hunting dogs only for waterfowl hunting.
 

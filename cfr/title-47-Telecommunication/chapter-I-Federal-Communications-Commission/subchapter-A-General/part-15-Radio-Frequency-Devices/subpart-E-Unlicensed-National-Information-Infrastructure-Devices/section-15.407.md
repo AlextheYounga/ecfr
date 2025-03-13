@@ -1,5 +1,7 @@
 ##### § 15.407 General technical requirements. #####
 
+Link to an amendment published at 90 FR 11388, Mar. 6, 2025.
+
 (a) *Power limits:*
 
 (1) (i) For an outdoor access point operating in the band 5.15-5.25 GHz, the maximum conducted output power over the frequency band of operation shall not exceed 1 W provided the maximum antenna gain does not exceed 6 dBi. In addition, the maximum power spectral density shall not exceed 17 dBm in any 1 megahertz band. If transmitting antennas of directional gain greater than 6 dBi are used, both the maximum conducted output power and the maximum power spectral density shall be reduced by the amount in dB that the directional gain of the antenna exceeds 6 dBi. The maximum e.i.r.p. at any elevation angle above 30 degrees as measured from the horizon must not exceed 125 mW (21 dBm).

@@ -92,4 +92,4 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (ss) Deploy or redeploy a FAD in the IATTC Convention Area that fails to comply with the FAD design requirements in § 300.28(g) and (h).
 
-[61 FR 35550, July 5, 1996]Editorial Note:For Federal Register citations affecting § 300.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[61 FR 35550, July 5, 1996] Editorial Note:For Federal Register citations affecting § 300.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
