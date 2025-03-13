@@ -4,6 +4,4 @@
 
 (b) The Secretary's designation may authorize an accrediting entity to accredit agencies, to approve persons, or to both accredit agencies and approve persons. The designation may also limit the accrediting entity's geographic jurisdiction or impose other limits on the entity's jurisdiction.
 
-(c) A public entity may only be designated to accredit agencies and approve persons that are located in the public entity's State.
-
-[71 FR 8131, Feb. 15, 2006, as amended at 79 FR 40633, July 14, 2014]
+(c) A public entity under § 96.5(b) may only be designated to accredit agencies and approve persons that are located in the public entity's State.

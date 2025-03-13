@@ -37,5 +37,3 @@
 (1) Ensure that an order declaring the adoption as final is sought by the prospective adoptive parent(s), and in Convention adoptions is entered in compliance with section 301(c) of the IAA (42 U.S.C. 14931(c)); and
 
 (2) Notify the Secretary of the finalization of the adoption within thirty days of the entry of the order.
-
-[71 FR 8131, Feb. 15, 2006, as amended at 79 FR 40635, July 14, 2014]

@@ -1,5 +1,7 @@
 ##### § 95.303 Definitions. #####
 
+Link to an amendment published at 90 FR 1400, Jan. 8, 2025.
+
 The following terms and definitions apply only to the rules in this part.
 
 *Antenna.* A device that converts radio frequency electrical energy from a transmitter to radiated electromagnetic energy.

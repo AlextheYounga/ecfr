@@ -47,5 +47,3 @@
 (g) The agency or person exempts prospective adoptive parent(s) from all or part of the training and preparation that would normally be required for a specific adoption only when the agency or person determines that the prospective adoptive parent(s) have received adequate prior training or have prior experience as parent(s) of children adopted from abroad.
 
 (h) The agency or person records the nature and extent of the training and preparation provided to the prospective adoptive parent(s) in the adoption record.
-
-[71 FR 8131, Feb. 15, 2006, as amended at 79 FR 40635, July 14, 2014]

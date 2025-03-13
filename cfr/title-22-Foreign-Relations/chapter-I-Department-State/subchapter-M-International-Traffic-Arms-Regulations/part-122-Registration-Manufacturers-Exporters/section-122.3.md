@@ -1,11 +1,13 @@
 ##### § 122.3 Registration fees. #####
 
-Link to an amendment published at 89 FR 99085, Dec. 10, 2024.
+(a) *Registration fee.* A person who is required to register must submit payment of a fee following the payment guidelines available on the Directorate of Defense Trade Controls website at *www.pmddtc.state.gov.* The fee to be paid shall be one of the following:
 
-(a) *Frequency of registration and fee.* A person who is required to register must do so on an annual basis by submitting a completed Statement of Registration (form DS-2032) and payment of a fee following the payment guidelines available on the Directorate of Defense Trade Controls Web site at *www.pmddtc.state.gov.* For those renewing a registration, notice of the fee due for the next year's registration will be sent to the registrant of record at least 60 days prior to its expiration date.
+(1) *Tier 1.* The first tier is a set fee of $3,000 per year. This applies to new registrants. It also applies to those who are renewing their registrations and for whom the Department did not issue a favorable determination on a license application or other request for authorization during the 12-month period ending 90 days prior to the expiration of the current registration.
 
-(b) *Expiration of registration.* A registrant must submit its request for registration renewal at least 30 days but no earlier than 60 days prior to the expiration date.
+(2) *Tier 2.* The second tier is a set fee of $4,000 for registrants renewing their registrations who have submitted license applications or other requests for authorization and received five or fewer favorable determinations during the 12-month period ending 90 days prior to the expiration of their current registration.
 
-(c) *Lapse in registration.* A registrant who fails to renew a registration and, after an intervening period, seeks to register again must pay registration fees for any part of such intervening period during which the registrant engaged in the business of manufacturing or exporting defense articles or defense services.
+(3) *Tier 3.* The third tier is a calculated fee for registrants who have submitted license applications or other requests for authorization and received more than five favorable determinations during the 12-month period ending 90 days prior to the expiration of their current registration. For these registrants, the fee calculation is $4,000 plus $1,100 times the total number of favorable determinations over five.
 
-[58 FR 39298, July 22, 1993, as amended at 62 FR 27497, May 20, 1997; 69 FR 70889, Dec. 8, 2004; 70 FR 50959, Aug. 29, 2005; 73 FR 41259, July 18, 2008; 73 FR 55440, Sept. 25, 2008; 76 FR 45197, July 28, 2011; 78 FR 52687, Aug. 26, 2013]
+(b) *Website, discounts, and further guidance.* Information on certain discounts for registrants who are wholly exempt from income tax pursuant to 26 U.S.C. 501(c)(3), and for Tier 3 registrants who are low-value exporters or temporary importers are available on the Directorate of Defense Trade Controls website at *www.pmddtc.state.gov* by selecting “Conduct Business” on the top heading bar, then selecting “Registration” from the left menu bar, and finally selecting “Payment of Registration” from the subsequent left menu bar. Other guidance and information relevant to the payment of registration fees is also available on the website.
+
+[89 FR 99085, Dec. 10, 2024]

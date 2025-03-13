@@ -1,5 +1,7 @@
 ##### § 2.1055 Measurements required: Frequency stability. #####
 
+Link to an amendment published at 90 FR 1395, Jan. 8, 2025.
+
 (a) The frequency stability shall be measured with variation of ambient temperature as follows:
 
 (1) From −30° to + 50° centigrade for all equipment except that specified in paragraphs (a) (2) and (3) of this section.

@@ -1,5 +1,7 @@
 ##### § 1.924 Quiet zones. #####
 
+Link to an amendment published at 90 FR 1395, Jan. 8, 2025.
+
 Areas implicated by this paragraph are those in which it is necessary to restrict radiation so as to minimize possible impact on the operations of radio astronomy or other facilities that are highly sensitive to interference. Consent throughout this paragraph means written consent from the quiet zone, radio astronomy, research, and receiving installation entity. The areas involved and procedures required are as follows:
 
 (a) *NRAO, NRRO.* The requirements of this paragraph are intended to minimize possible interference at the National Radio Astronomy Observatory site located at Green Bank, Pocahontas County, West Virginia, and at the Naval Radio Research Observatory site at Sugar Grove, Pendleton County, West Virginia.

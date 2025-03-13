@@ -1,5 +1,7 @@
 ##### § 0.241 Authority delegated. #####
 
+Link to an amendment published at 90 FR 1394, Jan. 8, 2025.
+
 (a) The performance of functions and activities described in § 0.31 is delegated to the Chief of the Office of Engineering and Technology: Provided that the following matters shall be referred to the Commission en banc for disposition:
 
 (1) Notice of proposed rulemaking and of inquiry and final orders in rulemaking proceedings, inquiry proceedings and non-editorial orders making changes, except that:

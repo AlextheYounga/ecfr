@@ -8,7 +8,7 @@
 
 (3) Overseeing accredited agencies and/or approved persons by monitoring their compliance with applicable requirements;
 
-(4) Investigating and responding to complaints about accredited agencies and approved persons (including their use of supervised providers);
+(4) Reviewing and responding to complaints about accredited agencies and approved persons (including their use of supervised providers);
 
 (5) Taking adverse action against an accredited agency or approved person, and/or referring an accredited agency or approved person for possible action by the Secretary;
 
@@ -18,12 +18,12 @@
 
 (8) Assisting the Secretary in taking appropriate action to help an agency or person in transferring its intercountry adoption cases and adoption records.
 
+(9) Maintaining all records related to its role as an accrediting entity for a period of at least ten years, or longer if otherwise set forth in its agreement with the Secretary.
+
 (b) The Secretary may require the accrediting entity:
 
 (1) To utilize the Complaint Registry as provided in subpart J of this part; and
 
 (2) To fund a portion of the costs of operating the Complaint Registry with fees collected by the accrediting entity pursuant to the schedule of fees approved by the Secretary as provided in § 96.8.
 
-(c) An accrediting entity must perform all responsibilities in accordance with the Convention, the IAA, the UAA, the regulations implementing the IAA or UAA, and its agreement with the Secretary.
-
-[71 FR 8131, Feb. 15, 2006, as amended at 79 FR 40633, July 14, 2014]
+(c) An accrediting entity must perform all responsibilities in accordance with the Convention, the IAA, the UAA, the regulations implementing the IAA and the UAA, and its agreement with the Secretary.

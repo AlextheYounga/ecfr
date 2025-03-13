@@ -10,13 +10,13 @@
 
 (3) It otherwise facilitates, as requested, the Secretary's ability to provide the certification that the child has been adopted or that custody has been granted for the purpose of adoption, in accordance with the Convention and the IAA.
 
-(c) Where the transfer of the child does not take place, the agency or person returns the home study on the prospective adoptive parent(s) and/or the child background study to the authorities that forwarded them.
+(c) When transfer of the child does not take place, the agency or person must consider the specific requirements, if any, of competent authorities in either the State or in the receiving country and the preference of the prospective adoptive parents in its determination of the disposition of the home study on the prospective adoptive parent(s) and/or the child background study.
 
 (d) The agency or person provides to the State court with jurisdiction over the adoption:
 
 (1) Proof that consents have been given as required in § 96.53(c);
 
-(2) An English copy or certified English translation of the home study on the prospective adoptive parent(s) in the Convention country, and the determination by the agency or person that the placement with the prospective adoptive parent(s) is in the child's best interests;
+(2) A copy in English or certified English translation of the home study on the prospective adoptive parent(s) in the Convention country, and the determination by the agency or person that the placement with the prospective adoptive parent(s) is in the child's best interests;
 
 (3) Evidence that the prospective adoptive parent(s) in the Convention country agree to the adoption;
 
@@ -26,4 +26,4 @@
 
 (e) The agency or person makes the showing required by § 96.54(b) to the State court with jurisdiction over the adoption.
 
-(f) The agency or person takes all necessary and appropriate measures to perform any tasks in a Convention adoption case that the Secretary identifies are required to comply with the Convention, the IAA, or any regulations implementing the IAA.
+(f) The agency or person takes all necessary and appropriate measures to perform any tasks in a Convention adoption case that the Secretary has identified, consistent with this Part, as required to comply with the Convention, the IAA, or any regulations implementing the IAA.

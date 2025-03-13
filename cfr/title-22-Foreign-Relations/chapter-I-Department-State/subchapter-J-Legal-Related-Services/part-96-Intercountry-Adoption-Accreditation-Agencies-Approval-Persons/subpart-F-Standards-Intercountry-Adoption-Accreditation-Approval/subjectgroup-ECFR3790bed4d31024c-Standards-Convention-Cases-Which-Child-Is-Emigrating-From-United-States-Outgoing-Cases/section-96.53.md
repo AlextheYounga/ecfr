@@ -4,7 +4,7 @@
 
 (1) Information that demonstrates that consents were obtained in accordance with paragraph (c) of this section;
 
-(2) Information that demonstrates consideration of the child's wishes and opinions in accordance with paragraph (d) of this section and;
+(2) Information that demonstrates consideration of the child's wishes and opinions in accordance with paragraph (d) of this section; and
 
 (3) Information that confirms that the child background study was prepared either by an exempted provider or by an individual who meets the requirements set forth in § 96.37(g).
 
@@ -24,8 +24,6 @@
 
 (6) The child's consent, where required, has been given freely, in the required legal form, and expressed or evidenced in writing and not induced by payment or compensation of any kind.
 
-(d) If the child is twelve years of age or older, or as otherwise provided by State law, the agency or person gives due consideration to the child's wishes or opinions before determining that an intercountry placement is in the child's best interests.
+(d) If the child is 12 years of age or older, or as otherwise provided by State law, the agency or person gives due consideration to the child's wishes or opinions before determining that an intercountry placement is in the child's best interests.
 
 (e) The agency or person prior to the child's adoption takes all appropriate measures to transmit to the Central Authority or other competent authority or accredited bodies of the Convention country the child background study, proof that the necessary consents have been obtained, and the reasons for its determination that the placement is in the child's best interests. In doing so, the agency or person, as required by Article 16(2) of the Convention, does not reveal the identity of the mother or the father if these identities may not be disclosed under State law.
-
-[71 FR 8131, Feb. 15, 2006, as amended at 79 FR 40635, July 14, 2014]

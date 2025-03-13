@@ -18,7 +18,7 @@
 
 (c) The agency or person does not give preferential treatment to its board members, contributors, volunteers, employees, agents, consultants, or independent contractors with respect to the placement of children for adoption and has a written policy to this effect.
 
-(d) The agency or person requires a client to sign a waiver of liability as part of the adoption service contract only where that waiver complies with applicable State law. Any waiver required is limited and specific, based on risks that have been discussed and explained to the client in the adoption services contract.
+(d) The agency or person requires a client to sign a waiver of liability as part of the adoption service contract only where that waiver complies with applicable State law and these regulations. Any waiver required is limited and specific, based on risks that have been discussed and explained to the client in the adoption services contract.
 
 (e) The agency or person cooperates with reviews, inspections, and audits by the accrediting entity or the Secretary.
 

@@ -34,13 +34,13 @@ As used in this part, the term:
 
 *Approved person* means a person that has been approved, in accordance with the standards in subpart F of this part, by an accrediting entity to provide adoption services in the United States in intercountry adoption cases.
 
-*Best interests of the child* shall have the meaning given to it by the law of the State with jurisdiction to decide whether a particular adoption or adoption-related action is in a child's best interests.
+*Best interests of the child,* in cases in which a State has jurisdiction to decide whether a particular adoption or adoption-related action is in a child's best interests, shall have the meaning given to it by the law of the State. In all other cases, including any case in which a child is outside the United States at the time the ASP considers the best interests of the child in connection with any decision or action, best interests of the child shall be interpreted in light of the object and purpose of the Convention, the IAA, the UAA, and their implementing regulations.
 
 *Case Registry* means the tracking system jointly established by the Secretary and DHS to comply with section 102(e) of the IAA (42 U.S.C. 14912).
 
-*Central Authority* means the entity designated as such under Article 6(1) of the Convention by any Convention country, or, in the case of the United States, the United States Department of State. In countries that are not Convention countries, *Central Authority* means the relevant “competent authority” as defined in this section.
+*Central Authority* means the entity designated as such under Article 6(1) of the Convention by any Convention country, or, in the case of the United States, the United States Department of State. In countries that are not Convention countries, Central Authority means the relevant “competent authority” as defined in this section.
 
-*Child welfare services* means services, other than those defined as “adoption services” in this section, that are designed to promote and protect the well-being of a family or child. Such services include, but are not limited to, recruiting and identifying adoptive parent(s) in cases of disruption (but not assuming custody of the child), arranging or providing temporary foster care for a child in connection with an intercountry adoption or providing educational, social, cultural, medical, psychological assessment, mental health, or other health-related services for a child or family in an intercountry adoption case.
+*Child welfare services* means services, other than those defined as “adoption services” in this section, that are designed to promote and protect the well-being of a family or child. Such services include, but are not limited to, providing temporary foster care for a child in connection with an intercountry adoption or providing educational, social, cultural, medical, psychological assessment, mental health, or other health-related services for a child or family in an intercountry adoption case.
 
 *Competent authority* means a court or governmental authority of a foreign country that has jurisdiction and authority to make decisions in matters of child welfare, including adoption.
 
@@ -56,7 +56,7 @@ As used in this part, the term:
 
 *Debarment* means the loss of accreditation or approval by an agency or person as a result of an order of the Secretary under which the agency or person is temporarily or permanently barred from accreditation or approval.
 
-*DHS* means the Department of Homeland Security and encompasses the former Immigration and Naturalization Service (INS) or any successor entity designated by the Secretary of Homeland Security to assume the functions vested in the Attorney General by the IAA relating to the INS's responsibilities.
+*DHS* means the U.S. Department of Homeland Security and encompasses the former Immigration and Naturalization Service (INS) or any successor entity designated by the Secretary of Homeland Security to assume the functions vested in the Attorney General by the IAA relating to the INS's responsibilities.
 
 *Disruption* means the interruption of a placement for adoption during the post-placement period.
 
@@ -68,11 +68,11 @@ As used in this part, the term:
 
 *INA* means the Immigration and Nationality Act (8 U.S.C. 1101 *et seq.*), as amended.
 
-*Intercountry adoption* means a Convention adoption or the adoption of a child described in INA section 101(b)(1)(F).
+*Intercountry adoption* means a Convention adoption of a child described in INA section 101(b)(1)(G) or the adoption of a child described in INA section 101(b)(1)(F).
 
 *Legal custody* means having legal responsibility for a child under the order of a court of law, a public domestic authority, competent authority, public foreign authority, or by operation of law.
 
-*Legal services* means services, other than those defined in this section as “adoption services,” that relate to the provision of legal advice and information and to the drafting of legal instruments. Such services include, but are not limited to, drawing up contracts, powers of attorney, and other legal instruments; providing advice and counsel to adoptive parent(s) on completing DHS or Central Authority forms; and providing advice and counsel to accredited agencies, approved persons, or prospective adoptive parent(s) on how to comply with the Convention, the IAA, the UAA, and the regulations implementing the IAA or UAA.
+*Legal services* means services, other than those defined in this section as “adoption services,” that relate to the provision of legal advice and information and to the drafting of legal instruments. Such services include, but are not limited to, drawing up contracts, powers of attorney, and other legal instruments; providing advice and counsel to adoptive parent(s) on completing DHS or Central Authority forms; and providing advice and counsel to accredited agencies, approved persons, or prospective adoptive parent(s) on how to comply with the Convention, the IAA, the UAA, and the regulations implementing the IAA and the UAA.
 
 *Person* means an individual or a private, for-profit entity (including a corporation, company, association, firm, partnership, society, or joint stock company) providing adoption services. It does not include public domestic authorities or public foreign authorities.
 
@@ -82,16 +82,18 @@ As used in this part, the term:
 
 *Primary provider* means the accredited agency or approved person that is identified pursuant to § 96.14 as responsible for ensuring that all six adoption services are provided and for supervising and being responsible for supervised providers where used.
 
-*Public domestic authority* means an authority operated by a State, local, or tribal government within the United States.
+*Public domestic authority* means an authority operated by a State, local, or Tribal government within the United States.
 
 *Public foreign authority* means an authority operated by a national or subnational government of a foreign country.
 
-*Secretary* means the Secretary of State, the Assistant Secretary of State for Consular Affairs, or any other Department of State official exercising the Secretary of State's authority under the Convention, the IAA, the UAA, or any regulations implementing the IAA or UAA, pursuant to a delegation of authority.
+*Relative,* for the purposes of the alternative procedures for primary providers in intercountry adoption by relatives found in subpart R of this part, means a prospective adoptive parent was already, before the adoption, any of the following: parent, step-parent, brother, step-brother, sister, step-sister, grandparent, aunt, uncle, half-brother to the child's parent, half-sister to the child's parent, half-brother, half-sister, or the U.S. citizen spouse of the person with one of these qualifying relationships with the child. The relationship can exist by virtue of blood, marriage, or adoption.
 
-*State* means the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, and the U.S. Virgin Islands.
+*Secretary* means the Secretary of State, the Assistant Secretary of State for Consular Affairs, or any other Department of State official exercising the Secretary of State's authority under the Convention, the IAA, the UAA, or any regulations implementing the IAA and the UAA, pursuant to a delegation of authority.
 
-*Supervised provider* means any agency, person, or other non-governmental entity, including any foreign entity, regardless of whether it is called a facilitator, agent, attorney, or by any other name, that is providing one or more adoption services in an intercountry adoption case under the supervision and responsibility of an accredited agency or approved person that is acting as the primary provider in the case.
+*State* means the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, and the U.S. Virgin Islands.
 
-*UAA* means the Intercountry Adoption Universal Accreditation Act of 2012, (42 U.S.C. 14925, Pub. L. 112-276 (2012)).
+*Supervised provider* means any agency, person, or other non-governmental entity, including any domestic or foreign entity, regardless of whether it is called a facilitator, agent, attorney, or by any other name, that is providing one or more adoption services in an intercountry adoption case under the supervision and responsibility of an accredited agency or approved person that is acting as the primary provider in the case.
 
-[71 FR 8131, Feb. 15, 2006, as amended at 79 FR 40632, July 14, 2014]
+*UAA* means the Intercountry Adoption Universal Accreditation Act of 2012 (42 U.S.C. 14925, Pub. L. 112-276 (2012)).
+
+*USCIS* means U.S. Citizenship and Immigration Services within the U.S. Department of Homeland Security.

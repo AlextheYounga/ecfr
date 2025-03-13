@@ -1,6 +1,6 @@
 ##### § 96.24 Procedures for evaluating applicants for accreditation or approval. #####
 
-(a) The accrediting entity must designate at least two evaluators to evaluate an agency or person for accreditation or approval. The accrediting entity's evaluators must have expertise in intercountry adoption, standards evaluation, or experience with the management or oversight of child welfare organizations and must also meet any additional qualifications required by the Secretary in the agreement with the accrediting entity.
+(a) The accrediting entity must designate at least two evaluators to evaluate an agency or person for accreditation or approval. The accrediting entity's evaluators must have expertise in intercountry adoption, standards evaluation, finance or accounting, or have experience with the management or oversight of child welfare organizations and must also meet any additional qualifications required by the Secretary in the agreement with the accrediting entity.
 
 (b) To evaluate the agency's or person's eligibility for accreditation or approval, the accrediting entity must:
 

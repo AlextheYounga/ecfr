@@ -4,7 +4,7 @@
 
 (1) Disseminating information on the child and his or her availability for adoption through print, media, and internet resources designed to communicate with potential prospective adoptive parent(s) in the United States;
 
-(2) Listing information about the child on a national or State adoption exchange or registry for at least sixty calendar days after the birth of the child;
+(2) Listing information about the child on a national or State adoption exchange or registry for at least 60 calendar days after the birth of the child;
 
 (3) Responding to inquiries about adoption of the child; and
 
@@ -28,7 +28,7 @@
 
 (g) The agency or person thoroughly prepares the child for the transition to the Convention country, using age-appropriate services that address the child's likely feelings of separation, grief, and loss and difficulties in making any cultural, religious, racial, ethnic, or linguistic adjustment.
 
-(h) The agency or person takes all appropriate measures to ensure that the transfer of the child takes place in secure and appropriate circumstances, with properly trained and qualified escorts, if used, and, if possible, in the company of the adoptive parent(s) or the prospective adoptive parent(s);
+(h) The agency or person takes all appropriate measures to ensure that the transfer of the child takes place in secure and appropriate circumstances, with properly trained and qualified escorts, if used, and, if possible, in the company of the adoptive parent(s) or the prospective adoptive parent(s).
 
 (i) Before the placement for adoption proceeds, the agency or person identifies the entity in the receiving country that will provide post-placement supervision and reports, if required by State law, and ensures that the child's adoption record contains the information necessary for contacting that entity.
 
