@@ -1,5 +1,7 @@
 ##### § 1315.11 Assessment of annual needs. #####
 
+Link to an amendment published at 88 FR 60143, Aug. 31, 2023.
+
 (a) The Administrator shall determine the total quantity of ephedrine, pseudoephedrine, and phenylpropanolamine, including drug products containing ephedrine, pseudoephedrine, and phenylpropanolamine, necessary to be manufactured and imported during the following calendar year to provide for the estimated medical, scientific, research, and industrial needs of the United States, for lawful export requirements, and for the establishment and maintenance of reserve stocks.
 
 (b) In making his determinations, the Administrator shall consider the following factors:

@@ -140,13 +140,13 @@
 
 (6) *System identifier and name.* DoD 0007, “Defense Reasonable Accommodation and Assistive Technology Records.”
 
-(i) *Exemptions.* This system of records is exempt from 5 U.S.C. 552a(c)(3) and (4); (d)(1), (2), (3), and (4); (e)(4)(G), (H), and (I); and (f).
+(i) *Exemptions.* This system of records is exempt from 5 U.S.C. 552a(c)(3); (d)(1), (2), (3), and (4); (e)(4)(G), (H), and (I); and (f).
 
 (ii) *Authority.* 5 U.S.C. 552a(k)(1).
 
 (iii) *Exemption from the particular subsections.* Exemption from the particular subsections pursuant to exemption (k)(1) is justified for the following reasons:
 
-(A) *Subsections (c)(3), (c)(4), (d)(1), and (d)(2).* Records in this system of records may contain information concerning individuals that is properly classified pursuant to executive order. Application of exemption (k)(1) for such records may be necessary because access to and amendment of the records, or release of the accounting of disclosures for such records, could reveal classified information. Disclosure of classified records to an individual may cause damage to national security. Accordingly, application of exemption (k)(1) may be necessary.
+(A) *Subsections (c)(3), (d)(1), and (d)(2).* Records in this system of records may contain information concerning individuals that is properly classified pursuant to executive order. Application of exemption (k)(1) for such records may be necessary because access to and amendment of the records, or release of the accounting of disclosures for such records, could reveal classified information. Disclosure of classified records to an individual may cause damage to national security. Accordingly, application of exemption (k)(1) may be necessary.
 
 (B) *Subsections (d)(3) and (4).* Subsections (d)(3) and (4) are inapplicable to the extent an exemption is claimed from (d)(2).
 
@@ -320,4 +320,4 @@
 
 (iv) *Exempt records from other systems.* In the course of carrying out the overall purpose for this system, exempt records from other systems of records may in turn become part of the records maintained in this system. To the extent that copies of exempt records from those other systems of records are maintained in this system, the DoD claims the same exemptions for the records from those other systems that are entered into this system, as claimed for the prior system(s) of which they are a part, provided the reason for the exemption remains valid and necessary.
 
-[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 38561, July 22, 2021; 86 FR 52072, Sept. 20, 2021; 86 FR 72524, Dec. 22, 2021; 87 FR 28775, May 11, 2022; 87 FR 30417, May 19, 2022; 87 FR 51612, Aug. 23, 2022; 87 FR 54153, Sept. 2, 2022; 87 FR 76934, Dec. 16, 2022; 88 FR 11396, Feb. 23, 2023; 88 FR 24479, Apr. 21, 2023]
+[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 38561, July 22, 2021; 86 FR 52072, Sept. 20, 2021; 86 FR 72524, Dec. 22, 2021; 87 FR 28775, May 11, 2022; 87 FR 30417, May 19, 2022; 87 FR 51612, Aug. 23, 2022; 87 FR 54153, Sept. 2, 2022; 87 FR 76934, Dec. 16, 2022; 88 FR 11396, Feb. 23, 2023; 88 FR 24479, Apr. 21, 2023; 88 FR 60145, Aug. 31, 2023]

@@ -1,21 +1,43 @@
-##### § 130.4 User fees for processing import permit applications. #####
+##### § 130.4 Hourly rate and minimum user fees. #####
 
-User fees for any service rendered by an APHIS representative for processing applications for permits to import certain animals and animal products (using VS forms 16-3 and 17-129) are listed in the table in this section. The person for whom the service is provided and the person requesting the service are jointly and severally liable for payment of these user fees in accordance with §§ 130.50 and 130.51. These fees are nonrefundable. The table follows:
+(a) *Services subject to hourly rate user fees.* User fees for import- or export-related veterinary services listed in paragraphs (a)(1) through (18) of this section, except those services covered by flat rate user fees, will be calculated at the hourly rate found online at *www.aphis.usda.gov/business-services/vs-fees,* for each employee required to perform the service. The person for whom the service is provided and the person requesting the service are jointly and severally liable for payment of these user fees in accordance with §§ 130.6 and 130.7.
 
-|                                                                                              Service                                                                                               |               Unit               |             User fee             |                                  |                            |       |       |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------|-------|-------|
-|                                                                                Apr. 29, 2009-  <br/>Sept. 30, 2009                                                                                 |Oct. 1, 2009-  <br/>Sept. 30, 2010|Oct. 1, 2010-  <br/>Sept. 30, 2011|Oct. 1, 2011-  <br/>Sept. 30, 2012|Beginning  <br/>Oct. 1, 2012|       |       |
-|                                                                                   Import compliance assistance:                                                                                    |                                  |                                  |                                  |                            |       |       |
-|                                                                                      Simple (4 hours or less)                                                                                      |           Per shipment           |              $99.00              |             $102.00              |          $105.00           |$108.00|$111.00|
-|                                                                                  Complicated (more than 4 hours)                                                                                   |           Per shipment           |              514.00              |              514.00              |           531.00           |548.00 |565.00 |
-|Processing an application for a permit to import live animals, animal products or by products, organisms, vectors, or germ plasm (embryos or semen) or to transport organisms or vectors<sup>1</sup>|                                  |                                  |                                  |                            |       |       |
-|                                                                                           Initial permit                                                                                           |         Per application          |              133.00              |              137.00              |           141.00           |145.00 |150.00 |
-|                                                                                           Amended permit                                                                                           |     Per amended application      |              66.00               |              68.00               |           70.00            | 73.00 | 75.00 |
-|                                                                                     Renewed permit<sup>2</sup>                                                                                     |         Per application          |              86.00               |              89.00               |           91.00            | 94.00 | 97.00 |
-|                                              Processing an application for a permit to import fetal bovine serum when facility inspection is required                                              |         Per application          |              455.00              |              469.00              |           483.00           |497.00 |512.00 |
+(1) Providing services to live animals for import or entry at airports, ocean ports, and rail ports.
 
-<sup>1</sup> Using Veterinary Services Form 16-3, “Application for Permit to Import or Transport Controlled Material or Organisms or Vectors,” or Form 17-129, “Application for Import or In Transit Permit (Animals, Animal Semen, Animal Embryos, Birds, Poultry, or Hatching Eggs).”
+(2) Conducting inspections, including inspections of laboratories and facilities (such as biosecurity level two facilities), required either to obtain import permits for animal products and byproducts, aquaculture products, or organisms or vectors, or to maintain compliance with import permits. This hourly rate does not apply to inspection and approval of import/export facilities and establishments.
 
-<sup>2</sup> Permits to import germ plasm and live animals are not renewable.
+(3) Obtaining samples required to be tested, either to obtain import permits or to ensure compliance with import permits.
 
-[66 FR 39631, Aug. 1, 2001, as amended at 68 FR 51883, Aug. 29, 2003; 72 FR 70766, Dec. 13, 2007; 74 FR 14002, Mar. 30, 2009]
+(4) Providing services for imported birds or ratites that are not subject to quarantine, such as monitoring birds—including but not limited to pet birds—between flights.
+
+(5) Supervising the opening of in-bond shipments.
+
+(6) Providing services for in-bond or in-transit animals to exit the United States.
+
+(7) Inspecting an export isolation facility and the animals in it.
+
+(8) Supervising animal or bird rest periods prior to export.
+
+(9) Supervising loading and unloading of animals or birds for export shipment.
+
+(10) Inspecting means of conveyance used to export animals or birds.
+
+(11) Conducting inspections under part 156 of this chapter.
+
+(12) Inspecting and approving an artificial insemination center or a semen collection center or the animals in it.
+
+(13) Import or entry services for feeder animals including, but not limited to, feeder goats and feeder bison not covered by a flat rate user fee in connection with activities described in § 130.3(d).
+
+(14) Export-related bird banding for identification.
+
+(15) Export-related inspection and approval of pet food facilities, including laboratories that perform pet food testing.
+
+(16) Export-related services provided at animal auctions.
+
+(17) Various export-related facility inspections, including, but not limited to, fertilizer plants that utilize poultry waste, rendering plants, and potential embarkation facilities.
+
+(18) Providing other import-or export-related veterinary services for which no flat rate user fee is specified.
+
+(b) *When do I pay an additional amount for employee(s) working overtime?* You must pay an additional amount if you need an APHIS employee to work on a Sunday, on a holiday, or at any time outside the normal tour of duty of that employee. Instead of paying the hourly rate user fee, you pay the rate found online at *www.aphis.usda.gov/business-services/vs-fees* for each employee needed to get the work done.
+
+(Approved by the Office of Management and Budget under control numbers 0579-0015, 0579-0020, 0579-0040, and 0579-0055)

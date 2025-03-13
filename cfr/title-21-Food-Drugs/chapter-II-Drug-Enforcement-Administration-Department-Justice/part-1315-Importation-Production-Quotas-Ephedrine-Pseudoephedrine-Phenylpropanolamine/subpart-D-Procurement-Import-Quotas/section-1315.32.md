@@ -1,5 +1,7 @@
 ##### § 1315.32 Obtaining a procurement quota. #####
 
+Link to an amendment published at 88 FR 60144, Aug. 31, 2023.
+
 (a) Any person who is registered to manufacture ephedrine, pseudoephedrine, or phenylpropanolamine, or whose requirement of registration is waived pursuant to § 1309.24 of this chapter, and who desires to use during the next calendar year any ephedrine, pseudoephedrine, or phenylpropanolamine for purposes of manufacturing (including repackaging or relabeling), must apply on DEA Form 250 for a procurement quota for the chemical. A separate application must be made for each chemical desired to be procured or used.
 
 (b) The applicant must state separately all of the following:

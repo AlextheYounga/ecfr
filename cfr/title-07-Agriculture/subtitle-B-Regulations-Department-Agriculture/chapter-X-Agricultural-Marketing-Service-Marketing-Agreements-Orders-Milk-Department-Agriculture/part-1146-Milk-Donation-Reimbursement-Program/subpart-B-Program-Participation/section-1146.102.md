@@ -12,4 +12,4 @@ Eligible partnerships must submit a completed Dairy Donation and Distribution Pl
 
 (e) An Eligible Distributor Certification Form signed by the eligible distributor regarding its ability to store and distribute donated eligible dairy products to recipient individuals and families.
 
-[86 FR 48897, Sept. 1, 2021, as amended at 88 FR 57872, Aug. 24, 2023]Effective Date Note:At 86 FR 48897, Sept. 1, 2021, § 1146.102 was revised, effective Sept. 2, 2021 through Sept. 1, 2023.
+[86 FR 48897, Sept. 1, 2021, as amended at 88 FR 57872, Aug. 24, 2023; 88 FR 60105, Aug. 31, 2023]

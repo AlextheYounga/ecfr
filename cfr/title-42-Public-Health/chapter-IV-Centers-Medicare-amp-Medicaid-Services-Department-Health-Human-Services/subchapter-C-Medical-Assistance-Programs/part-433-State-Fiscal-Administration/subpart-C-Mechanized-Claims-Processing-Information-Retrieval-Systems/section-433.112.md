@@ -1,5 +1,7 @@
 ##### § 433.112 FFP for design, development, installation or enhancement of mechanized processing and information retrieval systems. #####
 
+Link to an amendment published at 88 FR 60312, Aug. 31, 2023.
+
 (a) Subject to paragraph (c) of this section, FFP is available at the 90 percent rate in State expenditures for the design, development, installation, or enhancement of a mechanized claims processing and information retrieval system only if the APD is approved by CMS prior to the State's expenditure of funds for these purposes.
 
 (b) CMS will approve the E&E or claims system described in an APD if certain conditions are met. The conditions that a system must meet are:

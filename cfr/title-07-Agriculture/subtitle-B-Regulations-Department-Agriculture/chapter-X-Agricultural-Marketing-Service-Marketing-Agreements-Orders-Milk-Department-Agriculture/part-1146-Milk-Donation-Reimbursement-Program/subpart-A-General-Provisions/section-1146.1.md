@@ -24,4 +24,4 @@
 
 *Secretary* means the Secretary of the United States Department of Agriculture or a representative authorized to act in the Secretary's stead.
 
-[84 FR 46658, Sept. 5, 2019, as amended at 86 FR 48897, Sept. 1, 2021]Effective Date Note:At 86 FR 48897, Sept. 1, 2021, § 1146.1 was amended by revising the term “eligible dairy organization” and adding the term “qualified expense”, effective Sept. 2, 2021 through Sept. 1, 2023.
+[84 FR 46658, Sept. 5, 2019, as amended at 86 FR 48897, Sept. 1, 2021; 88 FR 60105, Aug. 31, 2023]

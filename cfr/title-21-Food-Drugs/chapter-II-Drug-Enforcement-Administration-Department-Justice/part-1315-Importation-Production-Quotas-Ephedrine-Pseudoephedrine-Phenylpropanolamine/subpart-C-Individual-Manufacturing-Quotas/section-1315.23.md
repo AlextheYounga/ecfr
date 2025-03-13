@@ -1,5 +1,7 @@
 ##### § 1315.23 Procedure for fixing individual manufacturing quotas. #####
 
+Link to an amendment published at 88 FR 60143, Aug. 31, 2023.
+
 (a) In fixing individual manufacturing quotas for ephedrine, pseudoephedrine, and phenylpropanolamine, the Administrator shall allocate to each applicant who is currently manufacturing the chemical a quota equal to 100 percent of the estimated net disposal of that applicant for the next calendar year, adjusted—
 
 (1) By the amount necessary to increase or reduce the estimated inventory of the applicant on December 31 of the current year to his estimated inventory allowance for the next calendar year, pursuant to § 1315.24, and

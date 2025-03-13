@@ -1,5 +1,7 @@
 ##### § 457.700 Basis, scope, and applicability. #####
 
+Link to an amendment published at 88 FR 60315, Aug. 31, 2023.
+
 (a) *Statutory basis.* This subpart implements—
 
 (1) Section 2101(a) of the Act, which sets forth that the purpose of title XXI is to provide funds to States to provide child health assistance to uninsured, low-income children in an effective and efficient manner that is coordinated with other sources of health benefits coverage;

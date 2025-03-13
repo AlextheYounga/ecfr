@@ -1,5 +1,7 @@
 ##### § 1303.24 Inventory allowance. #####
 
+Link to an amendment published at 88 FR 60142, Aug. 31, 2023.
+
 (a) For the purpose of determining individual manufacturing quotas pursuant to § 1303.23, each registered manufacturer shall be allowed as a part of such quota an amount sufficient to maintain an inventory equal to,
 
 (1) For current manufacturers, 50 percent of his average estimated net disposal for the current calendar year and the last preceding calendar year; or

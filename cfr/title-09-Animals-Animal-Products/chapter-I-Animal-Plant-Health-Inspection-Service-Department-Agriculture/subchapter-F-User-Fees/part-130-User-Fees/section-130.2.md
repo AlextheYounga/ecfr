@@ -1,40 +1,25 @@
-##### § 130.2 User fees for individual animals and certain birds quarantined in the APHIS-owned or -operated quarantine facilities, including APHIS Animal Import Centers. #####
+##### § 130.2 Basis for fees and rates. #####
 
-(a) *Standard requirements.* User fees for any service rendered by an APHIS representative for each animal or bird receiving standard housing, care, feed, and handling while quarantined in an APHIS owned or operated animal import center or quarantine facility are listed in the following table. Each user fee listed in the table is assessed per animal or bird quarantined by APHIS. The person for whom the service is provided and the person requesting the service are jointly and severally liable for payment of these user fees in accordance with §§ 130.50 and 130.51.
+(a) Except as set forth in paragraphs (b) through (d) of this section, for setting fee rates for each calendar year based upon the previous fiscal year, APHIS will calculate the rates for services as follows:
 
-|                                            Animal or bird                                            |      Daily user fee       |                           |                           |                      |      |
-|------------------------------------------------------------------------------------------------------|---------------------------|---------------------------|---------------------------|----------------------|------|
-|                                     Apr. 29, 2009-Sept. 30, 2009                                     |Oct. 1, 2009-Sept. 30, 2010|Oct. 1, 2010-Sept. 30, 2011|Oct. 1, 2011-Sept. 30, 2012|Beginning Oct. 1, 2012|      |
-|   Birds (excluding ratites and pet birds imported in accordance with part 93 of this subchapter):    |                           |                           |                           |                      |      |
-|                                             0-250 grams                                              |           $2.50           |           $2.75           |           $2.75           |        $2.75         |$3.00 |
-|                                           251-1,000 grams                                            |           8.25            |           8.50            |           8.75            |         9.00         | 9.25 |
-|                                           Over 1,000 grams                                           |           18.00           |           19.00           |           19.00           |        20.00         |21.00 |
-|                    Domestic or zoo animals (except equines, birds, and poultry):                     |                           |                           |                           |                      |      |
-|                             Bison, bulls, camels, cattle, or zoo animals                             |          144.00           |          149.00           |          153.00           |        158.00        |162.00|
-|         All others, including, but not limited to, alpacas, llamas, goats, sheep, and swine          |           38.00           |           39.00           |           40.00           |        42.00         |43.00 |
-|                   Equines (including zoo equines, but excluding miniature horses):                   |                           |                           |                           |                      |      |
-|                                  1st through 3rd day (fee per day)                                   |          382.00           |          393.00           |          405.00           |        417.00        |429.00|
-|                                  4th through 7th day (fee per day)                                   |          276.00           |          284.00           |          292.00           |        301.00        |310.00|
-|                                8th and subsequent days (fee per day)                                 |          235.00           |          242.00           |          249.00           |        256.00        |264.00|
-|                                           Miniature horses                                           |           86.00           |           89.00           |           91.00           |        94.00         |97.00 |
-|                                   Poultry (including zoo poultry):                                   |                           |                           |                           |                      |      |
-|                                        Doves, pigeons, quail                                         |           5.00            |           5.25            |           5.50            |         5.50         | 5.75 |
-|                 Chickens, ducks, grouse, guinea fowl, partridge, pea fowl, pheasants                 |           9.00            |           9.25            |           9.50            |         9.75         |10.00 |
-|Large poultry and large waterfowl, including, but not limited to, gamecocks, geese, swans, and turkeys|           21.00           |           22.00           |           22.00           |        23.00         |24.00 |
-|                                               Ratites:                                               |                           |                           |                           |                      |      |
-|                                   Chicks (less than 3 months old)                                    |           13.00           |           13.00           |           14.00           |        14.00         |15.00 |
-|                              Juveniles (3 months through 10 months old)                              |           20.00           |           20.00           |           21.00           |        22.00         |22.00 |
-|                                   Adults (11 months old or older)                                    |           38.00           |           39.00           |           40.00           |        42.00         |43.00 |
+(1) APHIS will prorate the total Veterinary Services (VS) inspection, certification, or laboratory service program personnel direct pay (on board and in hiring process including benefits) for the previous fiscal year to each fee based upon the direct time factor percentage of employee's average time to perform and complete each fee code process and then multiply by the next year's percentage of cost of living increase.
 
-(b) *Special requirements.* User fees for birds or poultry, including zoo birds or poultry, receiving nonstandard housing, care, or handling to meet special requirements while quarantined in an APHIS owned or operated Animal Import Center or quarantine facility are listed in the following table. The user fees listed in the table are assessed for each bird or poultry quarantined by APHIS. Special requirements may be requested by the importer or required by an APHIS representative. Certain conditions or traits, such as pregnancy or aggression, may necessitate special requirements for certain birds or poultry. The person for whom the service is provided and the person requesting the service are jointly and severally liable for payment of these user fees in accordance with §§ 130.50 and 130.51.
+(2) APHIS will prorate total direct operating costs for the previous fiscal year based upon the direct time factor percentage of employee's average time to perform and complete each fee code process to each fee and then multiply by the anticipated percentage of inflation for the next year.
 
-|                                    Bird or poultry (nonstandard housing, care, or handling)                                    |      Daily user fee       |                           |                           |                      |     |
-|--------------------------------------------------------------------------------------------------------------------------------|---------------------------|---------------------------|---------------------------|----------------------|-----|
-|                                                  Apr. 29, 2009-Sept. 30, 2009                                                  |Oct. 1, 2009-Sept. 30, 2010|Oct. 1, 2010-Sept. 30, 2011|Oct. 1, 2011-Sept. 30, 2012|Beginning Oct. 1, 2012|     |
-|                                         Birds 0-250 grams and doves, pigeons and quail                                         |           $8.25           |           $8.50           |           $8.75           |        $9.00         |$9.25|
-|       Birds 251-1,000 grams and poultry such as chickens, ducks, grouse, guinea fowl, partridge, pea fowl, and pheasants       |           18.00           |           19.00           |           19.00           |        20.00         |21.00|
-|Birds over 1,000 grams and large poultry and large waterfowl, including, but not limited to gamecocks, geese, swans, and turkeys|           35.00           |           36.00           |           37.00           |        39.00         |40.00|
+(3) APHIS will add estimates for Program, Agency, and Department support costs, imputed costs, and reserves by applying a percentage based on information from Program, Agency, and Department officials and the Department of Treasury to the sum of the direct pay plus direct operating costs.
 
-(c) *Feed.* The importer must either provide feed or pay for it on an actual cost basis, including the cost of delivery to the APHIS owned or operated Animal Import Center or quarantine facility, for any animal or bird that requires a diet other than standard feed, including but not limited to diets of fruit, insects, nectar, or fish.
+(4) The amounts derived via the process described in this paragraph (a) and paragraphs (b) and (c) of this section will be added and then APHIS will round up to the next $0.25 for all fees less than $10 or round up to the nearest dollar for all fees greater than $10 to develop the new rate for each code.
 
-(Approved by the Office of Management and Budget under control number 0579-0094)[63 FR 53788, Oct. 7, 1998, as amended at 65 FR 52005, Aug. 28, 2000; 68 FR 51883, Aug. 29, 2003; 68 FR 62227, Nov. 3, 2003; 72 FR 70765, Dec. 13, 2007; 74 FR 14001, Mar. 30, 2009]
+(b) If there is no identifiable volume in the previous year for the service provided by the fee, if the fee is rarely charged, or if APHIS cannot readily identify level of effort, APHIS will calculate the fee based on the last available historic data encompassing multiple instances of use and add any intervening inflation, overhead and support costs, imputed costs, and reserve.
+
+(c) Fees for the exclusive use of space in animal import centers will be calculated using the following formula:
+
+(1) APHIS will calculate fees by using direct employee average time (with benefits) and adding a prorated portion of currently identifiable expenses (facilities, rent, support cost, and admin support costs), program and support overhead expenses, imputed costs, and reserve.
+
+(2) APHIS will combine the costs to determine the monthly cost of providing the service at a single location within the animal import center.
+
+(3) APHIS will calculate the costs of the other locations within the animal import center based on the square footage of the location.
+
+(d) Services listed in § 130.4 will be charged an hourly rate-based user fee in accordance with the provisions of that section.
+
+(Approved by the Office of Management and Budget under control number 0579-0055)

@@ -1,7 +1,5 @@
 ##### § 93.308 Quarantine requirements. #####
 
-Link to an amendment published at 88 FR 49998, Aug. 1, 2023.
-
 (a) Except as provided in this section and in § 93.324, horses intended for importation into the United States from any part of the world shall be shipped directly to a port designated in §§ 93.303 and 92.324 and be quarantined at said port until negative results to port of entry tests are obtained and the horses are certified by the port veterinarian to be free from clinical evidence of disease.
 
 (1) Except as provided in §§ 93.317 and 93.324 and in paragraph (a)(1)(i) of this section, horses intended for importation from the Western Hemisphere shall be quarantined at a port designated in § 93.303 for not less than 7 days to be evaluated for signs of Venezuelan equine encephalomyelitis.
@@ -58,7 +56,7 @@ Link to an amendment published at 88 FR 49998, Aug. 1, 2023.
 
 (1) *APHIS approval*—(i) *Approval procedures.* Persons seeking APHIS approval of a permanent, privately owned quarantine facility must write to the Administrator, c/o Strategy and Policy, Veterinary Services, APHIS, 4700 River Road Unit 39, Riverdale, MD 20737-1231. The application letter must include the full name and mailing address of the applicant; the location and street address of the facility for which approval is sought; blueprints of the facility; a description of the financial resources available for construction, operation, and maintenance of the facility; the anticipated source or origin of horses to be quarantined, as well as the expected size and frequency of shipments; a contingency plan for horses needing emergency veterinary care; and a contingency plan for the disposal of all the horses capable of being housed in the facility.
 
-(A) If APHIS determines that an application is complete and merits further consideration, the person applying for facility approval must enter into a service agreement with APHIS wherein the applicant agrees to pay the cost of all APHIS services associated with APHIS' evaluation of the application and facility. APHIS charges for the evaluation of the application and facility at hourly rates listed in § 130.30 of this chapter. This service agreement applies only to fees accrued during the application process. If the facility is approved by APHIS, facility owners must enter into a compliance agreement in accordance with paragraph (c)(2) of this section.
+(A) If APHIS determines that an application is complete and merits further consideration, the person applying for facility approval must enter into a service agreement with APHIS wherein the applicant agrees to pay the cost of all APHIS services associated with APHIS' evaluation of the application and facility. APHIS charges for the evaluation of the application and facility at hourly rates listed in part 130 of this chapter. This service agreement applies only to fees accrued during the application process. If the facility is approved by APHIS, facility owners must enter into a compliance agreement in accordance with paragraph (c)(2) of this section.
 
 (B) Requests for approval must be submitted to APHIS at least 120 days prior to the date of application for local building permits. Requests for approval will be evaluated on a first-come, first-served basis.
 

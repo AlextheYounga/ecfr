@@ -1,5 +1,7 @@
 ##### § 1303.12 Procurement quotas. #####
 
+Link to an amendment published at 88 FR 60140, Aug. 31, 2023.
+
 (a) In order to determine the estimated needs for, and to insure an adequate and uninterrupted supply of, basic classes of controlled substances listed in Schedules I and II (except raw opium being imported by the registrant pursuant to an import permit) the Administrator shall issue procurement quotas authorizing persons to procure and use quantities of each basic class of such substances for the purpose of manufacturing such class into dosage forms or into other substances.
 
 (b) Any person who is registered to manufacture controlled substances listed in any schedule and who desires to use during the next calendar year any basic class of controlled substances listed in Schedule I or II (except raw opium being imported by the registrant pursuant to an import permit) for purposes of manufacturing, shall apply on DEA Form 250 for a procurement quota for such basic class.

@@ -1,30 +1,61 @@
-##### § 130.7 User fees for import or entry services for live animals at land border ports along the United States-Canada border. #####
+##### § 130.7 Penalties for nonpayment or late payment. #####
 
-(a) User fees for any service rendered by an APHIS representative for live animals presented for importation into or entry into the United States through a land border port along the United States-Canada border are listed in the following table. The minimum user fee for this service is listed in § 130.30. The person for whom the service is provided and the person requesting the service are jointly and severally liable for payment of these user fees in accordance with §§ 130.50 and 130.51.
+(a) *Unpaid debt.* If any person for whom the service is provided fails to pay when due any debt to APHIS, including any user fee due under 7 CFR chapter III or this chapter, then:
 
-|                                      Type of live animal                                      |           Unit            |         User fee          |                           |                            |     |     |
-|-----------------------------------------------------------------------------------------------|---------------------------|---------------------------|---------------------------|----------------------------|-----|-----|
-|                                 Apr. 29, 2009-Sept. 30, 2009                                  |Oct. 1, 2009-Sept. 30, 2010|Oct. 1, 2010-Sept. 30, 2011|Oct. 1, 2011-Sept. 30, 2012|Beginning  <br/>Oct. 1, 2012|     |     |
-|Animals being imported into the United States: Breeding animals (Grade animals, except horses):|                           |                           |                           |                            |     |     |
-|                                        Sheep and goats                                        |         Per head          |           $0.75           |           $0.75           |           $0.75            |$1.00|$1.00|
-|                                             Swine                                             |         Per head          |           1.25            |           1.25            |            1.25            |1.25 |1.25 |
-|                                          All others                                           |         Per head          |           4.75            |           4.75            |            5.00            |5.25 |5.25 |
-|                                        Feeder animals:                                        |                           |                           |                           |                            |     |     |
-|                                 Cattle (not including calves)                                 |         Per head          |           2.25            |           2.25            |            2.50            |2.50 |2.50 |
-|                                       Sheep and calves                                        |         Per head          |           0.75            |           0.75            |            1.00            |1.00 |1.00 |
-|                                             Swine                                             |         Per head          |           0.50            |           0.50            |            0.50            |0.50 |0.50 |
-|           Horses (including registered horses) other than slaughter and in-transit            |         Per head          |           41.00           |           42.00           |           43.00            |45.00|46.00|
-|                      Poultry (including eggs), imported for any purpose                       |         Per load          |           71.00           |           73.00           |           75.00            |77.00|80.00|
-|                         Registered animals, all types (except horses)                         |         Per head          |           8.50            |           8.75            |            9.25            |9.50 |9.75 |
-|                         Slaughter animals, all types (except poultry)                         |         Per load          |           35.00           |           36.00           |           37.00            |39.00|40.00|
-|                       Animals transiting<sup>1</sup> the United States:                       |                           |                           |                           |                            |     |     |
-|                                            Cattle                                             |         Per head          |           2.25            |           2.25            |            2.50            |2.50 |2.50 |
-|                                        Sheep and goats                                        |         Per head          |           0.50            |           0.50            |            0.50            |0.50 |0.50 |
-|                                             Swine                                             |         Per head          |           0.50            |           0.50            |            0.50            |0.50 |0.50 |
-|                                 Horses and all other animals                                  |         Per head          |           9.75            |           10.00           |           10.00            |10.00|11.00|
+(1) *Subsequent user fee payments.* Payment must be made for subsequent user fees before the service is provided if:
 
-<sup>1</sup> The user fee in this section will be charged for in-transit authorizations at the port where the authorization services are performed. For additional services provided by APHIS, at any port, the hourly user fee in § 130.30 will apply.
+(i) For unbilled fees, the user fee is unpaid 60 days after the date the pertinent regulatory provision indicates payment is due;
 
-(b) If a service must be conducted on a Sunday or holiday or at any other time outside the normal tour of duty of the employee, then reimbursable overtime, as provided for in part 97 of this chapter, must be paid for each service, in addition to the user fee listed in this section.
+(ii) For billed fees, the user fee is unpaid 60 days after date of bill;
 
-(Approved by the Office of Management and Budget under control numbers 0579-0055 and 0579-0094)[65 FR 52007, Aug. 28, 2000, as amended at 67 FR 48524, July 25, 2002; 68 FR 51884, Aug. 29, 2003; 72 FR 70766, Dec. 13, 2007; 74 FR 14003, Mar. 30, 2009]
+(iii) The person for whom the service is provided or the person requesting the service has not paid the late payment penalty or interest on any delinquent APHIS user fee; or
+
+(iv) Payment has been dishonored.
+
+(2) *Resolution of difference between estimate and actual.* APHIS will estimate the user fee to be paid; any difference between the estimate and the actual amount owed to APHIS will be resolved as soon as reasonably possible following the delivery of the service, with APHIS returning any excess to the payor or billing the payor for the additional amount due.
+
+(3) *Prepayment form.* The prepayment must be in guaranteed form, such as money order, certified check, or cash. Prepayment in guaranteed form will continue until the debtor pays the delinquent debt.
+
+(4) *Denied service.* Service will be denied until the debt is paid if:
+
+(i) For unbilled fees, the user fee is unpaid 90 days after date the pertinent regulatory provision indicates payment is due; or
+
+(ii) For billed fees, the user fee is unpaid 90 days after date of bill; or
+
+(iii) The person for whom the service is provided or the person requesting the service has not paid the late payment penalty or interest on any delinquent APHIS user fee; or
+
+(iv) Payment has been dishonored.
+
+(b) *Unpaid debt during service.* If APHIS is in the process of providing a service for which an APHIS user fee is due, and the user has not paid the fee within the time required, or if the payment offered by the user is inadequate or unacceptable, then APHIS will take the following action:
+
+(1) *Animals or birds in quarantine.* If an APHIS user fee is due for animals or birds in quarantine at an animal import center or at a privately operated import quarantine facility, APHIS will not release them.
+
+(2) *Export health certificate.* If an APHIS user fee specified is due for an export health certificate, APHIS will not release the certificate.
+
+(3) *Veterinary diagnostics.* If an APHIS user fee is due for a veterinary diagnostic test or service, APHIS will not release the test result, any endorsed certificate, or any other veterinary diagnostic service.
+
+(c) *Late payment penalty.* In addition to the actions described in paragraph (b) of this section, APHIS will impose a late payment penalty and interest charges in accordance with 31 U.S.C. 3717 for:
+
+(1) *Unbilled user fees.* Unbilled user fees, if the user fees are unpaid 30 days after the date the pertinent regulatory provisions indicates payment is due; or
+
+(2) *Billed user fees.* Billed user fees, if the user fees are unpaid 30 days after the date of the bill.
+
+(d) *Dishonored payment penalties.* User fees paid with dishonored forms of payment, such as a check returned for insufficient funds, will be subject to interest and penalty charges in accordance with 31 U.S.C. 3717. Administrative charges will be assessed at $20.00 per dishonored payment to be paid in addition to the original amount owed. Payment must be in guaranteed form, such as cash, money order, or certified check.
+
+(e) *Debt collection management.* In accordance with the Debt Collection Improvement Act of 1996, the following provisions apply:
+
+(1) *Taxpayer identification number.* APHIS will collect a taxpayer identification number from all persons, other than Federal agencies, who are liable for a user fee.
+
+(2) *Administrative offset.* APHIS will notify the Department of Treasury of debts that are over 180 days delinquent for the purposes of administrative offset. Under administrative offset, the Department of Treasury will withhold funds payable by the United States to a person (*i.e.,* Federal income tax refunds) to satisfy the debt to APHIS.
+
+(3) *Cross-servicing.* APHIS will transfer debts that are over 180 days delinquent to the Department of Treasury for cross-servicing. Under cross-servicing, the Department of Treasury will collect debts on behalf of APHIS. Exceptions will be made for debts that meet certain requirements, for example, debts that are already at a collection agency or in payment plan.
+
+(4) *Report delinquent debt.* APHIS will report all unpaid debts to credit reporting bureaus.
+
+(f) *Animals or birds abandoned after quarantine at an animal import center.* Animals or birds left in quarantine at an animal import center for more than 30 days after the end of the required quarantine period will be deemed to be abandoned.
+
+(1) *Release of abandoned animals or birds from quarantine.* After APHIS releases the abandoned animals or birds from quarantine, APHIS may seize them and sell or otherwise dispose of them, as determined by the Administrator, provided that their sale is not contrary to any Federal law or regulation. APHIS may recover all expenses of handling the animals or birds from the proceeds of their sale or disposition.
+
+(2) *Seizure and disposal of abandoned animals or bird.* If animals or birds abandoned in quarantine at an animal import center cannot be released from quarantine, APHIS may seize and dispose of them, as determined by the Administrator, and may recover all expenses of handling the animals or birds from the proceeds of their disposition and from persons liable for user fees under § 130.6(a).
+
+(Approved by the Office of Management and Budget under control number 0579-0055)

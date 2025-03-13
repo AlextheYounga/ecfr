@@ -1,5 +1,7 @@
 ##### § 1303.23 Procedure for fixing individual manufacturing quotas. #####
 
+Link to an amendment published at 88 FR 60141, Aug. 31, 2023.
+
 (a) In fixing individual manufacturing quotas for a basic class of controlled substance listed in Schedule I or II, the Administrator shall allocate to each applicant who is currently manufacturing such class a quota equal to 100 percent of the estimated net disposal of that applicant for the next calendar year, adjusted—
 
 (1) By the amount necessary to increase or reduce the estimated inventory of the applicant on December 31 of the current year to his estimated inventory allowance for the next calendar year, pursuant to § 1303.24, and

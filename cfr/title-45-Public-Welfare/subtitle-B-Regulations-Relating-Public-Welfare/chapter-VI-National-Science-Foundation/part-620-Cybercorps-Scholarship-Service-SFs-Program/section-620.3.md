@@ -1,0 +1,3 @@
+##### § 620.3 Documenting the service obligation. #####
+
+To demonstrate that a scholarship recipient is performing service in accordance with the agreement to serve or repay, the scholarship recipient must, within 30 days of the beginning of the service and upon completion of each year of such service, provide to the SFS program office documentation of that service in a form and manner approved by the SFS program office with all required information, including up-to-date contact information, and certifications. The scholarship recipient must also provide the recipient's SFS institution with this annual verifiable documentation of post-award employment and up-to-date contact information.
