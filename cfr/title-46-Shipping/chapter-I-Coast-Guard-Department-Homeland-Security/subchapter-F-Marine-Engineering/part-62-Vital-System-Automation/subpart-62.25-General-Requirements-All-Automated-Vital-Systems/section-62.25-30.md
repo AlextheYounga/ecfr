@@ -1,5 +1,7 @@
 ##### § 62.25-30 Environmental design standards. #####
 
+Link to an amendment published at 89 FR 50192, June 12, 2024.
+
 (a) All automation must be suitable for the marine environment and must be designed and constructed to operate indefinitely under the following conditions:
 
 (1) Ship motion and vibration described in Table 9 of section 4-9-7 of the ABS Steel Vessel Rules (incorporated by reference; see 46 CFR 62.05-1); note that inclination requirements for fire and flooding safety systems are described in 46 CFR 112.05-5(c).

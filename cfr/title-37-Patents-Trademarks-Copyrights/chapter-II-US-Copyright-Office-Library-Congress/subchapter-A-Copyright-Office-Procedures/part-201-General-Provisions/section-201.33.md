@@ -98,13 +98,13 @@ SignatureName (printed or typed)As agent for (if applicable)Date:
 
 Appendix A to § 201.33—Notice of Intent To Enforce a Copyright Restored under the Uruguay Round Agreements Act (URAA)1. Title:
 
-(If this work does not have a title, state “No title.”) OR
+ (If this work does not have a title, state “No title.”) OR
 
-Brief description of work (for untitled works only): \_\_\_\_\_\_\_\_
+ Brief description of work (for untitled works only): \_\_\_\_\_\_\_\_
 
 2. English translation of title (if applicable):3. Alternative title(s) (if any):4. Type of work:
 
-(e.g. painting, sculpture, music, motion picture, sound recording, book)
+ (e.g. painting, sculpture, music, motion picture, sound recording, book)
 
 5. Name of author(s):6. Source country:7. Approximate year of publication:8. Additional identifying information:(e.g. for movies; director, leading actors, screenwriter, animator, for photographs: subject matter; for books; editor, publisher, contributors, subject matter).9. Name of copyright owner:(Statements may be filed in the name of the owner of the restored copyright or the owner of an exclusive right therein.)10. If you are not the owner of all rights, specify the rights you own:(e.g. the right to reproduce/distribute publicly display/publicly perform the work, or to prepare a derivative work based on the work)11. Address at which copyright owner may be contacted:(Give the complete address, including the country and an “attention” line, or “in care of” name, if necessary.)12. Telephone number of owner:13. Fax number of owner:14. Certification and Signature:
 

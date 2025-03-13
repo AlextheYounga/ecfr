@@ -1,5 +1,7 @@
 ##### § 64.63 Minimum emergency venting capacity. #####
 
+Link to an amendment published at 89 FR 50200, June 12, 2024.
+
 (a) The total emergency venting capacity (*Q*) of the relief devices of an uninsulated MPT must be in accordance with Table 1 or the following formula based upon the pressure relief device operating at a pressure not to exceed the test pressure:
 
 ![](/graphics/ec13no91.047.gif)where:*Q* = Minimum required rate of discharge in cubic feet per minute of free air at standard conditions (60 °F and 14.7 psia).*M* = Molecular weight of the product, or 86.7.*T* = Temperature, degrees Rankine (460° + temperature in degrees F of gas at relieving temperature), or 710° Rankine.*A* = Total external surface area of the tank compartment in square feet.*L* = Latent heat of the product being vaporized at relieving conditions in Btu per pound, or 144 Btu per pound.*Z* = Compressibility factor of the gas at relieving conditions, or 1.0.*C* = Constant based on relation of specific heats, in accordance with appendix J of division 1 of section VIII of the ASME Code, 1974 edition, or 315.

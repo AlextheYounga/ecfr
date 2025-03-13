@@ -1,5 +1,7 @@
 ##### § 50.25-5 Products requiring manufacturer or mill certification. #####
 
+Link to an amendment published at 89 FR 50094, June 12, 2024.
+
 (a) Products required to be certified by a manufacturer or by mill certificate shall be fabricated and tested in accordance with the applicable specifications. Such products will not normally be subject to mill inspection by the Coast Guard except as required by § 50.25-7.
 
 (b) The Officer in Charge, Marine Inspection, having cognizance over the installation of the products required to be certified shall ensure that adequate control has been exercised to identify the product with its manufacturer or mill certificate.

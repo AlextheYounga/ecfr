@@ -1,5 +1,7 @@
 ##### § 62.25-25 Programmable systems and devices. #####
 
+Link to an amendment published at 89 FR 50192, June 12, 2024.
+
 (a) Programmable control or alarm system logic must not be altered after Design Verification testing without the approval of the cognizant Officer in Charge, Marine Inspection (OCMI). (See subpart 61.40 of this subchapter, Design Verification Tests). Safety control or automatic alarm systems must be provided with means, acceptable to the cognizant OCMI, to make sure setpoints remain within the safe operating range of the equipment.
 
 (b) Operating programs for microprocessor-based or computer-based vital control, alarm, and monitoring systems must be stored in non-volatile memory and automatically operate on supply power resumption.

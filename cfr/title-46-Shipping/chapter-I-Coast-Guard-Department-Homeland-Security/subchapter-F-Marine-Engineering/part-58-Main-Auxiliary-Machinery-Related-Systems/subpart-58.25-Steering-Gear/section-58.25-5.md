@@ -1,5 +1,7 @@
 ##### § 58.25-5 General. #####
 
+Link to an amendment published at 89 FR 50177, June 12, 2024.
+
 (a) Definitions.
 
 *Ancillary steering equipment* means steering equipment, other than the required control systems and power actuating systems, that either is not required, such as automatic pilot or non-followup control from the pilothouse, or is necessary to perform a specific required function, such as the automatic detection and isolation of a defective section of a tanker's hydraulic steering gear.

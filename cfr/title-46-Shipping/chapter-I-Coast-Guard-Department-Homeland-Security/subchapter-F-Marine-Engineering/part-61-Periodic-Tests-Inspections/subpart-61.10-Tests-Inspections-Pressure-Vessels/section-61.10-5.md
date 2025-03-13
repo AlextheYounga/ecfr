@@ -1,5 +1,7 @@
 ##### § 61.10-5 Pressure vessels in service. #####
 
+Link to an amendment published at 89 FR 50188, June 12, 2024.
+
 (a) *Basic requirements.* Each pressure vessel must be examined or tested every 5 years. The extent of the test or examination should be that necessary to determine that the pressure vessel's condition is satisfactory and that the pressure vessel is fit for the service intended.
 
 (b) *Internal and external tests and inspections.* (1) Each pressure vessel listed on the Certificate of Inspection must be thoroughly examined externally every 5 years.

@@ -1,5 +1,7 @@
 ##### § 56.60-10 Cast iron and malleable iron. #####
 
+Link to an amendment published at 89 FR 50153, June 12, 2024.
+
 (a) The low ductility of cast iron and malleable iron should be recognized and the use of these metals where shock loading may occur should be avoided. Cast iron and malleable iron components shall not be used at temperatures above 450 °F. Cast iron and malleable iron fittings conforming to the specifications of 46 CFR 56.60-1, Table 56.60-1(a) may be used at pressures not exceeding the limits of the applicable standards shown in that table at temperatures not exceeding 450 °F. Valves of either of these materials may be used if they conform to the standards for class 125 and class 250 flanges and flanged fittings in ASME B16.1 (incorporated by reference; see 46 CFR 56.01-2) and if their service does not exceed the rating as marked on the valve.
 
 (b) Cast iron and malleable iron shall not be used for valves or fittings in lines carrying flammable or combustible fluids1 which are directly connected to, or in the proximity of, equipment or other lines having open flame, or any parts operating at temperatures above 500 °F. Cast iron shall not be used for hull fittings, or in systems conducting lethal products.

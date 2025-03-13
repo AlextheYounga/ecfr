@@ -1,5 +1,7 @@
 ##### § 62.01-3 Scope. #####
 
+Link to an amendment published at 89 FR 50189, June 12, 2024.
+
 (a) This part contains the minimum requirements for vessel automated vital systems. Specifically, this part contains—
 
 (1) In subpart 62.25, the general requirements for all vital system automation;

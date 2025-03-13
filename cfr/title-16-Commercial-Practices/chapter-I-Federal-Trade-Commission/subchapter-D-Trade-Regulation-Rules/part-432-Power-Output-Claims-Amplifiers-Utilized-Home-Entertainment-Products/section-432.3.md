@@ -1,5 +1,7 @@
 ##### § 432.3 Standard test conditions. #####
 
+Link to an amendment published at 89 FR 49801, June 12, 2024.
+
 For purposes of performing the tests necessary to make the disclosures required under § 432.2 of this part:
 
 (a) The power line voltage shall be 120 volts AC (230 volts when the equipment is made for foreign sale or use, unless a different nameplate rating is permanently affixed to the product by the manufacturer in which event the latter figure would control), RMS, using a sinusoidal wave containing less than 2 percent total harmonic content. In the case of equipment designed for battery operation only, tests shall be made with the battery power supply for which the particular equipment is designed and such test voltage must be disclosed under the required disclosures of § 432.2 of this part. If capable of both AC and DC battery operation, testing shall be with AC line operation;

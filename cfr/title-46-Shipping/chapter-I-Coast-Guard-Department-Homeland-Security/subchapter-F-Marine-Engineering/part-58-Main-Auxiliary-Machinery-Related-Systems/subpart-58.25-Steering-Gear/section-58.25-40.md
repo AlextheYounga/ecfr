@@ -1,5 +1,7 @@
 ##### § 58.25-40 Arrangement of the steering-gear compartment. #####
 
+Link to an amendment published at 89 FR 50178, June 12, 2024.
+
 (a) The steering-gear compartment must—
 
 (1) Be readily accessible and, as far as practicable, separated from any machinery space;

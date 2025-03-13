@@ -1,5 +1,7 @@
 ##### § 61.20-5 Drydock examination. #####
 
+Link to an amendment published at 89 FR 50189, June 12, 2024.
+
 (a) When any vessel is drydocked, examination shall be made of the propeller, stern bushing, sea connection, and fastenings if deemed necessary by the marine inspector.
 
 (b) Sea chests, sea valves, sea strainers, and valves for the emergency bilge suction shall be opened up for examination every 5 years at the time of drydocking.

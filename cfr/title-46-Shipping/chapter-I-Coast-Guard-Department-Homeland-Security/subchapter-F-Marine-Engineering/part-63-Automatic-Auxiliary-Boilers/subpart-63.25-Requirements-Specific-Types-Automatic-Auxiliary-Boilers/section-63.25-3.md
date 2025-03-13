@@ -1,5 +1,7 @@
 ##### § 63.25-3 Electric hot water supply boilers. #####
 
+Link to an amendment published at 89 FR 50198, June 12, 2024.
+
 (a) Electric hot water supply boilers that have a capacity not greater than 454 liters (120 U.S. gallons), a heat input rate not greater than 200,000 Btu/hr. (58.6 kilowatts), meet the requirements of UL 174 or UL 1453 (both incorporated by reference, see 46 CFR 63.05-1), and are protected by the relief device(s) required in 46 CFR 53.05-2 do not have to meet any other requirements of this section except the periodic testing required by paragraph (j) of this section. Electric hot water supply boilers that meet the requirements of UL 174 may have temperature-pressure relief valves that meet the requirements of ANSI/AGA Z21.22 (incorporated by reference, see 46 CFR 63.05-1) in lieu of 46 CFR subpart 53.05.
 
 (b) Each hot water supply boiler must be constructed in accordance with the applicable requirements of part 52 or part 53 of this chapter.

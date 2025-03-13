@@ -1,5 +1,7 @@
 ##### § 58.25-65 Feeder circuits. #####
 
+Link to an amendment published at 89 FR 50179, June 12, 2024.
+
 (a) Each vessel with one or more electric-driven steering-gear power units must have at least two feeder circuits, which must be separated as widely as practicable. One or more of these circuits must be supplied from the vessel's service switchboard. On a vessel where the rudder stock is over 23 centimeters (9 inches) in diameter in way of the tiller, excluding strengthening for navigation in ice, and where a final source of emergency power is required by § 112.05-5(a) of this chapter, one or more of these circuits must be supplied from the emergency switchboard, or from an alternative source of power that—
 
 (1) Is available automatically within 45 seconds of loss of power from the vessel's service switchboard;

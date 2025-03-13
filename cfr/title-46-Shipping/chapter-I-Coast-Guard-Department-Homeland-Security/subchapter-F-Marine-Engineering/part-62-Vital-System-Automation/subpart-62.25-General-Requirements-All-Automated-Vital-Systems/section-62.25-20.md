@@ -1,5 +1,7 @@
 ##### § 62.25-20 Instrumentation, alarms, and centralized stations. #####
 
+Link to an amendment published at 89 FR 50191, June 12, 2024.
+
 (a) *General.* Minimum instrumentation and alarms required for specific types of automated vital systems are listed in Table 62.35-50.
 
 (b) *Instrumentation Location.* (1) Manual control locations, including remote manual control and manual alternate control, must be provided with the instrumentation necessary for safe operation from that location.

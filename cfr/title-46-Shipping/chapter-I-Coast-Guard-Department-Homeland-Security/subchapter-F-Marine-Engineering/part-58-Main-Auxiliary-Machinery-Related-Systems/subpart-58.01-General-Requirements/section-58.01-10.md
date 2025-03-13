@@ -1,5 +1,7 @@
 ##### § 58.01-10 Fuel oil. #####
 
+Link to an amendment published at 89 FR 50172, June 12, 2024.
+
 (a) The following limits apply to the use of oil as fuel:
 
 (1) Except as otherwise permitted by this section, no fuel oil with a flashpoint of less than 60 °C (140 °F) may be used.

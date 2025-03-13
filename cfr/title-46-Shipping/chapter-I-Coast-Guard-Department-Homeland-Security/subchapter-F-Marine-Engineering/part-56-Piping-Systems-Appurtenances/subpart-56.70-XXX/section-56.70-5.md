@@ -1,0 +1,7 @@
+##### § 56.70-5 Material. #####
+
+(a) *Filler metal.* All filler metal, including consumable insert material, must comply with the requirements of section IX of the ASME Boiler and Pressure Vessel Code (incorporated by reference; see 46 CFR 56.01-2) and 46 CFR 57.02-5.
+
+(b) *Backing rings.* When metallic backing rings are used they shall be made from material of weldable quality compatible with the base metal, whether subsequently removed or not. When nonmetallic backing rings are used they shall be of material which does not deleteriously affect either base or weld metal, and shall be removed after welding is completed. Backing rings may be of the consumable insert type, removable ceramic type, of solid or split band type. A ferrous backing ring which becomes a permanent part of the weld shall not exceed 0.05 percent sulphur. If two abutting surfaces are to be welded to a third member used as a backing ring and one or two of the three members are ferritic and the other member or members are austenitic, the satisfactory use of such materials shall be determined by procedure qualifications.
+
+[CGFR 68-82, 33 FR 18843, Dec. 18, 1968, as amended by CGD 73-254, 40 FR 40165, Sept. 2, 1975; USCG-2002-13058, 67 FR 61278, Sept. 30, 2002; USCG-2003-16630, 73 FR 65184, Oct. 31, 2008]

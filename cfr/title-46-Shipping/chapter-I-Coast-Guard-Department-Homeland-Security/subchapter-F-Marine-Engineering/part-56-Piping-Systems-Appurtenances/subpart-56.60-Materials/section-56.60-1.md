@@ -1,5 +1,7 @@
 ##### § 56.60-1 Acceptable materials and specifications (replaces 123 and Table 126.1 in ASME B31.1). #####
 
+Link to an amendment published at 89 FR 50150, June 12, 2024.
+
 (a)(1) The material requirements in this subpart shall be followed in lieu of those in 123 in ASME B31.1 (incorporated by reference; see 46 CFR 56.01-2).
 
 (2) Materials used in piping systems must be selected from the specifications that appear in Table 56.60-1(a) of this section or 46 CFR 56.60-2, Table 56.60-2(a), or they may be selected from the material specifications of sections I or VIII of the ASME Boiler and Pressure Vessel Code (both incorporated by reference; see 46 CFR 56.01-2) if not prohibited by a regulation of this subchapter dealing with the particular section of the ASME Boiler and Pressure Vessel Code. Table 56.60-1(a) of this section contains only pipe, tubing, and fitting specifications. Determination of acceptability of plate, forgings, bolting, nuts, and castings may be made by reference to the ASME Boiler and Pressure Vessel Code as previously described. Additionally, accepted materials for use as piping system components appear in 46 CFR 56.60-2, Table 56.60-2(a). Materials conforming to specifications not described in this subparagraph must receive the specific approval of the Marine Safety Center before being used. Materials listed in Table 126.1 of ASME B31.1 are not accepted unless specifically permitted by this paragraph.

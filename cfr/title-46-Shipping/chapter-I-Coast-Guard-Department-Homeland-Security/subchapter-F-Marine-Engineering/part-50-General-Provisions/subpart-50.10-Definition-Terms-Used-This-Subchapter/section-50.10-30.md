@@ -1,5 +1,7 @@
 ##### § 50.10-30 Coast Guard number. #####
 
+Link to an amendment published at 89 FR 50094, June 12, 2024.
+
 (a) The Coast Guard number means that number assigned to boilers and pressure vessels by the Officer in Charge, Marine Inspection, who makes the final tests and inspections.
 
 (b) The Coast Guard number shall be stamped on the nameplates of boilers and pressure vessels.

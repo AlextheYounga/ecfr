@@ -1,5 +1,7 @@
 ##### § 58.01-55 Tanks for flammable and combustible oil. #####
 
+Link to an amendment published at 89 FR 50172, June 12, 2024.
+
 (a) For the purposes of this section, a machinery space of category A is a space that contains any of the following:
 
 (1) Internal-combustion machinery used for main propulsion.

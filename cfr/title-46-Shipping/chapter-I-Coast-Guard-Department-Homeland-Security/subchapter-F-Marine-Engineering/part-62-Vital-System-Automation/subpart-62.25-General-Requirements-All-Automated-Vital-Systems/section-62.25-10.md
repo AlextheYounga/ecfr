@@ -1,5 +1,7 @@
 ##### § 62.25-10 Manual alternate control systems. #####
 
+Link to an amendment published at 89 FR 50191, June 12, 2024.
+
 (a) Manual alternate control systems must—
 
 (1) Be operable in an emergency and after a remote or automatic primary control system failure;

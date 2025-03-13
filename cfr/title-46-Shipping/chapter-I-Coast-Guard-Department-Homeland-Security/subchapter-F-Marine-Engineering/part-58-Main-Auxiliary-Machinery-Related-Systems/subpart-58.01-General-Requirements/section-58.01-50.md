@@ -1,5 +1,7 @@
 ##### § 58.01-50 Machinery space, noise. #####
 
+Link to an amendment published at 89 FR 50172, June 12, 2024.
+
 (a) Each machinery space must be designed to minimize the exposure of personnel to noise in accordance with IMO A.468(XII) (incorporated by reference, see 46 CFR 58.03-1). No person may encounter a 24-hour effective noise level greater than 82 dB(A) when noise is measured using a sound-level meter and an A-weighting filter.
 
 (b) Except as allowed by paragraph (c) of this section, no machinery space may exceed the following noise levels:

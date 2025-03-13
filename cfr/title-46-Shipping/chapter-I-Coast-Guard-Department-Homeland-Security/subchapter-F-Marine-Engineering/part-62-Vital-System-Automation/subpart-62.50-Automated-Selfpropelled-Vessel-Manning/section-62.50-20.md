@@ -1,6 +1,6 @@
 ##### § 62.50-20 Additional requirements for minimally attended machinery plants. #####
 
-Note:
+Link to an amendment published at 89 FR 50195, June 12, 2024.Note:
 
 Minimally attended machinery plants include vessel machinery plants and spaces that are automated, but not to a degree where the plant could be left unattended. Emphasis is placed on the centralized remote control and monitoring of the machinery plant and machinery spaces.
 

@@ -1,5 +1,7 @@
 ##### § 50.25-1 General. #####
 
+Link to an amendment published at 89 FR 50094, June 12, 2024.
+
 (a) Materials and piping components used in the construction of boilers, pressure vessels, pressure piping systems, and related components are accepted by review of manufacturer or mill certificates under § 50.25-3 of this part, product marking in accordance with an adopted industry standard, or technical information indicating their compliance with the requirements of this subchapter.
 
 (b) Plate, bar stock, pipe, tube, pipe joining fittings (tees, elbows, reducers, etc.), bolting, castings, forgings, and flanges, are accepted by review of manufacturer or mill certificates under §§ 50.25-3, 50.25-5, and 50.25-7 of this part.

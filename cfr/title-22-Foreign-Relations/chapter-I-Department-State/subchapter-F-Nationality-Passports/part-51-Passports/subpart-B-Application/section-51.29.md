@@ -1,3 +1,5 @@
-##### § 51.29 xxx #####
+##### § 51.29 Attorney or other third-party assistance. #####
 
-Link to an amendment published at 89 FR 41311, May 13, 2024.
+A person seeking passport services may be physically accompanied by an attorney, interpreter, or other third party of their own choice at their own expense in accordance with 22 CFR 50.52.
+
+[89 FR 41311, May 13, 2024]

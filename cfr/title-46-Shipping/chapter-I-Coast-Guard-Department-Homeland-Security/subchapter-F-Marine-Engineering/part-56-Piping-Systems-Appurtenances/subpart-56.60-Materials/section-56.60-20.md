@@ -1,5 +1,7 @@
 ##### § 56.60-20 Nonferrous materials. #####
 
+Link to an amendment published at 89 FR 50153, June 12, 2024.
+
 Nonferrous materials listed in this subpart may be used in piping systems under the following conditions (see also § 56.10-5(c)):
 
 (a) The low melting points of many nonferrous metals and alloys, such as aluminum and aluminum alloys, must be recognized. These types of heat sensitive materials must not be used to conduct flammable, combustible, or dangerous fluids, or for vital systems unless approved by the Marine Safety Center.

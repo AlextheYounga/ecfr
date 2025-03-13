@@ -1,3 +1,5 @@
 ##### § 61.30-1 Scope. #####
 
+Link to an amendment published at 89 FR 50189, June 12, 2024.
+
 The term *thermal fluid heater* as used in this part includes any fired automatic auxiliary heating unit which uses a natural or synthetic fluid in the liquid phase as the heat exchange medium and whose operating temperature and pressure do not exceed 204 °C (400 °F) and 225 psig, respectively. Thermal fluid heaters having operating temperatures and pressures higher than 204 °C (400 °F) and 225 psig, respectively, are inspected under subpart 61.05—Tests and Inspections of Boilers.

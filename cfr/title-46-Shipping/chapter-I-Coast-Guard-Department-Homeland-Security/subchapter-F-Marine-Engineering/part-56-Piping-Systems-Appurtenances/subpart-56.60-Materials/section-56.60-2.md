@@ -1,5 +1,7 @@
 ##### § 56.60-2 Limitations on materials. #####
 
+Link to an amendment published at 89 FR 50153, June 12, 2024.
+
 *Welded pipe and tubing.* The following restrictions apply to the use of welded pipe and tubing specifications when utilized in piping systems, and not when utilized in heat exchanger, boiler, pressure vessel, or similar components:
 
 (a) *Longitudinal joint.* Wherever possible, the longitudinal joint of a welded pipe shall not be pierced with holes for branch connections or other purposes.

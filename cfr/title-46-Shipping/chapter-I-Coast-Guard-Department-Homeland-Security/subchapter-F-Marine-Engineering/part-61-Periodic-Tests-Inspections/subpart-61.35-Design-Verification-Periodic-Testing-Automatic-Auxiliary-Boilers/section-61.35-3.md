@@ -1,5 +1,7 @@
 ##### § 61.35-3 Required tests and checks. #####
 
+Link to an amendment published at 89 FR 50189, June 12, 2024.
+
 (a) Tests and checks must include the following:
 
 (1) *Safety (Programming) controls.* Safety controls must control and cycle the unit in the proper manner and sequence. Proper prepurge, ignition, postpurge, and modulation must be verified. All time intervals must be verified.

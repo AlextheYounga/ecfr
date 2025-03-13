@@ -8,7 +8,7 @@
 
 (i) The author of a work;
 
-(ii) A person or organization that has obtained ownership of all rights under the copyright initially belonging to the author.1
+(ii) A person or organization that has obtained ownership of all rights under the copyright initially belonging to the author. 1
 
 1 This category includes a person or organization that has obtained, from the author or from an entity that has obtained ownership of all rights under the copyright initially belonging to the author, the contractual right to claim legal title to the copyright in an application for copyright registration.
 

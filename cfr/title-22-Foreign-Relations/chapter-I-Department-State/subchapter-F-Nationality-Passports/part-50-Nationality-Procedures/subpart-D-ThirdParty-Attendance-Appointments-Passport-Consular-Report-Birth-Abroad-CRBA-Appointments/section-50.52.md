@@ -1,3 +1,9 @@
-##### § 50.52 xxx #####
+##### § 50.52 Attorney or other third-party assistance. #####
 
-Link to an amendment published at 89 FR 41310, May 13, 2024.
+(a) A person appearing for a passport appointment at a passport agency or center domestically or a U.S. embassy or consulate overseas or for a Consular Report of Birth Abroad (CRBA) appointment overseas may be physically accompanied by a private attorney, interpreter, or other third party of their own choice at their own expense to provide assistance. All regulations related to passport and CRBA applications in this chapter continue to apply.
+
+(1) An applicant and/or their third-party attendee or attorney may, at their own expense, bring their own interpreter to any passport and/or CRBA appointment, provided the applicant or their attorney or third-party attendee provides advance notice of such attendance pursuant to guidance issued by the Department.
+
+(2) Attendance by an attorney or other third party at the appointment does not excuse the in-person appearance of the applicant as outlined by 22 CFR 51.21 and 51.28.
+
+(3) Nothing in this section abrogates any policies, security directives, and guidelines from the Department, Chief of Mission, or Diplomatic Security Service regarding admission to or conduct in a domestic passport agency or center or at a U.S. embassy or consulate overseas. All persons entering a domestic passport agency or center or a U.S. embassy or consulate overseas shall comply with all policies, security directives, guidelines, and protocols, including but not limited to those regarding security, identification, screening, electronic devices, recording, health, and conduct. Individuals may be refused entry or directed to leave the U.S. embassy or consulate for noncompliance with such policies, directives, guidelines, and protocols.

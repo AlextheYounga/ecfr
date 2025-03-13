@@ -1,5 +1,7 @@
 ##### § 58.25-20 Piping for steering gear. #####
 
+Link to an amendment published at 89 FR 50178, June 12, 2024.
+
 (a) Pressure piping must comply with subpart 58.30 of this part.
 
 (b) Relief valves must be fitted in any part of a hydraulic system that can be isolated and in which pressure can be generated from the power units or from external forces such as wave action. The valves must be of adequate size, and must be set to limit the maximum pressure to which the system may be exposed, in accordance with § 56.07-10(b) of this subchapter.

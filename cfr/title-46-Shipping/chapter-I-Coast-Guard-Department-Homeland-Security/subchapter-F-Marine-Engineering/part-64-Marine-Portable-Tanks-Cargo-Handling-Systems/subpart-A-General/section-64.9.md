@@ -1,5 +1,7 @@
 ##### § 64.9 Maintenance, repair, and alteration of MPTs. #####
 
+Link to an amendment published at 89 FR 50199, June 12, 2024.
+
 (a) Each MPT must be maintained in accordance with the approved plans, this part, and subpart 98.30 of this chapter.
 
 (b) Repair of an MPT is authorized, provided that each repair is in accordance with the approved plans.

@@ -1,5 +1,7 @@
 ##### § 56.60-15 Ductile iron. #####
 
+Link to an amendment published at 89 FR 50153, June 12, 2024.
+
 (a) Ductile cast iron components made of material conforming to ASTM A 395 (incorporated by reference, see 46 CFR 56.01-2) may be used within the service restrictions and pressure-temperature limitations of UCD-3 of section VIII of the ASME Boiler and Pressure Vessel Code (incorporated by reference; see 46 CFR 56.01-2).
 
 (b) Ductile iron castings conforming to ASTM A 395 (incorporated by reference, see § 56.01-2) may be used in hydraulic systems at pressures in excess of 7500 kilopascals (1000 pounds per square inch) gage, provided the following:

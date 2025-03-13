@@ -1,5 +1,7 @@
 ##### § 64.11 Design of MPTs. #####
 
+Link to an amendment published at 89 FR 50199, June 12, 2024.
+
 An MPT must be designed—
 
 (a) In accordance with the ASME Code and this subpart;

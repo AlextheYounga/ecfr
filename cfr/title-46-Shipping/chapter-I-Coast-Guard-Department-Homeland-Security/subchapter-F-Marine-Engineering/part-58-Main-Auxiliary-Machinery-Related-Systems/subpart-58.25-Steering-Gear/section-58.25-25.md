@@ -1,5 +1,7 @@
 ##### § 58.25-25 Indicating and alarm systems. #####
 
+Link to an amendment published at 89 FR 50178, June 12, 2024.
+
 (a) Indication of the rudder angle must be provided both at the main steering station in the pilothouse and in the steering-gear compartment. The rudder-angle indicator must be independent of control systems for steering gear.
 
 (b) Each electric-type rudder-angle indicator must comply with § 113.40-10 of this chapter and, in accordance with § 112.15-5(h) of this chapter, draw its power from the source of emergency power.

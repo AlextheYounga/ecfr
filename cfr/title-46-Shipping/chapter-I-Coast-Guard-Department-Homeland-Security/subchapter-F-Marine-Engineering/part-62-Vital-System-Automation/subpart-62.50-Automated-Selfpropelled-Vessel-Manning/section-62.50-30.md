@@ -1,6 +1,6 @@
 ##### § 62.50-30 Additional requirements for periodically unattended machinery plants. #####
 
-Note:
+Link to an amendment published at 89 FR 50196, June 12, 2024.Note:
 
 Periodically unattended machinery plants include machinery plants and spaces that are automated to the degree that they are self-regulating and self-monitoring and could safely be left periodically unattended. Emphasis is placed on providing systems that act automatically until the crew can take action in the event of a failure or emergency. Requirements are in addition to those of a minimally attended machinery plant.
 

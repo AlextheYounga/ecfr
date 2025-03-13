@@ -1,5 +1,7 @@
 ##### § 58.25-85 Special requirements for tank vessels. #####
 
+Link to an amendment published at 89 FR 50179, June 12, 2024.
+
 (a) Each tank vessel must meet the applicable requirements of §§ 58.25-1 through 58.25-80.
 
 (b) On each tank vessel of 10,000 gross tons or over, the main steering gear must comprise two or more identical power units that comply with § 58.25-10(e)(2).

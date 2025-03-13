@@ -1,5 +1,7 @@
 ##### § 56.04-2 Piping classification according to service. #####
 
+Link to an amendment published at 89 FR 50131, June 12, 2024.
+
 The designation of classes according to service is found in table 56.04-2.
 
 |                   Service                   |Class <sup>1</sup>|Pressure (p.s.i.g.)|               |       Temp. (°F)        |

@@ -1,3 +1,9 @@
-##### § 25.24 xxx #####
+##### § 25.24 Drain tile setbacks. #####
 
-Link to an amendment published at 89 FR 41345, May 13, 2024.
+(a) *Applicability.* The regulations in this section apply to any easement lands protected by a U.S. Fish and Wildlife Service easement for waterfowl management rights (commonly referred to as a wetland easement) that were acquired through the Small Wetlands Acquisition Program in the Prairie Pothole Region of Iowa, Minnesota, Montana, North Dakota, and South Dakota. The regulations in this section apply only to setbacks provided by the Service beginning on June 12, 2024.
+
+(b) *Drainage tile setbacks.* Upon the request of a landowner, using FWS Form 3-2554, the Service will provide setback distances for the placement of drain tile on lands covered by wetland easements. The setback distances will be based on the best available science and must be adequate to ensure that protected wetland areas are not drained. Contact your local U.S. Fish and Wildlife Service station to obtain further information. You can obtain contact information for your local Service station by contacting one of the Service regional offices; addresses for these offices are at 50 CFR 2.2.
+
+(c) *Protection from legal redress.* The Service will provide guidance to landowners about what materials should be submitted as part of a request and will provide setback distances to landowners within a Service-provided timeframe. When a landowner coordinates tile planning with the Service in accordance with the regulations in this section and adheres to the Service-provided drain tile setback distances, including the tile diameters and tile depths below the surface that were used to calculate the Service-provided drain tile setback distances, the Service will not seek legal redress if it is later determined that the drain tile setback distances provided by the Service failed to protect the wetland areas from drainage, provided that the drain tile has not been modified, enhanced, or replaced.
+
+[89 FR 41345, May 13, 2024]

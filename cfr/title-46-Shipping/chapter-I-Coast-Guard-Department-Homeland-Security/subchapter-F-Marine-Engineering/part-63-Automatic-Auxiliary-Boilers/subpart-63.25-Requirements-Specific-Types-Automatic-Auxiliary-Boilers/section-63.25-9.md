@@ -1,5 +1,7 @@
 ##### § 63.25-9 Incinerators. #####
 
+Link to an amendment published at 89 FR 50198, June 12, 2024.
+
 (a) *General.* Incinerators installed on or after March 26, 1998 must meet the requirements of IMO MEPC.76(40) (incorporated by reference; see § 63.05-1). Incinerators in compliance with ISO 13617 (incorporated by reference; see § 63.05-1), are considered to meet IMO MEPC.76(40). Incinerators in compliance with both ASTM F 1323 (incorporated by reference; see § 63.05-1) and Annexes A1-A3 of IMO MEPC.76(40) are considered to meet IMO MEPC.76(40). An application for type approval of shipboard incinerators may be delivered to the Commanding Officer, Marine Safety Center, U.S. Coast Guard, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593, or it may be transmitted by mail to the Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430.
 
 (b) *Testing.* Before type approval is granted, the manufacturer must have tests conducted, or submit evidence that such tests have been conducted by an independent laboratory acceptable to the Commandant (CG-521). The laboratory must:

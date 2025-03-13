@@ -1,5 +1,7 @@
 ##### § 63.05-1 Incorporation by reference. #####
 
+Link to an amendment published at 89 FR 50196, June 12, 2024.
+
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Coast Guard must publish notice of change in the Federal Register and the material must be available to the public. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* The material is also available for inspection at the Coast Guard Headquarters. Contact Commandant (CG-ENG), Attn: Office of Design and Engineering Systems, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509. The material is also available from the sources listed in paragraphs (b) through (g) of this section.
 
 (b) *American Gas Association*, 1515 Wilson Boulevard, Arlington, VA 22209:

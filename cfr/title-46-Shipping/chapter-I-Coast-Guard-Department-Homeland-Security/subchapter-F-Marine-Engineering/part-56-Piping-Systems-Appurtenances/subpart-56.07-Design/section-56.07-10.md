@@ -1,5 +1,7 @@
 ##### § 56.07-10 Design conditions and criteria (modifies 101-104.7). #####
 
+Link to an amendment published at 89 FR 50131, June 12, 2024.
+
 (a) *Maximum allowable working pressure.* (1) The maximum allowable working pressure of a piping system must not be greater than the internal design pressure defined in 104.1.2 of ASME B31.1 (incorporated by reference; see 46 CFR 56.01-2).
 
 (2) Where the maximum allowable working pressure of a system component, such as a valve or a fitting, is less than that computed for the pipe or tubing, the system pressure shall be limited to the lowest of the component maximum allowable working pressures.

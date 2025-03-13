@@ -1,5 +1,7 @@
 ##### § 432.4 Optional disclosures. #####
 
+Link to an amendment published at 89 FR 49802, June 12, 2024.
+
 Other operating characteristics and technical specifications not required in § 432.2 of this part may be disclosed: *Provided:*
 
 (a) That any other power output is rated by the manufacturer, is expressed in minimum watts per channel, and such power output representation(s) complies with the provisions of § 432.2 of this part; except that if a peak or other instantaneous power rating, such as music power or peak power, is represented under this section, the maximum percentage of total harmonic distortion (see § 432.2(d) of this part) may be disclosed only at such rated output: *And provided further,*

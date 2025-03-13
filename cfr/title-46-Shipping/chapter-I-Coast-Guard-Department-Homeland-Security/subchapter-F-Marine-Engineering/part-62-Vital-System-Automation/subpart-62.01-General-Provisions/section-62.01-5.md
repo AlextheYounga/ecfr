@@ -1,5 +1,7 @@
 ##### § 62.01-5 Applicability. #####
 
+Link to an amendment published at 89 FR 50189, June 12, 2024.
+
 (a) *Vessels.* This part applies to self-propelled vessels of 500 gross tons and over that are certificated under subchapters D, I, or U, to self-propelled vessels of 100 gross tons and over that are certificated under subchapter H, and to OSVs of at least 6,000 GT ITC (500 GRT if GT ITC is not assigned) as defined in § 125.160 of this chapter.
 
 (b) *Systems and equipment.* Except as noted in § 62.01-5(c), this part applies to automation of vital systems or equipment that—

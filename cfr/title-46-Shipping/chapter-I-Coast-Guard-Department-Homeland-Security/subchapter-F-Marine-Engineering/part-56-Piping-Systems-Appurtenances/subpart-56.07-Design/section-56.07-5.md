@@ -1,5 +1,7 @@
 ##### § 56.07-5 Definitions (modifies 100.2). #####
 
+Link to an amendment published at 89 FR 50131, June 12, 2024.
+
 (a) *Piping.* The definitions contained in 100.2 of ASME B31.1 (incorporated by reference; see 46 CFR 56.01-2) apply, as well as the following:
 
 (1) The word *piping* within the meaning of the regulations in this subchapter refers to fabricated pipes or tubes with flanges and fittings attached, for use in the conveyance of vapors, gases or liquids, regardless of whether the diameter is measured on the inside or the outside.

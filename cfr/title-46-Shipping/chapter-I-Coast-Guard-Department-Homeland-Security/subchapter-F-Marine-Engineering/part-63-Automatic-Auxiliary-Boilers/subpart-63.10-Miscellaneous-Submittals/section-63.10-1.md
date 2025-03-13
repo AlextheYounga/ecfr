@@ -1,5 +1,7 @@
 ##### § 63.10-1 Test procedures and certification report. #####
 
+Link to an amendment published at 89 FR 50197, June 12, 2024.
+
 Two copies of the following items must be submitted. Visitors may deliver them to the Commanding Officer, Marine Safety Center, U.S. Coast Guard, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593, or they may be transmitted by mail to the Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430, in a written or electronic format. Information for submitting the VSP electronically can be found at *http://www.uscg.mil/HQ/MSC.*
 
 (a) Detailed instructions for operationally testing each automatic auxiliary boiler, its controls, and safety devices.

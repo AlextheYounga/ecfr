@@ -2,7 +2,7 @@
 
 (a) *General.* This section prescribes rules pertaining to the registration of architectural works.
 
-(b) *Definitions.*(1) For the purposes of this section, the term *building* means humanly habitable structures that are intended to be both permanent and stationary, such as houses and office buildings, and other permanent and stationary structures designed for human occupancy, including but not limited to churches, museums, gazebos, and garden pavilions.
+(b) *Definitions.* (1) For the purposes of this section, the term *building* means humanly habitable structures that are intended to be both permanent and stationary, such as houses and office buildings, and other permanent and stationary structures designed for human occupancy, including but not limited to churches, museums, gazebos, and garden pavilions.
 
 (2) Unless otherwise specified, all other terms have the meanings set forth in §§ 202.3 and 202.20.
 

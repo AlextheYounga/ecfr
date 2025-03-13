@@ -26,7 +26,7 @@
 
 (iii) Serve the notice of election as provided in § 2.119.
 
-(c) *For a civil action under section 21(b) of the Act.*(1) Any person who may appeal to the United States Court of Appeals for the Federal Circuit (paragraph (a) of this section), except for a registrant subject to an ex parte expungement or reexamination proceeding, may have remedy by civil action under section 21(b) of the Act. It is unnecessary to request reconsideration before filing any such civil action; however, any request to reconsider the decision must be made before filing a civil action.
+(c) *For a civil action under section 21(b) of the Act.* (1) Any person who may appeal to the United States Court of Appeals for the Federal Circuit (paragraph (a) of this section), except for a registrant subject to an ex parte expungement or reexamination proceeding, may have remedy by civil action under section 21(b) of the Act. It is unnecessary to request reconsideration before filing any such civil action; however, any request to reconsider the decision must be made before filing a civil action.
 
 (2) Any applicant or registrant in an ex parte case who seeks remedy by civil action under section 21(b) of the Act must serve the summons and complaint pursuant to Rule 4(i) of the Federal Rules of Civil Procedure with the copy to the Director addressed to the Office of the General Counsel as provided in § 104.2 of this chapter. A copy of the complaint must also be filed with the Trademark Trial and Appeal Board via ESTTA.
 

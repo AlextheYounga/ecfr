@@ -1,5 +1,7 @@
 ##### § 214.3 Definitions. #####
 
+Link to an amendment published at 89 FR 49807, June 12, 2024.
+
 The following definitions apply throughout this part:
 
 *Action plan.* A plan that outlines what the housing counseling agency and the client will do in order to meet the client's housing goals and, when appropriate, addresses the client's housing problem(s).

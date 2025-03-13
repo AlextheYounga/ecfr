@@ -1,5 +1,7 @@
 ##### § 63.01-3 Scope and applicability. #####
 
+Link to an amendment published at 89 FR 50196, June 12, 2024.
+
 (a) This part contains the requirements for automatic auxiliary boilers, including their controls, control system components, electrical devices, safety devices, and accessories. Types of automatic auxiliary boilers which are covered include large and small automatic auxiliary boilers, automatic heating boilers, automatic waste heat boilers, donkey boilers, miniature boilers, electric boilers, fired thermal fluid heaters, automatic incinerators, and electric hot water supply boilers. Automatic auxiliary boilers are classified by their service, control systems, pressure and temperature boundaries, heat input ratings, and firing mediums as follows:
 
 (1) Automatic auxiliary boilers listed in Table 54.01-5(A) of this chapter which reference this part for regulation of their automatic controls.

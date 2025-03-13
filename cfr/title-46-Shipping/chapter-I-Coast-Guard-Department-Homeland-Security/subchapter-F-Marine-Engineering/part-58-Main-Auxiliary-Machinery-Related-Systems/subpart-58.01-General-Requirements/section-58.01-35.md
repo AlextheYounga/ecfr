@@ -1,5 +1,7 @@
 ##### § 58.01-35 Main propulsion auxiliary machinery. #####
 
+Link to an amendment published at 89 FR 50172, June 12, 2024.
+
 Auxiliary machinery vital to the main propulsion system must be provided in duplicate unless the system served is provided in independent duplicate, or otherwise provides continued or restored propulsion capability in the event of a failure or malfunction of any single auxiliary component.
 
 Note:

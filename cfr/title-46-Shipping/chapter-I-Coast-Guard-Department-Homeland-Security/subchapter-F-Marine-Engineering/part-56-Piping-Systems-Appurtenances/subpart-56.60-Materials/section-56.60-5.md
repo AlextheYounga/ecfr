@@ -1,5 +1,7 @@
 ##### § 56.60-5 Steel (High temperature applications). #####
 
+Link to an amendment published at 89 FR 50153, June 12, 2024.
+
 (a) (Reproduces 124.2.A.) Upon prolonged exposure to temperatures above 775 °F (412 °C), the carbide phase of plain carbon steel, plain nickel-alloy steel, carbon-manganese-alloy steel, manganese-vanadium-alloy steel, and carbon-silicon steel may convert to graphite.
 
 (b) (Reproduces 124.2.B.) Upon prolonged exposure to temperatures above 875 °F (468 °C), the carbide phase of alloy steels, such as carbon-molybdenum, manganese-molybdenum-vanadium, manganese-chromium-vanadium, and chromium-vanadium, may convert to graphite.

@@ -1,5 +1,7 @@
 ##### § 64.57 Acceptance of pressure relief devices. #####
 
+Link to an amendment published at 89 FR 50199, June 12, 2024.
+
 A pressure relief device for an MPT must be—
 
 (a) From a supplier2 accepted under chapter I of title 46, Code of Federal Regulations; or

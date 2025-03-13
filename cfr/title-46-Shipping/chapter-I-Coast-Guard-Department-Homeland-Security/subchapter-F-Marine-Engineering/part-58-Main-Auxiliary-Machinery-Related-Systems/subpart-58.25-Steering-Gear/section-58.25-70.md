@@ -1,5 +1,7 @@
 ##### § 58.25-70 Steering-gear control systems. #####
 
+Link to an amendment published at 89 FR 50179, June 12, 2024.
+
 (a) Each power-driven steering-gear system must be provided with at least one steering-gear control system.
 
 (b) The main steering gear must be operable from the pilothouse by mechanical, hydraulic, electrical, or other means acceptable to the Commanding Officer, Marine Safety Center. This gear and its components must give full followup control of the rudder. Supplementary steering-gear control not giving full followup may also be provided from the pilothouse.

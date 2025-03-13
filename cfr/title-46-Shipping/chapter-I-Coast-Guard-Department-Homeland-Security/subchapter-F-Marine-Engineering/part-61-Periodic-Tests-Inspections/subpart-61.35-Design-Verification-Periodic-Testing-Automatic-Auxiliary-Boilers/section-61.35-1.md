@@ -1,5 +1,7 @@
 ##### § 61.35-1 General. #####
 
+Link to an amendment published at 89 FR 50189, June 12, 2024.
+
 (a) All automatic auxiliary boilers except fired thermal fluid heaters must be tested and inspected in accordance with this subpart and subpart 61.05 of this part.
 
 (b) Fired thermal fluid heaters must be tested and inspected in accordance with subpart 61.30 of this part.

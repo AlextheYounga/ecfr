@@ -12,7 +12,7 @@
 
 (ii) If the Board specifies a color other than white for the cover sheet, the cover sheet must be that color.
 
-(2) Papers must have two 0.5 cm (1/4 inch) holes with centers 1 cm (1/2 inch) from the top of the page and 7 cm (23/4 inch) apart, centered horizontally on the page.
+(2) Papers must have two 0.5 cm (1/4 inch) holes with centers 1 cm (1/2 inch) from the top of the page and 7 cm (2 3/4 inch) apart, centered horizontally on the page.
 
 (3) *Incorporation by reference; combined papers.* Arguments must not be incorporated by reference from one paper into another paper. Combined motions, oppositions, replies, or other combined papers are not permitted.
 

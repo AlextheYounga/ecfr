@@ -1,5 +1,7 @@
 ##### § 64.25 Cross section. #####
 
+Link to an amendment published at 89 FR 50199, June 12, 2024.
+
 A tank must have a cross section design that is—
 
 (a) Circular; or

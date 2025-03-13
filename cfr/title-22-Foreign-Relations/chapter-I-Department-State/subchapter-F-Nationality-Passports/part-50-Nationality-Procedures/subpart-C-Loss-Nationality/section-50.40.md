@@ -1,7 +1,5 @@
 ##### § 50.40 Certification of loss of U.S. nationality. #####
 
-Link to an amendment published at 89 FR 41310, May 13, 2024.
-
 (a) *Administrative presumption.* In adjudicating potentially expatriating acts pursuant to INA 349(a), the Department has adopted an administrative presumption regarding certain acts and the intent to commit them. U.S. citizens who naturalize in a foreign country; take a routine oath of allegiance; or accept non-policy level employment with a foreign government need not submit evidence of intent to retain U.S. nationality. In these three classes of cases, intent to retain U.S. citizenship will be presumed. A person who affirmatively asserts to a consular officer, after he or she has committed a potentially expatriating act, that it was his or her intent to relinquish U.S. citizenship will lose his or her U.S. citizenship. In other loss of nationality cases, the consular officer will ascertain whether or not there is evidence of intent to relinquish U.S. nationality.
 
 (b) Whenever a person admits that he or she had the intent to relinquish citizenship by the voluntary and intentional performance of one of the acts specified in Section 349(a) of the Immigration and Nationality Act, and the person consents to the execution of an affidavit to that effect, the diplomatic or consular officer shall attach such affidavit to the certificate of loss of nationality.
@@ -12,4 +10,16 @@ Link to an amendment published at 89 FR 41310, May 13, 2024.
 
 (e) If the certificate of loss of nationality is approved by the Department, a copy shall be forwarded to the Immigration and Naturalization Service, Department of Justice. The diplomatic or consular office in which the certificate was prepared shall then forward a copy of the certificate to the person to whom it relates or his representative.
 
-[31 FR 13537, Oct. 20, 1966. Redesignated and amended at 61 FR 29652, June 12, 1996; 63 FR 20315, Apr. 24, 1998]
+(f) Attorney or Other Third-Party Presence at In-Person CLN appointments. Individuals may, at their own expense, have a private attorney, interpreter, or other third party of their own choice physically present during any in-person appointment, including interview appointments, at a U.S. embassy or consulate abroad related to a request for a Certificate of Loss of Nationality (CLN); *provided that:*
+
+(1) The individual and/or the attorney or other third party shall provide advance notice of the attorney's or other third party's intent to attend the CLN appointment in the manner specified by the Department of State and/or the specific U.S. embassy or consulate where the appointment is to take place;
+
+(2) The individual requesting the CLN must appear in person for the mandatory in-person interview appointment(s); attendance by an attorney or other third party shall not be in lieu of the individual's in-person appearance;
+
+(3) The diplomatic or consular officer will direct all interview questions to the individual requesting the CLN, and the individual must personally respond to the consular officer;
+
+(4) The diplomatic or consular officer conducting the interview shall have the discretion to interview the individual alone, without an attorney or third-party present, when necessary to evaluate whether the individual has performed a potentially expatriating act independently, free from duress or coercion, and with intent to relinquish U.S. nationality;
+
+(5) Nothing in this section abrogates any policies, security directives, and guidelines from the Department, Chief of Mission, or Diplomatic Security Service regarding admission to or conduct in the U.S. embassy or consulate. All persons entering a U.S. embassy or consulate shall comply with all policies, security directives, guidelines, and protocols including but not limited to those regarding security, identification, screening, electronic devices, recording, health, and conduct. Individuals may be refused entry or directed to leave the U.S. embassy or consulate for noncompliance with such policies, directives, guidelines, and protocols.
+
+[31 FR 13537, Oct. 20, 1966. Redesignated and amended at 61 FR 29652, June 12, 1996; 63 FR 20315, Apr. 24, 1998; 89 FR 41310, May 13, 2024]

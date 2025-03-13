@@ -1,5 +1,7 @@
 ##### § 56.60-3 Ferrous materials. #####
 
+Link to an amendment published at 89 FR 50153, June 12, 2024.
+
 (a) Ferrous pipe used for salt water service must be protected against corrosion by hotdip galvanizing or by the use of extra heavy schedule material.
 
 (b) (Reproduces 124.2.C) Carbon or alloy steel having carbon content of more than 0.35 percent shall not be used in welded construction, nor be shaped by oxygen-cutting process or other thermal-cutting process.

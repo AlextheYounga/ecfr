@@ -1,5 +1,7 @@
 ##### § 64.95 Piping. #####
 
+Link to an amendment published at 89 FR 50200, June 12, 2024.
+
 (a) Piping, valves, flanges, and fittings used in the pumping system must be designed in accordance with part 56 of this chapter.
 
 (b) A cargo loading and discharge header or manifold must—

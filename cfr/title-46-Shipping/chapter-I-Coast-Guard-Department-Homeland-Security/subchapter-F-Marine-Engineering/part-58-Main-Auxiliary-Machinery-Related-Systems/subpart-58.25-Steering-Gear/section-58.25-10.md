@@ -1,5 +1,7 @@
 ##### § 58.25-10 Main and auxiliary steering gear. #####
 
+Link to an amendment published at 89 FR 50178, June 12, 2024.
+
 (a) Power-operated main and auxiliary steering gear must be separate systems that are independent throughout their length. Other systems and arrangements of steering gear will be acceptable if the Commanding Officer, Marine Safety Center, determines that they comply with, or exceed the requirements of, this subpart.
 
 (b) The main steering gear and rudder stock must be—

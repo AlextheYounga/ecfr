@@ -1,5 +1,7 @@
 ##### § 62.50-1 General. #####
 
+Link to an amendment published at 89 FR 50195, June 12, 2024.
+
 (a) Where automated systems are provided to replace specific personnel in the control and observation of the engineering plant and spaces, or reduce overall crew requirements, the arrangements must make sure that under all sailing conditions, including maneuvering, the safety of the vessel is equal to that of the same vessel with the entire plant under fully attended direct manual supervision.
 
 (b) Coast Guard acceptance of automated systems to replace specific personnel or to reduce overall crew requirements is predicated upon—

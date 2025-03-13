@@ -154,8 +154,7 @@
 
 (ii) The total sum paid to the mechanical licensing collective under the blanket license, including the amount of any adjustment delivered contemporaneously with the annual report of usage.
 
-(iii) The total adjustment(s) made by any report of adjustment adjusting any monthly report of usage covered by the applicable annual reporting period, including any adjustment made in connection with the annual report of usage as described in paragraph (k)(1) of this section.
-Where the blanket licensee will receive an invoice under paragraph (k)(4) of this section with respect to an adjustment made in connection with the annual report of usage as described in paragraph (k)(1) of this section, the reporting of such total adjustment(s) may exclude non-invoiced amounts related to such adjustment.
+(iii) The total adjustment(s) made by any report of adjustment adjusting any monthly report of usage covered by the applicable annual reporting period, including any adjustment made in connection with the annual report of usage as described in paragraph (k)(1) of this section. Where the blanket licensee will receive an invoice under paragraph (k)(4) of this section with respect to an adjustment made in connection with the annual report of usage as described in paragraph (k)(1) of this section, the reporting of such total adjustment(s) may exclude non-invoiced amounts related to such adjustment.
 
 (iv) The total number of payable units, including, as applicable, permanent downloads, plays, and constructive plays, for each sound recording used, whether pursuant to a blanket license, voluntary license, or individual download license.
 

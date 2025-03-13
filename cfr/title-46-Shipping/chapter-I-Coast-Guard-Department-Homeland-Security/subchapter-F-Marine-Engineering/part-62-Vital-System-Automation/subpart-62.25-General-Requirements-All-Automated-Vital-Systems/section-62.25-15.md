@@ -1,5 +1,7 @@
 ##### § 62.25-15 Safety control systems. #####
 
+Link to an amendment published at 89 FR 50191, June 12, 2024.
+
 (a) Minimum safety trip controls required for specific types of automated vital systems are listed in Table 62.35-50.
 
 Note:

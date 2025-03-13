@@ -56,7 +56,7 @@ This section covers notices of termination of transfers and licenses under 17 U.
 
 (5) The handwritten signature of each person effecting the termination shall either be accompanied by a statement of the full name and address of that person, typewritten or printed legibly by hand, or shall clearly correspond to such a statement elsewhere in the notice.
 
-(d) *Service.*(1) The notice of termination shall be served upon each grantee whose rights are being terminated, or the grantee's successor in title, by:
+(d) *Service.* (1) The notice of termination shall be served upon each grantee whose rights are being terminated, or the grantee's successor in title, by:
 
 (i) Personal service;
 

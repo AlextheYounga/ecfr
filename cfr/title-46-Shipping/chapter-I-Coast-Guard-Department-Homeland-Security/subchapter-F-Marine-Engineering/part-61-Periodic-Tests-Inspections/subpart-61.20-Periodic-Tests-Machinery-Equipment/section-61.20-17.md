@@ -1,5 +1,7 @@
 ##### § 61.20-17 Examination intervals. #####
 
+Link to an amendment published at 89 FR 50189, June 12, 2024.
+
 (a) A lubricant that demonstrates the corrosion inhibiting properties of oil when tested in accordance with ASTM D 665 (incorporated by reference, see § 61.03-1) is considered to be equivalent to oil for the purposes of the tailshaft examination interval.
 
 (b) Except as provided in paragraphs (c) through (f) of this section, each tailshaft on a vessel must be examined twice within any 5 year period. No more than 3 years may elapse between any 2 tailshaft examinations.
