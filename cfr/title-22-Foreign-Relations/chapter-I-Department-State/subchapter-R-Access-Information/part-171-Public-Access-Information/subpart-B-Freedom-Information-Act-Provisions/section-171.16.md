@@ -1,5 +1,7 @@
 ##### § 171.16 Waiver or reduction of fees. #####
 
+Link to an amendment published at 88 FR 73755, Oct. 27, 2023.
+
 (a) Fees otherwise chargeable in connection with a request for disclosure of a record shall be waived or reduced where the requester seeks a waiver or reduction of fees and the Department determines, in its discretion, that disclosure is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in the commercial interest of the requester.
 
 (1) In deciding whether disclosure of the requested information is in the public interest because it is likely to contribute significantly to public understanding of operations or activities of the government, the Department shall consider all four of the following factors:
