@@ -1,4 +1,4 @@
-##### § 201.200 Sale of livestock to a packer on credit. #####
+##### § 201.200 Sale of livestock on credit. #####
 
 (a) No packer whose average annual purchases of livestock exceed $500,000 shall purchase livestock on credit, and no dealer or market agency acting as an agent for such a packer shall purchase livestock on credit, unless: (1) Before purchasing such livestock the packer obtains from the seller a written acknowledgment as follows:
 

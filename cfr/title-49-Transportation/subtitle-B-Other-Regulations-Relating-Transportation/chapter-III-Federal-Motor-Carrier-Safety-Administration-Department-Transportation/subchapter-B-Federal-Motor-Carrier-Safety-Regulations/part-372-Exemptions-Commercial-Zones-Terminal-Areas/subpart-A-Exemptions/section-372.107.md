@@ -1,5 +1,7 @@
 ##### § 372.107 Definitions. #####
 
+Link to an amendment published at 89 FR 13997, Feb. 26, 2024.
+
 As used in the regulations in this part, the following terms shall have the meaning shown:
 
 (a) *Cooperative association.* The term “cooperative association” means an association which conforms to the following definition in the Agricultural Marketing Act, approved June 15, 1929, as amended (12 U.S.C. 1141j):

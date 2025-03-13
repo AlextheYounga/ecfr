@@ -8,10 +8,12 @@
 
 (3) Legible and in English; and
 
-(4) Sent to the address found on our Web site (*http://www.fda.gov/tobaccoproducts*).
+(4) Sent to the address found on our website (*https://www.fda.gov/tobacco-products/manufacturing/tobacco-user-fees*).
 
 (b) If FDA determines that there was an error related to the assessment and the assessment was too high, FDA will refund the amount assessed in error to the domestic manufacturer or importer.
 
 (c) FDA will provide a dated, written response, and its response will provide information about how to submit a request for further Agency review.
 
-(d) A request for further Agency review under § 10.75 of this chapter may be submitted. Such a request must be submitted in writing by the domestic manufacturer or importer and received by FDA within 30 days from the date on FDA's response. The request for further Agency review must be legible, in English, and submitted to the address found on our Web site (*http://www.fda.gov/tobaccoproducts*).
+(d) A request for further Agency review under § 10.75 of this chapter may be submitted. Such a request must be submitted in writing by the domestic manufacturer or importer and received by FDA within 30 days from the date on FDA's response. The request for further Agency review must be legible, in English, and submitted to the address found on our website (*https://www.fda.gov/tobacco-products/manufacturing/tobacco-user-fees*).
+
+[79 FR 39310, July 10, 2014, as amended at 89 FR 13980, Feb. 26, 2024]

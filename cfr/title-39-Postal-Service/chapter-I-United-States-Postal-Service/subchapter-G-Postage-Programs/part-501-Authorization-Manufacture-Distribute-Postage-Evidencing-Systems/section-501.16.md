@@ -1,5 +1,7 @@
 ##### § 501.16 PC postage payment methodology. #####
 
+Link to an amendment published at 89 FR 13981, Feb. 26, 2024.
+
 (a) The PC Postage customer is permitted to make payments for postage in one of two ways: Automated clearinghouse (ACH) transfer or credit card.
 
 (b) The provider must make payments on behalf of the customer to the Postal Service in accordance with contractual and/or regulatory responsibilities.

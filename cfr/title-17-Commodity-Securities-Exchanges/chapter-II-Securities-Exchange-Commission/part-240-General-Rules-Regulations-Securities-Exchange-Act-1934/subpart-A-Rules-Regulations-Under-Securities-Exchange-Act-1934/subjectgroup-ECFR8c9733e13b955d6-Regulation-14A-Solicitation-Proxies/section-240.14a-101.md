@@ -1,6 +1,6 @@
 ##### § 240.14a-101 Schedule 14A. Information required in proxy statement. #####
 
-Schedule 14A InformationProxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934(Amendment No. )Filed by the Registrant [ ] Filed by a party other than the Registrant [ ] Check the appropriate box: [ ] Preliminary Proxy Statement [ ] Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) [ ] Definitive Proxy Statement [ ] Definitive Additional Materials [ ] Soliciting Material under § 240.14a-12(Name of Registrant as Specified In Its Charter)(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Link to an amendment published at 89 FR 14323, Feb. 26, 2024.Schedule 14A InformationProxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934(Amendment No. )Filed by the Registrant [ ] Filed by a party other than the Registrant [ ] Check the appropriate box: [ ] Preliminary Proxy Statement [ ] Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) [ ] Definitive Proxy Statement [ ] Definitive Additional Materials [ ] Soliciting Material under § 240.14a-12(Name of Registrant as Specified In Its Charter)(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
 
 Payment of Filing Fee (Check all boxes that apply):
 
@@ -245,8 +245,6 @@ However, if the solicitation is made on behalf of persons other than the registr
 (a) *Plans subject to security holder action.* (1) Describe briefly the material features of the plan being acted upon, identify each class of persons who will be eligible to participate therein, indicate the approximate number of persons in each such class, and state the basis of such participation.
 
 (2)(i) In the tabular format specified below, disclose the benefits or amounts that will be received by or allocated to each of the following under the plan being acted upon, if such benefits or amounts are determinable:
-
-New Plan Benefits
 
 |             Plan name              |                |               |
 |------------------------------------|----------------|---------------|
@@ -844,8 +842,6 @@ Information provided under paragraph (b)(8) of this Item 22 is deemed to satisfy
 
 (i) Furnish the information required by the following table for the last fiscal year:
 
-Compensation Table
-
 |          (1)           |              (2)               |                              (3)                              |                   (4)                   |                           (5)                            |
 |------------------------|--------------------------------|---------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------|
 |Name of Person, Position|Aggregate Compensation From Fund|Pension or Retirement Benefits Accrued as Part of Fund Expenses|Estimated Annual Benefits Upon Retirement|Total Compensation From Fund and Complex Paid to Directors|
@@ -1060,8 +1056,6 @@ Registered funds that must pay registration fees using Form 24F-2 (§ 274.24) ar
 
 Calculation of Filing Fee Tables
 
-Table 1—Transaction Valuation
-
 |                           |Proposed  <br/>maximum  <br/>aggregate  <br/>value of  <br/>transaction|Fee rate|Amount of  <br/>filing fee|
 |---------------------------|-----------------------------------------------------------------------|--------|--------------------------|
 |      Fees to Be Paid      |                                   X                                   |   X    |            X             |
@@ -1071,8 +1065,6 @@ Table 1—Transaction Valuation
 |Total Fees Previously Paid |                                                                       |        |            X             |
 |     Total Fee Offsets     |                                                                       |        |            X             |
 |        Net Fee Due        |                                                                       |        |            X             |
-
-Table 2—Fee Offset Claims and Sources
 
 |                  |Registrant or filer name|Form or  <br/>filing type|File number|Initial filing date|Filing date|Fee offset claimed|Fee paid with fee  <br/>offset source|
 |------------------|------------------------|-------------------------|-----------|-------------------|-----------|------------------|-------------------------------------|

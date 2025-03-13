@@ -1,5 +1,7 @@
 ##### § 210.3-14 Special instructions for financial statements of real estate operations acquired or to be acquired. #####
 
+Link to an amendment published at 89 FR 14314, Feb. 26, 2024.
+
 (a) *Financial statements required.* (1) Financial statements (except the related schedules specified in § 210.12) prepared and audited in accordance with Regulation S-X (including the independence standards in § 210.2-01 or, alternatively if the real estate operation is not a registrant, the applicable independence standards) for the periods specified in paragraph (b) of this section and the supplemental information specified in paragraph (f) of this section must be filed if any of the following conditions exist:
 
 (i) During the most recent fiscal year or subsequent interim period for which a balance sheet is required by § 210.3-01, an acquisition of a real estate operation has occurred; or

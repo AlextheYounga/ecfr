@@ -1,7 +1,5 @@
 ##### § 620.5 Contents of the annual report to shareholders. #####
 
-Link to an amendment published at 88 FR 89286, Dec. 27, 2023.
-
 The report must contain the following items in substantially the same order:
 
 (a) *Description of business.* The description must include a brief discussion of the following items:
@@ -260,8 +258,8 @@ The report must contain the following items in substantially the same order:
 
 (k) *Credit and services to young, beginning, and small farmers and ranchers and producers or harvesters of aquatic products.* (1) Each direct lender association must describe the YBS demographics in its territory and the source of the demographic data. If there are differences in the methods by which the demographic and YBS data are presented, these differences must be described.
 
-(2) Each direct lender association must provide a description of its YBS program, including a status report on each program component as set forth in § 614.4165(c) of this chapter and the definitions of “young,” “beginning,” and “small” farmers and ranchers. The discussion must provide such other information necessary for a comprehensive understanding of the direct lender association's YBS program and its results.
+(2) Each direct lender association must provide a description of its YBS program, including a status report on each program component as set forth in § 614.4165 (d) of this chapter and the definitions of “young,” “beginning,” and “small” farmers and ranchers. The discussion must provide such other information necessary for a comprehensive understanding of the direct lender association's YBS program and its results.
 
 (3) Each Farm Credit bank must include a summary report of the quantitative YBS data from its affiliated direct lender associations as described in FCA's instructions for the annual YBS yearend report. The report must include the definitions of “young,” “beginning,” and “small” farmers and ranchers. A narrative report may be necessary for an ample understanding of the YBS mission results.
 
-[51 FR 8656, Mar. 13, 1986, as amended at 69 FR 16471, Mar. 30, 2004; 70 FR 53909, Sept. 13, 2005; 71 FR 5764, Feb. 2, 2006; 71 FR 76119, Dec. 20, 2006; 72 FR 4414, Jan. 31, 2007; 74 FR 28599, June 17, 2009; 75 FR 18744, Apr. 12, 2010; 77 FR 60597, Oct. 3, 2012; 78 FR 31834, May 28, 2013; 79 FR 17856, Mar. 31, 2014; 81 FR 49778, July 28, 2016; 86 FR 54357, Oct. 1, 2021; 87 FR 27492, May 9, 2022]
+[51 FR 8656, Mar. 13, 1986, as amended at 69 FR 16471, Mar. 30, 2004; 70 FR 53909, Sept. 13, 2005; 71 FR 5764, Feb. 2, 2006; 71 FR 76119, Dec. 20, 2006; 72 FR 4414, Jan. 31, 2007; 74 FR 28599, June 17, 2009; 75 FR 18744, Apr. 12, 2010; 77 FR 60597, Oct. 3, 2012; 78 FR 31834, May 28, 2013; 79 FR 17856, Mar. 31, 2014; 81 FR 49778, July 28, 2016; 86 FR 54357, Oct. 1, 2021; 87 FR 27492, May 9, 2022; 88 FR 89286, Dec. 27, 2023]

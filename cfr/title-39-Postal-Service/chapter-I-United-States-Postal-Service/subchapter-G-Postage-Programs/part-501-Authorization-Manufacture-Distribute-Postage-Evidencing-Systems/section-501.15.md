@@ -1,5 +1,7 @@
 ##### § 501.15 Computerized Meter Resetting System. #####
 
+Link to an amendment published at 89 FR 13981, Feb. 26, 2024.
+
 (a) *Description.* The Computerized Meter Resetting System (CMRS) permits customers to reset their postage meters at their places of business. Authorized providers, who operate CMRS services, are known as resetting companies (RCs).
 
 (b) A customer is required to have funds available on deposit with the Postal Service before resetting a Postage Evidencing System or the provider may opt to provide a funds advance in accordance with paragraph (c) of this section.

@@ -1,5 +1,7 @@
 ##### § 240.14c-2 Distribution of information statement. #####
 
+Link to an amendment published at 89 FR 14324, Feb. 26, 2024.
+
 (a)(1) In connection with every annual or other meeting of the holders of the class of securities registered pursuant to section 12 of the Act or of a class of securities issued by an investment company registered under the Investment Company Act of 1940 that has made a public offering of securities, including the taking of corporate action by the written authorization or consent of security holders, the registrant shall transmit to every security holder of the class that is entitled to vote or give an authorization or consent in regard to any matter to be acted upon and from whom proxy authorization or consent is not solicited on behalf of the registrant pursuant to section 14(a) of the Act:
 
 (i) A written information statement containing the information specified in Schedule 14C (§ 240.14c-101);

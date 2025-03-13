@@ -1,54 +1,52 @@
 ##### § 106.4 Premium processing service. #####
 
-Link to an amendment published at 88 FR 89550, Dec. 28, 2023.
-
 (a) *General.* A person may submit a request to USCIS for premium processing of certain immigration benefit requests, subject to processing timeframes and fees, as described in this section.
 
 (b) *Submitting a request.* A request must be submitted on the form and in the manner prescribed by USCIS in the form instructions. If the request for premium processing is submitted together with the underlying immigration benefit request, all required fees in the correct amount must be paid. The fee to request premium processing service may not be waived and must be paid in addition to, and in a separate remittance from, other filing fees.
 
 (c) *Designated benefit requests and fee amounts.* Benefit requests designated for premium processing and the corresponding fees to request premium processing service are as follows:
 
-(1) Application for classification of a nonimmigrant described in section 101(a)(15)(E)(i), (ii), or (iii) of the INA—$2,500.
+(1) Application for classification of a nonimmigrant described in section 101(a)(15)(E)(i), (ii), or (iii) of the INA—$2,805.
 
-(2) Petition for classification of a nonimmigrant described in section 101(a)(15)(H)(i)(b) of the INA or section 222(a) of the Immigration Act of 1990, Public Law 101-649—$2,500.
+(2) Petition for classification of a nonimmigrant described in section 101(a)(15)(H)(i)(b) of the INA or section 222(a) of the Immigration Act of 1990, Public Law 101-649—$2,805.
 
-(3) Petition for classification of a nonimmigrant described in section 101(a)(15)(H)(ii)(b) of the INA—$1,500.
+(3) Petition for classification of a nonimmigrant described in section 101(a)(15)(H)(ii)(b) of the INA—$1,685.
 
-(4) Petition for classification of a nonimmigrant described in section 101(a)(15)(H)(iii) of the INA—$2,500.
+(4) Petition for classification of a nonimmigrant described in section 101(a)(15)(H)(iii) of the INA—$2,805.
 
-(5) Petition for classification of a nonimmigrant described in section 101(a)(15)(L) of the INA—$2,500.
+(5) Petition for classification of a nonimmigrant described in section 101(a)(15)(L) of the INA—$2,805.
 
-(6) Petition for classification of a nonimmigrant described in section 101(a)(15)(O)(i) or (ii) of the INA—$2,500.
+(6) Petition for classification of a nonimmigrant described in section 101(a)(15)(O)(i) or (ii) of the INA—$2,805.
 
-(7) Petition for classification of a nonimmigrant described in section 101(a)(15)(P)(i), (ii), or (iii) of the INA—$2,500.
+(7) Petition for classification of a nonimmigrant described in section 101(a)(15)(P)(i), (ii), or (iii) of the INA—$2,805.
 
-(8) Petition for classification of a nonimmigrant described in section 101(a)(15)(Q) of the INA—$2,500.
+(8) Petition for classification of a nonimmigrant described in section 101(a)(15)(Q) of the INA—$2,805.
 
-(9) Petition for classification of a nonimmigrant described in section 101(a)(15)(R) of the INA—$1,500.
+(9) Petition for classification of a nonimmigrant described in section 101(a)(15)(R) of the INA—$1,685.
 
-(10) Application for classification of a nonimmigrant described in section 214(e) of the INA—$2,500.
+(10) Application for classification of a nonimmigrant described in section 214(e) of the INA—$2,805.
 
-(11) Petition for classification under section 203(b)(1)(A) of the INA—$2,500.
+(11) Petition for classification under section 203(b)(1)(A) of the INA—$2,805.
 
-(12) Petition for classification under section 203(b)(1)(B) of the INA—$2,500.
+(12) Petition for classification under section 203(b)(1)(B) of the INA—$2,805.
 
-(13) Petition for classification under section 203(b)(2)(A) of the INA not involving a waiver under section 203(b)(2)(B) of the INA—$2,500.
+(13) Petition for classification under section 203(b)(2)(A) of the INA not involving a waiver under section 203(b)(2)(B) of the INA—$2,805.
 
-(14) Petition for classification under section 203(b)(3)(A)(i) of the INA—$2,500.
+(14) Petition for classification under section 203(b)(3)(A)(i) of the INA—$2,805.
 
-(15) Petition for classification under section 203(b)(3)(A)(ii) of the INA—$2,500.
+(15) Petition for classification under section 203(b)(3)(A)(ii) of the INA—$2,805.
 
-(16) Petition for classification under section 203(b)(3)(A)(iii) of the INA—$2,500.
+(16) Petition for classification under section 203(b)(3)(A)(iii) of the INA—$2,805.
 
-(17) Petition for classification under section 203(b)(1)(C) of the INA—$2,500.
+(17) Petition for classification under section 203(b)(1)(C) of the INA—$2,805.
 
-(18) Petition for classification under section 203(b)(2) of the INA involving a waiver under section 203(b)(2)(B) of the INA—$2,500.
+(18) Petition for classification under section 203(b)(2) of the INA involving a waiver under section 203(b)(2)(B) of the INA—$2,805.
 
-(19) Application under section 248 of the INA to change status to a classification described in section 101(a)(15)(F), (J), or (M) of the INA—$1,750.
+(19) Application under section 248 of the INA to change status to a classification described in section 101(a)(15)(F), (J), or (M) of the INA—$1,965.
 
-(20) Application under section 248 of the INA to change status to be classified as a dependent of a nonimmigrant described in section 101(a)(15)(E), (H), (L), (O), (P), or (R) of the INA, or to extend stay in such classification—$1,750.
+(20) Application under section 248 of the INA to change status to be classified as a dependent of a nonimmigrant described in section 101(a)(15)(E), (H), (L), (O), (P), or (R) of the INA, or to extend stay in such classification—$1,965.
 
-(21) Application for employment authorization—$1,500.
+(21) Application for employment authorization—$1,685.
 
 (d) *Fee adjustments.* The fee to request premium processing service may be adjusted by notice in the Federal Register on a biennial basis based on the percentage by which the Consumer Price Index for All Urban Consumers for the month of June preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the second preceding calendar year.
 
@@ -114,4 +112,4 @@ Link to an amendment published at 88 FR 89550, Dec. 28, 2023.
 
 (2) USCIS may suspend the availability of premium processing for immigration benefit requests designated for premium processing if circumstances prevent the completion of processing of a significant number of such requests within the applicable processing timeframe.
 
-[87 FR 18260, Mar. 30, 2022]
+[87 FR 18260, Mar. 30, 2022, as amended at 88 FR 89550, Dec. 28, 2023]
